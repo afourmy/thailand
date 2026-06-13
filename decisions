@@ -1,63 +1,24 @@
-tamago-l3-686 ขึ้นบ้าน: remove card
-tamago-l3-699 บอบบาง: eng 'fragile, frail'
-tamago-l3-705 ล้างแค้น: eng 'to take revenge, to avenge'
-tamago-l3-766 ลงมือทำ: remove card
-tamago-l3-772 วิจารณ์: eng 'to criticize, review, evaluate'
-tamago-l3-802 บิด: eng 'to twist, to wring out, to turn'
-tamago-l3-822 หมั่น: eng 'to be diligent, to be persistent, to practice regularly'
-tamago-l3-858 ทำท่า: eng 'to pretend, to act like, to make a gesture (as if)'
-tsl-077 เพิกเฉย: eng 'to ignore, to disregard, to turn a blind eye to'
-tsl-084 คําบรรยาย, ซับ: remove card
-tsl-168 ดิ้น: eng 'to wriggle, to squirm, to thrash'
-tsl-228 ยั่งยืน: eng 'sustainable, long-lasting'
-tsl-247 เสื้อคอกระเช้า: eng 'sleeveless top (traditional Thai top)'
-tsl-258 รับจ้าง: eng 'to accept a job (contract), to work as a freelancer'
-tsl-288 คาดฝัน: eng 'to anticipate, to look forward to, to dream of'
-tsl-081 หนังแนววิทยาศาสตร์: remove card
-tsl-323 ซอง: eng 'envelope'
-thaipod-1150 อ้า: eng 'to open wide (e.g mouth, door)'
-tsl-375 แปลกปลอม: eng 'foreign, out-of-place, alien'
-tsl-422 เฉพาะหน้า: eng 'immediate, on-the-spot, in the moment'
-tsl-491 ภาพโป๊: eng 'nude, pornographic images'
-tsl-603 พลศึกษา: eng 'physical education (P.E, at school), gymnastics'
-tsl-504 เพาะ: eng 'to cultivate, to breed, to implant'
-tsl-453 หนักอึ้ง: eng 'very heavy, crushingly heavy (literal or emotional)'
-thaipod-0034 กอง: eng 'pile, heap; division (e.g army)'
-thaipod-0110 ก้มลง: remove card
-thaipod-0011 กระจายอยู่: remove card
-thaipod-0493 นำแสดง: eng 'to star in, to play the lead role (movie, show)'
-thaipod-0988 สอบคัดเลือก: eng 'entrance exam, selection exam'
-tsl-499 ผลที่ตามมา: eng 'consequence, aftermath, result'
-tsl-618 ทัดเทียมกัน: eng 'equivalent, comparable, evenly matched'
-tsl-621 ป่อง: eng 'scorpion; bloated, swollen'
-tsl-635 เกื้อกูล: eng 'to support, to help out, to be mutually beneficial'
-thaipod-0213 คำขอ: eng 'request, application, petition'
-thaipod-0279 ชาว: eng 'people (native from), inhabitants of'
-thaipod-0272 ชม: eng 'to admire, to compliment; to view (formal)'
-thaipod-0287 ชุดขาว: remove card
-thaipod-0319 ดารานำชาย: eng 'male lead actor'
-thaipod-0320 ดารานําแสดง: eng 'lead actor'
-thaipod-0337 ด้วยดี: eng 'amicably, peacefully, without troubles, on good terms'
-thaipod-0356 ตัดกับ: eng 'to contrast with, to clash with'
-thaipod-0607 ผลักดัน: eng 'to push forward, to promote, to drive forward'
-thaipod-0628 ฝัง: eng 'to bury; to embed, to implant'
+tsl-619b ชดเชย: eng 'to compensate, to make up for, to offset'
+t4k-c02-037 สูญเสีย: remove card
+yt-c06-029 ชดเชย: remove card
+yt-c22-041 ชดใช้: remove card
+thaipod-0748 ภาพประกอบ: eng 'illustration, diagram'
+thaipod-0453 ที่ระลึก: eng 'souvenir, keepsake'
+thaipod-0805 ยื่นออกไป: remove card
+thaipod-0868 ริมฝั่ง: eng 'waterfront, along the coast'
+thaipod-0873 รู้ทัน: eng 'to see through someone's intentions, to read someone's game'
+thaipod-0909 ล้อมรอบอยู่: remove card
+thaipod-0919 วางแนวทาง: eng 'to set the course, to establish an approach'
+thaipod-0920 วิชาเอก, สาขาเอก: eng 'academic major (university)'
+thaipod-0982 สวม: eng 'to wear, to put on (formal)'
+thaipod-1150 อ้า: eng 'to open wide'
+thaipod-1028 สีสัน: eng 'colorful; (fig) liveliness, vibrancy'
+thaipod-1032 สืบเนื่อง: eng 'to stem from, to result from, to be a continuation of'
+thaipod-0888 ลอด: eng 'to slip through (underneath), to go under'
+tobo-188 สายเคเบิล: remove card
+tobo-400 ประกัน: eng 'insurance, guarantee'
+yt-c01-081 ชีวิตรอด: remove card
 
-tsl-513 สูญเสีย - สูญสิ้น: split into two cards:
-สูญเสีย: to suffer a loss, to lose (sth important)
-สูญสิ้น: to be irrecoverably lost, to be completely gone
-tsl-607 โค่น: eng 'to make sth large fall (e.g a tree, a government), to topple, to bring down'
+merge tobo-509 รอดชีวิต and thaipod-0824 รอด as 'รอด, รอดชีวิต' (keep tobo-509) 
 
-tsl-619 ชดใช้, ชดเชย: split into two cards:
-ชดใช้: to pay back, to make amends (for damage, wrongdoing)
-ชดเชย: to compensate, to offset
-
-thaipod-0156 คบ: make it 'คบ, คบหา' and remove thaipod-0157 คบหา
-
-tsl-091 ไปทำงานต่างประเทศ - ต่างจังหวัด: split into two cards 'ไปทำงานต่างประเทศ: to go on a business trip abroad' - 'ไปทำงานต่างจังหวัด: to go on a business trip to another province'
-
-tamago-l3-619 มีส่วนร่วม: make it 'มีส่วน, มีส่วนร่วม'
-thaipod-0780 มีส่วน: remove card
-
-occasional: tamago-l3-692 หน้าโหด, tamago-l3-709 ขายทิ้ง, tamago-l3-746 แววตา, tamago-l3-760 มือกลอง, tamago-l3-769 กระโดดโลดเต้น, tamago-l3-770 คำติ, tamago-l3-771 ความสามารถรอบด้าน, tamago-l3-785 เป็นที่ถกเถียงกัน, tsl-059 เสื้อวอ, tsl-168 ดิ้น, tsl-174 ของกำนัล, tsl-197 แม่เหล็ก, tsl-216 กําให้แน่น, tsl-241 คลุมทับ, tsl-247 เสื้อคอกระเช้า, tsl-269 รัฐวิสาหกิจ, tsl-274 ใบปลิว, tsl-291 เปี่ยมพลัง, thaipod-1239 เพลงประกอบ, thaipod-1269 เศษผ้า, tsl-320 เบ็ดเตล็ด, tsl-339 ถ้อยคำ, tsl-378 ถ้วยตวง, tsl-465 เคลิ้มหลับ, tsl-450 ฮัม, tsl-613 ประณีต
-
-rare: tsl-394 อย., สำนักงานคณะกรรมการอาหารและยา
+occasional: thaipod-0746 ภาคต่อ, thaipod-0860 รายล้อม, thaipod-0868 ริมฝั่ง, thaipod-0882 รําลึก, thaipod-1156 เกินคาด, thaipod-1031 สืบต่อกันมา, thaipod-1032 สืบเนื่อง, tobo-424 ความรู้สึกตัว
