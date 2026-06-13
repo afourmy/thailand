@@ -6264,3 +6264,66 @@ Cards edited: 51
 Deletions: 12
 Vocab: 9422 -> 9410
 
+
+======================================================================
+Free-form decisions file batch 11 — eng edits, deletes, 3 splits, 2 merges, freq lists
+
+    edit tamago-l3-699.english = 'fragile, frail'
+    edit tamago-l3-705.english = 'to take revenge, to avenge'
+    edit tamago-l3-772.english = 'to criticize, review, evaluate'
+    edit tamago-l3-802.english = 'to twist, to wring out, to turn'
+    edit tamago-l3-822.english = 'to be diligent, to be persistent, to practice regularly'
+    edit tamago-l3-858.english = 'to pretend, to act like, to make a gesture (as if)'
+    edit tsl-077.english = 'to ignore, to disregard, to turn a blind eye to'
+    edit tsl-168.english = 'to wriggle, to squirm, to thrash'
+    edit tsl-228.english = 'sustainable, long-lasting'
+    edit tsl-247.english = 'sleeveless top (traditional Thai top)'
+    edit tsl-258.english = 'to accept a job (contract), to work as a freelancer'
+    edit tsl-288.english = 'to anticipate, to look forward to, to dream of'
+    edit tsl-323.english = 'envelope'
+    edit thaipod-1150.english = 'to open wide (e.g mouth, door)'
+    edit tsl-375.english = 'foreign, out-of-place, alien'
+    edit tsl-422.english = 'immediate, on-the-spot, in the moment'
+    edit tsl-491.english = 'nude, pornographic images'
+    edit tsl-603.english = 'physical education (P.E, at school), gymnastics'
+    edit tsl-504.english = 'to cultivate, to breed, to implant'
+    edit tsl-453.english = 'very heavy, crushingly heavy (literal or emotional)'
+    edit thaipod-0034.english = 'pile, heap; division (e.g army)'
+    edit thaipod-0493.english = 'to star in, to play the lead role (movie, show)'
+    edit thaipod-0988.english = 'entrance exam, selection exam'
+    edit tsl-499.english = 'consequence, aftermath, result'
+    edit tsl-618.english = 'equivalent, comparable, evenly matched'
+    edit tsl-621.english = 'scorpion; bloated, swollen'
+    edit tsl-635.english = 'to support, to help out, to be mutually beneficial'
+    edit thaipod-0213.english = 'request, application, petition'
+    edit thaipod-0279.english = 'people (native from), inhabitants of'
+    edit thaipod-0272.english = 'to admire, to compliment; to view (formal)'
+    edit thaipod-0319.english = 'male lead actor'
+    edit thaipod-0320.english = 'lead actor'
+    edit thaipod-0337.english = 'amicably, peacefully, without troubles, on good terms'
+    edit thaipod-0356.english = 'to contrast with, to clash with'
+    edit thaipod-0607.english = 'to push forward, to promote, to drive forward'
+    edit thaipod-0628.english = 'to bury; to embed, to implant'
+    edit tsl-607.english = 'to make sth large fall (e.g a tree, a government), to topple, to bring down'
+    merge thaipod-0156.thai = 'คบ, คบหา'
+    merge tamago-l3-619.thai = 'มีส่วน, มีส่วนร่วม'
+    split tsl-513 -> tsl-513: สูญเสีย = 'to suffer a loss, to lose (sth important)'
+    split tsl-513 -> tsl-513b: สูญสิ้น = 'to be irrecoverably lost, to be completely gone'
+    split tsl-619 -> tsl-619: ชดใช้ = 'to pay back, to make amends (for damage, wrongdoing)'
+    split tsl-619 -> tsl-619b: ชดเชย = 'to compensate, to offset'
+    split tsl-091 -> tsl-091: ไปทำงานต่างประเทศ = 'to go on a business trip abroad'
+    split tsl-091 -> tsl-091b: ไปทำงานต่างจังหวัด = 'to go on a business trip to another province'
+    frequency occasional (26): tamago-l3-692, tamago-l3-709, tamago-l3-746, tamago-l3-760, tamago-l3-769, tamago-l3-770, tamago-l3-771, tamago-l3-785, thaipod-1239, thaipod-1269, tsl-059, tsl-168, tsl-174, tsl-197, tsl-216, tsl-241, tsl-247, tsl-269, tsl-274, tsl-291, tsl-320, tsl-339, tsl-378, tsl-450, tsl-465, tsl-613
+    frequency rare (1): tsl-394
+    delete thaipod-0287
+    delete thaipod-0011
+    delete thaipod-0110
+    delete thaipod-0780
+    delete tamago-l3-766
+    delete tsl-084
+    delete tsl-081
+    delete tamago-l3-686
+    delete thaipod-0157
+Eng edits: 37  Merges: 2  Splits: 3  Deletes: 9
+Vocab: 9410 -> 9404
+

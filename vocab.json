@@ -24542,7 +24542,7 @@
   },
   {
     "id": "tamago-l3-619",
-    "thai": "มีส่วนร่วม",
+    "thai": "มีส่วน, มีส่วนร่วม",
     "english": "to take part in, to be involved in",
     "frequency": "common",
     "topic": "general",
@@ -25257,16 +25257,6 @@
     ]
   },
   {
-    "id": "tamago-l3-686",
-    "thai": "ขึ้นบ้าน",
-    "english": "to break into someone's house, to barge in",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
     "id": "tamago-l3-687",
     "thai": "มักน้อย",
     "english": "modest, content with little",
@@ -25325,7 +25315,7 @@
     "id": "tamago-l3-692",
     "thai": "หน้าโหด",
     "english": "intimidating face, mean-looking",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3"
@@ -25394,7 +25384,7 @@
   {
     "id": "tamago-l3-699",
     "thai": "บอบบาง",
-    "english": "delicate, fragile, tender",
+    "english": "fragile, frail",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -25463,7 +25453,7 @@
   {
     "id": "tamago-l3-705",
     "thai": "ล้างแค้น",
-    "english": "to seek revenge",
+    "english": "to take revenge, to avenge",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -25506,7 +25496,7 @@
     "id": "tamago-l3-709",
     "thai": "ขายทิ้ง",
     "english": "to sell off to get rid of",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3"
@@ -25900,7 +25890,7 @@
     "id": "tamago-l3-746",
     "thai": "แววตา",
     "english": "gaze, look in someone's eyes",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3",
@@ -26049,7 +26039,7 @@
     "id": "tamago-l3-760",
     "thai": "มือกลอง",
     "english": "drummer",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3"
@@ -26099,16 +26089,6 @@
     ]
   },
   {
-    "id": "tamago-l3-766",
-    "thai": "ลงมือทำ",
-    "english": "to take action, to get started",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
     "id": "tamago-l3-767",
     "thai": "เกินจริง",
     "english": "exaggerated, unrealistic",
@@ -26132,7 +26112,7 @@
     "id": "tamago-l3-769",
     "thai": "กระโดดโลดเต้น",
     "english": "to jump around with excitement and joy",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3"
@@ -26142,7 +26122,7 @@
     "id": "tamago-l3-770",
     "thai": "คำติ",
     "english": "criticism",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3"
@@ -26152,7 +26132,7 @@
     "id": "tamago-l3-771",
     "thai": "ความสามารถรอบด้าน",
     "english": "versatile abilities, all-around ability",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3"
@@ -26161,7 +26141,7 @@
   {
     "id": "tamago-l3-772",
     "thai": "วิจารณ์",
-    "english": "to criticize, to comment on",
+    "english": "to criticize, review, evaluate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -26312,7 +26292,7 @@
     "id": "tamago-l3-785",
     "thai": "เป็นที่ถกเถียงกัน",
     "english": "controversial, debated",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tamago L3"
@@ -26489,7 +26469,7 @@
   {
     "id": "tamago-l3-802",
     "thai": "บิด",
-    "english": "to twist, to wring (out)",
+    "english": "to twist, to wring out, to turn",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -26688,7 +26668,7 @@
   {
     "id": "tamago-l3-822",
     "thai": "หมั่น",
-    "english": "to keep on doing sth, to do regularly",
+    "english": "to be diligent, to be persistent, to practice regularly",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -27068,7 +27048,7 @@
   {
     "id": "tamago-l3-858",
     "thai": "ทำท่า",
-    "english": "to pretend, to act like, to seem (as if)",
+    "english": "to pretend, to act like, to make a gesture (as if)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -27863,7 +27843,7 @@
     "id": "tsl-059",
     "thai": "เสื้อวอ",
     "english": "polo shirt (typically uniform-style)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -28044,7 +28024,7 @@
   {
     "id": "tsl-077",
     "thai": "เพิกเฉย",
-    "english": "to ignore, to disregard, to pay no attention to",
+    "english": "to ignore, to disregard, to turn a blind eye to",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -28073,16 +28053,6 @@
     ]
   },
   {
-    "id": "tsl-081",
-    "thai": "หนังแนววิทยาศาสตร์",
-    "english": "science-fiction movie",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "TSL Chiang Mai"
-    ]
-  },
-  {
     "id": "tsl-082",
     "thai": "หนังรักโรแมนติก",
     "english": "romantic movie",
@@ -28101,16 +28071,6 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
-    ]
-  },
-  {
-    "id": "tsl-084",
-    "thai": "คําบรรยาย, ซับ",
-    "english": "subtitles",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "TSL Chiang Mai"
     ]
   },
   {
@@ -28168,8 +28128,18 @@
   },
   {
     "id": "tsl-091",
-    "thai": "ไปทำงานต่างประเทศ - ต่างจังหวัด",
-    "english": "to go on a business trip (abroad - to another province)",
+    "thai": "ไปทำงานต่างประเทศ",
+    "english": "to go on a business trip abroad",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "TSL Chiang Mai"
+    ]
+  },
+  {
+    "id": "tsl-091b",
+    "thai": "ไปทำงานต่างจังหวัด",
+    "english": "to go on a business trip to another province",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -28947,8 +28917,8 @@
   {
     "id": "tsl-168",
     "thai": "ดิ้น",
-    "english": "to wriggle, to squirm",
-    "frequency": "common",
+    "english": "to wriggle, to squirm, to thrash",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai",
@@ -28993,7 +28963,7 @@
     "id": "tsl-174",
     "thai": "ของกำนัล",
     "english": "present, token of appreciation (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -29223,7 +29193,7 @@
     "id": "tsl-197",
     "thai": "แม่เหล็ก",
     "english": "magnet, magnetic",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai",
@@ -29403,7 +29373,7 @@
     "id": "tsl-216",
     "thai": "กําให้แน่น",
     "english": "to hold tightly, to grip firmly",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -29523,7 +29493,7 @@
   {
     "id": "tsl-228",
     "thai": "ยั่งยืน",
-    "english": "sustainable",
+    "english": "sustainable, long-lasting",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -29661,7 +29631,7 @@
     "id": "tsl-241",
     "thai": "คลุมทับ",
     "english": "to overlay, to layer on top, to cover over",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -29721,8 +29691,8 @@
   {
     "id": "tsl-247",
     "thai": "เสื้อคอกระเช้า",
-    "english": "sleeveless top (Thai-style camisole)",
-    "frequency": "common",
+    "english": "sleeveless top (traditional Thai top)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -29830,7 +29800,7 @@
   {
     "id": "tsl-258",
     "thai": "รับจ้าง",
-    "english": "to accept a job/contract, to work as a freelancer",
+    "english": "to accept a job (contract), to work as a freelancer",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -29947,7 +29917,7 @@
     "id": "tsl-269",
     "thai": "รัฐวิสาหกิจ",
     "english": "state enterprise, government-owned corporation",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai",
@@ -29998,7 +29968,7 @@
     "id": "tsl-274",
     "thai": "ใบปลิว",
     "english": "flyer, leaflet",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -30140,7 +30110,7 @@
   {
     "id": "tsl-288",
     "thai": "คาดฝัน",
-    "english": "to expect, to anticipate; to hope for",
+    "english": "to anticipate, to look forward to, to dream of",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -30161,7 +30131,7 @@
     "id": "tsl-291",
     "thai": "เปี่ยมพลัง",
     "english": "full of energy, powerful",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -30464,7 +30434,7 @@
     "id": "tsl-320",
     "thai": "เบ็ดเตล็ด",
     "english": "miscellaneous, sundry, various small items",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -30496,7 +30466,7 @@
   {
     "id": "tsl-323",
     "thai": "ซอง",
-    "english": "envelope; parking slot",
+    "english": "envelope",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -30651,7 +30621,7 @@
     "id": "tsl-339",
     "thai": "ถ้อยคำ",
     "english": "words, speech, wording",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai",
@@ -31004,7 +30974,7 @@
   {
     "id": "tsl-375",
     "thai": "แปลกปลอม",
-    "english": "to infiltrate, to impersonate; foreign, out-of-place, alien",
+    "english": "foreign, out-of-place, alien",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -31036,7 +31006,7 @@
     "id": "tsl-378",
     "thai": "ถ้วยตวง",
     "english": "measuring cup",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -31207,7 +31177,7 @@
     "id": "tsl-394",
     "thai": "อย., สำนักงานคณะกรรมการอาหารและยา",
     "english": "Thai Food and Drug Administration (FDA equivalent)",
-    "frequency": "common",
+    "frequency": "rare",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -31486,7 +31456,7 @@
   {
     "id": "tsl-422",
     "thai": "เฉพาะหน้า",
-    "english": "immediate, on-the-spot, off the cuff",
+    "english": "immediate, on-the-spot, in the moment",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -31778,7 +31748,7 @@
     "id": "tsl-450",
     "thai": "ฮัม",
     "english": "to hum (a tune)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -31809,7 +31779,7 @@
   {
     "id": "tsl-453",
     "thai": "หนักอึ้ง",
-    "english": "very heavy (literal or emotional)",
+    "english": "very heavy, crushingly heavy (literal or emotional)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -31936,7 +31906,7 @@
     "id": "tsl-465",
     "thai": "เคลิ้มหลับ",
     "english": "to drift off to sleep, to doze off",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai"
@@ -32187,7 +32157,7 @@
   {
     "id": "tsl-491",
     "thai": "ภาพโป๊",
-    "english": "nude / pornographic images",
+    "english": "nude, pornographic images",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -32277,7 +32247,7 @@
   {
     "id": "tsl-499",
     "thai": "ผลที่ตามมา",
-    "english": "consequence(s), result(s)",
+    "english": "consequence, aftermath, result",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -32320,7 +32290,7 @@
   {
     "id": "tsl-504",
     "thai": "เพาะ",
-    "english": "to cultivate, to grow, to implant",
+    "english": "to cultivate, to breed, to implant",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -32416,8 +32386,18 @@
   },
   {
     "id": "tsl-513",
-    "thai": "สูญเสีย - สูญสิ้น",
-    "english": "to lose (sth important) - to be irrecoverably lost, to perish",
+    "thai": "สูญเสีย",
+    "english": "to suffer a loss, to lose (sth important)",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "TSL Chiang Mai"
+    ]
+  },
+  {
+    "id": "tsl-513b",
+    "thai": "สูญสิ้น",
+    "english": "to be irrecoverably lost, to be completely gone",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -33317,7 +33297,7 @@
   {
     "id": "tsl-603",
     "thai": "พลศึกษา",
-    "english": "physical education (school subject); gymnastics",
+    "english": "physical education (P.E, at school), gymnastics",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -33358,7 +33338,7 @@
   {
     "id": "tsl-607",
     "thai": "โค่น",
-    "english": "to fell (a tree), to topple, to overthrow",
+    "english": "to make sth large fall (e.g a tree, a government), to topple, to bring down",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -33422,7 +33402,7 @@
     "id": "tsl-613",
     "thai": "ประณีต",
     "english": "exquisite, refined, meticulously crafted",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "TSL Chiang Mai",
@@ -33475,7 +33455,7 @@
   {
     "id": "tsl-618",
     "thai": "ทัดเทียมกัน",
-    "english": "equal, equivalent, comparable",
+    "english": "equivalent, comparable, evenly matched",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -33484,8 +33464,18 @@
   },
   {
     "id": "tsl-619",
-    "thai": "ชดใช้, ชดเชย",
-    "english": "to pay back, to compensate, to make amends",
+    "thai": "ชดใช้",
+    "english": "to pay back, to make amends (for damage, wrongdoing)",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "TSL Chiang Mai"
+    ]
+  },
+  {
+    "id": "tsl-619b",
+    "thai": "ชดเชย",
+    "english": "to compensate, to offset",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -33505,7 +33495,7 @@
   {
     "id": "tsl-621",
     "thai": "ป่อง",
-    "english": "bloated, swollen, puffed up",
+    "english": "scorpion; bloated, swollen",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -33626,7 +33616,7 @@
   {
     "id": "tsl-635",
     "thai": "เกื้อกูล",
-    "english": "to support, to help, to lend a hand",
+    "english": "to support, to help out, to be mutually beneficial",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -33836,16 +33826,6 @@
     "id": "thaipod-0009",
     "thai": "กระจัดกระจาย",
     "english": "scattered, spread out",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
-    "id": "thaipod-0011",
-    "thai": "กระจายอยู่",
-    "english": "scattered, dispersed",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -34087,7 +34067,7 @@
   {
     "id": "thaipod-0034",
     "thai": "กอง",
-    "english": "pile, heap; division (e.g army); classifier",
+    "english": "pile, heap; division (e.g army)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -34598,16 +34578,6 @@
     ]
   },
   {
-    "id": "thaipod-0110",
-    "thai": "ก้มลง",
-    "english": "to bend over, to bow down",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0111",
     "thai": "ก้าวขึ้น",
     "english": "to step up, to ascend",
@@ -35020,23 +34990,13 @@
   },
   {
     "id": "thaipod-0156",
-    "thai": "คบ",
+    "thai": "คบ, คบหา",
     "english": "to date, to associate with, to befriend",
     "frequency": "common",
     "topic": "general",
     "sources": [
       "Thaipod101",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "thaipod-0157",
-    "thai": "คบหา",
-    "english": "to befriend, to associate with",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -35514,7 +35474,7 @@
   {
     "id": "thaipod-0213",
     "thai": "คำขอ",
-    "english": "request, plea",
+    "english": "request, application, petition",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -36062,7 +36022,7 @@
   {
     "id": "thaipod-0272",
     "thai": "ชม",
-    "english": "to admire, to compliment, to view",
+    "english": "to admire, to compliment; to view (formal)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -36139,7 +36099,7 @@
   {
     "id": "thaipod-0279",
     "thai": "ชาว",
-    "english": "people (~native from), inhabitants of",
+    "english": "people (native from), inhabitants of",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -36230,16 +36190,6 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "thaipod-0287",
-    "thai": "ชุดขาว",
-    "english": "white clothes, white outfit",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -36469,7 +36419,7 @@
   {
     "id": "thaipod-0319",
     "thai": "ดารานำชาย",
-    "english": "leading actor",
+    "english": "male lead actor",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -36479,7 +36429,7 @@
   {
     "id": "thaipod-0320",
     "thai": "ดารานําแสดง",
-    "english": "lead actor (variant spelling)",
+    "english": "lead actor",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -36615,7 +36565,7 @@
   {
     "id": "thaipod-0337",
     "thai": "ด้วยดี",
-    "english": "smoothly, in a good way, without trouble",
+    "english": "amicably, peacefully, without troubles, on good terms",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -36792,7 +36742,7 @@
   {
     "id": "thaipod-0356",
     "thai": "ตัดกับ",
-    "english": "to intersect with, to contrast with",
+    "english": "to contrast with, to clash with",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -38063,7 +38013,7 @@
   {
     "id": "thaipod-0493",
     "thai": "นำแสดง",
-    "english": "starring (a film/show)",
+    "english": "to star in, to play the lead role (movie, show)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -39099,7 +39049,7 @@
   {
     "id": "thaipod-0607",
     "thai": "ผลักดัน",
-    "english": "to push (forward), to drive forward",
+    "english": "to push forward, to promote, to drive forward",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -39323,7 +39273,7 @@
   {
     "id": "thaipod-0628",
     "thai": "ฝัง",
-    "english": "to bury; embedded",
+    "english": "to bury; to embed, to implant",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -40748,16 +40698,6 @@
     "english": "more than enough",
     "frequency": "common",
     "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
-    "id": "thaipod-0780",
-    "thai": "มีส่วน",
-    "english": "to have a part in, to be involved",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Thaipod101"
     ]
@@ -42702,7 +42642,7 @@
   {
     "id": "thaipod-0988",
     "thai": "สอบคัดเลือก",
-    "english": "entrance/selection examination",
+    "english": "entrance exam, selection exam",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -44158,7 +44098,7 @@
   {
     "id": "thaipod-1150",
     "thai": "อ้า",
-    "english": "to open (e.g mouth, door)",
+    "english": "to open wide (e.g mouth, door)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -45031,7 +44971,7 @@
     "id": "thaipod-1239",
     "thai": "เพลงประกอบ",
     "english": "soundtrack, theme music",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -45322,7 +45262,7 @@
     "id": "thaipod-1269",
     "thai": "เศษผ้า",
     "english": "fabric scraps, scrap cloth",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
