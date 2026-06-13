@@ -97,17 +97,18 @@
     return /^https?:\/\//.test(href) ? href : prefix + href;
   }
 
-  // Thai-only "app" mode: a stripped nav (just the Thai links + the theme and
-  // Thai-font toggles), triggered by the ?app=1 query that learn-thai.html
-  // redirects into. Content pages are shared/unchanged; only the nav differs.
-  var thaiOnly = (location.search || "").indexOf("app=1") !== -1;
+  // This site defaults to the thai-only "app" view: a stripped nav (just the
+  // Thai links + the theme and Thai-font toggles). The full site menu (with the
+  // other subjects cross-linking back to the main site) is shown only when a
+  // ?full=1 query is present, which the main website's Thailand links carry.
+  var fullMenu = (location.search || "").indexOf("full=1") !== -1;
 
   function esc(s) {
     return s.replace(/&/g, "&amp;");
   }
 
   var html = '<nav><div class="nav-inner">';
-  if (!thaiOnly) {
+  if (fullMenu) {
     html += '<a href="' + SITE + '/index.html" class="nav-link nav-home">Home</a>';
   }
 
@@ -133,10 +134,10 @@
   // affecting the desktop layout.
   html += '<div class="nav-links" id="navLinks">';
 
-  if (thaiOnly) {
-    // Thai-only app: just the Thai section's links (the menu array above stays
-    // the single source of truth), each carrying ?app=1 so navigation stays in
-    // the app. No Home, no other sections.
+  if (!fullMenu) {
+    // Default: thai-only app. Just the Thai section's links (the menu array
+    // above stays the single source of truth), local with no query so browsing
+    // stays in the app. No Home, no other sections.
     var thaiSection = null;
     for (var ts = 0; ts < menu.length; ts++) {
       if (menu[ts].en === "Thailand") { thaiSection = menu[ts]; break; }
@@ -145,10 +146,13 @@
       var tcol = thaiSection.columns[0];
       for (var tk = 0; tk < tcol.length; tk++) {
         var tlink = tcol[tk];
-        html += '<a href="' + withPrefix(tlink.href) + '?app=1" class="nav-link nav-link--app" data-path="' + esc(tlink.href) + '">' + esc(tlink.en) + '</a>';
+        html += '<a href="' + withPrefix(tlink.href) + '" class="nav-link nav-link--app" data-path="' + esc(tlink.href) + '">' + esc(tlink.en) + '</a>';
       }
     }
   } else {
+    // Full site menu (arrived from the main website via ?full=1). Other subjects
+    // link back to the main site (absolute URLs); the local Thai links carry
+    // ?full=1 so the integrated full menu is preserved while browsing Thai pages.
     for (var m = 0; m < menu.length; m++) {
       var item = menu[m];
       html += '<div class="nav-item">';
@@ -159,7 +163,9 @@
         var col = item.columns[c];
         for (var i = 0; i < col.length; i++) {
           var link = col[i];
-          html += '<li><a href="' + withPrefix(link.href) + '" data-path="' + esc(link.href) + '">' + esc(link.en) + '</a></li>';
+          var href = withPrefix(link.href);
+          if (!/^https?:\/\//.test(link.href)) href += "?full=1";
+          html += '<li><a href="' + href + '" data-path="' + esc(link.href) + '">' + esc(link.en) + '</a></li>';
         }
         html += '</ul>';
       }
