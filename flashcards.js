@@ -53,7 +53,7 @@
   var config = loadJSON(CONFIG_KEY, null) || {
     newPerDay: 15,
     direction: "both",
-    excluded: { frequency: { rare: true, occasional: true }, topic: {} },
+    excluded: { frequency: {}, topic: {} },
     day: null,
   };
   config.excluded = config.excluded || { frequency: {}, topic: {} };
