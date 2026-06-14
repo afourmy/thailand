@@ -6327,3 +6327,71 @@ Free-form decisions file batch 11 — eng edits, deletes, 3 splits, 2 merges, fr
 Eng edits: 37  Merges: 2  Splits: 3  Deletes: 9
 Vocab: 9410 -> 9404
 
+
+======================================================================
+Free-form decisions file batch 12 — eng edits, deletes, 1 merge, freq list
+
+    edit tsl-619b.english = 'to compensate, to make up for, to offset'
+    edit thaipod-0748.english = 'illustration, diagram'
+    edit thaipod-0453.english = 'souvenir, keepsake'
+    edit thaipod-0868.english = 'waterfront, along the coast'
+    edit thaipod-0873.english = "to see through someone's intentions, to read someone's game"
+    edit thaipod-0919.english = 'to set the course, to establish an approach'
+    edit thaipod-0920.english = 'academic major (university)'
+    edit thaipod-0982.english = 'to wear, to put on (formal)'
+    edit thaipod-1028.english = 'colorful; (fig) liveliness, vibrancy'
+    edit thaipod-1032.english = 'to stem from, to result from, to be a continuation of'
+    edit thaipod-0888.english = 'to slip through (underneath), to go under'
+    edit tobo-400.english = 'insurance, guarantee'
+    edit thaipod-0961.english = 'truthful, realistic, lifelike'
+    edit thaipod-1055.english = 'to frown, to look grumpy, sulky face'
+    edit thaipod-1179.english = 'outline, structure (e.g of a plan, a book)'
+    edit thaipod-1199.english = 'to dry off, to wipe the body'
+    edit thaipod-1229.english = 'in secret, confidentially'
+    edit thaipod-1242.english = 'distorted, strange, off; derived from'
+    edit thaipod-1263.english = 'to attack, to take action against, to target'
+    edit thaipod-1285.english = "to try one's luck, to make a guess, to try fortune-telling"
+    edit thaipod-1360.english = 'curve, arc'
+    edit tobo-102.english = 'contract, agreement, promise'
+    edit tobo-151.english = 'square'
+    edit tobo-307.english = 'to torture, to torment; to be in agony, to suffer'
+    edit tobo-331.english = 'excuse, justification'
+    edit tobo-358.english = 'to interrupt, to disturb the flow'
+    edit yt-c01-079.english = 'to cling to, to stick to'
+    edit yt-c01-080.english = 'to calm down, to settle down (about a situation)'
+    edit yt-c01-015.english = 'reasonable, logical'
+    edit yt-c01-059.english = 'to hold (e.g a position), to maintain, to preserve'
+    edit yt-c01-091.english = 'city center, downtown'
+    edit yt-c01-093.english = 'to imitate, to mimic'
+    edit yt-c02-014.english = 'powerful, mighty'
+    edit yt-c02-011.english = 'to mock, to imitate in a mocking way, to ridicule'
+    edit yt-c02-026.english = 'to eliminate, to disqualify, to screen out'
+    edit yt-c03-087.english = 'folder, file'
+    edit yt-c03-088.english = 'to clip, to pinch, to clamp'
+    edit yt-c04-005.english = 'to criticize, to judge, to comment'
+    edit yt-c03-007.english = 'hundred; to string, to thread (idea of connecting items in a sequence)'
+    edit yt-c03-040.english = 'to clap (hands), to applaud'
+    edit yt-c04-006.english = 'to roll, to curl, roll, classifier for rolled items (e.g toilet paper)'
+    edit yt-c03-049.english = 'over and over, in quick succession, repeatedly, non-stop'
+    edit yt-c04-012.english = 'to insert in, to slip into (an object, usually a small space)'
+    edit yt-c05-012.english = 'showerhead'
+    edit yt-c04-019.english = 'to swipe, to wipe, to cut across (quick motion)'
+    edit yt-c04-084.english = 'to tighten, to constrict, to fasten, to bind tightly'
+    edit yt-c04-086.english = 'to let loose, to slacken, to relax, to drop (make sth less tight, and let sth hang)'
+    edit yt-c05-003.english = 'to swipe (e.g a credit card), to slide (e.g zipper)'
+    edit yt-c05-036.english = 'to rub, to crush, to scrub (repeated movement)'
+    edit yt-c05-056.english = 'to lift, to raise; a round (e.g in a boxing match)'
+    merge tobo-509.thai = 'รอด, รอดชีวิต'
+    frequency occasional (24): thaipod-0746, thaipod-0860, thaipod-0868, thaipod-0882, thaipod-1031, thaipod-1032, thaipod-1060, thaipod-1089, thaipod-1156, thaipod-1157, thaipod-1179, thaipod-1248, thaipod-1363, tobo-424, yt-c03-021, yt-c03-070, yt-c04-079, yt-c05-005, yt-c05-006, yt-c05-007, yt-c05-008, yt-c05-015, yt-c05-022, yt-c05-052
+    delete yt-c06-029
+    delete tobo-188
+    delete thaipod-0909
+    delete thaipod-0805
+    delete yt-c22-041
+    delete t4k-c02-037
+    delete thaipod-0824
+    delete thaipod-1083
+    delete yt-c01-081
+Eng edits: 50  Merges: 1  Deletes: 9  -> occasional: 24
+Vocab: 9404 -> 9395
+

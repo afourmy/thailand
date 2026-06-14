@@ -33475,7 +33475,7 @@
   {
     "id": "tsl-619b",
     "thai": "ชดเชย",
-    "english": "to compensate, to offset",
+    "english": "to compensate, to make up for, to offset",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -37592,7 +37592,7 @@
   {
     "id": "thaipod-0453",
     "thai": "ที่ระลึก",
-    "english": "souvenir; memorial",
+    "english": "souvenir, keepsake",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -40409,7 +40409,7 @@
     "id": "thaipod-0746",
     "thai": "ภาคต่อ",
     "english": "sequel",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -40428,7 +40428,7 @@
   {
     "id": "thaipod-0748",
     "thai": "ภาพประกอบ",
-    "english": "illustration",
+    "english": "illustration, diagram",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -40881,16 +40881,6 @@
     ]
   },
   {
-    "id": "thaipod-0805",
-    "thai": "ยื่นออกไป",
-    "english": "to reach out, to stick out, to extend forward",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0806",
     "thai": "ยุคทอง",
     "english": "golden age, golden era",
@@ -41052,17 +41042,6 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
-    ]
-  },
-  {
-    "id": "thaipod-0824",
-    "thai": "รอด",
-    "english": "to survive",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101",
-      "Thai 4000"
     ]
   },
   {
@@ -41419,7 +41398,7 @@
     "id": "thaipod-0860",
     "thai": "รายล้อม",
     "english": "surrounded by, around",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -41472,8 +41451,8 @@
   {
     "id": "thaipod-0868",
     "thai": "ริมฝั่ง",
-    "english": "along the bank/coast",
-    "frequency": "common",
+    "english": "waterfront, along the coast",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -41526,7 +41505,7 @@
   {
     "id": "thaipod-0873",
     "thai": "รู้ทัน",
-    "english": "to figure out, to see through someone's intentions",
+    "english": "to see through someone's intentions, to read someone's game",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -41598,7 +41577,7 @@
     "id": "thaipod-0882",
     "thai": "รําลึก",
     "english": "to commemorate, to remember (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101",
@@ -41662,7 +41641,7 @@
   {
     "id": "thaipod-0888",
     "thai": "ลอด",
-    "english": "through (underneath)",
+    "english": "to slip through (underneath), to go under",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -41863,16 +41842,6 @@
     ]
   },
   {
-    "id": "thaipod-0909",
-    "thai": "ล้อมรอบอยู่",
-    "english": "surrounding, surrounded by",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0910",
     "thai": "ล้านนา",
     "english": "Lanna (historical kingdom in Northern Thailand)",
@@ -41966,7 +41935,7 @@
   {
     "id": "thaipod-0919",
     "thai": "วางแนวทาง",
-    "english": "to set the course, establish an approach",
+    "english": "to set the course, to establish an approach",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -41976,7 +41945,7 @@
   {
     "id": "thaipod-0920",
     "thai": "วิชาเอก, สาขาเอก",
-    "english": "major (university)",
+    "english": "academic major (university)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -42401,7 +42370,7 @@
   {
     "id": "thaipod-0961",
     "thai": "สมจริง",
-    "english": "truthful, realistic",
+    "english": "truthful, realistic, lifelike",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -42585,7 +42554,7 @@
   {
     "id": "thaipod-0982",
     "thai": "สวม",
-    "english": "to wear, to put on",
+    "english": "to wear, to put on (formal)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -42967,7 +42936,7 @@
   {
     "id": "thaipod-1028",
     "thai": "สีสัน",
-    "english": "color, vibrancy",
+    "english": "colorful; (fig) liveliness, vibrancy",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -43001,7 +42970,7 @@
     "id": "thaipod-1031",
     "thai": "สืบต่อกันมา",
     "english": "to be passed down over generations",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -43010,8 +42979,8 @@
   {
     "id": "thaipod-1032",
     "thai": "สืบเนื่อง",
-    "english": "to continue, to follow on from",
-    "frequency": "common",
+    "english": "to stem from, to result from, to be a continuation of",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101",
@@ -43255,7 +43224,7 @@
   {
     "id": "thaipod-1055",
     "thai": "หน้าบึ้ง",
-    "english": "to look grumpy, sulky face",
+    "english": "to frown, to look grumpy, sulky face",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -43307,7 +43276,7 @@
     "id": "thaipod-1060",
     "thai": "หยก",
     "english": "jade",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -43529,16 +43498,6 @@
     ]
   },
   {
-    "id": "thaipod-1083",
-    "thai": "หันมา",
-    "english": "to turn around / towards",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-1084",
     "thai": "หัวเมือง",
     "english": "provincial capital, administrative center",
@@ -43589,7 +43548,7 @@
     "id": "thaipod-1089",
     "thai": "หินอ่อน",
     "english": "marble (stone)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -44160,7 +44119,7 @@
     "id": "thaipod-1156",
     "thai": "เกินคาด",
     "english": "beyond expectation",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -44170,7 +44129,7 @@
     "id": "thaipod-1157",
     "thai": "เกียรตินิยม",
     "english": "with honors, honorary distinction (academic)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -44397,8 +44356,8 @@
   {
     "id": "thaipod-1179",
     "thai": "เค้าโครง",
-    "english": "outline, structure (framework)",
-    "frequency": "common",
+    "english": "outline, structure (e.g of a plan, a book)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -44580,7 +44539,7 @@
   {
     "id": "thaipod-1199",
     "thai": "เช็ดตัว",
-    "english": "to dry off / wipe the body",
+    "english": "to dry off, to wipe the body",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -44886,7 +44845,7 @@
   {
     "id": "thaipod-1229",
     "thai": "เป็นการลับ",
-    "english": "in secret, secretly",
+    "english": "in secret, confidentially",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -44991,7 +44950,7 @@
   {
     "id": "thaipod-1242",
     "thai": "เพี้ยน",
-    "english": "distorted, off; (here) derived from",
+    "english": "distorted, strange, off; derived from",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -45066,7 +45025,7 @@
     "id": "thaipod-1248",
     "thai": "เย็บ",
     "english": "to sew",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101",
@@ -45214,7 +45173,7 @@
   {
     "id": "thaipod-1263",
     "thai": "เล่นงาน",
-    "english": "to attack, to give someone a hard time",
+    "english": "to attack, to take action against, to target",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -45385,7 +45344,7 @@
   {
     "id": "thaipod-1285",
     "thai": "เสี่ยงทายดู",
-    "english": "to try fortune-telling, to make a prediction",
+    "english": "to try one's luck, to make a guess, to try fortune-telling",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -46099,7 +46058,7 @@
   {
     "id": "thaipod-1360",
     "thai": "โค้ง",
-    "english": "curve, arch",
+    "english": "curve, arc",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -46140,7 +46099,7 @@
     "id": "thaipod-1363",
     "thai": "โซนแดง",
     "english": "red zone (danger area)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thaipod101"
@@ -47888,7 +47847,7 @@
   {
     "id": "tobo-102",
     "thai": "สัญญา",
-    "english": "contract; promise",
+    "english": "contract, agreement, promise",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -48400,7 +48359,7 @@
   {
     "id": "tobo-151",
     "thai": "จัตุรัส",
-    "english": "square (public space)",
+    "english": "square",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -48843,16 +48802,6 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "tobo-188",
-    "thai": "สายเคเบิล",
-    "english": "cable, wire",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Tobo Deck"
     ]
   },
   {
@@ -50072,7 +50021,7 @@
   {
     "id": "tobo-307",
     "thai": "ทรมาน",
-    "english": "to torture, to torment",
+    "english": "to torture, to torment; to be in agony, to suffer",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -50315,7 +50264,7 @@
   {
     "id": "tobo-331",
     "thai": "ข้อแก้ตัว",
-    "english": "excuse",
+    "english": "excuse, justification",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -50590,7 +50539,7 @@
   {
     "id": "tobo-358",
     "thai": "ขัดจังหวะ",
-    "english": "to interrupt",
+    "english": "to interrupt, to disturb the flow",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -51020,7 +50969,7 @@
   {
     "id": "tobo-400",
     "thai": "ประกัน",
-    "english": "insurance; to guarantee",
+    "english": "insurance, guarantee",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -51294,7 +51243,7 @@
     "id": "tobo-424",
     "thai": "ความรู้สึกตัว",
     "english": "consciousness, awareness",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Tobo Deck"
@@ -52095,7 +52044,7 @@
   },
   {
     "id": "tobo-509",
-    "thai": "รอดชีวิต",
+    "thai": "รอด, รอดชีวิต",
     "english": "to survive",
     "frequency": "common",
     "topic": "general",
@@ -52343,7 +52292,7 @@
   {
     "id": "yt-c01-015",
     "thai": "สมเหตุ",
-    "english": "reasonable",
+    "english": "reasonable, logical",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -52760,7 +52709,7 @@
   {
     "id": "yt-c01-059",
     "thai": "ดำรง",
-    "english": "to hold (e.g a position), maintain, preserve",
+    "english": "to hold (e.g a position), to maintain, to preserve",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -52958,7 +52907,7 @@
   {
     "id": "yt-c01-079",
     "thai": "เกาะติด",
-    "english": "to cling to, stick to",
+    "english": "to cling to, to stick to",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -52968,17 +52917,7 @@
   {
     "id": "yt-c01-080",
     "thai": "สงบลง",
-    "english": "to calm down, settle down (about a situation)",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c01-081",
-    "thai": "ชีวิตรอด",
-    "english": "to survive",
+    "english": "to calm down, to settle down (about a situation)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -53080,7 +53019,7 @@
   {
     "id": "yt-c01-091",
     "thai": "ตัวเมือง",
-    "english": "city center",
+    "english": "city center, downtown",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -53100,7 +53039,7 @@
   {
     "id": "yt-c01-093",
     "thai": "เลียนแบบ",
-    "english": "to imitate",
+    "english": "to imitate, to mimic",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -53282,7 +53221,7 @@
   {
     "id": "yt-c02-011",
     "thai": "ล้อเลียน",
-    "english": "to mock, to make fun of",
+    "english": "to mock, to imitate in a mocking way, to ridicule",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -53312,7 +53251,7 @@
   {
     "id": "yt-c02-014",
     "thai": "ทรงพลัง",
-    "english": "powerful",
+    "english": "powerful, mighty",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -53426,7 +53365,7 @@
   {
     "id": "yt-c02-026",
     "thai": "คัดออก",
-    "english": "to eliminate, disqualify, screen out",
+    "english": "to eliminate, to disqualify, to screen out",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -54201,7 +54140,7 @@
   {
     "id": "yt-c03-007",
     "thai": "ร้อย",
-    "english": "hundred; to sew, stitch; thread, string",
+    "english": "hundred; to string, to thread (idea of connecting items in a sequence)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -54346,7 +54285,7 @@
     "id": "yt-c03-021",
     "thai": "กิ๊ฟติดผม",
     "english": "hair clip",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -54507,7 +54446,7 @@
   {
     "id": "yt-c03-040",
     "thai": "ปรบ, ปรบมือ",
-    "english": "to flap, clap (e.g hands), applaud",
+    "english": "to clap (hands), to applaud",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -54601,7 +54540,7 @@
   {
     "id": "yt-c03-049",
     "thai": "รัวๆ",
-    "english": "over and over, repeatedly, non-stop",
+    "english": "over and over, in quick succession, repeatedly, non-stop",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -54795,7 +54734,7 @@
     "id": "yt-c03-070",
     "thai": "แป้นพิมพ์",
     "english": "keyboard (computer)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -54974,7 +54913,7 @@
   {
     "id": "yt-c03-087",
     "thai": "แฟ้ม",
-    "english": "folder",
+    "english": "folder, file",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -54985,7 +54924,7 @@
   {
     "id": "yt-c03-088",
     "thai": "หนีบ",
-    "english": "to clip, pin, nip",
+    "english": "to clip, to pinch, to clamp",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -55164,7 +55103,7 @@
   {
     "id": "yt-c04-005",
     "thai": "วิพากษ์วิจารณ์",
-    "english": "to criticize, judge, comment",
+    "english": "to criticize, to judge, to comment",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -55175,7 +55114,7 @@
   {
     "id": "yt-c04-006",
     "thai": "ม้วน",
-    "english": "to roll, roll, classifier for rolled items (e.g toilet paper)",
+    "english": "to roll, to curl, roll, classifier for rolled items (e.g toilet paper)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -55226,7 +55165,7 @@
   {
     "id": "yt-c04-012",
     "thai": "สอด",
-    "english": "to insert in, fit into (an object, usually a small space)",
+    "english": "to insert in, to slip into (an object, usually a small space)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -55297,7 +55236,7 @@
   {
     "id": "yt-c04-019",
     "thai": "ปาด",
-    "english": "to cut across; to swipe, wipe, scrape (quick motion)",
+    "english": "to swipe, to wipe, to cut across (quick motion)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -55820,7 +55759,7 @@
     "id": "yt-c04-079",
     "thai": "เขย่ง, เขย่งเท้า",
     "english": "to tiptoe, to stand on tiptoe",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -55870,7 +55809,7 @@
   {
     "id": "yt-c04-084",
     "thai": "รัด",
-    "english": "to tighten, constrict, bind tightly",
+    "english": "to tighten, to constrict, to fasten, to bind tightly",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -55891,7 +55830,7 @@
   {
     "id": "yt-c04-086",
     "thai": "หย่อน",
-    "english": "to lower, to let loose, to let hang (e.g your legs)",
+    "english": "to let loose, to slacken, to relax, to drop (make sth less tight, and let sth hang)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -56054,7 +55993,7 @@
   {
     "id": "yt-c05-003",
     "thai": "รูด",
-    "english": "to swipe (e.g a credit card), slide (e.g zipper)",
+    "english": "to swipe (e.g a credit card), to slide (e.g zipper)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -56075,7 +56014,7 @@
     "id": "yt-c05-005",
     "thai": "ตะปูเกลียว",
     "english": "screw, screw nail",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -56085,7 +56024,7 @@
     "id": "yt-c05-006",
     "thai": "สว่าน",
     "english": "drill (the tool)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -56095,7 +56034,7 @@
     "id": "yt-c05-007",
     "thai": "ไขควง",
     "english": "screwdriver",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -56105,7 +56044,7 @@
     "id": "yt-c05-008",
     "thai": "คีม",
     "english": "pliers (the tool)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -56145,7 +56084,7 @@
   {
     "id": "yt-c05-012",
     "thai": "ฝักบัว",
-    "english": "showerhead; lotus seed pod (type of fruit)",
+    "english": "showerhead",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -56176,7 +56115,7 @@
     "id": "yt-c05-015",
     "thai": "พู่กัน",
     "english": "paint brush",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -56238,7 +56177,7 @@
     "id": "yt-c05-022",
     "thai": "จิ๊กซอว์",
     "english": "jigsaw (puzzle)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -56368,7 +56307,7 @@
   {
     "id": "yt-c05-036",
     "thai": "ขยี้",
-    "english": "(repeated movement) to rub, crush, scrub",
+    "english": "to rub, to crush, to scrub (repeated movement)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -56511,7 +56450,7 @@
     "id": "yt-c05-052",
     "thai": "เชือกกระโดด",
     "english": "jump rope",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -56551,7 +56490,7 @@
   {
     "id": "yt-c05-056",
     "thai": "ยก",
-    "english": "to lift, raise; a round (e.g in a match)",
+    "english": "to lift, to raise; a round (e.g in a boxing match)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -57256,17 +57195,6 @@
     "topic": "general",
     "sources": [
       "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c06-029",
-    "thai": "ชดเชย",
-    "english": "to compensate, to make up for",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "YouTube",
-      "Thai 4000"
     ]
   },
   {
@@ -72802,17 +72730,6 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c22-041",
-    "thai": "ชดใช้",
-    "english": "to refund, repay, compensate",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "YouTube",
-      "Thai 4000"
     ]
   },
   {
@@ -96154,17 +96071,6 @@
     "topic": "general",
     "sources": [
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c02-037",
-    "thai": "สูญเสีย",
-    "english": "lose (permanent loss)",
-    "frequency": "common",
-    "topic": "emotions",
-    "sources": [
-      "Thai 4000",
-      "Thaipod101"
     ]
   },
   {
