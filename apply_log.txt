@@ -6395,3 +6395,65 @@ Free-form decisions file batch 12 — eng edits, deletes, 1 merge, freq list
 Eng edits: 50  Merges: 1  Deletes: 9  -> occasional: 24
 Vocab: 9404 -> 9395
 
+
+======================================================================
+Free-form decisions file batch 13 — eng edits, 2 splits, easy->everyday + occasional + rare
+
+    edit yt-c04-086.english = 'to let loose, to slacken, to relax, to drop (make sth less tight, or let sth hang)'
+    edit yt-c05-060.english = 'to get past (e.g a difficulty), to rise above, to overcome'
+    edit yt-c05-088.english = 'to cover, to wrap (usually with a cloth, e.g blanket)'
+    edit yt-c06-012.english = 'to pick up a habit, to get used to a behavior'
+    edit yt-c06-017.english = 'public image, reputation, public perception'
+    edit yt-c06-020.english = 'to tie, to bind, to bundle'
+    edit yt-c06-066.english = 'to wiggle, to twitch, to move slightly back and forth'
+    edit yt-c06-079.english = 'to shake, to sway, to move back and forth, to shift'
+    edit yt-c07-012.english = 'to decay, to rot, to deteriorate, rotten'
+    edit yt-c07-013.english = 'to extend, to add on, to renovate (by expansion)'
+    edit yt-c07-017.english = "to insist, to maintain firmly, to stand one's ground"
+    edit yt-c07-073.english = 'rushed, in a hurry, hastily'
+    edit yt-c07-076.english = 'to combine, to be put together'
+    edit yt-c08-004.english = 'to carry on oneself; (fig) innate, ingrained'
+    edit yt-c08-005.english = 'to reveal the answer, to provide the solution (e.g tests, exercises)'
+    edit yt-c08-026.english = 'to blink, to flicker (e.g eyes, light)'
+    edit yt-c09-073.english = 'to go against, to go in the opposite direction; to repeat, to review'
+    edit yt-c08-037.english = 'half, hemisphere, side (one of two parts)'
+    edit yt-c08-039.english = 'to trim hair, to snip the end of the hair'
+    edit yt-c08-048.english = 'to reinforce, to emphasize, to underscore'
+    edit yt-c08-075.english = 'to supplement, to reinforce, to enhance'
+    edit yt-c09-008.english = 'prejudice, bias'
+    edit yt-c09-053.english = 'alone, by oneself, independently (without others)'
+    edit wlt-c07-068.english = 'to behave, to conduct oneself (formal)'
+    edit wlt-c12-023.english = 'object, material'
+    edit yt-c09-082.english = 'to cram, to shove, to force sth into a tight space'
+    edit yt-c09-085.english = 'bright colors, vivid colors'
+    edit yt-c10-019.english = 'to support, to prop up, to bolster'
+    edit yt-c11-080.english = 'to slow down, to decelerate, to delay'
+    edit yt-c10-087.english = 'aspect - angle, viewpoint - point of view, perspective'
+    edit yt-c10-086.english = 'to trick, to fool, to pretend - to deceive, to lure - to scam, to defraud, to deceive'
+    edit yt-c10-015.english = "rational, logical, reasonable, 'it makes sense'"
+    edit wlt-c12-077.english = 'to explain'
+    edit wlt-c05-079.english = 'strong, robust'
+    edit wlt-c08-025.english = '(playing) cards'
+    edit yt-c11-000.english = 'to be knocked out, to pass out (lose consciousness, usually in a fight)'
+    edit yt-c11-007.english = 'to move swiftly, to drive quickly, to speed along; to glide, to sail'
+    edit yt-c11-015.english = 'to ventilate, to allow air circulation'
+    edit yt-c11-083.english = 'public response, reception, feedback from people'
+    edit yt-c11-091.english = 'similar, matching, identical, to correspond, to be the same'
+    edit yt-c12-003.english = 'mysterious, secretive'
+    edit yt-c12-005.english = 'to say, to state, to mention (formal)'
+    edit wlt-c05-059.english = 'to correct, to fix, to revise'
+    edit wlt-c07-074.english = 'factor'
+    edit wlt-c08-073.english = 'system'
+    edit wlt-c10-043.english = 'to multiply'
+    edit yt-c11-053.english = 'to herd, to round up (animals)'
+    edit yt-c12-054.english = 'to tease, to provoke, to entice'
+    split yt-c12-030 -> yt-c12-030: เกี่ยว = 'related to, concerning; to harvest, to reap; to hook, to link, to entangle'
+    split yt-c12-030 -> yt-c12-030b: เก็บเกี่ยว = 'to harvest crops (e.g rice, wheat)'
+    split yt-c12-032 -> yt-c12-032: บกพร่อง = 'defective, lacking, flawed'
+    split yt-c12-032 -> yt-c12-032b: ข้อบกพร่อง = 'defect, flaw'
+    frequency everyday (26): wlt-c05-059, wlt-c05-079, wlt-c06-070, wlt-c06-079, wlt-c06-089, wlt-c08-060, wlt-c09-074, wlt-c09-079, wlt-c10-038, wlt-c10-057, wlt-c10-062, wlt-c10-092, wlt-c11-010, wlt-c11-013, wlt-c11-014, wlt-c11-021, wlt-c11-022, wlt-c11-042, wlt-c12-000, wlt-c12-023, wlt-c12-025, wlt-c12-029, wlt-c12-045, wlt-c12-072, wlt-c12-077, yt-c03-084
+    frequency occasional (10): wlt-c07-073, yt-c05-069, yt-c05-086, yt-c06-039, yt-c06-050, yt-c06-061, yt-c07-089, yt-c08-023, yt-c11-015, yt-c11-035
+    frequency rare (2): yt-c08-036, yt-c09-060
+Eng edits: 48  Splits: 2  everyday: 26  occasional: 10  rare: 2
+Vocab: 9395 -> 9397
+
