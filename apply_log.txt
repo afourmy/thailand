@@ -6457,3 +6457,91 @@ Free-form decisions file batch 13 — eng edits, 2 splits, easy->everyday + occa
 Eng edits: 48  Splits: 2  everyday: 26  occasional: 10  rare: 2
 Vocab: 9395 -> 9397
 
+
+======================================================================
+Free-form decisions file batch 14 — eng edits, 1 thai edit, 1 split, deletes, freq lists
+
+    edit yt-c12-058.english = 'to brush, to swipe, to dust'
+    edit yt-c12-059.english = '(literally) to weigh down (put a weight on sth); (fig) to hinder, to delay, to slow down'
+    edit yt-c14-040.english = 'repetitive and dull, occurring again and again until it becomes boring, monotonous, tiresome'
+    edit wlt-c02-030.english = 'to dry in the sun, to expose sth to sunlight'
+    edit wlt-c02-064.english = 'to lose (sth)'
+    edit wlt-c02-070.english = 'unoccupied space, vacant place'
+    edit wlt-c03-015.english = 'pass, entry card'
+    edit wlt-c03-049.english = 'to go run an errand, to go out on business'
+    edit wlt-c03-074.english = 'to look for, to search visually for something'
+    edit wlt-c04-074.english = 'dark colored'
+    edit wlt-c04-079.english = 'light yellow, pale yellow'
+    edit yt-c20-074.english = 'to collapse, to fall apart (e.g system, society, empire)'
+    edit yt-c21-032.english = 'to ambush, to raid, to launch a surprise attack'
+    edit wlt-c14-061.english = 'Laos'
+    edit yt-c13-016.english = 'simple yet elegant, sophisticated and classy in a simple way'
+    edit yt-c13-032.english = "to sway one's head (side-to-side, to express disbelief or disappointment)"
+    edit yt-c13-033.english = 'to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly'
+    edit yt-c13-077.english = 'backward, outdated, behind the times'
+    edit yt-c13-079.english = 'to stretch, to extend; to discriminate against, to look down on'
+    edit yt-c14-000.english = 'to unlock, to open with a key (lit. to turn the key)'
+    edit yt-c14-035.english = 'to collapse, to crash, to fall down violently; to destroy, to attack with force'
+    edit yt-c14-088.english = 'to bounce, to spring back; (skin) firm, tight, not saggy'
+    edit yt-c15-003.english = 'to target, to aim, to focus on'
+    edit wlt-c19-080.english = 'to peek at, to secretly watch'
+    edit yt-c15-057.english = '(lit) to open slightly; (fig) to hint at, to reveal a little'
+    edit yt-c15-075.english = '(onomatopoeic verb) to boo, to shout loudly to show dislike'
+    edit yt-c15-066.english = 'to pry, to lever up'
+    edit yt-c15-074.english = 'to be unintentionally left out, to be omitted'
+    edit yt-c15-077.english = "to lose one's balance (physically), to lose control, to lose one's stability (emotionally)"
+    edit yt-c15-085.english = 'to spin, to twirl, to rotate'
+    edit yt-c15-097.english = 'to damage, to tarnish (usually reputation, social standing)'
+    edit yt-c16-035.english = 'to solve, to figure out (e.g a problem, a puzzle); to turn, to operate'
+    edit yt-c16-048.english = 'to affect, to shake, to impact (physically or emotionally)'
+    edit wlt-c05-060.english = 'to amend, to revise'
+    edit wlt-c05-091.english = 'coach, trainer'
+    edit wlt-c06-046.english = 'to clarify, to explain in detail'
+    edit wlt-c06-048.english = 'underwear, lingerie'
+    edit wlt-c06-069.english = 'to slap, to strike with the open hand'
+    edit wlt-c08-032.english = 'to look at closely, to observe'
+    edit wlt-c11-087.english = 'destitute, poor'
+    edit yt-c15-024.thai = 'กลิ่นสาบ'
+    split yt-c13-063 -> yt-c13-063: ยัก = 'to shrug, to move slightly'
+    split yt-c13-063 -> yt-c13-063b: พยักหน้า = "to nod one's head"
+    frequency occasional (11): wlt-c01-093, wlt-c04-054, wlt-c18-044, yt-c13-060, yt-c14-028, yt-c15-023, yt-c15-035, yt-c15-075, yt-c15-082, yt-c16-001, yt-c16-004
+    frequency everyday (1): wlt-c02-086
+    delete wlt-c15-095
+    delete wlt-c04-051
+    delete t4k-c03-038
+    delete wlt-c14-076
+    delete wlt-c15-012
+    delete wlt-c03-089
+    delete wlt-c13-094
+    delete yt-c10-060
+    delete wlt-c13-036
+    delete wlt-c15-011
+    delete wlt-c13-096
+    delete wlt-c14-004
+    delete wlt-c13-090
+    delete wlt-c13-081
+    delete wlt-c18-003
+    delete wlt-c15-013
+    delete wlt-c15-019
+    delete wlt-c18-058
+    delete wlt-c15-001
+    delete wlt-c14-072
+    delete wlt-c16-058
+    delete wlt-c19-079
+    delete yt-c03-048
+    delete wlt-c14-023
+    delete wlt-c13-091
+    delete wlt-c14-008
+    delete wlt-c14-078
+    delete wlt-c15-010
+    delete wlt-c15-004
+    delete wlt-c14-003
+    delete yt-c20-095
+    delete wlt-c15-008
+    delete wlt-c04-085
+    delete wlt-c15-044
+    delete wlt-c13-053
+    delete wlt-c14-024
+Eng edits: 40  Thai edits: 1  Splits: 1  Deletes: 36  occasional: 11  everyday: 1
+Vocab: 9397 -> 9362
+
