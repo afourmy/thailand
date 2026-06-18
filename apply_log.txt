@@ -6545,3 +6545,156 @@ Free-form decisions file batch 14 — eng edits, 1 thai edit, 1 split, deletes, 
 Eng edits: 40  Thai edits: 1  Splits: 1  Deletes: 36  occasional: 11  everyday: 1
 Vocab: 9397 -> 9362
 
+
+======================================================================
+Free-form decisions file batch 15 — eng edits, 2 collapses, 4 splits, deletes, freq, 1 update+park
+
+    edit yt-c16-068.english = 'to support (physically), to keep from falling, to steady sth (e.g help someone walk, or keep sth steady)'
+    edit yt-c17-007.english = 'to guard, to escort, to protect someone'
+    edit yt-c17-018.english = 'side benefit, unintended but beneficial result'
+    edit yt-c17-023.english = 'to punch a time card (in order to clock in) - to tap a card'
+    edit yt-c17-074.english = 'to facilitate, to support, to be conducive to (formal)'
+    edit yt-c17-093.english = 'to crouch, to prostrate'
+    edit yt-c17-095.english = 'to vibrate, to tremble, to shake'
+    edit yt-c18-009.english = 'to focus intensely, to concentrate, to pay close attention'
+    edit yt-c18-033.english = 'to clean up, to clear up, to sort out, to tidy up (e.g tasks, mess, problems, etc)'
+    edit yt-c18-056.english = 'to nod off, to doze off, to fall asleep briefly'
+    edit yt-c18-073.english = 'to lay across, to drape, to sling over'
+    edit yt-c21-047.english = 'to groan, to moan (e.g heavy work, sex)'
+    edit yt-c21-059.english = 'to pay a visit, to visit (formal)'
+    edit yt-c21-054.english = 'to drive, to propel, to move forward'
+    edit yt-c20-096.english = 'to retaliate, to get even (light revenge, e.g when someone teases you)'
+    edit t4k-c06-075.english = 'college, specialized educational institution (often smaller than university)'
+    edit t4k-c07-038.english = 'to attack forward, to advance (e.g army, chess piece)'
+    edit t4k-c09-053.english = 'district chief, district officer'
+    edit t4k-c11-128.english = 'very small, tiny, miniature'
+    edit t4k-c11-131.english = 'to stroke, to rub gently (gently glide the hand over a surface, e.g cat, skin)'
+    edit yt-c19-000.english = 'to overlap, to span across'
+    edit yt-c19-028.english = 'chubby, plump'
+    edit yt-c19-035.english = 'to lure, to entice, to bait - to trick, to deceive by luring'
+    edit yt-c19-046.english = 'to miss an appointment, to not show up as scheduled; to default, to fail to meet a contractual obligation (e.g loan)'
+    edit yt-c20-039.english = 'to suddenly and completely cut sth out (e.g lose weight, quit smoking)'
+    edit yt-c20-071.english = 'to snatch, to grab, to steal (quick, sudden action)'
+    edit yt-c21-042.english = "to give one's approval, to give consent"
+    edit yt-c22-002.english = 'lenient, accommodating, to compromise'
+    edit yt-c22-005.english = 'to estimate, to predict, to infer'
+    edit yt-c22-016.english = 'inaccurate, off, incorrect, to be slightly off'
+    edit yt-c22-022.english = 'to give background information, to recap previous events, to retell the context'
+    edit yt-c22-037.english = 'to suppress, to suspend, to put a stop to'
+    edit yt-c22-039.english = 'to announce, to declare, to make a statement'
+    edit yt-c22-051.english = 'stuffy, poorly ventilated, cramped (enclosed space with no flow, no way out)'
+    edit yt-c22-072.english = 'delinquent child, misbehaving and troublesome kid'
+    edit yt-c22-073.english = 'to tread, to stomp on, to trample'
+    edit yt-c22-084.english = 'to sustain, to maintain, to support sth so it does not worsen or collapse'
+    edit wlt-c01-011.english = 'fake, counterfeit'
+    edit wlt-c01-019.english = 'to excuse oneself, to make excuses'
+    edit wlt-c01-035.english = 'to misunderstand'
+    edit wlt-c01-046.english = 'worker, laborer (manual or industrial work)'
+    edit wlt-c04-008.english = 'to go back, to come back'
+    edit wlt-c04-035.english = 'to stand up, to get up'
+    edit wlt-c04-088.english = 'coat, sweater, warm jacket'
+    edit wlt-c05-040.english = 'small box, small case'
+    edit wlt-c05-073.english = 'brooch'
+    edit wlt-c06-023.english = 'beautiful, good-looking, pretty'
+    edit wlt-c06-026.english = 'to write down, to record, to take note'
+    edit wlt-c06-045.english = 'fisherman (people who fish for a living)'
+    edit wlt-c06-092.english = 'to touch (lightly)'
+    edit wlt-c06-093.english = 'dressing table (table with a mirror used for makeup and grooming)'
+    edit wlt-c06-096.english = 'to move backward, to retreat, to step back'
+    edit yt-c23-032.english = 'to flip to the other side, to turn inside out'
+    edit wlt-c07-004.english = 'airman, air force personnel'
+    edit wlt-c07-035.english = 'to compare with, to match against'
+    edit wlt-c07-070.english = 'to estimate, to assess, to evaluate'
+    edit wlt-c07-072.english = 'to face, to encounter'
+    edit wlt-c07-085.english = 'to see someone off, to deliver someone or something'
+    edit wlt-c08-014.english = 'to lean against'
+    edit wlt-c08-027.english = 'file (physical or on a computer)'
+    edit wlt-c08-086.english = 'kindergarten, preschool'
+    edit wlt-c08-093.english = 'to become lower, to diminish'
+    edit wlt-c09-011.english = 'circuit (e.g electrical)'
+    edit wlt-c09-028.english = 'to converse, to have a conversation'
+    edit wlt-c09-049.english = 'faded (color), dye bleeding (when washed)'
+    edit wlt-c09-053.english = 'maximum, highest'
+    edit wlt-c09-073.english = 'to divide'
+    edit wlt-c08-062.english = 'wrinkled, crumpled'
+    edit wlt-c08-079.english = 'to dismantle, to tear down'
+    edit wlt-c08-099.english = 'order, sequence, to arrange in order'
+    edit wlt-c09-012.english = 'objective, purpose, goal'
+    edit wlt-c09-015.english = 'to analyze'
+    edit wlt-c09-089.english = 'to refer to, to cite, to quote'
+    edit wlt-c10-048.english = 'to limit, to restrict'
+    edit wlt-c10-082.english = 'to fill, to refill, to add'
+    edit wlt-c10-084.english = 'to withdraw, to pull out'
+    edit wlt-c11-028.english = 'to record, to note'
+    edit wlt-c11-031.english = 'to wound, to cut'
+    edit wlt-c15-021.english = 'box, case'
+    edit wlt-c15-071.english = 'cabinet, cupboard'
+    edit wlt-c15-073.english = 'bucket'
+    edit wlt-c16-023.english = 'cinema'
+    edit wlt-c16-029.english = 'field (e.g sports field, airport, etc)'
+    edit wlt-c18-023.english = 'to drown, to sink'
+    edit wlt-c18-025.english = 'tickly, to tickle'
+    edit wlt-c18-036.english = 'car mechanic (technician who repairs cars)'
+    edit wlt-c18-043.english = 'to drive very fast, to race'
+    edit wlt-c18-089.english = 'toxic, poisonous'
+    edit wlt-c17-046.english = 'to treat, to cure, to take care of'
+    edit wlt-c19-030.english = 'code (e.g postal, security)'
+    edit t4k-c01-014.english = 'to care for, to look after'
+    edit wlt-c09-087.english = 'to record (audio, video); to press, to compress, to pack'
+    edit wlt-c09-099.english = 'to support financially, to patronize a business'
+    edit wlt-c10-050.english = 'to prosper, to develop, to flourish'
+    edit wlt-c11-019.english = 'to bring; to lead, to guide'
+    edit wlt-c11-033.english = 'man, male'
+    edit wlt-c11-038.english = 'to hold a meeting'
+    edit wlt-c11-050.english = 'to go to meet, to visit someone'
+    edit wlt-c11-053.english = 'bedsheet'
+    edit wlt-c11-062.english = 'fan (device)'
+    edit wlt-c11-075.english = 'angle, corner'
+    edit wlt-c11-089.english = 'to maintain, to confirm'
+    edit wlt-c11-091.english = 'excellent, great; to visit someone'
+    edit wlt-c11-093.english = 'to disturb, to bother'
+    edit wlt-c11-097.english = 'level'
+    edit wlt-c12-013.english = 'difficult, hard'
+    edit wlt-c12-033.english = 'perfect, whole, complete'
+    edit wlt-c12-042.english = 'to end, to come to an end'
+    edit wlt-c12-046.english = 'gold (color)'
+    edit wlt-c12-049.english = 'shirt (worn in formal settings)'
+    edit wlt-c12-086.english = 'warm'
+    collapse yt-c17-001 -> ทิ่ม = 'to poke, to jab, to stab lightly with something pointed'
+    collapse wlt-c06-064 -> บำรุง = 'to nourish, to maintain, to improve condition (e.g health, skin, machine)'
+    split yt-c16-054 -> yt-c16-054: เร่ร่อน = 'to wander from place to place without a fixed residence'
+    split yt-c16-054 -> yt-c16-054b: คนเร่ร่อน = 'vagrant, homeless person'
+    split wlt-c07-001 -> wlt-c07-001: ทนทาน = 'durable, resistant'
+    split wlt-c07-001 -> wlt-c07-001b: ถาวร = 'permanent, long-lasting'
+    split yt-c20-051 -> yt-c20-051: ชัก = 'to pull, to draw'
+    split yt-c20-051 -> yt-c20-051b: ชักจะ = 'to begin, to start'
+    split yt-c17-069 -> yt-c17-069: เพี้ยน = 'distorted, off, weird, slightly wrong'
+    split yt-c17-069 -> yt-c17-069b: ร้องเพลงเพี้ยน = 'to sing off-key'
+    frequency occasional (3): wlt-c06-093, yt-c17-038, yt-c17-074
+    frequency everyday (2): wlt-c11-019, wlt-c11-050
+    update+park yt-c21-023 (english = 'to put on a false appearance, to try to impress others')
+    delete t4k-c08-078
+    delete yt-c23-028
+    delete t4k-c06-054
+    delete wlt-c18-064
+    delete wlt-c18-065
+    delete t4k-c06-057
+    delete t4k-c11-095
+    delete t4k-c08-088
+    delete wlt-c01-034
+    delete wlt-c07-060
+    delete t4k-c09-026
+    delete t4k-c11-046
+    delete t4k-c09-030
+    delete t4k-c06-064
+    delete wlt-c12-007
+    delete wlt-c18-026
+    delete t4k-c09-022
+    delete wlt-c04-012
+    delete wlt-c19-018
+    delete t4k-c07-093
+    delete wlt-c11-074
+    delete wlt-c08-016
+Eng edits: 111  Collapses: 2  Splits: 4  Deletes: 22  Parked: 1  occasional: 3  everyday: 2
+Vocab: 9362 -> 9343
+

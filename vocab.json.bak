@@ -54527,17 +54527,6 @@
     ]
   },
   {
-    "id": "yt-c03-048",
-    "thai": "บกพร่อง",
-    "english": "deficient, defective, flawed",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "YouTube",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "yt-c03-049",
     "thai": "รัวๆ",
     "english": "over and over, in quick succession, repeatedly, non-stop",
@@ -61340,16 +61329,6 @@
     ]
   },
   {
-    "id": "yt-c10-060",
-    "thai": "เบลอ",
-    "english": "blur, blurred",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c10-061",
     "thai": "เลือนราง",
     "english": "faint, faded, blurry",
@@ -63285,7 +63264,7 @@
   {
     "id": "yt-c12-058",
     "thai": "ปัด",
-    "english": "(physical action of moving away lightly) to brush, swipe, sway, dust",
+    "english": "to brush, to swipe, to dust",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -63296,7 +63275,7 @@
   {
     "id": "yt-c12-059",
     "thai": "ถ่วง",
-    "english": "(literally) to weigh down (put a weigh on sth); (fig) to hinder, delay, slow down",
+    "english": "(literally) to weigh down (put a weight on sth); (fig) to hinder, to delay, to slow down",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -63855,7 +63834,7 @@
   {
     "id": "yt-c13-016",
     "thai": "เรียบหรู",
-    "english": "elegant, sophisticated, classy in a simple way",
+    "english": "simple yet elegant, sophisticated and classy in a simple way",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -64016,7 +63995,7 @@
   {
     "id": "yt-c13-032",
     "thai": "โคลงศีรษะ",
-    "english": "to nod the head",
+    "english": "to sway one's head (side-to-side, to express disbelief or disappointment)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -64026,7 +64005,7 @@
   {
     "id": "yt-c13-033",
     "thai": "เดา - ทาย - มั่ว",
-    "english": "to guess (based on feeling, intuition) - to predict, to guess by asking (is it A ? is it B ?) - to guess randomly",
+    "english": "to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -64304,7 +64283,7 @@
     "id": "yt-c13-060",
     "thai": "มีตัวตน",
     "english": "to exist, to have a real physical presence (unlike ghosts)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -64332,8 +64311,18 @@
   },
   {
     "id": "yt-c13-063",
-    "thai": "ยัก - ยักไหล่ - พยักหน้า",
-    "english": "to move slightly - to shrug - to nod (one's head)",
+    "thai": "ยัก",
+    "english": "to shrug, to move slightly",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "yt-c13-063b",
+    "thai": "พยักหน้า",
+    "english": "to nod one's head",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -64466,7 +64455,7 @@
   {
     "id": "yt-c13-077",
     "thai": "ล้าหลัง",
-    "english": "outdated, behind the times, underdeveloped",
+    "english": "backward, outdated, behind the times",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -64486,7 +64475,7 @@
   {
     "id": "yt-c13-079",
     "thai": "เหยียด",
-    "english": "to discriminate against, insult, look down on",
+    "english": "to stretch, to extend; to discriminate against, to look down on",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -64680,7 +64669,7 @@
   {
     "id": "yt-c14-000",
     "thai": "ไขกุญแจ",
-    "english": "to unlock, to open with a key",
+    "english": "to unlock, to open with a key (lit. to turn the key)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -64955,7 +64944,7 @@
     "id": "yt-c14-028",
     "thai": "ชิงช้าสวรรค์",
     "english": "ferris wheel (lit. 'swing of heaven')",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -65025,7 +65014,7 @@
   {
     "id": "yt-c14-035",
     "thai": "ถล่ม",
-    "english": "to collapse, crash, fall down violently; to destroy, to attack with force",
+    "english": "to collapse, to crash, to fall down violently; to destroy, to attack with force",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -65077,7 +65066,7 @@
   {
     "id": "yt-c14-040",
     "thai": "ซ้ำซาก",
-    "english": "repetitive until it becomes boring (monotonous) or tiresome",
+    "english": "repetitive and dull, occurring again and again until it becomes boring, monotonous, tiresome",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -65559,7 +65548,7 @@
   {
     "id": "yt-c14-088",
     "thai": "เด้ง",
-    "english": "to bounce; (appearance) youthful, plump, tight, fresh",
+    "english": "to bounce, to spring back; (skin) firm, tight, not saggy",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -65689,7 +65678,7 @@
   {
     "id": "yt-c15-003",
     "thai": "เล็ง",
-    "english": "to target, aim, focus on",
+    "english": "to target, to aim, to focus on",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -65885,7 +65874,7 @@
     "id": "yt-c15-023",
     "thai": "ราดน้ำ - กดชักโครก",
     "english": "to pour water (manually flush) - to flush the toilet (press the flush button)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -65893,7 +65882,7 @@
   },
   {
     "id": "yt-c15-024",
-    "thai": "(กลิ่น)สาบ",
+    "thai": "กลิ่นสาบ",
     "english": "unpleasant sweaty, musty odor",
     "frequency": "common",
     "topic": "general",
@@ -65986,7 +65975,7 @@
     "id": "yt-c15-035",
     "thai": "ขวดโหล",
     "english": "glass jar (e.g for pickled food, coins, spices, etc)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -66197,7 +66186,7 @@
   {
     "id": "yt-c15-057",
     "thai": "แง้ม",
-    "english": "to open slightly, open a little",
+    "english": "(lit) to open slightly; (fig) to hint at, to reveal a little",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -66280,7 +66269,7 @@
   {
     "id": "yt-c15-066",
     "thai": "งัด",
-    "english": "to pry, lever open, lever up",
+    "english": "to pry, to lever up",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -66350,7 +66339,7 @@
   {
     "id": "yt-c15-074",
     "thai": "ตกหล่น",
-    "english": "to be left out, to be omitted",
+    "english": "to be unintentionally left out, to be omitted",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -66360,8 +66349,8 @@
   {
     "id": "yt-c15-075",
     "thai": "โห่",
-    "english": "(onomatopoeic verb) meaning to boo, to shout loudly to show dislike",
-    "frequency": "common",
+    "english": "(onomatopoeic verb) to boo, to shout loudly to show dislike",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -66380,7 +66369,7 @@
   {
     "id": "yt-c15-077",
     "thai": "เสียหลัก",
-    "english": "to lose one's balance (physically), to lose one's stability (emotionally)",
+    "english": "to lose one's balance (physically), to lose control, to lose one's stability (emotionally)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -66434,7 +66423,7 @@
     "id": "yt-c15-082",
     "thai": "นางเงือก",
     "english": "mermaid",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -66463,7 +66452,7 @@
   {
     "id": "yt-c15-085",
     "thai": "ควง",
-    "english": "to spin, whirl, rotate",
+    "english": "to spin, to twirl, to rotate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -66564,7 +66553,7 @@
   {
     "id": "yt-c15-097",
     "thai": "เสื่อมเสีย",
-    "english": "to tarnish, dishonor (reputation, social standing)",
+    "english": "to damage, to tarnish (usually reputation, social standing)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -66605,7 +66594,7 @@
     "id": "yt-c16-001",
     "thai": "ดอกจัน",
     "english": "asterisk symbol (*)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -66635,7 +66624,7 @@
     "id": "yt-c16-004",
     "thai": "กทม",
     "english": "abbreviation for Bangkok (pronounced go to mo)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "YouTube"
@@ -66936,7 +66925,7 @@
   {
     "id": "yt-c16-035",
     "thai": "ไข",
-    "english": "to solve, to figure out (e.g a problem, a puzzle)",
+    "english": "to solve, to figure out (e.g a problem, a puzzle); to turn, to operate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -67073,7 +67062,7 @@
   {
     "id": "yt-c16-048",
     "thai": "กระทบกระเทือน",
-    "english": "to affect, shake, impact (physically or emotionally)",
+    "english": "to affect, to shake, to impact (physically or emotionally)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -71172,7 +71161,7 @@
   {
     "id": "yt-c20-074",
     "thai": "ล่มสลาย",
-    "english": "to collapse, to fall apart",
+    "english": "to collapse, to fall apart (e.g system, society, empire)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -71377,17 +71366,6 @@
     "topic": "slang",
     "sources": [
       "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c20-095",
-    "thai": "แฟ้บ, ผงซักฟอก",
-    "english": "detergent",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "YouTube",
-      "Anki Basics"
     ]
   },
   {
@@ -71735,7 +71713,7 @@
   {
     "id": "yt-c21-032",
     "thai": "จู่โจม",
-    "english": "to assault, to attack suddenly",
+    "english": "to ambush, to raid, to launch a surprise attack",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -74425,7 +74403,7 @@
     "id": "wlt-c01-093",
     "thai": "ซีดี",
     "english": "CD (loanword)",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Anki Basics"
@@ -74714,7 +74692,7 @@
   {
     "id": "wlt-c02-030",
     "thai": "ตากแดด",
-    "english": "dry in the sun",
+    "english": "to dry in the sun, to expose sth to sunlight",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -75019,7 +74997,7 @@
   {
     "id": "wlt-c02-064",
     "thai": "ทำหาย",
-    "english": "to lose",
+    "english": "to lose (sth)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -75049,7 +75027,7 @@
   {
     "id": "wlt-c02-070",
     "thai": "ที่ว่าง",
-    "english": "unoccupied space/place",
+    "english": "unoccupied space, vacant place",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -75227,7 +75205,7 @@
     "id": "wlt-c02-086",
     "thai": "น้อยลง",
     "english": "less",
-    "frequency": "common",
+    "frequency": "everyday",
     "topic": "general",
     "sources": [
       "Anki Basics"
@@ -75497,7 +75475,7 @@
   {
     "id": "wlt-c03-015",
     "thai": "บัตรผ่าน",
-    "english": "pass",
+    "english": "pass, entry card",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -75760,7 +75738,7 @@
   {
     "id": "wlt-c03-049",
     "thai": "ไปธุระ",
-    "english": "to go out on business",
+    "english": "to go run an errand, to go out on business",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -75909,7 +75887,7 @@
   {
     "id": "wlt-c03-074",
     "thai": "มองหา",
-    "english": "to look for, look around for",
+    "english": "to look for, to search visually for something",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -76050,16 +76028,6 @@
     "id": "wlt-c03-088",
     "thai": "มือสอง",
     "english": "secondhand",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c03-089",
-    "thai": "เมาเหล้า",
-    "english": "drunk",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -76576,16 +76544,6 @@
     ]
   },
   {
-    "id": "wlt-c04-051",
-    "thai": "สบูลักส์",
-    "english": "soap (Lux)",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c04-053",
     "thai": "สบู่เหลว",
     "english": "liquid soap",
@@ -76599,7 +76557,7 @@
     "id": "wlt-c04-054",
     "thai": "สปอร์ตคลับ",
     "english": "sports club",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Anki Basics"
@@ -76816,7 +76774,7 @@
   {
     "id": "wlt-c04-074",
     "thai": "สีคล้ำ",
-    "english": "dark-colored",
+    "english": "dark colored",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -76870,7 +76828,7 @@
   {
     "id": "wlt-c04-079",
     "thai": "สีเหลืองอ่อน",
-    "english": "light yellow",
+    "english": "light yellow, pale yellow",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -76904,16 +76862,6 @@
     "english": "large flat rice noodles",
     "frequency": "common",
     "topic": "food",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c04-085",
-    "thai": "เสื้อกางเกง",
-    "english": "suit of clothes",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Anki Basics"
     ]
@@ -77552,7 +77500,7 @@
   {
     "id": "wlt-c05-060",
     "thai": "แก้ไขเพิ่มเติม",
-    "english": "amend",
+    "english": "to amend, to revise",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -77814,7 +77762,7 @@
   {
     "id": "wlt-c05-091",
     "thai": "ครูฝึก",
-    "english": "coach",
+    "english": "coach, trainer",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -78311,7 +78259,7 @@
   {
     "id": "wlt-c06-046",
     "thai": "ชี้แจง",
-    "english": "to clarify",
+    "english": "to clarify, to explain in detail",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -78337,7 +78285,7 @@
   {
     "id": "wlt-c06-048",
     "thai": "ชุดชั้นใน",
-    "english": "lingerie",
+    "english": "underwear, lingerie",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -78574,7 +78522,7 @@
   {
     "id": "wlt-c06-069",
     "thai": "ตบ",
-    "english": "to slap",
+    "english": "to slap, to strike with the open hand",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -80045,7 +79993,7 @@
   {
     "id": "wlt-c08-032",
     "thai": "มองดู",
-    "english": "look at closely",
+    "english": "to look at closely, to observe",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -83691,7 +83639,7 @@
   {
     "id": "wlt-c11-087",
     "thai": "ยากจน",
-    "english": "destitute, penniless, difficult",
+    "english": "destitute, poor",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -85321,16 +85269,6 @@
     ]
   },
   {
-    "id": "wlt-c13-036",
-    "thai": "เดนมาร์ก",
-    "english": "Denmark",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c13-037",
     "thai": "เดินทาง",
     "english": "to travel",
@@ -85496,16 +85434,6 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c13-053",
-    "thai": "ไต้หวัน",
-    "english": "Taiwan",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -85760,16 +85688,6 @@
     "audio_en_src": "younger sister"
   },
   {
-    "id": "wlt-c13-081",
-    "thai": "นอร์เวย์",
-    "english": "Norway",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c13-083",
     "thai": "น่า",
     "english": "worthy of, leading to, or –able (forms verb compounds)",
@@ -85858,26 +85776,6 @@
     "audio_en_src": "oil, gasoline"
   },
   {
-    "id": "wlt-c13-090",
-    "thai": "นิวซีแลนด์",
-    "english": "New Zealand",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c13-091",
-    "thai": "เนเธอร์แลนด์",
-    "english": "Netherlands",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c13-092",
     "thai": "แน่นอน",
     "english": "certain, sure",
@@ -85904,16 +85802,6 @@
     ]
   },
   {
-    "id": "wlt-c13-094",
-    "thai": "บราซิล",
-    "english": "Brazil",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c13-095",
     "thai": "บริษัท",
     "english": "company, business",
@@ -85922,16 +85810,6 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c13-096",
-    "thai": "เบลเยี่ยม",
-    "english": "Belgium",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -86010,26 +85888,6 @@
     ]
   },
   {
-    "id": "wlt-c14-003",
-    "thai": "ปากีสถาน",
-    "english": "Pakistan",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c14-004",
-    "thai": "ปานามา",
-    "english": "Panama",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c14-005",
     "thai": "ปืน",
     "english": "gun",
@@ -86049,16 +85907,6 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c14-008",
-    "thai": "โปรตุเกส",
-    "english": "Portugal",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -86198,26 +86046,6 @@
     "english": "goat",
     "frequency": "common",
     "topic": "nature",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c14-023",
-    "thai": "ฟินแลนด์",
-    "english": "Finland",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c14-024",
-    "thai": "ฟิลิปปินส์",
-    "english": "Philippines",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Anki Basics"
     ]
@@ -86582,7 +86410,7 @@
   {
     "id": "wlt-c14-061",
     "thai": "ลาว",
-    "english": "Laos, Lao, Laotian",
+    "english": "Laos",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -86704,16 +86532,6 @@
     "audio_en_src": "satang"
   },
   {
-    "id": "wlt-c14-072",
-    "thai": "สเปน",
-    "english": "Spain",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c14-073",
     "thai": "ส่วนตัว",
     "english": "private, personal",
@@ -86725,31 +86543,10 @@
     ]
   },
   {
-    "id": "wlt-c14-076",
-    "thai": "สวีเดน",
-    "english": "Sweden",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c14-077",
     "thai": "สหประชาชาติ",
     "english": "United Nations",
     "frequency": "occasional",
-    "topic": "general",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c14-078",
-    "thai": "สหรัฐ",
-    "english": "United States",
-    "frequency": "common",
     "topic": "general",
     "sources": [
       "Anki Basics",
@@ -87027,16 +86824,6 @@
     "audio_en_src": "classifier for places"
   },
   {
-    "id": "wlt-c15-001",
-    "thai": "ออสเตรีย",
-    "english": "Austria (loanword)",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c15-002",
     "thai": "อังกฤษ",
     "english": "English, England",
@@ -87060,16 +86847,6 @@
     "audio_en": true,
     "audio_src": "อัน",
     "audio_en_src": "classifier for things and inanimate objects"
-  },
-  {
-    "id": "wlt-c15-004",
-    "thai": "อาร์เจนตินา",
-    "english": "Argentina (loanword)",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
   },
   {
     "id": "wlt-c15-006",
@@ -87100,59 +86877,9 @@
     "audio_en_src": "breakfast"
   },
   {
-    "id": "wlt-c15-008",
-    "thai": "อิตาลี",
-    "english": "Italy",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c15-009",
     "thai": "อินเดีย",
     "english": "India, Indian",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c15-010",
-    "thai": "อินโดนีเซีย",
-    "english": "Indonesia, Indonesian",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c15-011",
-    "thai": "อิสราเอล",
-    "english": "Israel",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c15-012",
-    "thai": "อิหร่าน",
-    "english": "Iran",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c15-013",
-    "thai": "อียิปต์",
-    "english": "Egypt",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -87199,16 +86926,6 @@
     "id": "wlt-c15-018",
     "thai": "ฮ่องกง",
     "english": "Hong Kong",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c15-019",
-    "thai": "ฮอลันดา",
-    "english": "Holland",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -87547,16 +87264,6 @@
     "audio_en": true,
     "audio_src": "คือ",
     "audio_en_src": "to be, is"
-  },
-  {
-    "id": "wlt-c15-044",
-    "thai": "แคนาดา",
-    "english": "Canada",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
   },
   {
     "id": "wlt-c15-046",
@@ -88151,16 +87858,6 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c15-095",
-    "thai": "ประเทศอังกฤษ",
-    "english": "England",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -88940,16 +88637,6 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c16-058",
-    "thai": "อเมริกัน",
-    "english": "American (loanword)",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -90688,16 +90375,6 @@
     ]
   },
   {
-    "id": "wlt-c18-003",
-    "thai": "ขายของ",
-    "english": "to sell things",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c18-004",
     "thai": "ขี้เมา",
     "english": "a drunkard, an alcoholic",
@@ -91013,7 +90690,7 @@
     "id": "wlt-c18-044",
     "thai": "ซิป",
     "english": "zipper",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Anki Basics"
@@ -91112,16 +90789,6 @@
     "english": "expressway",
     "frequency": "common",
     "topic": "transport",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c18-058",
-    "thai": "ทำงานให้",
-    "english": "to work for …",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Anki Basics"
     ]
@@ -92239,19 +91906,9 @@
     ]
   },
   {
-    "id": "wlt-c19-079",
-    "thai": "แอบกิน",
-    "english": "to eat secretly",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c19-080",
     "thai": "แอบดู",
-    "english": "to peek at",
+    "english": "to peek at, to secretly watch",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96929,16 +96586,6 @@
     "id": "t4k-c03-037",
     "thai": "จัดทำ",
     "english": "make; do",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c03-038",
-    "thai": "เกี่ยว",
-    "english": "hook; reap; be concerned with",
     "frequency": "common",
     "topic": "general",
     "sources": [
