@@ -2691,33 +2691,3 @@ body[data-thai-font="sarabun"] .fc-type-input { font-family: 'Sarabun', 'Noto Sa
 }
 .fc-type-result.is-correct { color: var(--freq-everyday); }
 .fc-type-result.is-wrong { color: var(--freq-rare); }
-
-/* Write mode */
-.fc-write-canvas {
-  display: block;
-  width: 100%;
-  height: 180px;
-  background: var(--surface);
-  border: 2px dashed var(--border);
-  border-radius: 10px;
-  touch-action: none; /* let pointer events draw instead of scrolling */
-  cursor: crosshair;
-}
-.fc-write-tools {
-  display: flex;
-  align-items: center;
-  gap: 0.7rem;
-  margin-top: 0.5rem;
-}
-.fc-write-clear {
-  padding: 0.35rem 0.85rem;
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--accent-strong);
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  cursor: pointer;
-}
-.fc-write-clear:hover { background: var(--surface-muted); }
-.fc-write-hint { margin: 0; color: var(--text-muted); font-size: 0.82rem; font-style: italic; }
