@@ -54,7 +54,7 @@
     newPerDay: 15,
     direction: "both",
     listening: false,
-    answerMode: "none",
+    typeMode: false,
     excluded: { frequency: {}, topic: {} },
     day: null,
   };
@@ -63,9 +63,11 @@
   config.excluded.frequency = config.excluded.frequency || {};
   config.excluded.topic = config.excluded.topic || {};
   if (config.direction !== "e2t" && config.direction !== "t2e") config.direction = "both";
-  // Answer mode: on English→Thai cards, produce the Thai instead of just recalling
-  // it. "type" is validated against the spelling; "write" is drawn and self-graded.
-  if (["none", "type", "write"].indexOf(config.answerMode) === -1) config.answerMode = "none";
+  // Type mode: on English→Thai cards, type the Thai (checked against the spelling)
+  // instead of just self-rating recall. Migrate the old answerMode dropdown value.
+  if (config.typeMode === undefined) config.typeMode = config.answerMode === "type";
+  config.typeMode = !!config.typeMode;
+  delete config.answerMode;
 
   // Direction filter: which card directions are eligible for the queue and the
   // stat counts. "both" returns the full DIRS list; the others restrict to one.
@@ -225,7 +227,7 @@
     return { front: word.english, back: word.thai, frontThai: false };
   }
 
-  // ── Answer mode (type / write) ──────────────────────────────────────────────
+  // ── Type mode ───────────────────────────────────────────────────────────────
   // The Thai field sometimes lists several acceptable spellings, separated by
   // commas or a spaced dash (e.g. "คอย, รอคอย"). Any of them counts as correct.
   function thaiVariants(thai) {
@@ -245,35 +247,7 @@
     return "wrong";
   }
 
-  // Drawing surface for "write" mode (finger / stylus / mouse, self-graded).
-  var canvasCtx = null, drawing = false;
-  function setupCanvas() {
-    var c = $("fc-write-canvas");
-    if (!c) return;
-    var dpr = window.devicePixelRatio || 1;
-    var w = c.parentNode.clientWidth, h = 180;
-    c.width = Math.round(w * dpr);
-    c.height = Math.round(h * dpr);
-    c.style.height = h + "px";
-    canvasCtx = c.getContext("2d");
-    canvasCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    canvasCtx.lineWidth = 3.5;
-    canvasCtx.lineCap = "round";
-    canvasCtx.lineJoin = "round";
-    canvasCtx.strokeStyle =
-      getComputedStyle(document.documentElement).getPropertyValue("--text").trim() || "#111";
-    canvasCtx.clearRect(0, 0, w, h);
-  }
-  function clearCanvas() {
-    var c = $("fc-write-canvas");
-    if (c && canvasCtx) canvasCtx.clearRect(0, 0, c.clientWidth, c.clientHeight);
-  }
-  function canvasPos(c, e) {
-    var r = c.getBoundingClientRect();
-    return { x: e.clientX - r.left, y: e.clientY - r.top };
-  }
-
-  // Reset the produce area between cards (hide everything, clear input/canvas).
+  // Reset the produce area between cards (hide it, clear the input/result).
   function resetProduce() {
     var p = $("fc-produce");
     if (p) p.hidden = true;
@@ -281,9 +255,6 @@
     if (inp) { inp.value = ""; inp.disabled = false; inp.hidden = true; inp.className = "fc-type-input"; }
     var res = $("fc-type-result");
     if (res) { res.hidden = true; res.textContent = ""; res.className = "fc-type-result"; }
-    var wr = $("fc-write");
-    if (wr) wr.hidden = true;
-    clearCanvas();
   }
 
   // ── Queue building ───────────────────────────────────────────────────────
@@ -437,24 +408,20 @@
     copy.dataset.front = f.front;
     copy.dataset.thai = word.thai;
 
-    // Answer mode: only engages when the answer is Thai (English→Thai cards). On
-    // Thai→English cards there's nothing to produce, so the normal flow runs.
+    // Type mode: only engages when the answer is Thai (English→Thai cards). On
+    // Thai→English cards there's nothing to type, so the normal flow runs.
     resetProduce();
-    var producing = config.answerMode !== "none" && !f.frontThai;
+    var producing = config.typeMode && !f.frontThai;
     var showBtn = $("fc-show");
     if (producing) {
       $("fc-produce").hidden = false;
-      if (config.answerMode === "type") {
-        var inp = $("fc-type-input");
-        inp.hidden = false;
-        inp.dataset.answer = word.thai;
-        showBtn.textContent = "Check";
-        setTimeout(function () { inp.focus(); }, 0);
-      } else {
-        $("fc-write").hidden = false;
-        setupCanvas();
-        showBtn.textContent = "Reveal";
-      }
+      var inp = $("fc-type-input");
+      inp.hidden = false;
+      inp.dataset.answer = word.thai;
+      showBtn.textContent = "Check";
+      // No auto-focus: the keyboard only appears when the user taps the field.
+      // Still scroll it into view, since the card can push it below the fold.
+      setTimeout(function () { inp.scrollIntoView({ block: "center" }); }, 0);
     } else {
       showBtn.textContent = "Show answer";
     }
@@ -522,7 +489,7 @@
 
     // Type mode: grade the spelling against the accepted variants and lock the
     // field. The grade buttons still appear: the check is feedback, not a grade.
-    if (config.answerMode === "type" && !$("fc-type-input").hidden) {
+    if (config.typeMode && !$("fc-type-input").hidden) {
       var inp = $("fc-type-input");
       var typed = inp.value;
       var ok = typedStatus(typed, inp.dataset.answer) === "correct";
@@ -871,30 +838,6 @@
       if (e.key === "Enter" && !revealed) { e.preventDefault(); revealAnswer(); }
     });
 
-    // Write mode: pointer drawing (mouse / touch / stylus) + clear.
-    var canvas = $("fc-write-canvas");
-    canvas.addEventListener("pointerdown", function (e) {
-      if (!canvasCtx) return;
-      drawing = true;
-      var p = canvasPos(canvas, e);
-      canvasCtx.beginPath();
-      canvasCtx.moveTo(p.x, p.y);
-      try { canvas.setPointerCapture(e.pointerId); } catch (err) {}
-      e.preventDefault();
-    });
-    canvas.addEventListener("pointermove", function (e) {
-      if (!drawing || !canvasCtx) return;
-      var p = canvasPos(canvas, e);
-      canvasCtx.lineTo(p.x, p.y);
-      canvasCtx.stroke();
-      e.preventDefault();
-    });
-    var stop = function () { drawing = false; };
-    canvas.addEventListener("pointerup", stop);
-    canvas.addEventListener("pointercancel", stop);
-    canvas.addEventListener("pointerleave", stop);
-    $("fc-write-clear").addEventListener("click", clearCanvas);
-
     // Keyboard: space/enter reveals, 1-4 grade (desktop convenience).
     // Stashed on window so a subsequent init() (after SPA revisit) can detach
     // the prior closure's handler before installing the new one — otherwise
@@ -915,15 +858,13 @@
     document.addEventListener("keydown", window.__fcKeydown);
   }
 
-  // ── Answer-mode setting ─────────────────────────────────────────────────────
-  function renderAnswerModeSelect() {
-    $("fc-answer-mode").value = config.answerMode;
+  // ── Type-mode setting ───────────────────────────────────────────────────────
+  function renderTypeToggle() {
+    $("fc-type-mode").checked = config.typeMode;
   }
-  function wireAnswerModeSelect() {
-    $("fc-answer-mode").addEventListener("change", function (e) {
-      var v = e.target.value;
-      if (["none", "type", "write"].indexOf(v) === -1) v = "none";
-      config.answerMode = v;
+  function wireTypeToggle() {
+    $("fc-type-mode").addEventListener("change", function (e) {
+      config.typeMode = e.target.checked;
       saveConfig();
     });
   }
