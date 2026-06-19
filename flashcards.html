@@ -59,6 +59,19 @@
         </div>
 
         <div class="fc-setting">
+          <span class="fc-setting-label">Answer mode</span>
+          <button type="button" class="fc-info" aria-label="What is Answer mode?">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+            <span class="fc-info-bubble" role="tooltip">On English&rarr;Thai cards, produce the Thai instead of just recalling it: type it (checked against the spelling) or write it with your finger (you grade yourself). No effect on Thai&rarr;English cards.</span>
+          </button>
+          <select id="fc-answer-mode" class="vocab-deck-select" style="margin-left:auto" aria-label="Answer mode">
+            <option value="none">Default</option>
+            <option value="type">Type Thai</option>
+            <option value="write">Write Thai</option>
+          </select>
+        </div>
+
+        <div class="fc-setting">
           <span class="fc-setting-label">New cards per day</span>
           <div class="fc-stepper">
             <button type="button" data-step="-5" aria-label="Fewer">&minus;</button>
@@ -119,6 +132,20 @@
             <button class="fc-suspend" id="fc-suspend" type="button" aria-label="Suspend this card" title="Suspend / Unsuspend">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><line x1="5.5" y1="5.5" x2="18.5" y2="18.5"/></svg>
             </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="fc-produce" id="fc-produce" hidden>
+        <input type="text" id="fc-type-input" class="fc-type-input" lang="th"
+               autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+               placeholder="Type the Thai…" aria-label="Type the Thai word" hidden>
+        <div class="fc-type-result" id="fc-type-result" hidden></div>
+        <div class="fc-write" id="fc-write" hidden>
+          <canvas id="fc-write-canvas" class="fc-write-canvas"></canvas>
+          <div class="fc-write-tools">
+            <button type="button" id="fc-write-clear" class="fc-write-clear">Clear</button>
+            <span class="fc-write-hint">Write the Thai, then Reveal to compare.</span>
           </div>
         </div>
       </div>
