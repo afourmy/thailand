@@ -6715,3 +6715,75 @@ Free-form decisions file batch 17 — create 2 new cards
     create new-2: จูน = 'to fine-tune, to adjust, to calibrate (loanword, from "tune")'
 Vocab: 9340 -> 9342
 
+
+======================================================================
+Free-form decisions file batch 18 — eng edits, 1 update+park, 4 removes
+
+    edit wlt-c12-083.english = 'to live, to reside; to depend on, to rely on'
+    edit wlt-c12-086.english = 'warm, to warm up, to heat up'
+    edit wlt-c12-089.english = 'department, bureau, government agency'
+    edit wlt-c13-009.english = 'mark, line, to mark, to draw a line; 100 grams'
+    edit wlt-c13-030.english = 'to check (loanword)'
+    edit wlt-c13-048.english = 'to contact, to get in touch with'
+    edit wlt-c13-093.english = 'to introduce; to advise, to suggest'
+    edit wlt-c14-000.english = 'ancient, old, archaic'
+    edit wlt-c14-007.english = 'to change, to transform, to alter'
+    edit wlt-c14-046.english = 'to cooperate, to collaborate, to work together'
+    edit wlt-c14-058.english = 'to fall down, to topple; to collapse'
+    edit wlt-c14-062.english = 'number, numeral; (informal) math'
+    edit wlt-c14-066.english = 'to leave out, to omit, to skip'
+    edit wlt-c14-091.english = 'yard (~0.91m)'
+    edit wlt-c14-089.english = 'to show, to display'
+    edit wlt-c15-075.english = 'to overlap, to stack on top; to press, to run over, to crush; slash ("/")'
+    edit wlt-c16-084.english = 'to invite, to suggest someone to do something'
+    edit wlt-c16-096.english = 'building (e.g large, concrete)'
+    edit wlt-c21-029.english = 'to meet, to encounter'
+    edit t4k-c01-008.english = 'source, origin'
+    edit t4k-c01-012.english = 'to offer, to propose'
+    edit t4k-c01-013.english = 'clear, easy to comprehend'
+    edit t4k-c01-019.english = 'list of; individual; item; case, instance'
+    edit t4k-c01-023.english = 'believable, credible'
+    edit t4k-c01-027.english = 'to resemble, to look like'
+    edit t4k-c01-028.english = 'to help, to assist'
+    edit t4k-c01-031.english = 'official; formal'
+    edit t4k-c01-052.english = 'to carry out, to perform, to conduct'
+    edit t4k-c01-056.english = 'adjacent, close; intimate'
+    edit t4k-c01-062.english = 'energy, power'
+    edit t4k-c01-084.english = 'bad, evil, harmful'
+    edit t4k-c01-091.english = 'order, command'
+    edit t4k-c01-047.english = 'related, connected'
+    edit t4k-c01-082.english = 'to fight, to struggle'
+    edit t4k-c02-006.english = 'to know how to do, to be skilled at; to pretend, to feign'
+    edit t4k-c02-009.english = 'to stack, to overlap'
+    edit t4k-c02-016.english = 'unit (of measurement)'
+    edit t4k-c02-017.english = 'office, bureau, institution'
+    edit t4k-c02-018.english = 'close, intimate'
+    edit t4k-c02-020.english = 'far, distant, remote'
+    edit t4k-c02-025.english = 'stream, flow; (fig) trend, wave'
+    edit t4k-c02-029.english = 'various, many kinds'
+    edit t4k-c02-032.english = 'to apply, to spread on a surface (e.g paint, cream)'
+    edit t4k-c02-034.english = 'to hunt'
+    edit t4k-c02-040.english = 'to protect, to defend'
+    edit t4k-c02-042.english = 'blocked, clogged, obstructed; ton (unit)'
+    edit t4k-c02-047.english = 'place, location'
+    edit t4k-c02-048.english = 'to exceed, to go beyond; futuristic, advanced, cutting-edge'
+    edit t4k-c02-050.english = 'aspect, point of view'
+    edit t4k-c02-051.english = 'words, speech'
+    edit t4k-c02-056.english = 'secret, hidden; to sharpen (e.g knife)'
+    edit t4k-c02-060.english = 'to digest, to break down; smaller part, minor, sub-'
+    edit t4k-c02-070.english = 'to establish, to set up'
+    edit t4k-c02-071.english = 'to cause, to give rise to'
+    edit t4k-c02-073.english = 'rank, status, dignity, prestige'
+    edit t4k-c02-083.english = 'to add; plus ("+"), positive'
+    edit t4k-c02-084.english = 'twisted, crooked, bent'
+    edit t4k-c02-098.english = 'to think of, to recall, to remember'
+    edit t4k-c03-011.english = 'to press'
+    edit t4k-c03-016.english = 'to surround, to encircle; to besiege'
+    update+park wlt-c12-092 (english = 'round, circular; large bottle of whisky')
+    delete wlt-c13-033
+    delete t4k-c01-054
+    delete wlt-c19-016
+    delete t4k-c02-035
+Eng edits: 60  Parked: 1  Deletes: 4
+Vocab: 9342 -> 9337
+

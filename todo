@@ -1,0 +1,7 @@
+- Comprehension-coverage dashboard — you have frequency on every word. Show "you now know 73% of everyday-frequency Thai, 41% of common." A progress bar toward actual fluency, not just card counts.
+
+- Script-typing mode — instead of "did you recall it?", you type the Thai script and it validates character-by-character. Trains spelling + the alphabet, which flashcards never do.
+
+- Listening-first reviews — flip the card: play the Thai audio, you produce the meaning. Pure recognition-by-text leaves your ear untrained. Restrict the due pool to the 1,225-with-audio and you've got a real listening deck for free.
+
+- Tone/pitch matcher — you already have Thai TTS audio for 1,225 words. Record yourself saying the word, run a pitch-detection on both, overlay the two contours. You see whether your falling tone actually fell. Nobody's spaced-repetition app does production feedback, and you have the reference audio sitting there.

@@ -84583,7 +84583,7 @@
   {
     "id": "wlt-c12-083",
     "thai": "อาศัยอยู่, อาศัย",
-    "english": "to dwell",
+    "english": "to live, to reside; to depend on, to rely on",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -84618,7 +84618,7 @@
   {
     "id": "wlt-c12-086",
     "thai": "อุ่น",
-    "english": "warm",
+    "english": "warm, to warm up, to heat up",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -84640,7 +84640,7 @@
   {
     "id": "wlt-c12-089",
     "thai": "กรม",
-    "english": "department, bureau, regiment of soldiers",
+    "english": "department, bureau, government agency",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -84663,17 +84663,6 @@
     "id": "wlt-c12-091",
     "thai": "กระดาน",
     "english": "board, plank",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c12-092",
-    "thai": "กลม",
-    "english": "round, circular, large bottle whisky",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -84880,7 +84869,7 @@
   {
     "id": "wlt-c13-009",
     "thai": "ขีด",
-    "english": "to scratch, 100 grams",
+    "english": "mark, line, to mark, to draw a line; 100 grams",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -85122,7 +85111,7 @@
   {
     "id": "wlt-c13-030",
     "thai": "เช็ค",
-    "english": "to check, cheque (loanword)",
+    "english": "to check (loanword)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -85159,16 +85148,6 @@
     "audio_en": true,
     "audio_src": "ใช่",
     "audio_en_src": "yes"
-  },
-  {
-    "id": "wlt-c13-033",
-    "thai": "ซาอุดีอาระเบีย",
-    "english": "Saudi Arabia",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
   },
   {
     "id": "wlt-c13-034",
@@ -85345,7 +85324,7 @@
   {
     "id": "wlt-c13-048",
     "thai": "ติดต่อ",
-    "english": "to contact, get in touch with",
+    "english": "to contact, to get in touch with",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -85721,7 +85700,7 @@
   {
     "id": "wlt-c13-093",
     "thai": "แนะนำ",
-    "english": "introduce, advise, suggest",
+    "english": "to introduce; to advise, to suggest",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -85783,7 +85762,7 @@
   {
     "id": "wlt-c14-000",
     "thai": "โบราณ",
-    "english": "outdated, ancient, artifact",
+    "english": "ancient, old, archaic",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -85829,7 +85808,7 @@
   {
     "id": "wlt-c14-007",
     "thai": "เปลี่ยน, เปลี่ยนแปลง",
-    "english": "to change, transform, turn into",
+    "english": "to change, to transform, to alter",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -86176,7 +86155,7 @@
   {
     "id": "wlt-c14-046",
     "thai": "ร่วมมือ",
-    "english": "to cooperate, collaborate, work together",
+    "english": "to cooperate, to collaborate, to work together",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -86301,7 +86280,7 @@
   {
     "id": "wlt-c14-058",
     "thai": "ล้ม",
-    "english": "to die, perish; fall down",
+    "english": "to fall down, to topple; to collapse",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -86349,7 +86328,7 @@
   {
     "id": "wlt-c14-062",
     "thai": "เลข",
-    "english": "math",
+    "english": "number, numeral; (informal) math",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -86402,7 +86381,7 @@
   {
     "id": "wlt-c14-066",
     "thai": "เว้น",
-    "english": "to exclude, omit, skip over",
+    "english": "to leave out, to omit, to skip",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -86607,7 +86586,7 @@
   {
     "id": "wlt-c14-089",
     "thai": "แสดง",
-    "english": "to show, display, indicate",
+    "english": "to show, to display",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -86618,7 +86597,7 @@
   {
     "id": "wlt-c14-091",
     "thai": "หลา",
-    "english": "yard (36 inches)",
+    "english": "yard (~0.91m)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -87560,7 +87539,7 @@
   {
     "id": "wlt-c15-075",
     "thai": "ทับ",
-    "english": "slash (used in addresses), to superimpose, lay on top, run over",
+    "english": "to overlap, to stack on top; to press, to run over, to crush; slash (\"/\")",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -88808,7 +88787,7 @@
   {
     "id": "wlt-c16-084",
     "thai": "ชวน",
-    "english": "to invite, urge, persuade someone to do something",
+    "english": "to invite, to suggest someone to do something",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -88957,7 +88936,7 @@
   {
     "id": "wlt-c16-096",
     "thai": "ตึก",
-    "english": "building made of masonry",
+    "english": "building (e.g large, concrete)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -91223,16 +91202,6 @@
     "english": "to have a baby",
     "frequency": "common",
     "topic": "family",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c19-016",
-    "thai": "ไม่ติด",
-    "english": "to not attach, can’t get connection",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Anki Basics"
     ]
@@ -93870,7 +93839,7 @@
   {
     "id": "wlt-c21-029",
     "thai": "พบ",
-    "english": "meet, run into (someone)",
+    "english": "to meet, to encounter",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94671,7 +94640,7 @@
   {
     "id": "t4k-c01-008",
     "thai": "ที่มา",
-    "english": "origin; source; cause",
+    "english": "source, origin",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94701,7 +94670,7 @@
   {
     "id": "t4k-c01-012",
     "thai": "เสนอ",
-    "english": "offer",
+    "english": "to offer, to propose",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94711,7 +94680,7 @@
   {
     "id": "t4k-c01-013",
     "thai": "ชัดเจน",
-    "english": "clear; easy to comprehend",
+    "english": "clear, easy to comprehend",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94755,7 +94724,7 @@
   {
     "id": "t4k-c01-019",
     "thai": "ราย",
-    "english": "record; list of items; case; instance",
+    "english": "list of; individual; item; case, instance",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94785,7 +94754,7 @@
   {
     "id": "t4k-c01-023",
     "thai": "น่าเชื่อ",
-    "english": "believable; reliable",
+    "english": "believable, credible",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94825,7 +94794,7 @@
   {
     "id": "t4k-c01-027",
     "thai": "คล้าย",
-    "english": "to resemble",
+    "english": "to resemble, to look like",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94836,7 +94805,7 @@
   {
     "id": "t4k-c01-028",
     "thai": "ช่วยเหลือ",
-    "english": "help; assist",
+    "english": "to help, to assist",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94866,7 +94835,7 @@
   {
     "id": "t4k-c01-031",
     "thai": "ทางการ",
-    "english": "official; authority; formal",
+    "english": "official; formal",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -94975,7 +94944,7 @@
   {
     "id": "t4k-c01-047",
     "thai": "เกี่ยวข้อง",
-    "english": "involved; concerned",
+    "english": "related, connected",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95015,7 +94984,7 @@
   {
     "id": "t4k-c01-052",
     "thai": "ทำการ",
-    "english": "work; operate; do",
+    "english": "to carry out, to perform, to conduct",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95033,16 +95002,6 @@
     ]
   },
   {
-    "id": "t4k-c01-054",
-    "thai": "เข้าสู่",
-    "english": "to move towards; enter",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c01-055",
     "thai": "ความสามารถ",
     "english": "ability",
@@ -95055,7 +95014,7 @@
   {
     "id": "t4k-c01-056",
     "thai": "ใกล้ชิด",
-    "english": "adjacent, next to",
+    "english": "adjacent, close; intimate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95100,7 +95059,7 @@
   {
     "id": "t4k-c01-062",
     "thai": "พลัง",
-    "english": "energy; power",
+    "english": "energy, power",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95225,7 +95184,7 @@
   {
     "id": "t4k-c01-082",
     "thai": "ต่อสู้",
-    "english": "battle; fight",
+    "english": "to fight, to struggle",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95235,7 +95194,7 @@
   {
     "id": "t4k-c01-084",
     "thai": "ร้าย",
-    "english": "evil",
+    "english": "bad, evil, harmful",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95300,7 +95259,7 @@
   {
     "id": "t4k-c01-091",
     "thai": "คำสั่ง",
-    "english": "command",
+    "english": "order, command",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95390,7 +95349,7 @@
   {
     "id": "t4k-c02-006",
     "thai": "ทำเป็น",
-    "english": "know how to do; to feign; to pretend",
+    "english": "to know how to do, to be skilled at; to pretend, to feign",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95420,7 +95379,7 @@
   {
     "id": "t4k-c02-009",
     "thai": "ซ้อน",
-    "english": "overlap; overlay",
+    "english": "to stack, to overlap",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95480,7 +95439,7 @@
   {
     "id": "t4k-c02-016",
     "thai": "หน่วย",
-    "english": "unit",
+    "english": "unit (of measurement)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95490,7 +95449,7 @@
   {
     "id": "t4k-c02-017",
     "thai": "สำนัก",
-    "english": "office; bureau; institution",
+    "english": "office, bureau, institution",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95500,7 +95459,7 @@
   {
     "id": "t4k-c02-018",
     "thai": "สนิท",
-    "english": "close",
+    "english": "close, intimate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95520,7 +95479,7 @@
   {
     "id": "t4k-c02-020",
     "thai": "ห่างไกล",
-    "english": "far; afar",
+    "english": "far, distant, remote",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95560,7 +95519,7 @@
   {
     "id": "t4k-c02-025",
     "thai": "กระแส",
-    "english": "stream; river; flow",
+    "english": "stream, flow; (fig) trend, wave",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95590,7 +95549,7 @@
   {
     "id": "t4k-c02-029",
     "thai": "หลากหลาย",
-    "english": "various, many",
+    "english": "various, many kinds",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95611,7 +95570,7 @@
   {
     "id": "t4k-c02-032",
     "thai": "ทา",
-    "english": "apply; paint",
+    "english": "to apply, to spread on a surface (e.g paint, cream)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95621,17 +95580,7 @@
   {
     "id": "t4k-c02-034",
     "thai": "ล่า",
-    "english": "hunt",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c02-035",
-    "thai": "กล่าวถึง",
-    "english": "mention; speak of",
+    "english": "to hunt",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95661,7 +95610,7 @@
   {
     "id": "t4k-c02-040",
     "thai": "ปกป้อง",
-    "english": "guard; protect",
+    "english": "to protect, to defend",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95681,7 +95630,7 @@
   {
     "id": "t4k-c02-042",
     "thai": "ตัน",
-    "english": "ton (unit of weight); to be blocked, clogged, solid",
+    "english": "blocked, clogged, obstructed; ton (unit)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95740,7 +95689,7 @@
   {
     "id": "t4k-c02-047",
     "thai": "สถาน",
-    "english": "place; site; location",
+    "english": "place, location",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95750,7 +95699,7 @@
   {
     "id": "t4k-c02-048",
     "thai": "ล้ำ",
-    "english": "break; violate",
+    "english": "to exceed, to go beyond; futuristic, advanced, cutting-edge",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95770,7 +95719,7 @@
   {
     "id": "t4k-c02-050",
     "thai": "แง่",
-    "english": "point of view; corner",
+    "english": "aspect, point of view",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95780,7 +95729,7 @@
   {
     "id": "t4k-c02-051",
     "thai": "คำพูด",
-    "english": "words; speech",
+    "english": "words, speech",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95810,7 +95759,7 @@
   {
     "id": "t4k-c02-056",
     "thai": "ลับ",
-    "english": "secret; vanish; to sharpen a knife",
+    "english": "secret, hidden; to sharpen (e.g knife)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95830,7 +95779,7 @@
   {
     "id": "t4k-c02-060",
     "thai": "ย่อย",
-    "english": "small; insignificant",
+    "english": "to digest, to break down; smaller part, minor, sub-",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95916,7 +95865,7 @@
   {
     "id": "t4k-c02-070",
     "thai": "จัดตั้ง",
-    "english": "establish",
+    "english": "to establish, to set up",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95927,7 +95876,7 @@
   {
     "id": "t4k-c02-071",
     "thai": "ก่อให้เกิด",
-    "english": "cause; produce",
+    "english": "to cause, to give rise to",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -95947,7 +95896,7 @@
   {
     "id": "t4k-c02-073",
     "thai": "ศักดิ์",
-    "english": "prestige; power; honour",
+    "english": "rank, status, dignity, prestige",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96027,7 +95976,7 @@
   {
     "id": "t4k-c02-083",
     "thai": "บวก",
-    "english": "add; plus",
+    "english": "to add; plus (\"+\"), positive",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96037,7 +95986,7 @@
   {
     "id": "t4k-c02-084",
     "thai": "เก",
-    "english": "twisted; disfigured; lame",
+    "english": "twisted, crooked, bent",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96127,7 +96076,7 @@
   {
     "id": "t4k-c02-098",
     "thai": "นึกถึง",
-    "english": "think about; remember; regard",
+    "english": "to think of, to recall, to remember",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96247,7 +96196,7 @@
   {
     "id": "t4k-c03-011",
     "thai": "กด",
-    "english": "press",
+    "english": "to press",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96297,7 +96246,7 @@
   {
     "id": "t4k-c03-016",
     "thai": "ล้อม",
-    "english": "besiege; surround; encircle",
+    "english": "to surround, to encircle; to besiege",
     "frequency": "common",
     "topic": "general",
     "sources": [

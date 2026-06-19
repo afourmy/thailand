@@ -103557,5 +103557,25 @@
     "frequency": "rare",
     "topic": "expressions",
     "sources": []
+  },
+  {
+    "id": "new-1",
+    "thai": "ยาปฏิชีวนะ",
+    "english": "antibiotics",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "manual"
+    ]
+  },
+  {
+    "id": "new-2",
+    "thai": "จูน",
+    "english": "to fine-tune, to adjust, to calibrate (loanword, from \"tune\")",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "manual"
+    ]
   }
 ]

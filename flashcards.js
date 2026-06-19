@@ -53,9 +53,11 @@
   var config = loadJSON(CONFIG_KEY, null) || {
     newPerDay: 15,
     direction: "both",
+    listening: false,
     excluded: { frequency: {}, topic: {} },
     day: null,
   };
+  config.listening = !!config.listening;
   config.excluded = config.excluded || { frequency: {}, topic: {} };
   config.excluded.frequency = config.excluded.frequency || {};
   config.excluded.topic = config.excluded.topic || {};
@@ -312,6 +314,7 @@
   var sessionTotal = 0;
   var reviewed = 0;
   var revealed = false;
+  var wordBlurred = false; // listening mode: Thai front is blurred until peeked/revealed
   var curId = null;
   var currentAudio = null;
 
@@ -346,7 +349,9 @@
     var backEl = $("fc-back");
     var cardEl = $("fc-card");
     cardEl.className = "fc-card fc-card--freq-" + word.frequency;
-    frontEl.className = "fc-card-face fc-card-front" + (f.frontThai ? " fc-thai" : " fc-en");
+    // Listening mode: blur the Thai prompt (t2e only) so the audio is the cue.
+    wordBlurred = config.listening && f.frontThai;
+    frontEl.className = "fc-card-face fc-card-front" + (f.frontThai ? " fc-thai" : " fc-en") + (wordBlurred ? " fc-blur" : "");
     frontEl.innerHTML = esc(f.front);
     backEl.className = "fc-card-face fc-card-back" + (f.frontThai ? " fc-en" : " fc-thai");
     backEl.innerHTML = esc(f.back);
@@ -423,6 +428,7 @@
   function revealAnswer() {
     if (revealed) return;
     revealed = true;
+    if (wordBlurred) { $("fc-front").classList.remove("fc-blur"); wordBlurred = false; }
     $("fc-back").hidden = false;
     $("fc-divider").hidden = false;
     $("fc-show").hidden = true;
@@ -657,6 +663,18 @@
     });
   }
 
+  // ── Listening mode ────────────────────────────────────────────────────────
+  // Blurs the Thai prompt on t2e cards so the audio is the only cue; tap to peek.
+  function renderListeningToggle() {
+    $("fc-listening").checked = config.listening;
+  }
+  function wireListeningToggle() {
+    $("fc-listening").addEventListener("change", function (e) {
+      config.listening = e.target.checked;
+      saveConfig();
+    });
+  }
+
   // ── Wiring ───────────────────────────────────────────────────────────────
   function wire() {
     $("fc-start").addEventListener("click", startSession);
@@ -669,6 +687,13 @@
       if (e.target.closest("#fc-speak")) { playAudio(); return; }
       if (e.target.closest("#fc-copy")) { copyCurrent(); return; }
       if (e.target.closest("#fc-suspend")) { suspendCurrent(); return; }
+      // Listening mode: first tap on the blurred word zone just peeks (un-blurs);
+      // a later tap there falls through to the normal reveal.
+      if (wordBlurred && e.target.closest("#fc-front")) {
+        $("fc-front").classList.remove("fc-blur");
+        wordBlurred = false;
+        return;
+      }
       if (!revealed) revealAnswer();
     });
 
@@ -707,9 +732,11 @@
       buildChips();
       renderDeckBar();
       renderDirectionSelect();
+      renderListeningToggle();
       wireSettings();
       wireDeckBar();
       wireDirectionSelect();
+      wireListeningToggle();
       wire();
       refreshStats();
       show(homeEl);

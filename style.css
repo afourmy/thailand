@@ -2196,6 +2196,41 @@ body[data-thai-font="noto"] .th {
   color: var(--accent-strong);
 }
 
+/* Toggle switch (listening mode) */
+.fc-switch { position: relative; display: inline-flex; cursor: pointer; }
+.fc-switch input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.fc-switch-track {
+  display: inline-block;
+  position: relative;
+  width: 42px;
+  height: 24px;
+  border-radius: 999px;
+  background: var(--border);
+  transition: background 0.18s ease;
+}
+.fc-switch-thumb {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  transition: transform 0.18s ease;
+}
+.fc-switch input:checked + .fc-switch-track { background: var(--accent); }
+.fc-switch input:checked + .fc-switch-track .fc-switch-thumb { transform: translateX(18px); }
+.fc-switch input:focus-visible + .fc-switch-track {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
 .fc-stepper {
   display: flex;
   align-items: center;
@@ -2388,6 +2423,13 @@ body[data-thai-font="noto"] .th {
 }
 body[data-thai-font="noto"] .fc-card-face.fc-thai {
   font-family: 'Noto Sans Thai', sans-serif;
+}
+/* Listening mode: blur the Thai prompt; tapping the face peeks (removes blur). */
+.fc-card-face.fc-blur {
+  filter: blur(13px);
+  cursor: pointer;
+  user-select: none;
+  transition: filter 0.18s ease;
 }
 .fc-card-face.fc-en {
   font-size: 1.5rem;
