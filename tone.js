@@ -222,7 +222,9 @@
   // ── Comparison ──────────────────────────────────────────────────────────────
   // Lock onto the main voiced run (the word), interpolate across its short
   // internal gaps, normalise time to [0,1] and pitch to semitones relative to the
-  // run's median. Returns a Float32Array of length N_RESAMPLE, or null if there's
+  // run's median. Returns { curve, points } (curve = Float32Array of length
+  // N_RESAMPLE for scoring; points = the actually-measured frames, normalised, so
+  // the chart can show real pitch vs interpolated connectors), or null if there's
   // too little voicing to judge.
   function toSemitoneCurve(c) {
     var seg = mainSegment(c);
@@ -234,6 +236,18 @@
     if (t1 - t0 < 0.08) return null;
 
     var mid = median(v.map(function (p) { return p.f0; }));
+    var toSt = function (f0) { return 12 * Math.log(f0 / mid) / Math.LN2; };
+
+    // Measured points, normalised time 0..1. gap = true when the previous
+    // measured frame is more than ~one frame away (i.e. the line into this point
+    // is interpolated across unvoiced audio, not real pitch).
+    var points = v.map(function (p, idx) {
+      return {
+        x: (p.t - t0) / (t1 - t0),
+        y: toSt(p.f0),
+        gap: idx > 0 && (p.t - v[idx - 1].t) > HOP_S * 2.5,
+      };
+    });
 
     var out = new Float32Array(N_RESAMPLE);
     for (var k = 0; k < N_RESAMPLE; k++) {
@@ -251,9 +265,9 @@
         // interpolate in log domain (semitone-linear)
         f0 = Math.exp(Math.log(lo.f0) * (1 - frac) + Math.log(hi.f0) * frac);
       }
-      out[k] = 12 * Math.log(f0 / mid) / Math.LN2;
+      out[k] = toSt(f0);
     }
-    return out;
+    return { curve: out, points: points };
   }
 
   function pearson(a, b) {
@@ -415,8 +429,8 @@
   // ── Scoring + chart ─────────────────────────────────────────────────────────
   function showComparison(ref, you) {
     setStatus("");
-    var r = pearson(ref, you);
-    var err = rmse(ref, you);
+    var r = pearson(ref.curve, you.curve);
+    var err = rmse(ref.curve, you.curve);
     var score = Math.round(100 * (0.6 * Math.max(0, r) + 0.4 * Math.max(0, 1 - err / 6)));
     score = Math.max(0, Math.min(100, score));
 
@@ -431,12 +445,12 @@
     scoreEl.className = "tone-score tone-score--" + cls;
     $("tone-verdict").textContent = verdict;
 
-    var refShape = describeShape(ref), youShape = describeShape(you);
+    var refShape = describeShape(ref.curve), youShape = describeShape(you.curve);
     var hint = $("tone-hint");
     if (refShape === youShape) {
-      hint.textContent = "Reference trends " + refShape + ", and so does yours.";
+      hint.textContent = "Reference trends " + refShape + ", and so does yours. Dots are measured pitch; flat lines between far-apart dots are gaps bridged across silence.";
     } else {
-      hint.textContent = "Reference trends " + refShape + ", but yours trends " + youShape + ".";
+      hint.textContent = "Reference trends " + refShape + ", but yours trends " + youShape + ". Dots are measured pitch; flat lines between far-apart dots are gaps bridged across silence.";
     }
 
     $("tone-result").hidden = false;
@@ -461,16 +475,20 @@
 
     var padL = 38, padR = 12, padT = 14, padB = 22;
     var plotW = cssW - padL - padR, plotH = cssH - padT - padB;
+    var N = ref.curve.length, i;
 
     // y-range across both curves, symmetric-ish with padding
-    var lo = Infinity, hi = -Infinity, i;
-    for (i = 0; i < ref.length; i++) { lo = Math.min(lo, ref[i], you[i]); hi = Math.max(hi, ref[i], you[i]); }
+    var lo = Infinity, hi = -Infinity;
+    for (i = 0; i < N; i++) {
+      lo = Math.min(lo, ref.curve[i], you.curve[i]);
+      hi = Math.max(hi, ref.curve[i], you.curve[i]);
+    }
     if (!isFinite(lo)) { lo = -6; hi = 6; }
     var pad = Math.max(2, (hi - lo) * 0.15);
     lo -= pad; hi += pad;
     if (hi - lo < 4) { var mid = (hi + lo) / 2; lo = mid - 2; hi = mid + 2; }
 
-    function X(k) { return padL + (k / (ref.length - 1)) * plotW; }
+    function Xu(u) { return padL + u * plotW; }                 // u in [0,1]
     function Y(st) { return padT + (1 - (st - lo) / (hi - lo)) * plotH; }
 
     var border = cssVar("--border") || "#e0e0e0";
@@ -495,17 +513,40 @@
     g.textAlign = "left"; g.textBaseline = "top";
     g.fillText("time →", padL, padT + plotH + 6);
 
-    function line(curve, color, width) {
-      g.strokeStyle = color; g.lineWidth = width; g.lineJoin = "round"; g.lineCap = "round";
-      g.beginPath();
-      for (var k = 0; k < curve.length; k++) {
-        var x = X(k), y = Y(curve[k]);
-        if (k === 0) g.moveTo(x, y); else g.lineTo(x, y);
+    // The resampled curve, with the connector into any bridged gap drawn faint +
+    // dashed so an interpolated "bump" can't be mistaken for measured pitch.
+    function draw(data, color) {
+      var curve = data.curve, pts = data.points;
+      // map each resampled sample to whether it falls inside a bridged gap
+      var gapAt = new Array(N);
+      for (var k = 0; k < N; k++) {
+        var u = k / (N - 1), inGap = false;
+        for (var p = 1; p < pts.length; p++) {
+          if (pts[p].gap && u > pts[p - 1].x && u < pts[p].x) { inGap = true; break; }
+        }
+        gapAt[k] = inGap;
       }
-      g.stroke();
+      g.lineJoin = "round"; g.lineCap = "round";
+      for (var k2 = 1; k2 < N; k2++) {
+        g.beginPath();
+        g.moveTo(Xu((k2 - 1) / (N - 1)), Y(curve[k2 - 1]));
+        g.lineTo(Xu(k2 / (N - 1)), Y(curve[k2]));
+        if (gapAt[k2] || gapAt[k2 - 1]) {
+          g.strokeStyle = color; g.globalAlpha = 0.3; g.lineWidth = 1.5; g.setLineDash([3, 3]);
+        } else {
+          g.strokeStyle = color; g.globalAlpha = 1; g.lineWidth = 2.5; g.setLineDash([]);
+        }
+        g.stroke();
+      }
+      g.globalAlpha = 1; g.setLineDash([]);
+      // measured pitch points: solid dots = real F0 readings
+      g.fillStyle = color;
+      for (var d = 0; d < pts.length; d++) {
+        g.beginPath(); g.arc(Xu(pts[d].x), Y(pts[d].y), 2.6, 0, 2 * Math.PI); g.fill();
+      }
     }
-    line(ref, cssVar("--accent-strong") || "#003366", 2.5);
-    line(you, "#e0803a", 2.5);
+    draw(ref, cssVar("--accent-strong") || "#003366");
+    draw(you, "#e0803a");
   }
 
   // ── Filter chips + word pool ────────────────────────────────────────────────
