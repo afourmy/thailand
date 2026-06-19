@@ -2196,6 +2196,49 @@ body[data-thai-font="noto"] .th {
   color: var(--accent-strong);
 }
 
+/* Info tooltip: a small "i" trigger with a bubble shown on hover / focus / tap. */
+.fc-info {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background: none;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+.fc-info svg { width: 1.05rem; height: 1.05rem; }
+.fc-info:hover { color: var(--accent); }
+.fc-info-bubble {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  z-index: 20;
+  width: max-content;
+  max-width: 16rem;
+  padding: 0.55rem 0.7rem;
+  border-radius: 8px;
+  background: var(--text);
+  color: var(--bg);
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.45;
+  text-align: left;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.22);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease;
+}
+.fc-info-bubble b { font-weight: 700; }
+.fc-info:hover .fc-info-bubble,
+.fc-info:focus-visible .fc-info-bubble,
+.fc-info.show .fc-info-bubble {
+  opacity: 1;
+  visibility: visible;
+}
+
 /* Toggle switch (listening mode) */
 .fc-switch { position: relative; display: inline-flex; cursor: pointer; }
 .fc-switch input {

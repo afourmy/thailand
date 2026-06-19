@@ -687,9 +687,10 @@
       if (e.target.closest("#fc-speak")) { playAudio(); return; }
       if (e.target.closest("#fc-copy")) { copyCurrent(); return; }
       if (e.target.closest("#fc-suspend")) { suspendCurrent(); return; }
-      // Listening mode: first tap on the blurred word zone just peeks (un-blurs);
-      // a later tap there falls through to the normal reveal.
-      if (wordBlurred && e.target.closest("#fc-front")) {
+      // Listening mode: while blurred, any tap on the card just peeks (un-blurs);
+      // the next tap falls through to the normal reveal. (Show answer reveals
+      // directly for anyone who wants to skip the peek.)
+      if (wordBlurred) {
         $("fc-front").classList.remove("fc-blur");
         wordBlurred = false;
         return;
