@@ -675,6 +675,20 @@
     });
   }
 
+  // Info tooltips: hover/focus is handled in CSS; this adds tap-to-toggle for
+  // touch devices and closes any open bubble when tapping elsewhere. Stashed on
+  // window so a later init() can detach the prior handler (no zombie listeners).
+  function wireInfoTooltips() {
+    if (window.__fcInfoTap) document.removeEventListener("click", window.__fcInfoTap);
+    window.__fcInfoTap = function (e) {
+      var btn = e.target.closest(".fc-info");
+      var open = document.querySelector(".fc-info.show");
+      if (open && open !== btn) open.classList.remove("show");
+      if (btn) { e.preventDefault(); btn.classList.toggle("show"); }
+    };
+    document.addEventListener("click", window.__fcInfoTap);
+  }
+
   // ── Wiring ───────────────────────────────────────────────────────────────
   function wire() {
     $("fc-start").addEventListener("click", startSession);
@@ -738,6 +752,7 @@
       wireDeckBar();
       wireDirectionSelect();
       wireListeningToggle();
+      wireInfoTooltips();
       wire();
       refreshStats();
       show(homeEl);
