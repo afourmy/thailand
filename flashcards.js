@@ -681,6 +681,8 @@
   function wireInfoTooltips() {
     if (window.__fcInfoTap) document.removeEventListener("click", window.__fcInfoTap);
     window.__fcInfoTap = function (e) {
+      // Touch only; on pointer devices CSS :hover drives the tooltip.
+      if (window.matchMedia && !window.matchMedia("(hover: none)").matches) return;
       var btn = e.target.closest(".fc-info");
       var open = document.querySelector(".fc-info.show");
       if (open && open !== btn) open.classList.remove("show");

@@ -2151,6 +2151,7 @@ body[data-thai-font="noto"] .th {
 .fc-settings { margin-top: 0.4rem; }
 
 .fc-setting {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 0.8rem;
@@ -2198,7 +2199,6 @@ body[data-thai-font="noto"] .th {
 
 /* Info tooltip: a small "i" trigger with a bubble shown on hover / focus / tap. */
 .fc-info {
-  position: relative;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -2213,12 +2213,11 @@ body[data-thai-font="noto"] .th {
 .fc-info:hover { color: var(--accent); }
 .fc-info-bubble {
   position: absolute;
-  top: calc(100% + 8px);
-  left: 50%;
-  transform: translateX(-50%);
+  top: calc(100% + 4px);
+  left: 0;
   z-index: 20;
   width: max-content;
-  max-width: min(14rem, 80vw);
+  max-width: min(15rem, 84vw);
   padding: 0.55rem 0.7rem;
   border-radius: 8px;
   background: var(--text);
@@ -2233,11 +2232,20 @@ body[data-thai-font="noto"] .th {
   transition: opacity 0.15s ease;
 }
 .fc-info-bubble b { font-weight: 700; }
-.fc-info:hover .fc-info-bubble,
-.fc-info:focus-visible .fc-info-bubble,
-.fc-info.show .fc-info-bubble {
-  opacity: 1;
-  visibility: visible;
+/* Devices with a real pointer: pure hover (and keyboard focus); no click-to-stay. */
+@media (hover: hover) {
+  .fc-info:hover .fc-info-bubble,
+  .fc-info:focus-visible .fc-info-bubble {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+/* Touch devices: tap toggles the bubble (it stays until you tap away). */
+@media (hover: none) {
+  .fc-info.show .fc-info-bubble {
+    opacity: 1;
+    visibility: visible;
+  }
 }
 
 /* Toggle switch (listening mode) */
