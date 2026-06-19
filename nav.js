@@ -60,7 +60,6 @@
         { href: "index.html", en: "Vocabulary" },
         { href: "etymology.html", en: "Etymology" },
         { href: "flashcards.html", en: "Flashcards" },
-        { href: "tone.html", en: "Tone Practice" },
       ]
     ]},
     { en: "Projects", columns: [
