@@ -6698,3 +6698,20 @@ Free-form decisions file batch 15 — eng edits, 2 collapses, 4 splits, deletes,
 Eng edits: 111  Collapses: 2  Splits: 4  Deletes: 22  Parked: 1  occasional: 3  everyday: 2
 Vocab: 9362 -> 9343
 
+
+======================================================================
+Free-form decisions file batch 16 — 3 dedup deletes
+
+    delete tamago-l12-178
+    delete yt-c17-069
+    delete tamago-l3-643
+Vocab: 9343 -> 9340
+
+
+======================================================================
+Free-form decisions file batch 17 — create 2 new cards
+
+    create new-1: ยาปฏิชีวนะ = 'antibiotics'
+    create new-2: จูน = 'to fine-tune, to adjust, to calibrate (loanword, from "tune")'
+Vocab: 9340 -> 9342
+

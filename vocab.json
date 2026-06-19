@@ -12176,18 +12176,6 @@
     ]
   },
   {
-    "id": "tamago-l12-178",
-    "thai": "ถาวร",
-    "english": "permanent, for good",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Tamago L1-2",
-      "Tamago L3",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "tamago-l12-179",
     "thai": "ถีบ",
     "english": "to pedal, to kick",
@@ -24811,16 +24799,6 @@
     "sources": [
       "Tamago L3",
       "YouTube"
-    ]
-  },
-  {
-    "id": "tamago-l3-643",
-    "thai": "ชักจะ",
-    "english": "to begin to feel sth, starting to (be)",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Tamago L3"
     ]
   },
   {
@@ -68264,16 +68242,6 @@
     ]
   },
   {
-    "id": "yt-c17-069",
-    "thai": "เพี้ยน",
-    "english": "distorted, off, weird, slightly wrong",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c17-069b",
     "thai": "ร้องเพลงเพี้ยน",
     "english": "to sing off-key",
@@ -103589,5 +103557,25 @@
     "frequency": "rare",
     "topic": "expressions",
     "sources": []
+  },
+  {
+    "id": "new-1",
+    "thai": "ยาปฏิชีวนะ",
+    "english": "antibiotics",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "manual"
+    ]
+  },
+  {
+    "id": "new-2",
+    "thai": "จูน",
+    "english": "to fine-tune, to adjust, to calibrate (loanword, from \"tune\")",
+    "frequency": "common",
+    "topic": "general",
+    "sources": [
+      "manual"
+    ]
   }
 ]
