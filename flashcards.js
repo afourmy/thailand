@@ -675,10 +675,42 @@
     });
   }
 
-  // Info tooltips: hover/focus is handled in CSS; this adds tap-to-toggle for
-  // touch devices and closes any open bubble when tapping elsewhere. Stashed on
-  // window so a later init() can detach the prior handler (no zombie listeners).
+  // Place a tooltip bubble (position: fixed) centred under its icon, then clamp
+  // it to the viewport so it never runs off either edge — identical placement on
+  // every device, regardless of where the icon sits in its row.
+  function positionInfoBubble(info) {
+    var bubble = info.querySelector(".fc-info-bubble");
+    if (!bubble) return;
+    var rect = info.getBoundingClientRect();
+    var margin = 8;
+    var vw = document.documentElement.clientWidth;
+    var bw = bubble.offsetWidth;
+    var left = rect.left + rect.width / 2 - bw / 2;
+    if (left + bw > vw - margin) left = vw - margin - bw;
+    if (left < margin) left = margin;
+    bubble.style.left = left + "px";
+    bubble.style.top = rect.bottom + 4 + "px";
+  }
+
+  // Info tooltips: visibility is CSS-driven (hover/focus on pointer devices,
+  // a tap-toggled .show class on touch). These handlers just keep the bubble's
+  // fixed position correct on each show. Stashed on window so a later init()
+  // can detach the prior handlers (no zombie listeners).
   function wireInfoTooltips() {
+    if (window.__fcInfoOver) document.removeEventListener("mouseover", window.__fcInfoOver);
+    window.__fcInfoOver = function (e) {
+      var info = e.target.closest && e.target.closest(".fc-info");
+      if (info) positionInfoBubble(info);
+    };
+    document.addEventListener("mouseover", window.__fcInfoOver);
+
+    if (window.__fcInfoFocus) document.removeEventListener("focusin", window.__fcInfoFocus);
+    window.__fcInfoFocus = function (e) {
+      var info = e.target.closest && e.target.closest(".fc-info");
+      if (info) positionInfoBubble(info);
+    };
+    document.addEventListener("focusin", window.__fcInfoFocus);
+
     if (window.__fcInfoTap) document.removeEventListener("click", window.__fcInfoTap);
     window.__fcInfoTap = function (e) {
       // Touch only; on pointer devices CSS :hover drives the tooltip.
@@ -686,7 +718,12 @@
       var btn = e.target.closest(".fc-info");
       var open = document.querySelector(".fc-info.show");
       if (open && open !== btn) open.classList.remove("show");
-      if (btn) { e.preventDefault(); btn.classList.toggle("show"); }
+      if (btn) {
+        e.preventDefault();
+        var willShow = !btn.classList.contains("show");
+        btn.classList.toggle("show");
+        if (willShow) positionInfoBubble(btn);
+      }
     };
     document.addEventListener("click", window.__fcInfoTap);
   }
