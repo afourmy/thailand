@@ -883,12 +883,12 @@
       renderDeckBar();
       renderDirectionSelect();
       renderListeningToggle();
-      renderAnswerModeSelect();
+      renderTypeToggle();
       wireSettings();
       wireDeckBar();
       wireDirectionSelect();
       wireListeningToggle();
-      wireAnswerModeSelect();
+      wireTypeToggle();
       wireInfoTooltips();
       wire();
       refreshStats();
