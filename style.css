@@ -2481,7 +2481,6 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
   filter: blur(13px);
   cursor: pointer;
   user-select: none;
-  transition: filter 0.18s ease;
 }
 .fc-card-face.fc-en {
   font-size: 1.5rem;
