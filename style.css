@@ -2651,3 +2651,180 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
   .fc-card-body { padding: 1.8rem 1.2rem; gap: 1.4rem; }
   .fc-tools { padding: 0.6rem 0.5rem; gap: 0.35rem; }
 }
+
+/* ── Tone practice page ── */
+.tone-main { max-width: 720px; margin: 0 auto; }
+
+.tone-intro {
+  text-align: center;
+  color: var(--text-muted);
+  margin: -0.4rem auto 1.2rem;
+  max-width: 540px;
+}
+
+.tone-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-bottom: 1.2rem;
+}
+.tone-search-row { display: flex; gap: 0.6rem; align-items: center; }
+.tone-search-row .vocab-search { flex: 1; }
+
+.tone-freq > summary {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  padding: 0.3rem 0;
+  color: var(--text-soft);
+}
+.tone-freq > summary::-webkit-details-marker { display: none; }
+.tone-freq > summary::marker { content: ""; }
+.tone-freq[open] > summary .fc-chevron { transform: rotate(180deg); }
+.tone-freq > summary .fc-chevron { width: 18px; height: 18px; transition: transform 0.15s ease; }
+.tone-freq .fc-chips { padding-top: 0.4rem; }
+
+/* Word card */
+.tone-card {
+  text-align: center;
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.6rem 1.2rem 1.4rem;
+  box-shadow: 0 3px 12px rgba(3, 51, 102, 0.08);
+}
+.tone-word {
+  font-family: 'Noto Sans Thai', 'Sarabun', sans-serif;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--text);
+}
+body[data-thai-font="sarabun"] .tone-word { font-family: 'Sarabun', 'Noto Sans Thai', sans-serif; }
+.tone-en { color: var(--text-muted); font-size: 1.1rem; margin-top: 0.2rem; }
+
+.tone-freq-tag {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.12rem 0.6rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 999px;
+  color: #fff;
+}
+.tone-freq-tag--everyday { background: var(--freq-everyday); }
+.tone-freq-tag--common { background: var(--freq-common); }
+.tone-freq-tag--occasional { background: var(--freq-occasional); }
+.tone-freq-tag--rare { background: var(--freq-rare); }
+
+.tone-actions {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.2rem;
+}
+
+.tone-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.55rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #fff;
+  background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.1s ease, filter 0.1s ease, box-shadow 0.1s ease;
+  box-shadow: 0 3px 10px rgba(3, 51, 102, 0.15);
+}
+.tone-btn svg { width: 18px; height: 18px; }
+.tone-btn:hover { filter: brightness(1.06); }
+.tone-btn:active { transform: translateY(1px); }
+
+.tone-btn--ghost {
+  color: var(--accent-strong);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: none;
+  font-weight: 600;
+}
+.tone-btn--ghost:hover { background: var(--surface-muted); filter: none; }
+
+.tone-btn--rec { background: linear-gradient(135deg, #e0603a, #b8351f); }
+.tone-rec-dot {
+  width: 11px; height: 11px;
+  border-radius: 50%;
+  background: #fff;
+}
+.tone-btn--recording { animation: tone-pulse 1s ease-in-out infinite; }
+.tone-btn--recording .tone-rec-dot { border-radius: 2px; }
+@keyframes tone-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(184, 53, 31, 0.5); }
+  50% { box-shadow: 0 0 0 7px rgba(184, 53, 31, 0); }
+}
+
+.tone-status {
+  min-height: 1.1em;
+  margin: 0.9rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+.tone-status--err { color: var(--freq-rare); }
+
+/* Result + chart */
+.tone-result {
+  margin-top: 1.2rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.2rem;
+}
+.tone-scorebar {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 0.7rem;
+  margin-bottom: 0.8rem;
+}
+.tone-score { font-size: 2.4rem; font-weight: 700; line-height: 1; }
+.tone-score::after { content: ""; }
+.tone-score--good { color: var(--freq-everyday); }
+.tone-score--ok { color: var(--freq-common); }
+.tone-score--off { color: var(--freq-occasional); }
+.tone-score--bad { color: var(--freq-rare); }
+.tone-verdict { font-size: 1.05rem; font-weight: 600; color: var(--text-soft); }
+
+.tone-chart-wrap { width: 100%; }
+.tone-canvas { width: 100%; display: block; }
+
+.tone-legend {
+  display: flex;
+  justify-content: center;
+  gap: 1.4rem;
+  margin-top: 0.6rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+.tone-legend-item { display: inline-flex; align-items: center; gap: 0.4rem; }
+.tone-swatch { width: 16px; height: 3px; border-radius: 2px; display: inline-block; }
+.tone-legend--ref .tone-swatch { background: var(--accent-strong); }
+.tone-legend--you .tone-swatch { background: #e0803a; }
+
+.tone-hint {
+  text-align: center;
+  margin: 0.7rem 0 0;
+  color: var(--text-soft);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 600px) {
+  .tone-word { font-size: 2.3rem; }
+  .tone-actions { gap: 0.45rem; }
+  .tone-btn { padding: 0.5rem 0.8rem; font-size: 0.9rem; }
+}
