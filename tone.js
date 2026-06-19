@@ -267,7 +267,7 @@
       }
       out[k] = toSt(f0);
     }
-    return { curve: out, points: points };
+    return { curve: out, points: points, dur: t1 - t0 };
   }
 
   function pearson(a, b) {
@@ -427,17 +427,38 @@
   }
 
   // ── Scoring + chart ─────────────────────────────────────────────────────────
+  function range(curve) {
+    var lo = Infinity, hi = -Infinity;
+    for (var i = 0; i < curve.length; i++) { if (curve[i] < lo) lo = curve[i]; if (curve[i] > hi) hi = curve[i]; }
+    return hi - lo;
+  }
+
+  // The score is the product of independent agreements, so a mismatch on ANY one
+  // of them tanks it (additive scoring let unrelated speech float around 60):
+  //   shape  - do the contours rise/fall together (correlation)?
+  //   fit    - are they actually close in semitones, not just correlated?
+  //   range  - did your pitch move as much as the reference (flat vs falling)?
+  //   length - is your syllable roughly the same duration?
+  // It still can't verify you said the RIGHT word, only that the tone matched.
   function showComparison(ref, you) {
     setStatus("");
     var r = pearson(ref.curve, you.curve);
     var err = rmse(ref.curve, you.curve);
-    var score = Math.round(100 * (0.6 * Math.max(0, r) + 0.4 * Math.max(0, 1 - err / 6)));
+    var shape = Math.max(0, r);
+    var fit = Math.max(0, 1 - err / 4);
+
+    var rngRef = range(ref.curve), rngYou = range(you.curve);
+    var rangeRatio = Math.min(rngRef, rngYou) / Math.max(rngRef, rngYou, 0.5);
+    var durRatio = Math.min(ref.dur, you.dur) / Math.max(ref.dur, you.dur);
+
+    var core = 0.5 * shape + 0.5 * fit;
+    var score = Math.round(100 * core * Math.sqrt(rangeRatio) * Math.sqrt(durRatio));
     score = Math.max(0, Math.min(100, score));
 
     var verdict, cls;
-    if (score >= 80) { verdict = "Great match"; cls = "good"; }
-    else if (score >= 60) { verdict = "Close"; cls = "ok"; }
-    else if (score >= 40) { verdict = "Off"; cls = "off"; }
+    if (score >= 75) { verdict = "Great match"; cls = "good"; }
+    else if (score >= 55) { verdict = "Close"; cls = "ok"; }
+    else if (score >= 35) { verdict = "Off"; cls = "off"; }
     else { verdict = "Way off"; cls = "bad"; }
 
     var scoreEl = $("tone-score");
@@ -445,12 +466,20 @@
     scoreEl.className = "tone-score tone-score--" + cls;
     $("tone-verdict").textContent = verdict;
 
+    // Spell out what cost the most points, so the number is legible.
+    var reasons = [];
+    if (shape < 0.4) reasons.push("the contour shape didn't track the reference");
+    if (rangeRatio < 0.55) reasons.push(rngYou < rngRef ? "your pitch moved less than the reference" : "your pitch moved more than the reference");
+    if (durRatio < 0.55) reasons.push(you.dur < ref.dur ? "yours was much shorter" : "yours was much longer");
     var refShape = describeShape(ref.curve), youShape = describeShape(you.curve);
+
     var hint = $("tone-hint");
-    if (refShape === youShape) {
-      hint.textContent = "Reference trends " + refShape + ", and so does yours. Dots are measured pitch; flat lines between far-apart dots are gaps bridged across silence.";
+    if (reasons.length) {
+      hint.textContent = "Marked down because " + reasons.join("; ") + ".";
+    } else if (refShape === youShape) {
+      hint.textContent = "Reference trends " + refShape + " and so does yours. Dots are measured pitch.";
     } else {
-      hint.textContent = "Reference trends " + refShape + ", but yours trends " + youShape + ". Dots are measured pitch; flat lines between far-apart dots are gaps bridged across silence.";
+      hint.textContent = "Reference trends " + refShape + ", but yours trends " + youShape + ".";
     }
 
     $("tone-result").hidden = false;
