@@ -2214,10 +2214,11 @@ body[data-thai-font="noto"] .th {
 .fc-info-bubble {
   position: absolute;
   top: calc(100% + 8px);
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 20;
   width: max-content;
-  max-width: 16rem;
+  max-width: min(14rem, 80vw);
   padding: 0.55rem 0.7rem;
   border-radius: 8px;
   background: var(--text);
