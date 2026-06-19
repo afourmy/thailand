@@ -15,8 +15,11 @@
   var FRAME_S = 0.04;        // 40 ms analysis frame
   var HOP_S = 0.01;          // 10 ms hop
   var F0_MIN = 70, F0_MAX = 400;
-  var RMS_GATE = 0.012;      // below this a frame is treated as silence
-  var CLARITY_MIN = 0.45;    // NSDF peak must clear this to count as voiced
+  var RMS_GATE = 0.006;      // cheap absolute floor: skip pitch on dead silence
+  var REL_ENERGY = 0.18;     // a frame must carry >=18% of the clip's peak loudness
+  var CLARITY_MIN = 0.5;     // NSDF peak must clear this to count as voiced
+  var MAX_GAP_S = 0.06;      // bridge unvoiced gaps up to 60 ms inside a word
+  var OCTAVE_RATIO = 1.8;    // snap pitch this far from the median back into register
   var N_RESAMPLE = 64;       // points on the normalised-time comparison axis
   var MAX_REC_MS = 4000;     // hard cap on a single recording
   var FREQ_KEY = "thaiToneFreq";
@@ -143,36 +146,94 @@
     return f0;
   }
 
-  // Frame the signal and return an array of {t, f0} (f0 NaN when unvoiced).
+  function rmsOf(buf) {
+    var s = 0;
+    for (var i = 0; i < buf.length; i++) s += buf[i] * buf[i];
+    return Math.sqrt(s / buf.length);
+  }
+
+  function median(arr) {
+    if (!arr.length) return NaN;
+    var s = arr.slice().sort(function (a, b) { return a - b; });
+    return s[Math.floor(s.length / 2)];
+  }
+
+  // Frame the signal and return an array of {t, f0, rms} (f0 NaN when unvoiced).
   function contour(samples, sr) {
     var frame = Math.round(sr * FRAME_S);
     var hop = Math.round(sr * HOP_S);
-    var out = [];
+    var out = [], maxRms = 0, i;
     for (var s = 0; s + frame <= samples.length; s += hop) {
-      out.push({ t: s / sr, f0: detectF0(samples.subarray(s, s + frame), sr) });
+      var seg = samples.subarray(s, s + frame);
+      var rms = rmsOf(seg);
+      if (rms > maxRms) maxRms = rms;
+      out.push({ t: s / sr, f0: detectF0(seg, sr), rms: rms });
     }
-    // 3-point median smoothing over voiced values, to drop octave-jump outliers.
+
+    // Relative energy gate: a frame only counts as voiced if it carries a real
+    // share of the clip's loudness. This drops room tone / breaths at the edges,
+    // whose autocorrelation can otherwise throw a stray pitch and stretch the
+    // word boundary across silence.
+    var gate = Math.max(REL_ENERGY * maxRms, 0.004);
+    for (i = 0; i < out.length; i++) if (out[i].rms < gate) out[i].f0 = NaN;
+
+    // 3-point median smoothing over voiced values.
     var f = out.map(function (p) { return p.f0; });
-    for (var i = 1; i < out.length - 1; i++) {
+    for (i = 1; i < out.length - 1; i++) {
       var a = f[i - 1], b = f[i], c = f[i + 1];
       if (isNaN(a) || isNaN(b) || isNaN(c)) continue;
       out[i].f0 = a + b + c - Math.max(a, b, c) - Math.min(a, b, c); // median of 3
     }
+
+    // Octave-error correction: a real tone never leaps a full octave mid-word, so
+    // any frame sitting ~an octave off the voiced median is a tracking error.
+    // Halve/double it back into register.
+    var med = median(out.filter(function (p) { return !isNaN(p.f0); }).map(function (p) { return p.f0; }));
+    if (!isNaN(med)) {
+      for (i = 0; i < out.length; i++) {
+        if (isNaN(out[i].f0)) continue;
+        while (out[i].f0 > med * OCTAVE_RATIO) out[i].f0 /= 2;
+        while (out[i].f0 < med / OCTAVE_RATIO) out[i].f0 *= 2;
+      }
+    }
     return out;
   }
 
+  // Locate the word inside a contour: the longest run of voiced frames, allowing
+  // short internal unvoiced gaps (stops, aspiration). Stray voiced frames from
+  // edge noise sit outside this run and are dropped, so we never interpolate a
+  // long pitch ramp from them into the real word.
+  function mainSegment(c) {
+    var maxGap = Math.round(MAX_GAP_S / HOP_S);
+    var best = null, start = -1, lastVoiced = -1;
+    for (var i = 0; i < c.length; i++) {
+      if (!isNaN(c[i].f0)) {
+        if (start < 0) start = i;
+        lastVoiced = i;
+      } else if (start >= 0 && i - lastVoiced > maxGap) {
+        if (!best || lastVoiced - start > best.end - best.start) best = { start: start, end: lastVoiced };
+        start = -1;
+      }
+    }
+    if (start >= 0 && (!best || lastVoiced - start > best.end - best.start)) best = { start: start, end: lastVoiced };
+    return best;
+  }
+
   // ── Comparison ──────────────────────────────────────────────────────────────
-  // Restrict to the voiced span, interpolate across gaps, normalise time to
-  // [0,1] and pitch to semitones relative to the contour's median. Returns a
-  // Float32Array of length N_RESAMPLE, or null if too little voicing.
+  // Lock onto the main voiced run (the word), interpolate across its short
+  // internal gaps, normalise time to [0,1] and pitch to semitones relative to the
+  // run's median. Returns a Float32Array of length N_RESAMPLE, or null if there's
+  // too little voicing to judge.
   function toSemitoneCurve(c) {
-    var v = c.filter(function (p) { return !isNaN(p.f0); });
+    var seg = mainSegment(c);
+    if (!seg) return null;
+    var v = [];
+    for (var i = seg.start; i <= seg.end; i++) if (!isNaN(c[i].f0)) v.push(c[i]);
     if (v.length < 4) return null;
     var t0 = v[0].t, t1 = v[v.length - 1].t;
     if (t1 - t0 < 0.08) return null;
 
-    var fs = v.map(function (p) { return p.f0; }).slice().sort(function (a, b) { return a - b; });
-    var median = fs[Math.floor(fs.length / 2)];
+    var mid = median(v.map(function (p) { return p.f0; }));
 
     var out = new Float32Array(N_RESAMPLE);
     for (var k = 0; k < N_RESAMPLE; k++) {
@@ -190,7 +251,7 @@
         // interpolate in log domain (semitone-linear)
         f0 = Math.exp(Math.log(lo.f0) * (1 - frac) + Math.log(hi.f0) * frac);
       }
-      out[k] = 12 * Math.log(f0 / median) / Math.LN2;
+      out[k] = 12 * Math.log(f0 / mid) / Math.LN2;
     }
     return out;
   }
