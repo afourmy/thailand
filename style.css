@@ -2065,7 +2065,14 @@ body[data-thai-font="noto"] .th {
    grade buttons sit in the thumb zone at the bottom. */
 /* Trim main's bottom padding (site default 4rem) so the home screen fits in a
    typical laptop viewport without an unnecessary scrollbar. */
-.fc-main { max-width: 680px; padding-bottom: 2rem; }
+.fc-main {
+  max-width: 680px;
+  padding-bottom: 2rem;
+  /* Kill the mobile blue/grey flash browsers paint on every tap of a clickable
+     element (card, speaker, copy…); the cards have their own reveal/active
+     feedback. Inherited, so it covers all descendants. */
+  -webkit-tap-highlight-color: transparent;
+}
 
 .fc-banner { margin: 0.3rem auto 1.3rem; }
 
