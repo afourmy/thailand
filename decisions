@@ -21,5 +21,30 @@ t4k-c03-095 ยุ: eng 'to incite, to provoke someone to do sth (e.g risky or b
 t4k-c03-096 ข้อเสนอ: eng 'proposal, offer'
 t4k-c03-099 ข่าวสาร: eng 'news, information'
 t4k-c04-001 คัด: eng 'to select, to pick, to filter; to copy'
+t4k-c04-009 ต่างชาติ: eng 'abroad, foreign'
+t4k-c04-015 แก่น: eng 'core, kernel, essence'
+t4k-c04-023 นางเอก: eng 'female lead, heroine'
+t4k-c04-025 รูปทรง: eng 'shape, form'
+t4k-c04-027 อำนวย: eng 'to produce, to enable'
+t4k-c04-051 วิถี: eng 'way, path, manner'
+t4k-c04-057 ยากลำบาก: eng 'difficult, hard'
+t4k-c04-060 รวมตัว: eng 'to gather, to assemble'
+t4k-c04-067 ที่ปรึกษา: eng 'advisor, consultant'
+t4k-c04-068 จม: eng 'to sink, to be submerged'
+t4k-c04-072 จัดสรร: eng 'to allocate, to distribute, to assign'
+t4k-c04-073 คัดค้าน: eng 'to oppose, to protest against'
+t4k-c04-078 ปัน: eng 'to share, to divide'
+t4k-c04-082 ยุติ: eng 'to terminate, to resolve, to settle (e.g a conflict, a case)'
+t4k-c04-087 ขาน: eng 'to call out (e.g names for attendance)'
+t4k-c04-088 ราบ: eng 'flat, smooth'
+t4k-c04-089 ดึงดูด: eng 'to attract, to appeal'
+t4k-c04-095 เห็นชอบ: eng 'to approve, to consent, to endorse'
+t4k-c04-096 ขยับ: eng 'to move slightly, to adjust one's position'
+t4k-c05-003 สะดุด: eng 'to stumble, to trip; (fig) to be disrupted, to be interrupted'
+t4k-c05-005 ฟู: eng 'fluffy, puffed up (e.g hair, face)'
 
-remove card: t4k-c03-020 พล, t4k-c03-022 ผู้เขียน, t4k-c03-044 เสรี, t4k-c03-062 กล
+everyday: t4k-c04-051 วิถี
+
+occasional: t4k-c04-087 ขาน
+
+remove card: t4k-c03-020 พล, t4k-c03-022 ผู้เขียน, t4k-c03-044 เสรี, t4k-c03-062 กล, t4k-c04-028 ดำเนินงาน, t4k-c04-043 เครือ, t4k-c04-058 ตาก, t4k-c04-076 บำรุง
