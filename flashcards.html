@@ -24,13 +24,22 @@
         <div class="fc-stat fc-stat--due"><span class="fc-stat-num" data-stat="due">0</span><span class="fc-stat-label">Due</span></div>
         <div class="fc-stat fc-stat--new"><span class="fc-stat-num" data-stat="new">0</span><span class="fc-stat-label">New</span></div>
         <div class="fc-stat fc-stat--left"><span class="fc-stat-num" data-stat="left">0</span><span class="fc-stat-label">Left</span></div>
-        <div class="fc-stat fc-stat--excluded"><span class="fc-stat-num" data-stat="excluded">0</span><span class="fc-stat-label">Excluded</span></div>
+        <div class="fc-stat fc-stat--excluded"><span class="fc-stat-num" data-stat="suspended">0</span><span class="fc-stat-label">Suspended</span></div>
       </div>
 
       <div class="fc-settings" id="fc-settings">
         <div class="fc-setting">
           <span class="fc-setting-label">Deck</span>
           <select id="fc-deck-select" class="vocab-deck-select" style="margin-left:auto" aria-label="Select deck"></select>
+        </div>
+
+        <div class="fc-setting">
+          <span class="fc-setting-label">New cards per day</span>
+          <div class="fc-stepper">
+            <button type="button" data-step="-5" aria-label="Fewer">&minus;</button>
+            <input type="number" id="fc-new-per-day" class="fc-stepper-val" value="15" min="0" max="99999" inputmode="numeric">
+            <button type="button" data-step="5" aria-label="More">+</button>
+          </div>
         </div>
 
         <div class="fc-setting">
@@ -69,35 +78,6 @@
             <span class="fc-switch-track"><span class="fc-switch-thumb"></span></span>
           </label>
         </div>
-
-        <div class="fc-setting">
-          <span class="fc-setting-label">New cards per day</span>
-          <div class="fc-stepper">
-            <button type="button" data-step="-5" aria-label="Fewer">&minus;</button>
-            <input type="number" id="fc-new-per-day" class="fc-stepper-val" value="15" min="0" max="99999" inputmode="numeric">
-            <button type="button" data-step="5" aria-label="More">+</button>
-          </div>
-        </div>
-
-        <details class="fc-setting fc-setting--collapsible" data-dim="frequency">
-          <summary>
-            <span class="fc-setting-label">Include frequencies</span>
-            <svg class="fc-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
-          </summary>
-          <div class="fc-chips" data-dim="frequency"></div>
-        </details>
-
-        <details class="fc-setting fc-setting--collapsible" data-dim="topic">
-          <summary>
-            <span class="fc-setting-label">Include topics</span>
-            <div class="fc-bulk">
-              <button type="button" data-bulk="all">Select all</button>
-              <button type="button" data-bulk="none">Unselect all</button>
-            </div>
-            <svg class="fc-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
-          </summary>
-          <div class="fc-chips" data-dim="topic"></div>
-        </details>
 
       </div>
 
