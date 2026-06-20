@@ -588,45 +588,13 @@
         newPerDayEl.value = config.newPerDay;
         saveConfig();
         refreshStats();
-        return;
       }
-
-      var chip = e.target.closest(".fc-chip");
-      if (chip) {
-        var box = chip.closest(".fc-chips");
-        var dim = box.getAttribute("data-dim");
-        var key = chip.getAttribute("data-key");
-        var included = config.excluded[dim][key] === true; // currently off -> turn on
-        setChip(dim, key, included);
-        chip.className = chipClass(dim, key, included);
-        saveConfig();
-        refreshStats();
-        return;
-      }
-
-      var bulk = e.target.closest("button[data-bulk]");
-      if (bulk) {
-        // Bulk pills live inside <summary>; suppress the default toggle so the
-        // collapsible filter stays in its current open/closed state.
-        e.preventDefault();
-        var group = bulk.closest(".fc-setting");
-        var dim2 = group.getAttribute("data-dim");
-        var on = bulk.getAttribute("data-bulk") === "all";
-        group.querySelectorAll(".fc-chip").forEach(function (c) {
-          setChip(dim2, c.getAttribute("data-key"), on);
-          c.className = chipClass(dim2, c.getAttribute("data-key"), on);
-        });
-        saveConfig();
-        refreshStats();
-        return;
-      }
-
     });
   }
 
   // ── Deck picker ────────────────────────────────────────────────────────────
   // Populated from the shared store (created/named on the vocab page). Changing
-  // the selection re-runs stats so Due / New / Left / Excluded reflect the
+  // the selection re-runs stats so Due / New / Left / Suspended reflect the
   // chosen deck immediately.
   function deckSize(id) {
     if (id === ALL_DECK_ID) return words.length;
@@ -818,7 +786,6 @@
     .then(function (data) {
       words = data;
       words.forEach(function (w) { wordById[w.id] = w; });
-      buildChips();
       renderDeckBar();
       renderDirectionSelect();
       renderListeningToggle();
