@@ -458,21 +458,24 @@
     $("fc-divider").hidden = false;
     $("fc-show").hidden = true;
 
-    // Type mode: grade the spelling against the accepted variants and lock the
-    // field. The grade buttons still appear: the check is feedback, not a grade.
+    // Type mode: check the spelling against the accepted variants. A blank answer
+    // just removes the field (no feedback); otherwise lock it and show a coloured
+    // border + a check/cross icon. The grade buttons still appear (check is
+    // feedback, not a grade).
     if (config.typeMode && !$("fc-type-input").hidden) {
       var inp = $("fc-type-input");
-      var typed = inp.value;
-      var ok = typedStatus(typed, inp.dataset.answer) === "correct";
-      inp.disabled = true;
-      inp.blur();
-      inp.className = "fc-type-input " + (ok ? "is-correct" : "is-wrong");
-      var res = $("fc-type-result");
-      res.hidden = false;
-      res.className = "fc-type-result " + (ok ? "is-correct" : "is-wrong");
-      res.textContent = ok
-        ? "✓ Correct"
-        : (typed.trim() ? "✗ You typed " + typed : "✗ Left blank");
+      if (!inp.value.trim()) {
+        resetProduce();
+      } else {
+        var ok = isTypedCorrect(inp.value, inp.dataset.answer);
+        inp.disabled = true;
+        inp.blur();
+        inp.className = "fc-type-input " + (ok ? "is-correct" : "is-wrong");
+        var icon = $("fc-type-icon");
+        icon.className = "fc-type-icon " + (ok ? "is-correct" : "is-wrong");
+        icon.innerHTML = ok ? ICON_CHECK : ICON_CROSS;
+        icon.hidden = false;
+      }
     }
 
     // Fill projected intervals and reveal the grade buttons.
@@ -734,13 +737,8 @@
       if (btn) grade(+btn.getAttribute("data-grade"));
     });
 
-    // Type mode: live colour feedback per keystroke; Enter checks (reveals).
-    var typeInput = $("fc-type-input");
-    typeInput.addEventListener("input", function () {
-      var st = typedStatus(this.value, this.dataset.answer);
-      this.className = "fc-type-input" + (st === "empty" ? "" : " is-" + st);
-    });
-    typeInput.addEventListener("keydown", function (e) {
+    // Type mode: no feedback while typing; Enter checks (reveals).
+    $("fc-type-input").addEventListener("keydown", function (e) {
       if (e.key === "Enter" && !revealed) { e.preventDefault(); revealAnswer(); }
     });
 
