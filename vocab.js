@@ -10,8 +10,6 @@
   var filterEl = document.getElementById("vocab-filter");
   var faceToggleEl = document.getElementById("face-toggle");
   var audioToggleEl = document.getElementById("audio-toggle");
-  var showCategoryEl = document.getElementById("show-category");
-  var showSourcesEl = document.getElementById("show-sources");
 
   var words = [];
   var loaded = false;
@@ -21,8 +19,6 @@
   var filters = { frequency: {}, topic: {} };
   var query = "";
   var face = "both"; // "both" | "thai" | "english"
-  var showCategory = true;
-  var showSources = false;
   var AUDIO_LANG_KEY = "thaiAudioLang";
   var audioLang = "th"; // "th" | "en": which language the speaker button plays
 
@@ -268,36 +264,6 @@
     );
   }
 
-  function tagHtml(word) {
-    // Complementary dimension: topic when grouped by frequency, else frequency.
-    var tag, tagClass;
-    if (mode === "frequency") {
-      tag = TOPIC_LABEL[word.topic] || word.topic;
-      tagClass = "tag-topic";
-    } else {
-      tag = FREQ_LABEL[word.frequency] || word.frequency;
-      tagClass = "tag-freq freq-" + word.frequency;
-    }
-    return '<span class="vocab-tag ' + tagClass + '">' + esc(tag) + "</span>";
-  }
-
-  function sourcesHtml(word) {
-    return word.sources
-      .map(function (s) {
-        return '<span class="vocab-source">' + esc(s) + "</span>";
-      })
-      .join("");
-  }
-
-  function metaHtml(word) {
-    var rows = "";
-    if (showCategory)
-      rows += '<div class="vocab-tags">' + tagHtml(word) + "</div>";
-    if (showSources)
-      rows += '<div class="vocab-sources">' + sourcesHtml(word) + "</div>";
-    return rows ? '<div class="vocab-meta">' + rows + "</div>" : "";
-  }
-
   function thaiHtml(word, extra) {
     return '<div class="vocab-thai' + (extra || "") + '">' + esc(word.thai) + "</div>";
   }
@@ -351,7 +317,7 @@
       return (
         '<div class="' + cardClasses(word) + '" data-id="' + escAttr(word.id) +
         '" data-copy="' + escAttr(word.thai) + '">' +
-        '<div class="vocab-body">' + thaiHtml(word) + enHtml(word) + metaHtml(word) + '</div>' +
+        '<div class="vocab-body">' + thaiHtml(word) + enHtml(word) + '</div>' +
         toolsHtml(word) +
         "</div>"
       );
@@ -361,7 +327,7 @@
       face === "thai"
         ? enHtml(word, " vocab-answer")
         : thaiHtml(word, " vocab-answer");
-    var frontInner = '<div class="vocab-body">' + front + metaHtml(word) + '</div>';
+    var frontInner = '<div class="vocab-body">' + front + '</div>';
     var backInner  = '<div class="vocab-body">' + back + '</div>';
     var frontText = face === "thai" ? word.thai : word.english;
     var backText = face === "thai" ? word.english : word.thai;
@@ -789,18 +755,6 @@
     if (btn) setAudioLang(btn.getAttribute("data-audio"));
   });
 
-  showCategoryEl.addEventListener("change", function () {
-    showCategory = showCategoryEl.checked;
-    lsSet("vocabShowCategory", showCategory ? "1" : "0");
-    render();
-  });
-
-  showSourcesEl.addEventListener("change", function () {
-    showSources = showSourcesEl.checked;
-    lsSet("vocabShowSources", showSources ? "1" : "0");
-    render();
-  });
-
   // ── Deck UI ───────────────────────────────────────────────────────────────
   var deckSelectEl = document.getElementById("deck-select");
   var deckInputEl = document.getElementById("deck-input");
@@ -954,10 +908,6 @@
   suspended = loadSuspended();
   loadDecks();
   renderDeckSelector();
-  showCategory = lsGet("vocabShowCategory") !== "0";
-  showSources = lsGet("vocabShowSources") === "1";
-  showCategoryEl.checked = showCategory;
-  showSourcesEl.checked = showSources;
   setFace(lsGet("vocabFace") || "both", false);
   setAudioLang(lsGet(AUDIO_LANG_KEY) || "th");
 
@@ -1076,8 +1026,6 @@
     "thaiDecks",          // custom decks
     "thaiAudioLang",      // vocab audio-language preference
     "vocabFace",          // vocab show-Thai/English/both preference
-    "vocabShowCategory",  // vocab category toggle
-    "vocabShowSources",   // vocab sources toggle
   ];
   var BACKUP_FORMAT = "thai-vocab-progress";
 
