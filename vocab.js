@@ -1027,8 +1027,6 @@
       else if (wordSeen(states, w.id)) t.learning += 1;
     });
 
-    var anyProgress = FREQ_ORDER.some(function (f) { return tally[f].known + tally[f].learning > 0; });
-
     var tiers = FREQ_ORDER.map(function (f) {
       var t = tally[f];
       var knownPct = t.total ? Math.round((t.known / t.total) * 100) : 0;
@@ -1053,10 +1051,8 @@
     host.innerHTML =
       '<div class="cov-dash-head">' +
         '<h2 class="cov-dash-title">Comprehension coverage</h2>' +
-        '<p class="cov-dash-sub">How much Thai you can recall at 3-week intervals or longer, by how often each word comes up.</p>' +
       '</div>' +
-      '<div class="cov-grid">' + tiers + '</div>' +
-      (anyProgress ? '' : '<p class="cov-dash-empty">Review some flashcards and your coverage will start filling in here.</p>');
+      '<div class="cov-grid">' + tiers + '</div>';
     host.hidden = false;
 
     requestAnimationFrame(function () {
