@@ -58,8 +58,8 @@
     { en: "Thailand", columns: [
       [
         { href: "index.html", en: "Vocabulary" },
-        { href: "etymology.html", en: "Etymology" },
         { href: "flashcards.html", en: "Flashcards" },
+        { href: "etymology.html", en: "Etymology" },
       ]
     ]},
     { en: "Projects", columns: [
