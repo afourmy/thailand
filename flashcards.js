@@ -14,24 +14,6 @@
   var DAY = 86400000;
   var DIRS = ["t2e", "e2t"];
 
-  // ── Labels (kept in step with vocab.js) ───────────────────────────────────
-  var FREQ_ORDER = ["everyday", "common", "occasional", "rare"];
-  var FREQ_LABEL = {
-    everyday: "Everyday",
-    common: "Common",
-    occasional: "Occasional",
-    rare: "Rare",
-  };
-  var TOPIC_LABEL = {
-    personality: "Personality", emotions: "Emotions", family: "Family",
-    health: "Health", general: "General", grammar: "Grammar",
-    expressions: "Expressions", time: "Time", culture: "Culture",
-    beliefs: "Beliefs", monarchy: "Monarchy", nature: "Nature",
-    law: "Legal", economy: "Economy", transport: "Transport",
-    weather: "Weather", travel: "Travel", food: "Food",
-    slang: "Slang",
-  };
-
   // ── Storage ────────────────────────────────────────────────────────────────
   var STATE_KEY = "thaiFsrsState";
   var CONFIG_KEY = "thaiFsrsConfig";
@@ -55,13 +37,10 @@
     direction: "both",
     listening: false,
     typeMode: false,
-    excluded: { frequency: {}, topic: {} },
     day: null,
   };
   config.listening = !!config.listening;
-  config.excluded = config.excluded || { frequency: {}, topic: {} };
-  config.excluded.frequency = config.excluded.frequency || {};
-  config.excluded.topic = config.excluded.topic || {};
+  delete config.excluded; // frequency/topic include-filters were removed
   if (config.direction !== "e2t" && config.direction !== "t2e") config.direction = "both";
   // Type mode: on English→Thai cards, type the Thai (checked against the spelling)
   // instead of just self-rating recall. Migrate the old answerMode dropdown value.
@@ -212,13 +191,6 @@
   function cardId(word, dir) { return word.id + ":" + dir; }
   function getState(id) { return states[id] || window.FSRS.emptyCard(); }
 
-  function isExcluded(word) {
-    return (
-      config.excluded.frequency[word.frequency] === true ||
-      config.excluded.topic[word.topic] === true
-    );
-  }
-
   // The Thai-facing text and prompt/answer for a direction.
   function faces(word, dir) {
     if (dir === "t2e") {
@@ -269,7 +241,7 @@
 
     words.forEach(function (word) {
       if (!passesDeck(word)) return;
-      if (isExcluded(word) || isSuspended(word)) return;
+      if (isSuspended(word)) return;
       if (day.seen[word.id]) return; // a direction was already done today
 
       // Among the word's directions, prefer a due card; else offer it as new.
@@ -312,21 +284,21 @@
 
   // ── Stats (mirror what Start would build) ──────────────────────────────────
   // Due / New are today's session counts; Left is the deck's remaining unseen
-  // pool (cards never reviewed yet that aren't excluded), which decreases as
-  // new cards get introduced. Excluded counts what filters hide right now.
+  // pool (cards never reviewed yet, not suspended), which decreases as new cards
+  // get introduced. Suspended counts cards hidden via the per-card suspend button.
   function refreshStats() {
     var built = buildQueue();
     pendingQueue = built.queue;   // reused by startSession so the preloaded card matches
     preloadCard(built.queue[0]);  // warm the first card's audio before "Start studying"
-    var excluded = 0;
+    var suspended = 0;
     var left = 0;
     var dirs = activeDirs();
     words.forEach(function (word) {
       // When a custom deck is selected, words outside the deck aren't part of
-      // the universe — they don't count as excluded, they're simply invisible.
+      // the universe — they don't count as suspended, they're simply invisible.
       if (!passesDeck(word)) return;
-      if (isExcluded(word) || isSuspended(word)) {
-        excluded += dirs.length;
+      if (isSuspended(word)) {
+        suspended += dirs.length;
         return;
       }
       dirs.forEach(function (dir) {
@@ -337,7 +309,7 @@
     homeEl.querySelector('[data-stat="due"]').textContent = built.due.length;
     homeEl.querySelector('[data-stat="new"]').textContent = built.fresh.length;
     homeEl.querySelector('[data-stat="left"]').textContent = left;
-    homeEl.querySelector('[data-stat="excluded"]').textContent = excluded;
+    homeEl.querySelector('[data-stat="suspended"]').textContent = suspended;
 
     var empty = built.queue.length === 0;
     $("fc-start").hidden = empty;
@@ -588,40 +560,7 @@
     currentAudio.play().catch(stopAudio);
   }
 
-  // ── Settings UI (chips, stepper, font) ─────────────────────────────────────
-  function presentTopics() {
-    var counts = {};
-    words.forEach(function (w) { counts[w.topic] = (counts[w.topic] || 0) + 1; });
-    return Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; });
-  }
-
-  function chipClass(dim, key, included) {
-    if (!included) return "fc-chip fc-chip--off";
-    return dim === "frequency" ? "fc-chip tag-freq freq-" + key : "fc-chip tag-topic";
-  }
-
-  function buildChips() {
-    homeEl.querySelectorAll(".fc-chips").forEach(function (box) {
-      var dim = box.getAttribute("data-dim");
-      var keys = dim === "frequency"
-        ? FREQ_ORDER.filter(function (k) { return words.some(function (w) { return w.frequency === k; }); })
-        : presentTopics();
-      var labelOf = dim === "frequency"
-        ? function (k) { return FREQ_LABEL[k] || k; }
-        : function (k) { return TOPIC_LABEL[k] || k; };
-      box.innerHTML = keys.map(function (key) {
-        var included = config.excluded[dim][key] !== true;
-        return '<button type="button" class="' + chipClass(dim, key, included) +
-          '" data-key="' + esc(key) + '">' + esc(labelOf(key)) + "</button>";
-      }).join("");
-    });
-  }
-
-  function setChip(dim, key, included) {
-    if (included) delete config.excluded[dim][key];
-    else config.excluded[dim][key] = true;
-  }
-
+  // ── Settings UI (stepper) ──────────────────────────────────────────────────
   function wireSettings() {
     var newPerDayEl = $("fc-new-per-day");
     newPerDayEl.value = config.newPerDay;
