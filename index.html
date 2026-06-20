@@ -41,20 +41,6 @@
       <button id="deck-add-filtered" type="button" class="vocab-deck-add-filtered" hidden>Add filtered cards</button>
     </div>
 
-    <div class="vocab-controls vocab-backup" id="vocab-backup">
-      <span class="vocab-control-label">Backup</span>
-      <button id="backup-export" type="button" class="vocab-backup-btn" title="Download a backup of your study progress">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-        <span>Export</span>
-      </button>
-      <button id="backup-import" type="button" class="vocab-backup-btn" title="Restore progress from a backup file">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
-        <span>Import</span>
-      </button>
-      <input type="file" id="backup-file" accept="application/json,.json" hidden>
-      <span class="vocab-backup-status" id="backup-status" aria-live="polite"></span>
-    </div>
-
     <div class="vocab-controls vocab-filter" id="vocab-filter">
       <div class="vocab-filter-group vocab-filter-group--search">
         <span class="vocab-control-label">Filter</span>
@@ -88,19 +74,32 @@
         </div>
         <label class="vocab-check"><input type="checkbox" id="show-category"> Category</label>
         <label class="vocab-check"><input type="checkbox" id="show-sources"> Sources</label>
+        <div class="vocab-display-right">
+          <span class="vocab-control-label">Audio</span>
+          <div class="vocab-toggle" id="audio-toggle">
+            <button data-audio="th" class="active">Thai</button>
+            <button data-audio="en">English</button>
+          </div>
+        </div>
       </div>
       <div class="vocab-display-row">
-        <span class="vocab-control-label">Audio</span>
-        <div class="vocab-toggle" id="audio-toggle">
-          <button data-audio="th" class="active">Thai</button>
-          <button data-audio="en">English</button>
+        <span class="vocab-control-label">Group by</span>
+        <div class="vocab-toggle" id="vocab-toggle">
+          <button data-mode="frequency" class="active">Frequency</button>
+          <button data-mode="topic">Topic</button>
         </div>
         <div class="vocab-display-right">
-          <span class="vocab-control-label">Group by</span>
-          <div class="vocab-toggle" id="vocab-toggle">
-            <button data-mode="frequency" class="active">Frequency</button>
-            <button data-mode="topic">Topic</button>
-          </div>
+          <span class="vocab-control-label">Backup</span>
+          <button id="backup-export" type="button" class="vocab-backup-btn" title="Download a backup of your study progress">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            <span>Export</span>
+          </button>
+          <button id="backup-import" type="button" class="vocab-backup-btn" title="Restore progress from a backup file">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            <span>Import</span>
+          </button>
+          <input type="file" id="backup-file" accept="application/json,.json" hidden>
+          <span class="vocab-backup-status" id="backup-status" aria-live="polite"></span>
         </div>
       </div>
     </div>
