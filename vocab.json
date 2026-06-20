@@ -96274,26 +96274,6 @@
     ]
   },
   {
-    "id": "t4k-c03-020",
-    "thai": "พล",
-    "english": "power; force; troops; soldiers; General",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c03-022",
-    "thai": "ผู้เขียน",
-    "english": "writer",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c03-023",
     "thai": "เป็นอัน",
     "english": "show that",
@@ -96346,7 +96326,7 @@
   {
     "id": "t4k-c03-029",
     "thai": "เลวร้าย",
-    "english": "bad; evil",
+    "english": "bad, awful, terrible",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96372,7 +96352,7 @@
   {
     "id": "t4k-c03-031",
     "thai": "คำนึง",
-    "english": "ponder; consider; contemplate",
+    "english": "to take into account, to bear in mind",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96392,7 +96372,7 @@
   {
     "id": "t4k-c03-033",
     "thai": "ปฏิบัติการ",
-    "english": "to take action; act; operate",
+    "english": "operation, execution (of a plan, a task)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96422,7 +96402,7 @@
   {
     "id": "t4k-c03-037",
     "thai": "จัดทำ",
-    "english": "make; do",
+    "english": "to prepare, to produce (formal)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96452,7 +96432,7 @@
   {
     "id": "t4k-c03-041",
     "thai": "เตรียมตัว",
-    "english": "prepare; get ready",
+    "english": "to prepare oneself, to get ready",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96480,19 +96460,9 @@
     ]
   },
   {
-    "id": "t4k-c03-044",
-    "thai": "เสรี",
-    "english": "free; freedom",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c03-045",
     "thai": "หลักเกณฑ์",
-    "english": "principles; standard",
+    "english": "criteria, rules, standards",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96552,7 +96522,7 @@
   {
     "id": "t4k-c03-051",
     "thai": "ความพยายาม",
-    "english": "effort",
+    "english": "effort, attempt",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96562,7 +96532,7 @@
   {
     "id": "t4k-c03-052",
     "thai": "เข้าถึง",
-    "english": "reach",
+    "english": "to access, to reach",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96572,7 +96542,7 @@
   {
     "id": "t4k-c03-054",
     "thai": "ดารา",
-    "english": "star",
+    "english": "celebrity, star",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96582,7 +96552,7 @@
   {
     "id": "t4k-c03-055",
     "thai": "โน้ต",
-    "english": "note",
+    "english": "note (e.g music, study)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96602,7 +96572,7 @@
   {
     "id": "t4k-c03-057",
     "thai": "แดน",
-    "english": "land; area; border",
+    "english": "land, area",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96650,19 +96620,9 @@
     ]
   },
   {
-    "id": "t4k-c03-062",
-    "thai": "กล",
-    "english": "machine; trickery",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c03-064",
     "thai": "ครอบครอง",
-    "english": "possess",
+    "english": "to possess, to own",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96682,7 +96642,7 @@
   {
     "id": "t4k-c03-066",
     "thai": "คิว",
-    "english": "queue; cue",
+    "english": "queue",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96712,7 +96672,7 @@
   {
     "id": "t4k-c03-073",
     "thai": "กลไก",
-    "english": "mechanism; device; office, organ",
+    "english": "mechanism, system, machinery",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96742,7 +96702,7 @@
   {
     "id": "t4k-c03-079",
     "thai": "ชายหนุ่ม",
-    "english": "youth",
+    "english": "young man",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96752,7 +96712,7 @@
   {
     "id": "t4k-c03-080",
     "thai": "เดี่ยว",
-    "english": "solo; alone; be alone",
+    "english": "single, solo",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96772,7 +96732,7 @@
   {
     "id": "t4k-c03-083",
     "thai": "เงา",
-    "english": "shadow; reflection; image",
+    "english": "shadow, shade, reflection",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96812,7 +96772,7 @@
   {
     "id": "t4k-c03-087",
     "thai": "ส่วนร่วม",
-    "english": "involved; share",
+    "english": "participation, contribution",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96862,7 +96822,7 @@
   {
     "id": "t4k-c03-094",
     "thai": "เข้ม",
-    "english": "dark, deep, rich (colors and flavours)",
+    "english": "strong, dark, intense (e.g color, flavor)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96872,7 +96832,7 @@
   {
     "id": "t4k-c03-095",
     "thai": "ยุ",
-    "english": "incite; urge; stir up",
+    "english": "to incite, to provoke someone to do sth (e.g risky or bad)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96882,7 +96842,7 @@
   {
     "id": "t4k-c03-096",
     "thai": "ข้อเสนอ",
-    "english": "proposal; offer",
+    "english": "proposal, offer",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96902,7 +96862,7 @@
   {
     "id": "t4k-c03-099",
     "thai": "ข่าวสาร",
-    "english": "message; information; news",
+    "english": "news, information",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96922,7 +96882,7 @@
   {
     "id": "t4k-c04-001",
     "thai": "คัด",
-    "english": "steer; select; copy",
+    "english": "to select, to pick, to filter; to copy",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -96982,7 +96942,7 @@
   {
     "id": "t4k-c04-009",
     "thai": "ต่างชาติ",
-    "english": "abroad; overseas",
+    "english": "foreign, of another nationality",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97012,7 +96972,7 @@
   {
     "id": "t4k-c04-015",
     "thai": "แก่น",
-    "english": "kernel; core; heart of wood",
+    "english": "core, kernel, essence",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97092,7 +97052,7 @@
   {
     "id": "t4k-c04-023",
     "thai": "นางเอก",
-    "english": "heroine; main actress",
+    "english": "female lead, heroine",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97116,7 +97076,7 @@
   {
     "id": "t4k-c04-025",
     "thai": "รูปทรง",
-    "english": "shape; figure; built",
+    "english": "shape, form",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97126,17 +97086,7 @@
   {
     "id": "t4k-c04-027",
     "thai": "อำนวย",
-    "english": "give; produce; afford",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c04-028",
-    "thai": "ดำเนินงาน",
-    "english": "to operate; carry on; execute",
+    "english": "to grant, to facilitate, to provide",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97242,16 +97192,6 @@
     ]
   },
   {
-    "id": "t4k-c04-043",
-    "thai": "เครือ",
-    "english": "group; family; faint; vine",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c04-044",
     "thai": "จริยธรรม",
     "english": "morality; ethical behaviour",
@@ -97304,7 +97244,7 @@
   {
     "id": "t4k-c04-051",
     "thai": "วิถี",
-    "english": "way; path; route",
+    "english": "way, path, manner",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97334,17 +97274,7 @@
   {
     "id": "t4k-c04-057",
     "thai": "ยากลำบาก",
-    "english": "suffer; become weary",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c04-058",
-    "thai": "ตาก",
-    "english": "out in the open; exposed",
+    "english": "difficult, hard",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97365,7 +97295,7 @@
   {
     "id": "t4k-c04-060",
     "thai": "รวมตัว",
-    "english": "assemble; collect",
+    "english": "to gather, to assemble",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97425,7 +97355,7 @@
   {
     "id": "t4k-c04-067",
     "thai": "ที่ปรึกษา",
-    "english": "adviser; consultant",
+    "english": "advisor, consultant",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97435,7 +97365,7 @@
   {
     "id": "t4k-c04-068",
     "thai": "จม",
-    "english": "sink; submerge",
+    "english": "to sink, to be submerged",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97475,7 +97405,7 @@
   {
     "id": "t4k-c04-072",
     "thai": "จัดสรร",
-    "english": "allocate; divide",
+    "english": "to allocate, to distribute, to assign",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97485,7 +97415,7 @@
   {
     "id": "t4k-c04-073",
     "thai": "คัดค้าน",
-    "english": "oppose; object",
+    "english": "to oppose, to protest against",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97513,16 +97443,6 @@
     ]
   },
   {
-    "id": "t4k-c04-076",
-    "thai": "บำรุง",
-    "english": "maintain; care for",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c04-077",
     "thai": "นี่เอง",
     "english": "just this",
@@ -97535,7 +97455,7 @@
   {
     "id": "t4k-c04-078",
     "thai": "ปัน",
-    "english": "divide; allocate",
+    "english": "to share, to divide",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97565,7 +97485,7 @@
   {
     "id": "t4k-c04-082",
     "thai": "ยุติ",
-    "english": "terminate; end; cease",
+    "english": "to terminate, to resolve, to settle (e.g a conflict, a case)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97615,8 +97535,8 @@
   {
     "id": "t4k-c04-087",
     "thai": "ขาน",
-    "english": "call out",
-    "frequency": "common",
+    "english": "to call out (e.g names for attendance)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -97625,7 +97545,7 @@
   {
     "id": "t4k-c04-088",
     "thai": "ราบ",
-    "english": "flat; level",
+    "english": "flat, smooth",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97635,7 +97555,7 @@
   {
     "id": "t4k-c04-089",
     "thai": "ดึงดูด",
-    "english": "attract; appeal",
+    "english": "to attract, to appeal",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97685,7 +97605,7 @@
   {
     "id": "t4k-c04-095",
     "thai": "เห็นชอบ",
-    "english": "agree to; consent to",
+    "english": "to approve, to consent, to endorse",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97695,7 +97615,7 @@
   {
     "id": "t4k-c04-096",
     "thai": "ขยับ",
-    "english": "move",
+    "english": "to move slightly, to adjust one's position",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97725,7 +97645,7 @@
   {
     "id": "t4k-c05-003",
     "thai": "สะดุด",
-    "english": "stumble; discontinue",
+    "english": "to stumble, to trip; (fig) to be disrupted, to be interrupted",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97745,7 +97665,7 @@
   {
     "id": "t4k-c05-005",
     "thai": "ฟู",
-    "english": "rise; swell",
+    "english": "fluffy, puffed up (e.g hair, face)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97755,8 +97675,8 @@
   {
     "id": "t4k-c05-006",
     "thai": "บัณฑิต",
-    "english": "graduate",
-    "frequency": "common",
+    "english": "graduate (university)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -97765,7 +97685,7 @@
   {
     "id": "t4k-c05-007",
     "thai": "ข้อสังเกต",
-    "english": "observation; notice; remark",
+    "english": "observation, remark",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97783,19 +97703,9 @@
     ]
   },
   {
-    "id": "t4k-c05-010",
-    "thai": "คนตาย",
-    "english": "the dead",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c05-013",
     "thai": "ชั้นใน",
-    "english": "inner part; underwear",
+    "english": "underwear; inner layer, inner part",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97806,16 +97716,6 @@
     "id": "t4k-c05-015",
     "thai": "ผู้ช่วย",
     "english": "assistant",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c05-016",
-    "thai": "วุฒิ",
-    "english": "qualification",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97835,8 +97735,8 @@
   {
     "id": "t4k-c05-021",
     "thai": "แกน",
-    "english": "axis; unwillingly",
-    "frequency": "common",
+    "english": "axis; core, center",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -97845,7 +97745,7 @@
   {
     "id": "t4k-c05-022",
     "thai": "มวล",
-    "english": "mass; group",
+    "english": "mass, bulk",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97865,7 +97765,7 @@
   {
     "id": "t4k-c05-024",
     "thai": "สังกัด",
-    "english": "belong to; be in the service of",
+    "english": "to belong to, to be affiliated with (e.g organization, institution)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -97885,8 +97785,8 @@
   {
     "id": "t4k-c05-026",
     "thai": "รัศมี",
-    "english": "radius; ray of light",
-    "frequency": "common",
+    "english": "radius; (fig) ray of light, aura, radiance",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -97923,19 +97823,9 @@
     ]
   },
   {
-    "id": "t4k-c05-030",
-    "thai": "คอร์ด",
-    "english": "chord",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c05-031",
     "thai": "ขบวนการ",
-    "english": "movement; organization; process",
+    "english": "movement, organization",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98006,7 +97896,7 @@
   {
     "id": "t4k-c05-038",
     "thai": "ประหลาด",
-    "english": "strange; unusual",
+    "english": "strange, odd, unusual",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98026,7 +97916,7 @@
   {
     "id": "t4k-c05-041",
     "thai": "ข่าย",
-    "english": "network; net; scope",
+    "english": "net, network; (fig) range, scope",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98039,16 +97929,6 @@
     "english": "public finance, treasury",
     "frequency": "occasional",
     "topic": "economy",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c05-044",
-    "thai": "แสงสว่าง",
-    "english": "bright light; strong light",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Thai 4000"
     ]
@@ -98087,7 +97967,7 @@
   {
     "id": "t4k-c05-048",
     "thai": "ตอบรับ",
-    "english": "accept; acknowledge",
+    "english": "to accept, to acknowledge, to respond positively",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98127,7 +98007,7 @@
   {
     "id": "t4k-c05-052",
     "thai": "เชี่ยวชาญ",
-    "english": "be skilled",
+    "english": "skilled, proficient, expert in, specialized in",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98185,16 +98065,6 @@
     ]
   },
   {
-    "id": "t4k-c05-061",
-    "thai": "บันดาล",
-    "english": "inspire; motivate",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c05-062",
     "thai": "พินิจ",
     "english": "examine; consider",
@@ -98227,7 +98097,7 @@
   {
     "id": "t4k-c05-065",
     "thai": "ของเก่า",
-    "english": "antique",
+    "english": "old things, antique, second-hand",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98237,7 +98107,7 @@
   {
     "id": "t4k-c05-066",
     "thai": "รังสี",
-    "english": "ray; radiation",
+    "english": "rays, radiation, beam",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98247,7 +98117,7 @@
   {
     "id": "t4k-c05-067",
     "thai": "โบ",
-    "english": "ribbon",
+    "english": "bow, ribbon",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98307,7 +98177,7 @@
   {
     "id": "t4k-c05-073",
     "thai": "คุกคาม",
-    "english": "threaten; menace",
+    "english": "to threaten, to intimidate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98317,7 +98187,7 @@
   {
     "id": "t4k-c05-074",
     "thai": "จงใจ",
-    "english": "intend; plan",
+    "english": "to intend, deliberately, on purpose",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98337,7 +98207,7 @@
   {
     "id": "t4k-c05-077",
     "thai": "เครื่องใช้",
-    "english": "tool; equipment",
+    "english": "appliance, utensil, equipment",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98357,7 +98227,7 @@
   {
     "id": "t4k-c05-080",
     "thai": "ฟื้น",
-    "english": "recover; retrieve",
+    "english": "to recover, to restore",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98387,7 +98257,7 @@
   {
     "id": "t4k-c05-083",
     "thai": "เดา",
-    "english": "guess; estimate",
+    "english": "to guess, to take a guess (without certainty)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98397,7 +98267,7 @@
   {
     "id": "t4k-c05-084",
     "thai": "เพลิง",
-    "english": "fire; flame; blaze",
+    "english": "fire, blaze",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98417,7 +98287,7 @@
   {
     "id": "t4k-c05-087",
     "thai": "สามัญ",
-    "english": "ordinary; common; normal",
+    "english": "common, basic, ordinary",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98427,17 +98297,7 @@
   {
     "id": "t4k-c05-088",
     "thai": "จอม",
-    "english": "peak; top",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c05-089",
-    "thai": "คนจน",
-    "english": "poor person",
+    "english": "master-, chief-, top- (sometimes used ironically)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98467,8 +98327,8 @@
   {
     "id": "t4k-c05-093",
     "thai": "หารือ",
-    "english": "confer; consult",
-    "frequency": "common",
+    "english": "to confer, to deliberate (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98477,7 +98337,7 @@
   {
     "id": "t4k-c05-094",
     "thai": "จุ",
-    "english": "to contain, hold, have a capacity of",
+    "english": "to contain, to hold (capacity), to have a capacity of",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98528,7 +98388,7 @@
   {
     "id": "t4k-c06-002",
     "thai": "คลุม",
-    "english": "cover; spread over",
+    "english": "to cover, to envelop, to spread over",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98552,7 +98412,7 @@
   {
     "id": "t4k-c06-004",
     "thai": "แก่ตัว",
-    "english": "be old; be aged",
+    "english": "to get older, to grow old",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98580,19 +98440,9 @@
     ]
   },
   {
-    "id": "t4k-c06-008",
-    "thai": "สูงอายุ",
-    "english": "elderly; old",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c06-009",
     "thai": "ที่ทาง",
-    "english": "area; place; lot",
+    "english": "available space, available place",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98626,8 +98476,8 @@
   {
     "id": "t4k-c06-012",
     "thai": "ผู้ดี",
-    "english": "gentleman; lady",
-    "frequency": "common",
+    "english": "gentleman, lady, aristocrat, well-bred person",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98636,7 +98486,7 @@
   {
     "id": "t4k-c06-014",
     "thai": "ลือ",
-    "english": "circulate; broadcast",
+    "english": "to spread (e.g news, rumor), to be widely known",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98676,7 +98526,7 @@
   {
     "id": "t4k-c06-021",
     "thai": "สารเคมี",
-    "english": "chemicals",
+    "english": "chemical substance",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98716,7 +98566,7 @@
   {
     "id": "t4k-c06-027",
     "thai": "เปล่ง",
-    "english": "glow; shine; utter; express",
+    "english": "to emit (sound, light), to radiate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98726,7 +98576,7 @@
   {
     "id": "t4k-c06-028",
     "thai": "ระดม",
-    "english": "mobilize; assemble",
+    "english": "to mobilize, to gather, to assemble (e.g people, resources)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98746,7 +98596,7 @@
   {
     "id": "t4k-c06-030",
     "thai": "พิทักษ์",
-    "english": "to protect, defend, safeguard",
+    "english": "to protect, to defend, to safeguard",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98767,7 +98617,7 @@
   {
     "id": "t4k-c06-032",
     "thai": "จูงใจ",
-    "english": "persuade; induce",
+    "english": "to motivate, to persuade, to influence",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98787,7 +98637,7 @@
   {
     "id": "t4k-c06-034",
     "thai": "แปร",
-    "english": "change; shift; alter",
+    "english": "to transform, to alter",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98807,7 +98657,7 @@
   {
     "id": "t4k-c06-036",
     "thai": "ดัก",
-    "english": "trap; snare; hold back",
+    "english": "to set a trap, to ambush, to intercept",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98837,7 +98687,7 @@
   {
     "id": "t4k-c06-039",
     "thai": "ความเคลื่อนไหว",
-    "english": "movement; motion",
+    "english": "movement, motion, activity",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98857,7 +98707,7 @@
   {
     "id": "t4k-c06-041",
     "thai": "ติดตั้ง",
-    "english": "install; set up",
+    "english": "to install, to set up",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -101350,16 +101200,6 @@
     "english": "bush",
     "frequency": "common",
     "topic": "nature",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c09-068",
-    "thai": "อิเล็กทรอนิกส์",
-    "english": "electronics",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Thai 4000"
     ]
