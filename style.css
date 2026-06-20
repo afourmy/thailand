@@ -2111,8 +2111,8 @@ body[data-thai-font="noto"] .th {
 .fc-stat--due .fc-stat-num { color: var(--accent); }
 .fc-stat--new .fc-stat-num { color: #2e9e5b; }
 .fc-stat--left .fc-stat-num { color: var(--text); }
-.fc-stat--excluded .fc-stat-num { color: #b5482e; }
-[data-theme="dark"] .fc-stat--excluded .fc-stat-num { color: #f0a591; }
+.fc-stat--suspended .fc-stat-num { color: #b5482e; }
+[data-theme="dark"] .fc-stat--suspended .fc-stat-num { color: #f0a591; }
 
 /* Primary call to action — sits at the bottom of the home screen, below the
    settings panel, so the eye lands on filters first and the button last. */
@@ -2290,59 +2290,9 @@ body[data-thai-font="noto"] .th {
 .fc-stepper-val::-webkit-outer-spin-button,
 .fc-stepper-val::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
 
-.fc-chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-}
-/* When chips sit directly in a setting row (frequencies), push them to the
-   right of the inline label, matching the stepper's right-aligned layout. */
-.fc-setting > .fc-chips { margin-left: auto; }
-
 /* Keep the right-aligned selects in the flashcard setup (Deck, Direction) at
    a single shared width so the column reads as a tidy stack. */
 .fc-setting > .vocab-deck-select { width: 240px; }
-
-/* Bulk actions: small pill buttons matching the chip aesthetic. */
-.fc-bulk {
-  display: inline-flex;
-  gap: 0.4rem;
-  margin-left: auto;
-}
-.fc-bulk button {
-  font-family: 'Computer Modern Serif', serif;
-  font-size: 0.78rem;
-  font-weight: 700;
-  color: var(--accent);
-  background: var(--surface);
-  border: 1px solid var(--accent);
-  border-radius: 999px;
-  padding: 0.25rem 0.7rem;
-  cursor: pointer;
-  transition: background 0.15s, color 0.15s;
-}
-.fc-bulk button:hover { background: var(--accent); color: #fff; }
-
-/* Filter chips reuse the vocab tag colour tokens (tag-freq / tag-topic). */
-.fc-chip {
-  font-family: 'Computer Modern Serif', serif;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  padding: 0.25rem 0.7rem;
-  border-radius: 999px;
-  border: 1px solid transparent;
-  cursor: pointer;
-  transition: opacity 0.15s, background 0.15s, color 0.15s;
-}
-.fc-chip--off {
-  background: var(--surface);
-  color: var(--text-muted);
-  border-color: var(--border);
-  opacity: 0.6;
-}
-.fc-chip:hover { opacity: 0.85; }
-.fc-chip--off:hover { opacity: 1; }
 
 /* ── Review screen ── */
 /* Display gated behind :not([hidden]) so the hidden attribute always wins,
