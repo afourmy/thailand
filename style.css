@@ -1605,6 +1605,40 @@ html[lang="fr"] .en { display: none; }
   color: #fff;
 }
 
+/* Progress export / import row. */
+.vocab-backup-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-family: 'Computer Modern Serif', serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background: var(--surface);
+  color: var(--accent-strong);
+  cursor: pointer;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+
+.vocab-backup-btn svg { width: 14px; height: 14px; }
+
+.vocab-backup-btn:hover {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+
+.vocab-backup-status {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.vocab-backup-status.is-error {
+  color: #c0392b;
+}
+
 .vocab-deck-add-filtered {
   font-family: 'Computer Modern Serif', serif;
   font-size: 0.92rem;

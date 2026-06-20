@@ -900,7 +900,7 @@
   });
   deckInputEl.addEventListener("blur", function () { endRename(true); });
 
-  function showConfirm(message, onConfirm) {
+  function showConfirm(message, onConfirm, confirmLabel) {
     var backdrop = document.createElement("div");
     backdrop.className = "vocab-modal-backdrop";
     backdrop.innerHTML =
@@ -908,7 +908,7 @@
         '<div class="vocab-modal-msg">' + message + '</div>' +
         '<div class="vocab-modal-actions">' +
           '<button class="vocab-modal-cancel" type="button">Cancel</button>' +
-          '<button class="vocab-modal-confirm" type="button">Delete</button>' +
+          '<button class="vocab-modal-confirm" type="button">' + esc(confirmLabel || "Delete") + '</button>' +
         '</div>' +
       '</div>';
     document.body.appendChild(backdrop);
@@ -1063,6 +1063,113 @@
     });
   }
 
+  // ── Progress backup (export / import) ───────────────────────────────────────
+  // All study progress and preferences live in localStorage with no backend, so
+  // clearing the browser or switching devices loses everything. Export bundles
+  // every relevant key into one JSON file; import restores them (after a
+  // confirm, since it overwrites current progress) and reloads so both pages
+  // re-read the fresh state.
+  var BACKUP_KEYS = [
+    "thaiFsrsState",      // FSRS card scheduling state (the core progress)
+    "thaiFsrsConfig",     // flashcards settings + per-day session bookkeeping
+    "thaiSuspended",      // suspended words
+    "thaiDecks",          // custom decks
+    "thaiAudioLang",      // vocab audio-language preference
+    "vocabFace",          // vocab show-Thai/English/both preference
+    "vocabShowCategory",  // vocab category toggle
+    "vocabShowSources",   // vocab sources toggle
+  ];
+  var BACKUP_FORMAT = "thai-vocab-progress";
+
+  function backupStatus(msg, isError) {
+    var el = document.getElementById("backup-status");
+    if (!el) return;
+    el.textContent = msg || "";
+    el.classList.toggle("is-error", !!isError);
+  }
+
+  function exportProgress() {
+    var data = {};
+    var count = 0;
+    BACKUP_KEYS.forEach(function (k) {
+      var raw = lsGet(k);
+      if (raw == null) return;
+      // Store parsed values when possible so the file is human-readable.
+      try { data[k] = JSON.parse(raw); } catch (e) { data[k] = raw; }
+      count += 1;
+    });
+    var payload = {
+      format: BACKUP_FORMAT,
+      version: 1,
+      exportedAt: new Date().toISOString(),
+      data: data,
+    };
+    var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+    var url = URL.createObjectURL(blob);
+    var d = new Date();
+    var stamp = d.getFullYear() + "-" +
+      String(d.getMonth() + 1).padStart(2, "0") + "-" +
+      String(d.getDate()).padStart(2, "0");
+    var a = document.createElement("a");
+    a.href = url;
+    a.download = "thai-progress-" + stamp + ".json";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+    backupStatus(count ? "Exported." : "Nothing to export yet.");
+  }
+
+  function applyImport(data) {
+    // Replace only the keys the backup actually carries; leave others untouched.
+    BACKUP_KEYS.forEach(function (k) {
+      if (!(k in data)) return;
+      var v = data[k];
+      lsSet(k, typeof v === "string" ? v : JSON.stringify(v));
+    });
+    backupStatus("Restored. Reloading…");
+    setTimeout(function () { location.reload(); }, 350);
+  }
+
+  function importProgress(file) {
+    var reader = new FileReader();
+    reader.onload = function () {
+      var payload;
+      try { payload = JSON.parse(reader.result); }
+      catch (e) { backupStatus("Not a valid backup file.", true); return; }
+      if (!payload || payload.format !== BACKUP_FORMAT || !payload.data ||
+          typeof payload.data !== "object") {
+        backupStatus("Not a Thai-vocab backup file.", true); return;
+      }
+      var keys = BACKUP_KEYS.filter(function (k) { return k in payload.data; });
+      if (!keys.length) { backupStatus("Backup has no progress data.", true); return; }
+      var when = payload.exportedAt ? new Date(payload.exportedAt) : null;
+      var whenStr = when && !isNaN(when) ? when.toLocaleDateString() : "an unknown date";
+      showConfirm(
+        "Restore progress from " + whenStr + "? This replaces your current " +
+        "study progress and settings on this device.",
+        function () { applyImport(payload.data); },
+        "Restore"
+      );
+    };
+    reader.onerror = function () { backupStatus("Could not read the file.", true); };
+    reader.readAsText(file);
+  }
+
+  function wireBackup() {
+    var exportBtn = document.getElementById("backup-export");
+    var importBtn = document.getElementById("backup-import");
+    var fileEl = document.getElementById("backup-file");
+    if (!exportBtn || !importBtn || !fileEl) return;
+    exportBtn.addEventListener("click", exportProgress);
+    importBtn.addEventListener("click", function () { fileEl.click(); });
+    fileEl.addEventListener("change", function () {
+      var f = fileEl.files && fileEl.files[0];
+      if (f) importProgress(f);
+      fileEl.value = ""; // allow re-importing the same file
+    });
+  }
+
   fetch(dataUrl)
     .then(function (r) {
       return r.json();
@@ -1073,6 +1180,7 @@
       buildFilterBar();
       render();
       renderCoverage();
+      wireBackup();
     })
     .catch(function () {
       groupsEl.innerHTML =
