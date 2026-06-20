@@ -972,6 +972,103 @@
     ? new URL("audio/", thisScript.src).href
     : "audio/";
 
+  // ── Comprehension-coverage dashboard ────────────────────────────────────────
+  // Reads the flashcards' FSRS state (shared localStorage, written by the
+  // flashcards page) and shows, per frequency band, how much of that vocabulary
+  // you actually retain. A word counts as "known" once a card reaches a stability
+  // of MATURE_DAYS (recall holds at 3-week+ intervals); "learning" = reviewed but
+  // not yet mature. Either direction (t2e / e2t) counts toward knowing the word.
+  var FSRS_STATE_KEY = "thaiFsrsState";
+  var MATURE_DAYS = 21;
+
+  function loadFsrsState() {
+    var raw = lsGet(FSRS_STATE_KEY);
+    if (!raw) return {};
+    try { return JSON.parse(raw) || {}; } catch (e) { return {}; }
+  }
+  function wordStability(states, id) {
+    var best = null;
+    ["t2e", "e2t"].forEach(function (dir) {
+      var c = states[id + ":" + dir];
+      if (c && c.stability != null) best = Math.max(best == null ? 0 : best, c.stability);
+    });
+    return best;
+  }
+  function wordSeen(states, id) {
+    var a = states[id + ":t2e"], b = states[id + ":e2t"];
+    return !!((a && a.reps > 0) || (b && b.reps > 0));
+  }
+
+  function countUp(el, target) {
+    var node = el.firstChild; // numeric text node (the "%" lives in a child span)
+    if (target <= 0) { node.nodeValue = "0"; return; }
+    var start = null, dur = 900;
+    requestAnimationFrame(function step(ts) {
+      if (start == null) start = ts;
+      var p = Math.min(1, (ts - start) / dur);
+      node.nodeValue = Math.round(target * (1 - Math.pow(1 - p, 3))); // ease-out
+      if (p < 1) requestAnimationFrame(step);
+    });
+  }
+
+  function renderCoverage() {
+    var host = document.getElementById("cov-dash");
+    if (!host) return;
+    var states = loadFsrsState();
+
+    var tally = {};
+    FREQ_ORDER.forEach(function (f) { tally[f] = { total: 0, known: 0, learning: 0 }; });
+    words.forEach(function (w) {
+      var t = tally[w.frequency];
+      if (!t) return;
+      t.total += 1;
+      var stab = wordStability(states, w.id);
+      if (stab != null && stab >= MATURE_DAYS) t.known += 1;
+      else if (wordSeen(states, w.id)) t.learning += 1;
+    });
+
+    var anyProgress = FREQ_ORDER.some(function (f) { return tally[f].known + tally[f].learning > 0; });
+
+    var tiers = FREQ_ORDER.map(function (f) {
+      var t = tally[f];
+      var knownPct = t.total ? Math.round((t.known / t.total) * 100) : 0;
+      var reachPct = t.total ? Math.round(((t.known + t.learning) / t.total) * 100) : 0;
+      return (
+        '<div class="cov-tier cov-tier--' + f + '">' +
+          '<div class="cov-tier-head">' +
+            '<span class="cov-tier-name">' + FREQ_LABEL[f] + '</span>' +
+            '<span class="cov-tier-pct" data-pct="' + knownPct + '">0<span class="cov-pct-sign">%</span></span>' +
+          '</div>' +
+          '<div class="cov-track" role="img" aria-label="' + knownPct + '% known">' +
+            '<div class="cov-fill cov-fill--learning" data-w="' + reachPct + '" style="width:0"></div>' +
+            '<div class="cov-fill cov-fill--known" data-w="' + knownPct + '" style="width:0"></div>' +
+          '</div>' +
+          '<div class="cov-tier-foot"><strong>' + t.known + '</strong> known of ' + t.total +
+            (t.learning ? ' <span class="cov-learning-n">+' + t.learning + ' learning</span>' : '') +
+          '</div>' +
+        '</div>'
+      );
+    }).join("");
+
+    host.innerHTML =
+      '<div class="cov-dash-head">' +
+        '<h2 class="cov-dash-title">Comprehension coverage</h2>' +
+        '<p class="cov-dash-sub">How much Thai you can recall at 3-week intervals or longer, by how often each word comes up.</p>' +
+      '</div>' +
+      '<div class="cov-grid">' + tiers + '</div>' +
+      (anyProgress ? '' : '<p class="cov-dash-empty">Review some flashcards and your coverage will start filling in here.</p>');
+    host.hidden = false;
+
+    requestAnimationFrame(function () {
+      host.querySelectorAll(".cov-fill").forEach(function (el) {
+        el.style.width = el.getAttribute("data-w") + "%";
+      });
+      host.querySelectorAll(".cov-tier-pct").forEach(function (el) {
+        countUp(el, +el.getAttribute("data-pct"));
+      });
+    });
+  }
+
   fetch(dataUrl)
     .then(function (r) {
       return r.json();
@@ -981,6 +1078,7 @@
       loaded = true;
       buildFilterBar();
       render();
+      renderCoverage();
     })
     .catch(function () {
       groupsEl.innerHTML =
