@@ -1056,29 +1056,27 @@ html[lang="fr"] .en { display: none; }
   border-radius: 6px;
 }
 
-/* Display options: two deliberate rows (Show/Category/Sources, then
-   Audio ... Group by) instead of one overflowing, randomly-wrapping row. */
+/* Display options laid out as a 2x2 grid: left column Show / Group by, right
+   column Audio / Backup. The shared right column means Audio and Backup start
+   at the same x, instead of each floating independently to the right edge. */
 .vocab-controls--display {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 0.6rem 1.5rem;
   margin-bottom: 1.8rem;
-  flex-direction: column;
-  align-items: stretch;
-  gap: 0.6rem;
 }
 
-.vocab-display-row {
+.vocab-display-cell {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.6rem 0.8rem;
 }
 
-/* "Group by" label + its toggle stay together and float to the right edge,
-   wrapping as one unit when the row runs out of width. */
-.vocab-display-right {
-  margin-left: auto;
-  display: flex;
-  align-items: center;
-  gap: 0.8rem;
+@media (max-width: 600px) {
+  /* Stack to a single column when there isn't room for two. */
+  .vocab-controls--display { grid-template-columns: 1fr; }
 }
 
 .vocab-control-label {
