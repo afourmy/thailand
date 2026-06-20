@@ -21,11 +21,11 @@ t4k-c03-095 ยุ: eng 'to incite, to provoke someone to do sth (e.g risky or b
 t4k-c03-096 ข้อเสนอ: eng 'proposal, offer'
 t4k-c03-099 ข่าวสาร: eng 'news, information'
 t4k-c04-001 คัด: eng 'to select, to pick, to filter; to copy'
-t4k-c04-009 ต่างชาติ: eng 'abroad, foreign'
+t4k-c04-009 ต่างชาติ: eng 'foreign, of another nationality'
 t4k-c04-015 แก่น: eng 'core, kernel, essence'
 t4k-c04-023 นางเอก: eng 'female lead, heroine'
 t4k-c04-025 รูปทรง: eng 'shape, form'
-t4k-c04-027 อำนวย: eng 'to produce, to enable'
+t4k-c04-027 อำนวย: eng 'to grant, to facilitate, to provide'
 t4k-c04-051 วิถี: eng 'way, path, manner'
 t4k-c04-057 ยากลำบาก: eng 'difficult, hard'
 t4k-c04-060 รวมตัว: eng 'to gather, to assemble'
@@ -49,7 +49,7 @@ t4k-c05-021 แกน: eng 'axis; core, center'
 t4k-c05-022 มวล: eng 'mass, bulk'
 t4k-c05-024 สังกัด: eng 'to belong to, to be affiliated with (e.g organization, institution)'
 t4k-c05-026 รัศมี: eng 'radius; (fig) ray of light, aura, radiance'
-t4k-c05-031 ขบวนการ: eng 'movement, organization, process'
+t4k-c05-031 ขบวนการ: eng 'movement, organization'
 t4k-c05-038 ประหลาด: eng 'strange, odd, unusual'
 t4k-c05-041 ข่าย: eng 'net, network; (fig) range, scope'
 t4k-c05-048 ตอบรับ: eng 'to accept, to acknowledge, to respond positively'
@@ -80,8 +80,7 @@ t4k-c06-032 จูงใจ: eng 'to motivate, to persuade, to influence'
 t4k-c06-034 แปร: eng 'to transform, to alter'
 t4k-c06-036 ดัก: eng 'to set a trap, to ambush, to intercept'
 t4k-c06-039 ความเคลื่อนไหว: eng 'movement, motion, activity'
-
-everyday: t4k-c04-051 วิถี
+t4k-c06-041 ติดตั้ง: eng 'to install, to set up'
 
 occasional: t4k-c04-087 ขาน, t4k-c05-006 บัณฑิต, t4k-c05-021 แกน, t4k-c05-026, t4k-c05-093 หารือ, t4k-c05-097 หมาก, t4k-c06-012 ผู้ดี
 
