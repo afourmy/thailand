@@ -208,25 +208,24 @@
       .filter(Boolean);
   }
   function normThai(s) { return (s || "").replace(/\s+/g, ""); }
-  // 'empty' | 'correct' (matches a variant) | 'progress' (valid prefix of one)
-  // | 'wrong' (diverged from every variant).
-  function typedStatus(input, answer) {
+  // True when the input matches any accepted spelling (ignoring whitespace).
+  function isTypedCorrect(input, answer) {
     var inN = normThai(input);
-    if (!inN) return "empty";
-    var vars = thaiVariants(answer).map(normThai);
-    if (vars.some(function (v) { return v === inN; })) return "correct";
-    if (vars.some(function (v) { return v.indexOf(inN) === 0; })) return "progress";
-    return "wrong";
+    if (!inN) return false;
+    return thaiVariants(answer).map(normThai).some(function (v) { return v === inN; });
   }
 
-  // Reset the produce area between cards (hide it, clear the input/result).
+  var ICON_CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
+  var ICON_CROSS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>';
+
+  // Reset the produce area between cards (hide it, clear the input + icon).
   function resetProduce() {
     var p = $("fc-produce");
     if (p) p.hidden = true;
     var inp = $("fc-type-input");
     if (inp) { inp.value = ""; inp.disabled = false; inp.hidden = true; inp.className = "fc-type-input"; }
-    var res = $("fc-type-result");
-    if (res) { res.hidden = true; res.textContent = ""; res.className = "fc-type-result"; }
+    var icon = $("fc-type-icon");
+    if (icon) { icon.hidden = true; icon.innerHTML = ""; icon.className = "fc-type-icon"; }
   }
 
   // ── Queue building ───────────────────────────────────────────────────────
