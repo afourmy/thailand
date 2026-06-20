@@ -1074,9 +1074,14 @@ html[lang="fr"] .en { display: none; }
   gap: 0.6rem 0.8rem;
 }
 
+/* Right column (Audio, then Backup) is pinned to column 2 so the two stack
+   under each other, regardless of how many cells sit in the left column. */
+.vocab-display-cell--right { grid-column: 2; }
+
 @media (max-width: 600px) {
   /* Stack to a single column when there isn't room for two. */
   .vocab-controls--display { grid-template-columns: 1fr; }
+  .vocab-display-cell--right { grid-column: auto; }
 }
 
 .vocab-control-label {

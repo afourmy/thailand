@@ -6,14 +6,13 @@
   var groupsEl = document.getElementById("vocab-groups");
   var countEl = document.getElementById("vocab-count");
   var searchEl = document.getElementById("vocab-search");
-  var toggleEl = document.getElementById("vocab-toggle");
   var filterEl = document.getElementById("vocab-filter");
   var faceToggleEl = document.getElementById("face-toggle");
   var audioToggleEl = document.getElementById("audio-toggle");
 
   var words = [];
   var loaded = false;
-  var mode = "frequency"; // grouping axis (sections); both axes are filtered below
+  var mode = "frequency"; // grouping axis: always frequency (topic grouping was removed)
   // Independent visibility filters per dimension: { key: bool }. Built (all on)
   // once on load and kept while regrouping. Not saved to localStorage.
   var filters = { frequency: {}, topic: {} };
@@ -568,16 +567,6 @@
       groupObserver.observe(c);
     });
   }
-
-  toggleEl.addEventListener("click", function (e) {
-    var btn = e.target.closest("button[data-mode]");
-    if (!btn) return;
-    mode = btn.getAttribute("data-mode");
-    toggleEl.querySelectorAll("button").forEach(function (b) {
-      b.classList.toggle("active", b === btn);
-    });
-    render();
-  });
 
   // One delegated handler for both rows: toggle a single chip, or flip a whole
   // row via its Select all / Unselect all. The dimension comes from the group.
