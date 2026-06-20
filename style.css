@@ -2670,20 +2670,20 @@ body[data-thai-font="sarabun"] .fc-type-input { font-family: 'Sarabun', 'Noto Sa
 .fc-type-icon.is-wrong { color: var(--freq-rare); }
 
 /* ── Vocabulary: comprehension-coverage dashboard ── */
+/* Native fieldset/legend: the browser breaks the top border around the legend,
+   so there's no painted rectangle masking the frame (no white block). */
 .cov-dash {
-  position: relative;
+  min-inline-size: 0; /* reset fieldset's content-based min width */
   margin: 0.45rem 0 1.5rem;
-  padding: 1.05rem 1.25rem 1.2rem;
+  padding: 1.15rem 1.25rem 1.2rem;
   background: var(--surface-alt);
   border: 1px solid var(--border);
   border-radius: 14px;
   box-shadow: 0 3px 14px rgba(3, 51, 102, 0.06);
 }
-/* Centered section heading sitting inside the panel (no border-notch, so no
-   white masking rectangle breaking the frame). */
 .cov-dash-title {
-  margin: 0 0 0.95rem;
-  text-align: center;
+  margin-inline: auto; /* centre the legend on the top edge */
+  padding: 0 0.55rem;
   font-size: 0.74rem;
   font-weight: 700;
   text-transform: uppercase;
