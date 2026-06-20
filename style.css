@@ -2679,23 +2679,16 @@ body[data-thai-font="sarabun"] .fc-type-input { font-family: 'Sarabun', 'Noto Sa
   border-radius: 14px;
   box-shadow: 0 3px 14px rgba(3, 51, 102, 0.06);
 }
-/* Title notched into the top border (legend style): sits on the line, its own
-   background masks the border behind it. Matches the page bg so the border
-   appears to break around the label. */
+/* Centered section heading sitting inside the panel (no border-notch, so no
+   white masking rectangle breaking the frame). */
 .cov-dash-title {
-  position: absolute;
-  top: 0;
-  left: 1.1rem;
-  transform: translateY(-50%);
-  margin: 0;
-  padding: 0 0.5rem;
-  background: var(--bg);
+  margin: 0 0 0.95rem;
+  text-align: center;
   font-size: 0.74rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--text-soft);
-  border: none;
 }
 .cov-grid {
   display: grid;

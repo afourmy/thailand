@@ -1049,7 +1049,7 @@
     }).join("");
 
     host.innerHTML =
-      '<h2 class="cov-dash-title">Comprehension coverage</h2>' +
+      '<h2 class="cov-dash-title">Progress</h2>' +
       '<div class="cov-grid">' + tiers + '</div>';
     host.hidden = false;
 
