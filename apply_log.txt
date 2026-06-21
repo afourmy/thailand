@@ -6787,3 +6787,84 @@ Free-form decisions file batch 18 — eng edits, 1 update+park, 4 removes
 Eng edits: 60  Parked: 1  Deletes: 4
 Vocab: 9342 -> 9337
 
+
+======================================================================
+Free-form decisions file batch 19
+
+    edit tamago-l3-358.english = 'to do sth wrong or randomly, messily, haphazardly'
+    edit tamago-l3-491.english = 'incompetent, to be no good at sth'
+    edit thaipod-0724.english = 'about the same as, roughly equal to'
+    edit thaipod-0776.english = 'about equally many, roughly the same amount'
+    edit thaipod-1394.english = 'any, whatsoever, of any kind'
+    edit thaipod-1410.english = 'is known as, is considered, is regarded as'
+    edit t4k-c01-063.english = 'in addition, besides this'
+    edit t4k-c04-086.english = 'must, obliged to, compelled to (formal)'
+    edit chula-l4-102.english = 'however, nevertheless, even so'
+    edit chula-l4-115.english = 'different, other'
+    edit thaipod-0431.english = 'all, all of them'
+    edit wlt-c02-012.english = 'opposite of'
+    edit wlt-c02-032.english = 'normally, usually, as a rule'
+    edit wlt-c02-069.english = 'one by one, one person at a time'
+    edit wlt-c03-040.english = 'occasionally, at times'
+    edit wlt-c03-065.english = 'in order to, so as to'
+    edit wlt-c06-082.english = 'letters, characters, text'
+    edit wlt-c06-083.english = 'alphabet, letter, character'
+    edit wlt-c18-000.english = 'about to, nearly, almost'
+    edit t4k-c01-005.english = 'you, he, she (polite, in a formal setting)'
+    edit wlt-c11-047.english = 'possible, feasible'
+    edit wlt-c10-022.english = 'years old (for children only, under 12 years)'
+    edit chula-l4-141.english = 'as soon as (one thing happens), then (the next follows)'
+    edit chula-l4-144.english = 'just like; as if, as though'
+    edit tamago-l12-076.english = 'different; separately for each person'
+    edit tamago-l12-267.english = 'to let, to allow; to leave someone to do sth'
+    edit tamago-l12-342.english = 'up to, until; to insist, to confirm; to support physically, to prop up'
+    edit tamago-l12-514.english = '"let me... first", "hold on before..."'
+    edit tamago-l12-549.english = '"it\'s just that..."'
+    edit yt-c08-044.english = 'overall, on the whole, in general'
+    edit yt-c10-051.english = 'on the other hand, conversely'
+    edit yt-c12-051.english = 'directly, explicitly - indirectly, implicitly'
+    edit yt-c12-091.english = 'a tiny amount, a tiny bit'
+    edit yt-c16-074.english = 'compare X and Y - compare X and X'
+    edit yt-c16-081.english = 'oneself; you (when speaking to your partner in romantic relationships)'
+    edit yt-c12-049.english = '"go ahead and...", "do it completely", "do it once and for all" (conveys impatience, annoyance)'
+    edit thaipod-0250.english = '"can be considered", "can be regarded as"'
+    edit thaipod-0399.english = '"is considered", "is regarded as"'
+    edit tamago-l12-001.english = '"and on top of that, ...", "to make matters worse, ..." (+ something negative)'
+    edit thaipod-0250.thai = 'ถือได้ว่า, จัดได้ว่า'
+    edit thaipod-0399.thai = 'จัดว่า, ถือว่า, ถือเป็น'
+    delete thaipod-0775
+    delete thaipod-1366
+    delete thaipod-1409
+    delete t4k-c01-011
+    delete t4k-c01-034
+    delete t4k-c01-060
+    delete t4k-c04-077
+    delete thaipod-0123
+    delete thaipod-0340
+    delete thaipod-0401
+    delete thaipod-0248
+    delete thaipod-0429
+    delete wlt-c01-036
+    delete wlt-c01-059
+    delete wlt-c01-085
+    delete wlt-c02-047
+    delete wlt-c02-088
+    delete wlt-c04-029
+    delete wlt-c04-040
+    delete wlt-c05-011
+    delete wlt-c05-028
+    delete wlt-c07-016
+    delete wlt-c07-028
+    delete wlt-c07-094
+    delete wlt-c15-081
+    delete wlt-c16-055
+    delete wlt-c17-086
+    delete wlt-c18-099
+    delete wlt-c13-083
+    delete wlt-c15-097
+    delete wlt-c15-042
+    delete tamago-l12-470
+    delete yt-c12-093
+Eng edits: 39  Thai edits: 2  Deletes: 33
+Vocab: 9321 -> 9288
+

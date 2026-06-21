@@ -1088,7 +1088,7 @@
   {
     "id": "chula-l4-102",
     "thai": "อย่างไรก็ตาม",
-    "english": "however",
+    "english": "however, nevertheless, even so",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -1219,7 +1219,7 @@
   {
     "id": "chula-l4-115",
     "thai": "ต่าง",
-    "english": "different; individually",
+    "english": "different, other",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -1515,7 +1515,7 @@
   {
     "id": "chula-l4-141",
     "thai": "(พอ) ...ปุ๊บ, (ก็) ...ปั๊บ",
-    "english": "as soon as one thing happens, the next follows",
+    "english": "as soon as (one thing happens), then (the next follows)",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -1547,7 +1547,7 @@
   {
     "id": "chula-l4-144",
     "thai": "อย่างกับ",
-    "english": "like; as if, as though",
+    "english": "just like; as if, as though",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -10272,7 +10272,7 @@
   {
     "id": "tamago-l12-001",
     "thai": "(ไหน)ยังจะ...อีก",
-    "english": "Used to emphasize a problem ('even so' / 'still', 'also')",
+    "english": "\"and on top of that, ...\", \"to make matters worse, ...\" (+ something negative)",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -11025,7 +11025,7 @@
   {
     "id": "tamago-l12-076",
     "thai": "คนละ",
-    "english": "each one gets their own; different from each other",
+    "english": "different; separately for each person",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -13122,7 +13122,7 @@
   {
     "id": "tamago-l12-267",
     "thai": "ปล่อยให้",
-    "english": "to leave (sth/sb) be, to let",
+    "english": "to let, to allow; to leave someone to do sth",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -13968,7 +13968,7 @@
   {
     "id": "tamago-l12-342",
     "thai": "ยัน",
-    "english": "to, until; to insist; to support, to prop up; to push against",
+    "english": "up to, until; to insist, to confirm; to support physically, to prop up",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -15453,16 +15453,6 @@
     "audio_en_src": "classifier for abstract things, type / kind"
   },
   {
-    "id": "tamago-l12-470",
-    "thai": "อย่างงี้...ก็",
-    "english": "'it means that...', 'in that case, then...'",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Tamago L1-2"
-    ]
-  },
-  {
     "id": "tamago-l12-471",
     "thai": "อย่างละที่",
     "english": "one of each",
@@ -15947,7 +15937,7 @@
   {
     "id": "tamago-l12-514",
     "thai": "เดี๋ยว...ก่อน",
-    "english": "'let me... first' (delay action)",
+    "english": "\"let me... first\", \"hold on before...\"",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -16339,7 +16329,7 @@
   {
     "id": "tamago-l12-549",
     "thai": "เพียงแต่",
-    "english": "'it's just that...', merely",
+    "english": "\"it's just that...\"",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -21813,7 +21803,7 @@
   {
     "id": "tamago-l3-358",
     "thai": "มั่วๆ",
-    "english": "to do sth wrong or randomly, from lack of skill or knowledge",
+    "english": "to do sth wrong or randomly, messily, haphazardly",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -23189,7 +23179,7 @@
   {
     "id": "tamago-l3-491",
     "thai": "ไม่เอาไหน",
-    "english": "to be bad at sth",
+    "english": "incompetent, to be no good at sth",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -34681,16 +34671,6 @@
     ]
   },
   {
-    "id": "thaipod-0123",
-    "thai": "ของตน",
-    "english": "one's own",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0124",
     "thai": "ของที่ระลึก",
     "english": "souvenir",
@@ -35765,19 +35745,9 @@
     ]
   },
   {
-    "id": "thaipod-0248",
-    "thai": "จัดว่า",
-    "english": "'considered to be'",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0250",
-    "thai": "จัดได้ว่า",
-    "english": "can be considered as",
+    "thai": "ถือได้ว่า, จัดได้ว่า",
+    "english": "\"can be considered\", \"can be regarded as\"",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -36579,16 +36549,6 @@
     "audio_en_src": "side, field, area, aspect"
   },
   {
-    "id": "thaipod-0340",
-    "thai": "ด้านต่างๆ",
-    "english": "various aspects, in various ways",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0341",
     "thai": "ด้านเหนือ",
     "english": "north side",
@@ -37134,8 +37094,8 @@
   },
   {
     "id": "thaipod-0399",
-    "thai": "ถือว่า",
-    "english": "'is considered', regard as",
+    "thai": "จัดว่า, ถือว่า, ถือเป็น",
+    "english": "\"is considered\", \"is regarded as\"",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -37152,16 +37112,6 @@
     "sources": [
       "Thaipod101",
       "YouTube"
-    ]
-  },
-  {
-    "id": "thaipod-0401",
-    "thai": "ถือเป็น",
-    "english": "to be considered as, regarded as",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -37356,16 +37306,6 @@
     "audio_en_src": "generally, in general"
   },
   {
-    "id": "thaipod-0429",
-    "thai": "ทั้งสองอย่าง",
-    "english": "both",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0430",
     "thai": "ทั้งสิ้น",
     "english": "all, in total, altogether",
@@ -37381,7 +37321,7 @@
   {
     "id": "thaipod-0431",
     "thai": "ทั้งหลาย",
-    "english": "all of them, all (the group)",
+    "english": "all, all of them",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -40149,7 +40089,7 @@
   {
     "id": "thaipod-0724",
     "thai": "พอๆ กับ",
-    "english": "as much as, equal to (with space)",
+    "english": "about the same as, roughly equal to",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -40635,19 +40575,9 @@
     ]
   },
   {
-    "id": "thaipod-0775",
-    "thai": "มากจน",
-    "english": "so much so that",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0776",
     "thai": "มากพอๆ กัน",
-    "english": "as many as, equally",
+    "english": "about equally many, roughly the same amount",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -46084,16 +46014,6 @@
     ]
   },
   {
-    "id": "thaipod-1366",
-    "thai": "โดยมี",
-    "english": "with, by having",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-1367",
     "thai": "โดยเฉพาะ",
     "english": "especially, particularly",
@@ -46296,7 +46216,7 @@
   {
     "id": "thaipod-1394",
     "thai": "ใดๆ",
-    "english": "any, anything, whatever",
+    "english": "any, whatsoever, of any kind",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -46409,19 +46329,9 @@
     ]
   },
   {
-    "id": "thaipod-1409",
-    "thai": "ได้ครบ",
-    "english": "completely, fully (received)",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-1410",
     "thai": "ได้ชื่อว่า",
-    "english": "called, known as",
+    "english": "is known as, is considered, is regarded as",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -59230,7 +59140,7 @@
   {
     "id": "yt-c08-044",
     "thai": "โดยรวม",
-    "english": "overall, in general, generally",
+    "english": "overall, on the whole, in general",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -61216,7 +61126,7 @@
   {
     "id": "yt-c10-051",
     "thai": "ในทางกลับกัน",
-    "english": "on the other hand",
+    "english": "on the other hand, conversely",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -63149,7 +63059,7 @@
   {
     "id": "yt-c12-049",
     "thai": "(เอา)เสียเลย, (เอา)ซะเลย",
-    "english": "conveys anger, unsatisfaction (~ 'do it already', 'go all the way')",
+    "english": "\"go ahead and...\", \"do it completely\", \"do it once and for all\" (conveys impatience, annoyance)",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -63169,7 +63079,7 @@
   {
     "id": "yt-c12-051",
     "thai": "โดยตรง - โดยนัย",
-    "english": "directly, explicitly - indirectly, implicitly (pronounced 'nay' or 'nay ya')",
+    "english": "directly, explicitly - indirectly, implicitly",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -63557,7 +63467,7 @@
   {
     "id": "yt-c12-091",
     "thai": "ติ๊ด - ติ๊ดเดียว",
-    "english": "tiny amount, small - just a tiny bit",
+    "english": "a tiny amount, a tiny bit",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -63570,16 +63480,6 @@
     "english": "(of kids) mischievous, naughty; (of adults) rebellious, undisciplined",
     "frequency": "common",
     "topic": "personality",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c12-093",
-    "thai": "นี่นา, หนิ, นิ",
-    "english": "(at the end of a sentence) 'huh ?', 'right ?', conveys the idea that something is not as we expected",
-    "frequency": "common",
-    "topic": "grammar",
     "sources": [
       "YouTube"
     ]
@@ -67306,7 +67206,7 @@
   {
     "id": "yt-c16-074",
     "thai": "กว่า - ขึ้น",
-    "english": "compare X vs Y - compare X vs X",
+    "english": "compare X and Y - compare X and X",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -67377,7 +67277,7 @@
   {
     "id": "yt-c16-081",
     "thai": "ตัวเอง",
-    "english": "I, you (sometimes used to mean 'you' when speaking to your partner)",
+    "english": "oneself; you (when speaking to your partner in romantic relationships)",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -73854,16 +73754,6 @@
     ]
   },
   {
-    "id": "wlt-c01-036",
-    "thai": "เข้าใจว่า",
-    "english": "to understand that",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c01-037",
     "thai": "ไปนอน, เข้านอน",
     "english": "to go to bed",
@@ -74088,16 +73978,6 @@
     "audio_en_src": "and you, what about you"
   },
   {
-    "id": "wlt-c01-059",
-    "thai": "คุณเอง",
-    "english": "yourself",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c01-060",
     "thai": "คุยกัน",
     "english": "to chat together",
@@ -74314,17 +74194,6 @@
     ]
   },
   {
-    "id": "wlt-c01-085",
-    "thai": "เช่นนี้",
-    "english": "like this, in this way",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "wlt-c01-086",
     "thai": "เช้าวันอาทิตย์",
     "english": "Sunday morning",
@@ -74525,7 +74394,7 @@
   {
     "id": "wlt-c02-012",
     "thai": "ตรงข้ามกับ",
-    "english": "right across from, just opposite to",
+    "english": "opposite of",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -74681,7 +74550,7 @@
   {
     "id": "wlt-c02-032",
     "thai": "ตามธรรมดา",
-    "english": "usually",
+    "english": "normally, usually, as a rule",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -74825,16 +74694,6 @@
     "english": "coffee cup",
     "frequency": "common",
     "topic": "food",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c02-047",
-    "thai": "ถ้าไม่",
-    "english": "unless (if you don't…)",
-    "frequency": "common",
-    "topic": "grammar",
     "sources": [
       "Anki Basics"
     ]
@@ -74986,7 +74845,7 @@
   {
     "id": "wlt-c02-069",
     "thai": "ทีละคน",
-    "english": "one by one (people)",
+    "english": "one by one, one person at a time",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -75189,16 +75048,6 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c02-088",
-    "thai": "นั้นๆ",
-    "english": "such",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -75669,7 +75518,7 @@
   {
     "id": "wlt-c03-040",
     "thai": "เป็นบางคราว",
-    "english": "at times",
+    "english": "occasionally, at times",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -75815,7 +75664,7 @@
   {
     "id": "wlt-c03-065",
     "thai": "เพื่อที่จะ",
-    "english": "in order to, in order that",
+    "english": "in order to, so as to",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -76313,16 +76162,6 @@
     "audio_en_src": "soon"
   },
   {
-    "id": "wlt-c04-029",
-    "thai": "เราทั้งหมด",
-    "english": "all of us together",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c04-030",
     "thai": "โรงอาหาร",
     "english": "cafeteria",
@@ -76396,16 +76235,6 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c04-040",
-    "thai": "แล้วเลี้ยว",
-    "english": "then turn",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -77014,16 +76843,6 @@
     "audio_en_src": "to want to get"
   },
   {
-    "id": "wlt-c05-011",
-    "thai": "อย่างแรง",
-    "english": "strongly",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c05-012",
     "thai": "อย่าเพิ่ง",
     "english": "'don't do that yet!', 'hold on!'",
@@ -77141,17 +76960,6 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c05-028",
-    "thai": "เอ็ด",
-    "english": "one (used in combinations like 21, 31)",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
     ]
   },
   {
@@ -78632,7 +78440,7 @@
   {
     "id": "wlt-c06-082",
     "thai": "ตัวหนังสือ",
-    "english": "letter (of the alphabet)",
+    "english": "letters, characters, text",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -78642,7 +78450,7 @@
   {
     "id": "wlt-c06-083",
     "thai": "ตัวอักษร",
-    "english": "alphabet",
+    "english": "alphabet, letter, character",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -78949,16 +78757,6 @@
     "audio_en_src": "this way"
   },
   {
-    "id": "wlt-c07-016",
-    "thai": "ทางโน้น",
-    "english": "that over there",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c07-017",
     "thai": "ทางรถไฟ",
     "english": "railway",
@@ -79041,16 +78839,6 @@
     "id": "wlt-c07-027",
     "thai": "ทุกที่",
     "english": "anywhere, everywhere",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c07-028",
-    "thai": "ทุกสิ่ง",
-    "english": "everything",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -79637,17 +79425,6 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c07-094",
-    "thai": "ผู้",
-    "english": "person (rarely used alone)",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
     ]
   },
   {
@@ -81829,7 +81606,7 @@
   {
     "id": "wlt-c10-022",
     "thai": "ขวบ",
-    "english": "year, of age (for people under 14 years)",
+    "english": "years old (for children only, under 12 years)",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -83177,7 +82954,7 @@
   {
     "id": "wlt-c11-047",
     "thai": "เป็นไปได้",
-    "english": "to be possible, be feasible",
+    "english": "possible, feasible",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -85595,17 +85372,6 @@
     "audio_en_src": "younger sister"
   },
   {
-    "id": "wlt-c13-083",
-    "thai": "น่า",
-    "english": "worthy of, leading to, or –able (forms verb compounds)",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "wlt-c13-084",
     "thai": "นาง",
     "english": "mrs",
@@ -87147,17 +86913,6 @@
     "audio_en_src": "half"
   },
   {
-    "id": "wlt-c15-042",
-    "thai": "ความ",
-    "english": "prefix: -ness,-ity",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "wlt-c15-043",
     "thai": "คือ",
     "english": "to be, is",
@@ -87605,17 +87360,6 @@
     "audio_en_src": "every, each"
   },
   {
-    "id": "wlt-c15-081",
-    "thai": "นัก",
-    "english": "so, so much, a person who…",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "wlt-c15-082",
     "thai": "นักเรียน",
     "english": "student",
@@ -87775,17 +87519,6 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c15-097",
-    "thai": "ผล",
-    "english": "classifier for fruit",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
     ]
   },
   {
@@ -88519,17 +88252,6 @@
     "english": "distant, far apart, separate",
     "frequency": "common",
     "topic": "general",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "wlt-c16-055",
-    "thai": "เหล่านี้",
-    "english": "these, this group",
-    "frequency": "common",
-    "topic": "grammar",
     "sources": [
       "Anki Basics",
       "Thai 4000"
@@ -90114,16 +89836,6 @@
     "audio_en_src": "to go home"
   },
   {
-    "id": "wlt-c17-086",
-    "thai": "ก่อนถึง",
-    "english": "before a place",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c17-087",
     "thai": "ก่อนอาหาร",
     "english": "before meals",
@@ -90254,7 +89966,7 @@
   {
     "id": "wlt-c18-000",
     "thai": "ใกล้จะ",
-    "english": "nearly",
+    "english": "about to, nearly, almost",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -91046,16 +90758,6 @@
     "audio_en": true,
     "audio_src": "พวกเขา",
     "audio_en_src": "they, them"
-  },
-  {
-    "id": "wlt-c18-099",
-    "thai": "พอ + ได้",
-    "english": "adequate, fair",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
   },
   {
     "id": "wlt-c19-000",
@@ -94610,7 +94312,7 @@
   {
     "id": "t4k-c01-005",
     "thai": "ท่าน",
-    "english": "you (polite)",
+    "english": "you, he, she (polite, in a formal setting)",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -94651,16 +94353,6 @@
     "id": "t4k-c01-010",
     "thai": "รอบ",
     "english": "cycle; round; circuit",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c01-011",
-    "thai": "ก็คือ",
-    "english": "it is",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -94838,16 +94530,6 @@
     "english": "official; formal",
     "frequency": "common",
     "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c01-034",
-    "thai": "ก็ตาม",
-    "english": "no matter; whatever",
-    "frequency": "common",
-    "topic": "grammar",
     "sources": [
       "Thai 4000"
     ]
@@ -95047,16 +94729,6 @@
     "audio_en_src": "slow"
   },
   {
-    "id": "t4k-c01-060",
-    "thai": "จากนั้น",
-    "english": "from that",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c01-062",
     "thai": "พลัง",
     "english": "energy, power",
@@ -95069,7 +94741,7 @@
   {
     "id": "t4k-c01-063",
     "thai": "นอกจากนี้",
-    "english": "in addition to this",
+    "english": "in addition, besides this",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
@@ -97443,16 +97115,6 @@
     ]
   },
   {
-    "id": "t4k-c04-077",
-    "thai": "นี่เอง",
-    "english": "just this",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c04-078",
     "thai": "ปัน",
     "english": "to share, to divide",
@@ -97525,7 +97187,7 @@
   {
     "id": "t4k-c04-086",
     "thai": "จำต้อง",
-    "english": "must; need; have to",
+    "english": "must, obliged to, compelled to (formal)",
     "frequency": "common",
     "topic": "grammar",
     "sources": [
