@@ -29,6 +29,10 @@ tamago-l12-514 เดี๋ยว...ก่อน: eng '"let's ... first"'
 tamago-l12-549 เพียงแต่: eng '"it's just that..."'
 yt-c08-044 โดยรวม: eng 'overall, on the whole, in general'
 yt-c10-051 ในทางกลับกัน: 'on the other hand, conversely'
+yt-c12-051 โดยตรง - โดยนัย: eng 'directly, explicitly - indirectly, implicitly'
+yt-c12-091 ติ๊ด - ติ๊ดเดียว: eng 'a tiny amount, a tiny bit'
+yt-c16-074 กว่า - ขึ้น: eng 'compare X and Y - compare X and X'
+yt-c16-081 ตัวเอง: eng 'oneself; you (when speaking to your partner in romantic relationships)'
 
 
 
@@ -37,13 +41,9 @@ yt-c10-051 ในทางกลับกัน: 'on the other hand, conversely'
 
 
 
-
-
-
-
-yt-c12-049 (เอา)เสียเลย, (เอา)ซะเลย: eng '"go ahead and...", "do it completely", "do it once and for all" (conveys anger, unsatisfaction)'
+yt-c12-049 (เอา)เสียเลย, (เอา)ซะเลย: eng '"go ahead and...", "do it completely", "do it once and for all" (conveys impatience, annoyance)'
 thaipod-0250 จัดได้ว่า: thai 'ถือได้ว่า, จัดได้ว่า': eng '"can be considered", "can be regarded as"'
 thaipod-0399 ถือว่า: thai 'จัดว่า, ถือว่า, ถือเป็น': eng '"is considered", "is regarded as"'
 tamago-l12-001 (ไหน)ยังจะ...อีก: eng '"and on top of that, ...", "to make matters worse, ..." (+ something negative)'
 
-remove card: thaipod-0775 , thaipod-1366 โดยมี, thaipod-1409 ได้ครบ, t4k-c01-011 ก็คือ, t4k-c01-034 ก็ตาม, t4k-c01-060 จากนั้น, t4k-c04-077 นี่เอง, thaipod-0123 ของตน, thaipod-0340 ด้านต่างๆ, thaipod-0401 ถือเป็น, thaipod-0248 จัดว่า, thaipod-0429 ทั้งสองอย่าง, wlt-c01-036 เข้าใจว่า, wlt-c01-059 คุณเอง, wlt-c01-085 เช่นนี้, wlt-c02-047 ถ้าไม่, wlt-c02-088 นั้นๆ, wlt-c04-029 เราทั้งหมด, wlt-c04-040 แล้วเลี้ยว, อย่างแรง, wlt-c05-028 เอ็ด, wlt-c07-016 ทางโน้น, wlt-c07-028 ทุกสิ่ง, wlt-c07-094 ผู้, wlt-c15-081 นัก, wlt-c16-055 เหล่านี้, wlt-c17-086 ก่อนถึง, wlt-c18-099 พอ + ได้, wlt-c13-083 น่า, wlt-c15-097 ผล, wlt-c15-042 ความ, tamago-l12-470 อย่างงี้...ก
+remove card: thaipod-0775 , thaipod-1366 โดยมี, thaipod-1409 ได้ครบ, t4k-c01-011 ก็คือ, t4k-c01-034 ก็ตาม, t4k-c01-060 จากนั้น, t4k-c04-077 นี่เอง, thaipod-0123 ของตน, thaipod-0340 ด้านต่างๆ, thaipod-0401 ถือเป็น, thaipod-0248 จัดว่า, thaipod-0429 ทั้งสองอย่าง, wlt-c01-036 เข้าใจว่า, wlt-c01-059 คุณเอง, wlt-c01-085 เช่นนี้, wlt-c02-047 ถ้าไม่, wlt-c02-088 นั้นๆ, wlt-c04-029 เราทั้งหมด, wlt-c04-040 แล้วเลี้ยว, อย่างแรง, wlt-c05-028 เอ็ด, wlt-c07-016 ทางโน้น, wlt-c07-028 ทุกสิ่ง, wlt-c07-094 ผู้, wlt-c15-081 นัก, wlt-c16-055 เหล่านี้, wlt-c17-086 ก่อนถึง, wlt-c18-099 พอ + ได้, wlt-c13-083 น่า, wlt-c15-097 ผล, wlt-c15-042 ความ, tamago-l12-470 อย่างงี้...ก, yt-c12-093 นี่นา, หนิ, นิ
