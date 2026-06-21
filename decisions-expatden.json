@@ -281,188 +281,11 @@
     "thai": "ไปด้วยกัน",
     "english": "to go together"
   },
-
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เผื่อว่า",
-    "english": "in case"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แฟ้บ",
-    "english": "detergent"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เมื่อตะกี้",
-    "english": "just now"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม่ชอบ",
-    "english": "to be displeased",
-    "suggested": "to dislike, not like"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม่มีความสุข",
-    "english": "to be displeased",
-    "suggested": "to be unhappy"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ยังไงก็ตาม",
-    "english": "however"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ย้ายมาอยู่",
-    "english": "move (in)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ยี่",
-    "english": "two (used only for the twenties)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ลงมา",
-    "english": "down"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ล่ะ",
-    "english": "particle: to emphasize the finality of the information"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เลนส์",
-    "english": "lens (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แล้วเลี้ยว",
-    "english": "then turn"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เศษสตางค์",
-    "english": "change (in coin)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สบู่ลักส์",
-    "english": "soap (Lux)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เสื้อกางเกง",
-    "english": "suit of clothes"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สไตล์",
-    "english": "style (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หมายความว่า",
-    "english": "means that…"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หรือไม่",
-    "english": "or not"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เหลอ",
-    "english": "or, question word"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ใหญ่ๆ",
-    "english": "very big"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อย่างแรง",
-    "english": "strongly"
-  },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ออกเงิน",
-    "english": "pay for, put up the money for, stand good for"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อันนั้น",
-    "english": "that one"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อันโน้น",
-    "english": "that one (further away)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อายุน้อย",
-    "english": "young"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อาหารค่ำ",
-    "english": "dinner"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อื่นๆ",
-    "english": "other, others, other ones"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เอ็ด",
-    "english": "one (used in combinations like 21, 31)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เออ",
-    "english": "by the way"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โอเลี้ยง",
-    "english": "iced coffee (black)"
+    "english": "to pay (on behalf of others), to foot the bill"
   },
   {
     "decision": "",
@@ -473,80 +296,14 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "(สี)เบจ",
-    "english": "beige"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "กระเป๋าเดินทาง",
     "english": "suitcase, luggage"
   },
   {
     "decision": "",
     "frequency": "common",
-    "thai": "กลับถึง",
-    "english": "to return"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "กว่ากัน",
-    "english": "more than"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "การเที่ยวชม",
-    "english": "sightseeing"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "การพูด",
-    "english": "talking, speech"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "การเรียน",
-    "english": "education, study, learning"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "การสอน",
-    "english": "teaching (the activity of)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "การอ่าน",
-    "english": "reading"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เก็บไว้",
-    "english": "to keep"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ขอ … หน่อย",
-    "english": "I’d like…"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ขาว",
-    "english": "fair, light complexion, white"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ข้าวเย็น",
-    "english": "dinner"
+    "thai": "เที่ยวชม",
+    "english": "to go sightseeing"
   },
   {
     "decision": "",
@@ -558,23 +315,11 @@
     "decision": "",
     "frequency": "common",
     "thai": "ขี้มูก",
-    "english": "mucus, snot"
+    "english": "boogers"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "คนแก่",
-    "english": "old people"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "คนอื่น",
-    "english": "someone else, others"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "ครึ่งชั่วโมง",
     "english": "half an hour"
   },
@@ -588,56 +333,27 @@
     "decision": "",
     "frequency": "common",
     "thai": "ค่าปรับ",
-    "english": "fine (monetary penalty for breach of law)"
+    "english": "fine (for breaking the law)"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "เคย … มาก่อน",
-    "english": "to have ever done something"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "occasional",
     "thai": "เคล็ดขัดยอก",
-    "english": "sprain"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แค่นี้",
-    "english": "only, just, solely"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แค่ไหน",
-    "english": "however much"
+    "english": "sprain (ligament injury from twisting)"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "โคมไฟ",
-    "english": "lamp, lantern, light"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ง่ายกว่า",
-    "english": "easier"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "จังเลย",
-    "english": "intensifier"
+    "english": "lamp, lantern"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ใจแคบ",
-    "english": "to be narrow-minded, selfish"
+    "english": "narrow-minded, selfish"
   },
+
   {
     "decision": "",
     "frequency": "common",
