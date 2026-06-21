@@ -27,7 +27,7 @@
     "decision": "yes",
     "frequency": "common",
     "thai": "ขึ้นเงิน",
-    "english": "to exchange for cash, to cash a cheque, "
+    "english": "to exchange for cash, to cash a cheque"
   },
   {
     "decision": "yes",
@@ -37,9 +37,9 @@
   },
   {
     "decision": "yes",
-    "frequency": "common",
-    "thai": "บ.ข.ส. บริษัทขนส่ง",
-    "english": "bus station"
+    "frequency": "occasional",
+    "thai": "บ.ข.ส. (บริษัทขนส่ง)",
+    "english": "state bus company"
   },
   {
     "decision": "yes",
@@ -57,7 +57,7 @@
     "decision": "yes",
     "frequency": "common",
     "thai": "น้า",
-    "english": "aunt, uncle (younger than parent)"
+    "english": "aunt, uncle (on mother's side, younger than mother)"
   },
   {
     "decision": "yes",
@@ -86,7 +86,7 @@
   {
     "decision": "yes",
     "frequency": "common",
-    "thai": "เอเซีย",
+    "thai": "เอเชีย",
     "english": "Asia (loanword)"
   },
   {
@@ -154,12 +154,6 @@
     "frequency": "common",
     "thai": "การประชุม",
     "english": "meeting, conference"
-  },
-  {
-    "decision": "yes",
-    "frequency": "common",
-    "thai": "คนโดยสาร",
-    "english": "passenger"
   },
   {
     "decision": "yes",
@@ -337,7 +331,7 @@
   },
   {
     "decision": "yes",
-    "frequency": "everyday",
+    "frequency": "common",
     "thai": "โคมไฟ",
     "english": "lamp, lantern"
   },
@@ -363,7 +357,7 @@
     "decision": "yes",
     "frequency": "common",
     "thai": "ชุดสากล",
-    "english": "western-style suit (formal attire)",
+    "english": "western-style suit (formal attire)"
   },
   {
     "decision": "yes",
@@ -471,7 +465,7 @@
     "decision": "yes",
     "frequency": "common",
     "thai": "ปรับอากาศ",
-    "english": "air conditioning"
+    "english": "air-conditioned"
   },
   {
     "decision": "yes",
@@ -602,12 +596,6 @@
   {
     "decision": "yes",
     "frequency": "common",
-    "thai": "ร้านขายขนม",
-    "english": "bakery"
-  },
-  {
-    "decision": "yes",
-    "frequency": "common",
     "thai": "ฤดูแล้ง, หน้าแล้ง",
     "english": "dry season (November - April)"
   },
@@ -704,7 +692,7 @@
   {
     "decision": "yes",
     "frequency": "common",
-    "thai": "ไอสครีม",
+    "thai": "ไอศกรีม",
     "english": "ice-cream (loanword)"
   }
 ]
