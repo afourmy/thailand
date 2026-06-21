@@ -38,34 +38,8 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "โทรทางไกล",
-    "english": "long distance"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โทรไป",
-    "english": "calling out",
-    "suggested": "to call (someone), make an outgoing call"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "นึง",
-    "english": "used at end of sentence (spoken)",
-    "suggested": "(colloquial) one (= หนึ่ง)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "บ.ข.ส. บริษัทขนส่ง",
     "english": "bus station"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แบน",
-    "english": "small bottle whisky (flat) (slang)"
   },
   {
     "decision": "",
@@ -75,229 +49,45 @@
   },
   {
     "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "มาก่อน",
     "english": "in the past, before"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "มาจาก",
-    "english": "to come from"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "มีคน",
-    "english": "someone"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม่ติด",
-    "english": "to not attach, can’t get connection"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม่มีแรง",
-    "english": "have no strength"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม่ว่าง",
-    "english": "to be busy, not free"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ยังไม่ได้",
-    "english": "for actions you haven’t done yet but intend to"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ลองดู",
-    "english": "to try on",
-    "suggested": "to try, give it a try (general; \"try on\" is ลองใส่)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ลองใส่",
-    "english": "to try on"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ส่งไป",
-    "english": "to send an object (general use)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หนึ่งคน",
-    "english": "one person"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อะไรบ้าง",
-    "english": "what (Interrogative)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "(วัน)พฤหัส",
-    "english": "Thursday"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "(สี)เขียว",
-    "english": "green"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "(สี)น้ำเงิน",
-    "english": "navy blue"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "การ",
-    "english": "prefix + verb (eg: การงาน) = noun (not used on its own)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "คะ",
-    "english": "polite particle (female), question by a female"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "นี้",
-    "english": "this (determiner)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เปล่า",
-    "english": "no, not"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "ไม่",
     "english": "no, not"
   },
   {
     "decision": "",
     "frequency": "common",
-    "thai": "ไม่ได้",
-    "english": "not, not as assumed to be, didn’t, can’t (at the end of sentence, after verb"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "(สี)เทา",
-    "english": "grey"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "(สี)น้ำตาล",
-    "english": "brown"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ความ",
-    "english": "prefix: -ness,-ity; ความ + adjective = noun (hot becomes heat)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แคนาดา",
-    "english": "Canada"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โดย",
-    "english": "by (means of transportation)",
-    "suggested": "by, by means of; via (general, not only transport)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ที",
-    "english": "a time"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "นัก",
-    "english": "so, so much, a person who…"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "น้า",
-    "english": "aunt, uncle (younger brother/sister)"
+    "english": "aunt, uncle (younger than parent)"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "นี่",
-    "english": "this, these (determiner)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "ผล",
-    "english": "classifier for fruit",
-    "suggested": "result, effect, outcome; (classifier) for fruit/round objects"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ร้อง",
-    "english": "to cry out, yell"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เหล่านี้",
-    "english": "these, this group"
+    "english": "result, effect, outcome; classifier for fruit"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ไหม้",
-    "english": "to burn (actively burning something, cremate)",
-    "suggested": "to burn, be burnt / scorched (not cremate)"
+    "english": "burnt, scorched"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "อเมริกัน",
-    "english": "American (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อเมริกา",
-    "english": "America (loanword)"
+    "english": "American"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ออสเตรเลีย",
-    "english": "Australia, Australian (loanword)"
+    "english": "Australia (loanword)"
   },
   {
     "decision": "",
@@ -308,26 +98,8 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "(ทวีป)อเมริกา",
-    "english": "America"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "(ทวีป)ออสเตรเลีย",
-    "english": "Australia"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "(ทวีป)แอฟริกา",
-    "english": "Africa"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "กลม",
-    "english": "round, circular, large bottle whisky"
+    "english": "round, circular"
   },
   {
     "decision": "",
@@ -337,413 +109,57 @@
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "ครัว",
-    "english": "kitchen"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฉันเอง",
-    "english": "myself (female)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ซาอุดีอาระเบีย",
-    "english": "Saudi Arabia"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เดนมาร์ก",
-    "english": "Denmark"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ตอนเย็น",
-    "english": "evening"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ตุรกี",
-    "english": "Turkey (the country)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไต้หวัน",
-    "english": "Taiwan"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ทอนเงิน",
-    "english": "to give change"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "นอกจาก",
     "english": "except"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "นอร์เวย์",
-    "english": "Norway"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "นั่น",
-    "english": "that"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "น่า",
-    "english": "–able (forms verb compounds); -worthy; should…; ought to…; had better…"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "นิวซีแลนด์",
-    "english": "New Zealand"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เนเธอร์แลนด์",
-    "english": "Netherlands"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "บราซิล",
-    "english": "Brazil"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เบลเยี่ยม",
-    "english": "Belgium"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ปากีสถาน",
-    "english": "Pakistan"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ปานามา",
-    "english": "Panama"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โปรตุเกส",
-    "english": "Portugal"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไปเที่ยว",
-    "english": "to go out for pleasure, to travel, tour, go out"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "พา",
-    "english": "to take someone somewhere"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฟินแลนด์",
-    "english": "Finland"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฟิลิปปินส์",
-    "english": "Philippines"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "มาถึง",
-    "english": "to arrive (towards the speaker), reach at"
+    "english": "to arrive (towards the speaker)"
   },
   {
     "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "เมื่อ",
-    "english": "past time, when"
+    "english": "when"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "สเปน",
-    "english": "Spain"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สวิตเซอร์แลนด์",
-    "english": "Switzerland"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สวิส",
-    "english": "Switzerland (country)",
-    "suggested": "Swiss (person/adjective)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สวีเดน",
-    "english": "Sweden"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "สำเร็จ",
-    "english": "to complete, be successful"
+    "english": "to succeed, to be completed, successful"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "หรือเปล่า, รึเปล่า",
-    "english": "or not (question word)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ออสเตรีย",
-    "english": "Austria (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อาร์เจนตินา",
-    "english": "Argentina (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อาหรับ",
-    "english": "Arab (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อิตาลี",
-    "english": "Italy"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อินโดนีเซีย",
-    "english": "Indonesia, Indonesian"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อิสราเอล",
-    "english": "Israel, Israelies"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อิหร่าน",
-    "english": "Iran"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อียิปต์",
-    "english": "Egypt"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แอฟริกา",
-    "english": "Africa (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฮอลันดา",
-    "english": "Holland"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "กรุ๊ป",
-    "english": "group"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "กลับมา",
-    "english": "come back, return"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ของฉัน",
-    "english": "my, mine (female)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ขอยืม",
-    "english": "to borrow"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "จำเป็น",
-    "english": "to be necessary"
+    "english": "necessary, required"
   },
   {
     "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "ซ่อม",
-    "english": "to repair"
+    "english": "to repair, to fix"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "ซิ",
-    "english": "particle used to show emphasis"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "ซื้อของ",
-    "english": "to shop"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ตอนเช้า",
-    "english": "morning"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ตัวเขาเอง",
-    "english": "he (himself)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ที่โน่น, ที่โน้น",
-    "english": "way over there (further)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ที่ไหน",
-    "english": "where, anywhere (in negative statement)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "นะ",
-    "english": "polite particle, softener: used to make the question sound less abrupt"
+    "english": "to buy things, to go shopping"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "เพิ่ง",
-    "english": "just (immediately before)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฟุต",
-    "english": "foot (English system) (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม่ … เลย",
-    "english": "not … at all (phrase)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "รถแท็กซี่",
-    "english": "taxi"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สิ, ซิ",
-    "english": "particle: to show emphasis"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฮัลโหล",
-    "english": "hello (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "กล้องถ่ายรูป",
-    "english": "camera"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "กะหล่ำดอก",
-    "english": "cauliflower"
+    "english": "only just, recently"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "การประชุม",
-    "english": "meeting, conference, session"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ของผม",
-    "english": "my, mine (m)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เข้าไป",
-    "english": "to enter"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เข้ามา",
-    "english": "to enter"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เขาเอง",
-    "english": "themselves, ourselves",
-    "suggested": "he / she / they themselves (not \"ourselves\")"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "คงจะ",
-    "english": "probably"
+    "english": "meeting, conference"
   },
   {
     "decision": "",
@@ -754,44 +170,8 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "คนนั้น",
-    "english": "that person, those people (further away)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "คิดว่า",
-    "english": "to think that …"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไง",
-    "english": "how (form of อย่างไร, ยังไง)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "จ่ายเงิน",
-    "english": "to pay"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "ใจดำ",
-    "english": "mean"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ดีเยี่ยม – วิเศษ – เด็ด",
-    "english": "to be excellent, superb (slang)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ดูแล – บำรุง",
-    "english": "to care for, nourish, maintain"
+    "english": "mean, cruel, heartless"
   },
   {
     "decision": "",
@@ -802,111 +182,26 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "ทางโน้น",
-    "english": "that over there"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "น้อยกว่า",
-    "english": "little, few (adj)",
-    "suggested": "less than, fewer than (comparative)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "น้ำโซดา",
-    "english": "soda water"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โน้น",
-    "english": "that (farther away than นั้น)"
+    "english": "less than, fewer than"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ในระหว่าง",
-    "english": "between, during, amongst"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "บ้านเลขที่",
-    "english": "house number"
+    "english": "during, while"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "เป็นไข้",
-    "english": "fever (to have)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไปถึง",
-    "english": "arrive (away from the speaker)"
+    "english": "to have a fever"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ผงซักฟอก",
-    "english": "detergent"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ผมเอง",
-    "english": "myself (m)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ผักขม",
-    "english": "spinach"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ผู้",
-    "english": "person (rarely used alone)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "พวกนี้",
-    "english": "these people"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "พิมพ์ดีด",
-    "english": "to type, print"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "พิษ",
-    "english": "poison, toxicity, toxicant"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "มีธุระ",
-    "english": "busy, business"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม่ดี",
-    "english": "bad"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แรงเทียน",
-    "english": "watt (measure of electricity)"
+    "english": "laundry detergent"
   },
   {
     "decision": "",
@@ -917,14 +212,8 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "แล้ว(คุณ)ล่ะ",
-    "english": "and you?"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "สนใจ",
-    "english": "to be interested in"
+    "english": "to be interested in, to care about"
   },
   {
     "decision": "",
@@ -936,122 +225,25 @@
     "decision": "",
     "frequency": "common",
     "thai": "หนี",
-    "english": "to escape, avoid, flee"
+    "english": "to escape, to avoid, to flee"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "อ้อ",
-    "english": "oh!"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อ๋อ",
-    "english": "oh"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ออกกำลัง(กาย)",
-    "english": "to exercise, keep fit"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ออกมา",
-    "english": "come out"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เอาไป",
-    "english": "to take away, to take"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฮะ",
-    "english": "polite particle: used in statements and questions by males"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ฮ่ะ",
-    "english": "polite particle: used by male and female"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "กล้วยหอม",
-    "english": "bananas (fragrant)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "กลับไป",
-    "english": "go back"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ก่อนที่",
-    "english": "before"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ของพวกเขา",
-    "english": "their, theirs"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ขอเชิญ",
-    "english": "to invite"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "ข้าวเช้า",
     "english": "breakfast"
   },
   {
     "decision": "",
     "frequency": "common",
-    "thai": "เข้ากัน",
-    "english": "harmonize (as colours)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "คนเล็ก",
-    "english": "youngest one (of children)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "คุณเอง",
-    "english": "yourself"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "เงินใต้โต๊ะ",
-    "english": "tea money"
+    "english": "bribe, tea money"
   },
   {
     "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "จริงๆ",
-    "english": "true, really"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ช้าไป",
-    "english": "slow",
-    "suggested": "too slow, too late"
+    "english": "really, true; actually, in fact"
   },
   {
     "decision": "",
@@ -1062,129 +254,20 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "ใช้หมด",
-    "english": "finished, used up"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โซดา",
-    "english": "soda water"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ดิก",
-    "english": "dictionary (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โดยเร็ว",
-    "english": "fast, quickly"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ได้ไหม",
-    "english": "can (you), could (you), are (you) able to?"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ตอนดึก",
-    "english": "late at night"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ตอนที่",
-    "english": "when, while, as"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ตอนนั้น",
-    "english": "then"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ถ้าไม่",
-    "english": "unless (if you don’t…)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ถูกแล้ว",
-    "english": "accurate, correct"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "ทันเวลา",
-    "english": "in time"
+    "english": "on time, in time"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ท่ารถทัวร์",
-    "english": "bus station (between provinces)"
+    "english": "long-distance bus station (between provinces)"
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "ทำให้สะอาด",
-    "english": "to clean"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โน้ตบุ๊ก",
-    "english": "notebook"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ในเร็วๆนี้",
-    "english": "soon"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "แบตเตอรี่",
-    "english": "battery (rechargeable) (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ใบตอง",
-    "english": "banana leaf"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ใบละร้อย",
-    "english": "one hundred bill"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เป็นโสด",
-    "english": "single"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "แปลว่า",
-    "english": "to be translated …",
-    "suggested": "means, it means (that)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไปก่อน",
-    "english": "to go first, to go ahead"
+    "english": "battery (loanword)"
   },
   {
     "decision": "",
@@ -1194,10 +277,11 @@
   },
   {
     "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "ไปด้วยกัน",
     "english": "to go together"
   },
+
   {
     "decision": "",
     "frequency": "common",
