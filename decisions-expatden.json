@@ -515,7 +515,6 @@
     "thai": "เพื่อนสนิท",
     "english": "close friend"
   },
-  
   {
     "decision": "",
     "frequency": "common",
@@ -525,26 +524,8 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "ฟาสต์ฟู้ด",
-    "english": "fast-food (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เฟอร์นิเจอร์",
-    "english": "furniture"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไฟแช็ก",
-    "english": "lighter"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "มวยไทย",
-    "english": "Thai boxing"
+    "english": "Muay Thai"
   },
   {
     "decision": "",
@@ -556,13 +537,7 @@
     "decision": "",
     "frequency": "common",
     "thai": "มิเตอร์",
-    "english": "meter (on taxi) (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "มี … อยู่",
-    "english": "there is, there are"
+    "english": "meter (e.g in a taxi)"
   },
   {
     "decision": "",
@@ -584,21 +559,21 @@
   },
   {
     "decision": "",
-    "frequency": "common",
+    "frequency": "occasional",
     "thai": "เมื่อก่อนนี้",
-    "english": "previously, earlier, beforehand"
+    "english": "previously, in the past"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "เมื่อเร็วๆนี้",
-    "english": "recently"
+    "english": "recently, not long ago"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "เมื่อไหร่ก็ได้",
-    "english": "anytime?, whenever it is!"
+    "english": "anytime"
   },
   {
     "decision": "",
@@ -609,26 +584,8 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "ไม่ … หรอก",
-    "english": "not at all"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ไม(่ค่อย) … เท่าไหร่",
-    "english": "not very…"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "ไมเกรน",
     "english": "migrain (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ยังงั้น",
-    "english": "like that"
   },
   {
     "decision": "",
@@ -638,15 +595,9 @@
   },
   {
     "decision": "",
-    "frequency": "common",
+    "frequency": "occasional",
     "thai": "ยาแก้อักเสบ",
-    "english": "anti-inflammatory"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ยาคลายกล้ามเนื้อ",
-    "english": "muscle relaxant"
+    "english": "anti-inflammatory medicine"
   },
   {
     "decision": "",
@@ -657,45 +608,14 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "รถนอน",
-    "english": "sleeper (on a train)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "ร้านขายขนม",
-    "english": "pastry, sweet shop, bakery"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ร้านขายปลา",
-    "english": "fish",
-    "suggested": "fish shop, fishmonger"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ร้านขายผลไม้",
-    "english": "greengrocer"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "รีสอร์ต",
-    "english": "resort (loanword)"
+    "english": "bakery"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "ฤดูแล้ง, หน้าแล้ง",
-    "english": "dry season (November to March)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ลองชิม",
-    "english": "to taste, try out"
+    "english": "dry season (November - April)"
   },
   {
     "decision": "",
@@ -713,37 +633,13 @@
     "decision": "",
     "frequency": "common",
     "thai": "ลูกเลี้ยง",
-    "english": "stepson, stepdaughter, foster child"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เล็กไป",
-    "english": "too small"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เล่นน้ำ",
-    "english": "play in the water, swim"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เลยไป",
-    "english": "carry on, go on"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เล่า…ให้…ฟัง",
-    "english": "tell (something) to (someone)"
+    "english": "stepchild"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "เลี่ยน",
-    "english": "oily, greasy"
+    "english": "too sweet, too oily, too greasy (used for food or figuratively)"
   },
   {
     "decision": "",
@@ -754,44 +650,8 @@
   {
     "decision": "",
     "frequency": "common",
-    "thai": "แล้วหรือยัง",
-    "english": "… yet (or not)?"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โลละเท่าไร",
-    "english": "how much a kilo?"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "วันละ",
-    "english": "per day"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "วิ่งหนี",
-    "english": "run away, escape"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เวลานัด",
-    "english": "appointment"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สแตมป์",
-    "english": "stamp (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
     "thai": "สถานีขนส่ง",
-    "english": "bus terminal"
+    "english": "bus station, passenger terminal"
   },
   {
     "decision": "",
@@ -807,124 +667,27 @@
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "สนามเทนนิส",
-    "english": "tennis court"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สบายดีหรือ",
-    "english": "how are you?"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "occasional",
     "thai": "สลึง",
-    "english": "twenty -five satangs; quarter of a baht"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สองสาม",
-    "english": "two or three, two times, a few"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สี่ทุ่ม",
-    "english": "10.00 p.m."
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "สุดซอย",
-    "english": "end of the soi"
+    "english": "25 satangs (quarter of a baht)"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "เสมียน",
-    "english": "clerk"
+    "english": "clerk, office worker"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "เสียเวลา",
-    "english": "to waste time, lose time"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หน้าซีด",
-    "english": "to pale"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หนีไป",
-    "english": "to leave, abandon, desert",
-    "suggested": "to flee, run away, escape"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หมายความว่าอะไร",
-    "english": "what does … mean? (phrase)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หยุดรถ",
-    "english": "stop the car, stop"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หวังว่า",
-    "english": "to hope that"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "หวีละ…",
-    "english": "… per bunch"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ห้ามเข้า",
-    "english": "no entry, no admittance"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ห้าสิบ",
-    "english": "fifty (50)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "ออกไป",
-    "english": "go out"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อากาศเย็น",
-    "english": "cool weather"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "อ่านไม่ออก",
-    "english": "to be unable to read, be illiterate"
+    "english": "to waste time"
   },
   {
     "decision": "",
     "frequency": "common",
     "thai": "อ่านออกเขียนได้",
-    "english": "to be able to read and write, be literate"
+    "english": "to be able to read and write, to be literate"
   },
   {
     "decision": "",
@@ -934,13 +697,7 @@
   },
   {
     "decision": "",
-    "frequency": "common",
-    "thai": "อารมณ์ดี",
-    "english": "to be in a good temper"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
+    "frequency": "everyday",
     "thai": "อาหารทะเล",
     "english": "seafood"
   },
@@ -949,31 +706,6 @@
     "frequency": "common",
     "thai": "อีเมล",
     "english": "email (loanword)"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เอา …ไป",
-    "english": "to take"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เอา …ไปให้",
-    "english": "take"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "เอา … มาให้",
-    "english": "bring"
-  },
-  {
-    "decision": "",
-    "frequency": "common",
-    "thai": "โอ้โห้",
-    "english": "oh oh (exclamation)",
-    "suggested": "wow! (exclamation of surprise/admiration)"
   },
   {
     "decision": "",
