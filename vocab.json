@@ -1209,7 +1209,7 @@
   {
     "id": "chula-l4-114",
     "thai": "ช่วงวัย",
-    "english": "age range",
+    "english": "age range, stage of life",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -1907,7 +1907,7 @@
   {
     "id": "chula-l5-021",
     "thai": "เอาเป็นว่า",
-    "english": "in short, how about (used to summarize or suggest sth)",
+    "english": "in short, 'suppose that...' (used to summarize or make an assumption)",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -3501,7 +3501,7 @@
   {
     "id": "chula-l5-169",
     "thai": "อาการ",
-    "english": "symptom; condition, manner",
+    "english": "symptom, (medical) condition",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -9246,7 +9246,7 @@
   {
     "id": "chula-l6-246",
     "thai": "ร้อนใน",
-    "english": "ulcer, canker sore",
+    "english": "mouth ulcer, canker sore",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -9255,9 +9255,9 @@
   },
   {
     "id": "chula-l6-247",
-    "thai": "ครรภ์ - สตรีมีครรภ์",
-    "english": "womb, pregnancy - pregnant woman",
-    "frequency": "common",
+    "thai": "สตรีมีครรภ์",
+    "english": "pregnant woman (formal)",
+    "frequency": "occasional",
     "topic": "health",
     "sources": [
       "Chulalongkorn L6"
@@ -9276,7 +9276,7 @@
   {
     "id": "chula-l6-249",
     "thai": "วิงเวียน",
-    "english": "dizzy, vertigo",
+    "english": "dizzy, lightheaded",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -13378,7 +13378,7 @@
   {
     "id": "tamago-l12-292",
     "thai": "ผ่าตัด",
-    "english": "to have / perform surgery",
+    "english": "to perform a surgery, to operate",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -14378,7 +14378,7 @@
   {
     "id": "tamago-l12-377",
     "thai": "ลดความอ้วน",
-    "english": "to go on a diet, lose weight",
+    "english": "to lose weight",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -14997,7 +14997,7 @@
   {
     "id": "tamago-l12-431",
     "thai": "ส้นเท้า",
-    "english": "heel (of foot)",
+    "english": "heel (back part of the foot)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -17665,7 +17665,7 @@
   {
     "id": "thai9k-012",
     "thai": "ไฝ",
-    "english": "mole, beauty mark",
+    "english": "mole",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -22094,7 +22094,7 @@
   {
     "id": "tamago-l3-388",
     "thai": "จุก",
-    "english": "to have colic pain, sharp pain in the stomach",
+    "english": "sharp pain in chest or stomach (tight chest, bloated stomach, etc)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -23287,7 +23287,7 @@
   {
     "id": "tamago-l3-501",
     "thai": "ตาลาย",
-    "english": "eyes overwhelmed, dazzled (by too much visual input)",
+    "english": "dizzy vision, blurred sight",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -27119,7 +27119,7 @@
   {
     "id": "tamago-l3-868",
     "thai": "รักษาตัว",
-    "english": "to recover from injury/illness, to take care of oneself",
+    "english": "to recover, to take care of oneself after illness or injury",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -27790,7 +27790,7 @@
   {
     "id": "tsl-057",
     "thai": "โรคกระเพาะ",
-    "english": "gastritis, stomach ulcer",
+    "english": "gastritis, stomach disease",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -35932,8 +35932,8 @@
   },
   {
     "id": "thaipod-0269",
-    "thai": "ฉี",
-    "english": "to pee, to urinate (informal/childish)",
+    "thai": "ฉี่",
+    "english": "to pee (informal)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -49260,7 +49260,7 @@
   {
     "id": "tobo-243",
     "thai": "บาดเจ็บ",
-    "english": "to be injured, injury",
+    "english": "injured",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -52877,7 +52877,7 @@
   {
     "id": "yt-c01-088",
     "thai": "ยาฆ่าเชื้อ",
-    "english": "disinfectant",
+    "english": "antiseptic, disinfectant",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -53795,7 +53795,7 @@
   {
     "id": "yt-c02-085",
     "thai": "ก้มหัว",
-    "english": "to bow head",
+    "english": "to bow the head",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -56522,7 +56522,7 @@
   {
     "id": "yt-c05-071",
     "thai": "หัวโล้น",
-    "english": "completely bald or shaved head",
+    "english": "completely bald",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -59129,8 +59129,28 @@
   },
   {
     "id": "yt-c08-043",
-    "thai": "ผมหยักศก - ผมหยิก - ผมหยอง",
-    "english": "wavy hair - curly hair - frizzy hair",
+    "thai": "ผมหยักศก",
+    "english": "wavy hair",
+    "frequency": "common",
+    "topic": "health",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "yt-c08-043b",
+    "thai": "ผมหยิก",
+    "english": "curly hair",
+    "frequency": "common",
+    "topic": "health",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "yt-c08-043c",
+    "thai": "ผมหยอง",
+    "english": "frizzy hair, poofy hair",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -59406,7 +59426,7 @@
   {
     "id": "yt-c08-073",
     "thai": "แสบตา",
-    "english": "stinging eyes; burning eyes",
+    "english": "stinging eyes, burning eyes",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -68741,7 +68761,7 @@
     "id": "yt-c18-034",
     "thai": "สุขลักษณะ",
     "english": "hygiene, sanitary conditions",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "health",
     "sources": [
       "YouTube"
@@ -69903,16 +69923,6 @@
     ]
   },
   {
-    "id": "yt-c19-053",
-    "thai": "ตาแข็ง",
-    "english": "to be sleepless, to have insomnia",
-    "frequency": "common",
-    "topic": "health",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c19-054",
     "thai": "ปอดแหก",
     "english": "coward, scared, terrified; to chicken out",
@@ -70250,7 +70260,7 @@
   {
     "id": "yt-c19-088",
     "thai": "โรคติดต่อทางเพศสัมพันธ์",
-    "english": "STD",
+    "english": "STD (formal)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -70483,16 +70493,6 @@
     "english": "(sexual) to ejaculate too quickly (lit. 'sinking at the mouth of the bay')",
     "frequency": "occasional",
     "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c20-014",
-    "thai": "เป็นประจำเดือน, เป็นเมนส์, วันนั้นของเดือน",
-    "english": "to be on one's period",
-    "frequency": "common",
-    "topic": "health",
     "sources": [
       "YouTube"
     ]
@@ -73238,8 +73238,8 @@
   },
   {
     "id": "yt-c23-005",
-    "thai": "คุมกําเนิด",
-    "english": "birth control",
+    "thai": "คุมกำเนิด",
+    "english": "birth control, contraception",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -79595,7 +79595,7 @@
   {
     "id": "wlt-c08-019",
     "thai": "พุง",
-    "english": "paunch",
+    "english": "pot belly",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -80168,7 +80168,7 @@
   {
     "id": "wlt-c08-076",
     "thai": "ร่างกาย",
-    "english": "body parts (elegant)",
+    "english": "body",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -81376,7 +81376,7 @@
   {
     "id": "wlt-c09-098",
     "thai": "อุดฟัน",
-    "english": "to get a filling (dental), to fill teeth",
+    "english": "to get a filling (dental), to fill a tooth",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -90869,16 +90869,6 @@
     ]
   },
   {
-    "id": "wlt-c19-011",
-    "thai": "มาลาเรีย",
-    "english": "malaria",
-    "frequency": "common",
-    "topic": "health",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c19-013",
     "thai": "มีท้อง, ตั้งท้อง",
     "english": "to be pregnant",
@@ -90959,7 +90949,7 @@
   {
     "id": "wlt-c19-024",
     "thai": "ยาคุม",
-    "english": "birth control pills",
+    "english": "birth control pill",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -90989,7 +90979,7 @@
   {
     "id": "wlt-c19-027",
     "thai": "ยาอม",
-    "english": "lozenge",
+    "english": "lozenge, throat tablet (slowly dissolves in the mouth)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -91146,7 +91136,7 @@
   {
     "id": "wlt-c19-045",
     "thai": "สลบ",
-    "english": "to be unconscious",
+    "english": "to faint, unconscious",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -91176,7 +91166,7 @@
   {
     "id": "wlt-c19-048",
     "thai": "สุขภาพดี",
-    "english": "(in) good health",
+    "english": "healthy, good health",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -91186,7 +91176,7 @@
   {
     "id": "wlt-c19-049",
     "thai": "สุขภาพไม่ดี",
-    "english": "(in) bad health",
+    "english": "unhealthy, bad health",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -91359,7 +91349,7 @@
   {
     "id": "wlt-c19-066",
     "thai": "หายใจไม่ออก",
-    "english": "can’t breathe",
+    "english": "to be unable to breathe",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -95728,7 +95718,7 @@
   {
     "id": "t4k-c02-095",
     "thai": "อนามัย",
-    "english": "sanitation",
+    "english": "hygiene, sanitation",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -95798,7 +95788,7 @@
   {
     "id": "t4k-c03-003",
     "thai": "ประสาท",
-    "english": "nerve; crazy; mad",
+    "english": "nerve; (informal) crazy, losing it",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -97047,7 +97037,7 @@
   {
     "id": "t4k-c04-069",
     "thai": "ดวงตา",
-    "english": "eye",
+    "english": "eye (formal, poetic)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -97177,7 +97167,7 @@
   {
     "id": "t4k-c04-085",
     "thai": "บำบัด",
-    "english": "cure; heal; remedy",
+    "english": "to treat, to heal, to cure (formal)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -97649,8 +97639,8 @@
   {
     "id": "t4k-c05-050",
     "thai": "ครรภ์",
-    "english": "womb",
-    "frequency": "common",
+    "english": "womb (formal)",
+    "frequency": "occasional",
     "topic": "health",
     "sources": [
       "Thai 4000"
@@ -98389,8 +98379,8 @@
   {
     "id": "t4k-c06-043",
     "thai": "โฉม",
-    "english": "appearance",
-    "frequency": "common",
+    "english": "appearance, looks, beauty (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98399,18 +98389,8 @@
   {
     "id": "t4k-c06-045",
     "thai": "ประจักษ์",
-    "english": "be evident; certain",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c06-046",
-    "thai": "มูล",
-    "english": "basis; source; dung",
-    "frequency": "common",
+    "english": "evident, apparent, obvious (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98429,8 +98409,8 @@
   {
     "id": "t4k-c06-048",
     "thai": "ร้องขอ",
-    "english": "beg for; request",
-    "frequency": "common",
+    "english": "to request, to ask for (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98449,8 +98429,8 @@
   {
     "id": "t4k-c06-051",
     "thai": "ดีงาม",
-    "english": "good; fine",
-    "frequency": "common",
+    "english": "good, admirable, excellent (literary)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98469,7 +98449,7 @@
   {
     "id": "t4k-c06-053",
     "thai": "นักรบ",
-    "english": "warrior",
+    "english": "warrior, fighter",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98479,7 +98459,7 @@
   {
     "id": "t4k-c06-055",
     "thai": "นายทหาร",
-    "english": "officer; military officer",
+    "english": "military officer",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98489,8 +98469,8 @@
   {
     "id": "t4k-c06-056",
     "thai": "คาน",
-    "english": "counterbalance",
-    "frequency": "common",
+    "english": "carrying pole, girder, crossbar",
+    "frequency": "rare",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98499,7 +98479,7 @@
   {
     "id": "t4k-c06-058",
     "thai": "ใจกลาง",
-    "english": "center; heart",
+    "english": "center, heart (of a place)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98529,18 +98509,8 @@
   {
     "id": "t4k-c06-063",
     "thai": "ผู้ตาย",
-    "english": "deceased; dead",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c06-065",
-    "thai": "ฝ่า",
-    "english": "undergo; brave",
-    "frequency": "common",
+    "english": "deceased, dead (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98549,8 +98519,8 @@
   {
     "id": "t4k-c06-066",
     "thai": "ท้องที่",
-    "english": "area; region; locality",
-    "frequency": "common",
+    "english": "area, locality",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98590,7 +98560,7 @@
   {
     "id": "t4k-c06-070",
     "thai": "รายชื่อ",
-    "english": "name list",
+    "english": "list of names",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98620,18 +98590,8 @@
   {
     "id": "t4k-c06-073",
     "thai": "ซักถาม",
-    "english": "question; interrogate",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c06-074",
-    "thai": "พยัก",
-    "english": "nod",
-    "frequency": "common",
+    "english": "to question, to interrogate (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98660,7 +98620,7 @@
   {
     "id": "t4k-c06-077",
     "thai": "วางตัว",
-    "english": "behave; conduct oneself",
+    "english": "to behave, to conduct oneself",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98700,7 +98660,7 @@
   {
     "id": "t4k-c06-083",
     "thai": "หุ้ม",
-    "english": "overlay; cover; plate",
+    "english": "to wrap, to cover completely",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98710,8 +98670,8 @@
   {
     "id": "t4k-c06-084",
     "thai": "ป้อม",
-    "english": "fortress; round; plump",
-    "frequency": "common",
+    "english": "fortress, stronghold, guard post",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98720,7 +98680,7 @@
   {
     "id": "t4k-c06-086",
     "thai": "โยง",
-    "english": "link; tie; attach",
+    "english": "to link, to connect, to tie together",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98731,7 +98691,7 @@
     "id": "t4k-c06-087",
     "thai": "สงครามโลก",
     "english": "world war",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98750,8 +98710,8 @@
   {
     "id": "t4k-c06-089",
     "thai": "ภักดี",
-    "english": "be loyal to",
-    "frequency": "common",
+    "english": "loyal, faithful, devoted (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98760,8 +98720,8 @@
   {
     "id": "t4k-c06-090",
     "thai": "ภาพถ่าย",
-    "english": "photo; picture",
-    "frequency": "common",
+    "english": "photo (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98800,7 +98760,7 @@
   {
     "id": "t4k-c06-095",
     "thai": "เอ็น",
-    "english": "ligament",
+    "english": "tendon, ligament",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -98810,7 +98770,7 @@
   {
     "id": "t4k-c06-097",
     "thai": "ละเลย",
-    "english": "neglect; ignore",
+    "english": "to neglect, to ignore",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98820,7 +98780,7 @@
   {
     "id": "t4k-c06-098",
     "thai": "พันธุกรรม",
-    "english": "heredity",
+    "english": "heredity, genetics",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98860,7 +98820,7 @@
   {
     "id": "t4k-c07-002",
     "thai": "ทัศนะ",
-    "english": "viewpoint; point of view",
+    "english": "viewpoint, point of view, stance (formal)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98920,7 +98880,7 @@
   {
     "id": "t4k-c07-009",
     "thai": "ตกต่ำ",
-    "english": "decline; be depressed",
+    "english": "to decline, to deteriorate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -98930,8 +98890,8 @@
   {
     "id": "t4k-c07-010",
     "thai": "แท่น",
-    "english": "altar; printing press",
-    "frequency": "common",
+    "english": "platform, base, pedestal; altar",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -98962,8 +98922,8 @@
   {
     "id": "t4k-c07-013",
     "thai": "ดำรงชีวิต",
-    "english": "live; exist",
-    "frequency": "common",
+    "english": "to live, to lead one's life (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99022,7 +98982,7 @@
   {
     "id": "t4k-c07-022",
     "thai": "รวบ",
-    "english": "gather together",
+    "english": "to gather, to collect together, to bundle up, to tie up; to arrest (police)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99033,16 +98993,6 @@
     "id": "t4k-c07-023",
     "thai": "จุดเริ่มต้น",
     "english": "starting point",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c07-024",
-    "thai": "ประสิทธิ์",
-    "english": "succeed; achieve",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99082,17 +99032,7 @@
   {
     "id": "t4k-c07-029",
     "thai": "ผู้ดูแล",
-    "english": "guard; overseer",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c07-030",
-    "thai": "คอลัมน์",
-    "english": "column",
+    "english": "caretaker, supervisor",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99102,8 +99042,8 @@
   {
     "id": "t4k-c07-031",
     "thai": "สมทบ",
-    "english": "join",
-    "frequency": "common",
+    "english": "to contribute, to join in, to participate in (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99122,7 +99062,7 @@
   {
     "id": "t4k-c07-033",
     "thai": "จัดวาง",
-    "english": "arrange; organize",
+    "english": "to arrange, to lay out, to place",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99172,7 +99112,7 @@
   {
     "id": "t4k-c07-040",
     "thai": "ฝุ่น",
-    "english": "dust; powder",
+    "english": "dust",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99182,8 +99122,8 @@
   {
     "id": "t4k-c07-041",
     "thai": "บังเกิด",
-    "english": "occur; happen; originate",
-    "frequency": "common",
+    "english": "to arise, to occur, to come into existence (literary)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99232,8 +99172,8 @@
   {
     "id": "t4k-c07-046",
     "thai": "กระทำการ",
-    "english": "do",
-    "frequency": "common",
+    "english": "to act, to take action (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99252,8 +99192,8 @@
   {
     "id": "t4k-c07-048",
     "thai": "ก้อง",
-    "english": "echo; resound",
-    "frequency": "common",
+    "english": "to echo, to resound (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99262,8 +99202,8 @@
   {
     "id": "t4k-c07-050",
     "thai": "มวลชน",
-    "english": "masses; multitude",
-    "frequency": "common",
+    "english": "the masses, the general population, people at large (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99312,7 +99252,7 @@
   {
     "id": "t4k-c07-057",
     "thai": "สูญหาย",
-    "english": "vanish; disappear",
+    "english": "to be lost, to go missing, to disappear",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99322,7 +99262,7 @@
   {
     "id": "t4k-c07-058",
     "thai": "นวล",
-    "english": "ivory; cream; light-colored",
+    "english": "soft, gentle (texture, light); pale (skin tone, color)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99352,7 +99292,7 @@
   {
     "id": "t4k-c07-061",
     "thai": "หรูหรา",
-    "english": "elegant; fancy",
+    "english": "luxurious, lavish, fancy",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99362,7 +99302,7 @@
   {
     "id": "t4k-c07-062",
     "thai": "รับทราบ",
-    "english": "acknowledge; be aware; be informed",
+    "english": "to acknowledge, to take note (formal)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99372,7 +99312,7 @@
   {
     "id": "t4k-c07-064",
     "thai": "แม่นยำ",
-    "english": "precise",
+    "english": "accurate, exact",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99442,7 +99382,7 @@
   {
     "id": "t4k-c07-072",
     "thai": "ผู้ฟัง",
-    "english": "audience; listener",
+    "english": "listener, audience",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99462,8 +99402,8 @@
   {
     "id": "t4k-c07-074",
     "thai": "แปรเปลี่ยน",
-    "english": "alter; change; transform",
-    "frequency": "common",
+    "english": "to alter, to change, to transform (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99472,7 +99412,7 @@
   {
     "id": "t4k-c07-075",
     "thai": "เทอม",
-    "english": "term; semester",
+    "english": "academic term, semester",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99490,19 +99430,9 @@
     ]
   },
   {
-    "id": "t4k-c07-078",
-    "thai": "กง",
-    "english": "wheel; rim; circle",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c07-079",
     "thai": "ชิ้นส่วน",
-    "english": "part; piece",
+    "english": "part, piece, component",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99525,16 +99455,6 @@
     "english": "supreme; greatest; utmost",
     "frequency": "rare",
     "topic": "monarchy",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c07-082",
-    "thai": "มหาชน",
-    "english": "crowd; group",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Thai 4000"
     ]
@@ -99572,7 +99492,7 @@
   {
     "id": "t4k-c07-087",
     "thai": "ข้อจำกัด",
-    "english": "limitation; restriction",
+    "english": "limitation, restriction",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99582,7 +99502,7 @@
   {
     "id": "t4k-c07-090",
     "thai": "เทียม",
-    "english": "artificial, imitation",
+    "english": "artificial, synthetic, imitation",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99622,17 +99542,7 @@
   {
     "id": "t4k-c07-096",
     "thai": "ปลอด",
-    "english": "free from; solid (of color)",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c07-097",
-    "thai": "บริหารงาน",
-    "english": "administer; manage",
+    "english": "safe from; free from",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99642,7 +99552,7 @@
   {
     "id": "t4k-c07-098",
     "thai": "เหลี่ยม",
-    "english": "edge; side",
+    "english": "edge, side; trick, tactic",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99652,8 +99562,8 @@
   {
     "id": "t4k-c07-099",
     "thai": "เสถียรภาพ",
-    "english": "stability; firmness; security",
-    "frequency": "common",
+    "english": "stability, steadiness",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99762,7 +99672,7 @@
   {
     "id": "t4k-c08-013",
     "thai": "เลือน",
-    "english": "fade; become dim",
+    "english": "to fade away, to become blurred, to gradually disappear",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99772,8 +99682,8 @@
   {
     "id": "t4k-c08-014",
     "thai": "ผลสำเร็จ",
-    "english": "success; accomplishment",
-    "frequency": "common",
+    "english": "success, accomplishment (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99782,7 +99692,7 @@
   {
     "id": "t4k-c08-016",
     "thai": "ขั้นพื้นฐาน",
-    "english": "foundation; basis",
+    "english": "basic level, foundation, introductory",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99792,8 +99702,8 @@
   {
     "id": "t4k-c08-017",
     "thai": "ลอบ",
-    "english": "stealthily",
-    "frequency": "common",
+    "english": "secretly, stealthily",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99812,18 +99722,8 @@
   {
     "id": "t4k-c08-019",
     "thai": "เสร็จสิ้น",
-    "english": "finish; end; come to an end",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c08-020",
-    "thai": "ส่งเสียง",
-    "english": "cry out; roar",
-    "frequency": "common",
+    "english": "to be completed, to come to an end (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99886,8 +99786,8 @@
   {
     "id": "t4k-c08-027",
     "thai": "ต่างด้าว",
-    "english": "alien; foreign",
-    "frequency": "common",
+    "english": "foreign, alien",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99926,7 +99826,7 @@
   {
     "id": "t4k-c08-032",
     "thai": "คำปรึกษา",
-    "english": "suggestion; mark",
+    "english": "advice, guidance",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -99937,7 +99837,7 @@
     "id": "t4k-c08-034",
     "thai": "บรรณาธิการ",
     "english": "editor",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99966,8 +99866,8 @@
   {
     "id": "t4k-c08-039",
     "thai": "ลงนาม",
-    "english": "sign; autograph",
-    "frequency": "common",
+    "english": "to sign (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -99976,8 +99876,8 @@
   {
     "id": "t4k-c08-042",
     "thai": "วิถีทาง",
-    "english": "way; means; method",
-    "frequency": "common",
+    "english": "way, method (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -100055,16 +99955,6 @@
     ]
   },
   {
-    "id": "t4k-c08-051",
-    "thai": "เอ่อ",
-    "english": "well up; rise up",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c08-052",
     "thai": "ทรัพยากรธรรมชาติ",
     "english": "natural resources",
@@ -100075,19 +99965,9 @@
     ]
   },
   {
-    "id": "t4k-c08-053",
-    "thai": "หลีก",
-    "english": "make way for; make room for",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c08-055",
     "thai": "ยกมือ",
-    "english": "agree; accept; raise hand",
+    "english": "to raise one's hand",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100107,7 +99987,7 @@
   {
     "id": "t4k-c08-057",
     "thai": "ล่อ",
-    "english": "mule; deceive; smash",
+    "english": "to lure, to bait; to tease, to provoke",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100137,27 +100017,7 @@
   {
     "id": "t4k-c08-062",
     "thai": "แวว",
-    "english": "sing; indication; glittering; bright",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c08-063",
-    "thai": "ยาน",
-    "english": "vehicle; sag",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c08-064",
-    "thai": "หันหน้า",
-    "english": "turn to face",
+    "english": "glimpse, hint, trace; (fig) potential, prospect",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100167,7 +100027,7 @@
   {
     "id": "t4k-c08-065",
     "thai": "เท็จ",
-    "english": "false",
+    "english": "false, untrue",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100177,7 +100037,7 @@
   {
     "id": "t4k-c08-066",
     "thai": "ผ่านพ้น",
-    "english": "to pass through, to go over",
+    "english": "to pass through, to get through, to be over",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100237,7 +100097,7 @@
   {
     "id": "t4k-c08-073",
     "thai": "ตรึง",
-    "english": "fix; bind",
+    "english": "to fix, to pin, to hold in place",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100297,8 +100157,8 @@
   {
     "id": "t4k-c08-082",
     "thai": "นุ่ง",
-    "english": "wear",
-    "frequency": "common",
+    "english": "to wear, to wrap around the waist (formal)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -100307,7 +100167,7 @@
   {
     "id": "t4k-c08-083",
     "thai": "ถ่ายภาพ",
-    "english": "take photograph",
+    "english": "to take a photo (formal)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100317,7 +100177,7 @@
   {
     "id": "t4k-c08-084",
     "thai": "ครอบงำ",
-    "english": "dominate; overpower",
+    "english": "to control, to dominate, to overpower",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100367,7 +100227,7 @@
   {
     "id": "t4k-c08-092",
     "thai": "แบ่งแยก",
-    "english": "to be divided; to split, to separate",
+    "english": "to be divided, to split, to separate",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100387,8 +100247,8 @@
   {
     "id": "t4k-c08-094",
     "thai": "หนักหนา",
-    "english": "grave; be critical",
-    "frequency": "common",
+    "english": "grave, very severe; extremely (literary)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -100397,8 +100257,8 @@
   {
     "id": "t4k-c08-095",
     "thai": "ก่อการ",
-    "english": "start; launch",
-    "frequency": "common",
+    "english": "to instigate, to stage (an action, an uprising)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -100437,7 +100297,7 @@
   {
     "id": "t4k-c09-000",
     "thai": "แวดล้อม",
-    "english": "surround; enclose",
+    "english": "to surround, surroundings",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100628,7 +100488,7 @@
   {
     "id": "t4k-c09-027",
     "thai": "บอกกล่าว",
-    "english": "notify; inform",
+    "english": "to inform, to notify",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100658,7 +100518,7 @@
   {
     "id": "t4k-c09-032",
     "thai": "ช่อ",
-    "english": "bouqet; cluster; bunch",
+    "english": "cluster, bunch; bouquet (of flowers)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -100686,19 +100546,9 @@
     ]
   },
   {
-    "id": "t4k-c09-036",
-    "thai": "มิด",
-    "english": "tightly; concealed",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c09-037",
     "thai": "หากิน",
-    "english": "make a living; earn a living",
+    "english": "to earn a living, to make a living",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -102432,7 +102282,7 @@
   {
     "id": "t4k-c11-072",
     "thai": "กระเพาะ",
-    "english": "stomach; belly",
+    "english": "stomach",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -102512,7 +102362,7 @@
   {
     "id": "t4k-c11-081",
     "thai": "ปัสสาวะ",
-    "english": "urinate",
+    "english": "urine, to urinate",
     "frequency": "common",
     "topic": "health",
     "sources": [
