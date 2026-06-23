@@ -1,49 +1,18 @@
-tamago-l3-358 มั่วๆ: eng 'to do sth wrong or randomly, messily, haphazardly'
-tamago-l3-491 ไม่เอาไหน: eng 'incompetent, to be no good at sth'
-thaipod-0724 พอๆ กับ: eng 'about the same as, roughly equal to'
-thaipod-0776 มากพอๆ กัน: eng 'about equally many, roughly the same amount'
-thaipod-1394 ใดๆ: eng 'any, whatsoever, of any kind'
-thaipod-1410 ได้ชื่อว่า: eng 'is known as, is considered, is regarded as'
-t4k-c01-063 นอกจากนี้: eng 'in addition, besides this'
-t4k-c04-086 จำต้อง: eng 'must, obliged to, compelled to (formal)'
-chula-l4-102 อย่างไรก็ตาม: eng 'however, nevertheless, even so'
-chula-l4-115 ต่าง: eng 'different, other'
-thaipod-0431 ทั้งหลาย: eng 'all, all of them'
-wlt-c02-012 ตรงข้ามกับ: eng 'opposite of'
-wlt-c02-032 ตามธรรมดา: eng 'normally, usually, as a rule'
-wlt-c02-069 ทีละคน: eng 'one by one, one person at a time'
-wlt-c03-040 เป็นบางคราว: eng 'occasionally, at times'
-wlt-c03-065 เพื่อที่จะ: eng 'in order to, so as to'
-wlt-c06-082 ตัวหนังสือ: eng 'letters, characters, text'
-wlt-c06-083 ตัวอักษร: eng 'alphabet, letter, character'
-wlt-c18-000 ใกล้จะ: eng 'about to, nearly, almost'
-t4k-c01-005 ท่าน: eng 'you, he, she (polite, in a formal setting)'
-wlt-c11-047 เป็นไปได้: eng 'possible, feasible'
-wlt-c10-022 ขวบ: eng 'years old (for children only, under 12 years)'
-chula-l4-141 (พอ) ...ปุ๊บ, (ก็) ...ปั๊บ: eng 'as soon as (one thing happens), then (the next follows)'
-chula-l4-144 อย่างกับ: eng 'just like; as if, as though'
-tamago-l12-076 คนละ: eng 'different; separately for each person'
-tamago-l12-267 ปล่อยให้: eng 'to let, to allow; to leave someone to do sth'
-tamago-l12-342 ยัน: eng 'up to, until; to insist, to confirm; to support physically, to prop up'
-tamago-l12-514 เดี๋ยว...ก่อน: eng '"let me... first", "hold on before..."'
-tamago-l12-549 เพียงแต่: eng '"it's just that..."'
-yt-c08-044 โดยรวม: eng 'overall, on the whole, in general'
-yt-c10-051 ในทางกลับกัน: 'on the other hand, conversely'
-yt-c12-051 โดยตรง - โดยนัย: eng 'directly, explicitly - indirectly, implicitly'
-yt-c12-091 ติ๊ด - ติ๊ดเดียว: eng 'a tiny amount, a tiny bit'
-yt-c16-074 กว่า - ขึ้น: eng 'compare X and Y - compare X and X'
-yt-c16-081 ตัวเอง: eng 'oneself; you (when speaking to your partner in romantic relationships)'
+t4k-c06-043 โฉม: eng 'appearance, looks, beauty (formal)'
+t4k-c06-045 ประจักษ์: eng 'evident, apparent, obvious (formal)'
+t4k-c06-048 ร้องขอ: eng 'to request, to ask for (formal)'
+t4k-c06-051 ดีงาม: eng 'good, admirable, excellent (literary)'
+t4k-c06-053 นักรบ: eng 'warrior, fighter'
+t4k-c06-055 นายทหาร: eng 'military officer'
+t4k-c06-056 คาน: eng 'carrying pole, girder, crossbar'
+t4k-c06-058 ใจกลาง: eng 'center, heart (of a place)'
+t4k-c06-063 ผู้ตาย: eng 'deceased, dead (formal)'
+t4k-c06-066 ท้องที่: eng 'area, locality'
+t4k-c06-070 รายชื่อ: eng 'list of names'
+t4k-c06-073 ซักถาม: eng 'to question, to interrogate (formal)'
 
+occasional: t4k-c06-043 โฉม, t4k-c06-045 ประจักษ์, t4k-c06-048 ร้องขอ, t4k-c06-051 ดีงาม, t4k-c06-063 ผู้ตาย, t4k-c06-066 ท้องที่, t4k-c06-073 ซักถาม
 
+rare: t4k-c06-056 คาน
 
-
-
-
-
-
-yt-c12-049 (เอา)เสียเลย, (เอา)ซะเลย: eng '"go ahead and...", "do it completely", "do it once and for all" (conveys impatience, annoyance)'
-thaipod-0250 จัดได้ว่า: thai 'ถือได้ว่า, จัดได้ว่า': eng '"can be considered", "can be regarded as"'
-thaipod-0399 ถือว่า: thai 'จัดว่า, ถือว่า, ถือเป็น': eng '"is considered", "is regarded as"'
-tamago-l12-001 (ไหน)ยังจะ...อีก: eng '"and on top of that, ...", "to make matters worse, ..." (+ something negative)'
-
-remove card: thaipod-0775 , thaipod-1366 โดยมี, thaipod-1409 ได้ครบ, t4k-c01-011 ก็คือ, t4k-c01-034 ก็ตาม, t4k-c01-060 จากนั้น, t4k-c04-077 นี่เอง, thaipod-0123 ของตน, thaipod-0340 ด้านต่างๆ, thaipod-0401 ถือเป็น, thaipod-0248 จัดว่า, thaipod-0429 ทั้งสองอย่าง, wlt-c01-036 เข้าใจว่า, wlt-c01-059 คุณเอง, wlt-c01-085 เช่นนี้, wlt-c02-047 ถ้าไม่, wlt-c02-088 นั้นๆ, wlt-c04-029 เราทั้งหมด, wlt-c04-040 แล้วเลี้ยว, wlt-c05-011 อย่างแรง, wlt-c05-028 เอ็ด, wlt-c07-016 ทางโน้น, wlt-c07-028 ทุกสิ่ง, wlt-c07-094 ผู้, wlt-c15-081 นัก, wlt-c16-055 เหล่านี้, wlt-c17-086 ก่อนถึง, wlt-c18-099 พอ + ได้, wlt-c13-083 น่า, wlt-c15-097 ผล, wlt-c15-042 ความ, tamago-l12-470 อย่างงี้...ก, yt-c12-093 นี่นา, หนิ, นิ
+remove: t4k-c06-046 มูล, t4k-c06-065 ฝ่า
