@@ -29,12 +29,17 @@ t4k-c09-017 ผู้สื่อข่าว: eng 'journalist, news reporter'
 t4k-c09-018 คุณวุฒิ: eng 'qualification, academic degree'
 t4k-c09-025 ตอ: eng 'stump (tree stump left after cutting)'
 t4k-c09-031 ตื่นตัว: eng 'alert, wake and attentive'
-
+t4k-c09-034 ดัชนี: eng 'index (book, data), indicator'
+t4k-c09-035 การเรียนการสอน: eng 'teaching and learning, education process'
+t4k-c09-050 จุดมุ่งหมาย: eng 'aim, objective, purpose'
+t4k-c09-058 เป็นกลาง: eng 'neutral, impartial, not taking sides'
+t4k-c09-061 เตรียมพร้อม: eng 'to be prepared, to get ready'
+t4k-c09-072 รับผิด: eng 'to take responsibility, to accept blame'
 
 tamago-l12-102 จริงของคุณ: eng '"you're right!", "you have a point"'
 tamago-l3-536 เสร็จแน่: eng '"you're in trouble", "you're done for"'
 
-occasional: t4k-c09-009 ฟาก, t4k-c09-017 ผู้สื่อข่าว, t4k-c09-031 ตื่นตัว
+occasional: t4k-c09-009 ฟาก, t4k-c09-017 ผู้สื่อข่าว, t4k-c09-031 ตื่นตัว, t4k-c09-035 การเรียนการสอน
 
 rare: t4k-c09-025 ตอ
 
