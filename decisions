@@ -25,10 +25,17 @@ t4k-c09-008 ประจำตัว: eng 'personal (e.g card, doctor, etc)'
 t4k-c09-009 ฟาก: eng 'shore, side, riverbank'
 t4k-c09-011 ชุ่ม: eng 'moist, damp, soaked'
 t4k-c09-016 ตามลำพัง: eng 'alone, by oneself'
+t4k-c09-017 ผู้สื่อข่าว: eng 'journalist, news reporter'
+t4k-c09-018 คุณวุฒิ: eng 'qualification, academic degree'
+t4k-c09-025 ตอ: eng 'stump (tree stump left after cutting)'
+t4k-c09-031 ตื่นตัว: eng 'alert, wake and attentive'
 
-occasional: t4k-c09-009 ฟาก
 
 tamago-l12-102 จริงของคุณ: eng '"you're right!", "you have a point"'
 tamago-l3-536 เสร็จแน่: eng '"you're in trouble", "you're done for"'
+
+occasional: t4k-c09-009 ฟาก, t4k-c09-017 ผู้สื่อข่าว, t4k-c09-031 ตื่นตัว
+
+rare: t4k-c09-025 ตอ
 
 remove: tamago-l12-471 อย่างละที่, tamago-l12-527 เนี่ยนะ, tamago-l3-453 อาไว้ก่อนเหอะ, tamago-l3-498 โอ - โอสุด
