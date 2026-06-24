@@ -26,8 +26,8 @@
   // limits the DOM that's drawn — the full matched set (currentList) still drives
   // the count badge and "Add filtered cards" to a deck.
   var LIMIT_KEY = "thaiVocabLimit";
-  var ALLOWED_LIMITS = [12, 60, 120, 0];
-  var displayLimit = 12;
+  var ALLOWED_LIMITS = [60, 120, 300, 0];
+  var displayLimit = 60;
 
   var FREQ_ORDER = ["everyday", "common", "occasional", "rare"];
   var FREQ_LABEL = {
@@ -663,13 +663,21 @@
           return w.id !== wordId;
         });
       }
-      countEl.textContent =
-        currentList.length + (currentList.length === 1 ? " word" : " words");
+      updateCount();
       if (!currentList.length) {
         currentGroups = [];
         groupsEl.innerHTML = '<p class="vocab-empty">No matching words.</p>';
       }
     }, 150);
+  }
+
+  // Count badge: total matches, noting how many are shown when the cap hides some.
+  function updateCount() {
+    var total = currentList.length;
+    var shown = currentGroups.reduce(function (n, g) { return n + g.items.length; }, 0);
+    var noun = total === 1 ? " word" : " words";
+    countEl.textContent =
+      shown < total ? "Showing " + shown + " of " + total + noun : total + noun;
   }
 
   function render() {
@@ -678,19 +686,21 @@
     currentList = words.filter(function (word) {
       return matches(word) && passesFilter(word);
     });
-    var list = currentList;
-    countEl.textContent =
-      list.length + (list.length === 1 ? " word" : " words");
 
     teardownObserver();
 
-    if (!list.length) {
+    if (!currentList.length) {
       currentGroups = [];
+      updateCount();
       groupsEl.innerHTML = '<p class="vocab-empty">No matching words.</p>';
       return;
     }
 
-    currentGroups = buildGroups(list);
+    // Render only up to the display cap; the full set stays in currentList.
+    var shownList =
+      displayLimit > 0 ? currentList.slice(0, displayLimit) : currentList;
+    currentGroups = buildGroups(shownList);
+    updateCount();
     groupsEl.innerHTML = currentGroups
       .map(function (group, i) {
         var freqMod =
@@ -913,6 +923,22 @@
     var btn = e.target.closest("button[data-audio]");
     if (btn) setAudioLang(btn.getAttribute("data-audio"));
   });
+
+  // Display cap: how many matching cards to draw. Reflects the <select> and is
+  // persisted; "All" (0) draws every match. Re-renders so the change takes effect.
+  function setDisplayLimit(n, doRender) {
+    n = parseInt(n, 10);
+    if (ALLOWED_LIMITS.indexOf(n) === -1) n = 60;
+    displayLimit = n;
+    if (limitSelectEl) limitSelectEl.value = String(n);
+    lsSet(LIMIT_KEY, String(n));
+    if (doRender) render();
+  }
+  if (limitSelectEl) {
+    limitSelectEl.addEventListener("change", function () {
+      setDisplayLimit(limitSelectEl.value, true);
+    });
+  }
 
   // ── Deck UI ───────────────────────────────────────────────────────────────
   var deckSelectEl = document.getElementById("deck-select");
