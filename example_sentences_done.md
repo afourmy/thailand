@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 121 words**
+**Total: 141 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -111,9 +111,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-312` : พักกลางวัน (lunch break) : 1 meaning(s), 2 sentences
 - `tamago-l12-317` : พาไป (to take someone somewhere) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
+- `tamago-l12-329` : ภรรยา (wife (formal)) : 1 meaning(s), 2 sentences
+- `tamago-l12-333` : มอเตอร์ไซค์ (motorcycle) : 1 meaning(s), 2 sentences
+- `tamago-l12-335` : มักจะ (to tend to, usually) : 1 meaning(s), 2 sentences
+- `tamago-l12-336` : มัน (it (pronoun); fun, enjoyable; oily) : 3 meaning(s), 6 sentences
+- `tamago-l12-337` : มั้ง (perhaps, maybe (sentence ending)) : 1 meaning(s), 2 sentences
+- `tamago-l12-338` : มากขึ้น (more than before, increasingly) : 1 meaning(s), 2 sentences
+- `tamago-l12-346` : ยิ่ง, ยิ่งขึ้น (more (so), even more) : 1 meaning(s), 2 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
+- `tamago-l12-352` : รดน้ำ (to water (plants), to pour water) : 1 meaning(s), 2 sentences
+- `tamago-l12-353` : รถตู้ (minivan (taxi or shuttle)) : 1 meaning(s), 2 sentences
+- `tamago-l12-357` : รถเมล์ (city bus) : 1 meaning(s), 2 sentences
 - `tamago-l12-359` : รวม (to include, including; total) : 2 meaning(s), 4 sentences
+- `tamago-l12-360` : รวมกัน (together, combined) : 1 meaning(s), 2 sentences
+- `tamago-l12-361` : รองเท้าผ้าใบ (sneakers) : 1 meaning(s), 2 sentences
 - `tamago-l12-366` : รับ (to pick someone up; to receive) : 2 meaning(s), 4 sentences
+- `tamago-l12-367` : รับผิดชอบ (to take responsibility, to be responsible) : 1 meaning(s), 2 sentences
+- `tamago-l12-368` : รับสาย (to answer a call, pick up the phone) : 1 meaning(s), 2 sentences
+- `tamago-l12-371` : รุ่นน้อง (junior (younger schoolmate)) : 1 meaning(s), 2 sentences
+- `tamago-l12-372` : รุ่นพี่ (senior (older schoolmate)) : 1 meaning(s), 2 sentences
+- `tamago-l12-374` : ภาพ, รูปภาพ (picture, image, painting) : 1 meaning(s), 2 sentences
+- `tamago-l12-380` : ลาน (yard, open area) : 1 meaning(s), 2 sentences
+- `tamago-l12-381` : ลานจอดรถ (parking lot) : 1 meaning(s), 2 sentences
+- `tamago-l12-387` : ล่าสุด (most recent, latest) : 1 meaning(s), 2 sentences
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
 - `tamago-l12-430` : ส่ง (to send; to drop someone off) : 2 meaning(s), 4 sentences
 - `tamago-l12-491` : เกาะ (island; to cling, to hold on to) : 2 meaning(s), 4 sentences
