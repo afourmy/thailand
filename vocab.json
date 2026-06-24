@@ -1978,7 +1978,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกรงใจ",
-    "audio_en_src": "considerate, reluctant to impose on others"
+    "audio_en_src": "considerate, reluctant to impose on others",
+    "examples": [
+      {
+        "meaning": "considerate, reluctant to impose on others",
+        "sentences": [
+          {
+            "thai": "ไม่ต้องเกรงใจ กินได้เลย",
+            "en": "Don’t be shy, help yourself.",
+            "audio_src": "ไม่ต้องเกรงใจ กินได้เลย",
+            "audio_en_src": "Don’t be shy, help yourself."
+          },
+          {
+            "thai": "เกรงใจจนไม่กล้าขอ",
+            "en": "I felt too bad imposing to even ask.",
+            "audio_src": "เกรงใจจนไม่กล้าขอ",
+            "audio_en_src": "I felt too bad imposing to even ask."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-021",
@@ -5742,7 +5761,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้อมูล",
-    "audio_en_src": "information"
+    "audio_en_src": "information",
+    "examples": [
+      {
+        "meaning": "information",
+        "sentences": [
+          {
+            "thai": "ขอข้อมูลเพิ่มเติมได้ไหม",
+            "en": "Can I get some more information?",
+            "audio_src": "ขอข้อมูลเพิ่มเติมได้ไหม",
+            "audio_en_src": "Can I get some more information?"
+          },
+          {
+            "thai": "ข้อมูลในเน็ตเชื่อไม่ได้ทั้งหมด",
+            "en": "You can’t trust all the information online.",
+            "audio_src": "ข้อมูลในเน็ตเชื่อไม่ได้ทั้งหมด",
+            "audio_en_src": "You can’t trust all the information online."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-372",
@@ -6676,7 +6714,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ย้ำ",
-    "audio_en_src": "to repeat, to emphasize, to reiterate"
+    "audio_en_src": "to repeat, to emphasize, to reiterate",
+    "examples": [
+      {
+        "meaning": "to repeat, to emphasize, to reiterate",
+        "sentences": [
+          {
+            "thai": "ครูย้ำว่าพรุ่งนี้มีสอบ",
+            "en": "The teacher stressed that there’s an exam tomorrow.",
+            "audio_src": "ครูย้ำว่าพรุ่งนี้มีสอบ",
+            "audio_en_src": "The teacher stressed that there’s an exam tomorrow."
+          },
+          {
+            "thai": "ขอย้ำอีกครั้งว่าห้ามสาย",
+            "en": "Let me say it again: don’t be late.",
+            "audio_src": "ขอย้ำอีกครั้งว่าห้ามสาย",
+            "audio_en_src": "Let me say it again: don’t be late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-458",
@@ -6956,7 +7013,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฝ่าย",
-    "audio_en_src": "team, group, side"
+    "audio_en_src": "team, group, side",
+    "examples": [
+      {
+        "meaning": "team, group, side",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ต้องฟังทั้งสองฝ่าย",
+            "en": "You have to hear both sides of this.",
+            "audio_src": "เรื่องนี้ต้องฟังทั้งสองฝ่าย",
+            "audio_en_src": "You have to hear both sides of this."
+          },
+          {
+            "thai": "เธออยู่ฝ่ายไหน",
+            "en": "Which side are you on?",
+            "audio_src": "เธออยู่ฝ่ายไหน",
+            "audio_en_src": "Which side are you on?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-022",
@@ -7568,7 +7644,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โฆษณา",
-    "audio_en_src": "to advertise"
+    "audio_en_src": "to advertise",
+    "examples": [
+      {
+        "meaning": "to advertise",
+        "sentences": [
+          {
+            "thai": "ร้านนี้โฆษณาในเฟซบุ๊ก",
+            "en": "This shop advertises on Facebook.",
+            "audio_src": "ร้านนี้โฆษณาในเฟซบุ๊ก",
+            "audio_en_src": "This shop advertises on Facebook."
+          },
+          {
+            "thai": "บริษัทโฆษณาสินค้าใหม่ทางทีวี",
+            "en": "The company advertises its new product on TV.",
+            "audio_src": "บริษัทโฆษณาสินค้าใหม่ทางทีวี",
+            "audio_en_src": "The company advertises its new product on TV."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-074",
@@ -8580,7 +8675,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อ่อน",
-    "audio_en_src": "unripe; young; soft, weak, tender, gentle"
+    "audio_en_src": "unripe; young; soft, weak, tender, gentle",
+    "examples": [
+      {
+        "meaning": "(fruit) unripe",
+        "sentences": [
+          {
+            "thai": "มะม่วงลูกนี้ยังอ่อนอยู่",
+            "en": "This mango is still unripe.",
+            "audio_src": "มะม่วงลูกนี้ยังอ่อนอยู่",
+            "audio_en_src": "This mango is still unripe."
+          },
+          {
+            "thai": "มะพร้าวอ่อนหวานกว่ามะพร้าวแก่",
+            "en": "Young coconut is sweeter than mature coconut.",
+            "audio_src": "มะพร้าวอ่อนหวานกว่ามะพร้าวแก่",
+            "audio_en_src": "Young coconut is sweeter than mature coconut."
+          }
+        ]
+      },
+      {
+        "meaning": "(age) young",
+        "sentences": [
+          {
+            "thai": "เขาอ่อนกว่าฉันสามปี",
+            "en": "He’s three years younger than me.",
+            "audio_src": "เขาอ่อนกว่าฉันสามปี",
+            "audio_en_src": "He’s three years younger than me."
+          },
+          {
+            "thai": "ดูหน้าเด็กมาก อ่อนกว่าวัย",
+            "en": "She looks really young for her age.",
+            "audio_src": "ดูหน้าเด็กมาก อ่อนกว่าวัย",
+            "audio_en_src": "She looks really young for her age."
+          }
+        ]
+      },
+      {
+        "meaning": "soft, weak, tender, gentle",
+        "sentences": [
+          {
+            "thai": "ออกกำลังกายน้อย ร่างกายเลยอ่อนแอ",
+            "en": "I don’t exercise much, so my body is weak.",
+            "audio_src": "ออกกำลังกายน้อย ร่างกายเลยอ่อนแอ",
+            "audio_en_src": "I don’t exercise much, so my body is weak."
+          },
+          {
+            "thai": "เนื้อตุ๋นจนอ่อนนุ่ม",
+            "en": "The meat is stewed until tender.",
+            "audio_src": "เนื้อตุ๋นจนอ่อนนุ่ม",
+            "audio_en_src": "The meat is stewed until tender."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-170",
@@ -10668,7 +10816,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กดปุ่ม",
-    "audio_en_src": "to press a button"
+    "audio_en_src": "to press a button",
+    "examples": [
+      {
+        "meaning": "to press a button",
+        "sentences": [
+          {
+            "thai": "กดปุ่มสีแดงเพื่อหยุด",
+            "en": "Press the red button to stop.",
+            "audio_src": "กดปุ่มสีแดงเพื่อหยุด",
+            "audio_en_src": "Press the red button to stop."
+          },
+          {
+            "thai": "กดปุ่มลิฟต์ให้หน่อย",
+            "en": "Press the elevator button for me.",
+            "audio_src": "กดปุ่มลิฟต์ให้หน่อย",
+            "audio_en_src": "Press the elevator button for me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-010",
@@ -10833,7 +11000,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กล้วย",
-    "audio_en_src": "banana"
+    "audio_en_src": "banana",
+    "examples": [
+      {
+        "meaning": "banana",
+        "sentences": [
+          {
+            "thai": "กินกล้วยวันละลูกดีต่อสุขภาพ",
+            "en": "Eating a banana a day is good for your health.",
+            "audio_src": "กินกล้วยวันละลูกดีต่อสุขภาพ",
+            "audio_en_src": "Eating a banana a day is good for your health."
+          },
+          {
+            "thai": "ขอซื้อกล้วยหนึ่งหวี",
+            "en": "I’ll buy one bunch of bananas.",
+            "audio_src": "ขอซื้อกล้วยหนึ่งหวี",
+            "audio_en_src": "I’ll buy one bunch of bananas."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-028",
@@ -11749,7 +11935,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "งอน",
-    "audio_en_src": "to sulk, to be in a huff"
+    "audio_en_src": "to sulk, to be in a huff",
+    "examples": [
+      {
+        "meaning": "to sulk, to be in a huff (esp. couples)",
+        "sentences": [
+          {
+            "thai": "แฟนงอนเพราะลืมวันครบรอบ",
+            "en": "My girlfriend’s sulking because I forgot our anniversary.",
+            "audio_src": "แฟนงอนเพราะลืมวันครบรอบ",
+            "audio_en_src": "My girlfriend’s sulking because I forgot our anniversary."
+          },
+          {
+            "thai": "อย่างอนสิ ขอโทษแล้วไง",
+            "en": "Don’t sulk, I already said sorry.",
+            "audio_src": "อย่างอนสิ ขอโทษแล้วไง",
+            "audio_en_src": "Don’t sulk, I already said sorry."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-098",
@@ -11895,7 +12100,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จิ้ม",
-    "audio_en_src": "to dip"
+    "audio_en_src": "to dip",
+    "examples": [
+      {
+        "meaning": "to dip (e.g food in sauce)",
+        "sentences": [
+          {
+            "thai": "เอาไก่จิ้มซอสสิ",
+            "en": "Dip the chicken in the sauce.",
+            "audio_src": "เอาไก่จิ้มซอสสิ",
+            "audio_en_src": "Dip the chicken in the sauce."
+          },
+          {
+            "thai": "จิ้มน้ำจิ้มด้วยอร่อยกว่า",
+            "en": "It tastes better dipped in the sauce.",
+            "audio_src": "จิ้มน้ำจิ้มด้วยอร่อยกว่า",
+            "audio_en_src": "It tastes better dipped in the sauce."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-110",
