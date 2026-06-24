@@ -75879,7 +75879,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หัว",
-    "audio_en_src": "head; classifier for plants heads"
+    "audio_en_src": "head; classifier for plants heads",
+    "examples": [
+      {
+        "meaning": "head",
+        "sentences": [
+          {
+            "thai": "เขาเอามือลูบหัวเด็ก",
+            "en": "He patted the kid on the head.",
+            "audio_src": "เขาเอามือลูบหัวเด็ก",
+            "audio_en_src": "He patted the kid on the head."
+          },
+          {
+            "thai": "ก้มหัวลอดประตูเตี้ยๆ",
+            "en": "Duck your head under the low doorway.",
+            "audio_src": "ก้มหัวลอดประตูเตี้ยๆ",
+            "audio_en_src": "Duck your head under the low doorway."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for plants heads (cabbage, bulb of garlic, etc)",
+        "sentences": [
+          {
+            "thai": "ซื้อกะหล่ำปลีมาหัวนึง",
+            "en": "I bought one head of cabbage.",
+            "audio_src": "ซื้อกะหล่ำปลีมาหัวนึง",
+            "audio_en_src": "I bought one head of cabbage."
+          },
+          {
+            "thai": "ใส่กระเทียมสองหัว",
+            "en": "Add two bulbs of garlic.",
+            "audio_src": "ใส่กระเทียมสองหัว",
+            "audio_en_src": "Add two bulbs of garlic."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "yt-c14-074",
@@ -77929,7 +77965,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตา",
-    "audio_en_src": "eye; grandfather; turn"
+    "audio_en_src": "eye; grandfather; turn",
+    "examples": [
+      {
+        "meaning": "eye",
+        "sentences": [
+          {
+            "thai": "ฝุ่นเข้าตา แสบมาก",
+            "en": "Dust got in my eye, it really stings.",
+            "audio_src": "ฝุ่นเข้าตา แสบมาก",
+            "audio_en_src": "Dust got in my eye, it really stings."
+          },
+          {
+            "thai": "เขามีตาสีน้ำตาล",
+            "en": "He has brown eyes.",
+            "audio_src": "เขามีตาสีน้ำตาล",
+            "audio_en_src": "He has brown eyes."
+          }
+        ]
+      },
+      {
+        "meaning": "grandfather",
+        "sentences": [
+          {
+            "thai": "ตาพาฉันไปตกปลา",
+            "en": "Grandpa took me fishing.",
+            "audio_src": "ตาพาฉันไปตกปลา",
+            "audio_en_src": "Grandpa took me fishing."
+          },
+          {
+            "thai": "ตากับยายอยู่ต่างจังหวัด",
+            "en": "Grandpa and grandma live in the countryside.",
+            "audio_src": "ตากับยายอยู่ต่างจังหวัด",
+            "audio_en_src": "Grandpa and grandma live in the countryside."
+          }
+        ]
+      },
+      {
+        "meaning": "turn (as in: your turn, my turn)",
+        "sentences": [
+          {
+            "thai": "ถึงตาเธอเล่นแล้ว",
+            "en": "It's your turn to play now.",
+            "audio_src": "ถึงตาเธอเล่นแล้ว",
+            "audio_en_src": "It's your turn to play now."
+          },
+          {
+            "thai": "รอก่อน ยังไม่ถึงตาฉัน",
+            "en": "Wait, it's not my turn yet.",
+            "audio_src": "รอก่อน ยังไม่ถึงตาฉัน",
+            "audio_en_src": "Wait, it's not my turn yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "yt-c16-086",
@@ -84130,7 +84219,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กี่โมง",
-    "audio_en_src": "what time"
+    "audio_en_src": "what time",
+    "examples": [
+      {
+        "meaning": "what time",
+        "sentences": [
+          {
+            "thai": "ตอนนี้กี่โมงแล้ว",
+            "en": "What time is it now?",
+            "audio_src": "ตอนนี้กี่โมงแล้ว",
+            "audio_en_src": "What time is it now?"
+          },
+          {
+            "thai": "เรานัดกันกี่โมง",
+            "en": "What time are we meeting?",
+            "audio_src": "เรานัดกันกี่โมง",
+            "audio_en_src": "What time are we meeting?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-011",
@@ -84246,7 +84354,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขยะ",
-    "audio_en_src": "rubbish, trash"
+    "audio_en_src": "rubbish, trash",
+    "examples": [
+      {
+        "meaning": "rubbish, trash",
+        "sentences": [
+          {
+            "thai": "ช่วยเอาขยะไปทิ้งหน่อย",
+            "en": "Help take the trash out.",
+            "audio_src": "ช่วยเอาขยะไปทิ้งหน่อย",
+            "audio_en_src": "Help take the trash out."
+          },
+          {
+            "thai": "อย่าทิ้งขยะลงแม่น้ำ",
+            "en": "Don't throw trash in the river.",
+            "audio_src": "อย่าทิ้งขยะลงแม่น้ำ",
+            "audio_en_src": "Don't throw trash in the river."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-023",
@@ -84300,7 +84427,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างขวา",
-    "audio_en_src": "right side"
+    "audio_en_src": "right side",
+    "examples": [
+      {
+        "meaning": "right (hand) side",
+        "sentences": [
+          {
+            "thai": "ร้านอยู่ข้างขวามือ",
+            "en": "The shop is on the right-hand side.",
+            "audio_src": "ร้านอยู่ข้างขวามือ",
+            "audio_en_src": "The shop is on the right-hand side."
+          },
+          {
+            "thai": "นั่งข้างขวาฉันสิ",
+            "en": "Sit on my right.",
+            "audio_src": "นั่งข้างขวาฉันสิ",
+            "audio_en_src": "Sit on my right."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-030",
@@ -84344,7 +84490,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไปนอน, เข้านอน",
-    "audio_en_src": "to go to bed"
+    "audio_en_src": "to go to bed",
+    "examples": [
+      {
+        "meaning": "to go to bed",
+        "sentences": [
+          {
+            "thai": "ดึกแล้ว ไปนอนได้แล้ว",
+            "en": "It's late, time to go to bed.",
+            "audio_src": "ดึกแล้ว ไปนอนได้แล้ว",
+            "audio_en_src": "It's late, time to go to bed."
+          },
+          {
+            "thai": "ปกติฉันเข้านอนสี่ทุ่ม",
+            "en": "I usually go to bed at ten.",
+            "audio_src": "ปกติฉันเข้านอนสี่ทุ่ม",
+            "audio_en_src": "I usually go to bed at ten."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-039",
@@ -84409,7 +84574,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คนขาย",
-    "audio_en_src": "vendor"
+    "audio_en_src": "vendor",
+    "examples": [
+      {
+        "meaning": "vendor",
+        "sentences": [
+          {
+            "thai": "คนขายใจดี ลดราคาให้ด้วย",
+            "en": "The vendor is nice, she gave me a discount too.",
+            "audio_src": "คนขายใจดี ลดราคาให้ด้วย",
+            "audio_en_src": "The vendor is nice, she gave me a discount too."
+          },
+          {
+            "thai": "ถามคนขายดูว่ามีไซส์อื่นไหม",
+            "en": "Ask the vendor if they have other sizes.",
+            "audio_src": "ถามคนขายดูว่ามีไซส์อื่นไหม",
+            "audio_en_src": "Ask the vendor if they have other sizes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-045",
@@ -84464,7 +84648,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คราวหน้า",
-    "audio_en_src": "next time"
+    "audio_en_src": "next time",
+    "examples": [
+      {
+        "meaning": "next time",
+        "sentences": [
+          {
+            "thai": "คราวหน้าค่อยมาใหม่",
+            "en": "Come again next time.",
+            "audio_src": "คราวหน้าค่อยมาใหม่",
+            "audio_en_src": "Come again next time."
+          },
+          {
+            "thai": "คราวหน้าอย่าลืมเอามาด้วยนะ",
+            "en": "Next time don't forget to bring it.",
+            "audio_src": "คราวหน้าอย่าลืมเอามาด้วยนะ",
+            "audio_en_src": "Next time don't forget to bring it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-051",
@@ -84489,7 +84692,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครึ่งหนึ่ง",
-    "audio_en_src": "one half"
+    "audio_en_src": "one half",
+    "examples": [
+      {
+        "meaning": "one half",
+        "sentences": [
+          {
+            "thai": "แบ่งเค้กให้ฉันครึ่งหนึ่ง",
+            "en": "Give me half the cake.",
+            "audio_src": "แบ่งเค้กให้ฉันครึ่งหนึ่ง",
+            "audio_en_src": "Give me half the cake."
+          },
+          {
+            "thai": "งานเสร็จไปแล้วครึ่งหนึ่ง",
+            "en": "Half the work is already done.",
+            "audio_src": "งานเสร็จไปแล้วครึ่งหนึ่ง",
+            "audio_en_src": "Half the work is already done."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-053",
@@ -84554,7 +84776,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คุณล่ะ",
-    "audio_en_src": "and you, what about you"
+    "audio_en_src": "and you, what about you",
+    "examples": [
+      {
+        "meaning": "and you, what about you",
+        "sentences": [
+          {
+            "thai": "ฉันสบายดี คุณล่ะ",
+            "en": "I'm doing well, and you?",
+            "audio_src": "ฉันสบายดี คุณล่ะ",
+            "audio_en_src": "I'm doing well, and you?"
+          },
+          {
+            "thai": "ฉันเอากาแฟ คุณล่ะจะเอาอะไร",
+            "en": "I'll have coffee, what about you?",
+            "audio_src": "ฉันเอากาแฟ คุณล่ะจะเอาอะไร",
+            "audio_en_src": "I'll have coffee, what about you?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-060",

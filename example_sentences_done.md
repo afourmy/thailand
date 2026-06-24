@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 471 words**
+**Total: 481 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -472,6 +472,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
+- `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
+- `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
+- `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
+- `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
+- `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
+- `wlt-c01-037` : ไปนอน, เข้านอน (to go to bed) : 1 meaning(s), 2 sentences
+- `wlt-c01-044` : คนขาย (vendor) : 1 meaning(s), 2 sentences
+- `wlt-c01-050` : คราวหน้า (next time) : 1 meaning(s), 2 sentences
+- `wlt-c01-052` : ครึ่งหนึ่ง (one half) : 1 meaning(s), 2 sentences
+- `wlt-c01-058` : คุณล่ะ (and you, what about you) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
