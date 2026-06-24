@@ -24768,7 +24768,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลังคา",
-    "audio_en_src": "roof"
+    "audio_en_src": "roof",
+    "examples": [
+      {
+        "meaning": "roof",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักจนหลังคารั่ว",
+            "en": "It rained so hard that the roof leaked.",
+            "audio_src": "ฝนตกหนักจนหลังคารั่ว",
+            "audio_en_src": "It rained so hard that the roof leaked."
+          },
+          {
+            "thai": "แมวชอบขึ้นไปนอนบนหลังคา",
+            "en": "The cat likes to go up and sleep on the roof.",
+            "audio_src": "แมวชอบขึ้นไปนอนบนหลังคา",
+            "audio_en_src": "The cat likes to go up and sleep on the roof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-142",
@@ -24804,7 +24823,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลี้ยงข้าว",
-    "audio_en_src": "to treat to a meal, to pay for someone's meal"
+    "audio_en_src": "to treat to a meal, to pay for someone's meal",
+    "examples": [
+      {
+        "meaning": "to treat to a meal, to pay for someone's meal",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันเลี้ยงข้าวเอง",
+            "en": "Lunch is on me today.",
+            "audio_src": "วันนี้ฉันเลี้ยงข้าวเอง",
+            "audio_en_src": "Lunch is on me today."
+          },
+          {
+            "thai": "ได้เงินเดือนแล้ว เดี๋ยวเลี้ยงข้าวนะ",
+            "en": "I got my paycheck, I'll treat you to a meal.",
+            "audio_src": "ได้เงินเดือนแล้ว เดี๋ยวเลี้ยงข้าวนะ",
+            "audio_en_src": "I got my paycheck, I'll treat you to a meal."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-145",
@@ -24839,7 +24877,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลูกอม",
-    "audio_en_src": "candy"
+    "audio_en_src": "candy",
+    "examples": [
+      {
+        "meaning": "candy",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบกินลูกอม",
+            "en": "Kids love eating candy.",
+            "audio_src": "เด็กๆชอบกินลูกอม",
+            "audio_en_src": "Kids love eating candy."
+          },
+          {
+            "thai": "อมลูกอมแก้เจ็บคอ",
+            "en": "Suck on a candy to soothe a sore throat.",
+            "audio_src": "อมลูกอมแก้เจ็บคอ",
+            "audio_en_src": "Suck on a candy to soothe a sore throat."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-148",
@@ -24896,7 +24953,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เห็นใจ",
-    "audio_en_src": "to sympathize, to feel compassion"
+    "audio_en_src": "to sympathize, to feel compassion",
+    "examples": [
+      {
+        "meaning": "to sympathize, to feel compassion (for)",
+        "sentences": [
+          {
+            "thai": "ฉันเห็นใจเขานะ ลำบากมาเยอะ",
+            "en": "I really feel for him, he's been through a lot.",
+            "audio_src": "ฉันเห็นใจเขานะ ลำบากมาเยอะ",
+            "audio_en_src": "I really feel for him, he's been through a lot."
+          },
+          {
+            "thai": "เห็นใจกันบ้างสิ",
+            "en": "Have a little sympathy.",
+            "audio_src": "เห็นใจกันบ้างสิ",
+            "audio_en_src": "Have a little sympathy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-153",
@@ -24944,7 +25020,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ด่า",
-    "audio_en_src": "to scold, to curse, to insult harshly"
+    "audio_en_src": "to scold, to curse, to insult harshly",
+    "examples": [
+      {
+        "meaning": "to scold, to curse, to insult harshly",
+        "sentences": [
+          {
+            "thai": "แม่ด่าฉันที่กลับบ้านดึก",
+            "en": "Mom yelled at me for coming home late.",
+            "audio_src": "แม่ด่าฉันที่กลับบ้านดึก",
+            "audio_en_src": "Mom yelled at me for coming home late."
+          },
+          {
+            "thai": "อย่าด่าคนอื่นแบบนั้น",
+            "en": "Don't trash-talk people like that.",
+            "audio_src": "อย่าด่าคนอื่นแบบนั้น",
+            "audio_en_src": "Don't trash-talk people like that."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-158",
@@ -24972,7 +25067,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เถียง, ถกเถียง, โต้เถียง",
-    "audio_en_src": "to argue, to talk back, to dispute"
+    "audio_en_src": "to argue, to talk back, to dispute",
+    "examples": [
+      {
+        "meaning": "to argue, to talk back, to dispute",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้ชอบเถียงผู้ใหญ่",
+            "en": "This kid likes to talk back to grown-ups.",
+            "audio_src": "เด็กคนนี้ชอบเถียงผู้ใหญ่",
+            "audio_en_src": "This kid likes to talk back to grown-ups."
+          },
+          {
+            "thai": "สองคนนั้นเถียงกันเรื่องการเมือง",
+            "en": "Those two are arguing about politics.",
+            "audio_src": "สองคนนั้นเถียงกันเรื่องการเมือง",
+            "audio_en_src": "Those two are arguing about politics."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-160",
@@ -25234,7 +25348,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขำ",
-    "audio_en_src": "funny, to laugh"
+    "audio_en_src": "funny, to laugh",
+    "examples": [
+      {
+        "meaning": "funny, to laugh",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ขำมาก",
+            "en": "This is so funny.",
+            "audio_src": "เรื่องนี้ขำมาก",
+            "audio_en_src": "This is so funny."
+          },
+          {
+            "thai": "เขาเล่ามุกแล้วทุกคนขำ",
+            "en": "He told a joke and everyone laughed.",
+            "audio_src": "เขาเล่ามุกแล้วทุกคนขำ",
+            "audio_en_src": "He told a joke and everyone laughed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-185",
@@ -25272,7 +25405,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทัศนคติ",
-    "audio_en_src": "attitude, viewpoint"
+    "audio_en_src": "attitude, viewpoint",
+    "examples": [
+      {
+        "meaning": "attitude, viewpoint",
+        "sentences": [
+          {
+            "thai": "เขามีทัศนคติที่ดีต่อการทำงาน",
+            "en": "He has a good attitude toward work.",
+            "audio_src": "เขามีทัศนคติที่ดีต่อการทำงาน",
+            "audio_en_src": "He has a good attitude toward work."
+          },
+          {
+            "thai": "เรามีทัศนคติเรื่องนี้ต่างกัน",
+            "en": "We have different views on this.",
+            "audio_src": "เรามีทัศนคติเรื่องนี้ต่างกัน",
+            "audio_en_src": "We have different views on this."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-188",
@@ -25327,7 +25479,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดูบอล",
-    "audio_en_src": "to watch football"
+    "audio_en_src": "to watch football",
+    "examples": [
+      {
+        "meaning": "to watch football (soccer)",
+        "sentences": [
+          {
+            "thai": "คืนนี้ดูบอลด้วยกันไหม",
+            "en": "Want to watch the football match together tonight?",
+            "audio_src": "คืนนี้ดูบอลด้วยกันไหม",
+            "audio_en_src": "Want to watch the football match together tonight?"
+          },
+          {
+            "thai": "เขาชอบดูบอลทุกสุดสัปดาห์",
+            "en": "He likes watching football every weekend.",
+            "audio_src": "เขาชอบดูบอลทุกสุดสัปดาห์",
+            "audio_en_src": "He likes watching football every weekend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-194",
@@ -25374,7 +25545,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตามใจ",
-    "audio_en_src": "as you wish; to spoil"
+    "audio_en_src": "as you wish; to spoil",
+    "examples": [
+      {
+        "meaning": "as you wish",
+        "sentences": [
+          {
+            "thai": "จะกินอะไรก็ตามใจ",
+            "en": "Eat whatever you want, it's up to you.",
+            "audio_src": "จะกินอะไรก็ตามใจ",
+            "audio_en_src": "Eat whatever you want, it's up to you."
+          },
+          {
+            "thai": "ตามใจเธอเลย ฉันได้หมด",
+            "en": "Whatever you like, I'm fine with anything.",
+            "audio_src": "ตามใจเธอเลย ฉันได้หมด",
+            "audio_en_src": "Whatever you like, I'm fine with anything."
+          }
+        ]
+      },
+      {
+        "meaning": "to spoil (someone)",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ตามใจลูกเกินไป",
+            "en": "The parents spoil their kid too much.",
+            "audio_src": "พ่อแม่ตามใจลูกเกินไป",
+            "audio_en_src": "The parents spoil their kid too much."
+          },
+          {
+            "thai": "อย่าตามใจเขามาก เดี๋ยวเสียคน",
+            "en": "Don't spoil him too much, he'll turn out bad.",
+            "audio_src": "อย่าตามใจเขามาก เดี๋ยวเสียคน",
+            "audio_en_src": "Don't spoil him too much, he'll turn out bad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-199",

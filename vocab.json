@@ -25626,7 +25626,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทีละ",
-    "audio_en_src": "one at a time, one by one"
+    "audio_en_src": "one at a time, one by one",
+    "examples": [
+      {
+        "meaning": "one at a time, one by one",
+        "sentences": [
+          {
+            "thai": "ค่อยๆทำทีละอย่าง",
+            "en": "Take it slow, do one thing at a time.",
+            "audio_src": "ค่อยๆทำทีละอย่าง",
+            "audio_en_src": "Take it slow, do one thing at a time."
+          },
+          {
+            "thai": "เข้าไปทีละคนนะ",
+            "en": "Go in one at a time.",
+            "audio_src": "เข้าไปทีละคนนะ",
+            "audio_en_src": "Go in one at a time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-203",
@@ -25650,7 +25669,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พักนี้",
-    "audio_en_src": "lately, recently"
+    "audio_en_src": "lately, recently",
+    "examples": [
+      {
+        "meaning": "lately, recently",
+        "sentences": [
+          {
+            "thai": "พักนี้งานยุ่งมาก",
+            "en": "I've been really busy with work lately.",
+            "audio_src": "พักนี้งานยุ่งมาก",
+            "audio_en_src": "I've been really busy with work lately."
+          },
+          {
+            "thai": "พักนี้ไม่ค่อยได้เจอเขาเลย",
+            "en": "I haven't seen him much lately.",
+            "audio_src": "พักนี้ไม่ค่อยได้เจอเขาเลย",
+            "audio_en_src": "I haven't seen him much lately."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-205",
@@ -25709,7 +25747,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แม้แต่",
-    "audio_en_src": "even, even as little as"
+    "audio_en_src": "even, even as little as",
+    "examples": [
+      {
+        "meaning": "even, even as little as",
+        "sentences": [
+          {
+            "thai": "เขายุ่งจนไม่มีเวลาแม้แต่จะกินข้าว",
+            "en": "He's so busy he doesn't even have time to eat.",
+            "audio_src": "เขายุ่งจนไม่มีเวลาแม้แต่จะกินข้าว",
+            "audio_en_src": "He's so busy he doesn't even have time to eat."
+          },
+          {
+            "thai": "ฉันไม่มีเงินเหลือแม้แต่บาทเดียว",
+            "en": "I don't have even a single baht left.",
+            "audio_src": "ฉันไม่มีเงินเหลือแม้แต่บาทเดียว",
+            "audio_en_src": "I don't have even a single baht left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-212",
@@ -25734,7 +25791,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่ไหว",
-    "audio_en_src": "'I can't take it!', can't handle"
+    "audio_en_src": "'I can't take it!', can't handle",
+    "examples": [
+      {
+        "meaning": "'I can't take it!', can't handle",
+        "sentences": [
+          {
+            "thai": "ร้อนจนไม่ไหวแล้ว",
+            "en": "It's so hot I can't take it.",
+            "audio_src": "ร้อนจนไม่ไหวแล้ว",
+            "audio_en_src": "It's so hot I can't take it."
+          },
+          {
+            "thai": "งานเยอะเกินไป ฉันไม่ไหวแล้ว",
+            "en": "There's too much work, I can't handle it.",
+            "audio_src": "งานเยอะเกินไป ฉันไม่ไหวแล้ว",
+            "audio_en_src": "There's too much work, I can't handle it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-214",
@@ -25791,7 +25867,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาเถอะ",
-    "audio_en_src": "'whatever!', 'let it go', 'leave it alone'"
+    "audio_en_src": "'whatever!', 'let it go', 'leave it alone'",
+    "examples": [
+      {
+        "meaning": "'whatever!', 'let it go', 'leave it alone'",
+        "sentences": [
+          {
+            "thai": "เอาเถอะ ช่างมันเถอะ",
+            "en": "Whatever, just let it go.",
+            "audio_src": "เอาเถอะ ช่างมันเถอะ",
+            "audio_en_src": "Whatever, just let it go."
+          },
+          {
+            "thai": "เอาเถอะ ไม่ต้องไปสนใจเขา",
+            "en": "Forget it, don't pay him any attention.",
+            "audio_src": "เอาเถอะ ไม่ต้องไปสนใจเขา",
+            "audio_en_src": "Forget it, don't pay him any attention."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-220",
@@ -25805,7 +25900,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สักที",
-    "audio_en_src": "finally, at last"
+    "audio_en_src": "finally, at last",
+    "examples": [
+      {
+        "meaning": "finally, at last",
+        "sentences": [
+          {
+            "thai": "ทำเสร็จสักที",
+            "en": "Finally done.",
+            "audio_src": "ทำเสร็จสักที",
+            "audio_en_src": "Finally done."
+          },
+          {
+            "thai": "รถมาสักที รอตั้งนาน",
+            "en": "The bus is finally here, I waited so long.",
+            "audio_src": "รถมาสักที รอตั้งนาน",
+            "audio_en_src": "The bus is finally here, I waited so long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-221",
@@ -25839,7 +25953,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อารมณ์เสีย",
-    "audio_en_src": "upset, in a bad mood"
+    "audio_en_src": "upset, in a bad mood",
+    "examples": [
+      {
+        "meaning": "upset, in a bad mood",
+        "sentences": [
+          {
+            "thai": "วันนี้เขาอารมณ์เสียตั้งแต่เช้า",
+            "en": "He's been in a bad mood since this morning.",
+            "audio_src": "วันนี้เขาอารมณ์เสียตั้งแต่เช้า",
+            "audio_en_src": "He's been in a bad mood since this morning."
+          },
+          {
+            "thai": "รถติดทั้งวันเลยอารมณ์เสีย",
+            "en": "Traffic all day put me in a bad mood.",
+            "audio_src": "รถติดทั้งวันเลยอารมณ์เสีย",
+            "audio_en_src": "Traffic all day put me in a bad mood."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-224",
@@ -25935,7 +26068,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เข้าเรียน",
-    "audio_en_src": "to attend a class"
+    "audio_en_src": "to attend a class",
+    "examples": [
+      {
+        "meaning": "to attend a class",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันไม่ได้เข้าเรียน",
+            "en": "I didn't go to class today.",
+            "audio_src": "วันนี้ฉันไม่ได้เข้าเรียน",
+            "audio_en_src": "I didn't go to class today."
+          },
+          {
+            "thai": "เขาเข้าเรียนสายเป็นประจำ",
+            "en": "He's regularly late to class.",
+            "audio_src": "เขาเข้าเรียนสายเป็นประจำ",
+            "audio_en_src": "He's regularly late to class."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-233",
@@ -25950,7 +26102,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรียนจบ",
-    "audio_en_src": "to graduate, to finish studies"
+    "audio_en_src": "to graduate, to finish studies",
+    "examples": [
+      {
+        "meaning": "to graduate, to finish studies",
+        "sentences": [
+          {
+            "thai": "เขาเพิ่งเรียนจบปีที่แล้ว",
+            "en": "He just graduated last year.",
+            "audio_src": "เขาเพิ่งเรียนจบปีที่แล้ว",
+            "audio_en_src": "He just graduated last year."
+          },
+          {
+            "thai": "เรียนจบแล้วอยากทำงานอะไร",
+            "en": "What do you want to do after you graduate?",
+            "audio_src": "เรียนจบแล้วอยากทำงานอะไร",
+            "audio_en_src": "What do you want to do after you graduate?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-234",
@@ -25964,7 +26135,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อยู่ๆ",
-    "audio_en_src": "suddenly, out of nowhere"
+    "audio_en_src": "suddenly, out of nowhere",
+    "examples": [
+      {
+        "meaning": "suddenly, out of nowhere",
+        "sentences": [
+          {
+            "thai": "อยู่ๆเขาก็ร้องไห้",
+            "en": "Out of nowhere, he started crying.",
+            "audio_src": "อยู่ๆเขาก็ร้องไห้",
+            "audio_en_src": "Out of nowhere, he started crying."
+          },
+          {
+            "thai": "อยู่ๆฝนก็ตกหนัก",
+            "en": "All of a sudden it started pouring.",
+            "audio_src": "อยู่ๆฝนก็ตกหนัก",
+            "audio_en_src": "All of a sudden it started pouring."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-235",

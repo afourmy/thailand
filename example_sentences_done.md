@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 241 words**
+**Total: 251 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -240,6 +240,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-187` : ทัศนคติ (attitude, viewpoint) : 1 meaning(s), 2 sentences
 - `tamago-l3-193` : ดูบอล (to watch football (soccer)) : 1 meaning(s), 2 sentences
 - `tamago-l3-198` : ตามใจ (as you wish; to spoil (someone)) : 2 meaning(s), 4 sentences
+- `tamago-l3-202` : ทีละ (one at a time, one by one) : 1 meaning(s), 2 sentences
+- `tamago-l3-204` : พักนี้ (lately, recently) : 1 meaning(s), 2 sentences
+- `tamago-l3-210` : แม้แต่ (even, even as little as) : 1 meaning(s), 2 sentences
+- `tamago-l3-213` : ไม่ไหว ('I can't take it!', can't handle) : 1 meaning(s), 2 sentences
+- `tamago-l3-219` : เอาเถอะ ('whatever!', 'let it go', 'leave it alone') : 1 meaning(s), 2 sentences
+- `tamago-l3-220` : สักที (finally, at last) : 1 meaning(s), 2 sentences
+- `tamago-l3-223` : อารมณ์เสีย (upset, in a bad mood) : 1 meaning(s), 2 sentences
+- `tamago-l3-232` : เข้าเรียน (to attend a class) : 1 meaning(s), 2 sentences
+- `tamago-l3-233` : เรียนจบ (to graduate, to finish studies) : 1 meaning(s), 2 sentences
+- `tamago-l3-234` : อยู่ๆ (suddenly, out of nowhere) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
