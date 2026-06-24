@@ -110726,7 +110726,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหมือนกัน",
-    "audio_en_src": "too, also, the same"
+    "audio_en_src": "too, also, the same",
+    "examples": [
+      {
+        "meaning": "too, also, the same",
+        "sentences": [
+          {
+            "thai": "ฉันก็คิดเหมือนกัน",
+            "en": "I think so too.",
+            "audio_src": "ฉันก็คิดเหมือนกัน",
+            "audio_en_src": "I think so too."
+          },
+          {
+            "thai": "เสื้อสองตัวนี้เหมือนกันเลย",
+            "en": "These two shirts are exactly the same.",
+            "audio_src": "เสื้อสองตัวนี้เหมือนกันเลย",
+            "audio_en_src": "These two shirts are exactly the same."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-080",
@@ -110741,7 +110760,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อยาก",
-    "audio_en_src": "to want"
+    "audio_en_src": "to want",
+    "examples": [
+      {
+        "meaning": "to want",
+        "sentences": [
+          {
+            "thai": "ฉันอยากกินไอติม",
+            "en": "I want to eat ice cream.",
+            "audio_src": "ฉันอยากกินไอติม",
+            "audio_en_src": "I want to eat ice cream."
+          },
+          {
+            "thai": "เธออยากไปไหน",
+            "en": "Where do you want to go?",
+            "audio_src": "เธออยากไปไหน",
+            "audio_en_src": "Where do you want to go?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-081",
@@ -110756,7 +110794,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อ้วน",
-    "audio_en_src": "fat"
+    "audio_en_src": "fat",
+    "examples": [
+      {
+        "meaning": "fat",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ฉันอ้วนขึ้น",
+            "en": "I've gained weight lately.",
+            "audio_src": "ช่วงนี้ฉันอ้วนขึ้น",
+            "audio_en_src": "I've gained weight lately."
+          },
+          {
+            "thai": "หมาตัวนี้อ้วนน่ารักดี",
+            "en": "This dog is cute and chubby.",
+            "audio_src": "หมาตัวนี้อ้วนน่ารักดี",
+            "audio_en_src": "This dog is cute and chubby."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-082",
@@ -110771,7 +110828,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ออก",
-    "audio_en_src": "to go out, leave, exit"
+    "audio_en_src": "to go out, leave, exit",
+    "examples": [
+      {
+        "meaning": "to go out, leave, exit",
+        "sentences": [
+          {
+            "thai": "เขาเพิ่งออกจากบ้าน",
+            "en": "He just left the house.",
+            "audio_src": "เขาเพิ่งออกจากบ้าน",
+            "audio_en_src": "He just left the house."
+          },
+          {
+            "thai": "รถไฟกำลังจะออก",
+            "en": "The train is about to leave.",
+            "audio_src": "รถไฟกำลังจะออก",
+            "audio_en_src": "The train is about to leave."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-083",
@@ -110786,7 +110862,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อิ่ม",
-    "audio_en_src": "full"
+    "audio_en_src": "full",
+    "examples": [
+      {
+        "meaning": "full (from eating)",
+        "sentences": [
+          {
+            "thai": "กินเยอะจนอิ่มมาก",
+            "en": "I ate so much I'm really full.",
+            "audio_src": "กินเยอะจนอิ่มมาก",
+            "audio_en_src": "I ate so much I'm really full."
+          },
+          {
+            "thai": "อิ่มแล้ว ขอบคุณ",
+            "en": "I'm full, thank you.",
+            "audio_src": "อิ่มแล้ว ขอบคุณ",
+            "audio_en_src": "I'm full, thank you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-084",
@@ -110801,7 +110896,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอง",
-    "audio_en_src": "oneself"
+    "audio_en_src": "oneself",
+    "examples": [
+      {
+        "meaning": "oneself",
+        "sentences": [
+          {
+            "thai": "ฉันทำเองได้",
+            "en": "I can do it myself.",
+            "audio_src": "ฉันทำเองได้",
+            "audio_en_src": "I can do it myself."
+          },
+          {
+            "thai": "เขาทำกับข้าวเอง",
+            "en": "He cooks for himself.",
+            "audio_src": "เขาทำกับข้าวเอง",
+            "audio_en_src": "He cooks for himself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-085",
@@ -110816,7 +110930,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลับบ้าน",
-    "audio_en_src": "to go home"
+    "audio_en_src": "to go home",
+    "examples": [
+      {
+        "meaning": "to go home",
+        "sentences": [
+          {
+            "thai": "ฉันกลับบ้านดึกทุกวัน",
+            "en": "I get home late every day.",
+            "audio_src": "ฉันกลับบ้านดึกทุกวัน",
+            "audio_en_src": "I get home late every day."
+          },
+          {
+            "thai": "เลิกงานแล้วรีบกลับบ้าน",
+            "en": "After work I hurried home.",
+            "audio_src": "เลิกงานแล้วรีบกลับบ้าน",
+            "audio_en_src": "After work I hurried home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-087",
@@ -110850,7 +110983,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กาแฟเย็น",
-    "audio_en_src": "iced coffee"
+    "audio_en_src": "iced coffee",
+    "examples": [
+      {
+        "meaning": "iced coffee",
+        "sentences": [
+          {
+            "thai": "ขอกาแฟเย็นแก้วนึง",
+            "en": "One iced coffee, please.",
+            "audio_src": "ขอกาแฟเย็นแก้วนึง",
+            "audio_en_src": "One iced coffee, please."
+          },
+          {
+            "thai": "อากาศร้อนๆแบบนี้ ขอกาแฟเย็นดีกว่า",
+            "en": "In this hot weather, I'll go with iced coffee.",
+            "audio_src": "อากาศร้อนๆแบบนี้ ขอกาแฟเย็นดีกว่า",
+            "audio_en_src": "In this hot weather, I'll go with iced coffee."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-090",
@@ -110864,7 +111016,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กาแฟร้อน",
-    "audio_en_src": "hot coffee"
+    "audio_en_src": "hot coffee",
+    "examples": [
+      {
+        "meaning": "hot coffee",
+        "sentences": [
+          {
+            "thai": "ตอนเช้าฉันชอบดื่มกาแฟร้อน",
+            "en": "I like hot coffee in the morning.",
+            "audio_src": "ตอนเช้าฉันชอบดื่มกาแฟร้อน",
+            "audio_en_src": "I like hot coffee in the morning."
+          },
+          {
+            "thai": "กาแฟร้อนยังร้อนอยู่ ระวังนะ",
+            "en": "The hot coffee is still hot, be careful.",
+            "audio_src": "กาแฟร้อนยังร้อนอยู่ ระวังนะ",
+            "audio_en_src": "The hot coffee is still hot, be careful."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-091",
@@ -110878,7 +111049,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กินยา",
-    "audio_en_src": "to take medicine"
+    "audio_en_src": "to take medicine",
+    "examples": [
+      {
+        "meaning": "to take medicine",
+        "sentences": [
+          {
+            "thai": "อย่าลืมกินยาหลังอาหาร",
+            "en": "Don't forget to take your medicine after meals.",
+            "audio_src": "อย่าลืมกินยาหลังอาหาร",
+            "audio_en_src": "Don't forget to take your medicine after meals."
+          },
+          {
+            "thai": "ไม่สบายก็กินยาแล้วนอนพัก",
+            "en": "If you're sick, take medicine and rest.",
+            "audio_src": "ไม่สบายก็กินยาแล้วนอนพัก",
+            "audio_en_src": "If you're sick, take medicine and rest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-092",

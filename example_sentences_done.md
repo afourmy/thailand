@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1011 words**
+**Total: 1021 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1014,4 +1014,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-089` : กาแฟเย็น (iced coffee) : 1 meaning(s), 2 sentences
 - `wlt-c17-090` : กาแฟร้อน (hot coffee) : 1 meaning(s), 2 sentences
 - `wlt-c17-091` : กินยา (to take medicine) : 1 meaning(s), 2 sentences
+- `wlt-c17-092` : กินเล่น (to snack) : 1 meaning(s), 2 sentences
+- `wlt-c17-095` : กี่ปี (how many years?) : 1 meaning(s), 2 sentences
+- `wlt-c17-096` : กี่วัน (how many days?) : 1 meaning(s), 2 sentences
+- `wlt-c17-097` : ใกล้ๆ (nearby, close) : 1 meaning(s), 2 sentences
+- `wlt-c18-009` : ชาวต่างชาติ, คนต่างประเทศ (foreigner) : 1 meaning(s), 2 sentences
+- `wlt-c18-016` : ครั้งนี้ (this time) : 1 meaning(s), 2 sentences
+- `wlt-c18-022` : แค่ (just, only) : 1 meaning(s), 2 sentences
+- `wlt-c18-027` : เจ็บคอ (sore throat) : 1 meaning(s), 2 sentences
+- `wlt-c18-030` : ฉีดยา (to get an injection) : 1 meaning(s), 2 sentences
+- `wlt-c18-031` : ช่วยด้วย (help!) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

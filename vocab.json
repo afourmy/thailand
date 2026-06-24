@@ -111082,7 +111082,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กินเล่น",
-    "audio_en_src": "to snack"
+    "audio_en_src": "to snack",
+    "examples": [
+      {
+        "meaning": "to snack",
+        "sentences": [
+          {
+            "thai": "ตอนบ่ายชอบหาอะไรกินเล่น",
+            "en": "In the afternoon I like to find something to snack on.",
+            "audio_src": "ตอนบ่ายชอบหาอะไรกินเล่น",
+            "audio_en_src": "In the afternoon I like to find something to snack on."
+          },
+          {
+            "thai": "มีขนมกินเล่นไหม",
+            "en": "Do you have any snacks?",
+            "audio_src": "มีขนมกินเล่นไหม",
+            "audio_en_src": "Do you have any snacks?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-094",
@@ -111106,7 +111125,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กี่ปี",
-    "audio_en_src": "how many years?"
+    "audio_en_src": "how many years?",
+    "examples": [
+      {
+        "meaning": "how many years?",
+        "sentences": [
+          {
+            "thai": "คุณอยู่ที่นี่มากี่ปีแล้ว",
+            "en": "How many years have you lived here?",
+            "audio_src": "คุณอยู่ที่นี่มากี่ปีแล้ว",
+            "audio_en_src": "How many years have you lived here?"
+          },
+          {
+            "thai": "เรียนภาษาไทยมากี่ปีแล้ว",
+            "en": "How many years have you been studying Thai?",
+            "audio_src": "เรียนภาษาไทยมากี่ปีแล้ว",
+            "audio_en_src": "How many years have you been studying Thai?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-096",
@@ -111120,7 +111158,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กี่วัน",
-    "audio_en_src": "how many days?"
+    "audio_en_src": "how many days?",
+    "examples": [
+      {
+        "meaning": "how many days?",
+        "sentences": [
+          {
+            "thai": "คุณจะอยู่ที่นี่กี่วัน",
+            "en": "How many days will you stay here?",
+            "audio_src": "คุณจะอยู่ที่นี่กี่วัน",
+            "audio_en_src": "How many days will you stay here?"
+          },
+          {
+            "thai": "เหลืออีกกี่วันจะถึงวันหยุด",
+            "en": "How many days until the holiday?",
+            "audio_src": "เหลืออีกกี่วันจะถึงวันหยุด",
+            "audio_en_src": "How many days until the holiday?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-097",
@@ -111134,7 +111191,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใกล้ๆ",
-    "audio_en_src": "nearby, close"
+    "audio_en_src": "nearby, close",
+    "examples": [
+      {
+        "meaning": "nearby, close",
+        "sentences": [
+          {
+            "thai": "บ้านฉันอยู่ใกล้ๆนี่เอง",
+            "en": "My house is just nearby.",
+            "audio_src": "บ้านฉันอยู่ใกล้ๆนี่เอง",
+            "audio_en_src": "My house is just nearby."
+          },
+          {
+            "thai": "มีร้านกาแฟใกล้ๆไหม",
+            "en": "Is there a coffee shop nearby?",
+            "audio_src": "มีร้านกาแฟใกล้ๆไหม",
+            "audio_en_src": "Is there a coffee shop nearby?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-000",
@@ -111219,7 +111295,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชาวต่างชาติ, คนต่างประเทศ",
-    "audio_en_src": "foreigner"
+    "audio_en_src": "foreigner",
+    "examples": [
+      {
+        "meaning": "foreigner",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีชาวต่างชาติมาเยอะ",
+            "en": "Lots of foreigners come to this shop.",
+            "audio_src": "ร้านนี้มีชาวต่างชาติมาเยอะ",
+            "audio_en_src": "Lots of foreigners come to this shop."
+          },
+          {
+            "thai": "คนต่างประเทศหลายคนชอบอาหารไทย",
+            "en": "Many foreigners like Thai food.",
+            "audio_src": "คนต่างประเทศหลายคนชอบอาหารไทย",
+            "audio_en_src": "Many foreigners like Thai food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-013",
@@ -111253,7 +111348,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครั้งนี้",
-    "audio_en_src": "this time"
+    "audio_en_src": "this time",
+    "examples": [
+      {
+        "meaning": "this time",
+        "sentences": [
+          {
+            "thai": "ครั้งนี้ฉันจะตั้งใจกว่าเดิม",
+            "en": "This time I'll try harder than before.",
+            "audio_src": "ครั้งนี้ฉันจะตั้งใจกว่าเดิม",
+            "audio_en_src": "This time I'll try harder than before."
+          },
+          {
+            "thai": "ครั้งนี้เธอทำถูกแล้ว",
+            "en": "You got it right this time.",
+            "audio_src": "ครั้งนี้เธอทำถูกแล้ว",
+            "audio_en_src": "You got it right this time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-017",
@@ -111299,7 +111413,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แค่",
-    "audio_en_src": "just, only"
+    "audio_en_src": "just, only",
+    "examples": [
+      {
+        "meaning": "just, only",
+        "sentences": [
+          {
+            "thai": "ฉันแค่อยากคุยกับเธอ",
+            "en": "I just want to talk to you.",
+            "audio_src": "ฉันแค่อยากคุยกับเธอ",
+            "audio_en_src": "I just want to talk to you."
+          },
+          {
+            "thai": "เหลือเงินแค่ร้อยเดียว",
+            "en": "I only have a hundred baht left.",
+            "audio_src": "เหลือเงินแค่ร้อยเดียว",
+            "audio_en_src": "I only have a hundred baht left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-023",
@@ -111344,7 +111477,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจ็บคอ",
-    "audio_en_src": "sore throat"
+    "audio_en_src": "sore throat",
+    "examples": [
+      {
+        "meaning": "sore throat",
+        "sentences": [
+          {
+            "thai": "วันนี้เจ็บคอ พูดไม่ค่อยได้",
+            "en": "I have a sore throat today, I can barely talk.",
+            "audio_src": "วันนี้เจ็บคอ พูดไม่ค่อยได้",
+            "audio_en_src": "I have a sore throat today, I can barely talk."
+          },
+          {
+            "thai": "เจ็บคอแบบนี้ควรดื่มน้ำอุ่น",
+            "en": "With a sore throat like this, you should drink warm water.",
+            "audio_src": "เจ็บคอแบบนี้ควรดื่มน้ำอุ่น",
+            "audio_en_src": "With a sore throat like this, you should drink warm water."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-030",
@@ -111358,7 +111510,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฉีดยา",
-    "audio_en_src": "to get an injection"
+    "audio_en_src": "to get an injection",
+    "examples": [
+      {
+        "meaning": "to get an injection",
+        "sentences": [
+          {
+            "thai": "หมอจะฉีดยาให้หน่อยนะ",
+            "en": "The doctor will give you a shot.",
+            "audio_src": "หมอจะฉีดยาให้หน่อยนะ",
+            "audio_en_src": "The doctor will give you a shot."
+          },
+          {
+            "thai": "กลัวฉีดยาตั้งแต่เด็ก",
+            "en": "I've been scared of injections since I was a kid.",
+            "audio_src": "กลัวฉีดยาตั้งแต่เด็ก",
+            "audio_en_src": "I've been scared of injections since I was a kid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-031",
@@ -111372,7 +111543,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่วยด้วย",
-    "audio_en_src": "help!"
+    "audio_en_src": "help!",
+    "examples": [
+      {
+        "meaning": "help!",
+        "sentences": [
+          {
+            "thai": "ช่วยด้วย มีคนตกน้ำ",
+            "en": "Help! Someone fell in the water.",
+            "audio_src": "ช่วยด้วย มีคนตกน้ำ",
+            "audio_en_src": "Help! Someone fell in the water."
+          },
+          {
+            "thai": "ช่วยด้วยครับ ผมหาทางออกไม่เจอ",
+            "en": "Help, I can't find the way out.",
+            "audio_src": "ช่วยด้วยครับ ผมหาทางออกไม่เจอ",
+            "audio_en_src": "Help, I can't find the way out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-032",
