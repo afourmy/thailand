@@ -109283,7 +109283,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พฤษภาคม",
-    "audio_en_src": "May"
+    "audio_en_src": "May",
+    "examples": [
+      {
+        "meaning": "May",
+        "sentences": [
+          {
+            "thai": "วันเกิดฉันอยู่ในเดือนพฤษภาคม",
+            "en": "My birthday is in May.",
+            "audio_src": "วันเกิดฉันอยู่ในเดือนพฤษภาคม",
+            "audio_en_src": "My birthday is in May."
+          },
+          {
+            "thai": "เดือนพฤษภาคมฝนเริ่มตก",
+            "en": "It starts raining in May.",
+            "audio_src": "เดือนพฤษภาคมฝนเริ่มตก",
+            "audio_en_src": "It starts raining in May."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-029",
@@ -109298,7 +109317,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พี่",
-    "audio_en_src": "I, he, she, you, brother, sister"
+    "audio_en_src": "I, he, she, you, brother, sister",
+    "examples": [
+      {
+        "meaning": "(someone older) I, he, she, you, brother, sister",
+        "sentences": [
+          {
+            "thai": "พี่ชายฉันทำงานที่กรุงเทพ",
+            "en": "My older brother works in Bangkok.",
+            "audio_src": "พี่ชายฉันทำงานที่กรุงเทพ",
+            "audio_en_src": "My older brother works in Bangkok."
+          },
+          {
+            "thai": "พี่ครับ คิดเงินด้วย",
+            "en": "Excuse me, the check please.",
+            "audio_src": "พี่ครับ คิดเงินด้วย",
+            "audio_en_src": "Excuse me, the check please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-031",
@@ -109313,7 +109351,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ภายใน",
-    "audio_en_src": "within"
+    "audio_en_src": "within",
+    "examples": [
+      {
+        "meaning": "within",
+        "sentences": [
+          {
+            "thai": "งานต้องเสร็จภายในวันนี้",
+            "en": "The work has to be done by today.",
+            "audio_src": "งานต้องเสร็จภายในวันนี้",
+            "audio_en_src": "The work has to be done by today."
+          },
+          {
+            "thai": "เขาจะกลับมาภายในห้านาที",
+            "en": "He'll be back within five minutes.",
+            "audio_src": "เขาจะกลับมาภายในห้านาที",
+            "audio_en_src": "He'll be back within five minutes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-032",
@@ -109328,7 +109385,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ภาษา",
-    "audio_en_src": "language"
+    "audio_en_src": "language",
+    "examples": [
+      {
+        "meaning": "language",
+        "sentences": [
+          {
+            "thai": "เธอพูดได้กี่ภาษา",
+            "en": "How many languages do you speak?",
+            "audio_src": "เธอพูดได้กี่ภาษา",
+            "audio_en_src": "How many languages do you speak?"
+          },
+          {
+            "thai": "ภาษาไทยอ่านยากมาก",
+            "en": "Thai is really hard to read.",
+            "audio_src": "ภาษาไทยอ่านยากมาก",
+            "audio_en_src": "Thai is really hard to read."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-033",
@@ -109344,7 +109420,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มอง",
-    "audio_en_src": "to look, to gaze"
+    "audio_en_src": "to look, to gaze",
+    "examples": [
+      {
+        "meaning": "to look, to gaze",
+        "sentences": [
+          {
+            "thai": "เขามองออกไปนอกหน้าต่าง",
+            "en": "He looked out the window.",
+            "audio_src": "เขามองออกไปนอกหน้าต่าง",
+            "audio_en_src": "He looked out the window."
+          },
+          {
+            "thai": "อย่ามองฉันแบบนั้น",
+            "en": "Don't look at me like that.",
+            "audio_src": "อย่ามองฉันแบบนั้น",
+            "audio_en_src": "Don't look at me like that."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-034",
@@ -109359,7 +109454,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ม้า",
-    "audio_en_src": "horse"
+    "audio_en_src": "horse",
+    "examples": [
+      {
+        "meaning": "horse",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบขี่ม้า",
+            "en": "The kids love riding horses.",
+            "audio_src": "เด็กๆชอบขี่ม้า",
+            "audio_en_src": "The kids love riding horses."
+          },
+          {
+            "thai": "ม้าตัวนั้นวิ่งเร็วมาก",
+            "en": "That horse runs really fast.",
+            "audio_src": "ม้าตัวนั้นวิ่งเร็วมาก",
+            "audio_en_src": "That horse runs really fast."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-035",
@@ -109374,7 +109488,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มืด",
-    "audio_en_src": "dark"
+    "audio_en_src": "dark",
+    "examples": [
+      {
+        "meaning": "dark",
+        "sentences": [
+          {
+            "thai": "ข้างนอกมืดแล้ว เปิดไฟหน่อย",
+            "en": "It's dark outside, turn on the light.",
+            "audio_src": "ข้างนอกมืดแล้ว เปิดไฟหน่อย",
+            "audio_en_src": "It's dark outside, turn on the light."
+          },
+          {
+            "thai": "ห้องนี้มืดเกินไป",
+            "en": "This room is too dark.",
+            "audio_src": "ห้องนี้มืดเกินไป",
+            "audio_en_src": "This room is too dark."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-036",
@@ -109388,7 +109521,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อวาน",
-    "audio_en_src": "yesterday"
+    "audio_en_src": "yesterday",
+    "examples": [
+      {
+        "meaning": "yesterday",
+        "sentences": [
+          {
+            "thai": "เมื่อวานฝนตกทั้งวัน",
+            "en": "It rained all day yesterday.",
+            "audio_src": "เมื่อวานฝนตกทั้งวัน",
+            "audio_en_src": "It rained all day yesterday."
+          },
+          {
+            "thai": "เมื่อวานนี้ฉันเจอเขาที่ตลาด",
+            "en": "I saw him at the market yesterday.",
+            "audio_src": "เมื่อวานนี้ฉันเจอเขาที่ตลาด",
+            "audio_en_src": "I saw him at the market yesterday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-037",
@@ -109403,7 +109555,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แม่",
-    "audio_en_src": "mother"
+    "audio_en_src": "mother",
+    "examples": [
+      {
+        "meaning": "mother",
+        "sentences": [
+          {
+            "thai": "แม่ทำกับข้าวอร่อยมาก",
+            "en": "My mom cooks really well.",
+            "audio_src": "แม่ทำกับข้าวอร่อยมาก",
+            "audio_en_src": "My mom cooks really well."
+          },
+          {
+            "thai": "ฉันโทรหาแม่ทุกวัน",
+            "en": "I call my mom every day.",
+            "audio_src": "ฉันโทรหาแม่ทุกวัน",
+            "audio_en_src": "I call my mom every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-038",
@@ -109418,7 +109589,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แม่น้ำ",
-    "audio_en_src": "river"
+    "audio_en_src": "river",
+    "examples": [
+      {
+        "meaning": "river",
+        "sentences": [
+          {
+            "thai": "แม่น้ำสายนี้ยาวมาก",
+            "en": "This river is very long.",
+            "audio_src": "แม่น้ำสายนี้ยาวมาก",
+            "audio_en_src": "This river is very long."
+          },
+          {
+            "thai": "เด็กๆเล่นน้ำในแม่น้ำ",
+            "en": "The kids are swimming in the river.",
+            "audio_src": "เด็กๆเล่นน้ำในแม่น้ำ",
+            "audio_en_src": "The kids are swimming in the river."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-039",

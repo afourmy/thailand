@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 971 words**
+**Total: 981 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -974,4 +974,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-036` : เมื่อวาน (นี้) (yesterday) : 1 meaning(s), 2 sentences
 - `wlt-c17-037` : แม่ (mother) : 1 meaning(s), 2 sentences
 - `wlt-c17-038` : แม่น้ำ (river) : 1 meaning(s), 2 sentences
+- `wlt-c17-039` : แมว (cat) : 1 meaning(s), 2 sentences
+- `wlt-c17-042` : ยัง (still, not yet) : 1 meaning(s), 2 sentences
+- `wlt-c17-043` : รถไฟ (train) : 1 meaning(s), 2 sentences
+- `wlt-c17-045` : รัก (to love) : 1 meaning(s), 2 sentences
+- `wlt-c17-047` : ร้านอาหาร (restaurant) : 1 meaning(s), 2 sentences
+- `wlt-c17-048` : เรียก (to call) : 1 meaning(s), 2 sentences
+- `wlt-c17-049` : แรก, ที่หนึ่ง (first) : 1 meaning(s), 2 sentences
+- `wlt-c17-051` : ลง (to go down, to get off) : 1 meaning(s), 2 sentences
+- `wlt-c17-052` : ลม (wind, air, breeze) : 1 meaning(s), 2 sentences
+- `wlt-c17-053` : เลี้ยว (to turn) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
