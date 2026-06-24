@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 941 words**
+**Total: 951 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -944,4 +944,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-001` : ทอง, ทองคำ (gold) : 1 meaning(s), 2 sentences
 - `wlt-c17-002` : ทะเล (sea) : 1 meaning(s), 2 sentences
 - `wlt-c17-003` : เท้า (foot) : 1 meaning(s), 2 sentences
+- `wlt-c17-005` : น้อง ((someone younger) I, he, she, you, brother, sister) : 1 meaning(s), 2 sentences
+- `wlt-c17-006` : นอน, นอนหลับ (to sleep) : 1 meaning(s), 2 sentences
+- `wlt-c17-007` : นาที (minute) : 1 meaning(s), 2 sentences
+- `wlt-c17-008` : น่ารัก (lovable, cute) : 1 meaning(s), 2 sentences
+- `wlt-c17-009` : นาฬิกา (watch, clock, hour (time)) : 1 meaning(s), 2 sentences
+- `wlt-c17-010` : น้ำ (water) : 1 meaning(s), 2 sentences
+- `wlt-c17-012` : บน (above, on top of) : 1 meaning(s), 2 sentences
+- `wlt-c17-013` : บอก (to tell) : 1 meaning(s), 2 sentences
+- `wlt-c17-014` : บิน (to fly) : 1 meaning(s), 2 sentences
+- `wlt-c17-015` : บุหรี่ (cigarette) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

@@ -108576,7 +108576,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้อง",
-    "audio_en_src": "I, he, she, you, brother, sister"
+    "audio_en_src": "I, he, she, you, brother, sister",
+    "examples": [
+      {
+        "meaning": "(someone younger) I, he, she, you, brother, sister",
+        "sentences": [
+          {
+            "thai": "น้องของฉันยังเรียนอยู่",
+            "en": "My younger sister is still in school.",
+            "audio_src": "น้องของฉันยังเรียนอยู่",
+            "audio_en_src": "My younger sister is still in school."
+          },
+          {
+            "thai": "น้องอยากกินอะไรครับ",
+            "en": "What would you like to eat?",
+            "audio_src": "น้องอยากกินอะไรครับ",
+            "audio_en_src": "What would you like to eat?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-006",
@@ -108591,7 +108610,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นอน, นอนหลับ",
-    "audio_en_src": "to sleep"
+    "audio_en_src": "to sleep",
+    "examples": [
+      {
+        "meaning": "to sleep",
+        "sentences": [
+          {
+            "thai": "เด็กๆนอนตั้งแต่สามทุ่ม",
+            "en": "The kids go to bed at nine.",
+            "audio_src": "เด็กๆนอนตั้งแต่สามทุ่ม",
+            "audio_en_src": "The kids go to bed at nine."
+          },
+          {
+            "thai": "เมื่อคืนนอนหลับสบายมาก",
+            "en": "I slept really well last night.",
+            "audio_src": "เมื่อคืนนอนหลับสบายมาก",
+            "audio_en_src": "I slept really well last night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-007",
@@ -108606,7 +108644,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นาที",
-    "audio_en_src": "minute"
+    "audio_en_src": "minute",
+    "examples": [
+      {
+        "meaning": "minute",
+        "sentences": [
+          {
+            "thai": "ขอเวลาอีกห้านาที",
+            "en": "Give me five more minutes.",
+            "audio_src": "ขอเวลาอีกห้านาที",
+            "audio_en_src": "Give me five more minutes."
+          },
+          {
+            "thai": "รถไฟจะมาในอีกสองนาที",
+            "en": "The train comes in two minutes.",
+            "audio_src": "รถไฟจะมาในอีกสองนาที",
+            "audio_en_src": "The train comes in two minutes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-008",
@@ -108621,7 +108678,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่ารัก",
-    "audio_en_src": "lovable, cute"
+    "audio_en_src": "lovable, cute",
+    "examples": [
+      {
+        "meaning": "lovable, cute",
+        "sentences": [
+          {
+            "thai": "หมาตัวนี้น่ารักมาก",
+            "en": "This dog is so cute.",
+            "audio_src": "หมาตัวนี้น่ารักมาก",
+            "audio_en_src": "This dog is so cute."
+          },
+          {
+            "thai": "เค้าเป็นคนน่ารัก ใครๆก็ชอบ",
+            "en": "She's lovely, everyone likes her.",
+            "audio_src": "เค้าเป็นคนน่ารัก ใครๆก็ชอบ",
+            "audio_en_src": "She's lovely, everyone likes her."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-009",
@@ -108636,7 +108712,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นาฬิกา",
-    "audio_en_src": "watch, clock, hour"
+    "audio_en_src": "watch, clock, hour",
+    "examples": [
+      {
+        "meaning": "watch, clock, hour (time)",
+        "sentences": [
+          {
+            "thai": "นาฬิกาเรือนนี้สวยมาก",
+            "en": "This watch is really nice.",
+            "audio_src": "นาฬิกาเรือนนี้สวยมาก",
+            "audio_en_src": "This watch is really nice."
+          },
+          {
+            "thai": "นาฬิกาบนผนังตายแล้ว",
+            "en": "The clock on the wall has stopped.",
+            "audio_src": "นาฬิกาบนผนังตายแล้ว",
+            "audio_en_src": "The clock on the wall has stopped."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-010",
@@ -108651,7 +108746,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำ",
-    "audio_en_src": "water"
+    "audio_en_src": "water",
+    "examples": [
+      {
+        "meaning": "water",
+        "sentences": [
+          {
+            "thai": "ขอน้ำเปล่าแก้วนึง",
+            "en": "Can I have a glass of water?",
+            "audio_src": "ขอน้ำเปล่าแก้วนึง",
+            "audio_en_src": "Can I have a glass of water?"
+          },
+          {
+            "thai": "อากาศร้อน ดื่มน้ำเยอะๆนะ",
+            "en": "It's hot out, drink lots of water.",
+            "audio_src": "อากาศร้อน ดื่มน้ำเยอะๆนะ",
+            "audio_en_src": "It's hot out, drink lots of water."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-012",
@@ -108666,7 +108780,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บน",
-    "audio_en_src": "above, on top of"
+    "audio_en_src": "above, on top of",
+    "examples": [
+      {
+        "meaning": "above, on top of",
+        "sentences": [
+          {
+            "thai": "แมวนอนอยู่บนโซฟา",
+            "en": "The cat is lying on the sofa.",
+            "audio_src": "แมวนอนอยู่บนโซฟา",
+            "audio_en_src": "The cat is lying on the sofa."
+          },
+          {
+            "thai": "กระเป๋าอยู่บนเตียง",
+            "en": "The bag is on the bed.",
+            "audio_src": "กระเป๋าอยู่บนเตียง",
+            "audio_en_src": "The bag is on the bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-013",
@@ -108681,7 +108814,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บอก",
-    "audio_en_src": "to tell"
+    "audio_en_src": "to tell",
+    "examples": [
+      {
+        "meaning": "to tell",
+        "sentences": [
+          {
+            "thai": "บอกฉันหน่อยว่าเกิดอะไรขึ้น",
+            "en": "Tell me what happened.",
+            "audio_src": "บอกฉันหน่อยว่าเกิดอะไรขึ้น",
+            "audio_en_src": "Tell me what happened."
+          },
+          {
+            "thai": "อย่าบอกใครนะ เป็นความลับ",
+            "en": "Don't tell anyone, it's a secret.",
+            "audio_src": "อย่าบอกใครนะ เป็นความลับ",
+            "audio_en_src": "Don't tell anyone, it's a secret."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-014",
@@ -108696,7 +108848,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บิน",
-    "audio_en_src": "to fly"
+    "audio_en_src": "to fly",
+    "examples": [
+      {
+        "meaning": "to fly",
+        "sentences": [
+          {
+            "thai": "นกบินสูงมาก",
+            "en": "The bird flies really high.",
+            "audio_src": "นกบินสูงมาก",
+            "audio_en_src": "The bird flies really high."
+          },
+          {
+            "thai": "พรุ่งนี้เราบินไปญี่ปุ่น",
+            "en": "We fly to Japan tomorrow.",
+            "audio_src": "พรุ่งนี้เราบินไปญี่ปุ่น",
+            "audio_en_src": "We fly to Japan tomorrow."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-015",
@@ -108711,7 +108882,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บุหรี่",
-    "audio_en_src": "cigarette"
+    "audio_en_src": "cigarette",
+    "examples": [
+      {
+        "meaning": "cigarette",
+        "sentences": [
+          {
+            "thai": "ที่นี่ห้ามสูบบุหรี่",
+            "en": "No smoking here.",
+            "audio_src": "ที่นี่ห้ามสูบบุหรี่",
+            "audio_en_src": "No smoking here."
+          },
+          {
+            "thai": "เขาเลิกสูบบุหรี่แล้ว",
+            "en": "He's quit smoking.",
+            "audio_src": "เขาเลิกสูบบุหรี่แล้ว",
+            "audio_en_src": "He's quit smoking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-016",
