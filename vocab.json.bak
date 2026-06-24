@@ -93889,7 +93889,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลาก่อน",
-    "audio_en_src": "goodbye, farewell"
+    "audio_en_src": "goodbye, farewell",
+    "examples": [
+      {
+        "meaning": "goodbye, farewell",
+        "sentences": [
+          {
+            "thai": "ลาก่อนนะ ไว้เจอกันใหม่",
+            "en": "Goodbye, see you again.",
+            "audio_src": "ลาก่อนนะ ไว้เจอกันใหม่",
+            "audio_en_src": "Goodbye, see you again."
+          },
+          {
+            "thai": "ถึงเวลาต้องลาก่อนแล้ว",
+            "en": "It's time to say goodbye.",
+            "audio_src": "ถึงเวลาต้องลาก่อนแล้ว",
+            "audio_en_src": "It's time to say goodbye."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-099",
@@ -93978,7 +93997,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลี้ยวขวา",
-    "audio_en_src": "to turn right"
+    "audio_en_src": "to turn right",
+    "examples": [
+      {
+        "meaning": "to turn right",
+        "sentences": [
+          {
+            "thai": "เลี้ยวขวาตรงสี่แยกหน้า",
+            "en": "Turn right at the next intersection.",
+            "audio_src": "เลี้ยวขวาตรงสี่แยกหน้า",
+            "audio_en_src": "Turn right at the next intersection."
+          },
+          {
+            "thai": "ขับตรงไปแล้วเลี้ยวขวา",
+            "en": "Go straight, then turn right.",
+            "audio_src": "ขับตรงไปแล้วเลี้ยวขวา",
+            "audio_en_src": "Go straight, then turn right."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-008",
@@ -93992,7 +94030,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลี้ยวซ้าย",
-    "audio_en_src": "to turn left"
+    "audio_en_src": "to turn left",
+    "examples": [
+      {
+        "meaning": "to turn left",
+        "sentences": [
+          {
+            "thai": "เลี้ยวซ้ายเข้าซอยแรก",
+            "en": "Turn left into the first soi.",
+            "audio_src": "เลี้ยวซ้ายเข้าซอยแรก",
+            "audio_en_src": "Turn left into the first soi."
+          },
+          {
+            "thai": "ถึงไฟแดงให้เลี้ยวซ้าย",
+            "en": "At the red light, turn left.",
+            "audio_src": "ถึงไฟแดงให้เลี้ยวซ้าย",
+            "audio_en_src": "At the red light, turn left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-009",
@@ -94018,7 +94075,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แล้วแต่",
-    "audio_en_src": "depending on"
+    "audio_en_src": "depending on",
+    "examples": [
+      {
+        "meaning": "depending on",
+        "sentences": [
+          {
+            "thai": "จะไปหรือไม่ไปก็แล้วแต่เธอ",
+            "en": "Whether to go or not is up to you.",
+            "audio_src": "จะไปหรือไม่ไปก็แล้วแต่เธอ",
+            "audio_en_src": "Whether to go or not is up to you."
+          },
+          {
+            "thai": "ราคาแล้วแต่ขนาด",
+            "en": "The price depends on the size.",
+            "audio_src": "ราคาแล้วแต่ขนาด",
+            "audio_en_src": "The price depends on the size."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-011",
@@ -94054,7 +94130,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันพฤหัสบดี",
-    "audio_en_src": "Thursday"
+    "audio_en_src": "Thursday",
+    "examples": [
+      {
+        "meaning": "Thursday (formal)",
+        "sentences": [
+          {
+            "thai": "วันพฤหัสบดีฉันมีเรียนภาษาไทย",
+            "en": "On Thursday I have Thai class.",
+            "audio_src": "วันพฤหัสบดีฉันมีเรียนภาษาไทย",
+            "audio_en_src": "On Thursday I have Thai class."
+          },
+          {
+            "thai": "ร้านปิดทุกวันพฤหัสบดี",
+            "en": "The shop is closed every Thursday.",
+            "audio_src": "ร้านปิดทุกวันพฤหัสบดี",
+            "audio_en_src": "The shop is closed every Thursday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-014",
@@ -94232,7 +94327,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สลัด, ยำสลัด",
-    "audio_en_src": "salad"
+    "audio_en_src": "salad",
+    "examples": [
+      {
+        "meaning": "salad",
+        "sentences": [
+          {
+            "thai": "ฉันสั่งสลัดผักเป็นอาหารเย็น",
+            "en": "I ordered a vegetable salad for dinner.",
+            "audio_src": "ฉันสั่งสลัดผักเป็นอาหารเย็น",
+            "audio_en_src": "I ordered a vegetable salad for dinner."
+          },
+          {
+            "thai": "สลัดจานนี้น้ำสลัดอร่อยมาก",
+            "en": "The dressing on this salad is really good.",
+            "audio_src": "สลัดจานนี้น้ำสลัดอร่อยมาก",
+            "audio_en_src": "The dressing on this salad is really good."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-033",
@@ -94342,7 +94456,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิ่ง, สิ่งของ",
-    "audio_en_src": "thing"
+    "audio_en_src": "thing",
+    "examples": [
+      {
+        "meaning": "thing",
+        "sentences": [
+          {
+            "thai": "มีหลายสิ่งที่ฉันอยากบอก",
+            "en": "There are many things I want to say.",
+            "audio_src": "มีหลายสิ่งที่ฉันอยากบอก",
+            "audio_en_src": "There are many things I want to say."
+          },
+          {
+            "thai": "เก็บสิ่งของให้เรียบร้อยก่อนออกไป",
+            "en": "Put your things away before you go out.",
+            "audio_src": "เก็บสิ่งของให้เรียบร้อยก่อนออกไป",
+            "audio_en_src": "Put your things away before you go out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-045",
@@ -94376,7 +94509,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบสอง",
-    "audio_en_src": "twelve"
+    "audio_en_src": "twelve",
+    "examples": [
+      {
+        "meaning": "twelve (12)",
+        "sentences": [
+          {
+            "thai": "หนึ่งปีมีสิบสองเดือน",
+            "en": "There are twelve months in a year.",
+            "audio_src": "หนึ่งปีมีสิบสองเดือน",
+            "audio_en_src": "There are twelve months in a year."
+          },
+          {
+            "thai": "เที่ยงคือสิบสองนาฬิกา",
+            "en": "Noon is twelve o'clock.",
+            "audio_src": "เที่ยงคือสิบสองนาฬิกา",
+            "audio_en_src": "Noon is twelve o'clock."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-048",
@@ -94390,7 +94542,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบเอ็ด",
-    "audio_en_src": "eleven"
+    "audio_en_src": "eleven",
+    "examples": [
+      {
+        "meaning": "eleven (11)",
+        "sentences": [
+          {
+            "thai": "ตอนนี้เกือบสิบเอ็ดโมงแล้ว",
+            "en": "It's almost eleven o'clock now.",
+            "audio_src": "ตอนนี้เกือบสิบเอ็ดโมงแล้ว",
+            "audio_en_src": "It's almost eleven o'clock now."
+          },
+          {
+            "thai": "ทีมฟุตบอลมีผู้เล่นสิบเอ็ดคน",
+            "en": "A football team has eleven players.",
+            "audio_src": "ทีมฟุตบอลมีผู้เล่นสิบเอ็ดคน",
+            "audio_en_src": "A football team has eleven players."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-049",
@@ -94414,7 +94585,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สี่สิบ",
-    "audio_en_src": "forty"
+    "audio_en_src": "forty",
+    "examples": [
+      {
+        "meaning": "forty (40)",
+        "sentences": [
+          {
+            "thai": "แม่ฉันอายุสี่สิบ",
+            "en": "My mom is forty.",
+            "audio_src": "แม่ฉันอายุสี่สิบ",
+            "audio_en_src": "My mom is forty."
+          },
+          {
+            "thai": "เสื้อตัวนี้ลดเหลือสี่สิบบาท",
+            "en": "This shirt is marked down to forty baht.",
+            "audio_src": "เสื้อตัวนี้ลดเหลือสี่สิบบาท",
+            "audio_en_src": "This shirt is marked down to forty baht."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-053",
