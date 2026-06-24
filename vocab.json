@@ -50,7 +50,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มื้อ",
-    "audio_en_src": "meal"
+    "audio_en_src": "meal",
+    "examples": [
+      {
+        "meaning": "meal",
+        "sentences": [
+          {
+            "thai": "วันนี้กินข้าวกี่มื้อ",
+            "en": "How many meals did you eat today?",
+            "audio_src": "วันนี้กินข้าวกี่มื้อ",
+            "audio_en_src": "How many meals did you eat today?"
+          },
+          {
+            "thai": "มื้อเย็นกินอะไรดี",
+            "en": "What should we have for dinner?",
+            "audio_src": "มื้อเย็นกินอะไรดี",
+            "audio_en_src": "What should we have for dinner?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-005",
@@ -90,7 +109,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เครียด",
-    "audio_en_src": "stressed"
+    "audio_en_src": "stressed",
+    "examples": [
+      {
+        "meaning": "stressed",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ทำงานเครียดมาก",
+            "en": "Work is really stressful these days.",
+            "audio_src": "ช่วงนี้ทำงานเครียดมาก",
+            "audio_en_src": "Work is really stressful these days."
+          },
+          {
+            "thai": "อย่าเครียดไปเลย เดี๋ยวก็ผ่านไป",
+            "en": "Don’t be so stressed, it’ll pass.",
+            "audio_src": "อย่าเครียดไปเลย เดี๋ยวก็ผ่านไป",
+            "audio_en_src": "Don’t be so stressed, it’ll pass."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-008",
@@ -1603,7 +1641,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจ็บ",
-    "audio_en_src": "to hurt, to be sore"
+    "audio_en_src": "to hurt, to be sore",
+    "examples": [
+      {
+        "meaning": "to hurt, to be sore (e.g external pain, injury)",
+        "sentences": [
+          {
+            "thai": "ระวังนะ เดี๋ยวเจ็บ",
+            "en": "Be careful, you’ll get hurt.",
+            "audio_src": "ระวังนะ เดี๋ยวเจ็บ",
+            "audio_en_src": "Be careful, you’ll get hurt."
+          },
+          {
+            "thai": "หกล้มเข่าเจ็บ",
+            "en": "I fell and my knee hurts.",
+            "audio_src": "หกล้มเข่าเจ็บ",
+            "audio_en_src": "I fell and my knee hurts."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-149",
@@ -1619,7 +1676,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปวด",
-    "audio_en_src": "to ache"
+    "audio_en_src": "to ache",
+    "examples": [
+      {
+        "meaning": "to ache (e.g internal pain)",
+        "sentences": [
+          {
+            "thai": "ปวดหัวมากเลยวันนี้",
+            "en": "I have a bad headache today.",
+            "audio_src": "ปวดหัวมากเลยวันนี้",
+            "audio_en_src": "I have a bad headache today."
+          },
+          {
+            "thai": "กินยาแก้ปวดหรือยัง",
+            "en": "Have you taken painkillers yet?",
+            "audio_src": "กินยาแก้ปวดหรือยัง",
+            "audio_en_src": "Have you taken painkillers yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-150",
@@ -5176,7 +5252,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ของขวัญ",
-    "audio_en_src": "gift, present"
+    "audio_en_src": "gift, present",
+    "examples": [
+      {
+        "meaning": "gift, present",
+        "sentences": [
+          {
+            "thai": "ซื้อของขวัญให้แม่หรือยัง",
+            "en": "Have you bought a gift for mom yet?",
+            "audio_src": "ซื้อของขวัญให้แม่หรือยัง",
+            "audio_en_src": "Have you bought a gift for mom yet?"
+          },
+          {
+            "thai": "นี่ของขวัญวันเกิดสำหรับเธอ",
+            "en": "This is a birthday present for you.",
+            "audio_src": "นี่ของขวัญวันเกิดสำหรับเธอ",
+            "audio_en_src": "This is a birthday present for you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-330",
@@ -6783,7 +6878,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กรอก",
-    "audio_en_src": "to fill in"
+    "audio_en_src": "to fill in",
+    "examples": [
+      {
+        "meaning": "to fill in (a form)",
+        "sentences": [
+          {
+            "thai": "กรอกแบบฟอร์มตรงนี้ด้วยนะ",
+            "en": "Please fill in the form here.",
+            "audio_src": "กรอกแบบฟอร์มตรงนี้ด้วยนะ",
+            "audio_en_src": "Please fill in the form here."
+          },
+          {
+            "thai": "กรอกชื่อกับเบอร์โทรด้วย",
+            "en": "Fill in your name and phone number too.",
+            "audio_src": "กรอกชื่อกับเบอร์โทรด้วย",
+            "audio_en_src": "Fill in your name and phone number too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-019",
@@ -8930,7 +9044,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เผ็ด",
-    "audio_en_src": "spicy"
+    "audio_en_src": "spicy",
+    "examples": [
+      {
+        "meaning": "spicy",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้เผ็ดมาก",
+            "en": "The food at this place is very spicy.",
+            "audio_src": "อาหารร้านนี้เผ็ดมาก",
+            "audio_en_src": "The food at this place is very spicy."
+          },
+          {
+            "thai": "ขอไม่เผ็ดได้ไหม",
+            "en": "Can I have it not spicy?",
+            "audio_src": "ขอไม่เผ็ดได้ไหม",
+            "audio_en_src": "Can I have it not spicy?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-214",
@@ -10778,7 +10911,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขนาด",
-    "audio_en_src": "size"
+    "audio_en_src": "size",
+    "examples": [
+      {
+        "meaning": "size",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้มีขนาดไหนบ้าง",
+            "en": "What sizes does this shirt come in?",
+            "audio_src": "เสื้อตัวนี้มีขนาดไหนบ้าง",
+            "audio_en_src": "What sizes does this shirt come in?"
+          },
+          {
+            "thai": "ขอขนาดใหญ่กว่านี้ได้ไหม",
+            "en": "Can I get a bigger size?",
+            "audio_src": "ขอขนาดใหญ่กว่านี้ได้ไหม",
+            "audio_en_src": "Can I get a bigger size?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-049",
@@ -11313,7 +11465,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คืน",
-    "audio_en_src": "to return"
+    "audio_en_src": "to return",
+    "examples": [
+      {
+        "meaning": "to return (something)",
+        "sentences": [
+          {
+            "thai": "อย่าลืมคืนหนังสือห้องสมุด",
+            "en": "Don’t forget to return the library book.",
+            "audio_src": "อย่าลืมคืนหนังสือห้องสมุด",
+            "audio_en_src": "Don’t forget to return the library book."
+          },
+          {
+            "thai": "ยืมเงินแล้วต้องคืนนะ",
+            "en": "If you borrow money, you have to return it.",
+            "audio_src": "ยืมเงินแล้วต้องคืนนะ",
+            "audio_en_src": "If you borrow money, you have to return it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-093",
@@ -11340,7 +11511,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คุ้ม",
-    "audio_en_src": "worthwhile, to be worth it"
+    "audio_en_src": "worthwhile, to be worth it",
+    "examples": [
+      {
+        "meaning": "worthwhile, to be worth it",
+        "sentences": [
+          {
+            "thai": "ราคานี้คุ้มมาก",
+            "en": "This price is totally worth it.",
+            "audio_src": "ราคานี้คุ้มมาก",
+            "audio_en_src": "This price is totally worth it."
+          },
+          {
+            "thai": "ซื้ออันนี้คุ้มกว่า",
+            "en": "Buying this one is better value.",
+            "audio_src": "ซื้ออันนี้คุ้มกว่า",
+            "audio_en_src": "Buying this one is better value."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-095",
