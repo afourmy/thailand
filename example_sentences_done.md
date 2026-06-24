@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 451 words**
+**Total: 461 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -452,6 +452,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-326` : แตก (broken, to break) : 1 meaning(s), 2 sentences
 - `tobo-327` : วันหยุด (vacation, holiday) : 1 meaning(s), 2 sentences
 - `tobo-342` : ปากกา (pen) : 1 meaning(s), 2 sentences
+- `tobo-348` : กระเป๋าตังค์, กระเป๋าสตางค์ (wallet) : 1 meaning(s), 2 sentences
+- `tobo-349` : อดีต (the past) : 1 meaning(s), 2 sentences
+- `tobo-366` : เต็ม (full) : 1 meaning(s), 2 sentences
+- `tobo-370` : คอ (neck) : 1 meaning(s), 2 sentences
+- `tobo-375` : ล้อเล่น (to joke, to kid around) : 1 meaning(s), 2 sentences
+- `tobo-379` : สัตว์เลี้ยง (pet) : 1 meaning(s), 2 sentences
+- `tobo-390` : หายใจ (to breathe) : 1 meaning(s), 2 sentences
+- `tobo-412` : โสด (single (unmarried)) : 1 meaning(s), 2 sentences
+- `tobo-414` : ห้องนั่งเล่น, ห้องรับแขก (living room) : 1 meaning(s), 2 sentences
+- `tobo-442` : มหาวิทยาลัย (university; campus) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

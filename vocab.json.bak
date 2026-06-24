@@ -58804,7 +58804,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีชมพู",
-    "audio_en_src": "pink"
+    "audio_en_src": "pink",
+    "examples": [
+      {
+        "meaning": "pink",
+        "sentences": [
+          {
+            "thai": "เธอชอบใส่เสื้อสีชมพู",
+            "en": "She likes wearing pink shirts.",
+            "audio_src": "เธอชอบใส่เสื้อสีชมพู",
+            "audio_en_src": "She likes wearing pink shirts."
+          },
+          {
+            "thai": "ดอกไม้สีชมพูสวยมาก",
+            "en": "The pink flowers are really pretty.",
+            "audio_src": "ดอกไม้สีชมพูสวยมาก",
+            "audio_en_src": "The pink flowers are really pretty."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-208",
@@ -58885,7 +58904,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อารมณ์",
-    "audio_en_src": "emotion, mood"
+    "audio_en_src": "emotion, mood",
+    "examples": [
+      {
+        "meaning": "emotion, mood",
+        "sentences": [
+          {
+            "thai": "วันนี้อารมณ์ดีเป็นพิเศษ",
+            "en": "I'm in an especially good mood today.",
+            "audio_src": "วันนี้อารมณ์ดีเป็นพิเศษ",
+            "audio_en_src": "I'm in an especially good mood today."
+          },
+          {
+            "thai": "เขาคุมอารมณ์ไม่ค่อยอยู่",
+            "en": "He can't really control his temper.",
+            "audio_src": "เขาคุมอารมณ์ไม่ค่อยอยู่",
+            "audio_en_src": "He can't really control his temper."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-215",
@@ -59057,7 +59095,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วัว",
-    "audio_en_src": "cow"
+    "audio_en_src": "cow",
+    "examples": [
+      {
+        "meaning": "cow",
+        "sentences": [
+          {
+            "thai": "วัวกินหญ้าอยู่ในทุ่ง",
+            "en": "The cows are grazing in the field.",
+            "audio_src": "วัวกินหญ้าอยู่ในทุ่ง",
+            "audio_en_src": "The cows are grazing in the field."
+          },
+          {
+            "thai": "ที่ฟาร์มมีวัวหลายตัว",
+            "en": "The farm has lots of cows.",
+            "audio_src": "ที่ฟาร์มมีวัวหลายตัว",
+            "audio_en_src": "The farm has lots of cows."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-233",
@@ -59184,7 +59241,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เส้น",
-    "audio_en_src": "line, thread, string"
+    "audio_en_src": "line, thread, string",
+    "examples": [
+      {
+        "meaning": "line, thread, string",
+        "sentences": [
+          {
+            "thai": "ขีดเส้นใต้คำสำคัญ",
+            "en": "Underline the important words.",
+            "audio_src": "ขีดเส้นใต้คำสำคัญ",
+            "audio_en_src": "Underline the important words."
+          },
+          {
+            "thai": "ขอก๋วยเตี๋ยวเส้นเล็กหนึ่งชาม",
+            "en": "One bowl of thin-noodle soup, please.",
+            "audio_src": "ขอก๋วยเตี๋ยวเส้นเล็กหนึ่งชาม",
+            "audio_en_src": "One bowl of thin-noodle soup, please."
+          },
+          {
+            "thai": "ผูกของด้วยเส้นเชือก",
+            "en": "Tie the things up with string.",
+            "audio_src": "ผูกของด้วยเส้นเชือก",
+            "audio_en_src": "Tie the things up with string."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-245",
@@ -59211,7 +59293,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จุด",
-    "audio_en_src": "point, dot, spot"
+    "audio_en_src": "point, dot, spot",
+    "examples": [
+      {
+        "meaning": "point, dot, spot",
+        "sentences": [
+          {
+            "thai": "มีจุดดำเล็กๆบนเสื้อ",
+            "en": "There's a little black spot on the shirt.",
+            "audio_src": "มีจุดดำเล็กๆบนเสื้อ",
+            "audio_en_src": "There's a little black spot on the shirt."
+          },
+          {
+            "thai": "ตรงนี้เป็นจุดนัดพบ",
+            "en": "This is the meeting point.",
+            "audio_src": "ตรงนี้เป็นจุดนัดพบ",
+            "audio_en_src": "This is the meeting point."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-247",
@@ -59714,7 +59815,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระทะ",
-    "audio_en_src": "pan, frying pan"
+    "audio_en_src": "pan, frying pan",
+    "examples": [
+      {
+        "meaning": "pan, frying pan",
+        "sentences": [
+          {
+            "thai": "ตั้งกระทะให้ร้อนก่อนใส่น้ำมัน",
+            "en": "Heat the pan before adding the oil.",
+            "audio_src": "ตั้งกระทะให้ร้อนก่อนใส่น้ำมัน",
+            "audio_en_src": "Heat the pan before adding the oil."
+          },
+          {
+            "thai": "ล้างกระทะให้สะอาดด้วยนะ",
+            "en": "Wash the pan well, too.",
+            "audio_src": "ล้างกระทะให้สะอาดด้วยนะ",
+            "audio_en_src": "Wash the pan well, too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-299",
@@ -59930,7 +60050,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เป้าหมาย",
-    "audio_en_src": "target, goal"
+    "audio_en_src": "target, goal",
+    "examples": [
+      {
+        "meaning": "target, goal",
+        "sentences": [
+          {
+            "thai": "เป้าหมายของฉันคือเรียนให้จบ",
+            "en": "My goal is to finish my studies.",
+            "audio_src": "เป้าหมายของฉันคือเรียนให้จบ",
+            "audio_en_src": "My goal is to finish my studies."
+          },
+          {
+            "thai": "ตั้งเป้าหมายไว้สูงหน่อย",
+            "en": "Set your goals a little high.",
+            "audio_src": "ตั้งเป้าหมายไว้สูงหน่อย",
+            "audio_en_src": "Set your goals a little high."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-320",
@@ -60011,7 +60150,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แตก",
-    "audio_en_src": "broken, to break"
+    "audio_en_src": "broken, to break",
+    "examples": [
+      {
+        "meaning": "broken, to break",
+        "sentences": [
+          {
+            "thai": "แก้วตกแตก",
+            "en": "The glass fell and broke.",
+            "audio_src": "แก้วตกแตก",
+            "audio_en_src": "The glass fell and broke."
+          },
+          {
+            "thai": "ระวังนะ ของแตกง่าย",
+            "en": "Be careful, it breaks easily.",
+            "audio_src": "ระวังนะ ของแตกง่าย",
+            "audio_en_src": "Be careful, it breaks easily."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-327",
@@ -60027,7 +60185,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันหยุด",
-    "audio_en_src": "vacation, holiday"
+    "audio_en_src": "vacation, holiday",
+    "examples": [
+      {
+        "meaning": "vacation, holiday",
+        "sentences": [
+          {
+            "thai": "วันหยุดนี้จะไปเที่ยวทะเล",
+            "en": "This holiday I'm going to the beach.",
+            "audio_src": "วันหยุดนี้จะไปเที่ยวทะเล",
+            "audio_en_src": "This holiday I'm going to the beach."
+          },
+          {
+            "thai": "พรุ่งนี้เป็นวันหยุด ไม่ต้องไปทำงาน",
+            "en": "Tomorrow's a holiday, no work.",
+            "audio_src": "พรุ่งนี้เป็นวันหยุด ไม่ต้องไปทำงาน",
+            "audio_en_src": "Tomorrow's a holiday, no work."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-328",
@@ -60185,7 +60362,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปากกา",
-    "audio_en_src": "pen"
+    "audio_en_src": "pen",
+    "examples": [
+      {
+        "meaning": "pen",
+        "sentences": [
+          {
+            "thai": "ปากกาด้ามนี้เขียนไม่ออก",
+            "en": "This pen won't write.",
+            "audio_src": "ปากกาด้ามนี้เขียนไม่ออก",
+            "audio_en_src": "This pen won't write."
+          },
+          {
+            "thai": "เซ็นชื่อด้วยปากกาสีน้ำเงิน",
+            "en": "Sign your name with a blue pen.",
+            "audio_src": "เซ็นชื่อด้วยปากกาสีน้ำเงิน",
+            "audio_en_src": "Sign your name with a blue pen."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-343",
