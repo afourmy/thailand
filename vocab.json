@@ -130516,6 +130516,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "to rain",
+        "sentences": [
+          {
+            "thai": "ฝนตกทั้งวันเลย",
+            "en": "It rained all day.",
+            "audio_src": "ฝนตกทั้งวันเลย",
+            "audio_en_src": "It rained all day."
+          },
+          {
+            "thai": "ถ้าฝนตก เราก็ไม่ไป",
+            "en": "If it rains, we won't go.",
+            "audio_src": "ถ้าฝนตก เราก็ไม่ไป",
+            "audio_en_src": "If it rains, we won't go."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130556,6 +130575,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "Muay Thai",
+        "sentences": [
+          {
+            "thai": "เขาชอบดูมวยไทย",
+            "en": "He likes watching Muay Thai.",
+            "audio_src": "เขาชอบดูมวยไทย",
+            "audio_en_src": "He likes watching Muay Thai."
+          },
+          {
+            "thai": "ฉันไปเรียนมวยไทยทุกอาทิตย์",
+            "en": "I go to Muay Thai classes every week.",
+            "audio_src": "ฉันไปเรียนมวยไทยทุกอาทิตย์",
+            "audio_en_src": "I go to Muay Thai classes every week."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130586,6 +130624,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "useful",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้มีประโยชน์มาก",
+            "en": "This book is very useful.",
+            "audio_src": "หนังสือเล่มนี้มีประโยชน์มาก",
+            "audio_en_src": "This book is very useful."
+          },
+          {
+            "thai": "การออกกำลังกายมีประโยชน์ต่อสุขภาพ",
+            "en": "Exercise is good for your health.",
+            "audio_src": "การออกกำลังกายมีประโยชน์ต่อสุขภาพ",
+            "audio_en_src": "Exercise is good for your health."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130706,6 +130763,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "elevator",
+        "sentences": [
+          {
+            "thai": "ลิฟต์เสีย ต้องเดินขึ้นบันได",
+            "en": "The elevator is broken, we have to take the stairs.",
+            "audio_src": "ลิฟต์เสีย ต้องเดินขึ้นบันได",
+            "audio_en_src": "The elevator is broken, we have to take the stairs."
+          },
+          {
+            "thai": "ขึ้นลิฟต์ไปชั้นห้า",
+            "en": "Take the elevator to the fifth floor.",
+            "audio_src": "ขึ้นลิฟต์ไปชั้นห้า",
+            "audio_en_src": "Take the elevator to the fifth floor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130806,6 +130882,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "to waste time",
+        "sentences": [
+          {
+            "thai": "อย่ามัวเสียเวลา รีบไปกันเถอะ",
+            "en": "Stop wasting time, let's hurry up.",
+            "audio_src": "อย่ามัวเสียเวลา รีบไปกันเถอะ",
+            "audio_en_src": "Stop wasting time, let's hurry up."
+          },
+          {
+            "thai": "รอนานมาก เสียเวลาจริงๆ",
+            "en": "Waiting so long is such a waste of time.",
+            "audio_src": "รอนานมาก เสียเวลาจริงๆ",
+            "audio_en_src": "Waiting so long is such a waste of time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130836,6 +130931,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "seafood",
+        "sentences": [
+          {
+            "thai": "ร้านนี้อาหารทะเลสดมาก",
+            "en": "The seafood at this place is really fresh.",
+            "audio_src": "ร้านนี้อาหารทะเลสดมาก",
+            "audio_en_src": "The seafood at this place is really fresh."
+          },
+          {
+            "thai": "ฉันแพ้อาหารทะเล",
+            "en": "I'm allergic to seafood.",
+            "audio_src": "ฉันแพ้อาหารทะเล",
+            "audio_en_src": "I'm allergic to seafood."
+          }
+        ]
+      }
     ]
   },
   {

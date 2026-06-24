@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1281 words**
+**Total: 1287 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1285,3 +1285,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-069` : ที่อื่น (elsewhere, somewhere else) : 1 meaning(s), 2 sentences
 - `exd-071` : นั่งรถ (to travel by car, to go by car) : 1 meaning(s), 2 sentences
 - `exd-076` : ปวดฉี่ (to need to urinate, to need to pee) : 1 meaning(s), 2 sentences
+- `exd-079` : ฝนตก (to rain) : 1 meaning(s), 2 sentences
+- `exd-083` : มวยไทย (Muay Thai) : 1 meaning(s), 2 sentences
+- `exd-086` : มีประโยชน์ (useful) : 1 meaning(s), 2 sentences
+- `exd-098` : ลิฟต์ (elevator) : 1 meaning(s), 2 sentences
+- `exd-108` : เสียเวลา (to waste time) : 1 meaning(s), 2 sentences
+- `exd-111` : อาหารทะเล (seafood) : 1 meaning(s), 2 sentences

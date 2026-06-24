@@ -129889,6 +129889,42 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "really, true",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้จริงๆนะ ไม่ได้โกหก",
+            "en": "This is really true, I'm not lying.",
+            "audio_src": "เรื่องนี้จริงๆนะ ไม่ได้โกหก",
+            "audio_en_src": "This is really true, I'm not lying."
+          },
+          {
+            "thai": "เขาเก่งจริงๆ",
+            "en": "He's really good.",
+            "audio_src": "เขาเก่งจริงๆ",
+            "audio_en_src": "He's really good."
+          }
+        ]
+      },
+      {
+        "meaning": "actually, in fact",
+        "sentences": [
+          {
+            "thai": "จริงๆแล้วฉันไม่อยากไป",
+            "en": "Actually, I don't want to go.",
+            "audio_src": "จริงๆแล้วฉันไม่อยากไป",
+            "audio_en_src": "Actually, I don't want to go."
+          },
+          {
+            "thai": "จริงๆฉันก็ไม่รู้เหมือนกัน",
+            "en": "In fact, I don't really know either.",
+            "audio_src": "จริงๆฉันก็ไม่รู้เหมือนกัน",
+            "audio_en_src": "In fact, I don't really know either."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129929,6 +129965,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "battery (loanword)",
+        "sentences": [
+          {
+            "thai": "แบตเตอรี่โทรศัพท์หมดแล้ว",
+            "en": "The phone battery is dead.",
+            "audio_src": "แบตเตอรี่โทรศัพท์หมดแล้ว",
+            "audio_en_src": "The phone battery is dead."
+          },
+          {
+            "thai": "แบตเตอรี่รถใหม่ใช้ได้นานกว่า",
+            "en": "The new car battery lasts longer.",
+            "audio_src": "แบตเตอรี่รถใหม่ใช้ได้นานกว่า",
+            "audio_en_src": "The new car battery lasts longer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129949,6 +130004,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "to go together",
+        "sentences": [
+          {
+            "thai": "เราไปด้วยกันนะ",
+            "en": "Let's go together.",
+            "audio_src": "เราไปด้วยกันนะ",
+            "audio_en_src": "Let's go together."
+          },
+          {
+            "thai": "พรุ่งนี้ไปด้วยกันไหม",
+            "en": "Want to go together tomorrow?",
+            "audio_src": "พรุ่งนี้ไปด้วยกันไหม",
+            "audio_en_src": "Want to go together tomorrow?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -130009,6 +130083,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "half an hour",
+        "sentences": [
+          {
+            "thai": "ฉันรอมาครึ่งชั่วโมงแล้ว",
+            "en": "I've been waiting for half an hour.",
+            "audio_src": "ฉันรอมาครึ่งชั่วโมงแล้ว",
+            "audio_en_src": "I've been waiting for half an hour."
+          },
+          {
+            "thai": "อีกครึ่งชั่วโมงเราจะถึง",
+            "en": "We'll arrive in half an hour.",
+            "audio_src": "อีกครึ่งชั่วโมงเราจะถึง",
+            "audio_en_src": "We'll arrive in half an hour."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130019,6 +130112,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "safety, security",
+        "sentences": [
+          {
+            "thai": "ความปลอดภัยสำคัญที่สุด",
+            "en": "Safety is the most important thing.",
+            "audio_src": "ความปลอดภัยสำคัญที่สุด",
+            "audio_en_src": "Safety is the most important thing."
+          },
+          {
+            "thai": "คาดเข็มขัดเพื่อความปลอดภัย",
+            "en": "Buckle up for safety.",
+            "audio_src": "คาดเข็มขัดเพื่อความปลอดภัย",
+            "audio_en_src": "Buckle up for safety."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130139,6 +130251,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "trash bin, garbage can",
+        "sentences": [
+          {
+            "thai": "ทิ้งขยะลงถังขยะด้วยนะ",
+            "en": "Please throw the trash in the bin.",
+            "audio_src": "ทิ้งขยะลงถังขยะด้วยนะ",
+            "audio_en_src": "Please throw the trash in the bin."
+          },
+          {
+            "thai": "ถังขยะเต็มแล้ว",
+            "en": "The trash bin is full.",
+            "audio_src": "ถังขยะเต็มแล้ว",
+            "audio_en_src": "The trash bin is full."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130189,6 +130320,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "to cook",
+        "sentences": [
+          {
+            "thai": "แม่กำลังทำอาหารอยู่",
+            "en": "Mom is cooking.",
+            "audio_src": "แม่กำลังทำอาหารอยู่",
+            "audio_en_src": "Mom is cooking."
+          },
+          {
+            "thai": "ฉันทำอาหารไม่เก่ง",
+            "en": "I'm not good at cooking.",
+            "audio_src": "ฉันทำอาหารไม่เก่ง",
+            "audio_en_src": "I'm not good at cooking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130209,6 +130359,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "elsewhere, somewhere else",
+        "sentences": [
+          {
+            "thai": "ร้านนี้เต็ม ไปที่อื่นกันเถอะ",
+            "en": "This place is full, let's go somewhere else.",
+            "audio_src": "ร้านนี้เต็ม ไปที่อื่นกันเถอะ",
+            "audio_en_src": "This place is full, let's go somewhere else."
+          },
+          {
+            "thai": "หาที่อื่นที่ถูกกว่านี้",
+            "en": "Find somewhere cheaper than this.",
+            "audio_src": "หาที่อื่นที่ถูกกว่านี้",
+            "audio_en_src": "Find somewhere cheaper than this."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130229,6 +130398,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "to travel by car, to go by car",
+        "sentences": [
+          {
+            "thai": "เรานั่งรถไปหาดใหญ่",
+            "en": "We went to Hat Yai by car.",
+            "audio_src": "เรานั่งรถไปหาดใหญ่",
+            "audio_en_src": "We went to Hat Yai by car."
+          },
+          {
+            "thai": "นั่งรถนานๆแล้วเมื่อย",
+            "en": "Riding in a car for a long time makes me stiff.",
+            "audio_src": "นั่งรถนานๆแล้วเมื่อย",
+            "audio_en_src": "Riding in a car for a long time makes me stiff."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130279,6 +130467,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "to need to urinate, to need to pee",
+        "sentences": [
+          {
+            "thai": "ฉันปวดฉี่ ขอเข้าห้องน้ำก่อน",
+            "en": "I need to pee, let me use the bathroom.",
+            "audio_src": "ฉันปวดฉี่ ขอเข้าห้องน้ำก่อน",
+            "audio_en_src": "I need to pee, let me use the bathroom."
+          },
+          {
+            "thai": "เด็กปวดฉี่ตอนกลางดึก",
+            "en": "The child needed to pee in the middle of the night.",
+            "audio_src": "เด็กปวดฉี่ตอนกลางดึก",
+            "audio_en_src": "The child needed to pee in the middle of the night."
+          }
+        ]
+      }
     ]
   },
   {
