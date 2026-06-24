@@ -114525,7 +114525,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต้อง",
-    "audio_en_src": "to have to, must"
+    "audio_en_src": "to have to, must",
+    "examples": [
+      {
+        "meaning": "to have to, must",
+        "sentences": [
+          {
+            "thai": "ฉันต้องไปทำงานแล้ว",
+            "en": "I have to go to work now.",
+            "audio_src": "ฉันต้องไปทำงานแล้ว",
+            "audio_en_src": "I have to go to work now."
+          },
+          {
+            "thai": "เธอต้องกินยาตรงเวลา",
+            "en": "You must take your medicine on time.",
+            "audio_src": "เธอต้องกินยาตรงเวลา",
+            "audio_en_src": "You must take your medicine on time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-018",
@@ -114540,7 +114559,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตัด",
-    "audio_en_src": "to cut"
+    "audio_en_src": "to cut",
+    "examples": [
+      {
+        "meaning": "to cut",
+        "sentences": [
+          {
+            "thai": "ฉันไปตัดผมมา",
+            "en": "I went and got a haircut.",
+            "audio_src": "ฉันไปตัดผมมา",
+            "audio_en_src": "I went and got a haircut."
+          },
+          {
+            "thai": "ช่วยตัดกระดาษเป็นสองส่วน",
+            "en": "Please cut the paper into two.",
+            "audio_src": "ช่วยตัดกระดาษเป็นสองส่วน",
+            "audio_en_src": "Please cut the paper into two."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-019",
@@ -114555,7 +114593,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตุลาคม",
-    "audio_en_src": "October"
+    "audio_en_src": "October",
+    "examples": [
+      {
+        "meaning": "October",
+        "sentences": [
+          {
+            "thai": "เดือนตุลาคมเริ่มหนาวแล้ว",
+            "en": "It starts getting cold in October.",
+            "audio_src": "เดือนตุลาคมเริ่มหนาวแล้ว",
+            "audio_en_src": "It starts getting cold in October."
+          },
+          {
+            "thai": "เขาจะแต่งงานเดือนตุลาคม",
+            "en": "He's getting married in October.",
+            "audio_src": "เขาจะแต่งงานเดือนตุลาคม",
+            "audio_en_src": "He's getting married in October."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-020",
@@ -114570,7 +114627,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เตี้ย",
-    "audio_en_src": "short"
+    "audio_en_src": "short",
+    "examples": [
+      {
+        "meaning": "short (in height)",
+        "sentences": [
+          {
+            "thai": "น้องชายฉันตัวเตี้ยกว่าฉัน",
+            "en": "My younger brother is shorter than me.",
+            "audio_src": "น้องชายฉันตัวเตี้ยกว่าฉัน",
+            "audio_en_src": "My younger brother is shorter than me."
+          },
+          {
+            "thai": "โต๊ะตัวนี้เตี้ยไปหน่อย",
+            "en": "This table is a bit too low.",
+            "audio_src": "โต๊ะตัวนี้เตี้ยไปหน่อย",
+            "audio_en_src": "This table is a bit too low."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-021",
@@ -114586,7 +114662,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่งงาน",
-    "audio_en_src": "to marry, married"
+    "audio_en_src": "to marry, married",
+    "examples": [
+      {
+        "meaning": "to marry, married",
+        "sentences": [
+          {
+            "thai": "เขาแต่งงานปีที่แล้ว",
+            "en": "He got married last year.",
+            "audio_src": "เขาแต่งงานปีที่แล้ว",
+            "audio_en_src": "He got married last year."
+          },
+          {
+            "thai": "เธอแต่งงานหรือยัง",
+            "en": "Are you married yet?",
+            "audio_src": "เธอแต่งงานหรือยัง",
+            "audio_en_src": "Are you married yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-022",
@@ -114612,7 +114707,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แท็กซี่",
-    "audio_en_src": "taxi"
+    "audio_en_src": "taxi",
+    "examples": [
+      {
+        "meaning": "taxi",
+        "sentences": [
+          {
+            "thai": "เรานั่งแท็กซี่ไปสนามบิน",
+            "en": "We took a taxi to the airport.",
+            "audio_src": "เรานั่งแท็กซี่ไปสนามบิน",
+            "audio_en_src": "We took a taxi to the airport."
+          },
+          {
+            "thai": "เรียกแท็กซี่ให้หน่อยได้ไหม",
+            "en": "Can you call a taxi for me?",
+            "audio_src": "เรียกแท็กซี่ให้หน่อยได้ไหม",
+            "audio_en_src": "Can you call a taxi for me?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-024",
@@ -114627,7 +114741,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ธนาคาร",
-    "audio_en_src": "bank"
+    "audio_en_src": "bank",
+    "examples": [
+      {
+        "meaning": "bank",
+        "sentences": [
+          {
+            "thai": "ธนาคารเปิดกี่โมง",
+            "en": "What time does the bank open?",
+            "audio_src": "ธนาคารเปิดกี่โมง",
+            "audio_en_src": "What time does the bank open?"
+          },
+          {
+            "thai": "ฉันต้องไปธนาคารฝากเงิน",
+            "en": "I need to go to the bank to deposit money.",
+            "audio_src": "ฉันต้องไปธนาคารฝากเงิน",
+            "audio_en_src": "I need to go to the bank to deposit money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-025",
@@ -114642,7 +114775,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ธันวาคม",
-    "audio_en_src": "December"
+    "audio_en_src": "December",
+    "examples": [
+      {
+        "meaning": "December",
+        "sentences": [
+          {
+            "thai": "เดือนธันวาคมอากาศหนาวมาก",
+            "en": "The weather is very cold in December.",
+            "audio_src": "เดือนธันวาคมอากาศหนาวมาก",
+            "audio_en_src": "The weather is very cold in December."
+          },
+          {
+            "thai": "คริสต์มาสอยู่ในเดือนธันวาคม",
+            "en": "Christmas is in December.",
+            "audio_src": "คริสต์มาสอยู่ในเดือนธันวาคม",
+            "audio_en_src": "Christmas is in December."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-026",
@@ -114657,7 +114809,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้อย",
-    "audio_en_src": "little, small"
+    "audio_en_src": "little, small",
+    "examples": [
+      {
+        "meaning": "little, small",
+        "sentences": [
+          {
+            "thai": "วันนี้กินข้าวน้อยไป",
+            "en": "I ate too little today.",
+            "audio_src": "วันนี้กินข้าวน้อยไป",
+            "audio_en_src": "I ate too little today."
+          },
+          {
+            "thai": "เหลือเงินน้อยมาก",
+            "en": "I have very little money left.",
+            "audio_src": "เหลือเงินน้อยมาก",
+            "audio_en_src": "I have very little money left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-029",
@@ -114672,7 +114843,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ้าน",
-    "audio_en_src": "house, home"
+    "audio_en_src": "house, home",
+    "examples": [
+      {
+        "meaning": "house, home",
+        "sentences": [
+          {
+            "thai": "บ้านของเขาใหญ่มาก",
+            "en": "His house is really big.",
+            "audio_src": "บ้านของเขาใหญ่มาก",
+            "audio_en_src": "His house is really big."
+          },
+          {
+            "thai": "ฉันอยากกลับบ้าน",
+            "en": "I want to go home.",
+            "audio_src": "ฉันอยากกลับบ้าน",
+            "audio_en_src": "I want to go home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-030",
