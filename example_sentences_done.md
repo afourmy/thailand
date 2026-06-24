@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 741 words**
+**Total: 751 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -743,5 +743,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-072` : เหมาะสม (appropriate) : 1 meaning(s), 2 sentences
 - `wlt-c12-074` : เหลือ (to be left over, remaining) : 1 meaning(s), 2 sentences
 - `wlt-c12-075` : แห้ง (dry) : 1 meaning(s), 2 sentences
+- `wlt-c12-077` : อธิบาย (to explain) : 1 meaning(s), 2 sentences
+- `wlt-c12-080` : อาจ, อาจจะ (may, might, maybe) : 1 meaning(s), 2 sentences
+- `wlt-c12-084` : อาหารเย็น (dinner) : 1 meaning(s), 2 sentences
+- `wlt-c12-093` : กลางวัน (during the day) : 1 meaning(s), 2 sentences
+- `wlt-c13-000` : โกหก (to lie) : 1 meaning(s), 2 sentences
+- `wlt-c13-001` : ของเขา (hers, his) : 1 meaning(s), 2 sentences
+- `wlt-c13-002` : ขอโทษ (excuse me, I'm sorry) : 1 meaning(s), 2 sentences
+- `wlt-c13-003` : ขอบคุณ (thank you) : 1 meaning(s), 2 sentences
+- `wlt-c13-005` : ขับรถ (to drive a car) : 1 meaning(s), 2 sentences
+- `wlt-c13-006` : ข้างหน้า (in front of, ahead) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

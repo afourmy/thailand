@@ -99720,7 +99720,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หน้าร้อน",
-    "audio_en_src": "hot season"
+    "audio_en_src": "hot season",
+    "examples": [
+      {
+        "meaning": "hot season",
+        "sentences": [
+          {
+            "thai": "หน้าร้อนเมืองไทยร้อนมาก",
+            "en": "Thailand's hot season is really hot.",
+            "audio_src": "หน้าร้อนเมืองไทยร้อนมาก",
+            "audio_en_src": "Thailand's hot season is really hot."
+          },
+          {
+            "thai": "หน้าร้อนฉันชอบกินไอติม",
+            "en": "In the hot season I like eating ice cream.",
+            "audio_src": "หน้าร้อนฉันชอบกินไอติม",
+            "audio_en_src": "In the hot season I like eating ice cream."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-056",
@@ -99734,7 +99753,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หน้าหนาว",
-    "audio_en_src": "cold season"
+    "audio_en_src": "cold season",
+    "examples": [
+      {
+        "meaning": "cold season",
+        "sentences": [
+          {
+            "thai": "หน้าหนาวทางเหนืออากาศเย็นสบาย",
+            "en": "In the cold season the north is pleasantly cool.",
+            "audio_src": "หน้าหนาวทางเหนืออากาศเย็นสบาย",
+            "audio_en_src": "In the cold season the north is pleasantly cool."
+          },
+          {
+            "thai": "หน้าหนาวต้องใส่เสื้อหนาๆ",
+            "en": "In the cold season you have to wear warm clothes.",
+            "audio_src": "หน้าหนาวต้องใส่เสื้อหนาๆ",
+            "audio_en_src": "In the cold season you have to wear warm clothes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-057",
@@ -99770,7 +99808,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หรือยัง",
-    "audio_en_src": "yet, have you... yet?"
+    "audio_en_src": "yet, have you... yet?",
+    "examples": [
+      {
+        "meaning": "yet (question word), have you... yet?",
+        "sentences": [
+          {
+            "thai": "กินข้าวหรือยัง",
+            "en": "Have you eaten yet?",
+            "audio_src": "กินข้าวหรือยัง",
+            "audio_en_src": "Have you eaten yet?"
+          },
+          {
+            "thai": "ทำการบ้านเสร็จหรือยัง",
+            "en": "Have you finished your homework yet?",
+            "audio_src": "ทำการบ้านเสร็จหรือยัง",
+            "audio_en_src": "Have you finished your homework yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-061",
@@ -99804,7 +99861,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห้องนอน",
-    "audio_en_src": "bedroom"
+    "audio_en_src": "bedroom",
+    "examples": [
+      {
+        "meaning": "bedroom",
+        "sentences": [
+          {
+            "thai": "ห้องนอนของฉันมีหน้าต่างใหญ่",
+            "en": "My bedroom has a big window.",
+            "audio_src": "ห้องนอนของฉันมีหน้าต่างใหญ่",
+            "audio_en_src": "My bedroom has a big window."
+          },
+          {
+            "thai": "เก็บห้องนอนให้เรียบร้อยด้วย",
+            "en": "Tidy up the bedroom too.",
+            "audio_src": "เก็บห้องนอนให้เรียบร้อยด้วย",
+            "audio_en_src": "Tidy up the bedroom too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-064",
@@ -99840,7 +99916,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หัก",
-    "audio_en_src": "to break, to fracture; to deduct, to subtract"
+    "audio_en_src": "to break, to fracture; to deduct, to subtract",
+    "examples": [
+      {
+        "meaning": "to break, to fracture",
+        "sentences": [
+          {
+            "thai": "เขาตกบันไดขาหัก",
+            "en": "He fell down the stairs and broke his leg.",
+            "audio_src": "เขาตกบันไดขาหัก",
+            "audio_en_src": "He fell down the stairs and broke his leg."
+          },
+          {
+            "thai": "กิ่งไม้หักเพราะลมแรง",
+            "en": "The branch broke off in the strong wind.",
+            "audio_src": "กิ่งไม้หักเพราะลมแรง",
+            "audio_en_src": "The branch broke off in the strong wind."
+          }
+        ]
+      },
+      {
+        "meaning": "to deduct, to subtract",
+        "sentences": [
+          {
+            "thai": "บริษัทหักภาษีจากเงินเดือน",
+            "en": "The company deducts tax from your salary.",
+            "audio_src": "บริษัทหักภาษีจากเงินเดือน",
+            "audio_en_src": "The company deducts tax from your salary."
+          },
+          {
+            "thai": "หักค่าใช้จ่ายแล้วเหลือเท่าไหร่",
+            "en": "After deducting expenses, how much is left?",
+            "audio_src": "หักค่าใช้จ่ายแล้วเหลือเท่าไหร่",
+            "audio_en_src": "After deducting expenses, how much is left?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-067",
@@ -99876,7 +99988,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เห็นด้วย",
-    "audio_en_src": "to agree"
+    "audio_en_src": "to agree",
+    "examples": [
+      {
+        "meaning": "to agree",
+        "sentences": [
+          {
+            "thai": "ฉันเห็นด้วยกับเธอ",
+            "en": "I agree with you.",
+            "audio_src": "ฉันเห็นด้วยกับเธอ",
+            "audio_en_src": "I agree with you."
+          },
+          {
+            "thai": "ทุกคนเห็นด้วยกับข้อเสนอนี้",
+            "en": "Everyone agrees with this proposal.",
+            "audio_src": "ทุกคนเห็นด้วยกับข้อเสนอนี้",
+            "audio_en_src": "Everyone agrees with this proposal."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-071",
@@ -99891,7 +100022,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหม็น",
-    "audio_en_src": "to smell bad"
+    "audio_en_src": "to smell bad",
+    "examples": [
+      {
+        "meaning": "to smell bad",
+        "sentences": [
+          {
+            "thai": "ถังขยะเหม็นมาก",
+            "en": "The trash bin smells terrible.",
+            "audio_src": "ถังขยะเหม็นมาก",
+            "audio_en_src": "The trash bin smells terrible."
+          },
+          {
+            "thai": "รองเท้าเปียกฝนแล้วเหม็น",
+            "en": "The shoes got wet in the rain and now they smell.",
+            "audio_src": "รองเท้าเปียกฝนแล้วเหม็น",
+            "audio_en_src": "The shoes got wet in the rain and now they smell."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-072",
@@ -99902,6 +100052,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "appropriate",
+        "sentences": [
+          {
+            "thai": "แต่งตัวให้เหมาะสมกับงาน",
+            "en": "Dress appropriately for the occasion.",
+            "audio_src": "แต่งตัวให้เหมาะสมกับงาน",
+            "audio_en_src": "Dress appropriately for the occasion."
+          },
+          {
+            "thai": "ราคานี้เหมาะสมกับคุณภาพ",
+            "en": "This price is appropriate for the quality.",
+            "audio_src": "ราคานี้เหมาะสมกับคุณภาพ",
+            "audio_en_src": "This price is appropriate for the quality."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99928,7 +100097,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหลือ",
-    "audio_en_src": "to be left over, remaining"
+    "audio_en_src": "to be left over, remaining",
+    "examples": [
+      {
+        "meaning": "to be left over, remaining",
+        "sentences": [
+          {
+            "thai": "กินไม่หมด เหลือไว้พรุ่งนี้",
+            "en": "I can't finish it, let's leave the rest for tomorrow.",
+            "audio_src": "กินไม่หมด เหลือไว้พรุ่งนี้",
+            "audio_en_src": "I can't finish it, let's leave the rest for tomorrow."
+          },
+          {
+            "thai": "เงินเหลือแค่ร้อยเดียว",
+            "en": "I only have a hundred baht left.",
+            "audio_src": "เงินเหลือแค่ร้อยเดียว",
+            "audio_en_src": "I only have a hundred baht left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-075",
@@ -99943,7 +100131,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แห้ง",
-    "audio_en_src": "dry"
+    "audio_en_src": "dry",
+    "examples": [
+      {
+        "meaning": "dry",
+        "sentences": [
+          {
+            "thai": "ผ้าตากแดดแห้งเร็ว",
+            "en": "Clothes dry fast in the sun.",
+            "audio_src": "ผ้าตากแดดแห้งเร็ว",
+            "audio_en_src": "Clothes dry fast in the sun."
+          },
+          {
+            "thai": "หน้าหนาวผิวแห้งมาก",
+            "en": "In winter my skin gets really dry.",
+            "audio_src": "หน้าหนาวผิวแห้งมาก",
+            "audio_en_src": "In winter my skin gets really dry."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-077",
