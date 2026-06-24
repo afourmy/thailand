@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 191 words**
+**Total: 211 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -190,6 +190,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-620` : โมโห (angry, furious) : 1 meaning(s), 2 sentences
 - `tamago-l12-623` : โล (kilo (colloquial short form of kilogram)) : 1 meaning(s), 2 sentences
 - `tamago-l12-630` : ใส่ (to put in, to wear, to insert) : 1 meaning(s), 3 sentences
+- `tamago-l12-631` : ใส่...เพิ่ม (to add more (of something)) : 1 meaning(s), 2 sentences
+- `tamago-l12-632` : ไข่คน, ไข่กวน (scrambled egg) : 1 meaning(s), 2 sentences
+- `tamago-l12-633` : ไข่ดาว (fried egg (sunny-side-up)) : 1 meaning(s), 2 sentences
+- `tamago-l12-634` : ไข่ต้ม (hard-boiled egg) : 1 meaning(s), 2 sentences
+- `tamago-l12-635` : ไข่เจียว (Thai omelette) : 1 meaning(s), 2 sentences
+- `tamago-l12-640` : ไม่กี่ (not many, a few) : 1 meaning(s), 2 sentences
+- `tamago-l12-643` : ไม่งั้น (otherwise, if not) : 1 meaning(s), 2 sentences
+- `tamago-l12-645` : ไม่มีทาง ('no way!', impossible) : 1 meaning(s), 2 sentences
+- `tamago-l12-654` : ไหน (where; which) : 2 meaning(s), 4 sentences
+- `tamago-l12-657` : ไอ้ ((slang) rude pronoun marker for males) : 1 meaning(s), 2 sentences
+- `thai9k-019` : หัวหอม (onion) : 1 meaning(s), 2 sentences
+- `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
+- `tamago-l3-006` : ใช้ได้ (good quality, 'okay', decent, usable) : 1 meaning(s), 2 sentences
+- `tamago-l3-007` : ไม่น่าเลย ('that's too bad', 'that's unfortunate') : 1 meaning(s), 2 sentences
+- `tamago-l3-019` : สูตร (recipe; formula) : 2 meaning(s), 4 sentences
+- `tamago-l3-021` : ตั้ง (to set up, to arrange, established; up to, as much as) : 2 meaning(s), 4 sentences
+- `tamago-l3-035` : โปรด (favorite) : 1 meaning(s), 2 sentences
+- `tamago-l3-036` : คุ้น, คุ้นเคย, คุ้นชิน (familiar, recognizable; to be familiar with, used to) : 2 meaning(s), 4 sentences
+- `tamago-l3-038` : แย่แล้ว ('oh shoot', 'oh no') : 1 meaning(s), 2 sentences
+- `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
