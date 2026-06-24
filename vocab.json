@@ -10983,7 +10983,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าม",
-    "audio_en_src": "to cross, pass over; to skip"
+    "audio_en_src": "to cross, pass over; to skip",
+    "examples": [
+      {
+        "meaning": "to cross, pass over",
+        "sentences": [
+          {
+            "thai": "ข้ามถนนระวังรถด้วยนะ",
+            "en": "Cross the road carefully."
+          },
+          {
+            "thai": "เราข้ามสะพานไปอีกฝั่ง",
+            "en": "We crossed the bridge to the other side."
+          }
+        ]
+      },
+      {
+        "meaning": "to skip",
+        "sentences": [
+          {
+            "thai": "วันนี้ขอข้ามมื้อเช้า",
+            "en": "Today I’ll skip breakfast."
+          },
+          {
+            "thai": "อ่านข้ามบทนี้ไปก่อน",
+            "en": "Skip this chapter for now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-070",
@@ -11196,7 +11224,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คิด",
-    "audio_en_src": "to think; to charge"
+    "audio_en_src": "to think; to charge",
+    "examples": [
+      {
+        "meaning": "to think",
+        "sentences": [
+          {
+            "thai": "คุณคิดยังไงกับเรื่องนี้",
+            "en": "What do you think about this?"
+          },
+          {
+            "thai": "ขอเวลาคิดแป๊บนึง",
+            "en": "Give me a moment to think."
+          }
+        ]
+      },
+      {
+        "meaning": "to charge (a price)",
+        "sentences": [
+          {
+            "thai": "ร้านนี้คิดค่าส่งเท่าไหร่",
+            "en": "How much does this shop charge for delivery?"
+          },
+          {
+            "thai": "คิดเงินด้วยครับ",
+            "en": "Check, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-090",
@@ -12777,7 +12833,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นิ้ว",
-    "audio_en_src": "inch; finger"
+    "audio_en_src": "inch; finger",
+    "examples": [
+      {
+        "meaning": "inch",
+        "sentences": [
+          {
+            "thai": "ทีวีเครื่องนี้ 40 นิ้ว",
+            "en": "This TV is 40 inches."
+          },
+          {
+            "thai": "หน้าจอ 6 นิ้วกำลังดี",
+            "en": "A 6-inch screen is just right."
+          }
+        ]
+      },
+      {
+        "meaning": "finger",
+        "sentences": [
+          {
+            "thai": "เขาใส่แหวนที่นิ้ว",
+            "en": "He wears a ring on his finger."
+          },
+          {
+            "thai": "ฉันชี้นิ้วไปที่รูป",
+            "en": "I pointed my finger at the picture."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-232",
@@ -13739,7 +13823,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พิมพ์",
-    "audio_en_src": "to type; to print"
+    "audio_en_src": "to type; to print",
+    "examples": [
+      {
+        "meaning": "to type",
+        "sentences": [
+          {
+            "thai": "เขาพิมพ์เร็วมาก",
+            "en": "He types very fast."
+          },
+          {
+            "thai": "ช่วยพิมพ์ข้อความหาฉันหน่อย",
+            "en": "Please type me a message."
+          }
+        ]
+      },
+      {
+        "meaning": "to print",
+        "sentences": [
+          {
+            "thai": "ขอพิมพ์เอกสารแป๊บนึง",
+            "en": "Let me print the document for a sec."
+          },
+          {
+            "thai": "ฉันพิมพ์ตั๋วออกมาแล้ว",
+            "en": "I’ve printed out the ticket."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-320",
@@ -14104,7 +14216,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ย้าย",
-    "audio_en_src": "to move; to transfer"
+    "audio_en_src": "to move; to transfer",
+    "examples": [
+      {
+        "meaning": "to move (house)",
+        "sentences": [
+          {
+            "thai": "เดือนหน้าฉันจะย้ายบ้าน",
+            "en": "Next month I’ll move house."
+          },
+          {
+            "thai": "เขาย้ายไปอยู่เชียงใหม่",
+            "en": "He moved to Chiang Mai."
+          }
+        ]
+      },
+      {
+        "meaning": "to transfer (e.g files)",
+        "sentences": [
+          {
+            "thai": "ช่วยย้ายไฟล์ไปอีกโฟลเดอร์",
+            "en": "Please move the files to another folder."
+          },
+          {
+            "thai": "ฉันย้ายรูปไปไว้ในคอม",
+            "en": "I moved the photos onto the computer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-352",
@@ -14208,7 +14348,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รวม",
-    "audio_en_src": "to include, including; total"
+    "audio_en_src": "to include, including; total",
+    "examples": [
+      {
+        "meaning": "to include, including",
+        "sentences": [
+          {
+            "thai": "ราคานี้รวมภาษีแล้ว",
+            "en": "This price includes tax."
+          },
+          {
+            "thai": "ค่าเช่ารวมค่าน้ำค่าไฟไหม",
+            "en": "Does the rent include water and electricity?"
+          }
+        ]
+      },
+      {
+        "meaning": "total",
+        "sentences": [
+          {
+            "thai": "รวมทั้งหมดเท่าไหร่",
+            "en": "How much is it in total?"
+          },
+          {
+            "thai": "รวมแล้วได้ 500 บาท",
+            "en": "It comes to 500 baht in total."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-360",
@@ -14287,7 +14455,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รับ",
-    "audio_en_src": "to pick someone up; to receive"
+    "audio_en_src": "to pick someone up; to receive",
+    "examples": [
+      {
+        "meaning": "to pick someone up",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวไปรับที่สนามบินนะ",
+            "en": "I’ll go pick you up at the airport."
+          },
+          {
+            "thai": "แม่ไปรับลูกที่โรงเรียน",
+            "en": "Mom picks up the kids at school."
+          }
+        ]
+      },
+      {
+        "meaning": "to receive",
+        "sentences": [
+          {
+            "thai": "ฉันรับเงินเดือนทุกสิ้นเดือน",
+            "en": "I get my salary at the end of every month."
+          },
+          {
+            "thai": "รับพัสดุหรือยัง",
+            "en": "Have you received the parcel yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-367",
@@ -14537,7 +14733,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วง",
-    "audio_en_src": "musical band; circle"
+    "audio_en_src": "musical band; circle",
+    "examples": [
+      {
+        "meaning": "musical band",
+        "sentences": [
+          {
+            "thai": "วงนี้เล่นดนตรีเก่งมาก",
+            "en": "This band plays music really well."
+          },
+          {
+            "thai": "เขาอยู่วงเดียวกับฉัน",
+            "en": "He’s in the same band as me."
+          }
+        ]
+      },
+      {
+        "meaning": "circle",
+        "sentences": [
+          {
+            "thai": "มานั่งล้อมวงกินข้าวกัน",
+            "en": "Let’s sit in a circle and eat together."
+          },
+          {
+            "thai": "เด็กๆ จับมือกันเป็นวง",
+            "en": "The kids hold hands in a circle."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-389",
@@ -15020,7 +15244,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ส่ง",
-    "audio_en_src": "to send; to drop someone off"
+    "audio_en_src": "to send; to drop someone off",
+    "examples": [
+      {
+        "meaning": "to send",
+        "sentences": [
+          {
+            "thai": "ส่งอีเมลให้แล้วนะ",
+            "en": "I’ve sent you the email."
+          },
+          {
+            "thai": "ช่วยส่งเอกสารมาด้วย",
+            "en": "Please send the documents over."
+          }
+        ]
+      },
+      {
+        "meaning": "to drop someone off",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวไปส่งที่บ้านนะ",
+            "en": "I’ll drop you off at home."
+          },
+          {
+            "thai": "ขอไปส่งที่สถานีรถไฟ",
+            "en": "Drop me off at the train station, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-431",
@@ -15722,7 +15974,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกาะ",
-    "audio_en_src": "island; to cling, to hold on to"
+    "audio_en_src": "island; to cling, to hold on to",
+    "examples": [
+      {
+        "meaning": "island",
+        "sentences": [
+          {
+            "thai": "เกาะนี้สวยมาก",
+            "en": "This island is very beautiful."
+          },
+          {
+            "thai": "หน้าร้อนเราไปเที่ยวเกาะ",
+            "en": "In summer we go to the islands."
+          }
+        ]
+      },
+      {
+        "meaning": "to cling, to hold on to",
+        "sentences": [
+          {
+            "thai": "เด็กเกาะแขนแม่ไว้แน่น",
+            "en": "The child clings tightly to mom’s arm."
+          },
+          {
+            "thai": "เกาะราวบันไดไว้นะ",
+            "en": "Hold on to the handrail."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-492",
