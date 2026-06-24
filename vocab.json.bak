@@ -97134,7 +97134,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เที่ยงคืน",
-    "audio_en_src": "midnight"
+    "audio_en_src": "midnight",
+    "examples": [
+      {
+        "meaning": "midnight",
+        "sentences": [
+          {
+            "thai": "กว่าจะถึงบ้านก็เที่ยงคืน",
+            "en": "By the time I got home it was midnight.",
+            "audio_src": "กว่าจะถึงบ้านก็เที่ยงคืน",
+            "audio_en_src": "By the time I got home it was midnight."
+          },
+          {
+            "thai": "ร้านนี้เปิดถึงเที่ยงคืน",
+            "en": "This shop is open until midnight.",
+            "audio_src": "ร้านนี้เปิดถึงเที่ยงคืน",
+            "audio_en_src": "This shop is open until midnight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-003",
@@ -97149,7 +97168,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โทร",
-    "audio_en_src": "to call"
+    "audio_en_src": "to call",
+    "examples": [
+      {
+        "meaning": "to call (by phone)",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวฉันโทรหาทีหลัง",
+            "en": "I'll call you later.",
+            "audio_src": "เดี๋ยวฉันโทรหาทีหลัง",
+            "audio_en_src": "I'll call you later."
+          },
+          {
+            "thai": "โทรไปแล้วแต่ไม่มีคนรับ",
+            "en": "I called but no one answered.",
+            "audio_src": "โทรไปแล้วแต่ไม่มีคนรับ",
+            "audio_en_src": "I called but no one answered."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-004",
@@ -97213,6 +97251,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "writer",
+        "sentences": [
+          {
+            "thai": "เขาเป็นนักเขียนนิยายชื่อดัง",
+            "en": "He's a famous novelist.",
+            "audio_src": "เขาเป็นนักเขียนนิยายชื่อดัง",
+            "audio_en_src": "He's a famous novelist."
+          },
+          {
+            "thai": "ฉันอยากเป็นนักเขียนตั้งแต่เด็ก",
+            "en": "I've wanted to be a writer since I was a kid.",
+            "audio_src": "ฉันอยากเป็นนักเขียนตั้งแต่เด็ก",
+            "audio_en_src": "I've wanted to be a writer since I was a kid."
+          }
+        ]
+      }
     ]
   },
   {
@@ -97245,6 +97302,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "singer",
+        "sentences": [
+          {
+            "thai": "นักร้องคนนี้เสียงเพราะมาก",
+            "en": "This singer has a beautiful voice.",
+            "audio_src": "นักร้องคนนี้เสียงเพราะมาก",
+            "audio_en_src": "This singer has a beautiful voice."
+          },
+          {
+            "thai": "เธอฝันอยากเป็นนักร้อง",
+            "en": "She dreams of becoming a singer.",
+            "audio_src": "เธอฝันอยากเป็นนักร้อง",
+            "audio_en_src": "She dreams of becoming a singer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -97256,6 +97332,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to count",
+        "sentences": [
+          {
+            "thai": "ครูให้เด็กนับเลขหนึ่งถึงร้อย",
+            "en": "The teacher had the kids count from one to a hundred.",
+            "audio_src": "ครูให้เด็กนับเลขหนึ่งถึงร้อย",
+            "audio_en_src": "The teacher had the kids count from one to a hundred."
+          },
+          {
+            "thai": "นับเงินให้ดีก่อนจ่าย",
+            "en": "Count the money carefully before paying.",
+            "audio_src": "นับเงินให้ดีก่อนจ่าย",
+            "audio_en_src": "Count the money carefully before paying."
+          }
+        ]
+      }
     ]
   },
   {
@@ -97271,7 +97366,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่ากลัว",
-    "audio_en_src": "scary, frightening"
+    "audio_en_src": "scary, frightening",
+    "examples": [
+      {
+        "meaning": "scary, frightening",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้น่ากลัวมาก",
+            "en": "This movie is really scary.",
+            "audio_src": "หนังเรื่องนี้น่ากลัวมาก",
+            "audio_en_src": "This movie is really scary."
+          },
+          {
+            "thai": "ทางมืดๆตอนกลางคืนน่ากลัว",
+            "en": "Dark roads at night are scary.",
+            "audio_src": "ทางมืดๆตอนกลางคืนน่ากลัว",
+            "audio_en_src": "Dark roads at night are scary."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-017",
@@ -97303,6 +97417,42 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to bring",
+        "sentences": [
+          {
+            "thai": "อย่าลืมนำบัตรประชาชนมาด้วย",
+            "en": "Don't forget to bring your ID card.",
+            "audio_src": "อย่าลืมนำบัตรประชาชนมาด้วย",
+            "audio_en_src": "Don't forget to bring your ID card."
+          },
+          {
+            "thai": "เขานำของขวัญมาให้ฉัน",
+            "en": "He brought me a gift.",
+            "audio_src": "เขานำของขวัญมาให้ฉัน",
+            "audio_en_src": "He brought me a gift."
+          }
+        ]
+      },
+      {
+        "meaning": "to lead, to guide",
+        "sentences": [
+          {
+            "thai": "หัวหน้านำทีมไปสู่ความสำเร็จ",
+            "en": "The boss led the team to success.",
+            "audio_src": "หัวหน้านำทีมไปสู่ความสำเร็จ",
+            "audio_en_src": "The boss led the team to success."
+          },
+          {
+            "thai": "ไกด์นำนักท่องเที่ยวชมวัด",
+            "en": "The guide led the tourists around the temple.",
+            "audio_src": "ไกด์นำนักท่องเที่ยวชมวัด",
+            "audio_en_src": "The guide led the tourists around the temple."
+          }
+        ]
+      }
     ]
   },
   {
@@ -97324,6 +97474,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "weight",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้น้ำหนักฉันขึ้น",
+            "en": "I've gained weight lately.",
+            "audio_src": "ช่วงนี้น้ำหนักฉันขึ้น",
+            "audio_en_src": "I've gained weight lately."
+          },
+          {
+            "thai": "กระเป๋าใบนี้น้ำหนักเบาดี",
+            "en": "This bag is nice and light.",
+            "audio_src": "กระเป๋าใบนี้น้ำหนักเบาดี",
+            "audio_en_src": "This bag is nice and light."
+          }
+        ]
+      }
     ]
   },
   {
@@ -97334,6 +97503,25 @@
     "topic": "general",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "perfume",
+        "sentences": [
+          {
+            "thai": "เธอฉีดน้ำหอมกลิ่นหอมมาก",
+            "en": "She's wearing really nice-smelling perfume.",
+            "audio_src": "เธอฉีดน้ำหอมกลิ่นหอมมาก",
+            "audio_en_src": "She's wearing really nice-smelling perfume."
+          },
+          {
+            "thai": "เขาซื้อน้ำหอมเป็นของขวัญ",
+            "en": "He bought perfume as a gift.",
+            "audio_src": "เขาซื้อน้ำหอมเป็นของขวัญ",
+            "audio_en_src": "He bought perfume as a gift."
+          }
+        ]
+      }
     ]
   },
   {
@@ -97349,7 +97537,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นึก",
-    "audio_en_src": "to think"
+    "audio_en_src": "to think",
+    "examples": [
+      {
+        "meaning": "to think",
+        "sentences": [
+          {
+            "thai": "ฉันนึกไม่ออกว่าวางไว้ไหน",
+            "en": "I can't recall where I put it.",
+            "audio_src": "ฉันนึกไม่ออกว่าวางไว้ไหน",
+            "audio_en_src": "I can't recall where I put it."
+          },
+          {
+            "thai": "นึกว่าเป็นวันหยุด ที่แท้ต้องทำงาน",
+            "en": "I thought it was a holiday, but it turns out I have to work.",
+            "audio_src": "นึกว่าเป็นวันหยุด ที่แท้ต้องทำงาน",
+            "audio_en_src": "I thought it was a holiday, but it turns out I have to work."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-024",

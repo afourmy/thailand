@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 691 words**
+**Total: 701 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -693,5 +693,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-021` : น้ำหนัก (weight) : 1 meaning(s), 2 sentences
 - `wlt-c11-022` : น้ำหอม (perfume) : 1 meaning(s), 2 sentences
 - `wlt-c11-023` : นึก (to think) : 1 meaning(s), 2 sentences
+- `wlt-c11-025` : แน่ใจ (sure, certain) : 1 meaning(s), 2 sentences
+- `wlt-c11-027` : บ่อย, มัก (often) : 1 meaning(s), 2 sentences
+- `wlt-c11-029` : บ้า (crazy) : 1 meaning(s), 2 sentences
+- `wlt-c11-030` : บางครั้ง (sometimes) : 1 meaning(s), 2 sentences
+- `wlt-c11-034` : เบื่อ (bored) : 1 meaning(s), 2 sentences
+- `wlt-c11-036` : ใบขับขี่ (driver's license) : 1 meaning(s), 2 sentences
+- `wlt-c11-042` : ปลอดภัย (safe, out of danger) : 1 meaning(s), 2 sentences
+- `wlt-c11-044` : ป่วย (sick, ill) : 1 meaning(s), 2 sentences
+- `wlt-c11-045` : ปัญหา (problem, issue) : 1 meaning(s), 2 sentences
+- `wlt-c11-048` : เป็นหวัด (to have a cold) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

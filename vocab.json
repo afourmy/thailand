@@ -97581,7 +97581,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แน่ใจ",
-    "audio_en_src": "sure, certain"
+    "audio_en_src": "sure, certain",
+    "examples": [
+      {
+        "meaning": "sure, certain",
+        "sentences": [
+          {
+            "thai": "เธอแน่ใจนะว่าปิดไฟแล้ว",
+            "en": "Are you sure you turned off the lights?",
+            "audio_src": "เธอแน่ใจนะว่าปิดไฟแล้ว",
+            "audio_en_src": "Are you sure you turned off the lights?"
+          },
+          {
+            "thai": "ฉันไม่แน่ใจว่าเขาจะมาไหม",
+            "en": "I'm not sure if he'll come.",
+            "audio_src": "ฉันไม่แน่ใจว่าเขาจะมาไหม",
+            "audio_en_src": "I'm not sure if he'll come."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-026",
@@ -97608,7 +97627,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ่อย, มัก",
-    "audio_en_src": "often"
+    "audio_en_src": "often",
+    "examples": [
+      {
+        "meaning": "often",
+        "sentences": [
+          {
+            "thai": "เขามาสายบ่อย",
+            "en": "He's often late.",
+            "audio_src": "เขามาสายบ่อย",
+            "audio_en_src": "He's often late."
+          },
+          {
+            "thai": "คนแก่มักจะตื่นเช้า",
+            "en": "Older people often wake up early.",
+            "audio_src": "คนแก่มักจะตื่นเช้า",
+            "audio_en_src": "Older people often wake up early."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-028",
@@ -97634,7 +97672,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ้า",
-    "audio_en_src": "crazy"
+    "audio_en_src": "crazy",
+    "examples": [
+      {
+        "meaning": "crazy",
+        "sentences": [
+          {
+            "thai": "อย่าบ้าไปหน่อยเลย คิดดีๆ",
+            "en": "Don't be crazy, think it through.",
+            "audio_src": "อย่าบ้าไปหน่อยเลย คิดดีๆ",
+            "audio_en_src": "Don't be crazy, think it through."
+          },
+          {
+            "thai": "เขาบ้างานจนไม่มีเวลาพัก",
+            "en": "He's a workaholic, with no time to rest.",
+            "audio_src": "เขาบ้างานจนไม่มีเวลาพัก",
+            "audio_en_src": "He's a workaholic, with no time to rest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-030",
@@ -97648,7 +97705,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บางครั้ง",
-    "audio_en_src": "sometimes"
+    "audio_en_src": "sometimes",
+    "examples": [
+      {
+        "meaning": "sometimes",
+        "sentences": [
+          {
+            "thai": "บางครั้งฉันก็อยากอยู่คนเดียว",
+            "en": "Sometimes I just want to be alone.",
+            "audio_src": "บางครั้งฉันก็อยากอยู่คนเดียว",
+            "audio_en_src": "Sometimes I just want to be alone."
+          },
+          {
+            "thai": "เขาใจดี แต่บางครั้งก็ขี้โมโห",
+            "en": "He's kind, but sometimes he's short-tempered.",
+            "audio_src": "เขาใจดี แต่บางครั้งก็ขี้โมโห",
+            "audio_en_src": "He's kind, but sometimes he's short-tempered."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-031",
@@ -97696,7 +97772,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เบื่อ",
-    "audio_en_src": "bored"
+    "audio_en_src": "bored",
+    "examples": [
+      {
+        "meaning": "bored",
+        "sentences": [
+          {
+            "thai": "อยู่บ้านเฉยๆเบื่อจัง",
+            "en": "Staying home doing nothing is so boring.",
+            "audio_src": "อยู่บ้านเฉยๆเบื่อจัง",
+            "audio_en_src": "Staying home doing nothing is so boring."
+          },
+          {
+            "thai": "ฉันเริ่มเบื่ออาหารร้านนี้แล้ว",
+            "en": "I'm starting to get tired of this restaurant's food.",
+            "audio_src": "ฉันเริ่มเบื่ออาหารร้านนี้แล้ว",
+            "audio_en_src": "I'm starting to get tired of this restaurant's food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-035",
@@ -97721,7 +97816,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใบขับขี่",
-    "audio_en_src": "driver's license"
+    "audio_en_src": "driver's license",
+    "examples": [
+      {
+        "meaning": "driver's license",
+        "sentences": [
+          {
+            "thai": "ตำรวจขอดูใบขับขี่",
+            "en": "The police asked to see my driver's license.",
+            "audio_src": "ตำรวจขอดูใบขับขี่",
+            "audio_en_src": "The police asked to see my driver's license."
+          },
+          {
+            "thai": "เขาเพิ่งสอบใบขับขี่ผ่าน",
+            "en": "He just passed his driving test.",
+            "audio_src": "เขาเพิ่งสอบใบขับขี่ผ่าน",
+            "audio_en_src": "He just passed his driving test."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-037",
@@ -97778,6 +97892,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "safe, out of danger",
+        "sentences": [
+          {
+            "thai": "คาดเข็มขัดทุกครั้งเพื่อความปลอดภัย",
+            "en": "Always wear a seatbelt for safety.",
+            "audio_src": "คาดเข็มขัดทุกครั้งเพื่อความปลอดภัย",
+            "audio_en_src": "Always wear a seatbelt for safety."
+          },
+          {
+            "thai": "เดินทางถึงบ้านอย่างปลอดภัยแล้ว",
+            "en": "I got home safely.",
+            "audio_src": "เดินทางถึงบ้านอย่างปลอดภัยแล้ว",
+            "audio_en_src": "I got home safely."
+          }
+        ]
+      }
     ]
   },
   {
@@ -97803,7 +97936,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ป่วย",
-    "audio_en_src": "sick, ill"
+    "audio_en_src": "sick, ill",
+    "examples": [
+      {
+        "meaning": "sick, ill",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันป่วย ไม่ไปทำงาน",
+            "en": "I'm sick today, I'm not going to work.",
+            "audio_src": "วันนี้ฉันป่วย ไม่ไปทำงาน",
+            "audio_en_src": "I'm sick today, I'm not going to work."
+          },
+          {
+            "thai": "เขาป่วยหนักต้องนอนโรงพยาบาล",
+            "en": "He's seriously ill and has to stay in the hospital.",
+            "audio_src": "เขาป่วยหนักต้องนอนโรงพยาบาล",
+            "audio_en_src": "He's seriously ill and has to stay in the hospital."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-045",
@@ -97818,7 +97970,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปัญหา",
-    "audio_en_src": "problem, issue"
+    "audio_en_src": "problem, issue",
+    "examples": [
+      {
+        "meaning": "problem, issue",
+        "sentences": [
+          {
+            "thai": "มีปัญหาอะไรก็บอกได้นะ",
+            "en": "If there's any problem, just tell me.",
+            "audio_src": "มีปัญหาอะไรก็บอกได้นะ",
+            "audio_en_src": "If there's any problem, just tell me."
+          },
+          {
+            "thai": "เราช่วยกันแก้ปัญหาจนสำเร็จ",
+            "en": "We solved the problem together.",
+            "audio_src": "เราช่วยกันแก้ปัญหาจนสำเร็จ",
+            "audio_en_src": "We solved the problem together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-046",
@@ -97853,7 +98024,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เป็นหวัด",
-    "audio_en_src": "to have a cold"
+    "audio_en_src": "to have a cold",
+    "examples": [
+      {
+        "meaning": "to have a cold",
+        "sentences": [
+          {
+            "thai": "อากาศเย็นๆระวังเป็นหวัด",
+            "en": "It's chilly out, be careful not to catch a cold.",
+            "audio_src": "อากาศเย็นๆระวังเป็นหวัด",
+            "audio_en_src": "It's chilly out, be careful not to catch a cold."
+          },
+          {
+            "thai": "เป็นหวัดมาหลายวันแล้วยังไม่หาย",
+            "en": "I've had a cold for days and it's still not gone.",
+            "audio_src": "เป็นหวัดมาหลายวันแล้วยังไม่หาย",
+            "audio_en_src": "I've had a cold for days and it's still not gone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-049",
