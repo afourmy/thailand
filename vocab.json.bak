@@ -60429,7 +60429,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระเป๋าตังค์, กระเป๋าสตางค์",
-    "audio_en_src": "wallet"
+    "audio_en_src": "wallet",
+    "examples": [
+      {
+        "meaning": "wallet",
+        "sentences": [
+          {
+            "thai": "ลืมกระเป๋าตังค์ไว้ที่บ้าน",
+            "en": "I left my wallet at home.",
+            "audio_src": "ลืมกระเป๋าตังค์ไว้ที่บ้าน",
+            "audio_en_src": "I left my wallet at home."
+          },
+          {
+            "thai": "กระเป๋าตังค์ใบนี้ใส่บัตรได้เยอะ",
+            "en": "This wallet holds a lot of cards.",
+            "audio_src": "กระเป๋าตังค์ใบนี้ใส่บัตรได้เยอะ",
+            "audio_en_src": "This wallet holds a lot of cards."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-349",
@@ -60444,7 +60463,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อดีต",
-    "audio_en_src": "the past"
+    "audio_en_src": "the past",
+    "examples": [
+      {
+        "meaning": "the past",
+        "sentences": [
+          {
+            "thai": "อย่าไปคิดถึงอดีตมาก",
+            "en": "Don't dwell on the past too much.",
+            "audio_src": "อย่าไปคิดถึงอดีตมาก",
+            "audio_en_src": "Don't dwell on the past too much."
+          },
+          {
+            "thai": "เรื่องในอดีตก็ปล่อยมันไป",
+            "en": "Just let the past go.",
+            "audio_src": "เรื่องในอดีตก็ปล่อยมันไป",
+            "audio_en_src": "Just let the past go."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-350",
@@ -60618,7 +60656,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เต็ม",
-    "audio_en_src": "full"
+    "audio_en_src": "full",
+    "examples": [
+      {
+        "meaning": "full",
+        "sentences": [
+          {
+            "thai": "แก้วน้ำเต็มแล้ว",
+            "en": "The glass of water is full.",
+            "audio_src": "แก้วน้ำเต็มแล้ว",
+            "audio_en_src": "The glass of water is full."
+          },
+          {
+            "thai": "ร้านคนเต็มเลย ไม่มีที่นั่ง",
+            "en": "The restaurant is packed, there are no seats.",
+            "audio_src": "ร้านคนเต็มเลย ไม่มีที่นั่ง",
+            "audio_en_src": "The restaurant is packed, there are no seats."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-367",
@@ -60666,7 +60723,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คอ",
-    "audio_en_src": "neck"
+    "audio_en_src": "neck",
+    "examples": [
+      {
+        "meaning": "neck",
+        "sentences": [
+          {
+            "thai": "นอนผิดท่าเลยปวดคอ",
+            "en": "I slept in a bad position, so now my neck hurts.",
+            "audio_src": "นอนผิดท่าเลยปวดคอ",
+            "audio_en_src": "I slept in a bad position, so now my neck hurts."
+          },
+          {
+            "thai": "เจ็บคอ พูดไม่ค่อยได้",
+            "en": "My throat hurts, I can barely talk.",
+            "audio_src": "เจ็บคอ พูดไม่ค่อยได้",
+            "audio_en_src": "My throat hurts, I can barely talk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-372",
@@ -60711,7 +60787,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ล้อเล่น",
-    "audio_en_src": "to joke, to kid around"
+    "audio_en_src": "to joke, to kid around",
+    "examples": [
+      {
+        "meaning": "to joke, to kid around",
+        "sentences": [
+          {
+            "thai": "ฉันพูดเล่นน่ะ ล้อเล่น",
+            "en": "I was just kidding around.",
+            "audio_src": "ฉันพูดเล่นน่ะ ล้อเล่น",
+            "audio_en_src": "I was just kidding around."
+          },
+          {
+            "thai": "อย่าโกรธสิ เขาแค่ล้อเล่น",
+            "en": "Don't be mad, he's just joking.",
+            "audio_src": "อย่าโกรธสิ เขาแค่ล้อเล่น",
+            "audio_en_src": "Don't be mad, he's just joking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-376",
@@ -60761,7 +60856,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สัตว์เลี้ยง",
-    "audio_en_src": "pet"
+    "audio_en_src": "pet",
+    "examples": [
+      {
+        "meaning": "pet",
+        "sentences": [
+          {
+            "thai": "บ้านฉันมีสัตว์เลี้ยงสองตัว",
+            "en": "I have two pets at home.",
+            "audio_src": "บ้านฉันมีสัตว์เลี้ยงสองตัว",
+            "audio_en_src": "I have two pets at home."
+          },
+          {
+            "thai": "หมาเป็นสัตว์เลี้ยงที่ซื่อสัตย์",
+            "en": "Dogs are loyal pets.",
+            "audio_src": "หมาเป็นสัตว์เลี้ยงที่ซื่อสัตย์",
+            "audio_en_src": "Dogs are loyal pets."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-380",
@@ -60866,7 +60980,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หายใจ",
-    "audio_en_src": "to breathe"
+    "audio_en_src": "to breathe",
+    "examples": [
+      {
+        "meaning": "to breathe",
+        "sentences": [
+          {
+            "thai": "หายใจเข้าลึกๆแล้วผ่อนคลาย",
+            "en": "Take a deep breath and relax.",
+            "audio_src": "หายใจเข้าลึกๆแล้วผ่อนคลาย",
+            "audio_en_src": "Take a deep breath and relax."
+          },
+          {
+            "thai": "จมูกตันหายใจไม่ออก",
+            "en": "My nose is blocked, I can't breathe.",
+            "audio_src": "จมูกตันหายใจไม่ออก",
+            "audio_en_src": "My nose is blocked, I can't breathe."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-391",
@@ -61097,7 +61230,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โสด",
-    "audio_en_src": "single"
+    "audio_en_src": "single",
+    "examples": [
+      {
+        "meaning": "single (unmarried)",
+        "sentences": [
+          {
+            "thai": "ตอนนี้ฉันยังโสดอยู่",
+            "en": "I'm still single right now.",
+            "audio_src": "ตอนนี้ฉันยังโสดอยู่",
+            "audio_en_src": "I'm still single right now."
+          },
+          {
+            "thai": "เขาเป็นโสดมานานแล้ว",
+            "en": "He's been single for a long time.",
+            "audio_src": "เขาเป็นโสดมานานแล้ว",
+            "audio_en_src": "He's been single for a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-413",
@@ -61122,7 +61274,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห้องนั่งเล่น, ห้องรับแขก",
-    "audio_en_src": "living room"
+    "audio_en_src": "living room",
+    "examples": [
+      {
+        "meaning": "living room",
+        "sentences": [
+          {
+            "thai": "ครอบครัวนั่งดูทีวีอยู่ในห้องนั่งเล่น",
+            "en": "The family is watching TV in the living room.",
+            "audio_src": "ครอบครัวนั่งดูทีวีอยู่ในห้องนั่งเล่น",
+            "audio_en_src": "The family is watching TV in the living room."
+          },
+          {
+            "thai": "ห้องนั่งเล่นบ้านนี้กว้างดี",
+            "en": "The living room in this house is nice and spacious.",
+            "audio_src": "ห้องนั่งเล่นบ้านนี้กว้างดี",
+            "audio_en_src": "The living room in this house is nice and spacious."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-415",
@@ -61388,7 +61559,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มหาวิทยาลัย",
-    "audio_en_src": "university; campus"
+    "audio_en_src": "university; campus",
+    "examples": [
+      {
+        "meaning": "university",
+        "sentences": [
+          {
+            "thai": "เขาเรียนอยู่มหาวิทยาลัยปีสอง",
+            "en": "He's a second-year at university.",
+            "audio_src": "เขาเรียนอยู่มหาวิทยาลัยปีสอง",
+            "audio_en_src": "He's a second-year at university."
+          },
+          {
+            "thai": "ลูกสอบเข้ามหาวิทยาลัยได้แล้ว",
+            "en": "My kid got into university.",
+            "audio_src": "ลูกสอบเข้ามหาวิทยาลัยได้แล้ว",
+            "audio_en_src": "My kid got into university."
+          }
+        ]
+      },
+      {
+        "meaning": "campus",
+        "sentences": [
+          {
+            "thai": "ในมหาวิทยาลัยมีร้านกาแฟเยอะ",
+            "en": "There are lots of cafes on campus.",
+            "audio_src": "ในมหาวิทยาลัยมีร้านกาแฟเยอะ",
+            "audio_en_src": "There are lots of cafes on campus."
+          },
+          {
+            "thai": "ขี่จักรยานรอบมหาวิทยาลัย",
+            "en": "Cycling around the campus.",
+            "audio_src": "ขี่จักรยานรอบมหาวิทยาลัย",
+            "audio_en_src": "Cycling around the campus."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-443",

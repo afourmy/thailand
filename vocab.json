@@ -61786,7 +61786,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตัวอย่าง",
-    "audio_en_src": "sample, example"
+    "audio_en_src": "sample, example",
+    "examples": [
+      {
+        "meaning": "sample, example",
+        "sentences": [
+          {
+            "thai": "ขอดูตัวอย่างสินค้าก่อนได้ไหม",
+            "en": "Can I see a sample of the product first?"
+          },
+          {
+            "thai": "ครูยกตัวอย่างให้เข้าใจง่ายขึ้น",
+            "en": "The teacher gave an example to make it easier to understand."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-462",
@@ -62086,7 +62101,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่งตัว",
-    "audio_en_src": "to get dressed"
+    "audio_en_src": "to get dressed",
+    "examples": [
+      {
+        "meaning": "to get dressed",
+        "sentences": [
+          {
+            "thai": "รีบแต่งตัว เดี๋ยวไปสาย",
+            "en": "Hurry and get dressed, or we'll be late."
+          },
+          {
+            "thai": "วันนี้เธอแต่งตัวสวยจัง",
+            "en": "You're dressed so nicely today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-493",
@@ -62143,7 +62173,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แผนที่",
-    "audio_en_src": "map"
+    "audio_en_src": "map",
+    "examples": [
+      {
+        "meaning": "map",
+        "sentences": [
+          {
+            "thai": "เปิดแผนที่ในมือถือดูทาง",
+            "en": "Open the map on your phone to check the way."
+          },
+          {
+            "thai": "ฉันดูแผนที่ไม่ค่อยเป็น",
+            "en": "I'm not very good at reading maps."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-499",
@@ -62280,7 +62325,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไฟฟ้า",
-    "audio_en_src": "electricity"
+    "audio_en_src": "electricity",
+    "examples": [
+      {
+        "meaning": "electricity",
+        "sentences": [
+          {
+            "thai": "ไฟฟ้าดับทั้งซอยเมื่อคืน",
+            "en": "The power went out in the whole soi last night."
+          },
+          {
+            "thai": "เดือนนี้ค่าไฟฟ้าแพงมาก",
+            "en": "The electricity bill is really high this month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-513",
@@ -62317,7 +62377,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนี้",
-    "audio_en_src": "debt"
+    "audio_en_src": "debt",
+    "examples": [
+      {
+        "meaning": "debt",
+        "sentences": [
+          {
+            "thai": "เขาเป็นหนี้บัตรเครดิตเยอะ",
+            "en": "He has a lot of credit card debt."
+          },
+          {
+            "thai": "ฉันเพิ่งใช้หนี้หมด",
+            "en": "I just paid off all my debt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-516",
@@ -64306,7 +64381,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สุขสันต์วันเกิด",
-    "audio_en_src": "happy birthday"
+    "audio_en_src": "happy birthday",
+    "examples": [
+      {
+        "meaning": "happy birthday",
+        "sentences": [
+          {
+            "thai": "สุขสันต์วันเกิดนะ ขอให้มีความสุข",
+            "en": "Happy birthday! I hope you have a great one."
+          },
+          {
+            "thai": "เพื่อนๆร้องเพลงสุขสันต์วันเกิดให้ฉัน",
+            "en": "My friends sang me happy birthday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "yt-c03-005",
@@ -64954,7 +65044,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สายชาร์จ",
-    "audio_en_src": "charging cable"
+    "audio_en_src": "charging cable",
+    "examples": [
+      {
+        "meaning": "charging cable",
+        "sentences": [
+          {
+            "thai": "ขอยืมสายชาร์จหน่อย แบตจะหมด",
+            "en": "Can I borrow a charging cable? My battery's almost dead."
+          },
+          {
+            "thai": "สายชาร์จเส้นนี้เสียแล้ว",
+            "en": "This charging cable is broken."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "yt-c03-074",
@@ -65068,6 +65173,21 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to behave",
+        "sentences": [
+          {
+            "thai": "ทำตัวดีๆนะ เดี๋ยวเขาว่าเอา",
+            "en": "Behave yourself, or they'll tell you off."
+          },
+          {
+            "thai": "เขาทำตัวแปลกๆตั้งแต่เช้า",
+            "en": "He's been acting strange since this morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -68758,7 +68878,48 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สี",
-    "audio_en_src": "color; to play with a bow; to fuck; to rub, brush"
+    "audio_en_src": "color; to play with a bow; to fuck; to rub, brush",
+    "examples": [
+      {
+        "meaning": "color",
+        "sentences": [
+          {
+            "thai": "เธอชอบสีอะไร",
+            "en": "What color do you like?"
+          },
+          {
+            "thai": "ท้องฟ้าเปลี่ยนเป็นสีส้มตอนเย็น",
+            "en": "The sky turns orange in the evening."
+          }
+        ]
+      },
+      {
+        "meaning": "to play with a bow (e.g violin)",
+        "sentences": [
+          {
+            "thai": "คุณตาสีซอได้ไพเราะมาก",
+            "en": "Grandpa plays the saw beautifully."
+          },
+          {
+            "thai": "เธอกำลังหัดสีไวโอลิน",
+            "en": "She's learning to play the violin."
+          }
+        ]
+      },
+      {
+        "meaning": "to rub, brush (teeth)",
+        "sentences": [
+          {
+            "thai": "อย่าลืมสีฟันก่อนนอน",
+            "en": "Don't forget to brush your teeth before bed."
+          },
+          {
+            "thai": "เด็กๆสีฟันเองได้แล้ว",
+            "en": "The kids can brush their own teeth now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "yt-c07-071",
@@ -72036,7 +72197,48 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลย",
-    "audio_en_src": "at all; so, therefore; beyond, past a certain point"
+    "audio_en_src": "at all; so, therefore; beyond, past a certain point",
+    "examples": [
+      {
+        "meaning": "at all",
+        "sentences": [
+          {
+            "thai": "ฉันไม่เข้าใจเลย",
+            "en": "I don't understand at all."
+          },
+          {
+            "thai": "วันนี้ไม่ว่างเลย",
+            "en": "I'm not free at all today."
+          }
+        ]
+      },
+      {
+        "meaning": "so, therefore",
+        "sentences": [
+          {
+            "thai": "ฝนตกเลยไม่ได้ออกไปไหน",
+            "en": "It rained, so I didn't go anywhere."
+          },
+          {
+            "thai": "รถติดเลยมาสาย",
+            "en": "There was traffic, so I'm late."
+          }
+        ]
+      },
+      {
+        "meaning": "beyond, past a certain point",
+        "sentences": [
+          {
+            "thai": "เดินเลยร้านสะดวกซื้อไปนิดนึง",
+            "en": "Walk a little past the convenience store."
+          },
+          {
+            "thai": "นั่งรถเลยป้ายไปแล้ว",
+            "en": "I rode past my stop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "yt-c11-013",

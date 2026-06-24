@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 461 words**
+**Total: 471 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -462,6 +462,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-412` : โสด (single (unmarried)) : 1 meaning(s), 2 sentences
 - `tobo-414` : ห้องนั่งเล่น, ห้องรับแขก (living room) : 1 meaning(s), 2 sentences
 - `tobo-442` : มหาวิทยาลัย (university; campus) : 2 meaning(s), 4 sentences
+- `tobo-461` : ตัวอย่าง (sample, example) : 1 meaning(s), 2 sentences
+- `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
+- `tobo-498` : แผนที่ (map) : 1 meaning(s), 2 sentences
+- `tobo-512` : ไฟฟ้า (electricity) : 1 meaning(s), 2 sentences
+- `tobo-515` : หนี้ (debt) : 1 meaning(s), 2 sentences
+- `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
+- `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
+- `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
+- `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 3 meaning(s), 6 sentences
+- `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
