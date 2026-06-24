@@ -37,7 +37,6 @@
     direction: "both",
     listening: false,
     typeMode: false,
-    showExamples: true,
     day: null,
   };
   config.listening = !!config.listening;
@@ -48,9 +47,7 @@
   if (config.typeMode === undefined) config.typeMode = config.answerMode === "type";
   config.typeMode = !!config.typeMode;
   delete config.answerMode;
-  // Show example sentences automatically on reveal. Default on (only an explicit
-  // save of false disables it). When off, reveal shows a per-card toggle instead.
-  config.showExamples = config.showExamples !== false;
+  delete config.showExamples; // removed: examples are always opened via a button
 
   // Direction filter: which card directions are eligible for the queue and the
   // stat counts. "both" returns the full DIRS list; the others restrict to one.
@@ -443,7 +440,7 @@
     // Examples are hidden until the answer is revealed; reset any prior card's.
     stopExAudio();
     var exHost = $("fc-examples");
-    if (exHost) { exHost.hidden = true; exHost.innerHTML = ""; }
+    if (exHost) { exHost.hidden = true; exHost.innerHTML = ""; exHost.classList.remove("fc-ex--collapsed"); }
 
     // Speaker reflects the side currently on screen (the front, until reveal).
     var speak = $("fc-speak");
@@ -577,21 +574,18 @@
     speak.hidden = !backSrc;
     if (backSrc) playAudio();
 
-    // Reveal the example sentences (if any) below the card. When the "Show
-    // examples" setting is off, show a button to reveal them for this card only.
+    // When the card has examples, show a button to reveal them on demand.
     var exHost = $("fc-examples");
     if (exHost) {
-      if (!(info.word.examples && info.word.examples.length)) {
-        exHost.hidden = true;
-        exHost.innerHTML = "";
-      } else if (config.showExamples) {
-        exHost.innerHTML = buildExamplesHtml(info.word, audioBase);
-        exHost.hidden = false;
-      } else {
+      if (info.word.examples && info.word.examples.length) {
+        exHost.classList.add("fc-ex--collapsed"); // centers the button in the gap (desktop)
         exHost.innerHTML =
           '<button class="fc-ex-toggle" type="button">' + EX_BUBBLE_SVG +
           "<span>Show examples</span></button>";
         exHost.hidden = false;
+      } else {
+        exHost.hidden = true;
+        exHost.innerHTML = "";
       }
     }
   }
@@ -842,6 +836,7 @@
       var toggle = e.target.closest(".fc-ex-toggle");
       if (toggle) {
         var info = parseId(curId);
+        this.classList.remove("fc-ex--collapsed"); // expanded list flows normally
         this.innerHTML = buildExamplesHtml(info.word, audioBase);
         return;
       }
@@ -885,17 +880,6 @@
     });
   }
 
-  // ── Show-examples setting ─────────────────────────────────────────────────────
-  function renderShowExamplesToggle() {
-    $("fc-show-examples").checked = config.showExamples;
-  }
-  function wireShowExamplesToggle() {
-    $("fc-show-examples").addEventListener("change", function (e) {
-      config.showExamples = e.target.checked;
-      saveConfig();
-    });
-  }
-
   // ── Boot ───────────────────────────────────────────────────────────────────
   var thisScript = document.querySelector('script[src$="flashcards.js"]');
   var dataUrl = thisScript ? new URL("vocab.json", thisScript.src).href : "vocab.json";
@@ -910,13 +894,11 @@
       renderDirectionSelect();
       renderListeningToggle();
       renderTypeToggle();
-      renderShowExamplesToggle();
       wireSettings();
       wireDeckBar();
       wireDirectionSelect();
       wireListeningToggle();
       wireTypeToggle();
-      wireShowExamplesToggle();
       wireInfoTooltips();
       wire();
       refreshStats();

@@ -2883,6 +2883,25 @@ body[data-thai-font="noto"] .ex-th { font-family: 'Noto Sans Thai', sans-serif; 
 .fc-ex-toggle svg { width: 1rem; height: 1rem; }
 .fc-ex-toggle:hover { color: var(--accent-strong); border-color: var(--accent); }
 
+/* Desktop only: centre the collapsed "Show examples" button in the gap between
+   the card and the action buttons (it shares the column's slack with the card),
+   and make it larger / more prominent. Mobile (<=600px) is left untouched. */
+@media (min-width: 601px) {
+  .fc-ex--collapsed {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+  .fc-ex--collapsed .fc-ex-toggle {
+    font-size: 1.15rem;
+    padding: 0.85rem 1.9rem;
+    gap: 0.55rem;
+  }
+  .fc-ex--collapsed .fc-ex-toggle svg { width: 1.25rem; height: 1.25rem; }
+}
+
 /* Vocab examples button (in the per-card tools column). Matches the sibling
    speaker / copy / suspend controls: a faintly-visible rounded square that
    brightens on hover. */
