@@ -48,7 +48,6 @@
         <label class="vocab-check vocab-deck-only" id="deck-only-label" hidden>
           <input type="checkbox" id="deck-only"> Only show deck cards
         </label>
-        <span class="vocab-count" id="vocab-count" style="margin-left: auto"></span>
       </div>
       <div class="vocab-filter-group" data-dim="frequency">
         <span class="vocab-control-label">Frequency</span>
@@ -65,7 +64,7 @@
     </div>
 
     <div class="vocab-controls vocab-controls--display">
-      <div class="vocab-display-cell vocab-display-cell--left">
+      <div class="vocab-display-cell vocab-display-cell--display">
         <span class="vocab-control-label">Display</span>
         <select id="vocab-limit" class="vocab-deck-select vocab-limit-select" aria-label="How many cards to display">
           <option value="60">60 cards</option>
@@ -74,7 +73,7 @@
           <option value="0">All</option>
         </select>
       </div>
-      <div class="vocab-display-cell vocab-display-cell--left">
+      <div class="vocab-display-cell vocab-display-cell--show">
         <span class="vocab-control-label">Show</span>
         <div class="vocab-toggle" id="face-toggle">
           <button data-face="both" class="active">Both</button>
@@ -82,14 +81,14 @@
           <button data-face="english">English</button>
         </div>
       </div>
-      <div class="vocab-display-cell vocab-display-cell--right">
+      <div class="vocab-display-cell vocab-display-cell--audio">
         <span class="vocab-control-label">Audio</span>
         <div class="vocab-toggle" id="audio-toggle">
           <button data-audio="th" class="active">Thai</button>
           <button data-audio="en">English</button>
         </div>
       </div>
-      <div class="vocab-display-cell vocab-display-cell--right">
+      <div class="vocab-display-cell vocab-display-cell--backup">
         <span class="vocab-control-label">Backup</span>
         <button id="backup-export" type="button" class="vocab-backup-btn" title="Download a backup of your study progress">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
@@ -104,6 +103,9 @@
       </div>
     </div>
 
+    <div class="vocab-count-bar">
+      <span class="vocab-count" id="vocab-count"></span>
+    </div>
     <div id="vocab-groups"></div>
   </main>
 

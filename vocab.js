@@ -672,12 +672,16 @@
   }
 
   // Count badge: total matches, noting how many are shown when the cap hides some.
+  // Figures are wrapped so they can be emphasised against the muted words.
   function updateCount() {
     var total = currentList.length;
     var shown = currentGroups.reduce(function (n, g) { return n + g.items.length; }, 0);
-    var noun = total === 1 ? " word" : " words";
-    countEl.textContent =
-      shown < total ? "Showing " + shown + " of " + total + noun : total + noun;
+    var noun = total === 1 ? "word" : "words";
+    function fig(x) { return '<strong class="vocab-count-n">' + x + "</strong>"; }
+    countEl.innerHTML =
+      shown < total
+        ? "Showing " + fig(shown) + " of " + fig(total) + " " + noun
+        : fig(total) + " " + noun;
   }
 
   function render() {

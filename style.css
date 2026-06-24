@@ -1059,9 +1059,15 @@ html[lang="fr"] .en { display: none; }
 /* Display options laid out as a 2x2 grid: left column Show / Group by, right
    column Audio / Backup. The shared right column means Audio and Backup start
    at the same x, instead of each floating independently to the right edge. */
+/* Two columns, two rows, placed explicitly so the four cells never spill into a
+   staircase of empty grid tracks: Display over Show on the left, Audio over
+   Backup on the right. */
 .vocab-controls--display {
   display: grid;
   grid-template-columns: 1fr auto;
+  grid-template-areas:
+    "display audio"
+    "show    backup";
   align-items: center;
   gap: 0.6rem 1.5rem;
   margin-bottom: 1.8rem;
@@ -1074,16 +1080,21 @@ html[lang="fr"] .en { display: none; }
   gap: 0.6rem 0.8rem;
 }
 
-/* Left column (Display, then Show) and right column (Audio, then Backup) are
-   each pinned to their column so the cells stack predictably, two per column. */
-.vocab-display-cell--left { grid-column: 1; }
-.vocab-display-cell--right { grid-column: 2; }
+.vocab-display-cell--display { grid-area: display; }
+.vocab-display-cell--show    { grid-area: show; }
+.vocab-display-cell--audio   { grid-area: audio; }
+.vocab-display-cell--backup  { grid-area: backup; }
 
 @media (max-width: 600px) {
   /* Stack to a single column when there isn't room for two. */
-  .vocab-controls--display { grid-template-columns: 1fr; }
-  .vocab-display-cell--left,
-  .vocab-display-cell--right { grid-column: auto; }
+  .vocab-controls--display {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "display"
+      "show"
+      "audio"
+      "backup";
+  }
 }
 
 .vocab-control-label {
@@ -1156,9 +1167,26 @@ html[lang="fr"] .en { display: none; }
   border-color: var(--accent);
 }
 
+/* Results toolbar: a slim full-width strip above the card grid, like a data
+   table's "showing X of Y" info row. The bottom rule ties it to the cards. */
+.vocab-count-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 1rem;
+  padding: 0 0.15rem 0.6rem;
+  border-bottom: 1px solid var(--border);
+  min-height: 1.7rem;
+}
 .vocab-count {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--text-muted);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+/* The figures stand out from the surrounding muted words. */
+.vocab-count-n {
+  color: var(--text);
   font-weight: 700;
 }
 
