@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 551 words**
+**Total: 561 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -552,6 +552,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-070` : สิบสาม (thirteen (13)) : 1 meaning(s), 2 sentences
 - `wlt-c04-071` : สิบหก (sixteen (16)) : 1 meaning(s), 2 sentences
 - `wlt-c04-072` : สิบห้า (fifteen (15)) : 1 meaning(s), 2 sentences
+- `wlt-c04-077` : สีฟัน, แปรงฟัน (to brush teeth) : 1 meaning(s), 2 sentences
+- `wlt-c04-091` : หนึ่งร้อย (one hundred (100)) : 1 meaning(s), 2 sentences
+- `wlt-c04-092` : หม้อ (pot (cooking)) : 1 meaning(s), 2 sentences
+- `wlt-c04-093` : หมอ (doctor) : 1 meaning(s), 2 sentences
+- `wlt-c05-010` : อยากได้ (to want to get (sth)) : 1 meaning(s), 2 sentences
+- `wlt-c05-012` : อย่าเพิ่ง ('don't do that yet!', 'hold on!') : 1 meaning(s), 2 sentences
+- `wlt-c05-013` : อยู่ที่ไหน (where is it?) : 1 meaning(s), 2 sentences
+- `wlt-c05-015` : ออกจาก (to leave from) : 1 meaning(s), 2 sentences
+- `wlt-c05-016` : อะไรก็ได้ (anything) : 1 meaning(s), 2 sentences
+- `wlt-c05-020` : อาทิตย์นี้ (this week) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
