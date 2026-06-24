@@ -58191,7 +58191,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมู",
-    "audio_en_src": "pig; pork"
+    "audio_en_src": "pig; pork",
+    "examples": [
+      {
+        "meaning": "pig",
+        "sentences": [
+          {
+            "thai": "ที่ฟาร์มเลี้ยงหมูหลายร้อยตัว",
+            "en": "The farm raises hundreds of pigs.",
+            "audio_src": "ที่ฟาร์มเลี้ยงหมูหลายร้อยตัว",
+            "audio_en_src": "The farm raises hundreds of pigs."
+          },
+          {
+            "thai": "หมูตัวนี้อ้วนมาก",
+            "en": "This pig is really fat.",
+            "audio_src": "หมูตัวนี้อ้วนมาก",
+            "audio_en_src": "This pig is really fat."
+          }
+        ]
+      },
+      {
+        "meaning": "pork",
+        "sentences": [
+          {
+            "thai": "ขอข้าวหมูแดงหนึ่งจาน",
+            "en": "One plate of rice with red pork, please.",
+            "audio_src": "ขอข้าวหมูแดงหนึ่งจาน",
+            "audio_en_src": "One plate of rice with red pork, please."
+          },
+          {
+            "thai": "แกงนี้ใส่หมูสับ",
+            "en": "This curry has minced pork in it.",
+            "audio_src": "แกงนี้ใส่หมูสับ",
+            "audio_en_src": "This curry has minced pork in it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-172",
@@ -58251,7 +58287,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร่ม",
-    "audio_en_src": "umbrella"
+    "audio_en_src": "umbrella",
+    "examples": [
+      {
+        "meaning": "umbrella",
+        "sentences": [
+          {
+            "thai": "ฝนตก เอาร่มไปด้วยนะ",
+            "en": "It's raining, take an umbrella with you.",
+            "audio_src": "ฝนตก เอาร่มไปด้วยนะ",
+            "audio_en_src": "It's raining, take an umbrella with you."
+          },
+          {
+            "thai": "กางร่มกันแดดหน่อย",
+            "en": "Put up the umbrella to block the sun.",
+            "audio_src": "กางร่มกันแดดหน่อย",
+            "audio_en_src": "Put up the umbrella to block the sun."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-177",
@@ -58276,7 +58331,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ของเล่น",
-    "audio_en_src": "toy"
+    "audio_en_src": "toy",
+    "examples": [
+      {
+        "meaning": "toy",
+        "sentences": [
+          {
+            "thai": "เด็กๆเก็บของเล่นเข้าที่",
+            "en": "The kids put their toys away.",
+            "audio_src": "เด็กๆเก็บของเล่นเข้าที่",
+            "audio_en_src": "The kids put their toys away."
+          },
+          {
+            "thai": "ร้านนี้ขายของเล่นเด็ก",
+            "en": "This shop sells children's toys.",
+            "audio_src": "ร้านนี้ขายของเล่นเด็ก",
+            "audio_en_src": "This shop sells children's toys."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-179",
@@ -58303,7 +58377,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมอน",
-    "audio_en_src": "pillow"
+    "audio_en_src": "pillow",
+    "examples": [
+      {
+        "meaning": "pillow",
+        "sentences": [
+          {
+            "thai": "หมอนใบนี้นุ่มดี นอนสบาย",
+            "en": "This pillow is nice and soft, comfy to sleep on.",
+            "audio_src": "หมอนใบนี้นุ่มดี นอนสบาย",
+            "audio_en_src": "This pillow is nice and soft, comfy to sleep on."
+          },
+          {
+            "thai": "ลืมหมอนไว้ที่โรงแรม",
+            "en": "I left my pillow at the hotel.",
+            "audio_src": "ลืมหมอนไว้ที่โรงแรม",
+            "audio_en_src": "I left my pillow at the hotel."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-181",
@@ -58362,7 +58455,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดึง",
-    "audio_en_src": "to pull"
+    "audio_en_src": "to pull",
+    "examples": [
+      {
+        "meaning": "to pull",
+        "sentences": [
+          {
+            "thai": "ดึงเชือกแรงๆ",
+            "en": "Pull the rope hard.",
+            "audio_src": "ดึงเชือกแรงๆ",
+            "audio_en_src": "Pull the rope hard."
+          },
+          {
+            "thai": "เขาดึงประตูแต่มันไม่เปิด",
+            "en": "He pulled the door but it wouldn't open.",
+            "audio_src": "เขาดึงประตูแต่มันไม่เปิด",
+            "audio_en_src": "He pulled the door but it wouldn't open."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-186",
@@ -58400,7 +58512,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มะพร้าว",
-    "audio_en_src": "coconut"
+    "audio_en_src": "coconut",
+    "examples": [
+      {
+        "meaning": "coconut",
+        "sentences": [
+          {
+            "thai": "น้ำมะพร้าวเย็นๆชื่นใจ",
+            "en": "Cold coconut water is so refreshing.",
+            "audio_src": "น้ำมะพร้าวเย็นๆชื่นใจ",
+            "audio_en_src": "Cold coconut water is so refreshing."
+          },
+          {
+            "thai": "ขนมไทยหลายอย่างใส่กะทิมะพร้าว",
+            "en": "Many Thai desserts use coconut milk.",
+            "audio_src": "ขนมไทยหลายอย่างใส่กะทิมะพร้าว",
+            "audio_en_src": "Many Thai desserts use coconut milk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-190",
@@ -58482,7 +58613,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แปรงสีฟัน",
-    "audio_en_src": "toothbrush"
+    "audio_en_src": "toothbrush",
+    "examples": [
+      {
+        "meaning": "toothbrush",
+        "sentences": [
+          {
+            "thai": "แปรงสีฟันเก่าแล้ว ต้องเปลี่ยน",
+            "en": "The toothbrush is worn out, I need to replace it.",
+            "audio_src": "แปรงสีฟันเก่าแล้ว ต้องเปลี่ยน",
+            "audio_en_src": "The toothbrush is worn out, I need to replace it."
+          },
+          {
+            "thai": "ลืมเอาแปรงสีฟันมา",
+            "en": "I forgot to bring my toothbrush.",
+            "audio_src": "ลืมเอาแปรงสีฟันมา",
+            "audio_en_src": "I forgot to bring my toothbrush."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-197",
@@ -58497,7 +58647,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถุงเท้า",
-    "audio_en_src": "sock"
+    "audio_en_src": "sock",
+    "examples": [
+      {
+        "meaning": "sock",
+        "sentences": [
+          {
+            "thai": "ถุงเท้าคู่นี้หายไปข้างนึง",
+            "en": "One of this pair of socks went missing.",
+            "audio_src": "ถุงเท้าคู่นี้หายไปข้างนึง",
+            "audio_en_src": "One of this pair of socks went missing."
+          },
+          {
+            "thai": "ใส่ถุงเท้าก่อนใส่รองเท้า",
+            "en": "Put your socks on before your shoes.",
+            "audio_src": "ใส่ถุงเท้าก่อนใส่รองเท้า",
+            "audio_en_src": "Put your socks on before your shoes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-198",
@@ -58512,7 +58681,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดินสอ",
-    "audio_en_src": "pencil"
+    "audio_en_src": "pencil",
+    "examples": [
+      {
+        "meaning": "pencil",
+        "sentences": [
+          {
+            "thai": "เขียนด้วยดินสอจะได้ลบได้",
+            "en": "Write in pencil so you can erase it.",
+            "audio_src": "เขียนด้วยดินสอจะได้ลบได้",
+            "audio_en_src": "Write in pencil so you can erase it."
+          },
+          {
+            "thai": "ขอยืมดินสอหน่อย",
+            "en": "Can I borrow a pencil?",
+            "audio_src": "ขอยืมดินสอหน่อย",
+            "audio_en_src": "Can I borrow a pencil?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-199",
@@ -58550,7 +58738,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มันฝรั่ง",
-    "audio_en_src": "potato"
+    "audio_en_src": "potato",
+    "examples": [
+      {
+        "meaning": "potato",
+        "sentences": [
+          {
+            "thai": "มันฝรั่งทอดกรอบอร่อย",
+            "en": "Crispy fried potatoes are delicious.",
+            "audio_src": "มันฝรั่งทอดกรอบอร่อย",
+            "audio_en_src": "Crispy fried potatoes are delicious."
+          },
+          {
+            "thai": "ต้มมันฝรั่งให้สุกก่อน",
+            "en": "Boil the potatoes until they're cooked first.",
+            "audio_src": "ต้มมันฝรั่งให้สุกก่อน",
+            "audio_en_src": "Boil the potatoes until they're cooked first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-202",
