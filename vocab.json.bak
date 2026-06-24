@@ -105809,7 +105809,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นั่ง",
-    "audio_en_src": "to sit"
+    "audio_en_src": "to sit",
+    "examples": [
+      {
+        "meaning": "to sit",
+        "sentences": [
+          {
+            "thai": "เชิญนั่งตรงนี้ได้เลย",
+            "en": "Please have a seat here.",
+            "audio_src": "เชิญนั่งตรงนี้ได้เลย",
+            "audio_en_src": "Please have a seat here."
+          },
+          {
+            "thai": "เรานั่งคุยกันที่ร้านกาแฟ",
+            "en": "We sat and chatted at a coffee shop.",
+            "audio_src": "เรานั่งคุยกันที่ร้านกาแฟ",
+            "audio_en_src": "We sat and chatted at a coffee shop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-084",
@@ -105836,7 +105855,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นาน",
-    "audio_en_src": "long"
+    "audio_en_src": "long",
+    "examples": [
+      {
+        "meaning": "long (in time)",
+        "sentences": [
+          {
+            "thai": "รอนานมากกว่าเขาจะมา",
+            "en": "I waited a long time before he came.",
+            "audio_src": "รอนานมากกว่าเขาจะมา",
+            "audio_en_src": "I waited a long time before he came."
+          },
+          {
+            "thai": "ไม่ได้เจอกันนานเลย",
+            "en": "We haven't seen each other in a long time.",
+            "audio_src": "ไม่ได้เจอกันนานเลย",
+            "audio_en_src": "We haven't seen each other in a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-086",
@@ -105850,7 +105888,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่าเบื่อ",
-    "audio_en_src": "boring, dull, tedious, tiresome"
+    "audio_en_src": "boring, dull, tedious, tiresome",
+    "examples": [
+      {
+        "meaning": "boring, dull, tedious, tiresome",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้น่าเบื่อ ดูแล้วง่วง",
+            "en": "This movie is boring, it makes me sleepy.",
+            "audio_src": "หนังเรื่องนี้น่าเบื่อ ดูแล้วง่วง",
+            "audio_en_src": "This movie is boring, it makes me sleepy."
+          },
+          {
+            "thai": "งานนี้น่าเบื่อ ทำซ้ำๆทุกวัน",
+            "en": "This job is tedious, the same thing every day.",
+            "audio_src": "งานนี้น่าเบื่อ ทำซ้ำๆทุกวัน",
+            "audio_en_src": "This job is tedious, the same thing every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-087",
@@ -105865,7 +105922,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นามสกุล",
-    "audio_en_src": "family name"
+    "audio_en_src": "family name",
+    "examples": [
+      {
+        "meaning": "family name",
+        "sentences": [
+          {
+            "thai": "คุณนามสกุลอะไรคะ",
+            "en": "What's your last name?",
+            "audio_src": "คุณนามสกุลอะไรคะ",
+            "audio_en_src": "What's your last name?"
+          },
+          {
+            "thai": "เขาใช้นามสกุลเดียวกับฉัน",
+            "en": "He has the same last name as me.",
+            "audio_src": "เขาใช้นามสกุลเดียวกับฉัน",
+            "audio_en_src": "He has the same last name as me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-089",
@@ -105880,7 +105956,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ้าง",
-    "audio_en_src": "some, a little"
+    "audio_en_src": "some, a little",
+    "examples": [
+      {
+        "meaning": "some, a little",
+        "sentences": [
+          {
+            "thai": "ขอกินบ้างได้ไหม",
+            "en": "Can I have some too?",
+            "audio_src": "ขอกินบ้างได้ไหม",
+            "audio_en_src": "Can I have some too?"
+          },
+          {
+            "thai": "พักผ่อนบ้างนะ อย่าทำงานหนักเกินไป",
+            "en": "Get some rest, don't work too hard.",
+            "audio_src": "พักผ่อนบ้างนะ อย่าทำงานหนักเกินไป",
+            "audio_en_src": "Get some rest, don't work too hard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-090",
@@ -105895,7 +105990,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บางที",
-    "audio_en_src": "sometimes; maybe, perhaps"
+    "audio_en_src": "sometimes; maybe, perhaps",
+    "examples": [
+      {
+        "meaning": "sometimes",
+        "sentences": [
+          {
+            "thai": "บางทีฉันก็ลืมกินข้าว",
+            "en": "Sometimes I forget to eat.",
+            "audio_src": "บางทีฉันก็ลืมกินข้าว",
+            "audio_en_src": "Sometimes I forget to eat."
+          },
+          {
+            "thai": "บางทีเขาก็มาสาย",
+            "en": "Sometimes he's late.",
+            "audio_src": "บางทีเขาก็มาสาย",
+            "audio_en_src": "Sometimes he's late."
+          }
+        ]
+      },
+      {
+        "meaning": "maybe, perhaps",
+        "sentences": [
+          {
+            "thai": "บางทีพรุ่งนี้ฝนอาจจะตก",
+            "en": "Maybe it'll rain tomorrow.",
+            "audio_src": "บางทีพรุ่งนี้ฝนอาจจะตก",
+            "audio_en_src": "Maybe it'll rain tomorrow."
+          },
+          {
+            "thai": "บางทีเขาอาจจะไม่มาก็ได้",
+            "en": "Perhaps he won't come.",
+            "audio_src": "บางทีเขาอาจจะไม่มาก็ได้",
+            "audio_en_src": "Perhaps he won't come."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-091",
@@ -105910,7 +106041,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บาท",
-    "audio_en_src": "Baht"
+    "audio_en_src": "Baht",
+    "examples": [
+      {
+        "meaning": "Baht",
+        "sentences": [
+          {
+            "thai": "ข้าวจานนี้สี่สิบบาท",
+            "en": "This plate of food is forty baht.",
+            "audio_src": "ข้าวจานนี้สี่สิบบาท",
+            "audio_en_src": "This plate of food is forty baht."
+          },
+          {
+            "thai": "ขอแลกแบงก์ร้อยเป็นเหรียญสิบบาท",
+            "en": "Can I change a hundred-baht note into ten-baht coins?",
+            "audio_src": "ขอแลกแบงก์ร้อยเป็นเหรียญสิบบาท",
+            "audio_en_src": "Can I change a hundred-baht note into ten-baht coins?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-093",
@@ -105956,7 +106106,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผลไม้",
-    "audio_en_src": "fruit"
+    "audio_en_src": "fruit",
+    "examples": [
+      {
+        "meaning": "fruit",
+        "sentences": [
+          {
+            "thai": "กินผลไม้แทนขนมหวานดีกว่า",
+            "en": "Better to eat fruit instead of dessert.",
+            "audio_src": "กินผลไม้แทนขนมหวานดีกว่า",
+            "audio_en_src": "Better to eat fruit instead of dessert."
+          },
+          {
+            "thai": "เมืองไทยมีผลไม้หลากหลายชนิด",
+            "en": "Thailand has many kinds of fruit.",
+            "audio_src": "เมืองไทยมีผลไม้หลากหลายชนิด",
+            "audio_en_src": "Thailand has many kinds of fruit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-099",
@@ -106002,7 +106171,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พริก",
-    "audio_en_src": "chili peppers, chilies"
+    "audio_en_src": "chili peppers, chilies",
+    "examples": [
+      {
+        "meaning": "chili peppers, chilies",
+        "sentences": [
+          {
+            "thai": "อาหารจานนี้ใส่พริกเยอะมาก",
+            "en": "This dish has a lot of chili in it.",
+            "audio_src": "อาหารจานนี้ใส่พริกเยอะมาก",
+            "audio_en_src": "This dish has a lot of chili in it."
+          },
+          {
+            "thai": "ฉันกินเผ็ดไม่เก่ง ขอพริกน้อยๆ",
+            "en": "I can't handle spicy, just a little chili, please.",
+            "audio_src": "ฉันกินเผ็ดไม่เก่ง ขอพริกน้อยๆ",
+            "audio_en_src": "I can't handle spicy, just a little chili, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-003",
@@ -106028,7 +106216,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พ่อแม่",
-    "audio_en_src": "parents"
+    "audio_en_src": "parents",
+    "examples": [
+      {
+        "meaning": "parents",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ฉันอยู่ต่างจังหวัด",
+            "en": "My parents live in the countryside.",
+            "audio_src": "พ่อแม่ฉันอยู่ต่างจังหวัด",
+            "audio_en_src": "My parents live in the countryside."
+          },
+          {
+            "thai": "เด็กควรเชื่อฟังพ่อแม่",
+            "en": "Kids should listen to their parents.",
+            "audio_src": "เด็กควรเชื่อฟังพ่อแม่",
+            "audio_en_src": "Kids should listen to their parents."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-005",

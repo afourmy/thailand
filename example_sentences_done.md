@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 881 words**
+**Total: 891 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -884,4 +884,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-098` : ผลไม้ (fruit) : 1 meaning(s), 2 sentences
 - `wlt-c16-002` : พริก (chili peppers, chilies) : 1 meaning(s), 2 sentences
 - `wlt-c16-004` : พ่อแม่ (parents) : 1 meaning(s), 2 sentences
+- `wlt-c16-005` : พัน (thousand (1000)) : 1 meaning(s), 2 sentences
+- `wlt-c16-006` : พี่ชาย (older brother) : 1 meaning(s), 2 sentences
+- `wlt-c16-007` : พี่สาว (older sister) : 1 meaning(s), 2 sentences
+- `wlt-c16-008` : พื้น (floor) : 1 meaning(s), 2 sentences
+- `wlt-c16-009` : เพิ่ง (just now) : 1 meaning(s), 2 sentences
+- `wlt-c16-010` : มะม่วง (mango (fruit)) : 1 meaning(s), 2 sentences
+- `wlt-c16-012` : ไม่เคย (never) : 1 meaning(s), 2 sentences
+- `wlt-c16-013` : ยืน (to stand) : 1 meaning(s), 2 sentences
+- `wlt-c16-014` : ยืม (to borrow) : 1 meaning(s), 2 sentences
+- `wlt-c16-017` : รถยนต์ (car, automobile) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

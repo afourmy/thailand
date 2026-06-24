@@ -106250,7 +106250,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พัน",
-    "audio_en_src": "thousand"
+    "audio_en_src": "thousand",
+    "examples": [
+      {
+        "meaning": "thousand (1000)",
+        "sentences": [
+          {
+            "thai": "รองเท้าคู่นี้ราคาสองพันบาท",
+            "en": "These shoes cost two thousand baht.",
+            "audio_src": "รองเท้าคู่นี้ราคาสองพันบาท",
+            "audio_en_src": "These shoes cost two thousand baht."
+          },
+          {
+            "thai": "ในสนามมีคนเป็นพันคน",
+            "en": "There are thousands of people in the stadium.",
+            "audio_src": "ในสนามมีคนเป็นพันคน",
+            "audio_en_src": "There are thousands of people in the stadium."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-006",
@@ -106265,7 +106284,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พี่ชาย",
-    "audio_en_src": "older brother"
+    "audio_en_src": "older brother",
+    "examples": [
+      {
+        "meaning": "older brother",
+        "sentences": [
+          {
+            "thai": "พี่ชายฉันทำงานเป็นตำรวจ",
+            "en": "My older brother works as a police officer.",
+            "audio_src": "พี่ชายฉันทำงานเป็นตำรวจ",
+            "audio_en_src": "My older brother works as a police officer."
+          },
+          {
+            "thai": "ฉันมีพี่ชายหนึ่งคน",
+            "en": "I have one older brother.",
+            "audio_src": "ฉันมีพี่ชายหนึ่งคน",
+            "audio_en_src": "I have one older brother."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-007",
@@ -106279,7 +106317,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พี่สาว",
-    "audio_en_src": "older sister"
+    "audio_en_src": "older sister",
+    "examples": [
+      {
+        "meaning": "older sister",
+        "sentences": [
+          {
+            "thai": "พี่สาวฉันแต่งงานแล้ว",
+            "en": "My older sister is married.",
+            "audio_src": "พี่สาวฉันแต่งงานแล้ว",
+            "audio_en_src": "My older sister is married."
+          },
+          {
+            "thai": "พี่สาวชอบพาฉันไปเที่ยว",
+            "en": "My older sister likes taking me out.",
+            "audio_src": "พี่สาวชอบพาฉันไปเที่ยว",
+            "audio_en_src": "My older sister likes taking me out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-008",
@@ -106294,7 +106351,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พื้น",
-    "audio_en_src": "floor"
+    "audio_en_src": "floor",
+    "examples": [
+      {
+        "meaning": "floor",
+        "sentences": [
+          {
+            "thai": "เด็กนั่งเล่นอยู่บนพื้น",
+            "en": "The kid is playing on the floor.",
+            "audio_src": "เด็กนั่งเล่นอยู่บนพื้น",
+            "audio_en_src": "The kid is playing on the floor."
+          },
+          {
+            "thai": "ระวังพื้นลื่นนะ เพิ่งถูเสร็จ",
+            "en": "Careful, the floor is slippery, it was just mopped.",
+            "audio_src": "ระวังพื้นลื่นนะ เพิ่งถูเสร็จ",
+            "audio_en_src": "Careful, the floor is slippery, it was just mopped."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-009",
@@ -106309,7 +106385,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพิ่ง",
-    "audio_en_src": "just now"
+    "audio_en_src": "just now",
+    "examples": [
+      {
+        "meaning": "just now",
+        "sentences": [
+          {
+            "thai": "เขาเพิ่งออกจากบ้านไป",
+            "en": "He just left the house.",
+            "audio_src": "เขาเพิ่งออกจากบ้านไป",
+            "audio_en_src": "He just left the house."
+          },
+          {
+            "thai": "ร้านนี้เพิ่งเปิดใหม่",
+            "en": "This shop just opened.",
+            "audio_src": "ร้านนี้เพิ่งเปิดใหม่",
+            "audio_en_src": "This shop just opened."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-010",
@@ -106323,7 +106418,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มะม่วง",
-    "audio_en_src": "mango"
+    "audio_en_src": "mango",
+    "examples": [
+      {
+        "meaning": "mango (fruit)",
+        "sentences": [
+          {
+            "thai": "มะม่วงสุกหวานอร่อยมาก",
+            "en": "Ripe mango is really sweet and delicious.",
+            "audio_src": "มะม่วงสุกหวานอร่อยมาก",
+            "audio_en_src": "Ripe mango is really sweet and delicious."
+          },
+          {
+            "thai": "ฉันชอบกินข้าวเหนียวมะม่วง",
+            "en": "I love eating mango sticky rice.",
+            "audio_src": "ฉันชอบกินข้าวเหนียวมะม่วง",
+            "audio_en_src": "I love eating mango sticky rice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-012",
@@ -106337,7 +106451,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่เคย",
-    "audio_en_src": "never"
+    "audio_en_src": "never",
+    "examples": [
+      {
+        "meaning": "never",
+        "sentences": [
+          {
+            "thai": "ฉันไม่เคยไปต่างประเทศเลย",
+            "en": "I've never been abroad.",
+            "audio_src": "ฉันไม่เคยไปต่างประเทศเลย",
+            "audio_en_src": "I've never been abroad."
+          },
+          {
+            "thai": "เขาไม่เคยมาสายสักครั้ง",
+            "en": "He's never been late, not once.",
+            "audio_src": "เขาไม่เคยมาสายสักครั้ง",
+            "audio_en_src": "He's never been late, not once."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-013",
@@ -106352,7 +106485,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยืน",
-    "audio_en_src": "to stand"
+    "audio_en_src": "to stand",
+    "examples": [
+      {
+        "meaning": "to stand",
+        "sentences": [
+          {
+            "thai": "ยืนรอรถเมล์อยู่ที่ป้าย",
+            "en": "Standing waiting for the bus at the stop.",
+            "audio_src": "ยืนรอรถเมล์อยู่ที่ป้าย",
+            "audio_en_src": "Standing waiting for the bus at the stop."
+          },
+          {
+            "thai": "ยืนนานๆแล้วเมื่อยขา",
+            "en": "Standing for a long time makes my legs ache.",
+            "audio_src": "ยืนนานๆแล้วเมื่อยขา",
+            "audio_en_src": "Standing for a long time makes my legs ache."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-014",
@@ -106367,7 +106519,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยืม",
-    "audio_en_src": "to borrow"
+    "audio_en_src": "to borrow",
+    "examples": [
+      {
+        "meaning": "to borrow",
+        "sentences": [
+          {
+            "thai": "ฉันยืมหนังสือจากห้องสมุด",
+            "en": "I borrowed a book from the library.",
+            "audio_src": "ฉันยืมหนังสือจากห้องสมุด",
+            "audio_en_src": "I borrowed a book from the library."
+          },
+          {
+            "thai": "ยืมเงินเพื่อนไปก่อน เดี๋ยวคืน",
+            "en": "I borrowed money from a friend, I'll pay it back.",
+            "audio_src": "ยืมเงินเพื่อนไปก่อน เดี๋ยวคืน",
+            "audio_en_src": "I borrowed money from a friend, I'll pay it back."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-015",
@@ -106402,7 +106573,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รถยนต์",
-    "audio_en_src": "car, automobile"
+    "audio_en_src": "car, automobile",
+    "examples": [
+      {
+        "meaning": "car, automobile",
+        "sentences": [
+          {
+            "thai": "เขาขับรถยนต์ไปทำงาน",
+            "en": "He drives a car to work.",
+            "audio_src": "เขาขับรถยนต์ไปทำงาน",
+            "audio_en_src": "He drives a car to work."
+          },
+          {
+            "thai": "รถยนต์ไฟฟ้ากำลังเป็นที่นิยม",
+            "en": "Electric cars are becoming popular.",
+            "audio_src": "รถยนต์ไฟฟ้ากำลังเป็นที่นิยม",
+            "audio_en_src": "Electric cars are becoming popular."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-019",
