@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1191 words**
+**Total: 1201 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1195,3 +1195,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-035` : เย็น (evening (4pm - 6pm); (of things) cold) : 2 meaning(s), 4 sentences
 - `wlt-c21-036` : ร้อน (hot) : 1 meaning(s), 2 sentences
 - `wlt-c21-037` : รู้ (to know (something)) : 1 meaning(s), 2 sentences
+- `wlt-c21-038` : เรื่อง (matter, topic, story) : 1 meaning(s), 2 sentences
+- `wlt-c21-039` : โรงพยาบาล (hospital) : 1 meaning(s), 2 sentences
+- `wlt-c21-040` : ลูก (child; classifier for round objects (balls, fruits, etc)) : 2 meaning(s), 4 sentences
+- `wlt-c21-041` : เลือก (to choose) : 1 meaning(s), 2 sentences
+- `wlt-c21-042` : เวลา (time) : 1 meaning(s), 2 sentences
+- `wlt-c21-044` : สูง (tall) : 1 meaning(s), 2 sentences
+- `wlt-c21-045` : หนัก (heavy) : 1 meaning(s), 2 sentences
+- `wlt-c21-046` : หน้า (next, following; season; face) : 3 meaning(s), 6 sentences
+- `wlt-c21-047` : ให้ (to give; to allow) : 2 meaning(s), 4 sentences
+- `wlt-c21-049` : อะไร (what) : 1 meaning(s), 2 sentences
