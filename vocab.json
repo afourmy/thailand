@@ -86502,7 +86502,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำชา",
-    "audio_en_src": "tea"
+    "audio_en_src": "tea",
+    "examples": [
+      {
+        "meaning": "tea",
+        "sentences": [
+          {
+            "thai": "ฉันชอบดื่มน้ำชามากกว่ากาแฟ",
+            "en": "I prefer drinking tea over coffee.",
+            "audio_src": "ฉันชอบดื่มน้ำชามากกว่ากาแฟ",
+            "audio_en_src": "I prefer drinking tea over coffee."
+          },
+          {
+            "thai": "รินน้ำชาให้แขกหน่อย",
+            "en": "Pour some tea for the guests.",
+            "audio_src": "รินน้ำชาให้แขกหน่อย",
+            "audio_en_src": "Pour some tea for the guests."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-096",
@@ -86516,7 +86535,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำดื่ม",
-    "audio_en_src": "drinking water"
+    "audio_en_src": "drinking water",
+    "examples": [
+      {
+        "meaning": "drinking water",
+        "sentences": [
+          {
+            "thai": "ซื้อน้ำดื่มมาหนึ่งขวด",
+            "en": "I bought a bottle of drinking water.",
+            "audio_src": "ซื้อน้ำดื่มมาหนึ่งขวด",
+            "audio_en_src": "I bought a bottle of drinking water."
+          },
+          {
+            "thai": "อย่าลืมเตรียมน้ำดื่มไปด้วย",
+            "en": "Don't forget to bring some drinking water.",
+            "audio_src": "อย่าลืมเตรียมน้ำดื่มไปด้วย",
+            "audio_en_src": "Don't forget to bring some drinking water."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-097",
@@ -86541,7 +86579,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำปลา",
-    "audio_en_src": "fish sauce"
+    "audio_en_src": "fish sauce",
+    "examples": [
+      {
+        "meaning": "fish sauce",
+        "sentences": [
+          {
+            "thai": "เติมน้ำปลานิดนึงให้เค็มขึ้น",
+            "en": "Add a little fish sauce to make it saltier.",
+            "audio_src": "เติมน้ำปลานิดนึงให้เค็มขึ้น",
+            "audio_en_src": "Add a little fish sauce to make it saltier."
+          },
+          {
+            "thai": "อาหารไทยขาดน้ำปลาไม่ได้",
+            "en": "Thai food can't do without fish sauce.",
+            "audio_src": "อาหารไทยขาดน้ำปลาไม่ได้",
+            "audio_en_src": "Thai food can't do without fish sauce."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-099",
@@ -86565,7 +86622,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำมันพืช",
-    "audio_en_src": "vegetable oil"
+    "audio_en_src": "vegetable oil",
+    "examples": [
+      {
+        "meaning": "vegetable oil",
+        "sentences": [
+          {
+            "thai": "ทอดไข่ต้องใส่น้ำมันพืช",
+            "en": "To fry an egg you need vegetable oil.",
+            "audio_src": "ทอดไข่ต้องใส่น้ำมันพืช",
+            "audio_en_src": "To fry an egg you need vegetable oil."
+          },
+          {
+            "thai": "น้ำมันพืชขวดนี้ใกล้หมดแล้ว",
+            "en": "This bottle of vegetable oil is almost empty.",
+            "audio_src": "น้ำมันพืชขวดนี้ใกล้หมดแล้ว",
+            "audio_en_src": "This bottle of vegetable oil is almost empty."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-001",
@@ -86590,7 +86666,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นิดเดียว",
-    "audio_en_src": "only a little"
+    "audio_en_src": "only a little",
+    "examples": [
+      {
+        "meaning": "only a little",
+        "sentences": [
+          {
+            "thai": "เหลือข้าวอยู่นิดเดียว",
+            "en": "There's only a little rice left.",
+            "audio_src": "เหลือข้าวอยู่นิดเดียว",
+            "audio_en_src": "There's only a little rice left."
+          },
+          {
+            "thai": "ขอเผ็ดนิดเดียวพอ",
+            "en": "Just a little spicy, please.",
+            "audio_src": "ขอเผ็ดนิดเดียวพอ",
+            "audio_en_src": "Just a little spicy, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-003",
@@ -86634,7 +86729,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เนื้อหมู",
-    "audio_en_src": "pork"
+    "audio_en_src": "pork",
+    "examples": [
+      {
+        "meaning": "pork",
+        "sentences": [
+          {
+            "thai": "แกงนี้ใส่เนื้อหมูเยอะ",
+            "en": "This curry has a lot of pork in it.",
+            "audio_src": "แกงนี้ใส่เนื้อหมูเยอะ",
+            "audio_en_src": "This curry has a lot of pork in it."
+          },
+          {
+            "thai": "เนื้อหมูราคาขึ้นอีกแล้ว",
+            "en": "The price of pork has gone up again.",
+            "audio_src": "เนื้อหมูราคาขึ้นอีกแล้ว",
+            "audio_en_src": "The price of pork has gone up again."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-009",
@@ -86668,7 +86782,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ่อยๆ",
-    "audio_en_src": "often, frequently"
+    "audio_en_src": "often, frequently",
+    "examples": [
+      {
+        "meaning": "often, frequently",
+        "sentences": [
+          {
+            "thai": "เราไปกินร้านนี้บ่อยๆ",
+            "en": "We eat at this place often.",
+            "audio_src": "เราไปกินร้านนี้บ่อยๆ",
+            "audio_en_src": "We eat at this place often."
+          },
+          {
+            "thai": "เขาโทรมาหาฉันบ่อยๆ",
+            "en": "He calls me frequently.",
+            "audio_src": "เขาโทรมาหาฉันบ่อยๆ",
+            "audio_en_src": "He calls me frequently."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-014",
@@ -86712,7 +86845,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บางอย่าง",
-    "audio_en_src": "something"
+    "audio_en_src": "something",
+    "examples": [
+      {
+        "meaning": "something",
+        "sentences": [
+          {
+            "thai": "ฉันอยากบอกบางอย่างกับเธอ",
+            "en": "I want to tell you something.",
+            "audio_src": "ฉันอยากบอกบางอย่างกับเธอ",
+            "audio_en_src": "I want to tell you something."
+          },
+          {
+            "thai": "มีบางอย่างผิดปกติ",
+            "en": "Something's not right.",
+            "audio_src": "มีบางอย่างผิดปกติ",
+            "audio_en_src": "Something's not right."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-018",
@@ -86766,7 +86918,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แบบไหน",
-    "audio_en_src": "what type?"
+    "audio_en_src": "what type?",
+    "examples": [
+      {
+        "meaning": "what type?",
+        "sentences": [
+          {
+            "thai": "เธอชอบกาแฟแบบไหน",
+            "en": "What kind of coffee do you like?",
+            "audio_src": "เธอชอบกาแฟแบบไหน",
+            "audio_en_src": "What kind of coffee do you like?"
+          },
+          {
+            "thai": "อยากได้เสื้อแบบไหน",
+            "en": "What style of shirt do you want?",
+            "audio_src": "อยากได้เสื้อแบบไหน",
+            "audio_en_src": "What style of shirt do you want?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-025",
@@ -86861,7 +87032,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปีที่แล้ว",
-    "audio_en_src": "last year"
+    "audio_en_src": "last year",
+    "examples": [
+      {
+        "meaning": "last year",
+        "sentences": [
+          {
+            "thai": "ปีที่แล้วฉันเรียนจบ",
+            "en": "I graduated last year.",
+            "audio_src": "ปีที่แล้วฉันเรียนจบ",
+            "audio_en_src": "I graduated last year."
+          },
+          {
+            "thai": "ปีที่แล้วฝนตกเยอะกว่านี้",
+            "en": "It rained more last year than this year.",
+            "audio_src": "ปีที่แล้วฝนตกเยอะกว่านี้",
+            "audio_en_src": "It rained more last year than this year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-037",

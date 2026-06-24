@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 511 words**
+**Total: 521 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -512,6 +512,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-081` : ทุกอาทิตย์ (every week) : 1 meaning(s), 2 sentences
 - `wlt-c02-084` : นวด (massage) : 1 meaning(s), 2 sentences
 - `wlt-c02-086` : น้อยลง (less) : 1 meaning(s), 2 sentences
+- `wlt-c02-095` : น้ำชา (tea) : 1 meaning(s), 2 sentences
+- `wlt-c02-096` : น้ำดื่ม (drinking water) : 1 meaning(s), 2 sentences
+- `wlt-c02-098` : น้ำปลา (fish sauce) : 1 meaning(s), 2 sentences
+- `wlt-c03-000` : น้ำมันพืช (vegetable oil) : 1 meaning(s), 2 sentences
+- `wlt-c03-002` : นิดเดียว (only a little) : 1 meaning(s), 2 sentences
+- `wlt-c03-005` : เนื้อหมู (pork) : 1 meaning(s), 2 sentences
+- `wlt-c03-013` : บ่อยๆ (often, frequently) : 1 meaning(s), 2 sentences
+- `wlt-c03-017` : บางอย่าง (something) : 1 meaning(s), 2 sentences
+- `wlt-c03-023` : แบบไหน (what type?) : 1 meaning(s), 2 sentences
+- `wlt-c03-036` : ปีที่แล้ว (last year) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
