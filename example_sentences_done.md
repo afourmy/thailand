@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1131 words**
+**Total: 1141 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1135,3 +1135,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-069` : ว่ายน้ำ (to swim) : 1 meaning(s), 2 sentences
 - `wlt-c20-072` : สอน (to teach) : 1 meaning(s), 2 sentences
 - `wlt-c20-073` : สะอาด (clean) : 1 meaning(s), 2 sentences
+- `wlt-c20-074` : สั้น (short (in length)) : 1 meaning(s), 2 sentences
+- `wlt-c20-075` : สามี (husband (formal, polite)) : 1 meaning(s), 2 sentences
+- `wlt-c20-076` : สำหรับ (for, meant for, intended for (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c20-077` : สิงหาคม (August) : 1 meaning(s), 2 sentences
+- `wlt-c20-078` : สีฟ้า (blue) : 1 meaning(s), 2 sentences
+- `wlt-c20-079` : เสื้อ (upper body garment (e.g shirt, T-shirt)) : 1 meaning(s), 2 sentences
+- `wlt-c20-080` : หน่อย, นิดหน่อย (a little, a little bit) : 1 meaning(s), 2 sentences
+- `wlt-c20-082` : หวาน (sweet) : 1 meaning(s), 2 sentences
+- `wlt-c20-083` : ห้องน้ำ (toilet, bathroom) : 1 meaning(s), 2 sentences
+- `wlt-c20-084` : หา (to look for, to search; (informal) to visit, to go see (someone)) : 2 meaning(s), 4 sentences
