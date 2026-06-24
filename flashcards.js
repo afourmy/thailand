@@ -399,16 +399,6 @@
 
   function startSession() {
     queue = pendingQueue ? pendingQueue.slice() : buildQueue().queue;
-    // TEMPORARY (testing example sentences): force every word that has examples
-    // to the front of the queue (Thai->English), regardless of scheduling.
-    // Delete this block to revert.
-    var exFirst = words
-      .filter(function (w) { return w.examples && w.examples.length; })
-      .map(function (w) { return w.id + ":t2e"; });
-    var exSet = {};
-    exFirst.forEach(function (id) { exSet[id] = true; });
-    queue = exFirst.concat(queue.filter(function (id) { return !exSet[id]; }));
-    // end temporary
     sessionTotal = queue.length;
     reviewed = 0;
     if (!queue.length) return finishSession();
