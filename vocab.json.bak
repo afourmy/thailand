@@ -57596,7 +57596,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผลัก",
-    "audio_en_src": "to push"
+    "audio_en_src": "to push",
+    "examples": [
+      {
+        "meaning": "to push (e.g a door)",
+        "sentences": [
+          {
+            "thai": "ผลักประตูเข้าไปได้เลย",
+            "en": "Just push the door open.",
+            "audio_src": "ผลักประตูเข้าไปได้เลย",
+            "audio_en_src": "Just push the door open."
+          },
+          {
+            "thai": "อย่าผลักกันสิ ต่อแถวดีๆ",
+            "en": "Don't push each other, line up properly.",
+            "audio_src": "อย่าผลักกันสิ ต่อแถวดีๆ",
+            "audio_en_src": "Don't push each other, line up properly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-140",
@@ -57612,7 +57631,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วัด",
-    "audio_en_src": "to measure; temple"
+    "audio_en_src": "to measure; temple",
+    "examples": [
+      {
+        "meaning": "to measure",
+        "sentences": [
+          {
+            "thai": "หมอวัดความดันให้ฉัน",
+            "en": "The doctor measured my blood pressure.",
+            "audio_src": "หมอวัดความดันให้ฉัน",
+            "audio_en_src": "The doctor measured my blood pressure."
+          },
+          {
+            "thai": "วัดส่วนสูงหน่อยได้ไหม",
+            "en": "Could you measure my height?",
+            "audio_src": "วัดส่วนสูงหน่อยได้ไหม",
+            "audio_en_src": "Could you measure my height?"
+          }
+        ]
+      },
+      {
+        "meaning": "temple",
+        "sentences": [
+          {
+            "thai": "วันพระคนไปทำบุญที่วัด",
+            "en": "On Buddhist holy days, people go to make merit at the temple.",
+            "audio_src": "วันพระคนไปทำบุญที่วัด",
+            "audio_en_src": "On Buddhist holy days, people go to make merit at the temple."
+          },
+          {
+            "thai": "วัดนี้เก่าแก่มาก",
+            "en": "This temple is very old.",
+            "audio_src": "วัดนี้เก่าแก่มาก",
+            "audio_en_src": "This temple is very old."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-141",
@@ -57628,7 +57683,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลึก",
-    "audio_en_src": "deep"
+    "audio_en_src": "deep",
+    "examples": [
+      {
+        "meaning": "deep",
+        "sentences": [
+          {
+            "thai": "ระวังนะ ตรงนี้น้ำลึก",
+            "en": "Be careful, the water is deep here.",
+            "audio_src": "ระวังนะ ตรงนี้น้ำลึก",
+            "audio_en_src": "Be careful, the water is deep here."
+          },
+          {
+            "thai": "หลุมนี้ลึกกว่าที่คิด",
+            "en": "This hole is deeper than I thought.",
+            "audio_src": "หลุมนี้ลึกกว่าที่คิด",
+            "audio_en_src": "This hole is deeper than I thought."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-142",
@@ -57644,7 +57718,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สนามบิน",
-    "audio_en_src": "airport"
+    "audio_en_src": "airport",
+    "examples": [
+      {
+        "meaning": "airport",
+        "sentences": [
+          {
+            "thai": "ไปรับเพื่อนที่สนามบิน",
+            "en": "I'm going to pick up a friend at the airport.",
+            "audio_src": "ไปรับเพื่อนที่สนามบิน",
+            "audio_en_src": "I'm going to pick up a friend at the airport."
+          },
+          {
+            "thai": "ไปสนามบินใช้เวลาชั่วโมงนึง",
+            "en": "It takes about an hour to get to the airport.",
+            "audio_src": "ไปสนามบินใช้เวลาชั่วโมงนึง",
+            "audio_en_src": "It takes about an hour to get to the airport."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-143",
@@ -57659,7 +57752,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสื้อยืด",
-    "audio_en_src": "T-shirt"
+    "audio_en_src": "T-shirt",
+    "examples": [
+      {
+        "meaning": "T-shirt",
+        "sentences": [
+          {
+            "thai": "เขาใส่เสื้อยืดกับกางเกงยีนส์",
+            "en": "He's wearing a T-shirt and jeans.",
+            "audio_src": "เขาใส่เสื้อยืดกับกางเกงยีนส์",
+            "audio_en_src": "He's wearing a T-shirt and jeans."
+          },
+          {
+            "thai": "เสื้อยืดตัวนี้ใส่สบาย",
+            "en": "This T-shirt is comfy.",
+            "audio_src": "เสื้อยืดตัวนี้ใส่สบาย",
+            "audio_en_src": "This T-shirt is comfy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-144",
@@ -57767,7 +57879,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขนมปัง",
-    "audio_en_src": "bread"
+    "audio_en_src": "bread",
+    "examples": [
+      {
+        "meaning": "bread",
+        "sentences": [
+          {
+            "thai": "เช้านี้กินขนมปังกับนม",
+            "en": "This morning I had bread and milk.",
+            "audio_src": "เช้านี้กินขนมปังกับนม",
+            "audio_en_src": "This morning I had bread and milk."
+          },
+          {
+            "thai": "ขนมปังร้านนี้นุ่มมาก",
+            "en": "The bread at this shop is really soft.",
+            "audio_src": "ขนมปังร้านนี้นุ่มมาก",
+            "audio_en_src": "The bread at this shop is really soft."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-154",
@@ -57783,7 +57914,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กีฬา",
-    "audio_en_src": "sport"
+    "audio_en_src": "sport",
+    "examples": [
+      {
+        "meaning": "sport",
+        "sentences": [
+          {
+            "thai": "เขาชอบเล่นกีฬาทุกชนิด",
+            "en": "He likes playing all kinds of sports.",
+            "audio_src": "เขาชอบเล่นกีฬาทุกชนิด",
+            "audio_en_src": "He likes playing all kinds of sports."
+          },
+          {
+            "thai": "กีฬาที่ฉันชอบที่สุดคือว่ายน้ำ",
+            "en": "My favorite sport is swimming.",
+            "audio_src": "กีฬาที่ฉันชอบที่สุดคือว่ายน้ำ",
+            "audio_en_src": "My favorite sport is swimming."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-155",
@@ -57834,7 +57984,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำตาล",
-    "audio_en_src": "sugar"
+    "audio_en_src": "sugar",
+    "examples": [
+      {
+        "meaning": "sugar",
+        "sentences": [
+          {
+            "thai": "ใส่น้ำตาลสองช้อน",
+            "en": "Add two spoons of sugar.",
+            "audio_src": "ใส่น้ำตาลสองช้อน",
+            "audio_en_src": "Add two spoons of sugar."
+          },
+          {
+            "thai": "กาแฟไม่ใส่น้ำตาลนะ",
+            "en": "Coffee without sugar, please.",
+            "audio_src": "กาแฟไม่ใส่น้ำตาลนะ",
+            "audio_en_src": "Coffee without sugar, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-160",
@@ -57952,7 +58121,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกลือ",
-    "audio_en_src": "salt"
+    "audio_en_src": "salt",
+    "examples": [
+      {
+        "meaning": "salt",
+        "sentences": [
+          {
+            "thai": "แกงจืดไป เติมเกลือหน่อย",
+            "en": "The soup is too bland, add a bit of salt.",
+            "audio_src": "แกงจืดไป เติมเกลือหน่อย",
+            "audio_en_src": "The soup is too bland, add a bit of salt."
+          },
+          {
+            "thai": "กินเกลือเยอะไม่ดีต่อสุขภาพ",
+            "en": "Eating too much salt is bad for your health.",
+            "audio_src": "กินเกลือเยอะไม่ดีต่อสุขภาพ",
+            "audio_en_src": "Eating too much salt is bad for your health."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-170",
@@ -57968,7 +58156,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จักรยาน",
-    "audio_en_src": "bicycle"
+    "audio_en_src": "bicycle",
+    "examples": [
+      {
+        "meaning": "bicycle",
+        "sentences": [
+          {
+            "thai": "เขาขี่จักรยานไปโรงเรียน",
+            "en": "He rides a bicycle to school.",
+            "audio_src": "เขาขี่จักรยานไปโรงเรียน",
+            "audio_en_src": "He rides a bicycle to school."
+          },
+          {
+            "thai": "วันหยุดชอบปั่นจักรยานเล่น",
+            "en": "On days off I like to go cycling.",
+            "audio_src": "วันหยุดชอบปั่นจักรยานเล่น",
+            "audio_en_src": "On days off I like to go cycling."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-171",
