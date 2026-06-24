@@ -2780,30 +2780,52 @@ body[data-thai-font="sarabun"] .fc-type-input { font-family: 'Sarabun', 'Noto Sa
   border-radius: 12px;
   padding: 0.75rem 0.9rem;
 }
-.ex-meaning-head {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin-bottom: 0.6rem;
+/* Multi-meaning examples: one framed block with a tab per meaning. Tabs sit in
+   a row at the top; only the active meaning's sentences (panel) are shown. */
+.ex-block--tabs {
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.6rem 0.7rem;
 }
-.ex-meaning-num {
-  flex: 0 0 auto;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.45rem;
-  height: 1.45rem;
-  font-size: 0.8rem;
-  font-weight: 700;
+.ex-tabs {
+  display: flex;
+  gap: 0.35rem;
+  margin-bottom: 0.6rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.ex-tabs::-webkit-scrollbar { display: none; }
+.ex-tab {
+  flex: 0 1 auto;
+  min-width: 0;
+  max-width: 13rem;
+  padding: 0.38rem 0.8rem;
+  font-family: inherit;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.15s, background 0.15s, border-color 0.15s;
+}
+.ex-tab:hover { color: var(--text-soft); border-color: var(--accent); }
+.ex-tab.is-active {
   color: #fff;
   background: var(--accent);
-  border-radius: 50%;
+  border-color: var(--accent);
 }
-.ex-meaning-gloss {
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--text-soft);
+.ex-tab-label {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
+.ex-panel { display: none; }
+.ex-panel.is-active { display: block; animation: fc-reveal 0.18s ease; }
 .ex-list {
   list-style: none;
   display: flex;

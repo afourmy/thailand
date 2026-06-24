@@ -185,37 +185,65 @@
   function exAudioSrc(base, id, mi, si, en) {
     return base + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
   }
+  // The sentence list for one meaning group (shared by single- and multi-meaning
+  // layouts). mi is the meaning index, used to address that group's audio files.
+  function exSentencesHtml(g, wordId, base, mi) {
+    var html = '<ul class="ex-list">';
+    (g.sentences || []).forEach(function (s, si) {
+      var thSrc = escAttr(exAudioSrc(base, wordId, mi, si, false));
+      var enSrc = escAttr(exAudioSrc(base, wordId, mi, si, true));
+      html += '<li class="ex-item">' +
+        '<div class="ex-line ex-line--th">' +
+          '<button class="ex-play" type="button" data-src="' + thSrc + '" aria-label="Play Thai sentence">' + EX_SPEAKER_SVG + '</button>' +
+          '<span class="ex-th" lang="th">' + esc(s.thai || "") + '</span>' +
+        '</div>' +
+        '<div class="ex-line ex-line--en">' +
+          '<button class="ex-play" type="button" data-src="' + enSrc + '" aria-label="Play English sentence">' + EX_SPEAKER_SVG + '</button>' +
+          '<span class="ex-en">' + esc(s.en || "") + '</span>' +
+        '</div>' +
+      '</li>';
+    });
+    return html + '</ul>';
+  }
+  // A single meaning fills the frame directly; several meanings share one frame
+  // with a tab per meaning (only the active meaning's sentences are shown).
   function buildExamplesHtml(word, base) {
     var groups = word.examples || [];
     if (!groups.length) return "";
-    var multi = groups.length > 1;
-    var html = '<div class="ex-block">';
+    if (groups.length === 1) {
+      return '<div class="ex-block"><div class="ex-meaning">' +
+        exSentencesHtml(groups[0], word.id, base, 0) + '</div></div>';
+    }
+    var tabs = '<div class="ex-tabs" role="tablist">';
+    var panels = '<div class="ex-panels">';
     groups.forEach(function (g, mi) {
-      html += '<div class="ex-meaning">';
-      if (multi) {
-        html += '<div class="ex-meaning-head">' +
-          '<span class="ex-meaning-num">' + (mi + 1) + '</span>' +
-          '<span class="ex-meaning-gloss">' + esc(g.meaning || "") + '</span>' +
-          '</div>';
-      }
-      html += '<ul class="ex-list">';
-      (g.sentences || []).forEach(function (s, si) {
-        var thSrc = escAttr(exAudioSrc(base, word.id, mi, si, false));
-        var enSrc = escAttr(exAudioSrc(base, word.id, mi, si, true));
-        html += '<li class="ex-item">' +
-          '<div class="ex-line ex-line--th">' +
-            '<button class="ex-play" type="button" data-src="' + thSrc + '" aria-label="Play Thai sentence">' + EX_SPEAKER_SVG + '</button>' +
-            '<span class="ex-th" lang="th">' + esc(s.thai || "") + '</span>' +
-          '</div>' +
-          '<div class="ex-line ex-line--en">' +
-            '<button class="ex-play" type="button" data-src="' + enSrc + '" aria-label="Play English sentence">' + EX_SPEAKER_SVG + '</button>' +
-            '<span class="ex-en">' + esc(s.en || "") + '</span>' +
-          '</div>' +
-        '</li>';
-      });
-      html += '</ul></div>';
+      var on = mi === 0;
+      var gloss = g.meaning || "";
+      tabs += '<button type="button" class="ex-tab' + (on ? ' is-active' : '') +
+        '" data-ex-tab="' + mi + '" role="tab" aria-selected="' + on +
+        '" title="' + escAttr(gloss) + '"><span class="ex-tab-label">' + esc(gloss) +
+        '</span></button>';
+      panels += '<div class="ex-panel' + (on ? ' is-active' : '') +
+        '" data-ex-panel="' + mi + '" role="tabpanel">' +
+        exSentencesHtml(g, word.id, base, mi) + '</div>';
     });
-    return html + '</div>';
+    tabs += '</div>';
+    panels += '</div>';
+    return '<div class="ex-block ex-block--tabs">' + tabs + panels + '</div>';
+  }
+  // Activate the clicked meaning tab and reveal its panel.
+  function switchExTab(tab) {
+    var block = tab.closest(".ex-block--tabs");
+    if (!block) return;
+    var idx = tab.getAttribute("data-ex-tab");
+    block.querySelectorAll(".ex-tab").forEach(function (t) {
+      var on = t === tab;
+      t.classList.toggle("is-active", on);
+      t.setAttribute("aria-selected", on);
+    });
+    block.querySelectorAll(".ex-panel").forEach(function (p) {
+      p.classList.toggle("is-active", p.getAttribute("data-ex-panel") === idx);
+    });
   }
 
   // Independent audio channel for example sentences (separate from the card's
@@ -843,6 +871,8 @@
         this.innerHTML = buildExamplesHtml(info.word, audioBase);
         return;
       }
+      var tab = e.target.closest(".ex-tab");
+      if (tab) { stopExAudio(); switchExTab(tab); return; }
       var play = e.target.closest(".ex-play");
       if (play) playEx(play);
     });
