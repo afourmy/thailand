@@ -116691,7 +116691,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เห็น",
-    "audio_en_src": "to see"
+    "audio_en_src": "to see",
+    "examples": [
+      {
+        "meaning": "to see",
+        "sentences": [
+          {
+            "thai": "เห็นกระเป๋าฉันไหม",
+            "en": "Have you seen my bag?",
+            "audio_src": "เห็นกระเป๋าฉันไหม",
+            "audio_en_src": "Have you seen my bag?"
+          },
+          {
+            "thai": "ฉันเห็นเขาเมื่อเช้า",
+            "en": "I saw him this morning.",
+            "audio_src": "ฉันเห็นเขาเมื่อเช้า",
+            "audio_en_src": "I saw him this morning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-087",
@@ -116706,7 +116725,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อยู่",
-    "audio_en_src": "to be located at; to live, to stay"
+    "audio_en_src": "to be located at; to live, to stay",
+    "examples": [
+      {
+        "meaning": "to be located at",
+        "sentences": [
+          {
+            "thai": "ร้านอยู่ตรงหัวมุม",
+            "en": "The shop is on the corner.",
+            "audio_src": "ร้านอยู่ตรงหัวมุม",
+            "audio_en_src": "The shop is on the corner."
+          },
+          {
+            "thai": "แม่อยู่ในครัว",
+            "en": "Mom is in the kitchen.",
+            "audio_src": "แม่อยู่ในครัว",
+            "audio_en_src": "Mom is in the kitchen."
+          }
+        ]
+      },
+      {
+        "meaning": "to live, to stay",
+        "sentences": [
+          {
+            "thai": "ฉันอยู่กรุงเทพ",
+            "en": "I live in Bangkok.",
+            "audio_src": "ฉันอยู่กรุงเทพ",
+            "audio_en_src": "I live in Bangkok."
+          },
+          {
+            "thai": "คืนนี้เราจะอยู่ที่โรงแรม",
+            "en": "We'll stay at the hotel tonight.",
+            "audio_src": "คืนนี้เราจะอยู่ที่โรงแรม",
+            "audio_en_src": "We'll stay at the hotel tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-088",
@@ -116721,7 +116776,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อ่าน",
-    "audio_en_src": "to read"
+    "audio_en_src": "to read",
+    "examples": [
+      {
+        "meaning": "to read",
+        "sentences": [
+          {
+            "thai": "ฉันชอบอ่านหนังสือ",
+            "en": "I like to read books.",
+            "audio_src": "ฉันชอบอ่านหนังสือ",
+            "audio_en_src": "I like to read books."
+          },
+          {
+            "thai": "ป้ายนี้อ่านว่าอะไร",
+            "en": "What does this sign say?",
+            "audio_src": "ป้ายนี้อ่านว่าอะไร",
+            "audio_en_src": "What does this sign say?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-089",
@@ -116736,7 +116810,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อีก, อีกที",
-    "audio_en_src": "again, once more"
+    "audio_en_src": "again, once more",
+    "examples": [
+      {
+        "meaning": "again, once more",
+        "sentences": [
+          {
+            "thai": "พูดอีกทีได้ไหม",
+            "en": "Can you say that again?",
+            "audio_src": "พูดอีกทีได้ไหม",
+            "audio_en_src": "Can you say that again?"
+          },
+          {
+            "thai": "ขออีกแก้วนึง",
+            "en": "One more glass, please.",
+            "audio_src": "ขออีกแก้วนึง",
+            "audio_en_src": "One more glass, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-090",
@@ -116751,7 +116844,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอา",
-    "audio_en_src": "to get, to take, to want"
+    "audio_en_src": "to get, to take, to want",
+    "examples": [
+      {
+        "meaning": "to get, to take, to want",
+        "sentences": [
+          {
+            "thai": "เอาอันนี้ค่ะ",
+            "en": "I'll take this one.",
+            "audio_src": "เอาอันนี้ค่ะ",
+            "audio_en_src": "I'll take this one."
+          },
+          {
+            "thai": "เธอเอากาแฟไหม",
+            "en": "Do you want coffee?",
+            "audio_src": "เธอเอากาแฟไหม",
+            "audio_en_src": "Do you want coffee?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-091",
@@ -116766,7 +116878,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลับ",
-    "audio_en_src": "to return"
+    "audio_en_src": "to return",
+    "examples": [
+      {
+        "meaning": "to return",
+        "sentences": [
+          {
+            "thai": "เขากลับมาแล้ว",
+            "en": "He's come back.",
+            "audio_src": "เขากลับมาแล้ว",
+            "audio_en_src": "He's come back."
+          },
+          {
+            "thai": "ฉันจะกลับบ้านดึก",
+            "en": "I'll get home late.",
+            "audio_src": "ฉันจะกลับบ้านดึก",
+            "audio_en_src": "I'll get home late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-092",
@@ -116781,7 +116912,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ก่อน",
-    "audio_en_src": "before, first"
+    "audio_en_src": "before, first",
+    "examples": [
+      {
+        "meaning": "before, first",
+        "sentences": [
+          {
+            "thai": "ล้างมือก่อนกินข้าว",
+            "en": "Wash your hands before eating.",
+            "audio_src": "ล้างมือก่อนกินข้าว",
+            "audio_en_src": "Wash your hands before eating."
+          },
+          {
+            "thai": "ฉันขอไปก่อนนะ",
+            "en": "I'll get going first.",
+            "audio_src": "ฉันขอไปก่อนนะ",
+            "audio_en_src": "I'll get going first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-093",
@@ -116796,7 +116946,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กางเกง",
-    "audio_en_src": "trousers, pants"
+    "audio_en_src": "trousers, pants",
+    "examples": [
+      {
+        "meaning": "trousers, pants",
+        "sentences": [
+          {
+            "thai": "กางเกงตัวนี้คับไป",
+            "en": "These pants are too tight.",
+            "audio_src": "กางเกงตัวนี้คับไป",
+            "audio_en_src": "These pants are too tight."
+          },
+          {
+            "thai": "เขาใส่กางเกงขายาว",
+            "en": "He's wearing long trousers.",
+            "audio_src": "เขาใส่กางเกงขายาว",
+            "audio_en_src": "He's wearing long trousers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-094",
@@ -116811,7 +116980,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กิน",
-    "audio_en_src": "to eat"
+    "audio_en_src": "to eat",
+    "examples": [
+      {
+        "meaning": "to eat",
+        "sentences": [
+          {
+            "thai": "กินข้าวหรือยัง",
+            "en": "Have you eaten yet?",
+            "audio_src": "กินข้าวหรือยัง",
+            "audio_en_src": "Have you eaten yet?"
+          },
+          {
+            "thai": "ฉันไม่กินเผ็ด",
+            "en": "I don't eat spicy food.",
+            "audio_src": "ฉันไม่กินเผ็ด",
+            "audio_en_src": "I don't eat spicy food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-095",
@@ -116826,7 +117014,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เก่า",
-    "audio_en_src": "old; former, previous"
+    "audio_en_src": "old; former, previous",
+    "examples": [
+      {
+        "meaning": "(of things) old",
+        "sentences": [
+          {
+            "thai": "รถคันนี้เก่าแล้ว",
+            "en": "This car is old now.",
+            "audio_src": "รถคันนี้เก่าแล้ว",
+            "audio_en_src": "This car is old now."
+          },
+          {
+            "thai": "ฉันทิ้งเสื้อเก่าไปหลายตัว",
+            "en": "I threw out several old shirts.",
+            "audio_src": "ฉันทิ้งเสื้อเก่าไปหลายตัว",
+            "audio_en_src": "I threw out several old shirts."
+          }
+        ]
+      },
+      {
+        "meaning": "former, previous",
+        "sentences": [
+          {
+            "thai": "นี่คือโรงเรียนเก่าของฉัน",
+            "en": "This is my old school.",
+            "audio_src": "นี่คือโรงเรียนเก่าของฉัน",
+            "audio_en_src": "This is my old school."
+          },
+          {
+            "thai": "แฟนเก่าเขาเป็นคนดี",
+            "en": "His ex was a good person.",
+            "audio_src": "แฟนเก่าเขาเป็นคนดี",
+            "audio_en_src": "His ex was a good person."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-096",

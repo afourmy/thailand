@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1151 words**
+**Total: 1161 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1155,3 +1155,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-093` : กางเกง (trousers, pants) : 1 meaning(s), 2 sentences
 - `wlt-c20-094` : กิน (to eat) : 1 meaning(s), 2 sentences
 - `wlt-c20-095` : เก่า ((of things) old; former, previous) : 2 meaning(s), 4 sentences
+- `wlt-c20-096` : ไกล (far) : 1 meaning(s), 2 sentences
+- `wlt-c20-097` : ของ (of, belonging to) : 1 meaning(s), 2 sentences
+- `wlt-c20-098` : ข้างๆ (beside, next to, nearby) : 1 meaning(s), 2 sentences
+- `wlt-c20-099` : ขาย (to sell) : 1 meaning(s), 2 sentences
+- `wlt-c21-000` : ขึ้น (to go up, to rise; to get on (vehicle)) : 2 meaning(s), 4 sentences
+- `wlt-c21-001` : เข้าใจ (to understand) : 1 meaning(s), 2 sentences
+- `wlt-c21-003` : ง่าย (easy) : 1 meaning(s), 2 sentences
+- `wlt-c21-004` : จาก (from) : 1 meaning(s), 2 sentences
+- `wlt-c21-005` : จ่าย (to pay, to spend) : 1 meaning(s), 2 sentences
+- `wlt-c21-006` : ชอบ (to like) : 1 meaning(s), 2 sentences
