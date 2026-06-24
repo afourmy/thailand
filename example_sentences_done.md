@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 991 words**
+**Total: 1001 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -994,4 +994,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-064` : สาว (girl, young woman) : 1 meaning(s), 2 sentences
 - `wlt-c17-065` : สิบ (ten (10)) : 1 meaning(s), 2 sentences
 - `wlt-c17-066` : สีเขียว (green) : 1 meaning(s), 2 sentences
+- `wlt-c17-067` : สีน้ำเงิน (navy blue) : 1 meaning(s), 2 sentences
+- `wlt-c17-068` : เสร็จ (to finish, complete, succeed) : 1 meaning(s), 2 sentences
+- `wlt-c17-069` : หก (six (6)) : 1 meaning(s), 2 sentences
+- `wlt-c17-070` : หนังสือ (book) : 1 meaning(s), 2 sentences
+- `wlt-c17-071` : หนึ่ง ๑ (one (1)) : 1 meaning(s), 2 sentences
+- `wlt-c17-072` : หมา (dog) : 1 meaning(s), 2 sentences
+- `wlt-c17-074` : หลาย (many, several, a lot) : 1 meaning(s), 2 sentences
+- `wlt-c17-075` : ห้อง (room) : 1 meaning(s), 2 sentences
+- `wlt-c17-076` : หอม (to kiss (Thai style, on the cheek); to smell good) : 2 meaning(s), 4 sentences
+- `wlt-c17-078` : หู (ear) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

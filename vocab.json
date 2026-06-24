@@ -110361,7 +110361,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีน้ำเงิน",
-    "audio_en_src": "navy blue"
+    "audio_en_src": "navy blue",
+    "examples": [
+      {
+        "meaning": "navy blue",
+        "sentences": [
+          {
+            "thai": "เขาใส่เสื้อสีน้ำเงิน",
+            "en": "He's wearing a navy blue shirt.",
+            "audio_src": "เขาใส่เสื้อสีน้ำเงิน",
+            "audio_en_src": "He's wearing a navy blue shirt."
+          },
+          {
+            "thai": "ฉันอยากได้กระเป๋าสีน้ำเงิน",
+            "en": "I'd like a navy blue bag.",
+            "audio_src": "ฉันอยากได้กระเป๋าสีน้ำเงิน",
+            "audio_en_src": "I'd like a navy blue bag."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-068",
@@ -110376,7 +110395,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสร็จ",
-    "audio_en_src": "to finish, complete, succeed"
+    "audio_en_src": "to finish, complete, succeed",
+    "examples": [
+      {
+        "meaning": "to finish, complete, succeed",
+        "sentences": [
+          {
+            "thai": "งานเสร็จแล้ว กลับบ้านได้",
+            "en": "The work's done, we can go home.",
+            "audio_src": "งานเสร็จแล้ว กลับบ้านได้",
+            "audio_en_src": "The work's done, we can go home."
+          },
+          {
+            "thai": "กินข้าวเสร็จยัง",
+            "en": "Have you finished eating yet?",
+            "audio_src": "กินข้าวเสร็จยัง",
+            "audio_en_src": "Have you finished eating yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-069",
@@ -110391,7 +110429,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หก",
-    "audio_en_src": "six"
+    "audio_en_src": "six",
+    "examples": [
+      {
+        "meaning": "six (6)",
+        "sentences": [
+          {
+            "thai": "ฉันตื่นหกโมงเช้าทุกวัน",
+            "en": "I wake up at six every morning.",
+            "audio_src": "ฉันตื่นหกโมงเช้าทุกวัน",
+            "audio_en_src": "I wake up at six every morning."
+          },
+          {
+            "thai": "ขอเบียร์หกขวด",
+            "en": "Six bottles of beer, please.",
+            "audio_src": "ขอเบียร์หกขวด",
+            "audio_en_src": "Six bottles of beer, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-070",
@@ -110406,7 +110463,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนังสือ",
-    "audio_en_src": "book"
+    "audio_en_src": "book",
+    "examples": [
+      {
+        "meaning": "book",
+        "sentences": [
+          {
+            "thai": "ฉันชอบอ่านหนังสือก่อนนอน",
+            "en": "I like to read a book before bed.",
+            "audio_src": "ฉันชอบอ่านหนังสือก่อนนอน",
+            "audio_en_src": "I like to read a book before bed."
+          },
+          {
+            "thai": "หนังสือเล่มนี้สนุกมาก",
+            "en": "This book is really fun.",
+            "audio_src": "หนังสือเล่มนี้สนุกมาก",
+            "audio_en_src": "This book is really fun."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-071",
@@ -110420,7 +110496,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนึ่ง ๑",
-    "audio_en_src": "one"
+    "audio_en_src": "one",
+    "examples": [
+      {
+        "meaning": "one (1)",
+        "sentences": [
+          {
+            "thai": "ขอกาแฟหนึ่งแก้ว",
+            "en": "One coffee, please.",
+            "audio_src": "ขอกาแฟหนึ่งแก้ว",
+            "audio_en_src": "One coffee, please."
+          },
+          {
+            "thai": "เหลือเวลาอีกหนึ่งชั่วโมง",
+            "en": "There's one hour left.",
+            "audio_src": "เหลือเวลาอีกหนึ่งชั่วโมง",
+            "audio_en_src": "There's one hour left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-072",
@@ -110435,7 +110530,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมา",
-    "audio_en_src": "dog"
+    "audio_en_src": "dog",
+    "examples": [
+      {
+        "meaning": "dog",
+        "sentences": [
+          {
+            "thai": "หมาตัวนี้ขี้เล่นมาก",
+            "en": "This dog is so playful.",
+            "audio_src": "หมาตัวนี้ขี้เล่นมาก",
+            "audio_en_src": "This dog is so playful."
+          },
+          {
+            "thai": "ระวังหมาดุนะ",
+            "en": "Watch out, the dog bites.",
+            "audio_src": "ระวังหมาดุนะ",
+            "audio_en_src": "Watch out, the dog bites."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-073",
@@ -110460,7 +110574,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลาย",
-    "audio_en_src": "many, several, a lot"
+    "audio_en_src": "many, several, a lot",
+    "examples": [
+      {
+        "meaning": "many, several, a lot",
+        "sentences": [
+          {
+            "thai": "ฉันไปมาหลายครั้งแล้ว",
+            "en": "I've been there several times.",
+            "audio_src": "ฉันไปมาหลายครั้งแล้ว",
+            "audio_en_src": "I've been there several times."
+          },
+          {
+            "thai": "ในตู้เย็นมีของหลายอย่าง",
+            "en": "There are many things in the fridge.",
+            "audio_src": "ในตู้เย็นมีของหลายอย่าง",
+            "audio_en_src": "There are many things in the fridge."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-075",
@@ -110475,7 +110608,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห้อง",
-    "audio_en_src": "room"
+    "audio_en_src": "room",
+    "examples": [
+      {
+        "meaning": "room",
+        "sentences": [
+          {
+            "thai": "ห้องนี้กว้างมาก",
+            "en": "This room is really spacious.",
+            "audio_src": "ห้องนี้กว้างมาก",
+            "audio_en_src": "This room is really spacious."
+          },
+          {
+            "thai": "ฉันอยากได้ห้องที่มีหน้าต่าง",
+            "en": "I'd like a room with a window.",
+            "audio_src": "ฉันอยากได้ห้องที่มีหน้าต่าง",
+            "audio_en_src": "I'd like a room with a window."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-076",
@@ -110490,7 +110642,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หอม",
-    "audio_en_src": "to kiss; to smell good"
+    "audio_en_src": "to kiss; to smell good",
+    "examples": [
+      {
+        "meaning": "to kiss (Thai style, on the cheek)",
+        "sentences": [
+          {
+            "thai": "แม่หอมแก้มลูก",
+            "en": "The mom kissed her child's cheek.",
+            "audio_src": "แม่หอมแก้มลูก",
+            "audio_en_src": "The mom kissed her child's cheek."
+          },
+          {
+            "thai": "ขอหอมหน่อย",
+            "en": "Give me a kiss.",
+            "audio_src": "ขอหอมหน่อย",
+            "audio_en_src": "Give me a kiss."
+          }
+        ]
+      },
+      {
+        "meaning": "to smell good",
+        "sentences": [
+          {
+            "thai": "ดอกไม้นี้หอมมาก",
+            "en": "These flowers smell so good.",
+            "audio_src": "ดอกไม้นี้หอมมาก",
+            "audio_en_src": "These flowers smell so good."
+          },
+          {
+            "thai": "กับข้าวหอมน่ากิน",
+            "en": "The food smells delicious.",
+            "audio_src": "กับข้าวหอมน่ากิน",
+            "audio_en_src": "The food smells delicious."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-078",
@@ -110505,7 +110693,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หู",
-    "audio_en_src": "ear"
+    "audio_en_src": "ear",
+    "examples": [
+      {
+        "meaning": "ear",
+        "sentences": [
+          {
+            "thai": "เขากระซิบที่หูฉัน",
+            "en": "He whispered in my ear.",
+            "audio_src": "เขากระซิบที่หูฉัน",
+            "audio_en_src": "He whispered in my ear."
+          },
+          {
+            "thai": "กระต่ายมีหูยาว",
+            "en": "Rabbits have long ears.",
+            "audio_src": "กระต่ายมีหูยาว",
+            "audio_en_src": "Rabbits have long ears."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-079",
