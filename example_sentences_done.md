@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 961 words**
+**Total: 971 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -964,4 +964,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-024` : แปล (to translate) : 1 meaning(s), 2 sentences
 - `wlt-c17-025` : ผ้า (cloth) : 1 meaning(s), 2 sentences
 - `wlt-c17-026` : ผู้หญิง (girl, woman) : 1 meaning(s), 2 sentences
+- `wlt-c17-028` : พฤษภาคม (May) : 1 meaning(s), 2 sentences
+- `wlt-c17-029` : พี่ ((someone older) I, he, she, you, brother, sister) : 1 meaning(s), 2 sentences
+- `wlt-c17-031` : ภายใน (within) : 1 meaning(s), 2 sentences
+- `wlt-c17-032` : ภาษา (language) : 1 meaning(s), 2 sentences
+- `wlt-c17-033` : มอง (to look, to gaze) : 1 meaning(s), 2 sentences
+- `wlt-c17-034` : ม้า (horse) : 1 meaning(s), 2 sentences
+- `wlt-c17-035` : มืด (dark) : 1 meaning(s), 2 sentences
+- `wlt-c17-036` : เมื่อวาน (นี้) (yesterday) : 1 meaning(s), 2 sentences
+- `wlt-c17-037` : แม่ (mother) : 1 meaning(s), 2 sentences
+- `wlt-c17-038` : แม่น้ำ (river) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
