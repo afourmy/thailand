@@ -399,11 +399,15 @@
 
   function startSession() {
     queue = pendingQueue ? pendingQueue.slice() : buildQueue().queue;
-    // TEMPORARY (testing example sentences): force คำ (chula-l6-185) to appear
-    // first, regardless of scheduling. Delete this block to revert.
-    var TEST_ID = "chula-l6-185:t2e";
-    queue = queue.filter(function (id) { return id !== TEST_ID; });
-    queue.unshift(TEST_ID);
+    // TEMPORARY (testing example sentences): force every word that has examples
+    // to the front of the queue (Thai->English), regardless of scheduling.
+    // Delete this block to revert.
+    var exFirst = words
+      .filter(function (w) { return w.examples && w.examples.length; })
+      .map(function (w) { return w.id + ":t2e"; });
+    var exSet = {};
+    exFirst.forEach(function (id) { exSet[id] = true; });
+    queue = exFirst.concat(queue.filter(function (id) { return !exSet[id]; }));
     // end temporary
     sessionTotal = queue.length;
     reviewed = 0;

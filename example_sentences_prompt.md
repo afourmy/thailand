@@ -10,3 +10,5 @@ These sentences should:
 - **Never use the em dash character (—)** in the sentences or the English translations. Use commas, colons, parentheses, or separate sentences instead.
 
 In short: keep the sentences simple, make sure they sound like something a native speaker would naturally say (natural Thai for the Thai, natural English for the translation), and always remember that this is a language-learning app built to help learners.
+
+When you are done generating, make a second pass over everything you wrote to check that there are no translation issues and no discrepancies between the Thai and the English: every Thai sentence and its translation should mean the same thing, with nothing added, dropped, or mismatched.
