@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 801 words**
+**Total: 811 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -803,5 +803,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-035` : ไม่ใช่ (no, 'that's not it') : 1 meaning(s), 2 sentences
 - `wlt-c14-036` : ไม่เป็นไร (it's okay, no problem, never mind) : 1 meaning(s), 2 sentences
 - `wlt-c14-039` : ย่า (grandmother (father's mother)) : 1 meaning(s), 2 sentences
+- `wlt-c14-041` : ยาย (grandmother (mother's mother)) : 1 meaning(s), 2 sentences
+- `wlt-c14-044` : เยอะ, เยอะแยะ (a lot, plenty) : 1 meaning(s), 2 sentences
+- `wlt-c14-049` : ร้องไห้ (to cry) : 1 meaning(s), 2 sentences
+- `wlt-c14-050` : ระวัง (careful) : 1 meaning(s), 2 sentences
+- `wlt-c14-054` : รีบ (to hurry) : 1 meaning(s), 2 sentences
+- `wlt-c14-057` : ลด (to reduce, to lower; to discount) : 2 meaning(s), 4 sentences
+- `wlt-c14-060` : ลอง (to try out) : 1 meaning(s), 2 sentences
+- `wlt-c14-064` : แล้วก็ (and, and then) : 1 meaning(s), 2 sentences
+- `wlt-c14-065` : วันที่ (date) : 1 meaning(s), 2 sentences
+- `wlt-c14-068` : แว่นตา (glasses) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

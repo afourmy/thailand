@@ -102425,7 +102425,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผัก",
-    "audio_en_src": "vegetables"
+    "audio_en_src": "vegetables",
+    "examples": [
+      {
+        "meaning": "vegetables",
+        "sentences": [
+          {
+            "thai": "เด็กๆไม่ค่อยชอบกินผัก",
+            "en": "Kids don't really like eating vegetables.",
+            "audio_src": "เด็กๆไม่ค่อยชอบกินผัก",
+            "audio_en_src": "Kids don't really like eating vegetables."
+          },
+          {
+            "thai": "ฉันปลูกผักไว้กินเองที่บ้าน",
+            "en": "I grow my own vegetables at home.",
+            "audio_src": "ฉันปลูกผักไว้กินเองที่บ้าน",
+            "audio_en_src": "I grow my own vegetables at home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-012",
@@ -102439,7 +102458,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผ้าเช็ดตัว",
-    "audio_en_src": "towel"
+    "audio_en_src": "towel",
+    "examples": [
+      {
+        "meaning": "towel",
+        "sentences": [
+          {
+            "thai": "อาบน้ำเสร็จเอาผ้าเช็ดตัวมาเช็ด",
+            "en": "After a shower, dry off with a towel.",
+            "audio_src": "อาบน้ำเสร็จเอาผ้าเช็ดตัวมาเช็ด",
+            "audio_en_src": "After a shower, dry off with a towel."
+          },
+          {
+            "thai": "ลืมเอาผ้าเช็ดตัวไปโรงแรม",
+            "en": "I forgot to bring a towel to the hotel.",
+            "audio_src": "ลืมเอาผ้าเช็ดตัวไปโรงแรม",
+            "audio_en_src": "I forgot to bring a towel to the hotel."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-013",
@@ -102454,7 +102492,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผิด",
-    "audio_en_src": "wrong, incorrect, mistaken"
+    "audio_en_src": "wrong, incorrect, mistaken",
+    "examples": [
+      {
+        "meaning": "wrong, incorrect, mistaken",
+        "sentences": [
+          {
+            "thai": "ฉันทำผิดเอง ขอโทษด้วย",
+            "en": "It was my mistake, I'm sorry.",
+            "audio_src": "ฉันทำผิดเอง ขอโทษด้วย",
+            "audio_en_src": "It was my mistake, I'm sorry."
+          },
+          {
+            "thai": "เขาเขียนชื่อฉันผิด",
+            "en": "He spelled my name wrong.",
+            "audio_src": "เขาเขียนชื่อฉันผิด",
+            "audio_en_src": "He spelled my name wrong."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-014",
@@ -102501,7 +102558,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พี่น้อง",
-    "audio_en_src": "siblings"
+    "audio_en_src": "siblings",
+    "examples": [
+      {
+        "meaning": "siblings",
+        "sentences": [
+          {
+            "thai": "ครอบครัวฉันมีพี่น้องสามคน",
+            "en": "There are three siblings in my family.",
+            "audio_src": "ครอบครัวฉันมีพี่น้องสามคน",
+            "audio_en_src": "There are three siblings in my family."
+          },
+          {
+            "thai": "พี่น้องควรรักกัน",
+            "en": "Siblings should love each other.",
+            "audio_src": "พี่น้องควรรักกัน",
+            "audio_en_src": "Siblings should love each other."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-020",
@@ -102516,7 +102592,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพลง",
-    "audio_en_src": "song"
+    "audio_en_src": "song",
+    "examples": [
+      {
+        "meaning": "song",
+        "sentences": [
+          {
+            "thai": "เพลงนี้ฟังแล้วเศร้า",
+            "en": "This song makes me feel sad.",
+            "audio_src": "เพลงนี้ฟังแล้วเศร้า",
+            "audio_en_src": "This song makes me feel sad."
+          },
+          {
+            "thai": "เขาแต่งเพลงให้แฟน",
+            "en": "He wrote a song for his girlfriend.",
+            "audio_src": "เขาแต่งเพลงให้แฟน",
+            "audio_en_src": "He wrote a song for his girlfriend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-021",
@@ -102531,7 +102626,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แพ้",
-    "audio_en_src": "to lose; allergic to"
+    "audio_en_src": "to lose; allergic to",
+    "examples": [
+      {
+        "meaning": "to lose (e.g in a game)",
+        "sentences": [
+          {
+            "thai": "ทีมเราแพ้ไปสองต่อสาม",
+            "en": "Our team lost two to three.",
+            "audio_src": "ทีมเราแพ้ไปสองต่อสาม",
+            "audio_en_src": "Our team lost two to three."
+          },
+          {
+            "thai": "เล่นหมากรุกแพ้ทุกครั้ง",
+            "en": "I lose at chess every time.",
+            "audio_src": "เล่นหมากรุกแพ้ทุกครั้ง",
+            "audio_en_src": "I lose at chess every time."
+          }
+        ]
+      },
+      {
+        "meaning": "allergic to",
+        "sentences": [
+          {
+            "thai": "ฉันแพ้อาหารทะเล",
+            "en": "I'm allergic to seafood.",
+            "audio_src": "ฉันแพ้อาหารทะเล",
+            "audio_en_src": "I'm allergic to seafood."
+          },
+          {
+            "thai": "เขาแพ้ฝุ่น จามตลอด",
+            "en": "He's allergic to dust, he sneezes constantly.",
+            "audio_src": "เขาแพ้ฝุ่น จามตลอด",
+            "audio_en_src": "He's allergic to dust, he sneezes constantly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-022",
@@ -102556,7 +102687,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แฟน",
-    "audio_en_src": "boyfriend, girlfriend, partner"
+    "audio_en_src": "boyfriend, girlfriend, partner",
+    "examples": [
+      {
+        "meaning": "boyfriend, girlfriend, partner",
+        "sentences": [
+          {
+            "thai": "แฟนฉันทำงานที่โรงพยาบาล",
+            "en": "My partner works at a hospital.",
+            "audio_src": "แฟนฉันทำงานที่โรงพยาบาล",
+            "audio_en_src": "My partner works at a hospital."
+          },
+          {
+            "thai": "เขาเพิ่งมีแฟนใหม่",
+            "en": "He just got a new girlfriend.",
+            "audio_src": "เขาเพิ่งมีแฟนใหม่",
+            "audio_en_src": "He just got a new girlfriend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-026",
@@ -102645,7 +102795,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่ใช่",
-    "audio_en_src": "no, 'that's not it'"
+    "audio_en_src": "no, 'that's not it'",
+    "examples": [
+      {
+        "meaning": "no, 'that's not it'",
+        "sentences": [
+          {
+            "thai": "ไม่ใช่ ฉันไม่ได้พูดแบบนั้น",
+            "en": "No, that's not what I said.",
+            "audio_src": "ไม่ใช่ ฉันไม่ได้พูดแบบนั้น",
+            "audio_en_src": "No, that's not what I said."
+          },
+          {
+            "thai": "นี่กระเป๋าของเธอใช่ไหม ไม่ใช่",
+            "en": "Is this your bag? No, it isn't.",
+            "audio_src": "นี่กระเป๋าของเธอใช่ไหม ไม่ใช่",
+            "audio_en_src": "Is this your bag? No, it isn't."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-036",
@@ -102659,7 +102828,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่เป็นไร",
-    "audio_en_src": "it's okay, no problem, never mind"
+    "audio_en_src": "it's okay, no problem, never mind",
+    "examples": [
+      {
+        "meaning": "it's okay, no problem, never mind",
+        "sentences": [
+          {
+            "thai": "ขอโทษนะ ไม่เป็นไรหรอก",
+            "en": "Sorry. It's okay, no worries.",
+            "audio_src": "ขอโทษนะ ไม่เป็นไรหรอก",
+            "audio_en_src": "Sorry. It's okay, no worries."
+          },
+          {
+            "thai": "ทำพังก็ไม่เป็นไร ซื้อใหม่ได้",
+            "en": "It's fine if it breaks, we can buy a new one.",
+            "audio_src": "ทำพังก็ไม่เป็นไร ซื้อใหม่ได้",
+            "audio_en_src": "It's fine if it breaks, we can buy a new one."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-037",
@@ -102684,7 +102872,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ย่า",
-    "audio_en_src": "grandmother"
+    "audio_en_src": "grandmother",
+    "examples": [
+      {
+        "meaning": "grandmother (father's mother)",
+        "sentences": [
+          {
+            "thai": "ย่าทำขนมไทยอร่อยมาก",
+            "en": "Grandma makes really good Thai desserts.",
+            "audio_src": "ย่าทำขนมไทยอร่อยมาก",
+            "audio_en_src": "Grandma makes really good Thai desserts."
+          },
+          {
+            "thai": "วันหยุดฉันไปหาย่าที่บ้าน",
+            "en": "On holidays I visit grandma at her house.",
+            "audio_src": "วันหยุดฉันไปหาย่าที่บ้าน",
+            "audio_en_src": "On holidays I visit grandma at her house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-040",
