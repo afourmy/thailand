@@ -79,6 +79,18 @@
           </label>
         </div>
 
+        <div class="fc-setting">
+          <span class="fc-setting-label">Show examples</span>
+          <button type="button" class="fc-info" aria-label="What is Show examples?">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+            <span class="fc-info-bubble" role="tooltip">When on, a card shows its example sentences as soon as you reveal the answer. When off, a speech-bubble icon on the card opens them in a pop-up instead.</span>
+          </button>
+          <label class="fc-switch" style="margin-left:auto">
+            <input type="checkbox" id="fc-show-examples">
+            <span class="fc-switch-track"><span class="fc-switch-thumb"></span></span>
+          </label>
+        </div>
+
       </div>
 
       <button class="fc-start" id="fc-start" type="button">Start studying</button>
@@ -110,6 +122,9 @@
             </button>
             <button class="fc-suspend" id="fc-suspend" type="button" aria-label="Suspend this card" title="Suspend / Unsuspend">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><line x1="5.5" y1="5.5" x2="18.5" y2="18.5"/></svg>
+            </button>
+            <button class="fc-ex-card-btn" id="fc-ex-card-btn" type="button" aria-label="Example sentences" title="Example sentences" hidden>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
             </button>
           </div>
         </div>

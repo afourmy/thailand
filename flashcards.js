@@ -47,7 +47,10 @@
   if (config.typeMode === undefined) config.typeMode = config.answerMode === "type";
   config.typeMode = !!config.typeMode;
   delete config.answerMode;
-  delete config.showExamples; // removed: examples are always opened via a button
+  // Show examples: when on (default), a revealed card shows its example sentences
+  // inline; when off, a bubble icon on the card opens them in a modal instead.
+  if (config.showExamples === undefined) config.showExamples = true;
+  config.showExamples = !!config.showExamples;
 
   // Direction filter: which card directions are eligible for the queue and the
   // stat counts. "both" returns the full DIRS list; the others restrict to one.
@@ -180,8 +183,6 @@
   // buttons simply no-op (play() rejects) for now. Kept identical in vocab.js.
   var EX_SPEAKER_SVG =
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
-  var EX_BUBBLE_SVG =
-    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
   function exAudioSrc(base, id, mi, si, en) {
     return base + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
   }
@@ -243,6 +244,47 @@
     });
     block.querySelectorAll(".ex-panel").forEach(function (p) {
       p.classList.toggle("is-active", p.getAttribute("data-ex-panel") === idx);
+    });
+  }
+
+  // Speaker button for the word itself, by explicit src, played through the same
+  // example-audio channel as the modal's sentence buttons. "" when absent.
+  function exWordSpeakerBtn(src, label) {
+    if (!src) return "";
+    return '<button class="ex-play" type="button" data-src="' + escAttr(src) +
+      '" aria-label="' + label + '">' + EX_SPEAKER_SVG + '</button>';
+  }
+  // Modal listing a word's example sentences (used when "Show examples" is off).
+  // Closes on backdrop click, the ×, or Escape; mirrors the vocabulary page.
+  function openExamplesModal(word) {
+    stopExAudio();
+    var thSpk = exWordSpeakerBtn(sideAudio(word, true), "Play Thai word");
+    var enSpk = exWordSpeakerBtn(sideAudio(word, false), "Play English word");
+    var backdrop = document.createElement("div");
+    backdrop.className = "vocab-modal-backdrop ex-modal-backdrop";
+    backdrop.innerHTML =
+      '<div class="vocab-modal ex-modal">' +
+        '<button class="ex-modal-close" type="button" aria-label="Close">&times;</button>' +
+        '<div class="ex-modal-head">' +
+          '<div class="ex-modal-line">' + thSpk + '<span class="ex-modal-thai" lang="th">' + esc(word.thai) + '</span></div>' +
+          '<div class="ex-modal-line">' + enSpk + '<span class="ex-modal-en">' + esc(word.english) + '</span></div>' +
+        '</div>' +
+        buildExamplesHtml(word, audioBase) +
+      '</div>';
+    document.body.appendChild(backdrop);
+    function close() {
+      stopExAudio();
+      if (backdrop.parentNode) document.body.removeChild(backdrop);
+      document.removeEventListener("keydown", onKey);
+    }
+    function onKey(e) { if (e.key === "Escape") { e.stopPropagation(); close(); } }
+    document.addEventListener("keydown", onKey);
+    backdrop.addEventListener("click", function (e) {
+      if (e.target === backdrop || e.target.closest(".ex-modal-close")) { close(); return; }
+      var tab = e.target.closest(".ex-tab");
+      if (tab) { stopExAudio(); switchExTab(tab); return; }
+      var play = e.target.closest(".ex-play");
+      if (play) playEx(play);
     });
   }
 
@@ -471,7 +513,9 @@
     // Examples are hidden until the answer is revealed; reset any prior card's.
     stopExAudio();
     var exHost = $("fc-examples");
-    if (exHost) { exHost.hidden = true; exHost.innerHTML = ""; exHost.classList.remove("fc-ex--collapsed"); }
+    if (exHost) { exHost.hidden = true; exHost.innerHTML = ""; }
+    var exCardBtn = $("fc-ex-card-btn");
+    if (exCardBtn) exCardBtn.hidden = true;
 
     // Speaker reflects the side currently on screen (the front, until reveal).
     var speak = $("fc-speak");
@@ -605,20 +649,21 @@
     speak.hidden = !backSrc;
     if (backSrc) playAudio();
 
-    // When the card has examples, show a button to reveal them on demand.
+    // Examples on reveal: with the setting on, render them inline; with it off,
+    // surface the card's bubble icon, which opens them in a modal on demand.
+    var hasEx = info.word.examples && info.word.examples.length;
     var exHost = $("fc-examples");
     if (exHost) {
-      if (info.word.examples && info.word.examples.length) {
-        exHost.classList.add("fc-ex--collapsed"); // centers the button in the gap (desktop)
-        exHost.innerHTML =
-          '<button class="fc-ex-toggle" type="button">' + EX_BUBBLE_SVG +
-          "<span>Show examples</span></button>";
+      if (hasEx && config.showExamples) {
+        exHost.innerHTML = buildExamplesHtml(info.word, audioBase);
         exHost.hidden = false;
       } else {
         exHost.hidden = true;
         exHost.innerHTML = "";
       }
     }
+    var exCardBtn = $("fc-ex-card-btn");
+    if (exCardBtn) exCardBtn.hidden = !(hasEx && !config.showExamples);
   }
 
   function grade(g) {
@@ -861,20 +906,19 @@
       if (btn) grade(+btn.getAttribute("data-grade"));
     });
 
-    // Example-sentence speaker buttons (Thai / English per sentence), plus the
-    // per-card "Show examples" toggle shown when the setting is off.
+    // Inline example sentences: meaning tabs + per-sentence speaker buttons.
     $("fc-examples").addEventListener("click", function (e) {
-      var toggle = e.target.closest(".fc-ex-toggle");
-      if (toggle) {
-        var info = parseId(curId);
-        this.classList.remove("fc-ex--collapsed"); // expanded list flows normally
-        this.innerHTML = buildExamplesHtml(info.word, audioBase);
-        return;
-      }
       var tab = e.target.closest(".ex-tab");
       if (tab) { stopExAudio(); switchExTab(tab); return; }
       var play = e.target.closest(".ex-play");
       if (play) playEx(play);
+    });
+
+    // Examples bubble on the card (shown when "Show examples" is off): opens the
+    // word's example sentences in a modal.
+    $("fc-ex-card-btn").addEventListener("click", function () {
+      var info = parseId(curId);
+      if (info && info.word) openExamplesModal(info.word);
     });
 
     // Type mode: no feedback while typing; Enter checks (reveals).
@@ -889,6 +933,8 @@
     if (window.__fcKeydown) document.removeEventListener("keydown", window.__fcKeydown);
     window.__fcKeydown = function (e) {
       if (reviewEl.hidden) return;
+      // An open examples modal owns the keyboard (its own Escape handler closes it).
+      if (document.querySelector(".ex-modal-backdrop")) return;
       // While typing Thai, let the field own every key (space/Enter handled there).
       var t = e.target;
       if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA")) return;
@@ -913,6 +959,17 @@
     });
   }
 
+  // ── Show-examples setting ────────────────────────────────────────────────────
+  function renderExamplesToggle() {
+    $("fc-show-examples").checked = config.showExamples;
+  }
+  function wireExamplesToggle() {
+    $("fc-show-examples").addEventListener("change", function (e) {
+      config.showExamples = e.target.checked;
+      saveConfig();
+    });
+  }
+
   // ── Boot ───────────────────────────────────────────────────────────────────
   var thisScript = document.querySelector('script[src$="flashcards.js"]');
   var dataUrl = thisScript ? new URL("vocab.json", thisScript.src).href : "vocab.json";
@@ -927,11 +984,13 @@
       renderDirectionSelect();
       renderListeningToggle();
       renderTypeToggle();
+      renderExamplesToggle();
       wireSettings();
       wireDeckBar();
       wireDirectionSelect();
       wireListeningToggle();
       wireTypeToggle();
+      wireExamplesToggle();
       wireInfoTooltips();
       wire();
       refreshStats();
