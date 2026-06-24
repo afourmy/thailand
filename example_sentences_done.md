@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 791 words**
+**Total: 801 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -793,5 +793,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-097` : เบอร์ (number (for room, telephone, cloth size, etc)) : 1 meaning(s), 2 sentences
 - `wlt-c13-098` : เบียร์ (beer) : 1 meaning(s), 2 sentences
 - `wlt-c14-001` : ประเทศไทย (Thailand) : 1 meaning(s), 2 sentences
+- `wlt-c14-011` : ผัก (vegetables) : 1 meaning(s), 2 sentences
+- `wlt-c14-012` : ผ้าเช็ดตัว (towel) : 1 meaning(s), 2 sentences
+- `wlt-c14-013` : ผิด (wrong, incorrect, mistaken) : 1 meaning(s), 2 sentences
+- `wlt-c14-019` : พี่น้อง (siblings) : 1 meaning(s), 2 sentences
+- `wlt-c14-020` : เพลง (song) : 1 meaning(s), 2 sentences
+- `wlt-c14-021` : แพ้ (to lose (e.g in a game); allergic to) : 2 meaning(s), 4 sentences
+- `wlt-c14-025` : แฟน (boyfriend, girlfriend, partner) : 1 meaning(s), 2 sentences
+- `wlt-c14-035` : ไม่ใช่ (no, 'that's not it') : 1 meaning(s), 2 sentences
+- `wlt-c14-036` : ไม่เป็นไร (it's okay, no problem, never mind) : 1 meaning(s), 2 sentences
+- `wlt-c14-039` : ย่า (grandmother (father's mother)) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

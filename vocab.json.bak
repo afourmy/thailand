@@ -101959,7 +101959,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไทย",
-    "audio_en_src": "Thai"
+    "audio_en_src": "Thai",
+    "examples": [
+      {
+        "meaning": "Thai",
+        "sentences": [
+          {
+            "thai": "เขาพูดภาษาไทยได้คล่อง",
+            "en": "He speaks Thai fluently.",
+            "audio_src": "เขาพูดภาษาไทยได้คล่อง",
+            "audio_en_src": "He speaks Thai fluently."
+          },
+          {
+            "thai": "มวยไทยเป็นกีฬาประจำชาติ",
+            "en": "Muay Thai is the national sport.",
+            "audio_src": "มวยไทยเป็นกีฬาประจำชาติ",
+            "audio_en_src": "Muay Thai is the national sport."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-076",
@@ -101985,7 +102004,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เธอ",
-    "audio_en_src": "you, she"
+    "audio_en_src": "you, she",
+    "examples": [
+      {
+        "meaning": "you, she (informal, usually feminine)",
+        "sentences": [
+          {
+            "thai": "เธอจะไปไหนเหรอ",
+            "en": "Where are you going?",
+            "audio_src": "เธอจะไปไหนเหรอ",
+            "audio_en_src": "Where are you going?"
+          },
+          {
+            "thai": "เธอเป็นคนใจดีมาก",
+            "en": "She's a very kind person.",
+            "audio_src": "เธอเป็นคนใจดีมาก",
+            "audio_en_src": "She's a very kind person."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-079",
@@ -101999,7 +102037,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้องสาว",
-    "audio_en_src": "younger sister"
+    "audio_en_src": "younger sister",
+    "examples": [
+      {
+        "meaning": "younger sister",
+        "sentences": [
+          {
+            "thai": "น้องสาวฉันเรียนอยู่มหาวิทยาลัย",
+            "en": "My younger sister is at university.",
+            "audio_src": "น้องสาวฉันเรียนอยู่มหาวิทยาลัย",
+            "audio_en_src": "My younger sister is at university."
+          },
+          {
+            "thai": "ฉันพาน้องสาวไปดูหนัง",
+            "en": "I took my little sister to see a movie.",
+            "audio_src": "ฉันพาน้องสาวไปดูหนัง",
+            "audio_en_src": "I took my little sister to see a movie."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-084",
@@ -102025,7 +102082,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่าสนใจ",
-    "audio_en_src": "interesting"
+    "audio_en_src": "interesting",
+    "examples": [
+      {
+        "meaning": "interesting",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้น่าสนใจมาก",
+            "en": "This book is really interesting.",
+            "audio_src": "หนังสือเล่มนี้น่าสนใจมาก",
+            "audio_en_src": "This book is really interesting."
+          },
+          {
+            "thai": "เขาเล่าเรื่องได้น่าสนใจ",
+            "en": "He tells stories in an interesting way.",
+            "audio_src": "เขาเล่าเรื่องได้น่าสนใจ",
+            "audio_en_src": "He tells stories in an interesting way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-086",
@@ -102050,7 +102126,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำแข็ง",
-    "audio_en_src": "ice"
+    "audio_en_src": "ice",
+    "examples": [
+      {
+        "meaning": "ice",
+        "sentences": [
+          {
+            "thai": "ขอน้ำเปล่าใส่น้ำแข็งเยอะๆ",
+            "en": "Water with lots of ice, please.",
+            "audio_src": "ขอน้ำเปล่าใส่น้ำแข็งเยอะๆ",
+            "audio_en_src": "Water with lots of ice, please."
+          },
+          {
+            "thai": "น้ำแข็งละลายหมดแล้ว",
+            "en": "The ice has all melted.",
+            "audio_src": "น้ำแข็งละลายหมดแล้ว",
+            "audio_en_src": "The ice has all melted."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-088",
@@ -102076,7 +102171,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำมัน",
-    "audio_en_src": "oil, gasoline"
+    "audio_en_src": "oil, gasoline",
+    "examples": [
+      {
+        "meaning": "oil, gasoline",
+        "sentences": [
+          {
+            "thai": "น้ำมันรถใกล้หมดแล้ว",
+            "en": "The car is almost out of gas.",
+            "audio_src": "น้ำมันรถใกล้หมดแล้ว",
+            "audio_en_src": "The car is almost out of gas."
+          },
+          {
+            "thai": "ทอดไก่ต้องใช้น้ำมันเยอะ",
+            "en": "Frying chicken takes a lot of oil.",
+            "audio_src": "ทอดไก่ต้องใช้น้ำมันเยอะ",
+            "audio_en_src": "Frying chicken takes a lot of oil."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-092",
@@ -102091,7 +102205,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แน่นอน",
-    "audio_en_src": "certain, sure"
+    "audio_en_src": "certain, sure",
+    "examples": [
+      {
+        "meaning": "certain, sure",
+        "sentences": [
+          {
+            "thai": "แน่นอน ฉันไปด้วยแน่",
+            "en": "Of course, I'll definitely go.",
+            "audio_src": "แน่นอน ฉันไปด้วยแน่",
+            "audio_en_src": "Of course, I'll definitely go."
+          },
+          {
+            "thai": "ยังไม่แน่นอนว่าจะจัดงานวันไหน",
+            "en": "It's not yet certain which day the event will be.",
+            "audio_src": "ยังไม่แน่นอนว่าจะจัดงานวันไหน",
+            "audio_en_src": "It's not yet certain which day the event will be."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-093",
@@ -102128,7 +102261,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เบอร์",
-    "audio_en_src": "number"
+    "audio_en_src": "number",
+    "examples": [
+      {
+        "meaning": "number (for room, telephone, cloth size, etc)",
+        "sentences": [
+          {
+            "thai": "ขอเบอร์โทรหน่อยได้ไหม",
+            "en": "Can I get your phone number?",
+            "audio_src": "ขอเบอร์โทรหน่อยได้ไหม",
+            "audio_en_src": "Can I get your phone number?"
+          },
+          {
+            "thai": "รองเท้าคู่นี้มีเบอร์ใหญ่กว่านี้ไหม",
+            "en": "Do these shoes come in a bigger size?",
+            "audio_src": "รองเท้าคู่นี้มีเบอร์ใหญ่กว่านี้ไหม",
+            "audio_en_src": "Do these shoes come in a bigger size?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-098",
@@ -102143,7 +102295,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เบียร์",
-    "audio_en_src": "beer"
+    "audio_en_src": "beer",
+    "examples": [
+      {
+        "meaning": "beer",
+        "sentences": [
+          {
+            "thai": "คืนนี้ดื่มเบียร์เย็นๆกันไหม",
+            "en": "Want to have some cold beer tonight?",
+            "audio_src": "คืนนี้ดื่มเบียร์เย็นๆกันไหม",
+            "audio_en_src": "Want to have some cold beer tonight?"
+          },
+          {
+            "thai": "เบียร์ขวดนี้รสขมไปหน่อย",
+            "en": "This beer is a bit too bitter.",
+            "audio_src": "เบียร์ขวดนี้รสขมไปหน่อย",
+            "audio_en_src": "This beer is a bit too bitter."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-099",
@@ -102178,7 +102349,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประเทศไทย",
-    "audio_en_src": "Thailand"
+    "audio_en_src": "Thailand",
+    "examples": [
+      {
+        "meaning": "Thailand",
+        "sentences": [
+          {
+            "thai": "ประเทศไทยมีอากาศร้อนเกือบทั้งปี",
+            "en": "Thailand is hot almost all year round.",
+            "audio_src": "ประเทศไทยมีอากาศร้อนเกือบทั้งปี",
+            "audio_en_src": "Thailand is hot almost all year round."
+          },
+          {
+            "thai": "นักท่องเที่ยวชอบมาเที่ยวประเทศไทย",
+            "en": "Tourists love visiting Thailand.",
+            "audio_src": "นักท่องเที่ยวชอบมาเที่ยวประเทศไทย",
+            "audio_en_src": "Tourists love visiting Thailand."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-002",
