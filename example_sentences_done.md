@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 81 words**
+**Total: 91 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -67,7 +67,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-132` : ซีอิ๊ว (soy sauce) : 1 meaning(s), 2 sentences
 - `tamago-l12-135` : ดอก (classifier for various small objects (flowers, keys, firecrackers, etc)) : 1 meaning(s), 2 sentences
 - `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
+- `tamago-l12-147` : ตลาดนัด (temporary market, flea market) : 1 meaning(s), 2 sentences
+- `tamago-l12-152` : ตั้งนาน (for so long, in a long time) : 1 meaning(s), 2 sentences
+- `tamago-l12-155` : ตามสบาย ('please go ahead', 'as you like') : 1 meaning(s), 2 sentences
+- `tamago-l12-163` : ตู้กดเงิน, ตู้เอทีเอ็ม (ATM) : 1 meaning(s), 2 sentences
+- `tamago-l12-165` : ต่อราคา (to negotiate the price, haggle) : 1 meaning(s), 2 sentences
+- `tamago-l12-167` : ต่อหน้า (in front of, in the presence of) : 1 meaning(s), 2 sentences
+- `tamago-l12-168` : ต่อแถว, ต่อคิว (to get in line, to queue up) : 1 meaning(s), 2 sentences
+- `tamago-l12-172` : ต้นไม้ (tree, plant) : 1 meaning(s), 2 sentences
 - `tamago-l12-173` : ต้ม (to boil) : 1 meaning(s), 2 sentences
+- `tamago-l12-174` : ถอด (to take off (clothes, shoes)) : 1 meaning(s), 2 sentences
+- `tamago-l12-180` : ถึง, ถึงจะ (even if, even though; to the point that) : 2 meaning(s), 4 sentences
 - `tamago-l12-192` : ทอด (to deep-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences

@@ -13300,7 +13300,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตลาดนัด",
-    "audio_en_src": "temporary market, flea market"
+    "audio_en_src": "temporary market, flea market",
+    "examples": [
+      {
+        "meaning": "temporary market, flea market",
+        "sentences": [
+          {
+            "thai": "เสาร์อาทิตย์มีตลาดนัดใกล้บ้าน",
+            "en": "There’s a weekend market near my place."
+          },
+          {
+            "thai": "ของในตลาดนัดถูกกว่าห้าง",
+            "en": "Stuff at the flea market is cheaper than the mall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-148",
@@ -13357,7 +13372,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตั้งนาน",
-    "audio_en_src": "for so long, in a long time"
+    "audio_en_src": "for so long, in a long time",
+    "examples": [
+      {
+        "meaning": "for so long, in a long time",
+        "sentences": [
+          {
+            "thai": "รอตั้งนาน เพิ่งจะมา",
+            "en": "I waited so long, and you only just showed up."
+          },
+          {
+            "thai": "ไม่ได้เจอกันตั้งนาน",
+            "en": "We haven’t seen each other in so long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-153",
@@ -13392,7 +13422,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตามสบาย",
-    "audio_en_src": "'please go ahead', 'as you like'"
+    "audio_en_src": "'please go ahead', 'as you like'",
+    "examples": [
+      {
+        "meaning": "'please go ahead', 'as you like'",
+        "sentences": [
+          {
+            "thai": "นั่งตรงไหนก็ได้ ตามสบายเลย",
+            "en": "Sit wherever, make yourself at home."
+          },
+          {
+            "thai": "จะอยู่หรือจะกลับก็ตามสบาย",
+            "en": "Stay or go, whatever you like."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-157",
@@ -13459,7 +13504,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตู้กดเงิน, ตู้เอทีเอ็ม",
-    "audio_en_src": "ATM"
+    "audio_en_src": "ATM",
+    "examples": [
+      {
+        "meaning": "ATM",
+        "sentences": [
+          {
+            "thai": "ขอแวะกดเงินที่ตู้เอทีเอ็มก่อน",
+            "en": "Let me stop by the ATM first."
+          },
+          {
+            "thai": "ตู้กดเงินแถวนี้อยู่ไหน",
+            "en": "Where’s an ATM around here?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-164",
@@ -13484,7 +13544,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต่อราคา",
-    "audio_en_src": "to negotiate the price, haggle"
+    "audio_en_src": "to negotiate the price, haggle",
+    "examples": [
+      {
+        "meaning": "to negotiate the price, haggle",
+        "sentences": [
+          {
+            "thai": "ลองต่อราคาดูสิ เผื่อลดให้",
+            "en": "Try haggling, maybe they’ll give a discount."
+          },
+          {
+            "thai": "ที่ตลาดต่อราคาได้",
+            "en": "You can haggle at the market."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-166",
@@ -13512,7 +13587,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต่อหน้า",
-    "audio_en_src": "in front of, in the presence of"
+    "audio_en_src": "in front of, in the presence of",
+    "examples": [
+      {
+        "meaning": "in front of, in the presence of",
+        "sentences": [
+          {
+            "thai": "อย่าพูดแบบนี้ต่อหน้าเด็ก",
+            "en": "Don’t talk like that in front of the kids."
+          },
+          {
+            "thai": "เขาไม่กล้าพูดต่อหน้าฉัน",
+            "en": "He doesn’t dare say it to my face."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-168",
@@ -13527,7 +13617,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต่อแถว, ต่อคิว",
-    "audio_en_src": "to get in line, to queue up"
+    "audio_en_src": "to get in line, to queue up",
+    "examples": [
+      {
+        "meaning": "to get in line, to queue up",
+        "sentences": [
+          {
+            "thai": "ต้องต่อคิวนานมากกว่าจะได้กิน",
+            "en": "You have to wait in line forever to eat."
+          },
+          {
+            "thai": "ไปต่อแถวซื้อตั๋วกัน",
+            "en": "Let’s go line up to buy tickets."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-169",
@@ -13577,7 +13682,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต้นไม้",
-    "audio_en_src": "tree, plant"
+    "audio_en_src": "tree, plant",
+    "examples": [
+      {
+        "meaning": "tree, plant",
+        "sentences": [
+          {
+            "thai": "หน้าบ้านปลูกต้นไม้เยอะ",
+            "en": "There are lots of trees in front of the house."
+          },
+          {
+            "thai": "อย่าลืมรดน้ำต้นไม้",
+            "en": "Don’t forget to water the plants."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-173",
@@ -13630,7 +13750,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถอด",
-    "audio_en_src": "to take off"
+    "audio_en_src": "to take off",
+    "examples": [
+      {
+        "meaning": "to take off (clothes, shoes)",
+        "sentences": [
+          {
+            "thai": "ถอดรองเท้าก่อนเข้าบ้าน",
+            "en": "Take off your shoes before going inside."
+          },
+          {
+            "thai": "ร้อนจัง ขอถอดเสื้อแจ็คเก็ต",
+            "en": "It’s so hot, let me take off my jacket."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-175",
@@ -13689,7 +13824,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถึง, ถึงจะ",
-    "audio_en_src": "even if, even though; to the point that"
+    "audio_en_src": "even if, even though; to the point that",
+    "examples": [
+      {
+        "meaning": "even if, even though",
+        "sentences": [
+          {
+            "thai": "ถึงจะเหนื่อย ก็ต้องทำให้เสร็จ",
+            "en": "Even if I’m tired, I have to finish it."
+          },
+          {
+            "thai": "ถึงฝนตก เราก็จะไป",
+            "en": "Even if it rains, we’ll still go."
+          }
+        ]
+      },
+      {
+        "meaning": "to the point that",
+        "sentences": [
+          {
+            "thai": "เขาดีใจจนถึงกับร้องไห้",
+            "en": "He was so happy he even cried."
+          },
+          {
+            "thai": "อร่อยถึงขนาดต้องสั่งเพิ่ม",
+            "en": "So delicious I had to order more."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-182",
