@@ -13954,7 +13954,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถูกใจ",
-    "audio_en_src": "to one's liking, pleased with"
+    "audio_en_src": "to one's liking, pleased with",
+    "examples": [
+      {
+        "meaning": "to one's liking, pleased with",
+        "sentences": [
+          {
+            "thai": "ของขวัญชิ้นนี้ถูกใจมาก",
+            "en": "I really love this gift."
+          },
+          {
+            "thai": "เลือกอันที่ถูกใจได้เลย",
+            "en": "Pick whichever one you like."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-187",
@@ -13980,7 +13995,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทน",
-    "audio_en_src": "to endure, to tolerate"
+    "audio_en_src": "to endure, to tolerate",
+    "examples": [
+      {
+        "meaning": "to endure, to tolerate",
+        "sentences": [
+          {
+            "thai": "ทนร้อนไม่ไหวแล้ว",
+            "en": "I can’t stand the heat anymore."
+          },
+          {
+            "thai": "เจ็บแค่ไหนก็ต้องทน",
+            "en": "No matter how much it hurts, you have to bear it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-189",
@@ -14065,7 +14095,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทะเลาะ",
-    "audio_en_src": "to quarrel, to argue, to fight"
+    "audio_en_src": "to quarrel, to argue, to fight",
+    "examples": [
+      {
+        "meaning": "to quarrel, to argue, to fight",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนทะเลาะกับแฟน",
+            "en": "I had a fight with my partner last night."
+          },
+          {
+            "thai": "อย่าทะเลาะกันเลย คุยดีๆ",
+            "en": "Don’t fight, let’s talk it out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-194",
@@ -14112,7 +14157,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทาย",
-    "audio_en_src": "to guess"
+    "audio_en_src": "to guess",
+    "examples": [
+      {
+        "meaning": "to guess",
+        "sentences": [
+          {
+            "thai": "ทายซิว่าฉันซื้ออะไรมา",
+            "en": "Guess what I bought."
+          },
+          {
+            "thai": "ทายถูกได้รางวัลนะ",
+            "en": "Guess right and you get a prize."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-198",
@@ -14126,7 +14186,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำตก",
-    "audio_en_src": "to drop"
+    "audio_en_src": "to drop",
+    "examples": [
+      {
+        "meaning": "to drop (accidentally)",
+        "sentences": [
+          {
+            "thai": "ระวังนะ เดี๋ยวทำแก้วตก",
+            "en": "Careful, you’ll drop the glass."
+          },
+          {
+            "thai": "ทำโทรศัพท์ตกน้ำ",
+            "en": "I dropped my phone in the water."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-199",
@@ -14307,7 +14382,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นวดฝ่าเท้า",
-    "audio_en_src": "foot massage"
+    "audio_en_src": "foot massage",
+    "examples": [
+      {
+        "meaning": "foot massage",
+        "sentences": [
+          {
+            "thai": "เมื่อยมาก ไปนวดฝ่าเท้ากันไหม",
+            "en": "I’m so sore, want to go get a foot massage?"
+          },
+          {
+            "thai": "นวดฝ่าเท้าชั่วโมงละสามร้อย",
+            "en": "A foot massage is 300 baht an hour."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-218",
@@ -14321,7 +14411,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นอกใจ",
-    "audio_en_src": "to cheat on someone"
+    "audio_en_src": "to cheat on someone",
+    "examples": [
+      {
+        "meaning": "to cheat on someone (be unfaithful)",
+        "sentences": [
+          {
+            "thai": "เขาเลิกกันเพราะแฟนนอกใจ",
+            "en": "They broke up because his girlfriend cheated."
+          },
+          {
+            "thai": "ฉันไม่มีวันนอกใจเธอ",
+            "en": "I’ll never cheat on you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-219",
@@ -14375,7 +14480,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นั่นน่ะสิ",
-    "audio_en_src": "'that's right!', 'good point!'"
+    "audio_en_src": "'that's right!', 'good point!'",
+    "examples": [
+      {
+        "meaning": "'that's right!', 'good point!'",
+        "sentences": [
+          {
+            "thai": "นั่นน่ะสิ ฉันก็ว่าแปลก",
+            "en": "Right? I thought it was weird too."
+          },
+          {
+            "thai": "นั่นน่ะสิ คิดเหมือนกันเลย",
+            "en": "Exactly, I was thinking the same thing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-224",
@@ -14401,7 +14521,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นาย",
-    "audio_en_src": "you"
+    "audio_en_src": "you",
+    "examples": [
+      {
+        "meaning": "you (pronoun for guys of the same age)",
+        "sentences": [
+          {
+            "thai": "นายจะไปด้วยกันไหม",
+            "en": "Are you coming along?"
+          },
+          {
+            "thai": "นายทำการบ้านเสร็จยัง",
+            "en": "Have you finished your homework?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-227",
@@ -14557,7 +14692,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นึ่ง",
-    "audio_en_src": "to steam"
+    "audio_en_src": "to steam",
+    "examples": [
+      {
+        "meaning": "to steam (food)",
+        "sentences": [
+          {
+            "thai": "นึ่งปลาใส่มะนาว",
+            "en": "Steam the fish with lime."
+          },
+          {
+            "thai": "ขนมนี้ต้องนึ่งให้สุก",
+            "en": "This dessert has to be steamed until done."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-238",
