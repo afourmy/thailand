@@ -96151,7 +96151,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "งั้น",
-    "audio_en_src": "in that case, therefore"
+    "audio_en_src": "in that case, therefore",
+    "examples": [
+      {
+        "meaning": "in that case, therefore (informal short form)",
+        "sentences": [
+          {
+            "thai": "งั้นไปกินข้าวกันเลย",
+            "en": "In that case, let's go eat.",
+            "audio_src": "งั้นไปกินข้าวกันเลย",
+            "audio_en_src": "In that case, let's go eat."
+          },
+          {
+            "thai": "ไม่ว่างเหรอ งั้นไว้คราวหน้า",
+            "en": "You're not free? Then maybe next time.",
+            "audio_src": "ไม่ว่างเหรอ งั้นไว้คราวหน้า",
+            "audio_en_src": "You're not free? Then maybe next time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-047",
@@ -96254,7 +96273,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชั้นบน",
-    "audio_en_src": "upstairs"
+    "audio_en_src": "upstairs",
+    "examples": [
+      {
+        "meaning": "upstairs",
+        "sentences": [
+          {
+            "thai": "ห้องนอนอยู่ชั้นบน",
+            "en": "The bedroom is upstairs.",
+            "audio_src": "ห้องนอนอยู่ชั้นบน",
+            "audio_en_src": "The bedroom is upstairs."
+          },
+          {
+            "thai": "ขึ้นไปชั้นบนเอาเสื้อให้หน่อย",
+            "en": "Go upstairs and get me a shirt.",
+            "audio_src": "ขึ้นไปชั้นบนเอาเสื้อให้หน่อย",
+            "audio_en_src": "Go upstairs and get me a shirt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-054",
@@ -96268,7 +96306,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชั้นล่าง",
-    "audio_en_src": "downstairs, ground floor"
+    "audio_en_src": "downstairs, ground floor",
+    "examples": [
+      {
+        "meaning": "downstairs, ground floor",
+        "sentences": [
+          {
+            "thai": "ห้องน้ำอยู่ชั้นล่าง",
+            "en": "The bathroom is downstairs.",
+            "audio_src": "ห้องน้ำอยู่ชั้นล่าง",
+            "audio_en_src": "The bathroom is downstairs."
+          },
+          {
+            "thai": "ร้านอาหารอยู่ชั้นล่างของตึก",
+            "en": "The restaurant is on the ground floor of the building.",
+            "audio_src": "ร้านอาหารอยู่ชั้นล่างของตึก",
+            "audio_en_src": "The restaurant is on the ground floor of the building."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-055",
@@ -96299,6 +96356,25 @@
     "topic": "general",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "nickname",
+        "sentences": [
+          {
+            "thai": "ชื่อเล่นของเธอคืออะไร",
+            "en": "What's your nickname?",
+            "audio_src": "ชื่อเล่นของเธอคืออะไร",
+            "audio_en_src": "What's your nickname?"
+          },
+          {
+            "thai": "คนไทยส่วนใหญ่มีชื่อเล่นสั้นๆ",
+            "en": "Most Thai people have short nicknames.",
+            "audio_src": "คนไทยส่วนใหญ่มีชื่อเล่นสั้นๆ",
+            "audio_en_src": "Most Thai people have short nicknames."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96321,6 +96397,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to sign",
+        "sentences": [
+          {
+            "thai": "เซ็นชื่อตรงนี้ด้วยค่ะ",
+            "en": "Please sign here.",
+            "audio_src": "เซ็นชื่อตรงนี้ด้วยค่ะ",
+            "audio_en_src": "Please sign here."
+          },
+          {
+            "thai": "อย่าลืมเซ็นเอกสารก่อนส่ง",
+            "en": "Don't forget to sign the document before submitting it.",
+            "audio_src": "อย่าลืมเซ็นเอกสารก่อนส่ง",
+            "audio_en_src": "Don't forget to sign the document before submitting it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96389,7 +96484,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดีกว่า",
-    "audio_en_src": "better"
+    "audio_en_src": "better",
+    "examples": [
+      {
+        "meaning": "better",
+        "sentences": [
+          {
+            "thai": "กินข้าวที่บ้านดีกว่ากินข้างนอก",
+            "en": "Eating at home is better than eating out.",
+            "audio_src": "กินข้าวที่บ้านดีกว่ากินข้างนอก",
+            "audio_en_src": "Eating at home is better than eating out."
+          },
+          {
+            "thai": "พักผ่อนเยอะๆจะดีกว่า",
+            "en": "Getting more rest would be better.",
+            "audio_src": "พักผ่อนเยอะๆจะดีกว่า",
+            "audio_en_src": "Getting more rest would be better."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-069",
@@ -96404,7 +96518,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดียวกัน",
-    "audio_en_src": "same, identical"
+    "audio_en_src": "same, identical",
+    "examples": [
+      {
+        "meaning": "same, identical",
+        "sentences": [
+          {
+            "thai": "เราเรียนอยู่โรงเรียนเดียวกัน",
+            "en": "We study at the same school.",
+            "audio_src": "เราเรียนอยู่โรงเรียนเดียวกัน",
+            "audio_en_src": "We study at the same school."
+          },
+          {
+            "thai": "บ้านเราอยู่ซอยเดียวกัน",
+            "en": "Our houses are on the same soi.",
+            "audio_src": "บ้านเราอยู่ซอยเดียวกัน",
+            "audio_en_src": "Our houses are on the same soi."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-070",
@@ -96440,7 +96573,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตอนบ่าย",
-    "audio_en_src": "in the afternoon"
+    "audio_en_src": "in the afternoon",
+    "examples": [
+      {
+        "meaning": "in the afternoon (1pm - 4pm)",
+        "sentences": [
+          {
+            "thai": "ตอนบ่ายฉันมีประชุม",
+            "en": "I have a meeting in the afternoon.",
+            "audio_src": "ตอนบ่ายฉันมีประชุม",
+            "audio_en_src": "I have a meeting in the afternoon."
+          },
+          {
+            "thai": "ตอนบ่ายอากาศร้อนที่สุด",
+            "en": "It's hottest in the afternoon.",
+            "audio_src": "ตอนบ่ายอากาศร้อนที่สุด",
+            "audio_en_src": "It's hottest in the afternoon."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-074",
@@ -96476,7 +96628,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตาย",
-    "audio_en_src": "to die"
+    "audio_en_src": "to die",
+    "examples": [
+      {
+        "meaning": "to die",
+        "sentences": [
+          {
+            "thai": "ต้นไม้ตายเพราะไม่ได้รดน้ำ",
+            "en": "The plant died because it wasn't watered.",
+            "audio_src": "ต้นไม้ตายเพราะไม่ได้รดน้ำ",
+            "audio_en_src": "The plant died because it wasn't watered."
+          },
+          {
+            "thai": "ปลาในบ่อตายหมดเลย",
+            "en": "All the fish in the pond died.",
+            "audio_src": "ปลาในบ่อตายหมดเลย",
+            "audio_en_src": "All the fish in the pond died."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-078",
@@ -96501,7 +96672,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตู้เย็น",
-    "audio_en_src": "refrigerator"
+    "audio_en_src": "refrigerator",
+    "examples": [
+      {
+        "meaning": "refrigerator",
+        "sentences": [
+          {
+            "thai": "เก็บนมไว้ในตู้เย็น",
+            "en": "Keep the milk in the fridge.",
+            "audio_src": "เก็บนมไว้ในตู้เย็น",
+            "audio_en_src": "Keep the milk in the fridge."
+          },
+          {
+            "thai": "ตู้เย็นเสีย ของในนั้นเสียหมด",
+            "en": "The fridge broke, and everything inside spoiled.",
+            "audio_src": "ตู้เย็นเสีย ของในนั้นเสียหมด",
+            "audio_en_src": "The fridge broke, and everything inside spoiled."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-080",
@@ -96549,7 +96739,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แตกต่าง",
-    "audio_en_src": "to differ, to be different, separate"
+    "audio_en_src": "to differ, to be different, separate",
+    "examples": [
+      {
+        "meaning": "to differ, to be different, separate",
+        "sentences": [
+          {
+            "thai": "ความคิดของเราแตกต่างกัน",
+            "en": "Our ideas are different.",
+            "audio_src": "ความคิดของเราแตกต่างกัน",
+            "audio_en_src": "Our ideas are different."
+          },
+          {
+            "thai": "วัฒนธรรมแต่ละประเทศแตกต่างกัน",
+            "en": "Each country's culture is different.",
+            "audio_src": "วัฒนธรรมแต่ละประเทศแตกต่างกัน",
+            "audio_en_src": "Each country's culture is different."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-084",
@@ -96595,7 +96804,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถูกต้อง",
-    "audio_en_src": "accurate, correct"
+    "audio_en_src": "accurate, correct",
+    "examples": [
+      {
+        "meaning": "accurate, correct",
+        "sentences": [
+          {
+            "thai": "คำตอบของเธอถูกต้อง",
+            "en": "Your answer is correct.",
+            "audio_src": "คำตอบของเธอถูกต้อง",
+            "audio_en_src": "Your answer is correct."
+          },
+          {
+            "thai": "กรอกข้อมูลให้ถูกต้องด้วยนะ",
+            "en": "Please fill in the information correctly.",
+            "audio_src": "กรอกข้อมูลให้ถูกต้องด้วยนะ",
+            "audio_en_src": "Please fill in the information correctly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-088",
@@ -96620,7 +96848,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำความสะอาด",
-    "audio_en_src": "to clean"
+    "audio_en_src": "to clean",
+    "examples": [
+      {
+        "meaning": "to clean",
+        "sentences": [
+          {
+            "thai": "วันเสาร์ฉันทำความสะอาดบ้าน",
+            "en": "On Saturdays I clean the house.",
+            "audio_src": "วันเสาร์ฉันทำความสะอาดบ้าน",
+            "audio_en_src": "On Saturdays I clean the house."
+          },
+          {
+            "thai": "ช่วยทำความสะอาดห้องด้วย",
+            "en": "Help clean the room too.",
+            "audio_src": "ช่วยทำความสะอาดห้องด้วย",
+            "audio_en_src": "Help clean the room too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-090",
@@ -96651,6 +96898,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "seat, place to sit",
+        "sentences": [
+          {
+            "thai": "บนรถไฟไม่มีที่นั่งว่าง",
+            "en": "There are no empty seats on the train.",
+            "audio_src": "บนรถไฟไม่มีที่นั่งว่าง",
+            "audio_en_src": "There are no empty seats on the train."
+          },
+          {
+            "thai": "จองที่นั่งล่วงหน้าดีกว่า",
+            "en": "It's better to book a seat in advance.",
+            "audio_src": "จองที่นั่งล่วงหน้าดีกว่า",
+            "audio_en_src": "It's better to book a seat in advance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96666,7 +96932,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่แล้ว",
-    "audio_en_src": "last, previous"
+    "audio_en_src": "last, previous",
+    "examples": [
+      {
+        "meaning": "last, previous",
+        "sentences": [
+          {
+            "thai": "เดือนที่แล้วเขาเพิ่งย้ายบ้าน",
+            "en": "Last month he just moved house.",
+            "audio_src": "เดือนที่แล้วเขาเพิ่งย้ายบ้าน",
+            "audio_en_src": "Last month he just moved house."
+          },
+          {
+            "thai": "ปีที่แล้วเศรษฐกิจไม่ค่อยดี",
+            "en": "Last year the economy wasn't great.",
+            "audio_src": "ปีที่แล้วเศรษฐกิจไม่ค่อยดี",
+            "audio_en_src": "Last year the economy wasn't great."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-095",
@@ -96681,7 +96966,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทีวี",
-    "audio_en_src": "TV, television"
+    "audio_en_src": "TV, television",
+    "examples": [
+      {
+        "meaning": "TV, television (loanword)",
+        "sentences": [
+          {
+            "thai": "เปิดทีวีดูข่าวหน่อย",
+            "en": "Turn on the TV to watch the news.",
+            "audio_src": "เปิดทีวีดูข่าวหน่อย",
+            "audio_en_src": "Turn on the TV to watch the news."
+          },
+          {
+            "thai": "เด็กๆดูการ์ตูนในทีวี",
+            "en": "The kids are watching cartoons on TV.",
+            "audio_src": "เด็กๆดูการ์ตูนในทีวี",
+            "audio_en_src": "The kids are watching cartoons on TV."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-096",
@@ -96697,7 +97001,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทีหลัง, ต่อมา",
-    "audio_en_src": "afterwards, later"
+    "audio_en_src": "afterwards, later",
+    "examples": [
+      {
+        "meaning": "afterwards, later",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวค่อยคุยกันทีหลัง",
+            "en": "Let's talk later.",
+            "audio_src": "เดี๋ยวค่อยคุยกันทีหลัง",
+            "audio_en_src": "Let's talk later."
+          },
+          {
+            "thai": "ต่อมาเขาก็ย้ายไปอยู่ต่างประเทศ",
+            "en": "Later, he moved abroad.",
+            "audio_src": "ต่อมาเขาก็ย้ายไปอยู่ต่างประเทศ",
+            "audio_en_src": "Later, he moved abroad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-098",
@@ -96711,7 +97034,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกวัน",
-    "audio_en_src": "daily, every day"
+    "audio_en_src": "daily, every day",
+    "examples": [
+      {
+        "meaning": "daily, every day",
+        "sentences": [
+          {
+            "thai": "ฉันดื่มน้ำเยอะทุกวัน",
+            "en": "I drink lots of water every day.",
+            "audio_src": "ฉันดื่มน้ำเยอะทุกวัน",
+            "audio_en_src": "I drink lots of water every day."
+          },
+          {
+            "thai": "เขาไปวิ่งทุกวันตอนเช้า",
+            "en": "He goes running every morning.",
+            "audio_src": "เขาไปวิ่งทุกวันตอนเช้า",
+            "audio_en_src": "He goes running every morning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-099",
@@ -96726,7 +97068,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุ่ม",
-    "audio_en_src": "o'clock"
+    "audio_en_src": "o'clock",
+    "examples": [
+      {
+        "meaning": "o'clock (7pm - 11pm)",
+        "sentences": [
+          {
+            "thai": "เจอกันหนึ่งทุ่มที่หน้าร้าน",
+            "en": "See you at seven in front of the shop.",
+            "audio_src": "เจอกันหนึ่งทุ่มที่หน้าร้าน",
+            "audio_en_src": "See you at seven in front of the shop."
+          },
+          {
+            "thai": "หนังเริ่มสามทุ่ม",
+            "en": "The movie starts at nine.",
+            "audio_src": "หนังเริ่มสามทุ่ม",
+            "audio_en_src": "The movie starts at nine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-000",
@@ -96740,7 +97101,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เท่ากัน",
-    "audio_en_src": "the same, equal"
+    "audio_en_src": "the same, equal",
+    "examples": [
+      {
+        "meaning": "the same, equal",
+        "sentences": [
+          {
+            "thai": "แบ่งขนมให้เท่ากันทุกคน",
+            "en": "Divide the snacks equally among everyone.",
+            "audio_src": "แบ่งขนมให้เท่ากันทุกคน",
+            "audio_en_src": "Divide the snacks equally among everyone."
+          },
+          {
+            "thai": "เด็กสองคนนี้สูงเท่ากัน",
+            "en": "These two kids are the same height.",
+            "audio_src": "เด็กสองคนนี้สูงเท่ากัน",
+            "audio_en_src": "These two kids are the same height."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-001",

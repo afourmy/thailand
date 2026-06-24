@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 661 words**
+**Total: 681 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -662,6 +662,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-039` : คอม, คอมพิวเตอร์ (computer (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c10-041` : คำตอบ (answer) : 1 meaning(s), 2 sentences
 - `wlt-c10-045` : ง่วง, ง่วงนอน (sleepy) : 1 meaning(s), 2 sentences
+- `wlt-c10-046` : งั้น (in that case, therefore (informal short form)) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
+- `wlt-c10-053` : ชั้นบน (upstairs) : 1 meaning(s), 2 sentences
+- `wlt-c10-054` : ชั้นล่าง (downstairs, ground floor) : 1 meaning(s), 2 sentences
+- `wlt-c10-057` : ชื่อเล่น (nickname) : 1 meaning(s), 2 sentences
+- `wlt-c10-062` : เซ็น (to sign) : 1 meaning(s), 2 sentences
+- `wlt-c10-068` : ดีกว่า (better) : 1 meaning(s), 2 sentences
+- `wlt-c10-069` : เดียวกัน (same, identical) : 1 meaning(s), 2 sentences
+- `wlt-c10-073` : ตอนบ่าย (in the afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
+- `wlt-c10-077` : ตาย (to die) : 1 meaning(s), 2 sentences
+- `wlt-c10-079` : ตู้เย็น (refrigerator) : 1 meaning(s), 2 sentences
+- `wlt-c10-083` : แตกต่าง (to differ, to be different, separate) : 1 meaning(s), 2 sentences
+- `wlt-c10-087` : ถูกต้อง (accurate, correct) : 1 meaning(s), 2 sentences
+- `wlt-c10-089` : ทำความสะอาด (to clean) : 1 meaning(s), 2 sentences
+- `wlt-c10-092` : ที่นั่ง (seat, place to sit) : 1 meaning(s), 2 sentences
+- `wlt-c10-094` : ที่แล้ว (last, previous) : 1 meaning(s), 2 sentences
+- `wlt-c10-095` : ทีวี (TV, television (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c10-096` : ทีหลัง, ต่อมา (afterwards, later) : 1 meaning(s), 2 sentences
+- `wlt-c10-098` : ทุกวัน (daily, every day) : 1 meaning(s), 2 sentences
+- `wlt-c10-099` : ทุ่ม (o'clock (7pm - 11pm)) : 1 meaning(s), 2 sentences
+- `wlt-c11-000` : เท่ากัน (the same, equal) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
