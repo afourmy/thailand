@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 751 words**
+**Total: 761 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -753,5 +753,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-003` : ขอบคุณ (thank you) : 1 meaning(s), 2 sentences
 - `wlt-c13-005` : ขับรถ (to drive a car) : 1 meaning(s), 2 sentences
 - `wlt-c13-006` : ข้างหน้า (in front of, ahead) : 1 meaning(s), 2 sentences
+- `wlt-c13-007` : ข่าว (news) : 1 meaning(s), 2 sentences
+- `wlt-c13-008` : ขี้ (poop; (of a person) habitually prone to (usually negative trait)) : 2 meaning(s), 4 sentences
+- `wlt-c13-013` : ควร, ควรจะ (should, ought to) : 1 meaning(s), 2 sentences
+- `wlt-c13-016` : ค่ำ (dusk (6pm - 7pm)) : 1 meaning(s), 2 sentences
+- `wlt-c13-017` : คิดถึง (to miss someone (lit. 'think about')) : 1 meaning(s), 2 sentences
+- `wlt-c13-018` : คืนนี้ (tonight) : 1 meaning(s), 2 sentences
+- `wlt-c13-019` : คุย (to talk, to chat) : 1 meaning(s), 2 sentences
+- `wlt-c13-021` : เงียบ (quiet) : 1 meaning(s), 2 sentences
+- `wlt-c13-022` : จริง (true, really) : 1 meaning(s), 2 sentences
+- `wlt-c13-024` : จับ (to catch, to grab) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

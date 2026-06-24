@@ -100161,6 +100161,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to explain",
+        "sentences": [
+          {
+            "thai": "ครูอธิบายเรื่องนี้ละเอียดมาก",
+            "en": "The teacher explained this in great detail.",
+            "audio_src": "ครูอธิบายเรื่องนี้ละเอียดมาก",
+            "audio_en_src": "The teacher explained this in great detail."
+          },
+          {
+            "thai": "ช่วยอธิบายอีกครั้งได้ไหม",
+            "en": "Could you explain it again?",
+            "audio_src": "ช่วยอธิบายอีกครั้งได้ไหม",
+            "audio_en_src": "Could you explain it again?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -100197,7 +100216,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาจ, อาจจะ",
-    "audio_en_src": "may, might, maybe"
+    "audio_en_src": "may, might, maybe",
+    "examples": [
+      {
+        "meaning": "may, might, maybe",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ฝนอาจจะตก",
+            "en": "It might rain tomorrow.",
+            "audio_src": "พรุ่งนี้ฝนอาจจะตก",
+            "audio_en_src": "It might rain tomorrow."
+          },
+          {
+            "thai": "เขาอาจไม่มาก็ได้",
+            "en": "He might not come.",
+            "audio_src": "เขาอาจไม่มาก็ได้",
+            "audio_en_src": "He might not come."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-082",
@@ -100232,7 +100270,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาหารเย็น",
-    "audio_en_src": "dinner"
+    "audio_en_src": "dinner",
+    "examples": [
+      {
+        "meaning": "dinner",
+        "sentences": [
+          {
+            "thai": "คืนนี้กินอาหารเย็นที่ไหนดี",
+            "en": "Where should we have dinner tonight?",
+            "audio_src": "คืนนี้กินอาหารเย็นที่ไหนดี",
+            "audio_en_src": "Where should we have dinner tonight?"
+          },
+          {
+            "thai": "แม่ทำอาหารเย็นไว้รอแล้ว",
+            "en": "Mom has dinner ready and waiting.",
+            "audio_src": "แม่ทำอาหารเย็นไว้รอแล้ว",
+            "audio_en_src": "Mom has dinner ready and waiting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-085",
@@ -100313,7 +100370,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลางวัน",
-    "audio_en_src": "during the day"
+    "audio_en_src": "during the day",
+    "examples": [
+      {
+        "meaning": "during the day",
+        "sentences": [
+          {
+            "thai": "กลางวันอากาศร้อน กลางคืนเย็น",
+            "en": "It's hot during the day and cool at night.",
+            "audio_src": "กลางวันอากาศร้อน กลางคืนเย็น",
+            "audio_en_src": "It's hot during the day and cool at night."
+          },
+          {
+            "thai": "เขาทำงานกลางวัน นอนกลางคืน",
+            "en": "He works during the day and sleeps at night.",
+            "audio_src": "เขาทำงานกลางวัน นอนกลางคืน",
+            "audio_en_src": "He works during the day and sleeps at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-094",
@@ -100380,7 +100456,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โกหก",
-    "audio_en_src": "to lie"
+    "audio_en_src": "to lie",
+    "examples": [
+      {
+        "meaning": "to lie",
+        "sentences": [
+          {
+            "thai": "อย่าโกหกฉันนะ",
+            "en": "Don't lie to me.",
+            "audio_src": "อย่าโกหกฉันนะ",
+            "audio_en_src": "Don't lie to me."
+          },
+          {
+            "thai": "เขาโกหกว่าป่วยเพื่อจะได้หยุดงาน",
+            "en": "He lied about being sick to get a day off.",
+            "audio_src": "เขาโกหกว่าป่วยเพื่อจะได้หยุดงาน",
+            "audio_en_src": "He lied about being sick to get a day off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-001",
@@ -100394,7 +100489,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ของเขา",
-    "audio_en_src": "hers, his"
+    "audio_en_src": "hers, his",
+    "examples": [
+      {
+        "meaning": "hers, his",
+        "sentences": [
+          {
+            "thai": "กระเป๋าใบนี้ของเขา",
+            "en": "This bag is his.",
+            "audio_src": "กระเป๋าใบนี้ของเขา",
+            "audio_en_src": "This bag is his."
+          },
+          {
+            "thai": "ฉันชอบความคิดของเขา",
+            "en": "I like his idea.",
+            "audio_src": "ฉันชอบความคิดของเขา",
+            "audio_en_src": "I like his idea."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-002",
@@ -100409,7 +100523,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขอโทษ",
-    "audio_en_src": "excuse me, I'm sorry"
+    "audio_en_src": "excuse me, I'm sorry",
+    "examples": [
+      {
+        "meaning": "excuse me, I'm sorry",
+        "sentences": [
+          {
+            "thai": "ขอโทษนะ ขอทางหน่อย",
+            "en": "Excuse me, let me through.",
+            "audio_src": "ขอโทษนะ ขอทางหน่อย",
+            "audio_en_src": "Excuse me, let me through."
+          },
+          {
+            "thai": "ขอโทษที่มาสาย รถติดมาก",
+            "en": "Sorry I'm late, the traffic was bad.",
+            "audio_src": "ขอโทษที่มาสาย รถติดมาก",
+            "audio_en_src": "Sorry I'm late, the traffic was bad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-003",
@@ -100424,7 +100557,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขอบคุณ",
-    "audio_en_src": "thank you"
+    "audio_en_src": "thank you",
+    "examples": [
+      {
+        "meaning": "thank you",
+        "sentences": [
+          {
+            "thai": "ขอบคุณมากนะที่ช่วยเหลือ",
+            "en": "Thank you so much for your help.",
+            "audio_src": "ขอบคุณมากนะที่ช่วยเหลือ",
+            "audio_en_src": "Thank you so much for your help."
+          },
+          {
+            "thai": "ขอบคุณสำหรับของขวัญ",
+            "en": "Thank you for the gift.",
+            "audio_src": "ขอบคุณสำหรับของขวัญ",
+            "audio_en_src": "Thank you for the gift."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-004",
@@ -100449,7 +100601,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขับรถ",
-    "audio_en_src": "to drive a car"
+    "audio_en_src": "to drive a car",
+    "examples": [
+      {
+        "meaning": "to drive a car",
+        "sentences": [
+          {
+            "thai": "เขาขับรถไปทำงานทุกวัน",
+            "en": "He drives to work every day.",
+            "audio_src": "เขาขับรถไปทำงานทุกวัน",
+            "audio_en_src": "He drives to work every day."
+          },
+          {
+            "thai": "ขับรถระวังๆนะ ฝนตก",
+            "en": "Drive carefully, it's raining.",
+            "audio_src": "ขับรถระวังๆนะ ฝนตก",
+            "audio_en_src": "Drive carefully, it's raining."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-006",
@@ -100464,7 +100635,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างหน้า",
-    "audio_en_src": "in front of, ahead"
+    "audio_en_src": "in front of, ahead",
+    "examples": [
+      {
+        "meaning": "in front of, ahead",
+        "sentences": [
+          {
+            "thai": "มีร้านสะดวกซื้ออยู่ข้างหน้า",
+            "en": "There's a convenience store up ahead.",
+            "audio_src": "มีร้านสะดวกซื้ออยู่ข้างหน้า",
+            "audio_en_src": "There's a convenience store up ahead."
+          },
+          {
+            "thai": "เดินตรงไปข้างหน้าอีกนิด",
+            "en": "Walk straight ahead a little more.",
+            "audio_src": "เดินตรงไปข้างหน้าอีกนิด",
+            "audio_en_src": "Walk straight ahead a little more."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-007",
