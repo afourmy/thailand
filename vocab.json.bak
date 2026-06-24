@@ -101494,7 +101494,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตอบ",
-    "audio_en_src": "to answer"
+    "audio_en_src": "to answer",
+    "examples": [
+      {
+        "meaning": "to answer",
+        "sentences": [
+          {
+            "thai": "เขายังไม่ตอบข้อความฉันเลย",
+            "en": "He hasn't answered my message yet.",
+            "audio_src": "เขายังไม่ตอบข้อความฉันเลย",
+            "audio_en_src": "He hasn't answered my message yet."
+          },
+          {
+            "thai": "ตอบคำถามนี้ให้หน่อยได้ไหม",
+            "en": "Could you answer this question?",
+            "audio_src": "ตอบคำถามนี้ให้หน่อยได้ไหม",
+            "audio_en_src": "Could you answer this question?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-045",
@@ -101509,7 +101528,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตะวันตก",
-    "audio_en_src": "west"
+    "audio_en_src": "west",
+    "examples": [
+      {
+        "meaning": "west",
+        "sentences": [
+          {
+            "thai": "พระอาทิตย์ตกทางทิศตะวันตก",
+            "en": "The sun sets in the west.",
+            "audio_src": "พระอาทิตย์ตกทางทิศตะวันตก",
+            "audio_en_src": "The sun sets in the west."
+          },
+          {
+            "thai": "บ้านฉันหันหน้าไปทางตะวันตก",
+            "en": "My house faces west.",
+            "audio_src": "บ้านฉันหันหน้าไปทางตะวันตก",
+            "audio_en_src": "My house faces west."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-046",
@@ -101524,7 +101562,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตะวันออก",
-    "audio_en_src": "east"
+    "audio_en_src": "east",
+    "examples": [
+      {
+        "meaning": "east",
+        "sentences": [
+          {
+            "thai": "พระอาทิตย์ขึ้นทางทิศตะวันออก",
+            "en": "The sun rises in the east.",
+            "audio_src": "พระอาทิตย์ขึ้นทางทิศตะวันออก",
+            "audio_en_src": "The sun rises in the east."
+          },
+          {
+            "thai": "ญี่ปุ่นอยู่ทางตะวันออกของเอเชีย",
+            "en": "Japan is in the east of Asia.",
+            "audio_src": "ญี่ปุ่นอยู่ทางตะวันออกของเอเชีย",
+            "audio_en_src": "Japan is in the east of Asia."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-047",
@@ -101573,7 +101630,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถือ",
-    "audio_en_src": "to hold"
+    "audio_en_src": "to hold",
+    "examples": [
+      {
+        "meaning": "to hold",
+        "sentences": [
+          {
+            "thai": "เขาถือร่มไว้ในมือ",
+            "en": "He's holding an umbrella in his hand.",
+            "audio_src": "เขาถือร่มไว้ในมือ",
+            "audio_en_src": "He's holding an umbrella in his hand."
+          },
+          {
+            "thai": "ช่วยถือของให้หน่อยได้ไหม",
+            "en": "Could you help hold this for me?",
+            "audio_src": "ช่วยถือของให้หน่อยได้ไหม",
+            "audio_en_src": "Could you help hold this for me?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-055",
@@ -101588,7 +101664,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถุง",
-    "audio_en_src": "bag"
+    "audio_en_src": "bag",
+    "examples": [
+      {
+        "meaning": "bag",
+        "sentences": [
+          {
+            "thai": "ขอถุงใส่ของหน่อย",
+            "en": "Could I have a bag for my things?",
+            "audio_src": "ขอถุงใส่ของหน่อย",
+            "audio_en_src": "Could I have a bag for my things?"
+          },
+          {
+            "thai": "ใส่ผลไม้ไว้ในถุงพลาสติก",
+            "en": "Put the fruit in a plastic bag.",
+            "audio_src": "ใส่ผลไม้ไว้ในถุงพลาสติก",
+            "audio_en_src": "Put the fruit in a plastic bag."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-056",
@@ -101675,7 +101770,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทั้ง",
-    "audio_en_src": "all of"
+    "audio_en_src": "all of",
+    "examples": [
+      {
+        "meaning": "all of",
+        "sentences": [
+          {
+            "thai": "เขากินขนมหมดทั้งกล่อง",
+            "en": "He ate the whole box of snacks.",
+            "audio_src": "เขากินขนมหมดทั้งกล่อง",
+            "audio_en_src": "He ate the whole box of snacks."
+          },
+          {
+            "thai": "ฝนตกทั้งวันทั้งคืน",
+            "en": "It rained all day and all night.",
+            "audio_src": "ฝนตกทั้งวันทั้งคืน",
+            "audio_en_src": "It rained all day and all night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-067",
@@ -101689,7 +101803,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทั้งสอง",
-    "audio_en_src": "both"
+    "audio_en_src": "both",
+    "examples": [
+      {
+        "meaning": "both",
+        "sentences": [
+          {
+            "thai": "ทั้งสองคนเป็นเพื่อนสนิทกัน",
+            "en": "The two of them are close friends.",
+            "audio_src": "ทั้งสองคนเป็นเพื่อนสนิทกัน",
+            "audio_en_src": "The two of them are close friends."
+          },
+          {
+            "thai": "ฉันชอบทั้งสองสีเลย เลือกไม่ถูก",
+            "en": "I like both colors, I can't choose.",
+            "audio_src": "ฉันชอบทั้งสองสีเลย เลือกไม่ถูก",
+            "audio_en_src": "I like both colors, I can't choose."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-068",
@@ -101704,7 +101837,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทั้งหมด",
-    "audio_en_src": "all of it, the whole"
+    "audio_en_src": "all of it, the whole",
+    "examples": [
+      {
+        "meaning": "all of it, the whole",
+        "sentences": [
+          {
+            "thai": "ทั้งหมดราคาเท่าไหร่",
+            "en": "How much is it all together?",
+            "audio_src": "ทั้งหมดราคาเท่าไหร่",
+            "audio_en_src": "How much is it all together?"
+          },
+          {
+            "thai": "เขากินข้าวหมดทั้งหมดเลย",
+            "en": "He ate all of the rice.",
+            "audio_src": "เขากินข้าวหมดทั้งหมดเลย",
+            "audio_en_src": "He ate all of the rice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-069",
@@ -101740,7 +101892,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่สุด",
-    "audio_en_src": "the most, extremely"
+    "audio_en_src": "the most, extremely",
+    "examples": [
+      {
+        "meaning": "the most, extremely",
+        "sentences": [
+          {
+            "thai": "นี่คือหนังที่ฉันชอบที่สุด",
+            "en": "This is the movie I like the most.",
+            "audio_src": "นี่คือหนังที่ฉันชอบที่สุด",
+            "audio_en_src": "This is the movie I like the most."
+          },
+          {
+            "thai": "วันนี้เป็นวันที่มีความสุขที่สุด",
+            "en": "Today is the happiest day.",
+            "audio_src": "วันนี้เป็นวันที่มีความสุขที่สุด",
+            "audio_en_src": "Today is the happiest day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-072",
@@ -101755,7 +101926,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่อยู่",
-    "audio_en_src": "address, place of residence"
+    "audio_en_src": "address, place of residence",
+    "examples": [
+      {
+        "meaning": "address, place of residence",
+        "sentences": [
+          {
+            "thai": "ช่วยกรอกชื่อและที่อยู่ด้วย",
+            "en": "Please fill in your name and address.",
+            "audio_src": "ช่วยกรอกชื่อและที่อยู่ด้วย",
+            "audio_en_src": "Please fill in your name and address."
+          },
+          {
+            "thai": "ฉันลืมที่อยู่ร้านอาหาร",
+            "en": "I forgot the restaurant's address.",
+            "audio_src": "ฉันลืมที่อยู่ร้านอาหาร",
+            "audio_en_src": "I forgot the restaurant's address."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-075",

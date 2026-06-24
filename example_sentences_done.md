@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 781 words**
+**Total: 791 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -783,5 +783,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-068` : ทั้งหมด (all of it, the whole) : 1 meaning(s), 2 sentences
 - `wlt-c13-071` : ที่สุด (the most, extremely) : 1 meaning(s), 2 sentences
 - `wlt-c13-072` : ที่อยู่ (address, place of residence) : 1 meaning(s), 2 sentences
+- `wlt-c13-075` : ไทย (Thai) : 1 meaning(s), 2 sentences
+- `wlt-c13-077` : เธอ (you, she (informal, usually feminine)) : 1 meaning(s), 2 sentences
+- `wlt-c13-079` : น้องสาว (younger sister) : 1 meaning(s), 2 sentences
+- `wlt-c13-085` : น่าสนใจ (interesting) : 1 meaning(s), 2 sentences
+- `wlt-c13-087` : น้ำแข็ง (ice) : 1 meaning(s), 2 sentences
+- `wlt-c13-089` : น้ำมัน (oil, gasoline) : 1 meaning(s), 2 sentences
+- `wlt-c13-092` : แน่นอน (certain, sure) : 1 meaning(s), 2 sentences
+- `wlt-c13-097` : เบอร์ (number (for room, telephone, cloth size, etc)) : 1 meaning(s), 2 sentences
+- `wlt-c13-098` : เบียร์ (beer) : 1 meaning(s), 2 sentences
+- `wlt-c14-001` : ประเทศไทย (Thailand) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
