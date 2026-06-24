@@ -30,11 +30,15 @@
         "sentences": [
           {
             "thai": "พกร่มไปด้วย เผื่อฝนตก",
-            "en": "Bring an umbrella in case it rains."
+            "en": "Bring an umbrella in case it rains.",
+            "audio_src": "พกร่มไปด้วย เผื่อฝนตก",
+            "audio_en_src": "Bring an umbrella in case it rains."
           },
           {
             "thai": "เก็บเงินไว้เผื่อฉุกเฉิน",
-            "en": "Save some money in case of an emergency."
+            "en": "Save some money in case of an emergency.",
+            "audio_src": "เก็บเงินไว้เผื่อฉุกเฉิน",
+            "audio_en_src": "Save some money in case of an emergency."
           }
         ]
       }
@@ -180,11 +184,15 @@
         "sentences": [
           {
             "thai": "ฉันจะคอยอยู่ตรงนี้",
-            "en": "I’ll wait right here."
+            "en": "I’ll wait right here.",
+            "audio_src": "ฉันจะคอยอยู่ตรงนี้",
+            "audio_en_src": "I’ll wait right here."
           },
           {
             "thai": "คอยแป๊บนึงนะ เดี๋ยวมา",
-            "en": "Wait a sec, I’ll be right back."
+            "en": "Wait a sec, I’ll be right back.",
+            "audio_src": "คอยแป๊บนึงนะ เดี๋ยวมา",
+            "audio_en_src": "Wait a sec, I’ll be right back."
           }
         ]
       }
@@ -211,11 +219,15 @@
         "sentences": [
           {
             "thai": "ส่วนเรื่องเงิน ค่อยคุยทีหลัง",
-            "en": "As for the money, let’s talk later."
+            "en": "As for the money, let’s talk later.",
+            "audio_src": "ส่วนเรื่องเงิน ค่อยคุยทีหลัง",
+            "audio_en_src": "As for the money, let’s talk later."
           },
           {
             "thai": "ส่วนฉันขอไม่ไปดีกว่า",
-            "en": "As for me, I’d rather not go."
+            "en": "As for me, I’d rather not go.",
+            "audio_src": "ส่วนฉันขอไม่ไปดีกว่า",
+            "audio_en_src": "As for me, I’d rather not go."
           }
         ]
       },
@@ -224,11 +236,15 @@
         "sentences": [
           {
             "thai": "เขาชอบกาแฟ ส่วนฉันชอบชา",
-            "en": "He likes coffee, while I like tea."
+            "en": "He likes coffee, while I like tea.",
+            "audio_src": "เขาชอบกาแฟ ส่วนฉันชอบชา",
+            "audio_en_src": "He likes coffee, while I like tea."
           },
           {
             "thai": "พี่ทำงาน ส่วนน้องยังเรียน",
-            "en": "The older one works, while the younger one is still studying."
+            "en": "The older one works, while the younger one is still studying.",
+            "audio_src": "พี่ทำงาน ส่วนน้องยังเรียน",
+            "audio_en_src": "The older one works, while the younger one is still studying."
           }
         ]
       },
@@ -237,11 +253,15 @@
         "sentences": [
           {
             "thai": "นี่เป็นส่วนสำคัญของงาน",
-            "en": "This is an important part of the job."
+            "en": "This is an important part of the job.",
+            "audio_src": "นี่เป็นส่วนสำคัญของงาน",
+            "audio_en_src": "This is an important part of the job."
           },
           {
             "thai": "แบ่งเค้กเป็นแปดส่วน",
-            "en": "Cut the cake into eight pieces."
+            "en": "Cut the cake into eight pieces.",
+            "audio_src": "แบ่งเค้กเป็นแปดส่วน",
+            "audio_en_src": "Cut the cake into eight pieces."
           }
         ]
       }
@@ -619,11 +639,15 @@
         "sentences": [
           {
             "thai": "อาหารเป็นส่วนหนึ่งของวัฒนธรรม",
-            "en": "Food is part of culture."
+            "en": "Food is part of culture.",
+            "audio_src": "อาหารเป็นส่วนหนึ่งของวัฒนธรรม",
+            "audio_en_src": "Food is part of culture."
           },
           {
             "thai": "แต่ละประเทศมีวัฒนธรรมต่างกัน",
-            "en": "Each country has a different culture."
+            "en": "Each country has a different culture.",
+            "audio_src": "แต่ละประเทศมีวัฒนธรรมต่างกัน",
+            "audio_en_src": "Each country has a different culture."
           }
         ]
       }
@@ -1439,11 +1463,15 @@
         "sentences": [
           {
             "thai": "ธุรกิจเติบโตขึ้นทุกปี",
-            "en": "The business grows every year."
+            "en": "The business grows every year.",
+            "audio_src": "ธุรกิจเติบโตขึ้นทุกปี",
+            "audio_en_src": "The business grows every year."
           },
           {
             "thai": "เด็กๆ เติบโตเร็วมาก",
-            "en": "Kids grow up so fast."
+            "en": "Kids grow up so fast.",
+            "audio_src": "เด็กๆ เติบโตเร็วมาก",
+            "audio_en_src": "Kids grow up so fast."
           }
         ]
       }
@@ -1470,11 +1498,15 @@
         "sentences": [
           {
             "thai": "ทำให้เต็มที่ ไม่ต้องกลัวพลาด",
-            "en": "Give it your all, don’t be afraid to fail."
+            "en": "Give it your all, don’t be afraid to fail.",
+            "audio_src": "ทำให้เต็มที่ ไม่ต้องกลัวพลาด",
+            "audio_en_src": "Give it your all, don’t be afraid to fail."
           },
           {
             "thai": "วันนี้เล่นกันเต็มที่เลย",
-            "en": "We went all out today."
+            "en": "We went all out today.",
+            "audio_src": "วันนี้เล่นกันเต็มที่เลย",
+            "audio_en_src": "We went all out today."
           }
         ]
       }
@@ -6292,11 +6324,15 @@
         "sentences": [
           {
             "thai": "จู่ๆ เขาก็ปรากฏตัวขึ้น",
-            "en": "He suddenly appeared."
+            "en": "He suddenly appeared.",
+            "audio_src": "จู่ๆ เขาก็ปรากฏตัวขึ้น",
+            "audio_en_src": "He suddenly appeared."
           },
           {
             "thai": "ชื่อของเขาปรากฏในข่าว",
-            "en": "His name appeared in the news."
+            "en": "His name appeared in the news.",
+            "audio_src": "ชื่อของเขาปรากฏในข่าว",
+            "audio_en_src": "His name appeared in the news."
           }
         ]
       }
@@ -6539,11 +6575,15 @@
         "sentences": [
           {
             "thai": "พรุ่งนี้มีนัดกับหมอ",
-            "en": "I have a doctor’s appointment tomorrow."
+            "en": "I have a doctor’s appointment tomorrow.",
+            "audio_src": "พรุ่งนี้มีนัดกับหมอ",
+            "audio_en_src": "I have a doctor’s appointment tomorrow."
           },
           {
             "thai": "ขอเลื่อนนัดเป็นวันอื่นได้ไหม",
-            "en": "Can we reschedule the appointment to another day?"
+            "en": "Can we reschedule the appointment to another day?",
+            "audio_src": "ขอเลื่อนนัดเป็นวันอื่นได้ไหม",
+            "audio_en_src": "Can we reschedule the appointment to another day?"
           }
         ]
       },
@@ -6552,11 +6592,15 @@
         "sentences": [
           {
             "thai": "นัดนี้ทีมเราชนะ",
-            "en": "Our team won this match."
+            "en": "Our team won this match.",
+            "audio_src": "นัดนี้ทีมเราชนะ",
+            "audio_en_src": "Our team won this match."
           },
           {
             "thai": "นัดต่อไปเป็นรอบชิงชนะเลิศ",
-            "en": "The next match is the final."
+            "en": "The next match is the final.",
+            "audio_src": "นัดต่อไปเป็นรอบชิงชนะเลิศ",
+            "audio_en_src": "The next match is the final."
           }
         ]
       },
@@ -6565,11 +6609,15 @@
         "sentences": [
           {
             "thai": "ได้ยินเสียงปืนสองนัด",
-            "en": "I heard two gunshots."
+            "en": "I heard two gunshots.",
+            "audio_src": "ได้ยินเสียงปืนสองนัด",
+            "audio_en_src": "I heard two gunshots."
           },
           {
             "thai": "ตำรวจยิงขึ้นฟ้าหนึ่งนัด",
-            "en": "The police fired one shot into the air."
+            "en": "The police fired one shot into the air.",
+            "audio_src": "ตำรวจยิงขึ้นฟ้าหนึ่งนัด",
+            "audio_en_src": "The police fired one shot into the air."
           }
         ]
       }
@@ -7065,11 +7113,15 @@
         "sentences": [
           {
             "thai": "ชอบรูปแบบการสอนของครูคนนี้",
-            "en": "I like this teacher’s teaching style."
+            "en": "I like this teacher’s teaching style.",
+            "audio_src": "ชอบรูปแบบการสอนของครูคนนี้",
+            "audio_en_src": "I like this teacher’s teaching style."
           },
           {
             "thai": "รายงานต้องทำตามรูปแบบที่กำหนด",
-            "en": "The report must follow the required format."
+            "en": "The report must follow the required format.",
+            "audio_src": "รายงานต้องทำตามรูปแบบที่กำหนด",
+            "audio_en_src": "The report must follow the required format."
           }
         ]
       }
@@ -9428,11 +9480,15 @@
         "sentences": [
           {
             "thai": "หนังเรื่องนี้เฉยๆ ไม่สนุกเท่าไหร่",
-            "en": "This movie was just so-so, not that fun."
+            "en": "This movie was just so-so, not that fun.",
+            "audio_src": "หนังเรื่องนี้เฉยๆ ไม่สนุกเท่าไหร่",
+            "audio_en_src": "This movie was just so-so, not that fun."
           },
           {
             "thai": "อยู่เฉยๆ อย่าเพิ่งไปไหน",
-            "en": "Just stay put, don’t go anywhere yet."
+            "en": "Just stay put, don’t go anywhere yet.",
+            "audio_src": "อยู่เฉยๆ อย่าเพิ่งไปไหน",
+            "audio_en_src": "Just stay put, don’t go anywhere yet."
           }
         ]
       },
@@ -9441,11 +9497,15 @@
         "sentences": [
           {
             "thai": "ฉันโกรธมาก แต่เขากลับทำเฉย",
-            "en": "I was so angry, but he just acted like nothing happened."
+            "en": "I was so angry, but he just acted like nothing happened.",
+            "audio_src": "ฉันโกรธมาก แต่เขากลับทำเฉย",
+            "audio_en_src": "I was so angry, but he just acted like nothing happened."
           },
           {
             "thai": "บอกข่าวใหญ่ไป เขาเฉยเลย",
-            "en": "I told him the big news and he was totally unfazed."
+            "en": "I told him the big news and he was totally unfazed.",
+            "audio_src": "บอกข่าวใหญ่ไป เขาเฉยเลย",
+            "audio_en_src": "I told him the big news and he was totally unfazed."
           }
         ]
       }
