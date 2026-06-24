@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 51 words**
+**Total: 61 words**
 
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
 - `chula-l4-007` : เครียด (stressed) : 1 meaning(s), 2 sentences
@@ -47,6 +47,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-127` : ช้อน (spoon) : 1 meaning(s), 2 sentences
 - `tamago-l12-132` : ซีอิ๊ว (soy sauce) : 1 meaning(s), 2 sentences
 - `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
+- `tamago-l12-173` : ต้ม (to boil) : 1 meaning(s), 2 sentences
+- `tamago-l12-192` : ทอด (to deep-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
@@ -55,3 +57,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
 - `tamago-l12-430` : ส่ง (to send; to drop someone off) : 2 meaning(s), 4 sentences
 - `tamago-l12-491` : เกาะ (island; to cling, to hold on to) : 2 meaning(s), 4 sentences
+- `tamago-l12-535` : เปลี่ยนใจ (to change one's mind, to reconsider) : 1 meaning(s), 2 sentences
+- `tamago-l12-568` : เสียใจ (sad (short-term sadness), sorry) : 1 meaning(s), 2 sentences
+- `tamago-l12-620` : โมโห (angry, furious) : 1 meaning(s), 2 sentences
+- `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
+- `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
+- `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
+- `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
+- `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

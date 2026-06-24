@@ -13095,7 +13095,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต้ม",
-    "audio_en_src": "to boil"
+    "audio_en_src": "to boil",
+    "examples": [
+      {
+        "meaning": "to boil",
+        "sentences": [
+          {
+            "thai": "ต้มน้ำให้เดือดก่อน",
+            "en": "Boil the water first.",
+            "audio_src": "ต้มน้ำให้เดือดก่อน",
+            "audio_en_src": "Boil the water first."
+          },
+          {
+            "thai": "เอาไข่ไปต้มสิบนาที",
+            "en": "Boil the eggs for ten minutes.",
+            "audio_src": "เอาไข่ไปต้มสิบนาที",
+            "audio_en_src": "Boil the eggs for ten minutes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-174",
@@ -13306,7 +13325,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทอด",
-    "audio_en_src": "to deep-fry"
+    "audio_en_src": "to deep-fry",
+    "examples": [
+      {
+        "meaning": "to deep-fry",
+        "sentences": [
+          {
+            "thai": "ทอดไก่ให้กรอบ",
+            "en": "Fry the chicken until crispy.",
+            "audio_src": "ทอดไก่ให้กรอบ",
+            "audio_en_src": "Fry the chicken until crispy."
+          },
+          {
+            "thai": "ชอบกินกล้วยทอด",
+            "en": "I love fried bananas.",
+            "audio_src": "ชอบกินกล้วยทอด",
+            "audio_en_src": "I love fried bananas."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-193",
@@ -17442,7 +17480,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เปลี่ยนใจ",
-    "audio_en_src": "to change one's mind, to reconsider"
+    "audio_en_src": "to change one's mind, to reconsider",
+    "examples": [
+      {
+        "meaning": "to change one's mind, to reconsider",
+        "sentences": [
+          {
+            "thai": "ฉันเปลี่ยนใจแล้ว ไม่ไปดีกว่า",
+            "en": "I changed my mind, I’d rather not go.",
+            "audio_src": "ฉันเปลี่ยนใจแล้ว ไม่ไปดีกว่า",
+            "audio_en_src": "I changed my mind, I’d rather not go."
+          },
+          {
+            "thai": "เขาเปลี่ยนใจบ่อยมาก",
+            "en": "He changes his mind a lot.",
+            "audio_src": "เขาเปลี่ยนใจบ่อยมาก",
+            "audio_en_src": "He changes his mind a lot."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-536",
@@ -17824,7 +17881,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสียใจ",
-    "audio_en_src": "sad, sorry"
+    "audio_en_src": "sad, sorry",
+    "examples": [
+      {
+        "meaning": "sad (short-term sadness), sorry",
+        "sentences": [
+          {
+            "thai": "ได้ข่าวร้ายแล้วเสียใจมาก",
+            "en": "I was really sad to hear the bad news.",
+            "audio_src": "ได้ข่าวร้ายแล้วเสียใจมาก",
+            "audio_en_src": "I was really sad to hear the bad news."
+          },
+          {
+            "thai": "เสียใจด้วยนะ",
+            "en": "I’m sorry to hear that.",
+            "audio_src": "เสียใจด้วยนะ",
+            "audio_en_src": "I’m sorry to hear that."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-569",
@@ -18398,7 +18474,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โมโห",
-    "audio_en_src": "angry, furious"
+    "audio_en_src": "angry, furious",
+    "examples": [
+      {
+        "meaning": "angry, furious",
+        "sentences": [
+          {
+            "thai": "เขาโมโหจนพูดไม่ออก",
+            "en": "He was so angry he couldn’t speak.",
+            "audio_src": "เขาโมโหจนพูดไม่ออก",
+            "audio_en_src": "He was so angry he couldn’t speak."
+          },
+          {
+            "thai": "อย่าเพิ่งโมโห ฟังฉันก่อน",
+            "en": "Don’t get mad yet, hear me out first.",
+            "audio_src": "อย่าเพิ่งโมโห ฟังฉันก่อน",
+            "audio_en_src": "Don’t get mad yet, hear me out first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-621",
@@ -44951,7 +45046,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ออกกําลังกาย",
-    "audio_en_src": "to exercise"
+    "audio_en_src": "to exercise",
+    "examples": [
+      {
+        "meaning": "to exercise",
+        "sentences": [
+          {
+            "thai": "หมอแนะนำให้ออกกำลังกายทุกวัน",
+            "en": "The doctor recommends exercising every day.",
+            "audio_src": "หมอแนะนำให้ออกกำลังกายทุกวัน",
+            "audio_en_src": "The doctor recommends exercising every day."
+          },
+          {
+            "thai": "ช่วงนี้ไม่ค่อยได้ออกกำลังกาย",
+            "en": "I haven’t been exercising much lately.",
+            "audio_src": "ช่วงนี้ไม่ค่อยได้ออกกำลังกาย",
+            "audio_en_src": "I haven’t been exercising much lately."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1120",
@@ -48594,7 +48708,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ท้อง",
-    "audio_en_src": "stomach, belly; pregnant"
+    "audio_en_src": "stomach, belly; pregnant",
+    "examples": [
+      {
+        "meaning": "stomach, belly",
+        "sentences": [
+          {
+            "thai": "กินเยอะไปจนปวดท้อง",
+            "en": "I ate too much and got a stomachache.",
+            "audio_src": "กินเยอะไปจนปวดท้อง",
+            "audio_en_src": "I ate too much and got a stomachache."
+          },
+          {
+            "thai": "ท้องร้องเพราะหิวมาก",
+            "en": "My stomach’s growling, I’m so hungry.",
+            "audio_src": "ท้องร้องเพราะหิวมาก",
+            "audio_en_src": "My stomach’s growling, I’m so hungry."
+          }
+        ]
+      },
+      {
+        "meaning": "pregnant",
+        "sentences": [
+          {
+            "thai": "พี่สาวกำลังท้องลูกคนแรก",
+            "en": "My sister is pregnant with her first child.",
+            "audio_src": "พี่สาวกำลังท้องลูกคนแรก",
+            "audio_en_src": "My sister is pregnant with her first child."
+          },
+          {
+            "thai": "เธอท้องได้สามเดือนแล้ว",
+            "en": "She’s three months pregnant now.",
+            "audio_src": "เธอท้องได้สามเดือนแล้ว",
+            "audio_en_src": "She’s three months pregnant now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-069",
@@ -83194,7 +83344,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใจเย็น",
-    "audio_en_src": "calm, cool-headed"
+    "audio_en_src": "calm, cool-headed",
+    "examples": [
+      {
+        "meaning": "calm, cool-headed",
+        "sentences": [
+          {
+            "thai": "ใจเย็นๆ เดี๋ยวก็แก้ได้",
+            "en": "Calm down, we’ll figure it out.",
+            "audio_src": "ใจเย็นๆ เดี๋ยวก็แก้ได้",
+            "audio_en_src": "Calm down, we’ll figure it out."
+          },
+          {
+            "thai": "เขาเป็นคนใจเย็น ไม่โมโหง่าย",
+            "en": "He’s a calm person, doesn’t get angry easily.",
+            "audio_src": "เขาเป็นคนใจเย็น ไม่โมโหง่าย",
+            "audio_en_src": "He’s a calm person, doesn’t get angry easily."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-052",
@@ -88087,7 +88256,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขี้เกียจ",
-    "audio_en_src": "lazy"
+    "audio_en_src": "lazy",
+    "examples": [
+      {
+        "meaning": "lazy",
+        "sentences": [
+          {
+            "thai": "วันนี้ขี้เกียจทำอะไรเลย",
+            "en": "I don’t feel like doing anything today.",
+            "audio_src": "วันนี้ขี้เกียจทำอะไรเลย",
+            "audio_en_src": "I don’t feel like doing anything today."
+          },
+          {
+            "thai": "อย่าขี้เกียจสิ รีบทำการบ้าน",
+            "en": "Don’t be lazy, go do your homework.",
+            "audio_src": "อย่าขี้เกียจสิ รีบทำการบ้าน",
+            "audio_en_src": "Don’t be lazy, go do your homework."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-036",
@@ -93509,7 +93697,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พัก",
-    "audio_en_src": "to rest, to take a break; to stay at"
+    "audio_en_src": "to rest, to take a break; to stay at",
+    "examples": [
+      {
+        "meaning": "to rest, to take a break",
+        "sentences": [
+          {
+            "thai": "เหนื่อยแล้ว พักก่อนดีกว่า",
+            "en": "I’m tired, let’s take a break.",
+            "audio_src": "เหนื่อยแล้ว พักก่อนดีกว่า",
+            "audio_en_src": "I’m tired, let’s take a break."
+          },
+          {
+            "thai": "พักสายตาบ้างนะ อย่าจ้องจอนาน",
+            "en": "Rest your eyes, don’t stare at the screen too long.",
+            "audio_src": "พักสายตาบ้างนะ อย่าจ้องจอนาน",
+            "audio_en_src": "Rest your eyes, don’t stare at the screen too long."
+          }
+        ]
+      },
+      {
+        "meaning": "to stay at (temporarily)",
+        "sentences": [
+          {
+            "thai": "ทริปนี้เราพักที่โรงแรมริมทะเล",
+            "en": "On this trip we’re staying at a beachside hotel.",
+            "audio_src": "ทริปนี้เราพักที่โรงแรมริมทะเล",
+            "audio_en_src": "On this trip we’re staying at a beachside hotel."
+          },
+          {
+            "thai": "คืนนี้ขอพักบ้านเพื่อน",
+            "en": "I’ll stay at a friend’s place tonight.",
+            "audio_src": "คืนนี้ขอพักบ้านเพื่อน",
+            "audio_en_src": "I’ll stay at a friend’s place tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-039",
