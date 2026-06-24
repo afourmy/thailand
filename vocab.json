@@ -107419,7 +107419,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลับ",
-    "audio_en_src": "to fall asleep"
+    "audio_en_src": "to fall asleep",
+    "examples": [
+      {
+        "meaning": "to fall asleep",
+        "sentences": [
+          {
+            "thai": "ฉันหลับไปตอนดูทีวี",
+            "en": "I fell asleep while watching TV.",
+            "audio_src": "ฉันหลับไปตอนดูทีวี",
+            "audio_en_src": "I fell asleep while watching TV."
+          },
+          {
+            "thai": "เด็กหลับสบายอยู่บนเตียง",
+            "en": "The baby is sleeping peacefully on the bed.",
+            "audio_src": "เด็กหลับสบายอยู่บนเตียง",
+            "audio_en_src": "The baby is sleeping peacefully on the bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-052",
@@ -107434,7 +107453,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลาน",
-    "audio_en_src": "nephew, niece, grandchild"
+    "audio_en_src": "nephew, niece, grandchild",
+    "examples": [
+      {
+        "meaning": "nephew, niece, grandchild",
+        "sentences": [
+          {
+            "thai": "หลานชายฉันอายุห้าขวบ",
+            "en": "My nephew is five years old.",
+            "audio_src": "หลานชายฉันอายุห้าขวบ",
+            "audio_en_src": "My nephew is five years old."
+          },
+          {
+            "thai": "คุณยายเล่นกับหลานทุกวัน",
+            "en": "Grandma plays with her grandchildren every day.",
+            "audio_src": "คุณยายเล่นกับหลานทุกวัน",
+            "audio_en_src": "Grandma plays with her grandchildren every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-053",
@@ -107449,7 +107487,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห้า ๕",
-    "audio_en_src": "five"
+    "audio_en_src": "five",
+    "examples": [
+      {
+        "meaning": "five (5)",
+        "sentences": [
+          {
+            "thai": "ขอกาแฟห้าแก้ว",
+            "en": "Five coffees, please.",
+            "audio_src": "ขอกาแฟห้าแก้ว",
+            "audio_en_src": "Five coffees, please."
+          },
+          {
+            "thai": "ร้านเปิดถึงห้าทุ่ม",
+            "en": "The shop is open until eleven pm.",
+            "audio_src": "ร้านเปิดถึงห้าทุ่ม",
+            "audio_en_src": "The shop is open until eleven pm."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-054",
@@ -107486,7 +107543,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อย่า",
-    "audio_en_src": "do not"
+    "audio_en_src": "do not",
+    "examples": [
+      {
+        "meaning": "do not (to tell someone not to do sth)",
+        "sentences": [
+          {
+            "thai": "อย่าลืมปิดไฟก่อนออกจากบ้าน",
+            "en": "Don't forget to turn off the lights before leaving.",
+            "audio_src": "อย่าลืมปิดไฟก่อนออกจากบ้าน",
+            "audio_en_src": "Don't forget to turn off the lights before leaving."
+          },
+          {
+            "thai": "อย่าพูดเสียงดังในห้องสมุด",
+            "en": "Don't speak loudly in the library.",
+            "audio_src": "อย่าพูดเสียงดังในห้องสมุด",
+            "audio_en_src": "Don't speak loudly in the library."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-061",
@@ -107501,7 +107577,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อร่อย",
-    "audio_en_src": "to taste good, delicious"
+    "audio_en_src": "to taste good, delicious",
+    "examples": [
+      {
+        "meaning": "to taste good, delicious",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้อร่อยทุกอย่าง",
+            "en": "Everything at this restaurant is delicious.",
+            "audio_src": "อาหารร้านนี้อร่อยทุกอย่าง",
+            "audio_en_src": "Everything at this restaurant is delicious."
+          },
+          {
+            "thai": "แม่ทำต้มยำอร่อยมาก",
+            "en": "Mom makes really delicious tom yum.",
+            "audio_src": "แม่ทำต้มยำอร่อยมาก",
+            "audio_en_src": "Mom makes really delicious tom yum."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-063",
@@ -107516,7 +107611,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อันตราย",
-    "audio_en_src": "dangerous"
+    "audio_en_src": "dangerous",
+    "examples": [
+      {
+        "meaning": "dangerous",
+        "sentences": [
+          {
+            "thai": "ขับรถเร็วเกินไปอันตรายมาก",
+            "en": "Driving too fast is very dangerous.",
+            "audio_src": "ขับรถเร็วเกินไปอันตรายมาก",
+            "audio_en_src": "Driving too fast is very dangerous."
+          },
+          {
+            "thai": "ตรงนี้อันตราย ระวังด้วย",
+            "en": "It's dangerous here, be careful.",
+            "audio_src": "ตรงนี้อันตราย ระวังด้วย",
+            "audio_en_src": "It's dangerous here, be careful."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-064",
@@ -107531,7 +107645,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาบน้ำ",
-    "audio_en_src": "to take a shower, to bathe"
+    "audio_en_src": "to take a shower, to bathe",
+    "examples": [
+      {
+        "meaning": "to take a shower, to bathe",
+        "sentences": [
+          {
+            "thai": "กลับถึงบ้านฉันอาบน้ำก่อนเลย",
+            "en": "When I get home, I shower first thing.",
+            "audio_src": "กลับถึงบ้านฉันอาบน้ำก่อนเลย",
+            "audio_en_src": "When I get home, I shower first thing."
+          },
+          {
+            "thai": "อาบน้ำเย็นๆตอนหน้าร้อนสดชื่นดี",
+            "en": "A cool shower in the hot season is refreshing.",
+            "audio_src": "อาบน้ำเย็นๆตอนหน้าร้อนสดชื่นดี",
+            "audio_en_src": "A cool shower in the hot season is refreshing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-065",
@@ -107579,7 +107712,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ก็",
-    "audio_en_src": "so, then"
+    "audio_en_src": "so, then",
+    "examples": [
+      {
+        "meaning": "so, then",
+        "sentences": [
+          {
+            "thai": "ถ้าง่วงก็ไปนอนเถอะ",
+            "en": "If you're sleepy, then go to bed.",
+            "audio_src": "ถ้าง่วงก็ไปนอนเถอะ",
+            "audio_en_src": "If you're sleepy, then go to bed."
+          },
+          {
+            "thai": "เขาไม่มาฉันก็เลยกลับบ้าน",
+            "en": "He didn't come, so I went home.",
+            "audio_src": "เขาไม่มาฉันก็เลยกลับบ้าน",
+            "audio_en_src": "He didn't come, so I went home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-071",
@@ -107594,7 +107746,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระเป๋า",
-    "audio_en_src": "bag"
+    "audio_en_src": "bag",
+    "examples": [
+      {
+        "meaning": "bag",
+        "sentences": [
+          {
+            "thai": "กระเป๋าใบนี้ใส่ของได้เยอะ",
+            "en": "This bag holds a lot of stuff.",
+            "audio_src": "กระเป๋าใบนี้ใส่ของได้เยอะ",
+            "audio_en_src": "This bag holds a lot of stuff."
+          },
+          {
+            "thai": "ฉันลืมกระเป๋าไว้บนรถ",
+            "en": "I left my bag on the bus.",
+            "audio_src": "ฉันลืมกระเป๋าไว้บนรถ",
+            "audio_en_src": "I left my bag on the bus."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-072",
@@ -107620,7 +107791,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กี่",
-    "audio_en_src": "how many"
+    "audio_en_src": "how many",
+    "examples": [
+      {
+        "meaning": "how many",
+        "sentences": [
+          {
+            "thai": "เธอมีพี่น้องกี่คน",
+            "en": "How many siblings do you have?",
+            "audio_src": "เธอมีพี่น้องกี่คน",
+            "audio_en_src": "How many siblings do you have?"
+          },
+          {
+            "thai": "อันนี้กี่บาท",
+            "en": "How much is this?",
+            "audio_src": "อันนี้กี่บาท",
+            "audio_en_src": "How much is this?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-077",

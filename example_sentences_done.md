@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 911 words**
+**Total: 921 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -914,4 +914,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-047` : หมด (all gone, used up, finished) : 1 meaning(s), 2 sentences
 - `wlt-c16-048` : หมอฟัน (dentist (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c16-050` : หยุด (to stop) : 1 meaning(s), 2 sentences
+- `wlt-c16-051` : หลับ (to fall asleep) : 1 meaning(s), 2 sentences
+- `wlt-c16-052` : หลาน (nephew, niece, grandchild) : 1 meaning(s), 2 sentences
+- `wlt-c16-053` : ห้า ๕ (five (5)) : 1 meaning(s), 2 sentences
+- `wlt-c16-060` : อย่า (do not (to tell someone not to do sth)) : 1 meaning(s), 2 sentences
+- `wlt-c16-061` : อร่อย (to taste good, delicious) : 1 meaning(s), 2 sentences
+- `wlt-c16-063` : อันตราย (dangerous) : 1 meaning(s), 2 sentences
+- `wlt-c16-064` : อาบน้ำ (to take a shower, to bathe) : 1 meaning(s), 2 sentences
+- `wlt-c16-070` : ก็ (so, then) : 1 meaning(s), 2 sentences
+- `wlt-c16-071` : กระเป๋า (bag) : 1 meaning(s), 2 sentences
+- `wlt-c16-075` : กี่ (how many) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
