@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1091 words**
+**Total: 1101 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1094,4 +1094,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-025` : ธันวาคม (December) : 1 meaning(s), 2 sentences
 - `wlt-c20-026` : น้อย (little, small) : 1 meaning(s), 2 sentences
 - `wlt-c20-029` : บ้าน (house, home) : 1 meaning(s), 2 sentences
+- `wlt-c20-030` : ประตู (door, gate) : 1 meaning(s), 2 sentences
+- `wlt-c20-031` : ปาก (mouth) : 1 meaning(s), 2 sentences
+- `wlt-c20-032` : เป็น (to be; to be able) : 2 meaning(s), 4 sentences
+- `wlt-c20-034` : ผอม (thin) : 1 meaning(s), 2 sentences
+- `wlt-c20-035` : พรุ่งนี้ (tomorrow) : 1 meaning(s), 2 sentences
+- `wlt-c20-036` : พฤศจิกายน (November) : 1 meaning(s), 2 sentences
+- `wlt-c20-037` : พ่อ (father) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
+- `wlt-c20-039` : ไฟ (fire, electric light, electricity) : 1 meaning(s), 2 sentences
+- `wlt-c20-040` : มกราคม (January) : 1 meaning(s), 2 sentences
+- `wlt-c20-041` : มา (to come) : 1 meaning(s), 2 sentences
