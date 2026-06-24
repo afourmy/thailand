@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 821 words**
+**Total: 831 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -823,5 +823,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-088` : เสื้อผ้า (clothes) : 1 meaning(s), 2 sentences
 - `wlt-c14-092` : หวัด (common cold) : 1 meaning(s), 2 sentences
 - `wlt-c14-093` : ห้าง (mall) : 1 meaning(s), 2 sentences
+- `wlt-c14-095` : หิว, หิวข้าว (hungry) : 1 meaning(s), 2 sentences
+- `wlt-c14-096` : หิวน้ำ (thirsty) : 1 meaning(s), 2 sentences
+- `wlt-c14-098` : เหนื่อย (tired, fatigued) : 1 meaning(s), 2 sentences
+- `wlt-c14-099` : เหมือน (like, as, as if, same as) : 1 meaning(s), 2 sentences
+- `wlt-c15-000` : แห่ง (classifier for places) : 1 meaning(s), 2 sentences
+- `wlt-c15-003` : อัน (classifier for things and inanimate objects) : 1 meaning(s), 2 sentences
+- `wlt-c15-006` : อาหารกลางวัน (lunch, noontime meal) : 1 meaning(s), 2 sentences
+- `wlt-c15-007` : อาหารเช้า (breakfast) : 1 meaning(s), 2 sentences
+- `wlt-c15-015` : อื่น (other, different) : 1 meaning(s), 2 sentences
+- `wlt-c15-022` : กลัว (to fear, scared, afraid of) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

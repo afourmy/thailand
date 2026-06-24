@@ -103848,7 +103848,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หิว, หิวข้าว",
-    "audio_en_src": "hungry"
+    "audio_en_src": "hungry",
+    "examples": [
+      {
+        "meaning": "hungry",
+        "sentences": [
+          {
+            "thai": "หิวข้าวมาก ยังไม่ได้กินอะไรเลย",
+            "en": "I'm so hungry, I haven't eaten anything yet.",
+            "audio_src": "หิวข้าวมาก ยังไม่ได้กินอะไรเลย",
+            "audio_en_src": "I'm so hungry, I haven't eaten anything yet."
+          },
+          {
+            "thai": "หิวจัง ไปหาอะไรกินกันเถอะ",
+            "en": "I'm starving, let's go find something to eat.",
+            "audio_src": "หิวจัง ไปหาอะไรกินกันเถอะ",
+            "audio_en_src": "I'm starving, let's go find something to eat."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-096",
@@ -103862,7 +103881,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หิวน้ำ",
-    "audio_en_src": "thirsty"
+    "audio_en_src": "thirsty",
+    "examples": [
+      {
+        "meaning": "thirsty",
+        "sentences": [
+          {
+            "thai": "เดินกลางแดดจนหิวน้ำ",
+            "en": "Walking in the sun made me thirsty.",
+            "audio_src": "เดินกลางแดดจนหิวน้ำ",
+            "audio_en_src": "Walking in the sun made me thirsty."
+          },
+          {
+            "thai": "หิวน้ำมาก ขอน้ำเย็นๆแก้วนึง",
+            "en": "I'm so thirsty, can I have a glass of cold water?",
+            "audio_src": "หิวน้ำมาก ขอน้ำเย็นๆแก้วนึง",
+            "audio_en_src": "I'm so thirsty, can I have a glass of cold water?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-097",
@@ -103888,7 +103926,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหนื่อย",
-    "audio_en_src": "tired, fatigued"
+    "audio_en_src": "tired, fatigued",
+    "examples": [
+      {
+        "meaning": "tired, fatigued",
+        "sentences": [
+          {
+            "thai": "ทำงานทั้งวันเหนื่อยมาก",
+            "en": "Working all day, I'm so tired.",
+            "audio_src": "ทำงานทั้งวันเหนื่อยมาก",
+            "audio_en_src": "Working all day, I'm so tired."
+          },
+          {
+            "thai": "เหนื่อยแล้ว ขอนั่งพักแป๊บนึง",
+            "en": "I'm tired, let me sit and rest for a sec.",
+            "audio_src": "เหนื่อยแล้ว ขอนั่งพักแป๊บนึง",
+            "audio_en_src": "I'm tired, let me sit and rest for a sec."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-099",
@@ -103903,7 +103960,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหมือน",
-    "audio_en_src": "like, as, as if, same as"
+    "audio_en_src": "like, as, as if, same as",
+    "examples": [
+      {
+        "meaning": "like, as, as if, same as",
+        "sentences": [
+          {
+            "thai": "เขาหน้าเหมือนพ่อมาก",
+            "en": "He looks just like his dad.",
+            "audio_src": "เขาหน้าเหมือนพ่อมาก",
+            "audio_en_src": "He looks just like his dad."
+          },
+          {
+            "thai": "เสื้อตัวนี้เหมือนของฉันเลย",
+            "en": "This shirt is just like mine.",
+            "audio_src": "เสื้อตัวนี้เหมือนของฉันเลย",
+            "audio_en_src": "This shirt is just like mine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-000",
@@ -103918,7 +103994,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แห่ง",
-    "audio_en_src": "classifier for places"
+    "audio_en_src": "classifier for places",
+    "examples": [
+      {
+        "meaning": "classifier for places",
+        "sentences": [
+          {
+            "thai": "ในจังหวัดนี้มีน้ำตกหลายแห่ง",
+            "en": "There are many waterfalls in this province.",
+            "audio_src": "ในจังหวัดนี้มีน้ำตกหลายแห่ง",
+            "audio_en_src": "There are many waterfalls in this province."
+          },
+          {
+            "thai": "มีโรงเรียนสองแห่งในหมู่บ้าน",
+            "en": "There are two schools in the village.",
+            "audio_src": "มีโรงเรียนสองแห่งในหมู่บ้าน",
+            "audio_en_src": "There are two schools in the village."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-002",
@@ -103943,7 +104038,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อัน",
-    "audio_en_src": "classifier for things and inanimate objects"
+    "audio_en_src": "classifier for things and inanimate objects",
+    "examples": [
+      {
+        "meaning": "classifier for things and inanimate objects",
+        "sentences": [
+          {
+            "thai": "เอาอันนี้สองอัน",
+            "en": "I'll take two of these.",
+            "audio_src": "เอาอันนี้สองอัน",
+            "audio_en_src": "I'll take two of these."
+          },
+          {
+            "thai": "อันไหนของเธอ อันใหญ่หรืออันเล็ก",
+            "en": "Which one is yours, the big one or the small one?",
+            "audio_src": "อันไหนของเธอ อันใหญ่หรืออันเล็ก",
+            "audio_en_src": "Which one is yours, the big one or the small one?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-006",
@@ -103957,7 +104071,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาหารกลางวัน",
-    "audio_en_src": "lunch, noontime meal"
+    "audio_en_src": "lunch, noontime meal",
+    "examples": [
+      {
+        "meaning": "lunch, noontime meal",
+        "sentences": [
+          {
+            "thai": "พักเที่ยงไปกินอาหารกลางวันกัน",
+            "en": "It's the lunch break, let's go have lunch.",
+            "audio_src": "พักเที่ยงไปกินอาหารกลางวันกัน",
+            "audio_en_src": "It's the lunch break, let's go have lunch."
+          },
+          {
+            "thai": "อาหารกลางวันวันนี้เป็นข้าวผัด",
+            "en": "Today's lunch is fried rice.",
+            "audio_src": "อาหารกลางวันวันนี้เป็นข้าวผัด",
+            "audio_en_src": "Today's lunch is fried rice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-007",
@@ -103971,7 +104104,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาหารเช้า",
-    "audio_en_src": "breakfast"
+    "audio_en_src": "breakfast",
+    "examples": [
+      {
+        "meaning": "breakfast",
+        "sentences": [
+          {
+            "thai": "อาหารเช้าเป็นมื้อสำคัญที่สุด",
+            "en": "Breakfast is the most important meal.",
+            "audio_src": "อาหารเช้าเป็นมื้อสำคัญที่สุด",
+            "audio_en_src": "Breakfast is the most important meal."
+          },
+          {
+            "thai": "โรงแรมนี้มีอาหารเช้าฟรี",
+            "en": "This hotel has free breakfast.",
+            "audio_src": "โรงแรมนี้มีอาหารเช้าฟรี",
+            "audio_en_src": "This hotel has free breakfast."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-009",
@@ -104006,7 +104158,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อื่น",
-    "audio_en_src": "other, different"
+    "audio_en_src": "other, different",
+    "examples": [
+      {
+        "meaning": "other, different",
+        "sentences": [
+          {
+            "thai": "มีสีอื่นอีกไหม",
+            "en": "Are there any other colors?",
+            "audio_src": "มีสีอื่นอีกไหม",
+            "audio_en_src": "Are there any other colors?"
+          },
+          {
+            "thai": "ไว้วันอื่นค่อยไปก็ได้",
+            "en": "We can just go another day.",
+            "audio_src": "ไว้วันอื่นค่อยไปก็ได้",
+            "audio_en_src": "We can just go another day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-016",
@@ -104064,7 +104235,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลัว",
-    "audio_en_src": "to fear, scared, afraid of"
+    "audio_en_src": "to fear, scared, afraid of",
+    "examples": [
+      {
+        "meaning": "to fear, scared, afraid of",
+        "sentences": [
+          {
+            "thai": "ฉันกลัวความมืด",
+            "en": "I'm afraid of the dark.",
+            "audio_src": "ฉันกลัวความมืด",
+            "audio_en_src": "I'm afraid of the dark."
+          },
+          {
+            "thai": "อย่ากลัวเลย มีฉันอยู่ตรงนี้",
+            "en": "Don't be scared, I'm right here.",
+            "audio_src": "อย่ากลัวเลย มีฉันอยู่ตรงนี้",
+            "audio_en_src": "Don't be scared, I'm right here."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-023",
