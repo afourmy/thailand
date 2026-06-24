@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 481 words**
+**Total: 491 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -482,6 +482,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c01-050` : คราวหน้า (next time) : 1 meaning(s), 2 sentences
 - `wlt-c01-052` : ครึ่งหนึ่ง (one half) : 1 meaning(s), 2 sentences
 - `wlt-c01-058` : คุณล่ะ (and you, what about you) : 1 meaning(s), 2 sentences
+- `wlt-c01-060` : คุยกัน (to chat together) : 1 meaning(s), 2 sentences
+- `wlt-c01-074` : จำได้ (to remember) : 1 meaning(s), 2 sentences
+- `wlt-c01-075` : เจ็ดสิบ (seventy (70)) : 1 meaning(s), 2 sentences
+- `wlt-c01-078` : ช่วงนี้ (these days, lately) : 1 meaning(s), 2 sentences
+- `wlt-c01-092` : ซักผ้า (to do the laundry) : 1 meaning(s), 2 sentences
+- `wlt-c01-099` : เด็กชาย, เด็กผู้ชาย (boy) : 1 meaning(s), 2 sentences
+- `wlt-c02-000` : เด็กหญิง, เด็กผู้หญิง (girl) : 1 meaning(s), 2 sentences
+- `wlt-c02-001` : เดือนที่แล้ว (last month) : 1 meaning(s), 2 sentences
+- `wlt-c02-002` : เดือนนี้ (this month) : 1 meaning(s), 2 sentences
+- `wlt-c02-003` : เดือนหน้า (next month) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

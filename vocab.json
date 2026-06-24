@@ -84809,7 +84809,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คุยกัน",
-    "audio_en_src": "to chat together"
+    "audio_en_src": "to chat together",
+    "examples": [
+      {
+        "meaning": "to chat together",
+        "sentences": [
+          {
+            "thai": "เราคุยกันจนดึก",
+            "en": "We chatted until late.",
+            "audio_src": "เราคุยกันจนดึก",
+            "audio_en_src": "We chatted until late."
+          },
+          {
+            "thai": "มานั่งคุยกันหน่อยสิ",
+            "en": "Come sit and chat for a bit.",
+            "audio_src": "มานั่งคุยกันหน่อยสิ",
+            "audio_en_src": "Come sit and chat for a bit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-061",
@@ -84913,7 +84932,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จำได้",
-    "audio_en_src": "to remember"
+    "audio_en_src": "to remember",
+    "examples": [
+      {
+        "meaning": "to remember",
+        "sentences": [
+          {
+            "thai": "ฉันจำได้ว่าเคยเจอเขา",
+            "en": "I remember meeting him before.",
+            "audio_src": "ฉันจำได้ว่าเคยเจอเขา",
+            "audio_en_src": "I remember meeting him before."
+          },
+          {
+            "thai": "จำได้ไหมว่าวางกุญแจไว้ไหน",
+            "en": "Do you remember where you put the keys?",
+            "audio_src": "จำได้ไหมว่าวางกุญแจไว้ไหน",
+            "audio_en_src": "Do you remember where you put the keys?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-075",
@@ -84927,7 +84965,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจ็ดสิบ",
-    "audio_en_src": "seventy"
+    "audio_en_src": "seventy",
+    "examples": [
+      {
+        "meaning": "seventy (70)",
+        "sentences": [
+          {
+            "thai": "คุณยายอายุเจ็ดสิบแล้ว",
+            "en": "Grandma is seventy now.",
+            "audio_src": "คุณยายอายุเจ็ดสิบแล้ว",
+            "audio_en_src": "Grandma is seventy now."
+          },
+          {
+            "thai": "อันนี้ราคาเจ็ดสิบบาท",
+            "en": "This one costs seventy baht.",
+            "audio_src": "อันนี้ราคาเจ็ดสิบบาท",
+            "audio_en_src": "This one costs seventy baht."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-076",
@@ -84961,7 +85018,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่วงนี้",
-    "audio_en_src": "these days, lately"
+    "audio_en_src": "these days, lately",
+    "examples": [
+      {
+        "meaning": "these days, lately",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้อากาศร้อนมาก",
+            "en": "It's been really hot lately.",
+            "audio_src": "ช่วงนี้อากาศร้อนมาก",
+            "audio_en_src": "It's been really hot lately."
+          },
+          {
+            "thai": "ช่วงนี้ยุ่งหน่อย ไว้เจอกันทีหลัง",
+            "en": "I'm a bit busy these days, let's meet up later.",
+            "audio_src": "ช่วงนี้ยุ่งหน่อย ไว้เจอกันทีหลัง",
+            "audio_en_src": "I'm a bit busy these days, let's meet up later."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-079",
@@ -85055,7 +85131,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซักผ้า",
-    "audio_en_src": "to do the laundry"
+    "audio_en_src": "to do the laundry",
+    "examples": [
+      {
+        "meaning": "to do the laundry",
+        "sentences": [
+          {
+            "thai": "วันอาทิตย์ฉันซักผ้าทั้งวัน",
+            "en": "On Sundays I do laundry all day.",
+            "audio_src": "วันอาทิตย์ฉันซักผ้าทั้งวัน",
+            "audio_en_src": "On Sundays I do laundry all day."
+          },
+          {
+            "thai": "ฝนตก ผ้าที่ซักไว้ไม่แห้ง",
+            "en": "It's raining, so the laundry won't dry.",
+            "audio_src": "ฝนตก ผ้าที่ซักไว้ไม่แห้ง",
+            "audio_en_src": "It's raining, so the laundry won't dry."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c01-093",
@@ -85111,7 +85206,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เด็กชาย, เด็กผู้ชาย",
-    "audio_en_src": "boy"
+    "audio_en_src": "boy",
+    "examples": [
+      {
+        "meaning": "boy",
+        "sentences": [
+          {
+            "thai": "เด็กผู้ชายคนนั้นวิ่งเร็วมาก",
+            "en": "That boy runs really fast.",
+            "audio_src": "เด็กผู้ชายคนนั้นวิ่งเร็วมาก",
+            "audio_en_src": "That boy runs really fast."
+          },
+          {
+            "thai": "มีเด็กชายสองคนเล่นบอลอยู่",
+            "en": "There are two boys playing football.",
+            "audio_src": "มีเด็กชายสองคนเล่นบอลอยู่",
+            "audio_en_src": "There are two boys playing football."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-000",
@@ -85126,7 +85240,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เด็กหญิง, เด็กผู้หญิง",
-    "audio_en_src": "girl"
+    "audio_en_src": "girl",
+    "examples": [
+      {
+        "meaning": "girl",
+        "sentences": [
+          {
+            "thai": "เด็กผู้หญิงคนนั้นน่ารักจัง",
+            "en": "That girl is so cute.",
+            "audio_src": "เด็กผู้หญิงคนนั้นน่ารักจัง",
+            "audio_en_src": "That girl is so cute."
+          },
+          {
+            "thai": "เด็กหญิงสองคนกำลังกระโดดเชือก",
+            "en": "Two girls are jumping rope.",
+            "audio_src": "เด็กหญิงสองคนกำลังกระโดดเชือก",
+            "audio_en_src": "Two girls are jumping rope."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-001",
@@ -85140,7 +85273,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดือนที่แล้ว",
-    "audio_en_src": "last month"
+    "audio_en_src": "last month",
+    "examples": [
+      {
+        "meaning": "last month",
+        "sentences": [
+          {
+            "thai": "เดือนที่แล้วฉันไปเที่ยวเชียงใหม่",
+            "en": "Last month I went to Chiang Mai.",
+            "audio_src": "เดือนที่แล้วฉันไปเที่ยวเชียงใหม่",
+            "audio_en_src": "Last month I went to Chiang Mai."
+          },
+          {
+            "thai": "ค่าไฟเดือนที่แล้วแพงกว่านี้",
+            "en": "Last month's electricity bill was higher than this.",
+            "audio_src": "ค่าไฟเดือนที่แล้วแพงกว่านี้",
+            "audio_en_src": "Last month's electricity bill was higher than this."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-002",
@@ -85154,7 +85306,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดือนนี้",
-    "audio_en_src": "this month"
+    "audio_en_src": "this month",
+    "examples": [
+      {
+        "meaning": "this month",
+        "sentences": [
+          {
+            "thai": "เดือนนี้มีวันหยุดหลายวัน",
+            "en": "This month has several holidays.",
+            "audio_src": "เดือนนี้มีวันหยุดหลายวัน",
+            "audio_en_src": "This month has several holidays."
+          },
+          {
+            "thai": "เดือนนี้ฉันเก็บเงินได้เยอะ",
+            "en": "I saved a lot this month.",
+            "audio_src": "เดือนนี้ฉันเก็บเงินได้เยอะ",
+            "audio_en_src": "I saved a lot this month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-003",
@@ -85168,7 +85339,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดือนหน้า",
-    "audio_en_src": "next month"
+    "audio_en_src": "next month",
+    "examples": [
+      {
+        "meaning": "next month",
+        "sentences": [
+          {
+            "thai": "เดือนหน้าฉันจะย้ายบ้าน",
+            "en": "Next month I'm moving house.",
+            "audio_src": "เดือนหน้าฉันจะย้ายบ้าน",
+            "audio_en_src": "Next month I'm moving house."
+          },
+          {
+            "thai": "แผนเที่ยวเดือนหน้าพร้อมหรือยัง",
+            "en": "Are the plans for next month's trip ready yet?",
+            "audio_src": "แผนเที่ยวเดือนหน้าพร้อมหรือยัง",
+            "audio_en_src": "Are the plans for next month's trip ready yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-005",
