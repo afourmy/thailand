@@ -32458,7 +32458,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ป้องกัน",
-    "audio_en_src": "to protect against, to prevent"
+    "audio_en_src": "to protect against, to prevent",
+    "examples": [
+      {
+        "meaning": "to protect against, to prevent",
+        "sentences": [
+          {
+            "thai": "ทาครีมกันแดดป้องกันผิวไหม้",
+            "en": "Put on sunscreen to protect against sunburn.",
+            "audio_src": "ทาครีมกันแดดป้องกันผิวไหม้",
+            "audio_en_src": "Put on sunscreen to protect against sunburn."
+          },
+          {
+            "thai": "ล้างมือบ่อยๆช่วยป้องกันโรค",
+            "en": "Washing your hands often helps prevent illness.",
+            "audio_src": "ล้างมือบ่อยๆช่วยป้องกันโรค",
+            "audio_en_src": "Washing your hands often helps prevent illness."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-780",
@@ -32583,7 +32602,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นักศึกษา",
-    "audio_en_src": "university/college student"
+    "audio_en_src": "university/college student",
+    "examples": [
+      {
+        "meaning": "university/college student",
+        "sentences": [
+          {
+            "thai": "เขาเป็นนักศึกษาปีสุดท้าย",
+            "en": "He's a final-year student.",
+            "audio_src": "เขาเป็นนักศึกษาปีสุดท้าย",
+            "audio_en_src": "He's a final-year student."
+          },
+          {
+            "thai": "นักศึกษาส่วนใหญ่อยู่หอ",
+            "en": "Most students live in dorms.",
+            "audio_src": "นักศึกษาส่วนใหญ่อยู่หอ",
+            "audio_en_src": "Most students live in dorms."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-791",
@@ -33063,7 +33101,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชุด",
-    "audio_en_src": "set, portion, suit"
+    "audio_en_src": "set, portion, suit",
+    "examples": [
+      {
+        "meaning": "set, portion, suit",
+        "sentences": [
+          {
+            "thai": "ขอข้าวมันไก่หนึ่งชุด",
+            "en": "One chicken rice set, please.",
+            "audio_src": "ขอข้าวมันไก่หนึ่งชุด",
+            "audio_en_src": "One chicken rice set, please."
+          },
+          {
+            "thai": "เธอใส่ชุดสวยมาก",
+            "en": "She's wearing a beautiful outfit.",
+            "audio_src": "เธอใส่ชุดสวยมาก",
+            "audio_en_src": "She's wearing a beautiful outfit."
+          },
+          {
+            "thai": "ซื้อเครื่องครัวมาทั้งชุด",
+            "en": "I bought a whole set of kitchenware.",
+            "audio_src": "ซื้อเครื่องครัวมาทั้งชุด",
+            "audio_en_src": "I bought a whole set of kitchenware."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-839",
@@ -33165,7 +33228,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สู้",
-    "audio_en_src": "to fight; 'might as well', 'wouldn't it be better if'"
+    "audio_en_src": "to fight; 'might as well', 'wouldn't it be better if'",
+    "examples": [
+      {
+        "meaning": "to fight",
+        "sentences": [
+          {
+            "thai": "สู้ๆนะ อย่าเพิ่งยอมแพ้",
+            "en": "Keep fighting, don't give up yet.",
+            "audio_src": "สู้ๆนะ อย่าเพิ่งยอมแพ้",
+            "audio_en_src": "Keep fighting, don't give up yet."
+          },
+          {
+            "thai": "เขาสู้กับโรคร้ายมาหลายปี",
+            "en": "He's been fighting a serious illness for years.",
+            "audio_src": "เขาสู้กับโรคร้ายมาหลายปี",
+            "audio_en_src": "He's been fighting a serious illness for years."
+          }
+        ]
+      },
+      {
+        "meaning": "'might as well', 'wouldn't it be better if'",
+        "sentences": [
+          {
+            "thai": "ซื้อใหม่แพง สู้ซ่อมเอาดีกว่า",
+            "en": "Buying a new one is expensive, might as well just repair it.",
+            "audio_src": "ซื้อใหม่แพง สู้ซ่อมเอาดีกว่า",
+            "audio_en_src": "Buying a new one is expensive, might as well just repair it."
+          },
+          {
+            "thai": "รอนานขนาดนี้ สู้กลับบ้านดีกว่า",
+            "en": "Waiting this long, we might as well just go home.",
+            "audio_src": "รอนานขนาดนี้ สู้กลับบ้านดีกว่า",
+            "audio_en_src": "Waiting this long, we might as well just go home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-848",
@@ -33534,7 +33633,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ของกินของใช้",
-    "audio_en_src": "food and daily necessities"
+    "audio_en_src": "food and daily necessities",
+    "examples": [
+      {
+        "meaning": "food and daily necessities (groceries, household items)",
+        "sentences": [
+          {
+            "thai": "ไปซื้อของกินของใช้เข้าบ้าน",
+            "en": "I'm going to buy groceries and household stuff for the house.",
+            "audio_src": "ไปซื้อของกินของใช้เข้าบ้าน",
+            "audio_en_src": "I'm going to buy groceries and household stuff for the house."
+          },
+          {
+            "thai": "เงินเดือนหมดไปกับของกินของใช้",
+            "en": "My salary all goes to food and daily necessities.",
+            "audio_src": "เงินเดือนหมดไปกับของกินของใช้",
+            "audio_en_src": "My salary all goes to food and daily necessities."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-012",
@@ -33639,7 +33757,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แคบ",
-    "audio_en_src": "narrow"
+    "audio_en_src": "narrow",
+    "examples": [
+      {
+        "meaning": "narrow",
+        "sentences": [
+          {
+            "thai": "ซอยนี้แคบ รถสวนกันไม่ได้",
+            "en": "This alley is narrow, cars can't pass each other.",
+            "audio_src": "ซอยนี้แคบ รถสวนกันไม่ได้",
+            "audio_en_src": "This alley is narrow, cars can't pass each other."
+          },
+          {
+            "thai": "ห้องนี้แคบไปหน่อย",
+            "en": "This room is a bit cramped.",
+            "audio_src": "ห้องนี้แคบไปหน่อย",
+            "audio_en_src": "This room is a bit cramped."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-021",
@@ -33688,7 +33825,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แกง",
-    "audio_en_src": "curry; to tease, trick, prank"
+    "audio_en_src": "curry; to tease, trick, prank",
+    "examples": [
+      {
+        "meaning": "curry",
+        "sentences": [
+          {
+            "thai": "วันนี้แม่ทำแกงเขียวหวาน",
+            "en": "Today Mom made green curry.",
+            "audio_src": "วันนี้แม่ทำแกงเขียวหวาน",
+            "audio_en_src": "Today Mom made green curry."
+          },
+          {
+            "thai": "ขอข้าวราดแกงหนึ่งจาน",
+            "en": "One plate of rice with curry, please.",
+            "audio_src": "ขอข้าวราดแกงหนึ่งจาน",
+            "audio_en_src": "One plate of rice with curry, please."
+          }
+        ]
+      },
+      {
+        "meaning": "(slang) to tease, trick, prank",
+        "sentences": [
+          {
+            "thai": "อย่ามาแกงกันนะ",
+            "en": "Don't mess with me.",
+            "audio_src": "อย่ามาแกงกันนะ",
+            "audio_en_src": "Don't mess with me."
+          },
+          {
+            "thai": "เชื่อไปได้ยังไง โดนแกงแล้ว",
+            "en": "How could you fall for that? You got pranked.",
+            "audio_src": "เชื่อไปได้ยังไง โดนแกงแล้ว",
+            "audio_en_src": "How could you fall for that? You got pranked."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-025",
@@ -33704,7 +33877,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เท",
-    "audio_en_src": "to pour; to dump someone, to stand someone up"
+    "audio_en_src": "to pour; to dump someone, to stand someone up",
+    "examples": [
+      {
+        "meaning": "to pour",
+        "sentences": [
+          {
+            "thai": "เทน้ำใส่แก้วให้หน่อย",
+            "en": "Pour some water into the glass for me.",
+            "audio_src": "เทน้ำใส่แก้วให้หน่อย",
+            "audio_en_src": "Pour some water into the glass for me."
+          },
+          {
+            "thai": "ฝนเทลงมาไม่หยุด",
+            "en": "The rain is pouring down nonstop.",
+            "audio_src": "ฝนเทลงมาไม่หยุด",
+            "audio_en_src": "The rain is pouring down nonstop."
+          }
+        ]
+      },
+      {
+        "meaning": "(slang) to dump someone, to stand someone up",
+        "sentences": [
+          {
+            "thai": "นัดแล้วโดนเทอีกแล้ว",
+            "en": "We made plans and I got stood up again.",
+            "audio_src": "นัดแล้วโดนเทอีกแล้ว",
+            "audio_en_src": "We made plans and I got stood up again."
+          },
+          {
+            "thai": "เขาเทแฟนไปหาคนใหม่",
+            "en": "He dumped his girlfriend for someone new.",
+            "audio_src": "เขาเทแฟนไปหาคนใหม่",
+            "audio_en_src": "He dumped his girlfriend for someone new."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-026",
@@ -33773,7 +33982,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไว้",
-    "audio_en_src": "in advance, to keep for later"
+    "audio_en_src": "in advance, to keep for later",
+    "examples": [
+      {
+        "meaning": "in advance, to keep for later",
+        "sentences": [
+          {
+            "thai": "เก็บเงินไว้ใช้ตอนฉุกเฉิน",
+            "en": "Save some money to use in an emergency.",
+            "audio_src": "เก็บเงินไว้ใช้ตอนฉุกเฉิน",
+            "audio_en_src": "Save some money to use in an emergency."
+          },
+          {
+            "thai": "ซื้อขนมไว้กินทีหลัง",
+            "en": "Buy some snacks to eat later.",
+            "audio_src": "ซื้อขนมไว้กินทีหลัง",
+            "audio_en_src": "Buy some snacks to eat later."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-032",
@@ -33914,7 +34142,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แรกๆ",
-    "audio_en_src": "at first, initially"
+    "audio_en_src": "at first, initially",
+    "examples": [
+      {
+        "meaning": "at first, initially",
+        "sentences": [
+          {
+            "thai": "แรกๆก็ยากหน่อย เดี๋ยวก็ชิน",
+            "en": "At first it's a bit hard, but you'll get used to it.",
+            "audio_src": "แรกๆก็ยากหน่อย เดี๋ยวก็ชิน",
+            "audio_en_src": "At first it's a bit hard, but you'll get used to it."
+          },
+          {
+            "thai": "แรกๆฉันไม่ชอบเขาเลย",
+            "en": "At first I didn't like him at all.",
+            "audio_src": "แรกๆฉันไม่ชอบเขาเลย",
+            "audio_en_src": "At first I didn't like him at all."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-045",

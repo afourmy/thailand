@@ -34185,7 +34185,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยังไงก็...",
-    "audio_en_src": "anyway..., in any case..."
+    "audio_en_src": "anyway..., in any case...",
+    "examples": [
+      {
+        "meaning": "anyway..., in any case...",
+        "sentences": [
+          {
+            "thai": "ยังไงก็ต้องไป หนีไม่ได้",
+            "en": "I have to go anyway, there's no getting out of it."
+          },
+          {
+            "thai": "ยังไงก็ขอบคุณนะที่ช่วย",
+            "en": "Anyway, thanks for helping."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-047",
@@ -34260,7 +34275,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โซเชียลมีเดีย",
-    "audio_en_src": "social media"
+    "audio_en_src": "social media",
+    "examples": [
+      {
+        "meaning": "social media",
+        "sentences": [
+          {
+            "thai": "เด็กสมัยนี้เล่นโซเชียลมีเดียทั้งวัน",
+            "en": "Kids these days are on social media all day."
+          },
+          {
+            "thai": "ฉันเห็นข่าวนี้ในโซเชียลมีเดีย",
+            "en": "I saw this news on social media."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-054",
@@ -34483,7 +34513,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ้านนอก",
-    "audio_en_src": "countryside, rural area"
+    "audio_en_src": "countryside, rural area",
+    "examples": [
+      {
+        "meaning": "countryside, rural area (spoken)",
+        "sentences": [
+          {
+            "thai": "เขาโตมาที่บ้านนอก",
+            "en": "He grew up in the countryside."
+          },
+          {
+            "thai": "กลับบ้านนอกไปหายายช่วงปิดเทอม",
+            "en": "I went back to the countryside to visit grandma during the break."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-076",
@@ -34878,7 +34923,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซ่อน",
-    "audio_en_src": "to hide, to conceal"
+    "audio_en_src": "to hide, to conceal",
+    "examples": [
+      {
+        "meaning": "to hide, to conceal (e.g something or someone)",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบเล่นซ่อนหา",
+            "en": "Kids love playing hide-and-seek."
+          },
+          {
+            "thai": "เขาซ่อนของขวัญไว้ใต้เตียง",
+            "en": "He hid the present under the bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-118",
@@ -34968,7 +35028,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สบายใจ",
-    "audio_en_src": "relaxed, at ease emotionally"
+    "audio_en_src": "relaxed, at ease emotionally",
+    "examples": [
+      {
+        "meaning": "relaxed, at ease emotionally",
+        "sentences": [
+          {
+            "thai": "พูดออกมาเถอะ จะได้สบายใจ",
+            "en": "Just say it, you'll feel better."
+          },
+          {
+            "thai": "อยู่กับเขาแล้วสบายใจ",
+            "en": "I feel at ease when I'm with him."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-126",
@@ -34982,7 +35057,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตกใจ - แปลกใจ",
-    "audio_en_src": "shocked, startled - surprised, astonished"
+    "audio_en_src": "shocked, startled - surprised, astonished",
+    "examples": [
+      {
+        "meaning": "shocked, startled",
+        "sentences": [
+          {
+            "thai": "เสียงดังจนฉันตกใจ",
+            "en": "The loud noise startled me."
+          },
+          {
+            "thai": "ตกใจหมดเลย นึกว่าใคร",
+            "en": "You scared me, I thought you were someone else."
+          }
+        ]
+      },
+      {
+        "meaning": "surprised, astonished",
+        "sentences": [
+          {
+            "thai": "ฉันแปลกใจที่เขารู้เรื่องนี้",
+            "en": "I'm surprised he knows about this."
+          },
+          {
+            "thai": "ไม่แปลกใจเลยที่เธอสอบได้ที่หนึ่ง",
+            "en": "I'm not surprised at all that you came first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-127",
@@ -35476,7 +35579,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เล่นเฟซบุ๊ก - เล่นอินสตาแกรม",
-    "audio_en_src": "to use Facebook - Instagram"
+    "audio_en_src": "to use Facebook - Instagram",
+    "examples": [
+      {
+        "meaning": "to use Facebook",
+        "sentences": [
+          {
+            "thai": "ฉันเล่นเฟซบุ๊กทุกวัน",
+            "en": "I use Facebook every day."
+          },
+          {
+            "thai": "แม่เพิ่งหัดเล่นเฟซบุ๊ก",
+            "en": "Mom just learned to use Facebook."
+          }
+        ]
+      },
+      {
+        "meaning": "to use Instagram",
+        "sentences": [
+          {
+            "thai": "เขาเล่นอินสตาแกรมมากกว่าเฟซบุ๊ก",
+            "en": "He uses Instagram more than Facebook."
+          },
+          {
+            "thai": "ฉันไม่ค่อยได้เล่นอินสตาแกรม",
+            "en": "I don't really use Instagram much."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-178",
@@ -37326,7 +37457,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขิง",
-    "audio_en_src": "ginger"
+    "audio_en_src": "ginger",
+    "examples": [
+      {
+        "meaning": "ginger",
+        "sentences": [
+          {
+            "thai": "ใส่ขิงลงไปจะได้หายคาว",
+            "en": "Add ginger to get rid of the fishy smell."
+          },
+          {
+            "thai": "น้ำขิงร้อนๆช่วยแก้หวัด",
+            "en": "Hot ginger tea helps with a cold."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-362",
@@ -38705,7 +38851,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จัดเต็ม",
-    "audio_en_src": "to go all out, to give it everything"
+    "audio_en_src": "to go all out, to give it everything",
+    "examples": [
+      {
+        "meaning": "to go all out, to give it everything",
+        "sentences": [
+          {
+            "thai": "งานวันเกิดปีนี้จัดเต็มมาก",
+            "en": "This year's birthday party went all out."
+          },
+          {
+            "thai": "เธอแต่งหน้าจัดเต็มไปงานแต่ง",
+            "en": "She did her makeup all out for the wedding."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-498",
@@ -39212,7 +39373,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เช็ด",
-    "audio_en_src": "to wipe, to rub clean"
+    "audio_en_src": "to wipe, to rub clean",
+    "examples": [
+      {
+        "meaning": "to wipe, to rub clean",
+        "sentences": [
+          {
+            "thai": "เช็ดโต๊ะให้สะอาดก่อนกินข้าว",
+            "en": "Wipe the table clean before eating."
+          },
+          {
+            "thai": "น้ำหกแล้ว รีบเช็ดเลย",
+            "en": "The water spilled, wipe it up quickly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-546",

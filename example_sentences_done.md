@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 291 words**
+**Total: 301 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -290,6 +290,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-025` : เท (to pour; (slang) to dump someone, to stand someone up) : 2 meaning(s), 4 sentences
 - `tsl-031` : ไว้ (in advance, to keep for later) : 1 meaning(s), 2 sentences
 - `tsl-044` : แรกๆ (at first, initially) : 1 meaning(s), 2 sentences
+- `tsl-046` : ยังไงก็... (anyway..., in any case...) : 1 meaning(s), 2 sentences
+- `tsl-053` : โซเชียลมีเดีย (social media) : 1 meaning(s), 2 sentences
+- `tsl-075` : บ้านนอก (countryside, rural area (spoken)) : 1 meaning(s), 2 sentences
+- `tsl-117` : ซ่อน (to hide, to conceal (e.g something or someone)) : 1 meaning(s), 2 sentences
+- `tsl-125` : สบายใจ (relaxed, at ease emotionally) : 1 meaning(s), 2 sentences
+- `tsl-126` : ตกใจ - แปลกใจ (shocked, startled - surprised, astonished) : 2 meaning(s), 4 sentences
+- `tsl-177` : เล่นเฟซบุ๊ก - เล่นอินสตาแกรม (to use Facebook - Instagram) : 2 meaning(s), 4 sentences
+- `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
+- `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
+- `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
