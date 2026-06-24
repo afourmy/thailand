@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 111 words**
+**Total: 121 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -100,6 +100,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-268` : ปอก (to peel) : 1 meaning(s), 2 sentences
 - `tamago-l12-274` : ปีน (to climb) : 1 meaning(s), 2 sentences
 - `tamago-l12-275` : ปุ่ม (button) : 1 meaning(s), 2 sentences
+- `tamago-l12-278` : ป้ายรถเมล์ (bus stop) : 1 meaning(s), 2 sentences
+- `tamago-l12-286` : ผัด (to stir-fry) : 1 meaning(s), 2 sentences
+- `tamago-l12-287` : ผัดผัก (stir-fried vegetables) : 1 meaning(s), 2 sentences
+- `tamago-l12-296` : ฝรั่ง (guava; Westerner (informal)) : 2 meaning(s), 4 sentences
+- `tamago-l12-298` : ฝา (lid, cap (e.g bottle)) : 1 meaning(s), 2 sentences
+- `tamago-l12-299` : ฝาก (to leave with, to entrust; to give (as a gift)) : 2 meaning(s), 4 sentences
+- `tamago-l12-308` : พอ (enough; when, as soon as, once) : 2 meaning(s), 4 sentences
+- `tamago-l12-311` : พอๆกัน (almost the same, about the same) : 1 meaning(s), 2 sentences
+- `tamago-l12-312` : พักกลางวัน (lunch break) : 1 meaning(s), 2 sentences
+- `tamago-l12-317` : พาไป (to take someone somewhere) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
 - `tamago-l12-359` : รวม (to include, including; total) : 2 meaning(s), 4 sentences

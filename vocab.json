@@ -15392,7 +15392,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ป้ายรถเมล์",
-    "audio_en_src": "bus stop"
+    "audio_en_src": "bus stop",
+    "examples": [
+      {
+        "meaning": "bus stop",
+        "sentences": [
+          {
+            "thai": "ป้ายรถเมล์อยู่ตรงหัวมุม",
+            "en": "The bus stop is on the corner.",
+            "audio_src": "ป้ายรถเมล์อยู่ตรงหัวมุม",
+            "audio_en_src": "The bus stop is on the corner."
+          },
+          {
+            "thai": "รอเธออยู่ที่ป้ายรถเมล์",
+            "en": "I’m waiting for you at the bus stop.",
+            "audio_src": "รอเธออยู่ที่ป้ายรถเมล์",
+            "audio_en_src": "I’m waiting for you at the bus stop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-279",
@@ -15484,7 +15503,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผัด",
-    "audio_en_src": "to stir-fry"
+    "audio_en_src": "to stir-fry",
+    "examples": [
+      {
+        "meaning": "to stir-fry",
+        "sentences": [
+          {
+            "thai": "ผัดข้าวใส่ไข่กับหมู",
+            "en": "Stir-fry the rice with egg and pork.",
+            "audio_src": "ผัดข้าวใส่ไข่กับหมู",
+            "audio_en_src": "Stir-fry the rice with egg and pork."
+          },
+          {
+            "thai": "น้ำมันร้อนแล้ว ผัดได้เลย",
+            "en": "The oil’s hot, you can start stir-frying.",
+            "audio_src": "น้ำมันร้อนแล้ว ผัดได้เลย",
+            "audio_en_src": "The oil’s hot, you can start stir-frying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-287",
@@ -15498,7 +15536,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผัดผัก",
-    "audio_en_src": "stir-fried vegetables"
+    "audio_en_src": "stir-fried vegetables",
+    "examples": [
+      {
+        "meaning": "stir-fried vegetables",
+        "sentences": [
+          {
+            "thai": "สั่งผัดผักรวมมาหนึ่งจาน",
+            "en": "Order a plate of stir-fried mixed vegetables.",
+            "audio_src": "สั่งผัดผักรวมมาหนึ่งจาน",
+            "audio_en_src": "Order a plate of stir-fried mixed vegetables."
+          },
+          {
+            "thai": "ผัดผักจานนี้ใส่กระเทียมเยอะ",
+            "en": "This stir-fried veggie dish has a lot of garlic.",
+            "audio_src": "ผัดผักจานนี้ใส่กระเทียมเยอะ",
+            "audio_en_src": "This stir-fried veggie dish has a lot of garlic."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-288",
@@ -15578,7 +15635,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฝรั่ง",
-    "audio_en_src": "guava; Westerner"
+    "audio_en_src": "guava; Westerner",
+    "examples": [
+      {
+        "meaning": "guava",
+        "sentences": [
+          {
+            "thai": "ฝรั่งจิ้มพริกเกลืออร่อยมาก",
+            "en": "Guava dipped in chili salt is so good.",
+            "audio_src": "ฝรั่งจิ้มพริกเกลืออร่อยมาก",
+            "audio_en_src": "Guava dipped in chili salt is so good."
+          },
+          {
+            "thai": "ซื้อฝรั่งมากินเล่น",
+            "en": "I bought some guava to snack on.",
+            "audio_src": "ซื้อฝรั่งมากินเล่น",
+            "audio_en_src": "I bought some guava to snack on."
+          }
+        ]
+      },
+      {
+        "meaning": "Westerner (informal)",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีฝรั่งมากินเยอะ",
+            "en": "Lots of foreigners eat at this place.",
+            "audio_src": "ร้านนี้มีฝรั่งมากินเยอะ",
+            "audio_en_src": "Lots of foreigners eat at this place."
+          },
+          {
+            "thai": "เพื่อนฉันแต่งงานกับฝรั่ง",
+            "en": "My friend married a Westerner.",
+            "audio_src": "เพื่อนฉันแต่งงานกับฝรั่ง",
+            "audio_en_src": "My friend married a Westerner."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-297",
@@ -15605,7 +15698,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฝา",
-    "audio_en_src": "lid, cap"
+    "audio_en_src": "lid, cap",
+    "examples": [
+      {
+        "meaning": "lid, cap (e.g bottle)",
+        "sentences": [
+          {
+            "thai": "ปิดฝาขวดให้แน่น",
+            "en": "Close the bottle cap tightly.",
+            "audio_src": "ปิดฝาขวดให้แน่น",
+            "audio_en_src": "Close the bottle cap tightly."
+          },
+          {
+            "thai": "เปิดฝาหม้อไม่ออก",
+            "en": "I can’t get the pot lid off.",
+            "audio_src": "เปิดฝาหม้อไม่ออก",
+            "audio_en_src": "I can’t get the pot lid off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-299",
@@ -15624,7 +15736,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฝาก",
-    "audio_en_src": "to leave with, to entrust; to give"
+    "audio_en_src": "to leave with, to entrust; to give",
+    "examples": [
+      {
+        "meaning": "to leave with, to entrust",
+        "sentences": [
+          {
+            "thai": "ฝากของไว้ที่เคาน์เตอร์ได้ไหม",
+            "en": "Can I leave my things at the counter?",
+            "audio_src": "ฝากของไว้ที่เคาน์เตอร์ได้ไหม",
+            "audio_en_src": "Can I leave my things at the counter?"
+          },
+          {
+            "thai": "ฝากดูกระเป๋าให้แป๊บนึง",
+            "en": "Watch my bag for a sec.",
+            "audio_src": "ฝากดูกระเป๋าให้แป๊บนึง",
+            "audio_en_src": "Watch my bag for a sec."
+          }
+        ]
+      },
+      {
+        "meaning": "to give (as a gift)",
+        "sentences": [
+          {
+            "thai": "ซื้อของฝากมาจากเชียงใหม่",
+            "en": "I brought back souvenirs from Chiang Mai.",
+            "audio_src": "ซื้อของฝากมาจากเชียงใหม่",
+            "audio_en_src": "I brought back souvenirs from Chiang Mai."
+          },
+          {
+            "thai": "อันนี้ซื้อมาฝากเธอ",
+            "en": "I bought this little something for you.",
+            "audio_src": "อันนี้ซื้อมาฝากเธอ",
+            "audio_en_src": "I bought this little something for you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-300",
@@ -15720,7 +15868,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พอ",
-    "audio_en_src": "enough; when, as soon as, once"
+    "audio_en_src": "enough; when, as soon as, once",
+    "examples": [
+      {
+        "meaning": "enough",
+        "sentences": [
+          {
+            "thai": "เงินไม่พอจ่ายค่าเช่า",
+            "en": "I don’t have enough money for the rent.",
+            "audio_src": "เงินไม่พอจ่ายค่าเช่า",
+            "audio_en_src": "I don’t have enough money for the rent."
+          },
+          {
+            "thai": "กินอิ่มแล้ว พอแล้ว",
+            "en": "I’m full, that’s enough.",
+            "audio_src": "กินอิ่มแล้ว พอแล้ว",
+            "audio_en_src": "I’m full, that’s enough."
+          }
+        ]
+      },
+      {
+        "meaning": "when, as soon as, once",
+        "sentences": [
+          {
+            "thai": "พอถึงบ้านก็โทรหานะ",
+            "en": "Call me as soon as you get home.",
+            "audio_src": "พอถึงบ้านก็โทรหานะ",
+            "audio_en_src": "Call me as soon as you get home."
+          },
+          {
+            "thai": "พอฝนหยุด เราก็ออกเดินทาง",
+            "en": "Once the rain stopped, we set off.",
+            "audio_src": "พอฝนหยุด เราก็ออกเดินทาง",
+            "audio_en_src": "Once the rain stopped, we set off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-309",
@@ -15755,7 +15939,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พอๆกัน",
-    "audio_en_src": "almost the same, about the same"
+    "audio_en_src": "almost the same, about the same",
+    "examples": [
+      {
+        "meaning": "almost the same, about the same",
+        "sentences": [
+          {
+            "thai": "สองร้านนี้อร่อยพอๆกัน",
+            "en": "These two restaurants are about equally good.",
+            "audio_src": "สองร้านนี้อร่อยพอๆกัน",
+            "audio_en_src": "These two restaurants are about equally good."
+          },
+          {
+            "thai": "ราคาพอๆกัน เลือกอันไหนก็ได้",
+            "en": "The prices are about the same, pick either one.",
+            "audio_src": "ราคาพอๆกัน เลือกอันไหนก็ได้",
+            "audio_en_src": "The prices are about the same, pick either one."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-312",
@@ -15769,7 +15972,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พักกลางวัน",
-    "audio_en_src": "lunch break"
+    "audio_en_src": "lunch break",
+    "examples": [
+      {
+        "meaning": "lunch break",
+        "sentences": [
+          {
+            "thai": "พักกลางวันออกไปหาอะไรกิน",
+            "en": "Let’s go grab something to eat on the lunch break.",
+            "audio_src": "พักกลางวันออกไปหาอะไรกิน",
+            "audio_en_src": "Let’s go grab something to eat on the lunch break."
+          },
+          {
+            "thai": "พักกลางวันมีแค่ชั่วโมงเดียว",
+            "en": "We only get an hour for lunch.",
+            "audio_src": "พักกลางวันมีแค่ชั่วโมงเดียว",
+            "audio_en_src": "We only get an hour for lunch."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-313",
@@ -15830,7 +16052,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พาไป",
-    "audio_en_src": "to take someone somewhere"
+    "audio_en_src": "to take someone somewhere",
+    "examples": [
+      {
+        "meaning": "to take someone somewhere",
+        "sentences": [
+          {
+            "thai": "พาไปส่งที่สนามบินหน่อย",
+            "en": "Take me to the airport.",
+            "audio_src": "พาไปส่งที่สนามบินหน่อย",
+            "audio_en_src": "Take me to the airport."
+          },
+          {
+            "thai": "วันหยุดพาลูกไปเที่ยวทะเล",
+            "en": "On the holiday I took the kids to the beach.",
+            "audio_src": "วันหยุดพาลูกไปเที่ยวทะเล",
+            "audio_en_src": "On the holiday I took the kids to the beach."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-318",
