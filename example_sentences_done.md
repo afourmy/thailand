@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 491 words**
+**Total: 501 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -492,6 +492,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-001` : เดือนที่แล้ว (last month) : 1 meaning(s), 2 sentences
 - `wlt-c02-002` : เดือนนี้ (this month) : 1 meaning(s), 2 sentences
 - `wlt-c02-003` : เดือนหน้า (next month) : 1 meaning(s), 2 sentences
+- `wlt-c02-013` : ตรงนี้ (over here, right here) : 1 meaning(s), 2 sentences
+- `wlt-c02-016` : ตอนกลางคืน (at night, during the night) : 1 meaning(s), 2 sentences
+- `wlt-c02-017` : ตอนค่ำ (in the evening (around dusk)) : 1 meaning(s), 2 sentences
+- `wlt-c02-034` : ตื่น, ตื่นนอน (to wake up) : 1 meaning(s), 2 sentences
+- `wlt-c02-043` : เตียง, เตียงนอน (bed) : 1 meaning(s), 2 sentences
+- `wlt-c02-051` : เที่ยว, ท่องเที่ยว (to go travelling, to travel for pleasure) : 1 meaning(s), 2 sentences
+- `wlt-c02-056` : ทางขวา (มือ) (on the right (hand side)) : 1 meaning(s), 2 sentences
+- `wlt-c02-057` : ทางเข้า (way in, entrance) : 1 meaning(s), 2 sentences
+- `wlt-c02-058` : ทางซ้าย (มือ) (on the left (hand side)) : 1 meaning(s), 2 sentences
+- `wlt-c02-061` : ทางออก (way out, exit) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
