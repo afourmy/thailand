@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 421 words**
+**Total: 431 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -422,6 +422,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-101` : โทรทัศน์ (television) : 1 meaning(s), 2 sentences
 - `tobo-119` : โกรธ (angry) : 1 meaning(s), 2 sentences
 - `tobo-131` : เข็มขัด (belt) : 1 meaning(s), 2 sentences
+- `tobo-139` : ผลัก (to push (e.g a door)) : 1 meaning(s), 2 sentences
+- `tobo-140` : วัด (to measure; temple) : 2 meaning(s), 4 sentences
+- `tobo-141` : ลึก (deep) : 1 meaning(s), 2 sentences
+- `tobo-142` : สนามบิน (airport) : 1 meaning(s), 2 sentences
+- `tobo-143` : เสื้อยืด (T-shirt) : 1 meaning(s), 2 sentences
+- `tobo-153` : ขนมปัง (bread) : 1 meaning(s), 2 sentences
+- `tobo-154` : กีฬา (sport) : 1 meaning(s), 2 sentences
+- `tobo-159` : น้ำตาล (sugar) : 1 meaning(s), 2 sentences
+- `tobo-169` : เกลือ (salt) : 1 meaning(s), 2 sentences
+- `tobo-170` : จักรยาน (bicycle) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
