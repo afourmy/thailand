@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 621 words**
+**Total: 631 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -622,6 +622,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-067` : แย่ (bad, terrible) : 1 meaning(s), 2 sentences
 - `wlt-c08-078` : ร้านขายยา (pharmacy) : 1 meaning(s), 2 sentences
 - `wlt-c08-082` : เร็ว, เร็วๆ (quickly, fast) : 1 meaning(s), 2 sentences
+- `wlt-c08-098` : ลาก่อน (goodbye, farewell) : 1 meaning(s), 2 sentences
+- `wlt-c09-007` : เลี้ยวขวา (to turn right) : 1 meaning(s), 2 sentences
+- `wlt-c09-008` : เลี้ยวซ้าย (to turn left) : 1 meaning(s), 2 sentences
+- `wlt-c09-010` : แล้วแต่ (depending on) : 1 meaning(s), 2 sentences
+- `wlt-c09-013` : วันพฤหัสบดี (Thursday (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c09-032` : สลัด, ยำสลัด (salad) : 1 meaning(s), 2 sentences
+- `wlt-c09-044` : สิ่ง, สิ่งของ (thing) : 1 meaning(s), 2 sentences
+- `wlt-c09-047` : สิบสอง (twelve (12)) : 1 meaning(s), 2 sentences
+- `wlt-c09-048` : สิบเอ็ด (eleven (11)) : 1 meaning(s), 2 sentences
+- `wlt-c09-050` : สี่สิบ (forty (40)) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
