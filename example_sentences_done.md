@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 281 words**
+**Total: 291 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -280,6 +280,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-702` : ช่าง (to disregard, to ignore; how + adj (exclamation, 'so + adj')) : 2 meaning(s), 4 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
+- `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
+- `tamago-l3-790` : นักศึกษา (university/college student) : 1 meaning(s), 2 sentences
+- `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
+- `tamago-l3-847` : สู้ (to fight; 'might as well', 'wouldn't it be better if') : 2 meaning(s), 4 sentences
+- `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences
+- `tsl-020` : แคบ (narrow) : 1 meaning(s), 2 sentences
+- `tsl-024` : แกง (curry; (slang) to tease, trick, prank) : 2 meaning(s), 4 sentences
+- `tsl-025` : เท (to pour; (slang) to dump someone, to stand someone up) : 2 meaning(s), 4 sentences
+- `tsl-031` : ไว้ (in advance, to keep for later) : 1 meaning(s), 2 sentences
+- `tsl-044` : แรกๆ (at first, initially) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences

@@ -30141,7 +30141,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสมอ",
-    "audio_en_src": "even, tied, to draw; always"
+    "audio_en_src": "even, tied, to draw; always",
+    "examples": [
+      {
+        "meaning": "even, tied, to draw (in a game)",
+        "sentences": [
+          {
+            "thai": "สองทีมเสมอกันสองต่อสอง",
+            "en": "The two teams drew two to two.",
+            "audio_src": "สองทีมเสมอกันสองต่อสอง",
+            "audio_en_src": "The two teams drew two to two."
+          },
+          {
+            "thai": "ครึ่งแรกยังเสมอกันอยู่",
+            "en": "It's still tied at halftime.",
+            "audio_src": "ครึ่งแรกยังเสมอกันอยู่",
+            "audio_en_src": "It's still tied at halftime."
+          }
+        ]
+      },
+      {
+        "meaning": "always",
+        "sentences": [
+          {
+            "thai": "เขายิ้มเสมอ",
+            "en": "He always smiles.",
+            "audio_src": "เขายิ้มเสมอ",
+            "audio_en_src": "He always smiles."
+          },
+          {
+            "thai": "ฉันจะอยู่ข้างเธอเสมอ",
+            "en": "I'll always be by your side.",
+            "audio_src": "ฉันจะอยู่ข้างเธอเสมอ",
+            "audio_en_src": "I'll always be by your side."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-583",
@@ -30431,7 +30467,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "งานอดิเรก",
-    "audio_en_src": "hobby"
+    "audio_en_src": "hobby",
+    "examples": [
+      {
+        "meaning": "hobby",
+        "sentences": [
+          {
+            "thai": "งานอดิเรกของฉันคือถ่ายรูป",
+            "en": "My hobby is photography.",
+            "audio_src": "งานอดิเรกของฉันคือถ่ายรูป",
+            "audio_en_src": "My hobby is photography."
+          },
+          {
+            "thai": "เขาปลูกต้นไม้เป็นงานอดิเรก",
+            "en": "He grows plants as a hobby.",
+            "audio_src": "เขาปลูกต้นไม้เป็นงานอดิเรก",
+            "audio_en_src": "He grows plants as a hobby."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-610",
@@ -30446,7 +30501,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจอหน้า",
-    "audio_en_src": "to meet in person, to see each other"
+    "audio_en_src": "to meet in person, to see each other",
+    "examples": [
+      {
+        "meaning": "to meet in person, to see each other",
+        "sentences": [
+          {
+            "thai": "ไม่ได้เจอหน้ากันนานเลย",
+            "en": "We haven't seen each other in a long time.",
+            "audio_src": "ไม่ได้เจอหน้ากันนานเลย",
+            "audio_en_src": "We haven't seen each other in a long time."
+          },
+          {
+            "thai": "เดี๋ยวเจอหน้าค่อยคุยกัน",
+            "en": "Let's talk when we meet in person.",
+            "audio_src": "เดี๋ยวเจอหน้าค่อยคุยกัน",
+            "audio_en_src": "Let's talk when we meet in person."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-611",
@@ -30553,7 +30627,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจ๋ง",
-    "audio_en_src": "cool, awesome"
+    "audio_en_src": "cool, awesome",
+    "examples": [
+      {
+        "meaning": "cool, awesome (slang)",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้เจ๋งมาก",
+            "en": "This shirt is so cool.",
+            "audio_src": "เสื้อตัวนี้เจ๋งมาก",
+            "audio_en_src": "This shirt is so cool."
+          },
+          {
+            "thai": "เขาทำได้ด้วย เจ๋งไปเลย",
+            "en": "He actually pulled it off, that's awesome.",
+            "audio_src": "เขาทำได้ด้วย เจ๋งไปเลย",
+            "audio_en_src": "He actually pulled it off, that's awesome."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-622",
@@ -30682,7 +30775,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สนับสนุน",
-    "audio_en_src": "to support, to back up, to promote"
+    "audio_en_src": "to support, to back up, to promote",
+    "examples": [
+      {
+        "meaning": "to support, to back up, to promote",
+        "sentences": [
+          {
+            "thai": "ครอบครัวสนับสนุนให้เขาเรียนต่อ",
+            "en": "His family supports him in continuing his studies.",
+            "audio_src": "ครอบครัวสนับสนุนให้เขาเรียนต่อ",
+            "audio_en_src": "His family supports him in continuing his studies."
+          },
+          {
+            "thai": "บริษัทสนับสนุนเงินทุนให้โครงการนี้",
+            "en": "The company funds this project.",
+            "audio_src": "บริษัทสนับสนุนเงินทุนให้โครงการนี้",
+            "audio_en_src": "The company funds this project."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-634",
@@ -30765,7 +30877,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ย่าน",
-    "audio_en_src": "area, zone, neighborhood"
+    "audio_en_src": "area, zone, neighborhood",
+    "examples": [
+      {
+        "meaning": "area, zone, neighborhood",
+        "sentences": [
+          {
+            "thai": "ย่านนี้มีร้านอาหารเยอะ",
+            "en": "This neighborhood has lots of restaurants.",
+            "audio_src": "ย่านนี้มีร้านอาหารเยอะ",
+            "audio_en_src": "This neighborhood has lots of restaurants."
+          },
+          {
+            "thai": "เขาทำงานอยู่ย่านสีลม",
+            "en": "He works in the Silom area.",
+            "audio_src": "เขาทำงานอยู่ย่านสีลม",
+            "audio_en_src": "He works in the Silom area."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-641",
@@ -30779,7 +30910,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สดๆ",
-    "audio_en_src": "fresh; new, very recent"
+    "audio_en_src": "fresh; new, very recent",
+    "examples": [
+      {
+        "meaning": "fresh",
+        "sentences": [
+          {
+            "thai": "ปลาที่ตลาดนี้สดๆทุกวัน",
+            "en": "The fish at this market is fresh every day.",
+            "audio_src": "ปลาที่ตลาดนี้สดๆทุกวัน",
+            "audio_en_src": "The fish at this market is fresh every day."
+          },
+          {
+            "thai": "ซื้อผักสดๆมาทำกับข้าว",
+            "en": "I bought some fresh vegetables to cook with.",
+            "audio_src": "ซื้อผักสดๆมาทำกับข้าว",
+            "audio_en_src": "I bought some fresh vegetables to cook with."
+          }
+        ]
+      },
+      {
+        "meaning": "new, very recent",
+        "sentences": [
+          {
+            "thai": "ข่าวนี้สดๆ เพิ่งเกิดเมื่อกี้",
+            "en": "This news is hot off the press, it just happened.",
+            "audio_src": "ข่าวนี้สดๆ เพิ่งเกิดเมื่อกี้",
+            "audio_en_src": "This news is hot off the press, it just happened."
+          },
+          {
+            "thai": "รูปนี้เพิ่งถ่ายมาสดๆ",
+            "en": "This photo was just taken.",
+            "audio_src": "รูปนี้เพิ่งถ่ายมาสดๆ",
+            "audio_en_src": "This photo was just taken."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-642",
@@ -31396,7 +31563,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่าง",
-    "audio_en_src": "to disregard, to ignore; how + adj"
+    "audio_en_src": "to disregard, to ignore; how + adj",
+    "examples": [
+      {
+        "meaning": "to disregard, to ignore",
+        "sentences": [
+          {
+            "thai": "ช่างมันเถอะ ไม่ต้องไปคิด",
+            "en": "Forget it, don't think about it.",
+            "audio_src": "ช่างมันเถอะ ไม่ต้องไปคิด",
+            "audio_en_src": "Forget it, don't think about it."
+          },
+          {
+            "thai": "ใครจะว่ายังไงก็ช่าง",
+            "en": "Whatever anyone says, I don't care.",
+            "audio_src": "ใครจะว่ายังไงก็ช่าง",
+            "audio_en_src": "Whatever anyone says, I don't care."
+          }
+        ]
+      },
+      {
+        "meaning": "how + adj (exclamation, 'so + adj')",
+        "sentences": [
+          {
+            "thai": "ช่างน่ารักอะไรอย่างนี้",
+            "en": "How cute is this!",
+            "audio_src": "ช่างน่ารักอะไรอย่างนี้",
+            "audio_en_src": "How cute is this!"
+          },
+          {
+            "thai": "ช่างใจร้ายเหลือเกิน",
+            "en": "How cruel.",
+            "audio_src": "ช่างใจร้ายเหลือเกิน",
+            "audio_en_src": "How cruel."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-703",
@@ -31742,7 +31945,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพียง, เพียงแค่",
-    "audio_en_src": "only, just, merely"
+    "audio_en_src": "only, just, merely",
+    "examples": [
+      {
+        "meaning": "only, just, merely",
+        "sentences": [
+          {
+            "thai": "เขาพูดเพียงไม่กี่คำ",
+            "en": "He said only a few words.",
+            "audio_src": "เขาพูดเพียงไม่กี่คำ",
+            "audio_en_src": "He said only a few words."
+          },
+          {
+            "thai": "ฉันต้องการเพียงแค่เวลาพักผ่อน",
+            "en": "I just want some time to rest.",
+            "audio_src": "ฉันต้องการเพียงแค่เวลาพักผ่อน",
+            "audio_en_src": "I just want some time to rest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-736",
@@ -31792,7 +32014,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แสน",
-    "audio_en_src": "hundred thousand; very, extremely"
+    "audio_en_src": "hundred thousand; very, extremely",
+    "examples": [
+      {
+        "meaning": "hundred thousand (100,000)",
+        "sentences": [
+          {
+            "thai": "รถคันนี้ราคาห้าแสน",
+            "en": "This car costs five hundred thousand.",
+            "audio_src": "รถคันนี้ราคาห้าแสน",
+            "audio_en_src": "This car costs five hundred thousand."
+          },
+          {
+            "thai": "เขาถูกหวยได้หนึ่งแสน",
+            "en": "He won a hundred thousand in the lottery.",
+            "audio_src": "เขาถูกหวยได้หนึ่งแสน",
+            "audio_en_src": "He won a hundred thousand in the lottery."
+          }
+        ]
+      },
+      {
+        "meaning": "very, extremely",
+        "sentences": [
+          {
+            "thai": "เธอเป็นคนแสนดี",
+            "en": "She's an incredibly kind person.",
+            "audio_src": "เธอเป็นคนแสนดี",
+            "audio_en_src": "She's an incredibly kind person."
+          },
+          {
+            "thai": "ชีวิตที่นั่นแสนลำบาก",
+            "en": "Life there was extremely hard.",
+            "audio_src": "ชีวิตที่นั่นแสนลำบาก",
+            "audio_en_src": "Life there was extremely hard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-740",
