@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 271 words**
+**Total: 281 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -270,6 +270,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
 - `tamago-l3-570` : ทำใจ (to come to terms with sth, to accept) : 1 meaning(s), 2 sentences
 - `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
+- `tamago-l3-582` : เสมอ (even, tied, to draw (in a game); always) : 2 meaning(s), 4 sentences
+- `tamago-l3-609` : งานอดิเรก (hobby) : 1 meaning(s), 2 sentences
+- `tamago-l3-610` : เจอหน้า (to meet in person, to see each other) : 1 meaning(s), 2 sentences
+- `tamago-l3-621` : เจ๋ง (cool, awesome (slang)) : 1 meaning(s), 2 sentences
+- `tamago-l3-633` : สนับสนุน (to support, to back up, to promote) : 1 meaning(s), 2 sentences
+- `tamago-l3-640` : ย่าน (area, zone, neighborhood) : 1 meaning(s), 2 sentences
+- `tamago-l3-641` : สดๆ (fresh; new, very recent) : 2 meaning(s), 4 sentences
+- `tamago-l3-702` : ช่าง (to disregard, to ignore; how + adj (exclamation, 'so + adj')) : 2 meaning(s), 4 sentences
+- `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
+- `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences

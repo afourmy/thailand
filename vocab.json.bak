@@ -28062,7 +28062,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาศัย",
-    "audio_en_src": "to rely on, to depend on; to live in, to reside"
+    "audio_en_src": "to rely on, to depend on; to live in, to reside",
+    "examples": [
+      {
+        "meaning": "to rely on, to depend on",
+        "sentences": [
+          {
+            "thai": "งานนี้ต้องอาศัยความอดทน",
+            "en": "This job takes a lot of patience.",
+            "audio_src": "งานนี้ต้องอาศัยความอดทน",
+            "audio_en_src": "This job takes a lot of patience."
+          },
+          {
+            "thai": "เขาอาศัยความช่วยเหลือจากเพื่อนบ้าน",
+            "en": "He relies on help from the neighbors.",
+            "audio_src": "เขาอาศัยความช่วยเหลือจากเพื่อนบ้าน",
+            "audio_en_src": "He relies on help from the neighbors."
+          }
+        ]
+      },
+      {
+        "meaning": "to live in, to reside",
+        "sentences": [
+          {
+            "thai": "ฉันอาศัยอยู่ที่กรุงเทพ",
+            "en": "I live in Bangkok.",
+            "audio_src": "ฉันอาศัยอยู่ที่กรุงเทพ",
+            "audio_en_src": "I live in Bangkok."
+          },
+          {
+            "thai": "เขาอาศัยอยู่กับพ่อแม่",
+            "en": "He lives with his parents.",
+            "audio_src": "เขาอาศัยอยู่กับพ่อแม่",
+            "audio_en_src": "He lives with his parents."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-405",
@@ -28140,7 +28176,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "...สุดๆไปเลย",
-    "audio_en_src": "insanely, extremely"
+    "audio_en_src": "insanely, extremely",
+    "examples": [
+      {
+        "meaning": "insanely, extremely",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้สนุกสุดๆไปเลย",
+            "en": "This movie is insanely good.",
+            "audio_src": "หนังเรื่องนี้สนุกสุดๆไปเลย",
+            "audio_en_src": "This movie is insanely good."
+          },
+          {
+            "thai": "วันนี้เหนื่อยสุดๆไปเลย",
+            "en": "I'm extremely tired today.",
+            "audio_src": "วันนี้เหนื่อยสุดๆไปเลย",
+            "audio_en_src": "I'm extremely tired today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-412",
@@ -29012,7 +29067,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตามนี้",
-    "audio_en_src": "as agreed, as planned, as is"
+    "audio_en_src": "as agreed, as planned, as is",
+    "examples": [
+      {
+        "meaning": "as agreed, as planned, as is",
+        "sentences": [
+          {
+            "thai": "เอาตามนี้นะ เดี๋ยวเจอกันหกโมง",
+            "en": "Let's go with this, see you at six.",
+            "audio_src": "เอาตามนี้นะ เดี๋ยวเจอกันหกโมง",
+            "audio_en_src": "Let's go with this, see you at six."
+          },
+          {
+            "thai": "สรุปตามนี้เลย ไม่ต้องเปลี่ยน",
+            "en": "Let's settle on this, no changes needed.",
+            "audio_src": "สรุปตามนี้เลย ไม่ต้องเปลี่ยน",
+            "audio_en_src": "Let's settle on this, no changes needed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-495",
@@ -29110,7 +29184,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้านสะดวกซื้อ",
-    "audio_en_src": "convenience store"
+    "audio_en_src": "convenience store",
+    "examples": [
+      {
+        "meaning": "convenience store",
+        "sentences": [
+          {
+            "thai": "แวะซื้อน้ำที่ร้านสะดวกซื้อหน่อย",
+            "en": "Let's stop at the convenience store for some water.",
+            "audio_src": "แวะซื้อน้ำที่ร้านสะดวกซื้อหน่อย",
+            "audio_en_src": "Let's stop at the convenience store for some water."
+          },
+          {
+            "thai": "ร้านสะดวกซื้อเปิดยี่สิบสี่ชั่วโมง",
+            "en": "The convenience store is open 24 hours.",
+            "audio_src": "ร้านสะดวกซื้อเปิดยี่สิบสี่ชั่วโมง",
+            "audio_en_src": "The convenience store is open 24 hours."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-504",
@@ -29190,7 +29283,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่งรูป",
-    "audio_en_src": "to edit a photo"
+    "audio_en_src": "to edit a photo",
+    "examples": [
+      {
+        "meaning": "to edit a photo",
+        "sentences": [
+          {
+            "thai": "เธอแต่งรูปก่อนโพสต์ทุกครั้ง",
+            "en": "She edits her photos before posting, every time.",
+            "audio_src": "เธอแต่งรูปก่อนโพสต์ทุกครั้ง",
+            "audio_en_src": "She edits her photos before posting, every time."
+          },
+          {
+            "thai": "แต่งรูปจนหน้าไม่เหมือนตัวจริง",
+            "en": "She edited the photo so much her face doesn't look like her real self.",
+            "audio_src": "แต่งรูปจนหน้าไม่เหมือนตัวจริง",
+            "audio_en_src": "She edited the photo so much her face doesn't look like her real self."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-511",
@@ -29245,7 +29357,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลิกคบ",
-    "audio_en_src": "to break up, to end a relationship or friendship"
+    "audio_en_src": "to break up, to end a relationship or friendship",
+    "examples": [
+      {
+        "meaning": "to break up, to end a relationship or friendship",
+        "sentences": [
+          {
+            "thai": "เขาเลิกคบกันตั้งแต่ปีที่แล้ว",
+            "en": "They broke up last year.",
+            "audio_src": "เขาเลิกคบกันตั้งแต่ปีที่แล้ว",
+            "audio_en_src": "They broke up last year."
+          },
+          {
+            "thai": "ฉันเลิกคบเพื่อนคนนั้นแล้ว",
+            "en": "I've cut that friend off.",
+            "audio_src": "ฉันเลิกคบเพื่อนคนนั้นแล้ว",
+            "audio_en_src": "I've cut that friend off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-516",
@@ -29520,7 +29651,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สมน้ำหน้า",
-    "audio_en_src": "'serves you right', 'you deserve it'"
+    "audio_en_src": "'serves you right', 'you deserve it'",
+    "examples": [
+      {
+        "meaning": "'serves you right', 'you deserve it'",
+        "sentences": [
+          {
+            "thai": "สมน้ำหน้า ใครใช้ให้ขี้โกง",
+            "en": "Serves you right, who told you to cheat.",
+            "audio_src": "สมน้ำหน้า ใครใช้ให้ขี้โกง",
+            "audio_en_src": "Serves you right, who told you to cheat."
+          },
+          {
+            "thai": "บอกแล้วไม่ฟัง สมน้ำหน้า",
+            "en": "I told you and you didn't listen, serves you right.",
+            "audio_src": "บอกแล้วไม่ฟัง สมน้ำหน้า",
+            "audio_en_src": "I told you and you didn't listen, serves you right."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-545",
@@ -29595,7 +29745,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เช่นเคย",
-    "audio_en_src": "as usual, as always"
+    "audio_en_src": "as usual, as always",
+    "examples": [
+      {
+        "meaning": "as usual, as always",
+        "sentences": [
+          {
+            "thai": "เขามาสายเช่นเคย",
+            "en": "He's late as usual.",
+            "audio_src": "เขามาสายเช่นเคย",
+            "audio_en_src": "He's late as usual."
+          },
+          {
+            "thai": "เช้านี้ฉันกินกาแฟเช่นเคย",
+            "en": "This morning I had coffee as always.",
+            "audio_src": "เช้านี้ฉันกินกาแฟเช่นเคย",
+            "audio_en_src": "This morning I had coffee as always."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-552",
@@ -29792,7 +29961,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำใจ",
-    "audio_en_src": "to come to terms with sth, to accept"
+    "audio_en_src": "to come to terms with sth, to accept",
+    "examples": [
+      {
+        "meaning": "to come to terms with sth, to accept",
+        "sentences": [
+          {
+            "thai": "ทำใจไว้บ้าง เผื่อผิดหวัง",
+            "en": "Brace yourself a little, in case you're let down.",
+            "audio_src": "ทำใจไว้บ้าง เผื่อผิดหวัง",
+            "audio_en_src": "Brace yourself a little, in case you're let down."
+          },
+          {
+            "thai": "กว่าจะทำใจได้ก็นานเลย",
+            "en": "It took me a long time to come to terms with it.",
+            "audio_src": "กว่าจะทำใจได้ก็นานเลย",
+            "audio_en_src": "It took me a long time to come to terms with it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-571",
@@ -29852,7 +30040,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระเทียม",
-    "audio_en_src": "garlic"
+    "audio_en_src": "garlic",
+    "examples": [
+      {
+        "meaning": "garlic",
+        "sentences": [
+          {
+            "thai": "ใส่กระเทียมเยอะๆจะหอม",
+            "en": "Add plenty of garlic and it'll smell great.",
+            "audio_src": "ใส่กระเทียมเยอะๆจะหอม",
+            "audio_en_src": "Add plenty of garlic and it'll smell great."
+          },
+          {
+            "thai": "เจียวกระเทียมให้หอมก่อนใส่ผัก",
+            "en": "Fry the garlic until fragrant before adding the vegetables.",
+            "audio_src": "เจียวกระเทียมให้หอมก่อนใส่ผัก",
+            "audio_en_src": "Fry the garlic until fragrant before adding the vegetables."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-576",
