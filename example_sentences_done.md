@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 401 words**
+**Total: 421 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -401,7 +401,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-018` : หน้าต่าง (window) : 1 meaning(s), 2 sentences
 - `tobo-019` : ป่า (forest; wild) : 2 meaning(s), 4 sentences
 - `tobo-020` : จบ (to finish, the end) : 1 meaning(s), 2 sentences
+- `tobo-023` : เก้าอี้ (chair) : 1 meaning(s), 2 sentences
+- `tobo-027` : ยาสีฟัน (toothpaste) : 1 meaning(s), 2 sentences
+- `tobo-029` : ฟ้า, ท้องฟ้า (sky) : 1 meaning(s), 2 sentences
+- `tobo-032` : หิน (stone, rock) : 1 meaning(s), 2 sentences
+- `tobo-034` : จดหมาย (letter (mail)) : 1 meaning(s), 2 sentences
+- `tobo-038` : ลุง (uncle (older than parents)) : 1 meaning(s), 2 sentences
+- `tobo-043` : จอ (screen, monitor) : 1 meaning(s), 2 sentences
+- `tobo-051` : ป้า (aunt (older than parents)) : 1 meaning(s), 2 sentences
+- `tobo-053` : บันได (stairs, ladder) : 1 meaning(s), 2 sentences
+- `tobo-054` : หมวก (hat) : 1 meaning(s), 2 sentences
+- `tobo-057` : คล้ายกัน (similar) : 1 meaning(s), 2 sentences
+- `tobo-060` : แผน (plan) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
+- `tobo-073` : มะเขือเทศ (tomato) : 1 meaning(s), 2 sentences
+- `tobo-083` : อนาคต (future) : 1 meaning(s), 2 sentences
+- `tobo-086` : ปวดหัว (headache) : 1 meaning(s), 2 sentences
+- `tobo-097` : หนังสือพิมพ์ (newspaper) : 1 meaning(s), 2 sentences
+- `tobo-100` : สำคัญ (important) : 1 meaning(s), 2 sentences
+- `tobo-101` : โทรทัศน์ (television) : 1 meaning(s), 2 sentences
+- `tobo-119` : โกรธ (angry) : 1 meaning(s), 2 sentences
+- `tobo-131` : เข็มขัด (belt) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

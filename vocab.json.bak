@@ -54869,7 +54869,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โต",
-    "audio_en_src": "to grow up; large"
+    "audio_en_src": "to grow up; large",
+    "examples": [
+      {
+        "meaning": "to grow up",
+        "sentences": [
+          {
+            "thai": "ลูกโตเร็วมาก",
+            "en": "The kids grow up so fast.",
+            "audio_src": "ลูกโตเร็วมาก",
+            "audio_en_src": "The kids grow up so fast."
+          },
+          {
+            "thai": "โตขึ้นอยากเป็นอะไร",
+            "en": "What do you want to be when you grow up?",
+            "audio_src": "โตขึ้นอยากเป็นอะไร",
+            "audio_en_src": "What do you want to be when you grow up?"
+          }
+        ]
+      },
+      {
+        "meaning": "large",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้โตกว่าที่คิด",
+            "en": "This house is bigger than I thought.",
+            "audio_src": "บ้านหลังนี้โตกว่าที่คิด",
+            "audio_en_src": "This house is bigger than I thought."
+          },
+          {
+            "thai": "หมาตัวนี้โตจัง",
+            "en": "This dog is so big.",
+            "audio_src": "หมาตัวนี้โตจัง",
+            "audio_en_src": "This dog is so big."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1370",
@@ -55016,7 +55052,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใจร้อน",
-    "audio_en_src": "impatient, hot-tempered"
+    "audio_en_src": "impatient, hot-tempered",
+    "examples": [
+      {
+        "meaning": "impatient, hot-tempered",
+        "sentences": [
+          {
+            "thai": "เขาใจร้อน รออะไรนานๆไม่ได้",
+            "en": "He's impatient, he can't wait long for anything.",
+            "audio_src": "เขาใจร้อน รออะไรนานๆไม่ได้",
+            "audio_en_src": "He's impatient, he can't wait long for anything."
+          },
+          {
+            "thai": "อย่าใจร้อนสิ ค่อยๆคิด",
+            "en": "Don't be so impatient, think it through slowly.",
+            "audio_src": "อย่าใจร้อนสิ ค่อยๆคิด",
+            "audio_en_src": "Don't be so impatient, think it through slowly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1392",
@@ -55030,7 +55085,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใจเย็นๆ",
-    "audio_en_src": "'cool down', 'take it easy'"
+    "audio_en_src": "'cool down', 'take it easy'",
+    "examples": [
+      {
+        "meaning": "'cool down', 'take it easy'",
+        "sentences": [
+          {
+            "thai": "ใจเย็นๆ เดี๋ยวก็ได้คิว",
+            "en": "Take it easy, it'll be your turn soon.",
+            "audio_src": "ใจเย็นๆ เดี๋ยวก็ได้คิว",
+            "audio_en_src": "Take it easy, it'll be your turn soon."
+          },
+          {
+            "thai": "ใจเย็นๆก่อน อย่าเพิ่งโมโห",
+            "en": "Calm down first, don't get angry yet.",
+            "audio_src": "ใจเย็นๆก่อน อย่าเพิ่งโมโห",
+            "audio_en_src": "Calm down first, don't get angry yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1393",
@@ -55346,7 +55420,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไหว",
-    "audio_en_src": "to be able to, to handle, to endure"
+    "audio_en_src": "to be able to, to handle, to endure",
+    "examples": [
+      {
+        "meaning": "to be able to, to handle, to endure",
+        "sentences": [
+          {
+            "thai": "หนักไป ฉันยกไม่ไหว",
+            "en": "It's too heavy, I can't lift it.",
+            "audio_src": "หนักไป ฉันยกไม่ไหว",
+            "audio_en_src": "It's too heavy, I can't lift it."
+          },
+          {
+            "thai": "เหนื่อยมาก เดินต่อไม่ไหวแล้ว",
+            "en": "I'm exhausted, I can't walk any further.",
+            "audio_src": "เหนื่อยมาก เดินต่อไม่ไหวแล้ว",
+            "audio_en_src": "I'm exhausted, I can't walk any further."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1429",
@@ -55361,7 +55454,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไหว้",
-    "audio_en_src": "to wai; to pay respect, to worship"
+    "audio_en_src": "to wai; to pay respect, to worship",
+    "examples": [
+      {
+        "meaning": "to wai (Thai greeting); to pay respect, to worship",
+        "sentences": [
+          {
+            "thai": "เด็กๆไหว้ผู้ใหญ่อย่างนอบน้อม",
+            "en": "The kids wai their elders politely.",
+            "audio_src": "เด็กๆไหว้ผู้ใหญ่อย่างนอบน้อม",
+            "audio_en_src": "The kids wai their elders politely."
+          },
+          {
+            "thai": "คนไทยไปไหว้พระที่วัด",
+            "en": "Thai people go to pay respect to the Buddha at the temple.",
+            "audio_src": "คนไทยไปไหว้พระที่วัด",
+            "audio_en_src": "Thai people go to pay respect to the Buddha at the temple."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1430",
@@ -55429,7 +55541,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนัง",
-    "audio_en_src": "movie; leather"
+    "audio_en_src": "movie; leather",
+    "examples": [
+      {
+        "meaning": "movie",
+        "sentences": [
+          {
+            "thai": "คืนนี้ไปดูหนังกันไหม",
+            "en": "Want to go see a movie tonight?",
+            "audio_src": "คืนนี้ไปดูหนังกันไหม",
+            "audio_en_src": "Want to go see a movie tonight?"
+          },
+          {
+            "thai": "หนังเรื่องนี้สนุกมาก",
+            "en": "This movie is really good.",
+            "audio_src": "หนังเรื่องนี้สนุกมาก",
+            "audio_en_src": "This movie is really good."
+          }
+        ]
+      },
+      {
+        "meaning": "leather",
+        "sentences": [
+          {
+            "thai": "กระเป๋าหนังใบนี้สวยมาก",
+            "en": "This leather bag is beautiful.",
+            "audio_src": "กระเป๋าหนังใบนี้สวยมาก",
+            "audio_en_src": "This leather bag is beautiful."
+          },
+          {
+            "thai": "เข็มขัดทำจากหนังแท้",
+            "en": "The belt is made of genuine leather.",
+            "audio_src": "เข็มขัดทำจากหนังแท้",
+            "audio_en_src": "The belt is made of genuine leather."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-005",
@@ -55564,7 +55712,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระดูก",
-    "audio_en_src": "bone"
+    "audio_en_src": "bone",
+    "examples": [
+      {
+        "meaning": "bone",
+        "sentences": [
+          {
+            "thai": "เขาตกบันไดกระดูกหัก",
+            "en": "He fell down the stairs and broke a bone.",
+            "audio_src": "เขาตกบันไดกระดูกหัก",
+            "audio_en_src": "He fell down the stairs and broke a bone."
+          },
+          {
+            "thai": "หมาชอบแทะกระดูก",
+            "en": "Dogs like to gnaw on bones.",
+            "audio_src": "หมาชอบแทะกระดูก",
+            "audio_en_src": "Dogs like to gnaw on bones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-017",
@@ -55591,7 +55758,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หน้าต่าง",
-    "audio_en_src": "window"
+    "audio_en_src": "window",
+    "examples": [
+      {
+        "meaning": "window",
+        "sentences": [
+          {
+            "thai": "เปิดหน้าต่างให้ลมเข้าหน่อย",
+            "en": "Open the window to let some air in.",
+            "audio_src": "เปิดหน้าต่างให้ลมเข้าหน่อย",
+            "audio_en_src": "Open the window to let some air in."
+          },
+          {
+            "thai": "ที่นั่งริมหน้าต่างวิวสวย",
+            "en": "The window seat has a nice view.",
+            "audio_src": "ที่นั่งริมหน้าต่างวิวสวย",
+            "audio_en_src": "The window seat has a nice view."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-019",
@@ -55607,7 +55793,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ป่า",
-    "audio_en_src": "forest; wild"
+    "audio_en_src": "forest; wild",
+    "examples": [
+      {
+        "meaning": "forest",
+        "sentences": [
+          {
+            "thai": "ในป่ามีสัตว์หลายชนิด",
+            "en": "There are many kinds of animals in the forest.",
+            "audio_src": "ในป่ามีสัตว์หลายชนิด",
+            "audio_en_src": "There are many kinds of animals in the forest."
+          },
+          {
+            "thai": "เขาหลงทางอยู่ในป่า",
+            "en": "He got lost in the forest.",
+            "audio_src": "เขาหลงทางอยู่ในป่า",
+            "audio_en_src": "He got lost in the forest."
+          }
+        ]
+      },
+      {
+        "meaning": "wild",
+        "sentences": [
+          {
+            "thai": "หมูป่าวิ่งออกมาจากพง",
+            "en": "A wild boar ran out of the bushes.",
+            "audio_src": "หมูป่าวิ่งออกมาจากพง",
+            "audio_en_src": "A wild boar ran out of the bushes."
+          },
+          {
+            "thai": "แมวป่าตัวใหญ่กว่าแมวบ้าน",
+            "en": "Wild cats are bigger than house cats.",
+            "audio_src": "แมวป่าตัวใหญ่กว่าแมวบ้าน",
+            "audio_en_src": "Wild cats are bigger than house cats."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-020",
@@ -55622,7 +55844,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จบ",
-    "audio_en_src": "to finish, the end"
+    "audio_en_src": "to finish, the end",
+    "examples": [
+      {
+        "meaning": "to finish, the end",
+        "sentences": [
+          {
+            "thai": "หนังจบแล้ว กลับบ้านกันเถอะ",
+            "en": "The movie's over, let's go home.",
+            "audio_src": "หนังจบแล้ว กลับบ้านกันเถอะ",
+            "audio_en_src": "The movie's over, let's go home."
+          },
+          {
+            "thai": "เรื่องนี้จบแบบมีความสุข",
+            "en": "This story has a happy ending.",
+            "audio_src": "เรื่องนี้จบแบบมีความสุข",
+            "audio_en_src": "This story has a happy ending."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-022",
@@ -55649,7 +55890,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เก้าอี้",
-    "audio_en_src": "chair"
+    "audio_en_src": "chair",
+    "examples": [
+      {
+        "meaning": "chair",
+        "sentences": [
+          {
+            "thai": "นั่งเก้าอี้ตัวนี้สิ นุ่มดี",
+            "en": "Sit on this chair, it's nice and soft.",
+            "audio_src": "นั่งเก้าอี้ตัวนี้สิ นุ่มดี",
+            "audio_en_src": "Sit on this chair, it's nice and soft."
+          },
+          {
+            "thai": "ขอเก้าอี้เพิ่มอีกตัว",
+            "en": "Could I get one more chair?",
+            "audio_src": "ขอเก้าอี้เพิ่มอีกตัว",
+            "audio_en_src": "Could I get one more chair?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-025",
@@ -55675,7 +55935,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยาสีฟัน",
-    "audio_en_src": "toothpaste"
+    "audio_en_src": "toothpaste",
+    "examples": [
+      {
+        "meaning": "toothpaste",
+        "sentences": [
+          {
+            "thai": "ยาสีฟันหมดแล้ว ต้องซื้อใหม่",
+            "en": "The toothpaste is finished, I need to buy more.",
+            "audio_src": "ยาสีฟันหมดแล้ว ต้องซื้อใหม่",
+            "audio_en_src": "The toothpaste is finished, I need to buy more."
+          },
+          {
+            "thai": "บีบยาสีฟันใส่แปรง",
+            "en": "Squeeze the toothpaste onto the brush.",
+            "audio_src": "บีบยาสีฟันใส่แปรง",
+            "audio_en_src": "Squeeze the toothpaste onto the brush."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-028",
@@ -55702,7 +55981,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฟ้า, ท้องฟ้า",
-    "audio_en_src": "sky"
+    "audio_en_src": "sky",
+    "examples": [
+      {
+        "meaning": "sky",
+        "sentences": [
+          {
+            "thai": "วันนี้ท้องฟ้าแจ่มใส",
+            "en": "The sky is clear today.",
+            "audio_src": "วันนี้ท้องฟ้าแจ่มใส",
+            "audio_en_src": "The sky is clear today."
+          },
+          {
+            "thai": "ท้องฟ้าตอนกลางคืนมีดาวเยอะ",
+            "en": "The night sky has lots of stars.",
+            "audio_src": "ท้องฟ้าตอนกลางคืนมีดาวเยอะ",
+            "audio_en_src": "The night sky has lots of stars."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-030",
@@ -55742,7 +56040,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หิน",
-    "audio_en_src": "stone, rock"
+    "audio_en_src": "stone, rock",
+    "examples": [
+      {
+        "meaning": "stone, rock",
+        "sentences": [
+          {
+            "thai": "เด็กชอบเก็บหินสวยๆ",
+            "en": "Kids like collecting pretty stones.",
+            "audio_src": "เด็กชอบเก็บหินสวยๆ",
+            "audio_en_src": "Kids like collecting pretty stones."
+          },
+          {
+            "thai": "ระวังหินก้อนใหญ่ข้างหน้า",
+            "en": "Watch out for the big rock ahead.",
+            "audio_src": "ระวังหินก้อนใหญ่ข้างหน้า",
+            "audio_en_src": "Watch out for the big rock ahead."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-033",
@@ -55770,7 +56087,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จดหมาย",
-    "audio_en_src": "letter"
+    "audio_en_src": "letter",
+    "examples": [
+      {
+        "meaning": "letter (mail)",
+        "sentences": [
+          {
+            "thai": "เขาเขียนจดหมายถึงแม่",
+            "en": "He wrote a letter to his mom.",
+            "audio_src": "เขาเขียนจดหมายถึงแม่",
+            "audio_en_src": "He wrote a letter to his mom."
+          },
+          {
+            "thai": "มีจดหมายมาส่งที่บ้าน",
+            "en": "A letter was delivered to the house.",
+            "audio_src": "มีจดหมายมาส่งที่บ้าน",
+            "audio_en_src": "A letter was delivered to the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-035",
@@ -55819,7 +56155,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลุง",
-    "audio_en_src": "uncle"
+    "audio_en_src": "uncle",
+    "examples": [
+      {
+        "meaning": "uncle (older than parents)",
+        "sentences": [
+          {
+            "thai": "ลุงข้างบ้านใจดีมาก",
+            "en": "The uncle next door is really kind.",
+            "audio_src": "ลุงข้างบ้านใจดีมาก",
+            "audio_en_src": "The uncle next door is really kind."
+          },
+          {
+            "thai": "ลุงครับ ไปสยามทางไหน",
+            "en": "Excuse me, sir, which way to Siam?",
+            "audio_src": "ลุงครับ ไปสยามทางไหน",
+            "audio_en_src": "Excuse me, sir, which way to Siam?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-039",
@@ -55856,7 +56211,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จอ",
-    "audio_en_src": "screen, monitor"
+    "audio_en_src": "screen, monitor",
+    "examples": [
+      {
+        "meaning": "screen, monitor",
+        "sentences": [
+          {
+            "thai": "จอคอมพิวเตอร์ใหญ่ดูสบายตา",
+            "en": "A big computer monitor is easy on the eyes.",
+            "audio_src": "จอคอมพิวเตอร์ใหญ่ดูสบายตา",
+            "audio_en_src": "A big computer monitor is easy on the eyes."
+          },
+          {
+            "thai": "จอมือถือแตก",
+            "en": "The phone screen is cracked.",
+            "audio_src": "จอมือถือแตก",
+            "audio_en_src": "The phone screen is cracked."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-044",
@@ -55952,7 +56326,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ป้า",
-    "audio_en_src": "aunt"
+    "audio_en_src": "aunt",
+    "examples": [
+      {
+        "meaning": "aunt (older than parents)",
+        "sentences": [
+          {
+            "thai": "ป้าขายของอยู่หน้าปากซอย",
+            "en": "The auntie sells things at the mouth of the soi.",
+            "audio_src": "ป้าขายของอยู่หน้าปากซอย",
+            "audio_en_src": "The auntie sells things at the mouth of the soi."
+          },
+          {
+            "thai": "ป้าคะ ขอข้าวผัดจานนึง",
+            "en": "Auntie, one plate of fried rice, please.",
+            "audio_src": "ป้าคะ ขอข้าวผัดจานนึง",
+            "audio_en_src": "Auntie, one plate of fried rice, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-052",
@@ -55978,7 +56371,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บันได",
-    "audio_en_src": "stairs, ladder"
+    "audio_en_src": "stairs, ladder",
+    "examples": [
+      {
+        "meaning": "stairs, ladder",
+        "sentences": [
+          {
+            "thai": "เดินขึ้นบันไดไปชั้นสอง",
+            "en": "Walk up the stairs to the second floor.",
+            "audio_src": "เดินขึ้นบันไดไปชั้นสอง",
+            "audio_en_src": "Walk up the stairs to the second floor."
+          },
+          {
+            "thai": "ปีนบันไดขึ้นไปเก็บของบนหลังคา",
+            "en": "Climb the ladder to get something off the roof.",
+            "audio_src": "ปีนบันไดขึ้นไปเก็บของบนหลังคา",
+            "audio_en_src": "Climb the ladder to get something off the roof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-054",
@@ -55994,7 +56406,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมวก",
-    "audio_en_src": "hat"
+    "audio_en_src": "hat",
+    "examples": [
+      {
+        "meaning": "hat",
+        "sentences": [
+          {
+            "thai": "ใส่หมวกกันแดดด้วยนะ",
+            "en": "Wear a hat to protect from the sun.",
+            "audio_src": "ใส่หมวกกันแดดด้วยนะ",
+            "audio_en_src": "Wear a hat to protect from the sun."
+          },
+          {
+            "thai": "หมวกใบนี้เข้ากับชุดดี",
+            "en": "This hat goes well with the outfit.",
+            "audio_src": "หมวกใบนี้เข้ากับชุดดี",
+            "audio_en_src": "This hat goes well with the outfit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-055",
