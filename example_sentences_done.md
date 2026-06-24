@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 101 words**
+**Total: 111 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -90,6 +90,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
 - `tamago-l12-237` : นึ่ง (to steam (food)) : 1 meaning(s), 2 sentences
+- `tamago-l12-240` : น่าสงสาร ('poor thing', pitiful) : 1 meaning(s), 2 sentences
+- `tamago-l12-243` : น้ำจิ้ม (dipping sauce) : 1 meaning(s), 2 sentences
+- `tamago-l12-252` : บะหมี่ (egg noodle) : 1 meaning(s), 2 sentences
+- `tamago-l12-254` : บังเอิญ (by chance, coincidentally; to happen (by chance)) : 2 meaning(s), 4 sentences
+- `tamago-l12-259` : บาง (thin) : 1 meaning(s), 2 sentences
+- `tamago-l12-261` : ประจำ, เป็นประจำ (regularly, constantly, routinely) : 1 meaning(s), 2 sentences
+- `tamago-l12-266` : ปลูก (to plant, to grow) : 1 meaning(s), 2 sentences
+- `tamago-l12-268` : ปอก (to peel) : 1 meaning(s), 2 sentences
+- `tamago-l12-274` : ปีน (to climb) : 1 meaning(s), 2 sentences
+- `tamago-l12-275` : ปุ่ม (button) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
 - `tamago-l12-359` : รวม (to include, including; total) : 2 meaning(s), 4 sentences

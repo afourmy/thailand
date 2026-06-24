@@ -14771,7 +14771,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่าสงสาร",
-    "audio_en_src": "'poor thing', pitiful"
+    "audio_en_src": "'poor thing', pitiful",
+    "examples": [
+      {
+        "meaning": "'poor thing', pitiful",
+        "sentences": [
+          {
+            "thai": "น่าสงสารจัง หมาตัวนั้นไม่มีบ้าน",
+            "en": "Poor thing, that dog has no home.",
+            "audio_src": "น่าสงสารจัง หมาตัวนั้นไม่มีบ้าน",
+            "audio_en_src": "Poor thing, that dog has no home."
+          },
+          {
+            "thai": "เห็นแล้วน่าสงสารมาก",
+            "en": "It’s really pitiful to see.",
+            "audio_src": "เห็นแล้วน่าสงสารมาก",
+            "audio_en_src": "It’s really pitiful to see."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-241",
@@ -14795,7 +14814,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำจิ้ม",
-    "audio_en_src": "dipping sauce"
+    "audio_en_src": "dipping sauce",
+    "examples": [
+      {
+        "meaning": "dipping sauce",
+        "sentences": [
+          {
+            "thai": "ลูกชิ้นต้องกินกับน้ำจิ้ม",
+            "en": "Meatballs have to be eaten with dipping sauce.",
+            "audio_src": "ลูกชิ้นต้องกินกับน้ำจิ้ม",
+            "audio_en_src": "Meatballs have to be eaten with dipping sauce."
+          },
+          {
+            "thai": "น้ำจิ้มร้านนี้เผ็ดมาก",
+            "en": "The dipping sauce here is really spicy.",
+            "audio_src": "น้ำจิ้มร้านนี้เผ็ดมาก",
+            "audio_en_src": "The dipping sauce here is really spicy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-244",
@@ -14884,7 +14922,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บะหมี่",
-    "audio_en_src": "egg noodle"
+    "audio_en_src": "egg noodle",
+    "examples": [
+      {
+        "meaning": "egg noodle",
+        "sentences": [
+          {
+            "thai": "ขอบะหมี่หมูแดงหนึ่งชาม",
+            "en": "One bowl of egg noodles with red pork, please.",
+            "audio_src": "ขอบะหมี่หมูแดงหนึ่งชาม",
+            "audio_en_src": "One bowl of egg noodles with red pork, please."
+          },
+          {
+            "thai": "บะหมี่เกี๊ยวร้านนี้อร่อย",
+            "en": "The wonton egg noodles here are tasty.",
+            "audio_src": "บะหมี่เกี๊ยวร้านนี้อร่อย",
+            "audio_en_src": "The wonton egg noodles here are tasty."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-253",
@@ -14912,7 +14969,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บังเอิญ",
-    "audio_en_src": "by chance, coincidentally; to happen"
+    "audio_en_src": "by chance, coincidentally; to happen",
+    "examples": [
+      {
+        "meaning": "by chance, coincidentally",
+        "sentences": [
+          {
+            "thai": "บังเอิญเจอเพื่อนเก่าที่ห้าง",
+            "en": "I ran into an old friend at the mall by chance.",
+            "audio_src": "บังเอิญเจอเพื่อนเก่าที่ห้าง",
+            "audio_en_src": "I ran into an old friend at the mall by chance."
+          },
+          {
+            "thai": "วันนี้บังเอิญใส่เสื้อสีเดียวกัน",
+            "en": "We happened to wear the same color today.",
+            "audio_src": "วันนี้บังเอิญใส่เสื้อสีเดียวกัน",
+            "audio_en_src": "We happened to wear the same color today."
+          }
+        ]
+      },
+      {
+        "meaning": "to happen (by chance)",
+        "sentences": [
+          {
+            "thai": "ถ้าบังเอิญว่างก็โทรมานะ",
+            "en": "If you happen to be free, give me a call.",
+            "audio_src": "ถ้าบังเอิญว่างก็โทรมานะ",
+            "audio_en_src": "If you happen to be free, give me a call."
+          },
+          {
+            "thai": "ถ้าบังเอิญเจอเขา ฝากบอกด้วย",
+            "en": "If you happen to see him, let him know.",
+            "audio_src": "ถ้าบังเอิญเจอเขา ฝากบอกด้วย",
+            "audio_en_src": "If you happen to see him, let him know."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-255",
@@ -14969,7 +15062,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บาง",
-    "audio_en_src": "thin"
+    "audio_en_src": "thin",
+    "examples": [
+      {
+        "meaning": "thin",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้ผ้าบางมาก",
+            "en": "This shirt is made of really thin fabric.",
+            "audio_src": "เสื้อตัวนี้ผ้าบางมาก",
+            "audio_en_src": "This shirt is made of really thin fabric."
+          },
+          {
+            "thai": "หั่นเนื้อให้บางๆ",
+            "en": "Slice the meat thinly.",
+            "audio_src": "หั่นเนื้อให้บางๆ",
+            "audio_en_src": "Slice the meat thinly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-260",
@@ -14998,7 +15110,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประจำ, เป็นประจำ",
-    "audio_en_src": "regularly, constantly, routinely"
+    "audio_en_src": "regularly, constantly, routinely",
+    "examples": [
+      {
+        "meaning": "regularly, constantly, routinely",
+        "sentences": [
+          {
+            "thai": "เขามาสายเป็นประจำ",
+            "en": "He’s late all the time.",
+            "audio_src": "เขามาสายเป็นประจำ",
+            "audio_en_src": "He’s late all the time."
+          },
+          {
+            "thai": "ฉันออกกำลังกายเป็นประจำ",
+            "en": "I exercise regularly.",
+            "audio_src": "ฉันออกกำลังกายเป็นประจำ",
+            "audio_en_src": "I exercise regularly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-262",
@@ -15057,7 +15188,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปลูก",
-    "audio_en_src": "to plant, to grow"
+    "audio_en_src": "to plant, to grow",
+    "examples": [
+      {
+        "meaning": "to plant, to grow",
+        "sentences": [
+          {
+            "thai": "ปลูกผักกินเองที่บ้าน",
+            "en": "I grow my own vegetables at home.",
+            "audio_src": "ปลูกผักกินเองที่บ้าน",
+            "audio_en_src": "I grow my own vegetables at home."
+          },
+          {
+            "thai": "อยากปลูกต้นไม้ที่ระเบียง",
+            "en": "I want to grow some plants on the balcony.",
+            "audio_src": "อยากปลูกต้นไม้ที่ระเบียง",
+            "audio_en_src": "I want to grow some plants on the balcony."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-267",
@@ -15081,7 +15231,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปอก",
-    "audio_en_src": "to peel"
+    "audio_en_src": "to peel",
+    "examples": [
+      {
+        "meaning": "to peel",
+        "sentences": [
+          {
+            "thai": "ปอกเปลือกส้มให้หน่อย",
+            "en": "Peel the orange for me.",
+            "audio_src": "ปอกเปลือกส้มให้หน่อย",
+            "audio_en_src": "Peel the orange for me."
+          },
+          {
+            "thai": "ปอกมะม่วงแล้วหั่นเป็นชิ้น",
+            "en": "Peel the mango and cut it into pieces.",
+            "audio_src": "ปอกมะม่วงแล้วหั่นเป็นชิ้น",
+            "audio_en_src": "Peel the mango and cut it into pieces."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-269",
@@ -15144,7 +15313,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปีน",
-    "audio_en_src": "to climb"
+    "audio_en_src": "to climb",
+    "examples": [
+      {
+        "meaning": "to climb",
+        "sentences": [
+          {
+            "thai": "เด็กๆ ชอบปีนต้นไม้",
+            "en": "Kids love climbing trees.",
+            "audio_src": "เด็กๆ ชอบปีนต้นไม้",
+            "audio_en_src": "Kids love climbing trees."
+          },
+          {
+            "thai": "ปีนบันไดขึ้นไปเก็บของ",
+            "en": "Climb the ladder to get the stuff.",
+            "audio_src": "ปีนบันไดขึ้นไปเก็บของ",
+            "audio_en_src": "Climb the ladder to get the stuff."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-275",
@@ -15160,7 +15348,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปุ่ม",
-    "audio_en_src": "button"
+    "audio_en_src": "button",
+    "examples": [
+      {
+        "meaning": "button",
+        "sentences": [
+          {
+            "thai": "กดปุ่มนี้เพื่อเปิดเครื่อง",
+            "en": "Press this button to turn it on.",
+            "audio_src": "กดปุ่มนี้เพื่อเปิดเครื่อง",
+            "audio_en_src": "Press this button to turn it on."
+          },
+          {
+            "thai": "ปุ่มนี้ใช้ปรับเสียง",
+            "en": "This button adjusts the volume.",
+            "audio_src": "ปุ่มนี้ใช้ปรับเสียง",
+            "audio_en_src": "This button adjusts the volume."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-277",
