@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1211 words**
+**Total: 1221 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1215,3 +1215,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-057` : งาน (work) : 1 meaning(s), 2 sentences
 - `wlt-c21-058` : เงิน (money; silver) : 2 meaning(s), 4 sentences
 - `wlt-c21-059` : ชื่อ (name) : 1 meaning(s), 2 sentences
+- `wlt-c21-061` : ใต้ (south; under) : 2 meaning(s), 4 sentences
+- `wlt-c21-062` : ถูก (right, correct; cheap) : 2 meaning(s), 4 sentences
+- `wlt-c21-063` : เที่ยง, เที่ยงวัน (noon, midday) : 1 meaning(s), 2 sentences
+- `wlt-c21-064` : ปู่ (paternal grandfather) : 1 meaning(s), 2 sentences
+- `wlt-c21-065` : มี (to have) : 1 meaning(s), 2 sentences
+- `wlt-c21-066` : มีด (knife) : 1 meaning(s), 2 sentences
+- `wlt-c21-067` : รถ (car, vehicle) : 1 meaning(s), 2 sentences
+- `wlt-c21-068` : ล้าง (to wash (e.g dishes, hands)) : 1 meaning(s), 2 sentences
+- `wlt-c21-069` : สีดำ (black) : 1 meaning(s), 2 sentences
+- `wlt-c21-070` : สีแดง (red) : 1 meaning(s), 2 sentences
