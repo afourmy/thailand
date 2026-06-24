@@ -37,6 +37,7 @@
     direction: "both",
     listening: false,
     typeMode: false,
+    showExamples: true,
     day: null,
   };
   config.listening = !!config.listening;
@@ -47,6 +48,9 @@
   if (config.typeMode === undefined) config.typeMode = config.answerMode === "type";
   config.typeMode = !!config.typeMode;
   delete config.answerMode;
+  // Show example sentences automatically on reveal. Default on (only an explicit
+  // save of false disables it). When off, reveal shows a per-card toggle instead.
+  config.showExamples = config.showExamples !== false;
 
   // Direction filter: which card directions are eligible for the queue and the
   // stat counts. "both" returns the full DIRS list; the others restrict to one.
@@ -170,6 +174,8 @@
   // buttons simply no-op (play() rejects) for now. Kept identical in vocab.js.
   var EX_SPEAKER_SVG =
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
+  var EX_BUBBLE_SVG =
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
   function exAudioSrc(base, id, mi, si, en) {
     return base + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
   }
@@ -396,6 +402,12 @@
 
   function startSession() {
     queue = pendingQueue ? pendingQueue.slice() : buildQueue().queue;
+    // TEMPORARY (testing example sentences): force คำ (chula-l6-185) to appear
+    // first, regardless of scheduling. Delete this block to revert.
+    var TEST_ID = "chula-l6-185:t2e";
+    queue = queue.filter(function (id) { return id !== TEST_ID; });
+    queue.unshift(TEST_ID);
+    // end temporary
     sessionTotal = queue.length;
     reviewed = 0;
     if (!queue.length) return finishSession();
@@ -565,12 +577,22 @@
     speak.hidden = !backSrc;
     if (backSrc) playAudio();
 
-    // Reveal the example sentences (if any) below the card.
+    // Reveal the example sentences (if any) below the card. When the "Show
+    // examples" setting is off, show a button to reveal them for this card only.
     var exHost = $("fc-examples");
     if (exHost) {
-      var exHtml = buildExamplesHtml(info.word, audioBase);
-      exHost.innerHTML = exHtml;
-      exHost.hidden = !exHtml;
+      if (!(info.word.examples && info.word.examples.length)) {
+        exHost.hidden = true;
+        exHost.innerHTML = "";
+      } else if (config.showExamples) {
+        exHost.innerHTML = buildExamplesHtml(info.word, audioBase);
+        exHost.hidden = false;
+      } else {
+        exHost.innerHTML =
+          '<button class="fc-ex-toggle" type="button">' + EX_BUBBLE_SVG +
+          "<span>Show examples</span></button>";
+        exHost.hidden = false;
+      }
     }
   }
 
@@ -814,8 +836,15 @@
       if (btn) grade(+btn.getAttribute("data-grade"));
     });
 
-    // Example-sentence speaker buttons (Thai / English per sentence).
+    // Example-sentence speaker buttons (Thai / English per sentence), plus the
+    // per-card "Show examples" toggle shown when the setting is off.
     $("fc-examples").addEventListener("click", function (e) {
+      var toggle = e.target.closest(".fc-ex-toggle");
+      if (toggle) {
+        var info = parseId(curId);
+        this.innerHTML = buildExamplesHtml(info.word, audioBase);
+        return;
+      }
       var play = e.target.closest(".ex-play");
       if (play) playEx(play);
     });
@@ -856,6 +885,17 @@
     });
   }
 
+  // ── Show-examples setting ─────────────────────────────────────────────────────
+  function renderShowExamplesToggle() {
+    $("fc-show-examples").checked = config.showExamples;
+  }
+  function wireShowExamplesToggle() {
+    $("fc-show-examples").addEventListener("change", function (e) {
+      config.showExamples = e.target.checked;
+      saveConfig();
+    });
+  }
+
   // ── Boot ───────────────────────────────────────────────────────────────────
   var thisScript = document.querySelector('script[src$="flashcards.js"]');
   var dataUrl = thisScript ? new URL("vocab.json", thisScript.src).href : "vocab.json";
@@ -870,11 +910,13 @@
       renderDirectionSelect();
       renderListeningToggle();
       renderTypeToggle();
+      renderShowExamplesToggle();
       wireSettings();
       wireDeckBar();
       wireDirectionSelect();
       wireListeningToggle();
       wireTypeToggle();
+      wireShowExamplesToggle();
       wireInfoTooltips();
       wire();
       refreshStats();

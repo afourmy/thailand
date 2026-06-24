@@ -2861,8 +2861,27 @@ body[data-thai-font="noto"] .ex-th { font-family: 'Noto Sans Thai', sans-serif; 
 /* Flashcard reveal: examples sit between the card and the action buttons. */
 .fc-ex {
   margin: 0.1rem 0 0.3rem;
+  text-align: center;
   animation: fc-reveal 0.22s ease;
 }
+/* Per-card reveal button, shown when the "Show examples" setting is off. */
+.fc-ex-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0 auto;
+  padding: 0.45rem 0.95rem;
+  font-family: 'Computer Modern Serif', serif;
+  font-size: 0.95rem;
+  color: var(--accent);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s, border-color 0.15s;
+}
+.fc-ex-toggle svg { width: 1rem; height: 1rem; }
+.fc-ex-toggle:hover { color: var(--accent-strong); border-color: var(--accent); }
 
 /* Vocab examples button (in the per-card tools column). Matches the sibling
    speaker / copy / suspend controls: a faintly-visible rounded square that
