@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 141 words**
+**Total: 191 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -135,11 +135,61 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-381` : ลานจอดรถ (parking lot) : 1 meaning(s), 2 sentences
 - `tamago-l12-387` : ล่าสุด (most recent, latest) : 1 meaning(s), 2 sentences
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
+- `tamago-l12-390` : วันก่อน (the other day) : 1 meaning(s), 2 sentences
+- `tamago-l12-396` : วิชา (subject, field of study) : 1 meaning(s), 2 sentences
+- `tamago-l12-403` : ว่าแต่ (by the way) : 1 meaning(s), 2 sentences
+- `tamago-l12-416` : สระผม (to wash one's hair, to shampoo) : 1 meaning(s), 2 sentences
+- `tamago-l12-418` : สวนสาธารณะ (public park) : 1 meaning(s), 2 sentences
+- `tamago-l12-419` : สอบ (to take an exam) : 1 meaning(s), 2 sentences
+- `tamago-l12-420` : สะพาน (bridge) : 1 meaning(s), 2 sentences
+- `tamago-l12-422` : สักพัก (for a little while, a moment) : 1 meaning(s), 2 sentences
+- `tamago-l12-427` : สาย (line, route (e.g bus/subway)) : 1 meaning(s), 2 sentences
 - `tamago-l12-430` : ส่ง (to send; to drop someone off) : 2 meaning(s), 4 sentences
+- `tamago-l12-432` : ส้อม (fork) : 1 meaning(s), 2 sentences
+- `tamago-l12-435` : หนา (thick) : 1 meaning(s), 2 sentences
+- `tamago-l12-437` : หน้าตา (face, appearance, looks) : 1 meaning(s), 2 sentences
+- `tamago-l12-449` : หลอด (straw (drinking); tube) : 2 meaning(s), 4 sentences
+- `tamago-l12-450` : หลังๆ (lately, recently) : 1 meaning(s), 2 sentences
+- `tamago-l12-451` : หลับตา (to close one's eyes) : 1 meaning(s), 2 sentences
+- `tamago-l12-454` : หัวหน้า (boss, head, supervisor) : 1 meaning(s), 2 sentences
+- `tamago-l12-456` : หั่น (to chop, to slice) : 1 meaning(s), 2 sentences
+- `tamago-l12-461` : ห่อ (to wrap) : 1 meaning(s), 2 sentences
+- `tamago-l12-469` : อย่าง (classifier for abstract things, type / kind) : 1 meaning(s), 2 sentences
+- `tamago-l12-475` : อะไรพวกนี้ (things like that) : 1 meaning(s), 2 sentences
+- `tamago-l12-476` : อะไรแบบนี้ (stuff like that, things like this) : 1 meaning(s), 2 sentences
+- `tamago-l12-480` : อาจารย์ (university professor; teacher (respectful)) : 2 meaning(s), 4 sentences
+- `tamago-l12-484` : อีกหน่อย (soon, later, in a little while) : 1 meaning(s), 2 sentences
 - `tamago-l12-491` : เกาะ (island; to cling, to hold on to) : 2 meaning(s), 4 sentences
+- `tamago-l12-507` : เจ้านาย (boss, employer) : 1 meaning(s), 2 sentences
+- `tamago-l12-509` : เฉยๆ (merely, just, nothing special; indifferent) : 2 meaning(s), 4 sentences
+- `tamago-l12-515` : เดี๋ยวนี้ (nowadays, these days; right now, immediately) : 2 meaning(s), 4 sentences
+- `tamago-l12-520` : เทขยะ (to take out the trash) : 1 meaning(s), 2 sentences
+- `tamago-l12-525` : เท่านี้ (only this, just this much) : 1 meaning(s), 2 sentences
+- `tamago-l12-528` : เนื้อ (meat; content; flesh) : 3 meaning(s), 6 sentences
+- `tamago-l12-532` : เปลี่ยนชุด (to change clothes) : 1 meaning(s), 2 sentences
 - `tamago-l12-535` : เปลี่ยนใจ (to change one's mind, to reconsider) : 1 meaning(s), 2 sentences
+- `tamago-l12-539` : เป็ด (duck) : 1 meaning(s), 2 sentences
+- `tamago-l12-547` : เพราะ (because; beautiful (for sounds e.g music, voice)) : 2 meaning(s), 4 sentences
+- `tamago-l12-551` : เมื่อกี้, เมื่อกี้นี้, เมื่อตะกี้นี้ (just now, a moment ago) : 1 meaning(s), 2 sentences
+- `tamago-l12-552` : เมื่อย (sore, achy (from physical fatigue)) : 1 meaning(s), 2 sentences
+- `tamago-l12-559` : เล่ม (classifier for books) : 1 meaning(s), 2 sentences
+- `tamago-l12-563` : เศร้า (sad (extended/deep sadness)) : 1 meaning(s), 2 sentences
+- `tamago-l12-566` : เสีย (to waste, to spend; to be broken) : 2 meaning(s), 4 sentences
+- `tamago-l12-567` : เสียดาย ('it's a shame', 'what a pity') : 1 meaning(s), 2 sentences
 - `tamago-l12-568` : เสียใจ (sad (short-term sadness), sorry) : 1 meaning(s), 2 sentences
+- `tamago-l12-582` : เอาน่า ('come on!', 'let's do it!' (persuade or encourage)) : 1 meaning(s), 2 sentences
+- `tamago-l12-583` : เอาใหม่ ('try again', 'do it again') : 1 meaning(s), 2 sentences
+- `tamago-l12-586` : แจก (to give away, to distribute) : 1 meaning(s), 2 sentences
+- `tamago-l12-590` : แถม (plus, moreover; free extra item with purchase) : 2 meaning(s), 4 sentences
+- `tamago-l12-594` : แปลกใจ (surprised) : 1 meaning(s), 2 sentences
+- `tamago-l12-595` : แป้ง (powder; flour, starch) : 2 meaning(s), 4 sentences
+- `tamago-l12-607` : แล้วไง ('and?', 'so what?') : 1 meaning(s), 2 sentences
+- `tamago-l12-608` : แหวน (ring (jewelry)) : 1 meaning(s), 2 sentences
+- `tamago-l12-611` : โกง (to cheat, to swindle, to commit fraud) : 1 meaning(s), 2 sentences
+- `tamago-l12-615` : โดน (to be exposed to (e.g rain, sun, water); to get (passive)) : 2 meaning(s), 4 sentences
 - `tamago-l12-620` : โมโห (angry, furious) : 1 meaning(s), 2 sentences
+- `tamago-l12-623` : โล (kilo (colloquial short form of kilogram)) : 1 meaning(s), 2 sentences
+- `tamago-l12-630` : ใส่ (to put in, to wear, to insert) : 1 meaning(s), 3 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences

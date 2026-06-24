@@ -16916,7 +16916,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รวมกัน",
-    "audio_en_src": "together, combined"
+    "audio_en_src": "together, combined",
+    "examples": [
+      {
+        "meaning": "together, combined",
+        "sentences": [
+          {
+            "thai": "เราเก็บเงินรวมกันซื้อของขวัญให้เธอ",
+            "en": "We pooled our money together to buy her a gift.",
+            "audio_src": "เราเก็บเงินรวมกันซื้อของขวัญให้เธอ",
+            "audio_en_src": "We pooled our money together to buy her a gift."
+          },
+          {
+            "thai": "รวมกันแล้วทั้งหมดเท่าไหร่",
+            "en": "How much is it all together?",
+            "audio_src": "รวมกันแล้วทั้งหมดเท่าไหร่",
+            "audio_en_src": "How much is it all together?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-361",
@@ -16930,7 +16949,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รองเท้าผ้าใบ",
-    "audio_en_src": "sneakers"
+    "audio_en_src": "sneakers",
+    "examples": [
+      {
+        "meaning": "sneakers",
+        "sentences": [
+          {
+            "thai": "ฉันใส่รองเท้าผ้าใบไปวิ่ง",
+            "en": "I wear sneakers when I go running.",
+            "audio_src": "ฉันใส่รองเท้าผ้าใบไปวิ่ง",
+            "audio_en_src": "I wear sneakers when I go running."
+          },
+          {
+            "thai": "รองเท้าผ้าใบคู่นี้ใส่สบายมาก",
+            "en": "These sneakers are really comfortable.",
+            "audio_src": "รองเท้าผ้าใบคู่นี้ใส่สบายมาก",
+            "audio_en_src": "These sneakers are really comfortable."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-362",
@@ -17031,7 +17069,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รับผิดชอบ",
-    "audio_en_src": "to take responsibility, to be responsible"
+    "audio_en_src": "to take responsibility, to be responsible",
+    "examples": [
+      {
+        "meaning": "to take responsibility, to be responsible",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ฉันจะรับผิดชอบเอง",
+            "en": "I'll take responsibility for this myself.",
+            "audio_src": "เรื่องนี้ฉันจะรับผิดชอบเอง",
+            "audio_en_src": "I'll take responsibility for this myself."
+          },
+          {
+            "thai": "เขาเป็นคนรับผิดชอบ งานเลยเสร็จตรงเวลา",
+            "en": "He's a responsible person, so the work got done on time.",
+            "audio_src": "เขาเป็นคนรับผิดชอบ งานเลยเสร็จตรงเวลา",
+            "audio_en_src": "He's a responsible person, so the work got done on time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-368",
@@ -17046,7 +17103,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รับสาย",
-    "audio_en_src": "to answer a call, pick up the phone"
+    "audio_en_src": "to answer a call, pick up the phone",
+    "examples": [
+      {
+        "meaning": "to answer a call, pick up the phone",
+        "sentences": [
+          {
+            "thai": "โทรไปแล้วแต่เขาไม่รับสาย",
+            "en": "I called but he didn't pick up.",
+            "audio_src": "โทรไปแล้วแต่เขาไม่รับสาย",
+            "audio_en_src": "I called but he didn't pick up."
+          },
+          {
+            "thai": "ขอโทษนะ ขอรับสายแป๊บนึง",
+            "en": "Sorry, let me take this call for a sec.",
+            "audio_src": "ขอโทษนะ ขอรับสายแป๊บนึง",
+            "audio_en_src": "Sorry, let me take this call for a sec."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-369",
@@ -17086,7 +17162,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รุ่นน้อง",
-    "audio_en_src": "junior"
+    "audio_en_src": "junior",
+    "examples": [
+      {
+        "meaning": "junior (younger schoolmate)",
+        "sentences": [
+          {
+            "thai": "เขาเป็นรุ่นน้องฉันที่มหาวิทยาลัย",
+            "en": "He's my junior at university.",
+            "audio_src": "เขาเป็นรุ่นน้องฉันที่มหาวิทยาลัย",
+            "audio_en_src": "He's my junior at university."
+          },
+          {
+            "thai": "ฉันพารุ่นน้องไปกินข้าว",
+            "en": "I took my junior out for a meal.",
+            "audio_src": "ฉันพารุ่นน้องไปกินข้าว",
+            "audio_en_src": "I took my junior out for a meal."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-372",
@@ -17101,7 +17196,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รุ่นพี่",
-    "audio_en_src": "senior"
+    "audio_en_src": "senior",
+    "examples": [
+      {
+        "meaning": "senior (older schoolmate)",
+        "sentences": [
+          {
+            "thai": "รุ่นพี่สอนการบ้านให้ฉัน",
+            "en": "My senior helped me with my homework.",
+            "audio_src": "รุ่นพี่สอนการบ้านให้ฉัน",
+            "audio_en_src": "My senior helped me with my homework."
+          },
+          {
+            "thai": "ฉันเคารพรุ่นพี่คนนี้มาก",
+            "en": "I really respect this senior of mine.",
+            "audio_src": "ฉันเคารพรุ่นพี่คนนี้มาก",
+            "audio_en_src": "I really respect this senior of mine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-374",
@@ -17117,7 +17231,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ภาพ, รูปภาพ",
-    "audio_en_src": "picture, image, painting"
+    "audio_en_src": "picture, image, painting",
+    "examples": [
+      {
+        "meaning": "picture, image, painting",
+        "sentences": [
+          {
+            "thai": "รูปภาพนี้สวยมาก",
+            "en": "This picture is beautiful.",
+            "audio_src": "รูปภาพนี้สวยมาก",
+            "audio_en_src": "This picture is beautiful."
+          },
+          {
+            "thai": "เขาวาดภาพเก่ง",
+            "en": "He's good at painting.",
+            "audio_src": "เขาวาดภาพเก่ง",
+            "audio_en_src": "He's good at painting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-375",
@@ -17177,7 +17310,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลาน",
-    "audio_en_src": "yard, open area"
+    "audio_en_src": "yard, open area",
+    "examples": [
+      {
+        "meaning": "yard, open area",
+        "sentences": [
+          {
+            "thai": "เด็กๆ วิ่งเล่นอยู่ที่ลาน",
+            "en": "The kids are running around in the yard.",
+            "audio_src": "เด็กๆ วิ่งเล่นอยู่ที่ลาน",
+            "audio_en_src": "The kids are running around in the yard."
+          },
+          {
+            "thai": "หน้าวัดมีลานกว้าง",
+            "en": "There's a big open space in front of the temple.",
+            "audio_src": "หน้าวัดมีลานกว้าง",
+            "audio_en_src": "There's a big open space in front of the temple."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-381",
@@ -17191,7 +17343,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลานจอดรถ",
-    "audio_en_src": "parking lot"
+    "audio_en_src": "parking lot",
+    "examples": [
+      {
+        "meaning": "parking lot",
+        "sentences": [
+          {
+            "thai": "ลานจอดรถเต็มแล้ว",
+            "en": "The parking lot is full.",
+            "audio_src": "ลานจอดรถเต็มแล้ว",
+            "audio_en_src": "The parking lot is full."
+          },
+          {
+            "thai": "ฉันจอดรถไว้ที่ลานจอดรถหลังห้าง",
+            "en": "I parked in the lot behind the mall.",
+            "audio_src": "ฉันจอดรถไว้ที่ลานจอดรถหลังห้าง",
+            "audio_en_src": "I parked in the lot behind the mall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-383",
@@ -17249,7 +17420,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ล่าสุด",
-    "audio_en_src": "most recent, latest"
+    "audio_en_src": "most recent, latest",
+    "examples": [
+      {
+        "meaning": "most recent, latest",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องล่าสุดของเขาสนุกมาก",
+            "en": "His latest movie is really good.",
+            "audio_src": "หนังเรื่องล่าสุดของเขาสนุกมาก",
+            "audio_en_src": "His latest movie is really good."
+          },
+          {
+            "thai": "ข่าวล่าสุดว่ายังไงบ้าง",
+            "en": "What's the latest news?",
+            "audio_src": "ข่าวล่าสุดว่ายังไงบ้าง",
+            "audio_en_src": "What's the latest news?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-388",
@@ -17325,7 +17515,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันก่อน",
-    "audio_en_src": "the other day"
+    "audio_en_src": "the other day",
+    "examples": [
+      {
+        "meaning": "the other day",
+        "sentences": [
+          {
+            "thai": "วันก่อนฉันเจอเขาที่ตลาด",
+            "en": "I ran into him at the market the other day.",
+            "audio_src": "วันก่อนฉันเจอเขาที่ตลาด",
+            "audio_en_src": "I ran into him at the market the other day."
+          },
+          {
+            "thai": "วันก่อนเราเพิ่งคุยกันอยู่เลย",
+            "en": "We were just talking the other day.",
+            "audio_src": "วันก่อนเราเพิ่งคุยกันอยู่เลย",
+            "audio_en_src": "We were just talking the other day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-391",
@@ -17394,7 +17603,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วิชา",
-    "audio_en_src": "subject, field of study"
+    "audio_en_src": "subject, field of study",
+    "examples": [
+      {
+        "meaning": "subject, field of study",
+        "sentences": [
+          {
+            "thai": "วิชาที่ฉันชอบที่สุดคือเลข",
+            "en": "My favorite subject is math.",
+            "audio_src": "วิชาที่ฉันชอบที่สุดคือเลข",
+            "audio_en_src": "My favorite subject is math."
+          },
+          {
+            "thai": "วันนี้มีเรียนสามวิชา",
+            "en": "I have three classes today.",
+            "audio_src": "วันนี้มีเรียนสามวิชา",
+            "audio_en_src": "I have three classes today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-397",
@@ -17473,7 +17701,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ว่าแต่",
-    "audio_en_src": "by the way"
+    "audio_en_src": "by the way",
+    "examples": [
+      {
+        "meaning": "by the way",
+        "sentences": [
+          {
+            "thai": "ว่าแต่ เธอกินข้าวยัง",
+            "en": "By the way, have you eaten yet?",
+            "audio_src": "ว่าแต่ เธอกินข้าวยัง",
+            "audio_en_src": "By the way, have you eaten yet?"
+          },
+          {
+            "thai": "ว่าแต่ พรุ่งนี้ว่างไหม",
+            "en": "By the way, are you free tomorrow?",
+            "audio_src": "ว่าแต่ พรุ่งนี้ว่างไหม",
+            "audio_en_src": "By the way, are you free tomorrow?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-404",
@@ -17608,7 +17855,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สระผม",
-    "audio_en_src": "to wash one's hair, to shampoo"
+    "audio_en_src": "to wash one's hair, to shampoo",
+    "examples": [
+      {
+        "meaning": "to wash one's hair, to shampoo",
+        "sentences": [
+          {
+            "thai": "ฉันสระผมทุกเช้า",
+            "en": "I wash my hair every morning.",
+            "audio_src": "ฉันสระผมทุกเช้า",
+            "audio_en_src": "I wash my hair every morning."
+          },
+          {
+            "thai": "ผมเปียกเพราะเพิ่งสระผมมา",
+            "en": "My hair is wet because I just washed it.",
+            "audio_src": "ผมเปียกเพราะเพิ่งสระผมมา",
+            "audio_en_src": "My hair is wet because I just washed it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-417",
@@ -17632,7 +17898,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สวนสาธารณะ",
-    "audio_en_src": "public park"
+    "audio_en_src": "public park",
+    "examples": [
+      {
+        "meaning": "public park",
+        "sentences": [
+          {
+            "thai": "เย็นนี้ไปเดินเล่นที่สวนสาธารณะกัน",
+            "en": "Let's go for a walk in the park this evening.",
+            "audio_src": "เย็นนี้ไปเดินเล่นที่สวนสาธารณะกัน",
+            "audio_en_src": "Let's go for a walk in the park this evening."
+          },
+          {
+            "thai": "สวนสาธารณะใกล้บ้านมีคนวิ่งเยอะ",
+            "en": "There are lots of runners at the park near my place.",
+            "audio_src": "สวนสาธารณะใกล้บ้านมีคนวิ่งเยอะ",
+            "audio_en_src": "There are lots of runners at the park near my place."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-419",
@@ -17648,7 +17933,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สอบ",
-    "audio_en_src": "to take an exam"
+    "audio_en_src": "to take an exam",
+    "examples": [
+      {
+        "meaning": "to take an exam",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ฉันต้องสอบ",
+            "en": "I have an exam tomorrow.",
+            "audio_src": "พรุ่งนี้ฉันต้องสอบ",
+            "audio_en_src": "I have an exam tomorrow."
+          },
+          {
+            "thai": "เขาอ่านหนังสือสอบทั้งคืน",
+            "en": "He studied for the exam all night.",
+            "audio_src": "เขาอ่านหนังสือสอบทั้งคืน",
+            "audio_en_src": "He studied for the exam all night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-420",
@@ -17665,7 +17969,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สะพาน",
-    "audio_en_src": "bridge"
+    "audio_en_src": "bridge",
+    "examples": [
+      {
+        "meaning": "bridge",
+        "sentences": [
+          {
+            "thai": "เดินข้ามสะพานไปอีกฝั่ง",
+            "en": "Walk across the bridge to the other side.",
+            "audio_src": "เดินข้ามสะพานไปอีกฝั่ง",
+            "audio_en_src": "Walk across the bridge to the other side."
+          },
+          {
+            "thai": "สะพานนี้ยาวมาก",
+            "en": "This bridge is really long.",
+            "audio_src": "สะพานนี้ยาวมาก",
+            "audio_en_src": "This bridge is really long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-421",
@@ -17690,7 +18013,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สักพัก",
-    "audio_en_src": "for a little while, a moment"
+    "audio_en_src": "for a little while, a moment",
+    "examples": [
+      {
+        "meaning": "for a little while, a moment",
+        "sentences": [
+          {
+            "thai": "รอสักพักนะ เดี๋ยวมา",
+            "en": "Wait a moment, I'll be right back.",
+            "audio_src": "รอสักพักนะ เดี๋ยวมา",
+            "audio_en_src": "Wait a moment, I'll be right back."
+          },
+          {
+            "thai": "นั่งพักสักพักก่อนค่อยไปต่อ",
+            "en": "Let's rest for a bit before we keep going.",
+            "audio_src": "นั่งพักสักพักก่อนค่อยไปต่อ",
+            "audio_en_src": "Let's rest for a bit before we keep going."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-423",
@@ -17748,7 +18090,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สาย",
-    "audio_en_src": "line, route"
+    "audio_en_src": "line, route",
+    "examples": [
+      {
+        "meaning": "line, route (e.g bus/subway)",
+        "sentences": [
+          {
+            "thai": "รถเมล์สายนี้ไปสนามบินไหม",
+            "en": "Does this bus route go to the airport?",
+            "audio_src": "รถเมล์สายนี้ไปสนามบินไหม",
+            "audio_en_src": "Does this bus route go to the airport?"
+          },
+          {
+            "thai": "นั่งรถไฟฟ้าสายสีเขียวไปได้เลย",
+            "en": "You can just take the green line to get there.",
+            "audio_src": "นั่งรถไฟฟ้าสายสีเขียวไปได้เลย",
+            "audio_en_src": "You can just take the green line to get there."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-428",
@@ -17846,7 +18207,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ส้อม",
-    "audio_en_src": "fork"
+    "audio_en_src": "fork",
+    "examples": [
+      {
+        "meaning": "fork",
+        "sentences": [
+          {
+            "thai": "ขอส้อมหน่อยค่ะ",
+            "en": "Could I get a fork, please?",
+            "audio_src": "ขอส้อมหน่อยค่ะ",
+            "audio_en_src": "Could I get a fork, please?"
+          },
+          {
+            "thai": "กินสปาเก็ตตี้ต้องใช้ส้อม",
+            "en": "You need a fork to eat spaghetti.",
+            "audio_src": "กินสปาเก็ตตี้ต้องใช้ส้อม",
+            "audio_en_src": "You need a fork to eat spaghetti."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-433",
@@ -17883,7 +18263,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนา",
-    "audio_en_src": "thick"
+    "audio_en_src": "thick",
+    "examples": [
+      {
+        "meaning": "thick",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้หนามาก",
+            "en": "This book is really thick.",
+            "audio_src": "หนังสือเล่มนี้หนามาก",
+            "audio_en_src": "This book is really thick."
+          },
+          {
+            "thai": "ใส่เสื้อหนาๆ หน่อย ข้างนอกหนาว",
+            "en": "Wear something thick, it's cold outside.",
+            "audio_src": "ใส่เสื้อหนาๆ หน่อย ข้างนอกหนาว",
+            "audio_en_src": "Wear something thick, it's cold outside."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-436",
@@ -17909,7 +18308,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หน้าตา",
-    "audio_en_src": "face, appearance, looks"
+    "audio_en_src": "face, appearance, looks",
+    "examples": [
+      {
+        "meaning": "face, appearance, looks",
+        "sentences": [
+          {
+            "thai": "เขาหน้าตาดี",
+            "en": "He's good-looking.",
+            "audio_src": "เขาหน้าตาดี",
+            "audio_en_src": "He's good-looking."
+          },
+          {
+            "thai": "อาหารจานนี้หน้าตาน่ากินมาก",
+            "en": "This dish looks really appetizing.",
+            "audio_src": "อาหารจานนี้หน้าตาน่ากินมาก",
+            "audio_en_src": "This dish looks really appetizing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-439",
@@ -18032,7 +18450,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลอด",
-    "audio_en_src": "straw; tube"
+    "audio_en_src": "straw; tube",
+    "examples": [
+      {
+        "meaning": "straw (drinking)",
+        "sentences": [
+          {
+            "thai": "ขอหลอดด้วยค่ะ",
+            "en": "Could I have a straw too, please?",
+            "audio_src": "ขอหลอดด้วยค่ะ",
+            "audio_en_src": "Could I have a straw too, please?"
+          },
+          {
+            "thai": "ร้านนี้เลิกใช้หลอดพลาสติกแล้ว",
+            "en": "This shop has stopped using plastic straws.",
+            "audio_src": "ร้านนี้เลิกใช้หลอดพลาสติกแล้ว",
+            "audio_en_src": "This shop has stopped using plastic straws."
+          }
+        ]
+      },
+      {
+        "meaning": "tube",
+        "sentences": [
+          {
+            "thai": "ยาสีฟันเหลือครึ่งหลอด",
+            "en": "There's half a tube of toothpaste left.",
+            "audio_src": "ยาสีฟันเหลือครึ่งหลอด",
+            "audio_en_src": "There's half a tube of toothpaste left."
+          },
+          {
+            "thai": "บีบครีมออกมาจากหลอด",
+            "en": "Squeeze the cream out of the tube.",
+            "audio_src": "บีบครีมออกมาจากหลอด",
+            "audio_en_src": "Squeeze the cream out of the tube."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-450",
@@ -18047,7 +18501,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลังๆ",
-    "audio_en_src": "lately, recently"
+    "audio_en_src": "lately, recently",
+    "examples": [
+      {
+        "meaning": "lately, recently",
+        "sentences": [
+          {
+            "thai": "หลังๆ เขาดูเหนื่อยๆ",
+            "en": "He's been looking tired lately.",
+            "audio_src": "หลังๆ เขาดูเหนื่อยๆ",
+            "audio_en_src": "He's been looking tired lately."
+          },
+          {
+            "thai": "หลังๆ ฉันนอนดึกบ่อย",
+            "en": "Lately I've been staying up late a lot.",
+            "audio_src": "หลังๆ ฉันนอนดึกบ่อย",
+            "audio_en_src": "Lately I've been staying up late a lot."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-451",
@@ -18063,7 +18536,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลับตา",
-    "audio_en_src": "to close one's eyes"
+    "audio_en_src": "to close one's eyes",
+    "examples": [
+      {
+        "meaning": "to close one's eyes",
+        "sentences": [
+          {
+            "thai": "หลับตาแล้วนับถึงสิบ",
+            "en": "Close your eyes and count to ten.",
+            "audio_src": "หลับตาแล้วนับถึงสิบ",
+            "audio_en_src": "Close your eyes and count to ten."
+          },
+          {
+            "thai": "ฉันหลับตาตอนถ่ายรูปทุกที",
+            "en": "I close my eyes in every photo.",
+            "audio_src": "ฉันหลับตาตอนถ่ายรูปทุกที",
+            "audio_en_src": "I close my eyes in every photo."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-452",
@@ -18101,7 +18593,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หัวหน้า",
-    "audio_en_src": "boss, head, supervisor"
+    "audio_en_src": "boss, head, supervisor",
+    "examples": [
+      {
+        "meaning": "boss, head, supervisor",
+        "sentences": [
+          {
+            "thai": "หัวหน้าเรียกประชุมตอนบ่าย",
+            "en": "The boss called a meeting in the afternoon.",
+            "audio_src": "หัวหน้าเรียกประชุมตอนบ่าย",
+            "audio_en_src": "The boss called a meeting in the afternoon."
+          },
+          {
+            "thai": "ฉันต้องถามหัวหน้าก่อน",
+            "en": "I have to ask my boss first.",
+            "audio_src": "ฉันต้องถามหัวหน้าก่อน",
+            "audio_en_src": "I have to ask my boss first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-455",
@@ -18129,7 +18640,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หั่น",
-    "audio_en_src": "to chop, to slice"
+    "audio_en_src": "to chop, to slice",
+    "examples": [
+      {
+        "meaning": "to chop, to slice",
+        "sentences": [
+          {
+            "thai": "ช่วยหั่นผักให้หน่อย",
+            "en": "Help me chop the vegetables.",
+            "audio_src": "ช่วยหั่นผักให้หน่อย",
+            "audio_en_src": "Help me chop the vegetables."
+          },
+          {
+            "thai": "หั่นเนื้อเป็นชิ้นเล็กๆ",
+            "en": "Cut the meat into small pieces.",
+            "audio_src": "หั่นเนื้อเป็นชิ้นเล็กๆ",
+            "audio_en_src": "Cut the meat into small pieces."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-457",
@@ -18187,7 +18717,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห่อ",
-    "audio_en_src": "to wrap"
+    "audio_en_src": "to wrap",
+    "examples": [
+      {
+        "meaning": "to wrap",
+        "sentences": [
+          {
+            "thai": "ช่วยห่อของขวัญให้หน่อย",
+            "en": "Could you help wrap the gift?",
+            "audio_src": "ช่วยห่อของขวัญให้หน่อย",
+            "audio_en_src": "Could you help wrap the gift?"
+          },
+          {
+            "thai": "ขอห่อกลับบ้านค่ะ",
+            "en": "I'd like to get this to go, please.",
+            "audio_src": "ขอห่อกลับบ้านค่ะ",
+            "audio_en_src": "I'd like to get this to go, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-462",
@@ -18278,7 +18827,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อย่าง",
-    "audio_en_src": "classifier for abstract things, type / kind"
+    "audio_en_src": "classifier for abstract things, type / kind",
+    "examples": [
+      {
+        "meaning": "classifier for abstract things, type / kind",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีขนมหลายอย่าง",
+            "en": "This shop has many kinds of desserts.",
+            "audio_src": "ร้านนี้มีขนมหลายอย่าง",
+            "audio_en_src": "This shop has many kinds of desserts."
+          },
+          {
+            "thai": "เลือกได้แค่อย่างเดียว",
+            "en": "You can only pick one.",
+            "audio_src": "เลือกได้แค่อย่างเดียว",
+            "audio_en_src": "You can only pick one."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-471",
@@ -18334,7 +18902,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อะไรพวกนี้",
-    "audio_en_src": "things like that"
+    "audio_en_src": "things like that",
+    "examples": [
+      {
+        "meaning": "things like that",
+        "sentences": [
+          {
+            "thai": "เขาชอบกีฬา ฟุตบอล บาส อะไรพวกนี้",
+            "en": "He likes sports, football, basketball, things like that.",
+            "audio_src": "เขาชอบกีฬา ฟุตบอล บาส อะไรพวกนี้",
+            "audio_en_src": "He likes sports, football, basketball, things like that."
+          },
+          {
+            "thai": "เอาน้ำ ขนม อะไรพวกนี้มาด้วยนะ",
+            "en": "Bring water, snacks, things like that.",
+            "audio_src": "เอาน้ำ ขนม อะไรพวกนี้มาด้วยนะ",
+            "audio_en_src": "Bring water, snacks, things like that."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-476",
@@ -18348,7 +18935,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อะไรแบบนี้",
-    "audio_en_src": "stuff like that, things like this"
+    "audio_en_src": "stuff like that, things like this",
+    "examples": [
+      {
+        "meaning": "stuff like that, things like this",
+        "sentences": [
+          {
+            "thai": "เขาชอบพูดเล่น แกล้งคน อะไรแบบนี้",
+            "en": "He likes joking around, teasing people, stuff like that.",
+            "audio_src": "เขาชอบพูดเล่น แกล้งคน อะไรแบบนี้",
+            "audio_en_src": "He likes joking around, teasing people, stuff like that."
+          },
+          {
+            "thai": "ฉันไม่ชอบหนังผี อะไรแบบนี้",
+            "en": "I don't like horror movies, things like that.",
+            "audio_src": "ฉันไม่ชอบหนังผี อะไรแบบนี้",
+            "audio_en_src": "I don't like horror movies, things like that."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-477",
@@ -18394,7 +19000,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาจารย์",
-    "audio_en_src": "university professor; teacher"
+    "audio_en_src": "university professor; teacher",
+    "examples": [
+      {
+        "meaning": "university professor",
+        "sentences": [
+          {
+            "thai": "อาจารย์สอนวิชานี้เก่งมาก",
+            "en": "The professor who teaches this course is excellent.",
+            "audio_src": "อาจารย์สอนวิชานี้เก่งมาก",
+            "audio_en_src": "The professor who teaches this course is excellent."
+          },
+          {
+            "thai": "พรุ่งนี้ฉันมีนัดเจออาจารย์ที่ปรึกษา",
+            "en": "I have a meeting with my advisor tomorrow.",
+            "audio_src": "พรุ่งนี้ฉันมีนัดเจออาจารย์ที่ปรึกษา",
+            "audio_en_src": "I have a meeting with my advisor tomorrow."
+          }
+        ]
+      },
+      {
+        "meaning": "teacher (respectful)",
+        "sentences": [
+          {
+            "thai": "สวัสดีครับอาจารย์",
+            "en": "Hello, teacher.",
+            "audio_src": "สวัสดีครับอาจารย์",
+            "audio_en_src": "Hello, teacher."
+          },
+          {
+            "thai": "อาจารย์ครับ ขอถามหน่อยได้ไหม",
+            "en": "Teacher, may I ask you something?",
+            "audio_src": "อาจารย์ครับ ขอถามหน่อยได้ไหม",
+            "audio_en_src": "Teacher, may I ask you something?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-481",
@@ -18439,7 +19081,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อีกหน่อย",
-    "audio_en_src": "soon, later, in a little while"
+    "audio_en_src": "soon, later, in a little while",
+    "examples": [
+      {
+        "meaning": "soon, later, in a little while",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวอีกหน่อยก็ถึงแล้ว",
+            "en": "We'll be there soon.",
+            "audio_src": "เดี๋ยวอีกหน่อยก็ถึงแล้ว",
+            "audio_en_src": "We'll be there soon."
+          },
+          {
+            "thai": "กินยาแล้วอีกหน่อยก็หาย",
+            "en": "Take the medicine and you'll feel better in a little while.",
+            "audio_src": "กินยาแล้วอีกหน่อยก็หาย",
+            "audio_en_src": "Take the medicine and you'll feel better in a little while."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-485",
@@ -18729,7 +19390,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจ้านาย",
-    "audio_en_src": "boss, employer"
+    "audio_en_src": "boss, employer",
+    "examples": [
+      {
+        "meaning": "boss, employer",
+        "sentences": [
+          {
+            "thai": "เจ้านายฉันใจดีมาก",
+            "en": "My boss is really nice.",
+            "audio_src": "เจ้านายฉันใจดีมาก",
+            "audio_en_src": "My boss is really nice."
+          },
+          {
+            "thai": "วันนี้เจ้านายให้กลับบ้านเร็ว",
+            "en": "The boss let us go home early today.",
+            "audio_src": "วันนี้เจ้านายให้กลับบ้านเร็ว",
+            "audio_en_src": "The boss let us go home early today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-508",
@@ -18755,7 +19435,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เฉยๆ",
-    "audio_en_src": "merely, just, nothing special; indifferent"
+    "audio_en_src": "merely, just, nothing special; indifferent",
+    "examples": [
+      {
+        "meaning": "merely, just, nothing special",
+        "sentences": [
+          {
+            "thai": "ถามเฉยๆ ไม่ได้คิดอะไร",
+            "en": "I'm just asking, no particular reason.",
+            "audio_src": "ถามเฉยๆ ไม่ได้คิดอะไร",
+            "audio_en_src": "I'm just asking, no particular reason."
+          },
+          {
+            "thai": "อาหารร้านนี้เฉยๆ ไม่ได้อร่อยมาก",
+            "en": "The food here is just so-so, not that great.",
+            "audio_src": "อาหารร้านนี้เฉยๆ ไม่ได้อร่อยมาก",
+            "audio_en_src": "The food here is just so-so, not that great."
+          }
+        ]
+      },
+      {
+        "meaning": "indifferent",
+        "sentences": [
+          {
+            "thai": "ฉันเฉยๆกับเขา ไม่ได้ชอบ",
+            "en": "I'm indifferent to him, I don't have feelings for him.",
+            "audio_src": "ฉันเฉยๆกับเขา ไม่ได้ชอบ",
+            "audio_en_src": "I'm indifferent to him, I don't have feelings for him."
+          },
+          {
+            "thai": "บอกข่าวดีไป เขายังเฉยๆเลย",
+            "en": "I told him the good news, but he didn't react at all.",
+            "audio_src": "บอกข่าวดีไป เขายังเฉยๆเลย",
+            "audio_en_src": "I told him the good news, but he didn't react at all."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-510",
@@ -18823,7 +19539,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดี๋ยวนี้",
-    "audio_en_src": "nowadays, these days; right now, immediately"
+    "audio_en_src": "nowadays, these days; right now, immediately",
+    "examples": [
+      {
+        "meaning": "nowadays, these days",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวนี้ของแพงขึ้นเยอะ",
+            "en": "Things are a lot more expensive these days.",
+            "audio_src": "เดี๋ยวนี้ของแพงขึ้นเยอะ",
+            "audio_en_src": "Things are a lot more expensive these days."
+          },
+          {
+            "thai": "เดี๋ยวนี้ใครๆ ก็ใช้มือถือ",
+            "en": "Nowadays everyone uses a smartphone.",
+            "audio_src": "เดี๋ยวนี้ใครๆ ก็ใช้มือถือ",
+            "audio_en_src": "Nowadays everyone uses a smartphone."
+          }
+        ]
+      },
+      {
+        "meaning": "right now, immediately",
+        "sentences": [
+          {
+            "thai": "มานี่เดี๋ยวนี้",
+            "en": "Come here right now.",
+            "audio_src": "มานี่เดี๋ยวนี้",
+            "audio_en_src": "Come here right now."
+          },
+          {
+            "thai": "ทำให้เสร็จเดี๋ยวนี้เลย",
+            "en": "Get it done right now.",
+            "audio_src": "ทำให้เสร็จเดี๋ยวนี้เลย",
+            "audio_en_src": "Get it done right now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-516",
@@ -18880,7 +19632,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เทขยะ",
-    "audio_en_src": "to take out the trash"
+    "audio_en_src": "to take out the trash",
+    "examples": [
+      {
+        "meaning": "to take out the trash",
+        "sentences": [
+          {
+            "thai": "อย่าลืมเทขยะก่อนออกไปนะ",
+            "en": "Don't forget to take out the trash before you leave.",
+            "audio_src": "อย่าลืมเทขยะก่อนออกไปนะ",
+            "audio_en_src": "Don't forget to take out the trash before you leave."
+          },
+          {
+            "thai": "ฉันเทขยะทุกเช้า",
+            "en": "I take out the trash every morning.",
+            "audio_src": "ฉันเทขยะทุกเช้า",
+            "audio_en_src": "I take out the trash every morning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-521",
@@ -18940,7 +19711,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เท่านี้",
-    "audio_en_src": "only this, just this much"
+    "audio_en_src": "only this, just this much",
+    "examples": [
+      {
+        "meaning": "only this, just this much",
+        "sentences": [
+          {
+            "thai": "เอาแค่เท่านี้พอ",
+            "en": "This much is enough.",
+            "audio_src": "เอาแค่เท่านี้พอ",
+            "audio_en_src": "This much is enough."
+          },
+          {
+            "thai": "วันนี้พอแค่เท่านี้ก่อน",
+            "en": "Let's stop here for today.",
+            "audio_src": "วันนี้พอแค่เท่านี้ก่อน",
+            "audio_en_src": "Let's stop here for today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-526",
@@ -18978,7 +19768,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เนื้อ",
-    "audio_en_src": "meat; content; flesh"
+    "audio_en_src": "meat; content; flesh",
+    "examples": [
+      {
+        "meaning": "meat",
+        "sentences": [
+          {
+            "thai": "ฉันไม่กินเนื้อ",
+            "en": "I don't eat beef.",
+            "audio_src": "ฉันไม่กินเนื้อ",
+            "audio_en_src": "I don't eat beef."
+          },
+          {
+            "thai": "เนื้อชิ้นนี้นุ่มมาก",
+            "en": "This piece of meat is really tender.",
+            "audio_src": "เนื้อชิ้นนี้นุ่มมาก",
+            "audio_en_src": "This piece of meat is really tender."
+          }
+        ]
+      },
+      {
+        "meaning": "content",
+        "sentences": [
+          {
+            "thai": "เนื้อเพลงนี้ความหมายดี",
+            "en": "The lyrics of this song are meaningful.",
+            "audio_src": "เนื้อเพลงนี้ความหมายดี",
+            "audio_en_src": "The lyrics of this song are meaningful."
+          },
+          {
+            "thai": "เนื้อเรื่องสนุกแต่ตอนจบเฉยๆ",
+            "en": "The story is fun, but the ending is just so-so.",
+            "audio_src": "เนื้อเรื่องสนุกแต่ตอนจบเฉยๆ",
+            "audio_en_src": "The story is fun, but the ending is just so-so."
+          }
+        ]
+      },
+      {
+        "meaning": "flesh",
+        "sentences": [
+          {
+            "thai": "มีดบาดเข้าไปถึงเนื้อ",
+            "en": "The knife cut right into the flesh.",
+            "audio_src": "มีดบาดเข้าไปถึงเนื้อ",
+            "audio_en_src": "The knife cut right into the flesh."
+          },
+          {
+            "thai": "ผลไม้นี้เนื้อแน่นดี",
+            "en": "This fruit has nice firm flesh.",
+            "audio_src": "ผลไม้นี้เนื้อแน่นดี",
+            "audio_en_src": "This fruit has nice firm flesh."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-530",
@@ -19013,7 +19856,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เปลี่ยนชุด",
-    "audio_en_src": "to change clothes"
+    "audio_en_src": "to change clothes",
+    "examples": [
+      {
+        "meaning": "to change clothes",
+        "sentences": [
+          {
+            "thai": "ขอเปลี่ยนชุดก่อนนะ",
+            "en": "Let me change my clothes first.",
+            "audio_src": "ขอเปลี่ยนชุดก่อนนะ",
+            "audio_en_src": "Let me change my clothes first."
+          },
+          {
+            "thai": "กลับถึงบ้านฉันเปลี่ยนชุดทันที",
+            "en": "As soon as I get home, I change clothes right away.",
+            "audio_src": "กลับถึงบ้านฉันเปลี่ยนชุดทันที",
+            "audio_en_src": "As soon as I get home, I change clothes right away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-533",
@@ -19105,7 +19967,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เป็ด",
-    "audio_en_src": "duck"
+    "audio_en_src": "duck",
+    "examples": [
+      {
+        "meaning": "duck",
+        "sentences": [
+          {
+            "thai": "ร้านนี้เป็ดย่างอร่อยมาก",
+            "en": "The roast duck at this place is really good.",
+            "audio_src": "ร้านนี้เป็ดย่างอร่อยมาก",
+            "audio_en_src": "The roast duck at this place is really good."
+          },
+          {
+            "thai": "มีเป็ดว่ายน้ำอยู่ในบึง",
+            "en": "There are ducks swimming in the pond.",
+            "audio_src": "มีเป็ดว่ายน้ำอยู่ในบึง",
+            "audio_en_src": "There are ducks swimming in the pond."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-540",
@@ -19197,7 +20078,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพราะ",
-    "audio_en_src": "because; beautiful"
+    "audio_en_src": "because; beautiful",
+    "examples": [
+      {
+        "meaning": "because",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันไม่ไปเพราะไม่สบาย",
+            "en": "I'm not going today because I'm not feeling well.",
+            "audio_src": "วันนี้ฉันไม่ไปเพราะไม่สบาย",
+            "audio_en_src": "I'm not going today because I'm not feeling well."
+          },
+          {
+            "thai": "เขามาสายเพราะรถติด",
+            "en": "He was late because of the traffic.",
+            "audio_src": "เขามาสายเพราะรถติด",
+            "audio_en_src": "He was late because of the traffic."
+          }
+        ]
+      },
+      {
+        "meaning": "beautiful (for sounds e.g music, voice)",
+        "sentences": [
+          {
+            "thai": "เธอร้องเพลงเพราะมาก",
+            "en": "She sings beautifully.",
+            "audio_src": "เธอร้องเพลงเพราะมาก",
+            "audio_en_src": "She sings beautifully."
+          },
+          {
+            "thai": "เสียงเขาเพราะนะ",
+            "en": "He has a lovely voice.",
+            "audio_src": "เสียงเขาเพราะนะ",
+            "audio_en_src": "He has a lovely voice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-548",
@@ -19247,7 +20164,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อกี้, เมื่อกี้นี้, เมื่อตะกี้นี้",
-    "audio_en_src": "just now, a moment ago"
+    "audio_en_src": "just now, a moment ago",
+    "examples": [
+      {
+        "meaning": "just now, a moment ago",
+        "sentences": [
+          {
+            "thai": "เมื่อกี้ใครโทรมา",
+            "en": "Who called just now?",
+            "audio_src": "เมื่อกี้ใครโทรมา",
+            "audio_en_src": "Who called just now?"
+          },
+          {
+            "thai": "เมื่อกี้ฝนตกแป๊บนึง",
+            "en": "It rained for a bit a moment ago.",
+            "audio_src": "เมื่อกี้ฝนตกแป๊บนึง",
+            "audio_en_src": "It rained for a bit a moment ago."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-552",
@@ -19262,7 +20198,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อย",
-    "audio_en_src": "sore, achy"
+    "audio_en_src": "sore, achy",
+    "examples": [
+      {
+        "meaning": "sore, achy (from physical fatigue)",
+        "sentences": [
+          {
+            "thai": "เดินทั้งวันเลยเมื่อยขามาก",
+            "en": "I walked all day, so my legs are really sore.",
+            "audio_src": "เดินทั้งวันเลยเมื่อยขามาก",
+            "audio_en_src": "I walked all day, so my legs are really sore."
+          },
+          {
+            "thai": "นั่งนานๆ แล้วเมื่อยหลัง",
+            "en": "Sitting for a long time makes my back ache.",
+            "audio_src": "นั่งนานๆ แล้วเมื่อยหลัง",
+            "audio_en_src": "Sitting for a long time makes my back ache."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-553",
@@ -19328,7 +20283,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เล่ม",
-    "audio_en_src": "classifier for books"
+    "audio_en_src": "classifier for books",
+    "examples": [
+      {
+        "meaning": "classifier for books",
+        "sentences": [
+          {
+            "thai": "ฉันอ่านหนังสือเล่มนี้จบแล้ว",
+            "en": "I've finished this book.",
+            "audio_src": "ฉันอ่านหนังสือเล่มนี้จบแล้ว",
+            "audio_en_src": "I've finished this book."
+          },
+          {
+            "thai": "ขอยืมหนังสือสักเล่มได้ไหม",
+            "en": "Can I borrow a book?",
+            "audio_src": "ขอยืมหนังสือสักเล่มได้ไหม",
+            "audio_en_src": "Can I borrow a book?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-560",
@@ -19378,7 +20352,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เศร้า",
-    "audio_en_src": "sad"
+    "audio_en_src": "sad",
+    "examples": [
+      {
+        "meaning": "sad (extended/deep sadness)",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้เศร้ามาก ร้องไห้เลย",
+            "en": "This movie is so sad, I cried.",
+            "audio_src": "หนังเรื่องนี้เศร้ามาก ร้องไห้เลย",
+            "audio_en_src": "This movie is so sad, I cried."
+          },
+          {
+            "thai": "เขายังเศร้าอยู่เลยตั้งแต่เลิกกัน",
+            "en": "He's still down ever since the breakup.",
+            "audio_src": "เขายังเศร้าอยู่เลยตั้งแต่เลิกกัน",
+            "audio_en_src": "He's still down ever since the breakup."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-564",
@@ -19416,7 +20409,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสีย",
-    "audio_en_src": "to waste, to spend; to be broken"
+    "audio_en_src": "to waste, to spend; to be broken",
+    "examples": [
+      {
+        "meaning": "to waste, to spend",
+        "sentences": [
+          {
+            "thai": "อย่าเสียเวลาเลย ไปกันเถอะ",
+            "en": "Don't waste time, let's go.",
+            "audio_src": "อย่าเสียเวลาเลย ไปกันเถอะ",
+            "audio_en_src": "Don't waste time, let's go."
+          },
+          {
+            "thai": "กว่าจะเสร็จเสียเงินไปเยอะ",
+            "en": "It cost a lot of money by the time it was done.",
+            "audio_src": "กว่าจะเสร็จเสียเงินไปเยอะ",
+            "audio_en_src": "It cost a lot of money by the time it was done."
+          }
+        ]
+      },
+      {
+        "meaning": "to be broken",
+        "sentences": [
+          {
+            "thai": "แอร์เสียอีกแล้ว",
+            "en": "The air conditioner is broken again.",
+            "audio_src": "แอร์เสียอีกแล้ว",
+            "audio_en_src": "The air conditioner is broken again."
+          },
+          {
+            "thai": "รถเสียกลางทาง",
+            "en": "The car broke down on the way.",
+            "audio_src": "รถเสียกลางทาง",
+            "audio_en_src": "The car broke down on the way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-567",
@@ -19432,7 +20461,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสียดาย",
-    "audio_en_src": "'it's a shame', 'what a pity'"
+    "audio_en_src": "'it's a shame', 'what a pity'",
+    "examples": [
+      {
+        "meaning": "'it's a shame', 'what a pity'",
+        "sentences": [
+          {
+            "thai": "เสียดายจัง มาไม่ทัน",
+            "en": "What a shame, I didn't make it in time.",
+            "audio_src": "เสียดายจัง มาไม่ทัน",
+            "audio_en_src": "What a shame, I didn't make it in time."
+          },
+          {
+            "thai": "ทิ้งไปเสียดายของ",
+            "en": "It'd be a waste to throw it away.",
+            "audio_src": "ทิ้งไปเสียดายของ",
+            "audio_en_src": "It'd be a waste to throw it away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-568",
@@ -19617,7 +20665,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาน่า",
-    "audio_en_src": "'come on!', 'let's do it!'"
+    "audio_en_src": "'come on!', 'let's do it!'",
+    "examples": [
+      {
+        "meaning": "'come on!', 'let's do it!' (persuade or encourage)",
+        "sentences": [
+          {
+            "thai": "เอาน่า อย่าเพิ่งยอมแพ้",
+            "en": "Come on, don't give up yet.",
+            "audio_src": "เอาน่า อย่าเพิ่งยอมแพ้",
+            "audio_en_src": "Come on, don't give up yet."
+          },
+          {
+            "thai": "เอาน่า ลองดูก่อน เดี๋ยวก็ได้",
+            "en": "Come on, just give it a try, you'll get it.",
+            "audio_src": "เอาน่า ลองดูก่อน เดี๋ยวก็ได้",
+            "audio_en_src": "Come on, just give it a try, you'll get it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-583",
@@ -19631,7 +20698,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาใหม่",
-    "audio_en_src": "'try again', 'do it again'"
+    "audio_en_src": "'try again', 'do it again'",
+    "examples": [
+      {
+        "meaning": "'try again', 'do it again'",
+        "sentences": [
+          {
+            "thai": "ทำผิดก็เอาใหม่ได้",
+            "en": "If you make a mistake, you can just try again.",
+            "audio_src": "ทำผิดก็เอาใหม่ได้",
+            "audio_en_src": "If you make a mistake, you can just try again."
+          },
+          {
+            "thai": "อันนี้ยังไม่ดี เอาใหม่อีกรอบ",
+            "en": "This one's not good yet, let's do it again.",
+            "audio_src": "อันนี้ยังไม่ดี เอาใหม่อีกรอบ",
+            "audio_en_src": "This one's not good yet, let's do it again."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-584",
