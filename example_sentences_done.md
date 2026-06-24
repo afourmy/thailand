@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 771 words**
+**Total: 781 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -773,5 +773,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-040` : ตกลง (right, OK, to agree (to something)) : 1 meaning(s), 2 sentences
 - `wlt-c13-041` : ตรงไป (straight ahead, go straight) : 1 meaning(s), 2 sentences
 - `wlt-c13-042` : ตอนนี้ (now) : 1 meaning(s), 2 sentences
+- `wlt-c13-044` : ตอบ (to answer) : 1 meaning(s), 2 sentences
+- `wlt-c13-045` : ตะวันตก (west) : 1 meaning(s), 2 sentences
+- `wlt-c13-046` : ตะวันออก (east) : 1 meaning(s), 2 sentences
+- `wlt-c13-054` : ถือ (to hold) : 1 meaning(s), 2 sentences
+- `wlt-c13-055` : ถุง (bag) : 1 meaning(s), 2 sentences
+- `wlt-c13-066` : ทั้ง (all of) : 1 meaning(s), 2 sentences
+- `wlt-c13-067` : ทั้งสอง (both) : 1 meaning(s), 2 sentences
+- `wlt-c13-068` : ทั้งหมด (all of it, the whole) : 1 meaning(s), 2 sentences
+- `wlt-c13-071` : ที่สุด (the most, extremely) : 1 meaning(s), 2 sentences
+- `wlt-c13-072` : ที่อยู่ (address, place of residence) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
