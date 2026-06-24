@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 641 words**
+**Total: 651 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -642,6 +642,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-079` : องศา (degree (temperature)) : 1 meaning(s), 2 sentences
 - `wlt-c09-080` : อนุญาต (to permit) : 1 meaning(s), 2 sentences
 - `wlt-c09-088` : อันนี้ (this one) : 1 meaning(s), 2 sentences
+- `wlt-c09-092` : อาทิตย์ที่แล้ว, อาทิตย์ก่อน (last week) : 1 meaning(s), 2 sentences
+- `wlt-c09-093` : อาทิตย์หน้า (next week) : 1 meaning(s), 2 sentences
+- `wlt-c09-095` : อาหารไทย (Thai food) : 1 meaning(s), 2 sentences
+- `wlt-c10-002` : เอามา, นำมา (to bring) : 1 meaning(s), 2 sentences
+- `wlt-c10-003` : แอปเปิล (apple (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c10-004` : แอร์ (a/c (informal), air hostess) : 2 meaning(s), 4 sentences
+- `wlt-c10-007` : ก็ได้ (all right, OK, fine) : 1 meaning(s), 2 sentences
+- `wlt-c10-011` : กรุงเทพฯ (Bangkok) : 1 meaning(s), 2 sentences
+- `wlt-c10-013` : กลิ่น (smell, odor) : 1 meaning(s), 2 sentences
+- `wlt-c10-014` : ก๋วยเตี๋ยว (noodles) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

@@ -94639,7 +94639,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสาร์อาทิตย์",
-    "audio_en_src": "weekend"
+    "audio_en_src": "weekend",
+    "examples": [
+      {
+        "meaning": "weekend",
+        "sentences": [
+          {
+            "thai": "เสาร์อาทิตย์นี้มีแผนจะทำอะไร",
+            "en": "What are your plans this weekend?",
+            "audio_src": "เสาร์อาทิตย์นี้มีแผนจะทำอะไร",
+            "audio_en_src": "What are your plans this weekend?"
+          },
+          {
+            "thai": "ฉันชอบนอนตื่นสายวันเสาร์อาทิตย์",
+            "en": "I like sleeping in on weekends.",
+            "audio_src": "ฉันชอบนอนตื่นสายวันเสาร์อาทิตย์",
+            "audio_en_src": "I like sleeping in on weekends."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-056",
@@ -94694,7 +94713,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หกสิบ",
-    "audio_en_src": "sixty"
+    "audio_en_src": "sixty",
+    "examples": [
+      {
+        "meaning": "sixty (60)",
+        "sentences": [
+          {
+            "thai": "คุณพ่ออายุหกสิบแล้ว",
+            "en": "Dad is sixty now.",
+            "audio_src": "คุณพ่ออายุหกสิบแล้ว",
+            "audio_en_src": "Dad is sixty now."
+          },
+          {
+            "thai": "หนึ่งชั่วโมงมีหกสิบนาที",
+            "en": "There are sixty minutes in an hour.",
+            "audio_src": "หนึ่งชั่วโมงมีหกสิบนาที",
+            "audio_en_src": "There are sixty minutes in an hour."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-062",
@@ -94730,7 +94768,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลังจาก",
-    "audio_en_src": "after"
+    "audio_en_src": "after",
+    "examples": [
+      {
+        "meaning": "after",
+        "sentences": [
+          {
+            "thai": "หลังจากเลิกงานฉันจะไปออกกำลังกาย",
+            "en": "After work I'm going to exercise.",
+            "audio_src": "หลังจากเลิกงานฉันจะไปออกกำลังกาย",
+            "audio_en_src": "After work I'm going to exercise."
+          },
+          {
+            "thai": "หลังจากกินข้าวเสร็จเราไปเดินเล่นกัน",
+            "en": "After we finish eating, let's go for a walk.",
+            "audio_src": "หลังจากกินข้าวเสร็จเราไปเดินเล่นกัน",
+            "audio_en_src": "After we finish eating, let's go for a walk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-065",
@@ -94755,7 +94812,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห้องครัว",
-    "audio_en_src": "kitchen"
+    "audio_en_src": "kitchen",
+    "examples": [
+      {
+        "meaning": "kitchen",
+        "sentences": [
+          {
+            "thai": "แม่กำลังทำกับข้าวอยู่ในห้องครัว",
+            "en": "Mom is cooking in the kitchen.",
+            "audio_src": "แม่กำลังทำกับข้าวอยู่ในห้องครัว",
+            "audio_en_src": "Mom is cooking in the kitchen."
+          },
+          {
+            "thai": "ห้องครัวบ้านนี้สะอาดมาก",
+            "en": "The kitchen in this house is very clean.",
+            "audio_src": "ห้องครัวบ้านนี้สะอาดมาก",
+            "audio_en_src": "The kitchen in this house is very clean."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-067",
@@ -94841,6 +94917,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "reason",
+        "sentences": [
+          {
+            "thai": "เขาลาออกโดยไม่บอกเหตุผล",
+            "en": "He quit without giving a reason.",
+            "audio_src": "เขาลาออกโดยไม่บอกเหตุผล",
+            "audio_en_src": "He quit without giving a reason."
+          },
+          {
+            "thai": "ทุกอย่างเกิดขึ้นมีเหตุผลเสมอ",
+            "en": "Everything happens for a reason.",
+            "audio_src": "ทุกอย่างเกิดขึ้นมีเหตุผลเสมอ",
+            "audio_en_src": "Everything happens for a reason."
+          }
+        ]
+      }
     ]
   },
   {
@@ -94856,7 +94951,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหรอ",
-    "audio_en_src": "'really?'"
+    "audio_en_src": "'really?'",
+    "examples": [
+      {
+        "meaning": "'really?' (particle asking for confirmation)",
+        "sentences": [
+          {
+            "thai": "จริงเหรอ ไม่อยากเชื่อเลย",
+            "en": "Really? I can't believe it.",
+            "audio_src": "จริงเหรอ ไม่อยากเชื่อเลย",
+            "audio_en_src": "Really? I can't believe it."
+          },
+          {
+            "thai": "เธอจะไปด้วยเหรอ",
+            "en": "You're coming too?",
+            "audio_src": "เธอจะไปด้วยเหรอ",
+            "audio_en_src": "You're coming too?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-076",
@@ -94871,7 +94985,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหล้า",
-    "audio_en_src": "alcohol, liquor"
+    "audio_en_src": "alcohol, liquor",
+    "examples": [
+      {
+        "meaning": "alcohol, liquor",
+        "sentences": [
+          {
+            "thai": "เขาดื่มเหล้าทุกคืน",
+            "en": "He drinks every night.",
+            "audio_src": "เขาดื่มเหล้าทุกคืน",
+            "audio_en_src": "He drinks every night."
+          },
+          {
+            "thai": "ดื่มเหล้าแล้วอย่าขับรถ",
+            "en": "Don't drink and drive.",
+            "audio_src": "ดื่มเหล้าแล้วอย่าขับรถ",
+            "audio_en_src": "Don't drink and drive."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-078",
@@ -94892,6 +95025,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "degree (temperature)",
+        "sentences": [
+          {
+            "thai": "วันนี้อุณหภูมิสามสิบห้าองศา",
+            "en": "Today's temperature is thirty-five degrees.",
+            "audio_src": "วันนี้อุณหภูมิสามสิบห้าองศา",
+            "audio_en_src": "Today's temperature is thirty-five degrees."
+          },
+          {
+            "thai": "น้ำเดือดที่ร้อยองศา",
+            "en": "Water boils at a hundred degrees.",
+            "audio_src": "น้ำเดือดที่ร้อยองศา",
+            "audio_en_src": "Water boils at a hundred degrees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -94908,7 +95060,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อนุญาต",
-    "audio_en_src": "to permit"
+    "audio_en_src": "to permit",
+    "examples": [
+      {
+        "meaning": "to permit",
+        "sentences": [
+          {
+            "thai": "ที่นี่ไม่อนุญาตให้สูบบุหรี่",
+            "en": "Smoking is not permitted here.",
+            "audio_src": "ที่นี่ไม่อนุญาตให้สูบบุหรี่",
+            "audio_en_src": "Smoking is not permitted here."
+          },
+          {
+            "thai": "ครูอนุญาตให้นักเรียนกลับบ้านก่อน",
+            "en": "The teacher let the students go home early.",
+            "audio_src": "ครูอนุญาตให้นักเรียนกลับบ้านก่อน",
+            "audio_en_src": "The teacher let the students go home early."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-081",
@@ -94965,7 +95136,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อันนี้",
-    "audio_en_src": "this one"
+    "audio_en_src": "this one",
+    "examples": [
+      {
+        "meaning": "this one",
+        "sentences": [
+          {
+            "thai": "อันนี้เท่าไหร่",
+            "en": "How much is this one?",
+            "audio_src": "อันนี้เท่าไหร่",
+            "audio_en_src": "How much is this one?"
+          },
+          {
+            "thai": "ฉันเอาอันนี้ดีกว่า",
+            "en": "I'll take this one instead.",
+            "audio_src": "ฉันเอาอันนี้ดีกว่า",
+            "audio_en_src": "I'll take this one instead."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-089",

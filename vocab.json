@@ -95189,7 +95189,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาทิตย์ที่แล้ว, อาทิตย์ก่อน",
-    "audio_en_src": "last week"
+    "audio_en_src": "last week",
+    "examples": [
+      {
+        "meaning": "last week",
+        "sentences": [
+          {
+            "thai": "อาทิตย์ที่แล้วฉันไม่สบาย",
+            "en": "Last week I was sick.",
+            "audio_src": "อาทิตย์ที่แล้วฉันไม่สบาย",
+            "audio_en_src": "Last week I was sick."
+          },
+          {
+            "thai": "เพิ่งเจอเขาเมื่ออาทิตย์ก่อน",
+            "en": "I just saw him last week.",
+            "audio_src": "เพิ่งเจอเขาเมื่ออาทิตย์ก่อน",
+            "audio_en_src": "I just saw him last week."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-093",
@@ -95203,7 +95222,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาทิตย์หน้า",
-    "audio_en_src": "next week"
+    "audio_en_src": "next week",
+    "examples": [
+      {
+        "meaning": "next week",
+        "sentences": [
+          {
+            "thai": "อาทิตย์หน้าฉันจะไปต่างจังหวัด",
+            "en": "Next week I'm going upcountry.",
+            "audio_src": "อาทิตย์หน้าฉันจะไปต่างจังหวัด",
+            "audio_en_src": "Next week I'm going upcountry."
+          },
+          {
+            "thai": "ส่งงานภายในอาทิตย์หน้านะ",
+            "en": "Submit the work by next week.",
+            "audio_src": "ส่งงานภายในอาทิตย์หน้านะ",
+            "audio_en_src": "Submit the work by next week."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-094",
@@ -95227,7 +95265,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาหารไทย",
-    "audio_en_src": "Thai food"
+    "audio_en_src": "Thai food",
+    "examples": [
+      {
+        "meaning": "Thai food",
+        "sentences": [
+          {
+            "thai": "อาหารไทยส่วนใหญ่รสจัด",
+            "en": "Most Thai food has strong flavors.",
+            "audio_src": "อาหารไทยส่วนใหญ่รสจัด",
+            "audio_en_src": "Most Thai food has strong flavors."
+          },
+          {
+            "thai": "เขาทำอาหารไทยเก่งมาก",
+            "en": "He's really good at cooking Thai food.",
+            "audio_src": "เขาทำอาหารไทยเก่งมาก",
+            "audio_en_src": "He's really good at cooking Thai food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-096",
@@ -95294,7 +95351,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอามา, นํามา",
-    "audio_en_src": "to bring"
+    "audio_en_src": "to bring",
+    "examples": [
+      {
+        "meaning": "to bring",
+        "sentences": [
+          {
+            "thai": "เอาร่มมาด้วยนะ เดี๋ยวฝนตก",
+            "en": "Bring an umbrella, it might rain.",
+            "audio_src": "เอาร่มมาด้วยนะ เดี๋ยวฝนตก",
+            "audio_en_src": "Bring an umbrella, it might rain."
+          },
+          {
+            "thai": "เธอนำมาให้ฉันเองเลยเหรอ",
+            "en": "You brought it to me yourself?",
+            "audio_src": "เธอนำมาให้ฉันเองเลยเหรอ",
+            "audio_en_src": "You brought it to me yourself?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-003",
@@ -95308,7 +95384,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แอปเปิล",
-    "audio_en_src": "apple"
+    "audio_en_src": "apple",
+    "examples": [
+      {
+        "meaning": "apple (loanword)",
+        "sentences": [
+          {
+            "thai": "ฉันกินแอปเปิลวันละลูก",
+            "en": "I eat an apple a day.",
+            "audio_src": "ฉันกินแอปเปิลวันละลูก",
+            "audio_en_src": "I eat an apple a day."
+          },
+          {
+            "thai": "แอปเปิลลูกนี้หวานกรอบดี",
+            "en": "This apple is sweet and crisp.",
+            "audio_src": "แอปเปิลลูกนี้หวานกรอบดี",
+            "audio_en_src": "This apple is sweet and crisp."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-004",
@@ -95323,7 +95418,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แอร์",
-    "audio_en_src": "a/c, air hostess"
+    "audio_en_src": "a/c, air hostess",
+    "examples": [
+      {
+        "meaning": "a/c (informal)",
+        "sentences": [
+          {
+            "thai": "เปิดแอร์หน่อย ร้อนจัง",
+            "en": "Turn on the a/c, it's so hot.",
+            "audio_src": "เปิดแอร์หน่อย ร้อนจัง",
+            "audio_en_src": "Turn on the a/c, it's so hot."
+          },
+          {
+            "thai": "ห้องนี้แอร์เย็นมาก",
+            "en": "The a/c in this room is really cold.",
+            "audio_src": "ห้องนี้แอร์เย็นมาก",
+            "audio_en_src": "The a/c in this room is really cold."
+          }
+        ]
+      },
+      {
+        "meaning": "air hostess",
+        "sentences": [
+          {
+            "thai": "พี่สาวฉันเป็นแอร์",
+            "en": "My older sister is a flight attendant.",
+            "audio_src": "พี่สาวฉันเป็นแอร์",
+            "audio_en_src": "My older sister is a flight attendant."
+          },
+          {
+            "thai": "แอร์เดินมาเสิร์ฟอาหารบนเครื่อง",
+            "en": "The flight attendant came around serving food on the plane.",
+            "audio_src": "แอร์เดินมาเสิร์ฟอาหารบนเครื่อง",
+            "audio_en_src": "The flight attendant came around serving food on the plane."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-007",
@@ -95338,7 +95469,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ก็ได้",
-    "audio_en_src": "all right, OK, fine"
+    "audio_en_src": "all right, OK, fine",
+    "examples": [
+      {
+        "meaning": "all right, OK, fine",
+        "sentences": [
+          {
+            "thai": "เอาสีนี้ก็ได้ ไม่ต้องเปลี่ยน",
+            "en": "This color is fine, no need to change it.",
+            "audio_src": "เอาสีนี้ก็ได้ ไม่ต้องเปลี่ยน",
+            "audio_en_src": "This color is fine, no need to change it."
+          },
+          {
+            "thai": "ไปวันไหนก็ได้ ฉันว่าง",
+            "en": "Any day is fine, I'm free.",
+            "audio_src": "ไปวันไหนก็ได้ ฉันว่าง",
+            "audio_en_src": "Any day is fine, I'm free."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-008",
@@ -95383,7 +95533,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กรุงเทพฯ",
-    "audio_en_src": "Bangkok"
+    "audio_en_src": "Bangkok",
+    "examples": [
+      {
+        "meaning": "Bangkok",
+        "sentences": [
+          {
+            "thai": "รถติดในกรุงเทพฯหนักมาก",
+            "en": "Traffic in Bangkok is really bad.",
+            "audio_src": "รถติดในกรุงเทพฯหนักมาก",
+            "audio_en_src": "Traffic in Bangkok is really bad."
+          },
+          {
+            "thai": "เขาย้ายมาทำงานที่กรุงเทพฯ",
+            "en": "He moved to Bangkok for work.",
+            "audio_src": "เขาย้ายมาทำงานที่กรุงเทพฯ",
+            "audio_en_src": "He moved to Bangkok for work."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-013",
@@ -95398,7 +95567,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลิ่น",
-    "audio_en_src": "smell, odor"
+    "audio_en_src": "smell, odor",
+    "examples": [
+      {
+        "meaning": "smell, odor",
+        "sentences": [
+          {
+            "thai": "กลิ่นอาหารหอมมาแต่ไกล",
+            "en": "The smell of food drifts over from far away.",
+            "audio_src": "กลิ่นอาหารหอมมาแต่ไกล",
+            "audio_en_src": "The smell of food drifts over from far away."
+          },
+          {
+            "thai": "ในห้องมีกลิ่นเหม็น",
+            "en": "There's a bad smell in the room.",
+            "audio_src": "ในห้องมีกลิ่นเหม็น",
+            "audio_en_src": "There's a bad smell in the room."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-014",
@@ -95413,7 +95601,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ก๋วยเตี๋ยว",
-    "audio_en_src": "noodles"
+    "audio_en_src": "noodles",
+    "examples": [
+      {
+        "meaning": "noodles",
+        "sentences": [
+          {
+            "thai": "ขอก๋วยเตี๋ยวหมูหนึ่งชาม",
+            "en": "One bowl of pork noodles, please.",
+            "audio_src": "ขอก๋วยเตี๋ยวหมูหนึ่งชาม",
+            "audio_en_src": "One bowl of pork noodles, please."
+          },
+          {
+            "thai": "ตอนเย็นฉันชอบกินก๋วยเตี๋ยว",
+            "en": "In the evening I like eating noodles.",
+            "audio_src": "ตอนเย็นฉันชอบกินก๋วยเตี๋ยว",
+            "audio_en_src": "In the evening I like eating noodles."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c10-015",
