@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 651 words**
+**Total: 661 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -652,6 +652,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-011` : กรุงเทพฯ (Bangkok) : 1 meaning(s), 2 sentences
 - `wlt-c10-013` : กลิ่น (smell, odor) : 1 meaning(s), 2 sentences
 - `wlt-c10-014` : ก๋วยเตี๋ยว (noodles) : 1 meaning(s), 2 sentences
+- `wlt-c10-024` : ของใคร (whose) : 1 meaning(s), 2 sentences
+- `wlt-c10-030` : ข้าวเหนียว (sticky rice) : 1 meaning(s), 2 sentences
+- `wlt-c10-031` : ขี่ (to ride (when sitting astride on top of animal or vehicle)) : 1 meaning(s), 2 sentences
+- `wlt-c10-032` : ไข้หวัด (flu, cold) : 1 meaning(s), 2 sentences
+- `wlt-c10-034` : คนเดียว (alone, one person) : 1 meaning(s), 2 sentences
+- `wlt-c10-035` : ค้น, ค้นหา (to search) : 1 meaning(s), 2 sentences
+- `wlt-c10-038` : ความหมาย (meaning) : 1 meaning(s), 2 sentences
+- `wlt-c10-039` : คอม, คอมพิวเตอร์ (computer (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c10-041` : คำตอบ (answer) : 1 meaning(s), 2 sentences
+- `wlt-c10-045` : ง่วง, ง่วงนอน (sleepy) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
