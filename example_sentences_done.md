@@ -2,13 +2,15 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 41 words**
+**Total: 51 words**
 
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
 - `chula-l4-007` : เครียด (stressed) : 1 meaning(s), 2 sentences
+- `chula-l4-046` : ประเพณี (tradition) : 1 meaning(s), 2 sentences
 - `chula-l4-148` : เจ็บ (to hurt, to be sore (e.g external pain, injury)) : 1 meaning(s), 2 sentences
 - `chula-l4-149` : ปวด (to ache (e.g internal pain)) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences
+- `chula-l5-026` : ห้าม, ห้ามไม่ให้ (to forbid, to prohibit) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
@@ -17,6 +19,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-021` : ฝ่าย (team, group, side) : 1 meaning(s), 2 sentences
 - `chula-l6-042` : สวน (park, garden; against, in the opposite direction) : 2 meaning(s), 4 sentences
 - `chula-l6-073` : โฆษณา (to advertise) : 1 meaning(s), 2 sentences
+- `chula-l6-087` : เชย (dated, outdated, old-fashioned) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences
@@ -24,10 +27,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-239` : คน (person; to stir (food)) : 2 meaning(s), 4 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
+- `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
+- `tamago-l12-008` : ไหว (to be able to, have the capacity (physical or mental) to) : 1 meaning(s), 2 sentences
 - `tamago-l12-009` : กดปุ่ม (to press a button) : 1 meaning(s), 2 sentences
 - `tamago-l12-026` : กล้วย (banana) : 1 meaning(s), 2 sentences
+- `tamago-l12-046` : ก้อน (lump; classifier for chunks (e.g money, ice)) : 2 meaning(s), 4 sentences
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
 - `tamago-l12-068` : ข้าม (to cross, pass over; to skip) : 2 meaning(s), 4 sentences
+- `tamago-l12-070` : ข้าวสวย (cooked rice (steamed)) : 1 meaning(s), 2 sentences
 - `tamago-l12-085` : คัน (to feel itchy) : 1 meaning(s), 2 sentences
 - `tamago-l12-089` : คิด (to think; to charge (a price)) : 2 meaning(s), 4 sentences
 - `tamago-l12-092` : คืน (to return (something)) : 1 meaning(s), 2 sentences
@@ -36,7 +43,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-105` : จัด (to organize, to arrange) : 1 meaning(s), 2 sentences
 - `tamago-l12-109` : จิ้ม (to dip (e.g food in sauce)) : 1 meaning(s), 2 sentences
 - `tamago-l12-110` : จืด, จืดจาง (bland, tasteless) : 1 meaning(s), 2 sentences
+- `tamago-l12-112` : ฉลอง, เฉลิมฉลอง (to celebrate) : 1 meaning(s), 2 sentences
 - `tamago-l12-127` : ช้อน (spoon) : 1 meaning(s), 2 sentences
+- `tamago-l12-132` : ซีอิ๊ว (soy sauce) : 1 meaning(s), 2 sentences
+- `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences

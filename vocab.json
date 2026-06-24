@@ -559,7 +559,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประเพณี",
-    "audio_en_src": "tradition"
+    "audio_en_src": "tradition",
+    "examples": [
+      {
+        "meaning": "tradition",
+        "sentences": [
+          {
+            "thai": "สงกรานต์เป็นประเพณีไทย",
+            "en": "Songkran is a Thai tradition.",
+            "audio_src": "สงกรานต์เป็นประเพณีไทย",
+            "audio_en_src": "Songkran is a Thai tradition."
+          },
+          {
+            "thai": "ครอบครัวเรายังทำตามประเพณีเก่าแก่",
+            "en": "Our family still follows the old traditions.",
+            "audio_src": "ครอบครัวเรายังทำตามประเพณีเก่าแก่",
+            "audio_en_src": "Our family still follows the old traditions."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-047",
@@ -2068,7 +2087,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห้าม, ห้ามไม่ให้",
-    "audio_en_src": "to forbid, to prohibit"
+    "audio_en_src": "to forbid, to prohibit",
+    "examples": [
+      {
+        "meaning": "to forbid, to prohibit",
+        "sentences": [
+          {
+            "thai": "ที่นี่ห้ามสูบบุหรี่",
+            "en": "No smoking here.",
+            "audio_src": "ที่นี่ห้ามสูบบุหรี่",
+            "audio_en_src": "No smoking here."
+          },
+          {
+            "thai": "แม่ห้ามไม่ให้กลับดึก",
+            "en": "Mom won’t let me come home late.",
+            "audio_src": "แม่ห้ามไม่ให้กลับดึก",
+            "audio_en_src": "Mom won’t let me come home late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-027",
@@ -7807,7 +7845,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เชย",
-    "audio_en_src": "dated, outdated, old-fashioned"
+    "audio_en_src": "dated, outdated, old-fashioned",
+    "examples": [
+      {
+        "meaning": "dated, outdated, old-fashioned",
+        "sentences": [
+          {
+            "thai": "ทรงผมนี้เชยไปแล้ว",
+            "en": "This hairstyle is out of style now.",
+            "audio_src": "ทรงผมนี้เชยไปแล้ว",
+            "audio_en_src": "This hairstyle is out of style now."
+          },
+          {
+            "thai": "มุกนี้เชยมาก",
+            "en": "That joke is so corny.",
+            "audio_src": "มุกนี้เชยมาก",
+            "audio_en_src": "That joke is so corny."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-088",
@@ -10379,7 +10436,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จีบ",
-    "audio_en_src": "to flirt"
+    "audio_en_src": "to flirt",
+    "examples": [
+      {
+        "meaning": "to flirt",
+        "sentences": [
+          {
+            "thai": "เขากำลังจีบสาวคนนั้น",
+            "en": "He’s hitting on that girl.",
+            "audio_src": "เขากำลังจีบสาวคนนั้น",
+            "audio_en_src": "He’s hitting on that girl."
+          },
+          {
+            "thai": "มีคนมาจีบเธอเยอะเลย",
+            "en": "A lot of guys are hitting on you.",
+            "audio_src": "มีคนมาจีบเธอเยอะเลย",
+            "audio_en_src": "A lot of guys are hitting on you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-305",
@@ -10802,7 +10878,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไหว",
-    "audio_en_src": "to be able to, have the capacity to"
+    "audio_en_src": "to be able to, have the capacity to",
+    "examples": [
+      {
+        "meaning": "to be able to, have the capacity (physical or mental) to",
+        "sentences": [
+          {
+            "thai": "เดินไหวไหม หรือเหนื่อยแล้ว",
+            "en": "Can you still walk, or are you tired?",
+            "audio_src": "เดินไหวไหม หรือเหนื่อยแล้ว",
+            "audio_en_src": "Can you still walk, or are you tired?"
+          },
+          {
+            "thai": "งานเยอะมาก ทำไม่ไหวแล้ว",
+            "en": "There’s so much work, I can’t handle it anymore.",
+            "audio_src": "งานเยอะมาก ทำไม่ไหวแล้ว",
+            "audio_en_src": "There’s so much work, I can’t handle it anymore."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-009",
@@ -11235,7 +11330,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ก้อน",
-    "audio_en_src": "lump; classifier for chunks"
+    "audio_en_src": "lump; classifier for chunks",
+    "examples": [
+      {
+        "meaning": "lump",
+        "sentences": [
+          {
+            "thai": "มีก้อนเนื้อขึ้นที่แขน",
+            "en": "There’s a lump on my arm.",
+            "audio_src": "มีก้อนเนื้อขึ้นที่แขน",
+            "audio_en_src": "There’s a lump on my arm."
+          },
+          {
+            "thai": "น้ำตาลจับตัวเป็นก้อน",
+            "en": "The sugar clumped together.",
+            "audio_src": "น้ำตาลจับตัวเป็นก้อน",
+            "audio_en_src": "The sugar clumped together."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for chunks (e.g money, ice)",
+        "sentences": [
+          {
+            "thai": "ขอน้ำแข็งสามก้อน",
+            "en": "Three ice cubes, please.",
+            "audio_src": "ขอน้ำแข็งสามก้อน",
+            "audio_en_src": "Three ice cubes, please."
+          },
+          {
+            "thai": "ได้เงินก้อนใหญ่จากโบนัส",
+            "en": "I got a big lump sum from my bonus.",
+            "audio_src": "ได้เงินก้อนใหญ่จากโบนัส",
+            "audio_en_src": "I got a big lump sum from my bonus."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-047",
@@ -11545,7 +11676,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าวสวย",
-    "audio_en_src": "cooked rice"
+    "audio_en_src": "cooked rice",
+    "examples": [
+      {
+        "meaning": "cooked rice (steamed)",
+        "sentences": [
+          {
+            "thai": "ขอข้าวสวยเพิ่มอีกจาน",
+            "en": "Can I get another plate of rice?",
+            "audio_src": "ขอข้าวสวยเพิ่มอีกจาน",
+            "audio_en_src": "Can I get another plate of rice?"
+          },
+          {
+            "thai": "ข้าวสวยร้อนๆ อร่อยที่สุด",
+            "en": "Hot steamed rice is the best.",
+            "audio_src": "ข้าวสวยร้อนๆ อร่อยที่สุด",
+            "audio_en_src": "Hot steamed rice is the best."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-071",
@@ -12182,7 +12332,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฉลอง, เฉลิมฉลอง",
-    "audio_en_src": "to celebrate"
+    "audio_en_src": "to celebrate",
+    "examples": [
+      {
+        "meaning": "to celebrate",
+        "sentences": [
+          {
+            "thai": "คืนนี้ไปฉลองวันเกิดกัน",
+            "en": "Let’s go celebrate your birthday tonight.",
+            "audio_src": "คืนนี้ไปฉลองวันเกิดกัน",
+            "audio_en_src": "Let’s go celebrate your birthday tonight."
+          },
+          {
+            "thai": "บริษัทจัดงานฉลองครบรอบสิบปี",
+            "en": "The company is holding a 10th anniversary celebration.",
+            "audio_src": "บริษัทจัดงานฉลองครบรอบสิบปี",
+            "audio_en_src": "The company is holding a 10th anniversary celebration."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-113",
@@ -12424,7 +12593,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซีอิ๊ว",
-    "audio_en_src": "soy sauce"
+    "audio_en_src": "soy sauce",
+    "examples": [
+      {
+        "meaning": "soy sauce",
+        "sentences": [
+          {
+            "thai": "เติมซีอิ๊วนิดหน่อยให้กลมกล่อม",
+            "en": "Add a bit of soy sauce to round out the flavor.",
+            "audio_src": "เติมซีอิ๊วนิดหน่อยให้กลมกล่อม",
+            "audio_en_src": "Add a bit of soy sauce to round out the flavor."
+          },
+          {
+            "thai": "ผัดผักใส่ซีอิ๊วขาว",
+            "en": "Stir-fry the vegetables with light soy sauce.",
+            "audio_src": "ผัดผักใส่ซีอิ๊วขาว",
+            "audio_en_src": "Stir-fry the vegetables with light soy sauce."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-133",
@@ -12578,7 +12766,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตรงๆ",
-    "audio_en_src": "frankly, straightforwardly"
+    "audio_en_src": "frankly, straightforwardly",
+    "examples": [
+      {
+        "meaning": "frankly, straightforwardly",
+        "sentences": [
+          {
+            "thai": "พูดตรงๆ ฉันไม่ชอบ",
+            "en": "Frankly, I don’t like it.",
+            "audio_src": "พูดตรงๆ ฉันไม่ชอบ",
+            "audio_en_src": "Frankly, I don’t like it."
+          },
+          {
+            "thai": "บอกมาตรงๆ ว่าคิดยังไง",
+            "en": "Just tell me honestly what you think.",
+            "audio_src": "บอกมาตรงๆ ว่าคิดยังไง",
+            "audio_en_src": "Just tell me honestly what you think."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-147",
