@@ -8593,11 +8593,15 @@
         "sentences": [
           {
             "thai": "คำนี้แปลว่าอะไร",
-            "en": "What does this word mean?"
+            "en": "What does this word mean?",
+            "audio_src": "คำนี้แปลว่าอะไร",
+            "audio_en_src": "What does this word mean?"
           },
           {
             "thai": "เขาพูดแค่ไม่กี่คำ",
-            "en": "He only said a few words."
+            "en": "He only said a few words.",
+            "audio_src": "เขาพูดแค่ไม่กี่คำ",
+            "audio_en_src": "He only said a few words."
           }
         ]
       },
@@ -8606,11 +8610,15 @@
         "sentences": [
           {
             "thai": "ขอชิมคำนึงได้ไหม",
-            "en": "Can I have a bite?"
+            "en": "Can I have a bite?",
+            "audio_src": "ขอชิมคำนึงได้ไหม",
+            "audio_en_src": "Can I have a bite?"
           },
           {
             "thai": "เค้กอร่อยมาก ขออีกคำ",
-            "en": "The cake is so good, one more bite."
+            "en": "The cake is so good, one more bite.",
+            "audio_src": "เค้กอร่อยมาก ขออีกคำ",
+            "audio_en_src": "The cake is so good, one more bite."
           }
         ]
       }
@@ -10990,11 +10998,15 @@
         "sentences": [
           {
             "thai": "ข้ามถนนระวังรถด้วยนะ",
-            "en": "Cross the road and watch out for cars."
+            "en": "Cross the road and watch out for cars.",
+            "audio_src": "ข้ามถนนระวังรถด้วยนะ",
+            "audio_en_src": "Cross the road and watch out for cars."
           },
           {
             "thai": "เราข้ามสะพานไปอีกฝั่ง",
-            "en": "We crossed the bridge to the other side."
+            "en": "We crossed the bridge to the other side.",
+            "audio_src": "เราข้ามสะพานไปอีกฝั่ง",
+            "audio_en_src": "We crossed the bridge to the other side."
           }
         ]
       },
@@ -11003,11 +11015,15 @@
         "sentences": [
           {
             "thai": "วันนี้ข้ามมื้อเช้า",
-            "en": "Today I’ll skip breakfast."
+            "en": "Today I’ll skip breakfast.",
+            "audio_src": "วันนี้ข้ามมื้อเช้า",
+            "audio_en_src": "Today I’ll skip breakfast."
           },
           {
             "thai": "อ่านข้ามบทนี้ไปก่อน",
-            "en": "Skip this chapter for now."
+            "en": "Skip this chapter for now.",
+            "audio_src": "อ่านข้ามบทนี้ไปก่อน",
+            "audio_en_src": "Skip this chapter for now."
           }
         ]
       }
@@ -11231,11 +11247,15 @@
         "sentences": [
           {
             "thai": "คุณคิดยังไงกับเรื่องนี้",
-            "en": "What do you think about this?"
+            "en": "What do you think about this?",
+            "audio_src": "คุณคิดยังไงกับเรื่องนี้",
+            "audio_en_src": "What do you think about this?"
           },
           {
             "thai": "ขอเวลาคิดแป๊บนึง",
-            "en": "Give me a moment to think."
+            "en": "Give me a moment to think.",
+            "audio_src": "ขอเวลาคิดแป๊บนึง",
+            "audio_en_src": "Give me a moment to think."
           }
         ]
       },
@@ -11244,11 +11264,15 @@
         "sentences": [
           {
             "thai": "ร้านนี้คิดค่าส่งเท่าไหร่",
-            "en": "How much does this shop charge for delivery?"
+            "en": "How much does this shop charge for delivery?",
+            "audio_src": "ร้านนี้คิดค่าส่งเท่าไหร่",
+            "audio_en_src": "How much does this shop charge for delivery?"
           },
           {
             "thai": "คิดเงินด้วยครับ",
-            "en": "Check, please."
+            "en": "Check, please.",
+            "audio_src": "คิดเงินด้วยครับ",
+            "audio_en_src": "Check, please."
           }
         ]
       }
@@ -12840,11 +12864,15 @@
         "sentences": [
           {
             "thai": "ทีวีเครื่องนี้ 40 นิ้ว",
-            "en": "This TV is 40 inches."
+            "en": "This TV is 40 inches.",
+            "audio_src": "ทีวีเครื่องนี้ 40 นิ้ว",
+            "audio_en_src": "This TV is 40 inches."
           },
           {
             "thai": "หน้าจอ 6 นิ้วกำลังดี",
-            "en": "A 6-inch screen is just right."
+            "en": "A 6-inch screen is just right.",
+            "audio_src": "หน้าจอ 6 นิ้วกำลังดี",
+            "audio_en_src": "A 6-inch screen is just right."
           }
         ]
       },
@@ -12853,11 +12881,15 @@
         "sentences": [
           {
             "thai": "เขาใส่แหวนที่นิ้ว",
-            "en": "He wears a ring on his finger."
+            "en": "He wears a ring on his finger.",
+            "audio_src": "เขาใส่แหวนที่นิ้ว",
+            "audio_en_src": "He wears a ring on his finger."
           },
           {
             "thai": "ฉันชี้นิ้วไปที่รูป",
-            "en": "I pointed my finger at the picture."
+            "en": "I pointed my finger at the picture.",
+            "audio_src": "ฉันชี้นิ้วไปที่รูป",
+            "audio_en_src": "I pointed my finger at the picture."
           }
         ]
       }
@@ -13830,11 +13862,15 @@
         "sentences": [
           {
             "thai": "เขาพิมพ์เร็วมาก",
-            "en": "He types very fast."
+            "en": "He types very fast.",
+            "audio_src": "เขาพิมพ์เร็วมาก",
+            "audio_en_src": "He types very fast."
           },
           {
             "thai": "ช่วยพิมพ์ข้อความหาฉันหน่อย",
-            "en": "Please type me a message."
+            "en": "Please type me a message.",
+            "audio_src": "ช่วยพิมพ์ข้อความหาฉันหน่อย",
+            "audio_en_src": "Please type me a message."
           }
         ]
       },
@@ -13843,11 +13879,15 @@
         "sentences": [
           {
             "thai": "ขอพิมพ์เอกสารแป๊บนึง",
-            "en": "Let me print the document for a sec."
+            "en": "Let me print the document for a sec.",
+            "audio_src": "ขอพิมพ์เอกสารแป๊บนึง",
+            "audio_en_src": "Let me print the document for a sec."
           },
           {
             "thai": "ฉันพิมพ์ตั๋วออกมาแล้ว",
-            "en": "I’ve printed out the ticket."
+            "en": "I’ve printed out the ticket.",
+            "audio_src": "ฉันพิมพ์ตั๋วออกมาแล้ว",
+            "audio_en_src": "I’ve printed out the ticket."
           }
         ]
       }
@@ -14223,11 +14263,15 @@
         "sentences": [
           {
             "thai": "เดือนหน้าฉันจะย้ายบ้าน",
-            "en": "Next month I’ll move house."
+            "en": "Next month I’ll move house.",
+            "audio_src": "เดือนหน้าฉันจะย้ายบ้าน",
+            "audio_en_src": "Next month I’ll move house."
           },
           {
             "thai": "เขาย้ายไปอยู่เชียงใหม่",
-            "en": "He moved to Chiang Mai."
+            "en": "He moved to Chiang Mai.",
+            "audio_src": "เขาย้ายไปอยู่เชียงใหม่",
+            "audio_en_src": "He moved to Chiang Mai."
           }
         ]
       },
@@ -14236,11 +14280,15 @@
         "sentences": [
           {
             "thai": "ช่วยย้ายไฟล์ไปอีกโฟลเดอร์",
-            "en": "Please move the files to another folder."
+            "en": "Please move the files to another folder.",
+            "audio_src": "ช่วยย้ายไฟล์ไปอีกโฟลเดอร์",
+            "audio_en_src": "Please move the files to another folder."
           },
           {
             "thai": "ฉันย้ายรูปไปไว้ในคอม",
-            "en": "I moved the photos onto the computer."
+            "en": "I moved the photos onto the computer.",
+            "audio_src": "ฉันย้ายรูปไปไว้ในคอม",
+            "audio_en_src": "I moved the photos onto the computer."
           }
         ]
       }
@@ -14355,11 +14403,15 @@
         "sentences": [
           {
             "thai": "ราคานี้รวมภาษีแล้ว",
-            "en": "This price includes tax."
+            "en": "This price includes tax.",
+            "audio_src": "ราคานี้รวมภาษีแล้ว",
+            "audio_en_src": "This price includes tax."
           },
           {
             "thai": "ค่าเช่ารวมค่าน้ำค่าไฟไหม",
-            "en": "Does the rent include water and electricity?"
+            "en": "Does the rent include water and electricity?",
+            "audio_src": "ค่าเช่ารวมค่าน้ำค่าไฟไหม",
+            "audio_en_src": "Does the rent include water and electricity?"
           }
         ]
       },
@@ -14368,11 +14420,15 @@
         "sentences": [
           {
             "thai": "รวมทั้งหมดเท่าไหร่",
-            "en": "How much is it in total?"
+            "en": "How much is it in total?",
+            "audio_src": "รวมทั้งหมดเท่าไหร่",
+            "audio_en_src": "How much is it in total?"
           },
           {
             "thai": "รวมแล้วได้ 500 บาท",
-            "en": "It comes to 500 baht in total."
+            "en": "It comes to 500 baht in total.",
+            "audio_src": "รวมแล้วได้ 500 บาท",
+            "audio_en_src": "It comes to 500 baht in total."
           }
         ]
       }
@@ -14462,11 +14518,15 @@
         "sentences": [
           {
             "thai": "เดี๋ยวไปรับที่สนามบินนะ",
-            "en": "I’ll go pick you up at the airport."
+            "en": "I’ll go pick you up at the airport.",
+            "audio_src": "เดี๋ยวไปรับที่สนามบินนะ",
+            "audio_en_src": "I’ll go pick you up at the airport."
           },
           {
             "thai": "แม่ไปรับลูกที่โรงเรียน",
-            "en": "Mom picks up the kids at school."
+            "en": "Mom picks up the kids at school.",
+            "audio_src": "แม่ไปรับลูกที่โรงเรียน",
+            "audio_en_src": "Mom picks up the kids at school."
           }
         ]
       },
@@ -14475,11 +14535,15 @@
         "sentences": [
           {
             "thai": "ฉันรับเงินเดือนทุกสิ้นเดือน",
-            "en": "I get my salary at the end of every month."
+            "en": "I get my salary at the end of every month.",
+            "audio_src": "ฉันรับเงินเดือนทุกสิ้นเดือน",
+            "audio_en_src": "I get my salary at the end of every month."
           },
           {
             "thai": "รับพัสดุหรือยัง",
-            "en": "Have you received the parcel yet?"
+            "en": "Have you received the parcel yet?",
+            "audio_src": "รับพัสดุหรือยัง",
+            "audio_en_src": "Have you received the parcel yet?"
           }
         ]
       }
@@ -14740,11 +14804,15 @@
         "sentences": [
           {
             "thai": "วงนี้เล่นดนตรีเก่งมาก",
-            "en": "This band plays music really well."
+            "en": "This band plays music really well.",
+            "audio_src": "วงนี้เล่นดนตรีเก่งมาก",
+            "audio_en_src": "This band plays music really well."
           },
           {
             "thai": "เขาอยู่วงเดียวกับฉัน",
-            "en": "He’s in the same band as me."
+            "en": "He’s in the same band as me.",
+            "audio_src": "เขาอยู่วงเดียวกับฉัน",
+            "audio_en_src": "He’s in the same band as me."
           }
         ]
       },
@@ -14753,11 +14821,15 @@
         "sentences": [
           {
             "thai": "มานั่งล้อมวงกินข้าวกัน",
-            "en": "Let’s sit in a circle and eat together."
+            "en": "Let’s sit in a circle and eat together.",
+            "audio_src": "มานั่งล้อมวงกินข้าวกัน",
+            "audio_en_src": "Let’s sit in a circle and eat together."
           },
           {
             "thai": "เด็กๆ จับมือกันเป็นวง",
-            "en": "The kids hold hands in a circle."
+            "en": "The kids hold hands in a circle.",
+            "audio_src": "เด็กๆ จับมือกันเป็นวง",
+            "audio_en_src": "The kids hold hands in a circle."
           }
         ]
       }
@@ -15251,11 +15323,15 @@
         "sentences": [
           {
             "thai": "ส่งอีเมลให้แล้วนะ",
-            "en": "I’ve sent you the email."
+            "en": "I’ve sent you the email.",
+            "audio_src": "ส่งอีเมลให้แล้วนะ",
+            "audio_en_src": "I’ve sent you the email."
           },
           {
             "thai": "ช่วยส่งเอกสารมาด้วย",
-            "en": "Please send the documents over."
+            "en": "Please send the documents over.",
+            "audio_src": "ช่วยส่งเอกสารมาด้วย",
+            "audio_en_src": "Please send the documents over."
           }
         ]
       },
@@ -15264,11 +15340,15 @@
         "sentences": [
           {
             "thai": "เดี๋ยวไปส่งที่บ้านนะ",
-            "en": "I’ll drop you off at home."
+            "en": "I’ll drop you off at home.",
+            "audio_src": "เดี๋ยวไปส่งที่บ้านนะ",
+            "audio_en_src": "I’ll drop you off at home."
           },
           {
             "thai": "ช่วยไปส่งฉันที่สถานีรถไฟหน่อย",
-            "en": "Drop me off at the train station, please."
+            "en": "Drop me off at the train station, please.",
+            "audio_src": "ช่วยไปส่งฉันที่สถานีรถไฟหน่อย",
+            "audio_en_src": "Drop me off at the train station, please."
           }
         ]
       }
@@ -15981,11 +16061,15 @@
         "sentences": [
           {
             "thai": "เกาะนี้สวยมาก",
-            "en": "This island is very beautiful."
+            "en": "This island is very beautiful.",
+            "audio_src": "เกาะนี้สวยมาก",
+            "audio_en_src": "This island is very beautiful."
           },
           {
             "thai": "หน้าร้อนเราไปเที่ยวเกาะ",
-            "en": "In summer we go to the islands."
+            "en": "In summer we go to the islands.",
+            "audio_src": "หน้าร้อนเราไปเที่ยวเกาะ",
+            "audio_en_src": "In summer we go to the islands."
           }
         ]
       },
@@ -15994,11 +16078,15 @@
         "sentences": [
           {
             "thai": "เด็กเกาะแขนแม่ไว้แน่น",
-            "en": "The child clings tightly to mom’s arm."
+            "en": "The child clings tightly to mom’s arm.",
+            "audio_src": "เด็กเกาะแขนแม่ไว้แน่น",
+            "audio_en_src": "The child clings tightly to mom’s arm."
           },
           {
             "thai": "เกาะราวบันไดไว้นะ",
-            "en": "Hold on to the handrail."
+            "en": "Hold on to the handrail.",
+            "audio_src": "เกาะราวบันไดไว้นะ",
+            "audio_en_src": "Hold on to the handrail."
           }
         ]
       }
