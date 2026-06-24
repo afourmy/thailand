@@ -86074,7 +86074,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่สอง",
-    "audio_en_src": "second"
+    "audio_en_src": "second",
+    "examples": [
+      {
+        "meaning": "second (2nd)",
+        "sentences": [
+          {
+            "thai": "เขาได้ที่สองในการแข่ง",
+            "en": "He came second in the competition.",
+            "audio_src": "เขาได้ที่สองในการแข่ง",
+            "audio_en_src": "He came second in the competition."
+          },
+          {
+            "thai": "บ้านฉันอยู่ซอยที่สอง",
+            "en": "My house is on the second soi.",
+            "audio_src": "บ้านฉันอยู่ซอยที่สอง",
+            "audio_en_src": "My house is on the second soi."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-072",
@@ -86088,7 +86107,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่เหลือ",
-    "audio_en_src": "the rest"
+    "audio_en_src": "the rest",
+    "examples": [
+      {
+        "meaning": "the rest",
+        "sentences": [
+          {
+            "thai": "กินไม่หมด ที่เหลือเก็บไว้พรุ่งนี้",
+            "en": "I can't finish it, let's keep the rest for tomorrow.",
+            "audio_src": "กินไม่หมด ที่เหลือเก็บไว้พรุ่งนี้",
+            "audio_en_src": "I can't finish it, let's keep the rest for tomorrow."
+          },
+          {
+            "thai": "ที่เหลือเดี๋ยวฉันทำเอง",
+            "en": "I'll do the rest myself.",
+            "audio_src": "ที่เหลือเดี๋ยวฉันทำเอง",
+            "audio_en_src": "I'll do the rest myself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-074",
@@ -86112,7 +86150,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกคืน",
-    "audio_en_src": "every night"
+    "audio_en_src": "every night",
+    "examples": [
+      {
+        "meaning": "every night",
+        "sentences": [
+          {
+            "thai": "เขาดื่มนมอุ่นทุกคืนก่อนนอน",
+            "en": "He drinks warm milk every night before bed.",
+            "audio_src": "เขาดื่มนมอุ่นทุกคืนก่อนนอน",
+            "audio_en_src": "He drinks warm milk every night before bed."
+          },
+          {
+            "thai": "หมาเห่าทุกคืนเลย",
+            "en": "The dog barks every night.",
+            "audio_src": "หมาเห่าทุกคืนเลย",
+            "audio_en_src": "The dog barks every night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-076",
@@ -86126,7 +86183,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกเช้า",
-    "audio_en_src": "every morning"
+    "audio_en_src": "every morning",
+    "examples": [
+      {
+        "meaning": "every morning",
+        "sentences": [
+          {
+            "thai": "ฉันออกกำลังกายทุกเช้า",
+            "en": "I exercise every morning.",
+            "audio_src": "ฉันออกกำลังกายทุกเช้า",
+            "audio_en_src": "I exercise every morning."
+          },
+          {
+            "thai": "ทุกเช้าเขาดื่มกาแฟหนึ่งแก้ว",
+            "en": "Every morning he has a cup of coffee.",
+            "audio_src": "ทุกเช้าเขาดื่มกาแฟหนึ่งแก้ว",
+            "audio_en_src": "Every morning he has a cup of coffee."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-077",
@@ -86140,7 +86216,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกเดือน",
-    "audio_en_src": "every month"
+    "audio_en_src": "every month",
+    "examples": [
+      {
+        "meaning": "every month",
+        "sentences": [
+          {
+            "thai": "ฉันโอนเงินให้แม่ทุกเดือน",
+            "en": "I send money to my mom every month.",
+            "audio_src": "ฉันโอนเงินให้แม่ทุกเดือน",
+            "audio_en_src": "I send money to my mom every month."
+          },
+          {
+            "thai": "ค่าเช่าบ้านต้องจ่ายทุกเดือน",
+            "en": "The rent has to be paid every month.",
+            "audio_src": "ค่าเช่าบ้านต้องจ่ายทุกเดือน",
+            "audio_en_src": "The rent has to be paid every month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-079",
@@ -86154,7 +86249,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกปี",
-    "audio_en_src": "every year"
+    "audio_en_src": "every year",
+    "examples": [
+      {
+        "meaning": "every year",
+        "sentences": [
+          {
+            "thai": "ครอบครัวเราไปไหว้พระทุกปี",
+            "en": "Our family goes to the temple every year.",
+            "audio_src": "ครอบครัวเราไปไหว้พระทุกปี",
+            "audio_en_src": "Our family goes to the temple every year."
+          },
+          {
+            "thai": "ทุกปีเขากลับบ้านช่วงสงกรานต์",
+            "en": "Every year he goes home for Songkran.",
+            "audio_src": "ทุกปีเขากลับบ้านช่วงสงกรานต์",
+            "audio_en_src": "Every year he goes home for Songkran."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-080",
@@ -86168,7 +86282,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกเย็น",
-    "audio_en_src": "every evening"
+    "audio_en_src": "every evening",
+    "examples": [
+      {
+        "meaning": "every evening",
+        "sentences": [
+          {
+            "thai": "ทุกเย็นฉันพาหมาไปเดินเล่น",
+            "en": "Every evening I take the dog for a walk.",
+            "audio_src": "ทุกเย็นฉันพาหมาไปเดินเล่น",
+            "audio_en_src": "Every evening I take the dog for a walk."
+          },
+          {
+            "thai": "เขาไปฟิตเนสทุกเย็นหลังเลิกงาน",
+            "en": "He goes to the gym every evening after work.",
+            "audio_src": "เขาไปฟิตเนสทุกเย็นหลังเลิกงาน",
+            "audio_en_src": "He goes to the gym every evening after work."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-081",
@@ -86182,7 +86315,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกอาทิตย์",
-    "audio_en_src": "every week"
+    "audio_en_src": "every week",
+    "examples": [
+      {
+        "meaning": "every week",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อของเข้าบ้านทุกอาทิตย์",
+            "en": "I buy groceries every week.",
+            "audio_src": "ฉันซื้อของเข้าบ้านทุกอาทิตย์",
+            "audio_en_src": "I buy groceries every week."
+          },
+          {
+            "thai": "เขาโทรหาครอบครัวทุกอาทิตย์",
+            "en": "He calls his family every week.",
+            "audio_src": "เขาโทรหาครอบครัวทุกอาทิตย์",
+            "audio_en_src": "He calls his family every week."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-082",
@@ -86217,7 +86369,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นวด",
-    "audio_en_src": "massage"
+    "audio_en_src": "massage",
+    "examples": [
+      {
+        "meaning": "massage",
+        "sentences": [
+          {
+            "thai": "เมื่อยมาก ไปนวดดีกว่า",
+            "en": "I'm so sore, I'd better go get a massage.",
+            "audio_src": "เมื่อยมาก ไปนวดดีกว่า",
+            "audio_en_src": "I'm so sore, I'd better go get a massage."
+          },
+          {
+            "thai": "เขานวดเก่ง หายปวดเลย",
+            "en": "He's good at massage, the soreness is all gone.",
+            "audio_src": "เขานวดเก่ง หายปวดเลย",
+            "audio_en_src": "He's good at massage, the soreness is all gone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-085",
@@ -86237,6 +86408,25 @@
     "topic": "general",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "less",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ฝนตกน้อยลง",
+            "en": "It's been raining less lately.",
+            "audio_src": "ช่วงนี้ฝนตกน้อยลง",
+            "audio_en_src": "It's been raining less lately."
+          },
+          {
+            "thai": "กินหวานให้น้อยลงหน่อย",
+            "en": "Eat a little less sweet stuff.",
+            "audio_src": "กินหวานให้น้อยลงหน่อย",
+            "audio_en_src": "Eat a little less sweet stuff."
+          }
+        ]
+      }
     ]
   },
   {

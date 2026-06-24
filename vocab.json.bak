@@ -85424,7 +85424,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตรงนี้",
-    "audio_en_src": "over here, right here"
+    "audio_en_src": "over here, right here",
+    "examples": [
+      {
+        "meaning": "over here, right here",
+        "sentences": [
+          {
+            "thai": "มานั่งตรงนี้สิ",
+            "en": "Come sit over here.",
+            "audio_src": "มานั่งตรงนี้สิ",
+            "audio_en_src": "Come sit over here."
+          },
+          {
+            "thai": "วางของไว้ตรงนี้ก่อน",
+            "en": "Put your things right here for now.",
+            "audio_src": "วางของไว้ตรงนี้ก่อน",
+            "audio_en_src": "Put your things right here for now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-015",
@@ -85449,7 +85468,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตอนกลางคืน",
-    "audio_en_src": "at night, during the night"
+    "audio_en_src": "at night, during the night",
+    "examples": [
+      {
+        "meaning": "at night, during the night",
+        "sentences": [
+          {
+            "thai": "ตอนกลางคืนอากาศเย็นสบาย",
+            "en": "At night the weather is nice and cool.",
+            "audio_src": "ตอนกลางคืนอากาศเย็นสบาย",
+            "audio_en_src": "At night the weather is nice and cool."
+          },
+          {
+            "thai": "เขาชอบอ่านหนังสือตอนกลางคืน",
+            "en": "He likes reading at night.",
+            "audio_src": "เขาชอบอ่านหนังสือตอนกลางคืน",
+            "audio_en_src": "He likes reading at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-017",
@@ -85463,7 +85501,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตอนค่ำ",
-    "audio_en_src": "in the evening"
+    "audio_en_src": "in the evening",
+    "examples": [
+      {
+        "meaning": "in the evening (around dusk)",
+        "sentences": [
+          {
+            "thai": "ตอนค่ำเราไปกินข้าวนอกบ้านกัน",
+            "en": "In the evening let's go out for dinner.",
+            "audio_src": "ตอนค่ำเราไปกินข้าวนอกบ้านกัน",
+            "audio_en_src": "In the evening let's go out for dinner."
+          },
+          {
+            "thai": "ฝนมักตกตอนค่ำ",
+            "en": "It often rains in the evening.",
+            "audio_src": "ฝนมักตกตอนค่ำ",
+            "audio_en_src": "It often rains in the evening."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-020",
@@ -85590,7 +85647,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตื่น, ตื่นนอน",
-    "audio_en_src": "to wake up"
+    "audio_en_src": "to wake up",
+    "examples": [
+      {
+        "meaning": "to wake up",
+        "sentences": [
+          {
+            "thai": "เช้านี้ฉันตื่นสาย",
+            "en": "I woke up late this morning.",
+            "audio_src": "เช้านี้ฉันตื่นสาย",
+            "audio_en_src": "I woke up late this morning."
+          },
+          {
+            "thai": "ตื่นนอนแล้วดื่มน้ำหนึ่งแก้ว",
+            "en": "Drink a glass of water after you wake up.",
+            "audio_src": "ตื่นนอนแล้วดื่มน้ำหนึ่งแก้ว",
+            "audio_en_src": "Drink a glass of water after you wake up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-035",
@@ -85676,7 +85752,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เตียง, เตียงนอน",
-    "audio_en_src": "bed"
+    "audio_en_src": "bed",
+    "examples": [
+      {
+        "meaning": "bed",
+        "sentences": [
+          {
+            "thai": "เตียงนี้นอนสบายมาก",
+            "en": "This bed is really comfy.",
+            "audio_src": "เตียงนี้นอนสบายมาก",
+            "audio_en_src": "This bed is really comfy."
+          },
+          {
+            "thai": "เด็กกระโดดเล่นบนเตียง",
+            "en": "The kid is jumping on the bed.",
+            "audio_src": "เด็กกระโดดเล่นบนเตียง",
+            "audio_en_src": "The kid is jumping on the bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-044",
@@ -85731,7 +85826,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เที่ยว, ท่องเที่ยว",
-    "audio_en_src": "to go travelling, to travel for pleasure"
+    "audio_en_src": "to go travelling, to travel for pleasure",
+    "examples": [
+      {
+        "meaning": "to go travelling, to travel for pleasure",
+        "sentences": [
+          {
+            "thai": "ปีนี้อยากไปเที่ยวญี่ปุ่น",
+            "en": "This year I want to travel to Japan.",
+            "audio_src": "ปีนี้อยากไปเที่ยวญี่ปุ่น",
+            "audio_en_src": "This year I want to travel to Japan."
+          },
+          {
+            "thai": "วันหยุดเราไปเที่ยวทะเลกัน",
+            "en": "On the holiday we went to the beach.",
+            "audio_src": "วันหยุดเราไปเที่ยวทะเลกัน",
+            "audio_en_src": "On the holiday we went to the beach."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-052",
@@ -85766,7 +85880,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทางขวา",
-    "audio_en_src": "on the right"
+    "audio_en_src": "on the right",
+    "examples": [
+      {
+        "meaning": "on the right (hand side)",
+        "sentences": [
+          {
+            "thai": "ห้องน้ำอยู่ทางขวามือ",
+            "en": "The bathroom is on the right-hand side.",
+            "audio_src": "ห้องน้ำอยู่ทางขวามือ",
+            "audio_en_src": "The bathroom is on the right-hand side."
+          },
+          {
+            "thai": "เลี้ยวทางขวาตรงไฟแดง",
+            "en": "Turn right at the traffic light.",
+            "audio_src": "เลี้ยวทางขวาตรงไฟแดง",
+            "audio_en_src": "Turn right at the traffic light."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-057",
@@ -85781,7 +85914,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทางเข้า",
-    "audio_en_src": "way in, entrance"
+    "audio_en_src": "way in, entrance",
+    "examples": [
+      {
+        "meaning": "way in, entrance",
+        "sentences": [
+          {
+            "thai": "ทางเข้าอยู่ด้านหน้าตึก",
+            "en": "The entrance is at the front of the building.",
+            "audio_src": "ทางเข้าอยู่ด้านหน้าตึก",
+            "audio_en_src": "The entrance is at the front of the building."
+          },
+          {
+            "thai": "มีคนยืนรออยู่ที่ทางเข้า",
+            "en": "Someone is waiting at the entrance.",
+            "audio_src": "มีคนยืนรออยู่ที่ทางเข้า",
+            "audio_en_src": "Someone is waiting at the entrance."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-058",
@@ -85795,7 +85947,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทางซ้าย",
-    "audio_en_src": "on the left"
+    "audio_en_src": "on the left",
+    "examples": [
+      {
+        "meaning": "on the left (hand side)",
+        "sentences": [
+          {
+            "thai": "ร้านกาแฟอยู่ทางซ้ายมือ",
+            "en": "The coffee shop is on the left-hand side.",
+            "audio_src": "ร้านกาแฟอยู่ทางซ้ายมือ",
+            "audio_en_src": "The coffee shop is on the left-hand side."
+          },
+          {
+            "thai": "เดินไปทางซ้ายจะเจอลิฟต์",
+            "en": "Go left and you'll find the elevator.",
+            "audio_src": "เดินไปทางซ้ายจะเจอลิฟต์",
+            "audio_en_src": "Go left and you'll find the elevator."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-059",
@@ -85830,7 +86001,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทางออก",
-    "audio_en_src": "way out, exit"
+    "audio_en_src": "way out, exit",
+    "examples": [
+      {
+        "meaning": "way out, exit",
+        "sentences": [
+          {
+            "thai": "ทางออกอยู่ตรงไหน",
+            "en": "Where's the exit?",
+            "audio_src": "ทางออกอยู่ตรงไหน",
+            "audio_en_src": "Where's the exit?"
+          },
+          {
+            "thai": "เดินตามป้ายไปทางออก",
+            "en": "Follow the signs to the exit.",
+            "audio_src": "เดินตามป้ายไปทางออก",
+            "audio_en_src": "Follow the signs to the exit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c02-064",
