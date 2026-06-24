@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 921 words**
+**Total: 931 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -924,4 +924,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-070` : ก็ (so, then) : 1 meaning(s), 2 sentences
 - `wlt-c16-071` : กระเป๋า (bag) : 1 meaning(s), 2 sentences
 - `wlt-c16-075` : กี่ (how many) : 1 meaning(s), 2 sentences
+- `wlt-c16-077` : แขน (arm) : 1 meaning(s), 2 sentences
+- `wlt-c16-078` : ไข่ (egg) : 1 meaning(s), 2 sentences
+- `wlt-c16-079` : ครั้ง (times, occasions; classifier for time) : 2 meaning(s), 4 sentences
+- `wlt-c16-081` : เครื่องบิน (airplane) : 1 meaning(s), 2 sentences
+- `wlt-c16-082` : จำ (to remember, to recognize) : 1 meaning(s), 2 sentences
+- `wlt-c16-083` : เจ็ด (seven (7)) : 1 meaning(s), 2 sentences
+- `wlt-c16-085` : ช่วย (to help, please) : 1 meaning(s), 2 sentences
+- `wlt-c16-086` : ชั้น (class, rank, grade, floor (in a building)) : 1 meaning(s), 2 sentences
+- `wlt-c16-087` : ชั่วโมง (hour) : 1 meaning(s), 2 sentences
+- `wlt-c16-091` : ดึก (late at night) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
