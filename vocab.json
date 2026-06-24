@@ -11125,7 +11125,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "...ไปก่อน",
-    "audio_en_src": "'... for now'"
+    "audio_en_src": "'... for now'",
+    "examples": [
+      {
+        "meaning": "'... for now'",
+        "sentences": [
+          {
+            "thai": "กินข้าวไปก่อน เดี๋ยวค่อยทำงาน",
+            "en": "Eat first, do the work later.",
+            "audio_src": "กินข้าวไปก่อน เดี๋ยวค่อยทำงาน",
+            "audio_en_src": "Eat first, do the work later."
+          },
+          {
+            "thai": "ใช้อันนี้ไปก่อนนะ",
+            "en": "Use this one for now.",
+            "audio_src": "ใช้อันนี้ไปก่อนนะ",
+            "audio_en_src": "Use this one for now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-006",
@@ -11139,7 +11158,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรื่อยๆ",
-    "audio_en_src": "to keep doing sth"
+    "audio_en_src": "to keep doing sth",
+    "examples": [
+      {
+        "meaning": "to keep doing sth (continuously)",
+        "sentences": [
+          {
+            "thai": "ทำไปเรื่อยๆ เดี๋ยวก็เสร็จ",
+            "en": "Just keep at it, it’ll get done.",
+            "audio_src": "ทำไปเรื่อยๆ เดี๋ยวก็เสร็จ",
+            "audio_en_src": "Just keep at it, it’ll get done."
+          },
+          {
+            "thai": "ฝนตกเรื่อยๆ ทั้งวัน",
+            "en": "It kept raining all day.",
+            "audio_src": "ฝนตกเรื่อยๆ ทั้งวัน",
+            "audio_en_src": "It kept raining all day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-008",
@@ -11417,7 +11455,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กว่าจะ",
-    "audio_en_src": "until, by the time"
+    "audio_en_src": "until, by the time",
+    "examples": [
+      {
+        "meaning": "until, by the time",
+        "sentences": [
+          {
+            "thai": "กว่าจะถึงบ้านก็ดึกแล้ว",
+            "en": "By the time I got home it was already late.",
+            "audio_src": "กว่าจะถึงบ้านก็ดึกแล้ว",
+            "audio_en_src": "By the time I got home it was already late."
+          },
+          {
+            "thai": "กว่าจะหางานได้ ใช้เวลาตั้งนาน",
+            "en": "It took forever to find a job.",
+            "audio_src": "กว่าจะหางานได้ ใช้เวลาตั้งนาน",
+            "audio_en_src": "It took forever to find a job."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-031",
@@ -11434,7 +11491,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กะ",
-    "audio_en_src": "shift; to plan to; to estimate, to gauge"
+    "audio_en_src": "shift; to plan to; to estimate, to gauge",
+    "examples": [
+      {
+        "meaning": "shift (work)",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันเข้ากะดึก",
+            "en": "I’m on the night shift today.",
+            "audio_src": "วันนี้ฉันเข้ากะดึก",
+            "audio_en_src": "I’m on the night shift today."
+          },
+          {
+            "thai": "เขาทำงานกะเช้า",
+            "en": "He works the morning shift.",
+            "audio_src": "เขาทำงานกะเช้า",
+            "audio_en_src": "He works the morning shift."
+          }
+        ]
+      },
+      {
+        "meaning": "to plan to",
+        "sentences": [
+          {
+            "thai": "กะว่าจะไปเที่ยวเสาร์นี้",
+            "en": "I’m planning to go out this Saturday.",
+            "audio_src": "กะว่าจะไปเที่ยวเสาร์นี้",
+            "audio_en_src": "I’m planning to go out this Saturday."
+          },
+          {
+            "thai": "ไม่ได้กะว่าจะเจอเธอที่นี่",
+            "en": "I didn’t plan to run into you here.",
+            "audio_src": "ไม่ได้กะว่าจะเจอเธอที่นี่",
+            "audio_en_src": "I didn’t plan to run into you here."
+          }
+        ]
+      },
+      {
+        "meaning": "to estimate, to gauge",
+        "sentences": [
+          {
+            "thai": "กะระยะทางด้วยสายตา",
+            "en": "Estimate the distance by eye.",
+            "audio_src": "กะระยะทางด้วยสายตา",
+            "audio_en_src": "Estimate the distance by eye."
+          },
+          {
+            "thai": "กะเวลาให้ดี เดี๋ยวไปไม่ทัน",
+            "en": "Time it well, or you’ll be late.",
+            "audio_src": "กะเวลาให้ดี เดี๋ยวไปไม่ทัน",
+            "audio_en_src": "Time it well, or you’ll be late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-032",
@@ -11448,7 +11558,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กะจะ",
-    "audio_en_src": "to plan to, to intend to"
+    "audio_en_src": "to plan to, to intend to",
+    "examples": [
+      {
+        "meaning": "to plan to, to intend to",
+        "sentences": [
+          {
+            "thai": "กะจะโทรหาพอดีเลย",
+            "en": "I was just about to call you.",
+            "audio_src": "กะจะโทรหาพอดีเลย",
+            "audio_en_src": "I was just about to call you."
+          },
+          {
+            "thai": "กะจะนอนเร็ว แต่ดูซีรีส์เพลิน",
+            "en": "I meant to sleep early, but got hooked on a series.",
+            "audio_src": "กะจะนอนเร็ว แต่ดูซีรีส์เพลิน",
+            "audio_en_src": "I meant to sleep early, but got hooked on a series."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-033",
@@ -11569,7 +11698,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กำลังจะ",
-    "audio_en_src": "to be about to"
+    "audio_en_src": "to be about to",
+    "examples": [
+      {
+        "meaning": "to be about to",
+        "sentences": [
+          {
+            "thai": "ฉันกำลังจะออกจากบ้านพอดี",
+            "en": "I’m just about to leave the house.",
+            "audio_src": "ฉันกำลังจะออกจากบ้านพอดี",
+            "audio_en_src": "I’m just about to leave the house."
+          },
+          {
+            "thai": "รถไฟกำลังจะออกแล้ว รีบหน่อย",
+            "en": "The train’s about to leave, hurry up.",
+            "audio_src": "รถไฟกำลังจะออกแล้ว รีบหน่อย",
+            "audio_en_src": "The train’s about to leave, hurry up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-044",
@@ -12010,7 +12158,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าวโพด",
-    "audio_en_src": "corn"
+    "audio_en_src": "corn",
+    "examples": [
+      {
+        "meaning": "corn",
+        "sentences": [
+          {
+            "thai": "ซื้อข้าวโพดต้มมากินกัน",
+            "en": "Let’s get some boiled corn to eat.",
+            "audio_src": "ซื้อข้าวโพดต้มมากินกัน",
+            "audio_en_src": "Let’s get some boiled corn to eat."
+          },
+          {
+            "thai": "ข้าวโพดคั่วในโรงหนังแพงมาก",
+            "en": "Popcorn at the movies is so expensive.",
+            "audio_src": "ข้าวโพดคั่วในโรงหนังแพงมาก",
+            "audio_en_src": "Popcorn at the movies is so expensive."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-075",
@@ -12682,7 +12849,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชัดๆ",
-    "audio_en_src": "clearly, definitely"
+    "audio_en_src": "clearly, definitely",
+    "examples": [
+      {
+        "meaning": "clearly, definitely",
+        "sentences": [
+          {
+            "thai": "พูดให้ชัดๆ หน่อย",
+            "en": "Speak more clearly.",
+            "audio_src": "พูดให้ชัดๆ หน่อย",
+            "audio_en_src": "Speak more clearly."
+          },
+          {
+            "thai": "ถ่ายรูปให้ชัดๆ นะ",
+            "en": "Take the photo nice and clear.",
+            "audio_src": "ถ่ายรูปให้ชัดๆ นะ",
+            "audio_en_src": "Take the photo nice and clear."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-118",
@@ -12817,7 +13003,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซวย",
-    "audio_en_src": "unfortunate, bad luck, unlucky, screwed"
+    "audio_en_src": "unfortunate, bad luck, unlucky, screwed",
+    "examples": [
+      {
+        "meaning": "unfortunate, bad luck, unlucky, screwed (slang)",
+        "sentences": [
+          {
+            "thai": "วันนี้ซวยจริงๆ รถเสียกลางทาง",
+            "en": "What rotten luck today, the car broke down on the way.",
+            "audio_src": "วันนี้ซวยจริงๆ รถเสียกลางทาง",
+            "audio_en_src": "What rotten luck today, the car broke down on the way."
+          },
+          {
+            "thai": "ลืมเอากระเป๋าตังค์มา ซวยเลย",
+            "en": "I forgot my wallet, just my luck.",
+            "audio_src": "ลืมเอากระเป๋าตังค์มา ซวยเลย",
+            "audio_en_src": "I forgot my wallet, just my luck."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-129",
@@ -12923,7 +13128,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดอก",
-    "audio_en_src": "flower; classifier for small objects"
+    "audio_en_src": "flower; classifier for small objects",
+    "examples": [
+      {
+        "meaning": "classifier for various small objects (flowers, keys, firecrackers, etc)",
+        "sentences": [
+          {
+            "thai": "ขอซื้อกุหลาบสิบดอก",
+            "en": "Ten roses, please.",
+            "audio_src": "ขอซื้อกุหลาบสิบดอก",
+            "audio_en_src": "Ten roses, please."
+          },
+          {
+            "thai": "ทำกุญแจหายไปดอกหนึ่ง",
+            "en": "I lost one of my keys.",
+            "audio_src": "ทำกุญแจหายไปดอกหนึ่ง",
+            "audio_en_src": "I lost one of my keys."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-136",

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 71 words**
+**Total: 81 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -38,13 +38,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
+- `tamago-l12-003` : ...ไปก่อน ('... for now') : 1 meaning(s), 2 sentences
+- `tamago-l12-006` : เรื่อยๆ (to keep doing sth (continuously)) : 1 meaning(s), 2 sentences
 - `tamago-l12-008` : ไหว (to be able to, have the capacity (physical or mental) to) : 1 meaning(s), 2 sentences
 - `tamago-l12-009` : กดปุ่ม (to press a button) : 1 meaning(s), 2 sentences
 - `tamago-l12-026` : กล้วย (banana) : 1 meaning(s), 2 sentences
+- `tamago-l12-030` : กว่าจะ (until, by the time) : 1 meaning(s), 2 sentences
+- `tamago-l12-031` : กะ (shift (work); to plan to; to estimate, to gauge) : 3 meaning(s), 6 sentences
+- `tamago-l12-032` : กะจะ (to plan to, to intend to) : 1 meaning(s), 2 sentences
+- `tamago-l12-043` : กำลังจะ (to be about to) : 1 meaning(s), 2 sentences
 - `tamago-l12-046` : ก้อน (lump; classifier for chunks (e.g money, ice)) : 2 meaning(s), 4 sentences
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
 - `tamago-l12-068` : ข้าม (to cross, pass over; to skip) : 2 meaning(s), 4 sentences
 - `tamago-l12-070` : ข้าวสวย (cooked rice (steamed)) : 1 meaning(s), 2 sentences
+- `tamago-l12-073` : ข้าวโพด (corn) : 1 meaning(s), 2 sentences
 - `tamago-l12-085` : คัน (to feel itchy) : 1 meaning(s), 2 sentences
 - `tamago-l12-089` : คิด (to think; to charge (a price)) : 2 meaning(s), 4 sentences
 - `tamago-l12-092` : คืน (to return (something)) : 1 meaning(s), 2 sentences
@@ -54,8 +61,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-109` : จิ้ม (to dip (e.g food in sauce)) : 1 meaning(s), 2 sentences
 - `tamago-l12-110` : จืด, จืดจาง (bland, tasteless) : 1 meaning(s), 2 sentences
 - `tamago-l12-112` : ฉลอง, เฉลิมฉลอง (to celebrate) : 1 meaning(s), 2 sentences
+- `tamago-l12-117` : ชัดๆ (clearly, definitely) : 1 meaning(s), 2 sentences
 - `tamago-l12-127` : ช้อน (spoon) : 1 meaning(s), 2 sentences
+- `tamago-l12-128` : ซวย (unfortunate, bad luck, unlucky, screwed (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-132` : ซีอิ๊ว (soy sauce) : 1 meaning(s), 2 sentences
+- `tamago-l12-135` : ดอก (classifier for various small objects (flowers, keys, firecrackers, etc)) : 1 meaning(s), 2 sentences
 - `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l12-173` : ต้ม (to boil) : 1 meaning(s), 2 sentences
 - `tamago-l12-192` : ทอด (to deep-fry) : 1 meaning(s), 2 sentences
