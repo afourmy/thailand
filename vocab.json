@@ -56471,11 +56471,15 @@
         "sentences": [
           {
             "thai": "พี่น้องคู่นี้หน้าคล้ายกันมาก",
-            "en": "These two siblings look very similar."
+            "en": "These two siblings look very similar.",
+            "audio_src": "พี่น้องคู่นี้หน้าคล้ายกันมาก",
+            "audio_en_src": "These two siblings look very similar."
           },
           {
             "thai": "เสื้อสองตัวนี้สีคล้ายกัน",
-            "en": "These two shirts are a similar color."
+            "en": "These two shirts are a similar color.",
+            "audio_src": "เสื้อสองตัวนี้สีคล้ายกัน",
+            "audio_en_src": "These two shirts are a similar color."
           }
         ]
       }
@@ -56525,11 +56529,15 @@
         "sentences": [
           {
             "thai": "วันหยุดนี้มีแผนจะไปไหนไหม",
-            "en": "Do you have any plans for the holiday?"
+            "en": "Do you have any plans for the holiday?",
+            "audio_src": "วันหยุดนี้มีแผนจะไปไหนไหม",
+            "audio_en_src": "Do you have any plans for the holiday?"
           },
           {
             "thai": "ทุกอย่างเป็นไปตามแผน",
-            "en": "Everything went according to plan."
+            "en": "Everything went according to plan.",
+            "audio_src": "ทุกอย่างเป็นไปตามแผน",
+            "audio_en_src": "Everything went according to plan."
           }
         ]
       }
@@ -56732,11 +56740,15 @@
         "sentences": [
           {
             "thai": "สลัดใส่มะเขือเทศด้วย",
-            "en": "Put tomatoes in the salad too."
+            "en": "Put tomatoes in the salad too.",
+            "audio_src": "สลัดใส่มะเขือเทศด้วย",
+            "audio_en_src": "Put tomatoes in the salad too."
           },
           {
             "thai": "มะเขือเทศลูกนี้สุกแล้ว",
-            "en": "This tomato is ripe."
+            "en": "This tomato is ripe.",
+            "audio_src": "มะเขือเทศลูกนี้สุกแล้ว",
+            "audio_en_src": "This tomato is ripe."
           }
         ]
       }
@@ -56864,11 +56876,15 @@
         "sentences": [
           {
             "thai": "เขาวางแผนอนาคตไว้ดี",
-            "en": "He has planned his future well."
+            "en": "He has planned his future well.",
+            "audio_src": "เขาวางแผนอนาคตไว้ดี",
+            "audio_en_src": "He has planned his future well."
           },
           {
             "thai": "ในอนาคตฉันอยากมีร้านกาแฟ",
-            "en": "In the future I'd like to have a coffee shop."
+            "en": "In the future I'd like to have a coffee shop.",
+            "audio_src": "ในอนาคตฉันอยากมีร้านกาแฟ",
+            "audio_en_src": "In the future I'd like to have a coffee shop."
           }
         ]
       }
@@ -56916,11 +56932,15 @@
         "sentences": [
           {
             "thai": "วันนี้ปวดหัวตั้งแต่เช้า",
-            "en": "I've had a headache since this morning."
+            "en": "I've had a headache since this morning.",
+            "audio_src": "วันนี้ปวดหัวตั้งแต่เช้า",
+            "audio_en_src": "I've had a headache since this morning."
           },
           {
             "thai": "เรื่องนี้ปวดหัวจริงๆ",
-            "en": "This whole thing is such a headache."
+            "en": "This whole thing is such a headache.",
+            "audio_src": "เรื่องนี้ปวดหัวจริงๆ",
+            "audio_en_src": "This whole thing is such a headache."
           }
         ]
       }
@@ -57054,11 +57074,15 @@
         "sentences": [
           {
             "thai": "พ่ออ่านหนังสือพิมพ์ทุกเช้า",
-            "en": "Dad reads the newspaper every morning."
+            "en": "Dad reads the newspaper every morning.",
+            "audio_src": "พ่ออ่านหนังสือพิมพ์ทุกเช้า",
+            "audio_en_src": "Dad reads the newspaper every morning."
           },
           {
             "thai": "ข่าวนี้ลงหนังสือพิมพ์ด้วย",
-            "en": "This news was in the newspaper too."
+            "en": "This news was in the newspaper too.",
+            "audio_src": "ข่าวนี้ลงหนังสือพิมพ์ด้วย",
+            "audio_en_src": "This news was in the newspaper too."
           }
         ]
       }
@@ -57108,11 +57132,15 @@
         "sentences": [
           {
             "thai": "วันนี้มีประชุมสำคัญ",
-            "en": "There's an important meeting today."
+            "en": "There's an important meeting today.",
+            "audio_src": "วันนี้มีประชุมสำคัญ",
+            "audio_en_src": "There's an important meeting today."
           },
           {
             "thai": "สุขภาพสำคัญที่สุด",
-            "en": "Health is the most important thing."
+            "en": "Health is the most important thing.",
+            "audio_src": "สุขภาพสำคัญที่สุด",
+            "audio_en_src": "Health is the most important thing."
           }
         ]
       }
@@ -57139,11 +57167,15 @@
         "sentences": [
           {
             "thai": "ตอนเย็นเราดูโทรทัศน์ด้วยกัน",
-            "en": "In the evening we watch television together."
+            "en": "In the evening we watch television together.",
+            "audio_src": "ตอนเย็นเราดูโทรทัศน์ด้วยกัน",
+            "audio_en_src": "In the evening we watch television together."
           },
           {
             "thai": "โทรทัศน์เครื่องนี้เก่าแล้ว",
-            "en": "This television is old now."
+            "en": "This television is old now.",
+            "audio_src": "โทรทัศน์เครื่องนี้เก่าแล้ว",
+            "audio_en_src": "This television is old now."
           }
         ]
       }
@@ -57333,11 +57365,15 @@
         "sentences": [
           {
             "thai": "เขาโกรธที่ฉันมาสาย",
-            "en": "He's angry that I was late."
+            "en": "He's angry that I was late.",
+            "audio_src": "เขาโกรธที่ฉันมาสาย",
+            "audio_en_src": "He's angry that I was late."
           },
           {
             "thai": "อย่าโกรธเลยนะ ฉันขอโทษ",
-            "en": "Don't be mad, I'm sorry."
+            "en": "Don't be mad, I'm sorry.",
+            "audio_src": "อย่าโกรธเลยนะ ฉันขอโทษ",
+            "audio_en_src": "Don't be mad, I'm sorry."
           }
         ]
       }
@@ -57463,11 +57499,15 @@
         "sentences": [
           {
             "thai": "กางเกงหลวม ต้องใส่เข็มขัด",
-            "en": "The pants are loose, I need to wear a belt."
+            "en": "The pants are loose, I need to wear a belt.",
+            "audio_src": "กางเกงหลวม ต้องใส่เข็มขัด",
+            "audio_en_src": "The pants are loose, I need to wear a belt."
           },
           {
             "thai": "เข็มขัดเส้นนี้เข้ากับรองเท้า",
-            "en": "This belt matches the shoes."
+            "en": "This belt matches the shoes.",
+            "audio_src": "เข็มขัดเส้นนี้เข้ากับรองเท้า",
+            "audio_en_src": "This belt matches the shoes."
           }
         ]
       }
