@@ -87065,7 +87065,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปีนี้",
-    "audio_en_src": "this year"
+    "audio_en_src": "this year",
+    "examples": [
+      {
+        "meaning": "this year",
+        "sentences": [
+          {
+            "thai": "ปีนี้ฉันตั้งใจจะออมเงิน",
+            "en": "This year I plan to save money.",
+            "audio_src": "ปีนี้ฉันตั้งใจจะออมเงิน",
+            "audio_en_src": "This year I plan to save money."
+          },
+          {
+            "thai": "อากาศปีนี้ร้อนกว่าทุกปี",
+            "en": "The weather this year is hotter than usual.",
+            "audio_src": "อากาศปีนี้ร้อนกว่าทุกปี",
+            "audio_en_src": "The weather this year is hotter than usual."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-038",
@@ -87079,7 +87098,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปีหน้า",
-    "audio_en_src": "next year"
+    "audio_en_src": "next year",
+    "examples": [
+      {
+        "meaning": "next year",
+        "sentences": [
+          {
+            "thai": "ปีหน้าฉันจะไปเรียนต่อ",
+            "en": "Next year I'm going to continue my studies.",
+            "audio_src": "ปีหน้าฉันจะไปเรียนต่อ",
+            "audio_en_src": "Next year I'm going to continue my studies."
+          },
+          {
+            "thai": "เก็บเงินไว้เที่ยวปีหน้า",
+            "en": "I'm saving money to travel next year.",
+            "audio_src": "เก็บเงินไว้เที่ยวปีหน้า",
+            "audio_en_src": "I'm saving money to travel next year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-039",
@@ -87093,7 +87131,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปู่ย่าตายาย",
-    "audio_en_src": "grandparents"
+    "audio_en_src": "grandparents",
+    "examples": [
+      {
+        "meaning": "grandparents",
+        "sentences": [
+          {
+            "thai": "ปู่ย่าตายายอยู่ที่ต่างจังหวัด",
+            "en": "My grandparents live in the countryside.",
+            "audio_src": "ปู่ย่าตายายอยู่ที่ต่างจังหวัด",
+            "audio_en_src": "My grandparents live in the countryside."
+          },
+          {
+            "thai": "เด็กๆรักปู่ย่าตายายมาก",
+            "en": "The kids love their grandparents very much.",
+            "audio_src": "เด็กๆรักปู่ย่าตายายมาก",
+            "audio_en_src": "The kids love their grandparents very much."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-040",
@@ -87117,7 +87174,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เป็นห่วง",
-    "audio_en_src": "to be worried, to be concerned about"
+    "audio_en_src": "to be worried, to be concerned about",
+    "examples": [
+      {
+        "meaning": "to be worried, to be concerned about",
+        "sentences": [
+          {
+            "thai": "แม่เป็นห่วงเวลาฉันกลับบ้านดึก",
+            "en": "Mom worries when I come home late.",
+            "audio_src": "แม่เป็นห่วงเวลาฉันกลับบ้านดึก",
+            "audio_en_src": "Mom worries when I come home late."
+          },
+          {
+            "thai": "ไม่ต้องเป็นห่วงนะ ฉันไม่เป็นไร",
+            "en": "Don't worry, I'm fine.",
+            "audio_src": "ไม่ต้องเป็นห่วงนะ ฉันไม่เป็นไร",
+            "audio_en_src": "Don't worry, I'm fine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-043",
@@ -87131,7 +87207,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แปดสิบ",
-    "audio_en_src": "eighty"
+    "audio_en_src": "eighty",
+    "examples": [
+      {
+        "meaning": "eighty (80)",
+        "sentences": [
+          {
+            "thai": "คุณปู่อายุแปดสิบแล้วยังแข็งแรง",
+            "en": "Grandpa is eighty and still strong.",
+            "audio_src": "คุณปู่อายุแปดสิบแล้วยังแข็งแรง",
+            "audio_en_src": "Grandpa is eighty and still strong."
+          },
+          {
+            "thai": "หนังสือเล่มนี้แปดสิบบาท",
+            "en": "This book is eighty baht.",
+            "audio_src": "หนังสือเล่มนี้แปดสิบบาท",
+            "audio_en_src": "This book is eighty baht."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-049",
@@ -87175,7 +87270,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผัดไทย",
-    "audio_en_src": "pad thai"
+    "audio_en_src": "pad thai",
+    "examples": [
+      {
+        "meaning": "pad thai",
+        "sentences": [
+          {
+            "thai": "ขอผัดไทยกุ้งสดหนึ่งจาน",
+            "en": "One pad thai with fresh shrimp, please.",
+            "audio_src": "ขอผัดไทยกุ้งสดหนึ่งจาน",
+            "audio_en_src": "One pad thai with fresh shrimp, please."
+          },
+          {
+            "thai": "ผัดไทยร้านนี้อร่อยที่สุด",
+            "en": "The pad thai here is the best.",
+            "audio_src": "ผัดไทยร้านนี้อร่อยที่สุด",
+            "audio_en_src": "The pad thai here is the best."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-055",
@@ -87209,7 +87323,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พรุ่งนี้เช้า",
-    "audio_en_src": "tomorrow morning"
+    "audio_en_src": "tomorrow morning",
+    "examples": [
+      {
+        "meaning": "tomorrow morning",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้เช้าฉันต้องตื่นแต่เช้า",
+            "en": "Tomorrow morning I have to get up early.",
+            "audio_src": "พรุ่งนี้เช้าฉันต้องตื่นแต่เช้า",
+            "audio_en_src": "Tomorrow morning I have to get up early."
+          },
+          {
+            "thai": "เจอกันพรุ่งนี้เช้าที่หน้าร้าน",
+            "en": "See you tomorrow morning in front of the shop.",
+            "audio_src": "เจอกันพรุ่งนี้เช้าที่หน้าร้าน",
+            "audio_en_src": "See you tomorrow morning in front of the shop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-061",
@@ -87334,7 +87467,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มากกว่า",
-    "audio_en_src": "more"
+    "audio_en_src": "more",
+    "examples": [
+      {
+        "meaning": "more (than something else)",
+        "sentences": [
+          {
+            "thai": "ฉันชอบหน้าร้อนมากกว่าหน้าหนาว",
+            "en": "I like summer more than winter.",
+            "audio_src": "ฉันชอบหน้าร้อนมากกว่าหน้าหนาว",
+            "audio_en_src": "I like summer more than winter."
+          },
+          {
+            "thai": "เขากินเยอะมากกว่าฉันอีก",
+            "en": "He eats even more than I do.",
+            "audio_src": "เขากินเยอะมากกว่าฉันอีก",
+            "audio_en_src": "He eats even more than I do."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-079",
@@ -87399,7 +87551,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มีนัด",
-    "audio_en_src": "to have an appointment"
+    "audio_en_src": "to have an appointment",
+    "examples": [
+      {
+        "meaning": "to have an appointment",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันมีนัดกับหมอ",
+            "en": "I have a doctor's appointment today.",
+            "audio_src": "วันนี้ฉันมีนัดกับหมอ",
+            "audio_en_src": "I have a doctor's appointment today."
+          },
+          {
+            "thai": "ขอโทษนะ เย็นนี้ฉันมีนัดแล้ว",
+            "en": "Sorry, I already have plans this evening.",
+            "audio_src": "ขอโทษนะ เย็นนี้ฉันมีนัดแล้ว",
+            "audio_en_src": "Sorry, I already have plans this evening."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-086",
@@ -87444,7 +87615,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อคืน, เมื่อคืนนี้",
-    "audio_en_src": "last night"
+    "audio_en_src": "last night",
+    "examples": [
+      {
+        "meaning": "last night",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนฉันนอนไม่หลับ",
+            "en": "Last night I couldn't sleep.",
+            "audio_src": "เมื่อคืนฉันนอนไม่หลับ",
+            "audio_en_src": "Last night I couldn't sleep."
+          },
+          {
+            "thai": "เมื่อคืนนี้ฝนตกหนักมาก",
+            "en": "It rained really hard last night.",
+            "audio_src": "เมื่อคืนนี้ฝนตกหนักมาก",
+            "audio_en_src": "It rained really hard last night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-092",

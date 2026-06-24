@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 531 words**
+**Total: 541 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -532,6 +532,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-078` : มากกว่า (more (than something else)) : 1 meaning(s), 2 sentences
 - `wlt-c03-085` : มีนัด (to have an appointment) : 1 meaning(s), 2 sentences
 - `wlt-c03-091` : เมื่อคืน, เมื่อคืนนี้ (last night) : 1 meaning(s), 2 sentences
+- `wlt-c03-092` : เมื่อเช้านี้ (this morning) : 1 meaning(s), 2 sentences
+- `wlt-c03-094` : เมื่อวานซืนนี้ (the day before yesterday) : 1 meaning(s), 2 sentences
+- `wlt-c03-098` : ไม่ถูก (wrong, incorrect) : 1 meaning(s), 2 sentences
+- `wlt-c04-000` : ไม่บ่อย (seldom, not often) : 1 meaning(s), 2 sentences
+- `wlt-c04-005` : ไม่มีอะไร (nothing) : 1 meaning(s), 2 sentences
+- `wlt-c04-015` : ยี่สิบสอง (twenty two (22)) : 1 meaning(s), 2 sentences
+- `wlt-c04-016` : ยุ่ง (busy) : 1 meaning(s), 2 sentences
+- `wlt-c04-020` : รองเท้าแตะ (sandals, flip-flops) : 1 meaning(s), 2 sentences
+- `wlt-c04-023` : ร้านขายของ (shop, store) : 1 meaning(s), 2 sentences
+- `wlt-c04-028` : เร็วๆนี้ (soon) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
