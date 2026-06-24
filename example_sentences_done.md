@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 841 words**
+**Total: 851 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -844,4 +844,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-033` : ข้างบน (above, on top, upstairs) : 1 meaning(s), 2 sentences
 - `wlt-c15-034` : ข้างล่าง (below, under) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
+- `wlt-c15-038` : เข้า (to enter) : 1 meaning(s), 2 sentences
+- `wlt-c15-039` : แข็ง (hard (not soft)) : 1 meaning(s), 2 sentences
+- `wlt-c15-040` : ไข้ (fever) : 1 meaning(s), 2 sentences
+- `wlt-c15-041` : ครึ่ง (half) : 1 meaning(s), 2 sentences
+- `wlt-c15-043` : คือ (to be, is) : 1 meaning(s), 2 sentences
+- `wlt-c15-046` : จมูก (nose) : 1 meaning(s), 2 sentences
+- `wlt-c15-047` : จีน (China, Chinese) : 1 meaning(s), 2 sentences
+- `wlt-c15-048` : เจอ (to meet; to encounter (unexpectedly)) : 2 meaning(s), 4 sentences
+- `wlt-c15-050` : ใจดี (kind-hearted) : 1 meaning(s), 2 sentences
+- `wlt-c15-052` : ชัด (plain, clear, distinct) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
