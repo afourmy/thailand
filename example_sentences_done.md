@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 811 words**
+**Total: 821 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -813,5 +813,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-064` : แล้วก็ (and, and then) : 1 meaning(s), 2 sentences
 - `wlt-c14-065` : วันที่ (date) : 1 meaning(s), 2 sentences
 - `wlt-c14-068` : แว่นตา (glasses) : 1 meaning(s), 2 sentences
+- `wlt-c14-071` : สตางค์ (satang) : 1 meaning(s), 2 sentences
+- `wlt-c14-080` : สอง ๒ (two (2)) : 1 meaning(s), 2 sentences
+- `wlt-c14-082` : สามารถ (can, be able to) : 1 meaning(s), 2 sentences
+- `wlt-c14-084` : สี่ ๔ (four (4)) : 1 meaning(s), 2 sentences
+- `wlt-c14-085` : สีขาว (white) : 1 meaning(s), 2 sentences
+- `wlt-c14-086` : สีม่วง (purple) : 1 meaning(s), 2 sentences
+- `wlt-c14-087` : เสียง (sound) : 1 meaning(s), 2 sentences
+- `wlt-c14-088` : เสื้อผ้า (clothes) : 1 meaning(s), 2 sentences
+- `wlt-c14-092` : หวัด (common cold) : 1 meaning(s), 2 sentences
+- `wlt-c14-093` : ห้าง (mall) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

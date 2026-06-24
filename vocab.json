@@ -103436,7 +103436,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สตางค์",
-    "audio_en_src": "satang"
+    "audio_en_src": "satang",
+    "examples": [
+      {
+        "meaning": "satang",
+        "sentences": [
+          {
+            "thai": "ขนมชิ้นนี้ห้าสิบสตางค์",
+            "en": "This snack costs fifty satang.",
+            "audio_src": "ขนมชิ้นนี้ห้าสิบสตางค์",
+            "audio_en_src": "This snack costs fifty satang."
+          },
+          {
+            "thai": "ฉันไม่มีเงินติดตัวสักสตางค์",
+            "en": "I don't have a single satang on me.",
+            "audio_src": "ฉันไม่มีเงินติดตัวสักสตางค์",
+            "audio_en_src": "I don't have a single satang on me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-073",
@@ -103482,7 +103501,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สอง ๒",
-    "audio_en_src": "two"
+    "audio_en_src": "two",
+    "examples": [
+      {
+        "meaning": "two (2)",
+        "sentences": [
+          {
+            "thai": "ขอกาแฟสองแก้ว",
+            "en": "Two coffees, please.",
+            "audio_src": "ขอกาแฟสองแก้ว",
+            "audio_en_src": "Two coffees, please."
+          },
+          {
+            "thai": "บ้านฉันมีห้องนอนสองห้อง",
+            "en": "My house has two bedrooms.",
+            "audio_src": "บ้านฉันมีห้องนอนสองห้อง",
+            "audio_en_src": "My house has two bedrooms."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-082",
@@ -103497,7 +103535,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สามารถ",
-    "audio_en_src": "can, be able to"
+    "audio_en_src": "can, be able to",
+    "examples": [
+      {
+        "meaning": "can, be able to",
+        "sentences": [
+          {
+            "thai": "เขาสามารถพูดได้สามภาษา",
+            "en": "He can speak three languages.",
+            "audio_src": "เขาสามารถพูดได้สามภาษา",
+            "audio_en_src": "He can speak three languages."
+          },
+          {
+            "thai": "ฉันไม่สามารถมางานได้ ขอโทษด้วย",
+            "en": "I won't be able to come to the event, sorry.",
+            "audio_src": "ฉันไม่สามารถมางานได้ ขอโทษด้วย",
+            "audio_en_src": "I won't be able to come to the event, sorry."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-083",
@@ -103521,7 +103578,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สี่ ๔",
-    "audio_en_src": "four"
+    "audio_en_src": "four",
+    "examples": [
+      {
+        "meaning": "four (4)",
+        "sentences": [
+          {
+            "thai": "โต๊ะนี้นั่งได้สี่คน",
+            "en": "This table seats four.",
+            "audio_src": "โต๊ะนี้นั่งได้สี่คน",
+            "audio_en_src": "This table seats four."
+          },
+          {
+            "thai": "แมวมีขาสี่ขา",
+            "en": "A cat has four legs.",
+            "audio_src": "แมวมีขาสี่ขา",
+            "audio_en_src": "A cat has four legs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-085",
@@ -103536,7 +103612,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีขาว",
-    "audio_en_src": "white"
+    "audio_en_src": "white",
+    "examples": [
+      {
+        "meaning": "white",
+        "sentences": [
+          {
+            "thai": "เขาใส่เสื้อสีขาวไปงาน",
+            "en": "He wore a white shirt to the event.",
+            "audio_src": "เขาใส่เสื้อสีขาวไปงาน",
+            "audio_en_src": "He wore a white shirt to the event."
+          },
+          {
+            "thai": "ฉันชอบรถสีขาวมากกว่าสีดำ",
+            "en": "I prefer white cars over black ones.",
+            "audio_src": "ฉันชอบรถสีขาวมากกว่าสีดำ",
+            "audio_en_src": "I prefer white cars over black ones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-086",
@@ -103551,7 +103646,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีม่วง",
-    "audio_en_src": "purple"
+    "audio_en_src": "purple",
+    "examples": [
+      {
+        "meaning": "purple",
+        "sentences": [
+          {
+            "thai": "ดอกไม้สีม่วงสวยมาก",
+            "en": "The purple flowers are beautiful.",
+            "audio_src": "ดอกไม้สีม่วงสวยมาก",
+            "audio_en_src": "The purple flowers are beautiful."
+          },
+          {
+            "thai": "เธอทาเล็บสีม่วง",
+            "en": "She painted her nails purple.",
+            "audio_src": "เธอทาเล็บสีม่วง",
+            "audio_en_src": "She painted her nails purple."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-087",
@@ -103566,7 +103680,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสียง",
-    "audio_en_src": "sound"
+    "audio_en_src": "sound",
+    "examples": [
+      {
+        "meaning": "sound",
+        "sentences": [
+          {
+            "thai": "เสียงเพลงดังมาจากห้องข้างๆ",
+            "en": "Music is coming from the next room.",
+            "audio_src": "เสียงเพลงดังมาจากห้องข้างๆ",
+            "audio_en_src": "Music is coming from the next room."
+          },
+          {
+            "thai": "เปิดทีวีเสียงเบาๆหน่อย",
+            "en": "Turn the TV volume down a bit.",
+            "audio_src": "เปิดทีวีเสียงเบาๆหน่อย",
+            "audio_en_src": "Turn the TV volume down a bit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-088",
@@ -103581,7 +103714,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสื้อผ้า",
-    "audio_en_src": "clothes"
+    "audio_en_src": "clothes",
+    "examples": [
+      {
+        "meaning": "clothes",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อเสื้อผ้าใหม่ไปงานแต่ง",
+            "en": "I bought new clothes for the wedding.",
+            "audio_src": "ฉันซื้อเสื้อผ้าใหม่ไปงานแต่ง",
+            "audio_en_src": "I bought new clothes for the wedding."
+          },
+          {
+            "thai": "ตากเสื้อผ้าให้แห้งก่อนเก็บ",
+            "en": "Let the clothes dry before putting them away.",
+            "audio_src": "ตากเสื้อผ้าให้แห้งก่อนเก็บ",
+            "audio_en_src": "Let the clothes dry before putting them away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-089",
@@ -103617,7 +103769,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หวัด",
-    "audio_en_src": "common cold"
+    "audio_en_src": "common cold",
+    "examples": [
+      {
+        "meaning": "common cold",
+        "sentences": [
+          {
+            "thai": "เป็นหวัดน้ำมูกไหลทั้งวัน",
+            "en": "I've got a cold, my nose has been running all day.",
+            "audio_src": "เป็นหวัดน้ำมูกไหลทั้งวัน",
+            "audio_en_src": "I've got a cold, my nose has been running all day."
+          },
+          {
+            "thai": "หวัดลงคอ เจ็บคอมาก",
+            "en": "The cold has settled in my throat, it really hurts.",
+            "audio_src": "หวัดลงคอ เจ็บคอมาก",
+            "audio_en_src": "The cold has settled in my throat, it really hurts."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-093",
@@ -103632,7 +103803,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห้าง",
-    "audio_en_src": "mall"
+    "audio_en_src": "mall",
+    "examples": [
+      {
+        "meaning": "mall",
+        "sentences": [
+          {
+            "thai": "วันหยุดคนไปเดินห้างเยอะ",
+            "en": "On holidays lots of people go to the mall.",
+            "audio_src": "วันหยุดคนไปเดินห้างเยอะ",
+            "audio_en_src": "On holidays lots of people go to the mall."
+          },
+          {
+            "thai": "ห้างนี้มีร้านอาหารเยอะมาก",
+            "en": "This mall has a lot of restaurants.",
+            "audio_src": "ห้างนี้มีร้านอาหารเยอะมาก",
+            "audio_en_src": "This mall has a lot of restaurants."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-094",

@@ -102918,7 +102918,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยาย",
-    "audio_en_src": "grandmother"
+    "audio_en_src": "grandmother",
+    "examples": [
+      {
+        "meaning": "grandmother (mother's mother)",
+        "sentences": [
+          {
+            "thai": "ยายเล่านิทานให้ฟังก่อนนอน",
+            "en": "Grandma tells me bedtime stories.",
+            "audio_src": "ยายเล่านิทานให้ฟังก่อนนอน",
+            "audio_en_src": "Grandma tells me bedtime stories."
+          },
+          {
+            "thai": "ฉันคิดถึงอาหารฝีมือยาย",
+            "en": "I miss grandma's home cooking.",
+            "audio_src": "ฉันคิดถึงอาหารฝีมือยาย",
+            "audio_en_src": "I miss grandma's home cooking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-044",
@@ -102933,7 +102952,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เยอะ, เยอะแยะ",
-    "audio_en_src": "a lot, plenty"
+    "audio_en_src": "a lot, plenty",
+    "examples": [
+      {
+        "meaning": "a lot, plenty",
+        "sentences": [
+          {
+            "thai": "วันนี้มีคนเยอะมาก",
+            "en": "There are a lot of people today.",
+            "audio_src": "วันนี้มีคนเยอะมาก",
+            "audio_en_src": "There are a lot of people today."
+          },
+          {
+            "thai": "งานเยอะแยะ ทำไม่ทัน",
+            "en": "There's so much work, I can't keep up.",
+            "audio_src": "งานเยอะแยะ ทำไม่ทัน",
+            "audio_en_src": "There's so much work, I can't keep up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-045",
@@ -102980,7 +103018,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้องไห้",
-    "audio_en_src": "to cry"
+    "audio_en_src": "to cry",
+    "examples": [
+      {
+        "meaning": "to cry",
+        "sentences": [
+          {
+            "thai": "เด็กร้องไห้เพราะหิว",
+            "en": "The baby is crying because it's hungry.",
+            "audio_src": "เด็กร้องไห้เพราะหิว",
+            "audio_en_src": "The baby is crying because it's hungry."
+          },
+          {
+            "thai": "ดูหนังเศร้าจนร้องไห้",
+            "en": "I watched a sad movie and cried.",
+            "audio_src": "ดูหนังเศร้าจนร้องไห้",
+            "audio_en_src": "I watched a sad movie and cried."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-050",
@@ -102995,7 +103052,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ระวัง",
-    "audio_en_src": "careful"
+    "audio_en_src": "careful",
+    "examples": [
+      {
+        "meaning": "careful",
+        "sentences": [
+          {
+            "thai": "ระวังรถด้วยตอนข้ามถนน",
+            "en": "Watch out for cars when you cross the road.",
+            "audio_src": "ระวังรถด้วยตอนข้ามถนน",
+            "audio_en_src": "Watch out for cars when you cross the road."
+          },
+          {
+            "thai": "ระวังลื่นนะ พื้นเปียก",
+            "en": "Careful, it's slippery, the floor is wet.",
+            "audio_src": "ระวังลื่นนะ พื้นเปียก",
+            "audio_en_src": "Careful, it's slippery, the floor is wet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-051",
@@ -103041,7 +103117,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รีบ",
-    "audio_en_src": "to hurry"
+    "audio_en_src": "to hurry",
+    "examples": [
+      {
+        "meaning": "to hurry",
+        "sentences": [
+          {
+            "thai": "รีบหน่อย เดี๋ยวตกรถ",
+            "en": "Hurry up, you'll miss the bus.",
+            "audio_src": "รีบหน่อย เดี๋ยวตกรถ",
+            "audio_en_src": "Hurry up, you'll miss the bus."
+          },
+          {
+            "thai": "ไม่ต้องรีบ ค่อยๆทำ",
+            "en": "No need to rush, take your time.",
+            "audio_src": "ไม่ต้องรีบ ค่อยๆทำ",
+            "audio_en_src": "No need to rush, take your time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-056",
@@ -103068,7 +103163,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลด",
-    "audio_en_src": "to reduce, to lower; to discount"
+    "audio_en_src": "to reduce, to lower; to discount",
+    "examples": [
+      {
+        "meaning": "to reduce, to lower",
+        "sentences": [
+          {
+            "thai": "หมอบอกให้ลดการกินหวาน",
+            "en": "The doctor told me to cut down on sweets.",
+            "audio_src": "หมอบอกให้ลดการกินหวาน",
+            "audio_en_src": "The doctor told me to cut down on sweets."
+          },
+          {
+            "thai": "ช่วยลดเสียงทีวีหน่อย",
+            "en": "Please turn down the TV volume.",
+            "audio_src": "ช่วยลดเสียงทีวีหน่อย",
+            "audio_en_src": "Please turn down the TV volume."
+          }
+        ]
+      },
+      {
+        "meaning": "to discount",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ลดราคาห้าสิบเปอร์เซ็นต์",
+            "en": "This shop has fifty percent off.",
+            "audio_src": "ร้านนี้ลดราคาห้าสิบเปอร์เซ็นต์",
+            "audio_en_src": "This shop has fifty percent off."
+          },
+          {
+            "thai": "ขอลดหน่อยได้ไหม",
+            "en": "Can you give me a discount?",
+            "audio_src": "ขอลดหน่อยได้ไหม",
+            "audio_en_src": "Can you give me a discount?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-058",
@@ -103105,7 +103236,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลอง",
-    "audio_en_src": "to try out"
+    "audio_en_src": "to try out",
+    "examples": [
+      {
+        "meaning": "to try out",
+        "sentences": [
+          {
+            "thai": "ลองชิมดูสิ อร่อยนะ",
+            "en": "Give it a taste, it's good.",
+            "audio_src": "ลองชิมดูสิ อร่อยนะ",
+            "audio_en_src": "Give it a taste, it's good."
+          },
+          {
+            "thai": "ขอลองเสื้อตัวนี้ได้ไหม",
+            "en": "Can I try on this shirt?",
+            "audio_src": "ขอลองเสื้อตัวนี้ได้ไหม",
+            "audio_en_src": "Can I try on this shirt?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-061",
@@ -103153,7 +103303,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แล้วก็",
-    "audio_en_src": "and, and then"
+    "audio_en_src": "and, and then",
+    "examples": [
+      {
+        "meaning": "and, and then",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อข้าวแล้วก็กลับบ้าน",
+            "en": "I bought food and then went home.",
+            "audio_src": "ฉันซื้อข้าวแล้วก็กลับบ้าน",
+            "audio_en_src": "I bought food and then went home."
+          },
+          {
+            "thai": "ใส่เกลือแล้วก็คนให้เข้ากัน",
+            "en": "Add salt and then stir to combine.",
+            "audio_src": "ใส่เกลือแล้วก็คนให้เข้ากัน",
+            "audio_en_src": "Add salt and then stir to combine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-065",
@@ -103169,7 +103338,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันที่",
-    "audio_en_src": "date"
+    "audio_en_src": "date",
+    "examples": [
+      {
+        "meaning": "date",
+        "sentences": [
+          {
+            "thai": "วันนี้วันที่เท่าไหร่",
+            "en": "What's the date today?",
+            "audio_src": "วันนี้วันที่เท่าไหร่",
+            "audio_en_src": "What's the date today?"
+          },
+          {
+            "thai": "นัดหมอวันที่สิบห้า",
+            "en": "The doctor's appointment is on the fifteenth.",
+            "audio_src": "นัดหมอวันที่สิบห้า",
+            "audio_en_src": "The doctor's appointment is on the fifteenth."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-066",
@@ -103204,7 +103392,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แว่นตา",
-    "audio_en_src": "glasses"
+    "audio_en_src": "glasses",
+    "examples": [
+      {
+        "meaning": "glasses",
+        "sentences": [
+          {
+            "thai": "ฉันลืมแว่นตาไว้ที่บ้าน",
+            "en": "I left my glasses at home.",
+            "audio_src": "ฉันลืมแว่นตาไว้ที่บ้าน",
+            "audio_en_src": "I left my glasses at home."
+          },
+          {
+            "thai": "ใส่แว่นตาแล้วมองชัดขึ้น",
+            "en": "With my glasses on, I can see more clearly.",
+            "audio_src": "ใส่แว่นตาแล้วมองชัดขึ้น",
+            "audio_en_src": "With my glasses on, I can see more clearly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c14-069",
