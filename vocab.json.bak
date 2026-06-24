@@ -127657,7 +127657,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำพริก",
-    "audio_en_src": "chili sauce"
+    "audio_en_src": "chili sauce",
+    "examples": [
+      {
+        "meaning": "chili sauce",
+        "sentences": [
+          {
+            "thai": "แม่ทำน้ำพริกอร่อยมาก",
+            "en": "My mom makes really good chili dip.",
+            "audio_src": "แม่ทำน้ำพริกอร่อยมาก",
+            "audio_en_src": "My mom makes really good chili dip."
+          },
+          {
+            "thai": "กินน้ำพริกกับผักสด",
+            "en": "Eat the chili dip with fresh vegetables.",
+            "audio_src": "กินน้ำพริกกับผักสด",
+            "audio_en_src": "Eat the chili dip with fresh vegetables."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c10-063",
@@ -128221,7 +128240,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นิดหนึ่ง",
-    "audio_en_src": "a little bit, just a little"
+    "audio_en_src": "a little bit, just a little",
+    "examples": [
+      {
+        "meaning": "a little bit, just a little",
+        "sentences": [
+          {
+            "thai": "ขอน้ำตาลนิดหนึ่ง",
+            "en": "Just a little sugar, please.",
+            "audio_src": "ขอน้ำตาลนิดหนึ่ง",
+            "audio_en_src": "Just a little sugar, please."
+          },
+          {
+            "thai": "รอนิดหนึ่งนะ เดี๋ยวมา",
+            "en": "Wait a sec, I'll be right there.",
+            "audio_src": "รอนิดหนึ่งนะ เดี๋ยวมา",
+            "audio_en_src": "Wait a sec, I'll be right there."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c11-038",
@@ -128765,7 +128803,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เค้ก",
-    "audio_en_src": "cake"
+    "audio_en_src": "cake",
+    "examples": [
+      {
+        "meaning": "cake",
+        "sentences": [
+          {
+            "thai": "วันเกิดฉันชอบกินเค้ก",
+            "en": "I like to eat cake on my birthday.",
+            "audio_src": "วันเกิดฉันชอบกินเค้ก",
+            "audio_en_src": "I like to eat cake on my birthday."
+          },
+          {
+            "thai": "เค้กชิ้นนี้หวานไป",
+            "en": "This piece of cake is too sweet.",
+            "audio_src": "เค้กชิ้นนี้หวานไป",
+            "audio_en_src": "This piece of cake is too sweet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c11-110",
@@ -129091,6 +129148,59 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "at",
+        "sentences": [
+          {
+            "thai": "เจอกันที่ร้านกาแฟ",
+            "en": "Let's meet at the coffee shop.",
+            "audio_src": "เจอกันที่ร้านกาแฟ",
+            "audio_en_src": "Let's meet at the coffee shop."
+          },
+          {
+            "thai": "ฉันทำงานที่ธนาคาร",
+            "en": "I work at a bank.",
+            "audio_src": "ฉันทำงานที่ธนาคาร",
+            "audio_en_src": "I work at a bank."
+          }
+        ]
+      },
+      {
+        "meaning": "that, which",
+        "sentences": [
+          {
+            "thai": "หนังที่ดูเมื่อวานสนุกมาก",
+            "en": "The movie I watched yesterday was great.",
+            "audio_src": "หนังที่ดูเมื่อวานสนุกมาก",
+            "audio_en_src": "The movie I watched yesterday was great."
+          },
+          {
+            "thai": "คนที่ยืนอยู่ตรงนั้นคือพี่ฉัน",
+            "en": "The person standing over there is my older sibling.",
+            "audio_src": "คนที่ยืนอยู่ตรงนั้นคือพี่ฉัน",
+            "audio_en_src": "The person standing over there is my older sibling."
+          }
+        ]
+      },
+      {
+        "meaning": "times, occasions",
+        "sentences": [
+          {
+            "thai": "เขาสอบได้ที่หนึ่ง",
+            "en": "He came in first place.",
+            "audio_src": "เขาสอบได้ที่หนึ่ง",
+            "audio_en_src": "He came in first place."
+          },
+          {
+            "thai": "ครั้งนี้เป็นที่สองที่ฉันมา",
+            "en": "This is the second time I've come.",
+            "audio_src": "ครั้งนี้เป็นที่สองที่ฉันมา",
+            "audio_en_src": "This is the second time I've come."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129101,6 +129211,42 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "can, to be able",
+        "sentences": [
+          {
+            "thai": "ฉันพูดภาษาไทยได้นิดหน่อย",
+            "en": "I can speak a little Thai.",
+            "audio_src": "ฉันพูดภาษาไทยได้นิดหน่อย",
+            "audio_en_src": "I can speak a little Thai."
+          },
+          {
+            "thai": "คุณมางานวันเสาร์ได้ไหม",
+            "en": "Can you come to the event on Saturday?",
+            "audio_src": "คุณมางานวันเสาร์ได้ไหม",
+            "audio_en_src": "Can you come to the event on Saturday?"
+          }
+        ]
+      },
+      {
+        "meaning": "to get, to obtain",
+        "sentences": [
+          {
+            "thai": "ฉันได้งานใหม่แล้ว",
+            "en": "I got a new job.",
+            "audio_src": "ฉันได้งานใหม่แล้ว",
+            "audio_en_src": "I got a new job."
+          },
+          {
+            "thai": "เขาได้รางวัลที่หนึ่ง",
+            "en": "He won first prize.",
+            "audio_src": "เขาได้รางวัลที่หนึ่ง",
+            "audio_en_src": "He won first prize."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129111,6 +129257,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "or",
+        "sentences": [
+          {
+            "thai": "เอาชาหรือกาแฟ",
+            "en": "Tea or coffee?",
+            "audio_src": "เอาชาหรือกาแฟ",
+            "audio_en_src": "Tea or coffee?"
+          },
+          {
+            "thai": "ไปหรือไม่ไป",
+            "en": "Are you going or not?",
+            "audio_src": "ไปหรือไม่ไป",
+            "audio_en_src": "Are you going or not?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -129151,6 +129316,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "no, not",
+        "sentences": [
+          {
+            "thai": "ฉันไม่หิว",
+            "en": "I'm not hungry.",
+            "audio_src": "ฉันไม่หิว",
+            "audio_en_src": "I'm not hungry."
+          },
+          {
+            "thai": "เขาไม่ชอบเผ็ด",
+            "en": "He doesn't like spicy food.",
+            "audio_src": "เขาไม่ชอบเผ็ด",
+            "audio_en_src": "He doesn't like spicy food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129171,6 +129355,42 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "result, effect, outcome",
+        "sentences": [
+          {
+            "thai": "ผลสอบออกแล้ว",
+            "en": "The exam results are out.",
+            "audio_src": "ผลสอบออกแล้ว",
+            "audio_en_src": "The exam results are out."
+          },
+          {
+            "thai": "ยานี้เห็นผลเร็วมาก",
+            "en": "This medicine works really fast.",
+            "audio_src": "ยานี้เห็นผลเร็วมาก",
+            "audio_en_src": "This medicine works really fast."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for fruit",
+        "sentences": [
+          {
+            "thai": "ขอแอปเปิลสองผล",
+            "en": "Two apples, please.",
+            "audio_src": "ขอแอปเปิลสองผล",
+            "audio_en_src": "Two apples, please."
+          },
+          {
+            "thai": "มะม่วงผลนี้สุกแล้ว",
+            "en": "This mango is ripe.",
+            "audio_src": "มะม่วงผลนี้สุกแล้ว",
+            "audio_en_src": "This mango is ripe."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129231,6 +129451,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "kilometer",
+        "sentences": [
+          {
+            "thai": "บ้านฉันอยู่ห่างจากที่ทำงานห้ากิโลเมตร",
+            "en": "My house is five kilometers from work.",
+            "audio_src": "บ้านฉันอยู่ห่างจากที่ทำงานห้ากิโลเมตร",
+            "audio_en_src": "My house is five kilometers from work."
+          },
+          {
+            "thai": "วันนี้ฉันวิ่งไปสิบกิโลเมตร",
+            "en": "I ran ten kilometers today.",
+            "audio_src": "วันนี้ฉันวิ่งไปสิบกิโลเมตร",
+            "audio_en_src": "I ran ten kilometers today."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129241,6 +129480,25 @@
     "topic": "general",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "except",
+        "sentences": [
+          {
+            "thai": "ทุกคนมากันหมด นอกจากเขา",
+            "en": "Everyone came except him.",
+            "audio_src": "ทุกคนมากันหมด นอกจากเขา",
+            "audio_en_src": "Everyone came except him."
+          },
+          {
+            "thai": "ฉันไม่กินอะไรเลย นอกจากข้าว",
+            "en": "I don't eat anything except rice.",
+            "audio_src": "ฉันไม่กินอะไรเลย นอกจากข้าว",
+            "audio_en_src": "I don't eat anything except rice."
+          }
+        ]
+      }
     ]
   },
   {
