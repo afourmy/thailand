@@ -23,7 +23,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เผื่อ",
-    "audio_en_src": "in case"
+    "audio_en_src": "in case",
+    "examples": [
+      {
+        "meaning": "in case",
+        "sentences": [
+          {
+            "thai": "พกร่มไปด้วย เผื่อฝนตก",
+            "en": "Bring an umbrella in case it rains."
+          },
+          {
+            "thai": "เก็บเงินไว้เผื่อฉุกเฉิน",
+            "en": "Save some money in case of an emergency."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-003",
@@ -158,7 +173,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คอย, รอคอย",
-    "audio_en_src": "to wait, await"
+    "audio_en_src": "to wait, await",
+    "examples": [
+      {
+        "meaning": "to wait, await",
+        "sentences": [
+          {
+            "thai": "ฉันจะคอยอยู่ตรงนี้",
+            "en": "I’ll wait right here."
+          },
+          {
+            "thai": "คอยแป๊บนึงนะ เดี๋ยวมา",
+            "en": "Wait a sec, I’ll be right back."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-010",
@@ -174,7 +204,48 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ส่วน",
-    "audio_en_src": "as for; while; part"
+    "audio_en_src": "as for; while; part",
+    "examples": [
+      {
+        "meaning": "as for",
+        "sentences": [
+          {
+            "thai": "ส่วนเรื่องเงิน ค่อยคุยทีหลัง",
+            "en": "As for the money, let’s talk later."
+          },
+          {
+            "thai": "ส่วนฉันขอไม่ไปดีกว่า",
+            "en": "As for me, I’d rather not go."
+          }
+        ]
+      },
+      {
+        "meaning": "while",
+        "sentences": [
+          {
+            "thai": "เขาชอบกาแฟ ส่วนฉันชอบชา",
+            "en": "He likes coffee, while I like tea."
+          },
+          {
+            "thai": "พี่ทำงาน ส่วนน้องยังเรียน",
+            "en": "The older one works, while the younger one is still studying."
+          }
+        ]
+      },
+      {
+        "meaning": "part",
+        "sentences": [
+          {
+            "thai": "นี่เป็นส่วนสำคัญของงาน",
+            "en": "This is an important part of the job."
+          },
+          {
+            "thai": "แบ่งเค้กเป็นแปดส่วน",
+            "en": "Cut the cake into eight pieces."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-011",
@@ -541,7 +612,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วัฒนธรรม",
-    "audio_en_src": "culture"
+    "audio_en_src": "culture",
+    "examples": [
+      {
+        "meaning": "culture",
+        "sentences": [
+          {
+            "thai": "อาหารเป็นส่วนหนึ่งของวัฒนธรรม",
+            "en": "Food is part of culture."
+          },
+          {
+            "thai": "แต่ละประเทศมีวัฒนธรรมต่างกัน",
+            "en": "Each country has a different culture."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-046",
@@ -1346,7 +1432,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เติบโต",
-    "audio_en_src": "to grow, to progress, to mature"
+    "audio_en_src": "to grow, to progress, to mature",
+    "examples": [
+      {
+        "meaning": "to grow, to progress, to mature",
+        "sentences": [
+          {
+            "thai": "ธุรกิจเติบโตขึ้นทุกปี",
+            "en": "The business grows every year."
+          },
+          {
+            "thai": "เด็กๆ เติบโตเร็วมาก",
+            "en": "Kids grow up so fast."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-121",
@@ -1362,7 +1463,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เต็มที่",
-    "audio_en_src": "to the utmost, fully, totally, wholeheartedly, 100%"
+    "audio_en_src": "to the utmost, fully, totally, wholeheartedly, 100%",
+    "examples": [
+      {
+        "meaning": "to the utmost, fully, totally, wholeheartedly, 100%",
+        "sentences": [
+          {
+            "thai": "ทำให้เต็มที่ ไม่ต้องกลัวพลาด",
+            "en": "Give it your all, don’t be afraid to fail."
+          },
+          {
+            "thai": "วันนี้เล่นกันเต็มที่เลย",
+            "en": "We went all out today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-122",
@@ -6169,7 +6285,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปรากฏ",
-    "audio_en_src": "to appear"
+    "audio_en_src": "to appear",
+    "examples": [
+      {
+        "meaning": "to appear",
+        "sentences": [
+          {
+            "thai": "จู่ๆ เขาก็ปรากฏตัวขึ้น",
+            "en": "He suddenly appeared."
+          },
+          {
+            "thai": "ชื่อของเขาปรากฏในข่าว",
+            "en": "His name appeared in the news."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-404",
@@ -6401,7 +6532,48 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นัด",
-    "audio_en_src": "meeting, appointment; game, match; classifier for gunshots, bullets"
+    "audio_en_src": "meeting, appointment; game, match; classifier for gunshots, bullets",
+    "examples": [
+      {
+        "meaning": "meeting, appointment",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้มีนัดกับหมอ",
+            "en": "I have a doctor’s appointment tomorrow."
+          },
+          {
+            "thai": "ขอเลื่อนนัดเป็นวันอื่นได้ไหม",
+            "en": "Can we reschedule the appointment to another day?"
+          }
+        ]
+      },
+      {
+        "meaning": "game, match",
+        "sentences": [
+          {
+            "thai": "นัดนี้ทีมเราชนะ",
+            "en": "Our team won this match."
+          },
+          {
+            "thai": "นัดต่อไปเป็นรอบชิงชนะเลิศ",
+            "en": "The next match is the final."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for gunshots, bullets",
+        "sentences": [
+          {
+            "thai": "ได้ยินเสียงปืนสองนัด",
+            "en": "I heard two gunshots."
+          },
+          {
+            "thai": "ตำรวจยิงขึ้นฟ้าหนึ่งนัด",
+            "en": "The police fired one shot into the air."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-426",
@@ -6886,7 +7058,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รูปแบบ",
-    "audio_en_src": "format, form, pattern, model"
+    "audio_en_src": "format, form, pattern, model",
+    "examples": [
+      {
+        "meaning": "format, form, pattern, model",
+        "sentences": [
+          {
+            "thai": "ชอบรูปแบบการสอนของครูคนนี้",
+            "en": "I like this teacher’s teaching style."
+          },
+          {
+            "thai": "รายงานต้องทำตามรูปแบบที่กำหนด",
+            "en": "The report must follow the required format."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-010",
@@ -9234,7 +9421,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เฉย",
-    "audio_en_src": "plain, just, simple; 'not as expected', 'not like one thought'"
+    "audio_en_src": "plain, just, simple; 'not as expected', 'not like one thought'",
+    "examples": [
+      {
+        "meaning": "plain, just, simple",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้เฉยๆ ไม่สนุกเท่าไหร่",
+            "en": "This movie was just so-so, not that fun."
+          },
+          {
+            "thai": "อยู่เฉยๆ อย่าเพิ่งไปไหน",
+            "en": "Just stay put, don’t go anywhere yet."
+          }
+        ]
+      },
+      {
+        "meaning": "'not as expected', 'not like one thought'",
+        "sentences": [
+          {
+            "thai": "ฉันโกรธมาก แต่เขากลับทำเฉย",
+            "en": "I was so angry, but he just acted like nothing happened."
+          },
+          {
+            "thai": "บอกข่าวใหญ่ไป เขาเฉยเลย",
+            "en": "I told him the big news and he was totally unfazed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-208",

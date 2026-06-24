@@ -2,11 +2,17 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 61 words**
+**Total: 71 words**
 
+- `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
 - `chula-l4-007` : เครียด (stressed) : 1 meaning(s), 2 sentences
+- `chula-l4-009` : คอย, รอคอย (to wait, await) : 1 meaning(s), 2 sentences
+- `chula-l4-010` : ส่วน (as for; while; part) : 3 meaning(s), 6 sentences
+- `chula-l4-045` : วัฒนธรรม (culture) : 1 meaning(s), 2 sentences
 - `chula-l4-046` : ประเพณี (tradition) : 1 meaning(s), 2 sentences
+- `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
+- `chula-l4-121` : เต็มที่ (to the utmost, fully, totally, wholeheartedly, 100%) : 1 meaning(s), 2 sentences
 - `chula-l4-148` : เจ็บ (to hurt, to be sore (e.g external pain, injury)) : 1 meaning(s), 2 sentences
 - `chula-l4-149` : ปวด (to ache (e.g internal pain)) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences
@@ -14,7 +20,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
+- `chula-l5-403` : ปรากฏ (to appear) : 1 meaning(s), 2 sentences
+- `chula-l5-424` : นัด (meeting, appointment; game, match; classifier for gunshots, bullets) : 3 meaning(s), 6 sentences
 - `chula-l5-457` : ย้ำ (to repeat, to emphasize, to reiterate) : 1 meaning(s), 2 sentences
+- `chula-l6-009` : รูปแบบ (format, form, pattern, model) : 1 meaning(s), 2 sentences
 - `chula-l6-018` : กรอก (to fill in (a form)) : 1 meaning(s), 2 sentences
 - `chula-l6-021` : ฝ่าย (team, group, side) : 1 meaning(s), 2 sentences
 - `chula-l6-042` : สวน (park, garden; against, in the opposite direction) : 2 meaning(s), 4 sentences
@@ -22,6 +31,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-087` : เชย (dated, outdated, old-fashioned) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
+- `chula-l6-207` : เฉย (plain, just, simple; 'not as expected', 'not like one thought') : 2 meaning(s), 4 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences
 - `chula-l6-235` : ซอย (alley; sliced, minced (food)) : 2 meaning(s), 4 sentences
 - `chula-l6-239` : คน (person; to stir (food)) : 2 meaning(s), 4 sentences
