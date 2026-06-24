@@ -92,6 +92,11 @@
   var SPEAKER_SVG =
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
 
+  // Examples control: opens a modal with the word's example sentences, rendered
+  // only for words that have an "examples" array in vocab.json.
+  var EX_BTN_SVG =
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
+
   var currentAudio = null;
   var playingBtn = null;
   function stopAudio() {
@@ -116,6 +121,92 @@
     btn.classList.add("playing");
     currentAudio.addEventListener("ended", stopAudio);
     currentAudio.play().catch(stopAudio);
+  }
+
+  // Play a single example-sentence file by its explicit src (one language at a
+  // time), reusing the same audio channel + .playing highlight as the word
+  // speaker so only one clip ever plays.
+  function playExSrc(btn) {
+    var src = btn.getAttribute("data-src");
+    if (!src) return;
+    stopAudio();
+    currentAudio = new Audio(src);
+    playingBtn = btn;
+    btn.classList.add("playing");
+    currentAudio.addEventListener("ended", stopAudio);
+    currentAudio.play().catch(stopAudio);
+  }
+
+  // ── Example sentences ───────────────────────────────────────────────────────
+  // Renders a word's per-meaning example sentences (see vocab.json "examples").
+  // Each sentence shows a Thai and an English line, each with its own speaker
+  // button. Audio follows a fixed naming convention keyed by word id + meaning
+  // index + sentence index; those mp3s don't exist until generated, so the
+  // buttons simply no-op (play() rejects) for now. Kept identical in flashcards.js.
+  function exAudioSrc(base, id, mi, si, en) {
+    return base + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
+  }
+  function buildExamplesHtml(word, base) {
+    var groups = word.examples || [];
+    if (!groups.length) return "";
+    var multi = groups.length > 1;
+    var html = '<div class="ex-block">';
+    groups.forEach(function (g, mi) {
+      html += '<div class="ex-meaning">';
+      if (multi) {
+        html += '<div class="ex-meaning-head">' +
+          '<span class="ex-meaning-num">' + (mi + 1) + '</span>' +
+          '<span class="ex-meaning-gloss">' + esc(g.meaning || "") + '</span>' +
+          '</div>';
+      }
+      html += '<ul class="ex-list">';
+      (g.sentences || []).forEach(function (s, si) {
+        var thSrc = escAttr(exAudioSrc(base, word.id, mi, si, false));
+        var enSrc = escAttr(exAudioSrc(base, word.id, mi, si, true));
+        html += '<li class="ex-item">' +
+          '<div class="ex-line ex-line--th">' +
+            '<button class="ex-play" type="button" data-src="' + thSrc + '" aria-label="Play Thai sentence">' + SPEAKER_SVG + '</button>' +
+            '<span class="ex-th" lang="th">' + esc(s.thai || "") + '</span>' +
+          '</div>' +
+          '<div class="ex-line ex-line--en">' +
+            '<button class="ex-play" type="button" data-src="' + enSrc + '" aria-label="Play English sentence">' + SPEAKER_SVG + '</button>' +
+            '<span class="ex-en">' + esc(s.en || "") + '</span>' +
+          '</div>' +
+        '</li>';
+      });
+      html += '</ul></div>';
+    });
+    return html + '</div>';
+  }
+
+  // Modal listing the word's example sentences. Closes on backdrop click, the ×,
+  // or Escape; sentence speaker buttons play through playExSrc.
+  function openExamplesModal(word) {
+    stopAudio();
+    var backdrop = document.createElement("div");
+    backdrop.className = "vocab-modal-backdrop ex-modal-backdrop";
+    backdrop.innerHTML =
+      '<div class="vocab-modal ex-modal">' +
+        '<button class="ex-modal-close" type="button" aria-label="Close">&times;</button>' +
+        '<div class="ex-modal-head">' +
+          '<span class="ex-modal-thai" lang="th">' + esc(word.thai) + '</span>' +
+          '<span class="ex-modal-en">' + esc(word.english) + '</span>' +
+        '</div>' +
+        buildExamplesHtml(word, audioBase) +
+      '</div>';
+    document.body.appendChild(backdrop);
+    function close() {
+      stopAudio();
+      if (backdrop.parentNode) document.body.removeChild(backdrop);
+      document.removeEventListener("keydown", onKey);
+    }
+    function onKey(e) { if (e.key === "Escape") close(); }
+    document.addEventListener("keydown", onKey);
+    backdrop.addEventListener("click", function (e) {
+      if (e.target === backdrop || e.target.closest(".ex-modal-close")) { close(); return; }
+      var play = e.target.closest(".ex-play");
+      if (play) playExSrc(play);
+    });
   }
 
   function fallbackCopy(text) {
@@ -294,8 +385,16 @@
     );
   }
 
+  function exBtn(word) {
+    if (!word.examples || !word.examples.length) return "";
+    return (
+      '<button class="vocab-ex-btn" type="button" aria-label="Example sentences"' +
+      ' title="Example sentences">' + EX_BTN_SVG + "</button>"
+    );
+  }
+
   function toolsHtml(word) {
-    return '<div class="vocab-tools">' + speakerBtn(word) + COPY_BTN + SUSPEND_BTN + deckBtnHtml(word) + '</div>';
+    return '<div class="vocab-tools">' + speakerBtn(word) + exBtn(word) + COPY_BTN + SUSPEND_BTN + deckBtnHtml(word) + '</div>';
   }
 
   function cardClasses(word, extra) {
@@ -614,6 +713,17 @@
     var speakBtn = e.target.closest(".vocab-speak");
     if (speakBtn) {
       playAudio(speakBtn);
+      return;
+    }
+
+    // Examples button: open the sentence modal for this card's word.
+    var exBtnEl = e.target.closest(".vocab-ex-btn");
+    if (exBtnEl) {
+      var exCard = e.target.closest(".vocab-card");
+      if (!exCard) return;
+      var exId = exCard.getAttribute("data-id");
+      var exWord = words.filter(function (w) { return w.id === exId; })[0];
+      if (exWord) openExamplesModal(exWord);
       return;
     }
 

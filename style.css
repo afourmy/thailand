@@ -2763,3 +2763,179 @@ body[data-thai-font="sarabun"] .fc-type-input { font-family: 'Sarabun', 'Noto Sa
 @media (prefers-reduced-motion: reduce) {
   .cov-fill { transition: none; }
 }
+
+/* ── Example sentences ────────────────────────────────────────────────────────
+   Shared by the flashcard reveal (.fc-ex) and the vocab examples modal
+   (.ex-modal). One card per meaning, each holding a list of sentence rows; each
+   row shows a Thai and an English line with its own speaker button. */
+.ex-block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  text-align: left;
+}
+.ex-meaning {
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.75rem 0.9rem;
+}
+.ex-meaning-head {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+.ex-meaning-num {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.45rem;
+  height: 1.45rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--accent);
+  border-radius: 50%;
+}
+.ex-meaning-gloss {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-soft);
+}
+.ex-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+.ex-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.ex-item + .ex-item {
+  border-top: 1px dashed var(--border);
+  padding-top: 0.65rem;
+}
+.ex-line {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.ex-th {
+  font-family: 'Sarabun', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--text);
+}
+body[data-thai-font="noto"] .ex-th { font-family: 'Noto Sans Thai', sans-serif; }
+.ex-en {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: var(--text-muted);
+}
+.ex-play {
+  flex: 0 0 auto;
+  width: 1.75rem;
+  height: 1.75rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s, border-color 0.15s;
+}
+.ex-play svg { width: 0.85rem; height: 0.85rem; }
+.ex-play:hover { color: var(--accent-strong); border-color: var(--accent); }
+.ex-play.playing { color: #fff; background: var(--accent); border-color: var(--accent); }
+.ex-line--en .ex-play { color: var(--text-muted); }
+.ex-line--en .ex-play:hover { color: var(--accent); }
+
+/* Flashcard reveal: examples sit between the card and the action buttons. */
+.fc-ex {
+  margin: 0.1rem 0 0.3rem;
+  animation: fc-reveal 0.22s ease;
+}
+
+/* Vocab examples button (in the per-card tools column). Matches the sibling
+   speaker / copy / suspend controls: a faintly-visible rounded square that
+   brightens on hover. */
+.vocab-ex-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border: 1px solid #e3e3e3;
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  opacity: 0.45;
+  transition: opacity 0.18s, color 0.18s, border-color 0.18s;
+}
+.vocab-ex-btn svg { width: 15px; height: 15px; }
+.vocab-card:hover .vocab-ex-btn,
+.vocab-card--flip:hover .vocab-ex-btn { opacity: 0.8; }
+.vocab-ex-btn:hover {
+  opacity: 1;
+  color: var(--accent-strong);
+  border-color: var(--accent);
+}
+
+/* Examples modal: wider than the confirm modal. The backdrop (not the modal) is
+   the scroll container, so a modal that fits shows no scrollbar at all and only
+   a genuinely tall list scrolls. align-items:flex-start + margin:auto keeps it
+   vertically centred when it fits, top-anchored (and scrollable) when it doesn't. */
+.ex-modal-backdrop {
+  align-items: flex-start;
+  overflow-y: auto;
+  padding: 1.2rem;
+}
+.ex-modal {
+  position: relative;
+  margin: auto;
+  max-width: 460px;
+  width: 92%;
+  text-align: left;
+}
+.ex-modal-head {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  margin-bottom: 0.95rem;
+  padding-right: 1.6rem;
+}
+.ex-modal-thai {
+  font-family: 'Sarabun', sans-serif;
+  font-size: 1.85rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--text);
+}
+body[data-thai-font="noto"] .ex-modal-thai { font-family: 'Noto Sans Thai', sans-serif; }
+.ex-modal-en {
+  font-size: 1rem;
+  color: var(--text-muted);
+}
+.ex-modal-close {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.6rem;
+  font-size: 1.7rem;
+  line-height: 1;
+  color: var(--text-muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.1rem 0.35rem;
+}
+.ex-modal-close:hover { color: var(--text); }

@@ -160,6 +160,69 @@
   function esc(s) {
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   }
+  function escAttr(s) { return esc(s).replace(/"/g, "&quot;"); }
+
+  // ── Example sentences ───────────────────────────────────────────────────────
+  // Renders a word's per-meaning example sentences (see vocab.json "examples").
+  // Each sentence shows a Thai and an English line, each with its own speaker
+  // button. Audio follows a fixed naming convention keyed by word id + meaning
+  // index + sentence index; those mp3s don't exist until generated, so the
+  // buttons simply no-op (play() rejects) for now. Kept identical in vocab.js.
+  var EX_SPEAKER_SVG =
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
+  function exAudioSrc(base, id, mi, si, en) {
+    return base + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
+  }
+  function buildExamplesHtml(word, base) {
+    var groups = word.examples || [];
+    if (!groups.length) return "";
+    var multi = groups.length > 1;
+    var html = '<div class="ex-block">';
+    groups.forEach(function (g, mi) {
+      html += '<div class="ex-meaning">';
+      if (multi) {
+        html += '<div class="ex-meaning-head">' +
+          '<span class="ex-meaning-num">' + (mi + 1) + '</span>' +
+          '<span class="ex-meaning-gloss">' + esc(g.meaning || "") + '</span>' +
+          '</div>';
+      }
+      html += '<ul class="ex-list">';
+      (g.sentences || []).forEach(function (s, si) {
+        var thSrc = escAttr(exAudioSrc(base, word.id, mi, si, false));
+        var enSrc = escAttr(exAudioSrc(base, word.id, mi, si, true));
+        html += '<li class="ex-item">' +
+          '<div class="ex-line ex-line--th">' +
+            '<button class="ex-play" type="button" data-src="' + thSrc + '" aria-label="Play Thai sentence">' + EX_SPEAKER_SVG + '</button>' +
+            '<span class="ex-th" lang="th">' + esc(s.thai || "") + '</span>' +
+          '</div>' +
+          '<div class="ex-line ex-line--en">' +
+            '<button class="ex-play" type="button" data-src="' + enSrc + '" aria-label="Play English sentence">' + EX_SPEAKER_SVG + '</button>' +
+            '<span class="ex-en">' + esc(s.en || "") + '</span>' +
+          '</div>' +
+        '</li>';
+      });
+      html += '</ul></div>';
+    });
+    return html + '</div>';
+  }
+
+  // Independent audio channel for example sentences (separate from the card's
+  // main speaker so the two never fight over one <audio>).
+  var exAudio = null, exBtn = null;
+  function stopExAudio() {
+    if (exAudio) { exAudio.pause(); exAudio = null; }
+    if (exBtn) { exBtn.classList.remove("playing"); exBtn = null; }
+  }
+  function playEx(btn) {
+    var src = btn.getAttribute("data-src");
+    if (!src) return;
+    stopExAudio();
+    exAudio = new Audio(src);
+    exBtn = btn;
+    btn.classList.add("playing");
+    exAudio.addEventListener("ended", stopExAudio);
+    exAudio.play().catch(stopExAudio);
+  }
 
   // ── Data + card construction ───────────────────────────────────────────────
   var words = [];
@@ -365,6 +428,11 @@
     backEl.hidden = true;
     $("fc-divider").hidden = true;
 
+    // Examples are hidden until the answer is revealed; reset any prior card's.
+    stopExAudio();
+    var exHost = $("fc-examples");
+    if (exHost) { exHost.hidden = true; exHost.innerHTML = ""; }
+
     // Speaker reflects the side currently on screen (the front, until reveal).
     var speak = $("fc-speak");
     var frontSrc = sideAudio(word, f.frontThai);
@@ -496,6 +564,14 @@
     speak.dataset.src = backSrc;
     speak.hidden = !backSrc;
     if (backSrc) playAudio();
+
+    // Reveal the example sentences (if any) below the card.
+    var exHost = $("fc-examples");
+    if (exHost) {
+      var exHtml = buildExamplesHtml(info.word, audioBase);
+      exHost.innerHTML = exHtml;
+      exHost.hidden = !exHtml;
+    }
   }
 
   function grade(g) {
@@ -534,6 +610,7 @@
   // just return to the start screen with refreshed counts.
   function goHome() {
     resetProduce();
+    stopExAudio();
     refreshStats();
     show(homeEl);
   }
@@ -735,6 +812,12 @@
     $("fc-grades").addEventListener("click", function (e) {
       var btn = e.target.closest("button[data-grade]");
       if (btn) grade(+btn.getAttribute("data-grade"));
+    });
+
+    // Example-sentence speaker buttons (Thai / English per sentence).
+    $("fc-examples").addEventListener("click", function (e) {
+      var play = e.target.closest(".ex-play");
+      if (play) playEx(play);
     });
 
     // Type mode: no feedback while typing; Enter checks (reveals).
