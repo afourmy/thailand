@@ -98063,6 +98063,25 @@
     "topic": "general",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to go to meet, to visit someone",
+        "sentences": [
+          {
+            "thai": "วันหยุดฉันไปหายายที่บ้านนอก",
+            "en": "On my day off I visit grandma in the countryside.",
+            "audio_src": "วันหยุดฉันไปหายายที่บ้านนอก",
+            "audio_en_src": "On my day off I visit grandma in the countryside."
+          },
+          {
+            "thai": "เดี๋ยวฉันจะไปหาเธอที่ทำงาน",
+            "en": "I'll come see you at work.",
+            "audio_src": "เดี๋ยวฉันจะไปหาเธอที่ทำงาน",
+            "audio_en_src": "I'll come see you at work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98131,7 +98150,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฝึก, หัด, ฝึกหัด",
-    "audio_en_src": "to practise, exercise, train"
+    "audio_en_src": "to practise, exercise, train",
+    "examples": [
+      {
+        "meaning": "to practise, exercise, train",
+        "sentences": [
+          {
+            "thai": "ฉันฝึกพูดภาษาไทยทุกวัน",
+            "en": "I practice speaking Thai every day.",
+            "audio_src": "ฉันฝึกพูดภาษาไทยทุกวัน",
+            "audio_en_src": "I practice speaking Thai every day."
+          },
+          {
+            "thai": "เขาหัดเล่นกีตาร์มาหลายเดือนแล้ว",
+            "en": "He's been practicing guitar for several months.",
+            "audio_src": "เขาหัดเล่นกีตาร์มาหลายเดือนแล้ว",
+            "audio_en_src": "He's been practicing guitar for several months."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-057",
@@ -98178,7 +98216,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พอดี",
-    "audio_en_src": "just right"
+    "audio_en_src": "just right",
+    "examples": [
+      {
+        "meaning": "just right",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้ใส่พอดีเลย",
+            "en": "This shirt fits just right.",
+            "audio_src": "เสื้อตัวนี้ใส่พอดีเลย",
+            "audio_en_src": "This shirt fits just right."
+          },
+          {
+            "thai": "มาพอดี ฉันกำลังจะโทรหา",
+            "en": "Perfect timing, I was just about to call you.",
+            "audio_src": "มาพอดี ฉันกำลังจะโทรหา",
+            "audio_en_src": "Perfect timing, I was just about to call you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-061",
@@ -98194,7 +98251,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พักผ่อน",
-    "audio_en_src": "to rest"
+    "audio_en_src": "to rest",
+    "examples": [
+      {
+        "meaning": "to rest",
+        "sentences": [
+          {
+            "thai": "ทำงานหนักมาทั้งสัปดาห์ ขอพักผ่อนบ้าง",
+            "en": "I've worked hard all week, I need some rest.",
+            "audio_src": "ทำงานหนักมาทั้งสัปดาห์ ขอพักผ่อนบ้าง",
+            "audio_en_src": "I've worked hard all week, I need some rest."
+          },
+          {
+            "thai": "วันหยุดควรพักผ่อนให้เต็มที่",
+            "en": "On holidays you should rest as much as you can.",
+            "audio_src": "วันหยุดควรพักผ่อนให้เต็มที่",
+            "audio_en_src": "On holidays you should rest as much as you can."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-062",
@@ -98230,7 +98306,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพิ่ม, เพิ่มขึ้น",
-    "audio_en_src": "to increase"
+    "audio_en_src": "to increase",
+    "examples": [
+      {
+        "meaning": "to increase",
+        "sentences": [
+          {
+            "thai": "ร้านขอเพิ่มราคาอีกนิด",
+            "en": "The shop raised the price a little.",
+            "audio_src": "ร้านขอเพิ่มราคาอีกนิด",
+            "audio_en_src": "The shop raised the price a little."
+          },
+          {
+            "thai": "ช่วงนี้ค่าครองชีพเพิ่มขึ้นมาก",
+            "en": "The cost of living has increased a lot lately.",
+            "audio_src": "ช่วงนี้ค่าครองชีพเพิ่มขึ้นมาก",
+            "audio_en_src": "The cost of living has increased a lot lately."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-066",
@@ -98244,7 +98339,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพิ่ง",
-    "audio_en_src": "just"
+    "audio_en_src": "just",
+    "examples": [
+      {
+        "meaning": "just (immediately before)",
+        "sentences": [
+          {
+            "thai": "ฉันเพิ่งกินข้าวเสร็จ",
+            "en": "I just finished eating.",
+            "audio_src": "ฉันเพิ่งกินข้าวเสร็จ",
+            "audio_en_src": "I just finished eating."
+          },
+          {
+            "thai": "เขาเพิ่งมาถึงเมื่อกี้",
+            "en": "He just arrived a moment ago.",
+            "audio_src": "เขาเพิ่งมาถึงเมื่อกี้",
+            "audio_en_src": "He just arrived a moment ago."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-069",
@@ -98310,7 +98424,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมา",
-    "audio_en_src": "drunk"
+    "audio_en_src": "drunk",
+    "examples": [
+      {
+        "meaning": "drunk",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนเขาเมาจนเดินไม่ไหว",
+            "en": "Last night he got so drunk he couldn't walk.",
+            "audio_src": "เมื่อคืนเขาเมาจนเดินไม่ไหว",
+            "audio_en_src": "Last night he got so drunk he couldn't walk."
+          },
+          {
+            "thai": "ดื่มนิดเดียวก็เมาแล้ว",
+            "en": "Just one little drink and I'm already drunk.",
+            "audio_src": "ดื่มนิดเดียวก็เมาแล้ว",
+            "audio_en_src": "Just one little drink and I'm already drunk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-077",
@@ -98325,7 +98458,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมีย",
-    "audio_en_src": "wife, long-term girlfriend"
+    "audio_en_src": "wife, long-term girlfriend",
+    "examples": [
+      {
+        "meaning": "wife, long-term girlfriend (informal)",
+        "sentences": [
+          {
+            "thai": "เมียผมทำกับข้าวอร่อยมาก",
+            "en": "My wife cooks really well.",
+            "audio_src": "เมียผมทำกับข้าวอร่อยมาก",
+            "audio_en_src": "My wife cooks really well."
+          },
+          {
+            "thai": "เขาพาเมียไปเที่ยวทะเล",
+            "en": "He took his wife to the beach.",
+            "audio_src": "เขาพาเมียไปเที่ยวทะเล",
+            "audio_en_src": "He took his wife to the beach."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-079",
@@ -98340,7 +98492,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อไหร่",
-    "audio_en_src": "when"
+    "audio_en_src": "when",
+    "examples": [
+      {
+        "meaning": "when (question word)",
+        "sentences": [
+          {
+            "thai": "เธอจะกลับมาเมื่อไหร่",
+            "en": "When will you come back?",
+            "audio_src": "เธอจะกลับมาเมื่อไหร่",
+            "audio_en_src": "When will you come back?"
+          },
+          {
+            "thai": "เราจะเจอกันอีกเมื่อไหร่",
+            "en": "When will we meet again?",
+            "audio_src": "เราจะเจอกันอีกเมื่อไหร่",
+            "audio_en_src": "When will we meet again?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-080",
@@ -98376,7 +98547,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โมง",
-    "audio_en_src": "o'clock, time"
+    "audio_en_src": "o'clock, time",
+    "examples": [
+      {
+        "meaning": "o'clock, time",
+        "sentences": [
+          {
+            "thai": "ตอนนี้บ่ายสองโมงแล้ว",
+            "en": "It's two o'clock in the afternoon now.",
+            "audio_src": "ตอนนี้บ่ายสองโมงแล้ว",
+            "audio_en_src": "It's two o'clock in the afternoon now."
+          },
+          {
+            "thai": "เจอกันสิบโมงเช้านะ",
+            "en": "See you at ten in the morning.",
+            "audio_src": "เจอกันสิบโมงเช้านะ",
+            "audio_en_src": "See you at ten in the morning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-083",

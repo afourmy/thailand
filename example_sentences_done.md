@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 711 words**
+**Total: 721 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -713,5 +713,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-077` : เมีย (wife, long-term girlfriend (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-079` : เมื่อไหร่ (when (question word)) : 1 meaning(s), 2 sentences
 - `wlt-c11-082` : โมง (o'clock, time) : 1 meaning(s), 2 sentences
+- `wlt-c11-086` : ไม่สบาย (unwell) : 1 meaning(s), 2 sentences
+- `wlt-c11-088` : ยี่สิบ (twenty (20)) : 1 meaning(s), 2 sentences
+- `wlt-c11-094` : รอ (to wait) : 1 meaning(s), 2 sentences
+- `wlt-c11-095` : ร้องเพลง (to sing) : 1 meaning(s), 2 sentences
+- `wlt-c12-000` : รางวัล (prize, award, trophy) : 1 meaning(s), 2 sentences
+- `wlt-c12-001` : ร้านกาแฟ (coffee shop) : 1 meaning(s), 2 sentences
+- `wlt-c12-004` : เรียกว่า (to be called) : 1 meaning(s), 2 sentences
+- `wlt-c12-011` : ล่าง (lower, bottom) : 1 meaning(s), 2 sentences
+- `wlt-c12-016` : ลูกค้า (customer) : 1 meaning(s), 2 sentences
+- `wlt-c12-017` : ลูกชาย (son) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

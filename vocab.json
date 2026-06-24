@@ -98610,7 +98610,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่สบาย",
-    "audio_en_src": "unwell"
+    "audio_en_src": "unwell",
+    "examples": [
+      {
+        "meaning": "unwell",
+        "sentences": [
+          {
+            "thai": "ฉันไม่สบาย ขอลาหยุดวันนึง",
+            "en": "I'm not feeling well, I'd like to take a day off.",
+            "audio_src": "ฉันไม่สบาย ขอลาหยุดวันนึง",
+            "audio_en_src": "I'm not feeling well, I'd like to take a day off."
+          },
+          {
+            "thai": "ถ้าไม่สบายก็ไปพบหมอนะ",
+            "en": "If you're not well, go see a doctor.",
+            "audio_src": "ถ้าไม่สบายก็ไปพบหมอนะ",
+            "audio_en_src": "If you're not well, go see a doctor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-087",
@@ -98635,7 +98654,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยี่สิบ",
-    "audio_en_src": "twenty"
+    "audio_en_src": "twenty",
+    "examples": [
+      {
+        "meaning": "twenty (20)",
+        "sentences": [
+          {
+            "thai": "ในชั้นเรียนมีนักเรียนยี่สิบคน",
+            "en": "There are twenty students in the class.",
+            "audio_src": "ในชั้นเรียนมีนักเรียนยี่สิบคน",
+            "audio_en_src": "There are twenty students in the class."
+          },
+          {
+            "thai": "ลดราคายี่สิบเปอร์เซ็นต์",
+            "en": "Twenty percent off.",
+            "audio_src": "ลดราคายี่สิบเปอร์เซ็นต์",
+            "audio_en_src": "Twenty percent off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-089",
@@ -98683,7 +98721,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รอ",
-    "audio_en_src": "to wait"
+    "audio_en_src": "to wait",
+    "examples": [
+      {
+        "meaning": "to wait",
+        "sentences": [
+          {
+            "thai": "ฉันรอเธออยู่หน้าร้าน",
+            "en": "I'm waiting for you in front of the shop.",
+            "audio_src": "ฉันรอเธออยู่หน้าร้าน",
+            "audio_en_src": "I'm waiting for you in front of the shop."
+          },
+          {
+            "thai": "รอแป๊บนึงนะ ใกล้เสร็จแล้ว",
+            "en": "Wait a sec, it's almost done.",
+            "audio_src": "รอแป๊บนึงนะ ใกล้เสร็จแล้ว",
+            "audio_en_src": "Wait a sec, it's almost done."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-095",
@@ -98699,7 +98756,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้องเพลง",
-    "audio_en_src": "to sing"
+    "audio_en_src": "to sing",
+    "examples": [
+      {
+        "meaning": "to sing",
+        "sentences": [
+          {
+            "thai": "เขาชอบร้องเพลงตอนอาบน้ำ",
+            "en": "He likes singing in the shower.",
+            "audio_src": "เขาชอบร้องเพลงตอนอาบน้ำ",
+            "audio_en_src": "He likes singing in the shower."
+          },
+          {
+            "thai": "คืนนี้ไปร้องเพลงคาราโอเกะกัน",
+            "en": "Let's go sing karaoke tonight.",
+            "audio_src": "คืนนี้ไปร้องเพลงคาราโอเกะกัน",
+            "audio_en_src": "Let's go sing karaoke tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c11-096",
@@ -98744,6 +98820,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "prize, award, trophy",
+        "sentences": [
+          {
+            "thai": "เขาได้รางวัลที่หนึ่งในการแข่งขัน",
+            "en": "He won first prize in the competition.",
+            "audio_src": "เขาได้รางวัลที่หนึ่งในการแข่งขัน",
+            "audio_en_src": "He won first prize in the competition."
+          },
+          {
+            "thai": "หนังเรื่องนี้ได้รางวัลหลายสาขา",
+            "en": "This movie won awards in several categories.",
+            "audio_src": "หนังเรื่องนี้ได้รางวัลหลายสาขา",
+            "audio_en_src": "This movie won awards in several categories."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98758,7 +98853,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้านกาแฟ",
-    "audio_en_src": "coffee shop"
+    "audio_en_src": "coffee shop",
+    "examples": [
+      {
+        "meaning": "coffee shop",
+        "sentences": [
+          {
+            "thai": "เจอกันที่ร้านกาแฟใกล้บ้าน",
+            "en": "Let's meet at the coffee shop near my place.",
+            "audio_src": "เจอกันที่ร้านกาแฟใกล้บ้าน",
+            "audio_en_src": "Let's meet at the coffee shop near my place."
+          },
+          {
+            "thai": "ร้านกาแฟร้านนี้บรรยากาศดี",
+            "en": "This coffee shop has a nice atmosphere.",
+            "audio_src": "ร้านกาแฟร้านนี้บรรยากาศดี",
+            "audio_en_src": "This coffee shop has a nice atmosphere."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-002",
@@ -98795,7 +98909,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรียกว่า",
-    "audio_en_src": "to be called"
+    "audio_en_src": "to be called",
+    "examples": [
+      {
+        "meaning": "to be called",
+        "sentences": [
+          {
+            "thai": "ขนมชนิดนี้เรียกว่าทองหยิบ",
+            "en": "This kind of dessert is called thong yip.",
+            "audio_src": "ขนมชนิดนี้เรียกว่าทองหยิบ",
+            "audio_en_src": "This kind of dessert is called thong yip."
+          },
+          {
+            "thai": "สิ่งที่เธอทำเรียกว่าความใจดี",
+            "en": "What you did is called kindness.",
+            "audio_src": "สิ่งที่เธอทำเรียกว่าความใจดี",
+            "audio_en_src": "What you did is called kindness."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-005",
@@ -98863,7 +98996,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ล่าง",
-    "audio_en_src": "lower, bottom"
+    "audio_en_src": "lower, bottom",
+    "examples": [
+      {
+        "meaning": "lower, bottom",
+        "sentences": [
+          {
+            "thai": "หนังสืออยู่ชั้นล่างสุดของตู้",
+            "en": "The book is on the bottom shelf of the cabinet.",
+            "audio_src": "หนังสืออยู่ชั้นล่างสุดของตู้",
+            "audio_en_src": "The book is on the bottom shelf of the cabinet."
+          },
+          {
+            "thai": "กดปุ่มด้านล่างเพื่อเริ่มต้น",
+            "en": "Press the button below to start.",
+            "audio_src": "กดปุ่มด้านล่างเพื่อเริ่มต้น",
+            "audio_en_src": "Press the button below to start."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-012",
@@ -98920,7 +99072,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลูกค้า",
-    "audio_en_src": "customer"
+    "audio_en_src": "customer",
+    "examples": [
+      {
+        "meaning": "customer",
+        "sentences": [
+          {
+            "thai": "วันนี้ลูกค้าเยอะมาก",
+            "en": "There are a lot of customers today.",
+            "audio_src": "วันนี้ลูกค้าเยอะมาก",
+            "audio_en_src": "There are a lot of customers today."
+          },
+          {
+            "thai": "พนักงานยิ้มต้อนรับลูกค้า",
+            "en": "The staff smiled to welcome the customers.",
+            "audio_src": "พนักงานยิ้มต้อนรับลูกค้า",
+            "audio_en_src": "The staff smiled to welcome the customers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-017",
@@ -98935,7 +99106,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลูกชาย",
-    "audio_en_src": "son"
+    "audio_en_src": "son",
+    "examples": [
+      {
+        "meaning": "son",
+        "sentences": [
+          {
+            "thai": "ลูกชายเขาเรียนเก่งมาก",
+            "en": "His son is very good at school.",
+            "audio_src": "ลูกชายเขาเรียนเก่งมาก",
+            "audio_en_src": "His son is very good at school."
+          },
+          {
+            "thai": "เธอมีลูกชายสองคน",
+            "en": "She has two sons.",
+            "audio_src": "เธอมีลูกชายสองคน",
+            "audio_en_src": "She has two sons."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-018",
