@@ -39571,7 +39571,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห่วง",
-    "audio_en_src": "to be concerned, to worry; loop, ring, hoop"
+    "audio_en_src": "to be concerned, to worry; loop, ring, hoop",
+    "examples": [
+      {
+        "meaning": "to be concerned, to worry",
+        "sentences": [
+          {
+            "thai": "แม่เป็นห่วงลูกตลอด",
+            "en": "Moms always worry about their kids.",
+            "audio_src": "แม่เป็นห่วงลูกตลอด",
+            "audio_en_src": "Moms always worry about their kids."
+          },
+          {
+            "thai": "ไม่ต้องห่วง ฉันดูแลตัวเองได้",
+            "en": "Don't worry, I can take care of myself.",
+            "audio_src": "ไม่ต้องห่วง ฉันดูแลตัวเองได้",
+            "audio_en_src": "Don't worry, I can take care of myself."
+          }
+        ]
+      },
+      {
+        "meaning": "loop, ring, hoop",
+        "sentences": [
+          {
+            "thai": "เกี่ยวกุญแจไว้ที่ห่วง",
+            "en": "Hook the keys onto the ring.",
+            "audio_src": "เกี่ยวกุญแจไว้ที่ห่วง",
+            "audio_en_src": "Hook the keys onto the ring."
+          },
+          {
+            "thai": "เด็กใส่ห่วงยางเล่นน้ำ",
+            "en": "The kid plays in the water with an inflatable ring.",
+            "audio_src": "เด็กใส่ห่วงยางเล่นน้ำ",
+            "audio_en_src": "The kid plays in the water with an inflatable ring."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-558",
@@ -39645,7 +39681,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฉัน",
-    "audio_en_src": "I; to eat; like, as"
+    "audio_en_src": "I; to eat; like, as",
+    "examples": [
+      {
+        "meaning": "I",
+        "sentences": [
+          {
+            "thai": "ฉันชอบกินข้าวเหนียว",
+            "en": "I like eating sticky rice.",
+            "audio_src": "ฉันชอบกินข้าวเหนียว",
+            "audio_en_src": "I like eating sticky rice."
+          },
+          {
+            "thai": "ฉันจะไปด้วยนะ",
+            "en": "I'll come along too.",
+            "audio_src": "ฉันจะไปด้วยนะ",
+            "audio_en_src": "I'll come along too."
+          }
+        ]
+      },
+      {
+        "meaning": "to eat (monks' usage)",
+        "sentences": [
+          {
+            "thai": "พระฉันข้าวก่อนเที่ยง",
+            "en": "Monks eat before noon.",
+            "audio_src": "พระฉันข้าวก่อนเที่ยง",
+            "audio_en_src": "Monks eat before noon."
+          },
+          {
+            "thai": "หลวงพ่อกำลังฉันเพล",
+            "en": "The monk is having his midday meal.",
+            "audio_src": "หลวงพ่อกำลังฉันเพล",
+            "audio_en_src": "The monk is having his midday meal."
+          }
+        ]
+      },
+      {
+        "meaning": "like, as",
+        "sentences": [
+          {
+            "thai": "เขารักเธอฉันน้องสาว",
+            "en": "He loves her as if she were his little sister.",
+            "audio_src": "เขารักเธอฉันน้องสาว",
+            "audio_en_src": "He loves her as if she were his little sister."
+          },
+          {
+            "thai": "พวกเขาอยู่ด้วยกันฉันพี่น้อง",
+            "en": "They live together like siblings.",
+            "audio_src": "พวกเขาอยู่ด้วยกันฉันพี่น้อง",
+            "audio_en_src": "They live together like siblings."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-564",
@@ -40628,7 +40717,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระโปรง",
-    "audio_en_src": "skirt"
+    "audio_en_src": "skirt",
+    "examples": [
+      {
+        "meaning": "skirt",
+        "sentences": [
+          {
+            "thai": "วันนี้เธอใส่กระโปรงสวยมาก",
+            "en": "She's wearing a really pretty skirt today.",
+            "audio_src": "วันนี้เธอใส่กระโปรงสวยมาก",
+            "audio_en_src": "She's wearing a really pretty skirt today."
+          },
+          {
+            "thai": "กระโปรงตัวนี้สั้นไปหน่อย",
+            "en": "This skirt is a bit too short.",
+            "audio_src": "กระโปรงตัวนี้สั้นไปหน่อย",
+            "audio_en_src": "This skirt is a bit too short."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0022",
@@ -40727,7 +40835,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กล้า",
-    "audio_en_src": "brave; to dare"
+    "audio_en_src": "brave; to dare",
+    "examples": [
+      {
+        "meaning": "brave",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้กล้ามาก ไม่กลัวอะไรเลย",
+            "en": "This kid is so brave, not afraid of anything.",
+            "audio_src": "เด็กคนนี้กล้ามาก ไม่กลัวอะไรเลย",
+            "audio_en_src": "This kid is so brave, not afraid of anything."
+          },
+          {
+            "thai": "ต้องกล้าที่จะลองสิ่งใหม่ๆ",
+            "en": "You have to be brave enough to try new things.",
+            "audio_src": "ต้องกล้าที่จะลองสิ่งใหม่ๆ",
+            "audio_en_src": "You have to be brave enough to try new things."
+          }
+        ]
+      },
+      {
+        "meaning": "to dare",
+        "sentences": [
+          {
+            "thai": "ฉันไม่กล้าบอกความจริง",
+            "en": "I don't dare tell the truth.",
+            "audio_src": "ฉันไม่กล้าบอกความจริง",
+            "audio_en_src": "I don't dare tell the truth."
+          },
+          {
+            "thai": "เธอกล้าพูดต่อหน้าเขาไหม",
+            "en": "Do you dare say it to his face?",
+            "audio_src": "เธอกล้าพูดต่อหน้าเขาไหม",
+            "audio_en_src": "Do you dare say it to his face?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0031",
@@ -40858,7 +41002,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กางเกงยีนส์",
-    "audio_en_src": "jeans"
+    "audio_en_src": "jeans",
+    "examples": [
+      {
+        "meaning": "jeans",
+        "sentences": [
+          {
+            "thai": "ฉันใส่กางเกงยีนส์ไปทำงานได้ไหม",
+            "en": "Can I wear jeans to work?",
+            "audio_src": "ฉันใส่กางเกงยีนส์ไปทำงานได้ไหม",
+            "audio_en_src": "Can I wear jeans to work?"
+          },
+          {
+            "thai": "กางเกงยีนส์ตัวนี้ใส่สบายดี",
+            "en": "These jeans are really comfortable.",
+            "audio_src": "กางเกงยีนส์ตัวนี้ใส่สบายดี",
+            "audio_en_src": "These jeans are really comfortable."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0045",
@@ -41333,7 +41496,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขนม",
-    "audio_en_src": "dessert, sweet, snack"
+    "audio_en_src": "dessert, sweet, snack",
+    "examples": [
+      {
+        "meaning": "dessert, sweet, snack",
+        "sentences": [
+          {
+            "thai": "หิวจัง ขอกินขนมก่อน",
+            "en": "I'm so hungry, let me have a snack first.",
+            "audio_src": "หิวจัง ขอกินขนมก่อน",
+            "audio_en_src": "I'm so hungry, let me have a snack first."
+          },
+          {
+            "thai": "แม่ซื้อขนมมาฝาก",
+            "en": "Mom brought back some sweets for us.",
+            "audio_src": "แม่ซื้อขนมมาฝาก",
+            "audio_en_src": "Mom brought back some sweets for us."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0117",
@@ -41553,7 +41735,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข่าวดี",
-    "audio_en_src": "good news"
+    "audio_en_src": "good news",
+    "examples": [
+      {
+        "meaning": "good news",
+        "sentences": [
+          {
+            "thai": "มีข่าวดีจะบอก ฉันสอบผ่านแล้ว",
+            "en": "I've got good news, I passed the exam.",
+            "audio_src": "มีข่าวดีจะบอก ฉันสอบผ่านแล้ว",
+            "audio_en_src": "I've got good news, I passed the exam."
+          },
+          {
+            "thai": "ข่าวดีคือพรุ่งนี้หยุด",
+            "en": "The good news is tomorrow's a holiday.",
+            "audio_src": "ข่าวดีคือพรุ่งนี้หยุด",
+            "audio_en_src": "The good news is tomorrow's a holiday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0144",
@@ -41632,7 +41833,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คง",
-    "audio_en_src": "probably; to remain, to continue"
+    "audio_en_src": "probably; to remain, to continue",
+    "examples": [
+      {
+        "meaning": "probably",
+        "sentences": [
+          {
+            "thai": "เขาคงลืมไปแล้วมั้ง",
+            "en": "He's probably forgotten by now.",
+            "audio_src": "เขาคงลืมไปแล้วมั้ง",
+            "audio_en_src": "He's probably forgotten by now."
+          },
+          {
+            "thai": "ฝนตกแบบนี้ รถคงติด",
+            "en": "With rain like this, the traffic's probably bad.",
+            "audio_src": "ฝนตกแบบนี้ รถคงติด",
+            "audio_en_src": "With rain like this, the traffic's probably bad."
+          }
+        ]
+      },
+      {
+        "meaning": "to remain, to continue",
+        "sentences": [
+          {
+            "thai": "ราคายังคงเท่าเดิม",
+            "en": "The price remains the same.",
+            "audio_src": "ราคายังคงเท่าเดิม",
+            "audio_en_src": "The price remains the same."
+          },
+          {
+            "thai": "เขายังคงรอเธออยู่",
+            "en": "He's still waiting for her.",
+            "audio_src": "เขายังคงรอเธออยู่",
+            "audio_en_src": "He's still waiting for her."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0152",
@@ -42367,7 +42604,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "งง, สับสน",
-    "audio_en_src": "confused"
+    "audio_en_src": "confused",
+    "examples": [
+      {
+        "meaning": "confused",
+        "sentences": [
+          {
+            "thai": "ฟังไม่รู้เรื่อง งงไปหมด",
+            "en": "I didn't catch any of it, I'm totally confused.",
+            "audio_src": "ฟังไม่รู้เรื่อง งงไปหมด",
+            "audio_en_src": "I didn't catch any of it, I'm totally confused."
+          },
+          {
+            "thai": "อธิบายใหม่ได้ไหม ฉันงง",
+            "en": "Can you explain that again? I'm confused.",
+            "audio_src": "อธิบายใหม่ได้ไหม ฉันงง",
+            "audio_en_src": "Can you explain that again? I'm confused."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0236",
@@ -42575,7 +42831,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จึง",
-    "audio_en_src": "therefore, so"
+    "audio_en_src": "therefore, so",
+    "examples": [
+      {
+        "meaning": "therefore, so",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนัก เขาจึงมาสาย",
+            "en": "It rained hard, so he was late.",
+            "audio_src": "ฝนตกหนัก เขาจึงมาสาย",
+            "audio_en_src": "It rained hard, so he was late."
+          },
+          {
+            "thai": "เธอตั้งใจเรียน จึงสอบได้คะแนนดี",
+            "en": "She studied hard, so she got good marks.",
+            "audio_src": "เธอตั้งใจเรียน จึงสอบได้คะแนนดี",
+            "audio_en_src": "She studied hard, so she got good marks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0260",
