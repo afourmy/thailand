@@ -101102,7 +101102,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฉลาด",
-    "audio_en_src": "smart"
+    "audio_en_src": "smart",
+    "examples": [
+      {
+        "meaning": "smart",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้ฉลาดมาก เรียนรู้เร็ว",
+            "en": "This kid is really smart, a fast learner.",
+            "audio_src": "เด็กคนนี้ฉลาดมาก เรียนรู้เร็ว",
+            "audio_en_src": "This kid is really smart, a fast learner."
+          },
+          {
+            "thai": "หมาตัวนี้ฉลาด ทำตามคำสั่งได้",
+            "en": "This dog is smart, it follows commands.",
+            "audio_src": "หมาตัวนี้ฉลาด ทำตามคำสั่งได้",
+            "audio_en_src": "This dog is smart, it follows commands."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-027",
@@ -101159,7 +101178,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เชิญ",
-    "audio_en_src": "to invite someone to do sth"
+    "audio_en_src": "to invite someone to do sth",
+    "examples": [
+      {
+        "meaning": "to invite someone to do sth (polite request: 'please...')",
+        "sentences": [
+          {
+            "thai": "เชิญนั่งก่อนนะครับ",
+            "en": "Please have a seat.",
+            "audio_src": "เชิญนั่งก่อนนะครับ",
+            "audio_en_src": "Please have a seat."
+          },
+          {
+            "thai": "เชิญทุกคนมาร่วมงานวันเกิด",
+            "en": "Everyone is invited to the birthday party.",
+            "audio_src": "เชิญทุกคนมาร่วมงานวันเกิด",
+            "audio_en_src": "Everyone is invited to the birthday party."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-032",
@@ -101174,7 +101212,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใช่",
-    "audio_en_src": "yes"
+    "audio_en_src": "yes",
+    "examples": [
+      {
+        "meaning": "yes",
+        "sentences": [
+          {
+            "thai": "ใช่ ฉันเป็นคนโทรไป",
+            "en": "Yes, I was the one who called.",
+            "audio_src": "ใช่ ฉันเป็นคนโทรไป",
+            "audio_en_src": "Yes, I was the one who called."
+          },
+          {
+            "thai": "นี่รถของเธอใช่ไหม ใช่",
+            "en": "Is this your car? Yes.",
+            "audio_src": "นี่รถของเธอใช่ไหม ใช่",
+            "audio_en_src": "Is this your car? Yes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-034",
@@ -101189,7 +101246,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซึ่ง",
-    "audio_en_src": "which, that, where, what"
+    "audio_en_src": "which, that, where, what",
+    "examples": [
+      {
+        "meaning": "which, that, where, what",
+        "sentences": [
+          {
+            "thai": "นี่คือหนังสือซึ่งฉันอ่านเมื่อวาน",
+            "en": "This is the book which I read yesterday.",
+            "audio_src": "นี่คือหนังสือซึ่งฉันอ่านเมื่อวาน",
+            "audio_en_src": "This is the book which I read yesterday."
+          },
+          {
+            "thai": "เขาทำงานหนักซึ่งทำให้ประสบความสำเร็จ",
+            "en": "He worked hard, which led to his success.",
+            "audio_src": "เขาทำงานหนักซึ่งทำให้ประสบความสำเร็จ",
+            "audio_en_src": "He worked hard, which led to his success."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-035",
@@ -101215,7 +101291,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดินทาง",
-    "audio_en_src": "to travel"
+    "audio_en_src": "to travel",
+    "examples": [
+      {
+        "meaning": "to travel",
+        "sentences": [
+          {
+            "thai": "เราเดินทางไปเชียงใหม่ด้วยรถไฟ",
+            "en": "We traveled to Chiang Mai by train.",
+            "audio_src": "เราเดินทางไปเชียงใหม่ด้วยรถไฟ",
+            "audio_en_src": "We traveled to Chiang Mai by train."
+          },
+          {
+            "thai": "เดินทางปลอดภัยนะ",
+            "en": "Have a safe trip.",
+            "audio_src": "เดินทางปลอดภัยนะ",
+            "audio_en_src": "Have a safe trip."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-038",
@@ -101230,7 +101325,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดี๋ยว",
-    "audio_en_src": "soon, in a short while"
+    "audio_en_src": "soon, in a short while",
+    "examples": [
+      {
+        "meaning": "soon, in a short while",
+        "sentences": [
+          {
+            "thai": "รอเดี๋ยวนะ ฉันมาแล้ว",
+            "en": "Wait a moment, I'm coming.",
+            "audio_src": "รอเดี๋ยวนะ ฉันมาแล้ว",
+            "audio_en_src": "Wait a moment, I'm coming."
+          },
+          {
+            "thai": "เดี๋ยวฉันโทรกลับ",
+            "en": "I'll call you back in a bit.",
+            "audio_src": "เดี๋ยวฉันโทรกลับ",
+            "audio_en_src": "I'll call you back in a bit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-039",
@@ -101245,7 +101359,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แดด, แสงแดด",
-    "audio_en_src": "sunlight, sunshine"
+    "audio_en_src": "sunlight, sunshine",
+    "examples": [
+      {
+        "meaning": "sunlight, sunshine",
+        "sentences": [
+          {
+            "thai": "วันนี้แดดแรงมาก ใส่หมวกด้วย",
+            "en": "The sun is really strong today, wear a hat.",
+            "audio_src": "วันนี้แดดแรงมาก ใส่หมวกด้วย",
+            "audio_en_src": "The sun is really strong today, wear a hat."
+          },
+          {
+            "thai": "ตากผ้าให้โดนแสงแดดจะแห้งเร็ว",
+            "en": "Hang the clothes in the sun and they'll dry fast.",
+            "audio_src": "ตากผ้าให้โดนแสงแดดจะแห้งเร็ว",
+            "audio_en_src": "Hang the clothes in the sun and they'll dry fast."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-040",
@@ -101260,7 +101393,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตกลง",
-    "audio_en_src": "right, OK, to agree"
+    "audio_en_src": "right, OK, to agree",
+    "examples": [
+      {
+        "meaning": "right, OK, to agree (to something)",
+        "sentences": [
+          {
+            "thai": "ตกลง เดี๋ยวเจอกันพรุ่งนี้",
+            "en": "OK, see you tomorrow.",
+            "audio_src": "ตกลง เดี๋ยวเจอกันพรุ่งนี้",
+            "audio_en_src": "OK, see you tomorrow."
+          },
+          {
+            "thai": "เราตกลงกันแล้วว่าจะไปด้วยกัน",
+            "en": "We've agreed to go together.",
+            "audio_src": "เราตกลงกันแล้วว่าจะไปด้วยกัน",
+            "audio_en_src": "We've agreed to go together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-041",
@@ -101274,7 +101426,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตรงไป",
-    "audio_en_src": "straight ahead, go straight"
+    "audio_en_src": "straight ahead, go straight",
+    "examples": [
+      {
+        "meaning": "straight ahead, go straight",
+        "sentences": [
+          {
+            "thai": "ตรงไปอีกนิดแล้วเลี้ยวซ้าย",
+            "en": "Go straight a little more, then turn left.",
+            "audio_src": "ตรงไปอีกนิดแล้วเลี้ยวซ้าย",
+            "audio_en_src": "Go straight a little more, then turn left."
+          },
+          {
+            "thai": "เดินตรงไปจะเจอลิฟต์",
+            "en": "Walk straight ahead and you'll find the elevator.",
+            "audio_src": "เดินตรงไปจะเจอลิฟต์",
+            "audio_en_src": "Walk straight ahead and you'll find the elevator."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-042",
@@ -101289,7 +101460,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตอนนี้",
-    "audio_en_src": "now"
+    "audio_en_src": "now",
+    "examples": [
+      {
+        "meaning": "now",
+        "sentences": [
+          {
+            "thai": "ตอนนี้ฉันยุ่งอยู่ เดี๋ยวคุยกันใหม่",
+            "en": "I'm busy now, let's talk later.",
+            "audio_src": "ตอนนี้ฉันยุ่งอยู่ เดี๋ยวคุยกันใหม่",
+            "audio_en_src": "I'm busy now, let's talk later."
+          },
+          {
+            "thai": "เขาอยู่ที่ไหนตอนนี้",
+            "en": "Where is he now?",
+            "audio_src": "เขาอยู่ที่ไหนตอนนี้",
+            "audio_en_src": "Where is he now?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c13-044",

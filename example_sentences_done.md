@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 761 words**
+**Total: 771 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -763,5 +763,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-021` : เงียบ (quiet) : 1 meaning(s), 2 sentences
 - `wlt-c13-022` : จริง (true, really) : 1 meaning(s), 2 sentences
 - `wlt-c13-024` : จับ (to catch, to grab) : 1 meaning(s), 2 sentences
+- `wlt-c13-025` : ฉลาด (smart) : 1 meaning(s), 2 sentences
+- `wlt-c13-031` : เชิญ (to invite someone to do sth (polite request: 'please...')) : 1 meaning(s), 2 sentences
+- `wlt-c13-032` : ใช่ (yes) : 1 meaning(s), 2 sentences
+- `wlt-c13-034` : ซึ่ง (which, that, where, what) : 1 meaning(s), 2 sentences
+- `wlt-c13-037` : เดินทาง (to travel) : 1 meaning(s), 2 sentences
+- `wlt-c13-038` : เดี๋ยว (soon, in a short while) : 1 meaning(s), 2 sentences
+- `wlt-c13-039` : แดด, แสงแดด (sunlight, sunshine) : 1 meaning(s), 2 sentences
+- `wlt-c13-040` : ตกลง (right, OK, to agree (to something)) : 1 meaning(s), 2 sentences
+- `wlt-c13-041` : ตรงไป (straight ahead, go straight) : 1 meaning(s), 2 sentences
+- `wlt-c13-042` : ตอนนี้ (now) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
