@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1041 words**
+**Total: 1051 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1044,4 +1044,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-001` : ฟรี (free (of charge)) : 1 meaning(s), 2 sentences
 - `wlt-c19-002` : ฟังเพลง (to listen to music) : 1 meaning(s), 2 sentences
 - `wlt-c19-006` : ภาษาอังกฤษ (English language) : 1 meaning(s), 2 sentences
+- `wlt-c19-017` : ไม่นาน (not long) : 1 meaning(s), 2 sentences
+- `wlt-c19-020` : ไม่สบายใจ (uneasy, troubled, uncomfortable) : 1 meaning(s), 2 sentences
+- `wlt-c19-044` : สบายๆ ('no problem', 'no worries', relaxed) : 1 meaning(s), 2 sentences
+- `wlt-c19-050` : สูบบุหรี่ (to smoke (cigarettes)) : 1 meaning(s), 2 sentences
+- `wlt-c19-051` : เสาร์อาทิตย์นี้ (this weekend) : 1 meaning(s), 2 sentences
+- `wlt-c19-062` : หวัดดี (hi, bye (casual)) : 1 meaning(s), 2 sentences
+- `wlt-c19-068` : เหงา (lonely) : 1 meaning(s), 2 sentences
+- `wlt-c19-081` : กรกฎาคม (July) : 1 meaning(s), 2 sentences
+- `wlt-c19-082` : กระดาษ (paper) : 1 meaning(s), 2 sentences
+- `wlt-c19-083` : กันยายน (September) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
