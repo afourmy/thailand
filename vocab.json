@@ -92022,11 +92022,15 @@
         "sentences": [
           {
             "thai": "อันนี้ราคาเท่าไหร่",
-            "en": "How much is this?"
+            "en": "How much is this?",
+            "audio_src": "อันนี้ราคาเท่าไหร่",
+            "audio_en_src": "How much is this?"
           },
           {
             "thai": "เธอจ่ายค่าเช่าเดือนละเท่าไหร่",
-            "en": "How much rent do you pay a month?"
+            "en": "How much rent do you pay a month?",
+            "audio_src": "เธอจ่ายค่าเช่าเดือนละเท่าไหร่",
+            "audio_en_src": "How much rent do you pay a month?"
           }
         ]
       }
@@ -92135,11 +92139,15 @@
         "sentences": [
           {
             "thai": "เสียงนาฬิกาปลุกน่ารำคาญมาก",
-            "en": "The alarm sound is so annoying."
+            "en": "The alarm sound is so annoying.",
+            "audio_src": "เสียงนาฬิกาปลุกน่ารำคาญมาก",
+            "audio_en_src": "The alarm sound is so annoying."
           },
           {
             "thai": "เขาถามซ้ำๆจนน่ารำคาญ",
-            "en": "He keeps asking the same thing, it's annoying."
+            "en": "He keeps asking the same thing, it's annoying.",
+            "audio_src": "เขาถามซ้ำๆจนน่ารำคาญ",
+            "audio_en_src": "He keeps asking the same thing, it's annoying."
           }
         ]
       }
@@ -92175,11 +92183,15 @@
         "sentences": [
           {
             "thai": "น่าเสียดายที่เธอมาไม่ได้",
-            "en": "What a shame you can't come."
+            "en": "What a shame you can't come.",
+            "audio_src": "น่าเสียดายที่เธอมาไม่ได้",
+            "audio_en_src": "What a shame you can't come."
           },
           {
             "thai": "ทิ้งไปน่าเสียดาย ยังใช้ได้อยู่",
-            "en": "It's a pity to throw it away, it still works."
+            "en": "It's a pity to throw it away, it still works.",
+            "audio_src": "ทิ้งไปน่าเสียดาย ยังใช้ได้อยู่",
+            "audio_en_src": "It's a pity to throw it away, it still works."
           }
         ]
       },
@@ -92188,11 +92200,15 @@
         "sentences": [
           {
             "thai": "เป็นเรื่องน่าเสียดายที่โครงการถูกยกเลิก",
-            "en": "It's regrettable that the project was cancelled."
+            "en": "It's regrettable that the project was cancelled.",
+            "audio_src": "เป็นเรื่องน่าเสียดายที่โครงการถูกยกเลิก",
+            "audio_en_src": "It's regrettable that the project was cancelled."
           },
           {
             "thai": "น่าเสียดายที่เขาตัดสินใจผิด",
-            "en": "It's regrettable that he made the wrong choice."
+            "en": "It's regrettable that he made the wrong choice.",
+            "audio_src": "น่าเสียดายที่เขาตัดสินใจผิด",
+            "audio_en_src": "It's regrettable that he made the wrong choice."
           }
         ]
       }
@@ -92257,11 +92273,15 @@
         "sentences": [
           {
             "thai": "เขาเอานิ้วมือชี้ไปที่ป้าย",
-            "en": "He pointed his finger at the sign."
+            "en": "He pointed his finger at the sign.",
+            "audio_src": "เขาเอานิ้วมือชี้ไปที่ป้าย",
+            "audio_en_src": "He pointed his finger at the sign."
           },
           {
             "thai": "ฉันเผลอบาดนิ้วมือตอนหั่นผัก",
-            "en": "I accidentally cut my finger while chopping vegetables."
+            "en": "I accidentally cut my finger while chopping vegetables.",
+            "audio_src": "ฉันเผลอบาดนิ้วมือตอนหั่นผัก",
+            "audio_en_src": "I accidentally cut my finger while chopping vegetables."
           }
         ]
       }
@@ -92329,11 +92349,15 @@
         "sentences": [
           {
             "thai": "ร้านนี้รับบัตรเครดิตไหม",
-            "en": "Does this shop accept credit cards?"
+            "en": "Does this shop accept credit cards?",
+            "audio_src": "ร้านนี้รับบัตรเครดิตไหม",
+            "audio_en_src": "Does this shop accept credit cards?"
           },
           {
             "thai": "ฉันจ่ายด้วยบัตรเครดิต",
-            "en": "I'll pay by credit card."
+            "en": "I'll pay by credit card.",
+            "audio_src": "ฉันจ่ายด้วยบัตรเครดิต",
+            "audio_en_src": "I'll pay by credit card."
           }
         ]
       }
@@ -92538,11 +92562,15 @@
         "sentences": [
           {
             "thai": "ออกไปข้างนอกโดนฝนจนเปียก",
-            "en": "I went outside and got soaked in the rain."
+            "en": "I went outside and got soaked in the rain.",
+            "audio_src": "ออกไปข้างนอกโดนฝนจนเปียก",
+            "audio_en_src": "I went outside and got soaked in the rain."
           },
           {
             "thai": "ผมยังเปียกอยู่ เพิ่งสระมา",
-            "en": "My hair is still wet, I just washed it."
+            "en": "My hair is still wet, I just washed it.",
+            "audio_src": "ผมยังเปียกอยู่ เพิ่งสระมา",
+            "audio_en_src": "My hair is still wet, I just washed it."
           }
         ]
       }
@@ -92836,11 +92864,15 @@
         "sentences": [
           {
             "thai": "กรอกชื่อ อายุ และเพศ",
-            "en": "Fill in your name, age, and gender."
+            "en": "Fill in your name, age, and gender.",
+            "audio_src": "กรอกชื่อ อายุ และเพศ",
+            "audio_en_src": "Fill in your name, age, and gender."
           },
           {
             "thai": "งานนี้รับสมัครทุกเพศ",
-            "en": "This job is open to people of any gender."
+            "en": "This job is open to people of any gender.",
+            "audio_src": "งานนี้รับสมัครทุกเพศ",
+            "audio_en_src": "This job is open to people of any gender."
           }
         ]
       }
@@ -92929,11 +92961,15 @@
         "sentences": [
           {
             "thai": "ภาษาไทยมีวรรณยุกต์ห้าเสียง",
-            "en": "Thai has five tones."
+            "en": "Thai has five tones.",
+            "audio_src": "ภาษาไทยมีวรรณยุกต์ห้าเสียง",
+            "audio_en_src": "Thai has five tones."
           },
           {
             "thai": "ฉันกำลังเรียนภาษาไทยอยู่",
-            "en": "I'm learning Thai."
+            "en": "I'm learning Thai.",
+            "audio_src": "ฉันกำลังเรียนภาษาไทยอยู่",
+            "audio_en_src": "I'm learning Thai."
           }
         ]
       }
@@ -93009,11 +93045,15 @@
         "sentences": [
           {
             "thai": "เห็นลูกมีความสุขฉันก็ดีใจ",
-            "en": "Seeing my kids happy makes me glad."
+            "en": "Seeing my kids happy makes me glad.",
+            "audio_src": "เห็นลูกมีความสุขฉันก็ดีใจ",
+            "audio_en_src": "Seeing my kids happy makes me glad."
           },
           {
             "thai": "ฉันรู้สึกสุขใจที่ได้ช่วยเหลือคนอื่น",
-            "en": "I feel happy when I get to help others."
+            "en": "I feel happy when I get to help others.",
+            "audio_src": "ฉันรู้สึกสุขใจที่ได้ช่วยเหลือคนอื่น",
+            "audio_en_src": "I feel happy when I get to help others."
           }
         ]
       }
@@ -93049,11 +93089,15 @@
         "sentences": [
           {
             "thai": "มือถือฉันแบตหมดแล้ว",
-            "en": "My phone battery is dead."
+            "en": "My phone battery is dead.",
+            "audio_src": "มือถือฉันแบตหมดแล้ว",
+            "audio_en_src": "My phone battery is dead."
           },
           {
             "thai": "เขาซื้อโทรศัพท์มือถือเครื่องใหม่",
-            "en": "He bought a new mobile phone."
+            "en": "He bought a new mobile phone.",
+            "audio_src": "เขาซื้อโทรศัพท์มือถือเครื่องใหม่",
+            "audio_en_src": "He bought a new mobile phone."
           }
         ]
       }
@@ -93113,7 +93157,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมืองไทย",
-    "audio_en_src": "Thailand"
+    "audio_en_src": "Thailand",
+    "examples": [
+      {
+        "meaning": "Thailand (informal)",
+        "sentences": [
+          {
+            "thai": "เขามาเที่ยวเมืองไทยทุกปี",
+            "en": "He comes to visit Thailand every year.",
+            "audio_src": "เขามาเที่ยวเมืองไทยทุกปี",
+            "audio_en_src": "He comes to visit Thailand every year."
+          },
+          {
+            "thai": "อาหารเมืองไทยอร่อยที่สุด",
+            "en": "Thai food is the best.",
+            "audio_src": "อาหารเมืองไทยอร่อยที่สุด",
+            "audio_en_src": "Thai food is the best."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-045",
@@ -93209,7 +93272,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่ต้อง",
-    "audio_en_src": "there is no need to"
+    "audio_en_src": "there is no need to",
+    "examples": [
+      {
+        "meaning": "there is no need to",
+        "sentences": [
+          {
+            "thai": "ไม่ต้องรอฉันนะ กลับไปก่อนได้",
+            "en": "No need to wait for me, you can go ahead.",
+            "audio_src": "ไม่ต้องรอฉันนะ กลับไปก่อนได้",
+            "audio_en_src": "No need to wait for me, you can go ahead."
+          },
+          {
+            "thai": "ไม่ต้องซื้อของฝากหรอก",
+            "en": "You don't need to buy any souvenirs.",
+            "audio_src": "ไม่ต้องซื้อของฝากหรอก",
+            "audio_en_src": "You don't need to buy any souvenirs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-056",
@@ -93244,7 +93326,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่มี",
-    "audio_en_src": "to not have, there isn't"
+    "audio_en_src": "to not have, there isn't",
+    "examples": [
+      {
+        "meaning": "to not have, there isn't",
+        "sentences": [
+          {
+            "thai": "ฉันไม่มีเงินสด มีแต่บัตร",
+            "en": "I don't have any cash, only a card.",
+            "audio_src": "ฉันไม่มีเงินสด มีแต่บัตร",
+            "audio_en_src": "I don't have any cash, only a card."
+          },
+          {
+            "thai": "วันนี้ไม่มีคลาสเรียน",
+            "en": "There's no class today.",
+            "audio_src": "วันนี้ไม่มีคลาสเรียน",
+            "audio_en_src": "There's no class today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-059",
@@ -93264,6 +93365,25 @@
     "topic": "general",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to disagree",
+        "sentences": [
+          {
+            "thai": "ฉันไม่เห็นด้วยกับความคิดนี้",
+            "en": "I disagree with this idea.",
+            "audio_src": "ฉันไม่เห็นด้วยกับความคิดนี้",
+            "audio_en_src": "I disagree with this idea."
+          },
+          {
+            "thai": "เขาไม่เห็นด้วยที่จะขึ้นราคา",
+            "en": "He disagrees with raising the price.",
+            "audio_src": "เขาไม่เห็นด้วยที่จะขึ้นราคา",
+            "audio_en_src": "He disagrees with raising the price."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93309,7 +93429,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยิ้ม",
-    "audio_en_src": "to smile"
+    "audio_en_src": "to smile",
+    "examples": [
+      {
+        "meaning": "to smile",
+        "sentences": [
+          {
+            "thai": "เธอยิ้มสวยมาก",
+            "en": "She has a beautiful smile.",
+            "audio_src": "เธอยิ้มสวยมาก",
+            "audio_en_src": "She has a beautiful smile."
+          },
+          {
+            "thai": "เห็นหน้าลูกแล้วอดยิ้มไม่ได้",
+            "en": "Seeing my child's face, I can't help but smile.",
+            "audio_src": "เห็นหน้าลูกแล้วอดยิ้มไม่ได้",
+            "audio_en_src": "Seeing my child's face, I can't help but smile."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-065",
@@ -93323,7 +93462,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยี่สิบเอ็ด",
-    "audio_en_src": "twenty one"
+    "audio_en_src": "twenty one",
+    "examples": [
+      {
+        "meaning": "twenty one (21)",
+        "sentences": [
+          {
+            "thai": "พี่ชายฉันอายุยี่สิบเอ็ด",
+            "en": "My older brother is twenty-one.",
+            "audio_src": "พี่ชายฉันอายุยี่สิบเอ็ด",
+            "audio_en_src": "My older brother is twenty-one."
+          },
+          {
+            "thai": "วันนี้วันที่ยี่สิบเอ็ด",
+            "en": "Today is the twenty-first.",
+            "audio_src": "วันนี้วันที่ยี่สิบเอ็ด",
+            "audio_en_src": "Today is the twenty-first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-066",
@@ -93337,7 +93495,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เย็นนี้",
-    "audio_en_src": "this evening, this late afternoon"
+    "audio_en_src": "this evening, this late afternoon",
+    "examples": [
+      {
+        "meaning": "this evening, this late afternoon",
+        "sentences": [
+          {
+            "thai": "เย็นนี้ว่างไหม ไปกินข้าวกัน",
+            "en": "Are you free this evening? Let's get dinner.",
+            "audio_src": "เย็นนี้ว่างไหม ไปกินข้าวกัน",
+            "audio_en_src": "Are you free this evening? Let's get dinner."
+          },
+          {
+            "thai": "เย็นนี้ฝนน่าจะตก",
+            "en": "It'll probably rain this evening.",
+            "audio_src": "เย็นนี้ฝนน่าจะตก",
+            "audio_en_src": "It'll probably rain this evening."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-067",
@@ -93352,7 +93529,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แย่",
-    "audio_en_src": "bad, terrible"
+    "audio_en_src": "bad, terrible",
+    "examples": [
+      {
+        "meaning": "bad, terrible",
+        "sentences": [
+          {
+            "thai": "วันนี้เป็นวันที่แย่มาก",
+            "en": "Today was a really terrible day.",
+            "audio_src": "วันนี้เป็นวันที่แย่มาก",
+            "audio_en_src": "Today was a really terrible day."
+          },
+          {
+            "thai": "อากาศแย่ ไม่อยากออกไปไหน",
+            "en": "The weather's bad, I don't feel like going anywhere.",
+            "audio_src": "อากาศแย่ ไม่อยากออกไปไหน",
+            "audio_en_src": "The weather's bad, I don't feel like going anywhere."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-068",
@@ -93462,7 +93658,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้านขายยา",
-    "audio_en_src": "pharmacy"
+    "audio_en_src": "pharmacy",
+    "examples": [
+      {
+        "meaning": "pharmacy",
+        "sentences": [
+          {
+            "thai": "ไปซื้อยาแก้ปวดที่ร้านขายยา",
+            "en": "Go buy some painkillers at the pharmacy.",
+            "audio_src": "ไปซื้อยาแก้ปวดที่ร้านขายยา",
+            "audio_en_src": "Go buy some painkillers at the pharmacy."
+          },
+          {
+            "thai": "ร้านขายยาอยู่ใกล้โรงพยาบาล",
+            "en": "The pharmacy is near the hospital.",
+            "audio_src": "ร้านขายยาอยู่ใกล้โรงพยาบาล",
+            "audio_en_src": "The pharmacy is near the hospital."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-079",
@@ -93509,7 +93724,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เร็ว, เร็วๆ",
-    "audio_en_src": "quickly, fast"
+    "audio_en_src": "quickly, fast",
+    "examples": [
+      {
+        "meaning": "quickly, fast",
+        "sentences": [
+          {
+            "thai": "เดินเร็วๆหน่อย เดี๋ยวไม่ทัน",
+            "en": "Walk a bit faster, or we'll be late.",
+            "audio_src": "เดินเร็วๆหน่อย เดี๋ยวไม่ทัน",
+            "audio_en_src": "Walk a bit faster, or we'll be late."
+          },
+          {
+            "thai": "เขาทำงานเร็วและเรียบร้อย",
+            "en": "He works fast and neatly.",
+            "audio_src": "เขาทำงานเร็วและเรียบร้อย",
+            "audio_en_src": "He works fast and neatly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-083",

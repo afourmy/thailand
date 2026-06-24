@@ -92015,7 +92015,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เท่าไหร่",
-    "audio_en_src": "how much"
+    "audio_en_src": "how much",
+    "examples": [
+      {
+        "meaning": "how much",
+        "sentences": [
+          {
+            "thai": "อันนี้ราคาเท่าไหร่",
+            "en": "How much is this?",
+            "audio_src": "อันนี้ราคาเท่าไหร่",
+            "audio_en_src": "How much is this?"
+          },
+          {
+            "thai": "เธอจ่ายค่าเช่าเดือนละเท่าไหร่",
+            "en": "How much rent do you pay a month?",
+            "audio_src": "เธอจ่ายค่าเช่าเดือนละเท่าไหร่",
+            "audio_en_src": "How much rent do you pay a month?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-035",
@@ -92113,7 +92132,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่ารำคาญ",
-    "audio_en_src": "annoying"
+    "audio_en_src": "annoying",
+    "examples": [
+      {
+        "meaning": "annoying",
+        "sentences": [
+          {
+            "thai": "เสียงนาฬิกาปลุกน่ารำคาญมาก",
+            "en": "The alarm sound is so annoying.",
+            "audio_src": "เสียงนาฬิกาปลุกน่ารำคาญมาก",
+            "audio_en_src": "The alarm sound is so annoying."
+          },
+          {
+            "thai": "เขาถามซ้ำๆจนน่ารำคาญ",
+            "en": "He keeps asking the same thing, it's annoying.",
+            "audio_src": "เขาถามซ้ำๆจนน่ารำคาญ",
+            "audio_en_src": "He keeps asking the same thing, it's annoying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-046",
@@ -92138,7 +92176,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่าเสียดาย",
-    "audio_en_src": "what a pity, what a shame; regrettable"
+    "audio_en_src": "what a pity, what a shame; regrettable",
+    "examples": [
+      {
+        "meaning": "what a pity, what a shame",
+        "sentences": [
+          {
+            "thai": "น่าเสียดายที่เธอมาไม่ได้",
+            "en": "What a shame you can't come.",
+            "audio_src": "น่าเสียดายที่เธอมาไม่ได้",
+            "audio_en_src": "What a shame you can't come."
+          },
+          {
+            "thai": "ทิ้งไปน่าเสียดาย ยังใช้ได้อยู่",
+            "en": "It's a pity to throw it away, it still works.",
+            "audio_src": "ทิ้งไปน่าเสียดาย ยังใช้ได้อยู่",
+            "audio_en_src": "It's a pity to throw it away, it still works."
+          }
+        ]
+      },
+      {
+        "meaning": "regrettable",
+        "sentences": [
+          {
+            "thai": "เป็นเรื่องน่าเสียดายที่โครงการถูกยกเลิก",
+            "en": "It's regrettable that the project was cancelled.",
+            "audio_src": "เป็นเรื่องน่าเสียดายที่โครงการถูกยกเลิก",
+            "audio_en_src": "It's regrettable that the project was cancelled."
+          },
+          {
+            "thai": "น่าเสียดายที่เขาตัดสินใจผิด",
+            "en": "It's regrettable that he made the wrong choice.",
+            "audio_src": "น่าเสียดายที่เขาตัดสินใจผิด",
+            "audio_en_src": "It's regrettable that he made the wrong choice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-048",
@@ -92192,7 +92266,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นิ้วมือ",
-    "audio_en_src": "finger"
+    "audio_en_src": "finger",
+    "examples": [
+      {
+        "meaning": "finger",
+        "sentences": [
+          {
+            "thai": "เขาเอานิ้วมือชี้ไปที่ป้าย",
+            "en": "He pointed his finger at the sign.",
+            "audio_src": "เขาเอานิ้วมือชี้ไปที่ป้าย",
+            "audio_en_src": "He pointed his finger at the sign."
+          },
+          {
+            "thai": "ฉันเผลอบาดนิ้วมือตอนหั่นผัก",
+            "en": "I accidentally cut my finger while chopping vegetables.",
+            "audio_src": "ฉันเผลอบาดนิ้วมือตอนหั่นผัก",
+            "audio_en_src": "I accidentally cut my finger while chopping vegetables."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-054",
@@ -92249,7 +92342,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บัตรเครดิต",
-    "audio_en_src": "credit card"
+    "audio_en_src": "credit card",
+    "examples": [
+      {
+        "meaning": "credit card",
+        "sentences": [
+          {
+            "thai": "ร้านนี้รับบัตรเครดิตไหม",
+            "en": "Does this shop accept credit cards?",
+            "audio_src": "ร้านนี้รับบัตรเครดิตไหม",
+            "audio_en_src": "Does this shop accept credit cards?"
+          },
+          {
+            "thai": "ฉันจ่ายด้วยบัตรเครดิต",
+            "en": "I'll pay by credit card.",
+            "audio_src": "ฉันจ่ายด้วยบัตรเครดิต",
+            "audio_en_src": "I'll pay by credit card."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-061",
@@ -92443,7 +92555,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เปียก",
-    "audio_en_src": "wet"
+    "audio_en_src": "wet",
+    "examples": [
+      {
+        "meaning": "wet",
+        "sentences": [
+          {
+            "thai": "ออกไปข้างนอกโดนฝนจนเปียก",
+            "en": "I went outside and got soaked in the rain.",
+            "audio_src": "ออกไปข้างนอกโดนฝนจนเปียก",
+            "audio_en_src": "I went outside and got soaked in the rain."
+          },
+          {
+            "thai": "ผมยังเปียกอยู่ เพิ่งสระมา",
+            "en": "My hair is still wet, I just washed it.",
+            "audio_src": "ผมยังเปียกอยู่ เพิ่งสระมา",
+            "audio_en_src": "My hair is still wet, I just washed it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-082",
@@ -92726,7 +92857,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพศ",
-    "audio_en_src": "gender, sex"
+    "audio_en_src": "gender, sex",
+    "examples": [
+      {
+        "meaning": "gender, sex",
+        "sentences": [
+          {
+            "thai": "กรอกชื่อ อายุ และเพศ",
+            "en": "Fill in your name, age, and gender.",
+            "audio_src": "กรอกชื่อ อายุ และเพศ",
+            "audio_en_src": "Fill in your name, age, and gender."
+          },
+          {
+            "thai": "งานนี้รับสมัครทุกเพศ",
+            "en": "This job is open to people of any gender.",
+            "audio_src": "งานนี้รับสมัครทุกเพศ",
+            "audio_en_src": "This job is open to people of any gender."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-023",
@@ -92804,7 +92954,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ภาษาไทย",
-    "audio_en_src": "Thai language"
+    "audio_en_src": "Thai language",
+    "examples": [
+      {
+        "meaning": "Thai language",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมีวรรณยุกต์ห้าเสียง",
+            "en": "Thai has five tones.",
+            "audio_src": "ภาษาไทยมีวรรณยุกต์ห้าเสียง",
+            "audio_en_src": "Thai has five tones."
+          },
+          {
+            "thai": "ฉันกำลังเรียนภาษาไทยอยู่",
+            "en": "I'm learning Thai.",
+            "audio_src": "ฉันกำลังเรียนภาษาไทยอยู่",
+            "audio_en_src": "I'm learning Thai."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-031",
@@ -92869,7 +93038,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มีความสุข, สุขใจ",
-    "audio_en_src": "happy"
+    "audio_en_src": "happy",
+    "examples": [
+      {
+        "meaning": "happy",
+        "sentences": [
+          {
+            "thai": "เห็นลูกมีความสุขฉันก็ดีใจ",
+            "en": "Seeing my kids happy makes me glad.",
+            "audio_src": "เห็นลูกมีความสุขฉันก็ดีใจ",
+            "audio_en_src": "Seeing my kids happy makes me glad."
+          },
+          {
+            "thai": "ฉันรู้สึกสุขใจที่ได้ช่วยเหลือคนอื่น",
+            "en": "I feel happy when I get to help others.",
+            "audio_src": "ฉันรู้สึกสุขใจที่ได้ช่วยเหลือคนอื่น",
+            "audio_en_src": "I feel happy when I get to help others."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-037",
@@ -92894,7 +93082,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มือถือ, โทรศัพท์มือถือ",
-    "audio_en_src": "mobile phone"
+    "audio_en_src": "mobile phone",
+    "examples": [
+      {
+        "meaning": "mobile phone",
+        "sentences": [
+          {
+            "thai": "มือถือฉันแบตหมดแล้ว",
+            "en": "My phone battery is dead.",
+            "audio_src": "มือถือฉันแบตหมดแล้ว",
+            "audio_en_src": "My phone battery is dead."
+          },
+          {
+            "thai": "เขาซื้อโทรศัพท์มือถือเครื่องใหม่",
+            "en": "He bought a new mobile phone.",
+            "audio_src": "เขาซื้อโทรศัพท์มือถือเครื่องใหม่",
+            "audio_en_src": "He bought a new mobile phone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-040",
