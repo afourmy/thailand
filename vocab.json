@@ -54869,7 +54869,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โต",
-    "audio_en_src": "to grow up; large"
+    "audio_en_src": "to grow up; large",
+    "examples": [
+      {
+        "meaning": "to grow up",
+        "sentences": [
+          {
+            "thai": "ลูกโตเร็วมาก",
+            "en": "The kids grow up so fast."
+          },
+          {
+            "thai": "โตขึ้นอยากเป็นอะไร",
+            "en": "What do you want to be when you grow up?"
+          }
+        ]
+      },
+      {
+        "meaning": "large",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้โตกว่าที่คิด",
+            "en": "This house is bigger than I thought."
+          },
+          {
+            "thai": "หมาตัวนี้โตจัง",
+            "en": "This dog is so big."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1370",
@@ -55016,7 +55044,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใจร้อน",
-    "audio_en_src": "impatient, hot-tempered"
+    "audio_en_src": "impatient, hot-tempered",
+    "examples": [
+      {
+        "meaning": "impatient, hot-tempered",
+        "sentences": [
+          {
+            "thai": "เขาใจร้อน รออะไรนานๆไม่ได้",
+            "en": "He's impatient, he can't wait long for anything."
+          },
+          {
+            "thai": "อย่าใจร้อนสิ ค่อยๆคิด",
+            "en": "Don't be so impatient, think it through slowly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1392",
@@ -55030,7 +55073,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใจเย็นๆ",
-    "audio_en_src": "'cool down', 'take it easy'"
+    "audio_en_src": "'cool down', 'take it easy'",
+    "examples": [
+      {
+        "meaning": "'cool down', 'take it easy'",
+        "sentences": [
+          {
+            "thai": "ใจเย็นๆ เดี๋ยวก็ได้คิว",
+            "en": "Take it easy, it'll be your turn soon."
+          },
+          {
+            "thai": "ใจเย็นๆก่อน อย่าเพิ่งโมโห",
+            "en": "Calm down first, don't get angry yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1393",
@@ -55346,7 +55404,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไหว",
-    "audio_en_src": "to be able to, to handle, to endure"
+    "audio_en_src": "to be able to, to handle, to endure",
+    "examples": [
+      {
+        "meaning": "to be able to, to handle, to endure",
+        "sentences": [
+          {
+            "thai": "หนักไป ฉันยกไม่ไหว",
+            "en": "It's too heavy, I can't lift it."
+          },
+          {
+            "thai": "เหนื่อยมาก เดินต่อไม่ไหวแล้ว",
+            "en": "I'm exhausted, I can't walk any further."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1429",
@@ -55361,7 +55434,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไหว้",
-    "audio_en_src": "to wai; to pay respect, to worship"
+    "audio_en_src": "to wai; to pay respect, to worship",
+    "examples": [
+      {
+        "meaning": "to wai (Thai greeting); to pay respect, to worship",
+        "sentences": [
+          {
+            "thai": "เด็กๆไหว้ผู้ใหญ่อย่างนอบน้อม",
+            "en": "The kids wai their elders politely."
+          },
+          {
+            "thai": "คนไทยไปไหว้พระที่วัด",
+            "en": "Thai people go to pay respect to the Buddha at the temple."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1430",
@@ -55429,7 +55517,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนัง",
-    "audio_en_src": "movie; leather"
+    "audio_en_src": "movie; leather",
+    "examples": [
+      {
+        "meaning": "movie",
+        "sentences": [
+          {
+            "thai": "คืนนี้ไปดูหนังกันไหม",
+            "en": "Want to go see a movie tonight?"
+          },
+          {
+            "thai": "หนังเรื่องนี้สนุกมาก",
+            "en": "This movie is really good."
+          }
+        ]
+      },
+      {
+        "meaning": "leather",
+        "sentences": [
+          {
+            "thai": "กระเป๋าหนังใบนี้สวยมาก",
+            "en": "This leather bag is beautiful."
+          },
+          {
+            "thai": "เข็มขัดทำจากหนังแท้",
+            "en": "The belt is made of genuine leather."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-005",
@@ -55564,7 +55680,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระดูก",
-    "audio_en_src": "bone"
+    "audio_en_src": "bone",
+    "examples": [
+      {
+        "meaning": "bone",
+        "sentences": [
+          {
+            "thai": "เขาตกบันไดกระดูกหัก",
+            "en": "He fell down the stairs and broke a bone."
+          },
+          {
+            "thai": "หมาชอบแทะกระดูก",
+            "en": "Dogs like to gnaw on bones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-017",
@@ -55591,7 +55722,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หน้าต่าง",
-    "audio_en_src": "window"
+    "audio_en_src": "window",
+    "examples": [
+      {
+        "meaning": "window",
+        "sentences": [
+          {
+            "thai": "เปิดหน้าต่างให้ลมเข้าหน่อย",
+            "en": "Open the window to let some air in."
+          },
+          {
+            "thai": "ที่นั่งริมหน้าต่างวิวสวย",
+            "en": "The window seat has a nice view."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-019",
@@ -55607,7 +55753,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ป่า",
-    "audio_en_src": "forest; wild"
+    "audio_en_src": "forest; wild",
+    "examples": [
+      {
+        "meaning": "forest",
+        "sentences": [
+          {
+            "thai": "ในป่ามีสัตว์หลายชนิด",
+            "en": "There are many kinds of animals in the forest."
+          },
+          {
+            "thai": "เขาหลงทางอยู่ในป่า",
+            "en": "He got lost in the forest."
+          }
+        ]
+      },
+      {
+        "meaning": "wild",
+        "sentences": [
+          {
+            "thai": "หมูป่าวิ่งออกมาจากพง",
+            "en": "A wild boar ran out of the bushes."
+          },
+          {
+            "thai": "แมวป่าตัวใหญ่กว่าแมวบ้าน",
+            "en": "Wild cats are bigger than house cats."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-020",
@@ -55622,7 +55796,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จบ",
-    "audio_en_src": "to finish, the end"
+    "audio_en_src": "to finish, the end",
+    "examples": [
+      {
+        "meaning": "to finish, the end",
+        "sentences": [
+          {
+            "thai": "หนังจบแล้ว กลับบ้านกันเถอะ",
+            "en": "The movie's over, let's go home."
+          },
+          {
+            "thai": "เรื่องนี้จบแบบมีความสุข",
+            "en": "This story has a happy ending."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tobo-022",

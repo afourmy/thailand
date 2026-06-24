@@ -54134,7 +54134,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่งหน้า",
-    "audio_en_src": "to put on makeup"
+    "audio_en_src": "to put on makeup",
+    "examples": [
+      {
+        "meaning": "to put on makeup",
+        "sentences": [
+          {
+            "thai": "เธอแต่งหน้าทุกเช้าก่อนไปทำงาน",
+            "en": "She puts on makeup every morning before work.",
+            "audio_src": "เธอแต่งหน้าทุกเช้าก่อนไปทำงาน",
+            "audio_en_src": "She puts on makeup every morning before work."
+          },
+          {
+            "thai": "วันนี้ไม่ได้แต่งหน้า ขี้เกียจ",
+            "en": "I didn't do my makeup today, too lazy.",
+            "audio_src": "วันนี้ไม่ได้แต่งหน้า ขี้เกียจ",
+            "audio_en_src": "I didn't do my makeup today, too lazy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1312",
@@ -54160,7 +54179,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่ละ",
-    "audio_en_src": "each, every"
+    "audio_en_src": "each, every",
+    "examples": [
+      {
+        "meaning": "each, every",
+        "sentences": [
+          {
+            "thai": "แต่ละคนชอบไม่เหมือนกัน",
+            "en": "Each person likes different things.",
+            "audio_src": "แต่ละคนชอบไม่เหมือนกัน",
+            "audio_en_src": "Each person likes different things."
+          },
+          {
+            "thai": "แต่ละวันเขายุ่งมาก",
+            "en": "He's really busy every day.",
+            "audio_src": "แต่ละวันเขายุ่งมาก",
+            "audio_en_src": "He's really busy every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1315",
@@ -54197,7 +54235,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แถว",
-    "audio_en_src": "area, neighborhood; row"
+    "audio_en_src": "area, neighborhood; row",
+    "examples": [
+      {
+        "meaning": "area, neighborhood",
+        "sentences": [
+          {
+            "thai": "แถวบ้านมีร้านอร่อยเยอะ",
+            "en": "There are lots of good restaurants around my place.",
+            "audio_src": "แถวบ้านมีร้านอร่อยเยอะ",
+            "audio_en_src": "There are lots of good restaurants around my place."
+          },
+          {
+            "thai": "เธออยู่แถวไหน",
+            "en": "What area do you live in?",
+            "audio_src": "เธออยู่แถวไหน",
+            "audio_en_src": "What area do you live in?"
+          }
+        ]
+      },
+      {
+        "meaning": "row",
+        "sentences": [
+          {
+            "thai": "นั่งแถวหน้าจะเห็นชัดกว่า",
+            "en": "Sitting in the front row, you'll see better.",
+            "audio_src": "นั่งแถวหน้าจะเห็นชัดกว่า",
+            "audio_en_src": "Sitting in the front row, you'll see better."
+          },
+          {
+            "thai": "ยืนเข้าแถวให้เป็นระเบียบ",
+            "en": "Line up neatly.",
+            "audio_src": "ยืนเข้าแถวให้เป็นระเบียบ",
+            "audio_en_src": "Line up neatly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1318",
@@ -54213,7 +54287,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แทน",
-    "audio_en_src": "instead of, in place of"
+    "audio_en_src": "instead of, in place of",
+    "examples": [
+      {
+        "meaning": "instead of, in place of",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันมาประชุมแทนหัวหน้า",
+            "en": "Today I'm at the meeting in place of my boss.",
+            "audio_src": "วันนี้ฉันมาประชุมแทนหัวหน้า",
+            "audio_en_src": "Today I'm at the meeting in place of my boss."
+          },
+          {
+            "thai": "ใช้น้ำผึ้งแทนน้ำตาลได้",
+            "en": "You can use honey instead of sugar.",
+            "audio_src": "ใช้น้ำผึ้งแทนน้ำตาลได้",
+            "audio_en_src": "You can use honey instead of sugar."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1319",
@@ -54304,7 +54397,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แน่ๆ",
-    "audio_en_src": "definitely, for sure"
+    "audio_en_src": "definitely, for sure",
+    "examples": [
+      {
+        "meaning": "definitely, for sure",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้เขามาแน่ๆ",
+            "en": "He's definitely coming tomorrow.",
+            "audio_src": "พรุ่งนี้เขามาแน่ๆ",
+            "audio_en_src": "He's definitely coming tomorrow."
+          },
+          {
+            "thai": "อันนี้อร่อยแน่ๆ ลองดูสิ",
+            "en": "This is definitely good, give it a try.",
+            "audio_src": "อันนี้อร่อยแน่ๆ ลองดูสิ",
+            "audio_en_src": "This is definitely good, give it a try."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1328",
@@ -54331,7 +54443,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แบ่ง",
-    "audio_en_src": "to divide, to separate; to share"
+    "audio_en_src": "to divide, to separate; to share",
+    "examples": [
+      {
+        "meaning": "to divide, to separate",
+        "sentences": [
+          {
+            "thai": "แบ่งงานกันคนละครึ่ง",
+            "en": "Let's split the work in half between us.",
+            "audio_src": "แบ่งงานกันคนละครึ่ง",
+            "audio_en_src": "Let's split the work in half between us."
+          },
+          {
+            "thai": "แบ่งกลุ่มกลุ่มละห้าคน",
+            "en": "Split into groups of five.",
+            "audio_src": "แบ่งกลุ่มกลุ่มละห้าคน",
+            "audio_en_src": "Split into groups of five."
+          }
+        ]
+      },
+      {
+        "meaning": "to share",
+        "sentences": [
+          {
+            "thai": "แบ่งขนมให้เพื่อนบ้าง",
+            "en": "Share some snacks with your friends.",
+            "audio_src": "แบ่งขนมให้เพื่อนบ้าง",
+            "audio_en_src": "Share some snacks with your friends."
+          },
+          {
+            "thai": "ขอแบ่งกินหน่อยได้ไหม",
+            "en": "Can I have some of that?",
+            "audio_src": "ขอแบ่งกินหน่อยได้ไหม",
+            "audio_en_src": "Can I have some of that?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1330",
@@ -54357,7 +54505,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แผ่น",
-    "audio_en_src": "sheet, classifier for thin flat objects"
+    "audio_en_src": "sheet, classifier for thin flat objects",
+    "examples": [
+      {
+        "meaning": "sheet, classifier for thin flat objects",
+        "sentences": [
+          {
+            "thai": "ขอกระดาษแผ่นนึง",
+            "en": "One sheet of paper, please.",
+            "audio_src": "ขอกระดาษแผ่นนึง",
+            "audio_en_src": "One sheet of paper, please."
+          },
+          {
+            "thai": "ซื้อแผ่นซีดีมาสองแผ่น",
+            "en": "I bought two CDs.",
+            "audio_src": "ซื้อแผ่นซีดีมาสองแผ่น",
+            "audio_en_src": "I bought two CDs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1332",
@@ -54438,7 +54605,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แรง",
-    "audio_en_src": "strength, force"
+    "audio_en_src": "strength, force",
+    "examples": [
+      {
+        "meaning": "strength, force",
+        "sentences": [
+          {
+            "thai": "วันนี้ลมแรงมาก",
+            "en": "The wind is really strong today.",
+            "audio_src": "วันนี้ลมแรงมาก",
+            "audio_en_src": "The wind is really strong today."
+          },
+          {
+            "thai": "ออกแรงดันประตูหน่อย",
+            "en": "Put some force into pushing the door.",
+            "audio_src": "ออกแรงดันประตูหน่อย",
+            "audio_en_src": "Put some force into pushing the door."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1342",
@@ -54454,7 +54640,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แวะ",
-    "audio_en_src": "to stop by, to drop in"
+    "audio_en_src": "to stop by, to drop in",
+    "examples": [
+      {
+        "meaning": "to stop by, to drop in",
+        "sentences": [
+          {
+            "thai": "ขอแวะซื้อกาแฟก่อนนะ",
+            "en": "Let me stop for coffee first.",
+            "audio_src": "ขอแวะซื้อกาแฟก่อนนะ",
+            "audio_en_src": "Let me stop for coffee first."
+          },
+          {
+            "thai": "ขากลับบ้านแวะหายายหน่อย",
+            "en": "On the way home, drop by to see grandma.",
+            "audio_src": "ขากลับบ้านแวะหายายหน่อย",
+            "audio_en_src": "On the way home, drop by to see grandma."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1343",
@@ -54595,7 +54800,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โง่",
-    "audio_en_src": "stupid, foolish"
+    "audio_en_src": "stupid, foolish",
+    "examples": [
+      {
+        "meaning": "stupid, foolish",
+        "sentences": [
+          {
+            "thai": "ฉันโง่เองที่ไปเชื่อเขา",
+            "en": "It was stupid of me to believe him.",
+            "audio_src": "ฉันโง่เองที่ไปเชื่อเขา",
+            "audio_en_src": "It was stupid of me to believe him."
+          },
+          {
+            "thai": "ทำไมฉันถึงได้โง่อย่างนี้",
+            "en": "Why am I so stupid?",
+            "audio_src": "ทำไมฉันถึงได้โง่อย่างนี้",
+            "audio_en_src": "Why am I so stupid?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1362",

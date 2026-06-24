@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 391 words**
+**Total: 401 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -391,6 +391,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1340` : แรง (strength, force) : 1 meaning(s), 2 sentences
 - `thaipod-1342` : แวะ (to stop by, to drop in) : 1 meaning(s), 2 sentences
 - `thaipod-1361` : โง่ (stupid, foolish) : 1 meaning(s), 2 sentences
+- `thaipod-1369` : โต (to grow up; large) : 2 meaning(s), 4 sentences
+- `thaipod-1391` : ใจร้อน (impatient, hot-tempered) : 1 meaning(s), 2 sentences
+- `thaipod-1392` : ใจเย็นๆ ('cool down', 'take it easy') : 1 meaning(s), 2 sentences
+- `thaipod-1428` : ไหว (to be able to, to handle, to endure) : 1 meaning(s), 2 sentences
+- `thaipod-1429` : ไหว้ (to wai (Thai greeting); to pay respect, to worship) : 1 meaning(s), 2 sentences
+- `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
+- `tobo-016` : กระดูก (bone) : 1 meaning(s), 2 sentences
+- `tobo-018` : หน้าต่าง (window) : 1 meaning(s), 2 sentences
+- `tobo-019` : ป่า (forest; wild) : 2 meaning(s), 4 sentences
+- `tobo-020` : จบ (to finish, the end) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
