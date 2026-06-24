@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 91 words**
+**Total: 101 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -78,8 +78,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-173` : ต้ม (to boil) : 1 meaning(s), 2 sentences
 - `tamago-l12-174` : ถอด (to take off (clothes, shoes)) : 1 meaning(s), 2 sentences
 - `tamago-l12-180` : ถึง, ถึงจะ (even if, even though; to the point that) : 2 meaning(s), 4 sentences
+- `tamago-l12-186` : ถูกใจ (to one's liking, pleased with) : 1 meaning(s), 2 sentences
+- `tamago-l12-188` : ทน (to endure, to tolerate) : 1 meaning(s), 2 sentences
 - `tamago-l12-192` : ทอด (to deep-fry) : 1 meaning(s), 2 sentences
+- `tamago-l12-193` : ทะเลาะ (to quarrel, to argue, to fight) : 1 meaning(s), 2 sentences
+- `tamago-l12-197` : ทาย (to guess) : 1 meaning(s), 2 sentences
+- `tamago-l12-198` : ทำตก (to drop (accidentally)) : 1 meaning(s), 2 sentences
+- `tamago-l12-217` : นวดฝ่าเท้า (foot massage) : 1 meaning(s), 2 sentences
+- `tamago-l12-218` : นอกใจ (to cheat on someone (be unfaithful)) : 1 meaning(s), 2 sentences
+- `tamago-l12-223` : นั่นน่ะสิ ('that's right!', 'good point!') : 1 meaning(s), 2 sentences
+- `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
+- `tamago-l12-237` : นึ่ง (to steam (food)) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
 - `tamago-l12-359` : รวม (to include, including; total) : 2 meaning(s), 4 sentences
