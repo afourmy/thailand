@@ -9,6 +9,7 @@
   var filterEl = document.getElementById("vocab-filter");
   var faceToggleEl = document.getElementById("face-toggle");
   var audioToggleEl = document.getElementById("audio-toggle");
+  var limitSelectEl = document.getElementById("vocab-limit");
 
   var words = [];
   var loaded = false;
@@ -20,6 +21,13 @@
   var face = "both"; // "both" | "thai" | "english"
   var AUDIO_LANG_KEY = "thaiAudioLang";
   var audioLang = "th"; // "th" | "en": which language the speaker button plays
+  // How many matching cards to actually render. A cap (12/60/120) keeps the grid
+  // light even when a search matches thousands; 0 means "All" (no cap). This only
+  // limits the DOM that's drawn — the full matched set (currentList) still drives
+  // the count badge and "Add filtered cards" to a deck.
+  var LIMIT_KEY = "thaiVocabLimit";
+  var ALLOWED_LIMITS = [12, 60, 120, 0];
+  var displayLimit = 12;
 
   var FREQ_ORDER = ["everyday", "common", "occasional", "rare"];
   var FREQ_LABEL = {
