@@ -39571,7 +39571,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ห่วง",
-    "audio_en_src": "to be concerned, to worry; loop, ring, hoop"
+    "audio_en_src": "to be concerned, to worry; loop, ring, hoop",
+    "examples": [
+      {
+        "meaning": "to be concerned, to worry",
+        "sentences": [
+          {
+            "thai": "แม่เป็นห่วงลูกตลอด",
+            "en": "Moms always worry about their kids.",
+            "audio_src": "แม่เป็นห่วงลูกตลอด",
+            "audio_en_src": "Moms always worry about their kids."
+          },
+          {
+            "thai": "ไม่ต้องห่วง ฉันดูแลตัวเองได้",
+            "en": "Don't worry, I can take care of myself.",
+            "audio_src": "ไม่ต้องห่วง ฉันดูแลตัวเองได้",
+            "audio_en_src": "Don't worry, I can take care of myself."
+          }
+        ]
+      },
+      {
+        "meaning": "loop, ring, hoop",
+        "sentences": [
+          {
+            "thai": "เกี่ยวกุญแจไว้ที่ห่วง",
+            "en": "Hook the keys onto the ring.",
+            "audio_src": "เกี่ยวกุญแจไว้ที่ห่วง",
+            "audio_en_src": "Hook the keys onto the ring."
+          },
+          {
+            "thai": "เด็กใส่ห่วงยางเล่นน้ำ",
+            "en": "The kid plays in the water with an inflatable ring.",
+            "audio_src": "เด็กใส่ห่วงยางเล่นน้ำ",
+            "audio_en_src": "The kid plays in the water with an inflatable ring."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-558",
@@ -39645,7 +39681,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฉัน",
-    "audio_en_src": "I; to eat; like, as"
+    "audio_en_src": "I; to eat; like, as",
+    "examples": [
+      {
+        "meaning": "I",
+        "sentences": [
+          {
+            "thai": "ฉันชอบกินข้าวเหนียว",
+            "en": "I like eating sticky rice.",
+            "audio_src": "ฉันชอบกินข้าวเหนียว",
+            "audio_en_src": "I like eating sticky rice."
+          },
+          {
+            "thai": "ฉันจะไปด้วยนะ",
+            "en": "I'll come along too.",
+            "audio_src": "ฉันจะไปด้วยนะ",
+            "audio_en_src": "I'll come along too."
+          }
+        ]
+      },
+      {
+        "meaning": "to eat (monks' usage)",
+        "sentences": [
+          {
+            "thai": "พระฉันข้าวก่อนเที่ยง",
+            "en": "Monks eat before noon.",
+            "audio_src": "พระฉันข้าวก่อนเที่ยง",
+            "audio_en_src": "Monks eat before noon."
+          },
+          {
+            "thai": "หลวงพ่อกำลังฉันเพล",
+            "en": "The monk is having his midday meal.",
+            "audio_src": "หลวงพ่อกำลังฉันเพล",
+            "audio_en_src": "The monk is having his midday meal."
+          }
+        ]
+      },
+      {
+        "meaning": "like, as",
+        "sentences": [
+          {
+            "thai": "เขารักเธอฉันน้องสาว",
+            "en": "He loves her as if she were his little sister.",
+            "audio_src": "เขารักเธอฉันน้องสาว",
+            "audio_en_src": "He loves her as if she were his little sister."
+          },
+          {
+            "thai": "พวกเขาอยู่ด้วยกันฉันพี่น้อง",
+            "en": "They live together like siblings.",
+            "audio_src": "พวกเขาอยู่ด้วยกันฉันพี่น้อง",
+            "audio_en_src": "They live together like siblings."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-564",
@@ -40628,7 +40717,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระโปรง",
-    "audio_en_src": "skirt"
+    "audio_en_src": "skirt",
+    "examples": [
+      {
+        "meaning": "skirt",
+        "sentences": [
+          {
+            "thai": "วันนี้เธอใส่กระโปรงสวยมาก",
+            "en": "She's wearing a really pretty skirt today.",
+            "audio_src": "วันนี้เธอใส่กระโปรงสวยมาก",
+            "audio_en_src": "She's wearing a really pretty skirt today."
+          },
+          {
+            "thai": "กระโปรงตัวนี้สั้นไปหน่อย",
+            "en": "This skirt is a bit too short.",
+            "audio_src": "กระโปรงตัวนี้สั้นไปหน่อย",
+            "audio_en_src": "This skirt is a bit too short."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0022",
@@ -40727,7 +40835,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กล้า",
-    "audio_en_src": "brave; to dare"
+    "audio_en_src": "brave; to dare",
+    "examples": [
+      {
+        "meaning": "brave",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้กล้ามาก ไม่กลัวอะไรเลย",
+            "en": "This kid is so brave, not afraid of anything.",
+            "audio_src": "เด็กคนนี้กล้ามาก ไม่กลัวอะไรเลย",
+            "audio_en_src": "This kid is so brave, not afraid of anything."
+          },
+          {
+            "thai": "ต้องกล้าที่จะลองสิ่งใหม่ๆ",
+            "en": "You have to be brave enough to try new things.",
+            "audio_src": "ต้องกล้าที่จะลองสิ่งใหม่ๆ",
+            "audio_en_src": "You have to be brave enough to try new things."
+          }
+        ]
+      },
+      {
+        "meaning": "to dare",
+        "sentences": [
+          {
+            "thai": "ฉันไม่กล้าบอกความจริง",
+            "en": "I don't dare tell the truth.",
+            "audio_src": "ฉันไม่กล้าบอกความจริง",
+            "audio_en_src": "I don't dare tell the truth."
+          },
+          {
+            "thai": "เธอกล้าพูดต่อหน้าเขาไหม",
+            "en": "Do you dare say it to his face?",
+            "audio_src": "เธอกล้าพูดต่อหน้าเขาไหม",
+            "audio_en_src": "Do you dare say it to his face?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0031",
@@ -40858,7 +41002,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กางเกงยีนส์",
-    "audio_en_src": "jeans"
+    "audio_en_src": "jeans",
+    "examples": [
+      {
+        "meaning": "jeans",
+        "sentences": [
+          {
+            "thai": "ฉันใส่กางเกงยีนส์ไปทำงานได้ไหม",
+            "en": "Can I wear jeans to work?",
+            "audio_src": "ฉันใส่กางเกงยีนส์ไปทำงานได้ไหม",
+            "audio_en_src": "Can I wear jeans to work?"
+          },
+          {
+            "thai": "กางเกงยีนส์ตัวนี้ใส่สบายดี",
+            "en": "These jeans are really comfortable.",
+            "audio_src": "กางเกงยีนส์ตัวนี้ใส่สบายดี",
+            "audio_en_src": "These jeans are really comfortable."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0045",
@@ -41333,7 +41496,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขนม",
-    "audio_en_src": "dessert, sweet, snack"
+    "audio_en_src": "dessert, sweet, snack",
+    "examples": [
+      {
+        "meaning": "dessert, sweet, snack",
+        "sentences": [
+          {
+            "thai": "หิวจัง ขอกินขนมก่อน",
+            "en": "I'm so hungry, let me have a snack first.",
+            "audio_src": "หิวจัง ขอกินขนมก่อน",
+            "audio_en_src": "I'm so hungry, let me have a snack first."
+          },
+          {
+            "thai": "แม่ซื้อขนมมาฝาก",
+            "en": "Mom brought back some sweets for us.",
+            "audio_src": "แม่ซื้อขนมมาฝาก",
+            "audio_en_src": "Mom brought back some sweets for us."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0117",
@@ -41553,7 +41735,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข่าวดี",
-    "audio_en_src": "good news"
+    "audio_en_src": "good news",
+    "examples": [
+      {
+        "meaning": "good news",
+        "sentences": [
+          {
+            "thai": "มีข่าวดีจะบอก ฉันสอบผ่านแล้ว",
+            "en": "I've got good news, I passed the exam.",
+            "audio_src": "มีข่าวดีจะบอก ฉันสอบผ่านแล้ว",
+            "audio_en_src": "I've got good news, I passed the exam."
+          },
+          {
+            "thai": "ข่าวดีคือพรุ่งนี้หยุด",
+            "en": "The good news is tomorrow's a holiday.",
+            "audio_src": "ข่าวดีคือพรุ่งนี้หยุด",
+            "audio_en_src": "The good news is tomorrow's a holiday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0144",
@@ -41632,7 +41833,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คง",
-    "audio_en_src": "probably; to remain, to continue"
+    "audio_en_src": "probably; to remain, to continue",
+    "examples": [
+      {
+        "meaning": "probably",
+        "sentences": [
+          {
+            "thai": "เขาคงลืมไปแล้วมั้ง",
+            "en": "He's probably forgotten by now.",
+            "audio_src": "เขาคงลืมไปแล้วมั้ง",
+            "audio_en_src": "He's probably forgotten by now."
+          },
+          {
+            "thai": "ฝนตกแบบนี้ รถคงติด",
+            "en": "With rain like this, the traffic's probably bad.",
+            "audio_src": "ฝนตกแบบนี้ รถคงติด",
+            "audio_en_src": "With rain like this, the traffic's probably bad."
+          }
+        ]
+      },
+      {
+        "meaning": "to remain, to continue",
+        "sentences": [
+          {
+            "thai": "ราคายังคงเท่าเดิม",
+            "en": "The price remains the same.",
+            "audio_src": "ราคายังคงเท่าเดิม",
+            "audio_en_src": "The price remains the same."
+          },
+          {
+            "thai": "เขายังคงรอเธออยู่",
+            "en": "He's still waiting for her.",
+            "audio_src": "เขายังคงรอเธออยู่",
+            "audio_en_src": "He's still waiting for her."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0152",
@@ -42367,7 +42604,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "งง, สับสน",
-    "audio_en_src": "confused"
+    "audio_en_src": "confused",
+    "examples": [
+      {
+        "meaning": "confused",
+        "sentences": [
+          {
+            "thai": "ฟังไม่รู้เรื่อง งงไปหมด",
+            "en": "I didn't catch any of it, I'm totally confused.",
+            "audio_src": "ฟังไม่รู้เรื่อง งงไปหมด",
+            "audio_en_src": "I didn't catch any of it, I'm totally confused."
+          },
+          {
+            "thai": "อธิบายใหม่ได้ไหม ฉันงง",
+            "en": "Can you explain that again? I'm confused.",
+            "audio_src": "อธิบายใหม่ได้ไหม ฉันงง",
+            "audio_en_src": "Can you explain that again? I'm confused."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0236",
@@ -42575,7 +42831,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จึง",
-    "audio_en_src": "therefore, so"
+    "audio_en_src": "therefore, so",
+    "examples": [
+      {
+        "meaning": "therefore, so",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนัก เขาจึงมาสาย",
+            "en": "It rained hard, so he was late.",
+            "audio_src": "ฝนตกหนัก เขาจึงมาสาย",
+            "audio_en_src": "It rained hard, so he was late."
+          },
+          {
+            "thai": "เธอตั้งใจเรียน จึงสอบได้คะแนนดี",
+            "en": "She studied hard, so she got good marks.",
+            "audio_src": "เธอตั้งใจเรียน จึงสอบได้คะแนนดี",
+            "audio_en_src": "She studied hard, so she got good marks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0260",
@@ -42646,7 +42921,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จําเป็น",
-    "audio_en_src": "necessary"
+    "audio_en_src": "necessary",
+    "examples": [
+      {
+        "meaning": "necessary",
+        "sentences": [
+          {
+            "thai": "ถ้าไม่จำเป็นก็ไม่ต้องไป",
+            "en": "If it's not necessary, you don't have to go.",
+            "audio_src": "ถ้าไม่จำเป็นก็ไม่ต้องไป",
+            "audio_en_src": "If it's not necessary, you don't have to go."
+          },
+          {
+            "thai": "น้ำเป็นสิ่งจำเป็นต่อชีวิต",
+            "en": "Water is essential for life.",
+            "audio_src": "น้ำเป็นสิ่งจำเป็นต่อชีวิต",
+            "audio_en_src": "Water is essential for life."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0268",
@@ -42846,7 +43140,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชิ้น",
-    "audio_en_src": "piece, item"
+    "audio_en_src": "piece, item",
+    "examples": [
+      {
+        "meaning": "piece, item (classifier)",
+        "sentences": [
+          {
+            "thai": "ขอเค้กชิ้นนึง",
+            "en": "One piece of cake, please.",
+            "audio_src": "ขอเค้กชิ้นนึง",
+            "audio_en_src": "One piece of cake, please."
+          },
+          {
+            "thai": "เนื้อชิ้นนี้ใหญ่ไป หั่นครึ่งดีกว่า",
+            "en": "This piece of meat is too big, better cut it in half.",
+            "audio_src": "เนื้อชิ้นนี้ใหญ่ไป หั่นครึ่งดีกว่า",
+            "audio_en_src": "This piece of meat is too big, better cut it in half."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0285",
@@ -42976,7 +43289,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ญาติ",
-    "audio_en_src": "relative"
+    "audio_en_src": "relative",
+    "examples": [
+      {
+        "meaning": "relative (family)",
+        "sentences": [
+          {
+            "thai": "ช่วงปีใหม่ญาติมารวมตัวกัน",
+            "en": "During New Year, the relatives all gather together.",
+            "audio_src": "ช่วงปีใหม่ญาติมารวมตัวกัน",
+            "audio_en_src": "During New Year, the relatives all gather together."
+          },
+          {
+            "thai": "เขาเป็นญาติห่างๆของฉัน",
+            "en": "He's a distant relative of mine.",
+            "audio_src": "เขาเป็นญาติห่างๆของฉัน",
+            "audio_en_src": "He's a distant relative of mine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0306",
@@ -43227,7 +43559,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ด้วย",
-    "audio_en_src": "by, by means of; also"
+    "audio_en_src": "by, by means of; also",
+    "examples": [
+      {
+        "meaning": "by, by means of",
+        "sentences": [
+          {
+            "thai": "ฉันไปทำงานด้วยรถเมล์",
+            "en": "I go to work by bus.",
+            "audio_src": "ฉันไปทำงานด้วยรถเมล์",
+            "audio_en_src": "I go to work by bus."
+          },
+          {
+            "thai": "เขียนด้วยปากกาสีน้ำเงิน",
+            "en": "Write it with a blue pen.",
+            "audio_src": "เขียนด้วยปากกาสีน้ำเงิน",
+            "audio_en_src": "Write it with a blue pen."
+          }
+        ]
+      },
+      {
+        "meaning": "also",
+        "sentences": [
+          {
+            "thai": "ฉันก็อยากไปด้วย",
+            "en": "I want to go too.",
+            "audio_src": "ฉันก็อยากไปด้วย",
+            "audio_en_src": "I want to go too."
+          },
+          {
+            "thai": "ซื้อขนมมาให้ฉันด้วยนะ",
+            "en": "Buy me some snacks too, okay?",
+            "audio_src": "ซื้อขนมมาให้ฉันด้วยนะ",
+            "audio_en_src": "Buy me some snacks too, okay?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0335",
@@ -43276,7 +43644,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ด้าน",
-    "audio_en_src": "side, field, area, aspect"
+    "audio_en_src": "side, field, area, aspect",
+    "examples": [
+      {
+        "meaning": "side, field, area, aspect",
+        "sentences": [
+          {
+            "thai": "เขาเก่งด้านภาษา",
+            "en": "He's strong in languages.",
+            "audio_src": "เขาเก่งด้านภาษา",
+            "audio_en_src": "He's strong in languages."
+          },
+          {
+            "thai": "มองปัญหาในหลายๆด้าน",
+            "en": "Look at the problem from many angles.",
+            "audio_src": "มองปัญหาในหลายๆด้าน",
+            "audio_en_src": "Look at the problem from many angles."
+          },
+          {
+            "thai": "บ้านอยู่ด้านซ้ายของถนน",
+            "en": "The house is on the left side of the road.",
+            "audio_src": "บ้านอยู่ด้านซ้ายของถนน",
+            "audio_en_src": "The house is on the left side of the road."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0341",
@@ -43517,7 +43910,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตาม",
-    "audio_en_src": "to follow; along"
+    "audio_en_src": "to follow; along",
+    "examples": [
+      {
+        "meaning": "to follow",
+        "sentences": [
+          {
+            "thai": "เดินตามฉันมา",
+            "en": "Follow me.",
+            "audio_src": "เดินตามฉันมา",
+            "audio_en_src": "Follow me."
+          },
+          {
+            "thai": "หมาวิ่งตามเจ้าของ",
+            "en": "The dog runs after its owner.",
+            "audio_src": "หมาวิ่งตามเจ้าของ",
+            "audio_en_src": "The dog runs after its owner."
+          }
+        ]
+      },
+      {
+        "meaning": "along",
+        "sentences": [
+          {
+            "thai": "มีร้านค้าตามทาง",
+            "en": "There are shops along the way.",
+            "audio_src": "มีร้านค้าตามทาง",
+            "audio_en_src": "There are shops along the way."
+          },
+          {
+            "thai": "ขยะเกลื่อนอยู่ตามถนน",
+            "en": "Trash is scattered all along the street.",
+            "audio_src": "ขยะเกลื่อนอยู่ตามถนน",
+            "audio_en_src": "Trash is scattered all along the street."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0368",
@@ -43630,7 +44059,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตุ๊กตา",
-    "audio_en_src": "doll"
+    "audio_en_src": "doll",
+    "examples": [
+      {
+        "meaning": "doll",
+        "sentences": [
+          {
+            "thai": "เด็กผู้หญิงชอบเล่นตุ๊กตา",
+            "en": "Little girls like playing with dolls.",
+            "audio_src": "เด็กผู้หญิงชอบเล่นตุ๊กตา",
+            "audio_en_src": "Little girls like playing with dolls."
+          },
+          {
+            "thai": "เขาซื้อตุ๊กตาหมีให้แฟน",
+            "en": "He bought a teddy bear for his girlfriend.",
+            "audio_src": "เขาซื้อตุ๊กตาหมีให้แฟน",
+            "audio_en_src": "He bought a teddy bear for his girlfriend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0379",
@@ -43676,7 +44124,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต่อ",
-    "audio_en_src": "for, against; per"
+    "audio_en_src": "for, against; per",
+    "examples": [
+      {
+        "meaning": "for, against",
+        "sentences": [
+          {
+            "thai": "ทีมเราชนะสองต่อหนึ่ง",
+            "en": "Our team won two to one.",
+            "audio_src": "ทีมเราชนะสองต่อหนึ่ง",
+            "audio_en_src": "Our team won two to one."
+          },
+          {
+            "thai": "คืนนี้มีคู่ไทยต่อญี่ปุ่น",
+            "en": "Tonight there's a Thailand versus Japan match.",
+            "audio_src": "คืนนี้มีคู่ไทยต่อญี่ปุ่น",
+            "audio_en_src": "Tonight there's a Thailand versus Japan match."
+          }
+        ]
+      },
+      {
+        "meaning": "per",
+        "sentences": [
+          {
+            "thai": "ค่าเช่าเดือนละห้าพันต่อคน",
+            "en": "Rent is five thousand a month per person.",
+            "audio_src": "ค่าเช่าเดือนละห้าพันต่อคน",
+            "audio_en_src": "Rent is five thousand a month per person."
+          },
+          {
+            "thai": "ขับได้ร้อยกิโลต่อชั่วโมง",
+            "en": "It can go a hundred kilometers per hour.",
+            "audio_src": "ขับได้ร้อยกิโลต่อชั่วโมง",
+            "audio_en_src": "It can go a hundred kilometers per hour."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0384",
@@ -43715,7 +44199,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต่างๆ",
-    "audio_en_src": "various"
+    "audio_en_src": "various",
+    "examples": [
+      {
+        "meaning": "various",
+        "sentences": [
+          {
+            "thai": "ในงานมีอาหารต่างๆให้เลือกเยอะ",
+            "en": "At the event there's all sorts of food to choose from.",
+            "audio_src": "ในงานมีอาหารต่างๆให้เลือกเยอะ",
+            "audio_en_src": "At the event there's all sorts of food to choose from."
+          },
+          {
+            "thai": "เขาเล่าเรื่องต่างๆให้ฟัง",
+            "en": "He told me about all kinds of things.",
+            "audio_src": "เขาเล่าเรื่องต่างๆให้ฟัง",
+            "audio_en_src": "He told me about all kinds of things."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0387",
@@ -43731,7 +44234,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต้น",
-    "audio_en_src": "tree; classifier for plants"
+    "audio_en_src": "tree; classifier for plants",
+    "examples": [
+      {
+        "meaning": "tree",
+        "sentences": [
+          {
+            "thai": "ต้นมะม่วงหน้าบ้านสูงมาก",
+            "en": "The mango tree in front of the house is very tall.",
+            "audio_src": "ต้นมะม่วงหน้าบ้านสูงมาก",
+            "audio_en_src": "The mango tree in front of the house is very tall."
+          },
+          {
+            "thai": "ใบไม้ร่วงจากต้น",
+            "en": "The leaves fall from the tree.",
+            "audio_src": "ใบไม้ร่วงจากต้น",
+            "audio_en_src": "The leaves fall from the tree."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for plants",
+        "sentences": [
+          {
+            "thai": "ปลูกกุหลาบไว้สามต้น",
+            "en": "I planted three rose bushes.",
+            "audio_src": "ปลูกกุหลาบไว้สามต้น",
+            "audio_en_src": "I planted three rose bushes."
+          },
+          {
+            "thai": "ต้นไม้ต้นนี้เพิ่งปลูก",
+            "en": "This plant was just planted.",
+            "audio_src": "ต้นไม้ต้นนี้เพิ่งปลูก",
+            "audio_en_src": "This plant was just planted."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0388",
@@ -43982,7 +44521,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทัน",
-    "audio_en_src": "in time, to catch up"
+    "audio_en_src": "in time, to catch up",
+    "examples": [
+      {
+        "meaning": "in time, to catch up",
+        "sentences": [
+          {
+            "thai": "รีบหน่อย เดี๋ยวไปไม่ทันรถไฟ",
+            "en": "Hurry up, we won't make the train in time.",
+            "audio_src": "รีบหน่อย เดี๋ยวไปไม่ทันรถไฟ",
+            "audio_en_src": "Hurry up, we won't make the train in time."
+          },
+          {
+            "thai": "เรียนตามเพื่อนไม่ทัน",
+            "en": "I can't keep up with my classmates.",
+            "audio_src": "เรียนตามเพื่อนไม่ทัน",
+            "audio_en_src": "I can't keep up with my classmates."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0423",
@@ -44033,7 +44591,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทั่วไป, โดยทั่วไป",
-    "audio_en_src": "generally, in general"
+    "audio_en_src": "generally, in general",
+    "examples": [
+      {
+        "meaning": "generally, in general",
+        "sentences": [
+          {
+            "thai": "โดยทั่วไปฉันตื่นหกโมงเช้า",
+            "en": "Generally I wake up at six in the morning.",
+            "audio_src": "โดยทั่วไปฉันตื่นหกโมงเช้า",
+            "audio_en_src": "Generally I wake up at six in the morning."
+          },
+          {
+            "thai": "ร้านทั่วไปเปิดเก้าโมง",
+            "en": "Most shops open at nine.",
+            "audio_src": "ร้านทั่วไปเปิดเก้าโมง",
+            "audio_en_src": "Most shops open at nine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0430",
@@ -44193,7 +44770,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทิ้ง",
-    "audio_en_src": "to leave, to throw away, to discard"
+    "audio_en_src": "to leave, to throw away, to discard",
+    "examples": [
+      {
+        "meaning": "to leave, to throw away, to discard",
+        "sentences": [
+          {
+            "thai": "ทิ้งขยะลงถัง",
+            "en": "Throw the trash in the bin.",
+            "audio_src": "ทิ้งขยะลงถัง",
+            "audio_en_src": "Throw the trash in the bin."
+          },
+          {
+            "thai": "อย่าทิ้งฉันไว้คนเดียว",
+            "en": "Don't leave me here alone.",
+            "audio_src": "อย่าทิ้งฉันไว้คนเดียว",
+            "audio_en_src": "Don't leave me here alone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0448",
@@ -44261,7 +44857,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่รัก",
-    "audio_en_src": "beloved, darling"
+    "audio_en_src": "beloved, darling",
+    "examples": [
+      {
+        "meaning": "beloved, darling",
+        "sentences": [
+          {
+            "thai": "ที่รัก คิดถึงจัง",
+            "en": "Darling, I miss you so much.",
+            "audio_src": "ที่รัก คิดถึงจัง",
+            "audio_en_src": "Darling, I miss you so much."
+          },
+          {
+            "thai": "ฝันดีนะที่รัก",
+            "en": "Sweet dreams, darling.",
+            "audio_src": "ฝันดีนะที่รัก",
+            "audio_en_src": "Sweet dreams, darling."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0456",
@@ -44307,7 +44922,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกวันนี้",
-    "audio_en_src": "nowadays, these days"
+    "audio_en_src": "nowadays, these days",
+    "examples": [
+      {
+        "meaning": "nowadays, these days",
+        "sentences": [
+          {
+            "thai": "ทุกวันนี้ของแพงขึ้นทุกอย่าง",
+            "en": "These days everything is getting more expensive.",
+            "audio_src": "ทุกวันนี้ของแพงขึ้นทุกอย่าง",
+            "audio_en_src": "These days everything is getting more expensive."
+          },
+          {
+            "thai": "ทุกวันนี้เขายังทำงานหนักอยู่",
+            "en": "Nowadays he still works hard.",
+            "audio_src": "ทุกวันนี้เขายังทำงานหนักอยู่",
+            "audio_en_src": "Nowadays he still works hard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0460",
@@ -44398,7 +45032,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ท้าย",
-    "audio_en_src": "end, at the back, rear side"
+    "audio_en_src": "end, at the back, rear side",
+    "examples": [
+      {
+        "meaning": "end, at the back, rear side",
+        "sentences": [
+          {
+            "thai": "นั่งแถวท้ายๆดีกว่า",
+            "en": "Better to sit in the back rows.",
+            "audio_src": "นั่งแถวท้ายๆดีกว่า",
+            "audio_en_src": "Better to sit in the back rows."
+          },
+          {
+            "thai": "ห้องน้ำอยู่ท้ายร้าน",
+            "en": "The bathroom is at the back of the shop.",
+            "audio_src": "ห้องน้ำอยู่ท้ายร้าน",
+            "audio_en_src": "The bathroom is at the back of the shop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0468",
@@ -44435,7 +45088,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ธรรมดา",
-    "audio_en_src": "ordinary, common, normal"
+    "audio_en_src": "ordinary, common, normal",
+    "examples": [
+      {
+        "meaning": "ordinary, common, normal",
+        "sentences": [
+          {
+            "thai": "วันนี้เป็นวันธรรมดา ไม่มีอะไรพิเศษ",
+            "en": "Today is an ordinary day, nothing special.",
+            "audio_src": "วันนี้เป็นวันธรรมดา ไม่มีอะไรพิเศษ",
+            "audio_en_src": "Today is an ordinary day, nothing special."
+          },
+          {
+            "thai": "ขอกาแฟร้อนธรรมดาแก้วนึง",
+            "en": "One regular hot coffee, please.",
+            "audio_src": "ขอกาแฟร้อนธรรมดาแก้วนึง",
+            "audio_en_src": "One regular hot coffee, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0471",
@@ -44475,7 +45147,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นก",
-    "audio_en_src": "bird"
+    "audio_en_src": "bird",
+    "examples": [
+      {
+        "meaning": "bird",
+        "sentences": [
+          {
+            "thai": "มีนกมาเกาะที่หน้าต่าง",
+            "en": "A bird landed on the window.",
+            "audio_src": "มีนกมาเกาะที่หน้าต่าง",
+            "audio_en_src": "A bird landed on the window."
+          },
+          {
+            "thai": "ตอนเช้าได้ยินเสียงนกร้อง",
+            "en": "In the morning I hear birds singing.",
+            "audio_src": "ตอนเช้าได้ยินเสียงนกร้อง",
+            "audio_en_src": "In the morning I hear birds singing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0474",
@@ -44715,7 +45406,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นิสัย",
-    "audio_en_src": "habit, behavior, character"
+    "audio_en_src": "habit, behavior, character",
+    "examples": [
+      {
+        "meaning": "habit, behavior, character",
+        "sentences": [
+          {
+            "thai": "เขานิสัยดี ใครๆก็ชอบ",
+            "en": "He has a good personality, everyone likes him.",
+            "audio_src": "เขานิสัยดี ใครๆก็ชอบ",
+            "audio_en_src": "He has a good personality, everyone likes him."
+          },
+          {
+            "thai": "การนอนดึกเป็นนิสัยที่ไม่ดี",
+            "en": "Staying up late is a bad habit.",
+            "audio_src": "การนอนดึกเป็นนิสัยที่ไม่ดี",
+            "audio_en_src": "Staying up late is a bad habit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0499",
@@ -45311,7 +46021,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประหยัด",
-    "audio_en_src": "to save, economical"
+    "audio_en_src": "to save, economical",
+    "examples": [
+      {
+        "meaning": "to save (money, time), economical",
+        "sentences": [
+          {
+            "thai": "ปิดไฟด้วยเพื่อประหยัดไฟ",
+            "en": "Turn off the lights to save electricity.",
+            "audio_src": "ปิดไฟด้วยเพื่อประหยัดไฟ",
+            "audio_en_src": "Turn off the lights to save electricity."
+          },
+          {
+            "thai": "รถคันนี้ประหยัดน้ำมันดี",
+            "en": "This car is really fuel-efficient.",
+            "audio_src": "รถคันนี้ประหยัดน้ำมันดี",
+            "audio_en_src": "This car is really fuel-efficient."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0564",
@@ -45339,7 +46068,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประโยชน์, คุณประโยชน์",
-    "audio_en_src": "benefit, use, advantage"
+    "audio_en_src": "benefit, use, advantage",
+    "examples": [
+      {
+        "meaning": "benefit, use, advantage",
+        "sentences": [
+          {
+            "thai": "การออกกำลังกายมีประโยชน์ต่อสุขภาพ",
+            "en": "Exercising is good for your health.",
+            "audio_src": "การออกกำลังกายมีประโยชน์ต่อสุขภาพ",
+            "audio_en_src": "Exercising is good for your health."
+          },
+          {
+            "thai": "อ่านหนังสือเล่มนี้ได้ประโยชน์เยอะ",
+            "en": "I got a lot out of reading this book.",
+            "audio_src": "อ่านหนังสือเล่มนี้ได้ประโยชน์เยอะ",
+            "audio_en_src": "I got a lot out of reading this book."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0567",
@@ -45450,7 +46198,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปล่อย",
-    "audio_en_src": "to release, to let go, to leave"
+    "audio_en_src": "to release, to let go, to leave",
+    "examples": [
+      {
+        "meaning": "to release, to let go, to leave",
+        "sentences": [
+          {
+            "thai": "ปล่อยนกให้บินไป",
+            "en": "Let the bird go and fly away.",
+            "audio_src": "ปล่อยนกให้บินไป",
+            "audio_en_src": "Let the bird go and fly away."
+          },
+          {
+            "thai": "ปล่อยมือได้แล้ว",
+            "en": "You can let go now.",
+            "audio_src": "ปล่อยมือได้แล้ว",
+            "audio_en_src": "You can let go now."
+          },
+          {
+            "thai": "อย่าปล่อยให้เขารอนาน",
+            "en": "Don't leave him waiting too long.",
+            "audio_src": "อย่าปล่อยให้เขารอนาน",
+            "audio_en_src": "Don't leave him waiting too long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0579",
@@ -45511,7 +46284,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปากซอย",
-    "audio_en_src": "entrance/mouth of a soi"
+    "audio_en_src": "entrance/mouth of a soi",
+    "examples": [
+      {
+        "meaning": "entrance/mouth of a soi (small street)",
+        "sentences": [
+          {
+            "thai": "รอฉันที่ปากซอยนะ",
+            "en": "Wait for me at the entrance of the soi.",
+            "audio_src": "รอฉันที่ปากซอยนะ",
+            "audio_en_src": "Wait for me at the entrance of the soi."
+          },
+          {
+            "thai": "ร้านกาแฟอยู่ปากซอย",
+            "en": "The coffee shop is at the mouth of the soi.",
+            "audio_src": "ร้านกาแฟอยู่ปากซอย",
+            "audio_en_src": "The coffee shop is at the mouth of the soi."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0589",
@@ -45904,7 +46696,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผ่าน",
-    "audio_en_src": "to pass; through, via"
+    "audio_en_src": "to pass; through, via",
+    "examples": [
+      {
+        "meaning": "to pass",
+        "sentences": [
+          {
+            "thai": "เวลาผ่านไปเร็วมาก",
+            "en": "Time passes so quickly.",
+            "audio_src": "เวลาผ่านไปเร็วมาก",
+            "audio_en_src": "Time passes so quickly."
+          },
+          {
+            "thai": "เขาสอบผ่านทุกวิชา",
+            "en": "He passed every subject.",
+            "audio_src": "เขาสอบผ่านทุกวิชา",
+            "audio_en_src": "He passed every subject."
+          }
+        ]
+      },
+      {
+        "meaning": "through, via",
+        "sentences": [
+          {
+            "thai": "เดินทางผ่านหลายเมือง",
+            "en": "Travel through many cities.",
+            "audio_src": "เดินทางผ่านหลายเมือง",
+            "audio_en_src": "Travel through many cities."
+          },
+          {
+            "thai": "ติดต่อมาผ่านทางอีเมล",
+            "en": "Get in touch via email.",
+            "audio_src": "ติดต่อมาผ่านทางอีเมล",
+            "audio_en_src": "Get in touch via email."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0627",
@@ -46086,7 +46914,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พยายาม",
-    "audio_en_src": "to try, to attempt"
+    "audio_en_src": "to try, to attempt",
+    "examples": [
+      {
+        "meaning": "to try, to attempt",
+        "sentences": [
+          {
+            "thai": "ฉันพยายามทำให้ดีที่สุดแล้ว",
+            "en": "I've tried my best.",
+            "audio_src": "ฉันพยายามทำให้ดีที่สุดแล้ว",
+            "audio_en_src": "I've tried my best."
+          },
+          {
+            "thai": "พยายามอีกหน่อย เกือบได้แล้ว",
+            "en": "Try a little harder, you're almost there.",
+            "audio_src": "พยายามอีกหน่อย เกือบได้แล้ว",
+            "audio_en_src": "Try a little harder, you're almost there."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0644",
@@ -46124,7 +46971,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พระ",
-    "audio_en_src": "Buddha; monk; royal prefix"
+    "audio_en_src": "Buddha; monk; royal prefix",
+    "examples": [
+      {
+        "meaning": "Buddha",
+        "sentences": [
+          {
+            "thai": "เขากราบพระทุกเช้า",
+            "en": "He pays respect to the Buddha every morning.",
+            "audio_src": "เขากราบพระทุกเช้า",
+            "audio_en_src": "He pays respect to the Buddha every morning."
+          },
+          {
+            "thai": "ที่บ้านมีพระอยู่บนหิ้ง",
+            "en": "At home there's a Buddha image on the shelf.",
+            "audio_src": "ที่บ้านมีพระอยู่บนหิ้ง",
+            "audio_en_src": "At home there's a Buddha image on the shelf."
+          }
+        ]
+      },
+      {
+        "meaning": "monk",
+        "sentences": [
+          {
+            "thai": "พระเดินบิณฑบาตตอนเช้า",
+            "en": "The monks go on their alms round in the morning.",
+            "audio_src": "พระเดินบิณฑบาตตอนเช้า",
+            "audio_en_src": "The monks go on their alms round in the morning."
+          },
+          {
+            "thai": "เขาบวชเป็นพระสามเดือน",
+            "en": "He was ordained as a monk for three months.",
+            "audio_src": "เขาบวชเป็นพระสามเดือน",
+            "audio_en_src": "He was ordained as a monk for three months."
+          }
+        ]
+      },
+      {
+        "meaning": "royal prefix",
+        "sentences": [
+          {
+            "thai": "พระราชาเสด็จมาเยือน",
+            "en": "The king came for a visit.",
+            "audio_src": "พระราชาเสด็จมาเยือน",
+            "audio_en_src": "The king came for a visit."
+          },
+          {
+            "thai": "คนไทยรักพระมหากษัตริย์",
+            "en": "Thai people love the monarch.",
+            "audio_src": "คนไทยรักพระมหากษัตริย์",
+            "audio_en_src": "Thai people love the monarch."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0648",
@@ -46731,7 +47631,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พร้อม",
-    "audio_en_src": "ready; along with"
+    "audio_en_src": "ready; along with",
+    "examples": [
+      {
+        "meaning": "ready",
+        "sentences": [
+          {
+            "thai": "พร้อมหรือยัง จะไปแล้วนะ",
+            "en": "Are you ready? We're about to go.",
+            "audio_src": "พร้อมหรือยัง จะไปแล้วนะ",
+            "audio_en_src": "Are you ready? We're about to go."
+          },
+          {
+            "thai": "ฉันพร้อมแล้ว ไปกันเลย",
+            "en": "I'm ready, let's go.",
+            "audio_src": "ฉันพร้อมแล้ว ไปกันเลย",
+            "audio_en_src": "I'm ready, let's go."
+          }
+        ]
+      },
+      {
+        "meaning": "along with",
+        "sentences": [
+          {
+            "thai": "เขามาพร้อมครอบครัว",
+            "en": "He came along with his family.",
+            "audio_src": "เขามาพร้อมครอบครัว",
+            "audio_en_src": "He came along with his family."
+          },
+          {
+            "thai": "ส่งเอกสารพร้อมรูปถ่าย",
+            "en": "Submit the documents along with a photo.",
+            "audio_src": "ส่งเอกสารพร้อมรูปถ่าย",
+            "audio_en_src": "Submit the documents along with a photo."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0717",
@@ -46790,7 +47726,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พวก",
-    "audio_en_src": "group, bunch"
+    "audio_en_src": "group, bunch",
+    "examples": [
+      {
+        "meaning": "group, bunch (of people)",
+        "sentences": [
+          {
+            "thai": "พวกเราจะไปเที่ยวทะเล",
+            "en": "Our group is going to the beach.",
+            "audio_src": "พวกเราจะไปเที่ยวทะเล",
+            "audio_en_src": "Our group is going to the beach."
+          },
+          {
+            "thai": "พวกนั้นเสียงดังมาก",
+            "en": "That bunch is really loud.",
+            "audio_src": "พวกนั้นเสียงดังมาก",
+            "audio_en_src": "That bunch is really loud."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0722",
@@ -47163,7 +48118,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ภูมิใจ",
-    "audio_en_src": "proud of"
+    "audio_en_src": "proud of",
+    "examples": [
+      {
+        "meaning": "proud of",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ภูมิใจในตัวลูก",
+            "en": "Parents are proud of their children.",
+            "audio_src": "พ่อแม่ภูมิใจในตัวลูก",
+            "audio_en_src": "Parents are proud of their children."
+          },
+          {
+            "thai": "ฉันภูมิใจที่เป็นคนไทย",
+            "en": "I'm proud to be Thai.",
+            "audio_src": "ฉันภูมิใจที่เป็นคนไทย",
+            "audio_en_src": "I'm proud to be Thai."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0758",
@@ -47328,7 +48302,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มากมาย",
-    "audio_en_src": "many, plenty, abundant"
+    "audio_en_src": "many, plenty, abundant",
+    "examples": [
+      {
+        "meaning": "many, plenty, abundant",
+        "sentences": [
+          {
+            "thai": "เขามีเพื่อนมากมาย",
+            "en": "He has lots of friends.",
+            "audio_src": "เขามีเพื่อนมากมาย",
+            "audio_en_src": "He has lots of friends."
+          },
+          {
+            "thai": "งานนี้มีของกินมากมาย",
+            "en": "There's tons of food at this event.",
+            "audio_src": "งานนี้มีของกินมากมาย",
+            "audio_en_src": "There's tons of food at this event."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0778",
@@ -47405,7 +48398,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยอม",
-    "audio_en_src": "to agree, to give in, to admit"
+    "audio_en_src": "to agree, to give in, to admit",
+    "examples": [
+      {
+        "meaning": "to agree, to give in, to admit",
+        "sentences": [
+          {
+            "thai": "สุดท้ายเขาก็ยอมทำตาม",
+            "en": "In the end he gave in and went along with it.",
+            "audio_src": "สุดท้ายเขาก็ยอมทำตาม",
+            "audio_en_src": "In the end he gave in and went along with it."
+          },
+          {
+            "thai": "ฉันไม่ยอมแพ้ง่ายๆ",
+            "en": "I won't give up easily.",
+            "audio_src": "ฉันไม่ยอมแพ้ง่ายๆ",
+            "audio_en_src": "I won't give up easily."
+          },
+          {
+            "thai": "เขายอมรับว่าทำผิด",
+            "en": "He admitted he was wrong.",
+            "audio_src": "เขายอมรับว่าทำผิด",
+            "audio_en_src": "He admitted he was wrong."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0790",
@@ -47453,7 +48471,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยังไง",
-    "audio_en_src": "anyway, how"
+    "audio_en_src": "anyway, how",
+    "examples": [
+      {
+        "meaning": "anyway, how",
+        "sentences": [
+          {
+            "thai": "ทำยังไงดี",
+            "en": "What should I do?",
+            "audio_src": "ทำยังไงดี",
+            "audio_en_src": "What should I do?"
+          },
+          {
+            "thai": "ไปยังไงถึงจะถึงเร็ว",
+            "en": "How do I get there the fastest?",
+            "audio_src": "ไปยังไงถึงจะถึงเร็ว",
+            "audio_en_src": "How do I get there the fastest?"
+          },
+          {
+            "thai": "ยังไงก็ต้องไป",
+            "en": "Either way, I have to go.",
+            "audio_src": "ยังไงก็ต้องไป",
+            "audio_en_src": "Either way, I have to go."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0795",
@@ -47603,7 +48646,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รถติด",
-    "audio_en_src": "traffic jam"
+    "audio_en_src": "traffic jam",
+    "examples": [
+      {
+        "meaning": "traffic jam",
+        "sentences": [
+          {
+            "thai": "เช้านี้รถติดมาก",
+            "en": "Traffic is really bad this morning.",
+            "audio_src": "เช้านี้รถติดมาก",
+            "audio_en_src": "Traffic is really bad this morning."
+          },
+          {
+            "thai": "ออกเร็วหน่อย เดี๋ยวรถติด",
+            "en": "Let's leave early, or we'll hit traffic.",
+            "audio_src": "ออกเร็วหน่อย เดี๋ยวรถติด",
+            "audio_en_src": "Let's leave early, or we'll hit traffic."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0816",
@@ -47793,7 +48855,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ระหว่าง",
-    "audio_en_src": "during, between"
+    "audio_en_src": "during, between",
+    "examples": [
+      {
+        "meaning": "during",
+        "sentences": [
+          {
+            "thai": "ห้ามเล่นโทรศัพท์ระหว่างเรียน",
+            "en": "No phones during class.",
+            "audio_src": "ห้ามเล่นโทรศัพท์ระหว่างเรียน",
+            "audio_en_src": "No phones during class."
+          },
+          {
+            "thai": "ระหว่างทางฉันแวะซื้อกาแฟ",
+            "en": "On the way I stopped to buy coffee.",
+            "audio_src": "ระหว่างทางฉันแวะซื้อกาแฟ",
+            "audio_en_src": "On the way I stopped to buy coffee."
+          }
+        ]
+      },
+      {
+        "meaning": "between",
+        "sentences": [
+          {
+            "thai": "ร้านอยู่ระหว่างธนาคารกับโรงเรียน",
+            "en": "The shop is between the bank and the school.",
+            "audio_src": "ร้านอยู่ระหว่างธนาคารกับโรงเรียน",
+            "audio_en_src": "The shop is between the bank and the school."
+          },
+          {
+            "thai": "เลือกไม่ถูกระหว่างสองอันนี้",
+            "en": "I can't choose between these two.",
+            "audio_src": "เลือกไม่ถูกระหว่างสองอันนี้",
+            "audio_en_src": "I can't choose between these two."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0836",
@@ -48209,7 +49307,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้าน, ร้านค้า",
-    "audio_en_src": "shop, store"
+    "audio_en_src": "shop, store",
+    "examples": [
+      {
+        "meaning": "shop, store",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายของถูก",
+            "en": "This shop sells cheap stuff.",
+            "audio_src": "ร้านนี้ขายของถูก",
+            "audio_en_src": "This shop sells cheap stuff."
+          },
+          {
+            "thai": "ร้านปิดแล้ว มาใหม่พรุ่งนี้",
+            "en": "The shop's closed, come back tomorrow.",
+            "audio_src": "ร้านปิดแล้ว มาใหม่พรุ่งนี้",
+            "audio_en_src": "The shop's closed, come back tomorrow."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0882",
@@ -48568,7 +49685,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วัยรุ่น",
-    "audio_en_src": "teenager, adolescent"
+    "audio_en_src": "teenager, adolescent",
+    "examples": [
+      {
+        "meaning": "teenager, adolescent",
+        "sentences": [
+          {
+            "thai": "ลูกสาวเขาเป็นวัยรุ่นแล้ว",
+            "en": "His daughter is a teenager now.",
+            "audio_src": "ลูกสาวเขาเป็นวัยรุ่นแล้ว",
+            "audio_en_src": "His daughter is a teenager now."
+          },
+          {
+            "thai": "วัยรุ่นสมัยนี้ติดมือถือ",
+            "en": "Teenagers these days are glued to their phones.",
+            "audio_src": "วัยรุ่นสมัยนี้ติดมือถือ",
+            "audio_en_src": "Teenagers these days are glued to their phones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0919",
@@ -48616,7 +49752,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วิธี",
-    "audio_en_src": "way, method"
+    "audio_en_src": "way, method",
+    "examples": [
+      {
+        "meaning": "way, method",
+        "sentences": [
+          {
+            "thai": "มีวิธีไหนที่ง่ายกว่านี้ไหม",
+            "en": "Is there an easier way?",
+            "audio_src": "มีวิธีไหนที่ง่ายกว่านี้ไหม",
+            "audio_en_src": "Is there an easier way?"
+          },
+          {
+            "thai": "เขาสอนวิธีทำต้มยำให้ฉัน",
+            "en": "He taught me how to make tom yum.",
+            "audio_src": "เขาสอนวิธีทำต้มยำให้ฉัน",
+            "audio_en_src": "He taught me how to make tom yum."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0923",
@@ -48866,7 +50021,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สงสัย",
-    "audio_en_src": "to wonder, to suspect, to be curious"
+    "audio_en_src": "to wonder, to suspect, to be curious",
+    "examples": [
+      {
+        "meaning": "to wonder, to suspect, to be curious",
+        "sentences": [
+          {
+            "thai": "ฉันสงสัยว่าทำไมเขาไม่มา",
+            "en": "I wonder why he didn't come.",
+            "audio_src": "ฉันสงสัยว่าทำไมเขาไม่มา",
+            "audio_en_src": "I wonder why he didn't come."
+          },
+          {
+            "thai": "มีอะไรสงสัยถามได้เลย",
+            "en": "If you're unsure about anything, just ask.",
+            "audio_src": "มีอะไรสงสัยถามได้เลย",
+            "audio_en_src": "If you're unsure about anything, just ask."
+          },
+          {
+            "thai": "ตำรวจสงสัยว่าเขาเป็นคนทำ",
+            "en": "The police suspect he's the one who did it.",
+            "audio_src": "ตำรวจสงสัยว่าเขาเป็นคนทำ",
+            "audio_en_src": "The police suspect he's the one who did it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0948",
@@ -48882,7 +50062,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สงสาร",
-    "audio_en_src": "to pity, to feel sorry for"
+    "audio_en_src": "to pity, to feel sorry for",
+    "examples": [
+      {
+        "meaning": "to pity, to feel sorry for",
+        "sentences": [
+          {
+            "thai": "เห็นหมาจรจัดแล้วสงสาร",
+            "en": "I feel sorry for the stray dogs when I see them.",
+            "audio_src": "เห็นหมาจรจัดแล้วสงสาร",
+            "audio_en_src": "I feel sorry for the stray dogs when I see them."
+          },
+          {
+            "thai": "สงสารเขาจัง ต้องทำงานหนักทุกวัน",
+            "en": "I really feel for him, he has to work hard every day.",
+            "audio_src": "สงสารเขาจัง ต้องทำงานหนักทุกวัน",
+            "audio_en_src": "I really feel for him, he has to work hard every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0949",
@@ -49155,7 +50354,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สร้าง",
-    "audio_en_src": "to create, to build"
+    "audio_en_src": "to create, to build",
+    "examples": [
+      {
+        "meaning": "to create, to build",
+        "sentences": [
+          {
+            "thai": "เขากำลังสร้างบ้านหลังใหม่",
+            "en": "He's building a new house.",
+            "audio_src": "เขากำลังสร้างบ้านหลังใหม่",
+            "audio_en_src": "He's building a new house."
+          },
+          {
+            "thai": "การออกกำลังกายช่วยสร้างกล้ามเนื้อ",
+            "en": "Exercise helps build muscle.",
+            "audio_src": "การออกกำลังกายช่วยสร้างกล้ามเนื้อ",
+            "audio_en_src": "Exercise helps build muscle."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-0977",

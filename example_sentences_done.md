@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 311 words**
+**Total: 361 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -310,6 +310,56 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0151` : คง (probably; to remain, to continue) : 2 meaning(s), 4 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
+- `thaipod-0267` : จำเป็น (necessary) : 1 meaning(s), 2 sentences
+- `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
+- `thaipod-0305` : ญาติ (relative (family)) : 1 meaning(s), 2 sentences
+- `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
+- `thaipod-0339` : ด้าน (side, field, area, aspect) : 1 meaning(s), 3 sentences
+- `thaipod-0367` : ตาม (to follow; along) : 2 meaning(s), 4 sentences
+- `thaipod-0378` : ตุ๊กตา (doll) : 1 meaning(s), 2 sentences
+- `thaipod-0382` : ต่อ (for, against; per) : 2 meaning(s), 4 sentences
+- `thaipod-0386` : ต่างๆ (various) : 1 meaning(s), 2 sentences
+- `thaipod-0387` : ต้น (tree; classifier for plants) : 2 meaning(s), 4 sentences
+- `thaipod-0422` : ทัน (in time, to catch up) : 1 meaning(s), 2 sentences
+- `thaipod-0427` : ทั่วไป, โดยทั่วไป (generally, in general) : 1 meaning(s), 2 sentences
+- `thaipod-0447` : ทิ้ง (to leave, to throw away, to discard) : 1 meaning(s), 2 sentences
+- `thaipod-0454` : ที่รัก (beloved, darling) : 1 meaning(s), 2 sentences
+- `thaipod-0459` : ทุกวันนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
+- `thaipod-0467` : ท้าย (end, at the back, rear side) : 1 meaning(s), 2 sentences
+- `thaipod-0470` : ธรรมดา (ordinary, common, normal) : 1 meaning(s), 2 sentences
+- `thaipod-0473` : นก (bird) : 1 meaning(s), 2 sentences
+- `thaipod-0498` : นิสัย (habit, behavior, character) : 1 meaning(s), 2 sentences
+- `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
+- `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
+- `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
+- `thaipod-0588` : ปากซอย (entrance/mouth of a soi (small street)) : 1 meaning(s), 2 sentences
+- `thaipod-0626` : ผ่าน (to pass; through, via) : 2 meaning(s), 4 sentences
+- `thaipod-0643` : พยายาม (to try, to attempt) : 1 meaning(s), 2 sentences
+- `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
+- `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
+- `thaipod-0721` : พวก (group, bunch (of people)) : 1 meaning(s), 2 sentences
+- `thaipod-0757` : ภูมิใจ (proud of) : 1 meaning(s), 2 sentences
+- `thaipod-0777` : มากมาย (many, plenty, abundant) : 1 meaning(s), 2 sentences
+- `thaipod-0789` : ยอม (to agree, to give in, to admit) : 1 meaning(s), 3 sentences
+- `thaipod-0794` : ยังไง (anyway, how) : 1 meaning(s), 3 sentences
+- `thaipod-0814` : รถติด (traffic jam) : 1 meaning(s), 2 sentences
+- `thaipod-0835` : ระหว่าง (during, between) : 2 meaning(s), 4 sentences
+- `thaipod-0880` : ร้าน, ร้านค้า (shop, store) : 1 meaning(s), 2 sentences
+- `thaipod-0918` : วัยรุ่น (teenager, adolescent) : 1 meaning(s), 2 sentences
+- `thaipod-0922` : วิธี (way, method) : 1 meaning(s), 2 sentences
+- `thaipod-0947` : สงสัย (to wonder, to suspect, to be curious) : 1 meaning(s), 3 sentences
+- `thaipod-0948` : สงสาร (to pity, to feel sorry for) : 1 meaning(s), 2 sentences
+- `thaipod-0975` : สร้าง (to create, to build) : 1 meaning(s), 2 sentences
+- `thaipod-0989` : สะดวก (convenient) : 1 meaning(s), 2 sentences
+- `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
+- `thaipod-1037` : สุดท้าย (finally, last) : 1 meaning(s), 2 sentences
+- `thaipod-1053` : หนู (rat, mouse; I (used by younger people)) : 2 meaning(s), 4 sentences
+- `thaipod-1065` : หยิบ (to pick up, to grab) : 1 meaning(s), 2 sentences
+- `thaipod-1067` : หรอก (really, (not) at all (sentence particle)) : 1 meaning(s), 2 sentences
+- `thaipod-1076` : หล่อ (handsome) : 1 meaning(s), 2 sentences
+- `thaipod-1085` : หัวเราะ (to laugh) : 1 meaning(s), 2 sentences
+- `thaipod-1096` : อดทน (to endure, to be patient) : 1 meaning(s), 2 sentences
+- `thaipod-1098` : อบอุ่น (warm) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
