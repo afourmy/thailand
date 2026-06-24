@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 211 words**
+**Total: 241 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -210,6 +210,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-036` : คุ้น, คุ้นเคย, คุ้นชิน (familiar, recognizable; to be familiar with, used to) : 2 meaning(s), 4 sentences
 - `tamago-l3-038` : แย่แล้ว ('oh shoot', 'oh no') : 1 meaning(s), 2 sentences
 - `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
+- `tamago-l3-045` : งานบ้าน (housework) : 1 meaning(s), 2 sentences
+- `tamago-l3-046` : เอาเหอะ ('never mind', 'whatever', 'forget about it') : 1 meaning(s), 2 sentences
+- `tamago-l3-049` : เพียบ (a lot, plenty, full, tons of) : 1 meaning(s), 2 sentences
+- `tamago-l3-051` : สะใจ (satisfied, relieved (esp. after revenge (schadenfreude) or achievement)) : 1 meaning(s), 2 sentences
+- `tamago-l3-056` : ใจ, จิตใจ (heart, mind, spirit) : 1 meaning(s), 2 sentences
+- `tamago-l3-062` : ลุก (to stand up, get up; (of fire) to ignite, to burn) : 2 meaning(s), 4 sentences
+- `tamago-l3-071` : ย่าง (to grill, to roast; (literary) to step into, to be approaching (a season, age)) : 2 meaning(s), 4 sentences
+- `tamago-l3-075` : แนว (genre, style) : 1 meaning(s), 2 sentences
+- `tamago-l3-076` : รายการ (TV show, program; list, item) : 2 meaning(s), 4 sentences
+- `tamago-l3-088` : ทันสมัย (up-to-date, modern) : 1 meaning(s), 2 sentences
+- `tamago-l3-097` : แอบ (secretly, without others knowing; a little, slightly) : 2 meaning(s), 4 sentences
+- `tamago-l3-098` : โล่งใจ, โล่งอก (relieved, to feel relieved) : 1 meaning(s), 2 sentences
+- `tamago-l3-102` : หลอก (to deceive, to fool, to trick) : 1 meaning(s), 2 sentences
+- `tamago-l3-117` : นานๆ (rarely, once in a long while) : 1 meaning(s), 2 sentences
+- `tamago-l3-118` : ประเด็น (point (of a statement), issue, topic) : 1 meaning(s), 2 sentences
+- `tamago-l3-121` : ตี (to hit, to beat; to estimate a price) : 2 meaning(s), 4 sentences
+- `tamago-l3-124` : ถนัด (skilled at, good at, proficient in, familiar with) : 1 meaning(s), 2 sentences
+- `tamago-l3-126` : ใส่ใจ (to pay attention, to care for) : 1 meaning(s), 2 sentences
+- `tamago-l3-131` : ไม่น่าเชื่อ (unbelievable, hard to believe) : 1 meaning(s), 2 sentences
+- `tamago-l3-137` : จังหวะ (timing, rhythm, beat; moment, opportunity) : 2 meaning(s), 4 sentences
+- `tamago-l3-141` : หลังคา (roof) : 1 meaning(s), 2 sentences
+- `tamago-l3-144` : เลี้ยงข้าว (to treat to a meal, to pay for someone's meal) : 1 meaning(s), 2 sentences
+- `tamago-l3-147` : ลูกอม (candy) : 1 meaning(s), 2 sentences
+- `tamago-l3-152` : เห็นใจ (to sympathize, to feel compassion (for)) : 1 meaning(s), 2 sentences
+- `tamago-l3-157` : ด่า (to scold, to curse, to insult harshly) : 1 meaning(s), 2 sentences
+- `tamago-l3-159` : เถียง, ถกเถียง, โต้เถียง (to argue, to talk back, to dispute) : 1 meaning(s), 2 sentences
+- `tamago-l3-184` : ขำ (funny, to laugh) : 1 meaning(s), 2 sentences
+- `tamago-l3-187` : ทัศนคติ (attitude, viewpoint) : 1 meaning(s), 2 sentences
+- `tamago-l3-193` : ดูบอล (to watch football (soccer)) : 1 meaning(s), 2 sentences
+- `tamago-l3-198` : ตามใจ (as you wish; to spoil (someone)) : 2 meaning(s), 4 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences

@@ -23203,7 +23203,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "งานบ้าน",
-    "audio_en_src": "housework"
+    "audio_en_src": "housework",
+    "examples": [
+      {
+        "meaning": "housework",
+        "sentences": [
+          {
+            "thai": "วันหยุดฉันต้องทำงานบ้านทั้งวัน",
+            "en": "On my day off I have to do housework all day.",
+            "audio_src": "วันหยุดฉันต้องทำงานบ้านทั้งวัน",
+            "audio_en_src": "On my day off I have to do housework all day."
+          },
+          {
+            "thai": "ช่วยกันทำงานบ้านหน่อยสิ",
+            "en": "Help out with the housework, please.",
+            "audio_src": "ช่วยกันทำงานบ้านหน่อยสิ",
+            "audio_en_src": "Help out with the housework, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-046",
@@ -23217,7 +23236,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาเหอะ",
-    "audio_en_src": "'never mind', 'whatever', 'forget about it'"
+    "audio_en_src": "'never mind', 'whatever', 'forget about it'",
+    "examples": [
+      {
+        "meaning": "'never mind', 'whatever', 'forget about it'",
+        "sentences": [
+          {
+            "thai": "เอาเหอะ ไม่ต้องคิดมาก",
+            "en": "Never mind, don't overthink it.",
+            "audio_src": "เอาเหอะ ไม่ต้องคิดมาก",
+            "audio_en_src": "Never mind, don't overthink it."
+          },
+          {
+            "thai": "เอาเหอะ ไว้ค่อยคุยกันทีหลัง",
+            "en": "Whatever, let's just talk about it later.",
+            "audio_src": "เอาเหอะ ไว้ค่อยคุยกันทีหลัง",
+            "audio_en_src": "Whatever, let's just talk about it later."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-047",
@@ -23254,7 +23292,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพียบ",
-    "audio_en_src": "a lot, plenty, full, tons of"
+    "audio_en_src": "a lot, plenty, full, tons of",
+    "examples": [
+      {
+        "meaning": "a lot, plenty, full, tons of",
+        "sentences": [
+          {
+            "thai": "วันนี้คนเพียบเลย",
+            "en": "There are tons of people today.",
+            "audio_src": "วันนี้คนเพียบเลย",
+            "audio_en_src": "There are tons of people today."
+          },
+          {
+            "thai": "งานเข้าเพียบ ทำไม่ทัน",
+            "en": "I've got a ton of work, I can't keep up.",
+            "audio_src": "งานเข้าเพียบ ทำไม่ทัน",
+            "audio_en_src": "I've got a ton of work, I can't keep up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-050",
@@ -23278,7 +23335,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สะใจ",
-    "audio_en_src": "satisfied, relieved or achievement)"
+    "audio_en_src": "satisfied, relieved or achievement)",
+    "examples": [
+      {
+        "meaning": "satisfied, relieved (esp. after revenge (schadenfreude) or achievement)",
+        "sentences": [
+          {
+            "thai": "ทีมแพ้ตลอด วันนี้ชนะซะที สะใจ",
+            "en": "The team always loses, but today they finally won, so satisfying.",
+            "audio_src": "ทีมแพ้ตลอด วันนี้ชนะซะที สะใจ",
+            "audio_en_src": "The team always loses, but today they finally won, so satisfying."
+          },
+          {
+            "thai": "ด่ากลับไปแล้วสะใจมาก",
+            "en": "I snapped right back at him, and it felt so satisfying.",
+            "audio_src": "ด่ากลับไปแล้วสะใจมาก",
+            "audio_en_src": "I snapped right back at him, and it felt so satisfying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-052",
@@ -23339,7 +23415,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใจ, จิตใจ",
-    "audio_en_src": "heart, mind, spirit"
+    "audio_en_src": "heart, mind, spirit",
+    "examples": [
+      {
+        "meaning": "heart, mind, spirit",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนใจดี",
+            "en": "He's a kind-hearted person.",
+            "audio_src": "เขาเป็นคนใจดี",
+            "audio_en_src": "He's a kind-hearted person."
+          },
+          {
+            "thai": "ใจฉันยังไม่พร้อมจะเริ่มใหม่",
+            "en": "In my heart I'm not ready to start over yet.",
+            "audio_src": "ใจฉันยังไม่พร้อมจะเริ่มใหม่",
+            "audio_en_src": "In my heart I'm not ready to start over yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-057",
@@ -23411,7 +23506,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลุก",
-    "audio_en_src": "to stand up, get up; to ignite, to burn"
+    "audio_en_src": "to stand up, get up; to ignite, to burn",
+    "examples": [
+      {
+        "meaning": "to stand up, get up",
+        "sentences": [
+          {
+            "thai": "ครูเข้ามา นักเรียนลุกขึ้นยืน",
+            "en": "When the teacher came in, the students stood up.",
+            "audio_src": "ครูเข้ามา นักเรียนลุกขึ้นยืน",
+            "audio_en_src": "When the teacher came in, the students stood up."
+          },
+          {
+            "thai": "เขาลุกจากเตียงตอนหกโมง",
+            "en": "He gets out of bed at six.",
+            "audio_src": "เขาลุกจากเตียงตอนหกโมง",
+            "audio_en_src": "He gets out of bed at six."
+          }
+        ]
+      },
+      {
+        "meaning": "(of fire) to ignite, to burn",
+        "sentences": [
+          {
+            "thai": "ไฟลุกขึ้นมาทันที",
+            "en": "The fire flared up right away.",
+            "audio_src": "ไฟลุกขึ้นมาทันที",
+            "audio_en_src": "The fire flared up right away."
+          },
+          {
+            "thai": "น้ำมันหก ไฟเลยลุกใหญ่",
+            "en": "Oil spilled, so the fire blazed up.",
+            "audio_src": "น้ำมันหก ไฟเลยลุกใหญ่",
+            "audio_en_src": "Oil spilled, so the fire blazed up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-063",
@@ -23513,7 +23644,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ย่าง",
-    "audio_en_src": "to grill, to roast; to step into, to be approaching"
+    "audio_en_src": "to grill, to roast; to step into, to be approaching",
+    "examples": [
+      {
+        "meaning": "to grill, to roast",
+        "sentences": [
+          {
+            "thai": "ย่างหมูบนเตาถ่าน",
+            "en": "Grill the pork over the charcoal stove.",
+            "audio_src": "ย่างหมูบนเตาถ่าน",
+            "audio_en_src": "Grill the pork over the charcoal stove."
+          },
+          {
+            "thai": "กลิ่นไก่ย่างหอมมาก",
+            "en": "The smell of grilled chicken is amazing.",
+            "audio_src": "กลิ่นไก่ย่างหอมมาก",
+            "audio_en_src": "The smell of grilled chicken is amazing."
+          }
+        ]
+      },
+      {
+        "meaning": "(literary) to step into, to be approaching (a season, age)",
+        "sentences": [
+          {
+            "thai": "เขาย่างเข้าสู่วัยกลางคน",
+            "en": "He's stepping into middle age.",
+            "audio_src": "เขาย่างเข้าสู่วัยกลางคน",
+            "audio_en_src": "He's stepping into middle age."
+          },
+          {
+            "thai": "อากาศเริ่มเย็น ย่างเข้าฤดูหนาวแล้ว",
+            "en": "The weather's turning cool, winter is approaching.",
+            "audio_src": "อากาศเริ่มเย็น ย่างเข้าฤดูหนาวแล้ว",
+            "audio_en_src": "The weather's turning cool, winter is approaching."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-072",
@@ -23559,7 +23726,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แนว",
-    "audio_en_src": "genre, style"
+    "audio_en_src": "genre, style",
+    "examples": [
+      {
+        "meaning": "genre, style",
+        "sentences": [
+          {
+            "thai": "เธอชอบเพลงแนวไหน",
+            "en": "What genre of music do you like?",
+            "audio_src": "เธอชอบเพลงแนวไหน",
+            "audio_en_src": "What genre of music do you like?"
+          },
+          {
+            "thai": "หนังแนวสยองขวัญไม่ใช่แนวฉัน",
+            "en": "Horror movies aren't really my thing.",
+            "audio_src": "หนังแนวสยองขวัญไม่ใช่แนวฉัน",
+            "audio_en_src": "Horror movies aren't really my thing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-076",
@@ -23576,7 +23762,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รายการ",
-    "audio_en_src": "TV show, program; list, item"
+    "audio_en_src": "TV show, program; list, item",
+    "examples": [
+      {
+        "meaning": "TV show, program",
+        "sentences": [
+          {
+            "thai": "รายการนี้สนุกทุกตอน",
+            "en": "Every episode of this show is fun.",
+            "audio_src": "รายการนี้สนุกทุกตอน",
+            "audio_en_src": "Every episode of this show is fun."
+          },
+          {
+            "thai": "เขาออกรายการทีวีเมื่อคืน",
+            "en": "He was on a TV show last night.",
+            "audio_src": "เขาออกรายการทีวีเมื่อคืน",
+            "audio_en_src": "He was on a TV show last night."
+          }
+        ]
+      },
+      {
+        "meaning": "list, item",
+        "sentences": [
+          {
+            "thai": "เขียนรายการของที่ต้องซื้อ",
+            "en": "Write a list of things to buy.",
+            "audio_src": "เขียนรายการของที่ต้องซื้อ",
+            "audio_en_src": "Write a list of things to buy."
+          },
+          {
+            "thai": "เช็กให้ครบทุกรายการ",
+            "en": "Check off every item on the list.",
+            "audio_src": "เช็กให้ครบทุกรายการ",
+            "audio_en_src": "Check off every item on the list."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-077",
@@ -23703,7 +23925,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทันสมัย",
-    "audio_en_src": "up-to-date, modern"
+    "audio_en_src": "up-to-date, modern",
+    "examples": [
+      {
+        "meaning": "up-to-date, modern",
+        "sentences": [
+          {
+            "thai": "โทรศัพท์รุ่นนี้ทันสมัยมาก",
+            "en": "This phone model is really modern.",
+            "audio_src": "โทรศัพท์รุ่นนี้ทันสมัยมาก",
+            "audio_en_src": "This phone model is really modern."
+          },
+          {
+            "thai": "เธอแต่งตัวทันสมัยตลอด",
+            "en": "She always dresses fashionably.",
+            "audio_src": "เธอแต่งตัวทันสมัยตลอด",
+            "audio_en_src": "She always dresses fashionably."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-089",
@@ -23792,7 +24033,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แอบ",
-    "audio_en_src": "secretly, without others knowing; a little, slightly"
+    "audio_en_src": "secretly, without others knowing; a little, slightly",
+    "examples": [
+      {
+        "meaning": "secretly, without others knowing",
+        "sentences": [
+          {
+            "thai": "เขาแอบกินขนมตอนกลางคืน",
+            "en": "He secretly eats snacks at night.",
+            "audio_src": "เขาแอบกินขนมตอนกลางคืน",
+            "audio_en_src": "He secretly eats snacks at night."
+          },
+          {
+            "thai": "ฉันแอบดูเขาอยู่",
+            "en": "I was secretly watching him.",
+            "audio_src": "ฉันแอบดูเขาอยู่",
+            "audio_en_src": "I was secretly watching him."
+          }
+        ]
+      },
+      {
+        "meaning": "a little, slightly",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้แอบน่าเบื่อ",
+            "en": "This movie is kind of boring.",
+            "audio_src": "หนังเรื่องนี้แอบน่าเบื่อ",
+            "audio_en_src": "This movie is kind of boring."
+          },
+          {
+            "thai": "เขาแอบหล่อนะ",
+            "en": "He's actually kind of handsome.",
+            "audio_src": "เขาแอบหล่อนะ",
+            "audio_en_src": "He's actually kind of handsome."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-098",
@@ -23807,7 +24084,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โล่งใจ, โล่งอก",
-    "audio_en_src": "relieved, to feel relieved"
+    "audio_en_src": "relieved, to feel relieved",
+    "examples": [
+      {
+        "meaning": "relieved, to feel relieved",
+        "sentences": [
+          {
+            "thai": "สอบเสร็จแล้ว โล่งใจไปที",
+            "en": "The exam's over, what a relief.",
+            "audio_src": "สอบเสร็จแล้ว โล่งใจไปที",
+            "audio_en_src": "The exam's over, what a relief."
+          },
+          {
+            "thai": "ได้ข่าวว่าเขาปลอดภัย ฉันโล่งใจมาก",
+            "en": "When I heard he was safe, I felt so relieved.",
+            "audio_src": "ได้ข่าวว่าเขาปลอดภัย ฉันโล่งใจมาก",
+            "audio_en_src": "When I heard he was safe, I felt so relieved."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-099",
@@ -23856,7 +24152,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลอก",
-    "audio_en_src": "to deceive, to fool, to trick"
+    "audio_en_src": "to deceive, to fool, to trick",
+    "examples": [
+      {
+        "meaning": "to deceive, to fool, to trick",
+        "sentences": [
+          {
+            "thai": "อย่าหลอกฉันนะ",
+            "en": "Don't lie to me.",
+            "audio_src": "อย่าหลอกฉันนะ",
+            "audio_en_src": "Don't lie to me."
+          },
+          {
+            "thai": "เขาโดนหลอกให้โอนเงิน",
+            "en": "He got tricked into transferring money.",
+            "audio_src": "เขาโดนหลอกให้โอนเงิน",
+            "audio_en_src": "He got tricked into transferring money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-103",
@@ -23996,7 +24311,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นานๆ",
-    "audio_en_src": "rarely, once in a long while"
+    "audio_en_src": "rarely, once in a long while",
+    "examples": [
+      {
+        "meaning": "rarely, once in a long while",
+        "sentences": [
+          {
+            "thai": "นานๆจะได้เจอกันที",
+            "en": "We only get to see each other once in a long while.",
+            "audio_src": "นานๆจะได้เจอกันที",
+            "audio_en_src": "We only get to see each other once in a long while."
+          },
+          {
+            "thai": "ฉันนานๆกินของหวานที",
+            "en": "I rarely eat sweets.",
+            "audio_src": "ฉันนานๆกินของหวานที",
+            "audio_en_src": "I rarely eat sweets."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-118",
@@ -24011,7 +24345,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประเด็น",
-    "audio_en_src": "point, issue, topic"
+    "audio_en_src": "point, issue, topic",
+    "examples": [
+      {
+        "meaning": "point (of a statement), issue, topic",
+        "sentences": [
+          {
+            "thai": "นั่นไม่ใช่ประเด็น",
+            "en": "That's not the point.",
+            "audio_src": "นั่นไม่ใช่ประเด็น",
+            "audio_en_src": "That's not the point."
+          },
+          {
+            "thai": "เข้าประเด็นเลยดีกว่า",
+            "en": "Let's just get to the point.",
+            "audio_src": "เข้าประเด็นเลยดีกว่า",
+            "audio_en_src": "Let's just get to the point."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-119",
@@ -24049,7 +24402,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตี",
-    "audio_en_src": "to hit, to beat; to estimate a price"
+    "audio_en_src": "to hit, to beat; to estimate a price",
+    "examples": [
+      {
+        "meaning": "to hit, to beat",
+        "sentences": [
+          {
+            "thai": "แม่ตีลูกเพราะดื้อ",
+            "en": "The mom spanked the kid for being naughty.",
+            "audio_src": "แม่ตีลูกเพราะดื้อ",
+            "audio_en_src": "The mom spanked the kid for being naughty."
+          },
+          {
+            "thai": "ตีไข่ให้เข้ากัน",
+            "en": "Beat the eggs until they're combined.",
+            "audio_src": "ตีไข่ให้เข้ากัน",
+            "audio_en_src": "Beat the eggs until they're combined."
+          }
+        ]
+      },
+      {
+        "meaning": "to estimate a price",
+        "sentences": [
+          {
+            "thai": "เขาตีราคารถมือสองให้ฉัน",
+            "en": "He gave me a price estimate for the used car.",
+            "audio_src": "เขาตีราคารถมือสองให้ฉัน",
+            "audio_en_src": "He gave me a price estimate for the used car."
+          },
+          {
+            "thai": "ตีราคาบ้านหลังนี้เท่าไหร่",
+            "en": "How much do you value this house at?",
+            "audio_src": "ตีราคาบ้านหลังนี้เท่าไหร่",
+            "audio_en_src": "How much do you value this house at?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-122",
@@ -24085,7 +24474,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถนัด",
-    "audio_en_src": "skilled at, good at, proficient in, familiar with"
+    "audio_en_src": "skilled at, good at, proficient in, familiar with",
+    "examples": [
+      {
+        "meaning": "skilled at, good at, proficient in, familiar with",
+        "sentences": [
+          {
+            "thai": "ฉันถนัดทำอาหารไทย",
+            "en": "I'm good at cooking Thai food.",
+            "audio_src": "ฉันถนัดทำอาหารไทย",
+            "audio_en_src": "I'm good at cooking Thai food."
+          },
+          {
+            "thai": "ฉันเขียนด้วยมือขวาถนัดกว่า",
+            "en": "I write better with my right hand.",
+            "audio_src": "ฉันเขียนด้วยมือขวาถนัดกว่า",
+            "audio_en_src": "I write better with my right hand."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-125",
@@ -24113,7 +24521,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใส่ใจ",
-    "audio_en_src": "to pay attention, to care for"
+    "audio_en_src": "to pay attention, to care for",
+    "examples": [
+      {
+        "meaning": "to pay attention, to care for",
+        "sentences": [
+          {
+            "thai": "เขาใส่ใจในรายละเอียดมาก",
+            "en": "He pays close attention to detail.",
+            "audio_src": "เขาใส่ใจในรายละเอียดมาก",
+            "audio_en_src": "He pays close attention to detail."
+          },
+          {
+            "thai": "ขอบคุณที่ใส่ใจฉันเสมอ",
+            "en": "Thank you for always caring about me.",
+            "audio_src": "ขอบคุณที่ใส่ใจฉันเสมอ",
+            "audio_en_src": "Thank you for always caring about me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-127",
@@ -24168,7 +24595,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่น่าเชื่อ",
-    "audio_en_src": "unbelievable, hard to believe"
+    "audio_en_src": "unbelievable, hard to believe",
+    "examples": [
+      {
+        "meaning": "unbelievable, hard to believe",
+        "sentences": [
+          {
+            "thai": "ไม่น่าเชื่อว่าเขาจะทำได้",
+            "en": "It's hard to believe he pulled it off.",
+            "audio_src": "ไม่น่าเชื่อว่าเขาจะทำได้",
+            "audio_en_src": "It's hard to believe he pulled it off."
+          },
+          {
+            "thai": "ไม่น่าเชื่อ ผ่านมาสิบปีแล้ว",
+            "en": "It's unbelievable, ten years have gone by.",
+            "audio_src": "ไม่น่าเชื่อ ผ่านมาสิบปีแล้ว",
+            "audio_en_src": "It's unbelievable, ten years have gone by."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-132",
@@ -24236,7 +24682,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จังหวะ",
-    "audio_en_src": "timing, rhythm, beat; moment, opportunity"
+    "audio_en_src": "timing, rhythm, beat; moment, opportunity",
+    "examples": [
+      {
+        "meaning": "timing, rhythm, beat",
+        "sentences": [
+          {
+            "thai": "เพลงนี้จังหวะสนุก",
+            "en": "This song has a fun beat.",
+            "audio_src": "เพลงนี้จังหวะสนุก",
+            "audio_en_src": "This song has a fun beat."
+          },
+          {
+            "thai": "เขาเต้นไม่ค่อยตรงจังหวะ",
+            "en": "He doesn't really dance on beat.",
+            "audio_src": "เขาเต้นไม่ค่อยตรงจังหวะ",
+            "audio_en_src": "He doesn't really dance on beat."
+          }
+        ]
+      },
+      {
+        "meaning": "moment, opportunity",
+        "sentences": [
+          {
+            "thai": "รอจังหวะดีๆ ค่อยถาม",
+            "en": "Wait for a good moment, then ask.",
+            "audio_src": "รอจังหวะดีๆ ค่อยถาม",
+            "audio_en_src": "Wait for a good moment, then ask."
+          },
+          {
+            "thai": "ได้จังหวะก็รีบทำเลย",
+            "en": "When you get the chance, do it right away.",
+            "audio_src": "ได้จังหวะก็รีบทำเลย",
+            "audio_en_src": "When you get the chance, do it right away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-138",
@@ -24286,7 +24768,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลังคา",
-    "audio_en_src": "roof"
+    "audio_en_src": "roof",
+    "examples": [
+      {
+        "meaning": "roof",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักจนหลังคารั่ว",
+            "en": "It rained so hard that the roof leaked."
+          },
+          {
+            "thai": "แมวชอบขึ้นไปนอนบนหลังคา",
+            "en": "The cat likes to go up and sleep on the roof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-142",
@@ -24322,7 +24819,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลี้ยงข้าว",
-    "audio_en_src": "to treat to a meal, to pay for someone's meal"
+    "audio_en_src": "to treat to a meal, to pay for someone's meal",
+    "examples": [
+      {
+        "meaning": "to treat to a meal, to pay for someone's meal",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันเลี้ยงข้าวเอง",
+            "en": "Lunch is on me today."
+          },
+          {
+            "thai": "ได้เงินเดือนแล้ว เดี๋ยวเลี้ยงข้าวนะ",
+            "en": "I got my paycheck, I'll treat you to a meal."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-145",
@@ -24357,7 +24869,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลูกอม",
-    "audio_en_src": "candy"
+    "audio_en_src": "candy",
+    "examples": [
+      {
+        "meaning": "candy",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบกินลูกอม",
+            "en": "Kids love eating candy."
+          },
+          {
+            "thai": "อมลูกอมแก้เจ็บคอ",
+            "en": "Suck on a candy to soothe a sore throat."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-148",
@@ -24414,7 +24941,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เห็นใจ",
-    "audio_en_src": "to sympathize, to feel compassion"
+    "audio_en_src": "to sympathize, to feel compassion",
+    "examples": [
+      {
+        "meaning": "to sympathize, to feel compassion (for)",
+        "sentences": [
+          {
+            "thai": "ฉันเห็นใจเขานะ ลำบากมาเยอะ",
+            "en": "I really feel for him, he's been through a lot."
+          },
+          {
+            "thai": "เห็นใจกันบ้างสิ",
+            "en": "Have a little sympathy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-153",
@@ -24462,7 +25004,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ด่า",
-    "audio_en_src": "to scold, to curse, to insult harshly"
+    "audio_en_src": "to scold, to curse, to insult harshly",
+    "examples": [
+      {
+        "meaning": "to scold, to curse, to insult harshly",
+        "sentences": [
+          {
+            "thai": "แม่ด่าฉันที่กลับบ้านดึก",
+            "en": "Mom yelled at me for coming home late."
+          },
+          {
+            "thai": "อย่าด่าคนอื่นแบบนั้น",
+            "en": "Don't trash-talk people like that."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-158",
@@ -24490,7 +25047,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เถียง, ถกเถียง, โต้เถียง",
-    "audio_en_src": "to argue, to talk back, to dispute"
+    "audio_en_src": "to argue, to talk back, to dispute",
+    "examples": [
+      {
+        "meaning": "to argue, to talk back, to dispute",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้ชอบเถียงผู้ใหญ่",
+            "en": "This kid likes to talk back to grown-ups."
+          },
+          {
+            "thai": "สองคนนั้นเถียงกันเรื่องการเมือง",
+            "en": "Those two are arguing about politics."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-160",
@@ -24752,7 +25324,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขำ",
-    "audio_en_src": "funny, to laugh"
+    "audio_en_src": "funny, to laugh",
+    "examples": [
+      {
+        "meaning": "funny, to laugh",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ขำมาก",
+            "en": "This is so funny."
+          },
+          {
+            "thai": "เขาเล่ามุกแล้วทุกคนขำ",
+            "en": "He told a joke and everyone laughed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-185",
@@ -24790,7 +25377,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทัศนคติ",
-    "audio_en_src": "attitude, viewpoint"
+    "audio_en_src": "attitude, viewpoint",
+    "examples": [
+      {
+        "meaning": "attitude, viewpoint",
+        "sentences": [
+          {
+            "thai": "เขามีทัศนคติที่ดีต่อการทำงาน",
+            "en": "He has a good attitude toward work."
+          },
+          {
+            "thai": "เรามีทัศนคติเรื่องนี้ต่างกัน",
+            "en": "We have different views on this."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-188",
@@ -24845,7 +25447,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดูบอล",
-    "audio_en_src": "to watch football"
+    "audio_en_src": "to watch football",
+    "examples": [
+      {
+        "meaning": "to watch football (soccer)",
+        "sentences": [
+          {
+            "thai": "คืนนี้ดูบอลด้วยกันไหม",
+            "en": "Want to watch the football match together tonight?"
+          },
+          {
+            "thai": "เขาชอบดูบอลทุกสุดสัปดาห์",
+            "en": "He likes watching football every weekend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-194",
@@ -24892,7 +25509,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตามใจ",
-    "audio_en_src": "as you wish; to spoil"
+    "audio_en_src": "as you wish; to spoil",
+    "examples": [
+      {
+        "meaning": "as you wish",
+        "sentences": [
+          {
+            "thai": "จะกินอะไรก็ตามใจ",
+            "en": "Eat whatever you want, it's up to you."
+          },
+          {
+            "thai": "ตามใจเธอเลย ฉันได้หมด",
+            "en": "Whatever you like, I'm fine with anything."
+          }
+        ]
+      },
+      {
+        "meaning": "to spoil (someone)",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ตามใจลูกเกินไป",
+            "en": "The parents spoil their kid too much."
+          },
+          {
+            "thai": "อย่าตามใจเขามาก เดี๋ยวเสียคน",
+            "en": "Don't spoil him too much, he'll turn out bad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-199",
