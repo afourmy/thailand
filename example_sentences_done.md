@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 701 words**
+**Total: 711 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -703,5 +703,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-044` : ป่วย (sick, ill) : 1 meaning(s), 2 sentences
 - `wlt-c11-045` : ปัญหา (problem, issue) : 1 meaning(s), 2 sentences
 - `wlt-c11-048` : เป็นหวัด (to have a cold) : 1 meaning(s), 2 sentences
+- `wlt-c11-050` : ไปหา (to go to meet, to visit someone) : 1 meaning(s), 2 sentences
+- `wlt-c11-056` : ฝึก, หัด, ฝึกหัด (to practise, exercise, train) : 1 meaning(s), 2 sentences
+- `wlt-c11-060` : พอดี (just right) : 1 meaning(s), 2 sentences
+- `wlt-c11-061` : พักผ่อน (to rest) : 1 meaning(s), 2 sentences
+- `wlt-c11-065` : เพิ่ม, เพิ่มขึ้น (to increase) : 1 meaning(s), 2 sentences
+- `wlt-c11-066` : เพิ่ง (just (immediately before)) : 1 meaning(s), 2 sentences
+- `wlt-c11-076` : เมา (drunk) : 1 meaning(s), 2 sentences
+- `wlt-c11-077` : เมีย (wife, long-term girlfriend (informal)) : 1 meaning(s), 2 sentences
+- `wlt-c11-079` : เมื่อไหร่ (when (question word)) : 1 meaning(s), 2 sentences
+- `wlt-c11-082` : โมง (o'clock, time) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
