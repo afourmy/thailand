@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1271 words**
+**Total: 1281 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1275,3 +1275,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-029` : เป็นไข้ (to have a fever) : 1 meaning(s), 2 sentences
 - `exd-032` : สนใจ (to be interested in, to care about) : 1 meaning(s), 2 sentences
 - `exd-035` : ข้าวเช้า (breakfast) : 1 meaning(s), 2 sentences
+- `exd-037` : จริงๆ (really, true; actually, in fact) : 2 meaning(s), 4 sentences
+- `exd-041` : แบตเตอรี่ (battery (loanword)) : 1 meaning(s), 2 sentences
+- `exd-043` : ไปด้วยกัน (to go together) : 1 meaning(s), 2 sentences
+- `exd-049` : ครึ่งชั่วโมง (half an hour) : 1 meaning(s), 2 sentences
+- `exd-050` : ความปลอดภัย (safety, security) : 1 meaning(s), 2 sentences
+- `exd-062` : ถังขยะ (trash bin, garbage can) : 1 meaning(s), 2 sentences
+- `exd-067` : ทำอาหาร (to cook) : 1 meaning(s), 2 sentences
+- `exd-069` : ที่อื่น (elsewhere, somewhere else) : 1 meaning(s), 2 sentences
+- `exd-071` : นั่งรถ (to travel by car, to go by car) : 1 meaning(s), 2 sentences
+- `exd-076` : ปวดฉี่ (to need to urinate, to need to pee) : 1 meaning(s), 2 sentences
