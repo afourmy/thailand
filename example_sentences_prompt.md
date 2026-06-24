@@ -1,5 +1,7 @@
 Each word in the deck comes with an English and a Thai translation. But a word in isolation doesn't teach much, since meaning lives in context. So once a card is revealed, I want to show a few example sentences that help the learner see how the word is actually used.
 
+**Which words:** for now we only add example sentences to *everyday* words, i.e. words whose `frequency` field in `vocab.json` is `"everyday"`. Skip every other frequency (`common`, `occasional`, `rare`) for now. Work through the everyday words that don't yet have an `examples` field, ten at a time (see `example_sentences_done.md` for what's already done).
+
 These sentences should:
 
 - **Sound natural, in both languages** - every Thai sentence AND its English translation must be something a native speaker would actually say in everyday life, not merely something grammatically correct. Avoid stiff, textbook, or word-for-word phrasings (e.g. a literal "type me a message" instead of the natural "text me"). If the most faithful translation comes out unnatural in English, reword it, or pick a different example sentence, so that both the Thai and the English are genuinely idiomatic. Grammatical correctness is not the bar; real usage is.
