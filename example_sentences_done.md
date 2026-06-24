@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1021 words**
+**Total: 1031 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1024,4 +1024,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-027` : เจ็บคอ (sore throat) : 1 meaning(s), 2 sentences
 - `wlt-c18-030` : ฉีดยา (to get an injection) : 1 meaning(s), 2 sentences
 - `wlt-c18-031` : ช่วยด้วย (help!) : 1 meaning(s), 2 sentences
+- `wlt-c18-040` : ใช้เงิน (to spend money) : 1 meaning(s), 2 sentences
+- `wlt-c18-045` : ดูเหมือน (looks like) : 1 meaning(s), 2 sentences
+- `wlt-c18-048` : เดินเล่น (to take a walk) : 1 meaning(s), 2 sentences
+- `wlt-c18-054` : ถ้าอย่างนั้น ('in that case', 'if so, then...') : 1 meaning(s), 2 sentences
+- `wlt-c18-056` : แถวนี้ (around here, in this area) : 1 meaning(s), 2 sentences
+- `wlt-c18-059` : ทิชชู่ (tissue, napkins) : 1 meaning(s), 2 sentences
+- `wlt-c18-062` : ทุกครั้ง, ทุกที (every time) : 1 meaning(s), 2 sentences
+- `wlt-c18-069` : น่ากิน (looks delicious) : 1 meaning(s), 2 sentences
+- `wlt-c18-071` : น้ำเปล่า (plain water) : 1 meaning(s), 2 sentences
+- `wlt-c18-072` : น้ำเย็น (cold water) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
