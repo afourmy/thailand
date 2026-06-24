@@ -87648,7 +87648,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อเช้านี้",
-    "audio_en_src": "this morning"
+    "audio_en_src": "this morning",
+    "examples": [
+      {
+        "meaning": "this morning",
+        "sentences": [
+          {
+            "thai": "เมื่อเช้านี้ฉันลืมกินยา",
+            "en": "This morning I forgot to take my medicine.",
+            "audio_src": "เมื่อเช้านี้ฉันลืมกินยา",
+            "audio_en_src": "This morning I forgot to take my medicine."
+          },
+          {
+            "thai": "เมื่อเช้านี้รถติดหนักมาก",
+            "en": "Traffic was really bad this morning.",
+            "audio_src": "เมื่อเช้านี้รถติดหนักมาก",
+            "audio_en_src": "Traffic was really bad this morning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-094",
@@ -87662,7 +87681,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อวานซืนนี้",
-    "audio_en_src": "the day before yesterday"
+    "audio_en_src": "the day before yesterday",
+    "examples": [
+      {
+        "meaning": "the day before yesterday",
+        "sentences": [
+          {
+            "thai": "เมื่อวานซืนนี้ฉันเจอเขาที่ตลาด",
+            "en": "I ran into him at the market the day before yesterday.",
+            "audio_src": "เมื่อวานซืนนี้ฉันเจอเขาที่ตลาด",
+            "audio_en_src": "I ran into him at the market the day before yesterday."
+          },
+          {
+            "thai": "เขามาถึงตั้งแต่เมื่อวานซืนนี้",
+            "en": "He arrived as far back as the day before yesterday.",
+            "audio_src": "เขามาถึงตั้งแต่เมื่อวานซืนนี้",
+            "audio_en_src": "He arrived as far back as the day before yesterday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-098",
@@ -87676,7 +87714,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่ถูก",
-    "audio_en_src": "wrong, incorrect"
+    "audio_en_src": "wrong, incorrect",
+    "examples": [
+      {
+        "meaning": "wrong, incorrect",
+        "sentences": [
+          {
+            "thai": "คำตอบนี้ไม่ถูก ลองใหม่",
+            "en": "This answer is wrong, try again.",
+            "audio_src": "คำตอบนี้ไม่ถูก ลองใหม่",
+            "audio_en_src": "This answer is wrong, try again."
+          },
+          {
+            "thai": "เขาบวกเลขไม่ถูก",
+            "en": "He added the numbers wrong.",
+            "audio_src": "เขาบวกเลขไม่ถูก",
+            "audio_en_src": "He added the numbers wrong."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c03-099",
@@ -87700,7 +87757,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่บ่อย",
-    "audio_en_src": "seldom, not often"
+    "audio_en_src": "seldom, not often",
+    "examples": [
+      {
+        "meaning": "seldom, not often",
+        "sentences": [
+          {
+            "thai": "ฉันกินของทอดไม่บ่อย",
+            "en": "I don't eat fried food often.",
+            "audio_src": "ฉันกินของทอดไม่บ่อย",
+            "audio_en_src": "I don't eat fried food often."
+          },
+          {
+            "thai": "เขามาเที่ยวไทยไม่บ่อย",
+            "en": "He doesn't visit Thailand often.",
+            "audio_src": "เขามาเที่ยวไทยไม่บ่อย",
+            "audio_en_src": "He doesn't visit Thailand often."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-001",
@@ -87745,7 +87821,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่มีอะไร",
-    "audio_en_src": "nothing"
+    "audio_en_src": "nothing",
+    "examples": [
+      {
+        "meaning": "nothing",
+        "sentences": [
+          {
+            "thai": "ในตู้เย็นไม่มีอะไรกินเลย",
+            "en": "There's nothing to eat in the fridge.",
+            "audio_src": "ในตู้เย็นไม่มีอะไรกินเลย",
+            "audio_en_src": "There's nothing to eat in the fridge."
+          },
+          {
+            "thai": "ไม่มีอะไรหรอก อย่าคิดมาก",
+            "en": "It's nothing, don't overthink it.",
+            "audio_src": "ไม่มีอะไรหรอก อย่าคิดมาก",
+            "audio_en_src": "It's nothing, don't overthink it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-007",
@@ -87800,7 +87895,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยี่สิบสอง",
-    "audio_en_src": "twenty two"
+    "audio_en_src": "twenty two",
+    "examples": [
+      {
+        "meaning": "twenty two (22)",
+        "sentences": [
+          {
+            "thai": "ฉันอายุยี่สิบสอง",
+            "en": "I'm twenty-two years old.",
+            "audio_src": "ฉันอายุยี่สิบสอง",
+            "audio_en_src": "I'm twenty-two years old."
+          },
+          {
+            "thai": "ห้องฉันอยู่ชั้นยี่สิบสอง",
+            "en": "My room is on the twenty-second floor.",
+            "audio_src": "ห้องฉันอยู่ชั้นยี่สิบสอง",
+            "audio_en_src": "My room is on the twenty-second floor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-016",
@@ -87815,7 +87929,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยุ่ง",
-    "audio_en_src": "busy"
+    "audio_en_src": "busy",
+    "examples": [
+      {
+        "meaning": "busy",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้งานยุ่งมาก",
+            "en": "Work is really busy these days.",
+            "audio_src": "ช่วงนี้งานยุ่งมาก",
+            "audio_en_src": "Work is really busy these days."
+          },
+          {
+            "thai": "ตอนนี้ยุ่งอยู่ เดี๋ยวโทรกลับ",
+            "en": "I'm busy right now, I'll call you back.",
+            "audio_src": "ตอนนี้ยุ่งอยู่ เดี๋ยวโทรกลับ",
+            "audio_en_src": "I'm busy right now, I'll call you back."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-017",
@@ -87859,7 +87992,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รองเท้าแตะ",
-    "audio_en_src": "sandals, flip-flops"
+    "audio_en_src": "sandals, flip-flops",
+    "examples": [
+      {
+        "meaning": "sandals, flip-flops",
+        "sentences": [
+          {
+            "thai": "ใส่รองเท้าแตะไปเดินชายหาด",
+            "en": "Wear flip-flops to walk on the beach.",
+            "audio_src": "ใส่รองเท้าแตะไปเดินชายหาด",
+            "audio_en_src": "Wear flip-flops to walk on the beach."
+          },
+          {
+            "thai": "รองเท้าแตะขาดต้องซื้อใหม่",
+            "en": "My flip-flops broke, I need to buy new ones.",
+            "audio_src": "รองเท้าแตะขาดต้องซื้อใหม่",
+            "audio_en_src": "My flip-flops broke, I need to buy new ones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-021",
@@ -87894,7 +88046,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้านขายของ",
-    "audio_en_src": "shop, store"
+    "audio_en_src": "shop, store",
+    "examples": [
+      {
+        "meaning": "shop, store",
+        "sentences": [
+          {
+            "thai": "ร้านขายของหน้าปากซอยเปิดดึก",
+            "en": "The shop at the mouth of the soi is open late.",
+            "audio_src": "ร้านขายของหน้าปากซอยเปิดดึก",
+            "audio_en_src": "The shop at the mouth of the soi is open late."
+          },
+          {
+            "thai": "แวะร้านขายของซื้อน้ำหน่อย",
+            "en": "Let's stop by the shop to buy some water.",
+            "audio_src": "แวะร้านขายของซื้อน้ำหน่อย",
+            "audio_en_src": "Let's stop by the shop to buy some water."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-025",
@@ -87929,7 +88100,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เร็วๆนี้",
-    "audio_en_src": "soon"
+    "audio_en_src": "soon",
+    "examples": [
+      {
+        "meaning": "soon",
+        "sentences": [
+          {
+            "thai": "เราจะเปิดร้านใหม่เร็วๆนี้",
+            "en": "We'll open a new shop soon.",
+            "audio_src": "เราจะเปิดร้านใหม่เร็วๆนี้",
+            "audio_en_src": "We'll open a new shop soon."
+          },
+          {
+            "thai": "เดี๋ยวเขาก็กลับมาเร็วๆนี้",
+            "en": "He'll be back soon.",
+            "audio_src": "เดี๋ยวเขาก็กลับมาเร็วๆนี้",
+            "audio_en_src": "He'll be back soon."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-030",

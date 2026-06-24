@@ -88174,7 +88174,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กุญแจ, ลูกกุญแจ",
-    "audio_en_src": "key"
+    "audio_en_src": "key",
+    "examples": [
+      {
+        "meaning": "key",
+        "sentences": [
+          {
+            "thai": "ฉันลืมกุญแจไว้ในรถ",
+            "en": "I left my keys in the car.",
+            "audio_src": "ฉันลืมกุญแจไว้ในรถ",
+            "audio_en_src": "I left my keys in the car."
+          },
+          {
+            "thai": "ลูกกุญแจดอกนี้ไขประตูไม่ได้",
+            "en": "This key won't open the door.",
+            "audio_src": "ลูกกุญแจดอกนี้ไขประตูไม่ได้",
+            "audio_en_src": "This key won't open the door."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-037",
@@ -88333,7 +88352,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ส้มตำ",
-    "audio_en_src": "papaya salad"
+    "audio_en_src": "papaya salad",
+    "examples": [
+      {
+        "meaning": "papaya salad",
+        "sentences": [
+          {
+            "thai": "ส้มตำร้านนี้เผ็ดมาก",
+            "en": "The papaya salad here is really spicy.",
+            "audio_src": "ส้มตำร้านนี้เผ็ดมาก",
+            "audio_en_src": "The papaya salad here is really spicy."
+          },
+          {
+            "thai": "ขอส้มตำไม่ใส่พริก",
+            "en": "Papaya salad with no chili, please.",
+            "audio_src": "ขอส้มตำไม่ใส่พริก",
+            "audio_en_src": "Papaya salad with no chili, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-057",
@@ -88378,7 +88416,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สักครู่",
-    "audio_en_src": "one moment"
+    "audio_en_src": "one moment",
+    "examples": [
+      {
+        "meaning": "one moment",
+        "sentences": [
+          {
+            "thai": "กรุณารอสักครู่",
+            "en": "Please wait a moment.",
+            "audio_src": "กรุณารอสักครู่",
+            "audio_en_src": "Please wait a moment."
+          },
+          {
+            "thai": "สักครู่เขาจะมารับ",
+            "en": "He'll come and pick you up in a moment.",
+            "audio_src": "สักครู่เขาจะมารับ",
+            "audio_en_src": "He'll come and pick you up in a moment."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-061",
@@ -88413,7 +88470,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สามสิบเอ็ด",
-    "audio_en_src": "thirty one"
+    "audio_en_src": "thirty one",
+    "examples": [
+      {
+        "meaning": "thirty one (31)",
+        "sentences": [
+          {
+            "thai": "เดือนนี้มีสามสิบเอ็ดวัน",
+            "en": "This month has thirty-one days.",
+            "audio_src": "เดือนนี้มีสามสิบเอ็ดวัน",
+            "audio_en_src": "This month has thirty-one days."
+          },
+          {
+            "thai": "พ่อฉันอายุสามสิบเอ็ด",
+            "en": "My dad is thirty-one.",
+            "audio_src": "พ่อฉันอายุสามสิบเอ็ด",
+            "audio_en_src": "My dad is thirty-one."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-066",
@@ -88427,7 +88503,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบเก้า",
-    "audio_en_src": "nineteen"
+    "audio_en_src": "nineteen",
+    "examples": [
+      {
+        "meaning": "nineteen (19)",
+        "sentences": [
+          {
+            "thai": "เขาเพิ่งอายุสิบเก้า",
+            "en": "He just turned nineteen.",
+            "audio_src": "เขาเพิ่งอายุสิบเก้า",
+            "audio_en_src": "He just turned nineteen."
+          },
+          {
+            "thai": "ในห้องมีนักเรียนสิบเก้าคน",
+            "en": "There are nineteen students in the room.",
+            "audio_src": "ในห้องมีนักเรียนสิบเก้าคน",
+            "audio_en_src": "There are nineteen students in the room."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-067",
@@ -88441,7 +88536,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบเจ็ด",
-    "audio_en_src": "seventeen"
+    "audio_en_src": "seventeen",
+    "examples": [
+      {
+        "meaning": "seventeen (17)",
+        "sentences": [
+          {
+            "thai": "น้องสาวฉันอายุสิบเจ็ด",
+            "en": "My little sister is seventeen.",
+            "audio_src": "น้องสาวฉันอายุสิบเจ็ด",
+            "audio_en_src": "My little sister is seventeen."
+          },
+          {
+            "thai": "ฉันรอรถเมล์สายสิบเจ็ด",
+            "en": "I'm waiting for bus number seventeen.",
+            "audio_src": "ฉันรอรถเมล์สายสิบเจ็ด",
+            "audio_en_src": "I'm waiting for bus number seventeen."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-068",
@@ -88455,7 +88569,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบแปด",
-    "audio_en_src": "eighteen"
+    "audio_en_src": "eighteen",
+    "examples": [
+      {
+        "meaning": "eighteen (18)",
+        "sentences": [
+          {
+            "thai": "อายุสิบแปดถึงจะขับรถได้",
+            "en": "You have to be eighteen to drive.",
+            "audio_src": "อายุสิบแปดถึงจะขับรถได้",
+            "audio_en_src": "You have to be eighteen to drive."
+          },
+          {
+            "thai": "เขาเรียนจบมัธยมตอนอายุสิบแปด",
+            "en": "He finished high school at eighteen.",
+            "audio_src": "เขาเรียนจบมัธยมตอนอายุสิบแปด",
+            "audio_en_src": "He finished high school at eighteen."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-069",
@@ -88479,7 +88612,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบสาม",
-    "audio_en_src": "thirteen"
+    "audio_en_src": "thirteen",
+    "examples": [
+      {
+        "meaning": "thirteen (13)",
+        "sentences": [
+          {
+            "thai": "หลานฉันอายุสิบสามขวบ",
+            "en": "My nephew is thirteen years old.",
+            "audio_src": "หลานฉันอายุสิบสามขวบ",
+            "audio_en_src": "My nephew is thirteen years old."
+          },
+          {
+            "thai": "บางคนถือว่าเลขสิบสามไม่เป็นมงคล",
+            "en": "Some people consider thirteen an unlucky number.",
+            "audio_src": "บางคนถือว่าเลขสิบสามไม่เป็นมงคล",
+            "audio_en_src": "Some people consider thirteen an unlucky number."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-071",
@@ -88493,7 +88645,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบหก",
-    "audio_en_src": "sixteen"
+    "audio_en_src": "sixteen",
+    "examples": [
+      {
+        "meaning": "sixteen (16)",
+        "sentences": [
+          {
+            "thai": "ฉันได้คะแนนสิบหกจากยี่สิบ",
+            "en": "I got sixteen out of twenty.",
+            "audio_src": "ฉันได้คะแนนสิบหกจากยี่สิบ",
+            "audio_en_src": "I got sixteen out of twenty."
+          },
+          {
+            "thai": "เขาเริ่มทำงานตั้งแต่อายุสิบหก",
+            "en": "He started working at sixteen.",
+            "audio_src": "เขาเริ่มทำงานตั้งแต่อายุสิบหก",
+            "audio_en_src": "He started working at sixteen."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-072",
@@ -88507,7 +88678,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบห้า",
-    "audio_en_src": "fifteen"
+    "audio_en_src": "fifteen",
+    "examples": [
+      {
+        "meaning": "fifteen (15)",
+        "sentences": [
+          {
+            "thai": "รอแป๊บนึง อีกสิบห้านาทีถึง",
+            "en": "Wait a sec, fifteen more minutes and we're there.",
+            "audio_src": "รอแป๊บนึง อีกสิบห้านาทีถึง",
+            "audio_en_src": "Wait a sec, fifteen more minutes and we're there."
+          },
+          {
+            "thai": "ค่าเข้าคนละสิบห้าบาท",
+            "en": "Entry is fifteen baht per person.",
+            "audio_src": "ค่าเข้าคนละสิบห้าบาท",
+            "audio_en_src": "Entry is fifteen baht per person."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-073",
