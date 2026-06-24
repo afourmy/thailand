@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1051 words**
+**Total: 1061 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1054,4 +1054,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-081` : กรกฎาคม (July) : 1 meaning(s), 2 sentences
 - `wlt-c19-082` : กระดาษ (paper) : 1 meaning(s), 2 sentences
 - `wlt-c19-083` : กันยายน (September) : 1 meaning(s), 2 sentences
+- `wlt-c19-084` : กาแฟ (coffee) : 1 meaning(s), 2 sentences
+- `wlt-c19-085` : กุมภาพันธ์ (February) : 1 meaning(s), 2 sentences
+- `wlt-c19-086` : เกินไป (too much, excessively) : 1 meaning(s), 2 sentences
+- `wlt-c19-087` : เกี่ยวกับ (about, regarding) : 1 meaning(s), 2 sentences
+- `wlt-c19-088` : เกือบ (almost, nearly) : 1 meaning(s), 2 sentences
+- `wlt-c19-089` : แก่ (old) : 1 meaning(s), 2 sentences
+- `wlt-c19-090` : แก้ว (glass; crystal) : 2 meaning(s), 4 sentences
+- `wlt-c19-091` : ไก่ (chicken) : 1 meaning(s), 2 sentences
+- `wlt-c19-092` : ขอ (to request, to ask) : 1 meaning(s), 2 sentences
+- `wlt-c19-094` : ขา (leg) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

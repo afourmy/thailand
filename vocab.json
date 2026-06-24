@@ -113456,7 +113456,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กาแฟ",
-    "audio_en_src": "coffee"
+    "audio_en_src": "coffee",
+    "examples": [
+      {
+        "meaning": "coffee",
+        "sentences": [
+          {
+            "thai": "ตอนเช้าฉันต้องดื่มกาแฟ",
+            "en": "I have to drink coffee in the morning.",
+            "audio_src": "ตอนเช้าฉันต้องดื่มกาแฟ",
+            "audio_en_src": "I have to drink coffee in the morning."
+          },
+          {
+            "thai": "ขอกาแฟร้อนหนึ่งแก้ว",
+            "en": "One hot coffee, please.",
+            "audio_src": "ขอกาแฟร้อนหนึ่งแก้ว",
+            "audio_en_src": "One hot coffee, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-085",
@@ -113471,7 +113490,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กุมภาพันธ์",
-    "audio_en_src": "February"
+    "audio_en_src": "February",
+    "examples": [
+      {
+        "meaning": "February",
+        "sentences": [
+          {
+            "thai": "เดือนกุมภาพันธ์อากาศยังเย็นอยู่",
+            "en": "The weather is still cool in February.",
+            "audio_src": "เดือนกุมภาพันธ์อากาศยังเย็นอยู่",
+            "audio_en_src": "The weather is still cool in February."
+          },
+          {
+            "thai": "วันวาเลนไทน์อยู่ในเดือนกุมภาพันธ์",
+            "en": "Valentine's Day is in February.",
+            "audio_src": "วันวาเลนไทน์อยู่ในเดือนกุมภาพันธ์",
+            "audio_en_src": "Valentine's Day is in February."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-086",
@@ -113486,7 +113524,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกินไป",
-    "audio_en_src": "too much, excessively"
+    "audio_en_src": "too much, excessively",
+    "examples": [
+      {
+        "meaning": "too much, excessively",
+        "sentences": [
+          {
+            "thai": "อาหารจานนี้เผ็ดเกินไป",
+            "en": "This dish is too spicy.",
+            "audio_src": "อาหารจานนี้เผ็ดเกินไป",
+            "audio_en_src": "This dish is too spicy."
+          },
+          {
+            "thai": "เธอคิดมากเกินไปแล้ว",
+            "en": "You're overthinking it.",
+            "audio_src": "เธอคิดมากเกินไปแล้ว",
+            "audio_en_src": "You're overthinking it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-087",
@@ -113501,7 +113558,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกี่ยวกับ",
-    "audio_en_src": "about, regarding"
+    "audio_en_src": "about, regarding",
+    "examples": [
+      {
+        "meaning": "about, regarding",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้เกี่ยวกับอะไร",
+            "en": "What is this movie about?",
+            "audio_src": "หนังเรื่องนี้เกี่ยวกับอะไร",
+            "audio_en_src": "What is this movie about?"
+          },
+          {
+            "thai": "เราคุยกันเรื่องเกี่ยวกับงาน",
+            "en": "We talked about work.",
+            "audio_src": "เราคุยกันเรื่องเกี่ยวกับงาน",
+            "audio_en_src": "We talked about work."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-088",
@@ -113516,7 +113592,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกือบ",
-    "audio_en_src": "almost, nearly"
+    "audio_en_src": "almost, nearly",
+    "examples": [
+      {
+        "meaning": "almost, nearly",
+        "sentences": [
+          {
+            "thai": "ฉันเกือบลืมกุญแจ",
+            "en": "I almost forgot my keys.",
+            "audio_src": "ฉันเกือบลืมกุญแจ",
+            "audio_en_src": "I almost forgot my keys."
+          },
+          {
+            "thai": "รอเกือบชั่วโมงแล้ว",
+            "en": "I've been waiting almost an hour.",
+            "audio_src": "รอเกือบชั่วโมงแล้ว",
+            "audio_en_src": "I've been waiting almost an hour."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-089",
@@ -113531,7 +113626,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แก่",
-    "audio_en_src": "old"
+    "audio_en_src": "old",
+    "examples": [
+      {
+        "meaning": "old",
+        "sentences": [
+          {
+            "thai": "คุณยายแก่แล้ว เดินช้าหน่อย",
+            "en": "Grandma is old now, she walks slowly.",
+            "audio_src": "คุณยายแก่แล้ว เดินช้าหน่อย",
+            "audio_en_src": "Grandma is old now, she walks slowly."
+          },
+          {
+            "thai": "หมาตัวนี้แก่แล้ว",
+            "en": "This dog is old now.",
+            "audio_src": "หมาตัวนี้แก่แล้ว",
+            "audio_en_src": "This dog is old now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-090",
@@ -113546,7 +113660,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แก้ว",
-    "audio_en_src": "glass; crystal"
+    "audio_en_src": "glass; crystal",
+    "examples": [
+      {
+        "meaning": "glass",
+        "sentences": [
+          {
+            "thai": "ขอน้ำหนึ่งแก้ว",
+            "en": "A glass of water, please.",
+            "audio_src": "ขอน้ำหนึ่งแก้ว",
+            "audio_en_src": "A glass of water, please."
+          },
+          {
+            "thai": "แก้วใบนี้แตกแล้ว",
+            "en": "This glass is broken.",
+            "audio_src": "แก้วใบนี้แตกแล้ว",
+            "audio_en_src": "This glass is broken."
+          }
+        ]
+      },
+      {
+        "meaning": "crystal",
+        "sentences": [
+          {
+            "thai": "โคมระย้าแก้วในห้องสวยมาก",
+            "en": "The crystal chandelier in the room is beautiful.",
+            "audio_src": "โคมระย้าแก้วในห้องสวยมาก",
+            "audio_en_src": "The crystal chandelier in the room is beautiful."
+          },
+          {
+            "thai": "หมอดูมองเข้าไปในลูกแก้ว",
+            "en": "The fortune teller gazed into the crystal ball.",
+            "audio_src": "หมอดูมองเข้าไปในลูกแก้ว",
+            "audio_en_src": "The fortune teller gazed into the crystal ball."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-091",
@@ -113561,7 +113711,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไก่",
-    "audio_en_src": "chicken"
+    "audio_en_src": "chicken",
+    "examples": [
+      {
+        "meaning": "chicken",
+        "sentences": [
+          {
+            "thai": "เย็นนี้กินข้าวกับไก่ทอด",
+            "en": "Tonight we're having rice with fried chicken.",
+            "audio_src": "เย็นนี้กินข้าวกับไก่ทอด",
+            "audio_en_src": "Tonight we're having rice with fried chicken."
+          },
+          {
+            "thai": "ที่บ้านเลี้ยงไก่หลายตัว",
+            "en": "We raise several chickens at home.",
+            "audio_src": "ที่บ้านเลี้ยงไก่หลายตัว",
+            "audio_en_src": "We raise several chickens at home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-092",
@@ -113576,7 +113745,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขอ",
-    "audio_en_src": "to request, to ask"
+    "audio_en_src": "to request, to ask",
+    "examples": [
+      {
+        "meaning": "to request, to ask",
+        "sentences": [
+          {
+            "thai": "ขอน้ำหน่อยได้ไหม",
+            "en": "Can I have some water?",
+            "audio_src": "ขอน้ำหน่อยได้ไหม",
+            "audio_en_src": "Can I have some water?"
+          },
+          {
+            "thai": "ฉันขออนุญาตกลับก่อนนะ",
+            "en": "May I leave early?",
+            "audio_src": "ฉันขออนุญาตกลับก่อนนะ",
+            "audio_en_src": "May I leave early?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-094",
@@ -113591,7 +113779,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขา",
-    "audio_en_src": "leg"
+    "audio_en_src": "leg",
+    "examples": [
+      {
+        "meaning": "leg",
+        "sentences": [
+          {
+            "thai": "ขาฉันเมื่อยมาก",
+            "en": "My legs are really sore.",
+            "audio_src": "ขาฉันเมื่อยมาก",
+            "audio_en_src": "My legs are really sore."
+          },
+          {
+            "thai": "เขาขาหักเลยเดินไม่ได้",
+            "en": "He broke his leg so he can't walk.",
+            "audio_src": "เขาขาหักเลยเดินไม่ได้",
+            "audio_en_src": "He broke his leg so he can't walk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-095",

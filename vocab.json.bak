@@ -112653,7 +112653,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่นาน",
-    "audio_en_src": "not long"
+    "audio_en_src": "not long",
+    "examples": [
+      {
+        "meaning": "not long",
+        "sentences": [
+          {
+            "thai": "รอแป๊บเดียว ไม่นานก็เสร็จ",
+            "en": "Just wait a sec, it won't take long.",
+            "audio_src": "รอแป๊บเดียว ไม่นานก็เสร็จ",
+            "audio_en_src": "Just wait a sec, it won't take long."
+          },
+          {
+            "thai": "เขาอยู่ที่นี่ได้ไม่นานก็ย้ายไป",
+            "en": "He wasn't here long before he moved away.",
+            "audio_src": "เขาอยู่ที่นี่ได้ไม่นานก็ย้ายไป",
+            "audio_en_src": "He wasn't here long before he moved away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-020",
@@ -112667,7 +112686,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่สบายใจ",
-    "audio_en_src": "uneasy, troubled, uncomfortable"
+    "audio_en_src": "uneasy, troubled, uncomfortable",
+    "examples": [
+      {
+        "meaning": "uneasy, troubled, uncomfortable",
+        "sentences": [
+          {
+            "thai": "ฉันไม่สบายใจที่เห็นเขาเศร้า",
+            "en": "I feel uneasy seeing him sad.",
+            "audio_src": "ฉันไม่สบายใจที่เห็นเขาเศร้า",
+            "audio_en_src": "I feel uneasy seeing him sad."
+          },
+          {
+            "thai": "มีเรื่องอะไรทำให้ไม่สบายใจหรือเปล่า",
+            "en": "Is something troubling you?",
+            "audio_src": "มีเรื่องอะไรทำให้ไม่สบายใจหรือเปล่า",
+            "audio_en_src": "Is something troubling you?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-021",
@@ -112874,7 +112912,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สบายๆ",
-    "audio_en_src": "'no problem', 'no worries', relaxed"
+    "audio_en_src": "'no problem', 'no worries', relaxed",
+    "examples": [
+      {
+        "meaning": "'no problem', 'no worries', relaxed",
+        "sentences": [
+          {
+            "thai": "ไม่ต้องรีบ สบายๆ",
+            "en": "No rush, take it easy.",
+            "audio_src": "ไม่ต้องรีบ สบายๆ",
+            "audio_en_src": "No rush, take it easy."
+          },
+          {
+            "thai": "วันหยุดฉันอยากอยู่บ้านสบายๆ",
+            "en": "On my day off I just want to relax at home.",
+            "audio_src": "วันหยุดฉันอยากอยู่บ้านสบายๆ",
+            "audio_en_src": "On my day off I just want to relax at home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-045",
@@ -112938,7 +112995,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สูบบุหรี่",
-    "audio_en_src": "to smoke"
+    "audio_en_src": "to smoke",
+    "examples": [
+      {
+        "meaning": "to smoke (cigarettes)",
+        "sentences": [
+          {
+            "thai": "ที่นี่สูบบุหรี่ไม่ได้",
+            "en": "You can't smoke here.",
+            "audio_src": "ที่นี่สูบบุหรี่ไม่ได้",
+            "audio_en_src": "You can't smoke here."
+          },
+          {
+            "thai": "เขาสูบบุหรี่วันละซอง",
+            "en": "He smokes a pack a day.",
+            "audio_src": "เขาสูบบุหรี่วันละซอง",
+            "audio_en_src": "He smokes a pack a day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-051",
@@ -112952,7 +113028,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสาร์อาทิตย์นี้",
-    "audio_en_src": "this weekend"
+    "audio_en_src": "this weekend",
+    "examples": [
+      {
+        "meaning": "this weekend",
+        "sentences": [
+          {
+            "thai": "เสาร์อาทิตย์นี้เธอว่างไหม",
+            "en": "Are you free this weekend?",
+            "audio_src": "เสาร์อาทิตย์นี้เธอว่างไหม",
+            "audio_en_src": "Are you free this weekend?"
+          },
+          {
+            "thai": "เสาร์อาทิตย์นี้เราจะไปทะเล",
+            "en": "We're going to the beach this weekend.",
+            "audio_src": "เสาร์อาทิตย์นี้เราจะไปทะเล",
+            "audio_en_src": "We're going to the beach this weekend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-052",
@@ -113057,7 +113152,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หวัดดี",
-    "audio_en_src": "hi, bye"
+    "audio_en_src": "hi, bye",
+    "examples": [
+      {
+        "meaning": "hi, bye (casual)",
+        "sentences": [
+          {
+            "thai": "หวัดดี เป็นไงบ้าง",
+            "en": "Hi, how's it going?",
+            "audio_src": "หวัดดี เป็นไงบ้าง",
+            "audio_en_src": "Hi, how's it going?"
+          },
+          {
+            "thai": "หวัดดี เจอกันพรุ่งนี้นะ",
+            "en": "Bye, see you tomorrow.",
+            "audio_src": "หวัดดี เจอกันพรุ่งนี้นะ",
+            "audio_en_src": "Bye, see you tomorrow."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-063",
@@ -113122,7 +113236,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหงา",
-    "audio_en_src": "lonely"
+    "audio_en_src": "lonely",
+    "examples": [
+      {
+        "meaning": "lonely",
+        "sentences": [
+          {
+            "thai": "อยู่คนเดียวแล้วเหงา",
+            "en": "I feel lonely living alone.",
+            "audio_src": "อยู่คนเดียวแล้วเหงา",
+            "audio_en_src": "I feel lonely living alone."
+          },
+          {
+            "thai": "เหงาจัง โทรหาเพื่อนดีกว่า",
+            "en": "I'm so lonely, I'll call a friend.",
+            "audio_src": "เหงาจัง โทรหาเพื่อนดีกว่า",
+            "audio_en_src": "I'm so lonely, I'll call a friend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-069",
@@ -113221,7 +113354,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กรกฎาคม",
-    "audio_en_src": "July"
+    "audio_en_src": "July",
+    "examples": [
+      {
+        "meaning": "July",
+        "sentences": [
+          {
+            "thai": "เดือนกรกฎาคมฝนตกบ่อย",
+            "en": "It rains a lot in July.",
+            "audio_src": "เดือนกรกฎาคมฝนตกบ่อย",
+            "audio_en_src": "It rains a lot in July."
+          },
+          {
+            "thai": "วันหยุดยาวอยู่ในเดือนกรกฎาคม",
+            "en": "The long holiday is in July.",
+            "audio_src": "วันหยุดยาวอยู่ในเดือนกรกฎาคม",
+            "audio_en_src": "The long holiday is in July."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-082",
@@ -113236,7 +113388,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระดาษ",
-    "audio_en_src": "paper"
+    "audio_en_src": "paper",
+    "examples": [
+      {
+        "meaning": "paper",
+        "sentences": [
+          {
+            "thai": "ขอกระดาษหนึ่งแผ่น",
+            "en": "One sheet of paper, please.",
+            "audio_src": "ขอกระดาษหนึ่งแผ่น",
+            "audio_en_src": "One sheet of paper, please."
+          },
+          {
+            "thai": "เขียนลงบนกระดาษได้เลย",
+            "en": "Just write it down on paper.",
+            "audio_src": "เขียนลงบนกระดาษได้เลย",
+            "audio_en_src": "Just write it down on paper."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-083",
@@ -113251,7 +113422,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กันยายน",
-    "audio_en_src": "September"
+    "audio_en_src": "September",
+    "examples": [
+      {
+        "meaning": "September",
+        "sentences": [
+          {
+            "thai": "โรงเรียนเปิดเทอมเดือนกันยายน",
+            "en": "School starts in September.",
+            "audio_src": "โรงเรียนเปิดเทอมเดือนกันยายน",
+            "audio_en_src": "School starts in September."
+          },
+          {
+            "thai": "วันเกิดฉันอยู่ในเดือนกันยายน",
+            "en": "My birthday is in September.",
+            "audio_src": "วันเกิดฉันอยู่ในเดือนกันยายน",
+            "audio_en_src": "My birthday is in September."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-084",
