@@ -2910,9 +2910,14 @@ body[data-thai-font="noto"] .ex-th { font-family: 'Noto Sans Thai', sans-serif; 
 .ex-modal-head {
   display: flex;
   flex-direction: column;
-  gap: 0.1rem;
+  gap: 0.25rem;
   margin-bottom: 0.95rem;
   padding-right: 1.6rem;
+}
+.ex-modal-line {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
 }
 .ex-modal-thai {
   font-family: 'Sarabun', sans-serif;

@@ -181,16 +181,26 @@
 
   // Modal listing the word's example sentences. Closes on backdrop click, the ×,
   // or Escape; sentence speaker buttons play through playExSrc.
+  // Speaker button for a word's own pronunciation, by explicit src (so it plays
+  // through the same channel as the example buttons). "" when that file is absent.
+  function wordSpeakerBtn(src, label) {
+    if (!src) return "";
+    return '<button class="ex-play" type="button" data-src="' + escAttr(src) +
+      '" aria-label="' + label + '">' + SPEAKER_SVG + "</button>";
+  }
+
   function openExamplesModal(word) {
     stopAudio();
+    var thSpk = wordSpeakerBtn(word.audio ? audioBase + word.id + ".mp3" : "", "Play Thai word");
+    var enSpk = wordSpeakerBtn(word.audio_en ? audioBase + word.id + ".en.mp3" : "", "Play English word");
     var backdrop = document.createElement("div");
     backdrop.className = "vocab-modal-backdrop ex-modal-backdrop";
     backdrop.innerHTML =
       '<div class="vocab-modal ex-modal">' +
         '<button class="ex-modal-close" type="button" aria-label="Close">&times;</button>' +
         '<div class="ex-modal-head">' +
-          '<span class="ex-modal-thai" lang="th">' + esc(word.thai) + '</span>' +
-          '<span class="ex-modal-en">' + esc(word.english) + '</span>' +
+          '<div class="ex-modal-line">' + thSpk + '<span class="ex-modal-thai" lang="th">' + esc(word.thai) + '</span></div>' +
+          '<div class="ex-modal-line">' + enSpk + '<span class="ex-modal-en">' + esc(word.english) + '</span></div>' +
         '</div>' +
         buildExamplesHtml(word, audioBase) +
       '</div>';
