@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 261 words**
+**Total: 271 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -260,6 +260,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ('whatever!', 'never mind', 'forget about it!') : 1 meaning(s), 2 sentences
 - `tamago-l3-356` : สั่ง (to order (someone to do sth, food, goods)) : 1 meaning(s), 3 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences
+- `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
+- `tamago-l3-411` : ...สุดๆไปเลย (insanely, extremely) : 1 meaning(s), 2 sentences
+- `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
+- `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
+- `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences
+- `tamago-l3-515` : เลิกคบ (to break up, to end a relationship or friendship) : 1 meaning(s), 2 sentences
+- `tamago-l3-543` : สมน้ำหน้า ('serves you right', 'you deserve it') : 1 meaning(s), 2 sentences
+- `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
+- `tamago-l3-570` : ทำใจ (to come to terms with sth, to accept) : 1 meaning(s), 2 sentences
+- `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences

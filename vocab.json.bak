@@ -26461,7 +26461,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กำลังใจ",
-    "audio_en_src": "encouragement, moral support"
+    "audio_en_src": "encouragement, moral support",
+    "examples": [
+      {
+        "meaning": "encouragement, moral support",
+        "sentences": [
+          {
+            "thai": "ขอบคุณที่ให้กำลังใจกันนะ",
+            "en": "Thanks for the encouragement.",
+            "audio_src": "ขอบคุณที่ให้กำลังใจกันนะ",
+            "audio_en_src": "Thanks for the encouragement."
+          },
+          {
+            "thai": "เธอเป็นกำลังใจให้ฉันเสมอ",
+            "en": "You're always there to support me.",
+            "audio_src": "เธอเป็นกำลังใจให้ฉันเสมอ",
+            "audio_en_src": "You're always there to support me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-267",
@@ -26550,7 +26569,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทัก, ทักทาย",
-    "audio_en_src": "to greet, to say hi"
+    "audio_en_src": "to greet, to say hi",
+    "examples": [
+      {
+        "meaning": "to greet, to say hi",
+        "sentences": [
+          {
+            "thai": "เขายิ้มทักทายทุกคน",
+            "en": "He smiles and greets everyone.",
+            "audio_src": "เขายิ้มทักทายทุกคน",
+            "audio_en_src": "He smiles and greets everyone."
+          },
+          {
+            "thai": "เห็นกันก็ทักหน่อยสิ",
+            "en": "If you see me, at least say hi.",
+            "audio_src": "เห็นกันก็ทักหน่อยสิ",
+            "audio_en_src": "If you see me, at least say hi."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-277",
@@ -26609,7 +26647,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แอด",
-    "audio_en_src": "to add"
+    "audio_en_src": "to add",
+    "examples": [
+      {
+        "meaning": "to add (e.g friend on social media)",
+        "sentences": [
+          {
+            "thai": "แอดไลน์ฉันไว้นะ",
+            "en": "Add me on Line.",
+            "audio_src": "แอดไลน์ฉันไว้นะ",
+            "audio_en_src": "Add me on Line."
+          },
+          {
+            "thai": "ฉันแอดเฟซเขาไปแล้ว",
+            "en": "I already added him on Facebook.",
+            "audio_src": "ฉันแอดเฟซเขาไปแล้ว",
+            "audio_en_src": "I already added him on Facebook."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-282",
@@ -26645,7 +26702,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รำคาญ",
-    "audio_en_src": "annoyed"
+    "audio_en_src": "annoyed",
+    "examples": [
+      {
+        "meaning": "annoyed",
+        "sentences": [
+          {
+            "thai": "เสียงดังจนรำคาญ",
+            "en": "It's so loud it's annoying.",
+            "audio_src": "เสียงดังจนรำคาญ",
+            "audio_en_src": "It's so loud it's annoying."
+          },
+          {
+            "thai": "อย่ามากวนน่ารำคาญ",
+            "en": "Stop bugging me, it's annoying.",
+            "audio_src": "อย่ามากวนน่ารำคาญ",
+            "audio_en_src": "Stop bugging me, it's annoying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-285",
@@ -26726,7 +26802,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหลือเกิน",
-    "audio_en_src": "too much, extremely"
+    "audio_en_src": "too much, extremely",
+    "examples": [
+      {
+        "meaning": "too much, extremely",
+        "sentences": [
+          {
+            "thai": "วันนี้ร้อนเหลือเกิน",
+            "en": "It's extremely hot today.",
+            "audio_src": "วันนี้ร้อนเหลือเกิน",
+            "audio_en_src": "It's extremely hot today."
+          },
+          {
+            "thai": "เธอใจดีเหลือเกิน",
+            "en": "You're so incredibly kind.",
+            "audio_src": "เธอใจดีเหลือเกิน",
+            "audio_en_src": "You're so incredibly kind."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-293",
@@ -26761,7 +26856,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประมาณว่า...",
-    "audio_en_src": "'roughly speaking, ...', 'something like...'"
+    "audio_en_src": "'roughly speaking, ...', 'something like...'",
+    "examples": [
+      {
+        "meaning": "'roughly speaking, ...', 'something like...'",
+        "sentences": [
+          {
+            "thai": "เขาพูดประมาณว่าไม่อยากมา",
+            "en": "He said something like he doesn't want to come.",
+            "audio_src": "เขาพูดประมาณว่าไม่อยากมา",
+            "audio_en_src": "He said something like he doesn't want to come."
+          },
+          {
+            "thai": "มันก็ประมาณว่าต้องรอไปก่อน",
+            "en": "It's kind of like we have to wait for now.",
+            "audio_src": "มันก็ประมาณว่าต้องรอไปก่อน",
+            "audio_en_src": "It's kind of like we have to wait for now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-296",
@@ -26981,7 +27095,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ้านเรา",
-    "audio_en_src": "refers to Thailand, 'our country'"
+    "audio_en_src": "refers to Thailand, 'our country'",
+    "examples": [
+      {
+        "meaning": "(colloquial) refers to Thailand, 'our country'",
+        "sentences": [
+          {
+            "thai": "อากาศบ้านเราร้อนตลอดทั้งปี",
+            "en": "The weather in our country is hot all year round.",
+            "audio_src": "อากาศบ้านเราร้อนตลอดทั้งปี",
+            "audio_en_src": "The weather in our country is hot all year round."
+          },
+          {
+            "thai": "อาหารบ้านเราอร่อยที่สุด",
+            "en": "Our country's food is the best.",
+            "audio_src": "อาหารบ้านเราอร่อยที่สุด",
+            "audio_en_src": "Our country's food is the best."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-317",
@@ -27274,7 +27407,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่างมันเถอะ, ช่างเหอะ",
-    "audio_en_src": "'whatever!', 'never mind', 'forget about it!'"
+    "audio_en_src": "'whatever!', 'never mind', 'forget about it!'",
+    "examples": [
+      {
+        "meaning": "'whatever!', 'never mind', 'forget about it!'",
+        "sentences": [
+          {
+            "thai": "ช่างมันเถอะ ไม่ใช่เรื่องใหญ่",
+            "en": "Forget it, it's not a big deal.",
+            "audio_src": "ช่างมันเถอะ ไม่ใช่เรื่องใหญ่",
+            "audio_en_src": "Forget it, it's not a big deal."
+          },
+          {
+            "thai": "เขาไม่มาก็ช่างมันเถอะ",
+            "en": "If he's not coming, then never mind.",
+            "audio_src": "เขาไม่มาก็ช่างมันเถอะ",
+            "audio_en_src": "If he's not coming, then never mind."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-346",
@@ -27385,7 +27537,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สั่ง",
-    "audio_en_src": "to order"
+    "audio_en_src": "to order",
+    "examples": [
+      {
+        "meaning": "to order (someone to do sth, food, goods)",
+        "sentences": [
+          {
+            "thai": "สั่งข้าวผัดสองจาน",
+            "en": "Order two plates of fried rice.",
+            "audio_src": "สั่งข้าวผัดสองจาน",
+            "audio_en_src": "Order two plates of fried rice."
+          },
+          {
+            "thai": "ฉันสั่งของออนไลน์บ่อย",
+            "en": "I order things online a lot.",
+            "audio_src": "ฉันสั่งของออนไลน์บ่อย",
+            "audio_en_src": "I order things online a lot."
+          },
+          {
+            "thai": "หัวหน้าสั่งให้ทำงานให้เสร็จวันนี้",
+            "en": "The boss ordered us to finish the work today.",
+            "audio_src": "หัวหน้าสั่งให้ทำงานให้เสร็จวันนี้",
+            "audio_en_src": "The boss ordered us to finish the work today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-357",
@@ -27677,7 +27854,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ค่อยๆ",
-    "audio_en_src": "gradually, slowly, quietly"
+    "audio_en_src": "gradually, slowly, quietly",
+    "examples": [
+      {
+        "meaning": "gradually, slowly, quietly",
+        "sentences": [
+          {
+            "thai": "ค่อยๆเดินนะ พื้นลื่น",
+            "en": "Walk slowly, the floor is slippery.",
+            "audio_src": "ค่อยๆเดินนะ พื้นลื่น",
+            "audio_en_src": "Walk slowly, the floor is slippery."
+          },
+          {
+            "thai": "พูดค่อยๆหน่อย เดี๋ยวคนอื่นได้ยิน",
+            "en": "Keep your voice down, others might hear.",
+            "audio_src": "พูดค่อยๆหน่อย เดี๋ยวคนอื่นได้ยิน",
+            "audio_en_src": "Keep your voice down, others might hear."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-387",
