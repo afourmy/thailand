@@ -114877,7 +114877,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประตู",
-    "audio_en_src": "door, gate"
+    "audio_en_src": "door, gate",
+    "examples": [
+      {
+        "meaning": "door, gate",
+        "sentences": [
+          {
+            "thai": "ช่วยปิดประตูหน่อย",
+            "en": "Please close the door.",
+            "audio_src": "ช่วยปิดประตูหน่อย",
+            "audio_en_src": "Please close the door."
+          },
+          {
+            "thai": "ประตูบ้านล็อกอยู่",
+            "en": "The front gate is locked.",
+            "audio_src": "ประตูบ้านล็อกอยู่",
+            "audio_en_src": "The front gate is locked."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-031",
@@ -114892,7 +114911,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปาก",
-    "audio_en_src": "mouth"
+    "audio_en_src": "mouth",
+    "examples": [
+      {
+        "meaning": "mouth",
+        "sentences": [
+          {
+            "thai": "อ้าปากกว้างๆ",
+            "en": "Open your mouth wide.",
+            "audio_src": "อ้าปากกว้างๆ",
+            "audio_en_src": "Open your mouth wide."
+          },
+          {
+            "thai": "เด็กเอาของเข้าปาก",
+            "en": "The child put something in his mouth.",
+            "audio_src": "เด็กเอาของเข้าปาก",
+            "audio_en_src": "The child put something in his mouth."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-032",
@@ -114908,7 +114946,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เป็น",
-    "audio_en_src": "to be; to be able"
+    "audio_en_src": "to be; to be able",
+    "examples": [
+      {
+        "meaning": "to be",
+        "sentences": [
+          {
+            "thai": "เขาเป็นหมอ",
+            "en": "He is a doctor.",
+            "audio_src": "เขาเป็นหมอ",
+            "audio_en_src": "He is a doctor."
+          },
+          {
+            "thai": "วันนี้เป็นวันเกิดฉัน",
+            "en": "Today is my birthday.",
+            "audio_src": "วันนี้เป็นวันเกิดฉัน",
+            "audio_en_src": "Today is my birthday."
+          }
+        ]
+      },
+      {
+        "meaning": "to be able",
+        "sentences": [
+          {
+            "thai": "ฉันว่ายน้ำเป็น",
+            "en": "I can swim.",
+            "audio_src": "ฉันว่ายน้ำเป็น",
+            "audio_en_src": "I can swim."
+          },
+          {
+            "thai": "เธอทำกับข้าวเป็นไหม",
+            "en": "Can you cook?",
+            "audio_src": "เธอทำกับข้าวเป็นไหม",
+            "audio_en_src": "Can you cook?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-033",
@@ -114934,7 +115008,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผอม",
-    "audio_en_src": "thin"
+    "audio_en_src": "thin",
+    "examples": [
+      {
+        "meaning": "thin",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้เขาผอมลงเยอะ",
+            "en": "He's gotten a lot thinner lately.",
+            "audio_src": "ช่วงนี้เขาผอมลงเยอะ",
+            "audio_en_src": "He's gotten a lot thinner lately."
+          },
+          {
+            "thai": "เธอผอมจัง กินข้าวบ้างนะ",
+            "en": "You're so thin, make sure you eat.",
+            "audio_src": "เธอผอมจัง กินข้าวบ้างนะ",
+            "audio_en_src": "You're so thin, make sure you eat."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-035",
@@ -114949,7 +115042,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พรุ่งนี้",
-    "audio_en_src": "tomorrow"
+    "audio_en_src": "tomorrow",
+    "examples": [
+      {
+        "meaning": "tomorrow",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้เจอกันนะ",
+            "en": "See you tomorrow.",
+            "audio_src": "พรุ่งนี้เจอกันนะ",
+            "audio_en_src": "See you tomorrow."
+          },
+          {
+            "thai": "พรุ่งนี้ฉันไม่ว่าง",
+            "en": "I'm not free tomorrow.",
+            "audio_src": "พรุ่งนี้ฉันไม่ว่าง",
+            "audio_en_src": "I'm not free tomorrow."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-036",
@@ -114965,7 +115077,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พฤศจิกายน",
-    "audio_en_src": "November"
+    "audio_en_src": "November",
+    "examples": [
+      {
+        "meaning": "November",
+        "sentences": [
+          {
+            "thai": "เดือนพฤศจิกายนอากาศเริ่มเย็น",
+            "en": "The weather starts to cool down in November.",
+            "audio_src": "เดือนพฤศจิกายนอากาศเริ่มเย็น",
+            "audio_en_src": "The weather starts to cool down in November."
+          },
+          {
+            "thai": "ลอยกระทงอยู่ในเดือนพฤศจิกายน",
+            "en": "Loy Krathong is in November.",
+            "audio_src": "ลอยกระทงอยู่ในเดือนพฤศจิกายน",
+            "audio_en_src": "Loy Krathong is in November."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-037",
@@ -114980,7 +115111,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พ่อ",
-    "audio_en_src": "father"
+    "audio_en_src": "father",
+    "examples": [
+      {
+        "meaning": "father",
+        "sentences": [
+          {
+            "thai": "พ่อฉันทำงานหนักมาก",
+            "en": "My dad works really hard.",
+            "audio_src": "พ่อฉันทำงานหนักมาก",
+            "audio_en_src": "My dad works really hard."
+          },
+          {
+            "thai": "ฉันคิดถึงพ่อ",
+            "en": "I miss my dad.",
+            "audio_src": "ฉันคิดถึงพ่อ",
+            "audio_en_src": "I miss my dad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-038",
@@ -115046,7 +115196,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไฟ",
-    "audio_en_src": "fire, electric light, electricity"
+    "audio_en_src": "fire, electric light, electricity",
+    "examples": [
+      {
+        "meaning": "fire, electric light, electricity",
+        "sentences": [
+          {
+            "thai": "ระวังไฟ เดี๋ยวไหม้",
+            "en": "Careful with the fire, it'll burn.",
+            "audio_src": "ระวังไฟ เดี๋ยวไหม้",
+            "audio_en_src": "Careful with the fire, it'll burn."
+          },
+          {
+            "thai": "ช่วยเปิดไฟหน่อย",
+            "en": "Please turn on the light.",
+            "audio_src": "ช่วยเปิดไฟหน่อย",
+            "audio_en_src": "Please turn on the light."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-040",
@@ -115062,7 +115231,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มกราคม",
-    "audio_en_src": "January"
+    "audio_en_src": "January",
+    "examples": [
+      {
+        "meaning": "January",
+        "sentences": [
+          {
+            "thai": "ปีใหม่อยู่ในเดือนมกราคม",
+            "en": "New Year is in January.",
+            "audio_src": "ปีใหม่อยู่ในเดือนมกราคม",
+            "audio_en_src": "New Year is in January."
+          },
+          {
+            "thai": "เดือนมกราคมอากาศหนาว",
+            "en": "The weather is cold in January.",
+            "audio_src": "เดือนมกราคมอากาศหนาว",
+            "audio_en_src": "The weather is cold in January."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-041",
@@ -115077,7 +115265,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มา",
-    "audio_en_src": "to come"
+    "audio_en_src": "to come",
+    "examples": [
+      {
+        "meaning": "to come",
+        "sentences": [
+          {
+            "thai": "เขายังไม่มา",
+            "en": "He hasn't come yet.",
+            "audio_src": "เขายังไม่มา",
+            "audio_en_src": "He hasn't come yet."
+          },
+          {
+            "thai": "พรุ่งนี้มาหาฉันได้ไหม",
+            "en": "Can you come see me tomorrow?",
+            "audio_src": "พรุ่งนี้มาหาฉันได้ไหม",
+            "audio_en_src": "Can you come see me tomorrow?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-042",

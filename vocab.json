@@ -115299,7 +115299,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มาก",
-    "audio_en_src": "very, a lot, many"
+    "audio_en_src": "very, a lot, many",
+    "examples": [
+      {
+        "meaning": "very, a lot, many",
+        "sentences": [
+          {
+            "thai": "วันนี้ร้อนมาก",
+            "en": "It's very hot today.",
+            "audio_src": "วันนี้ร้อนมาก",
+            "audio_en_src": "It's very hot today."
+          },
+          {
+            "thai": "เขามีเพื่อนมาก",
+            "en": "He has a lot of friends.",
+            "audio_src": "เขามีเพื่อนมาก",
+            "audio_en_src": "He has a lot of friends."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-043",
@@ -115314,7 +115333,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มิถุนายน",
-    "audio_en_src": "June"
+    "audio_en_src": "June",
+    "examples": [
+      {
+        "meaning": "June",
+        "sentences": [
+          {
+            "thai": "เดือนมิถุนายนฝนตกบ่อย",
+            "en": "It rains often in June.",
+            "audio_src": "เดือนมิถุนายนฝนตกบ่อย",
+            "audio_en_src": "It rains often in June."
+          },
+          {
+            "thai": "วันเกิดเขาอยู่ในเดือนมิถุนายน",
+            "en": "His birthday is in June.",
+            "audio_src": "วันเกิดเขาอยู่ในเดือนมิถุนายน",
+            "audio_en_src": "His birthday is in June."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-044",
@@ -115329,7 +115367,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มีนาคม",
-    "audio_en_src": "March"
+    "audio_en_src": "March",
+    "examples": [
+      {
+        "meaning": "March",
+        "sentences": [
+          {
+            "thai": "เดือนมีนาคมเริ่มร้อนแล้ว",
+            "en": "It starts getting hot in March.",
+            "audio_src": "เดือนมีนาคมเริ่มร้อนแล้ว",
+            "audio_en_src": "It starts getting hot in March."
+          },
+          {
+            "thai": "ปิดเทอมใหญ่อยู่ในเดือนมีนาคม",
+            "en": "The big school break is in March.",
+            "audio_src": "ปิดเทอมใหญ่อยู่ในเดือนมีนาคม",
+            "audio_en_src": "The big school break is in March."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-045",
@@ -115344,7 +115401,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมษายน",
-    "audio_en_src": "April"
+    "audio_en_src": "April",
+    "examples": [
+      {
+        "meaning": "April",
+        "sentences": [
+          {
+            "thai": "สงกรานต์อยู่ในเดือนเมษายน",
+            "en": "Songkran is in April.",
+            "audio_src": "สงกรานต์อยู่ในเดือนเมษายน",
+            "audio_en_src": "Songkran is in April."
+          },
+          {
+            "thai": "เดือนเมษายนร้อนที่สุดในปี",
+            "en": "April is the hottest month of the year.",
+            "audio_src": "เดือนเมษายนร้อนที่สุดในปี",
+            "audio_en_src": "April is the hottest month of the year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-046",
@@ -115359,7 +115435,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมือง",
-    "audio_en_src": "city, town; country"
+    "audio_en_src": "city, town; country",
+    "examples": [
+      {
+        "meaning": "city, town",
+        "sentences": [
+          {
+            "thai": "เขาย้ายมาอยู่ในเมือง",
+            "en": "He moved into the city.",
+            "audio_src": "เขาย้ายมาอยู่ในเมือง",
+            "audio_en_src": "He moved into the city."
+          },
+          {
+            "thai": "เมืองนี้เงียบและน่าอยู่",
+            "en": "This town is quiet and pleasant.",
+            "audio_src": "เมืองนี้เงียบและน่าอยู่",
+            "audio_en_src": "This town is quiet and pleasant."
+          }
+        ]
+      },
+      {
+        "meaning": "country",
+        "sentences": [
+          {
+            "thai": "เมืองไทยอากาศร้อนตลอดปี",
+            "en": "Thailand is hot all year round.",
+            "audio_src": "เมืองไทยอากาศร้อนตลอดปี",
+            "audio_en_src": "Thailand is hot all year round."
+          },
+          {
+            "thai": "เขาไปเรียนต่อที่เมืองนอก",
+            "en": "He went to study abroad.",
+            "audio_src": "เขาไปเรียนต่อที่เมืองนอก",
+            "audio_en_src": "He went to study abroad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-047",
@@ -115374,7 +115486,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม้",
-    "audio_en_src": "wood"
+    "audio_en_src": "wood",
+    "examples": [
+      {
+        "meaning": "wood",
+        "sentences": [
+          {
+            "thai": "โต๊ะตัวนี้ทำจากไม้",
+            "en": "This table is made of wood.",
+            "audio_src": "โต๊ะตัวนี้ทำจากไม้",
+            "audio_en_src": "This table is made of wood."
+          },
+          {
+            "thai": "บ้านไม้หลังนี้เก่ามาก",
+            "en": "This wooden house is very old.",
+            "audio_src": "บ้านไม้หลังนี้เก่ามาก",
+            "audio_en_src": "This wooden house is very old."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-048",
@@ -115389,7 +115520,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยา",
-    "audio_en_src": "medicine, drug"
+    "audio_en_src": "medicine, drug",
+    "examples": [
+      {
+        "meaning": "medicine, drug",
+        "sentences": [
+          {
+            "thai": "กินยาก่อนนอนนะ",
+            "en": "Take your medicine before bed.",
+            "audio_src": "กินยาก่อนนอนนะ",
+            "audio_en_src": "Take your medicine before bed."
+          },
+          {
+            "thai": "ยานี้แก้ปวดหัว",
+            "en": "This medicine is for headaches.",
+            "audio_src": "ยานี้แก้ปวดหัว",
+            "audio_en_src": "This medicine is for headaches."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-049",
@@ -115405,7 +115555,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยาก",
-    "audio_en_src": "hard, difficult, complicated"
+    "audio_en_src": "hard, difficult, complicated",
+    "examples": [
+      {
+        "meaning": "hard, difficult, complicated",
+        "sentences": [
+          {
+            "thai": "ข้อสอบวันนี้ยากมาก",
+            "en": "Today's exam was really hard.",
+            "audio_src": "ข้อสอบวันนี้ยากมาก",
+            "audio_en_src": "Today's exam was really hard."
+          },
+          {
+            "thai": "ภาษาไทยอ่านยาก",
+            "en": "Thai is hard to read.",
+            "audio_src": "ภาษาไทยอ่านยาก",
+            "audio_en_src": "Thai is hard to read."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-050",
@@ -115420,7 +115589,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยาว",
-    "audio_en_src": "long"
+    "audio_en_src": "long",
+    "examples": [
+      {
+        "meaning": "long",
+        "sentences": [
+          {
+            "thai": "ผมเธอยาวมาก",
+            "en": "Your hair is really long.",
+            "audio_src": "ผมเธอยาวมาก",
+            "audio_en_src": "Your hair is really long."
+          },
+          {
+            "thai": "หนังเรื่องนี้ยาวไปหน่อย",
+            "en": "This movie is a bit too long.",
+            "audio_src": "หนังเรื่องนี้ยาวไปหน่อย",
+            "audio_en_src": "This movie is a bit too long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-051",
@@ -115435,7 +115623,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รองเท้า",
-    "audio_en_src": "shoes"
+    "audio_en_src": "shoes",
+    "examples": [
+      {
+        "meaning": "shoes",
+        "sentences": [
+          {
+            "thai": "รองเท้าคู่นี้ใส่สบายมาก",
+            "en": "These shoes are really comfortable.",
+            "audio_src": "รองเท้าคู่นี้ใส่สบายมาก",
+            "audio_en_src": "These shoes are really comfortable."
+          },
+          {
+            "thai": "ถอดรองเท้าก่อนเข้าบ้าน",
+            "en": "Take off your shoes before entering the house.",
+            "audio_src": "ถอดรองเท้าก่อนเข้าบ้าน",
+            "audio_en_src": "Take off your shoes before entering the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-052",
