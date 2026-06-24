@@ -118154,7 +118154,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไป",
-    "audio_en_src": "to go"
+    "audio_en_src": "to go",
+    "examples": [
+      {
+        "meaning": "to go",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ฉันจะไปกรุงเทพ",
+            "en": "I'm going to Bangkok tomorrow.",
+            "audio_src": "พรุ่งนี้ฉันจะไปกรุงเทพ",
+            "audio_en_src": "I'm going to Bangkok tomorrow."
+          },
+          {
+            "thai": "ไปไหนมา",
+            "en": "Where have you been?",
+            "audio_src": "ไปไหนมา",
+            "audio_en_src": "Where have you been?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-028",
@@ -118169,7 +118188,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผู้ชาย",
-    "audio_en_src": "boy, man"
+    "audio_en_src": "boy, man",
+    "examples": [
+      {
+        "meaning": "boy, man",
+        "sentences": [
+          {
+            "thai": "ผู้ชายคนนั้นเป็นพี่ฉัน",
+            "en": "That man is my older brother.",
+            "audio_src": "ผู้ชายคนนั้นเป็นพี่ฉัน",
+            "audio_en_src": "That man is my older brother."
+          },
+          {
+            "thai": "ร้านนี้ขายเสื้อผ้าผู้ชาย",
+            "en": "This shop sells men's clothes.",
+            "audio_src": "ร้านนี้ขายเสื้อผ้าผู้ชาย",
+            "audio_en_src": "This shop sells men's clothes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-029",
@@ -118195,7 +118233,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พูด",
-    "audio_en_src": "to speak, talk, say"
+    "audio_en_src": "to speak, talk, say",
+    "examples": [
+      {
+        "meaning": "to speak, talk, say",
+        "sentences": [
+          {
+            "thai": "เขาพูดภาษาไทยได้",
+            "en": "He can speak Thai.",
+            "audio_src": "เขาพูดภาษาไทยได้",
+            "audio_en_src": "He can speak Thai."
+          },
+          {
+            "thai": "เธอพูดอะไรนะ",
+            "en": "What did you say?",
+            "audio_src": "เธอพูดอะไรนะ",
+            "audio_en_src": "What did you say?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-031",
@@ -118210,7 +118267,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพื่อน",
-    "audio_en_src": "friend"
+    "audio_en_src": "friend",
+    "examples": [
+      {
+        "meaning": "friend",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเพื่อนสนิทของฉัน",
+            "en": "He's my close friend.",
+            "audio_src": "เขาเป็นเพื่อนสนิทของฉัน",
+            "audio_en_src": "He's my close friend."
+          },
+          {
+            "thai": "คืนนี้ฉันไปกินข้าวกับเพื่อน",
+            "en": "I'm having dinner with friends tonight.",
+            "audio_src": "คืนนี้ฉันไปกินข้าวกับเพื่อน",
+            "audio_en_src": "I'm having dinner with friends tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-032",
@@ -118225,7 +118301,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แพง",
-    "audio_en_src": "expensive"
+    "audio_en_src": "expensive",
+    "examples": [
+      {
+        "meaning": "expensive",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้แพงไป",
+            "en": "This shirt is too expensive.",
+            "audio_src": "เสื้อตัวนี้แพงไป",
+            "audio_en_src": "This shirt is too expensive."
+          },
+          {
+            "thai": "ของที่ห้างแพงกว่าตลาด",
+            "en": "Things at the mall are pricier than at the market.",
+            "audio_src": "ของที่ห้างแพงกว่าตลาด",
+            "audio_en_src": "Things at the mall are pricier than at the market."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-033",
@@ -118240,7 +118335,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฟัง",
-    "audio_en_src": "to listen"
+    "audio_en_src": "to listen",
+    "examples": [
+      {
+        "meaning": "to listen",
+        "sentences": [
+          {
+            "thai": "ฟังเพลงนี้สิ เพราะมาก",
+            "en": "Listen to this song, it's so nice.",
+            "audio_src": "ฟังเพลงนี้สิ เพราะมาก",
+            "audio_en_src": "Listen to this song, it's so nice."
+          },
+          {
+            "thai": "ตั้งใจฟังครูพูด",
+            "en": "Listen carefully to the teacher.",
+            "audio_src": "ตั้งใจฟังครูพูด",
+            "audio_en_src": "Listen carefully to the teacher."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-034",
@@ -118255,7 +118369,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มือ",
-    "audio_en_src": "hand"
+    "audio_en_src": "hand",
+    "examples": [
+      {
+        "meaning": "hand",
+        "sentences": [
+          {
+            "thai": "ล้างมือก่อนกินข้าว",
+            "en": "Wash your hands before eating.",
+            "audio_src": "ล้างมือก่อนกินข้าว",
+            "audio_en_src": "Wash your hands before eating."
+          },
+          {
+            "thai": "มือฉันเย็นมาก",
+            "en": "My hands are really cold.",
+            "audio_src": "มือฉันเย็นมาก",
+            "audio_en_src": "My hands are really cold."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-035",
@@ -118270,7 +118403,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เย็น",
-    "audio_en_src": "evening; cold"
+    "audio_en_src": "evening; cold",
+    "examples": [
+      {
+        "meaning": "evening (4pm - 6pm)",
+        "sentences": [
+          {
+            "thai": "เย็นนี้ไปกินข้าวกันไหม",
+            "en": "Want to grab dinner this evening?",
+            "audio_src": "เย็นนี้ไปกินข้าวกันไหม",
+            "audio_en_src": "Want to grab dinner this evening?"
+          },
+          {
+            "thai": "ฉันเลิกงานตอนเย็น",
+            "en": "I finish work in the evening.",
+            "audio_src": "ฉันเลิกงานตอนเย็น",
+            "audio_en_src": "I finish work in the evening."
+          }
+        ]
+      },
+      {
+        "meaning": "(of things) cold",
+        "sentences": [
+          {
+            "thai": "ข้าวเย็นแล้ว อุ่นก่อนกินนะ",
+            "en": "The rice is cold, warm it up before eating.",
+            "audio_src": "ข้าวเย็นแล้ว อุ่นก่อนกินนะ",
+            "audio_en_src": "The rice is cold, warm it up before eating."
+          },
+          {
+            "thai": "ขอน้ำเย็นๆหน่อย",
+            "en": "Some cold water, please.",
+            "audio_src": "ขอน้ำเย็นๆหน่อย",
+            "audio_en_src": "Some cold water, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-036",
@@ -118285,7 +118454,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้อน",
-    "audio_en_src": "hot"
+    "audio_en_src": "hot",
+    "examples": [
+      {
+        "meaning": "hot",
+        "sentences": [
+          {
+            "thai": "วันนี้อากาศร้อนมาก",
+            "en": "It's really hot today.",
+            "audio_src": "วันนี้อากาศร้อนมาก",
+            "audio_en_src": "It's really hot today."
+          },
+          {
+            "thai": "ระวังนะ จานร้อน",
+            "en": "Careful, the plate is hot.",
+            "audio_src": "ระวังนะ จานร้อน",
+            "audio_en_src": "Careful, the plate is hot."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-037",
@@ -118300,7 +118488,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รู้",
-    "audio_en_src": "to know"
+    "audio_en_src": "to know",
+    "examples": [
+      {
+        "meaning": "to know (something)",
+        "sentences": [
+          {
+            "thai": "ฉันไม่รู้ว่าเขาอยู่ไหน",
+            "en": "I don't know where he is.",
+            "audio_src": "ฉันไม่รู้ว่าเขาอยู่ไหน",
+            "audio_en_src": "I don't know where he is."
+          },
+          {
+            "thai": "เธอรู้ไหมว่าพรุ่งนี้หยุด",
+            "en": "Did you know tomorrow's a holiday?",
+            "audio_src": "เธอรู้ไหมว่าพรุ่งนี้หยุด",
+            "audio_en_src": "Did you know tomorrow's a holiday?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-038",

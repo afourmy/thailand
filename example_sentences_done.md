@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1181 words**
+**Total: 1191 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1185,3 +1185,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-024` : ประเทศ (country, nation) : 1 meaning(s), 2 sentences
 - `wlt-c21-025` : ประมาณ (approximately, roughly) : 1 meaning(s), 2 sentences
 - `wlt-c21-026` : ปี (year) : 1 meaning(s), 2 sentences
+- `wlt-c21-027` : ไป (to go) : 1 meaning(s), 2 sentences
+- `wlt-c21-028` : ผู้ชาย (boy, man) : 1 meaning(s), 2 sentences
+- `wlt-c21-030` : พูด (to speak, talk, say) : 1 meaning(s), 2 sentences
+- `wlt-c21-031` : เพื่อน (friend) : 1 meaning(s), 2 sentences
+- `wlt-c21-032` : แพง (expensive) : 1 meaning(s), 2 sentences
+- `wlt-c21-033` : ฟัง (to listen) : 1 meaning(s), 2 sentences
+- `wlt-c21-034` : มือ (hand) : 1 meaning(s), 2 sentences
+- `wlt-c21-035` : เย็น (evening (4pm - 6pm); (of things) cold) : 2 meaning(s), 4 sentences
+- `wlt-c21-036` : ร้อน (hot) : 1 meaning(s), 2 sentences
+- `wlt-c21-037` : รู้ (to know (something)) : 1 meaning(s), 2 sentences
