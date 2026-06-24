@@ -13307,11 +13307,15 @@
         "sentences": [
           {
             "thai": "เสาร์อาทิตย์มีตลาดนัดใกล้บ้าน",
-            "en": "There’s a weekend market near my place."
+            "en": "There’s a weekend market near my place.",
+            "audio_src": "เสาร์อาทิตย์มีตลาดนัดใกล้บ้าน",
+            "audio_en_src": "There’s a weekend market near my place."
           },
           {
             "thai": "ของในตลาดนัดถูกกว่าห้าง",
-            "en": "Stuff at the flea market is cheaper than the mall."
+            "en": "Stuff at the flea market is cheaper than the mall.",
+            "audio_src": "ของในตลาดนัดถูกกว่าห้าง",
+            "audio_en_src": "Stuff at the flea market is cheaper than the mall."
           }
         ]
       }
@@ -13379,11 +13383,15 @@
         "sentences": [
           {
             "thai": "รอตั้งนาน เพิ่งจะมา",
-            "en": "I waited so long, and you only just showed up."
+            "en": "I waited so long, and you only just showed up.",
+            "audio_src": "รอตั้งนาน เพิ่งจะมา",
+            "audio_en_src": "I waited so long, and you only just showed up."
           },
           {
             "thai": "ไม่ได้เจอกันตั้งนาน",
-            "en": "We haven’t seen each other in so long."
+            "en": "We haven’t seen each other in so long.",
+            "audio_src": "ไม่ได้เจอกันตั้งนาน",
+            "audio_en_src": "We haven’t seen each other in so long."
           }
         ]
       }
@@ -13429,11 +13437,15 @@
         "sentences": [
           {
             "thai": "นั่งตรงไหนก็ได้ ตามสบายเลย",
-            "en": "Sit wherever, make yourself at home."
+            "en": "Sit wherever, make yourself at home.",
+            "audio_src": "นั่งตรงไหนก็ได้ ตามสบายเลย",
+            "audio_en_src": "Sit wherever, make yourself at home."
           },
           {
             "thai": "จะอยู่หรือจะกลับก็ตามสบาย",
-            "en": "Stay or go, whatever you like."
+            "en": "Stay or go, whatever you like.",
+            "audio_src": "จะอยู่หรือจะกลับก็ตามสบาย",
+            "audio_en_src": "Stay or go, whatever you like."
           }
         ]
       }
@@ -13511,11 +13523,15 @@
         "sentences": [
           {
             "thai": "ขอแวะกดเงินที่ตู้เอทีเอ็มก่อน",
-            "en": "Let me stop by the ATM first."
+            "en": "Let me stop by the ATM first.",
+            "audio_src": "ขอแวะกดเงินที่ตู้เอทีเอ็มก่อน",
+            "audio_en_src": "Let me stop by the ATM first."
           },
           {
             "thai": "ตู้กดเงินแถวนี้อยู่ไหน",
-            "en": "Where’s an ATM around here?"
+            "en": "Where’s an ATM around here?",
+            "audio_src": "ตู้กดเงินแถวนี้อยู่ไหน",
+            "audio_en_src": "Where’s an ATM around here?"
           }
         ]
       }
@@ -13551,11 +13567,15 @@
         "sentences": [
           {
             "thai": "ลองต่อราคาดูสิ เผื่อลดให้",
-            "en": "Try haggling, maybe they’ll give a discount."
+            "en": "Try haggling, maybe they’ll give a discount.",
+            "audio_src": "ลองต่อราคาดูสิ เผื่อลดให้",
+            "audio_en_src": "Try haggling, maybe they’ll give a discount."
           },
           {
             "thai": "ที่ตลาดต่อราคาได้",
-            "en": "You can haggle at the market."
+            "en": "You can haggle at the market.",
+            "audio_src": "ที่ตลาดต่อราคาได้",
+            "audio_en_src": "You can haggle at the market."
           }
         ]
       }
@@ -13594,11 +13614,15 @@
         "sentences": [
           {
             "thai": "อย่าพูดแบบนี้ต่อหน้าเด็ก",
-            "en": "Don’t talk like that in front of the kids."
+            "en": "Don’t talk like that in front of the kids.",
+            "audio_src": "อย่าพูดแบบนี้ต่อหน้าเด็ก",
+            "audio_en_src": "Don’t talk like that in front of the kids."
           },
           {
             "thai": "เขาไม่กล้าพูดต่อหน้าฉัน",
-            "en": "He doesn’t dare say it to my face."
+            "en": "He doesn’t dare say it to my face.",
+            "audio_src": "เขาไม่กล้าพูดต่อหน้าฉัน",
+            "audio_en_src": "He doesn’t dare say it to my face."
           }
         ]
       }
@@ -13624,11 +13648,15 @@
         "sentences": [
           {
             "thai": "ต้องต่อคิวนานมากกว่าจะได้กิน",
-            "en": "You have to wait in line forever to eat."
+            "en": "You have to wait in line forever to eat.",
+            "audio_src": "ต้องต่อคิวนานมากกว่าจะได้กิน",
+            "audio_en_src": "You have to wait in line forever to eat."
           },
           {
             "thai": "ไปต่อแถวซื้อตั๋วกัน",
-            "en": "Let’s go line up to buy tickets."
+            "en": "Let’s go line up to buy tickets.",
+            "audio_src": "ไปต่อแถวซื้อตั๋วกัน",
+            "audio_en_src": "Let’s go line up to buy tickets."
           }
         ]
       }
@@ -13689,11 +13717,15 @@
         "sentences": [
           {
             "thai": "หน้าบ้านปลูกต้นไม้เยอะ",
-            "en": "There are lots of trees in front of the house."
+            "en": "There are lots of trees in front of the house.",
+            "audio_src": "หน้าบ้านปลูกต้นไม้เยอะ",
+            "audio_en_src": "There are lots of trees in front of the house."
           },
           {
             "thai": "อย่าลืมรดน้ำต้นไม้",
-            "en": "Don’t forget to water the plants."
+            "en": "Don’t forget to water the plants.",
+            "audio_src": "อย่าลืมรดน้ำต้นไม้",
+            "audio_en_src": "Don’t forget to water the plants."
           }
         ]
       }
@@ -13757,11 +13789,15 @@
         "sentences": [
           {
             "thai": "ถอดรองเท้าก่อนเข้าบ้าน",
-            "en": "Take off your shoes before going inside."
+            "en": "Take off your shoes before going inside.",
+            "audio_src": "ถอดรองเท้าก่อนเข้าบ้าน",
+            "audio_en_src": "Take off your shoes before going inside."
           },
           {
             "thai": "ร้อนจัง ขอถอดเสื้อแจ็คเก็ต",
-            "en": "It’s so hot, let me take off my jacket."
+            "en": "It’s so hot, let me take off my jacket.",
+            "audio_src": "ร้อนจัง ขอถอดเสื้อแจ็คเก็ต",
+            "audio_en_src": "It’s so hot, let me take off my jacket."
           }
         ]
       }
@@ -13831,11 +13867,15 @@
         "sentences": [
           {
             "thai": "ถึงจะเหนื่อย ก็ต้องทำให้เสร็จ",
-            "en": "Even if I’m tired, I have to finish it."
+            "en": "Even if I’m tired, I have to finish it.",
+            "audio_src": "ถึงจะเหนื่อย ก็ต้องทำให้เสร็จ",
+            "audio_en_src": "Even if I’m tired, I have to finish it."
           },
           {
             "thai": "ถึงฝนตก เราก็จะไป",
-            "en": "Even if it rains, we’ll still go."
+            "en": "Even if it rains, we’ll still go.",
+            "audio_src": "ถึงฝนตก เราก็จะไป",
+            "audio_en_src": "Even if it rains, we’ll still go."
           }
         ]
       },
@@ -13844,11 +13884,15 @@
         "sentences": [
           {
             "thai": "เขาดีใจจนถึงกับร้องไห้",
-            "en": "He was so happy he even cried."
+            "en": "He was so happy he even cried.",
+            "audio_src": "เขาดีใจจนถึงกับร้องไห้",
+            "audio_en_src": "He was so happy he even cried."
           },
           {
             "thai": "อร่อยถึงขนาดต้องสั่งเพิ่ม",
-            "en": "So delicious I had to order more."
+            "en": "So delicious I had to order more.",
+            "audio_src": "อร่อยถึงขนาดต้องสั่งเพิ่ม",
+            "audio_en_src": "So delicious I had to order more."
           }
         ]
       }
