@@ -118523,7 +118523,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรื่อง",
-    "audio_en_src": "matter, topic, story"
+    "audio_en_src": "matter, topic, story",
+    "examples": [
+      {
+        "meaning": "matter, topic, story",
+        "sentences": [
+          {
+            "thai": "ฉันมีเรื่องจะคุยกับเธอ",
+            "en": "I have something to talk to you about.",
+            "audio_src": "ฉันมีเรื่องจะคุยกับเธอ",
+            "audio_en_src": "I have something to talk to you about."
+          },
+          {
+            "thai": "เรื่องนี้ยาวมาก",
+            "en": "This story is really long.",
+            "audio_src": "เรื่องนี้ยาวมาก",
+            "audio_en_src": "This story is really long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-039",
@@ -118538,7 +118557,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โรงพยาบาล",
-    "audio_en_src": "hospital"
+    "audio_en_src": "hospital",
+    "examples": [
+      {
+        "meaning": "hospital",
+        "sentences": [
+          {
+            "thai": "เขาเข้าโรงพยาบาลเมื่อวาน",
+            "en": "He went into the hospital yesterday.",
+            "audio_src": "เขาเข้าโรงพยาบาลเมื่อวาน",
+            "audio_en_src": "He went into the hospital yesterday."
+          },
+          {
+            "thai": "โรงพยาบาลอยู่ไกลจากบ้าน",
+            "en": "The hospital is far from home.",
+            "audio_src": "โรงพยาบาลอยู่ไกลจากบ้าน",
+            "audio_en_src": "The hospital is far from home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-040",
@@ -118553,7 +118591,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลูก",
-    "audio_en_src": "child; classifier for round objects"
+    "audio_en_src": "child; classifier for round objects",
+    "examples": [
+      {
+        "meaning": "child",
+        "sentences": [
+          {
+            "thai": "เขามีลูกสองคน",
+            "en": "He has two children.",
+            "audio_src": "เขามีลูกสองคน",
+            "audio_en_src": "He has two children."
+          },
+          {
+            "thai": "ลูกฉันยังเล็กอยู่",
+            "en": "My child is still young.",
+            "audio_src": "ลูกฉันยังเล็กอยู่",
+            "audio_en_src": "My child is still young."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for round objects (balls, fruits, etc)",
+        "sentences": [
+          {
+            "thai": "ขอส้มสามลูก",
+            "en": "Three oranges, please.",
+            "audio_src": "ขอส้มสามลูก",
+            "audio_en_src": "Three oranges, please."
+          },
+          {
+            "thai": "เด็กเตะลูกบอลข้ามรั้ว",
+            "en": "The kid kicked the ball over the fence.",
+            "audio_src": "เด็กเตะลูกบอลข้ามรั้ว",
+            "audio_en_src": "The kid kicked the ball over the fence."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-041",
@@ -118568,7 +118642,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลือก",
-    "audio_en_src": "to choose"
+    "audio_en_src": "to choose",
+    "examples": [
+      {
+        "meaning": "to choose",
+        "sentences": [
+          {
+            "thai": "เลือกอันไหนก็ได้",
+            "en": "You can choose any one.",
+            "audio_src": "เลือกอันไหนก็ได้",
+            "audio_en_src": "You can choose any one."
+          },
+          {
+            "thai": "ฉันเลือกไม่ถูก",
+            "en": "I can't decide.",
+            "audio_src": "ฉันเลือกไม่ถูก",
+            "audio_en_src": "I can't decide."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-042",
@@ -118583,7 +118676,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เวลา",
-    "audio_en_src": "time"
+    "audio_en_src": "time",
+    "examples": [
+      {
+        "meaning": "time",
+        "sentences": [
+          {
+            "thai": "ฉันไม่มีเวลาเลย",
+            "en": "I don't have any time at all.",
+            "audio_src": "ฉันไม่มีเวลาเลย",
+            "audio_en_src": "I don't have any time at all."
+          },
+          {
+            "thai": "เวลาผ่านไปเร็วมาก",
+            "en": "Time goes by so fast.",
+            "audio_src": "เวลาผ่านไปเร็วมาก",
+            "audio_en_src": "Time goes by so fast."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-044",
@@ -118598,7 +118710,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สูง",
-    "audio_en_src": "tall"
+    "audio_en_src": "tall",
+    "examples": [
+      {
+        "meaning": "tall",
+        "sentences": [
+          {
+            "thai": "น้องชายฉันสูงกว่าฉัน",
+            "en": "My younger brother is taller than me.",
+            "audio_src": "น้องชายฉันสูงกว่าฉัน",
+            "audio_en_src": "My younger brother is taller than me."
+          },
+          {
+            "thai": "ตึกนี้สูงมาก",
+            "en": "This building is very tall.",
+            "audio_src": "ตึกนี้สูงมาก",
+            "audio_en_src": "This building is very tall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-045",
@@ -118614,7 +118745,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนัก",
-    "audio_en_src": "heavy"
+    "audio_en_src": "heavy",
+    "examples": [
+      {
+        "meaning": "heavy",
+        "sentences": [
+          {
+            "thai": "กระเป๋าใบนี้หนักมาก",
+            "en": "This bag is really heavy.",
+            "audio_src": "กระเป๋าใบนี้หนักมาก",
+            "audio_en_src": "This bag is really heavy."
+          },
+          {
+            "thai": "ยกของหนัก ระวังหลังด้วย",
+            "en": "When lifting heavy things, watch your back.",
+            "audio_src": "ยกของหนัก ระวังหลังด้วย",
+            "audio_en_src": "When lifting heavy things, watch your back."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-046",
@@ -118629,7 +118779,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หน้า",
-    "audio_en_src": "next, following; season; face"
+    "audio_en_src": "next, following; season; face",
+    "examples": [
+      {
+        "meaning": "next, following",
+        "sentences": [
+          {
+            "thai": "อาทิตย์หน้าฉันจะไปเที่ยว",
+            "en": "Next week I'm going on a trip.",
+            "audio_src": "อาทิตย์หน้าฉันจะไปเที่ยว",
+            "audio_en_src": "Next week I'm going on a trip."
+          },
+          {
+            "thai": "เจอกันเดือนหน้านะ",
+            "en": "See you next month.",
+            "audio_src": "เจอกันเดือนหน้านะ",
+            "audio_en_src": "See you next month."
+          }
+        ]
+      },
+      {
+        "meaning": "season",
+        "sentences": [
+          {
+            "thai": "หน้าร้อนอากาศร้อนมาก",
+            "en": "The weather is very hot in summer.",
+            "audio_src": "หน้าร้อนอากาศร้อนมาก",
+            "audio_en_src": "The weather is very hot in summer."
+          },
+          {
+            "thai": "หน้าฝนต้องพกร่ม",
+            "en": "In the rainy season you have to carry an umbrella.",
+            "audio_src": "หน้าฝนต้องพกร่ม",
+            "audio_en_src": "In the rainy season you have to carry an umbrella."
+          }
+        ]
+      },
+      {
+        "meaning": "face",
+        "sentences": [
+          {
+            "thai": "หน้าเธอแดงเลย",
+            "en": "Your face is all red.",
+            "audio_src": "หน้าเธอแดงเลย",
+            "audio_en_src": "Your face is all red."
+          },
+          {
+            "thai": "ล้างหน้าให้สดชื่น",
+            "en": "Wash your face to freshen up.",
+            "audio_src": "ล้างหน้าให้สดชื่น",
+            "audio_en_src": "Wash your face to freshen up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-047",
@@ -118644,7 +118847,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ให้",
-    "audio_en_src": "to give; to allow"
+    "audio_en_src": "to give; to allow",
+    "examples": [
+      {
+        "meaning": "to give",
+        "sentences": [
+          {
+            "thai": "เขาให้เงินฉันร้อยบาท",
+            "en": "He gave me a hundred baht.",
+            "audio_src": "เขาให้เงินฉันร้อยบาท",
+            "audio_en_src": "He gave me a hundred baht."
+          },
+          {
+            "thai": "ฉันให้ของขวัญเธอ",
+            "en": "I gave you a present.",
+            "audio_src": "ฉันให้ของขวัญเธอ",
+            "audio_en_src": "I gave you a present."
+          }
+        ]
+      },
+      {
+        "meaning": "to allow",
+        "sentences": [
+          {
+            "thai": "แม่ไม่ให้ฉันออกไปข้างนอก",
+            "en": "Mom won't let me go out.",
+            "audio_src": "แม่ไม่ให้ฉันออกไปข้างนอก",
+            "audio_en_src": "Mom won't let me go out."
+          },
+          {
+            "thai": "ครูให้นักเรียนกลับบ้านก่อน",
+            "en": "The teacher let the students go home early.",
+            "audio_src": "ครูให้นักเรียนกลับบ้านก่อน",
+            "audio_en_src": "The teacher let the students go home early."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-048",
@@ -118670,7 +118909,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อะไร",
-    "audio_en_src": "what"
+    "audio_en_src": "what",
+    "examples": [
+      {
+        "meaning": "what",
+        "sentences": [
+          {
+            "thai": "นี่คืออะไร",
+            "en": "What is this?",
+            "audio_src": "นี่คืออะไร",
+            "audio_en_src": "What is this?"
+          },
+          {
+            "thai": "เธอจะกินอะไร",
+            "en": "What do you want to eat?",
+            "audio_src": "เธอจะกินอะไร",
+            "audio_en_src": "What do you want to eat?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-050",

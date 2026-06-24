@@ -118944,7 +118944,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อากาศ, สภาพอากาศ",
-    "audio_en_src": "weather"
+    "audio_en_src": "weather",
+    "examples": [
+      {
+        "meaning": "weather",
+        "sentences": [
+          {
+            "thai": "วันนี้อากาศดีมาก",
+            "en": "The weather is really nice today.",
+            "audio_src": "วันนี้อากาศดีมาก",
+            "audio_en_src": "The weather is really nice today."
+          },
+          {
+            "thai": "สภาพอากาศวันนี้ไม่ค่อยดี",
+            "en": "The weather isn't very good today.",
+            "audio_src": "สภาพอากาศวันนี้ไม่ค่อยดี",
+            "audio_en_src": "The weather isn't very good today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-051",
@@ -118959,7 +118978,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาทิตย์",
-    "audio_en_src": "week"
+    "audio_en_src": "week",
+    "examples": [
+      {
+        "meaning": "week (informal)",
+        "sentences": [
+          {
+            "thai": "อาทิตย์นี้ฉันยุ่งมาก",
+            "en": "I'm really busy this week.",
+            "audio_src": "อาทิตย์นี้ฉันยุ่งมาก",
+            "audio_en_src": "I'm really busy this week."
+          },
+          {
+            "thai": "เจอกันอาทิตย์หน้านะ",
+            "en": "See you next week.",
+            "audio_src": "เจอกันอาทิตย์หน้านะ",
+            "audio_en_src": "See you next week."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-052",
@@ -118974,7 +119012,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อายุ",
-    "audio_en_src": "age"
+    "audio_en_src": "age",
+    "examples": [
+      {
+        "meaning": "age (in years)",
+        "sentences": [
+          {
+            "thai": "คุณอายุเท่าไหร่",
+            "en": "How old are you?",
+            "audio_src": "คุณอายุเท่าไหร่",
+            "audio_en_src": "How old are you?"
+          },
+          {
+            "thai": "เขาอายุมากกว่าฉันสองปี",
+            "en": "He's two years older than me.",
+            "audio_src": "เขาอายุมากกว่าฉันสองปี",
+            "audio_en_src": "He's two years older than me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-053",
@@ -118989,7 +119046,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาหาร",
-    "audio_en_src": "food"
+    "audio_en_src": "food",
+    "examples": [
+      {
+        "meaning": "food",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้อร่อยมาก",
+            "en": "The food at this place is really good.",
+            "audio_src": "อาหารร้านนี้อร่อยมาก",
+            "audio_en_src": "The food at this place is really good."
+          },
+          {
+            "thai": "ฉันชอบอาหารไทย",
+            "en": "I like Thai food.",
+            "audio_src": "ฉันชอบอาหารไทย",
+            "audio_en_src": "I like Thai food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-054",
@@ -119004,7 +119080,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใกล้",
-    "audio_en_src": "near, close"
+    "audio_en_src": "near, close",
+    "examples": [
+      {
+        "meaning": "near, close",
+        "sentences": [
+          {
+            "thai": "บ้านฉันอยู่ใกล้โรงเรียน",
+            "en": "My house is near the school.",
+            "audio_src": "บ้านฉันอยู่ใกล้โรงเรียน",
+            "audio_en_src": "My house is near the school."
+          },
+          {
+            "thai": "ร้านกาแฟอยู่ใกล้ๆนี่เอง",
+            "en": "The coffee shop is right close by.",
+            "audio_src": "ร้านกาแฟอยู่ใกล้ๆนี่เอง",
+            "audio_en_src": "The coffee shop is right close by."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-055",
@@ -119019,7 +119114,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คุณ",
-    "audio_en_src": "you"
+    "audio_en_src": "you",
+    "examples": [
+      {
+        "meaning": "you",
+        "sentences": [
+          {
+            "thai": "คุณมาจากไหน",
+            "en": "Where are you from?",
+            "audio_src": "คุณมาจากไหน",
+            "audio_en_src": "Where are you from?"
+          },
+          {
+            "thai": "ฉันรอคุณอยู่",
+            "en": "I'm waiting for you.",
+            "audio_src": "ฉันรอคุณอยู่",
+            "audio_en_src": "I'm waiting for you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-056",
@@ -119034,7 +119148,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใคร",
-    "audio_en_src": "who"
+    "audio_en_src": "who",
+    "examples": [
+      {
+        "meaning": "who",
+        "sentences": [
+          {
+            "thai": "คนนั้นคือใคร",
+            "en": "Who is that?",
+            "audio_src": "คนนั้นคือใคร",
+            "audio_en_src": "Who is that?"
+          },
+          {
+            "thai": "ใครโทรมา",
+            "en": "Who called?",
+            "audio_src": "ใครโทรมา",
+            "audio_en_src": "Who called?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-057",
@@ -119050,7 +119183,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "งาน",
-    "audio_en_src": "work"
+    "audio_en_src": "work",
+    "examples": [
+      {
+        "meaning": "work",
+        "sentences": [
+          {
+            "thai": "วันนี้งานเยอะมาก",
+            "en": "There's a lot of work today.",
+            "audio_src": "วันนี้งานเยอะมาก",
+            "audio_en_src": "There's a lot of work today."
+          },
+          {
+            "thai": "เขาหางานใหม่อยู่",
+            "en": "He's looking for a new job.",
+            "audio_src": "เขาหางานใหม่อยู่",
+            "audio_en_src": "He's looking for a new job."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-058",
@@ -119066,7 +119218,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เงิน",
-    "audio_en_src": "money; silver"
+    "audio_en_src": "money; silver",
+    "examples": [
+      {
+        "meaning": "money",
+        "sentences": [
+          {
+            "thai": "ฉันไม่มีเงินติดตัวเลย",
+            "en": "I don't have any money on me.",
+            "audio_src": "ฉันไม่มีเงินติดตัวเลย",
+            "audio_en_src": "I don't have any money on me."
+          },
+          {
+            "thai": "เดือนนี้ใช้เงินเยอะไป",
+            "en": "I spent too much money this month.",
+            "audio_src": "เดือนนี้ใช้เงินเยอะไป",
+            "audio_en_src": "I spent too much money this month."
+          }
+        ]
+      },
+      {
+        "meaning": "silver",
+        "sentences": [
+          {
+            "thai": "แหวนวงนี้ทำจากเงิน",
+            "en": "This ring is made of silver.",
+            "audio_src": "แหวนวงนี้ทำจากเงิน",
+            "audio_en_src": "This ring is made of silver."
+          },
+          {
+            "thai": "เขาชอบสร้อยคอเงินมากกว่าทอง",
+            "en": "He prefers silver necklaces to gold.",
+            "audio_src": "เขาชอบสร้อยคอเงินมากกว่าทอง",
+            "audio_en_src": "He prefers silver necklaces to gold."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-059",
@@ -119081,7 +119269,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชื่อ",
-    "audio_en_src": "name"
+    "audio_en_src": "name",
+    "examples": [
+      {
+        "meaning": "name",
+        "sentences": [
+          {
+            "thai": "คุณชื่ออะไร",
+            "en": "What's your name?",
+            "audio_src": "คุณชื่ออะไร",
+            "audio_en_src": "What's your name?"
+          },
+          {
+            "thai": "ฉันจำชื่อเขาไม่ได้",
+            "en": "I can't remember his name.",
+            "audio_src": "ฉันจำชื่อเขาไม่ได้",
+            "audio_en_src": "I can't remember his name."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-061",
