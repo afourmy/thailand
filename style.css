@@ -1172,6 +1172,7 @@ html[lang="fr"] .en { display: none; }
 .vocab-count-bar {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 0.6rem;
   margin: 0 0 1rem;
   padding: 0 0.15rem 0.6rem;
