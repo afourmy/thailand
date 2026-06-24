@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 571 words**
+**Total: 591 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -572,6 +572,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-066` : ของคุณ (your, yours) : 1 meaning(s), 2 sentences
 - `wlt-c05-070` : ข้าวเที่ยง (lunch) : 1 meaning(s), 2 sentences
 - `wlt-c05-071` : ข้าวผัด (fried rice) : 1 meaning(s), 2 sentences
+- `wlt-c05-079` : แข็งแรง (strong, robust) : 1 meaning(s), 2 sentences
+- `wlt-c05-085` : คนไทย (Thai person) : 1 meaning(s), 2 sentences
+- `wlt-c05-089` : ครั้งแรก (first time) : 1 meaning(s), 2 sentences
+- `wlt-c05-093` : ความคิด (idea) : 1 meaning(s), 2 sentences
+- `wlt-c06-010` : คำถาม (question) : 1 meaning(s), 2 sentences
+- `wlt-c06-017` : เครื่องมือ (tool) : 1 meaning(s), 2 sentences
+- `wlt-c06-037` : จูบ (kiss, to kiss) : 1 meaning(s), 2 sentences
+- `wlt-c06-043` : ช่วง (period (of time)) : 1 meaning(s), 2 sentences
+- `wlt-c06-047` : ชีวิต (life) : 1 meaning(s), 2 sentences
+- `wlt-c06-049` : เช่นกัน (same here) : 1 meaning(s), 2 sentences
+- `wlt-c06-051` : โชคดี (good luck) : 1 meaning(s), 2 sentences
+- `wlt-c06-055` : ซุปเปอร์มาร์เก็ต (supermarket) : 1 meaning(s), 2 sentences
+- `wlt-c06-060` : ดังนั้น, เพราะฉะนั้น (therefore) : 1 meaning(s), 2 sentences
+- `wlt-c06-061` : ดีขึ้น (improved, better than before) : 1 meaning(s), 2 sentences
+- `wlt-c06-062` : ดีที่สุด (best) : 1 meaning(s), 2 sentences
+- `wlt-c06-066` : ตกใจ (startled) : 1 meaning(s), 2 sentences
+- `wlt-c06-070` : ตรวจสอบ (to check, to verify) : 1 meaning(s), 2 sentences
+- `wlt-c06-071` : ตลอดไป (forever) : 1 meaning(s), 2 sentences
+- `wlt-c06-072` : ตลอดเวลา (all the time) : 1 meaning(s), 2 sentences
+- `wlt-c06-073` : ตอนแรก (at first) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

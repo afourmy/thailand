@@ -89324,7 +89324,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โอเค",
-    "audio_en_src": "okay"
+    "audio_en_src": "okay",
+    "examples": [
+      {
+        "meaning": "okay (loanword)",
+        "sentences": [
+          {
+            "thai": "โอเค เดี๋ยวเจอกันหน้าร้าน",
+            "en": "Okay, see you in front of the shop.",
+            "audio_src": "โอเค เดี๋ยวเจอกันหน้าร้าน",
+            "audio_en_src": "Okay, see you in front of the shop."
+          },
+          {
+            "thai": "กินเผ็ดได้โอเคไหม",
+            "en": "Are you okay with spicy food?",
+            "audio_src": "กินเผ็ดได้โอเคไหม",
+            "audio_en_src": "Are you okay with spicy food?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-034",
@@ -89358,7 +89377,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระดาษชำระ",
-    "audio_en_src": "toilet paper"
+    "audio_en_src": "toilet paper",
+    "examples": [
+      {
+        "meaning": "toilet paper",
+        "sentences": [
+          {
+            "thai": "กระดาษชำระในห้องน้ำหมดแล้ว",
+            "en": "The toilet paper in the bathroom is finished.",
+            "audio_src": "กระดาษชำระในห้องน้ำหมดแล้ว",
+            "audio_en_src": "The toilet paper in the bathroom is finished."
+          },
+          {
+            "thai": "ซื้อกระดาษชำระมาเพิ่มด้วยนะ",
+            "en": "Buy some more toilet paper too.",
+            "audio_src": "ซื้อกระดาษชำระมาเพิ่มด้วยนะ",
+            "audio_en_src": "Buy some more toilet paper too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-037",
@@ -89497,7 +89535,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "การบ้าน",
-    "audio_en_src": "homework"
+    "audio_en_src": "homework",
+    "examples": [
+      {
+        "meaning": "homework",
+        "sentences": [
+          {
+            "thai": "ทำการบ้านให้เสร็จก่อนเล่นเกม",
+            "en": "Finish your homework before playing games.",
+            "audio_src": "ทำการบ้านให้เสร็จก่อนเล่นเกม",
+            "audio_en_src": "Finish your homework before playing games."
+          },
+          {
+            "thai": "วันนี้ครูให้การบ้านเยอะมาก",
+            "en": "The teacher gave a lot of homework today.",
+            "audio_src": "วันนี้ครูให้การบ้านเยอะมาก",
+            "audio_en_src": "The teacher gave a lot of homework today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-051",
@@ -89555,7 +89612,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กินข้าว, ทานข้าว",
-    "audio_en_src": "to have a meal"
+    "audio_en_src": "to have a meal",
+    "examples": [
+      {
+        "meaning": "to have a meal",
+        "sentences": [
+          {
+            "thai": "กินข้าวด้วยกันไหม",
+            "en": "Want to grab a meal together?",
+            "audio_src": "กินข้าวด้วยกันไหม",
+            "audio_en_src": "Want to grab a meal together?"
+          },
+          {
+            "thai": "ทานข้าวหรือยังคะ",
+            "en": "Have you eaten yet?",
+            "audio_src": "ทานข้าวหรือยังคะ",
+            "audio_en_src": "Have you eaten yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-056",
@@ -89591,7 +89667,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เก้าสิบ",
-    "audio_en_src": "ninety"
+    "audio_en_src": "ninety",
+    "examples": [
+      {
+        "meaning": "ninety (90)",
+        "sentences": [
+          {
+            "thai": "คุณยายอายุเก้าสิบแล้ว",
+            "en": "Grandma is ninety now.",
+            "audio_src": "คุณยายอายุเก้าสิบแล้ว",
+            "audio_en_src": "Grandma is ninety now."
+          },
+          {
+            "thai": "ข้อสอบนี้เขาได้เก้าสิบคะแนน",
+            "en": "He got ninety on this test.",
+            "audio_src": "ข้อสอบนี้เขาได้เก้าสิบคะแนน",
+            "audio_en_src": "He got ninety on this test."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-059",
@@ -89602,6 +89697,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to correct, to fix, to revise",
+        "sentences": [
+          {
+            "thai": "ช่วยแก้ไขข้อผิดพลาดให้หน่อย",
+            "en": "Help me fix the mistakes.",
+            "audio_src": "ช่วยแก้ไขข้อผิดพลาดให้หน่อย",
+            "audio_en_src": "Help me fix the mistakes."
+          },
+          {
+            "thai": "เอกสารนี้ต้องแก้ไขอีกนิด",
+            "en": "This document needs a bit more revising.",
+            "audio_src": "เอกสารนี้ต้องแก้ไขอีกนิด",
+            "audio_en_src": "This document needs a bit more revising."
+          }
+        ]
+      }
     ]
   },
   {
@@ -89667,7 +89781,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้อความ",
-    "audio_en_src": "message"
+    "audio_en_src": "message",
+    "examples": [
+      {
+        "meaning": "message",
+        "sentences": [
+          {
+            "thai": "ฉันส่งข้อความหาเธอแล้ว",
+            "en": "I already sent you a message.",
+            "audio_src": "ฉันส่งข้อความหาเธอแล้ว",
+            "audio_en_src": "I already sent you a message."
+          },
+          {
+            "thai": "เห็นข้อความที่ฝากไว้ไหม",
+            "en": "Did you see the message I left?",
+            "audio_src": "เห็นข้อความที่ฝากไว้ไหม",
+            "audio_en_src": "Did you see the message I left?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-066",
@@ -89681,7 +89814,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ของคุณ",
-    "audio_en_src": "your, yours"
+    "audio_en_src": "your, yours",
+    "examples": [
+      {
+        "meaning": "your, yours",
+        "sentences": [
+          {
+            "thai": "กระเป๋าใบนี้ของคุณใช่ไหม",
+            "en": "Is this bag yours?",
+            "audio_src": "กระเป๋าใบนี้ของคุณใช่ไหม",
+            "audio_en_src": "Is this bag yours?"
+          },
+          {
+            "thai": "ความฝันของคุณคืออะไร",
+            "en": "What's your dream?",
+            "audio_src": "ความฝันของคุณคืออะไร",
+            "audio_en_src": "What's your dream?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-068",
@@ -89716,7 +89868,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าวเที่ยง",
-    "audio_en_src": "lunch"
+    "audio_en_src": "lunch",
+    "examples": [
+      {
+        "meaning": "lunch",
+        "sentences": [
+          {
+            "thai": "วันนี้กินข้าวเที่ยงกับเพื่อน",
+            "en": "Today I had lunch with friends.",
+            "audio_src": "วันนี้กินข้าวเที่ยงกับเพื่อน",
+            "audio_en_src": "Today I had lunch with friends."
+          },
+          {
+            "thai": "ข้าวเที่ยงวันนี้กินอะไรดี",
+            "en": "What should we have for lunch today?",
+            "audio_src": "ข้าวเที่ยงวันนี้กินอะไรดี",
+            "audio_en_src": "What should we have for lunch today?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-071",
@@ -89730,7 +89901,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าวผัด",
-    "audio_en_src": "fried rice"
+    "audio_en_src": "fried rice",
+    "examples": [
+      {
+        "meaning": "fried rice",
+        "sentences": [
+          {
+            "thai": "ขอข้าวผัดหมูหนึ่งจาน",
+            "en": "One pork fried rice, please.",
+            "audio_src": "ขอข้าวผัดหมูหนึ่งจาน",
+            "audio_en_src": "One pork fried rice, please."
+          },
+          {
+            "thai": "ข้าวผัดร้านนี้ใส่ไข่ด้วย",
+            "en": "The fried rice here comes with egg too.",
+            "audio_src": "ข้าวผัดร้านนี้ใส่ไข่ด้วย",
+            "audio_en_src": "The fried rice here comes with egg too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-072",
@@ -89782,6 +89972,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "strong, robust",
+        "sentences": [
+          {
+            "thai": "ออกกำลังกายทุกวันร่างกายจะแข็งแรง",
+            "en": "Exercise every day and your body will get strong.",
+            "audio_src": "ออกกำลังกายทุกวันร่างกายจะแข็งแรง",
+            "audio_en_src": "Exercise every day and your body will get strong."
+          },
+          {
+            "thai": "คุณตายังแข็งแรงอยู่เลย",
+            "en": "Grandpa is still going strong.",
+            "audio_src": "คุณตายังแข็งแรงอยู่เลย",
+            "audio_en_src": "Grandpa is still going strong."
+          }
+        ]
+      }
     ]
   },
   {
@@ -89818,7 +90027,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คนไทย",
-    "audio_en_src": "Thai person"
+    "audio_en_src": "Thai person",
+    "examples": [
+      {
+        "meaning": "Thai person",
+        "sentences": [
+          {
+            "thai": "คนไทยส่วนใหญ่ใจดี",
+            "en": "Most Thai people are kind.",
+            "audio_src": "คนไทยส่วนใหญ่ใจดี",
+            "audio_en_src": "Most Thai people are kind."
+          },
+          {
+            "thai": "เขาแต่งงานกับคนไทย",
+            "en": "He married a Thai.",
+            "audio_src": "เขาแต่งงานกับคนไทย",
+            "audio_en_src": "He married a Thai."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-087",
@@ -89853,7 +90081,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครั้งแรก",
-    "audio_en_src": "first time"
+    "audio_en_src": "first time",
+    "examples": [
+      {
+        "meaning": "first time",
+        "sentences": [
+          {
+            "thai": "นี่เป็นครั้งแรกที่ฉันมาที่นี่",
+            "en": "This is my first time here.",
+            "audio_src": "นี่เป็นครั้งแรกที่ฉันมาที่นี่",
+            "audio_en_src": "This is my first time here."
+          },
+          {
+            "thai": "ครั้งแรกที่เจอกัน เขาเขินมาก",
+            "en": "The first time we met, he was really shy.",
+            "audio_src": "ครั้งแรกที่เจอกัน เขาเขินมาก",
+            "audio_en_src": "The first time we met, he was really shy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-090",
@@ -89889,7 +90136,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ความคิด",
-    "audio_en_src": "idea"
+    "audio_en_src": "idea",
+    "examples": [
+      {
+        "meaning": "idea",
+        "sentences": [
+          {
+            "thai": "ฉันมีความคิดดีๆอยากเล่าให้ฟัง",
+            "en": "I have a good idea I want to tell you.",
+            "audio_src": "ฉันมีความคิดดีๆอยากเล่าให้ฟัง",
+            "audio_en_src": "I have a good idea I want to tell you."
+          },
+          {
+            "thai": "ความคิดของเธอน่าสนใจมาก",
+            "en": "Your idea is really interesting.",
+            "audio_src": "ความคิดของเธอน่าสนใจมาก",
+            "audio_en_src": "Your idea is really interesting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-094",
@@ -90021,7 +90287,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คำถาม",
-    "audio_en_src": "question"
+    "audio_en_src": "question",
+    "examples": [
+      {
+        "meaning": "question",
+        "sentences": [
+          {
+            "thai": "มีคำถามอะไรถามได้เลย",
+            "en": "If you have any questions, just ask.",
+            "audio_src": "มีคำถามอะไรถามได้เลย",
+            "audio_en_src": "If you have any questions, just ask."
+          },
+          {
+            "thai": "คำถามนี้ตอบยากจัง",
+            "en": "This question is so hard to answer.",
+            "audio_src": "คำถามนี้ตอบยากจัง",
+            "audio_en_src": "This question is so hard to answer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-011",
@@ -90088,7 +90373,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เครื่องมือ",
-    "audio_en_src": "tool"
+    "audio_en_src": "tool",
+    "examples": [
+      {
+        "meaning": "tool",
+        "sentences": [
+          {
+            "thai": "ช่างเอาเครื่องมือมาซ่อมท่อ",
+            "en": "The repairman brought tools to fix the pipe.",
+            "audio_src": "ช่างเอาเครื่องมือมาซ่อมท่อ",
+            "audio_en_src": "The repairman brought tools to fix the pipe."
+          },
+          {
+            "thai": "คอมพิวเตอร์เป็นเครื่องมือทำงานที่สำคัญ",
+            "en": "A computer is an important tool for work.",
+            "audio_src": "คอมพิวเตอร์เป็นเครื่องมือทำงานที่สำคัญ",
+            "audio_en_src": "A computer is an important tool for work."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-019",
@@ -90274,7 +90578,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จูบ",
-    "audio_en_src": "kiss, to kiss"
+    "audio_en_src": "kiss, to kiss",
+    "examples": [
+      {
+        "meaning": "kiss, to kiss",
+        "sentences": [
+          {
+            "thai": "แม่จูบลูกก่อนไปโรงเรียน",
+            "en": "Mom kissed her child before school.",
+            "audio_src": "แม่จูบลูกก่อนไปโรงเรียน",
+            "audio_en_src": "Mom kissed her child before school."
+          },
+          {
+            "thai": "เขาจูบแก้มฉันเบาๆ",
+            "en": "He gave me a gentle kiss on the cheek.",
+            "audio_src": "เขาจูบแก้มฉันเบาๆ",
+            "audio_en_src": "He gave me a gentle kiss on the cheek."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-038",
@@ -90340,7 +90663,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่วง",
-    "audio_en_src": "period"
+    "audio_en_src": "period",
+    "examples": [
+      {
+        "meaning": "period (of time)",
+        "sentences": [
+          {
+            "thai": "ช่วงปีใหม่คนเดินทางเยอะ",
+            "en": "During the New Year period, lots of people travel.",
+            "audio_src": "ช่วงปีใหม่คนเดินทางเยอะ",
+            "audio_en_src": "During the New Year period, lots of people travel."
+          },
+          {
+            "thai": "ช่วงนี้ฉันลดน้ำหนักอยู่",
+            "en": "I'm losing weight at the moment.",
+            "audio_src": "ช่วงนี้ฉันลดน้ำหนักอยู่",
+            "audio_en_src": "I'm losing weight at the moment."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-044",
@@ -90387,7 +90729,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชีวิต",
-    "audio_en_src": "life"
+    "audio_en_src": "life",
+    "examples": [
+      {
+        "meaning": "life",
+        "sentences": [
+          {
+            "thai": "ชีวิตคนเราสั้นนัก",
+            "en": "Life is short.",
+            "audio_src": "ชีวิตคนเราสั้นนัก",
+            "audio_en_src": "Life is short."
+          },
+          {
+            "thai": "เขาใช้ชีวิตอย่างมีความสุข",
+            "en": "He lives a happy life.",
+            "audio_src": "เขาใช้ชีวิตอย่างมีความสุข",
+            "audio_en_src": "He lives a happy life."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-048",
@@ -90411,7 +90772,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เช่นกัน",
-    "audio_en_src": "same here"
+    "audio_en_src": "same here",
+    "examples": [
+      {
+        "meaning": "same here",
+        "sentences": [
+          {
+            "thai": "ยินดีที่ได้รู้จักครับ เช่นกันค่ะ",
+            "en": "Nice to meet you. Likewise.",
+            "audio_src": "ยินดีที่ได้รู้จักครับ เช่นกันค่ะ",
+            "audio_en_src": "Nice to meet you. Likewise."
+          },
+          {
+            "thai": "ขอให้โชคดีนะ เช่นกันนะ",
+            "en": "Good luck! You too.",
+            "audio_src": "ขอให้โชคดีนะ เช่นกันนะ",
+            "audio_en_src": "Good luck! You too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-050",
