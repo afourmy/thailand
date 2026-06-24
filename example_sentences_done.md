@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1061 words**
+**Total: 1071 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1064,4 +1064,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-091` : ไก่ (chicken) : 1 meaning(s), 2 sentences
 - `wlt-c19-092` : ขอ (to request, to ask) : 1 meaning(s), 2 sentences
 - `wlt-c19-094` : ขา (leg) : 1 meaning(s), 2 sentences
+- `wlt-c19-095` : ข้างหลัง (behind) : 1 meaning(s), 2 sentences
+- `wlt-c19-096` : ข้าว (rice) : 1 meaning(s), 2 sentences
+- `wlt-c19-097` : เขียน (to write) : 1 meaning(s), 2 sentences
+- `wlt-c19-098` : ครอบครัว (family) : 1 meaning(s), 2 sentences
+- `wlt-c19-099` : ครับ (polite particle (male), yes) : 1 meaning(s), 2 sentences
+- `wlt-c20-000` : ครู (teacher) : 1 meaning(s), 2 sentences
+- `wlt-c20-001` : คับ (tight; crowded, packed) : 2 meaning(s), 4 sentences
+- `wlt-c20-002` : คู่ (pair) : 1 meaning(s), 2 sentences
+- `wlt-c20-004` : จน (poor (in wealth); until, till) : 2 meaning(s), 4 sentences
+- `wlt-c20-005` : จอด (to park) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
