@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1121 words**
+**Total: 1131 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1125,3 +1125,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-059` : เล็ก (small (in size)) : 1 meaning(s), 2 sentences
 - `wlt-c20-060` : เล่น (to play (games, music, etc.)) : 1 meaning(s), 2 sentences
 - `wlt-c20-061` : แล้ว (already (indicates completed action)) : 1 meaning(s), 2 sentences
+- `wlt-c20-062` : วันจันทร์ (Monday) : 1 meaning(s), 2 sentences
+- `wlt-c20-063` : วันพุธ (Wednesday) : 1 meaning(s), 2 sentences
+- `wlt-c20-064` : วันศุกร์ (Friday) : 1 meaning(s), 2 sentences
+- `wlt-c20-065` : วันเสาร์ (Saturday) : 1 meaning(s), 2 sentences
+- `wlt-c20-066` : วันอังคาร (Tuesday) : 1 meaning(s), 2 sentences
+- `wlt-c20-067` : วันอาทิตย์ (Sunday) : 1 meaning(s), 2 sentences
+- `wlt-c20-068` : ว่าง (unoccupied, free, not busy) : 1 meaning(s), 2 sentences
+- `wlt-c20-069` : ว่ายน้ำ (to swim) : 1 meaning(s), 2 sentences
+- `wlt-c20-072` : สอน (to teach) : 1 meaning(s), 2 sentences
+- `wlt-c20-073` : สะอาด (clean) : 1 meaning(s), 2 sentences

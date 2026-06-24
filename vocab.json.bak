@@ -115656,7 +115656,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รอบ, รอบๆ",
-    "audio_en_src": "around"
+    "audio_en_src": "around",
+    "examples": [
+      {
+        "meaning": "around",
+        "sentences": [
+          {
+            "thai": "มีรั้วอยู่รอบบ้าน",
+            "en": "There's a fence around the house.",
+            "audio_src": "มีรั้วอยู่รอบบ้าน",
+            "audio_en_src": "There's a fence around the house."
+          },
+          {
+            "thai": "เด็กๆวิ่งเล่นรอบๆสนาม",
+            "en": "The kids run around the field.",
+            "audio_src": "เด็กๆวิ่งเล่นรอบๆสนาม",
+            "audio_en_src": "The kids run around the field."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-053",
@@ -115671,7 +115690,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ราคา",
-    "audio_en_src": "price"
+    "audio_en_src": "price",
+    "examples": [
+      {
+        "meaning": "price",
+        "sentences": [
+          {
+            "thai": "ราคาเท่าไหร่",
+            "en": "How much is it?",
+            "audio_src": "ราคาเท่าไหร่",
+            "audio_en_src": "How much is it?"
+          },
+          {
+            "thai": "ราคาน้ำมันขึ้นอีกแล้ว",
+            "en": "Fuel prices have gone up again.",
+            "audio_src": "ราคาน้ำมันขึ้นอีกแล้ว",
+            "audio_en_src": "Fuel prices have gone up again."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-054",
@@ -115686,7 +115724,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รู้จัก",
-    "audio_en_src": "to know"
+    "audio_en_src": "to know",
+    "examples": [
+      {
+        "meaning": "to know (someone)",
+        "sentences": [
+          {
+            "thai": "ฉันรู้จักเขามานานแล้ว",
+            "en": "I've known him for a long time.",
+            "audio_src": "ฉันรู้จักเขามานานแล้ว",
+            "audio_en_src": "I've known him for a long time."
+          },
+          {
+            "thai": "เราเพิ่งรู้จักกัน",
+            "en": "We just met.",
+            "audio_src": "เราเพิ่งรู้จักกัน",
+            "audio_en_src": "We just met."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-055",
@@ -115701,7 +115758,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรือ",
-    "audio_en_src": "boat, ship"
+    "audio_en_src": "boat, ship",
+    "examples": [
+      {
+        "meaning": "boat, ship",
+        "sentences": [
+          {
+            "thai": "เรานั่งเรือข้ามแม่น้ำ",
+            "en": "We took a boat across the river.",
+            "audio_src": "เรานั่งเรือข้ามแม่น้ำ",
+            "audio_en_src": "We took a boat across the river."
+          },
+          {
+            "thai": "เรือลำใหญ่กำลังเข้าท่า",
+            "en": "A big ship is coming into port.",
+            "audio_src": "เรือลำใหญ่กำลังเข้าท่า",
+            "audio_en_src": "A big ship is coming into port."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-056",
@@ -115716,7 +115792,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โรงเรียน",
-    "audio_en_src": "school"
+    "audio_en_src": "school",
+    "examples": [
+      {
+        "meaning": "school",
+        "sentences": [
+          {
+            "thai": "เด็กๆไปโรงเรียนแปดโมง",
+            "en": "The kids go to school at eight.",
+            "audio_src": "เด็กๆไปโรงเรียนแปดโมง",
+            "audio_en_src": "The kids go to school at eight."
+          },
+          {
+            "thai": "โรงเรียนอยู่ใกล้บ้าน",
+            "en": "The school is near my house.",
+            "audio_src": "โรงเรียนอยู่ใกล้บ้าน",
+            "audio_en_src": "The school is near my house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-057",
@@ -115731,7 +115826,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โรงแรม",
-    "audio_en_src": "hotel"
+    "audio_en_src": "hotel",
+    "examples": [
+      {
+        "meaning": "hotel",
+        "sentences": [
+          {
+            "thai": "เราจองโรงแรมไว้แล้ว",
+            "en": "We've already booked a hotel.",
+            "audio_src": "เราจองโรงแรมไว้แล้ว",
+            "audio_en_src": "We've already booked a hotel."
+          },
+          {
+            "thai": "โรงแรมนี้อยู่ติดทะเล",
+            "en": "This hotel is right by the sea.",
+            "audio_src": "โรงแรมนี้อยู่ติดทะเล",
+            "audio_en_src": "This hotel is right by the sea."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-058",
@@ -115746,7 +115860,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลืม",
-    "audio_en_src": "to forget"
+    "audio_en_src": "to forget",
+    "examples": [
+      {
+        "meaning": "to forget",
+        "sentences": [
+          {
+            "thai": "ฉันลืมเอากระเป๋ามา",
+            "en": "I forgot to bring my bag.",
+            "audio_src": "ฉันลืมเอากระเป๋ามา",
+            "audio_en_src": "I forgot to bring my bag."
+          },
+          {
+            "thai": "อย่าลืมปิดไฟนะ",
+            "en": "Don't forget to turn off the lights.",
+            "audio_src": "อย่าลืมปิดไฟนะ",
+            "audio_en_src": "Don't forget to turn off the lights."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-059",
@@ -115761,7 +115894,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เล็ก",
-    "audio_en_src": "small"
+    "audio_en_src": "small",
+    "examples": [
+      {
+        "meaning": "small (in size)",
+        "sentences": [
+          {
+            "thai": "ห้องนี้เล็กไปหน่อย",
+            "en": "This room is a bit small.",
+            "audio_src": "ห้องนี้เล็กไปหน่อย",
+            "audio_en_src": "This room is a bit small."
+          },
+          {
+            "thai": "ขอไซส์เล็กกว่านี้ได้ไหม",
+            "en": "Can I get a smaller size?",
+            "audio_src": "ขอไซส์เล็กกว่านี้ได้ไหม",
+            "audio_en_src": "Can I get a smaller size?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-060",
@@ -115776,7 +115928,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เล่น",
-    "audio_en_src": "to play"
+    "audio_en_src": "to play",
+    "examples": [
+      {
+        "meaning": "to play (games, music, etc.)",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบเล่นในสวน",
+            "en": "The kids love playing in the park.",
+            "audio_src": "เด็กๆชอบเล่นในสวน",
+            "audio_en_src": "The kids love playing in the park."
+          },
+          {
+            "thai": "เขาเล่นกีตาร์เก่งมาก",
+            "en": "He plays guitar really well.",
+            "audio_src": "เขาเล่นกีตาร์เก่งมาก",
+            "audio_en_src": "He plays guitar really well."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-061",
@@ -115791,7 +115962,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แล้ว",
-    "audio_en_src": "already"
+    "audio_en_src": "already",
+    "examples": [
+      {
+        "meaning": "already (indicates completed action)",
+        "sentences": [
+          {
+            "thai": "ฉันกินข้าวแล้ว",
+            "en": "I've already eaten.",
+            "audio_src": "ฉันกินข้าวแล้ว",
+            "audio_en_src": "I've already eaten."
+          },
+          {
+            "thai": "เขากลับบ้านไปแล้ว",
+            "en": "He's already gone home.",
+            "audio_src": "เขากลับบ้านไปแล้ว",
+            "audio_en_src": "He's already gone home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-062",

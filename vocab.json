@@ -115995,7 +115995,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันจันทร์",
-    "audio_en_src": "Monday"
+    "audio_en_src": "Monday",
+    "examples": [
+      {
+        "meaning": "Monday",
+        "sentences": [
+          {
+            "thai": "วันจันทร์ฉันต้องเข้าประชุม",
+            "en": "I have a meeting on Monday.",
+            "audio_src": "วันจันทร์ฉันต้องเข้าประชุม",
+            "audio_en_src": "I have a meeting on Monday."
+          },
+          {
+            "thai": "เจอกันวันจันทร์หน้านะ",
+            "en": "See you next Monday.",
+            "audio_src": "เจอกันวันจันทร์หน้านะ",
+            "audio_en_src": "See you next Monday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-063",
@@ -116009,7 +116028,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันพุธ",
-    "audio_en_src": "Wednesday"
+    "audio_en_src": "Wednesday",
+    "examples": [
+      {
+        "meaning": "Wednesday",
+        "sentences": [
+          {
+            "thai": "วันพุธนี้ฉันไม่ว่าง",
+            "en": "I'm not free this Wednesday.",
+            "audio_src": "วันพุธนี้ฉันไม่ว่าง",
+            "audio_en_src": "I'm not free this Wednesday."
+          },
+          {
+            "thai": "หมอนัดวันพุธหน้า",
+            "en": "The doctor's appointment is next Wednesday.",
+            "audio_src": "หมอนัดวันพุธหน้า",
+            "audio_en_src": "The doctor's appointment is next Wednesday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-064",
@@ -116024,7 +116062,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันศุกร์",
-    "audio_en_src": "Friday"
+    "audio_en_src": "Friday",
+    "examples": [
+      {
+        "meaning": "Friday",
+        "sentences": [
+          {
+            "thai": "วันศุกร์เย็นไปกินข้าวกัน",
+            "en": "Let's go eat on Friday evening.",
+            "audio_src": "วันศุกร์เย็นไปกินข้าวกัน",
+            "audio_en_src": "Let's go eat on Friday evening."
+          },
+          {
+            "thai": "ฉันชอบวันศุกร์ที่สุด",
+            "en": "I like Friday the most.",
+            "audio_src": "ฉันชอบวันศุกร์ที่สุด",
+            "audio_en_src": "I like Friday the most."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-065",
@@ -116039,7 +116096,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันเสาร์",
-    "audio_en_src": "Saturday"
+    "audio_en_src": "Saturday",
+    "examples": [
+      {
+        "meaning": "Saturday",
+        "sentences": [
+          {
+            "thai": "วันเสาร์ฉันนอนตื่นสาย",
+            "en": "I sleep in on Saturdays.",
+            "audio_src": "วันเสาร์ฉันนอนตื่นสาย",
+            "audio_en_src": "I sleep in on Saturdays."
+          },
+          {
+            "thai": "วันเสาร์นี้เธอว่างไหม",
+            "en": "Are you free this Saturday?",
+            "audio_src": "วันเสาร์นี้เธอว่างไหม",
+            "audio_en_src": "Are you free this Saturday?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-066",
@@ -116054,7 +116130,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันอังคาร",
-    "audio_en_src": "Tuesday"
+    "audio_en_src": "Tuesday",
+    "examples": [
+      {
+        "meaning": "Tuesday",
+        "sentences": [
+          {
+            "thai": "วันอังคารร้านปิด",
+            "en": "The shop is closed on Tuesdays.",
+            "audio_src": "วันอังคารร้านปิด",
+            "audio_en_src": "The shop is closed on Tuesdays."
+          },
+          {
+            "thai": "เราเจอกันทุกวันอังคาร",
+            "en": "We meet every Tuesday.",
+            "audio_src": "เราเจอกันทุกวันอังคาร",
+            "audio_en_src": "We meet every Tuesday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-067",
@@ -116068,7 +116163,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันอาทิตย์",
-    "audio_en_src": "Sunday"
+    "audio_en_src": "Sunday",
+    "examples": [
+      {
+        "meaning": "Sunday",
+        "sentences": [
+          {
+            "thai": "วันอาทิตย์ฉันอยู่บ้านทั้งวัน",
+            "en": "I stay home all day on Sundays.",
+            "audio_src": "วันอาทิตย์ฉันอยู่บ้านทั้งวัน",
+            "audio_en_src": "I stay home all day on Sundays."
+          },
+          {
+            "thai": "วันอาทิตย์ตลาดคนเยอะมาก",
+            "en": "The market is very crowded on Sundays.",
+            "audio_src": "วันอาทิตย์ตลาดคนเยอะมาก",
+            "audio_en_src": "The market is very crowded on Sundays."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-068",
@@ -116083,7 +116197,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ว่าง",
-    "audio_en_src": "unoccupied, free, not busy"
+    "audio_en_src": "unoccupied, free, not busy",
+    "examples": [
+      {
+        "meaning": "unoccupied, free, not busy",
+        "sentences": [
+          {
+            "thai": "ตอนนี้ว่างไหม",
+            "en": "Are you free right now?",
+            "audio_src": "ตอนนี้ว่างไหม",
+            "audio_en_src": "Are you free right now?"
+          },
+          {
+            "thai": "มีห้องว่างไหม",
+            "en": "Do you have a vacant room?",
+            "audio_src": "มีห้องว่างไหม",
+            "audio_en_src": "Do you have a vacant room?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-069",
@@ -116098,7 +116231,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ว่ายน้ำ",
-    "audio_en_src": "to swim"
+    "audio_en_src": "to swim",
+    "examples": [
+      {
+        "meaning": "to swim",
+        "sentences": [
+          {
+            "thai": "ฉันว่ายน้ำไม่เป็น",
+            "en": "I can't swim.",
+            "audio_src": "ฉันว่ายน้ำไม่เป็น",
+            "audio_en_src": "I can't swim."
+          },
+          {
+            "thai": "หน้าร้อนชอบไปว่ายน้ำ",
+            "en": "I like to go swimming in summer.",
+            "audio_src": "หน้าร้อนชอบไปว่ายน้ำ",
+            "audio_en_src": "I like to go swimming in summer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-072",
@@ -116113,7 +116265,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สอน",
-    "audio_en_src": "to teach"
+    "audio_en_src": "to teach",
+    "examples": [
+      {
+        "meaning": "to teach",
+        "sentences": [
+          {
+            "thai": "เขาสอนภาษาอังกฤษ",
+            "en": "He teaches English.",
+            "audio_src": "เขาสอนภาษาอังกฤษ",
+            "audio_en_src": "He teaches English."
+          },
+          {
+            "thai": "ช่วยสอนฉันทำอาหารหน่อย",
+            "en": "Please teach me to cook.",
+            "audio_src": "ช่วยสอนฉันทำอาหารหน่อย",
+            "audio_en_src": "Please teach me to cook."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-073",
@@ -116128,7 +116299,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สะอาด",
-    "audio_en_src": "clean"
+    "audio_en_src": "clean",
+    "examples": [
+      {
+        "meaning": "clean",
+        "sentences": [
+          {
+            "thai": "ห้องนี้สะอาดมาก",
+            "en": "This room is very clean.",
+            "audio_src": "ห้องนี้สะอาดมาก",
+            "audio_en_src": "This room is very clean."
+          },
+          {
+            "thai": "ล้างมือให้สะอาดก่อนกินข้าว",
+            "en": "Wash your hands clean before eating.",
+            "audio_src": "ล้างมือให้สะอาดก่อนกินข้าว",
+            "audio_en_src": "Wash your hands clean before eating."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-074",
