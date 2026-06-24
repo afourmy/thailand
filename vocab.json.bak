@@ -119677,7 +119677,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนาว",
-    "audio_en_src": "cold"
+    "audio_en_src": "cold",
+    "examples": [
+      {
+        "meaning": "cold",
+        "sentences": [
+          {
+            "thai": "วันนี้อากาศหนาวมาก",
+            "en": "It's really cold today.",
+            "audio_src": "วันนี้อากาศหนาวมาก",
+            "audio_en_src": "It's really cold today."
+          },
+          {
+            "thai": "หนาวจัง ขอผ้าห่มหน่อย",
+            "en": "I'm so cold, can I have a blanket?",
+            "audio_src": "หนาวจัง ขอผ้าห่มหน่อย",
+            "audio_en_src": "I'm so cold, can I have a blanket?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-072",
@@ -119692,7 +119711,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใหม่",
-    "audio_en_src": "new; again"
+    "audio_en_src": "new; again",
+    "examples": [
+      {
+        "meaning": "new",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อโทรศัพท์ใหม่",
+            "en": "I bought a new phone.",
+            "audio_src": "ฉันซื้อโทรศัพท์ใหม่",
+            "audio_en_src": "I bought a new phone."
+          },
+          {
+            "thai": "บ้านหลังนี้ยังใหม่อยู่",
+            "en": "This house is still new.",
+            "audio_src": "บ้านหลังนี้ยังใหม่อยู่",
+            "audio_en_src": "This house is still new."
+          }
+        ]
+      },
+      {
+        "meaning": "again",
+        "sentences": [
+          {
+            "thai": "ลองทำใหม่อีกครั้ง",
+            "en": "Try doing it again.",
+            "audio_src": "ลองทำใหม่อีกครั้ง",
+            "audio_en_src": "Try doing it again."
+          },
+          {
+            "thai": "พิมพ์ผิด ต้องเริ่มใหม่",
+            "en": "I made a typo, I have to start over.",
+            "audio_src": "พิมพ์ผิด ต้องเริ่มใหม่",
+            "audio_en_src": "I made a typo, I have to start over."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-073",
@@ -119707,7 +119762,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กับ",
-    "audio_en_src": "with"
+    "audio_en_src": "with",
+    "examples": [
+      {
+        "meaning": "with",
+        "sentences": [
+          {
+            "thai": "ฉันไปกับเพื่อน",
+            "en": "I went with a friend.",
+            "audio_src": "ฉันไปกับเพื่อน",
+            "audio_en_src": "I went with a friend."
+          },
+          {
+            "thai": "กินข้าวกับครอบครัว",
+            "en": "I ate with my family.",
+            "audio_src": "กินข้าวกับครอบครัว",
+            "audio_en_src": "I ate with my family."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-074",
@@ -119722,7 +119796,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตัว",
-    "audio_en_src": "body; classifier for animals, clothes, furniture, etc"
+    "audio_en_src": "body; classifier for animals, clothes, furniture, etc",
+    "examples": [
+      {
+        "meaning": "body",
+        "sentences": [
+          {
+            "thai": "ตัวฉันร้อนไปหมด",
+            "en": "My whole body feels hot.",
+            "audio_src": "ตัวฉันร้อนไปหมด",
+            "audio_en_src": "My whole body feels hot."
+          },
+          {
+            "thai": "เด็กตัวเปียกฝน",
+            "en": "The child is soaked from the rain.",
+            "audio_src": "เด็กตัวเปียกฝน",
+            "audio_en_src": "The child is soaked from the rain."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for animals, clothes, furniture, etc",
+        "sentences": [
+          {
+            "thai": "บ้านฉันมีหมาสองตัว",
+            "en": "I have two dogs at home.",
+            "audio_src": "บ้านฉันมีหมาสองตัว",
+            "audio_en_src": "I have two dogs at home."
+          },
+          {
+            "thai": "เสื้อตัวนี้สวยมาก",
+            "en": "This shirt is really nice.",
+            "audio_src": "เสื้อตัวนี้สวยมาก",
+            "audio_en_src": "This shirt is really nice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-076",
@@ -119737,7 +119847,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โทรศัพท์",
-    "audio_en_src": "phone"
+    "audio_en_src": "phone",
+    "examples": [
+      {
+        "meaning": "phone",
+        "sentences": [
+          {
+            "thai": "โทรศัพท์ฉันแบตหมด",
+            "en": "My phone is out of battery.",
+            "audio_src": "โทรศัพท์ฉันแบตหมด",
+            "audio_en_src": "My phone is out of battery."
+          },
+          {
+            "thai": "เขาคุยโทรศัพท์อยู่",
+            "en": "He's on the phone.",
+            "audio_src": "เขาคุยโทรศัพท์อยู่",
+            "audio_en_src": "He's on the phone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-077",
@@ -119752,7 +119881,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใน",
-    "audio_en_src": "in"
+    "audio_en_src": "in",
+    "examples": [
+      {
+        "meaning": "in",
+        "sentences": [
+          {
+            "thai": "แมวอยู่ในบ้าน",
+            "en": "The cat is in the house.",
+            "audio_src": "แมวอยู่ในบ้าน",
+            "audio_en_src": "The cat is in the house."
+          },
+          {
+            "thai": "มีเงินอยู่ในกระเป๋า",
+            "en": "There's money in the bag.",
+            "audio_src": "มีเงินอยู่ในกระเป๋า",
+            "audio_en_src": "There's money in the bag."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-078",
@@ -119767,7 +119915,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผม",
-    "audio_en_src": "I; hair"
+    "audio_en_src": "I; hair",
+    "examples": [
+      {
+        "meaning": "I (male speaker)",
+        "sentences": [
+          {
+            "thai": "ผมชื่อโตน",
+            "en": "My name is Ton.",
+            "audio_src": "ผมชื่อโตน",
+            "audio_en_src": "My name is Ton."
+          },
+          {
+            "thai": "ผมขอตัวก่อนนะครับ",
+            "en": "I'll get going now.",
+            "audio_src": "ผมขอตัวก่อนนะครับ",
+            "audio_en_src": "I'll get going now."
+          }
+        ]
+      },
+      {
+        "meaning": "hair",
+        "sentences": [
+          {
+            "thai": "ผมเธอยาวสวยมาก",
+            "en": "Your hair is long and beautiful.",
+            "audio_src": "ผมเธอยาวสวยมาก",
+            "audio_en_src": "Your hair is long and beautiful."
+          },
+          {
+            "thai": "ฉันไปตัดผมมา",
+            "en": "I went and got a haircut.",
+            "audio_src": "ฉันไปตัดผมมา",
+            "audio_en_src": "I went and got a haircut."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-079",
@@ -119782,7 +119966,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หลัง",
-    "audio_en_src": "behind, back; classifier for houses and buildings"
+    "audio_en_src": "behind, back; classifier for houses and buildings",
+    "examples": [
+      {
+        "meaning": "behind, back",
+        "sentences": [
+          {
+            "thai": "มีสวนอยู่หลังบ้าน",
+            "en": "There's a garden behind the house.",
+            "audio_src": "มีสวนอยู่หลังบ้าน",
+            "audio_en_src": "There's a garden behind the house."
+          },
+          {
+            "thai": "หลังฉันปวดมาก",
+            "en": "My back hurts a lot.",
+            "audio_src": "หลังฉันปวดมาก",
+            "audio_en_src": "My back hurts a lot."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for houses and buildings",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้สวยมาก",
+            "en": "This house is really beautiful.",
+            "audio_src": "บ้านหลังนี้สวยมาก",
+            "audio_en_src": "This house is really beautiful."
+          },
+          {
+            "thai": "หมู่บ้านนี้มีบ้านร้อยหลัง",
+            "en": "This village has a hundred houses.",
+            "audio_src": "หมู่บ้านนี้มีบ้านร้อยหลัง",
+            "audio_en_src": "This village has a hundred houses."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-080",
@@ -119797,7 +120017,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใหญ่",
-    "audio_en_src": "big, large"
+    "audio_en_src": "big, large",
+    "examples": [
+      {
+        "meaning": "big, large",
+        "sentences": [
+          {
+            "thai": "ห้องนี้ใหญ่มาก",
+            "en": "This room is really big.",
+            "audio_src": "ห้องนี้ใหญ่มาก",
+            "audio_en_src": "This room is really big."
+          },
+          {
+            "thai": "ขอไซส์ใหญ่กว่านี้ได้ไหม",
+            "en": "Can I get a bigger size?",
+            "audio_src": "ขอไซส์ใหญ่กว่านี้ได้ไหม",
+            "audio_en_src": "Can I get a bigger size?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-001",
@@ -119811,7 +120050,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรา",
-    "audio_en_src": "we; us"
+    "audio_en_src": "we; us",
+    "examples": [
+      {
+        "meaning": "we; us",
+        "sentences": [
+          {
+            "thai": "เราไปด้วยกันนะ",
+            "en": "Let's go together.",
+            "audio_src": "เราไปด้วยกันนะ",
+            "audio_en_src": "Let's go together."
+          },
+          {
+            "thai": "เขาไม่ชอบเรา",
+            "en": "He doesn't like us.",
+            "audio_src": "เขาไม่ชอบเรา",
+            "audio_en_src": "He doesn't like us."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-002",

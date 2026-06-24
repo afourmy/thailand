@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1231 words**
+**Total: 1241 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1235,3 +1235,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-079` : หลัง (behind, back; classifier for houses and buildings) : 2 meaning(s), 4 sentences
 - `wlt-c21-080` : ใหญ่ (big, large) : 1 meaning(s), 2 sentences
 - `t4k-c01-001` : เรา (we; us) : 1 meaning(s), 2 sentences
+- `t4k-c01-002` : เขา (he) : 1 meaning(s), 2 sentences
+- `t4k-c01-017` : พูดถึง (to talk about, to refer to) : 1 meaning(s), 2 sentences
+- `t4k-c01-036` : ข้าง (side) : 1 meaning(s), 2 sentences
+- `t4k-c01-042` : ไม่ค่อย (not very, hardly) : 1 meaning(s), 2 sentences
+- `t4k-c01-043` : ทันที (immediately) : 1 meaning(s), 2 sentences
+- `t4k-c01-045` : หาย (to disappear; lost, missing) : 2 meaning(s), 4 sentences
+- `t4k-c01-059` : ช้า (slow) : 1 meaning(s), 2 sentences
+- `t4k-c01-073` : ฝัน (dream) : 1 meaning(s), 2 sentences
+- `t4k-c01-085` : หมายความ, หมายถึง (to mean) : 1 meaning(s), 2 sentences
+- `t4k-c02-043` : พูดคุย (to talk, to chat) : 1 meaning(s), 2 sentences
