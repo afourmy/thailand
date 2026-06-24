@@ -105067,7 +105067,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เช่น",
-    "audio_en_src": "such as"
+    "audio_en_src": "such as",
+    "examples": [
+      {
+        "meaning": "such as",
+        "sentences": [
+          {
+            "thai": "ฉันชอบผลไม้หลายอย่าง เช่น มะม่วงกับส้ม",
+            "en": "I like many fruits, such as mango and orange.",
+            "audio_src": "ฉันชอบผลไม้หลายอย่าง เช่น มะม่วงกับส้ม",
+            "audio_en_src": "I like many fruits, such as mango and orange."
+          },
+          {
+            "thai": "เขาเล่นกีฬาหลายชนิด เช่น ฟุตบอลและบาส",
+            "en": "He plays many sports, such as football and basketball.",
+            "audio_src": "เขาเล่นกีฬาหลายชนิด เช่น ฟุตบอลและบาส",
+            "audio_en_src": "He plays many sports, such as football and basketball."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-054",
@@ -105082,7 +105101,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เชื่อ",
-    "audio_en_src": "to believe"
+    "audio_en_src": "to believe",
+    "examples": [
+      {
+        "meaning": "to believe",
+        "sentences": [
+          {
+            "thai": "ฉันไม่เชื่อว่าเขาจะทำแบบนั้น",
+            "en": "I can't believe he'd do that.",
+            "audio_src": "ฉันไม่เชื่อว่าเขาจะทำแบบนั้น",
+            "audio_en_src": "I can't believe he'd do that."
+          },
+          {
+            "thai": "เชื่อฉันสิ เดี๋ยวก็ดีเอง",
+            "en": "Believe me, it'll be okay.",
+            "audio_src": "เชื่อฉันสิ เดี๋ยวก็ดีเอง",
+            "audio_en_src": "Believe me, it'll be okay."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-055",
@@ -105096,7 +105134,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใช่ไหม",
-    "audio_en_src": "'isn't it so?', 'right?'"
+    "audio_en_src": "'isn't it so?', 'right?'",
+    "examples": [
+      {
+        "meaning": "'isn't it so?', 'right?'",
+        "sentences": [
+          {
+            "thai": "เธอเป็นคนไทยใช่ไหม",
+            "en": "You're Thai, right?",
+            "audio_src": "เธอเป็นคนไทยใช่ไหม",
+            "audio_en_src": "You're Thai, right?"
+          },
+          {
+            "thai": "อันนี้ของเธอใช่ไหม",
+            "en": "This is yours, right?",
+            "audio_src": "อันนี้ของเธอใช่ไหม",
+            "audio_en_src": "This is yours, right?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-056",
@@ -105111,7 +105168,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซ้าย",
-    "audio_en_src": "left"
+    "audio_en_src": "left",
+    "examples": [
+      {
+        "meaning": "left (side)",
+        "sentences": [
+          {
+            "thai": "ยกมือซ้ายขึ้น",
+            "en": "Raise your left hand.",
+            "audio_src": "ยกมือซ้ายขึ้น",
+            "audio_en_src": "Raise your left hand."
+          },
+          {
+            "thai": "บ้านอยู่ทางซ้ายของถนน",
+            "en": "The house is on the left side of the road.",
+            "audio_src": "บ้านอยู่ทางซ้ายของถนน",
+            "audio_en_src": "The house is on the left side of the road."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-057",
@@ -105126,7 +105202,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดนตรี",
-    "audio_en_src": "music"
+    "audio_en_src": "music",
+    "examples": [
+      {
+        "meaning": "music",
+        "sentences": [
+          {
+            "thai": "เขาชอบฟังดนตรีคลาสสิก",
+            "en": "He likes listening to classical music.",
+            "audio_src": "เขาชอบฟังดนตรีคลาสสิก",
+            "audio_en_src": "He likes listening to classical music."
+          },
+          {
+            "thai": "งานนี้มีดนตรีสดด้วย",
+            "en": "This event has live music too.",
+            "audio_src": "งานนี้มีดนตรีสดด้วย",
+            "audio_en_src": "This event has live music too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-058",
@@ -105140,7 +105235,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ด้วยกัน",
-    "audio_en_src": "together"
+    "audio_en_src": "together",
+    "examples": [
+      {
+        "meaning": "together",
+        "sentences": [
+          {
+            "thai": "ไปกินข้าวด้วยกันไหม",
+            "en": "Want to go eat together?",
+            "audio_src": "ไปกินข้าวด้วยกันไหม",
+            "audio_en_src": "Want to go eat together?"
+          },
+          {
+            "thai": "เราเรียนหนังสือด้วยกันมาตั้งแต่เด็ก",
+            "en": "We've studied together since we were kids.",
+            "audio_src": "เราเรียนหนังสือด้วยกันมาตั้งแต่เด็ก",
+            "audio_en_src": "We've studied together since we were kids."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-059",
@@ -105155,7 +105269,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดอกไม้",
-    "audio_en_src": "flower"
+    "audio_en_src": "flower",
+    "examples": [
+      {
+        "meaning": "flower",
+        "sentences": [
+          {
+            "thai": "เขาซื้อดอกไม้ให้แฟน",
+            "en": "He bought flowers for his girlfriend.",
+            "audio_src": "เขาซื้อดอกไม้ให้แฟน",
+            "audio_en_src": "He bought flowers for his girlfriend."
+          },
+          {
+            "thai": "ดอกไม้ในสวนกำลังบาน",
+            "en": "The flowers in the garden are blooming.",
+            "audio_src": "ดอกไม้ในสวนกำลังบาน",
+            "audio_en_src": "The flowers in the garden are blooming."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-061",
@@ -105170,7 +105303,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดิฉัน, ฉัน",
-    "audio_en_src": "I, me"
+    "audio_en_src": "I, me",
+    "examples": [
+      {
+        "meaning": "I, me (female speaker)",
+        "sentences": [
+          {
+            "thai": "ดิฉันชื่อมาลีค่ะ",
+            "en": "My name is Malee.",
+            "audio_src": "ดิฉันชื่อมาลีค่ะ",
+            "audio_en_src": "My name is Malee."
+          },
+          {
+            "thai": "ฉันไม่ค่อยสบายเลยขอลาหยุดค่ะ",
+            "en": "I'm not feeling well, so I'd like to take a day off.",
+            "audio_src": "ฉันไม่ค่อยสบายเลยขอลาหยุดค่ะ",
+            "audio_en_src": "I'm not feeling well, so I'd like to take a day off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-062",
@@ -105186,7 +105338,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดียว, อย่างเดียว",
-    "audio_en_src": "only, single, alone"
+    "audio_en_src": "only, single, alone",
+    "examples": [
+      {
+        "meaning": "only, single, alone",
+        "sentences": [
+          {
+            "thai": "ฉันขอแค่อย่างเดียว",
+            "en": "I'm only asking for one thing.",
+            "audio_src": "ฉันขอแค่อย่างเดียว",
+            "audio_en_src": "I'm only asking for one thing."
+          },
+          {
+            "thai": "เหลือชิ้นเดียวสุดท้าย",
+            "en": "There's only one piece left.",
+            "audio_src": "เหลือชิ้นเดียวสุดท้าย",
+            "audio_en_src": "There's only one piece left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-064",
@@ -105225,7 +105396,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต่อไป",
-    "audio_en_src": "next, later"
+    "audio_en_src": "next, later",
+    "examples": [
+      {
+        "meaning": "next, later",
+        "sentences": [
+          {
+            "thai": "สถานีต่อไปคือสยาม",
+            "en": "The next station is Siam.",
+            "audio_src": "สถานีต่อไปคือสยาม",
+            "audio_en_src": "The next station is Siam."
+          },
+          {
+            "thai": "ต่อไปจะระวังให้มากขึ้น",
+            "en": "From now on I'll be more careful.",
+            "audio_src": "ต่อไปจะระวังให้มากขึ้น",
+            "audio_en_src": "From now on I'll be more careful."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-067",

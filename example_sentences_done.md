@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 861 words**
+**Total: 871 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -864,4 +864,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-061` : ดิฉัน, ฉัน (I, me (female speaker)) : 1 meaning(s), 2 sentences
 - `wlt-c15-062` : เดียว, อย่างเดียว (only, single, alone) : 1 meaning(s), 2 sentences
 - `wlt-c15-066` : ต่อไป (next, later) : 1 meaning(s), 2 sentences
+- `wlt-c15-068` : ตั้งแต่ (from, since) : 1 meaning(s), 2 sentences
+- `wlt-c15-069` : ตั๋ว (ticket) : 1 meaning(s), 2 sentences
+- `wlt-c15-070` : ต่ำ (low, inferior) : 1 meaning(s), 2 sentences
+- `wlt-c15-072` : แตงโม (watermelon) : 1 meaning(s), 2 sentences
+- `wlt-c15-074` : ถ่ายรูป (to take a picture) : 1 meaning(s), 2 sentences
+- `wlt-c15-077` : ที่ทำงาน (workplace, office) : 1 meaning(s), 2 sentences
+- `wlt-c15-078` : ที่นั่น (there) : 1 meaning(s), 2 sentences
+- `wlt-c15-079` : ที่นี่ (here) : 1 meaning(s), 2 sentences
+- `wlt-c15-080` : ทุก (every, each) : 1 meaning(s), 2 sentences
+- `wlt-c15-082` : นักเรียน (student) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

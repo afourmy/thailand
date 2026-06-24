@@ -105440,7 +105440,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตั้งแต่",
-    "audio_en_src": "from, since"
+    "audio_en_src": "from, since",
+    "examples": [
+      {
+        "meaning": "from, since",
+        "sentences": [
+          {
+            "thai": "ฉันรอเธอตั้งแต่เช้า",
+            "en": "I've been waiting for you since morning.",
+            "audio_src": "ฉันรอเธอตั้งแต่เช้า",
+            "audio_en_src": "I've been waiting for you since morning."
+          },
+          {
+            "thai": "ร้านเปิดตั้งแต่แปดโมงเช้า",
+            "en": "The shop is open from eight in the morning.",
+            "audio_src": "ร้านเปิดตั้งแต่แปดโมงเช้า",
+            "audio_en_src": "The shop is open from eight in the morning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-069",
@@ -105455,7 +105474,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตั๋ว",
-    "audio_en_src": "ticket"
+    "audio_en_src": "ticket",
+    "examples": [
+      {
+        "meaning": "ticket",
+        "sentences": [
+          {
+            "thai": "ซื้อตั๋วหนังไว้แล้วสองใบ",
+            "en": "I've bought two movie tickets.",
+            "audio_src": "ซื้อตั๋วหนังไว้แล้วสองใบ",
+            "audio_en_src": "I've bought two movie tickets."
+          },
+          {
+            "thai": "ตั๋วรถไฟหมดแล้ว",
+            "en": "The train tickets are sold out.",
+            "audio_src": "ตั๋วรถไฟหมดแล้ว",
+            "audio_en_src": "The train tickets are sold out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-070",
@@ -105470,7 +105508,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต่ำ",
-    "audio_en_src": "low, inferior"
+    "audio_en_src": "low, inferior",
+    "examples": [
+      {
+        "meaning": "low, inferior",
+        "sentences": [
+          {
+            "thai": "ราคาน้ำมันต่ำลงเดือนนี้",
+            "en": "Oil prices went down this month.",
+            "audio_src": "ราคาน้ำมันต่ำลงเดือนนี้",
+            "audio_en_src": "Oil prices went down this month."
+          },
+          {
+            "thai": "สินค้าคุณภาพต่ำมักไม่ทนทาน",
+            "en": "Low-quality goods usually don't last.",
+            "audio_src": "สินค้าคุณภาพต่ำมักไม่ทนทาน",
+            "audio_en_src": "Low-quality goods usually don't last."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-071",
@@ -105495,7 +105552,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แตงโม",
-    "audio_en_src": "watermelon"
+    "audio_en_src": "watermelon",
+    "examples": [
+      {
+        "meaning": "watermelon",
+        "sentences": [
+          {
+            "thai": "หน้าร้อนกินแตงโมเย็นๆชื่นใจ",
+            "en": "In the hot season, cold watermelon is refreshing.",
+            "audio_src": "หน้าร้อนกินแตงโมเย็นๆชื่นใจ",
+            "audio_en_src": "In the hot season, cold watermelon is refreshing."
+          },
+          {
+            "thai": "แตงโมลูกนี้หวานมาก",
+            "en": "This watermelon is really sweet.",
+            "audio_src": "แตงโมลูกนี้หวานมาก",
+            "audio_en_src": "This watermelon is really sweet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-073",
@@ -105521,7 +105597,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถ่ายรูป",
-    "audio_en_src": "to take a picture"
+    "audio_en_src": "to take a picture",
+    "examples": [
+      {
+        "meaning": "to take a picture",
+        "sentences": [
+          {
+            "thai": "ขอถ่ายรูปด้วยกันหน่อยได้ไหม",
+            "en": "Can we take a picture together?",
+            "audio_src": "ขอถ่ายรูปด้วยกันหน่อยได้ไหม",
+            "audio_en_src": "Can we take a picture together?"
+          },
+          {
+            "thai": "เธอชอบถ่ายรูปดอกไม้",
+            "en": "She likes taking pictures of flowers.",
+            "audio_src": "เธอชอบถ่ายรูปดอกไม้",
+            "audio_en_src": "She likes taking pictures of flowers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-075",
@@ -105546,7 +105641,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่ทำงาน",
-    "audio_en_src": "workplace, office"
+    "audio_en_src": "workplace, office",
+    "examples": [
+      {
+        "meaning": "workplace, office",
+        "sentences": [
+          {
+            "thai": "ที่ทำงานฉันอยู่ใกล้รถไฟฟ้า",
+            "en": "My office is near the BTS.",
+            "audio_src": "ที่ทำงานฉันอยู่ใกล้รถไฟฟ้า",
+            "audio_en_src": "My office is near the BTS."
+          },
+          {
+            "thai": "เขาลืมกระเป๋าไว้ที่ทำงาน",
+            "en": "He left his bag at the office.",
+            "audio_src": "เขาลืมกระเป๋าไว้ที่ทำงาน",
+            "audio_en_src": "He left his bag at the office."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-078",
@@ -105560,7 +105674,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่นั่น",
-    "audio_en_src": "there"
+    "audio_en_src": "there",
+    "examples": [
+      {
+        "meaning": "there",
+        "sentences": [
+          {
+            "thai": "ที่นั่นมีร้านอาหารอร่อยเยอะ",
+            "en": "There are lots of good restaurants there.",
+            "audio_src": "ที่นั่นมีร้านอาหารอร่อยเยอะ",
+            "audio_en_src": "There are lots of good restaurants there."
+          },
+          {
+            "thai": "เธอเคยไปที่นั่นไหม",
+            "en": "Have you ever been there?",
+            "audio_src": "เธอเคยไปที่นั่นไหม",
+            "audio_en_src": "Have you ever been there?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-079",
@@ -105574,7 +105707,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่นี่",
-    "audio_en_src": "here"
+    "audio_en_src": "here",
+    "examples": [
+      {
+        "meaning": "here",
+        "sentences": [
+          {
+            "thai": "ที่นี่สวยมาก ถ่ายรูปกันเถอะ",
+            "en": "It's beautiful here, let's take some photos.",
+            "audio_src": "ที่นี่สวยมาก ถ่ายรูปกันเถอะ",
+            "audio_en_src": "It's beautiful here, let's take some photos."
+          },
+          {
+            "thai": "ที่นี่ห้ามสูบบุหรี่",
+            "en": "No smoking here.",
+            "audio_src": "ที่นี่ห้ามสูบบุหรี่",
+            "audio_en_src": "No smoking here."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-080",
@@ -105589,7 +105741,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุก",
-    "audio_en_src": "every, each"
+    "audio_en_src": "every, each",
+    "examples": [
+      {
+        "meaning": "every, each",
+        "sentences": [
+          {
+            "thai": "เขามาทำงานทุกวันไม่เคยขาด",
+            "en": "He comes to work every day, never misses one.",
+            "audio_src": "เขามาทำงานทุกวันไม่เคยขาด",
+            "audio_en_src": "He comes to work every day, never misses one."
+          },
+          {
+            "thai": "ทุกคนต้องใส่หน้ากาก",
+            "en": "Everyone has to wear a mask.",
+            "audio_src": "ทุกคนต้องใส่หน้ากาก",
+            "audio_en_src": "Everyone has to wear a mask."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-082",
@@ -105604,7 +105775,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นักเรียน",
-    "audio_en_src": "student"
+    "audio_en_src": "student",
+    "examples": [
+      {
+        "meaning": "student",
+        "sentences": [
+          {
+            "thai": "นักเรียนกำลังสอบอยู่",
+            "en": "The students are taking an exam.",
+            "audio_src": "นักเรียนกำลังสอบอยู่",
+            "audio_en_src": "The students are taking an exam."
+          },
+          {
+            "thai": "เธอเป็นนักเรียนชั้นมัธยม",
+            "en": "She's a high school student.",
+            "audio_src": "เธอเป็นนักเรียนชั้นมัธยม",
+            "audio_en_src": "She's a high school student."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-083",
