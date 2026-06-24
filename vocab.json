@@ -117762,7 +117762,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถนน",
-    "audio_en_src": "street, road"
+    "audio_en_src": "street, road",
+    "examples": [
+      {
+        "meaning": "street, road",
+        "sentences": [
+          {
+            "thai": "ถนนเส้นนี้รถติดมาก",
+            "en": "This road has a lot of traffic.",
+            "audio_src": "ถนนเส้นนี้รถติดมาก",
+            "audio_en_src": "This road has a lot of traffic."
+          },
+          {
+            "thai": "ระวังรถตอนข้ามถนน",
+            "en": "Watch for cars when crossing the street.",
+            "audio_src": "ระวังรถตอนข้ามถนน",
+            "audio_en_src": "Watch for cars when crossing the street."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-018",
@@ -117777,7 +117796,60 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทาง",
-    "audio_en_src": "way, path; direction; means, method"
+    "audio_en_src": "way, path; direction; means, method",
+    "examples": [
+      {
+        "meaning": "way, path",
+        "sentences": [
+          {
+            "thai": "ทางไปหมู่บ้านแคบมาก",
+            "en": "The path to the village is very narrow.",
+            "audio_src": "ทางไปหมู่บ้านแคบมาก",
+            "audio_en_src": "The path to the village is very narrow."
+          },
+          {
+            "thai": "ไปทางนี้ใกล้กว่า",
+            "en": "Going this way is shorter.",
+            "audio_src": "ไปทางนี้ใกล้กว่า",
+            "audio_en_src": "Going this way is shorter."
+          }
+        ]
+      },
+      {
+        "meaning": "direction",
+        "sentences": [
+          {
+            "thai": "ห้องน้ำอยู่ทางซ้าย",
+            "en": "The bathroom is on the left.",
+            "audio_src": "ห้องน้ำอยู่ทางซ้าย",
+            "audio_en_src": "The bathroom is on the left."
+          },
+          {
+            "thai": "บ้านเขาอยู่ทางเหนือ",
+            "en": "His house is to the north.",
+            "audio_src": "บ้านเขาอยู่ทางเหนือ",
+            "audio_en_src": "His house is to the north."
+          }
+        ]
+      },
+      {
+        "meaning": "means, method",
+        "sentences": [
+          {
+            "thai": "เราต้องหาทางแก้ปัญหา",
+            "en": "We need to find a way to solve the problem.",
+            "audio_src": "เราต้องหาทางแก้ปัญหา",
+            "audio_en_src": "We need to find a way to solve the problem."
+          },
+          {
+            "thai": "ติดต่อกันได้ทางโทรศัพท์",
+            "en": "We can keep in touch by phone.",
+            "audio_src": "ติดต่อกันได้ทางโทรศัพท์",
+            "audio_en_src": "We can keep in touch by phone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-019",
@@ -117792,7 +117864,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทาน",
-    "audio_en_src": "to eat"
+    "audio_en_src": "to eat",
+    "examples": [
+      {
+        "meaning": "to eat (formal)",
+        "sentences": [
+          {
+            "thai": "เชิญทานข้าวก่อนค่ะ",
+            "en": "Please, eat first.",
+            "audio_src": "เชิญทานข้าวก่อนค่ะ",
+            "audio_en_src": "Please, eat first."
+          },
+          {
+            "thai": "คุณทานอะไรดีคะ",
+            "en": "What would you like to eat?",
+            "audio_src": "คุณทานอะไรดีคะ",
+            "audio_en_src": "What would you like to eat?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-020",
@@ -117807,7 +117898,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำ",
-    "audio_en_src": "to do, to make"
+    "audio_en_src": "to do, to make",
+    "examples": [
+      {
+        "meaning": "to do, to make",
+        "sentences": [
+          {
+            "thai": "เธอทำอะไรอยู่",
+            "en": "What are you doing?",
+            "audio_src": "เธอทำอะไรอยู่",
+            "audio_en_src": "What are you doing?"
+          },
+          {
+            "thai": "แม่ทำกับข้าวอยู่ในครัว",
+            "en": "Mom is making food in the kitchen.",
+            "audio_src": "แม่ทำกับข้าวอยู่ในครัว",
+            "audio_en_src": "Mom is making food in the kitchen."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-021",
@@ -117822,7 +117932,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำงาน",
-    "audio_en_src": "to work"
+    "audio_en_src": "to work",
+    "examples": [
+      {
+        "meaning": "to work",
+        "sentences": [
+          {
+            "thai": "ฉันทำงานที่ธนาคาร",
+            "en": "I work at a bank.",
+            "audio_src": "ฉันทำงานที่ธนาคาร",
+            "audio_en_src": "I work at a bank."
+          },
+          {
+            "thai": "วันนี้ต้องทำงานถึงดึก",
+            "en": "I have to work until late tonight.",
+            "audio_src": "วันนี้ต้องทำงานถึงดึก",
+            "audio_en_src": "I have to work until late tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-022",
@@ -117837,7 +117966,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำไม",
-    "audio_en_src": "why"
+    "audio_en_src": "why",
+    "examples": [
+      {
+        "meaning": "why (question word)",
+        "sentences": [
+          {
+            "thai": "ทำไมมาสาย",
+            "en": "Why are you late?",
+            "audio_src": "ทำไมมาสาย",
+            "audio_en_src": "Why are you late?"
+          },
+          {
+            "thai": "ทำไมเธอไม่บอกฉัน",
+            "en": "Why didn't you tell me?",
+            "audio_src": "ทำไมเธอไม่บอกฉัน",
+            "audio_en_src": "Why didn't you tell me?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-023",
@@ -117852,7 +118000,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นม",
-    "audio_en_src": "milk; breast"
+    "audio_en_src": "milk; breast",
+    "examples": [
+      {
+        "meaning": "milk",
+        "sentences": [
+          {
+            "thai": "เด็กดื่มนมทุกเช้า",
+            "en": "The child drinks milk every morning.",
+            "audio_src": "เด็กดื่มนมทุกเช้า",
+            "audio_en_src": "The child drinks milk every morning."
+          },
+          {
+            "thai": "ขอกาแฟใส่นมหน่อย",
+            "en": "Coffee with milk, please.",
+            "audio_src": "ขอกาแฟใส่นมหน่อย",
+            "audio_en_src": "Coffee with milk, please."
+          }
+        ]
+      },
+      {
+        "meaning": "breast",
+        "sentences": [
+          {
+            "thai": "แม่กำลังให้นมลูก",
+            "en": "The mother is breastfeeding her baby.",
+            "audio_src": "แม่กำลังให้นมลูก",
+            "audio_en_src": "The mother is breastfeeding her baby."
+          },
+          {
+            "thai": "ทารกดูดนมแม่",
+            "en": "The infant nurses at its mother's breast.",
+            "audio_src": "ทารกดูดนมแม่",
+            "audio_en_src": "The infant nurses at its mother's breast."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-024",
@@ -117868,7 +118052,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประเทศ",
-    "audio_en_src": "country, nation"
+    "audio_en_src": "country, nation",
+    "examples": [
+      {
+        "meaning": "country, nation",
+        "sentences": [
+          {
+            "thai": "คุณมาจากประเทศอะไร",
+            "en": "What country are you from?",
+            "audio_src": "คุณมาจากประเทศอะไร",
+            "audio_en_src": "What country are you from?"
+          },
+          {
+            "thai": "ประเทศไทยมีคนเยอะมาก",
+            "en": "Thailand has a lot of people.",
+            "audio_src": "ประเทศไทยมีคนเยอะมาก",
+            "audio_en_src": "Thailand has a lot of people."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-025",
@@ -117883,7 +118086,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประมาณ",
-    "audio_en_src": "approximately, roughly"
+    "audio_en_src": "approximately, roughly",
+    "examples": [
+      {
+        "meaning": "approximately, roughly",
+        "sentences": [
+          {
+            "thai": "ฉันจะถึงประมาณบ่ายสอง",
+            "en": "I'll arrive around two in the afternoon.",
+            "audio_src": "ฉันจะถึงประมาณบ่ายสอง",
+            "audio_en_src": "I'll arrive around two in the afternoon."
+          },
+          {
+            "thai": "งานนี้ใช้เวลาประมาณชั่วโมงนึง",
+            "en": "This takes roughly an hour.",
+            "audio_src": "งานนี้ใช้เวลาประมาณชั่วโมงนึง",
+            "audio_en_src": "This takes roughly an hour."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-026",
@@ -117898,7 +118120,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปี",
-    "audio_en_src": "year"
+    "audio_en_src": "year",
+    "examples": [
+      {
+        "meaning": "year",
+        "sentences": [
+          {
+            "thai": "ปีนี้ฉันอายุสามสิบ",
+            "en": "I turn thirty this year.",
+            "audio_src": "ปีนี้ฉันอายุสามสิบ",
+            "audio_en_src": "I turn thirty this year."
+          },
+          {
+            "thai": "เขาอยู่ที่นี่มาห้าปีแล้ว",
+            "en": "He's lived here for five years.",
+            "audio_src": "เขาอยู่ที่นี่มาห้าปีแล้ว",
+            "audio_en_src": "He's lived here for five years."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-027",

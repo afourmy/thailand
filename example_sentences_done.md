@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1171 words**
+**Total: 1181 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1175,3 +1175,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-014` : ตรง (straight) : 1 meaning(s), 2 sentences
 - `wlt-c21-015` : ตลาด (market) : 1 meaning(s), 2 sentences
 - `wlt-c21-016` : แต่ (but) : 1 meaning(s), 2 sentences
+- `wlt-c21-017` : ถนน (street, road) : 1 meaning(s), 2 sentences
+- `wlt-c21-018` : ทาง (way, path; direction; means, method) : 3 meaning(s), 6 sentences
+- `wlt-c21-019` : ทาน (to eat (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c21-020` : ทำ (to do, to make) : 1 meaning(s), 2 sentences
+- `wlt-c21-021` : ทำงาน (to work) : 1 meaning(s), 2 sentences
+- `wlt-c21-022` : ทำไม (why (question word)) : 1 meaning(s), 2 sentences
+- `wlt-c21-023` : นม (milk; breast) : 2 meaning(s), 4 sentences
+- `wlt-c21-024` : ประเทศ (country, nation) : 1 meaning(s), 2 sentences
+- `wlt-c21-025` : ประมาณ (approximately, roughly) : 1 meaning(s), 2 sentences
+- `wlt-c21-026` : ปี (year) : 1 meaning(s), 2 sentences
