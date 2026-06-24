@@ -1,6 +1,6 @@
 # Words with example sentences
 
-Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec).
+Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
 **Total: 11 words**
 

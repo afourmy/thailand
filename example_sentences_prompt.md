@@ -12,6 +12,42 @@ These sentences should:
 
 In short: keep the sentences simple, make sure they sound like something a native speaker would naturally say (natural Thai for the Thai, natural English for the translation), and always remember that this is a language-learning app built to help learners.
 
-When you are done generating, make a second pass over everything you wrote to check that there are no translation issues and no discrepancies between the Thai and the English: every Thai sentence and its translation should mean the same thing, with nothing added, dropped, or mismatched.
+## Where the sentences go (output format)
 
-Once the sentences are finalized and checked, generate the audio for them by running `gen_example_audio.py`. It synthesizes a Thai and an English clip per sentence, inserts the spoken pauses described above, and records the exact text it spoke (so a later edit to a sentence is detected and only that clip is regenerated). Run it again after any sentence change.
+The vocabulary lives in `vocab.json`: a flat JSON array of word objects, each with at least an `id`, a `thai`, and an `english` field. To add examples to a word, find its object by `id` and add an `examples` array to it.
+
+`examples` is a list of meaning groups, in the same order as the meanings in the word's `english` field (meanings there are separated by semicolons). Each group has a `meaning` label and a list of `sentences`:
+
+```json
+{
+  "id": "chula-l6-185",
+  "thai": "คำ",
+  "english": "word; a mouthful (of food)",
+  "examples": [
+    {
+      "meaning": "word",
+      "sentences": [
+        { "thai": "คำนี้แปลว่าอะไร", "en": "What does this word mean?" },
+        { "thai": "เขาพูดแค่ไม่กี่คำ", "en": "He only said a few words." }
+      ]
+    },
+    {
+      "meaning": "a mouthful (of food)",
+      "sentences": [
+        { "thai": "ขอชิมคำนึงได้ไหม", "en": "Can I have a bite?" },
+        { "thai": "เค้กอร่อยมาก ขออีกคำ", "en": "The cake is so good, one more bite." }
+      ]
+    }
+  ]
+}
+```
+
+- `meaning` is the gloss for that one sense, copied from the matching semicolon-separated segment of the word's `english` (for `"word; a mouthful (of food)"` the two labels are `"word"` and `"a mouthful (of food)"`). For a word with a single meaning, use the whole `english` as the one label.
+- Each group's `sentences` follow all the rules above (at least two per meaning, each `thai` with its `en` translation).
+- Do not add any other fields to the sentences by hand. The audio generator adds `audio_src` / `audio_en_src` to each sentence itself, as provenance; leave those to it.
+
+## When you are done
+
+1. **Second pass.** Re-read everything you wrote and check there are no translation issues and no discrepancies between the Thai and the English: every Thai sentence and its translation should mean the same thing, with nothing added, dropped, or mismatched.
+2. **Update the index.** Run `python3 list_examples.py` to regenerate `example_sentences_done.md` (the list of which words now have examples).
+3. **Generate the audio.** Run `source .tts-credentials && python3 gen_example_audio.py`. It synthesizes a Thai and an English clip per sentence, inserts the spoken pauses described above, writes the files into the sharded `audio/` layout, and records the exact text it spoke (so a later edit to a sentence is detected and only that clip is regenerated). Run it again after any sentence change.

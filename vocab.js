@@ -61,6 +61,18 @@
     return esc(s).replace(/"/g, "&quot;");
   }
 
+  // Audio is sharded across 256 subfolders of audio/ (named "00".."ff") so no folder
+  // grows too large. The bucket is a djb2 hash of the word id, so all of a word's
+  // clips land together. Mirror of shard() in audio_paths.py / audioShard in flashcards.js.
+  function audioShard(id) {
+    var h = 5381;
+    for (var i = 0; i < id.length; i++) h = (h * 33 + id.charCodeAt(i)) >>> 0;
+    return ("0" + (h & 0xff).toString(16)).slice(-2);
+  }
+  function wordAudioUrl(base, id, en) {
+    return base + audioShard(id) + "/" + id + (en ? ".en" : "") + ".mp3";
+  }
+
   // Small copy-to-clipboard control overlaid on flashcards (front shows a copy
   // glyph, switches to a check briefly after a successful copy via .copied).
   var COPY_BTN =
@@ -144,7 +156,7 @@
   // index + sentence index; those mp3s don't exist until generated, so the
   // buttons simply no-op (play() rejects) for now. Kept identical in flashcards.js.
   function exAudioSrc(base, id, mi, si, en) {
-    return base + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
+    return base + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
   }
   function buildExamplesHtml(word, base) {
     var groups = word.examples || [];
@@ -191,8 +203,8 @@
 
   function openExamplesModal(word) {
     stopAudio();
-    var thSpk = wordSpeakerBtn(word.audio ? audioBase + word.id + ".mp3" : "", "Play Thai word");
-    var enSpk = wordSpeakerBtn(word.audio_en ? audioBase + word.id + ".en.mp3" : "", "Play English word");
+    var thSpk = wordSpeakerBtn(word.audio ? wordAudioUrl(audioBase, word.id, false) : "", "Play Thai word");
+    var enSpk = wordSpeakerBtn(word.audio_en ? wordAudioUrl(audioBase, word.id, true) : "", "Play English word");
     var backdrop = document.createElement("div");
     backdrop.className = "vocab-modal-backdrop ex-modal-backdrop";
     backdrop.innerHTML =
@@ -373,8 +385,8 @@
 
   function speakerBtn(word) {
     if (!word.audio && !word.audio_en) return ""; // only where an mp3 exists
-    var th = word.audio ? escAttr(audioBase + word.id + ".mp3") : "";
-    var en = word.audio_en ? escAttr(audioBase + word.id + ".en.mp3") : "";
+    var th = word.audio ? escAttr(wordAudioUrl(audioBase, word.id, false)) : "";
+    var en = word.audio_en ? escAttr(wordAudioUrl(audioBase, word.id, true)) : "";
     return (
       '<button class="vocab-speak" type="button" aria-label="Play pronunciation"' +
       ' title="Play pronunciation" data-audio-th="' + th + '" data-audio-en="' + en + '">' +

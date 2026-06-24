@@ -163,6 +163,15 @@
   }
   function escAttr(s) { return esc(s).replace(/"/g, "&quot;"); }
 
+  // Audio is sharded across 256 subfolders of audio/ (named "00".."ff") so no folder
+  // grows too large. The bucket is a djb2 hash of the word id, so all of a word's
+  // clips land together. Mirror of shard() in audio_paths.py / audioShard in vocab.js.
+  function audioShard(id) {
+    var h = 5381;
+    for (var i = 0; i < id.length; i++) h = (h * 33 + id.charCodeAt(i)) >>> 0;
+    return ("0" + (h & 0xff).toString(16)).slice(-2);
+  }
+
   // ── Example sentences ───────────────────────────────────────────────────────
   // Renders a word's per-meaning example sentences (see vocab.json "examples").
   // Each sentence shows a Thai and an English line, each with its own speaker
@@ -174,7 +183,7 @@
   var EX_BUBBLE_SVG =
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
   function exAudioSrc(base, id, mi, si, en) {
-    return base + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
+    return base + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
   }
   function buildExamplesHtml(word, base) {
     var groups = word.examples || [];
@@ -234,7 +243,7 @@
   // mp3 path for one side of a card, or "" if that side's audio wasn't generated.
   function sideAudio(word, thaiSide) {
     var has = thaiSide ? word.audio : word.audio_en;
-    return has ? audioBase + word.id + (thaiSide ? "" : ".en") + ".mp3" : "";
+    return has ? audioBase + audioShard(word.id) + "/" + word.id + (thaiSide ? "" : ".en") + ".mp3" : "";
   }
 
   // Preload a card's Thai + English audio (warm the browser cache) so its

@@ -2,8 +2,9 @@
 """Generate Thai + English pronunciation MP3s with Azure AI Speech, one per word.
 
 Reads thai/vocab.json, synthesizes audio for the chosen language(s), writes
-thai/audio/<id>.mp3 (Thai) and thai/audio/<id>.en.mp3 (English), and flags each
-word with "audio" / "audio_en": true so the page shows a speaker button only
+thai/audio/<shard>/<id>.mp3 (Thai) and thai/audio/<shard>/<id>.en.mp3 (English),
+where <shard> is a 2-hex-digit bucket of the word id (see audio_paths.py), and flags
+each word with "audio" / "audio_en": true so the page shows a speaker button only
 where audio exists. Idempotent: skips words whose mp3 already exists unless
 --force.
 
@@ -29,6 +30,8 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 from xml.sax.saxutils import escape
+
+import audio_paths
 
 HERE = Path(__file__).resolve().parent  # .../thai
 VOCAB = HERE / "vocab.json"
@@ -126,7 +129,7 @@ def main():
     for word in targets:
         for lc in selected:
             cfg = LANGS[lc]
-            out = AUDIO_DIR / (word["id"] + cfg["suffix"] + ".mp3")
+            out = AUDIO_DIR / audio_paths.word_audio_rel(word["id"], en=(lc == "en"))
             ok = out.exists()
             if ok and not args.force:
                 print("skip (exists):", out.name)
@@ -137,6 +140,7 @@ def main():
                     continue
                 try:
                     audio = synth(spoken, cfg["voice"], cfg["xmllang"], key, region)
+                    out.parent.mkdir(parents=True, exist_ok=True)
                     out.write_bytes(audio)
                     ok = True
                     print("wrote:", out.name, "(%d bytes)" % len(audio), spoken)

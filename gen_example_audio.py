@@ -6,10 +6,11 @@ one Thai and one English clip per sentence, writing them under thai/audio/ using
 naming convention the flashcard/vocab UI expects (see exAudioSrc in flashcards.js /
 vocab.js):
 
-  audio/<id>.ex<mi>_<si>.mp3      Thai sentence
-  audio/<id>.ex<mi>_<si>.en.mp3   English sentence
+  audio/<shard>/<id>.ex<mi>_<si>.mp3      Thai sentence
+  audio/<shard>/<id>.ex<mi>_<si>.en.mp3   English sentence
 
-where <mi> is the 0-based meaning index and <si> the 0-based sentence index.
+where <mi> is the 0-based meaning index, <si> the 0-based sentence index, and <shard>
+is a 2-hex-digit bucket of the word id (see audio_paths.py).
 
 After synthesizing a clip, the exact spoken text is recorded back onto the sentence
 object as "audio_src" (Thai) / "audio_en_src" (English) -- the same provenance
@@ -36,6 +37,8 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 from xml.sax.saxutils import escape
+
+import audio_paths
 
 HERE = Path(__file__).resolve().parent
 VOCAB = HERE / "vocab.json"
@@ -140,7 +143,8 @@ def main():
                 for lc in selected:
                     cfg = LANGS[lc]
                     src_key = SRC_KEY[lc]
-                    out = AUDIO_DIR / ("%s.ex%d_%d%s.mp3" % (word["id"], mi, si, cfg["suffix"]))
+                    out = AUDIO_DIR / audio_paths.example_audio_rel(
+                        word["id"], mi, si, en=(lc == "en"))
                     spoken = speakable(sent.get(cfg["key"], ""))
                     if not spoken:
                         print("skip (empty %s):" % lc, out.name)
@@ -152,6 +156,7 @@ def main():
                     try:
                         body = thai_body(spoken) if lc == "th" else escape(spoken)
                         audio = synth(body, cfg["voice"], cfg["xmllang"], key, region)
+                        out.parent.mkdir(parents=True, exist_ok=True)
                         out.write_bytes(audio)
                         sent[src_key] = spoken  # record exactly what was synthesized
                         changed = True
