@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 521 words**
+**Total: 531 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -522,6 +522,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-017` : บางอย่าง (something) : 1 meaning(s), 2 sentences
 - `wlt-c03-023` : แบบไหน (what type?) : 1 meaning(s), 2 sentences
 - `wlt-c03-036` : ปีที่แล้ว (last year) : 1 meaning(s), 2 sentences
+- `wlt-c03-037` : ปีนี้ (this year) : 1 meaning(s), 2 sentences
+- `wlt-c03-038` : ปีหน้า (next year) : 1 meaning(s), 2 sentences
+- `wlt-c03-039` : ปู่ย่าตายาย (grandparents) : 1 meaning(s), 2 sentences
+- `wlt-c03-042` : เป็นห่วง (to be worried, to be concerned about) : 1 meaning(s), 2 sentences
+- `wlt-c03-043` : แปดสิบ (eighty (80)) : 1 meaning(s), 2 sentences
+- `wlt-c03-053` : ผัดไทย (pad thai) : 1 meaning(s), 2 sentences
+- `wlt-c03-059` : พรุ่งนี้เช้า (tomorrow morning) : 1 meaning(s), 2 sentences
+- `wlt-c03-078` : มากกว่า (more (than something else)) : 1 meaning(s), 2 sentences
+- `wlt-c03-085` : มีนัด (to have an appointment) : 1 meaning(s), 2 sentences
+- `wlt-c03-091` : เมื่อคืน, เมื่อคืนนี้ (last night) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
