@@ -8586,7 +8586,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คำ",
-    "audio_en_src": "word; a mouthful"
+    "audio_en_src": "word; a mouthful",
+    "examples": [
+      {
+        "meaning": "word",
+        "sentences": [
+          {
+            "thai": "คำนี้แปลว่าอะไร",
+            "en": "What does this word mean?"
+          },
+          {
+            "thai": "เขาพูดแค่ไม่กี่คำ",
+            "en": "He only said a few words."
+          }
+        ]
+      },
+      {
+        "meaning": "a mouthful (of food)",
+        "sentences": [
+          {
+            "thai": "ขอชิมคำนึงได้ไหม",
+            "en": "Can I have a bite?"
+          },
+          {
+            "thai": "เค้กอร่อยมาก ขออีกคำ",
+            "en": "The cake is so good, one more bite."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-186",
