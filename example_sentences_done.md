@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 721 words**
+**Total: 731 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -723,5 +723,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-011` : ล่าง (lower, bottom) : 1 meaning(s), 2 sentences
 - `wlt-c12-016` : ลูกค้า (customer) : 1 meaning(s), 2 sentences
 - `wlt-c12-017` : ลูกชาย (son) : 1 meaning(s), 2 sentences
+- `wlt-c12-019` : เลิก (to stop, end, quit, break up) : 1 meaning(s), 3 sentences
+- `wlt-c12-023` : วัตถุ (object, material) : 1 meaning(s), 2 sentences
+- `wlt-c12-024` : วันเกิด (birthday) : 1 meaning(s), 2 sentences
+- `wlt-c12-025` : วิศวกร (engineer) : 1 meaning(s), 2 sentences
+- `wlt-c12-029` : สถานที่ (place, location) : 1 meaning(s), 2 sentences
+- `wlt-c12-032` : สบายดี (to feel well, to be okay) : 1 meaning(s), 2 sentences
+- `wlt-c12-038` : สวัสดี (hello (used for greeting or leavetaking)) : 1 meaning(s), 2 sentences
+- `wlt-c12-039` : สามสิบ (thirty (30)) : 1 meaning(s), 2 sentences
+- `wlt-c12-045` : สีเงิน (silver (colour)) : 1 meaning(s), 2 sentences
+- `wlt-c12-047` : สีส้ม (orange) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
