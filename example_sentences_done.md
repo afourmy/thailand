@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 251 words**
+**Total: 261 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -250,6 +250,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-232` : เข้าเรียน (to attend a class) : 1 meaning(s), 2 sentences
 - `tamago-l3-233` : เรียนจบ (to graduate, to finish studies) : 1 meaning(s), 2 sentences
 - `tamago-l3-234` : อยู่ๆ (suddenly, out of nowhere) : 1 meaning(s), 2 sentences
+- `tamago-l3-266` : กำลังใจ (encouragement, moral support) : 1 meaning(s), 2 sentences
+- `tamago-l3-276` : ทัก, ทักทาย (to greet, to say hi) : 1 meaning(s), 2 sentences
+- `tamago-l3-281` : แอด (to add (e.g friend on social media)) : 1 meaning(s), 2 sentences
+- `tamago-l3-284` : รำคาญ (annoyed) : 1 meaning(s), 2 sentences
+- `tamago-l3-292` : เหลือเกิน (too much, extremely) : 1 meaning(s), 2 sentences
+- `tamago-l3-295` : ประมาณว่า... ('roughly speaking, ...', 'something like...') : 1 meaning(s), 2 sentences
+- `tamago-l3-316` : บ้านเรา ((colloquial) refers to Thailand, 'our country') : 1 meaning(s), 2 sentences
+- `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ('whatever!', 'never mind', 'forget about it!') : 1 meaning(s), 2 sentences
+- `tamago-l3-356` : สั่ง (to order (someone to do sth, food, goods)) : 1 meaning(s), 3 sentences
+- `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
