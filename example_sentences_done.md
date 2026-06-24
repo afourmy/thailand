@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1001 words**
+**Total: 1011 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1004,4 +1004,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-075` : ห้อง (room) : 1 meaning(s), 2 sentences
 - `wlt-c17-076` : หอม (to kiss (Thai style, on the cheek); to smell good) : 2 meaning(s), 4 sentences
 - `wlt-c17-078` : หู (ear) : 1 meaning(s), 2 sentences
+- `wlt-c17-079` : เหมือนกัน (too, also, the same) : 1 meaning(s), 2 sentences
+- `wlt-c17-080` : อยาก (to want) : 1 meaning(s), 2 sentences
+- `wlt-c17-081` : อ้วน (fat) : 1 meaning(s), 2 sentences
+- `wlt-c17-082` : ออก (to go out, leave, exit) : 1 meaning(s), 2 sentences
+- `wlt-c17-083` : อิ่ม (full (from eating)) : 1 meaning(s), 2 sentences
+- `wlt-c17-084` : เอง (oneself) : 1 meaning(s), 2 sentences
+- `wlt-c17-085` : กลับบ้าน (to go home) : 1 meaning(s), 2 sentences
+- `wlt-c17-089` : กาแฟเย็น (iced coffee) : 1 meaning(s), 2 sentences
+- `wlt-c17-090` : กาแฟร้อน (hot coffee) : 1 meaning(s), 2 sentences
+- `wlt-c17-091` : กินยา (to take medicine) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
