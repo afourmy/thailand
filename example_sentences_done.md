@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 901 words**
+**Total: 911 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -904,4 +904,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-031` : สบาย (well, comfortable) : 1 meaning(s), 2 sentences
 - `wlt-c16-032` : สบู่, สบู่หอม (soap) : 1 meaning(s), 2 sentences
 - `wlt-c16-033` : ส้ม (orange) : 1 meaning(s), 2 sentences
+- `wlt-c16-037` : สัตว์ (animal) : 1 meaning(s), 2 sentences
+- `wlt-c16-039` : สัปดาห์ (week (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c16-040` : สาม ๓ (three (3)) : 1 meaning(s), 2 sentences
+- `wlt-c16-041` : สีเทา (grey) : 1 meaning(s), 2 sentences
+- `wlt-c16-042` : สีน้ำตาล (brown) : 1 meaning(s), 2 sentences
+- `wlt-c16-044` : สีเหลือง (yellow) : 1 meaning(s), 2 sentences
+- `wlt-c16-045` : สูบ (to draw on, pump, smoke) : 1 meaning(s), 3 sentences
+- `wlt-c16-047` : หมด (all gone, used up, finished) : 1 meaning(s), 2 sentences
+- `wlt-c16-048` : หมอฟัน (dentist (informal)) : 1 meaning(s), 2 sentences
+- `wlt-c16-050` : หยุด (to stop) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

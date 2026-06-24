@@ -107035,7 +107035,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สัตว์",
-    "audio_en_src": "animal"
+    "audio_en_src": "animal",
+    "examples": [
+      {
+        "meaning": "animal",
+        "sentences": [
+          {
+            "thai": "ในสวนสัตว์มีสัตว์หลายชนิด",
+            "en": "There are many kinds of animals in the zoo.",
+            "audio_src": "ในสวนสัตว์มีสัตว์หลายชนิด",
+            "audio_en_src": "There are many kinds of animals in the zoo."
+          },
+          {
+            "thai": "เขารักสัตว์ เลี้ยงหมาไว้สามตัว",
+            "en": "He loves animals, he keeps three dogs.",
+            "audio_src": "เขารักสัตว์ เลี้ยงหมาไว้สามตัว",
+            "audio_en_src": "He loves animals, he keeps three dogs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-038",
@@ -107060,7 +107079,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สัปดาห์",
-    "audio_en_src": "week"
+    "audio_en_src": "week",
+    "examples": [
+      {
+        "meaning": "week (formal)",
+        "sentences": [
+          {
+            "thai": "การประชุมจัดขึ้นสัปดาห์ละครั้ง",
+            "en": "The meeting is held once a week.",
+            "audio_src": "การประชุมจัดขึ้นสัปดาห์ละครั้ง",
+            "audio_en_src": "The meeting is held once a week."
+          },
+          {
+            "thai": "สัปดาห์หน้ามีวันหยุดยาว",
+            "en": "Next week there's a long holiday.",
+            "audio_src": "สัปดาห์หน้ามีวันหยุดยาว",
+            "audio_en_src": "Next week there's a long holiday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-040",
@@ -107074,7 +107112,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สาม ๓",
-    "audio_en_src": "three"
+    "audio_en_src": "three",
+    "examples": [
+      {
+        "meaning": "three (3)",
+        "sentences": [
+          {
+            "thai": "ฉันมีพี่น้องสามคน",
+            "en": "I have three siblings.",
+            "audio_src": "ฉันมีพี่น้องสามคน",
+            "audio_en_src": "I have three siblings."
+          },
+          {
+            "thai": "รอสามนาทีแล้วค่อยเปิด",
+            "en": "Wait three minutes, then open it.",
+            "audio_src": "รอสามนาทีแล้วค่อยเปิด",
+            "audio_en_src": "Wait three minutes, then open it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-041",
@@ -107088,7 +107145,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีเทา",
-    "audio_en_src": "grey"
+    "audio_en_src": "grey",
+    "examples": [
+      {
+        "meaning": "grey",
+        "sentences": [
+          {
+            "thai": "ท้องฟ้าสีเทา ฝนน่าจะตก",
+            "en": "The sky is grey, it'll probably rain.",
+            "audio_src": "ท้องฟ้าสีเทา ฝนน่าจะตก",
+            "audio_en_src": "The sky is grey, it'll probably rain."
+          },
+          {
+            "thai": "เขาใส่เสื้อสีเทาเรียบๆ",
+            "en": "He's wearing a plain grey shirt.",
+            "audio_src": "เขาใส่เสื้อสีเทาเรียบๆ",
+            "audio_en_src": "He's wearing a plain grey shirt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-042",
@@ -107102,7 +107178,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีน้ำตาล",
-    "audio_en_src": "brown"
+    "audio_en_src": "brown",
+    "examples": [
+      {
+        "meaning": "brown",
+        "sentences": [
+          {
+            "thai": "กระเป๋าหนังสีน้ำตาลใบนี้สวย",
+            "en": "This brown leather bag is nice.",
+            "audio_src": "กระเป๋าหนังสีน้ำตาลใบนี้สวย",
+            "audio_en_src": "This brown leather bag is nice."
+          },
+          {
+            "thai": "ผมของเธอเป็นสีน้ำตาลอ่อน",
+            "en": "Her hair is light brown.",
+            "audio_src": "ผมของเธอเป็นสีน้ำตาลอ่อน",
+            "audio_en_src": "Her hair is light brown."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-043",
@@ -107127,7 +107222,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีเหลือง",
-    "audio_en_src": "yellow"
+    "audio_en_src": "yellow",
+    "examples": [
+      {
+        "meaning": "yellow",
+        "sentences": [
+          {
+            "thai": "ดอกทานตะวันสีเหลืองสดใส",
+            "en": "Sunflowers are bright yellow.",
+            "audio_src": "ดอกทานตะวันสีเหลืองสดใส",
+            "audio_en_src": "Sunflowers are bright yellow."
+          },
+          {
+            "thai": "ไฟเหลืองแปลว่าให้ชะลอ",
+            "en": "A yellow light means slow down.",
+            "audio_src": "ไฟเหลืองแปลว่าให้ชะลอ",
+            "audio_en_src": "A yellow light means slow down."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-045",
@@ -107142,7 +107256,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สูบ",
-    "audio_en_src": "to draw on, pump, smoke"
+    "audio_en_src": "to draw on, pump, smoke",
+    "examples": [
+      {
+        "meaning": "to draw on, pump, smoke",
+        "sentences": [
+          {
+            "thai": "ที่นี่ห้ามสูบบุหรี่",
+            "en": "No smoking here.",
+            "audio_src": "ที่นี่ห้ามสูบบุหรี่",
+            "audio_en_src": "No smoking here."
+          },
+          {
+            "thai": "สูบลมยางรถจักรยาน",
+            "en": "Pump up the bike tires.",
+            "audio_src": "สูบลมยางรถจักรยาน",
+            "audio_en_src": "Pump up the bike tires."
+          },
+          {
+            "thai": "เครื่องสูบน้ำออกจากบ่อ",
+            "en": "The machine pumps water out of the pond.",
+            "audio_src": "เครื่องสูบน้ำออกจากบ่อ",
+            "audio_en_src": "The machine pumps water out of the pond."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-046",
@@ -107168,7 +107307,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมด",
-    "audio_en_src": "all gone, used up, finished"
+    "audio_en_src": "all gone, used up, finished",
+    "examples": [
+      {
+        "meaning": "all gone, used up, finished",
+        "sentences": [
+          {
+            "thai": "น้ำมันรถหมดแล้ว ต้องเติม",
+            "en": "The car's out of gas, I need to fill up.",
+            "audio_src": "น้ำมันรถหมดแล้ว ต้องเติม",
+            "audio_en_src": "The car's out of gas, I need to fill up."
+          },
+          {
+            "thai": "ขนมหมดแล้ว ไม่เหลือเลย",
+            "en": "The snacks are all gone, none left.",
+            "audio_src": "ขนมหมดแล้ว ไม่เหลือเลย",
+            "audio_en_src": "The snacks are all gone, none left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-048",
@@ -107182,7 +107340,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมอฟัน",
-    "audio_en_src": "dentist"
+    "audio_en_src": "dentist",
+    "examples": [
+      {
+        "meaning": "dentist (informal)",
+        "sentences": [
+          {
+            "thai": "ฟันผุต้องไปหาหมอฟัน",
+            "en": "I have a cavity, I need to see the dentist.",
+            "audio_src": "ฟันผุต้องไปหาหมอฟัน",
+            "audio_en_src": "I have a cavity, I need to see the dentist."
+          },
+          {
+            "thai": "ฉันกลัวหมอฟันตั้งแต่เด็ก",
+            "en": "I've been afraid of the dentist since I was a kid.",
+            "audio_src": "ฉันกลัวหมอฟันตั้งแต่เด็ก",
+            "audio_en_src": "I've been afraid of the dentist since I was a kid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-049",
@@ -107208,7 +107385,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หยุด",
-    "audio_en_src": "to stop"
+    "audio_en_src": "to stop",
+    "examples": [
+      {
+        "meaning": "to stop",
+        "sentences": [
+          {
+            "thai": "รถหยุดตรงไฟแดง",
+            "en": "The car stopped at the red light.",
+            "audio_src": "รถหยุดตรงไฟแดง",
+            "audio_en_src": "The car stopped at the red light."
+          },
+          {
+            "thai": "หยุดพูดได้แล้ว ฉันปวดหัว",
+            "en": "Stop talking, I have a headache.",
+            "audio_src": "หยุดพูดได้แล้ว ฉันปวดหัว",
+            "audio_en_src": "Stop talking, I have a headache."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-051",
