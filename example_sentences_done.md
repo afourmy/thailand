@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 681 words**
+**Total: 691 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -683,5 +683,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-098` : ทุกวัน (daily, every day) : 1 meaning(s), 2 sentences
 - `wlt-c10-099` : ทุ่ม (o'clock (7pm - 11pm)) : 1 meaning(s), 2 sentences
 - `wlt-c11-000` : เท่ากัน (the same, equal) : 1 meaning(s), 2 sentences
+- `wlt-c11-001` : เที่ยงคืน (midnight) : 1 meaning(s), 2 sentences
+- `wlt-c11-003` : โทร (to call (by phone)) : 1 meaning(s), 2 sentences
+- `wlt-c11-010` : นักเขียน (writer) : 1 meaning(s), 2 sentences
+- `wlt-c11-013` : นักร้อง (singer) : 1 meaning(s), 2 sentences
+- `wlt-c11-014` : นับ (to count) : 1 meaning(s), 2 sentences
+- `wlt-c11-016` : น่ากลัว (scary, frightening) : 1 meaning(s), 2 sentences
+- `wlt-c11-019` : นำ (to bring; to lead, to guide) : 2 meaning(s), 4 sentences
+- `wlt-c11-021` : น้ำหนัก (weight) : 1 meaning(s), 2 sentences
+- `wlt-c11-022` : น้ำหอม (perfume) : 1 meaning(s), 2 sentences
+- `wlt-c11-023` : นึก (to think) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
