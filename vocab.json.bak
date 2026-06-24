@@ -119303,7 +119303,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใต้",
-    "audio_en_src": "south; under"
+    "audio_en_src": "south; under",
+    "examples": [
+      {
+        "meaning": "south",
+        "sentences": [
+          {
+            "thai": "บ้านเขาอยู่ทางใต้",
+            "en": "His home is in the south.",
+            "audio_src": "บ้านเขาอยู่ทางใต้",
+            "audio_en_src": "His home is in the south."
+          },
+          {
+            "thai": "ภาคใต้ฝนตกบ่อย",
+            "en": "It rains often in the south.",
+            "audio_src": "ภาคใต้ฝนตกบ่อย",
+            "audio_en_src": "It rains often in the south."
+          }
+        ]
+      },
+      {
+        "meaning": "under",
+        "sentences": [
+          {
+            "thai": "แมวหลบอยู่ใต้โต๊ะ",
+            "en": "The cat is hiding under the table.",
+            "audio_src": "แมวหลบอยู่ใต้โต๊ะ",
+            "audio_en_src": "The cat is hiding under the table."
+          },
+          {
+            "thai": "รองเท้าอยู่ใต้เตียง",
+            "en": "The shoes are under the bed.",
+            "audio_src": "รองเท้าอยู่ใต้เตียง",
+            "audio_en_src": "The shoes are under the bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-062",
@@ -119318,7 +119354,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถูก",
-    "audio_en_src": "right, correct; cheap"
+    "audio_en_src": "right, correct; cheap",
+    "examples": [
+      {
+        "meaning": "right, correct",
+        "sentences": [
+          {
+            "thai": "คำตอบนี้ถูกไหม",
+            "en": "Is this answer correct?",
+            "audio_src": "คำตอบนี้ถูกไหม",
+            "audio_en_src": "Is this answer correct?"
+          },
+          {
+            "thai": "เธอพูดถูกแล้ว",
+            "en": "You're right.",
+            "audio_src": "เธอพูดถูกแล้ว",
+            "audio_en_src": "You're right."
+          }
+        ]
+      },
+      {
+        "meaning": "cheap",
+        "sentences": [
+          {
+            "thai": "ผลไม้ที่ตลาดถูกมาก",
+            "en": "The fruit at the market is really cheap.",
+            "audio_src": "ผลไม้ที่ตลาดถูกมาก",
+            "audio_en_src": "The fruit at the market is really cheap."
+          },
+          {
+            "thai": "ของถูกแต่คุณภาพดี",
+            "en": "It's cheap but good quality.",
+            "audio_src": "ของถูกแต่คุณภาพดี",
+            "audio_en_src": "It's cheap but good quality."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-063",
@@ -119333,7 +119405,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เที่ยง, เที่ยงวัน",
-    "audio_en_src": "noon, midday"
+    "audio_en_src": "noon, midday",
+    "examples": [
+      {
+        "meaning": "noon, midday",
+        "sentences": [
+          {
+            "thai": "เที่ยงแล้ว ไปกินข้าวกัน",
+            "en": "It's noon, let's go eat.",
+            "audio_src": "เที่ยงแล้ว ไปกินข้าวกัน",
+            "audio_en_src": "It's noon, let's go eat."
+          },
+          {
+            "thai": "เที่ยงวันแดดร้อนมาก",
+            "en": "At midday the sun is very hot.",
+            "audio_src": "เที่ยงวันแดดร้อนมาก",
+            "audio_en_src": "At midday the sun is very hot."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-064",
@@ -119348,7 +119439,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปู่",
-    "audio_en_src": "paternal grandfather"
+    "audio_en_src": "paternal grandfather",
+    "examples": [
+      {
+        "meaning": "paternal grandfather",
+        "sentences": [
+          {
+            "thai": "ปู่ฉันอายุแปดสิบแล้ว",
+            "en": "My grandfather is eighty now.",
+            "audio_src": "ปู่ฉันอายุแปดสิบแล้ว",
+            "audio_en_src": "My grandfather is eighty now."
+          },
+          {
+            "thai": "วันหยุดฉันไปหาปู่",
+            "en": "I visit my grandfather on holidays.",
+            "audio_src": "วันหยุดฉันไปหาปู่",
+            "audio_en_src": "I visit my grandfather on holidays."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-065",
@@ -119363,7 +119473,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มี",
-    "audio_en_src": "to have"
+    "audio_en_src": "to have",
+    "examples": [
+      {
+        "meaning": "to have",
+        "sentences": [
+          {
+            "thai": "ฉันมีพี่น้องสามคน",
+            "en": "I have three siblings.",
+            "audio_src": "ฉันมีพี่น้องสามคน",
+            "audio_en_src": "I have three siblings."
+          },
+          {
+            "thai": "มีเวลาคุยไหม",
+            "en": "Do you have time to talk?",
+            "audio_src": "มีเวลาคุยไหม",
+            "audio_en_src": "Do you have time to talk?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-066",
@@ -119378,7 +119507,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มีด",
-    "audio_en_src": "knife"
+    "audio_en_src": "knife",
+    "examples": [
+      {
+        "meaning": "knife",
+        "sentences": [
+          {
+            "thai": "มีดเล่มนี้คมมาก",
+            "en": "This knife is very sharp.",
+            "audio_src": "มีดเล่มนี้คมมาก",
+            "audio_en_src": "This knife is very sharp."
+          },
+          {
+            "thai": "ใช้มีดหั่นผักให้หน่อย",
+            "en": "Use the knife to cut the vegetables, please.",
+            "audio_src": "ใช้มีดหั่นผักให้หน่อย",
+            "audio_en_src": "Use the knife to cut the vegetables, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-067",
@@ -119393,7 +119541,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รถ",
-    "audio_en_src": "car, vehicle"
+    "audio_en_src": "car, vehicle",
+    "examples": [
+      {
+        "meaning": "car, vehicle",
+        "sentences": [
+          {
+            "thai": "รถของฉันเสีย",
+            "en": "My car broke down.",
+            "audio_src": "รถของฉันเสีย",
+            "audio_en_src": "My car broke down."
+          },
+          {
+            "thai": "ถนนนี้รถเยอะมาก",
+            "en": "There are a lot of vehicles on this road.",
+            "audio_src": "ถนนนี้รถเยอะมาก",
+            "audio_en_src": "There are a lot of vehicles on this road."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-068",
@@ -119408,7 +119575,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ล้าง",
-    "audio_en_src": "to wash"
+    "audio_en_src": "to wash",
+    "examples": [
+      {
+        "meaning": "to wash (e.g dishes, hands)",
+        "sentences": [
+          {
+            "thai": "ล้างมือก่อนกินข้าว",
+            "en": "Wash your hands before eating.",
+            "audio_src": "ล้างมือก่อนกินข้าว",
+            "audio_en_src": "Wash your hands before eating."
+          },
+          {
+            "thai": "ใครจะล้างจานคืนนี้",
+            "en": "Who's going to wash the dishes tonight?",
+            "audio_src": "ใครจะล้างจานคืนนี้",
+            "audio_en_src": "Who's going to wash the dishes tonight?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-069",
@@ -119423,7 +119609,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีดำ",
-    "audio_en_src": "black"
+    "audio_en_src": "black",
+    "examples": [
+      {
+        "meaning": "black",
+        "sentences": [
+          {
+            "thai": "ฉันชอบใส่เสื้อสีดำ",
+            "en": "I like wearing black shirts.",
+            "audio_src": "ฉันชอบใส่เสื้อสีดำ",
+            "audio_en_src": "I like wearing black shirts."
+          },
+          {
+            "thai": "แมวสีดำนอนอยู่บนเก้าอี้",
+            "en": "The black cat is sleeping on the chair.",
+            "audio_src": "แมวสีดำนอนอยู่บนเก้าอี้",
+            "audio_en_src": "The black cat is sleeping on the chair."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-070",
@@ -119438,7 +119643,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีแดง",
-    "audio_en_src": "red"
+    "audio_en_src": "red",
+    "examples": [
+      {
+        "meaning": "red",
+        "sentences": [
+          {
+            "thai": "ดอกกุหลาบสีแดงสวยมาก",
+            "en": "The red roses are very beautiful.",
+            "audio_src": "ดอกกุหลาบสีแดงสวยมาก",
+            "audio_en_src": "The red roses are very beautiful."
+          },
+          {
+            "thai": "เขาขับรถสีแดง",
+            "en": "He drives a red car.",
+            "audio_src": "เขาขับรถสีแดง",
+            "audio_en_src": "He drives a red car."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-071",

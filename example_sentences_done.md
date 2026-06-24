@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1221 words**
+**Total: 1231 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1225,3 +1225,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-068` : ล้าง (to wash (e.g dishes, hands)) : 1 meaning(s), 2 sentences
 - `wlt-c21-069` : สีดำ (black) : 1 meaning(s), 2 sentences
 - `wlt-c21-070` : สีแดง (red) : 1 meaning(s), 2 sentences
+- `wlt-c21-071` : หนาว (cold) : 1 meaning(s), 2 sentences
+- `wlt-c21-072` : ใหม่ (new; again) : 2 meaning(s), 4 sentences
+- `wlt-c21-073` : กับ (with) : 1 meaning(s), 2 sentences
+- `wlt-c21-074` : ตัว (body; classifier for animals, clothes, furniture, etc) : 2 meaning(s), 4 sentences
+- `wlt-c21-076` : โทรศัพท์ (phone) : 1 meaning(s), 2 sentences
+- `wlt-c21-077` : ใน (in) : 1 meaning(s), 2 sentences
+- `wlt-c21-078` : ผม (I (male speaker); hair) : 2 meaning(s), 4 sentences
+- `wlt-c21-079` : หลัง (behind, back; classifier for houses and buildings) : 2 meaning(s), 4 sentences
+- `wlt-c21-080` : ใหญ่ (big, large) : 1 meaning(s), 2 sentences
+- `t4k-c01-001` : เรา (we; us) : 1 meaning(s), 2 sentences
