@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 361 words**
+**Total: 391 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -360,7 +360,37 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1085` : หัวเราะ (to laugh) : 1 meaning(s), 2 sentences
 - `thaipod-1096` : อดทน (to endure, to be patient) : 1 meaning(s), 2 sentences
 - `thaipod-1098` : อบอุ่น (warm) : 1 meaning(s), 2 sentences
+- `thaipod-1104` : อย่างนี้ (like this, this way) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
+- `thaipod-1127` : อันไหน (which one) : 1 meaning(s), 2 sentences
+- `thaipod-1134` : อาย (shy, embarrassed) : 1 meaning(s), 2 sentences
+- `thaipod-1153` : เกลียด (to hate) : 1 meaning(s), 2 sentences
+- `thaipod-1160` : เก่ง (talented, good at) : 1 meaning(s), 2 sentences
+- `thaipod-1169` : เครื่อง (machine, device) : 1 meaning(s), 2 sentences
+- `thaipod-1178` : เค้า ((informal) he, she, I) : 1 meaning(s), 2 sentences
+- `thaipod-1209` : เถอะ (let's, suggestive particle) : 1 meaning(s), 2 sentences
+- `thaipod-1218` : เท่านั้น (only, just) : 1 meaning(s), 2 sentences
+- `thaipod-1223` : เบา (light; gently, softly) : 2 meaning(s), 4 sentences
+- `thaipod-1243` : เพื่อ (for, in order to) : 1 meaning(s), 2 sentences
+- `thaipod-1247` : เมื่อก่อน (previously, in the past) : 1 meaning(s), 2 sentences
+- `thaipod-1249` : เริ่ม, เริ่มต้น (to begin, to start) : 1 meaning(s), 2 sentences
+- `thaipod-1262` : เลี้ยง (to feed, to treat, to raise) : 1 meaning(s), 3 sentences
+- `thaipod-1264` : เล่า (to tell (a story)) : 1 meaning(s), 2 sentences
+- `thaipod-1288` : เหนือ (above, over; north) : 2 meaning(s), 4 sentences
+- `thaipod-1297` : เอาละ (alright, well then) : 1 meaning(s), 2 sentences
+- `thaipod-1301` : แก (you (informal)) : 1 meaning(s), 2 sentences
+- `thaipod-1304` : แก้ (to fix, to solve, to correct) : 1 meaning(s), 3 sentences
+- `thaipod-1309` : แต่ง (to dress up, to compose, to decorate) : 1 meaning(s), 3 sentences
+- `thaipod-1311` : แต่งหน้า (to put on makeup) : 1 meaning(s), 2 sentences
+- `thaipod-1313` : แต่ละ (each, every) : 1 meaning(s), 2 sentences
+- `thaipod-1317` : แถว (area, neighborhood; row) : 2 meaning(s), 4 sentences
+- `thaipod-1318` : แทน (instead of, in place of) : 1 meaning(s), 2 sentences
+- `thaipod-1326` : แน่ๆ (definitely, for sure) : 1 meaning(s), 2 sentences
+- `thaipod-1329` : แบ่ง (to divide, to separate; to share) : 2 meaning(s), 4 sentences
+- `thaipod-1331` : แผ่น (sheet, classifier for thin flat objects) : 1 meaning(s), 2 sentences
+- `thaipod-1340` : แรง (strength, force) : 1 meaning(s), 2 sentences
+- `thaipod-1342` : แวะ (to stop by, to drop in) : 1 meaning(s), 2 sentences
+- `thaipod-1361` : โง่ (stupid, foolish) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences

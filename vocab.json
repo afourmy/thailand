@@ -50495,11 +50495,15 @@
         "sentences": [
           {
             "thai": "บ้านอยู่ใกล้รถไฟฟ้า เดินทางสะดวก",
-            "en": "My place is near the BTS, so getting around is convenient."
+            "en": "My place is near the BTS, so getting around is convenient.",
+            "audio_src": "บ้านอยู่ใกล้รถไฟฟ้า เดินทางสะดวก",
+            "audio_en_src": "My place is near the BTS, so getting around is convenient."
           },
           {
             "thai": "พรุ่งนี้เธอสะดวกกี่โมง",
-            "en": "What time works for you tomorrow?"
+            "en": "What time works for you tomorrow?",
+            "audio_src": "พรุ่งนี้เธอสะดวกกี่โมง",
+            "audio_en_src": "What time works for you tomorrow?"
           }
         ]
       }
@@ -50901,11 +50905,15 @@
         "sentences": [
           {
             "thai": "กินผักเยอะๆดีต่อสุขภาพ",
-            "en": "Eating lots of vegetables is good for your health."
+            "en": "Eating lots of vegetables is good for your health.",
+            "audio_src": "กินผักเยอะๆดีต่อสุขภาพ",
+            "audio_en_src": "Eating lots of vegetables is good for your health."
           },
           {
             "thai": "เขาดูแลสุขภาพดีมาก",
-            "en": "He takes really good care of his health."
+            "en": "He takes really good care of his health.",
+            "audio_src": "เขาดูแลสุขภาพดีมาก",
+            "audio_en_src": "He takes really good care of his health."
           }
         ]
       }
@@ -50944,11 +50952,15 @@
         "sentences": [
           {
             "thai": "สุดท้ายเราก็ไปถึงที่หมาย",
-            "en": "Finally we reached our destination."
+            "en": "Finally we reached our destination.",
+            "audio_src": "สุดท้ายเราก็ไปถึงที่หมาย",
+            "audio_en_src": "Finally we reached our destination."
           },
           {
             "thai": "เขามาเป็นคนสุดท้าย",
-            "en": "He was the last one to arrive."
+            "en": "He was the last one to arrive.",
+            "audio_src": "เขามาเป็นคนสุดท้าย",
+            "audio_en_src": "He was the last one to arrive."
           }
         ]
       }
@@ -51117,11 +51129,15 @@
         "sentences": [
           {
             "thai": "มีหนูวิ่งอยู่ในครัว",
-            "en": "There's a mouse running around in the kitchen."
+            "en": "There's a mouse running around in the kitchen.",
+            "audio_src": "มีหนูวิ่งอยู่ในครัว",
+            "audio_en_src": "There's a mouse running around in the kitchen."
           },
           {
             "thai": "แมวจับหนูได้แล้ว",
-            "en": "The cat caught the mouse."
+            "en": "The cat caught the mouse.",
+            "audio_src": "แมวจับหนูได้แล้ว",
+            "audio_en_src": "The cat caught the mouse."
           }
         ]
       },
@@ -51130,11 +51146,15 @@
         "sentences": [
           {
             "thai": "หนูขอไปเล่นได้ไหมคะ",
-            "en": "Can I go play, please?"
+            "en": "Can I go play, please?",
+            "audio_src": "หนูขอไปเล่นได้ไหมคะ",
+            "audio_en_src": "Can I go play, please?"
           },
           {
             "thai": "หนูทำการบ้านเสร็จแล้วค่ะ",
-            "en": "I've finished my homework."
+            "en": "I've finished my homework.",
+            "audio_src": "หนูทำการบ้านเสร็จแล้วค่ะ",
+            "audio_en_src": "I've finished my homework."
           }
         ]
       }
@@ -51265,11 +51285,15 @@
         "sentences": [
           {
             "thai": "หยิบช้อนให้หน่อย",
-            "en": "Pass me a spoon."
+            "en": "Pass me a spoon.",
+            "audio_src": "หยิบช้อนให้หน่อย",
+            "audio_en_src": "Pass me a spoon."
           },
           {
             "thai": "เขาหยิบหนังสือขึ้นมาอ่าน",
-            "en": "He picked up a book to read."
+            "en": "He picked up a book to read.",
+            "audio_src": "เขาหยิบหนังสือขึ้นมาอ่าน",
+            "audio_en_src": "He picked up a book to read."
           }
         ]
       }
@@ -51296,11 +51320,15 @@
         "sentences": [
           {
             "thai": "ไม่เป็นไรหรอก",
-            "en": "It's no big deal, really."
+            "en": "It's no big deal, really.",
+            "audio_src": "ไม่เป็นไรหรอก",
+            "audio_en_src": "It's no big deal, really."
           },
           {
             "thai": "เขาไม่ได้โกรธหรอก",
-            "en": "He's not actually mad."
+            "en": "He's not actually mad.",
+            "audio_src": "เขาไม่ได้โกรธหรอก",
+            "audio_en_src": "He's not actually mad."
           }
         ]
       }
@@ -51405,11 +51433,15 @@
         "sentences": [
           {
             "thai": "ดาราคนนี้หล่อมาก",
-            "en": "This actor is so handsome."
+            "en": "This actor is so handsome.",
+            "audio_src": "ดาราคนนี้หล่อมาก",
+            "audio_en_src": "This actor is so handsome."
           },
           {
             "thai": "วันนี้แต่งตัวหล่อนะ ไปไหนมา",
-            "en": "You look sharp today, where've you been?"
+            "en": "You look sharp today, where've you been?",
+            "audio_src": "วันนี้แต่งตัวหล่อนะ ไปไหนมา",
+            "audio_en_src": "You look sharp today, where've you been?"
           }
         ]
       }
@@ -51503,11 +51535,15 @@
         "sentences": [
           {
             "thai": "เขาเล่าเรื่องตลกจนทุกคนหัวเราะ",
-            "en": "He told a joke that made everyone laugh."
+            "en": "He told a joke that made everyone laugh.",
+            "audio_src": "เขาเล่าเรื่องตลกจนทุกคนหัวเราะ",
+            "audio_en_src": "He told a joke that made everyone laugh."
           },
           {
             "thai": "อย่าหัวเราะสิ ฉันพูดจริงๆ",
-            "en": "Don't laugh, I'm being serious."
+            "en": "Don't laugh, I'm being serious.",
+            "audio_src": "อย่าหัวเราะสิ ฉันพูดจริงๆ",
+            "audio_en_src": "Don't laugh, I'm being serious."
           }
         ]
       }
@@ -51619,11 +51655,15 @@
         "sentences": [
           {
             "thai": "อดทนอีกนิด ใกล้เสร็จแล้ว",
-            "en": "Hang in there a bit longer, it's almost done."
+            "en": "Hang in there a bit longer, it's almost done.",
+            "audio_src": "อดทนอีกนิด ใกล้เสร็จแล้ว",
+            "audio_en_src": "Hang in there a bit longer, it's almost done."
           },
           {
             "thai": "เขาเป็นคนอดทน ไม่ค่อยบ่น",
-            "en": "He's a patient person, he rarely complains."
+            "en": "He's a patient person, he rarely complains.",
+            "audio_src": "เขาเป็นคนอดทน ไม่ค่อยบ่น",
+            "audio_en_src": "He's a patient person, he rarely complains."
           }
         ]
       }
@@ -51660,11 +51700,15 @@
         "sentences": [
           {
             "thai": "ใส่เสื้อหนาๆจะได้อบอุ่น",
-            "en": "Wear something thick to stay warm."
+            "en": "Wear something thick to stay warm.",
+            "audio_src": "ใส่เสื้อหนาๆจะได้อบอุ่น",
+            "audio_en_src": "Wear something thick to stay warm."
           },
           {
             "thai": "ครอบครัวเขาอบอุ่นมาก",
-            "en": "His family is very warm and loving."
+            "en": "His family is very warm and loving.",
+            "audio_src": "ครอบครัวเขาอบอุ่นมาก",
+            "audio_en_src": "His family is very warm and loving."
           }
         ]
       }
@@ -51727,7 +51771,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อย่างนี้",
-    "audio_en_src": "like this, this way"
+    "audio_en_src": "like this, this way",
+    "examples": [
+      {
+        "meaning": "like this, this way",
+        "sentences": [
+          {
+            "thai": "ทำอย่างนี้ถูกไหม",
+            "en": "Is doing it this way right?",
+            "audio_src": "ทำอย่างนี้ถูกไหม",
+            "audio_en_src": "Is doing it this way right?"
+          },
+          {
+            "thai": "ทำไมเธอพูดอย่างนี้",
+            "en": "Why do you talk like this?",
+            "audio_src": "ทำไมเธอพูดอย่างนี้",
+            "audio_en_src": "Why do you talk like this?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1107",
@@ -51900,7 +51963,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อันไหน",
-    "audio_en_src": "which one"
+    "audio_en_src": "which one",
+    "examples": [
+      {
+        "meaning": "which one",
+        "sentences": [
+          {
+            "thai": "อันไหนของเธอ",
+            "en": "Which one is yours?",
+            "audio_src": "อันไหนของเธอ",
+            "audio_en_src": "Which one is yours?"
+          },
+          {
+            "thai": "เอาอันไหนก็ได้",
+            "en": "Any one is fine.",
+            "audio_src": "เอาอันไหนก็ได้",
+            "audio_en_src": "Any one is fine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1128",
@@ -51973,7 +52055,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาย",
-    "audio_en_src": "shy, embarrassed"
+    "audio_en_src": "shy, embarrassed",
+    "examples": [
+      {
+        "meaning": "shy, embarrassed",
+        "sentences": [
+          {
+            "thai": "เขาอายเลยไม่กล้าทักทาย",
+            "en": "He's shy, so he didn't dare say hi.",
+            "audio_src": "เขาอายเลยไม่กล้าทักทาย",
+            "audio_en_src": "He's shy, so he didn't dare say hi."
+          },
+          {
+            "thai": "อย่าทำให้ฉันอายสิ",
+            "en": "Don't embarrass me.",
+            "audio_src": "อย่าทำให้ฉันอายสิ",
+            "audio_en_src": "Don't embarrass me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1135",
@@ -52131,7 +52232,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกลียด",
-    "audio_en_src": "to hate"
+    "audio_en_src": "to hate",
+    "examples": [
+      {
+        "meaning": "to hate",
+        "sentences": [
+          {
+            "thai": "ฉันเกลียดรถติด",
+            "en": "I hate traffic jams.",
+            "audio_src": "ฉันเกลียดรถติด",
+            "audio_en_src": "I hate traffic jams."
+          },
+          {
+            "thai": "เขาเกลียดการโกหกมากที่สุด",
+            "en": "He hates lying more than anything.",
+            "audio_src": "เขาเกลียดการโกหกมากที่สุด",
+            "audio_en_src": "He hates lying more than anything."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1154",
@@ -52197,7 +52317,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เก่ง",
-    "audio_en_src": "talented, good at"
+    "audio_en_src": "talented, good at",
+    "examples": [
+      {
+        "meaning": "talented, good at",
+        "sentences": [
+          {
+            "thai": "น้องคนนี้เก่งคณิตศาสตร์",
+            "en": "This kid is good at math.",
+            "audio_src": "น้องคนนี้เก่งคณิตศาสตร์",
+            "audio_en_src": "This kid is good at math."
+          },
+          {
+            "thai": "เธอร้องเพลงเก่งมาก",
+            "en": "She's really good at singing.",
+            "audio_src": "เธอร้องเพลงเก่งมาก",
+            "audio_en_src": "She's really good at singing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1161",
@@ -52299,7 +52438,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เครื่อง",
-    "audio_en_src": "machine, device"
+    "audio_en_src": "machine, device",
+    "examples": [
+      {
+        "meaning": "machine, device",
+        "sentences": [
+          {
+            "thai": "เครื่องซักผ้าเสียอีกแล้ว",
+            "en": "The washing machine is broken again.",
+            "audio_src": "เครื่องซักผ้าเสียอีกแล้ว",
+            "audio_en_src": "The washing machine is broken again."
+          },
+          {
+            "thai": "เขาซื้อโทรศัพท์เครื่องใหม่",
+            "en": "He bought a new phone.",
+            "audio_src": "เขาซื้อโทรศัพท์เครื่องใหม่",
+            "audio_en_src": "He bought a new phone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1170",
@@ -52389,7 +52547,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เค้า",
-    "audio_en_src": "he, she, I"
+    "audio_en_src": "he, she, I",
+    "examples": [
+      {
+        "meaning": "(informal) he, she, I",
+        "sentences": [
+          {
+            "thai": "เค้าบอกว่าจะมาสาย",
+            "en": "He said he'd be late.",
+            "audio_src": "เค้าบอกว่าจะมาสาย",
+            "audio_en_src": "He said he'd be late."
+          },
+          {
+            "thai": "เค้าง่วงแล้วอ่ะ",
+            "en": "I'm sleepy.",
+            "audio_src": "เค้าง่วงแล้วอ่ะ",
+            "audio_en_src": "I'm sleepy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1179",
@@ -52671,7 +52848,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เถอะ",
-    "audio_en_src": "let's, suggestive particle"
+    "audio_en_src": "let's, suggestive particle",
+    "examples": [
+      {
+        "meaning": "let's, suggestive particle",
+        "sentences": [
+          {
+            "thai": "ไปกันเถอะ",
+            "en": "Let's go.",
+            "audio_src": "ไปกันเถอะ",
+            "audio_en_src": "Let's go."
+          },
+          {
+            "thai": "พักก่อนเถอะ เหนื่อยแล้ว",
+            "en": "Let's take a break, I'm tired.",
+            "audio_src": "พักก่อนเถอะ เหนื่อยแล้ว",
+            "audio_en_src": "Let's take a break, I'm tired."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1210",
@@ -52765,7 +52961,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เท่านั้น",
-    "audio_en_src": "only, just"
+    "audio_en_src": "only, just",
+    "examples": [
+      {
+        "meaning": "only, just",
+        "sentences": [
+          {
+            "thai": "ฉันมีเงินแค่ร้อยเดียวเท่านั้น",
+            "en": "I only have a hundred baht.",
+            "audio_src": "ฉันมีเงินแค่ร้อยเดียวเท่านั้น",
+            "audio_en_src": "I only have a hundred baht."
+          },
+          {
+            "thai": "เหลือที่ว่างที่เดียวเท่านั้น",
+            "en": "There's only one seat left.",
+            "audio_src": "เหลือที่ว่างที่เดียวเท่านั้น",
+            "audio_en_src": "There's only one seat left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1219",
@@ -52826,7 +53041,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เบา",
-    "audio_en_src": "light; gently, softly"
+    "audio_en_src": "light; gently, softly",
+    "examples": [
+      {
+        "meaning": "light",
+        "sentences": [
+          {
+            "thai": "กระเป๋าใบนี้เบามาก",
+            "en": "This bag is very light.",
+            "audio_src": "กระเป๋าใบนี้เบามาก",
+            "audio_en_src": "This bag is very light."
+          },
+          {
+            "thai": "เสื้อตัวนี้บางและเบา",
+            "en": "This shirt is thin and light.",
+            "audio_src": "เสื้อตัวนี้บางและเบา",
+            "audio_en_src": "This shirt is thin and light."
+          }
+        ]
+      },
+      {
+        "meaning": "gently, softly",
+        "sentences": [
+          {
+            "thai": "เปิดเพลงเบาๆหน่อย",
+            "en": "Turn the music down a little.",
+            "audio_src": "เปิดเพลงเบาๆหน่อย",
+            "audio_en_src": "Turn the music down a little."
+          },
+          {
+            "thai": "วางเบาๆ เดี๋ยวแตก",
+            "en": "Set it down gently, or it'll break.",
+            "audio_src": "วางเบาๆ เดี๋ยวแตก",
+            "audio_en_src": "Set it down gently, or it'll break."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1224",
@@ -53011,7 +53262,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพื่อ",
-    "audio_en_src": "for, in order to"
+    "audio_en_src": "for, in order to",
+    "examples": [
+      {
+        "meaning": "for, in order to",
+        "sentences": [
+          {
+            "thai": "ฉันทำงานหนักเพื่อครอบครัว",
+            "en": "I work hard for my family.",
+            "audio_src": "ฉันทำงานหนักเพื่อครอบครัว",
+            "audio_en_src": "I work hard for my family."
+          },
+          {
+            "thai": "เขาออมเงินเพื่อซื้อบ้าน",
+            "en": "He's saving money in order to buy a house.",
+            "audio_src": "เขาออมเงินเพื่อซื้อบ้าน",
+            "audio_en_src": "He's saving money in order to buy a house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1244",
@@ -53057,7 +53327,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เมื่อก่อน",
-    "audio_en_src": "previously, in the past"
+    "audio_en_src": "previously, in the past",
+    "examples": [
+      {
+        "meaning": "previously, in the past",
+        "sentences": [
+          {
+            "thai": "เมื่อก่อนแถวนี้เป็นทุ่งนา",
+            "en": "This area used to be rice fields.",
+            "audio_src": "เมื่อก่อนแถวนี้เป็นทุ่งนา",
+            "audio_en_src": "This area used to be rice fields."
+          },
+          {
+            "thai": "เมื่อก่อนฉันผอมกว่านี้",
+            "en": "I used to be thinner than this.",
+            "audio_src": "เมื่อก่อนฉันผอมกว่านี้",
+            "audio_en_src": "I used to be thinner than this."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1248",
@@ -53088,7 +53377,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เริ่ม, เริ่มต้น",
-    "audio_en_src": "to begin, to start"
+    "audio_en_src": "to begin, to start",
+    "examples": [
+      {
+        "meaning": "to begin, to start",
+        "sentences": [
+          {
+            "thai": "หนังเริ่มกี่โมง",
+            "en": "What time does the movie start?",
+            "audio_src": "หนังเริ่มกี่โมง",
+            "audio_en_src": "What time does the movie start?"
+          },
+          {
+            "thai": "เริ่มต้นใหม่ไม่เคยสาย",
+            "en": "It's never too late to start over.",
+            "audio_src": "เริ่มต้นใหม่ไม่เคยสาย",
+            "audio_en_src": "It's never too late to start over."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1250",
@@ -53206,7 +53514,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลี้ยง",
-    "audio_en_src": "to feed, to treat, to raise"
+    "audio_en_src": "to feed, to treat, to raise",
+    "examples": [
+      {
+        "meaning": "to feed, to treat, to raise",
+        "sentences": [
+          {
+            "thai": "แม่เลี้ยงลูกสามคน",
+            "en": "Mom raised three kids.",
+            "audio_src": "แม่เลี้ยงลูกสามคน",
+            "audio_en_src": "Mom raised three kids."
+          },
+          {
+            "thai": "วันนี้ฉันเลี้ยงเอง",
+            "en": "It's my treat today.",
+            "audio_src": "วันนี้ฉันเลี้ยงเอง",
+            "audio_en_src": "It's my treat today."
+          },
+          {
+            "thai": "อย่าลืมเลี้ยงข้าวหมา",
+            "en": "Don't forget to feed the dog.",
+            "audio_src": "อย่าลืมเลี้ยงข้าวหมา",
+            "audio_en_src": "Don't forget to feed the dog."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1263",
@@ -53233,7 +53566,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เล่า",
-    "audio_en_src": "to tell"
+    "audio_en_src": "to tell",
+    "examples": [
+      {
+        "meaning": "to tell (a story)",
+        "sentences": [
+          {
+            "thai": "เล่าให้ฟังหน่อยสิ เกิดอะไรขึ้น",
+            "en": "Tell me what happened.",
+            "audio_src": "เล่าให้ฟังหน่อยสิ เกิดอะไรขึ้น",
+            "audio_en_src": "Tell me what happened."
+          },
+          {
+            "thai": "ยายชอบเล่าเรื่องสมัยก่อน",
+            "en": "Grandma likes telling stories about the old days.",
+            "audio_src": "ยายชอบเล่าเรื่องสมัยก่อน",
+            "audio_en_src": "Grandma likes telling stories about the old days."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1265",
@@ -53423,7 +53775,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหนือ",
-    "audio_en_src": "above, over; north"
+    "audio_en_src": "above, over; north",
+    "examples": [
+      {
+        "meaning": "above, over",
+        "sentences": [
+          {
+            "thai": "มีนาฬิกาแขวนอยู่เหนือประตู",
+            "en": "There's a clock hanging above the door.",
+            "audio_src": "มีนาฬิกาแขวนอยู่เหนือประตู",
+            "audio_en_src": "There's a clock hanging above the door."
+          },
+          {
+            "thai": "เครื่องบินบินอยู่เหนือเมฆ",
+            "en": "The plane is flying above the clouds.",
+            "audio_src": "เครื่องบินบินอยู่เหนือเมฆ",
+            "audio_en_src": "The plane is flying above the clouds."
+          }
+        ]
+      },
+      {
+        "meaning": "north",
+        "sentences": [
+          {
+            "thai": "เชียงใหม่อยู่ทางเหนือ",
+            "en": "Chiang Mai is in the north.",
+            "audio_src": "เชียงใหม่อยู่ทางเหนือ",
+            "audio_en_src": "Chiang Mai is in the north."
+          },
+          {
+            "thai": "หน้าหนาวภาคเหนืออากาศเย็นมาก",
+            "en": "In winter the north gets very cold.",
+            "audio_src": "หน้าหนาวภาคเหนืออากาศเย็นมาก",
+            "audio_en_src": "In winter the north gets very cold."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1289",
@@ -53510,7 +53898,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาละ",
-    "audio_en_src": "alright, well then"
+    "audio_en_src": "alright, well then",
+    "examples": [
+      {
+        "meaning": "alright, well then",
+        "sentences": [
+          {
+            "thai": "เอาละ เริ่มกันเลย",
+            "en": "Alright, let's get started.",
+            "audio_src": "เอาละ เริ่มกันเลย",
+            "audio_en_src": "Alright, let's get started."
+          },
+          {
+            "thai": "เอาละ ฉันต้องไปแล้ว",
+            "en": "Well then, I have to go now.",
+            "audio_src": "เอาละ ฉันต้องไปแล้ว",
+            "audio_en_src": "Well then, I have to go now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1299",
@@ -53548,7 +53955,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แก",
-    "audio_en_src": "you"
+    "audio_en_src": "you",
+    "examples": [
+      {
+        "meaning": "you (informal)",
+        "sentences": [
+          {
+            "thai": "แกจะไปกับเราไหม",
+            "en": "Are you coming with us?",
+            "audio_src": "แกจะไปกับเราไหม",
+            "audio_en_src": "Are you coming with us?"
+          },
+          {
+            "thai": "แกทำการบ้านเสร็จยัง",
+            "en": "Have you finished your homework yet?",
+            "audio_src": "แกทำการบ้านเสร็จยัง",
+            "audio_en_src": "Have you finished your homework yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1302",
@@ -53585,7 +54011,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แก้",
-    "audio_en_src": "to fix, to solve, to correct"
+    "audio_en_src": "to fix, to solve, to correct",
+    "examples": [
+      {
+        "meaning": "to fix, to solve, to correct",
+        "sentences": [
+          {
+            "thai": "ช่างมาแก้แอร์ให้แล้ว",
+            "en": "The technician came and fixed the air conditioner.",
+            "audio_src": "ช่างมาแก้แอร์ให้แล้ว",
+            "audio_en_src": "The technician came and fixed the air conditioner."
+          },
+          {
+            "thai": "ครูช่วยแก้การบ้านให้",
+            "en": "The teacher corrected my homework.",
+            "audio_src": "ครูช่วยแก้การบ้านให้",
+            "audio_en_src": "The teacher corrected my homework."
+          },
+          {
+            "thai": "เราต้องช่วยกันแก้ปัญหานี้",
+            "en": "We have to solve this problem together.",
+            "audio_src": "เราต้องช่วยกันแก้ปัญหานี้",
+            "audio_en_src": "We have to solve this problem together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1305",
@@ -53643,7 +54094,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่ง",
-    "audio_en_src": "to dress up, to compose, to decorate"
+    "audio_en_src": "to dress up, to compose, to decorate",
+    "examples": [
+      {
+        "meaning": "to dress up, to compose, to decorate",
+        "sentences": [
+          {
+            "thai": "เธอแต่งตัวสวยทุกวัน",
+            "en": "She dresses up nicely every day.",
+            "audio_src": "เธอแต่งตัวสวยทุกวัน",
+            "audio_en_src": "She dresses up nicely every day."
+          },
+          {
+            "thai": "เขาแต่งเพลงเอง",
+            "en": "He writes his own songs.",
+            "audio_src": "เขาแต่งเพลงเอง",
+            "audio_en_src": "He writes his own songs."
+          },
+          {
+            "thai": "แต่งบ้านให้สวยรับปีใหม่",
+            "en": "Decorate the house to welcome the New Year.",
+            "audio_src": "แต่งบ้านให้สวยรับปีใหม่",
+            "audio_en_src": "Decorate the house to welcome the New Year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1311",
@@ -53658,7 +54134,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่งหน้า",
-    "audio_en_src": "to put on makeup"
+    "audio_en_src": "to put on makeup",
+    "examples": [
+      {
+        "meaning": "to put on makeup",
+        "sentences": [
+          {
+            "thai": "เธอแต่งหน้าทุกเช้าก่อนไปทำงาน",
+            "en": "She puts on makeup every morning before work."
+          },
+          {
+            "thai": "วันนี้ไม่ได้แต่งหน้า ขี้เกียจ",
+            "en": "I didn't do my makeup today, too lazy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1312",
@@ -53684,7 +54175,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่ละ",
-    "audio_en_src": "each, every"
+    "audio_en_src": "each, every",
+    "examples": [
+      {
+        "meaning": "each, every",
+        "sentences": [
+          {
+            "thai": "แต่ละคนชอบไม่เหมือนกัน",
+            "en": "Each person likes different things."
+          },
+          {
+            "thai": "แต่ละวันเขายุ่งมาก",
+            "en": "He's really busy every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1315",
@@ -53721,7 +54227,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แถว",
-    "audio_en_src": "area, neighborhood; row"
+    "audio_en_src": "area, neighborhood; row",
+    "examples": [
+      {
+        "meaning": "area, neighborhood",
+        "sentences": [
+          {
+            "thai": "แถวบ้านมีร้านอร่อยเยอะ",
+            "en": "There are lots of good restaurants around my place."
+          },
+          {
+            "thai": "เธออยู่แถวไหน",
+            "en": "What area do you live in?"
+          }
+        ]
+      },
+      {
+        "meaning": "row",
+        "sentences": [
+          {
+            "thai": "นั่งแถวหน้าจะเห็นชัดกว่า",
+            "en": "Sitting in the front row, you'll see better."
+          },
+          {
+            "thai": "ยืนเข้าแถวให้เป็นระเบียบ",
+            "en": "Line up neatly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1318",
@@ -53737,7 +54271,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แทน",
-    "audio_en_src": "instead of, in place of"
+    "audio_en_src": "instead of, in place of",
+    "examples": [
+      {
+        "meaning": "instead of, in place of",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันมาประชุมแทนหัวหน้า",
+            "en": "Today I'm at the meeting in place of my boss."
+          },
+          {
+            "thai": "ใช้น้ำผึ้งแทนน้ำตาลได้",
+            "en": "You can use honey instead of sugar."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1319",
@@ -53828,7 +54377,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แน่ๆ",
-    "audio_en_src": "definitely, for sure"
+    "audio_en_src": "definitely, for sure",
+    "examples": [
+      {
+        "meaning": "definitely, for sure",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้เขามาแน่ๆ",
+            "en": "He's definitely coming tomorrow."
+          },
+          {
+            "thai": "อันนี้อร่อยแน่ๆ ลองดูสิ",
+            "en": "This is definitely good, give it a try."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1328",
@@ -53855,7 +54419,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แบ่ง",
-    "audio_en_src": "to divide, to separate; to share"
+    "audio_en_src": "to divide, to separate; to share",
+    "examples": [
+      {
+        "meaning": "to divide, to separate",
+        "sentences": [
+          {
+            "thai": "แบ่งงานกันคนละครึ่ง",
+            "en": "Let's split the work in half between us."
+          },
+          {
+            "thai": "แบ่งกลุ่มกลุ่มละห้าคน",
+            "en": "Split into groups of five."
+          }
+        ]
+      },
+      {
+        "meaning": "to share",
+        "sentences": [
+          {
+            "thai": "แบ่งขนมให้เพื่อนบ้าง",
+            "en": "Share some snacks with your friends."
+          },
+          {
+            "thai": "ขอแบ่งกินหน่อยได้ไหม",
+            "en": "Can I have some of that?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1330",
@@ -53881,7 +54473,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แผ่น",
-    "audio_en_src": "sheet, classifier for thin flat objects"
+    "audio_en_src": "sheet, classifier for thin flat objects",
+    "examples": [
+      {
+        "meaning": "sheet, classifier for thin flat objects",
+        "sentences": [
+          {
+            "thai": "ขอกระดาษแผ่นนึง",
+            "en": "One sheet of paper, please."
+          },
+          {
+            "thai": "ซื้อแผ่นซีดีมาสองแผ่น",
+            "en": "I bought two CDs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1332",
@@ -53962,7 +54569,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แรง",
-    "audio_en_src": "strength, force"
+    "audio_en_src": "strength, force",
+    "examples": [
+      {
+        "meaning": "strength, force",
+        "sentences": [
+          {
+            "thai": "วันนี้ลมแรงมาก",
+            "en": "The wind is really strong today."
+          },
+          {
+            "thai": "ออกแรงดันประตูหน่อย",
+            "en": "Put some force into pushing the door."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1342",
@@ -53978,7 +54600,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แวะ",
-    "audio_en_src": "to stop by, to drop in"
+    "audio_en_src": "to stop by, to drop in",
+    "examples": [
+      {
+        "meaning": "to stop by, to drop in",
+        "sentences": [
+          {
+            "thai": "ขอแวะซื้อกาแฟก่อนนะ",
+            "en": "Let me stop for coffee first."
+          },
+          {
+            "thai": "ขากลับบ้านแวะหายายหน่อย",
+            "en": "On the way home, drop by to see grandma."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1343",
@@ -54119,7 +54756,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โง่",
-    "audio_en_src": "stupid, foolish"
+    "audio_en_src": "stupid, foolish",
+    "examples": [
+      {
+        "meaning": "stupid, foolish",
+        "sentences": [
+          {
+            "thai": "ฉันโง่เองที่ไปเชื่อเขา",
+            "en": "It was stupid of me to believe him."
+          },
+          {
+            "thai": "ทำไมฉันถึงได้โง่อย่างนี้",
+            "en": "Why am I so stupid?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thaipod-1362",
