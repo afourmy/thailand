@@ -24775,11 +24775,15 @@
         "sentences": [
           {
             "thai": "ฝนตกหนักจนหลังคารั่ว",
-            "en": "It rained so hard that the roof leaked."
+            "en": "It rained so hard that the roof leaked.",
+            "audio_src": "ฝนตกหนักจนหลังคารั่ว",
+            "audio_en_src": "It rained so hard that the roof leaked."
           },
           {
             "thai": "แมวชอบขึ้นไปนอนบนหลังคา",
-            "en": "The cat likes to go up and sleep on the roof."
+            "en": "The cat likes to go up and sleep on the roof.",
+            "audio_src": "แมวชอบขึ้นไปนอนบนหลังคา",
+            "audio_en_src": "The cat likes to go up and sleep on the roof."
           }
         ]
       }
@@ -24826,11 +24830,15 @@
         "sentences": [
           {
             "thai": "วันนี้ฉันเลี้ยงข้าวเอง",
-            "en": "Lunch is on me today."
+            "en": "Lunch is on me today.",
+            "audio_src": "วันนี้ฉันเลี้ยงข้าวเอง",
+            "audio_en_src": "Lunch is on me today."
           },
           {
             "thai": "ได้เงินเดือนแล้ว เดี๋ยวเลี้ยงข้าวนะ",
-            "en": "I got my paycheck, I'll treat you to a meal."
+            "en": "I got my paycheck, I'll treat you to a meal.",
+            "audio_src": "ได้เงินเดือนแล้ว เดี๋ยวเลี้ยงข้าวนะ",
+            "audio_en_src": "I got my paycheck, I'll treat you to a meal."
           }
         ]
       }
@@ -24876,11 +24884,15 @@
         "sentences": [
           {
             "thai": "เด็กๆชอบกินลูกอม",
-            "en": "Kids love eating candy."
+            "en": "Kids love eating candy.",
+            "audio_src": "เด็กๆชอบกินลูกอม",
+            "audio_en_src": "Kids love eating candy."
           },
           {
             "thai": "อมลูกอมแก้เจ็บคอ",
-            "en": "Suck on a candy to soothe a sore throat."
+            "en": "Suck on a candy to soothe a sore throat.",
+            "audio_src": "อมลูกอมแก้เจ็บคอ",
+            "audio_en_src": "Suck on a candy to soothe a sore throat."
           }
         ]
       }
@@ -24948,11 +24960,15 @@
         "sentences": [
           {
             "thai": "ฉันเห็นใจเขานะ ลำบากมาเยอะ",
-            "en": "I really feel for him, he's been through a lot."
+            "en": "I really feel for him, he's been through a lot.",
+            "audio_src": "ฉันเห็นใจเขานะ ลำบากมาเยอะ",
+            "audio_en_src": "I really feel for him, he's been through a lot."
           },
           {
             "thai": "เห็นใจกันบ้างสิ",
-            "en": "Have a little sympathy."
+            "en": "Have a little sympathy.",
+            "audio_src": "เห็นใจกันบ้างสิ",
+            "audio_en_src": "Have a little sympathy."
           }
         ]
       }
@@ -25011,11 +25027,15 @@
         "sentences": [
           {
             "thai": "แม่ด่าฉันที่กลับบ้านดึก",
-            "en": "Mom yelled at me for coming home late."
+            "en": "Mom yelled at me for coming home late.",
+            "audio_src": "แม่ด่าฉันที่กลับบ้านดึก",
+            "audio_en_src": "Mom yelled at me for coming home late."
           },
           {
             "thai": "อย่าด่าคนอื่นแบบนั้น",
-            "en": "Don't trash-talk people like that."
+            "en": "Don't trash-talk people like that.",
+            "audio_src": "อย่าด่าคนอื่นแบบนั้น",
+            "audio_en_src": "Don't trash-talk people like that."
           }
         ]
       }
@@ -25054,11 +25074,15 @@
         "sentences": [
           {
             "thai": "เด็กคนนี้ชอบเถียงผู้ใหญ่",
-            "en": "This kid likes to talk back to grown-ups."
+            "en": "This kid likes to talk back to grown-ups.",
+            "audio_src": "เด็กคนนี้ชอบเถียงผู้ใหญ่",
+            "audio_en_src": "This kid likes to talk back to grown-ups."
           },
           {
             "thai": "สองคนนั้นเถียงกันเรื่องการเมือง",
-            "en": "Those two are arguing about politics."
+            "en": "Those two are arguing about politics.",
+            "audio_src": "สองคนนั้นเถียงกันเรื่องการเมือง",
+            "audio_en_src": "Those two are arguing about politics."
           }
         ]
       }
@@ -25331,11 +25355,15 @@
         "sentences": [
           {
             "thai": "เรื่องนี้ขำมาก",
-            "en": "This is so funny."
+            "en": "This is so funny.",
+            "audio_src": "เรื่องนี้ขำมาก",
+            "audio_en_src": "This is so funny."
           },
           {
             "thai": "เขาเล่ามุกแล้วทุกคนขำ",
-            "en": "He told a joke and everyone laughed."
+            "en": "He told a joke and everyone laughed.",
+            "audio_src": "เขาเล่ามุกแล้วทุกคนขำ",
+            "audio_en_src": "He told a joke and everyone laughed."
           }
         ]
       }
@@ -25384,11 +25412,15 @@
         "sentences": [
           {
             "thai": "เขามีทัศนคติที่ดีต่อการทำงาน",
-            "en": "He has a good attitude toward work."
+            "en": "He has a good attitude toward work.",
+            "audio_src": "เขามีทัศนคติที่ดีต่อการทำงาน",
+            "audio_en_src": "He has a good attitude toward work."
           },
           {
             "thai": "เรามีทัศนคติเรื่องนี้ต่างกัน",
-            "en": "We have different views on this."
+            "en": "We have different views on this.",
+            "audio_src": "เรามีทัศนคติเรื่องนี้ต่างกัน",
+            "audio_en_src": "We have different views on this."
           }
         ]
       }
@@ -25454,11 +25486,15 @@
         "sentences": [
           {
             "thai": "คืนนี้ดูบอลด้วยกันไหม",
-            "en": "Want to watch the football match together tonight?"
+            "en": "Want to watch the football match together tonight?",
+            "audio_src": "คืนนี้ดูบอลด้วยกันไหม",
+            "audio_en_src": "Want to watch the football match together tonight?"
           },
           {
             "thai": "เขาชอบดูบอลทุกสุดสัปดาห์",
-            "en": "He likes watching football every weekend."
+            "en": "He likes watching football every weekend.",
+            "audio_src": "เขาชอบดูบอลทุกสุดสัปดาห์",
+            "audio_en_src": "He likes watching football every weekend."
           }
         ]
       }
@@ -25516,11 +25552,15 @@
         "sentences": [
           {
             "thai": "จะกินอะไรก็ตามใจ",
-            "en": "Eat whatever you want, it's up to you."
+            "en": "Eat whatever you want, it's up to you.",
+            "audio_src": "จะกินอะไรก็ตามใจ",
+            "audio_en_src": "Eat whatever you want, it's up to you."
           },
           {
             "thai": "ตามใจเธอเลย ฉันได้หมด",
-            "en": "Whatever you like, I'm fine with anything."
+            "en": "Whatever you like, I'm fine with anything.",
+            "audio_src": "ตามใจเธอเลย ฉันได้หมด",
+            "audio_en_src": "Whatever you like, I'm fine with anything."
           }
         ]
       },
@@ -25529,11 +25569,15 @@
         "sentences": [
           {
             "thai": "พ่อแม่ตามใจลูกเกินไป",
-            "en": "The parents spoil their kid too much."
+            "en": "The parents spoil their kid too much.",
+            "audio_src": "พ่อแม่ตามใจลูกเกินไป",
+            "audio_en_src": "The parents spoil their kid too much."
           },
           {
             "thai": "อย่าตามใจเขามาก เดี๋ยวเสียคน",
-            "en": "Don't spoil him too much, he'll turn out bad."
+            "en": "Don't spoil him too much, he'll turn out bad.",
+            "audio_src": "อย่าตามใจเขามาก เดี๋ยวเสียคน",
+            "audio_en_src": "Don't spoil him too much, he'll turn out bad."
           }
         ]
       }
