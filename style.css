@@ -1074,13 +1074,15 @@ html[lang="fr"] .en { display: none; }
   gap: 0.6rem 0.8rem;
 }
 
-/* Right column (Audio, then Backup) is pinned to column 2 so the two stack
-   under each other, regardless of how many cells sit in the left column. */
+/* Left column (Display, then Show) and right column (Audio, then Backup) are
+   each pinned to their column so the cells stack predictably, two per column. */
+.vocab-display-cell--left { grid-column: 1; }
 .vocab-display-cell--right { grid-column: 2; }
 
 @media (max-width: 600px) {
   /* Stack to a single column when there isn't room for two. */
   .vocab-controls--display { grid-template-columns: 1fr; }
+  .vocab-display-cell--left,
   .vocab-display-cell--right { grid-column: auto; }
 }
 

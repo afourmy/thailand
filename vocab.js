@@ -1095,6 +1095,7 @@
   renderDeckSelector();
   setFace(lsGet("vocabFace") || "both", false);
   setAudioLang(lsGet(AUDIO_LANG_KEY) || "th");
+  setDisplayLimit(lsGet(LIMIT_KEY) || "60", false);
 
   // Resolve the data file next to this script, so it works both on a direct
   // visit and when the page is loaded via the site's SPA navigation (which
