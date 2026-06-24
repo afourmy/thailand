@@ -99152,7 +99152,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลิก",
-    "audio_en_src": "to stop, end, quit, break up"
+    "audio_en_src": "to stop, end, quit, break up",
+    "examples": [
+      {
+        "meaning": "to stop, end, quit, break up",
+        "sentences": [
+          {
+            "thai": "เขาตัดสินใจเลิกสูบบุหรี่",
+            "en": "He decided to quit smoking.",
+            "audio_src": "เขาตัดสินใจเลิกสูบบุหรี่",
+            "audio_en_src": "He decided to quit smoking."
+          },
+          {
+            "thai": "ประชุมเลิกตอนห้าโมงเย็น",
+            "en": "The meeting ended at five.",
+            "audio_src": "ประชุมเลิกตอนห้าโมงเย็น",
+            "audio_en_src": "The meeting ended at five."
+          },
+          {
+            "thai": "สองคนนั้นเลิกกันแล้ว",
+            "en": "Those two have broken up.",
+            "audio_src": "สองคนนั้นเลิกกันแล้ว",
+            "audio_en_src": "Those two have broken up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-020",
@@ -99195,6 +99220,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "object, material",
+        "sentences": [
+          {
+            "thai": "ตำรวจพบวัตถุต้องสงสัยในกระเป๋า",
+            "en": "The police found a suspicious object in the bag.",
+            "audio_src": "ตำรวจพบวัตถุต้องสงสัยในกระเป๋า",
+            "audio_en_src": "The police found a suspicious object in the bag."
+          },
+          {
+            "thai": "ห้ามนำวัตถุอันตรายขึ้นเครื่อง",
+            "en": "Dangerous objects are not allowed on the plane.",
+            "audio_src": "ห้ามนำวัตถุอันตรายขึ้นเครื่อง",
+            "audio_en_src": "Dangerous objects are not allowed on the plane."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99209,7 +99253,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันเกิด",
-    "audio_en_src": "birthday"
+    "audio_en_src": "birthday",
+    "examples": [
+      {
+        "meaning": "birthday",
+        "sentences": [
+          {
+            "thai": "วันเกิดปีนี้อยากทำอะไรพิเศษ",
+            "en": "What do you want to do special for your birthday this year?",
+            "audio_src": "วันเกิดปีนี้อยากทำอะไรพิเศษ",
+            "audio_en_src": "What do you want to do special for your birthday this year?"
+          },
+          {
+            "thai": "เพื่อนจัดงานวันเกิดเซอร์ไพรส์ให้",
+            "en": "My friends threw me a surprise birthday party.",
+            "audio_src": "เพื่อนจัดงานวันเกิดเซอร์ไพรส์ให้",
+            "audio_en_src": "My friends threw me a surprise birthday party."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-025",
@@ -99220,6 +99283,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "engineer",
+        "sentences": [
+          {
+            "thai": "พ่อฉันเป็นวิศวกรโยธา",
+            "en": "My dad is a civil engineer.",
+            "audio_src": "พ่อฉันเป็นวิศวกรโยธา",
+            "audio_en_src": "My dad is a civil engineer."
+          },
+          {
+            "thai": "เขาเรียนจบมาเป็นวิศวกร",
+            "en": "He graduated as an engineer.",
+            "audio_src": "เขาเรียนจบมาเป็นวิศวกร",
+            "audio_en_src": "He graduated as an engineer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99251,6 +99333,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "place, location",
+        "sentences": [
+          {
+            "thai": "สถานที่จัดงานอยู่ใจกลางเมือง",
+            "en": "The venue is in the city center.",
+            "audio_src": "สถานที่จัดงานอยู่ใจกลางเมือง",
+            "audio_en_src": "The venue is in the city center."
+          },
+          {
+            "thai": "ที่นี่เป็นสถานที่ท่องเที่ยวยอดนิยม",
+            "en": "This is a popular tourist spot.",
+            "audio_src": "ที่นี่เป็นสถานที่ท่องเที่ยวยอดนิยม",
+            "audio_en_src": "This is a popular tourist spot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99286,7 +99387,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สบายดี",
-    "audio_en_src": "to feel well, to be okay"
+    "audio_en_src": "to feel well, to be okay",
+    "examples": [
+      {
+        "meaning": "to feel well, to be okay",
+        "sentences": [
+          {
+            "thai": "เป็นยังไงบ้าง สบายดีไหม",
+            "en": "How are you? Doing okay?",
+            "audio_src": "เป็นยังไงบ้าง สบายดีไหม",
+            "audio_en_src": "How are you? Doing okay?"
+          },
+          {
+            "thai": "ฉันสบายดี ไม่ต้องห่วง",
+            "en": "I'm fine, don't worry.",
+            "audio_src": "ฉันสบายดี ไม่ต้องห่วง",
+            "audio_en_src": "I'm fine, don't worry."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-033",
@@ -99354,7 +99474,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สวัสดี",
-    "audio_en_src": "hello"
+    "audio_en_src": "hello",
+    "examples": [
+      {
+        "meaning": "hello (used for greeting or leavetaking)",
+        "sentences": [
+          {
+            "thai": "สวัสดีครับ ยินดีที่ได้รู้จัก",
+            "en": "Hello, nice to meet you.",
+            "audio_src": "สวัสดีครับ ยินดีที่ได้รู้จัก",
+            "audio_en_src": "Hello, nice to meet you."
+          },
+          {
+            "thai": "สวัสดีค่ะ แล้วเจอกันใหม่",
+            "en": "Goodbye, see you again.",
+            "audio_src": "สวัสดีค่ะ แล้วเจอกันใหม่",
+            "audio_en_src": "Goodbye, see you again."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-039",
@@ -99368,7 +99507,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สามสิบ",
-    "audio_en_src": "thirty"
+    "audio_en_src": "thirty",
+    "examples": [
+      {
+        "meaning": "thirty (30)",
+        "sentences": [
+          {
+            "thai": "เดือนนี้มีสามสิบวัน",
+            "en": "This month has thirty days.",
+            "audio_src": "เดือนนี้มีสามสิบวัน",
+            "audio_en_src": "This month has thirty days."
+          },
+          {
+            "thai": "เขาวิ่งได้สามสิบนาทีรวด",
+            "en": "He ran for thirty minutes straight.",
+            "audio_src": "เขาวิ่งได้สามสิบนาทีรวด",
+            "audio_en_src": "He ran for thirty minutes straight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-041",
@@ -99423,6 +99581,25 @@
     "topic": "general",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "silver (colour)",
+        "sentences": [
+          {
+            "thai": "เขาขับรถสีเงิน",
+            "en": "He drives a silver car.",
+            "audio_src": "เขาขับรถสีเงิน",
+            "audio_en_src": "He drives a silver car."
+          },
+          {
+            "thai": "ฉันชอบโทรศัพท์สีเงินมากกว่าสีดำ",
+            "en": "I prefer the silver phone over the black one.",
+            "audio_src": "ฉันชอบโทรศัพท์สีเงินมากกว่าสีดำ",
+            "audio_en_src": "I prefer the silver phone over the black one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99447,7 +99624,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีส้ม",
-    "audio_en_src": "orange"
+    "audio_en_src": "orange",
+    "examples": [
+      {
+        "meaning": "orange",
+        "sentences": [
+          {
+            "thai": "เธอใส่เสื้อสีส้มสดใส",
+            "en": "She's wearing a bright orange shirt.",
+            "audio_src": "เธอใส่เสื้อสีส้มสดใส",
+            "audio_en_src": "She's wearing a bright orange shirt."
+          },
+          {
+            "thai": "พระอาทิตย์ตกเป็นสีส้มสวยมาก",
+            "en": "The sunset turned a beautiful orange.",
+            "audio_src": "พระอาทิตย์ตกเป็นสีส้มสวยมาก",
+            "audio_en_src": "The sunset turned a beautiful orange."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c12-048",

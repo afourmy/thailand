@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 731 words**
+**Total: 741 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -733,5 +733,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-039` : สามสิบ (thirty (30)) : 1 meaning(s), 2 sentences
 - `wlt-c12-045` : สีเงิน (silver (colour)) : 1 meaning(s), 2 sentences
 - `wlt-c12-047` : สีส้ม (orange) : 1 meaning(s), 2 sentences
+- `wlt-c12-055` : หน้าร้อน (hot season) : 1 meaning(s), 2 sentences
+- `wlt-c12-056` : หน้าหนาว (cold season) : 1 meaning(s), 2 sentences
+- `wlt-c12-059` : หรือยัง (yet (question word), have you... yet?) : 1 meaning(s), 2 sentences
+- `wlt-c12-063` : ห้องนอน (bedroom) : 1 meaning(s), 2 sentences
+- `wlt-c12-066` : หัก (to break, to fracture; to deduct, to subtract) : 2 meaning(s), 4 sentences
+- `wlt-c12-070` : เห็นด้วย (to agree) : 1 meaning(s), 2 sentences
+- `wlt-c12-071` : เหม็น (to smell bad) : 1 meaning(s), 2 sentences
+- `wlt-c12-072` : เหมาะสม (appropriate) : 1 meaning(s), 2 sentences
+- `wlt-c12-074` : เหลือ (to be left over, remaining) : 1 meaning(s), 2 sentences
+- `wlt-c12-075` : แห้ง (dry) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
