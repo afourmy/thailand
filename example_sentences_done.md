@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 891 words**
+**Total: 901 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -894,4 +894,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-013` : ยืน (to stand) : 1 meaning(s), 2 sentences
 - `wlt-c16-014` : ยืม (to borrow) : 1 meaning(s), 2 sentences
 - `wlt-c16-017` : รถยนต์ (car, automobile) : 1 meaning(s), 2 sentences
+- `wlt-c16-019` : รู้สึก (to feel) : 1 meaning(s), 2 sentences
+- `wlt-c16-020` : เรา, พวกเรา (we, our, us) : 1 meaning(s), 2 sentences
+- `wlt-c16-021` : เรียบร้อย (in good condition, all set, ready) : 1 meaning(s), 2 sentences
+- `wlt-c16-026` : ลูกสาว (daughter) : 1 meaning(s), 2 sentences
+- `wlt-c16-027` : โลก (world) : 1 meaning(s), 2 sentences
+- `wlt-c16-028` : สกปรก (dirty) : 1 meaning(s), 2 sentences
+- `wlt-c16-030` : สนุก (fun, amusing) : 1 meaning(s), 2 sentences
+- `wlt-c16-031` : สบาย (well, comfortable) : 1 meaning(s), 2 sentences
+- `wlt-c16-032` : สบู่, สบู่หอม (soap) : 1 meaning(s), 2 sentences
+- `wlt-c16-033` : ส้ม (orange) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

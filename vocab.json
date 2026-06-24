@@ -106607,7 +106607,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รู้สึก",
-    "audio_en_src": "to feel"
+    "audio_en_src": "to feel",
+    "examples": [
+      {
+        "meaning": "to feel",
+        "sentences": [
+          {
+            "thai": "ฉันรู้สึกไม่ค่อยสบาย",
+            "en": "I feel a bit unwell.",
+            "audio_src": "ฉันรู้สึกไม่ค่อยสบาย",
+            "audio_en_src": "I feel a bit unwell."
+          },
+          {
+            "thai": "เขารู้สึกดีใจที่ได้กลับบ้าน",
+            "en": "He feels happy to be back home.",
+            "audio_src": "เขารู้สึกดีใจที่ได้กลับบ้าน",
+            "audio_en_src": "He feels happy to be back home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-020",
@@ -106622,7 +106641,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรา, พวกเรา",
-    "audio_en_src": "we, our, us"
+    "audio_en_src": "we, our, us",
+    "examples": [
+      {
+        "meaning": "we, our, us",
+        "sentences": [
+          {
+            "thai": "เราจะไปเที่ยวกันวันเสาร์",
+            "en": "We're going on a trip on Saturday.",
+            "audio_src": "เราจะไปเที่ยวกันวันเสาร์",
+            "audio_en_src": "We're going on a trip on Saturday."
+          },
+          {
+            "thai": "พวกเราเป็นเพื่อนกันมานาน",
+            "en": "We've been friends for a long time.",
+            "audio_src": "พวกเราเป็นเพื่อนกันมานาน",
+            "audio_en_src": "We've been friends for a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-021",
@@ -106637,7 +106675,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรียบร้อย",
-    "audio_en_src": "in good condition, all set, ready"
+    "audio_en_src": "in good condition, all set, ready",
+    "examples": [
+      {
+        "meaning": "in good condition, all set, ready",
+        "sentences": [
+          {
+            "thai": "เก็บของเรียบร้อยแล้ว พร้อมออกเดินทาง",
+            "en": "Everything's packed, ready to set off.",
+            "audio_src": "เก็บของเรียบร้อยแล้ว พร้อมออกเดินทาง",
+            "audio_en_src": "Everything's packed, ready to set off."
+          },
+          {
+            "thai": "งานเสร็จเรียบร้อยทันเวลา",
+            "en": "The work was finished on time.",
+            "audio_src": "งานเสร็จเรียบร้อยทันเวลา",
+            "audio_en_src": "The work was finished on time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-022",
@@ -106695,7 +106752,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลูกสาว",
-    "audio_en_src": "daughter"
+    "audio_en_src": "daughter",
+    "examples": [
+      {
+        "meaning": "daughter",
+        "sentences": [
+          {
+            "thai": "ลูกสาวเขาน่ารักมาก",
+            "en": "His daughter is very cute.",
+            "audio_src": "ลูกสาวเขาน่ารักมาก",
+            "audio_en_src": "His daughter is very cute."
+          },
+          {
+            "thai": "เธอมีลูกสาวคนเดียว",
+            "en": "She has just one daughter.",
+            "audio_src": "เธอมีลูกสาวคนเดียว",
+            "audio_en_src": "She has just one daughter."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-027",
@@ -106710,7 +106786,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โลก",
-    "audio_en_src": "world"
+    "audio_en_src": "world",
+    "examples": [
+      {
+        "meaning": "world",
+        "sentences": [
+          {
+            "thai": "โลกของเรากำลังร้อนขึ้น",
+            "en": "Our world is getting warmer.",
+            "audio_src": "โลกของเรากำลังร้อนขึ้น",
+            "audio_en_src": "Our world is getting warmer."
+          },
+          {
+            "thai": "เขาอยากเดินทางรอบโลก",
+            "en": "He wants to travel around the world.",
+            "audio_src": "เขาอยากเดินทางรอบโลก",
+            "audio_en_src": "He wants to travel around the world."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-028",
@@ -106725,7 +106820,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สกปรก",
-    "audio_en_src": "dirty"
+    "audio_en_src": "dirty",
+    "examples": [
+      {
+        "meaning": "dirty",
+        "sentences": [
+          {
+            "thai": "มือสกปรก ไปล้างก่อนกินข้าว",
+            "en": "Your hands are dirty, go wash them before eating.",
+            "audio_src": "มือสกปรก ไปล้างก่อนกินข้าว",
+            "audio_en_src": "Your hands are dirty, go wash them before eating."
+          },
+          {
+            "thai": "เสื้อตัวนี้สกปรกมาก ต้องซัก",
+            "en": "This shirt is really dirty, it needs washing.",
+            "audio_src": "เสื้อตัวนี้สกปรกมาก ต้องซัก",
+            "audio_en_src": "This shirt is really dirty, it needs washing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-029",
@@ -106751,7 +106865,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สนุก",
-    "audio_en_src": "fun, amusing"
+    "audio_en_src": "fun, amusing",
+    "examples": [
+      {
+        "meaning": "fun, amusing",
+        "sentences": [
+          {
+            "thai": "งานเลี้ยงเมื่อคืนสนุกมาก",
+            "en": "Last night's party was so much fun.",
+            "audio_src": "งานเลี้ยงเมื่อคืนสนุกมาก",
+            "audio_en_src": "Last night's party was so much fun."
+          },
+          {
+            "thai": "เกมนี้เล่นแล้วสนุก",
+            "en": "This game is fun to play.",
+            "audio_src": "เกมนี้เล่นแล้วสนุก",
+            "audio_en_src": "This game is fun to play."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-031",
@@ -106766,7 +106899,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สบาย",
-    "audio_en_src": "well, comfortable"
+    "audio_en_src": "well, comfortable",
+    "examples": [
+      {
+        "meaning": "well, comfortable",
+        "sentences": [
+          {
+            "thai": "เตียงนี้นอนสบายมาก",
+            "en": "This bed is very comfortable.",
+            "audio_src": "เตียงนี้นอนสบายมาก",
+            "audio_en_src": "This bed is very comfortable."
+          },
+          {
+            "thai": "หลังเกษียณเขาใช้ชีวิตสบายๆ",
+            "en": "After retiring, he lives a comfortable, relaxed life.",
+            "audio_src": "หลังเกษียณเขาใช้ชีวิตสบายๆ",
+            "audio_en_src": "After retiring, he lives a comfortable, relaxed life."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-032",
@@ -106781,7 +106933,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สบู่, สบู่หอม",
-    "audio_en_src": "soap"
+    "audio_en_src": "soap",
+    "examples": [
+      {
+        "meaning": "soap",
+        "sentences": [
+          {
+            "thai": "ล้างมือด้วยสบู่ให้สะอาด",
+            "en": "Wash your hands clean with soap.",
+            "audio_src": "ล้างมือด้วยสบู่ให้สะอาด",
+            "audio_en_src": "Wash your hands clean with soap."
+          },
+          {
+            "thai": "สบู่หอมก้อนนี้กลิ่นดอกไม้",
+            "en": "This bar of soap smells of flowers.",
+            "audio_src": "สบู่หอมก้อนนี้กลิ่นดอกไม้",
+            "audio_en_src": "This bar of soap smells of flowers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-033",
@@ -106796,7 +106967,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ส้ม",
-    "audio_en_src": "orange"
+    "audio_en_src": "orange",
+    "examples": [
+      {
+        "meaning": "orange",
+        "sentences": [
+          {
+            "thai": "น้ำส้มคั้นสดอร่อยมาก",
+            "en": "Freshly squeezed orange juice is delicious.",
+            "audio_src": "น้ำส้มคั้นสดอร่อยมาก",
+            "audio_en_src": "Freshly squeezed orange juice is delicious."
+          },
+          {
+            "thai": "ส้มลูกนี้เปรี้ยวไปหน่อย",
+            "en": "This orange is a bit sour.",
+            "audio_src": "ส้มลูกนี้เปรี้ยวไปหน่อย",
+            "audio_en_src": "This orange is a bit sour."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-034",
