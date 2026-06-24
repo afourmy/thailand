@@ -104700,7 +104700,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เข้า",
-    "audio_en_src": "to enter"
+    "audio_en_src": "to enter",
+    "examples": [
+      {
+        "meaning": "to enter",
+        "sentences": [
+          {
+            "thai": "เชิญเข้ามาข้างในก่อน",
+            "en": "Please come inside.",
+            "audio_src": "เชิญเข้ามาข้างในก่อน",
+            "audio_en_src": "Please come inside."
+          },
+          {
+            "thai": "เขาเข้าห้องประชุมไปแล้ว",
+            "en": "He's already gone into the meeting room.",
+            "audio_src": "เขาเข้าห้องประชุมไปแล้ว",
+            "audio_en_src": "He's already gone into the meeting room."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-039",
@@ -104715,7 +104734,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แข็ง",
-    "audio_en_src": "hard"
+    "audio_en_src": "hard",
+    "examples": [
+      {
+        "meaning": "hard (not soft)",
+        "sentences": [
+          {
+            "thai": "ขนมปังเก่าแข็งมาก",
+            "en": "The old bread is really hard.",
+            "audio_src": "ขนมปังเก่าแข็งมาก",
+            "audio_en_src": "The old bread is really hard."
+          },
+          {
+            "thai": "น้ำแข็งตัวเป็นก้อนแข็ง",
+            "en": "Water freezes into hard blocks.",
+            "audio_src": "น้ำแข็งตัวเป็นก้อนแข็ง",
+            "audio_en_src": "Water freezes into hard blocks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-040",
@@ -104730,7 +104768,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไข้",
-    "audio_en_src": "fever"
+    "audio_en_src": "fever",
+    "examples": [
+      {
+        "meaning": "fever",
+        "sentences": [
+          {
+            "thai": "เด็กมีไข้สูง ต้องไปหาหมอ",
+            "en": "The kid has a high fever, we need to see a doctor.",
+            "audio_src": "เด็กมีไข้สูง ต้องไปหาหมอ",
+            "audio_en_src": "The kid has a high fever, we need to see a doctor."
+          },
+          {
+            "thai": "กินยาลดไข้แล้วค่อยยังชั่ว",
+            "en": "After taking the fever medicine, I felt a bit better.",
+            "audio_src": "กินยาลดไข้แล้วค่อยยังชั่ว",
+            "audio_en_src": "After taking the fever medicine, I felt a bit better."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-041",
@@ -104745,7 +104802,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครึ่ง",
-    "audio_en_src": "half"
+    "audio_en_src": "half",
+    "examples": [
+      {
+        "meaning": "half",
+        "sentences": [
+          {
+            "thai": "แบ่งครึ่งกันคนละครึ่ง",
+            "en": "Let's split it in half.",
+            "audio_src": "แบ่งครึ่งกันคนละครึ่ง",
+            "audio_en_src": "Let's split it in half."
+          },
+          {
+            "thai": "รอมาครึ่งชั่วโมงแล้ว",
+            "en": "I've been waiting for half an hour.",
+            "audio_src": "รอมาครึ่งชั่วโมงแล้ว",
+            "audio_en_src": "I've been waiting for half an hour."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-043",
@@ -104760,7 +104836,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คือ",
-    "audio_en_src": "to be, is"
+    "audio_en_src": "to be, is",
+    "examples": [
+      {
+        "meaning": "to be, is",
+        "sentences": [
+          {
+            "thai": "นี่คือบ้านของฉัน",
+            "en": "This is my house.",
+            "audio_src": "นี่คือบ้านของฉัน",
+            "audio_en_src": "This is my house."
+          },
+          {
+            "thai": "สิ่งที่ฉันต้องการคือเวลา",
+            "en": "What I need is time.",
+            "audio_src": "สิ่งที่ฉันต้องการคือเวลา",
+            "audio_en_src": "What I need is time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-046",
@@ -104775,7 +104870,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จมูก",
-    "audio_en_src": "nose"
+    "audio_en_src": "nose",
+    "examples": [
+      {
+        "meaning": "nose",
+        "sentences": [
+          {
+            "thai": "เขาจมูกโด่งเหมือนพ่อ",
+            "en": "He has a high nose like his dad.",
+            "audio_src": "เขาจมูกโด่งเหมือนพ่อ",
+            "audio_en_src": "He has a high nose like his dad."
+          },
+          {
+            "thai": "ฝุ่นเข้าจมูกเลยจาม",
+            "en": "Dust got in my nose so I sneezed.",
+            "audio_src": "ฝุ่นเข้าจมูกเลยจาม",
+            "audio_en_src": "Dust got in my nose so I sneezed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-047",
@@ -104789,7 +104903,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จีน",
-    "audio_en_src": "China, Chinese"
+    "audio_en_src": "China, Chinese",
+    "examples": [
+      {
+        "meaning": "China, Chinese",
+        "sentences": [
+          {
+            "thai": "เขาเรียนภาษาจีนอยู่",
+            "en": "He's studying Chinese.",
+            "audio_src": "เขาเรียนภาษาจีนอยู่",
+            "audio_en_src": "He's studying Chinese."
+          },
+          {
+            "thai": "อาหารจีนส่วนใหญ่ไม่ค่อยเผ็ด",
+            "en": "Most Chinese food isn't very spicy.",
+            "audio_src": "อาหารจีนส่วนใหญ่ไม่ค่อยเผ็ด",
+            "audio_en_src": "Most Chinese food isn't very spicy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-048",
@@ -104804,7 +104937,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจอ",
-    "audio_en_src": "to meet; to encounter"
+    "audio_en_src": "to meet; to encounter",
+    "examples": [
+      {
+        "meaning": "to meet",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้เจอกันหน้าร้านนะ",
+            "en": "See you in front of the shop tomorrow.",
+            "audio_src": "พรุ่งนี้เจอกันหน้าร้านนะ",
+            "audio_en_src": "See you in front of the shop tomorrow."
+          },
+          {
+            "thai": "ดีใจที่ได้เจอเธออีกครั้ง",
+            "en": "I'm glad to see you again.",
+            "audio_src": "ดีใจที่ได้เจอเธออีกครั้ง",
+            "audio_en_src": "I'm glad to see you again."
+          }
+        ]
+      },
+      {
+        "meaning": "to encounter (unexpectedly)",
+        "sentences": [
+          {
+            "thai": "ฉันเจอเงินตกอยู่บนพื้น",
+            "en": "I found money lying on the ground.",
+            "audio_src": "ฉันเจอเงินตกอยู่บนพื้น",
+            "audio_en_src": "I found money lying on the ground."
+          },
+          {
+            "thai": "เดินอยู่ดีๆก็เจอเพื่อนเก่า",
+            "en": "While walking, I ran into an old friend.",
+            "audio_src": "เดินอยู่ดีๆก็เจอเพื่อนเก่า",
+            "audio_en_src": "While walking, I ran into an old friend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-050",
@@ -104819,7 +104988,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใจดี",
-    "audio_en_src": "kind-hearted"
+    "audio_en_src": "kind-hearted",
+    "examples": [
+      {
+        "meaning": "kind-hearted",
+        "sentences": [
+          {
+            "thai": "คุณครูใจดีกับนักเรียนทุกคน",
+            "en": "The teacher is kind to all the students.",
+            "audio_src": "คุณครูใจดีกับนักเรียนทุกคน",
+            "audio_en_src": "The teacher is kind to all the students."
+          },
+          {
+            "thai": "เขาใจดี ชอบช่วยเหลือคนอื่น",
+            "en": "He's kind-hearted, he likes helping others.",
+            "audio_src": "เขาใจดี ชอบช่วยเหลือคนอื่น",
+            "audio_en_src": "He's kind-hearted, he likes helping others."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-051",
@@ -104845,7 +105033,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชัด",
-    "audio_en_src": "plain, clear, distinct"
+    "audio_en_src": "plain, clear, distinct",
+    "examples": [
+      {
+        "meaning": "plain, clear, distinct",
+        "sentences": [
+          {
+            "thai": "รูปนี้ถ่ายออกมาชัดดี",
+            "en": "This photo came out nice and clear.",
+            "audio_src": "รูปนี้ถ่ายออกมาชัดดี",
+            "audio_en_src": "This photo came out nice and clear."
+          },
+          {
+            "thai": "พูดดังๆหน่อย จะได้ยินชัด",
+            "en": "Speak up a bit so I can hear clearly.",
+            "audio_src": "พูดดังๆหน่อย จะได้ยินชัด",
+            "audio_en_src": "Speak up a bit so I can hear clearly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-053",

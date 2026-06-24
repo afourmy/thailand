@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 851 words**
+**Total: 861 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -854,4 +854,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-048` : เจอ (to meet; to encounter (unexpectedly)) : 2 meaning(s), 4 sentences
 - `wlt-c15-050` : ใจดี (kind-hearted) : 1 meaning(s), 2 sentences
 - `wlt-c15-052` : ชัด (plain, clear, distinct) : 1 meaning(s), 2 sentences
+- `wlt-c15-053` : เช่น (such as) : 1 meaning(s), 2 sentences
+- `wlt-c15-054` : เชื่อ (to believe) : 1 meaning(s), 2 sentences
+- `wlt-c15-055` : ใช่ไหม ('isn't it so?', 'right?') : 1 meaning(s), 2 sentences
+- `wlt-c15-056` : ซ้าย (left (side)) : 1 meaning(s), 2 sentences
+- `wlt-c15-057` : ดนตรี (music) : 1 meaning(s), 2 sentences
+- `wlt-c15-058` : ด้วยกัน (together) : 1 meaning(s), 2 sentences
+- `wlt-c15-059` : ดอกไม้ (flower) : 1 meaning(s), 2 sentences
+- `wlt-c15-061` : ดิฉัน, ฉัน (I, me (female speaker)) : 1 meaning(s), 2 sentences
+- `wlt-c15-062` : เดียว, อย่างเดียว (only, single, alone) : 1 meaning(s), 2 sentences
+- `wlt-c15-066` : ต่อไป (next, later) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
