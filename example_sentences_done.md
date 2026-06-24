@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1141 words**
+**Total: 1151 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1145,3 +1145,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-082` : หวาน (sweet) : 1 meaning(s), 2 sentences
 - `wlt-c20-083` : ห้องน้ำ (toilet, bathroom) : 1 meaning(s), 2 sentences
 - `wlt-c20-084` : หา (to look for, to search; (informal) to visit, to go see (someone)) : 2 meaning(s), 4 sentences
+- `wlt-c20-085` : เห็น (to see) : 1 meaning(s), 2 sentences
+- `wlt-c20-087` : อยู่ (to be located at; to live, to stay) : 2 meaning(s), 4 sentences
+- `wlt-c20-088` : อ่าน (to read) : 1 meaning(s), 2 sentences
+- `wlt-c20-089` : อีก, อีกที (again, once more) : 1 meaning(s), 2 sentences
+- `wlt-c20-090` : เอา (to get, to take, to want) : 1 meaning(s), 2 sentences
+- `wlt-c20-091` : กลับ (to return) : 1 meaning(s), 2 sentences
+- `wlt-c20-092` : ก่อน (before, first) : 1 meaning(s), 2 sentences
+- `wlt-c20-093` : กางเกง (trousers, pants) : 1 meaning(s), 2 sentences
+- `wlt-c20-094` : กิน (to eat) : 1 meaning(s), 2 sentences
+- `wlt-c20-095` : เก่า ((of things) old; former, previous) : 2 meaning(s), 4 sentences
