@@ -2,7 +2,7 @@ Each word in the deck comes with an English and a Thai translation. But a word i
 
 These sentences should:
 
-- **Sound natural** - they should reflect how a native Thai speaker would genuinely use the word in everyday life.
+- **Sound natural, in both languages** - every Thai sentence AND its English translation must be something a native speaker would actually say in everyday life, not merely something grammatically correct. Avoid stiff, textbook, or word-for-word phrasings (e.g. a literal "type me a message" instead of the natural "text me"). If the most faithful translation comes out unnatural in English, reword it, or pick a different example sentence, so that both the Thai and the English are genuinely idiomatic. Grammatical correctness is not the bar; real usage is.
 - **Match the word's register** - an informal, casual word belongs in a sentence written in informal spoken Thai; a formal word should appear in a more formal setting.
 - **Be as short and simple as possible** - the goal is to spotlight the target word, not bury it in a long sentence. If a brief sentence can demonstrate the meaning, use it.
 - **Use easy surrounding vocabulary** - keep the rest of the sentence simple (again, matching the word's level of formality), so the learner can understand almost everything, and the word being taught is the only piece they might not yet know.

@@ -5769,7 +5769,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลุ่ม",
-    "audio_en_src": "group"
+    "audio_en_src": "group",
+    "examples": [
+      {
+        "meaning": "group",
+        "sentences": [
+          {
+            "thai": "เราแบ่งเป็นกลุ่มละสี่คน",
+            "en": "We split into groups of four.",
+            "audio_src": "เราแบ่งเป็นกลุ่มละสี่คน",
+            "audio_en_src": "We split into groups of four."
+          },
+          {
+            "thai": "เขาอยู่กลุ่มเดียวกับฉัน",
+            "en": "He’s in the same group as me.",
+            "audio_src": "เขาอยู่กลุ่มเดียวกับฉัน",
+            "audio_en_src": "He’s in the same group as me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-375",
@@ -7167,7 +7186,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สวน",
-    "audio_en_src": "park, garden; against, in the opposite direction"
+    "audio_en_src": "park, garden; against, in the opposite direction",
+    "examples": [
+      {
+        "meaning": "park, garden",
+        "sentences": [
+          {
+            "thai": "เย็นนี้ไปเดินเล่นที่สวน",
+            "en": "Let’s go for a walk in the park this evening.",
+            "audio_src": "เย็นนี้ไปเดินเล่นที่สวน",
+            "audio_en_src": "Let’s go for a walk in the park this evening."
+          },
+          {
+            "thai": "บ้านเขามีสวนสวยมาก",
+            "en": "His house has a beautiful garden.",
+            "audio_src": "บ้านเขามีสวนสวยมาก",
+            "audio_en_src": "His house has a beautiful garden."
+          }
+        ]
+      },
+      {
+        "meaning": "against, in the opposite direction",
+        "sentences": [
+          {
+            "thai": "อย่าขับรถสวนเลน",
+            "en": "Don’t drive against the traffic.",
+            "audio_src": "อย่าขับรถสวนเลน",
+            "audio_en_src": "Don’t drive against the traffic."
+          },
+          {
+            "thai": "เขาเดินสวนทางกับฉัน",
+            "en": "He walked past me from the opposite direction.",
+            "audio_src": "เขาเดินสวนทางกับฉัน",
+            "audio_en_src": "He walked past me from the opposite direction."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-043",
@@ -9290,7 +9345,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซอย",
-    "audio_en_src": "alley; sliced, minced"
+    "audio_en_src": "alley; sliced, minced",
+    "examples": [
+      {
+        "meaning": "alley",
+        "sentences": [
+          {
+            "thai": "บ้านฉันอยู่ในซอยนี้",
+            "en": "My house is in this alley.",
+            "audio_src": "บ้านฉันอยู่ในซอยนี้",
+            "audio_en_src": "My house is in this alley."
+          },
+          {
+            "thai": "เลี้ยวเข้าซอยหน้านะ",
+            "en": "Turn into the next soi.",
+            "audio_src": "เลี้ยวเข้าซอยหน้านะ",
+            "audio_en_src": "Turn into the next soi."
+          }
+        ]
+      },
+      {
+        "meaning": "sliced, minced (food)",
+        "sentences": [
+          {
+            "thai": "ซอยหอมแดงให้ละเอียด",
+            "en": "Slice the shallots finely.",
+            "audio_src": "ซอยหอมแดงให้ละเอียด",
+            "audio_en_src": "Slice the shallots finely."
+          },
+          {
+            "thai": "ใส่พริกซอยลงไปด้วย",
+            "en": "Add some sliced chili too.",
+            "audio_src": "ใส่พริกซอยลงไปด้วย",
+            "audio_en_src": "Add some sliced chili too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-236",
@@ -9342,7 +9433,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คน",
-    "audio_en_src": "person; to stir"
+    "audio_en_src": "person; to stir",
+    "examples": [
+      {
+        "meaning": "person",
+        "sentences": [
+          {
+            "thai": "มีคนรออยู่ข้างนอก",
+            "en": "There’s someone waiting outside.",
+            "audio_src": "มีคนรออยู่ข้างนอก",
+            "audio_en_src": "There’s someone waiting outside."
+          },
+          {
+            "thai": "ร้านนี้คนเยอะมาก",
+            "en": "This shop is really crowded.",
+            "audio_src": "ร้านนี้คนเยอะมาก",
+            "audio_en_src": "This shop is really crowded."
+          }
+        ]
+      },
+      {
+        "meaning": "to stir (food)",
+        "sentences": [
+          {
+            "thai": "ช่วยคนซุปหน่อย",
+            "en": "Please stir the soup.",
+            "audio_src": "ช่วยคนซุปหน่อย",
+            "audio_en_src": "Please stir the soup."
+          },
+          {
+            "thai": "คนให้เข้ากันก่อนกิน",
+            "en": "Stir it well before eating.",
+            "audio_src": "คนให้เข้ากันก่อนกิน",
+            "audio_en_src": "Stir it well before eating."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-240",
@@ -9835,7 +9962,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แขก",
-    "audio_en_src": "guest"
+    "audio_en_src": "guest",
+    "examples": [
+      {
+        "meaning": "guest",
+        "sentences": [
+          {
+            "thai": "คืนนี้มีแขกมาที่บ้าน",
+            "en": "We have guests coming over tonight.",
+            "audio_src": "คืนนี้มีแขกมาที่บ้าน",
+            "audio_en_src": "We have guests coming over tonight."
+          },
+          {
+            "thai": "ต้อนรับแขกให้ดีนะ",
+            "en": "Take good care of the guests.",
+            "audio_src": "ต้อนรับแขกให้ดีนะ",
+            "audio_en_src": "Take good care of the guests."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-285",
@@ -10039,7 +10185,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รวย, ร่ำรวย",
-    "audio_en_src": "wealthy, rich"
+    "audio_en_src": "wealthy, rich",
+    "examples": [
+      {
+        "meaning": "wealthy, rich",
+        "sentences": [
+          {
+            "thai": "เขารวยมาก มีบ้านหลายหลัง",
+            "en": "He’s very rich, he has several houses.",
+            "audio_src": "เขารวยมาก มีบ้านหลายหลัง",
+            "audio_en_src": "He’s very rich, he has several houses."
+          },
+          {
+            "thai": "อยากรวยต้องขยันทำงาน",
+            "en": "If you want to be rich, you have to work hard.",
+            "audio_src": "อยากรวยต้องขยันทำงาน",
+            "audio_en_src": "If you want to be rich, you have to work hard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-303",
@@ -11345,7 +11510,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คัน",
-    "audio_en_src": "to feel itchy"
+    "audio_en_src": "to feel itchy",
+    "examples": [
+      {
+        "meaning": "to feel itchy",
+        "sentences": [
+          {
+            "thai": "ยุงกัดแล้วคันมาก",
+            "en": "The mosquito bite is so itchy.",
+            "audio_src": "ยุงกัดแล้วคันมาก",
+            "audio_en_src": "The mosquito bite is so itchy."
+          },
+          {
+            "thai": "หลังคันจัง เกาให้หน่อย",
+            "en": "My back is so itchy, scratch it for me.",
+            "audio_src": "หลังคันจัง เกาให้หน่อย",
+            "audio_en_src": "My back is so itchy, scratch it for me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-086",
@@ -11643,7 +11827,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จัด",
-    "audio_en_src": "to organize, to arrange"
+    "audio_en_src": "to organize, to arrange",
+    "examples": [
+      {
+        "meaning": "to organize, to arrange",
+        "sentences": [
+          {
+            "thai": "ช่วยจัดโต๊ะให้หน่อย",
+            "en": "Please arrange the table.",
+            "audio_src": "ช่วยจัดโต๊ะให้หน่อย",
+            "audio_en_src": "Please arrange the table."
+          },
+          {
+            "thai": "บริษัทจัดงานเลี้ยงปีใหม่",
+            "en": "The company is organizing a New Year party.",
+            "audio_src": "บริษัทจัดงานเลี้ยงปีใหม่",
+            "audio_en_src": "The company is organizing a New Year party."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-106",
@@ -11708,7 +11911,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จืด, จืดจาง",
-    "audio_en_src": "bland, tasteless"
+    "audio_en_src": "bland, tasteless",
+    "examples": [
+      {
+        "meaning": "bland, tasteless",
+        "sentences": [
+          {
+            "thai": "แกงนี้จืดไปหน่อย",
+            "en": "This curry is a bit bland.",
+            "audio_src": "แกงนี้จืดไปหน่อย",
+            "audio_en_src": "This curry is a bit bland."
+          },
+          {
+            "thai": "อาหารจืด ใส่เกลือเพิ่มหน่อย",
+            "en": "The food’s bland, add a bit more salt.",
+            "audio_src": "อาหารจืด ใส่เกลือเพิ่มหน่อย",
+            "audio_en_src": "The food’s bland, add a bit more salt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-111",
@@ -11893,7 +12115,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช้อน",
-    "audio_en_src": "spoon"
+    "audio_en_src": "spoon",
+    "examples": [
+      {
+        "meaning": "spoon",
+        "sentences": [
+          {
+            "thai": "ขอช้อนเพิ่มอีกอันได้ไหม",
+            "en": "Can I have another spoon?",
+            "audio_src": "ขอช้อนเพิ่มอีกอันได้ไหม",
+            "audio_en_src": "Can I have another spoon?"
+          },
+          {
+            "thai": "กินซุปต้องใช้ช้อน",
+            "en": "You need a spoon to eat soup.",
+            "audio_src": "กินซุปต้องใช้ช้อน",
+            "audio_en_src": "You need a spoon to eat soup."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-128",
@@ -14057,10 +14298,10 @@
             "audio_en_src": "He types very fast."
           },
           {
-            "thai": "ช่วยพิมพ์ข้อความหาฉันหน่อย",
-            "en": "Please type me a message.",
-            "audio_src": "ช่วยพิมพ์ข้อความหาฉันหน่อย",
-            "audio_en_src": "Please type me a message."
+            "thai": "พิมพ์ผิดตลอดเลย",
+            "en": "I keep making typos.",
+            "audio_src": "พิมพ์ผิดตลอดเลย",
+            "audio_en_src": "I keep making typos."
           }
         ]
       },
