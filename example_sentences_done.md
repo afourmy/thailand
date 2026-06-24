@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1071 words**
+**Total: 1081 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1074,4 +1074,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-002` : คู่ (pair) : 1 meaning(s), 2 sentences
 - `wlt-c20-004` : จน (poor (in wealth); until, till) : 2 meaning(s), 4 sentences
 - `wlt-c20-005` : จอด (to park) : 1 meaning(s), 2 sentences
+- `wlt-c20-006` : จะ (will (future tense)) : 1 meaning(s), 2 sentences
+- `wlt-c20-007` : จังหวัด (province) : 1 meaning(s), 2 sentences
+- `wlt-c20-008` : จาน (plate) : 1 meaning(s), 2 sentences
+- `wlt-c20-009` : เช่า (to rent) : 1 meaning(s), 2 sentences
+- `wlt-c20-010` : ใช้ (to use, to be used for) : 1 meaning(s), 2 sentences
+- `wlt-c20-011` : ซัก (to wash (clothes)) : 1 meaning(s), 2 sentences
+- `wlt-c20-012` : ดัง, เสียงดัง (loud) : 1 meaning(s), 2 sentences
+- `wlt-c20-013` : ดี (good) : 1 meaning(s), 2 sentences
+- `wlt-c20-014` : ดีใจ, ยินดี (glad) : 1 meaning(s), 2 sentences
+- `wlt-c20-015` : ได้ยิน (to hear) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

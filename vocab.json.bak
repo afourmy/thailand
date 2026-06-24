@@ -113813,7 +113813,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างหลัง",
-    "audio_en_src": "behind"
+    "audio_en_src": "behind",
+    "examples": [
+      {
+        "meaning": "behind",
+        "sentences": [
+          {
+            "thai": "มีคนยืนอยู่ข้างหลังเธอ",
+            "en": "There's someone standing behind you.",
+            "audio_src": "มีคนยืนอยู่ข้างหลังเธอ",
+            "audio_en_src": "There's someone standing behind you."
+          },
+          {
+            "thai": "รถจอดอยู่ข้างหลังบ้าน",
+            "en": "The car is parked behind the house.",
+            "audio_src": "รถจอดอยู่ข้างหลังบ้าน",
+            "audio_en_src": "The car is parked behind the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-096",
@@ -113828,7 +113847,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าว",
-    "audio_en_src": "rice"
+    "audio_en_src": "rice",
+    "examples": [
+      {
+        "meaning": "rice",
+        "sentences": [
+          {
+            "thai": "กินข้าวหรือยัง",
+            "en": "Have you eaten yet?",
+            "audio_src": "กินข้าวหรือยัง",
+            "audio_en_src": "Have you eaten yet?"
+          },
+          {
+            "thai": "ฉันหุงข้าวไว้แล้ว",
+            "en": "I've already cooked the rice.",
+            "audio_src": "ฉันหุงข้าวไว้แล้ว",
+            "audio_en_src": "I've already cooked the rice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-097",
@@ -113843,7 +113881,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เขียน",
-    "audio_en_src": "to write"
+    "audio_en_src": "to write",
+    "examples": [
+      {
+        "meaning": "to write",
+        "sentences": [
+          {
+            "thai": "ช่วยเขียนชื่อตรงนี้หน่อย",
+            "en": "Please write your name here.",
+            "audio_src": "ช่วยเขียนชื่อตรงนี้หน่อย",
+            "audio_en_src": "Please write your name here."
+          },
+          {
+            "thai": "เขาเขียนจดหมายถึงแม่",
+            "en": "He wrote a letter to his mother.",
+            "audio_src": "เขาเขียนจดหมายถึงแม่",
+            "audio_en_src": "He wrote a letter to his mother."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-098",
@@ -113858,7 +113915,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครอบครัว",
-    "audio_en_src": "family"
+    "audio_en_src": "family",
+    "examples": [
+      {
+        "meaning": "family",
+        "sentences": [
+          {
+            "thai": "ครอบครัวฉันมีสี่คน",
+            "en": "There are four people in my family.",
+            "audio_src": "ครอบครัวฉันมีสี่คน",
+            "audio_en_src": "There are four people in my family."
+          },
+          {
+            "thai": "วันหยุดฉันใช้เวลากับครอบครัว",
+            "en": "On holidays I spend time with my family.",
+            "audio_src": "วันหยุดฉันใช้เวลากับครอบครัว",
+            "audio_en_src": "On holidays I spend time with my family."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-099",
@@ -113872,7 +113948,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครับ",
-    "audio_en_src": "polite particle, yes"
+    "audio_en_src": "polite particle, yes",
+    "examples": [
+      {
+        "meaning": "polite particle (male), yes",
+        "sentences": [
+          {
+            "thai": "สวัสดีครับ",
+            "en": "Hello.",
+            "audio_src": "สวัสดีครับ",
+            "audio_en_src": "Hello."
+          },
+          {
+            "thai": "ครับ เดี๋ยวผมไป",
+            "en": "Yes, I'll go right away.",
+            "audio_src": "ครับ เดี๋ยวผมไป",
+            "audio_en_src": "Yes, I'll go right away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-000",
@@ -113887,7 +113982,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครู",
-    "audio_en_src": "teacher"
+    "audio_en_src": "teacher",
+    "examples": [
+      {
+        "meaning": "teacher",
+        "sentences": [
+          {
+            "thai": "ครูใจดีมาก",
+            "en": "The teacher is very kind.",
+            "audio_src": "ครูใจดีมาก",
+            "audio_en_src": "The teacher is very kind."
+          },
+          {
+            "thai": "แม่ฉันเป็นครู",
+            "en": "My mom is a teacher.",
+            "audio_src": "แม่ฉันเป็นครู",
+            "audio_en_src": "My mom is a teacher."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-001",
@@ -113901,7 +114015,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คับ",
-    "audio_en_src": "tight; crowded, packed"
+    "audio_en_src": "tight; crowded, packed",
+    "examples": [
+      {
+        "meaning": "tight",
+        "sentences": [
+          {
+            "thai": "กางเกงตัวนี้คับไป",
+            "en": "These pants are too tight.",
+            "audio_src": "กางเกงตัวนี้คับไป",
+            "audio_en_src": "These pants are too tight."
+          },
+          {
+            "thai": "รองเท้าคู่นี้คับ ใส่ไม่สบาย",
+            "en": "These shoes are tight, they're uncomfortable.",
+            "audio_src": "รองเท้าคู่นี้คับ ใส่ไม่สบาย",
+            "audio_en_src": "These shoes are tight, they're uncomfortable."
+          }
+        ]
+      },
+      {
+        "meaning": "crowded, packed",
+        "sentences": [
+          {
+            "thai": "รถเมล์คนคับมาก",
+            "en": "The bus is really packed.",
+            "audio_src": "รถเมล์คนคับมาก",
+            "audio_en_src": "The bus is really packed."
+          },
+          {
+            "thai": "ในร้านคนคับจนเดินไม่ได้",
+            "en": "The shop is so crowded you can't even walk.",
+            "audio_src": "ในร้านคนคับจนเดินไม่ได้",
+            "audio_en_src": "The shop is so crowded you can't even walk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-002",
@@ -113916,7 +114066,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คู่",
-    "audio_en_src": "pair"
+    "audio_en_src": "pair",
+    "examples": [
+      {
+        "meaning": "pair",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อรองเท้าคู่ใหม่",
+            "en": "I bought a new pair of shoes.",
+            "audio_src": "ฉันซื้อรองเท้าคู่ใหม่",
+            "audio_en_src": "I bought a new pair of shoes."
+          },
+          {
+            "thai": "ถุงเท้าคู่นี้สีสวย",
+            "en": "This pair of socks is a nice color.",
+            "audio_src": "ถุงเท้าคู่นี้สีสวย",
+            "audio_en_src": "This pair of socks is a nice color."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-004",
@@ -113931,7 +114100,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จน",
-    "audio_en_src": "poor; until, till"
+    "audio_en_src": "poor; until, till",
+    "examples": [
+      {
+        "meaning": "poor (in wealth)",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนครอบครัวเขาจนมาก",
+            "en": "His family was very poor in the old days.",
+            "audio_src": "สมัยก่อนครอบครัวเขาจนมาก",
+            "audio_en_src": "His family was very poor in the old days."
+          },
+          {
+            "thai": "ถึงจะจนแต่เขาก็มีความสุข",
+            "en": "Even though he's poor, he's happy.",
+            "audio_src": "ถึงจะจนแต่เขาก็มีความสุข",
+            "audio_en_src": "Even though he's poor, he's happy."
+          }
+        ]
+      },
+      {
+        "meaning": "until, till",
+        "sentences": [
+          {
+            "thai": "ฉันรอจนเขามา",
+            "en": "I waited until he came.",
+            "audio_src": "ฉันรอจนเขามา",
+            "audio_en_src": "I waited until he came."
+          },
+          {
+            "thai": "เขาทำงานจนดึก",
+            "en": "He worked until late at night.",
+            "audio_src": "เขาทำงานจนดึก",
+            "audio_en_src": "He worked until late at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-005",
@@ -113946,7 +114151,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จอด",
-    "audio_en_src": "to park"
+    "audio_en_src": "to park",
+    "examples": [
+      {
+        "meaning": "to park",
+        "sentences": [
+          {
+            "thai": "จอดรถตรงนี้ได้ไหม",
+            "en": "Can I park here?",
+            "audio_src": "จอดรถตรงนี้ได้ไหม",
+            "audio_en_src": "Can I park here?"
+          },
+          {
+            "thai": "หาที่จอดรถยากมาก",
+            "en": "It's really hard to find parking.",
+            "audio_src": "หาที่จอดรถยากมาก",
+            "audio_en_src": "It's really hard to find parking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-006",
