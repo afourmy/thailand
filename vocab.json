@@ -91313,7 +91313,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตัดผม",
-    "audio_en_src": "to cut hair"
+    "audio_en_src": "to cut hair",
+    "examples": [
+      {
+        "meaning": "to cut hair",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ฉันจะไปตัดผม",
+            "en": "Tomorrow I'm going to get a haircut.",
+            "audio_src": "พรุ่งนี้ฉันจะไปตัดผม",
+            "audio_en_src": "Tomorrow I'm going to get a haircut."
+          },
+          {
+            "thai": "ตัดผมสั้นแล้วดูเด็กลง",
+            "en": "With short hair you look younger.",
+            "audio_src": "ตัดผมสั้นแล้วดูเด็กลง",
+            "audio_en_src": "With short hair you look younger."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-079",
@@ -91324,6 +91343,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to decide",
+        "sentences": [
+          {
+            "thai": "ฉันยังตัดสินใจไม่ได้",
+            "en": "I still can't decide.",
+            "audio_src": "ฉันยังตัดสินใจไม่ได้",
+            "audio_en_src": "I still can't decide."
+          },
+          {
+            "thai": "เขาตัดสินใจลาออกจากงาน",
+            "en": "He decided to quit his job.",
+            "audio_src": "เขาตัดสินใจลาออกจากงาน",
+            "audio_en_src": "He decided to quit his job."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91391,7 +91429,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตื่นเต้น",
-    "audio_en_src": "excited, thrilled"
+    "audio_en_src": "excited, thrilled",
+    "examples": [
+      {
+        "meaning": "excited, thrilled",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้จะได้เที่ยว ตื่นเต้นมาก",
+            "en": "Tomorrow we get to travel, I'm so excited.",
+            "audio_src": "พรุ่งนี้จะได้เที่ยว ตื่นเต้นมาก",
+            "audio_en_src": "Tomorrow we get to travel, I'm so excited."
+          },
+          {
+            "thai": "อย่าตื่นเต้นไป หายใจลึกๆ",
+            "en": "Don't get worked up, take a deep breath.",
+            "audio_src": "อย่าตื่นเต้นไป หายใจลึกๆ",
+            "audio_en_src": "Don't get worked up, take a deep breath."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-087",
@@ -91412,6 +91469,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to dance",
+        "sentences": [
+          {
+            "thai": "เพลงนี้เพราะ อยากเต้นเลย",
+            "en": "This song's great, it makes me want to dance.",
+            "audio_src": "เพลงนี้เพราะ อยากเต้นเลย",
+            "audio_en_src": "This song's great, it makes me want to dance."
+          },
+          {
+            "thai": "เขาเต้นรำเก่งมาก",
+            "en": "He dances really well.",
+            "audio_src": "เขาเต้นรำเก่งมาก",
+            "audio_en_src": "He dances really well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91625,7 +91701,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทั้งคืน",
-    "audio_en_src": "all night"
+    "audio_en_src": "all night",
+    "examples": [
+      {
+        "meaning": "all night",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนฉันนอนไม่หลับทั้งคืน",
+            "en": "Last night I couldn't sleep the whole night.",
+            "audio_src": "เมื่อคืนฉันนอนไม่หลับทั้งคืน",
+            "audio_en_src": "Last night I couldn't sleep the whole night."
+          },
+          {
+            "thai": "เขาเล่นเกมทั้งคืน",
+            "en": "He played games all night.",
+            "audio_src": "เขาเล่นเกมทั้งคืน",
+            "audio_en_src": "He played games all night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-011",
@@ -91639,7 +91734,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตลอดวัน, ทั้งวัน",
-    "audio_en_src": "all day"
+    "audio_en_src": "all day",
+    "examples": [
+      {
+        "meaning": "all day",
+        "sentences": [
+          {
+            "thai": "วันนี้ฝนตกทั้งวัน",
+            "en": "It rained all day today.",
+            "audio_src": "วันนี้ฝนตกทั้งวัน",
+            "audio_en_src": "It rained all day today."
+          },
+          {
+            "thai": "เขาทำงานตลอดวันไม่ได้พัก",
+            "en": "He worked all day without a break.",
+            "audio_src": "เขาทำงานตลอดวันไม่ได้พัก",
+            "audio_en_src": "He worked all day without a break."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-012",
@@ -91664,7 +91778,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทางนี้",
-    "audio_en_src": "this way"
+    "audio_en_src": "this way",
+    "examples": [
+      {
+        "meaning": "this way",
+        "sentences": [
+          {
+            "thai": "มาทางนี้สิ ฉันจะพาไป",
+            "en": "Come this way, I'll take you there.",
+            "audio_src": "มาทางนี้สิ ฉันจะพาไป",
+            "audio_en_src": "Come this way, I'll take you there."
+          },
+          {
+            "thai": "เดินทางนี้ใกล้กว่า",
+            "en": "Going this way is closer.",
+            "audio_src": "เดินทางนี้ใกล้กว่า",
+            "audio_en_src": "Going this way is closer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-017",
@@ -91688,7 +91821,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำกับข้าว",
-    "audio_en_src": "to cook"
+    "audio_en_src": "to cook",
+    "examples": [
+      {
+        "meaning": "to cook",
+        "sentences": [
+          {
+            "thai": "แม่ทำกับข้าวอร่อยมาก",
+            "en": "Mom cooks really well.",
+            "audio_src": "แม่ทำกับข้าวอร่อยมาก",
+            "audio_en_src": "Mom cooks really well."
+          },
+          {
+            "thai": "วันนี้ฉันจะทำกับข้าวเอง",
+            "en": "Today I'll cook myself.",
+            "audio_src": "วันนี้ฉันจะทำกับข้าวเอง",
+            "audio_en_src": "Today I'll cook myself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-021",
@@ -91743,7 +91895,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกคน",
-    "audio_en_src": "everybody, everyone"
+    "audio_en_src": "everybody, everyone",
+    "examples": [
+      {
+        "meaning": "everybody, everyone",
+        "sentences": [
+          {
+            "thai": "ทุกคนพร้อมหรือยัง",
+            "en": "Is everyone ready?",
+            "audio_src": "ทุกคนพร้อมหรือยัง",
+            "audio_en_src": "Is everyone ready?"
+          },
+          {
+            "thai": "ขอบคุณทุกคนที่มาวันนี้",
+            "en": "Thank you, everyone, for coming today.",
+            "audio_src": "ขอบคุณทุกคนที่มาวันนี้",
+            "audio_en_src": "Thank you, everyone, for coming today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-027",
@@ -91767,7 +91938,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกอย่าง",
-    "audio_en_src": "everything, every kind"
+    "audio_en_src": "everything, every kind",
+    "examples": [
+      {
+        "meaning": "everything (spoken), every kind",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีทุกอย่างที่ต้องการ",
+            "en": "This shop has everything I need.",
+            "audio_src": "ร้านนี้มีทุกอย่างที่ต้องการ",
+            "audio_en_src": "This shop has everything I need."
+          },
+          {
+            "thai": "ฉันชอบกินทุกอย่าง ไม่เลือก",
+            "en": "I eat everything, I'm not picky.",
+            "audio_src": "ฉันชอบกินทุกอย่าง ไม่เลือก",
+            "audio_en_src": "I eat everything, I'm not picky."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-030",
@@ -91825,7 +92015,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เท่าไหร่",
-    "audio_en_src": "how much"
+    "audio_en_src": "how much",
+    "examples": [
+      {
+        "meaning": "how much",
+        "sentences": [
+          {
+            "thai": "อันนี้ราคาเท่าไหร่",
+            "en": "How much is this?"
+          },
+          {
+            "thai": "เธอจ่ายค่าเช่าเดือนละเท่าไหร่",
+            "en": "How much rent do you pay a month?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-035",
@@ -91923,7 +92128,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่ารำคาญ",
-    "audio_en_src": "annoying"
+    "audio_en_src": "annoying",
+    "examples": [
+      {
+        "meaning": "annoying",
+        "sentences": [
+          {
+            "thai": "เสียงนาฬิกาปลุกน่ารำคาญมาก",
+            "en": "The alarm sound is so annoying."
+          },
+          {
+            "thai": "เขาถามซ้ำๆจนน่ารำคาญ",
+            "en": "He keeps asking the same thing, it's annoying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-046",
@@ -91948,7 +92168,35 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่าเสียดาย",
-    "audio_en_src": "what a pity, what a shame; regrettable"
+    "audio_en_src": "what a pity, what a shame; regrettable",
+    "examples": [
+      {
+        "meaning": "what a pity, what a shame",
+        "sentences": [
+          {
+            "thai": "น่าเสียดายที่เธอมาไม่ได้",
+            "en": "What a shame you can't come."
+          },
+          {
+            "thai": "ทิ้งไปน่าเสียดาย ยังใช้ได้อยู่",
+            "en": "It's a pity to throw it away, it still works."
+          }
+        ]
+      },
+      {
+        "meaning": "regrettable",
+        "sentences": [
+          {
+            "thai": "เป็นเรื่องน่าเสียดายที่โครงการถูกยกเลิก",
+            "en": "It's regrettable that the project was cancelled."
+          },
+          {
+            "thai": "น่าเสียดายที่เขาตัดสินใจผิด",
+            "en": "It's regrettable that he made the wrong choice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-048",
@@ -92002,7 +92250,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นิ้วมือ",
-    "audio_en_src": "finger"
+    "audio_en_src": "finger",
+    "examples": [
+      {
+        "meaning": "finger",
+        "sentences": [
+          {
+            "thai": "เขาเอานิ้วมือชี้ไปที่ป้าย",
+            "en": "He pointed his finger at the sign."
+          },
+          {
+            "thai": "ฉันเผลอบาดนิ้วมือตอนหั่นผัก",
+            "en": "I accidentally cut my finger while chopping vegetables."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-054",
@@ -92059,7 +92322,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บัตรเครดิต",
-    "audio_en_src": "credit card"
+    "audio_en_src": "credit card",
+    "examples": [
+      {
+        "meaning": "credit card",
+        "sentences": [
+          {
+            "thai": "ร้านนี้รับบัตรเครดิตไหม",
+            "en": "Does this shop accept credit cards?"
+          },
+          {
+            "thai": "ฉันจ่ายด้วยบัตรเครดิต",
+            "en": "I'll pay by credit card."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-061",
@@ -92253,7 +92531,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เปียก",
-    "audio_en_src": "wet"
+    "audio_en_src": "wet",
+    "examples": [
+      {
+        "meaning": "wet",
+        "sentences": [
+          {
+            "thai": "ออกไปข้างนอกโดนฝนจนเปียก",
+            "en": "I went outside and got soaked in the rain."
+          },
+          {
+            "thai": "ผมยังเปียกอยู่ เพิ่งสระมา",
+            "en": "My hair is still wet, I just washed it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-082",
@@ -92536,7 +92829,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพศ",
-    "audio_en_src": "gender, sex"
+    "audio_en_src": "gender, sex",
+    "examples": [
+      {
+        "meaning": "gender, sex",
+        "sentences": [
+          {
+            "thai": "กรอกชื่อ อายุ และเพศ",
+            "en": "Fill in your name, age, and gender."
+          },
+          {
+            "thai": "งานนี้รับสมัครทุกเพศ",
+            "en": "This job is open to people of any gender."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-023",
@@ -92614,7 +92922,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ภาษาไทย",
-    "audio_en_src": "Thai language"
+    "audio_en_src": "Thai language",
+    "examples": [
+      {
+        "meaning": "Thai language",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมีวรรณยุกต์ห้าเสียง",
+            "en": "Thai has five tones."
+          },
+          {
+            "thai": "ฉันกำลังเรียนภาษาไทยอยู่",
+            "en": "I'm learning Thai."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-031",
@@ -92679,7 +93002,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มีความสุข, สุขใจ",
-    "audio_en_src": "happy"
+    "audio_en_src": "happy",
+    "examples": [
+      {
+        "meaning": "happy",
+        "sentences": [
+          {
+            "thai": "เห็นลูกมีความสุขฉันก็ดีใจ",
+            "en": "Seeing my kids happy makes me glad."
+          },
+          {
+            "thai": "ฉันรู้สึกสุขใจที่ได้ช่วยเหลือคนอื่น",
+            "en": "I feel happy when I get to help others."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-037",
@@ -92704,7 +93042,22 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "มือถือ, โทรศัพท์มือถือ",
-    "audio_en_src": "mobile phone"
+    "audio_en_src": "mobile phone",
+    "examples": [
+      {
+        "meaning": "mobile phone",
+        "sentences": [
+          {
+            "thai": "มือถือฉันแบตหมดแล้ว",
+            "en": "My phone battery is dead."
+          },
+          {
+            "thai": "เขาซื้อโทรศัพท์มือถือเครื่องใหม่",
+            "en": "He bought a new mobile phone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-040",

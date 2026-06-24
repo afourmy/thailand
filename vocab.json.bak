@@ -90816,7 +90816,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โชคดี",
-    "audio_en_src": "good luck"
+    "audio_en_src": "good luck",
+    "examples": [
+      {
+        "meaning": "good luck",
+        "sentences": [
+          {
+            "thai": "โชคดีกับการสอบพรุ่งนี้นะ",
+            "en": "Good luck with your exam tomorrow.",
+            "audio_src": "โชคดีกับการสอบพรุ่งนี้นะ",
+            "audio_en_src": "Good luck with your exam tomorrow."
+          },
+          {
+            "thai": "โชคดีจังที่รถไม่ติด",
+            "en": "How lucky that there's no traffic.",
+            "audio_src": "โชคดีจังที่รถไม่ติด",
+            "audio_en_src": "How lucky that there's no traffic."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-052",
@@ -90851,7 +90870,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซุปเปอร์มาร์เก็ต",
-    "audio_en_src": "supermarket"
+    "audio_en_src": "supermarket",
+    "examples": [
+      {
+        "meaning": "supermarket",
+        "sentences": [
+          {
+            "thai": "ฉันไปซื้อของที่ซุปเปอร์มาร์เก็ต",
+            "en": "I'm going shopping at the supermarket.",
+            "audio_src": "ฉันไปซื้อของที่ซุปเปอร์มาร์เก็ต",
+            "audio_en_src": "I'm going shopping at the supermarket."
+          },
+          {
+            "thai": "ซุปเปอร์มาร์เก็ตนี้ของครบมาก",
+            "en": "This supermarket has everything.",
+            "audio_src": "ซุปเปอร์มาร์เก็ตนี้ของครบมาก",
+            "audio_en_src": "This supermarket has everything."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-056",
@@ -90909,7 +90947,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดังนั้น, เพราะฉะนั้น",
-    "audio_en_src": "therefore"
+    "audio_en_src": "therefore",
+    "examples": [
+      {
+        "meaning": "therefore",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนัก ดังนั้นเราเลื่อนนัดไปก่อน",
+            "en": "It's raining hard, so let's postpone for now.",
+            "audio_src": "ฝนตกหนัก ดังนั้นเราเลื่อนนัดไปก่อน",
+            "audio_en_src": "It's raining hard, so let's postpone for now."
+          },
+          {
+            "thai": "เขาขยัน เพราะฉะนั้นจึงประสบความสำเร็จ",
+            "en": "He's hardworking, and that's why he succeeded.",
+            "audio_src": "เขาขยัน เพราะฉะนั้นจึงประสบความสำเร็จ",
+            "audio_en_src": "He's hardworking, and that's why he succeeded."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-061",
@@ -90923,7 +90980,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดีขึ้น",
-    "audio_en_src": "improved, better than before"
+    "audio_en_src": "improved, better than before",
+    "examples": [
+      {
+        "meaning": "improved, better than before",
+        "sentences": [
+          {
+            "thai": "กินยาแล้วอาการดีขึ้น",
+            "en": "After taking the medicine, I feel better.",
+            "audio_src": "กินยาแล้วอาการดีขึ้น",
+            "audio_en_src": "After taking the medicine, I feel better."
+          },
+          {
+            "thai": "ภาษาไทยของเขาดีขึ้นเยอะ",
+            "en": "His Thai has improved a lot.",
+            "audio_src": "ภาษาไทยของเขาดีขึ้นเยอะ",
+            "audio_en_src": "His Thai has improved a lot."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-062",
@@ -90937,7 +91013,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดีที่สุด",
-    "audio_en_src": "best"
+    "audio_en_src": "best",
+    "examples": [
+      {
+        "meaning": "best",
+        "sentences": [
+          {
+            "thai": "นี่คือร้านที่ดีที่สุดในย่านนี้",
+            "en": "This is the best restaurant in the area.",
+            "audio_src": "นี่คือร้านที่ดีที่สุดในย่านนี้",
+            "audio_en_src": "This is the best restaurant in the area."
+          },
+          {
+            "thai": "สุขภาพดีคือสิ่งที่ดีที่สุด",
+            "en": "Good health is the best thing of all.",
+            "audio_src": "สุขภาพดีคือสิ่งที่ดีที่สุด",
+            "audio_en_src": "Good health is the best thing of all."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-063",
@@ -90983,7 +91078,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตกใจ",
-    "audio_en_src": "startled"
+    "audio_en_src": "startled",
+    "examples": [
+      {
+        "meaning": "startled",
+        "sentences": [
+          {
+            "thai": "เสียงระเบิดทำให้ทุกคนตกใจ",
+            "en": "The explosion startled everyone.",
+            "audio_src": "เสียงระเบิดทำให้ทุกคนตกใจ",
+            "audio_en_src": "The explosion startled everyone."
+          },
+          {
+            "thai": "อย่าแกล้งหลอกให้ฉันตกใจ",
+            "en": "Don't play tricks to scare me.",
+            "audio_src": "อย่าแกล้งหลอกให้ฉันตกใจ",
+            "audio_en_src": "Don't play tricks to scare me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-067",
@@ -91026,6 +91140,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to check, to verify",
+        "sentences": [
+          {
+            "thai": "ช่วยตรวจสอบข้อมูลให้ถูกต้อง",
+            "en": "Please check that the information is correct.",
+            "audio_src": "ช่วยตรวจสอบข้อมูลให้ถูกต้อง",
+            "audio_en_src": "Please check that the information is correct."
+          },
+          {
+            "thai": "ก่อนส่งต้องตรวจสอบงานอีกครั้ง",
+            "en": "Check the work again before submitting it.",
+            "audio_src": "ก่อนส่งต้องตรวจสอบงานอีกครั้ง",
+            "audio_en_src": "Check the work again before submitting it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91040,7 +91173,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตลอดไป",
-    "audio_en_src": "forever"
+    "audio_en_src": "forever",
+    "examples": [
+      {
+        "meaning": "forever",
+        "sentences": [
+          {
+            "thai": "ฉันจะรักเธอตลอดไป",
+            "en": "I'll love you forever.",
+            "audio_src": "ฉันจะรักเธอตลอดไป",
+            "audio_en_src": "I'll love you forever."
+          },
+          {
+            "thai": "ไม่มีอะไรอยู่กับเราตลอดไป",
+            "en": "Nothing stays with us forever.",
+            "audio_src": "ไม่มีอะไรอยู่กับเราตลอดไป",
+            "audio_en_src": "Nothing stays with us forever."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-072",
@@ -91054,7 +91206,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตลอดเวลา",
-    "audio_en_src": "all the time"
+    "audio_en_src": "all the time",
+    "examples": [
+      {
+        "meaning": "all the time",
+        "sentences": [
+          {
+            "thai": "เขาเล่นมือถือตลอดเวลา",
+            "en": "He's on his phone all the time.",
+            "audio_src": "เขาเล่นมือถือตลอดเวลา",
+            "audio_en_src": "He's on his phone all the time."
+          },
+          {
+            "thai": "แม่เป็นห่วงลูกตลอดเวลา",
+            "en": "Mom worries about her kids all the time.",
+            "audio_src": "แม่เป็นห่วงลูกตลอดเวลา",
+            "audio_en_src": "Mom worries about her kids all the time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-073",
@@ -91069,7 +91240,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตอนแรก",
-    "audio_en_src": "at first"
+    "audio_en_src": "at first",
+    "examples": [
+      {
+        "meaning": "at first",
+        "sentences": [
+          {
+            "thai": "ตอนแรกฉันไม่อยากไป แต่สุดท้ายก็สนุก",
+            "en": "At first I didn't want to go, but in the end it was fun.",
+            "audio_src": "ตอนแรกฉันไม่อยากไป แต่สุดท้ายก็สนุก",
+            "audio_en_src": "At first I didn't want to go, but in the end it was fun."
+          },
+          {
+            "thai": "ตอนแรกคิดว่ายาก แต่จริงๆง่ายมาก",
+            "en": "At first I thought it was hard, but it's actually really easy.",
+            "audio_src": "ตอนแรกคิดว่ายาก แต่จริงๆง่ายมาก",
+            "audio_en_src": "At first I thought it was hard, but it's actually really easy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-074",
@@ -91123,7 +91313,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตัดผม",
-    "audio_en_src": "to cut hair"
+    "audio_en_src": "to cut hair",
+    "examples": [
+      {
+        "meaning": "to cut hair",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ฉันจะไปตัดผม",
+            "en": "Tomorrow I'm going to get a haircut.",
+            "audio_src": "พรุ่งนี้ฉันจะไปตัดผม",
+            "audio_en_src": "Tomorrow I'm going to get a haircut."
+          },
+          {
+            "thai": "ตัดผมสั้นแล้วดูเด็กลง",
+            "en": "With short hair you look younger.",
+            "audio_src": "ตัดผมสั้นแล้วดูเด็กลง",
+            "audio_en_src": "With short hair you look younger."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-079",
@@ -91134,6 +91343,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to decide",
+        "sentences": [
+          {
+            "thai": "ฉันยังตัดสินใจไม่ได้",
+            "en": "I still can't decide.",
+            "audio_src": "ฉันยังตัดสินใจไม่ได้",
+            "audio_en_src": "I still can't decide."
+          },
+          {
+            "thai": "เขาตัดสินใจลาออกจากงาน",
+            "en": "He decided to quit his job.",
+            "audio_src": "เขาตัดสินใจลาออกจากงาน",
+            "audio_en_src": "He decided to quit his job."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91201,7 +91429,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตื่นเต้น",
-    "audio_en_src": "excited, thrilled"
+    "audio_en_src": "excited, thrilled",
+    "examples": [
+      {
+        "meaning": "excited, thrilled",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้จะได้เที่ยว ตื่นเต้นมาก",
+            "en": "Tomorrow we get to travel, I'm so excited.",
+            "audio_src": "พรุ่งนี้จะได้เที่ยว ตื่นเต้นมาก",
+            "audio_en_src": "Tomorrow we get to travel, I'm so excited."
+          },
+          {
+            "thai": "อย่าตื่นเต้นไป หายใจลึกๆ",
+            "en": "Don't get worked up, take a deep breath.",
+            "audio_src": "อย่าตื่นเต้นไป หายใจลึกๆ",
+            "audio_en_src": "Don't get worked up, take a deep breath."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c06-087",
@@ -91222,6 +91469,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to dance",
+        "sentences": [
+          {
+            "thai": "เพลงนี้เพราะ อยากเต้นเลย",
+            "en": "This song's great, it makes me want to dance.",
+            "audio_src": "เพลงนี้เพราะ อยากเต้นเลย",
+            "audio_en_src": "This song's great, it makes me want to dance."
+          },
+          {
+            "thai": "เขาเต้นรำเก่งมาก",
+            "en": "He dances really well.",
+            "audio_src": "เขาเต้นรำเก่งมาก",
+            "audio_en_src": "He dances really well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91435,7 +91701,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทั้งคืน",
-    "audio_en_src": "all night"
+    "audio_en_src": "all night",
+    "examples": [
+      {
+        "meaning": "all night",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนฉันนอนไม่หลับทั้งคืน",
+            "en": "Last night I couldn't sleep the whole night.",
+            "audio_src": "เมื่อคืนฉันนอนไม่หลับทั้งคืน",
+            "audio_en_src": "Last night I couldn't sleep the whole night."
+          },
+          {
+            "thai": "เขาเล่นเกมทั้งคืน",
+            "en": "He played games all night.",
+            "audio_src": "เขาเล่นเกมทั้งคืน",
+            "audio_en_src": "He played games all night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-011",
@@ -91449,7 +91734,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตลอดวัน, ทั้งวัน",
-    "audio_en_src": "all day"
+    "audio_en_src": "all day",
+    "examples": [
+      {
+        "meaning": "all day",
+        "sentences": [
+          {
+            "thai": "วันนี้ฝนตกทั้งวัน",
+            "en": "It rained all day today.",
+            "audio_src": "วันนี้ฝนตกทั้งวัน",
+            "audio_en_src": "It rained all day today."
+          },
+          {
+            "thai": "เขาทำงานตลอดวันไม่ได้พัก",
+            "en": "He worked all day without a break.",
+            "audio_src": "เขาทำงานตลอดวันไม่ได้พัก",
+            "audio_en_src": "He worked all day without a break."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-012",
@@ -91474,7 +91778,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทางนี้",
-    "audio_en_src": "this way"
+    "audio_en_src": "this way",
+    "examples": [
+      {
+        "meaning": "this way",
+        "sentences": [
+          {
+            "thai": "มาทางนี้สิ ฉันจะพาไป",
+            "en": "Come this way, I'll take you there.",
+            "audio_src": "มาทางนี้สิ ฉันจะพาไป",
+            "audio_en_src": "Come this way, I'll take you there."
+          },
+          {
+            "thai": "เดินทางนี้ใกล้กว่า",
+            "en": "Going this way is closer.",
+            "audio_src": "เดินทางนี้ใกล้กว่า",
+            "audio_en_src": "Going this way is closer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-017",
@@ -91498,7 +91821,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำกับข้าว",
-    "audio_en_src": "to cook"
+    "audio_en_src": "to cook",
+    "examples": [
+      {
+        "meaning": "to cook",
+        "sentences": [
+          {
+            "thai": "แม่ทำกับข้าวอร่อยมาก",
+            "en": "Mom cooks really well.",
+            "audio_src": "แม่ทำกับข้าวอร่อยมาก",
+            "audio_en_src": "Mom cooks really well."
+          },
+          {
+            "thai": "วันนี้ฉันจะทำกับข้าวเอง",
+            "en": "Today I'll cook myself.",
+            "audio_src": "วันนี้ฉันจะทำกับข้าวเอง",
+            "audio_en_src": "Today I'll cook myself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-021",
@@ -91553,7 +91895,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกคน",
-    "audio_en_src": "everybody, everyone"
+    "audio_en_src": "everybody, everyone",
+    "examples": [
+      {
+        "meaning": "everybody, everyone",
+        "sentences": [
+          {
+            "thai": "ทุกคนพร้อมหรือยัง",
+            "en": "Is everyone ready?",
+            "audio_src": "ทุกคนพร้อมหรือยัง",
+            "audio_en_src": "Is everyone ready?"
+          },
+          {
+            "thai": "ขอบคุณทุกคนที่มาวันนี้",
+            "en": "Thank you, everyone, for coming today.",
+            "audio_src": "ขอบคุณทุกคนที่มาวันนี้",
+            "audio_en_src": "Thank you, everyone, for coming today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-027",
@@ -91577,7 +91938,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกอย่าง",
-    "audio_en_src": "everything, every kind"
+    "audio_en_src": "everything, every kind",
+    "examples": [
+      {
+        "meaning": "everything (spoken), every kind",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีทุกอย่างที่ต้องการ",
+            "en": "This shop has everything I need.",
+            "audio_src": "ร้านนี้มีทุกอย่างที่ต้องการ",
+            "audio_en_src": "This shop has everything I need."
+          },
+          {
+            "thai": "ฉันชอบกินทุกอย่าง ไม่เลือก",
+            "en": "I eat everything, I'm not picky.",
+            "audio_src": "ฉันชอบกินทุกอย่าง ไม่เลือก",
+            "audio_en_src": "I eat everything, I'm not picky."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c07-030",

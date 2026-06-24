@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 591 words**
+**Total: 611 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -592,6 +592,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-071` : ตลอดไป (forever) : 1 meaning(s), 2 sentences
 - `wlt-c06-072` : ตลอดเวลา (all the time) : 1 meaning(s), 2 sentences
 - `wlt-c06-073` : ตอนแรก (at first) : 1 meaning(s), 2 sentences
+- `wlt-c06-078` : ตัดผม (to cut hair) : 1 meaning(s), 2 sentences
+- `wlt-c06-079` : ตัดสินใจ (to decide) : 1 meaning(s), 2 sentences
+- `wlt-c06-086` : ตื่นเต้น (excited, thrilled) : 1 meaning(s), 2 sentences
+- `wlt-c06-089` : เต้น, เต้นรำ (to dance) : 1 meaning(s), 2 sentences
+- `wlt-c07-010` : ทั้งคืน (all night) : 1 meaning(s), 2 sentences
+- `wlt-c07-011` : ตลอดวัน, ทั้งวัน (all day) : 1 meaning(s), 2 sentences
+- `wlt-c07-015` : ทางนี้ (this way) : 1 meaning(s), 2 sentences
+- `wlt-c07-019` : ทำกับข้าว (to cook) : 1 meaning(s), 2 sentences
+- `wlt-c07-026` : ทุกคน (everybody, everyone) : 1 meaning(s), 2 sentences
+- `wlt-c07-029` : ทุกอย่าง (everything (spoken), every kind) : 1 meaning(s), 2 sentences
+- `wlt-c07-034` : เท่าไหร่ (how much) : 1 meaning(s), 2 sentences
+- `wlt-c07-045` : น่ารำคาญ (annoying) : 1 meaning(s), 2 sentences
+- `wlt-c07-047` : น่าเสียดาย (what a pity, what a shame; regrettable) : 2 meaning(s), 4 sentences
+- `wlt-c07-053` : นิ้วมือ (finger) : 1 meaning(s), 2 sentences
+- `wlt-c07-059` : บัตรเครดิต (credit card) : 1 meaning(s), 2 sentences
+- `wlt-c07-080` : เปียก (wet) : 1 meaning(s), 2 sentences
+- `wlt-c08-021` : เพศ (gender, sex) : 1 meaning(s), 2 sentences
+- `wlt-c08-030` : ภาษาไทย (Thai language) : 1 meaning(s), 2 sentences
+- `wlt-c08-036` : มีความสุข, สุขใจ (happy) : 1 meaning(s), 2 sentences
+- `wlt-c08-039` : มือถือ, โทรศัพท์มือถือ (mobile phone) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
