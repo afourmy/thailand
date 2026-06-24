@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 561 words**
+**Total: 571 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -562,6 +562,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-015` : ออกจาก (to leave from) : 1 meaning(s), 2 sentences
 - `wlt-c05-016` : อะไรก็ได้ (anything) : 1 meaning(s), 2 sentences
 - `wlt-c05-020` : อาทิตย์นี้ (this week) : 1 meaning(s), 2 sentences
+- `wlt-c05-032` : โอเค (okay (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c05-036` : กระดาษชำระ (toilet paper) : 1 meaning(s), 2 sentences
+- `wlt-c05-050` : การบ้าน (homework) : 1 meaning(s), 2 sentences
+- `wlt-c05-055` : กินข้าว, ทานข้าว (to have a meal) : 1 meaning(s), 2 sentences
+- `wlt-c05-058` : เก้าสิบ (ninety (90)) : 1 meaning(s), 2 sentences
+- `wlt-c05-059` : แก้ไข (to correct, to fix, to revise) : 1 meaning(s), 2 sentences
+- `wlt-c05-065` : ข้อความ (message) : 1 meaning(s), 2 sentences
+- `wlt-c05-066` : ของคุณ (your, yours) : 1 meaning(s), 2 sentences
+- `wlt-c05-070` : ข้าวเที่ยง (lunch) : 1 meaning(s), 2 sentences
+- `wlt-c05-071` : ข้าวผัด (fried rice) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

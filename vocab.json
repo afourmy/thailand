@@ -89324,7 +89324,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โอเค",
-    "audio_en_src": "okay"
+    "audio_en_src": "okay",
+    "examples": [
+      {
+        "meaning": "okay (loanword)",
+        "sentences": [
+          {
+            "thai": "โอเค เดี๋ยวเจอกันหน้าร้าน",
+            "en": "Okay, see you in front of the shop.",
+            "audio_src": "โอเค เดี๋ยวเจอกันหน้าร้าน",
+            "audio_en_src": "Okay, see you in front of the shop."
+          },
+          {
+            "thai": "กินเผ็ดได้โอเคไหม",
+            "en": "Are you okay with spicy food?",
+            "audio_src": "กินเผ็ดได้โอเคไหม",
+            "audio_en_src": "Are you okay with spicy food?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-034",
@@ -89358,7 +89377,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กระดาษชำระ",
-    "audio_en_src": "toilet paper"
+    "audio_en_src": "toilet paper",
+    "examples": [
+      {
+        "meaning": "toilet paper",
+        "sentences": [
+          {
+            "thai": "กระดาษชำระในห้องน้ำหมดแล้ว",
+            "en": "The toilet paper in the bathroom is finished.",
+            "audio_src": "กระดาษชำระในห้องน้ำหมดแล้ว",
+            "audio_en_src": "The toilet paper in the bathroom is finished."
+          },
+          {
+            "thai": "ซื้อกระดาษชำระมาเพิ่มด้วยนะ",
+            "en": "Buy some more toilet paper too.",
+            "audio_src": "ซื้อกระดาษชำระมาเพิ่มด้วยนะ",
+            "audio_en_src": "Buy some more toilet paper too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-037",
@@ -89497,7 +89535,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "การบ้าน",
-    "audio_en_src": "homework"
+    "audio_en_src": "homework",
+    "examples": [
+      {
+        "meaning": "homework",
+        "sentences": [
+          {
+            "thai": "ทำการบ้านให้เสร็จก่อนเล่นเกม",
+            "en": "Finish your homework before playing games.",
+            "audio_src": "ทำการบ้านให้เสร็จก่อนเล่นเกม",
+            "audio_en_src": "Finish your homework before playing games."
+          },
+          {
+            "thai": "วันนี้ครูให้การบ้านเยอะมาก",
+            "en": "The teacher gave a lot of homework today.",
+            "audio_src": "วันนี้ครูให้การบ้านเยอะมาก",
+            "audio_en_src": "The teacher gave a lot of homework today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-051",
@@ -89555,7 +89612,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กินข้าว, ทานข้าว",
-    "audio_en_src": "to have a meal"
+    "audio_en_src": "to have a meal",
+    "examples": [
+      {
+        "meaning": "to have a meal",
+        "sentences": [
+          {
+            "thai": "กินข้าวด้วยกันไหม",
+            "en": "Want to grab a meal together?",
+            "audio_src": "กินข้าวด้วยกันไหม",
+            "audio_en_src": "Want to grab a meal together?"
+          },
+          {
+            "thai": "ทานข้าวหรือยังคะ",
+            "en": "Have you eaten yet?",
+            "audio_src": "ทานข้าวหรือยังคะ",
+            "audio_en_src": "Have you eaten yet?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-056",
@@ -89591,7 +89667,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เก้าสิบ",
-    "audio_en_src": "ninety"
+    "audio_en_src": "ninety",
+    "examples": [
+      {
+        "meaning": "ninety (90)",
+        "sentences": [
+          {
+            "thai": "คุณยายอายุเก้าสิบแล้ว",
+            "en": "Grandma is ninety now.",
+            "audio_src": "คุณยายอายุเก้าสิบแล้ว",
+            "audio_en_src": "Grandma is ninety now."
+          },
+          {
+            "thai": "ข้อสอบนี้เขาได้เก้าสิบคะแนน",
+            "en": "He got ninety on this test.",
+            "audio_src": "ข้อสอบนี้เขาได้เก้าสิบคะแนน",
+            "audio_en_src": "He got ninety on this test."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-059",
@@ -89602,6 +89697,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to correct, to fix, to revise",
+        "sentences": [
+          {
+            "thai": "ช่วยแก้ไขข้อผิดพลาดให้หน่อย",
+            "en": "Help me fix the mistakes.",
+            "audio_src": "ช่วยแก้ไขข้อผิดพลาดให้หน่อย",
+            "audio_en_src": "Help me fix the mistakes."
+          },
+          {
+            "thai": "เอกสารนี้ต้องแก้ไขอีกนิด",
+            "en": "This document needs a bit more revising.",
+            "audio_src": "เอกสารนี้ต้องแก้ไขอีกนิด",
+            "audio_en_src": "This document needs a bit more revising."
+          }
+        ]
+      }
     ]
   },
   {
@@ -89667,7 +89781,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้อความ",
-    "audio_en_src": "message"
+    "audio_en_src": "message",
+    "examples": [
+      {
+        "meaning": "message",
+        "sentences": [
+          {
+            "thai": "ฉันส่งข้อความหาเธอแล้ว",
+            "en": "I already sent you a message.",
+            "audio_src": "ฉันส่งข้อความหาเธอแล้ว",
+            "audio_en_src": "I already sent you a message."
+          },
+          {
+            "thai": "เห็นข้อความที่ฝากไว้ไหม",
+            "en": "Did you see the message I left?",
+            "audio_src": "เห็นข้อความที่ฝากไว้ไหม",
+            "audio_en_src": "Did you see the message I left?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-066",
@@ -89681,7 +89814,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ของคุณ",
-    "audio_en_src": "your, yours"
+    "audio_en_src": "your, yours",
+    "examples": [
+      {
+        "meaning": "your, yours",
+        "sentences": [
+          {
+            "thai": "กระเป๋าใบนี้ของคุณใช่ไหม",
+            "en": "Is this bag yours?",
+            "audio_src": "กระเป๋าใบนี้ของคุณใช่ไหม",
+            "audio_en_src": "Is this bag yours?"
+          },
+          {
+            "thai": "ความฝันของคุณคืออะไร",
+            "en": "What's your dream?",
+            "audio_src": "ความฝันของคุณคืออะไร",
+            "audio_en_src": "What's your dream?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-068",
@@ -89716,7 +89868,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าวเที่ยง",
-    "audio_en_src": "lunch"
+    "audio_en_src": "lunch",
+    "examples": [
+      {
+        "meaning": "lunch",
+        "sentences": [
+          {
+            "thai": "วันนี้กินข้าวเที่ยงกับเพื่อน",
+            "en": "Today I had lunch with friends.",
+            "audio_src": "วันนี้กินข้าวเที่ยงกับเพื่อน",
+            "audio_en_src": "Today I had lunch with friends."
+          },
+          {
+            "thai": "ข้าวเที่ยงวันนี้กินอะไรดี",
+            "en": "What should we have for lunch today?",
+            "audio_src": "ข้าวเที่ยงวันนี้กินอะไรดี",
+            "audio_en_src": "What should we have for lunch today?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-071",
@@ -89730,7 +89901,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าวผัด",
-    "audio_en_src": "fried rice"
+    "audio_en_src": "fried rice",
+    "examples": [
+      {
+        "meaning": "fried rice",
+        "sentences": [
+          {
+            "thai": "ขอข้าวผัดหมูหนึ่งจาน",
+            "en": "One pork fried rice, please.",
+            "audio_src": "ขอข้าวผัดหมูหนึ่งจาน",
+            "audio_en_src": "One pork fried rice, please."
+          },
+          {
+            "thai": "ข้าวผัดร้านนี้ใส่ไข่ด้วย",
+            "en": "The fried rice here comes with egg too.",
+            "audio_src": "ข้าวผัดร้านนี้ใส่ไข่ด้วย",
+            "audio_en_src": "The fried rice here comes with egg too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-072",

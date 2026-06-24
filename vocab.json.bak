@@ -88751,7 +88751,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีฟัน, แปรงฟัน",
-    "audio_en_src": "to brush teeth"
+    "audio_en_src": "to brush teeth",
+    "examples": [
+      {
+        "meaning": "to brush teeth",
+        "sentences": [
+          {
+            "thai": "แปรงฟันวันละสองครั้ง",
+            "en": "Brush your teeth twice a day.",
+            "audio_src": "แปรงฟันวันละสองครั้ง",
+            "audio_en_src": "Brush your teeth twice a day."
+          },
+          {
+            "thai": "เด็กๆต้องสีฟันให้สะอาด",
+            "en": "Kids have to brush their teeth well.",
+            "audio_src": "เด็กๆต้องสีฟันให้สะอาด",
+            "audio_en_src": "Kids have to brush their teeth well."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-078",
@@ -88846,7 +88865,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หนึ่งร้อย",
-    "audio_en_src": "one hundred"
+    "audio_en_src": "one hundred",
+    "examples": [
+      {
+        "meaning": "one hundred (100)",
+        "sentences": [
+          {
+            "thai": "อันนี้ราคาหนึ่งร้อยบาท",
+            "en": "This one costs one hundred baht.",
+            "audio_src": "อันนี้ราคาหนึ่งร้อยบาท",
+            "audio_en_src": "This one costs one hundred baht."
+          },
+          {
+            "thai": "มีคนมางานเกือบหนึ่งร้อยคน",
+            "en": "Almost a hundred people came to the event.",
+            "audio_src": "มีคนมางานเกือบหนึ่งร้อยคน",
+            "audio_en_src": "Almost a hundred people came to the event."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-092",
@@ -88861,7 +88899,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หม้อ",
-    "audio_en_src": "pot"
+    "audio_en_src": "pot",
+    "examples": [
+      {
+        "meaning": "pot (cooking)",
+        "sentences": [
+          {
+            "thai": "ต้มน้ำในหม้อใบใหญ่",
+            "en": "Boil the water in the big pot.",
+            "audio_src": "ต้มน้ำในหม้อใบใหญ่",
+            "audio_en_src": "Boil the water in the big pot."
+          },
+          {
+            "thai": "หม้อข้าวไฟฟ้าเสียแล้ว",
+            "en": "The rice cooker is broken.",
+            "audio_src": "หม้อข้าวไฟฟ้าเสียแล้ว",
+            "audio_en_src": "The rice cooker is broken."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-093",
@@ -88876,7 +88933,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมอ",
-    "audio_en_src": "doctor"
+    "audio_en_src": "doctor",
+    "examples": [
+      {
+        "meaning": "doctor",
+        "sentences": [
+          {
+            "thai": "ไม่สบายก็ไปหาหมอเถอะ",
+            "en": "If you're not feeling well, go see a doctor.",
+            "audio_src": "ไม่สบายก็ไปหาหมอเถอะ",
+            "audio_en_src": "If you're not feeling well, go see a doctor."
+          },
+          {
+            "thai": "หมอบอกให้พักผ่อนเยอะๆ",
+            "en": "The doctor told me to get lots of rest.",
+            "audio_src": "หมอบอกให้พักผ่อนเยอะๆ",
+            "audio_en_src": "The doctor told me to get lots of rest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c04-094",
@@ -88990,7 +89066,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อยากได้",
-    "audio_en_src": "to want to get"
+    "audio_en_src": "to want to get",
+    "examples": [
+      {
+        "meaning": "to want to get (sth)",
+        "sentences": [
+          {
+            "thai": "ฉันอยากได้โทรศัพท์เครื่องใหม่",
+            "en": "I want a new phone.",
+            "audio_src": "ฉันอยากได้โทรศัพท์เครื่องใหม่",
+            "audio_en_src": "I want a new phone."
+          },
+          {
+            "thai": "วันเกิดนี้อยากได้อะไร",
+            "en": "What do you want for your birthday?",
+            "audio_src": "วันเกิดนี้อยากได้อะไร",
+            "audio_en_src": "What do you want for your birthday?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-012",
@@ -89004,7 +89099,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อย่าเพิ่ง",
-    "audio_en_src": "'don't do that yet!', 'hold on!'"
+    "audio_en_src": "'don't do that yet!', 'hold on!'",
+    "examples": [
+      {
+        "meaning": "'don't do that yet!', 'hold on!'",
+        "sentences": [
+          {
+            "thai": "อย่าเพิ่งไป รอฉันด้วย",
+            "en": "Don't go yet, wait for me.",
+            "audio_src": "อย่าเพิ่งไป รอฉันด้วย",
+            "audio_en_src": "Don't go yet, wait for me."
+          },
+          {
+            "thai": "อย่าเพิ่งบอกใครนะ",
+            "en": "Don't tell anyone just yet.",
+            "audio_src": "อย่าเพิ่งบอกใครนะ",
+            "audio_en_src": "Don't tell anyone just yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-013",
@@ -89018,7 +89132,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อยู่ที่ไหน",
-    "audio_en_src": "where is it?"
+    "audio_en_src": "where is it?",
+    "examples": [
+      {
+        "meaning": "where is it?",
+        "sentences": [
+          {
+            "thai": "ห้องน้ำอยู่ที่ไหน",
+            "en": "Where is the bathroom?",
+            "audio_src": "ห้องน้ำอยู่ที่ไหน",
+            "audio_en_src": "Where is the bathroom?"
+          },
+          {
+            "thai": "ตอนนี้เธออยู่ที่ไหน",
+            "en": "Where are you right now?",
+            "audio_src": "ตอนนี้เธออยู่ที่ไหน",
+            "audio_en_src": "Where are you right now?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-014",
@@ -89042,7 +89175,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ออกจาก",
-    "audio_en_src": "to leave from"
+    "audio_en_src": "to leave from",
+    "examples": [
+      {
+        "meaning": "to leave from",
+        "sentences": [
+          {
+            "thai": "ฉันออกจากบ้านตอนเจ็ดโมง",
+            "en": "I leave home at seven.",
+            "audio_src": "ฉันออกจากบ้านตอนเจ็ดโมง",
+            "audio_en_src": "I leave home at seven."
+          },
+          {
+            "thai": "รถไฟออกจากสถานีแล้ว",
+            "en": "The train has left the station.",
+            "audio_src": "รถไฟออกจากสถานีแล้ว",
+            "audio_en_src": "The train has left the station."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-016",
@@ -89056,7 +89208,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อะไรก็ได้",
-    "audio_en_src": "anything"
+    "audio_en_src": "anything",
+    "examples": [
+      {
+        "meaning": "anything",
+        "sentences": [
+          {
+            "thai": "กินอะไรก็ได้ ฉันไม่เรื่องมาก",
+            "en": "Anything's fine to eat, I'm not picky.",
+            "audio_src": "กินอะไรก็ได้ ฉันไม่เรื่องมาก",
+            "audio_en_src": "Anything's fine to eat, I'm not picky."
+          },
+          {
+            "thai": "เลือกอะไรก็ได้ที่ชอบ",
+            "en": "Pick anything you like.",
+            "audio_src": "เลือกอะไรก็ได้ที่ชอบ",
+            "audio_en_src": "Pick anything you like."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-020",
@@ -89070,7 +89241,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อาทิตย์นี้",
-    "audio_en_src": "this week"
+    "audio_en_src": "this week",
+    "examples": [
+      {
+        "meaning": "this week",
+        "sentences": [
+          {
+            "thai": "อาทิตย์นี้ฉันงานยุ่งมาก",
+            "en": "I'm really busy with work this week.",
+            "audio_src": "อาทิตย์นี้ฉันงานยุ่งมาก",
+            "audio_en_src": "I'm really busy with work this week."
+          },
+          {
+            "thai": "อาทิตย์นี้มีวันหยุดด้วย",
+            "en": "There's a holiday this week too.",
+            "audio_src": "อาทิตย์นี้มีวันหยุดด้วย",
+            "audio_en_src": "There's a holiday this week too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c05-023",
