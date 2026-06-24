@@ -61793,11 +61793,15 @@
         "sentences": [
           {
             "thai": "ขอดูตัวอย่างสินค้าก่อนได้ไหม",
-            "en": "Can I see a sample of the product first?"
+            "en": "Can I see a sample of the product first?",
+            "audio_src": "ขอดูตัวอย่างสินค้าก่อนได้ไหม",
+            "audio_en_src": "Can I see a sample of the product first?"
           },
           {
             "thai": "ครูยกตัวอย่างให้เข้าใจง่ายขึ้น",
-            "en": "The teacher gave an example to make it easier to understand."
+            "en": "The teacher gave an example to make it easier to understand.",
+            "audio_src": "ครูยกตัวอย่างให้เข้าใจง่ายขึ้น",
+            "audio_en_src": "The teacher gave an example to make it easier to understand."
           }
         ]
       }
@@ -62108,11 +62112,15 @@
         "sentences": [
           {
             "thai": "รีบแต่งตัว เดี๋ยวไปสาย",
-            "en": "Hurry and get dressed, or we'll be late."
+            "en": "Hurry and get dressed, or we'll be late.",
+            "audio_src": "รีบแต่งตัว เดี๋ยวไปสาย",
+            "audio_en_src": "Hurry and get dressed, or we'll be late."
           },
           {
             "thai": "วันนี้เธอแต่งตัวสวยจัง",
-            "en": "You're dressed so nicely today."
+            "en": "You're dressed so nicely today.",
+            "audio_src": "วันนี้เธอแต่งตัวสวยจัง",
+            "audio_en_src": "You're dressed so nicely today."
           }
         ]
       }
@@ -62180,11 +62188,15 @@
         "sentences": [
           {
             "thai": "เปิดแผนที่ในมือถือดูทาง",
-            "en": "Open the map on your phone to check the way."
+            "en": "Open the map on your phone to check the way.",
+            "audio_src": "เปิดแผนที่ในมือถือดูทาง",
+            "audio_en_src": "Open the map on your phone to check the way."
           },
           {
             "thai": "ฉันดูแผนที่ไม่ค่อยเป็น",
-            "en": "I'm not very good at reading maps."
+            "en": "I'm not very good at reading maps.",
+            "audio_src": "ฉันดูแผนที่ไม่ค่อยเป็น",
+            "audio_en_src": "I'm not very good at reading maps."
           }
         ]
       }
@@ -62332,11 +62344,15 @@
         "sentences": [
           {
             "thai": "ไฟฟ้าดับทั้งซอยเมื่อคืน",
-            "en": "The power went out in the whole soi last night."
+            "en": "The power went out in the whole soi last night.",
+            "audio_src": "ไฟฟ้าดับทั้งซอยเมื่อคืน",
+            "audio_en_src": "The power went out in the whole soi last night."
           },
           {
             "thai": "เดือนนี้ค่าไฟฟ้าแพงมาก",
-            "en": "The electricity bill is really high this month."
+            "en": "The electricity bill is really high this month.",
+            "audio_src": "เดือนนี้ค่าไฟฟ้าแพงมาก",
+            "audio_en_src": "The electricity bill is really high this month."
           }
         ]
       }
@@ -62384,11 +62400,15 @@
         "sentences": [
           {
             "thai": "เขาเป็นหนี้บัตรเครดิตเยอะ",
-            "en": "He has a lot of credit card debt."
+            "en": "He has a lot of credit card debt.",
+            "audio_src": "เขาเป็นหนี้บัตรเครดิตเยอะ",
+            "audio_en_src": "He has a lot of credit card debt."
           },
           {
             "thai": "ฉันเพิ่งใช้หนี้หมด",
-            "en": "I just paid off all my debt."
+            "en": "I just paid off all my debt.",
+            "audio_src": "ฉันเพิ่งใช้หนี้หมด",
+            "audio_en_src": "I just paid off all my debt."
           }
         ]
       }
@@ -64388,11 +64408,15 @@
         "sentences": [
           {
             "thai": "สุขสันต์วันเกิดนะ ขอให้มีความสุข",
-            "en": "Happy birthday! I hope you have a great one."
+            "en": "Happy birthday! I hope you have a great one.",
+            "audio_src": "สุขสันต์วันเกิดนะ ขอให้มีความสุข",
+            "audio_en_src": "Happy birthday! I hope you have a great one."
           },
           {
             "thai": "เพื่อนๆร้องเพลงสุขสันต์วันเกิดให้ฉัน",
-            "en": "My friends sang me happy birthday."
+            "en": "My friends sang me happy birthday.",
+            "audio_src": "เพื่อนๆร้องเพลงสุขสันต์วันเกิดให้ฉัน",
+            "audio_en_src": "My friends sang me happy birthday."
           }
         ]
       }
@@ -65051,11 +65075,15 @@
         "sentences": [
           {
             "thai": "ขอยืมสายชาร์จหน่อย แบตจะหมด",
-            "en": "Can I borrow a charging cable? My battery's almost dead."
+            "en": "Can I borrow a charging cable? My battery's almost dead.",
+            "audio_src": "ขอยืมสายชาร์จหน่อย แบตจะหมด",
+            "audio_en_src": "Can I borrow a charging cable? My battery's almost dead."
           },
           {
             "thai": "สายชาร์จเส้นนี้เสียแล้ว",
-            "en": "This charging cable is broken."
+            "en": "This charging cable is broken.",
+            "audio_src": "สายชาร์จเส้นนี้เสียแล้ว",
+            "audio_en_src": "This charging cable is broken."
           }
         ]
       }
@@ -65180,11 +65208,15 @@
         "sentences": [
           {
             "thai": "ทำตัวดีๆนะ เดี๋ยวเขาว่าเอา",
-            "en": "Behave yourself, or they'll tell you off."
+            "en": "Behave yourself, or they'll tell you off.",
+            "audio_src": "ทำตัวดีๆนะ เดี๋ยวเขาว่าเอา",
+            "audio_en_src": "Behave yourself, or they'll tell you off."
           },
           {
             "thai": "เขาทำตัวแปลกๆตั้งแต่เช้า",
-            "en": "He's been acting strange since this morning."
+            "en": "He's been acting strange since this morning.",
+            "audio_src": "เขาทำตัวแปลกๆตั้งแต่เช้า",
+            "audio_en_src": "He's been acting strange since this morning."
           }
         ]
       }
@@ -68885,11 +68917,15 @@
         "sentences": [
           {
             "thai": "เธอชอบสีอะไร",
-            "en": "What color do you like?"
+            "en": "What color do you like?",
+            "audio_src": "เธอชอบสีอะไร",
+            "audio_en_src": "What color do you like?"
           },
           {
             "thai": "ท้องฟ้าเปลี่ยนเป็นสีส้มตอนเย็น",
-            "en": "The sky turns orange in the evening."
+            "en": "The sky turns orange in the evening.",
+            "audio_src": "ท้องฟ้าเปลี่ยนเป็นสีส้มตอนเย็น",
+            "audio_en_src": "The sky turns orange in the evening."
           }
         ]
       },
@@ -68898,11 +68934,32 @@
         "sentences": [
           {
             "thai": "คุณตาสีซอได้ไพเราะมาก",
-            "en": "Grandpa plays the saw beautifully."
+            "en": "Grandpa plays the Thai fiddle beautifully.",
+            "audio_src": "คุณตาสีซอได้ไพเราะมาก",
+            "audio_en_src": "Grandpa plays the Thai fiddle beautifully."
           },
           {
             "thai": "เธอกำลังหัดสีไวโอลิน",
-            "en": "She's learning to play the violin."
+            "en": "She's learning to play the violin.",
+            "audio_src": "เธอกำลังหัดสีไวโอลิน",
+            "audio_en_src": "She's learning to play the violin."
+          }
+        ]
+      },
+      {
+        "meaning": "to fuck",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนสองคนนั้นสีกัน",
+            "en": "Those two fucked last night.",
+            "audio_src": "เมื่อคืนสองคนนั้นสีกัน",
+            "audio_en_src": "Those two fucked last night."
+          },
+          {
+            "thai": "อยากสีกันก็ไปหาห้องเอา",
+            "en": "If you two want to fuck, go get a room.",
+            "audio_src": "อยากสีกันก็ไปหาห้องเอา",
+            "audio_en_src": "If you two want to fuck, go get a room."
           }
         ]
       },
@@ -68911,11 +68968,15 @@
         "sentences": [
           {
             "thai": "อย่าลืมสีฟันก่อนนอน",
-            "en": "Don't forget to brush your teeth before bed."
+            "en": "Don't forget to brush your teeth before bed.",
+            "audio_src": "อย่าลืมสีฟันก่อนนอน",
+            "audio_en_src": "Don't forget to brush your teeth before bed."
           },
           {
             "thai": "เด็กๆสีฟันเองได้แล้ว",
-            "en": "The kids can brush their own teeth now."
+            "en": "The kids can brush their own teeth now.",
+            "audio_src": "เด็กๆสีฟันเองได้แล้ว",
+            "audio_en_src": "The kids can brush their own teeth now."
           }
         ]
       }
@@ -72204,11 +72265,15 @@
         "sentences": [
           {
             "thai": "ฉันไม่เข้าใจเลย",
-            "en": "I don't understand at all."
+            "en": "I don't understand at all.",
+            "audio_src": "ฉันไม่เข้าใจเลย",
+            "audio_en_src": "I don't understand at all."
           },
           {
             "thai": "วันนี้ไม่ว่างเลย",
-            "en": "I'm not free at all today."
+            "en": "I'm not free at all today.",
+            "audio_src": "วันนี้ไม่ว่างเลย",
+            "audio_en_src": "I'm not free at all today."
           }
         ]
       },
@@ -72217,11 +72282,15 @@
         "sentences": [
           {
             "thai": "ฝนตกเลยไม่ได้ออกไปไหน",
-            "en": "It rained, so I didn't go anywhere."
+            "en": "It rained, so I didn't go anywhere.",
+            "audio_src": "ฝนตกเลยไม่ได้ออกไปไหน",
+            "audio_en_src": "It rained, so I didn't go anywhere."
           },
           {
             "thai": "รถติดเลยมาสาย",
-            "en": "There was traffic, so I'm late."
+            "en": "There was traffic, so I'm late.",
+            "audio_src": "รถติดเลยมาสาย",
+            "audio_en_src": "There was traffic, so I'm late."
           }
         ]
       },
@@ -72230,11 +72299,15 @@
         "sentences": [
           {
             "thai": "เดินเลยร้านสะดวกซื้อไปนิดนึง",
-            "en": "Walk a little past the convenience store."
+            "en": "Walk a little past the convenience store.",
+            "audio_src": "เดินเลยร้านสะดวกซื้อไปนิดนึง",
+            "audio_en_src": "Walk a little past the convenience store."
           },
           {
             "thai": "นั่งรถเลยป้ายไปแล้ว",
-            "en": "I rode past my stop."
+            "en": "I rode past my stop.",
+            "audio_src": "นั่งรถเลยป้ายไปแล้ว",
+            "audio_en_src": "I rode past my stop."
           }
         ]
       }
