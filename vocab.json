@@ -117421,7 +117421,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เช้า",
-    "audio_en_src": "morning"
+    "audio_en_src": "morning",
+    "examples": [
+      {
+        "meaning": "morning (6am - 11am)",
+        "sentences": [
+          {
+            "thai": "ตอนเช้าฉันชอบดื่มกาแฟ",
+            "en": "I like to drink coffee in the morning.",
+            "audio_src": "ตอนเช้าฉันชอบดื่มกาแฟ",
+            "audio_en_src": "I like to drink coffee in the morning."
+          },
+          {
+            "thai": "พรุ่งนี้เช้าฉันต้องตื่นเร็ว",
+            "en": "I have to get up early tomorrow morning.",
+            "audio_src": "พรุ่งนี้เช้าฉันต้องตื่นเร็ว",
+            "audio_en_src": "I have to get up early tomorrow morning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-008",
@@ -117436,7 +117455,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ซื้อ",
-    "audio_en_src": "to buy"
+    "audio_en_src": "to buy",
+    "examples": [
+      {
+        "meaning": "to buy",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อของที่ตลาด",
+            "en": "I bought some things at the market.",
+            "audio_src": "ฉันซื้อของที่ตลาด",
+            "audio_en_src": "I bought some things at the market."
+          },
+          {
+            "thai": "อยากซื้อโทรศัพท์ใหม่",
+            "en": "I want to buy a new phone.",
+            "audio_src": "อยากซื้อโทรศัพท์ใหม่",
+            "audio_en_src": "I want to buy a new phone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-009",
@@ -117451,7 +117489,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดื่ม",
-    "audio_en_src": "to drink"
+    "audio_en_src": "to drink",
+    "examples": [
+      {
+        "meaning": "to drink",
+        "sentences": [
+          {
+            "thai": "ดื่มน้ำเยอะๆนะ",
+            "en": "Drink lots of water.",
+            "audio_src": "ดื่มน้ำเยอะๆนะ",
+            "audio_en_src": "Drink lots of water."
+          },
+          {
+            "thai": "เขาไม่ดื่มเหล้า",
+            "en": "He doesn't drink alcohol.",
+            "audio_src": "เขาไม่ดื่มเหล้า",
+            "audio_en_src": "He doesn't drink alcohol."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-010",
@@ -117466,7 +117523,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดู",
-    "audio_en_src": "to watch, to look at"
+    "audio_en_src": "to watch, to look at",
+    "examples": [
+      {
+        "meaning": "to watch, to look at",
+        "sentences": [
+          {
+            "thai": "คืนนี้ดูหนังกันไหม",
+            "en": "Want to watch a movie tonight?",
+            "audio_src": "คืนนี้ดูหนังกันไหม",
+            "audio_en_src": "Want to watch a movie tonight?"
+          },
+          {
+            "thai": "ดูสิ ฝนตกแล้ว",
+            "en": "Look, it's raining.",
+            "audio_src": "ดูสิ ฝนตกแล้ว",
+            "audio_en_src": "Look, it's raining."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-011",
@@ -117481,7 +117557,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เด็ก",
-    "audio_en_src": "child"
+    "audio_en_src": "child",
+    "examples": [
+      {
+        "meaning": "child",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้น่ารักมาก",
+            "en": "This child is so cute.",
+            "audio_src": "เด็กคนนี้น่ารักมาก",
+            "audio_en_src": "This child is so cute."
+          },
+          {
+            "thai": "ตอนเด็กฉันอยู่ต่างจังหวัด",
+            "en": "As a child I lived in the countryside.",
+            "audio_src": "ตอนเด็กฉันอยู่ต่างจังหวัด",
+            "audio_en_src": "As a child I lived in the countryside."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-012",
@@ -117496,7 +117591,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดิน",
-    "audio_en_src": "to walk"
+    "audio_en_src": "to walk",
+    "examples": [
+      {
+        "meaning": "to walk",
+        "sentences": [
+          {
+            "thai": "เราเดินไปร้านกาแฟกัน",
+            "en": "Let's walk to the coffee shop.",
+            "audio_src": "เราเดินไปร้านกาแฟกัน",
+            "audio_en_src": "Let's walk to the coffee shop."
+          },
+          {
+            "thai": "เดินช้าๆ ระวังลื่น",
+            "en": "Walk slowly, watch out for slippery spots.",
+            "audio_src": "เดินช้าๆ ระวังลื่น",
+            "audio_en_src": "Walk slowly, watch out for slippery spots."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-013",
@@ -117511,7 +117625,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดือน",
-    "audio_en_src": "month"
+    "audio_en_src": "month",
+    "examples": [
+      {
+        "meaning": "month",
+        "sentences": [
+          {
+            "thai": "เดือนนี้งานเยอะมาก",
+            "en": "There's a lot of work this month.",
+            "audio_src": "เดือนนี้งานเยอะมาก",
+            "audio_en_src": "There's a lot of work this month."
+          },
+          {
+            "thai": "ฉันจ่ายค่าเช่าทุกเดือน",
+            "en": "I pay rent every month.",
+            "audio_src": "ฉันจ่ายค่าเช่าทุกเดือน",
+            "audio_en_src": "I pay rent every month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-014",
@@ -117526,7 +117659,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตรง",
-    "audio_en_src": "straight"
+    "audio_en_src": "straight",
+    "examples": [
+      {
+        "meaning": "straight",
+        "sentences": [
+          {
+            "thai": "เดินตรงไปจะเจอร้าน",
+            "en": "Walk straight ahead and you'll find the shop.",
+            "audio_src": "เดินตรงไปจะเจอร้าน",
+            "audio_en_src": "Walk straight ahead and you'll find the shop."
+          },
+          {
+            "thai": "ขับตรงไปอย่าเลี้ยว",
+            "en": "Drive straight, don't turn.",
+            "audio_src": "ขับตรงไปอย่าเลี้ยว",
+            "audio_en_src": "Drive straight, don't turn."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-015",
@@ -117542,7 +117694,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตลาด",
-    "audio_en_src": "market"
+    "audio_en_src": "market",
+    "examples": [
+      {
+        "meaning": "market",
+        "sentences": [
+          {
+            "thai": "เช้านี้ฉันไปตลาด",
+            "en": "I went to the market this morning.",
+            "audio_src": "เช้านี้ฉันไปตลาด",
+            "audio_en_src": "I went to the market this morning."
+          },
+          {
+            "thai": "ตลาดนี้ของสดและถูก",
+            "en": "This market has fresh, cheap goods.",
+            "audio_src": "ตลาดนี้ของสดและถูก",
+            "audio_en_src": "This market has fresh, cheap goods."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-016",
@@ -117557,7 +117728,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แต่",
-    "audio_en_src": "but"
+    "audio_en_src": "but",
+    "examples": [
+      {
+        "meaning": "but",
+        "sentences": [
+          {
+            "thai": "ฉันอยากไปแต่ไม่มีเวลา",
+            "en": "I want to go but I don't have time.",
+            "audio_src": "ฉันอยากไปแต่ไม่มีเวลา",
+            "audio_en_src": "I want to go but I don't have time."
+          },
+          {
+            "thai": "อาหารอร่อยแต่แพง",
+            "en": "The food is good but expensive.",
+            "audio_src": "อาหารอร่อยแต่แพง",
+            "audio_en_src": "The food is good but expensive."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-017",

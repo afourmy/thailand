@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1161 words**
+**Total: 1171 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1165,3 +1165,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-004` : จาก (from) : 1 meaning(s), 2 sentences
 - `wlt-c21-005` : จ่าย (to pay, to spend) : 1 meaning(s), 2 sentences
 - `wlt-c21-006` : ชอบ (to like) : 1 meaning(s), 2 sentences
+- `wlt-c21-007` : เช้า (morning (6am - 11am)) : 1 meaning(s), 2 sentences
+- `wlt-c21-008` : ซื้อ (to buy) : 1 meaning(s), 2 sentences
+- `wlt-c21-009` : ดื่ม (to drink) : 1 meaning(s), 2 sentences
+- `wlt-c21-010` : ดู (to watch, to look at) : 1 meaning(s), 2 sentences
+- `wlt-c21-011` : เด็ก (child) : 1 meaning(s), 2 sentences
+- `wlt-c21-012` : เดิน (to walk) : 1 meaning(s), 2 sentences
+- `wlt-c21-013` : เดือน (month) : 1 meaning(s), 2 sentences
+- `wlt-c21-014` : ตรง (straight) : 1 meaning(s), 2 sentences
+- `wlt-c21-015` : ตลาด (market) : 1 meaning(s), 2 sentences
+- `wlt-c21-016` : แต่ (but) : 1 meaning(s), 2 sentences

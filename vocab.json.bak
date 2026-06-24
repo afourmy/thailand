@@ -117065,7 +117065,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไกล",
-    "audio_en_src": "far"
+    "audio_en_src": "far",
+    "examples": [
+      {
+        "meaning": "far",
+        "sentences": [
+          {
+            "thai": "บ้านฉันอยู่ไกลจากที่ทำงาน",
+            "en": "My house is far from work.",
+            "audio_src": "บ้านฉันอยู่ไกลจากที่ทำงาน",
+            "audio_en_src": "My house is far from work."
+          },
+          {
+            "thai": "ที่นั่นไกลไหม",
+            "en": "Is it far?",
+            "audio_src": "ที่นั่นไกลไหม",
+            "audio_en_src": "Is it far?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-097",
@@ -117080,7 +117099,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ของ",
-    "audio_en_src": "of, belonging to"
+    "audio_en_src": "of, belonging to",
+    "examples": [
+      {
+        "meaning": "of, belonging to",
+        "sentences": [
+          {
+            "thai": "นี่กระเป๋าของฉัน",
+            "en": "This is my bag.",
+            "audio_src": "นี่กระเป๋าของฉัน",
+            "audio_en_src": "This is my bag."
+          },
+          {
+            "thai": "รถคันนี้ของใคร",
+            "en": "Whose car is this?",
+            "audio_src": "รถคันนี้ของใคร",
+            "audio_en_src": "Whose car is this?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-098",
@@ -117094,7 +117132,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างๆ",
-    "audio_en_src": "beside, next to, nearby"
+    "audio_en_src": "beside, next to, nearby",
+    "examples": [
+      {
+        "meaning": "beside, next to, nearby",
+        "sentences": [
+          {
+            "thai": "เขานั่งข้างๆฉัน",
+            "en": "He sat next to me.",
+            "audio_src": "เขานั่งข้างๆฉัน",
+            "audio_en_src": "He sat next to me."
+          },
+          {
+            "thai": "มีร้านสะดวกซื้ออยู่ข้างๆ",
+            "en": "There's a convenience store right next door.",
+            "audio_src": "มีร้านสะดวกซื้ออยู่ข้างๆ",
+            "audio_en_src": "There's a convenience store right next door."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c20-099",
@@ -117109,7 +117166,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขาย",
-    "audio_en_src": "to sell"
+    "audio_en_src": "to sell",
+    "examples": [
+      {
+        "meaning": "to sell",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายของถูก",
+            "en": "This shop sells cheap things.",
+            "audio_src": "ร้านนี้ขายของถูก",
+            "audio_en_src": "This shop sells cheap things."
+          },
+          {
+            "thai": "เขาขายบ้านไปแล้ว",
+            "en": "He's already sold the house.",
+            "audio_src": "เขาขายบ้านไปแล้ว",
+            "audio_en_src": "He's already sold the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-000",
@@ -117124,7 +117200,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขึ้น",
-    "audio_en_src": "to go up, to rise; to get on"
+    "audio_en_src": "to go up, to rise; to get on",
+    "examples": [
+      {
+        "meaning": "to go up, to rise",
+        "sentences": [
+          {
+            "thai": "ราคาน้ำมันขึ้นอีกแล้ว",
+            "en": "Fuel prices have gone up again.",
+            "audio_src": "ราคาน้ำมันขึ้นอีกแล้ว",
+            "audio_en_src": "Fuel prices have gone up again."
+          },
+          {
+            "thai": "เดินขึ้นบันไดเหนื่อยมาก",
+            "en": "Walking up the stairs is so tiring.",
+            "audio_src": "เดินขึ้นบันไดเหนื่อยมาก",
+            "audio_en_src": "Walking up the stairs is so tiring."
+          }
+        ]
+      },
+      {
+        "meaning": "to get on (vehicle)",
+        "sentences": [
+          {
+            "thai": "ขึ้นรถเมล์สายไหนไปสยาม",
+            "en": "Which bus do I take to get to Siam?",
+            "audio_src": "ขึ้นรถเมล์สายไหนไปสยาม",
+            "audio_en_src": "Which bus do I take to get to Siam?"
+          },
+          {
+            "thai": "รีบขึ้นรถ เดี๋ยวรถออก",
+            "en": "Hurry and get on, the bus is leaving.",
+            "audio_src": "รีบขึ้นรถ เดี๋ยวรถออก",
+            "audio_en_src": "Hurry and get on, the bus is leaving."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-001",
@@ -117139,7 +117251,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เข้าใจ",
-    "audio_en_src": "to understand"
+    "audio_en_src": "to understand",
+    "examples": [
+      {
+        "meaning": "to understand",
+        "sentences": [
+          {
+            "thai": "ฉันไม่เข้าใจที่เขาพูด",
+            "en": "I don't understand what he said.",
+            "audio_src": "ฉันไม่เข้าใจที่เขาพูด",
+            "audio_en_src": "I don't understand what he said."
+          },
+          {
+            "thai": "เข้าใจแล้ว ขอบคุณ",
+            "en": "I get it now, thanks.",
+            "audio_src": "เข้าใจแล้ว ขอบคุณ",
+            "audio_en_src": "I get it now, thanks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-003",
@@ -117154,7 +117285,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ง่าย",
-    "audio_en_src": "easy"
+    "audio_en_src": "easy",
+    "examples": [
+      {
+        "meaning": "easy",
+        "sentences": [
+          {
+            "thai": "ข้อสอบวันนี้ง่ายมาก",
+            "en": "Today's exam was very easy.",
+            "audio_src": "ข้อสอบวันนี้ง่ายมาก",
+            "audio_en_src": "Today's exam was very easy."
+          },
+          {
+            "thai": "ทำอาหารจานนี้ง่ายนิดเดียว",
+            "en": "This dish is really easy to make.",
+            "audio_src": "ทำอาหารจานนี้ง่ายนิดเดียว",
+            "audio_en_src": "This dish is really easy to make."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-004",
@@ -117169,7 +117319,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จาก",
-    "audio_en_src": "from"
+    "audio_en_src": "from",
+    "examples": [
+      {
+        "meaning": "from",
+        "sentences": [
+          {
+            "thai": "ฉันมาจากเชียงใหม่",
+            "en": "I'm from Chiang Mai.",
+            "audio_src": "ฉันมาจากเชียงใหม่",
+            "audio_en_src": "I'm from Chiang Mai."
+          },
+          {
+            "thai": "รถออกจากสถานีแล้ว",
+            "en": "The train has left the station.",
+            "audio_src": "รถออกจากสถานีแล้ว",
+            "audio_en_src": "The train has left the station."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-005",
@@ -117184,7 +117353,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จ่าย",
-    "audio_en_src": "to pay, to spend"
+    "audio_en_src": "to pay, to spend",
+    "examples": [
+      {
+        "meaning": "to pay, to spend",
+        "sentences": [
+          {
+            "thai": "จ่ายเงินตรงนี้ได้เลย",
+            "en": "You can pay right here.",
+            "audio_src": "จ่ายเงินตรงนี้ได้เลย",
+            "audio_en_src": "You can pay right here."
+          },
+          {
+            "thai": "ฉันจ่ายค่าเช่าทุกสิ้นเดือน",
+            "en": "I pay rent at the end of every month.",
+            "audio_src": "ฉันจ่ายค่าเช่าทุกสิ้นเดือน",
+            "audio_en_src": "I pay rent at the end of every month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-006",
@@ -117199,7 +117387,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชอบ",
-    "audio_en_src": "to like"
+    "audio_en_src": "to like",
+    "examples": [
+      {
+        "meaning": "to like",
+        "sentences": [
+          {
+            "thai": "ฉันชอบกินผลไม้",
+            "en": "I like eating fruit.",
+            "audio_src": "ฉันชอบกินผลไม้",
+            "audio_en_src": "I like eating fruit."
+          },
+          {
+            "thai": "เธอชอบสีอะไร",
+            "en": "What color do you like?",
+            "audio_src": "เธอชอบสีอะไร",
+            "audio_en_src": "What color do you like?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c21-007",
