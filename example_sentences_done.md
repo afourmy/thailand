@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1031 words**
+**Total: 1041 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1034,4 +1034,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-069` : น่ากิน (looks delicious) : 1 meaning(s), 2 sentences
 - `wlt-c18-071` : น้ำเปล่า (plain water) : 1 meaning(s), 2 sentences
 - `wlt-c18-072` : น้ำเย็น (cold water) : 1 meaning(s), 2 sentences
+- `wlt-c18-079` : บ่ายนี้ (this afternoon (early)) : 1 meaning(s), 2 sentences
+- `wlt-c18-082` : เบอร์โทรศัพท์ (phone number) : 1 meaning(s), 2 sentences
+- `wlt-c18-084` : แบบนี้ (this kind, like this) : 1 meaning(s), 2 sentences
+- `wlt-c18-085` : ปวดท้อง (stomachache) : 1 meaning(s), 2 sentences
+- `wlt-c18-093` : ไปซื้อของ (to go shopping) : 1 meaning(s), 2 sentences
+- `wlt-c18-098` : พวกเขา (they, them) : 1 meaning(s), 2 sentences
+- `wlt-c19-000` : พูดเล่น (to joke) : 1 meaning(s), 2 sentences
+- `wlt-c19-001` : ฟรี (free (of charge)) : 1 meaning(s), 2 sentences
+- `wlt-c19-002` : ฟังเพลง (to listen to music) : 1 meaning(s), 2 sentences
+- `wlt-c19-006` : ภาษาอังกฤษ (English language) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

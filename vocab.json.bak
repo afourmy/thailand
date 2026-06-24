@@ -111636,7 +111636,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใช้เงิน",
-    "audio_en_src": "to spend money"
+    "audio_en_src": "to spend money",
+    "examples": [
+      {
+        "meaning": "to spend money",
+        "sentences": [
+          {
+            "thai": "เดือนนี้ฉันใช้เงินเยอะไป",
+            "en": "I spent too much money this month.",
+            "audio_src": "เดือนนี้ฉันใช้เงินเยอะไป",
+            "audio_en_src": "I spent too much money this month."
+          },
+          {
+            "thai": "เขาใช้เงินเก่งมาก",
+            "en": "He's really good at spending money.",
+            "audio_src": "เขาใช้เงินเก่งมาก",
+            "audio_en_src": "He's really good at spending money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-041",
@@ -111681,7 +111700,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดูเหมือน",
-    "audio_en_src": "looks like"
+    "audio_en_src": "looks like",
+    "examples": [
+      {
+        "meaning": "looks like",
+        "sentences": [
+          {
+            "thai": "ดูเหมือนฝนจะตก",
+            "en": "It looks like it's going to rain.",
+            "audio_src": "ดูเหมือนฝนจะตก",
+            "audio_en_src": "It looks like it's going to rain."
+          },
+          {
+            "thai": "เธอดูเหมือนเหนื่อยมาก",
+            "en": "You look really tired.",
+            "audio_src": "เธอดูเหมือนเหนื่อยมาก",
+            "audio_en_src": "You look really tired."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-048",
@@ -111695,7 +111733,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เดินเล่น",
-    "audio_en_src": "to take a walk"
+    "audio_en_src": "to take a walk",
+    "examples": [
+      {
+        "meaning": "to take a walk",
+        "sentences": [
+          {
+            "thai": "เย็นๆไปเดินเล่นที่สวนกัน",
+            "en": "Let's go for a walk in the park this evening.",
+            "audio_src": "เย็นๆไปเดินเล่นที่สวนกัน",
+            "audio_en_src": "Let's go for a walk in the park this evening."
+          },
+          {
+            "thai": "ฉันชอบเดินเล่นริมทะเล",
+            "en": "I like walking along the beach.",
+            "audio_src": "ฉันชอบเดินเล่นริมทะเล",
+            "audio_en_src": "I like walking along the beach."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-049",
@@ -111739,7 +111796,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถ้าอย่างนั้น",
-    "audio_en_src": "'in that case', 'if so, then...'"
+    "audio_en_src": "'in that case', 'if so, then...'",
+    "examples": [
+      {
+        "meaning": "'in that case', 'if so, then...'",
+        "sentences": [
+          {
+            "thai": "ถ้าอย่างนั้นเราไปพรุ่งนี้ก็ได้",
+            "en": "In that case, we can go tomorrow.",
+            "audio_src": "ถ้าอย่างนั้นเราไปพรุ่งนี้ก็ได้",
+            "audio_en_src": "In that case, we can go tomorrow."
+          },
+          {
+            "thai": "ถ้าอย่างนั้นฉันขอตัวก่อนนะ",
+            "en": "If so, I'll get going then.",
+            "audio_src": "ถ้าอย่างนั้นฉันขอตัวก่อนนะ",
+            "audio_en_src": "If so, I'll get going then."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-056",
@@ -111753,7 +111829,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แถวนี้",
-    "audio_en_src": "around here, in this area"
+    "audio_en_src": "around here, in this area",
+    "examples": [
+      {
+        "meaning": "around here, in this area",
+        "sentences": [
+          {
+            "thai": "แถวนี้มีร้านอาหารอร่อยๆเยอะ",
+            "en": "There are lots of good restaurants around here.",
+            "audio_src": "แถวนี้มีร้านอาหารอร่อยๆเยอะ",
+            "audio_en_src": "There are lots of good restaurants around here."
+          },
+          {
+            "thai": "บ้านเธออยู่แถวนี้เหรอ",
+            "en": "Is your house around here?",
+            "audio_src": "บ้านเธออยู่แถวนี้เหรอ",
+            "audio_en_src": "Is your house around here?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-057",
@@ -111777,7 +111872,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทิชชู่",
-    "audio_en_src": "tissue, napkins"
+    "audio_en_src": "tissue, napkins",
+    "examples": [
+      {
+        "meaning": "tissue, napkins",
+        "sentences": [
+          {
+            "thai": "ขอทิชชู่หน่อยได้ไหม",
+            "en": "Can I have a tissue?",
+            "audio_src": "ขอทิชชู่หน่อยได้ไหม",
+            "audio_en_src": "Can I have a tissue?"
+          },
+          {
+            "thai": "ทิชชู่บนโต๊ะหมดแล้ว",
+            "en": "The napkins on the table are all gone.",
+            "audio_src": "ทิชชู่บนโต๊ะหมดแล้ว",
+            "audio_en_src": "The napkins on the table are all gone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-060",
@@ -111802,7 +111916,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทุกครั้ง, ทุกที",
-    "audio_en_src": "every time"
+    "audio_en_src": "every time",
+    "examples": [
+      {
+        "meaning": "every time",
+        "sentences": [
+          {
+            "thai": "เขามาสายทุกครั้ง",
+            "en": "He's late every time.",
+            "audio_src": "เขามาสายทุกครั้ง",
+            "audio_en_src": "He's late every time."
+          },
+          {
+            "thai": "ทุกทีที่มาร้านนี้ ฉันสั่งเมนูเดิม",
+            "en": "Every time I come to this place, I order the same thing.",
+            "audio_src": "ทุกทีที่มาร้านนี้ ฉันสั่งเมนูเดิม",
+            "audio_en_src": "Every time I come to this place, I order the same thing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-063",
@@ -111856,7 +111989,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่ากิน",
-    "audio_en_src": "looks delicious"
+    "audio_en_src": "looks delicious",
+    "examples": [
+      {
+        "meaning": "looks delicious",
+        "sentences": [
+          {
+            "thai": "เค้กชิ้นนี้น่ากินมาก",
+            "en": "This cake looks so delicious.",
+            "audio_src": "เค้กชิ้นนี้น่ากินมาก",
+            "audio_en_src": "This cake looks so delicious."
+          },
+          {
+            "thai": "อาหารร้านนี้หน้าตาน่ากิน",
+            "en": "The food at this place looks delicious.",
+            "audio_src": "อาหารร้านนี้หน้าตาน่ากิน",
+            "audio_en_src": "The food at this place looks delicious."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-070",
@@ -111881,7 +112033,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำเปล่า",
-    "audio_en_src": "plain water"
+    "audio_en_src": "plain water",
+    "examples": [
+      {
+        "meaning": "plain water",
+        "sentences": [
+          {
+            "thai": "ขอน้ำเปล่าหนึ่งแก้ว",
+            "en": "A glass of plain water, please.",
+            "audio_src": "ขอน้ำเปล่าหนึ่งแก้ว",
+            "audio_en_src": "A glass of plain water, please."
+          },
+          {
+            "thai": "ฉันดื่มแค่น้ำเปล่า",
+            "en": "I only drink plain water.",
+            "audio_src": "ฉันดื่มแค่น้ำเปล่า",
+            "audio_en_src": "I only drink plain water."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-072",
@@ -111895,7 +112066,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น้ำเย็น",
-    "audio_en_src": "cold water"
+    "audio_en_src": "cold water",
+    "examples": [
+      {
+        "meaning": "cold water",
+        "sentences": [
+          {
+            "thai": "อากาศร้อน ขอน้ำเย็นหน่อย",
+            "en": "It's hot, can I get some cold water?",
+            "audio_src": "อากาศร้อน ขอน้ำเย็นหน่อย",
+            "audio_en_src": "It's hot, can I get some cold water?"
+          },
+          {
+            "thai": "ดื่มน้ำเย็นแล้วสดชื่น",
+            "en": "Cold water is so refreshing.",
+            "audio_src": "ดื่มน้ำเย็นแล้วสดชื่น",
+            "audio_en_src": "Cold water is so refreshing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c18-075",
