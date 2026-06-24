@@ -109984,7 +109984,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "และ",
-    "audio_en_src": "and"
+    "audio_en_src": "and",
+    "examples": [
+      {
+        "meaning": "and",
+        "sentences": [
+          {
+            "thai": "ฉันชอบกาแฟและชา",
+            "en": "I like coffee and tea.",
+            "audio_src": "ฉันชอบกาแฟและชา",
+            "audio_en_src": "I like coffee and tea."
+          },
+          {
+            "thai": "เขาซื้อข้าวและไข่",
+            "en": "He bought rice and eggs.",
+            "audio_src": "เขาซื้อข้าวและไข่",
+            "audio_en_src": "He bought rice and eggs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-055",
@@ -109999,7 +110018,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วัน",
-    "audio_en_src": "day"
+    "audio_en_src": "day",
+    "examples": [
+      {
+        "meaning": "day",
+        "sentences": [
+          {
+            "thai": "วันนี้เป็นวันที่ดี",
+            "en": "Today is a good day.",
+            "audio_src": "วันนี้เป็นวันที่ดี",
+            "audio_en_src": "Today is a good day."
+          },
+          {
+            "thai": "ฉันทำงานหกวันต่อสัปดาห์",
+            "en": "I work six days a week.",
+            "audio_src": "ฉันทำงานหกวันต่อสัปดาห์",
+            "audio_en_src": "I work six days a week."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-056",
@@ -110014,7 +110052,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วันนี้",
-    "audio_en_src": "today"
+    "audio_en_src": "today",
+    "examples": [
+      {
+        "meaning": "today",
+        "sentences": [
+          {
+            "thai": "วันนี้อากาศดีมาก",
+            "en": "The weather is really nice today.",
+            "audio_src": "วันนี้อากาศดีมาก",
+            "audio_en_src": "The weather is really nice today."
+          },
+          {
+            "thai": "วันนี้คุณมีนัดไหม",
+            "en": "Do you have any plans today?",
+            "audio_src": "วันนี้คุณมีนัดไหม",
+            "audio_en_src": "Do you have any plans today?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-058",
@@ -110029,7 +110086,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ว่า",
-    "audio_en_src": "to think, say, criticize, have an opinion; that"
+    "audio_en_src": "to think, say, criticize, have an opinion; that",
+    "examples": [
+      {
+        "meaning": "to think, say, criticize, have an opinion",
+        "sentences": [
+          {
+            "thai": "คุณว่ายังไง",
+            "en": "What do you think?",
+            "audio_src": "คุณว่ายังไง",
+            "audio_en_src": "What do you think?"
+          },
+          {
+            "thai": "แม่ว่าฉันเรื่องกลับบ้านดึก",
+            "en": "My mom scolded me about coming home late.",
+            "audio_src": "แม่ว่าฉันเรื่องกลับบ้านดึก",
+            "audio_en_src": "My mom scolded me about coming home late."
+          }
+        ]
+      },
+      {
+        "meaning": "that (as in “said that”)",
+        "sentences": [
+          {
+            "thai": "เขาบอกว่าจะมาสาย",
+            "en": "He said that he'll be late.",
+            "audio_src": "เขาบอกว่าจะมาสาย",
+            "audio_en_src": "He said that he'll be late."
+          },
+          {
+            "thai": "ฉันคิดว่าฝนจะตก",
+            "en": "I think it's going to rain.",
+            "audio_src": "ฉันคิดว่าฝนจะตก",
+            "audio_en_src": "I think it's going to rain."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-059",
@@ -110044,7 +110137,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วาง",
-    "audio_en_src": "to put, to place, to lay"
+    "audio_en_src": "to put, to place, to lay",
+    "examples": [
+      {
+        "meaning": "to put (down), to place, to lay",
+        "sentences": [
+          {
+            "thai": "วางกระเป๋าไว้ตรงนี้ได้เลย",
+            "en": "You can put your bag here.",
+            "audio_src": "วางกระเป๋าไว้ตรงนี้ได้เลย",
+            "audio_en_src": "You can put your bag here."
+          },
+          {
+            "thai": "เขาวางมือถือไว้บนโต๊ะ",
+            "en": "He put his phone on the table.",
+            "audio_src": "เขาวางมือถือไว้บนโต๊ะ",
+            "audio_en_src": "He put his phone on the table."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-060",
@@ -110059,7 +110171,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "วิ่ง",
-    "audio_en_src": "to run"
+    "audio_en_src": "to run",
+    "examples": [
+      {
+        "meaning": "to run",
+        "sentences": [
+          {
+            "thai": "ทุกเช้าฉันไปวิ่งที่สวน",
+            "en": "Every morning I go running in the park.",
+            "audio_src": "ทุกเช้าฉันไปวิ่งที่สวน",
+            "audio_en_src": "Every morning I go running in the park."
+          },
+          {
+            "thai": "เด็กๆวิ่งเล่นในสนาม",
+            "en": "The kids are running around in the field.",
+            "audio_src": "เด็กๆวิ่งเล่นในสนาม",
+            "audio_en_src": "The kids are running around in the field."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-061",
@@ -110074,7 +110205,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สด",
-    "audio_en_src": "fresh"
+    "audio_en_src": "fresh",
+    "examples": [
+      {
+        "meaning": "fresh (of fruit, etc.)",
+        "sentences": [
+          {
+            "thai": "ผลไม้ที่ตลาดสดมาก",
+            "en": "The fruit at the market is really fresh.",
+            "audio_src": "ผลไม้ที่ตลาดสดมาก",
+            "audio_en_src": "The fruit at the market is really fresh."
+          },
+          {
+            "thai": "ปลานี้สดไหม",
+            "en": "Is this fish fresh?",
+            "audio_src": "ปลานี้สดไหม",
+            "audio_en_src": "Is this fish fresh?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-062",
@@ -110110,7 +110260,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สาว",
-    "audio_en_src": "girl, young woman"
+    "audio_en_src": "girl, young woman",
+    "examples": [
+      {
+        "meaning": "girl, young woman",
+        "sentences": [
+          {
+            "thai": "เธอยังเป็นสาว",
+            "en": "She's still young.",
+            "audio_src": "เธอยังเป็นสาว",
+            "audio_en_src": "She's still young."
+          },
+          {
+            "thai": "สาวคนนั้นเป็นพยาบาล",
+            "en": "That young woman is a nurse.",
+            "audio_src": "สาวคนนั้นเป็นพยาบาล",
+            "audio_en_src": "That young woman is a nurse."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-065",
@@ -110125,7 +110294,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สิบ",
-    "audio_en_src": "ten"
+    "audio_en_src": "ten",
+    "examples": [
+      {
+        "meaning": "ten (10)",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้สิบบาท",
+            "en": "This book is ten baht.",
+            "audio_src": "หนังสือเล่มนี้สิบบาท",
+            "audio_en_src": "This book is ten baht."
+          },
+          {
+            "thai": "ในห้องมีคนสิบคน",
+            "en": "There are ten people in the room.",
+            "audio_src": "ในห้องมีคนสิบคน",
+            "audio_en_src": "There are ten people in the room."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-066",
@@ -110140,7 +110328,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สีเขียว",
-    "audio_en_src": "green"
+    "audio_en_src": "green",
+    "examples": [
+      {
+        "meaning": "green",
+        "sentences": [
+          {
+            "thai": "ฉันชอบเสื้อสีเขียว",
+            "en": "I like the green shirt.",
+            "audio_src": "ฉันชอบเสื้อสีเขียว",
+            "audio_en_src": "I like the green shirt."
+          },
+          {
+            "thai": "รถคันนั้นสีเขียว",
+            "en": "That car is green.",
+            "audio_src": "รถคันนั้นสีเขียว",
+            "audio_en_src": "That car is green."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-067",

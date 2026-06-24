@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 981 words**
+**Total: 991 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -984,4 +984,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-051` : ลง (to go down, to get off) : 1 meaning(s), 2 sentences
 - `wlt-c17-052` : ลม (wind, air, breeze) : 1 meaning(s), 2 sentences
 - `wlt-c17-053` : เลี้ยว (to turn) : 1 meaning(s), 2 sentences
+- `wlt-c17-054` : และ (and) : 1 meaning(s), 2 sentences
+- `wlt-c17-055` : วัน (day) : 1 meaning(s), 2 sentences
+- `wlt-c17-056` : วันนี้ (today) : 1 meaning(s), 2 sentences
+- `wlt-c17-058` : ว่า (to think, say, criticize, have an opinion; that (as in “said that”)) : 2 meaning(s), 4 sentences
+- `wlt-c17-059` : วาง (to put (down), to place, to lay) : 1 meaning(s), 2 sentences
+- `wlt-c17-060` : วิ่ง (to run) : 1 meaning(s), 2 sentences
+- `wlt-c17-061` : สด (fresh (of fruit, etc.)) : 1 meaning(s), 2 sentences
+- `wlt-c17-064` : สาว (girl, young woman) : 1 meaning(s), 2 sentences
+- `wlt-c17-065` : สิบ (ten (10)) : 1 meaning(s), 2 sentences
+- `wlt-c17-066` : สีเขียว (green) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

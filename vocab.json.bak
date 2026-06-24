@@ -109623,7 +109623,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แมว",
-    "audio_en_src": "cat"
+    "audio_en_src": "cat",
+    "examples": [
+      {
+        "meaning": "cat",
+        "sentences": [
+          {
+            "thai": "แมวของฉันชอบนอนทั้งวัน",
+            "en": "My cat likes to sleep all day.",
+            "audio_src": "แมวของฉันชอบนอนทั้งวัน",
+            "audio_en_src": "My cat likes to sleep all day."
+          },
+          {
+            "thai": "มีแมวสามตัวอยู่หน้าบ้าน",
+            "en": "There are three cats in front of the house.",
+            "audio_src": "มีแมวสามตัวอยู่หน้าบ้าน",
+            "audio_en_src": "There are three cats in front of the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-042",
@@ -109638,7 +109657,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ยัง",
-    "audio_en_src": "still, not yet"
+    "audio_en_src": "still, not yet",
+    "examples": [
+      {
+        "meaning": "still, not yet",
+        "sentences": [
+          {
+            "thai": "เขายังไม่กลับบ้าน",
+            "en": "He's not home yet.",
+            "audio_src": "เขายังไม่กลับบ้าน",
+            "audio_en_src": "He's not home yet."
+          },
+          {
+            "thai": "ฉันยังหิวอยู่เลย",
+            "en": "I'm still hungry.",
+            "audio_src": "ฉันยังหิวอยู่เลย",
+            "audio_en_src": "I'm still hungry."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-043",
@@ -109653,7 +109691,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รถไฟ",
-    "audio_en_src": "train"
+    "audio_en_src": "train",
+    "examples": [
+      {
+        "meaning": "train",
+        "sentences": [
+          {
+            "thai": "รถไฟออกตรงเวลา",
+            "en": "The train left on time.",
+            "audio_src": "รถไฟออกตรงเวลา",
+            "audio_en_src": "The train left on time."
+          },
+          {
+            "thai": "เรานั่งรถไฟไปเชียงใหม่",
+            "en": "We took the train to Chiang Mai.",
+            "audio_src": "เรานั่งรถไฟไปเชียงใหม่",
+            "audio_en_src": "We took the train to Chiang Mai."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-045",
@@ -109668,7 +109725,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "รัก",
-    "audio_en_src": "to love"
+    "audio_en_src": "to love",
+    "examples": [
+      {
+        "meaning": "to love",
+        "sentences": [
+          {
+            "thai": "แม่รักลูกมาก",
+            "en": "A mother loves her child so much.",
+            "audio_src": "แม่รักลูกมาก",
+            "audio_en_src": "A mother loves her child so much."
+          },
+          {
+            "thai": "ฉันรักเธอ",
+            "en": "I love you.",
+            "audio_src": "ฉันรักเธอ",
+            "audio_en_src": "I love you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-046",
@@ -109693,7 +109769,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้านอาหาร",
-    "audio_en_src": "restaurant"
+    "audio_en_src": "restaurant",
+    "examples": [
+      {
+        "meaning": "restaurant",
+        "sentences": [
+          {
+            "thai": "ร้านอาหารร้านนี้อร่อยมาก",
+            "en": "This restaurant is really good.",
+            "audio_src": "ร้านอาหารร้านนี้อร่อยมาก",
+            "audio_en_src": "This restaurant is really good."
+          },
+          {
+            "thai": "คืนนี้ไปกินข้าวที่ร้านอาหารไหม",
+            "en": "Want to eat out at a restaurant tonight?",
+            "audio_src": "คืนนี้ไปกินข้าวที่ร้านอาหารไหม",
+            "audio_en_src": "Want to eat out at a restaurant tonight?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-048",
@@ -109708,7 +109803,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรียก",
-    "audio_en_src": "to call"
+    "audio_en_src": "to call",
+    "examples": [
+      {
+        "meaning": "to call",
+        "sentences": [
+          {
+            "thai": "ครูเรียกชื่อนักเรียนทีละคน",
+            "en": "The teacher called the students' names one by one.",
+            "audio_src": "ครูเรียกชื่อนักเรียนทีละคน",
+            "audio_en_src": "The teacher called the students' names one by one."
+          },
+          {
+            "thai": "ช่วยเรียกแท็กซี่ให้หน่อย",
+            "en": "Please call a taxi for me.",
+            "audio_src": "ช่วยเรียกแท็กซี่ให้หน่อย",
+            "audio_en_src": "Please call a taxi for me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-049",
@@ -109723,7 +109837,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แรก, ที่หนึ่ง",
-    "audio_en_src": "first"
+    "audio_en_src": "first",
+    "examples": [
+      {
+        "meaning": "first",
+        "sentences": [
+          {
+            "thai": "ครั้งแรกที่มาที่นี่ ฉันหลงทาง",
+            "en": "The first time I came here, I got lost.",
+            "audio_src": "ครั้งแรกที่มาที่นี่ ฉันหลงทาง",
+            "audio_en_src": "The first time I came here, I got lost."
+          },
+          {
+            "thai": "เขาสอบได้ที่หนึ่งของห้อง",
+            "en": "He came first in the class.",
+            "audio_src": "เขาสอบได้ที่หนึ่งของห้อง",
+            "audio_en_src": "He came first in the class."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-050",
@@ -109749,7 +109882,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลง",
-    "audio_en_src": "to go down, to get off"
+    "audio_en_src": "to go down, to get off",
+    "examples": [
+      {
+        "meaning": "to go down, to get off",
+        "sentences": [
+          {
+            "thai": "ฉันจะลงป้ายหน้า",
+            "en": "I'm getting off at the next stop.",
+            "audio_src": "ฉันจะลงป้ายหน้า",
+            "audio_en_src": "I'm getting off at the next stop."
+          },
+          {
+            "thai": "เดินลงบันได ระวังด้วย",
+            "en": "Be careful going down the stairs.",
+            "audio_src": "เดินลงบันได ระวังด้วย",
+            "audio_en_src": "Be careful going down the stairs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-052",
@@ -109764,7 +109916,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ลม",
-    "audio_en_src": "wind, air, breeze"
+    "audio_en_src": "wind, air, breeze",
+    "examples": [
+      {
+        "meaning": "wind, air, breeze",
+        "sentences": [
+          {
+            "thai": "วันนี้ลมแรงมาก",
+            "en": "It's really windy today.",
+            "audio_src": "วันนี้ลมแรงมาก",
+            "audio_en_src": "It's really windy today."
+          },
+          {
+            "thai": "นั่งตรงนี้มีลมเย็นๆ",
+            "en": "There's a cool breeze sitting here.",
+            "audio_src": "นั่งตรงนี้มีลมเย็นๆ",
+            "audio_en_src": "There's a cool breeze sitting here."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-053",
@@ -109779,7 +109950,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เลี้ยว",
-    "audio_en_src": "to turn"
+    "audio_en_src": "to turn",
+    "examples": [
+      {
+        "meaning": "to turn",
+        "sentences": [
+          {
+            "thai": "เลี้ยวซ้ายตรงไฟแดง",
+            "en": "Turn left at the red light.",
+            "audio_src": "เลี้ยวซ้ายตรงไฟแดง",
+            "audio_en_src": "Turn left at the red light."
+          },
+          {
+            "thai": "ขับตรงไป แล้วเลี้ยวขวา",
+            "en": "Go straight, then turn right.",
+            "audio_src": "ขับตรงไป แล้วเลี้ยวขวา",
+            "audio_en_src": "Go straight, then turn right."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-054",
