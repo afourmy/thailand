@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1111 words**
+**Total: 1121 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1115,3 +1115,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-049` : ยาก (hard, difficult, complicated) : 1 meaning(s), 2 sentences
 - `wlt-c20-050` : ยาว (long) : 1 meaning(s), 2 sentences
 - `wlt-c20-051` : รองเท้า (shoes) : 1 meaning(s), 2 sentences
+- `wlt-c20-052` : รอบ, รอบๆ (around) : 1 meaning(s), 2 sentences
+- `wlt-c20-053` : ราคา (price) : 1 meaning(s), 2 sentences
+- `wlt-c20-054` : รู้จัก (to know (someone)) : 1 meaning(s), 2 sentences
+- `wlt-c20-055` : เรือ (boat, ship) : 1 meaning(s), 2 sentences
+- `wlt-c20-056` : โรงเรียน (school) : 1 meaning(s), 2 sentences
+- `wlt-c20-057` : โรงแรม (hotel) : 1 meaning(s), 2 sentences
+- `wlt-c20-058` : ลืม (to forget) : 1 meaning(s), 2 sentences
+- `wlt-c20-059` : เล็ก (small (in size)) : 1 meaning(s), 2 sentences
+- `wlt-c20-060` : เล่น (to play (games, music, etc.)) : 1 meaning(s), 2 sentences
+- `wlt-c20-061` : แล้ว (already (indicates completed action)) : 1 meaning(s), 2 sentences
