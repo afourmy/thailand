@@ -120084,7 +120084,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เขา",
-    "audio_en_src": "he"
+    "audio_en_src": "he",
+    "examples": [
+      {
+        "meaning": "he",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเพื่อนของฉัน",
+            "en": "He's my friend.",
+            "audio_src": "เขาเป็นเพื่อนของฉัน",
+            "audio_en_src": "He's my friend."
+          },
+          {
+            "thai": "เขายังไม่กลับบ้าน",
+            "en": "He hasn't come home yet.",
+            "audio_src": "เขายังไม่กลับบ้าน",
+            "audio_en_src": "He hasn't come home yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-004",
@@ -120198,7 +120217,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พูดถึง",
-    "audio_en_src": "to talk about, to refer to"
+    "audio_en_src": "to talk about, to refer to",
+    "examples": [
+      {
+        "meaning": "to talk about, to refer to",
+        "sentences": [
+          {
+            "thai": "เมื่อกี้เราพูดถึงเธอพอดี",
+            "en": "We were just talking about you.",
+            "audio_src": "เมื่อกี้เราพูดถึงเธอพอดี",
+            "audio_en_src": "We were just talking about you."
+          },
+          {
+            "thai": "เขาไม่ชอบให้ใครพูดถึงเรื่องนี้",
+            "en": "He doesn't like anyone bringing up this topic.",
+            "audio_src": "เขาไม่ชอบให้ใครพูดถึงเรื่องนี้",
+            "audio_en_src": "He doesn't like anyone bringing up this topic."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-019",
@@ -120344,7 +120382,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้าง",
-    "audio_en_src": "side"
+    "audio_en_src": "side",
+    "examples": [
+      {
+        "meaning": "side",
+        "sentences": [
+          {
+            "thai": "ร้านอยู่ข้างซ้ายมือ",
+            "en": "The shop is on the left side.",
+            "audio_src": "ร้านอยู่ข้างซ้ายมือ",
+            "audio_en_src": "The shop is on the left side."
+          },
+          {
+            "thai": "เขานั่งอยู่ข้างฉัน",
+            "en": "He's sitting beside me.",
+            "audio_src": "เขานั่งอยู่ข้างฉัน",
+            "audio_en_src": "He's sitting beside me."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-041",
@@ -120369,7 +120426,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่ค่อย",
-    "audio_en_src": "not very, hardly"
+    "audio_en_src": "not very, hardly",
+    "examples": [
+      {
+        "meaning": "not very, hardly",
+        "sentences": [
+          {
+            "thai": "วันนี้ฉันไม่ค่อยสบาย",
+            "en": "I don't feel very well today.",
+            "audio_src": "วันนี้ฉันไม่ค่อยสบาย",
+            "audio_en_src": "I don't feel very well today."
+          },
+          {
+            "thai": "เขาไม่ค่อยพูด",
+            "en": "He hardly talks.",
+            "audio_src": "เขาไม่ค่อยพูด",
+            "audio_en_src": "He hardly talks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-043",
@@ -120383,7 +120459,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทันที",
-    "audio_en_src": "immediately"
+    "audio_en_src": "immediately",
+    "examples": [
+      {
+        "meaning": "immediately",
+        "sentences": [
+          {
+            "thai": "พอได้ข่าว เขารีบมาทันที",
+            "en": "As soon as he heard the news, he came right away.",
+            "audio_src": "พอได้ข่าว เขารีบมาทันที",
+            "audio_en_src": "As soon as he heard the news, he came right away."
+          },
+          {
+            "thai": "ฉันจะโทรกลับทันที",
+            "en": "I'll call back immediately.",
+            "audio_src": "ฉันจะโทรกลับทันที",
+            "audio_en_src": "I'll call back immediately."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-044",
@@ -120408,7 +120503,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หาย",
-    "audio_en_src": "to disappear; lost, missing"
+    "audio_en_src": "to disappear; lost, missing",
+    "examples": [
+      {
+        "meaning": "to disappear",
+        "sentences": [
+          {
+            "thai": "เมฆหายไปหมดแล้ว",
+            "en": "The clouds have all disappeared.",
+            "audio_src": "เมฆหายไปหมดแล้ว",
+            "audio_en_src": "The clouds have all disappeared."
+          },
+          {
+            "thai": "อาการปวดหัวหายแล้ว",
+            "en": "My headache is gone now.",
+            "audio_src": "อาการปวดหัวหายแล้ว",
+            "audio_en_src": "My headache is gone now."
+          }
+        ]
+      },
+      {
+        "meaning": "lost, missing",
+        "sentences": [
+          {
+            "thai": "กระเป๋าเงินฉันหาย",
+            "en": "My wallet is missing.",
+            "audio_src": "กระเป๋าเงินฉันหาย",
+            "audio_en_src": "My wallet is missing."
+          },
+          {
+            "thai": "แมวที่บ้านหายไปสองวันแล้ว",
+            "en": "Our cat has been missing for two days.",
+            "audio_src": "แมวที่บ้านหายไปสองวันแล้ว",
+            "audio_en_src": "Our cat has been missing for two days."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-047",
@@ -120513,7 +120644,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช้า",
-    "audio_en_src": "slow"
+    "audio_en_src": "slow",
+    "examples": [
+      {
+        "meaning": "slow",
+        "sentences": [
+          {
+            "thai": "เน็ตวันนี้ช้ามาก",
+            "en": "The internet is really slow today.",
+            "audio_src": "เน็ตวันนี้ช้ามาก",
+            "audio_en_src": "The internet is really slow today."
+          },
+          {
+            "thai": "เดินช้าๆ ไม่ต้องรีบ",
+            "en": "Walk slowly, no need to rush.",
+            "audio_src": "เดินช้าๆ ไม่ต้องรีบ",
+            "audio_en_src": "Walk slowly, no need to rush."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-062",
@@ -120597,7 +120747,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฝัน",
-    "audio_en_src": "dream"
+    "audio_en_src": "dream",
+    "examples": [
+      {
+        "meaning": "dream",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนฉันฝันถึงเธอ",
+            "en": "I dreamed about you last night.",
+            "audio_src": "เมื่อคืนฉันฝันถึงเธอ",
+            "audio_en_src": "I dreamed about you last night."
+          },
+          {
+            "thai": "เขาฝันอยากเป็นหมอ",
+            "en": "He dreams of becoming a doctor.",
+            "audio_src": "เขาฝันอยากเป็นหมอ",
+            "audio_en_src": "He dreams of becoming a doctor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-074",
@@ -120673,7 +120842,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "หมายความ, หมายถึง",
-    "audio_en_src": "to mean"
+    "audio_en_src": "to mean",
+    "examples": [
+      {
+        "meaning": "to mean",
+        "sentences": [
+          {
+            "thai": "คำนี้หมายความว่าอะไร",
+            "en": "What does this word mean?",
+            "audio_src": "คำนี้หมายความว่าอะไร",
+            "audio_en_src": "What does this word mean?"
+          },
+          {
+            "thai": "ที่เขาพูดหมายถึงอะไร",
+            "en": "What does he mean by that?",
+            "audio_src": "ที่เขาพูดหมายถึงอะไร",
+            "audio_en_src": "What does he mean by that?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c01-087",
@@ -121108,7 +121296,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "พูดคุย",
-    "audio_en_src": "to talk, to chat"
+    "audio_en_src": "to talk, to chat",
+    "examples": [
+      {
+        "meaning": "to talk, to chat",
+        "sentences": [
+          {
+            "thai": "เรานั่งพูดคุยกันทั้งคืน",
+            "en": "We sat and chatted all night.",
+            "audio_src": "เรานั่งพูดคุยกันทั้งคืน",
+            "audio_en_src": "We sat and chatted all night."
+          },
+          {
+            "thai": "มีเรื่องอยากพูดคุยกับคุณ",
+            "en": "There's something I'd like to talk to you about.",
+            "audio_src": "มีเรื่องอยากพูดคุยกับคุณ",
+            "audio_en_src": "There's something I'd like to talk to you about."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c02-044",

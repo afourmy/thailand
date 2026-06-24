@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1241 words**
+**Total: 1251 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1245,3 +1245,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-073` : ฝัน (dream) : 1 meaning(s), 2 sentences
 - `t4k-c01-085` : หมายความ, หมายถึง (to mean) : 1 meaning(s), 2 sentences
 - `t4k-c02-043` : พูดคุย (to talk, to chat) : 1 meaning(s), 2 sentences
+- `t4k-c02-046` : ที่ไหน (where) : 1 meaning(s), 2 sentences
+- `t4k-c02-065` : กล้อง (camera) : 1 meaning(s), 2 sentences
+- `t4k-c03-030` : ตลก (funny) : 1 meaning(s), 2 sentences
+- `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
+- `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
+- `t4k-c04-034` : จัง (very, so (+ adj)) : 1 meaning(s), 2 sentences
+- `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
+- `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
+- `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
+- `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
