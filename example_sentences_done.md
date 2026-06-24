@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 931 words**
+**Total: 941 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -934,4 +934,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-086` : ชั้น (class, rank, grade, floor (in a building)) : 1 meaning(s), 2 sentences
 - `wlt-c16-087` : ชั่วโมง (hour) : 1 meaning(s), 2 sentences
 - `wlt-c16-091` : ดึก (late at night) : 1 meaning(s), 2 sentences
+- `wlt-c16-092` : ตก (to fall) : 1 meaning(s), 2 sentences
+- `wlt-c16-093` : ต้องการ (to want, to need) : 1 meaning(s), 2 sentences
+- `wlt-c16-095` : ตำรวจ (police) : 1 meaning(s), 2 sentences
+- `wlt-c16-097` : โต๊ะ (table, desk) : 1 meaning(s), 2 sentences
+- `wlt-c16-098` : ถ้วย (cup, small bowl) : 1 meaning(s), 2 sentences
+- `wlt-c16-099` : ถ้า (if) : 1 meaning(s), 2 sentences
+- `wlt-c17-000` : ถาม (to ask (a question)) : 1 meaning(s), 2 sentences
+- `wlt-c17-001` : ทอง, ทองคำ (gold) : 1 meaning(s), 2 sentences
+- `wlt-c17-002` : ทะเล (sea) : 1 meaning(s), 2 sentences
+- `wlt-c17-003` : เท้า (foot) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

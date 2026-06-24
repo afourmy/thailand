@@ -107825,7 +107825,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แขน",
-    "audio_en_src": "arm"
+    "audio_en_src": "arm",
+    "examples": [
+      {
+        "meaning": "arm",
+        "sentences": [
+          {
+            "thai": "แขนเขายาวมาก",
+            "en": "His arms are really long.",
+            "audio_src": "แขนเขายาวมาก",
+            "audio_en_src": "His arms are really long."
+          },
+          {
+            "thai": "ลูกจับแขนแม่ไว้แน่น",
+            "en": "The child held on tight to his mother's arm.",
+            "audio_src": "ลูกจับแขนแม่ไว้แน่น",
+            "audio_en_src": "The child held on tight to his mother's arm."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-078",
@@ -107840,7 +107859,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไข่",
-    "audio_en_src": "egg"
+    "audio_en_src": "egg",
+    "examples": [
+      {
+        "meaning": "egg",
+        "sentences": [
+          {
+            "thai": "เช้านี้กินไข่สองฟอง",
+            "en": "I had two eggs this morning.",
+            "audio_src": "เช้านี้กินไข่สองฟอง",
+            "audio_en_src": "I had two eggs this morning."
+          },
+          {
+            "thai": "ไข่ในตู้เย็นหมดแล้ว",
+            "en": "We're out of eggs in the fridge.",
+            "audio_src": "ไข่ในตู้เย็นหมดแล้ว",
+            "audio_en_src": "We're out of eggs in the fridge."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-079",
@@ -107855,7 +107893,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ครั้ง",
-    "audio_en_src": "times, occasions; classifier for time"
+    "audio_en_src": "times, occasions; classifier for time",
+    "examples": [
+      {
+        "meaning": "times, occasions",
+        "sentences": [
+          {
+            "thai": "ครั้งนี้เธอทำได้ดีมาก",
+            "en": "You did really well this time.",
+            "audio_src": "ครั้งนี้เธอทำได้ดีมาก",
+            "audio_en_src": "You did really well this time."
+          },
+          {
+            "thai": "ครั้งแรกที่เจอเค้า ฉันยังจำได้",
+            "en": "I still remember the first time I met him.",
+            "audio_src": "ครั้งแรกที่เจอเค้า ฉันยังจำได้",
+            "audio_en_src": "I still remember the first time I met him."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for time",
+        "sentences": [
+          {
+            "thai": "ฉันไปเชียงใหม่มาสองครั้ง",
+            "en": "I've been to Chiang Mai twice.",
+            "audio_src": "ฉันไปเชียงใหม่มาสองครั้ง",
+            "audio_en_src": "I've been to Chiang Mai twice."
+          },
+          {
+            "thai": "กินยาวันละสามครั้ง",
+            "en": "Take the medicine three times a day.",
+            "audio_src": "กินยาวันละสามครั้ง",
+            "audio_en_src": "Take the medicine three times a day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-081",
@@ -107870,7 +107944,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เครื่องบิน",
-    "audio_en_src": "airplane"
+    "audio_en_src": "airplane",
+    "examples": [
+      {
+        "meaning": "airplane",
+        "sentences": [
+          {
+            "thai": "เครื่องบินจะออกบ่ายสามโมง",
+            "en": "The plane leaves at three in the afternoon.",
+            "audio_src": "เครื่องบินจะออกบ่ายสามโมง",
+            "audio_en_src": "The plane leaves at three in the afternoon."
+          },
+          {
+            "thai": "ฉันกลัวขึ้นเครื่องบิน",
+            "en": "I'm scared of flying.",
+            "audio_src": "ฉันกลัวขึ้นเครื่องบิน",
+            "audio_en_src": "I'm scared of flying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-082",
@@ -107885,7 +107978,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จำ",
-    "audio_en_src": "to remember, to recognize"
+    "audio_en_src": "to remember, to recognize",
+    "examples": [
+      {
+        "meaning": "to remember, to recognize",
+        "sentences": [
+          {
+            "thai": "ฉันจำชื่อเค้าไม่ได้",
+            "en": "I can't remember his name.",
+            "audio_src": "ฉันจำชื่อเค้าไม่ได้",
+            "audio_en_src": "I can't remember his name."
+          },
+          {
+            "thai": "เธอจำฉันได้ไหม",
+            "en": "Do you recognize me?",
+            "audio_src": "เธอจำฉันได้ไหม",
+            "audio_en_src": "Do you recognize me?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-083",
@@ -107899,7 +108011,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เจ็ด",
-    "audio_en_src": "seven"
+    "audio_en_src": "seven",
+    "examples": [
+      {
+        "meaning": "seven (7)",
+        "sentences": [
+          {
+            "thai": "ห้องนี้มีเก้าอี้เจ็ดตัว",
+            "en": "There are seven chairs in this room.",
+            "audio_src": "ห้องนี้มีเก้าอี้เจ็ดตัว",
+            "audio_en_src": "There are seven chairs in this room."
+          },
+          {
+            "thai": "เจ็ดโมงเช้าแล้ว ตื่นได้แล้ว",
+            "en": "It's seven in the morning, time to get up.",
+            "audio_src": "เจ็ดโมงเช้าแล้ว ตื่นได้แล้ว",
+            "audio_en_src": "It's seven in the morning, time to get up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-084",
@@ -107925,7 +108056,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่วย",
-    "audio_en_src": "to help, please"
+    "audio_en_src": "to help, please",
+    "examples": [
+      {
+        "meaning": "to help, please",
+        "sentences": [
+          {
+            "thai": "ช่วยฉันหน่อยได้ไหม",
+            "en": "Can you help me?",
+            "audio_src": "ช่วยฉันหน่อยได้ไหม",
+            "audio_en_src": "Can you help me?"
+          },
+          {
+            "thai": "ช่วยปิดประตูหน่อย",
+            "en": "Please close the door.",
+            "audio_src": "ช่วยปิดประตูหน่อย",
+            "audio_en_src": "Please close the door."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-086",
@@ -107940,7 +108090,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชั้น",
-    "audio_en_src": "class, rank, grade, floor"
+    "audio_en_src": "class, rank, grade, floor",
+    "examples": [
+      {
+        "meaning": "class, rank, grade, floor (in a building)",
+        "sentences": [
+          {
+            "thai": "ห้องเรียนอยู่ชั้นสาม",
+            "en": "The classroom is on the third floor.",
+            "audio_src": "ห้องเรียนอยู่ชั้นสาม",
+            "audio_en_src": "The classroom is on the third floor."
+          },
+          {
+            "thai": "เค้าได้ที่หนึ่งของชั้น",
+            "en": "He came first in his class.",
+            "audio_src": "เค้าได้ที่หนึ่งของชั้น",
+            "audio_en_src": "He came first in his class."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-087",
@@ -107955,7 +108124,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ชั่วโมง",
-    "audio_en_src": "hour"
+    "audio_en_src": "hour",
+    "examples": [
+      {
+        "meaning": "hour",
+        "sentences": [
+          {
+            "thai": "รอมาเป็นชั่วโมงแล้ว",
+            "en": "I've been waiting for an hour.",
+            "audio_src": "รอมาเป็นชั่วโมงแล้ว",
+            "audio_en_src": "I've been waiting for an hour."
+          },
+          {
+            "thai": "หนังเรื่องนี้ยาวสามชั่วโมง",
+            "en": "This movie is three hours long.",
+            "audio_src": "หนังเรื่องนี้ยาวสามชั่วโมง",
+            "audio_en_src": "This movie is three hours long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-089",
@@ -107992,7 +108180,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดึก",
-    "audio_en_src": "late at night"
+    "audio_en_src": "late at night",
+    "examples": [
+      {
+        "meaning": "late at night",
+        "sentences": [
+          {
+            "thai": "อย่านอนดึกมาก เดี๋ยวไม่สบาย",
+            "en": "Don't stay up too late, you'll get sick.",
+            "audio_src": "อย่านอนดึกมาก เดี๋ยวไม่สบาย",
+            "audio_en_src": "Don't stay up too late, you'll get sick."
+          },
+          {
+            "thai": "เมื่อคืนกลับบ้านดึกมาก",
+            "en": "I got home really late last night.",
+            "audio_src": "เมื่อคืนกลับบ้านดึกมาก",
+            "audio_en_src": "I got home really late last night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-092",

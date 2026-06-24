@@ -108214,7 +108214,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตก",
-    "audio_en_src": "to fall"
+    "audio_en_src": "to fall",
+    "examples": [
+      {
+        "meaning": "to fall",
+        "sentences": [
+          {
+            "thai": "แก้วตกแตกแล้ว",
+            "en": "The glass fell and broke.",
+            "audio_src": "แก้วตกแตกแล้ว",
+            "audio_en_src": "The glass fell and broke."
+          },
+          {
+            "thai": "ฝนเริ่มตกแล้ว รีบกลับบ้านดีกว่า",
+            "en": "It's starting to rain, we'd better head home.",
+            "audio_src": "ฝนเริ่มตกแล้ว รีบกลับบ้านดีกว่า",
+            "audio_en_src": "It's starting to rain, we'd better head home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-093",
@@ -108229,7 +108248,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ต้องการ",
-    "audio_en_src": "to want, to need"
+    "audio_en_src": "to want, to need",
+    "examples": [
+      {
+        "meaning": "to want, to need",
+        "sentences": [
+          {
+            "thai": "คุณต้องการอะไรเพิ่มไหม",
+            "en": "Do you need anything else?",
+            "audio_src": "คุณต้องการอะไรเพิ่มไหม",
+            "audio_en_src": "Do you need anything else?"
+          },
+          {
+            "thai": "เรายังต้องการคนช่วยอีกสองคน",
+            "en": "We still need two more people to help.",
+            "audio_src": "เรายังต้องการคนช่วยอีกสองคน",
+            "audio_en_src": "We still need two more people to help."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-094",
@@ -108255,7 +108293,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตำรวจ",
-    "audio_en_src": "police"
+    "audio_en_src": "police",
+    "examples": [
+      {
+        "meaning": "police",
+        "sentences": [
+          {
+            "thai": "ถ้ามีปัญหาให้โทรหาตำรวจ",
+            "en": "If there's a problem, call the police.",
+            "audio_src": "ถ้ามีปัญหาให้โทรหาตำรวจ",
+            "audio_en_src": "If there's a problem, call the police."
+          },
+          {
+            "thai": "ตำรวจจับคนร้ายได้แล้ว",
+            "en": "The police caught the criminal.",
+            "audio_src": "ตำรวจจับคนร้ายได้แล้ว",
+            "audio_en_src": "The police caught the criminal."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-096",
@@ -108281,7 +108338,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "โต๊ะ",
-    "audio_en_src": "table, desk"
+    "audio_en_src": "table, desk",
+    "examples": [
+      {
+        "meaning": "table, desk",
+        "sentences": [
+          {
+            "thai": "วางจานไว้บนโต๊ะได้เลย",
+            "en": "Just put the plates on the table.",
+            "audio_src": "วางจานไว้บนโต๊ะได้เลย",
+            "audio_en_src": "Just put the plates on the table."
+          },
+          {
+            "thai": "หนังสืออยู่บนโต๊ะทำงาน",
+            "en": "The book is on the desk.",
+            "audio_src": "หนังสืออยู่บนโต๊ะทำงาน",
+            "audio_en_src": "The book is on the desk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-098",
@@ -108296,7 +108372,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถ้วย",
-    "audio_en_src": "cup, small bowl"
+    "audio_en_src": "cup, small bowl",
+    "examples": [
+      {
+        "meaning": "cup, small bowl",
+        "sentences": [
+          {
+            "thai": "ขอน้ำชาอีกถ้วย",
+            "en": "Can I have another cup of tea?",
+            "audio_src": "ขอน้ำชาอีกถ้วย",
+            "audio_en_src": "Can I have another cup of tea?"
+          },
+          {
+            "thai": "กินข้าวต้มไปสองถ้วย",
+            "en": "I had two bowls of rice porridge.",
+            "audio_src": "กินข้าวต้มไปสองถ้วย",
+            "audio_en_src": "I had two bowls of rice porridge."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c16-099",
@@ -108311,7 +108406,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถ้า",
-    "audio_en_src": "if"
+    "audio_en_src": "if",
+    "examples": [
+      {
+        "meaning": "if",
+        "sentences": [
+          {
+            "thai": "ถ้าฝนตก เราก็ไม่ไป",
+            "en": "If it rains, we won't go.",
+            "audio_src": "ถ้าฝนตก เราก็ไม่ไป",
+            "audio_en_src": "If it rains, we won't go."
+          },
+          {
+            "thai": "ถ้าว่างก็โทรมานะ",
+            "en": "Call me if you're free.",
+            "audio_src": "ถ้าว่างก็โทรมานะ",
+            "audio_en_src": "Call me if you're free."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-000",
@@ -108326,7 +108440,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถาม",
-    "audio_en_src": "to ask"
+    "audio_en_src": "to ask",
+    "examples": [
+      {
+        "meaning": "to ask (a question)",
+        "sentences": [
+          {
+            "thai": "ขอถามอะไรหน่อยได้ไหม",
+            "en": "Can I ask you something?",
+            "audio_src": "ขอถามอะไรหน่อยได้ไหม",
+            "audio_en_src": "Can I ask you something?"
+          },
+          {
+            "thai": "ครูถามแต่ไม่มีใครตอบ",
+            "en": "The teacher asked but no one answered.",
+            "audio_src": "ครูถามแต่ไม่มีใครตอบ",
+            "audio_en_src": "The teacher asked but no one answered."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-001",
@@ -108341,7 +108474,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทอง, ทองคำ",
-    "audio_en_src": "gold"
+    "audio_en_src": "gold",
+    "examples": [
+      {
+        "meaning": "gold",
+        "sentences": [
+          {
+            "thai": "แหวนวงนี้ทำจากทอง",
+            "en": "This ring is made of gold.",
+            "audio_src": "แหวนวงนี้ทำจากทอง",
+            "audio_en_src": "This ring is made of gold."
+          },
+          {
+            "thai": "ราคาทองคำขึ้นทุกวัน",
+            "en": "The price of gold goes up every day.",
+            "audio_src": "ราคาทองคำขึ้นทุกวัน",
+            "audio_en_src": "The price of gold goes up every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-002",
@@ -108356,7 +108508,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทะเล",
-    "audio_en_src": "sea"
+    "audio_en_src": "sea",
+    "examples": [
+      {
+        "meaning": "sea",
+        "sentences": [
+          {
+            "thai": "หน้าร้อนฉันชอบไปทะเล",
+            "en": "I like going to the sea in summer.",
+            "audio_src": "หน้าร้อนฉันชอบไปทะเล",
+            "audio_en_src": "I like going to the sea in summer."
+          },
+          {
+            "thai": "น้ำทะเลวันนี้ใสมาก",
+            "en": "The sea is really clear today.",
+            "audio_src": "น้ำทะเลวันนี้ใสมาก",
+            "audio_en_src": "The sea is really clear today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-003",
@@ -108371,7 +108542,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เท้า",
-    "audio_en_src": "foot"
+    "audio_en_src": "foot",
+    "examples": [
+      {
+        "meaning": "foot",
+        "sentences": [
+          {
+            "thai": "เท้าฉันเจ็บ เดินไม่ไหว",
+            "en": "My foot hurts, I can't walk.",
+            "audio_src": "เท้าฉันเจ็บ เดินไม่ไหว",
+            "audio_en_src": "My foot hurts, I can't walk."
+          },
+          {
+            "thai": "ล้างเท้าก่อนขึ้นเตียงนะ",
+            "en": "Wash your feet before getting into bed.",
+            "audio_src": "ล้างเท้าก่อนขึ้นเตียงนะ",
+            "audio_en_src": "Wash your feet before getting into bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-005",
