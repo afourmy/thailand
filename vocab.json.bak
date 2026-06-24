@@ -121350,7 +121350,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ที่ไหน",
-    "audio_en_src": "where"
+    "audio_en_src": "where",
+    "examples": [
+      {
+        "meaning": "where",
+        "sentences": [
+          {
+            "thai": "เธออยู่ที่ไหน",
+            "en": "Where are you?",
+            "audio_src": "เธออยู่ที่ไหน",
+            "audio_en_src": "Where are you?"
+          },
+          {
+            "thai": "ห้องน้ำอยู่ที่ไหน",
+            "en": "Where's the bathroom?",
+            "audio_src": "ห้องน้ำอยู่ที่ไหน",
+            "audio_en_src": "Where's the bathroom?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c02-047",
@@ -121495,7 +121514,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กล้อง",
-    "audio_en_src": "camera"
+    "audio_en_src": "camera",
+    "examples": [
+      {
+        "meaning": "camera",
+        "sentences": [
+          {
+            "thai": "กล้องตัวนี้ถ่ายรูปสวยมาก",
+            "en": "This camera takes really nice photos.",
+            "audio_src": "กล้องตัวนี้ถ่ายรูปสวยมาก",
+            "audio_en_src": "This camera takes really nice photos."
+          },
+          {
+            "thai": "ฉันลืมเอากล้องมา",
+            "en": "I forgot to bring my camera.",
+            "audio_src": "ฉันลืมเอากล้องมา",
+            "audio_en_src": "I forgot to bring my camera."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c02-066",
@@ -122013,7 +122051,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตลก",
-    "audio_en_src": "funny"
+    "audio_en_src": "funny",
+    "examples": [
+      {
+        "meaning": "funny",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้ตลกมาก",
+            "en": "This movie is really funny.",
+            "audio_src": "หนังเรื่องนี้ตลกมาก",
+            "audio_en_src": "This movie is really funny."
+          },
+          {
+            "thai": "เขาเป็นคนตลก",
+            "en": "He's a funny guy.",
+            "audio_src": "เขาเป็นคนตลก",
+            "audio_en_src": "He's a funny guy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c03-031",
@@ -122737,7 +122794,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ่าย",
-    "audio_en_src": "afternoon"
+    "audio_en_src": "afternoon",
+    "examples": [
+      {
+        "meaning": "afternoon (1pm - 4pm)",
+        "sentences": [
+          {
+            "thai": "บ่ายนี้ฉันมีนัด",
+            "en": "I have an appointment this afternoon.",
+            "audio_src": "บ่ายนี้ฉันมีนัด",
+            "audio_en_src": "I have an appointment this afternoon."
+          },
+          {
+            "thai": "เจอกันบ่ายสองนะ",
+            "en": "See you at two in the afternoon.",
+            "audio_src": "เจอกันบ่ายสองนะ",
+            "audio_en_src": "See you at two in the afternoon."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c04-025",
@@ -122791,7 +122867,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เกม",
-    "audio_en_src": "game"
+    "audio_en_src": "game",
+    "examples": [
+      {
+        "meaning": "game",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบเล่นเกม",
+            "en": "The kids love playing games.",
+            "audio_src": "เด็กๆชอบเล่นเกม",
+            "audio_en_src": "The kids love playing games."
+          },
+          {
+            "thai": "เกมนี้สนุกมาก",
+            "en": "This game is really fun.",
+            "audio_src": "เกมนี้สนุกมาก",
+            "audio_en_src": "This game is really fun."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c04-033",
@@ -122815,7 +122910,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "จัง",
-    "audio_en_src": "very, so"
+    "audio_en_src": "very, so",
+    "examples": [
+      {
+        "meaning": "very, so (+ adj)",
+        "sentences": [
+          {
+            "thai": "วันนี้ร้อนจัง",
+            "en": "It's so hot today.",
+            "audio_src": "วันนี้ร้อนจัง",
+            "audio_en_src": "It's so hot today."
+          },
+          {
+            "thai": "อร่อยจังเลย",
+            "en": "This is so delicious.",
+            "audio_src": "อร่อยจังเลย",
+            "audio_en_src": "This is so delicious."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c04-036",
@@ -124063,7 +124177,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สุดยอด",
-    "audio_en_src": "excellent, awesome, the best"
+    "audio_en_src": "excellent, awesome, the best",
+    "examples": [
+      {
+        "meaning": "excellent, awesome, the best",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้สุดยอดไปเลย",
+            "en": "This movie is awesome.",
+            "audio_src": "หนังเรื่องนี้สุดยอดไปเลย",
+            "audio_en_src": "This movie is awesome."
+          },
+          {
+            "thai": "ฝีมือทำอาหารเธอสุดยอดมาก",
+            "en": "Your cooking is the best.",
+            "audio_src": "ฝีมือทำอาหารเธอสุดยอดมาก",
+            "audio_en_src": "Your cooking is the best."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c06-004",
@@ -124127,7 +124260,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "การ์ตูน",
-    "audio_en_src": "cartoon"
+    "audio_en_src": "cartoon",
+    "examples": [
+      {
+        "meaning": "cartoon",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบดูการ์ตูน",
+            "en": "Kids love watching cartoons.",
+            "audio_src": "เด็กๆชอบดูการ์ตูน",
+            "audio_en_src": "Kids love watching cartoons."
+          },
+          {
+            "thai": "ฉันชอบการ์ตูนเรื่องนี้ตั้งแต่เด็ก",
+            "en": "I've loved this cartoon since I was a kid.",
+            "audio_src": "ฉันชอบการ์ตูนเรื่องนี้ตั้งแต่เด็ก",
+            "audio_en_src": "I've loved this cartoon since I was a kid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c06-012",
@@ -125785,7 +125937,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปีใหม่",
-    "audio_en_src": "new year"
+    "audio_en_src": "new year",
+    "examples": [
+      {
+        "meaning": "new year",
+        "sentences": [
+          {
+            "thai": "ปีใหม่นี้เธอจะไปไหน",
+            "en": "Where are you going for New Year?",
+            "audio_src": "ปีใหม่นี้เธอจะไปไหน",
+            "audio_en_src": "Where are you going for New Year?"
+          },
+          {
+            "thai": "สุขสันต์วันปีใหม่",
+            "en": "Happy New Year.",
+            "audio_src": "สุขสันต์วันปีใหม่",
+            "audio_en_src": "Happy New Year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c08-027",
@@ -127403,7 +127574,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฟุตบอล",
-    "audio_en_src": "football"
+    "audio_en_src": "football",
+    "examples": [
+      {
+        "meaning": "football",
+        "sentences": [
+          {
+            "thai": "เด็กๆเล่นฟุตบอลที่สนาม",
+            "en": "The kids are playing football in the field.",
+            "audio_src": "เด็กๆเล่นฟุตบอลที่สนาม",
+            "audio_en_src": "The kids are playing football in the field."
+          },
+          {
+            "thai": "คืนนี้มีฟุตบอลคู่สำคัญ",
+            "en": "There's an important football match tonight.",
+            "audio_src": "คืนนี้มีฟุตบอลคู่สำคัญ",
+            "audio_en_src": "There's an important football match tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c10-054",

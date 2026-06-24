@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1251 words**
+**Total: 1261 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -1255,3 +1255,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
+- `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
+- `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
+- `t4k-c11-109` : เค้ก (cake) : 1 meaning(s), 2 sentences
+- `exd-002` : ที่ (at; that, which; times, occasions) : 3 meaning(s), 6 sentences
+- `exd-003` : ได้ (can, to be able; to get, to obtain) : 2 meaning(s), 4 sentences
+- `exd-004` : หรือ (or) : 1 meaning(s), 2 sentences
+- `exd-008` : ไม่ (no, not) : 1 meaning(s), 2 sentences
+- `exd-010` : ผล (result, effect, outcome; classifier for fruit) : 2 meaning(s), 4 sentences
+- `exd-016` : กิโลเมตร (kilometer) : 1 meaning(s), 2 sentences
+- `exd-017` : นอกจาก (except) : 1 meaning(s), 2 sentences
