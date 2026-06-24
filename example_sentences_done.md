@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 831 words**
+**Total: 841 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -833,5 +833,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-007` : อาหารเช้า (breakfast) : 1 meaning(s), 2 sentences
 - `wlt-c15-015` : อื่น (other, different) : 1 meaning(s), 2 sentences
 - `wlt-c15-022` : กลัว (to fear, scared, afraid of) : 1 meaning(s), 2 sentences
+- `wlt-c15-023` : กลาง (center, middle, intermediate, moderate) : 1 meaning(s), 3 sentences
+- `wlt-c15-024` : กลางคืน (night time (7pm - 3am)) : 1 meaning(s), 2 sentences
+- `wlt-c15-025` : กุ้ง (prawn, shrimp) : 1 meaning(s), 2 sentences
+- `wlt-c15-026` : เก็บ (to collect, keep, store) : 1 meaning(s), 3 sentences
+- `wlt-c15-027` : เก้า ๙ (nine (9)) : 1 meaning(s), 2 sentences
+- `wlt-c15-030` : ขวา (right (side)) : 1 meaning(s), 2 sentences
+- `wlt-c15-031` : ข้างนอก (outside) : 1 meaning(s), 2 sentences
+- `wlt-c15-032` : ข้างใน (inside) : 1 meaning(s), 2 sentences
+- `wlt-c15-033` : ข้างบน (above, on top, upstairs) : 1 meaning(s), 2 sentences
+- `wlt-c15-034` : ข้างล่าง (below, under) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences

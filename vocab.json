@@ -104269,7 +104269,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลาง",
-    "audio_en_src": "center, middle, intermediate, moderate"
+    "audio_en_src": "center, middle, intermediate, moderate",
+    "examples": [
+      {
+        "meaning": "center, middle, intermediate, moderate",
+        "sentences": [
+          {
+            "thai": "เด็กๆยืนอยู่กลางห้อง",
+            "en": "The kids are standing in the middle of the room.",
+            "audio_src": "เด็กๆยืนอยู่กลางห้อง",
+            "audio_en_src": "The kids are standing in the middle of the room."
+          },
+          {
+            "thai": "เขานั่งอยู่ตรงกลางระหว่างเรา",
+            "en": "He sits right in the middle between us.",
+            "audio_src": "เขานั่งอยู่ตรงกลางระหว่างเรา",
+            "audio_en_src": "He sits right in the middle between us."
+          },
+          {
+            "thai": "ขอความเผ็ดระดับกลาง",
+            "en": "Medium spice level, please.",
+            "audio_src": "ขอความเผ็ดระดับกลาง",
+            "audio_en_src": "Medium spice level, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-024",
@@ -104284,7 +104309,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กลางคืน",
-    "audio_en_src": "night time"
+    "audio_en_src": "night time",
+    "examples": [
+      {
+        "meaning": "night time (7pm - 3am)",
+        "sentences": [
+          {
+            "thai": "กลางคืนถนนเงียบมาก",
+            "en": "At night the streets are very quiet.",
+            "audio_src": "กลางคืนถนนเงียบมาก",
+            "audio_en_src": "At night the streets are very quiet."
+          },
+          {
+            "thai": "เขาทำงานกลางคืน นอนกลางวัน",
+            "en": "He works at night and sleeps during the day.",
+            "audio_src": "เขาทำงานกลางคืน นอนกลางวัน",
+            "audio_en_src": "He works at night and sleeps during the day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-025",
@@ -104299,7 +104343,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "กุ้ง",
-    "audio_en_src": "prawn, shrimp"
+    "audio_en_src": "prawn, shrimp",
+    "examples": [
+      {
+        "meaning": "prawn, shrimp",
+        "sentences": [
+          {
+            "thai": "ต้มยำกุ้งเป็นเมนูโปรดของฉัน",
+            "en": "Tom yum goong is my favorite dish.",
+            "audio_src": "ต้มยำกุ้งเป็นเมนูโปรดของฉัน",
+            "audio_en_src": "Tom yum goong is my favorite dish."
+          },
+          {
+            "thai": "ฉันแพ้กุ้ง กินไม่ได้",
+            "en": "I'm allergic to shrimp, I can't eat it.",
+            "audio_src": "ฉันแพ้กุ้ง กินไม่ได้",
+            "audio_en_src": "I'm allergic to shrimp, I can't eat it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-026",
@@ -104315,7 +104378,32 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เก็บ",
-    "audio_en_src": "to collect, keep, store"
+    "audio_en_src": "to collect, keep, store",
+    "examples": [
+      {
+        "meaning": "to collect, keep, store",
+        "sentences": [
+          {
+            "thai": "เก็บของให้เรียบร้อยก่อนออกไป",
+            "en": "Put your things away before you go out.",
+            "audio_src": "เก็บของให้เรียบร้อยก่อนออกไป",
+            "audio_en_src": "Put your things away before you go out."
+          },
+          {
+            "thai": "ฉันเก็บเงินไว้ซื้อรถ",
+            "en": "I'm saving money to buy a car.",
+            "audio_src": "ฉันเก็บเงินไว้ซื้อรถ",
+            "audio_en_src": "I'm saving money to buy a car."
+          },
+          {
+            "thai": "เด็กๆช่วยกันเก็บขยะ",
+            "en": "The kids helped pick up the trash together.",
+            "audio_src": "เด็กๆช่วยกันเก็บขยะ",
+            "audio_en_src": "The kids helped pick up the trash together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-027",
@@ -104330,7 +104418,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เก้า ๙",
-    "audio_en_src": "nine"
+    "audio_en_src": "nine",
+    "examples": [
+      {
+        "meaning": "nine (9)",
+        "sentences": [
+          {
+            "thai": "ตอนนี้เก้าโมงเช้าแล้ว",
+            "en": "It's nine in the morning now.",
+            "audio_src": "ตอนนี้เก้าโมงเช้าแล้ว",
+            "audio_en_src": "It's nine in the morning now."
+          },
+          {
+            "thai": "แมวมีเก้าชีวิตตามที่เขาว่ากัน",
+            "en": "They say cats have nine lives.",
+            "audio_src": "แมวมีเก้าชีวิตตามที่เขาว่ากัน",
+            "audio_en_src": "They say cats have nine lives."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-028",
@@ -104368,7 +104475,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ขวา",
-    "audio_en_src": "right"
+    "audio_en_src": "right",
+    "examples": [
+      {
+        "meaning": "right (side)",
+        "sentences": [
+          {
+            "thai": "ยกมือขวาขึ้น",
+            "en": "Raise your right hand.",
+            "audio_src": "ยกมือขวาขึ้น",
+            "audio_en_src": "Raise your right hand."
+          },
+          {
+            "thai": "เลี้ยวขวาตรงหัวมุม",
+            "en": "Turn right at the corner.",
+            "audio_src": "เลี้ยวขวาตรงหัวมุม",
+            "audio_en_src": "Turn right at the corner."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-031",
@@ -104383,7 +104509,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างนอก",
-    "audio_en_src": "outside"
+    "audio_en_src": "outside",
+    "examples": [
+      {
+        "meaning": "outside",
+        "sentences": [
+          {
+            "thai": "ข้างนอกฝนตก อยู่บ้านดีกว่า",
+            "en": "It's raining outside, better to stay home.",
+            "audio_src": "ข้างนอกฝนตก อยู่บ้านดีกว่า",
+            "audio_en_src": "It's raining outside, better to stay home."
+          },
+          {
+            "thai": "รอข้างนอกแป๊บนึงนะ",
+            "en": "Wait outside for a moment.",
+            "audio_src": "รอข้างนอกแป๊บนึงนะ",
+            "audio_en_src": "Wait outside for a moment."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-032",
@@ -104398,7 +104543,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างใน",
-    "audio_en_src": "inside"
+    "audio_en_src": "inside",
+    "examples": [
+      {
+        "meaning": "inside",
+        "sentences": [
+          {
+            "thai": "ข้างในร้านเย็นสบาย",
+            "en": "Inside the shop it's nice and cool.",
+            "audio_src": "ข้างในร้านเย็นสบาย",
+            "audio_en_src": "Inside the shop it's nice and cool."
+          },
+          {
+            "thai": "มีอะไรอยู่ข้างในกล่อง",
+            "en": "What's inside the box?",
+            "audio_src": "มีอะไรอยู่ข้างในกล่อง",
+            "audio_en_src": "What's inside the box?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-033",
@@ -104413,7 +104577,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างบน",
-    "audio_en_src": "above, on top, upstairs"
+    "audio_en_src": "above, on top, upstairs",
+    "examples": [
+      {
+        "meaning": "above, on top, upstairs",
+        "sentences": [
+          {
+            "thai": "วางหนังสือไว้ข้างบนโต๊ะ",
+            "en": "Put the book on top of the table.",
+            "audio_src": "วางหนังสือไว้ข้างบนโต๊ะ",
+            "audio_en_src": "Put the book on top of the table."
+          },
+          {
+            "thai": "เสียงดังมาจากข้างบน",
+            "en": "The noise is coming from upstairs.",
+            "audio_src": "เสียงดังมาจากข้างบน",
+            "audio_en_src": "The noise is coming from upstairs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-034",
@@ -104428,7 +104611,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ข้างล่าง",
-    "audio_en_src": "below, under"
+    "audio_en_src": "below, under",
+    "examples": [
+      {
+        "meaning": "below, under",
+        "sentences": [
+          {
+            "thai": "รองเท้าอยู่ข้างล่างเตียง",
+            "en": "The shoes are under the bed.",
+            "audio_src": "รองเท้าอยู่ข้างล่างเตียง",
+            "audio_en_src": "The shoes are under the bed."
+          },
+          {
+            "thai": "รอฉันอยู่ข้างล่างนะ",
+            "en": "Wait for me downstairs.",
+            "audio_src": "รอฉันอยู่ข้างล่างนะ",
+            "audio_en_src": "Wait for me downstairs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c15-035",
