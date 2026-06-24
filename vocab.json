@@ -108916,7 +108916,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แบบ",
-    "audio_en_src": "kind, type, style"
+    "audio_en_src": "kind, type, style",
+    "examples": [
+      {
+        "meaning": "kind, type, style",
+        "sentences": [
+          {
+            "thai": "ชอบแบบไหน สีดำหรือสีขาว",
+            "en": "Which kind do you like, black or white?",
+            "audio_src": "ชอบแบบไหน สีดำหรือสีขาว",
+            "audio_en_src": "Which kind do you like, black or white?"
+          },
+          {
+            "thai": "ฉันชอบเสื้อแบบนี้",
+            "en": "I like this style of shirt.",
+            "audio_src": "ฉันชอบเสื้อแบบนี้",
+            "audio_en_src": "I like this style of shirt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-017",
@@ -108931,7 +108950,43 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใบ",
-    "audio_en_src": "leaf; classifier for various objects"
+    "audio_en_src": "leaf; classifier for various objects",
+    "examples": [
+      {
+        "meaning": "leaf",
+        "sentences": [
+          {
+            "thai": "ใบไม้เปลี่ยนเป็นสีแดง",
+            "en": "The leaves turned red.",
+            "audio_src": "ใบไม้เปลี่ยนเป็นสีแดง",
+            "audio_en_src": "The leaves turned red."
+          },
+          {
+            "thai": "มีใบไม้ร่วงเต็มสนาม",
+            "en": "There are fallen leaves all over the yard.",
+            "audio_src": "มีใบไม้ร่วงเต็มสนาม",
+            "audio_en_src": "There are fallen leaves all over the yard."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for various objects (e.g documents, tickets, food, bowls, etc)",
+        "sentences": [
+          {
+            "thai": "ขอกระเป๋าใบนั้น",
+            "en": "I'd like that bag.",
+            "audio_src": "ขอกระเป๋าใบนั้น",
+            "audio_en_src": "I'd like that bag."
+          },
+          {
+            "thai": "ซื้อตั๋วมาสองใบ",
+            "en": "I bought two tickets.",
+            "audio_src": "ซื้อตั๋วมาสองใบ",
+            "audio_en_src": "I bought two tickets."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-018",
@@ -108946,7 +109001,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปกติ",
-    "audio_en_src": "usual, normal, usually, normally"
+    "audio_en_src": "usual, normal, usually, normally",
+    "examples": [
+      {
+        "meaning": "usual, normal, usually, normally",
+        "sentences": [
+          {
+            "thai": "วันนี้รถติดกว่าปกติ",
+            "en": "Traffic is worse than usual today.",
+            "audio_src": "วันนี้รถติดกว่าปกติ",
+            "audio_en_src": "Traffic is worse than usual today."
+          },
+          {
+            "thai": "ปกติฉันตื่นหกโมง",
+            "en": "I usually wake up at six.",
+            "audio_src": "ปกติฉันตื่นหกโมง",
+            "audio_en_src": "I usually wake up at six."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-019",
@@ -108961,7 +109035,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปลา",
-    "audio_en_src": "fish"
+    "audio_en_src": "fish",
+    "examples": [
+      {
+        "meaning": "fish",
+        "sentences": [
+          {
+            "thai": "เย็นนี้กินปลาทอด",
+            "en": "We're having fried fish tonight.",
+            "audio_src": "เย็นนี้กินปลาทอด",
+            "audio_en_src": "We're having fried fish tonight."
+          },
+          {
+            "thai": "ในบ่อมีปลาเยอะมาก",
+            "en": "There are a lot of fish in the pond.",
+            "audio_src": "ในบ่อมีปลาเยอะมาก",
+            "audio_en_src": "There are a lot of fish in the pond."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-020",
@@ -108976,7 +109069,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปิด",
-    "audio_en_src": "to close, to turn off"
+    "audio_en_src": "to close, to turn off",
+    "examples": [
+      {
+        "meaning": "to close, to turn off",
+        "sentences": [
+          {
+            "thai": "ปิดประตูด้วยนะ",
+            "en": "Close the door, please.",
+            "audio_src": "ปิดประตูด้วยนะ",
+            "audio_en_src": "Close the door, please."
+          },
+          {
+            "thai": "อย่าลืมปิดไฟก่อนนอน",
+            "en": "Don't forget to turn off the lights before bed.",
+            "audio_src": "อย่าลืมปิดไฟก่อนนอน",
+            "audio_en_src": "Don't forget to turn off the lights before bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-022",
@@ -108991,7 +109103,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เปิด",
-    "audio_en_src": "to open, to turn on"
+    "audio_en_src": "to open, to turn on",
+    "examples": [
+      {
+        "meaning": "to open, to turn on",
+        "sentences": [
+          {
+            "thai": "ช่วยเปิดหน้าต่างหน่อย",
+            "en": "Please open the window.",
+            "audio_src": "ช่วยเปิดหน้าต่างหน่อย",
+            "audio_en_src": "Please open the window."
+          },
+          {
+            "thai": "เปิดแอร์หน่อยได้ไหม ร้อนมาก",
+            "en": "Can you turn on the AC? It's so hot.",
+            "audio_src": "เปิดแอร์หน่อยได้ไหม ร้อนมาก",
+            "audio_en_src": "Can you turn on the AC? It's so hot."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-023",
@@ -109005,7 +109136,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แปด ๘",
-    "audio_en_src": "eight"
+    "audio_en_src": "eight",
+    "examples": [
+      {
+        "meaning": "eight (8)",
+        "sentences": [
+          {
+            "thai": "แปดโมงแล้ว รีบหน่อย",
+            "en": "It's eight already, hurry up.",
+            "audio_src": "แปดโมงแล้ว รีบหน่อย",
+            "audio_en_src": "It's eight already, hurry up."
+          },
+          {
+            "thai": "ขอไข่แปดฟอง",
+            "en": "Eight eggs, please.",
+            "audio_src": "ขอไข่แปดฟอง",
+            "audio_en_src": "Eight eggs, please."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-024",
@@ -109020,7 +109170,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แปล",
-    "audio_en_src": "to translate"
+    "audio_en_src": "to translate",
+    "examples": [
+      {
+        "meaning": "to translate",
+        "sentences": [
+          {
+            "thai": "ช่วยแปลประโยคนี้ให้หน่อย",
+            "en": "Can you translate this sentence for me?",
+            "audio_src": "ช่วยแปลประโยคนี้ให้หน่อย",
+            "audio_en_src": "Can you translate this sentence for me?"
+          },
+          {
+            "thai": "คำนี้แปลว่าอะไร",
+            "en": "What does this word mean?",
+            "audio_src": "คำนี้แปลว่าอะไร",
+            "audio_en_src": "What does this word mean?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-025",
@@ -109035,7 +109204,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผ้า",
-    "audio_en_src": "cloth"
+    "audio_en_src": "cloth",
+    "examples": [
+      {
+        "meaning": "cloth",
+        "sentences": [
+          {
+            "thai": "เอาผ้าเช็ดโต๊ะหน่อย",
+            "en": "Wipe the table with a cloth.",
+            "audio_src": "เอาผ้าเช็ดโต๊ะหน่อย",
+            "audio_en_src": "Wipe the table with a cloth."
+          },
+          {
+            "thai": "ผ้าผืนนี้นุ่มมาก",
+            "en": "This cloth is really soft.",
+            "audio_src": "ผ้าผืนนี้นุ่มมาก",
+            "audio_en_src": "This cloth is really soft."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-026",
@@ -109050,7 +109238,26 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ผู้หญิง",
-    "audio_en_src": "girl, woman"
+    "audio_en_src": "girl, woman",
+    "examples": [
+      {
+        "meaning": "girl, woman",
+        "sentences": [
+          {
+            "thai": "ผู้หญิงคนนั้นสวยมาก",
+            "en": "That woman is really beautiful.",
+            "audio_src": "ผู้หญิงคนนั้นสวยมาก",
+            "audio_en_src": "That woman is really beautiful."
+          },
+          {
+            "thai": "ร้านนี้ขายเสื้อผ้าผู้หญิง",
+            "en": "This shop sells women's clothes.",
+            "audio_src": "ร้านนี้ขายเสื้อผ้าผู้หญิง",
+            "audio_en_src": "This shop sells women's clothes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c17-027",

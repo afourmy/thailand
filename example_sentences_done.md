@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 951 words**
+**Total: 961 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -954,4 +954,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-013` : บอก (to tell) : 1 meaning(s), 2 sentences
 - `wlt-c17-014` : บิน (to fly) : 1 meaning(s), 2 sentences
 - `wlt-c17-015` : บุหรี่ (cigarette) : 1 meaning(s), 2 sentences
+- `wlt-c17-016` : แบบ (kind, type, style) : 1 meaning(s), 2 sentences
+- `wlt-c17-017` : ใบ (leaf; classifier for various objects (e.g documents, tickets, food, bowls, etc)) : 2 meaning(s), 4 sentences
+- `wlt-c17-018` : ปกติ (usual, normal, usually, normally) : 1 meaning(s), 2 sentences
+- `wlt-c17-019` : ปลา (fish) : 1 meaning(s), 2 sentences
+- `wlt-c17-020` : ปิด (to close, to turn off) : 1 meaning(s), 2 sentences
+- `wlt-c17-022` : เปิด (to open, to turn on) : 1 meaning(s), 2 sentences
+- `wlt-c17-023` : แปด ๘ (eight (8)) : 1 meaning(s), 2 sentences
+- `wlt-c17-024` : แปล (to translate) : 1 meaning(s), 2 sentences
+- `wlt-c17-025` : ผ้า (cloth) : 1 meaning(s), 2 sentences
+- `wlt-c17-026` : ผู้หญิง (girl, woman) : 1 meaning(s), 2 sentences
 - `wlt-c20-038` : พัก (to rest, to take a break; to stay at (temporarily)) : 2 meaning(s), 4 sentences
