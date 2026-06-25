@@ -23,41 +23,61 @@ remove tsl-122
   tsl-228 [common] [general]: 'sustainable, long-lasting'
   thaipod-0793 [occasional] [general]: 'still standing, lasting, stable'
 
+remove thaipod-0793
+
 ซาบซึ้ง, ซาบซึ้งใจ  x2
   tsl-474 [common] [emotions]: 'deeply moved, touched, grateful'
   yt-c13-002 [common] [emotions]: 'deeply touched, deeply moved'
+
+remove yt-c13-002
 
 จำเป็น  x2
   thaipod-0267 [everyday] [general]: 'necessary'
   exd-021 [everyday] [general]: 'necessary, required'
 
+remove thaipod-0267
+
 สำเร็จ  x2
   thaipod-1049 [common] [general]: 'successfully, to succeed'
   exd-020 [everyday] [general]: 'to succeed, to be completed, successful'
+
+remove thaipod-1049
 
 กฎ  x2
   tobo-114 [common] [general]: 'rule'
   t4k-c05-029 [common] [law]: 'rule'
 
+remove t4k-c05-029
+
 ทับทิม  x2
   yt-c04-077 [rare] [food]: 'pomegranate'
   wlt-c02-055 [common] [food]: 'pomegranate'
+
+remove yt-c04-077
 
 ฟู  x2
   yt-c10-066 [rare] [general]: 'fluffy, puffed-up (of hair)'
   t4k-c05-005 [common] [general]: 'fluffy, puffed up (e.g hair, face)'
 
+remove yt-c10-066
+
 นึกถึง  x2
   wlt-c03-004 [common] [general]: 'to think of, to recall'
   t4k-c02-098 [common] [general]: 'to think of, to recall, to remember'
+
+remove wlt-c03-004
 
 เพิ่ง  x2
   wlt-c11-066 [everyday] [grammar]: 'just (immediately before)'
   wlt-c16-009 [everyday] [grammar]: 'just now'
 
+remove wlt-c11-066
+
 อย่างไร  x2
   wlt-c04-011 [common] [grammar]: 'in what way, how?'
   wlt-c21-048 [common] [grammar]: 'how, in what way (formal)'
+
+remove wlt-c21-048
 
 ## near-duplicates (one card richer)
 ว่าที่  x3
@@ -65,15 +85,24 @@ remove tsl-122
   yt-c18-027 [common] [grammar]: 'soon-to-be (e.g "bride-to-be", "soon-to-be-graduate", etc), future, prospective'
   t4k-c04-002 [common] [grammar]: 'acting for; acting'
 
+remove tamago-l3-745 and t4k-c04-002
+
 น้องสาว  x2
   yt-c20-031 [occasional] [slang]: 'younger sister; (sexual, slang) pussy'
   wlt-c13-079 [everyday] [family]: 'younger sister'
+
+remove yt-c20-031
 
 ## homonyms (different meanings — recommend KEEP both)
 ราง  x2
   yt-c04-080 [common] [transport]: 'track, rail'
   yt-c10-062 [occasional] [general]: 'vague, dim, faint'
 
+keep yt-c04-080 as 'track, rail; vague, dim, faint'
+remove yt-c10-062
+
 ของ  x2
   wlt-c18-008 [common] [grammar]: 'something, things, stuff, possessions'
   wlt-c20-097 [everyday] [grammar]: 'of, belonging to'
+
+remove wlt-c18-008

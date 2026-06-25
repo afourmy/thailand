@@ -32044,16 +32044,6 @@
     ]
   },
   {
-    "id": "tamago-l3-745",
-    "thai": "ว่าที่",
-    "english": "future, \"...-to-be\" (e.g future husband)",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
     "id": "tamago-l3-746",
     "thai": "แววตา",
     "english": "gaze, look in someone's eyes",
@@ -34947,17 +34937,6 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
-    ]
-  },
-  {
-    "id": "tsl-122",
-    "thai": "ใจดำ",
-    "english": "heartless, cruel, mean-spirited",
-    "frequency": "common",
-    "topic": "personality",
-    "sources": [
-      "TSL Chiang Mai",
-      "Anki Basics"
     ]
   },
   {
@@ -42858,41 +42837,6 @@
     ]
   },
   {
-    "id": "thaipod-0267",
-    "thai": "จำเป็น",
-    "english": "necessary",
-    "frequency": "everyday",
-    "topic": "general",
-    "sources": [
-      "Thaipod101",
-      "Anki Basics",
-      "Thai 4000"
-    ],
-    "audio": true,
-    "audio_en": true,
-    "audio_src": "จําเป็น",
-    "audio_en_src": "necessary",
-    "examples": [
-      {
-        "meaning": "necessary",
-        "sentences": [
-          {
-            "thai": "ถ้าไม่จำเป็นก็ไม่ต้องไป",
-            "en": "If it's not necessary, you don't have to go.",
-            "audio_src": "ถ้าไม่จำเป็นก็ไม่ต้องไป",
-            "audio_en_src": "If it's not necessary, you don't have to go."
-          },
-          {
-            "thai": "น้ำเป็นสิ่งจำเป็นต่อชีวิต",
-            "en": "Water is essential for life.",
-            "audio_src": "น้ำเป็นสิ่งจำเป็นต่อชีวิต",
-            "audio_en_src": "Water is essential for life."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "thaipod-0268",
     "thai": "ฉบับ",
     "english": "edition, version, copy (classifier for documents)",
@@ -48398,16 +48342,6 @@
     ]
   },
   {
-    "id": "thaipod-0793",
-    "thai": "ยั่งยืน",
-    "english": "still standing, lasting, stable",
-    "frequency": "occasional",
-    "topic": "general",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0794",
     "thai": "ยังไง",
     "english": "anyway, how",
@@ -51018,18 +50952,6 @@
     "topic": "general",
     "sources": [
       "Thaipod101",
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "thaipod-1049",
-    "thai": "สำเร็จ",
-    "english": "successfully, to succeed",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "Thaipod101",
-      "Anki Basics",
       "Thai 4000"
     ]
   },
@@ -55354,41 +55276,6 @@
     "sources": [
       "Thaipod101",
       "YouTube"
-    ]
-  },
-  {
-    "id": "thaipod-1428",
-    "thai": "ไหว",
-    "english": "to be able to, to handle, to endure",
-    "frequency": "everyday",
-    "topic": "general",
-    "sources": [
-      "Thaipod101",
-      "Anki Basics",
-      "Thai 4000"
-    ],
-    "audio": true,
-    "audio_en": true,
-    "audio_src": "ไหว",
-    "audio_en_src": "to be able to, to handle, to endure",
-    "examples": [
-      {
-        "meaning": "to be able to, to handle, to endure",
-        "sentences": [
-          {
-            "thai": "หนักไป ฉันยกไม่ไหว",
-            "en": "It's too heavy, I can't lift it.",
-            "audio_src": "หนักไป ฉันยกไม่ไหว",
-            "audio_en_src": "It's too heavy, I can't lift it."
-          },
-          {
-            "thai": "เหนื่อยมาก เดินต่อไม่ไหวแล้ว",
-            "en": "I'm exhausted, I can't walk any further.",
-            "audio_src": "เหนื่อยมาก เดินต่อไม่ไหวแล้ว",
-            "audio_en_src": "I'm exhausted, I can't walk any further."
-          }
-        ]
-      }
     ]
   },
   {
@@ -66041,16 +65928,6 @@
     ]
   },
   {
-    "id": "yt-c04-077",
-    "thai": "ทับทิม",
-    "english": "pomegranate",
-    "frequency": "rare",
-    "topic": "food",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c04-079",
     "thai": "เขย่ง, เขย่งเท้า",
     "english": "to tiptoe, to stand on tiptoe",
@@ -66063,7 +65940,7 @@
   {
     "id": "yt-c04-080",
     "thai": "ราง",
-    "english": "track, rail",
+    "english": "track, rail; vague, dim, faint",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -71725,16 +71602,6 @@
     ]
   },
   {
-    "id": "yt-c10-062",
-    "thai": "ราง",
-    "english": "vague, dim, faint",
-    "frequency": "occasional",
-    "topic": "general",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c10-063",
     "thai": "สายตาสั้น",
     "english": "myopia",
@@ -71750,16 +71617,6 @@
     "english": "far-sighted",
     "frequency": "common",
     "topic": "health",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c10-066",
-    "thai": "ฟู",
-    "english": "fluffy, puffed-up (of hair)",
-    "frequency": "rare",
-    "topic": "general",
     "sources": [
       "YouTube"
     ]
@@ -74115,16 +73972,6 @@
     "sources": [
       "YouTube",
       "Anki Basics"
-    ]
-  },
-  {
-    "id": "yt-c13-002",
-    "thai": "ซาบซึ้ง, ซาบซึ้งใจ",
-    "english": "deeply touched, deeply moved",
-    "frequency": "common",
-    "topic": "emotions",
-    "sources": [
-      "YouTube"
     ]
   },
   {
@@ -81272,16 +81119,6 @@
     ]
   },
   {
-    "id": "yt-c20-031",
-    "thai": "น้องสาว",
-    "english": "younger sister; (sexual, slang) pussy",
-    "frequency": "occasional",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c20-034",
     "thai": "ขะมักเขม้น",
     "english": "to really concentrate on something, diligent, wholeheartedly focused",
@@ -86647,16 +86484,6 @@
     "english": "well-behaved",
     "frequency": "common",
     "topic": "personality",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c03-004",
-    "thai": "นึกถึง",
-    "english": "to think of, to recall",
-    "frequency": "common",
-    "topic": "general",
     "sources": [
       "Anki Basics"
     ]
@@ -98306,39 +98133,6 @@
             "en": "The cost of living has increased a lot lately.",
             "audio_src": "ช่วงนี้ค่าครองชีพเพิ่มขึ้นมาก",
             "audio_en_src": "The cost of living has increased a lot lately."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "wlt-c11-066",
-    "thai": "เพิ่ง",
-    "english": "just (immediately before)",
-    "frequency": "everyday",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ],
-    "audio": true,
-    "audio_en": true,
-    "audio_src": "เพิ่ง",
-    "audio_en_src": "just",
-    "examples": [
-      {
-        "meaning": "just (immediately before)",
-        "sentences": [
-          {
-            "thai": "ฉันเพิ่งกินข้าวเสร็จ",
-            "en": "I just finished eating.",
-            "audio_src": "ฉันเพิ่งกินข้าวเสร็จ",
-            "audio_en_src": "I just finished eating."
-          },
-          {
-            "thai": "เขาเพิ่งมาถึงเมื่อกี้",
-            "en": "He just arrived a moment ago.",
-            "audio_src": "เขาเพิ่งมาถึงเมื่อกี้",
-            "audio_en_src": "He just arrived a moment ago."
           }
         ]
       }
@@ -111261,16 +111055,6 @@
     ]
   },
   {
-    "id": "wlt-c18-008",
-    "thai": "ของ",
-    "english": "something, things, stuff, possessions",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c18-009",
     "thai": "ชาวต่างชาติ, คนต่างประเทศ",
     "english": "foreigner",
@@ -118864,17 +118648,6 @@
     ]
   },
   {
-    "id": "wlt-c21-048",
-    "thai": "อย่างไร",
-    "english": "how, in what way (formal)",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "wlt-c21-049",
     "thai": "อะไร",
     "english": "what",
@@ -121816,16 +121589,6 @@
     ]
   },
   {
-    "id": "t4k-c03-004",
-    "thai": "ทีละ",
-    "english": "at a time",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c03-005",
     "thai": "พระยา",
     "english": "a rank of Thai civil nobility",
@@ -122586,16 +122349,6 @@
     "english": "to select, to pick, to filter; to copy",
     "frequency": "common",
     "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c04-002",
-    "thai": "ว่าที่",
-    "english": "acting for; acting",
-    "frequency": "common",
-    "topic": "grammar",
     "sources": [
       "Thai 4000"
     ]
@@ -123556,16 +123309,6 @@
     "english": "kind; category; complexion",
     "frequency": "occasional",
     "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c05-029",
-    "thai": "กฎ",
-    "english": "rule",
-    "frequency": "common",
-    "topic": "law",
     "sources": [
       "Thai 4000"
     ]
