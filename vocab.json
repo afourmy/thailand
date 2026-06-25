@@ -18816,7 +18816,7 @@
   {
     "id": "tamago-l12-469",
     "thai": "อย่าง",
-    "english": "classifier for abstract things, type / kind",
+    "english": "classifier for abstract things, type, kind",
     "frequency": "everyday",
     "topic": "grammar",
     "sources": [
@@ -31551,7 +31551,7 @@
   {
     "id": "tamago-l3-702",
     "thai": "ช่าง",
-    "english": "to disregard, to ignore; how + adj (exclamation, 'so + adj')",
+    "english": "to disregard, to ignore; how (+ adjective) (exclamation, 'so + adj')",
     "frequency": "everyday",
     "topic": "grammar",
     "sources": [
@@ -32591,7 +32591,7 @@
   {
     "id": "tamago-l3-790",
     "thai": "นักศึกษา",
-    "english": "university/college student",
+    "english": "university student, college student",
     "frequency": "everyday",
     "topic": "general",
     "sources": [
@@ -46274,7 +46274,7 @@
   {
     "id": "thaipod-0588",
     "thai": "ปากซอย",
-    "english": "entrance/mouth of a soi (small street)",
+    "english": "entrance of a soi (small street)",
     "frequency": "everyday",
     "topic": "general",
     "sources": [
@@ -95428,7 +95428,7 @@
   {
     "id": "wlt-c10-004",
     "thai": "แอร์",
-    "english": "a/c (informal), air hostess",
+    "english": "air conditioning (informal), air hostess",
     "frequency": "everyday",
     "topic": "general",
     "sources": [
@@ -95445,15 +95445,15 @@
         "sentences": [
           {
             "thai": "เปิดแอร์หน่อย ร้อนจัง",
-            "en": "Turn on the a/c, it's so hot.",
+            "en": "Turn on the air conditioning, it's so hot.",
             "audio_src": "เปิดแอร์หน่อย ร้อนจัง",
-            "audio_en_src": "Turn on the a/c, it's so hot."
+            "audio_en_src": "Turn on the air conditioning, it's so hot."
           },
           {
             "thai": "ห้องนี้แอร์เย็นมาก",
-            "en": "The a/c in this room is really cold.",
+            "en": "The air conditioning in this room is really cold.",
             "audio_src": "ห้องนี้แอร์เย็นมาก",
-            "audio_en_src": "The a/c in this room is really cold."
+            "audio_en_src": "The air conditioning in this room is really cold."
           }
         ]
       },
