@@ -32,9 +32,13 @@ t4k-c10-098 สืบสวน: eng 'to investigate (e.g crime, accident)'
 t4k-c11-001 โปร่ง: eng 'airy, open, well-ventilated; sparse, not dense'
 t4k-c11-010 ส่งมอบ: eng 'to hand over, to deliver, to transfer'
 t4k-c11-013 เก็บรักษา: eng 'to keep in good condition, to preserve'
+t4k-c11-017 ผู้รับผิดชอบ: eng 'person in charge, responsible person'
+t4k-c11-022 ข้อสอบ: eng 'exam, test'
+t4k-c11-028 บ่งชี้: eng 'to indicate, to point out'
+t4k-c11-032 เกร็ง: eng 'to contract (muscles), to harden; (figuratively) to be stiff, to be tense (nervous)'
 
-occasional: t4k-c09-075 นึกคิด, t4k-c10-006 น้ำยา, t4k-c10-059 สกัด, t4k-c10-064 บูรณาการ, t4k-c10-069 ดูงาน, t4k-c10-080 ลี้, t4k-c10-085 แบบจำลอง, t4k-c11-010 ส่งมอบ, t4k-c11-013 เก็บรักษา
+occasional: t4k-c09-075 นึกคิด, t4k-c10-006 น้ำยา, t4k-c10-059 สกัด, t4k-c10-064 บูรณาการ, t4k-c10-069 ดูงาน, t4k-c10-080 ลี้, t4k-c10-085 แบบจำลอง, t4k-c11-010 ส่งมอบ, t4k-c11-013 เก็บรักษา, t4k-c11-031 ดีเซล
 
 rare: t4k-c09-082 กก, t4k-c09-095 ขอน, t4k-c09-094 ทำเนียบ, t4k-c09-097 วิสัย, t4k-c10-005 บิ, t4k-c10-091 ภาคี
 
-remove: t4k-c09-084 ส่งตัว, t4k-c09-086 กระบวน, t4k-c10-027 จู่, t4k-c11-008 แนะ, 
+remove: t4k-c09-084 ส่งตัว, t4k-c09-086 กระบวน, t4k-c10-027 จู่, t4k-c11-008 แนะ, t4k-c11-023 ส่วนท้องถิ่น, t4k-c11-026 กายภาพ
