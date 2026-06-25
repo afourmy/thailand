@@ -6750,7 +6750,7 @@
   {
     "id": "chula-l5-437",
     "thai": "หงาย",
-    "english": "to turn face-up, to lie on one's back; on its back, face-up",
+    "english": "to turn face-up, to lie on one's back, on its back, face-up",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -7899,7 +7899,7 @@
   {
     "id": "chula-l6-072",
     "thai": "พกพา",
-    "english": "portable; to bear, to carry",
+    "english": "portable, to bear, to carry",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -8913,7 +8913,7 @@
   {
     "id": "chula-l6-165",
     "thai": "กระชับ",
-    "english": "compact, tight, firm; to tighten, to strengthen",
+    "english": "compact, tight, firm, to tighten, to strengthen",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -9682,7 +9682,7 @@
   {
     "id": "chula-l6-222",
     "thai": "แท่ง",
-    "english": "stick, bar, rod; classifier for long solid (stick-shaped) objects",
+    "english": "stick, bar, rod (and classifier for stick-shaped objects)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -19297,7 +19297,7 @@
   {
     "id": "tamago-l12-501",
     "thai": "เครื่องเล่น",
-    "english": "toy; media player; amusement ride",
+    "english": "media player; amusement ride",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -19318,7 +19318,7 @@
   {
     "id": "tamago-l12-503",
     "thai": "เคลียร์",
-    "english": "clear; to clarify, to sort out (loanword)",
+    "english": "clear, to clarify, to sort out (loanword)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -24762,7 +24762,7 @@
   {
     "id": "tamago-l3-142",
     "thai": "สั่น",
-    "english": "to tremble, to shake; to vibrate (phone)",
+    "english": "to tremble, to shake, to vibrate (phone)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -25567,7 +25567,7 @@
   {
     "id": "tamago-l3-201",
     "thai": "มั่ว",
-    "english": "to mess up, mixed up; to bullshit, say random things from lack of knowledge",
+    "english": "to mess up, mixed up, to bullshit, say random things from lack of knowledge",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -26233,7 +26233,7 @@
   {
     "id": "tamago-l3-248",
     "thai": "ย่อๆ",
-    "english": "in short, in brief; abbreviated",
+    "english": "in short, in brief, abbreviated",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -28263,7 +28263,7 @@
   {
     "id": "tamago-l3-422",
     "thai": "อำ",
-    "english": "to prank, to trick; to fake, to bluff",
+    "english": "to prank, to trick, to fake, to bluff",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -28470,7 +28470,7 @@
   {
     "id": "tamago-l3-442",
     "thai": "ล่ม",
-    "english": "to sink (a boat); to collapse, to fail (a system, an exam)",
+    "english": "to sink (a boat), to collapse, to fail (a system, an exam)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -30300,7 +30300,7 @@
   {
     "id": "tamago-l3-600",
     "thai": "สรรหา",
-    "english": "to seek out, search for, dig up; to pick carefully, to recruit",
+    "english": "to seek out, search for, dig up, to pick carefully, to recruit",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -31641,7 +31641,7 @@
   {
     "id": "tamago-l3-712",
     "thai": "เอียง",
-    "english": "to incline, to tilt; tilted, slanted",
+    "english": "to incline, to tilt, tilted, slanted",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -32171,7 +32171,7 @@
   {
     "id": "tamago-l3-758",
     "thai": "สร้างสรรค์",
-    "english": "constructive, creative; to create constructively",
+    "english": "constructive, creative, to create constructively",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -37327,7 +37327,7 @@
   {
     "id": "tsl-353",
     "thai": "จิก",
-    "english": "to peck (bird); to sting (insect)",
+    "english": "to peck (bird)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -37796,7 +37796,7 @@
   {
     "id": "tsl-397",
     "thai": "ประกาย",
-    "english": "spark, glimmer, gleam; to sparkle",
+    "english": "spark, glimmer, gleam, to sparkle",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -40211,9 +40211,19 @@
   {
     "id": "tsl-621",
     "thai": "ป่อง",
-    "english": "scorpion; bloated, swollen",
+    "english": "bloated, swollen",
     "frequency": "common",
     "topic": "general",
+    "sources": [
+      "TSL Chiang Mai"
+    ]
+  },
+  {
+    "id": "tsl-621b",
+    "thai": "แมงป่อง",
+    "english": "scorpion",
+    "frequency": "common",
+    "topic": "nature",
     "sources": [
       "TSL Chiang Mai"
     ]
@@ -41890,7 +41900,7 @@
   {
     "id": "thaipod-0162",
     "thai": "ครอบคลุม",
-    "english": "to cover, to encompass; comprehensive",
+    "english": "to cover, to encompass, comprehensive",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -42715,7 +42725,7 @@
   {
     "id": "thaipod-0256",
     "thai": "จำลอง",
-    "english": "to replicate, to simulate; replica",
+    "english": "to replicate, to simulate, replica",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -43011,7 +43021,7 @@
   {
     "id": "thaipod-0283",
     "thai": "ชิน",
-    "english": "accustomed, used to; sacred (literary)",
+    "english": "accustomed, used to",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -45494,7 +45504,7 @@
   {
     "id": "thaipod-0519",
     "thai": "บังคับ",
-    "english": "to force, to compel; mandatory",
+    "english": "to force, to compel, mandatory",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -46431,7 +46441,7 @@
   {
     "id": "thaipod-0611",
     "thai": "ผิว",
-    "english": "surface; skin",
+    "english": "surface, skin",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -46643,7 +46653,7 @@
   {
     "id": "thaipod-0628",
     "thai": "ฝัง",
-    "english": "to bury; to embed, to implant",
+    "english": "to bury, to embed, to implant",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -48716,7 +48726,7 @@
   {
     "id": "thaipod-0834",
     "thai": "ระลึก",
-    "english": "commemorative; to recall",
+    "english": "commemorative, to recall",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -59720,7 +59730,7 @@
   {
     "id": "tobo-303",
     "thai": "ระเบิด",
-    "english": "bomb; to explode",
+    "english": "bomb, to explode",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -59767,7 +59777,7 @@
   {
     "id": "tobo-307",
     "thai": "ทรมาน",
-    "english": "to torture, to torment; to be in agony, to suffer",
+    "english": "to torture, to torment, to be in agony, to suffer",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -68234,7 +68244,7 @@
   {
     "id": "yt-c07-019",
     "thai": "ขาดหาย",
-    "english": "missing, lost; to disappear",
+    "english": "missing, lost, to disappear",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -70984,7 +70994,7 @@
   {
     "id": "yt-c09-097",
     "thai": "หลงทาง",
-    "english": "lost, errant; to get lost",
+    "english": "lost, errant, to get lost",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -72357,7 +72367,7 @@
   {
     "id": "yt-c11-036",
     "thai": "กระบอก",
-    "english": "cylinder, tube, flask; classifier of gun, flask, tube-shaped container",
+    "english": "cylinder, tube, flask (and classifier for guns and tube-shaped containers)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -89352,7 +89362,7 @@
   {
     "id": "wlt-c05-053",
     "thai": "กำเนิด",
-    "english": "birth, origin; to originate, to come into existence",
+    "english": "birth, origin, to originate, to come into existence",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -93476,7 +93486,7 @@
   {
     "id": "wlt-c08-080",
     "thai": "รุ่น",
-    "english": "age, generation, period; classifier for age, period of time or generation",
+    "english": "age, generation, period",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -102996,7 +103006,7 @@
   {
     "id": "wlt-c14-058",
     "thai": "ล้ม",
-    "english": "to fall down, to topple; to collapse",
+    "english": "to fall down, to topple, to collapse",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -104246,7 +104256,7 @@
   {
     "id": "wlt-c15-029",
     "thai": "ขวด",
-    "english": "bottle; classifier for things in bottles",
+    "english": "bottle",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -119992,7 +120002,7 @@
   {
     "id": "t4k-c01-019",
     "thai": "ราย",
-    "english": "list of; individual; item; case, instance",
+    "english": "list of, individual, item, case, instance",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -120103,7 +120113,7 @@
   {
     "id": "t4k-c01-031",
     "thai": "ทางการ",
-    "english": "official; formal",
+    "english": "official, formal",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -121691,7 +121701,7 @@
   {
     "id": "t4k-c03-016",
     "thai": "ล้อม",
-    "english": "to surround, to encircle; to besiege",
+    "english": "to surround, to encircle, to besiege",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -125419,7 +125429,7 @@
   {
     "id": "t4k-c07-096",
     "thai": "ปลอด",
-    "english": "safe from; free from",
+    "english": "safe from, free from",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126945,7 +126955,7 @@
   {
     "id": "t4k-c10-013",
     "thai": "ผุด",
-    "english": "to emerge, to come up to the surface; to pop up, to arise unexpectedly",
+    "english": "to emerge, to come up to the surface, to pop up, to arise unexpectedly",
     "frequency": "common",
     "topic": "general",
     "sources": [
