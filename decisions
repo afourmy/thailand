@@ -1,46 +1,16 @@
-tamago-l12-035 กับเขาบ้าง: eng '"like other people", "as everyone else does"'
-tamago-l12-090 คิดไปคิดมา: eng '"on second thought", "after thinking it over"'
-tamago-l12-309 พอได้: eng '"good enough", "not great but sufficient"'
-tamago-l12-310 พอไหว: eng 'manageable, doable, "I can handle it"'
-tamago-l12-473 อย่าดีกว่า: eng '"better not (do it)", "I suggest you don't..."'
-tamago-l12-538 เปิดหูเปิดตา: eng 'to broaden one's horizons, to see the world'
-tamago-l12-648 ไม่เกี่ยว: eng 'to be irrelevant, to have nothing to do with'
-tamago-l3-005 เอาไว้ก่อน: eng 'to leave sth for later, to set aside for now'
-tamago-l3-263 มันแน่: eng '"of course!", "for sure!"'
-tamago-l3-221 ต๊าย: eng '"oh my god!", "oh dear!"'
-tamago-l3-346 ไม่ได้ดั่งใจ: eng '"not as expected", "not going the way one wants", unsatisfactory'
-tamago-l3-377 อู้ไปอู้มา: eng 'to waste time slacking off, to procrastinate'
-tamago-l3-455 ตามเคย: eng 'as usual, same as always, just like before'
-tamago-l3-489 หัวไม่ไป: eng 'slow thinker, stupid (slang)'
-tamago-l3-589 ไม่เท่าไหร่: eng 'not that much, not really'
-tamago-l3-749 แก้เหงา: eng 'to relieve loneliness, to do something to not feel lonely'
-tamago-l3-821 ไม่รู้จักโต: eng 'to be immature, to behave like a child'
-chula-l4-024 เวียนหัว: eng 'dizzy, lightheaded'
-tobo-430 ตั้งครรภ์: eng 'pregnant (formal)'
-tobo-448 เล็บ: eng 'nail (fingernail or toenail)'
-yt-c02-050 ขมวดคิ้ว: eng 'to frown, to knit your eyebrows'
-yt-c02-054 แลบลิ้น: eng 'to stick out one’s tongue'
-t4k-c09-005 ปล่อยตัว: eng 'to discharge, to release someone (e.g from detention); to let oneself go, to neglect oneself'
-t4k-c09-008 ประจำตัว: eng 'personal (e.g card, doctor, etc)'
-t4k-c09-009 ฟาก: eng 'shore, side, riverbank'
-t4k-c09-011 ชุ่ม: eng 'moist, damp, soaked'
-t4k-c09-016 ตามลำพัง: eng 'alone, by oneself'
-t4k-c09-017 ผู้สื่อข่าว: eng 'journalist, news reporter'
-t4k-c09-018 คุณวุฒิ: eng 'qualification, academic degree'
-t4k-c09-025 ตอ: eng 'stump (tree stump left after cutting)'
-t4k-c09-031 ตื่นตัว: eng 'alert, wake and attentive'
-t4k-c09-034 ดัชนี: eng 'index (book, data), indicator'
-t4k-c09-035 การเรียนการสอน: eng 'teaching and learning, education process'
-t4k-c09-050 จุดมุ่งหมาย: eng 'aim, objective, purpose'
-t4k-c09-058 เป็นกลาง: eng 'neutral, impartial, not taking sides'
-t4k-c09-061 เตรียมพร้อม: eng 'to be prepared, to get ready'
-t4k-c09-072 รับผิด: eng 'to take responsibility, to admit fault'
 
-tamago-l12-102 จริงของคุณ: eng '"you're right!", "you have a point"'
-tamago-l3-536 เสร็จแน่: eng '"you're in trouble", "you're done for"'
 
-occasional: t4k-c09-009 ฟาก, t4k-c09-017 ผู้สื่อข่าว, t4k-c09-031 ตื่นตัว, t4k-c09-035 การเรียนการสอน
 
-rare: t4k-c09-025 ตอ
+chula-l6-099 ต่างคนต่าง: eng '"each person separately", "each one on their own"'
+chula-l6-116 ที่พึ่ง: eng 'support, refuge, source of help, someone you can rely on'
+chula-l6-143 กุญแจสำคัญ: eng 'crucial factor, key element'
+chula-l6-287 เนื่องใน: eng 'on the occasion of, in honor of'
 
-remove: tamago-l12-471 อย่างละที่, tamago-l12-527 เนี่ยนะ, tamago-l3-453 อาไว้ก่อนเหอะ, tamago-l3-498 โอ - โอสุด
+
+
+
+chula-l6-303 ไหน ๆ: thai: ไหน ๆ (ก็...แล้ว ...) eng '"while we're at it, ...", "seeing that..."'
+
+chula-l6-303 ไหน ๆ: eng
+
+occasional: chula-l6-143 กุญแจสำคัญ, chula-l6-287 เนื่องใน
