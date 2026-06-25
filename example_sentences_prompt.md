@@ -1,6 +1,6 @@
 Each word in the deck comes with an English and a Thai translation. But a word in isolation doesn't teach much, since meaning lives in context. So once a card is revealed, I want to show a few example sentences that help the learner see how the word is actually used.
 
-**Which words:** for now we only add example sentences to *everyday* words, i.e. words whose `frequency` field in `vocab.json` is `"everyday"`. Skip every other frequency (`common`, `occasional`, `rare`) for now. Work through the everyday words that don't yet have an `examples` field, ten at a time (see `example_sentences_done.md` for what's already done).
+**Which words:** we now add example sentences to *common* words in the *general* topic only, i.e. words whose `frequency` field in `vocab.json` is `"common"` **and** whose `topic` field is `"general"`. The `everyday` words are already done; skip the other frequencies (`occasional`, `rare`) and every other topic for now. Work through the matching words that don't yet have an `examples` field, ten at a time (see `example_sentences_done.md` for what's already done).
 
 These sentences should:
 
