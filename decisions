@@ -1,108 +1,63 @@
-# DUPLICATES — same exact thai word. For each: mark keep / remove / merge per card.
+# MULTI-MEANING REVIEW — common+general cards containing ';' (183 reviewed).
+# 138 are clearly two distinct meanings (incl. intentional literal vs figurative splits) -> not listed.
+# Below = needs your arbitration. Mark each: fix / merge (one meaning, use comma) / keep split.
 
-## true duplicates (same meaning)
-ไหว  x2
-  tamago-l12-008 [everyday] [grammar]: 'to be able to, have the capacity (physical or mental) to'
-  thaipod-1428 [everyday] [general]: 'to be able to, to handle, to endure'
+## A. WRONG or questionable meaning
+tamago-l12-501 เครื่องเล่น: 'toy; media player; amusement ride'   # "toy"=ของเล่น (different word); media player/amusement ride are fine
+tsl-353 จิก: 'to peck (bird); to sting (insect)'   # จิก=peck/claw-grip, not insect-sting (sting=ต่อย/กัด)
+tsl-621 ป่อง: 'scorpion; bloated, swollen'   # scorpion=แมงป่อง; ป่อง alone=bulging/swollen
+thaipod-0283 ชิน: 'accustomed, used to; sacred (literary)'   # literary ชิน=the Buddha/Victor, not "sacred"
 
-remove thaipod-1428
+## B. ';' probably NOT two distinct meanings
+# B1 — noun + its own classifier (classifier isn't a separate meaning)
+chula-l6-222 แท่ง: 'stick, bar, rod; classifier for long solid (stick-shaped) objects'   # noun + its own classifier
+yt-c11-036 กระบอก: 'cylinder, tube, flask; classifier of gun, flask, tube-shaped container'   # noun + its own classifier
+wlt-c08-080 รุ่น: 'age, generation, period; classifier for age, period of time or generation'   # noun + its own classifier
+wlt-c15-029 ขวด: 'bottle; classifier for things in bottles'   # noun + its own classifier
 
-ทีละ  x2
-  tamago-l3-202 [everyday] [grammar]: 'one at a time, one by one'
-  t4k-c03-004 [common] [grammar]: 'at a time'
+# B2 — one concept, just verb vs adjective vs noun form
+chula-l5-437 หงาย: 'to turn face-up, to lie on one's back; on its back, face-up'   # verb 'turn face-up' + adjective 'face-up' = one concept
+chula-l6-072 พกพา: 'portable; to bear, to carry'   # adj 'portable' + verb 'to carry'
+chula-l6-165 กระชับ: 'compact, tight, firm; to tighten, to strengthen'   # adj 'tight' + verb 'to tighten'
+tamago-l3-712 เอียง: 'to incline, to tilt; tilted, slanted'   # verb 'to tilt' + adj 'tilted'
+tamago-l3-758 สร้างสรรค์: 'constructive, creative; to create constructively'   # adj 'creative' + verb 'to create constructively'
+tsl-397 ประกาย: 'spark, glimmer, gleam; to sparkle'   # noun 'spark' + verb 'to sparkle'
+thaipod-0162 ครอบคลุม: 'to cover, to encompass; comprehensive'   # verb 'to cover' + adj 'comprehensive'
+thaipod-0256 จำลอง: 'to replicate, to simulate; replica'   # verb 'to replicate' + noun 'replica'
+thaipod-0519 บังคับ: 'to force, to compel; mandatory'   # verb 'to force' + adj 'mandatory'
+thaipod-0834 ระลึก: 'commemorative; to recall'   # adj 'commemorative' + verb 'to recall'
+tobo-303 ระเบิด: 'bomb; to explode'   # noun 'bomb' + verb 'to explode'
+yt-c07-019 ขาดหาย: 'missing, lost; to disappear'   # adj 'missing/lost' + verb 'to disappear'
+yt-c09-097 หลงทาง: 'lost, errant; to get lost'   # adj 'lost' + verb 'to get lost'
+wlt-c05-053 กำเนิด: 'birth, origin; to originate, to come into existence'   # noun 'birth/origin' + verb 'to originate'
+tamago-l3-142 สั่น: 'to tremble, to shake; to vibrate (phone)'   # 'tremble/shake' + 'to vibrate' (just an application)
+wlt-c14-058 ล้ม: 'to fall down, to topple; to collapse'   # 'fall/topple' + 'collapse'
+tobo-307 ทรมาน: 'to torture, to torment; to be in agony, to suffer'   # 'to torture' + 'to suffer' (transitive/intransitive of one idea)
 
-remove t4k-c03-00
+# B3 — near-synonyms (one meaning written two ways)
+tamago-l3-248 ย่อๆ: 'in short, in brief; abbreviated'   # 'in short/in brief' = 'abbreviated'
+t4k-c07-096 ปลอด: 'safe from; free from'   # 'safe from' = 'free from'
+t4k-c03-016 ล้อม: 'to surround, to encircle; to besiege'   # 'surround/encircle' ~ 'besiege'
+t4k-c01-019 ราย: 'list of; individual; item; case, instance'   # list/individual/item/case = all 'an individual instance'
+t4k-c01-031 ทางการ: 'official; formal'   # 'official' ~ 'formal'
+t4k-c10-013 ผุด: 'to emerge, to come up to the surface; to pop up, to arise unexpectedly'   # 'emerge/surface' ~ 'pop up/arise'
+tamago-l3-442 ล่ม: 'to sink (a boat); to collapse, to fail (a system, an exam)'   # 'to sink' ~ 'collapse/fail'
 
-ใจดำ  x2
-  tsl-122 [common] [personality]: 'heartless, cruel, mean-spirited'
-  exd-025 [common] [general]: 'mean, cruel, heartless'
-
-remove tsl-122
-
-ยั่งยืน  x2
-  tsl-228 [common] [general]: 'sustainable, long-lasting'
-  thaipod-0793 [occasional] [general]: 'still standing, lasting, stable'
-
-remove thaipod-0793
-
-ซาบซึ้ง, ซาบซึ้งใจ  x2
-  tsl-474 [common] [emotions]: 'deeply moved, touched, grateful'
-  yt-c13-002 [common] [emotions]: 'deeply touched, deeply moved'
-
-remove yt-c13-002
-
-จำเป็น  x2
-  thaipod-0267 [everyday] [general]: 'necessary'
-  exd-021 [everyday] [general]: 'necessary, required'
-
-remove thaipod-0267
-
-สำเร็จ  x2
-  thaipod-1049 [common] [general]: 'successfully, to succeed'
-  exd-020 [everyday] [general]: 'to succeed, to be completed, successful'
-
-remove thaipod-1049
-
-กฎ  x2
-  tobo-114 [common] [general]: 'rule'
-  t4k-c05-029 [common] [law]: 'rule'
-
-remove t4k-c05-029
-
-ทับทิม  x2
-  yt-c04-077 [rare] [food]: 'pomegranate'
-  wlt-c02-055 [common] [food]: 'pomegranate'
-
-remove yt-c04-077
-
-ฟู  x2
-  yt-c10-066 [rare] [general]: 'fluffy, puffed-up (of hair)'
-  t4k-c05-005 [common] [general]: 'fluffy, puffed up (e.g hair, face)'
-
-remove yt-c10-066
-
-นึกถึง  x2
-  wlt-c03-004 [common] [general]: 'to think of, to recall'
-  t4k-c02-098 [common] [general]: 'to think of, to recall, to remember'
-
-remove wlt-c03-004
-
-เพิ่ง  x2
-  wlt-c11-066 [everyday] [grammar]: 'just (immediately before)'
-  wlt-c16-009 [everyday] [grammar]: 'just now'
-
-remove wlt-c11-066
-
-อย่างไร  x2
-  wlt-c04-011 [common] [grammar]: 'in what way, how?'
-  wlt-c21-048 [common] [grammar]: 'how, in what way (formal)'
-
-remove wlt-c21-048
-
-## near-duplicates (one card richer)
-ว่าที่  x3
-  tamago-l3-745 [common] [grammar]: 'future, "...-to-be" (e.g future husband)'
-  yt-c18-027 [common] [grammar]: 'soon-to-be (e.g "bride-to-be", "soon-to-be-graduate", etc), future, prospective'
-  t4k-c04-002 [common] [grammar]: 'acting for; acting'
-
-remove tamago-l3-745 and t4k-c04-002
-
-น้องสาว  x2
-  yt-c20-031 [occasional] [slang]: 'younger sister; (sexual, slang) pussy'
-  wlt-c13-079 [everyday] [family]: 'younger sister'
-
-remove yt-c20-031
-
-## homonyms (different meanings — recommend KEEP both)
-ราง  x2
-  yt-c04-080 [common] [transport]: 'track, rail'
-  yt-c10-062 [occasional] [general]: 'vague, dim, faint'
-
-keep yt-c04-080 as 'track, rail; vague, dim, faint'
-remove yt-c10-062
-
-ของ  x2
-  wlt-c18-008 [common] [grammar]: 'something, things, stuff, possessions'
-  wlt-c20-097 [everyday] [grammar]: 'of, belonging to'
-
-remove wlt-c18-008
+## C. CLOSE / borderline (your call, leaning 'maybe merge')
+t4k-c05-013 ชั้นใน: 'underwear; inner layer, inner part'   # underwear = a kind of 'inner layer'
+t4k-c07-058 นวล: 'soft, gentle (texture, light); pale (skin tone, color)'   # 'soft/gentle' & 'pale' are facets of one quality
+t4k-c09-032 ช่อ: 'cluster, bunch; bouquet (of flowers)'   # 'cluster/bunch' vs 'bouquet' (= bunch of flowers)
+thaipod-0611 ผิว: 'surface; skin'   # 'surface' vs 'skin' (skin = body surface)
+chula-l5-067 ดับ: 'to extinguish, to put out (a fire); to cease, to stop functioning'   # 'extinguish' (trans) vs 'cease/stop' (intrans)
+thaipod-0628 ฝัง: 'to bury; to embed, to implant'   # 'bury' vs 'embed/implant'
+t4k-c01-056 ใกล้ชิด: 'adjacent, close; intimate'   # 'adjacent/close' vs 'intimate'
+tamago-l12-503 เคลียร์: 'clear; to clarify, to sort out (loanword)'   # 'clear' vs 'to clarify/sort out'
+tamago-l3-422 อำ: 'to prank, to trick; to fake, to bluff'   # 'prank/trick' vs 'fake/bluff'
+tamago-l3-125 ชิง: 'to compete for; to seize, to snatch'   # 'compete for' vs 'seize/snatch'
+tamago-l3-344 แย่ง: 'to compete for, to fight over; to grab, to seize'   # 'compete for/fight over' vs 'grab/seize'
+tamago-l3-600 สรรหา: 'to seek out, search for, dig up; to pick carefully, to recruit'   # 'seek out' vs 'pick carefully/recruit'
+tamago-l3-398 กล่อม: 'to persuade gently, to soothe; to sing a lullaby'   # 'soothe' vs 'sing a lullaby'
+chula-l6-270 ผู้จัด: 'organizer; producer (of a movie, a show)'   # 'organizer' vs 'producer'
+tamago-l12-414 สมควร: 'appropriate, suitable; to deserve, worthy'   # 'appropriate/suitable' vs 'deserve/worthy'
+chula-l5-149 บรรจุ: 'to load, to pack; to contain'   # 'load/pack' vs 'contain'
+tamago-l3-201 มั่ว: 'to mess up, mixed up; to bullshit, say random things from lack of knowledge'   # 'mess up/random' vs 'bullshit'
