@@ -51,9 +51,11 @@ t4k-c11-104 คุณนาย: eng 'Madam, Mrs.'
 t4k-c11-107 พรรณนา: eng 'to depict, to portray, to describe in detail'
 t4k-c11-110 ยิ้มแย้ม: eng 'to smile happily, to have a cheerful facial expression'
 t4k-c11-111 ปัญญาชน: eng 'scholar, intellectual (person)'
+t4k-c11-121 ชี้ขาด: eng 'to rule (judge), to arbitrate, to make a final decision'
+t4k-c11-122 เหี่ยว: eng 'to lose freshness, to shrivel, to become dry and wrinkled'
 
 occasional: t4k-c09-075 นึกคิด, t4k-c10-006 น้ำยา, t4k-c10-059 สกัด, t4k-c10-064 บูรณาการ, t4k-c10-069 ดูงาน, t4k-c10-080 ลี้, t4k-c10-085 แบบจำลอง, t4k-c11-010 ส่งมอบ, t4k-c11-013 เก็บรักษา, t4k-c11-031 ดีเซล, t4k-c11-043 บรรจง, t4k-c11-059 ปิ่น, t4k-c11-073 บังคับบัญชา, t4k-c11-078 เกี่ยวเนื่อง, t4k-c11-087 ก๊ก, t4k-c11-113 ชลประทาน
 
-rare: t4k-c09-082 กก, t4k-c09-095 ขอน, t4k-c09-094 ทำเนียบ, t4k-c09-097 วิสัย, t4k-c10-005 บิ, t4k-c10-091 ภาคี, t4k-c11-055 เบส, t4k-c11-111 ปัญญาชน
+rare: t4k-c09-082 กก, t4k-c09-095 ขอน, t4k-c09-094 ทำเนียบ, t4k-c09-097 วิสัย, t4k-c10-005 บิ, t4k-c10-091 ภาคี, t4k-c11-055 เบส, t4k-c11-111 ปัญญาชน, t4k-c11-121 ชี้ขาด
 
 remove: t4k-c09-084 ส่งตัว, t4k-c09-086 กระบวน, t4k-c10-027 จู่, t4k-c11-008 แนะ, t4k-c11-023 ส่วนท้องถิ่น, t4k-c11-026 กายภาพ, t4k-c11-083 ยัก, t4k-c11-114 นิล
