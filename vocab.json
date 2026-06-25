@@ -8226,7 +8226,7 @@
   {
     "id": "chula-l6-099",
     "thai": "ต่างคนต่าง",
-    "english": "'each person does their own', 'doing one's own thing independently'",
+    "english": "\"each person separately\", \"each one on their own\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -8388,7 +8388,7 @@
   {
     "id": "chula-l6-116",
     "thai": "ที่พึ่ง",
-    "english": "refuge, support, source of help when in trouble (lit. 'place or person to rely on')",
+    "english": "support, refuge, source of help, someone you can rely on",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -8587,7 +8587,7 @@
   {
     "id": "chula-l6-134",
     "thai": "เครื่องเทศ",
-    "english": "spice",
+    "english": "seasoning spices",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -8682,8 +8682,8 @@
   {
     "id": "chula-l6-143",
     "thai": "กุญแจสำคัญ",
-    "english": "key, crucial (lit. 'important key')",
-    "frequency": "common",
+    "english": "crucial factor, key element",
+    "frequency": "occasional",
     "topic": "expressions",
     "sources": [
       "Chulalongkorn L6"
@@ -8763,8 +8763,8 @@
   },
   {
     "id": "chula-l6-151",
-    "thai": "ตำ - บด",
-    "english": "to pound (with pestle and mortar) - to crush, grind, mash",
+    "thai": "ตำ",
+    "english": "to pound (with pestle and mortar)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -9130,7 +9130,7 @@
   {
     "id": "chula-l6-179",
     "thai": "ดอง",
-    "english": "pickled",
+    "english": "to pickle (store food in salt, vinegar, alcohol, etc)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -9514,7 +9514,7 @@
   {
     "id": "chula-l6-208",
     "thai": "หนึบ",
-    "english": "chewy, sticky, gluey",
+    "english": "chewy, sticky (in a pleasant way)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -9557,7 +9557,7 @@
   {
     "id": "chula-l6-212",
     "thai": "อาหารคาว",
-    "english": "main (savory) dishes (e.g fish, meat, not sweet)",
+    "english": "main dishes (e.g fish, meat, not sweet)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -9649,7 +9649,7 @@
   {
     "id": "chula-l6-218",
     "thai": "คั่ว",
-    "english": "to roast",
+    "english": "to dry-roast",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -9706,7 +9706,7 @@
   {
     "id": "chula-l6-225",
     "thai": "เคี่ยว",
-    "english": "to stew, simmer, reduce (barely boil until concentrated)",
+    "english": "to stew, to simmer, to reduce (barely boil until concentrated)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -9878,7 +9878,7 @@
   {
     "id": "chula-l6-237",
     "thai": "คลุก",
-    "english": "to mix, toss ingredients together",
+    "english": "to mix, to toss ingredients together",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -10489,8 +10489,8 @@
   {
     "id": "chula-l6-287",
     "thai": "เนื่องใน",
-    "english": "'on the occasion of (an event)', due to",
-    "frequency": "common",
+    "english": "on the occasion of, in honor of",
+    "frequency": "occasional",
     "topic": "expressions",
     "sources": [
       "Chulalongkorn L6"
@@ -10688,8 +10688,8 @@
   },
   {
     "id": "chula-l6-303",
-    "thai": "ไหน ๆ",
-    "english": "anyway; seeing that, since",
+    "thai": "ไหน ๆ (ก็...แล้ว ...)",
+    "english": "\"while we're at it, ...\", \"seeing that...\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -10915,7 +10915,7 @@
   {
     "id": "chula-l6-322",
     "thai": "พร้อมหน้า",
-    "english": "all together, everyone present",
+    "english": "all together, with everyone present",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -11881,7 +11881,7 @@
   {
     "id": "tamago-l12-053",
     "thai": "ขอตัว",
-    "english": "to excuse oneself (to leave)",
+    "english": "to take one's leave, to excuse oneself (to leave)",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -13204,7 +13204,7 @@
   {
     "id": "tamago-l12-141",
     "thai": "ด้วยกันทั้งนั้น",
-    "english": "all together, every single one of them",
+    "english": "all of them equally, every single one of them",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -13357,7 +13357,7 @@
   {
     "id": "tamago-l12-151",
     "thai": "ตั้ง...แน่ะ",
-    "english": "expression used to emphasize sth ('so much!', 'such a lot!')",
+    "english": "\"...so much\", \"such a...\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -14487,16 +14487,6 @@
     ]
   },
   {
-    "id": "tamago-l12-222",
-    "thai": "นั่งเฉยๆ",
-    "english": "just sitting idly, without doing anything",
-    "frequency": "common",
-    "topic": "expressions",
-    "sources": [
-      "Tamago L1-2"
-    ]
-  },
-  {
     "id": "tamago-l12-223",
     "thai": "นั่นน่ะสิ",
     "english": "'that's right!', 'good point!'",
@@ -15267,7 +15257,7 @@
   {
     "id": "tamago-l12-270",
     "thai": "ปั่น",
-    "english": "to spin, to blend (e.g smoothie); to work intensely on / rush to finish sth",
+    "english": "to spin, to blend (e.g smoothie); to work intensely, to rush to finish sth",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -16530,7 +16520,7 @@
   {
     "id": "tamago-l12-341",
     "thai": "ยังดีที่",
-    "english": "'at least, ...', 'thank god, ...' (indicates not the worst outcome)",
+    "english": "“it’s a good thing that…”, “at least…”",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -22249,7 +22239,7 @@
   {
     "id": "thai9k-024",
     "thai": "เจ",
-    "english": "'jay' diet (strict Buddhist vegan: no animal products and no pungent vegetables like garlic/onion)",
+    "english": "\"jay\" diet (strict Buddhist vegan: no animal products and no pungent vegetables like garlic or onion)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -23240,7 +23230,7 @@
   {
     "id": "tamago-l3-047",
     "thai": "สู้เว่ย",
-    "english": "'you got this!', 'keep fighting!' (slang encouragement)",
+    "english": "'you got this!', 'keep fighting!' (slang)",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -24714,7 +24704,7 @@
   {
     "id": "tamago-l3-139",
     "thai": "เผลอๆ",
-    "english": "maybe, perhaps; accidentally, carelessly; absent-minded",
+    "english": "\"might even\", \"it wouldn’t be surprising if\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -25199,7 +25189,7 @@
   {
     "id": "tamago-l3-172",
     "thai": "พูดซะยาว",
-    "english": "'you talk so long!', quite lengthy",
+    "english": "\"you talk too much!\", \"that's a long explanation!\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -25265,16 +25255,6 @@
     "id": "tamago-l3-178",
     "thai": "ตามสั่ง",
     "english": "made-to-order",
-    "frequency": "common",
-    "topic": "food",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
-    "id": "tamago-l3-179",
-    "thai": "ข้าวราด",
-    "english": "rice topped with (something)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -29790,7 +29770,7 @@
   {
     "id": "tamago-l3-558",
     "thai": "โปะ",
-    "english": "to pile on top, to add on top",
+    "english": "to add on top, to apply onto a surface",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -32161,7 +32141,7 @@
   {
     "id": "tamago-l3-754",
     "thai": "อบขนม",
-    "english": "to bake pastry/sweets",
+    "english": "to bake pastry",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -33750,8 +33730,18 @@
   },
   {
     "id": "tsl-022",
-    "thai": "สตรอว์เบอร์รี - สะตอ",
-    "english": "strawberry; (slang) to lie, to bullshit someone",
+    "thai": "สตรอว์เบอร์รี",
+    "english": "strawberry",
+    "frequency": "common",
+    "topic": "food",
+    "sources": [
+      "TSL Chiang Mai"
+    ]
+  },
+  {
+    "id": "tsl-022b",
+    "thai": "สตอ",
+    "english": "to lie, to bullshit, to fake innocence (slang, from \"strawberry\")",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -33761,7 +33751,7 @@
   {
     "id": "tsl-023",
     "thai": "ลำไย",
-    "english": "longan; (slang) annoying, to dislike",
+    "english": "longan; annoying, irritating (slang)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -33976,7 +33966,7 @@
   {
     "id": "tsl-033",
     "thai": "ถูกปาก",
-    "english": "delicious, tastes good (lit. 'right mouth')",
+    "english": "delicious, tastes good",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -35151,7 +35141,7 @@
   },
   {
     "id": "tsl-135",
-    "thai": "บูด, เน่า, บูดเน่า",
+    "thai": "บูดเน่า",
     "english": "rotten, spoiled",
     "frequency": "common",
     "topic": "food",
@@ -36837,7 +36827,7 @@
   {
     "id": "tsl-302",
     "thai": "สับ",
-    "english": "to chop, mince, cut finely; minced, chopped",
+    "english": "to chop, to mince, to cut finely",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -45431,7 +45421,7 @@
     "id": "thaipod-0503",
     "thai": "น่ารับประทาน",
     "english": "appetizing, looks delicious",
-    "frequency": "common",
+    "frequency": "occasional",
     "topic": "food",
     "sources": [
       "Thaipod101"
@@ -57979,7 +57969,7 @@
   {
     "id": "tobo-161",
     "thai": "ถั่ว",
-    "english": "bean",
+    "english": "bean, nut",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -62663,7 +62653,7 @@
   {
     "id": "yt-c01-028",
     "thai": "ปรุง",
-    "english": "to season, to cook",
+    "english": "to season, to adjust the taste; to cook",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -62673,8 +62663,18 @@
   },
   {
     "id": "yt-c01-029",
-    "thai": "เน่า - บูด",
-    "english": "spoiled (liquid food) - rotten (solid food)",
+    "thai": "เน่า",
+    "english": "rotten, decayed (food)",
+    "frequency": "common",
+    "topic": "food",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "yt-c01-029b",
+    "thai": "บูด",
+    "english": "spoiled, sour, gone bad (usually liquid)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -65888,7 +65888,7 @@
   {
     "id": "yt-c04-060",
     "thai": "ริน",
-    "english": "to pour gently (e.g water), to pour slowly",
+    "english": "to pour gently, to pour slowly",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -66642,7 +66642,7 @@
   {
     "id": "yt-c05-040",
     "thai": "ฝาน",
-    "english": "to slice, to peel",
+    "english": "to slice thinly",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -66792,16 +66792,6 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "yt-c05-057",
-    "thai": "ครก - สาก",
-    "english": "mortar - pestle",
-    "frequency": "common",
-    "topic": "food",
-    "sources": [
-      "YouTube"
     ]
   },
   {
@@ -70039,7 +70029,7 @@
   {
     "id": "yt-c08-085",
     "thai": "บด",
-    "english": "to crush, to mash; mashed",
+    "english": "to crush, to mash",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -70320,7 +70310,7 @@
   {
     "id": "yt-c09-014",
     "thai": "จี่",
-    "english": "to roast, grill, toast",
+    "english": "to roast, to grill (Isan way)",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -73784,7 +73774,7 @@
   {
     "id": "yt-c12-065",
     "thai": "เฉือน",
-    "english": "to slice, to cut slightly",
+    "english": "to slice off, to cut a thin layer from sth",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -86720,16 +86710,6 @@
     "english": "soon, shortly",
     "frequency": "common",
     "topic": "time",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c03-011",
-    "thai": "บรั่นดี",
-    "english": "brandy (loanword)",
-    "frequency": "common",
-    "topic": "food",
     "sources": [
       "Anki Basics"
     ]
@@ -99909,7 +99889,7 @@
   {
     "id": "wlt-c12-065",
     "thai": "หอย",
-    "english": "mollusk",
+    "english": "mollusk, shellfish; (slang) pussy",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -99982,7 +99962,7 @@
   {
     "id": "wlt-c12-069",
     "thai": "เห็ด",
-    "english": "mushrooms",
+    "english": "mushroom",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -103015,7 +102995,7 @@
   {
     "id": "wlt-c14-048",
     "thai": "รส",
-    "english": "flavour",
+    "english": "taste, flavor",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -110970,16 +110950,6 @@
     ]
   },
   {
-    "id": "wlt-c17-087",
-    "thai": "ก่อนอาหาร",
-    "english": "before meals",
-    "frequency": "common",
-    "topic": "food",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c17-088",
     "thai": "กับแกล้ม",
     "english": "food eaten while drinking (alcohol)",
@@ -113124,16 +113094,6 @@
     "english": "to be expired",
     "frequency": "common",
     "topic": "general",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c19-059",
-    "thai": "หลังอาหาร",
-    "english": "after meals",
-    "frequency": "common",
-    "topic": "food",
     "sources": [
       "Anki Basics"
     ]
@@ -124974,7 +124934,7 @@
   {
     "id": "t4k-c07-000",
     "thai": "ราด",
-    "english": "pour onto",
+    "english": "to pour over (food), topped with",
     "frequency": "common",
     "topic": "food",
     "sources": [
@@ -126962,8 +126922,8 @@
   {
     "id": "t4k-c09-074",
     "thai": "คลาสสิก",
-    "english": "classical",
-    "frequency": "common",
+    "english": "classic (loanword)",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
