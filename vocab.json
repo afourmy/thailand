@@ -389,7 +389,7 @@
   {
     "id": "chula-l4-024",
     "thai": "เวียนหัว",
-    "english": "dizziness",
+    "english": "dizzy, lightheaded",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -11605,7 +11605,7 @@
   {
     "id": "tamago-l12-035",
     "thai": "กับเขาบ้าง",
-    "english": "like other people, as everyone else does",
+    "english": "\"like other people\", \"as everyone else does\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -12395,7 +12395,7 @@
   {
     "id": "tamago-l12-090",
     "thai": "คิดไปคิดมา",
-    "english": "on second thought, after thinking it over",
+    "english": "\"on second thought\", \"after thinking it over\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -12582,7 +12582,7 @@
   {
     "id": "tamago-l12-102",
     "thai": "จริงของคุณ",
-    "english": "'you're right!', 'true'",
+    "english": "\"you're right!\", \"you have a point\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -15909,7 +15909,7 @@
   {
     "id": "tamago-l12-309",
     "thai": "พอได้",
-    "english": "good enough",
+    "english": "\"good enough\", \"not great but sufficient\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -15919,7 +15919,7 @@
   {
     "id": "tamago-l12-310",
     "thai": "พอไหว",
-    "english": "manageable, able to handle",
+    "english": "manageable, doable, \"I can handle it\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -18849,16 +18849,6 @@
     ]
   },
   {
-    "id": "tamago-l12-471",
-    "thai": "อย่างละที่",
-    "english": "one of each",
-    "frequency": "common",
-    "topic": "expressions",
-    "sources": [
-      "Tamago L1-2"
-    ]
-  },
-  {
     "id": "tamago-l12-472",
     "thai": "อย่างไรก็ดี",
     "english": "anyway, however, nevertheless (formal)",
@@ -18872,7 +18862,7 @@
   {
     "id": "tamago-l12-473",
     "thai": "อย่าดีกว่า",
-    "english": "'I'd better not' (used to refuse an invitation)",
+    "english": "\"better not (do it)\", \"I suggest you don't...\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -19743,16 +19733,6 @@
     ]
   },
   {
-    "id": "tamago-l12-527",
-    "thai": "เนี่ยนะ",
-    "english": "'really?' (extreme disbelief)",
-    "frequency": "common",
-    "topic": "expressions",
-    "sources": [
-      "Tamago L1-2"
-    ]
-  },
-  {
     "id": "tamago-l12-528",
     "thai": "เนื้อ",
     "english": "meat; content; flesh",
@@ -19946,7 +19926,7 @@
   {
     "id": "tamago-l12-538",
     "thai": "เปิดหูเปิดตา",
-    "english": "to broaden one's horizons, see the world",
+    "english": "to broaden one's horizons, to see the world",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -21868,7 +21848,7 @@
   {
     "id": "tamago-l12-648",
     "thai": "ไม่เกี่ยว",
-    "english": "to be irrelevant, have nothing to do with",
+    "english": "to be irrelevant, to have nothing to do with",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -22522,7 +22502,7 @@
   {
     "id": "tamago-l3-005",
     "thai": "เอาไว้ก่อน",
-    "english": "to leave sth for later, set aside for now",
+    "english": "to leave sth for later, to set aside for now",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -25924,7 +25904,7 @@
   {
     "id": "tamago-l3-221",
     "thai": "ต๊าย",
-    "english": "'oh my god!', 'oh my goodness!' (esp. used by females)",
+    "english": "\"oh my god!\", \"oh dear!\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -26428,7 +26408,7 @@
   {
     "id": "tamago-l3-263",
     "thai": "มันแน่",
-    "english": "'of course!'",
+    "english": "\"of course!\", \"for sure!\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -27431,7 +27411,7 @@
   {
     "id": "tamago-l3-346",
     "thai": "ไม่ได้ดั่งใจ",
-    "english": "unsatisfactory, not as desired",
+    "english": "\"not as expected\", \"not going the way one wants\", unsatisfactory",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -27763,7 +27743,7 @@
   {
     "id": "tamago-l3-377",
     "thai": "อู้ไปอู้มา",
-    "english": "to chat idly, to waste time chatting",
+    "english": "to waste time slacking off, to procrastinate",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -28629,16 +28609,6 @@
     ]
   },
   {
-    "id": "tamago-l3-453",
-    "thai": "อาไว้ก่อนเหอะ",
-    "english": "'let's leave it for now', 'set it aside'",
-    "frequency": "common",
-    "topic": "expressions",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
     "id": "tamago-l3-454",
     "thai": "สุดชีวิต",
     "english": "with all one's might, as best as one can",
@@ -28651,7 +28621,7 @@
   {
     "id": "tamago-l3-455",
     "thai": "ตามเคย",
-    "english": "as ever, as before, as always",
+    "english": "as usual, same as always, just like before",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -29007,7 +28977,7 @@
   {
     "id": "tamago-l3-489",
     "thai": "หัวไม่ไป",
-    "english": "slow at thinking (slang, ~stupid)",
+    "english": "slow thinker, stupid (slang)",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -29116,16 +29086,6 @@
     "id": "tamago-l3-497",
     "thai": "รู้อย่างนี้, รู้งี้",
     "english": "'if I had known this...'",
-    "frequency": "common",
-    "topic": "expressions",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
-    "id": "tamago-l3-498",
-    "thai": "โอ - โอสุด",
-    "english": "'ok' - 'the best ok'",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -29571,7 +29531,7 @@
   {
     "id": "tamago-l3-536",
     "thai": "เสร็จแน่",
-    "english": "'you're in trouble', 'finished for sure'",
+    "english": "\"you're in trouble\", \"you're done for\"",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -30246,7 +30206,7 @@
   {
     "id": "tamago-l3-589",
     "thai": "ไม่เท่าไหร่",
-    "english": "not for long, not much",
+    "english": "not that much, not really",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -32150,7 +32110,7 @@
   {
     "id": "tamago-l3-749",
     "thai": "แก้เหงา",
-    "english": "to relieve loneliness, to kill time for fun",
+    "english": "to relieve loneliness, to do something to not feel lonely",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -32923,7 +32883,7 @@
   {
     "id": "tamago-l3-821",
     "thai": "ไม่รู้จักโต",
-    "english": "immature, won't grow up",
+    "english": "to be immature, to behave like a child",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -61453,7 +61413,7 @@
   {
     "id": "tobo-430",
     "thai": "ตั้งครรภ์",
-    "english": "pregnant",
+    "english": "pregnant (formal)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -61643,7 +61603,7 @@
   {
     "id": "tobo-448",
     "thai": "เล็บ",
-    "english": "nail (finger/toe)",
+    "english": "nail (fingernail or toenail)",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -63880,7 +63840,7 @@
   {
     "id": "yt-c02-050",
     "thai": "ขมวดคิ้ว",
-    "english": "to frown, to knit your eyebrows (froncer les sourcils)",
+    "english": "to frown, to knit your eyebrows",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -63910,7 +63870,7 @@
   {
     "id": "yt-c02-054",
     "thai": "แลบลิ้น",
-    "english": "stick out the tongue",
+    "english": "to stick out one’s tongue",
     "frequency": "common",
     "topic": "health",
     "sources": [
@@ -126571,7 +126531,7 @@
   {
     "id": "t4k-c09-005",
     "thai": "ปล่อยตัว",
-    "english": "release; discharge",
+    "english": "to discharge, to release someone (e.g from detention); to let oneself go, to neglect oneself",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126601,7 +126561,7 @@
   {
     "id": "t4k-c09-008",
     "thai": "ประจำตัว",
-    "english": "personal; private",
+    "english": "personal (e.g card, doctor, etc)",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126611,8 +126571,8 @@
   {
     "id": "t4k-c09-009",
     "thai": "ฟาก",
-    "english": "shore; bank",
-    "frequency": "common",
+    "english": "shore, side, riverbank",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -126631,7 +126591,7 @@
   {
     "id": "t4k-c09-011",
     "thai": "ชุ่ม",
-    "english": "moist",
+    "english": "moist, damp, soaked",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126661,7 +126621,7 @@
   {
     "id": "t4k-c09-016",
     "thai": "ตามลำพัง",
-    "english": "alone; by oneself",
+    "english": "alone, by oneself",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126671,8 +126631,8 @@
   {
     "id": "t4k-c09-017",
     "thai": "ผู้สื่อข่าว",
-    "english": "correspondent; reporter; journalist",
-    "frequency": "common",
+    "english": "journalist, news reporter",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -126681,7 +126641,7 @@
   {
     "id": "t4k-c09-018",
     "thai": "คุณวุฒิ",
-    "english": "qualification; competence; ability",
+    "english": "qualification, academic degree",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126711,8 +126671,8 @@
   {
     "id": "t4k-c09-025",
     "thai": "ตอ",
-    "english": "stump; stub",
-    "frequency": "common",
+    "english": "stump (tree stump left after cutting)",
+    "frequency": "rare",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -126741,8 +126701,8 @@
   {
     "id": "t4k-c09-031",
     "thai": "ตื่นตัว",
-    "english": "be awakened to; be alert",
-    "frequency": "common",
+    "english": "alert, wake and attentive",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -126761,7 +126721,7 @@
   {
     "id": "t4k-c09-034",
     "thai": "ดัชนี",
-    "english": "index; list",
+    "english": "index (book, data), indicator",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126771,8 +126731,8 @@
   {
     "id": "t4k-c09-035",
     "thai": "การเรียนการสอน",
-    "english": "teaching; education",
-    "frequency": "common",
+    "english": "teaching and learning, education process",
+    "frequency": "occasional",
     "topic": "general",
     "sources": [
       "Thai 4000"
@@ -126851,7 +126811,7 @@
   {
     "id": "t4k-c09-050",
     "thai": "จุดมุ่งหมาย",
-    "english": "aim; intention; purpose",
+    "english": "aim, objective, purpose",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126911,7 +126871,7 @@
   {
     "id": "t4k-c09-058",
     "thai": "เป็นกลาง",
-    "english": "neutral; impartial",
+    "english": "neutral, impartial, not taking sides",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126921,7 +126881,7 @@
   {
     "id": "t4k-c09-061",
     "thai": "เตรียมพร้อม",
-    "english": "be ready; get ready",
+    "english": "to be prepared, to get ready",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -126982,7 +126942,7 @@
   {
     "id": "t4k-c09-072",
     "thai": "รับผิด",
-    "english": "admit mistake; confess",
+    "english": "to take responsibility, to admit fault",
     "frequency": "common",
     "topic": "general",
     "sources": [
