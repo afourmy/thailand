@@ -1,0 +1,79 @@
+# DUPLICATES — same exact thai word. For each: mark keep / remove / merge per card.
+
+## true duplicates (same meaning)
+ไหว  x2
+  tamago-l12-008 [everyday] [grammar]: 'to be able to, have the capacity (physical or mental) to'
+  thaipod-1428 [everyday] [general]: 'to be able to, to handle, to endure'
+
+remove thaipod-1428
+
+ทีละ  x2
+  tamago-l3-202 [everyday] [grammar]: 'one at a time, one by one'
+  t4k-c03-004 [common] [grammar]: 'at a time'
+
+remove t4k-c03-00
+
+ใจดำ  x2
+  tsl-122 [common] [personality]: 'heartless, cruel, mean-spirited'
+  exd-025 [common] [general]: 'mean, cruel, heartless'
+
+remove tsl-122
+
+ยั่งยืน  x2
+  tsl-228 [common] [general]: 'sustainable, long-lasting'
+  thaipod-0793 [occasional] [general]: 'still standing, lasting, stable'
+
+ซาบซึ้ง, ซาบซึ้งใจ  x2
+  tsl-474 [common] [emotions]: 'deeply moved, touched, grateful'
+  yt-c13-002 [common] [emotions]: 'deeply touched, deeply moved'
+
+จำเป็น  x2
+  thaipod-0267 [everyday] [general]: 'necessary'
+  exd-021 [everyday] [general]: 'necessary, required'
+
+สำเร็จ  x2
+  thaipod-1049 [common] [general]: 'successfully, to succeed'
+  exd-020 [everyday] [general]: 'to succeed, to be completed, successful'
+
+กฎ  x2
+  tobo-114 [common] [general]: 'rule'
+  t4k-c05-029 [common] [law]: 'rule'
+
+ทับทิม  x2
+  yt-c04-077 [rare] [food]: 'pomegranate'
+  wlt-c02-055 [common] [food]: 'pomegranate'
+
+ฟู  x2
+  yt-c10-066 [rare] [general]: 'fluffy, puffed-up (of hair)'
+  t4k-c05-005 [common] [general]: 'fluffy, puffed up (e.g hair, face)'
+
+นึกถึง  x2
+  wlt-c03-004 [common] [general]: 'to think of, to recall'
+  t4k-c02-098 [common] [general]: 'to think of, to recall, to remember'
+
+เพิ่ง  x2
+  wlt-c11-066 [everyday] [grammar]: 'just (immediately before)'
+  wlt-c16-009 [everyday] [grammar]: 'just now'
+
+อย่างไร  x2
+  wlt-c04-011 [common] [grammar]: 'in what way, how?'
+  wlt-c21-048 [common] [grammar]: 'how, in what way (formal)'
+
+## near-duplicates (one card richer)
+ว่าที่  x3
+  tamago-l3-745 [common] [grammar]: 'future, "...-to-be" (e.g future husband)'
+  yt-c18-027 [common] [grammar]: 'soon-to-be (e.g "bride-to-be", "soon-to-be-graduate", etc), future, prospective'
+  t4k-c04-002 [common] [grammar]: 'acting for; acting'
+
+น้องสาว  x2
+  yt-c20-031 [occasional] [slang]: 'younger sister; (sexual, slang) pussy'
+  wlt-c13-079 [everyday] [family]: 'younger sister'
+
+## homonyms (different meanings — recommend KEEP both)
+ราง  x2
+  yt-c04-080 [common] [transport]: 'track, rail'
+  yt-c10-062 [occasional] [general]: 'vague, dim, faint'
+
+ของ  x2
+  wlt-c18-008 [common] [grammar]: 'something, things, stuff, possessions'
+  wlt-c20-097 [everyday] [grammar]: 'of, belonging to'
