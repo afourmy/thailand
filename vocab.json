@@ -54,7 +54,9 @@
       "Chulalongkorn L4",
       "Tamago L1-2",
       "Thai 4000"
-    ]
+    ],
+    "audio": true,
+    "audio_en": true
   },
   {
     "id": "chula-l4-004",
@@ -112,7 +114,9 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
-    ]
+    ],
+    "audio": true,
+    "audio_en": true
   },
   {
     "id": "chula-l4-007",
@@ -159,7 +163,9 @@
       "Chulalongkorn L4",
       "Anki Basics",
       "Thai 4000"
-    ]
+    ],
+    "audio": true,
+    "audio_en": true
   },
   {
     "id": "chula-l4-009",
@@ -300,7 +306,9 @@
       "Chulalongkorn L4",
       "Anki Basics",
       "Thai 4000"
-    ]
+    ],
+    "audio": true,
+    "audio_en": true
   },
   {
     "id": "chula-l4-014",
@@ -474,7 +482,9 @@
       "Chulalongkorn L4",
       "Chulalongkorn L6",
       "Thai 4000"
-    ]
+    ],
+    "audio": true,
+    "audio_en": true
   },
   {
     "id": "chula-l4-032",

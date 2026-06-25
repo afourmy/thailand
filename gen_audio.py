@@ -26,6 +26,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -74,21 +75,30 @@ def ssml(text, voice, xmllang):
     )
 
 
-def synth(text, voice, xmllang, key, region):
+def synth(text, voice, xmllang, key, region, max_retries=6):
     url = "https://" + region + ".tts.speech.microsoft.com/cognitiveservices/v1"
-    req = urllib.request.Request(
-        url,
-        data=ssml(text, voice, xmllang).encode("utf-8"),
-        headers={
-            "Ocp-Apim-Subscription-Key": key,
-            "Content-Type": "application/ssml+xml",
-            "X-Microsoft-OutputFormat": OUTPUT_FORMAT,
-            "User-Agent": "thai-vocab-tts",
-        },
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read()
+    data = ssml(text, voice, xmllang).encode("utf-8")
+    headers = {
+        "Ocp-Apim-Subscription-Key": key,
+        "Content-Type": "application/ssml+xml",
+        "X-Microsoft-OutputFormat": OUTPUT_FORMAT,
+        "User-Agent": "thai-vocab-tts",
+    }
+    for attempt in range(max_retries + 1):
+        req = urllib.request.Request(url, data=data, headers=headers, method="POST")
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read()
+        except urllib.error.HTTPError as e:
+            # 429 = rate limited, 5xx = transient: wait and retry (honor Retry-After).
+            if e.code in (429, 500, 503) and attempt < max_retries:
+                retry_after = e.headers.get("Retry-After")
+                wait = float(retry_after) if retry_after else min(2 ** attempt, 30)
+                print("  rate limited (%d), waiting %.1fs (retry %d/%d)..."
+                      % (e.code, wait, attempt + 1, max_retries))
+                time.sleep(wait)
+                continue
+            raise
 
 
 def main():
@@ -105,6 +115,9 @@ def main():
                     help="only words with this topic (e.g. general)")
     ap.add_argument("--lang", choices=("th", "en", "both"), default="both",
                     help="which audio to generate (default both)")
+    ap.add_argument("--delay", type=float, default=0.4,
+                    help="seconds to pause after each synthesized clip, to stay "
+                         "under the API rate limit (default 0.4)")
     args = ap.parse_args()
 
     key = os.environ.get("AZURE_SPEECH_KEY")
@@ -151,6 +164,7 @@ def main():
                     out.write_bytes(audio)
                     ok = True
                     print("wrote:", out.name, "(%d bytes)" % len(audio), spoken)
+                    time.sleep(args.delay)
                 except urllib.error.HTTPError as e:
                     body = e.read().decode("utf-8", "replace")[:300]
                     ok = False
