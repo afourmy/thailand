@@ -1,2 +1,5 @@
 # Local TTS credentials (never commit secrets)
 .tts-credentials
+
+# Local backup snapshots (e.g. vocab.json.bak, auto-created before edits)
+*.bak
