@@ -10670,7 +10670,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "university student",
+        "sentences": [
+          {
+            "thai": "เขาเป็นนิสิตปีสุดท้าย",
+            "en": "He's a final-year university student.",
+            "audio_src": "เขาเป็นนิสิตปีสุดท้าย",
+            "audio_en_src": "He's a final-year university student."
+          },
+          {
+            "thai": "นิสิตหลายคนมาฟังบรรยาย",
+            "en": "Many students came to hear the lecture.",
+            "audio_src": "นิสิตหลายคนมาฟังบรรยาย",
+            "audio_en_src": "Many students came to hear the lecture."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-023",
@@ -10697,7 +10716,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to focus on, to emphasize",
+        "sentences": [
+          {
+            "thai": "ครูเน้นว่าข้อนี้จะออกสอบ",
+            "en": "The teacher stressed that this point will be on the exam.",
+            "audio_src": "ครูเน้นว่าข้อนี้จะออกสอบ",
+            "audio_en_src": "The teacher stressed that this point will be on the exam."
+          },
+          {
+            "thai": "บริษัทมุ่งเน้นเรื่องคุณภาพสินค้า",
+            "en": "The company focuses on product quality.",
+            "audio_src": "บริษัทมุ่งเน้นเรื่องคุณภาพสินค้า",
+            "audio_en_src": "The company focuses on product quality."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-025",
@@ -10853,7 +10891,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to appoint, to nominate",
+        "sentences": [
+          {
+            "thai": "เขาได้รับแต่งตั้งเป็นผู้จัดการคนใหม่",
+            "en": "He was appointed the new manager.",
+            "audio_src": "เขาได้รับแต่งตั้งเป็นผู้จัดการคนใหม่",
+            "audio_en_src": "He was appointed the new manager."
+          },
+          {
+            "thai": "ที่ประชุมแต่งตั้งหัวหน้าทีม",
+            "en": "The meeting appointed a team leader.",
+            "audio_src": "ที่ประชุมแต่งตั้งหัวหน้าทีม",
+            "audio_en_src": "The meeting appointed a team leader."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-040",
@@ -10867,7 +10924,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to insert, interject, slip in",
+        "sentences": [
+          {
+            "thai": "ช่วยแทรกรูปภาพลงในเอกสาร",
+            "en": "Please insert an image into the document.",
+            "audio_src": "ช่วยแทรกรูปภาพลงในเอกสาร",
+            "audio_en_src": "Please insert an image into the document."
+          },
+          {
+            "thai": "เขาชอบพูดแทรกตอนคนอื่นคุย",
+            "en": "He likes to interrupt when others are talking.",
+            "audio_src": "เขาชอบพูดแทรกตอนคนอื่นคุย",
+            "audio_en_src": "He likes to interrupt when others are talking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-041",
@@ -10994,7 +11070,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "job description, actual content or tasks of the work",
+        "sentences": [
+          {
+            "thai": "เนื้องานหนักกว่าที่คิดไว้",
+            "en": "The actual workload is heavier than I expected.",
+            "audio_src": "เนื้องานหนักกว่าที่คิดไว้",
+            "audio_en_src": "The actual workload is heavier than I expected."
+          },
+          {
+            "thai": "ขอดูรายละเอียดเนื้องานก่อนตัดสินใจ",
+            "en": "I'd like to see the details of the work before deciding.",
+            "audio_src": "ขอดูรายละเอียดเนื้องานก่อนตัดสินใจ",
+            "audio_en_src": "I'd like to see the details of the work before deciding."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-049",
@@ -11028,7 +11123,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "tone of voice (e.g polite, angry, etc)",
+        "sentences": [
+          {
+            "thai": "เขาพูดด้วยน้ำเสียงโกรธ",
+            "en": "He spoke in an angry tone.",
+            "audio_src": "เขาพูดด้วยน้ำเสียงโกรธ",
+            "audio_en_src": "He spoke in an angry tone."
+          },
+          {
+            "thai": "น้ำเสียงของเธอฟังดูอ่อนโยน",
+            "en": "Her tone of voice sounds gentle.",
+            "audio_src": "น้ำเสียงของเธอฟังดูอ่อนโยน",
+            "audio_en_src": "Her tone of voice sounds gentle."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-052",
@@ -11073,7 +11187,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "balance",
+        "sentences": [
+          {
+            "thai": "การออกกำลังกายช่วยรักษาสมดุลร่างกาย",
+            "en": "Exercise helps maintain the body's balance.",
+            "audio_src": "การออกกำลังกายช่วยรักษาสมดุลร่างกาย",
+            "audio_en_src": "Exercise helps maintain the body's balance."
+          },
+          {
+            "thai": "เขาพยายามสร้างสมดุลระหว่างงานกับชีวิต",
+            "en": "He tries to create a balance between work and life.",
+            "audio_src": "เขาพยายามสร้างสมดุลระหว่างงานกับชีวิต",
+            "audio_en_src": "He tries to create a balance between work and life."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-056",
@@ -11087,7 +11220,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "potential, capability",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้มีศักยภาพสูงมาก",
+            "en": "This child has very high potential.",
+            "audio_src": "เด็กคนนี้มีศักยภาพสูงมาก",
+            "audio_en_src": "This child has very high potential."
+          },
+          {
+            "thai": "การฝึกอบรมช่วยพัฒนาศักยภาพพนักงาน",
+            "en": "Training helps develop employees' capabilities.",
+            "audio_src": "การฝึกอบรมช่วยพัฒนาศักยภาพพนักงาน",
+            "audio_en_src": "Training helps develop employees' capabilities."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-057",
@@ -11158,7 +11310,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "huge, colossal",
+        "sentences": [
+          {
+            "thai": "เขาเสียเงินไปมหาศาลกับการพนัน",
+            "en": "He lost a huge amount of money gambling.",
+            "audio_src": "เขาเสียเงินไปมหาศาลกับการพนัน",
+            "audio_en_src": "He lost a huge amount of money gambling."
+          },
+          {
+            "thai": "โครงการนี้ใช้งบประมาณมหาศาล",
+            "en": "This project uses a colossal budget.",
+            "audio_src": "โครงการนี้ใช้งบประมาณมหาศาล",
+            "audio_en_src": "This project uses a colossal budget."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-063",
@@ -11205,7 +11376,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be aware of, to realize",
+        "sentences": [
+          {
+            "thai": "เราต้องตระหนักถึงปัญหาโลกร้อน",
+            "en": "We must be aware of the global warming problem.",
+            "audio_src": "เราต้องตระหนักถึงปัญหาโลกร้อน",
+            "audio_en_src": "We must be aware of the global warming problem."
+          },
+          {
+            "thai": "เขาเพิ่งตระหนักว่าทำผิดไป",
+            "en": "He just realized he had made a mistake.",
+            "audio_src": "เขาเพิ่งตระหนักว่าทำผิดไป",
+            "audio_en_src": "He just realized he had made a mistake."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-067",
