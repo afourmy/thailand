@@ -35293,7 +35293,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "directly",
+        "sentences": [
+          {
+            "thai": "มีปัญหาอะไรคุยกับฉันโดยตรงได้เลย",
+            "en": "If there's any problem, you can talk to me directly.",
+            "audio_src": "มีปัญหาอะไรคุยกับฉันโดยตรงได้เลย",
+            "audio_en_src": "If there's any problem, you can talk to me directly."
+          },
+          {
+            "thai": "เรื่องนี้ไม่เกี่ยวกับเขาโดยตรง",
+            "en": "This matter doesn't concern him directly.",
+            "audio_src": "เรื่องนี้ไม่เกี่ยวกับเขาโดยตรง",
+            "audio_en_src": "This matter doesn't concern him directly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-172",
@@ -35337,7 +35356,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "candidate, applicant",
+        "sentences": [
+          {
+            "thai": "ผู้สมัครงานต้องส่งเรซูเม่ก่อนวันศุกร์",
+            "en": "Job applicants must submit their resume before Friday.",
+            "audio_src": "ผู้สมัครงานต้องส่งเรซูเม่ก่อนวันศุกร์",
+            "audio_en_src": "Job applicants must submit their resume before Friday."
+          },
+          {
+            "thai": "ปีนี้มีผู้สมัครเลือกตั้งหลายคน",
+            "en": "This year there are many election candidates.",
+            "audio_src": "ปีนี้มีผู้สมัครเลือกตั้งหลายคน",
+            "audio_en_src": "This year there are many election candidates."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-176",
@@ -35352,7 +35390,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to push, to press",
+        "sentences": [
+          {
+            "thai": "ช่วยกันดันรถที่เสียออกข้างทาง",
+            "en": "Let's push the broken-down car to the side of the road together.",
+            "audio_src": "ช่วยกันดันรถที่เสียออกข้างทาง",
+            "audio_en_src": "Let's push the broken-down car to the side of the road together."
+          },
+          {
+            "thai": "ประตูนี้ต้องดันไม่ใช่ดึง",
+            "en": "This door is push, not pull.",
+            "audio_src": "ประตูนี้ต้องดันไม่ใช่ดึง",
+            "audio_en_src": "This door is push, not pull."
+          }
+        ]
+      },
+      {
+        "meaning": "unexpectedly, \"it just happens that\"",
+        "sentences": [
+          {
+            "thai": "วันสำคัญแบบนี้ เขาดันมาป่วยซะงั้น",
+            "en": "On an important day like this, of all things he ended up getting sick.",
+            "audio_src": "วันสำคัญแบบนี้ เขาดันมาป่วยซะงั้น",
+            "audio_en_src": "On an important day like this, of all things he ended up getting sick."
+          },
+          {
+            "thai": "จะออกไปแล้ว ฝนดันตกพอดี",
+            "en": "Just as I was about to leave, it just had to start raining.",
+            "audio_src": "จะออกไปแล้ว ฝนดันตกพอดี",
+            "audio_en_src": "Just as I was about to leave, it just had to start raining."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-177",
@@ -35364,7 +35438,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "interviewer",
+        "sentences": [
+          {
+            "thai": "ผู้สัมภาษณ์ถามเขาเรื่องประสบการณ์ทำงาน",
+            "en": "The interviewer asked him about his work experience.",
+            "audio_src": "ผู้สัมภาษณ์ถามเขาเรื่องประสบการณ์ทำงาน",
+            "audio_en_src": "The interviewer asked him about his work experience."
+          },
+          {
+            "thai": "ผู้สัมภาษณ์ยิ้มทักทายก่อนเริ่มถาม",
+            "en": "The interviewer smiled and greeted him before starting the questions.",
+            "audio_src": "ผู้สัมภาษณ์ยิ้มทักทายก่อนเริ่มถาม",
+            "audio_en_src": "The interviewer smiled and greeted him before starting the questions."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-178",
@@ -35389,7 +35482,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hide, to conceal (e.g information, facts)",
+        "sentences": [
+          {
+            "thai": "เขาปิดบังความจริงเรื่องสุขภาพ",
+            "en": "He concealed the truth about his health.",
+            "audio_src": "เขาปิดบังความจริงเรื่องสุขภาพ",
+            "audio_en_src": "He concealed the truth about his health."
+          },
+          {
+            "thai": "อย่าปิดบังอะไรกัน บอกมาตรงๆ",
+            "en": "Let's not hide anything from each other, just tell me straight.",
+            "audio_src": "อย่าปิดบังอะไรกัน บอกมาตรงๆ",
+            "audio_en_src": "Let's not hide anything from each other, just tell me straight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-182",
@@ -35466,7 +35578,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to eavesdrop",
+        "sentences": [
+          {
+            "thai": "เด็กแอบฟังผู้ใหญ่คุยกันหลังประตู",
+            "en": "The kid eavesdropped on the adults talking behind the door.",
+            "audio_src": "เด็กแอบฟังผู้ใหญ่คุยกันหลังประตู",
+            "audio_en_src": "The kid eavesdropped on the adults talking behind the door."
+          },
+          {
+            "thai": "อย่าแอบฟังเวลาคนอื่นคุยโทรศัพท์",
+            "en": "Don't eavesdrop when others are on the phone.",
+            "audio_src": "อย่าแอบฟังเวลาคนอื่นคุยโทรศัพท์",
+            "audio_en_src": "Don't eavesdrop when others are on the phone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-187",
@@ -35515,7 +35646,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to recruit, to take applications",
+        "sentences": [
+          {
+            "thai": "ร้านกำลังรับสมัครพนักงานพาร์ตไทม์",
+            "en": "The shop is recruiting part-time staff.",
+            "audio_src": "ร้านกำลังรับสมัครพนักงานพาร์ตไทม์",
+            "audio_en_src": "The shop is recruiting part-time staff."
+          },
+          {
+            "thai": "มหาวิทยาลัยเปิดรับสมัครนักศึกษาใหม่แล้ว",
+            "en": "The university has opened applications for new students.",
+            "audio_src": "มหาวิทยาลัยเปิดรับสมัครนักศึกษาใหม่แล้ว",
+            "audio_en_src": "The university has opened applications for new students."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-189",
@@ -35528,7 +35678,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "specific, particular",
+        "sentences": [
+          {
+            "thai": "ลูกค้าเจาะจงอยากได้สีน้ำเงินเท่านั้น",
+            "en": "The customer specifically wants only the blue one.",
+            "audio_src": "ลูกค้าเจาะจงอยากได้สีน้ำเงินเท่านั้น",
+            "audio_en_src": "The customer specifically wants only the blue one."
+          },
+          {
+            "thai": "เขาไม่ได้เจาะจงว่าต้องเป็นร้านไหน",
+            "en": "He didn't specify which shop it had to be.",
+            "audio_src": "เขาไม่ได้เจาะจงว่าต้องเป็นร้านไหน",
+            "audio_en_src": "He didn't specify which shop it had to be."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-190",
@@ -35540,7 +35709,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to absorb (knowledge, culture)",
+        "sentences": [
+          {
+            "thai": "เด็กซึมซับภาษาจากการฟังพ่อแม่พูด",
+            "en": "Children absorb language from hearing their parents speak.",
+            "audio_src": "เด็กซึมซับภาษาจากการฟังพ่อแม่พูด",
+            "audio_en_src": "Children absorb language from hearing their parents speak."
+          },
+          {
+            "thai": "เขาซึมซับวัฒนธรรมไทยจนพูดได้คล่อง",
+            "en": "He absorbed Thai culture until he could speak fluently.",
+            "audio_src": "เขาซึมซับวัฒนธรรมไทยจนพูดได้คล่อง",
+            "audio_en_src": "He absorbed Thai culture until he could speak fluently."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-192",
@@ -35552,7 +35740,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "native speaker",
+        "sentences": [
+          {
+            "thai": "เรียนกับเจ้าของภาษาช่วยให้สำเนียงดีขึ้น",
+            "en": "Studying with a native speaker helps improve your accent.",
+            "audio_src": "เรียนกับเจ้าของภาษาช่วยให้สำเนียงดีขึ้น",
+            "audio_en_src": "Studying with a native speaker helps improve your accent."
+          },
+          {
+            "thai": "เขาพูดอังกฤษได้เหมือนเจ้าของภาษา",
+            "en": "He speaks English like a native speaker.",
+            "audio_src": "เขาพูดอังกฤษได้เหมือนเจ้าของภาษา",
+            "audio_en_src": "He speaks English like a native speaker."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-193",

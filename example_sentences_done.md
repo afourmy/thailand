@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1724 words**
+**Total: 1734 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -676,8 +676,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-164` : ซีด (pale) : 1 meaning(s), 2 sentences
 - `tamago-l3-168` : ผลเสีย (damage, harm, negative consequence) : 1 meaning(s), 2 sentences
 - `tamago-l3-170` : ส่งผลกระทบ (to impact, to affect) : 1 meaning(s), 2 sentences
+- `tamago-l3-171` : โดยตรง (directly) : 1 meaning(s), 2 sentences
+- `tamago-l3-175` : ผู้สมัคร (candidate, applicant) : 1 meaning(s), 2 sentences
+- `tamago-l3-176` : ดัน (to push, to press; unexpectedly, "it just happens that") : 2 meaning(s), 4 sentences
+- `tamago-l3-177` : ผู้สัมภาษณ์ (interviewer) : 1 meaning(s), 2 sentences
+- `tamago-l3-181` : ปิดบัง (to hide, to conceal (e.g information, facts)) : 1 meaning(s), 2 sentences
 - `tamago-l3-184` : ขำ (funny, to laugh) : 1 meaning(s), 2 sentences
+- `tamago-l3-186` : แอบฟัง (to eavesdrop) : 1 meaning(s), 2 sentences
 - `tamago-l3-187` : ทัศนคติ (attitude, viewpoint) : 1 meaning(s), 2 sentences
+- `tamago-l3-188` : รับสมัคร (to recruit, to take applications) : 1 meaning(s), 2 sentences
+- `tamago-l3-189` : เจาะจง (specific, particular) : 1 meaning(s), 2 sentences
+- `tamago-l3-190` : ซึมซับ (to absorb (knowledge, culture)) : 1 meaning(s), 2 sentences
+- `tamago-l3-192` : เจ้าของภาษา (native speaker) : 1 meaning(s), 2 sentences
 - `tamago-l3-193` : ดูบอล (to watch football (soccer)) : 1 meaning(s), 2 sentences
 - `tamago-l3-198` : ตามใจ (as you wish; to spoil (someone)) : 2 meaning(s), 4 sentences
 - `tamago-l3-202` : ทีละ (one at a time, one by one) : 1 meaning(s), 2 sentences
