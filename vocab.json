@@ -6299,7 +6299,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rate",
+        "sentences": [
+          {
+            "thai": "อัตราแลกเปลี่ยนวันนี้เท่าไหร่",
+            "en": "What's the exchange rate today?",
+            "audio_src": "อัตราแลกเปลี่ยนวันนี้เท่าไหร่",
+            "audio_en_src": "What's the exchange rate today?"
+          },
+          {
+            "thai": "ธนาคารปรับอัตราดอกเบี้ยขึ้น",
+            "en": "The bank raised its interest rate.",
+            "audio_src": "ธนาคารปรับอัตราดอกเบี้ยขึ้น",
+            "audio_en_src": "The bank raised its interest rate."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-225",
@@ -6313,7 +6332,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "behavior",
+        "sentences": [
+          {
+            "thai": "ครูสังเกตพฤติกรรมของนักเรียน",
+            "en": "The teacher observes the students' behavior.",
+            "audio_src": "ครูสังเกตพฤติกรรมของนักเรียน",
+            "audio_en_src": "The teacher observes the students' behavior."
+          },
+          {
+            "thai": "พฤติกรรมแบบนี้อันตรายมาก",
+            "en": "This kind of behavior is very dangerous.",
+            "audio_src": "พฤติกรรมแบบนี้อันตรายมาก",
+            "audio_en_src": "This kind of behavior is very dangerous."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-226",
@@ -6375,7 +6413,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "history, background, record",
+        "sentences": [
+          {
+            "thai": "กรอกประวัติส่วนตัวลงในใบสมัคร",
+            "en": "Fill in your personal details on the application.",
+            "audio_src": "กรอกประวัติส่วนตัวลงในใบสมัคร",
+            "audio_en_src": "Fill in your personal details on the application."
+          },
+          {
+            "thai": "หมอขอดูประวัติการรักษาก่อน",
+            "en": "The doctor wants to see your medical record first.",
+            "audio_src": "หมอขอดูประวัติการรักษาก่อน",
+            "audio_en_src": "The doctor wants to see your medical record first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-231",
@@ -6441,7 +6498,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to swap, to switch",
+        "sentences": [
+          {
+            "thai": "เราสลับที่นั่งกันได้ไหม",
+            "en": "Can we swap seats?",
+            "audio_src": "เราสลับที่นั่งกันได้ไหม",
+            "audio_en_src": "Can we swap seats?"
+          },
+          {
+            "thai": "สองคนสลับกันขับรถ",
+            "en": "The two of them took turns driving.",
+            "audio_src": "สองคนสลับกันขับรถ",
+            "audio_en_src": "The two of them took turns driving."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-238",
@@ -6465,7 +6541,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "topic",
+        "sentences": [
+          {
+            "thai": "วันนี้เราจะคุยหัวข้อนี้กัน",
+            "en": "Today we'll discuss this topic.",
+            "audio_src": "วันนี้เราจะคุยหัวข้อนี้กัน",
+            "audio_en_src": "Today we'll discuss this topic."
+          },
+          {
+            "thai": "เขาเลือกหัวข้อรายงานยากมาก",
+            "en": "He chose a really hard topic for his report.",
+            "audio_src": "เขาเลือกหัวข้อรายงานยากมาก",
+            "audio_en_src": "He chose a really hard topic for his report."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-240",
@@ -6479,7 +6574,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to mix, to blend, to mingle",
+        "sentences": [
+          {
+            "thai": "อย่าเอาผ้าขาวปนกับผ้าสี",
+            "en": "Don't mix the white clothes with the colored ones.",
+            "audio_src": "อย่าเอาผ้าขาวปนกับผ้าสี",
+            "audio_en_src": "Don't mix the white clothes with the colored ones."
+          },
+          {
+            "thai": "เขาพูดไทยปนอังกฤษ",
+            "en": "He speaks Thai mixed with English.",
+            "audio_src": "เขาพูดไทยปนอังกฤษ",
+            "audio_en_src": "He speaks Thai mixed with English."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-241",
@@ -6556,7 +6670,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "case",
+        "sentences": [
+          {
+            "thai": "ในกรณีฉุกเฉินให้โทรหาหมอ",
+            "en": "In case of emergency, call the doctor.",
+            "audio_src": "ในกรณีฉุกเฉินให้โทรหาหมอ",
+            "audio_en_src": "In case of emergency, call the doctor."
+          },
+          {
+            "thai": "กรณีนี้ต้องตัดสินใจให้ดี",
+            "en": "This case needs a careful decision.",
+            "audio_src": "กรณีนี้ต้องตัดสินใจให้ดี",
+            "audio_en_src": "This case needs a careful decision."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-248",
@@ -6647,7 +6780,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "mosquito repellent",
+        "sentences": [
+          {
+            "thai": "ทายากันยุงก่อนออกไปข้างนอก",
+            "en": "Put on mosquito repellent before going outside.",
+            "audio_src": "ทายากันยุงก่อนออกไปข้างนอก",
+            "audio_en_src": "Put on mosquito repellent before going outside."
+          },
+          {
+            "thai": "จุดยากันยุงไล่ยุงตอนกลางคืน",
+            "en": "Light a mosquito coil to keep mosquitoes away at night.",
+            "audio_src": "จุดยากันยุงไล่ยุงตอนกลางคืน",
+            "audio_en_src": "Light a mosquito coil to keep mosquitoes away at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-257",
@@ -6661,7 +6813,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to repeat, repeatedly, again",
+        "sentences": [
+          {
+            "thai": "ครูให้พูดประโยคนี้ซ้ำอีกครั้ง",
+            "en": "The teacher had us repeat this sentence again.",
+            "audio_src": "ครูให้พูดประโยคนี้ซ้ำอีกครั้ง",
+            "audio_en_src": "The teacher had us repeat this sentence again."
+          },
+          {
+            "thai": "เขาทำผิดพลาดซ้ำเดิม",
+            "en": "He made the same mistake again.",
+            "audio_src": "เขาทำผิดพลาดซ้ำเดิม",
+            "audio_en_src": "He made the same mistake again."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-258",
@@ -6703,7 +6874,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "abnormal",
+        "sentences": [
+          {
+            "thai": "หมอบอกว่าผลตรวจไม่มีอะไรผิดปกติ",
+            "en": "The doctor said the test results show nothing abnormal.",
+            "audio_src": "หมอบอกว่าผลตรวจไม่มีอะไรผิดปกติ",
+            "audio_en_src": "The doctor said the test results show nothing abnormal."
+          },
+          {
+            "thai": "รถมีเสียงผิดปกติตอนสตาร์ท",
+            "en": "The car makes a strange noise when starting.",
+            "audio_src": "รถมีเสียงผิดปกติตอนสตาร์ท",
+            "audio_en_src": "The car makes a strange noise when starting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-262",

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1364 words**
+**Total: 1374 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -97,6 +97,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-214` : แหล่ง (source) : 1 meaning(s), 2 sentences
 - `chula-l5-216` : กำจัด (to get rid of, to eliminate) : 1 meaning(s), 2 sentences
 - `chula-l5-223` : อันดับ (rank) : 1 meaning(s), 2 sentences
+- `chula-l5-224` : อัตรา (rate) : 1 meaning(s), 2 sentences
+- `chula-l5-225` : พฤติกรรม (behavior) : 1 meaning(s), 2 sentences
+- `chula-l5-230` : ประวัติ (history, background, record) : 1 meaning(s), 2 sentences
+- `chula-l5-236` : สลับ (to swap, to switch) : 1 meaning(s), 2 sentences
+- `chula-l5-239` : หัวข้อ (topic) : 1 meaning(s), 2 sentences
+- `chula-l5-240` : ปน (to mix, to blend, to mingle) : 1 meaning(s), 2 sentences
+- `chula-l5-247` : กรณี (case) : 1 meaning(s), 2 sentences
+- `chula-l5-256` : ยากันยุง (mosquito repellent) : 1 meaning(s), 2 sentences
+- `chula-l5-257` : ซ้ำ (to repeat, repeatedly, again) : 1 meaning(s), 2 sentences
+- `chula-l5-261` : ผิดปกติ (abnormal) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
