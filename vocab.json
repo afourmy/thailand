@@ -44605,7 +44605,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take over (a business, project) from someone",
+        "sentences": [
+          {
+            "thai": "ลูกชายรับช่วงกิจการต่อจากพ่อ",
+            "en": "The son took over the business from his father.",
+            "audio_src": "ลูกชายรับช่วงกิจการต่อจากพ่อ",
+            "audio_en_src": "The son took over the business from his father."
+          },
+          {
+            "thai": "เขารับช่วงโปรเจกต์ต่อจากเพื่อนที่ลาออก",
+            "en": "He took over the project from a colleague who resigned.",
+            "audio_src": "เขารับช่วงโปรเจกต์ต่อจากเพื่อนที่ลาออก",
+            "audio_en_src": "He took over the project from a colleague who resigned."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-629",
@@ -44617,7 +44636,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to raise one's voice",
+        "sentences": [
+          {
+            "thai": "เขาขึ้นเสียงใส่ลูกน้องตอนโมโห",
+            "en": "He raised his voice at his subordinate when angry.",
+            "audio_src": "เขาขึ้นเสียงใส่ลูกน้องตอนโมโห",
+            "audio_en_src": "He raised his voice at his subordinate when angry."
+          },
+          {
+            "thai": "อย่าขึ้นเสียงกับพ่อแม่นะ",
+            "en": "Don't raise your voice at your parents.",
+            "audio_src": "อย่าขึ้นเสียงกับพ่อแม่นะ",
+            "audio_en_src": "Don't raise your voice at your parents."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-630",
@@ -44640,7 +44678,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "inferior, low",
+        "sentences": [
+          {
+            "thai": "เขารู้สึกด้อยเมื่ออยู่กับคนเก่งกว่า",
+            "en": "He feels inferior when he's around people more capable than him.",
+            "audio_src": "เขารู้สึกด้อยเมื่ออยู่กับคนเก่งกว่า",
+            "audio_en_src": "He feels inferior when he's around people more capable than him."
+          },
+          {
+            "thai": "สินค้าราคาถูกมักมีคุณภาพด้อย",
+            "en": "Cheap products often have low quality.",
+            "audio_src": "สินค้าราคาถูกมักมีคุณภาพด้อย",
+            "audio_en_src": "Cheap products often have low quality."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-632",
@@ -44652,7 +44709,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "inferior, lesser than",
+        "sentences": [
+          {
+            "thai": "รุ่นนี้สเปกด้อยกว่ารุ่นใหม่นิดหน่อย",
+            "en": "This model's specs are a little inferior to the new one.",
+            "audio_src": "รุ่นนี้สเปกด้อยกว่ารุ่นใหม่นิดหน่อย",
+            "audio_en_src": "This model's specs are a little inferior to the new one."
+          },
+          {
+            "thai": "อย่าคิดว่าตัวเองด้อยกว่าคนอื่น",
+            "en": "Don't think you're lesser than others.",
+            "audio_src": "อย่าคิดว่าตัวเองด้อยกว่าคนอื่น",
+            "audio_en_src": "Don't think you're lesser than others."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-633",
@@ -44700,7 +44776,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "classifier for eggs",
+        "sentences": [
+          {
+            "thai": "ซื้อไข่ไก่มาสิบฟอง",
+            "en": "I bought ten eggs.",
+            "audio_src": "ซื้อไข่ไก่มาสิบฟอง",
+            "audio_en_src": "I bought ten eggs."
+          },
+          {
+            "thai": "สูตรนี้ใช้ไข่สามฟอง",
+            "en": "This recipe uses three eggs.",
+            "audio_src": "สูตรนี้ใช้ไข่สามฟอง",
+            "audio_en_src": "This recipe uses three eggs."
+          }
+        ]
+      },
+      {
+        "meaning": "bubble, foam",
+        "sentences": [
+          {
+            "thai": "เด็กชอบเป่าฟองสบู่เล่น",
+            "en": "Kids like to blow soap bubbles for fun.",
+            "audio_src": "เด็กชอบเป่าฟองสบู่เล่น",
+            "audio_en_src": "Kids like to blow soap bubbles for fun."
+          },
+          {
+            "thai": "เบียร์แก้วนี้ฟองเยอะมาก",
+            "en": "This glass of beer has a lot of foam.",
+            "audio_src": "เบียร์แก้วนี้ฟองเยอะมาก",
+            "audio_en_src": "This glass of beer has a lot of foam."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-635",
@@ -44755,7 +44867,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to improve, to ease up, to resolve",
+        "sentences": [
+          {
+            "thai": "สถานการณ์เริ่มคลี่คลายหลังเจรจากัน",
+            "en": "The situation started to ease after they negotiated.",
+            "audio_src": "สถานการณ์เริ่มคลี่คลายหลังเจรจากัน",
+            "audio_en_src": "The situation started to ease after they negotiated."
+          },
+          {
+            "thai": "ปัญหาคลี่คลายไปในทางที่ดี",
+            "en": "The problem resolved in a good direction.",
+            "audio_src": "ปัญหาคลี่คลายไปในทางที่ดี",
+            "audio_en_src": "The problem resolved in a good direction."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-640",
@@ -44855,7 +44986,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "tightly closed, sealed",
+        "sentences": [
+          {
+            "thai": "ปิดฝากล่องให้มิดชิดกันมดเข้า",
+            "en": "Close the box lid tightly to keep ants out.",
+            "audio_src": "ปิดฝากล่องให้มิดชิดกันมดเข้า",
+            "audio_en_src": "Close the box lid tightly to keep ants out."
+          },
+          {
+            "thai": "เก็บอาหารในกล่องที่ปิดมิดชิด",
+            "en": "Store the food in a tightly sealed container.",
+            "audio_src": "เก็บอาหารในกล่องที่ปิดมิดชิด",
+            "audio_en_src": "Store the food in a tightly sealed container."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-644",
@@ -44929,7 +45079,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to form a group, to group up",
+        "sentences": [
+          {
+            "thai": "ครูให้นักเรียนจับกลุ่มทำงาน",
+            "en": "The teacher had the students group up to work.",
+            "audio_src": "ครูให้นักเรียนจับกลุ่มทำงาน",
+            "audio_en_src": "The teacher had the students group up to work."
+          },
+          {
+            "thai": "พนักงานจับกลุ่มคุยกันตอนพักเที่ยง",
+            "en": "The employees gathered in groups to chat during lunch break.",
+            "audio_src": "พนักงานจับกลุ่มคุยกันตอนพักเที่ยง",
+            "audio_en_src": "The employees gathered in groups to chat during lunch break."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-651",
@@ -44961,7 +45130,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "general knowledge",
+        "sentences": [
+          {
+            "thai": "การอ่านข่าวช่วยเพิ่มความรู้รอบตัว",
+            "en": "Reading the news helps build general knowledge.",
+            "audio_src": "การอ่านข่าวช่วยเพิ่มความรู้รอบตัว",
+            "audio_en_src": "Reading the news helps build general knowledge."
+          },
+          {
+            "thai": "เขามีความรู้รอบตัวดีมาก ตอบได้ทุกเรื่อง",
+            "en": "He has very good general knowledge, he can answer anything.",
+            "audio_src": "เขามีความรู้รอบตัวดีมาก ตอบได้ทุกเรื่อง",
+            "audio_en_src": "He has very good general knowledge, he can answer anything."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-655",
@@ -44983,7 +45171,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "sub-topic",
+        "sentences": [
+          {
+            "thai": "บทนี้แบ่งออกเป็นหลายหัวข้อย่อย",
+            "en": "This chapter is divided into several sub-topics.",
+            "audio_src": "บทนี้แบ่งออกเป็นหลายหัวข้อย่อย",
+            "audio_en_src": "This chapter is divided into several sub-topics."
+          },
+          {
+            "thai": "ครูอธิบายหัวข้อย่อยทีละข้อ",
+            "en": "The teacher explained each sub-topic one by one.",
+            "audio_src": "ครูอธิบายหัวข้อย่อยทีละข้อ",
+            "audio_en_src": "The teacher explained each sub-topic one by one."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-657",

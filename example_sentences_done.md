@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1894 words**
+**Total: 1904 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -884,9 +884,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-620` : สุขสบาย (comfortable and happy, at ease) : 1 meaning(s), 2 sentences
 - `tamago-l3-621` : เจ๋ง (cool, awesome (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-626` : ชะตาชีวิต (fate, destiny) : 1 meaning(s), 2 sentences
+- `tamago-l3-628` : รับช่วง (to take over (a business, project) from someone) : 1 meaning(s), 2 sentences
+- `tamago-l3-629` : ขึ้นเสียง (to raise one's voice) : 1 meaning(s), 2 sentences
+- `tamago-l3-631` : ด้อย (inferior, low) : 1 meaning(s), 2 sentences
+- `tamago-l3-632` : ด้อยกว่า (inferior, lesser than) : 1 meaning(s), 2 sentences
 - `tamago-l3-633` : สนับสนุน (to support, to back up, to promote) : 1 meaning(s), 2 sentences
+- `tamago-l3-634` : ฟอง (classifier for eggs; bubble, foam) : 2 meaning(s), 4 sentences
+- `tamago-l3-639` : คลี่คลาย (to improve, to ease up, to resolve) : 1 meaning(s), 2 sentences
 - `tamago-l3-640` : ย่าน (area, zone, neighborhood) : 1 meaning(s), 2 sentences
 - `tamago-l3-641` : สดๆ (fresh; new, very recent) : 2 meaning(s), 4 sentences
+- `tamago-l3-642` : มิดชิด (tightly closed, sealed) : 1 meaning(s), 2 sentences
+- `tamago-l3-650` : จับกลุ่ม (to form a group, to group up) : 1 meaning(s), 2 sentences
+- `tamago-l3-654` : ความรู้รอบตัว (general knowledge) : 1 meaning(s), 2 sentences
+- `tamago-l3-656` : หัวข้อย่อย (sub-topic) : 1 meaning(s), 2 sentences
 - `tamago-l3-702` : ช่าง (to disregard, to ignore; how (+ adjective) (exclamation, "so + adjective")) : 2 meaning(s), 4 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
