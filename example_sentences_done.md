@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1584 words**
+**Total: 1594 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -418,6 +418,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-346` : ยิ่ง, ยิ่งขึ้น (more (so), even more) : 1 meaning(s), 2 sentences
 - `tamago-l12-347` : ยุติธรรม (fair, just) : 1 meaning(s), 2 sentences
 - `tamago-l12-348` : ยุ่งยาก (complicated, troublesome) : 1 meaning(s), 2 sentences
+- `tamago-l12-350` : ย้อม (to dye (hair, fabric)) : 1 meaning(s), 2 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
 - `tamago-l12-352` : รดน้ำ (to water (plants), to pour water) : 1 meaning(s), 2 sentences
 - `tamago-l12-353` : รถตู้ (minivan (taxi or shuttle)) : 1 meaning(s), 2 sentences
@@ -425,18 +426,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-359` : รวม (to include, including; total) : 2 meaning(s), 4 sentences
 - `tamago-l12-360` : รวมกัน (together, combined) : 1 meaning(s), 2 sentences
 - `tamago-l12-361` : รองเท้าผ้าใบ (sneakers) : 1 meaning(s), 2 sentences
+- `tamago-l12-362` : รองเท้าส้นสูง (high-heeled shoes) : 1 meaning(s), 2 sentences
 - `tamago-l12-366` : รับ (to pick someone up; to receive) : 2 meaning(s), 4 sentences
 - `tamago-l12-367` : รับผิดชอบ (to take responsibility, to be responsible) : 1 meaning(s), 2 sentences
 - `tamago-l12-368` : รับสาย (to answer a call, pick up the phone) : 1 meaning(s), 2 sentences
+- `tamago-l12-369` : ราว (about, approximately; handrail, railing) : 2 meaning(s), 4 sentences
+- `tamago-l12-370` : ริม (edge, rim, side) : 1 meaning(s), 2 sentences
 - `tamago-l12-371` : รุ่นน้อง (junior (younger schoolmate)) : 1 meaning(s), 2 sentences
 - `tamago-l12-372` : รุ่นพี่ (senior (older schoolmate)) : 1 meaning(s), 2 sentences
 - `tamago-l12-374` : ภาพ, รูปภาพ (picture, image, painting) : 1 meaning(s), 2 sentences
+- `tamago-l12-375` : ร่วง (to fall (off), to drop (e.g in large quantity like hairs)) : 1 meaning(s), 2 sentences
+- `tamago-l12-379` : ละเอียด (detailed, thorough, fine (granular)) : 1 meaning(s), 2 sentences
 - `tamago-l12-380` : ลาน (yard, open area) : 1 meaning(s), 2 sentences
 - `tamago-l12-381` : ลานจอดรถ (parking lot) : 1 meaning(s), 2 sentences
+- `tamago-l12-384` : ลูกน้อง (subordinate, underling) : 1 meaning(s), 2 sentences
+- `tamago-l12-385` : ลูกไม้ (lace (fabric); trick, maneuver) : 2 meaning(s), 4 sentences
 - `tamago-l12-387` : ล่าสุด (most recent, latest) : 1 meaning(s), 2 sentences
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
 - `tamago-l12-390` : วันก่อน (the other day) : 1 meaning(s), 2 sentences
 - `tamago-l12-396` : วิชา (subject, field of study) : 1 meaning(s), 2 sentences
+- `tamago-l12-399` : วิเศษ (magic, extraordinary, wonderful) : 1 meaning(s), 2 sentences
+- `tamago-l12-400` : วิ่งผ่าน (to pass through (running, driving)) : 1 meaning(s), 2 sentences
 - `tamago-l12-403` : ว่าแต่ (by the way) : 1 meaning(s), 2 sentences
 - `tamago-l12-416` : สระผม (to wash one's hair, to shampoo) : 1 meaning(s), 2 sentences
 - `tamago-l12-418` : สวนสาธารณะ (public park) : 1 meaning(s), 2 sentences

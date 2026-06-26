@@ -23554,7 +23554,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to dye (hair, fabric)",
+        "sentences": [
+          {
+            "thai": "เธอย้อมผมเป็นสีน้ำตาล",
+            "en": "She dyed her hair brown.",
+            "audio_src": "เธอย้อมผมเป็นสีน้ำตาล",
+            "audio_en_src": "She dyed her hair brown."
+          },
+          {
+            "thai": "เขาย้อมเสื้อเก่าให้เป็นสีใหม่",
+            "en": "He dyed the old shirt a new color.",
+            "audio_src": "เขาย้อมเสื้อเก่าให้เป็นสีใหม่",
+            "audio_en_src": "He dyed the old shirt a new color."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-351",
@@ -23884,7 +23903,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "high-heeled shoes",
+        "sentences": [
+          {
+            "thai": "ใส่รองเท้าส้นสูงทั้งวันจนเท้าเจ็บ",
+            "en": "I wore high heels all day until my feet hurt.",
+            "audio_src": "ใส่รองเท้าส้นสูงทั้งวันจนเท้าเจ็บ",
+            "audio_en_src": "I wore high heels all day until my feet hurt."
+          },
+          {
+            "thai": "เธอใส่รองเท้าส้นสูงไปงานแต่งงาน",
+            "en": "She wore high heels to the wedding.",
+            "audio_src": "เธอใส่รองเท้าส้นสูงไปงานแต่งงาน",
+            "audio_en_src": "She wore high heels to the wedding."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-364",
@@ -24043,7 +24081,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "about, approximately",
+        "sentences": [
+          {
+            "thai": "มีคนมางานราวร้อยคน",
+            "en": "About a hundred people came to the event.",
+            "audio_src": "มีคนมางานราวร้อยคน",
+            "audio_en_src": "About a hundred people came to the event."
+          },
+          {
+            "thai": "เขาน่าจะอายุราวสามสิบปี",
+            "en": "He's probably around thirty years old.",
+            "audio_src": "เขาน่าจะอายุราวสามสิบปี",
+            "audio_en_src": "He's probably around thirty years old."
+          }
+        ]
+      },
+      {
+        "meaning": "handrail, railing",
+        "sentences": [
+          {
+            "thai": "จับราวบันไดไว้ด้วยนะ เดี๋ยวลื่น",
+            "en": "Hold the stair railing, you might slip.",
+            "audio_src": "จับราวบันไดไว้ด้วยนะ เดี๋ยวลื่น",
+            "audio_en_src": "Hold the stair railing, you might slip."
+          },
+          {
+            "thai": "เขาตากผ้าไว้บนราวหลังบ้าน",
+            "en": "He hung the laundry on the rail behind the house.",
+            "audio_src": "เขาตากผ้าไว้บนราวหลังบ้าน",
+            "audio_en_src": "He hung the laundry on the rail behind the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-370",
@@ -24058,7 +24132,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "edge, rim, side",
+        "sentences": [
+          {
+            "thai": "บ้านเขาอยู่ริมแม่น้ำ",
+            "en": "His house is by the riverside.",
+            "audio_src": "บ้านเขาอยู่ริมแม่น้ำ",
+            "audio_en_src": "His house is by the riverside."
+          },
+          {
+            "thai": "อย่ายืนริมหน้าผา อันตราย",
+            "en": "Don't stand at the edge of the cliff, it's dangerous.",
+            "audio_src": "อย่ายืนริมหน้าผา อันตราย",
+            "audio_en_src": "Don't stand at the edge of the cliff, it's dangerous."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-371",
@@ -24174,7 +24267,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to fall (off), to drop (e.g in large quantity like hairs)",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ผมร่วงเยอะมาก",
+            "en": "My hair has been falling out a lot lately.",
+            "audio_src": "ช่วงนี้ผมร่วงเยอะมาก",
+            "audio_en_src": "My hair has been falling out a lot lately."
+          },
+          {
+            "thai": "ใบไม้ร่วงเต็มพื้นในหน้าหนาว",
+            "en": "Leaves fall all over the ground in winter.",
+            "audio_src": "ใบไม้ร่วงเต็มพื้นในหน้าหนาว",
+            "audio_en_src": "Leaves fall all over the ground in winter."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-377",
@@ -24208,7 +24320,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "detailed, thorough, fine (granular)",
+        "sentences": [
+          {
+            "thai": "เขาอธิบายทุกขั้นตอนอย่างละเอียด",
+            "en": "He explained every step in detail.",
+            "audio_src": "เขาอธิบายทุกขั้นตอนอย่างละเอียด",
+            "audio_en_src": "He explained every step in detail."
+          },
+          {
+            "thai": "บดพริกไทยให้ละเอียดก่อนใส่",
+            "en": "Grind the pepper fine before adding it.",
+            "audio_src": "บดพริกไทยให้ละเอียดก่อนใส่",
+            "audio_en_src": "Grind the pepper fine before adding it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-380",
@@ -24300,7 +24431,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "subordinate, underling",
+        "sentences": [
+          {
+            "thai": "เขาดูแลลูกน้องในทีมดีมาก",
+            "en": "He takes good care of his subordinates on the team.",
+            "audio_src": "เขาดูแลลูกน้องในทีมดีมาก",
+            "audio_en_src": "He takes good care of his subordinates on the team."
+          },
+          {
+            "thai": "เจ้านายใช้ลูกน้องทำงานหนัก",
+            "en": "The boss makes his underlings work hard.",
+            "audio_src": "เจ้านายใช้ลูกน้องทำงานหนัก",
+            "audio_en_src": "The boss makes his underlings work hard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-385",
@@ -24312,7 +24462,43 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "lace (fabric)",
+        "sentences": [
+          {
+            "thai": "เธอใส่เสื้อลูกไม้สีขาว",
+            "en": "She wears a white lace blouse.",
+            "audio_src": "เธอใส่เสื้อลูกไม้สีขาว",
+            "audio_en_src": "She wears a white lace blouse."
+          },
+          {
+            "thai": "ชุดแต่งงานปักลูกไม้สวยมาก",
+            "en": "The wedding dress is embroidered with beautiful lace.",
+            "audio_src": "ชุดแต่งงานปักลูกไม้สวยมาก",
+            "audio_en_src": "The wedding dress is embroidered with beautiful lace."
+          }
+        ]
+      },
+      {
+        "meaning": "trick, maneuver",
+        "sentences": [
+          {
+            "thai": "นักมวยคนนี้ลูกไม้เยอะ",
+            "en": "This boxer has a lot of tricks.",
+            "audio_src": "นักมวยคนนี้ลูกไม้เยอะ",
+            "audio_en_src": "This boxer has a lot of tricks."
+          },
+          {
+            "thai": "เขารู้ทันลูกไม้ของคู่แข่ง",
+            "en": "He saw through his rival's tricks.",
+            "audio_src": "เขารู้ทันลูกไม้ของคู่แข่ง",
+            "audio_en_src": "He saw through his rival's tricks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-386",
@@ -24576,7 +24762,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "magic, extraordinary, wonderful",
+        "sentences": [
+          {
+            "thai": "ในนิทาน นางฟ้ามีไม้กายสิทธิ์วิเศษ",
+            "en": "In the tale, the fairy has a magic wand.",
+            "audio_src": "ในนิทาน นางฟ้ามีไม้กายสิทธิ์วิเศษ",
+            "audio_en_src": "In the tale, the fairy has a magic wand."
+          },
+          {
+            "thai": "วันนี้อากาศดี เป็นวันที่วิเศษมาก",
+            "en": "The weather's nice today, it's a wonderful day.",
+            "audio_src": "วันนี้อากาศดี เป็นวันที่วิเศษมาก",
+            "audio_en_src": "The weather's nice today, it's a wonderful day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-400",
@@ -24588,7 +24793,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pass through (running, driving)",
+        "sentences": [
+          {
+            "thai": "มีรถวิ่งผ่านหน้าบ้านทั้งวัน",
+            "en": "Cars pass by in front of the house all day.",
+            "audio_src": "มีรถวิ่งผ่านหน้าบ้านทั้งวัน",
+            "audio_en_src": "Cars pass by in front of the house all day."
+          },
+          {
+            "thai": "เขาวิ่งผ่านฉันไปโดยไม่ทักทาย",
+            "en": "He ran past me without saying hi.",
+            "audio_src": "เขาวิ่งผ่านฉันไปโดยไม่ทักทาย",
+            "audio_en_src": "He ran past me without saying hi."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-401",
