@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1684 words**
+**Total: 1694 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -610,15 +610,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-038` : แย่แล้ว ("oh shoot", "oh no") : 1 meaning(s), 2 sentences
 - `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
 - `tamago-l3-040` : สุดโต่ง (extreme, radical) : 1 meaning(s), 2 sentences
+- `tamago-l3-041` : คงที่ (stable, constant, unchanging) : 1 meaning(s), 2 sentences
+- `tamago-l3-044` : แรงกระตุ้น (motivation) : 1 meaning(s), 2 sentences
 - `tamago-l3-045` : งานบ้าน (housework) : 1 meaning(s), 2 sentences
 - `tamago-l3-046` : เอาเหอะ ("never mind", "whatever", "forget about it") : 1 meaning(s), 2 sentences
+- `tamago-l3-048` : บริสุทธิ์ (pure, innocent, virgin) : 1 meaning(s), 2 sentences
 - `tamago-l3-049` : เพียบ (a lot, plenty, full, tons of) : 1 meaning(s), 2 sentences
 - `tamago-l3-051` : สะใจ (satisfied, relieved (especially after revenge (schadenfreude) or achievement)) : 1 meaning(s), 2 sentences
+- `tamago-l3-053` : รังแก (to bully) : 1 meaning(s), 2 sentences
+- `tamago-l3-054` : ดูถูก (to insult, to look down on, to belittle) : 1 meaning(s), 2 sentences
 - `tamago-l3-056` : ใจ, จิตใจ (heart, mind, spirit) : 1 meaning(s), 2 sentences
+- `tamago-l3-059` : ลงโทษ, ทำโทษ (to punish) : 1 meaning(s), 2 sentences
+- `tamago-l3-061` : จ้อง (to stare, to focus intensely on something over a long period) : 1 meaning(s), 2 sentences
 - `tamago-l3-062` : ลุก (to stand up, get up; (of fire) to ignite, to burn) : 2 meaning(s), 4 sentences
+- `tamago-l3-064` : สั่งสอน (to teach, to instruct (with discipline)) : 1 meaning(s), 2 sentences
 - `tamago-l3-071` : ย่าง (to grill, to roast; (literary) to step into, to be approaching (a season, age)) : 2 meaning(s), 4 sentences
 - `tamago-l3-075` : แนว (genre, style) : 1 meaning(s), 2 sentences
 - `tamago-l3-076` : รายการ (TV show, program; list, item) : 2 meaning(s), 4 sentences
+- `tamago-l3-077` : คิดเลข (to calculate, to do arithmetic) : 1 meaning(s), 2 sentences
+- `tamago-l3-078` : อวด, โอ้อวด (to show off, to brag) : 1 meaning(s), 2 sentences
 - `tamago-l3-088` : ทันสมัย (up-to-date, modern) : 1 meaning(s), 2 sentences
 - `tamago-l3-097` : แอบ (secretly, without others knowing; a little, slightly) : 2 meaning(s), 4 sentences
 - `tamago-l3-098` : โล่งใจ, โล่งอก (relieved, to feel relieved) : 1 meaning(s), 2 sentences

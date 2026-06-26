@@ -32364,7 +32364,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stable, constant, unchanging",
+        "sentences": [
+          {
+            "thai": "ราคาสินค้าทรงตัวคงที่มาหลายเดือน",
+            "en": "Product prices have stayed stable for months.",
+            "audio_src": "ราคาสินค้าทรงตัวคงที่มาหลายเดือน",
+            "audio_en_src": "Product prices have stayed stable for months."
+          },
+          {
+            "thai": "อุณหภูมิในห้องนี้คงที่ตลอดเวลา",
+            "en": "The temperature in this room stays constant all the time.",
+            "audio_src": "อุณหภูมิในห้องนี้คงที่ตลอดเวลา",
+            "audio_en_src": "The temperature in this room stays constant all the time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-042",
@@ -32396,7 +32415,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "motivation",
+        "sentences": [
+          {
+            "thai": "รางวัลเป็นแรงกระตุ้นให้พนักงานทำงานหนักขึ้น",
+            "en": "The reward is a motivation for employees to work harder.",
+            "audio_src": "รางวัลเป็นแรงกระตุ้นให้พนักงานทำงานหนักขึ้น",
+            "audio_en_src": "The reward is a motivation for employees to work harder."
+          },
+          {
+            "thai": "คำชมจากครูเป็นแรงกระตุ้นที่ดีสำหรับเด็ก",
+            "en": "Praise from the teacher is good motivation for kids.",
+            "audio_src": "คำชมจากครูเป็นแรงกระตุ้นที่ดีสำหรับเด็ก",
+            "audio_en_src": "Praise from the teacher is good motivation for kids."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-045",
@@ -32487,7 +32525,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "pure, innocent, virgin",
+        "sentences": [
+          {
+            "thai": "น้ำพุนี้สะอาดบริสุทธิ์ ดื่มได้เลย",
+            "en": "This spring water is pure and clean, you can drink it.",
+            "audio_src": "น้ำพุนี้สะอาดบริสุทธิ์ ดื่มได้เลย",
+            "audio_en_src": "This spring water is pure and clean, you can drink it."
+          },
+          {
+            "thai": "ศาลตัดสินว่าเขาเป็นผู้บริสุทธิ์",
+            "en": "The court ruled that he was innocent.",
+            "audio_src": "ศาลตัดสินว่าเขาเป็นผู้บริสุทธิ์",
+            "audio_en_src": "The court ruled that he was innocent."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-049",
@@ -32585,7 +32642,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to bully",
+        "sentences": [
+          {
+            "thai": "เด็กโตชอบรังแกเด็กเล็กที่โรงเรียน",
+            "en": "Older kids like to bully the younger ones at school.",
+            "audio_src": "เด็กโตชอบรังแกเด็กเล็กที่โรงเรียน",
+            "audio_en_src": "Older kids like to bully the younger ones at school."
+          },
+          {
+            "thai": "อย่ารังแกคนที่อ่อนแอกว่า",
+            "en": "Don't bully those who are weaker.",
+            "audio_src": "อย่ารังแกคนที่อ่อนแอกว่า",
+            "audio_en_src": "Don't bully those who are weaker."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-054",
@@ -32600,7 +32676,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to insult, to look down on, to belittle",
+        "sentences": [
+          {
+            "thai": "อย่าดูถูกคนอื่นเพราะเขาจนกว่า",
+            "en": "Don't look down on others because they're poorer.",
+            "audio_src": "อย่าดูถูกคนอื่นเพราะเขาจนกว่า",
+            "audio_en_src": "Don't look down on others because they're poorer."
+          },
+          {
+            "thai": "เขารู้สึกถูกดูถูกเรื่องการศึกษา",
+            "en": "He felt belittled about his education.",
+            "audio_src": "เขารู้สึกถูกดูถูกเรื่องการศึกษา",
+            "audio_en_src": "He felt belittled about his education."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-055",
@@ -32684,7 +32779,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to punish",
+        "sentences": [
+          {
+            "thai": "ครูลงโทษนักเรียนที่มาสายบ่อย",
+            "en": "The teacher punishes students who are often late.",
+            "audio_src": "ครูลงโทษนักเรียนที่มาสายบ่อย",
+            "audio_en_src": "The teacher punishes students who are often late."
+          },
+          {
+            "thai": "พ่อแม่ไม่ควรลงโทษลูกด้วยความรุนแรง",
+            "en": "Parents shouldn't punish their children harshly.",
+            "audio_src": "พ่อแม่ไม่ควรลงโทษลูกด้วยความรุนแรง",
+            "audio_en_src": "Parents shouldn't punish their children harshly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-060",
@@ -32707,7 +32821,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to stare, to focus intensely on something over a long period",
+        "sentences": [
+          {
+            "thai": "แมวจ้องนกอยู่นอกหน้าต่างไม่ละสายตา",
+            "en": "The cat stares at the bird outside the window without looking away.",
+            "audio_src": "แมวจ้องนกอยู่นอกหน้าต่างไม่ละสายตา",
+            "audio_en_src": "The cat stares at the bird outside the window without looking away."
+          },
+          {
+            "thai": "เขาจ้องหน้าจอคอมพิวเตอร์ทั้งวันจนตาล้า",
+            "en": "He stares at the computer screen all day until his eyes get tired.",
+            "audio_src": "เขาจ้องหน้าจอคอมพิวเตอร์ทั้งวันจนตาล้า",
+            "audio_en_src": "He stares at the computer screen all day until his eyes get tired."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-062",
@@ -32784,7 +32917,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to teach, to instruct (with discipline)",
+        "sentences": [
+          {
+            "thai": "พ่อแม่สั่งสอนให้ลูกเป็นคนดี",
+            "en": "Parents teach their children to be good people.",
+            "audio_src": "พ่อแม่สั่งสอนให้ลูกเป็นคนดี",
+            "audio_en_src": "Parents teach their children to be good people."
+          },
+          {
+            "thai": "ครูสั่งสอนเด็กให้มีระเบียบวินัย",
+            "en": "The teacher instructs children to be disciplined.",
+            "audio_src": "ครูสั่งสอนเด็กให้มีระเบียบวินัย",
+            "audio_en_src": "The teacher instructs children to be disciplined."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-065",
@@ -33029,7 +33181,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to calculate, to do arithmetic",
+        "sentences": [
+          {
+            "thai": "เขาคิดเลขในใจได้เร็วมาก",
+            "en": "He does mental arithmetic very quickly.",
+            "audio_src": "เขาคิดเลขในใจได้เร็วมาก",
+            "audio_en_src": "He does mental arithmetic very quickly."
+          },
+          {
+            "thai": "ครูให้นักเรียนคิดเลขโจทย์นี้",
+            "en": "The teacher had the students work out this math problem.",
+            "audio_src": "ครูให้นักเรียนคิดเลขโจทย์นี้",
+            "audio_en_src": "The teacher had the students work out this math problem."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-078",
@@ -33045,7 +33216,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to show off, to brag",
+        "sentences": [
+          {
+            "thai": "เขาชอบอวดรถใหม่กับเพื่อนๆ",
+            "en": "He likes to show off his new car to his friends.",
+            "audio_src": "เขาชอบอวดรถใหม่กับเพื่อนๆ",
+            "audio_en_src": "He likes to show off his new car to his friends."
+          },
+          {
+            "thai": "เธอเอาแต่โอ้อวดว่าตัวเองเก่ง",
+            "en": "She just keeps bragging about how good she is.",
+            "audio_src": "เธอเอาแต่โอ้อวดว่าตัวเองเก่ง",
+            "audio_en_src": "She just keeps bragging about how good she is."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-079",
