@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1764 words**
+**Total: 1774 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -736,7 +736,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-295` : ประมาณว่า... ("roughly speaking, ...", "something like...") : 1 meaning(s), 2 sentences
 - `tamago-l3-298` : เศรษฐี (millionaire, rich person) : 1 meaning(s), 2 sentences
 - `tamago-l3-300` : ส่อง (to shine on, to look through (binoculars, microscope); to stalk online) : 2 meaning(s), 4 sentences
+- `tamago-l3-301` : เบื้องหลัง (behind the scenes, in the background) : 1 meaning(s), 2 sentences
+- `tamago-l3-302` : กลยุทธ์ (strategy) : 1 meaning(s), 2 sentences
+- `tamago-l3-309` : ฉายา (alias, nickname) : 1 meaning(s), 2 sentences
+- `tamago-l3-310` : วาดฝัน (to dream of, to envision) : 1 meaning(s), 2 sentences
+- `tamago-l3-311` : เข้าแถว (to line up, to form a line) : 1 meaning(s), 2 sentences
+- `tamago-l3-313` : ปะปน (to be mixed (together)) : 1 meaning(s), 2 sentences
+- `tamago-l3-315` : ทั่วถึง (thoroughly, comprehensively, all over) : 1 meaning(s), 2 sentences
 - `tamago-l3-316` : บ้านเรา ((colloquial) refers to Thailand, "our country") : 1 meaning(s), 2 sentences
+- `tamago-l3-317` : รถเข็น (cart, stroller, wheelchair) : 1 meaning(s), 3 sentences
+- `tamago-l3-319` : มอบ (to give, to present (often formally)) : 1 meaning(s), 2 sentences
+- `tamago-l3-320` : ล้มเลิก (to cancel, to abandon, to call off) : 1 meaning(s), 2 sentences
 - `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ("whatever!", "never mind", "forget about it!") : 1 meaning(s), 2 sentences
 - `tamago-l3-356` : สั่ง (to order (someone to do something, food, goods)) : 1 meaning(s), 3 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences

@@ -37937,7 +37937,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "behind the scenes, in the background",
+        "sentences": [
+          {
+            "thai": "ความสำเร็จนี้มีทีมงานเบื้องหลังคอยช่วย",
+            "en": "Behind this success is a team helping out behind the scenes.",
+            "audio_src": "ความสำเร็จนี้มีทีมงานเบื้องหลังคอยช่วย",
+            "audio_en_src": "Behind this success is a team helping out behind the scenes."
+          },
+          {
+            "thai": "เขาทำงานอยู่เบื้องหลังไม่ชอบออกหน้า",
+            "en": "He works behind the scenes and doesn't like the spotlight.",
+            "audio_src": "เขาทำงานอยู่เบื้องหลังไม่ชอบออกหน้า",
+            "audio_en_src": "He works behind the scenes and doesn't like the spotlight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-302",
@@ -37950,7 +37969,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "strategy",
+        "sentences": [
+          {
+            "thai": "บริษัทวางกลยุทธ์การตลาดใหม่",
+            "en": "The company laid out a new marketing strategy.",
+            "audio_src": "บริษัทวางกลยุทธ์การตลาดใหม่",
+            "audio_en_src": "The company laid out a new marketing strategy."
+          },
+          {
+            "thai": "ทีมเปลี่ยนกลยุทธ์ในครึ่งหลังของเกม",
+            "en": "The team changed strategy in the second half of the game.",
+            "audio_src": "ทีมเปลี่ยนกลยุทธ์ในครึ่งหลังของเกม",
+            "audio_en_src": "The team changed strategy in the second half of the game."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-303",
@@ -38024,7 +38062,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "alias, nickname",
+        "sentences": [
+          {
+            "thai": "นักมวยคนนี้มีฉายาว่าเสือดำ",
+            "en": "This boxer has the nickname Black Tiger.",
+            "audio_src": "นักมวยคนนี้มีฉายาว่าเสือดำ",
+            "audio_en_src": "This boxer has the nickname Black Tiger."
+          },
+          {
+            "thai": "เพื่อนตั้งฉายาให้เขาเพราะตัวสูง",
+            "en": "His friends gave him a nickname because he's tall.",
+            "audio_src": "เพื่อนตั้งฉายาให้เขาเพราะตัวสูง",
+            "audio_en_src": "His friends gave him a nickname because he's tall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-310",
@@ -38036,7 +38093,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to dream of, to envision",
+        "sentences": [
+          {
+            "thai": "เธอวาดฝันอยากเปิดร้านกาแฟของตัวเอง",
+            "en": "She dreams of opening her own coffee shop.",
+            "audio_src": "เธอวาดฝันอยากเปิดร้านกาแฟของตัวเอง",
+            "audio_en_src": "She dreams of opening her own coffee shop."
+          },
+          {
+            "thai": "เขาวาดฝันถึงอนาคตที่สดใส",
+            "en": "He envisions a bright future.",
+            "audio_src": "เขาวาดฝันถึงอนาคตที่สดใส",
+            "audio_en_src": "He envisions a bright future."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-311",
@@ -38048,7 +38124,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to line up, to form a line",
+        "sentences": [
+          {
+            "thai": "นักเรียนเข้าแถวเคารพธงชาติตอนเช้า",
+            "en": "Students line up for the flag ceremony in the morning.",
+            "audio_src": "นักเรียนเข้าแถวเคารพธงชาติตอนเช้า",
+            "audio_en_src": "Students line up for the flag ceremony in the morning."
+          },
+          {
+            "thai": "กรุณาเข้าแถวรอซื้อตั๋วตามลำดับ",
+            "en": "Please line up to buy tickets in order.",
+            "audio_src": "กรุณาเข้าแถวรอซื้อตั๋วตามลำดับ",
+            "audio_en_src": "Please line up to buy tickets in order."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-313",
@@ -38062,7 +38157,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be mixed (together)",
+        "sentences": [
+          {
+            "thai": "เสื้อผ้าสีปะปนกับผ้าขาวในเครื่องซัก",
+            "en": "Colored clothes got mixed with the whites in the wash.",
+            "audio_src": "เสื้อผ้าสีปะปนกับผ้าขาวในเครื่องซัก",
+            "audio_en_src": "Colored clothes got mixed with the whites in the wash."
+          },
+          {
+            "thai": "ในฝูงชนมีคนหลายเชื้อชาติปะปนกัน",
+            "en": "In the crowd, people of many nationalities were mixed together.",
+            "audio_src": "ในฝูงชนมีคนหลายเชื้อชาติปะปนกัน",
+            "audio_en_src": "In the crowd, people of many nationalities were mixed together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-314",
@@ -38087,7 +38201,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "thoroughly, comprehensively, all over",
+        "sentences": [
+          {
+            "thai": "แจกอาหารให้ทุกคนอย่างทั่วถึง",
+            "en": "Hand out food to everyone thoroughly.",
+            "audio_src": "แจกอาหารให้ทุกคนอย่างทั่วถึง",
+            "audio_en_src": "Hand out food to everyone thoroughly."
+          },
+          {
+            "thai": "สัญญาณไวไฟไม่ทั่วถึงทั้งบ้าน",
+            "en": "The WiFi signal doesn't reach all over the house.",
+            "audio_src": "สัญญาณไวไฟไม่ทั่วถึงทั้งบ้าน",
+            "audio_en_src": "The WiFi signal doesn't reach all over the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-316",
@@ -38133,7 +38266,32 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cart, stroller, wheelchair",
+        "sentences": [
+          {
+            "thai": "เธอเข็นรถเข็นเด็กไปเดินเล่นในสวน",
+            "en": "She pushed the stroller for a walk in the park.",
+            "audio_src": "เธอเข็นรถเข็นเด็กไปเดินเล่นในสวน",
+            "audio_en_src": "She pushed the stroller for a walk in the park."
+          },
+          {
+            "thai": "เขาหยิบรถเข็นเพื่อใส่ของในซูเปอร์มาร์เก็ต",
+            "en": "He grabbed a cart to put groceries in at the supermarket.",
+            "audio_src": "เขาหยิบรถเข็นเพื่อใส่ของในซูเปอร์มาร์เก็ต",
+            "audio_en_src": "He grabbed a cart to put groceries in at the supermarket."
+          },
+          {
+            "thai": "คุณยายนั่งรถเข็นเพราะเดินไม่สะดวก",
+            "en": "Grandma uses a wheelchair because she has trouble walking.",
+            "audio_src": "คุณยายนั่งรถเข็นเพราะเดินไม่สะดวก",
+            "audio_en_src": "Grandma uses a wheelchair because she has trouble walking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-318",
@@ -38158,7 +38316,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to give, to present (often formally)",
+        "sentences": [
+          {
+            "thai": "ผู้อำนวยการมอบรางวัลให้นักเรียนดีเด่น",
+            "en": "The director presented an award to the outstanding student.",
+            "audio_src": "ผู้อำนวยการมอบรางวัลให้นักเรียนดีเด่น",
+            "audio_en_src": "The director presented an award to the outstanding student."
+          },
+          {
+            "thai": "เขามอบดอกไม้ให้คุณแม่ในวันเกิด",
+            "en": "He gave flowers to his mother on her birthday.",
+            "audio_src": "เขามอบดอกไม้ให้คุณแม่ในวันเกิด",
+            "audio_en_src": "He gave flowers to his mother on her birthday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-320",
@@ -38170,7 +38347,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to cancel, to abandon, to call off",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักจนต้องล้มเลิกการเดินทาง",
+            "en": "It rained so heavily we had to call off the trip.",
+            "audio_src": "ฝนตกหนักจนต้องล้มเลิกการเดินทาง",
+            "audio_en_src": "It rained so heavily we had to call off the trip."
+          },
+          {
+            "thai": "เขาไม่ล้มเลิกความตั้งใจแม้จะเจออุปสรรค",
+            "en": "He didn't abandon his determination despite facing obstacles.",
+            "audio_src": "เขาไม่ล้มเลิกความตั้งใจแม้จะเจออุปสรรค",
+            "audio_en_src": "He didn't abandon his determination despite facing obstacles."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-321",
