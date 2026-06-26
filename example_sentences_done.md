@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1294 words**
+**Total: 1304 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -19,10 +19,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-035` : เครื่องหมาย (sign, symbol) : 1 meaning(s), 2 sentences
 - `chula-l4-036` : ช่อง (channel; gap, hole; (service) counter, window) : 3 meaning(s), 6 sentences
 - `chula-l4-038` : หุ่นยนต์ (robot) : 1 meaning(s), 2 sentences
+- `chula-l4-039` : เคารพ (to respect) : 1 meaning(s), 2 sentences
 - `chula-l4-045` : วัฒนธรรม (culture) : 1 meaning(s), 2 sentences
 - `chula-l4-046` : ประเพณี (tradition) : 1 meaning(s), 2 sentences
+- `chula-l4-052` : วัสดุ (material) : 1 meaning(s), 2 sentences
+- `chula-l4-062` : ปัก (to pin, to stick) : 1 meaning(s), 2 sentences
+- `chula-l4-069` : แม่น (accurate) : 1 meaning(s), 2 sentences
+- `chula-l4-076` : เผชิญหน้า (to face, to confront) : 1 meaning(s), 2 sentences
+- `chula-l4-103` : ที่อยู่อาศัย (residence) : 1 meaning(s), 2 sentences
+- `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
 - `chula-l4-121` : เต็มที่ (to the utmost, fully, totally, wholeheartedly, 100%) : 1 meaning(s), 2 sentences
+- `chula-l4-125` : งานประจำ (regular job, steady job) : 1 meaning(s), 2 sentences
+- `chula-l4-136` : เน่าเสีย (rotten, spoiled) : 1 meaning(s), 2 sentences
+- `chula-l4-137` : เร่งด่วน (urgent, priority) : 1 meaning(s), 2 sentences
 - `chula-l4-148` : เจ็บ (to hurt, to be sore (e.g external pain, injury)) : 1 meaning(s), 2 sentences
 - `chula-l4-149` : ปวด (to ache (e.g internal pain)) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences

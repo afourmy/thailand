@@ -835,7 +835,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to respect",
+        "sentences": [
+          {
+            "thai": "เราควรเคารพผู้ใหญ่",
+            "en": "We should respect our elders.",
+            "audio_src": "เราควรเคารพผู้ใหญ่",
+            "audio_en_src": "We should respect our elders."
+          },
+          {
+            "thai": "ผมเคารพการตัดสินใจของคุณ",
+            "en": "I respect your decision.",
+            "audio_src": "ผมเคารพการตัดสินใจของคุณ",
+            "audio_en_src": "I respect your decision."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-040",
@@ -1022,7 +1041,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "material",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายวัสดุก่อสร้าง",
+            "en": "This shop sells construction materials.",
+            "audio_src": "ร้านนี้ขายวัสดุก่อสร้าง",
+            "audio_en_src": "This shop sells construction materials."
+          },
+          {
+            "thai": "เก้าอี้ตัวนี้ทำจากวัสดุรีไซเคิล",
+            "en": "This chair is made from recycled materials.",
+            "audio_src": "เก้าอี้ตัวนี้ทำจากวัสดุรีไซเคิล",
+            "audio_en_src": "This chair is made from recycled materials."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-053",
@@ -1106,7 +1144,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pin, to stick",
+        "sentences": [
+          {
+            "thai": "ปักหมุดไว้บนแผนที่",
+            "en": "Put a pin on the map.",
+            "audio_src": "ปักหมุดไว้บนแผนที่",
+            "audio_en_src": "Put a pin on the map."
+          },
+          {
+            "thai": "เขาปักธงไว้บนยอดเขา",
+            "en": "He planted a flag on the mountaintop.",
+            "audio_src": "เขาปักธงไว้บนยอดเขา",
+            "audio_en_src": "He planted a flag on the mountaintop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-063",
@@ -1186,7 +1243,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "accurate",
+        "sentences": [
+          {
+            "thai": "เขายิงปืนแม่นมาก",
+            "en": "He's a very accurate shot.",
+            "audio_src": "เขายิงปืนแม่นมาก",
+            "audio_en_src": "He's a very accurate shot."
+          },
+          {
+            "thai": "หมอดูคนนี้ทายแม่น",
+            "en": "This fortune teller's predictions are spot on.",
+            "audio_src": "หมอดูคนนี้ทายแม่น",
+            "audio_en_src": "This fortune teller's predictions are spot on."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-070",
@@ -1268,7 +1344,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to face, to confront",
+        "sentences": [
+          {
+            "thai": "เราต้องเผชิญหน้ากับความจริง",
+            "en": "We have to face the truth.",
+            "audio_src": "เราต้องเผชิญหน้ากับความจริง",
+            "audio_en_src": "We have to face the truth."
+          },
+          {
+            "thai": "เขากล้าเผชิญหน้ากับปัญหา",
+            "en": "He's brave enough to confront his problems.",
+            "audio_src": "เขากล้าเผชิญหน้ากับปัญหา",
+            "audio_en_src": "He's brave enough to confront his problems."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-077",
@@ -1547,7 +1642,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "residence",
+        "sentences": [
+          {
+            "thai": "ราคาที่อยู่อาศัยในเมืองแพงขึ้นทุกปี",
+            "en": "Housing prices in the city go up every year.",
+            "audio_src": "ราคาที่อยู่อาศัยในเมืองแพงขึ้นทุกปี",
+            "audio_en_src": "Housing prices in the city go up every year."
+          },
+          {
+            "thai": "รัฐบาลสร้างที่อยู่อาศัยให้คนจน",
+            "en": "The government builds housing for the poor.",
+            "audio_src": "รัฐบาลสร้างที่อยู่อาศัยให้คนจน",
+            "audio_en_src": "The government builds housing for the poor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-104",
@@ -1714,7 +1828,26 @@
       "Chulalongkorn L4"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "opposite gender",
+        "sentences": [
+          {
+            "thai": "เขาเริ่มสนใจเพศตรงข้าม",
+            "en": "He's starting to take an interest in the opposite sex.",
+            "audio_src": "เขาเริ่มสนใจเพศตรงข้าม",
+            "audio_en_src": "He's starting to take an interest in the opposite sex."
+          },
+          {
+            "thai": "วัยรุ่นมักอยากคุยกับเพศตรงข้าม",
+            "en": "Teenagers often want to talk to the opposite sex.",
+            "audio_src": "วัยรุ่นมักอยากคุยกับเพศตรงข้าม",
+            "audio_en_src": "Teenagers often want to talk to the opposite sex."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-120",
@@ -1830,7 +1963,26 @@
       "Chulalongkorn L4"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "regular job, steady job",
+        "sentences": [
+          {
+            "thai": "เขามีงานประจำที่มั่นคง",
+            "en": "He has a stable, steady job.",
+            "audio_src": "เขามีงานประจำที่มั่นคง",
+            "audio_en_src": "He has a stable, steady job."
+          },
+          {
+            "thai": "เธอลาออกจากงานประจำมาทำธุรกิจ",
+            "en": "She quit her regular job to start a business.",
+            "audio_src": "เธอลาออกจากงานประจำมาทำธุรกิจ",
+            "audio_en_src": "She quit her regular job to start a business."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-126",
@@ -1949,7 +2101,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rotten, spoiled",
+        "sentences": [
+          {
+            "thai": "ผลไม้เน่าเสียเพราะทิ้งไว้นาน",
+            "en": "The fruit spoiled because it was left out too long.",
+            "audio_src": "ผลไม้เน่าเสียเพราะทิ้งไว้นาน",
+            "audio_en_src": "The fruit spoiled because it was left out too long."
+          },
+          {
+            "thai": "อย่ากินอาหารที่เน่าเสีย",
+            "en": "Don't eat spoiled food.",
+            "audio_src": "อย่ากินอาหารที่เน่าเสีย",
+            "audio_en_src": "Don't eat spoiled food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-137",
@@ -1962,7 +2133,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "urgent, priority",
+        "sentences": [
+          {
+            "thai": "มีเรื่องเร่งด่วนต้องคุยกับคุณ",
+            "en": "There's an urgent matter I need to discuss with you.",
+            "audio_src": "มีเรื่องเร่งด่วนต้องคุยกับคุณ",
+            "audio_en_src": "There's an urgent matter I need to discuss with you."
+          },
+          {
+            "thai": "งานนี้เร่งด่วน ต้องเสร็จวันนี้",
+            "en": "This is urgent, it has to be finished today.",
+            "audio_src": "งานนี้เร่งด่วน ต้องเสร็จวันนี้",
+            "audio_en_src": "This is urgent, it has to be finished today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-138",
