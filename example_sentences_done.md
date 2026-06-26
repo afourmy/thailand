@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1534 words**
+**Total: 1544 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -312,10 +312,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-115` : ชกมวย (to box (muay thai)) : 1 meaning(s), 2 sentences
 - `tamago-l12-116` : ชวนคุย (to start a conversation, to engage someone in talking) : 1 meaning(s), 2 sentences
 - `tamago-l12-117` : ชัดๆ (clearly, definitely) : 1 meaning(s), 2 sentences
+- `tamago-l12-122` : ชุดนักเรียน (school uniform) : 1 meaning(s), 2 sentences
+- `tamago-l12-124` : ช่างประปา (plumber) : 1 meaning(s), 2 sentences
+- `tamago-l12-125` : ช่างภาพ, ช่างถ่ายภาพ (photographer) : 1 meaning(s), 2 sentences
 - `tamago-l12-127` : ช้อน (spoon) : 1 meaning(s), 2 sentences
 - `tamago-l12-128` : ซวย (unfortunate, bad luck, unlucky, screwed (slang)) : 1 meaning(s), 2 sentences
+- `tamago-l12-129` : ซอก (corner, nook, narrow gap) : 1 meaning(s), 2 sentences
+- `tamago-l12-131` : ซับซ้อน (complex, complicated) : 1 meaning(s), 2 sentences
 - `tamago-l12-132` : ซีอิ๊ว (soy sauce) : 1 meaning(s), 2 sentences
 - `tamago-l12-135` : ดอก (classifier for various small objects (flowers, keys, firecrackers, etc)) : 1 meaning(s), 2 sentences
+- `tamago-l12-137` : ดัดผม (to curl hair (get a perm)) : 1 meaning(s), 2 sentences
+- `tamago-l12-140` : ดีเด่น (excellent, outstanding, distinguished) : 1 meaning(s), 2 sentences
+- `tamago-l12-143` : ตกงาน (to be unemployed, to lose one's job) : 1 meaning(s), 2 sentences
+- `tamago-l12-144` : ตกแต่ง (to decorate, to furnish, to adorn) : 1 meaning(s), 2 sentences
+- `tamago-l12-145` : ตรงกัน (to match, to correspond) : 1 meaning(s), 2 sentences
 - `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l12-147` : ตลาดนัด (temporary market, flea market) : 1 meaning(s), 2 sentences
 - `tamago-l12-152` : ตั้งนาน (for so long, in a long time) : 1 meaning(s), 2 sentences

@@ -18769,7 +18769,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "school uniform",
+        "sentences": [
+          {
+            "thai": "ทุกเช้าเขาใส่ชุดนักเรียนไปโรงเรียน",
+            "en": "Every morning he wears his school uniform to school.",
+            "audio_src": "ทุกเช้าเขาใส่ชุดนักเรียนไปโรงเรียน",
+            "audio_en_src": "Every morning he wears his school uniform to school."
+          },
+          {
+            "thai": "ชุดนักเรียนของเธอเล็กไปแล้ว",
+            "en": "Her school uniform is too small now.",
+            "audio_src": "ชุดนักเรียนของเธอเล็กไปแล้ว",
+            "audio_en_src": "Her school uniform is too small now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-124",
@@ -18781,7 +18800,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "plumber",
+        "sentences": [
+          {
+            "thai": "ท่อน้ำรั่ว ต้องเรียกช่างประปามาซ่อม",
+            "en": "The pipe is leaking, we need to call a plumber to fix it.",
+            "audio_src": "ท่อน้ำรั่ว ต้องเรียกช่างประปามาซ่อม",
+            "audio_en_src": "The pipe is leaking, we need to call a plumber to fix it."
+          },
+          {
+            "thai": "ช่างประปามาดูก๊อกน้ำที่เสีย",
+            "en": "The plumber came to look at the broken faucet.",
+            "audio_src": "ช่างประปามาดูก๊อกน้ำที่เสีย",
+            "audio_en_src": "The plumber came to look at the broken faucet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-125",
@@ -18794,7 +18832,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "photographer",
+        "sentences": [
+          {
+            "thai": "งานแต่งงานจ้างช่างภาพมืออาชีพ",
+            "en": "The wedding hired a professional photographer.",
+            "audio_src": "งานแต่งงานจ้างช่างภาพมืออาชีพ",
+            "audio_en_src": "The wedding hired a professional photographer."
+          },
+          {
+            "thai": "ช่างภาพขอให้ทุกคนยิ้มเข้ากล้อง",
+            "en": "The photographer asked everyone to smile at the camera.",
+            "audio_src": "ช่างภาพขอให้ทุกคนยิ้มเข้ากล้อง",
+            "audio_en_src": "The photographer asked everyone to smile at the camera."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-126",
@@ -18888,7 +18945,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "corner, nook, narrow gap",
+        "sentences": [
+          {
+            "thai": "แมวชอบไปนอนซุกตามซอกแคบๆ",
+            "en": "Cats like to curl up and sleep in narrow nooks.",
+            "audio_src": "แมวชอบไปนอนซุกตามซอกแคบๆ",
+            "audio_en_src": "Cats like to curl up and sleep in narrow nooks."
+          },
+          {
+            "thai": "เศษขนมตกอยู่ในซอกโซฟา",
+            "en": "Crumbs fell into the gap in the sofa.",
+            "audio_src": "เศษขนมตกอยู่ในซอกโซฟา",
+            "audio_en_src": "Crumbs fell into the gap in the sofa."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-130",
@@ -18913,7 +18989,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "complex, complicated",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ซับซ้อนกว่าที่คิดเยอะ",
+            "en": "This matter is much more complicated than I thought.",
+            "audio_src": "เรื่องนี้ซับซ้อนกว่าที่คิดเยอะ",
+            "audio_en_src": "This matter is much more complicated than I thought."
+          },
+          {
+            "thai": "เขาอธิบายขั้นตอนที่ซับซ้อนให้เข้าใจง่าย",
+            "en": "He explains the complex steps in an easy-to-understand way.",
+            "audio_src": "เขาอธิบายขั้นตอนที่ซับซ้อนให้เข้าใจง่าย",
+            "audio_en_src": "He explains the complex steps in an easy-to-understand way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-132",
@@ -19025,7 +19120,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to curl hair (get a perm)",
+        "sentences": [
+          {
+            "thai": "เธอไปดัดผมที่ร้านเสริมสวย",
+            "en": "She went to get a perm at the salon.",
+            "audio_src": "เธอไปดัดผมที่ร้านเสริมสวย",
+            "audio_en_src": "She went to get a perm at the salon."
+          },
+          {
+            "thai": "ดัดผมแล้วดูเปลี่ยนไปเลย",
+            "en": "After getting a perm she looks totally different.",
+            "audio_src": "ดัดผมแล้วดูเปลี่ยนไปเลย",
+            "audio_en_src": "After getting a perm she looks totally different."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-138",
@@ -19058,7 +19172,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "excellent, outstanding, distinguished",
+        "sentences": [
+          {
+            "thai": "เขาได้รางวัลนักเรียนดีเด่นของโรงเรียน",
+            "en": "He won the school's outstanding student award.",
+            "audio_src": "เขาได้รางวัลนักเรียนดีเด่นของโรงเรียน",
+            "audio_en_src": "He won the school's outstanding student award."
+          },
+          {
+            "thai": "ผลงานของเธอดีเด่นจนได้เลื่อนตำแหน่ง",
+            "en": "Her work was so outstanding she got promoted.",
+            "audio_src": "ผลงานของเธอดีเด่นจนได้เลื่อนตำแหน่ง",
+            "audio_en_src": "Her work was so outstanding she got promoted."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-141",
@@ -19090,7 +19223,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be unemployed, to lose one's job",
+        "sentences": [
+          {
+            "thai": "เขาตกงานตั้งแต่บริษัทปิดตัว",
+            "en": "He's been out of work since the company shut down.",
+            "audio_src": "เขาตกงานตั้งแต่บริษัทปิดตัว",
+            "audio_en_src": "He's been out of work since the company shut down."
+          },
+          {
+            "thai": "ช่วงเศรษฐกิจไม่ดี คนตกงานเยอะ",
+            "en": "When the economy is bad, a lot of people lose their jobs.",
+            "audio_src": "ช่วงเศรษฐกิจไม่ดี คนตกงานเยอะ",
+            "audio_en_src": "When the economy is bad, a lot of people lose their jobs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-144",
@@ -19103,7 +19255,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to decorate, to furnish, to adorn",
+        "sentences": [
+          {
+            "thai": "เขาตกแต่งบ้านใหม่ให้ดูอบอุ่น",
+            "en": "He decorated the new house to feel cozy.",
+            "audio_src": "เขาตกแต่งบ้านใหม่ให้ดูอบอุ่น",
+            "audio_en_src": "He decorated the new house to feel cozy."
+          },
+          {
+            "thai": "เขาตกแต่งเค้กด้วยผลไม้สด",
+            "en": "She decorated the cake with fresh fruit.",
+            "audio_src": "เขาตกแต่งเค้กด้วยผลไม้สด",
+            "audio_en_src": "She decorated the cake with fresh fruit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-145",
@@ -19116,7 +19287,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to match, to correspond",
+        "sentences": [
+          {
+            "thai": "คำตอบของเราตรงกันพอดี",
+            "en": "Our answers match exactly.",
+            "audio_src": "คำตอบของเราตรงกันพอดี",
+            "audio_en_src": "Our answers match exactly."
+          },
+          {
+            "thai": "วันหยุดของเราไม่ตรงกัน เลยไม่ได้เจอ",
+            "en": "Our days off don't line up, so we don't get to meet.",
+            "audio_src": "วันหยุดของเราไม่ตรงกัน เลยไม่ได้เจอ",
+            "audio_en_src": "Our days off don't line up, so we don't get to meet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-146",
