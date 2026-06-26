@@ -39504,7 +39504,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pretend, to act as if",
+        "sentences": [
+          {
+            "thai": "เขาแกล้งทำเป็นไม่เห็นฉัน",
+            "en": "He pretended he didn't see me.",
+            "audio_src": "เขาแกล้งทำเป็นไม่เห็นฉัน",
+            "audio_en_src": "He pretended he didn't see me."
+          },
+          {
+            "thai": "เธอแกล้งทำเป็นยุ่งเพื่อเลี่ยงคำถาม",
+            "en": "She acted busy to dodge the question.",
+            "audio_src": "เธอแกล้งทำเป็นยุ่งเพื่อเลี่ยงคำถาม",
+            "audio_en_src": "She acted busy to dodge the question."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-381",
@@ -39526,7 +39545,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "long (used for a queue, line)",
+        "sentences": [
+          {
+            "thai": "คนต่อแถวยาวเหยียดหน้าร้านไอศกรีม",
+            "en": "People are lined up in a long queue in front of the ice cream shop.",
+            "audio_src": "คนต่อแถวยาวเหยียดหน้าร้านไอศกรีม",
+            "audio_en_src": "People are lined up in a long queue in front of the ice cream shop."
+          },
+          {
+            "thai": "รถติดยาวเหยียดตั้งแต่หัวถนน",
+            "en": "Cars are backed up in a long line from the head of the street.",
+            "audio_src": "รถติดยาวเหยียดตั้งแต่หัวถนน",
+            "audio_en_src": "Cars are backed up in a long line from the head of the street."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-383",
@@ -39558,7 +39596,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "shameful, disgraceful",
+        "sentences": [
+          {
+            "thai": "พฤติกรรมแบบนั้นดูทุเรศมาก",
+            "en": "That kind of behavior looks really disgraceful.",
+            "audio_src": "พฤติกรรมแบบนั้นดูทุเรศมาก",
+            "audio_en_src": "That kind of behavior looks really disgraceful."
+          },
+          {
+            "thai": "เขาทำตัวทุเรศต่อหน้าคนอื่น",
+            "en": "He behaved shamefully in front of others.",
+            "audio_src": "เขาทำตัวทุเรศต่อหน้าคนอื่น",
+            "audio_en_src": "He behaved shamefully in front of others."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-386",
@@ -39655,7 +39712,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to learn one's lesson (after a bad experience), to be wary",
+        "sentences": [
+          {
+            "thai": "โดนหลอกครั้งนี้เข็ดไปนานเลย",
+            "en": "Getting tricked this time taught me a lesson for a long while.",
+            "audio_src": "โดนหลอกครั้งนี้เข็ดไปนานเลย",
+            "audio_en_src": "Getting tricked this time taught me a lesson for a long while."
+          },
+          {
+            "thai": "กินเผ็ดจนท้องเสีย เข็ดแล้วไม่กินอีก",
+            "en": "I ate so spicy I got a stomachache, lesson learned, never again.",
+            "audio_src": "กินเผ็ดจนท้องเสีย เข็ดแล้วไม่กินอีก",
+            "audio_en_src": "I ate so spicy I got a stomachache, lesson learned, never again."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-393",
@@ -39667,7 +39743,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "very obviously, clearly, \"right in front of you\"",
+        "sentences": [
+          {
+            "thai": "หลักฐานอยู่ตรงหน้าเห็นกันจะจะ",
+            "en": "The evidence is right in front of us, plain to see.",
+            "audio_src": "หลักฐานอยู่ตรงหน้าเห็นกันจะจะ",
+            "audio_en_src": "The evidence is right in front of us, plain to see."
+          },
+          {
+            "thai": "เขาโกหกทั้งที่ความจริงโชว์อยู่จะจะ",
+            "en": "He lies even though the truth is plainly showing.",
+            "audio_src": "เขาโกหกทั้งที่ความจริงโชว์อยู่จะจะ",
+            "audio_en_src": "He lies even though the truth is plainly showing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-394",
@@ -39701,7 +39796,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "roughly, approximately",
+        "sentences": [
+          {
+            "thai": "ช่วยประเมินราคาคร่าวๆให้หน่อย",
+            "en": "Please give me a rough estimate.",
+            "audio_src": "ช่วยประเมินราคาคร่าวๆให้หน่อย",
+            "audio_en_src": "Please give me a rough estimate."
+          },
+          {
+            "thai": "เขาเล่าแผนการเดินทางคร่าวๆ",
+            "en": "He outlined the travel plan roughly.",
+            "audio_src": "เขาเล่าแผนการเดินทางคร่าวๆ",
+            "audio_en_src": "He outlined the travel plan roughly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-397",
@@ -39713,7 +39827,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to avoid taking responsibility for a task and try to shift it to others",
+        "sentences": [
+          {
+            "thai": "ทุกคนเกี่ยงกันไม่อยากล้างจาน",
+            "en": "Everyone passed the buck, no one wanting to wash the dishes.",
+            "audio_src": "ทุกคนเกี่ยงกันไม่อยากล้างจาน",
+            "audio_en_src": "Everyone passed the buck, no one wanting to wash the dishes."
+          },
+          {
+            "thai": "อย่ามัวเกี่ยงงานกัน รีบช่วยกันทำเถอะ",
+            "en": "Stop pushing the work onto each other, let's just help out.",
+            "audio_src": "อย่ามัวเกี่ยงงานกัน รีบช่วยกันทำเถอะ",
+            "audio_en_src": "Stop pushing the work onto each other, let's just help out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-398",
@@ -39725,7 +39858,43 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to persuade gently, to soothe",
+        "sentences": [
+          {
+            "thai": "เขาพยายามกล่อมให้เพื่อนใจเย็นลง",
+            "en": "He tried to calm his friend down.",
+            "audio_src": "เขาพยายามกล่อมให้เพื่อนใจเย็นลง",
+            "audio_en_src": "He tried to calm his friend down."
+          },
+          {
+            "thai": "พนักงานกล่อมลูกค้าจนยอมซื้อ",
+            "en": "The salesperson gently persuaded the customer until they agreed to buy.",
+            "audio_src": "พนักงานกล่อมลูกค้าจนยอมซื้อ",
+            "audio_en_src": "The salesperson gently persuaded the customer until they agreed to buy."
+          }
+        ]
+      },
+      {
+        "meaning": "to sing a lullaby",
+        "sentences": [
+          {
+            "thai": "แม่ร้องเพลงกล่อมลูกจนหลับ",
+            "en": "Mom sang a lullaby until the baby fell asleep.",
+            "audio_src": "แม่ร้องเพลงกล่อมลูกจนหลับ",
+            "audio_en_src": "Mom sang a lullaby until the baby fell asleep."
+          },
+          {
+            "thai": "เธอกล่อมน้องนอนทุกคืน",
+            "en": "She lulls her little brother to sleep every night.",
+            "audio_src": "เธอกล่อมน้องนอนทุกคืน",
+            "audio_en_src": "She lulls her little brother to sleep every night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-399",
@@ -39737,7 +39906,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pester, to insist relentlessly in an annoying way",
+        "sentences": [
+          {
+            "thai": "เด็กตื๊อแม่ให้ซื้อขนมจนแม่ยอม",
+            "en": "The kid pestered his mom to buy snacks until she gave in.",
+            "audio_src": "เด็กตื๊อแม่ให้ซื้อขนมจนแม่ยอม",
+            "audio_en_src": "The kid pestered his mom to buy snacks until she gave in."
+          },
+          {
+            "thai": "เขาตื๊อขอเบอร์โทรอยู่นั่นแหละ",
+            "en": "He kept pestering for her phone number.",
+            "audio_src": "เขาตื๊อขอเบอร์โทรอยู่นั่นแหละ",
+            "audio_en_src": "He kept pestering for her phone number."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-400",
@@ -39749,7 +39937,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to know the meaning of a foreign word, to be able to translate",
+        "sentences": [
+          {
+            "thai": "ประโยคนี้ยากไป ฉันแปลไม่ออก",
+            "en": "This sentence is too hard, I can't translate it.",
+            "audio_src": "ประโยคนี้ยากไป ฉันแปลไม่ออก",
+            "audio_en_src": "This sentence is too hard, I can't translate it."
+          },
+          {
+            "thai": "เขาเก่งภาษาญี่ปุ่นจนแปลออกแทบทุกคำ",
+            "en": "He's so good at Japanese he can translate almost every word.",
+            "audio_src": "เขาเก่งภาษาญี่ปุ่นจนแปลออกแทบทุกคำ",
+            "audio_en_src": "He's so good at Japanese he can translate almost every word."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-401",

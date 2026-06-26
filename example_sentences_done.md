@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1794 words**
+**Total: 1804 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -769,7 +769,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-375` : จองคิว (to reserve a place in line, to book a slot) : 1 meaning(s), 2 sentences
 - `tamago-l3-376` : อู้ (to slack off, to procrastinate, to skive) : 1 meaning(s), 2 sentences
 - `tamago-l3-378` : หิ้ว (to carry (by hand, with a handle)) : 1 meaning(s), 2 sentences
+- `tamago-l3-379` : แกล้งทำ (to pretend, to act as if) : 1 meaning(s), 2 sentences
+- `tamago-l3-382` : ยาวเหยียด (long (used for a queue, line)) : 1 meaning(s), 2 sentences
+- `tamago-l3-385` : ทุเรศ (shameful, disgraceful) : 1 meaning(s), 2 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences
+- `tamago-l3-392` : เข็ด (to learn one's lesson (after a bad experience), to be wary) : 1 meaning(s), 2 sentences
+- `tamago-l3-393` : จะจะ (very obviously, clearly, "right in front of you") : 1 meaning(s), 2 sentences
+- `tamago-l3-396` : คร่าวๆ (roughly, approximately) : 1 meaning(s), 2 sentences
+- `tamago-l3-397` : เกี่ยง (to avoid taking responsibility for a task and try to shift it to others) : 1 meaning(s), 2 sentences
+- `tamago-l3-398` : กล่อม (to persuade gently, to soothe; to sing a lullaby) : 2 meaning(s), 4 sentences
+- `tamago-l3-399` : ตื๊อ (to pester, to insist relentlessly in an annoying way) : 1 meaning(s), 2 sentences
+- `tamago-l3-400` : แปลออก (to know the meaning of a foreign word, to be able to translate) : 1 meaning(s), 2 sentences
 - `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
 - `tamago-l3-411` : ...สุดๆไปเลย (insanely, extremely) : 1 meaning(s), 2 sentences
 - `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
