@@ -15304,7 +15304,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to smash, hit, break, beat",
+        "sentences": [
+          {
+            "thai": "เขาทุบกระปุกออมสินเพื่อเอาเงิน",
+            "en": "He smashed his piggy bank to get the money.",
+            "audio_src": "เขาทุบกระปุกออมสินเพื่อเอาเงิน",
+            "audio_en_src": "He smashed his piggy bank to get the money."
+          },
+          {
+            "thai": "คนงานทุบกำแพงเก่าทิ้ง",
+            "en": "The workers knocked down the old wall.",
+            "audio_src": "คนงานทุบกำแพงเก่าทิ้ง",
+            "audio_en_src": "The workers knocked down the old wall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-274",
@@ -15316,7 +15335,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "dented, crushed, distorted",
+        "sentences": [
+          {
+            "thai": "กระป๋องน้ำอัดลมบุบตอนขนของ",
+            "en": "The soda can got dented while moving things.",
+            "audio_src": "กระป๋องน้ำอัดลมบุบตอนขนของ",
+            "audio_en_src": "The soda can got dented while moving things."
+          },
+          {
+            "thai": "ทำโทรศัพท์ตกจนขอบบุบ",
+            "en": "I dropped my phone and the edge got dented.",
+            "audio_src": "ทำโทรศัพท์ตกจนขอบบุบ",
+            "audio_en_src": "I dropped my phone and the edge got dented."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-275",
@@ -15330,7 +15368,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be in line with, consistent with, to correspond with",
+        "sentences": [
+          {
+            "thai": "คำให้การของเขาสอดคล้องกับพยาน",
+            "en": "His statement is consistent with the witness's.",
+            "audio_src": "คำให้การของเขาสอดคล้องกับพยาน",
+            "audio_en_src": "His statement is consistent with the witness's."
+          },
+          {
+            "thai": "แผนงานต้องสอดคล้องกับงบประมาณ",
+            "en": "The plan has to be in line with the budget.",
+            "audio_src": "แผนงานต้องสอดคล้องกับงบประมาณ",
+            "audio_en_src": "The plan has to be in line with the budget."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-276",
@@ -15345,7 +15402,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fact, factual matter",
+        "sentences": [
+          {
+            "thai": "เราต้องดูข้อเท็จจริงก่อนตัดสิน",
+            "en": "We need to look at the facts before judging.",
+            "audio_src": "เราต้องดูข้อเท็จจริงก่อนตัดสิน",
+            "audio_en_src": "We need to look at the facts before judging."
+          },
+          {
+            "thai": "ข่าวนี้บิดเบือนข้อเท็จจริง",
+            "en": "This news distorts the facts.",
+            "audio_src": "ข่าวนี้บิดเบือนข้อเท็จจริง",
+            "audio_en_src": "This news distorts the facts."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-277",
@@ -15358,7 +15434,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to broadcast, to air (on TV, radio, etc)",
+        "sentences": [
+          {
+            "thai": "รายการนี้ออกอากาศทุกคืนวันเสาร์",
+            "en": "This show airs every Saturday night.",
+            "audio_src": "รายการนี้ออกอากาศทุกคืนวันเสาร์",
+            "audio_en_src": "This show airs every Saturday night."
+          },
+          {
+            "thai": "ข่าวด่วนกำลังออกอากาศสด",
+            "en": "The breaking news is being broadcast live.",
+            "audio_src": "ข่าวด่วนกำลังออกอากาศสด",
+            "audio_en_src": "The breaking news is being broadcast live."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-278",
@@ -15372,7 +15467,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "main character, leading actor, hero",
+        "sentences": [
+          {
+            "thai": "พระเอกในเรื่องนี้หล่อมาก",
+            "en": "The leading man in this story is very handsome.",
+            "audio_src": "พระเอกในเรื่องนี้หล่อมาก",
+            "audio_en_src": "The leading man in this story is very handsome."
+          },
+          {
+            "thai": "เขายิงประตูชัย กลายเป็นพระเอกของทีม",
+            "en": "He scored the winning goal and became the team's hero.",
+            "audio_src": "เขายิงประตูชัย กลายเป็นพระเอกของทีม",
+            "audio_en_src": "He scored the winning goal and became the team's hero."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-279",
@@ -15527,7 +15641,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "theme",
+        "sentences": [
+          {
+            "thai": "งานปีนี้ใช้ธีมย้อนยุค",
+            "en": "This year's party uses a retro theme.",
+            "audio_src": "งานปีนี้ใช้ธีมย้อนยุค",
+            "audio_en_src": "This year's party uses a retro theme."
+          },
+          {
+            "thai": "ห้องนี้ตกแต่งตามธีมทะเล",
+            "en": "This room is decorated with an ocean theme.",
+            "audio_src": "ห้องนี้ตกแต่งตามธีมทะเล",
+            "audio_en_src": "This room is decorated with an ocean theme."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-291",
@@ -15608,7 +15741,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "foundation, non-profit organization, charity",
+        "sentences": [
+          {
+            "thai": "เขาบริจาคเงินให้มูลนิธิเด็กกำพร้า",
+            "en": "He donated money to an orphans' foundation.",
+            "audio_src": "เขาบริจาคเงินให้มูลนิธิเด็กกำพร้า",
+            "audio_en_src": "He donated money to an orphans' foundation."
+          },
+          {
+            "thai": "มูลนิธินี้ช่วยเหลือผู้ป่วยยากไร้",
+            "en": "This foundation helps poor patients.",
+            "audio_src": "มูลนิธินี้ช่วยเหลือผู้ป่วยยากไร้",
+            "audio_en_src": "This foundation helps poor patients."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-298",
@@ -15747,7 +15899,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to overcome, to strive, to struggle through (obstacles)",
+        "sentences": [
+          {
+            "thai": "กว่าจะสำเร็จ เขาฝ่าฟันมาเยอะ",
+            "en": "He overcame a lot before he succeeded.",
+            "audio_src": "กว่าจะสำเร็จ เขาฝ่าฟันมาเยอะ",
+            "audio_en_src": "He overcame a lot before he succeeded."
+          },
+          {
+            "thai": "เราจะฝ่าฟันอุปสรรคนี้ไปด้วยกัน",
+            "en": "We'll struggle through this obstacle together.",
+            "audio_src": "เราจะฝ่าฟันอุปสรรคนี้ไปด้วยกัน",
+            "audio_en_src": "We'll struggle through this obstacle together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-306",
@@ -15813,7 +15984,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "very easy, effortless",
+        "sentences": [
+          {
+            "thai": "ข้อสอบครั้งนี้ง่ายดายมาก",
+            "en": "This exam was super easy.",
+            "audio_src": "ข้อสอบครั้งนี้ง่ายดายมาก",
+            "audio_en_src": "This exam was super easy."
+          },
+          {
+            "thai": "เธอผ่านด่านนี้ไปได้อย่างง่ายดาย",
+            "en": "She got past this level effortlessly.",
+            "audio_src": "เธอผ่านด่านนี้ไปได้อย่างง่ายดาย",
+            "audio_en_src": "She got past this level effortlessly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-312",

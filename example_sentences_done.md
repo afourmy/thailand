@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1494 words**
+**Total: 1504 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -245,9 +245,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-269` : นักข่าว (reporter) : 1 meaning(s), 2 sentences
 - `chula-l6-270` : ผู้จัด (organizer; producer (of a movie, a show)) : 2 meaning(s), 4 sentences
 - `chula-l6-272` : คาดเดา (to guess, predict, speculate, infer from clues) : 1 meaning(s), 2 sentences
+- `chula-l6-273` : ทุบ (to smash, hit, break, beat) : 1 meaning(s), 2 sentences
+- `chula-l6-274` : บุบ (dented, crushed, distorted) : 1 meaning(s), 2 sentences
+- `chula-l6-275` : สอดคล้อง (to be in line with, consistent with, to correspond with) : 1 meaning(s), 2 sentences
+- `chula-l6-276` : ข้อเท็จจริง (fact, factual matter) : 1 meaning(s), 2 sentences
+- `chula-l6-277` : ออกอากาศ (to broadcast, to air (on TV, radio, etc)) : 1 meaning(s), 2 sentences
+- `chula-l6-278` : พระเอก (main character, leading actor, hero) : 1 meaning(s), 2 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
+- `chula-l6-290` : ธีม (theme) : 1 meaning(s), 2 sentences
+- `chula-l6-297` : มูลนิธิ (foundation, non-profit organization, charity) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
+- `chula-l6-305` : ฝ่าฟัน (to overcome, to strive, to struggle through (obstacles)) : 1 meaning(s), 2 sentences
+- `chula-l6-311` : ง่ายดาย (very easy, effortless) : 1 meaning(s), 2 sentences
 - `tamago-l12-003` : ...ไปก่อน ("... for now") : 1 meaning(s), 2 sentences
 - `tamago-l12-006` : เรื่อยๆ (to keep doing something (continuously)) : 1 meaning(s), 2 sentences
 - `tamago-l12-008` : ไหว (to be able to, have the capacity (physical or mental) to) : 1 meaning(s), 2 sentences
