@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1474 words**
+**Total: 1484 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -223,8 +223,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-206` : เนียน (smooth, slick; sly) : 2 meaning(s), 4 sentences
 - `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences
+- `chula-l6-214` : ท้องถิ่น (local, locality) : 1 meaning(s), 2 sentences
+- `chula-l6-215` : เด็ด (to pluck, to pick (e.g flower, fruit); awesome, excellent) : 2 meaning(s), 4 sentences
+- `chula-l6-220` : ผ่า (to cut into pieces, split, dissect) : 1 meaning(s), 2 sentences
+- `chula-l6-222` : แท่ง (stick, bar, rod (and classifier for stick-shaped objects)) : 1 meaning(s), 2 sentences
+- `chula-l6-227` : ฟังทัน (to follow along without falling behind (when listening to e.g a teacher)) : 1 meaning(s), 2 sentences
+- `chula-l6-229` : คอร์ส (course) : 1 meaning(s), 2 sentences
+- `chula-l6-230` : พอประมาณ (moderately (not too little, not too much)) : 1 meaning(s), 2 sentences
+- `chula-l6-233` : หมวด, หมวดหมู่ (group, category) : 1 meaning(s), 2 sentences
 - `chula-l6-235` : ซอย (alley; sliced, minced (food)) : 2 meaning(s), 4 sentences
+- `chula-l6-238` : กรอง (to filter, to strain) : 1 meaning(s), 2 sentences
 - `chula-l6-239` : คน (person; to stir (food)) : 2 meaning(s), 4 sentences
+- `chula-l6-240` : หยาบ (rough, coarse, rude) : 1 meaning(s), 2 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences

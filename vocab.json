@@ -14112,12 +14112,31 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "local, locality",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายอาหารท้องถิ่นแท้ๆ",
+            "en": "This shop sells authentic local food.",
+            "audio_src": "ร้านนี้ขายอาหารท้องถิ่นแท้ๆ",
+            "audio_en_src": "This shop sells authentic local food."
+          },
+          {
+            "thai": "คนท้องถิ่นแนะนำให้ไปเที่ยวน้ำตก",
+            "en": "The locals recommended visiting the waterfall.",
+            "audio_src": "คนท้องถิ่นแนะนำให้ไปเที่ยวน้ำตก",
+            "audio_en_src": "The locals recommended visiting the waterfall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-215",
     "thai": "เด็ด",
-    "english": "to pluck, to pick (e.g flower, fruit); awesome; very, absolutely",
+    "english": "to pluck, to pick (e.g flower, fruit); awesome, excellent",
     "frequency": "common",
     "topic": "general",
     "sources": [
@@ -14126,7 +14145,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pluck, to pick (e.g flower, fruit)",
+        "sentences": [
+          {
+            "thai": "อย่าเด็ดดอกไม้ในสวนนะ",
+            "en": "Don't pluck the flowers in the garden.",
+            "audio_src": "อย่าเด็ดดอกไม้ในสวนนะ",
+            "audio_en_src": "Don't pluck the flowers in the garden."
+          },
+          {
+            "thai": "เด็ดใบกะเพราใส่ในผัด",
+            "en": "Pick some basil leaves to put in the stir-fry.",
+            "audio_src": "เด็ดใบกะเพราใส่ในผัด",
+            "audio_en_src": "Pick some basil leaves to put in the stir-fry."
+          }
+        ]
+      },
+      {
+        "meaning": "awesome, excellent",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ก๋วยเตี๋ยวเด็ดมาก",
+            "en": "This shop's noodles are really awesome.",
+            "audio_src": "ร้านนี้ก๋วยเตี๋ยวเด็ดมาก",
+            "audio_en_src": "This shop's noodles are really awesome."
+          },
+          {
+            "thai": "มุกตลกของเขาเด็ดทุกครั้ง",
+            "en": "His jokes are killer every time.",
+            "audio_src": "มุกตลกของเขาเด็ดทุกครั้ง",
+            "audio_en_src": "His jokes are killer every time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-216",
@@ -14173,7 +14228,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to cut into pieces, split, dissect",
+        "sentences": [
+          {
+            "thai": "ช่วยผ่าแตงโมให้หน่อย",
+            "en": "Please cut the watermelon open for me.",
+            "audio_src": "ช่วยผ่าแตงโมให้หน่อย",
+            "audio_en_src": "Please cut the watermelon open for me."
+          },
+          {
+            "thai": "เขาผ่าฟืนเป็นท่อนเล็กๆ",
+            "en": "He split the firewood into small pieces.",
+            "audio_src": "เขาผ่าฟืนเป็นท่อนเล็กๆ",
+            "audio_en_src": "He split the firewood into small pieces."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-221",
@@ -14198,7 +14272,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stick, bar, rod (and classifier for stick-shaped objects)",
+        "sentences": [
+          {
+            "thai": "ขอช็อกโกแลตแท่งนึง",
+            "en": "Can I get a chocolate bar.",
+            "audio_src": "ขอช็อกโกแลตแท่งนึง",
+            "audio_en_src": "Can I get a chocolate bar."
+          },
+          {
+            "thai": "เขาซื้อดินสอมาสามแท่ง",
+            "en": "He bought three pencils.",
+            "audio_src": "เขาซื้อดินสอมาสามแท่ง",
+            "audio_en_src": "He bought three pencils."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-223",
@@ -14244,7 +14337,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to follow along without falling behind (when listening to e.g a teacher)",
+        "sentences": [
+          {
+            "thai": "อาจารย์พูดช้าๆ ทุกคนเลยฟังทัน",
+            "en": "The professor spoke slowly, so everyone could keep up.",
+            "audio_src": "อาจารย์พูดช้าๆ ทุกคนเลยฟังทัน",
+            "audio_en_src": "The professor spoke slowly, so everyone could keep up."
+          },
+          {
+            "thai": "เขาพูดอังกฤษไม่เร็วมาก ฉันยังฟังทัน",
+            "en": "He doesn't speak English too fast, so I can still follow.",
+            "audio_src": "เขาพูดอังกฤษไม่เร็วมาก ฉันยังฟังทัน",
+            "audio_en_src": "He doesn't speak English too fast, so I can still follow."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-228",
@@ -14266,7 +14378,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "course",
+        "sentences": [
+          {
+            "thai": "ฉันสมัครคอร์สเรียนภาษาญี่ปุ่น",
+            "en": "I signed up for a Japanese course.",
+            "audio_src": "ฉันสมัครคอร์สเรียนภาษาญี่ปุ่น",
+            "audio_en_src": "I signed up for a Japanese course."
+          },
+          {
+            "thai": "คอร์สนี้เรียนทั้งหมดสิบครั้ง",
+            "en": "This course has ten sessions in total.",
+            "audio_src": "คอร์สนี้เรียนทั้งหมดสิบครั้ง",
+            "audio_en_src": "This course has ten sessions in total."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-230",
@@ -14280,7 +14411,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "moderately (not too little, not too much)",
+        "sentences": [
+          {
+            "thai": "ใส่เกลือพอประมาณก็พอ",
+            "en": "Just add a moderate amount of salt.",
+            "audio_src": "ใส่เกลือพอประมาณก็พอ",
+            "audio_en_src": "Just add a moderate amount of salt."
+          },
+          {
+            "thai": "ออกกำลังกายแต่พอประมาณ อย่าหักโหม",
+            "en": "Exercise in moderation, don't overdo it.",
+            "audio_src": "ออกกำลังกายแต่พอประมาณ อย่าหักโหม",
+            "audio_en_src": "Exercise in moderation, don't overdo it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-231",
@@ -14315,7 +14465,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "group, category",
+        "sentences": [
+          {
+            "thai": "หนังสือในห้องสมุดแบ่งเป็นหมวดหมู่",
+            "en": "The books in the library are divided into categories.",
+            "audio_src": "หนังสือในห้องสมุดแบ่งเป็นหมวดหมู่",
+            "audio_en_src": "The books in the library are divided into categories."
+          },
+          {
+            "thai": "สินค้าพวกนี้อยู่คนละหมวด",
+            "en": "These products are in different categories.",
+            "audio_src": "สินค้าพวกนี้อยู่คนละหมวด",
+            "audio_en_src": "These products are in different categories."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-234",
@@ -14414,7 +14583,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to filter, to strain",
+        "sentences": [
+          {
+            "thai": "เครื่องนี้ช่วยกรองน้ำให้สะอาด",
+            "en": "This machine filters the water clean.",
+            "audio_src": "เครื่องนี้ช่วยกรองน้ำให้สะอาด",
+            "audio_en_src": "This machine filters the water clean."
+          },
+          {
+            "thai": "กรองกากกาแฟออกก่อนดื่ม",
+            "en": "Strain out the coffee grounds before drinking.",
+            "audio_src": "กรองกากกาแฟออกก่อนดื่ม",
+            "audio_en_src": "Strain out the coffee grounds before drinking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-239",
@@ -14482,7 +14670,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rough, coarse, rude",
+        "sentences": [
+          {
+            "thai": "ผ้าผืนนี้เนื้อหยาบ ใส่แล้วคัน",
+            "en": "This fabric is coarse, it's itchy to wear.",
+            "audio_src": "ผ้าผืนนี้เนื้อหยาบ ใส่แล้วคัน",
+            "audio_en_src": "This fabric is coarse, it's itchy to wear."
+          },
+          {
+            "thai": "อย่าพูดคำหยาบต่อหน้าเด็ก",
+            "en": "Don't use rude words in front of the kids.",
+            "audio_src": "อย่าพูดคำหยาบต่อหน้าเด็ก",
+            "audio_en_src": "Don't use rude words in front of the kids."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-241",
