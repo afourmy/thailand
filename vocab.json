@@ -4095,7 +4095,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to postpone, to delay, to shift, to move, to slide",
+        "sentences": [
+          {
+            "thai": "ขอเลื่อนประชุมเป็นพรุ่งนี้",
+            "en": "Can we postpone the meeting to tomorrow?",
+            "audio_src": "ขอเลื่อนประชุมเป็นพรุ่งนี้",
+            "audio_en_src": "Can we postpone the meeting to tomorrow?"
+          },
+          {
+            "thai": "เลื่อนเก้าอี้เข้าไปใกล้ๆ",
+            "en": "Slide the chair in closer.",
+            "audio_src": "เลื่อนเก้าอี้เข้าไปใกล้ๆ",
+            "audio_en_src": "Slide the chair in closer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-087",
@@ -4111,7 +4130,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to interview",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ฉันต้องไปสัมภาษณ์งาน",
+            "en": "I have a job interview tomorrow.",
+            "audio_src": "พรุ่งนี้ฉันต้องไปสัมภาษณ์งาน",
+            "audio_en_src": "I have a job interview tomorrow."
+          },
+          {
+            "thai": "นักข่าวขอสัมภาษณ์นักแสดง",
+            "en": "The reporter asked to interview the actor.",
+            "audio_src": "นักข่าวขอสัมภาษณ์นักแสดง",
+            "audio_en_src": "The reporter asked to interview the actor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-089",
@@ -4201,7 +4239,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to inquire, to ask",
+        "sentences": [
+          {
+            "thai": "โทรไปสอบถามราคาก่อน",
+            "en": "Call to ask about the price first.",
+            "audio_src": "โทรไปสอบถามราคาก่อน",
+            "audio_en_src": "Call to ask about the price first."
+          },
+          {
+            "thai": "มีอะไรสงสัยสอบถามได้เลย",
+            "en": "If you have any questions, feel free to ask.",
+            "audio_src": "มีอะไรสงสัยสอบถามได้เลย",
+            "audio_en_src": "If you have any questions, feel free to ask."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-097",
@@ -4225,7 +4282,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "power cut",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนไฟดับทั้งคืน",
+            "en": "The power was out all night last night.",
+            "audio_src": "เมื่อคืนไฟดับทั้งคืน",
+            "audio_en_src": "The power was out all night last night."
+          },
+          {
+            "thai": "ไฟดับบ่อยช่วงหน้าฝน",
+            "en": "Power cuts happen often in the rainy season.",
+            "audio_src": "ไฟดับบ่อยช่วงหน้าฝน",
+            "audio_en_src": "Power cuts happen often in the rainy season."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-099",
@@ -4238,7 +4314,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to miss (e.g an opportunity, a target), to make a mistake",
+        "sentences": [
+          {
+            "thai": "ฉันพลาดรถเมล์คันสุดท้าย",
+            "en": "I missed the last bus.",
+            "audio_src": "ฉันพลาดรถเมล์คันสุดท้าย",
+            "audio_en_src": "I missed the last bus."
+          },
+          {
+            "thai": "เขาทำพลาดในเกมสุดท้าย",
+            "en": "He made a mistake in the final game.",
+            "audio_src": "เขาทำพลาดในเกมสุดท้าย",
+            "audio_en_src": "He made a mistake in the final game."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-100",
@@ -4389,7 +4484,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "step (stairs, process)",
+        "sentences": [
+          {
+            "thai": "ระวังขั้นบันไดลื่น",
+            "en": "Watch out, the steps are slippery.",
+            "audio_src": "ระวังขั้นบันไดลื่น",
+            "audio_en_src": "Watch out, the steps are slippery."
+          },
+          {
+            "thai": "ทำตามขั้นตอนทีละขั้น",
+            "en": "Follow the steps one at a time.",
+            "audio_src": "ทำตามขั้นตอนทีละขั้น",
+            "audio_en_src": "Follow the steps one at a time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-113",
@@ -4449,7 +4563,77 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "peak, summit, top",
+        "sentences": [
+          {
+            "thai": "เราปีนขึ้นไปถึงยอดเขา",
+            "en": "We climbed all the way to the mountain peak.",
+            "audio_src": "เราปีนขึ้นไปถึงยอดเขา",
+            "audio_en_src": "We climbed all the way to the mountain peak."
+          },
+          {
+            "thai": "ธงปักอยู่บนยอดตึก",
+            "en": "A flag is planted on top of the building.",
+            "audio_src": "ธงปักอยู่บนยอดตึก",
+            "audio_en_src": "A flag is planted on top of the building."
+          }
+        ]
+      },
+      {
+        "meaning": "total",
+        "sentences": [
+          {
+            "thai": "ยอดขายเดือนนี้สูงมาก",
+            "en": "This month's sales total is very high.",
+            "audio_src": "ยอดขายเดือนนี้สูงมาก",
+            "audio_en_src": "This month's sales total is very high."
+          },
+          {
+            "thai": "ช่วยรวมยอดทั้งหมดให้หน่อย",
+            "en": "Please add up the total for me.",
+            "audio_src": "ช่วยรวมยอดทั้งหมดให้หน่อย",
+            "audio_en_src": "Please add up the total for me."
+          }
+        ]
+      },
+      {
+        "meaning": "sprout, tip of plant stem",
+        "sentences": [
+          {
+            "thai": "เก็บยอดผักมาผัด",
+            "en": "Pick the tender vegetable tips to stir-fry.",
+            "audio_src": "เก็บยอดผักมาผัด",
+            "audio_en_src": "Pick the tender vegetable tips to stir-fry."
+          },
+          {
+            "thai": "ยอดอ่อนของต้นไม้สีเขียวสด",
+            "en": "The tree's new shoots are bright green.",
+            "audio_src": "ยอดอ่อนของต้นไม้สีเขียวสด",
+            "audio_en_src": "The tree's new shoots are bright green."
+          }
+        ]
+      },
+      {
+        "meaning": "excellent, great",
+        "sentences": [
+          {
+            "thai": "ฝีมือทำอาหารของเขายอดมาก",
+            "en": "His cooking skills are excellent.",
+            "audio_src": "ฝีมือทำอาหารของเขายอดมาก",
+            "audio_en_src": "His cooking skills are excellent."
+          },
+          {
+            "thai": "ความคิดนี้ยอดไปเลย",
+            "en": "This idea is brilliant!",
+            "audio_src": "ความคิดนี้ยอดไปเลย",
+            "audio_en_src": "This idea is brilliant!"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-118",
@@ -4485,7 +4669,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "famous",
+        "sentences": [
+          {
+            "thai": "เขาเป็นนักร้องที่มีชื่อเสียง",
+            "en": "He's a famous singer.",
+            "audio_src": "เขาเป็นนักร้องที่มีชื่อเสียง",
+            "audio_en_src": "He's a famous singer."
+          },
+          {
+            "thai": "ร้านนี้โด่งดังเรื่องก๋วยเตี๋ยว",
+            "en": "This shop is famous for its noodles.",
+            "audio_src": "ร้านนี้โด่งดังเรื่องก๋วยเตี๋ยว",
+            "audio_en_src": "This shop is famous for its noodles."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-121",
@@ -4503,7 +4706,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "excellent",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้รสชาติเลิศ",
+            "en": "The food at this restaurant tastes excellent.",
+            "audio_src": "อาหารร้านนี้รสชาติเลิศ",
+            "audio_en_src": "The food at this restaurant tastes excellent."
+          },
+          {
+            "thai": "เธอมีรสนิยมเลิศมาก",
+            "en": "She has excellent taste.",
+            "audio_src": "เธอมีรสนิยมเลิศมาก",
+            "audio_en_src": "She has excellent taste."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-122",
@@ -4593,7 +4815,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to assure, to guarantee",
+        "sentences": [
+          {
+            "thai": "ร้านรับประกันสินค้าหนึ่งปี",
+            "en": "The shop guarantees the product for one year.",
+            "audio_src": "ร้านรับประกันสินค้าหนึ่งปี",
+            "audio_en_src": "The shop guarantees the product for one year."
+          },
+          {
+            "thai": "ผมรับรองว่าเขาเป็นคนดี",
+            "en": "I assure you he's a good person.",
+            "audio_src": "ผมรับรองว่าเขาเป็นคนดี",
+            "audio_en_src": "I assure you he's a good person."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-131",

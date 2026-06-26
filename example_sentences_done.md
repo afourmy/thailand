@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1334 words**
+**Total: 1344 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -67,6 +67,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-074` : เปิดเผย (to reveal, to disclose) : 1 meaning(s), 2 sentences
 - `chula-l5-075` : เคาะ (to knock, to hit lightly) : 1 meaning(s), 2 sentences
 - `chula-l5-080` : ระบุ (to specify, to identify) : 1 meaning(s), 2 sentences
+- `chula-l5-086` : เลื่อน (to postpone, to delay, to shift, to move, to slide) : 1 meaning(s), 2 sentences
+- `chula-l5-087` : สัมภาษณ์ (to interview) : 1 meaning(s), 2 sentences
+- `chula-l5-096` : สอบถาม (to inquire, to ask) : 1 meaning(s), 2 sentences
+- `chula-l5-098` : ไฟดับ (power cut) : 1 meaning(s), 2 sentences
+- `chula-l5-099` : พลาด (to miss (e.g an opportunity, a target), to make a mistake) : 1 meaning(s), 2 sentences
+- `chula-l5-112` : ขั้น (step (stairs, process)) : 1 meaning(s), 2 sentences
+- `chula-l5-117` : ยอด (peak, summit, top; total; sprout, tip of plant stem; excellent, great) : 4 meaning(s), 8 sentences
+- `chula-l5-120` : โด่งดัง, ชื่อดัง, มีชื่อเสียง (famous) : 1 meaning(s), 2 sentences
+- `chula-l5-121` : เลิศ (excellent) : 1 meaning(s), 2 sentences
+- `chula-l5-130` : รับรอง, รับประกัน (to assure, to guarantee) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
