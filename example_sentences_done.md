@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1574 words**
+**Total: 1584 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -399,15 +399,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-308` : พอ (enough; when, as soon as, once) : 2 meaning(s), 4 sentences
 - `tamago-l12-311` : พอๆกัน (almost the same, about the same) : 1 meaning(s), 2 sentences
 - `tamago-l12-312` : พักกลางวัน (lunch break) : 1 meaning(s), 2 sentences
+- `tamago-l12-313` : พับผ้า (to fold clothes) : 1 meaning(s), 2 sentences
+- `tamago-l12-314` : พัสดุ (parcel, package) : 1 meaning(s), 2 sentences
 - `tamago-l12-317` : พาไป (to take someone somewhere) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
+- `tamago-l12-325` : ฟิต (physically fit, in good shape (loanword)) : 1 meaning(s), 2 sentences
+- `tamago-l12-326` : ฟิตหุ่น (to get in shape) : 1 meaning(s), 2 sentences
 - `tamago-l12-329` : ภรรยา (wife (formal)) : 1 meaning(s), 2 sentences
+- `tamago-l12-332` : ม.ปลาย (high school (upper secondary)) : 1 meaning(s), 2 sentences
 - `tamago-l12-333` : มอเตอร์ไซค์ (motorcycle) : 1 meaning(s), 2 sentences
 - `tamago-l12-335` : มักจะ (to tend to, usually) : 1 meaning(s), 2 sentences
 - `tamago-l12-336` : มัน (it (pronoun); fun, enjoyable; oily) : 3 meaning(s), 6 sentences
 - `tamago-l12-337` : มั้ง (perhaps, maybe (sentence ending)) : 1 meaning(s), 2 sentences
 - `tamago-l12-338` : มากขึ้น (more than before, increasingly) : 1 meaning(s), 2 sentences
+- `tamago-l12-339` : มืดสนิท (completely dark, pitch black) : 1 meaning(s), 2 sentences
+- `tamago-l12-340` : ยกเวท (to lift weights) : 1 meaning(s), 2 sentences
+- `tamago-l12-343` : ยัย (pronoun to refer to a girl of similar age (informal term, teasing or scolding tone)) : 1 meaning(s), 2 sentences
 - `tamago-l12-346` : ยิ่ง, ยิ่งขึ้น (more (so), even more) : 1 meaning(s), 2 sentences
+- `tamago-l12-347` : ยุติธรรม (fair, just) : 1 meaning(s), 2 sentences
+- `tamago-l12-348` : ยุ่งยาก (complicated, troublesome) : 1 meaning(s), 2 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
 - `tamago-l12-352` : รดน้ำ (to water (plants), to pour water) : 1 meaning(s), 2 sentences
 - `tamago-l12-353` : รถตู้ (minivan (taxi or shuttle)) : 1 meaning(s), 2 sentences

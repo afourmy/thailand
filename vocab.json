@@ -22695,7 +22695,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to fold clothes",
+        "sentences": [
+          {
+            "thai": "ซักเสร็จแล้วช่วยพับผ้าด้วยนะ",
+            "en": "After the laundry's done, help fold the clothes.",
+            "audio_src": "ซักเสร็จแล้วช่วยพับผ้าด้วยนะ",
+            "audio_en_src": "After the laundry's done, help fold the clothes."
+          },
+          {
+            "thai": "แม่นั่งพับผ้าอยู่หน้าทีวี",
+            "en": "Mom sits folding clothes in front of the TV.",
+            "audio_src": "แม่นั่งพับผ้าอยู่หน้าทีวี",
+            "audio_en_src": "Mom sits folding clothes in front of the TV."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-314",
@@ -22708,7 +22727,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "parcel, package",
+        "sentences": [
+          {
+            "thai": "พัสดุที่สั่งไว้เพิ่งมาส่งเมื่อเช้า",
+            "en": "The package I ordered was just delivered this morning.",
+            "audio_src": "พัสดุที่สั่งไว้เพิ่งมาส่งเมื่อเช้า",
+            "audio_en_src": "The package I ordered was just delivered this morning."
+          },
+          {
+            "thai": "ไปรับพัสดุที่ไปรษณีย์หน่อย",
+            "en": "Go pick up the parcel at the post office.",
+            "audio_src": "ไปรับพัสดุที่ไปรษณีย์หน่อย",
+            "audio_en_src": "Go pick up the parcel at the post office."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-315",
@@ -22895,7 +22933,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "physically fit, in good shape (loanword)",
+        "sentences": [
+          {
+            "thai": "เขาออกกำลังกายทุกวันเลยฟิตมาก",
+            "en": "He works out every day, so he's very fit.",
+            "audio_src": "เขาออกกำลังกายทุกวันเลยฟิตมาก",
+            "audio_en_src": "He works out every day, so he's very fit."
+          },
+          {
+            "thai": "อายุเยอะแล้วแต่ยังฟิตอยู่เลย",
+            "en": "He's getting old but still in great shape.",
+            "audio_src": "อายุเยอะแล้วแต่ยังฟิตอยู่เลย",
+            "audio_en_src": "He's getting old but still in great shape."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-326",
@@ -22907,7 +22964,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to get in shape",
+        "sentences": [
+          {
+            "thai": "เธอเริ่มฟิตหุ่นก่อนไปเที่ยวทะเล",
+            "en": "She started getting in shape before her beach trip.",
+            "audio_src": "เธอเริ่มฟิตหุ่นก่อนไปเที่ยวทะเล",
+            "audio_en_src": "She started getting in shape before her beach trip."
+          },
+          {
+            "thai": "ปีนี้ตั้งใจจะฟิตหุ่นให้ได้",
+            "en": "This year I'm determined to get in shape.",
+            "audio_src": "ปีนี้ตั้งใจจะฟิตหุ่นให้ได้",
+            "audio_en_src": "This year I'm determined to get in shape."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-327",
@@ -22989,7 +23065,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "high school (upper secondary)",
+        "sentences": [
+          {
+            "thai": "ลูกชายเขาเรียนอยู่ ม.ปลาย",
+            "en": "His son is in high school.",
+            "audio_src": "ลูกชายเขาเรียนอยู่ ม.ปลาย",
+            "audio_en_src": "His son is in high school."
+          },
+          {
+            "thai": "พอจบ ม.ปลาย เขาก็เข้ามหาวิทยาลัย",
+            "en": "After finishing high school, he went to university.",
+            "audio_src": "พอจบ ม.ปลาย เขาก็เข้ามหาวิทยาลัย",
+            "audio_en_src": "After finishing high school, he went to university."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-333",
@@ -23219,7 +23314,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "completely dark, pitch black",
+        "sentences": [
+          {
+            "thai": "ไฟดับทั้งซอย มืดสนิทไปหมด",
+            "en": "The power went out in the whole alley, it's pitch black.",
+            "audio_src": "ไฟดับทั้งซอย มืดสนิทไปหมด",
+            "audio_en_src": "The power went out in the whole alley, it's pitch black."
+          },
+          {
+            "thai": "ในถ้ำมืดสนิท ต้องใช้ไฟฉาย",
+            "en": "It's completely dark in the cave, you need a flashlight.",
+            "audio_src": "ในถ้ำมืดสนิท ต้องใช้ไฟฉาย",
+            "audio_en_src": "It's completely dark in the cave, you need a flashlight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-340",
@@ -23231,7 +23345,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to lift weights",
+        "sentences": [
+          {
+            "thai": "เขาไปยกเวทที่ฟิตเนสทุกเย็น",
+            "en": "He goes to lift weights at the gym every evening.",
+            "audio_src": "เขาไปยกเวทที่ฟิตเนสทุกเย็น",
+            "audio_en_src": "He goes to lift weights at the gym every evening."
+          },
+          {
+            "thai": "ยกเวทหนักไปเมื่อวาน วันนี้ปวดแขน",
+            "en": "I lifted too heavy yesterday, my arms hurt today.",
+            "audio_src": "ยกเวทหนักไปเมื่อวาน วันนี้ปวดแขน",
+            "audio_en_src": "I lifted too heavy yesterday, my arms hurt today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-341",
@@ -23267,7 +23400,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "pronoun to refer to a girl of similar age (informal term, teasing or scolding tone)",
+        "sentences": [
+          {
+            "thai": "ยัยนี่พูดมากจังเลย",
+            "en": "This girl talks so much.",
+            "audio_src": "ยัยนี่พูดมากจังเลย",
+            "audio_en_src": "This girl talks so much."
+          },
+          {
+            "thai": "ไปไหนมายัย ทำไมเพิ่งกลับ",
+            "en": "Where've you been, girl, why are you back so late?",
+            "audio_src": "ไปไหนมายัย ทำไมเพิ่งกลับ",
+            "audio_en_src": "Where've you been, girl, why are you back so late?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-344",
@@ -23328,7 +23480,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fair, just",
+        "sentences": [
+          {
+            "thai": "ครูตัดสินอย่างยุติธรรมกับทุกคน",
+            "en": "The teacher judges everyone fairly.",
+            "audio_src": "ครูตัดสินอย่างยุติธรรมกับทุกคน",
+            "audio_en_src": "The teacher judges everyone fairly."
+          },
+          {
+            "thai": "เขารู้สึกว่าการแบ่งงานไม่ยุติธรรม",
+            "en": "He feels the division of work isn't fair.",
+            "audio_src": "เขารู้สึกว่าการแบ่งงานไม่ยุติธรรม",
+            "audio_en_src": "He feels the division of work isn't fair."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-348",
@@ -23342,7 +23513,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "complicated, troublesome",
+        "sentences": [
+          {
+            "thai": "ขั้นตอนการสมัครยุ่งยากกว่าที่คิด",
+            "en": "The application process is more complicated than I thought.",
+            "audio_src": "ขั้นตอนการสมัครยุ่งยากกว่าที่คิด",
+            "audio_en_src": "The application process is more complicated than I thought."
+          },
+          {
+            "thai": "ไม่อยากทำเรื่องยุ่งยาก ขอแบบง่ายๆ",
+            "en": "I don't want anything troublesome, I'd like it simple.",
+            "audio_src": "ไม่อยากทำเรื่องยุ่งยาก ขอแบบง่ายๆ",
+            "audio_en_src": "I don't want anything troublesome, I'd like it simple."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-349",
