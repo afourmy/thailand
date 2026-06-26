@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1804 words**
+**Total: 1814 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -780,8 +780,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-398` : กล่อม (to persuade gently, to soothe; to sing a lullaby) : 2 meaning(s), 4 sentences
 - `tamago-l3-399` : ตื๊อ (to pester, to insist relentlessly in an annoying way) : 1 meaning(s), 2 sentences
 - `tamago-l3-400` : แปลออก (to know the meaning of a foreign word, to be able to translate) : 1 meaning(s), 2 sentences
+- `tamago-l3-402` : รก (messy, untidy, cluttered) : 1 meaning(s), 2 sentences
+- `tamago-l3-403` : อดใจ (to resist the urge, to hold back) : 1 meaning(s), 2 sentences
 - `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
+- `tamago-l3-405` : ดัดแปลง (to modify, to adapt, to alter) : 1 meaning(s), 2 sentences
+- `tamago-l3-409` : สม, สมกับ (worthy of, matching, befitting) : 1 meaning(s), 2 sentences
+- `tamago-l3-410` : คำร่ำลือ (reputation, hearsay, rumor, what people say) : 1 meaning(s), 2 sentences
 - `tamago-l3-411` : ...สุดๆไปเลย (insanely, extremely) : 1 meaning(s), 2 sentences
+- `tamago-l3-414` : เข้าสังคม (to socialize) : 1 meaning(s), 2 sentences
+- `tamago-l3-415` : ปิดเงียบ (to keep secret, to remain silent about something) : 1 meaning(s), 2 sentences
+- `tamago-l3-420` : เรืองแสง (to glow, to emit light) : 1 meaning(s), 2 sentences
+- `tamago-l3-422` : อำ (to prank, to trick, to fake, to bluff) : 1 meaning(s), 2 sentences
+- `tamago-l3-423` : เรอ (to burp) : 1 meaning(s), 2 sentences
 - `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences

@@ -39979,7 +39979,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "messy, untidy, cluttered",
+        "sentences": [
+          {
+            "thai": "ห้องรกจนหาของไม่เจอ",
+            "en": "The room is so messy I can't find anything.",
+            "audio_src": "ห้องรกจนหาของไม่เจอ",
+            "audio_en_src": "The room is so messy I can't find anything."
+          },
+          {
+            "thai": "โต๊ะทำงานรกไปด้วยกองเอกสาร",
+            "en": "The desk is cluttered with piles of documents.",
+            "audio_src": "โต๊ะทำงานรกไปด้วยกองเอกสาร",
+            "audio_en_src": "The desk is cluttered with piles of documents."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-403",
@@ -39991,7 +40010,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to resist the urge, to hold back",
+        "sentences": [
+          {
+            "thai": "เห็นเค้กแล้วอดใจไม่ไหว ขอชิมหน่อย",
+            "en": "Seeing the cake I can't resist, let me have a bite.",
+            "audio_src": "เห็นเค้กแล้วอดใจไม่ไหว ขอชิมหน่อย",
+            "audio_en_src": "Seeing the cake I can't resist, let me have a bite."
+          },
+          {
+            "thai": "เขาอดใจไม่ซื้อของที่ไม่จำเป็น",
+            "en": "He holds back from buying unnecessary things.",
+            "audio_src": "เขาอดใจไม่ซื้อของที่ไม่จำเป็น",
+            "audio_en_src": "He holds back from buying unnecessary things."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-404",
@@ -40056,7 +40094,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to modify, to adapt, to alter",
+        "sentences": [
+          {
+            "thai": "เขาดัดแปลงโรงรถเป็นห้องทำงาน",
+            "en": "He converted the garage into a workroom.",
+            "audio_src": "เขาดัดแปลงโรงรถเป็นห้องทำงาน",
+            "audio_en_src": "He converted the garage into a workroom."
+          },
+          {
+            "thai": "เธอดัดแปลงสูตรเดิมให้ถูกปากคนไทย",
+            "en": "She adapted the original recipe to suit Thai tastes.",
+            "audio_src": "เธอดัดแปลงสูตรเดิมให้ถูกปากคนไทย",
+            "audio_en_src": "She adapted the original recipe to suit Thai tastes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-406",
@@ -40100,7 +40157,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "worthy of, matching, befitting",
+        "sentences": [
+          {
+            "thai": "เขาได้รางวัลนี้สมกับที่ทุ่มเทมา",
+            "en": "He won this award, befitting all his hard work.",
+            "audio_src": "เขาได้รางวัลนี้สมกับที่ทุ่มเทมา",
+            "audio_en_src": "He won this award, befitting all his hard work."
+          },
+          {
+            "thai": "ของชิ้นนี้คุณภาพดีสมราคา",
+            "en": "This item is good quality, worth the price.",
+            "audio_src": "ของชิ้นนี้คุณภาพดีสมราคา",
+            "audio_en_src": "This item is good quality, worth the price."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-410",
@@ -40112,7 +40188,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "reputation, hearsay, rumor, what people say",
+        "sentences": [
+          {
+            "thai": "ร้านนี้อร่อยสมคำร่ำลือจริงๆ",
+            "en": "This shop really is as delicious as everyone says.",
+            "audio_src": "ร้านนี้อร่อยสมคำร่ำลือจริงๆ",
+            "audio_en_src": "This shop really is as delicious as everyone says."
+          },
+          {
+            "thai": "คำร่ำลือเรื่องผีในตึกนี้มีมานาน",
+            "en": "The rumors about ghosts in this building have been around a long time.",
+            "audio_src": "คำร่ำลือเรื่องผีในตึกนี้มีมานาน",
+            "audio_en_src": "The rumors about ghosts in this building have been around a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-411",
@@ -40179,7 +40274,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to socialize",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนเก็บตัว ไม่ค่อยเข้าสังคม",
+            "en": "He's a loner and doesn't socialize much.",
+            "audio_src": "เขาเป็นคนเก็บตัว ไม่ค่อยเข้าสังคม",
+            "audio_en_src": "He's a loner and doesn't socialize much."
+          },
+          {
+            "thai": "การเข้าสังคมช่วยให้เรารู้จักคนใหม่ๆ",
+            "en": "Socializing helps us meet new people.",
+            "audio_src": "การเข้าสังคมช่วยให้เรารู้จักคนใหม่ๆ",
+            "audio_en_src": "Socializing helps us meet new people."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-415",
@@ -40191,7 +40305,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to keep secret, to remain silent about something",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้บริษัทปิดเงียบไม่ให้ใครรู้",
+            "en": "The company kept this matter quiet from everyone.",
+            "audio_src": "เรื่องนี้บริษัทปิดเงียบไม่ให้ใครรู้",
+            "audio_en_src": "The company kept this matter quiet from everyone."
+          },
+          {
+            "thai": "เขาปิดเงียบเรื่องที่ลาออกจากงาน",
+            "en": "He kept quiet about quitting his job.",
+            "audio_src": "เขาปิดเงียบเรื่องที่ลาออกจากงาน",
+            "audio_en_src": "He kept quiet about quitting his job."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-416",
@@ -40244,7 +40377,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to glow, to emit light",
+        "sentences": [
+          {
+            "thai": "ดาวบนเพดานห้องเรืองแสงในความมืด",
+            "en": "The stars on the ceiling glow in the dark.",
+            "audio_src": "ดาวบนเพดานห้องเรืองแสงในความมืด",
+            "audio_en_src": "The stars on the ceiling glow in the dark."
+          },
+          {
+            "thai": "หิ่งห้อยเรืองแสงสวยงามยามค่ำคืน",
+            "en": "Fireflies glow beautifully at night.",
+            "audio_src": "หิ่งห้อยเรืองแสงสวยงามยามค่ำคืน",
+            "audio_en_src": "Fireflies glow beautifully at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-421",
@@ -40267,7 +40419,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to prank, to trick, to fake, to bluff",
+        "sentences": [
+          {
+            "thai": "เพื่อนอำว่าวันนี้เลิกเรียนเร็ว",
+            "en": "My friend pranked me, saying class ended early today.",
+            "audio_src": "เพื่อนอำว่าวันนี้เลิกเรียนเร็ว",
+            "audio_en_src": "My friend pranked me, saying class ended early today."
+          },
+          {
+            "thai": "อย่ามาอำกันเล่นนะ ฉันเชื่อจริงๆ",
+            "en": "Don't play a prank on me, I really believed you.",
+            "audio_src": "อย่ามาอำกันเล่นนะ ฉันเชื่อจริงๆ",
+            "audio_en_src": "Don't play a prank on me, I really believed you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-423",
@@ -40280,7 +40451,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to burp",
+        "sentences": [
+          {
+            "thai": "กินอิ่มแล้วเขาก็เรอเสียงดัง",
+            "en": "After eating his fill, he burped loudly.",
+            "audio_src": "กินอิ่มแล้วเขาก็เรอเสียงดัง",
+            "audio_en_src": "After eating his fill, he burped loudly."
+          },
+          {
+            "thai": "อุ้มทารกพาดบ่าให้เรอหลังกินนม",
+            "en": "Hold the baby over your shoulder to burp after feeding.",
+            "audio_src": "อุ้มทารกพาดบ่าให้เรอหลังกินนม",
+            "audio_en_src": "Hold the baby over your shoulder to burp after feeding."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-424",
