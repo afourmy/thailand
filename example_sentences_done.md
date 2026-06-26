@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1824 words**
+**Total: 1834 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -802,6 +802,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-436` : เชี่ยว (skilled, expert; rapid (of water current)) : 2 meaning(s), 4 sentences
 - `tamago-l3-440` : หุ่น (body shape, body figure) : 1 meaning(s), 2 sentences
 - `tamago-l3-442` : ล่ม (to sink (a boat), to collapse, to fail (a system, an exam)) : 1 meaning(s), 3 sentences
+- `tamago-l3-443` : ชิด (close, adjacent) : 1 meaning(s), 2 sentences
+- `tamago-l3-446` : ก้ม (to bend down, to bow (head)) : 1 meaning(s), 2 sentences
+- `tamago-l3-448` : แนบ (to attach, to stick to, to be close next to) : 1 meaning(s), 2 sentences
+- `tamago-l3-449` : กวาด, ปัดกวาด (to sweep) : 1 meaning(s), 2 sentences
+- `tamago-l3-450` : งอ (to bend, to curve) : 1 meaning(s), 2 sentences
+- `tamago-l3-452` : พูดแทรก (to interrupt someone (while speaking)) : 1 meaning(s), 2 sentences
+- `tamago-l3-456` : อายุยืนนาน (to live a long life) : 1 meaning(s), 2 sentences
+- `tamago-l3-457` : ในใจ (silently, inwardly, in one's heart) : 1 meaning(s), 2 sentences
+- `tamago-l3-459` : มหาเศรษฐี (multimillionaire) : 1 meaning(s), 2 sentences
+- `tamago-l3-462` : ขอทาน (beggar) : 1 meaning(s), 2 sentences
 - `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences

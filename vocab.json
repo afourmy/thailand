@@ -40929,7 +40929,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "close, adjacent",
+        "sentences": [
+          {
+            "thai": "ขับรถชิดซ้ายเข้าไว้นะ",
+            "en": "Keep the car close to the left.",
+            "audio_src": "ขับรถชิดซ้ายเข้าไว้นะ",
+            "audio_en_src": "Keep the car close to the left."
+          },
+          {
+            "thai": "ในรถเมล์คนยืนชิดกันแน่นมาก",
+            "en": "On the bus people stand packed close together.",
+            "audio_src": "ในรถเมล์คนยืนชิดกันแน่นมาก",
+            "audio_en_src": "On the bus people stand packed close together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-444",
@@ -40962,7 +40981,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to bend down, to bow (head)",
+        "sentences": [
+          {
+            "thai": "เขาก้มลงเก็บปากกาที่ตกพื้น",
+            "en": "He bent down to pick up the pen that fell.",
+            "audio_src": "เขาก้มลงเก็บปากกาที่ตกพื้น",
+            "audio_en_src": "He bent down to pick up the pen that fell."
+          },
+          {
+            "thai": "นักเรียนก้มหัวคำนับครู",
+            "en": "The students bowed their heads to the teacher.",
+            "audio_src": "นักเรียนก้มหัวคำนับครู",
+            "audio_en_src": "The students bowed their heads to the teacher."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-447",
@@ -40986,7 +41024,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to attach, to stick to, to be close next to",
+        "sentences": [
+          {
+            "thai": "กรุณาแนบสำเนาบัตรประชาชนมาด้วย",
+            "en": "Please attach a copy of your ID card.",
+            "audio_src": "กรุณาแนบสำเนาบัตรประชาชนมาด้วย",
+            "audio_en_src": "Please attach a copy of your ID card."
+          },
+          {
+            "thai": "เด็กน้อยนอนแนบอกแม่",
+            "en": "The little child sleeps snuggled against his mother's chest.",
+            "audio_src": "เด็กน้อยนอนแนบอกแม่",
+            "audio_en_src": "The little child sleeps snuggled against his mother's chest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-449",
@@ -41001,7 +41058,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to sweep",
+        "sentences": [
+          {
+            "thai": "ทุกเช้าเขากวาดใบไม้หน้าบ้าน",
+            "en": "Every morning he sweeps the leaves in front of the house.",
+            "audio_src": "ทุกเช้าเขากวาดใบไม้หน้าบ้าน",
+            "audio_en_src": "Every morning he sweeps the leaves in front of the house."
+          },
+          {
+            "thai": "ช่วยกวาดพื้นห้องให้สะอาดหน่อย",
+            "en": "Please sweep the floor clean.",
+            "audio_src": "ช่วยกวาดพื้นห้องให้สะอาดหน่อย",
+            "audio_en_src": "Please sweep the floor clean."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-450",
@@ -41015,7 +41091,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to bend, to curve",
+        "sentences": [
+          {
+            "thai": "งอเข่าเล็กน้อยก่อนกระโดด",
+            "en": "Bend your knees slightly before jumping.",
+            "audio_src": "งอเข่าเล็กน้อยก่อนกระโดด",
+            "audio_en_src": "Bend your knees slightly before jumping."
+          },
+          {
+            "thai": "ลวดเส้นนี้งอง่ายมาก",
+            "en": "This wire bends very easily.",
+            "audio_src": "ลวดเส้นนี้งอง่ายมาก",
+            "audio_en_src": "This wire bends very easily."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-451",
@@ -41038,7 +41133,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to interrupt someone (while speaking)",
+        "sentences": [
+          {
+            "thai": "อย่าพูดแทรกตอนคนอื่นกำลังพูด",
+            "en": "Don't interrupt while others are talking.",
+            "audio_src": "อย่าพูดแทรกตอนคนอื่นกำลังพูด",
+            "audio_en_src": "Don't interrupt while others are talking."
+          },
+          {
+            "thai": "เขาชอบพูดแทรกจนฉันพูดไม่จบ",
+            "en": "He keeps interrupting so I can't finish what I'm saying.",
+            "audio_src": "เขาชอบพูดแทรกจนฉันพูดไม่จบ",
+            "audio_en_src": "He keeps interrupting so I can't finish what I'm saying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-454",
@@ -41070,7 +41184,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to live a long life",
+        "sentences": [
+          {
+            "thai": "คนที่กินอาหารดีมักอายุยืนนาน",
+            "en": "People who eat well tend to live long lives.",
+            "audio_src": "คนที่กินอาหารดีมักอายุยืนนาน",
+            "audio_en_src": "People who eat well tend to live long lives."
+          },
+          {
+            "thai": "ขอให้คุณยายอายุยืนนานนะคะ",
+            "en": "I wish you a long life, Grandma.",
+            "audio_src": "ขอให้คุณยายอายุยืนนานนะคะ",
+            "audio_en_src": "I wish you a long life, Grandma."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-457",
@@ -41082,7 +41215,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "silently, inwardly, in one's heart",
+        "sentences": [
+          {
+            "thai": "เขาท่องบทสวดในใจเงียบๆ",
+            "en": "He recited the prayer silently in his head.",
+            "audio_src": "เขาท่องบทสวดในใจเงียบๆ",
+            "audio_en_src": "He recited the prayer silently in his head."
+          },
+          {
+            "thai": "ฉันแอบชอบเขาอยู่ในใจมานาน",
+            "en": "I've secretly liked him in my heart for a long time.",
+            "audio_src": "ฉันแอบชอบเขาอยู่ในใจมานาน",
+            "audio_en_src": "I've secretly liked him in my heart for a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-458",
@@ -41104,7 +41256,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "multimillionaire",
+        "sentences": [
+          {
+            "thai": "เขากลายเป็นมหาเศรษฐีจากการลงทุนหุ้น",
+            "en": "He became a multimillionaire from stock investing.",
+            "audio_src": "เขากลายเป็นมหาเศรษฐีจากการลงทุนหุ้น",
+            "audio_en_src": "He became a multimillionaire from stock investing."
+          },
+          {
+            "thai": "มหาเศรษฐีคนนี้มีบ้านหลายหลังทั่วโลก",
+            "en": "This multimillionaire has many houses around the world.",
+            "audio_src": "มหาเศรษฐีคนนี้มีบ้านหลายหลังทั่วโลก",
+            "audio_en_src": "This multimillionaire has many houses around the world."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-460",
@@ -41138,7 +41309,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "beggar",
+        "sentences": [
+          {
+            "thai": "มีขอทานนั่งขอเงินอยู่หน้าวัด",
+            "en": "There's a beggar sitting asking for money in front of the temple.",
+            "audio_src": "มีขอทานนั่งขอเงินอยู่หน้าวัด",
+            "audio_en_src": "There's a beggar sitting asking for money in front of the temple."
+          },
+          {
+            "thai": "เขาให้เหรียญกับขอทานข้างทาง",
+            "en": "He gave a coin to the beggar by the roadside.",
+            "audio_src": "เขาให้เหรียญกับขอทานข้างทาง",
+            "audio_en_src": "He gave a coin to the beggar by the roadside."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-463",
