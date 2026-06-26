@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1884 words**
+**Total: 1894 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -871,9 +871,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-599` : ตำหนิ (to criticize, to find fault with) : 1 meaning(s), 2 sentences
 - `tamago-l3-600` : สรรหา (to seek out, search for, dig up, to pick carefully, to recruit) : 1 meaning(s), 2 sentences
 - `tamago-l3-603` : แย้ง (to argue against, to refute, to contradict) : 1 meaning(s), 2 sentences
+- `tamago-l3-604` : ยอมจำนน (to surrender, to give up, to concede) : 1 meaning(s), 2 sentences
+- `tamago-l3-606` : คาบ ((school) period, class) : 1 meaning(s), 2 sentences
+- `tamago-l3-608` : สืบทอด (to inherit, to carry on (a business, tradition)) : 1 meaning(s), 2 sentences
 - `tamago-l3-609` : งานอดิเรก (hobby) : 1 meaning(s), 2 sentences
 - `tamago-l3-610` : เจอหน้า (to meet in person, to see each other) : 1 meaning(s), 2 sentences
+- `tamago-l3-611` : ความคิดสร้างสรรค์ (creativity) : 1 meaning(s), 2 sentences
+- `tamago-l3-613` : อยู่ตัว (stable, settled) : 1 meaning(s), 2 sentences
+- `tamago-l3-615` : ความอยู่รอด (survival) : 1 meaning(s), 2 sentences
+- `tamago-l3-616` : โละทิ้ง (to discard, to throw out (e.g unwanted, obsolete things)) : 1 meaning(s), 2 sentences
+- `tamago-l3-619` : มีส่วน, มีส่วนร่วม (to take part in, to be involved in) : 1 meaning(s), 2 sentences
+- `tamago-l3-620` : สุขสบาย (comfortable and happy, at ease) : 1 meaning(s), 2 sentences
 - `tamago-l3-621` : เจ๋ง (cool, awesome (slang)) : 1 meaning(s), 2 sentences
+- `tamago-l3-626` : ชะตาชีวิต (fate, destiny) : 1 meaning(s), 2 sentences
 - `tamago-l3-633` : สนับสนุน (to support, to back up, to promote) : 1 meaning(s), 2 sentences
 - `tamago-l3-640` : ย่าน (area, zone, neighborhood) : 1 meaning(s), 2 sentences
 - `tamago-l3-641` : สดๆ (fresh; new, very recent) : 2 meaning(s), 4 sentences

@@ -44083,7 +44083,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to surrender, to give up, to concede",
+        "sentences": [
+          {
+            "thai": "ทหารฝ่ายแพ้ยอมจำนนในที่สุด",
+            "en": "The losing soldiers finally surrendered.",
+            "audio_src": "ทหารฝ่ายแพ้ยอมจำนนในที่สุด",
+            "audio_en_src": "The losing soldiers finally surrendered."
+          },
+          {
+            "thai": "เขาไม่ยอมจำนนต่ออุปสรรคง่ายๆ",
+            "en": "He won't easily give in to obstacles.",
+            "audio_src": "เขาไม่ยอมจำนนต่ออุปสรรคง่ายๆ",
+            "audio_en_src": "He won't easily give in to obstacles."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-605",
@@ -44107,7 +44126,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "(school) period, class",
+        "sentences": [
+          {
+            "thai": "คาบแรกของวันนี้คือวิชาเลข",
+            "en": "The first period today is math.",
+            "audio_src": "คาบแรกของวันนี้คือวิชาเลข",
+            "audio_en_src": "The first period today is math."
+          },
+          {
+            "thai": "ครูไม่มา เลยได้พักหนึ่งคาบ",
+            "en": "The teacher didn't come, so we got a free period.",
+            "audio_src": "ครูไม่มา เลยได้พักหนึ่งคาบ",
+            "audio_en_src": "The teacher didn't come, so we got a free period."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-607",
@@ -44132,7 +44170,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to inherit, to carry on (a business, tradition)",
+        "sentences": [
+          {
+            "thai": "เขาสืบทอดกิจการร้านอาหารจากพ่อ",
+            "en": "He inherited the restaurant business from his father.",
+            "audio_src": "เขาสืบทอดกิจการร้านอาหารจากพ่อ",
+            "audio_en_src": "He inherited the restaurant business from his father."
+          },
+          {
+            "thai": "ประเพณีนี้สืบทอดกันมาหลายร้อยปี",
+            "en": "This tradition has been passed down for hundreds of years.",
+            "audio_src": "ประเพณีนี้สืบทอดกันมาหลายร้อยปี",
+            "audio_en_src": "This tradition has been passed down for hundreds of years."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-609",
@@ -44212,7 +44269,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "creativity",
+        "sentences": [
+          {
+            "thai": "งานนี้ต้องใช้ความคิดสร้างสรรค์สูง",
+            "en": "This work requires a lot of creativity.",
+            "audio_src": "งานนี้ต้องใช้ความคิดสร้างสรรค์สูง",
+            "audio_en_src": "This work requires a lot of creativity."
+          },
+          {
+            "thai": "เด็กควรได้รับการส่งเสริมความคิดสร้างสรรค์",
+            "en": "Children should be encouraged to develop creativity.",
+            "audio_src": "เด็กควรได้รับการส่งเสริมความคิดสร้างสรรค์",
+            "audio_en_src": "Children should be encouraged to develop creativity."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-612",
@@ -44234,7 +44310,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stable, settled",
+        "sentences": [
+          {
+            "thai": "หลังเปลี่ยนงานมาพักใหญ่ ตอนนี้ชีวิตเริ่มอยู่ตัว",
+            "en": "After changing jobs a while ago, life is now starting to settle.",
+            "audio_src": "หลังเปลี่ยนงานมาพักใหญ่ ตอนนี้ชีวิตเริ่มอยู่ตัว",
+            "audio_en_src": "After changing jobs a while ago, life is now starting to settle."
+          },
+          {
+            "thai": "ยอดขายเริ่มอยู่ตัวหลังเปิดร้านมาหนึ่งปี",
+            "en": "Sales have started to stabilize after a year of being open.",
+            "audio_src": "ยอดขายเริ่มอยู่ตัวหลังเปิดร้านมาหนึ่งปี",
+            "audio_en_src": "Sales have started to stabilize after a year of being open."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-615",
@@ -44247,7 +44342,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "survival",
+        "sentences": [
+          {
+            "thai": "ในป่า ความอยู่รอดขึ้นอยู่กับการหาอาหาร",
+            "en": "In the forest, survival depends on finding food.",
+            "audio_src": "ในป่า ความอยู่รอดขึ้นอยู่กับการหาอาหาร",
+            "audio_en_src": "In the forest, survival depends on finding food."
+          },
+          {
+            "thai": "ธุรกิจเล็กต้องดิ้นรนเพื่อความอยู่รอด",
+            "en": "Small businesses have to struggle for survival.",
+            "audio_src": "ธุรกิจเล็กต้องดิ้นรนเพื่อความอยู่รอด",
+            "audio_en_src": "Small businesses have to struggle for survival."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-616",
@@ -44259,7 +44373,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to discard, to throw out (e.g unwanted, obsolete things)",
+        "sentences": [
+          {
+            "thai": "เขาโละทิ้งเสื้อผ้าเก่าที่ไม่ใส่แล้ว",
+            "en": "He threw out the old clothes he no longer wears.",
+            "audio_src": "เขาโละทิ้งเสื้อผ้าเก่าที่ไม่ใส่แล้ว",
+            "audio_en_src": "He threw out the old clothes he no longer wears."
+          },
+          {
+            "thai": "บริษัทโละทิ้งเครื่องจักรรุ่นเก่า",
+            "en": "The company scrapped the old machinery.",
+            "audio_src": "บริษัทโละทิ้งเครื่องจักรรุ่นเก่า",
+            "audio_en_src": "The company scrapped the old machinery."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-617",
@@ -44292,7 +44425,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take part in, to be involved in",
+        "sentences": [
+          {
+            "thai": "ทุกคนมีส่วนร่วมในการตัดสินใจครั้งนี้",
+            "en": "Everyone took part in this decision.",
+            "audio_src": "ทุกคนมีส่วนร่วมในการตัดสินใจครั้งนี้",
+            "audio_en_src": "Everyone took part in this decision."
+          },
+          {
+            "thai": "เขามีส่วนทำให้โครงการนี้สำเร็จ",
+            "en": "He played a part in making this project succeed.",
+            "audio_src": "เขามีส่วนทำให้โครงการนี้สำเร็จ",
+            "audio_en_src": "He played a part in making this project succeed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-620",
@@ -44305,7 +44457,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "comfortable and happy, at ease",
+        "sentences": [
+          {
+            "thai": "หลังเกษียณเขาใช้ชีวิตสุขสบายที่ต่างจังหวัด",
+            "en": "After retiring, he lives comfortably in the provinces.",
+            "audio_src": "หลังเกษียณเขาใช้ชีวิตสุขสบายที่ต่างจังหวัด",
+            "audio_en_src": "After retiring, he lives comfortably in the provinces."
+          },
+          {
+            "thai": "ขอให้ทุกคนอยู่สุขสบายตลอดปีใหม่นี้",
+            "en": "May everyone live happily and at ease throughout this new year.",
+            "audio_src": "ขอให้ทุกคนอยู่สุขสบายตลอดปีใหม่นี้",
+            "audio_en_src": "May everyone live happily and at ease throughout this new year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-621",
@@ -44391,7 +44562,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fate, destiny",
+        "sentences": [
+          {
+            "thai": "ไม่มีใครรู้ว่าชะตาชีวิตจะพาไปทางไหน",
+            "en": "No one knows where fate will take us.",
+            "audio_src": "ไม่มีใครรู้ว่าชะตาชีวิตจะพาไปทางไหน",
+            "audio_en_src": "No one knows where fate will take us."
+          },
+          {
+            "thai": "การเจอเขาเปลี่ยนชะตาชีวิตของเธอไปเลย",
+            "en": "Meeting him completely changed her destiny.",
+            "audio_src": "การเจอเขาเปลี่ยนชะตาชีวิตของเธอไปเลย",
+            "audio_en_src": "Meeting him completely changed her destiny."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-627",
