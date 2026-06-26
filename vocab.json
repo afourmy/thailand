@@ -31237,7 +31237,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "reliability, credibility, trustworthiness",
+        "sentences": [
+          {
+            "thai": "ข่าวจากแหล่งนี้ขาดความน่าเชื่อถือ",
+            "en": "News from this source lacks credibility.",
+            "audio_src": "ข่าวจากแหล่งนี้ขาดความน่าเชื่อถือ",
+            "audio_en_src": "News from this source lacks credibility."
+          },
+          {
+            "thai": "บริษัทสร้างความน่าเชื่อถือด้วยบริการที่ดี",
+            "en": "The company builds trust through good service.",
+            "audio_src": "บริษัทสร้างความน่าเชื่อถือด้วยบริการที่ดี",
+            "audio_en_src": "The company builds trust through good service."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-002",
@@ -31260,7 +31279,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to name (give a name to)",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ตั้งชื่อลูกว่าน้ำใส",
+            "en": "The parents named their child Nam Sai.",
+            "audio_src": "พ่อแม่ตั้งชื่อลูกว่าน้ำใส",
+            "audio_en_src": "The parents named their child Nam Sai."
+          },
+          {
+            "thai": "เขาตั้งชื่อร้านตามชื่อคุณยาย",
+            "en": "He named the shop after his grandmother.",
+            "audio_src": "เขาตั้งชื่อร้านตามชื่อคุณยาย",
+            "audio_en_src": "He named the shop after his grandmother."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-004",
@@ -31272,7 +31310,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "certificate",
+        "sentences": [
+          {
+            "thai": "เขาขอใบรับรองการทำงานจากบริษัทเก่า",
+            "en": "He requested an employment certificate from his old company.",
+            "audio_src": "เขาขอใบรับรองการทำงานจากบริษัทเก่า",
+            "audio_en_src": "He requested an employment certificate from his old company."
+          },
+          {
+            "thai": "ต้องใช้ใบรับรองแพทย์ตอนลาป่วย",
+            "en": "You need a medical certificate when taking sick leave.",
+            "audio_src": "ต้องใช้ใบรับรองแพทย์ตอนลาป่วย",
+            "audio_en_src": "You need a medical certificate when taking sick leave."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-005",
@@ -31361,7 +31418,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pay attention, to take an interest in",
+        "sentences": [
+          {
+            "thai": "คนให้ความสนใจสินค้าใหม่กันมาก",
+            "en": "People are taking a lot of interest in the new product.",
+            "audio_src": "คนให้ความสนใจสินค้าใหม่กันมาก",
+            "audio_en_src": "People are taking a lot of interest in the new product."
+          },
+          {
+            "thai": "พ่อแม่ควรให้ความสนใจกับลูกมากขึ้น",
+            "en": "Parents should pay more attention to their children.",
+            "audio_src": "พ่อแม่ควรให้ความสนใจกับลูกมากขึ้น",
+            "audio_en_src": "Parents should pay more attention to their children."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-009",
@@ -31385,7 +31461,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to extend the time",
+        "sentences": [
+          {
+            "thai": "ทำไม่ทัน ขอต่อเวลาอีกหน่อย",
+            "en": "I can't finish in time, can I have a bit more time?",
+            "audio_src": "ทำไม่ทัน ขอต่อเวลาอีกหน่อย",
+            "audio_en_src": "I can't finish in time, can I have a bit more time?"
+          },
+          {
+            "thai": "กรรมการต่อเวลาการแข่งขันอีกห้านาที",
+            "en": "The referee added five more minutes to the match.",
+            "audio_src": "กรรมการต่อเวลาการแข่งขันอีกห้านาที",
+            "audio_en_src": "The referee added five more minutes to the match."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-011",
@@ -31397,7 +31492,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to lie face down",
+        "sentences": [
+          {
+            "thai": "หมอให้คนไข้นอนคว่ำเพื่อตรวจหลัง",
+            "en": "The doctor had the patient lie face down to examine the back.",
+            "audio_src": "หมอให้คนไข้นอนคว่ำเพื่อตรวจหลัง",
+            "audio_en_src": "The doctor had the patient lie face down to examine the back."
+          },
+          {
+            "thai": "เขานอนคว่ำเล่นมือถืออยู่บนเตียง",
+            "en": "He lay face down playing on his phone on the bed.",
+            "audio_src": "เขานอนคว่ำเล่นมือถืออยู่บนเตียง",
+            "audio_en_src": "He lay face down playing on his phone on the bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-012",
@@ -31422,7 +31536,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to make a payment, to settle a bill",
+        "sentences": [
+          {
+            "thai": "ลูกค้าชำระเงินผ่านแอปธนาคาร",
+            "en": "The customer paid through the banking app.",
+            "audio_src": "ลูกค้าชำระเงินผ่านแอปธนาคาร",
+            "audio_en_src": "The customer paid through the banking app."
+          },
+          {
+            "thai": "กรุณาชำระเงินที่เคาน์เตอร์ด้านหน้า",
+            "en": "Please make your payment at the front counter.",
+            "audio_src": "กรุณาชำระเงินที่เคาน์เตอร์ด้านหน้า",
+            "audio_en_src": "Please make your payment at the front counter."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-014",
@@ -31436,7 +31569,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "outside, exterior side",
+        "sentences": [
+          {
+            "thai": "ทาสีด้านนอกบ้านใหม่",
+            "en": "Repaint the exterior of the house.",
+            "audio_src": "ทาสีด้านนอกบ้านใหม่",
+            "audio_en_src": "Repaint the exterior of the house."
+          },
+          {
+            "thai": "ออกไปเดินเล่นข้างนอกกันไหม",
+            "en": "Shall we go for a walk outside?",
+            "audio_src": "ออกไปเดินเล่นข้างนอกกันไหม",
+            "audio_en_src": "Shall we go for a walk outside?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-016",
@@ -31449,7 +31601,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "empty, spacious, clear (of obstruction)",
+        "sentences": [
+          {
+            "thai": "ตอนเช้าถนนยังโล่ง รถไม่ติด",
+            "en": "In the morning the roads are still clear, no traffic.",
+            "audio_src": "ตอนเช้าถนนยังโล่ง รถไม่ติด",
+            "audio_en_src": "In the morning the roads are still clear, no traffic."
+          },
+          {
+            "thai": "ห้องนี้โล่ง ไม่มีเฟอร์นิเจอร์เลย",
+            "en": "This room is empty, no furniture at all.",
+            "audio_src": "ห้องนี้โล่ง ไม่มีเฟอร์นิเจอร์เลย",
+            "audio_en_src": "This room is empty, no furniture at all."
+          }
+        ]
+      },
+      {
+        "meaning": "relieved",
+        "sentences": [
+          {
+            "thai": "พอสอบเสร็จก็รู้สึกโล่งไปเลย",
+            "en": "Once the exam was over I felt so relieved.",
+            "audio_src": "พอสอบเสร็จก็รู้สึกโล่งไปเลย",
+            "audio_en_src": "Once the exam was over I felt so relieved."
+          },
+          {
+            "thai": "ได้ระบายออกมาแล้วโล่งใจขึ้นเยอะ",
+            "en": "After venting it out, I feel much more relieved.",
+            "audio_src": "ได้ระบายออกมาแล้วโล่งใจขึ้นเยอะ",
+            "audio_en_src": "After venting it out, I feel much more relieved."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-017",
@@ -31473,7 +31661,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to decorate, to adorn",
+        "sentences": [
+          {
+            "thai": "เขาประดับต้นไม้ด้วยไฟช่วงคริสต์มาส",
+            "en": "He decorates the tree with lights at Christmas.",
+            "audio_src": "เขาประดับต้นไม้ด้วยไฟช่วงคริสต์มาส",
+            "audio_en_src": "He decorates the tree with lights at Christmas."
+          },
+          {
+            "thai": "เธอประดับชุดด้วยเพชรเม็ดเล็กๆ",
+            "en": "She adorned the dress with small diamonds.",
+            "audio_src": "เธอประดับชุดด้วยเพชรเม็ดเล็กๆ",
+            "audio_en_src": "She adorned the dress with small diamonds."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-019",

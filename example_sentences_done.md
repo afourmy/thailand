@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1664 words**
+**Total: 1674 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -582,8 +582,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-037` : หลงเชื่อ (to be fooled into believing, be gullible enough to believe) : 1 meaning(s), 2 sentences
 - `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
 - `thai9k-040` : ปริศนา (riddle, puzzle, mystery) : 1 meaning(s), 2 sentences
+- `tamago-l3-001` : ความน่าเชื่อถือ (reliability, credibility, trustworthiness) : 1 meaning(s), 2 sentences
+- `tamago-l3-003` : ตั้งชื่อ (to name (give a name to)) : 1 meaning(s), 2 sentences
+- `tamago-l3-004` : ใบรับรอง (certificate) : 1 meaning(s), 2 sentences
 - `tamago-l3-006` : ใช้ได้ (good quality, "okay", decent, usable) : 1 meaning(s), 2 sentences
 - `tamago-l3-007` : ไม่น่าเลย ("that's too bad", "that's unfortunate") : 1 meaning(s), 2 sentences
+- `tamago-l3-008` : ให้ความสนใจ (to pay attention, to take an interest in) : 1 meaning(s), 2 sentences
+- `tamago-l3-010` : ต่อเวลา (to extend the time) : 1 meaning(s), 2 sentences
+- `tamago-l3-011` : นอนคว่ำ (to lie face down) : 1 meaning(s), 2 sentences
+- `tamago-l3-013` : ชำระเงิน (to make a payment, to settle a bill) : 1 meaning(s), 2 sentences
+- `tamago-l3-014` : นอก, ด้านนอก (outside, exterior side) : 1 meaning(s), 2 sentences
+- `tamago-l3-016` : โล่ง (empty, spacious, clear (of obstruction); relieved) : 2 meaning(s), 4 sentences
+- `tamago-l3-018` : ประดับ (to decorate, to adorn) : 1 meaning(s), 2 sentences
 - `tamago-l3-019` : สูตร (recipe; formula) : 2 meaning(s), 4 sentences
 - `tamago-l3-021` : ตั้ง (to set up, to arrange, established; up to, as much as) : 2 meaning(s), 4 sentences
 - `tamago-l3-035` : โปรด (favorite) : 1 meaning(s), 2 sentences
