@@ -56,7 +56,22 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "serious, severe",
+        "sentences": [
+          {
+            "thai": "อาการของเขาไม่ร้ายแรง",
+            "en": "His condition isn’t serious."
+          },
+          {
+            "thai": "เกิดอุบัติเหตุร้ายแรงบนถนน",
+            "en": "There was a serious accident on the road."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-004",
@@ -116,7 +131,22 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "event, incident",
+        "sentences": [
+          {
+            "thai": "เหตุการณ์เกิดขึ้นเร็วมาก",
+            "en": "It all happened so fast."
+          },
+          {
+            "thai": "ตำรวจกำลังสอบสวนเหตุการณ์นี้",
+            "en": "The police are investigating the incident."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-007",
@@ -165,7 +195,22 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "private, non-governmental",
+        "sentences": [
+          {
+            "thai": "เขาทำงานในบริษัทเอกชน",
+            "en": "He works for a private company."
+          },
+          {
+            "thai": "ลูกเรียนโรงเรียนเอกชน",
+            "en": "My kid goes to a private school."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-009",
@@ -308,7 +353,22 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "dog (polite)",
+        "sentences": [
+          {
+            "thai": "ห้ามนำสุนัขเข้าร้าน",
+            "en": "No dogs allowed in the shop."
+          },
+          {
+            "thai": "สุนัขเป็นสัตว์เลี้ยงที่ซื่อสัตย์",
+            "en": "Dogs are loyal pets."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-014",
@@ -484,7 +544,35 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to describe",
+        "sentences": [
+          {
+            "thai": "เธอบรรยายความรู้สึกไม่ถูก",
+            "en": "She can’t put her feelings into words."
+          },
+          {
+            "thai": "ช่วยบรรยายลักษณะของเขาหน่อย",
+            "en": "Can you describe what he looks like?"
+          }
+        ]
+      },
+      {
+        "meaning": "to lecture",
+        "sentences": [
+          {
+            "thai": "อาจารย์บรรยายเรื่องประวัติศาสตร์ไทย",
+            "en": "The professor lectures on Thai history."
+          },
+          {
+            "thai": "เขาบรรยายเก่งมาก",
+            "en": "He’s a great lecturer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-032",
@@ -511,7 +599,22 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "characteristic",
+        "sentences": [
+          {
+            "thai": "เขามีลักษณะเหมือนพ่อ",
+            "en": "He takes after his father."
+          },
+          {
+            "thai": "ช่วยอธิบายลักษณะของปัญหาหน่อย",
+            "en": "Can you describe the nature of the problem?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-034",
@@ -524,7 +627,22 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to review (e.g a lesson)",
+        "sentences": [
+          {
+            "thai": "ฉันต้องทบทวนบทเรียนก่อนสอบ",
+            "en": "I need to review the lessons before the exam."
+          },
+          {
+            "thai": "ครูให้นักเรียนทบทวนคำศัพท์",
+            "en": "The teacher had the students review the vocabulary."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-035",
@@ -538,7 +656,22 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "sign, symbol",
+        "sentences": [
+          {
+            "thai": "ลืมใส่เครื่องหมายคำถาม",
+            "en": "I forgot to add a question mark."
+          },
+          {
+            "thai": "เครื่องหมายนี้หมายความว่าอะไร",
+            "en": "What does this symbol mean?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-036",
@@ -554,7 +687,48 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "channel",
+        "sentences": [
+          {
+            "thai": "ขอเปลี่ยนช่องได้ไหม",
+            "en": "Can I change the channel?"
+          },
+          {
+            "thai": "รายการนี้อยู่ช่องไหน",
+            "en": "Which channel is this show on?"
+          }
+        ]
+      },
+      {
+        "meaning": "gap, hole",
+        "sentences": [
+          {
+            "thai": "เขามีช่องว่างระหว่างฟัน",
+            "en": "He has a gap between his teeth."
+          },
+          {
+            "thai": "หนูลอดเข้ามาทางช่องเล็ก",
+            "en": "A mouse got in through a small hole."
+          }
+        ]
+      },
+      {
+        "meaning": "(service) counter, window",
+        "sentences": [
+          {
+            "thai": "จ่ายเงินที่ช่องหมายเลขสอง",
+            "en": "Pay at counter number two."
+          },
+          {
+            "thai": "ยื่นเอกสารที่ช่องไหน",
+            "en": "Which window do I hand in the documents at?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-037",
@@ -579,7 +753,22 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "robot",
+        "sentences": [
+          {
+            "thai": "น้องชอบเล่นหุ่นยนต์",
+            "en": "My little brother loves playing with robots."
+          },
+          {
+            "thai": "โรงงานนี้ใช้หุ่นยนต์ผลิตรถ",
+            "en": "This factory uses robots to make cars."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-039",
