@@ -20410,7 +20410,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "shortcut",
+        "sentences": [
+          {
+            "thai": "ซอยนี้เป็นทางลัดไปสถานีรถไฟ",
+            "en": "This alley is a shortcut to the train station.",
+            "audio_src": "ซอยนี้เป็นทางลัดไปสถานีรถไฟ",
+            "audio_en_src": "This alley is a shortcut to the train station."
+          },
+          {
+            "thai": "เขาขับทางลัดเลยถึงเร็วกว่า",
+            "en": "He took a shortcut, so he arrived faster.",
+            "audio_src": "เขาขับทางลัดเลยถึงเร็วกว่า",
+            "audio_en_src": "He took a shortcut, so he arrived faster."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-196",
@@ -20500,7 +20519,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to run an errand",
+        "sentences": [
+          {
+            "thai": "เช้านี้ฉันออกไปทำธุระที่ธนาคาร",
+            "en": "This morning I went out to run an errand at the bank.",
+            "audio_src": "เช้านี้ฉันออกไปทำธุระที่ธนาคาร",
+            "audio_en_src": "This morning I went out to run an errand at the bank."
+          },
+          {
+            "thai": "เขาติดทำธุระ เลยมาสายนิดหน่อย",
+            "en": "He had errands to do, so he's a little late.",
+            "audio_src": "เขาติดทำธุระ เลยมาสายนิดหน่อย",
+            "audio_en_src": "He had errands to do, so he's a little late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-200",
@@ -20514,7 +20552,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to make a mistake",
+        "sentences": [
+          {
+            "thai": "ทุกคนทำผิดพลาดกันได้",
+            "en": "Everyone can make mistakes.",
+            "audio_src": "ทุกคนทำผิดพลาดกันได้",
+            "audio_en_src": "Everyone can make mistakes."
+          },
+          {
+            "thai": "เขาทำผิดพลาดในงานจนโดนตำหนิ",
+            "en": "He made a mistake at work and got criticized.",
+            "audio_src": "เขาทำผิดพลาดในงานจนโดนตำหนิ",
+            "audio_en_src": "He made a mistake at work and got criticized."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-201",
@@ -20536,7 +20593,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to spill on",
+        "sentences": [
+          {
+            "thai": "เขาทำกาแฟหกใส่เสื้อตัวเอง",
+            "en": "He spilled coffee on his own shirt.",
+            "audio_src": "เขาทำกาแฟหกใส่เสื้อตัวเอง",
+            "audio_en_src": "He spilled coffee on his own shirt."
+          },
+          {
+            "thai": "ระวังนะ เดี๋ยวทำน้ำหกใส่โน้ตบุ๊ก",
+            "en": "Be careful, you'll spill water on the laptop.",
+            "audio_src": "ระวังนะ เดี๋ยวทำน้ำหกใส่โน้ตบุ๊ก",
+            "audio_en_src": "Be careful, you'll spill water on the laptop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-204",
@@ -20560,7 +20636,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to burn (accidentally)",
+        "sentences": [
+          {
+            "thai": "ฉันลืมปิดเตา เลยทำกับข้าวไหม้",
+            "en": "I forgot to turn off the stove, so I burned the food.",
+            "audio_src": "ฉันลืมปิดเตา เลยทำกับข้าวไหม้",
+            "audio_en_src": "I forgot to turn off the stove, so I burned the food."
+          },
+          {
+            "thai": "รีดเสื้อไม่ระวังจนทำไหม้",
+            "en": "I wasn't careful ironing and burned the shirt.",
+            "audio_src": "รีดเสื้อไม่ระวังจนทำไหม้",
+            "audio_en_src": "I wasn't careful ironing and burned the shirt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-206",
@@ -20980,7 +21075,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to realize, to recall, to come to mind",
+        "sentences": [
+          {
+            "thai": "พอเห็นรูป ฉันก็นึกออกว่าเคยเจอเขา",
+            "en": "When I saw the photo, I recalled that I'd met him before.",
+            "audio_src": "พอเห็นรูป ฉันก็นึกออกว่าเคยเจอเขา",
+            "audio_en_src": "When I saw the photo, I recalled that I'd met him before."
+          },
+          {
+            "thai": "พยายามนึกชื่อร้านอยู่นาน เพิ่งนึกออก",
+            "en": "I tried to recall the shop's name for a while, and just remembered it.",
+            "audio_src": "พยายามนึกชื่อร้านอยู่นาน เพิ่งนึกออก",
+            "audio_en_src": "I tried to recall the shop's name for a while, and just remembered it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-237",
@@ -21069,7 +21183,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "enviable",
+        "sentences": [
+          {
+            "thai": "เขาได้ไปเที่ยวต่างประเทศบ่อย น่าอิจฉาจัง",
+            "en": "He gets to travel abroad often, so enviable.",
+            "audio_src": "เขาได้ไปเที่ยวต่างประเทศบ่อย น่าอิจฉาจัง",
+            "audio_en_src": "He gets to travel abroad often, so enviable."
+          },
+          {
+            "thai": "ชีวิตคู่ของเธอน่าอิจฉามาก",
+            "en": "Her married life is so enviable.",
+            "audio_src": "ชีวิตคู่ของเธอน่าอิจฉามาก",
+            "audio_en_src": "Her married life is so enviable."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-243",
@@ -21167,7 +21300,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "business administration",
+        "sentences": [
+          {
+            "thai": "เขาเรียนจบปริญญาด้านบริหารธุรกิจ",
+            "en": "He graduated with a degree in business administration.",
+            "audio_src": "เขาเรียนจบปริญญาด้านบริหารธุรกิจ",
+            "audio_en_src": "He graduated with a degree in business administration."
+          },
+          {
+            "thai": "คณะบริหารธุรกิจเปิดรับสมัครแล้ว",
+            "en": "The business administration faculty has opened applications.",
+            "audio_src": "คณะบริหารธุรกิจเปิดรับสมัครแล้ว",
+            "audio_en_src": "The business administration faculty has opened applications."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-250",
@@ -21226,7 +21378,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to block, to obstruct (view, light)",
+        "sentences": [
+          {
+            "thai": "ต้นไม้ใหญ่บังแสงแดดเข้าบ้าน",
+            "en": "The big tree blocks the sunlight from entering the house.",
+            "audio_src": "ต้นไม้ใหญ่บังแสงแดดเข้าบ้าน",
+            "audio_en_src": "The big tree blocks the sunlight from entering the house."
+          },
+          {
+            "thai": "คนข้างหน้าตัวสูง บังจอหมดเลย",
+            "en": "The tall person in front blocks the whole screen.",
+            "audio_src": "คนข้างหน้าตัวสูง บังจอหมดเลย",
+            "audio_en_src": "The tall person in front blocks the whole screen."
+          }
+        ]
+      },
+      {
+        "meaning": "to hide, to cover up",
+        "sentences": [
+          {
+            "thai": "เธอยกมือขึ้นบังหน้าตอนถ่ายรูป",
+            "en": "She raised her hand to cover her face during the photo.",
+            "audio_src": "เธอยกมือขึ้นบังหน้าตอนถ่ายรูป",
+            "audio_en_src": "She raised her hand to cover her face during the photo."
+          },
+          {
+            "thai": "เขาเอาหมวกบังหน้าไม่ให้ใครจำได้",
+            "en": "He used a hat to hide his face so no one would recognize him.",
+            "audio_src": "เขาเอาหมวกบังหน้าไม่ให้ใครจำได้",
+            "audio_en_src": "He used a hat to hide his face so no one would recognize him."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-254",
@@ -21301,7 +21489,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "ID card",
+        "sentences": [
+          {
+            "thai": "กรุณาแสดงบัตรประจำตัวก่อนเข้าอาคาร",
+            "en": "Please show your ID card before entering the building.",
+            "audio_src": "กรุณาแสดงบัตรประจำตัวก่อนเข้าอาคาร",
+            "audio_en_src": "Please show your ID card before entering the building."
+          },
+          {
+            "thai": "เขาทำบัตรประจำตัวหาย เลยต้องไปทำใหม่",
+            "en": "He lost his ID card, so he has to get a new one.",
+            "audio_src": "เขาทำบัตรประจำตัวหาย เลยต้องไปทำใหม่",
+            "audio_en_src": "He lost his ID card, so he has to get a new one."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-257",

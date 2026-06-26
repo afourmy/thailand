@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1554 words**
+**Total: 1564 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -352,18 +352,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-191` : ทวง (to ask for something back (especially money owed)) : 1 meaning(s), 2 sentences
 - `tamago-l12-192` : ทอด (to deep-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-193` : ทะเลาะ (to quarrel, to argue, to fight) : 1 meaning(s), 2 sentences
+- `tamago-l12-195` : ทางลัด (shortcut) : 1 meaning(s), 2 sentences
 - `tamago-l12-197` : ทาย (to guess) : 1 meaning(s), 2 sentences
 - `tamago-l12-198` : ทำตก (to drop (accidentally)) : 1 meaning(s), 2 sentences
+- `tamago-l12-199` : ทำธุระ (to run an errand) : 1 meaning(s), 2 sentences
+- `tamago-l12-200` : ทำผิดพลาด (to make a mistake) : 1 meaning(s), 2 sentences
+- `tamago-l12-203` : ทำหกใส่ (to spill on) : 1 meaning(s), 2 sentences
+- `tamago-l12-205` : ทำไหม้ (to burn (accidentally)) : 1 meaning(s), 2 sentences
 - `tamago-l12-217` : นวดฝ่าเท้า (foot massage) : 1 meaning(s), 2 sentences
 - `tamago-l12-218` : นอกใจ (to cheat on someone (be unfaithful)) : 1 meaning(s), 2 sentences
 - `tamago-l12-223` : นั่นน่ะสิ ("that's right!", "good point!") : 1 meaning(s), 2 sentences
 - `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
+- `tamago-l12-236` : นึกออก (to realize, to recall, to come to mind) : 1 meaning(s), 2 sentences
 - `tamago-l12-237` : นึ่ง (to steam (food)) : 1 meaning(s), 2 sentences
 - `tamago-l12-240` : น่าสงสาร ("poor thing", pitiful) : 1 meaning(s), 2 sentences
+- `tamago-l12-241` : น่าอิจฉา (enviable) : 1 meaning(s), 2 sentences
 - `tamago-l12-243` : น้ำจิ้ม (dipping sauce) : 1 meaning(s), 2 sentences
+- `tamago-l12-249` : บริหารธุรกิจ (business administration) : 1 meaning(s), 2 sentences
 - `tamago-l12-252` : บะหมี่ (egg noodle) : 1 meaning(s), 2 sentences
+- `tamago-l12-253` : บัง (to block, to obstruct (view, light); to hide, to cover up) : 2 meaning(s), 4 sentences
 - `tamago-l12-254` : บังเอิญ (by chance, coincidentally; to happen (by chance)) : 2 meaning(s), 4 sentences
+- `tamago-l12-256` : บัตรประจำตัว (ID card) : 1 meaning(s), 2 sentences
 - `tamago-l12-259` : บาง (thin) : 1 meaning(s), 2 sentences
 - `tamago-l12-261` : ประจำ, เป็นประจำ (regularly, constantly, routinely) : 1 meaning(s), 2 sentences
 - `tamago-l12-266` : ปลูก (to plant, to grow) : 1 meaning(s), 2 sentences
