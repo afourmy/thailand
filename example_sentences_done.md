@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1774 words**
+**Total: 1784 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -747,6 +747,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-317` : รถเข็น (cart, stroller, wheelchair) : 1 meaning(s), 3 sentences
 - `tamago-l3-319` : มอบ (to give, to present (often formally)) : 1 meaning(s), 2 sentences
 - `tamago-l3-320` : ล้มเลิก (to cancel, to abandon, to call off) : 1 meaning(s), 2 sentences
+- `tamago-l3-321` : หันไปสนใจ (to shift one's interest to) : 1 meaning(s), 2 sentences
+- `tamago-l3-324` : ห่างกัน (apart, distant from (each other)) : 1 meaning(s), 2 sentences
+- `tamago-l3-325` : อย่างใกล้ชิด (closely, intimately) : 1 meaning(s), 2 sentences
+- `tamago-l3-326` : สานสัมพันธ์ (to build a relationship, to bond) : 1 meaning(s), 2 sentences
+- `tamago-l3-331` : ขัด (to polish; to oppose, to go against) : 2 meaning(s), 4 sentences
+- `tamago-l3-334` : แปะ (to stick (a poster, sticker), to put on a surface) : 1 meaning(s), 2 sentences
+- `tamago-l3-335` : ผิวเผิน (superficially, on the surface) : 1 meaning(s), 2 sentences
+- `tamago-l3-337` : แสดงออก (to express oneself, to show (feelings)) : 1 meaning(s), 2 sentences
+- `tamago-l3-343` : ตัวตน (identity, self) : 1 meaning(s), 2 sentences
+- `tamago-l3-344` : แย่ง (to compete for, to fight over; to grab, to seize) : 2 meaning(s), 4 sentences
 - `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ("whatever!", "never mind", "forget about it!") : 1 meaning(s), 2 sentences
 - `tamago-l3-356` : สั่ง (to order (someone to do something, food, goods)) : 1 meaning(s), 3 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences

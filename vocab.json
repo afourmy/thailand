@@ -38378,7 +38378,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to shift one's interest to",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้เขาหันไปสนใจการถ่ายรูป",
+            "en": "Lately he's shifted his interest to photography.",
+            "audio_src": "ช่วงนี้เขาหันไปสนใจการถ่ายรูป",
+            "audio_en_src": "Lately he's shifted his interest to photography."
+          },
+          {
+            "thai": "วัยรุ่นหันไปสนใจเกมออนไลน์มากขึ้น",
+            "en": "Teenagers have shifted their interest more toward online games.",
+            "audio_src": "วัยรุ่นหันไปสนใจเกมออนไลน์มากขึ้น",
+            "audio_en_src": "Teenagers have shifted their interest more toward online games."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-322",
@@ -38411,7 +38430,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "apart, distant from (each other)",
+        "sentences": [
+          {
+            "thai": "บ้านเราอยู่ห่างกันแค่สองหลัง",
+            "en": "Our houses are just two doors apart.",
+            "audio_src": "บ้านเราอยู่ห่างกันแค่สองหลัง",
+            "audio_en_src": "Our houses are just two doors apart."
+          },
+          {
+            "thai": "พอเรียนคนละที่ เราก็เริ่มห่างกัน",
+            "en": "Once we studied at different places, we started drifting apart.",
+            "audio_src": "พอเรียนคนละที่ เราก็เริ่มห่างกัน",
+            "audio_en_src": "Once we studied at different places, we started drifting apart."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-325",
@@ -38423,7 +38461,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "closely, intimately",
+        "sentences": [
+          {
+            "thai": "ครูดูแลนักเรียนอย่างใกล้ชิด",
+            "en": "The teacher looks after the students closely.",
+            "audio_src": "ครูดูแลนักเรียนอย่างใกล้ชิด",
+            "audio_en_src": "The teacher looks after the students closely."
+          },
+          {
+            "thai": "ทั้งสองทำงานร่วมกันอย่างใกล้ชิด",
+            "en": "The two work together closely.",
+            "audio_src": "ทั้งสองทำงานร่วมกันอย่างใกล้ชิด",
+            "audio_en_src": "The two work together closely."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-326",
@@ -38435,7 +38492,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to build a relationship, to bond",
+        "sentences": [
+          {
+            "thai": "กิจกรรมนี้ช่วยให้พนักงานสานสัมพันธ์กัน",
+            "en": "This activity helps employees bond with each other.",
+            "audio_src": "กิจกรรมนี้ช่วยให้พนักงานสานสัมพันธ์กัน",
+            "audio_en_src": "This activity helps employees bond with each other."
+          },
+          {
+            "thai": "สองประเทศสานสัมพันธ์ทางการค้ามานาน",
+            "en": "The two countries have built trade relations for a long time.",
+            "audio_src": "สองประเทศสานสัมพันธ์ทางการค้ามานาน",
+            "audio_en_src": "The two countries have built trade relations for a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-327",
@@ -38481,7 +38557,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to polish",
+        "sentences": [
+          {
+            "thai": "เขาขัดรองเท้าหนังให้เงาวับ",
+            "en": "He polished the leather shoes until they gleamed.",
+            "audio_src": "เขาขัดรองเท้าหนังให้เงาวับ",
+            "audio_en_src": "He polished the leather shoes until they gleamed."
+          },
+          {
+            "thai": "แม่บ้านขัดพื้นห้องน้ำจนสะอาด",
+            "en": "The housekeeper scrubbed the bathroom floor clean.",
+            "audio_src": "แม่บ้านขัดพื้นห้องน้ำจนสะอาด",
+            "audio_en_src": "The housekeeper scrubbed the bathroom floor clean."
+          }
+        ]
+      },
+      {
+        "meaning": "to oppose, to go against",
+        "sentences": [
+          {
+            "thai": "ลูกไม่กล้าขัดคำสั่งของพ่อ",
+            "en": "The child doesn't dare go against his father's orders.",
+            "audio_src": "ลูกไม่กล้าขัดคำสั่งของพ่อ",
+            "audio_en_src": "The child doesn't dare go against his father's orders."
+          },
+          {
+            "thai": "ความเห็นของเขาขัดกับของหัวหน้า",
+            "en": "His opinion goes against the boss's.",
+            "audio_src": "ความเห็นของเขาขัดกับของหัวหน้า",
+            "audio_en_src": "His opinion goes against the boss's."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-332",
@@ -38505,7 +38617,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to stick (a poster, sticker), to put on a surface",
+        "sentences": [
+          {
+            "thai": "เขาแปะโน้ตเตือนความจำไว้บนตู้เย็น",
+            "en": "He stuck a reminder note on the fridge.",
+            "audio_src": "เขาแปะโน้ตเตือนความจำไว้บนตู้เย็น",
+            "audio_en_src": "He stuck a reminder note on the fridge."
+          },
+          {
+            "thai": "เด็กแปะสติกเกอร์เต็มสมุดเลย",
+            "en": "The kid stuck stickers all over the notebook.",
+            "audio_src": "เด็กแปะสติกเกอร์เต็มสมุดเลย",
+            "audio_en_src": "The kid stuck stickers all over the notebook."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-335",
@@ -38517,7 +38648,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "superficially, on the surface",
+        "sentences": [
+          {
+            "thai": "เขามองปัญหาแบบผิวเผินเกินไป",
+            "en": "He looks at the problem too superficially.",
+            "audio_src": "เขามองปัญหาแบบผิวเผินเกินไป",
+            "audio_en_src": "He looks at the problem too superficially."
+          },
+          {
+            "thai": "ฉันรู้จักเธอแค่ผิวเผิน ไม่ได้สนิทกัน",
+            "en": "I only know her superficially, we're not close.",
+            "audio_src": "ฉันรู้จักเธอแค่ผิวเผิน ไม่ได้สนิทกัน",
+            "audio_en_src": "I only know her superficially, we're not close."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-336",
@@ -38540,7 +38690,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to express oneself, to show (feelings)",
+        "sentences": [
+          {
+            "thai": "เขาไม่ค่อยแสดงออกถึงความรู้สึก",
+            "en": "He doesn't really express his feelings.",
+            "audio_src": "เขาไม่ค่อยแสดงออกถึงความรู้สึก",
+            "audio_en_src": "He doesn't really express his feelings."
+          },
+          {
+            "thai": "เด็กควรได้แสดงออกอย่างอิสระ",
+            "en": "Children should be able to express themselves freely.",
+            "audio_src": "เด็กควรได้แสดงออกอย่างอิสระ",
+            "audio_en_src": "Children should be able to express themselves freely."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-338",
@@ -38608,7 +38777,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "identity, self",
+        "sentences": [
+          {
+            "thai": "เขาค้นหาตัวตนที่แท้จริงของตัวเอง",
+            "en": "He searches for his true self.",
+            "audio_src": "เขาค้นหาตัวตนที่แท้จริงของตัวเอง",
+            "audio_en_src": "He searches for his true self."
+          },
+          {
+            "thai": "งานศิลปะสะท้อนตัวตนของผู้สร้าง",
+            "en": "Artwork reflects the identity of its creator.",
+            "audio_src": "งานศิลปะสะท้อนตัวตนของผู้สร้าง",
+            "audio_en_src": "Artwork reflects the identity of its creator."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-344",
@@ -38621,7 +38809,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to compete for, to fight over",
+        "sentences": [
+          {
+            "thai": "คนแย่งกันซื้อของลดราคาวันแรก",
+            "en": "People competed to buy the discounted items on the first day.",
+            "audio_src": "คนแย่งกันซื้อของลดราคาวันแรก",
+            "audio_en_src": "People competed to buy the discounted items on the first day."
+          },
+          {
+            "thai": "นักการเมืองแย่งตำแหน่งกันอย่างดุเดือด",
+            "en": "Politicians fought fiercely over the position.",
+            "audio_src": "นักการเมืองแย่งตำแหน่งกันอย่างดุเดือด",
+            "audio_en_src": "Politicians fought fiercely over the position."
+          }
+        ]
+      },
+      {
+        "meaning": "to grab, to seize",
+        "sentences": [
+          {
+            "thai": "น้องแย่งของเล่นจากมือพี่",
+            "en": "The younger one grabbed the toy from the older one's hand.",
+            "audio_src": "น้องแย่งของเล่นจากมือพี่",
+            "audio_en_src": "The younger one grabbed the toy from the older one's hand."
+          },
+          {
+            "thai": "เขาแย่งไมค์ไปร้องเพลงเอง",
+            "en": "He grabbed the mic to sing himself.",
+            "audio_src": "เขาแย่งไมค์ไปร้องเพลงเอง",
+            "audio_en_src": "He grabbed the mic to sing himself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-345",
