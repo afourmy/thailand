@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1744 words**
+**Total: 1754 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -710,7 +710,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-232` : เข้าเรียน (to attend a class) : 1 meaning(s), 2 sentences
 - `tamago-l3-233` : เรียนจบ (to graduate, to finish studies) : 1 meaning(s), 2 sentences
 - `tamago-l3-234` : อยู่ๆ (suddenly, out of nowhere) : 1 meaning(s), 2 sentences
+- `tamago-l3-236` : ละเมอ (to talk in one's sleep) : 1 meaning(s), 2 sentences
+- `tamago-l3-239` : ข้าวของ (stuff, possessions, belongings) : 1 meaning(s), 2 sentences
+- `tamago-l3-240` : เจตนา, เจตนารมณ์ (intent, intention, underlying purpose) : 1 meaning(s), 2 sentences
+- `tamago-l3-247` : คำหยาบ (swear word, vulgar word) : 1 meaning(s), 2 sentences
+- `tamago-l3-248` : ย่อๆ (in short, in brief, abbreviated) : 1 meaning(s), 2 sentences
+- `tamago-l3-249` : ตรงประเด็น - ไม่ตรงประเด็น (on point, relevant - off-topic, irrelevant) : 2 meaning(s), 4 sentences
+- `tamago-l3-250` : เริ่ด (excellent, fabulous (slang)) : 1 meaning(s), 2 sentences
+- `tamago-l3-251` : สารภาพ (to confess, to admit) : 1 meaning(s), 2 sentences
+- `tamago-l3-261` : เลิกรา (to part ways, to break up) : 1 meaning(s), 2 sentences
 - `tamago-l3-266` : กำลังใจ (encouragement, moral support) : 1 meaning(s), 2 sentences
+- `tamago-l3-267` : ลาภ, โชคลาภ (good fortune, luck, windfall) : 1 meaning(s), 2 sentences
 - `tamago-l3-276` : ทัก, ทักทาย (to greet, to say hi) : 1 meaning(s), 2 sentences
 - `tamago-l3-281` : แอด (to add (e.g friend on social media)) : 1 meaning(s), 2 sentences
 - `tamago-l3-284` : รำคาญ (annoyed) : 1 meaning(s), 2 sentences

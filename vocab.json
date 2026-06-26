@@ -36680,7 +36680,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to talk in one's sleep",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนเขาละเมอพูดเสียงดังมาก",
+            "en": "Last night he talked in his sleep really loudly.",
+            "audio_src": "เมื่อคืนเขาละเมอพูดเสียงดังมาก",
+            "audio_en_src": "Last night he talked in his sleep really loudly."
+          },
+          {
+            "thai": "น้องชอบละเมอเรียกชื่อเพื่อน",
+            "en": "My little brother often calls out friends' names in his sleep.",
+            "audio_src": "น้องชอบละเมอเรียกชื่อเพื่อน",
+            "audio_en_src": "My little brother often calls out friends' names in his sleep."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-237",
@@ -36715,7 +36734,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stuff, possessions, belongings",
+        "sentences": [
+          {
+            "thai": "เก็บข้าวของให้เรียบร้อยก่อนออกจากบ้าน",
+            "en": "Tidy up your things before leaving the house.",
+            "audio_src": "เก็บข้าวของให้เรียบร้อยก่อนออกจากบ้าน",
+            "audio_en_src": "Tidy up your things before leaving the house."
+          },
+          {
+            "thai": "ตอนย้ายบ้าน ข้าวของเยอะจนขนไม่หมด",
+            "en": "When moving house, there was so much stuff we couldn't carry it all.",
+            "audio_src": "ตอนย้ายบ้าน ข้าวของเยอะจนขนไม่หมด",
+            "audio_en_src": "When moving house, there was so much stuff we couldn't carry it all."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-240",
@@ -36728,7 +36766,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "intent, intention, underlying purpose",
+        "sentences": [
+          {
+            "thai": "เขาไม่ได้มีเจตนาทำให้เธอเสียใจ",
+            "en": "He didn't intend to make her sad.",
+            "audio_src": "เขาไม่ได้มีเจตนาทำให้เธอเสียใจ",
+            "audio_en_src": "He didn't intend to make her sad."
+          },
+          {
+            "thai": "กฎหมายข้อนี้มีเจตนารมณ์เพื่อปกป้องเด็ก",
+            "en": "This law's intent is to protect children.",
+            "audio_src": "กฎหมายข้อนี้มีเจตนารมณ์เพื่อปกป้องเด็ก",
+            "audio_en_src": "This law's intent is to protect children."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-241",
@@ -36780,7 +36837,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "swear word, vulgar word",
+        "sentences": [
+          {
+            "thai": "ในหนังเรื่องนี้มีคำหยาบเยอะ",
+            "en": "This movie has a lot of swear words.",
+            "audio_src": "ในหนังเรื่องนี้มีคำหยาบเยอะ",
+            "audio_en_src": "This movie has a lot of swear words."
+          },
+          {
+            "thai": "พอโกรธจัดเขาก็หลุดคำหยาบออกมา",
+            "en": "When he got really angry, swear words slipped out.",
+            "audio_src": "พอโกรธจัดเขาก็หลุดคำหยาบออกมา",
+            "audio_en_src": "When he got really angry, swear words slipped out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-248",
@@ -36792,7 +36868,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "in short, in brief, abbreviated",
+        "sentences": [
+          {
+            "thai": "เล่าให้ฟังย่อๆว่าเกิดอะไรขึ้น",
+            "en": "Tell me briefly what happened.",
+            "audio_src": "เล่าให้ฟังย่อๆว่าเกิดอะไรขึ้น",
+            "audio_en_src": "Tell me briefly what happened."
+          },
+          {
+            "thai": "ช่วยสรุปเนื้อหาทั้งหมดแบบย่อๆ",
+            "en": "Please summarize the whole content briefly.",
+            "audio_src": "ช่วยสรุปเนื้อหาทั้งหมดแบบย่อๆ",
+            "audio_en_src": "Please summarize the whole content briefly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-249",
@@ -36804,7 +36899,43 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "on point, relevant",
+        "sentences": [
+          {
+            "thai": "เขาตอบคำถามได้ตรงประเด็นดี",
+            "en": "He answered the question right on point.",
+            "audio_src": "เขาตอบคำถามได้ตรงประเด็นดี",
+            "audio_en_src": "He answered the question right on point."
+          },
+          {
+            "thai": "ขอให้พูดตรงประเด็น อย่าออกนอกเรื่อง",
+            "en": "Please stay on point, don't go off-topic.",
+            "audio_src": "ขอให้พูดตรงประเด็น อย่าออกนอกเรื่อง",
+            "audio_en_src": "Please stay on point, don't go off-topic."
+          }
+        ]
+      },
+      {
+        "meaning": "off-topic, irrelevant",
+        "sentences": [
+          {
+            "thai": "เธอเล่าเรื่องไปเรื่อย ไม่ตรงประเด็นสักที",
+            "en": "She just rambles on, never gets to the point.",
+            "audio_src": "เธอเล่าเรื่องไปเรื่อย ไม่ตรงประเด็นสักที",
+            "audio_en_src": "She just rambles on, never gets to the point."
+          },
+          {
+            "thai": "คำตอบของเขาไม่ตรงประเด็นเลย",
+            "en": "His answer is completely off-topic.",
+            "audio_src": "คำตอบของเขาไม่ตรงประเด็นเลย",
+            "audio_en_src": "His answer is completely off-topic."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-250",
@@ -36816,7 +36947,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "excellent, fabulous (slang)",
+        "sentences": [
+          {
+            "thai": "ชุดวันนี้เริ่ดมาก ใครเลือกให้",
+            "en": "Today's outfit is fabulous, who picked it out?",
+            "audio_src": "ชุดวันนี้เริ่ดมาก ใครเลือกให้",
+            "audio_en_src": "Today's outfit is fabulous, who picked it out?"
+          },
+          {
+            "thai": "งานออกมาเริ่ดเกินคาด",
+            "en": "The work turned out fabulous, beyond expectations.",
+            "audio_src": "งานออกมาเริ่ดเกินคาด",
+            "audio_en_src": "The work turned out fabulous, beyond expectations."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-251",
@@ -36830,7 +36980,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to confess, to admit",
+        "sentences": [
+          {
+            "thai": "เขาสารภาพกับตำรวจว่าเป็นคนทำ",
+            "en": "He confessed to the police that he did it.",
+            "audio_src": "เขาสารภาพกับตำรวจว่าเป็นคนทำ",
+            "audio_en_src": "He confessed to the police that he did it."
+          },
+          {
+            "thai": "เธอสารภาพว่าแอบชอบเพื่อนสนิท",
+            "en": "She admitted that she secretly likes her close friend.",
+            "audio_src": "เธอสารภาพว่าแอบชอบเพื่อนสนิท",
+            "audio_en_src": "She admitted that she secretly likes her close friend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-252",
@@ -36935,7 +37104,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to part ways, to break up",
+        "sentences": [
+          {
+            "thai": "ทั้งคู่เลิกรากันด้วยดี",
+            "en": "The two parted ways amicably.",
+            "audio_src": "ทั้งคู่เลิกรากันด้วยดี",
+            "audio_en_src": "The two parted ways amicably."
+          },
+          {
+            "thai": "หลังเลิกรา เขาก็ย้ายไปอยู่ที่อื่น",
+            "en": "After the breakup, he moved somewhere else.",
+            "audio_src": "หลังเลิกรา เขาก็ย้ายไปอยู่ที่อื่น",
+            "audio_en_src": "After the breakup, he moved somewhere else."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-262",
@@ -37016,7 +37204,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "good fortune, luck, windfall",
+        "sentences": [
+          {
+            "thai": "ถูกหวยรางวัลใหญ่ถือว่าโชคลาภมาเยือน",
+            "en": "Winning the lottery jackpot counts as a windfall arriving.",
+            "audio_src": "ถูกหวยรางวัลใหญ่ถือว่าโชคลาภมาเยือน",
+            "audio_en_src": "Winning the lottery jackpot counts as a windfall arriving."
+          },
+          {
+            "thai": "เก็บเงินได้กลางถนน นับเป็นลาภลอย",
+            "en": "Finding money in the street counts as an unexpected windfall.",
+            "audio_src": "เก็บเงินได้กลางถนน นับเป็นลาภลอย",
+            "audio_en_src": "Finding money in the street counts as an unexpected windfall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-268",
