@@ -17965,7 +17965,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "vocabulary, word",
+        "sentences": [
+          {
+            "thai": "วันนี้ครูสอนคำศัพท์ใหม่สิบคำ",
+            "en": "Today the teacher taught ten new vocabulary words.",
+            "audio_src": "วันนี้ครูสอนคำศัพท์ใหม่สิบคำ",
+            "audio_en_src": "Today the teacher taught ten new vocabulary words."
+          },
+          {
+            "thai": "ฉันท่องคำศัพท์ภาษาอังกฤษทุกวัน",
+            "en": "I memorize English vocabulary every day.",
+            "audio_src": "ฉันท่องคำศัพท์ภาษาอังกฤษทุกวัน",
+            "audio_en_src": "I memorize English vocabulary every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-088",
@@ -17977,7 +17996,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "slang word",
+        "sentences": [
+          {
+            "thai": "วัยรุ่นชอบใช้คำสแลงเยอะ",
+            "en": "Teenagers like to use a lot of slang.",
+            "audio_src": "วัยรุ่นชอบใช้คำสแลงเยอะ",
+            "audio_en_src": "Teenagers like to use a lot of slang."
+          },
+          {
+            "thai": "คำสแลงคำนี้แปลว่าอะไร",
+            "en": "What does this slang word mean?",
+            "audio_src": "คำสแลงคำนี้แปลว่าอะไร",
+            "audio_en_src": "What does this slang word mean?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-089",
@@ -18097,7 +18135,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pay back, to refund",
+        "sentences": [
+          {
+            "thai": "ถ้าสินค้ามีปัญหา ทางร้านคืนเงินให้",
+            "en": "If the product has an issue, the shop will refund you.",
+            "audio_src": "ถ้าสินค้ามีปัญหา ทางร้านคืนเงินให้",
+            "audio_en_src": "If the product has an issue, the shop will refund you."
+          },
+          {
+            "thai": "เขายืมเงินไปนานแล้วยังไม่คืนเงิน",
+            "en": "He borrowed money a long time ago and still hasn't paid it back.",
+            "audio_src": "เขายืมเงินไปนานแล้วยังไม่คืนเงิน",
+            "audio_en_src": "He borrowed money a long time ago and still hasn't paid it back."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-094",
@@ -18145,7 +18202,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pair with, to go together with",
+        "sentences": [
+          {
+            "thai": "ไวน์แดงกินคู่กับสเต๊กอร่อยมาก",
+            "en": "Red wine goes really well with steak.",
+            "audio_src": "ไวน์แดงกินคู่กับสเต๊กอร่อยมาก",
+            "audio_en_src": "Red wine goes really well with steak."
+          },
+          {
+            "thai": "เธอเล่นเทนนิสคู่กับน้องสาว",
+            "en": "She plays tennis paired with her sister.",
+            "audio_src": "เธอเล่นเทนนิสคู่กับน้องสาว",
+            "audio_en_src": "She plays tennis paired with her sister."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-096",
@@ -18158,7 +18234,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stuck, unfinished, pending, left hanging",
+        "sentences": [
+          {
+            "thai": "งานยังค้างอยู่เยอะ ทำไม่เสร็จสักที",
+            "en": "There's still a lot of unfinished work, I can never get it done.",
+            "audio_src": "งานยังค้างอยู่เยอะ ทำไม่เสร็จสักที",
+            "audio_en_src": "There's still a lot of unfinished work, I can never get it done."
+          },
+          {
+            "thai": "เขาตอบแชทค้างไว้ ไม่ตอบต่อเลย",
+            "en": "He left the chat hanging and never replied.",
+            "audio_src": "เขาตอบแชทค้างไว้ ไม่ตอบต่อเลย",
+            "audio_en_src": "He left the chat hanging and never replied."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-097",
@@ -18213,7 +18308,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "artwork, work of art",
+        "sentences": [
+          {
+            "thai": "พิพิธภัณฑ์นี้จัดแสดงงานศิลปะหายาก",
+            "en": "This museum exhibits rare works of art.",
+            "audio_src": "พิพิธภัณฑ์นี้จัดแสดงงานศิลปะหายาก",
+            "audio_en_src": "This museum exhibits rare works of art."
+          },
+          {
+            "thai": "นักเรียนทำงานศิลปะจากเศษวัสดุ",
+            "en": "The students make artwork from scrap materials.",
+            "audio_src": "นักเรียนทำงานศิลปะจากเศษวัสดุ",
+            "audio_en_src": "The students make artwork from scrap materials."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-101",
@@ -18226,7 +18340,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to reconcile, to make up with someone, to apologize first",
+        "sentences": [
+          {
+            "thai": "ทะเลาะกันทีไร เขาง้อก่อนทุกที",
+            "en": "Whenever they fight, he's the one who makes up first.",
+            "audio_src": "ทะเลาะกันทีไร เขาง้อก่อนทุกที",
+            "audio_en_src": "Whenever they fight, he's the one who makes up first."
+          },
+          {
+            "thai": "เธอโกรธมาก ง้อยังไงก็ไม่หาย",
+            "en": "She's so angry, no amount of making up helps.",
+            "audio_src": "เธอโกรธมาก ง้อยังไงก็ไม่หาย",
+            "audio_en_src": "She's so angry, no amount of making up helps."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-102",
@@ -18314,7 +18447,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to remember roughly, to vaguely recall",
+        "sentences": [
+          {
+            "thai": "ฉันจำได้คร่าวๆว่าบ้านเขาอยู่แถวนี้",
+            "en": "I vaguely recall that his house is around here.",
+            "audio_src": "ฉันจำได้คร่าวๆว่าบ้านเขาอยู่แถวนี้",
+            "audio_en_src": "I vaguely recall that his house is around here."
+          },
+          {
+            "thai": "เรื่องนานแล้ว จำได้แค่คร่าวๆ",
+            "en": "It was a long time ago, I only vaguely remember.",
+            "audio_src": "เรื่องนานแล้ว จำได้แค่คร่าวๆ",
+            "audio_en_src": "It was a long time ago, I only vaguely remember."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-108",
@@ -18477,7 +18629,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to box (muay thai)",
+        "sentences": [
+          {
+            "thai": "เขาฝึกชกมวยตั้งแต่เด็ก",
+            "en": "He's trained in boxing since he was a kid.",
+            "audio_src": "เขาฝึกชกมวยตั้งแต่เด็ก",
+            "audio_en_src": "He's trained in boxing since he was a kid."
+          },
+          {
+            "thai": "คืนนี้มีชกมวยถ่ายทอดสด",
+            "en": "There's a live boxing match broadcast tonight.",
+            "audio_src": "คืนนี้มีชกมวยถ่ายทอดสด",
+            "audio_en_src": "There's a live boxing match broadcast tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-116",
@@ -18490,7 +18661,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to start a conversation, to engage someone in talking",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนชวนคุยเก่ง ใครก็ชอบ",
+            "en": "He's good at striking up conversations, everyone likes him.",
+            "audio_src": "เขาเป็นคนชวนคุยเก่ง ใครก็ชอบ",
+            "audio_en_src": "He's good at striking up conversations, everyone likes him."
+          },
+          {
+            "thai": "ผู้หญิงคนนั้นชวนคุยระหว่างรอรถ",
+            "en": "That woman struck up a conversation while waiting for the bus.",
+            "audio_src": "ผู้หญิงคนนั้นชวนคุยระหว่างรอรถ",
+            "audio_en_src": "That woman struck up a conversation while waiting for the bus."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-117",

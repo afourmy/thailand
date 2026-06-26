@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1524 words**
+**Total: 1534 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -293,14 +293,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-083` : ความเดือดร้อน (trouble, difficulty) : 1 meaning(s), 2 sentences
 - `tamago-l12-085` : คัน (to feel itchy) : 1 meaning(s), 2 sentences
 - `tamago-l12-086` : คับแคบ (uncomfortably narrow, cramped) : 1 meaning(s), 2 sentences
+- `tamago-l12-087` : คำศัพท์ (vocabulary, word) : 1 meaning(s), 2 sentences
+- `tamago-l12-088` : คำสแลง (slang word) : 1 meaning(s), 2 sentences
 - `tamago-l12-089` : คิด (to think; to charge (a price)) : 2 meaning(s), 4 sentences
 - `tamago-l12-092` : คืน (to return (something)) : 1 meaning(s), 2 sentences
+- `tamago-l12-093` : คืนเงิน (to pay back, to refund) : 1 meaning(s), 2 sentences
 - `tamago-l12-094` : คุ้ม (worthwhile, to be worth it) : 1 meaning(s), 2 sentences
+- `tamago-l12-095` : คู่กับ (to pair with, to go together with) : 1 meaning(s), 2 sentences
+- `tamago-l12-096` : ค้าง (stuck, unfinished, pending, left hanging) : 1 meaning(s), 2 sentences
 - `tamago-l12-097` : งอน (to sulk, to be in a huff (especially couples)) : 1 meaning(s), 2 sentences
+- `tamago-l12-099` : งานศิลปะ (artwork, work of art) : 1 meaning(s), 2 sentences
+- `tamago-l12-101` : ง้อ (to reconcile, to make up with someone, to apologize first) : 1 meaning(s), 2 sentences
 - `tamago-l12-105` : จัด (to organize, to arrange) : 1 meaning(s), 2 sentences
+- `tamago-l12-107` : จำได้คร่าวๆ (to remember roughly, to vaguely recall) : 1 meaning(s), 2 sentences
 - `tamago-l12-109` : จิ้ม (to dip (e.g food in sauce)) : 1 meaning(s), 2 sentences
 - `tamago-l12-110` : จืด, จืดจาง (bland, tasteless) : 1 meaning(s), 2 sentences
 - `tamago-l12-112` : ฉลอง, เฉลิมฉลอง (to celebrate) : 1 meaning(s), 2 sentences
+- `tamago-l12-115` : ชกมวย (to box (muay thai)) : 1 meaning(s), 2 sentences
+- `tamago-l12-116` : ชวนคุย (to start a conversation, to engage someone in talking) : 1 meaning(s), 2 sentences
 - `tamago-l12-117` : ชัดๆ (clearly, definitely) : 1 meaning(s), 2 sentences
 - `tamago-l12-127` : ช้อน (spoon) : 1 meaning(s), 2 sentences
 - `tamago-l12-128` : ซวย (unfortunate, bad luck, unlucky, screwed (slang)) : 1 meaning(s), 2 sentences
