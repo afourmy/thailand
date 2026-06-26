@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1454 words**
+**Total: 1464 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -199,7 +199,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-129` : น่ารังเกียจ (disgusting, despicable, repulsive) : 1 meaning(s), 2 sentences
 - `chula-l6-135` : เอกลักษณ์ (distinctive identity, unique characteristic) : 1 meaning(s), 2 sentences
 - `chula-l6-136` : เฉพาะตัว (singular, of its own, distinctive) : 1 meaning(s), 2 sentences
+- `chula-l6-140` : เงียบกริบ (completely silent, dead quiet) : 1 meaning(s), 2 sentences
+- `chula-l6-147` : วอน, อ้อนวอน (to plead for, beg for, implore) : 1 meaning(s), 2 sentences
+- `chula-l6-157` : ผง (powder) : 1 meaning(s), 2 sentences
+- `chula-l6-159` : หมู่ (group, cluster) : 1 meaning(s), 2 sentences
+- `chula-l6-161` : เศษ (fragment, scrap, remnant; fraction of; a bit more, slightly over) : 3 meaning(s), 6 sentences
+- `chula-l6-164` : หลุด (to slip, drop, fall off) : 1 meaning(s), 2 sentences
+- `chula-l6-165` : กระชับ (compact, tight, firm, to tighten, to strengthen) : 1 meaning(s), 2 sentences
+- `chula-l6-167` : เครื่องสำอาง (cosmetics) : 1 meaning(s), 2 sentences
+- `chula-l6-168` : แปลก, แปลกประหลาด (strange, weird) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
+- `chula-l6-175` : กระหาย (thirsty) : 1 meaning(s), 2 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
 - `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences

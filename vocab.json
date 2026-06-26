@@ -12671,7 +12671,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "completely silent, dead quiet",
+        "sentences": [
+          {
+            "thai": "พอครูเดินเข้ามา ห้องก็เงียบกริบ",
+            "en": "As soon as the teacher walked in, the room went dead quiet.",
+            "audio_src": "พอครูเดินเข้ามา ห้องก็เงียบกริบ",
+            "audio_en_src": "As soon as the teacher walked in, the room went dead quiet."
+          },
+          {
+            "thai": "โทรไปหลายครั้งแต่เขาเงียบกริบ",
+            "en": "I called many times but he's gone completely silent.",
+            "audio_src": "โทรไปหลายครั้งแต่เขาเงียบกริบ",
+            "audio_en_src": "I called many times but he's gone completely silent."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-141",
@@ -12744,7 +12763,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to plead for, beg for, implore",
+        "sentences": [
+          {
+            "thai": "เด็กอ้อนวอนให้แม่ซื้อของเล่น",
+            "en": "The child begged his mom to buy a toy.",
+            "audio_src": "เด็กอ้อนวอนให้แม่ซื้อของเล่น",
+            "audio_en_src": "The child begged his mom to buy a toy."
+          },
+          {
+            "thai": "เธอวอนให้เขาอยู่ต่ออีกสักคืน",
+            "en": "She pleaded with him to stay one more night.",
+            "audio_src": "เธอวอนให้เขาอยู่ต่ออีกสักคืน",
+            "audio_en_src": "She pleaded with him to stay one more night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-148",
@@ -12855,7 +12893,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "powder",
+        "sentences": [
+          {
+            "thai": "ใส่ผงกาแฟลงไปสองช้อน",
+            "en": "Put in two spoons of coffee powder.",
+            "audio_src": "ใส่ผงกาแฟลงไปสองช้อน",
+            "audio_en_src": "Put in two spoons of coffee powder."
+          },
+          {
+            "thai": "ยาตัวนี้เป็นผง ไม่ใช่เม็ด",
+            "en": "This medicine is a powder, not a pill.",
+            "audio_src": "ยาตัวนี้เป็นผง ไม่ใช่เม็ด",
+            "audio_en_src": "This medicine is a powder, not a pill."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-159",
@@ -12870,7 +12927,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "group, cluster",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้รู้กันแค่ในหมู่เพื่อนสนิท",
+            "en": "This is only known among close friends.",
+            "audio_src": "เรื่องนี้รู้กันแค่ในหมู่เพื่อนสนิท",
+            "audio_en_src": "This is only known among close friends."
+          },
+          {
+            "thai": "ประเทศไทยมีหมู่เกาะที่สวยมาก",
+            "en": "Thailand has very beautiful clusters of islands.",
+            "audio_src": "ประเทศไทยมีหมู่เกาะที่สวยมาก",
+            "audio_en_src": "Thailand has very beautiful clusters of islands."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-160",
@@ -12896,7 +12972,60 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fragment, scrap, remnant",
+        "sentences": [
+          {
+            "thai": "เก็บเศษกระดาษบนพื้นด้วยนะ",
+            "en": "Pick up the scraps of paper on the floor too.",
+            "audio_src": "เก็บเศษกระดาษบนพื้นด้วยนะ",
+            "audio_en_src": "Pick up the scraps of paper on the floor too."
+          },
+          {
+            "thai": "ระวังเศษแก้วบาดมือ",
+            "en": "Be careful, the broken glass could cut your hand.",
+            "audio_src": "ระวังเศษแก้วบาดมือ",
+            "audio_en_src": "Be careful, the broken glass could cut your hand."
+          }
+        ]
+      },
+      {
+        "meaning": "fraction of",
+        "sentences": [
+          {
+            "thai": "ที่เห็นเป็นแค่เศษเสี้ยวของปัญหาทั้งหมด",
+            "en": "What you see is just a fraction of the whole problem.",
+            "audio_src": "ที่เห็นเป็นแค่เศษเสี้ยวของปัญหาทั้งหมด",
+            "audio_en_src": "What you see is just a fraction of the whole problem."
+          },
+          {
+            "thai": "เงินรางวัลที่ได้เป็นเศษเสี้ยวของที่เขาลงทุนไป",
+            "en": "The prize money was a fraction of what he invested.",
+            "audio_src": "เงินรางวัลที่ได้เป็นเศษเสี้ยวของที่เขาลงทุนไป",
+            "audio_en_src": "The prize money was a fraction of what he invested."
+          }
+        ]
+      },
+      {
+        "meaning": "a bit more, slightly over",
+        "sentences": [
+          {
+            "thai": "ตอนนี้บ่ายสองโมงเศษ",
+            "en": "It's a bit past two in the afternoon now.",
+            "audio_src": "ตอนนี้บ่ายสองโมงเศษ",
+            "audio_en_src": "It's a bit past two in the afternoon now."
+          },
+          {
+            "thai": "หนังสือเล่มนี้ราคาร้อยเศษ",
+            "en": "This book costs a hundred and a bit.",
+            "audio_src": "หนังสือเล่มนี้ราคาร้อยเศษ",
+            "audio_en_src": "This book costs a hundred and a bit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-162",
@@ -12932,7 +13061,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to slip, drop, fall off",
+        "sentences": [
+          {
+            "thai": "กระดุมเสื้อหลุดไปเม็ดนึง",
+            "en": "A button on my shirt fell off.",
+            "audio_src": "กระดุมเสื้อหลุดไปเม็ดนึง",
+            "audio_en_src": "A button on my shirt fell off."
+          },
+          {
+            "thai": "จับให้แน่นๆ เดี๋ยวหลุดมือ",
+            "en": "Hold it tight, or it'll slip out of your hand.",
+            "audio_src": "จับให้แน่นๆ เดี๋ยวหลุดมือ",
+            "audio_en_src": "Hold it tight, or it'll slip out of your hand."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-165",
@@ -12946,7 +13094,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "compact, tight, firm, to tighten, to strengthen",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้ใส่แล้วกระชับพอดีตัว",
+            "en": "This shirt fits nice and snug.",
+            "audio_src": "เสื้อตัวนี้ใส่แล้วกระชับพอดีตัว",
+            "audio_en_src": "This shirt fits nice and snug."
+          },
+          {
+            "thai": "กิจกรรมนี้ช่วยให้ทีมกระชับความสัมพันธ์กันมากขึ้น",
+            "en": "This activity helps the team strengthen their bond.",
+            "audio_src": "กิจกรรมนี้ช่วยให้ทีมกระชับความสัมพันธ์กันมากขึ้น",
+            "audio_en_src": "This activity helps the team strengthen their bond."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-166",
@@ -12970,7 +13137,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cosmetics",
+        "sentences": [
+          {
+            "thai": "เธอใช้เงินไปกับเครื่องสำอางเยอะมาก",
+            "en": "She spends a lot of money on cosmetics.",
+            "audio_src": "เธอใช้เงินไปกับเครื่องสำอางเยอะมาก",
+            "audio_en_src": "She spends a lot of money on cosmetics."
+          },
+          {
+            "thai": "ร้านนี้ขายเครื่องสำอางหลายยี่ห้อ",
+            "en": "This shop sells many brands of cosmetics.",
+            "audio_src": "ร้านนี้ขายเครื่องสำอางหลายยี่ห้อ",
+            "audio_en_src": "This shop sells many brands of cosmetics."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-168",
@@ -12984,7 +13170,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "strange, weird",
+        "sentences": [
+          {
+            "thai": "วันนี้เขาทำตัวแปลกๆ",
+            "en": "He's acting weird today.",
+            "audio_src": "วันนี้เขาทำตัวแปลกๆ",
+            "audio_en_src": "He's acting weird today."
+          },
+          {
+            "thai": "ฉันได้ยินเสียงแปลกประหลาดตอนกลางคืน",
+            "en": "I heard a strange noise at night.",
+            "audio_src": "ฉันได้ยินเสียงแปลกประหลาดตอนกลางคืน",
+            "audio_en_src": "I heard a strange noise at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-169",
@@ -13123,7 +13328,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "thirsty",
+        "sentences": [
+          {
+            "thai": "เดินกลางแดดมานาน กระหายน้ำมาก",
+            "en": "I've been walking in the sun a long time, I'm so thirsty.",
+            "audio_src": "เดินกลางแดดมานาน กระหายน้ำมาก",
+            "audio_en_src": "I've been walking in the sun a long time, I'm so thirsty."
+          },
+          {
+            "thai": "วิ่งเสร็จแล้วกระหายน้ำ ขอน้ำเย็นแก้วนึง",
+            "en": "After running I'm thirsty, can I get a glass of cold water.",
+            "audio_src": "วิ่งเสร็จแล้วกระหายน้ำ ขอน้ำเย็นแก้วนึง",
+            "audio_en_src": "After running I'm thirsty, can I get a glass of cold water."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-176",
