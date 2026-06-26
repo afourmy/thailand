@@ -35824,7 +35824,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to seize an opportunity",
+        "sentences": [
+          {
+            "thai": "เขาฉวยโอกาสตอนของลดราคาซื้อตุนไว้",
+            "en": "He seized the chance to stock up while things were on sale.",
+            "audio_src": "เขาฉวยโอกาสตอนของลดราคาซื้อตุนไว้",
+            "audio_en_src": "He seized the chance to stock up while things were on sale."
+          },
+          {
+            "thai": "อย่าฉวยโอกาสเอาเปรียบคนอื่น",
+            "en": "Don't seize the moment to take advantage of others.",
+            "audio_src": "อย่าฉวยโอกาสเอาเปรียบคนอื่น",
+            "audio_en_src": "Don't seize the moment to take advantage of others."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-198",
@@ -35900,7 +35919,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "the past, past memories",
+        "sentences": [
+          {
+            "thai": "เจอเพื่อนเก่าทีไรก็ชอบรื้อความหลัง",
+            "en": "Whenever I meet old friends, we like to dig up old memories.",
+            "audio_src": "เจอเพื่อนเก่าทีไรก็ชอบรื้อความหลัง",
+            "audio_en_src": "Whenever I meet old friends, we like to dig up old memories."
+          },
+          {
+            "thai": "เขาไม่อยากพูดถึงความหลังที่เจ็บปวด",
+            "en": "He doesn't want to talk about painful memories from the past.",
+            "audio_src": "เขาไม่อยากพูดถึงความหลังที่เจ็บปวด",
+            "audio_en_src": "He doesn't want to talk about painful memories from the past."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-201",
@@ -35912,7 +35950,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to mess up, mixed up, to bullshit, say random things from lack of knowledge",
+        "sentences": [
+          {
+            "thai": "ข้อสอบยากมาก ตอบมั่วไปหลายข้อ",
+            "en": "The exam was so hard I just guessed randomly on a lot of questions.",
+            "audio_src": "ข้อสอบยากมาก ตอบมั่วไปหลายข้อ",
+            "audio_en_src": "The exam was so hard I just guessed randomly on a lot of questions."
+          },
+          {
+            "thai": "เขาพูดมั่วทั้งที่ไม่รู้เรื่องจริง",
+            "en": "He's just talking nonsense even though he doesn't actually know.",
+            "audio_src": "เขาพูดมั่วทั้งที่ไม่รู้เรื่องจริง",
+            "audio_en_src": "He's just talking nonsense even though he doesn't actually know."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-202",
@@ -35957,7 +36014,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fortune teller",
+        "sentences": [
+          {
+            "thai": "เธอไปหาหมอดูเรื่องความรัก",
+            "en": "She went to a fortune teller about her love life.",
+            "audio_src": "เธอไปหาหมอดูเรื่องความรัก",
+            "audio_en_src": "She went to a fortune teller about her love life."
+          },
+          {
+            "thai": "หมอดูทักว่าปีนี้ดวงดี",
+            "en": "The fortune teller said my luck is good this year.",
+            "audio_src": "หมอดูทักว่าปีนี้ดวงดี",
+            "audio_en_src": "The fortune teller said my luck is good this year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-204",
@@ -36003,7 +36079,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be able to tell, to figure out by looking",
+        "sentences": [
+          {
+            "thai": "ฉันดูออกเลยว่าเขาโกหก",
+            "en": "I can tell right away that he's lying.",
+            "audio_src": "ฉันดูออกเลยว่าเขาโกหก",
+            "audio_en_src": "I can tell right away that he's lying."
+          },
+          {
+            "thai": "ของปลอมทำเหมือนมากจนดูไม่ออก",
+            "en": "The fake looks so real you can't tell.",
+            "audio_src": "ของปลอมทำเหมือนมากจนดูไม่ออก",
+            "audio_en_src": "The fake looks so real you can't tell."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-206",
@@ -36036,7 +36131,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to avoid, to evade (a question)",
+        "sentences": [
+          {
+            "thai": "เขาบ่ายเบี่ยงไม่ยอมตอบคำถาม",
+            "en": "He evaded the question and wouldn't answer.",
+            "audio_src": "เขาบ่ายเบี่ยงไม่ยอมตอบคำถาม",
+            "audio_en_src": "He evaded the question and wouldn't answer."
+          },
+          {
+            "thai": "พอถูกถามเรื่องเงิน เขาก็บ่ายเบี่ยงทันที",
+            "en": "As soon as he was asked about money, he immediately dodged it.",
+            "audio_src": "พอถูกถามเรื่องเงิน เขาก็บ่ายเบี่ยงทันที",
+            "audio_en_src": "As soon as he was asked about money, he immediately dodged it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-210",
@@ -36139,7 +36253,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "by accident, by coincidence",
+        "sentences": [
+          {
+            "thai": "ฉันเจอเขาที่ห้างโดยบังเอิญ",
+            "en": "I ran into him at the mall by coincidence.",
+            "audio_src": "ฉันเจอเขาที่ห้างโดยบังเอิญ",
+            "audio_en_src": "I ran into him at the mall by coincidence."
+          },
+          {
+            "thai": "เธอค้นพบสูตรนี้โดยบังเอิญ",
+            "en": "She discovered this recipe by accident.",
+            "audio_src": "เธอค้นพบสูตรนี้โดยบังเอิญ",
+            "audio_en_src": "She discovered this recipe by accident."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-216",
@@ -36324,7 +36457,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "personal matter",
+        "sentences": [
+          {
+            "thai": "ขอโทษนะ นี่เป็นเรื่องส่วนตัวของฉัน",
+            "en": "Sorry, this is a personal matter of mine.",
+            "audio_src": "ขอโทษนะ นี่เป็นเรื่องส่วนตัวของฉัน",
+            "audio_en_src": "Sorry, this is a personal matter of mine."
+          },
+          {
+            "thai": "เขาไม่ชอบให้ใครยุ่งเรื่องส่วนตัว",
+            "en": "He doesn't like anyone meddling in his personal affairs.",
+            "audio_src": "เขาไม่ชอบให้ใครยุ่งเรื่องส่วนตัว",
+            "audio_en_src": "He doesn't like anyone meddling in his personal affairs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-228",
@@ -36346,7 +36498,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "tanned skin, dark skin",
+        "sentences": [
+          {
+            "thai": "ตากแดดบ่อยจนผิวคล้ำ",
+            "en": "Being in the sun a lot has made my skin tan.",
+            "audio_src": "ตากแดดบ่อยจนผิวคล้ำ",
+            "audio_en_src": "Being in the sun a lot has made my skin tan."
+          },
+          {
+            "thai": "เขาผิวคล้ำแต่ดูสุขภาพดี",
+            "en": "He has dark skin but looks healthy.",
+            "audio_src": "เขาผิวคล้ำแต่ดูสุขภาพดี",
+            "audio_en_src": "He has dark skin but looks healthy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-230",
@@ -36358,7 +36529,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "extremely white (skin)",
+        "sentences": [
+          {
+            "thai": "เธอผิวขาวจั๊วะเหมือนไม่เคยโดนแดด",
+            "en": "Her skin is super white like she's never been in the sun.",
+            "audio_src": "เธอผิวขาวจั๊วะเหมือนไม่เคยโดนแดด",
+            "audio_en_src": "Her skin is super white like she's never been in the sun."
+          },
+          {
+            "thai": "ทาแป้งหนาจนหน้าขาวจั๊วะ",
+            "en": "She put on so much powder her face is bright white.",
+            "audio_src": "ทาแป้งหนาจนหน้าขาวจั๊วะ",
+            "audio_en_src": "She put on so much powder her face is bright white."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-231",
