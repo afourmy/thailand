@@ -6915,7 +6915,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rules, regulations",
+        "sentences": [
+          {
+            "thai": "ทุกคนต้องทำตามกฎระเบียบของโรงเรียน",
+            "en": "Everyone has to follow the school rules.",
+            "audio_src": "ทุกคนต้องทำตามกฎระเบียบของโรงเรียน",
+            "audio_en_src": "Everyone has to follow the school rules."
+          },
+          {
+            "thai": "บริษัทมีกฎระเบียบที่เข้มงวด",
+            "en": "The company has strict regulations.",
+            "audio_src": "บริษัทมีกฎระเบียบที่เข้มงวด",
+            "audio_en_src": "The company has strict regulations."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-264",
@@ -6951,7 +6970,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "signal, sign",
+        "sentences": [
+          {
+            "thai": "ที่นี่สัญญาณโทรศัพท์ไม่ดี",
+            "en": "The phone signal is bad here.",
+            "audio_src": "ที่นี่สัญญาณโทรศัพท์ไม่ดี",
+            "audio_en_src": "The phone signal is bad here."
+          },
+          {
+            "thai": "เขายกมือเป็นสัญญาณให้หยุด",
+            "en": "He raised his hand as a signal to stop.",
+            "audio_src": "เขายกมือเป็นสัญญาณให้หยุด",
+            "audio_en_src": "He raised his hand as a signal to stop."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-267",
@@ -6965,7 +7003,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "accidentally, unintentionally",
+        "sentences": [
+          {
+            "thai": "ฉันเผลอหลับไปตอนดูหนัง",
+            "en": "I accidentally dozed off while watching the movie.",
+            "audio_src": "ฉันเผลอหลับไปตอนดูหนัง",
+            "audio_en_src": "I accidentally dozed off while watching the movie."
+          },
+          {
+            "thai": "เขาเผลอพูดความลับออกมา",
+            "en": "He accidentally let the secret slip.",
+            "audio_src": "เขาเผลอพูดความลับออกมา",
+            "audio_en_src": "He accidentally let the secret slip."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-268",
@@ -6978,7 +7035,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be aware, to be conscious of",
+        "sentences": [
+          {
+            "thai": "เขาทำผิดโดยไม่รู้ตัว",
+            "en": "He did wrong without realizing it.",
+            "audio_src": "เขาทำผิดโดยไม่รู้ตัว",
+            "audio_en_src": "He did wrong without realizing it."
+          },
+          {
+            "thai": "กว่าจะรู้ตัวก็สายไปแล้ว",
+            "en": "By the time I realized, it was already too late.",
+            "audio_src": "กว่าจะรู้ตัวก็สายไปแล้ว",
+            "audio_en_src": "By the time I realized, it was already too late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-269",
@@ -6991,7 +7067,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rival, competitor",
+        "sentences": [
+          {
+            "thai": "บริษัทเรามีคู่แข่งหลายเจ้า",
+            "en": "Our company has many competitors.",
+            "audio_src": "บริษัทเรามีคู่แข่งหลายเจ้า",
+            "audio_en_src": "Our company has many competitors."
+          },
+          {
+            "thai": "เขาเอาชนะคู่แข่งได้สำเร็จ",
+            "en": "He successfully beat his rival.",
+            "audio_src": "เขาเอาชนะคู่แข่งได้สำเร็จ",
+            "audio_en_src": "He successfully beat his rival."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-270",
@@ -7085,7 +7180,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to drain, to empty",
+        "sentences": [
+          {
+            "thai": "ท่อระบายน้ำอุดตัน",
+            "en": "The drainpipe is clogged.",
+            "audio_src": "ท่อระบายน้ำอุดตัน",
+            "audio_en_src": "The drainpipe is clogged."
+          },
+          {
+            "thai": "ฝนตกหนักจนระบายน้ำไม่ทัน",
+            "en": "It rained so hard the water couldn't drain fast enough.",
+            "audio_src": "ฝนตกหนักจนระบายน้ำไม่ทัน",
+            "audio_en_src": "It rained so hard the water couldn't drain fast enough."
+          }
+        ]
+      },
+      {
+        "meaning": "to express strong emotions, to vent",
+        "sentences": [
+          {
+            "thai": "เธอโทรหาเพื่อนเพื่อระบายความเครียด",
+            "en": "She called a friend to vent her stress.",
+            "audio_src": "เธอโทรหาเพื่อนเพื่อระบายความเครียด",
+            "audio_en_src": "She called a friend to vent her stress."
+          },
+          {
+            "thai": "เขาเขียนไดอารี่ระบายความในใจ",
+            "en": "He writes in a diary to pour out his feelings.",
+            "audio_src": "เขาเขียนไดอารี่ระบายความในใจ",
+            "audio_en_src": "He writes in a diary to pour out his feelings."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-278",
@@ -7098,7 +7229,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to slip, slippery",
+        "sentences": [
+          {
+            "thai": "ระวังพื้นเปียกลื่น",
+            "en": "Careful, the floor is wet and slippery.",
+            "audio_src": "ระวังพื้นเปียกลื่น",
+            "audio_en_src": "Careful, the floor is wet and slippery."
+          },
+          {
+            "thai": "เขาลื่นล้มในห้องน้ำ",
+            "en": "He slipped and fell in the bathroom.",
+            "audio_src": "เขาลื่นล้มในห้องน้ำ",
+            "audio_en_src": "He slipped and fell in the bathroom."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-279",
@@ -7111,7 +7261,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "careful",
+        "sentences": [
+          {
+            "thai": "ขับรถระมัดระวังหน่อยนะ",
+            "en": "Please drive carefully.",
+            "audio_src": "ขับรถระมัดระวังหน่อยนะ",
+            "audio_en_src": "Please drive carefully."
+          },
+          {
+            "thai": "ต้องระมัดระวังเรื่องเงินให้มาก",
+            "en": "You have to be very careful with money.",
+            "audio_src": "ต้องระมัดระวังเรื่องเงินให้มาก",
+            "audio_en_src": "You have to be very careful with money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-280",
@@ -7191,7 +7360,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "obstacle",
+        "sentences": [
+          {
+            "thai": "เขาเจออุปสรรคมากมายในชีวิต",
+            "en": "He has faced many obstacles in life.",
+            "audio_src": "เขาเจออุปสรรคมากมายในชีวิต",
+            "audio_en_src": "He has faced many obstacles in life."
+          },
+          {
+            "thai": "ปัญหาเงินเป็นอุปสรรคใหญ่",
+            "en": "Money problems are a big obstacle.",
+            "audio_src": "ปัญหาเงินเป็นอุปสรรคใหญ่",
+            "audio_en_src": "Money problems are a big obstacle."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-287",
@@ -7215,7 +7403,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to cancel",
+        "sentences": [
+          {
+            "thai": "ฉันขอยกเลิกการจองห้อง",
+            "en": "I'd like to cancel my room booking.",
+            "audio_src": "ฉันขอยกเลิกการจองห้อง",
+            "audio_en_src": "I'd like to cancel my room booking."
+          },
+          {
+            "thai": "เที่ยวบินถูกยกเลิกเพราะพายุ",
+            "en": "The flight was canceled because of the storm.",
+            "audio_src": "เที่ยวบินถูกยกเลิกเพราะพายุ",
+            "audio_en_src": "The flight was canceled because of the storm."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-289",

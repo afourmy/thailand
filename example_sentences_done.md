@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1374 words**
+**Total: 1384 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -107,6 +107,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-256` : ยากันยุง (mosquito repellent) : 1 meaning(s), 2 sentences
 - `chula-l5-257` : ซ้ำ (to repeat, repeatedly, again) : 1 meaning(s), 2 sentences
 - `chula-l5-261` : ผิดปกติ (abnormal) : 1 meaning(s), 2 sentences
+- `chula-l5-263` : กฎระเบียบ (rules, regulations) : 1 meaning(s), 2 sentences
+- `chula-l5-266` : สัญญาณ (signal, sign) : 1 meaning(s), 2 sentences
+- `chula-l5-267` : เผลอ (accidentally, unintentionally) : 1 meaning(s), 2 sentences
+- `chula-l5-268` : รู้ตัว (to be aware, to be conscious of) : 1 meaning(s), 2 sentences
+- `chula-l5-269` : คู่แข่ง (rival, competitor) : 1 meaning(s), 2 sentences
+- `chula-l5-277` : ระบาย (to drain, to empty; to express strong emotions, to vent) : 2 meaning(s), 4 sentences
+- `chula-l5-278` : ลื่น (to slip, slippery) : 1 meaning(s), 2 sentences
+- `chula-l5-279` : ระมัดระวัง (careful) : 1 meaning(s), 2 sentences
+- `chula-l5-286` : อุปสรรค (obstacle) : 1 meaning(s), 2 sentences
+- `chula-l5-288` : ยกเลิก (to cancel) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
