@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1604 words**
+**Total: 1614 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -468,17 +468,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-443` : หมากรุก (chess) : 1 meaning(s), 2 sentences
 - `tamago-l12-445` : หยิก (to pinch; curly, wavy (of hair)) : 2 meaning(s), 4 sentences
 - `tamago-l12-446` : หรู (luxurious, fancy) : 1 meaning(s), 2 sentences
+- `tamago-l12-447` : หลงกล (to be tricked, fooled, fall into a trap) : 1 meaning(s), 2 sentences
 - `tamago-l12-449` : หลอด (straw (drinking); tube) : 2 meaning(s), 4 sentences
 - `tamago-l12-450` : หลังๆ (lately, recently) : 1 meaning(s), 2 sentences
 - `tamago-l12-451` : หลับตา (to close one's eyes) : 1 meaning(s), 2 sentences
+- `tamago-l12-453` : หอ (dormitory, dorm; tower) : 2 meaning(s), 4 sentences
 - `tamago-l12-454` : หัวหน้า (boss, head, supervisor) : 1 meaning(s), 2 sentences
 - `tamago-l12-456` : หั่น (to chop, to slice) : 1 meaning(s), 2 sentences
+- `tamago-l12-460` : ห่วย (to suck at, to be terrible at) : 1 meaning(s), 2 sentences
 - `tamago-l12-461` : ห่อ (to wrap) : 1 meaning(s), 2 sentences
+- `tamago-l12-463` : ห้องพัก (guest room, hotel room) : 1 meaning(s), 2 sentences
+- `tamago-l12-465` : อด (to skip, to abstain from, to go without) : 1 meaning(s), 2 sentences
+- `tamago-l12-467` : อพยพ (to migrate, evacuate, relocate) : 1 meaning(s), 2 sentences
 - `tamago-l12-469` : อย่าง (classifier for abstract things, type, kind) : 1 meaning(s), 2 sentences
+- `tamago-l12-474` : อลังการ (magnificent, splendid, grand) : 1 meaning(s), 2 sentences
 - `tamago-l12-475` : อะไรพวกนี้ (things like that) : 1 meaning(s), 2 sentences
 - `tamago-l12-476` : อะไรแบบนี้ (stuff like that, things like this) : 1 meaning(s), 2 sentences
 - `tamago-l12-480` : อาจารย์ (university professor; teacher (respectful)) : 2 meaning(s), 4 sentences
+- `tamago-l12-481` : อาละวาด (to act violently, to go on a rampage) : 1 meaning(s), 2 sentences
 - `tamago-l12-484` : อีกหน่อย (soon, later, in a little while) : 1 meaning(s), 2 sentences
+- `tamago-l12-485` : อุทยานแห่งชาติ (national park) : 1 meaning(s), 2 sentences
+- `tamago-l12-486` : อุ้ม (to hold, to carry (mostly children and pets)) : 1 meaning(s), 2 sentences
 - `tamago-l12-491` : เกาะ (island; to cling, to hold on to) : 2 meaning(s), 4 sentences
 - `tamago-l12-507` : เจ้านาย (boss, employer) : 1 meaning(s), 2 sentences
 - `tamago-l12-509` : เฉยๆ (merely, just, nothing special; indifferent) : 2 meaning(s), 4 sentences

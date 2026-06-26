@@ -25816,7 +25816,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be tricked, fooled, fall into a trap",
+        "sentences": [
+          {
+            "thai": "เขาหลงกลพวกมิจฉาชีพจนเสียเงิน",
+            "en": "He fell for the scammers' trick and lost money.",
+            "audio_src": "เขาหลงกลพวกมิจฉาชีพจนเสียเงิน",
+            "audio_en_src": "He fell for the scammers' trick and lost money."
+          },
+          {
+            "thai": "อย่าหลงกลคำหวานของคนแปลกหน้า",
+            "en": "Don't be fooled by a stranger's sweet talk.",
+            "audio_src": "อย่าหลงกลคำหวานของคนแปลกหน้า",
+            "audio_en_src": "Don't be fooled by a stranger's sweet talk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-448",
@@ -25971,7 +25990,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "dormitory, dorm",
+        "sentences": [
+          {
+            "thai": "เขาย้ายเข้าหอใกล้มหาวิทยาลัย",
+            "en": "He moved into a dorm near the university.",
+            "audio_src": "เขาย้ายเข้าหอใกล้มหาวิทยาลัย",
+            "audio_en_src": "He moved into a dorm near the university."
+          },
+          {
+            "thai": "ค่าหอเดือนละสามพัน",
+            "en": "The dorm costs three thousand a month.",
+            "audio_src": "ค่าหอเดือนละสามพัน",
+            "audio_en_src": "The dorm costs three thousand a month."
+          }
+        ]
+      },
+      {
+        "meaning": "tower",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวขึ้นหอคอยชมวิวเมือง",
+            "en": "Tourists go up the tower to view the city.",
+            "audio_src": "นักท่องเที่ยวขึ้นหอคอยชมวิวเมือง",
+            "audio_en_src": "Tourists go up the tower to view the city."
+          },
+          {
+            "thai": "หอนาฬิกาตั้งอยู่กลางเมือง",
+            "en": "The clock tower stands in the center of town.",
+            "audio_src": "หอนาฬิกาตั้งอยู่กลางเมือง",
+            "audio_en_src": "The clock tower stands in the center of town."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-454",
@@ -26097,7 +26152,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to suck at, to be terrible at",
+        "sentences": [
+          {
+            "thai": "ฉันเล่นเกมนี้ห่วยมาก",
+            "en": "I'm really terrible at this game.",
+            "audio_src": "ฉันเล่นเกมนี้ห่วยมาก",
+            "audio_en_src": "I'm really terrible at this game."
+          },
+          {
+            "thai": "ลายมือเขาห่วย อ่านแทบไม่ออก",
+            "en": "His handwriting sucks, I can barely read it.",
+            "audio_src": "ลายมือเขาห่วย อ่านแทบไม่ออก",
+            "audio_en_src": "His handwriting sucks, I can barely read it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-461",
@@ -26155,7 +26229,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "guest room, hotel room",
+        "sentences": [
+          {
+            "thai": "ผมจองห้องพักไว้สองคืน",
+            "en": "I booked a hotel room for two nights.",
+            "audio_src": "ผมจองห้องพักไว้สองคืน",
+            "audio_en_src": "I booked a hotel room for two nights."
+          },
+          {
+            "thai": "ห้องพักนี้มองเห็นวิวทะเล",
+            "en": "This room has an ocean view.",
+            "audio_src": "ห้องพักนี้มองเห็นวิวทะเล",
+            "audio_en_src": "This room has an ocean view."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-464",
@@ -26179,7 +26272,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to skip, to abstain from, to go without",
+        "sentences": [
+          {
+            "thai": "เช้านี้รีบมาก เลยอดข้าวเช้า",
+            "en": "I was in a rush this morning, so I skipped breakfast.",
+            "audio_src": "เช้านี้รีบมาก เลยอดข้าวเช้า",
+            "audio_en_src": "I was in a rush this morning, so I skipped breakfast."
+          },
+          {
+            "thai": "เขาอดนอนทั้งคืนเพื่ออ่านหนังสือสอบ",
+            "en": "He went without sleep all night to study for the exam.",
+            "audio_src": "เขาอดนอนทั้งคืนเพื่ออ่านหนังสือสอบ",
+            "audio_en_src": "He went without sleep all night to study for the exam."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-466",
@@ -26202,7 +26314,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to migrate, evacuate, relocate",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านต้องอพยพหนีน้ำท่วม",
+            "en": "The villagers had to evacuate from the flood.",
+            "audio_src": "ชาวบ้านต้องอพยพหนีน้ำท่วม",
+            "audio_en_src": "The villagers had to evacuate from the flood."
+          },
+          {
+            "thai": "ครอบครัวเขาอพยพมาจากต่างจังหวัด",
+            "en": "His family migrated from another province.",
+            "audio_src": "ครอบครัวเขาอพยพมาจากต่างจังหวัด",
+            "audio_en_src": "His family migrated from another province."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-468",
@@ -26282,7 +26413,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "magnificent, splendid, grand",
+        "sentences": [
+          {
+            "thai": "งานเปิดตัวจัดได้อลังการมาก",
+            "en": "The launch event was put on grandly.",
+            "audio_src": "งานเปิดตัวจัดได้อลังการมาก",
+            "audio_en_src": "The launch event was put on grandly."
+          },
+          {
+            "thai": "วิวพระอาทิตย์ตกที่นี่อลังการสุดๆ",
+            "en": "The sunset view here is absolutely spectacular.",
+            "audio_src": "วิวพระอาทิตย์ตกที่นี่อลังการสุดๆ",
+            "audio_en_src": "The sunset view here is absolutely spectacular."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-475",
@@ -26442,7 +26592,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to act violently, to go on a rampage",
+        "sentences": [
+          {
+            "thai": "คนเมาอาละวาดหน้าร้านเหล้า",
+            "en": "A drunk man went on a rampage in front of the bar.",
+            "audio_src": "คนเมาอาละวาดหน้าร้านเหล้า",
+            "audio_en_src": "A drunk man went on a rampage in front of the bar."
+          },
+          {
+            "thai": "เด็กอาละวาดเพราะไม่ได้ของเล่น",
+            "en": "The kid threw a violent tantrum because he didn't get the toy.",
+            "audio_src": "เด็กอาละวาดเพราะไม่ได้ของเล่น",
+            "audio_en_src": "The kid threw a violent tantrum because he didn't get the toy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-482",
@@ -26509,7 +26678,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "national park",
+        "sentences": [
+          {
+            "thai": "เราไปตั้งแคมป์ที่อุทยานแห่งชาติ",
+            "en": "We went camping at the national park.",
+            "audio_src": "เราไปตั้งแคมป์ที่อุทยานแห่งชาติ",
+            "audio_en_src": "We went camping at the national park."
+          },
+          {
+            "thai": "อุทยานแห่งชาติแห่งนี้มีน้ำตกสวยมาก",
+            "en": "This national park has a very beautiful waterfall.",
+            "audio_src": "อุทยานแห่งชาติแห่งนี้มีน้ำตกสวยมาก",
+            "audio_en_src": "This national park has a very beautiful waterfall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-486",
@@ -26523,7 +26711,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hold, to carry (mostly children and pets)",
+        "sentences": [
+          {
+            "thai": "แม่อุ้มลูกไว้ในอ้อมแขน",
+            "en": "Mom holds her baby in her arms.",
+            "audio_src": "แม่อุ้มลูกไว้ในอ้อมแขน",
+            "audio_en_src": "Mom holds her baby in her arms."
+          },
+          {
+            "thai": "เขาอุ้มแมวขึ้นมานั่งตัก",
+            "en": "He picked up the cat to sit on his lap.",
+            "audio_src": "เขาอุ้มแมวขึ้นมานั่งตัก",
+            "audio_en_src": "He picked up the cat to sit on his lap."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-487",
