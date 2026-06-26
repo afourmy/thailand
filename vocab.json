@@ -38921,7 +38921,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to shut oneself away (in a room)",
+        "sentences": [
+          {
+            "thai": "ช่วงสอบเขาหมกตัวอยู่แต่ในห้องอ่านหนังสือ",
+            "en": "During exams he shuts himself in his room studying.",
+            "audio_src": "ช่วงสอบเขาหมกตัวอยู่แต่ในห้องอ่านหนังสือ",
+            "audio_en_src": "During exams he shuts himself in his room studying."
+          },
+          {
+            "thai": "อกหักทีไรเธอก็หมกตัวอยู่บ้านหลายวัน",
+            "en": "Every time she's heartbroken, she shuts herself away at home for days.",
+            "audio_src": "อกหักทีไรเธอก็หมกตัวอยู่บ้านหลายวัน",
+            "audio_en_src": "Every time she's heartbroken, she shuts herself away at home for days."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-351",
@@ -38965,7 +38984,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "senior, elder",
+        "sentences": [
+          {
+            "thai": "เขาเป็นพนักงานอาวุโสที่สุดในแผนก",
+            "en": "He's the most senior employee in the department.",
+            "audio_src": "เขาเป็นพนักงานอาวุโสที่สุดในแผนก",
+            "audio_en_src": "He's the most senior employee in the department."
+          },
+          {
+            "thai": "ควรให้เกียรติผู้อาวุโสในที่ประชุม",
+            "en": "You should show respect to the senior members in the meeting.",
+            "audio_src": "ควรให้เกียรติผู้อาวุโสในที่ประชุม",
+            "audio_en_src": "You should show respect to the senior members in the meeting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-355",
@@ -38979,7 +39017,60 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to claim, to assert",
+        "sentences": [
+          {
+            "thai": "เขาอ้างว่าตัวเองไม่เกี่ยวข้องกับเรื่องนี้",
+            "en": "He claims he's not involved in this matter.",
+            "audio_src": "เขาอ้างว่าตัวเองไม่เกี่ยวข้องกับเรื่องนี้",
+            "audio_en_src": "He claims he's not involved in this matter."
+          },
+          {
+            "thai": "ผู้ขายอ้างว่าสินค้าเป็นของแท้",
+            "en": "The seller asserts that the product is genuine.",
+            "audio_src": "ผู้ขายอ้างว่าสินค้าเป็นของแท้",
+            "audio_en_src": "The seller asserts that the product is genuine."
+          }
+        ]
+      },
+      {
+        "meaning": "to quote, to cite",
+        "sentences": [
+          {
+            "thai": "บทความนี้อ้างข้อมูลจากงานวิจัยหลายชิ้น",
+            "en": "This article cites data from several studies.",
+            "audio_src": "บทความนี้อ้างข้อมูลจากงานวิจัยหลายชิ้น",
+            "audio_en_src": "This article cites data from several studies."
+          },
+          {
+            "thai": "เขาอ้างคำพูดของนักวิทยาศาสตร์ชื่อดัง",
+            "en": "He quoted the words of a famous scientist.",
+            "audio_src": "เขาอ้างคำพูดของนักวิทยาศาสตร์ชื่อดัง",
+            "audio_en_src": "He quoted the words of a famous scientist."
+          }
+        ]
+      },
+      {
+        "meaning": "to give an excuse",
+        "sentences": [
+          {
+            "thai": "เธออ้างว่ารถติดเลยมาประชุมสาย",
+            "en": "She gave the excuse that traffic was bad, so she was late to the meeting.",
+            "audio_src": "เธออ้างว่ารถติดเลยมาประชุมสาย",
+            "audio_en_src": "She gave the excuse that traffic was bad, so she was late to the meeting."
+          },
+          {
+            "thai": "เขาชอบอ้างว่างานยุ่งเพื่อเลี่ยงงานบ้าน",
+            "en": "He likes to use being busy with work as an excuse to avoid housework.",
+            "audio_src": "เขาชอบอ้างว่างานยุ่งเพื่อเลี่ยงงานบ้าน",
+            "audio_en_src": "He likes to use being busy with work as an excuse to avoid housework."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-356",
@@ -39053,7 +39144,43 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "underwater",
+        "sentences": [
+          {
+            "thai": "นักดำน้ำถ่ายรูปปะการังใต้น้ำ",
+            "en": "The divers photographed the coral underwater.",
+            "audio_src": "นักดำน้ำถ่ายรูปปะการังใต้น้ำ",
+            "audio_en_src": "The divers photographed the coral underwater."
+          },
+          {
+            "thai": "เขากลั้นหายใจอยู่ใต้น้ำได้นาน",
+            "en": "He can hold his breath underwater for a long time.",
+            "audio_src": "เขากลั้นหายใจอยู่ใต้น้ำได้นาน",
+            "audio_en_src": "He can hold his breath underwater for a long time."
+          }
+        ]
+      },
+      {
+        "meaning": "above the water",
+        "sentences": [
+          {
+            "thai": "จระเข้โผล่หัวขึ้นมาเหนือน้ำ",
+            "en": "The crocodile raised its head above the water.",
+            "audio_src": "จระเข้โผล่หัวขึ้นมาเหนือน้ำ",
+            "audio_en_src": "The crocodile raised its head above the water."
+          },
+          {
+            "thai": "มีแค่ยอดเสาที่ยังอยู่เหนือน้ำตอนน้ำท่วม",
+            "en": "Only the top of the pole was still above the water during the flood.",
+            "audio_src": "มีแค่ยอดเสาที่ยังอยู่เหนือน้ำตอนน้ำท่วม",
+            "audio_en_src": "Only the top of the pole was still above the water during the flood."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-360",
@@ -39095,7 +39222,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to score points",
+        "sentences": [
+          {
+            "thai": "นักเตะคนนี้ทำคะแนนให้ทีมได้บ่อย",
+            "en": "This player scores points for the team often.",
+            "audio_src": "นักเตะคนนี้ทำคะแนนให้ทีมได้บ่อย",
+            "audio_en_src": "This player scores points for the team often."
+          },
+          {
+            "thai": "เธอทำคะแนนสอบได้สูงสุดในห้อง",
+            "en": "She scored the highest in the class on the exam.",
+            "audio_src": "เธอทำคะแนนสอบได้สูงสุดในห้อง",
+            "audio_en_src": "She scored the highest in the class on the exam."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-364",
@@ -39149,7 +39295,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to figure out, to come up with (an idea)",
+        "sentences": [
+          {
+            "thai": "ในที่สุดเขาก็คิดออกว่าจะแก้ปัญหายังไง",
+            "en": "Finally he figured out how to solve the problem.",
+            "audio_src": "ในที่สุดเขาก็คิดออกว่าจะแก้ปัญหายังไง",
+            "audio_en_src": "Finally he figured out how to solve the problem."
+          },
+          {
+            "thai": "นั่งคิดทั้งวันก็ยังคิดไม่ออก",
+            "en": "I sat thinking all day and still couldn't figure it out.",
+            "audio_src": "นั่งคิดทั้งวันก็ยังคิดไม่ออก",
+            "audio_en_src": "I sat thinking all day and still couldn't figure it out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-369",
@@ -39173,7 +39338,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to appear, to emerge, to pop up",
+        "sentences": [
+          {
+            "thai": "พระอาทิตย์โผล่พ้นขอบฟ้าตอนเช้า",
+            "en": "The sun emerged over the horizon in the morning.",
+            "audio_src": "พระอาทิตย์โผล่พ้นขอบฟ้าตอนเช้า",
+            "audio_en_src": "The sun emerged over the horizon in the morning."
+          },
+          {
+            "thai": "เขาโผล่มาที่งานโดยไม่มีใครรู้ตัว",
+            "en": "He showed up at the event without anyone realizing.",
+            "audio_src": "เขาโผล่มาที่งานโดยไม่มีใครรู้ตัว",
+            "audio_en_src": "He showed up at the event without anyone realizing."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-371",
@@ -39216,7 +39400,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to reserve a place in line, to book a slot",
+        "sentences": [
+          {
+            "thai": "เธอจองคิวตัดผมไว้บ่ายสามโมง",
+            "en": "She booked a haircut slot for 3 PM.",
+            "audio_src": "เธอจองคิวตัดผมไว้บ่ายสามโมง",
+            "audio_en_src": "She booked a haircut slot for 3 PM."
+          },
+          {
+            "thai": "ร้านดังต้องจองคิวล่วงหน้าหลายวัน",
+            "en": "Popular restaurants require booking several days in advance.",
+            "audio_src": "ร้านดังต้องจองคิวล่วงหน้าหลายวัน",
+            "audio_en_src": "Popular restaurants require booking several days in advance."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-376",
@@ -39228,7 +39431,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to slack off, to procrastinate, to skive",
+        "sentences": [
+          {
+            "thai": "เขามัวแต่อู้งานจนทำไม่เสร็จ",
+            "en": "He kept slacking off until he couldn't finish the work.",
+            "audio_src": "เขามัวแต่อู้งานจนทำไม่เสร็จ",
+            "audio_en_src": "He kept slacking off until he couldn't finish the work."
+          },
+          {
+            "thai": "อย่าอู้สิ รีบทำให้เสร็จเถอะ",
+            "en": "Don't slack off, hurry up and finish it.",
+            "audio_src": "อย่าอู้สิ รีบทำให้เสร็จเถอะ",
+            "audio_en_src": "Don't slack off, hurry up and finish it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-377",
@@ -39251,7 +39473,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to carry (by hand, with a handle)",
+        "sentences": [
+          {
+            "thai": "เธอหิ้วถุงของกลับจากตลาด",
+            "en": "She carried bags of stuff back from the market.",
+            "audio_src": "เธอหิ้วถุงของกลับจากตลาด",
+            "audio_en_src": "She carried bags of stuff back from the market."
+          },
+          {
+            "thai": "เขาหิ้วกระเป๋าใบหนักขึ้นรถไฟ",
+            "en": "He carried a heavy bag onto the train.",
+            "audio_src": "เขาหิ้วกระเป๋าใบหนักขึ้นรถไฟ",
+            "audio_en_src": "He carried a heavy bag onto the train."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-379",

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1784 words**
+**Total: 1794 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -758,7 +758,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-343` : ตัวตน (identity, self) : 1 meaning(s), 2 sentences
 - `tamago-l3-344` : แย่ง (to compete for, to fight over; to grab, to seize) : 2 meaning(s), 4 sentences
 - `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ("whatever!", "never mind", "forget about it!") : 1 meaning(s), 2 sentences
+- `tamago-l3-350` : หมกตัว (to shut oneself away (in a room)) : 1 meaning(s), 2 sentences
+- `tamago-l3-354` : อาวุโส (senior, elder) : 1 meaning(s), 2 sentences
+- `tamago-l3-355` : อ้าง (to claim, to assert; to quote, to cite; to give an excuse) : 3 meaning(s), 6 sentences
 - `tamago-l3-356` : สั่ง (to order (someone to do something, food, goods)) : 1 meaning(s), 3 sentences
+- `tamago-l3-359` : ใต้น้ำ - เหนือน้ำ (underwater - above the water) : 2 meaning(s), 4 sentences
+- `tamago-l3-363` : ทำคะแนน (to score points) : 1 meaning(s), 2 sentences
+- `tamago-l3-368` : คิดออก (to figure out, to come up with (an idea)) : 1 meaning(s), 2 sentences
+- `tamago-l3-370` : โผล่ (to appear, to emerge, to pop up) : 1 meaning(s), 2 sentences
+- `tamago-l3-375` : จองคิว (to reserve a place in line, to book a slot) : 1 meaning(s), 2 sentences
+- `tamago-l3-376` : อู้ (to slack off, to procrastinate, to skive) : 1 meaning(s), 2 sentences
+- `tamago-l3-378` : หิ้ว (to carry (by hand, with a handle)) : 1 meaning(s), 2 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences
 - `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
 - `tamago-l3-411` : ...สุดๆไปเลย (insanely, extremely) : 1 meaning(s), 2 sentences
