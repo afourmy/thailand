@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1514 words**
+**Total: 1524 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -276,13 +276,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-032` : กะจะ (to plan to, to intend to) : 1 meaning(s), 2 sentences
 - `tamago-l12-033` : กะทันหัน (suddenly, abruptly) : 1 meaning(s), 2 sentences
 - `tamago-l12-036` : กั้น (to block, separate, divide) : 1 meaning(s), 2 sentences
+- `tamago-l12-038` : กาต้มน้ำ (kettle) : 1 meaning(s), 2 sentences
 - `tamago-l12-043` : กำลังจะ (to be about to) : 1 meaning(s), 2 sentences
+- `tamago-l12-044` : กำไล (bracelet) : 1 meaning(s), 2 sentences
 - `tamago-l12-046` : ก้อน (lump; classifier for chunks (e.g money, ice)) : 2 meaning(s), 4 sentences
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
+- `tamago-l12-052` : ของแต่งบ้าน (house decorations) : 1 meaning(s), 2 sentences
+- `tamago-l12-055` : ขัง (to lock up, imprison, confine) : 1 meaning(s), 2 sentences
+- `tamago-l12-056` : ขั้นต่ำ (minimum) : 1 meaning(s), 2 sentences
+- `tamago-l12-059` : ขี้, อึ (feces, stool (informal and child-speak variants)) : 1 meaning(s), 2 sentences
 - `tamago-l12-068` : ข้าม (to cross, pass over; to skip) : 2 meaning(s), 4 sentences
 - `tamago-l12-070` : ข้าวสวย (cooked rice (steamed)) : 1 meaning(s), 2 sentences
 - `tamago-l12-073` : ข้าวโพด (corn) : 1 meaning(s), 2 sentences
+- `tamago-l12-075` : คนดู (spectator, audience member) : 1 meaning(s), 2 sentences
+- `tamago-l12-079` : คล้ำ (dark, tan (skin); dim) : 2 meaning(s), 4 sentences
+- `tamago-l12-083` : ความเดือดร้อน (trouble, difficulty) : 1 meaning(s), 2 sentences
 - `tamago-l12-085` : คัน (to feel itchy) : 1 meaning(s), 2 sentences
+- `tamago-l12-086` : คับแคบ (uncomfortably narrow, cramped) : 1 meaning(s), 2 sentences
 - `tamago-l12-089` : คิด (to think; to charge (a price)) : 2 meaning(s), 4 sentences
 - `tamago-l12-092` : คืน (to return (something)) : 1 meaning(s), 2 sentences
 - `tamago-l12-094` : คุ้ม (worthwhile, to be worth it) : 1 meaning(s), 2 sentences

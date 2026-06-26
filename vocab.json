@@ -17052,7 +17052,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "kettle",
+        "sentences": [
+          {
+            "thai": "ต้มน้ำในกาต้มน้ำให้เดือดก่อน",
+            "en": "Boil the water in the kettle first.",
+            "audio_src": "ต้มน้ำในกาต้มน้ำให้เดือดก่อน",
+            "audio_en_src": "Boil the water in the kettle first."
+          },
+          {
+            "thai": "กาต้มน้ำไฟฟ้าเครื่องนี้ร้อนเร็วมาก",
+            "en": "This electric kettle heats up really fast.",
+            "audio_src": "กาต้มน้ำไฟฟ้าเครื่องนี้ร้อนเร็วมาก",
+            "audio_en_src": "This electric kettle heats up really fast."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-039",
@@ -17139,7 +17158,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "bracelet",
+        "sentences": [
+          {
+            "thai": "เธอใส่กำไลทองที่ข้อมือ",
+            "en": "She wears a gold bracelet on her wrist.",
+            "audio_src": "เธอใส่กำไลทองที่ข้อมือ",
+            "audio_en_src": "She wears a gold bracelet on her wrist."
+          },
+          {
+            "thai": "เขาซื้อกำไลเป็นของขวัญให้แฟน",
+            "en": "He bought a bracelet as a gift for his girlfriend.",
+            "audio_src": "เขาซื้อกำไลเป็นของขวัญให้แฟน",
+            "audio_en_src": "He bought a bracelet as a gift for his girlfriend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-045",
@@ -17290,7 +17328,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "house decorations",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายของแต่งบ้านน่ารักๆ",
+            "en": "This shop sells cute home decor.",
+            "audio_src": "ร้านนี้ขายของแต่งบ้านน่ารักๆ",
+            "audio_en_src": "This shop sells cute home decor."
+          },
+          {
+            "thai": "เธอชอบสะสมของแต่งบ้านสไตล์วินเทจ",
+            "en": "She likes collecting vintage-style home decorations.",
+            "audio_src": "เธอชอบสะสมของแต่งบ้านสไตล์วินเทจ",
+            "audio_en_src": "She likes collecting vintage-style home decorations."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-053",
@@ -17325,7 +17382,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to lock up, imprison, confine",
+        "sentences": [
+          {
+            "thai": "เขาขังนกไว้ในกรง",
+            "en": "He keeps the bird locked in a cage.",
+            "audio_src": "เขาขังนกไว้ในกรง",
+            "audio_en_src": "He keeps the bird locked in a cage."
+          },
+          {
+            "thai": "นักโทษถูกขังอยู่ในคุกหลายปี",
+            "en": "The prisoner was locked up in jail for years.",
+            "audio_src": "นักโทษถูกขังอยู่ในคุกหลายปี",
+            "audio_en_src": "The prisoner was locked up in jail for years."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-056",
@@ -17337,7 +17413,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "minimum",
+        "sentences": [
+          {
+            "thai": "ร้านนี้สั่งขั้นต่ำร้อยบาท",
+            "en": "This shop has a minimum order of a hundred baht.",
+            "audio_src": "ร้านนี้สั่งขั้นต่ำร้อยบาท",
+            "audio_en_src": "This shop has a minimum order of a hundred baht."
+          },
+          {
+            "thai": "เงินเดือนขั้นต่ำเพิ่งปรับขึ้น",
+            "en": "The minimum wage was just raised.",
+            "audio_src": "เงินเดือนขั้นต่ำเพิ่งปรับขึ้น",
+            "audio_en_src": "The minimum wage was just raised."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-057",
@@ -17369,7 +17464,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "feces, stool (informal and child-speak variants)",
+        "sentences": [
+          {
+            "thai": "หมาขี้หน้าบ้านอีกแล้ว",
+            "en": "The dog pooped in front of the house again.",
+            "audio_src": "หมาขี้หน้าบ้านอีกแล้ว",
+            "audio_en_src": "The dog pooped in front of the house again."
+          },
+          {
+            "thai": "ลูกอึแล้ว ต้องเปลี่ยนผ้าอ้อม",
+            "en": "The baby pooped, time to change the diaper.",
+            "audio_src": "ลูกอึแล้ว ต้องเปลี่ยนผ้าอ้อม",
+            "audio_en_src": "The baby pooped, time to change the diaper."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-060",
@@ -17609,7 +17723,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "spectator, audience member",
+        "sentences": [
+          {
+            "thai": "คนดูเต็มสนามตั้งแต่ก่อนเริ่มแข่ง",
+            "en": "The stadium was full of spectators even before the match started.",
+            "audio_src": "คนดูเต็มสนามตั้งแต่ก่อนเริ่มแข่ง",
+            "audio_en_src": "The stadium was full of spectators even before the match started."
+          },
+          {
+            "thai": "นักแสดงโบกมือทักทายคนดู",
+            "en": "The actors waved to greet the audience.",
+            "audio_src": "นักแสดงโบกมือทักทายคนดู",
+            "audio_en_src": "The actors waved to greet the audience."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-076",
@@ -17655,7 +17788,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "dark, tan (skin)",
+        "sentences": [
+          {
+            "thai": "เล่นแดดทั้งวันจนผิวคล้ำ",
+            "en": "I played in the sun all day until my skin got tan.",
+            "audio_src": "เล่นแดดทั้งวันจนผิวคล้ำ",
+            "audio_en_src": "I played in the sun all day until my skin got tan."
+          },
+          {
+            "thai": "หน้าเขาคล้ำขึ้นเพราะตากแดดบ่อย",
+            "en": "His face got darker from being in the sun a lot.",
+            "audio_src": "หน้าเขาคล้ำขึ้นเพราะตากแดดบ่อย",
+            "audio_en_src": "His face got darker from being in the sun a lot."
+          }
+        ]
+      },
+      {
+        "meaning": "dim",
+        "sentences": [
+          {
+            "thai": "ท้องฟ้าเริ่มคล้ำ เดี๋ยวฝนคงตก",
+            "en": "The sky is darkening, it'll probably rain soon.",
+            "audio_src": "ท้องฟ้าเริ่มคล้ำ เดี๋ยวฝนคงตก",
+            "audio_en_src": "The sky is darkening, it'll probably rain soon."
+          },
+          {
+            "thai": "มุมนี้มืดคล้ำ มองอะไรไม่ค่อยเห็น",
+            "en": "This corner is dim and gloomy, hard to see anything.",
+            "audio_src": "มุมนี้มืดคล้ำ มองอะไรไม่ค่อยเห็น",
+            "audio_en_src": "This corner is dim and gloomy, hard to see anything."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-080",
@@ -17687,7 +17856,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "trouble, difficulty",
+        "sentences": [
+          {
+            "thai": "การกระทำของเขาสร้างความเดือดร้อนให้คนอื่น",
+            "en": "His actions cause trouble for others.",
+            "audio_src": "การกระทำของเขาสร้างความเดือดร้อนให้คนอื่น",
+            "audio_en_src": "His actions cause trouble for others."
+          },
+          {
+            "thai": "ชาวบ้านได้รับความเดือดร้อนจากน้ำท่วม",
+            "en": "The villagers suffered hardship from the flood.",
+            "audio_src": "ชาวบ้านได้รับความเดือดร้อนจากน้ำท่วม",
+            "audio_en_src": "The villagers suffered hardship from the flood."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-084",
@@ -17745,7 +17933,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "uncomfortably narrow, cramped",
+        "sentences": [
+          {
+            "thai": "ห้องเช่าคับแคบ อยู่กันสามคนอึดอัดมาก",
+            "en": "The rented room is cramped, three people living there is really stuffy.",
+            "audio_src": "ห้องเช่าคับแคบ อยู่กันสามคนอึดอัดมาก",
+            "audio_en_src": "The rented room is cramped, three people living there is really stuffy."
+          },
+          {
+            "thai": "ทางเดินในตลาดคับแคบจนเดินสวนกันยาก",
+            "en": "The walkway in the market is so narrow it's hard to pass each other.",
+            "audio_src": "ทางเดินในตลาดคับแคบจนเดินสวนกันยาก",
+            "audio_en_src": "The walkway in the market is so narrow it's hard to pass each other."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-087",
