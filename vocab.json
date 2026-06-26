@@ -9977,7 +9977,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stranger",
+        "sentences": [
+          {
+            "thai": "แม่สอนลูกไม่ให้ไปกับคนแปลกหน้า",
+            "en": "Mom teaches her kids not to go with strangers.",
+            "audio_src": "แม่สอนลูกไม่ให้ไปกับคนแปลกหน้า",
+            "audio_en_src": "Mom teaches her kids not to go with strangers."
+          },
+          {
+            "thai": "มีคนแปลกหน้ามายืนหน้าบ้าน",
+            "en": "A stranger came and stood in front of the house.",
+            "audio_src": "มีคนแปลกหน้ามายืนหน้าบ้าน",
+            "audio_en_src": "A stranger came and stood in front of the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-451",
@@ -10013,7 +10032,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "ministry",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้อยู่ในความดูแลของกระทรวงสาธารณสุข",
+            "en": "This matter is under the Ministry of Public Health.",
+            "audio_src": "เรื่องนี้อยู่ในความดูแลของกระทรวงสาธารณสุข",
+            "audio_en_src": "This matter is under the Ministry of Public Health."
+          },
+          {
+            "thai": "เขาทำงานที่กระทรวงการต่างประเทศ",
+            "en": "He works at the Ministry of Foreign Affairs.",
+            "audio_src": "เขาทำงานที่กระทรวงการต่างประเทศ",
+            "audio_en_src": "He works at the Ministry of Foreign Affairs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-454",
@@ -10049,7 +10087,60 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to chase, pursue",
+        "sentences": [
+          {
+            "thai": "หมาวิ่งไล่แมวรอบสนาม",
+            "en": "The dog chased the cat around the yard.",
+            "audio_src": "หมาวิ่งไล่แมวรอบสนาม",
+            "audio_en_src": "The dog chased the cat around the yard."
+          },
+          {
+            "thai": "ตำรวจไล่ตามคนร้าย",
+            "en": "The police pursued the criminal.",
+            "audio_src": "ตำรวจไล่ตามคนร้าย",
+            "audio_en_src": "The police pursued the criminal."
+          }
+        ]
+      },
+      {
+        "meaning": "to expel",
+        "sentences": [
+          {
+            "thai": "เขาถูกไล่ออกจากงานเพราะมาสาย",
+            "en": "He got fired for being late.",
+            "audio_src": "เขาถูกไล่ออกจากงานเพราะมาสาย",
+            "audio_en_src": "He got fired for being late."
+          },
+          {
+            "thai": "ครูไล่นักเรียนซนออกจากห้อง",
+            "en": "The teacher sent the naughty student out of the room.",
+            "audio_src": "ครูไล่นักเรียนซนออกจากห้อง",
+            "audio_en_src": "The teacher sent the naughty student out of the room."
+          }
+        ]
+      },
+      {
+        "meaning": "to follow in sequence, go through one by one",
+        "sentences": [
+          {
+            "thai": "ครูให้นักเรียนไล่อ่านทีละคน",
+            "en": "The teacher had the students read one by one.",
+            "audio_src": "ครูให้นักเรียนไล่อ่านทีละคน",
+            "audio_en_src": "The teacher had the students read one by one."
+          },
+          {
+            "thai": "เขาไล่ดูรายชื่อตามลำดับ",
+            "en": "He went through the name list in order.",
+            "audio_src": "เขาไล่ดูรายชื่อตามลำดับ",
+            "audio_en_src": "He went through the name list in order."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-457",
@@ -10097,7 +10188,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "malfunctioning, to break down",
+        "sentences": [
+          {
+            "thai": "ระบบอินเทอร์เน็ตขัดข้องตั้งแต่เช้า",
+            "en": "The internet system has been down since morning.",
+            "audio_src": "ระบบอินเทอร์เน็ตขัดข้องตั้งแต่เช้า",
+            "audio_en_src": "The internet system has been down since morning."
+          },
+          {
+            "thai": "เครื่องเอทีเอ็มขัดข้องกดเงินไม่ได้",
+            "en": "The ATM is out of order, I can't withdraw money.",
+            "audio_src": "เครื่องเอทีเอ็มขัดข้องกดเงินไม่ได้",
+            "audio_en_src": "The ATM is out of order, I can't withdraw money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-001",
@@ -10110,7 +10220,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to arrange, compose, organize",
+        "sentences": [
+          {
+            "thai": "เขาเรียบเรียงเนื้อหาก่อนนำเสนอ",
+            "en": "He organized the content before presenting.",
+            "audio_src": "เขาเรียบเรียงเนื้อหาก่อนนำเสนอ",
+            "audio_en_src": "He organized the content before presenting."
+          },
+          {
+            "thai": "นักเขียนเรียบเรียงเรื่องราวได้น่าสนใจ",
+            "en": "The writer arranged the story in an interesting way.",
+            "audio_src": "นักเขียนเรียบเรียงเรื่องราวได้น่าสนใจ",
+            "audio_en_src": "The writer arranged the story in an interesting way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-002",
@@ -10152,7 +10281,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "respect, esteem",
+        "sentences": [
+          {
+            "thai": "เขาได้รับความนับถือจากเพื่อนร่วมงาน",
+            "en": "He's respected by his colleagues.",
+            "audio_src": "เขาได้รับความนับถือจากเพื่อนร่วมงาน",
+            "audio_en_src": "He's respected by his colleagues."
+          },
+          {
+            "thai": "ผมพูดด้วยความนับถือจริงๆ",
+            "en": "I say this with genuine respect.",
+            "audio_src": "ผมพูดด้วยความนับถือจริงๆ",
+            "audio_en_src": "I say this with genuine respect."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-006",
@@ -10190,7 +10338,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "thorough, complete",
+        "sentences": [
+          {
+            "thai": "เอกสารของคุณครบถ้วนแล้ว",
+            "en": "Your documents are complete.",
+            "audio_src": "เอกสารของคุณครบถ้วนแล้ว",
+            "audio_en_src": "Your documents are complete."
+          },
+          {
+            "thai": "วันนี้สมาชิกมากันครบทุกคน",
+            "en": "Today all the members showed up.",
+            "audio_src": "วันนี้สมาชิกมากันครบทุกคน",
+            "audio_en_src": "Today all the members showed up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-009",
@@ -10269,7 +10436,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "volunteer",
+        "sentences": [
+          {
+            "thai": "เขาเป็นอาสาสมัครช่วยน้ำท่วม",
+            "en": "He's a volunteer helping with the flooding.",
+            "audio_src": "เขาเป็นอาสาสมัครช่วยน้ำท่วม",
+            "audio_en_src": "He's a volunteer helping with the flooding."
+          },
+          {
+            "thai": "โรงพยาบาลรับอาสาสมัครเพิ่ม",
+            "en": "The hospital is taking on more volunteers.",
+            "audio_src": "โรงพยาบาลรับอาสาสมัครเพิ่ม",
+            "audio_en_src": "The hospital is taking on more volunteers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-014",
@@ -10318,7 +10504,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "zero",
+        "sentences": [
+          {
+            "thai": "อุณหภูมิวันนี้ต่ำกว่าศูนย์องศา",
+            "en": "Today's temperature is below zero degrees.",
+            "audio_src": "อุณหภูมิวันนี้ต่ำกว่าศูนย์องศา",
+            "audio_en_src": "Today's temperature is below zero degrees."
+          },
+          {
+            "thai": "เบอร์โทรขึ้นต้นด้วยเลขศูนย์",
+            "en": "The phone number starts with a zero.",
+            "audio_src": "เบอร์โทรขึ้นต้นด้วยเลขศูนย์",
+            "audio_en_src": "The phone number starts with a zero."
+          }
+        ]
+      },
+      {
+        "meaning": "center (institution), hub",
+        "sentences": [
+          {
+            "thai": "เรานัดเจอกันที่ศูนย์การค้า",
+            "en": "We're meeting at the shopping center.",
+            "audio_src": "เรานัดเจอกันที่ศูนย์การค้า",
+            "audio_en_src": "We're meeting at the shopping center."
+          },
+          {
+            "thai": "พาเครื่องไปซ่อมที่ศูนย์บริการ",
+            "en": "Take the device to the service center for repair.",
+            "audio_src": "พาเครื่องไปซ่อมที่ศูนย์บริการ",
+            "audio_en_src": "Take the device to the service center for repair."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-018",
@@ -10380,7 +10602,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "border, border region (near a frontier)",
+        "sentences": [
+          {
+            "thai": "ทหารเฝ้าอยู่ตามแนวชายแดน",
+            "en": "Soldiers guard along the border.",
+            "audio_src": "ทหารเฝ้าอยู่ตามแนวชายแดน",
+            "audio_en_src": "Soldiers guard along the border."
+          },
+          {
+            "thai": "เมืองนี้อยู่ติดชายแดนพม่า",
+            "en": "This town is right on the Myanmar border.",
+            "audio_src": "เมืองนี้อยู่ติดชายแดนพม่า",
+            "audio_en_src": "This town is right on the Myanmar border."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-021",

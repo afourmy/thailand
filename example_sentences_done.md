@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1414 words**
+**Total: 1424 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -152,9 +152,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-437` : หงาย (to turn face-up, to lie on one's back, on its back, face-up) : 1 meaning(s), 2 sentences
 - `chula-l5-444` : รับมือ (to cope, to handle, to deal with) : 1 meaning(s), 2 sentences
 - `chula-l5-447` : ค่าย (camp) : 1 meaning(s), 2 sentences
+- `chula-l5-450` : คนแปลกหน้า (stranger) : 1 meaning(s), 2 sentences
+- `chula-l5-453` : กระทรวง (ministry) : 1 meaning(s), 2 sentences
+- `chula-l5-456` : ไล่ (to chase, pursue; to expel; to follow in sequence, go through one by one) : 3 meaning(s), 6 sentences
 - `chula-l5-457` : ย้ำ (to repeat, to emphasize, to reiterate) : 1 meaning(s), 2 sentences
+- `chula-l5-458` : ขัดข้อง (malfunctioning, to break down) : 1 meaning(s), 2 sentences
+- `chula-l6-001` : เรียบเรียง (to arrange, compose, organize) : 1 meaning(s), 2 sentences
+- `chula-l6-005` : ความนับถือ (respect, esteem) : 1 meaning(s), 2 sentences
+- `chula-l6-008` : ครบ, ครบถ้วน (thorough, complete) : 1 meaning(s), 2 sentences
 - `chula-l6-009` : รูปแบบ (format, form, pattern, model) : 1 meaning(s), 2 sentences
+- `chula-l6-013` : อาสาสมัคร (volunteer) : 1 meaning(s), 2 sentences
+- `chula-l6-017` : ศูนย์ (zero; center (institution), hub) : 2 meaning(s), 4 sentences
 - `chula-l6-018` : กรอก (to fill in (a form)) : 1 meaning(s), 2 sentences
+- `chula-l6-020` : ชายแดน (border, border region (near a frontier)) : 1 meaning(s), 2 sentences
 - `chula-l6-021` : ฝ่าย (team, group, side) : 1 meaning(s), 2 sentences
 - `chula-l6-042` : สวน (park, garden; against, in the opposite direction) : 2 meaning(s), 4 sentences
 - `chula-l6-073` : โฆษณา (to advertise) : 1 meaning(s), 2 sentences
