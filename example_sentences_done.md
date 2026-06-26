@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1304 words**
+**Total: 1314 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -33,8 +33,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-125` : งานประจำ (regular job, steady job) : 1 meaning(s), 2 sentences
 - `chula-l4-136` : เน่าเสีย (rotten, spoiled) : 1 meaning(s), 2 sentences
 - `chula-l4-137` : เร่งด่วน (urgent, priority) : 1 meaning(s), 2 sentences
+- `chula-l4-139` : สาเหตุ (cause, motive) : 1 meaning(s), 2 sentences
+- `chula-l4-145` : กริยา (verb) : 1 meaning(s), 2 sentences
+- `chula-l4-146` : ข้อดี (advantage) : 1 meaning(s), 2 sentences
+- `chula-l4-147` : ข้อเสีย (disadvantage) : 1 meaning(s), 2 sentences
 - `chula-l4-148` : เจ็บ (to hurt, to be sore (e.g external pain, injury)) : 1 meaning(s), 2 sentences
 - `chula-l4-149` : ปวด (to ache (e.g internal pain)) : 1 meaning(s), 2 sentences
+- `chula-l5-004` : เวลาทำการ (business hours) : 1 meaning(s), 2 sentences
+- `chula-l5-007` : น้ำประปา (tap water) : 1 meaning(s), 2 sentences
+- `chula-l5-008` : ช่องทาง (channel, pathway) : 1 meaning(s), 2 sentences
+- `chula-l5-015` : ความร่วมมือ (cooperation) : 1 meaning(s), 2 sentences
+- `chula-l5-016` : ยาม (security guard; period of time) : 2 meaning(s), 4 sentences
+- `chula-l5-018` : ส่วนกลาง (common area, central part) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences
 - `chula-l5-026` : ห้าม, ห้ามไม่ให้ (to forbid, to prohibit) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences

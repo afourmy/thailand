@@ -2178,7 +2178,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cause, motive",
+        "sentences": [
+          {
+            "thai": "ตำรวจกำลังหาสาเหตุของไฟไหม้",
+            "en": "The police are looking into the cause of the fire.",
+            "audio_src": "ตำรวจกำลังหาสาเหตุของไฟไหม้",
+            "audio_en_src": "The police are looking into the cause of the fire."
+          },
+          {
+            "thai": "อะไรคือสาเหตุที่คุณลาออก",
+            "en": "What's the reason you quit?",
+            "audio_src": "อะไรคือสาเหตุที่คุณลาออก",
+            "audio_en_src": "What's the reason you quit?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-140",
@@ -2245,7 +2264,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "verb",
+        "sentences": [
+          {
+            "thai": "คำว่าวิ่งเป็นคำกริยา",
+            "en": "The word 'run' is a verb.",
+            "audio_src": "คำว่าวิ่งเป็นคำกริยา",
+            "audio_en_src": "The word 'run' is a verb."
+          },
+          {
+            "thai": "ในประโยคต้องมีคำกริยาเสมอ",
+            "en": "A sentence must always have a verb.",
+            "audio_src": "ในประโยคต้องมีคำกริยาเสมอ",
+            "audio_en_src": "A sentence must always have a verb."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-146",
@@ -2258,7 +2296,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "advantage",
+        "sentences": [
+          {
+            "thai": "การออกกำลังกายมีข้อดีหลายอย่าง",
+            "en": "Exercising has many advantages.",
+            "audio_src": "การออกกำลังกายมีข้อดีหลายอย่าง",
+            "audio_en_src": "Exercising has many advantages."
+          },
+          {
+            "thai": "ข้อดีของบ้านนี้คืออยู่ใกล้รถไฟฟ้า",
+            "en": "The advantage of this house is that it's near the train.",
+            "audio_src": "ข้อดีของบ้านนี้คืออยู่ใกล้รถไฟฟ้า",
+            "audio_en_src": "The advantage of this house is that it's near the train."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-147",
@@ -2271,7 +2328,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "disadvantage",
+        "sentences": [
+          {
+            "thai": "ทุกอย่างมีทั้งข้อดีและข้อเสีย",
+            "en": "Everything has both advantages and disadvantages.",
+            "audio_src": "ทุกอย่างมีทั้งข้อดีและข้อเสีย",
+            "audio_en_src": "Everything has both advantages and disadvantages."
+          },
+          {
+            "thai": "ข้อเสียของงานนี้คือต้องทำดึก",
+            "en": "The downside of this job is having to work late.",
+            "audio_src": "ข้อเสียของงานนี้คือต้องทำดึก",
+            "audio_en_src": "The downside of this job is having to work late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l4-148",
@@ -2455,7 +2531,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "business hours",
+        "sentences": [
+          {
+            "thai": "ธนาคารปิดนอกเวลาทำการ",
+            "en": "The bank is closed outside business hours.",
+            "audio_src": "ธนาคารปิดนอกเวลาทำการ",
+            "audio_en_src": "The bank is closed outside business hours."
+          },
+          {
+            "thai": "เวลาทำการคือเก้าโมงถึงห้าโมงเย็น",
+            "en": "Business hours are nine to five.",
+            "audio_src": "เวลาทำการคือเก้าโมงถึงห้าโมงเย็น",
+            "audio_en_src": "Business hours are nine to five."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-005",
@@ -2493,7 +2588,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "tap water",
+        "sentences": [
+          {
+            "thai": "ที่นี่ดื่มน้ำประปาได้ไหม",
+            "en": "Can you drink the tap water here?",
+            "audio_src": "ที่นี่ดื่มน้ำประปาได้ไหม",
+            "audio_en_src": "Can you drink the tap water here?"
+          },
+          {
+            "thai": "วันนี้น้ำประปาไม่ไหล",
+            "en": "There's no running water today.",
+            "audio_src": "วันนี้น้ำประปาไม่ไหล",
+            "audio_en_src": "There's no running water today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-008",
@@ -2507,7 +2621,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "channel, pathway",
+        "sentences": [
+          {
+            "thai": "ติดต่อเราได้หลายช่องทาง",
+            "en": "You can contact us through several channels.",
+            "audio_src": "ติดต่อเราได้หลายช่องทาง",
+            "audio_en_src": "You can contact us through several channels."
+          },
+          {
+            "thai": "ขายของออนไลน์เป็นช่องทางทำเงินที่ดี",
+            "en": "Selling online is a good way to make money.",
+            "audio_src": "ขายของออนไลน์เป็นช่องทางทำเงินที่ดี",
+            "audio_en_src": "Selling online is a good way to make money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-009",
@@ -2572,7 +2705,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cooperation",
+        "sentences": [
+          {
+            "thai": "ขอความร่วมมือทุกคนเงียบหน่อย",
+            "en": "We'd appreciate everyone's cooperation in keeping quiet.",
+            "audio_src": "ขอความร่วมมือทุกคนเงียบหน่อย",
+            "audio_en_src": "We'd appreciate everyone's cooperation in keeping quiet."
+          },
+          {
+            "thai": "งานสำเร็จได้เพราะความร่วมมือของทุกคน",
+            "en": "The project succeeded thanks to everyone's cooperation.",
+            "audio_src": "งานสำเร็จได้เพราะความร่วมมือของทุกคน",
+            "audio_en_src": "The project succeeded thanks to everyone's cooperation."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-016",
@@ -2587,7 +2739,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "security guard",
+        "sentences": [
+          {
+            "thai": "ยามเฝ้าอยู่หน้าตึก",
+            "en": "The guard is standing watch at the front of the building.",
+            "audio_src": "ยามเฝ้าอยู่หน้าตึก",
+            "audio_en_src": "The guard is standing watch at the front of the building."
+          },
+          {
+            "thai": "ฝากกุญแจไว้กับยาม",
+            "en": "Leave the key with the guard.",
+            "audio_src": "ฝากกุญแจไว้กับยาม",
+            "audio_en_src": "Leave the key with the guard."
+          }
+        ]
+      },
+      {
+        "meaning": "period of time",
+        "sentences": [
+          {
+            "thai": "ยามเช้าอากาศเย็นสบาย",
+            "en": "The morning air is cool and pleasant.",
+            "audio_src": "ยามเช้าอากาศเย็นสบาย",
+            "audio_en_src": "The morning air is cool and pleasant."
+          },
+          {
+            "thai": "เขาชอบอ่านหนังสือยามว่าง",
+            "en": "He likes reading in his free time.",
+            "audio_src": "เขาชอบอ่านหนังสือยามว่าง",
+            "audio_en_src": "He likes reading in his free time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-017",
@@ -2610,7 +2798,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "common area, central part",
+        "sentences": [
+          {
+            "thai": "คอนโดนี้เก็บค่าส่วนกลางทุกเดือน",
+            "en": "This condo charges a common-area fee every month.",
+            "audio_src": "คอนโดนี้เก็บค่าส่วนกลางทุกเดือน",
+            "audio_en_src": "This condo charges a common-area fee every month."
+          },
+          {
+            "thai": "สระว่ายน้ำเป็นพื้นที่ส่วนกลาง",
+            "en": "The swimming pool is a common area.",
+            "audio_src": "สระว่ายน้ำเป็นพื้นที่ส่วนกลาง",
+            "audio_en_src": "The swimming pool is a common area."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-019",
