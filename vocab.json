@@ -27348,7 +27348,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hike in the mountains",
+        "sentences": [
+          {
+            "thai": "วันหยุดนี้เราจะไปเดินเขากัน",
+            "en": "This holiday we're going hiking in the mountains.",
+            "audio_src": "วันหยุดนี้เราจะไปเดินเขากัน",
+            "audio_en_src": "This holiday we're going hiking in the mountains."
+          },
+          {
+            "thai": "เดินเขาทั้งวันเหนื่อยแต่คุ้ม",
+            "en": "Hiking all day is tiring but worth it.",
+            "audio_src": "เดินเขาทั้งวันเหนื่อยแต่คุ้ม",
+            "audio_en_src": "Hiking all day is tiring but worth it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-514",
@@ -27436,7 +27455,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to stand out, prominent",
+        "sentences": [
+          {
+            "thai": "เธอแต่งตัวสีแดงเด่นกว่าใครในงาน",
+            "en": "She wore red and stood out more than anyone at the party.",
+            "audio_src": "เธอแต่งตัวสีแดงเด่นกว่าใครในงาน",
+            "audio_en_src": "She wore red and stood out more than anyone at the party."
+          },
+          {
+            "thai": "ป้ายร้านสีสันสดใส มองเห็นเด่นแต่ไกล",
+            "en": "The shop's colorful sign stands out from far away.",
+            "audio_src": "ป้ายร้านสีสันสดใส มองเห็นเด่นแต่ไกล",
+            "audio_en_src": "The shop's colorful sign stands out from far away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-518",
@@ -27448,7 +27486,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to play soccer",
+        "sentences": [
+          {
+            "thai": "เด็กผู้ชายชอบเตะบอลหลังเลิกเรียน",
+            "en": "Boys like to play soccer after school.",
+            "audio_src": "เด็กผู้ชายชอบเตะบอลหลังเลิกเรียน",
+            "audio_en_src": "Boys like to play soccer after school."
+          },
+          {
+            "thai": "เขาเตะบอลเก่งจนติดทีมโรงเรียน",
+            "en": "He plays soccer so well he made the school team.",
+            "audio_src": "เขาเตะบอลเก่งจนติดทีมโรงเรียน",
+            "audio_en_src": "He plays soccer so well he made the school team."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-519",
@@ -27526,7 +27583,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to go out at night (bars, clubs)",
+        "sentences": [
+          {
+            "thai": "เพื่อนชวนไปเที่ยวกลางคืนที่ผับ",
+            "en": "My friends invited me out to a club at night.",
+            "audio_src": "เพื่อนชวนไปเที่ยวกลางคืนที่ผับ",
+            "audio_en_src": "My friends invited me out to a club at night."
+          },
+          {
+            "thai": "เขาชอบเที่ยวกลางคืนจนนอนดึกทุกวัน",
+            "en": "He likes going out at night so much he sleeps late every day.",
+            "audio_src": "เขาชอบเที่ยวกลางคืนจนนอนดึกทุกวัน",
+            "audio_en_src": "He likes going out at night so much he sleeps late every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-524",
@@ -27539,7 +27615,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "twofold, twice as much",
+        "sentences": [
+          {
+            "thai": "ปีนี้ยอดขายโตขึ้นเท่าตัว",
+            "en": "This year sales doubled.",
+            "audio_src": "ปีนี้ยอดขายโตขึ้นเท่าตัว",
+            "audio_en_src": "This year sales doubled."
+          },
+          {
+            "thai": "ราคาน้ำมันแพงขึ้นเกือบเท่าตัว",
+            "en": "The price of oil rose almost twofold.",
+            "audio_src": "ราคาน้ำมันแพงขึ้นเกือบเท่าตัว",
+            "audio_en_src": "The price of oil rose almost twofold."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-525",
@@ -27586,7 +27681,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "the same as before, unchanged",
+        "sentences": [
+          {
+            "thai": "ผ่านมาหลายปี เขายังหน้าตาเท่าเดิม",
+            "en": "Many years have passed, but he still looks the same.",
+            "audio_src": "ผ่านมาหลายปี เขายังหน้าตาเท่าเดิม",
+            "audio_en_src": "Many years have passed, but he still looks the same."
+          },
+          {
+            "thai": "ราคาขึ้นแต่ปริมาณเท่าเดิม",
+            "en": "The price went up but the quantity stayed the same.",
+            "audio_src": "ราคาขึ้นแต่ปริมาณเท่าเดิม",
+            "audio_en_src": "The price went up but the quantity stayed the same."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-528",
@@ -27680,7 +27794,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to squeeze, press, jostle",
+        "sentences": [
+          {
+            "thai": "คนเบียดกันแน่นบนรถไฟฟ้าตอนเช้า",
+            "en": "People are packed tightly on the train in the morning.",
+            "audio_src": "คนเบียดกันแน่นบนรถไฟฟ้าตอนเช้า",
+            "audio_en_src": "People are packed tightly on the train in the morning."
+          },
+          {
+            "thai": "เธอเบียดเข้าไปนั่งระหว่างเพื่อนสองคน",
+            "en": "She squeezed in to sit between two friends.",
+            "audio_src": "เธอเบียดเข้าไปนั่งระหว่างเพื่อนสองคน",
+            "audio_en_src": "She squeezed in to sit between two friends."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-532",
@@ -27781,7 +27914,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to use more than necessary, to waste",
+        "sentences": [
+          {
+            "thai": "เปิดแอร์ทั้งวันเปลืองไฟมาก",
+            "en": "Leaving the AC on all day wastes a lot of electricity.",
+            "audio_src": "เปิดแอร์ทั้งวันเปลืองไฟมาก",
+            "audio_en_src": "Leaving the AC on all day wastes a lot of electricity."
+          },
+          {
+            "thai": "ซื้อของที่ไม่จำเป็นเปลืองเงินเปล่าๆ",
+            "en": "Buying unnecessary things just wastes money.",
+            "audio_src": "ซื้อของที่ไม่จำเป็นเปลืองเงินเปล่าๆ",
+            "audio_en_src": "Buying unnecessary things just wastes money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-538",
@@ -27892,7 +28044,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to burn (calories, energy, money)",
+        "sentences": [
+          {
+            "thai": "วิ่งตอนเช้าช่วยเผาผลาญแคลอรี่",
+            "en": "Running in the morning helps burn calories.",
+            "audio_src": "วิ่งตอนเช้าช่วยเผาผลาญแคลอรี่",
+            "audio_en_src": "Running in the morning helps burn calories."
+          },
+          {
+            "thai": "เขาเผาผลาญเงินเก็บไปกับการพนัน",
+            "en": "He burned through his savings on gambling.",
+            "audio_src": "เขาเผาผลาญเงินเก็บไปกับการพนัน",
+            "audio_en_src": "He burned through his savings on gambling."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-546",
@@ -27906,7 +28077,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to guard, to watch over",
+        "sentences": [
+          {
+            "thai": "หมาเฝ้าบ้านเก่งมาก",
+            "en": "The dog guards the house very well.",
+            "audio_src": "หมาเฝ้าบ้านเก่งมาก",
+            "audio_en_src": "The dog guards the house very well."
+          },
+          {
+            "thai": "พยาบาลเฝ้าคนไข้ตลอดทั้งคืน",
+            "en": "The nurse watched over the patient all night.",
+            "audio_src": "พยาบาลเฝ้าคนไข้ตลอดทั้งคืน",
+            "audio_en_src": "The nurse watched over the patient all night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-547",

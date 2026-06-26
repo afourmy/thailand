@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1624 words**
+**Total: 1634 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -502,13 +502,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-508` : เจ๊ง (to break (down), to fail, to go bankrupt (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-509` : เฉยๆ (merely, just, nothing special; indifferent) : 2 meaning(s), 4 sentences
 - `tamago-l12-512` : เดินดูของ (to window-shop) : 1 meaning(s), 2 sentences
+- `tamago-l12-513` : เดินเขา (to hike in the mountains) : 1 meaning(s), 2 sentences
 - `tamago-l12-515` : เดี๋ยวนี้ (nowadays, these days; right now, immediately) : 2 meaning(s), 4 sentences
+- `tamago-l12-517` : เด่น (to stand out, prominent) : 1 meaning(s), 2 sentences
+- `tamago-l12-518` : เตะบอล (to play soccer) : 1 meaning(s), 2 sentences
 - `tamago-l12-520` : เทขยะ (to take out the trash) : 1 meaning(s), 2 sentences
+- `tamago-l12-523` : เที่ยวกลางคืน (to go out at night (bars, clubs)) : 1 meaning(s), 2 sentences
+- `tamago-l12-524` : เท่าตัว (twofold, twice as much) : 1 meaning(s), 2 sentences
 - `tamago-l12-525` : เท่านี้ (only this, just this much) : 1 meaning(s), 2 sentences
+- `tamago-l12-526` : เท่าเดิม (the same as before, unchanged) : 1 meaning(s), 2 sentences
 - `tamago-l12-528` : เนื้อ (meat; content; flesh) : 3 meaning(s), 6 sentences
+- `tamago-l12-531` : เบียด (to squeeze, press, jostle) : 1 meaning(s), 2 sentences
 - `tamago-l12-532` : เปลี่ยนชุด (to change clothes) : 1 meaning(s), 2 sentences
 - `tamago-l12-535` : เปลี่ยนใจ (to change one's mind, to reconsider) : 1 meaning(s), 2 sentences
+- `tamago-l12-536` : เปลือง (to use more than necessary, to waste) : 1 meaning(s), 2 sentences
 - `tamago-l12-539` : เป็ด (duck) : 1 meaning(s), 2 sentences
+- `tamago-l12-545` : เผาผลาญ (to burn (calories, energy, money)) : 1 meaning(s), 2 sentences
+- `tamago-l12-546` : เฝ้า (to guard, to watch over) : 1 meaning(s), 2 sentences
 - `tamago-l12-547` : เพราะ (because; beautiful (for sounds e.g music, voice)) : 2 meaning(s), 4 sentences
 - `tamago-l12-551` : เมื่อกี้, เมื่อกี้นี้, เมื่อตะกี้นี้ (just now, a moment ago) : 1 meaning(s), 2 sentences
 - `tamago-l12-552` : เมื่อย (sore, achy (from physical fatigue)) : 1 meaning(s), 2 sentences
