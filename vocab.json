@@ -29070,7 +29070,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to soak, to immerse",
+        "sentences": [
+          {
+            "thai": "แช่ถั่วในน้ำข้ามคืนก่อนต้ม",
+            "en": "Soak the beans in water overnight before boiling.",
+            "audio_src": "แช่ถั่วในน้ำข้ามคืนก่อนต้ม",
+            "audio_en_src": "Soak the beans in water overnight before boiling."
+          },
+          {
+            "thai": "เธอแช่เท้าในน้ำอุ่นแก้เมื่อย",
+            "en": "She soaks her feet in warm water to ease the soreness.",
+            "audio_src": "เธอแช่เท้าในน้ำอุ่นแก้เมื่อย",
+            "audio_en_src": "She soaks her feet in warm water to ease the soreness."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-590",
@@ -29136,7 +29155,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "form (document)",
+        "sentences": [
+          {
+            "thai": "กรอกแบบฟอร์มให้ครบทุกช่อง",
+            "en": "Fill in every field of the form.",
+            "audio_src": "กรอกแบบฟอร์มให้ครบทุกช่อง",
+            "audio_en_src": "Fill in every field of the form."
+          },
+          {
+            "thai": "ดาวน์โหลดแบบฟอร์มได้จากเว็บไซต์",
+            "en": "You can download the form from the website.",
+            "audio_src": "ดาวน์โหลดแบบฟอร์มได้จากเว็บไซต์",
+            "audio_en_src": "You can download the form from the website."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-594",
@@ -29249,7 +29287,60 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stall, booth",
+        "sentences": [
+          {
+            "thai": "แม่ค้าตั้งแผงขายผลไม้หน้าตลาด",
+            "en": "The vendor set up a fruit stall in front of the market.",
+            "audio_src": "แม่ค้าตั้งแผงขายผลไม้หน้าตลาด",
+            "audio_en_src": "The vendor set up a fruit stall in front of the market."
+          },
+          {
+            "thai": "แผงหนังสือพิมพ์อยู่ตรงหัวมุมถนน",
+            "en": "The newspaper stand is at the street corner.",
+            "audio_src": "แผงหนังสือพิมพ์อยู่ตรงหัวมุมถนน",
+            "audio_en_src": "The newspaper stand is at the street corner."
+          }
+        ]
+      },
+      {
+        "meaning": "blister pack (e.g pills)",
+        "sentences": [
+          {
+            "thai": "ยาแก้ปวดเหลือแค่แผงเดียว",
+            "en": "There's only one blister pack of painkillers left.",
+            "audio_src": "ยาแก้ปวดเหลือแค่แผงเดียว",
+            "audio_en_src": "There's only one blister pack of painkillers left."
+          },
+          {
+            "thai": "กินยาไปครึ่งแผงแล้ว",
+            "en": "I've taken half a pack of the pills already.",
+            "audio_src": "กินยาไปครึ่งแผงแล้ว",
+            "audio_en_src": "I've taken half a pack of the pills already."
+          }
+        ]
+      },
+      {
+        "meaning": "panel, board",
+        "sentences": [
+          {
+            "thai": "ช่างมาซ่อมแผงวงจรที่เสีย",
+            "en": "The technician came to fix the broken circuit board.",
+            "audio_src": "ช่างมาซ่อมแผงวงจรที่เสีย",
+            "audio_en_src": "The technician came to fix the broken circuit board."
+          },
+          {
+            "thai": "บ้านเขาติดแผงโซลาร์เซลล์บนหลังคา",
+            "en": "His house has solar panels on the roof.",
+            "audio_src": "บ้านเขาติดแผงโซลาร์เซลล์บนหลังคา",
+            "audio_en_src": "His house has solar panels on the roof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-598",
@@ -29432,7 +29523,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to spy on, to watch secretly",
+        "sentences": [
+          {
+            "thai": "เขาแอบมองเธอจากมุมห้อง",
+            "en": "He secretly watched her from the corner of the room.",
+            "audio_src": "เขาแอบมองเธอจากมุมห้อง",
+            "audio_en_src": "He secretly watched her from the corner of the room."
+          },
+          {
+            "thai": "เด็กแอบมองพ่อแม่ห่อของขวัญ",
+            "en": "The kid secretly peeked at his parents wrapping presents.",
+            "audio_src": "เด็กแอบมองพ่อแม่ห่อของขวัญ",
+            "audio_en_src": "The kid secretly peeked at his parents wrapping presents."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-611",
@@ -29494,7 +29604,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to jump",
+        "sentences": [
+          {
+            "thai": "เด็กกระโดดเล่นน้ำในสระอย่างสนุก",
+            "en": "The kids jump and play in the pool happily.",
+            "audio_src": "เด็กกระโดดเล่นน้ำในสระอย่างสนุก",
+            "audio_en_src": "The kids jump and play in the pool happily."
+          },
+          {
+            "thai": "แมวกระโดดขึ้นไปบนหลังคา",
+            "en": "The cat jumped up onto the roof.",
+            "audio_src": "แมวกระโดดขึ้นไปบนหลังคา",
+            "audio_en_src": "The cat jumped up onto the roof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-614",
@@ -29506,7 +29635,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to skip school, to skip class",
+        "sentences": [
+          {
+            "thai": "เขาโดดเรียนไปเล่นเกมที่ร้าน",
+            "en": "He skipped class to go play games at the shop.",
+            "audio_src": "เขาโดดเรียนไปเล่นเกมที่ร้าน",
+            "audio_en_src": "He skipped class to go play games at the shop."
+          },
+          {
+            "thai": "ครูจับได้ว่านักเรียนโดดเรียน",
+            "en": "The teacher caught the students skipping class.",
+            "audio_src": "ครูจับได้ว่านักเรียนโดดเรียน",
+            "audio_en_src": "The teacher caught the students skipping class."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-615",
@@ -29570,7 +29718,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "prominent, elevated (e.g nose)",
+        "sentences": [
+          {
+            "thai": "เธอมีจมูกโด่งเป็นสันสวย",
+            "en": "She has a high, nicely defined nose.",
+            "audio_src": "เธอมีจมูกโด่งเป็นสันสวย",
+            "audio_en_src": "She has a high, nicely defined nose."
+          },
+          {
+            "thai": "ต้นไม้ต้นนี้สูงโด่งกว่าต้นอื่น",
+            "en": "This tree stands taller and more prominent than the others.",
+            "audio_src": "ต้นไม้ต้นนี้สูงโด่งกว่าต้นอื่น",
+            "audio_en_src": "This tree stands taller and more prominent than the others."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-618",
@@ -29724,7 +29891,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "indoors, under cover (e.g from rain, sun)",
+        "sentences": [
+          {
+            "thai": "ฝนตกแล้ว ไปนั่งในร่มกันเถอะ",
+            "en": "It's raining, let's go sit under cover.",
+            "audio_src": "ฝนตกแล้ว ไปนั่งในร่มกันเถอะ",
+            "audio_en_src": "It's raining, let's go sit under cover."
+          },
+          {
+            "thai": "เขาชอบเล่นกีฬาในร่มมากกว่ากลางแจ้ง",
+            "en": "He prefers indoor sports over outdoor ones.",
+            "audio_src": "เขาชอบเล่นกีฬาในร่มมากกว่ากลางแจ้ง",
+            "audio_en_src": "He prefers indoor sports over outdoor ones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-628",
@@ -29737,7 +29923,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to give hints, to give clues",
+        "sentences": [
+          {
+            "thai": "ใบ้หน่อยสิ คำตอบคืออะไร",
+            "en": "Give me a hint, what's the answer?",
+            "audio_src": "ใบ้หน่อยสิ คำตอบคืออะไร",
+            "audio_en_src": "Give me a hint, what's the answer?"
+          },
+          {
+            "thai": "เขาใบ้คำให้เพื่อนทายในเกม",
+            "en": "He gave word clues for his friends to guess in the game.",
+            "audio_src": "เขาใบ้คำให้เพื่อนทายในเกม",
+            "audio_en_src": "He gave word clues for his friends to guess in the game."
+          }
+        ]
+      },
+      {
+        "meaning": "mute",
+        "sentences": [
+          {
+            "thai": "น้องชายเขาเป็นใบ้ ต้องใช้ภาษามือ",
+            "en": "His younger brother is mute and has to use sign language.",
+            "audio_src": "น้องชายเขาเป็นใบ้ ต้องใช้ภาษามือ",
+            "audio_en_src": "His younger brother is mute and has to use sign language."
+          },
+          {
+            "thai": "ตกใจจนพูดไม่ออก เหมือนเป็นใบ้",
+            "en": "I was so startled I couldn't speak, like I'd gone mute.",
+            "audio_src": "ตกใจจนพูดไม่ออก เหมือนเป็นใบ้",
+            "audio_en_src": "I was so startled I couldn't speak, like I'd gone mute."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-629",
@@ -29993,7 +30215,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fire (a fire breaking out)",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนมีไฟไหม้ตึกแถวข้างบ้าน",
+            "en": "Last night there was a fire at the row houses next door.",
+            "audio_src": "เมื่อคืนมีไฟไหม้ตึกแถวข้างบ้าน",
+            "audio_en_src": "Last night there was a fire at the row houses next door."
+          },
+          {
+            "thai": "รีบหนีออกมา ไฟไหม้แล้ว",
+            "en": "Get out quickly, there's a fire!",
+            "audio_src": "รีบหนีออกมา ไฟไหม้แล้ว",
+            "audio_en_src": "Get out quickly, there's a fire!"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-639",

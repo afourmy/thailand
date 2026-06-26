@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1644 words**
+**Total: 1654 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -540,21 +540,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-586` : แจก (to give away, to distribute) : 1 meaning(s), 2 sentences
 - `tamago-l12-587` : แจกัน (vase) : 1 meaning(s), 2 sentences
 - `tamago-l12-588` : แจ้ง (to inform, notify, file a report) : 1 meaning(s), 2 sentences
+- `tamago-l12-589` : แช่ (to soak, to immerse) : 1 meaning(s), 2 sentences
 - `tamago-l12-590` : แถม (plus, moreover; free extra item with purchase) : 2 meaning(s), 4 sentences
+- `tamago-l12-593` : แบบฟอร์ม (form (document)) : 1 meaning(s), 2 sentences
 - `tamago-l12-594` : แปลกใจ (surprised) : 1 meaning(s), 2 sentences
 - `tamago-l12-595` : แป้ง (powder; flour, starch) : 2 meaning(s), 4 sentences
+- `tamago-l12-597` : แผง (stall, booth; blister pack (e.g pills); panel, board) : 3 meaning(s), 6 sentences
 - `tamago-l12-607` : แล้วไง ("and?", "so what?") : 1 meaning(s), 2 sentences
 - `tamago-l12-608` : แหวน (ring (jewelry)) : 1 meaning(s), 2 sentences
+- `tamago-l12-610` : แอบมอง (to spy on, to watch secretly) : 1 meaning(s), 2 sentences
 - `tamago-l12-611` : โกง (to cheat, to swindle, to commit fraud) : 1 meaning(s), 2 sentences
+- `tamago-l12-613` : โดด, กระโดด (to jump) : 1 meaning(s), 2 sentences
+- `tamago-l12-614` : โดดเรียน (to skip school, to skip class) : 1 meaning(s), 2 sentences
 - `tamago-l12-615` : โดน (to be exposed to (e.g rain, sun, water); to get (passive)) : 2 meaning(s), 4 sentences
+- `tamago-l12-617` : โด่ง (prominent, elevated (e.g nose)) : 1 meaning(s), 2 sentences
 - `tamago-l12-620` : โมโห (angry, furious) : 1 meaning(s), 2 sentences
 - `tamago-l12-623` : โล (kilo (colloquial short form of kilogram)) : 1 meaning(s), 2 sentences
+- `tamago-l12-627` : ในร่ม (indoors, under cover (e.g from rain, sun)) : 1 meaning(s), 2 sentences
+- `tamago-l12-628` : ใบ้ (to give hints, to give clues; mute) : 2 meaning(s), 4 sentences
 - `tamago-l12-630` : ใส่ (to put in, to wear, to insert) : 1 meaning(s), 3 sentences
 - `tamago-l12-631` : ใส่...เพิ่ม (to add more (of something)) : 1 meaning(s), 2 sentences
 - `tamago-l12-632` : ไข่คน, ไข่กวน (scrambled egg) : 1 meaning(s), 2 sentences
 - `tamago-l12-633` : ไข่ดาว (fried egg (sunny-side-up)) : 1 meaning(s), 2 sentences
 - `tamago-l12-634` : ไข่ต้ม (hard-boiled egg) : 1 meaning(s), 2 sentences
 - `tamago-l12-635` : ไข่เจียว (Thai omelette) : 1 meaning(s), 2 sentences
+- `tamago-l12-638` : ไฟไหม้ (fire (a fire breaking out)) : 1 meaning(s), 2 sentences
 - `tamago-l12-640` : ไม่กี่ (not many, a few) : 1 meaning(s), 2 sentences
 - `tamago-l12-643` : ไม่งั้น (otherwise, if not) : 1 meaning(s), 2 sentences
 - `tamago-l12-645` : ไม่มีทาง ("no way!", impossible) : 1 meaning(s), 2 sentences
