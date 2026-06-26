@@ -9312,7 +9312,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "quantity, volume",
+        "sentences": [
+          {
+            "thai": "ปีนี้ปริมาณน้ำฝนมากกว่าปกติ",
+            "en": "This year's rainfall is higher than usual.",
+            "audio_src": "ปีนี้ปริมาณน้ำฝนมากกว่าปกติ",
+            "audio_en_src": "This year's rainfall is higher than usual."
+          },
+          {
+            "thai": "กินอาหารในปริมาณที่พอดี",
+            "en": "Eat food in the right amount.",
+            "audio_src": "กินอาหารในปริมาณที่พอดี",
+            "audio_en_src": "Eat food in the right amount."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-418",
@@ -9337,7 +9356,60 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to rush, to dash, to fling",
+        "sentences": [
+          {
+            "thai": "รถพุ่งชนเสาไฟฟ้า",
+            "en": "The car crashed into the electric pole.",
+            "audio_src": "รถพุ่งชนเสาไฟฟ้า",
+            "audio_en_src": "The car crashed into the electric pole."
+          },
+          {
+            "thai": "สุนัขพุ่งเข้าหาแมว",
+            "en": "The dog dashed at the cat.",
+            "audio_src": "สุนัขพุ่งเข้าหาแมว",
+            "audio_en_src": "The dog dashed at the cat."
+          }
+        ]
+      },
+      {
+        "meaning": "to throw forcefully",
+        "sentences": [
+          {
+            "thai": "นักกีฬาพุ่งแหลนสุดแรง",
+            "en": "The athlete threw the javelin with all his might.",
+            "audio_src": "นักกีฬาพุ่งแหลนสุดแรง",
+            "audio_en_src": "The athlete threw the javelin with all his might."
+          },
+          {
+            "thai": "เขาพุ่งหอกไปที่เป้า",
+            "en": "He hurled the spear at the target.",
+            "audio_src": "เขาพุ่งหอกไปที่เป้า",
+            "audio_en_src": "He hurled the spear at the target."
+          }
+        ]
+      },
+      {
+        "meaning": "to surge",
+        "sentences": [
+          {
+            "thai": "ราคาน้ำมันพุ่งสูงขึ้น",
+            "en": "Oil prices have surged.",
+            "audio_src": "ราคาน้ำมันพุ่งสูงขึ้น",
+            "audio_en_src": "Oil prices have surged."
+          },
+          {
+            "thai": "ไข้ของเด็กพุ่งสูงตอนกลางคืน",
+            "en": "The child's fever surged at night.",
+            "audio_src": "ไข้ของเด็กพุ่งสูงตอนกลางคืน",
+            "audio_en_src": "The child's fever surged at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-420",
@@ -9349,7 +9421,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "security guard",
+        "sentences": [
+          {
+            "thai": "รปภ.ขอตรวจบัตรก่อนเข้าตึก",
+            "en": "The security guard asks to check your ID before entering the building.",
+            "audio_src": "รปภ.ขอตรวจบัตรก่อนเข้าตึก",
+            "audio_en_src": "The security guard asks to check your ID before entering the building."
+          },
+          {
+            "thai": "เขาทำงานเป็นรปภ.ที่ห้าง",
+            "en": "He works as a security guard at the mall.",
+            "audio_src": "เขาทำงานเป็นรปภ.ที่ห้าง",
+            "audio_en_src": "He works as a security guard at the mall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-421",
@@ -9375,7 +9466,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to assume, to speculate, to anticipate",
+        "sentences": [
+          {
+            "thai": "คาดว่าพรุ่งนี้ฝนจะตก",
+            "en": "It's expected to rain tomorrow.",
+            "audio_src": "คาดว่าพรุ่งนี้ฝนจะตก",
+            "audio_en_src": "It's expected to rain tomorrow."
+          },
+          {
+            "thai": "ผลที่ออกมาเกินกว่าที่คาดไว้",
+            "en": "The result was better than expected.",
+            "audio_src": "ผลที่ออกมาเกินกว่าที่คาดไว้",
+            "audio_en_src": "The result was better than expected."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-423",
@@ -9388,7 +9498,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to speed up, to hurry, to accelerate",
+        "sentences": [
+          {
+            "thai": "เร่งมือหน่อยเดี๋ยวไม่ทัน",
+            "en": "Hurry up or we'll be late.",
+            "audio_src": "เร่งมือหน่อยเดี๋ยวไม่ทัน",
+            "audio_en_src": "Hurry up or we'll be late."
+          },
+          {
+            "thai": "คนขับเร่งความเร็วบนทางด่วน",
+            "en": "The driver sped up on the expressway.",
+            "audio_src": "คนขับเร่งความเร็วบนทางด่วน",
+            "audio_en_src": "The driver sped up on the expressway."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-424",
@@ -9471,7 +9600,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "intense, strong, concentrated",
+        "sentences": [
+          {
+            "thai": "ฉันชอบกาแฟรสเข้มข้น",
+            "en": "I like strong coffee.",
+            "audio_src": "ฉันชอบกาแฟรสเข้มข้น",
+            "audio_en_src": "I like strong coffee."
+          },
+          {
+            "thai": "การแข่งขันรอบสุดท้ายเข้มข้นมาก",
+            "en": "The final round was very intense.",
+            "audio_src": "การแข่งขันรอบสุดท้ายเข้มข้นมาก",
+            "audio_en_src": "The final round was very intense."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-427",
@@ -9550,7 +9698,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "perfectly balanced, just right",
+        "sentences": [
+          {
+            "thai": "รสชาติของอาหารจานนี้ลงตัว",
+            "en": "The flavor of this dish is just right.",
+            "audio_src": "รสชาติของอาหารจานนี้ลงตัว",
+            "audio_en_src": "The flavor of this dish is just right."
+          },
+          {
+            "thai": "ทุกอย่างในห้องจัดวางได้ลงตัว",
+            "en": "Everything in the room is arranged just right.",
+            "audio_src": "ทุกอย่างในห้องจัดวางได้ลงตัว",
+            "audio_en_src": "Everything in the room is arranged just right."
+          }
+        ]
+      },
+      {
+        "meaning": "to fit together nicely, to be finalized",
+        "sentences": [
+          {
+            "thai": "แผนการเดินทางลงตัวแล้ว",
+            "en": "The travel plan is all set.",
+            "audio_src": "แผนการเดินทางลงตัวแล้ว",
+            "audio_en_src": "The travel plan is all set."
+          },
+          {
+            "thai": "ตารางงานของเรายังไม่ลงตัว",
+            "en": "Our schedule isn't finalized yet.",
+            "audio_src": "ตารางงานของเรายังไม่ลงตัว",
+            "audio_en_src": "Our schedule isn't finalized yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-434",
@@ -9598,7 +9782,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to turn face-up, to lie on one's back, on its back, face-up",
+        "sentences": [
+          {
+            "thai": "เขานอนหงายมองเพดาน",
+            "en": "He lay on his back looking at the ceiling.",
+            "audio_src": "เขานอนหงายมองเพดาน",
+            "audio_en_src": "He lay on his back looking at the ceiling."
+          },
+          {
+            "thai": "ไพ่ใบนี้วางหงายอยู่",
+            "en": "This card is lying face-up.",
+            "audio_src": "ไพ่ใบนี้วางหงายอยู่",
+            "audio_en_src": "This card is lying face-up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-438",
@@ -9676,7 +9879,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to cope, to handle, to deal with",
+        "sentences": [
+          {
+            "thai": "เราต้องรับมือกับปัญหานี้ให้ได้",
+            "en": "We have to handle this problem.",
+            "audio_src": "เราต้องรับมือกับปัญหานี้ให้ได้",
+            "audio_en_src": "We have to handle this problem."
+          },
+          {
+            "thai": "พนักงานรับมือกับลูกค้าที่โกรธ",
+            "en": "The staff dealt with the angry customer.",
+            "audio_src": "พนักงานรับมือกับลูกค้าที่โกรธ",
+            "audio_en_src": "The staff dealt with the angry customer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-445",
@@ -9701,7 +9923,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "camp",
+        "sentences": [
+          {
+            "thai": "เด็กไปเข้าค่ายลูกเสือ",
+            "en": "The kids went to scout camp.",
+            "audio_src": "เด็กไปเข้าค่ายลูกเสือ",
+            "audio_en_src": "The kids went to scout camp."
+          },
+          {
+            "thai": "ทหารฝึกอยู่ในค่าย",
+            "en": "The soldiers are training in the camp.",
+            "audio_src": "ทหารฝึกอยู่ในค่าย",
+            "audio_en_src": "The soldiers are training in the camp."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-448",
