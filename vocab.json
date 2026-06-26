@@ -4846,7 +4846,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to give an example",
+        "sentences": [
+          {
+            "thai": "ครูยกตัวอย่างให้เข้าใจง่ายขึ้น",
+            "en": "The teacher gave an example to make it easier to understand.",
+            "audio_src": "ครูยกตัวอย่างให้เข้าใจง่ายขึ้น",
+            "audio_en_src": "The teacher gave an example to make it easier to understand."
+          },
+          {
+            "thai": "ขอยกตัวอย่างสักหนึ่งเรื่อง",
+            "en": "Let me give one example.",
+            "audio_src": "ขอยกตัวอย่างสักหนึ่งเรื่อง",
+            "audio_en_src": "Let me give one example."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-132",
@@ -4860,7 +4879,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to stand out, outstanding",
+        "sentences": [
+          {
+            "thai": "ผลงานของเขาโดดเด่นที่สุด",
+            "en": "His work stands out the most.",
+            "audio_src": "ผลงานของเขาโดดเด่นที่สุด",
+            "audio_en_src": "His work stands out the most."
+          },
+          {
+            "thai": "เธอแต่งตัวโดดเด่นกว่าคนอื่น",
+            "en": "She dresses more strikingly than everyone else.",
+            "audio_src": "เธอแต่งตัวโดดเด่นกว่าคนอื่น",
+            "audio_en_src": "She dresses more strikingly than everyone else."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-133",
@@ -4927,7 +4965,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to flip, to turn over",
+        "sentences": [
+          {
+            "thai": "เขาพลิกหน้าหนังสือไปเรื่อยๆ",
+            "en": "He kept flipping through the pages.",
+            "audio_src": "เขาพลิกหน้าหนังสือไปเรื่อยๆ",
+            "audio_en_src": "He kept flipping through the pages."
+          },
+          {
+            "thai": "พลิกปลาอีกด้านให้สุก",
+            "en": "Flip the fish so the other side cooks.",
+            "audio_src": "พลิกปลาอีกด้านให้สุก",
+            "audio_en_src": "Flip the fish so the other side cooks."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-139",
@@ -4953,7 +5010,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to scatter",
+        "sentences": [
+          {
+            "thai": "ของเล่นกระจายเต็มห้อง",
+            "en": "Toys are scattered all over the room.",
+            "audio_src": "ของเล่นกระจายเต็มห้อง",
+            "audio_en_src": "Toys are scattered all over the room."
+          },
+          {
+            "thai": "ข่าวลือกระจายไปทั่วโรงเรียน",
+            "en": "The rumor spread all over the school.",
+            "audio_src": "ข่าวลือกระจายไปทั่วโรงเรียน",
+            "audio_en_src": "The rumor spread all over the school."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-141",
@@ -4990,7 +5066,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "force, power, strength",
+        "sentences": [
+          {
+            "thai": "เขายกของหนักด้วยกำลังทั้งหมด",
+            "en": "He lifted the heavy load with all his strength.",
+            "audio_src": "เขายกของหนักด้วยกำลังทั้งหมด",
+            "audio_en_src": "He lifted the heavy load with all his strength."
+          },
+          {
+            "thai": "งานนี้ต้องใช้กำลังคนเยอะ",
+            "en": "This job needs a lot of manpower.",
+            "audio_src": "งานนี้ต้องใช้กำลังคนเยอะ",
+            "audio_en_src": "This job needs a lot of manpower."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-144",
@@ -5037,7 +5132,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to load, to pack",
+        "sentences": [
+          {
+            "thai": "พนักงานบรรจุสินค้าลงกล่อง",
+            "en": "The workers pack the goods into boxes.",
+            "audio_src": "พนักงานบรรจุสินค้าลงกล่อง",
+            "audio_en_src": "The workers pack the goods into boxes."
+          },
+          {
+            "thai": "ทหารบรรจุกระสุนเข้าปืน",
+            "en": "The soldier loaded bullets into the gun.",
+            "audio_src": "ทหารบรรจุกระสุนเข้าปืน",
+            "audio_en_src": "The soldier loaded bullets into the gun."
+          }
+        ]
+      },
+      {
+        "meaning": "to contain",
+        "sentences": [
+          {
+            "thai": "ขวดนี้บรรจุน้ำได้หนึ่งลิตร",
+            "en": "This bottle holds one liter of water.",
+            "audio_src": "ขวดนี้บรรจุน้ำได้หนึ่งลิตร",
+            "audio_en_src": "This bottle holds one liter of water."
+          },
+          {
+            "thai": "กล่องนี้บรรจุขนมสิบชิ้น",
+            "en": "This box contains ten pieces of candy.",
+            "audio_src": "กล่องนี้บรรจุขนมสิบชิ้น",
+            "audio_en_src": "This box contains ten pieces of candy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-150",
@@ -5092,7 +5223,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to head toward, to make one's way to",
+        "sentences": [
+          {
+            "thai": "รถบัสมุ่งหน้าไปเชียงใหม่",
+            "en": "The bus is heading to Chiang Mai.",
+            "audio_src": "รถบัสมุ่งหน้าไปเชียงใหม่",
+            "audio_en_src": "The bus is heading to Chiang Mai."
+          },
+          {
+            "thai": "เรามุ่งหน้าสู่เป้าหมายเดียวกัน",
+            "en": "We're heading toward the same goal.",
+            "audio_src": "เรามุ่งหน้าสู่เป้าหมายเดียวกัน",
+            "audio_en_src": "We're heading toward the same goal."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-156",
@@ -5132,7 +5282,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to proceed, to carry out, to take action",
+        "sentences": [
+          {
+            "thai": "บริษัทกำลังดำเนินการแก้ปัญหา",
+            "en": "The company is taking action to fix the problem.",
+            "audio_src": "บริษัทกำลังดำเนินการแก้ปัญหา",
+            "audio_en_src": "The company is taking action to fix the problem."
+          },
+          {
+            "thai": "เราจะดำเนินการตามขั้นตอนต่อไป",
+            "en": "We'll proceed with the next steps.",
+            "audio_src": "เราจะดำเนินการตามขั้นตอนต่อไป",
+            "audio_en_src": "We'll proceed with the next steps."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-159",
@@ -5171,7 +5340,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "broken, damaged",
+        "sentences": [
+          {
+            "thai": "รถของฉันพังกลางทาง",
+            "en": "My car broke down on the way.",
+            "audio_src": "รถของฉันพังกลางทาง",
+            "audio_en_src": "My car broke down on the way."
+          },
+          {
+            "thai": "พายุทำให้บ้านพังหลายหลัง",
+            "en": "The storm damaged several houses.",
+            "audio_src": "พายุทำให้บ้านพังหลายหลัง",
+            "audio_en_src": "The storm damaged several houses."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-164",
@@ -5251,7 +5439,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "chart, table",
+        "sentences": [
+          {
+            "thai": "ครูแจกตารางเรียนให้นักเรียน",
+            "en": "The teacher handed out the class schedule to the students.",
+            "audio_src": "ครูแจกตารางเรียนให้นักเรียน",
+            "audio_en_src": "The teacher handed out the class schedule to the students."
+          },
+          {
+            "thai": "ใส่ข้อมูลลงในตารางให้ครบ",
+            "en": "Fill in all the data in the table.",
+            "audio_src": "ใส่ข้อมูลลงในตารางให้ครบ",
+            "audio_en_src": "Fill in all the data in the table."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-172",

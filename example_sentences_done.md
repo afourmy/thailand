@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1344 words**
+**Total: 1354 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -77,6 +77,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-120` : โด่งดัง, ชื่อดัง, มีชื่อเสียง (famous) : 1 meaning(s), 2 sentences
 - `chula-l5-121` : เลิศ (excellent) : 1 meaning(s), 2 sentences
 - `chula-l5-130` : รับรอง, รับประกัน (to assure, to guarantee) : 1 meaning(s), 2 sentences
+- `chula-l5-131` : ยกตัวอย่าง (to give an example) : 1 meaning(s), 2 sentences
+- `chula-l5-132` : โดดเด่น (to stand out, outstanding) : 1 meaning(s), 2 sentences
+- `chula-l5-138` : พลิก (to flip, to turn over) : 1 meaning(s), 2 sentences
+- `chula-l5-140` : กระจาย (to scatter) : 1 meaning(s), 2 sentences
+- `chula-l5-143` : กำลัง (force, power, strength) : 1 meaning(s), 2 sentences
+- `chula-l5-149` : บรรจุ (to load, to pack; to contain) : 2 meaning(s), 4 sentences
+- `chula-l5-154` : มุ่งหน้า (to head toward, to make one's way to) : 1 meaning(s), 2 sentences
+- `chula-l5-158` : ดำเนินการ (to proceed, to carry out, to take action) : 1 meaning(s), 2 sentences
+- `chula-l5-162` : พัง (broken, damaged) : 1 meaning(s), 2 sentences
+- `chula-l5-171` : ตาราง (chart, table) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
