@@ -19399,7 +19399,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to repay, to return a favor",
+        "sentences": [
+          {
+            "thai": "เขาช่วยฉันไว้เยอะ อยากตอบแทนบ้าง",
+            "en": "He's helped me a lot, I want to repay him somehow.",
+            "audio_src": "เขาช่วยฉันไว้เยอะ อยากตอบแทนบ้าง",
+            "audio_en_src": "He's helped me a lot, I want to repay him somehow."
+          },
+          {
+            "thai": "ลูกอยากทำงานหาเงินมาตอบแทนพ่อแม่",
+            "en": "The child wants to earn money to repay his parents.",
+            "audio_src": "ลูกอยากทำงานหาเงินมาตอบแทนพ่อแม่",
+            "audio_en_src": "The child wants to earn money to repay his parents."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-150",
@@ -19520,7 +19539,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "next to, adjacent to",
+        "sentences": [
+          {
+            "thai": "ห้องน้ำอยู่ติดกับห้องครัว",
+            "en": "The bathroom is next to the kitchen.",
+            "audio_src": "ห้องน้ำอยู่ติดกับห้องครัว",
+            "audio_en_src": "The bathroom is next to the kitchen."
+          },
+          {
+            "thai": "ร้านกาแฟอยู่ติดกับธนาคาร",
+            "en": "The coffee shop is next to the bank.",
+            "audio_src": "ร้านกาแฟอยู่ติดกับธนาคาร",
+            "audio_en_src": "The coffee shop is next to the bank."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-158",
@@ -19653,7 +19691,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to scold, to reproach",
+        "sentences": [
+          {
+            "thai": "เจ้านายต่อว่าเขาที่มาสาย",
+            "en": "The boss scolded him for being late.",
+            "audio_src": "เจ้านายต่อว่าเขาที่มาสาย",
+            "audio_en_src": "The boss scolded him for being late."
+          },
+          {
+            "thai": "แม่ต่อว่าลูกที่ทำการบ้านไม่เสร็จ",
+            "en": "Mom reproached her child for not finishing the homework.",
+            "audio_src": "แม่ต่อว่าลูกที่ทำการบ้านไม่เสร็จ",
+            "audio_en_src": "Mom reproached her child for not finishing the homework."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-167",
@@ -19874,7 +19931,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "next to, right after (in sequence)",
+        "sentences": [
+          {
+            "thai": "ร้านหนังสืออยู่ถัดจากร้านอาหาร",
+            "en": "The bookstore is right next to the restaurant.",
+            "audio_src": "ร้านหนังสืออยู่ถัดจากร้านอาหาร",
+            "audio_en_src": "The bookstore is right next to the restaurant."
+          },
+          {
+            "thai": "คิวของคุณอยู่ถัดจากผมเอง",
+            "en": "Your turn is right after mine.",
+            "audio_src": "คิวของคุณอยู่ถัดจากผมเอง",
+            "audio_en_src": "Your turn is right after mine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-176",
@@ -19992,7 +20068,26 @@
       "Thai 9000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stockings, pantyhose",
+        "sentences": [
+          {
+            "thai": "เธอใส่ถุงน่องสีดำกับกระโปรง",
+            "en": "She wears black stockings with a skirt.",
+            "audio_src": "เธอใส่ถุงน่องสีดำกับกระโปรง",
+            "audio_en_src": "She wears black stockings with a skirt."
+          },
+          {
+            "thai": "ถุงน่องขาดต้องซื้อใหม่",
+            "en": "My pantyhose ripped, I need to buy new ones.",
+            "audio_src": "ถุงน่องขาดต้องซื้อใหม่",
+            "audio_en_src": "My pantyhose ripped, I need to buy new ones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-185",
@@ -20006,7 +20101,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to scrub, rub, mop",
+        "sentences": [
+          {
+            "thai": "เขาถูพื้นห้องให้สะอาด",
+            "en": "He mops the floor clean.",
+            "audio_src": "เขาถูพื้นห้องให้สะอาด",
+            "audio_en_src": "He mops the floor clean."
+          },
+          {
+            "thai": "ถูสบู่ให้ทั่วตัวแล้วล้างออก",
+            "en": "Rub soap all over your body, then rinse it off.",
+            "audio_src": "ถูสบู่ให้ทั่วตัวแล้วล้างออก",
+            "audio_en_src": "Rub soap all over your body, then rinse it off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-186",
@@ -20052,7 +20166,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to model, to do a photoshoot",
+        "sentences": [
+          {
+            "thai": "เธอไปถ่ายแบบให้นิตยสารแฟชั่น",
+            "en": "She went to model for a fashion magazine.",
+            "audio_src": "เธอไปถ่ายแบบให้นิตยสารแฟชั่น",
+            "audio_en_src": "She went to model for a fashion magazine."
+          },
+          {
+            "thai": "นางแบบถ่ายแบบชุดว่ายน้ำริมทะเล",
+            "en": "The model did a swimsuit photoshoot by the sea.",
+            "audio_src": "นางแบบถ่ายแบบชุดว่ายน้ำริมทะเล",
+            "audio_en_src": "The model did a swimsuit photoshoot by the sea."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-188",
@@ -20101,7 +20234,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "shape, style",
+        "sentences": [
+          {
+            "thai": "กระเป๋าใบนี้ทรงสวยดี",
+            "en": "This bag has a nice shape.",
+            "audio_src": "กระเป๋าใบนี้ทรงสวยดี",
+            "audio_en_src": "This bag has a nice shape."
+          },
+          {
+            "thai": "เสื้อตัวนี้เป็นทรงหลวม ใส่สบาย",
+            "en": "This shirt is a loose cut, comfortable to wear.",
+            "audio_src": "เสื้อตัวนี้เป็นทรงหลวม ใส่สบาย",
+            "audio_en_src": "This shirt is a loose cut, comfortable to wear."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-190",
@@ -20113,7 +20265,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "hairstyle, haircut",
+        "sentences": [
+          {
+            "thai": "เธอเปลี่ยนทรงผมใหม่ดูสดใสขึ้น",
+            "en": "She changed her hairstyle and looks brighter.",
+            "audio_src": "เธอเปลี่ยนทรงผมใหม่ดูสดใสขึ้น",
+            "audio_en_src": "She changed her hairstyle and looks brighter."
+          },
+          {
+            "thai": "ทรงผมนี้เข้ากับหน้าเขามาก",
+            "en": "This haircut really suits his face.",
+            "audio_src": "ทรงผมนี้เข้ากับหน้าเขามาก",
+            "audio_en_src": "This haircut really suits his face."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-191",
@@ -20126,7 +20297,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to ask for something back (especially money owed)",
+        "sentences": [
+          {
+            "thai": "เขายืมเงินไปนานแล้ว ต้องไปทวง",
+            "en": "He borrowed money long ago, I have to go ask for it back.",
+            "audio_src": "เขายืมเงินไปนานแล้ว ต้องไปทวง",
+            "audio_en_src": "He borrowed money long ago, I have to go ask for it back."
+          },
+          {
+            "thai": "เพื่อนทวงหนังสือที่ฉันยืมมา",
+            "en": "My friend asked for the book back that I borrowed.",
+            "audio_src": "เพื่อนทวงหนังสือที่ฉันยืมมา",
+            "audio_en_src": "My friend asked for the book back that I borrowed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-192",
