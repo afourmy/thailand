@@ -30377,7 +30377,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to exclude, excluding, not included",
+        "sentences": [
+          {
+            "thai": "ราคานี้ไม่รวมค่าจัดส่ง",
+            "en": "This price doesn't include shipping.",
+            "audio_src": "ราคานี้ไม่รวมค่าจัดส่ง",
+            "audio_en_src": "This price doesn't include shipping."
+          },
+          {
+            "thai": "ค่าเช่าห้องไม่รวมค่าน้ำค่าไฟ",
+            "en": "The room rent excludes water and electricity.",
+            "audio_src": "ค่าเช่าห้องไม่รวมค่าน้ำค่าไฟ",
+            "audio_en_src": "The room rent excludes water and electricity."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-647",
@@ -30431,7 +30450,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "useless, foolish, nonsensical",
+        "sentences": [
+          {
+            "thai": "อย่าเสียเวลากับเรื่องไร้สาระ",
+            "en": "Don't waste time on nonsense.",
+            "audio_src": "อย่าเสียเวลากับเรื่องไร้สาระ",
+            "audio_en_src": "Don't waste time on nonsense."
+          },
+          {
+            "thai": "เขาเถียงกันด้วยเหตุผลไร้สาระ",
+            "en": "They argued over a foolish reason.",
+            "audio_src": "เขาเถียงกันด้วยเหตุผลไร้สาระ",
+            "audio_en_src": "They argued over a foolish reason."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-652",
@@ -30561,7 +30599,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to liberate, set free, release from oppression",
+        "sentences": [
+          {
+            "thai": "เขาปลดปล่อยนกออกจากกรง",
+            "en": "He set the bird free from the cage.",
+            "audio_src": "เขาปลดปล่อยนกออกจากกรง",
+            "audio_en_src": "He set the bird free from the cage."
+          },
+          {
+            "thai": "ดนตรีช่วยปลดปล่อยความเครียดได้ดี",
+            "en": "Music helps release stress well.",
+            "audio_src": "ดนตรีช่วยปลดปล่อยความเครียดได้ดี",
+            "audio_en_src": "Music helps release stress well."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-002",
@@ -30573,7 +30630,26 @@
       "Thai 9000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to join, attend, participate in",
+        "sentences": [
+          {
+            "thai": "เธอเข้าร่วมประชุมทุกครั้ง",
+            "en": "She attends every meeting.",
+            "audio_src": "เธอเข้าร่วมประชุมทุกครั้ง",
+            "audio_en_src": "She attends every meeting."
+          },
+          {
+            "thai": "นักเรียนหลายคนเข้าร่วมแข่งขันกีฬา",
+            "en": "Many students joined the sports competition.",
+            "audio_src": "นักเรียนหลายคนเข้าร่วมแข่งขันกีฬา",
+            "audio_en_src": "Many students joined the sports competition."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-003",
@@ -30587,7 +30663,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to save, to rescue",
+        "sentences": [
+          {
+            "thai": "ทีมกู้ภัยช่วยคนติดในถ้ำ",
+            "en": "The rescue team helped the people trapped in the cave.",
+            "audio_src": "ทีมกู้ภัยช่วยคนติดในถ้ำ",
+            "audio_en_src": "The rescue team helped the people trapped in the cave."
+          },
+          {
+            "thai": "หมอพยายามกู้ชีพคนไข้อย่างสุดความสามารถ",
+            "en": "The doctors tried their best to revive the patient.",
+            "audio_src": "หมอพยายามกู้ชีพคนไข้อย่างสุดความสามารถ",
+            "audio_en_src": "The doctors tried their best to revive the patient."
+          }
+        ]
+      },
+      {
+        "meaning": "to borrow money, to take a loan",
+        "sentences": [
+          {
+            "thai": "เขากู้เงินธนาคารมาซื้อบ้าน",
+            "en": "He took out a bank loan to buy a house.",
+            "audio_src": "เขากู้เงินธนาคารมาซื้อบ้าน",
+            "audio_en_src": "He took out a bank loan to buy a house."
+          },
+          {
+            "thai": "ดอกเบี้ยกู้ปีนี้ขึ้นสูง",
+            "en": "Loan interest is high this year.",
+            "audio_src": "ดอกเบี้ยกู้ปีนี้ขึ้นสูง",
+            "audio_en_src": "Loan interest is high this year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-004",
@@ -30688,7 +30800,26 @@
       "Thai 9000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to tie one's shoelaces",
+        "sentences": [
+          {
+            "thai": "เด็กยังผูกเชือกรองเท้าเองไม่เป็น",
+            "en": "The kid can't tie his own shoelaces yet.",
+            "audio_src": "เด็กยังผูกเชือกรองเท้าเองไม่เป็น",
+            "audio_en_src": "The kid can't tie his own shoelaces yet."
+          },
+          {
+            "thai": "หยุดผูกเชือกรองเท้าก่อน เดี๋ยวสะดุด",
+            "en": "Stop and tie your shoelaces first, or you'll trip.",
+            "audio_src": "หยุดผูกเชือกรองเท้าก่อน เดี๋ยวสะดุด",
+            "audio_en_src": "Stop and tie your shoelaces first, or you'll trip."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-015",
@@ -30700,7 +30831,26 @@
       "Thai 9000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "nail clipper",
+        "sentences": [
+          {
+            "thai": "ขอยืมที่ตัดเล็บหน่อยได้ไหม",
+            "en": "Can I borrow your nail clipper?",
+            "audio_src": "ขอยืมที่ตัดเล็บหน่อยได้ไหม",
+            "audio_en_src": "Can I borrow your nail clipper?"
+          },
+          {
+            "thai": "เล็บยาวแล้ว ไปหยิบที่ตัดเล็บมา",
+            "en": "Your nails are long, go get the nail clipper.",
+            "audio_src": "เล็บยาวแล้ว ไปหยิบที่ตัดเล็บมา",
+            "audio_en_src": "Your nails are long, go get the nail clipper."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-016",
@@ -30856,7 +31006,26 @@
       "Thai 9000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "muscular, well-built",
+        "sentences": [
+          {
+            "thai": "เขาออกกำลังกายจนตัวกำยำ",
+            "en": "He works out until he's muscular.",
+            "audio_src": "เขาออกกำลังกายจนตัวกำยำ",
+            "audio_en_src": "He works out until he's muscular."
+          },
+          {
+            "thai": "ชายร่างกำยำยกของหนักได้สบาย",
+            "en": "The well-built man lifts heavy things easily.",
+            "audio_src": "ชายร่างกำยำยกของหนักได้สบาย",
+            "audio_en_src": "The well-built man lifts heavy things easily."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-029",
@@ -30941,7 +31110,26 @@
       "Thai 9000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be fooled into believing, be gullible enough to believe",
+        "sentences": [
+          {
+            "thai": "เธอหลงเชื่อข่าวปลอมในโซเชียล",
+            "en": "She fell for the fake news on social media.",
+            "audio_src": "เธอหลงเชื่อข่าวปลอมในโซเชียล",
+            "audio_en_src": "She fell for the fake news on social media."
+          },
+          {
+            "thai": "อย่าหลงเชื่อคนที่อ้างว่าให้ผลตอบแทนสูง",
+            "en": "Don't believe people who claim to offer high returns.",
+            "audio_src": "อย่าหลงเชื่อคนที่อ้างว่าให้ผลตอบแทนสูง",
+            "audio_en_src": "Don't believe people who claim to offer high returns."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-038",
@@ -30998,7 +31186,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "riddle, puzzle, mystery",
+        "sentences": [
+          {
+            "thai": "ตำรวจยังไขปริศนาคดีนี้ไม่ได้",
+            "en": "The police still can't solve the mystery of this case.",
+            "audio_src": "ตำรวจยังไขปริศนาคดีนี้ไม่ได้",
+            "audio_en_src": "The police still can't solve the mystery of this case."
+          },
+          {
+            "thai": "เขาชอบทายปริศนาคำทายกับเพื่อน",
+            "en": "He likes guessing riddles with his friends.",
+            "audio_src": "เขาชอบทายปริศนาคำทายกับเพื่อน",
+            "audio_en_src": "He likes guessing riddles with his friends."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "thai9k-041",

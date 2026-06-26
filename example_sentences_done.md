@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1654 words**
+**Total: 1664 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -568,10 +568,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-640` : ไม่กี่ (not many, a few) : 1 meaning(s), 2 sentences
 - `tamago-l12-643` : ไม่งั้น (otherwise, if not) : 1 meaning(s), 2 sentences
 - `tamago-l12-645` : ไม่มีทาง ("no way!", impossible) : 1 meaning(s), 2 sentences
+- `tamago-l12-646` : ไม่รวม (to exclude, excluding, not included) : 1 meaning(s), 2 sentences
+- `tamago-l12-651` : ไร้สาระ (useless, foolish, nonsensical) : 1 meaning(s), 2 sentences
 - `tamago-l12-654` : ไหน (where; which) : 2 meaning(s), 4 sentences
 - `tamago-l12-657` : ไอ้ ((slang) rude pronoun marker for males) : 1 meaning(s), 2 sentences
+- `thai9k-001` : ปลดปล่อย (to liberate, set free, release from oppression) : 1 meaning(s), 2 sentences
+- `thai9k-002` : เข้าร่วม (to join, attend, participate in) : 1 meaning(s), 2 sentences
+- `thai9k-003` : กู้ (to save, to rescue; to borrow money, to take a loan) : 2 meaning(s), 4 sentences
+- `thai9k-014` : ผูกเชือกรองเท้า (to tie one's shoelaces) : 1 meaning(s), 2 sentences
+- `thai9k-015` : ที่ตัดเล็บ (nail clipper) : 1 meaning(s), 2 sentences
 - `thai9k-019` : หัวหอม (onion) : 1 meaning(s), 2 sentences
+- `thai9k-028` : กำยำ (muscular, well-built) : 1 meaning(s), 2 sentences
+- `thai9k-037` : หลงเชื่อ (to be fooled into believing, be gullible enough to believe) : 1 meaning(s), 2 sentences
 - `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
+- `thai9k-040` : ปริศนา (riddle, puzzle, mystery) : 1 meaning(s), 2 sentences
 - `tamago-l3-006` : ใช้ได้ (good quality, "okay", decent, usable) : 1 meaning(s), 2 sentences
 - `tamago-l3-007` : ไม่น่าเลย ("that's too bad", "that's unfortunate") : 1 meaning(s), 2 sentences
 - `tamago-l3-019` : สูตร (recipe; formula) : 2 meaning(s), 4 sentences
