@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1324 words**
+**Total: 1334 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -57,6 +57,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-037` : ชก (to punch) : 1 meaning(s), 2 sentences
 - `chula-l5-042` : คณิตศาสตร์ (mathematics) : 1 meaning(s), 2 sentences
 - `chula-l5-043` : ตะโกน (to shout) : 1 meaning(s), 2 sentences
+- `chula-l5-045` : กำ (to clench one's fist, grip; a bunch, handful of) : 2 meaning(s), 4 sentences
+- `chula-l5-049` : หลบ (to dodge, to evade, to hide, to avoid) : 1 meaning(s), 2 sentences
+- `chula-l5-066` : คว้า (to grab) : 1 meaning(s), 2 sentences
+- `chula-l5-067` : ดับ (to extinguish, to put out (a fire); to cease, to stop functioning) : 2 meaning(s), 4 sentences
+- `chula-l5-070` : ปลาย (end, tip, extremity) : 1 meaning(s), 2 sentences
+- `chula-l5-071` : แหลม (sharp, pointed; peninsula) : 2 meaning(s), 4 sentences
+- `chula-l5-072` : เปื้อน, แปดเปื้อน (stained, soiled) : 1 meaning(s), 2 sentences
+- `chula-l5-074` : เปิดเผย (to reveal, to disclose) : 1 meaning(s), 2 sentences
+- `chula-l5-075` : เคาะ (to knock, to hit lightly) : 1 meaning(s), 2 sentences
+- `chula-l5-080` : ระบุ (to specify, to identify) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences

@@ -3370,7 +3370,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to clench one's fist, grip",
+        "sentences": [
+          {
+            "thai": "เขากำมือแน่นด้วยความโกรธ",
+            "en": "He clenched his fists in anger.",
+            "audio_src": "เขากำมือแน่นด้วยความโกรธ",
+            "audio_en_src": "He clenched his fists in anger."
+          },
+          {
+            "thai": "กำเชือกไว้ให้แน่น",
+            "en": "Grip the rope tightly.",
+            "audio_src": "กำเชือกไว้ให้แน่น",
+            "audio_en_src": "Grip the rope tightly."
+          }
+        ]
+      },
+      {
+        "meaning": "a bunch, handful of",
+        "sentences": [
+          {
+            "thai": "ซื้อผักบุ้งมาหนึ่งกำ",
+            "en": "I bought a bunch of morning glory.",
+            "audio_src": "ซื้อผักบุ้งมาหนึ่งกำ",
+            "audio_en_src": "I bought a bunch of morning glory."
+          },
+          {
+            "thai": "เขาหยิบข้าวสารมากำหนึ่ง",
+            "en": "He grabbed a handful of rice.",
+            "audio_src": "เขาหยิบข้าวสารมากำหนึ่ง",
+            "audio_en_src": "He grabbed a handful of rice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-046",
@@ -3417,7 +3453,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to dodge, to evade, to hide, to avoid",
+        "sentences": [
+          {
+            "thai": "รีบหลบเข้าร่มกันฝน",
+            "en": "Hurry and take shelter from the rain.",
+            "audio_src": "รีบหลบเข้าร่มกันฝน",
+            "audio_en_src": "Hurry and take shelter from the rain."
+          },
+          {
+            "thai": "เขาหลบหน้าฉันมาหลายวัน",
+            "en": "He's been avoiding me for days.",
+            "audio_src": "เขาหลบหน้าฉันมาหลายวัน",
+            "audio_en_src": "He's been avoiding me for days."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-050",
@@ -3616,7 +3671,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to grab",
+        "sentences": [
+          {
+            "thai": "เขาคว้ากระเป๋าแล้ววิ่งออกไป",
+            "en": "He grabbed his bag and ran out.",
+            "audio_src": "เขาคว้ากระเป๋าแล้ววิ่งออกไป",
+            "audio_en_src": "He grabbed his bag and ran out."
+          },
+          {
+            "thai": "ต้องรีบคว้าโอกาสนี้ไว้",
+            "en": "You have to grab this opportunity.",
+            "audio_src": "ต้องรีบคว้าโอกาสนี้ไว้",
+            "audio_en_src": "You have to grab this opportunity."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-067",
@@ -3632,7 +3706,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to extinguish, to put out (a fire)",
+        "sentences": [
+          {
+            "thai": "ช่วยกันดับไฟก่อนไฟลาม",
+            "en": "Help put out the fire before it spreads.",
+            "audio_src": "ช่วยกันดับไฟก่อนไฟลาม",
+            "audio_en_src": "Help put out the fire before it spreads."
+          },
+          {
+            "thai": "อย่าลืมดับเทียนก่อนนอน",
+            "en": "Don't forget to blow out the candle before bed.",
+            "audio_src": "อย่าลืมดับเทียนก่อนนอน",
+            "audio_en_src": "Don't forget to blow out the candle before bed."
+          }
+        ]
+      },
+      {
+        "meaning": "to cease, to stop functioning",
+        "sentences": [
+          {
+            "thai": "รถดับกลางทาง",
+            "en": "The car died in the middle of the road.",
+            "audio_src": "รถดับกลางทาง",
+            "audio_en_src": "The car died in the middle of the road."
+          },
+          {
+            "thai": "ไฟดับทั้งหมู่บ้าน",
+            "en": "The power went out across the whole village.",
+            "audio_src": "ไฟดับทั้งหมู่บ้าน",
+            "audio_en_src": "The power went out across the whole village."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-068",
@@ -3666,7 +3776,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "end, tip, extremity",
+        "sentences": [
+          {
+            "thai": "เจ็บที่ปลายนิ้ว",
+            "en": "My fingertip hurts.",
+            "audio_src": "เจ็บที่ปลายนิ้ว",
+            "audio_en_src": "My fingertip hurts."
+          },
+          {
+            "thai": "เราจะเจอกันปลายเดือนนี้",
+            "en": "We'll meet at the end of this month.",
+            "audio_src": "เราจะเจอกันปลายเดือนนี้",
+            "audio_en_src": "We'll meet at the end of this month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-071",
@@ -3681,7 +3810,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "sharp, pointed",
+        "sentences": [
+          {
+            "thai": "ระวังมีดปลายแหลม",
+            "en": "Be careful, the knife has a sharp point.",
+            "audio_src": "ระวังมีดปลายแหลม",
+            "audio_en_src": "Be careful, the knife has a sharp point."
+          },
+          {
+            "thai": "เธอมีเสียงแหลมมาก",
+            "en": "She has a very high-pitched voice.",
+            "audio_src": "เธอมีเสียงแหลมมาก",
+            "audio_en_src": "She has a very high-pitched voice."
+          }
+        ]
+      },
+      {
+        "meaning": "peninsula",
+        "sentences": [
+          {
+            "thai": "แหลมนี้เป็นจุดชมวิวที่สวย",
+            "en": "This cape is a beautiful viewpoint.",
+            "audio_src": "แหลมนี้เป็นจุดชมวิวที่สวย",
+            "audio_en_src": "This cape is a beautiful viewpoint."
+          },
+          {
+            "thai": "เรือแล่นอ้อมแหลม",
+            "en": "The boat sailed around the cape.",
+            "audio_src": "เรือแล่นอ้อมแหลม",
+            "audio_en_src": "The boat sailed around the cape."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-072",
@@ -3696,7 +3861,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stained, soiled",
+        "sentences": [
+          {
+            "thai": "เสื้อเปื้อนซอสมะเขือเทศ",
+            "en": "The shirt is stained with ketchup.",
+            "audio_src": "เสื้อเปื้อนซอสมะเขือเทศ",
+            "audio_en_src": "The shirt is stained with ketchup."
+          },
+          {
+            "thai": "มือเปื้อนโคลนไปหมด",
+            "en": "My hands are all covered in mud.",
+            "audio_src": "มือเปื้อนโคลนไปหมด",
+            "audio_en_src": "My hands are all covered in mud."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-073",
@@ -3724,7 +3908,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to reveal, to disclose",
+        "sentences": [
+          {
+            "thai": "เขาไม่ยอมเปิดเผยความลับ",
+            "en": "He won't reveal the secret.",
+            "audio_src": "เขาไม่ยอมเปิดเผยความลับ",
+            "audio_en_src": "He won't reveal the secret."
+          },
+          {
+            "thai": "บริษัทเปิดเผยข้อมูลให้สาธารณะ",
+            "en": "The company disclosed the information to the public.",
+            "audio_src": "บริษัทเปิดเผยข้อมูลให้สาธารณะ",
+            "audio_en_src": "The company disclosed the information to the public."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-075",
@@ -3738,7 +3941,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to knock, to hit lightly",
+        "sentences": [
+          {
+            "thai": "มีคนเคาะประตู",
+            "en": "Someone's knocking at the door.",
+            "audio_src": "มีคนเคาะประตู",
+            "audio_en_src": "Someone's knocking at the door."
+          },
+          {
+            "thai": "เขาเคาะปากกาเบาๆบนโต๊ะ",
+            "en": "He tapped his pen lightly on the table.",
+            "audio_src": "เขาเคาะปากกาเบาๆบนโต๊ะ",
+            "audio_en_src": "He tapped his pen lightly on the table."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-076",
@@ -3797,7 +4019,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to specify, to identify",
+        "sentences": [
+          {
+            "thai": "กรุณาระบุวันเดือนปีเกิด",
+            "en": "Please specify your date of birth.",
+            "audio_src": "กรุณาระบุวันเดือนปีเกิด",
+            "audio_en_src": "Please specify your date of birth."
+          },
+          {
+            "thai": "ตำรวจยังระบุตัวคนร้ายไม่ได้",
+            "en": "The police can't identify the culprit yet.",
+            "audio_src": "ตำรวจยังระบุตัวคนร้ายไม่ได้",
+            "audio_en_src": "The police can't identify the culprit yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-081",
