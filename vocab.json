@@ -40484,7 +40484,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pressure (someone)",
+        "sentences": [
+          {
+            "thai": "พ่อแม่กดดันให้ลูกเรียนหมอ",
+            "en": "The parents pressure their child to study medicine.",
+            "audio_src": "พ่อแม่กดดันให้ลูกเรียนหมอ",
+            "audio_en_src": "The parents pressure their child to study medicine."
+          },
+          {
+            "thai": "เขารู้สึกกดดันกับงานที่ต้องส่งพรุ่งนี้",
+            "en": "He feels pressured by the work due tomorrow.",
+            "audio_src": "เขารู้สึกกดดันกับงานที่ต้องส่งพรุ่งนี้",
+            "audio_en_src": "He feels pressured by the work due tomorrow."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-425",
@@ -40496,7 +40515,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "indirectly",
+        "sentences": [
+          {
+            "thai": "เขาบอกเป็นนัยทางอ้อมว่าไม่พอใจ",
+            "en": "He hinted indirectly that he wasn't happy.",
+            "audio_src": "เขาบอกเป็นนัยทางอ้อมว่าไม่พอใจ",
+            "audio_en_src": "He hinted indirectly that he wasn't happy."
+          },
+          {
+            "thai": "การสูบบุหรี่ส่งผลเสียทางอ้อมต่อคนรอบข้าง",
+            "en": "Smoking indirectly harms the people around you.",
+            "audio_src": "การสูบบุหรี่ส่งผลเสียทางอ้อมต่อคนรอบข้าง",
+            "audio_en_src": "Smoking indirectly harms the people around you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-426",
@@ -40520,7 +40558,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "pose, posture",
+        "sentences": [
+          {
+            "thai": "เธอโพสท่าถ่ายรูปหน้าน้ำตก",
+            "en": "She posed for a photo in front of the waterfall.",
+            "audio_src": "เธอโพสท่าถ่ายรูปหน้าน้ำตก",
+            "audio_en_src": "She posed for a photo in front of the waterfall."
+          },
+          {
+            "thai": "นั่งทำงานท่าเดิมนานๆ ทำให้ปวดหลัง",
+            "en": "Sitting in the same posture for a long time gives you back pain.",
+            "audio_src": "นั่งทำงานท่าเดิมนานๆ ทำให้ปวดหลัง",
+            "audio_en_src": "Sitting in the same posture for a long time gives you back pain."
+          }
+        ]
+      },
+      {
+        "meaning": "swimming style",
+        "sentences": [
+          {
+            "thai": "เขาว่ายท่ากบได้คล่องมาก",
+            "en": "He swims breaststroke very smoothly.",
+            "audio_src": "เขาว่ายท่ากบได้คล่องมาก",
+            "audio_en_src": "He swims breaststroke very smoothly."
+          },
+          {
+            "thai": "ครูสอนว่ายน้ำท่าฟรีสไตล์ให้เด็ก",
+            "en": "The coach taught the kids freestyle swimming.",
+            "audio_src": "ครูสอนว่ายน้ำท่าฟรีสไตล์ให้เด็ก",
+            "audio_en_src": "The coach taught the kids freestyle swimming."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-429",
@@ -40555,7 +40629,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take offense, to take something personally",
+        "sentences": [
+          {
+            "thai": "เขาพูดเล่นน่ะ อย่าไปถือสาเลย",
+            "en": "He's just joking, don't take it personally.",
+            "audio_src": "เขาพูดเล่นน่ะ อย่าไปถือสาเลย",
+            "audio_en_src": "He's just joking, don't take it personally."
+          },
+          {
+            "thai": "ฉันไม่ถือสาที่เธอลืมวันเกิด",
+            "en": "I don't take offense that you forgot my birthday.",
+            "audio_src": "ฉันไม่ถือสาที่เธอลืมวันเกิด",
+            "audio_en_src": "I don't take offense that you forgot my birthday."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-432",
@@ -40568,7 +40661,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "bald",
+        "sentences": [
+          {
+            "thai": "พออายุมากเขาก็เริ่มหัวล้าน",
+            "en": "As he got older, he started going bald.",
+            "audio_src": "พออายุมากเขาก็เริ่มหัวล้าน",
+            "audio_en_src": "As he got older, he started going bald."
+          },
+          {
+            "thai": "คุณลุงหัวล้านแต่ดูใจดี",
+            "en": "The uncle is bald but looks kind.",
+            "audio_src": "คุณลุงหัวล้านแต่ดูใจดี",
+            "audio_en_src": "The uncle is bald but looks kind."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-433",
@@ -40580,7 +40692,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hold one's breath",
+        "sentences": [
+          {
+            "thai": "เด็กกลั้นหายใจตอนดำน้ำในสระ",
+            "en": "The kid holds his breath when diving in the pool.",
+            "audio_src": "เด็กกลั้นหายใจตอนดำน้ำในสระ",
+            "audio_en_src": "The kid holds his breath when diving in the pool."
+          },
+          {
+            "thai": "กลิ่นเหม็นมากจนต้องกลั้นหายใจ",
+            "en": "The smell was so bad I had to hold my breath.",
+            "audio_src": "กลิ่นเหม็นมากจนต้องกลั้นหายใจ",
+            "audio_en_src": "The smell was so bad I had to hold my breath."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-434",
@@ -40594,7 +40725,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to open one's eyes",
+        "sentences": [
+          {
+            "thai": "พอลืมตาขึ้นมาก็เห็นแม่นั่งอยู่ข้างๆ",
+            "en": "When I opened my eyes, I saw my mom sitting next to me.",
+            "audio_src": "พอลืมตาขึ้นมาก็เห็นแม่นั่งอยู่ข้างๆ",
+            "audio_en_src": "When I opened my eyes, I saw my mom sitting next to me."
+          },
+          {
+            "thai": "หมอบอกให้ลืมตาตอนตรวจสายตา",
+            "en": "The doctor told me to open my eyes during the eye exam.",
+            "audio_src": "หมอบอกให้ลืมตาตอนตรวจสายตา",
+            "audio_en_src": "The doctor told me to open my eyes during the eye exam."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-435",
@@ -40616,7 +40766,43 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "skilled, expert",
+        "sentences": [
+          {
+            "thai": "เขาเชี่ยวเรื่องคอมพิวเตอร์มาก",
+            "en": "He's very skilled with computers.",
+            "audio_src": "เขาเชี่ยวเรื่องคอมพิวเตอร์มาก",
+            "audio_en_src": "He's very skilled with computers."
+          },
+          {
+            "thai": "ช่างคนนี้ฝีมือเชี่ยว ซ่อมอะไรก็ได้",
+            "en": "This technician is highly skilled, he can fix anything.",
+            "audio_src": "ช่างคนนี้ฝีมือเชี่ยว ซ่อมอะไรก็ได้",
+            "audio_en_src": "This technician is highly skilled, he can fix anything."
+          }
+        ]
+      },
+      {
+        "meaning": "rapid (of water current)",
+        "sentences": [
+          {
+            "thai": "กระแสน้ำเชี่ยวมาก อย่าลงไปเล่น",
+            "en": "The current is very strong, don't go in to play.",
+            "audio_src": "กระแสน้ำเชี่ยวมาก อย่าลงไปเล่น",
+            "audio_en_src": "The current is very strong, don't go in to play."
+          },
+          {
+            "thai": "เรือล่มเพราะน้ำเชี่ยวเกินไป",
+            "en": "The boat capsized because the current was too strong.",
+            "audio_src": "เรือล่มเพราะน้ำเชี่ยวเกินไป",
+            "audio_en_src": "The boat capsized because the current was too strong."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-437",
@@ -40663,7 +40849,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "body shape, body figure",
+        "sentences": [
+          {
+            "thai": "เธอออกกำลังกายจนหุ่นดีขึ้น",
+            "en": "She works out until her figure improves.",
+            "audio_src": "เธอออกกำลังกายจนหุ่นดีขึ้น",
+            "audio_en_src": "She works out until her figure improves."
+          },
+          {
+            "thai": "เขาคุมอาหารเพื่อรักษาหุ่น",
+            "en": "He watches his diet to keep his figure.",
+            "audio_src": "เขาคุมอาหารเพื่อรักษาหุ่น",
+            "audio_en_src": "He watches his diet to keep his figure."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-441",
@@ -40685,7 +40890,32 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to sink (a boat), to collapse, to fail (a system, an exam)",
+        "sentences": [
+          {
+            "thai": "เรือล่มกลางแม่น้ำเพราะบรรทุกของหนักเกิน",
+            "en": "The boat sank in the middle of the river from overloading.",
+            "audio_src": "เรือล่มกลางแม่น้ำเพราะบรรทุกของหนักเกิน",
+            "audio_en_src": "The boat sank in the middle of the river from overloading."
+          },
+          {
+            "thai": "ระบบธนาคารล่มทำให้โอนเงินไม่ได้",
+            "en": "The bank system crashed, so I couldn't transfer money.",
+            "audio_src": "ระบบธนาคารล่มทำให้โอนเงินไม่ได้",
+            "audio_en_src": "The bank system crashed, so I couldn't transfer money."
+          },
+          {
+            "thai": "ดีลธุรกิจล่มในนาทีสุดท้าย",
+            "en": "The business deal fell through at the last minute.",
+            "audio_src": "ดีลธุรกิจล่มในนาทีสุดท้าย",
+            "audio_en_src": "The business deal fell through at the last minute."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-443",

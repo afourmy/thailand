@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1814 words**
+**Total: 1824 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -792,6 +792,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-420` : เรืองแสง (to glow, to emit light) : 1 meaning(s), 2 sentences
 - `tamago-l3-422` : อำ (to prank, to trick, to fake, to bluff) : 1 meaning(s), 2 sentences
 - `tamago-l3-423` : เรอ (to burp) : 1 meaning(s), 2 sentences
+- `tamago-l3-424` : กดดัน (to pressure (someone)) : 1 meaning(s), 2 sentences
+- `tamago-l3-425` : ทางอ้อม (indirectly) : 1 meaning(s), 2 sentences
+- `tamago-l3-428` : ท่า (pose, posture; swimming style) : 2 meaning(s), 4 sentences
+- `tamago-l3-431` : ถือสา (to take offense, to take something personally) : 1 meaning(s), 2 sentences
+- `tamago-l3-432` : หัวล้าน (bald) : 1 meaning(s), 2 sentences
+- `tamago-l3-433` : กลั้นหายใจ (to hold one's breath) : 1 meaning(s), 2 sentences
+- `tamago-l3-434` : ลืมตา (to open one's eyes) : 1 meaning(s), 2 sentences
+- `tamago-l3-436` : เชี่ยว (skilled, expert; rapid (of water current)) : 2 meaning(s), 4 sentences
+- `tamago-l3-440` : หุ่น (body shape, body figure) : 1 meaning(s), 2 sentences
+- `tamago-l3-442` : ล่ม (to sink (a boat), to collapse, to fail (a system, an exam)) : 1 meaning(s), 3 sentences
 - `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences
