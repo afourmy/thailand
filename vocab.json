@@ -13372,7 +13372,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "all, entirely",
+        "sentences": [
+          {
+            "thai": "ของในร้านนี้ล้วนเป็นของแฮนด์เมด",
+            "en": "Everything in this shop is handmade.",
+            "audio_src": "ของในร้านนี้ล้วนเป็นของแฮนด์เมด",
+            "audio_en_src": "Everything in this shop is handmade."
+          },
+          {
+            "thai": "นักเรียนห้องนี้ล้วนตั้งใจเรียน",
+            "en": "The students in this class are all hardworking.",
+            "audio_src": "นักเรียนห้องนี้ล้วนตั้งใจเรียน",
+            "audio_en_src": "The students in this class are all hardworking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-178",
@@ -13421,7 +13440,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stem (supporting part of a leaf, a flower)",
+        "sentences": [
+          {
+            "thai": "ก้านดอกกุหลาบมีหนามเยอะ",
+            "en": "The rose stem has a lot of thorns.",
+            "audio_src": "ก้านดอกกุหลาบมีหนามเยอะ",
+            "audio_en_src": "The rose stem has a lot of thorns."
+          },
+          {
+            "thai": "เด็ดใบออกแล้วเหลือแต่ก้าน",
+            "en": "Pluck off the leaves and only the stem is left.",
+            "audio_src": "เด็ดใบออกแล้วเหลือแต่ก้าน",
+            "audio_en_src": "Pluck off the leaves and only the stem is left."
+          }
+        ]
+      },
+      {
+        "meaning": "shaft, handle (e.g brush, umbrella)",
+        "sentences": [
+          {
+            "thai": "ก้านร่มหักตอนลมแรง",
+            "en": "The umbrella's shaft broke in the strong wind.",
+            "audio_src": "ก้านร่มหักตอนลมแรง",
+            "audio_en_src": "The umbrella's shaft broke in the strong wind."
+          },
+          {
+            "thai": "ก้านแปรงสีฟันยาวไป",
+            "en": "The toothbrush handle is too long.",
+            "audio_src": "ก้านแปรงสีฟันยาวไป",
+            "audio_en_src": "The toothbrush handle is too long."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-182",
@@ -13433,7 +13488,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "wrinkles",
+        "sentences": [
+          {
+            "thai": "พออายุมากขึ้น รอยเหี่ยวย่นก็เริ่มขึ้น",
+            "en": "As you get older, wrinkles start to appear.",
+            "audio_src": "พออายุมากขึ้น รอยเหี่ยวย่นก็เริ่มขึ้น",
+            "audio_en_src": "As you get older, wrinkles start to appear."
+          },
+          {
+            "thai": "ครีมนี้ช่วยลดรอยเหี่ยวย่นรอบดวงตา",
+            "en": "This cream helps reduce wrinkles around the eyes.",
+            "audio_src": "ครีมนี้ช่วยลดรอยเหี่ยวย่นรอบดวงตา",
+            "audio_en_src": "This cream helps reduce wrinkles around the eyes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-183",
@@ -13553,7 +13627,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fascinating",
+        "sentences": [
+          {
+            "thai": "เมืองนี้มีเสน่ห์น่าหลงใหล",
+            "en": "This city has a fascinating charm.",
+            "audio_src": "เมืองนี้มีเสน่ห์น่าหลงใหล",
+            "audio_en_src": "This city has a fascinating charm."
+          },
+          {
+            "thai": "ดวงตาของเธอน่าหลงใหลมาก",
+            "en": "Her eyes are so captivating.",
+            "audio_src": "ดวงตาของเธอน่าหลงใหลมาก",
+            "audio_en_src": "Her eyes are so captivating."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-192",
@@ -13568,7 +13661,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to squeeze",
+        "sentences": [
+          {
+            "thai": "บีบมะนาวลงในน้ำพริก",
+            "en": "Squeeze some lime into the chili dip.",
+            "audio_src": "บีบมะนาวลงในน้ำพริก",
+            "audio_en_src": "Squeeze some lime into the chili dip."
+          },
+          {
+            "thai": "เธอคั้นน้ำส้มให้ลูกดื่ม",
+            "en": "She squeezes orange juice for her child to drink.",
+            "audio_src": "เธอคั้นน้ำส้มให้ลูกดื่ม",
+            "audio_en_src": "She squeezes orange juice for her child to drink."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-193",
@@ -13592,7 +13704,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "closely matched, well-balanced, very close",
+        "sentences": [
+          {
+            "thai": "ทีมสองทีมนี้ฝีมือสูสีกันมาก",
+            "en": "These two teams are very evenly matched.",
+            "audio_src": "ทีมสองทีมนี้ฝีมือสูสีกันมาก",
+            "audio_en_src": "These two teams are very evenly matched."
+          },
+          {
+            "thai": "ผลเลือกตั้งออกมาสูสี รู้ผลดึกเลย",
+            "en": "The election results were very close, we didn't know until late.",
+            "audio_src": "ผลเลือกตั้งออกมาสูสี รู้ผลดึกเลย",
+            "audio_en_src": "The election results were very close, we didn't know until late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-195",
@@ -13616,7 +13747,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to mix, combine, blend together",
+        "sentences": [
+          {
+            "thai": "ผสมแป้งกับน้ำให้เข้ากัน",
+            "en": "Mix the flour and water together well.",
+            "audio_src": "ผสมแป้งกับน้ำให้เข้ากัน",
+            "audio_en_src": "Mix the flour and water together well."
+          },
+          {
+            "thai": "อาหารจานนี้ผสมผสานหลายวัฒนธรรม",
+            "en": "This dish blends many cultures together.",
+            "audio_src": "อาหารจานนี้ผสมผสานหลายวัฒนธรรม",
+            "audio_en_src": "This dish blends many cultures together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-197",
@@ -13685,7 +13835,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "mission, task",
+        "sentences": [
+          {
+            "thai": "วันนี้มีภารกิจสำคัญต้องทำให้เสร็จ",
+            "en": "I have an important task to finish today.",
+            "audio_src": "วันนี้มีภารกิจสำคัญต้องทำให้เสร็จ",
+            "audio_en_src": "I have an important task to finish today."
+          },
+          {
+            "thai": "ทหารได้รับภารกิจลับ",
+            "en": "The soldiers were given a secret mission.",
+            "audio_src": "ทหารได้รับภารกิจลับ",
+            "audio_en_src": "The soldiers were given a secret mission."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-203",
@@ -13698,7 +13867,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "completely, totally, entirely",
+        "sentences": [
+          {
+            "thai": "หิวมากจนกินหมดเกลี้ยง",
+            "en": "I was so hungry I ate it all up.",
+            "audio_src": "หิวมากจนกินหมดเกลี้ยง",
+            "audio_en_src": "I was so hungry I ate it all up."
+          },
+          {
+            "thai": "ตั๋วคอนเสิร์ตขายเกลี้ยงภายในวันเดียว",
+            "en": "The concert tickets sold out completely within a day.",
+            "audio_src": "ตั๋วคอนเสิร์ตขายเกลี้ยงภายในวันเดียว",
+            "audio_en_src": "The concert tickets sold out completely within a day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-204",
@@ -13733,7 +13921,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "smooth, slick",
+        "sentences": [
+          {
+            "thai": "ครีมตัวนี้ทาแล้วผิวเนียนมาก",
+            "en": "After you put this cream on, your skin gets really smooth.",
+            "audio_src": "ครีมตัวนี้ทาแล้วผิวเนียนมาก",
+            "audio_en_src": "After you put this cream on, your skin gets really smooth."
+          },
+          {
+            "thai": "เค้กเนื้อเนียนนุ่มมาก",
+            "en": "The cake has a very smooth, soft texture.",
+            "audio_src": "เค้กเนื้อเนียนนุ่มมาก",
+            "audio_en_src": "The cake has a very smooth, soft texture."
+          }
+        ]
+      },
+      {
+        "meaning": "sly",
+        "sentences": [
+          {
+            "thai": "เขาเนียนแซงคิวเฉยเลย",
+            "en": "He just sneakily cut the line, no shame at all.",
+            "audio_src": "เขาเนียนแซงคิวเฉยเลย",
+            "audio_en_src": "He just sneakily cut the line, no shame at all."
+          },
+          {
+            "thai": "อย่ามาเนียนทำเป็นไม่รู้นะ",
+            "en": "Don't slyly play dumb and pretend you don't know.",
+            "audio_src": "อย่ามาเนียนทำเป็นไม่รู้นะ",
+            "audio_en_src": "Don't slyly play dumb and pretend you don't know."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-207",

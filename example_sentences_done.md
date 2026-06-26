@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1464 words**
+**Total: 1474 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -210,7 +210,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-168` : แปลก, แปลกประหลาด (strange, weird) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-175` : กระหาย (thirsty) : 1 meaning(s), 2 sentences
+- `chula-l6-177` : ล้วน (all, entirely) : 1 meaning(s), 2 sentences
+- `chula-l6-181` : ก้าน (stem (supporting part of a leaf, a flower); shaft, handle (e.g brush, umbrella)) : 2 meaning(s), 4 sentences
+- `chula-l6-182` : รอยเหี่ยวย่น (wrinkles) : 1 meaning(s), 2 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
+- `chula-l6-191` : น่าหลงใหล (fascinating) : 1 meaning(s), 2 sentences
+- `chula-l6-192` : บีบ, คั้น (to squeeze) : 1 meaning(s), 2 sentences
+- `chula-l6-194` : สูสี (closely matched, well-balanced, very close) : 1 meaning(s), 2 sentences
+- `chula-l6-196` : ผสม, ผสมผสาน (to mix, combine, blend together) : 1 meaning(s), 2 sentences
+- `chula-l6-202` : ภารกิจ (mission, task) : 1 meaning(s), 2 sentences
+- `chula-l6-203` : เกลี้ยง (completely, totally, entirely) : 1 meaning(s), 2 sentences
+- `chula-l6-206` : เนียน (smooth, slick; sly) : 2 meaning(s), 4 sentences
 - `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences
 - `chula-l6-235` : ซอย (alley; sliced, minced (food)) : 2 meaning(s), 4 sentences
