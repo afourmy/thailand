@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1674 words**
+**Total: 1684 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -596,10 +596,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-018` : ประดับ (to decorate, to adorn) : 1 meaning(s), 2 sentences
 - `tamago-l3-019` : สูตร (recipe; formula) : 2 meaning(s), 4 sentences
 - `tamago-l3-021` : ตั้ง (to set up, to arrange, established; up to, as much as) : 2 meaning(s), 4 sentences
+- `tamago-l3-022` : ลงมือ (to start doing something, to "get down to it") : 1 meaning(s), 2 sentences
+- `tamago-l3-023` : แยกออก (to be able to distinguish; to separate out) : 2 meaning(s), 4 sentences
+- `tamago-l3-025` : บึกบึน (muscular, sturdy, robust) : 1 meaning(s), 2 sentences
+- `tamago-l3-028` : เข้าชุด (to match, to go well together (clothing, set)) : 1 meaning(s), 2 sentences
+- `tamago-l3-029` : ออกงาน (to attend an event, to go to an event) : 1 meaning(s), 2 sentences
+- `tamago-l3-030` : ร้านซักอบรีด (laundry shop (wash-dry-iron)) : 1 meaning(s), 2 sentences
+- `tamago-l3-031` : บริจาค (to donate) : 1 meaning(s), 2 sentences
+- `tamago-l3-032` : คนไร้ที่อยู่ (homeless person) : 1 meaning(s), 2 sentences
+- `tamago-l3-034` : หาว่า (to accuse (e.g without proof), to claim (something negative)) : 1 meaning(s), 2 sentences
 - `tamago-l3-035` : โปรด (favorite) : 1 meaning(s), 2 sentences
 - `tamago-l3-036` : คุ้น, คุ้นเคย, คุ้นชิน (familiar, recognizable; to be familiar with, used to) : 2 meaning(s), 4 sentences
 - `tamago-l3-038` : แย่แล้ว ("oh shoot", "oh no") : 1 meaning(s), 2 sentences
 - `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
+- `tamago-l3-040` : สุดโต่ง (extreme, radical) : 1 meaning(s), 2 sentences
 - `tamago-l3-045` : งานบ้าน (housework) : 1 meaning(s), 2 sentences
 - `tamago-l3-046` : เอาเหอะ ("never mind", "whatever", "forget about it") : 1 meaning(s), 2 sentences
 - `tamago-l3-049` : เพียบ (a lot, plenty, full, tons of) : 1 meaning(s), 2 sentences

@@ -31808,7 +31808,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to start doing something, to \"get down to it\"",
+        "sentences": [
+          {
+            "thai": "เลิกคิดได้แล้ว ลงมือทำเลยดีกว่า",
+            "en": "Stop thinking, just get down to doing it.",
+            "audio_src": "เลิกคิดได้แล้ว ลงมือทำเลยดีกว่า",
+            "audio_en_src": "Stop thinking, just get down to doing it."
+          },
+          {
+            "thai": "พอได้แผนแล้วเราก็ลงมือทันที",
+            "en": "Once we had the plan, we got started right away.",
+            "audio_src": "พอได้แผนแล้วเราก็ลงมือทันที",
+            "audio_en_src": "Once we had the plan, we got started right away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-023",
@@ -31820,7 +31839,43 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be able to distinguish",
+        "sentences": [
+          {
+            "thai": "ฝาแฝดคู่นี้หน้าเหมือนกันจนแยกไม่ออก",
+            "en": "These twins look so alike I can't tell them apart.",
+            "audio_src": "ฝาแฝดคู่นี้หน้าเหมือนกันจนแยกไม่ออก",
+            "audio_en_src": "These twins look so alike I can't tell them apart."
+          },
+          {
+            "thai": "เขาแยกเสียงนกแต่ละชนิดออกได้",
+            "en": "He can distinguish the calls of each kind of bird.",
+            "audio_src": "เขาแยกเสียงนกแต่ละชนิดออกได้",
+            "audio_en_src": "He can distinguish the calls of each kind of bird."
+          }
+        ]
+      },
+      {
+        "meaning": "to separate out",
+        "sentences": [
+          {
+            "thai": "ช่วยแยกขยะเปียกออกจากขยะแห้ง",
+            "en": "Please separate the wet trash from the dry trash.",
+            "audio_src": "ช่วยแยกขยะเปียกออกจากขยะแห้ง",
+            "audio_en_src": "Please separate the wet trash from the dry trash."
+          },
+          {
+            "thai": "แยกไข่ขาวออกจากไข่แดงก่อน",
+            "en": "Separate the egg white from the yolk first.",
+            "audio_src": "แยกไข่ขาวออกจากไข่แดงก่อน",
+            "audio_en_src": "Separate the egg white from the yolk first."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-024",
@@ -31842,7 +31897,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "muscular, sturdy, robust",
+        "sentences": [
+          {
+            "thai": "ชาวนาตัวบึกบึนจากการทำงานหนัก",
+            "en": "The farmer is sturdy from hard work.",
+            "audio_src": "ชาวนาตัวบึกบึนจากการทำงานหนัก",
+            "audio_en_src": "The farmer is sturdy from hard work."
+          },
+          {
+            "thai": "เขาร่างกายบึกบึน ยกของหนักได้ทั้งวัน",
+            "en": "He has a robust build and can lift heavy things all day.",
+            "audio_src": "เขาร่างกายบึกบึน ยกของหนักได้ทั้งวัน",
+            "audio_en_src": "He has a robust build and can lift heavy things all day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-026",
@@ -31875,7 +31949,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to match, to go well together (clothing, set)",
+        "sentences": [
+          {
+            "thai": "กระเป๋ากับรองเท้าเข้าชุดกันพอดี",
+            "en": "The bag and shoes match perfectly.",
+            "audio_src": "กระเป๋ากับรองเท้าเข้าชุดกันพอดี",
+            "audio_en_src": "The bag and shoes match perfectly."
+          },
+          {
+            "thai": "เธอเลือกเสื้อกับกระโปรงให้เข้าชุดกัน",
+            "en": "She picked a top and skirt that go together.",
+            "audio_src": "เธอเลือกเสื้อกับกระโปรงให้เข้าชุดกัน",
+            "audio_en_src": "She picked a top and skirt that go together."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-029",
@@ -31887,7 +31980,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to attend an event, to go to an event",
+        "sentences": [
+          {
+            "thai": "คืนนี้ดาราหลายคนออกงานเปิดตัวหนัง",
+            "en": "Tonight many celebrities attended the film's premiere.",
+            "audio_src": "คืนนี้ดาราหลายคนออกงานเปิดตัวหนัง",
+            "audio_en_src": "Tonight many celebrities attended the film's premiere."
+          },
+          {
+            "thai": "เธอแต่งตัวสวยเตรียมไปออกงาน",
+            "en": "She dressed up beautifully to go to the event.",
+            "audio_src": "เธอแต่งตัวสวยเตรียมไปออกงาน",
+            "audio_en_src": "She dressed up beautifully to go to the event."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-030",
@@ -31899,7 +32011,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "laundry shop (wash-dry-iron)",
+        "sentences": [
+          {
+            "thai": "เอาผ้าไปส่งที่ร้านซักอบรีด",
+            "en": "Take the clothes to the laundry shop.",
+            "audio_src": "เอาผ้าไปส่งที่ร้านซักอบรีด",
+            "audio_en_src": "Take the clothes to the laundry shop."
+          },
+          {
+            "thai": "ร้านซักอบรีดแถวนี้คิดราคาเป็นกิโล",
+            "en": "The laundry shop around here charges by the kilo.",
+            "audio_src": "ร้านซักอบรีดแถวนี้คิดราคาเป็นกิโล",
+            "audio_en_src": "The laundry shop around here charges by the kilo."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-031",
@@ -31912,7 +32043,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to donate",
+        "sentences": [
+          {
+            "thai": "เขาบริจาคเสื้อผ้าเก่าให้คนยากจน",
+            "en": "He donated his old clothes to the poor.",
+            "audio_src": "เขาบริจาคเสื้อผ้าเก่าให้คนยากจน",
+            "audio_en_src": "He donated his old clothes to the poor."
+          },
+          {
+            "thai": "หลายคนบริจาคเงินช่วยผู้ประสบภัย",
+            "en": "Many people donated money to help disaster victims.",
+            "audio_src": "หลายคนบริจาคเงินช่วยผู้ประสบภัย",
+            "audio_en_src": "Many people donated money to help disaster victims."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-032",
@@ -31924,7 +32074,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "homeless person",
+        "sentences": [
+          {
+            "thai": "มีคนไร้ที่อยู่นอนอยู่ใต้สะพาน",
+            "en": "There are homeless people sleeping under the bridge.",
+            "audio_src": "มีคนไร้ที่อยู่นอนอยู่ใต้สะพาน",
+            "audio_en_src": "There are homeless people sleeping under the bridge."
+          },
+          {
+            "thai": "มูลนิธิแจกอาหารให้คนไร้ที่อยู่",
+            "en": "The foundation hands out food to homeless people.",
+            "audio_src": "มูลนิธิแจกอาหารให้คนไร้ที่อยู่",
+            "audio_en_src": "The foundation hands out food to homeless people."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-033",
@@ -31947,7 +32116,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to accuse (e.g without proof), to claim (something negative)",
+        "sentences": [
+          {
+            "thai": "เขาหาว่าฉันขโมยของ ทั้งที่ไม่ได้ทำ",
+            "en": "He accused me of stealing, even though I didn't.",
+            "audio_src": "เขาหาว่าฉันขโมยของ ทั้งที่ไม่ได้ทำ",
+            "audio_en_src": "He accused me of stealing, even though I didn't."
+          },
+          {
+            "thai": "อย่าหาว่าฉันโกหกถ้าไม่มีหลักฐาน",
+            "en": "Don't accuse me of lying if you have no proof.",
+            "audio_src": "อย่าหาว่าฉันโกหกถ้าไม่มีหลักฐาน",
+            "audio_en_src": "Don't accuse me of lying if you have no proof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-035",
@@ -32143,7 +32331,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "extreme, radical",
+        "sentences": [
+          {
+            "thai": "ความคิดของเขาสุดโต่งเกินไป",
+            "en": "His ideas are too extreme.",
+            "audio_src": "ความคิดของเขาสุดโต่งเกินไป",
+            "audio_en_src": "His ideas are too extreme."
+          },
+          {
+            "thai": "การลดน้ำหนักแบบสุดโต่งเป็นอันตราย",
+            "en": "Extreme weight loss is dangerous.",
+            "audio_src": "การลดน้ำหนักแบบสุดโต่งเป็นอันตราย",
+            "audio_en_src": "Extreme weight loss is dangerous."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-041",
