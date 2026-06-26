@@ -42902,7 +42902,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to prove oneself",
+        "sentences": [
+          {
+            "thai": "เขาทำงานหนักเพื่อพิสูจน์ตัวเองให้ทุกคนเห็น",
+            "en": "He works hard to prove himself to everyone.",
+            "audio_src": "เขาทำงานหนักเพื่อพิสูจน์ตัวเองให้ทุกคนเห็น",
+            "audio_en_src": "He works hard to prove himself to everyone."
+          },
+          {
+            "thai": "นักกีฬาหน้าใหม่ต้องพิสูจน์ตัวเองในสนาม",
+            "en": "The rookie athlete has to prove himself on the field.",
+            "audio_src": "นักกีฬาหน้าใหม่ต้องพิสูจน์ตัวเองในสนาม",
+            "audio_en_src": "The rookie athlete has to prove himself on the field."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-546",
@@ -42924,7 +42943,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "bare face (without makeup)",
+        "sentences": [
+          {
+            "thai": "เธอกล้าออกจากบ้านด้วยหน้าสด",
+            "en": "She's confident enough to leave home with a bare face.",
+            "audio_src": "เธอกล้าออกจากบ้านด้วยหน้าสด",
+            "audio_en_src": "She's confident enough to leave home with a bare face."
+          },
+          {
+            "thai": "หน้าสดของเขาดูเด็กกว่าตอนแต่งหน้า",
+            "en": "His bare face looks younger than with makeup.",
+            "audio_src": "หน้าสดของเขาดูเด็กกว่าตอนแต่งหน้า",
+            "audio_en_src": "His bare face looks younger than with makeup."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-548",
@@ -42956,7 +42994,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to let slip (in conversation), to say something by accident",
+        "sentences": [
+          {
+            "thai": "เขาพลั้งปากเล่าความลับออกไป",
+            "en": "He accidentally let the secret slip out.",
+            "audio_src": "เขาพลั้งปากเล่าความลับออกไป",
+            "audio_en_src": "He accidentally let the secret slip out."
+          },
+          {
+            "thai": "ฉันพลั้งปากบอกไปว่าเซอร์ไพรส์คืออะไร",
+            "en": "I accidentally let slip what the surprise was.",
+            "audio_src": "ฉันพลั้งปากบอกไปว่าเซอร์ไพรส์คืออะไร",
+            "audio_en_src": "I accidentally let slip what the surprise was."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-551",
@@ -43032,7 +43089,43 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "free from, escape from",
+        "sentences": [
+          {
+            "thai": "ในที่สุดเขาก็พ้นจากหนี้สินทั้งหมด",
+            "en": "Finally he became free from all his debts.",
+            "audio_src": "ในที่สุดเขาก็พ้นจากหนี้สินทั้งหมด",
+            "audio_en_src": "Finally he became free from all his debts."
+          },
+          {
+            "thai": "ผ่านช่วงยากมาได้ ตอนนี้พ้นวิกฤตแล้ว",
+            "en": "Having gotten through the hard times, he's now past the crisis.",
+            "audio_src": "ผ่านช่วงยากมาได้ ตอนนี้พ้นวิกฤตแล้ว",
+            "audio_en_src": "Having gotten through the hard times, he's now past the crisis."
+          }
+        ]
+      },
+      {
+        "meaning": "can't avoid, inevitably ends up being...",
+        "sentences": [
+          {
+            "thai": "หนียังไงก็ไม่พ้นความจริง",
+            "en": "No matter how you run, you can't escape the truth.",
+            "audio_src": "หนียังไงก็ไม่พ้นความจริง",
+            "audio_en_src": "No matter how you run, you can't escape the truth."
+          },
+          {
+            "thai": "สุดท้ายงานนี้ก็ไม่พ้นต้องทำเอง",
+            "en": "In the end, this job inevitably falls to me to do myself.",
+            "audio_src": "สุดท้ายงานนี้ก็ไม่พ้นต้องทำเอง",
+            "audio_en_src": "In the end, this job inevitably falls to me to do myself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-556",
@@ -43044,7 +43137,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "plain, simple, ordinary",
+        "sentences": [
+          {
+            "thai": "เขาชอบแต่งตัวสไตล์พื้นๆ ไม่หวือหวา",
+            "en": "He likes a plain style, nothing flashy.",
+            "audio_src": "เขาชอบแต่งตัวสไตล์พื้นๆ ไม่หวือหวา",
+            "audio_en_src": "He likes a plain style, nothing flashy."
+          },
+          {
+            "thai": "เมนูร้านนี้พื้นๆ แต่อร่อย",
+            "en": "This shop's menu is simple but tasty.",
+            "audio_src": "เมนูร้านนี้พื้นๆ แต่อร่อย",
+            "audio_en_src": "This shop's menu is simple but tasty."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-557",
@@ -43098,7 +43210,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "queen of, powerful woman",
+        "sentences": [
+          {
+            "thai": "เธอเป็นเจ้าแม่วงการเครื่องสำอาง",
+            "en": "She's the queen of the cosmetics industry.",
+            "audio_src": "เธอเป็นเจ้าแม่วงการเครื่องสำอาง",
+            "audio_en_src": "She's the queen of the cosmetics industry."
+          },
+          {
+            "thai": "ผู้หญิงคนนั้นเป็นเจ้าแม่ค้าส่งในตลาด",
+            "en": "That woman is the powerful wholesale boss in the market.",
+            "audio_src": "ผู้หญิงคนนั้นเป็นเจ้าแม่ค้าส่งในตลาด",
+            "audio_en_src": "That woman is the powerful wholesale boss in the market."
+          }
+        ]
+      },
+      {
+        "meaning": "goddess",
+        "sentences": [
+          {
+            "thai": "คนไปไหว้เจ้าแม่กวนอิมขอพร",
+            "en": "People go to pray to the goddess Guanyin for blessings.",
+            "audio_src": "คนไปไหว้เจ้าแม่กวนอิมขอพร",
+            "audio_en_src": "People go to pray to the goddess Guanyin for blessings."
+          },
+          {
+            "thai": "ชาวบ้านเชื่อว่าเจ้าแม่คุ้มครองหมู่บ้าน",
+            "en": "The villagers believe the goddess protects the village.",
+            "audio_src": "ชาวบ้านเชื่อว่าเจ้าแม่คุ้มครองหมู่บ้าน",
+            "audio_en_src": "The villagers believe the goddess protects the village."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-562",
@@ -43150,7 +43298,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "tedious, repetitive and boring",
+        "sentences": [
+          {
+            "thai": "งานประจำวันซ้ำซากจำเจจนเบื่อ",
+            "en": "The daily work is so repetitive and boring.",
+            "audio_src": "งานประจำวันซ้ำซากจำเจจนเบื่อ",
+            "audio_en_src": "The daily work is so repetitive and boring."
+          },
+          {
+            "thai": "ชีวิตเขาซ้ำซากจำเจไม่มีอะไรตื่นเต้น",
+            "en": "His life is monotonous with nothing exciting.",
+            "audio_src": "ชีวิตเขาซ้ำซากจำเจไม่มีอะไรตื่นเต้น",
+            "audio_en_src": "His life is monotonous with nothing exciting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-567",
@@ -43162,7 +43329,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to travel around the world",
+        "sentences": [
+          {
+            "thai": "ความฝันของเธอคือได้เที่ยวรอบโลก",
+            "en": "Her dream is to travel around the world.",
+            "audio_src": "ความฝันของเธอคือได้เที่ยวรอบโลก",
+            "audio_en_src": "Her dream is to travel around the world."
+          },
+          {
+            "thai": "เขาเก็บเงินหลายปีเพื่อไปเที่ยวรอบโลก",
+            "en": "He saved money for years to travel around the world.",
+            "audio_src": "เขาเก็บเงินหลายปีเพื่อไปเที่ยวรอบโลก",
+            "audio_en_src": "He saved money for years to travel around the world."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-568",
@@ -43174,7 +43360,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to settle down (in a place)",
+        "sentences": [
+          {
+            "thai": "หลังแต่งงานเขาปักหลักอยู่ที่เชียงใหม่",
+            "en": "After getting married, he settled down in Chiang Mai.",
+            "audio_src": "หลังแต่งงานเขาปักหลักอยู่ที่เชียงใหม่",
+            "audio_en_src": "After getting married, he settled down in Chiang Mai."
+          },
+          {
+            "thai": "เธอตัดสินใจปักหลักทำธุรกิจที่บ้านเกิด",
+            "en": "She decided to settle down and run a business in her hometown.",
+            "audio_src": "เธอตัดสินใจปักหลักทำธุรกิจที่บ้านเกิด",
+            "audio_en_src": "She decided to settle down and run a business in her hometown."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-569",
@@ -43231,7 +43436,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "expert, proficient, skilled at",
+        "sentences": [
+          {
+            "thai": "เขาชำนาญเรื่องซ่อมรถมาก",
+            "en": "He's very skilled at fixing cars.",
+            "audio_src": "เขาชำนาญเรื่องซ่อมรถมาก",
+            "audio_en_src": "He's very skilled at fixing cars."
+          },
+          {
+            "thai": "พ่อครัวชำนาญในการทำอาหารไทย",
+            "en": "The chef is proficient at making Thai food.",
+            "audio_src": "พ่อครัวชำนาญในการทำอาหารไทย",
+            "audio_en_src": "The chef is proficient at making Thai food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-572",

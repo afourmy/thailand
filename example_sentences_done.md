@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1864 words**
+**Total: 1874 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -847,8 +847,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-530` : ใส่ร้าย (to slander, to make false damaging statements about someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-531` : เข้าข้าง (to take sides, to side with) : 1 meaning(s), 2 sentences
 - `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences
+- `tamago-l3-545` : พิสูจน์ตัวเอง (to prove oneself) : 1 meaning(s), 2 sentences
+- `tamago-l3-547` : หน้าสด (bare face (without makeup)) : 1 meaning(s), 2 sentences
+- `tamago-l3-550` : พลั้งปาก (to let slip (in conversation), to say something by accident) : 1 meaning(s), 2 sentences
 - `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
+- `tamago-l3-555` : พ้น - ไม่พ้น (free from, escape from - can't avoid, inevitably ends up being...) : 2 meaning(s), 4 sentences
+- `tamago-l3-556` : พื้นๆ (plain, simple, ordinary) : 1 meaning(s), 2 sentences
+- `tamago-l3-561` : เจ้าแม่ (queen of, powerful woman; goddess) : 2 meaning(s), 4 sentences
+- `tamago-l3-566` : ซ้ำซากจำเจ (tedious, repetitive and boring) : 1 meaning(s), 2 sentences
+- `tamago-l3-567` : เที่ยวรอบโลก (to travel around the world) : 1 meaning(s), 2 sentences
+- `tamago-l3-568` : ปักหลัก (to settle down (in a place)) : 1 meaning(s), 2 sentences
 - `tamago-l3-570` : ทำใจ (to come to terms with something, to accept) : 1 meaning(s), 2 sentences
+- `tamago-l3-571` : ชำนาญ (expert, proficient, skilled at) : 1 meaning(s), 2 sentences
 - `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
 - `tamago-l3-582` : เสมอ (even, tied, to draw (in a game); always) : 2 meaning(s), 4 sentences
 - `tamago-l3-609` : งานอดิเรก (hobby) : 1 meaning(s), 2 sentences
