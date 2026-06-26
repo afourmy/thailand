@@ -9860,9 +9860,9 @@
         "sentences": [
           {
             "thai": "หนังเรื่องนี้เฉยๆ ไม่สนุกเท่าไหร่",
-            "en": "This movie was just so-so, not that fun.",
+            "en": "This movie was just so so, not that fun.",
             "audio_src": "หนังเรื่องนี้เฉยๆ ไม่สนุกเท่าไหร่",
-            "audio_en_src": "This movie was just so-so, not that fun."
+            "audio_en_src": "This movie was just so so, not that fun."
           },
           {
             "thai": "อยู่เฉยๆ อย่าเพิ่งไปไหน",
@@ -13041,7 +13041,7 @@
   {
     "id": "tamago-l12-098",
     "thai": "งั้นๆ",
-    "english": "so-so, mediocre",
+    "english": "so so, mediocre",
     "frequency": "common",
     "topic": "expressions",
     "sources": [
@@ -20106,7 +20106,7 @@
           },
           {
             "thai": "อาหารร้านนี้เฉยๆ ไม่ได้อร่อยมาก",
-            "en": "The food here is just so-so, not that great.",
+            "en": "The food here is just so so, not that great.",
             "audio_src": "อาหารร้านนี้เฉยๆ ไม่ได้อร่อยมาก",
             "audio_en_src": "The food here is just so-so, not that great."
           }
@@ -20460,7 +20460,7 @@
           },
           {
             "thai": "เนื้อเรื่องสนุกแต่ตอนจบเฉยๆ",
-            "en": "The story is fun, but the ending is just so-so.",
+            "en": "The story is fun, but the ending is just so so.",
             "audio_src": "เนื้อเรื่องสนุกแต่ตอนจบเฉยๆ",
             "audio_en_src": "The story is fun, but the ending is just so-so."
           }
@@ -80128,7 +80128,7 @@
   {
     "id": "yt-c15-058",
     "thai": "อ่อม, อ่อมๆ ยมๆ",
-    "english": "(slang) not good enough, meh, so-so, not bad not great",
+    "english": "(slang) not good enough, meh, so so, not bad not great",
     "frequency": "common",
     "topic": "slang",
     "sources": [
