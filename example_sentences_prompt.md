@@ -2,7 +2,7 @@ Each word in the deck comes with an English and a Thai translation. But a word i
 
 **Which words:** we now add example sentences to *common* words in the *general* topic only, i.e. words whose `frequency` field in `vocab.json` is `"common"` **and** whose `topic` field is `"general"`. The `everyday` words are already done; skip the other frequencies (`occasional`, `rare`) and every other topic for now. Work through the matching words that don't yet have an `examples` field, ten at a time (see `example_sentences_done.md` for what's already done).
 
-**Sanity-check each card first.** Before writing any sentences for a card, and separately for *each* of its meanings (the semicolon-separated senses in `english`), confirm two things: (1) the Thai word and that English gloss genuinely correspond, and (2) you can realistically produce a Thai sentence with a faithful English translation where *both* read as natural, idiomatic language. If a meaning fails either test, do not generate sentences for it and do not adjust the gloss to make it fit. Generate sentences only for the meanings that pass, and collect every skipped meaning. When the batch is done, report the skipped ones to me with, for each, which test failed: the gloss doesn't match the Thai (test 1), or the meaning is genuine but can't be put into a natural bilingual sentence pair (test 2). If *all* of a card's meanings fail, skip the whole card (leave it with no `examples` field) and include it in the report. Do not invent or reword translations to get a card to pass.
+**Sanity-check each card first.** Before writing any sentences for a card, check *every* one of its meanings (the semicolon-separated senses in `english`) against two tests: (1) the Thai word and that English gloss genuinely correspond, and (2) you can realistically produce a Thai sentence with a faithful English translation where *both* read as natural, idiomatic language. The whole card has to pass: if even one meaning fails either test, skip the entire card (leave it with no `examples` field), do not generate sentences for any of its meanings, and do not adjust a gloss to make it fit. Collect every skipped card and, when the batch is done, report them to me with, for each, which meaning failed and which test: the gloss doesn't match the Thai (test 1), or the meaning is genuine but can't be put into a natural bilingual sentence pair (test 2). Do not invent or reword translations to get a card to pass.
 
 These sentences should:
 
@@ -50,8 +50,10 @@ The vocabulary lives in `vocab.json`: a flat JSON array of word objects, each wi
 - Each group's `sentences` follow all the rules above (at least two per meaning, each `thai` with its `en` translation).
 - Do not add any other fields to the sentences by hand. The audio generator adds `audio_src` / `audio_en_src` to each sentence itself, as provenance; leave those to it.
 
-## When you are done
+## When you are done with each batch of ten
 
-1. **Second pass.** Re-read everything you wrote and check there are no translation issues and no discrepancies between the Thai and the English: every Thai sentence and its translation should mean the same thing, with nothing added, dropped, or mismatched.
+Do these after every batch of ten words, not only at the very end:
+
+1. **Second pass.** Re-read everything you wrote and check there are no translation issues and no discrepancies between the Thai and the English: every Thai sentence and its translation should mean the same thing, with nothing added, dropped, or mismatched. Report the result of this pass to me for the batch.
 2. **Update the index.** Run `python3 list_examples.py` to regenerate `example_sentences_done.md` (the list of which words now have examples).
 3. **Generate the audio.** Run `source .tts-credentials && python3 gen_example_audio.py`. It synthesizes a Thai and an English clip per sentence, inserts the spoken pauses described above, writes the files into the sharded `audio/` layout, and records the exact text it spoke (so a later edit to a sentence is detected and only that clip is regenerated). Run it again after any sentence change.
