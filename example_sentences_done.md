@@ -2,13 +2,23 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1287 words**
+**Total: 1294 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
+- `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
+- `chula-l4-006` : เหตุการณ์ (event, incident) : 1 meaning(s), 2 sentences
 - `chula-l4-007` : เครียด (stressed) : 1 meaning(s), 2 sentences
+- `chula-l4-008` : เอกชน (private, non-governmental) : 1 meaning(s), 2 sentences
 - `chula-l4-009` : คอย, รอคอย (to wait, await) : 1 meaning(s), 2 sentences
 - `chula-l4-010` : ส่วน (as for; while; part) : 3 meaning(s), 6 sentences
+- `chula-l4-013` : สุนัข (dog (polite)) : 1 meaning(s), 2 sentences
+- `chula-l4-031` : บรรยาย (to describe; to lecture) : 2 meaning(s), 4 sentences
+- `chula-l4-033` : ลักษณะ (characteristic) : 1 meaning(s), 2 sentences
+- `chula-l4-034` : ทบทวน (to review (e.g a lesson)) : 1 meaning(s), 2 sentences
+- `chula-l4-035` : เครื่องหมาย (sign, symbol) : 1 meaning(s), 2 sentences
+- `chula-l4-036` : ช่อง (channel; gap, hole; (service) counter, window) : 3 meaning(s), 6 sentences
+- `chula-l4-038` : หุ่นยนต์ (robot) : 1 meaning(s), 2 sentences
 - `chula-l4-045` : วัฒนธรรม (culture) : 1 meaning(s), 2 sentences
 - `chula-l4-046` : ประเพณี (tradition) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
@@ -31,15 +41,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-087` : เชย (dated, outdated, old-fashioned) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
-- `chula-l6-207` : เฉย (plain, just, simple; 'not as expected', 'not like one thought') : 2 meaning(s), 4 sentences
+- `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences
 - `chula-l6-235` : ซอย (alley; sliced, minced (food)) : 2 meaning(s), 4 sentences
 - `chula-l6-239` : คน (person; to stir (food)) : 2 meaning(s), 4 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
-- `tamago-l12-003` : ...ไปก่อน ('... for now') : 1 meaning(s), 2 sentences
-- `tamago-l12-006` : เรื่อยๆ (to keep doing sth (continuously)) : 1 meaning(s), 2 sentences
+- `tamago-l12-003` : ...ไปก่อน ("... for now") : 1 meaning(s), 2 sentences
+- `tamago-l12-006` : เรื่อยๆ (to keep doing something (continuously)) : 1 meaning(s), 2 sentences
 - `tamago-l12-008` : ไหว (to be able to, have the capacity (physical or mental) to) : 1 meaning(s), 2 sentences
 - `tamago-l12-009` : กดปุ่ม (to press a button) : 1 meaning(s), 2 sentences
 - `tamago-l12-026` : กล้วย (banana) : 1 meaning(s), 2 sentences
@@ -56,7 +66,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-089` : คิด (to think; to charge (a price)) : 2 meaning(s), 4 sentences
 - `tamago-l12-092` : คืน (to return (something)) : 1 meaning(s), 2 sentences
 - `tamago-l12-094` : คุ้ม (worthwhile, to be worth it) : 1 meaning(s), 2 sentences
-- `tamago-l12-097` : งอน (to sulk, to be in a huff (esp. couples)) : 1 meaning(s), 2 sentences
+- `tamago-l12-097` : งอน (to sulk, to be in a huff (especially couples)) : 1 meaning(s), 2 sentences
 - `tamago-l12-105` : จัด (to organize, to arrange) : 1 meaning(s), 2 sentences
 - `tamago-l12-109` : จิ้ม (to dip (e.g food in sauce)) : 1 meaning(s), 2 sentences
 - `tamago-l12-110` : จืด, จืดจาง (bland, tasteless) : 1 meaning(s), 2 sentences
@@ -69,7 +79,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l12-147` : ตลาดนัด (temporary market, flea market) : 1 meaning(s), 2 sentences
 - `tamago-l12-152` : ตั้งนาน (for so long, in a long time) : 1 meaning(s), 2 sentences
-- `tamago-l12-155` : ตามสบาย ('please go ahead', 'as you like') : 1 meaning(s), 2 sentences
+- `tamago-l12-155` : ตามสบาย ("please go ahead", "as you like") : 1 meaning(s), 2 sentences
 - `tamago-l12-163` : ตู้กดเงิน, ตู้เอทีเอ็ม (ATM) : 1 meaning(s), 2 sentences
 - `tamago-l12-165` : ต่อราคา (to negotiate the price, haggle) : 1 meaning(s), 2 sentences
 - `tamago-l12-167` : ต่อหน้า (in front of, in the presence of) : 1 meaning(s), 2 sentences
@@ -86,11 +96,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-198` : ทำตก (to drop (accidentally)) : 1 meaning(s), 2 sentences
 - `tamago-l12-217` : นวดฝ่าเท้า (foot massage) : 1 meaning(s), 2 sentences
 - `tamago-l12-218` : นอกใจ (to cheat on someone (be unfaithful)) : 1 meaning(s), 2 sentences
-- `tamago-l12-223` : นั่นน่ะสิ ('that's right!', 'good point!') : 1 meaning(s), 2 sentences
+- `tamago-l12-223` : นั่นน่ะสิ ("that's right!", "good point!") : 1 meaning(s), 2 sentences
 - `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
 - `tamago-l12-237` : นึ่ง (to steam (food)) : 1 meaning(s), 2 sentences
-- `tamago-l12-240` : น่าสงสาร ('poor thing', pitiful) : 1 meaning(s), 2 sentences
+- `tamago-l12-240` : น่าสงสาร ("poor thing", pitiful) : 1 meaning(s), 2 sentences
 - `tamago-l12-243` : น้ำจิ้ม (dipping sauce) : 1 meaning(s), 2 sentences
 - `tamago-l12-252` : บะหมี่ (egg noodle) : 1 meaning(s), 2 sentences
 - `tamago-l12-254` : บังเอิญ (by chance, coincidentally; to happen (by chance)) : 2 meaning(s), 4 sentences
@@ -154,7 +164,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-454` : หัวหน้า (boss, head, supervisor) : 1 meaning(s), 2 sentences
 - `tamago-l12-456` : หั่น (to chop, to slice) : 1 meaning(s), 2 sentences
 - `tamago-l12-461` : ห่อ (to wrap) : 1 meaning(s), 2 sentences
-- `tamago-l12-469` : อย่าง (classifier for abstract things, type / kind) : 1 meaning(s), 2 sentences
+- `tamago-l12-469` : อย่าง (classifier for abstract things, type, kind) : 1 meaning(s), 2 sentences
 - `tamago-l12-475` : อะไรพวกนี้ (things like that) : 1 meaning(s), 2 sentences
 - `tamago-l12-476` : อะไรแบบนี้ (stuff like that, things like this) : 1 meaning(s), 2 sentences
 - `tamago-l12-480` : อาจารย์ (university professor; teacher (respectful)) : 2 meaning(s), 4 sentences
@@ -175,15 +185,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-559` : เล่ม (classifier for books) : 1 meaning(s), 2 sentences
 - `tamago-l12-563` : เศร้า (sad (extended/deep sadness)) : 1 meaning(s), 2 sentences
 - `tamago-l12-566` : เสีย (to waste, to spend; to be broken) : 2 meaning(s), 4 sentences
-- `tamago-l12-567` : เสียดาย ('it's a shame', 'what a pity') : 1 meaning(s), 2 sentences
+- `tamago-l12-567` : เสียดาย ("it's a shame", "what a pity") : 1 meaning(s), 2 sentences
 - `tamago-l12-568` : เสียใจ (sad (short-term sadness), sorry) : 1 meaning(s), 2 sentences
-- `tamago-l12-582` : เอาน่า ('come on!', 'let's do it!' (persuade or encourage)) : 1 meaning(s), 2 sentences
-- `tamago-l12-583` : เอาใหม่ ('try again', 'do it again') : 1 meaning(s), 2 sentences
+- `tamago-l12-582` : เอาน่า ("come on!", "let's do it!" (persuade or encourage)) : 1 meaning(s), 2 sentences
+- `tamago-l12-583` : เอาใหม่ ("try again", "do it again") : 1 meaning(s), 2 sentences
 - `tamago-l12-586` : แจก (to give away, to distribute) : 1 meaning(s), 2 sentences
 - `tamago-l12-590` : แถม (plus, moreover; free extra item with purchase) : 2 meaning(s), 4 sentences
 - `tamago-l12-594` : แปลกใจ (surprised) : 1 meaning(s), 2 sentences
 - `tamago-l12-595` : แป้ง (powder; flour, starch) : 2 meaning(s), 4 sentences
-- `tamago-l12-607` : แล้วไง ('and?', 'so what?') : 1 meaning(s), 2 sentences
+- `tamago-l12-607` : แล้วไง ("and?", "so what?") : 1 meaning(s), 2 sentences
 - `tamago-l12-608` : แหวน (ring (jewelry)) : 1 meaning(s), 2 sentences
 - `tamago-l12-611` : โกง (to cheat, to swindle, to commit fraud) : 1 meaning(s), 2 sentences
 - `tamago-l12-615` : โดน (to be exposed to (e.g rain, sun, water); to get (passive)) : 2 meaning(s), 4 sentences
@@ -197,23 +207,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-635` : ไข่เจียว (Thai omelette) : 1 meaning(s), 2 sentences
 - `tamago-l12-640` : ไม่กี่ (not many, a few) : 1 meaning(s), 2 sentences
 - `tamago-l12-643` : ไม่งั้น (otherwise, if not) : 1 meaning(s), 2 sentences
-- `tamago-l12-645` : ไม่มีทาง ('no way!', impossible) : 1 meaning(s), 2 sentences
+- `tamago-l12-645` : ไม่มีทาง ("no way!", impossible) : 1 meaning(s), 2 sentences
 - `tamago-l12-654` : ไหน (where; which) : 2 meaning(s), 4 sentences
 - `tamago-l12-657` : ไอ้ ((slang) rude pronoun marker for males) : 1 meaning(s), 2 sentences
 - `thai9k-019` : หัวหอม (onion) : 1 meaning(s), 2 sentences
 - `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
-- `tamago-l3-006` : ใช้ได้ (good quality, 'okay', decent, usable) : 1 meaning(s), 2 sentences
-- `tamago-l3-007` : ไม่น่าเลย ('that's too bad', 'that's unfortunate') : 1 meaning(s), 2 sentences
+- `tamago-l3-006` : ใช้ได้ (good quality, "okay", decent, usable) : 1 meaning(s), 2 sentences
+- `tamago-l3-007` : ไม่น่าเลย ("that's too bad", "that's unfortunate") : 1 meaning(s), 2 sentences
 - `tamago-l3-019` : สูตร (recipe; formula) : 2 meaning(s), 4 sentences
 - `tamago-l3-021` : ตั้ง (to set up, to arrange, established; up to, as much as) : 2 meaning(s), 4 sentences
 - `tamago-l3-035` : โปรด (favorite) : 1 meaning(s), 2 sentences
 - `tamago-l3-036` : คุ้น, คุ้นเคย, คุ้นชิน (familiar, recognizable; to be familiar with, used to) : 2 meaning(s), 4 sentences
-- `tamago-l3-038` : แย่แล้ว ('oh shoot', 'oh no') : 1 meaning(s), 2 sentences
+- `tamago-l3-038` : แย่แล้ว ("oh shoot", "oh no") : 1 meaning(s), 2 sentences
 - `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
 - `tamago-l3-045` : งานบ้าน (housework) : 1 meaning(s), 2 sentences
-- `tamago-l3-046` : เอาเหอะ ('never mind', 'whatever', 'forget about it') : 1 meaning(s), 2 sentences
+- `tamago-l3-046` : เอาเหอะ ("never mind", "whatever", "forget about it") : 1 meaning(s), 2 sentences
 - `tamago-l3-049` : เพียบ (a lot, plenty, full, tons of) : 1 meaning(s), 2 sentences
-- `tamago-l3-051` : สะใจ (satisfied, relieved (esp. after revenge (schadenfreude) or achievement)) : 1 meaning(s), 2 sentences
+- `tamago-l3-051` : สะใจ (satisfied, relieved (especially after revenge (schadenfreude) or achievement)) : 1 meaning(s), 2 sentences
 - `tamago-l3-056` : ใจ, จิตใจ (heart, mind, spirit) : 1 meaning(s), 2 sentences
 - `tamago-l3-062` : ลุก (to stand up, get up; (of fire) to ignite, to burn) : 2 meaning(s), 4 sentences
 - `tamago-l3-071` : ย่าง (to grill, to roast; (literary) to step into, to be approaching (a season, age)) : 2 meaning(s), 4 sentences
@@ -243,8 +253,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-202` : ทีละ (one at a time, one by one) : 1 meaning(s), 2 sentences
 - `tamago-l3-204` : พักนี้ (lately, recently) : 1 meaning(s), 2 sentences
 - `tamago-l3-210` : แม้แต่ (even, even as little as) : 1 meaning(s), 2 sentences
-- `tamago-l3-213` : ไม่ไหว ('I can't take it!', can't handle) : 1 meaning(s), 2 sentences
-- `tamago-l3-219` : เอาเถอะ ('whatever!', 'let it go', 'leave it alone') : 1 meaning(s), 2 sentences
+- `tamago-l3-213` : ไม่ไหว ("I can't take it!", can't handle) : 1 meaning(s), 2 sentences
+- `tamago-l3-219` : เอาเถอะ ("whatever!", "let it go", "leave it alone") : 1 meaning(s), 2 sentences
 - `tamago-l3-220` : สักที (finally, at last) : 1 meaning(s), 2 sentences
 - `tamago-l3-223` : อารมณ์เสีย (upset, in a bad mood) : 1 meaning(s), 2 sentences
 - `tamago-l3-232` : เข้าเรียน (to attend a class) : 1 meaning(s), 2 sentences
@@ -255,10 +265,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-281` : แอด (to add (e.g friend on social media)) : 1 meaning(s), 2 sentences
 - `tamago-l3-284` : รำคาญ (annoyed) : 1 meaning(s), 2 sentences
 - `tamago-l3-292` : เหลือเกิน (too much, extremely) : 1 meaning(s), 2 sentences
-- `tamago-l3-295` : ประมาณว่า... ('roughly speaking, ...', 'something like...') : 1 meaning(s), 2 sentences
-- `tamago-l3-316` : บ้านเรา ((colloquial) refers to Thailand, 'our country') : 1 meaning(s), 2 sentences
-- `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ('whatever!', 'never mind', 'forget about it!') : 1 meaning(s), 2 sentences
-- `tamago-l3-356` : สั่ง (to order (someone to do sth, food, goods)) : 1 meaning(s), 3 sentences
+- `tamago-l3-295` : ประมาณว่า... ("roughly speaking, ...", "something like...") : 1 meaning(s), 2 sentences
+- `tamago-l3-316` : บ้านเรา ((colloquial) refers to Thailand, "our country") : 1 meaning(s), 2 sentences
+- `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ("whatever!", "never mind", "forget about it!") : 1 meaning(s), 2 sentences
+- `tamago-l3-356` : สั่ง (to order (someone to do something, food, goods)) : 1 meaning(s), 3 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences
 - `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
 - `tamago-l3-411` : ...สุดๆไปเลย (insanely, extremely) : 1 meaning(s), 2 sentences
@@ -266,9 +276,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences
 - `tamago-l3-515` : เลิกคบ (to break up, to end a relationship or friendship) : 1 meaning(s), 2 sentences
-- `tamago-l3-543` : สมน้ำหน้า ('serves you right', 'you deserve it') : 1 meaning(s), 2 sentences
+- `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences
 - `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
-- `tamago-l3-570` : ทำใจ (to come to terms with sth, to accept) : 1 meaning(s), 2 sentences
+- `tamago-l3-570` : ทำใจ (to come to terms with something, to accept) : 1 meaning(s), 2 sentences
 - `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
 - `tamago-l3-582` : เสมอ (even, tied, to draw (in a game); always) : 2 meaning(s), 4 sentences
 - `tamago-l3-609` : งานอดิเรก (hobby) : 1 meaning(s), 2 sentences
@@ -277,13 +287,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-633` : สนับสนุน (to support, to back up, to promote) : 1 meaning(s), 2 sentences
 - `tamago-l3-640` : ย่าน (area, zone, neighborhood) : 1 meaning(s), 2 sentences
 - `tamago-l3-641` : สดๆ (fresh; new, very recent) : 2 meaning(s), 4 sentences
-- `tamago-l3-702` : ช่าง (to disregard, to ignore; how + adj (exclamation, 'so + adj')) : 2 meaning(s), 4 sentences
+- `tamago-l3-702` : ช่าง (to disregard, to ignore; how (+ adjective) (exclamation, "so + adjective")) : 2 meaning(s), 4 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
-- `tamago-l3-790` : นักศึกษา (university/college student) : 1 meaning(s), 2 sentences
+- `tamago-l3-790` : นักศึกษา (university student, college student) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
-- `tamago-l3-847` : สู้ (to fight; 'might as well', 'wouldn't it be better if') : 2 meaning(s), 4 sentences
+- `tamago-l3-847` : สู้ (to fight; "might as well", "wouldn't it be better if") : 2 meaning(s), 4 sentences
 - `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences
 - `tsl-020` : แคบ (narrow) : 1 meaning(s), 2 sentences
 - `tsl-024` : แกง (curry; (slang) to tease, trick, prank) : 2 meaning(s), 4 sentences
@@ -310,7 +320,6 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0151` : คง (probably; to remain, to continue) : 2 meaning(s), 4 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
-- `thaipod-0267` : จำเป็น (necessary) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
 - `thaipod-0305` : ญาติ (relative (family)) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
@@ -332,7 +341,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
 - `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
 - `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
-- `thaipod-0588` : ปากซอย (entrance/mouth of a soi (small street)) : 1 meaning(s), 2 sentences
+- `thaipod-0588` : ปากซอย (entrance of a soi (small street)) : 1 meaning(s), 2 sentences
 - `thaipod-0626` : ผ่าน (to pass; through, via) : 2 meaning(s), 4 sentences
 - `thaipod-0643` : พยายาม (to try, to attempt) : 1 meaning(s), 2 sentences
 - `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
@@ -393,8 +402,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1361` : โง่ (stupid, foolish) : 1 meaning(s), 2 sentences
 - `thaipod-1369` : โต (to grow up; large) : 2 meaning(s), 4 sentences
 - `thaipod-1391` : ใจร้อน (impatient, hot-tempered) : 1 meaning(s), 2 sentences
-- `thaipod-1392` : ใจเย็นๆ ('cool down', 'take it easy') : 1 meaning(s), 2 sentences
-- `thaipod-1428` : ไหว (to be able to, to handle, to endure) : 1 meaning(s), 2 sentences
+- `thaipod-1392` : ใจเย็นๆ ("cool down", "take it easy") : 1 meaning(s), 2 sentences
 - `thaipod-1429` : ไหว้ (to wai (Thai greeting); to pay respect, to worship) : 1 meaning(s), 2 sentences
 - `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
 - `tobo-016` : กระดูก (bone) : 1 meaning(s), 2 sentences
@@ -556,8 +564,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-091` : หนึ่งร้อย (one hundred (100)) : 1 meaning(s), 2 sentences
 - `wlt-c04-092` : หม้อ (pot (cooking)) : 1 meaning(s), 2 sentences
 - `wlt-c04-093` : หมอ (doctor) : 1 meaning(s), 2 sentences
-- `wlt-c05-010` : อยากได้ (to want to get (sth)) : 1 meaning(s), 2 sentences
-- `wlt-c05-012` : อย่าเพิ่ง ('don't do that yet!', 'hold on!') : 1 meaning(s), 2 sentences
+- `wlt-c05-010` : อยากได้ (to want to get (something)) : 1 meaning(s), 2 sentences
+- `wlt-c05-012` : อย่าเพิ่ง ("don't do that yet!", "hold on!") : 1 meaning(s), 2 sentences
 - `wlt-c05-013` : อยู่ที่ไหน (where is it?) : 1 meaning(s), 2 sentences
 - `wlt-c05-015` : ออกจาก (to leave from) : 1 meaning(s), 2 sentences
 - `wlt-c05-016` : อะไรก็ได้ (anything) : 1 meaning(s), 2 sentences
@@ -637,7 +645,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-064` : หลังจาก (after) : 1 meaning(s), 2 sentences
 - `wlt-c09-066` : ห้องครัว (kitchen) : 1 meaning(s), 2 sentences
 - `wlt-c09-074` : เหตุผล (reason) : 1 meaning(s), 2 sentences
-- `wlt-c09-075` : เหรอ ('really?' (particle asking for confirmation)) : 1 meaning(s), 2 sentences
+- `wlt-c09-075` : เหรอ ("really?" (particle asking for confirmation)) : 1 meaning(s), 2 sentences
 - `wlt-c09-076` : เหล้า (alcohol, liquor) : 1 meaning(s), 2 sentences
 - `wlt-c09-079` : องศา (degree (temperature)) : 1 meaning(s), 2 sentences
 - `wlt-c09-080` : อนุญาต (to permit) : 1 meaning(s), 2 sentences
@@ -647,7 +655,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-095` : อาหารไทย (Thai food) : 1 meaning(s), 2 sentences
 - `wlt-c10-002` : เอามา, นำมา (to bring) : 1 meaning(s), 2 sentences
 - `wlt-c10-003` : แอปเปิล (apple (loanword)) : 1 meaning(s), 2 sentences
-- `wlt-c10-004` : แอร์ (a/c (informal), air hostess) : 2 meaning(s), 4 sentences
+- `wlt-c10-004` : แอร์ (air conditioning (informal), air hostess) : 2 meaning(s), 4 sentences
 - `wlt-c10-007` : ก็ได้ (all right, OK, fine) : 1 meaning(s), 2 sentences
 - `wlt-c10-011` : กรุงเทพฯ (Bangkok) : 1 meaning(s), 2 sentences
 - `wlt-c10-013` : กลิ่น (smell, odor) : 1 meaning(s), 2 sentences
@@ -708,7 +716,6 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-060` : พอดี (just right) : 1 meaning(s), 2 sentences
 - `wlt-c11-061` : พักผ่อน (to rest) : 1 meaning(s), 2 sentences
 - `wlt-c11-065` : เพิ่ม, เพิ่มขึ้น (to increase) : 1 meaning(s), 2 sentences
-- `wlt-c11-066` : เพิ่ง (just (immediately before)) : 1 meaning(s), 2 sentences
 - `wlt-c11-076` : เมา (drunk) : 1 meaning(s), 2 sentences
 - `wlt-c11-077` : เมีย (wife, long-term girlfriend (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-079` : เมื่อไหร่ (when (question word)) : 1 meaning(s), 2 sentences
@@ -757,14 +764,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-008` : ขี้ (poop; (of a person) habitually prone to (usually negative trait)) : 2 meaning(s), 4 sentences
 - `wlt-c13-013` : ควร, ควรจะ (should, ought to) : 1 meaning(s), 2 sentences
 - `wlt-c13-016` : ค่ำ (dusk (6pm - 7pm)) : 1 meaning(s), 2 sentences
-- `wlt-c13-017` : คิดถึง (to miss someone (lit. 'think about')) : 1 meaning(s), 2 sentences
+- `wlt-c13-017` : คิดถึง (to miss someone (literally "think about")) : 1 meaning(s), 2 sentences
 - `wlt-c13-018` : คืนนี้ (tonight) : 1 meaning(s), 2 sentences
 - `wlt-c13-019` : คุย (to talk, to chat) : 1 meaning(s), 2 sentences
 - `wlt-c13-021` : เงียบ (quiet) : 1 meaning(s), 2 sentences
 - `wlt-c13-022` : จริง (true, really) : 1 meaning(s), 2 sentences
 - `wlt-c13-024` : จับ (to catch, to grab) : 1 meaning(s), 2 sentences
 - `wlt-c13-025` : ฉลาด (smart) : 1 meaning(s), 2 sentences
-- `wlt-c13-031` : เชิญ (to invite someone to do sth (polite request: 'please...')) : 1 meaning(s), 2 sentences
+- `wlt-c13-031` : เชิญ (to invite someone to do something (polite request: "please...")) : 1 meaning(s), 2 sentences
 - `wlt-c13-032` : ใช่ (yes) : 1 meaning(s), 2 sentences
 - `wlt-c13-034` : ซึ่ง (which, that, where, what) : 1 meaning(s), 2 sentences
 - `wlt-c13-037` : เดินทาง (to travel) : 1 meaning(s), 2 sentences
@@ -800,7 +807,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-020` : เพลง (song) : 1 meaning(s), 2 sentences
 - `wlt-c14-021` : แพ้ (to lose (e.g in a game); allergic to) : 2 meaning(s), 4 sentences
 - `wlt-c14-025` : แฟน (boyfriend, girlfriend, partner) : 1 meaning(s), 2 sentences
-- `wlt-c14-035` : ไม่ใช่ (no, 'that's not it') : 1 meaning(s), 2 sentences
+- `wlt-c14-035` : ไม่ใช่ (no, "that's not it") : 1 meaning(s), 2 sentences
 - `wlt-c14-036` : ไม่เป็นไร (it's okay, no problem, never mind) : 1 meaning(s), 2 sentences
 - `wlt-c14-039` : ย่า (grandmother (father's mother)) : 1 meaning(s), 2 sentences
 - `wlt-c14-041` : ยาย (grandmother (mother's mother)) : 1 meaning(s), 2 sentences
@@ -856,7 +863,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-052` : ชัด (plain, clear, distinct) : 1 meaning(s), 2 sentences
 - `wlt-c15-053` : เช่น (such as) : 1 meaning(s), 2 sentences
 - `wlt-c15-054` : เชื่อ (to believe) : 1 meaning(s), 2 sentences
-- `wlt-c15-055` : ใช่ไหม ('isn't it so?', 'right?') : 1 meaning(s), 2 sentences
+- `wlt-c15-055` : ใช่ไหม ("isn't it so?", "right?") : 1 meaning(s), 2 sentences
 - `wlt-c15-056` : ซ้าย (left (side)) : 1 meaning(s), 2 sentences
 - `wlt-c15-057` : ดนตรี (music) : 1 meaning(s), 2 sentences
 - `wlt-c15-058` : ด้วยกัน (together) : 1 meaning(s), 2 sentences
@@ -917,7 +924,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-051` : หลับ (to fall asleep) : 1 meaning(s), 2 sentences
 - `wlt-c16-052` : หลาน (nephew, niece, grandchild) : 1 meaning(s), 2 sentences
 - `wlt-c16-053` : ห้า ๕ (five (5)) : 1 meaning(s), 2 sentences
-- `wlt-c16-060` : อย่า (do not (to tell someone not to do sth)) : 1 meaning(s), 2 sentences
+- `wlt-c16-060` : อย่า (do not (to tell someone not to do something)) : 1 meaning(s), 2 sentences
 - `wlt-c16-061` : อร่อย (to taste good, delicious) : 1 meaning(s), 2 sentences
 - `wlt-c16-063` : อันตราย (dangerous) : 1 meaning(s), 2 sentences
 - `wlt-c16-064` : อาบน้ำ (to take a shower, to bathe) : 1 meaning(s), 2 sentences
@@ -987,7 +994,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-054` : และ (and) : 1 meaning(s), 2 sentences
 - `wlt-c17-055` : วัน (day) : 1 meaning(s), 2 sentences
 - `wlt-c17-056` : วันนี้ (today) : 1 meaning(s), 2 sentences
-- `wlt-c17-058` : ว่า (to think, say, criticize, have an opinion; that (as in “said that”)) : 2 meaning(s), 4 sentences
+- `wlt-c17-058` : ว่า (to think, say, criticize, have an opinion; that (as in "said that")) : 2 meaning(s), 4 sentences
 - `wlt-c17-059` : วาง (to put (down), to place, to lay) : 1 meaning(s), 2 sentences
 - `wlt-c17-060` : วิ่ง (to run) : 1 meaning(s), 2 sentences
 - `wlt-c17-061` : สด (fresh (of fruit, etc.)) : 1 meaning(s), 2 sentences
@@ -1027,7 +1034,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-040` : ใช้เงิน (to spend money) : 1 meaning(s), 2 sentences
 - `wlt-c18-045` : ดูเหมือน (looks like) : 1 meaning(s), 2 sentences
 - `wlt-c18-048` : เดินเล่น (to take a walk) : 1 meaning(s), 2 sentences
-- `wlt-c18-054` : ถ้าอย่างนั้น ('in that case', 'if so, then...') : 1 meaning(s), 2 sentences
+- `wlt-c18-054` : ถ้าอย่างนั้น ("in that case", "if so, then...") : 1 meaning(s), 2 sentences
 - `wlt-c18-056` : แถวนี้ (around here, in this area) : 1 meaning(s), 2 sentences
 - `wlt-c18-059` : ทิชชู่ (tissue, napkins) : 1 meaning(s), 2 sentences
 - `wlt-c18-062` : ทุกครั้ง, ทุกที (every time) : 1 meaning(s), 2 sentences
@@ -1046,7 +1053,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-006` : ภาษาอังกฤษ (English language) : 1 meaning(s), 2 sentences
 - `wlt-c19-017` : ไม่นาน (not long) : 1 meaning(s), 2 sentences
 - `wlt-c19-020` : ไม่สบายใจ (uneasy, troubled, uncomfortable) : 1 meaning(s), 2 sentences
-- `wlt-c19-044` : สบายๆ ('no problem', 'no worries', relaxed) : 1 meaning(s), 2 sentences
+- `wlt-c19-044` : สบายๆ ("no problem", "no worries", relaxed) : 1 meaning(s), 2 sentences
 - `wlt-c19-050` : สูบบุหรี่ (to smoke (cigarettes)) : 1 meaning(s), 2 sentences
 - `wlt-c19-051` : เสาร์อาทิตย์นี้ (this weekend) : 1 meaning(s), 2 sentences
 - `wlt-c19-062` : หวัดดี (hi, bye (casual)) : 1 meaning(s), 2 sentences
@@ -1250,7 +1257,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-030` : ตลก (funny) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
 - `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
-- `t4k-c04-034` : จัง (very, so (+ adj)) : 1 meaning(s), 2 sentences
+- `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
