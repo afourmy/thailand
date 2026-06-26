@@ -45205,7 +45205,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to rehearse, to practice",
+        "sentences": [
+          {
+            "thai": "วงดนตรีซ้อมก่อนวันแสดงจริง",
+            "en": "The band rehearses before the actual show.",
+            "audio_src": "วงดนตรีซ้อมก่อนวันแสดงจริง",
+            "audio_en_src": "The band rehearses before the actual show."
+          },
+          {
+            "thai": "เขาซ้อมพูดหน้ากระจกหลายรอบ",
+            "en": "He practiced his speech in front of the mirror many times.",
+            "audio_src": "เขาซ้อมพูดหน้ากระจกหลายรอบ",
+            "audio_en_src": "He practiced his speech in front of the mirror many times."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-658",
@@ -45237,7 +45256,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to introduce (a topic, a presentation), to preface",
+        "sentences": [
+          {
+            "thai": "วิทยากรเกริ่นเรื่องที่จะพูดก่อนเริ่ม",
+            "en": "The speaker prefaced what he was going to talk about before starting.",
+            "audio_src": "วิทยากรเกริ่นเรื่องที่จะพูดก่อนเริ่ม",
+            "audio_en_src": "The speaker prefaced what he was going to talk about before starting."
+          },
+          {
+            "thai": "เธอเกริ่นมานานแต่ยังไม่เข้าเรื่องสักที",
+            "en": "She's been leading up to it for a while but still hasn't gotten to the point.",
+            "audio_src": "เธอเกริ่นมานานแต่ยังไม่เข้าเรื่องสักที",
+            "audio_en_src": "She's been leading up to it for a while but still hasn't gotten to the point."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-661",
@@ -45250,7 +45288,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "definition",
+        "sentences": [
+          {
+            "thai": "ครูให้เขียนนิยามของคำนี้",
+            "en": "The teacher had us write the definition of this word.",
+            "audio_src": "ครูให้เขียนนิยามของคำนี้",
+            "audio_en_src": "The teacher had us write the definition of this word."
+          },
+          {
+            "thai": "ความสุขของแต่ละคนมีนิยามต่างกัน",
+            "en": "Happiness has a different definition for each person.",
+            "audio_src": "ความสุขของแต่ละคนมีนิยามต่างกัน",
+            "audio_en_src": "Happiness has a different definition for each person."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-663",
@@ -45265,7 +45322,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hold on to, to adhere to, to stick to",
+        "sentences": [
+          {
+            "thai": "เขายึดหลักความซื่อสัตย์ในการทำงาน",
+            "en": "He adheres to the principle of honesty in his work.",
+            "audio_src": "เขายึดหลักความซื่อสัตย์ในการทำงาน",
+            "audio_en_src": "He adheres to the principle of honesty in his work."
+          },
+          {
+            "thai": "ยึดราวบันไดไว้ตอนขึ้นลงนะ",
+            "en": "Hold on to the stair railing when going up and down.",
+            "audio_src": "ยึดราวบันไดไว้ตอนขึ้นลงนะ",
+            "audio_en_src": "Hold on to the stair railing when going up and down."
+          }
+        ]
+      },
+      {
+        "meaning": "to seize",
+        "sentences": [
+          {
+            "thai": "ตำรวจยึดของผิดกฎหมายไปตรวจสอบ",
+            "en": "The police seized the illegal goods for inspection.",
+            "audio_src": "ตำรวจยึดของผิดกฎหมายไปตรวจสอบ",
+            "audio_en_src": "The police seized the illegal goods for inspection."
+          },
+          {
+            "thai": "ธนาคารยึดบ้านเพราะเขาผ่อนไม่ไหว",
+            "en": "The bank seized the house because he couldn't keep up the payments.",
+            "audio_src": "ธนาคารยึดบ้านเพราะเขาผ่อนไม่ไหว",
+            "audio_en_src": "The bank seized the house because he couldn't keep up the payments."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-664",
@@ -45289,7 +45382,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "the collective, the public (interest), the common good (as opposed to \"personal\")",
+        "sentences": [
+          {
+            "thai": "เราควรเห็นแก่ส่วนรวมมากกว่าส่วนตัว",
+            "en": "We should consider the common good over personal interests.",
+            "audio_src": "เราควรเห็นแก่ส่วนรวมมากกว่าส่วนตัว",
+            "audio_en_src": "We should consider the common good over personal interests."
+          },
+          {
+            "thai": "การทิ้งขยะให้เป็นที่เป็นผลดีต่อส่วนรวม",
+            "en": "Disposing of trash properly benefits everyone.",
+            "audio_src": "การทิ้งขยะให้เป็นที่เป็นผลดีต่อส่วนรวม",
+            "audio_en_src": "Disposing of trash properly benefits everyone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-666",
@@ -45304,7 +45416,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pass on, to transmit, to relay (knowledge, broadcast)",
+        "sentences": [
+          {
+            "thai": "อาจารย์ถ่ายทอดความรู้ให้ลูกศิษย์อย่างเต็มที่",
+            "en": "The teacher passes on knowledge to his students fully.",
+            "audio_src": "อาจารย์ถ่ายทอดความรู้ให้ลูกศิษย์อย่างเต็มที่",
+            "audio_en_src": "The teacher passes on knowledge to his students fully."
+          },
+          {
+            "thai": "ช่องนี้ถ่ายทอดสดการแข่งขันฟุตบอล",
+            "en": "This channel broadcasts the football match live.",
+            "audio_src": "ช่องนี้ถ่ายทอดสดการแข่งขันฟุตบอล",
+            "audio_en_src": "This channel broadcasts the football match live."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-667",
@@ -45316,7 +45447,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to imitate, to follow (someone's example)",
+        "sentences": [
+          {
+            "thai": "เด็กมักเอาอย่างพฤติกรรมของพ่อแม่",
+            "en": "Children often imitate their parents' behavior.",
+            "audio_src": "เด็กมักเอาอย่างพฤติกรรมของพ่อแม่",
+            "audio_en_src": "Children often imitate their parents' behavior."
+          },
+          {
+            "thai": "อย่าเอาอย่างคนที่ทำตัวไม่ดี",
+            "en": "Don't follow the example of people who behave badly.",
+            "audio_src": "อย่าเอาอย่างคนที่ทำตัวไม่ดี",
+            "audio_en_src": "Don't follow the example of people who behave badly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-668",
@@ -45328,7 +45478,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to cut short, to interrupt, to change the topic abruptly",
+        "sentences": [
+          {
+            "thai": "พอเริ่มเถียงกัน เขาก็ตัดบทเปลี่ยนเรื่อง",
+            "en": "When they started arguing, he cut it short and changed the subject.",
+            "audio_src": "พอเริ่มเถียงกัน เขาก็ตัดบทเปลี่ยนเรื่อง",
+            "audio_en_src": "When they started arguing, he cut it short and changed the subject."
+          },
+          {
+            "thai": "เธอตัดบทแล้วรีบวางสายไป",
+            "en": "She cut the conversation short and quickly hung up.",
+            "audio_src": "เธอตัดบทแล้วรีบวางสายไป",
+            "audio_en_src": "She cut the conversation short and quickly hung up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-669",
@@ -45341,7 +45510,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to drill, to pierce",
+        "sentences": [
+          {
+            "thai": "ช่างเจาะรูบนผนังเพื่อแขวนรูป",
+            "en": "The worker drilled a hole in the wall to hang a picture.",
+            "audio_src": "ช่างเจาะรูบนผนังเพื่อแขวนรูป",
+            "audio_en_src": "The worker drilled a hole in the wall to hang a picture."
+          },
+          {
+            "thai": "เธอไปเจาะหูมาเมื่อวาน",
+            "en": "She got her ears pierced yesterday.",
+            "audio_src": "เธอไปเจาะหูมาเมื่อวาน",
+            "audio_en_src": "She got her ears pierced yesterday."
+          }
+        ]
+      },
+      {
+        "meaning": "to dig into (a topic)",
+        "sentences": [
+          {
+            "thai": "รายการนี้เจาะลึกปัญหาสังคม",
+            "en": "This program digs deep into social issues.",
+            "audio_src": "รายการนี้เจาะลึกปัญหาสังคม",
+            "audio_en_src": "This program digs deep into social issues."
+          },
+          {
+            "thai": "นักข่าวเจาะข่าวคอร์รัปชันในวงราชการ",
+            "en": "The reporter dug into the corruption scandal in the bureaucracy.",
+            "audio_src": "นักข่าวเจาะข่าวคอร์รัปชันในวงราชการ",
+            "audio_en_src": "The reporter dug into the corruption scandal in the bureaucracy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-670",
@@ -45357,7 +45562,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to collide with, to hit",
+        "sentences": [
+          {
+            "thai": "รถสองคันชนกันที่สี่แยก",
+            "en": "Two cars collided at the intersection.",
+            "audio_src": "รถสองคันชนกันที่สี่แยก",
+            "audio_en_src": "Two cars collided at the intersection."
+          },
+          {
+            "thai": "เขาเดินชนเสาเพราะมัวแต่เล่นมือถือ",
+            "en": "He walked into a pole because he was busy on his phone.",
+            "audio_src": "เขาเดินชนเสาเพราะมัวแต่เล่นมือถือ",
+            "audio_en_src": "He walked into a pole because he was busy on his phone."
+          }
+        ]
+      },
+      {
+        "meaning": "tribe, ethnic group",
+        "sentences": [
+          {
+            "thai": "ภาคเหนือมีชนเผ่าหลากหลายกลุ่ม",
+            "en": "The north has many different ethnic tribes.",
+            "audio_src": "ภาคเหนือมีชนเผ่าหลากหลายกลุ่ม",
+            "audio_en_src": "The north has many different ethnic tribes."
+          },
+          {
+            "thai": "ชนกลุ่มน้อยมีภาษาและวัฒนธรรมเป็นของตัวเอง",
+            "en": "Ethnic minorities have their own languages and cultures.",
+            "audio_src": "ชนกลุ่มน้อยมีภาษาและวัฒนธรรมเป็นของตัวเอง",
+            "audio_en_src": "Ethnic minorities have their own languages and cultures."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-671",

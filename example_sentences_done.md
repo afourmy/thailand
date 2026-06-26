@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1904 words**
+**Total: 1914 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -897,6 +897,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-650` : จับกลุ่ม (to form a group, to group up) : 1 meaning(s), 2 sentences
 - `tamago-l3-654` : ความรู้รอบตัว (general knowledge) : 1 meaning(s), 2 sentences
 - `tamago-l3-656` : หัวข้อย่อย (sub-topic) : 1 meaning(s), 2 sentences
+- `tamago-l3-657` : ซ้อม (to rehearse, to practice) : 1 meaning(s), 2 sentences
+- `tamago-l3-660` : เกริ่น (to introduce (a topic, a presentation), to preface) : 1 meaning(s), 2 sentences
+- `tamago-l3-661` : นิยาม (definition) : 1 meaning(s), 2 sentences
+- `tamago-l3-663` : ยึด (to hold on to, to adhere to, to stick to; to seize) : 2 meaning(s), 4 sentences
+- `tamago-l3-665` : ส่วนรวม (the collective, the public (interest), the common good (as opposed to "personal")) : 1 meaning(s), 2 sentences
+- `tamago-l3-666` : ถ่ายทอด (to pass on, to transmit, to relay (knowledge, broadcast)) : 1 meaning(s), 2 sentences
+- `tamago-l3-667` : เอาอย่าง (to imitate, to follow (someone's example)) : 1 meaning(s), 2 sentences
+- `tamago-l3-668` : ตัดบท (to cut short, to interrupt, to change the topic abruptly) : 1 meaning(s), 2 sentences
+- `tamago-l3-669` : เจาะ (to drill, to pierce; to dig into (a topic)) : 2 meaning(s), 4 sentences
+- `tamago-l3-670` : ชน (to collide with, to hit; tribe, ethnic group) : 2 meaning(s), 4 sentences
 - `tamago-l3-702` : ช่าง (to disregard, to ignore; how (+ adjective) (exclamation, "so + adjective")) : 2 meaning(s), 4 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
