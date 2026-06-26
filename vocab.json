@@ -5522,7 +5522,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "nearby",
+        "sentences": [
+          {
+            "thai": "มีร้านสะดวกซื้ออยู่ใกล้เคียง",
+            "en": "There's a convenience store nearby.",
+            "audio_src": "มีร้านสะดวกซื้ออยู่ใกล้เคียง",
+            "audio_en_src": "There's a convenience store nearby."
+          },
+          {
+            "thai": "ราคาสองร้านนี้ใกล้เคียงกัน",
+            "en": "The prices at these two shops are about the same.",
+            "audio_src": "ราคาสองร้านนี้ใกล้เคียงกัน",
+            "audio_en_src": "The prices at these two shops are about the same."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-178",
@@ -5590,7 +5609,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "highly popular",
+        "sentences": [
+          {
+            "thai": "เพลงนี้เป็นเพลงยอดนิยม",
+            "en": "This song is a big hit.",
+            "audio_src": "เพลงนี้เป็นเพลงยอดนิยม",
+            "audio_en_src": "This song is a big hit."
+          },
+          {
+            "thai": "ร้านนี้มีเมนูยอดนิยมหลายอย่าง",
+            "en": "This restaurant has several popular dishes.",
+            "audio_src": "ร้านนี้มีเมนูยอดนิยมหลายอย่าง",
+            "audio_en_src": "This restaurant has several popular dishes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-184",
@@ -5617,7 +5655,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "community",
+        "sentences": [
+          {
+            "thai": "คนในชุมชนช่วยกันเก็บขยะ",
+            "en": "People in the community help clean up trash.",
+            "audio_src": "คนในชุมชนช่วยกันเก็บขยะ",
+            "audio_en_src": "People in the community help clean up trash."
+          },
+          {
+            "thai": "ที่นี่เป็นชุมชนเล็กที่อบอุ่น",
+            "en": "This is a small, warm community.",
+            "audio_src": "ที่นี่เป็นชุมชนเล็กที่อบอุ่น",
+            "audio_en_src": "This is a small, warm community."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-186",
@@ -5652,7 +5709,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to reflect",
+        "sentences": [
+          {
+            "thai": "น้ำใสจนสะท้อนเงาท้องฟ้า",
+            "en": "The water is so clear it reflects the sky.",
+            "audio_src": "น้ำใสจนสะท้อนเงาท้องฟ้า",
+            "audio_en_src": "The water is so clear it reflects the sky."
+          },
+          {
+            "thai": "หนังเรื่องนี้สะท้อนชีวิตคนจน",
+            "en": "This film reflects the lives of the poor.",
+            "audio_src": "หนังเรื่องนี้สะท้อนชีวิตคนจน",
+            "audio_en_src": "This film reflects the lives of the poor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-189",
@@ -5715,7 +5791,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to lack, to be missing",
+        "sentences": [
+          {
+            "thai": "เดือนนี้เงินขาดมือ",
+            "en": "I'm short on money this month.",
+            "audio_src": "เดือนนี้เงินขาดมือ",
+            "audio_en_src": "I'm short on money this month."
+          },
+          {
+            "thai": "เขาขาดเรียนสามวันแล้ว",
+            "en": "He's been absent from school for three days.",
+            "audio_src": "เขาขาดเรียนสามวันแล้ว",
+            "audio_en_src": "He's been absent from school for three days."
+          }
+        ]
+      },
+      {
+        "meaning": "torn, broken",
+        "sentences": [
+          {
+            "thai": "เชือกขาดเพราะดึงแรงไป",
+            "en": "The rope snapped from pulling too hard.",
+            "audio_src": "เชือกขาดเพราะดึงแรงไป",
+            "audio_en_src": "The rope snapped from pulling too hard."
+          },
+          {
+            "thai": "กางเกงขาดตรงเข่า",
+            "en": "The trousers are torn at the knee.",
+            "audio_src": "กางเกงขาดตรงเข่า",
+            "audio_en_src": "The trousers are torn at the knee."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-194",
@@ -5825,7 +5937,60 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take (photo, video)",
+        "sentences": [
+          {
+            "thai": "ขอถ่ายรูปด้วยกันหน่อย",
+            "en": "Can we take a photo together?",
+            "audio_src": "ขอถ่ายรูปด้วยกันหน่อย",
+            "audio_en_src": "Can we take a photo together?"
+          },
+          {
+            "thai": "เขาชอบถ่ายวิดีโอตอนเที่ยว",
+            "en": "He likes filming videos when he travels.",
+            "audio_src": "เขาชอบถ่ายวิดีโอตอนเที่ยว",
+            "audio_en_src": "He likes filming videos when he travels."
+          }
+        ]
+      },
+      {
+        "meaning": "to defecate",
+        "sentences": [
+          {
+            "thai": "ท้องเสียถ่ายไม่หยุดเลย",
+            "en": "I have diarrhea and can't stop going to the toilet.",
+            "audio_src": "ท้องเสียถ่ายไม่หยุดเลย",
+            "audio_en_src": "I have diarrhea and can't stop going to the toilet."
+          },
+          {
+            "thai": "ลูกถ่ายท้องตั้งแต่เมื่อคืน",
+            "en": "The baby has had diarrhea since last night.",
+            "audio_src": "ลูกถ่ายท้องตั้งแต่เมื่อคืน",
+            "audio_en_src": "The baby has had diarrhea since last night."
+          }
+        ]
+      },
+      {
+        "meaning": "to transfer (data)",
+        "sentences": [
+          {
+            "thai": "ช่วยถ่ายไฟล์ลงแฟลชไดรฟ์ให้หน่อย",
+            "en": "Please transfer the files onto the flash drive.",
+            "audio_src": "ช่วยถ่ายไฟล์ลงแฟลชไดรฟ์ให้หน่อย",
+            "audio_en_src": "Please transfer the files onto the flash drive."
+          },
+          {
+            "thai": "ถ่ายรูปจากมือถือลงคอม",
+            "en": "Transfer the photos from the phone to the computer.",
+            "audio_src": "ถ่ายรูปจากมือถือลงคอม",
+            "audio_en_src": "Transfer the photos from the phone to the computer."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-204",
@@ -5926,7 +6091,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "mosquito net",
+        "sentences": [
+          {
+            "thai": "ก่อนนอนอย่าลืมกางมุ้ง",
+            "en": "Don't forget to put up the mosquito net before bed.",
+            "audio_src": "ก่อนนอนอย่าลืมกางมุ้ง",
+            "audio_en_src": "Don't forget to put up the mosquito net before bed."
+          },
+          {
+            "thai": "นอนในมุ้งยุงจะได้ไม่กัด",
+            "en": "Sleep under the net so the mosquitoes won't bite.",
+            "audio_src": "นอนในมุ้งยุงจะได้ไม่กัด",
+            "audio_en_src": "Sleep under the net so the mosquitoes won't bite."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-213",
@@ -5952,7 +6136,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "source",
+        "sentences": [
+          {
+            "thai": "แม่น้ำเป็นแหล่งน้ำสำคัญ",
+            "en": "The river is an important water source.",
+            "audio_src": "แม่น้ำเป็นแหล่งน้ำสำคัญ",
+            "audio_en_src": "The river is an important water source."
+          },
+          {
+            "thai": "อินเทอร์เน็ตเป็นแหล่งข้อมูลขนาดใหญ่",
+            "en": "The internet is a huge source of information.",
+            "audio_src": "อินเทอร์เน็ตเป็นแหล่งข้อมูลขนาดใหญ่",
+            "audio_en_src": "The internet is a huge source of information."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-215",
@@ -5977,7 +6180,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to get rid of, to eliminate",
+        "sentences": [
+          {
+            "thai": "เราต้องกำจัดยุงในบ้าน",
+            "en": "We need to get rid of the mosquitoes in the house.",
+            "audio_src": "เราต้องกำจัดยุงในบ้าน",
+            "audio_en_src": "We need to get rid of the mosquitoes in the house."
+          },
+          {
+            "thai": "ยานี้ช่วยกำจัดวัชพืช",
+            "en": "This chemical eliminates weeds.",
+            "audio_src": "ยานี้ช่วยกำจัดวัชพืช",
+            "audio_en_src": "This chemical eliminates weeds."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-217",
@@ -6043,7 +6265,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rank",
+        "sentences": [
+          {
+            "thai": "ทีมเราอยู่อันดับหนึ่งของลีก",
+            "en": "Our team is number one in the league.",
+            "audio_src": "ทีมเราอยู่อันดับหนึ่งของลีก",
+            "audio_en_src": "Our team is number one in the league."
+          },
+          {
+            "thai": "เขาสอบได้อันดับต้นของห้อง",
+            "en": "He ranked near the top of the class.",
+            "audio_src": "เขาสอบได้อันดับต้นของห้อง",
+            "audio_en_src": "He ranked near the top of the class."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-224",

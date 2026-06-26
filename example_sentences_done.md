@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1354 words**
+**Total: 1364 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -87,6 +87,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-158` : ดำเนินการ (to proceed, to carry out, to take action) : 1 meaning(s), 2 sentences
 - `chula-l5-162` : พัง (broken, damaged) : 1 meaning(s), 2 sentences
 - `chula-l5-171` : ตาราง (chart, table) : 1 meaning(s), 2 sentences
+- `chula-l5-177` : ใกล้เคียง (nearby) : 1 meaning(s), 2 sentences
+- `chula-l5-183` : ยอดนิยม (highly popular) : 1 meaning(s), 2 sentences
+- `chula-l5-185` : ชุมชน (community) : 1 meaning(s), 2 sentences
+- `chula-l5-188` : สะท้อน (to reflect) : 1 meaning(s), 2 sentences
+- `chula-l5-193` : ขาด (to lack, to be missing; torn, broken) : 2 meaning(s), 4 sentences
+- `chula-l5-203` : ถ่าย (to take (photo, video); to defecate; to transfer (data)) : 3 meaning(s), 6 sentences
+- `chula-l5-212` : มุ้ง (mosquito net) : 1 meaning(s), 2 sentences
+- `chula-l5-214` : แหล่ง (source) : 1 meaning(s), 2 sentences
+- `chula-l5-216` : กำจัด (to get rid of, to eliminate) : 1 meaning(s), 2 sentences
+- `chula-l5-223` : อันดับ (rank) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
