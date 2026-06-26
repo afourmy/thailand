@@ -2910,7 +2910,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to convey, to communicate",
+        "sentences": [
+          {
+            "thai": "เราสื่อสารกันทางไลน์",
+            "en": "We communicate via Line.",
+            "audio_src": "เราสื่อสารกันทางไลน์",
+            "audio_en_src": "We communicate via Line."
+          },
+          {
+            "thai": "ภาพนี้สื่อความหมายได้ดี",
+            "en": "This picture conveys the meaning well.",
+            "audio_src": "ภาพนี้สื่อความหมายได้ดี",
+            "audio_en_src": "This picture conveys the meaning well."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-025",
@@ -2923,7 +2942,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "decisive, categorical",
+        "sentences": [
+          {
+            "thai": "หัวหน้าเป็นคนเด็ดขาด",
+            "en": "The boss is a decisive person.",
+            "audio_src": "หัวหน้าเป็นคนเด็ดขาด",
+            "audio_en_src": "The boss is a decisive person."
+          },
+          {
+            "thai": "ที่นี่ห้ามสูบบุหรี่เด็ดขาด",
+            "en": "Smoking is absolutely forbidden here.",
+            "audio_src": "ที่นี่ห้ามสูบบุหรี่เด็ดขาด",
+            "audio_en_src": "Smoking is absolutely forbidden here."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-026",
@@ -2981,7 +3019,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to refrain, to abstain from",
+        "sentences": [
+          {
+            "thai": "กรุณางดใช้โทรศัพท์ในห้องสมุด",
+            "en": "Please refrain from using your phone in the library.",
+            "audio_src": "กรุณางดใช้โทรศัพท์ในห้องสมุด",
+            "audio_en_src": "Please refrain from using your phone in the library."
+          },
+          {
+            "thai": "หมอให้เขางดเหล้า",
+            "en": "The doctor told him to give up alcohol.",
+            "audio_src": "หมอให้เขางดเหล้า",
+            "audio_en_src": "The doctor told him to give up alcohol."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-029",
@@ -2995,7 +3052,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to repair, to fix",
+        "sentences": [
+          {
+            "thai": "หลังคารั่ว ต้องซ่อมแซมด่วน",
+            "en": "The roof is leaking, it needs fixing right away.",
+            "audio_src": "หลังคารั่ว ต้องซ่อมแซมด่วน",
+            "audio_en_src": "The roof is leaking, it needs fixing right away."
+          },
+          {
+            "thai": "เขาซ่อมแซมรถเก่าด้วยตัวเอง",
+            "en": "He repairs old cars himself.",
+            "audio_src": "เขาซ่อมแซมรถเก่าด้วยตัวเอง",
+            "audio_en_src": "He repairs old cars himself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-030",
@@ -3019,7 +3095,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "line, row",
+        "sentences": [
+          {
+            "thai": "เขียนชื่อในบรรทัดแรก",
+            "en": "Write your name on the first line.",
+            "audio_src": "เขียนชื่อในบรรทัดแรก",
+            "audio_en_src": "Write your name on the first line."
+          },
+          {
+            "thai": "ขึ้นบรรทัดใหม่ตรงนี้",
+            "en": "Start a new line here.",
+            "audio_src": "ขึ้นบรรทัดใหม่ตรงนี้",
+            "audio_en_src": "Start a new line here."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-032",
@@ -3033,7 +3128,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to spell",
+        "sentences": [
+          {
+            "thai": "คำนี้สะกดยังไง",
+            "en": "How do you spell this word?",
+            "audio_src": "คำนี้สะกดยังไง",
+            "audio_en_src": "How do you spell this word?"
+          },
+          {
+            "thai": "เขาสะกดชื่อฉันผิด",
+            "en": "He spelled my name wrong.",
+            "audio_src": "เขาสะกดชื่อฉันผิด",
+            "audio_en_src": "He spelled my name wrong."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-034",
@@ -3069,7 +3183,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "officer",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่ตำรวจกำลังตรวจรถ",
+            "en": "The police officer is inspecting the car.",
+            "audio_src": "เจ้าหน้าที่ตำรวจกำลังตรวจรถ",
+            "audio_en_src": "The police officer is inspecting the car."
+          },
+          {
+            "thai": "ถ้ามีปัญหาให้ติดต่อเจ้าหน้าที่",
+            "en": "If there's a problem, contact a staff member.",
+            "audio_src": "ถ้ามีปัญหาให้ติดต่อเจ้าหน้าที่",
+            "audio_en_src": "If there's a problem, contact a staff member."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-037",
@@ -3081,7 +3214,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to punch",
+        "sentences": [
+          {
+            "thai": "นักมวยชกคู่ต่อสู้",
+            "en": "The boxer punched his opponent.",
+            "audio_src": "นักมวยชกคู่ต่อสู้",
+            "audio_en_src": "The boxer punched his opponent."
+          },
+          {
+            "thai": "เขาโกรธจนชกกำแพง",
+            "en": "He was so angry he punched the wall.",
+            "audio_src": "เขาโกรธจนชกกำแพง",
+            "audio_en_src": "He was so angry he punched the wall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-038",
@@ -3141,7 +3293,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "mathematics",
+        "sentences": [
+          {
+            "thai": "ลูกชายฉันเก่งคณิตศาสตร์",
+            "en": "My son is good at math.",
+            "audio_src": "ลูกชายฉันเก่งคณิตศาสตร์",
+            "audio_en_src": "My son is good at math."
+          },
+          {
+            "thai": "วันนี้มีสอบคณิตศาสตร์",
+            "en": "There's a math exam today.",
+            "audio_src": "วันนี้มีสอบคณิตศาสตร์",
+            "audio_en_src": "There's a math exam today."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-043",
@@ -3155,7 +3326,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to shout",
+        "sentences": [
+          {
+            "thai": "เขาตะโกนเรียกให้ฉันหยุด",
+            "en": "He shouted for me to stop.",
+            "audio_src": "เขาตะโกนเรียกให้ฉันหยุด",
+            "audio_en_src": "He shouted for me to stop."
+          },
+          {
+            "thai": "อย่าตะโกนเสียงดังในบ้าน",
+            "en": "Don't shout so loudly in the house.",
+            "audio_src": "อย่าตะโกนเสียงดังในบ้าน",
+            "audio_en_src": "Don't shout so loudly in the house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-044",

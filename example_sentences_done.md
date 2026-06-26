@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1314 words**
+**Total: 1324 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -46,7 +46,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-016` : ยาม (security guard; period of time) : 2 meaning(s), 4 sentences
 - `chula-l5-018` : ส่วนกลาง (common area, central part) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences
+- `chula-l5-024` : สื่อ, สื่อสาร (to convey, to communicate) : 1 meaning(s), 2 sentences
+- `chula-l5-025` : เด็ดขาด (decisive, categorical) : 1 meaning(s), 2 sentences
 - `chula-l5-026` : ห้าม, ห้ามไม่ให้ (to forbid, to prohibit) : 1 meaning(s), 2 sentences
+- `chula-l5-028` : งด (to refrain, to abstain from) : 1 meaning(s), 2 sentences
+- `chula-l5-029` : ซ่อมแซม (to repair, to fix) : 1 meaning(s), 2 sentences
+- `chula-l5-031` : บรรทัด (line, row) : 1 meaning(s), 2 sentences
+- `chula-l5-032` : สะกด (to spell) : 1 meaning(s), 2 sentences
+- `chula-l5-036` : เจ้าหน้าที่ (officer) : 1 meaning(s), 2 sentences
+- `chula-l5-037` : ชก (to punch) : 1 meaning(s), 2 sentences
+- `chula-l5-042` : คณิตศาสตร์ (mathematics) : 1 meaning(s), 2 sentences
+- `chula-l5-043` : ตะโกน (to shout) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
