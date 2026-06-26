@@ -12089,7 +12089,43 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "subdistrict in Bangkok",
+        "sentences": [
+          {
+            "thai": "บ้านของเขาอยู่แขวงสีลม",
+            "en": "His house is in Silom subdistrict.",
+            "audio_src": "บ้านของเขาอยู่แขวงสีลม",
+            "audio_en_src": "His house is in Silom subdistrict."
+          },
+          {
+            "thai": "กรอกชื่อแขวงในแบบฟอร์มด้วย",
+            "en": "Fill in the subdistrict on the form too.",
+            "audio_src": "กรอกชื่อแขวงในแบบฟอร์มด้วย",
+            "audio_en_src": "Fill in the subdistrict on the form too."
+          }
+        ]
+      },
+      {
+        "meaning": "zone, section",
+        "sentences": [
+          {
+            "thai": "แขวงการทางปิดซ่อมสะพานชั่วคราว",
+            "en": "The highway district temporarily closed the bridge for repairs.",
+            "audio_src": "แขวงการทางปิดซ่อมสะพานชั่วคราว",
+            "audio_en_src": "The highway district temporarily closed the bridge for repairs."
+          },
+          {
+            "thai": "ถนนสายนี้อยู่ในความดูแลของแขวงการทาง",
+            "en": "This road is under the highway district's care.",
+            "audio_src": "ถนนสายนี้อยู่ในความดูแลของแขวงการทาง",
+            "audio_en_src": "This road is under the highway district's care."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-109",
@@ -12144,7 +12180,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to promise, to give one's word",
+        "sentences": [
+          {
+            "thai": "เขารับปากว่าจะมาช่วยงาน",
+            "en": "He promised to come help.",
+            "audio_src": "เขารับปากว่าจะมาช่วยงาน",
+            "audio_en_src": "He promised to come help."
+          },
+          {
+            "thai": "อย่ารับปากถ้าทำไม่ได้จริง",
+            "en": "Don't make a promise if you really can't keep it.",
+            "audio_src": "อย่ารับปากถ้าทำไม่ได้จริง",
+            "audio_en_src": "Don't make a promise if you really can't keep it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-115",
@@ -12192,7 +12247,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "informal, casual",
+        "sentences": [
+          {
+            "thai": "ร้านนี้บรรยากาศเป็นกันเองดี",
+            "en": "This place has a nice, relaxed atmosphere.",
+            "audio_src": "ร้านนี้บรรยากาศเป็นกันเองดี",
+            "audio_en_src": "This place has a nice, relaxed atmosphere."
+          },
+          {
+            "thai": "เจ้านายพูดคุยกับลูกน้องอย่างกันเอง",
+            "en": "The boss chats with the staff in a casual way.",
+            "audio_src": "เจ้านายพูดคุยกับลูกน้องอย่างกันเอง",
+            "audio_en_src": "The boss chats with the staff in a casual way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-119",
@@ -12205,7 +12279,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to precede, to come before",
+        "sentences": [
+          {
+            "thai": "เด็กคนนั้นเดินนำหน้ากลุ่ม",
+            "en": "That kid walked ahead of the group.",
+            "audio_src": "เด็กคนนั้นเดินนำหน้ากลุ่ม",
+            "audio_en_src": "That kid walked ahead of the group."
+          },
+          {
+            "thai": "ใส่ศูนย์นำหน้าเบอร์โทรด้วย",
+            "en": "Put a zero in front of the phone number too.",
+            "audio_src": "ใส่ศูนย์นำหน้าเบอร์โทรด้วย",
+            "audio_en_src": "Put a zero in front of the phone number too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-120",
@@ -12227,7 +12320,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to make way, give way, step aside",
+        "sentences": [
+          {
+            "thai": "รถทุกคันหลีกทางให้รถพยาบาล",
+            "en": "Every car gives way to the ambulance.",
+            "audio_src": "รถทุกคันหลีกทางให้รถพยาบาล",
+            "audio_en_src": "Every car gives way to the ambulance."
+          },
+          {
+            "thai": "ช่วยหลีกทางให้คนข้างหลังหน่อย",
+            "en": "Please step aside for the person behind.",
+            "audio_src": "ช่วยหลีกทางให้คนข้างหลังหน่อย",
+            "audio_en_src": "Please step aside for the person behind."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-122",
@@ -12275,7 +12387,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "spacious, large",
+        "sentences": [
+          {
+            "thai": "ห้องนั่งเล่นกว้างขวางมาก",
+            "en": "The living room is very spacious.",
+            "audio_src": "ห้องนั่งเล่นกว้างขวางมาก",
+            "audio_en_src": "The living room is very spacious."
+          },
+          {
+            "thai": "สนามหลังบ้านกว้างขวางพอให้เด็กวิ่งเล่น",
+            "en": "The backyard is spacious enough for kids to run around.",
+            "audio_src": "สนามหลังบ้านกว้างขวางพอให้เด็กวิ่งเล่น",
+            "audio_en_src": "The backyard is spacious enough for kids to run around."
+          }
+        ]
+      },
+      {
+        "meaning": "(figuratively) extensive, broad",
+        "sentences": [
+          {
+            "thai": "เขารู้จักคนกว้างขวางในวงการ",
+            "en": "He's well-connected in the industry.",
+            "audio_src": "เขารู้จักคนกว้างขวางในวงการ",
+            "audio_en_src": "He's well-connected in the industry."
+          },
+          {
+            "thai": "เธอมีความรู้กว้างขวางหลายด้าน",
+            "en": "She has broad knowledge in many areas.",
+            "audio_src": "เธอมีความรู้กว้างขวางหลายด้าน",
+            "audio_en_src": "She has broad knowledge in many areas."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-126",
@@ -12300,7 +12448,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "agency, department",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ต้องแจ้งหน่วยงานที่เกี่ยวข้อง",
+            "en": "This needs to be reported to the relevant agency.",
+            "audio_src": "เรื่องนี้ต้องแจ้งหน่วยงานที่เกี่ยวข้อง",
+            "audio_en_src": "This needs to be reported to the relevant agency."
+          },
+          {
+            "thai": "เขาทำงานในหน่วยงานราชการ",
+            "en": "He works in a government department.",
+            "audio_src": "เขาทำงานในหน่วยงานราชการ",
+            "audio_en_src": "He works in a government department."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-128",
@@ -12324,7 +12491,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "disgusting, despicable, repulsive",
+        "sentences": [
+          {
+            "thai": "พฤติกรรมโกหกแบบนี้น่ารังเกียจ",
+            "en": "Lying like this is despicable.",
+            "audio_src": "พฤติกรรมโกหกแบบนี้น่ารังเกียจ",
+            "audio_en_src": "Lying like this is despicable."
+          },
+          {
+            "thai": "ห้องน้ำสกปรกจนน่ารังเกียจ",
+            "en": "The bathroom is so dirty it's disgusting.",
+            "audio_src": "ห้องน้ำสกปรกจนน่ารังเกียจ",
+            "audio_en_src": "The bathroom is so dirty it's disgusting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-130",
@@ -12390,7 +12576,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "distinctive identity, unique characteristic",
+        "sentences": [
+          {
+            "thai": "อาหารไทยมีเอกลักษณ์เรื่องรสชาติ",
+            "en": "Thai food has a distinctive identity in its flavors.",
+            "audio_src": "อาหารไทยมีเอกลักษณ์เรื่องรสชาติ",
+            "audio_en_src": "Thai food has a distinctive identity in its flavors."
+          },
+          {
+            "thai": "เสียงร้องของเธอมีเอกลักษณ์มาก",
+            "en": "Her singing voice is very distinctive.",
+            "audio_src": "เสียงร้องของเธอมีเอกลักษณ์มาก",
+            "audio_en_src": "Her singing voice is very distinctive."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-136",
@@ -12403,7 +12608,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "singular, of its own, distinctive",
+        "sentences": [
+          {
+            "thai": "ศิลปินคนนี้มีสไตล์เฉพาะตัว",
+            "en": "This artist has a style all his own.",
+            "audio_src": "ศิลปินคนนี้มีสไตล์เฉพาะตัว",
+            "audio_en_src": "This artist has a style all his own."
+          },
+          {
+            "thai": "กลิ่นน้ำหอมนี้มีเสน่ห์เฉพาะตัว",
+            "en": "This perfume has a unique charm of its own.",
+            "audio_src": "กลิ่นน้ำหอมนี้มีเสน่ห์เฉพาะตัว",
+            "audio_en_src": "This perfume has a unique charm of its own."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-137",

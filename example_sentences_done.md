@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1444 words**
+**Total: 1454 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -189,6 +189,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-087` : เชย (dated, outdated, old-fashioned) : 1 meaning(s), 2 sentences
 - `chula-l6-088` : เทศบาล (municipality) : 1 meaning(s), 2 sentences
 - `chula-l6-097` : เครื่องเสียง (sound system, stereo) : 1 meaning(s), 2 sentences
+- `chula-l6-108` : แขวง (subdistrict in Bangkok; zone, section) : 2 meaning(s), 4 sentences
+- `chula-l6-114` : รับปาก (to promise, to give one's word) : 1 meaning(s), 2 sentences
+- `chula-l6-118` : กันเอง (informal, casual) : 1 meaning(s), 2 sentences
+- `chula-l6-119` : นำหน้า (to precede, to come before) : 1 meaning(s), 2 sentences
+- `chula-l6-121` : หลีกทาง (to make way, give way, step aside) : 1 meaning(s), 2 sentences
+- `chula-l6-125` : กว้างขวาง (spacious, large; (figuratively) extensive, broad) : 2 meaning(s), 4 sentences
+- `chula-l6-127` : หน่วยงาน (agency, department) : 1 meaning(s), 2 sentences
+- `chula-l6-129` : น่ารังเกียจ (disgusting, despicable, repulsive) : 1 meaning(s), 2 sentences
+- `chula-l6-135` : เอกลักษณ์ (distinctive identity, unique characteristic) : 1 meaning(s), 2 sentences
+- `chula-l6-136` : เฉพาะตัว (singular, of its own, distinctive) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
 - `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences
