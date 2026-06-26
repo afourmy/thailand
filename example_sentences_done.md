@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1694 words**
+**Total: 1704 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -629,9 +629,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-076` : รายการ (TV show, program; list, item) : 2 meaning(s), 4 sentences
 - `tamago-l3-077` : คิดเลข (to calculate, to do arithmetic) : 1 meaning(s), 2 sentences
 - `tamago-l3-078` : อวด, โอ้อวด (to show off, to brag) : 1 meaning(s), 2 sentences
+- `tamago-l3-080` : คนรอบข้าง (the people around) : 1 meaning(s), 2 sentences
+- `tamago-l3-081` : ประกวด (to enter a contest, to compete) : 1 meaning(s), 2 sentences
+- `tamago-l3-086` : ร้องตาม (to sing along) : 1 meaning(s), 2 sentences
+- `tamago-l3-087` : ท่อน (line, section, segment) : 1 meaning(s), 2 sentences
 - `tamago-l3-088` : ทันสมัย (up-to-date, modern) : 1 meaning(s), 2 sentences
+- `tamago-l3-089` : ตามทัน (to keep up with, to catch up with) : 1 meaning(s), 2 sentences
+- `tamago-l3-092` : น่าเป็นห่วง (worrying, concerning) : 1 meaning(s), 2 sentences
+- `tamago-l3-094` : แกล้ง (to tease, to pick on; to pretend (in a deceptive or playful way)) : 2 meaning(s), 4 sentences
+- `tamago-l3-095` : ชวด (to miss out, to lose a chance to get something) : 1 meaning(s), 2 sentences
 - `tamago-l3-097` : แอบ (secretly, without others knowing; a little, slightly) : 2 meaning(s), 4 sentences
 - `tamago-l3-098` : โล่งใจ, โล่งอก (relieved, to feel relieved) : 1 meaning(s), 2 sentences
+- `tamago-l3-099` : วางสาย (to hang up (the phone)) : 1 meaning(s), 2 sentences
+- `tamago-l3-100` : พัฒนาการ (development, progress) : 1 meaning(s), 2 sentences
 - `tamago-l3-102` : หลอก (to deceive, to fool, to trick) : 1 meaning(s), 2 sentences
 - `tamago-l3-117` : นานๆ (rarely, once in a long while) : 1 meaning(s), 2 sentences
 - `tamago-l3-118` : ประเด็น (point (of a statement), issue, topic) : 1 meaning(s), 2 sentences

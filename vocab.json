@@ -33258,7 +33258,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "the people around",
+        "sentences": [
+          {
+            "thai": "เขาใส่ใจความรู้สึกของคนรอบข้าง",
+            "en": "He cares about the feelings of the people around him.",
+            "audio_src": "เขาใส่ใจความรู้สึกของคนรอบข้าง",
+            "audio_en_src": "He cares about the feelings of the people around him."
+          },
+          {
+            "thai": "คนรอบข้างคอยให้กำลังใจเธอเสมอ",
+            "en": "The people around her always cheer her on.",
+            "audio_src": "คนรอบข้างคอยให้กำลังใจเธอเสมอ",
+            "audio_en_src": "The people around her always cheer her on."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-081",
@@ -33272,7 +33291,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to enter a contest, to compete",
+        "sentences": [
+          {
+            "thai": "เธอส่งภาพถ่ายเข้าประกวด",
+            "en": "She submitted a photo to the contest.",
+            "audio_src": "เธอส่งภาพถ่ายเข้าประกวด",
+            "audio_en_src": "She submitted a photo to the contest."
+          },
+          {
+            "thai": "ปีนี้เขาประกวดร้องเพลงระดับจังหวัด",
+            "en": "This year he competed in a provincial singing contest.",
+            "audio_src": "ปีนี้เขาประกวดร้องเพลงระดับจังหวัด",
+            "audio_en_src": "This year he competed in a provincial singing contest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-082",
@@ -33315,7 +33353,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to sing along",
+        "sentences": [
+          {
+            "thai": "พอเพลงโปรดดังขึ้น ทุกคนก็ร้องตาม",
+            "en": "When the favorite song came on, everyone sang along.",
+            "audio_src": "พอเพลงโปรดดังขึ้น ทุกคนก็ร้องตาม",
+            "audio_en_src": "When the favorite song came on, everyone sang along."
+          },
+          {
+            "thai": "เธอร้องตามเพลงในรถได้ทุกคำ",
+            "en": "She sang along to the song in the car word for word.",
+            "audio_src": "เธอร้องตามเพลงในรถได้ทุกคำ",
+            "audio_en_src": "She sang along to the song in the car word for word."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-087",
@@ -33328,7 +33385,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "line, section, segment",
+        "sentences": [
+          {
+            "thai": "ท่อนฮุกของเพลงนี้ติดหูมาก",
+            "en": "The chorus of this song is really catchy.",
+            "audio_src": "ท่อนฮุกของเพลงนี้ติดหูมาก",
+            "audio_en_src": "The chorus of this song is really catchy."
+          },
+          {
+            "thai": "เขาเลื่อยไม้ออกเป็นท่อนๆ",
+            "en": "He sawed the wood into segments.",
+            "audio_src": "เขาเลื่อยไม้ออกเป็นท่อนๆ",
+            "audio_en_src": "He sawed the wood into segments."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-088",
@@ -33377,7 +33453,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to keep up with, to catch up with",
+        "sentences": [
+          {
+            "thai": "ครูพูดเร็วไป นักเรียนตามไม่ทัน",
+            "en": "The teacher speaks too fast, students can't keep up.",
+            "audio_src": "ครูพูดเร็วไป นักเรียนตามไม่ทัน",
+            "audio_en_src": "The teacher speaks too fast, students can't keep up."
+          },
+          {
+            "thai": "เขาวิ่งเร็วจนไม่มีใครตามทัน",
+            "en": "He runs so fast no one can catch up.",
+            "audio_src": "เขาวิ่งเร็วจนไม่มีใครตามทัน",
+            "audio_en_src": "He runs so fast no one can catch up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-090",
@@ -33410,7 +33505,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "worrying, concerning",
+        "sentences": [
+          {
+            "thai": "อาการป่วยของเขาน่าเป็นห่วง",
+            "en": "His illness is worrying.",
+            "audio_src": "อาการป่วยของเขาน่าเป็นห่วง",
+            "audio_en_src": "His illness is worrying."
+          },
+          {
+            "thai": "ผลสอบของลูกน่าเป็นห่วงมาก",
+            "en": "My child's exam results are very concerning.",
+            "audio_src": "ผลสอบของลูกน่าเป็นห่วงมาก",
+            "audio_en_src": "My child's exam results are very concerning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-094",
@@ -33424,7 +33538,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to tease, to pick on",
+        "sentences": [
+          {
+            "thai": "พี่ชอบแกล้งน้องจนน้องร้องไห้",
+            "en": "The older sibling likes to pick on the younger one until they cry.",
+            "audio_src": "พี่ชอบแกล้งน้องจนน้องร้องไห้",
+            "audio_en_src": "The older sibling likes to pick on the younger one until they cry."
+          },
+          {
+            "thai": "เพื่อนแกล้งซ่อนกระเป๋าของเขา",
+            "en": "His friend teased him by hiding his bag.",
+            "audio_src": "เพื่อนแกล้งซ่อนกระเป๋าของเขา",
+            "audio_en_src": "His friend teased him by hiding his bag."
+          }
+        ]
+      },
+      {
+        "meaning": "to pretend (in a deceptive or playful way)",
+        "sentences": [
+          {
+            "thai": "เขาแกล้งทำเป็นไม่ได้ยินที่ฉันพูด",
+            "en": "He pretended he didn't hear what I said.",
+            "audio_src": "เขาแกล้งทำเป็นไม่ได้ยินที่ฉันพูด",
+            "audio_en_src": "He pretended he didn't hear what I said."
+          },
+          {
+            "thai": "เด็กแกล้งหลับเพื่อไม่ต้องไปโรงเรียน",
+            "en": "The kid pretended to be asleep to avoid going to school.",
+            "audio_src": "เด็กแกล้งหลับเพื่อไม่ต้องไปโรงเรียน",
+            "audio_en_src": "The kid pretended to be asleep to avoid going to school."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-095",
@@ -33436,7 +33586,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to miss out, to lose a chance to get something",
+        "sentences": [
+          {
+            "thai": "ไปสายเลยชวดตั๋วคอนเสิร์ต",
+            "en": "I was late, so I missed out on the concert tickets.",
+            "audio_src": "ไปสายเลยชวดตั๋วคอนเสิร์ต",
+            "audio_en_src": "I was late, so I missed out on the concert tickets."
+          },
+          {
+            "thai": "เขาชวดโอกาสดีไปเพราะตัดสินใจช้า",
+            "en": "He missed a good opportunity because he decided too slowly.",
+            "audio_src": "เขาชวดโอกาสดีไปเพราะตัดสินใจช้า",
+            "audio_en_src": "He missed a good opportunity because he decided too slowly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-096",
@@ -33545,7 +33714,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hang up (the phone)",
+        "sentences": [
+          {
+            "thai": "คุยยังไม่ทันจบเขาก็วางสายไปแล้ว",
+            "en": "Before we'd even finished talking, he hung up.",
+            "audio_src": "คุยยังไม่ทันจบเขาก็วางสายไปแล้ว",
+            "audio_en_src": "Before we'd even finished talking, he hung up."
+          },
+          {
+            "thai": "เดี๋ยวโทรกลับนะ ขอวางสายก่อน",
+            "en": "I'll call you back, let me hang up for now.",
+            "audio_src": "เดี๋ยวโทรกลับนะ ขอวางสายก่อน",
+            "audio_en_src": "I'll call you back, let me hang up for now."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-100",
@@ -33557,7 +33745,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "development, progress",
+        "sentences": [
+          {
+            "thai": "เด็กวัยนี้มีพัฒนาการด้านภาษาเร็ว",
+            "en": "Children this age have rapid language development.",
+            "audio_src": "เด็กวัยนี้มีพัฒนาการด้านภาษาเร็ว",
+            "audio_en_src": "Children this age have rapid language development."
+          },
+          {
+            "thai": "หมอติดตามพัฒนาการของทารกทุกเดือน",
+            "en": "The doctor monitors the baby's development every month.",
+            "audio_src": "หมอติดตามพัฒนาการของทารกทุกเดือน",
+            "audio_en_src": "The doctor monitors the baby's development every month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-101",
