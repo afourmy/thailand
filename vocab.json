@@ -21530,7 +21530,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "escalator",
+        "sentences": [
+          {
+            "thai": "ขึ้นบันไดเลื่อนไปชั้นสองนะ",
+            "en": "Take the escalator up to the second floor.",
+            "audio_src": "ขึ้นบันไดเลื่อนไปชั้นสองนะ",
+            "audio_en_src": "Take the escalator up to the second floor."
+          },
+          {
+            "thai": "บันไดเลื่อนเสีย ต้องเดินขึ้นแทน",
+            "en": "The escalator is broken, we have to walk up instead.",
+            "audio_src": "บันไดเลื่อนเสีย ต้องเดินขึ้นแทน",
+            "audio_en_src": "The escalator is broken, we have to walk up instead."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-259",
@@ -21579,7 +21598,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "calendar",
+        "sentences": [
+          {
+            "thai": "ฉันจดวันนัดไว้ในปฏิทิน",
+            "en": "I noted the appointment on my calendar.",
+            "audio_src": "ฉันจดวันนัดไว้ในปฏิทิน",
+            "audio_en_src": "I noted the appointment on my calendar."
+          },
+          {
+            "thai": "ปฏิทินปีนี้มีวันหยุดยาวหลายช่วง",
+            "en": "This year's calendar has several long holidays.",
+            "audio_src": "ปฏิทินปีนี้มีวันหยุดยาวหลายช่วง",
+            "audio_en_src": "This year's calendar has several long holidays."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-261",
@@ -21774,7 +21812,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to throw, to toss",
+        "sentences": [
+          {
+            "thai": "เด็กปาลูกบอลข้ามรั้ว",
+            "en": "The kid threw the ball over the fence.",
+            "audio_src": "เด็กปาลูกบอลข้ามรั้ว",
+            "audio_en_src": "The kid threw the ball over the fence."
+          },
+          {
+            "thai": "อย่าปาขยะลงพื้น",
+            "en": "Don't toss trash on the ground.",
+            "audio_src": "อย่าปาขยะลงพื้น",
+            "audio_en_src": "Don't toss trash on the ground."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-272",
@@ -21931,7 +21988,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "grey hair, white hair",
+        "sentences": [
+          {
+            "thai": "คุณตาผมขาวหมดทั้งหัวแล้ว",
+            "en": "Grandpa's hair has gone completely white.",
+            "audio_src": "คุณตาผมขาวหมดทั้งหัวแล้ว",
+            "audio_en_src": "Grandpa's hair has gone completely white."
+          },
+          {
+            "thai": "เธอเริ่มมีผมขาวตอนอายุสามสิบ",
+            "en": "She started getting grey hairs at thirty.",
+            "audio_src": "เธอเริ่มมีผมขาวตอนอายุสามสิบ",
+            "audio_en_src": "She started getting grey hairs at thirty."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-282",
@@ -21943,7 +22019,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "bangs (fringe)",
+        "sentences": [
+          {
+            "thai": "เธอตัดผมหน้าม้าแล้วดูเด็กลง",
+            "en": "She cut bangs and looks younger.",
+            "audio_src": "เธอตัดผมหน้าม้าแล้วดูเด็กลง",
+            "audio_en_src": "She cut bangs and looks younger."
+          },
+          {
+            "thai": "ผมหน้าม้ายาวจนบังตา",
+            "en": "Her bangs are so long they cover her eyes.",
+            "audio_src": "ผมหน้าม้ายาวจนบังตา",
+            "audio_en_src": "Her bangs are so long they cover her eyes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-283",
@@ -22071,7 +22166,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "elderly person, senior",
+        "sentences": [
+          {
+            "thai": "ที่นั่งนี้สำรองไว้ให้ผู้สูงอายุ",
+            "en": "This seat is reserved for the elderly.",
+            "audio_src": "ที่นั่งนี้สำรองไว้ให้ผู้สูงอายุ",
+            "audio_en_src": "This seat is reserved for the elderly."
+          },
+          {
+            "thai": "ผู้สูงอายุควรออกกำลังกายเบาๆ",
+            "en": "Seniors should do light exercise.",
+            "audio_src": "ผู้สูงอายุควรออกกำลังกายเบาๆ",
+            "audio_en_src": "Seniors should do light exercise."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-292",
@@ -22177,7 +22291,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "the opposite side",
+        "sentences": [
+          {
+            "thai": "ร้านอยู่ฝั่งตรงข้ามถนน",
+            "en": "The shop is on the opposite side of the street.",
+            "audio_src": "ร้านอยู่ฝั่งตรงข้ามถนน",
+            "audio_en_src": "The shop is on the opposite side of the street."
+          },
+          {
+            "thai": "เขาโบกมือเรียกจากฝั่งตรงข้าม",
+            "en": "He waved to call out from the other side.",
+            "audio_src": "เขาโบกมือเรียกจากฝั่งตรงข้าม",
+            "audio_en_src": "He waved to call out from the other side."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-298",
@@ -22280,7 +22413,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to leave a message",
+        "sentences": [
+          {
+            "thai": "เขาไม่อยู่ ฝากข้อความไว้ได้นะ",
+            "en": "He's not in, you can leave a message.",
+            "audio_src": "เขาไม่อยู่ ฝากข้อความไว้ได้นะ",
+            "audio_en_src": "He's not in, you can leave a message."
+          },
+          {
+            "thai": "ฉันฝากข้อความไว้แล้วแต่เขายังไม่โทรกลับ",
+            "en": "I left a message but he hasn't called back.",
+            "audio_src": "ฉันฝากข้อความไว้แล้วแต่เขายังไม่โทรกลับ",
+            "audio_en_src": "I left a message but he hasn't called back."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-301",
@@ -22292,7 +22444,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to intern, to do an internship",
+        "sentences": [
+          {
+            "thai": "ปิดเทอมนี้เขาไปฝึกงานที่โรงพยาบาล",
+            "en": "This break he's interning at a hospital.",
+            "audio_src": "ปิดเทอมนี้เขาไปฝึกงานที่โรงพยาบาล",
+            "audio_en_src": "This break he's interning at a hospital."
+          },
+          {
+            "thai": "นักศึกษาต้องฝึกงานก่อนจบ",
+            "en": "Students have to do an internship before graduating.",
+            "audio_src": "นักศึกษาต้องฝึกงานก่อนจบ",
+            "audio_en_src": "Students have to do an internship before graduating."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-302",
@@ -22354,7 +22525,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "physical education (school subject)",
+        "sentences": [
+          {
+            "thai": "วันนี้มีเรียนพละตอนบ่าย",
+            "en": "We have P.E. class this afternoon.",
+            "audio_src": "วันนี้มีเรียนพละตอนบ่าย",
+            "audio_en_src": "We have P.E. class this afternoon."
+          },
+          {
+            "thai": "ครูพละให้วิ่งรอบสนาม",
+            "en": "The P.E. teacher had us run around the field.",
+            "audio_src": "ครูพละให้วิ่งรอบสนาม",
+            "audio_en_src": "The P.E. teacher had us run around the field."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-308",

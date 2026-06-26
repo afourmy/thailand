@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1564 words**
+**Total: 1574 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -374,18 +374,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-253` : บัง (to block, to obstruct (view, light); to hide, to cover up) : 2 meaning(s), 4 sentences
 - `tamago-l12-254` : บังเอิญ (by chance, coincidentally; to happen (by chance)) : 2 meaning(s), 4 sentences
 - `tamago-l12-256` : บัตรประจำตัว (ID card) : 1 meaning(s), 2 sentences
+- `tamago-l12-258` : บันไดเลื่อน (escalator) : 1 meaning(s), 2 sentences
 - `tamago-l12-259` : บาง (thin) : 1 meaning(s), 2 sentences
+- `tamago-l12-260` : ปฏิทิน (calendar) : 1 meaning(s), 2 sentences
 - `tamago-l12-261` : ประจำ, เป็นประจำ (regularly, constantly, routinely) : 1 meaning(s), 2 sentences
 - `tamago-l12-266` : ปลูก (to plant, to grow) : 1 meaning(s), 2 sentences
 - `tamago-l12-268` : ปอก (to peel) : 1 meaning(s), 2 sentences
+- `tamago-l12-271` : ปา (to throw, to toss) : 1 meaning(s), 2 sentences
 - `tamago-l12-274` : ปีน (to climb) : 1 meaning(s), 2 sentences
 - `tamago-l12-275` : ปุ่ม (button) : 1 meaning(s), 2 sentences
 - `tamago-l12-278` : ป้ายรถเมล์ (bus stop) : 1 meaning(s), 2 sentences
+- `tamago-l12-281` : ผมขาว (grey hair, white hair) : 1 meaning(s), 2 sentences
+- `tamago-l12-282` : ผมหน้าม้า (bangs (fringe)) : 1 meaning(s), 2 sentences
 - `tamago-l12-286` : ผัด (to stir-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-287` : ผัดผัก (stir-fried vegetables) : 1 meaning(s), 2 sentences
+- `tamago-l12-289` : ผู้สูงอายุ (elderly person, senior) : 1 meaning(s), 2 sentences
 - `tamago-l12-296` : ฝรั่ง (guava; Westerner (informal)) : 2 meaning(s), 4 sentences
+- `tamago-l12-297` : ฝั่งตรงข้าม (the opposite side) : 1 meaning(s), 2 sentences
 - `tamago-l12-298` : ฝา (lid, cap (e.g bottle)) : 1 meaning(s), 2 sentences
 - `tamago-l12-299` : ฝาก (to leave with, to entrust; to give (as a gift)) : 2 meaning(s), 4 sentences
+- `tamago-l12-300` : ฝากข้อความ (to leave a message) : 1 meaning(s), 2 sentences
+- `tamago-l12-301` : ฝึกงาน (to intern, to do an internship) : 1 meaning(s), 2 sentences
+- `tamago-l12-307` : พละ (physical education (school subject)) : 1 meaning(s), 2 sentences
 - `tamago-l12-308` : พอ (enough; when, as soon as, once) : 2 meaning(s), 4 sentences
 - `tamago-l12-311` : พอๆกัน (almost the same, about the same) : 1 meaning(s), 2 sentences
 - `tamago-l12-312` : พักกลางวัน (lunch break) : 1 meaning(s), 2 sentences
