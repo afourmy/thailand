@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1434 words**
+**Total: 1444 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -177,8 +177,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-056` : ศักยภาพ (potential, capability) : 1 meaning(s), 2 sentences
 - `chula-l6-062` : มหาศาล (huge, colossal) : 1 meaning(s), 2 sentences
 - `chula-l6-066` : ตระหนัก (to be aware of, to realize) : 1 meaning(s), 2 sentences
+- `chula-l6-067` : เฉลี่ย (average) : 1 meaning(s), 2 sentences
+- `chula-l6-068` : ติดอันดับ (to be ranked) : 1 meaning(s), 2 sentences
+- `chula-l6-069` : รณรงค์ (to campaign, promote, advocate for) : 1 meaning(s), 2 sentences
+- `chula-l6-070` : ท้าทาย (to challenge) : 1 meaning(s), 2 sentences
+- `chula-l6-072` : พกพา (portable, to bear, to carry) : 1 meaning(s), 2 sentences
 - `chula-l6-073` : โฆษณา (to advertise) : 1 meaning(s), 2 sentences
+- `chula-l6-075` : จุดเด่น (highlight, strong point, distinguishing feature) : 1 meaning(s), 2 sentences
+- `chula-l6-082` : ก้าวก่าย (to intrude, interfere, meddle with) : 1 meaning(s), 2 sentences
+- `chula-l6-085` : เพศสัมพันธ์ (sexual intercourse) : 1 meaning(s), 2 sentences
 - `chula-l6-087` : เชย (dated, outdated, old-fashioned) : 1 meaning(s), 2 sentences
+- `chula-l6-088` : เทศบาล (municipality) : 1 meaning(s), 2 sentences
+- `chula-l6-097` : เครื่องเสียง (sound system, stereo) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
 - `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences

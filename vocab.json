@@ -11411,7 +11411,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "average",
+        "sentences": [
+          {
+            "thai": "คะแนนเฉลี่ยของห้องค่อนข้างดี",
+            "en": "The class's average score is pretty good.",
+            "audio_src": "คะแนนเฉลี่ยของห้องค่อนข้างดี",
+            "audio_en_src": "The class's average score is pretty good."
+          },
+          {
+            "thai": "เราเฉลี่ยค่าอาหารกันคนละสองร้อย",
+            "en": "We split the food bill at two hundred each.",
+            "audio_src": "เราเฉลี่ยค่าอาหารกันคนละสองร้อย",
+            "audio_en_src": "We split the food bill at two hundred each."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-068",
@@ -11423,7 +11442,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be ranked",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้ติดอันดับหนังทำเงินสูงสุด",
+            "en": "This movie ranks among the highest-grossing films.",
+            "audio_src": "หนังเรื่องนี้ติดอันดับหนังทำเงินสูงสุด",
+            "audio_en_src": "This movie ranks among the highest-grossing films."
+          },
+          {
+            "thai": "มหาวิทยาลัยนี้ติดอันดับโลก",
+            "en": "This university makes the world rankings.",
+            "audio_src": "มหาวิทยาลัยนี้ติดอันดับโลก",
+            "audio_en_src": "This university makes the world rankings."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-069",
@@ -11437,7 +11475,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to campaign, promote, advocate for",
+        "sentences": [
+          {
+            "thai": "รัฐบาลรณรงค์ให้คนสวมหมวกกันน็อก",
+            "en": "The government campaigns for people to wear helmets.",
+            "audio_src": "รัฐบาลรณรงค์ให้คนสวมหมวกกันน็อก",
+            "audio_en_src": "The government campaigns for people to wear helmets."
+          },
+          {
+            "thai": "โรงเรียนรณรงค์ลดการใช้ถุงพลาสติก",
+            "en": "The school is campaigning to reduce plastic bag use.",
+            "audio_src": "โรงเรียนรณรงค์ลดการใช้ถุงพลาสติก",
+            "audio_en_src": "The school is campaigning to reduce plastic bag use."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-070",
@@ -11450,7 +11507,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to challenge",
+        "sentences": [
+          {
+            "thai": "งานใหม่ของเขาท้าทายมาก",
+            "en": "His new job is very challenging.",
+            "audio_src": "งานใหม่ของเขาท้าทายมาก",
+            "audio_en_src": "His new job is very challenging."
+          },
+          {
+            "thai": "การปีนเขาเป็นกิจกรรมที่ท้าทาย",
+            "en": "Mountain climbing is a challenging activity.",
+            "audio_src": "การปีนเขาเป็นกิจกรรมที่ท้าทาย",
+            "audio_en_src": "Mountain climbing is a challenging activity."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-071",
@@ -11472,7 +11548,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "portable, to bear, to carry",
+        "sentences": [
+          {
+            "thai": "ลำโพงตัวนี้พกพาสะดวก",
+            "en": "This speaker is easy to carry around.",
+            "audio_src": "ลำโพงตัวนี้พกพาสะดวก",
+            "audio_en_src": "This speaker is easy to carry around."
+          },
+          {
+            "thai": "ห้ามพกพาอาวุธเข้ามาในงาน",
+            "en": "Carrying weapons into the event is prohibited.",
+            "audio_src": "ห้ามพกพาอาวุธเข้ามาในงาน",
+            "audio_en_src": "Carrying weapons into the event is prohibited."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-073",
@@ -11533,7 +11628,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "highlight, strong point, distinguishing feature",
+        "sentences": [
+          {
+            "thai": "จุดเด่นของร้านนี้คือกาแฟสด",
+            "en": "This shop's strong point is its fresh coffee.",
+            "audio_src": "จุดเด่นของร้านนี้คือกาแฟสด",
+            "audio_en_src": "This shop's strong point is its fresh coffee."
+          },
+          {
+            "thai": "เธอรู้จุดเด่นของตัวเองดี",
+            "en": "She knows her own strengths well.",
+            "audio_src": "เธอรู้จุดเด่นของตัวเองดี",
+            "audio_en_src": "She knows her own strengths well."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-076",
@@ -11598,7 +11712,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to intrude, interfere, meddle with",
+        "sentences": [
+          {
+            "thai": "อย่ามาก้าวก่ายเรื่องส่วนตัวของฉัน",
+            "en": "Don't meddle in my private life.",
+            "audio_src": "อย่ามาก้าวก่ายเรื่องส่วนตัวของฉัน",
+            "audio_en_src": "Don't meddle in my private life."
+          },
+          {
+            "thai": "หัวหน้าไม่ชอบให้ใครก้าวก่ายงานของเขา",
+            "en": "The boss doesn't like anyone interfering with his work.",
+            "audio_src": "หัวหน้าไม่ชอบให้ใครก้าวก่ายงานของเขา",
+            "audio_en_src": "The boss doesn't like anyone interfering with his work."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-083",
@@ -11632,7 +11765,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "sexual intercourse",
+        "sentences": [
+          {
+            "thai": "การมีเพศสัมพันธ์ที่ปลอดภัยช่วยป้องกันโรค",
+            "en": "Having safe sex helps prevent disease.",
+            "audio_src": "การมีเพศสัมพันธ์ที่ปลอดภัยช่วยป้องกันโรค",
+            "audio_en_src": "Having safe sex helps prevent disease."
+          },
+          {
+            "thai": "โรงเรียนสอนเรื่องเพศสัมพันธ์ในวิชาสุขศึกษา",
+            "en": "Schools teach about sex in health class.",
+            "audio_src": "โรงเรียนสอนเรื่องเพศสัมพันธ์ในวิชาสุขศึกษา",
+            "audio_en_src": "Schools teach about sex in health class."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-086",
@@ -11691,7 +11843,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "municipality",
+        "sentences": [
+          {
+            "thai": "เทศบาลกำลังซ่อมถนนในเมือง",
+            "en": "The municipality is repairing the roads in town.",
+            "audio_src": "เทศบาลกำลังซ่อมถนนในเมือง",
+            "audio_en_src": "The municipality is repairing the roads in town."
+          },
+          {
+            "thai": "เขาไปติดต่อเรื่องเอกสารที่เทศบาล",
+            "en": "He went to the municipal office about some documents.",
+            "audio_src": "เขาไปติดต่อเรื่องเอกสารที่เทศบาล",
+            "audio_en_src": "He went to the municipal office about some documents."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-089",
@@ -11789,7 +11960,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "sound system, stereo",
+        "sentences": [
+          {
+            "thai": "เขาเปิดเครื่องเสียงดังทั้งคืน",
+            "en": "He played the sound system loud all night.",
+            "audio_src": "เขาเปิดเครื่องเสียงดังทั้งคืน",
+            "audio_en_src": "He played the sound system loud all night."
+          },
+          {
+            "thai": "ร้านนี้ติดตั้งเครื่องเสียงในรถ",
+            "en": "This shop installs car stereos.",
+            "audio_src": "ร้านนี้ติดตั้งเครื่องเสียงในรถ",
+            "audio_en_src": "This shop installs car stereos."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-098",
