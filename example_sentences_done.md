@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1484 words**
+**Total: 1494 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -235,6 +235,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-238` : กรอง (to filter, to strain) : 1 meaning(s), 2 sentences
 - `chula-l6-239` : คน (person; to stir (food)) : 2 meaning(s), 4 sentences
 - `chula-l6-240` : หยาบ (rough, coarse, rude) : 1 meaning(s), 2 sentences
+- `chula-l6-241` : เปิดตัว (to launch, introduce, unveil (event, product); to introduce a romantic partner to friends or family) : 2 meaning(s), 4 sentences
+- `chula-l6-252` : แกว่ง (to swing, to sway) : 1 meaning(s), 2 sentences
+- `chula-l6-256` : ไกลลิบ (very far away) : 1 meaning(s), 2 sentences
+- `chula-l6-261` : แปลกใหม่ (novel, original, innovative, new and different) : 1 meaning(s), 2 sentences
+- `chula-l6-262` : กำกับ (to direct (movie, series)) : 1 meaning(s), 2 sentences
+- `chula-l6-265` : ลอก (to copy (cheat); to peel, to shed (skin, paint)) : 2 meaning(s), 4 sentences
+- `chula-l6-267` : เนื้อเรื่อง, โครงเรื่อง (plot, storyline) : 1 meaning(s), 2 sentences
+- `chula-l6-269` : นักข่าว (reporter) : 1 meaning(s), 2 sentences
+- `chula-l6-270` : ผู้จัด (organizer; producer (of a movie, a show)) : 2 meaning(s), 4 sentences
+- `chula-l6-272` : คาดเดา (to guess, predict, speculate, infer from clues) : 1 meaning(s), 2 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences

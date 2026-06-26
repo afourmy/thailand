@@ -14702,7 +14702,43 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to launch, introduce, unveil (event, product)",
+        "sentences": [
+          {
+            "thai": "บริษัทเพิ่งเปิดตัวมือถือรุ่นใหม่",
+            "en": "The company just launched a new phone model.",
+            "audio_src": "บริษัทเพิ่งเปิดตัวมือถือรุ่นใหม่",
+            "audio_en_src": "The company just launched a new phone model."
+          },
+          {
+            "thai": "หนังเรื่องนี้จะเปิดตัวเดือนหน้า",
+            "en": "This movie will be released next month.",
+            "audio_src": "หนังเรื่องนี้จะเปิดตัวเดือนหน้า",
+            "audio_en_src": "This movie will be released next month."
+          }
+        ]
+      },
+      {
+        "meaning": "to introduce a romantic partner to friends or family",
+        "sentences": [
+          {
+            "thai": "เขาพาแฟนมาเปิดตัวกับเพื่อนๆ",
+            "en": "He brought his girlfriend to introduce her to his friends.",
+            "audio_src": "เขาพาแฟนมาเปิดตัวกับเพื่อนๆ",
+            "audio_en_src": "He brought his girlfriend to introduce her to his friends."
+          },
+          {
+            "thai": "เมื่อไหร่จะเปิดตัวแฟนใหม่ให้รู้จักบ้าง",
+            "en": "When are you going to introduce your new partner to us?",
+            "audio_src": "เมื่อไหร่จะเปิดตัวแฟนใหม่ให้รู้จักบ้าง",
+            "audio_en_src": "When are you going to introduce your new partner to us?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-242",
@@ -14819,7 +14855,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to swing, to sway",
+        "sentences": [
+          {
+            "thai": "น้องนั่งแกว่งขาเล่นบนเก้าอี้",
+            "en": "The kid sits swinging his legs on the chair.",
+            "audio_src": "น้องนั่งแกว่งขาเล่นบนเก้าอี้",
+            "audio_en_src": "The kid sits swinging his legs on the chair."
+          },
+          {
+            "thai": "ลมแรงจนกิ่งไม้แกว่งไปมา",
+            "en": "The wind is so strong the branches sway back and forth.",
+            "audio_src": "ลมแรงจนกิ่งไม้แกว่งไปมา",
+            "audio_en_src": "The wind is so strong the branches sway back and forth."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-253",
@@ -14863,7 +14918,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "very far away",
+        "sentences": [
+          {
+            "thai": "บ้านเขาอยู่ไกลลิบ กว่าจะถึงก็เหนื่อย",
+            "en": "His house is very far away, it's tiring to get there.",
+            "audio_src": "บ้านเขาอยู่ไกลลิบ กว่าจะถึงก็เหนื่อย",
+            "audio_en_src": "His house is very far away, it's tiring to get there."
+          },
+          {
+            "thai": "มองไปเห็นภูเขาอยู่ไกลลิบ",
+            "en": "Looking out, I can see mountains far in the distance.",
+            "audio_src": "มองไปเห็นภูเขาอยู่ไกลลิบ",
+            "audio_en_src": "Looking out, I can see mountains far in the distance."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-257",
@@ -14918,7 +14992,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "novel, original, innovative, new and different",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีเมนูแปลกใหม่ให้ลองเยอะ",
+            "en": "This shop has lots of novel dishes to try.",
+            "audio_src": "ร้านนี้มีเมนูแปลกใหม่ให้ลองเยอะ",
+            "audio_en_src": "This shop has lots of novel dishes to try."
+          },
+          {
+            "thai": "เขาชอบคิดอะไรแปลกใหม่อยู่เสมอ",
+            "en": "He always likes to come up with new and different ideas.",
+            "audio_src": "เขาชอบคิดอะไรแปลกใหม่อยู่เสมอ",
+            "audio_en_src": "He always likes to come up with new and different ideas."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-262",
@@ -14932,7 +15025,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to direct (movie, series)",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้ใครกำกับ",
+            "en": "Who directed this movie?",
+            "audio_src": "หนังเรื่องนี้ใครกำกับ",
+            "audio_en_src": "Who directed this movie?"
+          },
+          {
+            "thai": "เขาฝันอยากกำกับหนังของตัวเอง",
+            "en": "He dreams of directing his own film.",
+            "audio_src": "เขาฝันอยากกำกับหนังของตัวเอง",
+            "audio_en_src": "He dreams of directing his own film."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-263",
@@ -14967,7 +15079,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to copy (cheat)",
+        "sentences": [
+          {
+            "thai": "ครูจับได้ว่าเขาลอกข้อสอบ",
+            "en": "The teacher caught him cheating on the exam.",
+            "audio_src": "ครูจับได้ว่าเขาลอกข้อสอบ",
+            "audio_en_src": "The teacher caught him cheating on the exam."
+          },
+          {
+            "thai": "อย่าลอกการบ้านเพื่อนนะ",
+            "en": "Don't copy your friend's homework.",
+            "audio_src": "อย่าลอกการบ้านเพื่อนนะ",
+            "audio_en_src": "Don't copy your friend's homework."
+          }
+        ]
+      },
+      {
+        "meaning": "to peel, to shed (skin, paint)",
+        "sentences": [
+          {
+            "thai": "ผนังห้องเก่าจนสีลอก",
+            "en": "The room's walls are so old the paint is peeling.",
+            "audio_src": "ผนังห้องเก่าจนสีลอก",
+            "audio_en_src": "The room's walls are so old the paint is peeling."
+          },
+          {
+            "thai": "โดนแดดเผาจนผิวลอก",
+            "en": "I got so sunburned my skin is peeling.",
+            "audio_src": "โดนแดดเผาจนผิวลอก",
+            "audio_en_src": "I got so sunburned my skin is peeling."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-266",
@@ -14991,7 +15139,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "plot, storyline",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้เนื้อเรื่องสนุกมาก",
+            "en": "This movie's plot is really fun.",
+            "audio_src": "หนังเรื่องนี้เนื้อเรื่องสนุกมาก",
+            "audio_en_src": "This movie's plot is really fun."
+          },
+          {
+            "thai": "นิยายเล่มนี้โครงเรื่องซับซ้อน",
+            "en": "This novel's plot is complex.",
+            "audio_src": "นิยายเล่มนี้โครงเรื่องซับซ้อน",
+            "audio_en_src": "This novel's plot is complex."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-268",
@@ -15014,7 +15181,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "reporter",
+        "sentences": [
+          {
+            "thai": "นักข่าวไปทำข่าวที่เกิดเหตุ",
+            "en": "The reporter went to cover the news at the scene.",
+            "audio_src": "นักข่าวไปทำข่าวที่เกิดเหตุ",
+            "audio_en_src": "The reporter went to cover the news at the scene."
+          },
+          {
+            "thai": "เธออยากเป็นนักข่าวตั้งแต่เด็ก",
+            "en": "She's wanted to be a reporter since she was a kid.",
+            "audio_src": "เธออยากเป็นนักข่าวตั้งแต่เด็ก",
+            "audio_en_src": "She's wanted to be a reporter since she was a kid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-270",
@@ -15026,7 +15212,43 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "organizer",
+        "sentences": [
+          {
+            "thai": "ผู้จัดงานเตรียมทุกอย่างไว้พร้อมแล้ว",
+            "en": "The organizer has everything ready.",
+            "audio_src": "ผู้จัดงานเตรียมทุกอย่างไว้พร้อมแล้ว",
+            "audio_en_src": "The organizer has everything ready."
+          },
+          {
+            "thai": "ต้องติดต่อผู้จัดถ้าอยากออกร้าน",
+            "en": "You have to contact the organizer if you want a booth.",
+            "audio_src": "ต้องติดต่อผู้จัดถ้าอยากออกร้าน",
+            "audio_en_src": "You have to contact the organizer if you want a booth."
+          }
+        ]
+      },
+      {
+        "meaning": "producer (of a movie, a show)",
+        "sentences": [
+          {
+            "thai": "ผู้จัดละครเลือกนักแสดงเอง",
+            "en": "The drama's producer picks the actors himself.",
+            "audio_src": "ผู้จัดละครเลือกนักแสดงเอง",
+            "audio_en_src": "The drama's producer picks the actors himself."
+          },
+          {
+            "thai": "เรื่องนี้ผู้จัดทุ่มทุนสร้างเยอะมาก",
+            "en": "The producer invested a lot of money in this production.",
+            "audio_src": "เรื่องนี้ผู้จัดทุ่มทุนสร้างเยอะมาก",
+            "audio_en_src": "The producer invested a lot of money in this production."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-271",
@@ -15049,7 +15271,26 @@
       "Thai 9000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to guess, predict, speculate, infer from clues",
+        "sentences": [
+          {
+            "thai": "ฉันคาดเดาไม่ได้เลยว่าเขาคิดอะไร",
+            "en": "I can't guess at all what he's thinking.",
+            "audio_src": "ฉันคาดเดาไม่ได้เลยว่าเขาคิดอะไร",
+            "audio_en_src": "I can't guess at all what he's thinking."
+          },
+          {
+            "thai": "ราคาทองคาดเดายาก",
+            "en": "Gold prices are hard to predict.",
+            "audio_src": "ราคาทองคาดเดายาก",
+            "audio_en_src": "Gold prices are hard to predict."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-273",
