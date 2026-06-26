@@ -33776,7 +33776,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to talk on the phone",
+        "sentences": [
+          {
+            "thai": "เขาคุยสายกับลูกค้าอยู่นานมาก",
+            "en": "He's been on the phone with a customer for a long time.",
+            "audio_src": "เขาคุยสายกับลูกค้าอยู่นานมาก",
+            "audio_en_src": "He's been on the phone with a customer for a long time."
+          },
+          {
+            "thai": "ตอนนี้คุยสายอยู่ เดี๋ยวโทรกลับนะ",
+            "en": "I'm on the phone right now, I'll call back later.",
+            "audio_src": "ตอนนี้คุยสายอยู่ เดี๋ยวโทรกลับนะ",
+            "audio_en_src": "I'm on the phone right now, I'll call back later."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-102",
@@ -33825,7 +33844,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to realize, to come to a realization",
+        "sentences": [
+          {
+            "thai": "เขาเพิ่งคิดได้ว่าลืมปิดเตา",
+            "en": "He just realized he forgot to turn off the stove.",
+            "audio_src": "เขาเพิ่งคิดได้ว่าลืมปิดเตา",
+            "audio_en_src": "He just realized he forgot to turn off the stove."
+          },
+          {
+            "thai": "กว่าจะคิดได้ก็สายไปแล้ว",
+            "en": "By the time he realized, it was already too late.",
+            "audio_src": "กว่าจะคิดได้ก็สายไปแล้ว",
+            "audio_en_src": "By the time he realized, it was already too late."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-104",
@@ -34031,7 +34069,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "neighboring country",
+        "sentences": [
+          {
+            "thai": "ลาวเป็นประเทศเพื่อนบ้านของไทย",
+            "en": "Laos is a neighboring country of Thailand.",
+            "audio_src": "ลาวเป็นประเทศเพื่อนบ้านของไทย",
+            "audio_en_src": "Laos is a neighboring country of Thailand."
+          },
+          {
+            "thai": "เราค้าขายกับประเทศเพื่อนบ้านมานาน",
+            "en": "We've traded with neighboring countries for a long time.",
+            "audio_src": "เราค้าขายกับประเทศเพื่อนบ้านมานาน",
+            "audio_en_src": "We've traded with neighboring countries for a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-121",
@@ -34154,7 +34211,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to compete for",
+        "sentences": [
+          {
+            "thai": "สองทีมเข้าชิงแชมป์รอบสุดท้าย",
+            "en": "The two teams competed for the championship in the final round.",
+            "audio_src": "สองทีมเข้าชิงแชมป์รอบสุดท้าย",
+            "audio_en_src": "The two teams competed for the championship in the final round."
+          },
+          {
+            "thai": "ผู้สมัครหลายคนชิงตำแหน่งนายก",
+            "en": "Several candidates are competing for the position of mayor.",
+            "audio_src": "ผู้สมัครหลายคนชิงตำแหน่งนายก",
+            "audio_en_src": "Several candidates are competing for the position of mayor."
+          }
+        ]
+      },
+      {
+        "meaning": "to seize, to snatch",
+        "sentences": [
+          {
+            "thai": "โจรชิงกระเป๋าของหญิงสาวแล้ววิ่งหนี",
+            "en": "The thief snatched the woman's bag and ran off.",
+            "audio_src": "โจรชิงกระเป๋าของหญิงสาวแล้ววิ่งหนี",
+            "audio_en_src": "The thief snatched the woman's bag and ran off."
+          },
+          {
+            "thai": "เด็กชิงของเล่นกันจนทะเลาะ",
+            "en": "The kids fought over snatching the toy.",
+            "audio_src": "เด็กชิงของเล่นกันจนทะเลาะ",
+            "audio_en_src": "The kids fought over snatching the toy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-126",
@@ -34210,7 +34303,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to tease someone (lightly)",
+        "sentences": [
+          {
+            "thai": "เพื่อนในกลุ่มชอบแซวเขาเรื่องแฟน",
+            "en": "His friend group likes to tease him about his girlfriend.",
+            "audio_src": "เพื่อนในกลุ่มชอบแซวเขาเรื่องแฟน",
+            "audio_en_src": "His friend group likes to tease him about his girlfriend."
+          },
+          {
+            "thai": "เธอแซวฉันว่าแต่งตัวเหมือนจะไปออกเดต",
+            "en": "She teased me that I was dressed like I was going on a date.",
+            "audio_src": "เธอแซวฉันว่าแต่งตัวเหมือนจะไปออกเดต",
+            "audio_en_src": "She teased me that I was dressed like I was going on a date."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-129",
@@ -34222,7 +34334,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to resell",
+        "sentences": [
+          {
+            "thai": "เขาซื้อรองเท้ารุ่นลิมิเต็ดมาขายต่อ",
+            "en": "He buys limited-edition sneakers to resell.",
+            "audio_src": "เขาซื้อรองเท้ารุ่นลิมิเต็ดมาขายต่อ",
+            "audio_en_src": "He buys limited-edition sneakers to resell."
+          },
+          {
+            "thai": "ของมือสองสภาพดีขายต่อได้ราคา",
+            "en": "Second-hand items in good condition resell for a good price.",
+            "audio_src": "ของมือสองสภาพดีขายต่อได้ราคา",
+            "audio_en_src": "Second-hand items in good condition resell for a good price."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-130",
@@ -34235,7 +34366,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "unexpected, unforeseen",
+        "sentences": [
+          {
+            "thai": "ผลลัพธ์ออกมาแบบที่คาดไม่ถึง",
+            "en": "The result turned out in an unexpected way.",
+            "audio_src": "ผลลัพธ์ออกมาแบบที่คาดไม่ถึง",
+            "audio_en_src": "The result turned out in an unexpected way."
+          },
+          {
+            "thai": "เขาช่วยฉันในเรื่องที่ฉันคาดไม่ถึง",
+            "en": "He helped me in a way I never expected.",
+            "audio_src": "เขาช่วยฉันในเรื่องที่ฉันคาดไม่ถึง",
+            "audio_en_src": "He helped me in a way I never expected."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-131",
@@ -34281,7 +34431,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take a vacation, summer holiday leave",
+        "sentences": [
+          {
+            "thai": "ปีนี้เขาลาพักร้อนไปเที่ยวญี่ปุ่น",
+            "en": "This year he took vacation leave to travel to Japan.",
+            "audio_src": "ปีนี้เขาลาพักร้อนไปเที่ยวญี่ปุ่น",
+            "audio_en_src": "This year he took vacation leave to travel to Japan."
+          },
+          {
+            "thai": "ฉันเหลือวันพักร้อนอีกห้าวัน",
+            "en": "I have five days of vacation leave left.",
+            "audio_src": "ฉันเหลือวันพักร้อนอีกห้าวัน",
+            "audio_en_src": "I have five days of vacation leave left."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-133",
@@ -34294,7 +34463,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to do one's job, to be in charge of",
+        "sentences": [
+          {
+            "thai": "เขาทำหน้าที่ของตัวเองได้ดีมาก",
+            "en": "He does his job very well.",
+            "audio_src": "เขาทำหน้าที่ของตัวเองได้ดีมาก",
+            "audio_en_src": "He does his job very well."
+          },
+          {
+            "thai": "วันนี้ฉันทำหน้าที่ดูแลลูกค้าแทนเพื่อน",
+            "en": "Today I'm covering customer service for my colleague.",
+            "audio_src": "วันนี้ฉันทำหน้าที่ดูแลลูกค้าแทนเพื่อน",
+            "audio_en_src": "Today I'm covering customer service for my colleague."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-134",
@@ -34411,7 +34599,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to go through, break through, pierce through",
+        "sentences": [
+          {
+            "thai": "ตะปูทะลุพื้นรองเท้า",
+            "en": "The nail pierced through the sole of the shoe.",
+            "audio_src": "ตะปูทะลุพื้นรองเท้า",
+            "audio_en_src": "The nail pierced through the sole of the shoe."
+          },
+          {
+            "thai": "ลูกบอลทะลุกระจกหน้าต่างแตก",
+            "en": "The ball broke through the window glass.",
+            "audio_src": "ลูกบอลทะลุกระจกหน้าต่างแตก",
+            "audio_en_src": "The ball broke through the window glass."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-141",

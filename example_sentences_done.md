@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1704 words**
+**Total: 1714 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -642,14 +642,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-098` : โล่งใจ, โล่งอก (relieved, to feel relieved) : 1 meaning(s), 2 sentences
 - `tamago-l3-099` : วางสาย (to hang up (the phone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-100` : พัฒนาการ (development, progress) : 1 meaning(s), 2 sentences
+- `tamago-l3-101` : คุยสาย (to talk on the phone) : 1 meaning(s), 2 sentences
 - `tamago-l3-102` : หลอก (to deceive, to fool, to trick) : 1 meaning(s), 2 sentences
+- `tamago-l3-103` : คิดได้ (to realize, to come to a realization) : 1 meaning(s), 2 sentences
 - `tamago-l3-117` : นานๆ (rarely, once in a long while) : 1 meaning(s), 2 sentences
 - `tamago-l3-118` : ประเด็น (point (of a statement), issue, topic) : 1 meaning(s), 2 sentences
+- `tamago-l3-120` : ประเทศเพื่อนบ้าน (neighboring country) : 1 meaning(s), 2 sentences
 - `tamago-l3-121` : ตี (to hit, to beat; to estimate a price) : 2 meaning(s), 4 sentences
 - `tamago-l3-124` : ถนัด (skilled at, good at, proficient in, familiar with) : 1 meaning(s), 2 sentences
+- `tamago-l3-125` : ชิง (to compete for; to seize, to snatch) : 2 meaning(s), 4 sentences
 - `tamago-l3-126` : ใส่ใจ (to pay attention, to care for) : 1 meaning(s), 2 sentences
+- `tamago-l3-128` : แซว (to tease someone (lightly)) : 1 meaning(s), 2 sentences
+- `tamago-l3-129` : ขายต่อ (to resell) : 1 meaning(s), 2 sentences
+- `tamago-l3-130` : คาดไม่ถึง (unexpected, unforeseen) : 1 meaning(s), 2 sentences
 - `tamago-l3-131` : ไม่น่าเชื่อ (unbelievable, hard to believe) : 1 meaning(s), 2 sentences
+- `tamago-l3-132` : พักร้อน (to take a vacation, summer holiday leave) : 1 meaning(s), 2 sentences
+- `tamago-l3-133` : ทำหน้าที่ (to do one's job, to be in charge of) : 1 meaning(s), 2 sentences
 - `tamago-l3-137` : จังหวะ (timing, rhythm, beat; moment, opportunity) : 2 meaning(s), 4 sentences
+- `tamago-l3-140` : ทะลุ (to go through, break through, pierce through) : 1 meaning(s), 2 sentences
 - `tamago-l3-141` : หลังคา (roof) : 1 meaning(s), 2 sentences
 - `tamago-l3-144` : เลี้ยงข้าว (to treat to a meal, to pay for someone's meal) : 1 meaning(s), 2 sentences
 - `tamago-l3-147` : ลูกอม (candy) : 1 meaning(s), 2 sentences
