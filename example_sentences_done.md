@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1384 words**
+**Total: 1394 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -117,7 +117,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-279` : ระมัดระวัง (careful) : 1 meaning(s), 2 sentences
 - `chula-l5-286` : อุปสรรค (obstacle) : 1 meaning(s), 2 sentences
 - `chula-l5-288` : ยกเลิก (to cancel) : 1 meaning(s), 2 sentences
+- `chula-l5-301` : กัมพูชา (Cambodia) : 1 meaning(s), 2 sentences
+- `chula-l5-302` : อิทธิพล (influence) : 1 meaning(s), 2 sentences
+- `chula-l5-318` : เรียน (to learn; to inform; "to", "dear" (official communication)) : 3 meaning(s), 6 sentences
+- `chula-l5-327` : แลก, แลกเปลี่ยน (to exchange) : 1 meaning(s), 2 sentences
+- `chula-l5-328` : แต้ม (point, dot, mark (+ classifier for these)) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
+- `chula-l5-331` : เงื่อนไข (condition) : 1 meaning(s), 2 sentences
+- `chula-l5-337` : จับคู่ (to pair up, to pair with) : 1 meaning(s), 2 sentences
+- `chula-l5-343` : กรอบ (framework, frame; crispy) : 2 meaning(s), 4 sentences
+- `chula-l5-344` : ทักษะ (skill) : 1 meaning(s), 2 sentences
+- `chula-l5-348` : พลังงาน (energy) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
 - `chula-l5-403` : ปรากฏ (to appear) : 1 meaning(s), 2 sentences

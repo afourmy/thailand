@@ -7519,7 +7519,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "Cambodia",
+        "sentences": [
+          {
+            "thai": "ปีที่แล้วฉันไปเที่ยวกัมพูชา",
+            "en": "Last year I traveled to Cambodia.",
+            "audio_src": "ปีที่แล้วฉันไปเที่ยวกัมพูชา",
+            "audio_en_src": "Last year I traveled to Cambodia."
+          },
+          {
+            "thai": "กัมพูชาอยู่ติดกับประเทศไทย",
+            "en": "Cambodia borders Thailand.",
+            "audio_src": "กัมพูชาอยู่ติดกับประเทศไทย",
+            "audio_en_src": "Cambodia borders Thailand."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-302",
@@ -7535,7 +7554,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "influence",
+        "sentences": [
+          {
+            "thai": "พ่อแม่มีอิทธิพลต่อความคิดของลูก",
+            "en": "Parents have an influence on their children's thinking.",
+            "audio_src": "พ่อแม่มีอิทธิพลต่อความคิดของลูก",
+            "audio_en_src": "Parents have an influence on their children's thinking."
+          },
+          {
+            "thai": "สื่อโซเชียลมีอิทธิพลมากในปัจจุบัน",
+            "en": "Social media has a lot of influence nowadays.",
+            "audio_src": "สื่อโซเชียลมีอิทธิพลมากในปัจจุบัน",
+            "audio_en_src": "Social media has a lot of influence nowadays."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-304",
@@ -7701,7 +7739,60 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to learn",
+        "sentences": [
+          {
+            "thai": "ลูกสาวเรียนภาษาจีนอยู่",
+            "en": "My daughter is learning Chinese.",
+            "audio_src": "ลูกสาวเรียนภาษาจีนอยู่",
+            "audio_en_src": "My daughter is learning Chinese."
+          },
+          {
+            "thai": "เขาเรียนเก่งที่สุดในห้อง",
+            "en": "He's the best student in the class.",
+            "audio_src": "เขาเรียนเก่งที่สุดในห้อง",
+            "audio_en_src": "He's the best student in the class."
+          }
+        ]
+      },
+      {
+        "meaning": "to inform",
+        "sentences": [
+          {
+            "thai": "ดิฉันขอเรียนให้ทราบว่าประชุมเลื่อน",
+            "en": "I'd like to inform you that the meeting is postponed.",
+            "audio_src": "ดิฉันขอเรียนให้ทราบว่าประชุมเลื่อน",
+            "audio_en_src": "I'd like to inform you that the meeting is postponed."
+          },
+          {
+            "thai": "ผมขอเรียนถามเรื่องนี้หน่อย",
+            "en": "May I ask you about this matter?",
+            "audio_src": "ผมขอเรียนถามเรื่องนี้หน่อย",
+            "audio_en_src": "May I ask you about this matter?"
+          }
+        ]
+      },
+      {
+        "meaning": "\"to\", \"dear\" (official communication)",
+        "sentences": [
+          {
+            "thai": "เรียน ท่านผู้จัดการ",
+            "en": "Dear Manager,",
+            "audio_src": "เรียน ท่านผู้จัดการ",
+            "audio_en_src": "Dear Manager,"
+          },
+          {
+            "thai": "จดหมายขึ้นต้นด้วยคำว่าเรียน",
+            "en": "The letter opens with the word 'Dear'.",
+            "audio_src": "จดหมายขึ้นต้นด้วยคำว่าเรียน",
+            "audio_en_src": "The letter opens with the word 'Dear'."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-320",
@@ -7793,7 +7884,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to exchange",
+        "sentences": [
+          {
+            "thai": "ฉันไปแลกเงินที่ธนาคาร",
+            "en": "I went to the bank to exchange money.",
+            "audio_src": "ฉันไปแลกเงินที่ธนาคาร",
+            "audio_en_src": "I went to the bank to exchange money."
+          },
+          {
+            "thai": "เราแลกเปลี่ยนความคิดเห็นกัน",
+            "en": "We exchanged opinions.",
+            "audio_src": "เราแลกเปลี่ยนความคิดเห็นกัน",
+            "audio_en_src": "We exchanged opinions."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-328",
@@ -7806,7 +7916,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "point, dot, mark (+ classifier for these)",
+        "sentences": [
+          {
+            "thai": "ทีมเราทำได้สามแต้ม",
+            "en": "Our team scored three points.",
+            "audio_src": "ทีมเราทำได้สามแต้ม",
+            "audio_en_src": "Our team scored three points."
+          },
+          {
+            "thai": "ลูกเต๋ามีแต้มหนึ่งถึงหก",
+            "en": "A die has dots from one to six.",
+            "audio_src": "ลูกเต๋ามีแต้มหนึ่งถึงหก",
+            "audio_en_src": "A die has dots from one to six."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-329",
@@ -7864,7 +7993,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "condition",
+        "sentences": [
+          {
+            "thai": "เขาตกลงโดยไม่มีเงื่อนไข",
+            "en": "He agreed without any conditions.",
+            "audio_src": "เขาตกลงโดยไม่มีเงื่อนไข",
+            "audio_en_src": "He agreed without any conditions."
+          },
+          {
+            "thai": "กรุณาอ่านเงื่อนไขก่อนสมัคร",
+            "en": "Please read the terms before signing up.",
+            "audio_src": "กรุณาอ่านเงื่อนไขก่อนสมัคร",
+            "audio_en_src": "Please read the terms before signing up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-332",
@@ -7933,7 +8081,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pair up, to pair with",
+        "sentences": [
+          {
+            "thai": "ครูให้นักเรียนจับคู่ทำงาน",
+            "en": "The teacher had the students pair up for the work.",
+            "audio_src": "ครูให้นักเรียนจับคู่ทำงาน",
+            "audio_en_src": "The teacher had the students pair up for the work."
+          },
+          {
+            "thai": "ช่วยจับคู่คำกับความหมายให้ถูก",
+            "en": "Match the words to their meanings correctly.",
+            "audio_src": "ช่วยจับคู่คำกับความหมายให้ถูก",
+            "audio_en_src": "Match the words to their meanings correctly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-339",
@@ -7995,7 +8162,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "framework, frame",
+        "sentences": [
+          {
+            "thai": "เขาใส่รูปครอบครัวไว้ในกรอบ",
+            "en": "He put the family photo in a frame.",
+            "audio_src": "เขาใส่รูปครอบครัวไว้ในกรอบ",
+            "audio_en_src": "He put the family photo in a frame."
+          },
+          {
+            "thai": "เราต้องทำงานให้เสร็จในกรอบเวลา",
+            "en": "We have to finish the work within the timeframe.",
+            "audio_src": "เราต้องทำงานให้เสร็จในกรอบเวลา",
+            "audio_en_src": "We have to finish the work within the timeframe."
+          }
+        ]
+      },
+      {
+        "meaning": "crispy",
+        "sentences": [
+          {
+            "thai": "ปลาทอดกรอบอร่อยมาก",
+            "en": "The fried fish is really crispy and delicious.",
+            "audio_src": "ปลาทอดกรอบอร่อยมาก",
+            "audio_en_src": "The fried fish is really crispy and delicious."
+          },
+          {
+            "thai": "ทอดไก่ให้กรอบทั้งสองด้าน",
+            "en": "Fry the chicken until it's crispy on both sides.",
+            "audio_src": "ทอดไก่ให้กรอบทั้งสองด้าน",
+            "audio_en_src": "Fry the chicken until it's crispy on both sides."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-344",
@@ -8010,7 +8213,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "skill",
+        "sentences": [
+          {
+            "thai": "เขามีทักษะการสื่อสารที่ดี",
+            "en": "He has good communication skills.",
+            "audio_src": "เขามีทักษะการสื่อสารที่ดี",
+            "audio_en_src": "He has good communication skills."
+          },
+          {
+            "thai": "การฝึกฝนช่วยพัฒนาทักษะ",
+            "en": "Practice helps develop skills.",
+            "audio_src": "การฝึกฝนช่วยพัฒนาทักษะ",
+            "audio_en_src": "Practice helps develop skills."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-345",
@@ -8062,7 +8284,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "energy",
+        "sentences": [
+          {
+            "thai": "บ้านนี้ใช้พลังงานแสงอาทิตย์",
+            "en": "This house uses solar energy.",
+            "audio_src": "บ้านนี้ใช้พลังงานแสงอาทิตย์",
+            "audio_en_src": "This house uses solar energy."
+          },
+          {
+            "thai": "กินข้าวเช้าให้มีพลังงานทั้งวัน",
+            "en": "Eat breakfast to have energy all day.",
+            "audio_src": "กินข้าวเช้าให้มีพลังงานทั้งวัน",
+            "audio_en_src": "Eat breakfast to have energy all day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-349",
