@@ -34668,7 +34668,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to tremble, to shake, to vibrate (phone)",
+        "sentences": [
+          {
+            "thai": "เธอหนาวจนตัวสั่น",
+            "en": "She was so cold she was shivering.",
+            "audio_src": "เธอหนาวจนตัวสั่น",
+            "audio_en_src": "She was so cold she was shivering."
+          },
+          {
+            "thai": "ตั้งโทรศัพท์ไว้โหมดสั่นตอนประชุม",
+            "en": "Set your phone to vibrate during the meeting.",
+            "audio_src": "ตั้งโทรศัพท์ไว้โหมดสั่นตอนประชุม",
+            "audio_en_src": "Set your phone to vibrate during the meeting."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-143",
@@ -34680,7 +34699,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to quarrel, to have an argument",
+        "sentences": [
+          {
+            "thai": "สองคนนั้นมีปากเสียงกันเรื่องเงิน",
+            "en": "Those two had an argument over money.",
+            "audio_src": "สองคนนั้นมีปากเสียงกันเรื่องเงิน",
+            "audio_en_src": "Those two had an argument over money."
+          },
+          {
+            "thai": "เขามีปากเสียงกับเพื่อนบ้านบ่อยๆ",
+            "en": "He often quarrels with the neighbors.",
+            "audio_src": "เขามีปากเสียงกับเพื่อนบ้านบ่อยๆ",
+            "audio_en_src": "He often quarrels with the neighbors."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-144",
@@ -34790,7 +34828,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to put in one's mouth, to suck on something",
+        "sentences": [
+          {
+            "thai": "เด็กอมลูกอมอยู่ในปาก",
+            "en": "The kid has candy in his mouth.",
+            "audio_src": "เด็กอมลูกอมอยู่ในปาก",
+            "audio_en_src": "The kid has candy in his mouth."
+          },
+          {
+            "thai": "หมอบอกให้อมยาไว้จนละลาย",
+            "en": "The doctor said to keep the lozenge in your mouth until it dissolves.",
+            "audio_src": "หมอบอกให้อมยาไว้จนละลาย",
+            "audio_en_src": "The doctor said to keep the lozenge in your mouth until it dissolves."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-150",
@@ -34813,7 +34870,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "lover, cheating partner",
+        "sentences": [
+          {
+            "thai": "เขาแอบมีชู้มานานโดยที่ภรรยาไม่รู้",
+            "en": "He's had a secret affair for a long time without his wife knowing.",
+            "audio_src": "เขาแอบมีชู้มานานโดยที่ภรรยาไม่รู้",
+            "audio_en_src": "He's had a secret affair for a long time without his wife knowing."
+          },
+          {
+            "thai": "เธอเลิกกับแฟนเพราะจับได้ว่ามีชู้",
+            "en": "She broke up with her boyfriend after catching him having an affair.",
+            "audio_src": "เธอเลิกกับแฟนเพราะจับได้ว่ามีชู้",
+            "audio_en_src": "She broke up with her boyfriend after catching him having an affair."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-152",
@@ -34869,7 +34945,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "candlelight",
+        "sentences": [
+          {
+            "thai": "ไฟดับ เราเลยจุดเทียนนั่งคุยกันใต้แสงเทียน",
+            "en": "The power went out, so we lit candles and chatted by candlelight.",
+            "audio_src": "ไฟดับ เราเลยจุดเทียนนั่งคุยกันใต้แสงเทียน",
+            "audio_en_src": "The power went out, so we lit candles and chatted by candlelight."
+          },
+          {
+            "thai": "ร้านอาหารนี้บรรยากาศโรแมนติกด้วยแสงเทียน",
+            "en": "This restaurant has a romantic atmosphere with candlelight.",
+            "audio_src": "ร้านอาหารนี้บรรยากาศโรแมนติกด้วยแสงเทียน",
+            "audio_en_src": "This restaurant has a romantic atmosphere with candlelight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-155",
@@ -34883,7 +34978,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "simple, uncomplicated, plain",
+        "sentences": [
+          {
+            "thai": "เขาใช้ชีวิตเรียบง่ายในชนบท",
+            "en": "He lives a simple life in the countryside.",
+            "audio_src": "เขาใช้ชีวิตเรียบง่ายในชนบท",
+            "audio_en_src": "He lives a simple life in the countryside."
+          },
+          {
+            "thai": "ชุดนี้ดีไซน์เรียบง่ายแต่ดูดี",
+            "en": "This outfit has a simple design but looks good.",
+            "audio_src": "ชุดนี้ดีไซน์เรียบง่ายแต่ดูดี",
+            "audio_en_src": "This outfit has a simple design but looks good."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-157",
@@ -35011,7 +35125,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "story, narrative",
+        "sentences": [
+          {
+            "thai": "เขาเล่าเรื่องราวชีวิตวัยเด็กให้ฟัง",
+            "en": "He told stories about his childhood.",
+            "audio_src": "เขาเล่าเรื่องราวชีวิตวัยเด็กให้ฟัง",
+            "audio_en_src": "He told stories about his childhood."
+          },
+          {
+            "thai": "หนังเรื่องนี้สร้างจากเรื่องราวจริง",
+            "en": "This movie is based on a true story.",
+            "audio_src": "หนังเรื่องนี้สร้างจากเรื่องราวจริง",
+            "audio_en_src": "This movie is based on a true story."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-164",
@@ -35023,7 +35156,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "pale",
+        "sentences": [
+          {
+            "thai": "หน้าเธอซีดเหมือนไม่สบาย",
+            "en": "Her face is pale like she's unwell.",
+            "audio_src": "หน้าเธอซีดเหมือนไม่สบาย",
+            "audio_en_src": "Her face is pale like she's unwell."
+          },
+          {
+            "thai": "เขาตกใจจนหน้าซีด",
+            "en": "He was so startled his face went pale.",
+            "audio_src": "เขาตกใจจนหน้าซีด",
+            "audio_en_src": "He was so startled his face went pale."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-165",
@@ -35067,7 +35219,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "damage, harm, negative consequence",
+        "sentences": [
+          {
+            "thai": "การนอนดึกมีผลเสียต่อสุขภาพ",
+            "en": "Staying up late has negative effects on health.",
+            "audio_src": "การนอนดึกมีผลเสียต่อสุขภาพ",
+            "audio_en_src": "Staying up late has negative effects on health."
+          },
+          {
+            "thai": "เขาไม่คิดถึงผลเสียที่จะตามมา",
+            "en": "He didn't think about the harm that would follow.",
+            "audio_src": "เขาไม่คิดถึงผลเสียที่จะตามมา",
+            "audio_en_src": "He didn't think about the harm that would follow."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-169",
@@ -35090,7 +35261,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to impact, to affect",
+        "sentences": [
+          {
+            "thai": "น้ำท่วมส่งผลกระทบต่อชาวนาอย่างหนัก",
+            "en": "The flood badly affected the farmers.",
+            "audio_src": "น้ำท่วมส่งผลกระทบต่อชาวนาอย่างหนัก",
+            "audio_en_src": "The flood badly affected the farmers."
+          },
+          {
+            "thai": "ราคาน้ำมันขึ้นส่งผลกระทบต่อค่าครองชีพ",
+            "en": "Rising oil prices impact the cost of living.",
+            "audio_src": "ราคาน้ำมันขึ้นส่งผลกระทบต่อค่าครองชีพ",
+            "audio_en_src": "Rising oil prices impact the cost of living."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-171",

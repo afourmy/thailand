@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1714 words**
+**Total: 1724 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -661,11 +661,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-137` : จังหวะ (timing, rhythm, beat; moment, opportunity) : 2 meaning(s), 4 sentences
 - `tamago-l3-140` : ทะลุ (to go through, break through, pierce through) : 1 meaning(s), 2 sentences
 - `tamago-l3-141` : หลังคา (roof) : 1 meaning(s), 2 sentences
+- `tamago-l3-142` : สั่น (to tremble, to shake, to vibrate (phone)) : 1 meaning(s), 2 sentences
+- `tamago-l3-143` : มีปากเสียง (to quarrel, to have an argument) : 1 meaning(s), 2 sentences
 - `tamago-l3-144` : เลี้ยงข้าว (to treat to a meal, to pay for someone's meal) : 1 meaning(s), 2 sentences
 - `tamago-l3-147` : ลูกอม (candy) : 1 meaning(s), 2 sentences
+- `tamago-l3-149` : อม (to put in one's mouth, to suck on something) : 1 meaning(s), 2 sentences
+- `tamago-l3-151` : ชู้ (lover, cheating partner) : 1 meaning(s), 2 sentences
 - `tamago-l3-152` : เห็นใจ (to sympathize, to feel compassion (for)) : 1 meaning(s), 2 sentences
+- `tamago-l3-154` : แสงเทียน (candlelight) : 1 meaning(s), 2 sentences
+- `tamago-l3-155` : เรียบง่าย (simple, uncomplicated, plain) : 1 meaning(s), 2 sentences
 - `tamago-l3-157` : ด่า (to scold, to curse, to insult harshly) : 1 meaning(s), 2 sentences
 - `tamago-l3-159` : เถียง, ถกเถียง, โต้เถียง (to argue, to talk back, to dispute) : 1 meaning(s), 2 sentences
+- `tamago-l3-163` : เรื่องราว (story, narrative) : 1 meaning(s), 2 sentences
+- `tamago-l3-164` : ซีด (pale) : 1 meaning(s), 2 sentences
+- `tamago-l3-168` : ผลเสีย (damage, harm, negative consequence) : 1 meaning(s), 2 sentences
+- `tamago-l3-170` : ส่งผลกระทบ (to impact, to affect) : 1 meaning(s), 2 sentences
 - `tamago-l3-184` : ขำ (funny, to laugh) : 1 meaning(s), 2 sentences
 - `tamago-l3-187` : ทัศนคติ (attitude, viewpoint) : 1 meaning(s), 2 sentences
 - `tamago-l3-193` : ดูบอล (to watch football (soccer)) : 1 meaning(s), 2 sentences
