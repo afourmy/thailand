@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1844 words**
+**Total: 1854 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -822,8 +822,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-473` : ให้เกียรติ (to give respect, to show respect to) : 1 meaning(s), 2 sentences
 - `tamago-l3-478` : เหยียบ (to step on, to tread on) : 1 meaning(s), 2 sentences
 - `wlt-c05-099` : ความสูง (height) : 1 meaning(s), 2 sentences
+- `tamago-l3-483` : สมบูรณ์แบบ (perfect, flawless) : 1 meaning(s), 2 sentences
+- `tamago-l3-484` : นายแบบ (male model) : 1 meaning(s), 2 sentences
+- `tamago-l3-485` : คบหาดูใจ (to date, to get to know each other romantically) : 1 meaning(s), 2 sentences
+- `tamago-l3-487` : ดักรอ (to lie in wait, to ambush) : 1 meaning(s), 2 sentences
+- `tamago-l3-490` : รุ่ง (to prosper, to succeed, to do well) : 1 meaning(s), 2 sentences
+- `tamago-l3-493` : ข่าวร้าย (bad news) : 1 meaning(s), 2 sentences
 - `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
+- `tamago-l3-495` : เอาใจ (to please, to pamper, to indulge someone) : 1 meaning(s), 2 sentences
+- `tamago-l3-499` : สุ่ม (to pick randomly) : 1 meaning(s), 2 sentences
+- `tamago-l3-500` : เอาตัวรอด (to get by, to survive, to manage) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
+- `tamago-l3-504` : พึ่ง, พึ่งพา (to rely on, to depend on) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences
 - `tamago-l3-515` : เลิกคบ (to break up, to end a relationship or friendship) : 1 meaning(s), 2 sentences
 - `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences

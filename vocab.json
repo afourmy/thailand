@@ -41764,7 +41764,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "perfect, flawless",
+        "sentences": [
+          {
+            "thai": "ไม่มีใครสมบูรณ์แบบไปทุกอย่าง",
+            "en": "No one is perfect at everything.",
+            "audio_src": "ไม่มีใครสมบูรณ์แบบไปทุกอย่าง",
+            "audio_en_src": "No one is perfect at everything."
+          },
+          {
+            "thai": "เธอเตรียมงานทุกอย่างได้อย่างสมบูรณ์แบบ",
+            "en": "She prepared everything for the event flawlessly.",
+            "audio_src": "เธอเตรียมงานทุกอย่างได้อย่างสมบูรณ์แบบ",
+            "audio_en_src": "She prepared everything for the event flawlessly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-484",
@@ -41776,7 +41795,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "male model",
+        "sentences": [
+          {
+            "thai": "เขาเป็นนายแบบให้แบรนด์เสื้อผ้าดัง",
+            "en": "He's a model for a famous clothing brand.",
+            "audio_src": "เขาเป็นนายแบบให้แบรนด์เสื้อผ้าดัง",
+            "audio_en_src": "He's a model for a famous clothing brand."
+          },
+          {
+            "thai": "นายแบบเดินโชว์ชุดบนรันเวย์",
+            "en": "The male model walked the runway showing the outfit.",
+            "audio_src": "นายแบบเดินโชว์ชุดบนรันเวย์",
+            "audio_en_src": "The male model walked the runway showing the outfit."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-485",
@@ -41788,7 +41826,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to date, to get to know each other romantically",
+        "sentences": [
+          {
+            "thai": "สองคนนี้คบหาดูใจกันมาครึ่งปีแล้ว",
+            "en": "These two have been dating for half a year now.",
+            "audio_src": "สองคนนี้คบหาดูใจกันมาครึ่งปีแล้ว",
+            "audio_en_src": "These two have been dating for half a year now."
+          },
+          {
+            "thai": "ก่อนแต่งงานเขาคบหาดูใจกันอยู่หลายปี",
+            "en": "Before getting married, they dated for several years.",
+            "audio_src": "ก่อนแต่งงานเขาคบหาดูใจกันอยู่หลายปี",
+            "audio_en_src": "Before getting married, they dated for several years."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-486",
@@ -41810,7 +41867,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to lie in wait, to ambush",
+        "sentences": [
+          {
+            "thai": "นักข่าวดักรอถามดาราหน้าโรงแรม",
+            "en": "Reporters lay in wait to question the celebrity in front of the hotel.",
+            "audio_src": "นักข่าวดักรอถามดาราหน้าโรงแรม",
+            "audio_en_src": "Reporters lay in wait to question the celebrity in front of the hotel."
+          },
+          {
+            "thai": "แมวดักรอหนูอยู่หน้ารู",
+            "en": "The cat lies in wait for the mouse in front of the hole.",
+            "audio_src": "แมวดักรอหนูอยู่หน้ารู",
+            "audio_en_src": "The cat lies in wait for the mouse in front of the hole."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-488",
@@ -41843,7 +41919,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to prosper, to succeed, to do well",
+        "sentences": [
+          {
+            "thai": "ธุรกิจของเขารุ่งขึ้นเรื่อยๆ",
+            "en": "His business keeps prospering.",
+            "audio_src": "ธุรกิจของเขารุ่งขึ้นเรื่อยๆ",
+            "audio_en_src": "His business keeps prospering."
+          },
+          {
+            "thai": "ถ้าตั้งใจเรียน อนาคตต้องรุ่งแน่นอน",
+            "en": "If you study hard, your future will surely flourish.",
+            "audio_src": "ถ้าตั้งใจเรียน อนาคตต้องรุ่งแน่นอน",
+            "audio_en_src": "If you study hard, your future will surely flourish."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-491",
@@ -41875,7 +41970,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "bad news",
+        "sentences": [
+          {
+            "thai": "เขาได้รับข่าวร้ายว่าคุณตาเสียแล้ว",
+            "en": "He got the bad news that his grandfather had passed away.",
+            "audio_src": "เขาได้รับข่าวร้ายว่าคุณตาเสียแล้ว",
+            "audio_en_src": "He got the bad news that his grandfather had passed away."
+          },
+          {
+            "thai": "มีข่าวร้ายจะบอก ตั้งสติไว้นะ",
+            "en": "I have bad news to tell you, brace yourself.",
+            "audio_src": "มีข่าวร้ายจะบอก ตั้งสติไว้นะ",
+            "audio_en_src": "I have bad news to tell you, brace yourself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-494",
@@ -41922,7 +42036,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to please, to pamper, to indulge someone",
+        "sentences": [
+          {
+            "thai": "เขาซื้อดอกไม้มาเอาใจแฟน",
+            "en": "He bought flowers to please his girlfriend.",
+            "audio_src": "เขาซื้อดอกไม้มาเอาใจแฟน",
+            "audio_en_src": "He bought flowers to please his girlfriend."
+          },
+          {
+            "thai": "พ่อแม่เอาใจลูกคนเล็กเป็นพิเศษ",
+            "en": "The parents pamper the youngest child especially.",
+            "audio_src": "พ่อแม่เอาใจลูกคนเล็กเป็นพิเศษ",
+            "audio_en_src": "The parents pamper the youngest child especially."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-496",
@@ -41956,7 +42089,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pick randomly",
+        "sentences": [
+          {
+            "thai": "ครูสุ่มเรียกชื่อนักเรียนให้ตอบคำถาม",
+            "en": "The teacher randomly called on students to answer questions.",
+            "audio_src": "ครูสุ่มเรียกชื่อนักเรียนให้ตอบคำถาม",
+            "audio_en_src": "The teacher randomly called on students to answer questions."
+          },
+          {
+            "thai": "ระบบสุ่มเลือกผู้โชคดีสิบคน",
+            "en": "The system randomly selects ten lucky winners.",
+            "audio_src": "ระบบสุ่มเลือกผู้โชคดีสิบคน",
+            "audio_en_src": "The system randomly selects ten lucky winners."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-500",
@@ -41968,7 +42120,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to get by, to survive, to manage",
+        "sentences": [
+          {
+            "thai": "ในเมืองใหญ่ต้องดิ้นรนเอาตัวรอด",
+            "en": "In a big city you have to struggle to get by.",
+            "audio_src": "ในเมืองใหญ่ต้องดิ้นรนเอาตัวรอด",
+            "audio_en_src": "In a big city you have to struggle to get by."
+          },
+          {
+            "thai": "เขาเอาตัวรอดจากเหตุการณ์อันตรายมาได้",
+            "en": "He managed to survive the dangerous situation.",
+            "audio_src": "เขาเอาตัวรอดจากเหตุการณ์อันตรายมาได้",
+            "audio_en_src": "He managed to survive the dangerous situation."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-501",
@@ -42035,7 +42206,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to rely on, to depend on",
+        "sentences": [
+          {
+            "thai": "เขาพึ่งพาตัวเองได้ตั้งแต่ยังเด็ก",
+            "en": "He's been able to rely on himself since he was young.",
+            "audio_src": "เขาพึ่งพาตัวเองได้ตั้งแต่ยังเด็ก",
+            "audio_en_src": "He's been able to rely on himself since he was young."
+          },
+          {
+            "thai": "ยามแก่เฒ่าพ่อแม่ต้องพึ่งลูก",
+            "en": "In old age, parents have to depend on their children.",
+            "audio_src": "ยามแก่เฒ่าพ่อแม่ต้องพึ่งลูก",
+            "audio_en_src": "In old age, parents have to depend on their children."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-505",
