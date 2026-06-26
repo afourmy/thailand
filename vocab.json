@@ -42281,7 +42281,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to cut in line, to skip the queue",
+        "sentences": [
+          {
+            "thai": "เขาลัดคิวแซงคนอื่นจนโดนต่อว่า",
+            "en": "He cut in line ahead of others and got told off.",
+            "audio_src": "เขาลัดคิวแซงคนอื่นจนโดนต่อว่า",
+            "audio_en_src": "He cut in line ahead of others and got told off."
+          },
+          {
+            "thai": "อย่าลัดคิวสิ ต่อแถวให้เรียบร้อย",
+            "en": "Don't cut in line, queue up properly.",
+            "audio_src": "อย่าลัดคิวสิ ต่อแถวให้เรียบร้อย",
+            "audio_en_src": "Don't cut in line, queue up properly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-510",
@@ -42347,7 +42366,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to meet (someone) in person",
+        "sentences": [
+          {
+            "thai": "คุยกันในแชทนาน เพิ่งได้เจอตัวจริงวันนี้",
+            "en": "We chatted for a long time, just met in person today.",
+            "audio_src": "คุยกันในแชทนาน เพิ่งได้เจอตัวจริงวันนี้",
+            "audio_en_src": "We chatted for a long time, just met in person today."
+          },
+          {
+            "thai": "เจอตัวจริงแล้วเขาสูงกว่าในรูปเยอะ",
+            "en": "In person he's much taller than in photos.",
+            "audio_src": "เจอตัวจริงแล้วเขาสูงกว่าในรูปเยอะ",
+            "audio_en_src": "In person he's much taller than in photos."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-514",
@@ -42422,7 +42460,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to tease someone for fun, \"just teasing\"",
+        "sentences": [
+          {
+            "thai": "ฉันแค่แซวเล่น อย่าคิดมากนะ",
+            "en": "I'm just teasing, don't take it to heart.",
+            "audio_src": "ฉันแค่แซวเล่น อย่าคิดมากนะ",
+            "audio_en_src": "I'm just teasing, don't take it to heart."
+          },
+          {
+            "thai": "เพื่อนแซวเล่นเรื่องทรงผมใหม่",
+            "en": "My friends teased me for fun about my new haircut.",
+            "audio_src": "เพื่อนแซวเล่นเรื่องทรงผมใหม่",
+            "audio_en_src": "My friends teased me for fun about my new haircut."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-520",
@@ -42434,7 +42491,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "busy, unavailable due to a deadline",
+        "sentences": [
+          {
+            "thai": "อาทิตย์นี้ติดเดดไลน์ ขอเลื่อนนัดก่อนนะ",
+            "en": "This week I'm swamped with a deadline, can we reschedule?",
+            "audio_src": "อาทิตย์นี้ติดเดดไลน์ ขอเลื่อนนัดก่อนนะ",
+            "audio_en_src": "This week I'm swamped with a deadline, can we reschedule?"
+          },
+          {
+            "thai": "เขาติดเดดไลน์เลยไม่ได้ไปงานเลี้ยง",
+            "en": "He had a deadline so he couldn't make it to the party.",
+            "audio_src": "เขาติดเดดไลน์เลยไม่ได้ไปงานเลี้ยง",
+            "audio_en_src": "He had a deadline so he couldn't make it to the party."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-522",
@@ -42448,7 +42524,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to assign (a task)",
+        "sentences": [
+          {
+            "thai": "หัวหน้ามอบหมายงานสำคัญให้เขา",
+            "en": "The boss assigned an important task to him.",
+            "audio_src": "หัวหน้ามอบหมายงานสำคัญให้เขา",
+            "audio_en_src": "The boss assigned an important task to him."
+          },
+          {
+            "thai": "ครูมอบหมายให้เขียนรายงานส่งสัปดาห์หน้า",
+            "en": "The teacher assigned a report to be submitted next week.",
+            "audio_src": "ครูมอบหมายให้เขียนรายงานส่งสัปดาห์หน้า",
+            "audio_en_src": "The teacher assigned a report to be submitted next week."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-523",
@@ -42472,7 +42567,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "noisy, annoyingly loud",
+        "sentences": [
+          {
+            "thai": "เสียงก่อสร้างหนวกหูตั้งแต่เช้า",
+            "en": "The construction noise has been annoyingly loud since morning.",
+            "audio_src": "เสียงก่อสร้างหนวกหูตั้งแต่เช้า",
+            "audio_en_src": "The construction noise has been annoyingly loud since morning."
+          },
+          {
+            "thai": "พวกเขาคุยกันเสียงดังจนหนวกหู",
+            "en": "They talk so loudly it's annoying.",
+            "audio_src": "พวกเขาคุยกันเสียงดังจนหนวกหู",
+            "audio_en_src": "They talk so loudly it's annoying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-525",
@@ -42499,7 +42613,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "concentration, focus",
+        "sentences": [
+          {
+            "thai": "เสียงรบกวนทำให้ฉันเสียสมาธิ",
+            "en": "The noise breaks my concentration.",
+            "audio_src": "เสียงรบกวนทำให้ฉันเสียสมาธิ",
+            "audio_en_src": "The noise breaks my concentration."
+          },
+          {
+            "thai": "งานละเอียดแบบนี้ต้องใช้สมาธิมาก",
+            "en": "Detailed work like this requires a lot of concentration.",
+            "audio_src": "งานละเอียดแบบนี้ต้องใช้สมาธิมาก",
+            "audio_en_src": "Detailed work like this requires a lot of concentration."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-527",
@@ -42511,7 +42644,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pick a fight, to look for trouble",
+        "sentences": [
+          {
+            "thai": "เขาเมาแล้วชอบหาเรื่องคนอื่น",
+            "en": "When he's drunk he likes to pick fights with people.",
+            "audio_src": "เขาเมาแล้วชอบหาเรื่องคนอื่น",
+            "audio_en_src": "When he's drunk he likes to pick fights with people."
+          },
+          {
+            "thai": "อย่าไปหาเรื่องกับคนที่ใหญ่กว่า",
+            "en": "Don't go looking for trouble with someone bigger than you.",
+            "audio_src": "อย่าไปหาเรื่องกับคนที่ใหญ่กว่า",
+            "audio_en_src": "Don't go looking for trouble with someone bigger than you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-528",
@@ -42543,7 +42695,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to slander, to make false damaging statements about someone",
+        "sentences": [
+          {
+            "thai": "เขาถูกเพื่อนร่วมงานใส่ร้ายว่าขโมยของ",
+            "en": "He was slandered by a coworker as having stolen something.",
+            "audio_src": "เขาถูกเพื่อนร่วมงานใส่ร้ายว่าขโมยของ",
+            "audio_en_src": "He was slandered by a coworker as having stolen something."
+          },
+          {
+            "thai": "อย่าใส่ร้ายคนอื่นโดยไม่มีหลักฐาน",
+            "en": "Don't slander others without proof.",
+            "audio_src": "อย่าใส่ร้ายคนอื่นโดยไม่มีหลักฐาน",
+            "audio_en_src": "Don't slander others without proof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-531",
@@ -42556,7 +42727,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take sides, to side with",
+        "sentences": [
+          {
+            "thai": "แม่มักเข้าข้างน้องคนเล็กเสมอ",
+            "en": "Mom always takes the youngest child's side.",
+            "audio_src": "แม่มักเข้าข้างน้องคนเล็กเสมอ",
+            "audio_en_src": "Mom always takes the youngest child's side."
+          },
+          {
+            "thai": "เวลาทะเลาะกัน เพื่อนเข้าข้างเขาทุกที",
+            "en": "When there's an argument, the friends always side with him.",
+            "audio_src": "เวลาทะเลาะกัน เพื่อนเข้าข้างเขาทุกที",
+            "audio_en_src": "When there's an argument, the friends always side with him."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-532",

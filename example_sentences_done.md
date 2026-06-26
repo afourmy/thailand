@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1854 words**
+**Total: 1864 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -834,8 +834,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-500` : เอาตัวรอด (to get by, to survive, to manage) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-504` : พึ่ง, พึ่งพา (to rely on, to depend on) : 1 meaning(s), 2 sentences
+- `tamago-l3-509` : ลัดคิว (to cut in line, to skip the queue) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences
+- `tamago-l3-513` : เจอตัวจริง (to meet (someone) in person) : 1 meaning(s), 2 sentences
 - `tamago-l3-515` : เลิกคบ (to break up, to end a relationship or friendship) : 1 meaning(s), 2 sentences
+- `tamago-l3-518` : แซวเล่น (to tease someone for fun, "just teasing") : 1 meaning(s), 2 sentences
+- `tamago-l3-520` : ติดเดดไลน์ (busy, unavailable due to a deadline) : 1 meaning(s), 2 sentences
+- `tamago-l3-522` : มอบหมาย (to assign (a task)) : 1 meaning(s), 2 sentences
+- `tamago-l3-524` : หนวกหู (noisy, annoyingly loud) : 1 meaning(s), 2 sentences
+- `tamago-l3-526` : สมาธิ (concentration, focus) : 1 meaning(s), 2 sentences
+- `tamago-l3-527` : หาเรื่อง (to pick a fight, to look for trouble) : 1 meaning(s), 2 sentences
+- `tamago-l3-530` : ใส่ร้าย (to slander, to make false damaging statements about someone) : 1 meaning(s), 2 sentences
+- `tamago-l3-531` : เข้าข้าง (to take sides, to side with) : 1 meaning(s), 2 sentences
 - `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences
 - `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
 - `tamago-l3-570` : ทำใจ (to come to terms with something, to accept) : 1 meaning(s), 2 sentences
