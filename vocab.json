@@ -26753,7 +26753,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be able to read, to read fluently",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้อ่านออกตั้งแต่สามขวบ",
+            "en": "This kid could read since he was three.",
+            "audio_src": "เด็กคนนี้อ่านออกตั้งแต่สามขวบ",
+            "audio_en_src": "This kid could read since he was three."
+          },
+          {
+            "thai": "ตัวหนังสือเล็กไป ฉันอ่านไม่ออก",
+            "en": "The print is too small, I can't read it.",
+            "audio_src": "ตัวหนังสือเล็กไป ฉันอ่านไม่ออก",
+            "audio_en_src": "The print is too small, I can't read it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-489",
@@ -26777,7 +26796,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cluttered, obstructed, in the way",
+        "sentences": [
+          {
+            "thai": "ของวางเกะกะเต็มห้องไปหมด",
+            "en": "Stuff is cluttered all over the room.",
+            "audio_src": "ของวางเกะกะเต็มห้องไปหมด",
+            "audio_en_src": "Stuff is cluttered all over the room."
+          },
+          {
+            "thai": "อย่าจอดรถเกะกะทางเข้า",
+            "en": "Don't park your car blocking the entrance.",
+            "audio_src": "อย่าจอดรถเกะกะทางเข้า",
+            "audio_en_src": "Don't park your car blocking the entrance."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-491",
@@ -26873,7 +26911,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to go to work, to start a shift",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ฉันต้องเข้างานแปดโมงเช้า",
+            "en": "Tomorrow I have to start work at eight in the morning.",
+            "audio_src": "พรุ่งนี้ฉันต้องเข้างานแปดโมงเช้า",
+            "audio_en_src": "Tomorrow I have to start work at eight in the morning."
+          },
+          {
+            "thai": "เขาเข้างานสายเลยโดนหักเงิน",
+            "en": "He came to work late, so his pay got docked.",
+            "audio_src": "เขาเข้างานสายเลยโดนหักเงิน",
+            "audio_en_src": "He came to work late, so his pay got docked."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-496",
@@ -26917,7 +26974,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "(clothes) dryer",
+        "sentences": [
+          {
+            "thai": "หน้าฝนต้องใช้เครื่องอบผ้า",
+            "en": "In the rainy season we have to use the dryer.",
+            "audio_src": "หน้าฝนต้องใช้เครื่องอบผ้า",
+            "audio_en_src": "In the rainy season we have to use the dryer."
+          },
+          {
+            "thai": "เอาผ้าเปียกใส่เครื่องอบผ้าให้แห้ง",
+            "en": "Put the wet clothes in the dryer to dry them.",
+            "audio_src": "เอาผ้าเปียกใส่เครื่องอบผ้าให้แห้ง",
+            "audio_en_src": "Put the wet clothes in the dryer to dry them."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-500",
@@ -26939,7 +27015,43 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "media player",
+        "sentences": [
+          {
+            "thai": "เครื่องเล่นดีวีดีเครื่องนี้เก่ามากแล้ว",
+            "en": "This DVD player is really old now.",
+            "audio_src": "เครื่องเล่นดีวีดีเครื่องนี้เก่ามากแล้ว",
+            "audio_en_src": "This DVD player is really old now."
+          },
+          {
+            "thai": "เขาต่อเครื่องเล่นเพลงเข้ากับลำโพง",
+            "en": "He connected the music player to the speakers.",
+            "audio_src": "เขาต่อเครื่องเล่นเพลงเข้ากับลำโพง",
+            "audio_en_src": "He connected the music player to the speakers."
+          }
+        ]
+      },
+      {
+        "meaning": "amusement ride",
+        "sentences": [
+          {
+            "thai": "สวนสนุกนี้มีเครื่องเล่นหวาดเสียวเยอะ",
+            "en": "This amusement park has lots of thrilling rides.",
+            "audio_src": "สวนสนุกนี้มีเครื่องเล่นหวาดเสียวเยอะ",
+            "audio_en_src": "This amusement park has lots of thrilling rides."
+          },
+          {
+            "thai": "เด็กต่อคิวรอเล่นเครื่องเล่นนานมาก",
+            "en": "The kids queued a long time to go on the ride.",
+            "audio_src": "เด็กต่อคิวรอเล่นเครื่องเล่นนานมาก",
+            "audio_en_src": "The kids queued a long time to go on the ride."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-502",
@@ -26952,7 +27064,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "uniform (military, official)",
+        "sentences": [
+          {
+            "thai": "ทหารใส่เครื่องแบบเดินสวนสนาม",
+            "en": "The soldiers wore uniforms and marched in the parade.",
+            "audio_src": "ทหารใส่เครื่องแบบเดินสวนสนาม",
+            "audio_en_src": "The soldiers wore uniforms and marched in the parade."
+          },
+          {
+            "thai": "ตำรวจในเครื่องแบบยืนรักษาการณ์",
+            "en": "Police in uniform stood on guard.",
+            "audio_src": "ตำรวจในเครื่องแบบยืนรักษาการณ์",
+            "audio_en_src": "Police in uniform stood on guard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-503",
@@ -26964,7 +27095,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "clear, to clarify, to sort out (loanword)",
+        "sentences": [
+          {
+            "thai": "ขอเคลียร์งานให้เสร็จก่อนกลับบ้าน",
+            "en": "Let me clear my work before going home.",
+            "audio_src": "ขอเคลียร์งานให้เสร็จก่อนกลับบ้าน",
+            "audio_en_src": "Let me clear my work before going home."
+          },
+          {
+            "thai": "เรานั่งคุยเคลียร์ปัญหากันแล้ว",
+            "en": "We sat down and talked things out.",
+            "audio_src": "เรานั่งคุยเคลียร์ปัญหากันแล้ว",
+            "audio_en_src": "We sat down and talked things out."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-504",
@@ -26997,7 +27147,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "business owner",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเจ้าของธุรกิจร้านกาแฟ",
+            "en": "He's the owner of a coffee shop business.",
+            "audio_src": "เขาเป็นเจ้าของธุรกิจร้านกาแฟ",
+            "audio_en_src": "He's the owner of a coffee shop business."
+          },
+          {
+            "thai": "เจ้าของกิจการต้องดูแลพนักงานหลายคน",
+            "en": "A business owner has to look after many employees.",
+            "audio_src": "เจ้าของกิจการต้องดูแลพนักงานหลายคน",
+            "audio_en_src": "A business owner has to look after many employees."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-507",
@@ -27044,7 +27213,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to break (down), to fail, to go bankrupt (slang)",
+        "sentences": [
+          {
+            "thai": "ทีวีเครื่องเก่าเจ๊งไปแล้ว",
+            "en": "The old TV has broken down.",
+            "audio_src": "ทีวีเครื่องเก่าเจ๊งไปแล้ว",
+            "audio_en_src": "The old TV has broken down."
+          },
+          {
+            "thai": "ร้านขาดทุนหนักจนเจ๊ง",
+            "en": "The shop lost so much money it went bankrupt.",
+            "audio_src": "ร้านขาดทุนหนักจนเจ๊ง",
+            "audio_en_src": "The shop lost so much money it went bankrupt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-509",
@@ -27129,7 +27317,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to window-shop",
+        "sentences": [
+          {
+            "thai": "วันหยุดเราชอบไปเดินดูของที่ห้าง",
+            "en": "On weekends we like to go window-shopping at the mall.",
+            "audio_src": "วันหยุดเราชอบไปเดินดูของที่ห้าง",
+            "audio_en_src": "On weekends we like to go window-shopping at the mall."
+          },
+          {
+            "thai": "ฉันแค่เดินดูของ ยังไม่ซื้ออะไร",
+            "en": "I'm just window-shopping, haven't bought anything yet.",
+            "audio_src": "ฉันแค่เดินดูของ ยังไม่ซื้ออะไร",
+            "audio_en_src": "I'm just window-shopping, haven't bought anything yet."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-513",

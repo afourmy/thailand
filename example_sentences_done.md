@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1614 words**
+**Total: 1624 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -489,9 +489,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-484` : อีกหน่อย (soon, later, in a little while) : 1 meaning(s), 2 sentences
 - `tamago-l12-485` : อุทยานแห่งชาติ (national park) : 1 meaning(s), 2 sentences
 - `tamago-l12-486` : อุ้ม (to hold, to carry (mostly children and pets)) : 1 meaning(s), 2 sentences
+- `tamago-l12-488` : อ่านออก (to be able to read, to read fluently) : 1 meaning(s), 2 sentences
+- `tamago-l12-490` : เกะกะ (cluttered, obstructed, in the way) : 1 meaning(s), 2 sentences
 - `tamago-l12-491` : เกาะ (island; to cling, to hold on to) : 2 meaning(s), 4 sentences
+- `tamago-l12-495` : เข้างาน (to go to work, to start a shift) : 1 meaning(s), 2 sentences
+- `tamago-l12-499` : เครื่องอบผ้า ((clothes) dryer) : 1 meaning(s), 2 sentences
+- `tamago-l12-501` : เครื่องเล่น (media player; amusement ride) : 2 meaning(s), 4 sentences
+- `tamago-l12-502` : เครื่องแบบ (uniform (military, official)) : 1 meaning(s), 2 sentences
+- `tamago-l12-503` : เคลียร์ (clear, to clarify, to sort out (loanword)) : 1 meaning(s), 2 sentences
+- `tamago-l12-506` : เจ้าของธุรกิจ, เจ้าของกิจการ (business owner) : 1 meaning(s), 2 sentences
 - `tamago-l12-507` : เจ้านาย (boss, employer) : 1 meaning(s), 2 sentences
+- `tamago-l12-508` : เจ๊ง (to break (down), to fail, to go bankrupt (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-509` : เฉยๆ (merely, just, nothing special; indifferent) : 2 meaning(s), 4 sentences
+- `tamago-l12-512` : เดินดูของ (to window-shop) : 1 meaning(s), 2 sentences
 - `tamago-l12-515` : เดี๋ยวนี้ (nowadays, these days; right now, immediately) : 2 meaning(s), 4 sentences
 - `tamago-l12-520` : เทขยะ (to take out the trash) : 1 meaning(s), 2 sentences
 - `tamago-l12-525` : เท่านี้ (only this, just this much) : 1 meaning(s), 2 sentences
