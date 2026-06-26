@@ -28351,7 +28351,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stage, platform",
+        "sentences": [
+          {
+            "thai": "นักร้องเดินขึ้นเวทีท่ามกลางเสียงปรบมือ",
+            "en": "The singer walked onto the stage amid applause.",
+            "audio_src": "นักร้องเดินขึ้นเวทีท่ามกลางเสียงปรบมือ",
+            "audio_en_src": "The singer walked onto the stage amid applause."
+          },
+          {
+            "thai": "เธอชนะการประกวดบนเวทีระดับประเทศ",
+            "en": "She won the contest on a national stage.",
+            "audio_src": "เธอชนะการประกวดบนเวทีระดับประเทศ",
+            "audio_en_src": "She won the contest on a national stage."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-561",
@@ -28421,7 +28440,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "pole, pillar",
+        "sentences": [
+          {
+            "thai": "รถชนเสาไฟฟ้าข้างถนน",
+            "en": "The car hit the electric pole by the road.",
+            "audio_src": "รถชนเสาไฟฟ้าข้างถนน",
+            "audio_en_src": "The car hit the electric pole by the road."
+          },
+          {
+            "thai": "บ้านหลังนี้มีเสาไม้ใหญ่ค้ำหลังคา",
+            "en": "This house has big wooden pillars holding up the roof.",
+            "audio_src": "บ้านหลังนี้มีเสาไม้ใหญ่ค้ำหลังคา",
+            "audio_en_src": "This house has big wooden pillars holding up the roof."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-565",
@@ -28576,7 +28614,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "sweater, coat (warm clothing)",
+        "sentences": [
+          {
+            "thai": "อากาศหนาวแล้ว อย่าลืมใส่เสื้อกันหนาว",
+            "en": "It's cold now, don't forget to wear a coat.",
+            "audio_src": "อากาศหนาวแล้ว อย่าลืมใส่เสื้อกันหนาว",
+            "audio_en_src": "It's cold now, don't forget to wear a coat."
+          },
+          {
+            "thai": "เธอซื้อเสื้อกันหนาวตัวใหม่ไปเที่ยวเหนือ",
+            "en": "She bought a new sweater for her trip up north.",
+            "audio_src": "เธอซื้อเสื้อกันหนาวตัวใหม่ไปเที่ยวเหนือ",
+            "audio_en_src": "She bought a new sweater for her trip up north."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-571",
@@ -28598,7 +28655,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "suit jacket",
+        "sentences": [
+          {
+            "thai": "เขาใส่เสื้อสูทไปสัมภาษณ์งาน",
+            "en": "He wore a suit jacket to the job interview.",
+            "audio_src": "เขาใส่เสื้อสูทไปสัมภาษณ์งาน",
+            "audio_en_src": "He wore a suit jacket to the job interview."
+          },
+          {
+            "thai": "เสื้อสูทตัวนี้ตัดเข้ารูปพอดี",
+            "en": "This suit jacket is tailored to fit perfectly.",
+            "audio_src": "เสื้อสูทตัวนี้ตัดเข้ารูปพอดี",
+            "audio_en_src": "This suit jacket is tailored to fit perfectly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-573",
@@ -28630,7 +28706,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "jug, pitcher",
+        "sentences": [
+          {
+            "thai": "ขอน้ำเปล่าทั้งเหยือกเลย",
+            "en": "Can we get a whole pitcher of water?",
+            "audio_src": "ขอน้ำเปล่าทั้งเหยือกเลย",
+            "audio_en_src": "Can we get a whole pitcher of water?"
+          },
+          {
+            "thai": "เธอรินน้ำส้มจากเหยือกใส่แก้ว",
+            "en": "She poured orange juice from the pitcher into the glass.",
+            "audio_src": "เธอรินน้ำส้มจากเหยือกใส่แก้ว",
+            "audio_en_src": "She poured orange juice from the pitcher into the glass."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-576",
@@ -28645,7 +28740,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "coin",
+        "sentences": [
+          {
+            "thai": "เขาหยอดเหรียญลงในเครื่องซักผ้า",
+            "en": "He dropped coins into the washing machine.",
+            "audio_src": "เขาหยอดเหรียญลงในเครื่องซักผ้า",
+            "audio_en_src": "He dropped coins into the washing machine."
+          },
+          {
+            "thai": "ฉันเก็บเหรียญสิบใส่กระปุกทุกวัน",
+            "en": "I put a ten-baht coin in my piggy bank every day.",
+            "audio_src": "ฉันเก็บเหรียญสิบใส่กระปุกทุกวัน",
+            "audio_en_src": "I put a ten-baht coin in my piggy bank every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-577",
@@ -28698,7 +28812,43 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to get something back",
+        "sentences": [
+          {
+            "thai": "ของฉันอยู่กับเธอ ขอเอาคืนหน่อย",
+            "en": "My stuff is with you, can I have it back?",
+            "audio_src": "ของฉันอยู่กับเธอ ขอเอาคืนหน่อย",
+            "audio_en_src": "My stuff is with you, can I have it back?"
+          },
+          {
+            "thai": "เขาให้เพื่อนยืมเสื้อ ตอนนี้อยากเอาคืน",
+            "en": "He lent his friend a shirt, now he wants it back.",
+            "audio_src": "เขาให้เพื่อนยืมเสื้อ ตอนนี้อยากเอาคืน",
+            "audio_en_src": "He lent his friend a shirt, now he wants it back."
+          }
+        ]
+      },
+      {
+        "meaning": "(figuratively) to take revenge",
+        "sentences": [
+          {
+            "thai": "โดนแกล้งหนักขนาดนี้ ต้องเอาคืนบ้าง",
+            "en": "After being messed with this badly, I have to get back at them.",
+            "audio_src": "โดนแกล้งหนักขนาดนี้ ต้องเอาคืนบ้าง",
+            "audio_en_src": "After being messed with this badly, I have to get back at them."
+          },
+          {
+            "thai": "เขาแพ้เกมที่แล้ว เกมนี้ขอเอาคืน",
+            "en": "He lost the last game, this game he wants payback.",
+            "audio_src": "เขาแพ้เกมที่แล้ว เกมนี้ขอเอาคืน",
+            "audio_en_src": "He lost the last game, this game he wants payback."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-582",
@@ -28777,7 +28927,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be able to reach (literally or figuratively)",
+        "sentences": [
+          {
+            "thai": "ของวางสูงไป ฉันเอื้อมไม่ถึง",
+            "en": "It's placed too high, I can't reach it.",
+            "audio_src": "ของวางสูงไป ฉันเอื้อมไม่ถึง",
+            "audio_en_src": "It's placed too high, I can't reach it."
+          },
+          {
+            "thai": "บ้านราคานี้คนทั่วไปเอื้อมถึง",
+            "en": "A house at this price is within reach for ordinary people.",
+            "audio_src": "บ้านราคานี้คนทั่วไปเอื้อมถึง",
+            "audio_en_src": "A house at this price is within reach for ordinary people."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-585",
@@ -28834,7 +29003,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "vase",
+        "sentences": [
+          {
+            "thai": "เธอจัดดอกไม้ใส่แจกันบนโต๊ะ",
+            "en": "She arranged flowers in a vase on the table.",
+            "audio_src": "เธอจัดดอกไม้ใส่แจกันบนโต๊ะ",
+            "audio_en_src": "She arranged flowers in a vase on the table."
+          },
+          {
+            "thai": "แจกันใบนี้ทำจากเซรามิก",
+            "en": "This vase is made of ceramic.",
+            "audio_src": "แจกันใบนี้ทำจากเซรามิก",
+            "audio_en_src": "This vase is made of ceramic."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-588",
@@ -28849,7 +29037,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to inform, notify, file a report",
+        "sentences": [
+          {
+            "thai": "ถ้ามาไม่ได้ ช่วยแจ้งล่วงหน้าด้วย",
+            "en": "If you can't make it, please let me know in advance.",
+            "audio_src": "ถ้ามาไม่ได้ ช่วยแจ้งล่วงหน้าด้วย",
+            "audio_en_src": "If you can't make it, please let me know in advance."
+          },
+          {
+            "thai": "เขาไปแจ้งความที่สถานีตำรวจ",
+            "en": "He went to file a report at the police station.",
+            "audio_src": "เขาไปแจ้งความที่สถานีตำรวจ",
+            "audio_en_src": "He went to file a report at the police station."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-589",

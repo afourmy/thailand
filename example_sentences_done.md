@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1634 words**
+**Total: 1644 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -523,13 +523,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-551` : เมื่อกี้, เมื่อกี้นี้, เมื่อตะกี้นี้ (just now, a moment ago) : 1 meaning(s), 2 sentences
 - `tamago-l12-552` : เมื่อย (sore, achy (from physical fatigue)) : 1 meaning(s), 2 sentences
 - `tamago-l12-559` : เล่ม (classifier for books) : 1 meaning(s), 2 sentences
+- `tamago-l12-560` : เวที (stage, platform) : 1 meaning(s), 2 sentences
 - `tamago-l12-563` : เศร้า (sad (extended/deep sadness)) : 1 meaning(s), 2 sentences
+- `tamago-l12-564` : เสา (pole, pillar) : 1 meaning(s), 2 sentences
 - `tamago-l12-566` : เสีย (to waste, to spend; to be broken) : 2 meaning(s), 4 sentences
 - `tamago-l12-567` : เสียดาย ("it's a shame", "what a pity") : 1 meaning(s), 2 sentences
 - `tamago-l12-568` : เสียใจ (sad (short-term sadness), sorry) : 1 meaning(s), 2 sentences
+- `tamago-l12-570` : เสื้อกันหนาว (sweater, coat (warm clothing)) : 1 meaning(s), 2 sentences
+- `tamago-l12-572` : เสื้อสูท (suit jacket) : 1 meaning(s), 2 sentences
+- `tamago-l12-575` : เหยือก (jug, pitcher) : 1 meaning(s), 2 sentences
+- `tamago-l12-576` : เหรียญ (coin) : 1 meaning(s), 2 sentences
+- `tamago-l12-581` : เอาคืน (to get something back; (figuratively) to take revenge) : 2 meaning(s), 4 sentences
 - `tamago-l12-582` : เอาน่า ("come on!", "let's do it!" (persuade or encourage)) : 1 meaning(s), 2 sentences
 - `tamago-l12-583` : เอาใหม่ ("try again", "do it again") : 1 meaning(s), 2 sentences
+- `tamago-l12-584` : เอื้อมถึง (to be able to reach (literally or figuratively)) : 1 meaning(s), 2 sentences
 - `tamago-l12-586` : แจก (to give away, to distribute) : 1 meaning(s), 2 sentences
+- `tamago-l12-587` : แจกัน (vase) : 1 meaning(s), 2 sentences
+- `tamago-l12-588` : แจ้ง (to inform, notify, file a report) : 1 meaning(s), 2 sentences
 - `tamago-l12-590` : แถม (plus, moreover; free extra item with purchase) : 2 meaning(s), 4 sentences
 - `tamago-l12-594` : แปลกใจ (surprised) : 1 meaning(s), 2 sentences
 - `tamago-l12-595` : แป้ง (powder; flour, starch) : 2 meaning(s), 4 sentences
