@@ -24922,7 +24922,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "embassy",
+        "sentences": [
+          {
+            "thai": "เขาไปยื่นวีซ่าที่สถานทูต",
+            "en": "He went to submit his visa application at the embassy.",
+            "audio_src": "เขาไปยื่นวีซ่าที่สถานทูต",
+            "audio_en_src": "He went to submit his visa application at the embassy."
+          },
+          {
+            "thai": "สถานทูตปิดทำการวันหยุดราชการ",
+            "en": "The embassy is closed on public holidays.",
+            "audio_src": "สถานทูตปิดทำการวันหยุดราชการ",
+            "audio_en_src": "The embassy is closed on public holidays."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-410",
@@ -24966,7 +24985,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pay attention in class",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้สนใจเรียนมาก เลยได้คะแนนดี",
+            "en": "This kid pays attention in class, so he gets good grades.",
+            "audio_src": "เด็กคนนี้สนใจเรียนมาก เลยได้คะแนนดี",
+            "audio_en_src": "This kid pays attention in class, so he gets good grades."
+          },
+          {
+            "thai": "ถ้าไม่สนใจเรียน เดี๋ยวตามเพื่อนไม่ทัน",
+            "en": "If you don't pay attention in class, you'll fall behind your classmates.",
+            "audio_src": "ถ้าไม่สนใจเรียน เดี๋ยวตามเพื่อนไม่ทัน",
+            "audio_en_src": "If you don't pay attention in class, you'll fall behind your classmates."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-414",
@@ -24980,7 +25018,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "appropriate, suitable",
+        "sentences": [
+          {
+            "thai": "แต่งตัวให้สมควรกับงานด้วยนะ",
+            "en": "Dress appropriately for the event.",
+            "audio_src": "แต่งตัวให้สมควรกับงานด้วยนะ",
+            "audio_en_src": "Dress appropriately for the event."
+          },
+          {
+            "thai": "ควรกลับบ้านในเวลาอันสมควร",
+            "en": "You should go home at a reasonable hour.",
+            "audio_src": "ควรกลับบ้านในเวลาอันสมควร",
+            "audio_en_src": "You should go home at a reasonable hour."
+          }
+        ]
+      },
+      {
+        "meaning": "to deserve, worthy",
+        "sentences": [
+          {
+            "thai": "เขาขยันมาก สมควรได้รางวัล",
+            "en": "He's very hardworking, he deserves the award.",
+            "audio_src": "เขาขยันมาก สมควรได้รางวัล",
+            "audio_en_src": "He's very hardworking, he deserves the award."
+          },
+          {
+            "thai": "โดนดุก็สมควรแล้ว ใครให้ทำผิด",
+            "en": "He deserved getting scolded, who told him to do wrong.",
+            "audio_src": "โดนดุก็สมควรแล้ว ใครให้ทำผิด",
+            "audio_en_src": "He deserved getting scolded, who told him to do wrong."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-415",
@@ -25197,7 +25271,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "veterinarian",
+        "sentences": [
+          {
+            "thai": "หมาป่วยต้องพาไปหาสัตวแพทย์",
+            "en": "The dog is sick, we need to take it to the vet.",
+            "audio_src": "หมาป่วยต้องพาไปหาสัตวแพทย์",
+            "audio_en_src": "The dog is sick, we need to take it to the vet."
+          },
+          {
+            "thai": "เธอเรียนจบเป็นสัตวแพทย์",
+            "en": "She graduated as a veterinarian.",
+            "audio_src": "เธอเรียนจบเป็นสัตวแพทย์",
+            "audio_en_src": "She graduated as a veterinarian."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-424",
@@ -25219,7 +25312,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to splash water on",
+        "sentences": [
+          {
+            "thai": "ช่วงสงกรานต์คนสาดน้ำใส่กันสนุกมาก",
+            "en": "During Songkran people splash water on each other, it's so fun.",
+            "audio_src": "ช่วงสงกรานต์คนสาดน้ำใส่กันสนุกมาก",
+            "audio_en_src": "During Songkran people splash water on each other, it's so fun."
+          },
+          {
+            "thai": "รถวิ่งผ่านแอ่งน้ำ สาดน้ำใส่คนเดินถนน",
+            "en": "A car drove through a puddle and splashed water on the pedestrians.",
+            "audio_src": "รถวิ่งผ่านแอ่งน้ำ สาดน้ำใส่คนเดินถนน",
+            "audio_en_src": "A car drove through a puddle and splashed water on the pedestrians."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-426",
@@ -25287,7 +25399,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "spray deodorant",
+        "sentences": [
+          {
+            "thai": "อย่าลืมฉีดสเปรย์ระงับกลิ่นกายก่อนออกจากบ้าน",
+            "en": "Don't forget to spray deodorant before leaving the house.",
+            "audio_src": "อย่าลืมฉีดสเปรย์ระงับกลิ่นกายก่อนออกจากบ้าน",
+            "audio_en_src": "Don't forget to spray deodorant before leaving the house."
+          },
+          {
+            "thai": "เขาพกสเปรย์ระงับกลิ่นกายติดกระเป๋าไว้",
+            "en": "He keeps spray deodorant in his bag.",
+            "audio_src": "เขาพกสเปรย์ระงับกลิ่นกายติดกระเป๋าไว้",
+            "audio_en_src": "He keeps spray deodorant in his bag."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-430",
@@ -25407,7 +25538,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "textbook",
+        "sentences": [
+          {
+            "thai": "ครูให้เปิดหนังสือเรียนหน้าสิบ",
+            "en": "The teacher had us open the textbook to page ten.",
+            "audio_src": "ครูให้เปิดหนังสือเรียนหน้าสิบ",
+            "audio_en_src": "The teacher had us open the textbook to page ten."
+          },
+          {
+            "thai": "เขาลืมเอาหนังสือเรียนมาโรงเรียน",
+            "en": "He forgot to bring his textbook to school.",
+            "audio_src": "เขาลืมเอาหนังสือเรียนมาโรงเรียน",
+            "audio_en_src": "He forgot to bring his textbook to school."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-435",
@@ -25544,7 +25694,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "chess",
+        "sentences": [
+          {
+            "thai": "ตากับหลานนั่งเล่นหมากรุกกัน",
+            "en": "Grandpa and his grandchild sit playing chess together.",
+            "audio_src": "ตากับหลานนั่งเล่นหมากรุกกัน",
+            "audio_en_src": "Grandpa and his grandchild sit playing chess together."
+          },
+          {
+            "thai": "เขาเล่นหมากรุกเก่งมาก",
+            "en": "He's very good at chess.",
+            "audio_src": "เขาเล่นหมากรุกเก่งมาก",
+            "audio_en_src": "He's very good at chess."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-444",
@@ -25567,7 +25736,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pinch",
+        "sentences": [
+          {
+            "thai": "แม่หยิกแก้มลูกด้วยความเอ็นดู",
+            "en": "Mom pinched her child's cheek affectionately.",
+            "audio_src": "แม่หยิกแก้มลูกด้วยความเอ็นดู",
+            "audio_en_src": "Mom pinched her child's cheek affectionately."
+          },
+          {
+            "thai": "พี่หยิกน้องจนร้องไห้",
+            "en": "The older sibling pinched the younger one until they cried.",
+            "audio_src": "พี่หยิกน้องจนร้องไห้",
+            "audio_en_src": "The older sibling pinched the younger one until they cried."
+          }
+        ]
+      },
+      {
+        "meaning": "curly, wavy (of hair)",
+        "sentences": [
+          {
+            "thai": "ผมของเธอหยิกตามธรรมชาติ",
+            "en": "Her hair is naturally curly.",
+            "audio_src": "ผมของเธอหยิกตามธรรมชาติ",
+            "audio_en_src": "Her hair is naturally curly."
+          },
+          {
+            "thai": "เขาไปทำผมให้หยิกที่ร้าน",
+            "en": "He got his hair curled at the salon.",
+            "audio_src": "เขาไปทำผมให้หยิกที่ร้าน",
+            "audio_en_src": "He got his hair curled at the salon."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-446",
@@ -25580,7 +25785,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "luxurious, fancy",
+        "sentences": [
+          {
+            "thai": "เขาพักโรงแรมหรูริมทะเล",
+            "en": "He stayed at a luxurious beachfront hotel.",
+            "audio_src": "เขาพักโรงแรมหรูริมทะเล",
+            "audio_en_src": "He stayed at a luxurious beachfront hotel."
+          },
+          {
+            "thai": "ร้านนี้ตกแต่งหรู ราคาก็แพงตาม",
+            "en": "This restaurant is fancy, and the prices match.",
+            "audio_src": "ร้านนี้ตกแต่งหรู ราคาก็แพงตาม",
+            "audio_en_src": "This restaurant is fancy, and the prices match."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-447",

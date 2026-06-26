@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1594 words**
+**Total: 1604 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -448,16 +448,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-399` : วิเศษ (magic, extraordinary, wonderful) : 1 meaning(s), 2 sentences
 - `tamago-l12-400` : วิ่งผ่าน (to pass through (running, driving)) : 1 meaning(s), 2 sentences
 - `tamago-l12-403` : ว่าแต่ (by the way) : 1 meaning(s), 2 sentences
+- `tamago-l12-409` : สถานทูต (embassy) : 1 meaning(s), 2 sentences
+- `tamago-l12-413` : สนใจเรียน (to pay attention in class) : 1 meaning(s), 2 sentences
+- `tamago-l12-414` : สมควร (appropriate, suitable; to deserve, worthy) : 2 meaning(s), 4 sentences
 - `tamago-l12-416` : สระผม (to wash one's hair, to shampoo) : 1 meaning(s), 2 sentences
 - `tamago-l12-418` : สวนสาธารณะ (public park) : 1 meaning(s), 2 sentences
 - `tamago-l12-419` : สอบ (to take an exam) : 1 meaning(s), 2 sentences
 - `tamago-l12-420` : สะพาน (bridge) : 1 meaning(s), 2 sentences
 - `tamago-l12-422` : สักพัก (for a little while, a moment) : 1 meaning(s), 2 sentences
+- `tamago-l12-423` : สัตวแพทย์ (veterinarian) : 1 meaning(s), 2 sentences
+- `tamago-l12-425` : สาดน้ำใส่ (to splash water on) : 1 meaning(s), 2 sentences
 - `tamago-l12-427` : สาย (line, route (e.g bus/subway)) : 1 meaning(s), 2 sentences
+- `tamago-l12-429` : สเปรย์ (ระงับกลิ่นกาย) (spray deodorant) : 1 meaning(s), 2 sentences
 - `tamago-l12-430` : ส่ง (to send; to drop someone off) : 2 meaning(s), 4 sentences
 - `tamago-l12-432` : ส้อม (fork) : 1 meaning(s), 2 sentences
+- `tamago-l12-434` : หนังสือเรียน (textbook) : 1 meaning(s), 2 sentences
 - `tamago-l12-435` : หนา (thick) : 1 meaning(s), 2 sentences
 - `tamago-l12-437` : หน้าตา (face, appearance, looks) : 1 meaning(s), 2 sentences
+- `tamago-l12-443` : หมากรุก (chess) : 1 meaning(s), 2 sentences
+- `tamago-l12-445` : หยิก (to pinch; curly, wavy (of hair)) : 2 meaning(s), 4 sentences
+- `tamago-l12-446` : หรู (luxurious, fancy) : 1 meaning(s), 2 sentences
 - `tamago-l12-449` : หลอด (straw (drinking); tube) : 2 meaning(s), 4 sentences
 - `tamago-l12-450` : หลังๆ (lately, recently) : 1 meaning(s), 2 sentences
 - `tamago-l12-451` : หลับตา (to close one's eyes) : 1 meaning(s), 2 sentences
