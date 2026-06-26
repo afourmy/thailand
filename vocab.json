@@ -43467,7 +43467,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "well-versed, knowledgeable",
+        "sentences": [
+          {
+            "thai": "เขารอบรู้เรื่องประวัติศาสตร์มาก",
+            "en": "He's very knowledgeable about history.",
+            "audio_src": "เขารอบรู้เรื่องประวัติศาสตร์มาก",
+            "audio_en_src": "He's very knowledgeable about history."
+          },
+          {
+            "thai": "อ่านหนังสือเยอะทำให้เป็นคนรอบรู้",
+            "en": "Reading a lot makes you well-versed.",
+            "audio_src": "อ่านหนังสือเยอะทำให้เป็นคนรอบรู้",
+            "audio_en_src": "Reading a lot makes you well-versed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-573",
@@ -43491,7 +43510,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rules, terms",
+        "sentences": [
+          {
+            "thai": "ก่อนเล่นเกมต้องตกลงกติกากันก่อน",
+            "en": "Before playing the game, we have to agree on the rules first.",
+            "audio_src": "ก่อนเล่นเกมต้องตกลงกติกากันก่อน",
+            "audio_en_src": "Before playing the game, we have to agree on the rules first."
+          },
+          {
+            "thai": "ผู้เล่นทุกคนต้องทำตามกติกาการแข่งขัน",
+            "en": "All players must follow the competition rules.",
+            "audio_src": "ผู้เล่นทุกคนต้องทำตามกติกาการแข่งขัน",
+            "audio_en_src": "All players must follow the competition rules."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-575",
@@ -43584,7 +43622,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "problem, challenge, task (math, competition)",
+        "sentences": [
+          {
+            "thai": "โจทย์ข้อนี้ยากจนคิดไม่ออก",
+            "en": "This problem is so hard I can't figure it out.",
+            "audio_src": "โจทย์ข้อนี้ยากจนคิดไม่ออก",
+            "audio_en_src": "This problem is so hard I can't figure it out."
+          },
+          {
+            "thai": "การลดต้นทุนเป็นโจทย์ใหญ่ของบริษัท",
+            "en": "Cutting costs is a big challenge for the company.",
+            "audio_src": "การลดต้นทุนเป็นโจทย์ใหญ่ของบริษัท",
+            "audio_en_src": "Cutting costs is a big challenge for the company."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-581",
@@ -43596,7 +43653,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to time, to keep time",
+        "sentences": [
+          {
+            "thai": "ครูจับเวลาให้นักเรียนทำข้อสอบ",
+            "en": "The teacher times the students doing the exam.",
+            "audio_src": "ครูจับเวลาให้นักเรียนทำข้อสอบ",
+            "audio_en_src": "The teacher times the students doing the exam."
+          },
+          {
+            "thai": "เขาจับเวลาตอนวิ่งเพื่อดูว่าเร็วขึ้นไหม",
+            "en": "He times himself running to see if he's getting faster.",
+            "audio_src": "เขาจับเวลาตอนวิ่งเพื่อดูว่าเร็วขึ้นไหม",
+            "audio_en_src": "He times himself running to see if he's getting faster."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-582",
@@ -43671,7 +43747,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to discourage, to demoralize",
+        "sentences": [
+          {
+            "thai": "คำพูดของเขาตัดกำลังใจคนฟัง",
+            "en": "His words discouraged the listeners.",
+            "audio_src": "คำพูดของเขาตัดกำลังใจคนฟัง",
+            "audio_en_src": "His words discouraged the listeners."
+          },
+          {
+            "thai": "อย่าตัดกำลังใจคนที่กำลังพยายาม",
+            "en": "Don't demoralize someone who is trying their best.",
+            "audio_src": "อย่าตัดกำลังใจคนที่กำลังพยายาม",
+            "audio_en_src": "Don't demoralize someone who is trying their best."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-585",
@@ -43696,7 +43791,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "guru, master, expert",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเซียนหมากรุกประจำหมู่บ้าน",
+            "en": "He's the chess master of the village.",
+            "audio_src": "เขาเป็นเซียนหมากรุกประจำหมู่บ้าน",
+            "audio_en_src": "He's the chess master of the village."
+          },
+          {
+            "thai": "ถ้าอยากรู้เรื่องหุ้น ต้องถามเซียนคนนี้",
+            "en": "If you want to know about stocks, ask this guru.",
+            "audio_src": "ถ้าอยากรู้เรื่องหุ้น ต้องถามเซียนคนนี้",
+            "audio_en_src": "If you want to know about stocks, ask this guru."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-587",
@@ -43811,7 +43925,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to overhear",
+        "sentences": [
+          {
+            "thai": "ฉันแอบได้ยินเขาคุยกันเรื่องเซอร์ไพรส์",
+            "en": "I overheard them talking about the surprise.",
+            "audio_src": "ฉันแอบได้ยินเขาคุยกันเรื่องเซอร์ไพรส์",
+            "audio_en_src": "I overheard them talking about the surprise."
+          },
+          {
+            "thai": "เธอแอบได้ยินเสียงทะเลาะจากห้องข้างๆ",
+            "en": "She overheard arguing from the room next door.",
+            "audio_src": "เธอแอบได้ยินเสียงทะเลาะจากห้องข้างๆ",
+            "audio_en_src": "She overheard arguing from the room next door."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-598",
@@ -43835,7 +43968,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to criticize, to find fault with",
+        "sentences": [
+          {
+            "thai": "หัวหน้าตำหนิเขาเรื่องงานที่ผิดพลาด",
+            "en": "The boss criticized him for the mistake in his work.",
+            "audio_src": "หัวหน้าตำหนิเขาเรื่องงานที่ผิดพลาด",
+            "audio_en_src": "The boss criticized him for the mistake in his work."
+          },
+          {
+            "thai": "อย่าเอาแต่ตำหนิ ลองให้กำลังใจบ้าง",
+            "en": "Don't just criticize, try giving some encouragement.",
+            "audio_src": "อย่าเอาแต่ตำหนิ ลองให้กำลังใจบ้าง",
+            "audio_en_src": "Don't just criticize, try giving some encouragement."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-600",
@@ -43847,7 +43999,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to seek out, search for, dig up, to pick carefully, to recruit",
+        "sentences": [
+          {
+            "thai": "บริษัทสรรหาพนักงานที่มีความสามารถ",
+            "en": "The company recruits talented employees.",
+            "audio_src": "บริษัทสรรหาพนักงานที่มีความสามารถ",
+            "audio_en_src": "The company recruits talented employees."
+          },
+          {
+            "thai": "เขาสรรหาของขวัญพิเศษมาให้แฟน",
+            "en": "He sought out a special gift for his girlfriend.",
+            "audio_src": "เขาสรรหาของขวัญพิเศษมาให้แฟน",
+            "audio_en_src": "He sought out a special gift for his girlfriend."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-601",
@@ -43881,7 +44052,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to argue against, to refute, to contradict",
+        "sentences": [
+          {
+            "thai": "เขาแย้งความเห็นของหัวหน้าในที่ประชุม",
+            "en": "He argued against the boss's opinion in the meeting.",
+            "audio_src": "เขาแย้งความเห็นของหัวหน้าในที่ประชุม",
+            "audio_en_src": "He argued against the boss's opinion in the meeting."
+          },
+          {
+            "thai": "ฉันอยากแย้ง แต่ก็ไม่มีหลักฐานพอ",
+            "en": "I wanted to object, but I didn't have enough evidence.",
+            "audio_src": "ฉันอยากแย้ง แต่ก็ไม่มีหลักฐานพอ",
+            "audio_en_src": "I wanted to object, but I didn't have enough evidence."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-604",

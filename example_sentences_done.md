@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1874 words**
+**Total: 1884 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -859,8 +859,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-568` : ปักหลัก (to settle down (in a place)) : 1 meaning(s), 2 sentences
 - `tamago-l3-570` : ทำใจ (to come to terms with something, to accept) : 1 meaning(s), 2 sentences
 - `tamago-l3-571` : ชำนาญ (expert, proficient, skilled at) : 1 meaning(s), 2 sentences
+- `tamago-l3-572` : รอบรู้ (well-versed, knowledgeable) : 1 meaning(s), 2 sentences
+- `tamago-l3-574` : กติกา (rules, terms) : 1 meaning(s), 2 sentences
 - `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
+- `tamago-l3-580` : โจทย์ (problem, challenge, task (math, competition)) : 1 meaning(s), 2 sentences
+- `tamago-l3-581` : จับเวลา (to time, to keep time) : 1 meaning(s), 2 sentences
 - `tamago-l3-582` : เสมอ (even, tied, to draw (in a game); always) : 2 meaning(s), 4 sentences
+- `tamago-l3-584` : ตัดกำลังใจ (to discourage, to demoralize) : 1 meaning(s), 2 sentences
+- `tamago-l3-586` : เซียน (guru, master, expert) : 1 meaning(s), 2 sentences
+- `tamago-l3-597` : แอบได้ยิน (to overhear) : 1 meaning(s), 2 sentences
+- `tamago-l3-599` : ตำหนิ (to criticize, to find fault with) : 1 meaning(s), 2 sentences
+- `tamago-l3-600` : สรรหา (to seek out, search for, dig up, to pick carefully, to recruit) : 1 meaning(s), 2 sentences
+- `tamago-l3-603` : แย้ง (to argue against, to refute, to contradict) : 1 meaning(s), 2 sentences
 - `tamago-l3-609` : งานอดิเรก (hobby) : 1 meaning(s), 2 sentences
 - `tamago-l3-610` : เจอหน้า (to meet in person, to see each other) : 1 meaning(s), 2 sentences
 - `tamago-l3-621` : เจ๋ง (cool, awesome (slang)) : 1 meaning(s), 2 sentences
