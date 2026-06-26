@@ -41340,7 +41340,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "middle school (lower secondary)",
+        "sentences": [
+          {
+            "thai": "ลูกสาวเขาเรียนอยู่ ม.ต้น",
+            "en": "His daughter is in middle school.",
+            "audio_src": "ลูกสาวเขาเรียนอยู่ ม.ต้น",
+            "audio_en_src": "His daughter is in middle school."
+          },
+          {
+            "thai": "พอจบ ม.ต้น ก็ต้องเลือกสายเรียนต่อ",
+            "en": "After finishing middle school, you have to choose a track to continue.",
+            "audio_src": "พอจบ ม.ต้น ก็ต้องเลือกสายเรียนต่อ",
+            "audio_en_src": "After finishing middle school, you have to choose a track to continue."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-464",
@@ -41363,7 +41382,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "small container, jar (e.g for medicine, balm)",
+        "sentences": [
+          {
+            "thai": "เธอเก็บเหรียญใส่กระปุกออมสิน",
+            "en": "She saves coins in a piggy bank.",
+            "audio_src": "เธอเก็บเหรียญใส่กระปุกออมสิน",
+            "audio_en_src": "She saves coins in a piggy bank."
+          },
+          {
+            "thai": "ยาหม่องกระปุกนี้ใกล้จะหมดแล้ว",
+            "en": "This jar of balm is almost empty.",
+            "audio_src": "ยาหม่องกระปุกนี้ใกล้จะหมดแล้ว",
+            "audio_en_src": "This jar of balm is almost empty."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-466",
@@ -41375,7 +41413,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "dirty, messy, filthy",
+        "sentences": [
+          {
+            "thai": "เล่นดินมาทั้งวันตัวซกมกไปหมด",
+            "en": "He played in the dirt all day and got all filthy.",
+            "audio_src": "เล่นดินมาทั้งวันตัวซกมกไปหมด",
+            "audio_en_src": "He played in the dirt all day and got all filthy."
+          },
+          {
+            "thai": "ห้องครัวซกมกจนไม่อยากเข้าไป",
+            "en": "The kitchen is so filthy I don't want to go in.",
+            "audio_src": "ห้องครัวซกมกจนไม่อยากเข้าไป",
+            "audio_en_src": "The kitchen is so filthy I don't want to go in."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-467",
@@ -41400,7 +41457,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to remove, to cross out",
+        "sentences": [
+          {
+            "thai": "ครูให้ตัดประโยคที่ไม่จำเป็นออก",
+            "en": "The teacher had us cross out the unnecessary sentences.",
+            "audio_src": "ครูให้ตัดประโยคที่ไม่จำเป็นออก",
+            "audio_en_src": "The teacher had us cross out the unnecessary sentences."
+          },
+          {
+            "thai": "เขาตัดชื่อตัวเองออกจากรายชื่อ",
+            "en": "He removed his own name from the list.",
+            "audio_src": "เขาตัดชื่อตัวเองออกจากรายชื่อ",
+            "audio_en_src": "He removed his own name from the list."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-469",
@@ -41415,7 +41491,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to affect, to impact, to hit",
+        "sentences": [
+          {
+            "thai": "ราคาน้ำมันขึ้นกระทบค่าครองชีพ",
+            "en": "Rising oil prices affect the cost of living.",
+            "audio_src": "ราคาน้ำมันขึ้นกระทบค่าครองชีพ",
+            "audio_en_src": "Rising oil prices affect the cost of living."
+          },
+          {
+            "thai": "คลื่นกระทบหินดังซ่าอยู่ริมทะเล",
+            "en": "Waves crash against the rocks by the sea.",
+            "audio_src": "คลื่นกระทบหินดังซ่าอยู่ริมทะเล",
+            "audio_en_src": "Waves crash against the rocks by the sea."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-470",
@@ -41428,7 +41523,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to crowd around, to gang up on, to swarm",
+        "sentences": [
+          {
+            "thai": "ผู้คนรุมขอลายเซ็นดาราคนดัง",
+            "en": "People crowded around for the famous star's autograph.",
+            "audio_src": "ผู้คนรุมขอลายเซ็นดาราคนดัง",
+            "audio_en_src": "People crowded around for the famous star's autograph."
+          },
+          {
+            "thai": "เด็กโตรุมแกล้งเด็กเล็กคนเดียว",
+            "en": "The older kids ganged up on the one little kid.",
+            "audio_src": "เด็กโตรุมแกล้งเด็กเล็กคนเดียว",
+            "audio_en_src": "The older kids ganged up on the one little kid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-471",
@@ -41440,7 +41554,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "true nature, genuine character of someone",
+        "sentences": [
+          {
+            "thai": "พอเจอปัญหาธาตุแท้ของคนก็เผยออกมา",
+            "en": "When trouble comes, a person's true nature shows.",
+            "audio_src": "พอเจอปัญหาธาตุแท้ของคนก็เผยออกมา",
+            "audio_en_src": "When trouble comes, a person's true nature shows."
+          },
+          {
+            "thai": "อยู่ด้วยกันนานๆ ถึงจะเห็นธาตุแท้",
+            "en": "Only after living together a long time do you see someone's true nature.",
+            "audio_src": "อยู่ด้วยกันนานๆ ถึงจะเห็นธาตุแท้",
+            "audio_en_src": "Only after living together a long time do you see someone's true nature."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-472",
@@ -41462,7 +41595,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to give respect, to show respect to",
+        "sentences": [
+          {
+            "thai": "เราควรให้เกียรติความเห็นของผู้อื่น",
+            "en": "We should respect others' opinions.",
+            "audio_src": "เราควรให้เกียรติความเห็นของผู้อื่น",
+            "audio_en_src": "We should respect others' opinions."
+          },
+          {
+            "thai": "เขาให้เกียรติเชิญผู้ใหญ่มาเป็นประธาน",
+            "en": "He respectfully invited the senior figure to be the chairperson.",
+            "audio_src": "เขาให้เกียรติเชิญผู้ใหญ่มาเป็นประธาน",
+            "audio_en_src": "He respectfully invited the senior figure to be the chairperson."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-474",
@@ -41508,7 +41660,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to step on, to tread on",
+        "sentences": [
+          {
+            "thai": "ระวังอย่าเหยียบหางแมว",
+            "en": "Be careful not to step on the cat's tail.",
+            "audio_src": "ระวังอย่าเหยียบหางแมว",
+            "audio_en_src": "Be careful not to step on the cat's tail."
+          },
+          {
+            "thai": "เขาเหยียบเบรกกะทันหันตอนมีคนข้ามถนน",
+            "en": "He slammed the brake suddenly when someone crossed the road.",
+            "audio_src": "เขาเหยียบเบรกกะทันหันตอนมีคนข้ามถนน",
+            "audio_en_src": "He slammed the brake suddenly when someone crossed the road."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-479",
@@ -41562,7 +41733,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "height",
+        "sentences": [
+          {
+            "thai": "ตึกนี้มีความสูงเกือบสามร้อยเมตร",
+            "en": "This building has a height of nearly three hundred meters.",
+            "audio_src": "ตึกนี้มีความสูงเกือบสามร้อยเมตร",
+            "audio_en_src": "This building has a height of nearly three hundred meters."
+          },
+          {
+            "thai": "เครื่องเล่นนี้จำกัดความสูงของผู้เล่น",
+            "en": "This ride has a height restriction for riders.",
+            "audio_src": "เครื่องเล่นนี้จำกัดความสูงของผู้เล่น",
+            "audio_en_src": "This ride has a height restriction for riders."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-483",

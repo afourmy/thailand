@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1834 words**
+**Total: 1844 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -812,6 +812,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-457` : ในใจ (silently, inwardly, in one's heart) : 1 meaning(s), 2 sentences
 - `tamago-l3-459` : มหาเศรษฐี (multimillionaire) : 1 meaning(s), 2 sentences
 - `tamago-l3-462` : ขอทาน (beggar) : 1 meaning(s), 2 sentences
+- `tamago-l3-463` : ม.ต้น (middle school (lower secondary)) : 1 meaning(s), 2 sentences
+- `tamago-l3-465` : กระปุก (small container, jar (e.g for medicine, balm)) : 1 meaning(s), 2 sentences
+- `tamago-l3-466` : ซกมก (dirty, messy, filthy) : 1 meaning(s), 2 sentences
+- `tamago-l3-468` : ตัดออก (to remove, to cross out) : 1 meaning(s), 2 sentences
+- `tamago-l3-469` : กระทบ (to affect, to impact, to hit) : 1 meaning(s), 2 sentences
+- `tamago-l3-470` : รุม (to crowd around, to gang up on, to swarm) : 1 meaning(s), 2 sentences
+- `tamago-l3-471` : ธาตุแท้ (true nature, genuine character of someone) : 1 meaning(s), 2 sentences
+- `tamago-l3-473` : ให้เกียรติ (to give respect, to show respect to) : 1 meaning(s), 2 sentences
+- `tamago-l3-478` : เหยียบ (to step on, to tread on) : 1 meaning(s), 2 sentences
+- `wlt-c05-099` : ความสูง (height) : 1 meaning(s), 2 sentences
 - `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences
