@@ -16099,7 +16099,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "inspiration",
+        "sentences": [
+          {
+            "thai": "เขาเป็นแรงบันดาลใจให้ฉันสู้ต่อ",
+            "en": "He's the inspiration that keeps me fighting on.",
+            "audio_src": "เขาเป็นแรงบันดาลใจให้ฉันสู้ต่อ",
+            "audio_en_src": "He's the inspiration that keeps me fighting on."
+          },
+          {
+            "thai": "ศิลปินคนนี้ได้แรงบันดาลใจจากธรรมชาติ",
+            "en": "This artist draws inspiration from nature.",
+            "audio_src": "ศิลปินคนนี้ได้แรงบันดาลใจจากธรรมชาติ",
+            "audio_en_src": "This artist draws inspiration from nature."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-321",
@@ -16134,7 +16153,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "bachelor's degree",
+        "sentences": [
+          {
+            "thai": "เขาเรียนจบปริญญาตรีปีที่แล้ว",
+            "en": "He finished his bachelor's degree last year.",
+            "audio_src": "เขาเรียนจบปริญญาตรีปีที่แล้ว",
+            "audio_en_src": "He finished his bachelor's degree last year."
+          },
+          {
+            "thai": "งานนี้รับเฉพาะคนจบปริญญาตรี",
+            "en": "This job only accepts people with a bachelor's degree.",
+            "audio_src": "งานนี้รับเฉพาะคนจบปริญญาตรี",
+            "audio_en_src": "This job only accepts people with a bachelor's degree."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-324",
@@ -16283,7 +16321,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to support, accommodate, handle (e.g a need, a capacity)",
+        "sentences": [
+          {
+            "thai": "ห้องประชุมนี้รองรับคนได้ร้อยคน",
+            "en": "This meeting room can accommodate a hundred people.",
+            "audio_src": "ห้องประชุมนี้รองรับคนได้ร้อยคน",
+            "audio_en_src": "This meeting room can accommodate a hundred people."
+          },
+          {
+            "thai": "แอปนี้รองรับหลายภาษา",
+            "en": "This app supports many languages.",
+            "audio_src": "แอปนี้รองรับหลายภาษา",
+            "audio_en_src": "This app supports many languages."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-339",
@@ -16471,7 +16528,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cheap, low quality, worthless",
+        "sentences": [
+          {
+            "thai": "ของกระจอกแบบนี้ฉันไม่เอา",
+            "en": "I don't want cheap junk like this.",
+            "audio_src": "ของกระจอกแบบนี้ฉันไม่เอา",
+            "audio_en_src": "I don't want cheap junk like this."
+          },
+          {
+            "thai": "อย่าดูถูกเขาว่ากระจอก",
+            "en": "Don't look down on him like he's worthless.",
+            "audio_src": "อย่าดูถูกเขาว่ากระจอก",
+            "audio_en_src": "Don't look down on him like he's worthless."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-012",
@@ -16516,7 +16592,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "flower pot",
+        "sentences": [
+          {
+            "thai": "แม่ปลูกต้นไม้ไว้ในกระถาง",
+            "en": "Mom grows plants in pots.",
+            "audio_src": "แม่ปลูกต้นไม้ไว้ในกระถาง",
+            "audio_en_src": "Mom grows plants in pots."
+          },
+          {
+            "thai": "กระถางต้นไม้แตกตอนย้ายบ้าน",
+            "en": "The flower pot broke when we moved house.",
+            "audio_src": "กระถางต้นไม้แตกตอนย้ายบ้าน",
+            "audio_en_src": "The flower pot broke when we moved house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-016",
@@ -16571,7 +16666,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "drums",
+        "sentences": [
+          {
+            "thai": "เขาตีกลองในวงดนตรี",
+            "en": "He plays drums in the band.",
+            "audio_src": "เขาตีกลองในวงดนตรี",
+            "audio_en_src": "He plays drums in the band."
+          },
+          {
+            "thai": "เสียงกลองดังมาแต่ไกล",
+            "en": "The sound of drums carried from far away.",
+            "audio_src": "เสียงกลองดังมาแต่ไกล",
+            "audio_en_src": "The sound of drums carried from far away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-023",
@@ -16583,7 +16697,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to bully, to victimize",
+        "sentences": [
+          {
+            "thai": "เด็กคนนั้นโดนเพื่อนกลั่นแกล้งที่โรงเรียน",
+            "en": "That kid gets bullied by classmates at school.",
+            "audio_src": "เด็กคนนั้นโดนเพื่อนกลั่นแกล้งที่โรงเรียน",
+            "audio_en_src": "That kid gets bullied by classmates at school."
+          },
+          {
+            "thai": "อย่ากลั่นแกล้งคนอื่นเพราะเขาอ่อนแอกว่า",
+            "en": "Don't bully others just because they're weaker.",
+            "audio_src": "อย่ากลั่นแกล้งคนอื่นเพราะเขาอ่อนแอกว่า",
+            "audio_en_src": "Don't bully others just because they're weaker."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-024",
@@ -16595,7 +16728,26 @@
       "Tamago L1-2"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "outdoor(s), in the open air",
+        "sentences": [
+          {
+            "thai": "คอนเสิร์ตจัดกลางแจ้ง ระวังฝนด้วย",
+            "en": "The concert is held outdoors, watch out for rain.",
+            "audio_src": "คอนเสิร์ตจัดกลางแจ้ง ระวังฝนด้วย",
+            "audio_en_src": "The concert is held outdoors, watch out for rain."
+          },
+          {
+            "thai": "ฉันชอบออกกำลังกายกลางแจ้ง",
+            "en": "I like exercising outdoors.",
+            "audio_src": "ฉันชอบออกกำลังกายกลางแจ้ง",
+            "audio_en_src": "I like exercising outdoors."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-025",
@@ -16805,7 +16957,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "suddenly, abruptly",
+        "sentences": [
+          {
+            "thai": "เขาลาออกกะทันหันโดยไม่บอกใคร",
+            "en": "He quit suddenly without telling anyone.",
+            "audio_src": "เขาลาออกกะทันหันโดยไม่บอกใคร",
+            "audio_en_src": "He quit suddenly without telling anyone."
+          },
+          {
+            "thai": "ฝนตกกะทันหัน เลยเปียกหมด",
+            "en": "It rained abruptly, so I got soaked.",
+            "audio_src": "ฝนตกกะทันหัน เลยเปียกหมด",
+            "audio_en_src": "It rained abruptly, so I got soaked."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-034",
@@ -16840,7 +17011,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to block, separate, divide",
+        "sentences": [
+          {
+            "thai": "เขาเอาผ้าม่านมากั้นห้องเป็นสองส่วน",
+            "en": "He used a curtain to divide the room into two.",
+            "audio_src": "เขาเอาผ้าม่านมากั้นห้องเป็นสองส่วน",
+            "audio_en_src": "He used a curtain to divide the room into two."
+          },
+          {
+            "thai": "ตำรวจกั้นถนนไม่ให้รถผ่าน",
+            "en": "The police blocked the road so cars couldn't pass.",
+            "audio_src": "ตำรวจกั้นถนนไม่ให้รถผ่าน",
+            "audio_en_src": "The police blocked the road so cars couldn't pass."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l12-037",

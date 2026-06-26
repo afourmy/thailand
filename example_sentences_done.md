@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1504 words**
+**Total: 1514 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -258,14 +258,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
 - `chula-l6-305` : ฝ่าฟัน (to overcome, to strive, to struggle through (obstacles)) : 1 meaning(s), 2 sentences
 - `chula-l6-311` : ง่ายดาย (very easy, effortless) : 1 meaning(s), 2 sentences
+- `chula-l6-320` : แรงบันดาลใจ (inspiration) : 1 meaning(s), 2 sentences
+- `chula-l6-323` : ปริญญาตรี (bachelor's degree) : 1 meaning(s), 2 sentences
+- `chula-l6-338` : รองรับ (to support, accommodate, handle (e.g a need, a capacity)) : 1 meaning(s), 2 sentences
 - `tamago-l12-003` : ...ไปก่อน ("... for now") : 1 meaning(s), 2 sentences
 - `tamago-l12-006` : เรื่อยๆ (to keep doing something (continuously)) : 1 meaning(s), 2 sentences
 - `tamago-l12-008` : ไหว (to be able to, have the capacity (physical or mental) to) : 1 meaning(s), 2 sentences
 - `tamago-l12-009` : กดปุ่ม (to press a button) : 1 meaning(s), 2 sentences
+- `tamago-l12-011` : กระจอก (cheap, low quality, worthless) : 1 meaning(s), 2 sentences
+- `tamago-l12-015` : กระถาง (flower pot) : 1 meaning(s), 2 sentences
+- `tamago-l12-022` : กลอง (drums) : 1 meaning(s), 2 sentences
+- `tamago-l12-023` : กลั่นแกล้ง (to bully, to victimize) : 1 meaning(s), 2 sentences
+- `tamago-l12-024` : กลางแจ้ง (outdoor(s), in the open air) : 1 meaning(s), 2 sentences
 - `tamago-l12-026` : กล้วย (banana) : 1 meaning(s), 2 sentences
 - `tamago-l12-030` : กว่าจะ (until, by the time) : 1 meaning(s), 2 sentences
 - `tamago-l12-031` : กะ (shift (work); to plan to; to estimate, to gauge) : 3 meaning(s), 6 sentences
 - `tamago-l12-032` : กะจะ (to plan to, to intend to) : 1 meaning(s), 2 sentences
+- `tamago-l12-033` : กะทันหัน (suddenly, abruptly) : 1 meaning(s), 2 sentences
+- `tamago-l12-036` : กั้น (to block, separate, divide) : 1 meaning(s), 2 sentences
 - `tamago-l12-043` : กำลังจะ (to be about to) : 1 meaning(s), 2 sentences
 - `tamago-l12-046` : ก้อน (lump; classifier for chunks (e.g money, ice)) : 2 meaning(s), 4 sentences
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
