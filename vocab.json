@@ -8405,7 +8405,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "ready-made, instant",
+        "sentences": [
+          {
+            "thai": "ตอนดึกเขากินบะหมี่สำเร็จรูป",
+            "en": "Late at night he eats instant noodles.",
+            "audio_src": "ตอนดึกเขากินบะหมี่สำเร็จรูป",
+            "audio_en_src": "Late at night he eats instant noodles."
+          },
+          {
+            "thai": "อาหารสำเร็จรูปสะดวกแต่ไม่ค่อยดีต่อสุขภาพ",
+            "en": "Ready-made food is convenient but not very healthy.",
+            "audio_src": "อาหารสำเร็จรูปสะดวกแต่ไม่ค่อยดีต่อสุขภาพ",
+            "audio_en_src": "Ready-made food is convenient but not very healthy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-358",
@@ -8419,7 +8438,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "reserved, spare, secondary",
+        "sentences": [
+          {
+            "thai": "อย่าลืมเตรียมแผนสำรองไว้",
+            "en": "Don't forget to have a backup plan ready.",
+            "audio_src": "อย่าลืมเตรียมแผนสำรองไว้",
+            "audio_en_src": "Don't forget to have a backup plan ready."
+          },
+          {
+            "thai": "รถมียางสำรองอยู่ในกระโปรง",
+            "en": "The car has a spare tire in the trunk.",
+            "audio_src": "รถมียางสำรองอยู่ในกระโปรง",
+            "audio_en_src": "The car has a spare tire in the trunk."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-359",
@@ -8520,7 +8558,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "component, ingredient",
+        "sentences": [
+          {
+            "thai": "น้ำตาลเป็นส่วนประกอบหลักของขนม",
+            "en": "Sugar is the main ingredient of the dessert.",
+            "audio_src": "น้ำตาลเป็นส่วนประกอบหลักของขนม",
+            "audio_en_src": "Sugar is the main ingredient of the dessert."
+          },
+          {
+            "thai": "เครื่องนี้มีส่วนประกอบหลายชิ้น",
+            "en": "This machine has many components.",
+            "audio_src": "เครื่องนี้มีส่วนประกอบหลายชิ้น",
+            "audio_en_src": "This machine has many components."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-368",
@@ -8602,7 +8659,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "relationship",
+        "sentences": [
+          {
+            "thai": "ทั้งสองประเทศมีความสัมพันธ์ที่ดี",
+            "en": "The two countries have a good relationship.",
+            "audio_src": "ทั้งสองประเทศมีความสัมพันธ์ที่ดี",
+            "audio_en_src": "The two countries have a good relationship."
+          },
+          {
+            "thai": "ความสัมพันธ์ของพวกเขาเริ่มห่างเหิน",
+            "en": "Their relationship is starting to grow distant.",
+            "audio_src": "ความสัมพันธ์ของพวกเขาเริ่มห่างเหิน",
+            "audio_en_src": "Their relationship is starting to grow distant."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-374",
@@ -8714,7 +8790,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "conflict",
+        "sentences": [
+          {
+            "thai": "ในทีมเกิดความขัดแย้งเรื่องงาน",
+            "en": "A conflict over work came up in the team.",
+            "audio_src": "ในทีมเกิดความขัดแย้งเรื่องงาน",
+            "audio_en_src": "A conflict over work came up in the team."
+          },
+          {
+            "thai": "เราควรหลีกเลี่ยงความขัดแย้ง",
+            "en": "We should avoid conflict.",
+            "audio_src": "เราควรหลีกเลี่ยงความขัดแย้ง",
+            "audio_en_src": "We should avoid conflict."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-382",
@@ -8791,7 +8886,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to apply",
+        "sentences": [
+          {
+            "thai": "เขาสมัครงานที่บริษัทใหญ่",
+            "en": "He applied for a job at a big company.",
+            "audio_src": "เขาสมัครงานที่บริษัทใหญ่",
+            "audio_en_src": "He applied for a job at a big company."
+          },
+          {
+            "thai": "ฉันสมัครเป็นสมาชิกห้องสมุด",
+            "en": "I signed up for library membership.",
+            "audio_src": "ฉันสมัครเป็นสมาชิกห้องสมุด",
+            "audio_en_src": "I signed up for library membership."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-390",
@@ -8818,7 +8932,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "necklace",
+        "sentences": [
+          {
+            "thai": "แม่ให้สร้อยทองเป็นของขวัญ",
+            "en": "My mom gave me a gold necklace as a gift.",
+            "audio_src": "แม่ให้สร้อยทองเป็นของขวัญ",
+            "audio_en_src": "My mom gave me a gold necklace as a gift."
+          },
+          {
+            "thai": "เธอใส่สร้อยคอเส้นเล็กๆ",
+            "en": "She's wearing a thin necklace.",
+            "audio_src": "เธอใส่สร้อยคอเส้นเล็กๆ",
+            "audio_en_src": "She's wearing a thin necklace."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-393",
@@ -8833,7 +8966,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "steel, iron",
+        "sentences": [
+          {
+            "thai": "สะพานนี้สร้างด้วยเหล็ก",
+            "en": "This bridge is made of steel.",
+            "audio_src": "สะพานนี้สร้างด้วยเหล็ก",
+            "audio_en_src": "This bridge is made of steel."
+          },
+          {
+            "thai": "ประตูเหล็กหนักมาก",
+            "en": "The iron gate is very heavy.",
+            "audio_src": "ประตูเหล็กหนักมาก",
+            "audio_en_src": "The iron gate is very heavy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-394",
@@ -8845,7 +8997,26 @@
       "Chulalongkorn L5"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stability",
+        "sentences": [
+          {
+            "thai": "ทุกคนอยากมีความมั่นคงทางการเงิน",
+            "en": "Everyone wants financial stability.",
+            "audio_src": "ทุกคนอยากมีความมั่นคงทางการเงิน",
+            "audio_en_src": "Everyone wants financial stability."
+          },
+          {
+            "thai": "งานราชการให้ความมั่นคงในชีวิต",
+            "en": "A government job gives stability in life.",
+            "audio_src": "งานราชการให้ความมั่นคงในชีวิต",
+            "audio_en_src": "A government job gives stability in life."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-395",
@@ -9026,7 +9197,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to tear, to rip",
+        "sentences": [
+          {
+            "thai": "เขาฉีกกระดาษออกเป็นชิ้นเล็กๆ",
+            "en": "He tore the paper into small pieces.",
+            "audio_src": "เขาฉีกกระดาษออกเป็นชิ้นเล็กๆ",
+            "audio_en_src": "He tore the paper into small pieces."
+          },
+          {
+            "thai": "ระวังอย่าฉีกซองแรงไป",
+            "en": "Be careful not to rip the envelope too hard.",
+            "audio_src": "ระวังอย่าฉีกซองแรงไป",
+            "audio_en_src": "Be careful not to rip the envelope too hard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l5-409",

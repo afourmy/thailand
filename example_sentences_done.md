@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1394 words**
+**Total: 1404 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -128,9 +128,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-343` : กรอบ (framework, frame; crispy) : 2 meaning(s), 4 sentences
 - `chula-l5-344` : ทักษะ (skill) : 1 meaning(s), 2 sentences
 - `chula-l5-348` : พลังงาน (energy) : 1 meaning(s), 2 sentences
+- `chula-l5-357` : สำเร็จรูป (ready-made, instant) : 1 meaning(s), 2 sentences
+- `chula-l5-358` : สำรอง (reserved, spare, secondary) : 1 meaning(s), 2 sentences
+- `chula-l5-367` : ส่วนประกอบ (component, ingredient) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
+- `chula-l5-372` : ความสัมพันธ์ (relationship) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
+- `chula-l5-381` : ความขัดแย้ง (conflict) : 1 meaning(s), 2 sentences
+- `chula-l5-389` : สมัคร (to apply) : 1 meaning(s), 2 sentences
+- `chula-l5-391` : สร้อย, สร้อยคอ (necklace) : 1 meaning(s), 2 sentences
+- `chula-l5-393` : เหล็ก (steel, iron) : 1 meaning(s), 2 sentences
+- `chula-l5-394` : ความมั่นคง (stability) : 1 meaning(s), 2 sentences
 - `chula-l5-403` : ปรากฏ (to appear) : 1 meaning(s), 2 sentences
+- `chula-l5-408` : ฉีก (to tear, to rip) : 1 meaning(s), 2 sentences
 - `chula-l5-424` : นัด (meeting, appointment; game, match; classifier for gunshots, bullets) : 3 meaning(s), 6 sentences
 - `chula-l5-457` : ย้ำ (to repeat, to emphasize, to reiterate) : 1 meaning(s), 2 sentences
 - `chula-l6-009` : รูปแบบ (format, form, pattern, model) : 1 meaning(s), 2 sentences
