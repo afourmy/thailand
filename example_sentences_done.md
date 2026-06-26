@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1754 words**
+**Total: 1764 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -721,11 +721,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-261` : เลิกรา (to part ways, to break up) : 1 meaning(s), 2 sentences
 - `tamago-l3-266` : กำลังใจ (encouragement, moral support) : 1 meaning(s), 2 sentences
 - `tamago-l3-267` : ลาภ, โชคลาภ (good fortune, luck, windfall) : 1 meaning(s), 2 sentences
+- `tamago-l3-268` : เติมเต็ม (to fill up (a need), to fulfill) : 1 meaning(s), 2 sentences
+- `tamago-l3-273` : ขอร้อง (to beg, to plead) : 1 meaning(s), 2 sentences
 - `tamago-l3-276` : ทัก, ทักทาย (to greet, to say hi) : 1 meaning(s), 2 sentences
+- `tamago-l3-277` : ลาป่วย (to take sick leave) : 1 meaning(s), 2 sentences
+- `tamago-l3-278` : ติด, ติดต่อกัน (consecutively, in a row) : 1 meaning(s), 2 sentences
+- `tamago-l3-280` : ข้ออ้าง (excuse, pretext) : 1 meaning(s), 2 sentences
 - `tamago-l3-281` : แอด (to add (e.g friend on social media)) : 1 meaning(s), 2 sentences
 - `tamago-l3-284` : รำคาญ (annoyed) : 1 meaning(s), 2 sentences
+- `tamago-l3-287` : ยื่น (to hand in, to submit; to extend (an arm)) : 2 meaning(s), 4 sentences
+- `tamago-l3-291` : คล้อง (to rhyme; to link, to be attached) : 2 meaning(s), 4 sentences
 - `tamago-l3-292` : เหลือเกิน (too much, extremely) : 1 meaning(s), 2 sentences
+- `tamago-l3-294` : ควบ (in parallel, simultaneously) : 1 meaning(s), 2 sentences
 - `tamago-l3-295` : ประมาณว่า... ("roughly speaking, ...", "something like...") : 1 meaning(s), 2 sentences
+- `tamago-l3-298` : เศรษฐี (millionaire, rich person) : 1 meaning(s), 2 sentences
+- `tamago-l3-300` : ส่อง (to shine on, to look through (binoculars, microscope); to stalk online) : 2 meaning(s), 4 sentences
 - `tamago-l3-316` : บ้านเรา ((colloquial) refers to Thailand, "our country") : 1 meaning(s), 2 sentences
 - `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ("whatever!", "never mind", "forget about it!") : 1 meaning(s), 2 sentences
 - `tamago-l3-356` : สั่ง (to order (someone to do something, food, goods)) : 1 meaning(s), 3 sentences

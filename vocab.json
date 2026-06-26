@@ -37235,7 +37235,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to fill up (a need), to fulfill",
+        "sentences": [
+          {
+            "thai": "ครอบครัวช่วยเติมเต็มความสุขในชีวิต",
+            "en": "Family helps fulfill happiness in life.",
+            "audio_src": "ครอบครัวช่วยเติมเต็มความสุขในชีวิต",
+            "audio_en_src": "Family helps fulfill happiness in life."
+          },
+          {
+            "thai": "งานอดิเรกช่วยเติมเต็มเวลาว่างได้ดี",
+            "en": "Hobbies fill up free time well.",
+            "audio_src": "งานอดิเรกช่วยเติมเต็มเวลาว่างได้ดี",
+            "audio_en_src": "Hobbies fill up free time well."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-270",
@@ -37269,7 +37288,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to beg, to plead",
+        "sentences": [
+          {
+            "thai": "ฉันขอร้องให้เขาอย่าบอกใคร",
+            "en": "I begged him not to tell anyone.",
+            "audio_src": "ฉันขอร้องให้เขาอย่าบอกใคร",
+            "audio_en_src": "I begged him not to tell anyone."
+          },
+          {
+            "thai": "เธอขอร้องแม่ให้พาไปเที่ยว",
+            "en": "She pleaded with her mom to take her on a trip.",
+            "audio_src": "เธอขอร้องแม่ให้พาไปเที่ยว",
+            "audio_en_src": "She pleaded with her mom to take her on a trip."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-274",
@@ -37335,7 +37373,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take sick leave",
+        "sentences": [
+          {
+            "thai": "วันนี้เขาลาป่วยเพราะเป็นไข้",
+            "en": "He took sick leave today because he has a fever.",
+            "audio_src": "วันนี้เขาลาป่วยเพราะเป็นไข้",
+            "audio_en_src": "He took sick leave today because he has a fever."
+          },
+          {
+            "thai": "ถ้าไม่สบายมากก็ลาป่วยเถอะ",
+            "en": "If you're really not well, just take sick leave.",
+            "audio_src": "ถ้าไม่สบายมากก็ลาป่วยเถอะ",
+            "audio_en_src": "If you're really not well, just take sick leave."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-278",
@@ -37351,7 +37408,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "consecutively, in a row",
+        "sentences": [
+          {
+            "thai": "ฝนตกติดต่อกันสามวันแล้ว",
+            "en": "It's rained for three days in a row.",
+            "audio_src": "ฝนตกติดต่อกันสามวันแล้ว",
+            "audio_en_src": "It's rained for three days in a row."
+          },
+          {
+            "thai": "เขาทำงานหนักหลายวันติด จนป่วย",
+            "en": "He worked hard for several days straight until he got sick.",
+            "audio_src": "เขาทำงานหนักหลายวันติด จนป่วย",
+            "audio_en_src": "He worked hard for several days straight until he got sick."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-279",
@@ -37374,7 +37450,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "excuse, pretext",
+        "sentences": [
+          {
+            "thai": "เขาหาข้ออ้างไม่ไปงานเลี้ยง",
+            "en": "He made up an excuse not to go to the party.",
+            "audio_src": "เขาหาข้ออ้างไม่ไปงานเลี้ยง",
+            "audio_en_src": "He made up an excuse not to go to the party."
+          },
+          {
+            "thai": "อย่าเอาเรื่องงานมาเป็นข้ออ้างทุกครั้ง",
+            "en": "Don't use work as an excuse every time.",
+            "audio_src": "อย่าเอาเรื่องงานมาเป็นข้ออ้างทุกครั้ง",
+            "audio_en_src": "Don't use work as an excuse every time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-281",
@@ -37487,7 +37582,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hand in, to submit",
+        "sentences": [
+          {
+            "thai": "เขายื่นใบลาออกให้หัวหน้าเมื่อเช้า",
+            "en": "He submitted his resignation letter to his boss this morning.",
+            "audio_src": "เขายื่นใบลาออกให้หัวหน้าเมื่อเช้า",
+            "audio_en_src": "He submitted his resignation letter to his boss this morning."
+          },
+          {
+            "thai": "อย่าลืมยื่นเอกสารก่อนหมดเขต",
+            "en": "Don't forget to hand in the documents before the deadline.",
+            "audio_src": "อย่าลืมยื่นเอกสารก่อนหมดเขต",
+            "audio_en_src": "Don't forget to hand in the documents before the deadline."
+          }
+        ]
+      },
+      {
+        "meaning": "to extend (an arm)",
+        "sentences": [
+          {
+            "thai": "เธอยื่นมือมาช่วยฉันลุกขึ้น",
+            "en": "She reached out her hand to help me get up.",
+            "audio_src": "เธอยื่นมือมาช่วยฉันลุกขึ้น",
+            "audio_en_src": "She reached out her hand to help me get up."
+          },
+          {
+            "thai": "เขายื่นแก้วน้ำให้ผู้สูงอายุ",
+            "en": "He held out a glass of water to the elderly person.",
+            "audio_src": "เขายื่นแก้วน้ำให้ผู้สูงอายุ",
+            "audio_en_src": "He held out a glass of water to the elderly person."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-288",
@@ -37531,7 +37662,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to rhyme",
+        "sentences": [
+          {
+            "thai": "ชื่อสองพี่น้องตั้งให้คล้องกัน",
+            "en": "The two siblings' names were chosen to rhyme with each other.",
+            "audio_src": "ชื่อสองพี่น้องตั้งให้คล้องกัน",
+            "audio_en_src": "The two siblings' names were chosen to rhyme with each other."
+          },
+          {
+            "thai": "เพลงเด็กมักใช้คำที่คล้องจองกัน",
+            "en": "Children's songs often use rhyming words.",
+            "audio_src": "เพลงเด็กมักใช้คำที่คล้องจองกัน",
+            "audio_en_src": "Children's songs often use rhyming words."
+          }
+        ]
+      },
+      {
+        "meaning": "to link, to be attached",
+        "sentences": [
+          {
+            "thai": "เธอคล้องพวงมาลัยให้แขกผู้ใหญ่",
+            "en": "She placed a garland around the senior guest's neck.",
+            "audio_src": "เธอคล้องพวงมาลัยให้แขกผู้ใหญ่",
+            "audio_en_src": "She placed a garland around the senior guest's neck."
+          },
+          {
+            "thai": "คู่รักเดินคล้องแขนกันในสวน",
+            "en": "The couple walked arm in arm in the park.",
+            "audio_src": "คู่รักเดินคล้องแขนกันในสวน",
+            "audio_en_src": "The couple walked arm in arm in the park."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-292",
@@ -37589,7 +37756,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "in parallel, simultaneously",
+        "sentences": [
+          {
+            "thai": "เขาเรียนควบสองปริญญาพร้อมกัน",
+            "en": "He's studying two degrees simultaneously.",
+            "audio_src": "เขาเรียนควบสองปริญญาพร้อมกัน",
+            "audio_en_src": "He's studying two degrees simultaneously."
+          },
+          {
+            "thai": "เธอทำงานควบสองที่เพื่อหาเงินเพิ่ม",
+            "en": "She works two jobs at once to earn extra money.",
+            "audio_src": "เธอทำงานควบสองที่เพื่อหาเงินเพิ่ม",
+            "audio_en_src": "She works two jobs at once to earn extra money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-295",
@@ -37658,7 +37844,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "millionaire, rich person",
+        "sentences": [
+          {
+            "thai": "เขารวยจนกลายเป็นเศรษฐีตั้งแต่อายุน้อย",
+            "en": "He got so rich he became a millionaire at a young age.",
+            "audio_src": "เขารวยจนกลายเป็นเศรษฐีตั้งแต่อายุน้อย",
+            "audio_en_src": "He got so rich he became a millionaire at a young age."
+          },
+          {
+            "thai": "เศรษฐีคนนี้บริจาคเงินช่วยสังคมเยอะ",
+            "en": "This rich man donates a lot of money to help society.",
+            "audio_src": "เศรษฐีคนนี้บริจาคเงินช่วยสังคมเยอะ",
+            "audio_en_src": "This rich man donates a lot of money to help society."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-299",
@@ -37683,7 +37888,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to shine on, to look through (binoculars, microscope)",
+        "sentences": [
+          {
+            "thai": "เขาส่องไฟฉายหาของที่ตกใต้เตียง",
+            "en": "He shone the flashlight to find what fell under the bed.",
+            "audio_src": "เขาส่องไฟฉายหาของที่ตกใต้เตียง",
+            "audio_en_src": "He shone the flashlight to find what fell under the bed."
+          },
+          {
+            "thai": "นักเรียนส่องกล้องจุลทรรศน์ดูเซลล์",
+            "en": "The students looked through the microscope at the cells.",
+            "audio_src": "นักเรียนส่องกล้องจุลทรรศน์ดูเซลล์",
+            "audio_en_src": "The students looked through the microscope at the cells."
+          }
+        ]
+      },
+      {
+        "meaning": "to stalk online",
+        "sentences": [
+          {
+            "thai": "เธอชอบส่องไอจีดาราที่ชื่นชอบ",
+            "en": "She likes stalking her favorite celebrity's Instagram.",
+            "audio_src": "เธอชอบส่องไอจีดาราที่ชื่นชอบ",
+            "audio_en_src": "She likes stalking her favorite celebrity's Instagram."
+          },
+          {
+            "thai": "เขาแอบส่องเฟซบุ๊กแฟนเก่าอยู่บ่อยๆ",
+            "en": "He often secretly stalks his ex's Facebook.",
+            "audio_src": "เขาแอบส่องเฟซบุ๊กแฟนเก่าอยู่บ่อยๆ",
+            "audio_en_src": "He often secretly stalks his ex's Facebook."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-301",
