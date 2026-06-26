@@ -69,7 +69,7 @@
     return esc(s).replace(/"/g, "&quot;");
   }
 
-  // Audio is sharded across 256 subfolders of audio/ (named "00".."ff") so no folder
+  // Audio is sharded across 256 subfolders (named "00".."ff") so no folder
   // grows too large. The bucket is a djb2 hash of the word id, so all of a word's
   // clips land together. Mirror of shard() in audio_paths.py / audioShard in flashcards.js.
   function audioShard(id) {
@@ -77,8 +77,17 @@
     for (var i = 0; i < id.length; i++) h = (h * 33 + id.charCodeAt(i)) >>> 0;
     return ("0" + (h & 0xff).toString(16)).slice(-2);
   }
-  function wordAudioUrl(base, id, en) {
-    return base + audioShard(id) + "/" + id + (en ? ".en" : "") + ".mp3";
+  // Audio lives on two public GitHub repos served via the jsDelivr CDN, split by
+  // shard: shards 00-7f are in thailand-audio-1, 80-ff in thailand-audio-2. A
+  // word's clips all share one shard, so they always resolve to the same repo.
+  // Keep these constants identical in flashcards.js / vocab.js / audio_paths.py.
+  var AUDIO_CDN_1 = "https://cdn.jsdelivr.net/gh/afourmy/thailand-audio-1@main/";
+  var AUDIO_CDN_2 = "https://cdn.jsdelivr.net/gh/afourmy/thailand-audio-2@main/";
+  function audioBaseFor(id) {
+    return parseInt(audioShard(id), 16) < 0x80 ? AUDIO_CDN_1 : AUDIO_CDN_2;
+  }
+  function wordAudioUrl(id, en) {
+    return audioBaseFor(id) + audioShard(id) + "/" + id + (en ? ".en" : "") + ".mp3";
   }
 
   // Small copy-to-clipboard control overlaid on flashcards (front shows a copy
@@ -163,16 +172,16 @@
   // button. Audio follows a fixed naming convention keyed by word id + meaning
   // index + sentence index; those mp3s don't exist until generated, so the
   // buttons simply no-op (play() rejects) for now. Kept identical in flashcards.js.
-  function exAudioSrc(base, id, mi, si, en) {
-    return base + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
+  function exAudioSrc(id, mi, si, en) {
+    return audioBaseFor(id) + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
   }
   // The sentence list for one meaning group (shared by single- and multi-meaning
   // layouts). mi is the meaning index, used to address that group's audio files.
-  function exSentencesHtml(g, wordId, base, mi) {
+  function exSentencesHtml(g, wordId, mi) {
     var html = '<ul class="ex-list">';
     (g.sentences || []).forEach(function (s, si) {
-      var thSrc = escAttr(exAudioSrc(base, wordId, mi, si, false));
-      var enSrc = escAttr(exAudioSrc(base, wordId, mi, si, true));
+      var thSrc = escAttr(exAudioSrc(wordId, mi, si, false));
+      var enSrc = escAttr(exAudioSrc(wordId, mi, si, true));
       html += '<li class="ex-item">' +
         '<div class="ex-line ex-line--th">' +
           '<button class="ex-play" type="button" data-src="' + thSrc + '" aria-label="Play Thai sentence">' + SPEAKER_SVG + '</button>' +
@@ -188,12 +197,12 @@
   }
   // A single meaning fills the frame directly; several meanings share one frame
   // with a tab per meaning (only the active meaning's sentences are shown).
-  function buildExamplesHtml(word, base) {
+  function buildExamplesHtml(word) {
     var groups = word.examples || [];
     if (!groups.length) return "";
     if (groups.length === 1) {
       return '<div class="ex-block"><div class="ex-meaning">' +
-        exSentencesHtml(groups[0], word.id, base, 0) + '</div></div>';
+        exSentencesHtml(groups[0], word.id, 0) + '</div></div>';
     }
     var tabs = '<div class="ex-tabs" role="tablist">';
     var panels = '<div class="ex-panels">';
@@ -206,7 +215,7 @@
         '</span></button>';
       panels += '<div class="ex-panel' + (on ? ' is-active' : '') +
         '" data-ex-panel="' + mi + '" role="tabpanel">' +
-        exSentencesHtml(g, word.id, base, mi) + '</div>';
+        exSentencesHtml(g, word.id, mi) + '</div>';
     });
     tabs += '</div>';
     panels += '</div>';
@@ -239,8 +248,8 @@
 
   function openExamplesModal(word) {
     stopAudio();
-    var thSpk = wordSpeakerBtn(word.audio ? wordAudioUrl(audioBase, word.id, false) : "", "Play Thai word");
-    var enSpk = wordSpeakerBtn(word.audio_en ? wordAudioUrl(audioBase, word.id, true) : "", "Play English word");
+    var thSpk = wordSpeakerBtn(word.audio ? wordAudioUrl(word.id, false) : "", "Play Thai word");
+    var enSpk = wordSpeakerBtn(word.audio_en ? wordAudioUrl(word.id, true) : "", "Play English word");
     var backdrop = document.createElement("div");
     backdrop.className = "vocab-modal-backdrop ex-modal-backdrop";
     backdrop.innerHTML =
@@ -250,7 +259,7 @@
           '<div class="ex-modal-line">' + thSpk + '<span class="ex-modal-thai" lang="th">' + esc(word.thai) + '</span></div>' +
           '<div class="ex-modal-line">' + enSpk + '<span class="ex-modal-en">' + esc(word.english) + '</span></div>' +
         '</div>' +
-        buildExamplesHtml(word, audioBase) +
+        buildExamplesHtml(word) +
       '</div>';
     document.body.appendChild(backdrop);
     function close() {
@@ -423,8 +432,8 @@
 
   function speakerBtn(word) {
     if (!word.audio && !word.audio_en) return ""; // only where an mp3 exists
-    var th = word.audio ? escAttr(wordAudioUrl(audioBase, word.id, false)) : "";
-    var en = word.audio_en ? escAttr(wordAudioUrl(audioBase, word.id, true)) : "";
+    var th = word.audio ? escAttr(wordAudioUrl(word.id, false)) : "";
+    var en = word.audio_en ? escAttr(wordAudioUrl(word.id, true)) : "";
     return (
       '<button class="vocab-speak" type="button" aria-label="Play pronunciation"' +
       ' title="Play pronunciation" data-audio-th="' + th + '" data-audio-en="' + en + '">' +
@@ -1108,9 +1117,6 @@
   var dataUrl = thisScript
     ? new URL("vocab.json", thisScript.src).href
     : "vocab.json";
-  var audioBase = thisScript
-    ? new URL("audio/", thisScript.src).href
-    : "audio/";
 
   // ── Comprehension-coverage dashboard ────────────────────────────────────────
   // Reads the flashcards' FSRS state (shared localStorage, written by the

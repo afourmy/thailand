@@ -42,7 +42,6 @@ import audio_paths
 
 HERE = Path(__file__).resolve().parent
 VOCAB = HERE / "vocab.json"
-AUDIO_DIR = HERE / "audio"
 
 # Same neural voices as gen_audio.py, for a consistent sound across the app.
 LANGS = {
@@ -130,7 +129,6 @@ def main():
     n_clips = sum(len(g.get("sentences", [])) for w in targets for g in w["examples"])
     print("%d word(s), %d sentence(s), %d clip(s); languages: %s"
           % (len(targets), n_clips, n_clips * len(selected), ", ".join(selected)))
-    AUDIO_DIR.mkdir(exist_ok=True)
 
     # Provenance key on the sentence object, per language.
     SRC_KEY = {"th": "audio_src", "en": "audio_en_src"}
@@ -143,8 +141,8 @@ def main():
                 for lc in selected:
                     cfg = LANGS[lc]
                     src_key = SRC_KEY[lc]
-                    out = AUDIO_DIR / audio_paths.example_audio_rel(
-                        word["id"], mi, si, en=(lc == "en"))
+                    out = Path(audio_paths.example_audio_path(
+                        word["id"], mi, si, en=(lc == "en")))
                     spoken = speakable(sent.get(cfg["key"], ""))
                     if not spoken:
                         print("skip (empty %s):" % lc, out.name)

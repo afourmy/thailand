@@ -36,7 +36,6 @@ import audio_paths
 
 HERE = Path(__file__).resolve().parent  # .../thai
 VOCAB = HERE / "vocab.json"
-AUDIO_DIR = HERE / "audio"
 
 # Per-language synthesis config.
 LANGS = {
@@ -142,14 +141,13 @@ def main():
         len(targets),
         " (%s)" % filters if filters else "",
         ", ".join(selected)))
-    AUDIO_DIR.mkdir(exist_ok=True)
 
     changed = False
     failures = []
     for word in targets:
         for lc in selected:
             cfg = LANGS[lc]
-            out = AUDIO_DIR / audio_paths.word_audio_rel(word["id"], en=(lc == "en"))
+            out = Path(audio_paths.word_audio_path(word["id"], en=(lc == "en")))
             ok = out.exists()
             if ok and not args.force:
                 print("skip (exists):", out.name)
