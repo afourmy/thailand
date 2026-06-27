@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2723 words**
+**Total: 2733 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1893,9 +1893,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-369` : ข้อตกลง (agreement) : 1 meaning(s), 2 sentences
 - `tobo-370` : คอ (neck) : 1 meaning(s), 2 sentences
 - `tobo-373` : กับดัก (trap) : 1 meaning(s), 2 sentences
+- `tobo-374` : ช่องว่าง (gap, space) : 1 meaning(s), 2 sentences
 - `tobo-375` : ล้อเล่น (to joke, to kid around) : 1 meaning(s), 2 sentences
+- `tobo-377` : ประสิทธิภาพ (efficiency, effectiveness) : 1 meaning(s), 2 sentences
+- `tobo-378` : เคี้ยว (to chew) : 1 meaning(s), 2 sentences
 - `tobo-379` : สัตว์เลี้ยง (pet) : 1 meaning(s), 2 sentences
+- `tobo-380` : การศึกษา (education) : 1 meaning(s), 2 sentences
+- `tobo-381` : ข้อเสนอแนะ (feedback, suggestion) : 1 meaning(s), 2 sentences
+- `tobo-384` : คำเชิญ (invitation) : 1 meaning(s), 2 sentences
+- `tobo-386` : ปัญญา (wisdom, intellect) : 1 meaning(s), 2 sentences
+- `tobo-387` : ยักษ์ (giant) : 1 meaning(s), 2 sentences
+- `tobo-388` : ทางเลือก (option, choice) : 1 meaning(s), 2 sentences
 - `tobo-390` : หายใจ (to breathe) : 1 meaning(s), 2 sentences
+- `tobo-392` : การฆ่าตัวตาย (suicide) : 1 meaning(s), 2 sentences
 - `tobo-412` : โสด (single (unmarried)) : 1 meaning(s), 2 sentences
 - `tobo-414` : ห้องนั่งเล่น, ห้องรับแขก (living room) : 1 meaning(s), 2 sentences
 - `tobo-442` : มหาวิทยาลัย (university; campus) : 2 meaning(s), 4 sentences
