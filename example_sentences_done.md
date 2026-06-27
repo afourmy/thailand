@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2503 words**
+**Total: 2513 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1584,8 +1584,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1153` : เกลียด (to hate) : 1 meaning(s), 2 sentences
 - `thaipod-1159` : เกี่ยวพัน (related, intertwined, connected) : 1 meaning(s), 2 sentences
 - `thaipod-1160` : เก่ง (talented, good at) : 1 meaning(s), 2 sentences
+- `thaipod-1162` : เขต (zone, area, district) : 1 meaning(s), 2 sentences
+- `thaipod-1165` : เข้ากับ (to fit with, to suit) : 1 meaning(s), 2 sentences
+- `thaipod-1167` : ร่วม, เข้าร่วม (to join, to participate) : 1 meaning(s), 2 sentences
 - `thaipod-1169` : เครื่อง (machine, device) : 1 meaning(s), 2 sentences
+- `thaipod-1174` : เครื่องแต่งกาย (outfit, clothing) : 1 meaning(s), 2 sentences
+- `thaipod-1175` : เคลือบ (to coat, to glaze, to overlay) : 1 meaning(s), 2 sentences
 - `thaipod-1178` : เค้า ((informal) he, she, I) : 1 meaning(s), 2 sentences
+- `thaipod-1182` : เงียบสงบ (calm, peaceful, tranquil) : 1 meaning(s), 2 sentences
+- `thaipod-1185` : เจรจา (to negotiate, to converse formally) : 1 meaning(s), 2 sentences
+- `thaipod-1186` : เจริญก้าวหน้า (to prosper, to progress, to advance) : 1 meaning(s), 2 sentences
+- `thaipod-1195` : เชือก (rope) : 1 meaning(s), 2 sentences
+- `thaipod-1197` : เชื่อม (to connect, to join, to weld) : 1 meaning(s), 2 sentences
 - `thaipod-1209` : เถอะ (let's, suggestive particle) : 1 meaning(s), 2 sentences
 - `thaipod-1218` : เท่านั้น (only, just) : 1 meaning(s), 2 sentences
 - `thaipod-1223` : เบา (light; gently, softly) : 2 meaning(s), 4 sentences
