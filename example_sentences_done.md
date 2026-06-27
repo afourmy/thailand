@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2203 words**
+**Total: 2213 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1221,8 +1221,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-625` : บิ่น (chipped, nicked (small piece broken off from an edge)) : 1 meaning(s), 2 sentences
 - `tsl-635` : เกื้อกูล (to support, to help out, to be mutually beneficial) : 1 meaning(s), 2 sentences
 - `tsl-636` : ชมเชย (to praise, to compliment) : 1 meaning(s), 2 sentences
+- `tsl-639` : คูคลอง (canals, waterways) : 1 meaning(s), 2 sentences
+- `tsl-644` : ค้นคว้า (to research, to study, to investigate) : 1 meaning(s), 2 sentences
+- `tsl-645` : สร้างเสริม (to build up, to strengthen, to enhance) : 1 meaning(s), 2 sentences
+- `thaipod-0009` : กระจัดกระจาย (scattered, spread out) : 1 meaning(s), 2 sentences
+- `thaipod-0013` : กระตุ้น (to stimulate, to urge) : 1 meaning(s), 2 sentences
+- `thaipod-0016` : กระเช้าของขวัญ (gift basket) : 1 meaning(s), 2 sentences
+- `thaipod-0018` : กระเบื้อง (tile) : 1 meaning(s), 2 sentences
 - `thaipod-0021` : กระโปรง (skirt) : 1 meaning(s), 2 sentences
+- `thaipod-0022` : กรุง (capital city) : 1 meaning(s), 2 sentences
+- `thaipod-0024` : กลับหัว (upside down) : 1 meaning(s), 2 sentences
 - `thaipod-0030` : กล้า (brave; to dare) : 2 meaning(s), 4 sentences
+- `thaipod-0031` : กว้างใหญ่ (vast, expansive) : 1 meaning(s), 2 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences
 - `thaipod-0116` : ขนม (dessert, sweet, snack) : 1 meaning(s), 2 sentences
 - `thaipod-0143` : ข่าวดี (good news) : 1 meaning(s), 2 sentences
