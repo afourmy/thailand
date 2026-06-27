@@ -50087,7 +50087,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "(work) overtime",
+        "sentences": [
+          {
+            "thai": "เดือนนี้เขาทำโอทีเยอะเพื่อหาเงินเพิ่ม",
+            "en": "This month he worked a lot of overtime to earn extra money.",
+            "audio_src": "เดือนนี้เขาทำโอทีเยอะเพื่อหาเงินเพิ่ม",
+            "audio_en_src": "This month he worked a lot of overtime to earn extra money."
+          },
+          {
+            "thai": "วันนี้ต้องอยู่ทำโอทีถึงสามทุ่ม",
+            "en": "Today I have to stay and work overtime until nine.",
+            "audio_src": "วันนี้ต้องอยู่ทำโอทีถึงสามทุ่ม",
+            "audio_en_src": "Today I have to stay and work overtime until nine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-031",
@@ -50126,18 +50145,6 @@
     ]
   },
   {
-    "id": "tsl-032",
-    "thai": "มิจฉา - มิจฉาชีพ",
-    "english": "wrong, dishonest, evil - criminal, fraudster",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "TSL Chiang Mai"
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "tsl-033",
     "thai": "ถูกปาก",
     "english": "delicious, tastes good",
@@ -50168,7 +50175,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "row house, shophouse (narrow units with a shop in front)",
+        "sentences": [
+          {
+            "thai": "เขาเปิดร้านกาแฟในห้องแถวเก่า",
+            "en": "He opened a coffee shop in an old shophouse.",
+            "audio_src": "เขาเปิดร้านกาแฟในห้องแถวเก่า",
+            "audio_en_src": "He opened a coffee shop in an old shophouse."
+          },
+          {
+            "thai": "ครอบครัวเราอยู่ห้องแถวสองชั้น",
+            "en": "Our family lives in a two-story row house.",
+            "audio_src": "ครอบครัวเราอยู่ห้องแถวสองชั้น",
+            "audio_en_src": "Our family lives in a two-story row house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-036",
@@ -50204,7 +50230,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "field, plantation",
+        "sentences": [
+          {
+            "thai": "ครอบครัวเขาทำไร่ข้าวโพดที่ต่างจังหวัด",
+            "en": "His family farms a corn field in the provinces.",
+            "audio_src": "ครอบครัวเขาทำไร่ข้าวโพดที่ต่างจังหวัด",
+            "audio_en_src": "His family farms a corn field in the provinces."
+          },
+          {
+            "thai": "ฤดูนี้ไร่สตรอว์เบอร์รีเปิดให้นักท่องเที่ยวเข้าชม",
+            "en": "This season the strawberry farm is open for tourists to visit.",
+            "audio_src": "ฤดูนี้ไร่สตรอว์เบอร์รีเปิดให้นักท่องเที่ยวเข้าชม",
+            "audio_en_src": "This season the strawberry farm is open for tourists to visit."
+          }
+        ]
+      },
+      {
+        "meaning": "unit of area (1600 m²)",
+        "sentences": [
+          {
+            "thai": "เขามีที่ดินห้าไร่ไว้ปลูกผัก",
+            "en": "He has five rai of land for growing vegetables.",
+            "audio_src": "เขามีที่ดินห้าไร่ไว้ปลูกผัก",
+            "audio_en_src": "He has five rai of land for growing vegetables."
+          },
+          {
+            "thai": "สวนนี้กว้างเกือบสิบไร่",
+            "en": "This garden is nearly ten rai wide.",
+            "audio_src": "สวนนี้กว้างเกือบสิบไร่",
+            "audio_en_src": "This garden is nearly ten rai wide."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-039",
@@ -50228,7 +50290,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to bargain, to negotiate",
+        "sentences": [
+          {
+            "thai": "เธอต่อรองราคากับแม่ค้าจนได้ของถูกลง",
+            "en": "She bargained with the vendor and got the item cheaper.",
+            "audio_src": "เธอต่อรองราคากับแม่ค้าจนได้ของถูกลง",
+            "audio_en_src": "She bargained with the vendor and got the item cheaper."
+          },
+          {
+            "thai": "ทั้งสองฝ่ายต่อรองเงื่อนไขสัญญากันอยู่นาน",
+            "en": "Both sides negotiated the contract terms for a long time.",
+            "audio_src": "ทั้งสองฝ่ายต่อรองเงื่อนไขสัญญากันอยู่นาน",
+            "audio_en_src": "Both sides negotiated the contract terms for a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-041",
@@ -50250,7 +50331,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to split among people (share a bill), to divide equally",
+        "sentences": [
+          {
+            "thai": "ค่าอาหารมื้อนี้เราหารกันคนละครึ่ง",
+            "en": "Let's split this meal's bill in half.",
+            "audio_src": "ค่าอาหารมื้อนี้เราหารกันคนละครึ่ง",
+            "audio_en_src": "Let's split this meal's bill in half."
+          },
+          {
+            "thai": "ค่าเช่าบ้านหารกันสามคนก็ไม่แพง",
+            "en": "Splitting the rent three ways isn't expensive.",
+            "audio_src": "ค่าเช่าบ้านหารกันสามคนก็ไม่แพง",
+            "audio_en_src": "Splitting the rent three ways isn't expensive."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-043",
@@ -50378,7 +50478,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to grow distant, to drift apart",
+        "sentences": [
+          {
+            "thai": "พอย้ายไปอยู่ไกล เราก็ห่างเหินกันไป",
+            "en": "Once we moved far away, we grew distant from each other.",
+            "audio_src": "พอย้ายไปอยู่ไกล เราก็ห่างเหินกันไป",
+            "audio_en_src": "Once we moved far away, we grew distant from each other."
+          },
+          {
+            "thai": "เขากับครอบครัวห่างเหินกันมาหลายปี",
+            "en": "He and his family have drifted apart for years.",
+            "audio_src": "เขากับครอบครัวห่างเหินกันมาหลายปี",
+            "audio_en_src": "He and his family have drifted apart for years."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-051",
@@ -50444,7 +50563,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "young generation",
+        "sentences": [
+          {
+            "thai": "เด็กรุ่นใหม่เก่งเทคโนโลยีตั้งแต่เล็ก",
+            "en": "The young generation is good with technology from a young age.",
+            "audio_src": "เด็กรุ่นใหม่เก่งเทคโนโลยีตั้งแต่เล็ก",
+            "audio_en_src": "The young generation is good with technology from a young age."
+          },
+          {
+            "thai": "ความคิดของเด็กรุ่นใหม่ต่างจากคนรุ่นก่อน",
+            "en": "The young generation's ideas differ from the older generation's.",
+            "audio_src": "ความคิดของเด็กรุ่นใหม่ต่างจากคนรุ่นก่อน",
+            "audio_en_src": "The young generation's ideas differ from the older generation's."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-055",
@@ -50456,7 +50594,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "distracted, restless (mind), scattered state of mind",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้จิตใจฟุ้งซ่านจนทำงานไม่ได้",
+            "en": "Lately my mind is so restless I can't work.",
+            "audio_src": "ช่วงนี้จิตใจฟุ้งซ่านจนทำงานไม่ได้",
+            "audio_en_src": "Lately my mind is so restless I can't work."
+          },
+          {
+            "thai": "เขานั่งสมาธิเพื่อลดความฟุ้งซ่าน",
+            "en": "He meditates to reduce his restless thoughts.",
+            "audio_src": "เขานั่งสมาธิเพื่อลดความฟุ้งซ่าน",
+            "audio_en_src": "He meditates to reduce his restless thoughts."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-056",
@@ -50521,7 +50678,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take unfair advantage of, to exploit",
+        "sentences": [
+          {
+            "thai": "อย่าเอาเปรียบคนที่ไว้ใจเรา",
+            "en": "Don't take advantage of people who trust us.",
+            "audio_src": "อย่าเอาเปรียบคนที่ไว้ใจเรา",
+            "audio_en_src": "Don't take advantage of people who trust us."
+          },
+          {
+            "thai": "นายจ้างบางคนเอาเปรียบลูกจ้างเรื่องค่าแรง",
+            "en": "Some employers exploit their workers on wages.",
+            "audio_src": "นายจ้างบางคนเอาเปรียบลูกจ้างเรื่องค่าแรง",
+            "audio_en_src": "Some employers exploit their workers on wages."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-062",

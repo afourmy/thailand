@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1994 words**
+**Total: 2003 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -998,10 +998,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-025` : เท (to pour; (slang) to dump someone, to stand someone up) : 2 meaning(s), 4 sentences
 - `tsl-028` : เสือก ((slang, rude) to meddle, to butt in, stick your nose in) : 1 meaning(s), 2 sentences
 - `tsl-029` : จัดกระเป๋า (to pack a bag) : 1 meaning(s), 2 sentences
+- `tsl-030` : โอที ((work) overtime) : 1 meaning(s), 2 sentences
 - `tsl-031` : ไว้ (in advance, to keep for later) : 1 meaning(s), 2 sentences
+- `tsl-035` : ห้องแถว (row house, shophouse (narrow units with a shop in front)) : 1 meaning(s), 2 sentences
+- `tsl-038` : ไร่ (field, plantation; unit of area (1600 m²)) : 2 meaning(s), 4 sentences
+- `tsl-040` : ต่อรอง (to bargain, to negotiate) : 1 meaning(s), 2 sentences
+- `tsl-042` : หารกัน (to split among people (share a bill), to divide equally) : 1 meaning(s), 2 sentences
 - `tsl-044` : แรกๆ (at first, initially) : 1 meaning(s), 2 sentences
 - `tsl-046` : ยังไงก็... (anyway..., in any case...) : 1 meaning(s), 2 sentences
+- `tsl-050` : ห่างเหิน (to grow distant, to drift apart) : 1 meaning(s), 2 sentences
 - `tsl-053` : โซเชียลมีเดีย (social media) : 1 meaning(s), 2 sentences
+- `tsl-054` : เด็กรุ่นใหม่ (young generation) : 1 meaning(s), 2 sentences
+- `tsl-055` : ฟุ้งซ่าน (distracted, restless (mind), scattered state of mind) : 1 meaning(s), 2 sentences
+- `tsl-061` : เอาเปรียบ (to take unfair advantage of, to exploit) : 1 meaning(s), 2 sentences
 - `tsl-075` : บ้านนอก (countryside, rural area (spoken)) : 1 meaning(s), 2 sentences
 - `tsl-117` : ซ่อน (to hide, to conceal (e.g something or someone)) : 1 meaning(s), 2 sentences
 - `tsl-125` : สบายใจ (relaxed, at ease emotionally) : 1 meaning(s), 2 sentences
