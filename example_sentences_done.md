@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2093 words**
+**Total: 2103 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1106,7 +1106,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-323` : ซอง (envelope) : 1 meaning(s), 2 sentences
 - `tsl-326` : แน่นหนา (secure, firm, strong, sturdy) : 1 meaning(s), 2 sentences
 - `tsl-327` : เคลื่อน, เคลื่อนที่ (to move, to displace, to be in motion) : 1 meaning(s), 2 sentences
+- `tsl-328` : คำนึงถึง (to take into consideration, to bear in mind) : 1 meaning(s), 2 sentences
+- `tsl-330` : ประนีประนอม (to compromise, to reconcile) : 1 meaning(s), 2 sentences
+- `tsl-338` : ยกย่อง (to praise, to honor, to glorify) : 1 meaning(s), 2 sentences
+- `tsl-341` : ต่อต้าน (to oppose, to resist, to fight against) : 1 meaning(s), 2 sentences
+- `tsl-344` : ข้อห้าม (ban, prohibition, taboo) : 1 meaning(s), 2 sentences
+- `tsl-353` : จิก (to peck (bird)) : 1 meaning(s), 2 sentences
+- `tsl-357` : ความฟุ้งเฟ้อ (extravagance, wasteful luxury, excessive spending) : 1 meaning(s), 2 sentences
+- `tsl-359` : สาระสำคัญ (main point, gist, crux (of a story)) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
+- `tsl-365` : คิดค้น (to invent, to devise, to come up with something new) : 1 meaning(s), 2 sentences
+- `tsl-367` : ยาสูบ (tobacco) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
