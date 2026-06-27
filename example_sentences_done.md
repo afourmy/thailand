@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2143 words**
+**Total: 2153 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1157,6 +1157,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-478` : แออัด (crowded, packed, congested) : 1 meaning(s), 2 sentences
 - `tsl-481` : บอกลา (to say goodbye, to bid farewell) : 1 meaning(s), 2 sentences
 - `tsl-482` : ล้าสมัย (outdated, obsolete) : 1 meaning(s), 2 sentences
+- `tsl-483` : ทิ้งขว้าง (to abandon, to discard, to throw away carelessly) : 1 meaning(s), 2 sentences
+- `tsl-485` : ภัยร้าย (danger, peril, serious threat) : 1 meaning(s), 2 sentences
+- `tsl-487` : สุงสิง (to hang out with, to mingle with, to be close to) : 1 meaning(s), 2 sentences
+- `tsl-488` : ขุดคุ้ย (to dig up; (figuratively) to dig into (data, past)) : 2 meaning(s), 4 sentences
+- `tsl-489` : ขู่, ข่มขู่ (to intimidate, to threaten) : 1 meaning(s), 2 sentences
+- `tsl-491` : ภาพโป๊ (nude, pornographic images) : 1 meaning(s), 2 sentences
+- `tsl-492` : ตัดต่อ (to edit (image, photo, video)) : 1 meaning(s), 2 sentences
+- `tsl-493` : ลามก (pornographic, obscene, indecent) : 1 meaning(s), 2 sentences
+- `tsl-494` : ปลอมตัว (to disguise oneself, to impersonate, to pose as) : 1 meaning(s), 2 sentences
+- `tsl-496` : ผิดใจ (to have a falling out, to be on bad terms with someone) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
