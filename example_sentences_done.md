@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2483 words**
+**Total: 2493 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1551,11 +1551,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1045` : ส่งผล (to affect, to have an effect, to impact) : 1 meaning(s), 2 sentences
 - `thaipod-1046` : ส่วนงาน (sector, department, division) : 1 meaning(s), 2 sentences
 - `thaipod-1050` : หนวด (mustache, whiskers) : 1 meaning(s), 2 sentences
+- `thaipod-1052` : หนุ่ม (young man) : 1 meaning(s), 2 sentences
 - `thaipod-1053` : หนู (rat, mouse; I (used by younger people)) : 2 meaning(s), 4 sentences
+- `thaipod-1055` : หน้าบึ้ง (to frown, to look grumpy, sulky face) : 1 meaning(s), 2 sentences
+- `thaipod-1057` : หมู่เกาะ (archipelago, group of islands) : 1 meaning(s), 2 sentences
+- `thaipod-1063` : หยอก, หยอกล้อ (to tease, make fun of, joke around) : 1 meaning(s), 2 sentences
 - `thaipod-1065` : หยิบ (to pick up, to grab) : 1 meaning(s), 2 sentences
 - `thaipod-1067` : หรอก (really, (not) at all (sentence particle)) : 1 meaning(s), 2 sentences
+- `thaipod-1068` : หลอดไฟ (light bulb) : 1 meaning(s), 2 sentences
+- `thaipod-1069` : หลอม (to melt, to fuse) : 1 meaning(s), 2 sentences
+- `thaipod-1070` : หลัก (principle, main; pillar) : 2 meaning(s), 4 sentences
 - `thaipod-1076` : หล่อ (handsome) : 1 meaning(s), 2 sentences
+- `thaipod-1078` : หวย (lottery) : 1 meaning(s), 2 sentences
+- `thaipod-1082` : หัน (to turn (one's body or face)) : 1 meaning(s), 2 sentences
 - `thaipod-1085` : หัวเราะ (to laugh) : 1 meaning(s), 2 sentences
+- `thaipod-1087` : หาเลี้ยงชีพ (to make a living, to earn a livelihood) : 1 meaning(s), 2 sentences
 - `thaipod-1096` : อดทน (to endure, to be patient) : 1 meaning(s), 2 sentences
 - `thaipod-1098` : อบอุ่น (warm) : 1 meaning(s), 2 sentences
 - `thaipod-1104` : อย่างนี้ (like this, this way) : 1 meaning(s), 2 sentences
