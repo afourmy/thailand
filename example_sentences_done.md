@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2113 words**
+**Total: 2123 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1127,6 +1127,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-384` : สั่งการ (to command, to give orders) : 1 meaning(s), 2 sentences
 - `tsl-391` : กินจุ (to eat a lot, to be a heavy eater) : 1 meaning(s), 2 sentences
 - `tsl-395` : ขรุขระ (rough, rugged, bumpy (surface)) : 1 meaning(s), 2 sentences
+- `tsl-397` : ประกาย (spark, glimmer, gleam, to sparkle) : 1 meaning(s), 2 sentences
+- `tsl-398` : อนุรักษ์ (to preserve, to conserve) : 1 meaning(s), 2 sentences
+- `tsl-399` : ใช้สอย (to utilize, to consume for practical purposes) : 1 meaning(s), 2 sentences
+- `tsl-403` : อภิปราย (to debate, to discuss) : 1 meaning(s), 2 sentences
+- `tsl-404` : แสวง, แสวงหา (to seek, to pursue (formal)) : 1 meaning(s), 2 sentences
+- `tsl-414` : ท่าที (attitude, stance, gesture) : 1 meaning(s), 2 sentences
+- `tsl-416` : กิริยา (behavior, manner, conduct) : 1 meaning(s), 2 sentences
+- `tsl-422` : เฉพาะหน้า (immediate, on-the-spot, in the moment) : 1 meaning(s), 2 sentences
+- `tsl-425` : ไพเราะ (melodious, beautiful-sounding) : 1 meaning(s), 2 sentences
+- `tsl-427` : วาจาสุภาพ (polite speech) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
