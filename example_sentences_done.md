@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2153 words**
+**Total: 2163 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1168,6 +1168,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-494` : ปลอมตัว (to disguise oneself, to impersonate, to pose as) : 1 meaning(s), 2 sentences
 - `tsl-496` : ผิดใจ (to have a falling out, to be on bad terms with someone) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
+- `tsl-498` : นักเลง (gangster, ruffian, thug) : 1 meaning(s), 2 sentences
+- `tsl-499` : ผลที่ตามมา (consequence, aftermath, result) : 1 meaning(s), 2 sentences
+- `tsl-502` : ตอบโต้ (to respond, to retaliate, to fight back) : 1 meaning(s), 2 sentences
+- `tsl-504` : เพาะ (to cultivate, to breed, to implant) : 1 meaning(s), 2 sentences
+- `tsl-512` : ผิวพรรณ (skin complexion) : 1 meaning(s), 2 sentences
+- `tsl-513` : สูญเสีย (to suffer a loss, to lose (something important)) : 1 meaning(s), 2 sentences
+- `tsl-513b` : สูญสิ้น (to be irrecoverably lost, to be completely gone) : 1 meaning(s), 2 sentences
+- `tsl-514` : ขัดขืน (to resist, to rebel, to defy) : 1 meaning(s), 2 sentences
+- `tsl-520` : เยาวชน (youth, young people) : 1 meaning(s), 2 sentences
+- `tsl-525` : กาก (residue, leftover, dregs; (slang) loser, worthless) : 2 meaning(s), 4 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
 - `tsl-563` : ฉัน (I; to eat (monks' usage); like, as) : 3 meaning(s), 6 sentences
