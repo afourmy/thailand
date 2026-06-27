@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2283 words**
+**Total: 2293 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1309,8 +1309,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0276` : ชัยชนะ (victory) : 1 meaning(s), 2 sentences
 - `thaipod-0279` : ชาว (people (native from), inhabitants of) : 1 meaning(s), 2 sentences
 - `thaipod-0280` : ชาวนา (rice farmer) : 1 meaning(s), 2 sentences
+- `thaipod-0281` : ชาวบ้าน (villagers, locals, ordinary people) : 1 meaning(s), 2 sentences
+- `thaipod-0283` : ชิน (accustomed, used to) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
+- `thaipod-0286` : ชี้ (to point, to indicate) : 1 meaning(s), 2 sentences
 - `thaipod-0305` : ญาติ (relative (family)) : 1 meaning(s), 2 sentences
+- `thaipod-0307` : ฐาน (base, pedestal) : 1 meaning(s), 2 sentences
+- `thaipod-0317` : ดัด (to bend, to straighten (e.g hair, posture)) : 1 meaning(s), 2 sentences
+- `thaipod-0319` : ดารานำชาย (male lead actor) : 1 meaning(s), 2 sentences
+- `thaipod-0320` : ดารานำแสดง (lead actor) : 1 meaning(s), 2 sentences
+- `thaipod-0321` : ดำน้ำตื้น (snorkeling) : 1 meaning(s), 2 sentences
+- `thaipod-0322` : ดำน้ำลึก (scuba diving) : 1 meaning(s), 2 sentences
+- `thaipod-0323` : ดำเนิน (to proceed, to go on, to carry on) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
 - `thaipod-0339` : ด้าน (side, field, area, aspect) : 1 meaning(s), 3 sentences
 - `thaipod-0367` : ตาม (to follow; along) : 2 meaning(s), 4 sentences
