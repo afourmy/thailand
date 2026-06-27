@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2613 words**
+**Total: 2623 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1749,13 +1749,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-131` : เข็มขัด (belt) : 1 meaning(s), 2 sentences
 - `tobo-132` : ศัตรู (enemy) : 1 meaning(s), 2 sentences
 - `tobo-133` : ห้องสมุด (library) : 1 meaning(s), 2 sentences
+- `tobo-134` : ความสงบ, ความสงบสุข (peace, calmness) : 1 meaning(s), 2 sentences
+- `tobo-135` : ภาพวาด (painting, drawing) : 1 meaning(s), 2 sentences
+- `tobo-136` : ม่าน (curtain) : 1 meaning(s), 2 sentences
+- `tobo-137` : ผู้จัดการ (manager) : 1 meaning(s), 2 sentences
 - `tobo-139` : ผลัก (to push (e.g a door)) : 1 meaning(s), 2 sentences
 - `tobo-140` : วัด (to measure; temple) : 2 meaning(s), 4 sentences
 - `tobo-141` : ลึก (deep) : 1 meaning(s), 2 sentences
 - `tobo-142` : สนามบิน (airport) : 1 meaning(s), 2 sentences
 - `tobo-143` : เสื้อยืด (T-shirt) : 1 meaning(s), 2 sentences
+- `tobo-145` : พรม (carpet, rug) : 1 meaning(s), 2 sentences
+- `tobo-147` : เครา (beard) : 1 meaning(s), 2 sentences
+- `tobo-150` : จุดประสงค์ (purpose, aim) : 1 meaning(s), 2 sentences
+- `tobo-151` : จัตุรัส (square) : 1 meaning(s), 2 sentences
 - `tobo-153` : ขนมปัง (bread) : 1 meaning(s), 2 sentences
 - `tobo-154` : กีฬา (sport) : 1 meaning(s), 2 sentences
+- `tobo-155` : นาฬิกาปลุก (alarm clock) : 1 meaning(s), 2 sentences
+- `tobo-156` : แผนก (department, section) : 1 meaning(s), 2 sentences
 - `tobo-159` : น้ำตาล (sugar) : 1 meaning(s), 2 sentences
 - `tobo-169` : เกลือ (salt) : 1 meaning(s), 2 sentences
 - `tobo-170` : จักรยาน (bicycle) : 1 meaning(s), 2 sentences
