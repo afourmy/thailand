@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2163 words**
+**Total: 2173 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1178,7 +1178,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-514` : ขัดขืน (to resist, to rebel, to defy) : 1 meaning(s), 2 sentences
 - `tsl-520` : เยาวชน (youth, young people) : 1 meaning(s), 2 sentences
 - `tsl-525` : กาก (residue, leftover, dregs; (slang) loser, worthless) : 2 meaning(s), 4 sentences
+- `tsl-526` : สม่ำเสมอ (regular, consistent, steady) : 1 meaning(s), 2 sentences
+- `tsl-530` : แผ่ (to spread, to extend, to diffuse) : 1 meaning(s), 2 sentences
+- `tsl-531` : ลาด (slope, inclined; to pave, to cover a surface) : 2 meaning(s), 4 sentences
+- `tsl-534` : กุเรื่อง (to make up a story, to fabricate) : 1 meaning(s), 2 sentences
+- `tsl-535` : จอมปลอม (completely fake, total fraud) : 1 meaning(s), 2 sentences
+- `tsl-536` : คล้อยตาม (to go along with, to follow, to be persuaded) : 1 meaning(s), 2 sentences
+- `tsl-543` : ขจัด (to eliminate, to get rid of, to eradicate) : 1 meaning(s), 2 sentences
+- `tsl-544` : คราบ (stain, mark) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
+- `tsl-551` : ย่น (wrinkled, shrunken, shortened) : 1 meaning(s), 2 sentences
+- `tsl-553` : ขวาง (to obstruct, to block; across, lateral) : 2 meaning(s), 4 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
 - `tsl-563` : ฉัน (I; to eat (monks' usage); like, as) : 3 meaning(s), 6 sentences
 - `thaipod-0021` : กระโปรง (skirt) : 1 meaning(s), 2 sentences
