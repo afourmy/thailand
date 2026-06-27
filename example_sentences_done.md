@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2802 words**
+**Total: 2812 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1983,6 +1983,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-019` : สัญชาติ (nationality) : 1 meaning(s), 2 sentences
 - `yt-c01-023` : สังสรรค์ (to get together, to socialize) : 1 meaning(s), 2 sentences
 - `yt-c01-026` : เสียบ (to plug in, to insert) : 1 meaning(s), 2 sentences
+- `yt-c01-027` : ปลั๊ก ((electrical) plug) : 1 meaning(s), 2 sentences
+- `yt-c01-031` : ลำโพง (speaker (music)) : 1 meaning(s), 2 sentences
+- `yt-c01-059` : ดำรง (to hold (e.g a position), to maintain, to preserve) : 1 meaning(s), 2 sentences
+- `yt-c01-061` : ตำแหน่ง (position, job title) : 1 meaning(s), 2 sentences
+- `yt-c01-063` : การกุศล (charity) : 1 meaning(s), 2 sentences
+- `yt-c01-067` : ใช้ประโยชน์ (to take advantage of, to make use of) : 1 meaning(s), 2 sentences
+- `yt-c01-068` : ข้อมูลพื้นฐาน (basic information, fundamental data) : 1 meaning(s), 2 sentences
+- `yt-c01-079` : เกาะติด (to cling to, to stick to) : 1 meaning(s), 2 sentences
+- `yt-c01-080` : สงบลง (to calm down, to settle down (about a situation)) : 1 meaning(s), 2 sentences
+- `yt-c01-083` : ฝึกฝน (to practice, to train) : 1 meaning(s), 2 sentences
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
