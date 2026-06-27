@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2523 words**
+**Total: 2533 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1609,11 +1609,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1224` : เบื้องล่าง (below, underneath) : 1 meaning(s), 2 sentences
 - `thaipod-1227` : เปิดทาง (to make way, to clear the path) : 1 meaning(s), 2 sentences
 - `thaipod-1228` : เปิดรับสมัคร (open for applications, taking applications) : 1 meaning(s), 2 sentences
+- `thaipod-1229` : เป็นการลับ (in secret, confidentially) : 1 meaning(s), 2 sentences
+- `thaipod-1230` : เป็นชั้นๆ (layered, in layers) : 1 meaning(s), 2 sentences
+- `thaipod-1237` : เผา (to burn, to cremate) : 1 meaning(s), 2 sentences
+- `thaipod-1240` : เพลิดเพลิน (to enjoy, to be delighted) : 1 meaning(s), 2 sentences
+- `thaipod-1242` : เพี้ยน (distorted, strange, off; derived from) : 2 meaning(s), 4 sentences
 - `thaipod-1243` : เพื่อ (for, in order to) : 1 meaning(s), 2 sentences
 - `thaipod-1247` : เมื่อก่อน (previously, in the past) : 1 meaning(s), 2 sentences
 - `thaipod-1249` : เริ่ม, เริ่มต้น (to begin, to start) : 1 meaning(s), 2 sentences
+- `thaipod-1250` : เรียกร้อง (to demand, to call for) : 1 meaning(s), 2 sentences
+- `thaipod-1251` : เรียง (arranged, lined up, in order) : 1 meaning(s), 2 sentences
+- `thaipod-1252` : เรียงต่อกัน (lined up, arranged in a line) : 1 meaning(s), 2 sentences
 - `thaipod-1262` : เลี้ยง (to feed, to treat, to raise) : 1 meaning(s), 3 sentences
+- `thaipod-1263` : เล่นงาน (to attack, to take action against, to target) : 1 meaning(s), 2 sentences
 - `thaipod-1264` : เล่า (to tell (a story)) : 1 meaning(s), 2 sentences
+- `thaipod-1284` : เสียชีวิต (to die, to pass away) : 1 meaning(s), 2 sentences
 - `thaipod-1288` : เหนือ (above, over; north) : 2 meaning(s), 4 sentences
 - `thaipod-1297` : เอาละ (alright, well then) : 1 meaning(s), 2 sentences
 - `thaipod-1301` : แก (you (informal)) : 1 meaning(s), 2 sentences
