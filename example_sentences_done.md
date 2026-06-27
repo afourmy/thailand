@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2493 words**
+**Total: 2503 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1566,13 +1566,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1082` : หัน (to turn (one's body or face)) : 1 meaning(s), 2 sentences
 - `thaipod-1085` : หัวเราะ (to laugh) : 1 meaning(s), 2 sentences
 - `thaipod-1087` : หาเลี้ยงชีพ (to make a living, to earn a livelihood) : 1 meaning(s), 2 sentences
+- `thaipod-1095` : องค์กร, องค์การ (organization) : 1 meaning(s), 2 sentences
 - `thaipod-1096` : อดทน (to endure, to be patient) : 1 meaning(s), 2 sentences
 - `thaipod-1098` : อบอุ่น (warm) : 1 meaning(s), 2 sentences
 - `thaipod-1104` : อย่างนี้ (like this, this way) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
+- `thaipod-1120` : ออกฉาย (released (e.g a film), screened) : 1 meaning(s), 2 sentences
+- `thaipod-1124` : อักษร (letter, character (alphabet)) : 1 meaning(s), 2 sentences
 - `thaipod-1127` : อันไหน (which one) : 1 meaning(s), 2 sentences
+- `thaipod-1128` : อาคาร (building) : 1 meaning(s), 2 sentences
 - `thaipod-1134` : อาย (shy, embarrassed) : 1 meaning(s), 2 sentences
+- `thaipod-1135` : อาสา (to volunteer) : 1 meaning(s), 2 sentences
+- `thaipod-1142` : อุทยาน (park (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-1146` : อ่าง (basin, reservoir, sink, tub) : 1 meaning(s), 2 sentences
+- `thaipod-1150` : อ้า (to open wide (e.g mouth, door)) : 1 meaning(s), 2 sentences
+- `thaipod-1152` : อ้างอิง, อ้างถึง (to reference, to cite) : 1 meaning(s), 2 sentences
 - `thaipod-1153` : เกลียด (to hate) : 1 meaning(s), 2 sentences
+- `thaipod-1159` : เกี่ยวพัน (related, intertwined, connected) : 1 meaning(s), 2 sentences
 - `thaipod-1160` : เก่ง (talented, good at) : 1 meaning(s), 2 sentences
 - `thaipod-1169` : เครื่อง (machine, device) : 1 meaning(s), 2 sentences
 - `thaipod-1178` : เค้า ((informal) he, she, I) : 1 meaning(s), 2 sentences
