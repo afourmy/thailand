@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2173 words**
+**Total: 2183 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1190,7 +1190,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-551` : ย่น (wrinkled, shrunken, shortened) : 1 meaning(s), 2 sentences
 - `tsl-553` : ขวาง (to obstruct, to block; across, lateral) : 2 meaning(s), 4 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
+- `tsl-558` : ด้าย, เส้นด้าย (thread, string) : 1 meaning(s), 2 sentences
 - `tsl-563` : ฉัน (I; to eat (monks' usage); like, as) : 3 meaning(s), 6 sentences
+- `tsl-564` : สังเกตการณ์ (to observe, to monitor) : 1 meaning(s), 2 sentences
+- `tsl-567` : เห็นต่าง (to disagree, to see things differently) : 1 meaning(s), 2 sentences
+- `tsl-571` : คอขวด (bottleneck) : 1 meaning(s), 2 sentences
+- `tsl-576` : หายนะ (disaster, ruin, catastrophe) : 1 meaning(s), 2 sentences
+- `tsl-577` : พูดเกินจริง (to exaggerate) : 1 meaning(s), 2 sentences
+- `tsl-579` : สังเคราะห์ (synthetic, to synthesize) : 1 meaning(s), 2 sentences
+- `tsl-580` : คาย (to discharge, to emit, to secrete) : 1 meaning(s), 2 sentences
+- `tsl-583` : สกุล (family, lineage; genus (plants/animals)) : 2 meaning(s), 4 sentences
+- `tsl-584` : ความทนทาน, ความคงทน (durability) : 1 meaning(s), 2 sentences
 - `thaipod-0021` : กระโปรง (skirt) : 1 meaning(s), 2 sentences
 - `thaipod-0030` : กล้า (brave; to dare) : 2 meaning(s), 4 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences
