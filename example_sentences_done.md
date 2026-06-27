@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2273 words**
+**Total: 2283 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1299,6 +1299,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0256` : จำลอง (to replicate, to simulate, replica) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
 - `thaipod-0263` : จุดหมาย (destination, goal) : 1 meaning(s), 2 sentences
+- `thaipod-0264` : จุดหมายปลายทาง (destination) : 1 meaning(s), 2 sentences
+- `thaipod-0265` : จ้าง, ว่าจ้าง (to hire) : 1 meaning(s), 2 sentences
+- `thaipod-0268` : ฉบับ (edition, version, copy (classifier for documents)) : 1 meaning(s), 2 sentences
+- `thaipod-0270` : ชนชาติ, เชื้อชาติ, ชาติพันธุ์ (race, ethnicity) : 1 meaning(s), 2 sentences
+- `thaipod-0271` : ชนิด (kind, type) : 1 meaning(s), 2 sentences
+- `thaipod-0272` : ชม (to admire, to compliment; to view (formal)) : 2 meaning(s), 4 sentences
+- `thaipod-0275` : ชัน (steep) : 1 meaning(s), 2 sentences
+- `thaipod-0276` : ชัยชนะ (victory) : 1 meaning(s), 2 sentences
+- `thaipod-0279` : ชาว (people (native from), inhabitants of) : 1 meaning(s), 2 sentences
+- `thaipod-0280` : ชาวนา (rice farmer) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
 - `thaipod-0305` : ญาติ (relative (family)) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
