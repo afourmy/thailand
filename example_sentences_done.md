@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2133 words**
+**Total: 2143 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1147,6 +1147,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-451` : หวีด (to shriek, to scream (high-pitched)) : 1 meaning(s), 2 sentences
 - `tsl-452` : ฝืน (to force, to go against, to resist) : 1 meaning(s), 2 sentences
 - `tsl-453` : หนักอึ้ง (very heavy, crushingly heavy (literal or emotional)) : 1 meaning(s), 2 sentences
+- `tsl-455` : ดิ้นรน (to struggle, to strive against difficulty) : 1 meaning(s), 2 sentences
+- `tsl-459` : หลอกหลอน (to haunt (ghosts, memories)) : 1 meaning(s), 2 sentences
+- `tsl-460` : แข็งทื่อ (stiff, rigid) : 1 meaning(s), 2 sentences
+- `tsl-461` : คล้ายคลึง (analogous, similar) : 1 meaning(s), 2 sentences
+- `tsl-462` : รับรู้ (to recognize, to acknowledge, to perceive, to be aware of) : 1 meaning(s), 2 sentences
+- `tsl-463` : ท่อง (to recite, to memorize; to roam, to travel, to wander) : 2 meaning(s), 4 sentences
+- `tsl-475` : สันติ (peace, tranquility) : 1 meaning(s), 2 sentences
+- `tsl-478` : แออัด (crowded, packed, congested) : 1 meaning(s), 2 sentences
+- `tsl-481` : บอกลา (to say goodbye, to bid farewell) : 1 meaning(s), 2 sentences
+- `tsl-482` : ล้าสมัย (outdated, obsolete) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
