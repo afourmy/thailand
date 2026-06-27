@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2633 words**
+**Total: 2643 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1785,12 +1785,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-187` : ความสำเร็จ (success) : 1 meaning(s), 2 sentences
 - `tobo-189` : มะพร้าว (coconut) : 1 meaning(s), 2 sentences
 - `tobo-191` : ผลลัพธ์ (result, outcome) : 1 meaning(s), 2 sentences
+- `tobo-192` : พนักงาน (employee, staff) : 1 meaning(s), 2 sentences
+- `tobo-194` : โยน (to throw) : 1 meaning(s), 2 sentences
+- `tobo-195` : โรงรถ (garage) : 1 meaning(s), 2 sentences
 - `tobo-196` : แปรงสีฟัน (toothbrush) : 1 meaning(s), 2 sentences
 - `tobo-197` : ถุงเท้า (sock) : 1 meaning(s), 2 sentences
 - `tobo-198` : ดินสอ (pencil) : 1 meaning(s), 2 sentences
 - `tobo-201` : มันฝรั่ง (potato) : 1 meaning(s), 2 sentences
+- `tobo-202` : หน้ากาก (mask) : 1 meaning(s), 2 sentences
+- `tobo-204` : ตู้ปลา (aquarium, fish tank) : 1 meaning(s), 2 sentences
 - `tobo-206` : สีชมพู (pink) : 1 meaning(s), 2 sentences
+- `tobo-208` : เลีย (to lick) : 1 meaning(s), 2 sentences
+- `tobo-211` : สี่เหลี่ยมผืนผ้า (rectangle) : 1 meaning(s), 2 sentences
+- `tobo-213` : ผู้นำ (leader) : 1 meaning(s), 2 sentences
 - `tobo-214` : อารมณ์ (emotion, mood) : 1 meaning(s), 2 sentences
+- `tobo-215` : ยิง (to shoot) : 1 meaning(s), 2 sentences
+- `tobo-216` : มนุษย์ต่างดาว (alien (extraterrestrial)) : 1 meaning(s), 2 sentences
 - `tobo-231` : วัว (cow) : 1 meaning(s), 2 sentences
 - `tobo-244` : เส้น (line, thread, string) : 1 meaning(s), 3 sentences
 - `tobo-246` : จุด (point, dot, spot) : 1 meaning(s), 2 sentences
