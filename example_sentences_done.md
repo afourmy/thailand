@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2603 words**
+**Total: 2613 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1737,8 +1737,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-106` : ลังเล (to hesitate) : 1 meaning(s), 2 sentences
 - `tobo-107` : ระเบียง (balcony, terrace) : 1 meaning(s), 2 sentences
 - `tobo-109` : สนามกีฬา (stadium) : 1 meaning(s), 2 sentences
+- `tobo-111` : การผจญภัย (adventure) : 1 meaning(s), 2 sentences
+- `tobo-112` : ความผิดพลาด (mistake, error) : 1 meaning(s), 2 sentences
+- `tobo-114` : กฎ (rule) : 1 meaning(s), 2 sentences
 - `tobo-119` : โกรธ (angry) : 1 meaning(s), 2 sentences
+- `tobo-122` : ให้อภัย (to forgive) : 1 meaning(s), 2 sentences
+- `tobo-123` : จักรวาล (universe) : 1 meaning(s), 2 sentences
+- `tobo-125` : การตัดสินใจ (decision) : 1 meaning(s), 2 sentences
+- `tobo-128` : วัยเด็ก (childhood) : 1 meaning(s), 2 sentences
+- `tobo-130` : หาง (tail) : 1 meaning(s), 2 sentences
 - `tobo-131` : เข็มขัด (belt) : 1 meaning(s), 2 sentences
+- `tobo-132` : ศัตรู (enemy) : 1 meaning(s), 2 sentences
+- `tobo-133` : ห้องสมุด (library) : 1 meaning(s), 2 sentences
 - `tobo-139` : ผลัก (to push (e.g a door)) : 1 meaning(s), 2 sentences
 - `tobo-140` : วัด (to measure; temple) : 2 meaning(s), 4 sentences
 - `tobo-141` : ลึก (deep) : 1 meaning(s), 2 sentences
