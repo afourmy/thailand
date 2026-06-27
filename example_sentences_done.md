@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2103 words**
+**Total: 2113 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1117,6 +1117,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-365` : คิดค้น (to invent, to devise, to come up with something new) : 1 meaning(s), 2 sentences
 - `tsl-367` : ยาสูบ (tobacco) : 1 meaning(s), 2 sentences
+- `tsl-368` : แผนการ (plan, project, scheme) : 1 meaning(s), 2 sentences
+- `tsl-372` : เสรีภาพในการแสดงออก (freedom of expression) : 1 meaning(s), 2 sentences
+- `tsl-373` : สูด (to inhale, to breathe in) : 1 meaning(s), 2 sentences
+- `tsl-375` : แปลกปลอม (foreign, out-of-place, alien) : 1 meaning(s), 2 sentences
+- `tsl-380` : กาลเทศะ (sense of appropriate time and place, propriety) : 1 meaning(s), 2 sentences
+- `tsl-381` : ผลการเรียน (academic results, grades, transcript) : 1 meaning(s), 2 sentences
+- `tsl-383` : ตอบสนอง (to respond, to react to) : 1 meaning(s), 2 sentences
+- `tsl-384` : สั่งการ (to command, to give orders) : 1 meaning(s), 2 sentences
+- `tsl-391` : กินจุ (to eat a lot, to be a heavy eater) : 1 meaning(s), 2 sentences
+- `tsl-395` : ขรุขระ (rough, rugged, bumpy (surface)) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
