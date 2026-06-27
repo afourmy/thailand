@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2213 words**
+**Total: 2223 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1233,7 +1233,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0024` : กลับหัว (upside down) : 1 meaning(s), 2 sentences
 - `thaipod-0030` : กล้า (brave; to dare) : 2 meaning(s), 4 sentences
 - `thaipod-0031` : กว้างใหญ่ (vast, expansive) : 1 meaning(s), 2 sentences
+- `thaipod-0032` : กว้างไกล (far and wide, far-reaching) : 1 meaning(s), 2 sentences
+- `thaipod-0034` : กอง (pile, heap; division (e.g army)) : 2 meaning(s), 4 sentences
+- `thaipod-0038` : กองไฟ (bonfire, pile of fire) : 1 meaning(s), 2 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences
+- `thaipod-0047` : การขยายตัว (expansion) : 1 meaning(s), 2 sentences
+- `thaipod-0055` : การจัดการ (management, organization, setup) : 1 meaning(s), 2 sentences
+- `thaipod-0061` : การนำเสนอ (presentation) : 1 meaning(s), 2 sentences
+- `thaipod-0066` : การประกวด (competition, contest) : 1 meaning(s), 2 sentences
+- `thaipod-0068` : การผสมผสาน (combination, blending) : 1 meaning(s), 2 sentences
+- `thaipod-0069` : การฝึกอบรม (training) : 1 meaning(s), 2 sentences
+- `thaipod-0074` : การยอมรับ (acceptance, recognition) : 1 meaning(s), 2 sentences
 - `thaipod-0116` : ขนม (dessert, sweet, snack) : 1 meaning(s), 2 sentences
 - `thaipod-0143` : ข่าวดี (good news) : 1 meaning(s), 2 sentences
 - `thaipod-0151` : คง (probably; to remain, to continue) : 2 meaning(s), 4 sentences
