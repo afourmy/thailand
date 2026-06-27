@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2303 words**
+**Total: 2313 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1333,7 +1333,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0345` : ตรงกลาง (in the middle, center) : 1 meaning(s), 2 sentences
 - `thaipod-0346` : ตรงกับ (to match with, to coincide with) : 1 meaning(s), 2 sentences
 - `thaipod-0352` : ตอนบน (upper part) : 1 meaning(s), 2 sentences
+- `thaipod-0353` : ตอนล่าง (lower part) : 1 meaning(s), 2 sentences
+- `thaipod-0356` : ตัดกับ (to contrast with, to clash with) : 1 meaning(s), 2 sentences
+- `thaipod-0359` : ตัวละคร (character, persona (in a story)) : 1 meaning(s), 2 sentences
+- `thaipod-0360` : ตัวแทน (representative, agent, substitute) : 1 meaning(s), 2 sentences
+- `thaipod-0365` : ตั้งอยู่ (located, situated) : 1 meaning(s), 2 sentences
+- `thaipod-0366` : ตากอากาศ (to vacation, to have a holiday (especially by the sea)) : 1 meaning(s), 2 sentences
 - `thaipod-0367` : ตาม (to follow; along) : 2 meaning(s), 4 sentences
+- `thaipod-0368` : ตามตัวอักษร (literally, word-for-word) : 1 meaning(s), 2 sentences
+- `thaipod-0369` : ตามหา (to look for, to search for) : 1 meaning(s), 2 sentences
+- `thaipod-0371` : ตำนาน (legend) : 1 meaning(s), 2 sentences
+- `thaipod-0373` : ติดกัน (adjacent, next to each other) : 1 meaning(s), 2 sentences
 - `thaipod-0378` : ตุ๊กตา (doll) : 1 meaning(s), 2 sentences
 - `thaipod-0382` : ต่อ (for, against; per) : 2 meaning(s), 4 sentences
 - `thaipod-0386` : ต่างๆ (various) : 1 meaning(s), 2 sentences
