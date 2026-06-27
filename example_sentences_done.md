@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2183 words**
+**Total: 2193 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1201,6 +1201,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-580` : คาย (to discharge, to emit, to secrete) : 1 meaning(s), 2 sentences
 - `tsl-583` : สกุล (family, lineage; genus (plants/animals)) : 2 meaning(s), 4 sentences
 - `tsl-584` : ความทนทาน, ความคงทน (durability) : 1 meaning(s), 2 sentences
+- `tsl-587` : ตัก (lap (sit on someone's lap); to scoop) : 2 meaning(s), 4 sentences
+- `tsl-588` : ผ้าขี้ริ้ว (rag, cleaning cloth) : 1 meaning(s), 2 sentences
+- `tsl-594` : หนาแน่น (crowded, densely populated) : 1 meaning(s), 2 sentences
+- `tsl-600` : จำแนก (to classify, to categorize) : 1 meaning(s), 2 sentences
+- `tsl-601` : แผนภูมิ (chart, diagram) : 1 meaning(s), 2 sentences
+- `tsl-603` : พลศึกษา (physical education (P.E, at school), gymnastics) : 1 meaning(s), 2 sentences
+- `tsl-607` : โค่น (to make something large fall (e.g a tree, a government), to topple, to bring down) : 1 meaning(s), 2 sentences
+- `tsl-608` : ปลิว (to blow away, to fly off (wind)) : 1 meaning(s), 2 sentences
+- `tsl-612` : ว่างเว้น (to take a break from, to abstain, to pause) : 1 meaning(s), 2 sentences
+- `tsl-615` : พลัด (to be separated; to fall, to slip) : 2 meaning(s), 4 sentences
 - `thaipod-0021` : กระโปรง (skirt) : 1 meaning(s), 2 sentences
 - `thaipod-0030` : กล้า (brave; to dare) : 2 meaning(s), 4 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences
