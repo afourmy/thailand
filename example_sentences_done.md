@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2693 words**
+**Total: 2703 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1856,8 +1856,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-311` : คำแนะนำ (advice, suggestion) : 1 meaning(s), 2 sentences
 - `tobo-317` : ความรับผิดชอบ (responsibility) : 1 meaning(s), 2 sentences
 - `tobo-319` : เป้าหมาย (target, goal) : 1 meaning(s), 2 sentences
+- `tobo-320` : นุ่ม (soft, tender (texture)) : 1 meaning(s), 2 sentences
+- `tobo-321` : ออกแบบ (to design) : 1 meaning(s), 2 sentences
+- `tobo-322` : ล่าสัตว์ (to hunt animals) : 1 meaning(s), 2 sentences
+- `tobo-323` : ปริญญา (degree (academic)) : 1 meaning(s), 2 sentences
+- `tobo-325` : หยดน้ำ (water drop, droplet) : 1 meaning(s), 2 sentences
 - `tobo-326` : แตก (broken, to break) : 1 meaning(s), 2 sentences
 - `tobo-327` : วันหยุด (vacation, holiday) : 1 meaning(s), 2 sentences
+- `tobo-328` : ความเสียหาย (damage) : 1 meaning(s), 2 sentences
+- `tobo-331` : ข้อแก้ตัว (excuse, justification) : 1 meaning(s), 2 sentences
+- `tobo-332` : ปรารถนา (to wish, to desire) : 1 meaning(s), 2 sentences
+- `tobo-333` : ไหล (to flow) : 1 meaning(s), 2 sentences
+- `tobo-334` : ทำลาย (to destroy, to break) : 1 meaning(s), 2 sentences
 - `tobo-342` : ปากกา (pen) : 1 meaning(s), 2 sentences
 - `tobo-348` : กระเป๋าตังค์, กระเป๋าสตางค์ (wallet) : 1 meaning(s), 2 sentences
 - `tobo-349` : อดีต (the past) : 1 meaning(s), 2 sentences
