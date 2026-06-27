@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2123 words**
+**Total: 2133 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1137,6 +1137,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-422` : เฉพาะหน้า (immediate, on-the-spot, in the moment) : 1 meaning(s), 2 sentences
 - `tsl-425` : ไพเราะ (melodious, beautiful-sounding) : 1 meaning(s), 2 sentences
 - `tsl-427` : วาจาสุภาพ (polite speech) : 1 meaning(s), 2 sentences
+- `tsl-429` : สาธิต (to demonstrate, to show how to do something) : 1 meaning(s), 2 sentences
+- `tsl-431` : ลึกซึ้ง (deep, profound) : 1 meaning(s), 2 sentences
+- `tsl-432` : ปรัชญา (philosophy) : 1 meaning(s), 2 sentences
+- `tsl-433` : แนวทาง (guideline, approach) : 1 meaning(s), 2 sentences
+- `tsl-437` : ล้ำค่า (precious, priceless, invaluable) : 1 meaning(s), 2 sentences
+- `tsl-440` : ละเว้น (to refrain from, to abstain from) : 1 meaning(s), 2 sentences
+- `tsl-445` : ถอนหายใจ (to sigh) : 1 meaning(s), 2 sentences
+- `tsl-451` : หวีด (to shriek, to scream (high-pitched)) : 1 meaning(s), 2 sentences
+- `tsl-452` : ฝืน (to force, to go against, to resist) : 1 meaning(s), 2 sentences
+- `tsl-453` : หนักอึ้ง (very heavy, crushingly heavy (literal or emotional)) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
