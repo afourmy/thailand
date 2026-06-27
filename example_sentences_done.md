@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2323 words**
+**Total: 2333 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1360,12 +1360,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0426` : ทั่วโลก (worldwide, around the world) : 1 meaning(s), 2 sentences
 - `thaipod-0427` : ทั่วไป, โดยทั่วไป (generally, in general) : 1 meaning(s), 2 sentences
 - `thaipod-0437` : ทางบก (by land, on land) : 1 meaning(s), 2 sentences
+- `thaipod-0438` : ทางบ้าน (family matters, from home; (TV) the audience at home) : 2 meaning(s), 4 sentences
+- `thaipod-0442` : ทำนา (to farm rice) : 1 meaning(s), 2 sentences
+- `thaipod-0446` : ทิศ, ทิศทาง (direction) : 1 meaning(s), 2 sentences
 - `thaipod-0447` : ทิ้ง (to leave, to throw away, to discard) : 1 meaning(s), 2 sentences
+- `thaipod-0450` : ที่ตั้ง (location, position) : 1 meaning(s), 2 sentences
+- `thaipod-0453` : ที่ระลึก (souvenir, keepsake) : 1 meaning(s), 2 sentences
 - `thaipod-0454` : ที่รัก (beloved, darling) : 1 meaning(s), 2 sentences
 - `thaipod-0459` : ทุกวันนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
+- `thaipod-0462` : ท่อระบายน้ำ (drain, sewer) : 1 meaning(s), 2 sentences
 - `thaipod-0467` : ท้าย (end, at the back, rear side) : 1 meaning(s), 2 sentences
 - `thaipod-0470` : ธรรมดา (ordinary, common, normal) : 1 meaning(s), 2 sentences
+- `thaipod-0471` : ธุระ (business, errand) : 1 meaning(s), 2 sentences
 - `thaipod-0473` : นก (bird) : 1 meaning(s), 2 sentences
+- `thaipod-0476` : นักวิชาการ (scholar, academic) : 1 meaning(s), 2 sentences
+- `thaipod-0481` : นาข้าว (rice field, paddy) : 1 meaning(s), 2 sentences
+- `thaipod-0489` : นานาชาติ (international) : 1 meaning(s), 2 sentences
 - `thaipod-0498` : นิสัย (habit, behavior, character) : 1 meaning(s), 2 sentences
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
 - `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
