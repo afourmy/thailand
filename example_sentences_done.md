@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2053 words**
+**Total: 2063 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1066,6 +1066,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-204` : บัตรประจำตัวประชาชน (citizen ID card) : 1 meaning(s), 2 sentences
 - `tsl-207` : ป้อน (to feed (someone); to input (e.g data in a form)) : 2 meaning(s), 4 sentences
 - `tsl-208` : ประทับตรา (to stamp, to affix a seal) : 1 meaning(s), 2 sentences
+- `tsl-209` : ตราประทับ (stamp, seal (the impression)) : 1 meaning(s), 2 sentences
+- `tsl-210` : สถานภาพ (status (e.g marital, residency)) : 1 meaning(s), 2 sentences
+- `tsl-214` : ล้อมวง (to sit in a circle, to gather around) : 1 meaning(s), 2 sentences
+- `tsl-217` : คีบ (to pick up (using chopsticks, tongs, fingers)) : 1 meaning(s), 2 sentences
+- `tsl-219` : เอาใจช่วย (to root for someone, to cheer on) : 1 meaning(s), 2 sentences
+- `tsl-226` : เป็นธุระ (to take care of something, to handle a task) : 1 meaning(s), 2 sentences
+- `tsl-228` : ยั่งยืน (sustainable, long-lasting) : 1 meaning(s), 2 sentences
+- `tsl-231` : กระจ่าง (clear, easily understandable (explanation)) : 1 meaning(s), 2 sentences
+- `tsl-233` : ค้าน (to object, to protest, to oppose) : 1 meaning(s), 2 sentences
+- `tsl-235` : อารยธรรม (civilization) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
