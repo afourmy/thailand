@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2083 words**
+**Total: 2093 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1096,6 +1096,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-306` : หน่วยย่อย (subunit, subdivision) : 1 meaning(s), 2 sentences
 - `tsl-309` : พรรคพวก (companions, associates, allies) : 1 meaning(s), 2 sentences
 - `tsl-312` : ราบรื่น (smooth, seamless, without obstacles) : 1 meaning(s), 2 sentences
+- `tsl-313` : ติดๆ ขัดๆ (stuttering, interrupted, not going smoothly (speech, process)) : 1 meaning(s), 2 sentences
+- `tsl-314` : ลาก, ลากจูง (to pull, to drag, to tow (suitcase, boat)) : 1 meaning(s), 2 sentences
+- `tsl-315` : วาระ ((politics) term, tenure; (meeting) agenda item; time, occasion) : 3 meaning(s), 6 sentences
+- `tsl-317` : กา (to mark with an X, to tick a checkbox; crow) : 2 meaning(s), 4 sentences
+- `tsl-318` : หีบ (box, chest, trunk) : 1 meaning(s), 2 sentences
+- `tsl-321` : เหยียดเพศ (sexist) : 1 meaning(s), 2 sentences
+- `tsl-322` : สัญลักษณ์ (symbol, emblem) : 1 meaning(s), 2 sentences
+- `tsl-323` : ซอง (envelope) : 1 meaning(s), 2 sentences
+- `tsl-326` : แน่นหนา (secure, firm, strong, sturdy) : 1 meaning(s), 2 sentences
+- `tsl-327` : เคลื่อน, เคลื่อนที่ (to move, to displace, to be in motion) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
