@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2193 words**
+**Total: 2203 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1211,6 +1211,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-608` : ปลิว (to blow away, to fly off (wind)) : 1 meaning(s), 2 sentences
 - `tsl-612` : ว่างเว้น (to take a break from, to abstain, to pause) : 1 meaning(s), 2 sentences
 - `tsl-615` : พลัด (to be separated; to fall, to slip) : 2 meaning(s), 4 sentences
+- `tsl-616` : เบ็ด (fishing hook) : 1 meaning(s), 2 sentences
+- `tsl-617` : ทดแทน (to compensate, to replace, to repay, to make up for) : 1 meaning(s), 2 sentences
+- `tsl-618` : ทัดเทียมกัน (equivalent, comparable, evenly matched) : 1 meaning(s), 2 sentences
+- `tsl-619` : ชดใช้ (to pay back, to make amends (for damage, wrongdoing)) : 1 meaning(s), 2 sentences
+- `tsl-619b` : ชดเชย (to compensate, to make up for, to offset) : 1 meaning(s), 2 sentences
+- `tsl-621` : ป่อง (bloated, swollen) : 1 meaning(s), 2 sentences
+- `tsl-624` : แหว่ง (chipped, dented, missing a piece (broken objects, teeth)) : 1 meaning(s), 2 sentences
+- `tsl-625` : บิ่น (chipped, nicked (small piece broken off from an edge)) : 1 meaning(s), 2 sentences
+- `tsl-635` : เกื้อกูล (to support, to help out, to be mutually beneficial) : 1 meaning(s), 2 sentences
+- `tsl-636` : ชมเชย (to praise, to compliment) : 1 meaning(s), 2 sentences
 - `thaipod-0021` : กระโปรง (skirt) : 1 meaning(s), 2 sentences
 - `thaipod-0030` : กล้า (brave; to dare) : 2 meaning(s), 4 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences
