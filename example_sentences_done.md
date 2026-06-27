@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2763 words**
+**Total: 2773 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1939,7 +1939,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-447` : ที่พัก (accommodation, lodging) : 1 meaning(s), 2 sentences
 - `tobo-450` : แหย่ (to tease light-heartedly, to gently provoke) : 1 meaning(s), 2 sentences
 - `tobo-451` : เปลือย (naked, bare) : 1 meaning(s), 2 sentences
+- `tobo-453` : อิสระ (independent, free) : 1 meaning(s), 2 sentences
+- `tobo-454` : ม้านั่ง (bench) : 1 meaning(s), 2 sentences
+- `tobo-455` : ค้นพบ (to discover) : 1 meaning(s), 2 sentences
+- `tobo-456` : เป่าปาก (to whistle (with mouth)) : 1 meaning(s), 2 sentences
+- `tobo-459` : เปรียบเทียบ (to compare) : 1 meaning(s), 2 sentences
+- `tobo-460` : การสังเกต (observation) : 1 meaning(s), 2 sentences
 - `tobo-461` : ตัวอย่าง (sample, example) : 1 meaning(s), 2 sentences
+- `tobo-462` : แทง (to stab, to pierce) : 1 meaning(s), 2 sentences
+- `tobo-464` : ทาสี (to paint (a surface)) : 1 meaning(s), 2 sentences
+- `tobo-465` : ปลอม, ของปลอม (fake, counterfeit) : 1 meaning(s), 2 sentences
+- `tobo-469` : ขั้นสูง (advanced (level)) : 1 meaning(s), 2 sentences
 - `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
 - `tobo-498` : แผนที่ (map) : 1 meaning(s), 2 sentences
 - `tobo-512` : ไฟฟ้า (electricity) : 1 meaning(s), 2 sentences
