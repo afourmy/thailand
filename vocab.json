@@ -46664,7 +46664,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "exactly, completely, in full",
+        "sentences": [
+          {
+            "thai": "ค่าอาหารทั้งหมดห้าร้อยบาทถ้วน",
+            "en": "The food total comes to exactly five hundred baht.",
+            "audio_src": "ค่าอาหารทั้งหมดห้าร้อยบาทถ้วน",
+            "audio_en_src": "The food total comes to exactly five hundred baht."
+          },
+          {
+            "thai": "เขานับเงินจนครบถ้วนแล้วค่อยส่งมอบ",
+            "en": "He counted the money in full before handing it over.",
+            "audio_src": "เขานับเงินจนครบถ้วนแล้วค่อยส่งมอบ",
+            "audio_en_src": "He counted the money in full before handing it over."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-725",
@@ -46688,7 +46707,26 @@
       "Tobo Deck"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to trust, to have confidence in, \"rest assured\"",
+        "sentences": [
+          {
+            "thai": "หัวหน้าไว้วางใจให้เขาดูแลโครงการสำคัญ",
+            "en": "The boss trusts him to handle the important project.",
+            "audio_src": "หัวหน้าไว้วางใจให้เขาดูแลโครงการสำคัญ",
+            "audio_en_src": "The boss trusts him to handle the important project."
+          },
+          {
+            "thai": "วางใจได้เลย งานนี้ฉันจัดการเอง",
+            "en": "Rest assured, I'll handle this myself.",
+            "audio_src": "วางใจได้เลย งานนี้ฉันจัดการเอง",
+            "audio_en_src": "Rest assured, I'll handle this myself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-727",
@@ -46700,7 +46738,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "compact, concise",
+        "sentences": [
+          {
+            "thai": "ห้องเล็กกะทัดรัดแต่อยู่สบาย",
+            "en": "The room is small and compact but comfortable to live in.",
+            "audio_src": "ห้องเล็กกะทัดรัดแต่อยู่สบาย",
+            "audio_en_src": "The room is small and compact but comfortable to live in."
+          },
+          {
+            "thai": "เขาเขียนสรุปได้กะทัดรัดและเข้าใจง่าย",
+            "en": "He wrote a concise and easy-to-understand summary.",
+            "audio_src": "เขาเขียนสรุปได้กะทัดรัดและเข้าใจง่าย",
+            "audio_en_src": "He wrote a concise and easy-to-understand summary."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-728",
@@ -46752,7 +46809,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to hide oneself, to take cover",
+        "sentences": [
+          {
+            "thai": "เด็กหลบซ่อนอยู่หลังม่านตอนเล่นซ่อนหา",
+            "en": "The kid hid behind the curtain while playing hide-and-seek.",
+            "audio_src": "เด็กหลบซ่อนอยู่หลังม่านตอนเล่นซ่อนหา",
+            "audio_en_src": "The kid hid behind the curtain while playing hide-and-seek."
+          },
+          {
+            "thai": "ผู้ร้ายหลบซ่อนตัวอยู่ในป่าหลายวัน",
+            "en": "The criminal hid out in the forest for several days.",
+            "audio_src": "ผู้ร้ายหลบซ่อนตัวอยู่ในป่าหลายวัน",
+            "audio_en_src": "The criminal hid out in the forest for several days."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-733",
@@ -46822,7 +46898,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to organize an event, to hold a ceremony",
+        "sentences": [
+          {
+            "thai": "พวกเขาจัดงานวันเกิดให้คุณยายที่บ้าน",
+            "en": "They held a birthday party for grandma at home.",
+            "audio_src": "พวกเขาจัดงานวันเกิดให้คุณยายที่บ้าน",
+            "audio_en_src": "They held a birthday party for grandma at home."
+          },
+          {
+            "thai": "บริษัทจัดงานเลี้ยงปีใหม่ทุกปี",
+            "en": "The company holds a New Year party every year.",
+            "audio_src": "บริษัทจัดงานเลี้ยงปีใหม่ทุกปี",
+            "audio_en_src": "The company holds a New Year party every year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-738",
@@ -46834,7 +46929,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "same age",
+        "sentences": [
+          {
+            "thai": "เราเป็นเพื่อนวัยเดียวกันมาตั้งแต่เด็ก",
+            "en": "We've been friends of the same age since childhood.",
+            "audio_src": "เราเป็นเพื่อนวัยเดียวกันมาตั้งแต่เด็ก",
+            "audio_en_src": "We've been friends of the same age since childhood."
+          },
+          {
+            "thai": "คุยกับคนวัยเดียวกันเข้าใจกันง่ายกว่า",
+            "en": "Talking with people of the same age, we understand each other more easily.",
+            "audio_src": "คุยกับคนวัยเดียวกันเข้าใจกันง่ายกว่า",
+            "audio_en_src": "Talking with people of the same age, we understand each other more easily."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-739",
@@ -46900,7 +47014,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to scold loudly, to yell at",
+        "sentences": [
+          {
+            "thai": "เขาตวาดใส่ลูกน้องจนทุกคนตกใจ",
+            "en": "He yelled at his subordinate until everyone was startled.",
+            "audio_src": "เขาตวาดใส่ลูกน้องจนทุกคนตกใจ",
+            "audio_en_src": "He yelled at his subordinate until everyone was startled."
+          },
+          {
+            "thai": "อย่าตวาดใส่เด็กแบบนั้น เดี๋ยวกลัว",
+            "en": "Don't yell at the child like that, he'll get scared.",
+            "audio_src": "อย่าตวาดใส่เด็กแบบนั้น เดี๋ยวกลัว",
+            "audio_en_src": "Don't yell at the child like that, he'll get scared."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-741",
@@ -46922,7 +47055,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to study for an exam",
+        "sentences": [
+          {
+            "thai": "คืนนี้ต้องอ่านหนังสือสอบจนดึก",
+            "en": "Tonight I have to study for the exam until late.",
+            "audio_src": "คืนนี้ต้องอ่านหนังสือสอบจนดึก",
+            "audio_en_src": "Tonight I have to study for the exam until late."
+          },
+          {
+            "thai": "เขาอ่านหนังสือสอบที่ห้องสมุดทุกวัน",
+            "en": "He studies for exams at the library every day.",
+            "audio_src": "เขาอ่านหนังสือสอบที่ห้องสมุดทุกวัน",
+            "audio_en_src": "He studies for exams at the library every day."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-743",
@@ -46935,7 +47087,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "dirty, messy",
+        "sentences": [
+          {
+            "thai": "มือเด็กเลอะเทอะไปด้วยสีเทียน",
+            "en": "The kid's hands are messy with crayon.",
+            "audio_src": "มือเด็กเลอะเทอะไปด้วยสีเทียน",
+            "audio_en_src": "The kid's hands are messy with crayon."
+          },
+          {
+            "thai": "กินข้าวหกเลอะเทอะเต็มโต๊ะ",
+            "en": "He spilled rice making a mess all over the table.",
+            "audio_src": "กินข้าวหกเลอะเทอะเต็มโต๊ะ",
+            "audio_en_src": "He spilled rice making a mess all over the table."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-744",
@@ -47032,7 +47203,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to circle around, to go round and round",
+        "sentences": [
+          {
+            "thai": "เราขับรถวนเวียนหาที่จอดอยู่นาน",
+            "en": "We drove around in circles looking for parking for a long time.",
+            "audio_src": "เราขับรถวนเวียนหาที่จอดอยู่นาน",
+            "audio_en_src": "We drove around in circles looking for parking for a long time."
+          },
+          {
+            "thai": "ความคิดเรื่องนี้ยังวนเวียนอยู่ในหัว",
+            "en": "Thoughts about this still go round and round in my head.",
+            "audio_src": "ความคิดเรื่องนี้ยังวนเวียนอยู่ในหัว",
+            "audio_en_src": "Thoughts about this still go round and round in my head."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-754",

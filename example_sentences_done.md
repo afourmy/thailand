@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1934 words**
+**Total: 1944 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -928,8 +928,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-719` : หลอกลวง (to defraud, to scam) : 1 meaning(s), 2 sentences
 - `tamago-l3-720` : ปกปิด (to conceal, to cover up, to hide) : 1 meaning(s), 2 sentences
 - `tamago-l3-723` : สูญเปล่า (wasted, in vain) : 1 meaning(s), 2 sentences
+- `tamago-l3-724` : ถ้วน (exactly, completely, in full) : 1 meaning(s), 2 sentences
+- `tamago-l3-726` : วางใจ, ไว้วางใจ (to trust, to have confidence in, "rest assured") : 1 meaning(s), 2 sentences
+- `tamago-l3-727` : กะทัดรัด (compact, concise) : 1 meaning(s), 2 sentences
+- `tamago-l3-732` : หลบซ่อน (to hide oneself, to take cover) : 1 meaning(s), 2 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
+- `tamago-l3-737` : จัดงาน (to organize an event, to hold a ceremony) : 1 meaning(s), 2 sentences
+- `tamago-l3-738` : วัยเดียวกัน (same age) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
+- `tamago-l3-740` : ตวาดใส่ (to scold loudly, to yell at) : 1 meaning(s), 2 sentences
+- `tamago-l3-742` : อ่านหนังสือสอบ (to study for an exam) : 1 meaning(s), 2 sentences
+- `tamago-l3-743` : เลอะเทอะ (dirty, messy) : 1 meaning(s), 2 sentences
+- `tamago-l3-753` : วนเวียน (to circle around, to go round and round) : 1 meaning(s), 2 sentences
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
 - `tamago-l3-790` : นักศึกษา (university student, college student) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
