@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1914 words**
+**Total: 1924 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -907,6 +907,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-668` : ตัดบท (to cut short, to interrupt, to change the topic abruptly) : 1 meaning(s), 2 sentences
 - `tamago-l3-669` : เจาะ (to drill, to pierce; to dig into (a topic)) : 2 meaning(s), 4 sentences
 - `tamago-l3-670` : ชน (to collide with, to hit; tribe, ethnic group) : 2 meaning(s), 4 sentences
+- `tamago-l3-675` : พลอย (gem, precious stone; to also be affected, to be involved indirectly) : 2 meaning(s), 4 sentences
+- `tamago-l3-676` : ฉุด (to drag, to pull (forcefully)) : 1 meaning(s), 2 sentences
+- `tamago-l3-677` : สามัคคี (unity, to work together) : 1 meaning(s), 2 sentences
+- `tamago-l3-685` : ตู้เซฟ (safe, safety box) : 1 meaning(s), 2 sentences
+- `tamago-l3-690` : สืบ (to investigate, to inquire into) : 1 meaning(s), 2 sentences
+- `tamago-l3-693` : ส่องกระจก (to look at oneself in the mirror) : 1 meaning(s), 2 sentences
+- `tamago-l3-696` : น่าขำ (funny, laughable) : 1 meaning(s), 2 sentences
+- `tamago-l3-697` : เบาะแส (clue, lead) : 1 meaning(s), 2 sentences
+- `tamago-l3-699` : บอบบาง (fragile, frail) : 1 meaning(s), 2 sentences
+- `tamago-l3-701` : แก้แค้น (to get revenge) : 1 meaning(s), 2 sentences
 - `tamago-l3-702` : ช่าง (to disregard, to ignore; how (+ adjective) (exclamation, "so + adjective")) : 2 meaning(s), 4 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences

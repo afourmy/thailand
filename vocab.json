@@ -45658,7 +45658,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "gem, precious stone",
+        "sentences": [
+          {
+            "thai": "เธอใส่แหวนพลอยสีน้ำเงินวันนี้",
+            "en": "She's wearing a blue gemstone ring today.",
+            "audio_src": "เธอใส่แหวนพลอยสีน้ำเงินวันนี้",
+            "audio_en_src": "She's wearing a blue gemstone ring today."
+          },
+          {
+            "thai": "ร้านนี้ขายพลอยแท้ราคาแพง",
+            "en": "This shop sells genuine, expensive gemstones.",
+            "audio_src": "ร้านนี้ขายพลอยแท้ราคาแพง",
+            "audio_en_src": "This shop sells genuine, expensive gemstones."
+          }
+        ]
+      },
+      {
+        "meaning": "to also be affected, to be involved indirectly",
+        "sentences": [
+          {
+            "thai": "เพื่อนทำผิด เราพลอยโดนดุไปด้วย",
+            "en": "My friend messed up, and we got scolded along with him.",
+            "audio_src": "เพื่อนทำผิด เราพลอยโดนดุไปด้วย",
+            "audio_en_src": "My friend messed up, and we got scolded along with him."
+          },
+          {
+            "thai": "เห็นเขาร้องไห้ ฉันก็พลอยเศร้าไปด้วย",
+            "en": "Seeing him cry, I felt sad too.",
+            "audio_src": "เห็นเขาร้องไห้ ฉันก็พลอยเศร้าไปด้วย",
+            "audio_en_src": "Seeing him cry, I felt sad too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-676",
@@ -45672,7 +45708,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to drag, to pull (forcefully)",
+        "sentences": [
+          {
+            "thai": "แม่ฉุดแขนลูกออกจากถนน",
+            "en": "The mother pulled her child's arm away from the road.",
+            "audio_src": "แม่ฉุดแขนลูกออกจากถนน",
+            "audio_en_src": "The mother pulled her child's arm away from the road."
+          },
+          {
+            "thai": "เขาฉุดกระเป๋าหนักขึ้นบันได",
+            "en": "He dragged the heavy bag up the stairs.",
+            "audio_src": "เขาฉุดกระเป๋าหนักขึ้นบันได",
+            "audio_en_src": "He dragged the heavy bag up the stairs."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-677",
@@ -45685,7 +45740,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "unity, to work together",
+        "sentences": [
+          {
+            "thai": "ทีมที่สามัคคีกันมักจะชนะ",
+            "en": "A united team usually wins.",
+            "audio_src": "ทีมที่สามัคคีกันมักจะชนะ",
+            "audio_en_src": "A united team usually wins."
+          },
+          {
+            "thai": "ครูสอนให้เด็กรู้จักความสามัคคี",
+            "en": "The teacher teaches the children about unity.",
+            "audio_src": "ครูสอนให้เด็กรู้จักความสามัคคี",
+            "audio_en_src": "The teacher teaches the children about unity."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-678",
@@ -45770,7 +45844,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "safe, safety box",
+        "sentences": [
+          {
+            "thai": "เขาเก็บเอกสารสำคัญไว้ในตู้เซฟ",
+            "en": "He keeps important documents in the safe.",
+            "audio_src": "เขาเก็บเอกสารสำคัญไว้ในตู้เซฟ",
+            "audio_en_src": "He keeps important documents in the safe."
+          },
+          {
+            "thai": "โรงแรมมีตู้เซฟให้ในทุกห้อง",
+            "en": "The hotel provides a safe in every room.",
+            "audio_src": "โรงแรมมีตู้เซฟให้ในทุกห้อง",
+            "audio_en_src": "The hotel provides a safe in every room."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-687",
@@ -45817,7 +45910,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to investigate, to inquire into",
+        "sentences": [
+          {
+            "thai": "ตำรวจกำลังสืบคดีฆาตกรรม",
+            "en": "The police are investigating the murder case.",
+            "audio_src": "ตำรวจกำลังสืบคดีฆาตกรรม",
+            "audio_en_src": "The police are investigating the murder case."
+          },
+          {
+            "thai": "เขาสืบดูว่าใครเป็นคนปล่อยข่าว",
+            "en": "He looked into who spread the rumor.",
+            "audio_src": "เขาสืบดูว่าใครเป็นคนปล่อยข่าว",
+            "audio_en_src": "He looked into who spread the rumor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-691",
@@ -45849,7 +45961,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to look at oneself in the mirror",
+        "sentences": [
+          {
+            "thai": "เธอส่องกระจกก่อนออกจากบ้านทุกครั้ง",
+            "en": "She looks at herself in the mirror before leaving home every time.",
+            "audio_src": "เธอส่องกระจกก่อนออกจากบ้านทุกครั้ง",
+            "audio_en_src": "She looks at herself in the mirror before leaving home every time."
+          },
+          {
+            "thai": "เขาส่องกระจกจัดทรงผมให้เรียบร้อย",
+            "en": "He looked in the mirror to fix his hair neatly.",
+            "audio_src": "เขาส่องกระจกจัดทรงผมให้เรียบร้อย",
+            "audio_en_src": "He looked in the mirror to fix his hair neatly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-694",
@@ -45881,7 +46012,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "funny, laughable",
+        "sentences": [
+          {
+            "thai": "มุกของเขาน่าขำจนหยุดหัวเราะไม่ได้",
+            "en": "His jokes are so funny I can't stop laughing.",
+            "audio_src": "มุกของเขาน่าขำจนหยุดหัวเราะไม่ได้",
+            "audio_en_src": "His jokes are so funny I can't stop laughing."
+          },
+          {
+            "thai": "ท่าทางที่เขาตกใจดูน่าขำมาก",
+            "en": "The way he got startled looked really funny.",
+            "audio_src": "ท่าทางที่เขาตกใจดูน่าขำมาก",
+            "audio_en_src": "The way he got startled looked really funny."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-697",
@@ -45893,7 +46043,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "clue, lead",
+        "sentences": [
+          {
+            "thai": "ตำรวจยังหาเบาะแสของคนร้ายไม่เจอ",
+            "en": "The police still haven't found any clues about the culprit.",
+            "audio_src": "ตำรวจยังหาเบาะแสของคนร้ายไม่เจอ",
+            "audio_en_src": "The police still haven't found any clues about the culprit."
+          },
+          {
+            "thai": "พยานให้เบาะแสสำคัญกับเจ้าหน้าที่",
+            "en": "The witness gave an important lead to the officers.",
+            "audio_src": "พยานให้เบาะแสสำคัญกับเจ้าหน้าที่",
+            "audio_en_src": "The witness gave an important lead to the officers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-698",
@@ -45915,7 +46084,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fragile, frail",
+        "sentences": [
+          {
+            "thai": "ของชิ้นนี้บอบบาง ต้องห่อให้ดี",
+            "en": "This item is fragile, it needs to be wrapped well.",
+            "audio_src": "ของชิ้นนี้บอบบาง ต้องห่อให้ดี",
+            "audio_en_src": "This item is fragile, it needs to be wrapped well."
+          },
+          {
+            "thai": "ร่างกายของเธอบอบบางเพราะป่วยมานาน",
+            "en": "Her body is frail from being sick for a long time.",
+            "audio_src": "ร่างกายของเธอบอบบางเพราะป่วยมานาน",
+            "audio_en_src": "Her body is frail from being sick for a long time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-700",
@@ -45938,7 +46126,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to get revenge",
+        "sentences": [
+          {
+            "thai": "เขาวางแผนแก้แค้นคนที่ทำร้ายครอบครัว",
+            "en": "He planned to take revenge on those who hurt his family.",
+            "audio_src": "เขาวางแผนแก้แค้นคนที่ทำร้ายครอบครัว",
+            "audio_en_src": "He planned to take revenge on those who hurt his family."
+          },
+          {
+            "thai": "ในหนัง พระเอกแก้แค้นให้พ่อที่ถูกฆ่า",
+            "en": "In the movie, the hero avenges his murdered father.",
+            "audio_src": "ในหนัง พระเอกแก้แค้นให้พ่อที่ถูกฆ่า",
+            "audio_en_src": "In the movie, the hero avenges his murdered father."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-702",
