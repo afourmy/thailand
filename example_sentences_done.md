@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2922 words**
+**Total: 2932 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2106,6 +2106,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-066` : กระดิก (to wiggle, to twitch, to move slightly back and forth) : 1 meaning(s), 2 sentences
 - `yt-c06-068` : จรจัด (stray (of animals, e.g stray dogs)) : 1 meaning(s), 2 sentences
 - `yt-c06-077` : ปริญญาโท (master degree (in Thai university)) : 1 meaning(s), 2 sentences
+- `yt-c06-079` : โยก (to shake, to sway, to move back and forth, to shift) : 1 meaning(s), 2 sentences
+- `yt-c06-080` : ตั้งค่า (to configure, to set up (e.g an app)) : 1 meaning(s), 2 sentences
+- `yt-c06-082` : กดถูกใจ (to like something on a social network, to press like) : 1 meaning(s), 2 sentences
+- `yt-c06-083` : ประหยัดไฟ (to save electricity) : 1 meaning(s), 2 sentences
+- `yt-c06-084` : ตอบโจทย์ (to meet the requirement, to "answer the question") : 1 meaning(s), 2 sentences
+- `yt-c06-085` : แบตเสื่อม (the battery is worn out, dead (e.g phone, computer)) : 1 meaning(s), 2 sentences
+- `yt-c06-095` : ชนชั้นสูง (upper class, elite class) : 1 meaning(s), 2 sentences
+- `yt-c07-002` : ไฟแช็ค (lighter) : 1 meaning(s), 2 sentences
+- `yt-c07-012` : ผุ (to decay, to rot, to deteriorate, rotten) : 1 meaning(s), 2 sentences
+- `yt-c07-013` : ต่อเติม (to extend, to add on, to renovate (by expansion)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
