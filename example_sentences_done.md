@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2683 words**
+**Total: 2693 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1844,7 +1844,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-289` : ภาคส่วน (sector, division) : 1 meaning(s), 2 sentences
 - `tobo-290` : บท (chapter, section) : 1 meaning(s), 2 sentences
 - `tobo-293` : เข้ากันได้ (to get along with, to be compatible) : 1 meaning(s), 2 sentences
+- `tobo-294` : อ่างล้างหน้า (bathroom sink) : 1 meaning(s), 2 sentences
 - `tobo-297` : กระทะ (pan, frying pan) : 1 meaning(s), 2 sentences
+- `tobo-300` : สถานการณ์ (situation, circumstances) : 1 meaning(s), 2 sentences
+- `tobo-302` : สำเนียง (accent) : 1 meaning(s), 2 sentences
+- `tobo-303` : ระเบิด (bomb, to explode) : 1 meaning(s), 2 sentences
+- `tobo-307` : ทรมาน (to torture, to torment, to be in agony, to suffer) : 1 meaning(s), 2 sentences
+- `tobo-308` : ความเป็นจริง (reality) : 1 meaning(s), 2 sentences
+- `tobo-309` : คำอธิบาย (explanation) : 1 meaning(s), 2 sentences
+- `tobo-310` : หลุม (pit, hole) : 1 meaning(s), 2 sentences
+- `tobo-311` : คำแนะนำ (advice, suggestion) : 1 meaning(s), 2 sentences
+- `tobo-317` : ความรับผิดชอบ (responsibility) : 1 meaning(s), 2 sentences
 - `tobo-319` : เป้าหมาย (target, goal) : 1 meaning(s), 2 sentences
 - `tobo-326` : แตก (broken, to break) : 1 meaning(s), 2 sentences
 - `tobo-327` : วันหยุด (vacation, holiday) : 1 meaning(s), 2 sentences
