@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2243 words**
+**Total: 2253 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1266,7 +1266,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0144` : ข้อบ่งชี้ (indication, indicator, sign) : 1 meaning(s), 2 sentences
 - `thaipod-0145` : ข้อสงสัย (doubt, uncertainty) : 1 meaning(s), 2 sentences
 - `thaipod-0146` : ข้อสรุป (conclusion) : 1 meaning(s), 2 sentences
+- `thaipod-0148` : ข้างทาง (roadside) : 1 meaning(s), 2 sentences
 - `thaipod-0151` : คง (probably; to remain, to continue) : 2 meaning(s), 4 sentences
+- `thaipod-0152` : คณะ (group, board, faculty) : 1 meaning(s), 3 sentences
+- `thaipod-0155` : คนหนุ่มสาว (young people) : 1 meaning(s), 2 sentences
+- `thaipod-0156` : คบ, คบหา (to date, to associate with, to befriend) : 1 meaning(s), 2 sentences
+- `thaipod-0158` : คม (sharp) : 1 meaning(s), 2 sentences
+- `thaipod-0162` : ครอบคลุม (to cover, to encompass, comprehensive) : 1 meaning(s), 2 sentences
+- `thaipod-0164` : ครั้งใหญ่ (big time, major) : 1 meaning(s), 2 sentences
+- `thaipod-0167` : คลอง, ลำคลอง (canal, small waterway) : 1 meaning(s), 2 sentences
+- `thaipod-0169` : คลาย (to loosen, to relieve, to ease) : 1 meaning(s), 2 sentences
+- `thaipod-0185` : ความมีชีวิตชีวา (vitality, liveliness) : 1 meaning(s), 2 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
