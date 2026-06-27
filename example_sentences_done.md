@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2543 words**
+**Total: 2553 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1643,13 +1643,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1319` : แทบ (almost, nearly) : 1 meaning(s), 2 sentences
 - `thaipod-1321` : แท้ (genuine, true, real) : 1 meaning(s), 2 sentences
 - `thaipod-1324` : แนววิทยาศาสตร์ (science fiction (genre)) : 1 meaning(s), 2 sentences
+- `thaipod-1325` : แน่ชัด (exact, definite) : 1 meaning(s), 2 sentences
 - `thaipod-1326` : แน่ๆ (definitely, for sure) : 1 meaning(s), 2 sentences
 - `thaipod-1329` : แบ่ง (to divide, to separate; to share) : 2 meaning(s), 4 sentences
 - `thaipod-1331` : แผ่น (sheet, classifier for thin flat objects) : 1 meaning(s), 2 sentences
+- `thaipod-1339` : แยก (to separate, to distinguish) : 1 meaning(s), 2 sentences
 - `thaipod-1340` : แรง (strength, force) : 1 meaning(s), 2 sentences
 - `thaipod-1342` : แวะ (to stop by, to drop in) : 1 meaning(s), 2 sentences
+- `thaipod-1343` : แวะพัก (to take a break, rest stop) : 1 meaning(s), 2 sentences
+- `thaipod-1344` : แสงสี (colored lights (cityscape, entertainment)) : 1 meaning(s), 2 sentences
+- `thaipod-1346` : แสดงบท (to play a role, to perform a part) : 1 meaning(s), 2 sentences
+- `thaipod-1352` : แหล่งท่องเที่ยว (tourist attraction, tourist spot) : 1 meaning(s), 2 sentences
+- `thaipod-1358` : โครงสร้าง (structure, framework) : 1 meaning(s), 2 sentences
+- `thaipod-1360` : โค้ง (curve, arc) : 1 meaning(s), 2 sentences
 - `thaipod-1361` : โง่ (stupid, foolish) : 1 meaning(s), 2 sentences
 - `thaipod-1369` : โต (to grow up; large) : 2 meaning(s), 4 sentences
+- `thaipod-1371` : โต้รุ่ง ((open) all night, throughout the night) : 1 meaning(s), 2 sentences
+- `thaipod-1380` : โรงเรียนประจำ (boarding school) : 1 meaning(s), 2 sentences
 - `thaipod-1391` : ใจร้อน (impatient, hot-tempered) : 1 meaning(s), 2 sentences
 - `thaipod-1392` : ใจเย็นๆ ("cool down", "take it easy") : 1 meaning(s), 2 sentences
 - `thaipod-1429` : ไหว้ (to wai (Thai greeting); to pay respect, to worship) : 1 meaning(s), 2 sentences
