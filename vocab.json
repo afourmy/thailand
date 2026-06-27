@@ -48189,7 +48189,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to twist, to wring out, to turn",
+        "sentences": [
+          {
+            "thai": "บิดผ้าให้แห้งก่อนเอาไปตาก",
+            "en": "Wring out the cloth before hanging it to dry.",
+            "audio_src": "บิดผ้าให้แห้งก่อนเอาไปตาก",
+            "audio_en_src": "Wring out the cloth before hanging it to dry."
+          },
+          {
+            "thai": "เขาบิดฝาขวดน้ำให้แน่น",
+            "en": "He twisted the bottle cap tight.",
+            "audio_src": "เขาบิดฝาขวดน้ำให้แน่น",
+            "audio_en_src": "He twisted the bottle cap tight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-803",
@@ -48202,7 +48221,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "rank, title (military, social)",
+        "sentences": [
+          {
+            "thai": "เขาได้เลื่อนยศเป็นนายพันเมื่อปีก่อน",
+            "en": "He was promoted to the rank of major last year.",
+            "audio_src": "เขาได้เลื่อนยศเป็นนายพันเมื่อปีก่อน",
+            "audio_en_src": "He was promoted to the rank of major last year."
+          },
+          {
+            "thai": "ทหารคนนี้มียศสูงกว่าเพื่อนร่วมรุ่น",
+            "en": "This soldier has a higher rank than his peers.",
+            "audio_src": "ทหารคนนี้มียศสูงกว่าเพื่อนร่วมรุ่น",
+            "audio_en_src": "This soldier has a higher rank than his peers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-804",
@@ -48278,7 +48316,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to cling to, to be attached to (emotionally)",
+        "sentences": [
+          {
+            "thai": "เขายึดติดกับความสำเร็จในอดีตมากเกินไป",
+            "en": "He clings too much to his past successes.",
+            "audio_src": "เขายึดติดกับความสำเร็จในอดีตมากเกินไป",
+            "audio_en_src": "He clings too much to his past successes."
+          },
+          {
+            "thai": "อย่ายึดติดกับสิ่งของจนเกินไป",
+            "en": "Don't get too attached to material things.",
+            "audio_src": "อย่ายึดติดกับสิ่งของจนเกินไป",
+            "audio_en_src": "Don't get too attached to material things."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-811",
@@ -48393,7 +48450,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be diligent, to be persistent, to practice regularly",
+        "sentences": [
+          {
+            "thai": "หมั่นทบทวนบทเรียนทุกวันจะได้ไม่ลืม",
+            "en": "Review your lessons regularly every day so you won't forget.",
+            "audio_src": "หมั่นทบทวนบทเรียนทุกวันจะได้ไม่ลืม",
+            "audio_en_src": "Review your lessons regularly every day so you won't forget."
+          },
+          {
+            "thai": "เธอหมั่นออกกำลังกายจนสุขภาพดีขึ้น",
+            "en": "She exercises diligently until her health improved.",
+            "audio_src": "เธอหมั่นออกกำลังกายจนสุขภาพดีขึ้น",
+            "audio_en_src": "She exercises diligently until her health improved."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-823",
@@ -48405,7 +48481,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to bring back to one's senses, to remind of what's right",
+        "sentences": [
+          {
+            "thai": "เพื่อนเตือนสติฉันก่อนจะตัดสินใจผิด",
+            "en": "My friend brought me to my senses before I made a wrong decision.",
+            "audio_src": "เพื่อนเตือนสติฉันก่อนจะตัดสินใจผิด",
+            "audio_en_src": "My friend brought me to my senses before I made a wrong decision."
+          },
+          {
+            "thai": "คำพูดของแม่เตือนสติให้เขากลับตัว",
+            "en": "His mother's words made him come to his senses and change his ways.",
+            "audio_src": "คำพูดของแม่เตือนสติให้เขากลับตัว",
+            "audio_en_src": "His mother's words made him come to his senses and change his ways."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-824",
@@ -48440,7 +48535,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cause, source, root of (a problem)",
+        "sentences": [
+          {
+            "thai": "ความเครียดเป็นต้นเหตุของอาการนอนไม่หลับ",
+            "en": "Stress is the cause of his insomnia.",
+            "audio_src": "ความเครียดเป็นต้นเหตุของอาการนอนไม่หลับ",
+            "audio_en_src": "Stress is the cause of his insomnia."
+          },
+          {
+            "thai": "ตำรวจหาต้นเหตุของไฟไหม้ครั้งนี้",
+            "en": "The police are looking for the source of this fire.",
+            "audio_src": "ตำรวจหาต้นเหตุของไฟไหม้ครั้งนี้",
+            "audio_en_src": "The police are looking for the source of this fire."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-827",
@@ -48462,7 +48576,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to step back, to distance oneself from",
+        "sentences": [
+          {
+            "thai": "เขาเลือกถอยห่างจากความสัมพันธ์ที่เป็นพิษ",
+            "en": "He chose to distance himself from the toxic relationship.",
+            "audio_src": "เขาเลือกถอยห่างจากความสัมพันธ์ที่เป็นพิษ",
+            "audio_en_src": "He chose to distance himself from the toxic relationship."
+          },
+          {
+            "thai": "ถอยห่างจากขอบหน้าผาหน่อย อันตราย",
+            "en": "Step back from the edge of the cliff, it's dangerous.",
+            "audio_src": "ถอยห่างจากขอบหน้าผาหน่อย อันตราย",
+            "audio_en_src": "Step back from the edge of the cliff, it's dangerous."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-829",
@@ -48526,7 +48659,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "homosexual person (literally one who loves the same sex)",
+        "sentences": [
+          {
+            "thai": "สังคมยุคนี้เปิดกว้างกับคนรักเพศเดียวกันมากขึ้น",
+            "en": "Society these days is more open toward homosexual people.",
+            "audio_src": "สังคมยุคนี้เปิดกว้างกับคนรักเพศเดียวกันมากขึ้น",
+            "audio_en_src": "Society these days is more open toward homosexual people."
+          },
+          {
+            "thai": "เขาเปิดเผยว่าเป็นคนรักเพศเดียวกันกับครอบครัว",
+            "en": "He came out as homosexual to his family.",
+            "audio_src": "เขาเปิดเผยว่าเป็นคนรักเพศเดียวกันกับครอบครัว",
+            "audio_en_src": "He came out as homosexual to his family."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-836",
@@ -48644,7 +48796,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to limp, to walk with a limp",
+        "sentences": [
+          {
+            "thai": "เขาเดินกะเผลกเพราะข้อเท้าแพลง",
+            "en": "He walks with a limp because he sprained his ankle.",
+            "audio_src": "เขาเดินกะเผลกเพราะข้อเท้าแพลง",
+            "audio_en_src": "He walks with a limp because he sprained his ankle."
+          },
+          {
+            "thai": "หมาตัวนั้นเดินกะเผลกเหมือนเจ็บขา",
+            "en": "That dog limps like its leg hurts.",
+            "audio_src": "หมาตัวนั้นเดินกะเผลกเหมือนเจ็บขา",
+            "audio_en_src": "That dog limps like its leg hurts."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-844",
@@ -48740,7 +48911,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "poor family, poor household",
+        "sentences": [
+          {
+            "thai": "เขาเกิดในบ้านจนแต่ขยันจนประสบความสำเร็จ",
+            "en": "He was born into a poor family but worked hard and succeeded.",
+            "audio_src": "เขาเกิดในบ้านจนแต่ขยันจนประสบความสำเร็จ",
+            "audio_en_src": "He was born into a poor family but worked hard and succeeded."
+          },
+          {
+            "thai": "เด็กจากบ้านจนได้ทุนเรียนต่อต่างประเทศ",
+            "en": "A child from a poor household got a scholarship to study abroad.",
+            "audio_src": "เด็กจากบ้านจนได้ทุนเรียนต่อต่างประเทศ",
+            "audio_en_src": "A child from a poor household got a scholarship to study abroad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-849",

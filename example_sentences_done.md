@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1964 words**
+**Total: 1974 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -962,8 +962,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-794` : กระจุก (cluster, tuft, small bunch) : 1 meaning(s), 2 sentences
 - `tamago-l3-795` : บีบคอ, รัดคอ (to strangle, to choke (someone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-796` : ถอดปลั๊ก (to unplug) : 1 meaning(s), 2 sentences
+- `tamago-l3-802` : บิด (to twist, to wring out, to turn) : 1 meaning(s), 2 sentences
+- `tamago-l3-803` : ยศ (rank, title (military, social)) : 1 meaning(s), 2 sentences
+- `tamago-l3-810` : ยึดติด (to cling to, to be attached to (emotionally)) : 1 meaning(s), 2 sentences
+- `tamago-l3-822` : หมั่น (to be diligent, to be persistent, to practice regularly) : 1 meaning(s), 2 sentences
+- `tamago-l3-823` : เตือนสติ (to bring back to one's senses, to remind of what's right) : 1 meaning(s), 2 sentences
+- `tamago-l3-826` : ต้นเหตุ (cause, source, root of (a problem)) : 1 meaning(s), 2 sentences
+- `tamago-l3-828` : ถอยห่าง (to step back, to distance oneself from) : 1 meaning(s), 2 sentences
+- `tamago-l3-835` : คนรักเพศเดียวกัน (homosexual person (literally one who loves the same sex)) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
+- `tamago-l3-843` : เดินกะเผลก (to limp, to walk with a limp) : 1 meaning(s), 2 sentences
 - `tamago-l3-847` : สู้ (to fight; "might as well", "wouldn't it be better if") : 2 meaning(s), 4 sentences
+- `tamago-l3-848` : บ้านจน (poor family, poor household) : 1 meaning(s), 2 sentences
 - `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences
 - `tsl-020` : แคบ (narrow) : 1 meaning(s), 2 sentences
 - `tsl-024` : แกง (curry; (slang) to tease, trick, prank) : 2 meaning(s), 4 sentences
