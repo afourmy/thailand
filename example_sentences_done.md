@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2453 words**
+**Total: 2463 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1517,8 +1517,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0952` : สถานะ (status, current state) : 1 meaning(s), 2 sentences
 - `thaipod-0956` : สถิติ (statistics) : 1 meaning(s), 2 sentences
 - `thaipod-0959` : สภาพ (condition, state) : 1 meaning(s), 2 sentences
+- `thaipod-0961` : สมจริง (truthful, realistic, lifelike) : 1 meaning(s), 2 sentences
+- `thaipod-0967` : สมัยใหม่ (modern) : 1 meaning(s), 2 sentences
+- `thaipod-0972` : สยองขวัญ (horror, terror) : 1 meaning(s), 2 sentences
+- `thaipod-0974` : สรุป (to summarize, to conclude) : 1 meaning(s), 2 sentences
 - `thaipod-0975` : สร้าง (to create, to build) : 1 meaning(s), 2 sentences
+- `thaipod-0977` : สละ (to give up, to renounce, to abdicate) : 1 meaning(s), 2 sentences
+- `thaipod-0982` : สวม (to wear, to put on (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0985` : สวัสดิการ (welfare, benefits) : 1 meaning(s), 2 sentences
+- `thaipod-0987` : สอนหนังสือ (to teach) : 1 meaning(s), 2 sentences
+- `thaipod-0988` : สอบคัดเลือก (entrance exam, selection exam) : 1 meaning(s), 2 sentences
 - `thaipod-0989` : สะดวก (convenient) : 1 meaning(s), 2 sentences
+- `thaipod-0990` : สะสม (to collect, to accumulate) : 1 meaning(s), 2 sentences
 - `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
 - `thaipod-1037` : สุดท้าย (finally, last) : 1 meaning(s), 2 sentences
 - `thaipod-1053` : หนู (rat, mouse; I (used by younger people)) : 2 meaning(s), 4 sentences
