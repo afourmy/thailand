@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2043 words**
+**Total: 2053 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1055,7 +1055,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-164` : สำรวจ (to survey, to explore, to inspect) : 1 meaning(s), 2 sentences
 - `tsl-165` : ส่งเสริม (to support, encourage, promote) : 1 meaning(s), 2 sentences
 - `tsl-167` : เนื้อผ้า (fabric, cloth texture) : 1 meaning(s), 2 sentences
+- `tsl-171` : แบบอย่าง (model, example, exemplar) : 1 meaning(s), 2 sentences
 - `tsl-177` : เล่นเฟซบุ๊ก - เล่นอินสตาแกรม (to use Facebook - Instagram) : 2 meaning(s), 4 sentences
+- `tsl-180` : ของแถม (freebie, free item (with a purchase)) : 1 meaning(s), 2 sentences
+- `tsl-181` : ชำรุด (broken, damaged, out of order) : 1 meaning(s), 2 sentences
+- `tsl-183` : ออกความคิด (to share an idea, to express an opinion) : 1 meaning(s), 2 sentences
+- `tsl-187` : เอ่ยถึง (to mention, to bring up, to refer to) : 1 meaning(s), 2 sentences
+- `tsl-202` : อนุมัติ (to approve) : 1 meaning(s), 2 sentences
+- `tsl-203` : ต่ออายุ (to renew, to extend (document, passport, etc)) : 1 meaning(s), 2 sentences
+- `tsl-204` : บัตรประจำตัวประชาชน (citizen ID card) : 1 meaning(s), 2 sentences
+- `tsl-207` : ป้อน (to feed (someone); to input (e.g data in a form)) : 2 meaning(s), 4 sentences
+- `tsl-208` : ประทับตรา (to stamp, to affix a seal) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
