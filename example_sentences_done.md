@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2073 words**
+**Total: 2083 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1086,6 +1086,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-257` : คาดการณ์ (to forecast, to predict, to extrapolate) : 1 meaning(s), 2 sentences
 - `tsl-258` : รับจ้าง (to accept a job (contract), to work as a freelancer) : 1 meaning(s), 2 sentences
 - `tsl-259` : มุ่ง (to aim at, to focus on, to head towards) : 1 meaning(s), 2 sentences
+- `tsl-285` : ยึดเกาะ (to cling, to adhere, to hold on) : 1 meaning(s), 2 sentences
+- `tsl-286` : ทรงตัว (to maintain balance, to stabilize) : 1 meaning(s), 2 sentences
+- `tsl-288` : คาดฝัน (to anticipate, to look forward to, to dream of) : 1 meaning(s), 2 sentences
+- `tsl-294` : สารพิษ (toxic substance, poison) : 1 meaning(s), 2 sentences
+- `tsl-297` : ปฏิบัติ (to carry out, to perform (duties)) : 1 meaning(s), 2 sentences
+- `tsl-298` : ของเสีย (waste (industrial, biological, defective product)) : 1 meaning(s), 2 sentences
+- `tsl-305` : ขอบเขต (boundary, scope, limit) : 1 meaning(s), 2 sentences
+- `tsl-306` : หน่วยย่อย (subunit, subdivision) : 1 meaning(s), 2 sentences
+- `tsl-309` : พรรคพวก (companions, associates, allies) : 1 meaning(s), 2 sentences
+- `tsl-312` : ราบรื่น (smooth, seamless, without obstacles) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
