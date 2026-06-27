@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2033 words**
+**Total: 2043 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1045,6 +1045,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-137` : ยอดฮิต (hit, most popular) : 1 meaning(s), 2 sentences
 - `tsl-141` : ได้รับอิทธิพล (to be influenced by) : 1 meaning(s), 2 sentences
 - `tsl-146` : บ้านๆ (simple, unpretentious, rustic, local) : 1 meaning(s), 2 sentences
+- `tsl-147` : เละเทะ (messy, chaotic, in complete disorder) : 1 meaning(s), 2 sentences
+- `tsl-150` : ป่าช้า (cemetery, burial ground (rural)) : 1 meaning(s), 2 sentences
+- `tsl-154` : หล่น (to drop, to fall (single object falling)) : 1 meaning(s), 2 sentences
+- `tsl-157` : รู (hole, small opening, cavity) : 1 meaning(s), 2 sentences
+- `tsl-159` : ติดแน่น (stuck firmly, tightly attached) : 1 meaning(s), 2 sentences
+- `tsl-162` : คุ้มค่า (worth it, worthwhile, good value) : 1 meaning(s), 2 sentences
+- `tsl-163` : สะดุดตา (eye-catching, striking) : 1 meaning(s), 2 sentences
+- `tsl-164` : สำรวจ (to survey, to explore, to inspect) : 1 meaning(s), 2 sentences
+- `tsl-165` : ส่งเสริม (to support, encourage, promote) : 1 meaning(s), 2 sentences
+- `tsl-167` : เนื้อผ้า (fabric, cloth texture) : 1 meaning(s), 2 sentences
 - `tsl-177` : เล่นเฟซบุ๊ก - เล่นอินสตาแกรม (to use Facebook - Instagram) : 2 meaning(s), 4 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences

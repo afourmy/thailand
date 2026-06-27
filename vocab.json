@@ -52334,7 +52334,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "messy, chaotic, in complete disorder",
+        "sentences": [
+          {
+            "thai": "หลังจัดงานเลี้ยง บ้านเละเทะไปหมด",
+            "en": "After the party, the house was a complete mess.",
+            "audio_src": "หลังจัดงานเลี้ยง บ้านเละเทะไปหมด",
+            "audio_en_src": "After the party, the house was a complete mess."
+          },
+          {
+            "thai": "งานออกมาเละเทะเพราะไม่มีการวางแผน",
+            "en": "The work turned out chaotic because there was no planning.",
+            "audio_src": "งานออกมาเละเทะเพราะไม่มีการวางแผน",
+            "audio_en_src": "The work turned out chaotic because there was no planning."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-148",
@@ -52368,7 +52387,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cemetery, burial ground (rural)",
+        "sentences": [
+          {
+            "thai": "ป่าช้าแถวนี้คนเชื่อว่ามีผีดุ",
+            "en": "People believe the cemetery around here has fierce ghosts.",
+            "audio_src": "ป่าช้าแถวนี้คนเชื่อว่ามีผีดุ",
+            "audio_en_src": "People believe the cemetery around here has fierce ghosts."
+          },
+          {
+            "thai": "ตอนกลางคืนไม่มีใครกล้าเดินผ่านป่าช้า",
+            "en": "At night no one dares to walk past the cemetery.",
+            "audio_src": "ตอนกลางคืนไม่มีใครกล้าเดินผ่านป่าช้า",
+            "audio_en_src": "At night no one dares to walk past the cemetery."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-151",
@@ -52412,7 +52450,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to drop, to fall (single object falling)",
+        "sentences": [
+          {
+            "thai": "เหรียญหล่นจากกระเป๋ากลิ้งไปใต้โต๊ะ",
+            "en": "A coin fell out of his pocket and rolled under the table.",
+            "audio_src": "เหรียญหล่นจากกระเป๋ากลิ้งไปใต้โต๊ะ",
+            "audio_en_src": "A coin fell out of his pocket and rolled under the table."
+          },
+          {
+            "thai": "ระวังโทรศัพท์หล่นลงพื้นนะ",
+            "en": "Be careful your phone doesn't drop on the floor.",
+            "audio_src": "ระวังโทรศัพท์หล่นลงพื้นนะ",
+            "audio_en_src": "Be careful your phone doesn't drop on the floor."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-155",
@@ -52447,7 +52504,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "hole, small opening, cavity",
+        "sentences": [
+          {
+            "thai": "ถุงเท้าเป็นรูตรงนิ้วโป้ง",
+            "en": "There's a hole in the sock at the big toe.",
+            "audio_src": "ถุงเท้าเป็นรูตรงนิ้วโป้ง",
+            "audio_en_src": "There's a hole in the sock at the big toe."
+          },
+          {
+            "thai": "หนูมุดเข้าไปในรูที่กำแพง",
+            "en": "The mouse slipped into a hole in the wall.",
+            "audio_src": "หนูมุดเข้าไปในรูที่กำแพง",
+            "audio_en_src": "The mouse slipped into a hole in the wall."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-159",
@@ -52459,7 +52535,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "stuck firmly, tightly attached",
+        "sentences": [
+          {
+            "thai": "สติกเกอร์ติดแน่นจนแกะออกยาก",
+            "en": "The sticker is stuck so firmly it's hard to peel off.",
+            "audio_src": "สติกเกอร์ติดแน่นจนแกะออกยาก",
+            "audio_en_src": "The sticker is stuck so firmly it's hard to peel off."
+          },
+          {
+            "thai": "ฝาขวดติดแน่นเปิดไม่ออกเลย",
+            "en": "The bottle cap is stuck tight, I can't open it.",
+            "audio_src": "ฝาขวดติดแน่นเปิดไม่ออกเลย",
+            "audio_en_src": "The bottle cap is stuck tight, I can't open it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-160",
@@ -52492,7 +52587,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "worth it, worthwhile, good value",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้อร่อยและราคาคุ้มค่า",
+            "en": "The food at this place is tasty and good value.",
+            "audio_src": "อาหารร้านนี้อร่อยและราคาคุ้มค่า",
+            "audio_en_src": "The food at this place is tasty and good value."
+          },
+          {
+            "thai": "ลงทุนเรียนภาษาเพิ่มถือว่าคุ้มค่า",
+            "en": "Investing in extra language classes is worthwhile.",
+            "audio_src": "ลงทุนเรียนภาษาเพิ่มถือว่าคุ้มค่า",
+            "audio_en_src": "Investing in extra language classes is worthwhile."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-163",
@@ -52505,7 +52619,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "eye-catching, striking",
+        "sentences": [
+          {
+            "thai": "ป้ายร้านสีสันสดใสสะดุดตาคนเดินผ่าน",
+            "en": "The shop's bright, colorful sign catches the eye of passersby.",
+            "audio_src": "ป้ายร้านสีสันสดใสสะดุดตาคนเดินผ่าน",
+            "audio_en_src": "The shop's bright, colorful sign catches the eye of passersby."
+          },
+          {
+            "thai": "เธอแต่งตัวสะดุดตาจนใครๆ ก็หันมอง",
+            "en": "She dressed so strikingly that everyone turned to look.",
+            "audio_src": "เธอแต่งตัวสะดุดตาจนใครๆ ก็หันมอง",
+            "audio_en_src": "She dressed so strikingly that everyone turned to look."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-164",
@@ -52519,7 +52652,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to survey, to explore, to inspect",
+        "sentences": [
+          {
+            "thai": "ทีมงานสำรวจพื้นที่ก่อนเริ่มก่อสร้าง",
+            "en": "The team surveyed the area before starting construction.",
+            "audio_src": "ทีมงานสำรวจพื้นที่ก่อนเริ่มก่อสร้าง",
+            "audio_en_src": "The team surveyed the area before starting construction."
+          },
+          {
+            "thai": "นักท่องเที่ยวออกสำรวจถ้ำลึกในป่า",
+            "en": "The tourists went to explore the deep cave in the forest.",
+            "audio_src": "นักท่องเที่ยวออกสำรวจถ้ำลึกในป่า",
+            "audio_en_src": "The tourists went to explore the deep cave in the forest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-165",
@@ -52533,7 +52685,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to support, encourage, promote",
+        "sentences": [
+          {
+            "thai": "โรงเรียนส่งเสริมให้นักเรียนเล่นกีฬา",
+            "en": "The school encourages students to play sports.",
+            "audio_src": "โรงเรียนส่งเสริมให้นักเรียนเล่นกีฬา",
+            "audio_en_src": "The school encourages students to play sports."
+          },
+          {
+            "thai": "รัฐบาลส่งเสริมการท่องเที่ยวในประเทศ",
+            "en": "The government promotes domestic tourism.",
+            "audio_src": "รัฐบาลส่งเสริมการท่องเที่ยวในประเทศ",
+            "audio_en_src": "The government promotes domestic tourism."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-166",
@@ -52557,7 +52728,26 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "fabric, cloth texture",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้เนื้อผ้านุ่มใส่สบาย",
+            "en": "This shirt's fabric is soft and comfortable to wear.",
+            "audio_src": "เสื้อตัวนี้เนื้อผ้านุ่มใส่สบาย",
+            "audio_en_src": "This shirt's fabric is soft and comfortable to wear."
+          },
+          {
+            "thai": "เนื้อผ้าฝ้ายระบายอากาศได้ดี",
+            "en": "Cotton fabric breathes well.",
+            "audio_src": "เนื้อผ้าฝ้ายระบายอากาศได้ดี",
+            "audio_en_src": "Cotton fabric breathes well."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-168",
