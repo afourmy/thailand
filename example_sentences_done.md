@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2433 words**
+**Total: 2443 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1493,8 +1493,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0891` : ละลาย (to dissolve, to melt) : 1 meaning(s), 2 sentences
 - `thaipod-0899` : ลาออก (to quit, to resign) : 1 meaning(s), 2 sentences
 - `thaipod-0913` : วรรณคดี, วรรณกรรม (literature) : 1 meaning(s), 2 sentences
+- `thaipod-0914` : วันจ่าย (spending day, shopping day (before a festival)) : 1 meaning(s), 2 sentences
+- `thaipod-0917` : วัย (age, era of life) : 1 meaning(s), 2 sentences
 - `thaipod-0918` : วัยรุ่น (teenager, adolescent) : 1 meaning(s), 2 sentences
+- `thaipod-0919` : วางแนวทาง (to set the course, to establish an approach) : 1 meaning(s), 2 sentences
+- `thaipod-0920` : วิชาเอก, สาขาเอก (academic major (university)) : 1 meaning(s), 2 sentences
+- `thaipod-0921` : วิทยุ (radio) : 1 meaning(s), 2 sentences
 - `thaipod-0922` : วิธี (way, method) : 1 meaning(s), 2 sentences
+- `thaipod-0923` : วิธีการ (method, procedure) : 1 meaning(s), 2 sentences
+- `thaipod-0926` : วิสัยทัศน์ (vision, foresight) : 1 meaning(s), 2 sentences
+- `thaipod-0927` : วุ่น, วุ่นวาย (chaotic, busy, hectic) : 1 meaning(s), 2 sentences
+- `thaipod-0930` : ศพ (corpse, body) : 1 meaning(s), 2 sentences
+- `thaipod-0933` : ศาลา (pavilion, sala (open-sided structure)) : 1 meaning(s), 2 sentences
 - `thaipod-0947` : สงสัย (to wonder, to suspect, to be curious) : 1 meaning(s), 3 sentences
 - `thaipod-0948` : สงสาร (to pity, to feel sorry for) : 1 meaning(s), 2 sentences
 - `thaipod-0975` : สร้าง (to create, to build) : 1 meaning(s), 2 sentences
