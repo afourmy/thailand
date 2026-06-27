@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2812 words**
+**Total: 2822 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1993,6 +1993,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-079` : เกาะติด (to cling to, to stick to) : 1 meaning(s), 2 sentences
 - `yt-c01-080` : สงบลง (to calm down, to settle down (about a situation)) : 1 meaning(s), 2 sentences
 - `yt-c01-083` : ฝึกฝน (to practice, to train) : 1 meaning(s), 2 sentences
+- `yt-c01-091` : ตัวเมือง (city center, downtown) : 1 meaning(s), 2 sentences
+- `yt-c01-093` : เลียนแบบ (to imitate, to mimic) : 1 meaning(s), 2 sentences
+- `yt-c01-095` : กล้องวงจรปิด (CCTV) : 1 meaning(s), 2 sentences
+- `yt-c02-006` : หนังยาง (rubber band) : 1 meaning(s), 2 sentences
+- `yt-c02-011` : ล้อเลียน (to mock, to imitate in a mocking way, to ridicule) : 1 meaning(s), 2 sentences
+- `yt-c02-014` : ทรงพลัง (powerful, mighty) : 1 meaning(s), 2 sentences
+- `yt-c02-016` : ระเบียบ (discipline, order) : 1 meaning(s), 2 sentences
+- `yt-c02-024` : นวัตกรรม (innovation) : 1 meaning(s), 2 sentences
+- `yt-c02-025` : ล้มเหลว (to fail, failure) : 1 meaning(s), 2 sentences
+- `yt-c02-026` : คัดออก (to eliminate, to disqualify, to screen out) : 1 meaning(s), 2 sentences
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
