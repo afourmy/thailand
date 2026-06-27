@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1954 words**
+**Total: 1964 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -950,8 +950,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-773` : ทางลบ (in a negative way) : 1 meaning(s), 2 sentences
 - `tamago-l3-775` : หลอกด่า (to insult someone indirectly) : 1 meaning(s), 2 sentences
 - `tamago-l3-776` : แกะ (to peel off, to unpack, to untie, to remove (a wrapping)) : 1 meaning(s), 2 sentences
+- `tamago-l3-777` : อุดม (abundant, rich in) : 1 meaning(s), 2 sentences
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
+- `tamago-l3-781` : ชุ่มชื้น (moisturized, hydrated) : 1 meaning(s), 2 sentences
+- `tamago-l3-783` : ประดิษฐ์ (to invent, to create something new) : 1 meaning(s), 2 sentences
+- `tamago-l3-786` : น่าเชื่อถือ (trustworthy, reliable, convincing) : 1 meaning(s), 2 sentences
+- `tamago-l3-787` : แพร่หลาย (widespread, prevalent) : 1 meaning(s), 2 sentences
 - `tamago-l3-790` : นักศึกษา (university student, college student) : 1 meaning(s), 2 sentences
+- `tamago-l3-791` : ทุ่นแรง (to save effort, to reduce labor) : 1 meaning(s), 2 sentences
+- `tamago-l3-792` : ทดลอง (to experiment, to test, to trial) : 1 meaning(s), 2 sentences
+- `tamago-l3-794` : กระจุก (cluster, tuft, small bunch) : 1 meaning(s), 2 sentences
+- `tamago-l3-795` : บีบคอ, รัดคอ (to strangle, to choke (someone)) : 1 meaning(s), 2 sentences
+- `tamago-l3-796` : ถอดปลั๊ก (to unplug) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
 - `tamago-l3-847` : สู้ (to fight; "might as well", "wouldn't it be better if") : 2 meaning(s), 4 sentences
 - `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences

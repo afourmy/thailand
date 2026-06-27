@@ -47668,7 +47668,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "abundant, rich in",
+        "sentences": [
+          {
+            "thai": "ดินแถบนี้อุดมไปด้วยแร่ธาตุ",
+            "en": "The soil in this area is rich in minerals.",
+            "audio_src": "ดินแถบนี้อุดมไปด้วยแร่ธาตุ",
+            "audio_en_src": "The soil in this area is rich in minerals."
+          },
+          {
+            "thai": "ผักใบเขียวอุดมด้วยวิตามิน",
+            "en": "Leafy greens are abundant in vitamins.",
+            "audio_src": "ผักใบเขียวอุดมด้วยวิตามิน",
+            "audio_en_src": "Leafy greens are abundant in vitamins."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-778",
@@ -47739,7 +47758,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "moisturized, hydrated",
+        "sentences": [
+          {
+            "thai": "ครีมนี้ช่วยให้ผิวชุ่มชื้นทั้งวัน",
+            "en": "This cream keeps the skin moisturized all day.",
+            "audio_src": "ครีมนี้ช่วยให้ผิวชุ่มชื้นทั้งวัน",
+            "audio_en_src": "This cream keeps the skin moisturized all day."
+          },
+          {
+            "thai": "ดื่มน้ำเยอะๆ ช่วยให้ผิวชุ่มชื้น",
+            "en": "Drinking lots of water keeps your skin hydrated.",
+            "audio_src": "ดื่มน้ำเยอะๆ ช่วยให้ผิวชุ่มชื้น",
+            "audio_en_src": "Drinking lots of water keeps your skin hydrated."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-782",
@@ -47764,7 +47802,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to invent, to create something new",
+        "sentences": [
+          {
+            "thai": "เขาประดิษฐ์เครื่องมือช่วยทำสวน",
+            "en": "He invented a tool to help with gardening.",
+            "audio_src": "เขาประดิษฐ์เครื่องมือช่วยทำสวน",
+            "audio_en_src": "He invented a tool to help with gardening."
+          },
+          {
+            "thai": "นักเรียนประดิษฐ์ของเล่นจากวัสดุเหลือใช้",
+            "en": "The students made toys from leftover materials.",
+            "audio_src": "นักเรียนประดิษฐ์ของเล่นจากวัสดุเหลือใช้",
+            "audio_en_src": "The students made toys from leftover materials."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-784",
@@ -47796,7 +47853,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "trustworthy, reliable, convincing",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนน่าเชื่อถือ พูดอะไรก็ทำตาม",
+            "en": "He's a trustworthy person, he does what he says.",
+            "audio_src": "เขาเป็นคนน่าเชื่อถือ พูดอะไรก็ทำตาม",
+            "audio_en_src": "He's a trustworthy person, he does what he says."
+          },
+          {
+            "thai": "ข้อมูลจากเว็บนี้น่าเชื่อถือ",
+            "en": "The information from this website is reliable.",
+            "audio_src": "ข้อมูลจากเว็บนี้น่าเชื่อถือ",
+            "audio_en_src": "The information from this website is reliable."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-787",
@@ -47810,7 +47886,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "widespread, prevalent",
+        "sentences": [
+          {
+            "thai": "การใช้สมาร์ทโฟนแพร่หลายไปทั่วโลก",
+            "en": "Smartphone use has become widespread all over the world.",
+            "audio_src": "การใช้สมาร์ทโฟนแพร่หลายไปทั่วโลก",
+            "audio_en_src": "Smartphone use has become widespread all over the world."
+          },
+          {
+            "thai": "อาหารไทยเป็นที่นิยมแพร่หลายในต่างประเทศ",
+            "en": "Thai food is widely popular abroad.",
+            "audio_src": "อาหารไทยเป็นที่นิยมแพร่หลายในต่างประเทศ",
+            "audio_en_src": "Thai food is widely popular abroad."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-788",
@@ -47879,7 +47974,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to save effort, to reduce labor",
+        "sentences": [
+          {
+            "thai": "เครื่องซักผ้าช่วยทุ่นแรงในการทำงานบ้าน",
+            "en": "The washing machine helps save effort with housework.",
+            "audio_src": "เครื่องซักผ้าช่วยทุ่นแรงในการทำงานบ้าน",
+            "audio_en_src": "The washing machine helps save effort with housework."
+          },
+          {
+            "thai": "ใช้รถเข็นทุ่นแรงตอนขนของหนัก",
+            "en": "Use a cart to save effort when moving heavy things.",
+            "audio_src": "ใช้รถเข็นทุ่นแรงตอนขนของหนัก",
+            "audio_en_src": "Use a cart to save effort when moving heavy things."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-792",
@@ -47894,7 +48008,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to experiment, to test, to trial",
+        "sentences": [
+          {
+            "thai": "นักวิทยาศาสตร์ทดลองยาตัวใหม่ในห้องแล็บ",
+            "en": "Scientists test the new drug in the lab.",
+            "audio_src": "นักวิทยาศาสตร์ทดลองยาตัวใหม่ในห้องแล็บ",
+            "audio_en_src": "Scientists test the new drug in the lab."
+          },
+          {
+            "thai": "เราลองทดลองสูตรอาหารใหม่กันดู",
+            "en": "Let's experiment with a new recipe.",
+            "audio_src": "เราลองทดลองสูตรอาหารใหม่กันดู",
+            "audio_en_src": "Let's experiment with a new recipe."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-793",
@@ -47917,7 +48050,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "cluster, tuft, small bunch",
+        "sentences": [
+          {
+            "thai": "ดอกไม้เล็กๆ ขึ้นเป็นกระจุกตามขอบทาง",
+            "en": "Tiny flowers grow in clusters along the path.",
+            "audio_src": "ดอกไม้เล็กๆ ขึ้นเป็นกระจุกตามขอบทาง",
+            "audio_en_src": "Tiny flowers grow in clusters along the path."
+          },
+          {
+            "thai": "ผมของเด็กพันกันเป็นกระจุก",
+            "en": "The kid's hair is tangled into a tuft.",
+            "audio_src": "ผมของเด็กพันกันเป็นกระจุก",
+            "audio_en_src": "The kid's hair is tangled into a tuft."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-795",
@@ -47930,7 +48082,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to strangle, to choke (someone)",
+        "sentences": [
+          {
+            "thai": "ในหนัง ผู้ร้ายบีบคอตัวประกัน",
+            "en": "In the movie, the villain strangled the hostage.",
+            "audio_src": "ในหนัง ผู้ร้ายบีบคอตัวประกัน",
+            "audio_en_src": "In the movie, the villain strangled the hostage."
+          },
+          {
+            "thai": "เน็กไทรัดคอแน่นจนหายใจไม่สะดวก",
+            "en": "The necktie is choking my neck so tightly I can't breathe easily.",
+            "audio_src": "เน็กไทรัดคอแน่นจนหายใจไม่สะดวก",
+            "audio_en_src": "The necktie is choking my neck so tightly I can't breathe easily."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-796",
@@ -47942,7 +48113,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to unplug",
+        "sentences": [
+          {
+            "thai": "ก่อนทำความสะอาด ต้องถอดปลั๊กเครื่องก่อน",
+            "en": "Before cleaning, you have to unplug the device first.",
+            "audio_src": "ก่อนทำความสะอาด ต้องถอดปลั๊กเครื่องก่อน",
+            "audio_en_src": "Before cleaning, you have to unplug the device first."
+          },
+          {
+            "thai": "อย่าลืมถอดปลั๊กเตารีดหลังใช้เสร็จ",
+            "en": "Don't forget to unplug the iron after using it.",
+            "audio_src": "อย่าลืมถอดปลั๊กเตารีดหลังใช้เสร็จ",
+            "audio_en_src": "Don't forget to unplug the iron after using it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-798",
