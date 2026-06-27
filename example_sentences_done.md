@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2663 words**
+**Total: 2673 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1824,6 +1824,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-253` : เอาชนะ (to overcome, to defeat) : 1 meaning(s), 2 sentences
 - `tobo-254` : พื้นหลัง (background (image, context)) : 1 meaning(s), 2 sentences
 - `tobo-255` : จุดสูงสุด (peak, summit, highest point) : 1 meaning(s), 2 sentences
+- `tobo-257` : ดูดฝุ่น (to vacuum clean) : 1 meaning(s), 2 sentences
+- `tobo-258` : ปฏิกิริยา (reaction) : 1 meaning(s), 2 sentences
+- `tobo-259` : แหล่งที่มา (source, origin) : 1 meaning(s), 2 sentences
+- `tobo-260` : เพิ่มเป็นสองเท่า (to double) : 1 meaning(s), 2 sentences
+- `tobo-261` : เล่นไพ่ (to play cards) : 1 meaning(s), 2 sentences
+- `tobo-264` : น่าตกใจ (shocking) : 1 meaning(s), 2 sentences
+- `tobo-267` : ทฤษฎี (theory) : 1 meaning(s), 2 sentences
+- `tobo-268` : นอนเกินเวลา (to oversleep) : 1 meaning(s), 2 sentences
+- `tobo-270` : คอลเลกชัน (collection) : 1 meaning(s), 2 sentences
+- `tobo-271` : อำนาจ (power, authority) : 1 meaning(s), 2 sentences
 - `tobo-297` : กระทะ (pan, frying pan) : 1 meaning(s), 2 sentences
 - `tobo-319` : เป้าหมาย (target, goal) : 1 meaning(s), 2 sentences
 - `tobo-326` : แตก (broken, to break) : 1 meaning(s), 2 sentences
