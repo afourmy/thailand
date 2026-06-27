@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2333 words**
+**Total: 2343 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1376,7 +1376,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0476` : นักวิชาการ (scholar, academic) : 1 meaning(s), 2 sentences
 - `thaipod-0481` : นาข้าว (rice field, paddy) : 1 meaning(s), 2 sentences
 - `thaipod-0489` : นานาชาติ (international) : 1 meaning(s), 2 sentences
+- `thaipod-0490` : นาม (name, appellation (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0491` : นำทาง (to guide, to lead the way) : 1 meaning(s), 2 sentences
+- `thaipod-0493` : นำแสดง (to star in, to play the lead role (movie, show)) : 1 meaning(s), 2 sentences
+- `thaipod-0495` : นิยม (popular, in favor) : 1 meaning(s), 2 sentences
+- `thaipod-0496` : นิยาย (novel, fiction) : 1 meaning(s), 2 sentences
 - `thaipod-0498` : นิสัย (habit, behavior, character) : 1 meaning(s), 2 sentences
+- `thaipod-0499` : น่าชื่นชม (admirable, praiseworthy) : 1 meaning(s), 2 sentences
+- `thaipod-0500` : น่าดึงดูด (attractive, appealing) : 1 meaning(s), 2 sentences
+- `thaipod-0508` : บทบาท (role (in a play, story, society)) : 1 meaning(s), 2 sentences
+- `thaipod-0518` : บริเวณ (area, neighborhood, vicinity) : 1 meaning(s), 2 sentences
+- `thaipod-0519` : บังคับ (to force, to compel, mandatory) : 1 meaning(s), 2 sentences
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
 - `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
 - `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
