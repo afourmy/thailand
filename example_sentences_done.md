@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2942 words**
+**Total: 2952 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2126,7 +2126,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-030` : มีสาระ (to be useful, meaningful, informative) : 1 meaning(s), 2 sentences
 - `yt-c07-035` : กวัก, กวักมือ (to beckon, to gesture someone to come closer) : 1 meaning(s), 2 sentences
 - `yt-c07-036` : ขาตั้ง (tripod, (supporting) stand (of a motosai, camera, etc)) : 1 meaning(s), 2 sentences
+- `yt-c07-044` : ที่มาที่ไป (origin, history, background, how something came to be) : 1 meaning(s), 2 sentences
+- `yt-c07-051` : ใส (clear, transparent) : 1 meaning(s), 2 sentences
+- `yt-c07-056` : ถ่ายเอกสาร (to photocopy a document) : 1 meaning(s), 2 sentences
+- `yt-c07-058` : สบู่ก้อน (bar soap) : 1 meaning(s), 2 sentences
+- `yt-c07-067` : กระสอบ (sack, bag (e.g made of sand for training, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
+- `yt-c07-073` : เร่งรีบ (rushed, in a hurry, hastily) : 1 meaning(s), 2 sentences
+- `yt-c07-076` : ประกอบกัน (to combine, to be put together) : 1 meaning(s), 2 sentences
+- `yt-c07-082` : ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน (upper class - middle class - working class) : 1 meaning(s), 2 sentences
+- `yt-c07-088` : อนุสาวรีย์ (monument, memorial) : 1 meaning(s), 2 sentences
+- `yt-c08-004` : ติดตัว (to carry on oneself; (figuratively) innate, ingrained) : 2 meaning(s), 4 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
