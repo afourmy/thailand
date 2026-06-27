@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2383 words**
+**Total: 2393 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1436,6 +1436,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
 - `thaipod-0721` : พวก (group, bunch (of people)) : 1 meaning(s), 2 sentences
 - `thaipod-0722` : พอง (swollen, inflated, puffed up) : 1 meaning(s), 2 sentences
+- `thaipod-0723` : พอสมควร (reasonable, moderate, fairly) : 1 meaning(s), 2 sentences
+- `thaipod-0725` : พัฒนา (to develop) : 1 meaning(s), 2 sentences
+- `thaipod-0727` : พับขา (to sit cross-legged, rolled up legs) : 1 meaning(s), 2 sentences
+- `thaipod-0729` : พิจารณา (to consider, to examine) : 1 meaning(s), 2 sentences
+- `thaipod-0733` : พิสูจน์ (to prove) : 1 meaning(s), 2 sentences
+- `thaipod-0735` : พื้นฐาน (foundation, basic, fundamental) : 1 meaning(s), 2 sentences
+- `thaipod-0736` : พื้นที่ (area, space) : 1 meaning(s), 2 sentences
+- `thaipod-0737` : พื้นเมือง (native, indigenous, local) : 1 meaning(s), 2 sentences
+- `thaipod-0741` : พ่ายแพ้ (to be defeated, to lose (battle, war)) : 1 meaning(s), 2 sentences
+- `thaipod-0743` : ฟัน (tooth, teeth; to cut, to slash, to chop) : 2 meaning(s), 4 sentences
 - `thaipod-0757` : ภูมิใจ (proud of) : 1 meaning(s), 2 sentences
 - `thaipod-0777` : มากมาย (many, plenty, abundant) : 1 meaning(s), 2 sentences
 - `thaipod-0789` : ยอม (to agree, to give in, to admit) : 1 meaning(s), 3 sentences
