@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2403 words**
+**Total: 2413 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1460,7 +1460,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0789` : ยอม (to agree, to give in, to admit) : 1 meaning(s), 3 sentences
 - `thaipod-0790` : ยอมรับ (to admit, to accept, to acknowledge) : 1 meaning(s), 2 sentences
 - `thaipod-0794` : ยังไง (anyway, how) : 1 meaning(s), 3 sentences
+- `thaipod-0803` : ยิ่งใหญ่ (great, magnificent, grandiose) : 1 meaning(s), 2 sentences
+- `thaipod-0808` : ยุทธศาสตร์ (strategy, strategic plan) : 1 meaning(s), 2 sentences
+- `thaipod-0810` : ย่อ (short, to shorten, abbreviated) : 1 meaning(s), 2 sentences
+- `thaipod-0811` : ย่านการค้า (commercial area, business district) : 1 meaning(s), 2 sentences
 - `thaipod-0814` : รถติด (traffic jam) : 1 meaning(s), 2 sentences
+- `thaipod-0818` : รบ, สู้รบ (to fight, to battle) : 1 meaning(s), 2 sentences
+- `thaipod-0819` : รวบรวม (to compile, to gather, to unify) : 1 meaning(s), 2 sentences
+- `thaipod-0827` : รอยต่อ (joint, connection point) : 1 meaning(s), 2 sentences
+- `thaipod-0828` : รอยสัก, สัก (tattoo) : 1 meaning(s), 2 sentences
+- `thaipod-0829` : รอยเท้า (footprint) : 1 meaning(s), 2 sentences
+- `thaipod-0830` : รอยแตก (crack, fracture) : 1 meaning(s), 2 sentences
 - `thaipod-0835` : ระหว่าง (during, between) : 2 meaning(s), 4 sentences
 - `thaipod-0880` : ร้าน, ร้านค้า (shop, store) : 1 meaning(s), 2 sentences
 - `thaipod-0918` : วัยรุ่น (teenager, adolescent) : 1 meaning(s), 2 sentences
