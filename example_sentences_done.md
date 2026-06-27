@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2733 words**
+**Total: 2743 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1906,6 +1906,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-388` : ทางเลือก (option, choice) : 1 meaning(s), 2 sentences
 - `tobo-390` : หายใจ (to breathe) : 1 meaning(s), 2 sentences
 - `tobo-392` : การฆ่าตัวตาย (suicide) : 1 meaning(s), 2 sentences
+- `tobo-394` : นายกเทศมนตรี (mayor) : 1 meaning(s), 2 sentences
+- `tobo-395` : ขีดจำกัด (limit) : 1 meaning(s), 2 sentences
+- `tobo-396` : ให้รางวัล (to reward, to give a reward) : 1 meaning(s), 2 sentences
+- `tobo-399` : ยืด (to stretch) : 1 meaning(s), 2 sentences
+- `tobo-400` : ประกัน (insurance, guarantee) : 1 meaning(s), 2 sentences
+- `tobo-402` : ภัยพิบัติ (disaster) : 1 meaning(s), 2 sentences
+- `tobo-404` : มิตรภาพ (friendship) : 1 meaning(s), 2 sentences
+- `tobo-405` : ผู้อพยพ (immigrant, migrant) : 1 meaning(s), 2 sentences
+- `tobo-406` : รัฐมนตรี (minister (government)) : 1 meaning(s), 2 sentences
+- `tobo-410` : เจ้าของ (owner) : 1 meaning(s), 2 sentences
 - `tobo-412` : โสด (single (unmarried)) : 1 meaning(s), 2 sentences
 - `tobo-414` : ห้องนั่งเล่น, ห้องรับแขก (living room) : 1 meaning(s), 2 sentences
 - `tobo-442` : มหาวิทยาลัย (university; campus) : 2 meaning(s), 4 sentences
