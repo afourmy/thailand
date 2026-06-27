@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2703 words**
+**Total: 2713 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1868,9 +1868,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-332` : ปรารถนา (to wish, to desire) : 1 meaning(s), 2 sentences
 - `tobo-333` : ไหล (to flow) : 1 meaning(s), 2 sentences
 - `tobo-334` : ทำลาย (to destroy, to break) : 1 meaning(s), 2 sentences
+- `tobo-335` : ประสบความสำเร็จ (to succeed, to be successful) : 1 meaning(s), 2 sentences
+- `tobo-336` : เสียสละ (to sacrifice) : 1 meaning(s), 2 sentences
+- `tobo-338` : พลเมือง (citizen) : 1 meaning(s), 2 sentences
+- `tobo-340` : กิจวัตร (routine) : 1 meaning(s), 2 sentences
+- `tobo-341` : เนื้อหา (content (of a text, video)) : 1 meaning(s), 2 sentences
 - `tobo-342` : ปากกา (pen) : 1 meaning(s), 2 sentences
+- `tobo-345` : ข่าวลือ (rumor) : 1 meaning(s), 2 sentences
+- `tobo-346` : ความบันเทิง (entertainment) : 1 meaning(s), 2 sentences
 - `tobo-348` : กระเป๋าตังค์, กระเป๋าสตางค์ (wallet) : 1 meaning(s), 2 sentences
 - `tobo-349` : อดีต (the past) : 1 meaning(s), 2 sentences
+- `tobo-350` : เชิงบวก (positive) : 1 meaning(s), 2 sentences
+- `tobo-351` : เชิงลบ (negative) : 1 meaning(s), 2 sentences
+- `tobo-352` : จินตนาการ (imagination) : 1 meaning(s), 2 sentences
 - `tobo-366` : เต็ม (full) : 1 meaning(s), 2 sentences
 - `tobo-370` : คอ (neck) : 1 meaning(s), 2 sentences
 - `tobo-375` : ล้อเล่น (to joke, to kid around) : 1 meaning(s), 2 sentences
