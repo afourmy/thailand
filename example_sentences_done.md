@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2852 words**
+**Total: 2862 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2036,6 +2036,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
 - `yt-c03-087` : แฟ้ม (folder, file) : 1 meaning(s), 2 sentences
 - `yt-c03-088` : หนีบ (to clip, to pinch, to clamp) : 1 meaning(s), 2 sentences
+- `yt-c03-089` : ปก (cover (e.g of a book, a folder)) : 1 meaning(s), 2 sentences
+- `yt-c03-091` : กรีด (to scream; to cut, slit) : 2 meaning(s), 4 sentences
+- `yt-c03-095` : เสื่อ (mat) : 1 meaning(s), 2 sentences
+- `yt-c03-097` : พับ (to fold) : 1 meaning(s), 2 sentences
+- `yt-c04-002` : ทำสวน (to do gardening) : 1 meaning(s), 2 sentences
+- `yt-c04-005` : วิพากษ์วิจารณ์ (to criticize, to judge, to comment) : 1 meaning(s), 2 sentences
+- `yt-c04-006` : ม้วน (to roll, to curl, roll, classifier for rolled items (e.g toilet paper)) : 1 meaning(s), 2 sentences
+- `yt-c04-012` : สอด (to insert in, to slip into (an object, usually a small space)) : 1 meaning(s), 2 sentences
+- `yt-c04-019` : ปาด (to swipe, to wipe, to cut across (quick motion)) : 1 meaning(s), 2 sentences
+- `yt-c04-022` : ละเอียดอ่อน (delicate, sensitive) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
