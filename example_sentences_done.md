@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2793 words**
+**Total: 2802 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1974,6 +1974,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-513` : หูฟัง (headphones, earphones) : 1 meaning(s), 2 sentences
 - `tobo-514` : ข้อยกเว้น (exception) : 1 meaning(s), 2 sentences
 - `tobo-515` : หนี้ (debt) : 1 meaning(s), 2 sentences
+- `tobo-516` : มุมมอง (perspective, point of view) : 1 meaning(s), 2 sentences
+- `tobo-517` : ประกาศนียบัตร (diploma, certificate) : 1 meaning(s), 2 sentences
+- `tobo-519` : สำนักงานใหญ่ (headquarters, main office) : 1 meaning(s), 2 sentences
+- `yt-c01-002` : บริหาร (to administer, manage) : 1 meaning(s), 2 sentences
+- `yt-c01-005` : เฉพาะเจาะจง (specific) : 1 meaning(s), 2 sentences
+- `yt-c01-008` : แบ่งปัน (to share with others (e.g food, experience)) : 1 meaning(s), 2 sentences
+- `yt-c01-019` : สัญชาติ (nationality) : 1 meaning(s), 2 sentences
+- `yt-c01-023` : สังสรรค์ (to get together, to socialize) : 1 meaning(s), 2 sentences
+- `yt-c01-026` : เสียบ (to plug in, to insert) : 1 meaning(s), 2 sentences
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
