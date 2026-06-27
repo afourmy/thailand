@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2653 words**
+**Total: 2663 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1812,8 +1812,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-231` : วัว (cow) : 1 meaning(s), 2 sentences
 - `tobo-233` : สัตว์ประหลาด (monster) : 1 meaning(s), 2 sentences
 - `tobo-234` : หลุมฝังศพ (grave, tomb) : 1 meaning(s), 2 sentences
+- `tobo-235` : เปลือก (shell, peel, bark) : 1 meaning(s), 2 sentences
+- `tobo-236` : ยาพิษ (poison) : 1 meaning(s), 2 sentences
+- `tobo-240` : มังกร (dragon) : 1 meaning(s), 2 sentences
 - `tobo-244` : เส้น (line, thread, string) : 1 meaning(s), 3 sentences
+- `tobo-245` : ช่างไฟ, ช่างไฟฟ้า (electrician) : 1 meaning(s), 2 sentences
 - `tobo-246` : จุด (point, dot, spot) : 1 meaning(s), 2 sentences
+- `tobo-248` : โหล (dozen) : 1 meaning(s), 2 sentences
+- `tobo-249` : ตะกร้า (basket) : 1 meaning(s), 2 sentences
+- `tobo-250` : รายงาน (to report, report) : 1 meaning(s), 2 sentences
+- `tobo-253` : เอาชนะ (to overcome, to defeat) : 1 meaning(s), 2 sentences
+- `tobo-254` : พื้นหลัง (background (image, context)) : 1 meaning(s), 2 sentences
+- `tobo-255` : จุดสูงสุด (peak, summit, highest point) : 1 meaning(s), 2 sentences
 - `tobo-297` : กระทะ (pan, frying pan) : 1 meaning(s), 2 sentences
 - `tobo-319` : เป้าหมาย (target, goal) : 1 meaning(s), 2 sentences
 - `tobo-326` : แตก (broken, to break) : 1 meaning(s), 2 sentences
