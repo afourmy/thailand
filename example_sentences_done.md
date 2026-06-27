@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2553 words**
+**Total: 2563 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1662,8 +1662,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1380` : โรงเรียนประจำ (boarding school) : 1 meaning(s), 2 sentences
 - `thaipod-1391` : ใจร้อน (impatient, hot-tempered) : 1 meaning(s), 2 sentences
 - `thaipod-1392` : ใจเย็นๆ ("cool down", "take it easy") : 1 meaning(s), 2 sentences
+- `thaipod-1399` : ในทางทฤษฎี (in theory) : 1 meaning(s), 2 sentences
+- `thaipod-1402` : ในอำนาจ (in power) : 1 meaning(s), 2 sentences
+- `thaipod-1406` : ใหญ่โต (huge, enormous) : 1 meaning(s), 2 sentences
+- `thaipod-1411` : ไต่ (to climb, to crawl along a surface (carefully, gradually)) : 1 meaning(s), 2 sentences
+- `thaipod-1422` : ไร้เหตุผล (illogical, unreasonable) : 1 meaning(s), 2 sentences
+- `thaipod-1425` : ไล่ออก (to fire, to lay off) : 1 meaning(s), 2 sentences
 - `thaipod-1429` : ไหว้ (to wai (Thai greeting); to pay respect, to worship) : 1 meaning(s), 2 sentences
+- `thaipod-1430` : ไอ (to cough; vapor, steam) : 2 meaning(s), 4 sentences
+- `tobo-002` : การปฏิวัติ (revolution) : 1 meaning(s), 2 sentences
 - `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
+- `tobo-008` : เหยื่อ (victim; bait) : 2 meaning(s), 4 sentences
+- `tobo-009` : ลบ (to subtract, to delete; negative) : 2 meaning(s), 4 sentences
 - `tobo-016` : กระดูก (bone) : 1 meaning(s), 2 sentences
 - `tobo-018` : หน้าต่าง (window) : 1 meaning(s), 2 sentences
 - `tobo-019` : ป่า (forest; wild) : 2 meaning(s), 4 sentences
