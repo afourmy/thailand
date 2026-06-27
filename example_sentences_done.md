@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2783 words**
+**Total: 2793 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1960,9 +1960,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-482` : ติดต่อได้ (contagious; reachable) : 2 meaning(s), 4 sentences
 - `tobo-483` : ไม่เกิดผล (ineffective, having no result) : 1 meaning(s), 2 sentences
 - `tobo-484` : สวนสนุก (amusement park, theme park) : 1 meaning(s), 2 sentences
+- `tobo-485` : ภาระ (burden, responsibility) : 1 meaning(s), 2 sentences
+- `tobo-490` : อัตโนมัติ (automatic) : 1 meaning(s), 2 sentences
 - `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
+- `tobo-494` : แนวคิด (concept, idea) : 1 meaning(s), 2 sentences
 - `tobo-498` : แผนที่ (map) : 1 meaning(s), 2 sentences
+- `tobo-501` : ต่างหู, ตุ้มหู (earring) : 1 meaning(s), 2 sentences
+- `tobo-503` : โปร่งใส (transparent) : 1 meaning(s), 2 sentences
+- `tobo-509` : รอด, รอดชีวิต (to survive) : 1 meaning(s), 2 sentences
+- `tobo-510` : รหัสผ่าน (password) : 1 meaning(s), 2 sentences
+- `tobo-511` : ที่โกนหนวด, มีดโกน (razor) : 1 meaning(s), 2 sentences
 - `tobo-512` : ไฟฟ้า (electricity) : 1 meaning(s), 2 sentences
+- `tobo-513` : หูฟัง (headphones, earphones) : 1 meaning(s), 2 sentences
+- `tobo-514` : ข้อยกเว้น (exception) : 1 meaning(s), 2 sentences
 - `tobo-515` : หนี้ (debt) : 1 meaning(s), 2 sentences
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
