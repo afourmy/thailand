@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2643 words**
+**Total: 2653 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1801,7 +1801,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-214` : อารมณ์ (emotion, mood) : 1 meaning(s), 2 sentences
 - `tobo-215` : ยิง (to shoot) : 1 meaning(s), 2 sentences
 - `tobo-216` : มนุษย์ต่างดาว (alien (extraterrestrial)) : 1 meaning(s), 2 sentences
+- `tobo-218` : บทเรียน (lesson) : 1 meaning(s), 2 sentences
+- `tobo-219` : ความเสี่ยง (risk) : 1 meaning(s), 2 sentences
+- `tobo-220` : ฝันร้าย (nightmare) : 1 meaning(s), 2 sentences
+- `tobo-221` : คำเตือน (warning) : 1 meaning(s), 2 sentences
+- `tobo-224` : อุปกรณ์ (equipment, device) : 1 meaning(s), 2 sentences
+- `tobo-225` : วิทยาศาสตร์ (science) : 1 meaning(s), 2 sentences
+- `tobo-228` : รูปปั้น (statue) : 1 meaning(s), 2 sentences
+- `tobo-229` : ขุด (to dig) : 1 meaning(s), 2 sentences
 - `tobo-231` : วัว (cow) : 1 meaning(s), 2 sentences
+- `tobo-233` : สัตว์ประหลาด (monster) : 1 meaning(s), 2 sentences
+- `tobo-234` : หลุมฝังศพ (grave, tomb) : 1 meaning(s), 2 sentences
 - `tobo-244` : เส้น (line, thread, string) : 1 meaning(s), 3 sentences
 - `tobo-246` : จุด (point, dot, spot) : 1 meaning(s), 2 sentences
 - `tobo-297` : กระทะ (pan, frying pan) : 1 meaning(s), 2 sentences
