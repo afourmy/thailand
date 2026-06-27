@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2353 words**
+**Total: 2363 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1397,10 +1397,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0548` : ประการ (point, aspect, matter (formal classifier for reasons or items in a list)) : 1 meaning(s), 2 sentences
 - `thaipod-0551` : ประชากร (population) : 1 meaning(s), 2 sentences
 - `thaipod-0552` : ประชาชน (the people, populace, citizens) : 1 meaning(s), 2 sentences
+- `thaipod-0560` : ประวัติความเป็นมา (historical background) : 1 meaning(s), 2 sentences
+- `thaipod-0561` : ประวัติศาสตร์ (history (as a discipline)) : 1 meaning(s), 2 sentences
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
 - `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
+- `thaipod-0567` : ปรับ, ปรับปรุง (to adjust, adapt, improve) : 1 meaning(s), 2 sentences
+- `thaipod-0570` : ปรึกษา (to consult, to seek advice) : 1 meaning(s), 2 sentences
+- `thaipod-0571` : ปลด (to release, to remove (from a position), to dismiss) : 1 meaning(s), 2 sentences
+- `thaipod-0576` : ปลายทาง (destination, end of the route) : 1 meaning(s), 2 sentences
+- `thaipod-0577` : ปลูกฝัง (to instill, to cultivate (values, ideas)) : 1 meaning(s), 2 sentences
 - `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
+- `thaipod-0584` : ปัจจุบัน (present, current) : 1 meaning(s), 2 sentences
+- `thaipod-0586` : ปั้น (to sculpt, to mold (clay, sculpture)) : 1 meaning(s), 2 sentences
 - `thaipod-0588` : ปากซอย (entrance of a soi (small street)) : 1 meaning(s), 2 sentences
+- `thaipod-0590` : ปิดล้อม (to enclose, to surround, to besiege) : 1 meaning(s), 2 sentences
 - `thaipod-0626` : ผ่าน (to pass; through, via) : 2 meaning(s), 4 sentences
 - `thaipod-0643` : พยายาม (to try, to attempt) : 1 meaning(s), 2 sentences
 - `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
