@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2513 words**
+**Total: 2523 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1596,9 +1596,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1186` : เจริญก้าวหน้า (to prosper, to progress, to advance) : 1 meaning(s), 2 sentences
 - `thaipod-1195` : เชือก (rope) : 1 meaning(s), 2 sentences
 - `thaipod-1197` : เชื่อม (to connect, to join, to weld) : 1 meaning(s), 2 sentences
+- `thaipod-1198` : เชื่อมต่อ (to connect, to link up) : 1 meaning(s), 2 sentences
+- `thaipod-1199` : เช็ดตัว (to dry off, to wipe the body) : 1 meaning(s), 2 sentences
+- `thaipod-1203` : เดินเท้า (to walk, to go on foot) : 1 meaning(s), 2 sentences
+- `thaipod-1207` : เตือน (to warn, to remind) : 1 meaning(s), 2 sentences
 - `thaipod-1209` : เถอะ (let's, suggestive particle) : 1 meaning(s), 2 sentences
+- `thaipod-1215` : เทียน (candle) : 1 meaning(s), 2 sentences
+- `thaipod-1217` : เท่ (cool, stylish) : 1 meaning(s), 2 sentences
 - `thaipod-1218` : เท่านั้น (only, just) : 1 meaning(s), 2 sentences
+- `thaipod-1221` : เนื้อที่ (area, space (especially for land)) : 1 meaning(s), 2 sentences
 - `thaipod-1223` : เบา (light; gently, softly) : 2 meaning(s), 4 sentences
+- `thaipod-1224` : เบื้องล่าง (below, underneath) : 1 meaning(s), 2 sentences
+- `thaipod-1227` : เปิดทาง (to make way, to clear the path) : 1 meaning(s), 2 sentences
+- `thaipod-1228` : เปิดรับสมัคร (open for applications, taking applications) : 1 meaning(s), 2 sentences
 - `thaipod-1243` : เพื่อ (for, in order to) : 1 meaning(s), 2 sentences
 - `thaipod-1247` : เมื่อก่อน (previously, in the past) : 1 meaning(s), 2 sentences
 - `thaipod-1249` : เริ่ม, เริ่มต้น (to begin, to start) : 1 meaning(s), 2 sentences
