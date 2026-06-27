@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2713 words**
+**Total: 2723 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1881,8 +1881,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-350` : เชิงบวก (positive) : 1 meaning(s), 2 sentences
 - `tobo-351` : เชิงลบ (negative) : 1 meaning(s), 2 sentences
 - `tobo-352` : จินตนาการ (imagination) : 1 meaning(s), 2 sentences
+- `tobo-354` : บรรยากาศ (atmosphere, ambiance) : 1 meaning(s), 2 sentences
+- `tobo-355` : ตรงเวลา (punctual, on time) : 1 meaning(s), 2 sentences
+- `tobo-356` : การเป็นสมาชิก (membership) : 1 meaning(s), 2 sentences
+- `tobo-358` : ขัดจังหวะ (to interrupt, to disturb the flow) : 1 meaning(s), 2 sentences
+- `tobo-362` : ความรุนแรง (violence) : 1 meaning(s), 2 sentences
+- `tobo-364` : ปฏิสัมพันธ์ (interaction) : 1 meaning(s), 2 sentences
 - `tobo-366` : เต็ม (full) : 1 meaning(s), 2 sentences
+- `tobo-367` : นักแสดง (actor) : 1 meaning(s), 2 sentences
+- `tobo-368` : ลำดับความสำคัญ (priority) : 1 meaning(s), 2 sentences
+- `tobo-369` : ข้อตกลง (agreement) : 1 meaning(s), 2 sentences
 - `tobo-370` : คอ (neck) : 1 meaning(s), 2 sentences
+- `tobo-373` : กับดัก (trap) : 1 meaning(s), 2 sentences
 - `tobo-375` : ล้อเล่น (to joke, to kid around) : 1 meaning(s), 2 sentences
 - `tobo-379` : สัตว์เลี้ยง (pet) : 1 meaning(s), 2 sentences
 - `tobo-390` : หายใจ (to breathe) : 1 meaning(s), 2 sentences
