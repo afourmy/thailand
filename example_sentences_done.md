@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2253 words**
+**Total: 2263 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1277,6 +1277,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0167` : คลอง, ลำคลอง (canal, small waterway) : 1 meaning(s), 2 sentences
 - `thaipod-0169` : คลาย (to loosen, to relieve, to ease) : 1 meaning(s), 2 sentences
 - `thaipod-0185` : ความมีชีวิตชีวา (vitality, liveliness) : 1 meaning(s), 2 sentences
+- `thaipod-0189` : ความลึกลับ (mystery, mysteriousness) : 1 meaning(s), 2 sentences
+- `thaipod-0199` : ความเป็นมา (background, history (of something)) : 1 meaning(s), 2 sentences
+- `thaipod-0203` : ความแท้จริง (authenticity, genuineness) : 1 meaning(s), 2 sentences
+- `thaipod-0206` : ความไม่มั่นคง (instability, insecurity) : 1 meaning(s), 2 sentences
+- `thaipod-0208` : คัดเลือก (to select, to choose) : 1 meaning(s), 2 sentences
+- `thaipod-0211` : คาดหวัง (to expect, to hope for) : 1 meaning(s), 2 sentences
+- `thaipod-0212` : คำกล่าว (saying, statement, adage) : 1 meaning(s), 2 sentences
+- `thaipod-0213` : คำขอ (request, application, petition) : 1 meaning(s), 2 sentences
+- `thaipod-0217` : คึกคัก (lively, bustling) : 1 meaning(s), 2 sentences
+- `thaipod-0219` : คุกเข่า (to kneel) : 1 meaning(s), 2 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
