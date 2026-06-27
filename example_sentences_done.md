@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2463 words**
+**Total: 2473 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1529,6 +1529,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0988` : สอบคัดเลือก (entrance exam, selection exam) : 1 meaning(s), 2 sentences
 - `thaipod-0989` : สะดวก (convenient) : 1 meaning(s), 2 sentences
 - `thaipod-0990` : สะสม (to collect, to accumulate) : 1 meaning(s), 2 sentences
+- `thaipod-0993` : สักลาย (to get a tattoo) : 1 meaning(s), 2 sentences
+- `thaipod-0995` : สังคม (society) : 1 meaning(s), 2 sentences
+- `thaipod-0996` : สังเกต, สังเกตเห็น (to notice, to observe) : 1 meaning(s), 2 sentences
+- `thaipod-0998` : สัมผัส (to feel, to touch, to experience) : 1 meaning(s), 2 sentences
+- `thaipod-1002` : สั้นลง (to become shorter, to shorten) : 1 meaning(s), 2 sentences
+- `thaipod-1003` : สากล (international, universal) : 1 meaning(s), 2 sentences
+- `thaipod-1004` : สาขา (branch, category) : 1 meaning(s), 2 sentences
+- `thaipod-1010` : สายตา (sight, vision, gaze) : 1 meaning(s), 2 sentences
+- `thaipod-1011` : สายยาง (hose) : 1 meaning(s), 2 sentences
+- `thaipod-1020` : สิ่งก่อสร้าง (structure, built object) : 1 meaning(s), 2 sentences
 - `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
 - `thaipod-1037` : สุดท้าย (finally, last) : 1 meaning(s), 2 sentences
 - `thaipod-1053` : หนู (rat, mouse; I (used by younger people)) : 2 meaning(s), 4 sentences
