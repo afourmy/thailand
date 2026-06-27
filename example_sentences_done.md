@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2753 words**
+**Total: 2763 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1928,7 +1928,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-431` : ผู้ก่อตั้ง (founder) : 1 meaning(s), 2 sentences
 - `tobo-432` : บรรลุ (to achieve, to accomplish, to attain) : 1 meaning(s), 2 sentences
 - `tobo-434` : ทำให้สั้น (to shorten) : 1 meaning(s), 2 sentences
+- `tobo-435` : ใจกลางเมือง (downtown, city center) : 1 meaning(s), 2 sentences
+- `tobo-438` : ความเป็นส่วนตัว (privacy) : 1 meaning(s), 2 sentences
+- `tobo-439` : กบฏ (rebel, rebellion) : 1 meaning(s), 2 sentences
+- `tobo-440` : เรื่องอื้อฉาว (scandal) : 1 meaning(s), 2 sentences
+- `tobo-441` : บริการ (service) : 1 meaning(s), 2 sentences
 - `tobo-442` : มหาวิทยาลัย (university; campus) : 2 meaning(s), 4 sentences
+- `tobo-443` : ดึงดูดความสนใจ (to attract attention) : 1 meaning(s), 2 sentences
+- `tobo-444` : ผู้ชม (audience, spectator) : 1 meaning(s), 2 sentences
+- `tobo-447` : ที่พัก (accommodation, lodging) : 1 meaning(s), 2 sentences
+- `tobo-450` : แหย่ (to tease light-heartedly, to gently provoke) : 1 meaning(s), 2 sentences
+- `tobo-451` : เปลือย (naked, bare) : 1 meaning(s), 2 sentences
 - `tobo-461` : ตัวอย่าง (sample, example) : 1 meaning(s), 2 sentences
 - `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
 - `tobo-498` : แผนที่ (map) : 1 meaning(s), 2 sentences
