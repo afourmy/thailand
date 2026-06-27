@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2233 words**
+**Total: 2243 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1255,7 +1255,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0112` : ก้าวหน้า (to progress, to advance) : 1 meaning(s), 2 sentences
 - `thaipod-0116` : ขนม (dessert, sweet, snack) : 1 meaning(s), 2 sentences
 - `thaipod-0120` : ขบวน (procession, parade) : 1 meaning(s), 2 sentences
+- `thaipod-0121` : ขยาย (to expand, to enlarge) : 1 meaning(s), 2 sentences
+- `thaipod-0124` : ของที่ระลึก (souvenir) : 1 meaning(s), 2 sentences
+- `thaipod-0130` : ขับไล่ (to expel, to drive out, to banish) : 1 meaning(s), 2 sentences
+- `thaipod-0132` : ขั้นตอน (steps, procedure) : 1 meaning(s), 2 sentences
+- `thaipod-0133` : ขาดแคลน (to lack, to be insufficient) : 1 meaning(s), 2 sentences
+- `thaipod-0137` : ขึ้นชื่อ (well-known, famous (for something)) : 1 meaning(s), 2 sentences
+- `thaipod-0139` : ขึ้นฝั่ง (to come ashore, to land) : 1 meaning(s), 2 sentences
 - `thaipod-0143` : ข่าวดี (good news) : 1 meaning(s), 2 sentences
+- `thaipod-0144` : ข้อบ่งชี้ (indication, indicator, sign) : 1 meaning(s), 2 sentences
+- `thaipod-0145` : ข้อสงสัย (doubt, uncertainty) : 1 meaning(s), 2 sentences
+- `thaipod-0146` : ข้อสรุป (conclusion) : 1 meaning(s), 2 sentences
 - `thaipod-0151` : คง (probably; to remain, to continue) : 2 meaning(s), 4 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
