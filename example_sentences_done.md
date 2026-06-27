@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2363 words**
+**Total: 2373 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1411,6 +1411,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0586` : ปั้น (to sculpt, to mold (clay, sculpture)) : 1 meaning(s), 2 sentences
 - `thaipod-0588` : ปากซอย (entrance of a soi (small street)) : 1 meaning(s), 2 sentences
 - `thaipod-0590` : ปิดล้อม (to enclose, to surround, to besiege) : 1 meaning(s), 2 sentences
+- `thaipod-0592` : ปืนฉีดน้ำ (water gun) : 1 meaning(s), 2 sentences
+- `thaipod-0593` : ปูน (mortar, cement, plaster) : 1 meaning(s), 2 sentences
+- `thaipod-0604` : ป้าย (sign, billboard) : 1 meaning(s), 2 sentences
+- `thaipod-0605` : ผนัง, ฝาผนัง (wall) : 1 meaning(s), 2 sentences
+- `thaipod-0606` : ผลงาน (works, output, performance) : 1 meaning(s), 2 sentences
+- `thaipod-0607` : ผลักดัน (to push forward, to promote, to drive forward) : 1 meaning(s), 2 sentences
+- `thaipod-0608` : ผลัด (to take turns, to rotate; to shed (seasonal)) : 2 meaning(s), 4 sentences
+- `thaipod-0611` : ผิว (surface, skin) : 1 meaning(s), 2 sentences
+- `thaipod-0614` : ผูก (to tie, to bind) : 1 meaning(s), 2 sentences
+- `thaipod-0616` : ผู้กำกับ, ผู้กำกับภาพยนตร์ (film director) : 1 meaning(s), 2 sentences
 - `thaipod-0626` : ผ่าน (to pass; through, via) : 2 meaning(s), 4 sentences
 - `thaipod-0643` : พยายาม (to try, to attempt) : 1 meaning(s), 2 sentences
 - `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
