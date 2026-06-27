@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2872 words**
+**Total: 2882 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2056,6 +2056,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-082` : สะพาย (to carry over the shoulder (e.g a bag)) : 1 meaning(s), 2 sentences
 - `yt-c04-083` : กระเป๋าสะพาย (shoulder bag) : 1 meaning(s), 2 sentences
 - `yt-c04-084` : รัด (to tighten, to constrict, to fasten, to bind tightly) : 1 meaning(s), 2 sentences
+- `yt-c04-086` : หย่อน (to let loose, to slacken, to relax, to drop (make something less tight, or let something hang)) : 1 meaning(s), 2 sentences
+- `yt-c04-097` : ท้า (to challenge, to dare (someone to do something)) : 1 meaning(s), 2 sentences
+- `yt-c05-003` : รูด (to swipe (e.g a credit card), to slide (e.g zipper)) : 1 meaning(s), 2 sentences
+- `yt-c05-009` : ซิงค์, อ่างล้างมือ (sink (e.g kitchen sink)) : 1 meaning(s), 2 sentences
+- `yt-c05-010` : เครื่องพิมพ์ (printer) : 1 meaning(s), 2 sentences
+- `yt-c05-011` : กิ๊บ, กิ๊บติดผม (hair clip, hair pin) : 1 meaning(s), 2 sentences
+- `yt-c05-012` : ฝักบัว (showerhead) : 1 meaning(s), 2 sentences
+- `yt-c05-013` : หมาด (damp, slightly wet, not fully dry yet) : 1 meaning(s), 2 sentences
+- `yt-c05-014` : ระบายสี (to color, to fill with color) : 1 meaning(s), 2 sentences
+- `yt-c05-027` : ผงซักผ้า (laundry detergent (powder)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
