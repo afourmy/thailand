@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2932 words**
+**Total: 2942 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2116,6 +2116,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-002` : ไฟแช็ค (lighter) : 1 meaning(s), 2 sentences
 - `yt-c07-012` : ผุ (to decay, to rot, to deteriorate, rotten) : 1 meaning(s), 2 sentences
 - `yt-c07-013` : ต่อเติม (to extend, to add on, to renovate (by expansion)) : 1 meaning(s), 2 sentences
+- `yt-c07-015` : ติดแท็ก (to tag (e.g a photo, a luggage)) : 1 meaning(s), 2 sentences
+- `yt-c07-017` : ยืนกราน (to insist, to maintain firmly, to stand one's ground) : 1 meaning(s), 2 sentences
+- `yt-c07-018` : ใช้งาน (to make use of, to operate) : 1 meaning(s), 2 sentences
+- `yt-c07-019` : ขาดหาย (missing, lost, to disappear) : 1 meaning(s), 2 sentences
+- `yt-c07-027` : กาง (to unfold, to spread out (e.g umbrella, map, etc)) : 1 meaning(s), 2 sentences
+- `yt-c07-028` : หนังสยองขวัญ, ภาพยนตร์สยองขวัญ (horror movie) : 1 meaning(s), 2 sentences
+- `yt-c07-029` : จุดยืน (standpoint, position, opinion (e.g in politics)) : 1 meaning(s), 2 sentences
+- `yt-c07-030` : มีสาระ (to be useful, meaningful, informative) : 1 meaning(s), 2 sentences
+- `yt-c07-035` : กวัก, กวักมือ (to beckon, to gesture someone to come closer) : 1 meaning(s), 2 sentences
+- `yt-c07-036` : ขาตั้ง (tripod, (supporting) stand (of a motosai, camera, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
