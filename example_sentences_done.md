@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2773 words**
+**Total: 2783 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1950,6 +1950,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-464` : ทาสี (to paint (a surface)) : 1 meaning(s), 2 sentences
 - `tobo-465` : ปลอม, ของปลอม (fake, counterfeit) : 1 meaning(s), 2 sentences
 - `tobo-469` : ขั้นสูง (advanced (level)) : 1 meaning(s), 2 sentences
+- `tobo-470` : น่าขยะแขยง (disgusting) : 1 meaning(s), 2 sentences
+- `tobo-473` : ช่างเทคนิค (technician) : 1 meaning(s), 2 sentences
+- `tobo-475` : สาธารณะ (public) : 1 meaning(s), 2 sentences
+- `tobo-477` : พนัน (to gamble, betting) : 1 meaning(s), 2 sentences
+- `tobo-479` : ชั่ง, ชั่งน้ำหนัก (to weigh) : 1 meaning(s), 2 sentences
+- `tobo-480` : ชั่วคราว (temporary) : 1 meaning(s), 2 sentences
+- `tobo-481` : หลักสูตร (course, curriculum) : 1 meaning(s), 2 sentences
+- `tobo-482` : ติดต่อได้ (contagious; reachable) : 2 meaning(s), 4 sentences
+- `tobo-483` : ไม่เกิดผล (ineffective, having no result) : 1 meaning(s), 2 sentences
+- `tobo-484` : สวนสนุก (amusement park, theme park) : 1 meaning(s), 2 sentences
 - `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
 - `tobo-498` : แผนที่ (map) : 1 meaning(s), 2 sentences
 - `tobo-512` : ไฟฟ้า (electricity) : 1 meaning(s), 2 sentences
