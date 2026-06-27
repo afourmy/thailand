@@ -46210,7 +46210,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to act innocent, to act as if nothing happened",
+        "sentences": [
+          {
+            "thai": "เขาทำเนียนเหมือนไม่ได้ทำอะไรผิด",
+            "en": "He acts innocent like he did nothing wrong.",
+            "audio_src": "เขาทำเนียนเหมือนไม่ได้ทำอะไรผิด",
+            "audio_en_src": "He acts innocent like he did nothing wrong."
+          },
+          {
+            "thai": "ทำของเขาพังแล้วยังทำเนียนได้อีก",
+            "en": "He broke his thing and still acts like nothing happened.",
+            "audio_src": "ทำของเขาพังแล้วยังทำเนียนได้อีก",
+            "audio_en_src": "He broke his thing and still acts like nothing happened."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-704",
@@ -46233,7 +46252,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to take revenge, to avenge",
+        "sentences": [
+          {
+            "thai": "ตัวร้ายในเรื่องกลับมาล้างแค้นพระเอก",
+            "en": "The villain in the story came back to take revenge on the hero.",
+            "audio_src": "ตัวร้ายในเรื่องกลับมาล้างแค้นพระเอก",
+            "audio_en_src": "The villain in the story came back to take revenge on the hero."
+          },
+          {
+            "thai": "เขาเก็บความแค้นไว้รอวันล้างแค้น",
+            "en": "He held onto his grudge, waiting for the day to avenge it.",
+            "audio_src": "เขาเก็บความแค้นไว้รอวันล้างแค้น",
+            "audio_en_src": "He held onto his grudge, waiting for the day to avenge it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-706",
@@ -46246,7 +46284,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "suspicious sign, something that raises doubt",
+        "sentences": [
+          {
+            "thai": "ท่าทางของเขามีพิรุธ น่าสงสัย",
+            "en": "His behavior is suspicious and raises doubt.",
+            "audio_src": "ท่าทางของเขามีพิรุธ น่าสงสัย",
+            "audio_en_src": "His behavior is suspicious and raises doubt."
+          },
+          {
+            "thai": "ตำรวจสังเกตเห็นพิรุธจากคำให้การ",
+            "en": "The police noticed something suspicious in the testimony.",
+            "audio_src": "ตำรวจสังเกตเห็นพิรุธจากคำให้การ",
+            "audio_en_src": "The police noticed something suspicious in the testimony."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-707",
@@ -46303,7 +46360,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "steering wheel",
+        "sentences": [
+          {
+            "thai": "เขาจับพวงมาลัยแน่นตอนขับผ่านทางโค้ง",
+            "en": "He gripped the steering wheel tightly while driving around the curve.",
+            "audio_src": "เขาจับพวงมาลัยแน่นตอนขับผ่านทางโค้ง",
+            "audio_en_src": "He gripped the steering wheel tightly while driving around the curve."
+          },
+          {
+            "thai": "อย่าเล่นมือถือตอนมือจับพวงมาลัย",
+            "en": "Don't play on your phone while your hands are on the steering wheel.",
+            "audio_src": "อย่าเล่นมือถือตอนมือจับพวงมาลัย",
+            "audio_en_src": "Don't play on your phone while your hands are on the steering wheel."
+          }
+        ]
+      },
+      {
+        "meaning": "flower garland",
+        "sentences": [
+          {
+            "thai": "เธอคล้องพวงมาลัยดอกมะลิให้คุณยาย",
+            "en": "She put a jasmine garland around her grandmother's neck.",
+            "audio_src": "เธอคล้องพวงมาลัยดอกมะลิให้คุณยาย",
+            "audio_en_src": "She put a jasmine garland around her grandmother's neck."
+          },
+          {
+            "thai": "คนขายพวงมาลัยอยู่ตรงสี่แยกไฟแดง",
+            "en": "The garland seller is at the red-light intersection.",
+            "audio_src": "คนขายพวงมาลัยอยู่ตรงสี่แยกไฟแดง",
+            "audio_en_src": "The garland seller is at the red-light intersection."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-712",
@@ -46317,7 +46410,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to incline, to tilt, tilted, slanted",
+        "sentences": [
+          {
+            "thai": "กรอบรูปบนผนังเอียงไปข้างหนึ่ง",
+            "en": "The picture frame on the wall is tilted to one side.",
+            "audio_src": "กรอบรูปบนผนังเอียงไปข้างหนึ่ง",
+            "audio_en_src": "The picture frame on the wall is tilted to one side."
+          },
+          {
+            "thai": "เธอเอียงคอฟังเพลงอย่างเพลิดเพลิน",
+            "en": "She tilted her head, listening to the music with enjoyment.",
+            "audio_src": "เธอเอียงคอฟังเพลงอย่างเพลิดเพลิน",
+            "audio_en_src": "She tilted her head, listening to the music with enjoyment."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-713",
@@ -46352,7 +46464,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "life-threatening, deadly",
+        "sentences": [
+          {
+            "thai": "โรคนี้ถ้าไม่รักษาอาจอันตรายถึงชีวิต",
+            "en": "If left untreated, this disease can be life-threatening.",
+            "audio_src": "โรคนี้ถ้าไม่รักษาอาจอันตรายถึงชีวิต",
+            "audio_en_src": "If left untreated, this disease can be life-threatening."
+          },
+          {
+            "thai": "การขับรถเร็วเกินไปอันตรายถึงชีวิตได้",
+            "en": "Driving too fast can be deadly.",
+            "audio_src": "การขับรถเร็วเกินไปอันตรายถึงชีวิตได้",
+            "audio_en_src": "Driving too fast can be deadly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-716",
@@ -46385,7 +46516,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to have a rough idea, to know roughly",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ฉันพอรู้มาบ้าง แต่ไม่ละเอียด",
+            "en": "I know a bit about this, but not in detail.",
+            "audio_src": "เรื่องนี้ฉันพอรู้มาบ้าง แต่ไม่ละเอียด",
+            "audio_en_src": "I know a bit about this, but not in detail."
+          },
+          {
+            "thai": "เขาพอรู้ภาษาจีนสั่งอาหารได้",
+            "en": "He knows enough Chinese to order food.",
+            "audio_src": "เขาพอรู้ภาษาจีนสั่งอาหารได้",
+            "audio_en_src": "He knows enough Chinese to order food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-719",
@@ -46398,7 +46548,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to defraud, to scam",
+        "sentences": [
+          {
+            "thai": "มิจฉาชีพหลอกลวงคนแก่ให้โอนเงิน",
+            "en": "Scammers defraud the elderly into transferring money.",
+            "audio_src": "มิจฉาชีพหลอกลวงคนแก่ให้โอนเงิน",
+            "audio_en_src": "Scammers defraud the elderly into transferring money."
+          },
+          {
+            "thai": "โฆษณานี้หลอกลวงผู้บริโภค",
+            "en": "This advertisement deceives consumers.",
+            "audio_src": "โฆษณานี้หลอกลวงผู้บริโภค",
+            "audio_en_src": "This advertisement deceives consumers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-720",
@@ -46411,7 +46580,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to conceal, to cover up, to hide",
+        "sentences": [
+          {
+            "thai": "เขาปกปิดอาการป่วยไม่ให้ครอบครัวกังวล",
+            "en": "He concealed his illness so his family wouldn't worry.",
+            "audio_src": "เขาปกปิดอาการป่วยไม่ให้ครอบครัวกังวล",
+            "audio_en_src": "He concealed his illness so his family wouldn't worry."
+          },
+          {
+            "thai": "บริษัทพยายามปกปิดความผิดพลาดของตัวเอง",
+            "en": "The company tried to cover up its own mistakes.",
+            "audio_src": "บริษัทพยายามปกปิดความผิดพลาดของตัวเอง",
+            "audio_en_src": "The company tried to cover up its own mistakes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-721",
@@ -46443,7 +46631,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "wasted, in vain",
+        "sentences": [
+          {
+            "thai": "ความพยายามทั้งหมดไม่ได้สูญเปล่า",
+            "en": "All the effort wasn't in vain.",
+            "audio_src": "ความพยายามทั้งหมดไม่ได้สูญเปล่า",
+            "audio_en_src": "All the effort wasn't in vain."
+          },
+          {
+            "thai": "ถ้าวางแผนไม่ดี เงินที่ลงทุนอาจสูญเปล่า",
+            "en": "If you don't plan well, the money invested may be wasted.",
+            "audio_src": "ถ้าวางแผนไม่ดี เงินที่ลงทุนอาจสูญเปล่า",
+            "audio_en_src": "If you don't plan well, the money invested may be wasted."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-724",

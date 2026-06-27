@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1924 words**
+**Total: 1934 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -918,6 +918,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-699` : บอบบาง (fragile, frail) : 1 meaning(s), 2 sentences
 - `tamago-l3-701` : แก้แค้น (to get revenge) : 1 meaning(s), 2 sentences
 - `tamago-l3-702` : ช่าง (to disregard, to ignore; how (+ adjective) (exclamation, "so + adjective")) : 2 meaning(s), 4 sentences
+- `tamago-l3-703` : ทำเนียน (to act innocent, to act as if nothing happened) : 1 meaning(s), 2 sentences
+- `tamago-l3-705` : ล้างแค้น (to take revenge, to avenge) : 1 meaning(s), 2 sentences
+- `tamago-l3-706` : พิรุธ (suspicious sign, something that raises doubt) : 1 meaning(s), 2 sentences
+- `tamago-l3-711` : พวงมาลัย (steering wheel; flower garland) : 2 meaning(s), 4 sentences
+- `tamago-l3-712` : เอียง (to incline, to tilt, tilted, slanted) : 1 meaning(s), 2 sentences
+- `tamago-l3-715` : อันตรายถึงชีวิต (life-threatening, deadly) : 1 meaning(s), 2 sentences
+- `tamago-l3-718` : พอรู้ (to have a rough idea, to know roughly) : 1 meaning(s), 2 sentences
+- `tamago-l3-719` : หลอกลวง (to defraud, to scam) : 1 meaning(s), 2 sentences
+- `tamago-l3-720` : ปกปิด (to conceal, to cover up, to hide) : 1 meaning(s), 2 sentences
+- `tamago-l3-723` : สูญเปล่า (wasted, in vain) : 1 meaning(s), 2 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
