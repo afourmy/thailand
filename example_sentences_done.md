@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2423 words**
+**Total: 2433 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1482,7 +1482,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0849` : รากฐาน (foundation, basis) : 1 meaning(s), 2 sentences
 - `thaipod-0867` : ริมทะเล (by the sea, seaside) : 1 meaning(s), 2 sentences
 - `thaipod-0871` : รุ่งเรือง (prosperous, flourishing) : 1 meaning(s), 2 sentences
+- `thaipod-0873` : รู้ทัน (to see through someone's intentions, to read someone's game) : 1 meaning(s), 2 sentences
+- `thaipod-0876` : ร่องรอย (trace, sign, vestige) : 1 meaning(s), 2 sentences
+- `thaipod-0879` : ร้าง, ทิ้งร้าง (deserted, abandoned) : 1 meaning(s), 2 sentences
 - `thaipod-0880` : ร้าน, ร้านค้า (shop, store) : 1 meaning(s), 2 sentences
+- `thaipod-0886` : ลงความเห็น (to give an opinion, to make a judgment) : 1 meaning(s), 2 sentences
+- `thaipod-0887` : ลาย, ลวดลาย (pattern, design, motif) : 1 meaning(s), 2 sentences
+- `thaipod-0888` : ลอด (to slip through (underneath), to go under) : 1 meaning(s), 2 sentences
+- `thaipod-0890` : ลอย (to float) : 1 meaning(s), 2 sentences
+- `thaipod-0891` : ละลาย (to dissolve, to melt) : 1 meaning(s), 2 sentences
+- `thaipod-0899` : ลาออก (to quit, to resign) : 1 meaning(s), 2 sentences
+- `thaipod-0913` : วรรณคดี, วรรณกรรม (literature) : 1 meaning(s), 2 sentences
 - `thaipod-0918` : วัยรุ่น (teenager, adolescent) : 1 meaning(s), 2 sentences
 - `thaipod-0922` : วิธี (way, method) : 1 meaning(s), 2 sentences
 - `thaipod-0947` : สงสัย (to wonder, to suspect, to be curious) : 1 meaning(s), 3 sentences
