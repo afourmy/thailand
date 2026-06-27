@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2063 words**
+**Total: 2073 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1076,6 +1076,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-231` : กระจ่าง (clear, easily understandable (explanation)) : 1 meaning(s), 2 sentences
 - `tsl-233` : ค้าน (to object, to protest, to oppose) : 1 meaning(s), 2 sentences
 - `tsl-235` : อารยธรรม (civilization) : 1 meaning(s), 2 sentences
+- `tsl-238` : เสริมสร้าง (to enhance, strengthen, reinforce) : 1 meaning(s), 2 sentences
+- `tsl-244` : ทึบ (dense, solid, opaque (not letting light, air, or fluid through)) : 1 meaning(s), 2 sentences
+- `tsl-250` : ผ้าฝ้าย (cotton fabric) : 1 meaning(s), 2 sentences
+- `tsl-251` : เชิง (aspect, angle, style) : 1 meaning(s), 2 sentences
+- `tsl-252` : ริ้ว (stripe, line, streak) : 1 meaning(s), 2 sentences
+- `tsl-253` : ภาษิต, สุภาษิต (proverb) : 1 meaning(s), 2 sentences
+- `tsl-254` : ข้อคิด (thought, insight, takeaway, consideration) : 1 meaning(s), 2 sentences
+- `tsl-257` : คาดการณ์ (to forecast, to predict, to extrapolate) : 1 meaning(s), 2 sentences
+- `tsl-258` : รับจ้าง (to accept a job (contract), to work as a freelancer) : 1 meaning(s), 2 sentences
+- `tsl-259` : มุ่ง (to aim at, to focus on, to head towards) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
