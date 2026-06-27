@@ -50730,7 +50730,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "Westerner-culture enthusiast, a \"farang lover\" (slang)",
+        "sentences": [
+          {
+            "thai": "เธอเป็นสายฝอ ชอบฟังเพลงฝรั่งกับกินอาหารตะวันตก",
+            "en": "She's into Western culture, loves listening to Western music and eating Western food.",
+            "audio_src": "เธอเป็นสายฝอ ชอบฟังเพลงฝรั่งกับกินอาหารตะวันตก",
+            "audio_en_src": "She's into Western culture, loves listening to Western music and eating Western food."
+          },
+          {
+            "thai": "เขาแต่งตัวสไตล์สายฝอจนคนทักว่าเหมือนฝรั่ง",
+            "en": "He dresses in a Western style, so people say he looks like a foreigner.",
+            "audio_src": "เขาแต่งตัวสไตล์สายฝอจนคนทักว่าเหมือนฝรั่ง",
+            "audio_en_src": "He dresses in a Western style, so people say he looks like a foreigner."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-065",
@@ -50755,7 +50774,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to tackle head-on, to wade through, to go all out",
+        "sentences": [
+          {
+            "thai": "งานเยอะแค่ไหนเราก็ลุยให้เสร็จ",
+            "en": "No matter how much work there is, we'll tackle it head-on to finish.",
+            "audio_src": "งานเยอะแค่ไหนเราก็ลุยให้เสร็จ",
+            "audio_en_src": "No matter how much work there is, we'll tackle it head-on to finish."
+          },
+          {
+            "thai": "ฝนตกน้ำท่วม เขาต้องลุยน้ำกลับบ้าน",
+            "en": "It rained and flooded, so he had to wade through the water to get home.",
+            "audio_src": "ฝนตกน้ำท่วม เขาต้องลุยน้ำกลับบ้าน",
+            "audio_en_src": "It rained and flooded, so he had to wade through the water to get home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-067",
@@ -50777,7 +50815,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "person into superstition (horoscope, lucky charms, astrology)",
+        "sentences": [
+          {
+            "thai": "เธอเป็นสายมู ชอบไปไหว้พระขอเลขเด็ด",
+            "en": "She's into superstition, likes going to temples to ask for lucky numbers.",
+            "audio_src": "เธอเป็นสายมู ชอบไปไหว้พระขอเลขเด็ด",
+            "audio_en_src": "She's into superstition, likes going to temples to ask for lucky numbers."
+          },
+          {
+            "thai": "พวกสายมูนิยมพกเครื่องรางติดตัว",
+            "en": "People into superstition like to carry lucky charms with them.",
+            "audio_src": "พวกสายมูนิยมพกเครื่องรางติดตัว",
+            "audio_en_src": "People into superstition like to carry lucky charms with them."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-069",
@@ -50789,7 +50846,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "heavy drinker, someone who enjoys getting drunk",
+        "sentences": [
+          {
+            "thai": "เขาเป็นสายเมา ทุกสุดสัปดาห์ต้องออกไปดื่ม",
+            "en": "He's a heavy drinker, every weekend he has to go out drinking.",
+            "audio_src": "เขาเป็นสายเมา ทุกสุดสัปดาห์ต้องออกไปดื่ม",
+            "audio_en_src": "He's a heavy drinker, every weekend he has to go out drinking."
+          },
+          {
+            "thai": "ปาร์ตี้นี้เหมาะกับสายเมาเพราะมีเหล้าไม่อั้น",
+            "en": "This party suits heavy drinkers because there's unlimited alcohol.",
+            "audio_src": "ปาร์ตี้นี้เหมาะกับสายเมาเพราะมีเหล้าไม่อั้น",
+            "audio_en_src": "This party suits heavy drinkers because there's unlimited alcohol."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-070",
@@ -50821,7 +50897,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to fail an exam",
+        "sentences": [
+          {
+            "thai": "เขาสอบตกวิชาเลขเลยต้องเรียนซ้ำ",
+            "en": "He failed the math exam, so he has to retake the class.",
+            "audio_src": "เขาสอบตกวิชาเลขเลยต้องเรียนซ้ำ",
+            "audio_en_src": "He failed the math exam, so he has to retake the class."
+          },
+          {
+            "thai": "ถ้าไม่อ่านหนังสือเลย เดี๋ยวสอบตกแน่",
+            "en": "If you don't study at all, you'll definitely fail the exam.",
+            "audio_src": "ถ้าไม่อ่านหนังสือเลย เดี๋ยวสอบตกแน่",
+            "audio_en_src": "If you don't study at all, you'll definitely fail the exam."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-074",
@@ -50888,7 +50983,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to ignore, to disregard, to turn a blind eye to",
+        "sentences": [
+          {
+            "thai": "เขาเพิกเฉยต่อคำเตือนจนเกิดปัญหา",
+            "en": "He ignored the warnings until a problem occurred.",
+            "audio_src": "เขาเพิกเฉยต่อคำเตือนจนเกิดปัญหา",
+            "audio_en_src": "He ignored the warnings until a problem occurred."
+          },
+          {
+            "thai": "อย่าเพิกเฉยเมื่อเห็นคนถูกรังแก",
+            "en": "Don't turn a blind eye when you see someone being bullied.",
+            "audio_src": "อย่าเพิกเฉยเมื่อเห็นคนถูกรังแก",
+            "audio_en_src": "Don't turn a blind eye when you see someone being bullied."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-078",
@@ -50900,7 +51014,43 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "action movie",
+        "sentences": [
+          {
+            "thai": "เขาชอบดูหนังแอ็คชั่นที่มีฉากระเบิดเยอะๆ",
+            "en": "He likes watching action movies with lots of explosion scenes.",
+            "audio_src": "เขาชอบดูหนังแอ็คชั่นที่มีฉากระเบิดเยอะๆ",
+            "audio_en_src": "He likes watching action movies with lots of explosion scenes."
+          },
+          {
+            "thai": "หนังแอ็คชั่นเรื่องนี้ทำรายได้ถล่มทลาย",
+            "en": "This action movie made a huge box office.",
+            "audio_src": "หนังแอ็คชั่นเรื่องนี้ทำรายได้ถล่มทลาย",
+            "audio_en_src": "This action movie made a huge box office."
+          }
+        ]
+      },
+      {
+        "meaning": "martial arts movie",
+        "sentences": [
+          {
+            "thai": "หนังบู๊จีนมักมีฉากต่อสู้กังฟูสวยงาม",
+            "en": "Chinese martial arts movies often have beautiful kung fu fight scenes.",
+            "audio_src": "หนังบู๊จีนมักมีฉากต่อสู้กังฟูสวยงาม",
+            "audio_en_src": "Chinese martial arts movies often have beautiful kung fu fight scenes."
+          },
+          {
+            "thai": "เขาเป็นแฟนหนังบู๊ตั้งแต่เด็ก",
+            "en": "He's been a fan of martial arts movies since childhood.",
+            "audio_src": "เขาเป็นแฟนหนังบู๊ตั้งแต่เด็ก",
+            "audio_en_src": "He's been a fan of martial arts movies since childhood."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-079",
@@ -50913,7 +51063,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "drama (movie)",
+        "sentences": [
+          {
+            "thai": "หนังชีวิตเรื่องนี้ดูแล้วน้ำตาไหล",
+            "en": "This drama movie made me cry.",
+            "audio_src": "หนังชีวิตเรื่องนี้ดูแล้วน้ำตาไหล",
+            "audio_en_src": "This drama movie made me cry."
+          },
+          {
+            "thai": "เธอชอบหนังชีวิตมากกว่าหนังตลก",
+            "en": "She prefers drama movies over comedies.",
+            "audio_src": "เธอชอบหนังชีวิตมากกว่าหนังตลก",
+            "audio_en_src": "She prefers drama movies over comedies."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-082",
@@ -50925,7 +51094,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "romantic movie",
+        "sentences": [
+          {
+            "thai": "คืนวันวาเลนไทน์เราดูหนังรักโรแมนติกด้วยกัน",
+            "en": "On Valentine's night we watched a romantic movie together.",
+            "audio_src": "คืนวันวาเลนไทน์เราดูหนังรักโรแมนติกด้วยกัน",
+            "audio_en_src": "On Valentine's night we watched a romantic movie together."
+          },
+          {
+            "thai": "หนังรักโรแมนติกเรื่องนี้จบแบบแฮปปี้เอนดิ้ง",
+            "en": "This romantic movie ends with a happy ending.",
+            "audio_src": "หนังรักโรแมนติกเรื่องนี้จบแบบแฮปปี้เอนดิ้ง",
+            "audio_en_src": "This romantic movie ends with a happy ending."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-083",
@@ -50938,7 +51126,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "thriller (movie)",
+        "sentences": [
+          {
+            "thai": "หนังระทึกขวัญเรื่องนี้ลุ้นจนหายใจไม่ทั่วท้อง",
+            "en": "This thriller is so suspenseful it leaves you breathless.",
+            "audio_src": "หนังระทึกขวัญเรื่องนี้ลุ้นจนหายใจไม่ทั่วท้อง",
+            "audio_en_src": "This thriller is so suspenseful it leaves you breathless."
+          },
+          {
+            "thai": "เขาชอบหนังระทึกขวัญที่เดาตอนจบไม่ได้",
+            "en": "He likes thrillers where you can't guess the ending.",
+            "audio_src": "เขาชอบหนังระทึกขวัญที่เดาตอนจบไม่ได้",
+            "audio_en_src": "He likes thrillers where you can't guess the ending."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-086",

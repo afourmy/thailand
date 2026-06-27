@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2003 words**
+**Total: 2013 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1011,7 +1011,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-054` : เด็กรุ่นใหม่ (young generation) : 1 meaning(s), 2 sentences
 - `tsl-055` : ฟุ้งซ่าน (distracted, restless (mind), scattered state of mind) : 1 meaning(s), 2 sentences
 - `tsl-061` : เอาเปรียบ (to take unfair advantage of, to exploit) : 1 meaning(s), 2 sentences
+- `tsl-064` : สายฝอ (Westerner-culture enthusiast, a "farang lover" (slang)) : 1 meaning(s), 2 sentences
+- `tsl-066` : ลุย (to tackle head-on, to wade through, to go all out) : 1 meaning(s), 2 sentences
+- `tsl-068` : สายมู (person into superstition (horoscope, lucky charms, astrology)) : 1 meaning(s), 2 sentences
+- `tsl-069` : สายเมา (heavy drinker, someone who enjoys getting drunk) : 1 meaning(s), 2 sentences
+- `tsl-073` : สอบตก (to fail an exam) : 1 meaning(s), 2 sentences
 - `tsl-075` : บ้านนอก (countryside, rural area (spoken)) : 1 meaning(s), 2 sentences
+- `tsl-077` : เพิกเฉย (to ignore, to disregard, to turn a blind eye to) : 1 meaning(s), 2 sentences
+- `tsl-078` : หนังแอ็คชั่น - หนังบู๊ (action movie - martial arts movie) : 2 meaning(s), 4 sentences
+- `tsl-079` : หนังชีวิต (drama (movie)) : 1 meaning(s), 2 sentences
+- `tsl-082` : หนังรักโรแมนติก (romantic movie) : 1 meaning(s), 2 sentences
+- `tsl-083` : หนังระทึกขวัญ (thriller (movie)) : 1 meaning(s), 2 sentences
 - `tsl-117` : ซ่อน (to hide, to conceal (e.g something or someone)) : 1 meaning(s), 2 sentences
 - `tsl-125` : สบายใจ (relaxed, at ease emotionally) : 1 meaning(s), 2 sentences
 - `tsl-126` : ตกใจ - แปลกใจ (shocked, startled - surprised, astonished) : 2 meaning(s), 4 sentences
