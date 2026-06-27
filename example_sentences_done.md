@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2393 words**
+**Total: 2403 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1446,9 +1446,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0737` : พื้นเมือง (native, indigenous, local) : 1 meaning(s), 2 sentences
 - `thaipod-0741` : พ่ายแพ้ (to be defeated, to lose (battle, war)) : 1 meaning(s), 2 sentences
 - `thaipod-0743` : ฟัน (tooth, teeth; to cut, to slash, to chop) : 2 meaning(s), 4 sentences
+- `thaipod-0744` : ฟื้นฟู (to restore, to revive, to rehabilitate) : 1 meaning(s), 2 sentences
+- `thaipod-0748` : ภาพประกอบ (illustration, diagram) : 1 meaning(s), 2 sentences
+- `thaipod-0753` : ภายนอก (exterior, outside) : 1 meaning(s), 2 sentences
 - `thaipod-0757` : ภูมิใจ (proud of) : 1 meaning(s), 2 sentences
+- `thaipod-0764` : มรดก (inheritance, heritage, legacy) : 1 meaning(s), 2 sentences
+- `thaipod-0772` : มัธยม (secondary school (age 12-17)) : 1 meaning(s), 2 sentences
+- `thaipod-0773` : มั่นคง (stable, secure, steady) : 1 meaning(s), 2 sentences
 - `thaipod-0777` : มากมาย (many, plenty, abundant) : 1 meaning(s), 2 sentences
+- `thaipod-0782` : มือใหม่ (beginner, novice) : 1 meaning(s), 2 sentences
+- `thaipod-0783` : มุ่งหวัง (to aim for, to hope for) : 1 meaning(s), 2 sentences
+- `thaipod-0788` : ยอดเยี่ยม (excellent, outstanding) : 1 meaning(s), 2 sentences
 - `thaipod-0789` : ยอม (to agree, to give in, to admit) : 1 meaning(s), 3 sentences
+- `thaipod-0790` : ยอมรับ (to admit, to accept, to acknowledge) : 1 meaning(s), 2 sentences
 - `thaipod-0794` : ยังไง (anyway, how) : 1 meaning(s), 3 sentences
 - `thaipod-0814` : รถติด (traffic jam) : 1 meaning(s), 2 sentences
 - `thaipod-0835` : ระหว่าง (during, between) : 2 meaning(s), 4 sentences
