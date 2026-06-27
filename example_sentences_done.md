@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2583 words**
+**Total: 2593 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1710,10 +1710,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-061` : ศิลปะ (art) : 1 meaning(s), 2 sentences
 - `tobo-062` : นักดนตรี (musician) : 1 meaning(s), 2 sentences
 - `tobo-063` : วิกฤต (crisis) : 1 meaning(s), 2 sentences
+- `tobo-066` : ติดตาม (to follow) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
+- `tobo-070` : ประธานาธิบดี (president (of a country)) : 1 meaning(s), 2 sentences
+- `tobo-071` : รูปร่าง (shape, figure) : 1 meaning(s), 2 sentences
 - `tobo-073` : มะเขือเทศ (tomato) : 1 meaning(s), 2 sentences
+- `tobo-078` : ถอดเสื้อผ้า (to undress) : 1 meaning(s), 2 sentences
+- `tobo-081` : เพดาน (ceiling) : 1 meaning(s), 2 sentences
 - `tobo-083` : อนาคต (future) : 1 meaning(s), 2 sentences
+- `tobo-085` : รายละเอียด (detail(s)) : 1 meaning(s), 2 sentences
 - `tobo-086` : ปวดหัว (headache) : 1 meaning(s), 2 sentences
+- `tobo-087` : โจมตี (to attack) : 1 meaning(s), 2 sentences
+- `tobo-090` : ประสบการณ์ (experience) : 1 meaning(s), 2 sentences
+- `tobo-091` : เรื่องตลก (joke) : 1 meaning(s), 2 sentences
+- `tobo-092` : กำปั้น (fist) : 1 meaning(s), 2 sentences
 - `tobo-097` : หนังสือพิมพ์ (newspaper) : 1 meaning(s), 2 sentences
 - `tobo-100` : สำคัญ (important) : 1 meaning(s), 2 sentences
 - `tobo-101` : โทรทัศน์ (television) : 1 meaning(s), 2 sentences
