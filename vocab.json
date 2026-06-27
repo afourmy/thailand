@@ -51200,7 +51200,26 @@
       "Thaipod101"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to win the lottery",
+        "sentences": [
+          {
+            "thai": "เขาถูกหวยรางวัลที่หนึ่งเมื่อปีก่อน",
+            "en": "He won the first prize in the lottery last year.",
+            "audio_src": "เขาถูกหวยรางวัลที่หนึ่งเมื่อปีก่อน",
+            "audio_en_src": "He won the first prize in the lottery last year."
+          },
+          {
+            "thai": "ถ้าถูกหวยฉันจะซื้อบ้านหลังใหม่",
+            "en": "If I win the lottery, I'll buy a new house.",
+            "audio_src": "ถ้าถูกหวยฉันจะซื้อบ้านหลังใหม่",
+            "audio_en_src": "If I win the lottery, I'll buy a new house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-091",
@@ -51212,7 +51231,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to go on a business trip abroad",
+        "sentences": [
+          {
+            "thai": "หัวหน้าไปทำงานต่างประเทศหนึ่งสัปดาห์",
+            "en": "The boss went on a business trip abroad for a week.",
+            "audio_src": "หัวหน้าไปทำงานต่างประเทศหนึ่งสัปดาห์",
+            "audio_en_src": "The boss went on a business trip abroad for a week."
+          },
+          {
+            "thai": "เขาต้องไปทำงานต่างประเทศบ่อยเพราะเป็นงานขาย",
+            "en": "He has to travel abroad for work often because he's in sales.",
+            "audio_src": "เขาต้องไปทำงานต่างประเทศบ่อยเพราะเป็นงานขาย",
+            "audio_en_src": "He has to travel abroad for work often because he's in sales."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-091b",
@@ -51224,7 +51262,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to go on a business trip to another province",
+        "sentences": [
+          {
+            "thai": "พ่อไปทำงานต่างจังหวัดเลยไม่ได้กลับบ้าน",
+            "en": "Dad went on a work trip to another province, so he couldn't come home.",
+            "audio_src": "พ่อไปทำงานต่างจังหวัดเลยไม่ได้กลับบ้าน",
+            "audio_en_src": "Dad went on a work trip to another province, so he couldn't come home."
+          },
+          {
+            "thai": "อาทิตย์นี้เธอไปทำงานต่างจังหวัดสามวัน",
+            "en": "This week she's away on a work trip to another province for three days.",
+            "audio_src": "อาทิตย์นี้เธอไปทำงานต่างจังหวัดสามวัน",
+            "audio_en_src": "This week she's away on a work trip to another province for three days."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-092",
@@ -51248,7 +51305,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "pearl",
+        "sentences": [
+          {
+            "thai": "เธอใส่ต่างหูไข่มุกสีขาว",
+            "en": "She's wearing white pearl earrings.",
+            "audio_src": "เธอใส่ต่างหูไข่มุกสีขาว",
+            "audio_en_src": "She's wearing white pearl earrings."
+          },
+          {
+            "thai": "สร้อยไข่มุกเส้นนี้เป็นของคุณยาย",
+            "en": "This pearl necklace belonged to grandma.",
+            "audio_src": "สร้อยไข่มุกเส้นนี้เป็นของคุณยาย",
+            "audio_en_src": "This pearl necklace belonged to grandma."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-094",
@@ -51262,7 +51338,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "joke, gag, punchline",
+        "sentences": [
+          {
+            "thai": "มุขของเขาฝืดจนไม่มีใครหัวเราะ",
+            "en": "His joke fell so flat that no one laughed.",
+            "audio_src": "มุขของเขาฝืดจนไม่มีใครหัวเราะ",
+            "audio_en_src": "His joke fell so flat that no one laughed."
+          },
+          {
+            "thai": "เขาชอบเล่นมุขตลกในที่ประชุม",
+            "en": "He likes cracking jokes in meetings.",
+            "audio_src": "เขาชอบเล่นมุขตลกในที่ประชุม",
+            "audio_en_src": "He likes cracking jokes in meetings."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-095",
@@ -51284,7 +51379,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "lucky number",
+        "sentences": [
+          {
+            "thai": "เขาเชื่อว่าเลขเจ็ดเป็นเลขนำโชคของตัวเอง",
+            "en": "He believes seven is his lucky number.",
+            "audio_src": "เขาเชื่อว่าเลขเจ็ดเป็นเลขนำโชคของตัวเอง",
+            "audio_en_src": "He believes seven is his lucky number."
+          },
+          {
+            "thai": "เธอเลือกเลขนำโชคมาซื้อหวย",
+            "en": "She picked her lucky number to buy a lottery ticket.",
+            "audio_src": "เธอเลือกเลขนำโชคมาซื้อหวย",
+            "audio_en_src": "She picked her lucky number to buy a lottery ticket."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-097",
@@ -51310,7 +51424,43 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "needle",
+        "sentences": [
+          {
+            "thai": "เธอใช้เข็มกับด้ายเย็บกระดุมที่หลุด",
+            "en": "She used a needle and thread to sew on the button that fell off.",
+            "audio_src": "เธอใช้เข็มกับด้ายเย็บกระดุมที่หลุด",
+            "audio_en_src": "She used a needle and thread to sew on the button that fell off."
+          },
+          {
+            "thai": "ระวังเข็มทิ่มมือตอนเย็บผ้า",
+            "en": "Be careful the needle doesn't prick your hand while sewing.",
+            "audio_src": "ระวังเข็มทิ่มมือตอนเย็บผ้า",
+            "audio_en_src": "Be careful the needle doesn't prick your hand while sewing."
+          }
+        ]
+      },
+      {
+        "meaning": "(informal) shot, injection",
+        "sentences": [
+          {
+            "thai": "หมอฉีดวัคซีนให้เด็กเข็มแรก",
+            "en": "The doctor gave the child the first vaccine shot.",
+            "audio_src": "หมอฉีดวัคซีนให้เด็กเข็มแรก",
+            "audio_en_src": "The doctor gave the child the first vaccine shot."
+          },
+          {
+            "thai": "เขากลัวเข็มเลยไม่ยอมไปฉีดยา",
+            "en": "He's afraid of shots, so he won't go get the injection.",
+            "audio_src": "เขากลัวเข็มเลยไม่ยอมไปฉีดยา",
+            "audio_en_src": "He's afraid of shots, so he won't go get the injection."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-099",
@@ -51353,7 +51503,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pick one's nose",
+        "sentences": [
+          {
+            "thai": "อย่าแคะขี้มูกต่อหน้าคนอื่น มันไม่สุภาพ",
+            "en": "Don't pick your nose in front of others, it's not polite.",
+            "audio_src": "อย่าแคะขี้มูกต่อหน้าคนอื่น มันไม่สุภาพ",
+            "audio_en_src": "Don't pick your nose in front of others, it's not polite."
+          },
+          {
+            "thai": "เด็กชอบแคะขี้มูกเวลาเบื่อ",
+            "en": "Kids like to pick their nose when they're bored.",
+            "audio_src": "เด็กชอบแคะขี้มูกเวลาเบื่อ",
+            "audio_en_src": "Kids like to pick their nose when they're bored."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-104",
@@ -51386,7 +51555,43 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "slope (inclined path)",
+        "sentences": [
+          {
+            "thai": "ห้างนี้มีทางลาดสำหรับรถเข็น",
+            "en": "This mall has a ramp for wheelchairs.",
+            "audio_src": "ห้างนี้มีทางลาดสำหรับรถเข็น",
+            "audio_en_src": "This mall has a ramp for wheelchairs."
+          },
+          {
+            "thai": "เขาเข็นรถขึ้นทางลาดไปที่จอดรถ",
+            "en": "He pushed the cart up the ramp to the parking lot.",
+            "audio_src": "เขาเข็นรถขึ้นทางลาดไปที่จอดรถ",
+            "audio_en_src": "He pushed the cart up the ramp to the parking lot."
+          }
+        ]
+      },
+      {
+        "meaning": "steep slope",
+        "sentences": [
+          {
+            "thai": "รถบรรทุกขึ้นทางลาดชันด้วยความลำบาก",
+            "en": "The truck struggled up the steep slope.",
+            "audio_src": "รถบรรทุกขึ้นทางลาดชันด้วยความลำบาก",
+            "audio_en_src": "The truck struggled up the steep slope."
+          },
+          {
+            "thai": "ระวังตอนขับลงทางลาดชัน เบรกอาจไหม้",
+            "en": "Be careful driving down the steep slope, the brakes might overheat.",
+            "audio_src": "ระวังตอนขับลงทางลาดชัน เบรกอาจไหม้",
+            "audio_en_src": "Be careful driving down the steep slope, the brakes might overheat."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-108",
@@ -51398,7 +51603,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "quiz, test, exam",
+        "sentences": [
+          {
+            "thai": "ครูแจกแบบทดสอบให้นักเรียนทำในห้อง",
+            "en": "The teacher handed out the test for students to do in class.",
+            "audio_src": "ครูแจกแบบทดสอบให้นักเรียนทำในห้อง",
+            "audio_en_src": "The teacher handed out the test for students to do in class."
+          },
+          {
+            "thai": "แบบทดสอบนี้มีทั้งหมดยี่สิบข้อ",
+            "en": "This quiz has twenty questions in total.",
+            "audio_src": "แบบทดสอบนี้มีทั้งหมดยี่สิบข้อ",
+            "audio_en_src": "This quiz has twenty questions in total."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-109",

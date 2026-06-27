@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2013 words**
+**Total: 2023 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1022,6 +1022,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-079` : หนังชีวิต (drama (movie)) : 1 meaning(s), 2 sentences
 - `tsl-082` : หนังรักโรแมนติก (romantic movie) : 1 meaning(s), 2 sentences
 - `tsl-083` : หนังระทึกขวัญ (thriller (movie)) : 1 meaning(s), 2 sentences
+- `tsl-090` : ถูกหวย (to win the lottery) : 1 meaning(s), 2 sentences
+- `tsl-091` : ไปทำงานต่างประเทศ (to go on a business trip abroad) : 1 meaning(s), 2 sentences
+- `tsl-091b` : ไปทำงานต่างจังหวัด (to go on a business trip to another province) : 1 meaning(s), 2 sentences
+- `tsl-093` : มุก, ไข่มุก (pearl) : 1 meaning(s), 2 sentences
+- `tsl-094` : มุข (joke, gag, punchline) : 1 meaning(s), 2 sentences
+- `tsl-096` : เลขนำโชค (lucky number) : 1 meaning(s), 2 sentences
+- `tsl-098` : เข็ม (needle; (informal) shot, injection) : 2 meaning(s), 4 sentences
+- `tsl-103` : แคะขี้มูก (to pick one's nose) : 1 meaning(s), 2 sentences
+- `tsl-107` : ทางลาด - ทางลาดชัน (slope (inclined path) - steep slope) : 2 meaning(s), 4 sentences
+- `tsl-108` : แบบทดสอบ (quiz, test, exam) : 1 meaning(s), 2 sentences
 - `tsl-117` : ซ่อน (to hide, to conceal (e.g something or someone)) : 1 meaning(s), 2 sentences
 - `tsl-125` : สบายใจ (relaxed, at ease emotionally) : 1 meaning(s), 2 sentences
 - `tsl-126` : ตกใจ - แปลกใจ (shocked, startled - surprised, astonished) : 2 meaning(s), 4 sentences
