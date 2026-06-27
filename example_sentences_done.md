@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2882 words**
+**Total: 2892 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2066,6 +2066,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-013` : หมาด (damp, slightly wet, not fully dry yet) : 1 meaning(s), 2 sentences
 - `yt-c05-014` : ระบายสี (to color, to fill with color) : 1 meaning(s), 2 sentences
 - `yt-c05-027` : ผงซักผ้า (laundry detergent (powder)) : 1 meaning(s), 2 sentences
+- `yt-c05-028` : น้ำยาซักผ้า (laundry detergent (liquid)) : 1 meaning(s), 2 sentences
+- `yt-c05-029` : น้ำยาปรับผ้านุ่ม (fabric softener) : 1 meaning(s), 2 sentences
+- `yt-c05-030` : ไม้แขวนเสื้อ (clothes hanger) : 1 meaning(s), 2 sentences
+- `yt-c05-031` : กิ๊บหนีบเสื้อ (clothes pin, clothes clip) : 1 meaning(s), 2 sentences
+- `yt-c05-033` : ราวตากผ้า (drying rack) : 1 meaning(s), 2 sentences
+- `yt-c05-034` : กะละมัง (basin, tub) : 1 meaning(s), 2 sentences
+- `yt-c05-036` : ขยี้ (to rub, to crush, to scrub (repeated movement)) : 1 meaning(s), 2 sentences
+- `yt-c05-038` : สะบัด (to flick, to shake off) : 1 meaning(s), 2 sentences
+- `yt-c05-039` : สะกิด (to provoke, to poke, to nudge) : 1 meaning(s), 2 sentences
+- `yt-c05-046` : ที่คั่นหนังสือ (bookmark) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
