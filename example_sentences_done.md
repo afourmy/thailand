@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2573 words**
+**Total: 2583 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1694,12 +1694,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-034` : จดหมาย (letter (mail)) : 1 meaning(s), 2 sentences
 - `tobo-037` : ฉาก (scene; backdrop, partition) : 2 meaning(s), 4 sentences
 - `tobo-038` : ลุง (uncle (older than parents)) : 1 meaning(s), 2 sentences
+- `tobo-039` : ฝูงชน (crowd) : 1 meaning(s), 2 sentences
+- `tobo-041` : แขวน (to hang) : 1 meaning(s), 2 sentences
 - `tobo-043` : จอ (screen, monitor) : 1 meaning(s), 2 sentences
+- `tobo-044` : ผลิตภัณฑ์ (product) : 1 meaning(s), 2 sentences
+- `tobo-045` : รีไซเคิล (to recycle) : 1 meaning(s), 2 sentences
+- `tobo-048` : ระยะทาง (distance) : 1 meaning(s), 2 sentences
 - `tobo-051` : ป้า (aunt (older than parents)) : 1 meaning(s), 2 sentences
 - `tobo-053` : บันได (stairs, ladder) : 1 meaning(s), 2 sentences
 - `tobo-054` : หมวก (hat) : 1 meaning(s), 2 sentences
 - `tobo-057` : คล้ายกัน (similar) : 1 meaning(s), 2 sentences
+- `tobo-058` : โลหะ (metal) : 1 meaning(s), 2 sentences
+- `tobo-059` : ทหาร (soldier) : 1 meaning(s), 2 sentences
 - `tobo-060` : แผน (plan) : 1 meaning(s), 2 sentences
+- `tobo-061` : ศิลปะ (art) : 1 meaning(s), 2 sentences
+- `tobo-062` : นักดนตรี (musician) : 1 meaning(s), 2 sentences
+- `tobo-063` : วิกฤต (crisis) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
 - `tobo-073` : มะเขือเทศ (tomato) : 1 meaning(s), 2 sentences
 - `tobo-083` : อนาคต (future) : 1 meaning(s), 2 sentences
