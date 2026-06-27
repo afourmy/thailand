@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2842 words**
+**Total: 2852 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2024,8 +2024,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-027` : จับใจความ (to grasp the main idea, to understand the gist of) : 1 meaning(s), 2 sentences
 - `yt-c03-029` : อาศัย, พึ่งพา, พึ่งพาอาศัย (to rely on, to depend on) : 1 meaning(s), 2 sentences
 - `yt-c03-037` : เกินความจำเป็น (unnecessary, excessive, more than needed) : 1 meaning(s), 2 sentences
+- `yt-c03-039` : ตัวกรอง (filter) : 1 meaning(s), 2 sentences
+- `yt-c03-040` : ปรบ, ปรบมือ (to clap (hands), to applaud) : 1 meaning(s), 2 sentences
+- `yt-c03-042` : สบตา, สบสายตา (to make eye contact) : 1 meaning(s), 2 sentences
+- `yt-c03-049` : รัวๆ (over and over, in quick succession, repeatedly, non-stop) : 1 meaning(s), 2 sentences
+- `yt-c03-061` : ตามเข็มนาฬิกา - ทวนเข็มนาฬิกา (clockwise - counterclockwise) : 1 meaning(s), 2 sentences
+- `yt-c03-071` : เมาส์ (mouse) : 1 meaning(s), 2 sentences
+- `yt-c03-072` : แผ่นรองเมาส์ (mouse pad) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
+- `yt-c03-074` : ถ่านไฟ, ถ่าน (battery (e.g LR6, AA)) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
+- `yt-c03-087` : แฟ้ม (folder, file) : 1 meaning(s), 2 sentences
+- `yt-c03-088` : หนีบ (to clip, to pinch, to clamp) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
