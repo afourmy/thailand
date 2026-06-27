@@ -47276,7 +47276,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "constructive, creative, to create constructively",
+        "sentences": [
+          {
+            "thai": "เขาเสนอไอเดียที่สร้างสรรค์ในที่ประชุม",
+            "en": "He proposed creative ideas in the meeting.",
+            "audio_src": "เขาเสนอไอเดียที่สร้างสรรค์ในที่ประชุม",
+            "audio_en_src": "He proposed creative ideas in the meeting."
+          },
+          {
+            "thai": "คำวิจารณ์ที่สร้างสรรค์ช่วยให้เราพัฒนา",
+            "en": "Constructive criticism helps us improve.",
+            "audio_src": "คำวิจารณ์ที่สร้างสรรค์ช่วยให้เราพัฒนา",
+            "audio_en_src": "Constructive criticism helps us improve."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-759",
@@ -47290,7 +47309,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "club, association (e.g informal, like a school club)",
+        "sentences": [
+          {
+            "thai": "เธอเข้าชมรมถ่ายภาพตอนเรียนมหาวิทยาลัย",
+            "en": "She joined the photography club in university.",
+            "audio_src": "เธอเข้าชมรมถ่ายภาพตอนเรียนมหาวิทยาลัย",
+            "audio_en_src": "She joined the photography club in university."
+          },
+          {
+            "thai": "ชมรมดนตรีเปิดรับสมาชิกใหม่แล้ว",
+            "en": "The music club has opened up for new members.",
+            "audio_src": "ชมรมดนตรีเปิดรับสมาชิกใหม่แล้ว",
+            "audio_en_src": "The music club has opened up for new members."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-760",
@@ -47313,7 +47351,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to get goosebumps",
+        "sentences": [
+          {
+            "thai": "ฟังเพลงนี้ทีไรก็ขนลุกทุกที",
+            "en": "Every time I hear this song I get goosebumps.",
+            "audio_src": "ฟังเพลงนี้ทีไรก็ขนลุกทุกที",
+            "audio_en_src": "Every time I hear this song I get goosebumps."
+          },
+          {
+            "thai": "เรื่องผีที่เขาเล่าทำให้ขนลุก",
+            "en": "The ghost story he told gave me goosebumps.",
+            "audio_src": "เรื่องผีที่เขาเล่าทำให้ขนลุก",
+            "audio_en_src": "The ghost story he told gave me goosebumps."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-762",
@@ -47325,7 +47382,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "professional",
+        "sentences": [
+          {
+            "thai": "เขาถ่ายรูปได้สวยเหมือนมืออาชีพ",
+            "en": "He takes photos as beautifully as a professional.",
+            "audio_src": "เขาถ่ายรูปได้สวยเหมือนมืออาชีพ",
+            "audio_en_src": "He takes photos as beautifully as a professional."
+          },
+          {
+            "thai": "งานนี้ต้องจ้างมืออาชีพมาทำ",
+            "en": "This job has to be done by a professional.",
+            "audio_src": "งานนี้ต้องจ้างมืออาชีพมาทำ",
+            "audio_en_src": "This job has to be done by a professional."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-764",
@@ -47338,7 +47414,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "original version, manuscript",
+        "sentences": [
+          {
+            "thai": "นักเขียนส่งต้นฉบับให้สำนักพิมพ์แล้ว",
+            "en": "The writer sent the manuscript to the publisher.",
+            "audio_src": "นักเขียนส่งต้นฉบับให้สำนักพิมพ์แล้ว",
+            "audio_en_src": "The writer sent the manuscript to the publisher."
+          },
+          {
+            "thai": "กรุณาเก็บต้นฉบับไว้ ใช้สำเนาแทน",
+            "en": "Please keep the original, use a copy instead.",
+            "audio_src": "กรุณาเก็บต้นฉบับไว้ ใช้สำเนาแทน",
+            "audio_en_src": "Please keep the original, use a copy instead."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-765",
@@ -47361,7 +47456,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "exaggerated, unrealistic",
+        "sentences": [
+          {
+            "thai": "โฆษณานี้พูดเกินจริงไปหน่อย",
+            "en": "This ad exaggerates a bit.",
+            "audio_src": "โฆษณานี้พูดเกินจริงไปหน่อย",
+            "audio_en_src": "This ad exaggerates a bit."
+          },
+          {
+            "thai": "เขาเล่าเรื่องเกินจริงจนคนไม่เชื่อ",
+            "en": "He told the story in such an exaggerated way that no one believed it.",
+            "audio_src": "เขาเล่าเรื่องเกินจริงจนคนไม่เชื่อ",
+            "audio_en_src": "He told the story in such an exaggerated way that no one believed it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-768",
@@ -47415,7 +47529,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to criticize, review, evaluate",
+        "sentences": [
+          {
+            "thai": "นักวิจารณ์วิจารณ์หนังเรื่องนี้ในแง่ดี",
+            "en": "The critic reviewed this movie positively.",
+            "audio_src": "นักวิจารณ์วิจารณ์หนังเรื่องนี้ในแง่ดี",
+            "audio_en_src": "The critic reviewed this movie positively."
+          },
+          {
+            "thai": "อย่าวิจารณ์คนอื่นถ้ายังไม่รู้เรื่องดีพอ",
+            "en": "Don't criticize others if you don't know the situation well enough.",
+            "audio_src": "อย่าวิจารณ์คนอื่นถ้ายังไม่รู้เรื่องดีพอ",
+            "audio_en_src": "Don't criticize others if you don't know the situation well enough."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-773",
@@ -47427,7 +47560,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "in a negative way",
+        "sentences": [
+          {
+            "thai": "เขามองทุกอย่างไปในทางลบ",
+            "en": "He sees everything in a negative way.",
+            "audio_src": "เขามองทุกอย่างไปในทางลบ",
+            "audio_en_src": "He sees everything in a negative way."
+          },
+          {
+            "thai": "ข่าวนี้ส่งผลต่อภาพลักษณ์ในทางลบ",
+            "en": "This news affects the image in a negative way.",
+            "audio_src": "ข่าวนี้ส่งผลต่อภาพลักษณ์ในทางลบ",
+            "audio_en_src": "This news affects the image in a negative way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-774",
@@ -47450,7 +47602,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to insult someone indirectly",
+        "sentences": [
+          {
+            "thai": "เขาหลอกด่าเพื่อนด้วยคำชมแบบประชด",
+            "en": "He insulted his friend indirectly with sarcastic praise.",
+            "audio_src": "เขาหลอกด่าเพื่อนด้วยคำชมแบบประชด",
+            "audio_en_src": "He insulted his friend indirectly with sarcastic praise."
+          },
+          {
+            "thai": "ระวังนะ เธอกำลังหลอกด่าเราอยู่",
+            "en": "Watch out, she's insulting us in a roundabout way.",
+            "audio_src": "ระวังนะ เธอกำลังหลอกด่าเราอยู่",
+            "audio_en_src": "Watch out, she's insulting us in a roundabout way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-776",
@@ -47464,7 +47635,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to peel off, to unpack, to untie, to remove (a wrapping)",
+        "sentences": [
+          {
+            "thai": "เด็กรีบแกะกล่องของขวัญด้วยความตื่นเต้น",
+            "en": "The kid excitedly tore open the gift box.",
+            "audio_src": "เด็กรีบแกะกล่องของขวัญด้วยความตื่นเต้น",
+            "audio_en_src": "The kid excitedly tore open the gift box."
+          },
+          {
+            "thai": "ช่วยแกะพลาสติกหุ้มกล่องออกหน่อย",
+            "en": "Please remove the plastic wrap around the box.",
+            "audio_src": "ช่วยแกะพลาสติกหุ้มกล่องออกหน่อย",
+            "audio_en_src": "Please remove the plastic wrap around the box."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-777",

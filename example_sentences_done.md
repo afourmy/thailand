@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1944 words**
+**Total: 1954 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -940,6 +940,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-742` : อ่านหนังสือสอบ (to study for an exam) : 1 meaning(s), 2 sentences
 - `tamago-l3-743` : เลอะเทอะ (dirty, messy) : 1 meaning(s), 2 sentences
 - `tamago-l3-753` : วนเวียน (to circle around, to go round and round) : 1 meaning(s), 2 sentences
+- `tamago-l3-758` : สร้างสรรค์ (constructive, creative, to create constructively) : 1 meaning(s), 2 sentences
+- `tamago-l3-759` : ชมรม (club, association (e.g informal, like a school club)) : 1 meaning(s), 2 sentences
+- `tamago-l3-761` : ขนลุก (to get goosebumps) : 1 meaning(s), 2 sentences
+- `tamago-l3-762` : มืออาชีพ (professional) : 1 meaning(s), 2 sentences
+- `tamago-l3-764` : ต้นฉบับ (original version, manuscript) : 1 meaning(s), 2 sentences
+- `tamago-l3-767` : เกินจริง (exaggerated, unrealistic) : 1 meaning(s), 2 sentences
+- `tamago-l3-772` : วิจารณ์ (to criticize, review, evaluate) : 1 meaning(s), 2 sentences
+- `tamago-l3-773` : ทางลบ (in a negative way) : 1 meaning(s), 2 sentences
+- `tamago-l3-775` : หลอกด่า (to insult someone indirectly) : 1 meaning(s), 2 sentences
+- `tamago-l3-776` : แกะ (to peel off, to unpack, to untie, to remove (a wrapping)) : 1 meaning(s), 2 sentences
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
 - `tamago-l3-790` : นักศึกษา (university student, college student) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
