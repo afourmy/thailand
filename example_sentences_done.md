@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2902 words**
+**Total: 2912 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2086,6 +2086,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-088` : ห่ม (to cover, to wrap (usually with a cloth, e.g blanket)) : 1 meaning(s), 2 sentences
 - `yt-c05-089` : ชนชั้น (social class, stratum) : 1 meaning(s), 2 sentences
 - `yt-c05-095` : ทำไร่ (to farm, to do plantation work) : 1 meaning(s), 2 sentences
+- `yt-c06-003` : ราวบันได (handrail) : 1 meaning(s), 2 sentences
+- `yt-c06-004` : เขย่า (to shake) : 1 meaning(s), 2 sentences
+- `yt-c06-007` : ตะขอ (hook (clothes, fishing, etc)) : 1 meaning(s), 2 sentences
+- `yt-c06-009` : ขัน (basin) : 1 meaning(s), 2 sentences
+- `yt-c06-010` : สายฉีดตูด, สายชำระ (bidet spray (bum gun)) : 1 meaning(s), 2 sentences
+- `yt-c06-012` : ติดนิสัย (to pick up a habit, to get used to a behavior) : 1 meaning(s), 2 sentences
+- `yt-c06-013` : ตัวต่อตัว (face-to-face, one-on-one) : 1 meaning(s), 2 sentences
+- `yt-c06-015` : ตู้ข้างเตียง (bedside table) : 1 meaning(s), 2 sentences
+- `yt-c06-016` : ชักโครก (flush toilet (toilet that you can flush, ie normal toilet)) : 1 meaning(s), 2 sentences
+- `yt-c06-017` : ภาพลักษณ์ (public image, reputation, public perception) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
