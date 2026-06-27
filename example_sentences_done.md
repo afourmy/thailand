@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2563 words**
+**Total: 2573 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1674,15 +1674,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
 - `tobo-008` : เหยื่อ (victim; bait) : 2 meaning(s), 4 sentences
 - `tobo-009` : ลบ (to subtract, to delete; negative) : 2 meaning(s), 4 sentences
+- `tobo-011` : การเตรียมการ (preparation) : 1 meaning(s), 2 sentences
+- `tobo-013` : ผ้าอ้อม (diaper) : 1 meaning(s), 2 sentences
+- `tobo-015` : อ่างล้างจาน (kitchen sink) : 1 meaning(s), 2 sentences
 - `tobo-016` : กระดูก (bone) : 1 meaning(s), 2 sentences
 - `tobo-018` : หน้าต่าง (window) : 1 meaning(s), 2 sentences
 - `tobo-019` : ป่า (forest; wild) : 2 meaning(s), 4 sentences
 - `tobo-020` : จบ (to finish, the end) : 1 meaning(s), 2 sentences
+- `tobo-022` : ฉุกเฉิน (emergency) : 1 meaning(s), 2 sentences
 - `tobo-023` : เก้าอี้ (chair) : 1 meaning(s), 2 sentences
+- `tobo-025` : ศิลปิน (artist) : 1 meaning(s), 2 sentences
 - `tobo-027` : ยาสีฟัน (toothpaste) : 1 meaning(s), 2 sentences
+- `tobo-028` : ที่เป่าผม, ไดร์เป่าผม (hair dryer) : 1 meaning(s), 2 sentences
 - `tobo-029` : ฟ้า, ท้องฟ้า (sky) : 1 meaning(s), 2 sentences
+- `tobo-030` : อ่อนแอ (weak) : 1 meaning(s), 2 sentences
+- `tobo-031` : อาวุธ (weapon) : 1 meaning(s), 2 sentences
 - `tobo-032` : หิน (stone, rock) : 1 meaning(s), 2 sentences
+- `tobo-033` : สงคราม (war) : 1 meaning(s), 2 sentences
 - `tobo-034` : จดหมาย (letter (mail)) : 1 meaning(s), 2 sentences
+- `tobo-037` : ฉาก (scene; backdrop, partition) : 2 meaning(s), 4 sentences
 - `tobo-038` : ลุง (uncle (older than parents)) : 1 meaning(s), 2 sentences
 - `tobo-043` : จอ (screen, monitor) : 1 meaning(s), 2 sentences
 - `tobo-051` : ป้า (aunt (older than parents)) : 1 meaning(s), 2 sentences
