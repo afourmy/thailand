@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2862 words**
+**Total: 2872 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2046,6 +2046,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-012` : สอด (to insert in, to slip into (an object, usually a small space)) : 1 meaning(s), 2 sentences
 - `yt-c04-019` : ปาด (to swipe, to wipe, to cut across (quick motion)) : 1 meaning(s), 2 sentences
 - `yt-c04-022` : ละเอียดอ่อน (delicate, sensitive) : 1 meaning(s), 2 sentences
+- `yt-c04-026` : ทดสอบ (to check, test, evaluate, experiment) : 1 meaning(s), 2 sentences
+- `yt-c04-037` : อ้อม (curved, indirect, roundabout) : 1 meaning(s), 2 sentences
+- `yt-c04-038` : นิ่ม (soft, silky, gentle) : 1 meaning(s), 2 sentences
+- `yt-c04-039` : คำชม (compliment) : 1 meaning(s), 2 sentences
+- `yt-c04-047` : หยด (to drop (water, tear), to drip) : 1 meaning(s), 2 sentences
+- `yt-c04-056` : ตาชั่ง (balance, weighting scale) : 1 meaning(s), 2 sentences
+- `yt-c04-081` : กระบะ (container, tray (e.g at airport security)) : 1 meaning(s), 2 sentences
+- `yt-c04-082` : สะพาย (to carry over the shoulder (e.g a bag)) : 1 meaning(s), 2 sentences
+- `yt-c04-083` : กระเป๋าสะพาย (shoulder bag) : 1 meaning(s), 2 sentences
+- `yt-c04-084` : รัด (to tighten, to constrict, to fasten, to bind tightly) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
