@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2912 words**
+**Total: 2922 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2096,6 +2096,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-015` : ตู้ข้างเตียง (bedside table) : 1 meaning(s), 2 sentences
 - `yt-c06-016` : ชักโครก (flush toilet (toilet that you can flush, ie normal toilet)) : 1 meaning(s), 2 sentences
 - `yt-c06-017` : ภาพลักษณ์ (public image, reputation, public perception) : 1 meaning(s), 2 sentences
+- `yt-c06-019` : สีแทน (tan color) : 1 meaning(s), 2 sentences
+- `yt-c06-020` : มัด (to tie, to bind, to bundle) : 1 meaning(s), 2 sentences
+- `yt-c06-027` : ที่อุดหู (ear plug) : 1 meaning(s), 2 sentences
+- `yt-c06-030` : หยอด (to drop in, to insert (e.g coin in machine)) : 1 meaning(s), 2 sentences
+- `yt-c06-038` : ตัวสำรอง (substitute (e.g football player)) : 1 meaning(s), 2 sentences
+- `yt-c06-043` : สาระ (essence, meaningful content, key point) : 1 meaning(s), 2 sentences
+- `yt-c06-062` : สายจูง (leash (e.g for dogs)) : 1 meaning(s), 2 sentences
+- `yt-c06-066` : กระดิก (to wiggle, to twitch, to move slightly back and forth) : 1 meaning(s), 2 sentences
+- `yt-c06-068` : จรจัด (stray (of animals, e.g stray dogs)) : 1 meaning(s), 2 sentences
+- `yt-c06-077` : ปริญญาโท (master degree (in Thai university)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
