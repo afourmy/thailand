@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2443 words**
+**Total: 2453 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1505,8 +1505,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0927` : วุ่น, วุ่นวาย (chaotic, busy, hectic) : 1 meaning(s), 2 sentences
 - `thaipod-0930` : ศพ (corpse, body) : 1 meaning(s), 2 sentences
 - `thaipod-0933` : ศาลา (pavilion, sala (open-sided structure)) : 1 meaning(s), 2 sentences
+- `thaipod-0937` : ศิลปะการต่อสู้ (martial arts) : 1 meaning(s), 2 sentences
+- `thaipod-0941` : ศึก (battle, war) : 1 meaning(s), 2 sentences
+- `thaipod-0942` : ศึกษา (to study, to learn (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0945` : สงบ (peaceful, calm, quiet) : 1 meaning(s), 2 sentences
+- `thaipod-0946` : สงบเงียบ (peaceful and quiet) : 1 meaning(s), 2 sentences
 - `thaipod-0947` : สงสัย (to wonder, to suspect, to be curious) : 1 meaning(s), 3 sentences
 - `thaipod-0948` : สงสาร (to pity, to feel sorry for) : 1 meaning(s), 2 sentences
+- `thaipod-0949` : สตรี (woman, female (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0950` : สถานที่ท่องเที่ยว (tourist attraction) : 1 meaning(s), 2 sentences
+- `thaipod-0952` : สถานะ (status, current state) : 1 meaning(s), 2 sentences
+- `thaipod-0956` : สถิติ (statistics) : 1 meaning(s), 2 sentences
+- `thaipod-0959` : สภาพ (condition, state) : 1 meaning(s), 2 sentences
 - `thaipod-0975` : สร้าง (to create, to build) : 1 meaning(s), 2 sentences
 - `thaipod-0989` : สะดวก (convenient) : 1 meaning(s), 2 sentences
 - `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
