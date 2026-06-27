@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2743 words**
+**Total: 2753 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1916,8 +1916,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-405` : ผู้อพยพ (immigrant, migrant) : 1 meaning(s), 2 sentences
 - `tobo-406` : รัฐมนตรี (minister (government)) : 1 meaning(s), 2 sentences
 - `tobo-410` : เจ้าของ (owner) : 1 meaning(s), 2 sentences
+- `tobo-411` : ให้ยืม (to lend) : 1 meaning(s), 2 sentences
 - `tobo-412` : โสด (single (unmarried)) : 1 meaning(s), 2 sentences
 - `tobo-414` : ห้องนั่งเล่น, ห้องรับแขก (living room) : 1 meaning(s), 2 sentences
+- `tobo-417` : น้ำพุ (fountain) : 1 meaning(s), 2 sentences
+- `tobo-418` : การแข่งขัน (competition) : 1 meaning(s), 2 sentences
+- `tobo-420` : ผลกระทบ (impact, effect) : 1 meaning(s), 2 sentences
+- `tobo-425` : โต๊ะหัวเตียง (nightstand, bedside table) : 1 meaning(s), 2 sentences
+- `tobo-427` : เครือข่าย (network) : 1 meaning(s), 2 sentences
+- `tobo-428` : ใบอนุญาต (license, permit) : 1 meaning(s), 2 sentences
+- `tobo-431` : ผู้ก่อตั้ง (founder) : 1 meaning(s), 2 sentences
+- `tobo-432` : บรรลุ (to achieve, to accomplish, to attain) : 1 meaning(s), 2 sentences
+- `tobo-434` : ทำให้สั้น (to shorten) : 1 meaning(s), 2 sentences
 - `tobo-442` : มหาวิทยาลัย (university; campus) : 2 meaning(s), 4 sentences
 - `tobo-461` : ตัวอย่าง (sample, example) : 1 meaning(s), 2 sentences
 - `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
