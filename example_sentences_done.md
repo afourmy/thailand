@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2413 words**
+**Total: 2423 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1471,7 +1471,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0828` : รอยสัก, สัก (tattoo) : 1 meaning(s), 2 sentences
 - `thaipod-0829` : รอยเท้า (footprint) : 1 meaning(s), 2 sentences
 - `thaipod-0830` : รอยแตก (crack, fracture) : 1 meaning(s), 2 sentences
+- `thaipod-0831` : ระฆัง (bell (large, e.g temple bell)) : 1 meaning(s), 2 sentences
+- `thaipod-0832` : ระยะ (span, phase, period) : 1 meaning(s), 2 sentences
+- `thaipod-0834` : ระลึก (commemorative, to recall) : 1 meaning(s), 2 sentences
 - `thaipod-0835` : ระหว่าง (during, between) : 2 meaning(s), 4 sentences
+- `thaipod-0836` : ระหว่างทาง (on the way, along the way) : 1 meaning(s), 2 sentences
+- `thaipod-0841` : รัฐ (state (political)) : 1 meaning(s), 2 sentences
+- `thaipod-0843` : รัฐบาล (government) : 1 meaning(s), 2 sentences
+- `thaipod-0848` : รั้ว (fence, barrier) : 1 meaning(s), 2 sentences
+- `thaipod-0849` : รากฐาน (foundation, basis) : 1 meaning(s), 2 sentences
+- `thaipod-0867` : ริมทะเล (by the sea, seaside) : 1 meaning(s), 2 sentences
+- `thaipod-0871` : รุ่งเรือง (prosperous, flourishing) : 1 meaning(s), 2 sentences
 - `thaipod-0880` : ร้าน, ร้านค้า (shop, store) : 1 meaning(s), 2 sentences
 - `thaipod-0918` : วัยรุ่น (teenager, adolescent) : 1 meaning(s), 2 sentences
 - `thaipod-0922` : วิธี (way, method) : 1 meaning(s), 2 sentences
