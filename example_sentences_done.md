@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2023 words**
+**Total: 2033 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1032,9 +1032,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-103` : แคะขี้มูก (to pick one's nose) : 1 meaning(s), 2 sentences
 - `tsl-107` : ทางลาด - ทางลาดชัน (slope (inclined path) - steep slope) : 2 meaning(s), 4 sentences
 - `tsl-108` : แบบทดสอบ (quiz, test, exam) : 1 meaning(s), 2 sentences
+- `tsl-111` : หลอน (haunted, spooky, creepy; to hallucinate) : 2 meaning(s), 4 sentences
+- `tsl-112` : บ่ง, บ่งบอก (to indicate, to reveal) : 1 meaning(s), 2 sentences
+- `tsl-113` : เบื้องลึก (deep inside, innermost (motivation, secret)) : 1 meaning(s), 2 sentences
 - `tsl-117` : ซ่อน (to hide, to conceal (e.g something or someone)) : 1 meaning(s), 2 sentences
+- `tsl-119` : เปิดกว้าง (wide open; open-minded) : 2 meaning(s), 4 sentences
+- `tsl-120` : ความไม่เป๊ะ (imperfection, lack of precision) : 1 meaning(s), 2 sentences
 - `tsl-125` : สบายใจ (relaxed, at ease emotionally) : 1 meaning(s), 2 sentences
 - `tsl-126` : ตกใจ - แปลกใจ (shocked, startled - surprised, astonished) : 2 meaning(s), 4 sentences
+- `tsl-132` : อุทาน (to exclaim ("wow!", "ouch!")) : 1 meaning(s), 2 sentences
+- `tsl-134` : ถนอม (to preserve, to nurture (food, books, documents, friendship)) : 1 meaning(s), 2 sentences
+- `tsl-137` : ยอดฮิต (hit, most popular) : 1 meaning(s), 2 sentences
+- `tsl-141` : ได้รับอิทธิพล (to be influenced by) : 1 meaning(s), 2 sentences
+- `tsl-146` : บ้านๆ (simple, unpretentious, rustic, local) : 1 meaning(s), 2 sentences
 - `tsl-177` : เล่นเฟซบุ๊ก - เล่นอินสตาแกรม (to use Facebook - Instagram) : 2 meaning(s), 4 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences

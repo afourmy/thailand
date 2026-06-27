@@ -51655,7 +51655,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "haunted, spooky, creepy",
+        "sentences": [
+          {
+            "thai": "บ้านร้างหลังนั้นบรรยากาศหลอนมาก",
+            "en": "That abandoned house has a really creepy atmosphere.",
+            "audio_src": "บ้านร้างหลังนั้นบรรยากาศหลอนมาก",
+            "audio_en_src": "That abandoned house has a really creepy atmosphere."
+          },
+          {
+            "thai": "เพลงนี้ฟังแล้วรู้สึกหลอนๆ",
+            "en": "This song feels eerie to listen to.",
+            "audio_src": "เพลงนี้ฟังแล้วรู้สึกหลอนๆ",
+            "audio_en_src": "This song feels eerie to listen to."
+          }
+        ]
+      },
+      {
+        "meaning": "to hallucinate",
+        "sentences": [
+          {
+            "thai": "อดนอนหลายคืนจนเริ่มเห็นภาพหลอน",
+            "en": "After not sleeping for several nights, I started hallucinating.",
+            "audio_src": "อดนอนหลายคืนจนเริ่มเห็นภาพหลอน",
+            "audio_en_src": "After not sleeping for several nights, I started hallucinating."
+          },
+          {
+            "thai": "เขาหลอนไปเองว่ามีคนตามอยู่",
+            "en": "He's hallucinating that someone is following him.",
+            "audio_src": "เขาหลอนไปเองว่ามีคนตามอยู่",
+            "audio_en_src": "He's hallucinating that someone is following him."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-112",
@@ -51670,7 +51706,26 @@
       "Chulalongkorn L6"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to indicate, to reveal",
+        "sentences": [
+          {
+            "thai": "อาการนี้บ่งบอกว่าร่างกายขาดน้ำ",
+            "en": "This symptom indicates the body is dehydrated.",
+            "audio_src": "อาการนี้บ่งบอกว่าร่างกายขาดน้ำ",
+            "audio_en_src": "This symptom indicates the body is dehydrated."
+          },
+          {
+            "thai": "สีหน้าของเขาบ่งบอกว่ากำลังโกหก",
+            "en": "His facial expression reveals that he's lying.",
+            "audio_src": "สีหน้าของเขาบ่งบอกว่ากำลังโกหก",
+            "audio_en_src": "His facial expression reveals that he's lying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-113",
@@ -51682,7 +51737,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "deep inside, innermost (motivation, secret)",
+        "sentences": [
+          {
+            "thai": "เบื้องลึกในใจเขายังรักเธออยู่",
+            "en": "Deep inside, he still loves her.",
+            "audio_src": "เบื้องลึกในใจเขายังรักเธออยู่",
+            "audio_en_src": "Deep inside, he still loves her."
+          },
+          {
+            "thai": "นักข่าวขุดเบื้องลึกของเรื่องอื้อฉาวนี้",
+            "en": "The reporter dug into the inside story of this scandal.",
+            "audio_src": "นักข่าวขุดเบื้องลึกของเรื่องอื้อฉาวนี้",
+            "audio_en_src": "The reporter dug into the inside story of this scandal."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-114",
@@ -51772,7 +51846,43 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "wide open",
+        "sentences": [
+          {
+            "thai": "ตลาดงานสายไอทีเปิดกว้างมาก",
+            "en": "The job market in IT is wide open.",
+            "audio_src": "ตลาดงานสายไอทีเปิดกว้างมาก",
+            "audio_en_src": "The job market in IT is wide open."
+          },
+          {
+            "thai": "โอกาสในการเรียนต่อเปิดกว้างสำหรับทุกคน",
+            "en": "Opportunities to study further are wide open for everyone.",
+            "audio_src": "โอกาสในการเรียนต่อเปิดกว้างสำหรับทุกคน",
+            "audio_en_src": "Opportunities to study further are wide open for everyone."
+          }
+        ]
+      },
+      {
+        "meaning": "open-minded",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนใจเปิดกว้าง รับฟังความเห็นต่าง",
+            "en": "He's open-minded and listens to differing opinions.",
+            "audio_src": "เขาเป็นคนใจเปิดกว้าง รับฟังความเห็นต่าง",
+            "audio_en_src": "He's open-minded and listens to differing opinions."
+          },
+          {
+            "thai": "พ่อแม่ยุคใหม่เปิดกว้างเรื่องการเลือกอาชีพของลูก",
+            "en": "Modern parents are open-minded about their children's career choices.",
+            "audio_src": "พ่อแม่ยุคใหม่เปิดกว้างเรื่องการเลือกอาชีพของลูก",
+            "audio_en_src": "Modern parents are open-minded about their children's career choices."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-120",
@@ -51784,7 +51894,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "imperfection, lack of precision",
+        "sentences": [
+          {
+            "thai": "งานแฮนด์เมดมีความไม่เป๊ะที่เป็นเสน่ห์",
+            "en": "Handmade work has an imperfection that's part of its charm.",
+            "audio_src": "งานแฮนด์เมดมีความไม่เป๊ะที่เป็นเสน่ห์",
+            "audio_en_src": "Handmade work has an imperfection that's part of its charm."
+          },
+          {
+            "thai": "ความไม่เป๊ะเล็กน้อยทำให้ดูเป็นธรรมชาติ",
+            "en": "A slight lack of precision makes it look natural.",
+            "audio_src": "ความไม่เป๊ะเล็กน้อยทำให้ดูเป็นธรรมชาติ",
+            "audio_en_src": "A slight lack of precision makes it look natural."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-121",
@@ -51963,7 +52092,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to exclaim (\"wow!\", \"ouch!\")",
+        "sentences": [
+          {
+            "thai": "เธออุทานออกมาด้วยความตกใจ",
+            "en": "She exclaimed in shock.",
+            "audio_src": "เธออุทานออกมาด้วยความตกใจ",
+            "audio_en_src": "She exclaimed in shock."
+          },
+          {
+            "thai": "พอเห็นของขวัญ เด็กก็อุทานด้วยความดีใจ",
+            "en": "When he saw the gift, the kid exclaimed with joy.",
+            "audio_src": "พอเห็นของขวัญ เด็กก็อุทานด้วยความดีใจ",
+            "audio_en_src": "When he saw the gift, the kid exclaimed with joy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-134",
@@ -51977,7 +52125,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to preserve, to nurture (food, books, documents, friendship)",
+        "sentences": [
+          {
+            "thai": "เธอถนอมอาหารด้วยการแช่แข็ง",
+            "en": "She preserves food by freezing it.",
+            "audio_src": "เธอถนอมอาหารด้วยการแช่แข็ง",
+            "audio_en_src": "She preserves food by freezing it."
+          },
+          {
+            "thai": "เขาถนอมหนังสือเก่าอย่างดีไม่ให้ขาด",
+            "en": "He takes good care of the old books so they don't tear.",
+            "audio_src": "เขาถนอมหนังสือเก่าอย่างดีไม่ให้ขาด",
+            "audio_en_src": "He takes good care of the old books so they don't tear."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-135",
@@ -52012,7 +52179,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "hit, most popular",
+        "sentences": [
+          {
+            "thai": "เพลงนี้เป็นเพลงยอดฮิตของปีนี้",
+            "en": "This song is the biggest hit of the year.",
+            "audio_src": "เพลงนี้เป็นเพลงยอดฮิตของปีนี้",
+            "audio_en_src": "This song is the biggest hit of the year."
+          },
+          {
+            "thai": "เมนูยอดฮิตของร้านคือข้าวผัดปู",
+            "en": "The shop's most popular dish is crab fried rice.",
+            "audio_src": "เมนูยอดฮิตของร้านคือข้าวผัดปู",
+            "audio_en_src": "The shop's most popular dish is crab fried rice."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-138",
@@ -52045,7 +52231,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to be influenced by",
+        "sentences": [
+          {
+            "thai": "อาหารไทยได้รับอิทธิพลจากหลายชาติ",
+            "en": "Thai food is influenced by many nations.",
+            "audio_src": "อาหารไทยได้รับอิทธิพลจากหลายชาติ",
+            "audio_en_src": "Thai food is influenced by many nations."
+          },
+          {
+            "thai": "สไตล์การแต่งตัวของเขาได้รับอิทธิพลจากเกาหลี",
+            "en": "His fashion style is influenced by Korea.",
+            "audio_src": "สไตล์การแต่งตัวของเขาได้รับอิทธิพลจากเกาหลี",
+            "audio_en_src": "His fashion style is influenced by Korea."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-142",
@@ -52098,7 +52303,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "simple, unpretentious, rustic, local",
+        "sentences": [
+          {
+            "thai": "ร้านนี้บรรยากาศบ้านๆ แต่อาหารอร่อย",
+            "en": "This place has a homey, rustic vibe but the food is delicious.",
+            "audio_src": "ร้านนี้บรรยากาศบ้านๆ แต่อาหารอร่อย",
+            "audio_en_src": "This place has a homey, rustic vibe but the food is delicious."
+          },
+          {
+            "thai": "เขาชอบความเรียบง่ายแบบบ้านๆ",
+            "en": "He likes the simple, down-to-earth style.",
+            "audio_src": "เขาชอบความเรียบง่ายแบบบ้านๆ",
+            "audio_en_src": "He likes the simple, down-to-earth style."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-147",
