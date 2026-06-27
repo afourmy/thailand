@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2263 words**
+**Total: 2273 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1287,8 +1287,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0213` : คำขอ (request, application, petition) : 1 meaning(s), 2 sentences
 - `thaipod-0217` : คึกคัก (lively, bustling) : 1 meaning(s), 2 sentences
 - `thaipod-0219` : คุกเข่า (to kneel) : 1 meaning(s), 2 sentences
+- `thaipod-0220` : คุณค่า (value, worth (abstract)) : 1 meaning(s), 2 sentences
+- `thaipod-0222` : คุม, ควบคุม (to control, to supervise) : 1 meaning(s), 2 sentences
+- `thaipod-0224` : คุ้มครอง (to protect, to safeguard) : 1 meaning(s), 2 sentences
+- `thaipod-0231` : ค้างคืน (overnight, to stay overnight) : 1 meaning(s), 2 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
+- `thaipod-0240` : งานฉลอง (celebration, festivity) : 1 meaning(s), 2 sentences
+- `thaipod-0241` : งานแสดง (exhibition, show, expo) : 1 meaning(s), 2 sentences
+- `thaipod-0247` : จัดการ (to manage, to arrange, to handle) : 1 meaning(s), 2 sentences
+- `thaipod-0253` : จาง (to fade, to pale) : 1 meaning(s), 2 sentences
+- `thaipod-0256` : จำลอง (to replicate, to simulate, replica) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
+- `thaipod-0263` : จุดหมาย (destination, goal) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
 - `thaipod-0305` : ญาติ (relative (family)) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
