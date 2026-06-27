@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2313 words**
+**Total: 2323 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1344,12 +1344,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0369` : ตามหา (to look for, to search for) : 1 meaning(s), 2 sentences
 - `thaipod-0371` : ตำนาน (legend) : 1 meaning(s), 2 sentences
 - `thaipod-0373` : ติดกัน (adjacent, next to each other) : 1 meaning(s), 2 sentences
+- `thaipod-0375` : ตีความ, ตีความหมาย (to interpret, to analyze) : 1 meaning(s), 2 sentences
 - `thaipod-0378` : ตุ๊กตา (doll) : 1 meaning(s), 2 sentences
+- `thaipod-0380` : ตุ๊กตาหมี (teddy bear) : 1 meaning(s), 2 sentences
 - `thaipod-0382` : ต่อ (for, against; per) : 2 meaning(s), 4 sentences
+- `thaipod-0384` : ต่อเนื่อง (continuously, in succession) : 1 meaning(s), 2 sentences
+- `thaipod-0385` : ต่างจังหวัด (provincial, out-of-town, upcountry) : 1 meaning(s), 2 sentences
 - `thaipod-0386` : ต่างๆ (various) : 1 meaning(s), 2 sentences
 - `thaipod-0387` : ต้น (tree; classifier for plants) : 2 meaning(s), 4 sentences
+- `thaipod-0388` : ต้นกำเนิด (origin, source) : 1 meaning(s), 2 sentences
+- `thaipod-0391` : ต้นแบบ (model, prototype) : 1 meaning(s), 2 sentences
+- `thaipod-0394` : ถิ่น (region, habitat, native place) : 1 meaning(s), 2 sentences
+- `thaipod-0415` : ทอดทิ้ง (to forsake, to abandon, to neglect) : 1 meaning(s), 2 sentences
 - `thaipod-0422` : ทัน (in time, to catch up) : 1 meaning(s), 2 sentences
+- `thaipod-0426` : ทั่วโลก (worldwide, around the world) : 1 meaning(s), 2 sentences
 - `thaipod-0427` : ทั่วไป, โดยทั่วไป (generally, in general) : 1 meaning(s), 2 sentences
+- `thaipod-0437` : ทางบก (by land, on land) : 1 meaning(s), 2 sentences
 - `thaipod-0447` : ทิ้ง (to leave, to throw away, to discard) : 1 meaning(s), 2 sentences
 - `thaipod-0454` : ที่รัก (beloved, darling) : 1 meaning(s), 2 sentences
 - `thaipod-0459` : ทุกวันนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
