@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2892 words**
+**Total: 2902 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2076,6 +2076,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-038` : สะบัด (to flick, to shake off) : 1 meaning(s), 2 sentences
 - `yt-c05-039` : สะกิด (to provoke, to poke, to nudge) : 1 meaning(s), 2 sentences
 - `yt-c05-046` : ที่คั่นหนังสือ (bookmark) : 1 meaning(s), 2 sentences
+- `yt-c05-055` : เป้า (target) : 1 meaning(s), 2 sentences
+- `yt-c05-056` : ยก (to lift, to raise; a round (e.g in a boxing match)) : 2 meaning(s), 4 sentences
+- `yt-c05-060` : ก้าวข้าม (to get past (e.g a difficulty), to rise above, to overcome) : 1 meaning(s), 2 sentences
+- `yt-c05-061` : มาตรฐาน (standard) : 1 meaning(s), 2 sentences
+- `yt-c05-066` : ครีมนวดผม (conditioner (hair)) : 1 meaning(s), 2 sentences
+- `yt-c05-072` : แน่น (tight, dense, packed (e.g traffic, street)) : 1 meaning(s), 2 sentences
+- `yt-c05-083` : จูง (to lead, to guide, to pull (e.g by hand, or with a rope, a leash)) : 1 meaning(s), 2 sentences
+- `yt-c05-088` : ห่ม (to cover, to wrap (usually with a cloth, e.g blanket)) : 1 meaning(s), 2 sentences
+- `yt-c05-089` : ชนชั้น (social class, stratum) : 1 meaning(s), 2 sentences
+- `yt-c05-095` : ทำไร่ (to farm, to do plantation work) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
