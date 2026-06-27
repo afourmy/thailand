@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2533 words**
+**Total: 2543 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1624,15 +1624,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1263` : เล่นงาน (to attack, to take action against, to target) : 1 meaning(s), 2 sentences
 - `thaipod-1264` : เล่า (to tell (a story)) : 1 meaning(s), 2 sentences
 - `thaipod-1284` : เสียชีวิต (to die, to pass away) : 1 meaning(s), 2 sentences
+- `thaipod-1285` : เสี่ยงทายดู (to try one's luck, to make a guess, to try fortune-telling) : 1 meaning(s), 2 sentences
+- `thaipod-1286` : เสี่ยงอันตราย (risky, dangerous) : 1 meaning(s), 2 sentences
 - `thaipod-1288` : เหนือ (above, over; north) : 2 meaning(s), 4 sentences
+- `thaipod-1289` : เหมาะ (suitable, appropriate) : 1 meaning(s), 2 sentences
 - `thaipod-1297` : เอาละ (alright, well then) : 1 meaning(s), 2 sentences
 - `thaipod-1301` : แก (you (informal)) : 1 meaning(s), 2 sentences
 - `thaipod-1304` : แก้ (to fix, to solve, to correct) : 1 meaning(s), 3 sentences
+- `thaipod-1305` : แก้มพองๆ (puffy cheeks) : 1 meaning(s), 2 sentences
+- `thaipod-1306` : แง่มุม (aspect, point of view, perspective) : 1 meaning(s), 2 sentences
+- `thaipod-1308` : แตกแยก (to break apart, to split) : 1 meaning(s), 2 sentences
 - `thaipod-1309` : แต่ง (to dress up, to compose, to decorate) : 1 meaning(s), 3 sentences
 - `thaipod-1311` : แต่งหน้า (to put on makeup) : 1 meaning(s), 2 sentences
 - `thaipod-1313` : แต่ละ (each, every) : 1 meaning(s), 2 sentences
+- `thaipod-1315` : แถบ (region, area, zone) : 1 meaning(s), 2 sentences
 - `thaipod-1317` : แถว (area, neighborhood; row) : 2 meaning(s), 4 sentences
 - `thaipod-1318` : แทน (instead of, in place of) : 1 meaning(s), 2 sentences
+- `thaipod-1319` : แทบ (almost, nearly) : 1 meaning(s), 2 sentences
+- `thaipod-1321` : แท้ (genuine, true, real) : 1 meaning(s), 2 sentences
+- `thaipod-1324` : แนววิทยาศาสตร์ (science fiction (genre)) : 1 meaning(s), 2 sentences
 - `thaipod-1326` : แน่ๆ (definitely, for sure) : 1 meaning(s), 2 sentences
 - `thaipod-1329` : แบ่ง (to divide, to separate; to share) : 2 meaning(s), 4 sentences
 - `thaipod-1331` : แผ่น (sheet, classifier for thin flat objects) : 1 meaning(s), 2 sentences
