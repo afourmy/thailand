@@ -9,9 +9,15 @@ tamago-l3-549 ถือเสียว่า: eng 'to consider it as, to treat i
 tamago-l3-618 พูดถึงเรื่อง: eng '"speaking of...", "on the topic of..."'
 tamago-l3-635 จัด...มา: eng 'to bring something, to get something ready'
 tamago-l3-691 นอกเสียจากว่า...: eng 'unless, except if'
+tamago-l3-750 เห็นแก่: eng 'for the sake of, out of consideration for'
+tsl-008 กว่า ... ก็ ...: eng '"by the time...,  already..."'
 
 tamago-l12-642 ไม่ก็ - ไม่ ... ก็ ...: split into two cards
 ไม่ก็: eng 'or else, if not, otherwise'
 ไม่ ... ก็ ...: eng '"if not ..., then...", "either..., or..."'
 
-remove card: tamago-l3-226 อุตส่าห์...อีก
+tamago-l3-714 กระทั่ง, จนกระทั่ง: split into two cards
+กระทั่ง: eng 'even, even to the point of'
+จนกระทั่ง: eng 'until, up to the point that'
+
+remove card: tamago-l3-226 อุตส่าห์...อีก, tsl-048 หรือแม้แต่
