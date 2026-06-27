@@ -15,7 +15,12 @@ tsl-051 อด ... ไม่ได้: eng '"can't help", to be unable to resist
 tsl-071 แทนที่จะ... แต่กลับ...: eng '"instead of..., ... (something different)"'
 tsl-086 ไม่ว่า... หรือ..., ต่างก็...: eng '"no matter whether... or..., both..."'
 tsl-092 ให้ได้: eng 'no matter what, at all costs, "to make sure to do something"'
-
+tsl-179 ...เนาะ: eng '"..., right?", "..., isn't it" (Northern Thai sentence ending)'
+tsl-264 ทั้งนี้ - ทั้งนี้เพื่อ: make it 'ทั้งนี้เพื่อ': 'in order to, for the purpose of (formal)'
+tsl-589 แทนกัน: eng 'to replace each other, interchangeably'
+thaipod-0042 กันแน่: eng '"... really ?", "for sure ?" (in questions, when seeking clarification)'
+thaipod-0456 ที่ว่า: eng 'that (which was mentioned), that (which is being talked about)'
+ 
 tamago-l12-642 ไม่ก็ - ไม่ ... ก็ ...: split into two cards
 ไม่ก็: eng 'or else, if not, otherwise'
 ไม่ ... ก็ ...: eng '"if not ..., then...", "either..., or..."'
@@ -23,5 +28,7 @@ tamago-l12-642 ไม่ก็ - ไม่ ... ก็ ...: split into two cards
 tamago-l3-714 กระทั่ง, จนกระทั่ง: split into two cards
 กระทั่ง: eng 'even, even to the point of'
 จนกระทั่ง: eng 'until, up to the point that'
+
+thaipod-0452 ที่นอกเหนือไปจาก: eng 'apart from, in addition to, beyond'
 
 remove card: tamago-l3-226 อุตส่าห์...อีก, tsl-048 หรือแม้แต่, tsl-034 พอที่จะ
