@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1984 words**
+**Total: 1994 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -984,10 +984,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-871` : โน้มน้าว, โน้มน้าวใจ (to persuade, to win over) : 1 meaning(s), 2 sentences
 - `tsl-002` : ลื่นล้ม (to slip and fall) : 1 meaning(s), 2 sentences
 - `tsl-003` : ตกบันได (to fall down the stairs) : 1 meaning(s), 2 sentences
+- `tsl-004` : สะดุด - สะดุดล้ม (to trip, to stumble - to trip and fall) : 2 meaning(s), 4 sentences
+- `tsl-010` : ล่าช้า (delayed, late, behind schedule (delivery, service, flight)) : 1 meaning(s), 2 sentences
 - `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences
+- `tsl-012` : ชานเมือง (suburbs, outskirts of the city) : 1 meaning(s), 2 sentences
+- `tsl-015` : ขี้เหร่ (ugly, unattractive) : 1 meaning(s), 2 sentences
+- `tsl-016` : ตื้น (shallow (not deep)) : 1 meaning(s), 2 sentences
+- `tsl-017` : น่าเกลียด (ugly; disgusting, repulsive) : 2 meaning(s), 4 sentences
+- `tsl-018` : ว่างเปล่า (empty, vacant) : 1 meaning(s), 2 sentences
+- `tsl-019` : ตด (to fart) : 1 meaning(s), 2 sentences
 - `tsl-020` : แคบ (narrow) : 1 meaning(s), 2 sentences
 - `tsl-024` : แกง (curry; (slang) to tease, trick, prank) : 2 meaning(s), 4 sentences
 - `tsl-025` : เท (to pour; (slang) to dump someone, to stand someone up) : 2 meaning(s), 4 sentences
+- `tsl-028` : เสือก ((slang, rude) to meddle, to butt in, stick your nose in) : 1 meaning(s), 2 sentences
+- `tsl-029` : จัดกระเป๋า (to pack a bag) : 1 meaning(s), 2 sentences
 - `tsl-031` : ไว้ (in advance, to keep for later) : 1 meaning(s), 2 sentences
 - `tsl-044` : แรกๆ (at first, initially) : 1 meaning(s), 2 sentences
 - `tsl-046` : ยังไงก็... (anyway..., in any case...) : 1 meaning(s), 2 sentences

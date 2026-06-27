@@ -49434,7 +49434,43 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to trip, to stumble",
+        "sentences": [
+          {
+            "thai": "เขาสะดุดก้อนหินแต่ยังทรงตัวไว้ได้",
+            "en": "He tripped on a rock but managed to keep his balance.",
+            "audio_src": "เขาสะดุดก้อนหินแต่ยังทรงตัวไว้ได้",
+            "audio_en_src": "He tripped on a rock but managed to keep his balance."
+          },
+          {
+            "thai": "เดินมืดๆ ระวังสะดุดด้วยนะ",
+            "en": "Walking in the dark, be careful not to trip.",
+            "audio_src": "เดินมืดๆ ระวังสะดุดด้วยนะ",
+            "audio_en_src": "Walking in the dark, be careful not to trip."
+          }
+        ]
+      },
+      {
+        "meaning": "to trip and fall",
+        "sentences": [
+          {
+            "thai": "เด็กวิ่งเร็วเกินไปจนสะดุดล้ม",
+            "en": "The kid ran too fast and tripped and fell.",
+            "audio_src": "เด็กวิ่งเร็วเกินไปจนสะดุดล้ม",
+            "audio_en_src": "The kid ran too fast and tripped and fell."
+          },
+          {
+            "thai": "เธอสะดุดล้มหน้าทิ่มกลางถนน",
+            "en": "She tripped and fell flat on her face in the middle of the road.",
+            "audio_src": "เธอสะดุดล้มหน้าทิ่มกลางถนน",
+            "audio_en_src": "She tripped and fell flat on her face in the middle of the road."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-005",
@@ -49489,7 +49525,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "delayed, late, behind schedule (delivery, service, flight)",
+        "sentences": [
+          {
+            "thai": "เที่ยวบินล่าช้าไปสองชั่วโมง",
+            "en": "The flight was delayed by two hours.",
+            "audio_src": "เที่ยวบินล่าช้าไปสองชั่วโมง",
+            "audio_en_src": "The flight was delayed by two hours."
+          },
+          {
+            "thai": "พัสดุมาล่าช้ากว่ากำหนดหลายวัน",
+            "en": "The parcel arrived several days behind schedule.",
+            "audio_src": "พัสดุมาล่าช้ากว่ากำหนดหลายวัน",
+            "audio_en_src": "The parcel arrived several days behind schedule."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-011",
@@ -49535,7 +49590,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "suburbs, outskirts of the city",
+        "sentences": [
+          {
+            "thai": "เขาย้ายไปอยู่ชานเมืองเพราะอากาศดีกว่า",
+            "en": "He moved to the suburbs because the air is better.",
+            "audio_src": "เขาย้ายไปอยู่ชานเมืองเพราะอากาศดีกว่า",
+            "audio_en_src": "He moved to the suburbs because the air is better."
+          },
+          {
+            "thai": "บ้านชานเมืองราคาถูกกว่าในเมือง",
+            "en": "Houses in the suburbs are cheaper than in the city.",
+            "audio_src": "บ้านชานเมืองราคาถูกกว่าในเมือง",
+            "audio_en_src": "Houses in the suburbs are cheaper than in the city."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-013",
@@ -49568,7 +49642,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "ugly, unattractive",
+        "sentences": [
+          {
+            "thai": "เขาว่าเสื้อตัวนี้สีขี้เหร่ ไม่ยอมใส่",
+            "en": "He says this shirt's color is ugly and won't wear it.",
+            "audio_src": "เขาว่าเสื้อตัวนี้สีขี้เหร่ ไม่ยอมใส่",
+            "audio_en_src": "He says this shirt's color is ugly and won't wear it."
+          },
+          {
+            "thai": "อย่าล้อว่าใครขี้เหร่ มันไม่สุภาพ",
+            "en": "Don't tease anyone for being ugly, it's rude.",
+            "audio_src": "อย่าล้อว่าใครขี้เหร่ มันไม่สุภาพ",
+            "audio_en_src": "Don't tease anyone for being ugly, it's rude."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-016",
@@ -49583,7 +49676,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "shallow (not deep)",
+        "sentences": [
+          {
+            "thai": "น้ำตรงนี้ตื้น เด็กเล่นได้ปลอดภัย",
+            "en": "The water here is shallow, kids can play safely.",
+            "audio_src": "น้ำตรงนี้ตื้น เด็กเล่นได้ปลอดภัย",
+            "audio_en_src": "The water here is shallow, kids can play safely."
+          },
+          {
+            "thai": "ขุดหลุมตื้นไปหน่อย ต้นไม้เลยล้ม",
+            "en": "The hole was dug too shallow, so the tree fell over.",
+            "audio_src": "ขุดหลุมตื้นไปหน่อย ต้นไม้เลยล้ม",
+            "audio_en_src": "The hole was dug too shallow, so the tree fell over."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-017",
@@ -49597,7 +49709,43 @@
       "Anki Basics"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "ugly",
+        "sentences": [
+          {
+            "thai": "เขาคิดว่าตัวเองหน้าตาน่าเกลียด",
+            "en": "He thinks his face is ugly.",
+            "audio_src": "เขาคิดว่าตัวเองหน้าตาน่าเกลียด",
+            "audio_en_src": "He thinks his face is ugly."
+          },
+          {
+            "thai": "ภาพวาดนี้สีไม่เข้ากันเลย ดูน่าเกลียด",
+            "en": "The colors in this painting don't match, it looks ugly.",
+            "audio_src": "ภาพวาดนี้สีไม่เข้ากันเลย ดูน่าเกลียด",
+            "audio_en_src": "The colors in this painting don't match, it looks ugly."
+          }
+        ]
+      },
+      {
+        "meaning": "disgusting, repulsive",
+        "sentences": [
+          {
+            "thai": "พฤติกรรมโกงแบบนี้น่าเกลียดมาก",
+            "en": "Cheating behavior like this is really disgusting.",
+            "audio_src": "พฤติกรรมโกงแบบนี้น่าเกลียดมาก",
+            "audio_en_src": "Cheating behavior like this is really disgusting."
+          },
+          {
+            "thai": "เขาพูดจาหยาบคายน่าเกลียดต่อหน้าผู้ใหญ่",
+            "en": "He spoke rudely and repulsively in front of the elders.",
+            "audio_src": "เขาพูดจาหยาบคายน่าเกลียดต่อหน้าผู้ใหญ่",
+            "audio_en_src": "He spoke rudely and repulsively in front of the elders."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-018",
@@ -49610,7 +49758,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "empty, vacant",
+        "sentences": [
+          {
+            "thai": "ห้องนี้ว่างเปล่าไม่มีใครอยู่",
+            "en": "This room is empty, no one lives here.",
+            "audio_src": "ห้องนี้ว่างเปล่าไม่มีใครอยู่",
+            "audio_en_src": "This room is empty, no one lives here."
+          },
+          {
+            "thai": "หลังเขาย้ายออก บ้านก็ว่างเปล่า",
+            "en": "After he moved out, the house stood empty.",
+            "audio_src": "หลังเขาย้ายออก บ้านก็ว่างเปล่า",
+            "audio_en_src": "After he moved out, the house stood empty."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-019",
@@ -49622,7 +49789,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to fart",
+        "sentences": [
+          {
+            "thai": "ใครตดเหม็นจังเลย",
+            "en": "Who farted, it stinks so bad.",
+            "audio_src": "ใครตดเหม็นจังเลย",
+            "audio_en_src": "Who farted, it stinks so bad."
+          },
+          {
+            "thai": "เขาเผลอตดในห้องเรียนจนอายมาก",
+            "en": "He accidentally farted in the classroom and got so embarrassed.",
+            "audio_src": "เขาเผลอตดในห้องเรียนจนอายมาก",
+            "audio_en_src": "He accidentally farted in the classroom and got so embarrassed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-020",
@@ -49839,7 +50025,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "(slang, rude) to meddle, to butt in, stick your nose in",
+        "sentences": [
+          {
+            "thai": "เรื่องของฉัน อย่าเสือก",
+            "en": "It's my business, don't butt in.",
+            "audio_src": "เรื่องของฉัน อย่าเสือก",
+            "audio_en_src": "It's my business, don't butt in."
+          },
+          {
+            "thai": "เขาชอบเสือกเรื่องชาวบ้านไปทั่ว",
+            "en": "He likes to stick his nose into everyone else's business.",
+            "audio_src": "เขาชอบเสือกเรื่องชาวบ้านไปทั่ว",
+            "audio_en_src": "He likes to stick his nose into everyone else's business."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-029",
@@ -49851,7 +50056,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pack a bag",
+        "sentences": [
+          {
+            "thai": "เธอจัดกระเป๋าเตรียมไปเที่ยวพรุ่งนี้",
+            "en": "She packed her bag to get ready for the trip tomorrow.",
+            "audio_src": "เธอจัดกระเป๋าเตรียมไปเที่ยวพรุ่งนี้",
+            "audio_en_src": "She packed her bag to get ready for the trip tomorrow."
+          },
+          {
+            "thai": "อย่าลืมจัดกระเป๋าให้เสร็จก่อนนอน",
+            "en": "Don't forget to finish packing your bag before bed.",
+            "audio_src": "อย่าลืมจัดกระเป๋าให้เสร็จก่อนนอน",
+            "audio_en_src": "Don't forget to finish packing your bag before bed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-030",
