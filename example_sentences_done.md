@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2822 words**
+**Total: 2832 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2003,6 +2003,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-024` : นวัตกรรม (innovation) : 1 meaning(s), 2 sentences
 - `yt-c02-025` : ล้มเหลว (to fail, failure) : 1 meaning(s), 2 sentences
 - `yt-c02-026` : คัดออก (to eliminate, to disqualify, to screen out) : 1 meaning(s), 2 sentences
+- `yt-c02-028` : เคียงข้าง (beside, alongside) : 1 meaning(s), 2 sentences
+- `yt-c02-029` : ขำๆ (funny, "just kidding", jokingly) : 1 meaning(s), 2 sentences
+- `yt-c02-033` : ร้องเกะ (to sing Karaoke) : 1 meaning(s), 2 sentences
+- `yt-c02-056` : โบก (to wave (e.g a hand, a flag)) : 1 meaning(s), 2 sentences
+- `yt-c02-057` : ฟาด (to strike, to hit strongly (e.g with stick, whip); to eat a lot, to devour) : 2 meaning(s), 4 sentences
+- `yt-c02-070` : ตัวกลาง (medium, intermediary, middleman) : 1 meaning(s), 2 sentences
+- `yt-c02-074` : พูดปด (to lie, to tell a lie) : 1 meaning(s), 2 sentences
+- `yt-c02-091` : อุดมสมบูรณ์ (abundant, fertile) : 1 meaning(s), 2 sentences
+- `yt-c02-096` : โยน - ปา (to throw - to toss (with aim, forcefully)) : 1 meaning(s), 2 sentences
+- `yt-c02-097` : แบ (to unfold, spread out, to stretch out (e.g hand, finger)) : 1 meaning(s), 2 sentences
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
