@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2343 words**
+**Total: 2353 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1387,6 +1387,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0508` : บทบาท (role (in a play, story, society)) : 1 meaning(s), 2 sentences
 - `thaipod-0518` : บริเวณ (area, neighborhood, vicinity) : 1 meaning(s), 2 sentences
 - `thaipod-0519` : บังคับ (to force, to compel, mandatory) : 1 meaning(s), 2 sentences
+- `thaipod-0526` : บุคคล (person, individual) : 1 meaning(s), 2 sentences
+- `thaipod-0531` : บ่น (to complain, to grumble) : 1 meaning(s), 2 sentences
+- `thaipod-0532` : บ้านพัก (residence, vacation house) : 1 meaning(s), 2 sentences
+- `thaipod-0533` : บ้านเมือง (country, nation, the state) : 1 meaning(s), 2 sentences
+- `thaipod-0534` : บ้านเรือน (houses, household, habitations) : 1 meaning(s), 2 sentences
+- `thaipod-0536` : ครอง, ปกครอง (to govern, to rule) : 1 meaning(s), 2 sentences
+- `thaipod-0542` : ปฏิเสธ (to refuse, to deny) : 1 meaning(s), 2 sentences
+- `thaipod-0548` : ประการ (point, aspect, matter (formal classifier for reasons or items in a list)) : 1 meaning(s), 2 sentences
+- `thaipod-0551` : ประชากร (population) : 1 meaning(s), 2 sentences
+- `thaipod-0552` : ประชาชน (the people, populace, citizens) : 1 meaning(s), 2 sentences
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
 - `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
 - `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
