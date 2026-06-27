@@ -48944,7 +48944,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "prostitute",
+        "sentences": [
+          {
+            "thai": "การค้าประเวณีและโสเภณีเป็นปัญหาสังคมที่ซับซ้อน",
+            "en": "Prostitution and sex work are a complex social problem.",
+            "audio_src": "การค้าประเวณีและโสเภณีเป็นปัญหาสังคมที่ซับซ้อน",
+            "audio_en_src": "Prostitution and sex work are a complex social problem."
+          },
+          {
+            "thai": "หนังเรื่องนี้เล่าชีวิตของโสเภณีในเมืองใหญ่",
+            "en": "This movie tells the life of a prostitute in a big city.",
+            "audio_src": "หนังเรื่องนี้เล่าชีวิตของโสเภณีในเมืองใหญ่",
+            "audio_en_src": "This movie tells the life of a prostitute in a big city."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-850",
@@ -48978,7 +48997,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "alone, by oneself",
+        "sentences": [
+          {
+            "thai": "เธออยู่บ้านลำพังตอนพ่อแม่ไปทำงาน",
+            "en": "She stays home alone when her parents go to work.",
+            "audio_src": "เธออยู่บ้านลำพังตอนพ่อแม่ไปทำงาน",
+            "audio_en_src": "She stays home alone when her parents go to work."
+          },
+          {
+            "thai": "เขาเดินทางคนเดียวลำพังไปต่างประเทศ",
+            "en": "He traveled abroad alone by himself.",
+            "audio_src": "เขาเดินทางคนเดียวลำพังไปต่างประเทศ",
+            "audio_en_src": "He traveled abroad alone by himself."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-853",
@@ -49043,7 +49081,26 @@
       "Thai 4000"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to pretend, to act like, to make a gesture (as if)",
+        "sentences": [
+          {
+            "thai": "เขาทำท่าจะร้องไห้แต่ก็กลั้นไว้",
+            "en": "He looked like he was about to cry but held it back.",
+            "audio_src": "เขาทำท่าจะร้องไห้แต่ก็กลั้นไว้",
+            "audio_en_src": "He looked like he was about to cry but held it back."
+          },
+          {
+            "thai": "เด็กทำท่าเป็นซูเปอร์ฮีโร่",
+            "en": "The kid acts like a superhero.",
+            "audio_src": "เด็กทำท่าเป็นซูเปอร์ฮีโร่",
+            "audio_en_src": "The kid acts like a superhero."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-859",
@@ -49055,7 +49112,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "horrible, terrifying, gruesome",
+        "sentences": [
+          {
+            "thai": "ภาพอุบัติเหตุดูสยองจนต้องหันหน้าหนี",
+            "en": "The accident scene looked so gruesome I had to look away.",
+            "audio_src": "ภาพอุบัติเหตุดูสยองจนต้องหันหน้าหนี",
+            "audio_en_src": "The accident scene looked so gruesome I had to look away."
+          },
+          {
+            "thai": "หนังผีเรื่องนี้สยองมากจนนอนไม่หลับ",
+            "en": "This horror movie was so terrifying I couldn't sleep.",
+            "audio_src": "หนังผีเรื่องนี้สยองมากจนนอนไม่หลับ",
+            "audio_en_src": "This horror movie was so terrifying I couldn't sleep."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-860",
@@ -49108,7 +49184,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "side job, part-time work",
+        "sentences": [
+          {
+            "thai": "เธอขายของออนไลน์เป็นอาชีพเสริม",
+            "en": "She sells things online as a side job.",
+            "audio_src": "เธอขายของออนไลน์เป็นอาชีพเสริม",
+            "audio_en_src": "She sells things online as a side job."
+          },
+          {
+            "thai": "เขาหาอาชีพเสริมเพื่อเพิ่มรายได้",
+            "en": "He looks for a side job to increase his income.",
+            "audio_src": "เขาหาอาชีพเสริมเพื่อเพิ่มรายได้",
+            "audio_en_src": "He looks for a side job to increase his income."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-865",
@@ -49130,7 +49225,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "teachings (religious or moral)",
+        "sentences": [
+          {
+            "thai": "เขายึดคำสอนของพ่อแม่เป็นหลักในการใช้ชีวิต",
+            "en": "He holds his parents' teachings as a guide for living.",
+            "audio_src": "เขายึดคำสอนของพ่อแม่เป็นหลักในการใช้ชีวิต",
+            "audio_en_src": "He holds his parents' teachings as a guide for living."
+          },
+          {
+            "thai": "คำสอนของศาสนาช่วยให้คนเป็นคนดี",
+            "en": "Religious teachings help people be good.",
+            "audio_src": "คำสอนของศาสนาช่วยให้คนเป็นคนดี",
+            "audio_en_src": "Religious teachings help people be good."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-867",
@@ -49173,7 +49287,26 @@
       "Tamago L3"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to stay overnight, to sleep over at someone's house",
+        "sentences": [
+          {
+            "thai": "คืนนี้ฉันจะไปนอนค้างบ้านเพื่อน",
+            "en": "Tonight I'm going to sleep over at my friend's house.",
+            "audio_src": "คืนนี้ฉันจะไปนอนค้างบ้านเพื่อน",
+            "audio_en_src": "Tonight I'm going to sleep over at my friend's house."
+          },
+          {
+            "thai": "หลานชอบมานอนค้างบ้านปู่ย่าช่วงปิดเทอม",
+            "en": "The grandchild likes to stay over at his grandparents' during school break.",
+            "audio_src": "หลานชอบมานอนค้างบ้านปู่ย่าช่วงปิดเทอม",
+            "audio_en_src": "The grandchild likes to stay over at his grandparents' during school break."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-871",
@@ -49187,7 +49320,26 @@
       "YouTube"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to persuade, to win over",
+        "sentences": [
+          {
+            "thai": "พนักงานขายโน้มน้าวให้ลูกค้าซื้อสินค้า",
+            "en": "The salesperson persuaded the customer to buy the product.",
+            "audio_src": "พนักงานขายโน้มน้าวให้ลูกค้าซื้อสินค้า",
+            "audio_en_src": "The salesperson persuaded the customer to buy the product."
+          },
+          {
+            "thai": "เขาโน้มน้าวเพื่อนให้มาร่วมทีมได้สำเร็จ",
+            "en": "He successfully won his friend over to join the team.",
+            "audio_src": "เขาโน้มน้าวเพื่อนให้มาร่วมทีมได้สำเร็จ",
+            "audio_en_src": "He successfully won his friend over to join the team."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tamago-l3-872",
@@ -49220,7 +49372,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to slip and fall",
+        "sentences": [
+          {
+            "thai": "พื้นเปียกระวังลื่นล้มด้วยนะ",
+            "en": "The floor is wet, be careful not to slip and fall.",
+            "audio_src": "พื้นเปียกระวังลื่นล้มด้วยนะ",
+            "audio_en_src": "The floor is wet, be careful not to slip and fall."
+          },
+          {
+            "thai": "คุณยายลื่นล้มในห้องน้ำจนข้อมือหัก",
+            "en": "Grandma slipped and fell in the bathroom and broke her wrist.",
+            "audio_src": "คุณยายลื่นล้มในห้องน้ำจนข้อมือหัก",
+            "audio_en_src": "Grandma slipped and fell in the bathroom and broke her wrist."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-003",
@@ -49232,7 +49403,26 @@
       "TSL Chiang Mai"
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "examples": [
+      {
+        "meaning": "to fall down the stairs",
+        "sentences": [
+          {
+            "thai": "เขาตกบันไดเพราะรีบเดินลงเร็วเกินไป",
+            "en": "He fell down the stairs because he hurried down too fast.",
+            "audio_src": "เขาตกบันไดเพราะรีบเดินลงเร็วเกินไป",
+            "audio_en_src": "He fell down the stairs because he hurried down too fast."
+          },
+          {
+            "thai": "ระวังเด็กตกบันได ปิดประตูกั้นไว้ด้วย",
+            "en": "Watch out for the kid falling down the stairs, keep the gate closed.",
+            "audio_src": "ระวังเด็กตกบันได ปิดประตูกั้นไว้ด้วย",
+            "audio_en_src": "Watch out for the kid falling down the stairs, keep the gate closed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "tsl-004",

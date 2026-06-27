@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 1974 words**
+**Total: 1984 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -974,6 +974,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-843` : เดินกะเผลก (to limp, to walk with a limp) : 1 meaning(s), 2 sentences
 - `tamago-l3-847` : สู้ (to fight; "might as well", "wouldn't it be better if") : 2 meaning(s), 4 sentences
 - `tamago-l3-848` : บ้านจน (poor family, poor household) : 1 meaning(s), 2 sentences
+- `tamago-l3-849` : โสเภณี (prostitute) : 1 meaning(s), 2 sentences
+- `tamago-l3-852` : ลำพัง (alone, by oneself) : 1 meaning(s), 2 sentences
+- `tamago-l3-858` : ทำท่า (to pretend, to act like, to make a gesture (as if)) : 1 meaning(s), 2 sentences
+- `tamago-l3-859` : สยอง (horrible, terrifying, gruesome) : 1 meaning(s), 2 sentences
+- `tamago-l3-864` : อาชีพเสริม (side job, part-time work) : 1 meaning(s), 2 sentences
+- `tamago-l3-866` : คำสอน (teachings (religious or moral)) : 1 meaning(s), 2 sentences
+- `tamago-l3-870` : นอนค้าง (to stay overnight, to sleep over at someone's house) : 1 meaning(s), 2 sentences
+- `tamago-l3-871` : โน้มน้าว, โน้มน้าวใจ (to persuade, to win over) : 1 meaning(s), 2 sentences
+- `tsl-002` : ลื่นล้ม (to slip and fall) : 1 meaning(s), 2 sentences
+- `tsl-003` : ตกบันได (to fall down the stairs) : 1 meaning(s), 2 sentences
 - `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences
 - `tsl-020` : แคบ (narrow) : 1 meaning(s), 2 sentences
 - `tsl-024` : แกง (curry; (slang) to tease, trick, prank) : 2 meaning(s), 4 sentences
