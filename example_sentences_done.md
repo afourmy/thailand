@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2373 words**
+**Total: 2383 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1421,11 +1421,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0611` : ผิว (surface, skin) : 1 meaning(s), 2 sentences
 - `thaipod-0614` : ผูก (to tie, to bind) : 1 meaning(s), 2 sentences
 - `thaipod-0616` : ผู้กำกับ, ผู้กำกับภาพยนตร์ (film director) : 1 meaning(s), 2 sentences
+- `thaipod-0619` : ผู้ประดิษฐ์ (inventor) : 1 meaning(s), 2 sentences
 - `thaipod-0626` : ผ่าน (to pass; through, via) : 2 meaning(s), 4 sentences
+- `thaipod-0627` : ผ้าไหม (silk fabric) : 1 meaning(s), 2 sentences
+- `thaipod-0628` : ฝัง (to bury, to embed, to implant) : 1 meaning(s), 2 sentences
+- `thaipod-0629` : ฝั่ง (bank (of a river), side, shore) : 1 meaning(s), 2 sentences
+- `thaipod-0633` : ฝีมือ (skill, craftsmanship) : 1 meaning(s), 2 sentences
+- `thaipod-0634` : อบรม, ฝึกอบรม (to train, to instruct) : 1 meaning(s), 2 sentences
+- `thaipod-0635` : ฝูง (flock, herd, masses (group of animals or people)) : 1 meaning(s), 2 sentences
+- `thaipod-0639` : พกร่ม (to carry an umbrella) : 1 meaning(s), 2 sentences
+- `thaipod-0642` : พม่า (Burma (Myanmar)) : 1 meaning(s), 2 sentences
 - `thaipod-0643` : พยายาม (to try, to attempt) : 1 meaning(s), 2 sentences
 - `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
 - `thaipod-0721` : พวก (group, bunch (of people)) : 1 meaning(s), 2 sentences
+- `thaipod-0722` : พอง (swollen, inflated, puffed up) : 1 meaning(s), 2 sentences
 - `thaipod-0757` : ภูมิใจ (proud of) : 1 meaning(s), 2 sentences
 - `thaipod-0777` : มากมาย (many, plenty, abundant) : 1 meaning(s), 2 sentences
 - `thaipod-0789` : ยอม (to agree, to give in, to admit) : 1 meaning(s), 3 sentences
