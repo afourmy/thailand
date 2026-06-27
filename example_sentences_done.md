@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2293 words**
+**Total: 2303 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1321,8 +1321,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0321` : ดำน้ำตื้น (snorkeling) : 1 meaning(s), 2 sentences
 - `thaipod-0322` : ดำน้ำลึก (scuba diving) : 1 meaning(s), 2 sentences
 - `thaipod-0323` : ดำเนิน (to proceed, to go on, to carry on) : 1 meaning(s), 2 sentences
+- `thaipod-0326` : ดินแดน (land, territory) : 1 meaning(s), 2 sentences
+- `thaipod-0328` : ดีด (to pluck, to strum, to flick) : 1 meaning(s), 2 sentences
+- `thaipod-0333` : ด่าน (checkpoint, border control, toll booth) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
+- `thaipod-0337` : ด้วยดี (amicably, peacefully, without troubles, on good terms) : 1 meaning(s), 2 sentences
 - `thaipod-0339` : ด้าน (side, field, area, aspect) : 1 meaning(s), 3 sentences
+- `thaipod-0341` : ด้านเหนือ (north side) : 1 meaning(s), 2 sentences
+- `thaipod-0342` : ด้าม (handle (of a tool, knife)) : 1 meaning(s), 2 sentences
+- `thaipod-0344` : ตบแต่ง (to decorate, to adorn, to dress up) : 1 meaning(s), 2 sentences
+- `thaipod-0345` : ตรงกลาง (in the middle, center) : 1 meaning(s), 2 sentences
+- `thaipod-0346` : ตรงกับ (to match with, to coincide with) : 1 meaning(s), 2 sentences
+- `thaipod-0352` : ตอนบน (upper part) : 1 meaning(s), 2 sentences
 - `thaipod-0367` : ตาม (to follow; along) : 2 meaning(s), 4 sentences
 - `thaipod-0378` : ตุ๊กตา (doll) : 1 meaning(s), 2 sentences
 - `thaipod-0382` : ต่อ (for, against; per) : 2 meaning(s), 4 sentences
