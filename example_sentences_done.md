@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2593 words**
+**Total: 2603 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -1724,9 +1724,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-090` : ประสบการณ์ (experience) : 1 meaning(s), 2 sentences
 - `tobo-091` : เรื่องตลก (joke) : 1 meaning(s), 2 sentences
 - `tobo-092` : กำปั้น (fist) : 1 meaning(s), 2 sentences
+- `tobo-093` : ผู้เชี่ยวชาญ (expert, specialist) : 1 meaning(s), 2 sentences
+- `tobo-095` : นัดหมาย (appointment) : 1 meaning(s), 2 sentences
 - `tobo-097` : หนังสือพิมพ์ (newspaper) : 1 meaning(s), 2 sentences
+- `tobo-098` : มนุษย์ (human (being)) : 1 meaning(s), 2 sentences
+- `tobo-099` : วาด (to draw) : 1 meaning(s), 2 sentences
 - `tobo-100` : สำคัญ (important) : 1 meaning(s), 2 sentences
 - `tobo-101` : โทรทัศน์ (television) : 1 meaning(s), 2 sentences
+- `tobo-102` : สัญญา (contract, agreement, promise) : 1 meaning(s), 2 sentences
+- `tobo-103` : พนักงานเสิร์ฟ (waiter, waitress) : 1 meaning(s), 2 sentences
+- `tobo-105` : แช่แข็ง (to freeze) : 1 meaning(s), 2 sentences
+- `tobo-106` : ลังเล (to hesitate) : 1 meaning(s), 2 sentences
+- `tobo-107` : ระเบียง (balcony, terrace) : 1 meaning(s), 2 sentences
+- `tobo-109` : สนามกีฬา (stadium) : 1 meaning(s), 2 sentences
 - `tobo-119` : โกรธ (angry) : 1 meaning(s), 2 sentences
 - `tobo-131` : เข็มขัด (belt) : 1 meaning(s), 2 sentences
 - `tobo-139` : ผลัก (to push (e.g a door)) : 1 meaning(s), 2 sentences
