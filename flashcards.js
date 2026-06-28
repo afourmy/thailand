@@ -178,8 +178,8 @@
   // shard: shards 00-7f are in thailand-audio-1, 80-ff in thailand-audio-2. A
   // word's clips all share one shard, so they always resolve to the same repo.
   // Keep these constants identical in flashcards.js / vocab.js / audio_paths.py.
-  var AUDIO_CDN_1 = "https://cdn.jsdelivr.net/gh/afourmy/thailand-audio-1@main/";
-  var AUDIO_CDN_2 = "https://cdn.jsdelivr.net/gh/afourmy/thailand-audio-2@main/";
+  var AUDIO_CDN_1 = "https://cdn.jsdelivr.net/gh/afourmy/thailand-audio-1@master/";
+  var AUDIO_CDN_2 = "https://cdn.jsdelivr.net/gh/afourmy/thailand-audio-2@master/";
   function audioBaseFor(id) {
     return parseInt(audioShard(id), 16) < 0x80 ? AUDIO_CDN_1 : AUDIO_CDN_2;
   }
