@@ -10,11 +10,22 @@ tsl-533 มีหน้ามีตา: eng '(idiom) to have status, to be well-
 thaipod-0107 ก็ว่าได้: eng '"you could say that...", "one could say", "roughly speaking"'
 thaipod-0173 ควรค่าแก่: eng 'worthy of, deserving of'
 thaipod-0215 คิดไม่ออก: eng '"I can't think of anything", "can't come up with"'
+thaipod-0243 จนป่านนี้: eng 'up until now'
+thaipod-0370 ตามๆกันมา: eng 'to follow each other, to come after in sequence'
+thaipod-0374 ติดปาก: eng 'popularly used, catchy (phrase that spreads and becomes commonly used in society)'
+thaipod-0928 ว่าแต่ว่า: eng 'by the way, "so anyway, ..."'
+thaipod-1075 หลายต่อหลายครั้ง: eng 'many times, repeatedly'
 
 
 
-tsl-243 ข้ามเส้น - ล้ำเส้น:
+
+
+
+
+thaipod-0448 ทีเขาว่ากันว่า: make it 'เขาว่ากันว่า, ทีเขาว่ากันว่า': '"it is said that", "people say that"'
+
+thaipod-0223 คุยเพลินไปหน่อย: make it 'เพลินไปหน่อย': '"got a bit too absorbed", "slightly over-engaged in..."'
 
 tsl-049 พอ(...)ได้ - พอไหว: eng make it 'พอ(...)ได้': 'barely sufficient, acceptable, workable'
 
-remove: tsl-089 ฉันจ่ายไม่ไหว, tsl-566 กลับกลายเป็นว่า
+remove: tsl-089 ฉันจ่ายไม่ไหว, tsl-566 กลับกลายเป็นว่า, thaipod-0216 คิดไม่ออกเลย, thaipod-0290 ช็อปเพลินไปหน่อย, thaipod-0350 ตลอดทาง, thaipod-0781 มืดก็มืด, thaipod-0795 ยังไง, อยู่ดี, thaipod-1102 อย่าคิดว่าพีจะรู้ไม่ทันนะ
