@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2991 words**
+**Total: 3001 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2176,7 +2176,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-049` : ชั่ง - วัด - ตวง (measure weigh - measure size, length - measure volume, capacity) : 1 meaning(s), 3 sentences
 - `yt-c10-057` : เปราะ (brittle, fragile (e.g glass, bone, etc)) : 1 meaning(s), 2 sentences
 - `yt-c10-081` : ร่มเงา (shade, shadow, umbrage) : 1 meaning(s), 2 sentences
+- `yt-c10-084` : โทน, โทนเสียง (tone (low, high, etc)) : 1 meaning(s), 2 sentences
+- `yt-c10-085` : ล้น (to overflow, to spill over) : 1 meaning(s), 2 sentences
+- `yt-c10-086` : หลอก - ลวง - หลอกลวง (to trick, to fool, to pretend - to deceive, to lure - to scam, to defraud, to deceive) : 1 meaning(s), 3 sentences
+- `yt-c10-087` : แง่ - มุม - แง่มุม (aspect - angle, viewpoint - point of view, perspective) : 1 meaning(s), 3 sentences
+- `yt-c11-000` : น็อคไป (to be knocked out, to pass out (lose consciousness, usually in a fight)) : 1 meaning(s), 2 sentences
+- `yt-c11-002` : กลบ (to cover up, to bury) : 1 meaning(s), 2 sentences
+- `yt-c11-007` : แล่น (to move swiftly, to drive quickly, to speed along; to glide, to sail) : 2 meaning(s), 4 sentences
+- `yt-c11-009` : ละแวก (neighborhood) : 1 meaning(s), 2 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
+- `yt-c11-016` : เสาอากาศ (antenna (e.g for TV signal)) : 1 meaning(s), 2 sentences
+- `yt-c11-018` : ดูด (to suck, to draw in) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
