@@ -7,14 +7,23 @@ yt-c06-070 ใส่บาตร: eng 'to give alms (offer food) to monks'
 yt-c13-052 ดวงซวย: eng 'unlucky, bad luck (informal)'
 yt-c18-094 บาทหลวง: eng 'catholic priest'
 wlt-c08-048 แม่ชี: eng 'nun (white-robed woman who follows monastic practice, usually without full ordination status like monks)'
+wlt-c19-047 สายกลาง: eng 'middle way, moderation (Buddhist concept: avoiding extremes)'
+t4k-c01-069 จิต: eng 'mind, mental'
+t4k-c04-044 จริยธรรม: eng 'moral principles, ethical behaviour'
+t4k-c04-062 ธาตุ: eng 'element (e.g chemical, natural, etc)'
+t4k-c08-089 ชะตา: eng 'fate, destiny'
+t4k-c10-020 เจ้าพ่อ: eng 'godfather, mafia boss; male deity, guardian spirit'
+t4k-c11-004 ภาวนา: eng 'to pray, to wish strongly, to meditate'
+t4k-c09-010 มนต์: eng 'spell, incantation, sacred chant'
 
-
-yt-c09-071 ศีลห้าข้อ - ไม่ฆ่าสัตว์ ไม่ขโมยของ ไม่พูดไม่ดี ไม่เป็นชู้กับสามีภรรยาชาวบ้าน ไม่ดื่ม: make it 5 cards:
+yt-c09-071 ศีลห้าข้อ - ไม่ฆ่าสัตว์ ไม่ขโมยของ ไม่พูดไม่ดี ไม่เป็นชู้กับสามีภรรยาชาวบ้าน ไม่ดื่ม: make it 5 cards and put them in occasional:
 'ศีลข้อที่ ๑: ไม่ฆ่าสัตว์ตัดชีวิต': 'First Buddhist precept'
 'ศีลข้อที่ ๒: ไม่ลักทรัพย์': 'Second Buddhist precept'
 'ศีลข้อที่ ๓: ไม่ประพฤติผิดในกาม': 'Third Buddhist precept'
 'ศีลข้อที่ ๔: ไม่พูดเท็จ': 'Fourth Buddhist precept'
 'ศีลข้อที่ ๕: ไม่ดื่มสุราเมรัย': 'Fifth Buddhist precept'
+
+rare: t4k-c04-044 จริยธรรม
 
 wlt-c09-020 เวลาดี, มงคล: make it two cards:
 เวลาดี: 'auspicious time (based on astrology or tradition)'
