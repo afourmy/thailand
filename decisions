@@ -19,7 +19,7 @@ thaipod-1196 เชื่อกันว่า: eng '"it is believed that", "peo
 thaipod-1253 เรียบร้อยแล้ว: eng 'to be in order, to be completed'
 yt-c08-033 จอดตรงนี้ก็ได้ครับ: eng '"you can stop here" (direction to taxi)'
 yt-c08-034 ขับไปอีกนิดนึงครับ: eng '"drive a little further" (then stop) (direction to taxi)'
-thaipod-1426 ไหนๆก็ไหนๆ: eng '"since we’re already at it", "might as well"'
+thaipod-1426 ไหนๆก็ไหนๆ: eng '"since we're already at it", "might as well"'
 yt-c10-010 คิดตังค์, คิดเงิน, เช็คบิล: eng 'various expressions to ask for the bill'
 yt-c11-092 ขัดตา - ขัดหู - ขัดใจ: eng 'displeasing, unpleasant (literally irritates the eyes - ears - heart)'
 yt-c11-097 ผิดสังเกต: eng 'unusual, "looks suspicious", "seems off"'
@@ -34,9 +34,9 @@ yt-c20-091 อย่ามาโทษผม: eng '"don't blame me"'
 yt-c21-029 แทงข้างหลัง: eng '(expression) to stab in the back, to betray'
 yt-c21-034 ลงเรือลำเดียวกัน: eng 'to be in the same boat'
 yt-c21-035 น้ำตาจระเข้: eng 'fake tears, crocodile tears'
-yt-c21-090 ตายใจ: eng 'to become overconfident, to let down one’s guard, to trust too much and stop being careful'
+yt-c21-090 ตายใจ: eng 'to become overconfident, to let down one's guard, to trust too much and stop being careful'
 yt-c21-093 ตามนั้น: eng '"sounds good", "agreed", "I'm in"'
-yt-c21-094 พูดเป็นเล่น: eng '"just kidding", "just joking"'
+yt-c21-094 พูดเป็นเล่น: eng '"you're kidding!", "are you kidding me?"'
 yt-c21-096 ช่างเหอะ, ช่างเถอะ: eng 'whatever, "doesn't matter", "never mind", "forget it"'
 yt-c22-015 หลับสบาย, ไปดี, กลับบ้านเก่า: eng 'to die, to pass away (various idioms)'
 yt-c22-017 เข้าที่เข้าทาง: eng 'to settle into place (idea of a situation becoming stable after disorder or transition)'
@@ -64,12 +64,11 @@ t4k-c07-069 ดังเช่น: eng 'such as, like'
 t4k-c07-092 เจ้าตัว: eng 'the person in question, the person themselves (subject of the discussion)'
 t4k-c08-050 สิ้นเชิง: eng 'completely, entirely'
 t4k-c08-056 เป็นต้นไป: eng 'onward, from now on'
-t4k-c08-075 ค่อน: eng 'quite, rather, somewhat'
 t4k-c09-080 อนึ่ง: eng 'furthermore, moreover (formal)'
 t4k-c10-031 เบื้องหน้า: eng 'in front (formal)'
 t4k-c10-046 ทำเอา: eng 'to cause (someone to feel or react a certain way)'
 t4k-c10-048 ตอนหลัง: eng 'afterwards, later on'
-t4k-c11-000 พลัน: eng 'suddently, immediately and unexpectedly (formal)'
+t4k-c11-000 พลัน: eng 'suddenly, immediately and unexpectedly (formal)'
 t4k-c11-075 ข้างเคียง: eng 'adjacent, beside, next to'
 tsl-136 ปรุงรส: eng 'to season (food)'
 tsl-623 เละ: eng 'mushy, pulpy (food); ruined, messy, messed up'
@@ -103,12 +102,12 @@ yt-c10-011 ฉัน + เลี้ยงเอง, จัดการเอง,
 
 thaipod-1408 ได้ข่าว: make it 'ได้ข่าวว่า': '"I heard that", "I got word that"'
 
-thaipod-0448 ทีเขาว่ากันว่า: make it 'เขาว่ากันว่า, ทีเขาว่ากันว่า': '"it is said that", "people say that"'
-
 thaipod-0223 คุยเพลินไปหน่อย: make it 'เพลินไปหน่อย': '"got a bit too absorbed", "slightly over-engaged in..."'
 
 tsl-049 พอ(...)ได้ - พอไหว: eng make it 'พอ(...)ได้': 'barely sufficient, acceptable, workable'
 
-everyday: wlt-c08-040 เมนู, wlt-c09-022 ไวน์, wlt-c19-069 เหนียว
+new card -> park: ได้เสียกัน: '(euphemism) to have sexual relations, to sleep together' [topic: slang, frequency: occasional] (assign id on apply)
 
-remove: tsl-089 ฉันจ่ายไม่ไหว, tsl-566 กลับกลายเป็นว่า, thaipod-0216 คิดไม่ออกเลย, thaipod-0290 ช็อปเพลินไปหน่อย, thaipod-0350 ตลอดทาง, thaipod-0781 มืดก็มืด, thaipod-0795 ยังไง, อยู่ดี, thaipod-1102 อย่าคิดว่าพีจะรู้ไม่ทันนะ, thaipod-1164 เขาว่ากันว่า, thaipod-1348 แหมทำเป็นพูดไป, thaipod-1370 โตจนป่านนีแล้ว, thaipod-1405 ใส่ที่นอน, yt-c04-058 ไม่ได้ใส่ใจ, yt-c14-076 เอาให้สบายใจ, yt-c14-077 คำเดียวเลย, yt-c19-063 ติดไว้ก่อน, wlt-c07-041 น่าซื้อ, wlt-c07-042 น่าฟัง, wlt-c07-048 น่าอ่าน, น่าอยู่, t4k-c01-048 ที่สำคัญ, t4k-c01-050 ก็ดี, t4k-c03-056 มีเสียง, t4k-c04-065 นี่แหละ, t4k-c05-054 เป็นไร, t4k-c06-080 จะเห็นได้ว่า, t4k-c10-060 นั้นแหละ, tamago-l3-026 โธ่เธอ, t4k-c07-070 สมมติ, t4k-c08-036 ตัวเดียว, t4k-c08-071 ฟังดู, t4k-c08-060 ไม่แพ้, t4k-c09-073 รู้อยู่, wlt-c01-072 จานข้าว, wlt-c02-090 น่าทาน, wlt-c02-097 น้ำนม, wlt-c03-052 ผักชีฝรั่ง, wlt-c05-023 อาหารจีน, wlt-c08-034 มะเขือ, wlt-c19-021 ไม่สุก, wlt-c09-096 อาหารฝรั่ง
+everyday: wlt-c08-040 เมนู, wlt-c09-022 ไวน์, wlt-c19-069 เหนียว (เหนียว: also change frequency common -> everyday)
+
+remove: t4k-c08-075 ค่อน, tsl-089 ฉันจ่ายไม่ไหว, tsl-566 กลับกลายเป็นว่า, thaipod-0216 คิดไม่ออกเลย, thaipod-0290 ช็อปเพลินไปหน่อย, thaipod-0350 ตลอดทาง, thaipod-0781 มืดก็มืด, thaipod-0795 ยังไง, อยู่ดี, thaipod-1102 อย่าคิดว่าพีจะรู้ไม่ทันนะ, thaipod-0448 ที่เขาว่ากันว่า, thaipod-1164 เขาว่ากันว่า, thaipod-1348 แหมทำเป็นพูดไป, thaipod-1370 โตจนป่านนีแล้ว, thaipod-1405 ใส่ที่นอน, yt-c04-058 ไม่ได้ใส่ใจ, yt-c14-076 เอาให้สบายใจ, yt-c14-077 คำเดียวเลย, yt-c19-063 ติดไว้ก่อน, wlt-c07-041 น่าซื้อ, wlt-c07-042 น่าฟัง, wlt-c07-048 น่าอ่าน, น่าอยู่, t4k-c01-048 ที่สำคัญ, t4k-c01-050 ก็ดี, t4k-c03-056 มีเสียง, t4k-c04-065 นี่แหละ, t4k-c05-054 เป็นไร, t4k-c06-080 จะเห็นได้ว่า, t4k-c10-060 นั้นแหละ, tamago-l3-026 โธ่เธอ, t4k-c07-070 สมมติ, t4k-c08-036 ตัวเดียว, t4k-c08-071 ฟังดู, t4k-c08-060 ไม่แพ้, t4k-c09-073 รู้อยู่, wlt-c01-072 จานข้าว, wlt-c02-090 น่าทาน, wlt-c02-097 น้ำนม, wlt-c03-052 ผักชีฝรั่ง, wlt-c05-023 อาหารจีน, wlt-c08-034 มะเขือ, wlt-c19-021 ไม่สุก, wlt-c09-096 อาหารฝรั่ง
