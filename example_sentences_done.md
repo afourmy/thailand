@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3041 words**
+**Total: 3051 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2227,6 +2227,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-032` : โคลงศีรษะ (to sway one's head (side-to-side, to express disbelief or disappointment)) : 1 meaning(s), 2 sentences
 - `yt-c13-033` : เดา - ทาย - มั่ว (to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly) : 1 meaning(s), 3 sentences
 - `yt-c13-040` : ตาข่าย (net (fishing net, sport net like volleyball, etc)) : 1 meaning(s), 2 sentences
+- `yt-c13-046` : สาด (to splash, to throw a liquid) : 1 meaning(s), 2 sentences
+- `yt-c13-051` : ชอล์ก (chalk) : 1 meaning(s), 2 sentences
+- `yt-c13-063` : ยัก (to shrug, to move slightly) : 1 meaning(s), 2 sentences
+- `yt-c13-063b` : พยักหน้า (to nod one's head) : 1 meaning(s), 2 sentences
+- `yt-c13-068` : เวร (duty, shift, watch) : 1 meaning(s), 2 sentences
+- `yt-c13-074` : ยัดเยียด (to force something on someone or into a space, to cram, to impose) : 1 meaning(s), 2 sentences
+- `yt-c13-076` : โทรม (worn-out, dilapidated, deteriorated, unwell, in poor condition (e.g objects, people, clothes, places)) : 1 meaning(s), 2 sentences
+- `yt-c13-077` : ล้าหลัง (backward, outdated, behind the times) : 1 meaning(s), 2 sentences
+- `yt-c13-079` : เหยียด (to stretch, to extend; to discriminate against, to look down on) : 2 meaning(s), 4 sentences
+- `yt-c13-081` : ด้อยค่า (to belittle, to devalue) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
