@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3171 words**
+**Total: 3181 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2359,6 +2359,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-046` : ผิดนัด (to miss an appointment, to not show up as scheduled; to default, to fail to meet a contractual obligation (e.g loan)) : 2 meaning(s), 4 sentences
 - `yt-c19-047` : หนังสือนิยาย (novel) : 1 meaning(s), 2 sentences
 - `yt-c19-056` : บาดตา (eyesore, harsh on the eyes, unpleasant to look at) : 1 meaning(s), 2 sentences
+- `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
+- `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
+- `yt-c20-039` : หักดิบ (to suddenly and completely cut something out (e.g lose weight, quit smoking)) : 1 meaning(s), 2 sentences
+- `yt-c20-046` : เคยตัว (to have gotten used to, be accustomed to (used negatively, e.g bad habit, bad behavior)) : 1 meaning(s), 2 sentences
+- `yt-c20-048` : ด้นสด (to improvise) : 1 meaning(s), 2 sentences
+- `yt-c20-051` : ชัก (to pull, to draw) : 1 meaning(s), 2 sentences
+- `yt-c20-051b` : ชักจะ (to begin, to start) : 1 meaning(s), 2 sentences
+- `yt-c20-062` : หักหลัง (to betray, to backstab (literally "break back")) : 1 meaning(s), 2 sentences
+- `yt-c20-063` : ต่อปากต่อคำ (to argue back and forth, to argue in an endless conversation) : 1 meaning(s), 2 sentences
+- `yt-c20-069` : แว๊บ (in a flash, (something happening) quickly, suddenly, to pop in) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
