@@ -73,10 +73,6 @@ chula-l5-353 เกษตรกรรม, การเกษตร: split into t
 เกษตรกรรม: 'agriculture (industry)'
 การเกษตร: 'agriculture (activity, process)'
 
-chula-l5-356 นำเข้า - ส่งออก: split into two cards:
-นำเข้า: 'to import'
-ส่งออก: 'to export'
-
 yt-c04-015 สำนึก - จิตสำนึก: make it 'สำนึก': 'to realize, to become aware'
 
 tsl-114 ระแวง - ขี้ระแวง: split into two cards
@@ -103,4 +99,4 @@ wlt-c09-020 เวลาดี, มงคล: make it two cards:
 เวลาดี: 'auspicious time (based on astrology or tradition)'
 มงคล: 'auspicious'
 
-remove card: yt-c14-048 ตัวผู้ - ตัวเมีย, t4k-c05-034 สิงห์, t4k-c03-060 บัว, t4k-c07-018 กิ่ง, t4k-c09-044 โขง, t4k-c09-015 ลุ่ม
+remove card: yt-c14-048 ตัวผู้ - ตัวเมีย, t4k-c05-034 สิงห์, t4k-c03-060 บัว, t4k-c07-018 กิ่ง, t4k-c09-044 โขง, t4k-c09-015 ลุ่ม, chula-l5-356 นำเข้า - ส่งออก
