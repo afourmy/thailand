@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3131 words**
+**Total: 3141 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2319,6 +2319,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-069b` : ร้องเพลงเพี้ยน (to sing off-key) : 1 meaning(s), 2 sentences
 - `yt-c17-078` : กรรมการ (committee member, board member, judge, referee (sport)) : 1 meaning(s), 2 sentences
 - `yt-c17-090` : หลบภัย (to shelter, to take refuge) : 1 meaning(s), 2 sentences
+- `yt-c17-092` : ที่โล่ง (open space (empty space), open-air) : 1 meaning(s), 2 sentences
+- `yt-c17-093` : หมอบ (to crouch, to prostrate) : 1 meaning(s), 2 sentences
+- `yt-c17-095` : สั่นสะเทือน (to vibrate, to tremble, to shake) : 1 meaning(s), 2 sentences
+- `yt-c17-097` : เหวี่ยง (to swing, to fling (sweeping or swinging motion)) : 1 meaning(s), 2 sentences
+- `yt-c17-099` : ความแม่นยำ (accuracy) : 1 meaning(s), 2 sentences
+- `yt-c18-009` : จดจ่อ (to focus intensely, to concentrate, to pay close attention) : 1 meaning(s), 2 sentences
+- `yt-c18-019` : กระทรวงศึกษาธิการ (Ministry of Education) : 1 meaning(s), 2 sentences
+- `yt-c18-020` : ประมุข (head, chief) : 1 meaning(s), 2 sentences
+- `yt-c18-021` : สมัครใจ (voluntary, willingly, of one's own free will) : 1 meaning(s), 2 sentences
+- `yt-c18-023` : วุฒิการศึกษา (educational background, educational qualification, academic degree) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
