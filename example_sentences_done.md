@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3091 words**
+**Total: 3101 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2278,6 +2278,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-060` : ความเสมอภาค (equality (in status, rights, opportunities)) : 1 meaning(s), 2 sentences
 - `yt-c15-063` : ยึดถือ (to uphold, to adhere to (e.g moral value, religion)) : 1 meaning(s), 2 sentences
 - `yt-c15-066` : งัด (to pry, to lever up) : 1 meaning(s), 2 sentences
+- `yt-c15-074` : ตกหล่น (to be unintentionally left out, to be omitted) : 1 meaning(s), 2 sentences
+- `yt-c15-077` : เสียหลัก (to lose one's balance (physically), to lose control, to lose one's stability (emotionally)) : 1 meaning(s), 2 sentences
+- `yt-c15-080` : เกา (to scratch (one's back, one's head, when it itches)) : 1 meaning(s), 2 sentences
+- `yt-c15-081` : ซัด (to throw, to hurl something forcefully) : 1 meaning(s), 2 sentences
+- `yt-c15-083` : โพสต์ท่า (to pose (for a photo, on stage, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-085` : ควง (to spin, to twirl, to rotate) : 1 meaning(s), 2 sentences
+- `yt-c15-097` : เสื่อมเสีย (to damage, to tarnish (usually reputation, social standing)) : 1 meaning(s), 2 sentences
+- `yt-c16-010` : ผลุด, โผล่ (to pop up suddenly, to spring out (e.g a thought)) : 1 meaning(s), 2 sentences
+- `yt-c16-034` : ชู (to raise, to lift up (something for others to see, e.g your hand, a flag)) : 1 meaning(s), 2 sentences
+- `yt-c16-035` : ไข (to solve, to figure out (e.g a problem, a puzzle); to turn, to operate) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
