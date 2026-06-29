@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3081 words**
+**Total: 3091 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2268,6 +2268,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-024` : กลิ่นสาบ (unpleasant sweaty, musty odor) : 1 meaning(s), 2 sentences
 - `yt-c15-028` : คด ((physically) bent, crooked; (morally) crooked, dishonest; to scoop rice) : 3 meaning(s), 6 sentences
 - `yt-c15-031` : นางงาม (beauty queen, beauty pageant) : 1 meaning(s), 2 sentences
+- `yt-c15-040` : วีรบุรุษ - วีรสตรี (hero - heroine (literally "heroic + man - woman")) : 1 meaning(s), 2 sentences
+- `yt-c15-041` : ตั้งตัว (to get established, to set oneself up (in life, career, financially, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-053` : วลีเด็ด (catchphrase, iconic line, famous quote or expression) : 1 meaning(s), 2 sentences
+- `yt-c15-055` : เล้า (animal pen, coop) : 1 meaning(s), 2 sentences
+- `yt-c15-056` : เลื้อย (to crawl, to creep) : 1 meaning(s), 2 sentences
+- `yt-c15-057` : แง้ม ((literally) to open slightly; (figuratively) to hint at, to reveal a little) : 2 meaning(s), 4 sentences
+- `yt-c15-059` : วิจัย (to research, to study) : 1 meaning(s), 2 sentences
+- `yt-c15-060` : ความเสมอภาค (equality (in status, rights, opportunities)) : 1 meaning(s), 2 sentences
+- `yt-c15-063` : ยึดถือ (to uphold, to adhere to (e.g moral value, religion)) : 1 meaning(s), 2 sentences
+- `yt-c15-066` : งัด (to pry, to lever up) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
