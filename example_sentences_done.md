@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2961 words**
+**Total: 2971 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2146,6 +2146,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-040` : หวี (comb, to comb) : 1 meaning(s), 2 sentences
 - `yt-c08-041` : ฉีด (to spray; to inject) : 2 meaning(s), 4 sentences
 - `yt-c08-042` : ย้อมผม (to dye hair) : 1 meaning(s), 2 sentences
+- `yt-c08-047` : ความชอบส่วนตัว, ความชอบส่วนบุคคล (personal preference) : 1 meaning(s), 2 sentences
+- `yt-c08-048` : ตอกย้ำ (to reinforce, to emphasize, to underscore) : 1 meaning(s), 2 sentences
+- `yt-c08-049` : ร้านเสริมสวย (beauty salon) : 1 meaning(s), 2 sentences
+- `yt-c08-056` : ตรา (brand, hallmark, blazon) : 1 meaning(s), 2 sentences
+- `yt-c08-057` : ความเท่าเทียม, ความเท่าเทียมกัน (equality, fairness) : 1 meaning(s), 2 sentences
+- `yt-c08-059` : คล่อง (fluent, nimble, agile, smooth) : 1 meaning(s), 2 sentences
+- `yt-c08-075` : เสริม (to supplement, to reinforce, to enhance) : 1 meaning(s), 2 sentences
+- `yt-c08-078` : สำเนา (a copy (of a document, e.g passport, certificate, etc)) : 1 meaning(s), 2 sentences
+- `yt-c08-090` : แจ่ม (bright, clear, radiant, excellent) : 1 meaning(s), 2 sentences
+- `yt-c09-008` : อคติ (prejudice, bias) : 1 meaning(s), 2 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
