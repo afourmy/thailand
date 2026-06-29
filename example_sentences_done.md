@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2952 words**
+**Total: 2961 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2137,6 +2137,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-082` : ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน (upper class - middle class - working class) : 1 meaning(s), 2 sentences
 - `yt-c07-088` : อนุสาวรีย์ (monument, memorial) : 1 meaning(s), 2 sentences
 - `yt-c08-004` : ติดตัว (to carry on oneself; (figuratively) innate, ingrained) : 2 meaning(s), 4 sentences
+- `yt-c08-005` : เฉลย (to reveal the answer, to provide the solution (e.g tests, exercises)) : 1 meaning(s), 2 sentences
+- `yt-c08-026` : กระพริบ (to blink, to flicker (e.g eyes, light)) : 1 meaning(s), 2 sentences
+- `yt-c08-029` : ห้องลองเสื้อ (changing room (cloth store)) : 1 meaning(s), 2 sentences
+- `yt-c08-031` : อัตราส่วน (ratio) : 1 meaning(s), 2 sentences
+- `yt-c08-037` : ซีก (half, hemisphere, side (one of two parts)) : 1 meaning(s), 2 sentences
+- `yt-c08-039` : เล็มผม (to trim hair, to snip the end of the hair) : 1 meaning(s), 2 sentences
+- `yt-c08-040` : หวี (comb, to comb) : 1 meaning(s), 2 sentences
+- `yt-c08-041` : ฉีด (to spray; to inject) : 2 meaning(s), 4 sentences
+- `yt-c08-042` : ย้อมผม (to dye hair) : 1 meaning(s), 2 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
