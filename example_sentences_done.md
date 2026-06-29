@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3011 words**
+**Total: 3021 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2197,6 +2197,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
 - `yt-c11-080` : ชะลอ (to slow down, to decelerate, to delay) : 1 meaning(s), 2 sentences
 - `yt-c11-083` : กระแสตอบรับ (public response, reception, feedback from people) : 1 meaning(s), 2 sentences
+- `yt-c11-085` : คำนวณ (to calculate) : 1 meaning(s), 2 sentences
+- `yt-c11-091` : พ้อง (similar, matching, identical, to correspond, to be the same) : 1 meaning(s), 2 sentences
+- `yt-c12-000` : จ้า (very bright, glaring (when talking about light)) : 1 meaning(s), 2 sentences
+- `yt-c12-003` : ลึกลับ (mysterious, secretive) : 1 meaning(s), 2 sentences
+- `yt-c12-005` : กล่าว (to say, to state, to mention (formal)) : 1 meaning(s), 2 sentences
+- `yt-c12-030` : เกี่ยว (related to, concerning; to harvest, to reap; to hook, to link, to entangle) : 3 meaning(s), 6 sentences
+- `yt-c12-030b` : เก็บเกี่ยว (to harvest crops (e.g rice, wheat)) : 1 meaning(s), 2 sentences
+- `yt-c12-031` : พร่อง - เต็ม - ล้น (less than full, deficient, lacking, below standard - full - more than full, overflow) : 1 meaning(s), 3 sentences
+- `yt-c12-032` : บกพร่อง (defective, lacking, flawed) : 1 meaning(s), 2 sentences
+- `yt-c12-032b` : ข้อบกพร่อง (defect, flaw) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
