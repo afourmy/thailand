@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3121 words**
+**Total: 3131 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2309,6 +2309,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-031` : เครื่องถ่ายเอกสาร (photocopier) : 1 meaning(s), 2 sentences
 - `yt-c17-041` : หลงทาง - หลงป่า (to be lost, to lose one's way - lost in the forest) : 1 meaning(s), 2 sentences
 - `yt-c17-042` : ขุ่น, ขุ่นมัว (murky, cloudy (liquid)) : 1 meaning(s), 2 sentences
+- `yt-c17-046` : ไม้เท้า, ไม้นำทาง (cane, walking stick) : 1 meaning(s), 2 sentences
+- `yt-c17-048` : ย้อนยุค (vintage style, retro) : 1 meaning(s), 2 sentences
+- `yt-c17-055` : อายุขัย (lifespan, life expectancy) : 1 meaning(s), 2 sentences
+- `yt-c17-061` : มัว (blurred, dim, unclear (eye, window)) : 1 meaning(s), 2 sentences
+- `yt-c17-062` : หมอง (dim, dull, gloomy, has lost its shine) : 1 meaning(s), 2 sentences
+- `yt-c17-063` : ผ่อง, ผ่องใส (bright, radiant, clear (face, skin complexion)) : 1 meaning(s), 2 sentences
+- `yt-c17-064` : โสโครก (extremely dirty, filthy, disgusting) : 1 meaning(s), 2 sentences
+- `yt-c17-069b` : ร้องเพลงเพี้ยน (to sing off-key) : 1 meaning(s), 2 sentences
+- `yt-c17-078` : กรรมการ (committee member, board member, judge, referee (sport)) : 1 meaning(s), 2 sentences
+- `yt-c17-090` : หลบภัย (to shelter, to take refuge) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
