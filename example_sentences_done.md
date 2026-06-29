@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 2971 words**
+**Total: 2981 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2156,6 +2156,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-078` : สำเนา (a copy (of a document, e.g passport, certificate, etc)) : 1 meaning(s), 2 sentences
 - `yt-c08-090` : แจ่ม (bright, clear, radiant, excellent) : 1 meaning(s), 2 sentences
 - `yt-c09-008` : อคติ (prejudice, bias) : 1 meaning(s), 2 sentences
+- `yt-c09-011` : ดั้งเดิม (original, traditional, authentic) : 1 meaning(s), 2 sentences
+- `yt-c09-033` : ตอก (to nail, to hammer in) : 1 meaning(s), 2 sentences
+- `yt-c09-051` : แปลง (to convert, to transform; plot of land, field) : 2 meaning(s), 4 sentences
+- `yt-c09-053` : โดยลำพัง (alone, by oneself, independently (without others)) : 1 meaning(s), 2 sentences
+- `yt-c09-073` : ทวน (to go against, to go in the opposite direction; to repeat, to review) : 2 meaning(s), 4 sentences
+- `yt-c09-082` : ยัด (to cram, to shove, to force something into a tight space) : 1 meaning(s), 2 sentences
+- `yt-c09-085` : สีสันสดใส (bright colors, vivid colors) : 1 meaning(s), 2 sentences
+- `yt-c09-093` : ลงแข่ง (to register, to sign up for a competition) : 1 meaning(s), 2 sentences
+- `yt-c09-097` : หลงทาง (lost, errant, to get lost) : 1 meaning(s), 2 sentences
+- `yt-c09-098` : ให้พลัง (to give power, to strengthen) : 1 meaning(s), 2 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
