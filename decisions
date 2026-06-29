@@ -51,7 +51,7 @@ tamago-l3-246 ประชด: eng 'to be sarcastic, to speak ironically, mockin
 tamago-l3-517 เสียดสี: eng 'to satirize, to criticize indirectly'
 tamago-l3-598 งอแง: eng 'to throw a tantrum, to whine'
 tamago-l3-748 ดุ: eng 'to scold, to reprimand; fierce, angry-looking, aggressive; strict, stern'
-tamago-l3-818 เมตตา: eng 'kindness, compassion'
+tamago-l3-818 เมตตา: eng 'kindness, goodwill, wishing others well'
 tsl-118 หวง: eng 'to be possessive, to guard jealously'
 thaipod-0301 ซื่อๆ: eng 'naive, simple, innocent'
 tobo-314 ความกรุณา: eng 'kindness, compassion'
@@ -74,21 +74,19 @@ chula-l5-353 เกษตรกรรม, การเกษตร: split into t
 เกษตรกรรม: 'agriculture (industry)'
 การเกษตร: 'agriculture (activity, process)'
 
-yt-c04-015 สำนึก - จิตสำนึก: make it 'สำนึก': 'to realize, to become aware'
+yt-c04-015 สำนึก - จิตสำนึก: make it 'สำนึก': 'to realize, to become aware; to feel remorse, to regret what one did'
 
 tsl-114 ระแวง - ขี้ระแวง: split into two cards
 ระแวง: 'suspicious, distrustful'
 ขี้ระแวง: 'paranoid, suspicious by nature'
 
-tsl-128 หึง - ขี้หึง: split into two cards
-หึง: 'jealous, possessive'
-ขี้หึง: 'someone who is jealous by nature, gets jealous quickly'
+tsl-128 หึง - ขี้หึง: make it 'ขี้หึง': 'someone who is jealous by nature, gets jealous quickly'
 
 tsl-130 หลี - ขี้หลี: split into two cards
 หลี: 'to flirt, to hit on girls'
 ขี้หลี: 'flirtatious, womanizer'
 
-yt-c16-093 น้ำจืด - น้ำเค็ม: make it 'น้ำเค็ม': 'seawater'
+yt-c16-093 น้ำจืด - น้ำเค็ม: make it 'น้ำเค็ม': 'saltwater'
 
 yt-c03-076 กิ่งไม้: make it 'กิ่ง, กิ่งไม้': 'branch'
 
@@ -100,4 +98,4 @@ wlt-c09-020 เวลาดี, มงคล: make it two cards:
 เวลาดี: 'auspicious time (based on astrology or tradition)'
 มงคล: 'auspicious'
 
-remove card: yt-c14-048 ตัวผู้ - ตัวเมีย, t4k-c05-034 สิงห์, t4k-c03-060 บัว, t4k-c07-018 กิ่ง, t4k-c09-044 โขง, t4k-c09-015 ลุ่ม, chula-l5-356 นำเข้า - ส่งออก
+remove card: yt-c14-048 ตัวผู้ - ตัวเมีย, t4k-c05-034 สิงห์, t4k-c03-060 บัว, t4k-c07-018 กิ่ง, t4k-c09-044 โขง, t4k-c09-015 ลุ่ม, chula-l5-356 นำเข้า - ส่งออก, yt-c11-063 ระแวง, tamago-l3-644 สำนึก
