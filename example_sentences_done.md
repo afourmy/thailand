@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3071 words**
+**Total: 3081 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2258,6 +2258,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c14-088` : เด้ง (to bounce, to spring back; (skin) firm, tight, not saggy) : 2 meaning(s), 4 sentences
 - `yt-c14-093` : เมือก (mucus, slime, slime-like substance) : 1 meaning(s), 2 sentences
+- `yt-c15-003` : เล็ง (to target, to aim, to focus on) : 1 meaning(s), 2 sentences
+- `yt-c15-007` : เล่นว่าว (to fly a kite) : 1 meaning(s), 2 sentences
+- `yt-c15-008` : รักษาสัญญา (to keep a promise, to honor an agreement) : 1 meaning(s), 2 sentences
+- `yt-c15-009` : ผิดคำพูด (to break a promise, to go back on one's word) : 1 meaning(s), 2 sentences
+- `yt-c15-013` : ส่งสาร (to convey a message, to transmit information) : 1 meaning(s), 2 sentences
+- `yt-c15-018` : ดูอ่อนกว่าวัย - ดูแก่กว่าวัย (to look younger than one's age - to look older than one's age) : 1 meaning(s), 2 sentences
+- `yt-c15-021` : ตึง (tight, stretched, tense) : 1 meaning(s), 2 sentences
+- `yt-c15-024` : กลิ่นสาบ (unpleasant sweaty, musty odor) : 1 meaning(s), 2 sentences
+- `yt-c15-028` : คด ((physically) bent, crooked; (morally) crooked, dishonest; to scoop rice) : 3 meaning(s), 6 sentences
+- `yt-c15-031` : นางงาม (beauty queen, beauty pageant) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
