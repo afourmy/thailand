@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3151 words**
+**Total: 3161 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2339,6 +2339,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-058` : พื้นผิว (surface, outer layer) : 1 meaning(s), 2 sentences
 - `yt-c18-059` : ไล่ลำดับ (to arrange in order, to put in sequence) : 1 meaning(s), 2 sentences
 - `yt-c18-065` : แปรปรวน (variable, changing, to fluctuate, to vary unpredictably (e.g mood, weather)) : 1 meaning(s), 2 sentences
+- `yt-c18-067` : ภัยคุกคาม (threat, menace) : 1 meaning(s), 2 sentences
+- `yt-c18-069` : โต้ตอบ (to respond, to reply) : 1 meaning(s), 2 sentences
+- `yt-c18-073` : พาด (to lay across, to drape, to sling over) : 1 meaning(s), 2 sentences
+- `yt-c18-077` : ก้าวเท้า (to step into, to take a step (literally "step + foot")) : 1 meaning(s), 2 sentences
+- `yt-c18-079` : ปูเสื่อ (to lay out a mat) : 1 meaning(s), 2 sentences
+- `yt-c18-087` : ได้เปรียบ (to have an advantage, to have the edge) : 1 meaning(s), 2 sentences
+- `yt-c18-088` : เล่นมุก (to crack a joke, to joke around) : 1 meaning(s), 2 sentences
+- `yt-c18-090` : แสบ (stinging, burning sensation (e.g from a cut, spicy food, smoke, etc); naughty, mischievous, troublemaker (e.g of a child)) : 2 meaning(s), 4 sentences
+- `yt-c18-099` : ตกยุค (outdated, out of fashion, obsolete) : 1 meaning(s), 2 sentences
+- `yt-c19-000` : คาบเกี่ยว (to overlap, to span across) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
