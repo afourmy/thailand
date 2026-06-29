@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3061 words**
+**Total: 3071 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2247,7 +2247,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-001` : ปรับแอร์ (ลง - ขึ้น) (to adjust aircon temperature (down - up)) : 1 meaning(s), 2 sentences
 - `yt-c14-002` : เสียบปลั๊ก - ถอดปลั๊ก (to plug in (e.g fan, etc) - to unplug) : 1 meaning(s), 2 sentences
 - `yt-c14-003` : เพิ่มเสียง - ลดเสียง (to turn up - down the volume) : 1 meaning(s), 2 sentences
+- `yt-c14-006` : สายสะพาย (shoulder strap, sash) : 1 meaning(s), 2 sentences
+- `yt-c14-012` : กระทู้ (thread, topic (e.g online forum like pantip)) : 1 meaning(s), 2 sentences
+- `yt-c14-023` : ห้องชุด (condo, condominium unit) : 1 meaning(s), 2 sentences
+- `yt-c14-024` : ห้องรับรอง (reception room) : 1 meaning(s), 2 sentences
+- `yt-c14-035` : ถล่ม (to collapse, to crash, to fall down violently; to destroy, to attack with force) : 2 meaning(s), 4 sentences
+- `yt-c14-040` : ซ้ำซาก (repetitive and dull, occurring again and again until it becomes boring, monotonous, tiresome) : 1 meaning(s), 2 sentences
+- `yt-c14-042` : ชาวไร่ (farmer (who farms in a rai i.e dry crops like corn, not rice field)) : 1 meaning(s), 2 sentences
+- `yt-c14-043` : ทำนา - ทำไร่ - ทำสวน (to do rice farming - to do dry crops farming - to do garden work) : 1 meaning(s), 3 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
+- `yt-c14-088` : เด้ง (to bounce, to spring back; (skin) firm, tight, not saggy) : 2 meaning(s), 4 sentences
+- `yt-c14-093` : เมือก (mucus, slime, slime-like substance) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
