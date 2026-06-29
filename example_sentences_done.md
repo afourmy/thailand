@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3101 words**
+**Total: 3111 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2288,7 +2288,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-010` : ผลุด, โผล่ (to pop up suddenly, to spring out (e.g a thought)) : 1 meaning(s), 2 sentences
 - `yt-c16-034` : ชู (to raise, to lift up (something for others to see, e.g your hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c16-035` : ไข (to solve, to figure out (e.g a problem, a puzzle); to turn, to operate) : 2 meaning(s), 4 sentences
+- `yt-c16-040` : ยางลบ (eraser) : 1 meaning(s), 2 sentences
+- `yt-c16-048` : กระทบกระเทือน (to affect, to shake, to impact (physically or emotionally)) : 1 meaning(s), 2 sentences
+- `yt-c16-050` : ตกตะกอน (to precipitate (when solid particles in a liquid settle at the bottom); (figuratively) to settle down, to become clear over time (e.g emotions)) : 2 meaning(s), 4 sentences
+- `yt-c16-054` : เร่ร่อน (to wander from place to place without a fixed residence) : 1 meaning(s), 2 sentences
+- `yt-c16-054b` : คนเร่ร่อน (vagrant, homeless person) : 1 meaning(s), 2 sentences
+- `yt-c16-068` : ประคอง (to support (physically), to keep from falling, to steady something (e.g help someone walk, or keep something steady)) : 1 meaning(s), 2 sentences
+- `yt-c16-084` : บอกเป็นนัย (to imply, to hint at something) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
+- `yt-c17-000` : ผิดรูป (deformed, distorted) : 1 meaning(s), 2 sentences
+- `yt-c17-001` : ทิ่ม (to poke, to jab, to stab lightly with something pointed) : 1 meaning(s), 2 sentences
+- `yt-c17-007` : คุ้มกัน (to guard, to escort, to protect someone) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
