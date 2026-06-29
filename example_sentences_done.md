@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3001 words**
+**Total: 3011 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2187,6 +2187,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c11-016` : เสาอากาศ (antenna (e.g for TV signal)) : 1 meaning(s), 2 sentences
 - `yt-c11-018` : ดูด (to suck, to draw in) : 1 meaning(s), 2 sentences
+- `yt-c11-021` : ปะแป้ง (to apply powder) : 1 meaning(s), 2 sentences
+- `yt-c11-023` : ผ้าเย็น (refreshing towel (stored in fridge in 7/11)) : 1 meaning(s), 2 sentences
+- `yt-c11-024` : ปะทะ (to clash, to collide) : 1 meaning(s), 2 sentences
+- `yt-c11-026` : ล้มทับ (to fall over, to collapse onto) : 1 meaning(s), 2 sentences
+- `yt-c11-029` : ตั้งกระทู้ (to create a post, to start a new thread) : 1 meaning(s), 2 sentences
+- `yt-c11-036` : กระบอก (cylinder, tube, flask (and classifier for guns and tube-shaped containers)) : 1 meaning(s), 2 sentences
+- `yt-c11-053` : ต้อน (to herd, to round up (animals)) : 1 meaning(s), 2 sentences
+- `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
+- `yt-c11-080` : ชะลอ (to slow down, to decelerate, to delay) : 1 meaning(s), 2 sentences
+- `yt-c11-083` : กระแสตอบรับ (public response, reception, feedback from people) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
