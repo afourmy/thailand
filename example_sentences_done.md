@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3141 words**
+**Total: 3151 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2329,6 +2329,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-020` : ประมุข (head, chief) : 1 meaning(s), 2 sentences
 - `yt-c18-021` : สมัครใจ (voluntary, willingly, of one's own free will) : 1 meaning(s), 2 sentences
 - `yt-c18-023` : วุฒิการศึกษา (educational background, educational qualification, academic degree) : 1 meaning(s), 2 sentences
+- `yt-c18-024` : สลาก - จับสลาก (lot, ballot, lottery slip - to draw lots, to draw a lottery slip) : 1 meaning(s), 2 sentences
+- `yt-c18-028` : ลำดับชั้น (hierarchy) : 1 meaning(s), 2 sentences
+- `yt-c18-033` : สะสาง (to clean up, to clear up, to sort out, to tidy up (e.g tasks, mess, problems, etc)) : 1 meaning(s), 2 sentences
+- `yt-c18-046` : (โดน)สั่งย้าย (to be transferred, to be relocated (as an employee)) : 1 meaning(s), 2 sentences
+- `yt-c18-050` : เม็ด - เมล็ด (seed (small round unit, grain) - seed (idea of life potential, using it to grow a tree)) : 1 meaning(s), 2 sentences
+- `yt-c18-051` : เสียม (shovel) : 1 meaning(s), 2 sentences
+- `yt-c18-056` : สัปหงก (to nod off, to doze off, to fall asleep briefly) : 1 meaning(s), 2 sentences
+- `yt-c18-058` : พื้นผิว (surface, outer layer) : 1 meaning(s), 2 sentences
+- `yt-c18-059` : ไล่ลำดับ (to arrange in order, to put in sequence) : 1 meaning(s), 2 sentences
+- `yt-c18-065` : แปรปรวน (variable, changing, to fluctuate, to vary unpredictably (e.g mood, weather)) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
