@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3051 words**
+**Total: 3061 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2237,6 +2237,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-077` : ล้าหลัง (backward, outdated, behind the times) : 1 meaning(s), 2 sentences
 - `yt-c13-079` : เหยียด (to stretch, to extend; to discriminate against, to look down on) : 2 meaning(s), 4 sentences
 - `yt-c13-081` : ด้อยค่า (to belittle, to devalue) : 1 meaning(s), 2 sentences
+- `yt-c13-082` : ทองแดง (copper (also used to say "bronze medal")) : 1 meaning(s), 2 sentences
+- `yt-c13-084` : รอบรองชนะเลิศ (semifinal) : 1 meaning(s), 2 sentences
+- `yt-c13-085` : รอบชิงชนะเลิศ (final (match of a championship)) : 1 meaning(s), 2 sentences
+- `yt-c13-086` : น้ำใจนักกีฬา (sportsmanship) : 1 meaning(s), 2 sentences
+- `yt-c13-093` : ต่อย (to punch, to strike with a fist; to sting (insect)) : 2 meaning(s), 4 sentences
+- `yt-c13-099` : รองเท้าหุ้มส้น (shoes that fully cover the heel) : 1 meaning(s), 2 sentences
+- `yt-c14-000` : ไขกุญแจ (to unlock, to open with a key (literally to turn the key)) : 1 meaning(s), 2 sentences
+- `yt-c14-001` : ปรับแอร์ (ลง - ขึ้น) (to adjust aircon temperature (down - up)) : 1 meaning(s), 2 sentences
+- `yt-c14-002` : เสียบปลั๊ก - ถอดปลั๊ก (to plug in (e.g fan, etc) - to unplug) : 1 meaning(s), 2 sentences
+- `yt-c14-003` : เพิ่มเสียง - ลดเสียง (to turn up - down the volume) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
