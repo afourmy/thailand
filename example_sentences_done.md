@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3021 words**
+**Total: 3031 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2207,6 +2207,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-031` : พร่อง - เต็ม - ล้น (less than full, deficient, lacking, below standard - full - more than full, overflow) : 1 meaning(s), 3 sentences
 - `yt-c12-032` : บกพร่อง (defective, lacking, flawed) : 1 meaning(s), 2 sentences
 - `yt-c12-032b` : ข้อบกพร่อง (defect, flaw) : 1 meaning(s), 2 sentences
+- `yt-c12-035` : วน (to rotate, to go in circle) : 1 meaning(s), 2 sentences
+- `yt-c12-037` : พบปะ (to meet (usually in a social setting, like friends, coworkers), to meet and socialize) : 1 meaning(s), 2 sentences
+- `yt-c12-054` : ยั่ว (to tease, to provoke, to entice) : 1 meaning(s), 2 sentences
+- `yt-c12-058` : ปัด (to brush, to swipe, to dust) : 1 meaning(s), 2 sentences
+- `yt-c12-059` : ถ่วง ((literally) to weigh down (put a weight on something); (figuratively) to hinder, to delay, to slow down) : 2 meaning(s), 4 sentences
+- `yt-c12-078` : เบ้า (cavity, socket, mold) : 1 meaning(s), 2 sentences
+- `yt-c12-080` : กระโจน (to leap, to jump very fast like a spring) : 1 meaning(s), 2 sentences
+- `yt-c12-081` : เพ่ง, เพ่งดู (to stare, to focus intently) : 1 meaning(s), 2 sentences
+- `yt-c12-085` : โต้ (to respond, to retort, to argue back; to go against (e.g wind, wave)) : 2 meaning(s), 4 sentences
+- `yt-c13-005` : ฟันเฟือง (gear, cog (icon used for the "settings" on phone)) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
