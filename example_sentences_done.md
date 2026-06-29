@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3031 words**
+**Total: 3041 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2217,6 +2217,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-081` : เพ่ง, เพ่งดู (to stare, to focus intently) : 1 meaning(s), 2 sentences
 - `yt-c12-085` : โต้ (to respond, to retort, to argue back; to go against (e.g wind, wave)) : 2 meaning(s), 4 sentences
 - `yt-c13-005` : ฟันเฟือง (gear, cog (icon used for the "settings" on phone)) : 1 meaning(s), 2 sentences
+- `yt-c13-016` : เรียบหรู (simple yet elegant, sophisticated and classy in a simple way) : 1 meaning(s), 2 sentences
+- `yt-c13-017` : รสนิยม (taste, preference, inclination) : 1 meaning(s), 2 sentences
+- `yt-c13-022` : ถ่ายเท (to flow, to transfer (move from one place to another)) : 1 meaning(s), 2 sentences
+- `yt-c13-025` : รางน้ำ (gutter, water drainpipe) : 1 meaning(s), 2 sentences
+- `yt-c13-027` : แปรงขัดชักโครก (toilet brush) : 1 meaning(s), 2 sentences
+- `yt-c13-029` : บัวรดน้ำ (watering can) : 1 meaning(s), 2 sentences
+- `yt-c13-031` : เบลอ, เบลอๆ ((from "blur") blurred, fuzzy, unclear) : 1 meaning(s), 2 sentences
+- `yt-c13-032` : โคลงศีรษะ (to sway one's head (side-to-side, to express disbelief or disappointment)) : 1 meaning(s), 2 sentences
+- `yt-c13-033` : เดา - ทาย - มั่ว (to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly) : 1 meaning(s), 3 sentences
+- `yt-c13-040` : ตาข่าย (net (fishing net, sport net like volleyball, etc)) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
