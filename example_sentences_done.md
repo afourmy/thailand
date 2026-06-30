@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3491 words**
+**Total: 3501 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2933,14 +2933,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-031` : สถาบัน (institute, institution) : 1 meaning(s), 2 sentences
 - `wlt-c12-032` : สบายดี (to feel well, to be okay) : 1 meaning(s), 2 sentences
 - `wlt-c12-033` : สมบูรณ์ (perfect, whole, complete) : 1 meaning(s), 2 sentences
+- `wlt-c12-035` : สมาคม (association, society, organization) : 1 meaning(s), 2 sentences
+- `wlt-c12-036` : สระว่ายน้ำ (swimming pool) : 1 meaning(s), 2 sentences
+- `wlt-c12-037` : ส้วม (toilet) : 1 meaning(s), 2 sentences
 - `wlt-c12-038` : สวัสดี (hello (used for greeting or leavetaking)) : 1 meaning(s), 2 sentences
 - `wlt-c12-039` : สามสิบ (thirty (30)) : 1 meaning(s), 2 sentences
+- `wlt-c12-042` : สิ้น, สิ้นสุด (to end, to come to an end) : 1 meaning(s), 2 sentences
 - `wlt-c12-045` : สีเงิน (silver (colour)) : 1 meaning(s), 2 sentences
+- `wlt-c12-046` : สีทอง (gold (color)) : 1 meaning(s), 2 sentences
 - `wlt-c12-047` : สีส้ม (orange) : 1 meaning(s), 2 sentences
+- `wlt-c12-049` : เสื้อเชิ้ต (shirt (worn in formal settings)) : 1 meaning(s), 2 sentences
+- `wlt-c12-050` : แสตมป์ (postage stamp) : 1 meaning(s), 2 sentences
+- `wlt-c12-053` : หด (to shrink) : 1 meaning(s), 2 sentences
 - `wlt-c12-055` : หน้าร้อน (hot season) : 1 meaning(s), 2 sentences
 - `wlt-c12-056` : หน้าหนาว (cold season) : 1 meaning(s), 2 sentences
+- `wlt-c12-058` : หมุน (to rotate, to spin, to revolve) : 1 meaning(s), 2 sentences
 - `wlt-c12-059` : หรือยัง (yet (question word), have you... yet?) : 1 meaning(s), 2 sentences
 - `wlt-c12-063` : ห้องนอน (bedroom) : 1 meaning(s), 2 sentences
+- `wlt-c12-064` : หอพัก (dormitory) : 1 meaning(s), 2 sentences
 - `wlt-c12-066` : หัก (to break, to fracture; to deduct, to subtract) : 2 meaning(s), 4 sentences
 - `wlt-c12-070` : เห็นด้วย (to agree) : 1 meaning(s), 2 sentences
 - `wlt-c12-071` : เหม็น (to smell bad) : 1 meaning(s), 2 sentences
