@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3191 words**
+**Total: 3201 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2379,6 +2379,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-032` : จู่โจม (to ambush, to raid, to launch a surprise attack) : 1 meaning(s), 2 sentences
 - `yt-c21-042` : ให้ความเห็นชอบ (to give one's approval, to give consent) : 1 meaning(s), 2 sentences
 - `yt-c21-047` : คราง (to groan, to moan (e.g heavy work, sex)) : 1 meaning(s), 2 sentences
+- `yt-c21-052` : ยอดมนุษย์ (superhero) : 1 meaning(s), 2 sentences
+- `yt-c21-054` : ขับเคลื่อน (to drive, to propel, to move forward) : 1 meaning(s), 2 sentences
+- `yt-c21-055` : จับตามอง (to watch closely, to keep an eye on) : 1 meaning(s), 2 sentences
+- `yt-c21-059` : เยี่ยมเยือน (to pay a visit, to visit (formal)) : 1 meaning(s), 2 sentences
+- `yt-c21-061` : พอเพียง (sufficient, self-restrained, having just enough, not excessive not lacking) : 1 meaning(s), 2 sentences
+- `yt-c21-069` : เฉียด ("almost there", "narrowly missed", to narrowly miss, to almost hit) : 1 meaning(s), 2 sentences
+- `yt-c21-070` : ตะเบ็ง (to shout, to yell) : 1 meaning(s), 2 sentences
+- `yt-c21-071` : พึมพำ (to mumble) : 1 meaning(s), 2 sentences
+- `yt-c21-074` : เหลือบ (to glance, to peek quickly (brief or sideway look to be discrete)) : 1 meaning(s), 2 sentences
+- `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
