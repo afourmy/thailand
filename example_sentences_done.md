@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3391 words**
+**Total: 3401 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2725,9 +2725,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-066` : เย็นนี้ (this evening, this late afternoon) : 1 meaning(s), 2 sentences
 - `wlt-c08-067` : แย่ (bad, terrible) : 1 meaning(s), 2 sentences
 - `wlt-c08-071` : รหัสไปรษณีย์ (postal code) : 1 meaning(s), 2 sentences
+- `wlt-c08-072` : รอย (scratch, mark, trail) : 1 meaning(s), 2 sentences
+- `wlt-c08-073` : ระบบ (system) : 1 meaning(s), 2 sentences
+- `wlt-c08-075` : ร่าง (draft, proposal) : 1 meaning(s), 2 sentences
 - `wlt-c08-078` : ร้านขายยา (pharmacy) : 1 meaning(s), 2 sentences
+- `wlt-c08-079` : รื้อ (to dismantle, to tear down) : 1 meaning(s), 2 sentences
+- `wlt-c08-080` : รุ่น (age, generation, period) : 1 meaning(s), 2 sentences
+- `wlt-c08-081` : รูปถ่าย (photograph) : 1 meaning(s), 2 sentences
 - `wlt-c08-082` : เร็ว, เร็วๆ (quickly, fast) : 1 meaning(s), 2 sentences
+- `wlt-c08-086` : โรงเรียนอนุบาล (kindergarten, preschool) : 1 meaning(s), 2 sentences
+- `wlt-c08-093` : ลดลง (to become lower, to diminish) : 1 meaning(s), 2 sentences
+- `wlt-c08-094` : ลวด (wire) : 1 meaning(s), 2 sentences
 - `wlt-c08-098` : ลาก่อน (goodbye, farewell) : 1 meaning(s), 2 sentences
+- `wlt-c08-099` : ลำดับ (order, sequence, to arrange in order) : 1 meaning(s), 2 sentences
 - `wlt-c09-007` : เลี้ยวขวา (to turn right) : 1 meaning(s), 2 sentences
 - `wlt-c09-008` : เลี้ยวซ้าย (to turn left) : 1 meaning(s), 2 sentences
 - `wlt-c09-010` : แล้วแต่ (depending on) : 1 meaning(s), 2 sentences
