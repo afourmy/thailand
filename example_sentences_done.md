@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3441 words**
+**Total: 3451 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2816,16 +2816,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-039` : คอม, คอมพิวเตอร์ (computer (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c10-041` : คำตอบ (answer) : 1 meaning(s), 2 sentences
 - `wlt-c10-042` : คุณสมบัติ (qualifications) : 1 meaning(s), 2 sentences
+- `wlt-c10-043` : คูณ (to multiply) : 1 meaning(s), 2 sentences
 - `wlt-c10-045` : ง่วง, ง่วงนอน (sleepy) : 1 meaning(s), 2 sentences
 - `wlt-c10-046` : งั้น (in that case, therefore (informal short form)) : 1 meaning(s), 2 sentences
+- `wlt-c10-048` : จำกัด (to limit, to restrict) : 1 meaning(s), 2 sentences
+- `wlt-c10-049` : จำนวน (amount) : 1 meaning(s), 2 sentences
+- `wlt-c10-050` : เจริญ (to prosper, to develop, to flourish) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
+- `wlt-c10-052` : ชนบท (rural area, countryside (polite)) : 1 meaning(s), 2 sentences
 - `wlt-c10-053` : ชั้นบน (upstairs) : 1 meaning(s), 2 sentences
 - `wlt-c10-054` : ชั้นล่าง (downstairs, ground floor) : 1 meaning(s), 2 sentences
 - `wlt-c10-057` : ชื่อเล่น (nickname) : 1 meaning(s), 2 sentences
+- `wlt-c10-059` : ซักแห้ง (to dry-clean) : 1 meaning(s), 2 sentences
 - `wlt-c10-062` : เซ็น (to sign) : 1 meaning(s), 2 sentences
+- `wlt-c10-063` : โซ่ (chain) : 1 meaning(s), 2 sentences
+- `wlt-c10-065` : ดม (to smell (active)) : 1 meaning(s), 2 sentences
+- `wlt-c10-066` : ด่วน (urgent, express) : 1 meaning(s), 2 sentences
 - `wlt-c10-068` : ดีกว่า (better) : 1 meaning(s), 2 sentences
 - `wlt-c10-069` : เดียวกัน (same, identical) : 1 meaning(s), 2 sentences
 - `wlt-c10-073` : ตอนบ่าย (in the afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
+- `wlt-c10-076` : ตัวเลข (number, figure, digit) : 1 meaning(s), 2 sentences
 - `wlt-c10-077` : ตาย (to die) : 1 meaning(s), 2 sentences
 - `wlt-c10-079` : ตู้เย็น (refrigerator) : 1 meaning(s), 2 sentences
 - `wlt-c10-083` : แตกต่าง (to differ, to be different, separate) : 1 meaning(s), 2 sentences
