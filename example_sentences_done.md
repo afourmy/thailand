@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3481 words**
+**Total: 3491 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2914,15 +2914,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-000` : รางวัล (prize, award, trophy) : 1 meaning(s), 2 sentences
 - `wlt-c12-001` : ร้านกาแฟ (coffee shop) : 1 meaning(s), 2 sentences
 - `wlt-c12-004` : เรียกว่า (to be called) : 1 meaning(s), 2 sentences
+- `wlt-c12-005` : เรียนรู้ (to study, to learn) : 1 meaning(s), 2 sentences
+- `wlt-c12-006` : เรียบ (smooth, even, plain) : 1 meaning(s), 2 sentences
+- `wlt-c12-008` : โรงพัก (police station (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c12-011` : ล่าง (lower, bottom) : 1 meaning(s), 2 sentences
+- `wlt-c12-012` : ล่าม (interpreter) : 1 meaning(s), 2 sentences
+- `wlt-c12-013` : ลำบาก (difficult, hard) : 1 meaning(s), 2 sentences
+- `wlt-c12-015` : ลิตร (liter (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c12-016` : ลูกค้า (customer) : 1 meaning(s), 2 sentences
 - `wlt-c12-017` : ลูกชาย (son) : 1 meaning(s), 2 sentences
+- `wlt-c12-018` : เลขา, เลขานุการ (secretary) : 1 meaning(s), 2 sentences
 - `wlt-c12-019` : เลิก (to stop, end, quit, break up) : 1 meaning(s), 3 sentences
+- `wlt-c12-021` : วงกลม (circle) : 1 meaning(s), 2 sentences
 - `wlt-c12-023` : วัตถุ (object, material) : 1 meaning(s), 2 sentences
 - `wlt-c12-024` : วันเกิด (birthday) : 1 meaning(s), 2 sentences
 - `wlt-c12-025` : วิศวกร (engineer) : 1 meaning(s), 2 sentences
 - `wlt-c12-029` : สถานที่ (place, location) : 1 meaning(s), 2 sentences
+- `wlt-c12-031` : สถาบัน (institute, institution) : 1 meaning(s), 2 sentences
 - `wlt-c12-032` : สบายดี (to feel well, to be okay) : 1 meaning(s), 2 sentences
+- `wlt-c12-033` : สมบูรณ์ (perfect, whole, complete) : 1 meaning(s), 2 sentences
 - `wlt-c12-038` : สวัสดี (hello (used for greeting or leavetaking)) : 1 meaning(s), 2 sentences
 - `wlt-c12-039` : สามสิบ (thirty (30)) : 1 meaning(s), 2 sentences
 - `wlt-c12-045` : สีเงิน (silver (colour)) : 1 meaning(s), 2 sentences
