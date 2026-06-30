@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3421 words**
+**Total: 3431 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2771,12 +2771,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-064` : หลังจาก (after) : 1 meaning(s), 2 sentences
 - `wlt-c09-066` : ห้องครัว (kitchen) : 1 meaning(s), 2 sentences
 - `wlt-c09-067` : ห้องทำงาน (work room, office) : 1 meaning(s), 2 sentences
+- `wlt-c09-068` : ห้อย (to dangle) : 1 meaning(s), 2 sentences
+- `wlt-c09-070` : ห้างสรรพสินค้า (shopping mall (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c09-071` : หาเจอ (to find something you were looking for) : 1 meaning(s), 2 sentences
+- `wlt-c09-072` : หาไม่เจอ (to be unable to find) : 1 meaning(s), 2 sentences
+- `wlt-c09-073` : หาร (to divide) : 1 meaning(s), 2 sentences
 - `wlt-c09-074` : เหตุผล (reason) : 1 meaning(s), 2 sentences
 - `wlt-c09-075` : เหรอ ("really?" (particle asking for confirmation)) : 1 meaning(s), 2 sentences
 - `wlt-c09-076` : เหล้า (alcohol, liquor) : 1 meaning(s), 2 sentences
 - `wlt-c09-079` : องศา (degree (temperature)) : 1 meaning(s), 2 sentences
 - `wlt-c09-080` : อนุญาต (to permit) : 1 meaning(s), 2 sentences
+- `wlt-c09-081` : อนุบาล (nursery (level)) : 1 meaning(s), 2 sentences
+- `wlt-c09-082` : อพาร์ทเมนท์ (apartment (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c09-087` : อัด (to record (audio, video); to press, to compress, to pack) : 2 meaning(s), 4 sentences
 - `wlt-c09-088` : อันนี้ (this one) : 1 meaning(s), 2 sentences
+- `wlt-c09-089` : อ้างถึง, อ้างอิง (to refer to, to cite, to quote) : 1 meaning(s), 2 sentences
+- `wlt-c09-091` : อ่างอาบน้ำ (bathtub) : 1 meaning(s), 2 sentences
 - `wlt-c09-092` : อาทิตย์ที่แล้ว, อาทิตย์ก่อน (last week) : 1 meaning(s), 2 sentences
 - `wlt-c09-093` : อาทิตย์หน้า (next week) : 1 meaning(s), 2 sentences
 - `wlt-c09-095` : อาหารไทย (Thai food) : 1 meaning(s), 2 sentences
