@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3221 words**
+**Total: 3231 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2409,7 +2409,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-070` : ความเสถียร (stability, steadiness) : 1 meaning(s), 2 sentences
 - `yt-c22-072` : เด็กเกเร (delinquent child, misbehaving and troublesome kid) : 1 meaning(s), 2 sentences
 - `yt-c22-073` : ย่ำ (to tread, to stomp on, to trample) : 1 meaning(s), 2 sentences
+- `yt-c22-084` : ประคับประคอง (to sustain, to maintain, to support something so it does not worsen or collapse) : 1 meaning(s), 2 sentences
+- `yt-c23-011` : ตะไบเล็บ (to file one's nails) : 1 meaning(s), 2 sentences
+- `yt-c23-021` : ปิดกั้น (to seal off completely, to completely block (physically, or feelings)) : 1 meaning(s), 2 sentences
+- `yt-c23-022` : ขวางทาง (to block the way) : 1 meaning(s), 2 sentences
+- `yt-c23-024` : ตีหน้า (to deliberately put on a facial expression, to pretend to feel a certain way) : 1 meaning(s), 2 sentences
+- `yt-c23-032` : กลับด้าน (to flip to the other side, to turn inside out) : 1 meaning(s), 2 sentences
+- `wlt-c01-000` : กระดิ่ง (small, simple bell (e.g bicycle)) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
+- `wlt-c01-011` : เก๊ (fake, counterfeit) : 1 meaning(s), 2 sentences
+- `wlt-c01-014` : เกษียณ (to retire) : 1 meaning(s), 2 sentences
+- `wlt-c01-019` : แก้ตัว (to excuse oneself, to make excuses) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
 - `wlt-c01-037` : ไปนอน, เข้านอน (to go to bed) : 1 meaning(s), 2 sentences
