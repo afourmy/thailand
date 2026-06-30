@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3631 words**
+**Total: 3641 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3588,6 +3588,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-082` : ต่อสู้ (to fight, to struggle) : 1 meaning(s), 2 sentences
 - `t4k-c01-084` : ร้าย (bad, evil, harmful) : 1 meaning(s), 2 sentences
 - `t4k-c01-085` : หมายความ, หมายถึง (to mean) : 1 meaning(s), 2 sentences
+- `t4k-c01-088` : ชื่อเสียง (reputation) : 1 meaning(s), 2 sentences
+- `t4k-c01-091` : คำสั่ง (order, command) : 1 meaning(s), 2 sentences
+- `t4k-c01-092` : รอง (secondary, vice-; to hold, to support from below) : 2 meaning(s), 4 sentences
+- `t4k-c02-005` : ความต้องการ (requirement, demand, need) : 1 meaning(s), 2 sentences
+- `t4k-c02-006` : ทำเป็น (to know how to do, to be skilled at; to pretend, to feign) : 2 meaning(s), 4 sentences
+- `t4k-c02-009` : ซ้อน (to stack, to overlap) : 1 meaning(s), 2 sentences
+- `t4k-c02-015` : เสี่ยง (to risk, risky) : 1 meaning(s), 2 sentences
+- `t4k-c02-016` : หน่วย (unit (of measurement)) : 1 meaning(s), 2 sentences
+- `t4k-c02-017` : สำนัก (office, bureau, institution) : 1 meaning(s), 2 sentences
+- `t4k-c02-018` : สนิท (close, intimate) : 1 meaning(s), 2 sentences
 - `t4k-c02-043` : พูดคุย (to talk, to chat) : 1 meaning(s), 2 sentences
 - `t4k-c02-046` : ที่ไหน (where) : 1 meaning(s), 2 sentences
 - `t4k-c02-065` : กล้อง (camera) : 1 meaning(s), 2 sentences
