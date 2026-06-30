@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3351 words**
+**Total: 3361 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2667,11 +2667,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-023` : ทีม (team, group (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c07-026` : ทุกคน (everybody, everyone) : 1 meaning(s), 2 sentences
 - `wlt-c07-029` : ทุกอย่าง (everything (spoken), every kind) : 1 meaning(s), 2 sentences
+- `wlt-c07-030` : เทคโนโลยี (technology) : 1 meaning(s), 2 sentences
+- `wlt-c07-031` : เทนนิส (tennis) : 1 meaning(s), 2 sentences
+- `wlt-c07-032` : เทป (tape (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c07-034` : เท่าไหร่ (how much) : 1 meaning(s), 2 sentences
+- `wlt-c07-035` : เทียบ (to compare with, to match against) : 1 meaning(s), 2 sentences
+- `wlt-c07-040` : นักแปล (translator) : 1 meaning(s), 2 sentences
 - `wlt-c07-045` : น่ารำคาญ (annoying) : 1 meaning(s), 2 sentences
 - `wlt-c07-047` : น่าเสียดาย (what a pity, what a shame; regrettable) : 2 meaning(s), 4 sentences
 - `wlt-c07-053` : นิ้วมือ (finger) : 1 meaning(s), 2 sentences
+- `wlt-c07-055` : แนวโน้ม (tendency) : 1 meaning(s), 2 sentences
+- `wlt-c07-058` : บัตร (ticket, card) : 1 meaning(s), 2 sentences
 - `wlt-c07-059` : บัตรเครดิต (credit card) : 1 meaning(s), 2 sentences
+- `wlt-c07-062` : บุรุษไปรษณีย์ (postman) : 1 meaning(s), 2 sentences
+- `wlt-c07-063` : เบาะ, เบาะนั่ง (seat) : 1 meaning(s), 2 sentences
+- `wlt-c07-064` : โบว์ลิ่ง (bowling) : 1 meaning(s), 2 sentences
 - `wlt-c07-080` : เปียก (wet) : 1 meaning(s), 2 sentences
 - `wlt-c08-021` : เพศ (gender, sex) : 1 meaning(s), 2 sentences
 - `wlt-c08-030` : ภาษาไทย (Thai language) : 1 meaning(s), 2 sentences
