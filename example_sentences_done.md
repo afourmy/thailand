@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3341 words**
+**Total: 3351 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2651,10 +2651,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-089` : เต้น, เต้นรำ (to dance) : 1 meaning(s), 2 sentences
 - `wlt-c06-092` : แตะ (to touch (lightly)) : 1 meaning(s), 2 sentences
 - `wlt-c06-094` : โต๊ะทำงาน (desk) : 1 meaning(s), 2 sentences
+- `wlt-c06-096` : ถอย (to move backward, to retreat, to step back) : 1 meaning(s), 2 sentences
+- `wlt-c06-098` : ถ่านไฟฉาย (flashlight battery) : 1 meaning(s), 2 sentences
+- `wlt-c07-001` : ทนทาน (durable, resistant) : 1 meaning(s), 2 sentences
+- `wlt-c07-001b` : ถาวร (permanent, long-lasting) : 1 meaning(s), 2 sentences
+- `wlt-c07-004` : ทหารอากาศ (airman, air force personnel) : 1 meaning(s), 2 sentences
+- `wlt-c07-006` : ท่อ (pipe, ditch, sewer) : 1 meaning(s), 2 sentences
+- `wlt-c07-007` : ท่องจำ (to memorize by repetition) : 1 meaning(s), 2 sentences
+- `wlt-c07-008` : ท่อน้ำ (water pipe) : 1 meaning(s), 2 sentences
+- `wlt-c07-009` : ทะเบียน (register, list, record) : 1 meaning(s), 2 sentences
 - `wlt-c07-010` : ทั้งคืน (all night) : 1 meaning(s), 2 sentences
 - `wlt-c07-011` : ตลอดวัน, ทั้งวัน (all day) : 1 meaning(s), 2 sentences
 - `wlt-c07-015` : ทางนี้ (this way) : 1 meaning(s), 2 sentences
 - `wlt-c07-019` : ทำกับข้าว (to cook) : 1 meaning(s), 2 sentences
+- `wlt-c07-023` : ทีม (team, group (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c07-026` : ทุกคน (everybody, everyone) : 1 meaning(s), 2 sentences
 - `wlt-c07-029` : ทุกอย่าง (everything (spoken), every kind) : 1 meaning(s), 2 sentences
 - `wlt-c07-034` : เท่าไหร่ (how much) : 1 meaning(s), 2 sentences
