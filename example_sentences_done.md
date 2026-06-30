@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3291 words**
+**Total: 3301 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2568,7 +2568,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-020` : อาทิตย์นี้ (this week) : 1 meaning(s), 2 sentences
 - `wlt-c05-031` : เอาออก (to take out) : 1 meaning(s), 2 sentences
 - `wlt-c05-032` : โอเค (okay (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c05-035` : กระดาษแข็ง (cardboard) : 1 meaning(s), 2 sentences
 - `wlt-c05-036` : กระดาษชำระ (toilet paper) : 1 meaning(s), 2 sentences
+- `wlt-c05-037` : กระเป๋าถือ (handbag) : 1 meaning(s), 2 sentences
+- `wlt-c05-038` : กรัม (gram (metric system) (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c05-040` : กล่องเล็กๆ, กลัก (small box, small case) : 1 meaning(s), 2 sentences
+- `wlt-c05-042` : กลืน (to swallow) : 1 meaning(s), 2 sentences
+- `wlt-c05-043` : ก๊อกน้ำ (faucet) : 1 meaning(s), 2 sentences
+- `wlt-c05-045` : ก๊อปปี้, สำเนา (photocopy) : 1 meaning(s), 2 sentences
+- `wlt-c05-046` : ก่อสร้าง (to build, to construct) : 1 meaning(s), 2 sentences
+- `wlt-c05-048` : กางเกงขาสั้น (shorts) : 1 meaning(s), 2 sentences
+- `wlt-c05-049` : กางเกงใน (underwear (lower body)) : 1 meaning(s), 2 sentences
 - `wlt-c05-050` : การบ้าน (homework) : 1 meaning(s), 2 sentences
 - `wlt-c05-055` : กินข้าว, ทานข้าว (to have a meal) : 1 meaning(s), 2 sentences
 - `wlt-c05-058` : เก้าสิบ (ninety (90)) : 1 meaning(s), 2 sentences
