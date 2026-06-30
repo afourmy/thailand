@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3201 words**
+**Total: 3211 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2389,6 +2389,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-071` : พึมพำ (to mumble) : 1 meaning(s), 2 sentences
 - `yt-c21-074` : เหลือบ (to glance, to peek quickly (brief or sideway look to be discrete)) : 1 meaning(s), 2 sentences
 - `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
+- `yt-c22-005` : คาดคะเน (to estimate, to predict, to infer) : 1 meaning(s), 2 sentences
+- `yt-c22-011` : ยอ (to flatter, to suck up to) : 1 meaning(s), 2 sentences
+- `yt-c22-016` : คลาดเคลื่อน (inaccurate, off, incorrect, to be slightly off) : 1 meaning(s), 2 sentences
+- `yt-c22-022` : ท้าวความ (to give background information, to recap previous events, to retell the context) : 1 meaning(s), 2 sentences
+- `yt-c22-024` : ประปราย (sporadic) : 1 meaning(s), 2 sentences
+- `yt-c22-025` : เตียงผ้าใบ (beach chair made of fabric stretched over a frame (like a hammock)) : 1 meaning(s), 2 sentences
+- `yt-c22-026` : หนาตา (crowded, bustling) : 1 meaning(s), 2 sentences
+- `yt-c22-037` : ระงับ (to suppress, to suspend, to put a stop to) : 1 meaning(s), 2 sentences
+- `yt-c22-038` : โล่งแจ้ง (open, unobstructed, clear) : 1 meaning(s), 2 sentences
+- `yt-c22-039` : แถลง (to announce, to declare, to make a statement) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
