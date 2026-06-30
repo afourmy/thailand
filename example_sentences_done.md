@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3501 words**
+**Total: 3511 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2958,9 +2958,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-074` : เหลือ (to be left over, remaining) : 1 meaning(s), 2 sentences
 - `wlt-c12-075` : แห้ง (dry) : 1 meaning(s), 2 sentences
 - `wlt-c12-077` : อธิบาย (to explain) : 1 meaning(s), 2 sentences
+- `wlt-c12-079` : ออฟฟิศ (office) : 1 meaning(s), 2 sentences
 - `wlt-c12-080` : อาจ, อาจจะ (may, might, maybe) : 1 meaning(s), 2 sentences
+- `wlt-c12-083` : อาศัยอยู่, อาศัย (to live, to reside; to depend on, to rely on) : 2 meaning(s), 4 sentences
 - `wlt-c12-084` : อาหารเย็น (dinner) : 1 meaning(s), 2 sentences
+- `wlt-c12-086` : อุ่น (warm, to warm up, to heat up) : 1 meaning(s), 2 sentences
+- `wlt-c12-089` : กรม (department, bureau, government agency) : 1 meaning(s), 2 sentences
+- `wlt-c12-090` : กระจก (window pane, mirror) : 1 meaning(s), 2 sentences
+- `wlt-c12-091` : กระดาน (board, plank) : 1 meaning(s), 2 sentences
 - `wlt-c12-093` : กลางวัน (during the day) : 1 meaning(s), 2 sentences
+- `wlt-c12-094` : กัด (to bite) : 1 meaning(s), 2 sentences
+- `wlt-c12-096` : เกาหลี (Korea, Korean) : 1 meaning(s), 2 sentences
+- `wlt-c12-097` : เกาหลีใต้ (South Korea) : 1 meaning(s), 2 sentences
+- `wlt-c12-098` : เกิดขึ้น (to occur) : 1 meaning(s), 2 sentences
 - `wlt-c13-000` : โกหก (to lie) : 1 meaning(s), 2 sentences
 - `wlt-c13-001` : ของเขา (hers, his) : 1 meaning(s), 2 sentences
 - `wlt-c13-002` : ขอโทษ (excuse me, I'm sorry) : 1 meaning(s), 2 sentences
