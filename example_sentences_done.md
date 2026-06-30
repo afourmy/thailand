@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3321 words**
+**Total: 3331 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2613,12 +2613,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-011` : คำนึง, คำนึงถึง (to think deeply, to take into consideration) : 1 meaning(s), 2 sentences
 - `wlt-c06-014` : เคยชิน (to get used to) : 1 meaning(s), 2 sentences
 - `wlt-c06-017` : เครื่องมือ (tool) : 1 meaning(s), 2 sentences
+- `wlt-c06-019` : โครง (frame, skeleton) : 1 meaning(s), 2 sentences
+- `wlt-c06-023` : งาม (beautiful, good-looking, pretty) : 1 meaning(s), 2 sentences
+- `wlt-c06-026` : จด (to write down, to record, to take note) : 1 meaning(s), 2 sentences
+- `wlt-c06-031` : จัดหา (to procure, to provide, to acquire) : 1 meaning(s), 2 sentences
 - `wlt-c06-037` : จูบ (kiss, to kiss) : 1 meaning(s), 2 sentences
+- `wlt-c06-040` : แจก, จำหน่าย (to distribute) : 1 meaning(s), 2 sentences
 - `wlt-c06-043` : ช่วง (period (of time)) : 1 meaning(s), 2 sentences
+- `wlt-c06-045` : ชาวประมง (fisherman (people who fish for a living)) : 1 meaning(s), 2 sentences
+- `wlt-c06-046` : ชี้แจง (to clarify, to explain in detail) : 1 meaning(s), 2 sentences
 - `wlt-c06-047` : ชีวิต (life) : 1 meaning(s), 2 sentences
+- `wlt-c06-048` : ชุดชั้นใน (underwear, lingerie) : 1 meaning(s), 2 sentences
 - `wlt-c06-049` : เช่นกัน (same here) : 1 meaning(s), 2 sentences
 - `wlt-c06-051` : โชคดี (good luck) : 1 meaning(s), 2 sentences
+- `wlt-c06-052` : ซอฟต์แวร์ (software) : 1 meaning(s), 2 sentences
 - `wlt-c06-055` : ซุปเปอร์มาร์เก็ต (supermarket) : 1 meaning(s), 2 sentences
+- `wlt-c06-056` : เซลเซียส (celsius) : 1 meaning(s), 2 sentences
 - `wlt-c06-060` : ดังนั้น, เพราะฉะนั้น (therefore) : 1 meaning(s), 2 sentences
 - `wlt-c06-061` : ดีขึ้น (improved, better than before) : 1 meaning(s), 2 sentences
 - `wlt-c06-062` : ดีที่สุด (best) : 1 meaning(s), 2 sentences
