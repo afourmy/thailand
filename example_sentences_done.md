@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3281 words**
+**Total: 3291 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2547,16 +2547,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-073` : สีเขียวอ่อน (light green) : 1 meaning(s), 2 sentences
 - `wlt-c04-074` : สีคล้ำ (dark colored) : 1 meaning(s), 2 sentences
 - `wlt-c04-075` : สีแดงเข้ม (dark red) : 1 meaning(s), 2 sentences
+- `wlt-c04-076` : สีผม (hair color) : 1 meaning(s), 2 sentences
 - `wlt-c04-077` : สีฟัน, แปรงฟัน (to brush teeth) : 1 meaning(s), 2 sentences
+- `wlt-c04-078` : สีไม่สด, สีหม่น (dull color) : 1 meaning(s), 2 sentences
+- `wlt-c04-079` : สีเหลืองอ่อน (light yellow, pale yellow) : 1 meaning(s), 2 sentences
+- `wlt-c04-080` : สีอ่อน (light colour) : 1 meaning(s), 2 sentences
+- `wlt-c04-086` : เสื้อแขนยาว (long-sleeved shirt) : 1 meaning(s), 2 sentences
+- `wlt-c04-087` : เสื้อชั้นใน (underwear (upper body)) : 1 meaning(s), 2 sentences
+- `wlt-c04-088` : เสื้อหนาว (coat, sweater, warm jacket) : 1 meaning(s), 2 sentences
 - `wlt-c04-091` : หนึ่งร้อย (one hundred (100)) : 1 meaning(s), 2 sentences
 - `wlt-c04-092` : หม้อ (pot (cooking)) : 1 meaning(s), 2 sentences
 - `wlt-c04-093` : หมอ (doctor) : 1 meaning(s), 2 sentences
+- `wlt-c04-094` : หมอนวด (masseur, masseuse) : 1 meaning(s), 2 sentences
+- `wlt-c04-097` : ห้องเก็บของ (storage space, storage room) : 1 meaning(s), 2 sentences
 - `wlt-c05-010` : อยากได้ (to want to get (something)) : 1 meaning(s), 2 sentences
 - `wlt-c05-012` : อย่าเพิ่ง ("don't do that yet!", "hold on!") : 1 meaning(s), 2 sentences
 - `wlt-c05-013` : อยู่ที่ไหน (where is it?) : 1 meaning(s), 2 sentences
 - `wlt-c05-015` : ออกจาก (to leave from) : 1 meaning(s), 2 sentences
 - `wlt-c05-016` : อะไรก็ได้ (anything) : 1 meaning(s), 2 sentences
 - `wlt-c05-020` : อาทิตย์นี้ (this week) : 1 meaning(s), 2 sentences
+- `wlt-c05-031` : เอาออก (to take out) : 1 meaning(s), 2 sentences
 - `wlt-c05-032` : โอเค (okay (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c05-036` : กระดาษชำระ (toilet paper) : 1 meaning(s), 2 sentences
 - `wlt-c05-050` : การบ้าน (homework) : 1 meaning(s), 2 sentences
