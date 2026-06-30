@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3381 words**
+**Total: 3391 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2705,16 +2705,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-027` : แฟ้มข้อมูล (file (physical or on a computer)) : 1 meaning(s), 2 sentences
 - `wlt-c08-030` : ภาษาไทย (Thai language) : 1 meaning(s), 2 sentences
 - `wlt-c08-032` : มองดู (to look at closely, to observe) : 1 meaning(s), 2 sentences
+- `wlt-c08-033` : มองเห็น (to be able to see) : 1 meaning(s), 2 sentences
 - `wlt-c08-036` : มีความสุข, สุขใจ (happy) : 1 meaning(s), 2 sentences
+- `wlt-c08-037` : มีค่า (valuable) : 1 meaning(s), 2 sentences
 - `wlt-c08-039` : มือถือ, โทรศัพท์มือถือ (mobile phone) : 1 meaning(s), 2 sentences
+- `wlt-c08-041` : เมล็ด (seed) : 1 meaning(s), 2 sentences
 - `wlt-c08-044` : เมืองไทย (Thailand (informal)) : 1 meaning(s), 2 sentences
+- `wlt-c08-046` : เมืองหลวง (capital) : 1 meaning(s), 2 sentences
+- `wlt-c08-049` : แม่บ้าน (housekeeper (female)) : 1 meaning(s), 2 sentences
+- `wlt-c08-052` : ไม้กวาด (broom) : 1 meaning(s), 2 sentences
+- `wlt-c08-053` : ไม้ขีด (matches) : 1 meaning(s), 2 sentences
 - `wlt-c08-055` : ไม่ต้อง (there is no need to) : 1 meaning(s), 2 sentences
 - `wlt-c08-058` : ไม่มี (to not have, there isn't) : 1 meaning(s), 2 sentences
 - `wlt-c08-060` : ไม่เห็นด้วย (to disagree) : 1 meaning(s), 2 sentences
+- `wlt-c08-061` : ย่อง (to tiptoe) : 1 meaning(s), 2 sentences
+- `wlt-c08-062` : ยับ (wrinkled, crumpled) : 1 meaning(s), 2 sentences
 - `wlt-c08-064` : ยิ้ม (to smile) : 1 meaning(s), 2 sentences
 - `wlt-c08-065` : ยี่สิบเอ็ด (twenty one (21)) : 1 meaning(s), 2 sentences
 - `wlt-c08-066` : เย็นนี้ (this evening, this late afternoon) : 1 meaning(s), 2 sentences
 - `wlt-c08-067` : แย่ (bad, terrible) : 1 meaning(s), 2 sentences
+- `wlt-c08-071` : รหัสไปรษณีย์ (postal code) : 1 meaning(s), 2 sentences
 - `wlt-c08-078` : ร้านขายยา (pharmacy) : 1 meaning(s), 2 sentences
 - `wlt-c08-082` : เร็ว, เร็วๆ (quickly, fast) : 1 meaning(s), 2 sentences
 - `wlt-c08-098` : ลาก่อน (goodbye, farewell) : 1 meaning(s), 2 sentences
