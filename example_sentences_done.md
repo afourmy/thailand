@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3521 words**
+**Total: 3531 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3012,9 +3012,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-051` : เตรียม (to prepare) : 1 meaning(s), 2 sentences
 - `wlt-c13-054` : ถือ (to hold) : 1 meaning(s), 2 sentences
 - `wlt-c13-055` : ถุง (bag) : 1 meaning(s), 2 sentences
+- `wlt-c13-057` : ทวีป (continent) : 1 meaning(s), 2 sentences
+- `wlt-c13-058` : ยุโรป, ทวีปยุโรป (Europe) : 1 meaning(s), 2 sentences
+- `wlt-c13-060` : ทวีปอเมริกาใต้ (South America) : 1 meaning(s), 2 sentences
+- `wlt-c13-061` : ทวีปอเมริกาเหนือ (North America) : 1 meaning(s), 2 sentences
+- `wlt-c13-063` : ทวีปเอเชีย (Asia) : 1 meaning(s), 2 sentences
 - `wlt-c13-066` : ทั้ง (all of) : 1 meaning(s), 2 sentences
 - `wlt-c13-067` : ทั้งสอง (both) : 1 meaning(s), 2 sentences
 - `wlt-c13-068` : ทั้งหมด (all of it, the whole) : 1 meaning(s), 2 sentences
+- `wlt-c13-069` : ที่เขี่ยบุหรี่ (ash tray) : 1 meaning(s), 2 sentences
+- `wlt-c13-070` : ที่นอน (mattress) : 1 meaning(s), 2 sentences
 - `wlt-c13-071` : ที่สุด (the most, extremely) : 1 meaning(s), 2 sentences
 - `wlt-c13-072` : ที่อยู่ (address, place of residence) : 1 meaning(s), 2 sentences
 - `wlt-c13-075` : ไทย (Thai) : 1 meaning(s), 2 sentences
@@ -3024,9 +3031,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-087` : น้ำแข็ง (ice) : 1 meaning(s), 2 sentences
 - `wlt-c13-089` : น้ำมัน (oil, gasoline) : 1 meaning(s), 2 sentences
 - `wlt-c13-092` : แน่นอน (certain, sure) : 1 meaning(s), 2 sentences
+- `wlt-c13-093` : แนะนำ (to introduce; to advise, to suggest) : 2 meaning(s), 4 sentences
 - `wlt-c13-097` : เบอร์ (number (for room, telephone, cloth size, etc)) : 1 meaning(s), 2 sentences
 - `wlt-c13-098` : เบียร์ (beer) : 1 meaning(s), 2 sentences
+- `wlt-c14-000` : โบราณ (ancient, old, archaic) : 1 meaning(s), 2 sentences
 - `wlt-c14-001` : ประเทศไทย (Thailand) : 1 meaning(s), 2 sentences
+- `wlt-c14-002` : ประเทศอเมริกา (America) : 1 meaning(s), 2 sentences
 - `wlt-c14-011` : ผัก (vegetables) : 1 meaning(s), 2 sentences
 - `wlt-c14-012` : ผ้าเช็ดตัว (towel) : 1 meaning(s), 2 sentences
 - `wlt-c14-013` : ผิด (wrong, incorrect, mistaken) : 1 meaning(s), 2 sentences
