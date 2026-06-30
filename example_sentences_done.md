@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3611 words**
+**Total: 3621 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3560,7 +3560,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-001` : เรา (we; us) : 1 meaning(s), 2 sentences
 - `t4k-c01-002` : เขา (he) : 1 meaning(s), 2 sentences
 - `t4k-c01-008` : ที่มา (source, origin) : 1 meaning(s), 2 sentences
+- `t4k-c01-012` : เสนอ (to offer, to propose) : 1 meaning(s), 2 sentences
+- `t4k-c01-013` : ชัดเจน (clear, easy to comprehend) : 1 meaning(s), 2 sentences
+- `t4k-c01-014` : ดูแล (to care for, to look after) : 1 meaning(s), 2 sentences
 - `t4k-c01-017` : พูดถึง (to talk about, to refer to) : 1 meaning(s), 2 sentences
+- `t4k-c01-019` : ราย (list of, individual, item, case, instance) : 1 meaning(s), 2 sentences
+- `t4k-c01-023` : น่าเชื่อ (believable, credible) : 1 meaning(s), 2 sentences
+- `t4k-c01-024` : ผู้คน (people) : 1 meaning(s), 2 sentences
+- `t4k-c01-027` : คล้าย (to resemble, to look like) : 1 meaning(s), 2 sentences
+- `t4k-c01-028` : ช่วยเหลือ (to help, to assist) : 1 meaning(s), 2 sentences
+- `t4k-c01-031` : ทางการ (official, formal) : 1 meaning(s), 2 sentences
+- `t4k-c01-035` : รวดเร็ว (fast, quick (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c01-036` : ข้าง (side) : 1 meaning(s), 2 sentences
 - `t4k-c01-042` : ไม่ค่อย (not very, hardly) : 1 meaning(s), 2 sentences
 - `t4k-c01-043` : ทันที (immediately) : 1 meaning(s), 2 sentences
