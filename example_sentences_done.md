@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3241 words**
+**Total: 3251 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2441,6 +2441,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c01-076` : เจ้าของบ้าน (landlord) : 1 meaning(s), 2 sentences
 - `wlt-c01-077` : เจ้าของร้าน (shop owner) : 1 meaning(s), 2 sentences
 - `wlt-c01-078` : ช่วงนี้ (these days, lately) : 1 meaning(s), 2 sentences
+- `wlt-c01-082` : ชายแก่ (old man) : 1 meaning(s), 2 sentences
+- `wlt-c01-083` : ชายหญิง (men and women) : 1 meaning(s), 2 sentences
+- `wlt-c01-084` : ชุดนอน (pajamas) : 1 meaning(s), 2 sentences
+- `wlt-c01-091` : ซักน้ำ (to wash in water, to rinse) : 1 meaning(s), 2 sentences
 - `wlt-c01-092` : ซักผ้า (to do the laundry) : 1 meaning(s), 2 sentences
 - `wlt-c01-099` : เด็กชาย, เด็กผู้ชาย (boy) : 1 meaning(s), 2 sentences
 - `wlt-c02-000` : เด็กหญิง, เด็กผู้หญิง (girl) : 1 meaning(s), 2 sentences
@@ -2450,7 +2454,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-013` : ตรงนี้ (over here, right here) : 1 meaning(s), 2 sentences
 - `wlt-c02-016` : ตอนกลางคืน (at night, during the night) : 1 meaning(s), 2 sentences
 - `wlt-c02-017` : ตอนค่ำ (in the evening (around dusk)) : 1 meaning(s), 2 sentences
+- `wlt-c02-022` : ต้อนรับ (to receive, to welcome) : 1 meaning(s), 2 sentences
+- `wlt-c02-024` : ตะคอก (to yell) : 1 meaning(s), 2 sentences
+- `wlt-c02-030` : ตากแดด (to dry in the sun, to expose something to sunlight) : 1 meaning(s), 2 sentences
+- `wlt-c02-033` : ตารางเวลา (schedule) : 1 meaning(s), 2 sentences
 - `wlt-c02-034` : ตื่น, ตื่นนอน (to wake up) : 1 meaning(s), 2 sentences
+- `wlt-c02-036` : ตู้ไปรษณีย์ (letterbox (public, for sending)) : 1 meaning(s), 2 sentences
+- `wlt-c02-038` : ตู้หนังสือ (bookcase) : 1 meaning(s), 2 sentences
 - `wlt-c02-043` : เตียง, เตียงนอน (bed) : 1 meaning(s), 2 sentences
 - `wlt-c02-051` : เที่ยว, ท่องเที่ยว (to go travelling, to travel for pleasure) : 1 meaning(s), 2 sentences
 - `wlt-c02-056` : ทางขวา (มือ) (on the right (hand side)) : 1 meaning(s), 2 sentences
