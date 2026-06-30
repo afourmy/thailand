@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3371 words**
+**Total: 3381 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2693,8 +2693,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-084` : ไปเยี่ยม (to go visit a person) : 1 meaning(s), 2 sentences
 - `wlt-c07-085` : ไปส่ง (to see someone off, to deliver someone or something) : 1 meaning(s), 2 sentences
 - `wlt-c07-089` : ผ้าเช็ดมือ (handtowel, napkin) : 1 meaning(s), 2 sentences
+- `wlt-c07-090` : ผ้าใบ (canvas) : 1 meaning(s), 2 sentences
+- `wlt-c07-095` : ผู้เช่า (tenant) : 1 meaning(s), 2 sentences
+- `wlt-c07-096` : ผู้แต่ง (composer, author) : 1 meaning(s), 2 sentences
+- `wlt-c08-004` : พ่น (to spray) : 1 meaning(s), 2 sentences
+- `wlt-c08-014` : พิง (to lean against) : 1 meaning(s), 2 sentences
+- `wlt-c08-020` : เพชร (diamond) : 1 meaning(s), 2 sentences
 - `wlt-c08-021` : เพศ (gender, sex) : 1 meaning(s), 2 sentences
+- `wlt-c08-025` : ไพ่ ((playing) cards) : 1 meaning(s), 2 sentences
+- `wlt-c08-026` : ฟิล์ม (film, photographic film) : 1 meaning(s), 2 sentences
+- `wlt-c08-027` : แฟ้มข้อมูล (file (physical or on a computer)) : 1 meaning(s), 2 sentences
 - `wlt-c08-030` : ภาษาไทย (Thai language) : 1 meaning(s), 2 sentences
+- `wlt-c08-032` : มองดู (to look at closely, to observe) : 1 meaning(s), 2 sentences
 - `wlt-c08-036` : มีความสุข, สุขใจ (happy) : 1 meaning(s), 2 sentences
 - `wlt-c08-039` : มือถือ, โทรศัพท์มือถือ (mobile phone) : 1 meaning(s), 2 sentences
 - `wlt-c08-044` : เมืองไทย (Thailand (informal)) : 1 meaning(s), 2 sentences
