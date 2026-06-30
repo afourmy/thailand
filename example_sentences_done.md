@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3361 words**
+**Total: 3371 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2682,7 +2682,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-062` : บุรุษไปรษณีย์ (postman) : 1 meaning(s), 2 sentences
 - `wlt-c07-063` : เบาะ, เบาะนั่ง (seat) : 1 meaning(s), 2 sentences
 - `wlt-c07-064` : โบว์ลิ่ง (bowling) : 1 meaning(s), 2 sentences
+- `wlt-c07-067` : ประถม (elementary (level)) : 1 meaning(s), 2 sentences
+- `wlt-c07-068` : ประพฤติ (to behave, to conduct oneself (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c07-070` : ประเมิน (to estimate, to assess, to evaluate) : 1 meaning(s), 2 sentences
+- `wlt-c07-072` : ประสบ (to face, to encounter) : 1 meaning(s), 2 sentences
+- `wlt-c07-074` : ปัจจัย (factor) : 1 meaning(s), 2 sentences
+- `wlt-c07-077` : ปืนพก (pistol) : 1 meaning(s), 2 sentences
 - `wlt-c07-080` : เปียก (wet) : 1 meaning(s), 2 sentences
+- `wlt-c07-082` : โปรแกรม (program (loan word)) : 1 meaning(s), 2 sentences
+- `wlt-c07-084` : ไปเยี่ยม (to go visit a person) : 1 meaning(s), 2 sentences
+- `wlt-c07-085` : ไปส่ง (to see someone off, to deliver someone or something) : 1 meaning(s), 2 sentences
+- `wlt-c07-089` : ผ้าเช็ดมือ (handtowel, napkin) : 1 meaning(s), 2 sentences
 - `wlt-c08-021` : เพศ (gender, sex) : 1 meaning(s), 2 sentences
 - `wlt-c08-030` : ภาษาไทย (Thai language) : 1 meaning(s), 2 sentences
 - `wlt-c08-036` : มีความสุข, สุขใจ (happy) : 1 meaning(s), 2 sentences
