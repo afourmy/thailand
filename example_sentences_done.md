@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3251 words**
+**Total: 3261 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2467,6 +2467,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-057` : ทางเข้า (way in, entrance) : 1 meaning(s), 2 sentences
 - `wlt-c02-058` : ทางซ้าย (มือ) (on the left (hand side)) : 1 meaning(s), 2 sentences
 - `wlt-c02-061` : ทางออก (way out, exit) : 1 meaning(s), 2 sentences
+- `wlt-c02-064` : ทำหาย (to lose (something)) : 1 meaning(s), 2 sentences
+- `wlt-c02-066` : ที่เก็บของ (storage place) : 1 meaning(s), 2 sentences
+- `wlt-c02-070` : ที่ว่าง (unoccupied space, vacant place) : 1 meaning(s), 2 sentences
 - `wlt-c02-071` : ที่สอง (second (2nd)) : 1 meaning(s), 2 sentences
 - `wlt-c02-072` : ที่เหลือ (the rest) : 1 meaning(s), 2 sentences
 - `wlt-c02-075` : ทุกคืน (every night) : 1 meaning(s), 2 sentences
@@ -2484,15 +2487,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-002` : นิดเดียว (only a little) : 1 meaning(s), 2 sentences
 - `wlt-c03-005` : เนื้อหมู (pork) : 1 meaning(s), 2 sentences
 - `wlt-c03-013` : บ่อยๆ (often, frequently) : 1 meaning(s), 2 sentences
+- `wlt-c03-014` : บัตรเชิญ (invitation card) : 1 meaning(s), 2 sentences
+- `wlt-c03-015` : บัตรผ่าน (pass, entry card) : 1 meaning(s), 2 sentences
 - `wlt-c03-017` : บางอย่าง (something) : 1 meaning(s), 2 sentences
+- `wlt-c03-018` : บ้านเช่า (house to rent) : 1 meaning(s), 2 sentences
 - `wlt-c03-023` : แบบไหน (what type?) : 1 meaning(s), 2 sentences
+- `wlt-c03-032` : ประตูหน้า (front door) : 1 meaning(s), 2 sentences
+- `wlt-c03-035` : ปลุก (to wake someone up) : 1 meaning(s), 2 sentences
 - `wlt-c03-036` : ปีที่แล้ว (last year) : 1 meaning(s), 2 sentences
 - `wlt-c03-037` : ปีนี้ (this year) : 1 meaning(s), 2 sentences
 - `wlt-c03-038` : ปีหน้า (next year) : 1 meaning(s), 2 sentences
 - `wlt-c03-039` : ปู่ย่าตายาย (grandparents) : 1 meaning(s), 2 sentences
 - `wlt-c03-042` : เป็นห่วง (to be worried, to be concerned about) : 1 meaning(s), 2 sentences
 - `wlt-c03-043` : แปดสิบ (eighty (80)) : 1 meaning(s), 2 sentences
+- `wlt-c03-049` : ไปธุระ (to go run an errand, to go out on business) : 1 meaning(s), 2 sentences
 - `wlt-c03-053` : ผัดไทย (pad thai) : 1 meaning(s), 2 sentences
+- `wlt-c03-055` : ผ้าม่าน (curtains) : 1 meaning(s), 2 sentences
 - `wlt-c03-059` : พรุ่งนี้เช้า (tomorrow morning) : 1 meaning(s), 2 sentences
 - `wlt-c03-078` : มากกว่า (more (than something else)) : 1 meaning(s), 2 sentences
 - `wlt-c03-085` : มีนัด (to have an appointment) : 1 meaning(s), 2 sentences
