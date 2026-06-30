@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3231 words**
+**Total: 3241 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2421,15 +2421,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c01-014` : เกษียณ (to retire) : 1 meaning(s), 2 sentences
 - `wlt-c01-019` : แก้ตัว (to excuse oneself, to make excuses) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
+- `wlt-c01-023` : ของจริง (real thing) : 1 meaning(s), 2 sentences
+- `wlt-c01-024` : ของใช้ (appliance, utensils, wares) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
+- `wlt-c01-035` : เข้าใจผิด (to misunderstand) : 1 meaning(s), 2 sentences
 - `wlt-c01-037` : ไปนอน, เข้านอน (to go to bed) : 1 meaning(s), 2 sentences
 - `wlt-c01-044` : คนขาย (vendor) : 1 meaning(s), 2 sentences
+- `wlt-c01-045` : คนขายของ (salesman) : 1 meaning(s), 2 sentences
+- `wlt-c01-046` : คนงาน (worker, laborer (manual or industrial work)) : 1 meaning(s), 2 sentences
 - `wlt-c01-050` : คราวหน้า (next time) : 1 meaning(s), 2 sentences
 - `wlt-c01-052` : ครึ่งหนึ่ง (one half) : 1 meaning(s), 2 sentences
+- `wlt-c01-053` : ความสำคัญ (importance) : 1 meaning(s), 2 sentences
 - `wlt-c01-058` : คุณล่ะ (and you, what about you) : 1 meaning(s), 2 sentences
 - `wlt-c01-060` : คุยกัน (to chat together) : 1 meaning(s), 2 sentences
+- `wlt-c01-061` : เครื่องซักผ้า (washing machine) : 1 meaning(s), 2 sentences
+- `wlt-c01-062` : เครื่องดูดฝุ่น (vacuum cleaner) : 1 meaning(s), 2 sentences
 - `wlt-c01-074` : จำได้ (to remember) : 1 meaning(s), 2 sentences
 - `wlt-c01-075` : เจ็ดสิบ (seventy (70)) : 1 meaning(s), 2 sentences
+- `wlt-c01-076` : เจ้าของบ้าน (landlord) : 1 meaning(s), 2 sentences
+- `wlt-c01-077` : เจ้าของร้าน (shop owner) : 1 meaning(s), 2 sentences
 - `wlt-c01-078` : ช่วงนี้ (these days, lately) : 1 meaning(s), 2 sentences
 - `wlt-c01-092` : ซักผ้า (to do the laundry) : 1 meaning(s), 2 sentences
 - `wlt-c01-099` : เด็กชาย, เด็กผู้ชาย (boy) : 1 meaning(s), 2 sentences
