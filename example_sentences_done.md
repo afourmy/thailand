@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3431 words**
+**Total: 3441 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2790,22 +2790,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-092` : อาทิตย์ที่แล้ว, อาทิตย์ก่อน (last week) : 1 meaning(s), 2 sentences
 - `wlt-c09-093` : อาทิตย์หน้า (next week) : 1 meaning(s), 2 sentences
 - `wlt-c09-095` : อาหารไทย (Thai food) : 1 meaning(s), 2 sentences
+- `wlt-c09-097` : อิสรภาพ (freedom) : 1 meaning(s), 2 sentences
+- `wlt-c09-099` : อุดหนุน (to support financially, to patronize a business) : 1 meaning(s), 2 sentences
 - `wlt-c10-002` : เอามา, นำมา (to bring) : 1 meaning(s), 2 sentences
 - `wlt-c10-003` : แอปเปิล (apple (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c10-004` : แอร์ (air conditioning (informal), air hostess) : 2 meaning(s), 4 sentences
 - `wlt-c10-007` : ก็ได้ (all right, OK, fine) : 1 meaning(s), 2 sentences
+- `wlt-c10-009` : กรรไกร (scissors) : 1 meaning(s), 2 sentences
+- `wlt-c10-010` : กระดานดำ (blackboard) : 1 meaning(s), 2 sentences
 - `wlt-c10-011` : กรุงเทพฯ (Bangkok) : 1 meaning(s), 2 sentences
 - `wlt-c10-013` : กลิ่น (smell, odor) : 1 meaning(s), 2 sentences
 - `wlt-c10-014` : ก๋วยเตี๋ยว (noodles) : 1 meaning(s), 2 sentences
+- `wlt-c10-015` : กอล์ฟ (golf) : 1 meaning(s), 2 sentences
+- `wlt-c10-018` : โกนหนวด (to get a shave) : 1 meaning(s), 2 sentences
+- `wlt-c10-023` : ข้อ (item, provision, clause, point, section) : 1 meaning(s), 2 sentences
 - `wlt-c10-024` : ของใคร (whose) : 1 meaning(s), 2 sentences
 - `wlt-c10-030` : ข้าวเหนียว (sticky rice) : 1 meaning(s), 2 sentences
 - `wlt-c10-031` : ขี่ (to ride (when sitting astride on top of animal or vehicle)) : 1 meaning(s), 2 sentences
 - `wlt-c10-032` : ไข้หวัด (flu, cold) : 1 meaning(s), 2 sentences
+- `wlt-c10-033` : คนใช้ (servant) : 1 meaning(s), 2 sentences
 - `wlt-c10-034` : คนเดียว (alone, one person) : 1 meaning(s), 2 sentences
 - `wlt-c10-035` : ค้น, ค้นหา (to search) : 1 meaning(s), 2 sentences
+- `wlt-c10-037` : ความเร็ว (speed) : 1 meaning(s), 2 sentences
 - `wlt-c10-038` : ความหมาย (meaning) : 1 meaning(s), 2 sentences
 - `wlt-c10-039` : คอม, คอมพิวเตอร์ (computer (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c10-041` : คำตอบ (answer) : 1 meaning(s), 2 sentences
+- `wlt-c10-042` : คุณสมบัติ (qualifications) : 1 meaning(s), 2 sentences
 - `wlt-c10-045` : ง่วง, ง่วงนอน (sleepy) : 1 meaning(s), 2 sentences
 - `wlt-c10-046` : งั้น (in that case, therefore (informal short form)) : 1 meaning(s), 2 sentences
 - `wlt-c10-051` : ใจเย็น (calm, cool-headed) : 1 meaning(s), 2 sentences
