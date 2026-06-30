@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3331 words**
+**Total: 3341 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2632,15 +2632,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-060` : ดังนั้น, เพราะฉะนั้น (therefore) : 1 meaning(s), 2 sentences
 - `wlt-c06-061` : ดีขึ้น (improved, better than before) : 1 meaning(s), 2 sentences
 - `wlt-c06-062` : ดีที่สุด (best) : 1 meaning(s), 2 sentences
+- `wlt-c06-064` : บำรุง (to nourish, to maintain, to improve condition (e.g health, skin, machine)) : 1 meaning(s), 2 sentences
 - `wlt-c06-066` : ตกใจ (startled) : 1 meaning(s), 2 sentences
+- `wlt-c06-067` : ตกปลา (to fish) : 1 meaning(s), 2 sentences
+- `wlt-c06-069` : ตบ (to slap, to strike with the open hand) : 1 meaning(s), 2 sentences
 - `wlt-c06-070` : ตรวจสอบ (to check, to verify) : 1 meaning(s), 2 sentences
 - `wlt-c06-071` : ตลอดไป (forever) : 1 meaning(s), 2 sentences
 - `wlt-c06-072` : ตลอดเวลา (all the time) : 1 meaning(s), 2 sentences
 - `wlt-c06-073` : ตอนแรก (at first) : 1 meaning(s), 2 sentences
+- `wlt-c06-074` : ตะปู (nail, spike) : 1 meaning(s), 2 sentences
+- `wlt-c06-075` : ตะวันตกเฉียงใต้ (southwest) : 1 meaning(s), 2 sentences
+- `wlt-c06-076` : ตะวันตกเฉียงเหนือ (northwest) : 1 meaning(s), 2 sentences
+- `wlt-c06-077` : ตะวันออกเฉียงเหนือ (northeast) : 1 meaning(s), 2 sentences
 - `wlt-c06-078` : ตัดผม (to cut hair) : 1 meaning(s), 2 sentences
 - `wlt-c06-079` : ตัดสินใจ (to decide) : 1 meaning(s), 2 sentences
 - `wlt-c06-086` : ตื่นเต้น (excited, thrilled) : 1 meaning(s), 2 sentences
+- `wlt-c06-087` : ตู้เสื้อผ้า (wardrobe) : 1 meaning(s), 2 sentences
 - `wlt-c06-089` : เต้น, เต้นรำ (to dance) : 1 meaning(s), 2 sentences
+- `wlt-c06-092` : แตะ (to touch (lightly)) : 1 meaning(s), 2 sentences
+- `wlt-c06-094` : โต๊ะทำงาน (desk) : 1 meaning(s), 2 sentences
 - `wlt-c07-010` : ทั้งคืน (all night) : 1 meaning(s), 2 sentences
 - `wlt-c07-011` : ตลอดวัน, ทั้งวัน (all day) : 1 meaning(s), 2 sentences
 - `wlt-c07-015` : ทางนี้ (this way) : 1 meaning(s), 2 sentences
