@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3581 words**
+**Total: 3591 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3217,6 +3217,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-069` : โอกาส (opportunity, chance) : 1 meaning(s), 2 sentences
 - `wlt-c16-070` : ก็ (so, then) : 1 meaning(s), 2 sentences
 - `wlt-c16-071` : กระเป๋า (bag) : 1 meaning(s), 2 sentences
+- `wlt-c16-072` : กว้าง (wide, broad, vast) : 1 meaning(s), 2 sentences
 - `wlt-c16-075` : กี่ (how many) : 1 meaning(s), 2 sentences
 - `wlt-c16-077` : แขน (arm) : 1 meaning(s), 2 sentences
 - `wlt-c16-078` : ไข่ (egg) : 1 meaning(s), 2 sentences
@@ -3224,13 +3225,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-081` : เครื่องบิน (airplane) : 1 meaning(s), 2 sentences
 - `wlt-c16-082` : จำ (to remember, to recognize) : 1 meaning(s), 2 sentences
 - `wlt-c16-083` : เจ็ด (seven (7)) : 1 meaning(s), 2 sentences
+- `wlt-c16-084` : ชวน (to invite, to suggest someone to do something) : 1 meaning(s), 2 sentences
 - `wlt-c16-085` : ช่วย (to help, please) : 1 meaning(s), 2 sentences
 - `wlt-c16-086` : ชั้น (class, rank, grade, floor (in a building)) : 1 meaning(s), 2 sentences
 - `wlt-c16-087` : ชั่วโมง (hour) : 1 meaning(s), 2 sentences
+- `wlt-c16-089` : ชาติ (nation, country; life, lifetime) : 2 meaning(s), 4 sentences
 - `wlt-c16-091` : ดึก (late at night) : 1 meaning(s), 2 sentences
 - `wlt-c16-092` : ตก (to fall) : 1 meaning(s), 2 sentences
 - `wlt-c16-093` : ต้องการ (to want, to need) : 1 meaning(s), 2 sentences
 - `wlt-c16-095` : ตำรวจ (police) : 1 meaning(s), 2 sentences
+- `wlt-c16-096` : ตึก (building (e.g large, concrete)) : 1 meaning(s), 2 sentences
 - `wlt-c16-097` : โต๊ะ (table, desk) : 1 meaning(s), 2 sentences
 - `wlt-c16-098` : ถ้วย (cup, small bowl) : 1 meaning(s), 2 sentences
 - `wlt-c16-099` : ถ้า (if) : 1 meaning(s), 2 sentences
@@ -3272,6 +3276,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-042` : ยัง (still, not yet) : 1 meaning(s), 2 sentences
 - `wlt-c17-043` : รถไฟ (train) : 1 meaning(s), 2 sentences
 - `wlt-c17-045` : รัก (to love) : 1 meaning(s), 2 sentences
+- `wlt-c17-046` : รักษา (to treat, to cure, to take care of) : 1 meaning(s), 2 sentences
 - `wlt-c17-047` : ร้านอาหาร (restaurant) : 1 meaning(s), 2 sentences
 - `wlt-c17-048` : เรียก (to call) : 1 meaning(s), 2 sentences
 - `wlt-c17-049` : แรก, ที่หนึ่ง (first) : 1 meaning(s), 2 sentences
@@ -3294,6 +3299,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-070` : หนังสือ (book) : 1 meaning(s), 2 sentences
 - `wlt-c17-071` : หนึ่ง ๑ (one (1)) : 1 meaning(s), 2 sentences
 - `wlt-c17-072` : หมา (dog) : 1 meaning(s), 2 sentences
+- `wlt-c17-073` : หลวม (loose) : 1 meaning(s), 2 sentences
 - `wlt-c17-074` : หลาย (many, several, a lot) : 1 meaning(s), 2 sentences
 - `wlt-c17-075` : ห้อง (room) : 1 meaning(s), 2 sentences
 - `wlt-c17-076` : หอม (to kiss (Thai style, on the cheek); to smell good) : 2 meaning(s), 4 sentences
@@ -3313,11 +3319,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-096` : กี่วัน (how many days?) : 1 meaning(s), 2 sentences
 - `wlt-c17-097` : ใกล้ๆ (nearby, close) : 1 meaning(s), 2 sentences
 - `wlt-c18-009` : ชาวต่างชาติ, คนต่างประเทศ (foreigner) : 1 meaning(s), 2 sentences
+- `wlt-c18-013` : คนยุโรป (European) : 1 meaning(s), 2 sentences
 - `wlt-c18-016` : ครั้งนี้ (this time) : 1 meaning(s), 2 sentences
 - `wlt-c18-022` : แค่ (just, only) : 1 meaning(s), 2 sentences
+- `wlt-c18-023` : จมน้ำ (to drown, to sink) : 1 meaning(s), 2 sentences
+- `wlt-c18-025` : จั๊กจี้ (tickly, to tickle) : 1 meaning(s), 2 sentences
 - `wlt-c18-027` : เจ็บคอ (sore throat) : 1 meaning(s), 2 sentences
 - `wlt-c18-030` : ฉีดยา (to get an injection) : 1 meaning(s), 2 sentences
 - `wlt-c18-031` : ช่วยด้วย (help!) : 1 meaning(s), 2 sentences
+- `wlt-c18-033` : ชั้นสอง (second floor) : 1 meaning(s), 2 sentences
 - `wlt-c18-040` : ใช้เงิน (to spend money) : 1 meaning(s), 2 sentences
 - `wlt-c18-045` : ดูเหมือน (looks like) : 1 meaning(s), 2 sentences
 - `wlt-c18-048` : เดินเล่น (to take a walk) : 1 meaning(s), 2 sentences
