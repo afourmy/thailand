@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3551 words**
+**Total: 3561 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3085,23 +3085,33 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-086` : สีม่วง (purple) : 1 meaning(s), 2 sentences
 - `wlt-c14-087` : เสียง (sound) : 1 meaning(s), 2 sentences
 - `wlt-c14-088` : เสื้อผ้า (clothes) : 1 meaning(s), 2 sentences
+- `wlt-c14-089` : แสดง (to show, to display) : 1 meaning(s), 2 sentences
+- `wlt-c14-091` : หลา (yard (~0.91m)) : 1 meaning(s), 2 sentences
 - `wlt-c14-092` : หวัด (common cold) : 1 meaning(s), 2 sentences
 - `wlt-c14-093` : ห้าง (mall) : 1 meaning(s), 2 sentences
+- `wlt-c14-094` : ห้าม (to forbid) : 1 meaning(s), 2 sentences
 - `wlt-c14-095` : หิว, หิวข้าว (hungry) : 1 meaning(s), 2 sentences
 - `wlt-c14-096` : หิวน้ำ (thirsty) : 1 meaning(s), 2 sentences
 - `wlt-c14-098` : เหนื่อย (tired, fatigued) : 1 meaning(s), 2 sentences
 - `wlt-c14-099` : เหมือน (like, as, as if, same as) : 1 meaning(s), 2 sentences
 - `wlt-c15-000` : แห่ง (classifier for places) : 1 meaning(s), 2 sentences
+- `wlt-c15-002` : อังกฤษ (English, England) : 1 meaning(s), 2 sentences
 - `wlt-c15-003` : อัน (classifier for things and inanimate objects) : 1 meaning(s), 2 sentences
 - `wlt-c15-006` : อาหารกลางวัน (lunch, noontime meal) : 1 meaning(s), 2 sentences
 - `wlt-c15-007` : อาหารเช้า (breakfast) : 1 meaning(s), 2 sentences
+- `wlt-c15-009` : อินเดีย (India, Indian) : 1 meaning(s), 2 sentences
 - `wlt-c15-015` : อื่น (other, different) : 1 meaning(s), 2 sentences
+- `wlt-c15-018` : ฮ่องกง (Hong Kong) : 1 meaning(s), 2 sentences
+- `wlt-c15-020` : กระป๋อง (can, tin can) : 1 meaning(s), 2 sentences
+- `wlt-c15-021` : กล่อง (box, case) : 1 meaning(s), 2 sentences
 - `wlt-c15-022` : กลัว (to fear, scared, afraid of) : 1 meaning(s), 2 sentences
 - `wlt-c15-023` : กลาง (center, middle, intermediate, moderate) : 1 meaning(s), 3 sentences
 - `wlt-c15-024` : กลางคืน (night time (7pm - 3am)) : 1 meaning(s), 2 sentences
 - `wlt-c15-025` : กุ้ง (prawn, shrimp) : 1 meaning(s), 2 sentences
 - `wlt-c15-026` : เก็บ (to collect, keep, store) : 1 meaning(s), 3 sentences
 - `wlt-c15-027` : เก้า ๙ (nine (9)) : 1 meaning(s), 2 sentences
+- `wlt-c15-028` : เกิด (to be born) : 1 meaning(s), 2 sentences
+- `wlt-c15-029` : ขวด (bottle) : 1 meaning(s), 2 sentences
 - `wlt-c15-030` : ขวา (right (side)) : 1 meaning(s), 2 sentences
 - `wlt-c15-031` : ข้างนอก (outside) : 1 meaning(s), 2 sentences
 - `wlt-c15-032` : ข้างใน (inside) : 1 meaning(s), 2 sentences
