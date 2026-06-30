@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3401 words**
+**Total: 3411 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2738,10 +2738,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-094` : ลวด (wire) : 1 meaning(s), 2 sentences
 - `wlt-c08-098` : ลาก่อน (goodbye, farewell) : 1 meaning(s), 2 sentences
 - `wlt-c08-099` : ลำดับ (order, sequence, to arrange in order) : 1 meaning(s), 2 sentences
+- `wlt-c09-000` : ลิ้นชัก (drawer) : 1 meaning(s), 2 sentences
+- `wlt-c09-002` : ลูกบอล (ball) : 1 meaning(s), 2 sentences
+- `wlt-c09-003` : กระสุน, ลูกปืน (bullet) : 1 meaning(s), 2 sentences
 - `wlt-c09-007` : เลี้ยวขวา (to turn right) : 1 meaning(s), 2 sentences
 - `wlt-c09-008` : เลี้ยวซ้าย (to turn left) : 1 meaning(s), 2 sentences
 - `wlt-c09-010` : แล้วแต่ (depending on) : 1 meaning(s), 2 sentences
+- `wlt-c09-011` : วงจร (circuit (e.g electrical)) : 1 meaning(s), 2 sentences
+- `wlt-c09-012` : วัตถุประสงค์ (objective, purpose, goal) : 1 meaning(s), 2 sentences
 - `wlt-c09-013` : วันพฤหัสบดี (Thursday (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c09-015` : วิเคราะห์ (to analyze) : 1 meaning(s), 2 sentences
+- `wlt-c09-016` : วิชาชีพ (vocation, profession, occupation) : 1 meaning(s), 2 sentences
+- `wlt-c09-024` : ส่งจดหมาย (to post a letter) : 1 meaning(s), 2 sentences
+- `wlt-c09-028` : สนทนา (to converse, to have a conversation) : 1 meaning(s), 2 sentences
+- `wlt-c09-030` : สมาชิก (member) : 1 meaning(s), 2 sentences
 - `wlt-c09-032` : สลัด, ยำสลัด (salad) : 1 meaning(s), 2 sentences
 - `wlt-c09-044` : สิ่ง, สิ่งของ (thing) : 1 meaning(s), 2 sentences
 - `wlt-c09-047` : สิบสอง (twelve (12)) : 1 meaning(s), 2 sentences
