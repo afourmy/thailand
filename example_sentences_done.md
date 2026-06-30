@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3511 words**
+**Total: 3521 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2979,18 +2979,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-006` : ข้างหน้า (in front of, ahead) : 1 meaning(s), 2 sentences
 - `wlt-c13-007` : ข่าว (news) : 1 meaning(s), 2 sentences
 - `wlt-c13-008` : ขี้ (poop; (of a person) habitually prone to (usually negative trait)) : 2 meaning(s), 4 sentences
+- `wlt-c13-009` : ขีด (mark, line, to mark, to draw a line; 100 grams) : 2 meaning(s), 4 sentences
 - `wlt-c13-013` : ควร, ควรจะ (should, ought to) : 1 meaning(s), 2 sentences
 - `wlt-c13-016` : ค่ำ (dusk (6pm - 7pm)) : 1 meaning(s), 2 sentences
 - `wlt-c13-017` : คิดถึง (to miss someone (literally "think about")) : 1 meaning(s), 2 sentences
 - `wlt-c13-018` : คืนนี้ (tonight) : 1 meaning(s), 2 sentences
 - `wlt-c13-019` : คุย (to talk, to chat) : 1 meaning(s), 2 sentences
+- `wlt-c13-020` : ฆ่า (to kill) : 1 meaning(s), 2 sentences
 - `wlt-c13-021` : เงียบ (quiet) : 1 meaning(s), 2 sentences
 - `wlt-c13-022` : จริง (true, really) : 1 meaning(s), 2 sentences
+- `wlt-c13-023` : จอง (to reserve) : 1 meaning(s), 2 sentences
 - `wlt-c13-024` : จับ (to catch, to grab) : 1 meaning(s), 2 sentences
 - `wlt-c13-025` : ฉลาด (smart) : 1 meaning(s), 2 sentences
+- `wlt-c13-027` : ฉาย (to shine a light) : 1 meaning(s), 2 sentences
+- `wlt-c13-028` : ช่างตัดผม (barber) : 1 meaning(s), 2 sentences
+- `wlt-c13-030` : เช็ค (to check (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c13-031` : เชิญ (to invite someone to do something (polite request: "please...")) : 1 meaning(s), 2 sentences
 - `wlt-c13-032` : ใช่ (yes) : 1 meaning(s), 2 sentences
 - `wlt-c13-034` : ซึ่ง (which, that, where, what) : 1 meaning(s), 2 sentences
+- `wlt-c13-035` : ญี่ปุ่น (Japan, Japanese) : 1 meaning(s), 2 sentences
 - `wlt-c13-037` : เดินทาง (to travel) : 1 meaning(s), 2 sentences
 - `wlt-c13-038` : เดี๋ยว (soon, in a short while) : 1 meaning(s), 2 sentences
 - `wlt-c13-039` : แดด, แสงแดด (sunlight, sunshine) : 1 meaning(s), 2 sentences
@@ -3000,6 +3007,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-044` : ตอบ (to answer) : 1 meaning(s), 2 sentences
 - `wlt-c13-045` : ตะวันตก (west) : 1 meaning(s), 2 sentences
 - `wlt-c13-046` : ตะวันออก (east) : 1 meaning(s), 2 sentences
+- `wlt-c13-047` : ตั้งใจ (to intend) : 1 meaning(s), 2 sentences
+- `wlt-c13-048` : ติดต่อ (to contact, to get in touch with) : 1 meaning(s), 2 sentences
+- `wlt-c13-051` : เตรียม (to prepare) : 1 meaning(s), 2 sentences
 - `wlt-c13-054` : ถือ (to hold) : 1 meaning(s), 2 sentences
 - `wlt-c13-055` : ถุง (bag) : 1 meaning(s), 2 sentences
 - `wlt-c13-066` : ทั้ง (all of) : 1 meaning(s), 2 sentences
