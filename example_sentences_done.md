@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3211 words**
+**Total: 3221 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2399,6 +2399,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-037` : ระงับ (to suppress, to suspend, to put a stop to) : 1 meaning(s), 2 sentences
 - `yt-c22-038` : โล่งแจ้ง (open, unobstructed, clear) : 1 meaning(s), 2 sentences
 - `yt-c22-039` : แถลง (to announce, to declare, to make a statement) : 1 meaning(s), 2 sentences
+- `yt-c22-049` : สจ๊วต (steward (male air hostess)) : 1 meaning(s), 2 sentences
+- `yt-c22-051` : อับ (stuffy, poorly ventilated, cramped (enclosed space with no flow, no way out)) : 1 meaning(s), 2 sentences
+- `yt-c22-056` : เลี่ยง, หลีกเลี่ยง (to avoid, to evade (e.g law, tax, etc)) : 1 meaning(s), 2 sentences
+- `yt-c22-058` : ช่องโหว่ (loophole, gap, vulnerability) : 1 meaning(s), 2 sentences
+- `yt-c22-059` : ท้วม ((not rude) plump, chubby, somewhat overweight) : 1 meaning(s), 2 sentences
+- `yt-c22-060` : ผู้หลักผู้ใหญ่ (senior figure, elder, respected adult) : 1 meaning(s), 2 sentences
+- `yt-c22-064` : อย่างมีเหตุผล (rationally, logically, with good reason) : 1 meaning(s), 2 sentences
+- `yt-c22-070` : ความเสถียร (stability, steadiness) : 1 meaning(s), 2 sentences
+- `yt-c22-072` : เด็กเกเร (delinquent child, misbehaving and troublesome kid) : 1 meaning(s), 2 sentences
+- `yt-c22-073` : ย่ำ (to tread, to stomp on, to trample) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
