@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3621 words**
+**Total: 3631 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3574,9 +3574,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-036` : ข้าง (side) : 1 meaning(s), 2 sentences
 - `t4k-c01-042` : ไม่ค่อย (not very, hardly) : 1 meaning(s), 2 sentences
 - `t4k-c01-043` : ทันที (immediately) : 1 meaning(s), 2 sentences
+- `t4k-c01-044` : สาร (substance, matter) : 1 meaning(s), 2 sentences
 - `t4k-c01-045` : หาย (to disappear; lost, missing) : 2 meaning(s), 4 sentences
+- `t4k-c01-047` : เกี่ยวข้อง (related, connected) : 1 meaning(s), 2 sentences
+- `t4k-c01-051` : แสง (light) : 1 meaning(s), 2 sentences
+- `t4k-c01-052` : ทำการ (to carry out, to perform, to conduct) : 1 meaning(s), 2 sentences
+- `t4k-c01-055` : ความสามารถ (ability) : 1 meaning(s), 2 sentences
+- `t4k-c01-056` : ใกล้ชิด (adjacent, close; intimate) : 2 meaning(s), 4 sentences
 - `t4k-c01-059` : ช้า (slow) : 1 meaning(s), 2 sentences
+- `t4k-c01-062` : พลัง (energy, power) : 1 meaning(s), 2 sentences
 - `t4k-c01-073` : ฝัน (dream) : 1 meaning(s), 2 sentences
+- `t4k-c01-080` : ความผิด (fault, mistake) : 1 meaning(s), 2 sentences
+- `t4k-c01-082` : ต่อสู้ (to fight, to struggle) : 1 meaning(s), 2 sentences
+- `t4k-c01-084` : ร้าย (bad, evil, harmful) : 1 meaning(s), 2 sentences
 - `t4k-c01-085` : หมายความ, หมายถึง (to mean) : 1 meaning(s), 2 sentences
 - `t4k-c02-043` : พูดคุย (to talk, to chat) : 1 meaning(s), 2 sentences
 - `t4k-c02-046` : ที่ไหน (where) : 1 meaning(s), 2 sentences
