@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3181 words**
+**Total: 3191 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2369,6 +2369,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-062` : หักหลัง (to betray, to backstab (literally "break back")) : 1 meaning(s), 2 sentences
 - `yt-c20-063` : ต่อปากต่อคำ (to argue back and forth, to argue in an endless conversation) : 1 meaning(s), 2 sentences
 - `yt-c20-069` : แว๊บ (in a flash, (something happening) quickly, suddenly, to pop in) : 1 meaning(s), 2 sentences
+- `yt-c20-071` : ฉก (to snatch, to grab, to steal (quick, sudden action)) : 1 meaning(s), 2 sentences
+- `yt-c20-074` : ล่มสลาย (to collapse, to fall apart (e.g system, society, empire)) : 1 meaning(s), 2 sentences
+- `yt-c20-087` : บรรจุภัณฑ์ (packaging) : 1 meaning(s), 2 sentences
+- `yt-c20-088` : จำเจ (monotonous, repetitive, routine) : 1 meaning(s), 2 sentences
+- `yt-c20-096` : แก้เผ็ด (to retaliate, to get even (light revenge, e.g when someone teases you)) : 1 meaning(s), 2 sentences
+- `yt-c20-097` : หลาบจำ (to be taught a lesson (when you're getting punished for something)) : 1 meaning(s), 2 sentences
+- `yt-c21-000` : แตะตา, สะดุดตา (to strike the eyes, eye-catching) : 1 meaning(s), 2 sentences
+- `yt-c21-032` : จู่โจม (to ambush, to raid, to launch a surprise attack) : 1 meaning(s), 2 sentences
+- `yt-c21-042` : ให้ความเห็นชอบ (to give one's approval, to give consent) : 1 meaning(s), 2 sentences
+- `yt-c21-047` : คราง (to groan, to moan (e.g heavy work, sex)) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
