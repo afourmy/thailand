@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3301 words**
+**Total: 3311 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2580,13 +2580,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-048` : กางเกงขาสั้น (shorts) : 1 meaning(s), 2 sentences
 - `wlt-c05-049` : กางเกงใน (underwear (lower body)) : 1 meaning(s), 2 sentences
 - `wlt-c05-050` : การบ้าน (homework) : 1 meaning(s), 2 sentences
+- `wlt-c05-051` : ก้าว (to step, a step (movement forward)) : 1 meaning(s), 2 sentences
+- `wlt-c05-053` : กำเนิด (birth, origin, to originate, to come into existence) : 1 meaning(s), 2 sentences
+- `wlt-c05-054` : กำแพง (wall (enclosing a yard or city)) : 1 meaning(s), 2 sentences
 - `wlt-c05-055` : กินข้าว, ทานข้าว (to have a meal) : 1 meaning(s), 2 sentences
+- `wlt-c05-056` : กิโลกรัม (kilogram (metric system)) : 1 meaning(s), 2 sentences
 - `wlt-c05-058` : เก้าสิบ (ninety (90)) : 1 meaning(s), 2 sentences
 - `wlt-c05-059` : แก้ไข (to correct, to fix, to revise) : 1 meaning(s), 2 sentences
+- `wlt-c05-060` : แก้ไขเพิ่มเติม (to amend, to revise) : 1 meaning(s), 2 sentences
+- `wlt-c05-061` : โกน (to shave) : 1 meaning(s), 2 sentences
+- `wlt-c05-064` : ข่วน (to scratch (in a way that leaves injury or marks)) : 1 meaning(s), 2 sentences
 - `wlt-c05-065` : ข้อความ (message) : 1 meaning(s), 2 sentences
 - `wlt-c05-066` : ของคุณ (your, yours) : 1 meaning(s), 2 sentences
+- `wlt-c05-068` : ขอบ (side, border, edge, rim) : 1 meaning(s), 2 sentences
 - `wlt-c05-070` : ข้าวเที่ยง (lunch) : 1 meaning(s), 2 sentences
 - `wlt-c05-071` : ข้าวผัด (fried rice) : 1 meaning(s), 2 sentences
+- `wlt-c05-072` : ขูด (to scrape off) : 1 meaning(s), 2 sentences
+- `wlt-c05-073` : เข็มกลัด (brooch) : 1 meaning(s), 2 sentences
 - `wlt-c05-079` : แข็งแรง (strong, robust) : 1 meaning(s), 2 sentences
 - `wlt-c05-085` : คนไทย (Thai person) : 1 meaning(s), 2 sentences
 - `wlt-c05-089` : ครั้งแรก (first time) : 1 meaning(s), 2 sentences
