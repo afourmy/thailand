@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3261 words**
+**Total: 3271 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2504,18 +2504,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-053` : ผัดไทย (pad thai) : 1 meaning(s), 2 sentences
 - `wlt-c03-055` : ผ้าม่าน (curtains) : 1 meaning(s), 2 sentences
 - `wlt-c03-059` : พรุ่งนี้เช้า (tomorrow morning) : 1 meaning(s), 2 sentences
+- `wlt-c03-070` : ภายในประเทศ (domestic) : 1 meaning(s), 2 sentences
+- `wlt-c03-074` : มองหา (to look for, to search visually for something) : 1 meaning(s), 2 sentences
 - `wlt-c03-078` : มากกว่า (more (than something else)) : 1 meaning(s), 2 sentences
+- `wlt-c03-080` : มาเยี่ยม (to come visit a person) : 1 meaning(s), 2 sentences
+- `wlt-c03-082` : มาหา (to come to see someone) : 1 meaning(s), 2 sentences
 - `wlt-c03-085` : มีนัด (to have an appointment) : 1 meaning(s), 2 sentences
+- `wlt-c03-088` : มือสอง (secondhand) : 1 meaning(s), 2 sentences
 - `wlt-c03-091` : เมื่อคืน, เมื่อคืนนี้ (last night) : 1 meaning(s), 2 sentences
 - `wlt-c03-092` : เมื่อเช้านี้ (this morning) : 1 meaning(s), 2 sentences
 - `wlt-c03-094` : เมื่อวานซืนนี้ (the day before yesterday) : 1 meaning(s), 2 sentences
 - `wlt-c03-098` : ไม่ถูก (wrong, incorrect) : 1 meaning(s), 2 sentences
 - `wlt-c04-000` : ไม่บ่อย (seldom, not often) : 1 meaning(s), 2 sentences
 - `wlt-c04-005` : ไม่มีอะไร (nothing) : 1 meaning(s), 2 sentences
+- `wlt-c04-008` : ย้อน (to go back, to come back) : 1 meaning(s), 2 sentences
+- `wlt-c04-009` : ยอมให้ (to permit, to allow) : 1 meaning(s), 2 sentences
 - `wlt-c04-015` : ยี่สิบสอง (twenty two (22)) : 1 meaning(s), 2 sentences
 - `wlt-c04-016` : ยุ่ง (busy) : 1 meaning(s), 2 sentences
 - `wlt-c04-020` : รองเท้าแตะ (sandals, flip-flops) : 1 meaning(s), 2 sentences
+- `wlt-c04-022` : รั่ว (to leak) : 1 meaning(s), 2 sentences
 - `wlt-c04-023` : ร้านขายของ (shop, store) : 1 meaning(s), 2 sentences
+- `wlt-c04-025` : ร้านหนังสือ (book store) : 1 meaning(s), 2 sentences
+- `wlt-c04-026` : รุนแรง (violent, harsh) : 1 meaning(s), 2 sentences
 - `wlt-c04-028` : เร็วๆนี้ (soon) : 1 meaning(s), 2 sentences
 - `wlt-c04-036` : กุญแจ, ลูกกุญแจ (key) : 1 meaning(s), 2 sentences
 - `wlt-c04-056` : ส้มตำ (papaya salad) : 1 meaning(s), 2 sentences
