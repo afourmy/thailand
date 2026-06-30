@@ -48,6 +48,7 @@ t4k-c08-080 ศุลกากร: eng 'customs (government agency controlling i
 t4k-c09-083 หลักประกัน: eng 'guarantee, collateral (for loans or debts)'
 t4k-c08-079 กู้ยืม: eng 'to take out a loan, to borrow'
 t4k-c09-098 เงินตรา: eng 'currency'
+t4k-c10-004 ผลตอบแทน: eng 'return (on investment), compensation, reward'
 
 tsl-282 เร้า - เร้าใจ: make it 'เร้าใจ': 'exciting, stimulating, thrilling'
 
@@ -73,6 +74,6 @@ yt-c14-018 คดโกง, ขี้โกง: make it two cards
 
 t4k-c07-056 เพียร: make it 'ความเพียร': 'perseverance, diligence (formal)'
 
-rare: t4k-c07-056, t4k-c09-049, t4k-c09-083 หลักประกัน, t4k-c08-079 กู้ยืม, t4k-c09-098 เงินตรา
+rare: t4k-c07-056, t4k-c09-049, t4k-c09-083 หลักประกัน, t4k-c08-079 กู้ยืม, t4k-c09-098 เงินตรา, t4k-c10-004 ผลตอบแทน
 
 remove card: tsl-633 ฉลาดหลักแหลม, t4k-c04-006 เอื้อ, t4k-c08-090 อากร
