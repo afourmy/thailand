@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3451 words**
+**Total: 3461 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2838,7 +2838,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-076` : ตัวเลข (number, figure, digit) : 1 meaning(s), 2 sentences
 - `wlt-c10-077` : ตาย (to die) : 1 meaning(s), 2 sentences
 - `wlt-c10-079` : ตู้เย็น (refrigerator) : 1 meaning(s), 2 sentences
+- `wlt-c10-080` : เตะ (to kick) : 1 meaning(s), 2 sentences
+- `wlt-c10-082` : เติม (to fill, to refill, to add) : 1 meaning(s), 2 sentences
 - `wlt-c10-083` : แตกต่าง (to differ, to be different, separate) : 1 meaning(s), 2 sentences
+- `wlt-c10-084` : ถอน (to withdraw, to pull out) : 1 meaning(s), 2 sentences
+- `wlt-c10-085` : ถ่าน (charcoal) : 1 meaning(s), 2 sentences
+- `wlt-c10-086` : ถุงมือ (gloves) : 1 meaning(s), 2 sentences
 - `wlt-c10-087` : ถูกต้อง (accurate, correct) : 1 meaning(s), 2 sentences
 - `wlt-c10-089` : ทำความสะอาด (to clean) : 1 meaning(s), 2 sentences
 - `wlt-c10-092` : ที่นั่ง (seat, place to sit) : 1 meaning(s), 2 sentences
@@ -2850,6 +2855,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-000` : เท่ากัน (the same, equal) : 1 meaning(s), 2 sentences
 - `wlt-c11-001` : เที่ยงคืน (midnight) : 1 meaning(s), 2 sentences
 - `wlt-c11-003` : โทร (to call (by phone)) : 1 meaning(s), 2 sentences
+- `wlt-c11-004` : ธง (flag) : 1 meaning(s), 2 sentences
+- `wlt-c11-009` : นักกีฬา (athlete) : 1 meaning(s), 2 sentences
 - `wlt-c11-010` : นักเขียน (writer) : 1 meaning(s), 2 sentences
 - `wlt-c11-013` : นักร้อง (singer) : 1 meaning(s), 2 sentences
 - `wlt-c11-014` : นับ (to count) : 1 meaning(s), 2 sentences
@@ -2860,8 +2867,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-023` : นึก (to think) : 1 meaning(s), 2 sentences
 - `wlt-c11-025` : แน่ใจ (sure, certain) : 1 meaning(s), 2 sentences
 - `wlt-c11-027` : บ่อย, มัก (often) : 1 meaning(s), 2 sentences
+- `wlt-c11-028` : บันทึก (to record, to note) : 1 meaning(s), 2 sentences
 - `wlt-c11-029` : บ้า (crazy) : 1 meaning(s), 2 sentences
 - `wlt-c11-030` : บางครั้ง (sometimes) : 1 meaning(s), 2 sentences
+- `wlt-c11-031` : บาด (to wound, to cut) : 1 meaning(s), 2 sentences
+- `wlt-c11-033` : บุรุษ (man, male) : 1 meaning(s), 2 sentences
 - `wlt-c11-034` : เบื่อ (bored) : 1 meaning(s), 2 sentences
 - `wlt-c11-036` : ใบขับขี่ (driver's license) : 1 meaning(s), 2 sentences
 - `wlt-c11-042` : ปลอดภัย (safe, out of danger) : 1 meaning(s), 2 sentences
