@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3650 words**
+**Total: 3659 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3609,7 +3609,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-042` : ตัน (blocked, clogged, obstructed; ton (unit)) : 2 meaning(s), 4 sentences
 - `t4k-c02-043` : พูดคุย (to talk, to chat) : 1 meaning(s), 2 sentences
 - `t4k-c02-046` : ที่ไหน (where) : 1 meaning(s), 2 sentences
+- `t4k-c02-048` : ล้ำ (to exceed, to go beyond; futuristic, advanced, cutting-edge) : 2 meaning(s), 4 sentences
+- `t4k-c02-050` : แง่ (aspect, point of view) : 1 meaning(s), 2 sentences
+- `t4k-c02-051` : คำพูด (words, speech) : 1 meaning(s), 2 sentences
+- `t4k-c02-054` : วางแผน (to plan) : 1 meaning(s), 2 sentences
+- `t4k-c02-056` : ลับ (secret, hidden; to sharpen (e.g knife)) : 2 meaning(s), 4 sentences
+- `t4k-c02-060` : ย่อย (to digest, to break down; smaller part, minor, sub-) : 2 meaning(s), 4 sentences
 - `t4k-c02-065` : กล้อง (camera) : 1 meaning(s), 2 sentences
+- `t4k-c02-068` : ภาพยนตร์ (movie) : 1 meaning(s), 2 sentences
+- `t4k-c02-070` : จัดตั้ง (to establish, to set up) : 1 meaning(s), 2 sentences
+- `t4k-c02-071` : ก่อให้เกิด (to cause, to give rise to) : 1 meaning(s), 2 sentences
 - `t4k-c03-030` : ตลก (funny) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
 - `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
