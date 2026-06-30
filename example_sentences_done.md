@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3271 words**
+**Total: 3281 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2527,9 +2527,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-025` : ร้านหนังสือ (book store) : 1 meaning(s), 2 sentences
 - `wlt-c04-026` : รุนแรง (violent, harsh) : 1 meaning(s), 2 sentences
 - `wlt-c04-028` : เร็วๆนี้ (soon) : 1 meaning(s), 2 sentences
+- `wlt-c04-033` : ล้างน้ำ (to rinse) : 1 meaning(s), 2 sentences
+- `wlt-c04-034` : ลายเซ็น (signature) : 1 meaning(s), 2 sentences
+- `wlt-c04-035` : ลุกขึ้น (to stand up, to get up) : 1 meaning(s), 2 sentences
 - `wlt-c04-036` : กุญแจ, ลูกกุญแจ (key) : 1 meaning(s), 2 sentences
+- `wlt-c04-039` : เลขที่ (number used as a designation) : 1 meaning(s), 2 sentences
+- `wlt-c04-049` : ไว (fast, quick) : 1 meaning(s), 2 sentences
+- `wlt-c04-053` : สบู่เหลว (liquid soap) : 1 meaning(s), 2 sentences
 - `wlt-c04-056` : ส้มตำ (papaya salad) : 1 meaning(s), 2 sentences
 - `wlt-c04-060` : สักครู่ (one moment) : 1 meaning(s), 2 sentences
+- `wlt-c04-061` : สั่งซื้อ (to place an order, to purchase) : 1 meaning(s), 2 sentences
 - `wlt-c04-063` : สามสิบเอ็ด (thirty one (31)) : 1 meaning(s), 2 sentences
 - `wlt-c04-066` : สิบเก้า (nineteen (19)) : 1 meaning(s), 2 sentences
 - `wlt-c04-067` : สิบเจ็ด (seventeen (17)) : 1 meaning(s), 2 sentences
@@ -2537,6 +2544,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-070` : สิบสาม (thirteen (13)) : 1 meaning(s), 2 sentences
 - `wlt-c04-071` : สิบหก (sixteen (16)) : 1 meaning(s), 2 sentences
 - `wlt-c04-072` : สิบห้า (fifteen (15)) : 1 meaning(s), 2 sentences
+- `wlt-c04-073` : สีเขียวอ่อน (light green) : 1 meaning(s), 2 sentences
+- `wlt-c04-074` : สีคล้ำ (dark colored) : 1 meaning(s), 2 sentences
+- `wlt-c04-075` : สีแดงเข้ม (dark red) : 1 meaning(s), 2 sentences
 - `wlt-c04-077` : สีฟัน, แปรงฟัน (to brush teeth) : 1 meaning(s), 2 sentences
 - `wlt-c04-091` : หนึ่งร้อย (one hundred (100)) : 1 meaning(s), 2 sentences
 - `wlt-c04-092` : หม้อ (pot (cooking)) : 1 meaning(s), 2 sentences
