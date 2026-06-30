@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3601 words**
+**Total: 3611 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3360,11 +3360,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-006` : ภาษาอังกฤษ (English language) : 1 meaning(s), 2 sentences
 - `wlt-c19-017` : ไม่นาน (not long) : 1 meaning(s), 2 sentences
 - `wlt-c19-020` : ไม่สบายใจ (uneasy, troubled, uncomfortable) : 1 meaning(s), 2 sentences
+- `wlt-c19-030` : รหัส (code (e.g postal, security)) : 1 meaning(s), 2 sentences
+- `wlt-c19-031` : ร้านขายหนังสือ (bookstore) : 1 meaning(s), 2 sentences
+- `wlt-c19-032` : ร้านตัดเสื้อ (tailor, dressmaker) : 1 meaning(s), 2 sentences
+- `wlt-c19-042` : ศูนย์การค้า (shopping center) : 1 meaning(s), 2 sentences
 - `wlt-c19-044` : สบายๆ ("no problem", "no worries", relaxed) : 1 meaning(s), 2 sentences
 - `wlt-c19-050` : สูบบุหรี่ (to smoke (cigarettes)) : 1 meaning(s), 2 sentences
 - `wlt-c19-051` : เสาร์อาทิตย์นี้ (this weekend) : 1 meaning(s), 2 sentences
+- `wlt-c19-058` : หมดอายุ (to be expired) : 1 meaning(s), 2 sentences
 - `wlt-c19-062` : หวัดดี (hi, bye (casual)) : 1 meaning(s), 2 sentences
 - `wlt-c19-068` : เหงา (lonely) : 1 meaning(s), 2 sentences
+- `wlt-c19-074` : อ่านเล่น (to read for pleasure) : 1 meaning(s), 2 sentences
+- `wlt-c19-080` : แอบดู (to peek at, to secretly watch) : 1 meaning(s), 2 sentences
 - `wlt-c19-081` : กรกฎาคม (July) : 1 meaning(s), 2 sentences
 - `wlt-c19-082` : กระดาษ (paper) : 1 meaning(s), 2 sentences
 - `wlt-c19-083` : กันยายน (September) : 1 meaning(s), 2 sentences
@@ -3411,6 +3418,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-030` : ประตู (door, gate) : 1 meaning(s), 2 sentences
 - `wlt-c20-031` : ปาก (mouth) : 1 meaning(s), 2 sentences
 - `wlt-c20-032` : เป็น (to be; to be able) : 2 meaning(s), 4 sentences
+- `wlt-c20-033` : ไปรษณีย์ (post office) : 1 meaning(s), 2 sentences
 - `wlt-c20-034` : ผอม (thin) : 1 meaning(s), 2 sentences
 - `wlt-c20-035` : พรุ่งนี้ (tomorrow) : 1 meaning(s), 2 sentences
 - `wlt-c20-036` : พฤศจิกายน (November) : 1 meaning(s), 2 sentences
@@ -3501,6 +3509,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-026` : ปี (year) : 1 meaning(s), 2 sentences
 - `wlt-c21-027` : ไป (to go) : 1 meaning(s), 2 sentences
 - `wlt-c21-028` : ผู้ชาย (boy, man) : 1 meaning(s), 2 sentences
+- `wlt-c21-029` : พบ (to meet, to encounter) : 1 meaning(s), 2 sentences
 - `wlt-c21-030` : พูด (to speak, talk, say) : 1 meaning(s), 2 sentences
 - `wlt-c21-031` : เพื่อน (friend) : 1 meaning(s), 2 sentences
 - `wlt-c21-032` : แพง (expensive) : 1 meaning(s), 2 sentences
@@ -3550,6 +3559,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-080` : ใหญ่ (big, large) : 1 meaning(s), 2 sentences
 - `t4k-c01-001` : เรา (we; us) : 1 meaning(s), 2 sentences
 - `t4k-c01-002` : เขา (he) : 1 meaning(s), 2 sentences
+- `t4k-c01-008` : ที่มา (source, origin) : 1 meaning(s), 2 sentences
 - `t4k-c01-017` : พูดถึง (to talk about, to refer to) : 1 meaning(s), 2 sentences
 - `t4k-c01-036` : ข้าง (side) : 1 meaning(s), 2 sentences
 - `t4k-c01-042` : ไม่ค่อย (not very, hardly) : 1 meaning(s), 2 sentences
