@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3591 words**
+**Total: 3601 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3328,25 +3328,35 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-030` : ฉีดยา (to get an injection) : 1 meaning(s), 2 sentences
 - `wlt-c18-031` : ช่วยด้วย (help!) : 1 meaning(s), 2 sentences
 - `wlt-c18-033` : ชั้นสอง (second floor) : 1 meaning(s), 2 sentences
+- `wlt-c18-034` : ชั้นหนึ่ง (first floor, first class) : 1 meaning(s), 2 sentences
+- `wlt-c18-036` : ช่างยนต์ (car mechanic (technician who repairs cars)) : 1 meaning(s), 2 sentences
+- `wlt-c18-038` : ชาวเอเชีย (Asian) : 1 meaning(s), 2 sentences
 - `wlt-c18-040` : ใช้เงิน (to spend money) : 1 meaning(s), 2 sentences
+- `wlt-c18-043` : ซิ่ง (to drive very fast, to race) : 1 meaning(s), 2 sentences
 - `wlt-c18-045` : ดูเหมือน (looks like) : 1 meaning(s), 2 sentences
 - `wlt-c18-048` : เดินเล่น (to take a walk) : 1 meaning(s), 2 sentences
 - `wlt-c18-054` : ถ้าอย่างนั้น ("in that case", "if so, then...") : 1 meaning(s), 2 sentences
 - `wlt-c18-056` : แถวนี้ (around here, in this area) : 1 meaning(s), 2 sentences
 - `wlt-c18-059` : ทิชชู่ (tissue, napkins) : 1 meaning(s), 2 sentences
 - `wlt-c18-062` : ทุกครั้ง, ทุกที (every time) : 1 meaning(s), 2 sentences
+- `wlt-c18-067` : นอนเล่น (to lie down and relax) : 1 meaning(s), 2 sentences
+- `wlt-c18-068` : นั่งเล่น (to sit down and relax) : 1 meaning(s), 2 sentences
 - `wlt-c18-069` : น่ากิน (looks delicious) : 1 meaning(s), 2 sentences
 - `wlt-c18-071` : น้ำเปล่า (plain water) : 1 meaning(s), 2 sentences
 - `wlt-c18-072` : น้ำเย็น (cold water) : 1 meaning(s), 2 sentences
+- `wlt-c18-078` : บัตรประชาชน (national I.D. card) : 1 meaning(s), 2 sentences
 - `wlt-c18-079` : บ่ายนี้ (this afternoon (early)) : 1 meaning(s), 2 sentences
 - `wlt-c18-082` : เบอร์โทรศัพท์ (phone number) : 1 meaning(s), 2 sentences
 - `wlt-c18-084` : แบบนี้ (this kind, like this) : 1 meaning(s), 2 sentences
 - `wlt-c18-085` : ปวดท้อง (stomachache) : 1 meaning(s), 2 sentences
+- `wlt-c18-089` : เป็นพิษ (toxic, poisonous) : 1 meaning(s), 2 sentences
 - `wlt-c18-093` : ไปซื้อของ (to go shopping) : 1 meaning(s), 2 sentences
+- `wlt-c18-094` : ผับ (pub (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c18-098` : พวกเขา (they, them) : 1 meaning(s), 2 sentences
 - `wlt-c19-000` : พูดเล่น (to joke) : 1 meaning(s), 2 sentences
 - `wlt-c19-001` : ฟรี (free (of charge)) : 1 meaning(s), 2 sentences
 - `wlt-c19-002` : ฟังเพลง (to listen to music) : 1 meaning(s), 2 sentences
+- `wlt-c19-003` : ไฟฉาย (flashlight) : 1 meaning(s), 2 sentences
 - `wlt-c19-006` : ภาษาอังกฤษ (English language) : 1 meaning(s), 2 sentences
 - `wlt-c19-017` : ไม่นาน (not long) : 1 meaning(s), 2 sentences
 - `wlt-c19-020` : ไม่สบายใจ (uneasy, troubled, uncomfortable) : 1 meaning(s), 2 sentences
