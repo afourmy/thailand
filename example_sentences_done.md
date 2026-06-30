@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3659 words**
+**Total: 3669 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3619,7 +3619,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-068` : ภาพยนตร์ (movie) : 1 meaning(s), 2 sentences
 - `t4k-c02-070` : จัดตั้ง (to establish, to set up) : 1 meaning(s), 2 sentences
 - `t4k-c02-071` : ก่อให้เกิด (to cause, to give rise to) : 1 meaning(s), 2 sentences
+- `t4k-c02-083` : บวก (to add; plus ("+"), positive) : 2 meaning(s), 4 sentences
+- `t4k-c02-084` : เก (twisted, crooked, bent) : 1 meaning(s), 2 sentences
+- `t4k-c02-092` : เทคนิค (technique) : 1 meaning(s), 2 sentences
+- `t4k-c02-098` : นึกถึง (to think of, to recall, to remember) : 1 meaning(s), 2 sentences
+- `t4k-c03-011` : กด (to press) : 1 meaning(s), 2 sentences
+- `t4k-c03-014` : คิดเห็น (to think, to be of the opinion) : 1 meaning(s), 2 sentences
+- `t4k-c03-015` : ย้อนกลับ (to go back, to reverse) : 1 meaning(s), 2 sentences
+- `t4k-c03-016` : ล้อม (to surround, to encircle, to besiege) : 1 meaning(s), 2 sentences
+- `t4k-c03-029` : เลวร้าย (bad, awful, terrible) : 1 meaning(s), 2 sentences
 - `t4k-c03-030` : ตลก (funny) : 1 meaning(s), 2 sentences
+- `t4k-c03-031` : คำนึง (to take into account, to bear in mind) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
 - `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
 - `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
