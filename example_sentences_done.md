@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3471 words**
+**Total: 3481 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2893,14 +2893,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-061` : พักผ่อน (to rest) : 1 meaning(s), 2 sentences
 - `wlt-c11-062` : พัดลม (fan (device)) : 1 meaning(s), 2 sentences
 - `wlt-c11-065` : เพิ่ม, เพิ่มขึ้น (to increase) : 1 meaning(s), 2 sentences
+- `wlt-c11-072` : ภูมิศาสตร์ (geography) : 1 meaning(s), 2 sentences
+- `wlt-c11-075` : มุม (angle, corner) : 1 meaning(s), 2 sentences
 - `wlt-c11-076` : เมา (drunk) : 1 meaning(s), 2 sentences
 - `wlt-c11-077` : เมีย (wife, long-term girlfriend (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-079` : เมื่อไหร่ (when (question word)) : 1 meaning(s), 2 sentences
 - `wlt-c11-082` : โมง (o'clock, time) : 1 meaning(s), 2 sentences
+- `wlt-c11-083` : ไม้จิ้มฟัน (toothpick) : 1 meaning(s), 2 sentences
+- `wlt-c11-084` : ไม้บรรทัด (ruler) : 1 meaning(s), 2 sentences
+- `wlt-c11-085` : ไมล์ (mile) : 1 meaning(s), 2 sentences
 - `wlt-c11-086` : ไม่สบาย (unwell) : 1 meaning(s), 2 sentences
+- `wlt-c11-087` : ยากจน (destitute, poor) : 1 meaning(s), 2 sentences
 - `wlt-c11-088` : ยี่สิบ (twenty (20)) : 1 meaning(s), 2 sentences
+- `wlt-c11-089` : ยืนยัน (to maintain, to confirm) : 1 meaning(s), 2 sentences
+- `wlt-c11-091` : เยี่ยม (excellent, great; to visit someone) : 2 meaning(s), 4 sentences
+- `wlt-c11-093` : รบกวน (to disturb, to bother) : 1 meaning(s), 2 sentences
 - `wlt-c11-094` : รอ (to wait) : 1 meaning(s), 2 sentences
 - `wlt-c11-095` : ร้องเพลง (to sing) : 1 meaning(s), 2 sentences
+- `wlt-c11-097` : ระดับ (level) : 1 meaning(s), 2 sentences
 - `wlt-c12-000` : รางวัล (prize, award, trophy) : 1 meaning(s), 2 sentences
 - `wlt-c12-001` : ร้านกาแฟ (coffee shop) : 1 meaning(s), 2 sentences
 - `wlt-c12-004` : เรียกว่า (to be called) : 1 meaning(s), 2 sentences
