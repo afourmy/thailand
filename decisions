@@ -44,6 +44,8 @@ tamago-l3-636 กลุ้มใจ: eng 'worried, anxious, troubled, mentally b
 tamago-l3-765 ซึ้ง: eng 'touched, moved (emotionally, e.g by kindness, story, gesture)'
 tsl-332 น่าเห็นใจ: eng 'pitiful, deserving sympathy'
 tsl-331 ความห่วงใย: eng 'concern, care, worry (for someone's well-being)'
+t4k-c08-080 ศุลกากร: eng 'customs (government agency controlling imports / exports)'
+t4k-c09-083 หลักประกัน: eng 'guarantee, collateral (for loans or debts)'
 
 tsl-282 เร้า - เร้าใจ: make it 'เร้าใจ': 'exciting, stimulating, thrilling'
 
@@ -69,6 +71,6 @@ yt-c14-018 คดโกง, ขี้โกง: make it two cards
 
 t4k-c07-056 เพียร: make it 'ความเพียร': 'perseverance, diligence (formal)'
 
-rare: t4k-c07-056, t4k-c09-049
+rare: t4k-c07-056, t4k-c09-049, t4k-c09-083 หลักประกัน
 
-remove card: tsl-633 ฉลาดหลักแหลม, t4k-c04-006 เอื้อ
+remove card: tsl-633 ฉลาดหลักแหลม, t4k-c04-006 เอื้อ, t4k-c08-090 อากร
