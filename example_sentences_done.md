@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3561 words**
+**Total: 3571 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3118,6 +3118,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-033` : ข้างบน (above, on top, upstairs) : 1 meaning(s), 2 sentences
 - `wlt-c15-034` : ข้างล่าง (below, under) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
+- `wlt-c15-036` : เขมร (Cambodia, Cambodian) : 1 meaning(s), 2 sentences
 - `wlt-c15-038` : เข้า (to enter) : 1 meaning(s), 2 sentences
 - `wlt-c15-039` : แข็ง (hard (not soft)) : 1 meaning(s), 2 sentences
 - `wlt-c15-040` : ไข้ (fever) : 1 meaning(s), 2 sentences
@@ -3127,6 +3128,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-047` : จีน (China, Chinese) : 1 meaning(s), 2 sentences
 - `wlt-c15-048` : เจอ (to meet; to encounter (unexpectedly)) : 2 meaning(s), 4 sentences
 - `wlt-c15-050` : ใจดี (kind-hearted) : 1 meaning(s), 2 sentences
+- `wlt-c15-051` : ชนะ (to win) : 1 meaning(s), 2 sentences
 - `wlt-c15-052` : ชัด (plain, clear, distinct) : 1 meaning(s), 2 sentences
 - `wlt-c15-053` : เช่น (such as) : 1 meaning(s), 2 sentences
 - `wlt-c15-054` : เชื่อ (to believe) : 1 meaning(s), 2 sentences
@@ -3137,12 +3139,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-059` : ดอกไม้ (flower) : 1 meaning(s), 2 sentences
 - `wlt-c15-061` : ดิฉัน, ฉัน (I, me (female speaker)) : 1 meaning(s), 2 sentences
 - `wlt-c15-062` : เดียว, อย่างเดียว (only, single, alone) : 1 meaning(s), 2 sentences
+- `wlt-c15-064` : ตรวจ (to inspect) : 1 meaning(s), 2 sentences
 - `wlt-c15-066` : ต่อไป (next, later) : 1 meaning(s), 2 sentences
+- `wlt-c15-067` : ตะวันออกเฉียงใต้ (southeast) : 1 meaning(s), 2 sentences
 - `wlt-c15-068` : ตั้งแต่ (from, since) : 1 meaning(s), 2 sentences
 - `wlt-c15-069` : ตั๋ว (ticket) : 1 meaning(s), 2 sentences
 - `wlt-c15-070` : ต่ำ (low, inferior) : 1 meaning(s), 2 sentences
+- `wlt-c15-071` : ตู้ (cabinet, cupboard) : 1 meaning(s), 2 sentences
 - `wlt-c15-072` : แตงโม (watermelon) : 1 meaning(s), 2 sentences
+- `wlt-c15-073` : ถัง (bucket) : 1 meaning(s), 2 sentences
 - `wlt-c15-074` : ถ่ายรูป (to take a picture) : 1 meaning(s), 2 sentences
+- `wlt-c15-075` : ทับ (to overlap, to stack on top; to press, to run over, to crush; slash ("/")) : 3 meaning(s), 6 sentences
 - `wlt-c15-077` : ที่ทำงาน (workplace, office) : 1 meaning(s), 2 sentences
 - `wlt-c15-078` : ที่นั่น (there) : 1 meaning(s), 2 sentences
 - `wlt-c15-079` : ที่นี่ (here) : 1 meaning(s), 2 sentences
@@ -3155,7 +3162,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-089` : บ้าง (some, a little) : 1 meaning(s), 2 sentences
 - `wlt-c15-090` : บางที (sometimes; maybe, perhaps) : 2 meaning(s), 4 sentences
 - `wlt-c15-091` : บาท (Baht) : 1 meaning(s), 2 sentences
+- `wlt-c15-094` : ประกาศ (to announce) : 1 meaning(s), 2 sentences
 - `wlt-c15-098` : ผลไม้ (fruit) : 1 meaning(s), 2 sentences
+- `wlt-c15-099` : ผ้าห่ม (blanket) : 1 meaning(s), 2 sentences
+- `wlt-c16-000` : ฝรั่งเศส (France, French) : 1 meaning(s), 2 sentences
 - `wlt-c16-002` : พริก (chili peppers, chilies) : 1 meaning(s), 2 sentences
 - `wlt-c16-004` : พ่อแม่ (parents) : 1 meaning(s), 2 sentences
 - `wlt-c16-005` : พัน (thousand (1000)) : 1 meaning(s), 2 sentences
