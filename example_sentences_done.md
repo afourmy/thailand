@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3311 words**
+**Total: 3321 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -2597,11 +2597,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-071` : ข้าวผัด (fried rice) : 1 meaning(s), 2 sentences
 - `wlt-c05-072` : ขูด (to scrape off) : 1 meaning(s), 2 sentences
 - `wlt-c05-073` : เข็มกลัด (brooch) : 1 meaning(s), 2 sentences
+- `wlt-c05-078` : แข่ง, แข่งขัน (to compete) : 1 meaning(s), 2 sentences
 - `wlt-c05-079` : แข็งแรง (strong, robust) : 1 meaning(s), 2 sentences
 - `wlt-c05-085` : คนไทย (Thai person) : 1 meaning(s), 2 sentences
+- `wlt-c05-087` : คนใน (insider) : 1 meaning(s), 2 sentences
 - `wlt-c05-089` : ครั้งแรก (first time) : 1 meaning(s), 2 sentences
+- `wlt-c05-091` : ครูฝึก (coach, trainer) : 1 meaning(s), 2 sentences
 - `wlt-c05-093` : ความคิด (idea) : 1 meaning(s), 2 sentences
+- `wlt-c05-094` : ความคิดเห็น (opinion) : 1 meaning(s), 2 sentences
+- `wlt-c05-095` : ความจริง (truth) : 1 meaning(s), 2 sentences
+- `wlt-c05-097` : ความรู้ (knowledge) : 1 meaning(s), 2 sentences
+- `wlt-c06-003` : ค้อน (hammer) : 1 meaning(s), 2 sentences
+- `wlt-c06-005` : คะแนน (grade, score point(s)) : 1 meaning(s), 2 sentences
 - `wlt-c06-010` : คำถาม (question) : 1 meaning(s), 2 sentences
+- `wlt-c06-011` : คำนึง, คำนึงถึง (to think deeply, to take into consideration) : 1 meaning(s), 2 sentences
+- `wlt-c06-014` : เคยชิน (to get used to) : 1 meaning(s), 2 sentences
 - `wlt-c06-017` : เครื่องมือ (tool) : 1 meaning(s), 2 sentences
 - `wlt-c06-037` : จูบ (kiss, to kiss) : 1 meaning(s), 2 sentences
 - `wlt-c06-043` : ช่วง (period (of time)) : 1 meaning(s), 2 sentences
