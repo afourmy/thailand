@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3571 words**
+**Total: 3581 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3177,17 +3177,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-012` : ไม่เคย (never) : 1 meaning(s), 2 sentences
 - `wlt-c16-013` : ยืน (to stand) : 1 meaning(s), 2 sentences
 - `wlt-c16-014` : ยืม (to borrow) : 1 meaning(s), 2 sentences
+- `wlt-c16-016` : เยอรมัน (Germany, German) : 1 meaning(s), 2 sentences
 - `wlt-c16-017` : รถยนต์ (car, automobile) : 1 meaning(s), 2 sentences
 - `wlt-c16-019` : รู้สึก (to feel) : 1 meaning(s), 2 sentences
 - `wlt-c16-020` : เรา, พวกเรา (we, our, us) : 1 meaning(s), 2 sentences
 - `wlt-c16-021` : เรียบร้อย (in good condition, all set, ready) : 1 meaning(s), 2 sentences
+- `wlt-c16-023` : โรงหนัง (cinema) : 1 meaning(s), 2 sentences
 - `wlt-c16-026` : ลูกสาว (daughter) : 1 meaning(s), 2 sentences
 - `wlt-c16-027` : โลก (world) : 1 meaning(s), 2 sentences
 - `wlt-c16-028` : สกปรก (dirty) : 1 meaning(s), 2 sentences
+- `wlt-c16-029` : สนาม (field (e.g sports field, airport, etc)) : 1 meaning(s), 2 sentences
 - `wlt-c16-030` : สนุก (fun, amusing) : 1 meaning(s), 2 sentences
 - `wlt-c16-031` : สบาย (well, comfortable) : 1 meaning(s), 2 sentences
 - `wlt-c16-032` : สบู่, สบู่หอม (soap) : 1 meaning(s), 2 sentences
 - `wlt-c16-033` : ส้ม (orange) : 1 meaning(s), 2 sentences
+- `wlt-c16-035` : สมุด (notebook) : 1 meaning(s), 2 sentences
+- `wlt-c16-036` : สว่าง (light, bright) : 1 meaning(s), 2 sentences
 - `wlt-c16-037` : สัตว์ (animal) : 1 meaning(s), 2 sentences
 - `wlt-c16-039` : สัปดาห์ (week (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c16-040` : สาม ๓ (three (3)) : 1 meaning(s), 2 sentences
@@ -3197,14 +3202,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-045` : สูบ (to draw on, pump, smoke) : 1 meaning(s), 3 sentences
 - `wlt-c16-047` : หมด (all gone, used up, finished) : 1 meaning(s), 2 sentences
 - `wlt-c16-048` : หมอฟัน (dentist (informal)) : 1 meaning(s), 2 sentences
+- `wlt-c16-049` : หมู่บ้าน (village) : 1 meaning(s), 2 sentences
 - `wlt-c16-050` : หยุด (to stop) : 1 meaning(s), 2 sentences
 - `wlt-c16-051` : หลับ (to fall asleep) : 1 meaning(s), 2 sentences
 - `wlt-c16-052` : หลาน (nephew, niece, grandchild) : 1 meaning(s), 2 sentences
 - `wlt-c16-053` : ห้า ๕ (five (5)) : 1 meaning(s), 2 sentences
+- `wlt-c16-054` : ห่าง (distant, far apart, separate) : 1 meaning(s), 2 sentences
 - `wlt-c16-060` : อย่า (do not (to tell someone not to do something)) : 1 meaning(s), 2 sentences
 - `wlt-c16-061` : อร่อย (to taste good, delicious) : 1 meaning(s), 2 sentences
 - `wlt-c16-063` : อันตราย (dangerous) : 1 meaning(s), 2 sentences
 - `wlt-c16-064` : อาบน้ำ (to take a shower, to bathe) : 1 meaning(s), 2 sentences
+- `wlt-c16-065` : อำเภอ (district, a subdivision of a changwat) : 1 meaning(s), 2 sentences
+- `wlt-c16-067` : เอกสาร (document) : 1 meaning(s), 2 sentences
+- `wlt-c16-069` : โอกาส (opportunity, chance) : 1 meaning(s), 2 sentences
 - `wlt-c16-070` : ก็ (so, then) : 1 meaning(s), 2 sentences
 - `wlt-c16-071` : กระเป๋า (bag) : 1 meaning(s), 2 sentences
 - `wlt-c16-075` : กี่ (how many) : 1 meaning(s), 2 sentences
