@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3541 words**
+**Total: 3551 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3061,15 +3061,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-046` : ร่วมมือ (to cooperate, to collaborate, to work together) : 1 meaning(s), 2 sentences
 - `wlt-c14-049` : ร้องไห้ (to cry) : 1 meaning(s), 2 sentences
 - `wlt-c14-050` : ระวัง (careful) : 1 meaning(s), 2 sentences
+- `wlt-c14-052` : รัสเซีย (Russia) : 1 meaning(s), 2 sentences
+- `wlt-c14-053` : ร้านตัดผม (barber shop) : 1 meaning(s), 2 sentences
 - `wlt-c14-054` : รีบ (to hurry) : 1 meaning(s), 2 sentences
 - `wlt-c14-057` : ลด (to reduce, to lower; to discount) : 2 meaning(s), 4 sentences
+- `wlt-c14-058` : ล้ม (to fall down, to topple, to collapse) : 1 meaning(s), 2 sentences
 - `wlt-c14-060` : ลอง (to try out) : 1 meaning(s), 2 sentences
+- `wlt-c14-061` : ลาว (Laos) : 1 meaning(s), 2 sentences
+- `wlt-c14-062` : เลข (number, numeral; (informal) math) : 2 meaning(s), 4 sentences
 - `wlt-c14-064` : แล้วก็ (and, and then) : 1 meaning(s), 2 sentences
 - `wlt-c14-065` : วันที่ (date) : 1 meaning(s), 2 sentences
+- `wlt-c14-066` : เว้น (to leave out, to omit, to skip) : 1 meaning(s), 2 sentences
+- `wlt-c14-067` : เวียดนาม (Vietnam, Vietnamese) : 1 meaning(s), 2 sentences
 - `wlt-c14-068` : แว่นตา (glasses) : 1 meaning(s), 2 sentences
 - `wlt-c14-071` : สตางค์ (satang) : 1 meaning(s), 2 sentences
+- `wlt-c14-073` : ส่วนตัว (private, personal) : 1 meaning(s), 2 sentences
+- `wlt-c14-079` : สหรัฐอเมริกา (United States of America) : 1 meaning(s), 2 sentences
 - `wlt-c14-080` : สอง ๒ (two (2)) : 1 meaning(s), 2 sentences
 - `wlt-c14-082` : สามารถ (can, be able to) : 1 meaning(s), 2 sentences
+- `wlt-c14-083` : สิงคโปร์ (Singapore) : 1 meaning(s), 2 sentences
 - `wlt-c14-084` : สี่ ๔ (four (4)) : 1 meaning(s), 2 sentences
 - `wlt-c14-085` : สีขาว (white) : 1 meaning(s), 2 sentences
 - `wlt-c14-086` : สีม่วง (purple) : 1 meaning(s), 2 sentences
