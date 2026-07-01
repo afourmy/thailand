@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3919 words**
+**Total: 3929 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3912,11 +3912,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-057` : ชุดสากล (western-style suit (formal attire)) : 1 meaning(s), 2 sentences
 - `exd-058` : ด้วยความยินดี (with pleasure, you're welcome) : 1 meaning(s), 2 sentences
 - `exd-059` : ตลาดน้ำ (floating market) : 1 meaning(s), 2 sentences
+- `exd-060` : ตำรวจจราจร (traffic police) : 1 meaning(s), 2 sentences
+- `exd-061` : ตีตั๋ว (to buy a ticket, to get a ticket) : 1 meaning(s), 2 sentences
 - `exd-062` : ถังขยะ (trash bin, garbage can) : 1 meaning(s), 2 sentences
+- `exd-063` : ทางเรือ (by sea) : 1 meaning(s), 2 sentences
+- `exd-064` : ทางอากาศ (by air) : 1 meaning(s), 2 sentences
+- `exd-065` : ท่ารถ (bus station) : 1 meaning(s), 2 sentences
+- `exd-066` : ทำเวลา (to make up for lost time, to hurry up) : 1 meaning(s), 2 sentences
 - `exd-067` : ทำอาหาร (to cook) : 1 meaning(s), 2 sentences
 - `exd-069` : ที่อื่น (elsewhere, somewhere else) : 1 meaning(s), 2 sentences
+- `exd-070` : เที่ยงครึ่ง (12:30 p.m. (half past noon)) : 1 meaning(s), 2 sentences
 - `exd-071` : นั่งรถ (to travel by car, to go by car) : 1 meaning(s), 2 sentences
+- `exd-074` : แบ่งออกเป็น (to be divided into, to be categorized into) : 1 meaning(s), 2 sentences
+- `exd-075` : ปรับอากาศ (air-conditioned) : 1 meaning(s), 2 sentences
 - `exd-076` : ปวดฉี่ (to need to urinate, to need to pee) : 1 meaning(s), 2 sentences
+- `exd-077` : ปวดอึ (to need to poop) : 1 meaning(s), 2 sentences
 - `exd-079` : ฝนตก (to rain) : 1 meaning(s), 2 sentences
 - `exd-083` : มวยไทย (Muay Thai) : 1 meaning(s), 2 sentences
 - `exd-086` : มีประโยชน์ (useful) : 1 meaning(s), 2 sentences
