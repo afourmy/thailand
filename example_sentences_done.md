@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3869 words**
+**Total: 3879 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3839,7 +3839,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
 - `t4k-c11-040` : ต้าน (to resist, to oppose) : 1 meaning(s), 2 sentences
 - `t4k-c11-051` : โยกย้าย (to relocate, to transfer, to shift from one place to another) : 1 meaning(s), 2 sentences
+- `t4k-c11-060` : กดขี่ (to oppress, to repress) : 1 meaning(s), 2 sentences
+- `t4k-c11-076` : พิกัด (coordinates) : 1 meaning(s), 2 sentences
+- `t4k-c11-077` : ตายตัว (rigid, inflexible, fixed) : 1 meaning(s), 2 sentences
+- `t4k-c11-079` : แผนงาน (work plan, project plan) : 1 meaning(s), 2 sentences
+- `t4k-c11-094` : กรด (acid) : 1 meaning(s), 2 sentences
+- `t4k-c11-104` : คุณนาย (Madam, Mrs.) : 1 meaning(s), 2 sentences
+- `t4k-c11-107` : พรรณนา (to depict, to portray, to describe in detail) : 1 meaning(s), 2 sentences
 - `t4k-c11-109` : เค้ก (cake) : 1 meaning(s), 2 sentences
+- `t4k-c11-110` : ยิ้มแย้ม (to smile happily, to have a cheerful facial expression) : 1 meaning(s), 2 sentences
+- `t4k-c11-122` : เหี่ยว (to lose freshness, to shrivel, to become dry and wrinkled) : 1 meaning(s), 2 sentences
+- `t4k-c11-125` : ประถมศึกษา (primary education) : 1 meaning(s), 2 sentences
 - `exd-002` : ที่ (at; that, which; times, occasions) : 3 meaning(s), 6 sentences
 - `exd-003` : ได้ (can, to be able; to get, to obtain) : 2 meaning(s), 4 sentences
 - `exd-004` : หรือ (or) : 1 meaning(s), 2 sentences
