@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3929 words**
+**Total: 3939 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3927,9 +3927,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-075` : ปรับอากาศ (air-conditioned) : 1 meaning(s), 2 sentences
 - `exd-076` : ปวดฉี่ (to need to urinate, to need to pee) : 1 meaning(s), 2 sentences
 - `exd-077` : ปวดอึ (to need to poop) : 1 meaning(s), 2 sentences
+- `exd-078` : เปลี่ยนเสื้อผ้า (to change clothes) : 1 meaning(s), 2 sentences
 - `exd-079` : ฝนตก (to rain) : 1 meaning(s), 2 sentences
+- `exd-080` : เพลีย (very tired, exhausted) : 1 meaning(s), 2 sentences
+- `exd-081` : เพื่อนสนิท (close friend) : 1 meaning(s), 2 sentences
+- `exd-082` : ฟกช้ำ (bruised) : 1 meaning(s), 2 sentences
 - `exd-083` : มวยไทย (Muay Thai) : 1 meaning(s), 2 sentences
+- `exd-084` : ม้าลาย (zebra) : 1 meaning(s), 2 sentences
+- `exd-085` : มิเตอร์ (meter (e.g in a taxi)) : 1 meaning(s), 2 sentences
 - `exd-086` : มีประโยชน์ (useful) : 1 meaning(s), 2 sentences
+- `exd-087` : เมารถ (carsick) : 1 meaning(s), 2 sentences
+- `exd-088` : เมาเรือ (seasick) : 1 meaning(s), 2 sentences
+- `exd-090` : เมื่อเร็วๆนี้ (recently, not long ago) : 1 meaning(s), 2 sentences
+- `exd-091` : เมื่อไหร่ก็ได้ (anytime) : 1 meaning(s), 2 sentences
 - `exd-098` : ลิฟต์ (elevator) : 1 meaning(s), 2 sentences
 - `exd-108` : เสียเวลา (to waste time) : 1 meaning(s), 2 sentences
 - `exd-111` : อาหารทะเล (seafood) : 1 meaning(s), 2 sentences
