@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3719 words**
+**Total: 3729 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3683,6 +3683,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-003` : สะดุด (to stumble, to trip; (figuratively) to be disrupted, to be interrupted) : 2 meaning(s), 4 sentences
 - `t4k-c05-005` : ฟู (fluffy, puffed up (e.g hair, face)) : 1 meaning(s), 2 sentences
 - `t4k-c05-007` : ข้อสังเกต (observation, remark) : 1 meaning(s), 2 sentences
+- `t4k-c05-009` : บาร์ (bar) : 1 meaning(s), 2 sentences
+- `t4k-c05-013` : ชั้นใน (underwear; inner layer, inner part) : 2 meaning(s), 4 sentences
+- `t4k-c05-015` : ผู้ช่วย (assistant) : 1 meaning(s), 2 sentences
+- `t4k-c05-018` : ก๊าซ (gas) : 1 meaning(s), 2 sentences
+- `t4k-c05-022` : มวล (mass, bulk) : 1 meaning(s), 2 sentences
+- `t4k-c05-024` : สังกัด (to belong to, to be affiliated with (e.g organization, institution)) : 1 meaning(s), 2 sentences
+- `t4k-c05-025` : ซับ (to absorb (e.g liquid), to wipe) : 1 meaning(s), 2 sentences
+- `t4k-c05-031` : ขบวนการ (movement, organization) : 1 meaning(s), 2 sentences
+- `t4k-c05-038` : ประหลาด (strange, odd, unusual) : 1 meaning(s), 2 sentences
+- `t4k-c05-041` : ข่าย ((figuratively) range, scope) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
