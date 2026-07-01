@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3899 words**
+**Total: 3909 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3885,11 +3885,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-028` : ในระหว่าง (during, while) : 1 meaning(s), 2 sentences
 - `exd-029` : เป็นไข้ (to have a fever) : 1 meaning(s), 2 sentences
 - `exd-030` : ผงซักฟอก (laundry detergent) : 1 meaning(s), 2 sentences
+- `exd-031` : ลงทะเบียน (to register) : 1 meaning(s), 2 sentences
 - `exd-032` : สนใจ (to be interested in, to care about) : 1 meaning(s), 2 sentences
+- `exd-033` : สามแยก (intersection (three way)) : 1 meaning(s), 2 sentences
+- `exd-034` : หนี (to escape, to avoid, to flee) : 1 meaning(s), 2 sentences
 - `exd-035` : ข้าวเช้า (breakfast) : 1 meaning(s), 2 sentences
+- `exd-036` : เงินใต้โต๊ะ (bribe, tea money) : 1 meaning(s), 2 sentences
 - `exd-037` : จริงๆ (really, true; actually, in fact) : 2 meaning(s), 4 sentences
+- `exd-038` : โชคร้าย (bad luck) : 1 meaning(s), 2 sentences
+- `exd-039` : ทันเวลา (on time, in time) : 1 meaning(s), 2 sentences
+- `exd-040` : ท่ารถทัวร์ (long-distance bus station (between provinces)) : 1 meaning(s), 2 sentences
 - `exd-041` : แบตเตอรี่ (battery (loanword)) : 1 meaning(s), 2 sentences
+- `exd-042` : ไปช้อปปิ้ง (to go shopping) : 1 meaning(s), 2 sentences
 - `exd-043` : ไปด้วยกัน (to go together) : 1 meaning(s), 2 sentences
+- `exd-044` : เมาเครื่องบิน (airsick) : 1 meaning(s), 2 sentences
+- `exd-045` : กระเป๋าเดินทาง (suitcase, luggage) : 1 meaning(s), 2 sentences
 - `exd-049` : ครึ่งชั่วโมง (half an hour) : 1 meaning(s), 2 sentences
 - `exd-050` : ความปลอดภัย (safety, security) : 1 meaning(s), 2 sentences
 - `exd-062` : ถังขยะ (trash bin, garbage can) : 1 meaning(s), 2 sentences
