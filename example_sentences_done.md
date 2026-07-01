@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3789 words**
+**Total: 3799 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3755,6 +3755,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-058` : นวล (soft, gentle (texture, light); pale (skin tone, color)) : 2 meaning(s), 4 sentences
 - `t4k-c07-061` : หรูหรา (luxurious, lavish, fancy) : 1 meaning(s), 2 sentences
 - `t4k-c07-062` : รับทราบ (to acknowledge, to take note (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c07-064` : แม่นยำ (accurate, exact) : 1 meaning(s), 2 sentences
+- `t4k-c07-072` : ผู้ฟัง (listener, audience) : 1 meaning(s), 2 sentences
+- `t4k-c07-075` : เทอม (academic term, semester) : 1 meaning(s), 2 sentences
+- `t4k-c07-076` : สถาปนิก (architect) : 1 meaning(s), 2 sentences
+- `t4k-c07-079` : ชิ้นส่วน (part, piece, component) : 1 meaning(s), 2 sentences
+- `t4k-c07-087` : ข้อจำกัด (limitation, restriction) : 1 meaning(s), 2 sentences
+- `t4k-c07-090` : เทียม (artificial, synthetic, imitation) : 1 meaning(s), 2 sentences
+- `t4k-c07-096` : ปลอด (safe from, free from) : 1 meaning(s), 2 sentences
+- `t4k-c07-098` : เหลี่ยม (edge, side; trick, tactic) : 2 meaning(s), 4 sentences
+- `t4k-c08-006` : ตัวแปร (variable) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
