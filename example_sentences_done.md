@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3739 words**
+**Total: 3749 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3703,7 +3703,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-068` : สติปัญญา (intelligence) : 1 meaning(s), 2 sentences
 - `t4k-c05-073` : คุกคาม (to threaten, to intimidate) : 1 meaning(s), 2 sentences
 - `t4k-c05-074` : จงใจ (to intend, deliberately, on purpose) : 1 meaning(s), 2 sentences
+- `t4k-c05-077` : เครื่องใช้ (appliance, utensil, equipment) : 1 meaning(s), 2 sentences
+- `t4k-c05-080` : ฟื้น (to recover, to restore) : 1 meaning(s), 2 sentences
+- `t4k-c05-083` : เดา (to guess, to take a guess (without certainty)) : 1 meaning(s), 2 sentences
+- `t4k-c05-084` : เพลิง (fire, blaze) : 1 meaning(s), 2 sentences
+- `t4k-c05-087` : สามัญ (common, basic, ordinary) : 1 meaning(s), 2 sentences
+- `t4k-c05-088` : จอม (master-, chief-, top- (sometimes used ironically)) : 1 meaning(s), 2 sentences
+- `t4k-c05-094` : จุ (to contain, to hold (capacity), to have a capacity of) : 1 meaning(s), 2 sentences
+- `t4k-c05-098` : แฟชั่น (fashion) : 1 meaning(s), 2 sentences
+- `t4k-c06-002` : คลุม (to cover, to envelop, to spread over) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
+- `t4k-c06-004` : แก่ตัว (to get older, to grow old) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
