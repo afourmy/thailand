@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3859 words**
+**Total: 3869 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3828,7 +3828,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c10-083` : ลัด (to cut across, to bypass, to take a shortcut) : 1 meaning(s), 2 sentences
 - `t4k-c10-084` : พยุง (to hold up someone or something to prevent falling, to support; (figuratively) to prop up, to sustain) : 2 meaning(s), 4 sentences
 - `t4k-c10-088` : คอนเสิร์ต (concert) : 1 meaning(s), 2 sentences
+- `t4k-c10-098` : สืบสวน (to investigate (e.g crime, accident)) : 1 meaning(s), 2 sentences
+- `t4k-c11-001` : โปร่ง (airy, open, well-ventilated; sparse, not dense) : 2 meaning(s), 4 sentences
+- `t4k-c11-006` : ต่ำสุด (minimum) : 1 meaning(s), 2 sentences
+- `t4k-c11-017` : ผู้รับผิดชอบ (person in charge, responsible person) : 1 meaning(s), 2 sentences
+- `t4k-c11-022` : ข้อสอบ (exam, test) : 1 meaning(s), 2 sentences
+- `t4k-c11-028` : บ่งชี้ (to indicate, to point out) : 1 meaning(s), 2 sentences
+- `t4k-c11-032` : เกร็ง (to contract (muscles), to harden; (figuratively) to be stiff, to be tense (nervous)) : 2 meaning(s), 4 sentences
+- `t4k-c11-034` : ทรุด (to sink, to subside, to collapse) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
+- `t4k-c11-040` : ต้าน (to resist, to oppose) : 1 meaning(s), 2 sentences
+- `t4k-c11-051` : โยกย้าย (to relocate, to transfer, to shift from one place to another) : 1 meaning(s), 2 sentences
 - `t4k-c11-109` : เค้ก (cake) : 1 meaning(s), 2 sentences
 - `exd-002` : ที่ (at; that, which; times, occasions) : 3 meaning(s), 6 sentences
 - `exd-003` : ได้ (can, to be able; to get, to obtain) : 2 meaning(s), 4 sentences
