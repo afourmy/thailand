@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3839 words**
+**Total: 3849 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3806,6 +3806,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-085` : เงย (to look up, to raise the head) : 1 meaning(s), 2 sentences
 - `t4k-c09-090` : หมายเหตุ (note, remark, comment) : 1 meaning(s), 2 sentences
 - `t4k-c09-092` : เร่งรัด (to rush, to speed up, to expedite) : 1 meaning(s), 2 sentences
+- `t4k-c09-096` : กระเทือน (to shake, to vibrate; (figuratively) to impact, to be disturbed, to be destabilized) : 2 meaning(s), 4 sentences
+- `t4k-c10-000` : ขว้าง (to throw (with force), to pitch (a ball), to hurl) : 1 meaning(s), 2 sentences
+- `t4k-c10-007` : โรแมนติก (romantic) : 1 meaning(s), 2 sentences
+- `t4k-c10-012` : ฟาร์ม (farm) : 1 meaning(s), 2 sentences
+- `t4k-c10-013` : ผุด (to emerge, to come up to the surface, to pop up, to arise unexpectedly) : 1 meaning(s), 2 sentences
+- `t4k-c10-015` : เข็น (to push (e.g cart, wheelchair)) : 1 meaning(s), 2 sentences
+- `t4k-c10-017` : โน้ม (to bend, to incline; (figuratively) to tend toward, to be inclined to) : 2 meaning(s), 4 sentences
+- `t4k-c10-026` : ผนวก (to append, to annex, to incorporate) : 1 meaning(s), 2 sentences
+- `t4k-c10-028` : เสี้ยว (fraction, small portion, small part) : 1 meaning(s), 2 sentences
+- `t4k-c10-034` : บ้านเกิด (hometown, homeland) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
