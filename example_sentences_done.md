@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3909 words**
+**Total: 3919 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3900,8 +3900,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-043` : ไปด้วยกัน (to go together) : 1 meaning(s), 2 sentences
 - `exd-044` : เมาเครื่องบิน (airsick) : 1 meaning(s), 2 sentences
 - `exd-045` : กระเป๋าเดินทาง (suitcase, luggage) : 1 meaning(s), 2 sentences
+- `exd-046` : เที่ยวชม (to go sightseeing) : 1 meaning(s), 2 sentences
+- `exd-047` : ขาออก (departures, outbound) : 1 meaning(s), 2 sentences
+- `exd-048` : ขี้มูก (boogers) : 1 meaning(s), 2 sentences
 - `exd-049` : ครึ่งชั่วโมง (half an hour) : 1 meaning(s), 2 sentences
 - `exd-050` : ความปลอดภัย (safety, security) : 1 meaning(s), 2 sentences
+- `exd-051` : ค่าปรับ (fine (for breaking the law)) : 1 meaning(s), 2 sentences
+- `exd-053` : โคมไฟ (lamp, lantern) : 1 meaning(s), 2 sentences
+- `exd-054` : ใจแคบ (narrow-minded, selfish) : 1 meaning(s), 2 sentences
+- `exd-055` : ชอบใจ (to be pleased, to find pleasing) : 1 meaning(s), 2 sentences
+- `exd-057` : ชุดสากล (western-style suit (formal attire)) : 1 meaning(s), 2 sentences
+- `exd-058` : ด้วยความยินดี (with pleasure, you're welcome) : 1 meaning(s), 2 sentences
+- `exd-059` : ตลาดน้ำ (floating market) : 1 meaning(s), 2 sentences
 - `exd-062` : ถังขยะ (trash bin, garbage can) : 1 meaning(s), 2 sentences
 - `exd-067` : ทำอาหาร (to cook) : 1 meaning(s), 2 sentences
 - `exd-069` : ที่อื่น (elsewhere, somewhere else) : 1 meaning(s), 2 sentences
