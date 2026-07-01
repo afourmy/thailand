@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3689 words**
+**Total: 3699 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3650,9 +3650,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-087` : ส่วนร่วม (participation, contribution) : 1 meaning(s), 2 sentences
 - `t4k-c03-094` : เข้ม (strong, dark, intense (e.g color, flavor)) : 1 meaning(s), 2 sentences
 - `t4k-c03-095` : ยุ (to incite, to provoke someone to do something (e.g risky or bad)) : 1 meaning(s), 2 sentences
+- `t4k-c03-096` : ข้อเสนอ (proposal, offer) : 1 meaning(s), 2 sentences
+- `t4k-c03-099` : ข่าวสาร (news, information) : 1 meaning(s), 2 sentences
+- `t4k-c04-001` : คัด (to select, to pick, to filter; to copy) : 2 meaning(s), 4 sentences
+- `t4k-c04-009` : ต่างชาติ (foreign, of another nationality) : 1 meaning(s), 2 sentences
+- `t4k-c04-015` : แก่น (core, kernel, essence) : 1 meaning(s), 2 sentences
+- `t4k-c04-023` : นางเอก (female lead, heroine) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
+- `t4k-c04-025` : รูปทรง (shape, form) : 1 meaning(s), 2 sentences
+- `t4k-c04-027` : อำนวย (to grant, to facilitate, to provide) : 1 meaning(s), 2 sentences
 - `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
 - `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
+- `t4k-c04-045` : เลขาธิการ (secretary general) : 1 meaning(s), 2 sentences
+- `t4k-c04-051` : วิถี (way, path, manner) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
