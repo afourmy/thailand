@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3729 words**
+**Total: 3739 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3693,6 +3693,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-031` : ขบวนการ (movement, organization) : 1 meaning(s), 2 sentences
 - `t4k-c05-038` : ประหลาด (strange, odd, unusual) : 1 meaning(s), 2 sentences
 - `t4k-c05-041` : ข่าย ((figuratively) range, scope) : 1 meaning(s), 2 sentences
+- `t4k-c05-046` : โชค (luck) : 1 meaning(s), 2 sentences
+- `t4k-c05-048` : ตอบรับ (to accept, to acknowledge, to respond positively) : 1 meaning(s), 2 sentences
+- `t4k-c05-052` : เชี่ยวชาญ (skilled, proficient, expert in, specialized in) : 1 meaning(s), 2 sentences
+- `t4k-c05-057` : ทางเดิน (walkway, footpath) : 1 meaning(s), 2 sentences
+- `t4k-c05-065` : ของเก่า (old things, antique, second-hand) : 1 meaning(s), 2 sentences
+- `t4k-c05-066` : รังสี (rays, radiation, beam) : 1 meaning(s), 2 sentences
+- `t4k-c05-067` : โบ (bow, ribbon) : 1 meaning(s), 2 sentences
+- `t4k-c05-068` : สติปัญญา (intelligence) : 1 meaning(s), 2 sentences
+- `t4k-c05-073` : คุกคาม (to threaten, to intimidate) : 1 meaning(s), 2 sentences
+- `t4k-c05-074` : จงใจ (to intend, deliberately, on purpose) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
