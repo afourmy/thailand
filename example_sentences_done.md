@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3829 words**
+**Total: 3839 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3796,6 +3796,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-037` : หากิน (to earn a living, to make a living) : 1 meaning(s), 2 sentences
 - `t4k-c09-042` : ไอน้ำ (steam (water)) : 1 meaning(s), 2 sentences
 - `t4k-c09-050` : จุดมุ่งหมาย (aim, objective, purpose) : 1 meaning(s), 2 sentences
+- `t4k-c09-053` : นายอำเภอ (district chief, district officer) : 1 meaning(s), 2 sentences
+- `t4k-c09-058` : เป็นกลาง (neutral, impartial, not taking sides) : 1 meaning(s), 2 sentences
+- `t4k-c09-061` : เตรียมพร้อม (to be prepared, to get ready) : 1 meaning(s), 2 sentences
+- `t4k-c09-064` : ถ่ายทำ (to produce a movie, to shoot a movie) : 1 meaning(s), 2 sentences
+- `t4k-c09-070` : เกรด (grade (school)) : 1 meaning(s), 2 sentences
+- `t4k-c09-072` : รับผิด (to take responsibility, to admit fault) : 1 meaning(s), 2 sentences
+- `t4k-c09-081` : แทรกแซง (to intervene) : 1 meaning(s), 2 sentences
+- `t4k-c09-085` : เงย (to look up, to raise the head) : 1 meaning(s), 2 sentences
+- `t4k-c09-090` : หมายเหตุ (note, remark, comment) : 1 meaning(s), 2 sentences
+- `t4k-c09-092` : เร่งรัด (to rush, to speed up, to expedite) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
