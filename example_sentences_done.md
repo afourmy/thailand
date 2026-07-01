@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3749 words**
+**Total: 3759 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3714,7 +3714,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-002` : คลุม (to cover, to envelop, to spread over) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-004` : แก่ตัว (to get older, to grow old) : 1 meaning(s), 2 sentences
+- `t4k-c06-009` : ที่ทาง (available space, available place) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
+- `t4k-c06-014` : ลือ (to spread (e.g news, rumor), to be widely known) : 1 meaning(s), 2 sentences
+- `t4k-c06-021` : สารเคมี (chemical substance) : 1 meaning(s), 2 sentences
+- `t4k-c06-027` : เปล่ง (to emit (sound, light), to radiate) : 1 meaning(s), 2 sentences
+- `t4k-c06-028` : ระดม (to mobilize, to gather, to assemble (e.g people, resources)) : 1 meaning(s), 2 sentences
+- `t4k-c06-030` : พิทักษ์ (to protect, to defend, to safeguard) : 1 meaning(s), 2 sentences
+- `t4k-c06-032` : จูงใจ (to motivate, to persuade, to influence) : 1 meaning(s), 2 sentences
+- `t4k-c06-034` : แปร (to transform, to alter) : 1 meaning(s), 2 sentences
+- `t4k-c06-036` : ดัก (to set a trap, to ambush, to intercept) : 1 meaning(s), 2 sentences
+- `t4k-c06-039` : ความเคลื่อนไหว (movement, motion, activity) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
