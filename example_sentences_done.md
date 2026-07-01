@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3669 words**
+**Total: 3679 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3630,6 +3630,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-029` : เลวร้าย (bad, awful, terrible) : 1 meaning(s), 2 sentences
 - `t4k-c03-030` : ตลก (funny) : 1 meaning(s), 2 sentences
 - `t4k-c03-031` : คำนึง (to take into account, to bear in mind) : 1 meaning(s), 2 sentences
+- `t4k-c03-032` : เพื่อนบ้าน (neighbor) : 1 meaning(s), 2 sentences
+- `t4k-c03-033` : ปฏิบัติการ (operation, execution (of a plan, a task)) : 1 meaning(s), 2 sentences
+- `t4k-c03-034` : หมายเลข (number) : 1 meaning(s), 2 sentences
+- `t4k-c03-037` : จัดทำ (to prepare, to produce (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c03-041` : เตรียมตัว (to prepare oneself, to get ready) : 1 meaning(s), 2 sentences
+- `t4k-c03-045` : หลักเกณฑ์ (criteria, rules, standards) : 1 meaning(s), 2 sentences
+- `t4k-c03-051` : ความพยายาม (effort, attempt) : 1 meaning(s), 2 sentences
+- `t4k-c03-052` : เข้าถึง (to access, to reach) : 1 meaning(s), 2 sentences
+- `t4k-c03-054` : ดารา (celebrity, star) : 1 meaning(s), 2 sentences
+- `t4k-c03-055` : โน้ต (note (e.g music, study)) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
 - `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
 - `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
