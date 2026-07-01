@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3949 words**
+**Total: 3954 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3951,5 +3951,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-101` : เลี่ยน (too sweet, too oily, too greasy (used for food or figuratively)) : 1 meaning(s), 2 sentences
 - `exd-103` : สถานีขนส่ง (bus station, passenger terminal) : 1 meaning(s), 2 sentences
 - `exd-104` : สถานีรถไฟใต้ดิน (subway station) : 1 meaning(s), 2 sentences
+- `exd-105` : สถานีรถไฟฟ้า (Skytrain station) : 1 meaning(s), 2 sentences
 - `exd-108` : เสียเวลา (to waste time) : 1 meaning(s), 2 sentences
+- `exd-109` : อ่านออกเขียนได้ (to be able to read and write, to be literate) : 1 meaning(s), 2 sentences
+- `exd-110` : อาบแดด (to sunbathe) : 1 meaning(s), 2 sentences
 - `exd-111` : อาหารทะเล (seafood) : 1 meaning(s), 2 sentences
+- `exd-112` : อีเมล (email (loanword)) : 1 meaning(s), 2 sentences
+- `exd-113` : ไอศกรีม (ice-cream (loanword)) : 1 meaning(s), 2 sentences
