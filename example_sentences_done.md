@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3759 words**
+**Total: 3769 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3725,6 +3725,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-034` : แปร (to transform, to alter) : 1 meaning(s), 2 sentences
 - `t4k-c06-036` : ดัก (to set a trap, to ambush, to intercept) : 1 meaning(s), 2 sentences
 - `t4k-c06-039` : ความเคลื่อนไหว (movement, motion, activity) : 1 meaning(s), 2 sentences
+- `t4k-c06-041` : ติดตั้ง (to install, to set up) : 1 meaning(s), 2 sentences
+- `t4k-c06-042` : ที่ทำการ (administrative office) : 1 meaning(s), 2 sentences
+- `t4k-c06-052` : นักวิทยาศาสตร์ (scientist) : 1 meaning(s), 2 sentences
+- `t4k-c06-053` : นักรบ (warrior, fighter) : 1 meaning(s), 2 sentences
+- `t4k-c06-055` : นายทหาร (military officer) : 1 meaning(s), 2 sentences
+- `t4k-c06-058` : ใจกลาง (center, heart (of a place)) : 1 meaning(s), 2 sentences
+- `t4k-c06-067` : เท่าเทียม (equal) : 1 meaning(s), 2 sentences
+- `t4k-c06-070` : รายชื่อ (list of names) : 1 meaning(s), 2 sentences
+- `t4k-c06-075` : วิทยาลัย (college, specialized educational institution (often smaller than university)) : 1 meaning(s), 2 sentences
+- `t4k-c06-077` : วางตัว (to behave, to conduct oneself) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
