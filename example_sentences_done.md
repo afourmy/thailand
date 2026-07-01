@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3939 words**
+**Total: 3949 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3940,6 +3940,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-088` : เมาเรือ (seasick) : 1 meaning(s), 2 sentences
 - `exd-090` : เมื่อเร็วๆนี้ (recently, not long ago) : 1 meaning(s), 2 sentences
 - `exd-091` : เมื่อไหร่ก็ได้ (anytime) : 1 meaning(s), 2 sentences
+- `exd-092` : แมลงกัดต่อย (insect bite) : 1 meaning(s), 2 sentences
+- `exd-093` : ไมเกรน (migraine (loanword)) : 1 meaning(s), 2 sentences
+- `exd-094` : ยาแก้ปวด (painkiller) : 1 meaning(s), 2 sentences
+- `exd-096` : รถเช่า (car rental) : 1 meaning(s), 2 sentences
+- `exd-097` : ฤดูแล้ง, หน้าแล้ง (dry season (November - April)) : 1 meaning(s), 2 sentences
 - `exd-098` : ลิฟต์ (elevator) : 1 meaning(s), 2 sentences
+- `exd-099` : ลืมสนิท (to completely forget) : 1 meaning(s), 2 sentences
+- `exd-100` : ลูกเลี้ยง (stepchild) : 1 meaning(s), 2 sentences
+- `exd-101` : เลี่ยน (too sweet, too oily, too greasy (used for food or figuratively)) : 1 meaning(s), 2 sentences
+- `exd-103` : สถานีขนส่ง (bus station, passenger terminal) : 1 meaning(s), 2 sentences
+- `exd-104` : สถานีรถไฟใต้ดิน (subway station) : 1 meaning(s), 2 sentences
 - `exd-108` : เสียเวลา (to waste time) : 1 meaning(s), 2 sentences
 - `exd-111` : อาหารทะเล (seafood) : 1 meaning(s), 2 sentences
