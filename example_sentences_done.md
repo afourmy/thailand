@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3769 words**
+**Total: 3779 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3735,6 +3735,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-070` : รายชื่อ (list of names) : 1 meaning(s), 2 sentences
 - `t4k-c06-075` : วิทยาลัย (college, specialized educational institution (often smaller than university)) : 1 meaning(s), 2 sentences
 - `t4k-c06-077` : วางตัว (to behave, to conduct oneself) : 1 meaning(s), 2 sentences
+- `t4k-c06-083` : หุ้ม (to wrap, to cover completely) : 1 meaning(s), 2 sentences
+- `t4k-c06-086` : โยง (to link, to connect, to tie together) : 1 meaning(s), 2 sentences
+- `t4k-c06-094` : นักวิจัย (researcher) : 1 meaning(s), 2 sentences
+- `t4k-c06-097` : ละเลย (to neglect, to ignore) : 1 meaning(s), 2 sentences
+- `t4k-c06-098` : พันธุกรรม (heredity, genetics) : 1 meaning(s), 2 sentences
+- `t4k-c07-002` : ทัศนะ (viewpoint, point of view, stance (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c07-009` : ตกต่ำ (to decline, to deteriorate) : 1 meaning(s), 2 sentences
+- `t4k-c07-022` : รวบ (to gather, to collect together, to bundle up, to tie up; to arrest (police)) : 2 meaning(s), 4 sentences
+- `t4k-c07-023` : จุดเริ่มต้น (starting point) : 1 meaning(s), 2 sentences
+- `t4k-c07-026` : ฆ่าตัวตาย (to commit suicide) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
