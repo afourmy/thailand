@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3879 words**
+**Total: 3889 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3850,10 +3850,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-110` : ยิ้มแย้ม (to smile happily, to have a cheerful facial expression) : 1 meaning(s), 2 sentences
 - `t4k-c11-122` : เหี่ยว (to lose freshness, to shrivel, to become dry and wrinkled) : 1 meaning(s), 2 sentences
 - `t4k-c11-125` : ประถมศึกษา (primary education) : 1 meaning(s), 2 sentences
+- `t4k-c11-128` : จิ๋ว (very small, tiny, miniature) : 1 meaning(s), 2 sentences
+- `t4k-c11-129` : แอลกอฮอล์ (alcohol) : 1 meaning(s), 2 sentences
+- `t4k-c11-131` : ลูบ (to stroke, to rub gently (gently glide the hand over a surface, e.g cat, skin)) : 1 meaning(s), 2 sentences
+- `t4k-c11-134` : สปา (spa) : 1 meaning(s), 2 sentences
+- `new-1` : ยาปฏิชีวนะ (antibiotics) : 1 meaning(s), 2 sentences
+- `new-2` : จูน (to fine-tune, to adjust, to calibrate (loanword, from "tune")) : 1 meaning(s), 2 sentences
 - `exd-002` : ที่ (at; that, which; times, occasions) : 3 meaning(s), 6 sentences
 - `exd-003` : ได้ (can, to be able; to get, to obtain) : 2 meaning(s), 4 sentences
 - `exd-004` : หรือ (or) : 1 meaning(s), 2 sentences
+- `exd-005` : ขี้อาย (shy) : 1 meaning(s), 2 sentences
+- `exd-006` : ที่ดิน (land) : 1 meaning(s), 2 sentences
+- `exd-007` : ผิวไหม้ (sunburn) : 1 meaning(s), 2 sentences
 - `exd-008` : ไม่ (no, not) : 1 meaning(s), 2 sentences
+- `exd-009` : น้า (aunt, uncle (on mother's side, younger than mother)) : 1 meaning(s), 2 sentences
 - `exd-010` : ผล (result, effect, outcome; classifier for fruit) : 2 meaning(s), 4 sentences
 - `exd-016` : กิโลเมตร (kilometer) : 1 meaning(s), 2 sentences
 - `exd-017` : นอกจาก (except) : 1 meaning(s), 2 sentences
