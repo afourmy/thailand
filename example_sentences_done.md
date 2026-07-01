@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3809 words**
+**Total: 3819 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3776,6 +3776,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c08-065` : เท็จ (false, untrue) : 1 meaning(s), 2 sentences
 - `t4k-c08-066` : ผ่านพ้น (to pass through, to get through, to be over) : 1 meaning(s), 2 sentences
 - `t4k-c08-073` : ตรึง (to fix, to pin, to hold in place) : 1 meaning(s), 2 sentences
+- `t4k-c08-081` : ดาวเทียม (satellite) : 1 meaning(s), 2 sentences
+- `t4k-c08-083` : ถ่ายภาพ (to take a photo (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c08-084` : ครอบงำ (to control, to dominate, to overpower) : 1 meaning(s), 2 sentences
+- `t4k-c08-092` : แบ่งแยก (to be divided, to split, to separate) : 1 meaning(s), 2 sentences
+- `t4k-c08-096` : เซนติเมตร (cm) : 1 meaning(s), 2 sentences
+- `t4k-c08-098` : อิฐ (brick) : 1 meaning(s), 2 sentences
+- `t4k-c09-000` : แวดล้อม (to surround, surroundings) : 1 meaning(s), 2 sentences
+- `t4k-c09-005` : ปล่อยตัว (to discharge, to release someone (e.g from detention); to let oneself go, to neglect oneself) : 2 meaning(s), 4 sentences
+- `t4k-c09-006` : เลน (lane; mud) : 2 meaning(s), 4 sentences
+- `t4k-c09-008` : ประจำตัว (personal (e.g card, doctor, etc)) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
