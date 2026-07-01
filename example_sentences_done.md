@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3889 words**
+**Total: 3899 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3865,6 +3865,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-008` : ไม่ (no, not) : 1 meaning(s), 2 sentences
 - `exd-009` : น้า (aunt, uncle (on mother's side, younger than mother)) : 1 meaning(s), 2 sentences
 - `exd-010` : ผล (result, effect, outcome; classifier for fruit) : 2 meaning(s), 4 sentences
+- `exd-011` : ไหม้ (burnt, scorched) : 1 meaning(s), 2 sentences
+- `exd-012` : อเมริกัน (American) : 1 meaning(s), 2 sentences
+- `exd-013` : ออสเตรเลีย (Australia (loanword)) : 1 meaning(s), 2 sentences
+- `exd-014` : เอเชีย (Asia (loanword)) : 1 meaning(s), 2 sentences
+- `exd-015` : กลม (round, circular) : 1 meaning(s), 2 sentences
 - `exd-016` : กิโลเมตร (kilometer) : 1 meaning(s), 2 sentences
 - `exd-017` : นอกจาก (except) : 1 meaning(s), 2 sentences
 - `exd-018` : มาถึง (to arrive (towards the speaker)) : 1 meaning(s), 2 sentences
@@ -3873,8 +3878,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-021` : จำเป็น (necessary, required) : 1 meaning(s), 2 sentences
 - `exd-022` : ซ่อม (to repair, to fix) : 1 meaning(s), 2 sentences
 - `exd-023` : ซื้อของ (to buy things, to go shopping) : 1 meaning(s), 2 sentences
+- `exd-024` : การประชุม (meeting, conference) : 1 meaning(s), 2 sentences
+- `exd-025` : ใจดำ (mean, cruel, heartless) : 1 meaning(s), 2 sentences
+- `exd-026` : ถ้วยชาม (dishes) : 1 meaning(s), 2 sentences
 - `exd-027` : น้อยกว่า (less than, fewer than) : 1 meaning(s), 2 sentences
+- `exd-028` : ในระหว่าง (during, while) : 1 meaning(s), 2 sentences
 - `exd-029` : เป็นไข้ (to have a fever) : 1 meaning(s), 2 sentences
+- `exd-030` : ผงซักฟอก (laundry detergent) : 1 meaning(s), 2 sentences
 - `exd-032` : สนใจ (to be interested in, to care about) : 1 meaning(s), 2 sentences
 - `exd-035` : ข้าวเช้า (breakfast) : 1 meaning(s), 2 sentences
 - `exd-037` : จริงๆ (really, true; actually, in fact) : 2 meaning(s), 4 sentences
