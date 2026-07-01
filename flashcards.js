@@ -239,7 +239,7 @@
     });
     tabs += '</div>';
     panels += '</div>';
-    return '<div class="ex-block ex-block--tabs">' + tabs + panels + '</div>';
+    return '<div class="ex-block ex-block--tabs" data-word-id="' + escAttr(word.id) + '">' + tabs + panels + '</div>';
   }
   // Activate the clicked meaning tab and reveal its panel.
   function switchExTab(tab) {
@@ -254,6 +254,9 @@
     block.querySelectorAll(".ex-panel").forEach(function (p) {
       p.classList.toggle("is-active", p.getAttribute("data-ex-panel") === idx);
     });
+    // Lazily warm this meaning's example audio the first time it's revealed.
+    var word = wordById[block.getAttribute("data-word-id")];
+    if (word) warmExMeaning(word, parseInt(idx, 10));
   }
 
   // Speaker button for the word itself, by explicit src, played through the same
@@ -333,12 +336,25 @@
     try { fetch(src).catch(function () { warmed[src] = false; }); }
     catch (e) { warmed[src] = false; }
   }
+  // Warm one meaning group's Thai example-sentence audio. English sentences are
+  // intentionally not prefetched.
+  function warmExMeaning(word, mi) {
+    var g = (word.examples || [])[mi];
+    if (!g) return;
+    (g.sentences || []).forEach(function (s, si) {
+      warmAudio(exAudioSrc(word.id, mi, si, false)); // Thai sentence
+    });
+  }
   function preloadCard(id) {
     if (!id) return;
     var info = parseId(id);
     if (!info || !info.word) return;
-    warmAudio(sideAudio(info.word, true));   // Thai
-    warmAudio(sideAudio(info.word, false));  // English
+    var word = info.word;
+    warmAudio(sideAudio(word, true));   // Thai word
+    warmAudio(sideAudio(word, false));  // English word
+    // Warm only the first meaning's example sentences up front (that's the tab
+    // shown on reveal); other meanings are warmed lazily on tab-switch.
+    warmExMeaning(word, 0);
   }
 
   function cardId(word, dir) { return word.id + ":" + dir; }
