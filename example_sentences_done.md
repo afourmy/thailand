@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3709 words**
+**Total: 3719 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3673,6 +3673,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-072` : จัดสรร (to allocate, to distribute, to assign) : 1 meaning(s), 2 sentences
 - `t4k-c04-073` : คัดค้าน (to oppose, to protest against) : 1 meaning(s), 2 sentences
 - `t4k-c04-078` : ปัน (to share, to divide) : 1 meaning(s), 2 sentences
+- `t4k-c04-082` : ยุติ (to terminate, to resolve, to settle (e.g a conflict, a case)) : 1 meaning(s), 2 sentences
+- `t4k-c04-088` : ราบ (flat, smooth) : 1 meaning(s), 2 sentences
+- `t4k-c04-089` : ดึงดูด (to attract, to appeal) : 1 meaning(s), 2 sentences
+- `t4k-c04-093` : สื่อมวลชน (mass media) : 1 meaning(s), 2 sentences
+- `t4k-c04-095` : เห็นชอบ (to approve, to consent, to endorse) : 1 meaning(s), 2 sentences
+- `t4k-c04-096` : ขยับ (to move slightly, to adjust one's position) : 1 meaning(s), 2 sentences
+- `t4k-c05-001` : บทความ (article, essay, text) : 1 meaning(s), 2 sentences
+- `t4k-c05-003` : สะดุด (to stumble, to trip; (figuratively) to be disrupted, to be interrupted) : 2 meaning(s), 4 sentences
+- `t4k-c05-005` : ฟู (fluffy, puffed up (e.g hair, face)) : 1 meaning(s), 2 sentences
+- `t4k-c05-007` : ข้อสังเกต (observation, remark) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
