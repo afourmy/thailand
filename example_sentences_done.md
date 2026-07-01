@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3679 words**
+**Total: 3689 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3640,6 +3640,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-052` : เข้าถึง (to access, to reach) : 1 meaning(s), 2 sentences
 - `t4k-c03-054` : ดารา (celebrity, star) : 1 meaning(s), 2 sentences
 - `t4k-c03-055` : โน้ต (note (e.g music, study)) : 1 meaning(s), 2 sentences
+- `t4k-c03-057` : แดน (land, area) : 1 meaning(s), 2 sentences
+- `t4k-c03-064` : ครอบครอง (to possess, to own) : 1 meaning(s), 2 sentences
+- `t4k-c03-066` : คิว (queue) : 1 meaning(s), 2 sentences
+- `t4k-c03-073` : กลไก (mechanism, system, machinery) : 1 meaning(s), 2 sentences
+- `t4k-c03-079` : ชายหนุ่ม (young man) : 1 meaning(s), 2 sentences
+- `t4k-c03-080` : เดี่ยว (single, solo) : 1 meaning(s), 2 sentences
+- `t4k-c03-083` : เงา (shadow, shade, reflection) : 1 meaning(s), 2 sentences
+- `t4k-c03-087` : ส่วนร่วม (participation, contribution) : 1 meaning(s), 2 sentences
+- `t4k-c03-094` : เข้ม (strong, dark, intense (e.g color, flavor)) : 1 meaning(s), 2 sentences
+- `t4k-c03-095` : ยุ (to incite, to provoke someone to do something (e.g risky or bad)) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
 - `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
 - `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
