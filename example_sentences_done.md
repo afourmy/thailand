@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3699 words**
+**Total: 3709 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3663,6 +3663,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
 - `t4k-c04-045` : เลขาธิการ (secretary general) : 1 meaning(s), 2 sentences
 - `t4k-c04-051` : วิถี (way, path, manner) : 1 meaning(s), 2 sentences
+- `t4k-c04-057` : ยากลำบาก (difficult, hard) : 1 meaning(s), 2 sentences
+- `t4k-c04-059` : ผู้ใช้ (user) : 1 meaning(s), 2 sentences
+- `t4k-c04-060` : รวมตัว (to gather, to assemble) : 1 meaning(s), 2 sentences
+- `t4k-c04-061` : โชว์ (show) : 1 meaning(s), 2 sentences
+- `t4k-c04-064` : ความจำ (memory) : 1 meaning(s), 2 sentences
+- `t4k-c04-067` : ที่ปรึกษา (advisor, consultant) : 1 meaning(s), 2 sentences
+- `t4k-c04-068` : จม (to sink, to be submerged) : 1 meaning(s), 2 sentences
+- `t4k-c04-072` : จัดสรร (to allocate, to distribute, to assign) : 1 meaning(s), 2 sentences
+- `t4k-c04-073` : คัดค้าน (to oppose, to protest against) : 1 meaning(s), 2 sentences
+- `t4k-c04-078` : ปัน (to share, to divide) : 1 meaning(s), 2 sentences
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
