@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3849 words**
+**Total: 3859 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3816,8 +3816,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c10-026` : ผนวก (to append, to annex, to incorporate) : 1 meaning(s), 2 sentences
 - `t4k-c10-028` : เสี้ยว (fraction, small portion, small part) : 1 meaning(s), 2 sentences
 - `t4k-c10-034` : บ้านเกิด (hometown, homeland) : 1 meaning(s), 2 sentences
+- `t4k-c10-036` : ดำน้ำ (to dive) : 1 meaning(s), 2 sentences
+- `t4k-c10-038` : มวย (boxing) : 1 meaning(s), 2 sentences
+- `t4k-c10-041` : เก๋ (stylish, chic, cool) : 1 meaning(s), 2 sentences
+- `t4k-c10-049` : อาบ (to bathe) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
+- `t4k-c10-063` : เอื้อม (to reach out, to stretch out; (figuratively) to be able to attain) : 2 meaning(s), 4 sentences
+- `t4k-c10-065` : มัธยมศึกษา (secondary education) : 1 meaning(s), 2 sentences
+- `t4k-c10-074` : อุด (to plug, to fill, to block a hole) : 1 meaning(s), 2 sentences
+- `t4k-c10-083` : ลัด (to cut across, to bypass, to take a shortcut) : 1 meaning(s), 2 sentences
+- `t4k-c10-084` : พยุง (to hold up someone or something to prevent falling, to support; (figuratively) to prop up, to sustain) : 2 meaning(s), 4 sentences
+- `t4k-c10-088` : คอนเสิร์ต (concert) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
 - `t4k-c11-109` : เค้ก (cake) : 1 meaning(s), 2 sentences
 - `exd-002` : ที่ (at; that, which; times, occasions) : 3 meaning(s), 6 sentences
