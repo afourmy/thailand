@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3799 words**
+**Total: 3809 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3765,7 +3765,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-096` : ปลอด (safe from, free from) : 1 meaning(s), 2 sentences
 - `t4k-c07-098` : เหลี่ยม (edge, side; trick, tactic) : 2 meaning(s), 4 sentences
 - `t4k-c08-006` : ตัวแปร (variable) : 1 meaning(s), 2 sentences
+- `t4k-c08-013` : เลือน (to fade away, to become blurred, to gradually disappear) : 1 meaning(s), 2 sentences
+- `t4k-c08-016` : ขั้นพื้นฐาน (basic level, foundation, introductory) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
+- `t4k-c08-032` : คำปรึกษา (advice, guidance) : 1 meaning(s), 2 sentences
+- `t4k-c08-047` : สารคดี (documentary) : 1 meaning(s), 2 sentences
+- `t4k-c08-055` : ยกมือ (to raise one's hand) : 1 meaning(s), 2 sentences
+- `t4k-c08-057` : ล่อ (to lure, to bait; to tease, to provoke) : 2 meaning(s), 4 sentences
+- `t4k-c08-062` : แวว (glimpse, hint, trace; (figuratively) potential, prospect) : 2 meaning(s), 4 sentences
+- `t4k-c08-065` : เท็จ (false, untrue) : 1 meaning(s), 2 sentences
+- `t4k-c08-066` : ผ่านพ้น (to pass through, to get through, to be over) : 1 meaning(s), 2 sentences
+- `t4k-c08-073` : ตรึง (to fix, to pin, to hold in place) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
