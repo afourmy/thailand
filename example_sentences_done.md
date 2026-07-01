@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3819 words**
+**Total: 3829 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3786,6 +3786,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-005` : ปล่อยตัว (to discharge, to release someone (e.g from detention); to let oneself go, to neglect oneself) : 2 meaning(s), 4 sentences
 - `t4k-c09-006` : เลน (lane; mud) : 2 meaning(s), 4 sentences
 - `t4k-c09-008` : ประจำตัว (personal (e.g card, doctor, etc)) : 1 meaning(s), 2 sentences
+- `t4k-c09-011` : ชุ่ม (moist, damp, soaked) : 1 meaning(s), 2 sentences
+- `t4k-c09-016` : ตามลำพัง (alone, by oneself) : 1 meaning(s), 2 sentences
+- `t4k-c09-018` : คุณวุฒิ (qualification, academic degree) : 1 meaning(s), 2 sentences
+- `t4k-c09-027` : บอกกล่าว (to inform, to notify) : 1 meaning(s), 2 sentences
+- `t4k-c09-029` : หมึก (ink) : 1 meaning(s), 2 sentences
+- `t4k-c09-032` : ช่อ (cluster, bunch; bouquet (of flowers)) : 2 meaning(s), 4 sentences
+- `t4k-c09-034` : ดัชนี (index (book, data), indicator) : 1 meaning(s), 2 sentences
+- `t4k-c09-037` : หากิน (to earn a living, to make a living) : 1 meaning(s), 2 sentences
+- `t4k-c09-042` : ไอน้ำ (steam (water)) : 1 meaning(s), 2 sentences
+- `t4k-c09-050` : จุดมุ่งหมาย (aim, objective, purpose) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
