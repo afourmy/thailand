@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3779 words**
+**Total: 3789 words**
 
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
@@ -3745,6 +3745,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-022` : รวบ (to gather, to collect together, to bundle up, to tie up; to arrest (police)) : 2 meaning(s), 4 sentences
 - `t4k-c07-023` : จุดเริ่มต้น (starting point) : 1 meaning(s), 2 sentences
 - `t4k-c07-026` : ฆ่าตัวตาย (to commit suicide) : 1 meaning(s), 2 sentences
+- `t4k-c07-029` : ผู้ดูแล (caretaker, supervisor) : 1 meaning(s), 2 sentences
+- `t4k-c07-032` : ห้องเรียน (classroom) : 1 meaning(s), 2 sentences
+- `t4k-c07-033` : จัดวาง (to arrange, to lay out, to place) : 1 meaning(s), 2 sentences
+- `t4k-c07-038` : รุก (to attack forward, to advance (e.g army, chess piece)) : 1 meaning(s), 2 sentences
+- `t4k-c07-040` : ฝุ่น (dust) : 1 meaning(s), 2 sentences
+- `t4k-c07-053` : สันติภาพ (peace (opposite of war)) : 1 meaning(s), 2 sentences
+- `t4k-c07-057` : สูญหาย (to be lost, to go missing, to disappear) : 1 meaning(s), 2 sentences
+- `t4k-c07-058` : นวล (soft, gentle (texture, light); pale (skin tone, color)) : 2 meaning(s), 4 sentences
+- `t4k-c07-061` : หรูหรา (luxurious, lavish, fancy) : 1 meaning(s), 2 sentences
+- `t4k-c07-062` : รับทราบ (to acknowledge, to take note (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
