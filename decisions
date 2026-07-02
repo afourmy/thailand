@@ -106,6 +106,11 @@ t4k-c07-035 สดชื่น: eng 'refreshed, invigorated, lively (e.g feeling
 t4k-c08-011 เบื่อหน่าย: eng 'bored, weary, fed up (formal)'
 t4k-c08-085 ชื่นชอบ: eng 'to like, to be fond of (formal)'
 t4k-c09-051 หวั่นไหว: eng 'emotionally shaken, deeply moved (unstable feelings)'
+t4k-c11-030 ตึงเครียด: eng 'tense, stressful, high-pressure'
+t4k-c01-066 สมบัติ: eng 'property, assets, possessions'
+t4k-c01-094 เกษตร: eng 'farming, agriculture'
+t4k-c02-069 ทรัพย์สิน: eng 'assets, property, belongings'
+t4k-c02-078 ผลประโยชน์: eng 'benefit, gain, interest'
 
 yt-c17-020 สภาวะ - สภาวะอารมณ์: split into two cards:
 สภาวะ: 'condition, state'
@@ -143,4 +148,4 @@ t4k-c07-056 เพียร: make it 'ความเพียร': 'perseveranc
 
 rare: t4k-c07-056, t4k-c09-049, t4k-c09-083 หลักประกัน, t4k-c08-079 กู้ยืม, t4k-c09-098 เงินตรา, t4k-c10-004 ผลตอบแทน, t4k-c10-073 วงเงิน
 
-remove card: tsl-633 ฉลาดหลักแหลม, t4k-c04-006 เอื้อ, t4k-c08-090 อากร, wlt-c18-077 บัตร A.T.M., wlt-c03-027 ใบละห้า, t4k-c11-124 หน้าร้าน, t4k-c05-059 ชื่น
+remove card: tsl-633 ฉลาดหลักแหลม, t4k-c04-006 เอื้อ, t4k-c08-090 อากร, wlt-c18-077 บัตร A.T.M., wlt-c03-027 ใบละห้า, t4k-c11-124 หน้าร้าน, t4k-c05-059 ชื่น, t4k-c10-040 อภัย, wlt-c15-093 เบิกเงิน
