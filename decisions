@@ -59,9 +59,15 @@ yt-c13-056 สภา: eng 'council, assembly, parliament'
 thaipod-0579 ปล้น: eng 'to rob (often with force or in groups, like a bank)'
 yt-c22-065 รัฐประหาร: eng 'coup d'état (overthrow of a government by force)'
 chula-l5-057 ตัดสิน: eng 'to judge, to decide; to rule, to give a verdict'
+thaipod-0893 ลักลอบ: eng 'to smuggle, to do something illegally, to carry out an activity in hiding'
+yt-c16-059 ทุจริต: eng 'corruption, fraud'
 
 
+tamago-l3-532 เอาผิดกับ: eng 'to prosecute, to take legal action against, to hold someone legally accountable'
 
+chula-l5-073 หลักฐาน, เครื่องพิสูจน์: split in two cards:
+หลักฐาน: 'proof, evidence'
+เครื่องพิสูจน์: 'method of verification, instrument of proof (formal)'
 
 yt-c14-026 ตม (ตรวจคนเข้าเมือง): make it 'ตรวจคนเข้าเมือง (ตม)': 'immigration (e.g department, office)'
 
@@ -111,4 +117,4 @@ yt-c14-079 หัวใส, หัวหมอ: split in two cards:
 หัวใส: 'clever, quick-witted, smart-thinking'
 หัวหมอ: 'cunning, sly, clever in a way that exploits loopholes'
 
-remove card: yt-c16-014 คถ (คิดถึง), yt-c16-015 ทร (ทำไร), yt-c16-016 พส (พี่สาว, เพื่อนสาว), yt-c16-017 อห (โอ้โห - อีเหี้ย, อีห่า), yt-c16-019 ชห, ฉห (ชิบหาย), yt-c16-020 วดฟ, yt-c16-021 กลป (กำลังไป), yt-c16-022 มปร, yt-c16-023 มมปห, yt-c16-024 มป (ไม่ไป), yt-c16-025 พน, yt-c16-027 ตปท (ต่างประเทศ), yt-c16-028 คหสต (ความคิดเห็นส่วนตัว), yt-c16-071 อย่ามาสะตอ, yt-c20-089 พ่อง (พ่อมึง), แม่ง (แม่มึง), yt-c22-052 หัวหมอ
+remove card: yt-c16-014 คถ (คิดถึง), yt-c16-015 ทร (ทำไร), yt-c16-016 พส (พี่สาว, เพื่อนสาว), yt-c16-017 อห (โอ้โห - อีเหี้ย, อีห่า), yt-c16-019 ชห, ฉห (ชิบหาย), yt-c16-020 วดฟ, yt-c16-021 กลป (กำลังไป), yt-c16-022 มปร, yt-c16-023 มมปห, yt-c16-024 มป (ไม่ไป), yt-c16-025 พน, yt-c16-027 ตปท (ต่างประเทศ), yt-c16-028 คหสต (ความคิดเห็นส่วนตัว), yt-c16-071 อย่ามาสะตอ, yt-c20-089 พ่อง (พ่อมึง), แม่ง (แม่มึง), yt-c22-052 หัวหมอ, thaipod-1296 เอาผิด
