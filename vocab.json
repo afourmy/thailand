@@ -22395,6 +22395,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "someone who frequently nags or complains",
+        "sentences": [
+          {
+            "thai": "ยายเป็นคนขี้บ่น แต่ก็รักหลานมาก",
+            "en": "Grandma nags a lot, but she loves her grandkids.",
+            "audio_src": "ยายเป็นคนขี้บ่น แต่ก็รักหลานมาก",
+            "audio_en_src": "Grandma nags a lot, but she loves her grandkids."
+          },
+          {
+            "thai": "หัวหน้าขี้บ่นเรื่องงานทุกวัน",
+            "en": "The boss complains about work every day.",
+            "audio_src": "หัวหน้าขี้บ่นเรื่องงานทุกวัน",
+            "audio_en_src": "The boss complains about work every day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22406,6 +22425,25 @@
     "sources": [
       "Tamago L1-2",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "easily affected by heat, doesn't tolerate heat well",
+        "sentences": [
+          {
+            "thai": "เขาขี้ร้อน ต้องเปิดแอร์ตลอด",
+            "en": "He can’t stand the heat, he keeps the AC on all the time.",
+            "audio_src": "เขาขี้ร้อน ต้องเปิดแอร์ตลอด",
+            "audio_en_src": "He can’t stand the heat, he keeps the AC on all the time."
+          },
+          {
+            "thai": "ฉันขี้ร้อนเลยไม่ชอบหน้าร้อน",
+            "en": "I get hot easily, so I don’t like summer.",
+            "audio_src": "ฉันขี้ร้อนเลยไม่ชอบหน้าร้อน",
+            "audio_en_src": "I get hot easily, so I don’t like summer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22416,6 +22454,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "gets cold easily, doesn't tolerate cold well",
+        "sentences": [
+          {
+            "thai": "เธอขี้หนาว ต้องใส่เสื้อกันหนาวเสมอ",
+            "en": "She gets cold easily, she always wears a jacket.",
+            "audio_src": "เธอขี้หนาว ต้องใส่เสื้อกันหนาวเสมอ",
+            "audio_en_src": "She gets cold easily, she always wears a jacket."
+          },
+          {
+            "thai": "คนขี้หนาวไม่ชอบอากาศหน้าหนาว",
+            "en": "People who feel the cold easily don’t like winter.",
+            "audio_src": "คนขี้หนาวไม่ชอบอากาศหน้าหนาว",
+            "audio_en_src": "People who feel the cold easily don’t like winter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22426,6 +22483,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "overly considerate, too concerned about not inconveniencing others",
+        "sentences": [
+          {
+            "thai": "เขาขี้เกรงใจ ไม่กล้าขอความช่วยเหลือ",
+            "en": "He’s so considerate he won’t dare ask for help.",
+            "audio_src": "เขาขี้เกรงใจ ไม่กล้าขอความช่วยเหลือ",
+            "audio_en_src": "He’s so considerate he won’t dare ask for help."
+          },
+          {
+            "thai": "เธอขี้เกรงใจจนไม่ยอมรบกวนใคร",
+            "en": "She’s so considerate she won’t trouble anyone.",
+            "audio_src": "เธอขี้เกรงใจจนไม่ยอมรบกวนใคร",
+            "audio_en_src": "She’s so considerate she won’t trouble anyone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22437,6 +22513,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "stingy, not willing to spend money",
+        "sentences": [
+          {
+            "thai": "เขาขี้เหนียว ไม่ยอมซื้อของแพง",
+            "en": "He’s tight-fisted, he won’t buy anything expensive.",
+            "audio_src": "เขาขี้เหนียว ไม่ยอมซื้อของแพง",
+            "audio_en_src": "He’s tight-fisted, he won’t buy anything expensive."
+          },
+          {
+            "thai": "อย่าขี้เหนียวกับตัวเองมากนัก",
+            "en": "Don’t be too stingy with yourself.",
+            "audio_src": "อย่าขี้เหนียวกับตัวเองมากนัก",
+            "audio_en_src": "Don’t be too stingy with yourself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22447,6 +22542,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "deceitful, cunning, prone to cheating by nature",
+        "sentences": [
+          {
+            "thai": "เขาขี้โกงเวลาเล่นไพ่",
+            "en": "He cheats when playing cards.",
+            "audio_src": "เขาขี้โกงเวลาเล่นไพ่",
+            "audio_en_src": "He cheats when playing cards."
+          },
+          {
+            "thai": "อย่าเล่นเกมกับคนขี้โกง",
+            "en": "Don’t play games with a cheater.",
+            "audio_src": "อย่าเล่นเกมกับคนขี้โกง",
+            "audio_en_src": "Don’t play games with a cheater."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22546,6 +22660,25 @@
       "Tamago L1-2",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "uncooked rice",
+        "sentences": [
+          {
+            "thai": "ซื้อข้าวสารหนึ่งถุงใหญ่",
+            "en": "Buy a big bag of rice.",
+            "audio_src": "ซื้อข้าวสารหนึ่งถุงใหญ่",
+            "audio_en_src": "Buy a big bag of rice."
+          },
+          {
+            "thai": "ตวงข้าวสารก่อนหุง",
+            "en": "Measure out the rice before cooking it.",
+            "audio_src": "ตวงข้าวสารก่อนหุง",
+            "audio_en_src": "Measure out the rice before cooking it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22557,6 +22690,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "jasmine rice",
+        "sentences": [
+          {
+            "thai": "ข้าวหอมมะลิหุงแล้วหอมมาก",
+            "en": "Jasmine rice smells wonderful when cooked.",
+            "audio_src": "ข้าวหอมมะลิหุงแล้วหอมมาก",
+            "audio_en_src": "Jasmine rice smells wonderful when cooked."
+          },
+          {
+            "thai": "ร้านนี้ใช้ข้าวหอมมะลิอย่างดี",
+            "en": "This shop uses good-quality jasmine rice.",
+            "audio_src": "ร้านนี้ใช้ข้าวหอมมะลิอย่างดี",
+            "audio_en_src": "This shop uses good-quality jasmine rice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22634,6 +22786,42 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "different",
+        "sentences": [
+          {
+            "thai": "เราคิดกันคนละแบบ",
+            "en": "We think in different ways.",
+            "audio_src": "เราคิดกันคนละแบบ",
+            "audio_en_src": "We think in different ways."
+          },
+          {
+            "thai": "เขาสองคนไปคนละทาง",
+            "en": "The two of them went different ways.",
+            "audio_src": "เขาสองคนไปคนละทาง",
+            "audio_en_src": "The two of them went different ways."
+          }
+        ]
+      },
+      {
+        "meaning": "separately for each person",
+        "sentences": [
+          {
+            "thai": "ค่าอาหารจ่ายคนละสองร้อย",
+            "en": "The meal is two hundred each.",
+            "audio_src": "ค่าอาหารจ่ายคนละสองร้อย",
+            "audio_en_src": "The meal is two hundred each."
+          },
+          {
+            "thai": "แจกขนมคนละชิ้น",
+            "en": "Hand out one piece of candy to each person.",
+            "audio_src": "แจกขนมคนละชิ้น",
+            "audio_en_src": "Hand out one piece of candy to each person."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22959,6 +23147,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"on second thought\", \"after thinking it over\"",
+        "sentences": [
+          {
+            "thai": "คิดไปคิดมา ไม่ไปดีกว่า",
+            "en": "On second thought, I’d better not go.",
+            "audio_src": "คิดไปคิดมา ไม่ไปดีกว่า",
+            "audio_en_src": "On second thought, I’d better not go."
+          },
+          {
+            "thai": "คิดไปคิดมาก็ตัดสินใจลาออก",
+            "en": "After thinking it over, he decided to quit.",
+            "audio_src": "คิดไปคิดมาก็ตัดสินใจลาออก",
+            "audio_en_src": "After thinking it over, he decided to quit."
+          }
+        ]
+      }
     ]
   },
   {

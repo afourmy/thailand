@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4203 words**
+**Total: 4213 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -535,10 +535,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-059` : ขี้, อึ (feces, stool (informal and child-speak variants)) : 1 meaning(s), 2 sentences
 - `tamago-l12-060` : ขี้กังวล (prone to worry) : 1 meaning(s), 2 sentences
 - `tamago-l12-061` : ขี้งก (stingy, not willing to share) : 1 meaning(s), 2 sentences
+- `tamago-l12-062` : ขี้บ่น (someone who frequently nags or complains) : 1 meaning(s), 2 sentences
+- `tamago-l12-063` : ขี้ร้อน (easily affected by heat, doesn't tolerate heat well) : 1 meaning(s), 2 sentences
+- `tamago-l12-064` : ขี้หนาว (gets cold easily, doesn't tolerate cold well) : 1 meaning(s), 2 sentences
+- `tamago-l12-065` : ขี้เกรงใจ (overly considerate, too concerned about not inconveniencing others) : 1 meaning(s), 2 sentences
+- `tamago-l12-066` : ขี้เหนียว (stingy, not willing to spend money) : 1 meaning(s), 2 sentences
+- `tamago-l12-067` : ขี้โกง (deceitful, cunning, prone to cheating by nature) : 1 meaning(s), 2 sentences
 - `tamago-l12-068` : ข้าม (to cross, pass over; to skip) : 2 meaning(s), 4 sentences
 - `tamago-l12-070` : ข้าวสวย (cooked rice (steamed)) : 1 meaning(s), 2 sentences
+- `tamago-l12-071` : ข้าวสาร (uncooked rice) : 1 meaning(s), 2 sentences
+- `tamago-l12-072` : ข้าวหอมมะลิ (jasmine rice) : 1 meaning(s), 2 sentences
 - `tamago-l12-073` : ข้าวโพด (corn) : 1 meaning(s), 2 sentences
 - `tamago-l12-075` : คนดู (spectator, audience member) : 1 meaning(s), 2 sentences
+- `tamago-l12-076` : คนละ (different; separately for each person) : 2 meaning(s), 4 sentences
 - `tamago-l12-079` : คล้ำ (dark, tan (skin); dim) : 2 meaning(s), 4 sentences
 - `tamago-l12-083` : ความเดือดร้อน (trouble, difficulty) : 1 meaning(s), 2 sentences
 - `tamago-l12-085` : คัน (to feel itchy) : 1 meaning(s), 2 sentences
@@ -546,6 +555,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-087` : คำศัพท์ (vocabulary, word) : 1 meaning(s), 2 sentences
 - `tamago-l12-088` : คำสแลง (slang word) : 1 meaning(s), 2 sentences
 - `tamago-l12-089` : คิด (to think; to charge (a price)) : 2 meaning(s), 4 sentences
+- `tamago-l12-090` : คิดไปคิดมา ("on second thought", "after thinking it over") : 1 meaning(s), 2 sentences
 - `tamago-l12-092` : คืน (to return (something)) : 1 meaning(s), 2 sentences
 - `tamago-l12-093` : คืนเงิน (to pay back, to refund) : 1 meaning(s), 2 sentences
 - `tamago-l12-094` : คุ้ม (worthwhile, to be worth it) : 1 meaning(s), 2 sentences
