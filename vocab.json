@@ -2534,6 +2534,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "different, other",
+        "sentences": [
+          {
+            "thai": "ความคิดเราต่างกัน",
+            "en": "We think differently.",
+            "audio_src": "ความคิดเราต่างกัน",
+            "audio_en_src": "We think differently."
+          },
+          {
+            "thai": "เขาไปทำงานต่างจังหวัด",
+            "en": "He went to work in another province.",
+            "audio_src": "เขาไปทำงานต่างจังหวัด",
+            "audio_en_src": "He went to work in another province."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2545,6 +2564,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to nurture, to raise, to care for, to provide for (e.g a child)",
+        "sentences": [
+          {
+            "thai": "พ่อแม่เลี้ยงดูเรามาอย่างดี",
+            "en": "Our parents raised us well.",
+            "audio_src": "พ่อแม่เลี้ยงดูเรามาอย่างดี",
+            "audio_en_src": "Our parents raised us well."
+          },
+          {
+            "thai": "เขาทำงานหนักเพื่อเลี้ยงดูครอบครัว",
+            "en": "He works hard to provide for his family.",
+            "audio_src": "เขาทำงานหนักเพื่อเลี้ยงดูครอบครัว",
+            "audio_en_src": "He works hard to provide for his family."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2571,6 +2609,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "environment",
+        "sentences": [
+          {
+            "thai": "เราควรช่วยกันรักษาสิ่งแวดล้อม",
+            "en": "We should all help protect the environment.",
+            "audio_src": "เราควรช่วยกันรักษาสิ่งแวดล้อม",
+            "audio_en_src": "We should all help protect the environment."
+          },
+          {
+            "thai": "โรงงานปล่อยของเสียทำลายสิ่งแวดล้อม",
+            "en": "The factory dumps waste that harms the environment.",
+            "audio_src": "โรงงานปล่อยของเสียทำลายสิ่งแวดล้อม",
+            "audio_en_src": "The factory dumps waste that harms the environment."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2696,6 +2753,25 @@
     "sources": [
       "Chulalongkorn L4",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "grey hair",
+        "sentences": [
+          {
+            "thai": "เขามีผมหงอกเต็มหัวแล้ว",
+            "en": "His hair has gone completely grey.",
+            "audio_src": "เขามีผมหงอกเต็มหัวแล้ว",
+            "audio_en_src": "His hair has gone completely grey."
+          },
+          {
+            "thai": "เครียดมากจนผมหงอกก่อนวัย",
+            "en": "So much stress that his hair went grey early.",
+            "audio_src": "เครียดมากจนผมหงอกก่อนวัย",
+            "audio_en_src": "So much stress that his hair went grey early."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2759,6 +2835,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "irritated, frustrated",
+        "sentences": [
+          {
+            "thai": "รถติดทุกวันทำให้หงุดหงิด",
+            "en": "The daily traffic jams are so irritating.",
+            "audio_src": "รถติดทุกวันทำให้หงุดหงิด",
+            "audio_en_src": "The daily traffic jams are so irritating."
+          },
+          {
+            "thai": "เขาหงุดหงิดง่ายเวลาหิว",
+            "en": "He gets cranky easily when he’s hungry.",
+            "audio_src": "เขาหงุดหงิดง่ายเวลาหิว",
+            "audio_en_src": "He gets cranky easily when he’s hungry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2769,6 +2864,25 @@
     "topic": "emotions",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "depressed",
+        "sentences": [
+          {
+            "thai": "เธอดูซึมเศร้ามาหลายวันแล้ว",
+            "en": "She’s looked depressed for days now.",
+            "audio_src": "เธอดูซึมเศร้ามาหลายวันแล้ว",
+            "audio_en_src": "She’s looked depressed for days now."
+          },
+          {
+            "thai": "หลังเลิกกันเขาซึมเศร้าอยู่นาน",
+            "en": "After the breakup he was depressed for a long time.",
+            "audio_src": "หลังเลิกกันเขาซึมเศร้าอยู่นาน",
+            "audio_en_src": "After the breakup he was depressed for a long time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2781,6 +2895,25 @@
       "Chulalongkorn L4",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel neglected, to feel hurt",
+        "sentences": [
+          {
+            "thai": "เขาน้อยใจที่ไม่มีใครชวนไปด้วย",
+            "en": "He felt hurt that no one invited him along.",
+            "audio_src": "เขาน้อยใจที่ไม่มีใครชวนไปด้วย",
+            "audio_en_src": "He felt hurt that no one invited him along."
+          },
+          {
+            "thai": "อย่าน้อยใจเลย เราไม่ได้ลืมเธอ",
+            "en": "Don’t feel left out, we didn’t forget you.",
+            "audio_src": "อย่าน้อยใจเลย เราไม่ได้ลืมเธอ",
+            "audio_en_src": "Don’t feel left out, we didn’t forget you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2793,6 +2926,25 @@
       "Chulalongkorn L4",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay attention, to be considerate",
+        "sentences": [
+          {
+            "thai": "เธอเอาใจใส่ลูกทุกเรื่อง",
+            "en": "She pays attention to everything about her kids.",
+            "audio_src": "เธอเอาใจใส่ลูกทุกเรื่อง",
+            "audio_en_src": "She pays attention to everything about her kids."
+          },
+          {
+            "thai": "หัวหน้าเอาใจใส่พนักงานดีมาก",
+            "en": "The boss is very attentive to the staff.",
+            "audio_src": "หัวหน้าเอาใจใส่พนักงานดีมาก",
+            "audio_en_src": "The boss is very attentive to the staff."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2843,6 +2995,25 @@
     "topic": "time",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "up until now, by now",
+        "sentences": [
+          {
+            "thai": "ป่านนี้เขาน่าจะถึงบ้านแล้ว",
+            "en": "He should be home by now.",
+            "audio_src": "ป่านนี้เขาน่าจะถึงบ้านแล้ว",
+            "audio_en_src": "He should be home by now."
+          },
+          {
+            "thai": "โทรไปตั้งนาน ป่านนี้ยังไม่รับสาย",
+            "en": "I called ages ago and still no answer by now.",
+            "audio_src": "โทรไปตั้งนาน ป่านนี้ยังไม่รับสาย",
+            "audio_en_src": "I called ages ago and still no answer by now."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2917,6 +3088,25 @@
     "topic": "time",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "rush hour",
+        "sentences": [
+          {
+            "thai": "เวลาเร่งด่วนรถติดมาก",
+            "en": "Traffic is terrible during rush hour.",
+            "audio_src": "เวลาเร่งด่วนรถติดมาก",
+            "audio_en_src": "Traffic is terrible during rush hour."
+          },
+          {
+            "thai": "หลีกเลี่ยงการเดินทางช่วงเวลาเร่งด่วน",
+            "en": "Avoid traveling during rush hour.",
+            "audio_src": "หลีกเลี่ยงการเดินทางช่วงเวลาเร่งด่วน",
+            "audio_en_src": "Avoid traveling during rush hour."
+          }
+        ]
+      }
     ]
   },
   {

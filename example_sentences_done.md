@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3993 words**
+**Total: 4003 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -67,12 +67,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-108` : แม่ยาย (wife's mother) : 1 meaning(s), 2 sentences
 - `chula-l4-111` : ไม่ลงรอยกัน (to disagree, to be at odds, to not get along) : 1 meaning(s), 2 sentences
 - `chula-l4-114` : ช่วงวัย (age range, stage of life) : 1 meaning(s), 2 sentences
+- `chula-l4-115` : ต่าง (different, other) : 1 meaning(s), 2 sentences
+- `chula-l4-116` : เลี้ยงดู (to nurture, to raise, to care for, to provide for (e.g a child)) : 1 meaning(s), 2 sentences
+- `chula-l4-118` : สิ่งแวดล้อม (environment) : 1 meaning(s), 2 sentences
 - `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
 - `chula-l4-121` : เต็มที่ (to the utmost, fully, totally, wholeheartedly, 100%) : 1 meaning(s), 2 sentences
+- `chula-l4-123` : ผมหงอก (grey hair) : 1 meaning(s), 2 sentences
 - `chula-l4-125` : งานประจำ (regular job, steady job) : 1 meaning(s), 2 sentences
+- `chula-l4-127` : หงุดหงิด (irritated, frustrated) : 1 meaning(s), 2 sentences
+- `chula-l4-128` : ซึมเศร้า (depressed) : 1 meaning(s), 2 sentences
+- `chula-l4-129` : น้อยใจ (to feel neglected, to feel hurt) : 1 meaning(s), 2 sentences
+- `chula-l4-130` : เอาใจใส่ (to pay attention, to be considerate) : 1 meaning(s), 2 sentences
+- `chula-l4-135` : ป่านนี้ (up until now, by now) : 1 meaning(s), 2 sentences
 - `chula-l4-136` : เน่าเสีย (rotten, spoiled) : 1 meaning(s), 2 sentences
 - `chula-l4-137` : เร่งด่วน (urgent, priority) : 1 meaning(s), 2 sentences
+- `chula-l4-138` : เวลาเร่งด่วน (rush hour) : 1 meaning(s), 2 sentences
 - `chula-l4-139` : สาเหตุ (cause, motive) : 1 meaning(s), 2 sentences
 - `chula-l4-145` : กริยา (verb) : 1 meaning(s), 2 sentences
 - `chula-l4-146` : ข้อดี (advantage) : 1 meaning(s), 2 sentences
