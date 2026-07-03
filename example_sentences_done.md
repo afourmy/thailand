@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4013 words**
+**Total: 4023 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -106,24 +106,34 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-016` : ยาม (security guard; period of time) : 2 meaning(s), 4 sentences
 - `chula-l5-018` : ส่วนกลาง (common area, central part) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences
+- `chula-l5-021` : เอาเป็นว่า (in short, "suppose that..." (used to summarize or make an assumption)) : 1 meaning(s), 2 sentences
 - `chula-l5-024` : สื่อ, สื่อสาร (to convey, to communicate) : 1 meaning(s), 2 sentences
 - `chula-l5-025` : เด็ดขาด (decisive, categorical) : 1 meaning(s), 2 sentences
 - `chula-l5-026` : ห้าม, ห้ามไม่ให้ (to forbid, to prohibit) : 1 meaning(s), 2 sentences
+- `chula-l5-027` : โปรด, กรุณา (please) : 1 meaning(s), 2 sentences
 - `chula-l5-028` : งด (to refrain, to abstain from) : 1 meaning(s), 2 sentences
 - `chula-l5-029` : ซ่อมแซม (to repair, to fix) : 1 meaning(s), 2 sentences
 - `chula-l5-031` : บรรทัด (line, row) : 1 meaning(s), 2 sentences
 - `chula-l5-032` : สะกด (to spell) : 1 meaning(s), 2 sentences
 - `chula-l5-036` : เจ้าหน้าที่ (officer) : 1 meaning(s), 2 sentences
 - `chula-l5-037` : ชก (to punch) : 1 meaning(s), 2 sentences
+- `chula-l5-039` : ทำร้าย (to harm, to hurt) : 1 meaning(s), 2 sentences
+- `chula-l5-041` : คนร้าย (offender, criminal) : 1 meaning(s), 2 sentences
 - `chula-l5-042` : คณิตศาสตร์ (mathematics) : 1 meaning(s), 2 sentences
 - `chula-l5-043` : ตะโกน (to shout) : 1 meaning(s), 2 sentences
 - `chula-l5-045` : กำ (to clench one's fist, grip; a bunch, handful of) : 2 meaning(s), 4 sentences
 - `chula-l5-049` : หลบ (to dodge, to evade, to hide, to avoid) : 1 meaning(s), 2 sentences
+- `chula-l5-050` : หลบหนี (to escape, to flee) : 1 meaning(s), 2 sentences
+- `chula-l5-057` : ตัดสิน (to judge, to decide; to rule, to give a verdict) : 2 meaning(s), 4 sentences
+- `chula-l5-059` : คดี, คดีความ (legal case, lawsuit) : 1 meaning(s), 2 sentences
+- `chula-l5-062` : โทษ (punishment, penalty) : 1 meaning(s), 2 sentences
+- `chula-l5-065` : แจ้งความ (to file a police report) : 1 meaning(s), 2 sentences
 - `chula-l5-066` : คว้า (to grab) : 1 meaning(s), 2 sentences
 - `chula-l5-067` : ดับ (to extinguish, to put out (a fire); to cease, to stop functioning) : 2 meaning(s), 4 sentences
 - `chula-l5-070` : ปลาย (end, tip, extremity) : 1 meaning(s), 2 sentences
 - `chula-l5-071` : แหลม (sharp, pointed; peninsula) : 2 meaning(s), 4 sentences
 - `chula-l5-072` : เปื้อน, แปดเปื้อน (stained, soiled) : 1 meaning(s), 2 sentences
+- `chula-l5-073` : หลักฐาน (proof, evidence) : 1 meaning(s), 2 sentences
 - `chula-l5-074` : เปิดเผย (to reveal, to disclose) : 1 meaning(s), 2 sentences
 - `chula-l5-075` : เคาะ (to knock, to hit lightly) : 1 meaning(s), 2 sentences
 - `chula-l5-080` : ระบุ (to specify, to identify) : 1 meaning(s), 2 sentences

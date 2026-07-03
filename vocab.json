@@ -4058,6 +4058,25 @@
     "topic": "expressions",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "in short, \"suppose that...\" (used to summarize or make an assumption)",
+        "sentences": [
+          {
+            "thai": "เอาเป็นว่าเจอกันพรุ่งนี้เก้าโมง",
+            "en": "Let’s just say we’ll meet at nine tomorrow.",
+            "audio_src": "เอาเป็นว่าเจอกันพรุ่งนี้เก้าโมง",
+            "audio_en_src": "Let’s just say we’ll meet at nine tomorrow."
+          },
+          {
+            "thai": "เอาเป็นว่าฉันผิดเองก็ได้",
+            "en": "Fine, let’s just say it’s my fault.",
+            "audio_src": "เอาเป็นว่าฉันผิดเองก็ได้",
+            "audio_en_src": "Fine, let’s just say it’s my fault."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4191,6 +4210,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "please",
+        "sentences": [
+          {
+            "thai": "กรุณารอสักครู่",
+            "en": "Please wait a moment.",
+            "audio_src": "กรุณารอสักครู่",
+            "audio_en_src": "Please wait a moment."
+          },
+          {
+            "thai": "โปรดปิดโทรศัพท์ในโรงหนัง",
+            "en": "Please turn off your phone in the cinema.",
+            "audio_src": "โปรดปิดโทรศัพท์ในโรงหนัง",
+            "audio_en_src": "Please turn off your phone in the cinema."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4442,6 +4480,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to harm, to hurt",
+        "sentences": [
+          {
+            "thai": "เขาทำร้ายร่างกายผู้อื่น",
+            "en": "He physically assaulted someone.",
+            "audio_src": "เขาทำร้ายร่างกายผู้อื่น",
+            "audio_en_src": "He physically assaulted someone."
+          },
+          {
+            "thai": "อย่าทำร้ายสัตว์",
+            "en": "Don’t hurt animals.",
+            "audio_src": "อย่าทำร้ายสัตว์",
+            "audio_en_src": "Don’t hurt animals."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4463,6 +4520,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "offender, criminal",
+        "sentences": [
+          {
+            "thai": "ตำรวจจับคนร้ายได้แล้ว",
+            "en": "The police caught the criminal.",
+            "audio_src": "ตำรวจจับคนร้ายได้แล้ว",
+            "audio_en_src": "The police caught the criminal."
+          },
+          {
+            "thai": "คนร้ายหนีไปทางนั้น",
+            "en": "The suspect fled that way.",
+            "audio_src": "คนร้ายหนีไปทางนั้น",
+            "audio_en_src": "The suspect fled that way."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4672,6 +4748,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to escape, to flee",
+        "sentences": [
+          {
+            "thai": "นักโทษหลบหนีออกจากคุก",
+            "en": "The prisoner escaped from jail.",
+            "audio_src": "นักโทษหลบหนีออกจากคุก",
+            "audio_en_src": "The prisoner escaped from jail."
+          },
+          {
+            "thai": "คนร้ายหลบหนีการจับกุม",
+            "en": "The suspect fled arrest.",
+            "audio_src": "คนร้ายหลบหนีการจับกุม",
+            "audio_en_src": "The suspect fled arrest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4752,6 +4847,42 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to judge, to decide",
+        "sentences": [
+          {
+            "thai": "อย่าเพิ่งตัดสินเขาเร็วเกินไป",
+            "en": "Don’t judge him too quickly.",
+            "audio_src": "อย่าเพิ่งตัดสินเขาเร็วเกินไป",
+            "audio_en_src": "Don’t judge him too quickly."
+          },
+          {
+            "thai": "กรรมการตัดสินให้เขาเป็นผู้ชนะ",
+            "en": "The judges declared him the winner.",
+            "audio_src": "กรรมการตัดสินให้เขาเป็นผู้ชนะ",
+            "audio_en_src": "The judges declared him the winner."
+          }
+        ]
+      },
+      {
+        "meaning": "to rule, to give a verdict",
+        "sentences": [
+          {
+            "thai": "ศาลตัดสินว่าเขามีความผิด",
+            "en": "The court ruled that he was guilty.",
+            "audio_src": "ศาลตัดสินว่าเขามีความผิด",
+            "audio_en_src": "The court ruled that he was guilty."
+          },
+          {
+            "thai": "ศาลตัดสินจำคุกสองปี",
+            "en": "The court sentenced him to two years in prison.",
+            "audio_src": "ศาลตัดสินจำคุกสองปี",
+            "audio_en_src": "The court sentenced him to two years in prison."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4777,6 +4908,25 @@
       "Thai 4000",
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "legal case, lawsuit",
+        "sentences": [
+          {
+            "thai": "คดีนี้ยังไม่จบ",
+            "en": "This case isn’t over yet.",
+            "audio_src": "คดีนี้ยังไม่จบ",
+            "audio_en_src": "This case isn’t over yet."
+          },
+          {
+            "thai": "เขาฟ้องร้องเป็นคดีความ",
+            "en": "He took it to court as a lawsuit.",
+            "audio_src": "เขาฟ้องร้องเป็นคดีความ",
+            "audio_en_src": "He took it to court as a lawsuit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4812,6 +4962,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "punishment, penalty",
+        "sentences": [
+          {
+            "thai": "เขาได้รับโทษจำคุกห้าปี",
+            "en": "He got a five-year prison sentence.",
+            "audio_src": "เขาได้รับโทษจำคุกห้าปี",
+            "audio_en_src": "He got a five-year prison sentence."
+          },
+          {
+            "thai": "โทษของการขับรถเร็วคือปรับเงิน",
+            "en": "The penalty for speeding is a fine.",
+            "audio_src": "โทษของการขับรถเร็วคือปรับเงิน",
+            "audio_en_src": "The penalty for speeding is a fine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4843,6 +5012,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to file a police report",
+        "sentences": [
+          {
+            "thai": "เธอไปแจ้งความที่สถานีตำรวจ",
+            "en": "She went to file a report at the police station.",
+            "audio_src": "เธอไปแจ้งความที่สถานีตำรวจ",
+            "audio_en_src": "She went to file a report at the police station."
+          },
+          {
+            "thai": "กระเป๋าหายต้องรีบไปแจ้งความ",
+            "en": "If your bag gets stolen, go file a police report right away.",
+            "audio_src": "กระเป๋าหายต้องรีบไปแจ้งความ",
+            "audio_en_src": "If your bag gets stolen, go file a police report right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5080,6 +5268,25 @@
       "Tobo Deck",
       "Thai 4000",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "proof, evidence",
+        "sentences": [
+          {
+            "thai": "ตำรวจกำลังหาหลักฐาน",
+            "en": "The police are looking for evidence.",
+            "audio_src": "ตำรวจกำลังหาหลักฐาน",
+            "audio_en_src": "The police are looking for evidence."
+          },
+          {
+            "thai": "เขาไม่มีหลักฐานมายืนยัน",
+            "en": "He has no proof to back it up.",
+            "audio_src": "เขาไม่มีหลักฐานมายืนยัน",
+            "audio_en_src": "He has no proof to back it up."
+          }
+        ]
+      }
     ]
   },
   {
