@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4063 words**
+**Total: 4073 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -227,13 +227,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-286` : อุปสรรค (obstacle) : 1 meaning(s), 2 sentences
 - `chula-l5-288` : ยกเลิก (to cancel) : 1 meaning(s), 2 sentences
 - `chula-l5-290` : สรุปแล้ว (in conclusion) : 1 meaning(s), 2 sentences
+- `chula-l5-291` : ยังคง (still) : 1 meaning(s), 2 sentences
+- `chula-l5-292` : เป็นกันเอง ((person) friendly, approachable, informal; (price) reasonable) : 2 meaning(s), 4 sentences
+- `chula-l5-293` : อะ, อ่ะ (makes the sentence softer and informal) : 1 meaning(s), 2 sentences
 - `chula-l5-301` : กัมพูชา (Cambodia) : 1 meaning(s), 2 sentences
 - `chula-l5-302` : อิทธิพล (influence) : 1 meaning(s), 2 sentences
+- `chula-l5-305` : เทศกาล (festival) : 1 meaning(s), 2 sentences
+- `chula-l5-306` : จาม (to sneeze) : 1 meaning(s), 2 sentences
+- `chula-l5-313` : ส่วนลด (discount) : 1 meaning(s), 2 sentences
+- `chula-l5-315` : คูปอง (coupon) : 1 meaning(s), 2 sentences
+- `chula-l5-316` : ลุ้น (to hope to win, to wait eagerly, to have a chance to win) : 1 meaning(s), 2 sentences
 - `chula-l5-318` : เรียน (to learn; to inform; "to", "dear" (official communication)) : 3 meaning(s), 6 sentences
 - `chula-l5-327` : แลก, แลกเปลี่ยน (to exchange) : 1 meaning(s), 2 sentences
 - `chula-l5-328` : แต้ม (point, dot, mark (+ classifier for these)) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
 - `chula-l5-331` : เงื่อนไข (condition) : 1 meaning(s), 2 sentences
+- `chula-l5-332` : อย่างน้อย (at least) : 1 meaning(s), 2 sentences
+- `chula-l5-333` : อย่างมาก (at most) : 1 meaning(s), 2 sentences
 - `chula-l5-337` : จับคู่ (to pair up, to pair with) : 1 meaning(s), 2 sentences
 - `chula-l5-343` : กรอบ (framework, frame; crispy) : 2 meaning(s), 4 sentences
 - `chula-l5-344` : ทักษะ (skill) : 1 meaning(s), 2 sentences

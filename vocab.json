@@ -9645,6 +9645,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "still",
+        "sentences": [
+          {
+            "thai": "เขายังคงทำงานที่เดิม",
+            "en": "He still works at the same place.",
+            "audio_src": "เขายังคงทำงานที่เดิม",
+            "audio_en_src": "He still works at the same place."
+          },
+          {
+            "thai": "ปัญหานี้ยังคงแก้ไม่ได้",
+            "en": "This problem still hasn’t been solved.",
+            "audio_src": "ปัญหานี้ยังคงแก้ไม่ได้",
+            "audio_en_src": "This problem still hasn’t been solved."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9656,6 +9675,42 @@
     "sources": [
       "Chulalongkorn L5",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "(person) friendly, approachable, informal",
+        "sentences": [
+          {
+            "thai": "เจ้านายเป็นกันเองกับลูกน้อง",
+            "en": "The boss is friendly with the staff.",
+            "audio_src": "เจ้านายเป็นกันเองกับลูกน้อง",
+            "audio_en_src": "The boss is friendly with the staff."
+          },
+          {
+            "thai": "เขาพูดจาเป็นกันเอง ไม่ถือตัว",
+            "en": "He talks in a friendly, down-to-earth way.",
+            "audio_src": "เขาพูดจาเป็นกันเอง ไม่ถือตัว",
+            "audio_en_src": "He talks in a friendly, down-to-earth way."
+          }
+        ]
+      },
+      {
+        "meaning": "(price) reasonable",
+        "sentences": [
+          {
+            "thai": "ร้านนี้อาหารอร่อย ราคาเป็นกันเอง",
+            "en": "The food here is good and the prices are reasonable.",
+            "audio_src": "ร้านนี้อาหารอร่อย ราคาเป็นกันเอง",
+            "audio_en_src": "The food here is good and the prices are reasonable."
+          },
+          {
+            "thai": "โรงแรมนี้ราคาเป็นกันเองมาก",
+            "en": "This hotel is very reasonably priced.",
+            "audio_src": "โรงแรมนี้ราคาเป็นกันเองมาก",
+            "audio_en_src": "This hotel is very reasonably priced."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9666,6 +9721,25 @@
     "topic": "grammar",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "makes the sentence softer and informal",
+        "sentences": [
+          {
+            "thai": "ไปกินข้าวกันไหมอะ",
+            "en": "Wanna go grab some food?",
+            "audio_src": "ไปกินข้าวกันไหมอะ",
+            "audio_en_src": "Wanna go grab some food?"
+          },
+          {
+            "thai": "ไม่รู้อ่ะ ถามคนอื่นดู",
+            "en": "I dunno, try asking someone else.",
+            "audio_src": "ไม่รู้อ่ะ ถามคนอื่นดู",
+            "audio_en_src": "I dunno, try asking someone else."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9785,6 +9859,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "festival",
+        "sentences": [
+          {
+            "thai": "เทศกาลสงกรานต์สนุกมาก",
+            "en": "The Songkran festival is a lot of fun.",
+            "audio_src": "เทศกาลสงกรานต์สนุกมาก",
+            "audio_en_src": "The Songkran festival is a lot of fun."
+          },
+          {
+            "thai": "ช่วงเทศกาลคนกลับบ้านเยอะ",
+            "en": "During the festival, lots of people go home.",
+            "audio_src": "ช่วงเทศกาลคนกลับบ้านเยอะ",
+            "audio_en_src": "During the festival, lots of people go home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9795,6 +9888,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to sneeze",
+        "sentences": [
+          {
+            "thai": "เขาจามเพราะเป็นภูมิแพ้",
+            "en": "He sneezes because of his allergies.",
+            "audio_src": "เขาจามเพราะเป็นภูมิแพ้",
+            "audio_en_src": "He sneezes because of his allergies."
+          },
+          {
+            "thai": "เอามือปิดปากเวลาจาม",
+            "en": "Cover your mouth when you sneeze.",
+            "audio_src": "เอามือปิดปากเวลาจาม",
+            "audio_en_src": "Cover your mouth when you sneeze."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9873,6 +9985,25 @@
     "topic": "economy",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "discount",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ให้ส่วนลดยี่สิบเปอร์เซ็นต์",
+            "en": "This shop gives a twenty percent discount.",
+            "audio_src": "ร้านนี้ให้ส่วนลดยี่สิบเปอร์เซ็นต์",
+            "audio_en_src": "This shop gives a twenty percent discount."
+          },
+          {
+            "thai": "ซื้อเยอะได้ส่วนลดเพิ่ม",
+            "en": "Buy more and you get an extra discount.",
+            "audio_src": "ซื้อเยอะได้ส่วนลดเพิ่ม",
+            "audio_en_src": "Buy more and you get an extra discount."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9894,6 +10025,25 @@
     "topic": "economy",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "coupon",
+        "sentences": [
+          {
+            "thai": "ฉันมีคูปองส่วนลดร้านกาแฟ",
+            "en": "I have a discount coupon for the coffee shop.",
+            "audio_src": "ฉันมีคูปองส่วนลดร้านกาแฟ",
+            "audio_en_src": "I have a discount coupon for the coffee shop."
+          },
+          {
+            "thai": "ใช้คูปองนี้ซื้อของได้ถูกลง",
+            "en": "Use this coupon to get things cheaper.",
+            "audio_src": "ใช้คูปองนี้ซื้อของได้ถูกลง",
+            "audio_en_src": "Use this coupon to get things cheaper."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9905,6 +10055,25 @@
     "sources": [
       "Chulalongkorn L5",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to hope to win, to wait eagerly, to have a chance to win",
+        "sentences": [
+          {
+            "thai": "เขาลุ้นผลรางวัลอยู่",
+            "en": "He’s anxiously waiting for the prize results.",
+            "audio_src": "เขาลุ้นผลรางวัลอยู่",
+            "audio_en_src": "He’s anxiously waiting for the prize results."
+          },
+          {
+            "thai": "ทุกคนลุ้นให้ทีมไทยชนะ",
+            "en": "Everyone’s rooting for the Thai team to win.",
+            "audio_src": "ทุกคนลุ้นให้ทีมไทยชนะ",
+            "audio_en_src": "Everyone’s rooting for the Thai team to win."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10215,6 +10384,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "at least",
+        "sentences": [
+          {
+            "thai": "นอนอย่างน้อยวันละเจ็ดชั่วโมง",
+            "en": "Sleep at least seven hours a day.",
+            "audio_src": "นอนอย่างน้อยวันละเจ็ดชั่วโมง",
+            "audio_en_src": "Sleep at least seven hours a day."
+          },
+          {
+            "thai": "อย่างน้อยก็ยังมีเธออยู่ข้างๆ",
+            "en": "At least I still have you by my side.",
+            "audio_src": "อย่างน้อยก็ยังมีเธออยู่ข้างๆ",
+            "audio_en_src": "At least I still have you by my side."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10226,6 +10414,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "at most",
+        "sentences": [
+          {
+            "thai": "รอแค่สิบนาทีอย่างมาก",
+            "en": "Wait ten minutes at most.",
+            "audio_src": "รอแค่สิบนาทีอย่างมาก",
+            "audio_en_src": "Wait ten minutes at most."
+          },
+          {
+            "thai": "งานนี้ใช้เวลาอย่างมากสองวัน",
+            "en": "This job will take two days at most.",
+            "audio_src": "งานนี้ใช้เวลาอย่างมากสองวัน",
+            "audio_en_src": "This job will take two days at most."
+          }
+        ]
+      }
     ]
   },
   {
