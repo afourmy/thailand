@@ -4740,16 +4740,6 @@
     ]
   },
   {
-    "id": "chula-l5-125",
-    "thai": "ฉิบหาย",
-    "english": "awful, disastrous, fucked-up",
-    "frequency": "occasional",
-    "topic": "expressions",
-    "sources": [
-      "Chulalongkorn L5"
-    ]
-  },
-  {
     "id": "chula-l5-126",
     "thai": "หยาบคาย",
     "english": "rude",
@@ -17532,7 +17522,7 @@
   {
     "id": "tamago-l12-067",
     "thai": "ขี้โกง",
-    "english": "deceitful, cunning, cheater, fraudulent",
+    "english": "deceitful, cunning, prone to cheating by nature",
     "frequency": "common",
     "topic": "personality",
     "sources": [
@@ -49970,37 +49960,6 @@
     ]
   },
   {
-    "id": "tsl-028",
-    "thai": "เสือก",
-    "english": "(slang, rude) to meddle, to butt in, stick your nose in",
-    "frequency": "common",
-    "topic": "general",
-    "sources": [
-      "TSL Chiang Mai"
-    ],
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "(slang, rude) to meddle, to butt in, stick your nose in",
-        "sentences": [
-          {
-            "thai": "เรื่องของฉัน อย่าเสือก",
-            "en": "It's my business, don't butt in.",
-            "audio_src": "เรื่องของฉัน อย่าเสือก",
-            "audio_en_src": "It's my business, don't butt in."
-          },
-          {
-            "thai": "เขาชอบเสือกเรื่องชาวบ้านไปทั่ว",
-            "en": "He likes to stick his nose into everyone else's business.",
-            "audio_src": "เขาชอบเสือกเรื่องชาวบ้านไปทั่ว",
-            "audio_en_src": "He likes to stick his nose into everyone else's business."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "tsl-029",
     "thai": "จัดกระเป๋า",
     "english": "to pack a bag",
@@ -59278,16 +59237,6 @@
     "id": "tsl-538",
     "thai": "รายรับ",
     "english": "income",
-    "frequency": "common",
-    "topic": "economy",
-    "sources": [
-      "TSL Chiang Mai"
-    ]
-  },
-  {
-    "id": "tsl-538b",
-    "thai": "รายจ่าย",
-    "english": "expense",
     "frequency": "common",
     "topic": "economy",
     "sources": [
@@ -110882,7 +110831,7 @@
   {
     "id": "yt-c11-096",
     "thai": "เสือก",
-    "english": "to butt in, to meddle with (slang, very rude)",
+    "english": "to butt in, to meddle with, to stick your nose in (slang, very rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -114246,16 +114195,6 @@
     "id": "yt-c14-018",
     "thai": "คดโกง",
     "english": "dishonest, fraudulent, corrupt (formal)",
-    "frequency": "common",
-    "topic": "personality",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c14-018b",
-    "thai": "ขี้โกง",
-    "english": "someone who is prone to cheating by nature",
     "frequency": "common",
     "topic": "personality",
     "sources": [
@@ -174499,16 +174438,6 @@
     ]
   },
   {
-    "id": "t4k-c04-007",
-    "thai": "ทิพย์",
-    "english": "divine; supernatural",
-    "frequency": "occasional",
-    "topic": "beliefs",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c04-009",
     "thai": "ต่างชาติ",
     "english": "foreign, of another nationality",
@@ -188404,7 +188333,7 @@
   {
     "id": "new-26",
     "thai": "ฉิบหาย",
-    "english": "\"...as fuck\", \"fucking...\", screwed, fucked up (slang)",
+    "english": "\"...as fuck\", \"fucking...\"; screwed, awful, fucked-up (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
