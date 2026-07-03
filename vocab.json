@@ -10443,6 +10443,25 @@
     "topic": "economy",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "shipping fee",
+        "sentences": [
+          {
+            "thai": "สั่งของออนไลน์ต้องจ่ายค่าจัดส่ง",
+            "en": "When you order online you have to pay a shipping fee.",
+            "audio_src": "สั่งของออนไลน์ต้องจ่ายค่าจัดส่ง",
+            "audio_en_src": "When you order online you have to pay a shipping fee."
+          },
+          {
+            "thai": "ร้านนี้ซื้อครบพันบาทฟรีค่าจัดส่ง",
+            "en": "This shop gives free shipping when you spend a thousand baht.",
+            "audio_src": "ร้านนี้ซื้อครบพันบาทฟรีค่าจัดส่ง",
+            "audio_en_src": "This shop gives free shipping when you spend a thousand baht."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10454,6 +10473,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "farmer, agricultural worker",
+        "sentences": [
+          {
+            "thai": "เกษตรกรปลูกข้าวในฤดูฝน",
+            "en": "Farmers grow rice in the rainy season.",
+            "audio_src": "เกษตรกรปลูกข้าวในฤดูฝน",
+            "audio_en_src": "Farmers grow rice in the rainy season."
+          },
+          {
+            "thai": "ราคาข้าวตกทำให้เกษตรกรเดือดร้อน",
+            "en": "Falling rice prices are hurting farmers.",
+            "audio_src": "ราคาข้าวตกทำให้เกษตรกรเดือดร้อน",
+            "audio_en_src": "Falling rice prices are hurting farmers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10467,6 +10505,25 @@
       "Chulalongkorn L6",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to sell, to put on sale, to distribute",
+        "sentences": [
+          {
+            "thai": "สินค้านี้จำหน่ายทั่วประเทศ",
+            "en": "This product is sold nationwide.",
+            "audio_src": "สินค้านี้จำหน่ายทั่วประเทศ",
+            "audio_en_src": "This product is sold nationwide."
+          },
+          {
+            "thai": "ร้านหยุดจำหน่ายสินค้าตัวนี้แล้ว",
+            "en": "The shop has stopped selling this item.",
+            "audio_src": "ร้านหยุดจำหน่ายสินค้าตัวนี้แล้ว",
+            "audio_en_src": "The shop has stopped selling this item."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10533,6 +10590,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "confident",
+        "sentences": [
+          {
+            "thai": "เขามั่นใจในตัวเองมาก",
+            "en": "He’s very confident in himself.",
+            "audio_src": "เขามั่นใจในตัวเองมาก",
+            "audio_en_src": "He’s very confident in himself."
+          },
+          {
+            "thai": "ฉันมั่นใจว่าเราจะทำได้",
+            "en": "I’m confident we can do it.",
+            "audio_src": "ฉันมั่นใจว่าเราจะทำได้",
+            "audio_en_src": "I’m confident we can do it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10655,6 +10731,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "economy",
+        "sentences": [
+          {
+            "thai": "เศรษฐกิจปีนี้ไม่ค่อยดี",
+            "en": "The economy isn’t doing so well this year.",
+            "audio_src": "เศรษฐกิจปีนี้ไม่ค่อยดี",
+            "audio_en_src": "The economy isn’t doing so well this year."
+          },
+          {
+            "thai": "รัฐบาลพยายามกระตุ้นเศรษฐกิจ",
+            "en": "The government is trying to stimulate the economy.",
+            "audio_src": "รัฐบาลพยายามกระตุ้นเศรษฐกิจ",
+            "audio_en_src": "The government is trying to stimulate the economy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10667,6 +10762,25 @@
       "Chulalongkorn L5",
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "raw material",
+        "sentences": [
+          {
+            "thai": "โรงงานขาดวัตถุดิบในการผลิต",
+            "en": "The factory is short of raw materials for production.",
+            "audio_src": "โรงงานขาดวัตถุดิบในการผลิต",
+            "audio_en_src": "The factory is short of raw materials for production."
+          },
+          {
+            "thai": "วัตถุดิบสดใหม่ทำให้อาหารอร่อย",
+            "en": "Fresh ingredients make the food taste good.",
+            "audio_src": "วัตถุดิบสดใหม่ทำให้อาหารอร่อย",
+            "audio_en_src": "Fresh ingredients make the food taste good."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10746,6 +10860,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "industry",
+        "sentences": [
+          {
+            "thai": "อุตสาหกรรมรถยนต์เติบโตขึ้น",
+            "en": "The auto industry is growing.",
+            "audio_src": "อุตสาหกรรมรถยนต์เติบโตขึ้น",
+            "audio_en_src": "The auto industry is growing."
+          },
+          {
+            "thai": "เมืองนี้เป็นเขตอุตสาหกรรม",
+            "en": "This city is an industrial zone.",
+            "audio_src": "เมืองนี้เป็นเขตอุตสาหกรรม",
+            "audio_en_src": "This city is an industrial zone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10759,6 +10892,25 @@
       "Tamago L1-2",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "agriculture (industry)",
+        "sentences": [
+          {
+            "thai": "ประเทศไทยพึ่งพาเกษตรกรรมมาก",
+            "en": "Thailand relies heavily on agriculture.",
+            "audio_src": "ประเทศไทยพึ่งพาเกษตรกรรมมาก",
+            "audio_en_src": "Thailand relies heavily on agriculture."
+          },
+          {
+            "thai": "เกษตรกรรมสมัยใหม่ใช้เทคโนโลยีมากขึ้น",
+            "en": "Modern agriculture uses more technology.",
+            "audio_src": "เกษตรกรรมสมัยใหม่ใช้เทคโนโลยีมากขึ้น",
+            "audio_en_src": "Modern agriculture uses more technology."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11154,6 +11306,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "finance",
+        "sentences": [
+          {
+            "thai": "เขาทำงานในแผนกการเงิน",
+            "en": "He works in the finance department.",
+            "audio_src": "เขาทำงานในแผนกการเงิน",
+            "audio_en_src": "He works in the finance department."
+          },
+          {
+            "thai": "ช่วงนี้ครอบครัวมีปัญหาการเงิน",
+            "en": "The family is having financial problems these days.",
+            "audio_src": "ช่วงนี้ครอบครัวมีปัญหาการเงิน",
+            "audio_en_src": "The family is having financial problems these days."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11259,6 +11430,25 @@
     "topic": "travel",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "airline",
+        "sentences": [
+          {
+            "thai": "สายการบินนี้บริการดีมาก",
+            "en": "This airline has really good service.",
+            "audio_src": "สายการบินนี้บริการดีมาก",
+            "audio_en_src": "This airline has really good service."
+          },
+          {
+            "thai": "เที่ยวบินถูกยกเลิกโดยสายการบิน",
+            "en": "The flight was cancelled by the airline.",
+            "audio_src": "เที่ยวบินถูกยกเลิกโดยสายการบิน",
+            "audio_en_src": "The flight was cancelled by the airline."
+          }
+        ]
+      }
     ]
   },
   {

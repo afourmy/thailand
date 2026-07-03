@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4073 words**
+**Total: 4083 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -244,17 +244,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-331` : เงื่อนไข (condition) : 1 meaning(s), 2 sentences
 - `chula-l5-332` : อย่างน้อย (at least) : 1 meaning(s), 2 sentences
 - `chula-l5-333` : อย่างมาก (at most) : 1 meaning(s), 2 sentences
+- `chula-l5-334` : ค่าจัดส่ง (shipping fee) : 1 meaning(s), 2 sentences
+- `chula-l5-335` : เกษตรกร (farmer, agricultural worker) : 1 meaning(s), 2 sentences
+- `chula-l5-336` : จำหน่าย (to sell, to put on sale, to distribute) : 1 meaning(s), 2 sentences
 - `chula-l5-337` : จับคู่ (to pair up, to pair with) : 1 meaning(s), 2 sentences
+- `chula-l5-341` : มั่นใจ (confident) : 1 meaning(s), 2 sentences
 - `chula-l5-343` : กรอบ (framework, frame; crispy) : 2 meaning(s), 4 sentences
 - `chula-l5-344` : ทักษะ (skill) : 1 meaning(s), 2 sentences
+- `chula-l5-346` : เศรษฐกิจ (economy) : 1 meaning(s), 2 sentences
+- `chula-l5-347` : วัตถุดิบ (raw material) : 1 meaning(s), 2 sentences
 - `chula-l5-348` : พลังงาน (energy) : 1 meaning(s), 2 sentences
+- `chula-l5-352` : อุตสาหกรรม (industry) : 1 meaning(s), 2 sentences
+- `chula-l5-353` : เกษตรกรรม (agriculture (industry)) : 1 meaning(s), 2 sentences
 - `chula-l5-357` : สำเร็จรูป (ready-made, instant) : 1 meaning(s), 2 sentences
 - `chula-l5-358` : สำรอง (reserved, spare, secondary) : 1 meaning(s), 2 sentences
 - `chula-l5-367` : ส่วนประกอบ (component, ingredient) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-372` : ความสัมพันธ์ (relationship) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
+- `chula-l5-379` : การเงิน (finance) : 1 meaning(s), 2 sentences
 - `chula-l5-381` : ความขัดแย้ง (conflict) : 1 meaning(s), 2 sentences
+- `chula-l5-387` : สายการบิน (airline) : 1 meaning(s), 2 sentences
 - `chula-l5-389` : สมัคร (to apply) : 1 meaning(s), 2 sentences
 - `chula-l5-391` : สร้อย, สร้อยคอ (necklace) : 1 meaning(s), 2 sentences
 - `chula-l5-393` : เหล็ก (steel, iron) : 1 meaning(s), 2 sentences
