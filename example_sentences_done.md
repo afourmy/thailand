@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4213 words**
+**Total: 4223 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -556,22 +556,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-088` : คำสแลง (slang word) : 1 meaning(s), 2 sentences
 - `tamago-l12-089` : คิด (to think; to charge (a price)) : 2 meaning(s), 4 sentences
 - `tamago-l12-090` : คิดไปคิดมา ("on second thought", "after thinking it over") : 1 meaning(s), 2 sentences
+- `tamago-l12-091` : คิดๆไป ("now that I think about it", "on second thought") : 1 meaning(s), 2 sentences
 - `tamago-l12-092` : คืน (to return (something)) : 1 meaning(s), 2 sentences
 - `tamago-l12-093` : คืนเงิน (to pay back, to refund) : 1 meaning(s), 2 sentences
 - `tamago-l12-094` : คุ้ม (worthwhile, to be worth it) : 1 meaning(s), 2 sentences
 - `tamago-l12-095` : คู่กับ (to pair with, to go together with) : 1 meaning(s), 2 sentences
 - `tamago-l12-096` : ค้าง (stuck, unfinished, pending, left hanging) : 1 meaning(s), 2 sentences
 - `tamago-l12-097` : งอน (to sulk, to be in a huff (especially couples)) : 1 meaning(s), 2 sentences
+- `tamago-l12-098` : งั้นๆ (so so, mediocre) : 1 meaning(s), 2 sentences
 - `tamago-l12-099` : งานศิลปะ (artwork, work of art) : 1 meaning(s), 2 sentences
 - `tamago-l12-101` : ง้อ (to reconcile, to make up with someone, to apologize first) : 1 meaning(s), 2 sentences
+- `tamago-l12-102` : จริงของคุณ ("you're right!", "you have a point") : 1 meaning(s), 2 sentences
+- `tamago-l12-103` : จริงๆจังๆ (seriously, for real) : 1 meaning(s), 2 sentences
+- `tamago-l12-104` : จะว่าไป (by the way, come to think of it) : 1 meaning(s), 2 sentences
 - `tamago-l12-105` : จัด (to organize, to arrange) : 1 meaning(s), 2 sentences
 - `tamago-l12-107` : จำได้คร่าวๆ (to remember roughly, to vaguely recall) : 1 meaning(s), 2 sentences
 - `tamago-l12-109` : จิ้ม (to dip (e.g food in sauce)) : 1 meaning(s), 2 sentences
 - `tamago-l12-110` : จืด, จืดจาง (bland, tasteless) : 1 meaning(s), 2 sentences
+- `tamago-l12-111` : จุ่ม (to dip, to immerse) : 1 meaning(s), 2 sentences
 - `tamago-l12-112` : ฉลอง, เฉลิมฉลอง (to celebrate) : 1 meaning(s), 2 sentences
 - `tamago-l12-115` : ชกมวย (to box (muay thai)) : 1 meaning(s), 2 sentences
 - `tamago-l12-116` : ชวนคุย (to start a conversation, to engage someone in talking) : 1 meaning(s), 2 sentences
 - `tamago-l12-117` : ชัดๆ (clearly, definitely) : 1 meaning(s), 2 sentences
+- `tamago-l12-121` : ชา (numb (numbness or tingling)) : 1 meaning(s), 2 sentences
 - `tamago-l12-122` : ชุดนักเรียน (school uniform) : 1 meaning(s), 2 sentences
 - `tamago-l12-124` : ช่างประปา (plumber) : 1 meaning(s), 2 sentences
 - `tamago-l12-125` : ช่างภาพ, ช่างถ่ายภาพ (photographer) : 1 meaning(s), 2 sentences
@@ -583,12 +590,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-135` : ดอก (classifier for various small objects (flowers, keys, firecrackers, etc)) : 1 meaning(s), 2 sentences
 - `tamago-l12-137` : ดัดผม (to curl hair (get a perm)) : 1 meaning(s), 2 sentences
 - `tamago-l12-140` : ดีเด่น (excellent, outstanding, distinguished) : 1 meaning(s), 2 sentences
+- `tamago-l12-141` : ด้วยกันทั้งนั้น (all of them equally, every single one of them) : 1 meaning(s), 2 sentences
+- `tamago-l12-142` : ตกข่าว (to miss the news, to be out of the loop) : 1 meaning(s), 2 sentences
 - `tamago-l12-143` : ตกงาน (to be unemployed, to lose one's job) : 1 meaning(s), 2 sentences
 - `tamago-l12-144` : ตกแต่ง (to decorate, to furnish, to adorn) : 1 meaning(s), 2 sentences
 - `tamago-l12-145` : ตรงกัน (to match, to correspond) : 1 meaning(s), 2 sentences
 - `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l12-147` : ตลาดนัด (temporary market, flea market) : 1 meaning(s), 2 sentences
 - `tamago-l12-149` : ตอบแทน (to repay, to return a favor) : 1 meaning(s), 2 sentences
+- `tamago-l12-151` : ตั้ง...แน่ะ ("...so much", "such a...") : 1 meaning(s), 2 sentences
 - `tamago-l12-152` : ตั้งนาน (for so long, in a long time) : 1 meaning(s), 2 sentences
 - `tamago-l12-155` : ตามสบาย ("please go ahead", "as you like") : 1 meaning(s), 2 sentences
 - `tamago-l12-157` : ติดกับ (next to, adjacent to) : 1 meaning(s), 2 sentences
