@@ -7265,6 +7265,25 @@
     "topic": "transport",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "congested, stuck, jammed",
+        "sentences": [
+          {
+            "thai": "เช้านี้รถติดขัดมาก",
+            "en": "Traffic is really jammed this morning.",
+            "audio_src": "เช้านี้รถติดขัดมาก",
+            "audio_en_src": "Traffic is really jammed this morning."
+          },
+          {
+            "thai": "การจราจรติดขัดเพราะฝนตก",
+            "en": "Traffic is congested because of the rain.",
+            "audio_src": "การจราจรติดขัดเพราะฝนตก",
+            "audio_en_src": "Traffic is congested because of the rain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7275,6 +7294,25 @@
     "topic": "transport",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to brake",
+        "sentences": [
+          {
+            "thai": "เขาเบรกกะทันหันเพราะมีหมาวิ่งตัด",
+            "en": "He braked suddenly because a dog ran across.",
+            "audio_src": "เขาเบรกกะทันหันเพราะมีหมาวิ่งตัด",
+            "audio_en_src": "He braked suddenly because a dog ran across."
+          },
+          {
+            "thai": "ฝนตกถนนลื่น เบรกไม่อยู่",
+            "en": "The road was slippery from the rain, so the car couldn’t stop.",
+            "audio_src": "ฝนตกถนนลื่น เบรกไม่อยู่",
+            "audio_en_src": "The road was slippery from the rain, so the car couldn’t stop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7329,6 +7367,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "pond, well",
+        "sentences": [
+          {
+            "thai": "ที่บ้านมีบ่อเลี้ยงปลา",
+            "en": "We have a fish pond at home.",
+            "audio_src": "ที่บ้านมีบ่อเลี้ยงปลา",
+            "audio_en_src": "We have a fish pond at home."
+          },
+          {
+            "thai": "เขาตักน้ำจากบ่อ",
+            "en": "He drew water from the well.",
+            "audio_src": "เขาตักน้ำจากบ่อ",
+            "audio_en_src": "He drew water from the well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7520,6 +7577,42 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to bloom",
+        "sentences": [
+          {
+            "thai": "ดอกไม้บานเต็มสวน",
+            "en": "The flowers are blooming all over the garden.",
+            "audio_src": "ดอกไม้บานเต็มสวน",
+            "audio_en_src": "The flowers are blooming all over the garden."
+          },
+          {
+            "thai": "ดอกบัวบานตอนเช้า",
+            "en": "Lotus flowers bloom in the morning.",
+            "audio_src": "ดอกบัวบานตอนเช้า",
+            "audio_en_src": "Lotus flowers bloom in the morning."
+          }
+        ]
+      },
+      {
+        "meaning": "to spread out, to be wide open",
+        "sentences": [
+          {
+            "thai": "เธอใส่กระโปรงบาน",
+            "en": "She’s wearing a flared skirt.",
+            "audio_src": "เธอใส่กระโปรงบาน",
+            "audio_en_src": "She’s wearing a flared skirt."
+          },
+          {
+            "thai": "เขาดีใจจนหน้าบาน",
+            "en": "He was so happy his face lit up.",
+            "audio_src": "เขาดีใจจนหน้าบาน",
+            "audio_en_src": "He was so happy his face lit up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7553,6 +7646,25 @@
       "Tamago L1-2",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "brand",
+        "sentences": [
+          {
+            "thai": "รองเท้ายี่ห้อนี้ทนมาก",
+            "en": "This brand of shoes is really durable.",
+            "audio_src": "รองเท้ายี่ห้อนี้ทนมาก",
+            "audio_en_src": "This brand of shoes is really durable."
+          },
+          {
+            "thai": "เธอชอบใช้เครื่องสำอางยี่ห้อแพงๆ",
+            "en": "She likes to use expensive brand-name cosmetics.",
+            "audio_src": "เธอชอบใช้เครื่องสำอางยี่ห้อแพงๆ",
+            "audio_en_src": "She likes to use expensive brand-name cosmetics."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7658,6 +7770,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to gossip (negatively), to talk behind someone's back",
+        "sentences": [
+          {
+            "thai": "อย่านินทาคนอื่นลับหลัง",
+            "en": "Don’t gossip about people behind their backs.",
+            "audio_src": "อย่านินทาคนอื่นลับหลัง",
+            "audio_en_src": "Don’t gossip about people behind their backs."
+          },
+          {
+            "thai": "พวกเขาชอบนินทาเพื่อนร่วมงาน",
+            "en": "They love gossiping about their coworkers.",
+            "audio_src": "พวกเขาชอบนินทาเพื่อนร่วมงาน",
+            "audio_en_src": "They love gossiping about their coworkers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7690,6 +7821,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "head (formal)",
+        "sentences": [
+          {
+            "thai": "เขาปวดศีรษะมาทั้งวัน",
+            "en": "He’s had a headache all day.",
+            "audio_src": "เขาปวดศีรษะมาทั้งวัน",
+            "audio_en_src": "He’s had a headache all day."
+          },
+          {
+            "thai": "กรุณาก้มศีรษะลงเล็กน้อย",
+            "en": "Please bow your head slightly.",
+            "audio_src": "กรุณาก้มศีรษะลงเล็กน้อย",
+            "audio_en_src": "Please bow your head slightly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8141,6 +8291,25 @@
       "Chulalongkorn L6",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fat",
+        "sentences": [
+          {
+            "thai": "อาหารทอดมีไขมันสูง",
+            "en": "Fried food is high in fat.",
+            "audio_src": "อาหารทอดมีไขมันสูง",
+            "audio_en_src": "Fried food is high in fat."
+          },
+          {
+            "thai": "เขาพยายามลดไขมันในร่างกาย",
+            "en": "He’s trying to reduce his body fat.",
+            "audio_src": "เขาพยายามลดไขมันในร่างกาย",
+            "audio_en_src": "He’s trying to reduce his body fat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8259,6 +8428,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "constipation",
+        "sentences": [
+          {
+            "thai": "กินผักน้อยเลยท้องผูก",
+            "en": "I don’t eat many vegetables, so I get constipated.",
+            "audio_src": "กินผักน้อยเลยท้องผูก",
+            "audio_en_src": "I don’t eat many vegetables, so I get constipated."
+          },
+          {
+            "thai": "การดื่มน้ำเยอะช่วยแก้ท้องผูก",
+            "en": "Drinking plenty of water helps with constipation.",
+            "audio_src": "การดื่มน้ำเยอะช่วยแก้ท้องผูก",
+            "audio_en_src": "Drinking plenty of water helps with constipation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8491,6 +8679,25 @@
       "Anki Basics",
       "Thai 4000",
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "germ, pathogen",
+        "sentences": [
+          {
+            "thai": "การล้างมือช่วยกำจัดเชื้อโรค",
+            "en": "Washing your hands helps get rid of germs.",
+            "audio_src": "การล้างมือช่วยกำจัดเชื้อโรค",
+            "audio_en_src": "Washing your hands helps get rid of germs."
+          },
+          {
+            "thai": "เชื้อโรคแพร่กระจายทางอากาศ",
+            "en": "Germs spread through the air.",
+            "audio_src": "เชื้อโรคแพร่กระจายทางอากาศ",
+            "audio_en_src": "Germs spread through the air."
+          }
+        ]
+      }
     ]
   },
   {

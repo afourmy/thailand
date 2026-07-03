@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4043 words**
+**Total: 4053 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -177,11 +177,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-169` : อาการ (symptom, (medical) condition) : 1 meaning(s), 2 sentences
 - `chula-l5-171` : ตาราง (chart, table) : 1 meaning(s), 2 sentences
 - `chula-l5-172` : รถกระบะ (pick-up truck) : 1 meaning(s), 2 sentences
+- `chula-l5-174` : ติดขัด (congested, stuck, jammed) : 1 meaning(s), 2 sentences
+- `chula-l5-175` : เบรก (to brake) : 1 meaning(s), 2 sentences
 - `chula-l5-177` : ใกล้เคียง (nearby) : 1 meaning(s), 2 sentences
+- `chula-l5-178` : บ่อ (pond, well) : 1 meaning(s), 2 sentences
 - `chula-l5-183` : ยอดนิยม (highly popular) : 1 meaning(s), 2 sentences
 - `chula-l5-185` : ชุมชน (community) : 1 meaning(s), 2 sentences
 - `chula-l5-188` : สะท้อน (to reflect) : 1 meaning(s), 2 sentences
+- `chula-l5-189` : บาน (to bloom; to spread out, to be wide open) : 2 meaning(s), 4 sentences
+- `chula-l5-192` : ยี่ห้อ (brand) : 1 meaning(s), 2 sentences
 - `chula-l5-193` : ขาด (to lack, to be missing; torn, broken) : 2 meaning(s), 4 sentences
+- `chula-l5-198` : นินทา (to gossip (negatively), to talk behind someone's back) : 1 meaning(s), 2 sentences
+- `chula-l5-201` : ศีรษะ (head (formal)) : 1 meaning(s), 2 sentences
 - `chula-l5-203` : ถ่าย (to take (photo, video); to defecate; to transfer (data)) : 3 meaning(s), 6 sentences
 - `chula-l5-212` : มุ้ง (mosquito net) : 1 meaning(s), 2 sentences
 - `chula-l5-214` : แหล่ง (source) : 1 meaning(s), 2 sentences
@@ -189,11 +196,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-223` : อันดับ (rank) : 1 meaning(s), 2 sentences
 - `chula-l5-224` : อัตรา (rate) : 1 meaning(s), 2 sentences
 - `chula-l5-225` : พฤติกรรม (behavior) : 1 meaning(s), 2 sentences
+- `chula-l5-226` : ไขมัน (fat) : 1 meaning(s), 2 sentences
 - `chula-l5-230` : ประวัติ (history, background, record) : 1 meaning(s), 2 sentences
+- `chula-l5-235` : ท้องผูก (constipation) : 1 meaning(s), 2 sentences
 - `chula-l5-236` : สลับ (to swap, to switch) : 1 meaning(s), 2 sentences
 - `chula-l5-239` : หัวข้อ (topic) : 1 meaning(s), 2 sentences
 - `chula-l5-240` : ปน (to mix, to blend, to mingle) : 1 meaning(s), 2 sentences
 - `chula-l5-247` : กรณี (case) : 1 meaning(s), 2 sentences
+- `chula-l5-249` : เชื้อ, เชื้อโรค (germ, pathogen) : 1 meaning(s), 2 sentences
 - `chula-l5-256` : ยากันยุง (mosquito repellent) : 1 meaning(s), 2 sentences
 - `chula-l5-257` : ซ้ำ (to repeat, repeatedly, again) : 1 meaning(s), 2 sentences
 - `chula-l5-261` : ผิดปกติ (abnormal) : 1 meaning(s), 2 sentences
