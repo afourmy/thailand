@@ -2158,6 +2158,25 @@
       "Chulalongkorn L4",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to dedicate, to commit fully, dedicated",
+        "sentences": [
+          {
+            "thai": "เขาทุ่มเทให้กับงานมาก",
+            "en": "He’s really dedicated to his work.",
+            "audio_src": "เขาทุ่มเทให้กับงานมาก",
+            "audio_en_src": "He’s really dedicated to his work."
+          },
+          {
+            "thai": "เธอทุ่มเทเวลาทั้งหมดให้ลูก",
+            "en": "She devotes all her time to her kids.",
+            "audio_src": "เธอทุ่มเทเวลาทั้งหมดให้ลูก",
+            "audio_en_src": "She devotes all her time to her kids."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2169,6 +2188,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "selfish, self-centered, to have everything one's way",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้เอาแต่ใจตัวเอง",
+            "en": "This kid always wants everything his way.",
+            "audio_src": "เด็กคนนี้เอาแต่ใจตัวเอง",
+            "audio_en_src": "This kid always wants everything his way."
+          },
+          {
+            "thai": "อย่าเอาแต่ใจตัวเองสิ ฟังคนอื่นบ้าง",
+            "en": "Don’t be so selfish, listen to others sometimes.",
+            "audio_src": "อย่าเอาแต่ใจตัวเองสิ ฟังคนอื่นบ้าง",
+            "audio_en_src": "Don’t be so selfish, listen to others sometimes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2203,6 +2241,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "gentle, tender",
+        "sentences": [
+          {
+            "thai": "เขาพูดจาอ่อนโยนกับทุกคน",
+            "en": "He speaks gently to everyone.",
+            "audio_src": "เขาพูดจาอ่อนโยนกับทุกคน",
+            "audio_en_src": "He speaks gently to everyone."
+          },
+          {
+            "thai": "แม่เป็นคนอ่อนโยนและใจดี",
+            "en": "My mother is gentle and kind.",
+            "audio_src": "แม่เป็นคนอ่อนโยนและใจดี",
+            "audio_en_src": "My mother is gentle and kind."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2216,6 +2273,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "however, nevertheless, even so",
+        "sentences": [
+          {
+            "thai": "อย่างไรก็ตาม เราก็ต้องพยายามต่อไป",
+            "en": "However, we still have to keep trying.",
+            "audio_src": "อย่างไรก็ตาม เราก็ต้องพยายามต่อไป",
+            "audio_en_src": "However, we still have to keep trying."
+          },
+          {
+            "thai": "งานยาก อย่างไรก็ตามเขาก็ทำสำเร็จ",
+            "en": "The job was hard; nevertheless, he pulled it off.",
+            "audio_src": "งานยาก อย่างไรก็ตามเขาก็ทำสำเร็จ",
+            "audio_en_src": "The job was hard; nevertheless, he pulled it off."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2260,6 +2336,25 @@
       "Chulalongkorn L4",
       "Thaipod101",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to console, to comfort",
+        "sentences": [
+          {
+            "thai": "เธอร้องไห้ เขาเลยเข้าไปปลอบ",
+            "en": "She was crying, so he went to comfort her.",
+            "audio_src": "เธอร้องไห้ เขาเลยเข้าไปปลอบ",
+            "audio_en_src": "She was crying, so he went to comfort her."
+          },
+          {
+            "thai": "เพื่อนช่วยกันปลอบใจเธอ",
+            "en": "Her friends comforted her.",
+            "audio_src": "เพื่อนช่วยกันปลอบใจเธอ",
+            "audio_en_src": "Her friends comforted her."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2270,6 +2365,25 @@
     "topic": "personality",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "womanizer, someone who likes to flirt",
+        "sentences": [
+          {
+            "thai": "ผู้ชายคนนั้นเจ้าชู้มาก",
+            "en": "That guy is a real womanizer.",
+            "audio_src": "ผู้ชายคนนั้นเจ้าชู้มาก",
+            "audio_en_src": "That guy is a real womanizer."
+          },
+          {
+            "thai": "ระวังเขานะ เจ้าชู้สุดๆ",
+            "en": "Watch out for him, he’s a total flirt.",
+            "audio_src": "ระวังเขานะ เจ้าชู้สุดๆ",
+            "audio_en_src": "Watch out for him, he’s a total flirt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2291,6 +2405,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "wife's father",
+        "sentences": [
+          {
+            "thai": "พ่อตาชอบตกปลาเป็นงานอดิเรก",
+            "en": "My father-in-law likes fishing as a hobby.",
+            "audio_src": "พ่อตาชอบตกปลาเป็นงานอดิเรก",
+            "audio_en_src": "My father-in-law likes fishing as a hobby."
+          },
+          {
+            "thai": "ผมพาพ่อตาไปหาหมอ",
+            "en": "I took my father-in-law to see the doctor.",
+            "audio_src": "ผมพาพ่อตาไปหาหมอ",
+            "audio_en_src": "I took my father-in-law to see the doctor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2302,6 +2435,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "wife's mother",
+        "sentences": [
+          {
+            "thai": "แม่ยายทำกับข้าวอร่อยมาก",
+            "en": "My mother-in-law cooks really well.",
+            "audio_src": "แม่ยายทำกับข้าวอร่อยมาก",
+            "audio_en_src": "My mother-in-law cooks really well."
+          },
+          {
+            "thai": "เขากับแม่ยายสนิทกันมาก",
+            "en": "He’s very close with his mother-in-law.",
+            "audio_src": "เขากับแม่ยายสนิทกันมาก",
+            "audio_en_src": "He’s very close with his mother-in-law."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2312,6 +2464,25 @@
     "topic": "family",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to disagree, to be at odds, to not get along",
+        "sentences": [
+          {
+            "thai": "สองคนนี้ไม่ลงรอยกันมานานแล้ว",
+            "en": "These two haven’t gotten along for a long time.",
+            "audio_src": "สองคนนี้ไม่ลงรอยกันมานานแล้ว",
+            "audio_en_src": "These two haven’t gotten along for a long time."
+          },
+          {
+            "thai": "พี่น้องบางทีก็ไม่ลงรอยกัน",
+            "en": "Siblings sometimes don’t get along.",
+            "audio_src": "พี่น้องบางทีก็ไม่ลงรอยกัน",
+            "audio_en_src": "Siblings sometimes don’t get along."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2333,6 +2504,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "age range, stage of life",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้เหมาะกับทุกช่วงวัย",
+            "en": "This book is suitable for all ages.",
+            "audio_src": "หนังสือเล่มนี้เหมาะกับทุกช่วงวัย",
+            "audio_en_src": "This book is suitable for all ages."
+          },
+          {
+            "thai": "แต่ละช่วงวัยมีความท้าทายต่างกัน",
+            "en": "Each stage of life has its own challenges.",
+            "audio_src": "แต่ละช่วงวัยมีความท้าทายต่างกัน",
+            "audio_en_src": "Each stage of life has its own challenges."
+          }
+        ]
+      }
     ]
   },
   {

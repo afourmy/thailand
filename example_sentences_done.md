@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3983 words**
+**Total: 3993 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -56,7 +56,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-090` : ดื้อ, ดื้อรั้น (stubborn, disobedient) : 1 meaning(s), 2 sentences
 - `chula-l4-094` : มีเสน่ห์ (charming, charismatic) : 1 meaning(s), 2 sentences
 - `chula-l4-096` : พรสวรรค์ (talent) : 1 meaning(s), 2 sentences
+- `chula-l4-097` : ทุ่มเท (to dedicate, to commit fully, dedicated) : 1 meaning(s), 2 sentences
+- `chula-l4-098` : เอาแต่ใจตัวเอง (selfish, self-centered, to have everything one's way) : 1 meaning(s), 2 sentences
+- `chula-l4-101` : อ่อนโยน (gentle, tender) : 1 meaning(s), 2 sentences
+- `chula-l4-102` : อย่างไรก็ตาม (however, nevertheless, even so) : 1 meaning(s), 2 sentences
 - `chula-l4-103` : ที่อยู่อาศัย (residence) : 1 meaning(s), 2 sentences
+- `chula-l4-104` : ปลอบ, ปลอบใจ (to console, to comfort) : 1 meaning(s), 2 sentences
+- `chula-l4-105` : เจ้าชู้ (womanizer, someone who likes to flirt) : 1 meaning(s), 2 sentences
+- `chula-l4-107` : พ่อตา (wife's father) : 1 meaning(s), 2 sentences
+- `chula-l4-108` : แม่ยาย (wife's mother) : 1 meaning(s), 2 sentences
+- `chula-l4-111` : ไม่ลงรอยกัน (to disagree, to be at odds, to not get along) : 1 meaning(s), 2 sentences
+- `chula-l4-114` : ช่วงวัย (age range, stage of life) : 1 meaning(s), 2 sentences
 - `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
 - `chula-l4-121` : เต็มที่ (to the utmost, fully, totally, wholeheartedly, 100%) : 1 meaning(s), 2 sentences
