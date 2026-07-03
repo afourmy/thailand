@@ -3560,7 +3560,7 @@
   {
     "id": "chula-l5-057",
     "thai": "ตัดสิน",
-    "english": "to judge, to decide; to give a verdict",
+    "english": "to judge, to decide; to rule, to give a verdict",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -3884,8 +3884,22 @@
   },
   {
     "id": "chula-l5-073",
-    "thai": "หลักฐาน, เครื่องพิสูจน์",
-    "english": "evidence, proof",
+    "thai": "หลักฐาน",
+    "english": "proof, evidence",
+    "frequency": "common",
+    "topic": "law",
+    "sources": [
+      "Chulalongkorn L5",
+      "Thaipod101",
+      "Tobo Deck",
+      "Thai 4000",
+      "Tamago L3"
+    ]
+  },
+  {
+    "id": "new-9",
+    "thai": "เครื่องพิสูจน์",
+    "english": "method of verification, instrument of proof (formal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -37614,7 +37628,7 @@
   {
     "id": "tamago-l3-289",
     "thai": "วันต่อวัน",
-    "english": "day by day, day after day",
+    "english": "day by day, one day at a time",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -41945,7 +41959,7 @@
   {
     "id": "tamago-l3-492",
     "thai": "วันๆ",
-    "english": "day after day, every day",
+    "english": "day after day, every day, all day long",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -42583,7 +42597,7 @@
   {
     "id": "tamago-l3-525",
     "thai": "ฟ้อง, ฟ้องร้อง",
-    "english": "to complain about someone; to sue, file a lawsuit",
+    "english": "to complain about someone; to sue, to file a lawsuit",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -42743,7 +42757,7 @@
   {
     "id": "tamago-l3-532",
     "thai": "เอาผิดกับ",
-    "english": "to hold someone accountable, to find guilty",
+    "english": "to prosecute, to take legal action against, to hold someone legally accountable",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -46816,7 +46830,7 @@
   {
     "id": "tamago-l3-733",
     "thai": "นานพอควร",
-    "english": "long enough, fairly long",
+    "english": "quite long, fairly long",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -51356,7 +51370,7 @@
   {
     "id": "tsl-097",
     "thai": "ฝ่าฝืน",
-    "english": "to violate (a law), to disobey (an order)",
+    "english": "to violate, to disobey, to breach (e.g a law, a rule)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -57590,7 +57604,7 @@
   {
     "id": "tsl-454",
     "thai": "ชั่วขณะ",
-    "english": "momentarily, for a moment",
+    "english": "momentarily, for a moment, brief instant",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -66562,7 +66576,7 @@
   {
     "id": "thaipod-0351",
     "thai": "ตอนต้น",
-    "english": "the beginning, early part",
+    "english": "beginning, early stage, initial period",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -70234,7 +70248,7 @@
   {
     "id": "thaipod-0579",
     "thai": "ปล้น",
-    "english": "to rob",
+    "english": "to rob (often with force or in groups, like a bank)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -73435,7 +73449,7 @@
   {
     "id": "thaipod-0798",
     "thai": "ยามค่ำคืน",
-    "english": "at night, nighttime",
+    "english": "at night, nighttime (formal)",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -73986,7 +74000,7 @@
   {
     "id": "thaipod-0833",
     "thai": "ระยะเวลา",
-    "english": "period of time",
+    "english": "period of time, time span",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -74953,7 +74967,7 @@
   {
     "id": "thaipod-0893",
     "thai": "ลักลอบ",
-    "english": "to smuggle, to do something illegally",
+    "english": "to smuggle, to do something illegally, to carry out an activity in hiding",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -75206,7 +75220,7 @@
   {
     "id": "thaipod-0915",
     "thai": "วันรุ่งขึ้น",
-    "english": "the next day",
+    "english": "the next day, the following day (formal)",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -81572,16 +81586,6 @@
     ]
   },
   {
-    "id": "thaipod-1296",
-    "thai": "เอาผิด",
-    "english": "to take legal action against, to hold accountable",
-    "frequency": "common",
-    "topic": "law",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-1297",
     "thai": "เอาละ",
     "english": "alright, well then",
@@ -85010,7 +85014,7 @@
   {
     "id": "tobo-055",
     "thai": "ขโมย",
-    "english": "thief; to steal",
+    "english": "thief, to steal",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -93199,7 +93203,7 @@
   {
     "id": "tobo-408",
     "thai": "มีความผิด",
-    "english": "guilty",
+    "english": "to be guilty, to be at fault",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -99022,7 +99026,7 @@
   {
     "id": "yt-c03-043",
     "thai": "โป๊",
-    "english": "nude, naked",
+    "english": "nude, porn",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -107137,7 +107141,7 @@
   {
     "id": "yt-c09-003",
     "thai": "ตอนเนี้ย",
-    "english": "right now, at this moment",
+    "english": "right now, at this moment (informal, colloquial)",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -110145,7 +110149,7 @@
   {
     "id": "yt-c11-028",
     "thai": "เม้าท์มอย",
-    "english": "to gossip; to chat casually",
+    "english": "to gossip, to chat casually",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -110533,9 +110537,19 @@
   },
   {
     "id": "yt-c11-060",
-    "thai": "กวนตีน - กวนบาทา",
-    "english": "annoying, to annoy, piss off - annoying, to annoy, irritate",
+    "thai": "กวนตีน",
+    "english": "annoying, to annoy, to irritate",
     "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-14",
+    "thai": "กวนบาทา",
+    "english": "annoying, to annoy, to irritate (rare)",
+    "frequency": "rare",
     "topic": "slang",
     "sources": [
       "YouTube"
@@ -110953,8 +110967,8 @@
   },
   {
     "id": "yt-c11-096",
-    "thai": "เสือก - อย่ามาเสือก",
-    "english": "to butt in, to meddle with (slang - rude) - \"don't come meddling\", \"mind your own business\"",
+    "thai": "เสือก",
+    "english": "to butt in, to meddle with (slang, very rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -111333,7 +111347,7 @@
   {
     "id": "yt-c12-028",
     "thai": "ย้อนหลัง",
-    "english": "after the fact, retroactively (e.g to send homework late, to wish something (birthday, new year, etc) late)",
+    "english": "after the fact, retroactively (e.g to send homework late, to wish a birthday late)",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -113250,7 +113264,7 @@
   {
     "id": "yt-c13-056",
     "thai": "สภา",
-    "english": "council, assembly; parliament",
+    "english": "council, assembly, parliament",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -114448,8 +114462,8 @@
   },
   {
     "id": "yt-c14-026",
-    "thai": "ตม (ตรวจคนเข้าเมือง)",
-    "english": "immigration (department, office)",
+    "thai": "ตรวจคนเข้าเมือง (ตม.)",
+    "english": "immigration (e.g department, office)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -114984,8 +114998,8 @@
   },
   {
     "id": "yt-c14-070",
-    "thai": "ปิ๊ง - แอบปิ๊ง",
-    "english": "to have a thing, to have a crush - to secretly have a crush",
+    "thai": "ปิ๊ง",
+    "english": "to click, to instantly like, to have a sudden crush",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -114995,7 +115009,7 @@
   {
     "id": "yt-c14-071",
     "thai": "อ่อย",
-    "english": "to hit on someone, to flirt; to bait, to lure",
+    "english": "to hit on someone, to flirt",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -115097,8 +115111,18 @@
   },
   {
     "id": "yt-c14-079",
-    "thai": "หัวใส, หัวหมอ",
-    "english": "clever in a tricky or sly way, cunning, quick-witted when it comes to seeking advantages for oneself",
+    "thai": "หัวใส",
+    "english": "clever, quick-witted, smart-thinking",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-15",
+    "thai": "หัวหมอ",
+    "english": "cunning, sly, clever in a way that exploits loopholes",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -115168,7 +115192,7 @@
   {
     "id": "yt-c14-086",
     "thai": "หุบปาก",
-    "english": "close your mouth; (figuratively) shut up",
+    "english": "\"shut up\", \"stop talking\"",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -115317,7 +115341,7 @@
   {
     "id": "yt-c14-097",
     "thai": "เกินต้าน",
-    "english": "(literally) \"can't handle it\", \"too much to resist\"; (figuratively) \"too cute to resist\", out of this world, extremely cute",
+    "english": "irresistible, \"too good to resist\", \"too cute to resist\"",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -115357,7 +115381,7 @@
   {
     "id": "yt-c15-001",
     "thai": "คนคุย",
-    "english": "a person you are casually seeing or dating but not officially dating yet, still getting to know each other romantically",
+    "english": "a person you are casually seeing but not officially dating yet, still getting to know each other romantically",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -115896,7 +115920,7 @@
   {
     "id": "yt-c15-032",
     "thai": "แซ่บ",
-    "english": "delicious and spicy (used only for spicy food); (figuratively) sexy, hot (of a girl)",
+    "english": "tasty and spicy (food); (figuratively) sexy, hot (girl)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -116161,8 +116185,8 @@
   },
   {
     "id": "yt-c15-054",
-    "thai": "อวย - อวยไส้แตก",
-    "english": "(slang) to overpraise, hype up, flatter, give excessive compliments - to praise so much it's ridiculous, to praise it to death (literally \"praise until guts burst\")",
+    "thai": "อวยไส้แตก",
+    "english": "to overhype, to praise so much it's ridiculous, to praise to death (literally \"praise until guts burst\")",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -116282,7 +116306,7 @@
   {
     "id": "yt-c15-058",
     "thai": "อ่อม, อ่อมๆ ยมๆ",
-    "english": "(slang) not good enough, meh, so so, not bad not great",
+    "english": "bland, boring, so so, underwhelming (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -116408,7 +116432,7 @@
   {
     "id": "yt-c15-065",
     "thai": "ลั้นลา",
-    "english": "carefree, cheerful, lighthearted, enjoying oneself without worries",
+    "english": "carefree, cheerful, lighthearted, enjoying oneself without worries (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -116468,8 +116492,8 @@
   },
   {
     "id": "yt-c15-069",
-    "thai": "ปัง - ปั๊วะ - ปั๊วะ ปัง",
-    "english": "impressive; very pretty (said of a girl only)",
+    "thai": "ปัง, ปั๊วะ, ปั๊วะปัง",
+    "english": "amazing, impressive, excellent, very pretty",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -116499,7 +116523,7 @@
   {
     "id": "yt-c15-073",
     "thai": "ทำถึง",
-    "english": "(slang) to \"go all the way\", to \"go that far!\", very good (food, actor, etc)",
+    "english": "to \"go all the way\", executed perfectly (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -117060,46 +117084,6 @@
     ]
   },
   {
-    "id": "yt-c16-014",
-    "thai": "คถ (คิดถึง)",
-    "english": "I miss you (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-015",
-    "thai": "ทร (ทำไร)",
-    "english": "What are you doing (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-016",
-    "thai": "พส (พี่สาว, เพื่อนสาว)",
-    "english": "older sister, (female) friend (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-017",
-    "thai": "อห (โอ้โห - อีเหี้ย, อีห่า)",
-    "english": "(normal meaning) oh oh...! - (slang) \"fuck!\" (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c16-018",
     "thai": "อส (อีสัตว์)",
     "english": "(insult, slang) fucking animal (online abbreviation)",
@@ -117110,100 +117094,10 @@
     ]
   },
   {
-    "id": "yt-c16-019",
-    "thai": "ชห, ฉห (ชิบหาย)",
-    "english": "(slang) shit, fuck, screwed, messed up (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-020",
-    "thai": "วดฟ",
-    "english": "\"what the fuck\" in thai (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-021",
-    "thai": "กลป (กำลังไป)",
-    "english": "I'm on the way (otw) (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-022",
-    "thai": "มปร",
-    "english": "mai bpen rai (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-023",
-    "thai": "มมปห",
-    "english": "np (no problem) (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-024",
-    "thai": "มป (ไม่ไป)",
-    "english": "I'm not going (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-025",
-    "thai": "พน",
-    "english": "tmrw (tomorrow) (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c16-026",
     "thai": "ปสด (ประสาทแดก)",
     "english": "said about someone who acts crazy, behaves badly (insult) (online abbreviation)",
     "frequency": "occasional",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-027",
-    "thai": "ตปท (ต่างประเทศ)",
-    "english": "abroad (online abbreviation)",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-028",
-    "thai": "คหสต (ความคิดเห็นส่วนตัว)",
-    "english": "IMO (in my opinion)",
-    "frequency": "common",
     "topic": "slang",
     "sources": [
       "YouTube"
@@ -117701,7 +117595,7 @@
   {
     "id": "yt-c16-059",
     "thai": "ทุจริต",
-    "english": "corrupt (e.g politician), fraudulent, to commit corruption",
+    "english": "corruption, fraud, misconduct",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -117826,17 +117720,7 @@
   {
     "id": "yt-c16-070",
     "thai": "ตอแหล",
-    "english": "(slang, very bad) to lie, liar, \"bullshit!\"",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-071",
-    "thai": "อย่ามาสะตอ",
-    "english": "(slang) \"don't lie to me\", \"don't bullshit me\"",
+    "english": "to lie, liar, \"bullshit!\" (slang, very rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -117846,7 +117730,7 @@
   {
     "id": "yt-c16-072",
     "thai": "เปรี้ยว",
-    "english": "sour; (slang) stylish, used about girls that dress seductively",
+    "english": "sour; (slang) stylish, fashionable, used about girls that dress seductively",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -117899,7 +117783,7 @@
   {
     "id": "yt-c16-077",
     "thai": "งี่เง่า",
-    "english": "silly, foolish, stupid",
+    "english": "silly, foolish, stupid (e.g behavior)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -117918,8 +117802,18 @@
   },
   {
     "id": "yt-c16-079",
-    "thai": "หมูๆ, จิ๊บๆ",
-    "english": "very easy, trivial",
+    "thai": "หมูๆ",
+    "english": "very easy, a piece of cake",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-13",
+    "thai": "จิ๊บๆ",
+    "english": "trivial, no big deal, easy, insignificant (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -120538,7 +120432,7 @@
   {
     "id": "yt-c18-057",
     "thai": "วนลูป",
-    "english": "(colloquial, loanword) to get stuck in a loop, to repeat the same process endlessly",
+    "english": "to get stuck in a loop, to repeat the same process endlessly (colloquial)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -120928,8 +120822,8 @@
   },
   {
     "id": "yt-c18-080",
-    "thai": "ติ่ง (ติ่งนักร้อง)",
-    "english": "skin tag, protruding piece of flesh; hardcore fan of something (hardcore fan of a singer)",
+    "thai": "ติ่ง",
+    "english": "skin tag, protruding piece of flesh; hardcore fan, die-hard fan",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -121491,7 +121385,7 @@
   {
     "id": "yt-c19-021",
     "thai": "ปั่นหัว",
-    "english": "to mess with someone's mind, trick, manipulate",
+    "english": "to mess with someone's mind, to trick, to manipulate psychologically",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -121501,7 +121395,7 @@
   {
     "id": "yt-c19-022",
     "thai": "ปั่นประสาท",
-    "english": "to drive someone crazy, to mess with someone's head",
+    "english": "to drive someone crazy, to torment, to mess with someone's head (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -121663,7 +121557,7 @@
   {
     "id": "yt-c19-034",
     "thai": "กะหรี่",
-    "english": "(vulgar, insult) whore, slut, prostitute",
+    "english": "whore, slut, prostitute (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -121998,7 +121892,7 @@
   {
     "id": "yt-c19-054",
     "thai": "ปอดแหก",
-    "english": "coward, scared, terrified; to chicken out",
+    "english": "coward, easily scared, to chicken out",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122058,8 +121952,18 @@
   },
   {
     "id": "yt-c19-058",
-    "thai": "คอแข็ง - คออ่อน",
-    "english": "strong drinker, does not get drunk easily - low alcohol tolerance, gets drunk easily",
+    "thai": "คอแข็ง",
+    "english": "strong drinker, someone who does not get drunk easily",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-12",
+    "thai": "คออ่อน",
+    "english": "low alcohol tolerance, someone who gets drunk easily",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122130,7 +122034,7 @@
   {
     "id": "yt-c19-066",
     "thai": "ช้าง",
-    "english": "elephant; (slang, rude) fat",
+    "english": "elephant",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122142,7 +122046,7 @@
   {
     "id": "yt-c19-067",
     "thai": "กุ้งแห้ง",
-    "english": "(slang) skinny person (literally \"dried shrimp\")",
+    "english": "skinny person (slang, literally \"dried shrimp\")",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122152,7 +122056,7 @@
   {
     "id": "yt-c19-068",
     "thai": "นกเขา",
-    "english": "dove; (slang) small penis",
+    "english": "dove; penis (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122182,7 +122086,7 @@
   {
     "id": "yt-c19-071",
     "thai": "เสือผู้หญิง",
-    "english": "womanizer, jaoshuu (literally \"tiger + girl\")",
+    "english": "womanizer (literally \"tiger + girl\")",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122324,7 +122228,7 @@
   {
     "id": "yt-c19-086",
     "thai": "ซิง",
-    "english": "(slang, informal) virgin (boy or girl who never had sex)",
+    "english": "virgin, sexually inexperienced (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122353,8 +122257,8 @@
   },
   {
     "id": "yt-c19-089",
-    "thai": "เอากัน - เอาไหม",
-    "english": "let's have sex - do you want to fuck ?",
+    "thai": "เอากัน",
+    "english": "to have sex (slang, literally \"to do each other\")",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122394,7 +122298,7 @@
   {
     "id": "yt-c19-093",
     "thai": "กินตับ",
-    "english": "(slang) to get laid, to have sex",
+    "english": "to get laid, to have sex (slang, literally \"eat liver\")",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122423,8 +122327,8 @@
   },
   {
     "id": "yt-c19-097",
-    "thai": "ขึ้นเลย, แข็งเลย, แข็งแล้ว",
-    "english": "to have an erection, \"I'm hard\"",
+    "thai": "ขึ้นเลย, แข็งเลย",
+    "english": "to have an instant erection",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122444,7 +122348,7 @@
   {
     "id": "yt-c19-099",
     "thai": "มีอารมณ์",
-    "english": "(sexual) to turn on, to be turned on",
+    "english": "sexual arousal, to be turned on (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122453,8 +122357,8 @@
   },
   {
     "id": "yt-c20-000",
-    "thai": "หิว - เงี่ยน",
-    "english": "(sexual) horny (soft) - horny (vulgar)",
+    "thai": "เงี่ยน",
+    "english": "horny (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122474,7 +122378,7 @@
   {
     "id": "yt-c20-002",
     "thai": "ช่วยตัวเอง",
-    "english": "(sexual) to masturbate",
+    "english": "to masturbate (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122553,8 +122457,8 @@
   },
   {
     "id": "yt-c20-011",
-    "thai": "โม๊ก - โม๊กให้หน่อย",
-    "english": "(sexual) to give a blowjob - give me a head",
+    "thai": "โม๊ก",
+    "english": "to give a blowjob, to give head (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122584,7 +122488,7 @@
   {
     "id": "yt-c20-015",
     "thai": "กินเด็ก",
-    "english": "(slang) to date or have sex with a girl a lot younger than you",
+    "english": "to date or have sex with someone a lot younger than you (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122614,7 +122518,7 @@
   {
     "id": "yt-c20-018",
     "thai": "ถังแตก",
-    "english": "to be broke, penniless",
+    "english": "broke, ruined, out of money",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122634,7 +122538,7 @@
   {
     "id": "yt-c20-020",
     "thai": "เจี๊ยว",
-    "english": "(slang, sexual) penis",
+    "english": "penis (slang, childish)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122674,7 +122578,7 @@
   {
     "id": "yt-c20-024",
     "thai": "ดี้",
-    "english": "a girl that likes tomboys (~ lesbian)",
+    "english": "a girl that likes tomboys, feminine-presenting lesbian partner of tomboy (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122684,7 +122588,7 @@
   {
     "id": "yt-c20-025",
     "thai": "เลส",
-    "english": "(sexual, loanword) lesbian",
+    "english": "lesbian (slang, loanword)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122704,7 +122608,7 @@
   {
     "id": "yt-c20-028",
     "thai": "น้องชาย",
-    "english": "(sexual, euphemism) dick",
+    "english": "younger brother",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122716,7 +122620,7 @@
   {
     "id": "yt-c20-029",
     "thai": "งู",
-    "english": "snake; (sexual, slang) dick",
+    "english": "snake",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -122902,7 +122806,7 @@
   {
     "id": "yt-c20-044",
     "thai": "เฮีย",
-    "english": "pronoun to refer to someone older with respect (\"older brother\") (loanword from chinese)",
+    "english": "pronoun to refer to an older Chinese-Thai man with respect (\"older brother\", \"uncle\") (loanword from Chinese)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123079,7 +122983,7 @@
   {
     "id": "yt-c20-052",
     "thai": "งานเข้า",
-    "english": "to get in trouble, to be in trouble",
+    "english": "to get in trouble, to be in trouble, to run into problems",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123129,7 +123033,7 @@
   {
     "id": "yt-c20-057",
     "thai": "เค็ม",
-    "english": "salty; (slang) stingy",
+    "english": "salty; stingy, reluctant to spend money (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123141,7 +123045,7 @@
   {
     "id": "yt-c20-058",
     "thai": "บ้านเล็ก",
-    "english": "(slang) secret lover, mia noi (only used with guys who have an affair)",
+    "english": "mistress, minor wife of a married man (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123151,7 +123055,7 @@
   {
     "id": "yt-c20-059",
     "thai": "รูดซิป",
-    "english": "to zip up; (slang) \"don't tell anyone about this secret\"",
+    "english": "to zip up, to unzip; to not tell anyone about a secret, \"zip it\" (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123161,7 +123065,7 @@
   {
     "id": "yt-c20-060",
     "thai": "หลังไมค์",
-    "english": "(slang) to talk about something privately, off the record",
+    "english": "to talk privately, off the record (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123313,8 +123217,18 @@
   },
   {
     "id": "yt-c20-070",
-    "thai": "แห้ว - กินแห้ว",
-    "english": "water chestnut; (slang) frustration, disappointment - to be disappointed, be left empty-handed, get nothing",
+    "thai": "แห้ว",
+    "english": "water chestnut; frustration, disappointment (e.g failure in getting something desired)",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-11",
+    "thai": "กินแห้ว",
+    "english": "to be disappointed, to fail, to be left empty-handed, to get nothing",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123405,8 +123319,18 @@
   },
   {
     "id": "yt-c20-076",
-    "thai": "ลี้ภัย - ผู้ลี้ภัย",
-    "english": "to seek refuge, to seek asylum - refugee",
+    "thai": "ลี้ภัย",
+    "english": "to seek refuge, to seek asylum",
+    "frequency": "common",
+    "topic": "law",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-7",
+    "thai": "ผู้ลี้ภัย",
+    "english": "refugee",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -123426,7 +123350,7 @@
   {
     "id": "yt-c20-078",
     "thai": "กั๊ก",
-    "english": "to hold something back, keep secrets, not go all in",
+    "english": "to hold something back, to keep secrets, to not go all in (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123476,7 +123400,7 @@
   {
     "id": "yt-c20-083",
     "thai": "ช่างแม่ง",
-    "english": "(slang, vulgar) \"screw it\", \"fuck that shit\"",
+    "english": "\"screw it\", \"fuck that shit\" (slang, vulgar)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123505,8 +123429,8 @@
   },
   {
     "id": "yt-c20-086",
-    "thai": "แม่งเอ้ย",
-    "english": "(slang, vulgar) \"damn it!\", \"fuck you\"",
+    "thai": "พ่อง (พ่อมึง), แม่ง (แม่มึง), แม่งเอ้ย",
+    "english": "\"damn it!\", \"fuck!\" (slang, vulgar)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123576,16 +123500,6 @@
     ]
   },
   {
-    "id": "yt-c20-089",
-    "thai": "พ่อง (พ่อมึง), แม่ง (แม่มึง)",
-    "english": "(very vulgar) \"damn it\", \"fuck!\"",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c20-090",
     "thai": "รักสามเส้า",
     "english": "love triangle",
@@ -123618,7 +123532,7 @@
   {
     "id": "yt-c20-093",
     "thai": "ว่าไปเรื่อย",
-    "english": "(slang) talking nonsense, \"what nonsense are you talking about\"",
+    "english": "to talk nonsense, to ramble, to make things up (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123628,7 +123542,7 @@
   {
     "id": "yt-c20-094",
     "thai": "ไม่เนียน",
-    "english": "(slang) I don't believe you",
+    "english": "not convincing, not believable, fake-looking (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123793,7 +123707,7 @@
   {
     "id": "yt-c21-005",
     "thai": "แซะ",
-    "english": "to pry out, to pick out; to make sarcastic, snide remarks, to take a dig at someone",
+    "english": "to make sarcastic, snide remarks, to take a dig at someone (indirect, passive-aggressive criticism)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -123902,8 +123816,8 @@
   },
   {
     "id": "yt-c21-017",
-    "thai": "จุด จุด จุด กัน - จัดกัน",
-    "english": "to have sex - (a bit rude) to have sex, to hook up",
+    "thai": "จัดกัน",
+    "english": "to have sex, to hook up (literally \"to arrange something\")",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124103,8 +124017,8 @@
   },
   {
     "id": "yt-c21-037",
-    "thai": "จู๋, กระเจี๊ยว, กระปู๋, เจ้าโลก, องคชาต, ปิกาจู, กระดอ, ช้างน้อย, จ้อน",
-    "english": "different words for dick",
+    "thai": "จู๋, กระเจี๊ยว, กระปู๋, เจ้าโลก, องคชาต, ปิกาจู, กระดอ, ช้างน้อย, จ้อน, งู, น้องชาย",
+    "english": "various words for \"dick\"",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124185,7 +124099,7 @@
   {
     "id": "yt-c21-043",
     "thai": "เพ้อเจ้อ",
-    "english": "\"you're talking nonsense\", \"you're being delusional\"",
+    "english": "to talk nonsense, to ramble incoherently, to be delusional",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124256,7 +124170,7 @@
   {
     "id": "yt-c21-048",
     "thai": "แดก",
-    "english": "(slang, rude) to devour, to eat",
+    "english": "to devour, to eat (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124276,7 +124190,7 @@
   {
     "id": "yt-c21-050",
     "thai": "กินมูมมาม",
-    "english": "(slang) to eat messily and greedily, to make a mess while eating",
+    "english": "to eat messily and greedily, to make a mess while eating (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124685,9 +124599,9 @@
     ]
   },
   {
-    "id": "yt-c21-076",
-    "thai": "แหกตา",
-    "english": "(slang, rude) \"open your eyes!\" (meaning, it's right in front of you, don't you see ?)",
+    "id": "yt-c21-078",
+    "thai": "แอ๊บ",
+    "english": "to act, to pretend (usually to look like something one is not)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124695,9 +124609,29 @@
     ]
   },
   {
-    "id": "yt-c21-078",
-    "thai": "แอ๊บ - แอ๊บแบ๊ว - แอ๊บแมน - แอ๊บใส",
-    "english": "to pretend, to fake - to act cute (e.g girls) - pretend to be manly, fake tough guy - to act innocent, pure",
+    "id": "new-3",
+    "thai": "แอ๊บแบ๊ว",
+    "english": "to act cute, innocent in an exaggerated way",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-4",
+    "thai": "แอ๊บแมน",
+    "english": "to act manly, to pretend to be masculine",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-5",
+    "thai": "แอ๊บใส",
+    "english": "to act innocent, pure",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124707,7 +124641,7 @@
   {
     "id": "yt-c21-079",
     "thai": "เสี่ยว",
-    "english": "cheesy, cringy",
+    "english": "cheesy, corny, cringey",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -124876,8 +124810,8 @@
   },
   {
     "id": "yt-c21-097",
-    "thai": "ทิพย์ - ผัวทิพย์",
-    "english": "in one's dreams, imaginary (something) - imaginary husband",
+    "thai": "ทิพย์",
+    "english": "in one's dreams, fake, imaginary (something)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -125081,7 +125015,7 @@
   {
     "id": "yt-c22-012",
     "thai": "อวย",
-    "english": "to praise excessively, hype up, flatter",
+    "english": "to praise excessively, to hype up, to flatter",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -125376,8 +125310,21 @@
   },
   {
     "id": "yt-c22-033",
-    "thai": "ควาย (ฟาย)",
-    "english": "water buffalo; stupid; cuckold",
+    "thai": "ควาย",
+    "english": "water buffalo; idiot, moron",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube",
+      "Anki Basics",
+      "Thai 4000",
+      "Tobo Deck"
+    ]
+  },
+  {
+    "id": "new-10",
+    "thai": "ฟาย",
+    "english": "moron, dumbass (altered pronunciation of buffalo)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -125390,7 +125337,7 @@
   {
     "id": "yt-c22-034",
     "thai": "ถูกสวมเขา, โดนสวมเขา",
-    "english": "to be cheated on by one's partner",
+    "english": "to be cheated on by one's partner, to be made a cuckold (informal)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -125546,7 +125493,7 @@
   {
     "id": "yt-c22-044",
     "thai": "ไสหัวไป",
-    "english": "\"get lost\", \"get out of here\"",
+    "english": "\"piss off\", \"get lost\", \"get the hell out\" (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -125556,7 +125503,7 @@
   {
     "id": "yt-c22-045",
     "thai": "พ่อมึงตาย, แม่มึงตาย",
-    "english": "(very rude) \"fuck you\", \"motherfucker\"",
+    "english": "\"fuck you\", \"fuck your mother\" (slang, very rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -125667,19 +125614,19 @@
     ]
   },
   {
-    "id": "yt-c22-052",
-    "thai": "หัวหมอ",
-    "english": "wise, clever (in a manipulative or exploitative way: negative connotation)",
+    "id": "yt-c22-053",
+    "thai": "ฉ้อฉล",
+    "english": "fraudulent, corrupt",
     "frequency": "common",
-    "topic": "slang",
+    "topic": "law",
     "sources": [
       "YouTube"
     ]
   },
   {
-    "id": "yt-c22-053",
-    "thai": "ฉ้อ, ฉ้อฉล, ฉ้อโกง",
-    "english": "to defraud, to rip off, corrupt, fraudulent",
+    "id": "new-8",
+    "thai": "ฉ้อโกง",
+    "english": "to defraud, to scam, to cheat someone (e.g out of money or property)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -125895,7 +125842,7 @@
   {
     "id": "yt-c22-065",
     "thai": "รัฐประหาร",
-    "english": "coup d'état",
+    "english": "coup d'état (overthrow of a government by force)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -126112,8 +126059,18 @@
   },
   {
     "id": "yt-c22-080",
-    "thai": "ไอ้สัตว์ๆ - อีสัตว์ๆ - สัตว์ๆ",
-    "english": "(slang, rude) you (among friends), fucker - bitch - ...as fuck",
+    "thai": "ไอ้สัตว์, อีสัตว์",
+    "english": "you (among friends), fucker, bitch (male, female)",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-6",
+    "thai": "สัตว์ๆ",
+    "english": "\"fucking...\", \"...as fuck\"",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -126143,7 +126100,7 @@
   {
     "id": "yt-c22-083",
     "thai": "สารเลว",
-    "english": "(slang, rude) bastard, evil, despicable person",
+    "english": "bastard, piece of shit, despicable person (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -126204,7 +126161,7 @@
   {
     "id": "yt-c22-087",
     "thai": "หนักหัวใคร",
-    "english": "\"how does it concern you ?\", \"it's none of your business\" (literally \"it is heavy on your head\")",
+    "english": "\"how does it concern you?\", \"it's none of your business\" (literally \"whose head is it heavy on\")",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -126244,7 +126201,7 @@
   {
     "id": "yt-c22-091",
     "thai": "ยังกะจะแยแส",
-    "english": "(slang) \"as if I cared\", \"as if they care\", \"as if they give a damn\"",
+    "english": "\"as if I cared\", \"as if they cared\", \"as if they give a damn\" (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -126334,7 +126291,7 @@
   {
     "id": "yt-c23-002",
     "thai": "มองบน",
-    "english": "to roll up your eyes, to look up in annoyance or disbelief",
+    "english": "to roll one's eyes, to look up in annoyance or exasperation",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -128812,7 +128769,7 @@
   {
     "id": "wlt-c02-044",
     "thai": "แต่เช้า",
-    "english": "early morning",
+    "english": "early in the morning, from early morning",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -130616,7 +130573,7 @@
   {
     "id": "wlt-c03-071",
     "thai": "ภายหลัง",
-    "english": "afterwards, later on",
+    "english": "later, afterward (formal)",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -131701,7 +131658,7 @@
   {
     "id": "wlt-c04-042",
     "thai": "วันหลัง",
-    "english": "some day (in the future), next time",
+    "english": "another day, some day (in the future), next time, some other time",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -131901,7 +131858,7 @@
   {
     "id": "wlt-c04-057",
     "thai": "สมัยก่อน",
-    "english": "old-fashioned times",
+    "english": "in the past, in former times",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -131912,7 +131869,7 @@
   {
     "id": "wlt-c04-058",
     "thai": "สมัยนี้",
-    "english": "nowadays",
+    "english": "nowadays, these days",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -138226,7 +138183,7 @@
   {
     "id": "wlt-c07-099",
     "thai": "ผู้พิพากษา",
-    "english": "judge",
+    "english": "judge (court)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -139930,7 +139887,7 @@
   {
     "id": "wlt-c08-097",
     "thai": "ลักทรัพย์",
-    "english": "to burgle",
+    "english": "to steal, theft (formal, legal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -140198,7 +140155,7 @@
   {
     "id": "wlt-c09-009",
     "thai": "เลือกตั้ง",
-    "english": "elect (as in a political election)",
+    "english": "to elect (in a political election)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -142084,7 +142041,7 @@
   {
     "id": "wlt-c10-000",
     "thai": "เอกอัครราชทูต",
-    "english": "ambassador (from a monarchy, formal)",
+    "english": "ambassador (formal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -144458,7 +144415,7 @@
   {
     "id": "wlt-c11-005",
     "thai": "นโยบาย",
-    "english": "policy, principle, plan",
+    "english": "policy, plan",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -147571,7 +147528,7 @@
   {
     "id": "wlt-c12-041",
     "thai": "สิทธิ",
-    "english": "right, authority, privilege",
+    "english": "right, privilege",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -152346,7 +152303,7 @@
   {
     "id": "wlt-c14-059",
     "thai": "ล่วงหน้า",
-    "english": "advance (in)",
+    "english": "in advance, beforehand",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -161327,7 +161284,7 @@
   {
     "id": "wlt-c18-004",
     "thai": "ขี้เมา",
-    "english": "a drunkard, an alcoholic",
+    "english": "drunkard, alcoholic",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -171382,7 +171339,7 @@
   {
     "id": "t4k-c01-053",
     "thai": "พรรค",
-    "english": "party; group of people",
+    "english": "political party",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -173347,7 +173304,7 @@
   {
     "id": "t4k-c02-088",
     "thai": "กู",
-    "english": "I",
+    "english": "I, me (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -173733,7 +173690,7 @@
   {
     "id": "t4k-c03-025",
     "thai": "มติ",
-    "english": "resolution",
+    "english": "resolution, formal decision (e.g in committee, parliament)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -174004,7 +173961,7 @@
   {
     "id": "t4k-c03-040",
     "thai": "ผู้แทน",
-    "english": "delegate; representative",
+    "english": "representative, delegate",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -174547,7 +174504,7 @@
   {
     "id": "t4k-c03-084",
     "thai": "บัญญัติ",
-    "english": "regulation; decree",
+    "english": "to legislate, to enact (a law, a rule)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -174618,7 +174575,7 @@
   {
     "id": "t4k-c03-090",
     "thai": "รัฐสภา",
-    "english": "parliament; congress",
+    "english": "parliament, congress",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -175201,7 +175158,7 @@
   {
     "id": "t4k-c04-033",
     "thai": "จำเลย",
-    "english": "defendant; accused person",
+    "english": "defendant, accused person (in court)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -175726,7 +175683,7 @@
   {
     "id": "t4k-c04-074",
     "thai": "นายก",
-    "english": "president; leader; mayor",
+    "english": "prime minister",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -175828,7 +175785,7 @@
   {
     "id": "t4k-c04-083",
     "thai": "คณะรัฐมนตรี",
-    "english": "cabinet",
+    "english": "cabinet, Council of Ministers",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -176549,7 +176506,7 @@
   {
     "id": "t4k-c05-032",
     "thai": "อาญา",
-    "english": "penalty",
+    "english": "criminal, penal",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -176631,7 +176588,7 @@
   {
     "id": "t4k-c05-040",
     "thai": "มึง",
-    "english": "you (rude)",
+    "english": "you (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -176826,7 +176783,7 @@
   {
     "id": "t4k-c05-053",
     "thai": "ประมวล",
-    "english": "codify; compile; code",
+    "english": "to compile, to summarize, to collect (formal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -176897,7 +176854,7 @@
   {
     "id": "t4k-c05-064",
     "thai": "ปลัด",
-    "english": "deputy",
+    "english": "senior administrative officer (e.g head official under a minister)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -177051,7 +177008,7 @@
   {
     "id": "t4k-c05-072",
     "thai": "แหง",
-    "english": "definitively; for sure",
+    "english": "definitely, for sure",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -177123,7 +177080,7 @@
   {
     "id": "t4k-c05-075",
     "thai": "พิพากษา",
-    "english": "judge; sentence; decide",
+    "english": "to judge, to pronounce a verdict",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -177359,7 +177316,7 @@
   {
     "id": "t4k-c05-090",
     "thai": "คำพิพากษา",
-    "english": "decision; judgement; verdict",
+    "english": "court judgment, verdict",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -177845,7 +177802,7 @@
   {
     "id": "t4k-c06-029",
     "thai": "โจทก์",
-    "english": "plaintiff",
+    "english": "plaintiff (party filing a legal case)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -178460,7 +178417,7 @@
   {
     "id": "t4k-c06-072",
     "thai": "ละเมิด",
-    "english": "violate; infringe",
+    "english": "to violate, to infringe (e.g rules, law) (formal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -179244,7 +179201,7 @@
   {
     "id": "t4k-c07-036",
     "thai": "กฎเกณฑ์",
-    "english": "regulation; norm; standard",
+    "english": "regulation, norm, standard",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -179376,7 +179333,7 @@
   {
     "id": "t4k-c07-047",
     "thai": "สภาผู้แทนราษฎร",
-    "english": "house of representatives",
+    "english": "house of representatives (lower house of parliament)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -180112,16 +180069,6 @@
     ]
   },
   {
-    "id": "t4k-c08-005",
-    "thai": "พนักงานเจ้าหน้าที่",
-    "english": "competent official",
-    "frequency": "common",
-    "topic": "law",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c08-006",
     "thai": "ตัวแปร",
     "english": "variable",
@@ -180155,7 +180102,7 @@
   {
     "id": "t4k-c08-008",
     "thai": "มั่ง",
-    "english": "some",
+    "english": "maybe, perhaps, some, a bit (slang)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -180390,7 +180337,7 @@
   {
     "id": "t4k-c08-029",
     "thai": "อัยการ",
-    "english": "prosecutor",
+    "english": "public prosecutor, state attorney",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -180481,7 +180428,7 @@
   {
     "id": "t4k-c08-043",
     "thai": "คณะกรรมาธิการ",
-    "english": "commission",
+    "english": "parliamentary committee",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -180491,7 +180438,7 @@
   {
     "id": "t4k-c08-044",
     "thai": "ฝ่ายค้าน",
-    "english": "opposition",
+    "english": "opposition (in politics, e.g parliamentary opposition)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -181491,7 +181438,7 @@
   {
     "id": "t4k-c09-020",
     "thai": "เจ้าพนักงาน",
-    "english": "official; government official",
+    "english": "public officer, government official",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -182486,7 +182433,7 @@
   {
     "id": "t4k-c10-008",
     "thai": "เพิกถอน",
-    "english": "withdraw; revoke; repeal",
+    "english": "to revoke, to withdraw, to cancel (formal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -182496,7 +182443,7 @@
   {
     "id": "t4k-c10-011",
     "thai": "อุทธรณ์",
-    "english": "appeal",
+    "english": "to appeal, appeal",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -182687,7 +182634,7 @@
   {
     "id": "t4k-c10-023",
     "thai": "ประมวลกฎหมาย",
-    "english": "law code",
+    "english": "legal code (collection of laws)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -182881,7 +182828,7 @@
   {
     "id": "t4k-c10-037",
     "thai": "เสี่ย",
-    "english": "rich man",
+    "english": "wealthy Chinese-Thai businessman, rich older man, rich guy (informal)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -182963,7 +182910,7 @@
   {
     "id": "t4k-c10-044",
     "thai": "ผู้ว่า",
-    "english": "governor; leader; ruler",
+    "english": "governor",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -183300,7 +183247,7 @@
   {
     "id": "t4k-c10-071",
     "thai": "เจ๊",
-    "english": "elder sister",
+    "english": "older sister, older woman, \"Madam\" (used in Chinese-Thai context)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -183721,7 +183668,7 @@
   {
     "id": "t4k-c11-007",
     "thai": "ข้อกำหนด",
-    "english": "regulation; rule",
+    "english": "regulation, specification",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -183731,7 +183678,7 @@
   {
     "id": "t4k-c11-009",
     "thai": "ข้อเรียกร้อง",
-    "english": "claim; demand; request",
+    "english": "demand, claim, request (formal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -184157,7 +184104,7 @@
   {
     "id": "t4k-c11-044",
     "thai": "ข้อพิพาท",
-    "english": "dispute; argument",
+    "english": "dispute, conflict, disagreement (formal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -184168,16 +184115,6 @@
     "id": "t4k-c11-045",
     "thai": "หัวหน้าพรรค",
     "english": "party leader",
-    "frequency": "common",
-    "topic": "law",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c11-050",
-    "thai": "คะแนนเสียง",
-    "english": "vote; ballot",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -184379,7 +184316,7 @@
   {
     "id": "t4k-c11-070",
     "thai": "นัง",
-    "english": "girl; woman",
+    "english": "girl, woman (slang, rude)",
     "frequency": "common",
     "topic": "slang",
     "sources": [
@@ -184542,7 +184479,7 @@
   {
     "id": "t4k-c11-084",
     "thai": "มหาอำนาจ",
-    "english": "superpower; great power",
+    "english": "great power, superpower (e.g country)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -184585,16 +184522,6 @@
     "english": "lofty",
     "frequency": "occasional",
     "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c11-090",
-    "thai": "นิติ",
-    "english": "regulation; law; rule",
-    "frequency": "common",
-    "topic": "law",
     "sources": [
       "Thai 4000"
     ]
