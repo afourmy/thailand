@@ -21450,6 +21450,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "petal",
+        "sentences": [
+          {
+            "thai": "ดอกกุหลาบมีกลีบสีแดงสวย",
+            "en": "The rose has beautiful red petals.",
+            "audio_src": "ดอกกุหลาบมีกลีบสีแดงสวย",
+            "audio_en_src": "The rose has beautiful red petals."
+          },
+          {
+            "thai": "ลมพัดกลีบดอกไม้ร่วงลงพื้น",
+            "en": "The wind blew the petals to the ground.",
+            "audio_src": "ลมพัดกลีบดอกไม้ร่วงลงพื้น",
+            "audio_en_src": "The wind blew the petals to the ground."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21498,6 +21517,25 @@
       "Tobo Deck",
       "Thai 4000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "muscle",
+        "sentences": [
+          {
+            "thai": "ออกกำลังกายช่วยเสริมสร้างกล้ามเนื้อ",
+            "en": "Exercise helps build muscle.",
+            "audio_src": "ออกกำลังกายช่วยเสริมสร้างกล้ามเนื้อ",
+            "audio_en_src": "Exercise helps build muscle."
+          },
+          {
+            "thai": "เขาปวดกล้ามเนื้อหลังวิ่งมาราธอน",
+            "en": "His muscles ached after the marathon.",
+            "audio_src": "เขาปวดกล้ามเนื้อหลังวิ่งมาราธอน",
+            "audio_en_src": "His muscles ached after the marathon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21679,6 +21717,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cabbage",
+        "sentences": [
+          {
+            "thai": "ผัดกะหล่ำปลีน้ำปลาง่ายและอร่อย",
+            "en": "Stir-fried cabbage with fish sauce is easy and tasty.",
+            "audio_src": "ผัดกะหล่ำปลีน้ำปลาง่ายและอร่อย",
+            "audio_en_src": "Stir-fried cabbage with fish sauce is easy and tasty."
+          },
+          {
+            "thai": "หั่นกะหล่ำปลีใส่ในสลัด",
+            "en": "Slice the cabbage into the salad.",
+            "audio_src": "หั่นกะหล่ำปลีใส่ในสลัด",
+            "audio_en_src": "Slice the cabbage into the salad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21689,6 +21746,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"like other people\", \"as everyone else does\"",
+        "sentences": [
+          {
+            "thai": "ฉันก็อยากมีบ้านเป็นของตัวเองกับเขาบ้าง",
+            "en": "I want a house of my own too, like everyone else.",
+            "audio_src": "ฉันก็อยากมีบ้านเป็นของตัวเองกับเขาบ้าง",
+            "audio_en_src": "I want a house of my own too, like everyone else."
+          },
+          {
+            "thai": "ขอไปเที่ยวต่างประเทศกับเขาบ้าง",
+            "en": "I’d like to travel abroad too, like other people do.",
+            "audio_src": "ขอไปเที่ยวต่างประเทศกับเขาบ้าง",
+            "audio_en_src": "I’d like to travel abroad too, like other people do."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21941,6 +22017,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "toast",
+        "sentences": [
+          {
+            "thai": "เช้านี้กินขนมปังปิ้งทาเนย",
+            "en": "This morning I had toast with butter.",
+            "audio_src": "เช้านี้กินขนมปังปิ้งทาเนย",
+            "audio_en_src": "This morning I had toast with butter."
+          },
+          {
+            "thai": "ขนมปังปิ้งสังขยาเป็นของโปรด",
+            "en": "Toast with custard is my favorite.",
+            "audio_src": "ขนมปังปิ้งสังขยาเป็นของโปรด",
+            "audio_en_src": "Toast with custard is my favorite."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21987,6 +22082,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"so much so that\", \"to the extent that\"",
+        "sentences": [
+          {
+            "thai": "เขาเหนื่อยขนาดที่หลับตั้งแต่หัวถึงหมอน",
+            "en": "He was so tired he fell asleep the moment his head hit the pillow.",
+            "audio_src": "เขาเหนื่อยขนาดที่หลับตั้งแต่หัวถึงหมอน",
+            "audio_en_src": "He was so tired he fell asleep the moment his head hit the pillow."
+          },
+          {
+            "thai": "ร้านอร่อยขนาดที่คนต่อคิวยาว",
+            "en": "The restaurant is so good that people line up in long queues.",
+            "audio_src": "ร้านอร่อยขนาดที่คนต่อคิวยาว",
+            "audio_en_src": "The restaurant is so good that people line up in long queues."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22049,6 +22163,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to take one's leave, to excuse oneself (to leave)",
+        "sentences": [
+          {
+            "thai": "ขอตัวก่อนนะ พรุ่งนี้ต้องตื่นเช้า",
+            "en": "I’ll excuse myself now, I have to get up early tomorrow.",
+            "audio_src": "ขอตัวก่อนนะ พรุ่งนี้ต้องตื่นเช้า",
+            "audio_en_src": "I’ll excuse myself now, I have to get up early tomorrow."
+          },
+          {
+            "thai": "เขาขอตัวกลับบ้านก่อนใคร",
+            "en": "He excused himself and left before everyone else.",
+            "audio_src": "เขาขอตัวกลับบ้านก่อนใคร",
+            "audio_en_src": "He excused himself and left before everyone else."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22061,6 +22194,25 @@
       "Tamago L1-2",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to ask for a blessing, to make a wish",
+        "sentences": [
+          {
+            "thai": "คนไปวัดขอพรให้สุขภาพแข็งแรง",
+            "en": "People go to the temple to pray for good health.",
+            "audio_src": "คนไปวัดขอพรให้สุขภาพแข็งแรง",
+            "audio_en_src": "People go to the temple to pray for good health."
+          },
+          {
+            "thai": "เธอขอพรให้สอบผ่านทุกวิชา",
+            "en": "She made a wish to pass every subject.",
+            "audio_src": "เธอขอพรให้สอบผ่านทุกวิชา",
+            "audio_en_src": "She made a wish to pass every subject."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22185,6 +22337,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "prone to worry",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนขี้กังวล คิดมากทุกเรื่อง",
+            "en": "He’s a worrier, he overthinks everything.",
+            "audio_src": "เขาเป็นคนขี้กังวล คิดมากทุกเรื่อง",
+            "audio_en_src": "He’s a worrier, he overthinks everything."
+          },
+          {
+            "thai": "แม่ขี้กังวลเวลาลูกกลับบ้านดึก",
+            "en": "Mom worries when her kids come home late.",
+            "audio_src": "แม่ขี้กังวลเวลาลูกกลับบ้านดึก",
+            "audio_en_src": "Mom worries when her kids come home late."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22195,6 +22366,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "stingy, not willing to share",
+        "sentences": [
+          {
+            "thai": "เขาขี้งกไม่เคยเลี้ยงข้าวใคร",
+            "en": "He’s stingy, he never treats anyone to a meal.",
+            "audio_src": "เขาขี้งกไม่เคยเลี้ยงข้าวใคร",
+            "audio_en_src": "He’s stingy, he never treats anyone to a meal."
+          },
+          {
+            "thai": "อย่าขี้งกกับเพื่อนสิ",
+            "en": "Don’t be stingy with your friends.",
+            "audio_src": "อย่าขี้งกกับเพื่อนสิ",
+            "audio_en_src": "Don’t be stingy with your friends."
+          }
+        ]
+      }
     ]
   },
   {

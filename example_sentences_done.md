@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4193 words**
+**Total: 4203 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -510,21 +510,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-022` : กลอง (drums) : 1 meaning(s), 2 sentences
 - `tamago-l12-023` : กลั่นแกล้ง (to bully, to victimize) : 1 meaning(s), 2 sentences
 - `tamago-l12-024` : กลางแจ้ง (outdoor(s), in the open air) : 1 meaning(s), 2 sentences
+- `tamago-l12-025` : กลีบ (petal) : 1 meaning(s), 2 sentences
 - `tamago-l12-026` : กล้วย (banana) : 1 meaning(s), 2 sentences
+- `tamago-l12-028` : กล้าม, กล้ามเนื้อ (muscle) : 1 meaning(s), 2 sentences
 - `tamago-l12-030` : กว่าจะ (until, by the time) : 1 meaning(s), 2 sentences
 - `tamago-l12-031` : กะ (shift (work); to plan to; to estimate, to gauge) : 3 meaning(s), 6 sentences
 - `tamago-l12-032` : กะจะ (to plan to, to intend to) : 1 meaning(s), 2 sentences
 - `tamago-l12-033` : กะทันหัน (suddenly, abruptly) : 1 meaning(s), 2 sentences
+- `tamago-l12-034` : กะหล่ำปลี (cabbage) : 1 meaning(s), 2 sentences
+- `tamago-l12-035` : กับเขาบ้าง ("like other people", "as everyone else does") : 1 meaning(s), 2 sentences
 - `tamago-l12-036` : กั้น (to block, separate, divide) : 1 meaning(s), 2 sentences
 - `tamago-l12-038` : กาต้มน้ำ (kettle) : 1 meaning(s), 2 sentences
 - `tamago-l12-043` : กำลังจะ (to be about to) : 1 meaning(s), 2 sentences
 - `tamago-l12-044` : กำไล (bracelet) : 1 meaning(s), 2 sentences
 - `tamago-l12-046` : ก้อน (lump; classifier for chunks (e.g money, ice)) : 2 meaning(s), 4 sentences
+- `tamago-l12-047` : ขนมปังปิ้ง (toast) : 1 meaning(s), 2 sentences
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
+- `tamago-l12-049` : ขนาดที่ ("so much so that", "to the extent that") : 1 meaning(s), 2 sentences
 - `tamago-l12-052` : ของแต่งบ้าน (house decorations) : 1 meaning(s), 2 sentences
+- `tamago-l12-053` : ขอตัว (to take one's leave, to excuse oneself (to leave)) : 1 meaning(s), 2 sentences
+- `tamago-l12-054` : ขอพร (to ask for a blessing, to make a wish) : 1 meaning(s), 2 sentences
 - `tamago-l12-055` : ขัง (to lock up, imprison, confine) : 1 meaning(s), 2 sentences
 - `tamago-l12-056` : ขั้นต่ำ (minimum) : 1 meaning(s), 2 sentences
 - `tamago-l12-059` : ขี้, อึ (feces, stool (informal and child-speak variants)) : 1 meaning(s), 2 sentences
+- `tamago-l12-060` : ขี้กังวล (prone to worry) : 1 meaning(s), 2 sentences
+- `tamago-l12-061` : ขี้งก (stingy, not willing to share) : 1 meaning(s), 2 sentences
 - `tamago-l12-068` : ข้าม (to cross, pass over; to skip) : 2 meaning(s), 4 sentences
 - `tamago-l12-070` : ข้าวสวย (cooked rice (steamed)) : 1 meaning(s), 2 sentences
 - `tamago-l12-073` : ข้าวโพด (corn) : 1 meaning(s), 2 sentences
