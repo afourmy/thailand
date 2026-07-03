@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4263 words**
+**Total: 4273 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -715,15 +715,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-325` : ฟิต (physically fit, in good shape (loanword)) : 1 meaning(s), 2 sentences
 - `tamago-l12-326` : ฟิตหุ่น (to get in shape) : 1 meaning(s), 2 sentences
 - `tamago-l12-327` : ฟ้าผ่า (lightning, thunderbolt) : 1 meaning(s), 2 sentences
+- `tamago-l12-328` : ฟ้าร้อง (thunder) : 1 meaning(s), 2 sentences
 - `tamago-l12-329` : ภรรยา (wife (formal)) : 1 meaning(s), 2 sentences
+- `tamago-l12-330` : ภัยธรรมชาติ (natural disaster) : 1 meaning(s), 2 sentences
 - `tamago-l12-332` : ม.ปลาย (high school (upper secondary)) : 1 meaning(s), 2 sentences
 - `tamago-l12-333` : มอเตอร์ไซค์ (motorcycle) : 1 meaning(s), 2 sentences
+- `tamago-l12-334` : มะละกอ (papaya) : 1 meaning(s), 2 sentences
 - `tamago-l12-335` : มักจะ (to tend to, usually) : 1 meaning(s), 2 sentences
 - `tamago-l12-336` : มัน (it (pronoun); fun, enjoyable; oily) : 3 meaning(s), 6 sentences
 - `tamago-l12-337` : มั้ง (perhaps, maybe (sentence ending)) : 1 meaning(s), 2 sentences
 - `tamago-l12-338` : มากขึ้น (more than before, increasingly) : 1 meaning(s), 2 sentences
 - `tamago-l12-339` : มืดสนิท (completely dark, pitch black) : 1 meaning(s), 2 sentences
 - `tamago-l12-340` : ยกเวท (to lift weights) : 1 meaning(s), 2 sentences
+- `tamago-l12-341` : ยังดีที่ ("it's a good thing that...", "at least...") : 1 meaning(s), 2 sentences
+- `tamago-l12-342` : ยัน (up to, until; to insist, to confirm; to support physically, to prop up) : 3 meaning(s), 6 sentences
 - `tamago-l12-343` : ยัย (pronoun to refer to a girl of similar age (informal term, teasing or scolding tone)) : 1 meaning(s), 2 sentences
 - `tamago-l12-346` : ยิ่ง, ยิ่งขึ้น (more (so), even more) : 1 meaning(s), 2 sentences
 - `tamago-l12-347` : ยุติธรรม (fair, just) : 1 meaning(s), 2 sentences
@@ -732,11 +737,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
 - `tamago-l12-352` : รดน้ำ (to water (plants), to pour water) : 1 meaning(s), 2 sentences
 - `tamago-l12-353` : รถตู้ (minivan (taxi or shuttle)) : 1 meaning(s), 2 sentences
+- `tamago-l12-354` : รถบรรทุก (truck, cargo vehicle) : 1 meaning(s), 2 sentences
+- `tamago-l12-355` : รถบัส (bus) : 1 meaning(s), 2 sentences
 - `tamago-l12-357` : รถเมล์ (city bus) : 1 meaning(s), 2 sentences
 - `tamago-l12-359` : รวม (to include, including; total) : 2 meaning(s), 4 sentences
 - `tamago-l12-360` : รวมกัน (together, combined) : 1 meaning(s), 2 sentences
 - `tamago-l12-361` : รองเท้าผ้าใบ (sneakers) : 1 meaning(s), 2 sentences
 - `tamago-l12-362` : รองเท้าส้นสูง (high-heeled shoes) : 1 meaning(s), 2 sentences
+- `tamago-l12-364` : รักแร้ (armpit) : 1 meaning(s), 2 sentences
 - `tamago-l12-366` : รับ (to pick someone up; to receive) : 2 meaning(s), 4 sentences
 - `tamago-l12-367` : รับผิดชอบ (to take responsibility, to be responsible) : 1 meaning(s), 2 sentences
 - `tamago-l12-368` : รับสาย (to answer a call, pick up the phone) : 1 meaning(s), 2 sentences
@@ -746,6 +754,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-372` : รุ่นพี่ (senior (older schoolmate)) : 1 meaning(s), 2 sentences
 - `tamago-l12-374` : ภาพ, รูปภาพ (picture, image, painting) : 1 meaning(s), 2 sentences
 - `tamago-l12-375` : ร่วง (to fall (off), to drop (e.g in large quantity like hairs)) : 1 meaning(s), 2 sentences
+- `tamago-l12-377` : ลดความอ้วน (to lose weight) : 1 meaning(s), 2 sentences
 - `tamago-l12-379` : ละเอียด (detailed, thorough, fine (granular)) : 1 meaning(s), 2 sentences
 - `tamago-l12-380` : ลาน (yard, open area) : 1 meaning(s), 2 sentences
 - `tamago-l12-381` : ลานจอดรถ (parking lot) : 1 meaning(s), 2 sentences
@@ -754,6 +763,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-387` : ล่าสุด (most recent, latest) : 1 meaning(s), 2 sentences
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
 - `tamago-l12-390` : วันก่อน (the other day) : 1 meaning(s), 2 sentences
+- `tamago-l12-391` : วันครบรอบ (anniversary) : 1 meaning(s), 2 sentences
 - `tamago-l12-396` : วิชา (subject, field of study) : 1 meaning(s), 2 sentences
 - `tamago-l12-399` : วิเศษ (magic, extraordinary, wonderful) : 1 meaning(s), 2 sentences
 - `tamago-l12-400` : วิ่งผ่าน (to pass through (running, driving)) : 1 meaning(s), 2 sentences

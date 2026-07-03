@@ -29132,6 +29132,25 @@
       "Tamago L1-2",
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "thunder",
+        "sentences": [
+          {
+            "thai": "ได้ยินเสียงฟ้าร้องดังมาก",
+            "en": "I heard a very loud clap of thunder.",
+            "audio_src": "ได้ยินเสียงฟ้าร้องดังมาก",
+            "audio_en_src": "I heard a very loud clap of thunder."
+          },
+          {
+            "thai": "เด็กกลัวเสียงฟ้าร้อง",
+            "en": "The kid is scared of the thunder.",
+            "audio_src": "เด็กกลัวเสียงฟ้าร้อง",
+            "audio_en_src": "The kid is scared of the thunder."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29177,6 +29196,25 @@
     "topic": "nature",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "natural disaster",
+        "sentences": [
+          {
+            "thai": "น้ำท่วมเป็นภัยธรรมชาติที่พบบ่อย",
+            "en": "Flooding is a common natural disaster.",
+            "audio_src": "น้ำท่วมเป็นภัยธรรมชาติที่พบบ่อย",
+            "audio_en_src": "Flooding is a common natural disaster."
+          },
+          {
+            "thai": "เราควรเตรียมพร้อมรับมือภัยธรรมชาติ",
+            "en": "We should be prepared for natural disasters.",
+            "audio_src": "เราควรเตรียมพร้อมรับมือภัยธรรมชาติ",
+            "audio_en_src": "We should be prepared for natural disasters."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29254,6 +29292,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "papaya",
+        "sentences": [
+          {
+            "thai": "ส้มตำทำจากมะละกอดิบ",
+            "en": "Papaya salad is made from unripe papaya.",
+            "audio_src": "ส้มตำทำจากมะละกอดิบ",
+            "audio_en_src": "Papaya salad is made from unripe papaya."
+          },
+          {
+            "thai": "มะละกอสุกหวานฉ่ำ",
+            "en": "Ripe papaya is sweet and juicy.",
+            "audio_src": "มะละกอสุกหวานฉ่ำ",
+            "audio_en_src": "Ripe papaya is sweet and juicy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29498,6 +29555,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"it's a good thing that...\", \"at least...\"",
+        "sentences": [
+          {
+            "thai": "รถเสียกลางทาง ยังดีที่มีคนช่วย",
+            "en": "The car broke down on the way, but luckily someone helped.",
+            "audio_src": "รถเสียกลางทาง ยังดีที่มีคนช่วย",
+            "audio_en_src": "The car broke down on the way, but luckily someone helped."
+          },
+          {
+            "thai": "ฝนตกหนัก ยังดีที่พกร่มมา",
+            "en": "It rained hard, good thing I brought an umbrella.",
+            "audio_src": "ฝนตกหนัก ยังดีที่พกร่มมา",
+            "audio_en_src": "It rained hard, good thing I brought an umbrella."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29511,6 +29587,59 @@
       "Tamago L3",
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "up to, until",
+        "sentences": [
+          {
+            "thai": "เขาทำงานตั้งแต่เช้ายันค่ำ",
+            "en": "He works from morning until night.",
+            "audio_src": "เขาทำงานตั้งแต่เช้ายันค่ำ",
+            "audio_en_src": "He works from morning until night."
+          },
+          {
+            "thai": "ปาร์ตี้เมื่อคืนสนุกยันเช้า",
+            "en": "Last night’s party was fun right up until morning.",
+            "audio_src": "ปาร์ตี้เมื่อคืนสนุกยันเช้า",
+            "audio_en_src": "Last night’s party was fun right up until morning."
+          }
+        ]
+      },
+      {
+        "meaning": "to insist, to confirm",
+        "sentences": [
+          {
+            "thai": "เขายันว่าตัวเองไม่ได้ทำผิด",
+            "en": "He insists he did nothing wrong.",
+            "audio_src": "เขายันว่าตัวเองไม่ได้ทำผิด",
+            "audio_en_src": "He insists he did nothing wrong."
+          },
+          {
+            "thai": "พยานยันว่าเห็นเหตุการณ์จริง",
+            "en": "The witness confirmed he really saw what happened.",
+            "audio_src": "พยานยันว่าเห็นเหตุการณ์จริง",
+            "audio_en_src": "The witness confirmed he really saw what happened."
+          }
+        ]
+      },
+      {
+        "meaning": "to support physically, to prop up",
+        "sentences": [
+          {
+            "thai": "เอาไม้ยันประตูไว้ไม่ให้ปิด",
+            "en": "Use a stick to prop the door open.",
+            "audio_src": "เอาไม้ยันประตูไว้ไม่ให้ปิด",
+            "audio_en_src": "Use a stick to prop the door open."
+          },
+          {
+            "thai": "เขาเอามือยันกำแพงพยุงตัว",
+            "en": "He propped himself against the wall with his hand.",
+            "audio_src": "เขาเอามือยันกำแพงพยุงตัว",
+            "audio_en_src": "He propped himself against the wall with his hand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29818,6 +29947,25 @@
     "sources": [
       "Tamago L1-2",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "truck, cargo vehicle",
+        "sentences": [
+          {
+            "thai": "รถบรรทุกขนของหนักวิ่งช้า",
+            "en": "The loaded truck moves slowly.",
+            "audio_src": "รถบรรทุกขนของหนักวิ่งช้า",
+            "audio_en_src": "The loaded truck moves slowly."
+          },
+          {
+            "thai": "ห้ามรถบรรทุกวิ่งในเมืองช่วงกลางวัน",
+            "en": "Trucks aren’t allowed in the city during the day.",
+            "audio_src": "ห้ามรถบรรทุกวิ่งในเมืองช่วงกลางวัน",
+            "audio_en_src": "Trucks aren’t allowed in the city during the day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29829,6 +29977,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bus",
+        "sentences": [
+          {
+            "thai": "เราขึ้นรถบัสไปเที่ยวต่างจังหวัด",
+            "en": "We took a bus to travel to another province.",
+            "audio_src": "เราขึ้นรถบัสไปเที่ยวต่างจังหวัด",
+            "audio_en_src": "We took a bus to travel to another province."
+          },
+          {
+            "thai": "รถบัสคันนี้ไปสนามบินไหม",
+            "en": "Does this bus go to the airport?",
+            "audio_src": "รถบัสคันนี้ไปสนามบินไหม",
+            "audio_en_src": "Does this bus go to the airport?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -30047,6 +30214,25 @@
       "Tamago L1-2",
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "armpit",
+        "sentences": [
+          {
+            "thai": "เขาทาโรลออนที่รักแร้ทุกเช้า",
+            "en": "He puts on roll-on deodorant every morning.",
+            "audio_src": "เขาทาโรลออนที่รักแร้ทุกเช้า",
+            "audio_en_src": "He puts on roll-on deodorant every morning."
+          },
+          {
+            "thai": "อากาศร้อนจนเหงื่อออกที่รักแร้",
+            "en": "It’s so hot I’m sweating under my arms.",
+            "audio_src": "อากาศร้อนจนเหงื่อออกที่รักแร้",
+            "audio_en_src": "It’s so hot I’m sweating under my arms."
+          }
+        ]
+      }
     ]
   },
   {
@@ -30409,6 +30595,25 @@
     "topic": "health",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to lose weight",
+        "sentences": [
+          {
+            "thai": "เธอออกกำลังกายเพื่อลดความอ้วน",
+            "en": "She exercises to lose weight.",
+            "audio_src": "เธอออกกำลังกายเพื่อลดความอ้วน",
+            "audio_en_src": "She exercises to lose weight."
+          },
+          {
+            "thai": "ลดความอ้วนต้องคุมอาหารด้วย",
+            "en": "To lose weight you also have to watch your diet.",
+            "audio_src": "ลดความอ้วนต้องคุมอาหารด้วย",
+            "audio_en_src": "To lose weight you also have to watch your diet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -30761,6 +30966,25 @@
     "topic": "time",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "anniversary",
+        "sentences": [
+          {
+            "thai": "วันนี้เป็นวันครบรอบแต่งงานของพ่อแม่",
+            "en": "Today is my parents’ wedding anniversary.",
+            "audio_src": "วันนี้เป็นวันครบรอบแต่งงานของพ่อแม่",
+            "audio_en_src": "Today is my parents’ wedding anniversary."
+          },
+          {
+            "thai": "เขาพาแฟนไปกินข้าวในวันครบรอบ",
+            "en": "He took his girlfriend to dinner on their anniversary.",
+            "audio_src": "เขาพาแฟนไปกินข้าวในวันครบรอบ",
+            "audio_en_src": "He took his girlfriend to dinner on their anniversary."
+          }
+        ]
+      }
     ]
   },
   {
