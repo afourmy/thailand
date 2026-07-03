@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4283 words**
+**Total: 4293 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -791,26 +791,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-427` : สาย (line, route (e.g bus/subway)) : 1 meaning(s), 2 sentences
 - `tamago-l12-429` : สเปรย์ (ระงับกลิ่นกาย) (spray deodorant) : 1 meaning(s), 2 sentences
 - `tamago-l12-430` : ส่ง (to send; to drop someone off) : 2 meaning(s), 4 sentences
+- `tamago-l12-431` : ส้นเท้า (heel (back part of the foot)) : 1 meaning(s), 2 sentences
 - `tamago-l12-432` : ส้อม (fork) : 1 meaning(s), 2 sentences
 - `tamago-l12-434` : หนังสือเรียน (textbook) : 1 meaning(s), 2 sentences
 - `tamago-l12-435` : หนา (thick) : 1 meaning(s), 2 sentences
 - `tamago-l12-437` : หน้าตา (face, appearance, looks) : 1 meaning(s), 2 sentences
+- `tamago-l12-439` : หน้าอก (chest; breast) : 2 meaning(s), 4 sentences
+- `tamago-l12-442` : หมัก (to ferment (food, drinks)) : 1 meaning(s), 2 sentences
 - `tamago-l12-443` : หมากรุก (chess) : 1 meaning(s), 2 sentences
 - `tamago-l12-445` : หยิก (to pinch; curly, wavy (of hair)) : 2 meaning(s), 4 sentences
 - `tamago-l12-446` : หรู (luxurious, fancy) : 1 meaning(s), 2 sentences
 - `tamago-l12-447` : หลงกล (to be tricked, fooled, fall into a trap) : 1 meaning(s), 2 sentences
+- `tamago-l12-448` : หลบฝน (to take shelter from the rain) : 1 meaning(s), 2 sentences
 - `tamago-l12-449` : หลอด (straw (drinking); tube) : 2 meaning(s), 4 sentences
 - `tamago-l12-450` : หลังๆ (lately, recently) : 1 meaning(s), 2 sentences
 - `tamago-l12-451` : หลับตา (to close one's eyes) : 1 meaning(s), 2 sentences
+- `tamago-l12-452` : หวังดี (to mean well, to have good intentions) : 1 meaning(s), 2 sentences
 - `tamago-l12-453` : หอ (dormitory, dorm; tower) : 2 meaning(s), 4 sentences
 - `tamago-l12-454` : หัวหน้า (boss, head, supervisor) : 1 meaning(s), 2 sentences
 - `tamago-l12-456` : หั่น (to chop, to slice) : 1 meaning(s), 2 sentences
+- `tamago-l12-457` : หายงอน (to stop sulking, to get over a huff) : 1 meaning(s), 2 sentences
+- `tamago-l12-459` : หุบเขา (valley) : 1 meaning(s), 2 sentences
 - `tamago-l12-460` : ห่วย (to suck at, to be terrible at) : 1 meaning(s), 2 sentences
 - `tamago-l12-461` : ห่อ (to wrap) : 1 meaning(s), 2 sentences
 - `tamago-l12-463` : ห้องพัก (guest room, hotel room) : 1 meaning(s), 2 sentences
+- `tamago-l12-464` : องุ่น (grape) : 1 meaning(s), 2 sentences
 - `tamago-l12-465` : อด (to skip, to abstain from, to go without) : 1 meaning(s), 2 sentences
 - `tamago-l12-467` : อพยพ (to migrate, evacuate, relocate) : 1 meaning(s), 2 sentences
+- `tamago-l12-468` : อยู่ดี (anyway, regardless) : 1 meaning(s), 2 sentences
 - `tamago-l12-469` : อย่าง (classifier for abstract things, type, kind) : 1 meaning(s), 2 sentences
+- `tamago-l12-473` : อย่าดีกว่า ("better not (do it)", "I suggest you don't...") : 1 meaning(s), 2 sentences
 - `tamago-l12-474` : อลังการ (magnificent, splendid, grand) : 1 meaning(s), 2 sentences
 - `tamago-l12-475` : อะไรพวกนี้ (things like that) : 1 meaning(s), 2 sentences
 - `tamago-l12-476` : อะไรแบบนี้ (stuff like that, things like this) : 1 meaning(s), 2 sentences

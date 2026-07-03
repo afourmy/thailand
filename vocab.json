@@ -32041,6 +32041,25 @@
     "topic": "health",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "heel (back part of the foot)",
+        "sentences": [
+          {
+            "thai": "รองเท้ากัดจนส้นเท้าเป็นแผล",
+            "en": "The shoes rubbed my heels raw.",
+            "audio_src": "รองเท้ากัดจนส้นเท้าเป็นแผล",
+            "audio_en_src": "The shoes rubbed my heels raw."
+          },
+          {
+            "thai": "เขาเจ็บส้นเท้าเวลาเดินไกล",
+            "en": "His heels hurt when he walks a long way.",
+            "audio_src": "เขาเจ็บส้นเท้าเวลาเดินไกล",
+            "audio_en_src": "His heels hurt when he walks a long way."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32211,6 +32230,42 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "chest",
+        "sentences": [
+          {
+            "thai": "เขาเจ็บหน้าอกเวลาหายใจแรง",
+            "en": "His chest hurts when he breathes deeply.",
+            "audio_src": "เขาเจ็บหน้าอกเวลาหายใจแรง",
+            "audio_en_src": "His chest hurts when he breathes deeply."
+          },
+          {
+            "thai": "หมอฟังเสียงหัวใจที่หน้าอก",
+            "en": "The doctor listens to the heartbeat on the chest.",
+            "audio_src": "หมอฟังเสียงหัวใจที่หน้าอก",
+            "audio_en_src": "The doctor listens to the heartbeat on the chest."
+          }
+        ]
+      },
+      {
+        "meaning": "breast",
+        "sentences": [
+          {
+            "thai": "คุณแม่ให้นมลูกจากหน้าอก",
+            "en": "The mother breastfeeds her baby.",
+            "audio_src": "คุณแม่ให้นมลูกจากหน้าอก",
+            "audio_en_src": "The mother breastfeeds her baby."
+          },
+          {
+            "thai": "เธอตรวจพบก้อนที่หน้าอก",
+            "en": "She found a lump in her breast.",
+            "audio_src": "เธอตรวจพบก้อนที่หน้าอก",
+            "audio_en_src": "She found a lump in her breast."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32243,6 +32298,25 @@
       "Tamago L1-2",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to ferment (food, drinks)",
+        "sentences": [
+          {
+            "thai": "หมักผักดองไว้หลายวัน",
+            "en": "Ferment the pickled vegetables for several days.",
+            "audio_src": "หมักผักดองไว้หลายวัน",
+            "audio_en_src": "Ferment the pickled vegetables for several days."
+          },
+          {
+            "thai": "เบียร์ทำจากการหมักข้าวบาร์เลย์",
+            "en": "Beer is made by fermenting barley.",
+            "audio_src": "เบียร์ทำจากการหมักข้าวบาร์เลย์",
+            "audio_en_src": "Beer is made by fermenting barley."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32406,6 +32480,25 @@
     "topic": "weather",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to take shelter from the rain",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักเลยเข้าไปหลบฝนใต้ชายคา",
+            "en": "It was raining hard, so I took shelter under the eaves.",
+            "audio_src": "ฝนตกหนักเลยเข้าไปหลบฝนใต้ชายคา",
+            "audio_en_src": "It was raining hard, so I took shelter under the eaves."
+          },
+          {
+            "thai": "เรายืนหลบฝนอยู่หน้าร้าน",
+            "en": "We stood sheltering from the rain in front of the shop.",
+            "audio_src": "เรายืนหลบฝนอยู่หน้าร้าน",
+            "audio_en_src": "We stood sheltering from the rain in front of the shop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32537,6 +32630,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to mean well, to have good intentions",
+        "sentences": [
+          {
+            "thai": "เขาหวังดีกับเธอจริงๆ",
+            "en": "He really means well for you.",
+            "audio_src": "เขาหวังดีกับเธอจริงๆ",
+            "audio_en_src": "He really means well for you."
+          },
+          {
+            "thai": "ฉันเตือนเพราะหวังดีนะ",
+            "en": "I’m warning you because I mean well.",
+            "audio_src": "ฉันเตือนเพราะหวังดีนะ",
+            "audio_en_src": "I’m warning you because I mean well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32679,6 +32791,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to stop sulking, to get over a huff",
+        "sentences": [
+          {
+            "thai": "ง้อตั้งนานกว่าเธอจะหายงอน",
+            "en": "It took a lot of making up before she stopped sulking.",
+            "audio_src": "ง้อตั้งนานกว่าเธอจะหายงอน",
+            "audio_en_src": "It took a lot of making up before she stopped sulking."
+          },
+          {
+            "thai": "ซื้อขนมให้ เดี๋ยวก็หายงอนเอง",
+            "en": "Buy her a snack and she’ll get over it.",
+            "audio_src": "ซื้อขนมให้ เดี๋ยวก็หายงอนเอง",
+            "audio_en_src": "Buy her a snack and she’ll get over it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32700,6 +32831,25 @@
     "sources": [
       "Tamago L1-2",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "valley",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านเล็กตั้งอยู่ในหุบเขา",
+            "en": "A small village sits in the valley.",
+            "audio_src": "หมู่บ้านเล็กตั้งอยู่ในหุบเขา",
+            "audio_en_src": "A small village sits in the valley."
+          },
+          {
+            "thai": "สายหมอกปกคลุมหุบเขายามเช้า",
+            "en": "Mist covers the valley in the morning.",
+            "audio_src": "สายหมอกปกคลุมหุบเขายามเช้า",
+            "audio_en_src": "Mist covers the valley in the morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32819,6 +32969,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "grape",
+        "sentences": [
+          {
+            "thai": "องุ่นไร้เมล็ดหวานกรอบ",
+            "en": "Seedless grapes are sweet and crisp.",
+            "audio_src": "องุ่นไร้เมล็ดหวานกรอบ",
+            "audio_en_src": "Seedless grapes are sweet and crisp."
+          },
+          {
+            "thai": "ไวน์ทำมาจากองุ่น",
+            "en": "Wine is made from grapes.",
+            "audio_src": "ไวน์ทำมาจากองุ่น",
+            "audio_en_src": "Wine is made from grapes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32905,6 +33074,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "anyway, regardless",
+        "sentences": [
+          {
+            "thai": "เตือนแล้วเขาก็ยังทำอยู่ดี",
+            "en": "I warned him but he did it anyway.",
+            "audio_src": "เตือนแล้วเขาก็ยังทำอยู่ดี",
+            "audio_en_src": "I warned him but he did it anyway."
+          },
+          {
+            "thai": "ต่อให้รีบก็ไปไม่ทันอยู่ดี",
+            "en": "Even if we hurry, we still won’t make it in time.",
+            "audio_src": "ต่อให้รีบก็ไปไม่ทันอยู่ดี",
+            "audio_en_src": "Even if we hurry, we still won’t make it in time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32961,6 +33149,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"better not (do it)\", \"I suggest you don't...\"",
+        "sentences": [
+          {
+            "thai": "ฝนกำลังจะตก ออกไปข้างนอกอย่าดีกว่า",
+            "en": "It’s about to rain, better not go out.",
+            "audio_src": "ฝนกำลังจะตก ออกไปข้างนอกอย่าดีกว่า",
+            "audio_en_src": "It’s about to rain, better not go out."
+          },
+          {
+            "thai": "กินดึกแบบนี้ อย่าดีกว่า เดี๋ยวปวดท้อง",
+            "en": "Eating this late, better not, you’ll get a stomachache.",
+            "audio_src": "กินดึกแบบนี้ อย่าดีกว่า เดี๋ยวปวดท้อง",
+            "audio_en_src": "Eating this late, better not, you’ll get a stomachache."
+          }
+        ]
+      }
     ]
   },
   {
