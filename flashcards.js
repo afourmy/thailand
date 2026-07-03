@@ -81,9 +81,7 @@
   // Kept in sync with the same list in vocab.js.
   var FREQ_DECKS = [
     { id: "freq-beginner", name: "Beginner", freqs: ["everyday"] },
-    { id: "freq-lower", name: "Lower Intermediate", freqs: ["everyday", "common"] },
-    { id: "freq-upper", name: "Upper Intermediate", freqs: ["common", "occasional"] },
-    { id: "freq-advanced", name: "Advanced", freqs: ["occasional", "rare"] },
+    { id: "freq-intermediate", name: "Intermediate", freqs: ["common"] },
   ];
   var FREQ_DECK_BY_ID = {};
   FREQ_DECKS.forEach(function (d) { FREQ_DECK_BY_ID[d.id] = d; });
