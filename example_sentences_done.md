@@ -2,8 +2,9 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3954 words**
+**Total: 3963 words**
 
+- `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
@@ -12,7 +13,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-008` : เอกชน (private, non-governmental) : 1 meaning(s), 2 sentences
 - `chula-l4-009` : คอย, รอคอย (to wait, await) : 1 meaning(s), 2 sentences
 - `chula-l4-010` : ส่วน (as for; while; part) : 3 meaning(s), 6 sentences
+- `chula-l4-012` : ท้องเสีย (diarrhea, upset stomach) : 1 meaning(s), 2 sentences
 - `chula-l4-013` : สุนัข (dog (polite)) : 1 meaning(s), 2 sentences
+- `chula-l4-014` : เป็นแผล (to have a wound) : 1 meaning(s), 2 sentences
+- `chula-l4-019` : เจาะเลือด (to draw blood) : 1 meaning(s), 2 sentences
+- `chula-l4-020` : ไข้หวัดใหญ่ (influenza, flu) : 1 meaning(s), 2 sentences
+- `chula-l4-022` : ผลตรวจ (test result) : 1 meaning(s), 2 sentences
+- `chula-l4-023` : คลื่นไส้ (nausea) : 1 meaning(s), 2 sentences
+- `chula-l4-024` : เวียนหัว (dizzy, lightheaded) : 1 meaning(s), 2 sentences
+- `chula-l4-025` : หน้ามืด (feeling lightheaded, about to lose consciousness) : 1 meaning(s), 2 sentences
+- `chula-l4-026` : น้ำมูกไหล (runny nose) : 1 meaning(s), 2 sentences
 - `chula-l4-031` : บรรยาย (to describe; to lecture) : 2 meaning(s), 4 sentences
 - `chula-l4-033` : ลักษณะ (characteristic) : 1 meaning(s), 2 sentences
 - `chula-l4-034` : ทบทวน (to review (e.g a lesson)) : 1 meaning(s), 2 sentences
@@ -996,7 +1006,6 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-020` : แคบ (narrow) : 1 meaning(s), 2 sentences
 - `tsl-024` : แกง (curry; (slang) to tease, trick, prank) : 2 meaning(s), 4 sentences
 - `tsl-025` : เท (to pour; (slang) to dump someone, to stand someone up) : 2 meaning(s), 4 sentences
-- `tsl-028` : เสือก ((slang, rude) to meddle, to butt in, stick your nose in) : 1 meaning(s), 2 sentences
 - `tsl-029` : จัดกระเป๋า (to pack a bag) : 1 meaning(s), 2 sentences
 - `tsl-030` : โอที ((work) overtime) : 1 meaning(s), 2 sentences
 - `tsl-031` : ไว้ (in advance, to keep for later) : 1 meaning(s), 2 sentences

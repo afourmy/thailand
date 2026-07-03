@@ -7,6 +7,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "dizzy, lightheaded",
+        "sentences": [
+          {
+            "thai": "กินยาแล้วรู้สึกมึนๆ",
+            "en": "The medicine makes me feel a bit dizzy.",
+            "audio_src": "กินยาแล้วรู้สึกมึนๆ",
+            "audio_en_src": "The medicine makes me feel a bit dizzy."
+          },
+          {
+            "thai": "นอนน้อยเลยมึนหัวทั้งวัน",
+            "en": "I didn’t sleep much, so I’ve been groggy all day.",
+            "audio_src": "นอนน้อยเลยมึนหัวทั้งวัน",
+            "audio_en_src": "I didn’t sleep much, so I’ve been groggy all day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -351,6 +370,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "diarrhea, upset stomach",
+        "sentences": [
+          {
+            "thai": "กินของเผ็ดมากเลยท้องเสีย",
+            "en": "I ate too much spicy food and got an upset stomach.",
+            "audio_src": "กินของเผ็ดมากเลยท้องเสีย",
+            "audio_en_src": "I ate too much spicy food and got an upset stomach."
+          },
+          {
+            "thai": "ระวังน้ำไม่สะอาด เดี๋ยวท้องเสีย",
+            "en": "Watch out for dirty water, or you’ll get diarrhea.",
+            "audio_src": "ระวังน้ำไม่สะอาด เดี๋ยวท้องเสีย",
+            "audio_en_src": "Watch out for dirty water, or you’ll get diarrhea."
+          }
+        ]
+      }
     ]
   },
   {
@@ -394,6 +432,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to have a wound",
+        "sentences": [
+          {
+            "thai": "หกล้มจนเป็นแผลที่เข่า",
+            "en": "I fell and got a cut on my knee.",
+            "audio_src": "หกล้มจนเป็นแผลที่เข่า",
+            "audio_en_src": "I fell and got a cut on my knee."
+          },
+          {
+            "thai": "โดนมีดบาดเป็นแผลที่นิ้ว",
+            "en": "I cut my finger on a knife.",
+            "audio_src": "โดนมีดบาดเป็นแผลที่นิ้ว",
+            "audio_en_src": "I cut my finger on a knife."
+          }
+        ]
+      }
     ]
   },
   {
@@ -424,6 +481,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to draw blood",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ต้องไปเจาะเลือดที่โรงพยาบาล",
+            "en": "I have to go get my blood drawn at the hospital tomorrow.",
+            "audio_src": "พรุ่งนี้ต้องไปเจาะเลือดที่โรงพยาบาล",
+            "audio_en_src": "I have to go get my blood drawn at the hospital tomorrow."
+          },
+          {
+            "thai": "เจาะเลือดนิดเดียว ไม่เจ็บหรอก",
+            "en": "It’s just a little blood draw, it won’t hurt.",
+            "audio_src": "เจาะเลือดนิดเดียว ไม่เจ็บหรอก",
+            "audio_en_src": "It’s just a little blood draw, it won’t hurt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -435,6 +511,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "influenza, flu",
+        "sentences": [
+          {
+            "thai": "เป็นไข้หวัดใหญ่ต้องพักผ่อนเยอะๆ",
+            "en": "When you have the flu you need lots of rest.",
+            "audio_src": "เป็นไข้หวัดใหญ่ต้องพักผ่อนเยอะๆ",
+            "audio_en_src": "When you have the flu you need lots of rest."
+          },
+          {
+            "thai": "ฉีดวัคซีนป้องกันไข้หวัดใหญ่ทุกปี",
+            "en": "I get a flu shot every year.",
+            "audio_src": "ฉีดวัคซีนป้องกันไข้หวัดใหญ่ทุกปี",
+            "audio_en_src": "I get a flu shot every year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -457,6 +552,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "test result",
+        "sentences": [
+          {
+            "thai": "ผลตรวจออกมาปกติดี",
+            "en": "The test results came back normal.",
+            "audio_src": "ผลตรวจออกมาปกติดี",
+            "audio_en_src": "The test results came back normal."
+          },
+          {
+            "thai": "หมอบอกว่าต้องรอผลตรวจอีกสองวัน",
+            "en": "The doctor said we have to wait two more days for the results.",
+            "audio_src": "หมอบอกว่าต้องรอผลตรวจอีกสองวัน",
+            "audio_en_src": "The doctor said we have to wait two more days for the results."
+          }
+        ]
+      }
     ]
   },
   {
@@ -468,6 +582,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "nausea",
+        "sentences": [
+          {
+            "thai": "รู้สึกคลื่นไส้ เหมือนจะอาเจียน",
+            "en": "I feel nauseous, like I’m going to throw up.",
+            "audio_src": "รู้สึกคลื่นไส้ เหมือนจะอาเจียน",
+            "audio_en_src": "I feel nauseous, like I’m going to throw up."
+          },
+          {
+            "thai": "นั่งรถนานๆ แล้วคลื่นไส้",
+            "en": "Riding in the car for a long time makes me queasy.",
+            "audio_src": "นั่งรถนานๆ แล้วคลื่นไส้",
+            "audio_en_src": "Riding in the car for a long time makes me queasy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -479,6 +612,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "dizzy, lightheaded",
+        "sentences": [
+          {
+            "thai": "อ่านหนังสือในรถแล้วเวียนหัว",
+            "en": "Reading in the car makes me dizzy.",
+            "audio_src": "อ่านหนังสือในรถแล้วเวียนหัว",
+            "audio_en_src": "Reading in the car makes me dizzy."
+          },
+          {
+            "thai": "อากาศร้อนจนเวียนหัว",
+            "en": "The heat is making me dizzy.",
+            "audio_src": "อากาศร้อนจนเวียนหัว",
+            "audio_en_src": "The heat is making me dizzy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -489,6 +641,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "feeling lightheaded, about to lose consciousness",
+        "sentences": [
+          {
+            "thai": "ยังไม่ได้กินข้าวเลยหน้ามืด",
+            "en": "I haven’t eaten, so I feel faint.",
+            "audio_src": "ยังไม่ได้กินข้าวเลยหน้ามืด",
+            "audio_en_src": "I haven’t eaten, so I feel faint."
+          },
+          {
+            "thai": "ลุกขึ้นเร็วไปจนหน้ามืด",
+            "en": "I stood up so fast I nearly blacked out.",
+            "audio_src": "ลุกขึ้นเร็วไปจนหน้ามืด",
+            "audio_en_src": "I stood up so fast I nearly blacked out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -499,6 +670,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "runny nose",
+        "sentences": [
+          {
+            "thai": "เป็นหวัดน้ำมูกไหลทั้งวัน",
+            "en": "I have a cold and my nose has been running all day.",
+            "audio_src": "เป็นหวัดน้ำมูกไหลทั้งวัน",
+            "audio_en_src": "I have a cold and my nose has been running all day."
+          },
+          {
+            "thai": "อากาศเย็นทีไรน้ำมูกไหลทุกที",
+            "en": "Every time it gets cold, my nose runs.",
+            "audio_src": "อากาศเย็นทีไรน้ำมูกไหลทุกที",
+            "audio_en_src": "Every time it gets cold, my nose runs."
+          }
+        ]
+      }
     ]
   },
   {
