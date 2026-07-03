@@ -13,10 +13,9 @@
 
   var words = [];
   var loaded = false;
-  var mode = "frequency"; // grouping axis: always frequency (topic grouping was removed)
-  // Independent visibility filters per dimension: { key: bool }. Built (all on)
-  // once on load and kept while regrouping. Not saved to localStorage.
-  var filters = { frequency: {}, topic: {} };
+  // Per-frequency visibility filters: { key: bool }. Built (all on) once on load
+  // and kept while regrouping. Not saved to localStorage.
+  var filters = { frequency: {} };
   var query = "";
   var face = "both"; // "both" | "thai" | "english"
   var AUDIO_LANG_KEY = "thaiAudioLang";
@@ -36,28 +35,6 @@
     occasional: "Occasional",
     rare: "Rare",
   };
-  var TOPIC_LABEL = {
-    personality: "Personality",
-    emotions: "Emotions",
-    family: "Family",
-    health: "Health",
-    general: "General",
-    grammar: "Grammar",
-    expressions: "Expressions",
-    time: "Time",
-    culture: "Culture",
-    beliefs: "Beliefs",
-    monarchy: "Monarchy",
-    nature: "Nature",
-    law: "Legal",
-    economy: "Economy",
-    transport: "Transport",
-    weather: "Weather",
-    travel: "Travel",
-    food: "Food",
-    slang: "Slang",
-  };
-
   function esc(s) {
     return String(s)
       .replace(/&/g, "&amp;")
@@ -518,58 +495,36 @@
   function buildGroups(list) {
     var buckets = {};
     list.forEach(function (word) {
-      var key = mode === "frequency" ? word.frequency : word.topic;
+      var key = word.frequency;
       (buckets[key] = buckets[key] || []).push(word);
     });
 
-    var keys;
-    if (mode === "frequency") {
-      keys = FREQ_ORDER.filter(function (k) {
-        return buckets[k];
-      });
-    } else {
-      // Topics ordered by size, largest first.
-      keys = Object.keys(buckets).sort(function (a, b) {
-        return buckets[b].length - buckets[a].length;
-      });
-    }
+    var keys = FREQ_ORDER.filter(function (k) {
+      return buckets[k];
+    });
 
     return keys.map(function (key) {
-      var label =
-        mode === "frequency" ? FREQ_LABEL[key] : TOPIC_LABEL[key] || key;
-      return { key: key, label: label, items: buckets[key] };
+      return { key: key, label: FREQ_LABEL[key], items: buckets[key] };
     });
   }
 
-  // Distinct keys present for a dimension, in chip order: frequencies in
-  // canonical order, topics largest-first (matching how topic mode sections).
+  // Distinct frequencies present, in canonical chip order.
   function keysForDim(dim) {
-    if (dim === "frequency") {
-      var present = {};
-      words.forEach(function (word) {
-        present[word.frequency] = true;
-      });
-      return FREQ_ORDER.filter(function (k) {
-        return present[k];
-      });
-    }
-    var counts = {};
+    var present = {};
     words.forEach(function (word) {
-      counts[word.topic] = (counts[word.topic] || 0) + 1;
+      present[word.frequency] = true;
     });
-    return Object.keys(counts).sort(function (a, b) {
-      return counts[b] - counts[a];
+    return FREQ_ORDER.filter(function (k) {
+      return present[k];
     });
   }
 
   function labelForDim(dim, key) {
-    return dim === "frequency"
-      ? FREQ_LABEL[key] || key
-      : TOPIC_LABEL[key] || key;
+    return FREQ_LABEL[key] || key;
   }
 
   function chipColorClass(dim, key) {
-    return dim === "frequency" ? "tag-freq freq-" + key : "tag-topic";
+    return "tag-freq freq-" + key;
   }
 
   // A selected chip wears its tag color; a deselected one is muted.
@@ -579,7 +534,7 @@
       : "vocab-chip vocab-chip--off";
   }
 
-  // Build both chip rows (frequency and topic) from the data, all selected.
+  // Build the frequency chip row from the data, all selected.
   function buildFilterBar() {
     filterEl.querySelectorAll(".vocab-filter-group[data-dim]").forEach(function (group) {
       var dim = group.getAttribute("data-dim");
@@ -601,14 +556,11 @@
     });
   }
 
-  // Shown only if both its frequency and its topic are still selected, and
-  // (when "Only show deck cards" is on) the word is in the current custom deck.
+  // Shown only if its frequency is still selected, and (when "Only show deck
+  // cards" is on) the word is in the current custom deck.
   function passesFilter(word) {
     if (deckOnly && isFilteringDeck() && !deckHasWord(currentDeckId, word)) return false;
-    return (
-      filters.frequency[word.frequency] !== false &&
-      filters.topic[word.topic] !== false
-    );
+    return filters.frequency[word.frequency] !== false;
   }
 
   // Lazy materialization: each group renders only its header + an empty,
@@ -714,8 +666,7 @@
     updateCount();
     groupsEl.innerHTML = currentGroups
       .map(function (group, i) {
-        var freqMod =
-          mode === "frequency" ? " vocab-group--" + group.key : "";
+        var freqMod = " vocab-group--" + group.key;
         var minH = estimateGroupHeight(group.items.length);
         return (
           '<section class="vocab-group' + freqMod + '">' +
@@ -748,8 +699,7 @@
     });
   }
 
-  // One delegated handler for both rows: toggle a single chip, or flip a whole
-  // row via its Select all / Unselect all. The dimension comes from the group.
+  // Delegated handler for the frequency row: toggle a single chip.
   filterEl.addEventListener("click", function (e) {
     var group = e.target.closest(".vocab-filter-group[data-dim]");
     if (!group) return;
@@ -760,19 +710,6 @@
       var key = chip.getAttribute("data-key");
       filters[dim][key] = !filters[dim][key];
       applyChipState(chip, dim, filters[dim][key]);
-      render();
-      return;
-    }
-
-    var bulk = e.target.closest("button[data-bulk]");
-    if (bulk) {
-      var on = bulk.getAttribute("data-bulk") === "all";
-      Object.keys(filters[dim]).forEach(function (k) {
-        filters[dim][k] = on;
-      });
-      group.querySelectorAll(".vocab-chip").forEach(function (c) {
-        applyChipState(c, dim, on);
-      });
       render();
     }
   });

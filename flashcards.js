@@ -40,7 +40,7 @@
     day: null,
   };
   config.listening = !!config.listening;
-  delete config.excluded; // frequency/topic include-filters were removed
+  delete config.excluded; // legacy include-filters were removed
   if (config.direction !== "e2t" && config.direction !== "t2e") config.direction = "both";
   // Type mode: on English→Thai cards, type the Thai (checked against the spelling)
   // instead of just self-rating recall. Migrate the old answerMode dropdown value.

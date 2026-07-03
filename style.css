@@ -1192,8 +1192,7 @@ html[lang="fr"] .en { display: none; }
 }
 
 
-/* Filter bar: two independent chip rows (frequency and topic). Grouping is
-   chosen separately by the "Group by" toggle; these only control visibility. */
+/* Filter bar: the frequency chip row controls which cards are visible. */
 .vocab-filter {
   flex-direction: column;
   align-items: stretch;
@@ -1932,11 +1931,6 @@ body[data-thai-font="noto"] .th {
   border-radius: 999px;
 }
 
-.tag-topic {
-  color: var(--accent-strong);
-  background: #eaf3fc;
-}
-
 .tag-freq.freq-everyday { color: #2e9e5b; background: #e6f4ec; }
 .tag-freq.freq-common { color: var(--accent-strong); background: #eaf3fc; }
 .tag-freq.freq-occasional { color: #b8791d; background: #faf0df; }
@@ -2056,7 +2050,6 @@ body[data-thai-font="noto"] .th {
 
 /* ── Dark-mode tweaks for tinted pills (light backgrounds -> dark tints so
    the now-light text stays readable) ── */
-[data-theme="dark"] .tag-topic,
 [data-theme="dark"] .tag-freq.freq-common,
 [data-theme="dark"] .tag-freq.freq-sometimes,
 [data-theme="dark"] .vocab-group-count {
