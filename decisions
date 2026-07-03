@@ -2,7 +2,7 @@ wlt-c05-090 ครู่: eng 'a short while, a moment'
 wlt-c10-019 ขณะนี้: eng 'currently, at the moment'
 มะรืนนี้: eng 'the day after tomorrow'
 wlt-c16-034 สมัย: eng 'period, era, time'
-wlt-c19-076 อีกนาน: eng 'for a long time, not anytime soon'
+wlt-c19-076 อีกนาน: eng 'still a long way off, not anytime soon'
 t4k-c01-029 ยุค: eng 'era, epoch'
 t4k-c02-024 แต่ก่อน: eng 'before, in the past, back then, formerly'
 t4k-c02-041 ยาวนาน: eng 'long-lasting, prolonged'
@@ -17,8 +17,8 @@ tamago-l12-355 รถบัส: eng 'bus'
 thaipod-0138 ขึ้นบิน: eng 'to take off (plane)'
 yt-c04-080 ราง: eng 'track, rail'
 yt-c04-020 ปาดหน้า: eng 'to cut in line, to cut in front, to overtake in a dangerous way (in traffic when driving)'
-yt-c04-085 รัดเข็มขัด: eng 'to tighten a belt'
-yt-c06-055 นั่งซ้อนท้าย: eng 'to ride as a passenger on the back of a motosai'
+yt-c04-085 รัดเข็มขัด: eng 'to economize, to cut back on spending (literally "to tighten one's belt")'
+yt-c06-055 นั่งซ้อนท้าย: eng 'to ride as a passenger on the back of a motorbike'
 yt-c08-074 ไฟสูง: eng 'high beam headlights (long-range headlight of a car)'
 yt-c12-073 ลงจอด: eng 'to land (aircraft, helicopter)'
 yt-c16-065 ติดรถ: eng 'to get a ride, to hitch a ride, to go along in someone's car'
@@ -98,13 +98,13 @@ yt-c07-033 ยางรั่ว - ยางแบน: split into two cards:
 ยางรั่ว: 'tire leak'
 ยางแบน: 'flat tire'
 
-สะเออะ, สะเหล่อ: split into two cards:
+yt-c22-086 สะเออะ, สะเหล่อ: split into two cards:
 สะเออะ: 'to overstep one's place, to shamelessly butt in, to have the nerve to do something'
 สะเหล่อ: 'awkwardly nosy, tactless, lacking social awareness'
 
-yt-c22-085 ชิบหาย - ชิบหายวายวอด: split into two cards:
-ชิบหาย: '"...as fuck", "fucking...", screwed, fucked up (slang)'
-ชิบหายวายวอด: 'completely screwed, utterly destroyed, total annihilation (slang)'
+yt-c22-085 ฉิบหาย - ฉิบหายวายวอด: split into two cards:
+ฉิบหาย: '"...as fuck", "fucking...", screwed, fucked up (slang)'
+ฉิบหายวายวอด: 'completely screwed, utterly destroyed, total annihilation (slang)'
 
 remove card: wlt-c19-010 มานาน, t4k-c01-095 ที่ผ่านมา, t4k-c03-008 กาลเวลา, t4k-c03-065 ครั้งนั้น, t4k-c06-023 วันเวลา, tamago-l12-344 ยางแบน, ยางรั่ว, yt-c08-070 คาดเข็มขัด, tobo-200 เจ้าสาว, wlt-c06-038 เจ้าบ่าว, wlt-c01-049 คนสุดท้าย, chula-l4-109 ลูกเขย, chula-l4-110 ลูกสะใภ้, t4k-c01-097 สยาม, t4k-c08-070 เรื่องสั้น, wlt-c15-014 อีสาน, wlt-c08-003 พุทธศักราช (พ.ศ.), yt-c17-072 สยามเมืองยิ้ม, wlt-c04-021 ร้อนอบอ้าว, yt-c18-075 คันเร่ง - เบรก, wlt-c18-080 บีทีเอส, wlt-c19-067 ห้าแยก, wlt-c19-028 รถธรรมดา, yt-c07-072 พื้นบ้าน, wlt-c08-063 ยายทวด, wlt-c19-015 มีลูก, t4k-c08-021 พี่เลี้ยง, wlt-c03-079 มาเที่ยว, wlt-c19-063 ห้องธรรมดา
 
