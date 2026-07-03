@@ -1718,31 +1718,9 @@
     ]
   },
   {
-    "id": "chula-l4-109",
-    "thai": "ลูกเขย",
-    "english": "son-in-law",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "Chulalongkorn L4",
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "chula-l4-110",
-    "thai": "ลูกสะใภ้",
-    "english": "daughter-in-law",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "Chulalongkorn L4",
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "chula-l4-111",
     "thai": "ไม่ลงรอยกัน",
-    "english": "to disagree, be at odds, not get along",
+    "english": "to disagree, to be at odds, to not get along",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -1784,7 +1762,7 @@
   {
     "id": "chula-l4-116",
     "thai": "เลี้ยงดู",
-    "english": "to nurture, to raise a child",
+    "english": "to nurture, to raise, to care for, to provide for (e.g a child)",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -9060,7 +9038,7 @@
   {
     "id": "chula-l5-398",
     "thai": "รถประจำทาง",
-    "english": "bus",
+    "english": "public bus",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -12144,7 +12122,7 @@
   {
     "id": "chula-l6-110",
     "thai": "สัญจร",
-    "english": "to travel, circulate, commute",
+    "english": "to travel, to circulate, to commute",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -15536,16 +15514,6 @@
     ]
   },
   {
-    "id": "chula-l6-283",
-    "thai": "เจ้าสาว - เจ้าบ่าว",
-    "english": "bride - groom",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "Chulalongkorn L6"
-    ]
-  },
-  {
     "id": "chula-l6-284",
     "thai": "แขก",
     "english": "guest",
@@ -17366,7 +17334,7 @@
   {
     "id": "tamago-l12-054",
     "thai": "ขอพร",
-    "english": "to ask for a blessing, make a wish",
+    "english": "to ask for a blessing, to make a wish",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -23426,17 +23394,6 @@
     ]
   },
   {
-    "id": "tamago-l12-344",
-    "thai": "ยางแบน, ยางรั่ว",
-    "english": "flat tire",
-    "frequency": "common",
-    "topic": "transport",
-    "sources": [
-      "Tamago L1-2",
-      "YouTube"
-    ]
-  },
-  {
     "id": "tamago-l12-346",
     "thai": "ยิ่ง, ยิ่งขึ้น",
     "english": "more (so), even more",
@@ -23703,7 +23660,7 @@
   {
     "id": "tamago-l12-354",
     "thai": "รถบรรทุก",
-    "english": "truck, semi-truck",
+    "english": "truck, cargo vehicle",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -23714,7 +23671,7 @@
   {
     "id": "tamago-l12-355",
     "thai": "รถบัส",
-    "english": "intercity bus (long distance)",
+    "english": "bus",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -33060,8 +33017,8 @@
   },
   {
     "id": "tamago-l3-072",
-    "thai": "พรำๆ",
-    "english": "lightly, gently (drizzle, sound)",
+    "thai": "พรำ",
+    "english": "gentle, slow and continuous (mainly used to describe rain drizzling)",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -40123,7 +40080,7 @@
   {
     "id": "tamago-l3-407",
     "thai": "ในหลวง",
-    "english": "the King of Thailand (revered term)",
+    "english": "the King of Thailand",
     "frequency": "common",
     "topic": "monarchy",
     "sources": [
@@ -43831,7 +43788,7 @@
   {
     "id": "tamago-l3-588",
     "thai": "เจ้า",
-    "english": "particle of endearment before child's name (used by adults)",
+    "english": "lord, master; particle of endearment before child or pet's name (used by adults)",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -48419,7 +48376,7 @@
   {
     "id": "tamago-l3-820",
     "thai": "ลูกแหง่",
-    "english": "mama's boy",
+    "english": "mama's boy, spoiled child",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -54198,7 +54155,7 @@
   {
     "id": "tsl-256",
     "thai": "ค่านิยม",
-    "english": "values, principles (social/cultural)",
+    "english": "social values, principles (what a society considers important)",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -56850,7 +56807,7 @@
   {
     "id": "tsl-411",
     "thai": "ญาติมิตร",
-    "english": "friends and relatives",
+    "english": "relatives and close friends",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -63205,7 +63162,7 @@
   {
     "id": "thaipod-0138",
     "thai": "ขึ้นบิน",
-    "english": "to board (a plane), to take off",
+    "english": "to take off (plane)",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -72005,7 +71962,7 @@
   {
     "id": "thaipod-0705",
     "thai": "พระเจ้า",
-    "english": "king; God",
+    "english": "god",
     "frequency": "common",
     "topic": "monarchy",
     "sources": [
@@ -77462,7 +77419,7 @@
   {
     "id": "thaipod-1036",
     "thai": "สุดท้อง",
-    "english": "youngest (last-born child)",
+    "english": "youngest child in a family, last-born",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -88516,18 +88473,6 @@
     ]
   },
   {
-    "id": "tobo-200",
-    "thai": "เจ้าสาว",
-    "english": "bride",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "Tobo Deck",
-      "Anki Basics",
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "tobo-201",
     "thai": "มันฝรั่ง",
     "english": "potato",
@@ -97232,7 +97177,7 @@
   {
     "id": "yt-c02-017",
     "thai": "ชีวิตคู่",
-    "english": "married life",
+    "english": "married life, conjugal life",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -99866,7 +99811,7 @@
   {
     "id": "yt-c03-099",
     "thai": "ทำนอง",
-    "english": "melody; manner, style",
+    "english": "melody, tune; manner, style",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -100176,7 +100121,7 @@
   {
     "id": "yt-c04-020",
     "thai": "ปาดหน้า",
-    "english": "to cut in line, cut in front (in traffic when driving)",
+    "english": "to cut in line, to cut in front, to overtake in a dangerous way (in traffic when driving)",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -100825,7 +100770,7 @@
   {
     "id": "yt-c04-080",
     "thai": "ราง",
-    "english": "track, rail; vague, dim, faint",
+    "english": "track, rail",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -100961,7 +100906,7 @@
   {
     "id": "yt-c04-085",
     "thai": "รัดเข็มขัด",
-    "english": "to fasten (seat)belt",
+    "english": "to economize, to cut back on spending (literally \"to tighten one's belt\")",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -103549,7 +103494,7 @@
   {
     "id": "yt-c06-055",
     "thai": "นั่งซ้อนท้าย",
-    "english": "to ride as a passenger on the back (e.g motosai)",
+    "english": "to ride as a passenger on the back of a motorbike",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -104418,7 +104363,7 @@
   },
   {
     "id": "yt-c07-014",
-    "thai": "สถานีขนส่งผู้โดยสาร, บขส",
+    "thai": "สถานีขนส่งผู้โดยสาร (บขส)",
     "english": "passenger bus terminal",
     "frequency": "common",
     "topic": "transport",
@@ -104760,16 +104705,6 @@
     ]
   },
   {
-    "id": "yt-c07-033",
-    "thai": "ยางรั่ว - ยางแบน",
-    "english": "tire leak - flat tire",
-    "frequency": "common",
-    "topic": "transport",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c07-034",
     "thai": "โซ่หย่อน - โซ่ขาด",
     "english": "loose chain - broken chain (on a motosai)",
@@ -104967,7 +104902,7 @@
   {
     "id": "yt-c07-047",
     "thai": "ฝน",
-    "english": "rain; to grind (e.g a plant into powder)",
+    "english": "rain; to grind (e.g a plant into powder), to sharpen",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -105370,17 +105305,6 @@
     "topic": "culture",
     "sources": [
       "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c07-072",
-    "thai": "พื้นบ้าน",
-    "english": "folk, local, homegrown",
-    "frequency": "common",
-    "topic": "culture",
-    "sources": [
-      "YouTube",
-      "Thai 4000"
     ]
   },
   {
@@ -106754,16 +106678,6 @@
     ]
   },
   {
-    "id": "yt-c08-070",
-    "thai": "คาดเข็มขัด",
-    "english": "to fasten seat belt",
-    "frequency": "common",
-    "topic": "transport",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c08-071",
     "thai": "ตั้งด่าน",
     "english": "to set up a checkpoint (police, military)",
@@ -106796,7 +106710,7 @@
   {
     "id": "yt-c08-074",
     "thai": "ไฟสูง",
-    "english": "high beam (long-range headlight of a car)",
+    "english": "high beam headlights (long-range headlight of a car)",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -109679,8 +109593,8 @@
   },
   {
     "id": "yt-c11-005",
-    "thai": "คาดเข็มขัดนิรภัย",
-    "english": "to fasten seatbelt",
+    "thai": "คาดเข็มขัด, คาดเข็มขัดนิรภัย",
+    "english": "to fasten one's seatbelt",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -110097,8 +110011,8 @@
   },
   {
     "id": "yt-c11-025",
-    "thai": "ฟ้าแลบ - ฟ้าร้อง - ฟ้าผ่า",
-    "english": "lightning - thunder - lightning strike",
+    "thai": "ฟ้าแลบ",
+    "english": "lightning flash (specifically the flash)",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -111154,7 +111068,7 @@
   {
     "id": "yt-c12-009",
     "thai": "เหน็บหนาว",
-    "english": "chilling cold, biting cold",
+    "english": "bitterly cold, bone-chilling cold",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -112081,7 +111995,7 @@
   {
     "id": "yt-c12-073",
     "thai": "ลงจอด",
-    "english": "(of a plane or a helicopter) to land",
+    "english": "to land (aircraft, helicopter)",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -112786,7 +112700,7 @@
   {
     "id": "yt-c13-026",
     "thai": "ฝนตกปรอยๆ",
-    "english": "to drizzle (= rain lightly, continuously but not heavily)",
+    "english": "to drizzle, to rain lightly, continuously but not heavily",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -117658,7 +117572,7 @@
   {
     "id": "yt-c16-065",
     "thai": "ติดรถ",
-    "english": "to get a ride, hitch a ride, go along in someone's car",
+    "english": "to get a ride, to hitch a ride, to go along in someone's car",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -117669,16 +117583,6 @@
     "id": "yt-c16-066",
     "thai": "ยางอะไหล่",
     "english": "spare tire",
-    "frequency": "common",
-    "topic": "transport",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c16-067",
-    "thai": "กระโปรง - กระโปรงหน้า - กระโปรงหลัง",
-    "english": "skirt - hood - trunk lid",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -119253,16 +119157,6 @@
     ]
   },
   {
-    "id": "yt-c17-072",
-    "thai": "สยามเมืองยิ้ม",
-    "english": "Siam, the Land of Smile",
-    "frequency": "common",
-    "topic": "culture",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c17-073",
     "thai": "พึ่งพิง",
     "english": "(formal, literary) to depend on, to rely on",
@@ -120615,16 +120509,6 @@
     ]
   },
   {
-    "id": "yt-c18-068",
-    "thai": "ลูกสะใภ้ - ลูกเขย",
-    "english": "daughter-in-law, wife of son - son-in-law, husband of daughter",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c18-069",
     "thai": "โต้ตอบ",
     "english": "to respond, to reply",
@@ -120724,16 +120608,6 @@
     "english": "frequent, happening often, in close intervals",
     "frequency": "occasional",
     "topic": "grammar",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c18-075",
-    "thai": "คันเร่ง - เบรก",
-    "english": "accelerator - brake, brake pedal",
-    "frequency": "common",
-    "topic": "transport",
     "sources": [
       "YouTube"
     ]
@@ -121069,7 +120943,7 @@
   {
     "id": "yt-c18-096",
     "thai": "ถอยหลัง",
-    "english": "to reverse, move backward, step back",
+    "english": "to reverse, to move backward",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -126139,26 +126013,6 @@
     ]
   },
   {
-    "id": "yt-c22-085",
-    "thai": "ชิบหาย - ชิบหายวายวอด",
-    "english": "(slang) ...as fuck - a huge fuck up, a really big mistake",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c22-086",
-    "thai": "สะเออะ, สะเหล่อ",
-    "english": "to butt in, to poke your nose in, nosy",
-    "frequency": "common",
-    "topic": "slang",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c22-087",
     "thai": "หนักหัวใคร",
     "english": "\"how does it concern you?\", \"it's none of your business\" (literally \"whose head is it heavy on\")",
@@ -127317,17 +127171,7 @@
   {
     "id": "wlt-c01-047",
     "thai": "คนโต",
-    "english": "oldest one (of children)",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c01-049",
-    "thai": "คนสุดท้าย",
-    "english": "youngest one (of children)",
+    "english": "eldest (of children)",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -128536,8 +128380,8 @@
   },
   {
     "id": "wlt-c02-031",
-    "thai": "ตาทวด",
-    "english": "great grandfather (maternal)",
+    "thai": "ทวด",
+    "english": "great-grandparent",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -130676,16 +130520,6 @@
     ]
   },
   {
-    "id": "wlt-c03-079",
-    "thai": "มาเที่ยว",
-    "english": "visit a place",
-    "frequency": "common",
-    "topic": "travel",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c03-080",
     "thai": "มาเยี่ยม",
     "english": "to come visit a person",
@@ -131293,16 +131127,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "wlt-c04-021",
-    "thai": "ร้อนอบอ้าว",
-    "english": "hot and muggy",
-    "frequency": "common",
-    "topic": "weather",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -132455,7 +132279,7 @@
   {
     "id": "wlt-c04-082",
     "thai": "เส้นทาง",
-    "english": "route",
+    "english": "route, path",
     "frequency": "common",
     "topic": "travel",
     "sources": [
@@ -132782,7 +132606,7 @@
   {
     "id": "wlt-c05-005",
     "thai": "เหลน",
-    "english": "great grandchild",
+    "english": "great-grandchild",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -133272,7 +133096,7 @@
   {
     "id": "wlt-c05-041",
     "thai": "กลับรถ",
-    "english": "to turn the car around, u-turn",
+    "english": "to turn the car around, to make a U-turn",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -134327,7 +134151,7 @@
   {
     "id": "wlt-c05-090",
     "thai": "ครู่",
-    "english": "short period of time, a while",
+    "english": "a short while, a moment",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -135071,16 +134895,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "wlt-c06-038",
-    "thai": "เจ้าบ่าว",
-    "english": "bridegroom",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -136860,7 +136674,7 @@
   {
     "id": "wlt-c07-022",
     "thai": "ที่เที่ยว",
-    "english": "tourist attraction, place to tour, go",
+    "english": "tourist attraction, place to tour",
     "frequency": "common",
     "topic": "travel",
     "sources": [
@@ -138161,7 +137975,7 @@
   {
     "id": "wlt-c07-097",
     "thai": "ผู้ปกครอง",
-    "english": "guardian",
+    "english": "guardian (person responsible for a minor, usually the parent)",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -138206,16 +138020,6 @@
     "english": "to deposit money (in the bank)",
     "frequency": "common",
     "topic": "economy",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c08-003",
-    "thai": "พุทธศักราช (พ.ศ.)",
-    "english": "Buddhist Era (B.E.)",
-    "frequency": "common",
-    "topic": "culture",
     "sources": [
       "Anki Basics"
     ]
@@ -138285,7 +138089,7 @@
   {
     "id": "wlt-c08-012",
     "thai": "พัด",
-    "english": "to blow (as the wind)",
+    "english": "to blow (wind)",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -139214,16 +139018,6 @@
     ]
   },
   {
-    "id": "wlt-c08-063",
-    "thai": "ยายทวด",
-    "english": "great grandmother (maternal)",
-    "frequency": "common",
-    "topic": "family",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c08-064",
     "thai": "ยิ้ม",
     "english": "to smile",
@@ -139866,7 +139660,7 @@
   {
     "id": "wlt-c08-095",
     "thai": "ละคร",
-    "english": "play (TV drama)",
+    "english": "TV drama",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -142451,7 +142245,7 @@
   {
     "id": "wlt-c10-019",
     "thai": "ขณะนี้",
-    "english": "present time",
+    "english": "currently, at the moment",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -142462,7 +142256,7 @@
   {
     "id": "wlt-c10-020",
     "thai": "ขนส่ง",
-    "english": "to transport",
+    "english": "to transport (formal)",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -144027,7 +143821,7 @@
   {
     "id": "wlt-c10-088",
     "thai": "ท่าเรือ",
-    "english": "pier, harbour, wharf, port",
+    "english": "pier, harbour, port",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -144521,7 +144315,7 @@
   {
     "id": "wlt-c11-012",
     "thai": "นักประพันธ์",
-    "english": "writer (formal)",
+    "english": "writer, author, composer (formal)",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -145807,7 +145601,7 @@
   {
     "id": "wlt-c11-063",
     "thai": "พาหนะ",
-    "english": "vehicle, means of transport",
+    "english": "vehicle, means of transportation",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -145903,7 +145697,7 @@
   {
     "id": "wlt-c11-073",
     "thai": "มะรืนนี้",
-    "english": "day after tomorrow",
+    "english": "the day after tomorrow",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -153493,16 +153287,6 @@
     ]
   },
   {
-    "id": "wlt-c15-014",
-    "thai": "อีสาน",
-    "english": "northeast (in Thailand)",
-    "frequency": "common",
-    "topic": "culture",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c15-015",
     "thai": "อื่น",
     "english": "other, different",
@@ -155740,7 +155524,7 @@
   {
     "id": "wlt-c15-096",
     "thai": "ปั๊มน้ำมัน",
-    "english": "gas pump, a gas station",
+    "english": "gas pump, gas station",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -156750,7 +156534,7 @@
   {
     "id": "wlt-c16-034",
     "thai": "สมัย",
-    "english": "time, period, era, age, reign",
+    "english": "period, era, time",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -157003,7 +156787,7 @@
   {
     "id": "wlt-c16-043",
     "thai": "สี่แยก",
-    "english": "corner, intersection (four way), crossroad",
+    "english": "four-way intersection",
     "frequency": "common",
     "topic": "transport",
     "sources": [
@@ -158258,7 +158042,7 @@
   {
     "id": "wlt-c16-094",
     "thai": "ต่างประเทศ",
-    "english": "foreign, foreign countries, abroad",
+    "english": "foreign countries, abroad",
     "frequency": "common",
     "topic": "travel",
     "sources": [
@@ -162137,7 +161921,7 @@
   {
     "id": "wlt-c18-063",
     "thai": "เที่ยวเดียว",
-    "english": "one-way",
+    "english": "one-way (trip, ticket), single journey",
     "frequency": "common",
     "topic": "travel",
     "sources": [
@@ -162398,16 +162182,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "wlt-c18-080",
-    "thai": "บีทีเอส",
-    "english": "skytrain",
-    "frequency": "common",
-    "topic": "transport",
-    "sources": [
-      "Anki Basics"
     ]
   },
   {
@@ -162915,16 +162689,6 @@
     ]
   },
   {
-    "id": "wlt-c19-010",
-    "thai": "มานาน",
-    "english": "for a long time",
-    "frequency": "common",
-    "topic": "time",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c19-013",
     "thai": "มีท้อง, ตั้งท้อง",
     "english": "to be pregnant",
@@ -162940,16 +162704,6 @@
     "english": "to be generous, to be kind",
     "frequency": "common",
     "topic": "personality",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c19-015",
-    "thai": "มีลูก",
-    "english": "to have a baby",
-    "frequency": "common",
-    "topic": "family",
     "sources": [
       "Anki Basics"
     ]
@@ -163066,16 +162820,6 @@
     "english": "lozenge, throat tablet (slowly dissolves in the mouth)",
     "frequency": "common",
     "topic": "health",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c19-028",
-    "thai": "รถธรรมดา",
-    "english": "regular",
-    "frequency": "common",
-    "topic": "transport",
     "sources": [
       "Anki Basics"
     ]
@@ -163551,19 +163295,9 @@
     ]
   },
   {
-    "id": "wlt-c19-063",
-    "thai": "ห้องธรรมดา",
-    "english": "regular room (includes fan)",
-    "frequency": "common",
-    "topic": "travel",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
     "id": "wlt-c19-064",
     "thai": "ห้องพัดลม",
-    "english": "(regular) room with fan",
+    "english": "room with fan",
     "frequency": "common",
     "topic": "travel",
     "sources": [
@@ -163586,16 +163320,6 @@
     "english": "to be unable to breathe",
     "frequency": "common",
     "topic": "health",
-    "sources": [
-      "Anki Basics"
-    ]
-  },
-  {
-    "id": "wlt-c19-067",
-    "thai": "ห้าแยก",
-    "english": "intersection (five way)",
-    "frequency": "common",
-    "topic": "transport",
     "sources": [
       "Anki Basics"
     ]
@@ -163699,7 +163423,7 @@
   {
     "id": "wlt-c19-076",
     "thai": "อีกนาน",
-    "english": "for a lot longer, in a long time",
+    "english": "still a long way off, not anytime soon",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -170971,7 +170695,7 @@
   {
     "id": "t4k-c01-029",
     "thai": "ยุค",
-    "english": "era",
+    "english": "era, epoch",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -171892,26 +171616,6 @@
     ]
   },
   {
-    "id": "t4k-c01-095",
-    "thai": "ที่ผ่านมา",
-    "english": "ago",
-    "frequency": "common",
-    "topic": "time",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c01-097",
-    "thai": "สยาม",
-    "english": "Siam",
-    "frequency": "common",
-    "topic": "culture",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c02-000",
     "thai": "บุตร",
     "english": "child (formal)",
@@ -172289,7 +171993,7 @@
   {
     "id": "t4k-c02-024",
     "thai": "แต่ก่อน",
-    "english": "before; formerly; previously",
+    "english": "before, in the past, back then, formerly",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -172564,7 +172268,7 @@
   {
     "id": "t4k-c02-041",
     "thai": "ยาวนาน",
-    "english": "long; endless",
+    "english": "long-lasting, prolonged",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -173436,7 +173140,7 @@
   {
     "id": "t4k-c03-000",
     "thai": "ราชา",
-    "english": "royal; king; monarch",
+    "english": "ruler, monarch",
     "frequency": "common",
     "topic": "monarchy",
     "sources": [
@@ -173499,16 +173203,6 @@
     "english": "classifier for thin cloth-like things (towel, blanket, mattress, sheet, etc) and land",
     "frequency": "common",
     "topic": "grammar",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c03-008",
-    "thai": "กาลเวลา",
-    "english": "time; era",
-    "frequency": "common",
-    "topic": "time",
     "sources": [
       "Thai 4000"
     ]
@@ -173700,7 +173394,7 @@
   {
     "id": "t4k-c03-027",
     "thai": "ลูกหลาน",
-    "english": "descendants; clan",
+    "english": "descendants, children and grandchildren, posterity",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -174053,7 +173747,7 @@
   {
     "id": "t4k-c03-048",
     "thai": "รำ",
-    "english": "dance",
+    "english": "traditional dance, to perform Thai classical dance",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -174284,16 +173978,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "t4k-c03-065",
-    "thai": "ครั้งนั้น",
-    "english": "at that time",
-    "frequency": "common",
-    "topic": "time",
-    "sources": [
-      "Thai 4000"
     ]
   },
   {
@@ -175105,7 +174789,7 @@
   {
     "id": "t4k-c04-029",
     "thai": "เผ่า",
-    "english": "tribe, race, clan",
+    "english": "tribe, ethnic group, clan",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -175221,7 +174905,7 @@
   {
     "id": "t4k-c04-040",
     "thai": "บัดนี้",
-    "english": "now",
+    "english": "now (formal, written)",
     "frequency": "common",
     "topic": "time",
     "sources": [
@@ -175917,7 +175601,7 @@
   {
     "id": "t4k-c04-092",
     "thai": "สมรส",
-    "english": "marry",
+    "english": "to marry, marriage",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -176681,7 +176365,7 @@
   {
     "id": "t4k-c05-047",
     "thai": "คนรัก",
-    "english": "lover; darling",
+    "english": "lover, romantic partner",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -177718,16 +177402,6 @@
     ]
   },
   {
-    "id": "t4k-c06-023",
-    "thai": "วันเวลา",
-    "english": "time; passage of time",
-    "frequency": "common",
-    "topic": "time",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
     "id": "t4k-c06-026",
     "thai": "สำราญ",
     "english": "happy, content, to enjoy oneself (formal)",
@@ -177977,7 +177651,7 @@
   {
     "id": "t4k-c06-038",
     "thai": "เพื่อนฝูง",
-    "english": "friends; company",
+    "english": "friends, group of friends",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -179656,7 +179330,7 @@
   {
     "id": "t4k-c07-071",
     "thai": "แบบแผน",
-    "english": "custom; tradition",
+    "english": "pattern, model, convention (formal)",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -180061,7 +179735,7 @@
   {
     "id": "t4k-c08-003",
     "thai": "นวนิยาย",
-    "english": "novel; fiction",
+    "english": "novel, fiction",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -180237,16 +179911,6 @@
     "english": "to be completed, to come to an end (formal)",
     "frequency": "occasional",
     "topic": "general",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c08-021",
-    "thai": "พี่เลี้ยง",
-    "english": "nanny; babysitter",
-    "frequency": "common",
-    "topic": "family",
     "sources": [
       "Thai 4000"
     ]
@@ -180448,7 +180112,7 @@
   {
     "id": "t4k-c08-046",
     "thai": "มาลัย",
-    "english": "garland",
+    "english": "flower garland",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -180762,16 +180426,6 @@
     "english": "insurance",
     "frequency": "common",
     "topic": "economy",
-    "sources": [
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "t4k-c08-070",
-    "thai": "เรื่องสั้น",
-    "english": "short story",
-    "frequency": "common",
-    "topic": "culture",
     "sources": [
       "Thai 4000"
     ]
@@ -181823,7 +181477,7 @@
   {
     "id": "t4k-c09-057",
     "thai": "ผู้เฒ่า",
-    "english": "elder; old person",
+    "english": "elder, old person (formal)",
     "frequency": "common",
     "topic": "family",
     "sources": [
@@ -183002,7 +182656,7 @@
   {
     "id": "t4k-c10-051",
     "thai": "บทเพลง",
-    "english": "song; lyrics",
+    "english": "song, lyrics (formal)",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -183850,7 +183504,7 @@
   {
     "id": "t4k-c11-025",
     "thai": "โมฆะ",
-    "english": "void; null; invalid",
+    "english": "void, null, invalid (formal, legal)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -184195,7 +183849,7 @@
   {
     "id": "t4k-c11-056",
     "thai": "ระบำ",
-    "english": "dance",
+    "english": "dance (traditional style)",
     "frequency": "common",
     "topic": "culture",
     "sources": [
@@ -184205,7 +183859,7 @@
   {
     "id": "t4k-c11-057",
     "thai": "ชื้น",
-    "english": "damp; wet",
+    "english": "damp, moist",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -184529,7 +184183,7 @@
   {
     "id": "t4k-c11-093",
     "thai": "สายลม",
-    "english": "wind",
+    "english": "breeze, wind (literary)",
     "frequency": "common",
     "topic": "weather",
     "sources": [
@@ -184610,7 +184264,7 @@
   {
     "id": "t4k-c11-102",
     "thai": "สหภาพ",
-    "english": "union",
+    "english": "union, federation",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -184620,7 +184274,7 @@
   {
     "id": "t4k-c11-103",
     "thai": "ผู้เยาว์",
-    "english": "minor; child",
+    "english": "minor (person under legal age)",
     "frequency": "common",
     "topic": "law",
     "sources": [
@@ -188645,6 +188299,136 @@
     "topic": "beliefs",
     "sources": [
       "YouTube"
+    ]
+  },
+  {
+    "id": "new-16",
+    "thai": "ลูกสะใภ้",
+    "english": "daughter-in-law, wife of son",
+    "frequency": "common",
+    "topic": "family",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-17",
+    "thai": "ลูกเขย",
+    "english": "son-in-law, husband of daughter",
+    "frequency": "common",
+    "topic": "family",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-18",
+    "thai": "เจ้าสาว",
+    "english": "bride",
+    "frequency": "common",
+    "topic": "family",
+    "sources": [
+      "Chulalongkorn L6"
+    ]
+  },
+  {
+    "id": "new-19",
+    "thai": "เจ้าบ่าว",
+    "english": "groom",
+    "frequency": "common",
+    "topic": "family",
+    "sources": [
+      "Chulalongkorn L6"
+    ]
+  },
+  {
+    "id": "new-20",
+    "thai": "กระโปรงหน้า",
+    "english": "hood",
+    "frequency": "common",
+    "topic": "transport",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-21",
+    "thai": "กระโปรงหลัง",
+    "english": "trunk lid",
+    "frequency": "common",
+    "topic": "transport",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-22",
+    "thai": "ยางรั่ว",
+    "english": "tire leak",
+    "frequency": "common",
+    "topic": "transport",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-23",
+    "thai": "ยางแบน",
+    "english": "flat tire",
+    "frequency": "common",
+    "topic": "transport",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-24",
+    "thai": "สะเออะ",
+    "english": "to overstep one's place, to shamelessly butt in, to have the nerve to do something",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-25",
+    "thai": "สะเหล่อ",
+    "english": "awkwardly nosy, tactless, lacking social awareness",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-26",
+    "thai": "ฉิบหาย",
+    "english": "\"...as fuck\", \"fucking...\", screwed, fucked up (slang)",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-27",
+    "thai": "ฉิบหายวายวอด",
+    "english": "completely screwed, utterly destroyed, total annihilation (slang)",
+    "frequency": "common",
+    "topic": "slang",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-28",
+    "thai": "เขย",
+    "english": "in-law (male)",
+    "frequency": "common",
+    "topic": "family",
+    "sources": [
+      "manual"
     ]
   }
 ]
