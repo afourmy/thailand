@@ -33286,6 +33286,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "ashamed, embarrassed, humiliated",
+        "sentences": [
+          {
+            "thai": "เขารู้สึกอับอายที่ทำผิดต่อหน้าคนเยอะ",
+            "en": "He felt humiliated for messing up in front of so many people.",
+            "audio_src": "เขารู้สึกอับอายที่ทำผิดต่อหน้าคนเยอะ",
+            "audio_en_src": "He felt humiliated for messing up in front of so many people."
+          },
+          {
+            "thai": "เธออับอายจนไม่กล้าสบตาใคร",
+            "en": "She was so embarrassed she couldn’t make eye contact with anyone.",
+            "audio_src": "เธออับอายจนไม่กล้าสบตาใคร",
+            "audio_en_src": "She was so embarrassed she couldn’t make eye contact with anyone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33399,6 +33418,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "even, as well, \"to make things worse\" (emphasis on additional negative)",
+        "sentences": [
+          {
+            "thai": "เขามาสาย แถมลืมเอกสารมาอีกต่างหาก",
+            "en": "He was late, and to make it worse, he forgot the documents too.",
+            "audio_src": "เขามาสาย แถมลืมเอกสารมาอีกต่างหาก",
+            "audio_en_src": "He was late, and to make it worse, he forgot the documents too."
+          },
+          {
+            "thai": "ของแพงแล้วยังคุณภาพแย่อีกต่างหาก",
+            "en": "It’s expensive, and on top of that the quality is bad.",
+            "audio_src": "ของแพงแล้วยังคุณภาพแย่อีกต่างหาก",
+            "audio_en_src": "It’s expensive, and on top of that the quality is bad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33509,6 +33547,25 @@
     "sources": [
       "Tamago L1-2",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "tired, fatigued, weary",
+        "sentences": [
+          {
+            "thai": "ทำงานหนักทั้งวันจนอ่อนเพลีย",
+            "en": "Working hard all day left me exhausted.",
+            "audio_src": "ทำงานหนักทั้งวันจนอ่อนเพลีย",
+            "audio_en_src": "Working hard all day left me exhausted."
+          },
+          {
+            "thai": "เขาอ่อนเพลียเพราะพักผ่อนไม่พอ",
+            "en": "He’s fatigued from not getting enough rest.",
+            "audio_src": "เขาอ่อนเพลียเพราะพักผ่อนไม่พอ",
+            "audio_en_src": "He’s fatigued from not getting enough rest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33551,6 +33608,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to vomit (informal)",
+        "sentences": [
+          {
+            "thai": "เขาเมารถจนอ้วก",
+            "en": "He got so carsick he threw up.",
+            "audio_src": "เขาเมารถจนอ้วก",
+            "audio_en_src": "He got so carsick he threw up."
+          },
+          {
+            "thai": "กินของเสียเข้าไปเลยอ้วก",
+            "en": "I ate something spoiled and threw up.",
+            "audio_src": "กินของเสียเข้าไปเลยอ้วก",
+            "audio_en_src": "I ate something spoiled and threw up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33667,6 +33743,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cutting board",
+        "sentences": [
+          {
+            "thai": "หั่นผักบนเขียงไม้",
+            "en": "Chop the vegetables on the wooden cutting board.",
+            "audio_src": "หั่นผักบนเขียงไม้",
+            "audio_en_src": "Chop the vegetables on the wooden cutting board."
+          },
+          {
+            "thai": "ล้างเขียงให้สะอาดหลังหั่นเนื้อ",
+            "en": "Wash the cutting board well after cutting meat.",
+            "audio_src": "ล้างเขียงให้สะอาดหลังหั่นเนื้อ",
+            "audio_en_src": "Wash the cutting board well after cutting meat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33719,6 +33814,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "seasoning, condiment",
+        "sentences": [
+          {
+            "thai": "ก๋วยเตี๋ยวต้องปรุงด้วยเครื่องปรุงบนโต๊ะ",
+            "en": "Noodles need to be seasoned with the condiments on the table.",
+            "audio_src": "ก๋วยเตี๋ยวต้องปรุงด้วยเครื่องปรุงบนโต๊ะ",
+            "audio_en_src": "Noodles need to be seasoned with the condiments on the table."
+          },
+          {
+            "thai": "ใส่เครื่องปรุงให้ครบแล้วชิมรส",
+            "en": "Add all the seasonings, then taste it.",
+            "audio_src": "ใส่เครื่องปรุงให้ครบแล้วชิมรส",
+            "audio_en_src": "Add all the seasonings, then taste it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33902,6 +34016,25 @@
     "topic": "economy",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "deposit (bank)",
+        "sentences": [
+          {
+            "thai": "เขามีเงินฝากในธนาคารหลายบัญชี",
+            "en": "He has deposits in several bank accounts.",
+            "audio_src": "เขามีเงินฝากในธนาคารหลายบัญชี",
+            "audio_en_src": "He has deposits in several bank accounts."
+          },
+          {
+            "thai": "ดอกเบี้ยเงินฝากปีนี้ต่ำมาก",
+            "en": "Deposit interest rates are very low this year.",
+            "audio_src": "ดอกเบี้ยเงินฝากปีนี้ต่ำมาก",
+            "audio_en_src": "Deposit interest rates are very low this year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34063,6 +34196,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ending particle for something impressive (\"really!\", \"truly!\")",
+        "sentences": [
+          {
+            "thai": "เขาเก่งเชียวนะ ทำได้ทุกอย่าง",
+            "en": "He’s really impressive, he can do everything.",
+            "audio_src": "เขาเก่งเชียวนะ ทำได้ทุกอย่าง",
+            "audio_en_src": "He’s really impressive, he can do everything."
+          },
+          {
+            "thai": "อร่อยเชียว ขออีกจานได้ไหม",
+            "en": "This is so good! Can I have another plate?",
+            "audio_src": "อร่อยเชียว ขออีกจานได้ไหม",
+            "audio_en_src": "This is so good! Can I have another plate?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -34145,6 +34297,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"let me... first\", \"hold on before...\"",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวกินข้าวก่อนแล้วค่อยไป",
+            "en": "Let me eat first, then we’ll go.",
+            "audio_src": "เดี๋ยวกินข้าวก่อนแล้วค่อยไป",
+            "audio_en_src": "Let me eat first, then we’ll go."
+          },
+          {
+            "thai": "เดี๋ยวคิดดูก่อนนะ ยังไม่รีบตอบ",
+            "en": "Let me think about it first, I won’t answer right away.",
+            "audio_src": "เดี๋ยวคิดดูก่อนนะ ยังไม่รีบตอบ",
+            "audio_en_src": "Let me think about it first, I won’t answer right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34210,6 +34381,25 @@
       "Tamago L1-2",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "infant, newborn",
+        "sentences": [
+          {
+            "thai": "ทารกแรกเกิดต้องการการดูแลใกล้ชิด",
+            "en": "A newborn needs close care.",
+            "audio_src": "ทารกแรกเกิดต้องการการดูแลใกล้ชิด",
+            "audio_en_src": "A newborn needs close care."
+          },
+          {
+            "thai": "แม่อุ้มทารกน้อยไว้ในอ้อมแขน",
+            "en": "The mother cradles the little infant in her arms.",
+            "audio_src": "แม่อุ้มทารกน้อยไว้ในอ้อมแขน",
+            "audio_en_src": "The mother cradles the little infant in her arms."
+          }
+        ]
+      }
     ]
   },
   {
