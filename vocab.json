@@ -34473,6 +34473,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "tofu",
+        "sentences": [
+          {
+            "thai": "ผัดเต้าหู้กับผักรวมอร่อยและมีประโยชน์",
+            "en": "Stir-fried tofu with mixed vegetables is tasty and healthy.",
+            "audio_src": "ผัดเต้าหู้กับผักรวมอร่อยและมีประโยชน์",
+            "audio_en_src": "Stir-fried tofu with mixed vegetables is tasty and healthy."
+          },
+          {
+            "thai": "เต้าหู้ทอดจิ้มน้ำจิ้มหวาน",
+            "en": "Fried tofu with sweet dipping sauce.",
+            "audio_src": "เต้าหู้ทอดจิ้มน้ำจิ้มหวาน",
+            "audio_en_src": "Fried tofu with sweet dipping sauce."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34519,6 +34538,25 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "angel, deity, celestial being",
+        "sentences": [
+          {
+            "thai": "คนโบราณเชื่อว่าเทวดาคุ้มครองบ้านเมือง",
+            "en": "People in the old days believed deities protected the land.",
+            "audio_src": "คนโบราณเชื่อว่าเทวดาคุ้มครองบ้านเมือง",
+            "audio_en_src": "People in the old days believed deities protected the land."
+          },
+          {
+            "thai": "เขาบนบานขอให้เทวดาช่วย",
+            "en": "He prayed for the deity to help him.",
+            "audio_src": "เขาบนบานขอให้เทวดาช่วย",
+            "audio_en_src": "He prayed for the deity to help him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34739,6 +34777,25 @@
     "topic": "health",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "diabetes",
+        "sentences": [
+          {
+            "thai": "คุณตาเป็นเบาหวานต้องคุมน้ำตาล",
+            "en": "Grandpa has diabetes and has to control his sugar.",
+            "audio_src": "คุณตาเป็นเบาหวานต้องคุมน้ำตาล",
+            "audio_en_src": "Grandpa has diabetes and has to control his sugar."
+          },
+          {
+            "thai": "คนเป็นเบาหวานควรออกกำลังกายสม่ำเสมอ",
+            "en": "People with diabetes should exercise regularly.",
+            "audio_src": "คนเป็นเบาหวานควรออกกำลังกายสม่ำเสมอ",
+            "audio_en_src": "People with diabetes should exercise regularly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34814,6 +34871,25 @@
     "topic": "transport",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to change lines (transit, transfer)",
+        "sentences": [
+          {
+            "thai": "นั่งรถไฟฟ้าต้องเปลี่ยนสายที่สถานีสยาม",
+            "en": "On the skytrain you change lines at Siam station.",
+            "audio_src": "นั่งรถไฟฟ้าต้องเปลี่ยนสายที่สถานีสยาม",
+            "audio_en_src": "On the skytrain you change lines at Siam station."
+          },
+          {
+            "thai": "เปลี่ยนสายรถเมล์อีกต่อกว่าจะถึงบ้าน",
+            "en": "I have to change buses again before I get home.",
+            "audio_src": "เปลี่ยนสายรถเมล์อีกต่อกว่าจะถึงบ้าน",
+            "audio_en_src": "I have to change buses again before I get home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34824,6 +34900,25 @@
     "topic": "transport",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to change planes (transfer flights)",
+        "sentences": [
+          {
+            "thai": "เที่ยวบินนี้ต้องเปลี่ยนเครื่องที่สิงคโปร์",
+            "en": "This flight requires changing planes in Singapore.",
+            "audio_src": "เที่ยวบินนี้ต้องเปลี่ยนเครื่องที่สิงคโปร์",
+            "audio_en_src": "This flight requires changing planes in Singapore."
+          },
+          {
+            "thai": "เรามีเวลาเปลี่ยนเครื่องแค่ชั่วโมงเดียว",
+            "en": "We only have one hour to change planes.",
+            "audio_src": "เรามีเวลาเปลี่ยนเครื่องแค่ชั่วโมงเดียว",
+            "audio_en_src": "We only have one hour to change planes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34901,6 +34996,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to broaden one's horizons, to see the world",
+        "sentences": [
+          {
+            "thai": "การเดินทางช่วยเปิดหูเปิดตา",
+            "en": "Traveling helps broaden your horizons.",
+            "audio_src": "การเดินทางช่วยเปิดหูเปิดตา",
+            "audio_en_src": "Traveling helps broaden your horizons."
+          },
+          {
+            "thai": "ไปเรียนต่างประเทศเพื่อเปิดหูเปิดตา",
+            "en": "Study abroad to see the world.",
+            "audio_src": "ไปเรียนต่างประเทศเพื่อเปิดหูเปิดตา",
+            "audio_en_src": "Study abroad to see the world."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34946,6 +35060,25 @@
     "topic": "health",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to have a cramp",
+        "sentences": [
+          {
+            "thai": "ว่ายน้ำนานจนขาเป็นตะคริว",
+            "en": "I swam so long my leg cramped up.",
+            "audio_src": "ว่ายน้ำนานจนขาเป็นตะคริว",
+            "audio_en_src": "I swam so long my leg cramped up."
+          },
+          {
+            "thai": "ตอนกลางคืนน่องเป็นตะคริวบ่อย",
+            "en": "My calves cramp up often at night.",
+            "audio_src": "ตอนกลางคืนน่องเป็นตะคริวบ่อย",
+            "audio_en_src": "My calves cramp up often at night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34958,6 +35091,25 @@
       "Tamago L1-2",
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to faint, to pass out",
+        "sentences": [
+          {
+            "thai": "เธอยืนกลางแดดนานจนเป็นลม",
+            "en": "She stood in the sun so long she fainted.",
+            "audio_src": "เธอยืนกลางแดดนานจนเป็นลม",
+            "audio_en_src": "She stood in the sun so long she fainted."
+          },
+          {
+            "thai": "อากาศร้อนมากจนมีคนเป็นลม",
+            "en": "It was so hot that someone passed out.",
+            "audio_src": "อากาศร้อนมากจนมีคนเป็นลม",
+            "audio_en_src": "It was so hot that someone passed out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34980,6 +35132,25 @@
       "Tamago L1-2",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "mainly, primarily",
+        "sentences": [
+          {
+            "thai": "เขากินผักเป็นหลัก ไม่ค่อยกินเนื้อ",
+            "en": "He eats mainly vegetables, not much meat.",
+            "audio_src": "เขากินผักเป็นหลัก ไม่ค่อยกินเนื้อ",
+            "audio_en_src": "He eats mainly vegetables, not much meat."
+          },
+          {
+            "thai": "ครอบครัวนี้ใช้ภาษาไทยเป็นหลัก",
+            "en": "This family mainly speaks Thai.",
+            "audio_src": "ครอบครัวนี้ใช้ภาษาไทยเป็นหลัก",
+            "audio_en_src": "This family mainly speaks Thai."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34990,6 +35161,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "exact, precise, perfect (slang)",
+        "sentences": [
+          {
+            "thai": "เขามาตรงเวลาเป๊ะทุกครั้ง",
+            "en": "He’s always exactly on time.",
+            "audio_src": "เขามาตรงเวลาเป๊ะทุกครั้ง",
+            "audio_en_src": "He’s always exactly on time."
+          },
+          {
+            "thai": "แต่งหน้าเป๊ะมาก ไม่มีที่ติเลย",
+            "en": "Her makeup is flawless, nothing to fault.",
+            "audio_src": "แต่งหน้าเป๊ะมาก ไม่มีที่ติเลย",
+            "audio_en_src": "Her makeup is flawless, nothing to fault."
+          }
+        ]
+      }
     ]
   },
   {

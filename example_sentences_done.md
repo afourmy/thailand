@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4303 words**
+**Total: 4313 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -856,17 +856,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-516` : ทารก, เด็กทารก (infant, newborn) : 1 meaning(s), 2 sentences
 - `tamago-l12-517` : เด่น (to stand out, prominent) : 1 meaning(s), 2 sentences
 - `tamago-l12-518` : เตะบอล (to play soccer) : 1 meaning(s), 2 sentences
+- `tamago-l12-519` : เต้าหู้ (tofu) : 1 meaning(s), 2 sentences
 - `tamago-l12-520` : เทขยะ (to take out the trash) : 1 meaning(s), 2 sentences
+- `tamago-l12-521` : เทวดา (angel, deity, celestial being) : 1 meaning(s), 2 sentences
 - `tamago-l12-523` : เที่ยวกลางคืน (to go out at night (bars, clubs)) : 1 meaning(s), 2 sentences
 - `tamago-l12-524` : เท่าตัว (twofold, twice as much) : 1 meaning(s), 2 sentences
 - `tamago-l12-525` : เท่านี้ (only this, just this much) : 1 meaning(s), 2 sentences
 - `tamago-l12-526` : เท่าเดิม (the same as before, unchanged) : 1 meaning(s), 2 sentences
 - `tamago-l12-528` : เนื้อ (meat; content; flesh) : 3 meaning(s), 6 sentences
+- `tamago-l12-530` : เบาหวาน (diabetes) : 1 meaning(s), 2 sentences
 - `tamago-l12-531` : เบียด (to squeeze, press, jostle) : 1 meaning(s), 2 sentences
 - `tamago-l12-532` : เปลี่ยนชุด (to change clothes) : 1 meaning(s), 2 sentences
+- `tamago-l12-533` : เปลี่ยนสาย (to change lines (transit, transfer)) : 1 meaning(s), 2 sentences
+- `tamago-l12-534` : เปลี่ยนเครื่อง (to change planes (transfer flights)) : 1 meaning(s), 2 sentences
 - `tamago-l12-535` : เปลี่ยนใจ (to change one's mind, to reconsider) : 1 meaning(s), 2 sentences
 - `tamago-l12-536` : เปลือง (to use more than necessary, to waste) : 1 meaning(s), 2 sentences
+- `tamago-l12-538` : เปิดหูเปิดตา (to broaden one's horizons, to see the world) : 1 meaning(s), 2 sentences
 - `tamago-l12-539` : เป็ด (duck) : 1 meaning(s), 2 sentences
+- `tamago-l12-540` : เป็นตะคริว (to have a cramp) : 1 meaning(s), 2 sentences
+- `tamago-l12-541` : เป็นลม (to faint, to pass out) : 1 meaning(s), 2 sentences
+- `tamago-l12-543` : เป็นหลัก (mainly, primarily) : 1 meaning(s), 2 sentences
+- `tamago-l12-544` : เป๊ะ (exact, precise, perfect (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-545` : เผาผลาญ (to burn (calories, energy, money)) : 1 meaning(s), 2 sentences
 - `tamago-l12-546` : เฝ้า (to guard, to watch over) : 1 meaning(s), 2 sentences
 - `tamago-l12-547` : เพราะ (because; beautiful (for sounds e.g music, voice)) : 2 meaning(s), 4 sentences
