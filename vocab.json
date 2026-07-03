@@ -699,6 +699,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "hiccup",
+        "sentences": [
+          {
+            "thai": "กินเร็วไปเลยสะอึก",
+            "en": "I ate too fast and got the hiccups.",
+            "audio_src": "กินเร็วไปเลยสะอึก",
+            "audio_en_src": "I ate too fast and got the hiccups."
+          },
+          {
+            "thai": "สะอึกไม่หยุดเลย ทำยังไงดี",
+            "en": "I can’t stop hiccupping, what should I do?",
+            "audio_src": "สะอึกไม่หยุดเลย ทำยังไงดี",
+            "audio_en_src": "I can’t stop hiccupping, what should I do?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -711,6 +730,25 @@
       "Chulalongkorn L4",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "swollen",
+        "sentences": [
+          {
+            "thai": "ข้อเท้าบวมเพราะเดินเยอะ",
+            "en": "My ankle is swollen from walking so much.",
+            "audio_src": "ข้อเท้าบวมเพราะเดินเยอะ",
+            "audio_en_src": "My ankle is swollen from walking so much."
+          },
+          {
+            "thai": "โดนยุงกัดจนบวมแดง",
+            "en": "The mosquito bite swelled up red.",
+            "audio_src": "โดนยุงกัดจนบวมแดง",
+            "audio_en_src": "The mosquito bite swelled up red."
+          }
+        ]
+      }
     ]
   },
   {
@@ -723,6 +761,25 @@
       "Chulalongkorn L4",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bruised",
+        "sentences": [
+          {
+            "thai": "หกล้มจนขาช้ำ",
+            "en": "I fell and bruised my leg.",
+            "audio_src": "หกล้มจนขาช้ำ",
+            "audio_en_src": "I fell and bruised my leg."
+          },
+          {
+            "thai": "กล้วยช้ำหมดแล้ว",
+            "en": "The bananas are all bruised.",
+            "audio_src": "กล้วยช้ำหมดแล้ว",
+            "audio_en_src": "The bananas are all bruised."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1171,6 +1228,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "related to",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ไม่เกี่ยวข้องกับฉัน",
+            "en": "This has nothing to do with me.",
+            "audio_src": "เรื่องนี้ไม่เกี่ยวข้องกับฉัน",
+            "audio_en_src": "This has nothing to do with me."
+          },
+          {
+            "thai": "งานของเขาเกี่ยวข้องกับการศึกษา",
+            "en": "His work is related to education.",
+            "audio_src": "งานของเขาเกี่ยวข้องกับการศึกษา",
+            "audio_en_src": "His work is related to education."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1272,6 +1348,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "soulmate",
+        "sentences": [
+          {
+            "thai": "เชื่อว่าทุกคนมีเนื้อคู่",
+            "en": "I believe everyone has a soulmate.",
+            "audio_src": "เชื่อว่าทุกคนมีเนื้อคู่",
+            "audio_en_src": "I believe everyone has a soulmate."
+          },
+          {
+            "thai": "เขาสองคนเป็นเนื้อคู่กันจริงๆ",
+            "en": "The two of them are true soulmates.",
+            "audio_src": "เขาสองคนเป็นเนื้อคู่กันจริงๆ",
+            "audio_en_src": "The two of them are true soulmates."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1297,6 +1392,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "lake",
+        "sentences": [
+          {
+            "thai": "หน้าบ้านมีทะเลสาบสวยมาก",
+            "en": "There’s a beautiful lake in front of the house.",
+            "audio_src": "หน้าบ้านมีทะเลสาบสวยมาก",
+            "audio_en_src": "There’s a beautiful lake in front of the house."
+          },
+          {
+            "thai": "เราไปพายเรือในทะเลสาบ",
+            "en": "We went boating on the lake.",
+            "audio_src": "เราไปพายเรือในทะเลสาบ",
+            "audio_en_src": "We went boating on the lake."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1366,6 +1480,42 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "luck, fortune, fate",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ดวงไม่ดีเลย",
+            "en": "My luck’s been bad lately.",
+            "audio_src": "ช่วงนี้ดวงไม่ดีเลย",
+            "audio_en_src": "My luck’s been bad lately."
+          },
+          {
+            "thai": "เขาดวงดี ถูกหวยด้วย",
+            "en": "He’s lucky, he even won the lottery.",
+            "audio_src": "เขาดวงดี ถูกหวยด้วย",
+            "audio_en_src": "He’s lucky, he even won the lottery."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for stars, suns, lights",
+        "sentences": [
+          {
+            "thai": "ท้องฟ้ามีดาวเป็นล้านดวง",
+            "en": "There are millions of stars in the sky.",
+            "audio_src": "ท้องฟ้ามีดาวเป็นล้านดวง",
+            "audio_en_src": "There are millions of stars in the sky."
+          },
+          {
+            "thai": "ไฟบนเพดานเสียไปดวงหนึ่ง",
+            "en": "One of the ceiling lights is broken.",
+            "audio_src": "ไฟบนเพดานเสียไปดวงหนึ่ง",
+            "audio_en_src": "One of the ceiling lights is broken."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1376,6 +1526,25 @@
     "topic": "beliefs",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to check one's fortune, to have a horoscope reading",
+        "sentences": [
+          {
+            "thai": "เขาชอบไปดูดวงทุกปีใหม่",
+            "en": "She likes to get her fortune read every New Year.",
+            "audio_src": "เขาชอบไปดูดวงทุกปีใหม่",
+            "audio_en_src": "She likes to get her fortune read every New Year."
+          },
+          {
+            "thai": "อยากรู้อนาคตเลยไปดูดวง",
+            "en": "I wanted to know my future, so I got a fortune reading.",
+            "audio_src": "อยากรู้อนาคตเลยไปดูดวง",
+            "audio_en_src": "I wanted to know my future, so I got a fortune reading."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1387,6 +1556,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to predict, to foretell",
+        "sentences": [
+          {
+            "thai": "หมอดูทำนายว่าเขาจะได้เลื่อนตำแหน่ง",
+            "en": "The fortune teller predicted he’d get promoted.",
+            "audio_src": "หมอดูทำนายว่าเขาจะได้เลื่อนตำแหน่ง",
+            "audio_en_src": "The fortune teller predicted he’d get promoted."
+          },
+          {
+            "thai": "ไม่มีใครทำนายอนาคตได้",
+            "en": "No one can foretell the future.",
+            "audio_src": "ไม่มีใครทำนายอนาคตได้",
+            "audio_en_src": "No one can foretell the future."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1484,6 +1672,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "determined, focused",
+        "sentences": [
+          {
+            "thai": "เขาทำงานอย่างมุ่งมั่น",
+            "en": "He works with real determination.",
+            "audio_src": "เขาทำงานอย่างมุ่งมั่น",
+            "audio_en_src": "He works with real determination."
+          },
+          {
+            "thai": "เธอมุ่งมั่นที่จะเรียนให้จบ",
+            "en": "She’s determined to finish her studies.",
+            "audio_src": "เธอมุ่งมั่นที่จะเรียนให้จบ",
+            "audio_en_src": "She’s determined to finish her studies."
+          }
+        ]
+      }
     ]
   },
   {

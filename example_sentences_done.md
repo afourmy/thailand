@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3963 words**
+**Total: 3973 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -23,6 +23,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-024` : เวียนหัว (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-025` : หน้ามืด (feeling lightheaded, about to lose consciousness) : 1 meaning(s), 2 sentences
 - `chula-l4-026` : น้ำมูกไหล (runny nose) : 1 meaning(s), 2 sentences
+- `chula-l4-027` : สะอึก (hiccup) : 1 meaning(s), 2 sentences
+- `chula-l4-028` : บวม (swollen) : 1 meaning(s), 2 sentences
+- `chula-l4-029` : ช้ำ (bruised) : 1 meaning(s), 2 sentences
 - `chula-l4-031` : บรรยาย (to describe; to lecture) : 2 meaning(s), 4 sentences
 - `chula-l4-033` : ลักษณะ (characteristic) : 1 meaning(s), 2 sentences
 - `chula-l4-034` : ทบทวน (to review (e.g a lesson)) : 1 meaning(s), 2 sentences
@@ -32,9 +35,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-039` : เคารพ (to respect) : 1 meaning(s), 2 sentences
 - `chula-l4-045` : วัฒนธรรม (culture) : 1 meaning(s), 2 sentences
 - `chula-l4-046` : ประเพณี (tradition) : 1 meaning(s), 2 sentences
+- `chula-l4-047` : เกี่ยวข้องกับ (related to) : 1 meaning(s), 2 sentences
 - `chula-l4-052` : วัสดุ (material) : 1 meaning(s), 2 sentences
+- `chula-l4-054` : เนื้อคู่ (soulmate) : 1 meaning(s), 2 sentences
+- `chula-l4-056` : ทะเลสาบ (lake) : 1 meaning(s), 2 sentences
 - `chula-l4-062` : ปัก (to pin, to stick) : 1 meaning(s), 2 sentences
+- `chula-l4-063` : ดวง (luck, fortune, fate; classifier for stars, suns, lights) : 2 meaning(s), 4 sentences
+- `chula-l4-064` : ดูดวง (to check one's fortune, to have a horoscope reading) : 1 meaning(s), 2 sentences
+- `chula-l4-065` : ทำนาย (to predict, to foretell) : 1 meaning(s), 2 sentences
 - `chula-l4-069` : แม่น (accurate) : 1 meaning(s), 2 sentences
+- `chula-l4-072` : มุ่งมั่น (determined, focused) : 1 meaning(s), 2 sentences
 - `chula-l4-076` : เผชิญหน้า (to face, to confront) : 1 meaning(s), 2 sentences
 - `chula-l4-103` : ที่อยู่อาศัย (residence) : 1 meaning(s), 2 sentences
 - `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
