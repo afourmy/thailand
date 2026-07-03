@@ -1703,6 +1703,25 @@
       "Chulalongkorn L4",
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to take something seriously, to be diligent",
+        "sentences": [
+          {
+            "thai": "เขาเอาจริงเอาจังกับงานมาก",
+            "en": "He takes his work very seriously.",
+            "audio_src": "เขาเอาจริงเอาจังกับงานมาก",
+            "audio_en_src": "He takes his work very seriously."
+          },
+          {
+            "thai": "ถ้าจะเล่นกีฬาก็ต้องเอาจริงเอาจัง",
+            "en": "If you’re going to play a sport, you have to be serious about it.",
+            "audio_src": "ถ้าจะเล่นกีฬาก็ต้องเอาจริงเอาจัง",
+            "audio_en_src": "If you’re going to play a sport, you have to be serious about it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1716,6 +1735,25 @@
       "Thai 4000",
       "Anki Basics",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "worried",
+        "sentences": [
+          {
+            "thai": "ฉันกังวลเรื่องสอบพรุ่งนี้",
+            "en": "I’m worried about tomorrow’s exam.",
+            "audio_src": "ฉันกังวลเรื่องสอบพรุ่งนี้",
+            "audio_en_src": "I’m worried about tomorrow’s exam."
+          },
+          {
+            "thai": "ไม่ต้องกังวล ทุกอย่างจะเรียบร้อย",
+            "en": "Don’t worry, everything will be fine.",
+            "audio_src": "ไม่ต้องกังวล ทุกอย่างจะเรียบร้อย",
+            "audio_en_src": "Don’t worry, everything will be fine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1803,6 +1841,25 @@
     "topic": "personality",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "cocky, overconfident",
+        "sentences": [
+          {
+            "thai": "เขาอวดดีจนไม่มีใครอยากคุยด้วย",
+            "en": "He’s so cocky that nobody wants to talk to him.",
+            "audio_src": "เขาอวดดีจนไม่มีใครอยากคุยด้วย",
+            "audio_en_src": "He’s so cocky that nobody wants to talk to him."
+          },
+          {
+            "thai": "อย่าอวดดีกับคนที่อาวุโสกว่า",
+            "en": "Don’t be cocky with people older than you.",
+            "audio_src": "อย่าอวดดีกับคนที่อาวุโสกว่า",
+            "audio_en_src": "Don’t be cocky with people older than you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1815,6 +1872,25 @@
       "Chulalongkorn L4",
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "arrogant",
+        "sentences": [
+          {
+            "thai": "เธอสวยแต่หยิ่งไปหน่อย",
+            "en": "She’s pretty but a bit arrogant.",
+            "audio_src": "เธอสวยแต่หยิ่งไปหน่อย",
+            "audio_en_src": "She’s pretty but a bit arrogant."
+          },
+          {
+            "thai": "เขาไม่ได้หยิ่ง แค่ขี้อาย",
+            "en": "He’s not arrogant, just shy.",
+            "audio_src": "เขาไม่ได้หยิ่ง แค่ขี้อาย",
+            "audio_en_src": "He’s not arrogant, just shy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1836,6 +1912,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tough, resilient",
+        "sentences": [
+          {
+            "thai": "เธอเป็นคนแข็งแกร่ง ไม่ยอมแพ้ง่ายๆ",
+            "en": "She’s tough, she doesn’t give up easily.",
+            "audio_src": "เธอเป็นคนแข็งแกร่ง ไม่ยอมแพ้ง่ายๆ",
+            "audio_en_src": "She’s tough, she doesn’t give up easily."
+          },
+          {
+            "thai": "ผ่านเรื่องหนักมาทำให้เขาแข็งแกร่งขึ้น",
+            "en": "Going through hard times made him stronger.",
+            "audio_src": "ผ่านเรื่องหนักมาทำให้เขาแข็งแกร่งขึ้น",
+            "audio_en_src": "Going through hard times made him stronger."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1847,6 +1942,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "straightforward, blunt",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนตรงไปตรงมา พูดตรงๆ",
+            "en": "He’s straightforward, he says it like it is.",
+            "audio_src": "เขาเป็นคนตรงไปตรงมา พูดตรงๆ",
+            "audio_en_src": "He’s straightforward, he says it like it is."
+          },
+          {
+            "thai": "ฉันชอบคนที่ตรงไปตรงมา",
+            "en": "I like people who are straightforward.",
+            "audio_src": "ฉันชอบคนที่ตรงไปตรงมา",
+            "audio_en_src": "I like people who are straightforward."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1879,6 +1993,25 @@
       "Chulalongkorn L4",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "aggressive",
+        "sentences": [
+          {
+            "thai": "เขาพูดจาก้าวร้าวกับทุกคน",
+            "en": "He talks aggressively to everyone.",
+            "audio_src": "เขาพูดจาก้าวร้าวกับทุกคน",
+            "audio_en_src": "He talks aggressively to everyone."
+          },
+          {
+            "thai": "หมาตัวนี้ก้าวร้าวมาก อย่าเข้าใกล้",
+            "en": "This dog is very aggressive, don’t get close.",
+            "audio_src": "หมาตัวนี้ก้าวร้าวมาก อย่าเข้าใกล้",
+            "audio_en_src": "This dog is very aggressive, don’t get close."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1902,6 +2035,25 @@
       "Chulalongkorn L4",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "stubborn, disobedient",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้ดื้อมาก ไม่ยอมฟังใคร",
+            "en": "This kid is really stubborn, won’t listen to anyone.",
+            "audio_src": "เด็กคนนี้ดื้อมาก ไม่ยอมฟังใคร",
+            "audio_en_src": "This kid is really stubborn, won’t listen to anyone."
+          },
+          {
+            "thai": "อย่าดื้อสิ กินยาซะ",
+            "en": "Don’t be difficult, take your medicine.",
+            "audio_src": "อย่าดื้อสิ กินยาซะ",
+            "audio_en_src": "Don’t be difficult, take your medicine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1933,6 +2085,25 @@
     "topic": "personality",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "charming, charismatic",
+        "sentences": [
+          {
+            "thai": "เขายิ้มแล้วดูมีเสน่ห์มาก",
+            "en": "His smile is really charming.",
+            "audio_src": "เขายิ้มแล้วดูมีเสน่ห์มาก",
+            "audio_en_src": "His smile is really charming."
+          },
+          {
+            "thai": "นักร้องคนนี้มีเสน่ห์บนเวที",
+            "en": "This singer has real charisma on stage.",
+            "audio_src": "นักร้องคนนี้มีเสน่ห์บนเวที",
+            "audio_en_src": "This singer has real charisma on stage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1956,6 +2127,25 @@
       "Chulalongkorn L4",
       "Thaipod101",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "talent",
+        "sentences": [
+          {
+            "thai": "เขามีพรสวรรค์ด้านดนตรี",
+            "en": "He has a talent for music.",
+            "audio_src": "เขามีพรสวรรค์ด้านดนตรี",
+            "audio_en_src": "He has a talent for music."
+          },
+          {
+            "thai": "พรสวรรค์อย่างเดียวไม่พอ ต้องขยันด้วย",
+            "en": "Talent alone isn’t enough, you have to work hard too.",
+            "audio_src": "พรสวรรค์อย่างเดียวไม่พอ ต้องขยันด้วย",
+            "audio_en_src": "Talent alone isn’t enough, you have to work hard too."
+          }
+        ]
+      }
     ]
   },
   {

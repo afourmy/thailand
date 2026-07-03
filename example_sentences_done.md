@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 3973 words**
+**Total: 3983 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -45,7 +45,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-065` : ทำนาย (to predict, to foretell) : 1 meaning(s), 2 sentences
 - `chula-l4-069` : แม่น (accurate) : 1 meaning(s), 2 sentences
 - `chula-l4-072` : มุ่งมั่น (determined, focused) : 1 meaning(s), 2 sentences
+- `chula-l4-073` : เอาจริงเอาจัง (to take something seriously, to be diligent) : 1 meaning(s), 2 sentences
+- `chula-l4-074` : กังวล, วิตกกังวล (worried) : 1 meaning(s), 2 sentences
 - `chula-l4-076` : เผชิญหน้า (to face, to confront) : 1 meaning(s), 2 sentences
+- `chula-l4-080` : อวดดี (cocky, overconfident) : 1 meaning(s), 2 sentences
+- `chula-l4-081` : หยิ่ง (arrogant) : 1 meaning(s), 2 sentences
+- `chula-l4-083` : แข็งแกร่ง (tough, resilient) : 1 meaning(s), 2 sentences
+- `chula-l4-084` : ตรงไปตรงมา (straightforward, blunt) : 1 meaning(s), 2 sentences
+- `chula-l4-088` : ก้าวร้าว (aggressive) : 1 meaning(s), 2 sentences
+- `chula-l4-090` : ดื้อ, ดื้อรั้น (stubborn, disobedient) : 1 meaning(s), 2 sentences
+- `chula-l4-094` : มีเสน่ห์ (charming, charismatic) : 1 meaning(s), 2 sentences
+- `chula-l4-096` : พรสวรรค์ (talent) : 1 meaning(s), 2 sentences
 - `chula-l4-103` : ที่อยู่อาศัย (residence) : 1 meaning(s), 2 sentences
 - `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
