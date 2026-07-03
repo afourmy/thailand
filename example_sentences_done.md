@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4183 words**
+**Total: 4193 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -489,14 +489,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-319` : สมหวัง (to have one's hopes fulfilled, to get what one wished for) : 1 meaning(s), 2 sentences
 - `chula-l6-320` : แรงบันดาลใจ (inspiration) : 1 meaning(s), 2 sentences
 - `chula-l6-321` : ทายาท (heir) : 1 meaning(s), 2 sentences
+- `chula-l6-322` : พร้อมหน้า (all together, with everyone present) : 1 meaning(s), 2 sentences
 - `chula-l6-323` : ปริญญาตรี (bachelor's degree) : 1 meaning(s), 2 sentences
+- `chula-l6-324` : เครื่องเคียง (side dish) : 1 meaning(s), 2 sentences
+- `chula-l6-325` : เฮฮา (fun, cheerful, lively) : 1 meaning(s), 2 sentences
+- `chula-l6-328` : มโน (delusional, someone who makes stuff up in their head, "delulu" (slang)) : 1 meaning(s), 2 sentences
+- `chula-l6-329` : ข่มขืน (to rape) : 1 meaning(s), 2 sentences
+- `chula-l6-332` : ไม่แพ้กัน (equally matched, on par, not inferior) : 1 meaning(s), 2 sentences
 - `chula-l6-338` : รองรับ (to support, accommodate, handle (e.g a need, a capacity)) : 1 meaning(s), 2 sentences
+- `tamago-l12-001` : (ไหน)ยังจะ...อีก ("and on top of that, ...", "to make matters worse, ..." (+ something negative)) : 1 meaning(s), 2 sentences
 - `tamago-l12-003` : ...ไปก่อน ("... for now") : 1 meaning(s), 2 sentences
 - `tamago-l12-006` : เรื่อยๆ (to keep doing something (continuously)) : 1 meaning(s), 2 sentences
 - `tamago-l12-008` : ไหว (to be able to, have the capacity (physical or mental) to) : 1 meaning(s), 2 sentences
 - `tamago-l12-009` : กดปุ่ม (to press a button) : 1 meaning(s), 2 sentences
 - `tamago-l12-011` : กระจอก (cheap, low quality, worthless) : 1 meaning(s), 2 sentences
+- `tamago-l12-014` : กระดูกสันหลัง (spine) : 1 meaning(s), 2 sentences
 - `tamago-l12-015` : กระถาง (flower pot) : 1 meaning(s), 2 sentences
+- `tamago-l12-016` : กระรอก (squirrel) : 1 meaning(s), 2 sentences
+- `tamago-l12-020` : กระเพาะอาหาร (stomach (organ)) : 1 meaning(s), 2 sentences
 - `tamago-l12-022` : กลอง (drums) : 1 meaning(s), 2 sentences
 - `tamago-l12-023` : กลั่นแกล้ง (to bully, to victimize) : 1 meaning(s), 2 sentences
 - `tamago-l12-024` : กลางแจ้ง (outdoor(s), in the open air) : 1 meaning(s), 2 sentences
