@@ -17367,6 +17367,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "sticky and tender, chewy soft",
+        "sentences": [
+          {
+            "thai": "ข้าวเหนียวหุงใหม่เหนียวนุ่มมาก",
+            "en": "Freshly steamed sticky rice is soft and chewy.",
+            "audio_src": "ข้าวเหนียวหุงใหม่เหนียวนุ่มมาก",
+            "audio_en_src": "Freshly steamed sticky rice is soft and chewy."
+          },
+          {
+            "thai": "เค้กชิ้นนี้เนื้อเหนียวนุ่ม",
+            "en": "This cake has a soft, chewy texture.",
+            "audio_src": "เค้กชิ้นนี้เนื้อเหนียวนุ่ม",
+            "audio_en_src": "This cake has a soft, chewy texture."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17485,6 +17504,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "minced meat",
+        "sentences": [
+          {
+            "thai": "ใส่เนื้อสับลงไปผัดกับกระเทียม",
+            "en": "Add the minced meat and stir-fry it with garlic.",
+            "audio_src": "ใส่เนื้อสับลงไปผัดกับกระเทียม",
+            "audio_en_src": "Add the minced meat and stir-fry it with garlic."
+          },
+          {
+            "thai": "ลาบทำจากเนื้อสับปรุงรส",
+            "en": "Larb is made from seasoned minced meat.",
+            "audio_src": "ลาบทำจากเนื้อสับปรุงรส",
+            "audio_en_src": "Larb is made from seasoned minced meat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17530,6 +17568,25 @@
       "Chulalongkorn L6",
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "just right, perfect",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวนี้ใส่แล้วกำลังดี",
+            "en": "This shirt fits just right.",
+            "audio_src": "เสื้อตัวนี้ใส่แล้วกำลังดี",
+            "audio_en_src": "This shirt fits just right."
+          },
+          {
+            "thai": "น้ำอุ่นกำลังพอดี ไม่ร้อนไม่เย็น",
+            "en": "The water is just right, not too hot, not too cold.",
+            "audio_src": "น้ำอุ่นกำลังพอดี ไม่ร้อนไม่เย็น",
+            "audio_en_src": "The water is just right, not too hot, not too cold."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17542,6 +17599,25 @@
       "Chulalongkorn L6",
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai basil (herb)",
+        "sentences": [
+          {
+            "thai": "แกงเขียวหวานใส่ใบโหระพา",
+            "en": "Green curry has Thai basil in it.",
+            "audio_src": "แกงเขียวหวานใส่ใบโหระพา",
+            "audio_en_src": "Green curry has Thai basil in it."
+          },
+          {
+            "thai": "ใบโหระพาหอมช่วยเพิ่มรสชาติ",
+            "en": "Fragrant Thai basil adds flavor to the dish.",
+            "audio_src": "ใบโหระพาหอมช่วยเพิ่มรสชาติ",
+            "audio_en_src": "Fragrant Thai basil adds flavor to the dish."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17552,6 +17628,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "texture",
+        "sentences": [
+          {
+            "thai": "ขนมปังนี้เนื้อสัมผัสนุ่มมาก",
+            "en": "This bread has a very soft texture.",
+            "audio_src": "ขนมปังนี้เนื้อสัมผัสนุ่มมาก",
+            "audio_en_src": "This bread has a very soft texture."
+          },
+          {
+            "thai": "เนื้อสัมผัสก็สำคัญไม่แพ้รสชาติ",
+            "en": "Texture matters just as much as flavor.",
+            "audio_src": "เนื้อสัมผัสก็สำคัญไม่แพ้รสชาติ",
+            "audio_en_src": "Texture matters just as much as flavor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17562,6 +17657,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "eggplant",
+        "sentences": [
+          {
+            "thai": "ผัดมะเขือยาวกับหมูอร่อยมาก",
+            "en": "Stir-fried eggplant with pork is delicious.",
+            "audio_src": "ผัดมะเขือยาวกับหมูอร่อยมาก",
+            "audio_en_src": "Stir-fried eggplant with pork is delicious."
+          },
+          {
+            "thai": "มะเขือยาวหั่นเป็นชิ้นก่อนทอด",
+            "en": "Slice the eggplant into pieces before frying.",
+            "audio_src": "มะเขือยาวหั่นเป็นชิ้นก่อนทอด",
+            "audio_en_src": "Slice the eggplant into pieces before frying."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17572,6 +17686,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "appetizer",
+        "sentences": [
+          {
+            "thai": "เราสั่งจานเรียกน้ำย่อยก่อนอาหารจานหลัก",
+            "en": "We ordered appetizers before the main course.",
+            "audio_src": "เราสั่งจานเรียกน้ำย่อยก่อนอาหารจานหลัก",
+            "audio_en_src": "We ordered appetizers before the main course."
+          },
+          {
+            "thai": "สลัดเป็นจานเรียกน้ำย่อยที่ดี",
+            "en": "Salad makes a good appetizer.",
+            "audio_src": "สลัดเป็นจานเรียกน้ำย่อยที่ดี",
+            "audio_en_src": "Salad makes a good appetizer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17649,6 +17782,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "vegetarian",
+        "sentences": [
+          {
+            "thai": "เขากินมังสวิรัติมาห้าปีแล้ว",
+            "en": "He’s been vegetarian for five years.",
+            "audio_src": "เขากินมังสวิรัติมาห้าปีแล้ว",
+            "audio_en_src": "He’s been vegetarian for five years."
+          },
+          {
+            "thai": "ร้านนี้มีเมนูมังสวิรัติด้วย",
+            "en": "This restaurant has vegetarian dishes too.",
+            "audio_src": "ร้านนี้มีเมนูมังสวิรัติด้วย",
+            "audio_en_src": "This restaurant has vegetarian dishes too."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17771,6 +17923,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "chewy, sticky (in a pleasant way)",
+        "sentences": [
+          {
+            "thai": "เส้นก๋วยเตี๋ยวเหนียวหนึบกำลังดี",
+            "en": "The noodles are pleasantly chewy.",
+            "audio_src": "เส้นก๋วยเตี๋ยวเหนียวหนึบกำลังดี",
+            "audio_en_src": "The noodles are pleasantly chewy."
+          },
+          {
+            "thai": "โมจิเนื้อหนึบเคี้ยวเพลิน",
+            "en": "Mochi is chewy and satisfying to eat.",
+            "audio_src": "โมจิเนื้อหนึบเคี้ยวเพลิน",
+            "audio_en_src": "Mochi is chewy and satisfying to eat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17793,6 +17964,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "mint, peppermint",
+        "sentences": [
+          {
+            "thai": "ใส่ใบสะระแหน่ในน้ำยำให้หอม",
+            "en": "Add mint leaves to the salad dressing for aroma.",
+            "audio_src": "ใส่ใบสะระแหน่ในน้ำยำให้หอม",
+            "audio_en_src": "Add mint leaves to the salad dressing for aroma."
+          },
+          {
+            "thai": "ยำใส่สะระแหน่หอมสดชื่น",
+            "en": "The spicy salad has fresh, fragrant mint.",
+            "audio_src": "ยำใส่สะระแหน่หอมสดชื่น",
+            "audio_en_src": "The spicy salad has fresh, fragrant mint."
+          }
+        ]
+      }
     ]
   },
   {

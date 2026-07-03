@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4143 words**
+**Total: 4153 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -404,14 +404,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-186` : เครื่องแกง (curry paste (chili paste)) : 1 meaning(s), 2 sentences
 - `chula-l6-188` : ถั่วงอก (bean sprout) : 1 meaning(s), 2 sentences
 - `chula-l6-189` : ประทับใจ (impressed) : 1 meaning(s), 2 sentences
+- `chula-l6-190` : เหนียวนุ่ม (sticky and tender, chewy soft) : 1 meaning(s), 2 sentences
 - `chula-l6-191` : น่าหลงใหล (fascinating) : 1 meaning(s), 2 sentences
 - `chula-l6-192` : บีบ, คั้น (to squeeze) : 1 meaning(s), 2 sentences
 - `chula-l6-194` : สูสี (closely matched, well-balanced, very close) : 1 meaning(s), 2 sentences
+- `chula-l6-195` : เนื้อสับ (minced meat) : 1 meaning(s), 2 sentences
 - `chula-l6-196` : ผสม, ผสมผสาน (to mix, combine, blend together) : 1 meaning(s), 2 sentences
+- `chula-l6-197` : กำลังดี, กำลังพอดี (just right, perfect) : 1 meaning(s), 2 sentences
+- `chula-l6-198` : โหระพา (Thai basil (herb)) : 1 meaning(s), 2 sentences
+- `chula-l6-199` : เนื้อสัมผัส (texture) : 1 meaning(s), 2 sentences
+- `chula-l6-200` : มะเขือยาว (eggplant) : 1 meaning(s), 2 sentences
+- `chula-l6-201` : จานเรียกน้ำย่อย (appetizer) : 1 meaning(s), 2 sentences
 - `chula-l6-202` : ภารกิจ (mission, task) : 1 meaning(s), 2 sentences
 - `chula-l6-203` : เกลี้ยง (completely, totally, entirely) : 1 meaning(s), 2 sentences
+- `chula-l6-204` : มังสวิรัติ (vegetarian) : 1 meaning(s), 2 sentences
 - `chula-l6-206` : เนียน (smooth, slick; sly) : 2 meaning(s), 4 sentences
 - `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences
+- `chula-l6-208` : หนึบ (chewy, sticky (in a pleasant way)) : 1 meaning(s), 2 sentences
+- `chula-l6-210` : สะระแหน่ (mint, peppermint) : 1 meaning(s), 2 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences
 - `chula-l6-214` : ท้องถิ่น (local, locality) : 1 meaning(s), 2 sentences
 - `chula-l6-215` : เด็ด (to pluck, to pick (e.g flower, fruit); awesome, excellent) : 2 meaning(s), 4 sentences
