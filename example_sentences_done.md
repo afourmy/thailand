@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4253 words**
+**Total: 4263 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -686,25 +686,35 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-281` : ผมขาว (grey hair, white hair) : 1 meaning(s), 2 sentences
 - `tamago-l12-282` : ผมหน้าม้า (bangs (fringe)) : 1 meaning(s), 2 sentences
 - `tamago-l12-283` : ผวา (frightened, startled) : 1 meaning(s), 2 sentences
+- `tamago-l12-284` : ผักกาดหอม (lettuce) : 1 meaning(s), 2 sentences
 - `tamago-l12-286` : ผัด (to stir-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-287` : ผัดผัก (stir-fried vegetables) : 1 meaning(s), 2 sentences
 - `tamago-l12-289` : ผู้สูงอายุ (elderly person, senior) : 1 meaning(s), 2 sentences
+- `tamago-l12-292` : ผ่าตัด (to perform a surgery, to operate) : 1 meaning(s), 2 sentences
 - `tamago-l12-296` : ฝรั่ง (guava; Westerner (informal)) : 2 meaning(s), 4 sentences
 - `tamago-l12-297` : ฝั่งตรงข้าม (the opposite side) : 1 meaning(s), 2 sentences
 - `tamago-l12-298` : ฝา (lid, cap (e.g bottle)) : 1 meaning(s), 2 sentences
 - `tamago-l12-299` : ฝาก (to leave with, to entrust; to give (as a gift)) : 2 meaning(s), 4 sentences
 - `tamago-l12-300` : ฝากข้อความ (to leave a message) : 1 meaning(s), 2 sentences
 - `tamago-l12-301` : ฝึกงาน (to intern, to do an internship) : 1 meaning(s), 2 sentences
+- `tamago-l12-302` : ฝ่าเท้า (sole of the foot) : 1 meaning(s), 2 sentences
+- `tamago-l12-305` : พริกหยวก (bell pepper) : 1 meaning(s), 2 sentences
 - `tamago-l12-307` : พละ (physical education (school subject)) : 1 meaning(s), 2 sentences
 - `tamago-l12-308` : พอ (enough; when, as soon as, once) : 2 meaning(s), 4 sentences
+- `tamago-l12-309` : พอได้ ("good enough", "not great but sufficient") : 1 meaning(s), 2 sentences
+- `tamago-l12-310` : พอไหว (manageable, doable, "I can handle it") : 1 meaning(s), 2 sentences
 - `tamago-l12-311` : พอๆกัน (almost the same, about the same) : 1 meaning(s), 2 sentences
 - `tamago-l12-312` : พักกลางวัน (lunch break) : 1 meaning(s), 2 sentences
 - `tamago-l12-313` : พับผ้า (to fold clothes) : 1 meaning(s), 2 sentences
 - `tamago-l12-314` : พัสดุ (parcel, package) : 1 meaning(s), 2 sentences
 - `tamago-l12-317` : พาไป (to take someone somewhere) : 1 meaning(s), 2 sentences
+- `tamago-l12-318` : พิการ (handicapped, disabled) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
+- `tamago-l12-320` : พิเศษไม่เหมือนใคร (unique, special unlike anything else) : 1 meaning(s), 2 sentences
+- `tamago-l12-321` : พุทธศักราช, พ.ศ. (Buddhist Era (BE)) : 1 meaning(s), 2 sentences
 - `tamago-l12-325` : ฟิต (physically fit, in good shape (loanword)) : 1 meaning(s), 2 sentences
 - `tamago-l12-326` : ฟิตหุ่น (to get in shape) : 1 meaning(s), 2 sentences
+- `tamago-l12-327` : ฟ้าผ่า (lightning, thunderbolt) : 1 meaning(s), 2 sentences
 - `tamago-l12-329` : ภรรยา (wife (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l12-332` : ม.ปลาย (high school (upper secondary)) : 1 meaning(s), 2 sentences
 - `tamago-l12-333` : มอเตอร์ไซค์ (motorcycle) : 1 meaning(s), 2 sentences

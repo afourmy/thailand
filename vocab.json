@@ -27994,6 +27994,25 @@
       "Tamago L1-2",
       "Anki Basics",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "lettuce",
+        "sentences": [
+          {
+            "thai": "ห่อหมูย่างด้วยผักกาดหอม",
+            "en": "Wrap the grilled pork in lettuce.",
+            "audio_src": "ห่อหมูย่างด้วยผักกาดหอม",
+            "audio_en_src": "Wrap the grilled pork in lettuce."
+          },
+          {
+            "thai": "ผักกาดหอมกรอบสดใส่ในแซนด์วิช",
+            "en": "Crisp fresh lettuce goes in the sandwich.",
+            "audio_src": "ผักกาดหอมกรอบสดใส่ในแซนด์วิช",
+            "audio_en_src": "Crisp fresh lettuce goes in the sandwich."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28130,6 +28149,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to perform a surgery, to operate",
+        "sentences": [
+          {
+            "thai": "หมอผ่าตัดเอาไส้ติ่งออก",
+            "en": "The doctor operated to remove his appendix.",
+            "audio_src": "หมอผ่าตัดเอาไส้ติ่งออก",
+            "audio_en_src": "The doctor operated to remove his appendix."
+          },
+          {
+            "thai": "เขาต้องผ่าตัดหัวเข่าเดือนหน้า",
+            "en": "He has to have knee surgery next month.",
+            "audio_src": "เขาต้องผ่าตัดหัวเข่าเดือนหน้า",
+            "audio_en_src": "He has to have knee surgery next month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28407,6 +28445,25 @@
     "topic": "health",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "sole of the foot",
+        "sentences": [
+          {
+            "thai": "เดินเท้าเปล่าจนฝ่าเท้าเจ็บ",
+            "en": "I walked barefoot until the soles of my feet hurt.",
+            "audio_src": "เดินเท้าเปล่าจนฝ่าเท้าเจ็บ",
+            "audio_en_src": "I walked barefoot until the soles of my feet hurt."
+          },
+          {
+            "thai": "เขานวดฝ่าเท้าให้ผ่อนคลาย",
+            "en": "He massages the soles of the feet to relax them.",
+            "audio_src": "เขานวดฝ่าเท้าให้ผ่อนคลาย",
+            "audio_en_src": "He massages the soles of the feet to relax them."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28437,6 +28494,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "bell pepper",
+        "sentences": [
+          {
+            "thai": "ผัดพริกหยวกกับหมูสับ",
+            "en": "Stir-fry bell pepper with minced pork.",
+            "audio_src": "ผัดพริกหยวกกับหมูสับ",
+            "audio_en_src": "Stir-fry bell pepper with minced pork."
+          },
+          {
+            "thai": "พริกหยวกไม่เผ็ด เด็กก็กินได้",
+            "en": "Bell peppers aren’t spicy, so kids can eat them.",
+            "audio_src": "พริกหยวกไม่เผ็ด เด็กก็กินได้",
+            "audio_en_src": "Bell peppers aren’t spicy, so kids can eat them."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28540,6 +28616,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"good enough\", \"not great but sufficient\"",
+        "sentences": [
+          {
+            "thai": "ฝีมือทำอาหารของฉันก็พอได้",
+            "en": "My cooking is decent, nothing special.",
+            "audio_src": "ฝีมือทำอาหารของฉันก็พอได้",
+            "audio_en_src": "My cooking is decent, nothing special."
+          },
+          {
+            "thai": "ห้องพักไม่หรูแต่ก็พอได้",
+            "en": "The room isn’t fancy but it’s good enough.",
+            "audio_src": "ห้องพักไม่หรูแต่ก็พอได้",
+            "audio_en_src": "The room isn’t fancy but it’s good enough."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28551,6 +28646,25 @@
     "sources": [
       "Tamago L1-2",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "manageable, doable, \"I can handle it\"",
+        "sentences": [
+          {
+            "thai": "งานเยอะแต่ก็ยังพอไหว",
+            "en": "There’s a lot of work but I can still manage.",
+            "audio_src": "งานเยอะแต่ก็ยังพอไหว",
+            "audio_en_src": "There’s a lot of work but I can still manage."
+          },
+          {
+            "thai": "เดินขึ้นบันไดสี่ชั้นพอไหวไหม",
+            "en": "Can you manage walking up four flights of stairs?",
+            "audio_src": "เดินขึ้นบันไดสี่ชั้นพอไหวไหม",
+            "audio_en_src": "Can you manage walking up four flights of stairs?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -28750,6 +28864,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "handicapped, disabled",
+        "sentences": [
+          {
+            "thai": "เขาพิการตั้งแต่กำเนิด",
+            "en": "He’s been disabled since birth.",
+            "audio_src": "เขาพิการตั้งแต่กำเนิด",
+            "audio_en_src": "He’s been disabled since birth."
+          },
+          {
+            "thai": "ที่จอดรถนี้สำหรับคนพิการ",
+            "en": "This parking spot is for people with disabilities.",
+            "audio_src": "ที่จอดรถนี้สำหรับคนพิการ",
+            "audio_en_src": "This parking spot is for people with disabilities."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28813,6 +28946,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "unique, special unlike anything else",
+        "sentences": [
+          {
+            "thai": "ของขวัญชิ้นนี้พิเศษไม่เหมือนใคร",
+            "en": "This gift is unique, unlike any other.",
+            "audio_src": "ของขวัญชิ้นนี้พิเศษไม่เหมือนใคร",
+            "audio_en_src": "This gift is unique, unlike any other."
+          },
+          {
+            "thai": "เธอมีสไตล์พิเศษไม่เหมือนใคร",
+            "en": "She has a style all her own.",
+            "audio_src": "เธอมีสไตล์พิเศษไม่เหมือนใคร",
+            "audio_en_src": "She has a style all her own."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28824,6 +28976,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhist Era (BE)",
+        "sentences": [
+          {
+            "thai": "ประเทศไทยใช้ปีพุทธศักราชในเอกสารราชการ",
+            "en": "Thailand uses the Buddhist Era in official documents.",
+            "audio_src": "ประเทศไทยใช้ปีพุทธศักราชในเอกสารราชการ",
+            "audio_en_src": "Thailand uses the Buddhist Era in official documents."
+          },
+          {
+            "thai": "เขาเกิดปี พ.ศ. 2540",
+            "en": "He was born in BE 2540.",
+            "audio_src": "เขาเกิดปี พ.ศ. 2540",
+            "audio_en_src": "He was born in BE 2540."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28930,6 +29101,25 @@
       "Tamago L3",
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "lightning, thunderbolt",
+        "sentences": [
+          {
+            "thai": "ฟ้าผ่าลงต้นไม้กลางสนาม",
+            "en": "Lightning struck a tree in the middle of the field.",
+            "audio_src": "ฟ้าผ่าลงต้นไม้กลางสนาม",
+            "audio_en_src": "Lightning struck a tree in the middle of the field."
+          },
+          {
+            "thai": "อย่ายืนใต้ต้นไม้ตอนฟ้าผ่า",
+            "en": "Don’t stand under a tree during a thunderstorm.",
+            "audio_src": "อย่ายืนใต้ต้นไม้ตอนฟ้าผ่า",
+            "audio_en_src": "Don’t stand under a tree during a thunderstorm."
+          }
+        ]
+      }
     ]
   },
   {
