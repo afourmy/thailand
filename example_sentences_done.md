@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4123 words**
+**Total: 4133 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -364,21 +364,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-119` : นำหน้า (to precede, to come before) : 1 meaning(s), 2 sentences
 - `chula-l6-121` : หลีกทาง (to make way, give way, step aside) : 1 meaning(s), 2 sentences
 - `chula-l6-122` : ผู้ประท้วง (protesters) : 1 meaning(s), 2 sentences
+- `chula-l6-123` : ชุมนุม (to rally, to gather, to assemble) : 1 meaning(s), 2 sentences
 - `chula-l6-125` : กว้างขวาง (spacious, large; (figuratively) extensive, broad) : 2 meaning(s), 4 sentences
 - `chula-l6-127` : หน่วยงาน (agency, department) : 1 meaning(s), 2 sentences
+- `chula-l6-128` : เรื้อรัง (chronic, persistent, long-standing) : 1 meaning(s), 2 sentences
 - `chula-l6-129` : น่ารังเกียจ (disgusting, despicable, repulsive) : 1 meaning(s), 2 sentences
+- `chula-l6-133` : จัดจ้าน (strong, intense, bold (e.g taste of food, or personality)) : 1 meaning(s), 2 sentences
+- `chula-l6-134` : เครื่องเทศ (seasoning spices) : 1 meaning(s), 2 sentences
 - `chula-l6-135` : เอกลักษณ์ (distinctive identity, unique characteristic) : 1 meaning(s), 2 sentences
 - `chula-l6-136` : เฉพาะตัว (singular, of its own, distinctive) : 1 meaning(s), 2 sentences
 - `chula-l6-140` : เงียบกริบ (completely silent, dead quiet) : 1 meaning(s), 2 sentences
+- `chula-l6-142` : หวั่น (fearful, worried, anxious) : 1 meaning(s), 2 sentences
 - `chula-l6-147` : วอน, อ้อนวอน (to plead for, beg for, implore) : 1 meaning(s), 2 sentences
+- `chula-l6-151` : ตำ (to pound (with pestle and mortar)) : 1 meaning(s), 2 sentences
+- `chula-l6-154` : ชง (to brew) : 1 meaning(s), 2 sentences
+- `chula-l6-156` : หลอดเลือด, เส้นเลือด (blood vessel) : 1 meaning(s), 2 sentences
 - `chula-l6-157` : ผง (powder) : 1 meaning(s), 2 sentences
 - `chula-l6-159` : หมู่ (group, cluster) : 1 meaning(s), 2 sentences
 - `chula-l6-161` : เศษ (fragment, scrap, remnant; fraction of; a bit more, slightly over) : 3 meaning(s), 6 sentences
+- `chula-l6-162` : ว่ากันว่า ("it is said that...", reportedly) : 1 meaning(s), 2 sentences
 - `chula-l6-164` : หลุด (to slip, drop, fall off) : 1 meaning(s), 2 sentences
 - `chula-l6-165` : กระชับ (compact, tight, firm, to tighten, to strengthen) : 1 meaning(s), 2 sentences
 - `chula-l6-167` : เครื่องสำอาง (cosmetics) : 1 meaning(s), 2 sentences
 - `chula-l6-168` : แปลก, แปลกประหลาด (strange, weird) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
+- `chula-l6-170` : กวน (to stir until thickened or smooth (cooking); to annoy, to bother) : 2 meaning(s), 4 sentences
 - `chula-l6-175` : กระหาย (thirsty) : 1 meaning(s), 2 sentences
 - `chula-l6-177` : ล้วน (all, entirely) : 1 meaning(s), 2 sentences
 - `chula-l6-181` : ก้าน (stem (supporting part of a leaf, a flower); shaft, handle (e.g brush, umbrella)) : 2 meaning(s), 4 sentences
