@@ -36849,6 +36849,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to have a crush on, to secretly like",
+        "sentences": [
+          {
+            "thai": "เขาแอบชอบเพื่อนร่วมชั้นมานาน",
+            "en": "He’s had a crush on his classmate for a long time.",
+            "audio_src": "เขาแอบชอบเพื่อนร่วมชั้นมานาน",
+            "audio_en_src": "He’s had a crush on his classmate for a long time."
+          },
+          {
+            "thai": "เธอแอบชอบรุ่นพี่แต่ไม่กล้าบอก",
+            "en": "She has a crush on a senior but doesn’t dare say.",
+            "audio_src": "เธอแอบชอบรุ่นพี่แต่ไม่กล้าบอก",
+            "audio_en_src": "She has a crush on a senior but doesn’t dare say."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36927,6 +36946,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "rice porridge, congee",
+        "sentences": [
+          {
+            "thai": "เช้านี้กินโจ๊กหมูหนึ่งชาม",
+            "en": "This morning I had a bowl of pork congee.",
+            "audio_src": "เช้านี้กินโจ๊กหมูหนึ่งชาม",
+            "audio_en_src": "This morning I had a bowl of pork congee."
+          },
+          {
+            "thai": "ตอนป่วยกินโจ๊กย่อยง่ายดี",
+            "en": "When you’re sick, congee is easy to digest.",
+            "audio_src": "ตอนป่วยกินโจ๊กย่อยง่ายดี",
+            "audio_en_src": "When you’re sick, congee is easy to digest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37197,6 +37235,25 @@
       "Tamago L1-2",
       "Tamago L3",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "cruel, harsh, brutal",
+        "sentences": [
+          {
+            "thai": "เขาถูกลงโทษอย่างโหดร้าย",
+            "en": "He was punished brutally.",
+            "audio_src": "เขาถูกลงโทษอย่างโหดร้าย",
+            "audio_en_src": "He was punished brutally."
+          },
+          {
+            "thai": "อย่าโหดกับสัตว์เลย",
+            "en": "Don’t be cruel to animals.",
+            "audio_src": "อย่าโหดกับสัตว์เลย",
+            "audio_en_src": "Don’t be cruel to animals."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37207,6 +37264,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "mean, wicked, cruel-hearted",
+        "sentences": [
+          {
+            "thai": "เขาใจร้ายทิ้งหมาไว้ข้างถนน",
+            "en": "He was cruel and abandoned the dog on the street.",
+            "audio_src": "เขาใจร้ายทิ้งหมาไว้ข้างถนน",
+            "audio_en_src": "He was cruel and abandoned the dog on the street."
+          },
+          {
+            "thai": "อย่าใจร้ายกับน้องสิ",
+            "en": "Don’t be mean to your little sibling.",
+            "audio_src": "อย่าใจร้ายกับน้องสิ",
+            "audio_en_src": "Don’t be mean to your little sibling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37217,6 +37293,25 @@
     "topic": "economy",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay off a debt",
+        "sentences": [
+          {
+            "thai": "เขาทำงานหนักเพื่อใช้หนี้ให้หมด",
+            "en": "He works hard to pay off all his debt.",
+            "audio_src": "เขาทำงานหนักเพื่อใช้หนี้ให้หมด",
+            "audio_en_src": "He works hard to pay off all his debt."
+          },
+          {
+            "thai": "ฉันใช้หนี้บ้านหมดแล้ว",
+            "en": "I’ve paid off my house.",
+            "audio_src": "ฉันใช้หนี้บ้านหมดแล้ว",
+            "audio_en_src": "I’ve paid off my house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37531,6 +37626,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "kidney",
+        "sentences": [
+          {
+            "thai": "ดื่มน้ำน้อยไม่ดีต่อไต",
+            "en": "Drinking too little water is bad for the kidneys.",
+            "audio_src": "ดื่มน้ำน้อยไม่ดีต่อไต",
+            "audio_en_src": "Drinking too little water is bad for the kidneys."
+          },
+          {
+            "thai": "เขาป่วยเป็นโรคไตต้องฟอกเลือด",
+            "en": "He has kidney disease and needs dialysis.",
+            "audio_src": "เขาป่วยเป็นโรคไตต้องฟอกเลือด",
+            "audio_en_src": "He has kidney disease and needs dialysis."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37541,6 +37655,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"just like that\", \"without particular purpose\"",
+        "sentences": [
+          {
+            "thai": "เขาพูดไปอย่างนั้นแหละ ไม่ได้ตั้งใจ",
+            "en": "He just said it offhand, he didn’t mean it.",
+            "audio_src": "เขาพูดไปอย่างนั้นแหละ ไม่ได้ตั้งใจ",
+            "audio_en_src": "He just said it offhand, he didn’t mean it."
+          },
+          {
+            "thai": "ถามไปอย่างนั้นเอง ไม่ได้อยากรู้จริง",
+            "en": "I just asked casually, I don’t really need to know.",
+            "audio_src": "ถามไปอย่างนั้นเอง ไม่ได้อยากรู้จริง",
+            "audio_en_src": "I just asked casually, I don’t really need to know."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37582,6 +37715,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"not... at all\", not a single one, not even one",
+        "sentences": [
+          {
+            "thai": "ตู้เย็นว่างเปล่า ไม่มีอะไรกินสักอย่าง",
+            "en": "The fridge is empty, there’s nothing to eat at all.",
+            "audio_src": "ตู้เย็นว่างเปล่า ไม่มีอะไรกินสักอย่าง",
+            "audio_en_src": "The fridge is empty, there’s nothing to eat at all."
+          },
+          {
+            "thai": "เขาพูดมาตั้งนาน ฉันไม่เข้าใจสักอย่าง",
+            "en": "He talked for ages, I didn’t understand a single thing.",
+            "audio_src": "เขาพูดมาตั้งนาน ฉันไม่เข้าใจสักอย่าง",
+            "audio_en_src": "He talked for ages, I didn’t understand a single thing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37626,6 +37778,25 @@
     "sources": [
       "Tamago L1-2",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "or else, if not, otherwise",
+        "sentences": [
+          {
+            "thai": "กินข้าวผัดไม่ก็ก๋วยเตี๋ยวก็ได้",
+            "en": "We could have fried rice, or else noodles.",
+            "audio_src": "กินข้าวผัดไม่ก็ก๋วยเตี๋ยวก็ได้",
+            "audio_en_src": "We could have fried rice, or else noodles."
+          },
+          {
+            "thai": "รีบไปเดี๋ยวนี้ ไม่ก็ตกรถ",
+            "en": "Go now, or else you’ll miss the bus.",
+            "audio_src": "รีบไปเดี๋ยวนี้ ไม่ก็ตกรถ",
+            "audio_en_src": "Go now, or else you’ll miss the bus."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37637,6 +37808,25 @@
     "sources": [
       "Tamago L1-2",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "\"if not ..., then...\", \"either..., or...\"",
+        "sentences": [
+          {
+            "thai": "วันหยุดเขาไม่นอนก็ดูหนัง",
+            "en": "On his days off he either sleeps or watches movies.",
+            "audio_src": "วันหยุดเขาไม่นอนก็ดูหนัง",
+            "audio_en_src": "On his days off he either sleeps or watches movies."
+          },
+          {
+            "thai": "ไม่วันนี้ก็พรุ่งนี้ เดี๋ยวเขาก็มา",
+            "en": "If not today then tomorrow, he’ll come eventually.",
+            "audio_src": "ไม่วันนี้ก็พรุ่งนี้ เดี๋ยวเขาก็มา",
+            "audio_en_src": "If not today then tomorrow, he’ll come eventually."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4323 words**
+**Total: 4333 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -918,14 +918,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-605` : แม้กระทั่ง (even, even including) : 1 meaning(s), 2 sentences
 - `tamago-l12-607` : แล้วไง ("and?", "so what?") : 1 meaning(s), 2 sentences
 - `tamago-l12-608` : แหวน (ring (jewelry)) : 1 meaning(s), 2 sentences
+- `tamago-l12-609` : แอบชอบ (to have a crush on, to secretly like) : 1 meaning(s), 2 sentences
 - `tamago-l12-610` : แอบมอง (to spy on, to watch secretly) : 1 meaning(s), 2 sentences
 - `tamago-l12-611` : โกง (to cheat, to swindle, to commit fraud) : 1 meaning(s), 2 sentences
+- `tamago-l12-612` : โจ๊ก (rice porridge, congee) : 1 meaning(s), 2 sentences
 - `tamago-l12-613` : โดด, กระโดด (to jump) : 1 meaning(s), 2 sentences
 - `tamago-l12-614` : โดดเรียน (to skip school, to skip class) : 1 meaning(s), 2 sentences
 - `tamago-l12-615` : โดน (to be exposed to (e.g rain, sun, water); to get (passive)) : 2 meaning(s), 4 sentences
 - `tamago-l12-617` : โด่ง (prominent, elevated (e.g nose)) : 1 meaning(s), 2 sentences
 - `tamago-l12-620` : โมโห (angry, furious) : 1 meaning(s), 2 sentences
 - `tamago-l12-623` : โล (kilo (colloquial short form of kilogram)) : 1 meaning(s), 2 sentences
+- `tamago-l12-624` : โหด, โหดร้าย (cruel, harsh, brutal) : 1 meaning(s), 2 sentences
+- `tamago-l12-625` : ใจร้าย (mean, wicked, cruel-hearted) : 1 meaning(s), 2 sentences
+- `tamago-l12-626` : ใช้หนี้ (to pay off a debt) : 1 meaning(s), 2 sentences
 - `tamago-l12-627` : ในร่ม (indoors, under cover (e.g from rain, sun)) : 1 meaning(s), 2 sentences
 - `tamago-l12-628` : ใบ้ (to give hints, to give clues; mute) : 2 meaning(s), 4 sentences
 - `tamago-l12-630` : ใส่ (to put in, to wear, to insert) : 1 meaning(s), 3 sentences
@@ -934,8 +939,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-633` : ไข่ดาว (fried egg (sunny-side-up)) : 1 meaning(s), 2 sentences
 - `tamago-l12-634` : ไข่ต้ม (hard-boiled egg) : 1 meaning(s), 2 sentences
 - `tamago-l12-635` : ไข่เจียว (Thai omelette) : 1 meaning(s), 2 sentences
+- `tamago-l12-636` : ไต (kidney) : 1 meaning(s), 2 sentences
+- `tamago-l12-637` : ไปอย่างนั้น ("just like that", "without particular purpose") : 1 meaning(s), 2 sentences
 - `tamago-l12-638` : ไฟไหม้ (fire (a fire breaking out)) : 1 meaning(s), 2 sentences
+- `tamago-l12-639` : ไม่...สักอย่าง ("not... at all", not a single one, not even one) : 1 meaning(s), 2 sentences
 - `tamago-l12-640` : ไม่กี่ (not many, a few) : 1 meaning(s), 2 sentences
+- `tamago-l12-642` : ไม่ก็ (or else, if not, otherwise) : 1 meaning(s), 2 sentences
+- `tamago-l12-642b` : ไม่ ... ก็ ... ("if not ..., then...", "either..., or...") : 1 meaning(s), 2 sentences
 - `tamago-l12-643` : ไม่งั้น (otherwise, if not) : 1 meaning(s), 2 sentences
 - `tamago-l12-645` : ไม่มีทาง ("no way!", impossible) : 1 meaning(s), 2 sentences
 - `tamago-l12-646` : ไม่รวม (to exclude, excluding, not included) : 1 meaning(s), 2 sentences
