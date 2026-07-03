@@ -6353,6 +6353,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "rude",
+        "sentences": [
+          {
+            "thai": "เขาพูดจาหยาบคายกับพนักงาน",
+            "en": "He was rude to the staff.",
+            "audio_src": "เขาพูดจาหยาบคายกับพนักงาน",
+            "audio_en_src": "He was rude to the staff."
+          },
+          {
+            "thai": "อย่าใช้คำหยาบคายในที่สาธารณะ",
+            "en": "Don’t use rude language in public.",
+            "audio_src": "อย่าใช้คำหยาบคายในที่สาธารณะ",
+            "audio_en_src": "Don’t use rude language in public."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6365,6 +6384,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "seriously, for real",
+        "sentences": [
+          {
+            "thai": "เขาพูดจริงจัง ไม่ได้ล้อเล่น",
+            "en": "He’s being serious, he’s not joking.",
+            "audio_src": "เขาพูดจริงจัง ไม่ได้ล้อเล่น",
+            "audio_en_src": "He’s being serious, he’s not joking."
+          },
+          {
+            "thai": "เธอเรียนภาษาไทยอย่างจริงจัง",
+            "en": "She’s studying Thai seriously.",
+            "audio_src": "เธอเรียนภาษาไทยอย่างจริงจัง",
+            "audio_en_src": "She’s studying Thai seriously."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6527,6 +6565,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to load, to carry",
+        "sentences": [
+          {
+            "thai": "รถบรรทุกของหนักมาก",
+            "en": "The truck is carrying a very heavy load.",
+            "audio_src": "รถบรรทุกของหนักมาก",
+            "audio_en_src": "The truck is carrying a very heavy load."
+          },
+          {
+            "thai": "เขาบรรทุกผักไปขายที่ตลาด",
+            "en": "He loaded up vegetables to sell at the market.",
+            "audio_src": "เขาบรรทุกผักไปขายที่ตลาด",
+            "audio_en_src": "He loaded up vegetables to sell at the market."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6638,6 +6695,25 @@
       "Chulalongkorn L5",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "traffic",
+        "sentences": [
+          {
+            "thai": "ตำรวจจราจรโบกรถอยู่",
+            "en": "The traffic police are directing cars.",
+            "audio_src": "ตำรวจจราจรโบกรถอยู่",
+            "audio_en_src": "The traffic police are directing cars."
+          },
+          {
+            "thai": "ชั่วโมงเร่งด่วนการจราจรติดขัด",
+            "en": "Traffic gets congested during rush hour.",
+            "audio_src": "ชั่วโมงเร่งด่วนการจราจรติดขัด",
+            "audio_en_src": "Traffic gets congested during rush hour."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6694,6 +6770,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "highway",
+        "sentences": [
+          {
+            "thai": "รถวิ่งเร็วบนทางหลวง",
+            "en": "Cars go fast on the highway.",
+            "audio_src": "รถวิ่งเร็วบนทางหลวง",
+            "audio_en_src": "Cars go fast on the highway."
+          },
+          {
+            "thai": "ทางหลวงสายนี้ไปเชียงใหม่",
+            "en": "This highway goes to Chiang Mai.",
+            "audio_src": "ทางหลวงสายนี้ไปเชียงใหม่",
+            "audio_en_src": "This highway goes to Chiang Mai."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6842,6 +6937,25 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "value",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้มีมูลค่าสูง",
+            "en": "This house has a high value.",
+            "audio_src": "บ้านหลังนี้มีมูลค่าสูง",
+            "audio_en_src": "This house has a high value."
+          },
+          {
+            "thai": "ทองคำมูลค่าเพิ่มขึ้นทุกปี",
+            "en": "The value of gold goes up every year.",
+            "audio_src": "ทองคำมูลค่าเพิ่มขึ้นทุกปี",
+            "audio_en_src": "The value of gold goes up every year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6855,6 +6969,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "witness",
+        "sentences": [
+          {
+            "thai": "เขาเป็นพยานในคดีนี้",
+            "en": "He’s a witness in this case.",
+            "audio_src": "เขาเป็นพยานในคดีนี้",
+            "audio_en_src": "He’s a witness in this case."
+          },
+          {
+            "thai": "ตำรวจต้องการพยานเพิ่ม",
+            "en": "The police need more witnesses.",
+            "audio_src": "ตำรวจต้องการพยานเพิ่ม",
+            "audio_en_src": "The police need more witnesses."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6913,6 +7046,25 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "accident",
+        "sentences": [
+          {
+            "thai": "เกิดอุบัติเหตุบนถนนเมื่อเช้า",
+            "en": "There was an accident on the road this morning.",
+            "audio_src": "เกิดอุบัติเหตุบนถนนเมื่อเช้า",
+            "audio_en_src": "There was an accident on the road this morning."
+          },
+          {
+            "thai": "เขาขาหักเพราะอุบัติเหตุรถยนต์",
+            "en": "He broke his leg in a car accident.",
+            "audio_src": "เขาขาหักเพราะอุบัติเหตุรถยนต์",
+            "audio_en_src": "He broke his leg in a car accident."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7012,6 +7164,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "symptom, (medical) condition",
+        "sentences": [
+          {
+            "thai": "อาการของเขาดีขึ้นแล้ว",
+            "en": "His condition has improved.",
+            "audio_src": "อาการของเขาดีขึ้นแล้ว",
+            "audio_en_src": "His condition has improved."
+          },
+          {
+            "thai": "มีอาการไข้กับไอเล็กน้อย",
+            "en": "I’ve got a slight fever and cough.",
+            "audio_src": "มีอาการไข้กับไอเล็กน้อย",
+            "audio_en_src": "I’ve got a slight fever and cough."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7055,6 +7226,25 @@
     "topic": "transport",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "pick-up truck",
+        "sentences": [
+          {
+            "thai": "เขาขับรถกระบะไปทำสวน",
+            "en": "He drives a pickup to work in the orchard.",
+            "audio_src": "เขาขับรถกระบะไปทำสวน",
+            "audio_en_src": "He drives a pickup to work in the orchard."
+          },
+          {
+            "thai": "รถกระบะบรรทุกของเต็มคัน",
+            "en": "The pickup is loaded full of stuff.",
+            "audio_src": "รถกระบะบรรทุกของเต็มคัน",
+            "audio_en_src": "The pickup is loaded full of stuff."
+          }
+        ]
+      }
     ]
   },
   {

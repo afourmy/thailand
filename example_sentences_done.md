@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4033 words**
+**Total: 4043 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -156,17 +156,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-118` : จิบ (to sip) : 1 meaning(s), 2 sentences
 - `chula-l5-120` : โด่งดัง, ชื่อดัง, มีชื่อเสียง (famous) : 1 meaning(s), 2 sentences
 - `chula-l5-121` : เลิศ (excellent) : 1 meaning(s), 2 sentences
+- `chula-l5-126` : หยาบคาย (rude) : 1 meaning(s), 2 sentences
+- `chula-l5-127` : จริงจัง (seriously, for real) : 1 meaning(s), 2 sentences
 - `chula-l5-130` : รับรอง, รับประกัน (to assure, to guarantee) : 1 meaning(s), 2 sentences
 - `chula-l5-131` : ยกตัวอย่าง (to give an example) : 1 meaning(s), 2 sentences
 - `chula-l5-132` : โดดเด่น (to stand out, outstanding) : 1 meaning(s), 2 sentences
+- `chula-l5-136` : บรรทุก (to load, to carry) : 1 meaning(s), 2 sentences
 - `chula-l5-138` : พลิก (to flip, to turn over) : 1 meaning(s), 2 sentences
 - `chula-l5-140` : กระจาย (to scatter) : 1 meaning(s), 2 sentences
+- `chula-l5-142` : จราจร (traffic) : 1 meaning(s), 2 sentences
 - `chula-l5-143` : กำลัง (force, power, strength) : 1 meaning(s), 2 sentences
+- `chula-l5-145` : ทางหลวง (highway) : 1 meaning(s), 2 sentences
 - `chula-l5-149` : บรรจุ (to load, to pack; to contain) : 2 meaning(s), 4 sentences
 - `chula-l5-154` : มุ่งหน้า (to head toward, to make one's way to) : 1 meaning(s), 2 sentences
+- `chula-l5-156` : มูลค่า (value) : 1 meaning(s), 2 sentences
+- `chula-l5-157` : พยาน (witness) : 1 meaning(s), 2 sentences
 - `chula-l5-158` : ดำเนินการ (to proceed, to carry out, to take action) : 1 meaning(s), 2 sentences
+- `chula-l5-160` : อุบัติเหตุ (accident) : 1 meaning(s), 2 sentences
 - `chula-l5-162` : พัง (broken, damaged) : 1 meaning(s), 2 sentences
+- `chula-l5-169` : อาการ (symptom, (medical) condition) : 1 meaning(s), 2 sentences
 - `chula-l5-171` : ตาราง (chart, table) : 1 meaning(s), 2 sentences
+- `chula-l5-172` : รถกระบะ (pick-up truck) : 1 meaning(s), 2 sentences
 - `chula-l5-177` : ใกล้เคียง (nearby) : 1 meaning(s), 2 sentences
 - `chula-l5-183` : ยอดนิยม (highly popular) : 1 meaning(s), 2 sentences
 - `chula-l5-185` : ชุมชน (community) : 1 meaning(s), 2 sentences
