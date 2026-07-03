@@ -11494,6 +11494,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Chinese New Year",
+        "sentences": [
+          {
+            "thai": "ตรุษจีนปีนี้ครอบครัวไปไหว้เจ้า",
+            "en": "This Chinese New Year the family went to pay respects at the shrine.",
+            "audio_src": "ตรุษจีนปีนี้ครอบครัวไปไหว้เจ้า",
+            "audio_en_src": "This Chinese New Year the family went to pay respects at the shrine."
+          },
+          {
+            "thai": "วันตรุษจีนเด็กๆ ได้เงินแต๊ะเอียจากผู้ใหญ่",
+            "en": "On Chinese New Year, kids get red envelopes from the adults.",
+            "audio_src": "วันตรุษจีนเด็กๆ ได้เงินแต๊ะเอียจากผู้ใหญ่",
+            "audio_en_src": "On Chinese New Year, kids get red envelopes from the adults."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11616,6 +11635,25 @@
     "topic": "grammar",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "etc.",
+        "sentences": [
+          {
+            "thai": "ในตลาดมีผลไม้หลายอย่าง เช่น กล้วย ส้ม มะม่วง ฯลฯ",
+            "en": "The market has all sorts of fruit, like bananas, oranges, mangoes, etc.",
+            "audio_src": "ในตลาดมีผลไม้หลายอย่าง เช่น กล้วย ส้ม มะม่วง ฯลฯ",
+            "audio_en_src": "The market has all sorts of fruit, like bananas, oranges, mangoes, etc."
+          },
+          {
+            "thai": "เขาชอบเล่นกีฬาหลายชนิด ฟุตบอล บาส เทนนิส ฯลฯ",
+            "en": "He likes playing many sports: football, basketball, tennis, etc.",
+            "audio_src": "เขาชอบเล่นกีฬาหลายชนิด ฟุตบอล บาส เทนนิส ฯลฯ",
+            "audio_en_src": "He likes playing many sports: football, basketball, tennis, etc."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11629,6 +11667,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "plant",
+        "sentences": [
+          {
+            "thai": "พืชต้องการแสงแดดเพื่อเติบโต",
+            "en": "Plants need sunlight to grow.",
+            "audio_src": "พืชต้องการแสงแดดเพื่อเติบโต",
+            "audio_en_src": "Plants need sunlight to grow."
+          },
+          {
+            "thai": "เกษตรกรปลูกพืชหลายชนิด",
+            "en": "The farmer grows several kinds of crops.",
+            "audio_src": "เกษตรกรปลูกพืชหลายชนิด",
+            "audio_en_src": "The farmer grows several kinds of crops."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11639,6 +11696,25 @@
     "topic": "transport",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "public bus",
+        "sentences": [
+          {
+            "thai": "ฉันนั่งรถประจำทางไปทำงานทุกวัน",
+            "en": "I take the bus to work every day.",
+            "audio_src": "ฉันนั่งรถประจำทางไปทำงานทุกวัน",
+            "audio_en_src": "I take the bus to work every day."
+          },
+          {
+            "thai": "รถประจำทางสายนี้ผ่านตลาด",
+            "en": "This bus line goes past the market.",
+            "audio_src": "รถประจำทางสายนี้ผ่านตลาด",
+            "audio_en_src": "This bus line goes past the market."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11651,6 +11727,25 @@
       "Chulalongkorn L5",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "deer",
+        "sentences": [
+          {
+            "thai": "ในป่ามีกวางหลายตัว",
+            "en": "There are many deer in the forest.",
+            "audio_src": "ในป่ามีกวางหลายตัว",
+            "audio_en_src": "There are many deer in the forest."
+          },
+          {
+            "thai": "กวางวิ่งหนีเมื่อเห็นคน",
+            "en": "The deer ran away when it saw people.",
+            "audio_src": "กวางวิ่งหนีเมื่อเห็นคน",
+            "audio_en_src": "The deer ran away when it saw people."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11664,6 +11759,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "budget",
+        "sentences": [
+          {
+            "thai": "โครงการนี้ใช้งบประมาณสูง",
+            "en": "This project has a high budget.",
+            "audio_src": "โครงการนี้ใช้งบประมาณสูง",
+            "audio_en_src": "This project has a high budget."
+          },
+          {
+            "thai": "เราต้องทำงานให้อยู่ในงบประมาณ",
+            "en": "We have to keep the work within budget.",
+            "audio_src": "เราต้องทำงานให้อยู่ในงบประมาณ",
+            "audio_en_src": "We have to keep the work within budget."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12208,6 +12322,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "viewpoint",
+        "sentences": [
+          {
+            "thai": "บนเขามีจุดชมวิวสวยมาก",
+            "en": "There’s a beautiful viewpoint up on the mountain.",
+            "audio_src": "บนเขามีจุดชมวิวสวยมาก",
+            "audio_en_src": "There’s a beautiful viewpoint up on the mountain."
+          },
+          {
+            "thai": "นักท่องเที่ยวถ่ายรูปที่จุดชมวิว",
+            "en": "Tourists take photos at the viewpoint.",
+            "audio_src": "นักท่องเที่ยวถ่ายรูปที่จุดชมวิว",
+            "audio_en_src": "Tourists take photos at the viewpoint."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12411,6 +12544,25 @@
       "Chulalongkorn L5",
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "doctor, physician",
+        "sentences": [
+          {
+            "thai": "แพทย์แนะนำให้เขาพักผ่อน",
+            "en": "The doctor advised him to rest.",
+            "audio_src": "แพทย์แนะนำให้เขาพักผ่อน",
+            "audio_en_src": "The doctor advised him to rest."
+          },
+          {
+            "thai": "เธอตั้งใจเรียนเป็นแพทย์",
+            "en": "She’s determined to become a doctor.",
+            "audio_src": "เธอตั้งใจเรียนเป็นแพทย์",
+            "audio_en_src": "She’s determined to become a doctor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12444,6 +12596,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fog",
+        "sentences": [
+          {
+            "thai": "ตอนเช้ามีหมอกหนาบนภูเขา",
+            "en": "In the morning there’s thick fog on the mountain.",
+            "audio_src": "ตอนเช้ามีหมอกหนาบนภูเขา",
+            "audio_en_src": "In the morning there’s thick fog on the mountain."
+          },
+          {
+            "thai": "หมอกลงจัดจนมองไม่เห็นทาง",
+            "en": "The fog is so thick you can’t see the road.",
+            "audio_src": "หมอกลงจัดจนมองไม่เห็นทาง",
+            "audio_en_src": "The fog is so thick you can’t see the road."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12596,6 +12767,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sugarcane",
+        "sentences": [
+          {
+            "thai": "เขาปลูกอ้อยไว้ขายโรงงานน้ำตาล",
+            "en": "He grows sugarcane to sell to the sugar factory.",
+            "audio_src": "เขาปลูกอ้อยไว้ขายโรงงานน้ำตาล",
+            "audio_en_src": "He grows sugarcane to sell to the sugar factory."
+          },
+          {
+            "thai": "น้ำอ้อยสดหวานชื่นใจ",
+            "en": "Fresh sugarcane juice is refreshingly sweet.",
+            "audio_src": "น้ำอ้อยสดหวานชื่นใจ",
+            "audio_en_src": "Fresh sugarcane juice is refreshingly sweet."
+          }
+        ]
+      }
     ]
   },
   {

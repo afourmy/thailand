@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4083 words**
+**Total: 4093 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -266,9 +266,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-381` : ความขัดแย้ง (conflict) : 1 meaning(s), 2 sentences
 - `chula-l5-387` : สายการบิน (airline) : 1 meaning(s), 2 sentences
 - `chula-l5-389` : สมัคร (to apply) : 1 meaning(s), 2 sentences
+- `chula-l5-390` : ตรุษจีน (Chinese New Year) : 1 meaning(s), 2 sentences
 - `chula-l5-391` : สร้อย, สร้อยคอ (necklace) : 1 meaning(s), 2 sentences
 - `chula-l5-393` : เหล็ก (steel, iron) : 1 meaning(s), 2 sentences
 - `chula-l5-394` : ความมั่นคง (stability) : 1 meaning(s), 2 sentences
+- `chula-l5-396` : ฯลฯ (etc.) : 1 meaning(s), 2 sentences
+- `chula-l5-397` : พืช (plant) : 1 meaning(s), 2 sentences
+- `chula-l5-398` : รถประจำทาง (public bus) : 1 meaning(s), 2 sentences
+- `chula-l5-399` : กวาง (deer) : 1 meaning(s), 2 sentences
+- `chula-l5-400` : งบประมาณ (budget) : 1 meaning(s), 2 sentences
 - `chula-l5-403` : ปรากฏ (to appear) : 1 meaning(s), 2 sentences
 - `chula-l5-408` : ฉีก (to tear, to rip) : 1 meaning(s), 2 sentences
 - `chula-l5-417` : ปริมาณ (quantity, volume) : 1 meaning(s), 2 sentences
@@ -278,11 +284,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-423` : เร่ง (to speed up, to hurry, to accelerate) : 1 meaning(s), 2 sentences
 - `chula-l5-424` : นัด (meeting, appointment; game, match; classifier for gunshots, bullets) : 3 meaning(s), 6 sentences
 - `chula-l5-426` : เข้มข้น (intense, strong, concentrated) : 1 meaning(s), 2 sentences
+- `chula-l5-427` : จุดชมวิว (viewpoint) : 1 meaning(s), 2 sentences
 - `chula-l5-433` : ลงตัว (perfectly balanced, just right; to fit together nicely, to be finalized) : 2 meaning(s), 4 sentences
 - `chula-l5-437` : หงาย (to turn face-up, to lie on one's back, on its back, face-up) : 1 meaning(s), 2 sentences
+- `chula-l5-440` : แพทย์ (doctor, physician) : 1 meaning(s), 2 sentences
+- `chula-l5-443` : หมอก (fog) : 1 meaning(s), 2 sentences
 - `chula-l5-444` : รับมือ (to cope, to handle, to deal with) : 1 meaning(s), 2 sentences
 - `chula-l5-447` : ค่าย (camp) : 1 meaning(s), 2 sentences
 - `chula-l5-450` : คนแปลกหน้า (stranger) : 1 meaning(s), 2 sentences
+- `chula-l5-452` : อ้อย (sugarcane) : 1 meaning(s), 2 sentences
 - `chula-l5-453` : กระทรวง (ministry) : 1 meaning(s), 2 sentences
 - `chula-l5-456` : ไล่ (to chase, pursue; to expel; to follow in sequence, go through one by one) : 3 meaning(s), 6 sentences
 - `chula-l5-457` : ย้ำ (to repeat, to emphasize, to reiterate) : 1 meaning(s), 2 sentences
