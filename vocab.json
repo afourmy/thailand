@@ -26180,6 +26180,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to leave something behind somewhere",
+        "sentences": [
+          {
+            "thai": "เขาทิ้งกุญแจไว้ในรถ",
+            "en": "He left the keys in the car.",
+            "audio_src": "เขาทิ้งกุญแจไว้ในรถ",
+            "audio_en_src": "He left the keys in the car."
+          },
+          {
+            "thai": "อย่าทิ้งของมีค่าไว้ในที่สาธารณะ",
+            "en": "Don’t leave valuables in public places.",
+            "audio_src": "อย่าทิ้งของมีค่าไว้ในที่สาธารณะ",
+            "audio_en_src": "Don’t leave valuables in public places."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26191,6 +26210,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "whenever, every time that",
+        "sentences": [
+          {
+            "thai": "เจอเขาทีไรก็ยิ้มให้ทุกที",
+            "en": "Every time I see him, he smiles at me.",
+            "audio_src": "เจอเขาทีไรก็ยิ้มให้ทุกที",
+            "audio_en_src": "Every time I see him, he smiles at me."
+          },
+          {
+            "thai": "กินเผ็ดทีไรเป็นต้องท้องเสีย",
+            "en": "Every time I eat spicy food I get an upset stomach.",
+            "audio_src": "กินเผ็ดทีไรเป็นต้องท้องเสีย",
+            "audio_en_src": "Every time I eat spicy food I get an upset stomach."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26203,6 +26241,25 @@
       "Tamago L1-2",
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "amazed, impressed",
+        "sentences": [
+          {
+            "thai": "ฉันทึ่งในความสามารถของเขา",
+            "en": "I’m amazed by his talent.",
+            "audio_src": "ฉันทึ่งในความสามารถของเขา",
+            "audio_en_src": "I’m amazed by his talent."
+          },
+          {
+            "thai": "ทุกคนทึ่งกับผลงานของเด็กคนนี้",
+            "en": "Everyone was impressed by this kid’s work.",
+            "audio_src": "ทุกคนทึ่งกับผลงานของเด็กคนนี้",
+            "audio_en_src": "Everyone was impressed by this kid’s work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26214,6 +26271,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "durian",
+        "sentences": [
+          {
+            "thai": "ทุเรียนมีกลิ่นแรงแต่อร่อย",
+            "en": "Durian has a strong smell but tastes great.",
+            "audio_src": "ทุเรียนมีกลิ่นแรงแต่อร่อย",
+            "audio_en_src": "Durian has a strong smell but tastes great."
+          },
+          {
+            "thai": "บางโรงแรมห้ามนำทุเรียนเข้าห้อง",
+            "en": "Some hotels don’t allow durian in the rooms.",
+            "audio_src": "บางโรงแรมห้ามนำทุเรียนเข้าห้อง",
+            "audio_en_src": "Some hotels don’t allow durian in the rooms."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26239,6 +26315,42 @@
       "Tamago L3",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "it seems like",
+        "sentences": [
+          {
+            "thai": "ท่าทางฝนจะตก รีบกลับบ้านดีกว่า",
+            "en": "It looks like it’s going to rain, we’d better hurry home.",
+            "audio_src": "ท่าทางฝนจะตก รีบกลับบ้านดีกว่า",
+            "audio_en_src": "It looks like it’s going to rain, we’d better hurry home."
+          },
+          {
+            "thai": "ท่าทางเขาจะไม่มาแล้ว",
+            "en": "It seems like he’s not coming.",
+            "audio_src": "ท่าทางเขาจะไม่มาแล้ว",
+            "audio_en_src": "It seems like he’s not coming."
+          }
+        ]
+      },
+      {
+        "meaning": "gesture, manner, appearance",
+        "sentences": [
+          {
+            "thai": "เขามีท่าทางสุภาพเรียบร้อย",
+            "en": "He has a polite, well-mannered demeanor.",
+            "audio_src": "เขามีท่าทางสุภาพเรียบร้อย",
+            "audio_en_src": "He has a polite, well-mannered demeanor."
+          },
+          {
+            "thai": "ดูจากท่าทางแล้วเธอน่าจะเหนื่อยมาก",
+            "en": "From the way she looks, she seems really tired.",
+            "audio_src": "ดูจากท่าทางแล้วเธอน่าจะเหนื่อยมาก",
+            "audio_en_src": "From the way she looks, she seems really tired."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26261,6 +26373,25 @@
       "Tamago L1-2",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tradition, custom",
+        "sentences": [
+          {
+            "thai": "การไหว้เป็นธรรมเนียมของคนไทย",
+            "en": "The wai is a Thai custom.",
+            "audio_src": "การไหว้เป็นธรรมเนียมของคนไทย",
+            "audio_en_src": "The wai is a Thai custom."
+          },
+          {
+            "thai": "แต่ละประเทศมีธรรมเนียมต่างกัน",
+            "en": "Each country has different customs.",
+            "audio_src": "แต่ละประเทศมีธรรมเนียมต่างกัน",
+            "audio_en_src": "Each country has different customs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26400,6 +26531,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"that's exactly it\", \"that's precisely it\"",
+        "sentences": [
+          {
+            "thai": "นั่นแหละที่มันยาก ต้องอดทนให้มากๆ",
+            "en": "That’s exactly the hard part, you have to be really patient.",
+            "audio_src": "นั่นแหละที่มันยาก ต้องอดทนให้มากๆ",
+            "audio_en_src": "That’s exactly the hard part, you have to be really patient."
+          },
+          {
+            "thai": "เขาไม่เคยฟังใครเลย นั่นแหละที่มันน่าหงุดหงิด",
+            "en": "He never listens to anyone, that’s exactly what’s so frustrating.",
+            "audio_src": "เขาไม่เคยฟังใครเลย นั่นแหละที่มันน่าหงุดหงิด",
+            "audio_en_src": "He never listens to anyone, that’s exactly what’s so frustrating."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26748,6 +26898,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "smoothie, blended drink",
+        "sentences": [
+          {
+            "thai": "อากาศร้อนแบบนี้อยากกินน้ำปั่นเย็นๆ",
+            "en": "In this heat I want a cold smoothie.",
+            "audio_src": "อากาศร้อนแบบนี้อยากกินน้ำปั่นเย็นๆ",
+            "audio_en_src": "In this heat I want a cold smoothie."
+          },
+          {
+            "thai": "สั่งน้ำปั่นแตงโมหนึ่งแก้ว",
+            "en": "Order a watermelon smoothie.",
+            "audio_src": "สั่งน้ำปั่นแตงโมหนึ่งแก้ว",
+            "audio_en_src": "Order a watermelon smoothie."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26759,6 +26928,25 @@
     "sources": [
       "Tamago L1-2",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "nasal mucus, snot",
+        "sentences": [
+          {
+            "thai": "เป็นหวัดน้ำมูกเยอะมาก",
+            "en": "I have a cold with a lot of snot.",
+            "audio_src": "เป็นหวัดน้ำมูกเยอะมาก",
+            "audio_en_src": "I have a cold with a lot of snot."
+          },
+          {
+            "thai": "เช็ดน้ำมูกด้วยกระดาษทิชชู่",
+            "en": "Wipe your nose with a tissue.",
+            "audio_src": "เช็ดน้ำมูกด้วยกระดาษทิชชู่",
+            "audio_en_src": "Wipe your nose with a tissue."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26770,6 +26958,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "saliva",
+        "sentences": [
+          {
+            "thai": "เห็นอาหารอร่อยแล้วน้ำลายไหล",
+            "en": "Seeing tasty food makes my mouth water.",
+            "audio_src": "เห็นอาหารอร่อยแล้วน้ำลายไหล",
+            "audio_en_src": "Seeing tasty food makes my mouth water."
+          },
+          {
+            "thai": "หมากัดของเล่นจนน้ำลายเปียกไปหมด",
+            "en": "The dog chewed the toy until it was all covered in slobber.",
+            "audio_src": "หมากัดของเล่นจนน้ำลายเปียกไปหมด",
+            "audio_en_src": "The dog chewed the toy until it was all covered in slobber."
+          }
+        ]
+      }
     ]
   },
   {

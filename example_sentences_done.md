@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4233 words**
+**Total: 4243 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -639,9 +639,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-201` : ทำร้ายร่างกาย (to physically abuse, assault someone) : 1 meaning(s), 2 sentences
 - `tamago-l12-203` : ทำหกใส่ (to spill on) : 1 meaning(s), 2 sentences
 - `tamago-l12-205` : ทำไหม้ (to burn (accidentally)) : 1 meaning(s), 2 sentences
+- `tamago-l12-207` : ทิ้ง...ไว้ (to leave something behind somewhere) : 1 meaning(s), 2 sentences
+- `tamago-l12-208` : ทีไร (whenever, every time that) : 1 meaning(s), 2 sentences
+- `tamago-l12-211` : ทึ่ง (amazed, impressed) : 1 meaning(s), 2 sentences
+- `tamago-l12-212` : ทุเรียน (durian) : 1 meaning(s), 2 sentences
+- `tamago-l12-214` : ท่าทาง ("it seems like"; gesture, manner, appearance) : 2 meaning(s), 4 sentences
+- `tamago-l12-216` : ธรรมเนียม (tradition, custom) : 1 meaning(s), 2 sentences
 - `tamago-l12-217` : นวดฝ่าเท้า (foot massage) : 1 meaning(s), 2 sentences
 - `tamago-l12-218` : นอกใจ (to cheat on someone (be unfaithful)) : 1 meaning(s), 2 sentences
 - `tamago-l12-223` : นั่นน่ะสิ ("that's right!", "good point!") : 1 meaning(s), 2 sentences
+- `tamago-l12-224` : นั่นแหละที่มัน ("that's exactly it", "that's precisely it") : 1 meaning(s), 2 sentences
 - `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
 - `tamago-l12-236` : นึกออก (to realize, to recall, to come to mind) : 1 meaning(s), 2 sentences
@@ -649,6 +656,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-240` : น่าสงสาร ("poor thing", pitiful) : 1 meaning(s), 2 sentences
 - `tamago-l12-241` : น่าอิจฉา (enviable) : 1 meaning(s), 2 sentences
 - `tamago-l12-243` : น้ำจิ้ม (dipping sauce) : 1 meaning(s), 2 sentences
+- `tamago-l12-244` : น้ำปั่น (smoothie, blended drink) : 1 meaning(s), 2 sentences
+- `tamago-l12-245` : น้ำมูก (nasal mucus, snot) : 1 meaning(s), 2 sentences
+- `tamago-l12-246` : น้ำลาย (saliva) : 1 meaning(s), 2 sentences
 - `tamago-l12-249` : บริหารธุรกิจ (business administration) : 1 meaning(s), 2 sentences
 - `tamago-l12-252` : บะหมี่ (egg noodle) : 1 meaning(s), 2 sentences
 - `tamago-l12-253` : บัง (to block, to obstruct (view, light); to hide, to cover up) : 2 meaning(s), 4 sentences
