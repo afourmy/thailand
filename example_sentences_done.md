@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4173 words**
+**Total: 4183 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -471,14 +471,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-277` : ออกอากาศ (to broadcast, to air (on TV, radio, etc)) : 1 meaning(s), 2 sentences
 - `chula-l6-278` : พระเอก (main character, leading actor, hero) : 1 meaning(s), 2 sentences
 - `chula-l6-280` : ซีรีส์วาย (BL (Boys' Love) series (from Japanese "yaoi")) : 1 meaning(s), 2 sentences
+- `chula-l6-282` : เจ้าภาพ (host) : 1 meaning(s), 2 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
+- `chula-l6-286` : เกียรติ (honor) : 1 meaning(s), 2 sentences
+- `chula-l6-289` : โต๊ะจีน (Chinese-style banquet) : 1 meaning(s), 2 sentences
 - `chula-l6-290` : ธีม (theme) : 1 meaning(s), 2 sentences
+- `chula-l6-291` : ซื่อสัตย์ (faithful, honest, loyal) : 1 meaning(s), 2 sentences
+- `chula-l6-294` : อวยพร (to give a blessing, to wish (something to someone)) : 1 meaning(s), 2 sentences
 - `chula-l6-297` : มูลนิธิ (foundation, non-profit organization, charity) : 1 meaning(s), 2 sentences
+- `chula-l6-298` : แห่ (to parade) : 1 meaning(s), 2 sentences
+- `chula-l6-300` : หมั้น (engaged (to be married)) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
+- `chula-l6-303` : ไหนๆ (ก็...แล้ว ...) ("while we're at it, ...", "seeing that...") : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
 - `chula-l6-305` : ฝ่าฟัน (to overcome, to strive, to struggle through (obstacles)) : 1 meaning(s), 2 sentences
 - `chula-l6-311` : ง่ายดาย (very easy, effortless) : 1 meaning(s), 2 sentences
+- `chula-l6-319` : สมหวัง (to have one's hopes fulfilled, to get what one wished for) : 1 meaning(s), 2 sentences
 - `chula-l6-320` : แรงบันดาลใจ (inspiration) : 1 meaning(s), 2 sentences
+- `chula-l6-321` : ทายาท (heir) : 1 meaning(s), 2 sentences
 - `chula-l6-323` : ปริญญาตรี (bachelor's degree) : 1 meaning(s), 2 sentences
 - `chula-l6-338` : รองรับ (to support, accommodate, handle (e.g a need, a capacity)) : 1 meaning(s), 2 sentences
 - `tamago-l12-003` : ...ไปก่อน ("... for now") : 1 meaning(s), 2 sentences
