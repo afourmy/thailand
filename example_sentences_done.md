@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4243 words**
+**Total: 4253 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -659,7 +659,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-244` : น้ำปั่น (smoothie, blended drink) : 1 meaning(s), 2 sentences
 - `tamago-l12-245` : น้ำมูก (nasal mucus, snot) : 1 meaning(s), 2 sentences
 - `tamago-l12-246` : น้ำลาย (saliva) : 1 meaning(s), 2 sentences
+- `tamago-l12-247` : น้ำส้มคั้น (freshly squeezed orange juice) : 1 meaning(s), 2 sentences
+- `tamago-l12-248` : น้ำส้มสายชู (vinegar) : 1 meaning(s), 2 sentences
 - `tamago-l12-249` : บริหารธุรกิจ (business administration) : 1 meaning(s), 2 sentences
+- `tamago-l12-250` : บวช (to be ordained as a monk or nun) : 1 meaning(s), 2 sentences
 - `tamago-l12-252` : บะหมี่ (egg noodle) : 1 meaning(s), 2 sentences
 - `tamago-l12-253` : บัง (to block, to obstruct (view, light); to hide, to cover up) : 2 meaning(s), 4 sentences
 - `tamago-l12-254` : บังเอิญ (by chance, coincidentally; to happen (by chance)) : 2 meaning(s), 4 sentences
@@ -668,14 +671,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-259` : บาง (thin) : 1 meaning(s), 2 sentences
 - `tamago-l12-260` : ปฏิทิน (calendar) : 1 meaning(s), 2 sentences
 - `tamago-l12-261` : ประจำ, เป็นประจำ (regularly, constantly, routinely) : 1 meaning(s), 2 sentences
+- `tamago-l12-264` : ปลาเปรี้ยวหวาน (sweet and sour fish) : 1 meaning(s), 2 sentences
 - `tamago-l12-266` : ปลูก (to plant, to grow) : 1 meaning(s), 2 sentences
+- `tamago-l12-267` : ปล่อยให้ (to let, to allow; to leave someone to do something) : 2 meaning(s), 4 sentences
 - `tamago-l12-268` : ปอก (to peel) : 1 meaning(s), 2 sentences
+- `tamago-l12-270` : ปั่น (to spin, to blend (e.g smoothie); to work intensely, to rush to finish something) : 2 meaning(s), 4 sentences
 - `tamago-l12-271` : ปา (to throw, to toss) : 1 meaning(s), 2 sentences
+- `tamago-l12-272` : ปาท่องโก๋ (deep-fried dough pastry (Thai/Chinese)) : 1 meaning(s), 2 sentences
 - `tamago-l12-274` : ปีน (to climb) : 1 meaning(s), 2 sentences
 - `tamago-l12-275` : ปุ่ม (button) : 1 meaning(s), 2 sentences
+- `tamago-l12-277` : ป่านนั้น (by that time, by then) : 1 meaning(s), 2 sentences
 - `tamago-l12-278` : ป้ายรถเมล์ (bus stop) : 1 meaning(s), 2 sentences
+- `tamago-l12-280` : ผมก็ว่างั้น ("I think so too") : 1 meaning(s), 2 sentences
 - `tamago-l12-281` : ผมขาว (grey hair, white hair) : 1 meaning(s), 2 sentences
 - `tamago-l12-282` : ผมหน้าม้า (bangs (fringe)) : 1 meaning(s), 2 sentences
+- `tamago-l12-283` : ผวา (frightened, startled) : 1 meaning(s), 2 sentences
 - `tamago-l12-286` : ผัด (to stir-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-287` : ผัดผัก (stir-fried vegetables) : 1 meaning(s), 2 sentences
 - `tamago-l12-289` : ผู้สูงอายุ (elderly person, senior) : 1 meaning(s), 2 sentences

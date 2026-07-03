@@ -26987,6 +26987,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "freshly squeezed orange juice",
+        "sentences": [
+          {
+            "thai": "เช้านี้ดื่มน้ำส้มคั้นสดๆ",
+            "en": "This morning I had fresh orange juice.",
+            "audio_src": "เช้านี้ดื่มน้ำส้มคั้นสดๆ",
+            "audio_en_src": "This morning I had fresh orange juice."
+          },
+          {
+            "thai": "น้ำส้มคั้นไม่ใส่น้ำตาลเปรี้ยวนิดๆ",
+            "en": "Fresh orange juice with no sugar is a little sour.",
+            "audio_src": "น้ำส้มคั้นไม่ใส่น้ำตาลเปรี้ยวนิดๆ",
+            "audio_en_src": "Fresh orange juice with no sugar is a little sour."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26998,6 +27017,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "vinegar",
+        "sentences": [
+          {
+            "thai": "เติมน้ำส้มสายชูในก๋วยเตี๋ยว",
+            "en": "Add vinegar to the noodles.",
+            "audio_src": "เติมน้ำส้มสายชูในก๋วยเตี๋ยว",
+            "audio_en_src": "Add vinegar to the noodles."
+          },
+          {
+            "thai": "น้ำส้มสายชูใช้ทำน้ำสลัดได้",
+            "en": "Vinegar can be used to make salad dressing.",
+            "audio_src": "น้ำส้มสายชูใช้ทำน้ำสลัดได้",
+            "audio_en_src": "Vinegar can be used to make salad dressing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27040,6 +27078,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be ordained as a monk or nun",
+        "sentences": [
+          {
+            "thai": "เขาบวชเป็นพระสามเดือน",
+            "en": "He was ordained as a monk for three months.",
+            "audio_src": "เขาบวชเป็นพระสามเดือน",
+            "audio_en_src": "He was ordained as a monk for three months."
+          },
+          {
+            "thai": "ผู้ชายไทยหลายคนบวชก่อนแต่งงาน",
+            "en": "Many Thai men get ordained before getting married.",
+            "audio_src": "ผู้ชายไทยหลายคนบวชก่อนแต่งงาน",
+            "audio_en_src": "Many Thai men get ordained before getting married."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27395,6 +27452,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "sweet and sour fish",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ปลาเปรี้ยวหวานอร่อยมาก",
+            "en": "The sweet and sour fish here is delicious.",
+            "audio_src": "ร้านนี้ปลาเปรี้ยวหวานอร่อยมาก",
+            "audio_en_src": "The sweet and sour fish here is delicious."
+          },
+          {
+            "thai": "สั่งปลาเปรี้ยวหวานกับข้าวสวย",
+            "en": "Order sweet and sour fish with steamed rice.",
+            "audio_src": "สั่งปลาเปรี้ยวหวานกับข้าวสวย",
+            "audio_en_src": "Order sweet and sour fish with steamed rice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27451,6 +27527,42 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to let, to allow",
+        "sentences": [
+          {
+            "thai": "อย่าปล่อยให้เด็กเล่นใกล้ถนน",
+            "en": "Don’t let the kids play near the road.",
+            "audio_src": "อย่าปล่อยให้เด็กเล่นใกล้ถนน",
+            "audio_en_src": "Don’t let the kids play near the road."
+          },
+          {
+            "thai": "พ่อแม่ปล่อยให้ลูกตัดสินใจเอง",
+            "en": "The parents let their child decide for themselves.",
+            "audio_src": "พ่อแม่ปล่อยให้ลูกตัดสินใจเอง",
+            "audio_en_src": "The parents let their child decide for themselves."
+          }
+        ]
+      },
+      {
+        "meaning": "to leave someone to do something",
+        "sentences": [
+          {
+            "thai": "เขาปล่อยให้ฉันรอตั้งนาน",
+            "en": "He left me waiting for ages.",
+            "audio_src": "เขาปล่อยให้ฉันรอตั้งนาน",
+            "audio_en_src": "He left me waiting for ages."
+          },
+          {
+            "thai": "อย่าปล่อยให้เธอทำงานคนเดียว",
+            "en": "Don’t leave her to do the work alone.",
+            "audio_src": "อย่าปล่อยให้เธอทำงานคนเดียว",
+            "audio_en_src": "Don’t leave her to do the work alone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27509,6 +27621,42 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to spin, to blend (e.g smoothie)",
+        "sentences": [
+          {
+            "thai": "ปั่นผลไม้รวมเป็นน้ำปั่น",
+            "en": "Blend the mixed fruit into a smoothie.",
+            "audio_src": "ปั่นผลไม้รวมเป็นน้ำปั่น",
+            "audio_en_src": "Blend the mixed fruit into a smoothie."
+          },
+          {
+            "thai": "เขาปั่นจักรยานไปทำงานทุกวัน",
+            "en": "He rides his bike to work every day.",
+            "audio_src": "เขาปั่นจักรยานไปทำงานทุกวัน",
+            "audio_en_src": "He rides his bike to work every day."
+          }
+        ]
+      },
+      {
+        "meaning": "to work intensely, to rush to finish something",
+        "sentences": [
+          {
+            "thai": "คืนนี้ต้องปั่นงานให้เสร็จ",
+            "en": "Tonight I have to rush to finish the work.",
+            "audio_src": "คืนนี้ต้องปั่นงานให้เสร็จ",
+            "audio_en_src": "Tonight I have to rush to finish the work."
+          },
+          {
+            "thai": "ใกล้สอบแล้วต้องปั่นอ่านหนังสือ",
+            "en": "Exams are near, I have to cram.",
+            "audio_src": "ใกล้สอบแล้วต้องปั่นอ่านหนังสือ",
+            "audio_en_src": "Exams are near, I have to cram."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27552,6 +27700,25 @@
     "sources": [
       "Tamago L1-2",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "deep-fried dough pastry (Thai/Chinese)",
+        "sentences": [
+          {
+            "thai": "ตอนเช้าชอบกินปาท่องโก๋จิ้มนมข้น",
+            "en": "In the morning I like fried dough dipped in condensed milk.",
+            "audio_src": "ตอนเช้าชอบกินปาท่องโก๋จิ้มนมข้น",
+            "audio_en_src": "In the morning I like fried dough dipped in condensed milk."
+          },
+          {
+            "thai": "ปาท่องโก๋ทอดใหม่กรอบอร่อย",
+            "en": "Freshly fried dough sticks are crispy and tasty.",
+            "audio_src": "ปาท่องโก๋ทอดใหม่กรอบอร่อย",
+            "audio_en_src": "Freshly fried dough sticks are crispy and tasty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27632,6 +27799,25 @@
     "topic": "time",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "by that time, by then",
+        "sentences": [
+          {
+            "thai": "กว่าจะถึงป่านนั้นเราคงหิวมากแล้ว",
+            "en": "By that time we’ll probably be really hungry.",
+            "audio_src": "กว่าจะถึงป่านนั้นเราคงหิวมากแล้ว",
+            "audio_en_src": "By that time we’ll probably be really hungry."
+          },
+          {
+            "thai": "รอถึงปีหน้า ป่านนั้นก็สายไปแล้ว",
+            "en": "Wait until next year? By then it’ll be too late.",
+            "audio_src": "รอถึงปีหน้า ป่านนั้นก็สายไปแล้ว",
+            "audio_en_src": "Wait until next year? By then it’ll be too late."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27686,6 +27872,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"I think so too\"",
+        "sentences": [
+          {
+            "thai": "ผมก็ว่างั้นเหมือนกัน",
+            "en": "I think so too.",
+            "audio_src": "ผมก็ว่างั้นเหมือนกัน",
+            "audio_en_src": "I think so too."
+          },
+          {
+            "thai": "เธอพูดถูก ผมก็ว่างั้น",
+            "en": "You’re right, I think so too.",
+            "audio_src": "เธอพูดถูก ผมก็ว่างั้น",
+            "audio_en_src": "You’re right, I think so too."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27758,6 +27963,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "frightened, startled",
+        "sentences": [
+          {
+            "thai": "เขาสะดุ้งผวาตอนได้ยินเสียงดัง",
+            "en": "He was startled by the loud noise.",
+            "audio_src": "เขาสะดุ้งผวาตอนได้ยินเสียงดัง",
+            "audio_en_src": "He was startled by the loud noise."
+          },
+          {
+            "thai": "ฝันร้ายทำให้เธอตื่นขึ้นมาผวา",
+            "en": "The nightmare made her wake up in a fright.",
+            "audio_src": "ฝันร้ายทำให้เธอตื่นขึ้นมาผวา",
+            "audio_en_src": "The nightmare made her wake up in a fright."
+          }
+        ]
+      }
     ]
   },
   {
