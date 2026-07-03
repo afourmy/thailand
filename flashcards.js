@@ -336,13 +336,13 @@
     try { fetch(src).catch(function () { warmed[src] = false; }); }
     catch (e) { warmed[src] = false; }
   }
-  // Warm one meaning group's Thai example-sentence audio. English sentences are
-  // intentionally not prefetched.
+  // Warm one meaning group's example-sentence audio, both Thai and English.
   function warmExMeaning(word, mi) {
     var g = (word.examples || [])[mi];
     if (!g) return;
     (g.sentences || []).forEach(function (s, si) {
       warmAudio(exAudioSrc(word.id, mi, si, false)); // Thai sentence
+      warmAudio(exAudioSrc(word.id, mi, si, true));  // English sentence
     });
   }
   function preloadCard(id) {
