@@ -119,6 +119,8 @@ t4k-c10-023 ประมวลกฎหมาย: eng 'legal code (collection of
 t4k-c10-044 ผู้ว่า: eng 'governor'
 t4k-c11-007 ข้อกำหนด: eng 'regulation, specification'
 t4k-c11-009 ข้อเรียกร้อง: eng 'demand, claim, request (formal)'
+t4k-c11-044 ข้อพิพาท: eng 'dispute, conflict, disagremment (formal)'
+t4k-c11-084 มหาอำนาจ: eng 'great power, superpower (e.g country)'
 
 yt-c22-080 ไอ้สัตว์ๆ - อีสัตว์ๆ - สัตว์ๆ: make it two cards:
 'ไอ้สัตว์ๆ, อีสัตว์ๆ': 'you (among friends), fucker, bitch (male, female)'
@@ -186,6 +188,6 @@ yt-c14-079 หัวใส, หัวหมอ: split in two cards:
 หัวใส: 'clever, quick-witted, smart-thinking'
 หัวหมอ: 'cunning, sly, clever in a way that exploits loopholes'
 
-remove card: yt-c16-014 คถ (คิดถึง), yt-c16-015 ทร (ทำไร), yt-c16-016 พส (พี่สาว, เพื่อนสาว), yt-c16-017 อห (โอ้โห - อีเหี้ย, อีห่า), yt-c16-019 ชห, ฉห (ชิบหาย), yt-c16-020 วดฟ, yt-c16-021 กลป (กำลังไป), yt-c16-022 มปร, yt-c16-023 มมปห, yt-c16-024 มป (ไม่ไป), yt-c16-025 พน, yt-c16-027 ตปท (ต่างประเทศ), yt-c16-028 คหสต (ความคิดเห็นส่วนตัว), yt-c16-071 อย่ามาสะตอ, yt-c20-089 พ่อง (พ่อมึง), แม่ง (แม่มึง), yt-c22-052 หัวหมอ, thaipod-1296 เอาผิด, t4k-c08-005 พนักงานเจ้าหน้าที่
+remove card: yt-c16-014 คถ (คิดถึง), yt-c16-015 ทร (ทำไร), yt-c16-016 พส (พี่สาว, เพื่อนสาว), yt-c16-017 อห (โอ้โห - อีเหี้ย, อีห่า), yt-c16-019 ชห, ฉห (ชิบหาย), yt-c16-020 วดฟ, yt-c16-021 กลป (กำลังไป), yt-c16-022 มปร, yt-c16-023 มมปห, yt-c16-024 มป (ไม่ไป), yt-c16-025 พน, yt-c16-027 ตปท (ต่างประเทศ), yt-c16-028 คหสต (ความคิดเห็นส่วนตัว), yt-c16-071 อย่ามาสะตอ, yt-c20-089 พ่อง (พ่อมึง), แม่ง (แม่มึง), yt-c22-052 หัวหมอ, thaipod-1296 เอาผิด, t4k-c08-005 พนักงานเจ้าหน้าที่, t4k-c11-050 คะแนนเสียง, t4k-c11-090 นิติ
 
 park card: yt-c21-076 แหกตา
