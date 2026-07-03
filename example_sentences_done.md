@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4223 words**
+**Total: 4233 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -600,18 +600,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-149` : ตอบแทน (to repay, to return a favor) : 1 meaning(s), 2 sentences
 - `tamago-l12-151` : ตั้ง...แน่ะ ("...so much", "such a...") : 1 meaning(s), 2 sentences
 - `tamago-l12-152` : ตั้งนาน (for so long, in a long time) : 1 meaning(s), 2 sentences
+- `tamago-l12-153` : ตั้งเยอะ ("a whole lot!", "so much") : 1 meaning(s), 2 sentences
+- `tamago-l12-154` : ตั้งแต่...เป็นต้นไป (from... on, from... onward) : 1 meaning(s), 2 sentences
 - `tamago-l12-155` : ตามสบาย ("please go ahead", "as you like") : 1 meaning(s), 2 sentences
 - `tamago-l12-157` : ติดกับ (next to, adjacent to) : 1 meaning(s), 2 sentences
+- `tamago-l12-159` : ติดหนี้ (to owe money, to be in debt) : 1 meaning(s), 2 sentences
 - `tamago-l12-163` : ตู้กดเงิน, ตู้เอทีเอ็ม (ATM) : 1 meaning(s), 2 sentences
 - `tamago-l12-165` : ต่อราคา (to negotiate the price, haggle) : 1 meaning(s), 2 sentences
 - `tamago-l12-166` : ต่อว่า (to scold, to reproach) : 1 meaning(s), 2 sentences
 - `tamago-l12-167` : ต่อหน้า (in front of, in the presence of) : 1 meaning(s), 2 sentences
 - `tamago-l12-168` : ต่อแถว, ต่อคิว (to get in line, to queue up) : 1 meaning(s), 2 sentences
+- `tamago-l12-169` : ต่อไปนี้ (the following; from now on, henceforth) : 2 meaning(s), 4 sentences
+- `tamago-l12-170` : ต่างหาก (rather, instead; separately) : 2 meaning(s), 4 sentences
 - `tamago-l12-172` : ต้นไม้ (tree, plant) : 1 meaning(s), 2 sentences
 - `tamago-l12-173` : ต้ม (to boil) : 1 meaning(s), 2 sentences
 - `tamago-l12-174` : ถอด (to take off (clothes, shoes)) : 1 meaning(s), 2 sentences
 - `tamago-l12-175` : ถัดจาก (next to, right after (in sequence)) : 1 meaning(s), 2 sentences
+- `tamago-l12-177` : ถั่วลิสง (peanut) : 1 meaning(s), 2 sentences
 - `tamago-l12-180` : ถึง, ถึงจะ (even if, even though; to the point that) : 2 meaning(s), 4 sentences
+- `tamago-l12-182` : ถึงว่า... ("that's why...", "no wonder...") : 1 meaning(s), 2 sentences
+- `tamago-l12-183` : ถึงได้ ("that's why", "so that's why") : 1 meaning(s), 2 sentences
 - `tamago-l12-184` : ถุงน่อง (stockings, pantyhose) : 1 meaning(s), 2 sentences
 - `tamago-l12-185` : ถู (to scrub, rub, mop) : 1 meaning(s), 2 sentences
 - `tamago-l12-186` : ถูกใจ (to one's liking, pleased with) : 1 meaning(s), 2 sentences
@@ -622,11 +630,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-191` : ทวง (to ask for something back (especially money owed)) : 1 meaning(s), 2 sentences
 - `tamago-l12-192` : ทอด (to deep-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-193` : ทะเลาะ (to quarrel, to argue, to fight) : 1 meaning(s), 2 sentences
+- `tamago-l12-194` : ทั้งๆที่ (even though, despite the fact that) : 1 meaning(s), 2 sentences
 - `tamago-l12-195` : ทางลัด (shortcut) : 1 meaning(s), 2 sentences
 - `tamago-l12-197` : ทาย (to guess) : 1 meaning(s), 2 sentences
 - `tamago-l12-198` : ทำตก (to drop (accidentally)) : 1 meaning(s), 2 sentences
 - `tamago-l12-199` : ทำธุระ (to run an errand) : 1 meaning(s), 2 sentences
 - `tamago-l12-200` : ทำผิดพลาด (to make a mistake) : 1 meaning(s), 2 sentences
+- `tamago-l12-201` : ทำร้ายร่างกาย (to physically abuse, assault someone) : 1 meaning(s), 2 sentences
 - `tamago-l12-203` : ทำหกใส่ (to spill on) : 1 meaning(s), 2 sentences
 - `tamago-l12-205` : ทำไหม้ (to burn (accidentally)) : 1 meaning(s), 2 sentences
 - `tamago-l12-217` : นวดฝ่าเท้า (foot massage) : 1 meaning(s), 2 sentences

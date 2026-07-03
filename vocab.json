@@ -24760,6 +24760,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"a whole lot!\", \"so much\"",
+        "sentences": [
+          {
+            "thai": "ทำไมซื้อมาตั้งเยอะ กินไม่หมดหรอก",
+            "en": "Why’d you buy so much? We can’t finish it all.",
+            "audio_src": "ทำไมซื้อมาตั้งเยอะ กินไม่หมดหรอก",
+            "audio_en_src": "Why’d you buy so much? We can’t finish it all."
+          },
+          {
+            "thai": "มีการบ้านตั้งเยอะ ทำไม่ทันแน่",
+            "en": "There’s so much homework, I definitely won’t finish in time.",
+            "audio_src": "มีการบ้านตั้งเยอะ ทำไม่ทันแน่",
+            "audio_en_src": "There’s so much homework, I definitely won’t finish in time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -24770,6 +24789,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "from... on, from... onward",
+        "sentences": [
+          {
+            "thai": "ร้านเปิดตั้งแต่เก้าโมงเป็นต้นไป",
+            "en": "The shop is open from nine o’clock onward.",
+            "audio_src": "ร้านเปิดตั้งแต่เก้าโมงเป็นต้นไป",
+            "audio_en_src": "The shop is open from nine o’clock onward."
+          },
+          {
+            "thai": "ตั้งแต่วันนี้เป็นต้นไป ฉันจะออกกำลังกายทุกวัน",
+            "en": "From today on, I’ll exercise every day.",
+            "audio_src": "ตั้งแต่วันนี้เป็นต้นไป ฉันจะออกกำลังกายทุกวัน",
+            "audio_en_src": "From today on, I’ll exercise every day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -24857,6 +24895,25 @@
     "topic": "economy",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to owe money, to be in debt",
+        "sentences": [
+          {
+            "thai": "เขาติดหนี้บัตรเครดิตหลายหมื่น",
+            "en": "He owes tens of thousands in credit card debt.",
+            "audio_src": "เขาติดหนี้บัตรเครดิตหลายหมื่น",
+            "audio_en_src": "He owes tens of thousands in credit card debt."
+          },
+          {
+            "thai": "ฉันติดหนี้เพื่อนอยู่ห้าร้อย",
+            "en": "I owe my friend five hundred.",
+            "audio_src": "ฉันติดหนี้เพื่อนอยู่ห้าร้อย",
+            "audio_en_src": "I owe my friend five hundred."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25069,6 +25126,42 @@
       "Tamago L1-2",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "the following",
+        "sentences": [
+          {
+            "thai": "ต่อไปนี้คือรายชื่อผู้โชคดี",
+            "en": "The following is the list of lucky winners.",
+            "audio_src": "ต่อไปนี้คือรายชื่อผู้โชคดี",
+            "audio_en_src": "The following is the list of lucky winners."
+          },
+          {
+            "thai": "โปรดฟังประกาศต่อไปนี้",
+            "en": "Please listen to the following announcement.",
+            "audio_src": "โปรดฟังประกาศต่อไปนี้",
+            "audio_en_src": "Please listen to the following announcement."
+          }
+        ]
+      },
+      {
+        "meaning": "from now on, henceforth",
+        "sentences": [
+          {
+            "thai": "ต่อไปนี้ฉันจะตั้งใจเรียนให้มากขึ้น",
+            "en": "From now on I’ll study harder.",
+            "audio_src": "ต่อไปนี้ฉันจะตั้งใจเรียนให้มากขึ้น",
+            "audio_en_src": "From now on I’ll study harder."
+          },
+          {
+            "thai": "ต่อไปนี้อย่ามาสายอีกนะ",
+            "en": "From now on, don’t be late again.",
+            "audio_src": "ต่อไปนี้อย่ามาสายอีกนะ",
+            "audio_en_src": "From now on, don’t be late again."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25081,6 +25174,42 @@
       "Tamago L1-2",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "rather, instead",
+        "sentences": [
+          {
+            "thai": "ไม่ใช่สีฟ้า สีเขียวต่างหาก",
+            "en": "It’s not blue, it’s green.",
+            "audio_src": "ไม่ใช่สีฟ้า สีเขียวต่างหาก",
+            "audio_en_src": "It’s not blue, it’s green."
+          },
+          {
+            "thai": "เขาไม่ได้โกรธ เขาเสียใจต่างหาก",
+            "en": "He’s not angry, he’s hurt.",
+            "audio_src": "เขาไม่ได้โกรธ เขาเสียใจต่างหาก",
+            "audio_en_src": "He’s not angry, he’s hurt."
+          }
+        ]
+      },
+      {
+        "meaning": "separately",
+        "sentences": [
+          {
+            "thai": "ค่าน้ำค่าไฟจ่ายต่างหาก",
+            "en": "Water and electricity are paid separately.",
+            "audio_src": "ค่าน้ำค่าไฟจ่ายต่างหาก",
+            "audio_en_src": "Water and electricity are paid separately."
+          },
+          {
+            "thai": "ของหวานคิดเงินต่างหาก",
+            "en": "Dessert is charged separately.",
+            "audio_src": "ของหวานคิดเงินต่างหาก",
+            "audio_en_src": "Dessert is charged separately."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25250,6 +25379,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "peanut",
+        "sentences": [
+          {
+            "thai": "โรยถั่วลิสงบดบนผัดไทย",
+            "en": "Sprinkle ground peanuts on the Pad Thai.",
+            "audio_src": "โรยถั่วลิสงบดบนผัดไทย",
+            "audio_en_src": "Sprinkle ground peanuts on the Pad Thai."
+          },
+          {
+            "thai": "บางคนแพ้ถั่วลิสง",
+            "en": "Some people are allergic to peanuts.",
+            "audio_src": "บางคนแพ้ถั่วลิสง",
+            "audio_en_src": "Some people are allergic to peanuts."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25324,6 +25472,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"that's why...\", \"no wonder...\"",
+        "sentences": [
+          {
+            "thai": "ถึงว่า วันนี้รถถึงติดมาก มีงานวิ่งด้วย",
+            "en": "No wonder traffic is so bad today, there’s a running event.",
+            "audio_src": "ถึงว่า วันนี้รถถึงติดมาก มีงานวิ่งด้วย",
+            "audio_en_src": "No wonder traffic is so bad today, there’s a running event."
+          },
+          {
+            "thai": "ถึงว่าเงียบผิดปกติ ทุกคนออกไปหมดแล้ว",
+            "en": "No wonder it’s unusually quiet, everyone’s gone out.",
+            "audio_src": "ถึงว่าเงียบผิดปกติ ทุกคนออกไปหมดแล้ว",
+            "audio_en_src": "No wonder it’s unusually quiet, everyone’s gone out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25334,6 +25501,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"that's why\", \"so that's why\"",
+        "sentences": [
+          {
+            "thai": "เขาซ้อมหนักมาก ถึงได้เก่งขนาดนี้",
+            "en": "He practices really hard, that’s why he’s this good.",
+            "audio_src": "เขาซ้อมหนักมาก ถึงได้เก่งขนาดนี้",
+            "audio_en_src": "He practices really hard, that’s why he’s this good."
+          },
+          {
+            "thai": "ฝนตกทั้งคืน ถึงได้หนาวขนาดนี้",
+            "en": "It rained all night, that’s why it’s so cold.",
+            "audio_src": "ฝนตกทั้งคืน ถึงได้หนาวขนาดนี้",
+            "audio_en_src": "It rained all night, that’s why it’s so cold."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25677,6 +25863,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "even though, despite the fact that",
+        "sentences": [
+          {
+            "thai": "เขายังยิ้มได้ ทั้งๆที่เพิ่งเสียใจมา",
+            "en": "He can still smile, even though he was just heartbroken.",
+            "audio_src": "เขายังยิ้มได้ ทั้งๆที่เพิ่งเสียใจมา",
+            "audio_en_src": "He can still smile, even though he was just heartbroken."
+          },
+          {
+            "thai": "ทั้งๆที่รู้ว่าผิด เขาก็ยังทำ",
+            "en": "Even though he knew it was wrong, he still did it.",
+            "audio_src": "ทั้งๆที่รู้ว่าผิด เขาก็ยังทำ",
+            "audio_en_src": "Even though he knew it was wrong, he still did it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25860,6 +26065,25 @@
     "topic": "law",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to physically abuse, assault someone",
+        "sentences": [
+          {
+            "thai": "เขาถูกฟ้องข้อหาทำร้ายร่างกาย",
+            "en": "He was charged with physical assault.",
+            "audio_src": "เขาถูกฟ้องข้อหาทำร้ายร่างกาย",
+            "audio_en_src": "He was charged with physical assault."
+          },
+          {
+            "thai": "การทำร้ายร่างกายเด็กเป็นเรื่องผิดกฎหมาย",
+            "en": "Physically abusing a child is against the law.",
+            "audio_src": "การทำร้ายร่างกายเด็กเป็นเรื่องผิดกฎหมาย",
+            "audio_en_src": "Physically abusing a child is against the law."
+          }
+        ]
+      }
     ]
   },
   {
