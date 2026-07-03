@@ -15091,6 +15091,25 @@
     "topic": "personality",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "common sense",
+        "sentences": [
+          {
+            "thai": "เรื่องแบบนี้ใช้สามัญสำนึกก็รู้",
+            "en": "You’d know something like this just using common sense.",
+            "audio_src": "เรื่องแบบนี้ใช้สามัญสำนึกก็รู้",
+            "audio_en_src": "You’d know something like this just using common sense."
+          },
+          {
+            "thai": "เขาขาดสามัญสำนึกในการทำงาน",
+            "en": "He lacks common sense at work.",
+            "audio_src": "เขาขาดสามัญสำนึกในการทำงาน",
+            "audio_en_src": "He lacks common sense at work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15154,6 +15173,25 @@
     "topic": "personality",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "generous, charitable, to share generously",
+        "sentences": [
+          {
+            "thai": "เธอเป็นคนใจดี ชอบเผื่อแผ่คนอื่น",
+            "en": "She’s kind and likes to share with others.",
+            "audio_src": "เธอเป็นคนใจดี ชอบเผื่อแผ่คนอื่น",
+            "audio_en_src": "She’s kind and likes to share with others."
+          },
+          {
+            "thai": "มีอะไรก็เผื่อแผ่เพื่อนบ้านเสมอ",
+            "en": "Whatever she has, she always shares with the neighbors.",
+            "audio_src": "มีอะไรก็เผื่อแผ่เพื่อนบ้านเสมอ",
+            "audio_en_src": "Whatever she has, she always shares with the neighbors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15165,6 +15203,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"each person separately\", \"each one on their own\"",
+        "sentences": [
+          {
+            "thai": "งานเลิกแล้วต่างคนต่างกลับบ้าน",
+            "en": "After work, everyone went home their own way.",
+            "audio_src": "งานเลิกแล้วต่างคนต่างกลับบ้าน",
+            "audio_en_src": "After work, everyone went home their own way."
+          },
+          {
+            "thai": "ต่างคนต่างคิด เลยตกลงกันไม่ได้",
+            "en": "Each had their own idea, so they couldn’t agree.",
+            "audio_src": "ต่างคนต่างคิด เลยตกลงกันไม่ได้",
+            "audio_en_src": "Each had their own idea, so they couldn’t agree."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15188,6 +15245,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "public health",
+        "sentences": [
+          {
+            "thai": "ระบบสาธารณสุขของประเทศพัฒนาขึ้น",
+            "en": "The country’s public health system has improved.",
+            "audio_src": "ระบบสาธารณสุขของประเทศพัฒนาขึ้น",
+            "audio_en_src": "The country’s public health system has improved."
+          },
+          {
+            "thai": "กระทรวงสาธารณสุขออกมาตรการใหม่",
+            "en": "The Ministry of Public Health issued new measures.",
+            "audio_src": "กระทรวงสาธารณสุขออกมาตรการใหม่",
+            "audio_en_src": "The Ministry of Public Health issued new measures."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15211,6 +15287,25 @@
       "Chulalongkorn L6",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to file a complaint, to report a problem",
+        "sentences": [
+          {
+            "thai": "ลูกค้าร้องเรียนเรื่องบริการแย่",
+            "en": "Customers complained about the bad service.",
+            "audio_src": "ลูกค้าร้องเรียนเรื่องบริการแย่",
+            "audio_en_src": "Customers complained about the bad service."
+          },
+          {
+            "thai": "เขาร้องเรียนไปยังหน่วยงานที่เกี่ยวข้อง",
+            "en": "He filed a complaint with the relevant authorities.",
+            "audio_src": "เขาร้องเรียนไปยังหน่วยงานที่เกี่ยวข้อง",
+            "audio_en_src": "He filed a complaint with the relevant authorities."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15222,6 +15317,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to file a complaint about a hardship, suffering",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านมาร้องทุกข์เรื่องน้ำท่วม",
+            "en": "The villagers came to lodge a complaint about the flooding.",
+            "audio_src": "ชาวบ้านมาร้องทุกข์เรื่องน้ำท่วม",
+            "audio_en_src": "The villagers came to lodge a complaint about the flooding."
+          },
+          {
+            "thai": "ประชาชนร้องทุกข์ต่อรัฐบาล",
+            "en": "Citizens petitioned the government about their hardships.",
+            "audio_src": "ประชาชนร้องทุกข์ต่อรัฐบาล",
+            "audio_en_src": "Citizens petitioned the government about their hardships."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15310,6 +15424,25 @@
     "topic": "transport",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to travel, to circulate, to commute",
+        "sentences": [
+          {
+            "thai": "ถนนเส้นนี้มีคนสัญจรพลุกพล่าน",
+            "en": "This road is busy with traffic.",
+            "audio_src": "ถนนเส้นนี้มีคนสัญจรพลุกพล่าน",
+            "audio_en_src": "This road is busy with traffic."
+          },
+          {
+            "thai": "ช่วงน้ำท่วมการสัญจรลำบาก",
+            "en": "Getting around is difficult during the floods.",
+            "audio_src": "ช่วงน้ำท่วมการสัญจรลำบาก",
+            "audio_en_src": "Getting around is difficult during the floods."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15332,6 +15465,25 @@
       "Chulalongkorn L6",
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "herb",
+        "sentences": [
+          {
+            "thai": "ยาสมุนไพรช่วยบรรเทาอาการไอ",
+            "en": "Herbal medicine helps relieve a cough.",
+            "audio_src": "ยาสมุนไพรช่วยบรรเทาอาการไอ",
+            "audio_en_src": "Herbal medicine helps relieve a cough."
+          },
+          {
+            "thai": "คนไทยนิยมใช้สมุนไพรรักษาโรค",
+            "en": "Thai people often use herbs to treat illness.",
+            "audio_src": "คนไทยนิยมใช้สมุนไพรรักษาโรค",
+            "audio_en_src": "Thai people often use herbs to treat illness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15387,6 +15539,25 @@
       "Chulalongkorn L6",
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "support, refuge, source of help, someone you can rely on",
+        "sentences": [
+          {
+            "thai": "พ่อแม่เป็นที่พึ่งของลูกเสมอ",
+            "en": "Parents are always there to support their children.",
+            "audio_src": "พ่อแม่เป็นที่พึ่งของลูกเสมอ",
+            "audio_en_src": "Parents are always there to support their children."
+          },
+          {
+            "thai": "ยามลำบากเขาไม่มีที่พึ่งเลย",
+            "en": "In hard times he had no one to turn to.",
+            "audio_src": "ยามลำบากเขาไม่มีที่พึ่งเลย",
+            "audio_en_src": "In hard times he had no one to turn to."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15514,6 +15685,25 @@
     "topic": "law",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "protesters",
+        "sentences": [
+          {
+            "thai": "ผู้ประท้วงรวมตัวกันหน้าทำเนียบ",
+            "en": "Protesters gathered in front of Government House.",
+            "audio_src": "ผู้ประท้วงรวมตัวกันหน้าทำเนียบ",
+            "audio_en_src": "Protesters gathered in front of Government House."
+          },
+          {
+            "thai": "ตำรวจเข้าสลายกลุ่มผู้ประท้วง",
+            "en": "The police moved in to disperse the protesters.",
+            "audio_src": "ตำรวจเข้าสลายกลุ่มผู้ประท้วง",
+            "audio_en_src": "The police moved in to disperse the protesters."
+          }
+        ]
+      }
     ]
   },
   {

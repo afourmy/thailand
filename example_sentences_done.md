@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4113 words**
+**Total: 4123 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -348,12 +348,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-088` : เทศบาล (municipality) : 1 meaning(s), 2 sentences
 - `chula-l6-091` : โคน (base, root, bottom part (e.g of a tree, a pole, a tooth)) : 1 meaning(s), 2 sentences
 - `chula-l6-092` : มักง่าย (careless, sloppy, negligent) : 1 meaning(s), 2 sentences
+- `chula-l6-094` : สามัญสำนึก (common sense) : 1 meaning(s), 2 sentences
 - `chula-l6-097` : เครื่องเสียง (sound system, stereo) : 1 meaning(s), 2 sentences
+- `chula-l6-098` : เผื่อแผ่ (generous, charitable, to share generously) : 1 meaning(s), 2 sentences
+- `chula-l6-099` : ต่างคนต่าง ("each person separately", "each one on their own") : 1 meaning(s), 2 sentences
+- `chula-l6-102` : สาธารณสุข (public health) : 1 meaning(s), 2 sentences
+- `chula-l6-104` : ร้องเรียน (to file a complaint, to report a problem) : 1 meaning(s), 2 sentences
+- `chula-l6-105` : ร้องทุกข์ (to file a complaint about a hardship, suffering) : 1 meaning(s), 2 sentences
 - `chula-l6-108` : แขวง (subdistrict in Bangkok; zone, section) : 2 meaning(s), 4 sentences
+- `chula-l6-110` : สัญจร (to travel, to circulate, to commute) : 1 meaning(s), 2 sentences
+- `chula-l6-113` : สมุนไพร (herb) : 1 meaning(s), 2 sentences
 - `chula-l6-114` : รับปาก (to promise, to give one's word) : 1 meaning(s), 2 sentences
+- `chula-l6-116` : ที่พึ่ง (support, refuge, source of help, someone you can rely on) : 1 meaning(s), 2 sentences
 - `chula-l6-118` : กันเอง (informal, casual) : 1 meaning(s), 2 sentences
 - `chula-l6-119` : นำหน้า (to precede, to come before) : 1 meaning(s), 2 sentences
 - `chula-l6-121` : หลีกทาง (to make way, give way, step aside) : 1 meaning(s), 2 sentences
+- `chula-l6-122` : ผู้ประท้วง (protesters) : 1 meaning(s), 2 sentences
 - `chula-l6-125` : กว้างขวาง (spacious, large; (figuratively) extensive, broad) : 2 meaning(s), 4 sentences
 - `chula-l6-127` : หน่วยงาน (agency, department) : 1 meaning(s), 2 sentences
 - `chula-l6-129` : น่ารังเกียจ (disgusting, despicable, repulsive) : 1 meaning(s), 2 sentences
