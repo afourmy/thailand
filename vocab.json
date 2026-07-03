@@ -30996,6 +30996,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "weekday",
+        "sentences": [
+          {
+            "thai": "วันธรรมดาฉันตื่นเช้าไปทำงาน",
+            "en": "On weekdays I get up early for work.",
+            "audio_src": "วันธรรมดาฉันตื่นเช้าไปทำงาน",
+            "audio_en_src": "On weekdays I get up early for work."
+          },
+          {
+            "thai": "ร้านเงียบในวันธรรมดา",
+            "en": "The shop is quiet on weekdays.",
+            "audio_src": "ร้านเงียบในวันธรรมดา",
+            "audio_en_src": "The shop is quiet on weekdays."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31006,6 +31025,25 @@
     "topic": "beliefs",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhist holy day",
+        "sentences": [
+          {
+            "thai": "วันพระคนไทยไปทำบุญที่วัด",
+            "en": "On Buddhist holy days, Thai people make merit at the temple.",
+            "audio_src": "วันพระคนไทยไปทำบุญที่วัด",
+            "audio_en_src": "On Buddhist holy days, Thai people make merit at the temple."
+          },
+          {
+            "thai": "ยายถือศีลทุกวันพระ",
+            "en": "Grandma observes the precepts every holy day.",
+            "audio_src": "ยายถือศีลทุกวันพระ",
+            "audio_en_src": "Grandma observes the precepts every holy day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31016,6 +31054,25 @@
     "topic": "time",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "graduation day",
+        "sentences": [
+          {
+            "thai": "วันรับปริญญาครอบครัวมากันพร้อมหน้า",
+            "en": "On graduation day the whole family came together.",
+            "audio_src": "วันรับปริญญาครอบครัวมากันพร้อมหน้า",
+            "audio_en_src": "On graduation day the whole family came together."
+          },
+          {
+            "thai": "เธอใส่ชุดครุยในวันรับปริญญา",
+            "en": "She wore a graduation gown on graduation day.",
+            "audio_src": "เธอใส่ชุดครุยในวันรับปริญญา",
+            "audio_en_src": "She wore a graduation gown on graduation day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31028,6 +31085,25 @@
       "Tamago L1-2",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "public holiday",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้เป็นวันหยุดราชการ ธนาคารปิด",
+            "en": "Tomorrow is a public holiday, the banks are closed.",
+            "audio_src": "พรุ่งนี้เป็นวันหยุดราชการ ธนาคารปิด",
+            "audio_en_src": "Tomorrow is a public holiday, the banks are closed."
+          },
+          {
+            "thai": "วันหยุดนักขัตฤกษ์คนออกไปเที่ยวเยอะ",
+            "en": "On public holidays lots of people go out traveling.",
+            "audio_src": "วันหยุดนักขัตฤกษ์คนออกไปเที่ยวเยอะ",
+            "audio_en_src": "On public holidays lots of people go out traveling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31169,6 +31245,25 @@
     "topic": "food",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "glass noodles, mung bean noodles",
+        "sentences": [
+          {
+            "thai": "ยำวุ้นเส้นใส่กุ้งอร่อยมาก",
+            "en": "Glass noodle salad with shrimp is delicious.",
+            "audio_src": "ยำวุ้นเส้นใส่กุ้งอร่อยมาก",
+            "audio_en_src": "Glass noodle salad with shrimp is delicious."
+          },
+          {
+            "thai": "วุ้นเส้นลวกน้ำร้อนแป๊บเดียวก็สุก",
+            "en": "Glass noodles cook in seconds in hot water.",
+            "audio_src": "วุ้นเส้นลวกน้ำร้อนแป๊บเดียวก็สุก",
+            "audio_en_src": "Glass noodles cook in seconds in hot water."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31213,6 +31308,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"I knew it!\", \"just as I thought\"",
+        "sentences": [
+          {
+            "thai": "ว่าแล้วเชียว ว่าเขาต้องมาสาย",
+            "en": "I knew it, I knew he’d be late.",
+            "audio_src": "ว่าแล้วเชียว ว่าเขาต้องมาสาย",
+            "audio_en_src": "I knew it, I knew he’d be late."
+          },
+          {
+            "thai": "ว่าแล้ว ฝนต้องตกแน่ๆ",
+            "en": "Just as I thought, it’s definitely going to rain.",
+            "audio_src": "ว่าแล้ว ฝนต้องตกแน่ๆ",
+            "audio_en_src": "Just as I thought, it’s definitely going to rain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31226,6 +31340,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "religion",
+        "sentences": [
+          {
+            "thai": "ทุกศาสนาสอนให้คนเป็นคนดี",
+            "en": "Every religion teaches people to be good.",
+            "audio_src": "ทุกศาสนาสอนให้คนเป็นคนดี",
+            "audio_en_src": "Every religion teaches people to be good."
+          },
+          {
+            "thai": "เขานับถือศาสนาพุทธ",
+            "en": "He’s Buddhist.",
+            "audio_src": "เขานับถือศาสนาพุทธ",
+            "audio_en_src": "He’s Buddhist."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31404,6 +31537,59 @@
       "Thai 4000",
       "Anki Basics",
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to wash, to shampoo",
+        "sentences": [
+          {
+            "thai": "เธอสระผมทุกเช้า",
+            "en": "She washes her hair every morning.",
+            "audio_src": "เธอสระผมทุกเช้า",
+            "audio_en_src": "She washes her hair every morning."
+          },
+          {
+            "thai": "ไปร้านทำผมสระแล้วเป่าแห้ง",
+            "en": "At the salon they wash and blow-dry your hair.",
+            "audio_src": "ไปร้านทำผมสระแล้วเป่าแห้ง",
+            "audio_en_src": "At the salon they wash and blow-dry your hair."
+          }
+        ]
+      },
+      {
+        "meaning": "vowel",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมีสระหลายตัว",
+            "en": "Thai has many vowels.",
+            "audio_src": "ภาษาไทยมีสระหลายตัว",
+            "audio_en_src": "Thai has many vowels."
+          },
+          {
+            "thai": "คำนี้ใช้สระอา",
+            "en": "This word uses the vowel ‘aa’.",
+            "audio_src": "คำนี้ใช้สระอา",
+            "audio_en_src": "This word uses the vowel ‘aa’."
+          }
+        ]
+      },
+      {
+        "meaning": "pool, pond",
+        "sentences": [
+          {
+            "thai": "เขาว่ายน้ำในสระทุกเย็น",
+            "en": "He swims in the pool every evening.",
+            "audio_src": "เขาว่ายน้ำในสระทุกเย็น",
+            "audio_en_src": "He swims in the pool every evening."
+          },
+          {
+            "thai": "บ้านหลังนี้มีสระว่ายน้ำ",
+            "en": "This house has a swimming pool.",
+            "audio_src": "บ้านหลังนี้มีสระว่ายน้ำ",
+            "audio_en_src": "This house has a swimming pool."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31562,6 +31748,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "hip",
+        "sentences": [
+          {
+            "thai": "เธอปวดสะโพกเพราะนั่งนานเกินไป",
+            "en": "Her hip hurts from sitting too long.",
+            "audio_src": "เธอปวดสะโพกเพราะนั่งนานเกินไป",
+            "audio_en_src": "Her hip hurts from sitting too long."
+          },
+          {
+            "thai": "เขาล้มจนสะโพกหัก",
+            "en": "He fell and broke his hip.",
+            "audio_src": "เขาล้มจนสะโพกหัก",
+            "audio_en_src": "He fell and broke his hip."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31637,6 +31842,25 @@
     "topic": "nature",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "exotic animal",
+        "sentences": [
+          {
+            "thai": "เขาชอบเลี้ยงสัตว์แปลกอย่างงูกับกิ้งก่า",
+            "en": "He likes keeping exotic pets like snakes and lizards.",
+            "audio_src": "เขาชอบเลี้ยงสัตว์แปลกอย่างงูกับกิ้งก่า",
+            "audio_en_src": "He likes keeping exotic pets like snakes and lizards."
+          },
+          {
+            "thai": "สวนสัตว์แห่งนี้มีสัตว์แปลกหลายชนิด",
+            "en": "This zoo has many exotic animals.",
+            "audio_src": "สวนสัตว์แห่งนี้มีสัตว์แปลกหลายชนิด",
+            "audio_en_src": "This zoo has many exotic animals."
+          }
+        ]
+      }
     ]
   },
   {

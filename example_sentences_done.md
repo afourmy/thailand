@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4273 words**
+**Total: 4283 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -764,19 +764,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
 - `tamago-l12-390` : วันก่อน (the other day) : 1 meaning(s), 2 sentences
 - `tamago-l12-391` : วันครบรอบ (anniversary) : 1 meaning(s), 2 sentences
+- `tamago-l12-392` : วันธรรมดา (weekday) : 1 meaning(s), 2 sentences
+- `tamago-l12-393` : วันพระ (Buddhist holy day) : 1 meaning(s), 2 sentences
+- `tamago-l12-394` : วันรับปริญญา (graduation day) : 1 meaning(s), 2 sentences
+- `tamago-l12-395` : วันหยุดราชการ, วันหยุดนักขัตฤกษ์ (public holiday) : 1 meaning(s), 2 sentences
 - `tamago-l12-396` : วิชา (subject, field of study) : 1 meaning(s), 2 sentences
 - `tamago-l12-399` : วิเศษ (magic, extraordinary, wonderful) : 1 meaning(s), 2 sentences
 - `tamago-l12-400` : วิ่งผ่าน (to pass through (running, driving)) : 1 meaning(s), 2 sentences
+- `tamago-l12-402` : วุ้นเส้น (glass noodles, mung bean noodles) : 1 meaning(s), 2 sentences
 - `tamago-l12-403` : ว่าแต่ (by the way) : 1 meaning(s), 2 sentences
+- `tamago-l12-404` : ว่าแล้ว(เชียว) ("I knew it!", "just as I thought") : 1 meaning(s), 2 sentences
+- `tamago-l12-405` : ศาสนา (religion) : 1 meaning(s), 2 sentences
 - `tamago-l12-409` : สถานทูต (embassy) : 1 meaning(s), 2 sentences
 - `tamago-l12-413` : สนใจเรียน (to pay attention in class) : 1 meaning(s), 2 sentences
 - `tamago-l12-414` : สมควร (appropriate, suitable; to deserve, worthy) : 2 meaning(s), 4 sentences
+- `tamago-l12-415` : สระ (to wash, to shampoo; vowel; pool, pond) : 3 meaning(s), 6 sentences
 - `tamago-l12-416` : สระผม (to wash one's hair, to shampoo) : 1 meaning(s), 2 sentences
 - `tamago-l12-418` : สวนสาธารณะ (public park) : 1 meaning(s), 2 sentences
 - `tamago-l12-419` : สอบ (to take an exam) : 1 meaning(s), 2 sentences
 - `tamago-l12-420` : สะพาน (bridge) : 1 meaning(s), 2 sentences
+- `tamago-l12-421` : สะโพก (hip) : 1 meaning(s), 2 sentences
 - `tamago-l12-422` : สักพัก (for a little while, a moment) : 1 meaning(s), 2 sentences
 - `tamago-l12-423` : สัตวแพทย์ (veterinarian) : 1 meaning(s), 2 sentences
+- `tamago-l12-424` : สัตว์แปลก (exotic animal) : 1 meaning(s), 2 sentences
 - `tamago-l12-425` : สาดน้ำใส่ (to splash water on) : 1 meaning(s), 2 sentences
 - `tamago-l12-427` : สาย (line, route (e.g bus/subway)) : 1 meaning(s), 2 sentences
 - `tamago-l12-429` : สเปรย์ (ระงับกลิ่นกาย) (spray deodorant) : 1 meaning(s), 2 sentences
