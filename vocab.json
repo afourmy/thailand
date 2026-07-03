@@ -18005,6 +18005,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "main dishes (e.g fish, meat, not sweet)",
+        "sentences": [
+          {
+            "thai": "คนไทยกินอาหารคาวก่อนแล้วค่อยกินของหวาน",
+            "en": "Thai people eat the savory dishes first, then dessert.",
+            "audio_src": "คนไทยกินอาหารคาวก่อนแล้วค่อยกินของหวาน",
+            "audio_en_src": "Thai people eat the savory dishes first, then dessert."
+          },
+          {
+            "thai": "มื้อนี้มีอาหารคาวหลายอย่าง",
+            "en": "This meal has several savory dishes.",
+            "audio_src": "มื้อนี้มีอาหารคาวหลายอย่าง",
+            "audio_en_src": "This meal has several savory dishes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18133,6 +18152,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to pound, to grind",
+        "sentences": [
+          {
+            "thai": "ป่นพริกแห้งให้เป็นผง",
+            "en": "Grind the dried chilies into powder.",
+            "audio_src": "ป่นพริกแห้งให้เป็นผง",
+            "audio_en_src": "Grind the dried chilies into powder."
+          },
+          {
+            "thai": "เอาถั่วลิสงมาป่นโรยหน้า",
+            "en": "Grind some peanuts to sprinkle on top.",
+            "audio_src": "เอาถั่วลิสงมาป่นโรยหน้า",
+            "audio_en_src": "Grind some peanuts to sprinkle on top."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18145,6 +18183,25 @@
       "Chulalongkorn L6",
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "coriander",
+        "sentences": [
+          {
+            "thai": "โรยผักชีบนซุปให้สวย",
+            "en": "Sprinkle coriander on the soup to make it look nice.",
+            "audio_src": "โรยผักชีบนซุปให้สวย",
+            "audio_en_src": "Sprinkle coriander on the soup to make it look nice."
+          },
+          {
+            "thai": "บางคนไม่ชอบกลิ่นผักชี",
+            "en": "Some people don’t like the smell of coriander.",
+            "audio_src": "บางคนไม่ชอบกลิ่นผักชี",
+            "audio_en_src": "Some people don’t like the smell of coriander."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18156,6 +18213,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to dry-roast",
+        "sentences": [
+          {
+            "thai": "คั่วเมล็ดกาแฟให้หอม",
+            "en": "Roast the coffee beans until fragrant.",
+            "audio_src": "คั่วเมล็ดกาแฟให้หอม",
+            "audio_en_src": "Roast the coffee beans until fragrant."
+          },
+          {
+            "thai": "เอาถั่วไปคั่วในกระทะ",
+            "en": "Dry-roast the peanuts in a pan.",
+            "audio_src": "เอาถั่วไปคั่วในกระทะ",
+            "audio_en_src": "Dry-roast the peanuts in a pan."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18254,6 +18330,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to stew, to simmer, to reduce (barely boil until concentrated)",
+        "sentences": [
+          {
+            "thai": "เคี่ยวซุปกระดูกหมูหลายชั่วโมง",
+            "en": "Simmer the pork bone soup for several hours.",
+            "audio_src": "เคี่ยวซุปกระดูกหมูหลายชั่วโมง",
+            "audio_en_src": "Simmer the pork bone soup for several hours."
+          },
+          {
+            "thai": "เคี่ยวน้ำตาลจนข้น",
+            "en": "Reduce the sugar until it thickens.",
+            "audio_src": "เคี่ยวน้ำตาลจนข้น",
+            "audio_en_src": "Reduce the sugar until it thickens."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18382,6 +18477,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "extract (e.g from a plant)",
+        "sentences": [
+          {
+            "thai": "ครีมนี้มีสารสกัดจากว่านหางจระเข้",
+            "en": "This cream contains aloe vera extract.",
+            "audio_src": "ครีมนี้มีสารสกัดจากว่านหางจระเข้",
+            "audio_en_src": "This cream contains aloe vera extract."
+          },
+          {
+            "thai": "สารสกัดจากชาเขียวมีสารต้านอนุมูลอิสระ",
+            "en": "Green tea extract has antioxidants.",
+            "audio_src": "สารสกัดจากชาเขียวมีสารต้านอนุมูลอิสระ",
+            "audio_en_src": "Green tea extract has antioxidants."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18393,6 +18507,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "side-effects",
+        "sentences": [
+          {
+            "thai": "ยานี้อาจมีผลข้างเคียงทำให้ง่วง",
+            "en": "This medicine may have a side effect of drowsiness.",
+            "audio_src": "ยานี้อาจมีผลข้างเคียงทำให้ง่วง",
+            "audio_en_src": "This medicine may have a side effect of drowsiness."
+          },
+          {
+            "thai": "ก่อนกินยาควรอ่านผลข้างเคียง",
+            "en": "Before taking medicine you should read the side effects.",
+            "audio_src": "ก่อนกินยาควรอ่านผลข้างเคียง",
+            "audio_en_src": "Before taking medicine you should read the side effects."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18436,6 +18569,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "shallot",
+        "sentences": [
+          {
+            "thai": "ซอยหอมแดงใส่ในยำ",
+            "en": "Slice shallots into the spicy salad.",
+            "audio_src": "ซอยหอมแดงใส่ในยำ",
+            "audio_en_src": "Slice shallots into the spicy salad."
+          },
+          {
+            "thai": "หอมแดงเจียวหอมกรอบ",
+            "en": "Fried shallots are crispy and fragrant.",
+            "audio_src": "หอมแดงเจียวหอมกรอบ",
+            "audio_en_src": "Fried shallots are crispy and fragrant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18500,6 +18652,25 @@
       "Chulalongkorn L6",
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "blanched (briefly boiled)",
+        "sentences": [
+          {
+            "thai": "ลวกผักให้สุกแล้วจิ้มน้ำพริก",
+            "en": "Blanch the vegetables and dip them in chili paste.",
+            "audio_src": "ลวกผักให้สุกแล้วจิ้มน้ำพริก",
+            "audio_en_src": "Blanch the vegetables and dip them in chili paste."
+          },
+          {
+            "thai": "เส้นก๋วยเตี๋ยวลวกในน้ำเดือด",
+            "en": "The noodles are blanched in boiling water.",
+            "audio_src": "เส้นก๋วยเตี๋ยวลวกในน้ำเดือด",
+            "audio_en_src": "The noodles are blanched in boiling water."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18511,6 +18682,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to mix, to toss ingredients together",
+        "sentences": [
+          {
+            "thai": "คลุกข้าวกับไข่เจียวให้เข้ากัน",
+            "en": "Mix the rice together with the omelet.",
+            "audio_src": "คลุกข้าวกับไข่เจียวให้เข้ากัน",
+            "audio_en_src": "Mix the rice together with the omelet."
+          },
+          {
+            "thai": "คลุกเส้นกับน้ำซอสให้ทั่ว",
+            "en": "Toss the noodles thoroughly with the sauce.",
+            "audio_src": "คลุกเส้นกับน้ำซอสให้ทั่ว",
+            "audio_en_src": "Toss the noodles thoroughly with the sauce."
+          }
+        ]
+      }
     ]
   },
   {
