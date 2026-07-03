@@ -110,6 +110,13 @@ wlt-c03-071 ภายหลัง: eng 'later, afterward (formal)'
 wlt-c14-059 ล่วงหน้า: eng 'in advance, beforehand'
 yt-c12-028 ย้อนหลัง: eng 'after the fact, retroactively (e.g to send homework late, to wish a birthday late)'
 thaipod-0833 ระยะเวลา: eng 'period of time, time span'
+t4k-c03-084 บัญญัติ: eng 'to legislate, to enact (a law, a rule)'
+t4k-c05-053 ประมวล: eng 'to compile, to summarize, to collect (formal)'
+t4k-c09-020 เจ้าพนักงาน: eng 'public officer, government official'
+t4k-c10-008 เพิกถอน: eng 'to revoke, to withdraw, to cancel (formal)'
+t4k-c10-011 อุทธรณ์: eng 'to appeal, appeal'
+t4k-c10-023 ประมวลกฎหมาย: eng 'legal code (collection of laws)'
+t4k-c10-044 ผู้ว่า: eng 'governor'
 
 yt-c22-080 ไอ้สัตว์ๆ - อีสัตว์ๆ - สัตว์ๆ: make it two cards:
 'ไอ้สัตว์ๆ, อีสัตว์ๆ': 'you (among friends), fucker, bitch (male, female)'
@@ -177,6 +184,6 @@ yt-c14-079 หัวใส, หัวหมอ: split in two cards:
 หัวใส: 'clever, quick-witted, smart-thinking'
 หัวหมอ: 'cunning, sly, clever in a way that exploits loopholes'
 
-remove card: yt-c16-014 คถ (คิดถึง), yt-c16-015 ทร (ทำไร), yt-c16-016 พส (พี่สาว, เพื่อนสาว), yt-c16-017 อห (โอ้โห - อีเหี้ย, อีห่า), yt-c16-019 ชห, ฉห (ชิบหาย), yt-c16-020 วดฟ, yt-c16-021 กลป (กำลังไป), yt-c16-022 มปร, yt-c16-023 มมปห, yt-c16-024 มป (ไม่ไป), yt-c16-025 พน, yt-c16-027 ตปท (ต่างประเทศ), yt-c16-028 คหสต (ความคิดเห็นส่วนตัว), yt-c16-071 อย่ามาสะตอ, yt-c20-089 พ่อง (พ่อมึง), แม่ง (แม่มึง), yt-c22-052 หัวหมอ, thaipod-1296 เอาผิด
+remove card: yt-c16-014 คถ (คิดถึง), yt-c16-015 ทร (ทำไร), yt-c16-016 พส (พี่สาว, เพื่อนสาว), yt-c16-017 อห (โอ้โห - อีเหี้ย, อีห่า), yt-c16-019 ชห, ฉห (ชิบหาย), yt-c16-020 วดฟ, yt-c16-021 กลป (กำลังไป), yt-c16-022 มปร, yt-c16-023 มมปห, yt-c16-024 มป (ไม่ไป), yt-c16-025 พน, yt-c16-027 ตปท (ต่างประเทศ), yt-c16-028 คหสต (ความคิดเห็นส่วนตัว), yt-c16-071 อย่ามาสะตอ, yt-c20-089 พ่อง (พ่อมึง), แม่ง (แม่มึง), yt-c22-052 หัวหมอ, thaipod-1296 เอาผิด, t4k-c08-005 พนักงานเจ้าหน้าที่
 
 park card: yt-c21-076 แหกตา
