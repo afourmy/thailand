@@ -57,6 +57,11 @@ t4k-c10-051 บทเพลง: eng 'song, lyrics (formal)'
 t4k-c03-048 รำ: eng 'traditional dance, to perform Thai classical dance'
 t4k-c07-071 แบบแผน: eng 'pattern, model, convention (formal)'
 t4k-c08-003 นวนิยาย: eng 'novel, fiction'
+t4k-c04-092 สมรส: eng 'to marry, marriage'
+t4k-c05-047 คนรัก: eng 'lover, romantic partner'
+t4k-c06-038 เพื่อนฝูง: eng 'friends, group of friends'
+t4k-c03-027 ลูกหลาน: eng 'descendants, children and grandchildren, posterity'
+t4k-c09-057 ผู้เฒ่า: eng 'elder, old person (formal)'
 
 yt-c11-025 ฟ้าแลบ - ฟ้าร้อง - ฟ้าผ่า: make it 'ฟ้าแลบ': 'lightning flash (specifically the flash)'
 
@@ -93,4 +98,8 @@ yt-c22-085 ชิบหาย - ชิบหายวายวอด: split into
 ชิบหาย: '"...as fuck", "fucking...", screwed, fucked up (slang)'
 ชิบหายวายวอด: 'completely screwed, utterly destroyed, total annihilation (slang)'
 
-remove card: wlt-c19-010 มานาน, t4k-c01-095 ที่ผ่านมา, t4k-c03-008 กาลเวลา, t4k-c03-065 ครั้งนั้น, t4k-c06-023 วันเวลา, tamago-l12-344 ยางแบน, ยางรั่ว, yt-c08-070 คาดเข็มขัด, tobo-200 เจ้าสาว, wlt-c06-038 เจ้าบ่าว, wlt-c01-049 คนสุดท้าย, chula-l4-109 ลูกเขย, chula-l4-110 ลูกสะใภ้, t4k-c01-097 สยาม, t4k-c08-070 เรื่องสั้น, wlt-c15-014 อีสาน, wlt-c08-003 พุทธศักราช (พ.ศ.), yt-c17-072 สยามเมืองยิ้ม, wlt-c04-021 ร้อนอบอ้าว, yt-c18-075 คันเร่ง - เบรก, wlt-c18-080 บีทีเอส, wlt-c19-067 ห้าแยก, wlt-c19-028 รถธรรมดา, yt-c07-072 พื้นบ้าน
+remove card: wlt-c19-010 มานาน, t4k-c01-095 ที่ผ่านมา, t4k-c03-008 กาลเวลา, t4k-c03-065 ครั้งนั้น, t4k-c06-023 วันเวลา, tamago-l12-344 ยางแบน, ยางรั่ว, yt-c08-070 คาดเข็มขัด, tobo-200 เจ้าสาว, wlt-c06-038 เจ้าบ่าว, wlt-c01-049 คนสุดท้าย, chula-l4-109 ลูกเขย, chula-l4-110 ลูกสะใภ้, t4k-c01-097 สยาม, t4k-c08-070 เรื่องสั้น, wlt-c15-014 อีสาน, wlt-c08-003 พุทธศักราช (พ.ศ.), yt-c17-072 สยามเมืองยิ้ม, wlt-c04-021 ร้อนอบอ้าว, yt-c18-075 คันเร่ง - เบรก, wlt-c18-080 บีทีเอส, wlt-c19-067 ห้าแยก, wlt-c19-028 รถธรรมดา, yt-c07-072 พื้นบ้าน, wlt-c08-063 ยายทวด, wlt-c19-015 มีลูก, t4k-c08-021 พี่เลี้ยง
+
+add card:
+'เขย': 'in-law (male)'
+'น้องสะใภ้, พี่สะใภ้': 'sister-in-law'
