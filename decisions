@@ -15,7 +15,18 @@ chula-l5-398 รถประจำทาง: eng 'public bus'
 tamago-l12-354 รถบรรทุก: eng 'truck, cargo vehicle'
 tamago-l12-355 รถบัส: eng 'bus'
 thaipod-0138 ขึ้นบิน: eng 'to take off (plane)'
+yt-c04-080 ราง: eng 'track, rail'
+yt-c04-020 ปาดหน้า: eng 'to cut in line, to cut in front, to overtake in a dangerous way (in traffic when driving)'
+yt-c04-085 รัดเข็มขัด: eng 'to tighten a belt'
+yt-c06-055 นั่งซ้อนท้าย: eng 'to ride as a passenger on the back of a motosai'
 
+
+
+yt-c07-014 สถานีขนส่งผู้โดยสาร, บขส: make it 'สถานีขนส่งผู้โดยสาร (บขส)': 'passenger bus terminal'
+
+yt-c07-033 ยางรั่ว - ยางแบน: split into two cards:
+ยางรั่ว: 'tire leak'
+ยางแบน: 'flat tire'
 
 สะเออะ, สะเหล่อ: split into two cards:
 สะเออะ: 'to overstep one's place, to shamelessly butt in, to have the nerve to do something'
@@ -25,4 +36,4 @@ yt-c22-085 ชิบหาย - ชิบหายวายวอด: split into
 ชิบหาย: '"...as fuck", "fucking...", screwed, fucked up (slang)'
 ชิบหายวายวอด: 'completely screwed, utterly destroyed, total annihilation (slang)'
 
-remove card: wlt-c19-010 มานาน, t4k-c01-095 ที่ผ่านมา, t4k-c03-008 กาลเวลา, t4k-c03-065 ครั้งนั้น, t4k-c06-023 วันเวลา
+remove card: wlt-c19-010 มานาน, t4k-c01-095 ที่ผ่านมา, t4k-c03-008 กาลเวลา, t4k-c03-065 ครั้งนั้น, t4k-c06-023 วันเวลา, tamago-l12-344 ยางแบน, ยางรั่ว
