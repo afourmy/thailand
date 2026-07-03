@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4093 words**
+**Total: 4103 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -308,14 +308,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-021` : ฝ่าย (team, group, side) : 1 meaning(s), 2 sentences
 - `chula-l6-022` : นิสิต (university student) : 1 meaning(s), 2 sentences
 - `chula-l6-024` : เน้น, มุ่งเน้น (to focus on, to emphasize) : 1 meaning(s), 2 sentences
+- `chula-l6-030` : กรรม (object (what comes after the verb in Thai grammar); karma) : 2 meaning(s), 4 sentences
 - `chula-l6-039` : แต่งตั้ง (to appoint, to nominate) : 1 meaning(s), 2 sentences
 - `chula-l6-040` : แทรก, สอดแทรก (to insert, interject, slip in) : 1 meaning(s), 2 sentences
 - `chula-l6-042` : สวน (park, garden; against, in the opposite direction) : 2 meaning(s), 4 sentences
+- `chula-l6-043` : เอะอะ (to make a fuss, to react too quickly, without a reason) : 1 meaning(s), 2 sentences
+- `chula-l6-047` : รู้สึกดิ่ง, รู้สึกจม (to feel down, overwhelmed, to feel like sinking) : 1 meaning(s), 2 sentences
 - `chula-l6-048` : เนื้องาน (job description, actual content or tasks of the work) : 1 meaning(s), 2 sentences
 - `chula-l6-051` : น้ำเสียง (tone of voice (e.g polite, angry, etc)) : 1 meaning(s), 2 sentences
+- `chula-l6-052` : ขี้รำคาญ (easily annoyed, irritable) : 1 meaning(s), 2 sentences
+- `chula-l6-053` : อีกทั้ง (moreover, furthermore) : 1 meaning(s), 2 sentences
 - `chula-l6-055` : สมดุล (balance) : 1 meaning(s), 2 sentences
 - `chula-l6-056` : ศักยภาพ (potential, capability) : 1 meaning(s), 2 sentences
+- `chula-l6-058` : วินัย ((personal) discipline) : 1 meaning(s), 2 sentences
+- `chula-l6-059` : ยืดหยุ่น (flexible, adaptable) : 1 meaning(s), 2 sentences
+- `chula-l6-060` : เชื่อมั่น (to have confidence in, to trust firmly) : 1 meaning(s), 2 sentences
+- `chula-l6-061` : ผู้ร้าย (culprit, criminal) : 1 meaning(s), 2 sentences
 - `chula-l6-062` : มหาศาล (huge, colossal) : 1 meaning(s), 2 sentences
+- `chula-l6-063` : มหาสมุทร (ocean) : 1 meaning(s), 2 sentences
 - `chula-l6-066` : ตระหนัก (to be aware of, to realize) : 1 meaning(s), 2 sentences
 - `chula-l6-067` : เฉลี่ย (average) : 1 meaning(s), 2 sentences
 - `chula-l6-068` : ติดอันดับ (to be ranked) : 1 meaning(s), 2 sentences

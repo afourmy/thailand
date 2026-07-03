@@ -13565,6 +13565,42 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "object (what comes after the verb in Thai grammar)",
+        "sentences": [
+          {
+            "thai": "ในประโยคนี้ กรรมคือคำว่าหนังสือ",
+            "en": "In this sentence, the object is the word ‘book’.",
+            "audio_src": "ในประโยคนี้ กรรมคือคำว่าหนังสือ",
+            "audio_en_src": "In this sentence, the object is the word ‘book’."
+          },
+          {
+            "thai": "ประโยคนี้ไม่มีกรรม",
+            "en": "This sentence has no object.",
+            "audio_src": "ประโยคนี้ไม่มีกรรม",
+            "audio_en_src": "This sentence has no object."
+          }
+        ]
+      },
+      {
+        "meaning": "karma",
+        "sentences": [
+          {
+            "thai": "เชื่อว่าทุกอย่างเป็นเรื่องของกรรม",
+            "en": "They believe everything comes down to karma.",
+            "audio_src": "เชื่อว่าทุกอย่างเป็นเรื่องของกรรม",
+            "audio_en_src": "They believe everything comes down to karma."
+          },
+          {
+            "thai": "ชาตินี้ลำบากเพราะกรรมเก่า",
+            "en": "This life is hard because of past karma.",
+            "audio_src": "ชาตินี้ลำบากเพราะกรรมเก่า",
+            "audio_en_src": "This life is hard because of past karma."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13785,6 +13821,25 @@
     "topic": "personality",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to make a fuss, to react too quickly, without a reason",
+        "sentences": [
+          {
+            "thai": "เอะอะก็โทษคนอื่น",
+            "en": "He blames others at the drop of a hat.",
+            "audio_src": "เอะอะก็โทษคนอื่น",
+            "audio_en_src": "He blames others at the drop of a hat."
+          },
+          {
+            "thai": "เอะอะก็ร้องไห้",
+            "en": "She cries at the slightest thing.",
+            "audio_src": "เอะอะก็ร้องไห้",
+            "audio_en_src": "She cries at the slightest thing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13826,6 +13881,25 @@
     "topic": "emotions",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel down, overwhelmed, to feel like sinking",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้รู้สึกดิ่ง ไม่อยากทำอะไรเลย",
+            "en": "Lately I’ve felt really down, I don’t want to do anything.",
+            "audio_src": "ช่วงนี้รู้สึกดิ่ง ไม่อยากทำอะไรเลย",
+            "audio_en_src": "Lately I’ve felt really down, I don’t want to do anything."
+          },
+          {
+            "thai": "งานเยอะจนรู้สึกจม",
+            "en": "There’s so much work I feel like I’m drowning.",
+            "audio_src": "งานเยอะจนรู้สึกจม",
+            "audio_en_src": "There’s so much work I feel like I’m drowning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13920,6 +13994,25 @@
     "topic": "personality",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "easily annoyed, irritable",
+        "sentences": [
+          {
+            "thai": "พอง่วงนอนเธอจะขี้รำคาญ",
+            "en": "When she’s sleepy she gets irritable.",
+            "audio_src": "พอง่วงนอนเธอจะขี้รำคาญ",
+            "audio_en_src": "When she’s sleepy she gets irritable."
+          },
+          {
+            "thai": "เขาขี้รำคาญเวลามีคนมากวน",
+            "en": "He gets annoyed easily when people bother him.",
+            "audio_src": "เขาขี้รำคาญเวลามีคนมากวน",
+            "audio_en_src": "He gets annoyed easily when people bother him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13931,6 +14024,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "moreover, furthermore",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้สวย อีกทั้งราคาไม่แพง",
+            "en": "This house is beautiful; moreover, it’s not expensive.",
+            "audio_src": "บ้านหลังนี้สวย อีกทั้งราคาไม่แพง",
+            "audio_en_src": "This house is beautiful; moreover, it’s not expensive."
+          },
+          {
+            "thai": "เขาเก่ง อีกทั้งขยันมาก",
+            "en": "He’s talented, and what’s more, very hardworking.",
+            "audio_src": "เขาเก่ง อีกทั้งขยันมาก",
+            "audio_en_src": "He’s talented, and what’s more, very hardworking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14031,6 +14143,25 @@
       "Chulalongkorn L6",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "(personal) discipline",
+        "sentences": [
+          {
+            "thai": "การมีวินัยช่วยให้ประสบความสำเร็จ",
+            "en": "Having discipline helps you succeed.",
+            "audio_src": "การมีวินัยช่วยให้ประสบความสำเร็จ",
+            "audio_en_src": "Having discipline helps you succeed."
+          },
+          {
+            "thai": "เด็กควรมีวินัยตั้งแต่เล็ก",
+            "en": "Children should have discipline from a young age.",
+            "audio_src": "เด็กควรมีวินัยตั้งแต่เล็ก",
+            "audio_en_src": "Children should have discipline from a young age."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14043,6 +14174,25 @@
       "Chulalongkorn L6",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "flexible, adaptable",
+        "sentences": [
+          {
+            "thai": "เวลาทำงานที่นี่ยืดหยุ่นได้",
+            "en": "The working hours here are flexible.",
+            "audio_src": "เวลาทำงานที่นี่ยืดหยุ่นได้",
+            "audio_en_src": "The working hours here are flexible."
+          },
+          {
+            "thai": "เขาเป็นคนยืดหยุ่น ปรับตัวเก่ง",
+            "en": "He’s flexible and adapts well.",
+            "audio_src": "เขาเป็นคนยืดหยุ่น ปรับตัวเก่ง",
+            "audio_en_src": "He’s flexible and adapts well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14054,6 +14204,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to have confidence in, to trust firmly",
+        "sentences": [
+          {
+            "thai": "ฉันเชื่อมั่นในตัวเธอ",
+            "en": "I have confidence in you.",
+            "audio_src": "ฉันเชื่อมั่นในตัวเธอ",
+            "audio_en_src": "I have confidence in you."
+          },
+          {
+            "thai": "เขาเชื่อมั่นว่าจะสำเร็จ",
+            "en": "He’s confident he’ll succeed.",
+            "audio_src": "เขาเชื่อมั่นว่าจะสำเร็จ",
+            "audio_en_src": "He’s confident he’ll succeed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14065,6 +14234,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "culprit, criminal",
+        "sentences": [
+          {
+            "thai": "ตำรวจตามจับผู้ร้าย",
+            "en": "The police are after the culprit.",
+            "audio_src": "ตำรวจตามจับผู้ร้าย",
+            "audio_en_src": "The police are after the culprit."
+          },
+          {
+            "thai": "ผู้ร้ายหนีไปแล้ว",
+            "en": "The criminal has fled.",
+            "audio_src": "ผู้ร้ายหนีไปแล้ว",
+            "audio_en_src": "The criminal has fled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14110,6 +14298,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ocean",
+        "sentences": [
+          {
+            "thai": "มหาสมุทรแปซิฟิกใหญ่ที่สุดในโลก",
+            "en": "The Pacific Ocean is the largest in the world.",
+            "audio_src": "มหาสมุทรแปซิฟิกใหญ่ที่สุดในโลก",
+            "audio_en_src": "The Pacific Ocean is the largest in the world."
+          },
+          {
+            "thai": "ปลาวาฬอาศัยอยู่ในมหาสมุทร",
+            "en": "Whales live in the ocean.",
+            "audio_src": "ปลาวาฬอาศัยอยู่ในมหาสมุทร",
+            "audio_en_src": "Whales live in the ocean."
+          }
+        ]
+      }
     ]
   },
   {
