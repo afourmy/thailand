@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4313 words**
+**Total: 4323 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -880,8 +880,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-545` : เผาผลาญ (to burn (calories, energy, money)) : 1 meaning(s), 2 sentences
 - `tamago-l12-546` : เฝ้า (to guard, to watch over) : 1 meaning(s), 2 sentences
 - `tamago-l12-547` : เพราะ (because; beautiful (for sounds e.g music, voice)) : 2 meaning(s), 4 sentences
+- `tamago-l12-549` : เพียงแต่ ("it's just that...") : 1 meaning(s), 2 sentences
+- `tamago-l12-550` : เมฆ (cloud) : 1 meaning(s), 2 sentences
 - `tamago-l12-551` : เมื่อกี้, เมื่อกี้นี้, เมื่อตะกี้นี้ (just now, a moment ago) : 1 meaning(s), 2 sentences
 - `tamago-l12-552` : เมื่อย (sore, achy (from physical fatigue)) : 1 meaning(s), 2 sentences
+- `tamago-l12-555` : เรือข้ามฟาก (ferry) : 1 meaning(s), 2 sentences
+- `tamago-l12-558` : เลือดออก, เลือดไหล (to bleed) : 1 meaning(s), 2 sentences
 - `tamago-l12-559` : เล่ม (classifier for books) : 1 meaning(s), 2 sentences
 - `tamago-l12-560` : เวที (stage, platform) : 1 meaning(s), 2 sentences
 - `tamago-l12-563` : เศร้า (sad (extended/deep sadness)) : 1 meaning(s), 2 sentences
@@ -893,10 +897,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-572` : เสื้อสูท (suit jacket) : 1 meaning(s), 2 sentences
 - `tamago-l12-575` : เหยือก (jug, pitcher) : 1 meaning(s), 2 sentences
 - `tamago-l12-576` : เหรียญ (coin) : 1 meaning(s), 2 sentences
+- `tamago-l12-577` : เหล็กดัดฟัน (braces (dental)) : 1 meaning(s), 2 sentences
+- `tamago-l12-580` : เห็นอกเห็นใจ (to sympathize, to empathize) : 1 meaning(s), 2 sentences
 - `tamago-l12-581` : เอาคืน (to get something back; (figuratively) to take revenge) : 2 meaning(s), 4 sentences
 - `tamago-l12-582` : เอาน่า ("come on!", "let's do it!" (persuade or encourage)) : 1 meaning(s), 2 sentences
 - `tamago-l12-583` : เอาใหม่ ("try again", "do it again") : 1 meaning(s), 2 sentences
 - `tamago-l12-584` : เอื้อมถึง (to be able to reach (literally or figuratively)) : 1 meaning(s), 2 sentences
+- `tamago-l12-585` : แค่นี้ก่อน ("that's all for now") : 1 meaning(s), 2 sentences
 - `tamago-l12-586` : แจก (to give away, to distribute) : 1 meaning(s), 2 sentences
 - `tamago-l12-587` : แจกัน (vase) : 1 meaning(s), 2 sentences
 - `tamago-l12-588` : แจ้ง (to inform, notify, file a report) : 1 meaning(s), 2 sentences
@@ -906,6 +913,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-594` : แปลกใจ (surprised) : 1 meaning(s), 2 sentences
 - `tamago-l12-595` : แป้ง (powder; flour, starch) : 2 meaning(s), 4 sentences
 - `tamago-l12-597` : แผง (stall, booth; blister pack (e.g pills); panel, board) : 3 meaning(s), 6 sentences
+- `tamago-l12-600` : แมงกะพรุน (jellyfish) : 1 meaning(s), 2 sentences
+- `tamago-l12-604` : แม่ลูกอ่อน (young mother, mother with a newborn) : 1 meaning(s), 2 sentences
+- `tamago-l12-605` : แม้กระทั่ง (even, even including) : 1 meaning(s), 2 sentences
 - `tamago-l12-607` : แล้วไง ("and?", "so what?") : 1 meaning(s), 2 sentences
 - `tamago-l12-608` : แหวน (ring (jewelry)) : 1 meaning(s), 2 sentences
 - `tamago-l12-610` : แอบมอง (to spy on, to watch secretly) : 1 meaning(s), 2 sentences

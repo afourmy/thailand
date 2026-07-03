@@ -35317,6 +35317,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"it's just that...\"",
+        "sentences": [
+          {
+            "thai": "เขาไม่ได้เกลียดเธอ เพียงแต่ยังไม่พร้อม",
+            "en": "He doesn’t hate you, it’s just that he’s not ready.",
+            "audio_src": "เขาไม่ได้เกลียดเธอ เพียงแต่ยังไม่พร้อม",
+            "audio_en_src": "He doesn’t hate you, it’s just that he’s not ready."
+          },
+          {
+            "thai": "ฉันอยากไป เพียงแต่ไม่มีเวลา",
+            "en": "I want to go, it’s just that I don’t have time.",
+            "audio_src": "ฉันอยากไป เพียงแต่ไม่มีเวลา",
+            "audio_en_src": "I want to go, it’s just that I don’t have time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35330,6 +35349,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cloud",
+        "sentences": [
+          {
+            "thai": "วันนี้ท้องฟ้ามีเมฆมาก",
+            "en": "The sky is very cloudy today.",
+            "audio_src": "วันนี้ท้องฟ้ามีเมฆมาก",
+            "audio_en_src": "The sky is very cloudy today."
+          },
+          {
+            "thai": "เมฆดำลอยมาน่าจะฝนตก",
+            "en": "Dark clouds are moving in, it’ll probably rain.",
+            "audio_src": "เมฆดำลอยมาน่าจะฝนตก",
+            "audio_en_src": "Dark clouds are moving in, it’ll probably rain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35419,6 +35457,25 @@
     "topic": "transport",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "ferry",
+        "sentences": [
+          {
+            "thai": "เรานั่งเรือข้ามฟากไปอีกฝั่งแม่น้ำ",
+            "en": "We took the ferry to the other side of the river.",
+            "audio_src": "เรานั่งเรือข้ามฟากไปอีกฝั่งแม่น้ำ",
+            "audio_en_src": "We took the ferry to the other side of the river."
+          },
+          {
+            "thai": "เรือข้ามฟากออกทุกสิบนาที",
+            "en": "The ferry leaves every ten minutes.",
+            "audio_src": "เรือข้ามฟากออกทุกสิบนาที",
+            "audio_en_src": "The ferry leaves every ten minutes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35449,6 +35506,25 @@
     "topic": "health",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to bleed",
+        "sentences": [
+          {
+            "thai": "มีดบาดนิ้วจนเลือดออก",
+            "en": "The knife cut my finger and it bled.",
+            "audio_src": "มีดบาดนิ้วจนเลือดออก",
+            "audio_en_src": "The knife cut my finger and it bled."
+          },
+          {
+            "thai": "เขาหกล้มหัวเข่าเลือดไหล",
+            "en": "He fell and his knee was bleeding.",
+            "audio_src": "เขาหกล้มหัวเข่าเลือดไหล",
+            "audio_en_src": "He fell and his knee was bleeding."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35918,6 +35994,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "braces (dental)",
+        "sentences": [
+          {
+            "thai": "เธอจัดฟันใส่เหล็กดัดฟันมาสองปี",
+            "en": "She’s had braces on for two years.",
+            "audio_src": "เธอจัดฟันใส่เหล็กดัดฟันมาสองปี",
+            "audio_en_src": "She’s had braces on for two years."
+          },
+          {
+            "thai": "ช่วงแรกที่ใส่เหล็กดัดฟันจะเจ็บนิดหน่อย",
+            "en": "It hurts a little at first when you get braces.",
+            "audio_src": "ช่วงแรกที่ใส่เหล็กดัดฟันจะเจ็บนิดหน่อย",
+            "audio_en_src": "It hurts a little at first when you get braces."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35948,6 +36043,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to sympathize, to empathize",
+        "sentences": [
+          {
+            "thai": "เธอเห็นอกเห็นใจคนที่ลำบาก",
+            "en": "She sympathizes with people who are struggling.",
+            "audio_src": "เธอเห็นอกเห็นใจคนที่ลำบาก",
+            "audio_en_src": "She sympathizes with people who are struggling."
+          },
+          {
+            "thai": "เขาเป็นคนเห็นอกเห็นใจผู้อื่นเสมอ",
+            "en": "He’s always empathetic toward others.",
+            "audio_src": "เขาเป็นคนเห็นอกเห็นใจผู้อื่นเสมอ",
+            "audio_en_src": "He’s always empathetic toward others."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36104,6 +36218,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"that's all for now\"",
+        "sentences": [
+          {
+            "thai": "เอาแค่นี้ก่อนนะ เดี๋ยวโทรกลับ",
+            "en": "That’s all for now, I’ll call you back.",
+            "audio_src": "เอาแค่นี้ก่อนนะ เดี๋ยวโทรกลับ",
+            "audio_en_src": "That’s all for now, I’ll call you back."
+          },
+          {
+            "thai": "วันนี้คุยแค่นี้ก่อน ไว้เจอกันใหม่",
+            "en": "Let’s talk this much for now, see you next time.",
+            "audio_src": "วันนี้คุยแค่นี้ก่อน ไว้เจอกันใหม่",
+            "audio_en_src": "Let’s talk this much for now, see you next time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36518,6 +36651,25 @@
     "topic": "nature",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "jellyfish",
+        "sentences": [
+          {
+            "thai": "ระวังแมงกะพรุนตอนเล่นน้ำทะเล",
+            "en": "Watch out for jellyfish when swimming in the sea.",
+            "audio_src": "ระวังแมงกะพรุนตอนเล่นน้ำทะเล",
+            "audio_en_src": "Watch out for jellyfish when swimming in the sea."
+          },
+          {
+            "thai": "แมงกะพรุนบางชนิดมีพิษ",
+            "en": "Some jellyfish are venomous.",
+            "audio_src": "แมงกะพรุนบางชนิดมีพิษ",
+            "audio_en_src": "Some jellyfish are venomous."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36558,6 +36710,25 @@
     "topic": "family",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "young mother, mother with a newborn",
+        "sentences": [
+          {
+            "thai": "แม่ลูกอ่อนมักอดนอนเพราะต้องดูแลลูก",
+            "en": "Mothers with newborns often lose sleep caring for the baby.",
+            "audio_src": "แม่ลูกอ่อนมักอดนอนเพราะต้องดูแลลูก",
+            "audio_en_src": "Mothers with newborns often lose sleep caring for the baby."
+          },
+          {
+            "thai": "ที่ทำงานมีห้องให้แม่ลูกอ่อนปั๊มนม",
+            "en": "The workplace has a room for new mothers to pump milk.",
+            "audio_src": "ที่ทำงานมีห้องให้แม่ลูกอ่อนปั๊มนม",
+            "audio_en_src": "The workplace has a room for new mothers to pump milk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36570,6 +36741,25 @@
       "Tamago L1-2",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "even, even including",
+        "sentences": [
+          {
+            "thai": "เขายุ่งจนแม้กระทั่งกินข้าวยังไม่มีเวลา",
+            "en": "He’s so busy he doesn’t even have time to eat.",
+            "audio_src": "เขายุ่งจนแม้กระทั่งกินข้าวยังไม่มีเวลา",
+            "audio_en_src": "He’s so busy he doesn’t even have time to eat."
+          },
+          {
+            "thai": "ทุกคนมางาน แม้กระทั่งคนที่ไม่ค่อยมา",
+            "en": "Everyone came, even the people who rarely show up.",
+            "audio_src": "ทุกคนมางาน แม้กระทั่งคนที่ไม่ค่อยมา",
+            "audio_en_src": "Everyone came, even the people who rarely show up."
+          }
+        ]
+      }
     ]
   },
   {
