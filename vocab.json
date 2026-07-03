@@ -8718,6 +8718,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "virus",
+        "sentences": [
+          {
+            "thai": "ไวรัสตัวนี้แพร่เร็วมาก",
+            "en": "This virus spreads very fast.",
+            "audio_src": "ไวรัสตัวนี้แพร่เร็วมาก",
+            "audio_en_src": "This virus spreads very fast."
+          },
+          {
+            "thai": "เขาติดไวรัสจากคนในบ้าน",
+            "en": "He caught the virus from someone at home.",
+            "audio_src": "เขาติดไวรัสจากคนในบ้าน",
+            "audio_en_src": "He caught the virus from someone at home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8728,6 +8747,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "loss of appetite",
+        "sentences": [
+          {
+            "thai": "ช่วงป่วยเขาเบื่ออาหาร",
+            "en": "He lost his appetite while he was sick.",
+            "audio_src": "ช่วงป่วยเขาเบื่ออาหาร",
+            "audio_en_src": "He lost his appetite while he was sick."
+          },
+          {
+            "thai": "ถ้าเบื่ออาหารหลายวันควรไปหาหมอ",
+            "en": "If you have no appetite for several days, you should see a doctor.",
+            "audio_src": "ถ้าเบื่ออาหารหลายวันควรไปหาหมอ",
+            "audio_en_src": "If you have no appetite for several days, you should see a doctor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8887,6 +8925,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "mental health",
+        "sentences": [
+          {
+            "thai": "การออกกำลังกายดีต่อสุขภาพจิต",
+            "en": "Exercise is good for your mental health.",
+            "audio_src": "การออกกำลังกายดีต่อสุขภาพจิต",
+            "audio_en_src": "Exercise is good for your mental health."
+          },
+          {
+            "thai": "เดี๋ยวนี้คนใส่ใจสุขภาพจิตมากขึ้น",
+            "en": "These days people care more about mental health.",
+            "audio_src": "เดี๋ยวนี้คนใส่ใจสุขภาพจิตมากขึ้น",
+            "audio_en_src": "These days people care more about mental health."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9104,6 +9161,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "weather forecast",
+        "sentences": [
+          {
+            "thai": "พยากรณ์อากาศบอกว่าพรุ่งนี้ฝนตก",
+            "en": "The weather forecast says it’ll rain tomorrow.",
+            "audio_src": "พยากรณ์อากาศบอกว่าพรุ่งนี้ฝนตก",
+            "audio_en_src": "The weather forecast says it’ll rain tomorrow."
+          },
+          {
+            "thai": "ก่อนเดินทางควรเช็คพยากรณ์อากาศ",
+            "en": "You should check the weather forecast before traveling.",
+            "audio_src": "ก่อนเดินทางควรเช็คพยากรณ์อากาศ",
+            "audio_en_src": "You should check the weather forecast before traveling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9126,6 +9202,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "storm",
+        "sentences": [
+          {
+            "thai": "คืนนี้จะมีพายุเข้า",
+            "en": "A storm is coming tonight.",
+            "audio_src": "คืนนี้จะมีพายุเข้า",
+            "audio_en_src": "A storm is coming tonight."
+          },
+          {
+            "thai": "พายุทำให้ต้นไม้ล้มหลายต้น",
+            "en": "The storm knocked down several trees.",
+            "audio_src": "พายุทำให้ต้นไม้ล้มหลายต้น",
+            "audio_en_src": "The storm knocked down several trees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9149,6 +9244,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bored, fed up, feeling blue",
+        "sentences": [
+          {
+            "thai": "วันนี้ฝนตกทั้งวัน เซ็งเลย",
+            "en": "It rained all day, so annoying.",
+            "audio_src": "วันนี้ฝนตกทั้งวัน เซ็งเลย",
+            "audio_en_src": "It rained all day, so annoying."
+          },
+          {
+            "thai": "เขาเซ็งที่สอบไม่ผ่าน",
+            "en": "He’s bummed that he failed the exam.",
+            "audio_src": "เขาเซ็งที่สอบไม่ผ่าน",
+            "audio_en_src": "He’s bummed that he failed the exam."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9307,6 +9421,42 @@
       "Tamago L3",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wave",
+        "sentences": [
+          {
+            "thai": "คลื่นทะเลวันนี้แรงมาก",
+            "en": "The waves are really strong today.",
+            "audio_src": "คลื่นทะเลวันนี้แรงมาก",
+            "audio_en_src": "The waves are really strong today."
+          },
+          {
+            "thai": "เด็กวิ่งเล่นกับคลื่นริมหาด",
+            "en": "The kids play in the waves at the beach.",
+            "audio_src": "เด็กวิ่งเล่นกับคลื่นริมหาด",
+            "audio_en_src": "The kids play in the waves at the beach."
+          }
+        ]
+      },
+      {
+        "meaning": "radio channel, frequency",
+        "sentences": [
+          {
+            "thai": "ผมชอบฟังวิทยุคลื่นนี้",
+            "en": "I like listening to this radio station.",
+            "audio_src": "ผมชอบฟังวิทยุคลื่นนี้",
+            "audio_en_src": "I like listening to this radio station."
+          },
+          {
+            "thai": "ปรับคลื่นวิทยุให้ชัดหน่อย",
+            "en": "Tune the radio frequency so it’s clearer.",
+            "audio_src": "ปรับคลื่นวิทยุให้ชัดหน่อย",
+            "audio_en_src": "Tune the radio frequency so it’s clearer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9320,6 +9470,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "quite, rather, relatively",
+        "sentences": [
+          {
+            "thai": "วันนี้อากาศค่อนข้างเย็น",
+            "en": "It’s rather cold today.",
+            "audio_src": "วันนี้อากาศค่อนข้างเย็น",
+            "audio_en_src": "It’s rather cold today."
+          },
+          {
+            "thai": "ข้อสอบค่อนข้างยาก",
+            "en": "The exam was quite hard.",
+            "audio_src": "ข้อสอบค่อนข้างยาก",
+            "audio_en_src": "The exam was quite hard."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9330,6 +9499,25 @@
     "topic": "weather",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "stuffy, hot and humid",
+        "sentences": [
+          {
+            "thai": "อากาศวันนี้อบอ้าวมาก",
+            "en": "The weather is really muggy today.",
+            "audio_src": "อากาศวันนี้อบอ้าวมาก",
+            "audio_en_src": "The weather is really muggy today."
+          },
+          {
+            "thai": "ในห้องอบอ้าว เปิดหน้าต่างหน่อย",
+            "en": "It’s stuffy in the room, open a window.",
+            "audio_src": "ในห้องอบอ้าว เปิดหน้าต่างหน่อย",
+            "audio_en_src": "It’s stuffy in the room, open a window."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9426,6 +9614,25 @@
     "topic": "expressions",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "in conclusion",
+        "sentences": [
+          {
+            "thai": "สรุปแล้วเราจะไปหรือไม่ไป",
+            "en": "So in the end, are we going or not?",
+            "audio_src": "สรุปแล้วเราจะไปหรือไม่ไป",
+            "audio_en_src": "So in the end, are we going or not?"
+          },
+          {
+            "thai": "สรุปแล้วทุกคนเห็นด้วยกับแผนนี้",
+            "en": "In conclusion, everyone agrees with this plan.",
+            "audio_src": "สรุปแล้วทุกคนเห็นด้วยกับแผนนี้",
+            "audio_en_src": "In conclusion, everyone agrees with this plan."
+          }
+        ]
+      }
     ]
   },
   {
