@@ -5301,6 +5301,25 @@
       "Tobo Deck",
       "Thai 4000",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "method of verification, instrument of proof (formal)",
+        "sentences": [
+          {
+            "thai": "แหวนวงนี้เป็นเครื่องพิสูจน์ความรักของเขา",
+            "en": "This ring is proof of his love.",
+            "audio_src": "แหวนวงนี้เป็นเครื่องพิสูจน์ความรักของเขา",
+            "audio_en_src": "This ring is proof of his love."
+          },
+          {
+            "thai": "เวลาจะเป็นเครื่องพิสูจน์ว่าใครถูก",
+            "en": "Time will prove who was right.",
+            "audio_src": "เวลาจะเป็นเครื่องพิสูจน์ว่าใครถูก",
+            "audio_en_src": "Time will prove who was right."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5469,6 +5488,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "chin",
+        "sentences": [
+          {
+            "thai": "เขามีเคราที่คาง",
+            "en": "He has a beard on his chin.",
+            "audio_src": "เขามีเคราที่คาง",
+            "audio_en_src": "He has a beard on his chin."
+          },
+          {
+            "thai": "เธอเอามือเท้าคาง",
+            "en": "She rested her chin on her hand.",
+            "audio_src": "เธอเอามือเท้าคาง",
+            "audio_en_src": "She rested her chin on her hand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5579,6 +5617,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "trade, commerce",
+        "sentences": [
+          {
+            "thai": "ครอบครัวเขาค้าขายมานาน",
+            "en": "His family has been in business for a long time.",
+            "audio_src": "ครอบครัวเขาค้าขายมานาน",
+            "audio_en_src": "His family has been in business for a long time."
+          },
+          {
+            "thai": "เธอค้าขายเสื้อผ้าออนไลน์",
+            "en": "She sells clothes online.",
+            "audio_src": "เธอค้าขายเสื้อผ้าออนไลน์",
+            "audio_en_src": "She sells clothes online."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5612,6 +5669,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "crime",
+        "sentences": [
+          {
+            "thai": "เมืองนี้มีอาชญากรรมสูง",
+            "en": "This city has a high crime rate.",
+            "audio_src": "เมืองนี้มีอาชญากรรมสูง",
+            "audio_en_src": "This city has a high crime rate."
+          },
+          {
+            "thai": "ตำรวจพยายามลดอาชญากรรม",
+            "en": "The police are trying to reduce crime.",
+            "audio_src": "ตำรวจพยายามลดอาชญากรรม",
+            "audio_en_src": "The police are trying to reduce crime."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5677,6 +5753,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "court, tribunal",
+        "sentences": [
+          {
+            "thai": "คดีนี้ต้องขึ้นศาล",
+            "en": "This case has to go to court.",
+            "audio_src": "คดีนี้ต้องขึ้นศาล",
+            "audio_en_src": "This case has to go to court."
+          },
+          {
+            "thai": "ศาลนัดฟังคำตัดสินพรุ่งนี้",
+            "en": "The court will read the verdict tomorrow.",
+            "audio_src": "ศาลนัดฟังคำตัดสินพรุ่งนี้",
+            "audio_en_src": "The court will read the verdict tomorrow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5752,6 +5847,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "resources",
+        "sentences": [
+          {
+            "thai": "ประเทศเรามีทรัพยากรธรรมชาติมาก",
+            "en": "Our country has abundant natural resources.",
+            "audio_src": "ประเทศเรามีทรัพยากรธรรมชาติมาก",
+            "audio_en_src": "Our country has abundant natural resources."
+          },
+          {
+            "thai": "เราต้องใช้ทรัพยากรอย่างประหยัด",
+            "en": "We have to use our resources sparingly.",
+            "audio_src": "เราต้องใช้ทรัพยากรอย่างประหยัด",
+            "audio_en_src": "We have to use our resources sparingly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5765,6 +5879,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "nature",
+        "sentences": [
+          {
+            "thai": "ฉันชอบเดินป่าใกล้ชิดธรรมชาติ",
+            "en": "I like hiking, being close to nature.",
+            "audio_src": "ฉันชอบเดินป่าใกล้ชิดธรรมชาติ",
+            "audio_en_src": "I like hiking, being close to nature."
+          },
+          {
+            "thai": "ธรรมชาติที่นี่สวยงามมาก",
+            "en": "The nature here is so beautiful.",
+            "audio_src": "ธรรมชาติที่นี่สวยงามมาก",
+            "audio_en_src": "The nature here is so beautiful."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5933,6 +6066,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "rice field",
+        "sentences": [
+          {
+            "thai": "ชาวนากำลังทำนา",
+            "en": "The farmers are working in the rice fields.",
+            "audio_src": "ชาวนากำลังทำนา",
+            "audio_en_src": "The farmers are working in the rice fields."
+          },
+          {
+            "thai": "ทุ่งนาเขียวสุดลูกหูลูกตา",
+            "en": "The rice fields are green as far as the eye can see.",
+            "audio_src": "ทุ่งนาเขียวสุดลูกหูลูกตา",
+            "audio_en_src": "The rice fields are green as far as the eye can see."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5954,6 +6106,25 @@
     "topic": "emotions",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "infatuated, deeply in love",
+        "sentences": [
+          {
+            "thai": "เขาหลงรักเธอตั้งแต่แรกเห็น",
+            "en": "He fell in love with her at first sight.",
+            "audio_src": "เขาหลงรักเธอตั้งแต่แรกเห็น",
+            "audio_en_src": "He fell in love with her at first sight."
+          },
+          {
+            "thai": "ฉันหลงรักเมืองนี้ตั้งแต่มาครั้งแรก",
+            "en": "I fell in love with this city on my first visit.",
+            "audio_src": "ฉันหลงรักเมืองนี้ตั้งแต่มาครั้งแรก",
+            "audio_en_src": "I fell in love with this city on my first visit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6050,6 +6221,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to sip",
+        "sentences": [
+          {
+            "thai": "เธอจิบกาแฟช้าๆ",
+            "en": "She sipped her coffee slowly.",
+            "audio_src": "เธอจิบกาแฟช้าๆ",
+            "audio_en_src": "She sipped her coffee slowly."
+          },
+          {
+            "thai": "เขานั่งจิบชาอยู่ริมระเบียง",
+            "en": "He sat sipping tea on the balcony.",
+            "audio_src": "เขานั่งจิบชาอยู่ริมระเบียง",
+            "audio_en_src": "He sat sipping tea on the balcony."
+          }
+        ]
+      }
     ]
   },
   {
