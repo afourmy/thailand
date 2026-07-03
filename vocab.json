@@ -16854,6 +16854,25 @@
       "Chulalongkorn L6",
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "properties (of a medicine, a plant)",
+        "sentences": [
+          {
+            "thai": "สมุนไพรนี้มีสรรพคุณช่วยลดไข้",
+            "en": "This herb has properties that help reduce fever.",
+            "audio_src": "สมุนไพรนี้มีสรรพคุณช่วยลดไข้",
+            "audio_en_src": "This herb has properties that help reduce fever."
+          },
+          {
+            "thai": "ยาตัวนี้มีสรรพคุณหลายอย่าง",
+            "en": "This medicine has many beneficial properties.",
+            "audio_src": "ยาตัวนี้มีสรรพคุณหลายอย่าง",
+            "audio_en_src": "This medicine has many beneficial properties."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16865,6 +16884,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "bruise",
+        "sentences": [
+          {
+            "thai": "เขามีรอยฟกช้ำที่แขนจากการหกล้ม",
+            "en": "He has a bruise on his arm from falling.",
+            "audio_src": "เขามีรอยฟกช้ำที่แขนจากการหกล้ม",
+            "audio_en_src": "He has a bruise on his arm from falling."
+          },
+          {
+            "thai": "รอยฟกช้ำเริ่มจางลงแล้ว",
+            "en": "The bruise is starting to fade.",
+            "audio_src": "รอยฟกช้ำเริ่มจางลงแล้ว",
+            "audio_en_src": "The bruise is starting to fade."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16877,6 +16915,25 @@
       "Chulalongkorn L6",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "inflamed (wound)",
+        "sentences": [
+          {
+            "thai": "แผลอักเสบเพราะไม่ได้ทำความสะอาด",
+            "en": "The wound got infected because it wasn’t cleaned.",
+            "audio_src": "แผลอักเสบเพราะไม่ได้ทำความสะอาด",
+            "audio_en_src": "The wound got infected because it wasn’t cleaned."
+          },
+          {
+            "thai": "คออักเสบ พูดแล้วเจ็บ",
+            "en": "My throat is inflamed, it hurts to talk.",
+            "audio_src": "คออักเสบ พูดแล้วเจ็บ",
+            "audio_en_src": "My throat is inflamed, it hurts to talk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16920,6 +16977,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "nutrient",
+        "sentences": [
+          {
+            "thai": "ผักผลไม้มีสารอาหารสูง",
+            "en": "Vegetables and fruit are high in nutrients.",
+            "audio_src": "ผักผลไม้มีสารอาหารสูง",
+            "audio_en_src": "Vegetables and fruit are high in nutrients."
+          },
+          {
+            "thai": "ร่างกายต้องการสารอาหารครบห้าหมู่",
+            "en": "The body needs nutrients from all five food groups.",
+            "audio_src": "ร่างกายต้องการสารอาหารครบห้าหมู่",
+            "audio_en_src": "The body needs nutrients from all five food groups."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16964,6 +17040,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "pungent, strong smell or strong taste",
+        "sentences": [
+          {
+            "thai": "วาซาบิมีรสฉุนมาก",
+            "en": "Wasabi has a very pungent taste.",
+            "audio_src": "วาซาบิมีรสฉุนมาก",
+            "audio_en_src": "Wasabi has a very pungent taste."
+          },
+          {
+            "thai": "กลิ่นน้ำปลาฉุนจนแสบจมูก",
+            "en": "The smell of fish sauce is so pungent it stings the nose.",
+            "audio_src": "กลิ่นน้ำปลาฉุนจนแสบจมูก",
+            "audio_en_src": "The smell of fish sauce is so pungent it stings the nose."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16977,6 +17072,25 @@
       "Tamago L1-2",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to pickle (store food in salt, vinegar, alcohol, etc)",
+        "sentences": [
+          {
+            "thai": "ยายดองผักไว้กินกับข้าว",
+            "en": "Grandma pickles vegetables to eat with rice.",
+            "audio_src": "ยายดองผักไว้กินกับข้าว",
+            "audio_en_src": "Grandma pickles vegetables to eat with rice."
+          },
+          {
+            "thai": "ไข่เค็มทำจากไข่ที่ดองในน้ำเกลือ",
+            "en": "Salted eggs are made from eggs pickled in brine.",
+            "audio_src": "ไข่เค็มทำจากไข่ที่ดองในน้ำเกลือ",
+            "audio_en_src": "Salted eggs are made from eggs pickled in brine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17080,6 +17194,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fish bone",
+        "sentences": [
+          {
+            "thai": "ระวังก้างติดคอ",
+            "en": "Be careful, the fish bones can get stuck in your throat.",
+            "audio_src": "ระวังก้างติดคอ",
+            "audio_en_src": "Be careful, the fish bones can get stuck in your throat."
+          },
+          {
+            "thai": "เขาแคะก้างออกจากเนื้อปลา",
+            "en": "He picks the bones out of the fish.",
+            "audio_src": "เขาแคะก้างออกจากเนื้อปลา",
+            "audio_en_src": "He picks the bones out of the fish."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17143,6 +17276,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "curry paste (chili paste)",
+        "sentences": [
+          {
+            "thai": "เครื่องแกงเผ็ดทำจากพริกหลายชนิด",
+            "en": "Curry paste is made from several kinds of chili.",
+            "audio_src": "เครื่องแกงเผ็ดทำจากพริกหลายชนิด",
+            "audio_en_src": "Curry paste is made from several kinds of chili."
+          },
+          {
+            "thai": "แม่ตำเครื่องแกงเองทุกครั้ง",
+            "en": "Mom pounds her own curry paste every time.",
+            "audio_src": "แม่ตำเครื่องแกงเองทุกครั้ง",
+            "audio_en_src": "Mom pounds her own curry paste every time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17155,6 +17307,25 @@
       "Chulalongkorn L6",
       "TSL Chiang Mai",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bean sprout",
+        "sentences": [
+          {
+            "thai": "ผัดไทยใส่ถั่วงอกกรอบๆ",
+            "en": "Pad Thai has crunchy bean sprouts in it.",
+            "audio_src": "ผัดไทยใส่ถั่วงอกกรอบๆ",
+            "audio_en_src": "Pad Thai has crunchy bean sprouts in it."
+          },
+          {
+            "thai": "ถั่วงอกลวกกินกับก๋วยเตี๋ยว",
+            "en": "Blanched bean sprouts go with noodles.",
+            "audio_src": "ถั่วงอกลวกกินกับก๋วยเตี๋ยว",
+            "audio_en_src": "Blanched bean sprouts go with noodles."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17167,6 +17338,25 @@
       "Chulalongkorn L6",
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "impressed",
+        "sentences": [
+          {
+            "thai": "ฉันประทับใจการบริการของร้านนี้",
+            "en": "I was impressed by this restaurant’s service.",
+            "audio_src": "ฉันประทับใจการบริการของร้านนี้",
+            "audio_en_src": "I was impressed by this restaurant’s service."
+          },
+          {
+            "thai": "การแสดงเมื่อคืนน่าประทับใจมาก",
+            "en": "Last night’s performance was very impressive.",
+            "audio_src": "การแสดงเมื่อคืนน่าประทับใจมาก",
+            "audio_en_src": "Last night’s performance was very impressive."
+          }
+        ]
+      }
     ]
   },
   {

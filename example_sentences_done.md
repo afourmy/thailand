@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4133 words**
+**Total: 4143 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -389,11 +389,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-168` : แปลก, แปลกประหลาด (strange, weird) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-170` : กวน (to stir until thickened or smooth (cooking); to annoy, to bother) : 2 meaning(s), 4 sentences
+- `chula-l6-172` : สรรพคุณ (properties (of a medicine, a plant)) : 1 meaning(s), 2 sentences
+- `chula-l6-173` : รอยฟกช้ำ (bruise) : 1 meaning(s), 2 sentences
+- `chula-l6-174` : อักเสบ (inflamed (wound)) : 1 meaning(s), 2 sentences
 - `chula-l6-175` : กระหาย (thirsty) : 1 meaning(s), 2 sentences
+- `chula-l6-176` : สารอาหาร (nutrient) : 1 meaning(s), 2 sentences
 - `chula-l6-177` : ล้วน (all, entirely) : 1 meaning(s), 2 sentences
+- `chula-l6-178` : ฉุน (pungent, strong smell or strong taste) : 1 meaning(s), 2 sentences
+- `chula-l6-179` : ดอง (to pickle (store food in salt, vinegar, alcohol, etc)) : 1 meaning(s), 2 sentences
 - `chula-l6-181` : ก้าน (stem (supporting part of a leaf, a flower); shaft, handle (e.g brush, umbrella)) : 2 meaning(s), 4 sentences
 - `chula-l6-182` : รอยเหี่ยวย่น (wrinkles) : 1 meaning(s), 2 sentences
+- `chula-l6-183` : ก้าง (fish bone) : 1 meaning(s), 2 sentences
 - `chula-l6-185` : คำ (word; a mouthful (of food)) : 2 meaning(s), 4 sentences
+- `chula-l6-186` : เครื่องแกง (curry paste (chili paste)) : 1 meaning(s), 2 sentences
+- `chula-l6-188` : ถั่วงอก (bean sprout) : 1 meaning(s), 2 sentences
+- `chula-l6-189` : ประทับใจ (impressed) : 1 meaning(s), 2 sentences
 - `chula-l6-191` : น่าหลงใหล (fascinating) : 1 meaning(s), 2 sentences
 - `chula-l6-192` : บีบ, คั้น (to squeeze) : 1 meaning(s), 2 sentences
 - `chula-l6-194` : สูสี (closely matched, well-balanced, very close) : 1 meaning(s), 2 sentences
