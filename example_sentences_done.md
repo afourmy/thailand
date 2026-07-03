@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4003 words**
+**Total: 4013 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -84,14 +84,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-137` : เร่งด่วน (urgent, priority) : 1 meaning(s), 2 sentences
 - `chula-l4-138` : เวลาเร่งด่วน (rush hour) : 1 meaning(s), 2 sentences
 - `chula-l4-139` : สาเหตุ (cause, motive) : 1 meaning(s), 2 sentences
+- `chula-l4-141` : (พอ) ...ปุ๊บ, (ก็) ...ปั๊บ (as soon as (one thing happens), then (the next follows)) : 1 meaning(s), 2 sentences
+- `chula-l4-142` : ... ไป (ด้วย), ... ไป (ด้วย) (two actions happening at the same time) : 1 meaning(s), 2 sentences
+- `chula-l4-143` : ได้รับ (to receive; passive marker) : 2 meaning(s), 4 sentences
+- `chula-l4-144` : อย่างกับ (just like; as if, as though) : 2 meaning(s), 4 sentences
 - `chula-l4-145` : กริยา (verb) : 1 meaning(s), 2 sentences
 - `chula-l4-146` : ข้อดี (advantage) : 1 meaning(s), 2 sentences
 - `chula-l4-147` : ข้อเสีย (disadvantage) : 1 meaning(s), 2 sentences
 - `chula-l4-148` : เจ็บ (to hurt, to be sore (e.g external pain, injury)) : 1 meaning(s), 2 sentences
 - `chula-l4-149` : ปวด (to ache (e.g internal pain)) : 1 meaning(s), 2 sentences
+- `chula-l4-152` : จะแย่ (extremely, terribly (intensifier)) : 1 meaning(s), 2 sentences
+- `chula-l4-153` : จะตาย (extremely, "...to death" (intensifier)) : 1 meaning(s), 2 sentences
 - `chula-l5-004` : เวลาทำการ (business hours) : 1 meaning(s), 2 sentences
+- `chula-l5-005` : ชำระ (to pay; to cleanse, to wash away) : 2 meaning(s), 4 sentences
+- `chula-l5-006` : ค่าใช้จ่าย (cost, expenses) : 1 meaning(s), 2 sentences
 - `chula-l5-007` : น้ำประปา (tap water) : 1 meaning(s), 2 sentences
 - `chula-l5-008` : ช่องทาง (channel, pathway) : 1 meaning(s), 2 sentences
+- `chula-l5-010` : โอน (to transfer) : 1 meaning(s), 2 sentences
+- `chula-l5-011` : ออมทรัพย์ (savings (account)) : 1 meaning(s), 2 sentences
 - `chula-l5-015` : ความร่วมมือ (cooperation) : 1 meaning(s), 2 sentences
 - `chula-l5-016` : ยาม (security guard; period of time) : 2 meaning(s), 4 sentences
 - `chula-l5-018` : ส่วนกลาง (common area, central part) : 1 meaning(s), 2 sentences

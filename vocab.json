@@ -3162,6 +3162,25 @@
     "topic": "grammar",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "as soon as (one thing happens), then (the next follows)",
+        "sentences": [
+          {
+            "thai": "พอถึงบ้านปุ๊บ ก็นอนหลับปั๊บ",
+            "en": "The moment I got home, I fell asleep.",
+            "audio_src": "พอถึงบ้านปุ๊บ ก็นอนหลับปั๊บ",
+            "audio_en_src": "The moment I got home, I fell asleep."
+          },
+          {
+            "thai": "พอฝนตกปุ๊บ รถก็ติดปั๊บ",
+            "en": "As soon as it rains, the traffic jams up.",
+            "audio_src": "พอฝนตกปุ๊บ รถก็ติดปั๊บ",
+            "audio_en_src": "As soon as it rains, the traffic jams up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3172,6 +3191,25 @@
     "topic": "grammar",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "two actions happening at the same time",
+        "sentences": [
+          {
+            "thai": "เขากินข้าวไปด้วย ดูทีวีไปด้วย",
+            "en": "He eats and watches TV at the same time.",
+            "audio_src": "เขากินข้าวไปด้วย ดูทีวีไปด้วย",
+            "audio_en_src": "He eats and watches TV at the same time."
+          },
+          {
+            "thai": "เธอเดินไปด้วย เล่นมือถือไปด้วย",
+            "en": "She walks and looks at her phone at the same time.",
+            "audio_src": "เธอเดินไปด้วย เล่นมือถือไปด้วย",
+            "audio_en_src": "She walks and looks at her phone at the same time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3184,6 +3222,42 @@
       "Chulalongkorn L4",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to receive",
+        "sentences": [
+          {
+            "thai": "ฉันได้รับของขวัญวันเกิด",
+            "en": "I got a birthday present.",
+            "audio_src": "ฉันได้รับของขวัญวันเกิด",
+            "audio_en_src": "I got a birthday present."
+          },
+          {
+            "thai": "เขาได้รับรางวัลที่หนึ่ง",
+            "en": "He won first prize.",
+            "audio_src": "เขาได้รับรางวัลที่หนึ่ง",
+            "audio_en_src": "He won first prize."
+          }
+        ]
+      },
+      {
+        "meaning": "passive marker",
+        "sentences": [
+          {
+            "thai": "เธอได้รับเชิญไปงานแต่ง",
+            "en": "She was invited to the wedding.",
+            "audio_src": "เธอได้รับเชิญไปงานแต่ง",
+            "audio_en_src": "She was invited to the wedding."
+          },
+          {
+            "thai": "โครงการนี้ได้รับการอนุมัติแล้ว",
+            "en": "This project has been approved.",
+            "audio_src": "โครงการนี้ได้รับการอนุมัติแล้ว",
+            "audio_en_src": "This project has been approved."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3195,6 +3269,42 @@
     "sources": [
       "Chulalongkorn L4",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "just like",
+        "sentences": [
+          {
+            "thai": "เขาหน้าเหมือนพ่ออย่างกับแกะ",
+            "en": "He looks just like his father.",
+            "audio_src": "เขาหน้าเหมือนพ่ออย่างกับแกะ",
+            "audio_en_src": "He looks just like his father."
+          },
+          {
+            "thai": "บ้านหลังนี้ใหญ่อย่างกับวัง",
+            "en": "This house is as big as a palace.",
+            "audio_src": "บ้านหลังนี้ใหญ่อย่างกับวัง",
+            "audio_en_src": "This house is as big as a palace."
+          }
+        ]
+      },
+      {
+        "meaning": "as if, as though",
+        "sentences": [
+          {
+            "thai": "ทำเป็นไม่รู้ อย่างกับไม่เคยเจอกัน",
+            "en": "Acting clueless, as if we’d never met.",
+            "audio_src": "ทำเป็นไม่รู้ อย่างกับไม่เคยเจอกัน",
+            "audio_en_src": "Acting clueless, as if we’d never met."
+          },
+          {
+            "thai": "เขาพูดอย่างกับรู้ทุกเรื่อง",
+            "en": "He talks as though he knows everything.",
+            "audio_src": "เขาพูดอย่างกับรู้ทุกเรื่อง",
+            "audio_en_src": "He talks as though he knows everything."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3392,6 +3502,25 @@
     "topic": "expressions",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "extremely, terribly (intensifier)",
+        "sentences": [
+          {
+            "thai": "หิวจะแย่แล้ว รีบหาอะไรกินกัน",
+            "en": "I’m starving, let’s find something to eat quick.",
+            "audio_src": "หิวจะแย่แล้ว รีบหาอะไรกินกัน",
+            "audio_en_src": "I’m starving, let’s find something to eat quick."
+          },
+          {
+            "thai": "ร้อนจะแย่ เปิดแอร์หน่อย",
+            "en": "It’s unbearably hot, turn on the AC.",
+            "audio_src": "ร้อนจะแย่ เปิดแอร์หน่อย",
+            "audio_en_src": "It’s unbearably hot, turn on the AC."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3402,6 +3531,25 @@
     "topic": "expressions",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "extremely, \"...to death\" (intensifier)",
+        "sentences": [
+          {
+            "thai": "เหนื่อยจะตายอยู่แล้ว",
+            "en": "I’m dead tired.",
+            "audio_src": "เหนื่อยจะตายอยู่แล้ว",
+            "audio_en_src": "I’m dead tired."
+          },
+          {
+            "thai": "หนาวจะตาย ใส่เสื้อกันหนาวหน่อย",
+            "en": "It’s freezing, put on a coat.",
+            "audio_src": "หนาวจะตาย ใส่เสื้อกันหนาวหน่อย",
+            "audio_en_src": "It’s freezing, put on a coat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3507,6 +3655,42 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay",
+        "sentences": [
+          {
+            "thai": "กรุณาชำระเงินที่เคาน์เตอร์",
+            "en": "Please pay at the counter.",
+            "audio_src": "กรุณาชำระเงินที่เคาน์เตอร์",
+            "audio_en_src": "Please pay at the counter."
+          },
+          {
+            "thai": "ชำระค่าไฟภายในวันนี้",
+            "en": "Pay the electricity bill by today.",
+            "audio_src": "ชำระค่าไฟภายในวันนี้",
+            "audio_en_src": "Pay the electricity bill by today."
+          }
+        ]
+      },
+      {
+        "meaning": "to cleanse, to wash away",
+        "sentences": [
+          {
+            "thai": "ชำระล้างร่างกายให้สะอาด",
+            "en": "Wash your body clean.",
+            "audio_src": "ชำระล้างร่างกายให้สะอาด",
+            "audio_en_src": "Wash your body clean."
+          },
+          {
+            "thai": "น้ำฝนช่วยชำระล้างสิ่งสกปรก",
+            "en": "The rain washes away the dirt.",
+            "audio_src": "น้ำฝนช่วยชำระล้างสิ่งสกปรก",
+            "audio_en_src": "The rain washes away the dirt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3520,6 +3704,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cost, expenses",
+        "sentences": [
+          {
+            "thai": "เดือนนี้ค่าใช้จ่ายเยอะมาก",
+            "en": "This month’s expenses are really high.",
+            "audio_src": "เดือนนี้ค่าใช้จ่ายเยอะมาก",
+            "audio_en_src": "This month’s expenses are really high."
+          },
+          {
+            "thai": "เราต้องลดค่าใช้จ่ายที่ไม่จำเป็น",
+            "en": "We need to cut unnecessary expenses.",
+            "audio_src": "เราต้องลดค่าใช้จ่ายที่ไม่จำเป็น",
+            "audio_en_src": "We need to cut unnecessary expenses."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3607,6 +3810,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to transfer",
+        "sentences": [
+          {
+            "thai": "โอนเงินให้หน่อยได้ไหม",
+            "en": "Can you transfer me the money?",
+            "audio_src": "โอนเงินให้หน่อยได้ไหม",
+            "audio_en_src": "Can you transfer me the money?"
+          },
+          {
+            "thai": "ฉันโอนค่าเช่าบ้านไปแล้ว",
+            "en": "I already transferred the rent.",
+            "audio_src": "ฉันโอนค่าเช่าบ้านไปแล้ว",
+            "audio_en_src": "I already transferred the rent."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3617,6 +3839,25 @@
     "topic": "economy",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "savings (account)",
+        "sentences": [
+          {
+            "thai": "ฉันเปิดบัญชีออมทรัพย์ใหม่",
+            "en": "I opened a new savings account.",
+            "audio_src": "ฉันเปิดบัญชีออมทรัพย์ใหม่",
+            "audio_en_src": "I opened a new savings account."
+          },
+          {
+            "thai": "เขาฝากเงินไว้ในบัญชีออมทรัพย์",
+            "en": "He keeps his money in a savings account.",
+            "audio_src": "เขาฝากเงินไว้ในบัญชีออมทรัพย์",
+            "audio_en_src": "He keeps his money in a savings account."
+          }
+        ]
+      }
     ]
   },
   {
