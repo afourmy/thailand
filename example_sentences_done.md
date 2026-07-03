@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4163 words**
+**Total: 4173 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -446,14 +446,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-239` : คน (person; to stir (food)) : 2 meaning(s), 4 sentences
 - `chula-l6-240` : หยาบ (rough, coarse, rude) : 1 meaning(s), 2 sentences
 - `chula-l6-241` : เปิดตัว (to launch, introduce, unveil (event, product); to introduce a romantic partner to friends or family) : 2 meaning(s), 4 sentences
+- `chula-l6-242` : ปลื้ม, ปลื้มใจ (delighted, very pleased) : 1 meaning(s), 2 sentences
+- `chula-l6-245` : ท้องเฟ้อ (indigestion, bloated stomach) : 1 meaning(s), 2 sentences
+- `chula-l6-246` : ร้อนใน (mouth ulcer, canker sore) : 1 meaning(s), 2 sentences
+- `chula-l6-248` : วุ้น (jelly, gelatin) : 1 meaning(s), 2 sentences
+- `chula-l6-249` : วิงเวียน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
+- `chula-l6-251` : เปื่อย (mushy, tender, falling apart (rot), easily shredded) : 1 meaning(s), 2 sentences
 - `chula-l6-252` : แกว่ง (to swing, to sway) : 1 meaning(s), 2 sentences
 - `chula-l6-256` : ไกลลิบ (very far away) : 1 meaning(s), 2 sentences
+- `chula-l6-257` : อัจฉริยะ (genius) : 1 meaning(s), 2 sentences
 - `chula-l6-261` : แปลกใหม่ (novel, original, innovative, new and different) : 1 meaning(s), 2 sentences
 - `chula-l6-262` : กำกับ (to direct (movie, series)) : 1 meaning(s), 2 sentences
 - `chula-l6-265` : ลอก (to copy (cheat); to peel, to shed (skin, paint)) : 2 meaning(s), 4 sentences
+- `chula-l6-266` : ค่าตอบแทน (compensation, remuneration) : 1 meaning(s), 2 sentences
 - `chula-l6-267` : เนื้อเรื่อง, โครงเรื่อง (plot, storyline) : 1 meaning(s), 2 sentences
 - `chula-l6-269` : นักข่าว (reporter) : 1 meaning(s), 2 sentences
 - `chula-l6-270` : ผู้จัด (organizer; producer (of a movie, a show)) : 2 meaning(s), 4 sentences
+- `chula-l6-271` : อิ่มใจ (fulfilled, content at heart) : 1 meaning(s), 2 sentences
 - `chula-l6-272` : คาดเดา (to guess, predict, speculate, infer from clues) : 1 meaning(s), 2 sentences
 - `chula-l6-273` : ทุบ (to smash, hit, break, beat) : 1 meaning(s), 2 sentences
 - `chula-l6-274` : บุบ (dented, crushed, distorted) : 1 meaning(s), 2 sentences
@@ -461,6 +470,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-276` : ข้อเท็จจริง (fact, factual matter) : 1 meaning(s), 2 sentences
 - `chula-l6-277` : ออกอากาศ (to broadcast, to air (on TV, radio, etc)) : 1 meaning(s), 2 sentences
 - `chula-l6-278` : พระเอก (main character, leading actor, hero) : 1 meaning(s), 2 sentences
+- `chula-l6-280` : ซีรีส์วาย (BL (Boys' Love) series (from Japanese "yaoi")) : 1 meaning(s), 2 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
 - `chula-l6-290` : ธีม (theme) : 1 meaning(s), 2 sentences
 - `chula-l6-297` : มูลนิธิ (foundation, non-profit organization, charity) : 1 meaning(s), 2 sentences

@@ -18882,6 +18882,25 @@
       "Chulalongkorn L6",
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "delighted, very pleased",
+        "sentences": [
+          {
+            "thai": "แม่ปลื้มใจที่ลูกเรียนจบ",
+            "en": "Mom is delighted her child graduated.",
+            "audio_src": "แม่ปลื้มใจที่ลูกเรียนจบ",
+            "audio_en_src": "Mom is delighted her child graduated."
+          },
+          {
+            "thai": "เขาปลื้มมากที่ได้เจอนักร้องที่ชอบ",
+            "en": "He was thrilled to meet his favorite singer.",
+            "audio_src": "เขาปลื้มมากที่ได้เจอนักร้องที่ชอบ",
+            "audio_en_src": "He was thrilled to meet his favorite singer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18914,6 +18933,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "indigestion, bloated stomach",
+        "sentences": [
+          {
+            "thai": "กินอิ่มเกินไปเลยท้องเฟ้อ",
+            "en": "I overate and got bloated.",
+            "audio_src": "กินอิ่มเกินไปเลยท้องเฟ้อ",
+            "audio_en_src": "I overate and got bloated."
+          },
+          {
+            "thai": "ยานี้ช่วยแก้อาการท้องเฟ้อ",
+            "en": "This medicine helps relieve indigestion.",
+            "audio_src": "ยานี้ช่วยแก้อาการท้องเฟ้อ",
+            "audio_en_src": "This medicine helps relieve indigestion."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18924,6 +18962,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "mouth ulcer, canker sore",
+        "sentences": [
+          {
+            "thai": "เป็นร้อนใน กินเผ็ดไม่ได้",
+            "en": "I have a canker sore, I can’t eat spicy food.",
+            "audio_src": "เป็นร้อนใน กินเผ็ดไม่ได้",
+            "audio_en_src": "I have a canker sore, I can’t eat spicy food."
+          },
+          {
+            "thai": "นอนน้อยทำให้เป็นร้อนใน",
+            "en": "Not getting enough sleep gives me mouth ulcers.",
+            "audio_src": "นอนน้อยทำให้เป็นร้อนใน",
+            "audio_en_src": "Not getting enough sleep gives me mouth ulcers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18944,6 +19001,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "jelly, gelatin",
+        "sentences": [
+          {
+            "thai": "วุ้นมะพร้าวหวานเย็นชื่นใจ",
+            "en": "Coconut jelly is sweet, cold, and refreshing.",
+            "audio_src": "วุ้นมะพร้าวหวานเย็นชื่นใจ",
+            "audio_en_src": "Coconut jelly is sweet, cold, and refreshing."
+          },
+          {
+            "thai": "หลานชอบกินวุ้นหลากสี",
+            "en": "My niece loves colorful jelly.",
+            "audio_src": "หลานชอบกินวุ้นหลากสี",
+            "audio_en_src": "My niece loves colorful jelly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18954,6 +19030,25 @@
     "topic": "health",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "dizzy, lightheaded",
+        "sentences": [
+          {
+            "thai": "ลุกขึ้นเร็วไปรู้สึกวิงเวียน",
+            "en": "I got up too fast and felt dizzy.",
+            "audio_src": "ลุกขึ้นเร็วไปรู้สึกวิงเวียน",
+            "audio_en_src": "I got up too fast and felt dizzy."
+          },
+          {
+            "thai": "เธอวิงเวียนเพราะยังไม่ได้กินข้าว",
+            "en": "She felt lightheaded because she hadn’t eaten.",
+            "audio_src": "เธอวิงเวียนเพราะยังไม่ได้กินข้าว",
+            "audio_en_src": "She felt lightheaded because she hadn’t eaten."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18974,6 +19069,25 @@
     "topic": "food",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "mushy, tender, falling apart (rot), easily shredded",
+        "sentences": [
+          {
+            "thai": "ตุ๋นเนื้อจนเปื่อยนุ่ม",
+            "en": "Stew the beef until it’s tender and falls apart.",
+            "audio_src": "ตุ๋นเนื้อจนเปื่อยนุ่ม",
+            "audio_en_src": "Stew the beef until it’s tender and falls apart."
+          },
+          {
+            "thai": "ผลไม้สุกเกินไปจนเปื่อย",
+            "en": "The fruit is overripe and mushy.",
+            "audio_src": "ผลไม้สุกเกินไปจนเปื่อย",
+            "audio_en_src": "The fruit is overripe and mushy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19080,6 +19194,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "genius",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้เป็นอัจฉริยะด้านคณิตศาสตร์",
+            "en": "This kid is a math genius.",
+            "audio_src": "เด็กคนนี้เป็นอัจฉริยะด้านคณิตศาสตร์",
+            "audio_en_src": "This kid is a math genius."
+          },
+          {
+            "thai": "ไอน์สไตน์เป็นอัจฉริยะที่โลกจดจำ",
+            "en": "Einstein is a genius the world remembers.",
+            "audio_src": "ไอน์สไตน์เป็นอัจฉริยะที่โลกจดจำ",
+            "audio_en_src": "Einstein is a genius the world remembers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19257,6 +19390,25 @@
     "topic": "economy",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "compensation, remuneration",
+        "sentences": [
+          {
+            "thai": "งานนี้ให้ค่าตอบแทนสูง",
+            "en": "This job pays well.",
+            "audio_src": "งานนี้ให้ค่าตอบแทนสูง",
+            "audio_en_src": "This job pays well."
+          },
+          {
+            "thai": "เขาทำงานล่วงเวลาโดยไม่ได้ค่าตอบแทน",
+            "en": "He works overtime without any compensation.",
+            "audio_src": "เขาทำงานล่วงเวลาโดยไม่ได้ค่าตอบแทน",
+            "audio_en_src": "He works overtime without any compensation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19390,6 +19542,25 @@
     "topic": "emotions",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "fulfilled, content at heart",
+        "sentences": [
+          {
+            "thai": "เห็นลูกมีความสุขก็อิ่มใจแล้ว",
+            "en": "Seeing my kids happy makes me content.",
+            "audio_src": "เห็นลูกมีความสุขก็อิ่มใจแล้ว",
+            "audio_en_src": "Seeing my kids happy makes me content."
+          },
+          {
+            "thai": "ได้ช่วยเหลือคนอื่นแล้วรู้สึกอิ่มใจ",
+            "en": "Helping others leaves me feeling fulfilled.",
+            "audio_src": "ได้ช่วยเหลือคนอื่นแล้วรู้สึกอิ่มใจ",
+            "audio_en_src": "Helping others leaves me feeling fulfilled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19639,6 +19810,25 @@
     "topic": "culture",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "BL (Boys' Love) series (from Japanese \"yaoi\")",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ซีรีส์วายไทยดังไปทั่วโลก",
+            "en": "These days Thai BL series are famous worldwide.",
+            "audio_src": "ช่วงนี้ซีรีส์วายไทยดังไปทั่วโลก",
+            "audio_en_src": "These days Thai BL series are famous worldwide."
+          },
+          {
+            "thai": "เธอติดตามซีรีส์วายเรื่องใหม่ทุกสัปดาห์",
+            "en": "She follows the new BL series every week.",
+            "audio_src": "เธอติดตามซีรีส์วายเรื่องใหม่ทุกสัปดาห์",
+            "audio_en_src": "She follows the new BL series every week."
+          }
+        ]
+      }
     ]
   },
   {
