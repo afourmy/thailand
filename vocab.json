@@ -60623,6 +60623,25 @@
     "sources": [
       "Tamago L3",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "in vain, for nothing",
+        "sentences": [
+          {
+            "thai": "อุตส่าห์รอตั้งนาน เสียเวลาเปล่าๆ",
+            "en": "I waited so long, wasted my time for nothing.",
+            "audio_src": "อุตส่าห์รอตั้งนาน เสียเวลาเปล่าๆ",
+            "audio_en_src": "I waited so long, wasted my time for nothing."
+          },
+          {
+            "thai": "เขาทุ่มเทไปโดยเปล่าประโยชน์",
+            "en": "He put in all that effort in vain.",
+            "audio_src": "เขาทุ่มเทไปโดยเปล่าประโยชน์",
+            "audio_en_src": "He put in all that effort in vain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60710,6 +60729,25 @@
       "Tamago L3",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "periodically, intermittently",
+        "sentences": [
+          {
+            "thai": "ฝนตกเป็นระยะๆทั้งวัน",
+            "en": "It rained intermittently all day.",
+            "audio_src": "ฝนตกเป็นระยะๆทั้งวัน",
+            "audio_en_src": "It rained intermittently all day."
+          },
+          {
+            "thai": "เขาโทรมาถามข่าวเป็นระยะๆ",
+            "en": "He calls to check in periodically.",
+            "audio_src": "เขาโทรมาถามข่าวเป็นระยะๆ",
+            "audio_en_src": "He calls to check in periodically."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60730,6 +60768,25 @@
     "topic": "beliefs",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"you\" (pronoun monks use to address laypeople)",
+        "sentences": [
+          {
+            "thai": "โยมมาทำบุญที่วัดหรือ",
+            "en": "Have you come to make merit at the temple?",
+            "audio_src": "โยมมาทำบุญที่วัดหรือ",
+            "audio_en_src": "Have you come to make merit at the temple?"
+          },
+          {
+            "thai": "อาตมาขอให้โยมมีความสุข",
+            "en": "May you be happy.",
+            "audio_src": "อาตมาขอให้โยมมีความสุข",
+            "audio_en_src": "May you be happy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60804,6 +60861,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to let go (of feelings, attachments), to accept things as they are (in a Buddhist sense)",
+        "sentences": [
+          {
+            "thai": "พระสอนให้รู้จักปล่อยวาง",
+            "en": "The monk teaches us to learn to let go.",
+            "audio_src": "พระสอนให้รู้จักปล่อยวาง",
+            "audio_en_src": "The monk teaches us to learn to let go."
+          },
+          {
+            "thai": "ปล่อยวางเสียบ้าง ชีวิตจะได้สบายใจ",
+            "en": "Let go a little, and life will feel more at peace.",
+            "audio_src": "ปล่อยวางเสียบ้าง ชีวิตจะได้สบายใจ",
+            "audio_en_src": "Let go a little, and life will feel more at peace."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60814,6 +60890,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel indifferent",
+        "sentences": [
+          {
+            "thai": "ฉันรู้สึกเฉยๆกับหนังเรื่องนี้",
+            "en": "I feel pretty indifferent about this movie.",
+            "audio_src": "ฉันรู้สึกเฉยๆกับหนังเรื่องนี้",
+            "audio_en_src": "I feel pretty indifferent about this movie."
+          },
+          {
+            "thai": "เขาบอกรักแต่เธอรู้สึกเฉยๆ",
+            "en": "He said he loves her but she felt nothing.",
+            "audio_src": "เขาบอกรักแต่เธอรู้สึกเฉยๆ",
+            "audio_en_src": "He said he loves her but she felt nothing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60824,6 +60919,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "inevitably, unavoidably",
+        "sentences": [
+          {
+            "thai": "ราคาสินค้าสูงขึ้นอย่างหลีกเลี่ยงไม่ได้",
+            "en": "Prices are rising inevitably.",
+            "audio_src": "ราคาสินค้าสูงขึ้นอย่างหลีกเลี่ยงไม่ได้",
+            "audio_en_src": "Prices are rising inevitably."
+          },
+          {
+            "thai": "ทุกคนต้องแก่ลงอย่างหลีกเลี่ยงไม่ได้",
+            "en": "Everyone unavoidably grows old.",
+            "audio_src": "ทุกคนต้องแก่ลงอย่างหลีกเลี่ยงไม่ได้",
+            "audio_en_src": "Everyone unavoidably grows old."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60854,6 +60968,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to vent one's suffering, to share one's pain",
+        "sentences": [
+          {
+            "thai": "เธอโทรหาเพื่อนเพื่อระบายความทุกข์",
+            "en": "She called a friend to vent her troubles.",
+            "audio_src": "เธอโทรหาเพื่อนเพื่อระบายความทุกข์",
+            "audio_en_src": "She called a friend to vent her troubles."
+          },
+          {
+            "thai": "การเขียนไดอารี่ช่วยระบายความทุกข์ได้",
+            "en": "Writing a diary helps release one's pain.",
+            "audio_src": "การเขียนไดอารี่ช่วยระบายความทุกข์ได้",
+            "audio_en_src": "Writing a diary helps release one's pain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60865,6 +60998,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "kindness, goodwill, wishing others well",
+        "sentences": [
+          {
+            "thai": "เขามีเมตตาต่อสัตว์",
+            "en": "He is kind to animals.",
+            "audio_src": "เขามีเมตตาต่อสัตว์",
+            "audio_en_src": "He is kind to animals."
+          },
+          {
+            "thai": "ขอให้ทุกคนมีเมตตาต่อกัน",
+            "en": "May everyone show kindness to one another.",
+            "audio_src": "ขอให้ทุกคนมีเมตตาต่อกัน",
+            "audio_en_src": "May everyone show kindness to one another."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60875,6 +61027,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel lost, adrift, without direction",
+        "sentences": [
+          {
+            "thai": "หลังเรียนจบฉันรู้สึกเคว้งคว้าง",
+            "en": "After graduating I felt lost.",
+            "audio_src": "หลังเรียนจบฉันรู้สึกเคว้งคว้าง",
+            "audio_en_src": "After graduating I felt lost."
+          },
+          {
+            "thai": "เขารู้สึกเคว้งคว้างเมื่อต้องอยู่คนเดียว",
+            "en": "He feels adrift when he has to be alone.",
+            "audio_src": "เขารู้สึกเคว้งคว้างเมื่อต้องอยู่คนเดียว",
+            "audio_en_src": "He feels adrift when he has to be alone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60885,6 +61056,25 @@
     "topic": "family",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "mama's boy, spoiled child",
+        "sentences": [
+          {
+            "thai": "เขาอายุสามสิบแล้วยังเป็นลูกแหง่",
+            "en": "He's thirty and still a mama's boy.",
+            "audio_src": "เขาอายุสามสิบแล้วยังเป็นลูกแหง่",
+            "audio_en_src": "He's thirty and still a mama's boy."
+          },
+          {
+            "thai": "อย่าเลี้ยงลูกให้เป็นลูกแหง่",
+            "en": "Don't raise your child to be spoiled.",
+            "audio_src": "อย่าเลี้ยงลูกให้เป็นลูกแหง่",
+            "audio_en_src": "Don't raise your child to be spoiled."
+          }
+        ]
+      }
     ]
   },
   {

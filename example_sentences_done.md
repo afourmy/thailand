@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4583 words**
+**Total: 4593 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1592,9 +1592,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-794` : กระจุก (cluster, tuft, small bunch) : 1 meaning(s), 2 sentences
 - `tamago-l3-795` : บีบคอ, รัดคอ (to strangle, to choke (someone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-796` : ถอดปลั๊ก (to unplug) : 1 meaning(s), 2 sentences
+- `tamago-l3-800` : เปล่าๆ, โดยเปล่าประโยชน์ (in vain, for nothing) : 1 meaning(s), 2 sentences
 - `tamago-l3-802` : บิด (to twist, to wring out, to turn) : 1 meaning(s), 2 sentences
 - `tamago-l3-803` : ยศ (rank, title (military, social)) : 1 meaning(s), 2 sentences
+- `tamago-l3-804` : เป็นระยะๆ (periodically, intermittently) : 1 meaning(s), 2 sentences
+- `tamago-l3-806` : โยม ("you" (pronoun monks use to address laypeople)) : 1 meaning(s), 2 sentences
 - `tamago-l3-810` : ยึดติด (to cling to, to be attached to (emotionally)) : 1 meaning(s), 2 sentences
+- `tamago-l3-811` : ปล่อยวาง (to let go (of feelings, attachments), to accept things as they are (in a Buddhist sense)) : 1 meaning(s), 2 sentences
+- `tamago-l3-812` : รู้สึกเฉยๆ (to feel indifferent) : 1 meaning(s), 2 sentences
+- `tamago-l3-814` : อย่างหลีกเลี่ยงไม่ได้ (inevitably, unavoidably) : 1 meaning(s), 2 sentences
+- `tamago-l3-817` : ระบายความทุกข์ (to vent one's suffering, to share one's pain) : 1 meaning(s), 2 sentences
+- `tamago-l3-818` : เมตตา (kindness, goodwill, wishing others well) : 1 meaning(s), 2 sentences
+- `tamago-l3-819` : รู้สึกเคว้งคว้าง (to feel lost, adrift, without direction) : 1 meaning(s), 2 sentences
+- `tamago-l3-820` : ลูกแหง่ (mama's boy, spoiled child) : 1 meaning(s), 2 sentences
 - `tamago-l3-822` : หมั่น (to be diligent, to be persistent, to practice regularly) : 1 meaning(s), 2 sentences
 - `tamago-l3-823` : เตือนสติ (to bring back to one's senses, to remind of what's right) : 1 meaning(s), 2 sentences
 - `tamago-l3-826` : ต้นเหตุ (cause, source, root of (a problem)) : 1 meaning(s), 2 sentences
