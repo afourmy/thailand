@@ -50190,6 +50190,25 @@
     "topic": "monarchy",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "the King of Thailand",
+        "sentences": [
+          {
+            "thai": "คนไทยรักในหลวง",
+            "en": "Thai people love the King.",
+            "audio_src": "คนไทยรักในหลวง",
+            "audio_en_src": "Thai people love the King."
+          },
+          {
+            "thai": "ในหลวงทรงงานหนักเพื่อประชาชน",
+            "en": "The King works hard for the people.",
+            "audio_src": "ในหลวงทรงงานหนักเพื่อประชาชน",
+            "audio_en_src": "The King works hard for the people."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50201,6 +50220,25 @@
     "sources": [
       "Tamago L3",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "surprising (formal)",
+        "sentences": [
+          {
+            "thai": "เป็นเรื่องน่าแปลกใจที่เขามาสาย",
+            "en": "It's surprising that he came late.",
+            "audio_src": "เป็นเรื่องน่าแปลกใจที่เขามาสาย",
+            "audio_en_src": "It's surprising that he came late."
+          },
+          {
+            "thai": "ผลการเลือกตั้งน่าแปลกใจมาก",
+            "en": "The election results were very surprising.",
+            "audio_src": "ผลการเลือกตั้งน่าแปลกใจมาก",
+            "audio_en_src": "The election results were very surprising."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50212,6 +50250,25 @@
     "sources": [
       "Tamago L3",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "surprising (e.g something strange, peculiar)",
+        "sentences": [
+          {
+            "thai": "มันน่าประหลาดใจที่ของหายไปเอง",
+            "en": "It's strange that the thing disappeared by itself.",
+            "audio_src": "มันน่าประหลาดใจที่ของหายไปเอง",
+            "audio_en_src": "It's strange that the thing disappeared by itself."
+          },
+          {
+            "thai": "เขาหายตัวไปอย่างน่าประหลาดใจ",
+            "en": "He vanished in a peculiar way.",
+            "audio_src": "เขาหายตัวไปอย่างน่าประหลาดใจ",
+            "audio_en_src": "He vanished in a peculiar way."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50320,6 +50377,25 @@
       "Tamago L3",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "palace",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวชอบไปเที่ยววัง",
+            "en": "Tourists like visiting the palace.",
+            "audio_src": "นักท่องเที่ยวชอบไปเที่ยววัง",
+            "audio_en_src": "Tourists like visiting the palace."
+          },
+          {
+            "thai": "วังแห่งนี้สวยงามมาก",
+            "en": "This palace is very beautiful.",
+            "audio_src": "วังแห่งนี้สวยงามมาก",
+            "audio_en_src": "This palace is very beautiful."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50330,6 +50406,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"how could it be that...\" (expressing it's unacceptable)",
+        "sentences": [
+          {
+            "thai": "มีอย่างที่ไหนกินข้าวคนอื่นแล้วไม่จ่าย",
+            "en": "How could someone eat other people's food and not pay?",
+            "audio_src": "มีอย่างที่ไหนกินข้าวคนอื่นแล้วไม่จ่าย",
+            "audio_en_src": "How could someone eat other people's food and not pay?"
+          },
+          {
+            "thai": "มีอย่างที่ไหนนัดแล้วไม่มา",
+            "en": "How can you make an appointment and then not show up?",
+            "audio_src": "มีอย่างที่ไหนนัดแล้วไม่มา",
+            "audio_en_src": "How can you make an appointment and then not show up?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -50403,6 +50498,25 @@
     "sources": [
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai mentholated balm (e.g tiger balm)",
+        "sentences": [
+          {
+            "thai": "ปวดหัวก็ทายาหม่องหน่อย",
+            "en": "If you have a headache, rub on some balm.",
+            "audio_src": "ปวดหัวก็ทายาหม่องหน่อย",
+            "audio_en_src": "If you have a headache, rub on some balm."
+          },
+          {
+            "thai": "ยาหม่องช่วยบรรเทาอาการคันจากยุงกัด",
+            "en": "Balm helps relieve the itch from mosquito bites.",
+            "audio_src": "ยาหม่องช่วยบรรเทาอาการคันจากยุงกัด",
+            "audio_en_src": "Balm helps relieve the itch from mosquito bites."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50423,6 +50537,25 @@
     "topic": "culture",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "authentic Thai, truly Thai",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้รสชาติไทยแท้",
+            "en": "The food here has an authentic Thai taste.",
+            "audio_src": "อาหารร้านนี้รสชาติไทยแท้",
+            "audio_en_src": "The food here has an authentic Thai taste."
+          },
+          {
+            "thai": "เขาเป็นคนไทยแท้",
+            "en": "He's truly Thai.",
+            "audio_src": "เขาเป็นคนไทยแท้",
+            "audio_en_src": "He's truly Thai."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50474,6 +50607,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "in the end, after all, eventually",
+        "sentences": [
+          {
+            "thai": "จนแล้วจนรอดเขาก็ไม่มา",
+            "en": "In the end, he didn't come after all.",
+            "audio_src": "จนแล้วจนรอดเขาก็ไม่มา",
+            "audio_en_src": "In the end, he didn't come after all."
+          },
+          {
+            "thai": "จนแล้วจนรอดงานก็เสร็จจนได้",
+            "en": "Eventually the work got finished after all.",
+            "audio_src": "จนแล้วจนรอดงานก็เสร็จจนได้",
+            "audio_en_src": "Eventually the work got finished after all."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50675,6 +50827,25 @@
       "TSL Chiang Mai",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "shocked, speechless, stunned",
+        "sentences": [
+          {
+            "thai": "พอได้ยินข่าวฉันอึ้งไปเลย",
+            "en": "I was stunned when I heard the news.",
+            "audio_src": "พอได้ยินข่าวฉันอึ้งไปเลย",
+            "audio_en_src": "I was stunned when I heard the news."
+          },
+          {
+            "thai": "เขาตอบไม่ถูก อึ้งไปพักหนึ่ง",
+            "en": "He couldn't answer, speechless for a moment.",
+            "audio_src": "เขาตอบไม่ถูก อึ้งไปพักหนึ่ง",
+            "audio_en_src": "He couldn't answer, speechless for a moment."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50822,6 +50993,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "selfish",
+        "sentences": [
+          {
+            "thai": "อย่าเห็นแก่ตัว แบ่งให้เพื่อนบ้าง",
+            "en": "Don't be selfish, share with your friends.",
+            "audio_src": "อย่าเห็นแก่ตัว แบ่งให้เพื่อนบ้าง",
+            "audio_en_src": "Don't be selfish, share with your friends."
+          },
+          {
+            "thai": "เขาเป็นคนเห็นแก่ตัว",
+            "en": "He's a selfish person.",
+            "audio_src": "เขาเป็นคนเห็นแก่ตัว",
+            "audio_en_src": "He's a selfish person."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4463 words**
+**Total: 4473 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1294,21 +1294,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
 - `tamago-l3-405` : ดัดแปลง (to modify, to adapt, to alter) : 1 meaning(s), 2 sentences
 - `tamago-l3-406` : เป็นระเบียบ (orderly, neatly organized) : 1 meaning(s), 2 sentences
+- `tamago-l3-407` : ในหลวง (the King of Thailand) : 1 meaning(s), 2 sentences
+- `tamago-l3-408` : น่าแปลกใจ (surprising (formal)) : 1 meaning(s), 2 sentences
+- `tamago-l3-408b` : น่าประหลาดใจ (surprising (e.g something strange, peculiar)) : 1 meaning(s), 2 sentences
 - `tamago-l3-409` : สม, สมกับ (worthy of, matching, befitting) : 1 meaning(s), 2 sentences
 - `tamago-l3-410` : คำร่ำลือ (reputation, hearsay, rumor, what people say) : 1 meaning(s), 2 sentences
 - `tamago-l3-411` : ...สุดๆไปเลย (insanely, extremely) : 1 meaning(s), 2 sentences
+- `tamago-l3-412` : วัง (palace) : 1 meaning(s), 2 sentences
+- `tamago-l3-413` : มีอย่างที่ไหน... ("how could it be that..." (expressing it's unacceptable)) : 1 meaning(s), 2 sentences
 - `tamago-l3-414` : เข้าสังคม (to socialize) : 1 meaning(s), 2 sentences
 - `tamago-l3-415` : ปิดเงียบ (to keep secret, to remain silent about something) : 1 meaning(s), 2 sentences
+- `tamago-l3-416` : ยาหม่อง (Thai mentholated balm (e.g tiger balm)) : 1 meaning(s), 2 sentences
+- `tamago-l3-418` : ไทยแท้ (authentic Thai, truly Thai) : 1 meaning(s), 2 sentences
 - `tamago-l3-420` : เรืองแสง (to glow, to emit light) : 1 meaning(s), 2 sentences
+- `tamago-l3-421` : จนแล้วจนรอด (in the end, after all, eventually) : 1 meaning(s), 2 sentences
 - `tamago-l3-422` : อำ (to prank, to trick, to fake, to bluff) : 1 meaning(s), 2 sentences
 - `tamago-l3-423` : เรอ (to burp) : 1 meaning(s), 2 sentences
 - `tamago-l3-424` : กดดัน (to pressure (someone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-425` : ทางอ้อม (indirectly) : 1 meaning(s), 2 sentences
 - `tamago-l3-428` : ท่า (pose, posture; swimming style) : 2 meaning(s), 4 sentences
+- `tamago-l3-429` : อึ้ง (shocked, speechless, stunned) : 1 meaning(s), 2 sentences
 - `tamago-l3-431` : ถือสา (to take offense, to take something personally) : 1 meaning(s), 2 sentences
 - `tamago-l3-432` : หัวล้าน (bald) : 1 meaning(s), 2 sentences
 - `tamago-l3-433` : กลั้นหายใจ (to hold one's breath) : 1 meaning(s), 2 sentences
 - `tamago-l3-434` : ลืมตา (to open one's eyes) : 1 meaning(s), 2 sentences
+- `tamago-l3-435` : เห็นแก่ตัว (selfish) : 1 meaning(s), 2 sentences
 - `tamago-l3-436` : เชี่ยว (skilled, expert; rapid (of water current)) : 2 meaning(s), 4 sentences
 - `tamago-l3-440` : หุ่น (body shape, body figure) : 1 meaning(s), 2 sentences
 - `tamago-l3-442` : ล่ม (to sink (a boat), to collapse, to fail (a system, an exam)) : 1 meaning(s), 3 sentences
