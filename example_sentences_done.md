@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4653 words**
+**Total: 4663 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1734,11 +1734,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-113` : เบื้องลึก (deep inside, innermost (motivation, secret)) : 1 meaning(s), 2 sentences
 - `tsl-114` : ระแวง (suspicious, distrustful) : 1 meaning(s), 2 sentences
 - `tsl-115` : เจ้าระเบียบ (neat freak, perfectionist, strict about order) : 1 meaning(s), 2 sentences
+- `tsl-116` : อยู่ในกรอบ (to follow the rules, to stay disciplined (literally "stay in the frame")) : 1 meaning(s), 2 sentences
 - `tsl-117` : ซ่อน (to hide, to conceal (e.g something or someone)) : 1 meaning(s), 2 sentences
+- `tsl-118` : หวง (to be possessive, to guard jealously) : 1 meaning(s), 2 sentences
 - `tsl-119` : เปิดกว้าง (wide open; open-minded) : 2 meaning(s), 4 sentences
 - `tsl-120` : ความไม่เป๊ะ (imperfection, lack of precision) : 1 meaning(s), 2 sentences
+- `tsl-121` : ลึกๆ (deep down, deeply) : 1 meaning(s), 2 sentences
+- `tsl-123` : ใจลอย (absent-minded, distracted, daydreaming) : 1 meaning(s), 2 sentences
+- `tsl-124` : ใจบุญ (kind-hearted, generous, charitable) : 1 meaning(s), 2 sentences
 - `tsl-125` : สบายใจ (relaxed, at ease emotionally) : 1 meaning(s), 2 sentences
 - `tsl-126` : ตกใจ - แปลกใจ (shocked, startled - surprised, astonished) : 2 meaning(s), 4 sentences
+- `tsl-127` : โม้ (to brag, to boast, to exaggerate) : 1 meaning(s), 2 sentences
+- `tsl-128` : ขี้หึง (someone who is jealous by nature, gets jealous quickly) : 1 meaning(s), 2 sentences
+- `tsl-129` : ขี้น้อยใจ (someone who feels slighted easily) : 1 meaning(s), 2 sentences
+- `tsl-130` : หลี (to flirt, to hit on girls) : 1 meaning(s), 2 sentences
+- `tsl-131` : ขี้แย (crybaby, overly sensitive (cries easily)) : 1 meaning(s), 2 sentences
 - `tsl-132` : อุทาน (to exclaim ("wow!", "ouch!")) : 1 meaning(s), 2 sentences
 - `tsl-134` : ถนอม (to preserve, to nurture (food, books, documents, friendship)) : 1 meaning(s), 2 sentences
 - `tsl-137` : ยอดฮิต (hit, most popular) : 1 meaning(s), 2 sentences
