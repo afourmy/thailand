@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5142 words**
+**Total: 5152 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3288,8 +3288,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-030` : หยอด (to drop in, to insert (e.g coin in machine)) : 1 meaning(s), 2 sentences
 - `yt-c06-032` : ท้อ, ท้อใจ, ท้อแท้ (discouraged, disheartened, to lose motivation, feel like giving up) : 1 meaning(s), 2 sentences
 - `yt-c06-033` : หมวกกันน็อค (helmet) : 1 meaning(s), 2 sentences
+- `yt-c06-034` : ด่านตำรวจ (police checkpoint) : 1 meaning(s), 2 sentences
+- `yt-c06-037` : เสียกำลังใจ (to lose morale) : 1 meaning(s), 2 sentences
 - `yt-c06-038` : ตัวสำรอง (substitute (e.g football player)) : 1 meaning(s), 2 sentences
 - `yt-c06-043` : สาระ (essence, meaningful content, key point) : 1 meaning(s), 2 sentences
+- `yt-c06-044` : ศาลพระภูมิ (spirit house) : 1 meaning(s), 2 sentences
+- `yt-c06-045` : เจ้าที่ (guardian spirit, local god of the land) : 1 meaning(s), 2 sentences
+- `yt-c06-046` : ของเซ่นไหว้ (offerings (e.g food, red fanta, flowers, incense, etc)) : 1 meaning(s), 2 sentences
+- `yt-c06-054` : ปุ๋ย (fertilizer) : 1 meaning(s), 2 sentences
+- `yt-c06-055` : นั่งซ้อนท้าย (to ride as a passenger on the back of a motorbike) : 1 meaning(s), 2 sentences
+- `yt-c06-056` : เอะใจ (to feel suspicious, to sense that something is odd) : 1 meaning(s), 2 sentences
+- `yt-c06-057` : รถเก๋ง (sedan (standard passenger car)) : 1 meaning(s), 2 sentences
+- `yt-c06-058` : ข้าวหลาม (bamboo sticky rice) : 1 meaning(s), 2 sentences
 - `yt-c06-062` : สายจูง (leash (e.g for dogs)) : 1 meaning(s), 2 sentences
 - `yt-c06-066` : กระดิก (to wiggle, to twitch, to move slightly back and forth) : 1 meaning(s), 2 sentences
 - `yt-c06-068` : จรจัด (stray (of animals, e.g stray dogs)) : 1 meaning(s), 2 sentences
