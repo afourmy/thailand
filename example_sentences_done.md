@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4833 words**
+**Total: 4843 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2257,16 +2257,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0489` : นานาชาติ (international) : 1 meaning(s), 2 sentences
 - `thaipod-0490` : นาม (name, appellation (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0491` : นำทาง (to guide, to lead the way) : 1 meaning(s), 2 sentences
+- `thaipod-0492` : นำเข้า (to import, to introduce) : 1 meaning(s), 2 sentences
 - `thaipod-0493` : นำแสดง (to star in, to play the lead role (movie, show)) : 1 meaning(s), 2 sentences
 - `thaipod-0495` : นิยม (popular, in favor) : 1 meaning(s), 2 sentences
 - `thaipod-0496` : นิยาย (novel, fiction) : 1 meaning(s), 2 sentences
 - `thaipod-0498` : นิสัย (habit, behavior, character) : 1 meaning(s), 2 sentences
 - `thaipod-0499` : น่าชื่นชม (admirable, praiseworthy) : 1 meaning(s), 2 sentences
 - `thaipod-0500` : น่าดึงดูด (attractive, appealing) : 1 meaning(s), 2 sentences
+- `thaipod-0501` : น่าตื่นตะลึง (astonishing, breathtaking) : 1 meaning(s), 2 sentences
+- `thaipod-0502` : น่าตื่นตาตื่นใจ (amazing, fascinating) : 1 meaning(s), 2 sentences
+- `thaipod-0505` : น้ำตก (waterfall) : 1 meaning(s), 2 sentences
+- `thaipod-0506` : น้ำอัดลม (soda, soft drink) : 1 meaning(s), 2 sentences
 - `thaipod-0508` : บทบาท (role (in a play, story, society)) : 1 meaning(s), 2 sentences
+- `thaipod-0514` : บรรดา (all, the group of (followed by a noun)) : 1 meaning(s), 2 sentences
+- `thaipod-0516` : บรรพบุรุษ (ancestors) : 1 meaning(s), 2 sentences
 - `thaipod-0518` : บริเวณ (area, neighborhood, vicinity) : 1 meaning(s), 2 sentences
 - `thaipod-0519` : บังคับ (to force, to compel, mandatory) : 1 meaning(s), 2 sentences
+- `thaipod-0522` : บางชนิด (some kinds, certain types) : 1 meaning(s), 2 sentences
+- `thaipod-0525` : บุกรุก (to invade, to trespass) : 1 meaning(s), 2 sentences
 - `thaipod-0526` : บุคคล (person, individual) : 1 meaning(s), 2 sentences
+- `thaipod-0527` : บุญ (merit, good karma) : 1 meaning(s), 2 sentences
 - `thaipod-0531` : บ่น (to complain, to grumble) : 1 meaning(s), 2 sentences
 - `thaipod-0532` : บ้านพัก (residence, vacation house) : 1 meaning(s), 2 sentences
 - `thaipod-0533` : บ้านเมือง (country, nation, the state) : 1 meaning(s), 2 sentences
