@@ -120178,6 +120178,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to bow the head",
+        "sentences": [
+          {
+            "thai": "เขาก้มหัวขอโทษ",
+            "en": "He bowed his head and apologized.",
+            "audio_src": "เขาก้มหัวขอโทษ",
+            "audio_en_src": "He bowed his head and apologized."
+          },
+          {
+            "thai": "นักเรียนก้มหัวทักทายครู",
+            "en": "The students bowed to greet the teacher.",
+            "audio_src": "นักเรียนก้มหัวทักทายครู",
+            "audio_en_src": "The students bowed to greet the teacher."
+          }
+        ]
+      }
     ]
   },
   {
@@ -120231,6 +120250,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "strong flavor, intense taste",
+        "sentences": [
+          {
+            "thai": "อาหารอีสานส่วนใหญ่รสจัด",
+            "en": "Most Isan food has strong, bold flavors.",
+            "audio_src": "อาหารอีสานส่วนใหญ่รสจัด",
+            "audio_en_src": "Most Isan food has strong, bold flavors."
+          },
+          {
+            "thai": "ฉันชอบกินอะไรรสจัดๆ",
+            "en": "I like eating things with intense flavors.",
+            "audio_src": "ฉันชอบกินอะไรรสจัดๆ",
+            "audio_en_src": "I like eating things with intense flavors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -120294,6 +120332,25 @@
     "sources": [
       "YouTube",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "thumb",
+        "sentences": [
+          {
+            "thai": "เขายกนิ้วโป้งให้กำลังใจ",
+            "en": "He gave a thumbs up for encouragement.",
+            "audio_src": "เขายกนิ้วโป้งให้กำลังใจ",
+            "audio_en_src": "He gave a thumbs up for encouragement."
+          },
+          {
+            "thai": "ฉันโดนมีดบาดที่นิ้วโป้ง",
+            "en": "I cut my thumb with a knife.",
+            "audio_src": "ฉันโดนมีดบาดที่นิ้วโป้ง",
+            "audio_en_src": "I cut my thumb with a knife."
+          }
+        ]
+      }
     ]
   },
   {
@@ -120304,6 +120361,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "middle finger",
+        "sentences": [
+          {
+            "thai": "นิ้วกลางเป็นนิ้วที่ยาวที่สุด",
+            "en": "The middle finger is the longest finger.",
+            "audio_src": "นิ้วกลางเป็นนิ้วที่ยาวที่สุด",
+            "audio_en_src": "The middle finger is the longest finger."
+          },
+          {
+            "thai": "อย่าชูนิ้วกลางใส่คนอื่น",
+            "en": "Don’t give people the middle finger.",
+            "audio_src": "อย่าชูนิ้วกลางใส่คนอื่น",
+            "audio_en_src": "Don’t give people the middle finger."
+          }
+        ]
+      }
     ]
   },
   {
@@ -120657,6 +120733,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "compassion, deep kindness",
+        "sentences": [
+          {
+            "thai": "พระสอนให้มีความเมตตาต่อทุกชีวิต",
+            "en": "The monk teaches us to have compassion for all living things.",
+            "audio_src": "พระสอนให้มีความเมตตาต่อทุกชีวิต",
+            "audio_en_src": "The monk teaches us to have compassion for all living things."
+          },
+          {
+            "thai": "เขาช่วยสัตว์จรจัดด้วยความเมตตา",
+            "en": "He helps stray animals out of compassion.",
+            "audio_src": "เขาช่วยสัตว์จรจัดด้วยความเมตตา",
+            "audio_en_src": "He helps stray animals out of compassion."
+          }
+        ]
+      }
     ]
   },
   {
@@ -120965,6 +121060,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "zebra crossing",
+        "sentences": [
+          {
+            "thai": "ข้ามถนนตรงทางม้าลายนะ",
+            "en": "Cross the road at the crosswalk.",
+            "audio_src": "ข้ามถนนตรงทางม้าลายนะ",
+            "audio_en_src": "Cross the road at the crosswalk."
+          },
+          {
+            "thai": "รถต้องหยุดให้คนข้ามทางม้าลาย",
+            "en": "Cars have to stop for people at the crosswalk.",
+            "audio_src": "รถต้องหยุดให้คนข้ามทางม้าลาย",
+            "audio_en_src": "Cars have to stop for people at the crosswalk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -121006,6 +121120,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "lizard",
+        "sentences": [
+          {
+            "thai": "มีกิ้งก่าเกาะอยู่บนกำแพง",
+            "en": "There’s a lizard on the wall.",
+            "audio_src": "มีกิ้งก่าเกาะอยู่บนกำแพง",
+            "audio_en_src": "There’s a lizard on the wall."
+          },
+          {
+            "thai": "กิ้งก่าเปลี่ยนสีได้",
+            "en": "Lizards can change color.",
+            "audio_src": "กิ้งก่าเปลี่ยนสีได้",
+            "audio_en_src": "Lizards can change color."
+          }
+        ]
+      }
     ]
   },
   {
@@ -121121,6 +121254,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "nude, porn",
+        "sentences": [
+          {
+            "thai": "ชุดนี้โป๊ไปหน่อยสำหรับงานนี้",
+            "en": "This outfit is a bit too revealing for this event.",
+            "audio_src": "ชุดนี้โป๊ไปหน่อยสำหรับงานนี้",
+            "audio_en_src": "This outfit is a bit too revealing for this event."
+          },
+          {
+            "thai": "เขาโดนจับเพราะขายหนังโป๊",
+            "en": "He got arrested for selling porn.",
+            "audio_src": "เขาโดนจับเพราะขายหนังโป๊",
+            "audio_en_src": "He got arrested for selling porn."
+          }
+        ]
+      }
     ]
   },
   {
@@ -121131,6 +121283,25 @@
     "topic": "beliefs",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to meditate",
+        "sentences": [
+          {
+            "thai": "เขานั่งสมาธิทุกเช้าก่อนไปทำงาน",
+            "en": "He meditates every morning before work.",
+            "audio_src": "เขานั่งสมาธิทุกเช้าก่อนไปทำงาน",
+            "audio_en_src": "He meditates every morning before work."
+          },
+          {
+            "thai": "นั่งสมาธิช่วยให้จิตใจสงบ",
+            "en": "Meditating helps calm the mind.",
+            "audio_src": "นั่งสมาธิช่วยให้จิตใจสงบ",
+            "audio_en_src": "Meditating helps calm the mind."
+          }
+        ]
+      }
     ]
   },
   {
@@ -121203,6 +121374,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to forgive, to pardon",
+        "sentences": [
+          {
+            "thai": "ขอโทษนะ ยกโทษให้ฉันได้ไหม",
+            "en": "I’m sorry, can you forgive me?",
+            "audio_src": "ขอโทษนะ ยกโทษให้ฉันได้ไหม",
+            "audio_en_src": "I’m sorry, can you forgive me?"
+          },
+          {
+            "thai": "เธอยกโทษให้เขาแล้ว",
+            "en": "She’s already forgiven him.",
+            "audio_src": "เธอยกโทษให้เขาแล้ว",
+            "audio_en_src": "She’s already forgiven him."
+          }
+        ]
+      }
     ]
   },
   {

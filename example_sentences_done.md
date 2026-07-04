@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5083 words**
+**Total: 5093 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3139,7 +3139,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-071` : ตักบาตร (offering food to monks (religious term)) : 1 meaning(s), 2 sentences
 - `yt-c02-074` : พูดปด (to lie, to tell a lie) : 1 meaning(s), 2 sentences
 - `yt-c02-082` : พนมมือ (to press palms together (greeting, prayer)) : 1 meaning(s), 2 sentences
+- `yt-c02-085` : ก้มหัว (to bow the head) : 1 meaning(s), 2 sentences
+- `yt-c02-090` : รสจัด (strong flavor, intense taste) : 1 meaning(s), 2 sentences
 - `yt-c02-091` : อุดมสมบูรณ์ (abundant, fertile) : 1 meaning(s), 2 sentences
+- `yt-c02-094` : นิ้วโป้ง, นิ้วหัวแม่มือ (thumb) : 1 meaning(s), 2 sentences
+- `yt-c02-095` : นิ้วกลาง (middle finger) : 1 meaning(s), 2 sentences
 - `yt-c02-096` : โยน - ปา (to throw - to toss (with aim, forcefully)) : 1 meaning(s), 2 sentences
 - `yt-c02-097` : แบ (to unfold, spread out, to stretch out (e.g hand, finger)) : 1 meaning(s), 2 sentences
 - `yt-c02-098` : เขี่ย (to nudge, to flick) : 1 meaning(s), 2 sentences
@@ -3148,15 +3152,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-005` : จดจำ (to remember, to retain in memory) : 1 meaning(s), 2 sentences
 - `yt-c03-007` : ร้อย (hundred; to string, to thread (idea of connecting items in a sequence)) : 2 meaning(s), 4 sentences
+- `yt-c03-011` : ความเมตตา (compassion, deep kindness) : 1 meaning(s), 2 sentences
 - `yt-c03-014` : กระแทก (to slam, to hit with violent and sudden impact) : 1 meaning(s), 2 sentences
 - `yt-c03-022` : ตัวหนา (bold (text, e.g in Word)) : 1 meaning(s), 2 sentences
 - `yt-c03-027` : จับใจความ (to grasp the main idea, to understand the gist of) : 1 meaning(s), 2 sentences
 - `yt-c03-029` : อาศัย, พึ่งพา, พึ่งพาอาศัย (to rely on, to depend on) : 1 meaning(s), 2 sentences
+- `yt-c03-036` : ทางม้าลาย (zebra crossing) : 1 meaning(s), 2 sentences
 - `yt-c03-037` : เกินความจำเป็น (unnecessary, excessive, more than needed) : 1 meaning(s), 2 sentences
+- `yt-c03-038` : กิ้งก่า (lizard) : 1 meaning(s), 2 sentences
 - `yt-c03-039` : ตัวกรอง (filter) : 1 meaning(s), 2 sentences
 - `yt-c03-040` : ปรบ, ปรบมือ (to clap (hands), to applaud) : 1 meaning(s), 2 sentences
 - `yt-c03-042` : สบตา, สบสายตา (to make eye contact) : 1 meaning(s), 2 sentences
+- `yt-c03-043` : โป๊ (nude, porn) : 1 meaning(s), 2 sentences
+- `yt-c03-044` : นั่งสมาธิ (to meditate) : 1 meaning(s), 2 sentences
 - `yt-c03-049` : รัวๆ (over and over, in quick succession, repeatedly, non-stop) : 1 meaning(s), 2 sentences
+- `yt-c03-050` : ยกโทษ (to forgive, to pardon) : 1 meaning(s), 2 sentences
 - `yt-c03-061` : ตามเข็มนาฬิกา - ทวนเข็มนาฬิกา (clockwise - counterclockwise) : 1 meaning(s), 2 sentences
 - `yt-c03-071` : เมาส์ (mouse) : 1 meaning(s), 2 sentences
 - `yt-c03-072` : แผ่นรองเมาส์ (mouse pad) : 1 meaning(s), 2 sentences
