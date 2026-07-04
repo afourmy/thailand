@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4723 words**
+**Total: 4733 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1916,14 +1916,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-451` : หวีด (to shriek, to scream (high-pitched)) : 1 meaning(s), 2 sentences
 - `tsl-452` : ฝืน (to force, to go against, to resist) : 1 meaning(s), 2 sentences
 - `tsl-453` : หนักอึ้ง (very heavy, crushingly heavy (literal or emotional)) : 1 meaning(s), 2 sentences
+- `tsl-454` : ชั่วขณะ (momentarily, for a moment, brief instant) : 1 meaning(s), 2 sentences
 - `tsl-455` : ดิ้นรน (to struggle, to strive against difficulty) : 1 meaning(s), 2 sentences
 - `tsl-459` : หลอกหลอน (to haunt (ghosts, memories)) : 1 meaning(s), 2 sentences
 - `tsl-460` : แข็งทื่อ (stiff, rigid) : 1 meaning(s), 2 sentences
 - `tsl-461` : คล้ายคลึง (analogous, similar) : 1 meaning(s), 2 sentences
 - `tsl-462` : รับรู้ (to recognize, to acknowledge, to perceive, to be aware of) : 1 meaning(s), 2 sentences
 - `tsl-463` : ท่อง (to recite, to memorize; to roam, to travel, to wander) : 2 meaning(s), 4 sentences
+- `tsl-472` : บึง (swamp, marsh) : 1 meaning(s), 2 sentences
+- `tsl-474` : ซาบซึ้ง, ซาบซึ้งใจ (deeply appreciative, moved, touched, grateful (formal)) : 1 meaning(s), 2 sentences
 - `tsl-475` : สันติ (peace, tranquility) : 1 meaning(s), 2 sentences
+- `tsl-476` : โรคสมาธิสั้น (ADHD) : 1 meaning(s), 2 sentences
 - `tsl-478` : แออัด (crowded, packed, congested) : 1 meaning(s), 2 sentences
+- `tsl-479` : รอบคอบ (careful, cautious, thorough) : 1 meaning(s), 2 sentences
 - `tsl-481` : บอกลา (to say goodbye, to bid farewell) : 1 meaning(s), 2 sentences
 - `tsl-482` : ล้าสมัย (outdated, obsolete) : 1 meaning(s), 2 sentences
 - `tsl-483` : ทิ้งขว้าง (to abandon, to discard, to throw away carelessly) : 1 meaning(s), 2 sentences
@@ -1931,16 +1936,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-487` : สุงสิง (to hang out with, to mingle with, to be close to) : 1 meaning(s), 2 sentences
 - `tsl-488` : ขุดคุ้ย (to dig up; (figuratively) to dig into (data, past)) : 2 meaning(s), 4 sentences
 - `tsl-489` : ขู่, ข่มขู่ (to intimidate, to threaten) : 1 meaning(s), 2 sentences
+- `tsl-490` : การคุกคามทางเพศ (sexual harassment) : 1 meaning(s), 2 sentences
 - `tsl-491` : ภาพโป๊ (nude, pornographic images) : 1 meaning(s), 2 sentences
 - `tsl-492` : ตัดต่อ (to edit (image, photo, video)) : 1 meaning(s), 2 sentences
 - `tsl-493` : ลามก (pornographic, obscene, indecent) : 1 meaning(s), 2 sentences
 - `tsl-494` : ปลอมตัว (to disguise oneself, to impersonate, to pose as) : 1 meaning(s), 2 sentences
+- `tsl-495` : สารพัด (all kinds of, various (+ noun)) : 1 meaning(s), 2 sentences
 - `tsl-496` : ผิดใจ (to have a falling out, to be on bad terms with someone) : 1 meaning(s), 2 sentences
 - `tsl-497` : จัดเต็ม (to go all out, to give it everything) : 1 meaning(s), 2 sentences
 - `tsl-498` : นักเลง (gangster, ruffian, thug) : 1 meaning(s), 2 sentences
 - `tsl-499` : ผลที่ตามมา (consequence, aftermath, result) : 1 meaning(s), 2 sentences
+- `tsl-501` : ตกหลุมพราง (to fall into a trap) : 1 meaning(s), 2 sentences
 - `tsl-502` : ตอบโต้ (to respond, to retaliate, to fight back) : 1 meaning(s), 2 sentences
+- `tsl-503` : งอก (to sprout, to germinate) : 1 meaning(s), 2 sentences
 - `tsl-504` : เพาะ (to cultivate, to breed, to implant) : 1 meaning(s), 2 sentences
+- `tsl-505` : เมตตากรุณา (kindness and compassion) : 1 meaning(s), 2 sentences
 - `tsl-512` : ผิวพรรณ (skin complexion) : 1 meaning(s), 2 sentences
 - `tsl-513` : สูญเสีย (to suffer a loss, to lose (something important)) : 1 meaning(s), 2 sentences
 - `tsl-513b` : สูญสิ้น (to be irrecoverably lost, to be completely gone) : 1 meaning(s), 2 sentences
