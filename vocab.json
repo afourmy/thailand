@@ -52137,6 +52137,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to the extent of, to the level of",
+        "sentences": [
+          {
+            "thai": "เขาโกรธถึงขั้นไม่พูดกับฉัน",
+            "en": "He was angry to the point of not speaking to me.",
+            "audio_src": "เขาโกรธถึงขั้นไม่พูดกับฉัน",
+            "audio_en_src": "He was angry to the point of not speaking to me."
+          },
+          {
+            "thai": "ป่วยหนักถึงขั้นต้องนอนโรงพยาบาล",
+            "en": "He got so sick he had to be hospitalized.",
+            "audio_src": "ป่วยหนักถึงขั้นต้องนอนโรงพยาบาล",
+            "audio_en_src": "He got so sick he had to be hospitalized."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52147,6 +52166,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "pros and cons",
+        "sentences": [
+          {
+            "thai": "ทุกอย่างมีข้อดีข้อเสีย",
+            "en": "Everything has its pros and cons.",
+            "audio_src": "ทุกอย่างมีข้อดีข้อเสีย",
+            "audio_en_src": "Everything has its pros and cons."
+          },
+          {
+            "thai": "ลองชั่งข้อดีข้อเสียก่อนตัดสินใจ",
+            "en": "Weigh the pros and cons before deciding.",
+            "audio_src": "ลองชั่งข้อดีข้อเสียก่อนตัดสินใจ",
+            "audio_en_src": "Weigh the pros and cons before deciding."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52169,6 +52207,25 @@
     "sources": [
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "height (of a person only)",
+        "sentences": [
+          {
+            "thai": "ส่วนสูงของเขาเท่าไหร่",
+            "en": "How tall is he?",
+            "audio_src": "ส่วนสูงของเขาเท่าไหร่",
+            "audio_en_src": "How tall is he?"
+          },
+          {
+            "thai": "ส่วนสูงของเธอ 170 เซนติเมตร",
+            "en": "Her height is 170 centimeters.",
+            "audio_src": "ส่วนสูงของเธอ 170 เซนติเมตร",
+            "audio_en_src": "Her height is 170 centimeters."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52303,6 +52360,25 @@
     "topic": "beliefs",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be reborn, reincarnated",
+        "sentences": [
+          {
+            "thai": "เขาเชื่อว่าคนเราเกิดใหม่ได้",
+            "en": "He believes people can be reborn.",
+            "audio_src": "เขาเชื่อว่าคนเราเกิดใหม่ได้",
+            "audio_en_src": "He believes people can be reborn."
+          },
+          {
+            "thai": "ชาติหน้าขอเกิดใหม่เป็นนก",
+            "en": "In my next life I want to be reborn as a bird.",
+            "audio_src": "ชาติหน้าขอเกิดใหม่เป็นนก",
+            "audio_en_src": "In my next life I want to be reborn as a bird."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52354,6 +52430,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "slow thinker, stupid (slang)",
+        "sentences": [
+          {
+            "thai": "วันนี้หัวไม่ไป คิดอะไรไม่ออกเลย",
+            "en": "My brain's not working today, I can't think of anything.",
+            "audio_src": "วันนี้หัวไม่ไป คิดอะไรไม่ออกเลย",
+            "audio_en_src": "My brain's not working today, I can't think of anything."
+          },
+          {
+            "thai": "ง่วงจนหัวไม่ไป",
+            "en": "I'm so sleepy I can't think straight.",
+            "audio_src": "ง่วงจนหัวไม่ไป",
+            "audio_en_src": "I'm so sleepy I can't think straight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52396,6 +52491,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "incompetent, to be no good at something",
+        "sentences": [
+          {
+            "thai": "เขาทำงานไม่เอาไหนเลย",
+            "en": "He's completely useless at work.",
+            "audio_src": "เขาทำงานไม่เอาไหนเลย",
+            "audio_en_src": "He's completely useless at work."
+          },
+          {
+            "thai": "อย่าทำตัวไม่เอาไหน",
+            "en": "Don't be so hopeless.",
+            "audio_src": "อย่าทำตัวไม่เอาไหน",
+            "audio_en_src": "Don't be so hopeless."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52406,6 +52520,25 @@
     "topic": "time",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "day after day, every day, all day long",
+        "sentences": [
+          {
+            "thai": "วันๆเขาเอาแต่นอน",
+            "en": "All day long he just sleeps.",
+            "audio_src": "วันๆเขาเอาแต่นอน",
+            "audio_en_src": "All day long he just sleeps."
+          },
+          {
+            "thai": "วันๆไม่ทำอะไรเป็นชิ้นเป็นอัน",
+            "en": "Day after day he doesn't get anything done.",
+            "audio_src": "วันๆไม่ทำอะไรเป็นชิ้นเป็นอัน",
+            "audio_en_src": "Day after day he doesn't get anything done."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52515,6 +52648,25 @@
       "Tamago L3",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "strict, stringent",
+        "sentences": [
+          {
+            "thai": "ครูคนนี้เข้มงวดมาก",
+            "en": "This teacher is very strict.",
+            "audio_src": "ครูคนนี้เข้มงวดมาก",
+            "audio_en_src": "This teacher is very strict."
+          },
+          {
+            "thai": "พ่อเข้มงวดเรื่องเวลากลับบ้าน",
+            "en": "Dad is strict about curfew.",
+            "audio_src": "พ่อเข้มงวดเรื่องเวลากลับบ้าน",
+            "audio_en_src": "Dad is strict about curfew."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52525,6 +52677,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"if I had known this...\"",
+        "sentences": [
+          {
+            "thai": "รู้งี้ไม่มาดีกว่า",
+            "en": "If I'd known, I wouldn't have come.",
+            "audio_src": "รู้งี้ไม่มาดีกว่า",
+            "audio_en_src": "If I'd known, I wouldn't have come."
+          },
+          {
+            "thai": "รู้อย่างนี้ซื้อเผื่อไว้อีกอันก็ดี",
+            "en": "Had I known, I'd have bought an extra one.",
+            "audio_src": "รู้อย่างนี้ซื้อเผื่อไว้อีกอันก็ดี",
+            "audio_en_src": "Had I known, I'd have bought an extra one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52597,6 +52768,25 @@
     "topic": "health",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "dizzy vision, blurred sight",
+        "sentences": [
+          {
+            "thai": "อ่านหนังสือนานๆแล้วตาลาย",
+            "en": "Reading for a long time makes my vision blurry.",
+            "audio_src": "อ่านหนังสือนานๆแล้วตาลาย",
+            "audio_en_src": "Reading for a long time makes my vision blurry."
+          },
+          {
+            "thai": "ลุกเร็วไปหน่อยเลยตาลาย",
+            "en": "I stood up too fast and my vision went dizzy.",
+            "audio_src": "ลุกเร็วไปหน่อยเลยตาลาย",
+            "audio_en_src": "I stood up too fast and my vision went dizzy."
+          }
+        ]
+      }
     ]
   },
   {

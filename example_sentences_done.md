@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4483 words**
+**Total: 4493 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1351,17 +1351,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-474` : คู่ครอง (spouse, married partner) : 1 meaning(s), 2 sentences
 - `tamago-l3-476` : คลุมถุงชน (arranged marriage) : 1 meaning(s), 2 sentences
 - `tamago-l3-478` : เหยียบ (to step on, to tread on) : 1 meaning(s), 2 sentences
+- `tamago-l3-479` : ถึงขั้น (to the extent of, to the level of) : 1 meaning(s), 2 sentences
+- `tamago-l3-480` : ข้อดีข้อเสีย (pros and cons) : 1 meaning(s), 2 sentences
+- `tamago-l3-482` : ส่วนสูง (height (of a person only)) : 1 meaning(s), 2 sentences
 - `wlt-c05-099` : ความสูง (height) : 1 meaning(s), 2 sentences
 - `tamago-l3-483` : สมบูรณ์แบบ (perfect, flawless) : 1 meaning(s), 2 sentences
 - `tamago-l3-484` : นายแบบ (male model) : 1 meaning(s), 2 sentences
 - `tamago-l3-485` : คบหาดูใจ (to date, to get to know each other romantically) : 1 meaning(s), 2 sentences
+- `tamago-l3-486` : เกิดใหม่ (to be reborn, reincarnated) : 1 meaning(s), 2 sentences
 - `tamago-l3-487` : ดักรอ (to lie in wait, to ambush) : 1 meaning(s), 2 sentences
+- `tamago-l3-489` : หัวไม่ไป (slow thinker, stupid (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-490` : รุ่ง (to prosper, to succeed, to do well) : 1 meaning(s), 2 sentences
+- `tamago-l3-491` : ไม่เอาไหน (incompetent, to be no good at something) : 1 meaning(s), 2 sentences
+- `tamago-l3-492` : วันๆ (day after day, every day, all day long) : 1 meaning(s), 2 sentences
 - `tamago-l3-493` : ข่าวร้าย (bad news) : 1 meaning(s), 2 sentences
 - `tamago-l3-494` : ตามนี้ (as agreed, as planned, as is) : 1 meaning(s), 2 sentences
 - `tamago-l3-495` : เอาใจ (to please, to pamper, to indulge someone) : 1 meaning(s), 2 sentences
+- `tamago-l3-496` : เข้มงวด (strict, stringent) : 1 meaning(s), 2 sentences
+- `tamago-l3-497` : รู้อย่างนี้, รู้งี้ ("if I had known this...") : 1 meaning(s), 2 sentences
 - `tamago-l3-499` : สุ่ม (to pick randomly) : 1 meaning(s), 2 sentences
 - `tamago-l3-500` : เอาตัวรอด (to get by, to survive, to manage) : 1 meaning(s), 2 sentences
+- `tamago-l3-501` : ตาลาย (dizzy vision, blurred sight) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-504` : พึ่ง, พึ่งพา (to rely on, to depend on) : 1 meaning(s), 2 sentences
 - `tamago-l3-509` : ลัดคิว (to cut in line, to skip the queue) : 1 meaning(s), 2 sentences
