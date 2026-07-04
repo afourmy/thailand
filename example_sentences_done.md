@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4973 words**
+**Total: 4983 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2735,16 +2735,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-077` : นกแก้ว (parrot) : 1 meaning(s), 2 sentences
 - `tobo-078` : ถอดเสื้อผ้า (to undress) : 1 meaning(s), 2 sentences
 - `tobo-079` : หน้าผาก (forehead) : 1 meaning(s), 2 sentences
+- `tobo-080` : พระอาทิตย์ตก (sunset) : 1 meaning(s), 2 sentences
 - `tobo-081` : เพดาน (ceiling) : 1 meaning(s), 2 sentences
 - `tobo-083` : อนาคต (future) : 1 meaning(s), 2 sentences
 - `tobo-085` : รายละเอียด (detail(s)) : 1 meaning(s), 2 sentences
 - `tobo-086` : ปวดหัว (headache) : 1 meaning(s), 2 sentences
 - `tobo-087` : โจมตี (to attack) : 1 meaning(s), 2 sentences
+- `tobo-088` : ตกหลุมรัก (to fall in love) : 1 meaning(s), 2 sentences
+- `tobo-089` : ไม่ดีต่อสุขภาพ (unhealthy) : 1 meaning(s), 2 sentences
 - `tobo-090` : ประสบการณ์ (experience) : 1 meaning(s), 2 sentences
 - `tobo-091` : เรื่องตลก (joke) : 1 meaning(s), 2 sentences
 - `tobo-092` : กำปั้น (fist) : 1 meaning(s), 2 sentences
 - `tobo-093` : ผู้เชี่ยวชาญ (expert, specialist) : 1 meaning(s), 2 sentences
+- `tobo-094` : งานแต่งงาน (wedding) : 1 meaning(s), 2 sentences
 - `tobo-095` : นัดหมาย (appointment) : 1 meaning(s), 2 sentences
+- `tobo-096` : ดาวเคราะห์ (planet) : 1 meaning(s), 2 sentences
 - `tobo-097` : หนังสือพิมพ์ (newspaper) : 1 meaning(s), 2 sentences
 - `tobo-098` : มนุษย์ (human (being)) : 1 meaning(s), 2 sentences
 - `tobo-099` : วาด (to draw) : 1 meaning(s), 2 sentences
@@ -2755,11 +2760,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-105` : แช่แข็ง (to freeze) : 1 meaning(s), 2 sentences
 - `tobo-106` : ลังเล (to hesitate) : 1 meaning(s), 2 sentences
 - `tobo-107` : ระเบียง (balcony, terrace) : 1 meaning(s), 2 sentences
+- `tobo-108` : ทนายความ (lawyer) : 1 meaning(s), 2 sentences
 - `tobo-109` : สนามกีฬา (stadium) : 1 meaning(s), 2 sentences
+- `tobo-110` : เสือ (tiger) : 1 meaning(s), 2 sentences
 - `tobo-111` : การผจญภัย (adventure) : 1 meaning(s), 2 sentences
 - `tobo-112` : ความผิดพลาด (mistake, error) : 1 meaning(s), 2 sentences
+- `tobo-113` : น้ำผึ้ง (honey) : 1 meaning(s), 2 sentences
 - `tobo-114` : กฎ (rule) : 1 meaning(s), 2 sentences
+- `tobo-115` : แดดจัด (sunny, strong sun) : 1 meaning(s), 2 sentences
 - `tobo-119` : โกรธ (angry) : 1 meaning(s), 2 sentences
+- `tobo-120` : เคร่งศาสนา (religious (strict observance)) : 1 meaning(s), 2 sentences
 - `tobo-122` : ให้อภัย (to forgive) : 1 meaning(s), 2 sentences
 - `tobo-123` : จักรวาล (universe) : 1 meaning(s), 2 sentences
 - `tobo-125` : การตัดสินใจ (decision) : 1 meaning(s), 2 sentences

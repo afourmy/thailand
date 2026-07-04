@@ -105598,6 +105598,25 @@
     "topic": "nature",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "sunset",
+        "sentences": [
+          {
+            "thai": "เราชมพระอาทิตย์ตกที่ริมทะเล",
+            "en": "We watched the sunset by the sea.",
+            "audio_src": "เราชมพระอาทิตย์ตกที่ริมทะเล",
+            "audio_en_src": "We watched the sunset by the sea."
+          },
+          {
+            "thai": "พระอาทิตย์ตกวันนี้สวยมาก",
+            "en": "The sunset today is really beautiful.",
+            "audio_src": "พระอาทิตย์ตกวันนี้สวยมาก",
+            "audio_en_src": "The sunset today is really beautiful."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105796,6 +105815,25 @@
     "topic": "expressions",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "to fall in love",
+        "sentences": [
+          {
+            "thai": "เขาตกหลุมรักเธอตั้งแต่แรกเห็น",
+            "en": "He fell in love with her at first sight.",
+            "audio_src": "เขาตกหลุมรักเธอตั้งแต่แรกเห็น",
+            "audio_en_src": "He fell in love with her at first sight."
+          },
+          {
+            "thai": "ฉันตกหลุมรักเมืองนี้เลย",
+            "en": "I've completely fallen in love with this city.",
+            "audio_src": "ฉันตกหลุมรักเมืองนี้เลย",
+            "audio_en_src": "I've completely fallen in love with this city."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105806,6 +105844,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "unhealthy",
+        "sentences": [
+          {
+            "thai": "กินของทอดมากๆไม่ดีต่อสุขภาพ",
+            "en": "Eating too much fried food is unhealthy.",
+            "audio_src": "กินของทอดมากๆไม่ดีต่อสุขภาพ",
+            "audio_en_src": "Eating too much fried food is unhealthy."
+          },
+          {
+            "thai": "การนอนดึกเป็นประจำไม่ดีต่อสุขภาพ",
+            "en": "Regularly staying up late is bad for your health.",
+            "audio_src": "การนอนดึกเป็นประจำไม่ดีต่อสุขภาพ",
+            "audio_en_src": "Regularly staying up late is bad for your health."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105945,6 +106002,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "wedding",
+        "sentences": [
+          {
+            "thai": "เราไปงานแต่งงานของเพื่อน",
+            "en": "We went to a friend's wedding.",
+            "audio_src": "เราไปงานแต่งงานของเพื่อน",
+            "audio_en_src": "We went to a friend's wedding."
+          },
+          {
+            "thai": "งานแต่งงานจัดที่โรงแรมหรู",
+            "en": "The wedding was held at a fancy hotel.",
+            "audio_src": "งานแต่งงานจัดที่โรงแรมหรู",
+            "audio_en_src": "The wedding was held at a fancy hotel."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105987,6 +106063,25 @@
     "topic": "nature",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "planet",
+        "sentences": [
+          {
+            "thai": "โลกเป็นดาวเคราะห์ดวงหนึ่งในระบบสุริยะ",
+            "en": "Earth is a planet in the solar system.",
+            "audio_src": "โลกเป็นดาวเคราะห์ดวงหนึ่งในระบบสุริยะ",
+            "audio_en_src": "Earth is a planet in the solar system."
+          },
+          {
+            "thai": "ดาวอังคารเป็นดาวเคราะห์สีแดง",
+            "en": "Mars is the red planet.",
+            "audio_src": "ดาวอังคารเป็นดาวเคราะห์สีแดง",
+            "audio_en_src": "Mars is the red planet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106340,6 +106435,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "lawyer",
+        "sentences": [
+          {
+            "thai": "เขาจ้างทนายความมาสู้คดี",
+            "en": "He hired a lawyer to fight the case.",
+            "audio_src": "เขาจ้างทนายความมาสู้คดี",
+            "audio_en_src": "He hired a lawyer to fight the case."
+          },
+          {
+            "thai": "ทนายความให้คำปรึกษาด้านกฎหมาย",
+            "en": "The lawyer gives legal advice.",
+            "audio_src": "ทนายความให้คำปรึกษาด้านกฎหมาย",
+            "audio_en_src": "The lawyer gives legal advice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106384,6 +106498,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tiger",
+        "sentences": [
+          {
+            "thai": "เสือเป็นสัตว์นักล่าที่ดุร้าย",
+            "en": "The tiger is a fierce predator.",
+            "audio_src": "เสือเป็นสัตว์นักล่าที่ดุร้าย",
+            "audio_en_src": "The tiger is a fierce predator."
+          },
+          {
+            "thai": "ในสวนสัตว์มีเสือโคร่งสองตัว",
+            "en": "There are two tigers in the zoo.",
+            "audio_src": "ในสวนสัตว์มีเสือโคร่งสองตัว",
+            "audio_en_src": "There are two tigers in the zoo."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106457,6 +106590,25 @@
     "topic": "food",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "honey",
+        "sentences": [
+          {
+            "thai": "เธอใส่น้ำผึ้งลงในชา",
+            "en": "She puts honey in her tea.",
+            "audio_src": "เธอใส่น้ำผึ้งลงในชา",
+            "audio_en_src": "She puts honey in her tea."
+          },
+          {
+            "thai": "น้ำผึ้งแท้มีรสหวานธรรมชาติ",
+            "en": "Real honey has a natural sweetness.",
+            "audio_src": "น้ำผึ้งแท้มีรสหวานธรรมชาติ",
+            "audio_en_src": "Real honey has a natural sweetness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106499,6 +106651,25 @@
     "topic": "weather",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "sunny, strong sun",
+        "sentences": [
+          {
+            "thai": "วันนี้แดดจัดมาก อย่าลืมทาครีมกันแดด",
+            "en": "It's very sunny today, don't forget your sunscreen.",
+            "audio_src": "วันนี้แดดจัดมาก อย่าลืมทาครีมกันแดด",
+            "audio_en_src": "It's very sunny today, don't forget your sunscreen."
+          },
+          {
+            "thai": "ตากผ้าตอนแดดจัดแห้งเร็ว",
+            "en": "Clothes hung out in strong sun dry fast.",
+            "audio_src": "ตากผ้าตอนแดดจัดแห้งเร็ว",
+            "audio_en_src": "Clothes hung out in strong sun dry fast."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106554,6 +106725,25 @@
     "topic": "beliefs",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "religious (strict observance)",
+        "sentences": [
+          {
+            "thai": "ครอบครัวเขาเคร่งศาสนามาก",
+            "en": "His family is very religious.",
+            "audio_src": "ครอบครัวเขาเคร่งศาสนามาก",
+            "audio_en_src": "His family is very religious."
+          },
+          {
+            "thai": "คนเคร่งศาสนามักไปวัดทุกวันพระ",
+            "en": "Devout people usually go to the temple on every holy day.",
+            "audio_src": "คนเคร่งศาสนามักไปวัดทุกวันพระ",
+            "audio_en_src": "Devout people usually go to the temple on every holy day."
+          }
+        ]
+      }
     ]
   },
   {
