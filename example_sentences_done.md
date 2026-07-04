@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4563 words**
+**Total: 4573 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1533,22 +1533,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-712` : เอียง (to incline, to tilt, tilted, slanted) : 1 meaning(s), 2 sentences
 - `tamago-l3-713` : ปล่อยไว้ (to leave (it) as is, to leave alone) : 1 meaning(s), 2 sentences
 - `tamago-l3-714` : กระทั่ง (even, even to the point of) : 1 meaning(s), 2 sentences
+- `tamago-l3-714b` : จนกระทั่ง (until, up to the point that) : 1 meaning(s), 2 sentences
 - `tamago-l3-715` : อันตรายถึงชีวิต (life-threatening, deadly) : 1 meaning(s), 2 sentences
+- `tamago-l3-717` : ต่อให้ (even if, even though) : 1 meaning(s), 2 sentences
 - `tamago-l3-718` : พอรู้ (to have a rough idea, to know roughly) : 1 meaning(s), 2 sentences
 - `tamago-l3-719` : หลอกลวง (to defraud, to scam) : 1 meaning(s), 2 sentences
 - `tamago-l3-720` : ปกปิด (to conceal, to cover up, to hide) : 1 meaning(s), 2 sentences
+- `tamago-l3-721` : สักระยะ (for a while, for some time) : 1 meaning(s), 2 sentences
+- `tamago-l3-722` : ตีราคา (to assess costs, to estimate a price) : 1 meaning(s), 2 sentences
 - `tamago-l3-723` : สูญเปล่า (wasted, in vain) : 1 meaning(s), 2 sentences
 - `tamago-l3-724` : ถ้วน (exactly, completely, in full) : 1 meaning(s), 2 sentences
+- `tamago-l3-725` : ราคาย่อมเยา (affordable, reasonably priced) : 1 meaning(s), 2 sentences
 - `tamago-l3-726` : วางใจ, ไว้วางใจ (to trust, to have confidence in, "rest assured") : 1 meaning(s), 2 sentences
 - `tamago-l3-727` : กะทัดรัด (compact, concise) : 1 meaning(s), 2 sentences
+- `tamago-l3-729` : ตามตรง (honestly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l3-732` : หลบซ่อน (to hide oneself, to take cover) : 1 meaning(s), 2 sentences
+- `tamago-l3-733` : นานพอควร (quite long, fairly long) : 1 meaning(s), 2 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
 - `tamago-l3-737` : จัดงาน (to organize an event, to hold a ceremony) : 1 meaning(s), 2 sentences
 - `tamago-l3-738` : วัยเดียวกัน (same age) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
 - `tamago-l3-740` : ตวาดใส่ (to scold loudly, to yell at) : 1 meaning(s), 2 sentences
+- `tamago-l3-741` : ไหว้พระ (to pay respect to monks or Buddha images) : 1 meaning(s), 2 sentences
 - `tamago-l3-742` : อ่านหนังสือสอบ (to study for an exam) : 1 meaning(s), 2 sentences
 - `tamago-l3-743` : เลอะเทอะ (dirty, messy) : 1 meaning(s), 2 sentences
+- `tamago-l3-744` : หัวโบราณ (old-fashioned, conservative-minded) : 1 meaning(s), 2 sentences
+- `tamago-l3-747` : หมาจรจัด (stray dog) : 1 meaning(s), 2 sentences
 - `tamago-l3-753` : วนเวียน (to circle around, to go round and round) : 1 meaning(s), 2 sentences
 - `tamago-l3-758` : สร้างสรรค์ (constructive, creative, to create constructively) : 1 meaning(s), 2 sentences
 - `tamago-l3-759` : ชมรม (club, association (e.g informal, like a school club)) : 1 meaning(s), 2 sentences

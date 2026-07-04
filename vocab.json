@@ -58479,6 +58479,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "until, up to the point that",
+        "sentences": [
+          {
+            "thai": "เขารอจนกระทั่งฝนหยุด",
+            "en": "He waited until the rain stopped.",
+            "audio_src": "เขารอจนกระทั่งฝนหยุด",
+            "audio_en_src": "He waited until the rain stopped."
+          },
+          {
+            "thai": "เราคุยกันจนกระทั่งเช้า",
+            "en": "We talked until morning.",
+            "audio_src": "เราคุยกันจนกระทั่งเช้า",
+            "audio_en_src": "We talked until morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58531,6 +58550,25 @@
     "sources": [
       "Tamago L3",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "even if, even though",
+        "sentences": [
+          {
+            "thai": "ต่อให้เหนื่อยแค่ไหน ฉันก็จะทำให้เสร็จ",
+            "en": "No matter how tired I am, I'll finish it.",
+            "audio_src": "ต่อให้เหนื่อยแค่ไหน ฉันก็จะทำให้เสร็จ",
+            "audio_en_src": "No matter how tired I am, I'll finish it."
+          },
+          {
+            "thai": "ต่อให้รวยแค่ไหนก็ซื้อเวลาไม่ได้",
+            "en": "Even if you're rich, you can't buy time.",
+            "audio_src": "ต่อให้รวยแค่ไหนก็ซื้อเวลาไม่ได้",
+            "audio_en_src": "Even if you're rich, you can't buy time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58636,6 +58674,25 @@
     "topic": "time",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "for a while, for some time",
+        "sentences": [
+          {
+            "thai": "ขอพักสักระยะก่อน",
+            "en": "Let me rest for a while first.",
+            "audio_src": "ขอพักสักระยะก่อน",
+            "audio_en_src": "Let me rest for a while first."
+          },
+          {
+            "thai": "เขาหายไปสักระยะแล้วก็กลับมา",
+            "en": "He was gone for a while, then came back.",
+            "audio_src": "เขาหายไปสักระยะแล้วก็กลับมา",
+            "audio_en_src": "He was gone for a while, then came back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58646,6 +58703,25 @@
     "topic": "economy",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to assess costs, to estimate a price",
+        "sentences": [
+          {
+            "thai": "ช่างมาตีราคาค่าซ่อมบ้าน",
+            "en": "The contractor came to estimate the repair cost.",
+            "audio_src": "ช่างมาตีราคาค่าซ่อมบ้าน",
+            "audio_en_src": "The contractor came to estimate the repair cost."
+          },
+          {
+            "thai": "ร้านทองตีราคาสร้อยเส้นนี้ให้หน่อย",
+            "en": "Could the gold shop appraise this necklace?",
+            "audio_src": "ร้านทองตีราคาสร้อยเส้นนี้ให้หน่อย",
+            "audio_en_src": "Could the gold shop appraise this necklace?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -58720,6 +58796,25 @@
     "topic": "economy",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "affordable, reasonably priced",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ของราคาย่อมเยา",
+            "en": "The goods here are affordable.",
+            "audio_src": "ร้านนี้ของราคาย่อมเยา",
+            "audio_en_src": "The goods here are affordable."
+          },
+          {
+            "thai": "อาหารอร่อยและราคาย่อมเยา",
+            "en": "The food is tasty and reasonably priced.",
+            "audio_src": "อาหารอร่อยและราคาย่อมเยา",
+            "audio_en_src": "The food is tasty and reasonably priced."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58804,6 +58899,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "honestly, straightforwardly",
+        "sentences": [
+          {
+            "thai": "พูดตามตรงนะ ฉันไม่ชอบเลย",
+            "en": "Honestly, I don't like it at all.",
+            "audio_src": "พูดตามตรงนะ ฉันไม่ชอบเลย",
+            "audio_en_src": "Honestly, I don't like it at all."
+          },
+          {
+            "thai": "บอกฉันมาตามตรง",
+            "en": "Just tell me straight.",
+            "audio_src": "บอกฉันมาตามตรง",
+            "audio_en_src": "Just tell me straight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58865,6 +58979,25 @@
     "topic": "time",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "quite long, fairly long",
+        "sentences": [
+          {
+            "thai": "รอคิวนานพอควร",
+            "en": "I waited in line for quite a while.",
+            "audio_src": "รอคิวนานพอควร",
+            "audio_en_src": "I waited in line for quite a while."
+          },
+          {
+            "thai": "เราไม่ได้เจอกันมานานพอควร",
+            "en": "We haven't seen each other for a fairly long time.",
+            "audio_src": "เราไม่ได้เจอกันมานานพอควร",
+            "audio_en_src": "We haven't seen each other for a fairly long time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59070,6 +59203,25 @@
     "topic": "beliefs",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay respect to monks or Buddha images",
+        "sentences": [
+          {
+            "thai": "วันพระเราไปไหว้พระที่วัด",
+            "en": "On Buddhist holy days we go to pay respects at the temple.",
+            "audio_src": "วันพระเราไปไหว้พระที่วัด",
+            "audio_en_src": "On Buddhist holy days we go to pay respects at the temple."
+          },
+          {
+            "thai": "ก่อนสอบเธอไปไหว้พระขอพร",
+            "en": "Before the exam she went to pray at the temple.",
+            "audio_src": "ก่อนสอบเธอไปไหว้พระขอพร",
+            "audio_en_src": "Before the exam she went to pray at the temple."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59143,6 +59295,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "old-fashioned, conservative-minded",
+        "sentences": [
+          {
+            "thai": "พ่อฉันค่อนข้างหัวโบราณ",
+            "en": "My dad is quite old-fashioned.",
+            "audio_src": "พ่อฉันค่อนข้างหัวโบราณ",
+            "audio_en_src": "My dad is quite old-fashioned."
+          },
+          {
+            "thai": "ความคิดแบบนี้หัวโบราณไปแล้ว",
+            "en": "This kind of thinking is outdated now.",
+            "audio_src": "ความคิดแบบนี้หัวโบราณไปแล้ว",
+            "audio_en_src": "This kind of thinking is outdated now."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59164,6 +59335,25 @@
     "topic": "nature",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "stray dog",
+        "sentences": [
+          {
+            "thai": "มีหมาจรจัดนอนอยู่หน้าบ้าน",
+            "en": "There's a stray dog sleeping in front of the house.",
+            "audio_src": "มีหมาจรจัดนอนอยู่หน้าบ้าน",
+            "audio_en_src": "There's a stray dog sleeping in front of the house."
+          },
+          {
+            "thai": "เธอชอบให้อาหารหมาจรจัด",
+            "en": "She likes feeding stray dogs.",
+            "audio_src": "เธอชอบให้อาหารหมาจรจัด",
+            "audio_en_src": "She likes feeding stray dogs."
+          }
+        ]
+      }
     ]
   },
   {
