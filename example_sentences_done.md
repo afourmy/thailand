@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4373 words**
+**Total: 4383 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1045,19 +1045,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-069` : มิน่า ("no wonder!", "so that's the reason!") : 1 meaning(s), 2 sentences
 - `tamago-l3-070` : เพลงลูกทุ่ง (Thai country folk music) : 1 meaning(s), 2 sentences
 - `tamago-l3-071` : ย่าง (to grill, to roast; (literary) to step into, to be approaching (a season, age)) : 2 meaning(s), 4 sentences
+- `tamago-l3-072` : พรำ (gentle, slow and continuous (mainly used to describe rain drizzling)) : 1 meaning(s), 2 sentences
+- `tamago-l3-073` : เรื่องมาก (picky, fussy, demanding) : 1 meaning(s), 2 sentences
 - `tamago-l3-075` : แนว (genre, style) : 1 meaning(s), 2 sentences
 - `tamago-l3-076` : รายการ (TV show, program; list, item) : 2 meaning(s), 4 sentences
 - `tamago-l3-077` : คิดเลข (to calculate, to do arithmetic) : 1 meaning(s), 2 sentences
 - `tamago-l3-078` : อวด, โอ้อวด (to show off, to brag) : 1 meaning(s), 2 sentences
 - `tamago-l3-080` : คนรอบข้าง (the people around) : 1 meaning(s), 2 sentences
 - `tamago-l3-081` : ประกวด (to enter a contest, to compete) : 1 meaning(s), 2 sentences
+- `tamago-l3-082` : มัวแต่ (to waste time doing something, to be absorbed in (and neglect other things)) : 1 meaning(s), 2 sentences
 - `tamago-l3-086` : ร้องตาม (to sing along) : 1 meaning(s), 2 sentences
 - `tamago-l3-087` : ท่อน (line, section, segment) : 1 meaning(s), 2 sentences
 - `tamago-l3-088` : ทันสมัย (up-to-date, modern) : 1 meaning(s), 2 sentences
 - `tamago-l3-089` : ตามทัน (to keep up with, to catch up with) : 1 meaning(s), 2 sentences
+- `tamago-l3-091` : ห้ามใจ (to hold back, to suppress one's desire to do something) : 1 meaning(s), 2 sentences
 - `tamago-l3-092` : น่าเป็นห่วง (worrying, concerning) : 1 meaning(s), 2 sentences
 - `tamago-l3-094` : แกล้ง (to tease, to pick on; to pretend (in a deceptive or playful way)) : 2 meaning(s), 4 sentences
 - `tamago-l3-095` : ชวด (to miss out, to lose a chance to get something) : 1 meaning(s), 2 sentences
+- `tamago-l3-096` : ปานจะ (as if about to, as though) : 1 meaning(s), 2 sentences
 - `tamago-l3-097` : แอบ (secretly, without others knowing; a little, slightly) : 2 meaning(s), 4 sentences
 - `tamago-l3-098` : โล่งใจ, โล่งอก (relieved, to feel relieved) : 1 meaning(s), 2 sentences
 - `tamago-l3-099` : วางสาย (to hang up (the phone)) : 1 meaning(s), 2 sentences
@@ -1065,6 +1070,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-101` : คุยสาย (to talk on the phone) : 1 meaning(s), 2 sentences
 - `tamago-l3-102` : หลอก (to deceive, to fool, to trick) : 1 meaning(s), 2 sentences
 - `tamago-l3-103` : คิดได้ (to realize, to come to a realization) : 1 meaning(s), 2 sentences
+- `tamago-l3-104` : ไปๆมาๆ (back and forth; in the end, after all) : 2 meaning(s), 4 sentences
+- `tamago-l3-105` : ดึกดื่น (very late at night) : 1 meaning(s), 2 sentences
+- `tamago-l3-107` : รู้ใจ (to deeply know someone's feelings, thoughts) : 1 meaning(s), 2 sentences
+- `tamago-l3-108` : สุภาพบุรุษ (gentleman) : 1 meaning(s), 2 sentences
+- `tamago-l3-109` : ผ่อน (to pay by installments; to ease, to relax, to lighten, to reduce intensity) : 2 meaning(s), 4 sentences
 - `tamago-l3-117` : นานๆ (rarely, once in a long while) : 1 meaning(s), 2 sentences
 - `tamago-l3-118` : ประเด็น (point (of a statement), issue, topic) : 1 meaning(s), 2 sentences
 - `tamago-l3-120` : ประเทศเพื่อนบ้าน (neighboring country) : 1 meaning(s), 2 sentences

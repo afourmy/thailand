@@ -41367,6 +41367,25 @@
     "topic": "weather",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "gentle, slow and continuous (mainly used to describe rain drizzling)",
+        "sentences": [
+          {
+            "thai": "ฝนตกพรำๆทั้งวัน",
+            "en": "It drizzled all day.",
+            "audio_src": "ฝนตกพรำๆทั้งวัน",
+            "audio_en_src": "It drizzled all day."
+          },
+          {
+            "thai": "ข้างนอกฝนพรำๆ",
+            "en": "It's drizzling outside.",
+            "audio_src": "ข้างนอกฝนพรำๆ",
+            "audio_en_src": "It's drizzling outside."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41377,6 +41396,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "picky, fussy, demanding",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนเรื่องมาก",
+            "en": "He's a fussy person.",
+            "audio_src": "เขาเป็นคนเรื่องมาก",
+            "audio_en_src": "He's a fussy person."
+          },
+          {
+            "thai": "อย่าเรื่องมาก กินๆไปเถอะ",
+            "en": "Don't be so picky, just eat it.",
+            "audio_src": "อย่าเรื่องมาก กินๆไปเถอะ",
+            "audio_en_src": "Don't be so picky, just eat it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41627,6 +41665,25 @@
     "sources": [
       "Tamago L3",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to waste time doing something, to be absorbed in (and neglect other things)",
+        "sentences": [
+          {
+            "thai": "มัวแต่เล่นเกมจนลืมกินข้าว",
+            "en": "So absorbed in gaming that I forgot to eat.",
+            "audio_src": "มัวแต่เล่นเกมจนลืมกินข้าว",
+            "audio_en_src": "So absorbed in gaming that I forgot to eat."
+          },
+          {
+            "thai": "อย่ามัวแต่คุย รีบทำงาน",
+            "en": "Stop chatting around, hurry up and work.",
+            "audio_src": "อย่ามัวแต่คุย รีบทำงาน",
+            "audio_en_src": "Stop chatting around, hurry up and work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41798,6 +41855,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to hold back, to suppress one's desire to do something",
+        "sentences": [
+          {
+            "thai": "ฉันห้ามใจไม่ให้ซื้อไม่ได้",
+            "en": "I can't hold myself back from buying it.",
+            "audio_src": "ฉันห้ามใจไม่ให้ซื้อไม่ได้",
+            "audio_en_src": "I can't hold myself back from buying it."
+          },
+          {
+            "thai": "เห็นเค้กแล้วห้ามใจไม่อยู่",
+            "en": "I can't resist when I see cake.",
+            "audio_src": "เห็นเค้กแล้วห้ามใจไม่อยู่",
+            "audio_en_src": "I can't resist when I see cake."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41921,6 +41997,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "as if about to, as though",
+        "sentences": [
+          {
+            "thai": "เขาดีใจปานจะบินได้",
+            "en": "He was so happy he could fly.",
+            "audio_src": "เขาดีใจปานจะบินได้",
+            "audio_en_src": "He was so happy he could fly."
+          },
+          {
+            "thai": "เธอร้องไห้ปานจะขาดใจ",
+            "en": "She cried as if her heart would break.",
+            "audio_src": "เธอร้องไห้ปานจะขาดใจ",
+            "audio_en_src": "She cried as if her heart would break."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42179,6 +42274,42 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "back and forth",
+        "sentences": [
+          {
+            "thai": "เขาเดินไปๆมาๆอย่างกระวนกระวาย",
+            "en": "He paced back and forth anxiously.",
+            "audio_src": "เขาเดินไปๆมาๆอย่างกระวนกระวาย",
+            "audio_en_src": "He paced back and forth anxiously."
+          },
+          {
+            "thai": "รถวิ่งไปๆมาๆบนถนน",
+            "en": "Cars go back and forth on the road.",
+            "audio_src": "รถวิ่งไปๆมาๆบนถนน",
+            "audio_en_src": "Cars go back and forth on the road."
+          }
+        ]
+      },
+      {
+        "meaning": "in the end, after all",
+        "sentences": [
+          {
+            "thai": "ไปๆมาๆ ก็ไม่ได้ไปเที่ยว",
+            "en": "In the end, we didn't go on the trip.",
+            "audio_src": "ไปๆมาๆ ก็ไม่ได้ไปเที่ยว",
+            "audio_en_src": "In the end, we didn't go on the trip."
+          },
+          {
+            "thai": "ไปๆมาๆ เขาก็กลับมาคืนดีกัน",
+            "en": "After all, they got back together.",
+            "audio_src": "ไปๆมาๆ เขาก็กลับมาคืนดีกัน",
+            "audio_en_src": "After all, they got back together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42189,6 +42320,25 @@
     "topic": "time",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "very late at night",
+        "sentences": [
+          {
+            "thai": "เขากลับบ้านดึกดื่นทุกคืน",
+            "en": "He comes home very late every night.",
+            "audio_src": "เขากลับบ้านดึกดื่นทุกคืน",
+            "audio_en_src": "He comes home very late every night."
+          },
+          {
+            "thai": "อย่าโทรมาดึกดื่นแบบนี้",
+            "en": "Don't call this late at night.",
+            "audio_src": "อย่าโทรมาดึกดื่นแบบนี้",
+            "audio_en_src": "Don't call this late at night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42210,6 +42360,25 @@
     "sources": [
       "Tamago L3",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to deeply know someone's feelings, thoughts",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเพื่อนรู้ใจของฉัน",
+            "en": "He's the friend who really gets me.",
+            "audio_src": "เขาเป็นเพื่อนรู้ใจของฉัน",
+            "audio_en_src": "He's the friend who really gets me."
+          },
+          {
+            "thai": "แฟนฉันรู้ใจฉันมาก",
+            "en": "My partner really understands me.",
+            "audio_src": "แฟนฉันรู้ใจฉันมาก",
+            "audio_en_src": "My partner really understands me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42220,6 +42389,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "gentleman",
+        "sentences": [
+          {
+            "thai": "เขาเป็นสุภาพบุรุษตัวจริง",
+            "en": "He's a real gentleman.",
+            "audio_src": "เขาเป็นสุภาพบุรุษตัวจริง",
+            "audio_en_src": "He's a real gentleman."
+          },
+          {
+            "thai": "ผู้ชายคนนั้นทำตัวเป็นสุภาพบุรุษ",
+            "en": "That man acts like a gentleman.",
+            "audio_src": "ผู้ชายคนนั้นทำตัวเป็นสุภาพบุรุษ",
+            "audio_en_src": "That man acts like a gentleman."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42234,6 +42422,42 @@
       "Thaipod101",
       "Thai 4000",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay by installments",
+        "sentences": [
+          {
+            "thai": "ฉันผ่อนรถอยู่",
+            "en": "I'm paying off my car in installments.",
+            "audio_src": "ฉันผ่อนรถอยู่",
+            "audio_en_src": "I'm paying off my car in installments."
+          },
+          {
+            "thai": "บ้านหลังนี้ผ่อนเดือนละหมื่น",
+            "en": "This house is ten thousand a month in installments.",
+            "audio_src": "บ้านหลังนี้ผ่อนเดือนละหมื่น",
+            "audio_en_src": "This house is ten thousand a month in installments."
+          }
+        ]
+      },
+      {
+        "meaning": "to ease, to relax, to lighten, to reduce intensity",
+        "sentences": [
+          {
+            "thai": "ผ่อนคันเร่งลงหน่อย",
+            "en": "Ease off the accelerator a bit.",
+            "audio_src": "ผ่อนคันเร่งลงหน่อย",
+            "audio_en_src": "Ease off the accelerator a bit."
+          },
+          {
+            "thai": "ช่วยผ่อนแรงกันหน่อย",
+            "en": "Help lighten the load.",
+            "audio_src": "ช่วยผ่อนแรงกันหน่อย",
+            "audio_en_src": "Help lighten the load."
+          }
+        ]
+      }
     ]
   },
   {
