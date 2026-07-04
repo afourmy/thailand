@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4573 words**
+**Total: 4583 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1559,12 +1559,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-743` : เลอะเทอะ (dirty, messy) : 1 meaning(s), 2 sentences
 - `tamago-l3-744` : หัวโบราณ (old-fashioned, conservative-minded) : 1 meaning(s), 2 sentences
 - `tamago-l3-747` : หมาจรจัด (stray dog) : 1 meaning(s), 2 sentences
+- `tamago-l3-748` : ดุ (to scold, to reprimand; fierce, angry-looking, aggressive; strict, stern) : 3 meaning(s), 6 sentences
+- `tamago-l3-749` : แก้เหงา (to relieve loneliness, to do something to not feel lonely) : 1 meaning(s), 2 sentences
+- `tamago-l3-750` : เห็นแก่ (for the sake of, out of consideration for) : 1 meaning(s), 2 sentences
+- `tamago-l3-752` : เฝ้านึกถึง (to constantly, longingly think about) : 1 meaning(s), 2 sentences
 - `tamago-l3-753` : วนเวียน (to circle around, to go round and round) : 1 meaning(s), 2 sentences
+- `tamago-l3-754` : อบขนม (to bake pastry) : 1 meaning(s), 2 sentences
+- `tamago-l3-755` : ชิดซ้าย (to be inferior, nowhere near as good, "can't compare to" (slang); "move left") : 2 meaning(s), 4 sentences
 - `tamago-l3-758` : สร้างสรรค์ (constructive, creative, to create constructively) : 1 meaning(s), 2 sentences
 - `tamago-l3-759` : ชมรม (club, association (e.g informal, like a school club)) : 1 meaning(s), 2 sentences
 - `tamago-l3-761` : ขนลุก (to get goosebumps) : 1 meaning(s), 2 sentences
 - `tamago-l3-762` : มืออาชีพ (professional) : 1 meaning(s), 2 sentences
 - `tamago-l3-764` : ต้นฉบับ (original version, manuscript) : 1 meaning(s), 2 sentences
+- `tamago-l3-765` : ซึ้ง (touched, moved (emotionally, e.g by kindness, story, gesture)) : 1 meaning(s), 2 sentences
 - `tamago-l3-767` : เกินจริง (exaggerated, unrealistic) : 1 meaning(s), 2 sentences
 - `tamago-l3-772` : วิจารณ์ (to criticize, review, evaluate) : 1 meaning(s), 2 sentences
 - `tamago-l3-773` : ทางลบ (in a negative way) : 1 meaning(s), 2 sentences
@@ -1572,13 +1579,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-776` : แกะ (to peel off, to unpack, to untie, to remove (a wrapping)) : 1 meaning(s), 2 sentences
 - `tamago-l3-777` : อุดม (abundant, rich in) : 1 meaning(s), 2 sentences
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
+- `tamago-l3-780` : โรคหอบหืด (asthma) : 1 meaning(s), 2 sentences
 - `tamago-l3-781` : ชุ่มชื้น (moisturized, hydrated) : 1 meaning(s), 2 sentences
 - `tamago-l3-783` : ประดิษฐ์ (to invent, to create something new) : 1 meaning(s), 2 sentences
 - `tamago-l3-786` : น่าเชื่อถือ (trustworthy, reliable, convincing) : 1 meaning(s), 2 sentences
 - `tamago-l3-787` : แพร่หลาย (widespread, prevalent) : 1 meaning(s), 2 sentences
+- `tamago-l3-788` : เห็นๆ (obviously, clearly (visible)) : 1 meaning(s), 2 sentences
 - `tamago-l3-790` : นักศึกษา (university student, college student) : 1 meaning(s), 2 sentences
 - `tamago-l3-791` : ทุ่นแรง (to save effort, to reduce labor) : 1 meaning(s), 2 sentences
 - `tamago-l3-792` : ทดลอง (to experiment, to test, to trial) : 1 meaning(s), 2 sentences
+- `tamago-l3-793` : เหมือนกันเด๊ะ (exactly the same, identical) : 1 meaning(s), 2 sentences
 - `tamago-l3-794` : กระจุก (cluster, tuft, small bunch) : 1 meaning(s), 2 sentences
 - `tamago-l3-795` : บีบคอ, รัดคอ (to strangle, to choke (someone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-796` : ถอดปลั๊ก (to unplug) : 1 meaning(s), 2 sentences

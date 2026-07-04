@@ -59367,6 +59367,59 @@
       "TSL Chiang Mai",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to scold, to reprimand",
+        "sentences": [
+          {
+            "thai": "แม่ดุฉันที่กลับบ้านดึก",
+            "en": "Mom scolded me for coming home late.",
+            "audio_src": "แม่ดุฉันที่กลับบ้านดึก",
+            "audio_en_src": "Mom scolded me for coming home late."
+          },
+          {
+            "thai": "เขาโดนหัวหน้าดุเรื่องงาน",
+            "en": "He got told off by his boss about work.",
+            "audio_src": "เขาโดนหัวหน้าดุเรื่องงาน",
+            "audio_en_src": "He got told off by his boss about work."
+          }
+        ]
+      },
+      {
+        "meaning": "fierce, angry-looking, aggressive",
+        "sentences": [
+          {
+            "thai": "หมาตัวนี้ดุ ระวังโดนกัด",
+            "en": "This dog is fierce, watch out it might bite.",
+            "audio_src": "หมาตัวนี้ดุ ระวังโดนกัด",
+            "audio_en_src": "This dog is fierce, watch out it might bite."
+          },
+          {
+            "thai": "เขาหน้าดุแต่ใจดี",
+            "en": "He looks fierce but he's kind.",
+            "audio_src": "เขาหน้าดุแต่ใจดี",
+            "audio_en_src": "He looks fierce but he's kind."
+          }
+        ]
+      },
+      {
+        "meaning": "strict, stern",
+        "sentences": [
+          {
+            "thai": "ครูคนนี้ดุมาก",
+            "en": "This teacher is very strict.",
+            "audio_src": "ครูคนนี้ดุมาก",
+            "audio_en_src": "This teacher is very strict."
+          },
+          {
+            "thai": "พ่อดุเรื่องการเรียน",
+            "en": "Dad is stern about studies.",
+            "audio_src": "พ่อดุเรื่องการเรียน",
+            "audio_en_src": "Dad is stern about studies."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59377,6 +59430,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to relieve loneliness, to do something to not feel lonely",
+        "sentences": [
+          {
+            "thai": "เขาเลี้ยงแมวไว้แก้เหงา",
+            "en": "He keeps a cat to ease his loneliness.",
+            "audio_src": "เขาเลี้ยงแมวไว้แก้เหงา",
+            "audio_en_src": "He keeps a cat to ease his loneliness."
+          },
+          {
+            "thai": "เปิดเพลงฟังแก้เหงา",
+            "en": "I play music to fend off loneliness.",
+            "audio_src": "เปิดเพลงฟังแก้เหงา",
+            "audio_en_src": "I play music to fend off loneliness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59387,6 +59459,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "for the sake of, out of consideration for",
+        "sentences": [
+          {
+            "thai": "เห็นแก่ลูก เธอจึงยอมทน",
+            "en": "For the sake of her children, she endures it.",
+            "audio_src": "เห็นแก่ลูก เธอจึงยอมทน",
+            "audio_en_src": "For the sake of her children, she endures it."
+          },
+          {
+            "thai": "เห็นแก่ความเป็นเพื่อน ช่วยหน่อยนะ",
+            "en": "For the sake of our friendship, please help me.",
+            "audio_src": "เห็นแก่ความเป็นเพื่อน ช่วยหน่อยนะ",
+            "audio_en_src": "For the sake of our friendship, please help me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59407,6 +59498,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to constantly, longingly think about",
+        "sentences": [
+          {
+            "thai": "เขาเฝ้านึกถึงบ้านเกิด",
+            "en": "He longingly thinks of his hometown.",
+            "audio_src": "เขาเฝ้านึกถึงบ้านเกิด",
+            "audio_en_src": "He longingly thinks of his hometown."
+          },
+          {
+            "thai": "ฉันเฝ้านึกถึงวันเก่าๆ",
+            "en": "I keep thinking wistfully about the old days.",
+            "audio_src": "ฉันเฝ้านึกถึงวันเก่าๆ",
+            "audio_en_src": "I keep thinking wistfully about the old days."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59449,6 +59559,25 @@
     "topic": "food",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to bake pastry",
+        "sentences": [
+          {
+            "thai": "แม่กำลังอบขนมอยู่ในครัว",
+            "en": "Mom is baking pastries in the kitchen.",
+            "audio_src": "แม่กำลังอบขนมอยู่ในครัว",
+            "audio_en_src": "Mom is baking pastries in the kitchen."
+          },
+          {
+            "thai": "วันหยุดฉันชอบอบขนมกิน",
+            "en": "On weekends I like baking sweets to eat.",
+            "audio_src": "วันหยุดฉันชอบอบขนมกิน",
+            "audio_en_src": "On weekends I like baking sweets to eat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59459,6 +59588,42 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be inferior, nowhere near as good, \"can't compare to\" (slang)",
+        "sentences": [
+          {
+            "thai": "ฝีมือฉันชิดซ้ายไปเลยเทียบกับเขา",
+            "en": "My skills are nowhere near his.",
+            "audio_src": "ฝีมือฉันชิดซ้ายไปเลยเทียบกับเขา",
+            "audio_en_src": "My skills are nowhere near his."
+          },
+          {
+            "thai": "พอเจอของแท้ ของปลอมชิดซ้ายเลย",
+            "en": "Next to the real thing, the fake can't compare.",
+            "audio_src": "พอเจอของแท้ ของปลอมชิดซ้ายเลย",
+            "audio_en_src": "Next to the real thing, the fake can't compare."
+          }
+        ]
+      },
+      {
+        "meaning": "\"move left\"",
+        "sentences": [
+          {
+            "thai": "ขับรถช้าๆให้ชิดซ้ายไว้",
+            "en": "If you drive slowly, keep to the left.",
+            "audio_src": "ขับรถช้าๆให้ชิดซ้ายไว้",
+            "audio_en_src": "If you drive slowly, keep to the left."
+          },
+          {
+            "thai": "ชิดซ้ายหน่อย รถจะแซง",
+            "en": "Move to the left, a car wants to pass.",
+            "audio_src": "ชิดซ้ายหน่อย รถจะแซง",
+            "audio_en_src": "Move to the left, a car wants to pass."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59661,6 +59826,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "touched, moved (emotionally, e.g by kindness, story, gesture)",
+        "sentences": [
+          {
+            "thai": "ฉันซึ้งในน้ำใจของเธอมาก",
+            "en": "I'm really touched by your kindness.",
+            "audio_src": "ฉันซึ้งในน้ำใจของเธอมาก",
+            "audio_en_src": "I'm really touched by your kindness."
+          },
+          {
+            "thai": "ดูหนังเรื่องนี้แล้วซึ้งจนน้ำตาไหล",
+            "en": "This movie moved me to tears.",
+            "audio_src": "ดูหนังเรื่องนี้แล้วซึ้งจนน้ำตาไหล",
+            "audio_en_src": "This movie moved me to tears."
+          }
+        ]
+      }
     ]
   },
   {
@@ -59962,6 +60146,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "asthma",
+        "sentences": [
+          {
+            "thai": "เขาเป็นโรคหอบหืดตั้งแต่เด็ก",
+            "en": "He's had asthma since childhood.",
+            "audio_src": "เขาเป็นโรคหอบหืดตั้งแต่เด็ก",
+            "audio_en_src": "He's had asthma since childhood."
+          },
+          {
+            "thai": "คนเป็นโรคหอบหืดควรพกยาติดตัว",
+            "en": "People with asthma should carry their medicine with them.",
+            "audio_src": "คนเป็นโรคหอบหืดควรพกยาติดตัว",
+            "audio_en_src": "People with asthma should carry their medicine with them."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60132,6 +60335,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "obviously, clearly (visible)",
+        "sentences": [
+          {
+            "thai": "เขาโกหกเห็นๆ",
+            "en": "He's obviously lying.",
+            "audio_src": "เขาโกหกเห็นๆ",
+            "audio_en_src": "He's obviously lying."
+          },
+          {
+            "thai": "หลักฐานมีอยู่เห็นๆ จะเถียงทำไม",
+            "en": "The evidence is right there, why argue?",
+            "audio_src": "หลักฐานมีอยู่เห็นๆ จะเถียงทำไม",
+            "audio_en_src": "The evidence is right there, why argue?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -60254,6 +60476,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "exactly the same, identical",
+        "sentences": [
+          {
+            "thai": "เสื้อเราเหมือนกันเด๊ะเลย",
+            "en": "Our shirts are exactly the same!",
+            "audio_src": "เสื้อเราเหมือนกันเด๊ะเลย",
+            "audio_en_src": "Our shirts are exactly the same!"
+          },
+          {
+            "thai": "ลายมือสองคนนี้เหมือนกันเด๊ะ",
+            "en": "These two people's handwriting is identical.",
+            "audio_src": "ลายมือสองคนนี้เหมือนกันเด๊ะ",
+            "audio_en_src": "These two people's handwriting is identical."
+          }
+        ]
+      }
     ]
   },
   {
