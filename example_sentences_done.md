@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5152 words**
+**Total: 5162 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3300,16 +3300,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-056` : เอะใจ (to feel suspicious, to sense that something is odd) : 1 meaning(s), 2 sentences
 - `yt-c06-057` : รถเก๋ง (sedan (standard passenger car)) : 1 meaning(s), 2 sentences
 - `yt-c06-058` : ข้าวหลาม (bamboo sticky rice) : 1 meaning(s), 2 sentences
+- `yt-c06-059` : ปลาเผา (grilled fish) : 1 meaning(s), 2 sentences
 - `yt-c06-062` : สายจูง (leash (e.g for dogs)) : 1 meaning(s), 2 sentences
+- `yt-c06-064` : ฟุตบาท (sidewalk, pavement) : 1 meaning(s), 2 sentences
 - `yt-c06-066` : กระดิก (to wiggle, to twitch, to move slightly back and forth) : 1 meaning(s), 2 sentences
 - `yt-c06-068` : จรจัด (stray (of animals, e.g stray dogs)) : 1 meaning(s), 2 sentences
+- `yt-c06-070` : ใส่บาตร (to give alms (offer food) to monks) : 1 meaning(s), 2 sentences
 - `yt-c06-077` : ปริญญาโท (master degree (in Thai university)) : 1 meaning(s), 2 sentences
+- `yt-c06-078` : ศูนย์อาหาร (food court) : 1 meaning(s), 2 sentences
 - `yt-c06-079` : โยก (to shake, to sway, to move back and forth, to shift) : 1 meaning(s), 2 sentences
 - `yt-c06-080` : ตั้งค่า (to configure, to set up (e.g an app)) : 1 meaning(s), 2 sentences
+- `yt-c06-081` : หุง (to cook rice, to steam rice (used for rice only)) : 1 meaning(s), 2 sentences
 - `yt-c06-082` : กดถูกใจ (to like something on a social network, to press like) : 1 meaning(s), 2 sentences
 - `yt-c06-083` : ประหยัดไฟ (to save electricity) : 1 meaning(s), 2 sentences
 - `yt-c06-084` : ตอบโจทย์ (to meet the requirement, to "answer the question") : 1 meaning(s), 2 sentences
 - `yt-c06-085` : แบตเสื่อม (the battery is worn out, dead (e.g phone, computer)) : 1 meaning(s), 2 sentences
+- `yt-c06-086` : หน่อไม้ (bamboo shoot (young sprouts growing from the base of bamboo plants)) : 1 meaning(s), 2 sentences
+- `yt-c06-088` : แห้งแล้ง (arid, very dry) : 1 meaning(s), 2 sentences
+- `yt-c06-090` : สายพันธุ์ (species, breed, strain) : 1 meaning(s), 2 sentences
+- `yt-c06-091` : น้ำจืด (fresh water (from rivers, lake, so not salty)) : 1 meaning(s), 2 sentences
+- `yt-c06-093` : ปลาร้า (fermented fish) : 1 meaning(s), 2 sentences
 - `yt-c06-095` : ชนชั้นสูง (upper class, elite class) : 1 meaning(s), 2 sentences
 - `yt-c07-002` : ไฟแช็ค (lighter) : 1 meaning(s), 2 sentences
 - `yt-c07-012` : ผุ (to decay, to rot, to deteriorate, rotten) : 1 meaning(s), 2 sentences
