@@ -123821,6 +123821,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to economize, to cut back on spending (literally \"to tighten one's belt\")",
+        "sentences": [
+          {
+            "thai": "เดือนนี้เงินน้อย ต้องรัดเข็มขัดหน่อย",
+            "en": "Money’s tight this month, we have to tighten our belts.",
+            "audio_src": "เดือนนี้เงินน้อย ต้องรัดเข็มขัดหน่อย",
+            "audio_en_src": "Money’s tight this month, we have to tighten our belts."
+          },
+          {
+            "thai": "ช่วงเศรษฐกิจแย่ ทุกบ้านต้องรัดเข็มขัด",
+            "en": "When the economy is bad, every household has to cut back.",
+            "audio_en_src": "When the economy is bad, every household has to cut back.",
+            "audio_src": "ช่วงเศรษฐกิจแย่ ทุกบ้านต้องรัดเข็มขัด"
+          }
+        ]
+      }
     ]
   },
   {
@@ -124067,6 +124086,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "tooth decay, cavity",
+        "sentences": [
+          {
+            "thai": "กินขนมเยอะทำให้ฟันผุ",
+            "en": "Eating lots of sweets causes tooth decay.",
+            "audio_en_src": "Eating lots of sweets causes tooth decay.",
+            "audio_src": "กินขนมเยอะทำให้ฟันผุ"
+          },
+          {
+            "thai": "หมอบอกว่าฉันมีฟันผุสองซี่",
+            "en": "The dentist said I have two cavities.",
+            "audio_src": "หมอบอกว่าฉันมีฟันผุสองซี่",
+            "audio_en_src": "The dentist said I have two cavities."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124314,6 +124352,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "invoice",
+        "sentences": [
+          {
+            "thai": "บริษัทส่งใบแจ้งหนี้มาแล้ว",
+            "en": "The company has sent the invoice.",
+            "audio_src": "บริษัทส่งใบแจ้งหนี้มาแล้ว",
+            "audio_en_src": "The company has sent the invoice."
+          },
+          {
+            "thai": "อย่าลืมจ่ายตามใบแจ้งหนี้ก่อนสิ้นเดือน",
+            "en": "Don’t forget to pay the invoice before the end of the month.",
+            "audio_src": "อย่าลืมจ่ายตามใบแจ้งหนี้ก่อนสิ้นเดือน",
+            "audio_en_src": "Don’t forget to pay the invoice before the end of the month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124325,6 +124382,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to loathe, to detest, to be disgusted by",
+        "sentences": [
+          {
+            "thai": "เขาไม่ได้รังเกียจคุณหรอก",
+            "en": "He doesn’t loathe you at all.",
+            "audio_src": "เขาไม่ได้รังเกียจคุณหรอก",
+            "audio_en_src": "He doesn’t loathe you at all."
+          },
+          {
+            "thai": "ฉันรังเกียจคนที่โกหก",
+            "en": "I detest people who lie.",
+            "audio_src": "ฉันรังเกียจคนที่โกหก",
+            "audio_en_src": "I detest people who lie."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124747,6 +124823,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to slice thinly",
+        "sentences": [
+          {
+            "thai": "ฝานแตงกวาบางๆใส่สลัด",
+            "en": "Thinly slice the cucumber for the salad.",
+            "audio_src": "ฝานแตงกวาบางๆใส่สลัด",
+            "audio_en_src": "Thinly slice the cucumber for the salad."
+          },
+          {
+            "thai": "ช่วยฝานมะนาวให้หน่อย",
+            "en": "Please slice the lime thinly for me.",
+            "audio_src": "ช่วยฝานมะนาวให้หน่อย",
+            "audio_en_src": "Please slice the lime thinly for me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124982,6 +125077,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel secure, at ease, to have peace of mind",
+        "sentences": [
+          {
+            "thai": "มีเธออยู่ข้างๆก็อุ่นใจแล้ว",
+            "en": "Just having you by my side puts me at ease.",
+            "audio_en_src": "Just having you by my side puts me at ease.",
+            "audio_src": "มีเธออยู่ข้างๆก็อุ่นใจแล้ว"
+          },
+          {
+            "thai": "พ่อแม่อุ่นใจเมื่อรู้ว่าลูกปลอดภัย",
+            "en": "Parents feel at ease knowing their kids are safe.",
+            "audio_src": "พ่อแม่อุ่นใจเมื่อรู้ว่าลูกปลอดภัย",
+            "audio_en_src": "Parents feel at ease knowing their kids are safe."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125087,6 +125201,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "dandruff",
+        "sentences": [
+          {
+            "thai": "ใช้แชมพูนี้แล้วรังแคหายไป",
+            "en": "After using this shampoo, the dandruff went away.",
+            "audio_en_src": "After using this shampoo, the dandruff went away.",
+            "audio_src": "ใช้แชมพูนี้แล้วรังแคหายไป"
+          },
+          {
+            "thai": "เขามีรังแคเยอะบนบ่าเสื้อ",
+            "en": "He has a lot of dandruff on his shoulders.",
+            "audio_en_src": "He has a lot of dandruff on his shoulders.",
+            "audio_src": "เขามีรังแคเยอะบนบ่าเสื้อ"
+          }
+        ]
+      }
     ]
   },
   {
@@ -125138,6 +125271,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "hair loss, hair fall",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ผมร่วงเยอะจนน่าตกใจ",
+            "en": "Lately my hair’s been falling out an alarming amount.",
+            "audio_en_src": "Lately my hair’s been falling out an alarming amount.",
+            "audio_src": "ช่วงนี้ผมร่วงเยอะจนน่าตกใจ"
+          },
+          {
+            "thai": "ความเครียดทำให้ผมร่วง",
+            "en": "Stress causes hair loss.",
+            "audio_src": "ความเครียดทำให้ผมร่วง",
+            "audio_en_src": "Stress causes hair loss."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125158,6 +125310,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "thin hair",
+        "sentences": [
+          {
+            "thai": "พออายุมากขึ้นผมก็เริ่มบาง",
+            "en": "As he gets older, his hair is starting to thin.",
+            "audio_src": "พออายุมากขึ้นผมก็เริ่มบาง",
+            "audio_en_src": "As he gets older, his hair is starting to thin."
+          },
+          {
+            "thai": "เขาปิดผมบางด้วยการตัดสั้น",
+            "en": "He hides his thin hair by cutting it short.",
+            "audio_en_src": "He hides his thin hair by cutting it short.",
+            "audio_src": "เขาปิดผมบางด้วยการตัดสั้น"
+          }
+        ]
+      }
     ]
   },
   {
@@ -125168,6 +125339,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "completely bald",
+        "sentences": [
+          {
+            "thai": "พระโกนหัวจนหัวโล้น",
+            "en": "Monks shave their heads completely bald.",
+            "audio_en_src": "Monks shave their heads completely bald.",
+            "audio_src": "พระโกนหัวจนหัวโล้น"
+          },
+          {
+            "thai": "เขาโกนหัวโล้นเพราะอากาศร้อน",
+            "en": "He shaved his head bald because of the heat.",
+            "audio_src": "เขาโกนหัวโล้นเพราะอากาศร้อน",
+            "audio_en_src": "He shaved his head bald because of the heat."
+          }
+        ]
+      }
     ]
   },
   {

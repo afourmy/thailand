@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5122 words**
+**Total: 5132 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3224,15 +3224,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-082` : สะพาย (to carry over the shoulder (e.g a bag)) : 1 meaning(s), 2 sentences
 - `yt-c04-083` : กระเป๋าสะพาย (shoulder bag) : 1 meaning(s), 2 sentences
 - `yt-c04-084` : รัด (to tighten, to constrict, to fasten, to bind tightly) : 1 meaning(s), 2 sentences
+- `yt-c04-085` : รัดเข็มขัด (to economize, to cut back on spending (literally "to tighten one's belt")) : 1 meaning(s), 2 sentences
 - `yt-c04-086` : หย่อน (to let loose, to slacken, to relax, to drop (make something less tight, or let something hang)) : 1 meaning(s), 2 sentences
 - `yt-c04-097` : ท้า (to challenge, to dare (someone to do something)) : 1 meaning(s), 2 sentences
 - `yt-c05-003` : รูด (to swipe (e.g a credit card), to slide (e.g zipper)) : 1 meaning(s), 2 sentences
+- `yt-c05-004` : ฟันผุ (tooth decay, cavity) : 1 meaning(s), 2 sentences
 - `yt-c05-009` : ซิงค์, อ่างล้างมือ (sink (e.g kitchen sink)) : 1 meaning(s), 2 sentences
 - `yt-c05-010` : เครื่องพิมพ์ (printer) : 1 meaning(s), 2 sentences
 - `yt-c05-011` : กิ๊บ, กิ๊บติดผม (hair clip, hair pin) : 1 meaning(s), 2 sentences
 - `yt-c05-012` : ฝักบัว (showerhead) : 1 meaning(s), 2 sentences
 - `yt-c05-013` : หมาด (damp, slightly wet, not fully dry yet) : 1 meaning(s), 2 sentences
 - `yt-c05-014` : ระบายสี (to color, to fill with color) : 1 meaning(s), 2 sentences
+- `yt-c05-016` : ใบแจ้งหนี้ (invoice) : 1 meaning(s), 2 sentences
+- `yt-c05-018` : รังเกียจ (to loathe, to detest, to be disgusted by) : 1 meaning(s), 2 sentences
 - `yt-c05-027` : ผงซักผ้า (laundry detergent (powder)) : 1 meaning(s), 2 sentences
 - `yt-c05-028` : น้ำยาซักผ้า (laundry detergent (liquid)) : 1 meaning(s), 2 sentences
 - `yt-c05-029` : น้ำยาปรับผ้านุ่ม (fabric softener) : 1 meaning(s), 2 sentences
@@ -3243,12 +3247,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-036` : ขยี้ (to rub, to crush, to scrub (repeated movement)) : 1 meaning(s), 2 sentences
 - `yt-c05-038` : สะบัด (to flick, to shake off) : 1 meaning(s), 2 sentences
 - `yt-c05-039` : สะกิด (to provoke, to poke, to nudge) : 1 meaning(s), 2 sentences
+- `yt-c05-040` : ฝาน (to slice thinly) : 1 meaning(s), 2 sentences
 - `yt-c05-046` : ที่คั่นหนังสือ (bookmark) : 1 meaning(s), 2 sentences
 - `yt-c05-055` : เป้า (target) : 1 meaning(s), 2 sentences
 - `yt-c05-056` : ยก (to lift, to raise; a round (e.g in a boxing match)) : 2 meaning(s), 4 sentences
+- `yt-c05-059` : อุ่นใจ (to feel secure, at ease, to have peace of mind) : 1 meaning(s), 2 sentences
 - `yt-c05-060` : ก้าวข้าม (to get past (e.g a difficulty), to rise above, to overcome) : 1 meaning(s), 2 sentences
 - `yt-c05-061` : มาตรฐาน (standard) : 1 meaning(s), 2 sentences
+- `yt-c05-065` : รังแค (dandruff) : 1 meaning(s), 2 sentences
 - `yt-c05-066` : ครีมนวดผม (conditioner (hair)) : 1 meaning(s), 2 sentences
+- `yt-c05-068` : ผมร่วง (hair loss, hair fall) : 1 meaning(s), 2 sentences
+- `yt-c05-070` : ผมบาง (thin hair) : 1 meaning(s), 2 sentences
+- `yt-c05-071` : หัวโล้น (completely bald) : 1 meaning(s), 2 sentences
 - `yt-c05-072` : แน่น (tight, dense, packed (e.g traffic, street)) : 1 meaning(s), 2 sentences
 - `yt-c05-083` : จูง (to lead, to guide, to pull (e.g by hand, or with a rope, a leash)) : 1 meaning(s), 2 sentences
 - `yt-c05-088` : ห่ม (to cover, to wrap (usually with a cloth, e.g blanket)) : 1 meaning(s), 2 sentences
