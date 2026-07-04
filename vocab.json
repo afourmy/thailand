@@ -113265,6 +113265,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "humor, sense of humor",
+        "sentences": [
+          {
+            "thai": "เขาเล่าเรื่องได้อย่างมีอารมณ์ขัน",
+            "en": "He tells stories with a lot of humor.",
+            "audio_src": "เขาเล่าเรื่องได้อย่างมีอารมณ์ขัน",
+            "audio_en_src": "He tells stories with a lot of humor."
+          },
+          {
+            "thai": "อารมณ์ขันช่วยให้บรรยากาศผ่อนคลาย",
+            "en": "A sense of humor helps lighten the mood.",
+            "audio_src": "อารมณ์ขันช่วยให้บรรยากาศผ่อนคลาย",
+            "audio_en_src": "A sense of humor helps lighten the mood."
+          }
+        ]
+      }
     ]
   },
   {
@@ -113308,6 +113327,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "butter",
+        "sentences": [
+          {
+            "thai": "ทาเนยบนขนมปัง",
+            "en": "Spread butter on the bread.",
+            "audio_src": "ทาเนยบนขนมปัง",
+            "audio_en_src": "Spread butter on the bread."
+          },
+          {
+            "thai": "ขอเนยเพิ่มหน่อยได้ไหม",
+            "en": "Can I have some more butter?",
+            "audio_src": "ขอเนยเพิ่มหน่อยได้ไหม",
+            "audio_en_src": "Can I have some more butter?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -113590,6 +113628,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "friendly",
+        "sentences": [
+          {
+            "thai": "พนักงานที่นี่เป็นมิตรมาก",
+            "en": "The staff here are really friendly.",
+            "audio_src": "พนักงานที่นี่เป็นมิตรมาก",
+            "audio_en_src": "The staff here are really friendly."
+          },
+          {
+            "thai": "หมาตัวนี้เป็นมิตร ไม่ดุ",
+            "en": "This dog is friendly, not aggressive.",
+            "audio_src": "หมาตัวนี้เป็นมิตร ไม่ดุ",
+            "audio_en_src": "This dog is friendly, not aggressive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -113765,6 +113822,25 @@
     "topic": "weather",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "cloudy",
+        "sentences": [
+          {
+            "thai": "วันนี้ท้องฟ้ามีเมฆมาก",
+            "en": "It’s very cloudy today.",
+            "audio_src": "วันนี้ท้องฟ้ามีเมฆมาก",
+            "audio_en_src": "It’s very cloudy today."
+          },
+          {
+            "thai": "พรุ่งนี้มีเมฆมาก อาจมีฝน",
+            "en": "Tomorrow will be cloudy, and it might rain.",
+            "audio_src": "พรุ่งนี้มีเมฆมาก อาจมีฝน",
+            "audio_en_src": "Tomorrow will be cloudy, and it might rain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114086,6 +114162,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cash",
+        "sentences": [
+          {
+            "thai": "ร้านนี้รับแต่เงินสด",
+            "en": "This shop only takes cash.",
+            "audio_src": "ร้านนี้รับแต่เงินสด",
+            "audio_en_src": "This shop only takes cash."
+          },
+          {
+            "thai": "ฉันไม่มีเงินสดติดตัว",
+            "en": "I don’t have any cash on me.",
+            "audio_src": "ฉันไม่มีเงินสดติดตัว",
+            "audio_en_src": "I don’t have any cash on me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114096,6 +114191,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "abortion",
+        "sentences": [
+          {
+            "thai": "การทำแท้งยังเป็นเรื่องที่ถกเถียงกัน",
+            "en": "Abortion is still a debated issue.",
+            "audio_src": "การทำแท้งยังเป็นเรื่องที่ถกเถียงกัน",
+            "audio_en_src": "Abortion is still a debated issue."
+          },
+          {
+            "thai": "กฎหมายเรื่องการทำแท้งเปลี่ยนไปแล้ว",
+            "en": "The law on abortion has changed.",
+            "audio_src": "กฎหมายเรื่องการทำแท้งเปลี่ยนไปแล้ว",
+            "audio_en_src": "The law on abortion has changed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114321,6 +114435,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "insect",
+        "sentences": [
+          {
+            "thai": "มีแมลงบินเข้ามาในห้อง",
+            "en": "An insect flew into the room.",
+            "audio_src": "มีแมลงบินเข้ามาในห้อง",
+            "audio_en_src": "An insect flew into the room."
+          },
+          {
+            "thai": "เด็กๆชอบจับแมลงในสวน",
+            "en": "Kids like catching insects in the garden.",
+            "audio_src": "เด็กๆชอบจับแมลงในสวน",
+            "audio_en_src": "Kids like catching insects in the garden."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114331,6 +114464,25 @@
     "topic": "law",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "to be guilty, to be at fault",
+        "sentences": [
+          {
+            "thai": "ศาลตัดสินว่าเขามีความผิด",
+            "en": "The court found him guilty.",
+            "audio_src": "ศาลตัดสินว่าเขามีความผิด",
+            "audio_en_src": "The court found him guilty."
+          },
+          {
+            "thai": "ถ้าคุณไม่ได้ทำ คุณก็ไม่มีความผิด",
+            "en": "If you didn’t do it, you’re not at fault.",
+            "audio_src": "ถ้าคุณไม่ได้ทำ คุณก็ไม่มีความผิด",
+            "audio_en_src": "If you didn’t do it, you’re not at fault."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114452,6 +114604,25 @@
     "topic": "law",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "terrorism",
+        "sentences": [
+          {
+            "thai": "รัฐบาลต้องรับมือกับการก่อการร้าย",
+            "en": "The government has to deal with terrorism.",
+            "audio_src": "รัฐบาลต้องรับมือกับการก่อการร้าย",
+            "audio_en_src": "The government has to deal with terrorism."
+          },
+          {
+            "thai": "เหตุการณ์นี้ถือเป็นการก่อการร้าย",
+            "en": "This incident is considered an act of terrorism.",
+            "audio_src": "เหตุการณ์นี้ถือเป็นการก่อการร้าย",
+            "audio_en_src": "This incident is considered an act of terrorism."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114498,6 +114669,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tax",
+        "sentences": [
+          {
+            "thai": "ทุกคนต้องจ่ายภาษี",
+            "en": "Everyone has to pay taxes.",
+            "audio_src": "ทุกคนต้องจ่ายภาษี",
+            "audio_en_src": "Everyone has to pay taxes."
+          },
+          {
+            "thai": "ปีนี้ภาษีขึ้นอีกแล้ว",
+            "en": "Taxes went up again this year.",
+            "audio_src": "ปีนี้ภาษีขึ้นอีกแล้ว",
+            "audio_en_src": "Taxes went up again this year."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5033 words**
+**Total: 5043 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2965,7 +2965,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-358` : ขัดจังหวะ (to interrupt, to disturb the flow) : 1 meaning(s), 2 sentences
 - `tobo-360` : สกุลเงิน (currency) : 1 meaning(s), 2 sentences
 - `tobo-362` : ความรุนแรง (violence) : 1 meaning(s), 2 sentences
+- `tobo-363` : อารมณ์ขัน (humor, sense of humor) : 1 meaning(s), 2 sentences
 - `tobo-364` : ปฏิสัมพันธ์ (interaction) : 1 meaning(s), 2 sentences
+- `tobo-365` : เนย (butter) : 1 meaning(s), 2 sentences
 - `tobo-366` : เต็ม (full) : 1 meaning(s), 2 sentences
 - `tobo-367` : นักแสดง (actor) : 1 meaning(s), 2 sentences
 - `tobo-368` : ลำดับความสำคัญ (priority) : 1 meaning(s), 2 sentences
@@ -2974,11 +2976,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-373` : กับดัก (trap) : 1 meaning(s), 2 sentences
 - `tobo-374` : ช่องว่าง (gap, space) : 1 meaning(s), 2 sentences
 - `tobo-375` : ล้อเล่น (to joke, to kid around) : 1 meaning(s), 2 sentences
+- `tobo-376` : เป็นมิตร (friendly) : 1 meaning(s), 2 sentences
 - `tobo-377` : ประสิทธิภาพ (efficiency, effectiveness) : 1 meaning(s), 2 sentences
 - `tobo-378` : เคี้ยว (to chew) : 1 meaning(s), 2 sentences
 - `tobo-379` : สัตว์เลี้ยง (pet) : 1 meaning(s), 2 sentences
 - `tobo-380` : การศึกษา (education) : 1 meaning(s), 2 sentences
 - `tobo-381` : ข้อเสนอแนะ (feedback, suggestion) : 1 meaning(s), 2 sentences
+- `tobo-383` : มีเมฆมาก (cloudy) : 1 meaning(s), 2 sentences
 - `tobo-384` : คำเชิญ (invitation) : 1 meaning(s), 2 sentences
 - `tobo-386` : ปัญญา (wisdom, intellect) : 1 meaning(s), 2 sentences
 - `tobo-387` : ยักษ์ (giant) : 1 meaning(s), 2 sentences
@@ -2988,16 +2992,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-394` : นายกเทศมนตรี (mayor) : 1 meaning(s), 2 sentences
 - `tobo-395` : ขีดจำกัด (limit) : 1 meaning(s), 2 sentences
 - `tobo-396` : ให้รางวัล (to reward, to give a reward) : 1 meaning(s), 2 sentences
+- `tobo-397` : เงินสด (cash) : 1 meaning(s), 2 sentences
+- `tobo-398` : การทำแท้ง (abortion) : 1 meaning(s), 2 sentences
 - `tobo-399` : ยืด (to stretch) : 1 meaning(s), 2 sentences
 - `tobo-400` : ประกัน (insurance, guarantee) : 1 meaning(s), 2 sentences
 - `tobo-402` : ภัยพิบัติ (disaster) : 1 meaning(s), 2 sentences
 - `tobo-404` : มิตรภาพ (friendship) : 1 meaning(s), 2 sentences
 - `tobo-405` : ผู้อพยพ (immigrant, migrant) : 1 meaning(s), 2 sentences
 - `tobo-406` : รัฐมนตรี (minister (government)) : 1 meaning(s), 2 sentences
+- `tobo-407` : แมลง (insect) : 1 meaning(s), 2 sentences
+- `tobo-408` : มีความผิด (to be guilty, to be at fault) : 1 meaning(s), 2 sentences
 - `tobo-410` : เจ้าของ (owner) : 1 meaning(s), 2 sentences
 - `tobo-411` : ให้ยืม (to lend) : 1 meaning(s), 2 sentences
 - `tobo-412` : โสด (single (unmarried)) : 1 meaning(s), 2 sentences
+- `tobo-413` : การก่อการร้าย (terrorism) : 1 meaning(s), 2 sentences
 - `tobo-414` : ห้องนั่งเล่น, ห้องรับแขก (living room) : 1 meaning(s), 2 sentences
+- `tobo-415` : ภาษี (tax) : 1 meaning(s), 2 sentences
 - `tobo-417` : น้ำพุ (fountain) : 1 meaning(s), 2 sentences
 - `tobo-418` : การแข่งขัน (competition) : 1 meaning(s), 2 sentences
 - `tobo-420` : ผลกระทบ (impact, effect) : 1 meaning(s), 2 sentences
