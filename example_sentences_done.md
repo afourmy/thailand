@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5013 words**
+**Total: 5023 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2893,21 +2893,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-268` : นอนเกินเวลา (to oversleep) : 1 meaning(s), 2 sentences
 - `tobo-270` : คอลเลกชัน (collection) : 1 meaning(s), 2 sentences
 - `tobo-271` : อำนาจ (power, authority) : 1 meaning(s), 2 sentences
+- `tobo-273` : สะดือ (belly button, navel) : 1 meaning(s), 2 sentences
 - `tobo-274` : กรง (cage) : 1 meaning(s), 2 sentences
 - `tobo-275` : กรน (to snore) : 1 meaning(s), 2 sentences
+- `tobo-276` : การผ่าตัด (surgery, operation) : 1 meaning(s), 2 sentences
+- `tobo-277` : นักโทษ (prisoner) : 1 meaning(s), 2 sentences
 - `tobo-278` : ยั่วยวน (to seduce, to tempt) : 1 meaning(s), 2 sentences
 - `tobo-279` : เห่า (to bark (dog)) : 1 meaning(s), 2 sentences
 - `tobo-280` : ควัน (smoke) : 1 meaning(s), 2 sentences
+- `tobo-282` : ความหลง, ความหลงใหล (passion, infatuation) : 1 meaning(s), 2 sentences
 - `tobo-283` : กิจกรรม (activity) : 1 meaning(s), 2 sentences
 - `tobo-285` : เพื่อนร่วมทาง (companion, traveling companion) : 1 meaning(s), 2 sentences
+- `tobo-288` : ชาวพุทธ (Buddhist person) : 1 meaning(s), 2 sentences
 - `tobo-289` : ภาคส่วน (sector, division) : 1 meaning(s), 2 sentences
 - `tobo-290` : บท (chapter, section) : 1 meaning(s), 2 sentences
+- `tobo-292` : ลำคอ (throat) : 1 meaning(s), 2 sentences
 - `tobo-293` : เข้ากันได้ (to get along with, to be compatible) : 1 meaning(s), 2 sentences
 - `tobo-294` : อ่างล้างหน้า (bathroom sink) : 1 meaning(s), 2 sentences
+- `tobo-295` : ปีศาจ (devil, demon) : 1 meaning(s), 2 sentences
 - `tobo-297` : กระทะ (pan, frying pan) : 1 meaning(s), 2 sentences
+- `tobo-299` : ปอด (lung) : 1 meaning(s), 2 sentences
 - `tobo-300` : สถานการณ์ (situation, circumstances) : 1 meaning(s), 2 sentences
+- `tobo-301` : ความตื่นตระหนก (panic) : 1 meaning(s), 2 sentences
 - `tobo-302` : สำเนียง (accent) : 1 meaning(s), 2 sentences
 - `tobo-303` : ระเบิด (bomb, to explode) : 1 meaning(s), 2 sentences
+- `tobo-304` : ฤดู, ฤดูกาล (season) : 1 meaning(s), 2 sentences
 - `tobo-307` : ทรมาน (to torture, to torment, to be in agony, to suffer) : 1 meaning(s), 2 sentences
 - `tobo-308` : ความเป็นจริง (reality) : 1 meaning(s), 2 sentences
 - `tobo-309` : คำอธิบาย (explanation) : 1 meaning(s), 2 sentences
