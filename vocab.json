@@ -46435,6 +46435,25 @@
       "Tamago L3",
       "Thaipod101",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "marketing",
+        "sentences": [
+          {
+            "thai": "บริษัทลงทุนด้านการตลาดเยอะมาก",
+            "en": "The company invests heavily in marketing.",
+            "audio_src": "บริษัทลงทุนด้านการตลาดเยอะมาก",
+            "audio_en_src": "The company invests heavily in marketing."
+          },
+          {
+            "thai": "เขาเรียนจบด้านการตลาด",
+            "en": "He graduated in marketing.",
+            "audio_src": "เขาเรียนจบด้านการตลาด",
+            "audio_en_src": "He graduated in marketing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46544,6 +46563,25 @@
     "topic": "economy",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to build wealth, to build financial stability",
+        "sentences": [
+          {
+            "thai": "เขาทำงานหนักเพื่อสร้างฐานะ",
+            "en": "He works hard to build his wealth.",
+            "audio_src": "เขาทำงานหนักเพื่อสร้างฐานะ",
+            "audio_en_src": "He works hard to build his wealth."
+          },
+          {
+            "thai": "กว่าจะสร้างฐานะได้ก็ใช้เวลานาน",
+            "en": "It took a long time to build financial stability.",
+            "audio_src": "กว่าจะสร้างฐานะได้ก็ใช้เวลานาน",
+            "audio_en_src": "It took a long time to build financial stability."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46554,6 +46592,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"this and that\", \"all sorts of things\"",
+        "sentences": [
+          {
+            "thai": "เขาซื้ออะไรต่อมิอะไรมาเต็มไปหมด",
+            "en": "He bought all sorts of things.",
+            "audio_src": "เขาซื้ออะไรต่อมิอะไรมาเต็มไปหมด",
+            "audio_en_src": "He bought all sorts of things."
+          },
+          {
+            "thai": "วันนี้ยุ่งกับอะไรต่อมิอะไรทั้งวัน",
+            "en": "I was busy with this and that all day.",
+            "audio_src": "วันนี้ยุ่งกับอะไรต่อมิอะไรทั้งวัน",
+            "audio_en_src": "I was busy with this and that all day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46607,6 +46664,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to follow one's dream",
+        "sentences": [
+          {
+            "thai": "เธอลาออกไปทำตามฝัน",
+            "en": "She quit to follow her dream.",
+            "audio_src": "เธอลาออกไปทำตามฝัน",
+            "audio_en_src": "She quit to follow her dream."
+          },
+          {
+            "thai": "อย่ากลัวที่จะทำตามฝัน",
+            "en": "Don't be afraid to follow your dreams.",
+            "audio_src": "อย่ากลัวที่จะทำตามฝัน",
+            "audio_en_src": "Don't be afraid to follow your dreams."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46717,6 +46793,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to lean towards, to tend to, to be kind of like",
+        "sentences": [
+          {
+            "thai": "เพลงนี้ออกแนวร็อก",
+            "en": "This song is kind of rock.",
+            "audio_src": "เพลงนี้ออกแนวร็อก",
+            "audio_en_src": "This song is kind of rock."
+          },
+          {
+            "thai": "การแต่งตัวของเขาออกแนววินเทจ",
+            "en": "His style leans toward vintage.",
+            "audio_src": "การแต่งตัวของเขาออกแนววินเทจ",
+            "audio_en_src": "His style leans toward vintage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46792,6 +46887,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"there was a period when...\", for a while",
+        "sentences": [
+          {
+            "thai": "มีอยู่พักนึงฉันติดกาแฟมาก",
+            "en": "There was a period when I was really into coffee.",
+            "audio_src": "มีอยู่พักนึงฉันติดกาแฟมาก",
+            "audio_en_src": "There was a period when I was really into coffee."
+          },
+          {
+            "thai": "มีอยู่พักนึงเราไม่ได้คุยกันเลย",
+            "en": "There was a while when we didn't talk at all.",
+            "audio_src": "มีอยู่พักนึงเราไม่ได้คุยกันเลย",
+            "audio_en_src": "There was a while when we didn't talk at all."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46848,6 +46962,25 @@
     "sources": [
       "Tamago L3",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "depressed, gloomy, deeply sad",
+        "sentences": [
+          {
+            "thai": "ฟังข่าวร้ายแล้วรู้สึกหดหู่",
+            "en": "Hearing the bad news made me feel gloomy.",
+            "audio_src": "ฟังข่าวร้ายแล้วรู้สึกหดหู่",
+            "audio_en_src": "Hearing the bad news made me feel gloomy."
+          },
+          {
+            "thai": "อากาศครึ้มๆทำให้ใจหดหู่",
+            "en": "The overcast weather makes me feel down.",
+            "audio_src": "อากาศครึ้มๆทำให้ใจหดหู่",
+            "audio_en_src": "The overcast weather makes me feel down."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46918,6 +47051,25 @@
     "topic": "time",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "day by day, one day at a time",
+        "sentences": [
+          {
+            "thai": "เขาใช้ชีวิตแบบวันต่อวัน",
+            "en": "He lives one day at a time.",
+            "audio_src": "เขาใช้ชีวิตแบบวันต่อวัน",
+            "audio_en_src": "He lives one day at a time."
+          },
+          {
+            "thai": "อาการของเธอดีขึ้นวันต่อวัน",
+            "en": "Her condition improves day by day.",
+            "audio_src": "อาการของเธอดีขึ้นวันต่อวัน",
+            "audio_en_src": "Her condition improves day by day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47023,6 +47175,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"what a relief!\", \"thank god!\"",
+        "sentences": [
+          {
+            "thai": "กินยาแล้วค่อยยังชั่วขึ้น",
+            "en": "I feel a bit better after taking the medicine.",
+            "audio_src": "กินยาแล้วค่อยยังชั่วขึ้น",
+            "audio_en_src": "I feel a bit better after taking the medicine."
+          },
+          {
+            "thai": "เขาปลอดภัยดี ค่อยยังชั่ว",
+            "en": "He's safe, what a relief.",
+            "audio_src": "เขาปลอดภัยดี ค่อยยังชั่ว",
+            "audio_en_src": "He's safe, what a relief."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47111,6 +47282,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"take it slow and steady\"",
+        "sentences": [
+          {
+            "thai": "เพิ่งหัดใหม่ ค่อยๆเป็นค่อยๆไปนะ",
+            "en": "You're just starting out, take it slow and steady.",
+            "audio_src": "เพิ่งหัดใหม่ ค่อยๆเป็นค่อยๆไปนะ",
+            "audio_en_src": "You're just starting out, take it slow and steady."
+          },
+          {
+            "thai": "ฟื้นตัวจากอาการป่วยต้องค่อยๆเป็นค่อยๆไป",
+            "en": "Recovering from illness has to be taken slow and steady.",
+            "audio_src": "ฟื้นตัวจากอาการป่วยต้องค่อยๆเป็นค่อยๆไป",
+            "audio_en_src": "Recovering from illness has to be taken slow and steady."
+          }
+        ]
+      }
     ]
   },
   {
