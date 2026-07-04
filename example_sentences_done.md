@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5232 words**
+**Total: 5242 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3453,13 +3453,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-058` : อาการแพ้ (allergic reaction) : 1 meaning(s), 2 sentences
 - `yt-c10-059` : น้ำปลาร้า (fermented fish sauce) : 1 meaning(s), 2 sentences
 - `yt-c10-063` : สายตาสั้น (myopia) : 1 meaning(s), 2 sentences
+- `yt-c10-064` : สายตายาว (far-sighted) : 1 meaning(s), 2 sentences
+- `yt-c10-072` : โฉนดที่ดิน (land title deed) : 1 meaning(s), 2 sentences
+- `yt-c10-077` : คลั่งรัก (crazy in love) : 1 meaning(s), 2 sentences
 - `yt-c10-081` : ร่มเงา (shade, shadow, umbrage) : 1 meaning(s), 2 sentences
+- `yt-c10-082` : เช้ามืด (very early morning (3am - 5am)) : 1 meaning(s), 2 sentences
+- `yt-c10-083` : เช้าตรู่ (early morning (5am - 6am)) : 1 meaning(s), 2 sentences
 - `yt-c10-084` : โทน, โทนเสียง (tone (low, high, etc)) : 1 meaning(s), 2 sentences
 - `yt-c10-085` : ล้น (to overflow, to spill over) : 1 meaning(s), 2 sentences
 - `yt-c10-086` : หลอก - ลวง - หลอกลวง (to trick, to fool, to pretend - to deceive, to lure - to scam, to defraud, to deceive) : 1 meaning(s), 3 sentences
 - `yt-c10-087` : แง่ - มุม - แง่มุม (aspect - angle, viewpoint - point of view, perspective) : 1 meaning(s), 3 sentences
+- `yt-c10-088` : มิจฉาชีพ (scammer, fraudster (criminal trying to make money illegally)) : 1 meaning(s), 2 sentences
+- `yt-c10-098` : สายเลือด (bloodline, lineage) : 1 meaning(s), 2 sentences
 - `yt-c11-000` : น็อคไป (to be knocked out, to pass out (lose consciousness, usually in a fight)) : 1 meaning(s), 2 sentences
+- `yt-c11-001` : อย่าไปยอม ("don't give in", "don't submit") : 1 meaning(s), 2 sentences
 - `yt-c11-002` : กลบ (to cover up, to bury) : 1 meaning(s), 2 sentences
+- `yt-c11-003` : ท่อไอเสีย (exhaust pipe) : 1 meaning(s), 2 sentences
+- `yt-c11-004` : กระจกมองหลัง (rearview mirror) : 1 meaning(s), 2 sentences
 - `yt-c11-007` : แล่น (to move swiftly, to drive quickly, to speed along; to glide, to sail) : 2 meaning(s), 4 sentences
 - `yt-c11-009` : ละแวก (neighborhood) : 1 meaning(s), 2 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
