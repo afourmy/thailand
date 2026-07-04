@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4773 words**
+**Total: 4783 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2072,15 +2072,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0109` : ก่อตั้ง (to found, to establish) : 1 meaning(s), 2 sentences
 - `thaipod-0111` : ก้าวขึ้น (to step up, to ascend) : 1 meaning(s), 2 sentences
 - `thaipod-0112` : ก้าวหน้า (to progress, to advance) : 1 meaning(s), 2 sentences
+- `thaipod-0114` : ขณะที่ (while, at the moment when) : 1 meaning(s), 2 sentences
+- `thaipod-0115` : ขนบธรรมเนียม (customs, traditions) : 1 meaning(s), 2 sentences
 - `thaipod-0116` : ขนม (dessert, sweet, snack) : 1 meaning(s), 2 sentences
+- `thaipod-0117` : ขนมหวาน (sweet dessert) : 1 meaning(s), 2 sentences
 - `thaipod-0120` : ขบวน (procession, parade) : 1 meaning(s), 2 sentences
 - `thaipod-0121` : ขยาย (to expand, to enlarge) : 1 meaning(s), 2 sentences
 - `thaipod-0124` : ของที่ระลึก (souvenir) : 1 meaning(s), 2 sentences
+- `thaipod-0128` : ขับ, ขับขี่ (to drive) : 1 meaning(s), 2 sentences
 - `thaipod-0130` : ขับไล่ (to expel, to drive out, to banish) : 1 meaning(s), 2 sentences
 - `thaipod-0132` : ขั้นตอน (steps, procedure) : 1 meaning(s), 2 sentences
 - `thaipod-0133` : ขาดแคลน (to lack, to be insufficient) : 1 meaning(s), 2 sentences
 - `thaipod-0137` : ขึ้นชื่อ (well-known, famous (for something)) : 1 meaning(s), 2 sentences
+- `thaipod-0138` : ขึ้นบิน (to take off (plane)) : 1 meaning(s), 2 sentences
 - `thaipod-0139` : ขึ้นฝั่ง (to come ashore, to land) : 1 meaning(s), 2 sentences
+- `thaipod-0140` : ขึ้นอยู่กับ (to depend on, to be up to) : 1 meaning(s), 2 sentences
 - `thaipod-0143` : ข่าวดี (good news) : 1 meaning(s), 2 sentences
 - `thaipod-0144` : ข้อบ่งชี้ (indication, indicator, sign) : 1 meaning(s), 2 sentences
 - `thaipod-0145` : ข้อสงสัย (doubt, uncertainty) : 1 meaning(s), 2 sentences
@@ -2095,6 +2101,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0164` : ครั้งใหญ่ (big time, major) : 1 meaning(s), 2 sentences
 - `thaipod-0167` : คลอง, ลำคลอง (canal, small waterway) : 1 meaning(s), 2 sentences
 - `thaipod-0169` : คลาย (to loosen, to relieve, to ease) : 1 meaning(s), 2 sentences
+- `thaipod-0172` : ควบคู่กันกับ (together with, simultaneously with) : 1 meaning(s), 2 sentences
+- `thaipod-0173` : ควรค่า (แก่) (worthy of, deserving of) : 1 meaning(s), 2 sentences
+- `thaipod-0177` : ความจริงแล้ว (actually, in fact) : 1 meaning(s), 2 sentences
+- `thaipod-0179` : ความซื่อ (honesty, sincerity) : 1 meaning(s), 2 sentences
 - `thaipod-0185` : ความมีชีวิตชีวา (vitality, liveliness) : 1 meaning(s), 2 sentences
 - `thaipod-0189` : ความลึกลับ (mystery, mysteriousness) : 1 meaning(s), 2 sentences
 - `thaipod-0199` : ความเป็นมา (background, history (of something)) : 1 meaning(s), 2 sentences
