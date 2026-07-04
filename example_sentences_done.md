@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4613 words**
+**Total: 4623 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1638,13 +1638,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-858` : ทำท่า (to pretend, to act like, to make a gesture (as if)) : 1 meaning(s), 2 sentences
 - `tamago-l3-859` : สยอง (horrible, terrifying, gruesome) : 1 meaning(s), 2 sentences
 - `tamago-l3-860` : เป็นที่เป็นทาง (orderly, well-arranged, in the right place, in proper order) : 1 meaning(s), 2 sentences
+- `tamago-l3-861` : คลายเหงา (to relieve someone's loneliness) : 1 meaning(s), 2 sentences
+- `tamago-l3-862` : หน้าไม่บาง (not easily embarrassed, socially unbothered) : 1 meaning(s), 2 sentences
+- `tamago-l3-863` : หน้าด้าน (shameless, brazen) : 1 meaning(s), 2 sentences
 - `tamago-l3-864` : อาชีพเสริม (side job, part-time work) : 1 meaning(s), 2 sentences
 - `tamago-l3-866` : คำสอน (teachings (religious or moral)) : 1 meaning(s), 2 sentences
+- `tamago-l3-868` : รักษาตัว (to recover, to take care of oneself after illness or injury) : 1 meaning(s), 2 sentences
+- `tamago-l3-869` : น่าดู (worth seeing) : 1 meaning(s), 2 sentences
 - `tamago-l3-870` : นอนค้าง (to stay overnight, to sleep over at someone's house) : 1 meaning(s), 2 sentences
 - `tamago-l3-871` : โน้มน้าว, โน้มน้าวใจ (to persuade, to win over) : 1 meaning(s), 2 sentences
+- `tamago-l3-872` : ราวกับ (as if, as though, like) : 1 meaning(s), 2 sentences
 - `tsl-002` : ลื่นล้ม (to slip and fall) : 1 meaning(s), 2 sentences
 - `tsl-003` : ตกบันได (to fall down the stairs) : 1 meaning(s), 2 sentences
 - `tsl-004` : สะดุด - สะดุดล้ม (to trip, to stumble - to trip and fall) : 2 meaning(s), 4 sentences
+- `tsl-005` : คู่ใจ (beloved, thing you're very fond of, attached to (literally "partner of heart")) : 1 meaning(s), 2 sentences
+- `tsl-006` : ประมาท (careless, reckless, negligent) : 1 meaning(s), 2 sentences
+- `tsl-007` : ถลอก (scratched, scraped (minor wound)) : 1 meaning(s), 2 sentences
+- `tsl-008` : กว่า ... ก็ ... ("by the time..., already...") : 1 meaning(s), 2 sentences
 - `tsl-010` : ล่าช้า (delayed, late, behind schedule (delivery, service, flight)) : 1 meaning(s), 2 sentences
 - `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences
 - `tsl-012` : ชานเมือง (suburbs, outskirts of the city) : 1 meaning(s), 2 sentences
