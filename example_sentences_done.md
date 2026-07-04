@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4513 words**
+**Total: 4523 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1411,9 +1411,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-550` : พลั้งปาก (to let slip (in conversation), to say something by accident) : 1 meaning(s), 2 sentences
 - `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
 - `tamago-l3-552` : ร้านริมถนน (street food stall, roadside shop) : 1 meaning(s), 2 sentences
+- `tamago-l3-553` : ตั้งแต่ไหนแต่ไร (since the very beginning, since forever) : 1 meaning(s), 2 sentences
+- `tamago-l3-554` : ตะกละ (gluttonous, greedy for food) : 1 meaning(s), 2 sentences
 - `tamago-l3-555` : พ้น - ไม่พ้น (free from, escape from - can't avoid, inevitably ends up being...) : 2 meaning(s), 4 sentences
 - `tamago-l3-556` : พื้นๆ (plain, simple, ordinary) : 1 meaning(s), 2 sentences
+- `tamago-l3-557` : กลมกล่อม (full-flavored, well-rounded (taste)) : 1 meaning(s), 2 sentences
+- `tamago-l3-558` : โปะ (to add on top, to apply onto a surface) : 1 meaning(s), 2 sentences
+- `tamago-l3-559` : หนำใจ (fully satisfied, fully pleased (to the point of enough or more than enough)) : 1 meaning(s), 2 sentences
+- `tamago-l3-560` : สู้ตาย ("I'll do my best", "fight to the death") : 1 meaning(s), 2 sentences
 - `tamago-l3-561` : เจ้าแม่ (queen of, powerful woman; goddess) : 2 meaning(s), 4 sentences
+- `tamago-l3-563` : น้อยหน้า (to feel inferior, less than others) : 1 meaning(s), 2 sentences
+- `tamago-l3-565` : อย่าว่ากัน ("don't be mad", "don't take it the wrong way") : 1 meaning(s), 2 sentences
 - `tamago-l3-566` : ซ้ำซากจำเจ (tedious, repetitive and boring) : 1 meaning(s), 2 sentences
 - `tamago-l3-567` : เที่ยวรอบโลก (to travel around the world) : 1 meaning(s), 2 sentences
 - `tamago-l3-568` : ปักหลัก (to settle down (in a place)) : 1 meaning(s), 2 sentences
@@ -1422,6 +1430,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-572` : รอบรู้ (well-versed, knowledgeable) : 1 meaning(s), 2 sentences
 - `tamago-l3-574` : กติกา (rules, terms) : 1 meaning(s), 2 sentences
 - `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
+- `tamago-l3-576` : กะปิ (shrimp paste) : 1 meaning(s), 2 sentences
+- `tamago-l3-577` : ตะไคร้ (lemongrass) : 1 meaning(s), 2 sentences
 - `tamago-l3-580` : โจทย์ (problem, challenge, task (math, competition)) : 1 meaning(s), 2 sentences
 - `tamago-l3-581` : จับเวลา (to time, to keep time) : 1 meaning(s), 2 sentences
 - `tamago-l3-582` : เสมอ (even, tied, to draw (in a game); always) : 2 meaning(s), 4 sentences

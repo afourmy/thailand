@@ -54102,6 +54102,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "since the very beginning, since forever",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนใจดีมาตั้งแต่ไหนแต่ไร",
+            "en": "He's been kind-hearted for as long as I can remember.",
+            "audio_src": "เขาเป็นคนใจดีมาตั้งแต่ไหนแต่ไร",
+            "audio_en_src": "He's been kind-hearted for as long as I can remember."
+          },
+          {
+            "thai": "ฉันชอบกินเผ็ดมาตั้งแต่ไหนแต่ไร",
+            "en": "I've loved spicy food since forever.",
+            "audio_src": "ฉันชอบกินเผ็ดมาตั้งแต่ไหนแต่ไร",
+            "audio_en_src": "I've loved spicy food since forever."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54112,6 +54131,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "gluttonous, greedy for food",
+        "sentences": [
+          {
+            "thai": "อย่ากินตะกละแบบนั้น",
+            "en": "Don't eat so greedily.",
+            "audio_src": "อย่ากินตะกละแบบนั้น",
+            "audio_en_src": "Don't eat so greedily."
+          },
+          {
+            "thai": "เขาตะกละกินหมดทั้งจาน",
+            "en": "He gobbled up the whole plate.",
+            "audio_src": "เขาตะกละกินหมดทั้งจาน",
+            "audio_en_src": "He gobbled up the whole plate."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54202,6 +54240,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "full-flavored, well-rounded (taste)",
+        "sentences": [
+          {
+            "thai": "แกงนี้รสชาติกลมกล่อม",
+            "en": "This curry has a well-rounded flavor.",
+            "audio_src": "แกงนี้รสชาติกลมกล่อม",
+            "audio_en_src": "This curry has a well-rounded flavor."
+          },
+          {
+            "thai": "ต้มยำร้านนี้กลมกล่อมมาก",
+            "en": "The tom yum here is really full-flavored.",
+            "audio_src": "ต้มยำร้านนี้กลมกล่อมมาก",
+            "audio_en_src": "The tom yum here is really full-flavored."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54212,6 +54269,25 @@
     "topic": "food",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to add on top, to apply onto a surface",
+        "sentences": [
+          {
+            "thai": "โปะไข่ดาวบนข้าวผัด",
+            "en": "Put a fried egg on top of the fried rice.",
+            "audio_src": "โปะไข่ดาวบนข้าวผัด",
+            "audio_en_src": "Put a fried egg on top of the fried rice."
+          },
+          {
+            "thai": "เธอโปะแป้งหนาไปหน่อย",
+            "en": "She put on a bit too much powder.",
+            "audio_src": "เธอโปะแป้งหนาไปหน่อย",
+            "audio_en_src": "She put on a bit too much powder."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54222,6 +54298,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "fully satisfied, fully pleased (to the point of enough or more than enough)",
+        "sentences": [
+          {
+            "thai": "วันนี้กินบุฟเฟต์จนหนำใจ",
+            "en": "Today I ate at the buffet till I was fully satisfied.",
+            "audio_src": "วันนี้กินบุฟเฟต์จนหนำใจ",
+            "audio_en_src": "Today I ate at the buffet till I was fully satisfied."
+          },
+          {
+            "thai": "ได้เที่ยวจนหนำใจแล้ว",
+            "en": "I've traveled to my heart's content.",
+            "audio_src": "ได้เที่ยวจนหนำใจแล้ว",
+            "audio_en_src": "I've traveled to my heart's content."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54232,6 +54327,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"I'll do my best\", \"fight to the death\"",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้แข่งรอบชิง ฉันจะสู้ตาย",
+            "en": "Tomorrow's the final, I'll give it everything.",
+            "audio_src": "พรุ่งนี้แข่งรอบชิง ฉันจะสู้ตาย",
+            "audio_en_src": "Tomorrow's the final, I'll give it everything."
+          },
+          {
+            "thai": "เพื่อครอบครัว เขายอมสู้ตาย",
+            "en": "For his family, he'd fight to the death.",
+            "audio_src": "เพื่อครอบครัว เขายอมสู้ตาย",
+            "audio_en_src": "For his family, he'd fight to the death."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54301,6 +54415,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel inferior, less than others",
+        "sentences": [
+          {
+            "thai": "อย่ารู้สึกน้อยหน้าใคร",
+            "en": "Don't feel inferior to anyone.",
+            "audio_src": "อย่ารู้สึกน้อยหน้าใคร",
+            "audio_en_src": "Don't feel inferior to anyone."
+          },
+          {
+            "thai": "เธอซื้อของแพงเพราะไม่อยากน้อยหน้าเพื่อน",
+            "en": "She buys expensive things because she doesn't want to feel less than her friends.",
+            "audio_src": "เธอซื้อของแพงเพราะไม่อยากน้อยหน้าเพื่อน",
+            "audio_en_src": "She buys expensive things because she doesn't want to feel less than her friends."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54321,6 +54454,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"don't be mad\", \"don't take it the wrong way\"",
+        "sentences": [
+          {
+            "thai": "พูดตรงๆนะ อย่าว่ากัน",
+            "en": "I'll be blunt, don't take it the wrong way.",
+            "audio_src": "พูดตรงๆนะ อย่าว่ากัน",
+            "audio_en_src": "I'll be blunt, don't take it the wrong way."
+          },
+          {
+            "thai": "ที่พักเล็กไปหน่อย อย่าว่ากันนะ",
+            "en": "The place is a bit small, don't mind it.",
+            "audio_src": "ที่พักเล็กไปหน่อย อย่าว่ากันนะ",
+            "audio_en_src": "The place is a bit small, don't mind it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54610,6 +54762,25 @@
     "topic": "food",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "shrimp paste",
+        "sentences": [
+          {
+            "thai": "น้ำพริกกะปิอร่อยมาก",
+            "en": "Shrimp paste chili dip is really tasty.",
+            "audio_src": "น้ำพริกกะปิอร่อยมาก",
+            "audio_en_src": "Shrimp paste chili dip is really tasty."
+          },
+          {
+            "thai": "ใส่กะปินิดหน่อยให้หอม",
+            "en": "Add a little shrimp paste for aroma.",
+            "audio_src": "ใส่กะปินิดหน่อยให้หอม",
+            "audio_en_src": "Add a little shrimp paste for aroma."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54622,6 +54793,25 @@
       "Tamago L3",
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lemongrass",
+        "sentences": [
+          {
+            "thai": "ต้มยำต้องใส่ตะไคร้",
+            "en": "Tom yum needs lemongrass.",
+            "audio_src": "ต้มยำต้องใส่ตะไคร้",
+            "audio_en_src": "Tom yum needs lemongrass."
+          },
+          {
+            "thai": "ชาตะไคร้ช่วยให้สดชื่น",
+            "en": "Lemongrass tea is refreshing.",
+            "audio_src": "ชาตะไคร้ช่วยให้สดชื่น",
+            "audio_en_src": "Lemongrass tea is refreshing."
+          }
+        ]
+      }
     ]
   },
   {
