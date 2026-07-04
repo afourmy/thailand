@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4943 words**
+**Total: 4953 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2655,12 +2655,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1408` : ได้ข่าวว่า ("I heard that", "I got word that") : 1 meaning(s), 2 sentences
 - `thaipod-1410` : ได้ชื่อว่า (to be known as, to be regarded as) : 1 meaning(s), 2 sentences
 - `thaipod-1411` : ไต่ (to climb, to crawl along a surface (carefully, gradually)) : 1 meaning(s), 2 sentences
+- `thaipod-1413` : ไฟเลี้ยว (turn signal (vehicle)) : 1 meaning(s), 2 sentences
+- `thaipod-1415` : ไม่กี่วัน (a few days) : 1 meaning(s), 2 sentences
+- `thaipod-1416` : ไม่ต่ำกว่า (not less than, at least) : 1 meaning(s), 2 sentences
+- `thaipod-1417` : ไม่ทางใดก็ทางหนึ่ง (one way or another) : 1 meaning(s), 2 sentences
+- `thaipod-1418` : ไม่ว่าจะเป็น (whether it be) : 1 meaning(s), 2 sentences
+- `thaipod-1419` : ไม่ใช่ก็ใกล้เคียง ((idiom) not exactly but close) : 1 meaning(s), 2 sentences
+- `thaipod-1421` : ไร้ (without, lacking) : 1 meaning(s), 2 sentences
 - `thaipod-1422` : ไร้เหตุผล (illogical, unreasonable) : 1 meaning(s), 2 sentences
 - `thaipod-1425` : ไล่ออก (to fire, to lay off) : 1 meaning(s), 2 sentences
+- `thaipod-1426` : ไหนๆก็ไหนๆ ("since we're already at it", "might as well") : 1 meaning(s), 2 sentences
 - `thaipod-1429` : ไหว้ (to wai (Thai greeting); to pay respect, to worship) : 1 meaning(s), 2 sentences
 - `thaipod-1430` : ไอ (to cough; vapor, steam) : 2 meaning(s), 4 sentences
+- `tobo-001` : เงินออม (savings) : 1 meaning(s), 2 sentences
 - `tobo-002` : การปฏิวัติ (revolution) : 1 meaning(s), 2 sentences
 - `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
+- `tobo-005` : แมงมุม (spider) : 1 meaning(s), 2 sentences
 - `tobo-008` : เหยื่อ (victim; bait) : 2 meaning(s), 4 sentences
 - `tobo-009` : ลบ (to subtract, to delete; negative) : 2 meaning(s), 4 sentences
 - `tobo-011` : การเตรียมการ (preparation) : 1 meaning(s), 2 sentences

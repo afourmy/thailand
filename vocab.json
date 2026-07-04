@@ -102806,6 +102806,25 @@
     "topic": "transport",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "turn signal (vehicle)",
+        "sentences": [
+          {
+            "thai": "อย่าลืมเปิดไฟเลี้ยวก่อนเลี้ยว",
+            "en": "Don't forget to turn on your signal before you turn.",
+            "audio_src": "อย่าลืมเปิดไฟเลี้ยวก่อนเลี้ยว",
+            "audio_en_src": "Don't forget to turn on your signal before you turn."
+          },
+          {
+            "thai": "ไฟเลี้ยวรถเสียต้องรีบซ่อม",
+            "en": "The turn signal is broken, you should fix it soon.",
+            "audio_src": "ไฟเลี้ยวรถเสียต้องรีบซ่อม",
+            "audio_en_src": "The turn signal is broken, you should fix it soon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102826,6 +102845,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "a few days",
+        "sentences": [
+          {
+            "thai": "อีกไม่กี่วันก็จะสอบแล้ว",
+            "en": "In just a few days the exam will be here.",
+            "audio_src": "อีกไม่กี่วันก็จะสอบแล้ว",
+            "audio_en_src": "In just a few days the exam will be here."
+          },
+          {
+            "thai": "เขาหายไปไม่กี่วันก็กลับมา",
+            "en": "He was gone for a few days and then came back.",
+            "audio_src": "เขาหายไปไม่กี่วันก็กลับมา",
+            "audio_en_src": "He was gone for a few days and then came back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102836,6 +102874,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "not less than, at least",
+        "sentences": [
+          {
+            "thai": "งานนี้มีคนมาไม่ต่ำกว่าพันคน",
+            "en": "At least a thousand people came to this event.",
+            "audio_src": "งานนี้มีคนมาไม่ต่ำกว่าพันคน",
+            "audio_en_src": "At least a thousand people came to this event."
+          },
+          {
+            "thai": "เขาออมเงินไม่ต่ำกว่าเดือนละห้าพัน",
+            "en": "He saves at least five thousand a month.",
+            "audio_src": "เขาออมเงินไม่ต่ำกว่าเดือนละห้าพัน",
+            "audio_en_src": "He saves at least five thousand a month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102846,6 +102903,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "one way or another",
+        "sentences": [
+          {
+            "thai": "เราต้องแก้ปัญหานี้ไม่ทางใดก็ทางหนึ่ง",
+            "en": "We have to solve this problem one way or another.",
+            "audio_src": "เราต้องแก้ปัญหานี้ไม่ทางใดก็ทางหนึ่ง",
+            "audio_en_src": "We have to solve this problem one way or another."
+          },
+          {
+            "thai": "เขาจะหาเงินมาให้ได้ไม่ทางใดก็ทางหนึ่ง",
+            "en": "He'll come up with the money one way or another.",
+            "audio_src": "เขาจะหาเงินมาให้ได้ไม่ทางใดก็ทางหนึ่ง",
+            "audio_en_src": "He'll come up with the money one way or another."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102856,6 +102932,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "whether it be",
+        "sentences": [
+          {
+            "thai": "เขากินได้ทุกอย่าง ไม่ว่าจะเป็นผักหรือเนื้อ",
+            "en": "He'll eat anything, whether it's vegetables or meat.",
+            "audio_src": "เขากินได้ทุกอย่าง ไม่ว่าจะเป็นผักหรือเนื้อ",
+            "audio_en_src": "He'll eat anything, whether it's vegetables or meat."
+          },
+          {
+            "thai": "ร้านนี้มีทุกอย่าง ไม่ว่าจะเป็นของกินหรือของใช้",
+            "en": "This shop has everything, whether it's food or household goods.",
+            "audio_src": "ร้านนี้มีทุกอย่าง ไม่ว่าจะเป็นของกินหรือของใช้",
+            "audio_en_src": "This shop has everything, whether it's food or household goods."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102866,6 +102961,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "(idiom) not exactly but close",
+        "sentences": [
+          {
+            "thai": "เขาเป็นแฟนเธอเหรอ ถ้าไม่ใช่ก็ใกล้เคียง",
+            "en": "Is he your boyfriend? If not, then something close to it.",
+            "audio_src": "เขาเป็นแฟนเธอเหรอ ถ้าไม่ใช่ก็ใกล้เคียง",
+            "audio_en_src": "Is he your boyfriend? If not, then something close to it."
+          },
+          {
+            "thai": "งานนี้กำไรเป็นล้านเลยเหรอ ไม่ใช่ก็ใกล้เคียง",
+            "en": "Did this deal make a million in profit? Not quite, but close.",
+            "audio_src": "งานนี้กำไรเป็นล้านเลยเหรอ ไม่ใช่ก็ใกล้เคียง",
+            "audio_en_src": "Did this deal make a million in profit? Not quite, but close."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102887,6 +103001,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "without, lacking",
+        "sentences": [
+          {
+            "thai": "เขายืนมองอย่างไร้อารมณ์",
+            "en": "He stood staring, completely expressionless.",
+            "audio_src": "เขายืนมองอย่างไร้อารมณ์",
+            "audio_en_src": "He stood staring, completely expressionless."
+          },
+          {
+            "thai": "ทะเลทรายเป็นดินแดนที่ไร้ชีวิต",
+            "en": "The desert is a lifeless land.",
+            "audio_src": "ทะเลทรายเป็นดินแดนที่ไร้ชีวิต",
+            "audio_en_src": "The desert is a lifeless land."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102970,6 +103103,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"since we're already at it\", \"might as well\"",
+        "sentences": [
+          {
+            "thai": "ไหนๆก็ไหนๆแล้ว แวะกินข้าวก่อนกลับ",
+            "en": "Since we're already here, let's grab a bite before heading back.",
+            "audio_src": "ไหนๆก็ไหนๆแล้ว แวะกินข้าวก่อนกลับ",
+            "audio_en_src": "Since we're already here, let's grab a bite before heading back."
+          },
+          {
+            "thai": "ไหนๆก็ไหนๆแล้ว ซื้อเผื่อเพื่อนด้วยเลย",
+            "en": "Since we're buying anyway, we might as well get some for our friends too.",
+            "audio_src": "ไหนๆก็ไหนๆแล้ว ซื้อเผื่อเพื่อนด้วยเลย",
+            "audio_en_src": "Since we're buying anyway, we might as well get some for our friends too."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103084,6 +103236,25 @@
     "topic": "economy",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "savings",
+        "sentences": [
+          {
+            "thai": "เขาเก็บเงินออมไว้ใช้ยามฉุกเฉิน",
+            "en": "He keeps savings for emergencies.",
+            "audio_src": "เขาเก็บเงินออมไว้ใช้ยามฉุกเฉิน",
+            "audio_en_src": "He keeps savings for emergencies."
+          },
+          {
+            "thai": "เงินออมของฉันหมดไปกับค่ารักษาพยาบาล",
+            "en": "My savings got used up on medical bills.",
+            "audio_src": "เงินออมของฉันหมดไปกับค่ารักษาพยาบาล",
+            "audio_en_src": "My savings got used up on medical bills."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103188,6 +103359,25 @@
     "topic": "nature",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "spider",
+        "sentences": [
+          {
+            "thai": "แมงมุมชักใยอยู่มุมห้อง",
+            "en": "A spider is spinning a web in the corner of the room.",
+            "audio_src": "แมงมุมชักใยอยู่มุมห้อง",
+            "audio_en_src": "A spider is spinning a web in the corner of the room."
+          },
+          {
+            "thai": "เธอกลัวแมงมุมมาก",
+            "en": "She's really afraid of spiders.",
+            "audio_src": "เธอกลัวแมงมุมมาก",
+            "audio_en_src": "She's really afraid of spiders."
+          }
+        ]
+      }
     ]
   },
   {
