@@ -102185,6 +102185,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "can't get through (phone call)",
+        "sentences": [
+          {
+            "thai": "โทรหาเขาทั้งวันแต่โทรไม่ติด",
+            "en": "I called him all day but couldn't get through.",
+            "audio_src": "โทรหาเขาทั้งวันแต่โทรไม่ติด",
+            "audio_en_src": "I called him all day but couldn't get through."
+          },
+          {
+            "thai": "สายไม่ว่างหรือโทรไม่ติดก็ไม่รู้",
+            "en": "I don't know if the line's busy or I just can't get through.",
+            "audio_src": "สายไม่ว่างหรือโทรไม่ติดก็ไม่รู้",
+            "audio_en_src": "I don't know if the line's busy or I just can't get through."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102308,6 +102327,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "everyone, anyone",
+        "sentences": [
+          {
+            "thai": "ใครๆก็รู้ว่าเขาเก่ง",
+            "en": "Everyone knows he's talented.",
+            "audio_src": "ใครๆก็รู้ว่าเขาเก่ง",
+            "audio_en_src": "Everyone knows he's talented."
+          },
+          {
+            "thai": "เรื่องแค่นี้ใครๆก็ทำได้",
+            "en": "Anyone can do something this simple.",
+            "audio_src": "เรื่องแค่นี้ใครๆก็ทำได้",
+            "audio_en_src": "Anyone can do something this simple."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102386,6 +102424,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "any (formal)",
+        "sentences": [
+          {
+            "thai": "หากมีข้อสงสัยประการใด สอบถามได้",
+            "en": "If you have any questions, feel free to ask.",
+            "audio_src": "หากมีข้อสงสัยประการใด สอบถามได้",
+            "audio_en_src": "If you have any questions, feel free to ask."
+          },
+          {
+            "thai": "ไม่มีสิ่งใดยากเกินความพยายาม",
+            "en": "Nothing is too hard for someone who tries.",
+            "audio_src": "ไม่มีสิ่งใดยากเกินความพยายาม",
+            "audio_en_src": "Nothing is too hard for someone who tries."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102397,6 +102454,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "any, whatsoever, of any kind",
+        "sentences": [
+          {
+            "thai": "เขาไม่มีข้อแก้ตัวใดๆทั้งสิ้น",
+            "en": "He has no excuse whatsoever.",
+            "audio_src": "เขาไม่มีข้อแก้ตัวใดๆทั้งสิ้น",
+            "audio_en_src": "He has no excuse whatsoever."
+          },
+          {
+            "thai": "บริษัทไม่รับผิดชอบต่อความเสียหายใดๆ",
+            "en": "The company is not responsible for any damage of any kind.",
+            "audio_src": "บริษัทไม่รับผิดชอบต่อความเสียหายใดๆ",
+            "audio_en_src": "The company is not responsible for any damage of any kind."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102407,6 +102483,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "in the field of, in terms of",
+        "sentences": [
+          {
+            "thai": "เธอเชี่ยวชาญในด้านการแพทย์",
+            "en": "She's an expert in the field of medicine.",
+            "audio_src": "เธอเชี่ยวชาญในด้านการแพทย์",
+            "audio_en_src": "She's an expert in the field of medicine."
+          },
+          {
+            "thai": "บริษัทพัฒนาในด้านเทคโนโลยีอย่างรวดเร็ว",
+            "en": "The company is advancing rapidly in terms of technology.",
+            "audio_src": "บริษัทพัฒนาในด้านเทคโนโลยีอย่างรวดเร็ว",
+            "audio_en_src": "The company is advancing rapidly in terms of technology."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102417,6 +102512,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "at the beginning, initially",
+        "sentences": [
+          {
+            "thai": "ในตอนต้นทุกอย่างดูยากไปหมด",
+            "en": "At the beginning everything seemed difficult.",
+            "audio_src": "ในตอนต้นทุกอย่างดูยากไปหมด",
+            "audio_en_src": "At the beginning everything seemed difficult."
+          },
+          {
+            "thai": "ในตอนต้นเขาไม่เชื่อ แต่ภายหลังก็ยอมรับ",
+            "en": "Initially he didn't believe it, but later he came around.",
+            "audio_src": "ในตอนต้นเขาไม่เชื่อ แต่ภายหลังก็ยอมรับ",
+            "audio_en_src": "Initially he didn't believe it, but later he came around."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102460,6 +102574,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "in the end, eventually",
+        "sentences": [
+          {
+            "thai": "ในที่สุดเราก็มาถึงจุดหมาย",
+            "en": "In the end we finally reached our destination.",
+            "audio_src": "ในที่สุดเราก็มาถึงจุดหมาย",
+            "audio_en_src": "In the end we finally reached our destination."
+          },
+          {
+            "thai": "เขาพยายามอยู่นาน ในที่สุดก็สำเร็จ",
+            "en": "He tried for a long time, and eventually he succeeded.",
+            "audio_src": "เขาพยายามอยู่นาน ในที่สุดก็สำเร็จ",
+            "audio_en_src": "He tried for a long time, and eventually he succeeded."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102501,6 +102634,25 @@
     "topic": "food",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "pandan leaf",
+        "sentences": [
+          {
+            "thai": "ขนมไทยหลายอย่างใส่ใบเตยให้หอม",
+            "en": "Many Thai desserts use pandan leaf for fragrance.",
+            "audio_src": "ขนมไทยหลายอย่างใส่ใบเตยให้หอม",
+            "audio_en_src": "Many Thai desserts use pandan leaf for fragrance."
+          },
+          {
+            "thai": "เธอต้มน้ำใบเตยไว้ดื่ม",
+            "en": "She boils pandan leaf water to drink.",
+            "audio_src": "เธอต้มน้ำใบเตยไว้ดื่ม",
+            "audio_en_src": "She boils pandan leaf water to drink."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102554,6 +102706,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"I heard that\", \"I got word that\"",
+        "sentences": [
+          {
+            "thai": "ได้ข่าวว่าเธอกำลังจะย้ายบ้าน",
+            "en": "I heard that you're moving.",
+            "audio_src": "ได้ข่าวว่าเธอกำลังจะย้ายบ้าน",
+            "audio_en_src": "I heard that you're moving."
+          },
+          {
+            "thai": "ได้ข่าวว่าร้านนั้นปิดไปแล้ว",
+            "en": "I heard that shop has closed down.",
+            "audio_src": "ได้ข่าวว่าร้านนั้นปิดไปแล้ว",
+            "audio_en_src": "I heard that shop has closed down."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102564,6 +102735,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to be known as, to be regarded as",
+        "sentences": [
+          {
+            "thai": "เชียงใหม่ได้ชื่อว่าเป็นเมืองที่น่าอยู่",
+            "en": "Chiang Mai is known as a livable city.",
+            "audio_src": "เชียงใหม่ได้ชื่อว่าเป็นเมืองที่น่าอยู่",
+            "audio_en_src": "Chiang Mai is known as a livable city."
+          },
+          {
+            "thai": "เขาได้ชื่อว่าเป็นหมอที่เก่งที่สุดในโรงพยาบาล",
+            "en": "He's regarded as the best doctor in the hospital.",
+            "audio_src": "เขาได้ชื่อว่าเป็นหมอที่เก่งที่สุดในโรงพยาบาล",
+            "audio_en_src": "He's regarded as the best doctor in the hospital."
+          }
+        ]
+      }
     ]
   },
   {

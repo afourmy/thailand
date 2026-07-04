@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4933 words**
+**Total: 4943 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2638,12 +2638,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1367` : โดยเฉพาะ (especially, particularly) : 1 meaning(s), 2 sentences
 - `thaipod-1369` : โต (to grow up; large) : 2 meaning(s), 4 sentences
 - `thaipod-1371` : โต้รุ่ง ((open) all night, throughout the night) : 1 meaning(s), 2 sentences
+- `thaipod-1372` : โทรไม่ติด (can't get through (phone call)) : 1 meaning(s), 2 sentences
 - `thaipod-1380` : โรงเรียนประจำ (boarding school) : 1 meaning(s), 2 sentences
+- `thaipod-1390` : ใครๆ (everyone, anyone) : 1 meaning(s), 2 sentences
 - `thaipod-1391` : ใจร้อน (impatient, hot-tempered) : 1 meaning(s), 2 sentences
 - `thaipod-1392` : ใจเย็นๆ ("cool down", "take it easy") : 1 meaning(s), 2 sentences
+- `thaipod-1393` : ใด (any (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-1394` : ใดๆ (any, whatsoever, of any kind) : 1 meaning(s), 2 sentences
+- `thaipod-1397` : ในด้าน (in the field of, in terms of) : 1 meaning(s), 2 sentences
+- `thaipod-1398` : ในตอนต้น (at the beginning, initially) : 1 meaning(s), 2 sentences
 - `thaipod-1399` : ในทางทฤษฎี (in theory) : 1 meaning(s), 2 sentences
+- `thaipod-1400` : ในที่สุด (in the end, eventually) : 1 meaning(s), 2 sentences
 - `thaipod-1402` : ในอำนาจ (in power) : 1 meaning(s), 2 sentences
+- `thaipod-1403` : ใบเตย (pandan leaf) : 1 meaning(s), 2 sentences
 - `thaipod-1406` : ใหญ่โต (huge, enormous) : 1 meaning(s), 2 sentences
+- `thaipod-1408` : ได้ข่าวว่า ("I heard that", "I got word that") : 1 meaning(s), 2 sentences
+- `thaipod-1410` : ได้ชื่อว่า (to be known as, to be regarded as) : 1 meaning(s), 2 sentences
 - `thaipod-1411` : ไต่ (to climb, to crawl along a surface (carefully, gradually)) : 1 meaning(s), 2 sentences
 - `thaipod-1422` : ไร้เหตุผล (illogical, unreasonable) : 1 meaning(s), 2 sentences
 - `thaipod-1425` : ไล่ออก (to fire, to lay off) : 1 meaning(s), 2 sentences
