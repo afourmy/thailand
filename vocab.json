@@ -111721,6 +111721,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "feather, fur, body hair",
+        "sentences": [
+          {
+            "thai": "แมวตัวนี้ขนนุ่มมาก",
+            "en": "This cat’s fur is really soft.",
+            "audio_src": "แมวตัวนี้ขนนุ่มมาก",
+            "audio_en_src": "This cat’s fur is really soft."
+          },
+          {
+            "thai": "นกตัวนี้ขนสวยมาก",
+            "en": "This bird has beautiful feathers.",
+            "audio_src": "นกตัวนี้ขนสวยมาก",
+            "audio_en_src": "This bird has beautiful feathers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -111731,6 +111750,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "uncomfortable (physically)",
+        "sentences": [
+          {
+            "thai": "กินเยอะไปหน่อย รู้สึกไม่สบายตัว",
+            "en": "I ate a bit too much and now I feel uncomfortable.",
+            "audio_src": "กินเยอะไปหน่อย รู้สึกไม่สบายตัว",
+            "audio_en_src": "I ate a bit too much and now I feel uncomfortable."
+          },
+          {
+            "thai": "อากาศร้อนทำให้ไม่สบายตัว",
+            "en": "The heat makes me feel uncomfortable.",
+            "audio_src": "อากาศร้อนทำให้ไม่สบายตัว",
+            "audio_en_src": "The heat makes me feel uncomfortable."
+          }
+        ]
+      }
     ]
   },
   {
@@ -111902,6 +111940,25 @@
     "topic": "emotions",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "grief, deep sorrow",
+        "sentences": [
+          {
+            "thai": "เขาจมอยู่กับความเศร้าโศกหลังสูญเสียแม่",
+            "en": "He was consumed by grief after losing his mother.",
+            "audio_src": "เขาจมอยู่กับความเศร้าโศกหลังสูญเสียแม่",
+            "audio_en_src": "He was consumed by grief after losing his mother."
+          },
+          {
+            "thai": "เวลาช่วยเยียวยาความเศร้าโศกได้",
+            "en": "Time can heal grief.",
+            "audio_src": "เวลาช่วยเยียวยาความเศร้าโศกได้",
+            "audio_en_src": "Time can heal grief."
+          }
+        ]
+      }
     ]
   },
   {
@@ -111912,6 +111969,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "compassion, mercy, wanting to relieve others' suffering",
+        "sentences": [
+          {
+            "thai": "ขอบคุณสำหรับความกรุณาของคุณ",
+            "en": "Thank you for your kindness.",
+            "audio_src": "ขอบคุณสำหรับความกรุณาของคุณ",
+            "audio_en_src": "Thank you for your kindness."
+          },
+          {
+            "thai": "เขาช่วยด้วยความกรุณา ไม่ได้หวังอะไรตอบแทน",
+            "en": "He helped out of kindness, expecting nothing in return.",
+            "audio_src": "เขาช่วยด้วยความกรุณา ไม่ได้หวังอะไรตอบแทน",
+            "audio_en_src": "He helped out of kindness, expecting nothing in return."
+          }
+        ]
+      }
     ]
   },
   {
@@ -112283,6 +112359,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "cleverness, smartness",
+        "sentences": [
+          {
+            "thai": "ความฉลาดอย่างเดียวไม่พอ ต้องขยันด้วย",
+            "en": "Being smart alone isn’t enough; you have to work hard too.",
+            "audio_src": "ความฉลาดอย่างเดียวไม่พอ ต้องขยันด้วย",
+            "audio_en_src": "Being smart alone isn’t enough; you have to work hard too."
+          },
+          {
+            "thai": "เด็กคนนี้มีความฉลาดเกินวัย",
+            "en": "This kid is clever beyond his years.",
+            "audio_src": "เด็กคนนี้มีความฉลาดเกินวัย",
+            "audio_en_src": "This kid is clever beyond his years."
+          }
+        ]
+      }
     ]
   },
   {
@@ -112487,6 +112582,25 @@
     "topic": "nature",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "bull",
+        "sentences": [
+          {
+            "thai": "วัวตัวผู้ตัวนั้นดูดุมาก",
+            "en": "That bull looks really fierce.",
+            "audio_src": "วัวตัวผู้ตัวนั้นดูดุมาก",
+            "audio_en_src": "That bull looks really fierce."
+          },
+          {
+            "thai": "ชาวนาเลี้ยงวัวตัวผู้ไว้หลายตัว",
+            "en": "The farmer keeps several bulls.",
+            "audio_src": "ชาวนาเลี้ยงวัวตัวผู้ไว้หลายตัว",
+            "audio_en_src": "The farmer keeps several bulls."
+          }
+        ]
+      }
     ]
   },
   {
@@ -112529,6 +112643,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "patience, endurance",
+        "sentences": [
+          {
+            "thai": "การเลี้ยงลูกต้องใช้ความอดทน",
+            "en": "Raising kids takes a lot of patience.",
+            "audio_src": "การเลี้ยงลูกต้องใช้ความอดทน",
+            "audio_en_src": "Raising kids takes a lot of patience."
+          },
+          {
+            "thai": "ผมหมดความอดทนกับเขาแล้ว",
+            "en": "I’ve run out of patience with him.",
+            "audio_src": "ผมหมดความอดทนกับเขาแล้ว",
+            "audio_en_src": "I’ve run out of patience with him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -112638,6 +112771,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "optimistic",
+        "sentences": [
+          {
+            "thai": "พยายามมองในแง่ดีเข้าไว้",
+            "en": "Try to look on the bright side.",
+            "audio_src": "พยายามมองในแง่ดีเข้าไว้",
+            "audio_en_src": "Try to look on the bright side."
+          },
+          {
+            "thai": "เธอมองในแง่ดีเสมอ",
+            "en": "She always looks on the bright side.",
+            "audio_src": "เธอมองในแง่ดีเสมอ",
+            "audio_en_src": "She always looks on the bright side."
+          }
+        ]
+      }
     ]
   },
   {
@@ -112972,6 +113124,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cancer",
+        "sentences": [
+          {
+            "thai": "หมอบอกว่าเขาเป็นมะเร็ง",
+            "en": "The doctor said he has cancer.",
+            "audio_src": "หมอบอกว่าเขาเป็นมะเร็ง",
+            "audio_en_src": "The doctor said he has cancer."
+          },
+          {
+            "thai": "การสูบบุหรี่เพิ่มความเสี่ยงมะเร็งปอด",
+            "en": "Smoking raises the risk of lung cancer.",
+            "audio_src": "การสูบบุหรี่เพิ่มความเสี่ยงมะเร็งปอด",
+            "audio_en_src": "Smoking raises the risk of lung cancer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -113023,6 +113194,25 @@
     "topic": "economy",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "currency",
+        "sentences": [
+          {
+            "thai": "สกุลเงินของไทยคือบาท",
+            "en": "Thailand’s currency is the baht.",
+            "audio_src": "สกุลเงินของไทยคือบาท",
+            "audio_en_src": "Thailand’s currency is the baht."
+          },
+          {
+            "thai": "ผมอยากแลกเงินเป็นสกุลเงินยูโร",
+            "en": "I want to exchange my money for euros.",
+            "audio_src": "ผมอยากแลกเงินเป็นสกุลเงินยูโร",
+            "audio_en_src": "I want to exchange my money for euros."
+          }
+        ]
+      }
     ]
   },
   {

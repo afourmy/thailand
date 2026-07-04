@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5023 words**
+**Total: 5033 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2918,11 +2918,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-302` : สำเนียง (accent) : 1 meaning(s), 2 sentences
 - `tobo-303` : ระเบิด (bomb, to explode) : 1 meaning(s), 2 sentences
 - `tobo-304` : ฤดู, ฤดูกาล (season) : 1 meaning(s), 2 sentences
+- `tobo-305` : ขน (feather, fur, body hair) : 1 meaning(s), 2 sentences
+- `tobo-306` : ไม่สบายตัว (uncomfortable (physically)) : 1 meaning(s), 2 sentences
 - `tobo-307` : ทรมาน (to torture, to torment, to be in agony, to suffer) : 1 meaning(s), 2 sentences
 - `tobo-308` : ความเป็นจริง (reality) : 1 meaning(s), 2 sentences
 - `tobo-309` : คำอธิบาย (explanation) : 1 meaning(s), 2 sentences
 - `tobo-310` : หลุม (pit, hole) : 1 meaning(s), 2 sentences
 - `tobo-311` : คำแนะนำ (advice, suggestion) : 1 meaning(s), 2 sentences
+- `tobo-312` : ความเศร้าโศก (grief, deep sorrow) : 1 meaning(s), 2 sentences
+- `tobo-314` : ความกรุณา (compassion, mercy, wanting to relieve others' suffering) : 1 meaning(s), 2 sentences
 - `tobo-317` : ความรับผิดชอบ (responsibility) : 1 meaning(s), 2 sentences
 - `tobo-319` : เป้าหมาย (target, goal) : 1 meaning(s), 2 sentences
 - `tobo-320` : นุ่ม (soft, tender (texture)) : 1 meaning(s), 2 sentences
@@ -2933,16 +2937,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-326` : แตก (broken, to break) : 1 meaning(s), 2 sentences
 - `tobo-327` : วันหยุด (vacation, holiday) : 1 meaning(s), 2 sentences
 - `tobo-328` : ความเสียหาย (damage) : 1 meaning(s), 2 sentences
+- `tobo-330` : ความฉลาด (cleverness, smartness) : 1 meaning(s), 2 sentences
 - `tobo-331` : ข้อแก้ตัว (excuse, justification) : 1 meaning(s), 2 sentences
 - `tobo-332` : ปรารถนา (to wish, to desire) : 1 meaning(s), 2 sentences
 - `tobo-333` : ไหล (to flow) : 1 meaning(s), 2 sentences
 - `tobo-334` : ทำลาย (to destroy, to break) : 1 meaning(s), 2 sentences
 - `tobo-335` : ประสบความสำเร็จ (to succeed, to be successful) : 1 meaning(s), 2 sentences
 - `tobo-336` : เสียสละ (to sacrifice) : 1 meaning(s), 2 sentences
+- `tobo-337` : วัวตัวผู้ (bull) : 1 meaning(s), 2 sentences
 - `tobo-338` : พลเมือง (citizen) : 1 meaning(s), 2 sentences
+- `tobo-339` : ความอดทน (patience, endurance) : 1 meaning(s), 2 sentences
 - `tobo-340` : กิจวัตร (routine) : 1 meaning(s), 2 sentences
 - `tobo-341` : เนื้อหา (content (of a text, video)) : 1 meaning(s), 2 sentences
 - `tobo-342` : ปากกา (pen) : 1 meaning(s), 2 sentences
+- `tobo-343` : มองในแง่ดี (optimistic) : 1 meaning(s), 2 sentences
 - `tobo-345` : ข่าวลือ (rumor) : 1 meaning(s), 2 sentences
 - `tobo-346` : ความบันเทิง (entertainment) : 1 meaning(s), 2 sentences
 - `tobo-348` : กระเป๋าตังค์, กระเป๋าสตางค์ (wallet) : 1 meaning(s), 2 sentences
@@ -2953,7 +2961,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-354` : บรรยากาศ (atmosphere, ambiance) : 1 meaning(s), 2 sentences
 - `tobo-355` : ตรงเวลา (punctual, on time) : 1 meaning(s), 2 sentences
 - `tobo-356` : การเป็นสมาชิก (membership) : 1 meaning(s), 2 sentences
+- `tobo-357` : มะเร็ง (cancer) : 1 meaning(s), 2 sentences
 - `tobo-358` : ขัดจังหวะ (to interrupt, to disturb the flow) : 1 meaning(s), 2 sentences
+- `tobo-360` : สกุลเงิน (currency) : 1 meaning(s), 2 sentences
 - `tobo-362` : ความรุนแรง (violence) : 1 meaning(s), 2 sentences
 - `tobo-364` : ปฏิสัมพันธ์ (interaction) : 1 meaning(s), 2 sentences
 - `tobo-366` : เต็ม (full) : 1 meaning(s), 2 sentences
