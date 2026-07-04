@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4493 words**
+**Total: 4503 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1372,18 +1372,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-499` : สุ่ม (to pick randomly) : 1 meaning(s), 2 sentences
 - `tamago-l3-500` : เอาตัวรอด (to get by, to survive, to manage) : 1 meaning(s), 2 sentences
 - `tamago-l3-501` : ตาลาย (dizzy vision, blurred sight) : 1 meaning(s), 2 sentences
+- `tamago-l3-502` : พูดได้แบบงูๆปลาๆ (to speak (a language) only a little, not fluently) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-504` : พึ่ง, พึ่งพา (to rely on, to depend on) : 1 meaning(s), 2 sentences
+- `tamago-l3-507` : สดใส (bright, cheerful, lively) : 1 meaning(s), 2 sentences
+- `tamago-l3-508` : มนุษยสัมพันธ์ดี (sociable, with good interpersonal skills) : 1 meaning(s), 2 sentences
 - `tamago-l3-509` : ลัดคิว (to cut in line, to skip the queue) : 1 meaning(s), 2 sentences
 - `tamago-l3-510` : แต่งรูป (to edit a photo) : 1 meaning(s), 2 sentences
+- `tamago-l3-511` : สู้ไม่ได้ (no match for, "cannot beat", "cannot compete with") : 1 meaning(s), 2 sentences
+- `tamago-l3-512` : ผิดหูผิดตา (unrecognizably different, different from normal) : 1 meaning(s), 2 sentences
 - `tamago-l3-513` : เจอตัวจริง (to meet (someone) in person) : 1 meaning(s), 2 sentences
 - `tamago-l3-515` : เลิกคบ (to break up, to end a relationship or friendship) : 1 meaning(s), 2 sentences
+- `tamago-l3-516` : สอดรู้สอดเห็น (to be nosy, to stick one's nose into others' business) : 1 meaning(s), 2 sentences
+- `tamago-l3-517` : เสียดสี (to satirize, to criticize indirectly) : 1 meaning(s), 2 sentences
 - `tamago-l3-518` : แซวเล่น (to tease someone for fun, "just teasing") : 1 meaning(s), 2 sentences
 - `tamago-l3-520` : ติดเดดไลน์ (busy, unavailable due to a deadline) : 1 meaning(s), 2 sentences
 - `tamago-l3-522` : มอบหมาย (to assign (a task)) : 1 meaning(s), 2 sentences
+- `tamago-l3-523` : หนวก, หูหนวก (deaf) : 1 meaning(s), 2 sentences
 - `tamago-l3-524` : หนวกหู (noisy, annoyingly loud) : 1 meaning(s), 2 sentences
+- `tamago-l3-525` : ฟ้อง, ฟ้องร้อง (to complain about someone; to sue, to file a lawsuit) : 2 meaning(s), 4 sentences
 - `tamago-l3-526` : สมาธิ (concentration, focus) : 1 meaning(s), 2 sentences
 - `tamago-l3-527` : หาเรื่อง (to pick a fight, to look for trouble) : 1 meaning(s), 2 sentences
+- `tamago-l3-529` : ฟังความข้างเดียว (to listen to just one side of the story) : 1 meaning(s), 2 sentences
 - `tamago-l3-530` : ใส่ร้าย (to slander, to make false damaging statements about someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-531` : เข้าข้าง (to take sides, to side with) : 1 meaning(s), 2 sentences
 - `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences

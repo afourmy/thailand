@@ -52797,6 +52797,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to speak (a language) only a little, not fluently",
+        "sentences": [
+          {
+            "thai": "ฉันพูดภาษาญี่ปุ่นได้แบบงูๆปลาๆ",
+            "en": "I speak Japanese only a little.",
+            "audio_src": "ฉันพูดภาษาญี่ปุ่นได้แบบงูๆปลาๆ",
+            "audio_en_src": "I speak Japanese only a little."
+          },
+          {
+            "thai": "เขาพูดอังกฤษได้งูๆปลาๆ พอสื่อสารได้",
+            "en": "He speaks broken English, enough to get by.",
+            "audio_src": "เขาพูดอังกฤษได้งูๆปลาๆ พอสื่อสารได้",
+            "audio_en_src": "He speaks broken English, enough to get by."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52897,6 +52916,25 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bright, cheerful, lively",
+        "sentences": [
+          {
+            "thai": "เธอยิ้มอย่างสดใส",
+            "en": "She smiles brightly.",
+            "audio_src": "เธอยิ้มอย่างสดใส",
+            "audio_en_src": "She smiles brightly."
+          },
+          {
+            "thai": "เช้านี้อากาศสดใสดี",
+            "en": "The weather is bright and nice this morning.",
+            "audio_src": "เช้านี้อากาศสดใสดี",
+            "audio_en_src": "The weather is bright and nice this morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52907,6 +52945,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "sociable, with good interpersonal skills",
+        "sentences": [
+          {
+            "thai": "เขามนุษยสัมพันธ์ดี ใครๆก็ชอบ",
+            "en": "He has good people skills, everyone likes him.",
+            "audio_src": "เขามนุษยสัมพันธ์ดี ใครๆก็ชอบ",
+            "audio_en_src": "He has good people skills, everyone likes him."
+          },
+          {
+            "thai": "คนมนุษยสัมพันธ์ดีมักหางานง่าย",
+            "en": "People with good interpersonal skills usually find jobs easily.",
+            "audio_src": "คนมนุษยสัมพันธ์ดีมักหางานง่าย",
+            "audio_en_src": "People with good interpersonal skills usually find jobs easily."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52982,6 +53039,25 @@
     "sources": [
       "Tamago L3",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "no match for, \"cannot beat\", \"cannot compete with\"",
+        "sentences": [
+          {
+            "thai": "ฝีมือฉันสู้เขาไม่ได้",
+            "en": "My skills are no match for his.",
+            "audio_src": "ฝีมือฉันสู้เขาไม่ได้",
+            "audio_en_src": "My skills are no match for his."
+          },
+          {
+            "thai": "ร้านเล็กสู้ห้างใหญ่ไม่ได้",
+            "en": "Small shops can't compete with big malls.",
+            "audio_src": "ร้านเล็กสู้ห้างใหญ่ไม่ได้",
+            "audio_en_src": "Small shops can't compete with big malls."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52992,6 +53068,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "unrecognizably different, different from normal",
+        "sentences": [
+          {
+            "thai": "ไม่ได้เจอกันนาน เธอเปลี่ยนไปจนผิดหูผิดตา",
+            "en": "Haven't seen you in ages, you've changed so much I barely recognize you.",
+            "audio_src": "ไม่ได้เจอกันนาน เธอเปลี่ยนไปจนผิดหูผิดตา",
+            "audio_en_src": "Haven't seen you in ages, you've changed so much I barely recognize you."
+          },
+          {
+            "thai": "บ้านรีโนเวทใหม่จนผิดหูผิดตา",
+            "en": "The house was renovated so much it looks completely different.",
+            "audio_src": "บ้านรีโนเวทใหม่จนผิดหูผิดตา",
+            "audio_en_src": "The house was renovated so much it looks completely different."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53076,6 +53171,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be nosy, to stick one's nose into others' business",
+        "sentences": [
+          {
+            "thai": "อย่ามาสอดรู้สอดเห็นเรื่องของฉัน",
+            "en": "Don't be nosy about my business.",
+            "audio_src": "อย่ามาสอดรู้สอดเห็นเรื่องของฉัน",
+            "audio_en_src": "Don't be nosy about my business."
+          },
+          {
+            "thai": "เธอเป็นคนสอดรู้สอดเห็น",
+            "en": "She's a nosy person.",
+            "audio_src": "เธอเป็นคนสอดรู้สอดเห็น",
+            "audio_en_src": "She's a nosy person."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53086,6 +53200,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to satirize, to criticize indirectly",
+        "sentences": [
+          {
+            "thai": "นักเขียนใช้เรื่องสั้นเสียดสีสังคม",
+            "en": "The writer uses short stories to satirize society.",
+            "audio_src": "นักเขียนใช้เรื่องสั้นเสียดสีสังคม",
+            "audio_en_src": "The writer uses short stories to satirize society."
+          },
+          {
+            "thai": "เขาพูดเสียดสีเจ้านายกลายๆ",
+            "en": "He indirectly took a dig at his boss.",
+            "audio_src": "เขาพูดเสียดสีเจ้านายกลายๆ",
+            "audio_en_src": "He indirectly took a dig at his boss."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53193,6 +53326,25 @@
       "Tamago L3",
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "deaf",
+        "sentences": [
+          {
+            "thai": "คุณยายหูหนวกข้างหนึ่ง",
+            "en": "Grandma is deaf in one ear.",
+            "audio_src": "คุณยายหูหนวกข้างหนึ่ง",
+            "audio_en_src": "Grandma is deaf in one ear."
+          },
+          {
+            "thai": "เขาหูหนวกตั้งแต่กำเนิด",
+            "en": "He's been deaf since birth.",
+            "audio_src": "เขาหูหนวกตั้งแต่กำเนิด",
+            "audio_en_src": "He's been deaf since birth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53238,6 +53390,42 @@
       "Anki Basics",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "to complain about someone",
+        "sentences": [
+          {
+            "thai": "น้องชอบฟ้องแม่ทุกเรื่อง",
+            "en": "My little brother tattles to Mom about everything.",
+            "audio_src": "น้องชอบฟ้องแม่ทุกเรื่อง",
+            "audio_en_src": "My little brother tattles to Mom about everything."
+          },
+          {
+            "thai": "อย่าฟ้องครูนะ",
+            "en": "Don't tell the teacher on me.",
+            "audio_src": "อย่าฟ้องครูนะ",
+            "audio_en_src": "Don't tell the teacher on me."
+          }
+        ]
+      },
+      {
+        "meaning": "to sue, to file a lawsuit",
+        "sentences": [
+          {
+            "thai": "เขาฟ้องร้องบริษัทเรื่องผิดสัญญา",
+            "en": "He sued the company for breach of contract.",
+            "audio_src": "เขาฟ้องร้องบริษัทเรื่องผิดสัญญา",
+            "audio_en_src": "He sued the company for breach of contract."
+          },
+          {
+            "thai": "ถ้าไม่จ่ายเงิน ฉันจะฟ้องร้อง",
+            "en": "If you don't pay, I'll file a lawsuit.",
+            "audio_src": "ถ้าไม่จ่ายเงิน ฉันจะฟ้องร้อง",
+            "audio_en_src": "If you don't pay, I'll file a lawsuit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53321,6 +53509,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to listen to just one side of the story",
+        "sentences": [
+          {
+            "thai": "อย่าเพิ่งตัดสินใครจากการฟังความข้างเดียว",
+            "en": "Don't judge someone based on just one side of the story.",
+            "audio_src": "อย่าเพิ่งตัดสินใครจากการฟังความข้างเดียว",
+            "audio_en_src": "Don't judge someone based on just one side of the story."
+          },
+          {
+            "thai": "เขาโกรธเพราะฟังความข้างเดียว",
+            "en": "He got angry because he only heard one side.",
+            "audio_src": "เขาโกรธเพราะฟังความข้างเดียว",
+            "audio_en_src": "He got angry because he only heard one side."
+          }
+        ]
+      }
     ]
   },
   {
