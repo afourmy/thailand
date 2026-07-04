@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4883 words**
+**Total: 4893 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2433,7 +2433,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0928` : ว่าแต่ว่า (by the way, "so anyway, ...") : 1 meaning(s), 2 sentences
 - `thaipod-0929` : ศตวรรษ (century) : 1 meaning(s), 2 sentences
 - `thaipod-0930` : ศพ (corpse, body) : 1 meaning(s), 2 sentences
+- `thaipod-0931` : ศักดิ์สิทธิ์ (sacred, holy) : 1 meaning(s), 2 sentences
 - `thaipod-0933` : ศาลา (pavilion, sala (open-sided structure)) : 1 meaning(s), 2 sentences
+- `thaipod-0936` : ศิลปวัฒนธรรม (arts and culture) : 1 meaning(s), 2 sentences
 - `thaipod-0937` : ศิลปะการต่อสู้ (martial arts) : 1 meaning(s), 2 sentences
 - `thaipod-0941` : ศึก (battle, war) : 1 meaning(s), 2 sentences
 - `thaipod-0942` : ศึกษา (to study, to learn (formal)) : 1 meaning(s), 2 sentences
@@ -2458,9 +2460,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0988` : สอบคัดเลือก (entrance exam, selection exam) : 1 meaning(s), 2 sentences
 - `thaipod-0989` : สะดวก (convenient) : 1 meaning(s), 2 sentences
 - `thaipod-0990` : สะสม (to collect, to accumulate) : 1 meaning(s), 2 sentences
+- `thaipod-0992` : สักนิด (a little bit) : 1 meaning(s), 2 sentences
 - `thaipod-0993` : สักลาย (to get a tattoo) : 1 meaning(s), 2 sentences
 - `thaipod-0995` : สังคม (society) : 1 meaning(s), 2 sentences
 - `thaipod-0996` : สังเกต, สังเกตเห็น (to notice, to observe) : 1 meaning(s), 2 sentences
+- `thaipod-0997` : สัตว์ป่า (wild animals, wildlife) : 1 meaning(s), 2 sentences
 - `thaipod-0998` : สัมผัส (to feel, to touch, to experience) : 1 meaning(s), 2 sentences
 - `thaipod-1002` : สั้นลง (to become shorter, to shorten) : 1 meaning(s), 2 sentences
 - `thaipod-1003` : สากล (international, universal) : 1 meaning(s), 2 sentences
@@ -2474,11 +2478,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1028` : สีสัน (colorful; (figuratively) liveliness, vibrancy) : 2 meaning(s), 4 sentences
 - `thaipod-1029` : สีเข้ม (dark color) : 1 meaning(s), 2 sentences
 - `thaipod-1030` : สี่เหลี่ยม (square, rectangle) : 1 meaning(s), 2 sentences
+- `thaipod-1033` : สุก (cooked; ripe) : 2 meaning(s), 4 sentences
 - `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
+- `thaipod-1036` : สุดท้อง (youngest child in a family, last-born) : 1 meaning(s), 2 sentences
 - `thaipod-1037` : สุดท้าย (finally, last) : 1 meaning(s), 2 sentences
 - `thaipod-1042` : สูญหายไป (to disappear, to be lost) : 1 meaning(s), 2 sentences
+- `thaipod-1043` : สู่ (to, towards) : 1 meaning(s), 2 sentences
 - `thaipod-1045` : ส่งผล (to affect, to have an effect, to impact) : 1 meaning(s), 2 sentences
 - `thaipod-1046` : ส่วนงาน (sector, department, division) : 1 meaning(s), 2 sentences
+- `thaipod-1047` : ส่วนมาก (mostly, for the most part) : 1 meaning(s), 2 sentences
 - `thaipod-1050` : หนวด (mustache, whiskers) : 1 meaning(s), 2 sentences
 - `thaipod-1052` : หนุ่ม (young man) : 1 meaning(s), 2 sentences
 - `thaipod-1053` : หนู (rat, mouse; I (used by younger people)) : 2 meaning(s), 4 sentences
@@ -2490,6 +2498,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1068` : หลอดไฟ (light bulb) : 1 meaning(s), 2 sentences
 - `thaipod-1069` : หลอม (to melt, to fuse) : 1 meaning(s), 2 sentences
 - `thaipod-1070` : หลัก (principle, main; pillar) : 2 meaning(s), 4 sentences
+- `thaipod-1073` : หลังจากนั้น (after that) : 1 meaning(s), 2 sentences
+- `thaipod-1074` : หลังจากนี้ (after this) : 1 meaning(s), 2 sentences
 - `thaipod-1076` : หล่อ (handsome) : 1 meaning(s), 2 sentences
 - `thaipod-1078` : หวย (lottery) : 1 meaning(s), 2 sentences
 - `thaipod-1082` : หัน (to turn (one's body or face)) : 1 meaning(s), 2 sentences

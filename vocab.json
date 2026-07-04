@@ -93860,6 +93860,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sacred, holy",
+        "sentences": [
+          {
+            "thai": "วัดนี้เป็นสถานที่ศักดิ์สิทธิ์",
+            "en": "This temple is a sacred place.",
+            "audio_src": "วัดนี้เป็นสถานที่ศักดิ์สิทธิ์",
+            "audio_en_src": "This temple is a sacred place."
+          },
+          {
+            "thai": "คนเชื่อว่าน้ำในบ่อนี้ศักดิ์สิทธิ์",
+            "en": "People believe the water in this well is holy.",
+            "audio_src": "คนเชื่อว่าน้ำในบ่อนี้ศักดิ์สิทธิ์",
+            "audio_en_src": "People believe the water in this well is holy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93933,6 +93952,25 @@
     "topic": "culture",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "arts and culture",
+        "sentences": [
+          {
+            "thai": "ประเทศไทยมีศิลปวัฒนธรรมที่งดงาม",
+            "en": "Thailand has a beautiful arts and culture.",
+            "audio_src": "ประเทศไทยมีศิลปวัฒนธรรมที่งดงาม",
+            "audio_en_src": "Thailand has a beautiful arts and culture."
+          },
+          {
+            "thai": "โรงเรียนสอนเรื่องศิลปวัฒนธรรมไทย",
+            "en": "The school teaches Thai arts and culture.",
+            "audio_src": "โรงเรียนสอนเรื่องศิลปวัฒนธรรมไทย",
+            "audio_en_src": "The school teaches Thai arts and culture."
+          }
+        ]
+      }
     ]
   },
   {
@@ -94966,6 +95004,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "a little bit",
+        "sentences": [
+          {
+            "thai": "ขอเวลาสักนิดนะ",
+            "en": "Give me just a little bit of time.",
+            "audio_src": "ขอเวลาสักนิดนะ",
+            "audio_en_src": "Give me just a little bit of time."
+          },
+          {
+            "thai": "ใส่เกลือเพิ่มสักนิดก็อร่อย",
+            "en": "Add a little more salt and it'll be tasty.",
+            "audio_src": "ใส่เกลือเพิ่มสักนิดก็อร่อย",
+            "audio_en_src": "Add a little more salt and it'll be tasty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -95084,6 +95141,25 @@
     "topic": "nature",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "wild animals, wildlife",
+        "sentences": [
+          {
+            "thai": "สัตว์ป่าหลายชนิดใกล้สูญพันธุ์",
+            "en": "Many wild animals are near extinction.",
+            "audio_src": "สัตว์ป่าหลายชนิดใกล้สูญพันธุ์",
+            "audio_en_src": "Many wild animals are near extinction."
+          },
+          {
+            "thai": "ห้ามล่าสัตว์ป่าในเขตอนุรักษ์",
+            "en": "Hunting wildlife in the reserve is prohibited.",
+            "audio_src": "ห้ามล่าสัตว์ป่าในเขตอนุรักษ์",
+            "audio_en_src": "Hunting wildlife in the reserve is prohibited."
+          }
+        ]
+      }
     ]
   },
   {
@@ -95663,6 +95739,42 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cooked",
+        "sentences": [
+          {
+            "thai": "รอให้เนื้อสุกก่อนค่อยกิน",
+            "en": "Wait for the meat to cook before you eat it.",
+            "audio_src": "รอให้เนื้อสุกก่อนค่อยกิน",
+            "audio_en_src": "Wait for the meat to cook before you eat it."
+          },
+          {
+            "thai": "ไข่ยังไม่สุกดี",
+            "en": "The egg isn't fully cooked yet.",
+            "audio_src": "ไข่ยังไม่สุกดี",
+            "audio_en_src": "The egg isn't fully cooked yet."
+          }
+        ]
+      },
+      {
+        "meaning": "ripe",
+        "sentences": [
+          {
+            "thai": "มะม่วงสุกหวานมาก",
+            "en": "The ripe mango is very sweet.",
+            "audio_src": "มะม่วงสุกหวานมาก",
+            "audio_en_src": "The ripe mango is very sweet."
+          },
+          {
+            "thai": "กล้วยสุกแล้วเปลือกจะเป็นสีเหลือง",
+            "en": "When a banana is ripe its skin turns yellow.",
+            "audio_src": "กล้วยสุกแล้วเปลือกจะเป็นสีเหลือง",
+            "audio_en_src": "When a banana is ripe its skin turns yellow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -95719,6 +95831,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "youngest child in a family, last-born",
+        "sentences": [
+          {
+            "thai": "เขาเป็นลูกคนสุดท้องของบ้าน",
+            "en": "He's the youngest child in the family.",
+            "audio_src": "เขาเป็นลูกคนสุดท้องของบ้าน",
+            "audio_en_src": "He's the youngest child in the family."
+          },
+          {
+            "thai": "น้องสุดท้องมักถูกตามใจ",
+            "en": "The youngest child often gets spoiled.",
+            "audio_src": "น้องสุดท้องมักถูกตามใจ",
+            "audio_en_src": "The youngest child often gets spoiled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -95827,6 +95958,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to, towards",
+        "sentences": [
+          {
+            "thai": "ขบวนรถไฟมุ่งหน้าสู่ภาคเหนือ",
+            "en": "The train heads towards the north.",
+            "audio_src": "ขบวนรถไฟมุ่งหน้าสู่ภาคเหนือ",
+            "audio_en_src": "The train heads towards the north."
+          },
+          {
+            "thai": "ขอต้อนรับทุกคนสู่งานเลี้ยง",
+            "en": "Welcome, everyone, to the party.",
+            "audio_src": "ขอต้อนรับทุกคนสู่งานเลี้ยง",
+            "audio_en_src": "Welcome, everyone, to the party."
+          }
+        ]
+      }
     ]
   },
   {
@@ -95902,6 +96052,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mostly, for the most part",
+        "sentences": [
+          {
+            "thai": "คนที่นี่ส่วนมากเป็นชาวนา",
+            "en": "Most people here are farmers.",
+            "audio_src": "คนที่นี่ส่วนมากเป็นชาวนา",
+            "audio_en_src": "Most people here are farmers."
+          },
+          {
+            "thai": "วันหยุดฉันส่วนมากอยู่บ้าน",
+            "en": "On holidays I mostly stay home.",
+            "audio_src": "วันหยุดฉันส่วนมากอยู่บ้าน",
+            "audio_en_src": "On holidays I mostly stay home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96406,6 +96575,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "after that",
+        "sentences": [
+          {
+            "thai": "เขากินข้าวเสร็จ หลังจากนั้นก็ไปนอน",
+            "en": "He finished eating, and after that he went to sleep.",
+            "audio_src": "เขากินข้าวเสร็จ หลังจากนั้นก็ไปนอน",
+            "audio_en_src": "He finished eating, and after that he went to sleep."
+          },
+          {
+            "thai": "เราดูหนังกัน หลังจากนั้นไปกินไอศกรีม",
+            "en": "We watched a movie, and after that went for ice cream.",
+            "audio_src": "เราดูหนังกัน หลังจากนั้นไปกินไอศกรีม",
+            "audio_en_src": "We watched a movie, and after that went for ice cream."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96417,6 +96605,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "after this",
+        "sentences": [
+          {
+            "thai": "หลังจากนี้ฉันจะตั้งใจเรียนมากขึ้น",
+            "en": "After this I'm going to study harder.",
+            "audio_src": "หลังจากนี้ฉันจะตั้งใจเรียนมากขึ้น",
+            "audio_en_src": "After this I'm going to study harder."
+          },
+          {
+            "thai": "หลังจากนี้เราคงไม่ได้เจอกันอีก",
+            "en": "After this we probably won't see each other again.",
+            "audio_src": "หลังจากนี้เราคงไม่ได้เจอกันอีก",
+            "audio_en_src": "After this we probably won't see each other again."
+          }
+        ]
+      }
     ]
   },
   {
