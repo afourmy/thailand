@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4633 words**
+**Total: 4643 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1682,13 +1682,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-036` : ทำด้วย - ทำจาก (made with - made from) : 1 meaning(s), 2 sentences
 - `tsl-038` : ไร่ (field, plantation; unit of area (1600 m²)) : 2 meaning(s), 4 sentences
 - `tsl-040` : ต่อรอง (to bargain, to negotiate) : 1 meaning(s), 2 sentences
+- `tsl-041` : เป็นอย่างดี (very well, excellently) : 1 meaning(s), 2 sentences
 - `tsl-042` : หารกัน (to split among people (share a bill), to divide equally) : 1 meaning(s), 2 sentences
+- `tsl-043` : ตัดเงิน (to deduct money, to debit money (e.g from an account)) : 1 meaning(s), 2 sentences
 - `tsl-044` : แรกๆ (at first, initially) : 1 meaning(s), 2 sentences
+- `tsl-045` : โรคระบาด (epidemic, pandemic) : 1 meaning(s), 2 sentences
 - `tsl-046` : ยังไงก็... (anyway..., in any case...) : 1 meaning(s), 2 sentences
+- `tsl-047` : ไปคนละอย่าง, ไปคนละแบบ (in different ways, each in its own way) : 1 meaning(s), 2 sentences
+- `tsl-049` : พอ(...)ได้ (barely sufficient, acceptable, workable) : 1 meaning(s), 2 sentences
 - `tsl-050` : ห่างเหิน (to grow distant, to drift apart) : 1 meaning(s), 2 sentences
+- `tsl-051` : อด ... ไม่ได้ ("can't help", to be unable to resist (doing something)) : 1 meaning(s), 2 sentences
+- `tsl-052` : กระวนกระวาย (anxious, nervous, agitated) : 1 meaning(s), 2 sentences
 - `tsl-053` : โซเชียลมีเดีย (social media) : 1 meaning(s), 2 sentences
 - `tsl-054` : เด็กรุ่นใหม่ (young generation) : 1 meaning(s), 2 sentences
 - `tsl-055` : ฟุ้งซ่าน (distracted, restless (mind), scattered state of mind) : 1 meaning(s), 2 sentences
+- `tsl-056` : หมดไฟ (burned out, losing motivation (literally "run out of fire")) : 1 meaning(s), 2 sentences
+- `tsl-057` : โรคกระเพาะ (gastritis, stomach disease) : 1 meaning(s), 2 sentences
+- `tsl-058` : ของกินเล่น (snacks) : 1 meaning(s), 2 sentences
 - `tsl-061` : เอาเปรียบ (to take unfair advantage of, to exploit) : 1 meaning(s), 2 sentences
 - `tsl-064` : สายฝอ (Westerner-culture enthusiast, a "farang lover" (slang)) : 1 meaning(s), 2 sentences
 - `tsl-066` : ลุย (to tackle head-on, to wade through, to go all out) : 1 meaning(s), 2 sentences

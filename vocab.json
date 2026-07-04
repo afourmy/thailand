@@ -63720,6 +63720,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "very well, excellently",
+        "sentences": [
+          {
+            "thai": "เขาต้อนรับแขกเป็นอย่างดี",
+            "en": "He welcomed the guests very well.",
+            "audio_src": "เขาต้อนรับแขกเป็นอย่างดี",
+            "audio_en_src": "He welcomed the guests very well."
+          },
+          {
+            "thai": "เธอดูแลลูกค้าเป็นอย่างดี",
+            "en": "She takes excellent care of the customers.",
+            "audio_src": "เธอดูแลลูกค้าเป็นอย่างดี",
+            "audio_en_src": "She takes excellent care of the customers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63761,6 +63780,25 @@
     "topic": "economy",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to deduct money, to debit money (e.g from an account)",
+        "sentences": [
+          {
+            "thai": "ค่าบริการจะถูกตัดเงินทุกเดือน",
+            "en": "The service fee is debited every month.",
+            "audio_src": "ค่าบริการจะถูกตัดเงินทุกเดือน",
+            "audio_en_src": "The service fee is debited every month."
+          },
+          {
+            "thai": "ระบบตัดเงินจากบัตรอัตโนมัติ",
+            "en": "The system deducts money from the card automatically.",
+            "audio_src": "ระบบตัดเงินจากบัตรอัตโนมัติ",
+            "audio_en_src": "The system deducts money from the card automatically."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63804,6 +63842,25 @@
     "topic": "health",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "epidemic, pandemic",
+        "sentences": [
+          {
+            "thai": "ช่วงโรคระบาดคนอยู่บ้านกันมาก",
+            "en": "During the pandemic, people mostly stayed home.",
+            "audio_src": "ช่วงโรคระบาดคนอยู่บ้านกันมาก",
+            "audio_en_src": "During the pandemic, people mostly stayed home."
+          },
+          {
+            "thai": "โรงเรียนปิดเพราะโรคระบาด",
+            "en": "Schools closed because of the epidemic.",
+            "audio_src": "โรงเรียนปิดเพราะโรคระบาด",
+            "audio_en_src": "Schools closed because of the epidemic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63847,6 +63904,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "in different ways, each in its own way",
+        "sentences": [
+          {
+            "thai": "เราคิดไปคนละอย่าง",
+            "en": "We think in completely different ways.",
+            "audio_src": "เราคิดไปคนละอย่าง",
+            "audio_en_src": "We think in completely different ways."
+          },
+          {
+            "thai": "พี่น้องคู่นี้นิสัยไปคนละแบบ",
+            "en": "These two siblings have totally different personalities.",
+            "audio_src": "พี่น้องคู่นี้นิสัยไปคนละแบบ",
+            "audio_en_src": "These two siblings have totally different personalities."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63857,6 +63933,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "barely sufficient, acceptable, workable",
+        "sentences": [
+          {
+            "thai": "ฝีมือทำอาหารของฉันพอกินได้",
+            "en": "My cooking is just about edible.",
+            "audio_src": "ฝีมือทำอาหารของฉันพอกินได้",
+            "audio_en_src": "My cooking is just about edible."
+          },
+          {
+            "thai": "ภาษาอังกฤษเขาพอใช้ได้",
+            "en": "His English is passable.",
+            "audio_src": "ภาษาอังกฤษเขาพอใช้ได้",
+            "audio_en_src": "His English is passable."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63898,6 +63993,25 @@
     "topic": "grammar",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "\"can't help\", to be unable to resist (doing something)",
+        "sentences": [
+          {
+            "thai": "เห็นของหวานแล้วอดกินไม่ได้",
+            "en": "When I see dessert I can't resist eating it.",
+            "audio_src": "เห็นของหวานแล้วอดกินไม่ได้",
+            "audio_en_src": "When I see dessert I can't resist eating it."
+          },
+          {
+            "thai": "ฉันอดหัวเราะไม่ได้",
+            "en": "I couldn't help laughing.",
+            "audio_src": "ฉันอดหัวเราะไม่ได้",
+            "audio_en_src": "I couldn't help laughing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63909,6 +64023,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "anxious, nervous, agitated",
+        "sentences": [
+          {
+            "thai": "เขากระวนกระวายรอผลตรวจ",
+            "en": "He's anxiously waiting for the test results.",
+            "audio_src": "เขากระวนกระวายรอผลตรวจ",
+            "audio_en_src": "He's anxiously waiting for the test results."
+          },
+          {
+            "thai": "อย่ากระวนกระวายไปเลย ทุกอย่างจะเรียบร้อย",
+            "en": "Don't be so agitated, everything will be fine.",
+            "audio_src": "อย่ากระวนกระวายไปเลย ทุกอย่างจะเรียบร้อย",
+            "audio_en_src": "Don't be so agitated, everything will be fine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -64015,6 +64148,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "burned out, losing motivation (literally \"run out of fire\")",
+        "sentences": [
+          {
+            "thai": "ทำงานหนักเกินไปจนหมดไฟ",
+            "en": "I worked too hard and burned out.",
+            "audio_src": "ทำงานหนักเกินไปจนหมดไฟ",
+            "audio_en_src": "I worked too hard and burned out."
+          },
+          {
+            "thai": "เขาเริ่มหมดไฟกับงานเดิมๆ",
+            "en": "He's starting to lose motivation for the same old work.",
+            "audio_src": "เขาเริ่มหมดไฟกับงานเดิมๆ",
+            "audio_en_src": "He's starting to lose motivation for the same old work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -64025,6 +64177,25 @@
     "topic": "health",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "gastritis, stomach disease",
+        "sentences": [
+          {
+            "thai": "กินข้าวไม่ตรงเวลาเสี่ยงเป็นโรคกระเพาะ",
+            "en": "Eating at irregular times risks gastritis.",
+            "audio_src": "กินข้าวไม่ตรงเวลาเสี่ยงเป็นโรคกระเพาะ",
+            "audio_en_src": "Eating at irregular times risks gastritis."
+          },
+          {
+            "thai": "เขาปวดท้องเพราะโรคกระเพาะ",
+            "en": "He has a stomachache from his gastritis.",
+            "audio_src": "เขาปวดท้องเพราะโรคกระเพาะ",
+            "audio_en_src": "He has a stomachache from his gastritis."
+          }
+        ]
+      }
     ]
   },
   {
@@ -64035,6 +64206,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "snacks",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อของกินเล่นมาฝาก",
+            "en": "I bought some snacks for you.",
+            "audio_src": "ฉันซื้อของกินเล่นมาฝาก",
+            "audio_en_src": "I bought some snacks for you."
+          },
+          {
+            "thai": "ดูหนังต้องมีของกินเล่น",
+            "en": "Watching movies calls for snacks.",
+            "audio_src": "ดูหนังต้องมีของกินเล่น",
+            "audio_en_src": "Watching movies calls for snacks."
+          }
+        ]
+      }
     ]
   },
   {
