@@ -54823,6 +54823,25 @@
     "sources": [
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "turmeric",
+        "sentences": [
+          {
+            "thai": "แกงเหลืองใส่ขมิ้น",
+            "en": "Yellow curry has turmeric in it.",
+            "audio_src": "แกงเหลืองใส่ขมิ้น",
+            "audio_en_src": "Yellow curry has turmeric in it."
+          },
+          {
+            "thai": "ขมิ้นทำให้อาหารมีสีเหลือง",
+            "en": "Turmeric gives food a yellow color.",
+            "audio_src": "ขมิ้นทำให้อาหารมีสีเหลือง",
+            "audio_en_src": "Turmeric gives food a yellow color."
+          }
+        ]
+      }
     ]
   },
   {
@@ -54833,6 +54852,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "hurt emotionally, bitter, resentful",
+        "sentences": [
+          {
+            "thai": "เขาพูดแรงจนฉันเจ็บใจ",
+            "en": "He spoke so harshly that it hurt me.",
+            "audio_src": "เขาพูดแรงจนฉันเจ็บใจ",
+            "audio_en_src": "He spoke so harshly that it hurt me."
+          },
+          {
+            "thai": "แพ้แบบนี้เจ็บใจจริงๆ",
+            "en": "Losing like this is really painful.",
+            "audio_src": "แพ้แบบนี้เจ็บใจจริงๆ",
+            "audio_en_src": "Losing like this is really painful."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55045,6 +55083,25 @@
     "topic": "economy",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "rent or mortgage payment",
+        "sentences": [
+          {
+            "thai": "สิ้นเดือนต้องจ่ายค่าบ้าน",
+            "en": "I have to pay the rent at the end of the month.",
+            "audio_src": "สิ้นเดือนต้องจ่ายค่าบ้าน",
+            "audio_en_src": "I have to pay the rent at the end of the month."
+          },
+          {
+            "thai": "ค่าบ้านเดือนนี้ขึ้นราคา",
+            "en": "The rent went up this month.",
+            "audio_src": "ค่าบ้านเดือนนี้ขึ้นราคา",
+            "audio_en_src": "The rent went up this month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55056,6 +55113,42 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "lord, master",
+        "sentences": [
+          {
+            "thai": "ข้ารับใช้เจ้ามาตลอดชีวิต",
+            "en": "I've served my lord all my life.",
+            "audio_src": "ข้ารับใช้เจ้ามาตลอดชีวิต",
+            "audio_en_src": "I've served my lord all my life."
+          },
+          {
+            "thai": "ทาสต้องเชื่อฟังเจ้า",
+            "en": "A servant must obey his master.",
+            "audio_src": "ทาสต้องเชื่อฟังเจ้า",
+            "audio_en_src": "A servant must obey his master."
+          }
+        ]
+      },
+      {
+        "meaning": "particle of endearment before child or pet's name (used by adults)",
+        "sentences": [
+          {
+            "thai": "เจ้าตูบวิ่งมาหาฉัน",
+            "en": "Little Toop the dog came running to me.",
+            "audio_src": "เจ้าตูบวิ่งมาหาฉัน",
+            "audio_en_src": "Little Toop the dog came running to me."
+          },
+          {
+            "thai": "เจ้าหนูน้อยน่ารักจัง",
+            "en": "The little kiddo is so cute.",
+            "audio_src": "เจ้าหนูน้อยน่ารักจัง",
+            "audio_en_src": "The little kiddo is so cute."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55066,6 +55159,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "not that much, not really",
+        "sentences": [
+          {
+            "thai": "วันนี้เหนื่อยไม่เท่าไหร่",
+            "en": "I'm not that tired today.",
+            "audio_src": "วันนี้เหนื่อยไม่เท่าไหร่",
+            "audio_en_src": "I'm not that tired today."
+          },
+          {
+            "thai": "อาหารร้านนี้อร่อยไม่เท่าไหร่",
+            "en": "The food here isn't that good.",
+            "audio_src": "อาหารร้านนี้อร่อยไม่เท่าไหร่",
+            "audio_en_src": "The food here isn't that good."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55086,6 +55198,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"here we go again\"",
+        "sentences": [
+          {
+            "thai": "เอาอีกแล้ว บ่นเรื่องเดิมอีกแล้ว",
+            "en": "Here we go again, complaining about the same thing.",
+            "audio_src": "เอาอีกแล้ว บ่นเรื่องเดิมอีกแล้ว",
+            "audio_en_src": "Here we go again, complaining about the same thing."
+          },
+          {
+            "thai": "เอาอีกแล้ว รถติดทุกวันเลย",
+            "en": "Here we go again, traffic every single day.",
+            "audio_src": "เอาอีกแล้ว รถติดทุกวันเลย",
+            "audio_en_src": "Here we go again, traffic every single day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55097,6 +55228,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to find cute, to be fond of someone in a soft, warm way (often used for children or animals)",
+        "sentences": [
+          {
+            "thai": "ยายเอ็นดูหลานคนเล็กที่สุด",
+            "en": "Grandma dotes on the youngest grandchild the most.",
+            "audio_src": "ยายเอ็นดูหลานคนเล็กที่สุด",
+            "audio_en_src": "Grandma dotes on the youngest grandchild the most."
+          },
+          {
+            "thai": "ใครเห็นลูกหมาก็เอ็นดู",
+            "en": "Anyone who sees the puppy adores it.",
+            "audio_src": "ใครเห็นลูกหมาก็เอ็นดู",
+            "audio_en_src": "Anyone who sees the puppy adores it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55107,6 +55257,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel grateful",
+        "sentences": [
+          {
+            "thai": "ฉันรู้สึกขอบคุณที่เธอช่วยเหลือ",
+            "en": "I feel grateful for your help.",
+            "audio_src": "ฉันรู้สึกขอบคุณที่เธอช่วยเหลือ",
+            "audio_en_src": "I feel grateful for your help."
+          },
+          {
+            "thai": "เขารู้สึกขอบคุณครอบครัวมาก",
+            "en": "He feels very grateful to his family.",
+            "audio_src": "เขารู้สึกขอบคุณครอบครัวมาก",
+            "audio_en_src": "He feels very grateful to his family."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55117,6 +55286,42 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "useless, no good (of objects)",
+        "sentences": [
+          {
+            "thai": "ปากกาด้ามนี้ใช้ไม่ได้แล้ว",
+            "en": "This pen doesn't work anymore.",
+            "audio_src": "ปากกาด้ามนี้ใช้ไม่ได้แล้ว",
+            "audio_en_src": "This pen doesn't work anymore."
+          },
+          {
+            "thai": "รีโมทใช้ไม่ได้ ถ่านคงหมด",
+            "en": "The remote isn't working, the batteries must be dead.",
+            "audio_src": "รีโมทใช้ไม่ได้ ถ่านคงหมด",
+            "audio_en_src": "The remote isn't working, the batteries must be dead."
+          }
+        ]
+      },
+      {
+        "meaning": "terrible (of people)",
+        "sentences": [
+          {
+            "thai": "คนโกหกแบบนี้ใช้ไม่ได้",
+            "en": "A liar like this is no good.",
+            "audio_src": "คนโกหกแบบนี้ใช้ไม่ได้",
+            "audio_en_src": "A liar like this is no good."
+          },
+          {
+            "thai": "พฤติกรรมแบบนี้ใช้ไม่ได้เลย",
+            "en": "This kind of behavior is unacceptable.",
+            "audio_src": "พฤติกรรมแบบนี้ใช้ไม่ได้เลย",
+            "audio_en_src": "This kind of behavior is unacceptable."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55128,6 +55333,25 @@
     "sources": [
       "Tamago L3",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "mischievous, naughty (about children)",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้ซนมาก",
+            "en": "This kid is very naughty.",
+            "audio_src": "เด็กคนนี้ซนมาก",
+            "audio_en_src": "This kid is very naughty."
+          },
+          {
+            "thai": "อย่าซนสิ นั่งอยู่เฉยๆ",
+            "en": "Stop being naughty, sit still.",
+            "audio_src": "อย่าซนสิ นั่งอยู่เฉยๆ",
+            "audio_en_src": "Stop being naughty, sit still."
+          }
+        ]
+      }
     ]
   },
   {

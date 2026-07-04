@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4523 words**
+**Total: 4533 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1432,11 +1432,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
 - `tamago-l3-576` : กะปิ (shrimp paste) : 1 meaning(s), 2 sentences
 - `tamago-l3-577` : ตะไคร้ (lemongrass) : 1 meaning(s), 2 sentences
+- `tamago-l3-578` : ขมิ้น (turmeric) : 1 meaning(s), 2 sentences
+- `tamago-l3-579` : เจ็บใจ (hurt emotionally, bitter, resentful) : 1 meaning(s), 2 sentences
 - `tamago-l3-580` : โจทย์ (problem, challenge, task (math, competition)) : 1 meaning(s), 2 sentences
 - `tamago-l3-581` : จับเวลา (to time, to keep time) : 1 meaning(s), 2 sentences
 - `tamago-l3-582` : เสมอ (even, tied, to draw (in a game); always) : 2 meaning(s), 4 sentences
 - `tamago-l3-584` : ตัดกำลังใจ (to discourage, to demoralize) : 1 meaning(s), 2 sentences
 - `tamago-l3-586` : เซียน (guru, master, expert) : 1 meaning(s), 2 sentences
+- `tamago-l3-587` : ค่าบ้าน (rent or mortgage payment) : 1 meaning(s), 2 sentences
+- `tamago-l3-588` : เจ้า (lord, master; particle of endearment before child or pet's name (used by adults)) : 2 meaning(s), 4 sentences
+- `tamago-l3-589` : ไม่เท่าไหร่ (not that much, not really) : 1 meaning(s), 2 sentences
+- `tamago-l3-591` : เอาอีกแล้ว ("here we go again") : 1 meaning(s), 2 sentences
+- `tamago-l3-592` : เอ็นดู (to find cute, to be fond of someone in a soft, warm way (often used for children or animals)) : 1 meaning(s), 2 sentences
+- `tamago-l3-593` : รู้สึกขอบคุณ (to feel grateful) : 1 meaning(s), 2 sentences
+- `tamago-l3-594` : ใช้ไม่ได้ (useless, no good (of objects); terrible (of people)) : 2 meaning(s), 4 sentences
+- `tamago-l3-595` : ซน (mischievous, naughty (about children)) : 1 meaning(s), 2 sentences
 - `tamago-l3-597` : แอบได้ยิน (to overhear) : 1 meaning(s), 2 sentences
 - `tamago-l3-599` : ตำหนิ (to criticize, to find fault with) : 1 meaning(s), 2 sentences
 - `tamago-l3-600` : สรรหา (to seek out, search for, dig up, to pick carefully, to recruit) : 1 meaning(s), 2 sentences
