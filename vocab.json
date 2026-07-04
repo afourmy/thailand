@@ -40626,6 +40626,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"you got this!\", \"keep fighting!\" (slang)",
+        "sentences": [
+          {
+            "thai": "สู้เว่ย อย่ายอมแพ้",
+            "en": "You got this, don't give up!",
+            "audio_src": "สู้เว่ย อย่ายอมแพ้",
+            "audio_en_src": "You got this, don't give up!"
+          },
+          {
+            "thai": "พรุ่งนี้สอบแล้ว สู้เว่ย",
+            "en": "The exam's tomorrow, you got this!",
+            "audio_src": "พรุ่งนี้สอบแล้ว สู้เว่ย",
+            "audio_en_src": "The exam's tomorrow, you got this!"
+          }
+        ]
+      }
     ]
   },
   {
@@ -40822,6 +40841,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "evil, wicked, bad-hearted",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนชั่ว",
+            "en": "He's a wicked person.",
+            "audio_src": "เขาเป็นคนชั่ว",
+            "audio_en_src": "He's a wicked person."
+          },
+          {
+            "thai": "คนชั่วสุดท้ายก็แพ้",
+            "en": "Evil people lose in the end.",
+            "audio_src": "คนชั่วสุดท้ายก็แพ้",
+            "audio_en_src": "Evil people lose in the end."
+          }
+        ]
+      }
     ]
   },
   {
@@ -40881,6 +40919,25 @@
       "Tamago L3",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "heaven, paradise",
+        "sentences": [
+          {
+            "thai": "คนดีตายไปขึ้นสวรรค์",
+            "en": "Good people go to heaven when they die.",
+            "audio_src": "คนดีตายไปขึ้นสวรรค์",
+            "audio_en_src": "Good people go to heaven when they die."
+          },
+          {
+            "thai": "ที่นี่สวยเหมือนสวรรค์",
+            "en": "This place is beautiful like paradise.",
+            "audio_src": "ที่นี่สวยเหมือนสวรรค์",
+            "audio_en_src": "This place is beautiful like paradise."
+          }
+        ]
+      }
     ]
   },
   {
@@ -40924,6 +40981,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be encouraged, to feel empowered (often after getting away with something)",
+        "sentences": [
+          {
+            "thai": "อย่าตามใจมาก เดี๋ยวได้ใจ",
+            "en": "Don't spoil them too much, they'll push their luck.",
+            "audio_src": "อย่าตามใจมาก เดี๋ยวได้ใจ",
+            "audio_en_src": "Don't spoil them too much, they'll push their luck."
+          },
+          {
+            "thai": "ชนะครั้งเดียวก็ได้ใจเลย",
+            "en": "One win and he's all fired up.",
+            "audio_src": "ชนะครั้งเดียวก็ได้ใจเลย",
+            "audio_en_src": "One win and he's all fired up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41020,6 +41096,25 @@
       "Tamago L3",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "to suffer, to be in pain (emotionally)",
+        "sentences": [
+          {
+            "thai": "ชีวิตมีทั้งสุขและทุกข์",
+            "en": "Life has both happiness and suffering.",
+            "audio_src": "ชีวิตมีทั้งสุขและทุกข์",
+            "audio_en_src": "Life has both happiness and suffering."
+          },
+          {
+            "thai": "เขาเป็นทุกข์เพราะอกหัก",
+            "en": "He's suffering because of a broken heart.",
+            "audio_src": "เขาเป็นทุกข์เพราะอกหัก",
+            "audio_en_src": "He's suffering because of a broken heart."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41062,6 +41157,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be grateful, to appreciate someone's kindness",
+        "sentences": [
+          {
+            "thai": "เราต้องรู้คุณพ่อแม่",
+            "en": "We should be grateful to our parents.",
+            "audio_src": "เราต้องรู้คุณพ่อแม่",
+            "audio_en_src": "We should be grateful to our parents."
+          },
+          {
+            "thai": "เขาเป็นคนรู้คุณคน",
+            "en": "He's someone who appreciates others' kindness.",
+            "audio_src": "เขาเป็นคนรู้คุณคน",
+            "audio_en_src": "He's someone who appreciates others' kindness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41072,6 +41186,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "terrible, useless, incompetent, no good",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้ไม่ได้เรื่องเลย",
+            "en": "This movie is totally no good.",
+            "audio_src": "หนังเรื่องนี้ไม่ได้เรื่องเลย",
+            "audio_en_src": "This movie is totally no good."
+          },
+          {
+            "thai": "พนักงานคนนี้ทำงานไม่ได้เรื่อง",
+            "en": "This employee is useless at the job.",
+            "audio_src": "พนักงานคนนี้ทำงานไม่ได้เรื่อง",
+            "audio_en_src": "This employee is useless at the job."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41082,6 +41215,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"it makes things worse\", \"that escalates things\"",
+        "sentences": [
+          {
+            "thai": "ยิ่งอธิบายก็ยิ่งไปกันใหญ่",
+            "en": "The more you explain, the worse it gets.",
+            "audio_src": "ยิ่งอธิบายก็ยิ่งไปกันใหญ่",
+            "audio_en_src": "The more you explain, the worse it gets."
+          },
+          {
+            "thai": "ยิ่งโกหกก็ยิ่งไปกันใหญ่",
+            "en": "The more you lie, the worse it gets.",
+            "audio_src": "ยิ่งโกหกก็ยิ่งไปกันใหญ่",
+            "audio_en_src": "The more you lie, the worse it gets."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41103,6 +41255,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"no wonder!\", \"so that's the reason!\"",
+        "sentences": [
+          {
+            "thai": "มิน่าล่ะ เขาถึงไม่มา",
+            "en": "No wonder he didn't come.",
+            "audio_src": "มิน่าล่ะ เขาถึงไม่มา",
+            "audio_en_src": "No wonder he didn't come."
+          },
+          {
+            "thai": "มิน่าถึงหิว ไม่ได้กินข้าวเลย",
+            "en": "No wonder I'm hungry, I haven't eaten.",
+            "audio_src": "มิน่าถึงหิว ไม่ได้กินข้าวเลย",
+            "audio_en_src": "No wonder I'm hungry, I haven't eaten."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41113,6 +41284,25 @@
     "topic": "culture",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai country folk music",
+        "sentences": [
+          {
+            "thai": "ยายชอบฟังเพลงลูกทุ่ง",
+            "en": "Grandma loves listening to Thai country songs.",
+            "audio_src": "ยายชอบฟังเพลงลูกทุ่ง",
+            "audio_en_src": "Grandma loves listening to Thai country songs."
+          },
+          {
+            "thai": "เพลงลูกทุ่งเพลงนี้เพราะมาก",
+            "en": "This country song is really beautiful.",
+            "audio_src": "เพลงลูกทุ่งเพลงนี้เพราะมาก",
+            "audio_en_src": "This country song is really beautiful."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4363 words**
+**Total: 4373 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1024,16 +1024,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-044` : แรงกระตุ้น (motivation) : 1 meaning(s), 2 sentences
 - `tamago-l3-045` : งานบ้าน (housework) : 1 meaning(s), 2 sentences
 - `tamago-l3-046` : เอาเหอะ ("never mind", "whatever", "forget about it") : 1 meaning(s), 2 sentences
+- `tamago-l3-047` : สู้เว่ย ("you got this!", "keep fighting!" (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-048` : บริสุทธิ์ (pure, innocent, virgin) : 1 meaning(s), 2 sentences
 - `tamago-l3-049` : เพียบ (a lot, plenty, full, tons of) : 1 meaning(s), 2 sentences
 - `tamago-l3-051` : สะใจ (satisfied, relieved (especially after revenge (schadenfreude) or achievement)) : 1 meaning(s), 2 sentences
 - `tamago-l3-053` : รังแก (to bully) : 1 meaning(s), 2 sentences
 - `tamago-l3-054` : ดูถูก (to insult, to look down on, to belittle) : 1 meaning(s), 2 sentences
+- `tamago-l3-055` : ชั่ว (evil, wicked, bad-hearted) : 1 meaning(s), 2 sentences
 - `tamago-l3-056` : ใจ, จิตใจ (heart, mind, spirit) : 1 meaning(s), 2 sentences
+- `tamago-l3-058` : สวรรค์ (heaven, paradise) : 1 meaning(s), 2 sentences
 - `tamago-l3-059` : ลงโทษ, ทำโทษ (to punish) : 1 meaning(s), 2 sentences
+- `tamago-l3-060` : ได้ใจ (to be encouraged, to feel empowered (often after getting away with something)) : 1 meaning(s), 2 sentences
 - `tamago-l3-061` : จ้อง (to stare, to focus intensely on something over a long period) : 1 meaning(s), 2 sentences
 - `tamago-l3-062` : ลุก (to stand up, get up; (of fire) to ignite, to burn) : 2 meaning(s), 4 sentences
+- `tamago-l3-063` : ทุกข์ (to suffer, to be in pain (emotionally)) : 1 meaning(s), 2 sentences
 - `tamago-l3-064` : สั่งสอน (to teach, to instruct (with discipline)) : 1 meaning(s), 2 sentences
+- `tamago-l3-065` : รู้คุณ (to be grateful, to appreciate someone's kindness) : 1 meaning(s), 2 sentences
+- `tamago-l3-066` : ไม่ได้เรื่อง (terrible, useless, incompetent, no good) : 1 meaning(s), 2 sentences
+- `tamago-l3-067` : ก็ยิ่งไปกันใหญ่ ("it makes things worse", "that escalates things") : 1 meaning(s), 2 sentences
+- `tamago-l3-069` : มิน่า ("no wonder!", "so that's the reason!") : 1 meaning(s), 2 sentences
+- `tamago-l3-070` : เพลงลูกทุ่ง (Thai country folk music) : 1 meaning(s), 2 sentences
 - `tamago-l3-071` : ย่าง (to grill, to roast; (literary) to step into, to be approaching (a season, age)) : 2 meaning(s), 4 sentences
 - `tamago-l3-075` : แนว (genre, style) : 1 meaning(s), 2 sentences
 - `tamago-l3-076` : รายการ (TV show, program; list, item) : 2 meaning(s), 4 sentences
