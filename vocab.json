@@ -110907,11 +110907,15 @@
         "sentences": [
           {
             "thai": "เด็กทารกมีผ้าพันสะดือ",
-            "en": "The newborn has a bandage over its navel."
+            "en": "The newborn has a bandage over its navel.",
+            "audio_src": "เด็กทารกมีผ้าพันสะดือ",
+            "audio_en_src": "The newborn has a bandage over its navel."
           },
           {
             "thai": "เธอไปเจาะสะดือมา",
-            "en": "She got her belly button pierced."
+            "en": "She got her belly button pierced.",
+            "audio_src": "เธอไปเจาะสะดือมา",
+            "audio_en_src": "She got her belly button pierced."
           }
         ]
       }
@@ -110996,11 +111000,15 @@
         "sentences": [
           {
             "thai": "เขาต้องเข้ารับการผ่าตัดหัวใจ",
-            "en": "He has to undergo heart surgery."
+            "en": "He has to undergo heart surgery.",
+            "audio_src": "เขาต้องเข้ารับการผ่าตัดหัวใจ",
+            "audio_en_src": "He has to undergo heart surgery."
           },
           {
             "thai": "การผ่าตัดใช้เวลาสามชั่วโมง",
-            "en": "The operation took three hours."
+            "en": "The operation took three hours.",
+            "audio_src": "การผ่าตัดใช้เวลาสามชั่วโมง",
+            "audio_en_src": "The operation took three hours."
           }
         ]
       }
@@ -111022,11 +111030,15 @@
         "sentences": [
           {
             "thai": "นักโทษถูกขังอยู่ในเรือนจำ",
-            "en": "The prisoner is locked up in jail."
+            "en": "The prisoner is locked up in jail.",
+            "audio_src": "นักโทษถูกขังอยู่ในเรือนจำ",
+            "audio_en_src": "The prisoner is locked up in jail."
           },
           {
             "thai": "นักโทษได้รับการปล่อยตัวเพราะความประพฤติดี",
-            "en": "The prisoner was released for good behavior."
+            "en": "The prisoner was released for good behavior.",
+            "audio_src": "นักโทษได้รับการปล่อยตัวเพราะความประพฤติดี",
+            "audio_en_src": "The prisoner was released for good behavior."
           }
         ]
       }
@@ -111144,11 +111156,15 @@
         "sentences": [
           {
             "thai": "ความหลงใหลในดนตรีทำให้เขาซ้อมทุกวัน",
-            "en": "His passion for music makes him practice every day."
+            "en": "His passion for music makes him practice every day.",
+            "audio_src": "ความหลงใหลในดนตรีทำให้เขาซ้อมทุกวัน",
+            "audio_en_src": "His passion for music makes him practice every day."
           },
           {
             "thai": "นั่นเป็นเพียงความหลงชั่วครั้งชั่วคราว",
-            "en": "That's just a passing infatuation."
+            "en": "That's just a passing infatuation.",
+            "audio_src": "นั่นเป็นเพียงความหลงชั่วครั้งชั่วคราว",
+            "audio_en_src": "That's just a passing infatuation."
           }
         ]
       }
@@ -111252,11 +111268,15 @@
         "sentences": [
           {
             "thai": "ชาวพุทธไปทำบุญที่วัดในวันสำคัญ",
-            "en": "Buddhists go to the temple to make merit on important days."
+            "en": "Buddhists go to the temple to make merit on important days.",
+            "audio_src": "ชาวพุทธไปทำบุญที่วัดในวันสำคัญ",
+            "audio_en_src": "Buddhists go to the temple to make merit on important days."
           },
           {
             "thai": "เขาเป็นชาวพุทธที่เคร่งครัด",
-            "en": "He's a devout Buddhist."
+            "en": "He's a devout Buddhist.",
+            "audio_src": "เขาเป็นชาวพุทธที่เคร่งครัด",
+            "audio_en_src": "He's a devout Buddhist."
           }
         ]
       }
@@ -111351,11 +111371,15 @@
         "sentences": [
           {
             "thai": "เขาเจ็บลำคอเพราะเป็นหวัด",
-            "en": "His throat hurts because he has a cold."
+            "en": "His throat hurts because he has a cold.",
+            "audio_src": "เขาเจ็บลำคอเพราะเป็นหวัด",
+            "audio_en_src": "His throat hurts because he has a cold."
           },
           {
             "thai": "ก้างปลาติดลำคอ",
-            "en": "A fish bone got stuck in his throat."
+            "en": "A fish bone got stuck in his throat.",
+            "audio_src": "ก้างปลาติดลำคอ",
+            "audio_en_src": "A fish bone got stuck in his throat."
           }
         ]
       }
@@ -111440,11 +111464,15 @@
         "sentences": [
           {
             "thai": "ในหนังผีมีปีศาจน่ากลัว",
-            "en": "There's a scary demon in the horror movie."
+            "en": "There's a scary demon in the horror movie.",
+            "audio_src": "ในหนังผีมีปีศาจน่ากลัว",
+            "audio_en_src": "There's a scary demon in the horror movie."
           },
           {
             "thai": "เด็กๆกลัวปีศาจในความมืด",
-            "en": "Kids are afraid of demons in the dark."
+            "en": "Kids are afraid of demons in the dark.",
+            "audio_src": "เด็กๆกลัวปีศาจในความมืด",
+            "audio_en_src": "Kids are afraid of demons in the dark."
           }
         ]
       }
@@ -111510,11 +111538,15 @@
         "sentences": [
           {
             "thai": "การสูบบุหรี่ทำลายปอด",
-            "en": "Smoking damages the lungs."
+            "en": "Smoking damages the lungs.",
+            "audio_src": "การสูบบุหรี่ทำลายปอด",
+            "audio_en_src": "Smoking damages the lungs."
           },
           {
             "thai": "เขาหายใจลึกๆเพื่อให้ปอดได้รับอากาศ",
-            "en": "He breathes deeply to get air into his lungs."
+            "en": "He breathes deeply to get air into his lungs.",
+            "audio_src": "เขาหายใจลึกๆเพื่อให้ปอดได้รับอากาศ",
+            "audio_en_src": "He breathes deeply to get air into his lungs."
           }
         ]
       }
@@ -111568,11 +111600,15 @@
         "sentences": [
           {
             "thai": "เกิดความตื่นตระหนกเมื่อไฟไหม้",
-            "en": "Panic broke out when the fire started."
+            "en": "Panic broke out when the fire started.",
+            "audio_src": "เกิดความตื่นตระหนกเมื่อไฟไหม้",
+            "audio_en_src": "Panic broke out when the fire started."
           },
           {
             "thai": "เธอพยายามควบคุมความตื่นตระหนก",
-            "en": "She tried to control her panic."
+            "en": "She tried to control her panic.",
+            "audio_src": "เธอพยายามควบคุมความตื่นตระหนก",
+            "audio_en_src": "She tried to control her panic."
           }
         ]
       }
@@ -111660,11 +111696,15 @@
         "sentences": [
           {
             "thai": "ประเทศไทยมีสามฤดู",
-            "en": "Thailand has three seasons."
+            "en": "Thailand has three seasons.",
+            "audio_src": "ประเทศไทยมีสามฤดู",
+            "audio_en_src": "Thailand has three seasons."
           },
           {
             "thai": "ฤดูกาลเปลี่ยนไปตามช่วงเวลา",
-            "en": "The seasons change with the time of year."
+            "en": "The seasons change with the time of year.",
+            "audio_src": "ฤดูกาลเปลี่ยนไปตามช่วงเวลา",
+            "audio_en_src": "The seasons change with the time of year."
           }
         ]
       }
