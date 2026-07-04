@@ -121464,6 +121464,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to chant, to recite (religious prayers)",
+        "sentences": [
+          {
+            "thai": "พระสวดมนต์ตอนเช้า",
+            "en": "The monks chant prayers in the morning.",
+            "audio_src": "พระสวดมนต์ตอนเช้า",
+            "audio_en_src": "The monks chant prayers in the morning."
+          },
+          {
+            "thai": "คุณยายสวดมนต์ก่อนนอนทุกคืน",
+            "en": "Grandma recites prayers before bed every night.",
+            "audio_src": "คุณยายสวดมนต์ก่อนนอนทุกคืน",
+            "audio_en_src": "Grandma recites prayers before bed every night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -121736,6 +121755,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "thermos (container for drinks, ice)",
+        "sentences": [
+          {
+            "thai": "เอาน้ำร้อนใส่กระติกไว้",
+            "en": "Put the hot water in the thermos.",
+            "audio_src": "เอาน้ำร้อนใส่กระติกไว้",
+            "audio_en_src": "Put the hot water in the thermos."
+          },
+          {
+            "thai": "อย่าลืมเอากระติกน้ำไปด้วย",
+            "en": "Don’t forget to bring the water thermos.",
+            "audio_src": "อย่าลืมเอากระติกน้ำไปด้วย",
+            "audio_en_src": "Don’t forget to bring the water thermos."
+          }
+        ]
+      }
     ]
   },
   {
@@ -121746,6 +121784,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "branch",
+        "sentences": [
+          {
+            "thai": "ลมแรงจนกิ่งไม้หัก",
+            "en": "The wind was so strong the branch snapped.",
+            "audio_src": "ลมแรงจนกิ่งไม้หัก",
+            "audio_en_src": "The wind was so strong the branch snapped."
+          },
+          {
+            "thai": "นกเกาะอยู่บนกิ่งไม้",
+            "en": "A bird is perched on the branch.",
+            "audio_src": "นกเกาะอยู่บนกิ่งไม้",
+            "audio_en_src": "A bird is perched on the branch."
+          }
+        ]
+      }
     ]
   },
   {
@@ -121860,16 +121917,25 @@
     "sources": [
       "YouTube",
       "Thaipod101"
-    ]
-  },
-  {
-    "id": "yt-c03-086",
-    "thai": "คำนำหน้า",
-    "english": "prefix (in general); honorific title before someone's name",
-    "frequency": "common",
-    "topic": "grammar",
-    "sources": [
-      "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "even, as well",
+        "sentences": [
+          {
+            "thai": "เขาไม่รู้จักฉันด้วยซ้ำ",
+            "en": "He doesn’t even know me.",
+            "audio_src": "เขาไม่รู้จักฉันด้วยซ้ำ",
+            "audio_en_src": "He doesn’t even know me."
+          },
+          {
+            "thai": "ฉันลืมไปเลยด้วยซ้ำว่ามีนัด",
+            "en": "I even forgot I had an appointment.",
+            "audio_src": "ฉันลืมไปเลยด้วยซ้ำว่ามีนัด",
+            "audio_en_src": "I even forgot I had an appointment."
+          }
+        ]
+      }
     ]
   },
   {
@@ -122046,6 +122112,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "determination, resolve, effort",
+        "sentences": [
+          {
+            "thai": "เขาทำสำเร็จได้เพราะความตั้งใจ",
+            "en": "He succeeded because of his determination.",
+            "audio_src": "เขาทำสำเร็จได้เพราะความตั้งใจ",
+            "audio_en_src": "He succeeded because of his determination."
+          },
+          {
+            "thai": "ฉันเห็นความตั้งใจของเธอในงานนี้",
+            "en": "I can see the effort you put into this work.",
+            "audio_src": "ฉันเห็นความตั้งใจของเธอในงานนี้",
+            "audio_en_src": "I can see the effort you put into this work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -122099,6 +122184,42 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "crab",
+        "sentences": [
+          {
+            "thai": "ปูตัวนี้เนื้อแน่นมาก",
+            "en": "This crab has really firm meat.",
+            "audio_src": "ปูตัวนี้เนื้อแน่นมาก",
+            "audio_en_src": "This crab has really firm meat."
+          },
+          {
+            "thai": "ฉันแพ้ปู กินไม่ได้",
+            "en": "I’m allergic to crab, I can’t eat it.",
+            "audio_src": "ฉันแพ้ปู กินไม่ได้",
+            "audio_en_src": "I’m allergic to crab, I can’t eat it."
+          }
+        ]
+      },
+      {
+        "meaning": "to spread, to lay out (e.g a mat)",
+        "sentences": [
+          {
+            "thai": "ปูเสื่อนั่งปิกนิกกันเถอะ",
+            "en": "Let’s lay out a mat and have a picnic.",
+            "audio_src": "ปูเสื่อนั่งปิกนิกกันเถอะ",
+            "audio_en_src": "Let’s lay out a mat and have a picnic."
+          },
+          {
+            "thai": "แม่ปูที่นอนให้แล้ว",
+            "en": "Mom already made up the bed.",
+            "audio_src": "แม่ปูที่นอนให้แล้ว",
+            "audio_en_src": "Mom already made up the bed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -122152,6 +122273,42 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "melody, tune",
+        "sentences": [
+          {
+            "thai": "เพลงนี้ทำนองเพราะมาก",
+            "en": "This song has a really beautiful melody.",
+            "audio_src": "เพลงนี้ทำนองเพราะมาก",
+            "audio_en_src": "This song has a really beautiful melody."
+          },
+          {
+            "thai": "ฉันจำเนื้อไม่ได้ แต่จำทำนองได้",
+            "en": "I can’t remember the lyrics, but I remember the tune.",
+            "audio_src": "ฉันจำเนื้อไม่ได้ แต่จำทำนองได้",
+            "audio_en_src": "I can’t remember the lyrics, but I remember the tune."
+          }
+        ]
+      },
+      {
+        "meaning": "manner, style",
+        "sentences": [
+          {
+            "thai": "เขาพูดในทำนองว่าไม่เห็นด้วย",
+            "en": "He spoke in a manner suggesting he disagreed.",
+            "audio_src": "เขาพูดในทำนองว่าไม่เห็นด้วย",
+            "audio_en_src": "He spoke in a manner suggesting he disagreed."
+          },
+          {
+            "thai": "เรื่องอื่นๆก็เป็นไปในทำนองเดียวกัน",
+            "en": "Other things go along the same lines.",
+            "audio_src": "เรื่องอื่นๆก็เป็นไปในทำนองเดียวกัน",
+            "audio_en_src": "Other things go along the same lines."
+          }
+        ]
+      }
     ]
   },
   {
@@ -122224,6 +122381,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "each other",
+        "sentences": [
+          {
+            "thai": "เขาสองคนรักกันและกันมาก",
+            "en": "The two of them love each other very much.",
+            "audio_src": "เขาสองคนรักกันและกันมาก",
+            "audio_en_src": "The two of them love each other very much."
+          },
+          {
+            "thai": "เราต้องเข้าใจกันและกัน",
+            "en": "We need to understand each other.",
+            "audio_src": "เราต้องเข้าใจกันและกัน",
+            "audio_en_src": "We need to understand each other."
+          }
+        ]
+      }
     ]
   },
   {
@@ -122370,6 +122546,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to coat (e.g in liquid), to dip, to soak",
+        "sentences": [
+          {
+            "thai": "ชุบไก่ในแป้งก่อนทอด",
+            "en": "Coat the chicken in batter before frying.",
+            "audio_src": "ชุบไก่ในแป้งก่อนทอด",
+            "audio_en_src": "Coat the chicken in batter before frying."
+          },
+          {
+            "thai": "ชุบผ้าในน้ำแล้วบิดให้หมาด",
+            "en": "Soak the cloth in water and wring it out.",
+            "audio_src": "ชุบผ้าในน้ำแล้วบิดให้หมาด",
+            "audio_en_src": "Soak the cloth in water and wring it out."
+          }
+        ]
+      }
     ]
   },
   {

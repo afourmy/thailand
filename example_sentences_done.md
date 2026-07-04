@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5093 words**
+**Total: 5102 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3167,22 +3167,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-044` : นั่งสมาธิ (to meditate) : 1 meaning(s), 2 sentences
 - `yt-c03-049` : รัวๆ (over and over, in quick succession, repeatedly, non-stop) : 1 meaning(s), 2 sentences
 - `yt-c03-050` : ยกโทษ (to forgive, to pardon) : 1 meaning(s), 2 sentences
+- `yt-c03-057` : สวด (to chant, to recite (religious prayers)) : 1 meaning(s), 2 sentences
 - `yt-c03-061` : ตามเข็มนาฬิกา - ทวนเข็มนาฬิกา (clockwise - counterclockwise) : 1 meaning(s), 2 sentences
 - `yt-c03-071` : เมาส์ (mouse) : 1 meaning(s), 2 sentences
 - `yt-c03-072` : แผ่นรองเมาส์ (mouse pad) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
 - `yt-c03-074` : ถ่านไฟ, ถ่าน (battery (e.g LR6, AA)) : 1 meaning(s), 2 sentences
+- `yt-c03-075` : กระติก (thermos (container for drinks, ice)) : 1 meaning(s), 2 sentences
+- `yt-c03-076` : กิ่ง, กิ่งไม้ (branch) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
+- `yt-c03-085` : ด้วยซ้ำ (even, as well) : 1 meaning(s), 2 sentences
 - `yt-c03-087` : แฟ้ม (folder, file) : 1 meaning(s), 2 sentences
 - `yt-c03-088` : หนีบ (to clip, to pinch, to clamp) : 1 meaning(s), 2 sentences
 - `yt-c03-089` : ปก (cover (e.g of a book, a folder)) : 1 meaning(s), 2 sentences
 - `yt-c03-091` : กรีด (to scream; to cut, slit) : 2 meaning(s), 4 sentences
+- `yt-c03-093` : ความตั้งใจ (determination, resolve, effort) : 1 meaning(s), 2 sentences
 - `yt-c03-095` : เสื่อ (mat) : 1 meaning(s), 2 sentences
+- `yt-c03-096` : ปู (crab; to spread, to lay out (e.g a mat)) : 2 meaning(s), 4 sentences
 - `yt-c03-097` : พับ (to fold) : 1 meaning(s), 2 sentences
+- `yt-c03-099` : ทำนอง (melody, tune; manner, style) : 2 meaning(s), 4 sentences
 - `yt-c04-002` : ทำสวน (to do gardening) : 1 meaning(s), 2 sentences
+- `yt-c04-004` : กันและกัน (each other) : 1 meaning(s), 2 sentences
 - `yt-c04-005` : วิพากษ์วิจารณ์ (to criticize, to judge, to comment) : 1 meaning(s), 2 sentences
 - `yt-c04-006` : ม้วน (to roll, to curl, roll, classifier for rolled items (e.g toilet paper)) : 1 meaning(s), 2 sentences
 - `yt-c04-012` : สอด (to insert in, to slip into (an object, usually a small space)) : 1 meaning(s), 2 sentences
+- `yt-c04-013` : ชุบ (to coat (e.g in liquid), to dip, to soak) : 1 meaning(s), 2 sentences
 - `yt-c04-019` : ปาด (to swipe, to wipe, to cut across (quick motion)) : 1 meaning(s), 2 sentences
 - `yt-c04-022` : ละเอียดอ่อน (delicate, sensitive) : 1 meaning(s), 2 sentences
 - `yt-c04-026` : ทดสอบ (to check, test, evaluate, experiment) : 1 meaning(s), 2 sentences
