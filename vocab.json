@@ -51093,6 +51093,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be absorbed by, to be lost in, to enjoy, enjoyable, engaging",
+        "sentences": [
+          {
+            "thai": "ดูซีรีส์เพลินจนลืมเวลา",
+            "en": "I got so absorbed in the series I lost track of time.",
+            "audio_src": "ดูซีรีส์เพลินจนลืมเวลา",
+            "audio_en_src": "I got so absorbed in the series I lost track of time."
+          },
+          {
+            "thai": "เพลงนี้ฟังเพลินดี",
+            "en": "This song is nice and easy to listen to.",
+            "audio_src": "เพลงนี้ฟังเพลินดี",
+            "audio_en_src": "This song is nice and easy to listen to."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51136,6 +51155,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to go off topic, to digress",
+        "sentences": [
+          {
+            "thai": "เขาพูดออกนอกเรื่องตลอด",
+            "en": "He keeps going off topic.",
+            "audio_src": "เขาพูดออกนอกเรื่องตลอด",
+            "audio_en_src": "He keeps going off topic."
+          },
+          {
+            "thai": "กลับมาเข้าเรื่องเถอะ อย่าออกนอกเรื่อง",
+            "en": "Let's get back on topic, don't digress.",
+            "audio_src": "กลับมาเข้าเรื่องเถอะ อย่าออกนอกเรื่อง",
+            "audio_en_src": "Let's get back on topic, don't digress."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51379,6 +51417,25 @@
     "sources": [
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "elbow",
+        "sentences": [
+          {
+            "thai": "เขาล้มจนศอกถลอก",
+            "en": "He fell and scraped his elbow.",
+            "audio_src": "เขาล้มจนศอกถลอก",
+            "audio_en_src": "He fell and scraped his elbow."
+          },
+          {
+            "thai": "อย่าเอาข้อศอกวางบนโต๊ะ",
+            "en": "Don't put your elbows on the table.",
+            "audio_src": "อย่าเอาข้อศอกวางบนโต๊ะ",
+            "audio_en_src": "Don't put your elbows on the table."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51420,6 +51477,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "with all one's might, as best as one can",
+        "sentences": [
+          {
+            "thai": "เขาวิ่งสุดชีวิตเพื่อให้ทันรถ",
+            "en": "He ran with all his might to catch the bus.",
+            "audio_src": "เขาวิ่งสุดชีวิตเพื่อให้ทันรถ",
+            "audio_en_src": "He ran with all his might to catch the bus."
+          },
+          {
+            "thai": "ฉันตั้งใจทำงานสุดชีวิต",
+            "en": "I put everything I had into the work.",
+            "audio_src": "ฉันตั้งใจทำงานสุดชีวิต",
+            "audio_en_src": "I put everything I had into the work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51430,6 +51506,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "as usual, same as always, just like before",
+        "sentences": [
+          {
+            "thai": "เขามาสายตามเคย",
+            "en": "He's late as usual.",
+            "audio_src": "เขามาสายตามเคย",
+            "audio_en_src": "He's late as usual."
+          },
+          {
+            "thai": "เช้านี้ฉันกินกาแฟตามเคย",
+            "en": "This morning I had coffee as usual.",
+            "audio_src": "เช้านี้ฉันกินกาแฟตามเคย",
+            "audio_en_src": "This morning I had coffee as usual."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51545,6 +51640,25 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "stocks, shares",
+        "sentences": [
+          {
+            "thai": "เขาลงทุนในหุ้นมานาน",
+            "en": "He's been investing in stocks for a long time.",
+            "audio_src": "เขาลงทุนในหุ้นมานาน",
+            "audio_en_src": "He's been investing in stocks for a long time."
+          },
+          {
+            "thai": "วันนี้หุ้นตกหนัก",
+            "en": "The stock market fell sharply today.",
+            "audio_src": "วันนี้หุ้นตกหนัก",
+            "audio_en_src": "The stock market fell sharply today."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51703,6 +51817,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "status, role, position, financial standing",
+        "sentences": [
+          {
+            "thai": "ในฐานะหัวหน้า เขาต้องรับผิดชอบ",
+            "en": "As the boss, he has to take responsibility.",
+            "audio_src": "ในฐานะหัวหน้า เขาต้องรับผิดชอบ",
+            "audio_en_src": "As the boss, he has to take responsibility."
+          },
+          {
+            "thai": "ครอบครัวเขามีฐานะดี",
+            "en": "His family is well off.",
+            "audio_src": "ครอบครัวเขามีฐานะดี",
+            "audio_en_src": "His family is well off."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51841,6 +51974,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "narcissistic, self-absorbed",
+        "sentences": [
+          {
+            "thai": "เขาหลงตัวเองว่าหล่อที่สุด",
+            "en": "He's so full of himself, thinking he's the most handsome.",
+            "audio_src": "เขาหลงตัวเองว่าหล่อที่สุด",
+            "audio_en_src": "He's so full of himself, thinking he's the most handsome."
+          },
+          {
+            "thai": "อย่าหลงตัวเองมากไป",
+            "en": "Don't be so self-absorbed.",
+            "audio_src": "อย่าหลงตัวเองมากไป",
+            "audio_en_src": "Don't be so self-absorbed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51883,6 +52035,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "spouse, married partner",
+        "sentences": [
+          {
+            "thai": "เธอยังหาคู่ครองไม่ได้",
+            "en": "She hasn't found a spouse yet.",
+            "audio_src": "เธอยังหาคู่ครองไม่ได้",
+            "audio_en_src": "She hasn't found a spouse yet."
+          },
+          {
+            "thai": "เขาเป็นคู่ครองที่ดี",
+            "en": "He's a good life partner.",
+            "audio_src": "เขาเป็นคู่ครองที่ดี",
+            "audio_en_src": "He's a good life partner."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51904,6 +52075,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "arranged marriage",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนนิยมแต่งงานแบบคลุมถุงชน",
+            "en": "In the old days, arranged marriages were common.",
+            "audio_src": "สมัยก่อนนิยมแต่งงานแบบคลุมถุงชน",
+            "audio_en_src": "In the old days, arranged marriages were common."
+          },
+          {
+            "thai": "พ่อแม่จับคลุมถุงชนให้ลูกสาว",
+            "en": "The parents arranged a marriage for their daughter.",
+            "audio_src": "พ่อแม่จับคลุมถุงชนให้ลูกสาว",
+            "audio_en_src": "The parents arranged a marriage for their daughter."
+          }
+        ]
+      }
     ]
   },
   {

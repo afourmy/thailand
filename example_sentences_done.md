@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4473 words**
+**Total: 4483 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1320,26 +1320,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-434` : ลืมตา (to open one's eyes) : 1 meaning(s), 2 sentences
 - `tamago-l3-435` : เห็นแก่ตัว (selfish) : 1 meaning(s), 2 sentences
 - `tamago-l3-436` : เชี่ยว (skilled, expert; rapid (of water current)) : 2 meaning(s), 4 sentences
+- `tamago-l3-439` : เพลิน (to be absorbed by, to be lost in, to enjoy, enjoyable, engaging) : 1 meaning(s), 2 sentences
 - `tamago-l3-440` : หุ่น (body shape, body figure) : 1 meaning(s), 2 sentences
+- `tamago-l3-441` : ออกนอกเรื่อง (to go off topic, to digress) : 1 meaning(s), 2 sentences
 - `tamago-l3-442` : ล่ม (to sink (a boat), to collapse, to fail (a system, an exam)) : 1 meaning(s), 3 sentences
 - `tamago-l3-443` : ชิด (close, adjacent) : 1 meaning(s), 2 sentences
 - `tamago-l3-446` : ก้ม (to bend down, to bow (head)) : 1 meaning(s), 2 sentences
 - `tamago-l3-448` : แนบ (to attach, to stick to, to be close next to) : 1 meaning(s), 2 sentences
 - `tamago-l3-449` : กวาด, ปัดกวาด (to sweep) : 1 meaning(s), 2 sentences
 - `tamago-l3-450` : งอ (to bend, to curve) : 1 meaning(s), 2 sentences
+- `tamago-l3-451` : ศอก, ข้อศอก (elbow) : 1 meaning(s), 2 sentences
 - `tamago-l3-452` : พูดแทรก (to interrupt someone (while speaking)) : 1 meaning(s), 2 sentences
+- `tamago-l3-454` : สุดชีวิต (with all one's might, as best as one can) : 1 meaning(s), 2 sentences
+- `tamago-l3-455` : ตามเคย (as usual, same as always, just like before) : 1 meaning(s), 2 sentences
 - `tamago-l3-456` : อายุยืนนาน (to live a long life) : 1 meaning(s), 2 sentences
 - `tamago-l3-457` : ในใจ (silently, inwardly, in one's heart) : 1 meaning(s), 2 sentences
 - `tamago-l3-459` : มหาเศรษฐี (multimillionaire) : 1 meaning(s), 2 sentences
+- `tamago-l3-460` : หุ้น (stocks, shares) : 1 meaning(s), 2 sentences
 - `tamago-l3-462` : ขอทาน (beggar) : 1 meaning(s), 2 sentences
 - `tamago-l3-463` : ม.ต้น (middle school (lower secondary)) : 1 meaning(s), 2 sentences
 - `tamago-l3-465` : กระปุก (small container, jar (e.g for medicine, balm)) : 1 meaning(s), 2 sentences
 - `tamago-l3-466` : ซกมก (dirty, messy, filthy) : 1 meaning(s), 2 sentences
+- `tamago-l3-467` : ฐานะ (status, role, position, financial standing) : 1 meaning(s), 2 sentences
 - `tamago-l3-468` : ตัดออก (to remove, to cross out) : 1 meaning(s), 2 sentences
 - `tamago-l3-469` : กระทบ (to affect, to impact, to hit) : 1 meaning(s), 2 sentences
 - `tamago-l3-470` : รุม (to crowd around, to gang up on, to swarm) : 1 meaning(s), 2 sentences
 - `tamago-l3-471` : ธาตุแท้ (true nature, genuine character of someone) : 1 meaning(s), 2 sentences
+- `tamago-l3-472` : หลงตัวเอง (narcissistic, self-absorbed) : 1 meaning(s), 2 sentences
 - `tamago-l3-473` : ให้เกียรติ (to give respect, to show respect to) : 1 meaning(s), 2 sentences
+- `tamago-l3-474` : คู่ครอง (spouse, married partner) : 1 meaning(s), 2 sentences
+- `tamago-l3-476` : คลุมถุงชน (arranged marriage) : 1 meaning(s), 2 sentences
 - `tamago-l3-478` : เหยียบ (to step on, to tread on) : 1 meaning(s), 2 sentences
 - `wlt-c05-099` : ความสูง (height) : 1 meaning(s), 2 sentences
 - `tamago-l3-483` : สมบูรณ์แบบ (perfect, flawless) : 1 meaning(s), 2 sentences
