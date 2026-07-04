@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4733 words**
+**Total: 4743 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1951,18 +1951,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-503` : งอก (to sprout, to germinate) : 1 meaning(s), 2 sentences
 - `tsl-504` : เพาะ (to cultivate, to breed, to implant) : 1 meaning(s), 2 sentences
 - `tsl-505` : เมตตากรุณา (kindness and compassion) : 1 meaning(s), 2 sentences
+- `tsl-507` : ผสมพันธุ์ (to mate, to reproduce) : 1 meaning(s), 2 sentences
+- `tsl-508` : เหงือก (gums (mouth); gills (fish)) : 2 meaning(s), 4 sentences
+- `tsl-511` : แต่เดิม (originally, formerly, in the past) : 1 meaning(s), 2 sentences
 - `tsl-512` : ผิวพรรณ (skin complexion) : 1 meaning(s), 2 sentences
 - `tsl-513` : สูญเสีย (to suffer a loss, to lose (something important)) : 1 meaning(s), 2 sentences
 - `tsl-513b` : สูญสิ้น (to be irrecoverably lost, to be completely gone) : 1 meaning(s), 2 sentences
 - `tsl-514` : ขัดขืน (to resist, to rebel, to defy) : 1 meaning(s), 2 sentences
+- `tsl-515` : ค่าเลี้ยงชีพ (cost of living, living expenses) : 1 meaning(s), 2 sentences
+- `tsl-516` : มิฉะนั้น (otherwise, or else) : 1 meaning(s), 2 sentences
+- `tsl-517` : ...ไปก็เท่านั้น ("it's no use doing...", "doing... won't help") : 1 meaning(s), 2 sentences
+- `tsl-518` : การโกงกิน (corruption, embezzlement) : 1 meaning(s), 2 sentences
 - `tsl-520` : เยาวชน (youth, young people) : 1 meaning(s), 2 sentences
 - `tsl-525` : กาก (residue, leftover, dregs; (slang) loser, worthless) : 2 meaning(s), 4 sentences
 - `tsl-526` : สม่ำเสมอ (regular, consistent, steady) : 1 meaning(s), 2 sentences
 - `tsl-530` : แผ่ (to spread, to extend, to diffuse) : 1 meaning(s), 2 sentences
 - `tsl-531` : ลาด (slope, inclined; to pave, to cover a surface) : 2 meaning(s), 4 sentences
+- `tsl-533` : มีหน้ามีตา ((idiom) to have status, to be well-regarded, have a good reputation) : 1 meaning(s), 2 sentences
 - `tsl-534` : กุเรื่อง (to make up a story, to fabricate) : 1 meaning(s), 2 sentences
 - `tsl-535` : จอมปลอม (completely fake, total fraud) : 1 meaning(s), 2 sentences
 - `tsl-536` : คล้อยตาม (to go along with, to follow, to be persuaded) : 1 meaning(s), 2 sentences
+- `tsl-537` : คิดบัญชี ((idiom) to settle accounts, to take revenge) : 1 meaning(s), 2 sentences
+- `tsl-538` : รายรับ (income) : 1 meaning(s), 2 sentences
 - `tsl-543` : ขจัด (to eliminate, to get rid of, to eradicate) : 1 meaning(s), 2 sentences
 - `tsl-544` : คราบ (stain, mark) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
