@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4673 words**
+**Total: 4683 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1776,10 +1776,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-167` : เนื้อผ้า (fabric, cloth texture) : 1 meaning(s), 2 sentences
 - `tsl-171` : แบบอย่าง (model, example, exemplar) : 1 meaning(s), 2 sentences
 - `tsl-177` : เล่นเฟซบุ๊ก - เล่นอินสตาแกรม (to use Facebook - Instagram) : 2 meaning(s), 4 sentences
+- `tsl-178` : จะเป็นอะไรไหมถ้า... ("do you mind if...?") : 1 meaning(s), 2 sentences
+- `tsl-179` : ...เนาะ ("..., right?", "..., isn't it" (Northern Thai sentence ending)) : 1 meaning(s), 2 sentences
 - `tsl-180` : ของแถม (freebie, free item (with a purchase)) : 1 meaning(s), 2 sentences
 - `tsl-181` : ชำรุด (broken, damaged, out of order) : 1 meaning(s), 2 sentences
+- `tsl-182` : ช่างคิด (imaginative person, clever thinker) : 1 meaning(s), 2 sentences
 - `tsl-183` : ออกความคิด (to share an idea, to express an opinion) : 1 meaning(s), 2 sentences
+- `tsl-185` : ในเร็ววันนี้ (very soon, in the near future) : 1 meaning(s), 2 sentences
 - `tsl-187` : เอ่ยถึง (to mention, to bring up, to refer to) : 1 meaning(s), 2 sentences
+- `tsl-189` : สั่งน้ำมูก (to blow one's nose) : 1 meaning(s), 2 sentences
+- `tsl-192` : ดาวน์ (downpayment, deposit) : 1 meaning(s), 2 sentences
+- `tsl-193` : งวด (installment of a payment; (cooking) reduced, simmered) : 2 meaning(s), 4 sentences
+- `tsl-195` : คันเร่ง (accelerator pedal (of a vehicle)) : 1 meaning(s), 2 sentences
+- `tsl-198` : ผัดวันประกันพรุ่ง (to procrastinate) : 1 meaning(s), 2 sentences
 - `tsl-202` : อนุมัติ (to approve) : 1 meaning(s), 2 sentences
 - `tsl-203` : ต่ออายุ (to renew, to extend (document, passport, etc)) : 1 meaning(s), 2 sentences
 - `tsl-204` : บัตรประจำตัวประชาชน (citizen ID card) : 1 meaning(s), 2 sentences
@@ -1788,6 +1797,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-209` : ตราประทับ (stamp, seal (the impression)) : 1 meaning(s), 2 sentences
 - `tsl-210` : สถานภาพ (status (e.g marital, residency)) : 1 meaning(s), 2 sentences
 - `tsl-214` : ล้อมวง (to sit in a circle, to gather around) : 1 meaning(s), 2 sentences
+- `tsl-215` : ร่วน (crumbly, loose, easily falls apart (texture)) : 1 meaning(s), 2 sentences
 - `tsl-217` : คีบ (to pick up (using chopsticks, tongs, fingers)) : 1 meaning(s), 2 sentences
 - `tsl-219` : เอาใจช่วย (to root for someone, to cheer on) : 1 meaning(s), 2 sentences
 - `tsl-226` : เป็นธุระ (to take care of something, to handle a task) : 1 meaning(s), 2 sentences

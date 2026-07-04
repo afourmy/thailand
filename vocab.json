@@ -67062,6 +67062,25 @@
     "topic": "grammar",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "do you mind if...?",
+        "sentences": [
+          {
+            "thai": "จะเป็นอะไรไหมถ้าฉันขอนั่งตรงนี้",
+            "en": "Do you mind if I sit here?",
+            "audio_src": "จะเป็นอะไรไหมถ้าฉันขอนั่งตรงนี้",
+            "audio_en_src": "Do you mind if I sit here?"
+          },
+          {
+            "thai": "จะเป็นอะไรไหมถ้าเราเลื่อนนัด",
+            "en": "Would it be okay if we pushed back the appointment?",
+            "audio_src": "จะเป็นอะไรไหมถ้าเราเลื่อนนัด",
+            "audio_en_src": "Would it be okay if we pushed back the appointment?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -67072,6 +67091,25 @@
     "topic": "grammar",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "\"..., right?\", \"..., isn't it\" (Northern Thai sentence ending)",
+        "sentences": [
+          {
+            "thai": "วันนี้อากาศดีเนาะ",
+            "en": "Nice weather today, isn't it?",
+            "audio_src": "วันนี้อากาศดีเนาะ",
+            "audio_en_src": "Nice weather today, isn't it?"
+          },
+          {
+            "thai": "ร้านนี้อร่อยเนาะ",
+            "en": "This place is good, right?",
+            "audio_src": "ร้านนี้อร่อยเนาะ",
+            "audio_en_src": "This place is good, right?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -67145,6 +67183,25 @@
     "topic": "personality",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "imaginative person, clever thinker",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเด็กช่างคิด ชอบประดิษฐ์ของเล่นเอง",
+            "en": "He's an imaginative kid who likes to invent his own toys.",
+            "audio_src": "เขาเป็นเด็กช่างคิด ชอบประดิษฐ์ของเล่นเอง",
+            "audio_en_src": "He's an imaginative kid who likes to invent his own toys."
+          },
+          {
+            "thai": "คนช่างคิดมักมีไอเดียใหม่ๆเสมอ",
+            "en": "Imaginative people always seem to have new ideas.",
+            "audio_src": "คนช่างคิดมักมีไอเดียใหม่ๆเสมอ",
+            "audio_en_src": "Imaginative people always seem to have new ideas."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67186,6 +67243,25 @@
     "topic": "time",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "very soon, in the near future",
+        "sentences": [
+          {
+            "thai": "โครงการนี้จะเสร็จในเร็ววันนี้",
+            "en": "This project will be done very soon.",
+            "audio_src": "โครงการนี้จะเสร็จในเร็ววันนี้",
+            "audio_en_src": "This project will be done very soon."
+          },
+          {
+            "thai": "เราจะเปิดสาขาใหม่ในเร็ววันนี้",
+            "en": "We'll be opening a new branch in the near future.",
+            "audio_src": "เราจะเปิดสาขาใหม่ในเร็ววันนี้",
+            "audio_en_src": "We'll be opening a new branch in the near future."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67249,6 +67325,25 @@
     "topic": "health",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to blow one's nose",
+        "sentences": [
+          {
+            "thai": "เป็นหวัดต้องสั่งน้ำมูกบ่อยๆ",
+            "en": "When you have a cold you have to blow your nose a lot.",
+            "audio_src": "เป็นหวัดต้องสั่งน้ำมูกบ่อยๆ",
+            "audio_en_src": "When you have a cold you have to blow your nose a lot."
+          },
+          {
+            "thai": "เขาหยิบทิชชูมาสั่งน้ำมูก",
+            "en": "He grabbed a tissue to blow his nose.",
+            "audio_src": "เขาหยิบทิชชูมาสั่งน้ำมูก",
+            "audio_en_src": "He grabbed a tissue to blow his nose."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67279,6 +67374,25 @@
     "topic": "economy",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "downpayment, deposit",
+        "sentences": [
+          {
+            "thai": "ซื้อรถต้องวางเงินดาวน์ก่อน",
+            "en": "To buy a car you have to put down a deposit first.",
+            "audio_src": "ซื้อรถต้องวางเงินดาวน์ก่อน",
+            "audio_en_src": "To buy a car you have to put down a deposit first."
+          },
+          {
+            "thai": "เงินดาวน์บ้านแพงมาก",
+            "en": "The down payment on a house is really expensive.",
+            "audio_src": "เงินดาวน์บ้านแพงมาก",
+            "audio_en_src": "The down payment on a house is really expensive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67290,6 +67404,42 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "installment of a payment",
+        "sentences": [
+          {
+            "thai": "ผ่อนบ้านเหลืออีกสิบงวด",
+            "en": "I have ten installments left on the house.",
+            "audio_src": "ผ่อนบ้านเหลืออีกสิบงวด",
+            "audio_en_src": "I have ten installments left on the house."
+          },
+          {
+            "thai": "เขาจ่ายค่างวดรถทุกเดือน",
+            "en": "He pays the car installment every month.",
+            "audio_src": "เขาจ่ายค่างวดรถทุกเดือน",
+            "audio_en_src": "He pays the car installment every month."
+          }
+        ]
+      },
+      {
+        "meaning": "(cooking) reduced, simmered",
+        "sentences": [
+          {
+            "thai": "เคี่ยวซอสจนงวด",
+            "en": "Simmer the sauce until it reduces.",
+            "audio_src": "เคี่ยวซอสจนงวด",
+            "audio_en_src": "Simmer the sauce until it reduces."
+          },
+          {
+            "thai": "ต้มน้ำแกงให้งวดลงหน่อย",
+            "en": "Let the curry broth reduce down a bit.",
+            "audio_src": "ต้มน้ำแกงให้งวดลงหน่อย",
+            "audio_en_src": "Let the curry broth reduce down a bit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67310,6 +67460,25 @@
     "topic": "transport",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "accelerator pedal (of a vehicle)",
+        "sentences": [
+          {
+            "thai": "เขาเหยียบคันเร่งจนสุด",
+            "en": "He floored the accelerator.",
+            "audio_src": "เขาเหยียบคันเร่งจนสุด",
+            "audio_en_src": "He floored the accelerator."
+          },
+          {
+            "thai": "อย่าเหยียบคันเร่งแรงเกินไป",
+            "en": "Don't step on the gas too hard.",
+            "audio_src": "อย่าเหยียบคันเร่งแรงเกินไป",
+            "audio_en_src": "Don't step on the gas too hard."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67343,6 +67512,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to procrastinate",
+        "sentences": [
+          {
+            "thai": "อย่าผัดวันประกันพรุ่ง รีบทำซะ",
+            "en": "Stop procrastinating and just get it done.",
+            "audio_src": "อย่าผัดวันประกันพรุ่ง รีบทำซะ",
+            "audio_en_src": "Stop procrastinating and just get it done."
+          },
+          {
+            "thai": "เขาชอบผัดวันประกันพรุ่งจนงานไม่เสร็จ",
+            "en": "He procrastinates so much the work never gets finished.",
+            "audio_src": "เขาชอบผัดวันประกันพรุ่งจนงานไม่เสร็จ",
+            "audio_en_src": "He procrastinates so much the work never gets finished."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67686,6 +67874,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "crumbly, loose, easily falls apart (texture)",
+        "sentences": [
+          {
+            "thai": "ข้าวหุงออกมาร่วนกำลังดี",
+            "en": "The rice came out nice and fluffy.",
+            "audio_src": "ข้าวหุงออกมาร่วนกำลังดี",
+            "audio_en_src": "The rice came out nice and fluffy."
+          },
+          {
+            "thai": "คุกกี้เนื้อร่วน อร่อยมาก",
+            "en": "The cookies are crumbly and really good.",
+            "audio_src": "คุกกี้เนื้อร่วน อร่อยมาก",
+            "audio_en_src": "The cookies are crumbly and really good."
+          }
+        ]
+      }
     ]
   },
   {
