@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5073 words**
+**Total: 5083 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3119,16 +3119,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-011` : ล้อเลียน (to mock, to imitate in a mocking way, to ridicule) : 1 meaning(s), 2 sentences
 - `yt-c02-014` : ทรงพลัง (powerful, mighty) : 1 meaning(s), 2 sentences
 - `yt-c02-016` : ระเบียบ (discipline, order) : 1 meaning(s), 2 sentences
+- `yt-c02-017` : ชีวิตคู่ (married life, conjugal life) : 1 meaning(s), 2 sentences
 - `yt-c02-024` : นวัตกรรม (innovation) : 1 meaning(s), 2 sentences
 - `yt-c02-025` : ล้มเหลว (to fail, failure) : 1 meaning(s), 2 sentences
 - `yt-c02-026` : คัดออก (to eliminate, to disqualify, to screen out) : 1 meaning(s), 2 sentences
 - `yt-c02-028` : เคียงข้าง (beside, alongside) : 1 meaning(s), 2 sentences
 - `yt-c02-029` : ขำๆ (funny, "just kidding", jokingly) : 1 meaning(s), 2 sentences
 - `yt-c02-033` : ร้องเกะ (to sing Karaoke) : 1 meaning(s), 2 sentences
+- `yt-c02-035` : ตำ, โขลก (to pound, to crush (e.g using a mortar and pestle)) : 1 meaning(s), 2 sentences
+- `yt-c02-039` : โกโก้ (cocoa) : 1 meaning(s), 2 sentences
+- `yt-c02-043` : ปั่นจักรยาน, ถีบจักรยาน (to ride a bicycle) : 1 meaning(s), 2 sentences
+- `yt-c02-048` : แก้ม (cheek) : 1 meaning(s), 2 sentences
+- `yt-c02-050` : ขมวดคิ้ว (to frown, to knit your eyebrows) : 1 meaning(s), 2 sentences
+- `yt-c02-051` : ยักคิ้ว (to raise an eyebrow) : 1 meaning(s), 2 sentences
+- `yt-c02-054` : แลบลิ้น (to stick out one's tongue) : 1 meaning(s), 2 sentences
 - `yt-c02-056` : โบก (to wave (e.g a hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c02-057` : ฟาด (to strike, to hit strongly (e.g with stick, whip); to eat a lot, to devour) : 2 meaning(s), 4 sentences
 - `yt-c02-070` : ตัวกลาง (medium, intermediary, middleman) : 1 meaning(s), 2 sentences
+- `yt-c02-071` : ตักบาตร (offering food to monks (religious term)) : 1 meaning(s), 2 sentences
 - `yt-c02-074` : พูดปด (to lie, to tell a lie) : 1 meaning(s), 2 sentences
+- `yt-c02-082` : พนมมือ (to press palms together (greeting, prayer)) : 1 meaning(s), 2 sentences
 - `yt-c02-091` : อุดมสมบูรณ์ (abundant, fertile) : 1 meaning(s), 2 sentences
 - `yt-c02-096` : โยน - ปา (to throw - to toss (with aim, forcefully)) : 1 meaning(s), 2 sentences
 - `yt-c02-097` : แบ (to unfold, spread out, to stretch out (e.g hand, finger)) : 1 meaning(s), 2 sentences
