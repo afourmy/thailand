@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4913 words**
+**Total: 4923 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2570,7 +2570,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1229` : เป็นการลับ (in secret, confidentially) : 1 meaning(s), 2 sentences
 - `thaipod-1230` : เป็นชั้นๆ (layered, in layers) : 1 meaning(s), 2 sentences
 - `thaipod-1231` : เป็นต้น (etc., and so on) : 1 meaning(s), 2 sentences
+- `thaipod-1233` : เป็นเวลา (for a period of, for a duration of) : 1 meaning(s), 2 sentences
 - `thaipod-1237` : เผา (to burn, to cremate) : 1 meaning(s), 2 sentences
+- `thaipod-1238` : เพราะเหตุที่ (due to the fact that, because) : 1 meaning(s), 2 sentences
 - `thaipod-1240` : เพลิดเพลิน (to enjoy, to be delighted) : 1 meaning(s), 2 sentences
 - `thaipod-1242` : เพี้ยน (distorted, strange, off; derived from) : 2 meaning(s), 4 sentences
 - `thaipod-1243` : เพื่อ (for, in order to) : 1 meaning(s), 2 sentences
@@ -2579,6 +2581,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1250` : เรียกร้อง (to demand, to call for) : 1 meaning(s), 2 sentences
 - `thaipod-1251` : เรียง (arranged, lined up, in order) : 1 meaning(s), 2 sentences
 - `thaipod-1252` : เรียงต่อกัน (lined up, arranged in a line) : 1 meaning(s), 2 sentences
+- `thaipod-1253` : เรียบร้อยแล้ว (to be in order, to be completed) : 1 meaning(s), 2 sentences
+- `thaipod-1254` : เรือคายัค (kayak) : 1 meaning(s), 2 sentences
+- `thaipod-1257` : เรือหางยาว (long-tail boat (traditional Thai boat)) : 1 meaning(s), 2 sentences
+- `thaipod-1258` : เรือเร็ว (speedboat) : 1 meaning(s), 2 sentences
+- `thaipod-1259` : เรือใบ (sailboat) : 1 meaning(s), 2 sentences
 - `thaipod-1262` : เลี้ยง (to feed, to treat, to raise) : 1 meaning(s), 3 sentences
 - `thaipod-1263` : เล่นงาน (to attack, to take action against, to target) : 1 meaning(s), 2 sentences
 - `thaipod-1264` : เล่า (to tell (a story)) : 1 meaning(s), 2 sentences
@@ -2587,6 +2594,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1286` : เสี่ยงอันตราย (risky, dangerous) : 1 meaning(s), 2 sentences
 - `thaipod-1288` : เหนือ (above, over; north) : 2 meaning(s), 4 sentences
 - `thaipod-1289` : เหมาะ (suitable, appropriate) : 1 meaning(s), 2 sentences
+- `thaipod-1290` : เหมาะแก่ (suitable for, fitting for) : 1 meaning(s), 2 sentences
+- `thaipod-1292` : เหล่า (group of, "all the...") : 1 meaning(s), 2 sentences
+- `thaipod-1293` : เห็นจะ (probably, likely; "seems", "appears to be") : 2 meaning(s), 4 sentences
 - `thaipod-1297` : เอาละ (alright, well then) : 1 meaning(s), 2 sentences
 - `thaipod-1301` : แก (you (informal)) : 1 meaning(s), 2 sentences
 - `thaipod-1304` : แก้ (to fix, to solve, to correct) : 1 meaning(s), 3 sentences

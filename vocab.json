@@ -99500,6 +99500,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "for a period of, for a duration of",
+        "sentences": [
+          {
+            "thai": "เขาทำงานที่นี่เป็นเวลาสิบปี",
+            "en": "He's worked here for ten years.",
+            "audio_src": "เขาทำงานที่นี่เป็นเวลาสิบปี",
+            "audio_en_src": "He's worked here for ten years."
+          },
+          {
+            "thai": "ฝนตกเป็นเวลาสามชั่วโมง",
+            "en": "It rained for three hours.",
+            "audio_src": "ฝนตกเป็นเวลาสามชั่วโมง",
+            "audio_en_src": "It rained for three hours."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99553,6 +99572,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "due to the fact that, because",
+        "sentences": [
+          {
+            "thai": "เพราะเหตุที่เขามาสาย จึงพลาดรถไฟ",
+            "en": "Because he was late, he missed the train.",
+            "audio_src": "เพราะเหตุที่เขามาสาย จึงพลาดรถไฟ",
+            "audio_en_src": "Because he was late, he missed the train."
+          },
+          {
+            "thai": "โครงการล้มเหลวเพราะเหตุที่ขาดงบประมาณ",
+            "en": "The project failed due to a lack of budget.",
+            "audio_src": "โครงการล้มเหลวเพราะเหตุที่ขาดงบประมาณ",
+            "audio_en_src": "The project failed due to a lack of budget."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99900,6 +99938,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to be in order, to be completed",
+        "sentences": [
+          {
+            "thai": "งานทุกอย่างเสร็จเรียบร้อยแล้ว",
+            "en": "Everything is done and in order.",
+            "audio_src": "งานทุกอย่างเสร็จเรียบร้อยแล้ว",
+            "audio_en_src": "Everything is done and in order."
+          },
+          {
+            "thai": "ฉันจัดห้องเรียบร้อยแล้ว",
+            "en": "I've finished tidying up the room.",
+            "audio_src": "ฉันจัดห้องเรียบร้อยแล้ว",
+            "audio_en_src": "I've finished tidying up the room."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99910,6 +99967,25 @@
     "topic": "transport",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "kayak",
+        "sentences": [
+          {
+            "thai": "เราพายเรือคายัคเล่นในทะเล",
+            "en": "We paddled a kayak in the sea.",
+            "audio_src": "เราพายเรือคายัคเล่นในทะเล",
+            "audio_en_src": "We paddled a kayak in the sea."
+          },
+          {
+            "thai": "เรือคายัคพลิกคว่ำเพราะคลื่นแรง",
+            "en": "The kayak capsized because of the strong waves.",
+            "audio_src": "เรือคายัคพลิกคว่ำเพราะคลื่นแรง",
+            "audio_en_src": "The kayak capsized because of the strong waves."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99941,6 +100017,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "long-tail boat (traditional Thai boat)",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวนั่งเรือหางยาวชมแม่น้ำ",
+            "en": "Tourists ride a long-tail boat to see the river.",
+            "audio_src": "นักท่องเที่ยวนั่งเรือหางยาวชมแม่น้ำ",
+            "audio_en_src": "Tourists ride a long-tail boat to see the river."
+          },
+          {
+            "thai": "เรือหางยาวเป็นเอกลักษณ์ของไทย",
+            "en": "The long-tail boat is a symbol of Thailand.",
+            "audio_src": "เรือหางยาวเป็นเอกลักษณ์ของไทย",
+            "audio_en_src": "The long-tail boat is a symbol of Thailand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99951,6 +100046,25 @@
     "topic": "transport",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "speedboat",
+        "sentences": [
+          {
+            "thai": "เราข้ามไปเกาะด้วยเรือเร็ว",
+            "en": "We crossed over to the island by speedboat.",
+            "audio_src": "เราข้ามไปเกาะด้วยเรือเร็ว",
+            "audio_en_src": "We crossed over to the island by speedboat."
+          },
+          {
+            "thai": "เรือเร็วแล่นเร็วจนน้ำกระเซ็น",
+            "en": "The speedboat went so fast that water splashed everywhere.",
+            "audio_src": "เรือเร็วแล่นเร็วจนน้ำกระเซ็น",
+            "audio_en_src": "The speedboat went so fast that water splashed everywhere."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99961,6 +100075,25 @@
     "topic": "transport",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sailboat",
+        "sentences": [
+          {
+            "thai": "เขาชอบแล่นเรือใบในวันหยุด",
+            "en": "He likes sailing on weekends.",
+            "audio_src": "เขาชอบแล่นเรือใบในวันหยุด",
+            "audio_en_src": "He likes sailing on weekends."
+          },
+          {
+            "thai": "เรือใบต้องอาศัยลมในการแล่น",
+            "en": "A sailboat relies on the wind to move.",
+            "audio_src": "เรือใบต้องอาศัยลมในการแล่น",
+            "audio_en_src": "A sailboat relies on the wind to move."
+          }
+        ]
+      }
     ]
   },
   {
@@ -100390,6 +100523,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "suitable for, fitting for",
+        "sentences": [
+          {
+            "thai": "อากาศแบบนี้เหมาะแก่การนอนพักผ่อน",
+            "en": "This kind of weather is perfect for resting.",
+            "audio_src": "อากาศแบบนี้เหมาะแก่การนอนพักผ่อน",
+            "audio_en_src": "This kind of weather is perfect for resting."
+          },
+          {
+            "thai": "หนังสือเล่มนี้เหมาะแก่เด็กเล็ก",
+            "en": "This book is suitable for young children.",
+            "audio_src": "หนังสือเล่มนี้เหมาะแก่เด็กเล็ก",
+            "audio_en_src": "This book is suitable for young children."
+          }
+        ]
+      }
     ]
   },
   {
@@ -100401,6 +100553,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "group of, \"all the...\"",
+        "sentences": [
+          {
+            "thai": "เหล่าทหารเดินสวนสนาม",
+            "en": "The soldiers marched in a parade.",
+            "audio_src": "เหล่าทหารเดินสวนสนาม",
+            "audio_en_src": "The soldiers marched in a parade."
+          },
+          {
+            "thai": "เหล่านักเรียนพากันร้องเพลง",
+            "en": "All the students sang together.",
+            "audio_src": "เหล่านักเรียนพากันร้องเพลง",
+            "audio_en_src": "All the students sang together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -100411,6 +100582,42 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "probably, likely",
+        "sentences": [
+          {
+            "thai": "งานนี้เห็นจะเสร็จไม่ทันแล้ว",
+            "en": "This work probably won't get finished in time.",
+            "audio_src": "งานนี้เห็นจะเสร็จไม่ทันแล้ว",
+            "audio_en_src": "This work probably won't get finished in time."
+          },
+          {
+            "thai": "ฝนตกแบบนี้เห็นจะไปไม่ได้",
+            "en": "With rain like this, we probably can't go.",
+            "audio_src": "ฝนตกแบบนี้เห็นจะไปไม่ได้",
+            "audio_en_src": "With rain like this, we probably can't go."
+          }
+        ]
+      },
+      {
+        "meaning": "\"seems\", \"appears to be\"",
+        "sentences": [
+          {
+            "thai": "เขาเห็นจะไม่สบาย หน้าซีดมาก",
+            "en": "He seems unwell, his face is really pale.",
+            "audio_src": "เขาเห็นจะไม่สบาย หน้าซีดมาก",
+            "audio_en_src": "He seems unwell, his face is really pale."
+          },
+          {
+            "thai": "อาหารจานนี้เห็นจะเผ็ดน่าดู",
+            "en": "This dish looks like it'll be pretty spicy.",
+            "audio_src": "อาหารจานนี้เห็นจะเผ็ดน่าดู",
+            "audio_en_src": "This dish looks like it'll be pretty spicy."
+          }
+        ]
+      }
     ]
   },
   {
