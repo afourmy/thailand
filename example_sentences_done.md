@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4813 words**
+**Total: 4823 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2214,18 +2214,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0394` : ถิ่น (region, habitat, native place) : 1 meaning(s), 2 sentences
 - `thaipod-0398` : แม้ว่า, ถึงแม้ว่า (although, even though) : 1 meaning(s), 2 sentences
 - `thaipod-0399` : จัดว่า, ถือว่า, ถือเป็น ("is considered", "is regarded as") : 1 meaning(s), 2 sentences
+- `thaipod-0402` : ถือได้ว่า (it can be considered that) : 1 meaning(s), 2 sentences
+- `thaipod-0404` : ถูกต้องตามกฎหมาย (legal, in accordance with the law) : 1 meaning(s), 2 sentences
 - `thaipod-0415` : ทอดทิ้ง (to forsake, to abandon, to neglect) : 1 meaning(s), 2 sentences
+- `thaipod-0418` : ทะเบียนรถ (car license plate, vehicle registration) : 1 meaning(s), 2 sentences
 - `thaipod-0422` : ทัน (in time, to catch up) : 1 meaning(s), 2 sentences
 - `thaipod-0426` : ทั่วโลก (worldwide, around the world) : 1 meaning(s), 2 sentences
 - `thaipod-0427` : ทั่วไป, โดยทั่วไป (generally, in general) : 1 meaning(s), 2 sentences
+- `thaipod-0430` : ทั้งสิ้น (all, in total, altogether) : 1 meaning(s), 2 sentences
+- `thaipod-0431` : ทั้งหลาย (all, all of them) : 1 meaning(s), 2 sentences
+- `thaipod-0436` : ทางด้าน (in terms of, in the area of) : 1 meaning(s), 2 sentences
 - `thaipod-0437` : ทางบก (by land, on land) : 1 meaning(s), 2 sentences
 - `thaipod-0438` : ทางบ้าน (family matters, from home; (TV) the audience at home) : 2 meaning(s), 4 sentences
 - `thaipod-0442` : ทำนา (to farm rice) : 1 meaning(s), 2 sentences
+- `thaipod-0443` : ทำบุญ (to make merit, to do good deeds (Buddhist)) : 1 meaning(s), 2 sentences
 - `thaipod-0446` : ทิศ, ทิศทาง (direction) : 1 meaning(s), 2 sentences
 - `thaipod-0447` : ทิ้ง (to leave, to throw away, to discard) : 1 meaning(s), 2 sentences
 - `thaipod-0450` : ที่ตั้ง (location, position) : 1 meaning(s), 2 sentences
+- `thaipod-0451` : ที่ทราบกันดี (well-known, commonly known) : 1 meaning(s), 2 sentences
 - `thaipod-0453` : ที่ระลึก (souvenir, keepsake) : 1 meaning(s), 2 sentences
 - `thaipod-0454` : ที่รัก (beloved, darling) : 1 meaning(s), 2 sentences
+- `thaipod-0456` : ที่ว่า (that (which was mentioned), that (which is being talked about)) : 1 meaning(s), 2 sentences
+- `thaipod-0458` : ทุกชนิด (all kinds, every type) : 1 meaning(s), 2 sentences
 - `thaipod-0459` : ทุกวันนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
 - `thaipod-0462` : ท่อระบายน้ำ (drain, sewer) : 1 meaning(s), 2 sentences
 - `thaipod-0467` : ท้าย (end, at the back, rear side) : 1 meaning(s), 2 sentences

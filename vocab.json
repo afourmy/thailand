@@ -84488,6 +84488,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "it can be considered that",
+        "sentences": [
+          {
+            "thai": "ผลงานของเขาถือได้ว่าดีเยี่ยม",
+            "en": "His work can be considered excellent.",
+            "audio_src": "ผลงานของเขาถือได้ว่าดีเยี่ยม",
+            "audio_en_src": "His work can be considered excellent."
+          },
+          {
+            "thai": "วันนี้ถือได้ว่าเป็นวันที่โชคดีที่สุด",
+            "en": "Today can be considered the luckiest day.",
+            "audio_src": "วันนี้ถือได้ว่าเป็นวันที่โชคดีที่สุด",
+            "audio_en_src": "Today can be considered the luckiest day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84498,6 +84517,25 @@
     "topic": "law",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "legal, in accordance with the law",
+        "sentences": [
+          {
+            "thai": "เอกสารทุกอย่างถูกต้องตามกฎหมาย",
+            "en": "All the documents are legally valid.",
+            "audio_src": "เอกสารทุกอย่างถูกต้องตามกฎหมาย",
+            "audio_en_src": "All the documents are legally valid."
+          },
+          {
+            "thai": "ธุรกิจนี้ดำเนินการอย่างถูกต้องตามกฎหมาย",
+            "en": "This business operates in accordance with the law.",
+            "audio_src": "ธุรกิจนี้ดำเนินการอย่างถูกต้องตามกฎหมาย",
+            "audio_en_src": "This business operates in accordance with the law."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84613,6 +84651,25 @@
     "sources": [
       "Thaipod101",
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "car license plate, vehicle registration",
+        "sentences": [
+          {
+            "thai": "ตำรวจจดทะเบียนรถของผู้ต้องสงสัยไว้",
+            "en": "The police took down the suspect's license plate.",
+            "audio_src": "ตำรวจจดทะเบียนรถของผู้ต้องสงสัยไว้",
+            "audio_en_src": "The police took down the suspect's license plate."
+          },
+          {
+            "thai": "เขาไปต่อทะเบียนรถที่ขนส่ง",
+            "en": "He went to renew his vehicle registration at the transport office.",
+            "audio_src": "เขาไปต่อทะเบียนรถที่ขนส่ง",
+            "audio_en_src": "He went to renew his vehicle registration at the transport office."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84762,6 +84819,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "all, in total, altogether",
+        "sentences": [
+          {
+            "thai": "ค่าใช้จ่ายทั้งสิ้นห้าพันบาท",
+            "en": "The total cost is five thousand baht.",
+            "audio_src": "ค่าใช้จ่ายทั้งสิ้นห้าพันบาท",
+            "audio_en_src": "The total cost is five thousand baht."
+          },
+          {
+            "thai": "มีผู้เข้าร่วมงานทั้งสิ้นสองร้อยคน",
+            "en": "There were two hundred participants in total.",
+            "audio_src": "มีผู้เข้าร่วมงานทั้งสิ้นสองร้อยคน",
+            "audio_en_src": "There were two hundred participants in total."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84775,6 +84851,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "all, all of them",
+        "sentences": [
+          {
+            "thai": "พี่น้องทั้งหลายมารวมตัวกัน",
+            "en": "All the siblings gathered together.",
+            "audio_src": "พี่น้องทั้งหลายมารวมตัวกัน",
+            "audio_en_src": "All the siblings gathered together."
+          },
+          {
+            "thai": "เพื่อนๆทั้งหลายต่างมาแสดงความยินดี",
+            "en": "All his friends came to congratulate him.",
+            "audio_src": "เพื่อนๆทั้งหลายต่างมาแสดงความยินดี",
+            "audio_en_src": "All his friends came to congratulate him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84805,6 +84900,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "in terms of, in the area of",
+        "sentences": [
+          {
+            "thai": "เขาเก่งทางด้านคณิตศาสตร์",
+            "en": "He's strong in the area of mathematics.",
+            "audio_src": "เขาเก่งทางด้านคณิตศาสตร์",
+            "audio_en_src": "He's strong in the area of mathematics."
+          },
+          {
+            "thai": "บริษัทต้องการคนที่มีความรู้ทางด้านการตลาด",
+            "en": "The company wants someone with knowledge in marketing.",
+            "audio_src": "บริษัทต้องการคนที่มีความรู้ทางด้านการตลาด",
+            "audio_en_src": "The company wants someone with knowledge in marketing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84950,6 +85064,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to make merit, to do good deeds (Buddhist)",
+        "sentences": [
+          {
+            "thai": "คนไทยชอบทำบุญตักบาตรตอนเช้า",
+            "en": "Thai people like to make merit by offering food to monks in the morning.",
+            "audio_src": "คนไทยชอบทำบุญตักบาตรตอนเช้า",
+            "audio_en_src": "Thai people like to make merit by offering food to monks in the morning."
+          },
+          {
+            "thai": "วันเกิดเธอไปทำบุญที่วัด",
+            "en": "On her birthday she went to make merit at the temple.",
+            "audio_src": "วันเกิดเธอไปทำบุญที่วัด",
+            "audio_en_src": "On her birthday she went to make merit at the temple."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85072,6 +85205,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "well-known, commonly known",
+        "sentences": [
+          {
+            "thai": "อย่างที่ทราบกันดี การออกกำลังกายมีประโยชน์ต่อสุขภาพ",
+            "en": "As is well known, exercise is good for your health.",
+            "audio_src": "อย่างที่ทราบกันดี การออกกำลังกายมีประโยชน์ต่อสุขภาพ",
+            "audio_en_src": "As is well known, exercise is good for your health."
+          },
+          {
+            "thai": "เขาเป็นนักธุรกิจที่ทราบกันดีว่าใจบุญ",
+            "en": "He's a businessman well known for being generous.",
+            "audio_src": "เขาเป็นนักธุรกิจที่ทราบกันดีว่าใจบุญ",
+            "audio_en_src": "He's a businessman well known for being generous."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85148,6 +85300,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "that (which was mentioned), that (which is being talked about)",
+        "sentences": [
+          {
+            "thai": "ร้านที่ว่าอร่อยอยู่ตรงไหน",
+            "en": "Where's that restaurant you said was good?",
+            "audio_src": "ร้านที่ว่าอร่อยอยู่ตรงไหน",
+            "audio_en_src": "Where's that restaurant you said was good?"
+          },
+          {
+            "thai": "หนังสือเล่มที่ว่าฉันหาไม่เจอ",
+            "en": "I can't find that book we were talking about.",
+            "audio_src": "หนังสือเล่มที่ว่าฉันหาไม่เจอ",
+            "audio_en_src": "I can't find that book we were talking about."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85168,6 +85339,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "all kinds, every type",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีผลไม้ทุกชนิด",
+            "en": "This shop has every kind of fruit.",
+            "audio_src": "ร้านนี้มีผลไม้ทุกชนิด",
+            "audio_en_src": "This shop has every kind of fruit."
+          },
+          {
+            "thai": "เขาแพ้อาหารทะเลทุกชนิด",
+            "en": "He's allergic to all kinds of seafood.",
+            "audio_src": "เขาแพ้อาหารทะเลทุกชนิด",
+            "audio_en_src": "He's allergic to all kinds of seafood."
+          }
+        ]
+      }
     ]
   },
   {
