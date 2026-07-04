@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5272 words**
+**Total: 5282 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3520,6 +3520,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-004` : ปากดี (smart-mouthed, cheeky, sassy (e.g teasing people)) : 1 meaning(s), 2 sentences
 - `yt-c12-005` : กล่าว (to say, to state, to mention (formal)) : 1 meaning(s), 2 sentences
 - `yt-c12-008` : หิวโหย (very hungry, famished, starving (formal)) : 1 meaning(s), 2 sentences
+- `yt-c12-009` : เหน็บหนาว (bitterly cold, bone-chilling cold) : 1 meaning(s), 2 sentences
+- `yt-c12-014` : มะขาม - มะขามเทศ (tamarind - manila tamarind (fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-018` : ขนุน (jackfruit) : 1 meaning(s), 2 sentences
+- `yt-c12-019` : ลองกอง (longkong (type of fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-021` : ส้มโอ (pomelo (fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-023` : มะเฟือง (starfruit (type of fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-024` : ส้มเช้ง (mandarin orange (type of fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-026` : ละมุด (sapodilla (type of fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-027` : อบเชย (cinnamon) : 1 meaning(s), 2 sentences
+- `yt-c12-028` : ย้อนหลัง (after the fact, retroactively (e.g to send homework late, to wish a birthday late)) : 1 meaning(s), 2 sentences
 - `yt-c12-030` : เกี่ยว (related to, concerning; to harvest, to reap; to hook, to link, to entangle) : 3 meaning(s), 6 sentences
 - `yt-c12-030b` : เก็บเกี่ยว (to harvest crops (e.g rice, wheat)) : 1 meaning(s), 2 sentences
 - `yt-c12-031` : พร่อง - เต็ม - ล้น (less than full, deficient, lacking, below standard - full - more than full, overflow) : 1 meaning(s), 3 sentences

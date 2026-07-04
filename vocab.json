@@ -136850,6 +136850,25 @@
     "topic": "weather",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "bitterly cold, bone-chilling cold",
+        "sentences": [
+          {
+            "thai": "ลมหนาวพัดมาจนเหน็บหนาว",
+            "en": "The cold wind blows in, bitterly cold.",
+            "audio_src": "ลมหนาวพัดมาจนเหน็บหนาว",
+            "audio_en_src": "The cold wind blows in, bitterly cold."
+          },
+          {
+            "thai": "คืนนี้อากาศเหน็บหนาวจับใจ",
+            "en": "Tonight the weather is bone-chilling.",
+            "audio_src": "คืนนี้อากาศเหน็บหนาวจับใจ",
+            "audio_en_src": "Tonight the weather is bone-chilling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -136900,6 +136919,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "tamarind - manila tamarind (fruit)",
+        "sentences": [
+          {
+            "thai": "มะขามเปียกใช้ปรุงต้มยำ",
+            "en": "Tamarind paste is used to season tom yum.",
+            "audio_src": "มะขามเปียกใช้ปรุงต้มยำ",
+            "audio_en_src": "Tamarind paste is used to season tom yum."
+          },
+          {
+            "thai": "มะขามเทศสุกรสหวานมัน",
+            "en": "Ripe manila tamarind is sweet and creamy.",
+            "audio_src": "มะขามเทศสุกรสหวานมัน",
+            "audio_en_src": "Ripe manila tamarind is sweet and creamy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -136941,6 +136979,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "jackfruit",
+        "sentences": [
+          {
+            "thai": "ขนุนสุกหอมหวานมาก",
+            "en": "Ripe jackfruit is very fragrant and sweet.",
+            "audio_src": "ขนุนสุกหอมหวานมาก",
+            "audio_en_src": "Ripe jackfruit is very fragrant and sweet."
+          },
+          {
+            "thai": "เนื้อขนุนเหนียวหนึบ",
+            "en": "Jackfruit flesh is chewy.",
+            "audio_src": "เนื้อขนุนเหนียวหนึบ",
+            "audio_en_src": "Jackfruit flesh is chewy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -136951,6 +137008,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "longkong (type of fruit)",
+        "sentences": [
+          {
+            "thai": "ลองกองพวงนี้ลูกใหญ่",
+            "en": "This bunch of longkong has big fruit.",
+            "audio_src": "ลองกองพวงนี้ลูกใหญ่",
+            "audio_en_src": "This bunch of longkong has big fruit."
+          },
+          {
+            "thai": "ลองกองเปลือกบางปอกง่าย",
+            "en": "Longkong has a thin skin that’s easy to peel.",
+            "audio_src": "ลองกองเปลือกบางปอกง่าย",
+            "audio_en_src": "Longkong has a thin skin that’s easy to peel."
+          }
+        ]
+      }
     ]
   },
   {
@@ -136972,6 +137048,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pomelo (fruit)",
+        "sentences": [
+          {
+            "thai": "ส้มโอเนื้อสีชมพูหวานฉ่ำ",
+            "en": "Pink-fleshed pomelo is sweet and juicy.",
+            "audio_src": "ส้มโอเนื้อสีชมพูหวานฉ่ำ",
+            "audio_en_src": "Pink-fleshed pomelo is sweet and juicy."
+          },
+          {
+            "thai": "แกะส้มโอกินกับพริกเกลือ",
+            "en": "Peel the pomelo and eat it with chili salt.",
+            "audio_src": "แกะส้มโอกินกับพริกเกลือ",
+            "audio_en_src": "Peel the pomelo and eat it with chili salt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -136992,6 +137087,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "starfruit (type of fruit)",
+        "sentences": [
+          {
+            "thai": "หั่นมะเฟืองจะได้รูปดาว",
+            "en": "Slice the starfruit and you get star shapes.",
+            "audio_src": "หั่นมะเฟืองจะได้รูปดาว",
+            "audio_en_src": "Slice the starfruit and you get star shapes."
+          },
+          {
+            "thai": "น้ำมะเฟืองเปรี้ยวสดชื่น",
+            "en": "Starfruit juice is sour and refreshing.",
+            "audio_src": "น้ำมะเฟืองเปรี้ยวสดชื่น",
+            "audio_en_src": "Starfruit juice is sour and refreshing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137002,6 +137116,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "mandarin orange (type of fruit)",
+        "sentences": [
+          {
+            "thai": "ตรุษจีนนิยมไหว้ด้วยส้มเช้ง",
+            "en": "At Chinese New Year people offer mandarin oranges.",
+            "audio_src": "ตรุษจีนนิยมไหว้ด้วยส้มเช้ง",
+            "audio_en_src": "At Chinese New Year people offer mandarin oranges."
+          },
+          {
+            "thai": "ส้มเช้งลูกนี้หวานไม่มีเมล็ด",
+            "en": "This mandarin is sweet and seedless.",
+            "audio_src": "ส้มเช้งลูกนี้หวานไม่มีเมล็ด",
+            "audio_en_src": "This mandarin is sweet and seedless."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137023,6 +137156,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sapodilla (type of fruit)",
+        "sentences": [
+          {
+            "thai": "ละมุดสุกเนื้อนุ่มหวาน",
+            "en": "Ripe sapodilla is soft and sweet.",
+            "audio_src": "ละมุดสุกเนื้อนุ่มหวาน",
+            "audio_en_src": "Ripe sapodilla is soft and sweet."
+          },
+          {
+            "thai": "ปอกเปลือกละมุดก่อนกิน",
+            "en": "Peel the sapodilla before eating.",
+            "audio_src": "ปอกเปลือกละมุดก่อนกิน",
+            "audio_en_src": "Peel the sapodilla before eating."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137033,6 +137185,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cinnamon",
+        "sentences": [
+          {
+            "thai": "โรยผงอบเชยบนกาแฟ",
+            "en": "Sprinkle cinnamon powder on the coffee.",
+            "audio_src": "โรยผงอบเชยบนกาแฟ",
+            "audio_en_src": "Sprinkle cinnamon powder on the coffee."
+          },
+          {
+            "thai": "อบเชยมีกลิ่นหอมเฉพาะตัว",
+            "en": "Cinnamon has a distinctive fragrance.",
+            "audio_src": "อบเชยมีกลิ่นหอมเฉพาะตัว",
+            "audio_en_src": "Cinnamon has a distinctive fragrance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137043,6 +137214,25 @@
     "topic": "time",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "after the fact, retroactively (e.g to send homework late, to wish a birthday late)",
+        "sentences": [
+          {
+            "thai": "ครูให้ส่งการบ้านย้อนหลังได้",
+            "en": "The teacher lets us hand in homework late.",
+            "audio_src": "ครูให้ส่งการบ้านย้อนหลังได้",
+            "audio_en_src": "The teacher lets us hand in homework late."
+          },
+          {
+            "thai": "ขออวยพรวันเกิดย้อนหลังนะ",
+            "en": "Happy belated birthday.",
+            "audio_src": "ขออวยพรวันเกิดย้อนหลังนะ",
+            "audio_en_src": "Happy belated birthday."
+          }
+        ]
+      }
     ]
   },
   {
