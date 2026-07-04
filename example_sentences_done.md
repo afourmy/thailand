@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4793 words**
+**Total: 4803 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2134,26 +2134,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0242` : จนจบ (until the end) : 1 meaning(s), 2 sentences
 - `thaipod-0243` : จนป่านนี้ (up until now) : 1 meaning(s), 2 sentences
 - `thaipod-0247` : จัดการ (to manage, to arrange, to handle) : 1 meaning(s), 2 sentences
+- `thaipod-0250` : ถือได้ว่า, จัดได้ว่า ("can be considered", "can be regarded as") : 1 meaning(s), 2 sentences
 - `thaipod-0253` : จาง (to fade, to pale) : 1 meaning(s), 2 sentences
 - `thaipod-0256` : จำลอง (to replicate, to simulate, replica) : 1 meaning(s), 2 sentences
+- `thaipod-0258` : วิญญาณ, จิตวิญญาณ (spirit, soul) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
 - `thaipod-0263` : จุดหมาย (destination, goal) : 1 meaning(s), 2 sentences
 - `thaipod-0264` : จุดหมายปลายทาง (destination) : 1 meaning(s), 2 sentences
 - `thaipod-0265` : จ้าง, ว่าจ้าง (to hire) : 1 meaning(s), 2 sentences
 - `thaipod-0268` : ฉบับ (edition, version, copy (classifier for documents)) : 1 meaning(s), 2 sentences
+- `thaipod-0269` : ฉี่ (to pee (informal)) : 1 meaning(s), 2 sentences
 - `thaipod-0270` : ชนชาติ, เชื้อชาติ, ชาติพันธุ์ (race, ethnicity) : 1 meaning(s), 2 sentences
 - `thaipod-0271` : ชนิด (kind, type) : 1 meaning(s), 2 sentences
 - `thaipod-0272` : ชม (to admire, to compliment; to view (formal)) : 2 meaning(s), 4 sentences
 - `thaipod-0275` : ชัน (steep) : 1 meaning(s), 2 sentences
 - `thaipod-0276` : ชัยชนะ (victory) : 1 meaning(s), 2 sentences
+- `thaipod-0278` : ชายฝั่ง (coast, coastline) : 1 meaning(s), 2 sentences
 - `thaipod-0279` : ชาว (people (native from), inhabitants of) : 1 meaning(s), 2 sentences
 - `thaipod-0280` : ชาวนา (rice farmer) : 1 meaning(s), 2 sentences
 - `thaipod-0281` : ชาวบ้าน (villagers, locals, ordinary people) : 1 meaning(s), 2 sentences
 - `thaipod-0283` : ชิน (accustomed, used to) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
 - `thaipod-0286` : ชี้ (to point, to indicate) : 1 meaning(s), 2 sentences
+- `thaipod-0291` : ช่วงต้น (early period, beginning phase) : 1 meaning(s), 2 sentences
+- `thaipod-0295` : ช่างเถอะ ("forget it", "never mind") : 1 meaning(s), 2 sentences
+- `thaipod-0298` : ซองใส่เงิน (money envelope (for gifts)) : 1 meaning(s), 2 sentences
+- `thaipod-0301` : ซื่อๆ (naive, simple, innocent) : 1 meaning(s), 2 sentences
 - `thaipod-0305` : ญาติ (relative (family)) : 1 meaning(s), 2 sentences
+- `thaipod-0306` : ญาติผู้ใหญ่ (elders, elderly relatives) : 1 meaning(s), 2 sentences
 - `thaipod-0307` : ฐาน (base, pedestal) : 1 meaning(s), 2 sentences
+- `thaipod-0309` : ณ (at, in (formal preposition)) : 1 meaning(s), 2 sentences
 - `thaipod-0317` : ดัด (to bend, to straighten (e.g hair, posture)) : 1 meaning(s), 2 sentences
 - `thaipod-0319` : ดารานำชาย (male lead actor) : 1 meaning(s), 2 sentences
 - `thaipod-0320` : ดารานำแสดง (lead actor) : 1 meaning(s), 2 sentences

@@ -81443,6 +81443,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"can be considered\", \"can be regarded as\"",
+        "sentences": [
+          {
+            "thai": "เขาถือได้ว่าเป็นคนเก่งที่สุดในรุ่น",
+            "en": "He can be considered the most talented one of his year.",
+            "audio_src": "เขาถือได้ว่าเป็นคนเก่งที่สุดในรุ่น",
+            "audio_en_src": "He can be considered the most talented one of his year."
+          },
+          {
+            "thai": "งานชิ้นนี้จัดได้ว่าประสบความสำเร็จ",
+            "en": "This project can be regarded as a success.",
+            "audio_src": "งานชิ้นนี้จัดได้ว่าประสบความสำเร็จ",
+            "audio_en_src": "This project can be regarded as a success."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81562,6 +81581,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "spirit, soul",
+        "sentences": [
+          {
+            "thai": "คนโบราณเชื่อว่าคนตายแล้ววิญญาณยังอยู่",
+            "en": "People in the old days believed that after death the spirit lives on.",
+            "audio_src": "คนโบราณเชื่อว่าคนตายแล้ววิญญาณยังอยู่",
+            "audio_en_src": "People in the old days believed that after death the spirit lives on."
+          },
+          {
+            "thai": "เขาทุ่มเทจิตวิญญาณให้กับงานศิลปะ",
+            "en": "He pours his whole soul into his art.",
+            "audio_src": "เขาทุ่มเทจิตวิญญาณให้กับงานศิลปะ",
+            "audio_en_src": "He pours his whole soul into his art."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81758,6 +81796,25 @@
     "topic": "health",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to pee (informal)",
+        "sentences": [
+          {
+            "thai": "หนูปวดฉี่",
+            "en": "I need to pee.",
+            "audio_src": "หนูปวดฉี่",
+            "audio_en_src": "I need to pee."
+          },
+          {
+            "thai": "เดี๋ยวขอไปฉี่ก่อน",
+            "en": "Hold on, let me go pee first.",
+            "audio_src": "เดี๋ยวขอไปฉี่ก่อน",
+            "audio_en_src": "Hold on, let me go pee first."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81984,6 +82041,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "coast, coastline",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านชาวประมงอยู่ริมชายฝั่ง",
+            "en": "The fishing village sits along the coast.",
+            "audio_src": "หมู่บ้านชาวประมงอยู่ริมชายฝั่ง",
+            "audio_en_src": "The fishing village sits along the coast."
+          },
+          {
+            "thai": "ชายฝั่งทะเลภาคใต้สวยมาก",
+            "en": "The southern coastline is very beautiful.",
+            "audio_src": "ชายฝั่งทะเลภาคใต้สวยมาก",
+            "audio_en_src": "The southern coastline is very beautiful."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82224,6 +82300,25 @@
     "topic": "time",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "early period, beginning phase",
+        "sentences": [
+          {
+            "thai": "ช่วงต้นเดือนฉันมักจะยุ่ง",
+            "en": "I'm usually busy at the beginning of the month.",
+            "audio_src": "ช่วงต้นเดือนฉันมักจะยุ่ง",
+            "audio_en_src": "I'm usually busy at the beginning of the month."
+          },
+          {
+            "thai": "ช่วงต้นปีอากาศยังหนาวอยู่",
+            "en": "In the early part of the year it's still cold.",
+            "audio_src": "ช่วงต้นปีอากาศยังหนาวอยู่",
+            "audio_en_src": "In the early part of the year it's still cold."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82234,6 +82329,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"forget it\", \"never mind\"",
+        "sentences": [
+          {
+            "thai": "ช่างเถอะ ไม่ต้องคิดมาก",
+            "en": "Never mind, don't overthink it.",
+            "audio_src": "ช่างเถอะ ไม่ต้องคิดมาก",
+            "audio_en_src": "Never mind, don't overthink it."
+          },
+          {
+            "thai": "ช่างเถอะ เดี๋ยวฉันทำเอง",
+            "en": "Forget it, I'll just do it myself.",
+            "audio_src": "ช่างเถอะ เดี๋ยวฉันทำเอง",
+            "audio_en_src": "Forget it, I'll just do it myself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82255,6 +82369,25 @@
     "topic": "culture",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "money envelope (for gifts)",
+        "sentences": [
+          {
+            "thai": "งานแต่งเขาให้ซองใส่เงินเป็นของขวัญ",
+            "en": "At weddings people give a money envelope as a gift.",
+            "audio_src": "งานแต่งเขาให้ซองใส่เงินเป็นของขวัญ",
+            "audio_en_src": "At weddings people give a money envelope as a gift."
+          },
+          {
+            "thai": "ผู้ใหญ่ให้ซองใส่เงินแก่เด็กๆในวันปีใหม่",
+            "en": "Elders give the kids money envelopes on New Year's.",
+            "audio_src": "ผู้ใหญ่ให้ซองใส่เงินแก่เด็กๆในวันปีใหม่",
+            "audio_en_src": "Elders give the kids money envelopes on New Year's."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82265,6 +82398,25 @@
     "topic": "personality",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "naive, simple, innocent",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนซื่อๆ ใครพูดอะไรก็เชื่อ",
+            "en": "He's naive, he believes whatever anyone tells him.",
+            "audio_src": "เขาเป็นคนซื่อๆ ใครพูดอะไรก็เชื่อ",
+            "audio_en_src": "He's naive, he believes whatever anyone tells him."
+          },
+          {
+            "thai": "หน้าตาซื่อๆแบบนี้ไม่น่าโกงใคร",
+            "en": "With such an innocent face, he doesn't look like he'd cheat anyone.",
+            "audio_src": "หน้าตาซื่อๆแบบนี้ไม่น่าโกงใคร",
+            "audio_en_src": "With such an innocent face, he doesn't look like he'd cheat anyone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82331,6 +82483,25 @@
     "topic": "family",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "elders, elderly relatives",
+        "sentences": [
+          {
+            "thai": "ไปงานต้องไหว้ญาติผู้ใหญ่ก่อน",
+            "en": "At the event you should pay respects to the elder relatives first.",
+            "audio_src": "ไปงานต้องไหว้ญาติผู้ใหญ่ก่อน",
+            "audio_en_src": "At the event you should pay respects to the elder relatives first."
+          },
+          {
+            "thai": "ญาติผู้ใหญ่มักให้คำแนะนำที่ดี",
+            "en": "Elderly relatives often give good advice.",
+            "audio_src": "ญาติผู้ใหญ่มักให้คำแนะนำที่ดี",
+            "audio_en_src": "Elderly relatives often give good advice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82383,6 +82554,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "at, in (formal preposition)",
+        "sentences": [
+          {
+            "thai": "งานจัดขึ้น ณ หอประชุมใหญ่",
+            "en": "The event is held at the main auditorium.",
+            "audio_src": "งานจัดขึ้น ณ หอประชุมใหญ่",
+            "audio_en_src": "The event is held at the main auditorium."
+          },
+          {
+            "thai": "พิธีเริ่มขึ้น ณ เวลาเก้าโมงเช้า",
+            "en": "The ceremony begins at nine in the morning.",
+            "audio_src": "พิธีเริ่มขึ้น ณ เวลาเก้าโมงเช้า",
+            "audio_en_src": "The ceremony begins at nine in the morning."
+          }
+        ]
+      }
     ]
   },
   {
