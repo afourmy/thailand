@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4383 words**
+**Total: 4393 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1075,20 +1075,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-107` : รู้ใจ (to deeply know someone's feelings, thoughts) : 1 meaning(s), 2 sentences
 - `tamago-l3-108` : สุภาพบุรุษ (gentleman) : 1 meaning(s), 2 sentences
 - `tamago-l3-109` : ผ่อน (to pay by installments; to ease, to relax, to lighten, to reduce intensity) : 2 meaning(s), 4 sentences
+- `tamago-l3-111` : ตาถึง (to have a good eye, to spot quality quickly) : 1 meaning(s), 2 sentences
+- `tamago-l3-116` : ออกจะ (rather, kind of, tends to be) : 1 meaning(s), 2 sentences
 - `tamago-l3-117` : นานๆ (rarely, once in a long while) : 1 meaning(s), 2 sentences
 - `tamago-l3-118` : ประเด็น (point (of a statement), issue, topic) : 1 meaning(s), 2 sentences
+- `tamago-l3-119` : เอาอยู่ (to handle, to manage, to be able to control) : 1 meaning(s), 2 sentences
 - `tamago-l3-120` : ประเทศเพื่อนบ้าน (neighboring country) : 1 meaning(s), 2 sentences
 - `tamago-l3-121` : ตี (to hit, to beat; to estimate a price) : 2 meaning(s), 4 sentences
+- `tamago-l3-122` : จิปาถะ (miscellaneous, all sorts of things) : 1 meaning(s), 2 sentences
+- `tamago-l3-123` : หมดตูด (to be broke, to have no money (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-124` : ถนัด (skilled at, good at, proficient in, familiar with) : 1 meaning(s), 2 sentences
 - `tamago-l3-125` : ชิง (to compete for; to seize, to snatch) : 2 meaning(s), 4 sentences
 - `tamago-l3-126` : ใส่ใจ (to pay attention, to care for) : 1 meaning(s), 2 sentences
+- `tamago-l3-127` : ปากหวาน (sweet talker, to flatter (literally sweet mouth)) : 1 meaning(s), 2 sentences
 - `tamago-l3-128` : แซว (to tease someone (lightly)) : 1 meaning(s), 2 sentences
 - `tamago-l3-129` : ขายต่อ (to resell) : 1 meaning(s), 2 sentences
 - `tamago-l3-130` : คาดไม่ถึง (unexpected, unforeseen) : 1 meaning(s), 2 sentences
 - `tamago-l3-131` : ไม่น่าเชื่อ (unbelievable, hard to believe) : 1 meaning(s), 2 sentences
 - `tamago-l3-132` : พักร้อน (to take a vacation, summer holiday leave) : 1 meaning(s), 2 sentences
 - `tamago-l3-133` : ทำหน้าที่ (to do one's job, to be in charge of) : 1 meaning(s), 2 sentences
+- `tamago-l3-134` : คนมีเจ้าของ (person who is in a relationship (literally "person with an owner")) : 1 meaning(s), 2 sentences
+- `tamago-l3-135` : ชาติก่อน (previous life) : 1 meaning(s), 2 sentences
+- `tamago-l3-136` : หุ้นส่วน (business partner) : 1 meaning(s), 2 sentences
 - `tamago-l3-137` : จังหวะ (timing, rhythm, beat; moment, opportunity) : 2 meaning(s), 4 sentences
+- `tamago-l3-139` : เผลอๆ ("might even", "it wouldn't be surprising if") : 1 meaning(s), 2 sentences
 - `tamago-l3-140` : ทะลุ (to go through, break through, pierce through) : 1 meaning(s), 2 sentences
 - `tamago-l3-141` : หลังคา (roof) : 1 meaning(s), 2 sentences
 - `tamago-l3-142` : สั่น (to tremble, to shake, to vibrate (phone)) : 1 meaning(s), 2 sentences
