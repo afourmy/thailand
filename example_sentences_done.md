@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4703 words**
+**Total: 4713 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1857,10 +1857,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-330` : ประนีประนอม (to compromise, to reconcile) : 1 meaning(s), 2 sentences
 - `tsl-331` : ความห่วงใย (concern, care, worry (for someone's well-being)) : 1 meaning(s), 2 sentences
 - `tsl-332` : น่าเห็นใจ (pitiful, deserving sympathy) : 1 meaning(s), 2 sentences
+- `tsl-333` : ความซาบซึ้งใจ (deep gratitude, deep appreciation (formal)) : 1 meaning(s), 2 sentences
+- `tsl-337` : โดยสาร (to be a passenger, to ride (a bus, train)) : 1 meaning(s), 2 sentences
 - `tsl-338` : ยกย่อง (to praise, to honor, to glorify) : 1 meaning(s), 2 sentences
 - `tsl-341` : ต่อต้าน (to oppose, to resist, to fight against) : 1 meaning(s), 2 sentences
 - `tsl-344` : ข้อห้าม (ban, prohibition, taboo) : 1 meaning(s), 2 sentences
+- `tsl-345` : เจ็บไข้ได้ป่วย (to fall ill, to get sick (idiomatic)) : 1 meaning(s), 2 sentences
+- `tsl-346` : น้ำมนต์ (holy water (Buddhist)) : 1 meaning(s), 2 sentences
 - `tsl-353` : จิก (to peck (bird)) : 1 meaning(s), 2 sentences
+- `tsl-354` : ทรัพย์สมบัติ (assets, property, wealth) : 1 meaning(s), 2 sentences
+- `tsl-356` : ความเย่อหยิ่ง (arrogance, haughtiness, excessive pride) : 1 meaning(s), 2 sentences
 - `tsl-357` : ความฟุ้งเฟ้อ (extravagance, wasteful luxury, excessive spending) : 1 meaning(s), 2 sentences
 - `tsl-359` : สาระสำคัญ (main point, gist, crux (of a story)) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
@@ -1869,11 +1875,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-368` : แผนการ (plan, project, scheme) : 1 meaning(s), 2 sentences
 - `tsl-372` : เสรีภาพในการแสดงออก (freedom of expression) : 1 meaning(s), 2 sentences
 - `tsl-373` : สูด (to inhale, to breathe in) : 1 meaning(s), 2 sentences
+- `tsl-374` : ลมหายใจ (breath) : 1 meaning(s), 2 sentences
 - `tsl-375` : แปลกปลอม (foreign, out-of-place, alien) : 1 meaning(s), 2 sentences
 - `tsl-380` : กาลเทศะ (sense of appropriate time and place, propriety) : 1 meaning(s), 2 sentences
 - `tsl-381` : ผลการเรียน (academic results, grades, transcript) : 1 meaning(s), 2 sentences
+- `tsl-382` : แซง (to overtake (a vehicle in traffic)) : 1 meaning(s), 2 sentences
 - `tsl-383` : ตอบสนอง (to respond, to react to) : 1 meaning(s), 2 sentences
 - `tsl-384` : สั่งการ (to command, to give orders) : 1 meaning(s), 2 sentences
+- `tsl-387` : ยับยั้งชั่งใจ (to restrain oneself, to exercise self-control) : 1 meaning(s), 2 sentences
+- `tsl-388` : หวาดเสียว (thrilling, spine-chilling (fear mixed with excitement)) : 1 meaning(s), 2 sentences
 - `tsl-391` : กินจุ (to eat a lot, to be a heavy eater) : 1 meaning(s), 2 sentences
 - `tsl-395` : ขรุขระ (rough, rugged, bumpy (surface)) : 1 meaning(s), 2 sentences
 - `tsl-397` : ประกาย (spark, glimmer, gleam, to sparkle) : 1 meaning(s), 2 sentences

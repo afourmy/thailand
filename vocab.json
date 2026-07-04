@@ -70347,6 +70347,25 @@
     "topic": "emotions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "deep gratitude, deep appreciation (formal)",
+        "sentences": [
+          {
+            "thai": "เขากล่าวคำขอบคุณด้วยความซาบซึ้งใจ",
+            "en": "He gave his thanks with deep gratitude.",
+            "audio_src": "เขากล่าวคำขอบคุณด้วยความซาบซึ้งใจ",
+            "audio_en_src": "He gave his thanks with deep gratitude."
+          },
+          {
+            "thai": "จดหมายของเธอเต็มไปด้วยความซาบซึ้งใจ",
+            "en": "Her letter was full of heartfelt gratitude.",
+            "audio_src": "จดหมายของเธอเต็มไปด้วยความซาบซึ้งใจ",
+            "audio_en_src": "Her letter was full of heartfelt gratitude."
+          }
+        ]
+      }
     ]
   },
   {
@@ -70378,6 +70397,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be a passenger, to ride (a bus, train)",
+        "sentences": [
+          {
+            "thai": "เขาโดยสารรถไฟไปเชียงใหม่",
+            "en": "He took the train to Chiang Mai.",
+            "audio_src": "เขาโดยสารรถไฟไปเชียงใหม่",
+            "audio_en_src": "He took the train to Chiang Mai."
+          },
+          {
+            "thai": "ผู้โดยสารทุกคนต้องรัดเข็มขัดนิรภัย",
+            "en": "All passengers must fasten their seatbelts.",
+            "audio_src": "ผู้โดยสารทุกคนต้องรัดเข็มขัดนิรภัย",
+            "audio_en_src": "All passengers must fasten their seatbelts."
+          }
+        ]
+      }
     ]
   },
   {
@@ -70520,6 +70558,25 @@
     "topic": "health",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to fall ill, to get sick (idiomatic)",
+        "sentences": [
+          {
+            "thai": "เวลาเจ็บไข้ได้ป่วยก็อยากมีคนดูแล",
+            "en": "When you fall ill you want someone to look after you.",
+            "audio_src": "เวลาเจ็บไข้ได้ป่วยก็อยากมีคนดูแล",
+            "audio_en_src": "When you fall ill you want someone to look after you."
+          },
+          {
+            "thai": "ช่วงนี้อากาศเปลี่ยน คนเจ็บไข้ได้ป่วยกันเยอะ",
+            "en": "The weather's changing lately, a lot of people are getting sick.",
+            "audio_src": "ช่วงนี้อากาศเปลี่ยน คนเจ็บไข้ได้ป่วยกันเยอะ",
+            "audio_en_src": "The weather's changing lately, a lot of people are getting sick."
+          }
+        ]
+      }
     ]
   },
   {
@@ -70530,6 +70587,25 @@
     "topic": "beliefs",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "holy water (Buddhist)",
+        "sentences": [
+          {
+            "thai": "พระประพรมน้ำมนต์ให้พร",
+            "en": "The monk sprinkled holy water to give a blessing.",
+            "audio_src": "พระประพรมน้ำมนต์ให้พร",
+            "audio_en_src": "The monk sprinkled holy water to give a blessing."
+          },
+          {
+            "thai": "คนไทยเชื่อว่าน้ำมนต์ช่วยปัดเป่าสิ่งไม่ดี",
+            "en": "Thais believe holy water wards off bad things.",
+            "audio_src": "คนไทยเชื่อว่าน้ำมนต์ช่วยปัดเป่าสิ่งไม่ดี",
+            "audio_en_src": "Thais believe holy water wards off bad things."
+          }
+        ]
+      }
     ]
   },
   {
@@ -70632,6 +70708,25 @@
     "topic": "economy",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "assets, property, wealth",
+        "sentences": [
+          {
+            "thai": "เขายกทรัพย์สมบัติทั้งหมดให้ลูก",
+            "en": "He left all his wealth to his children.",
+            "audio_src": "เขายกทรัพย์สมบัติทั้งหมดให้ลูก",
+            "audio_en_src": "He left all his wealth to his children."
+          },
+          {
+            "thai": "ทรัพย์สมบัติซื้อความสุขไม่ได้เสมอไป",
+            "en": "Wealth can't always buy happiness.",
+            "audio_src": "ทรัพย์สมบัติซื้อความสุขไม่ได้เสมอไป",
+            "audio_en_src": "Wealth can't always buy happiness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -70653,6 +70748,25 @@
     "topic": "personality",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "arrogance, haughtiness, excessive pride",
+        "sentences": [
+          {
+            "thai": "ความเย่อหยิ่งทำให้เขาไม่มีเพื่อน",
+            "en": "His arrogance left him with no friends.",
+            "audio_src": "ความเย่อหยิ่งทำให้เขาไม่มีเพื่อน",
+            "audio_en_src": "His arrogance left him with no friends."
+          },
+          {
+            "thai": "ฉันไม่ชอบความเย่อหยิ่งของเขาเลย",
+            "en": "I don't like his arrogance at all.",
+            "audio_src": "ฉันไม่ชอบความเย่อหยิ่งของเขาเลย",
+            "audio_en_src": "I don't like his arrogance at all."
+          }
+        ]
+      }
     ]
   },
   {
@@ -70995,6 +71109,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "breath",
+        "sentences": [
+          {
+            "thai": "สูดลมหายใจลึกๆแล้วค่อยๆผ่อนออก",
+            "en": "Take a deep breath and slowly let it out.",
+            "audio_src": "สูดลมหายใจลึกๆแล้วค่อยๆผ่อนออก",
+            "audio_en_src": "Take a deep breath and slowly let it out."
+          },
+          {
+            "thai": "เธอกลั้นลมหายใจตอนดำน้ำ",
+            "en": "She held her breath while diving underwater.",
+            "audio_src": "เธอกลั้นลมหายใจตอนดำน้ำ",
+            "audio_en_src": "She held her breath while diving underwater."
+          }
+        ]
+      }
     ]
   },
   {
@@ -71142,6 +71275,25 @@
       "TSL Chiang Mai",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to overtake (a vehicle in traffic)",
+        "sentences": [
+          {
+            "thai": "รถคันนั้นแซงมาแบบอันตราย",
+            "en": "That car overtook dangerously.",
+            "audio_src": "รถคันนั้นแซงมาแบบอันตราย",
+            "audio_en_src": "That car overtook dangerously."
+          },
+          {
+            "thai": "ห้ามแซงในทางโค้ง",
+            "en": "No overtaking on curves.",
+            "audio_src": "ห้ามแซงในทางโค้ง",
+            "audio_en_src": "No overtaking on curves."
+          }
+        ]
+      }
     ]
   },
   {
@@ -71240,6 +71392,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to restrain oneself, to exercise self-control",
+        "sentences": [
+          {
+            "thai": "เขายับยั้งชั่งใจไม่ให้โกรธ",
+            "en": "He held himself back from getting angry.",
+            "audio_src": "เขายับยั้งชั่งใจไม่ให้โกรธ",
+            "audio_en_src": "He held himself back from getting angry."
+          },
+          {
+            "thai": "ต้องรู้จักยับยั้งชั่งใจเวลาอยากซื้อของ",
+            "en": "You have to exercise self-control when you feel like shopping.",
+            "audio_src": "ต้องรู้จักยับยั้งชั่งใจเวลาอยากซื้อของ",
+            "audio_en_src": "You have to exercise self-control when you feel like shopping."
+          }
+        ]
+      }
     ]
   },
   {
@@ -71250,6 +71421,25 @@
     "topic": "emotions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "thrilling, spine-chilling (fear mixed with excitement)",
+        "sentences": [
+          {
+            "thai": "เล่นรถไฟเหาะแล้วหวาดเสียวมาก",
+            "en": "Riding the roller coaster was so thrilling.",
+            "audio_src": "เล่นรถไฟเหาะแล้วหวาดเสียวมาก",
+            "audio_en_src": "Riding the roller coaster was so thrilling."
+          },
+          {
+            "thai": "ฉากไล่ล่าในหนังทำให้รู้สึกหวาดเสียว",
+            "en": "The chase scene in the movie was spine-chilling.",
+            "audio_src": "ฉากไล่ล่าในหนังทำให้รู้สึกหวาดเสียว",
+            "audio_en_src": "The chase scene in the movie was spine-chilling."
+          }
+        ]
+      }
     ]
   },
   {
