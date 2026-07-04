@@ -127804,6 +127804,25 @@
     "topic": "beliefs",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "temple hall",
+        "sentences": [
+          {
+            "thai": "งานบุญจัดที่ศาลาวัด",
+            "en": "The merit-making event is held at the temple hall.",
+            "audio_src": "งานบุญจัดที่ศาลาวัด",
+            "audio_en_src": "The merit-making event is held at the temple hall."
+          },
+          {
+            "thai": "คนมานั่งฟังพระเทศน์ในศาลาวัด",
+            "en": "People sit and listen to the monk’s sermon in the temple hall.",
+            "audio_src": "คนมานั่งฟังพระเทศน์ในศาลาวัด",
+            "audio_en_src": "People sit and listen to the monk’s sermon in the temple hall."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128039,6 +128058,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "passenger bus terminal",
+        "sentences": [
+          {
+            "thai": "รถทัวร์ออกจากสถานีขนส่งผู้โดยสารตอนเช้า",
+            "en": "The coach leaves the bus terminal in the morning.",
+            "audio_src": "รถทัวร์ออกจากสถานีขนส่งผู้โดยสารตอนเช้า",
+            "audio_en_src": "The coach leaves the bus terminal in the morning."
+          },
+          {
+            "thai": "ไปรอเพื่อนที่สถานีขนส่งผู้โดยสาร",
+            "en": "I went to wait for my friend at the bus terminal.",
+            "audio_src": "ไปรอเพื่อนที่สถานีขนส่งผู้โดยสาร",
+            "audio_en_src": "I went to wait for my friend at the bus terminal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128080,6 +128118,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "innocent, naive, pure",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้มีแววตาใสซื่อ",
+            "en": "This kid has innocent eyes.",
+            "audio_src": "เด็กคนนี้มีแววตาใสซื่อ",
+            "audio_en_src": "This kid has innocent eyes."
+          },
+          {
+            "thai": "เขาใสซื่อเกินไปจนโดนหลอกบ่อย",
+            "en": "He’s too naive, so he gets tricked often.",
+            "audio_src": "เขาใสซื่อเกินไปจนโดนหลอกบ่อย",
+            "audio_en_src": "He’s too naive, so he gets tricked often."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128184,6 +128241,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "suspicious, paranoid (formal)",
+        "sentences": [
+          {
+            "thai": "หลังถูกหลอกเขาเริ่มหวาดระแวงคนอื่น",
+            "en": "After being deceived, he became suspicious of others.",
+            "audio_src": "หลังถูกหลอกเขาเริ่มหวาดระแวงคนอื่น",
+            "audio_en_src": "After being deceived, he became suspicious of others."
+          },
+          {
+            "thai": "เธอหวาดระแวงว่าจะมีคนตามมา",
+            "en": "She was paranoid that someone was following her.",
+            "audio_src": "เธอหวาดระแวงว่าจะมีคนตามมา",
+            "audio_en_src": "She was paranoid that someone was following her."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128194,6 +128270,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "bank book",
+        "sentences": [
+          {
+            "thai": "ฉันทำสมุดบัญชีหาย",
+            "en": "I lost my bank book.",
+            "audio_src": "ฉันทำสมุดบัญชีหาย",
+            "audio_en_src": "I lost my bank book."
+          },
+          {
+            "thai": "เอาสมุดบัญชีไปปรับยอดที่ธนาคาร",
+            "en": "Take the bank book to update the balance at the bank.",
+            "audio_src": "เอาสมุดบัญชีไปปรับยอดที่ธนาคาร",
+            "audio_en_src": "Take the bank book to update the balance at the bank."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128205,6 +128300,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "investment fund (like SET50 or SET100, equivalent of S&P500 in Thailand)",
+        "sentences": [
+          {
+            "thai": "เขาลงทุนในกองทุนหุ้นทุกเดือน",
+            "en": "He invests in a stock fund every month.",
+            "audio_src": "เขาลงทุนในกองทุนหุ้นทุกเดือน",
+            "audio_en_src": "He invests in a stock fund every month."
+          },
+          {
+            "thai": "กองทุนนี้ให้ผลตอบแทนดี",
+            "en": "This fund gives good returns.",
+            "audio_src": "กองทุนนี้ให้ผลตอบแทนดี",
+            "audio_en_src": "This fund gives good returns."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128216,6 +128330,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "loan, credit (e.g to buy a house)",
+        "sentences": [
+          {
+            "thai": "เขาขอสินเชื่อบ้านกับธนาคาร",
+            "en": "He applied for a home loan with the bank.",
+            "audio_src": "เขาขอสินเชื่อบ้านกับธนาคาร",
+            "audio_en_src": "He applied for a home loan with the bank."
+          },
+          {
+            "thai": "ธนาคารอนุมัติสินเชื่อให้แล้ว",
+            "en": "The bank approved the loan.",
+            "audio_src": "ธนาคารอนุมัติสินเชื่อให้แล้ว",
+            "audio_en_src": "The bank approved the loan."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128372,6 +128505,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "garage, car repair shop",
+        "sentences": [
+          {
+            "thai": "รถเสียเลยเอาไปเข้าอู่ซ่อมรถ",
+            "en": "The car broke down, so I took it to the repair shop.",
+            "audio_src": "รถเสียเลยเอาไปเข้าอู่ซ่อมรถ",
+            "audio_en_src": "The car broke down, so I took it to the repair shop."
+          },
+          {
+            "thai": "อู่ซ่อมรถแถวนี้ฝีมือดี",
+            "en": "The repair shops around here do good work.",
+            "audio_src": "อู่ซ่อมรถแถวนี้ฝีมือดี",
+            "audio_en_src": "The repair shops around here do good work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128465,6 +128617,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to grind finely, finely ground (powder, chili, etc)",
+        "sentences": [
+          {
+            "thai": "บดพริกแห้งให้ละเอียด",
+            "en": "Grind the dried chili finely.",
+            "audio_src": "บดพริกแห้งให้ละเอียด",
+            "audio_en_src": "Grind the dried chili finely."
+          },
+          {
+            "thai": "กาแฟบดละเอียดชงง่าย",
+            "en": "Finely ground coffee is easy to brew.",
+            "audio_src": "กาแฟบดละเอียดชงง่าย",
+            "audio_en_src": "Finely ground coffee is easy to brew."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128567,6 +128738,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "root",
+        "sentences": [
+          {
+            "thai": "ต้นไม้ใหญ่มีรากลึก",
+            "en": "Big trees have deep roots.",
+            "audio_src": "ต้นไม้ใหญ่มีรากลึก",
+            "audio_en_src": "Big trees have deep roots."
+          },
+          {
+            "thai": "รากของต้นนี้ชอนไชท่อน้ำ",
+            "en": "The roots of this tree grew into the water pipe.",
+            "audio_src": "รากของต้นนี้ชอนไชท่อน้ำ",
+            "audio_en_src": "The roots of this tree grew into the water pipe."
+          }
+        ]
+      }
     ]
   },
   {

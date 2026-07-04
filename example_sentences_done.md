@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5162 words**
+**Total: 5172 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3321,20 +3321,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-091` : น้ำจืด (fresh water (from rivers, lake, so not salty)) : 1 meaning(s), 2 sentences
 - `yt-c06-093` : ปลาร้า (fermented fish) : 1 meaning(s), 2 sentences
 - `yt-c06-095` : ชนชั้นสูง (upper class, elite class) : 1 meaning(s), 2 sentences
+- `yt-c06-097` : ศาลาวัด (temple hall) : 1 meaning(s), 2 sentences
 - `yt-c07-002` : ไฟแช็ค (lighter) : 1 meaning(s), 2 sentences
 - `yt-c07-012` : ผุ (to decay, to rot, to deteriorate, rotten) : 1 meaning(s), 2 sentences
 - `yt-c07-013` : ต่อเติม (to extend, to add on, to renovate (by expansion)) : 1 meaning(s), 2 sentences
+- `yt-c07-014` : สถานีขนส่งผู้โดยสาร (บขส) (passenger bus terminal) : 1 meaning(s), 2 sentences
 - `yt-c07-015` : ติดแท็ก (to tag (e.g a photo, a luggage)) : 1 meaning(s), 2 sentences
+- `yt-c07-016` : ใสซื่อ (innocent, naive, pure) : 1 meaning(s), 2 sentences
 - `yt-c07-017` : ยืนกราน (to insist, to maintain firmly, to stand one's ground) : 1 meaning(s), 2 sentences
 - `yt-c07-018` : ใช้งาน (to make use of, to operate) : 1 meaning(s), 2 sentences
 - `yt-c07-019` : ขาดหาย (missing, lost, to disappear) : 1 meaning(s), 2 sentences
+- `yt-c07-020` : หวาดระแวง (suspicious, paranoid (formal)) : 1 meaning(s), 2 sentences
+- `yt-c07-021` : สมุดบัญชี (bank book) : 1 meaning(s), 2 sentences
+- `yt-c07-022` : กองทุน (investment fund (like SET50 or SET100, equivalent of S&P500 in Thailand)) : 1 meaning(s), 2 sentences
+- `yt-c07-023` : สินเชื่อ (loan, credit (e.g to buy a house)) : 1 meaning(s), 2 sentences
 - `yt-c07-027` : กาง (to unfold, to spread out (e.g umbrella, map, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-028` : หนังสยองขวัญ, ภาพยนตร์สยองขวัญ (horror movie) : 1 meaning(s), 2 sentences
 - `yt-c07-029` : จุดยืน (standpoint, position, opinion (e.g in politics)) : 1 meaning(s), 2 sentences
 - `yt-c07-030` : มีสาระ (to be useful, meaningful, informative) : 1 meaning(s), 2 sentences
+- `yt-c07-031` : อู่ซ่อมรถ (garage, car repair shop) : 1 meaning(s), 2 sentences
 - `yt-c07-035` : กวัก, กวักมือ (to beckon, to gesture someone to come closer) : 1 meaning(s), 2 sentences
 - `yt-c07-036` : ขาตั้ง (tripod, (supporting) stand (of a motosai, camera, etc)) : 1 meaning(s), 2 sentences
+- `yt-c07-038` : บดละเอียด (to grind finely, finely ground (powder, chili, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-044` : ที่มาที่ไป (origin, history, background, how something came to be) : 1 meaning(s), 2 sentences
+- `yt-c07-046` : ราก (root) : 1 meaning(s), 2 sentences
 - `yt-c07-051` : ใส (clear, transparent) : 1 meaning(s), 2 sentences
 - `yt-c07-056` : ถ่ายเอกสาร (to photocopy a document) : 1 meaning(s), 2 sentences
 - `yt-c07-058` : สบู่ก้อน (bar soap) : 1 meaning(s), 2 sentences
