@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4453 words**
+**Total: 4463 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1266,15 +1266,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-367` : ตาบอดสี (colorblind) : 1 meaning(s), 2 sentences
 - `tamago-l3-368` : คิดออก (to figure out, to come up with (an idea)) : 1 meaning(s), 2 sentences
 - `tamago-l3-370` : โผล่ (to appear, to emerge, to pop up) : 1 meaning(s), 2 sentences
+- `tamago-l3-371` : ของสด (fresh food, raw meat or vegetables) : 1 meaning(s), 2 sentences
+- `tamago-l3-372` : โดยใช่เหตุ (unreasonably, unnecessarily, for no good reason) : 1 meaning(s), 2 sentences
+- `tamago-l3-374` : ผักบุ้ง (water spinach, morning glory (vegetable)) : 1 meaning(s), 2 sentences
 - `tamago-l3-375` : จองคิว (to reserve a place in line, to book a slot) : 1 meaning(s), 2 sentences
 - `tamago-l3-376` : อู้ (to slack off, to procrastinate, to skive) : 1 meaning(s), 2 sentences
+- `tamago-l3-377` : อู้ไปอู้มา (to waste time slacking off, to procrastinate) : 1 meaning(s), 2 sentences
 - `tamago-l3-378` : หิ้ว (to carry (by hand, with a handle)) : 1 meaning(s), 2 sentences
 - `tamago-l3-379` : แกล้งทำ (to pretend, to act as if) : 1 meaning(s), 2 sentences
+- `tamago-l3-381` : สุกี้ (Thai-style hot pot (sukiyaki)) : 1 meaning(s), 2 sentences
 - `tamago-l3-382` : ยาวเหยียด (long (used for a queue, line)) : 1 meaning(s), 2 sentences
 - `tamago-l3-385` : ทุเรศ (shameful, disgraceful) : 1 meaning(s), 2 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences
+- `tamago-l3-387` : ทีละเล็กทีละน้อย (bit by bit, little by little) : 1 meaning(s), 2 sentences
+- `tamago-l3-388` : จุก (sharp pain in chest or stomach (tight chest, bloated stomach, etc)) : 1 meaning(s), 2 sentences
+- `tamago-l3-391` : จ้องจับผิด (to watch attentively for someone's mistakes, to try to fault them) : 1 meaning(s), 2 sentences
 - `tamago-l3-392` : เข็ด (to learn one's lesson (after a bad experience), to be wary) : 1 meaning(s), 2 sentences
 - `tamago-l3-393` : จะจะ (very obviously, clearly, "right in front of you") : 1 meaning(s), 2 sentences
+- `tamago-l3-394` : กึ่ง (half, semi-) : 1 meaning(s), 2 sentences
 - `tamago-l3-396` : คร่าวๆ (roughly, approximately) : 1 meaning(s), 2 sentences
 - `tamago-l3-397` : เกี่ยง (to avoid taking responsibility for a task and try to shift it to others) : 1 meaning(s), 2 sentences
 - `tamago-l3-398` : กล่อม (to persuade gently, to soothe; to sing a lullaby) : 2 meaning(s), 4 sentences
@@ -1284,6 +1293,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-403` : อดใจ (to resist the urge, to hold back) : 1 meaning(s), 2 sentences
 - `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
 - `tamago-l3-405` : ดัดแปลง (to modify, to adapt, to alter) : 1 meaning(s), 2 sentences
+- `tamago-l3-406` : เป็นระเบียบ (orderly, neatly organized) : 1 meaning(s), 2 sentences
 - `tamago-l3-409` : สม, สมกับ (worthy of, matching, befitting) : 1 meaning(s), 2 sentences
 - `tamago-l3-410` : คำร่ำลือ (reputation, hearsay, rumor, what people say) : 1 meaning(s), 2 sentences
 - `tamago-l3-411` : ...สุดๆไปเลย (insanely, extremely) : 1 meaning(s), 2 sentences
