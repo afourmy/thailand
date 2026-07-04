@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5112 words**
+**Total: 5122 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3210,6 +3210,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-055` : กิจการ (business, enterprise) : 1 meaning(s), 2 sentences
 - `yt-c04-056` : ตาชั่ง (balance, weighting scale) : 1 meaning(s), 2 sentences
 - `yt-c04-060` : ริน (to pour gently, to pour slowly) : 1 meaning(s), 2 sentences
+- `yt-c04-066` : ปลาทู (mackerel) : 1 meaning(s), 2 sentences
+- `yt-c04-067` : หอยแมลงภู่ (mussel) : 1 meaning(s), 2 sentences
+- `yt-c04-068` : หอยแครง (blood cockle) : 1 meaning(s), 2 sentences
+- `yt-c04-069` : หมูบด (minced pork) : 1 meaning(s), 2 sentences
+- `yt-c04-070` : ต้นหอม (scallion, green onion) : 1 meaning(s), 2 sentences
+- `yt-c04-071` : กระเพรา (holy basil) : 1 meaning(s), 2 sentences
+- `yt-c04-073` : ข้าวโพดอ่อน (baby corn) : 1 meaning(s), 2 sentences
+- `yt-c04-075` : มังคุด (mangosteen) : 1 meaning(s), 2 sentences
+- `yt-c04-076` : เงาะ (rambutan) : 1 meaning(s), 2 sentences
+- `yt-c04-080` : ราง (track, rail) : 1 meaning(s), 2 sentences
 - `yt-c04-081` : กระบะ (container, tray (e.g at airport security)) : 1 meaning(s), 2 sentences
 - `yt-c04-082` : สะพาย (to carry over the shoulder (e.g a bag)) : 1 meaning(s), 2 sentences
 - `yt-c04-083` : กระเป๋าสะพาย (shoulder bag) : 1 meaning(s), 2 sentences
