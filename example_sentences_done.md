@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4343 words**
+**Total: 4353 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -965,10 +965,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-005` : สายรุ้ง, รุ้ง, รุ้งกินน้ำ (rainbow) : 1 meaning(s), 2 sentences
 - `thai9k-007` : เส้นประสาท (nerve) : 1 meaning(s), 2 sentences
 - `thai9k-012` : ไฝ (mole) : 1 meaning(s), 2 sentences
+- `thai9k-013` : ปาน (birthmark) : 1 meaning(s), 2 sentences
 - `thai9k-014` : ผูกเชือกรองเท้า (to tie one's shoelaces) : 1 meaning(s), 2 sentences
 - `thai9k-015` : ที่ตัดเล็บ (nail clipper) : 1 meaning(s), 2 sentences
+- `thai9k-017` : หมากฝรั่ง (chewing gum) : 1 meaning(s), 2 sentences
+- `thai9k-018` : สุรา (liquor, spirits (alcohol)) : 1 meaning(s), 2 sentences
 - `thai9k-019` : หัวหอม (onion) : 1 meaning(s), 2 sentences
+- `thai9k-023` : ลูกเกด (raisin) : 1 meaning(s), 2 sentences
+- `thai9k-024` : เจ ("jay" diet (strict Buddhist vegan: no animal products and no pungent vegetables like garlic or onion)) : 1 meaning(s), 2 sentences
+- `thai9k-026` : หย่า (to divorce) : 1 meaning(s), 2 sentences
 - `thai9k-028` : กำยำ (muscular, well-built) : 1 meaning(s), 2 sentences
+- `thai9k-029` : สง่า, สง่างาม (majestic, graceful, elegant) : 1 meaning(s), 2 sentences
+- `thai9k-030` : เปลเด็ก (cradle, baby crib) : 1 meaning(s), 2 sentences
+- `thai9k-031` : จุกนมหลอก (pacifier) : 1 meaning(s), 2 sentences
+- `thai9k-033` : ละอายใจ (to feel ashamed of oneself, to feel remorse) : 1 meaning(s), 2 sentences
 - `thai9k-037` : หลงเชื่อ (to be fooled into believing, be gullible enough to believe) : 1 meaning(s), 2 sentences
 - `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
 - `thai9k-040` : ปริศนา (riddle, puzzle, mystery) : 1 meaning(s), 2 sentences

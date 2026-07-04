@@ -38534,6 +38534,25 @@
       "Thai 9000",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "birthmark",
+        "sentences": [
+          {
+            "thai": "เขามีปานที่แขน",
+            "en": "He has a birthmark on his arm.",
+            "audio_src": "เขามีปานที่แขน",
+            "audio_en_src": "He has a birthmark on his arm."
+          },
+          {
+            "thai": "ปานนี้มีมาตั้งแต่เกิด",
+            "en": "I've had this birthmark since birth.",
+            "audio_src": "ปานนี้มีมาตั้งแต่เกิด",
+            "audio_en_src": "I've had this birthmark since birth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38619,6 +38638,25 @@
     "topic": "food",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "chewing gum",
+        "sentences": [
+          {
+            "thai": "เธอชอบเคี้ยวหมากฝรั่ง",
+            "en": "She likes chewing gum.",
+            "audio_src": "เธอชอบเคี้ยวหมากฝรั่ง",
+            "audio_en_src": "She likes chewing gum."
+          },
+          {
+            "thai": "ขอหมากฝรั่งชิ้นนึงได้ไหม",
+            "en": "Can I have a piece of gum?",
+            "audio_src": "ขอหมากฝรั่งชิ้นนึงได้ไหม",
+            "audio_en_src": "Can I have a piece of gum?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -38631,6 +38669,25 @@
       "Thai 9000",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "liquor, spirits (alcohol)",
+        "sentences": [
+          {
+            "thai": "ห้ามขายสุราให้เด็ก",
+            "en": "Selling liquor to minors is prohibited.",
+            "audio_src": "ห้ามขายสุราให้เด็ก",
+            "audio_en_src": "Selling liquor to minors is prohibited."
+          },
+          {
+            "thai": "ร้านนี้ไม่จำหน่ายสุรา",
+            "en": "This shop does not sell liquor.",
+            "audio_src": "ร้านนี้ไม่จำหน่ายสุรา",
+            "audio_en_src": "This shop does not sell liquor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38696,6 +38753,25 @@
     "sources": [
       "Thai 9000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "raisin",
+        "sentences": [
+          {
+            "thai": "ขนมปังนี้มีลูกเกด",
+            "en": "This bread has raisins in it.",
+            "audio_src": "ขนมปังนี้มีลูกเกด",
+            "audio_en_src": "This bread has raisins in it."
+          },
+          {
+            "thai": "ฉันไม่ชอบลูกเกด",
+            "en": "I don't like raisins.",
+            "audio_src": "ฉันไม่ชอบลูกเกด",
+            "audio_en_src": "I don't like raisins."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38707,6 +38783,25 @@
     "sources": [
       "Thai 9000",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"jay\" diet (strict Buddhist vegan: no animal products and no pungent vegetables like garlic or onion)",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ฉันกินเจ",
+            "en": "I'm eating vegan these days.",
+            "audio_src": "ช่วงนี้ฉันกินเจ",
+            "audio_en_src": "I'm eating vegan these days."
+          },
+          {
+            "thai": "เทศกาลกินเจเริ่มแล้ว",
+            "en": "The vegetarian festival has started.",
+            "audio_src": "เทศกาลกินเจเริ่มแล้ว",
+            "audio_en_src": "The vegetarian festival has started."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38729,6 +38824,25 @@
       "Thai 9000",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to divorce",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ของเขาหย่ากัน",
+            "en": "His parents got divorced.",
+            "audio_src": "พ่อแม่ของเขาหย่ากัน",
+            "audio_en_src": "His parents got divorced."
+          },
+          {
+            "thai": "เธอเพิ่งหย่ากับสามี",
+            "en": "She just divorced her husband.",
+            "audio_src": "เธอเพิ่งหย่ากับสามี",
+            "audio_en_src": "She just divorced her husband."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38783,6 +38897,25 @@
       "Thai 9000",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "majestic, graceful, elegant",
+        "sentences": [
+          {
+            "thai": "เธอเดินอย่างสง่างาม",
+            "en": "She walks gracefully.",
+            "audio_src": "เธอเดินอย่างสง่างาม",
+            "audio_en_src": "She walks gracefully."
+          },
+          {
+            "thai": "ช้างตัวนี้ดูสง่างามมาก",
+            "en": "This elephant looks so majestic.",
+            "audio_src": "ช้างตัวนี้ดูสง่างามมาก",
+            "audio_en_src": "This elephant looks so majestic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38793,6 +38926,25 @@
     "topic": "family",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "cradle, baby crib",
+        "sentences": [
+          {
+            "thai": "ลูกน้อยหลับอยู่ในเปลเด็ก",
+            "en": "The baby is sleeping in the crib.",
+            "audio_src": "ลูกน้อยหลับอยู่ในเปลเด็ก",
+            "audio_en_src": "The baby is sleeping in the crib."
+          },
+          {
+            "thai": "เราซื้อเปลเด็กใหม่",
+            "en": "We bought a new baby crib.",
+            "audio_src": "เราซื้อเปลเด็กใหม่",
+            "audio_en_src": "We bought a new baby crib."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38803,6 +38955,25 @@
     "topic": "family",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "pacifier",
+        "sentences": [
+          {
+            "thai": "ทารกชอบดูดจุกนมหลอก",
+            "en": "The baby likes sucking on the pacifier.",
+            "audio_src": "ทารกชอบดูดจุกนมหลอก",
+            "audio_en_src": "The baby likes sucking on the pacifier."
+          },
+          {
+            "thai": "จุกนมหลอกหล่นพื้นแล้ว",
+            "en": "The pacifier fell on the floor.",
+            "audio_src": "จุกนมหลอกหล่นพื้นแล้ว",
+            "audio_en_src": "The pacifier fell on the floor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38823,6 +38994,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel ashamed of oneself, to feel remorse",
+        "sentences": [
+          {
+            "thai": "เขารู้สึกละอายใจกับสิ่งที่ทำ",
+            "en": "He feels ashamed of what he did.",
+            "audio_src": "เขารู้สึกละอายใจกับสิ่งที่ทำ",
+            "audio_en_src": "He feels ashamed of what he did."
+          },
+          {
+            "thai": "ฉันละอายใจที่โกหกเธอ",
+            "en": "I feel ashamed for lying to you.",
+            "audio_src": "ฉันละอายใจที่โกหกเธอ",
+            "audio_en_src": "I feel ashamed for lying to you."
+          }
+        ]
+      }
     ]
   },
   {
