@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4873 words**
+**Total: 4883 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2396,9 +2396,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0835` : ระหว่าง (during, between) : 2 meaning(s), 4 sentences
 - `thaipod-0836` : ระหว่างทาง (on the way, along the way) : 1 meaning(s), 2 sentences
 - `thaipod-0841` : รัฐ (state (political)) : 1 meaning(s), 2 sentences
+- `thaipod-0842` : รัฐธรรมนูญ (constitution) : 1 meaning(s), 2 sentences
 - `thaipod-0843` : รัฐบาล (government) : 1 meaning(s), 2 sentences
 - `thaipod-0848` : รั้ว (fence, barrier) : 1 meaning(s), 2 sentences
 - `thaipod-0849` : รากฐาน (foundation, basis) : 1 meaning(s), 2 sentences
+- `thaipod-0850` : รากไม้ (tree root) : 1 meaning(s), 2 sentences
+- `thaipod-0861` : รายได้ (income) : 1 meaning(s), 2 sentences
+- `thaipod-0862` : รายได้พิเศษ (extra income, side income) : 1 meaning(s), 2 sentences
 - `thaipod-0867` : ริมทะเล (by the sea, seaside) : 1 meaning(s), 2 sentences
 - `thaipod-0871` : รุ่งเรือง (prosperous, flourishing) : 1 meaning(s), 2 sentences
 - `thaipod-0873` : รู้ทัน (to see through someone's intentions, to read someone's game) : 1 meaning(s), 2 sentences
@@ -2410,9 +2414,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0888` : ลอด (to slip through (underneath), to go under) : 1 meaning(s), 2 sentences
 - `thaipod-0890` : ลอย (to float) : 1 meaning(s), 2 sentences
 - `thaipod-0891` : ละลาย (to dissolve, to melt) : 1 meaning(s), 2 sentences
+- `thaipod-0893` : ลักลอบ (to smuggle, to do something illegally, to carry out an activity in hiding) : 1 meaning(s), 2 sentences
 - `thaipod-0899` : ลาออก (to quit, to resign) : 1 meaning(s), 2 sentences
+- `thaipod-0900` : ลำ (classifier for boats and aircraft) : 1 meaning(s), 2 sentences
+- `thaipod-0901` : ลำธาร (stream, brook, small river) : 1 meaning(s), 2 sentences
 - `thaipod-0913` : วรรณคดี, วรรณกรรม (literature) : 1 meaning(s), 2 sentences
 - `thaipod-0914` : วันจ่าย (spending day, shopping day (before a festival)) : 1 meaning(s), 2 sentences
+- `thaipod-0915` : วันรุ่งขึ้น (the next day, the following day (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0917` : วัย (age, era of life) : 1 meaning(s), 2 sentences
 - `thaipod-0918` : วัยรุ่น (teenager, adolescent) : 1 meaning(s), 2 sentences
 - `thaipod-0919` : วางแนวทาง (to set the course, to establish an approach) : 1 meaning(s), 2 sentences
@@ -2422,6 +2430,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0923` : วิธีการ (method, procedure) : 1 meaning(s), 2 sentences
 - `thaipod-0926` : วิสัยทัศน์ (vision, foresight) : 1 meaning(s), 2 sentences
 - `thaipod-0927` : วุ่น, วุ่นวาย (chaotic, busy, hectic) : 1 meaning(s), 2 sentences
+- `thaipod-0928` : ว่าแต่ว่า (by the way, "so anyway, ...") : 1 meaning(s), 2 sentences
+- `thaipod-0929` : ศตวรรษ (century) : 1 meaning(s), 2 sentences
 - `thaipod-0930` : ศพ (corpse, body) : 1 meaning(s), 2 sentences
 - `thaipod-0933` : ศาลา (pavilion, sala (open-sided structure)) : 1 meaning(s), 2 sentences
 - `thaipod-0937` : ศิลปะการต่อสู้ (martial arts) : 1 meaning(s), 2 sentences

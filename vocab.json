@@ -92270,6 +92270,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "constitution",
+        "sentences": [
+          {
+            "thai": "รัฐธรรมนูญเป็นกฎหมายสูงสุดของประเทศ",
+            "en": "The constitution is the supreme law of the country.",
+            "audio_src": "รัฐธรรมนูญเป็นกฎหมายสูงสุดของประเทศ",
+            "audio_en_src": "The constitution is the supreme law of the country."
+          },
+          {
+            "thai": "ประชาชนมีสิทธิตามรัฐธรรมนูญ",
+            "en": "Citizens have rights under the constitution.",
+            "audio_src": "ประชาชนมีสิทธิตามรัฐธรรมนูญ",
+            "audio_en_src": "Citizens have rights under the constitution."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92410,6 +92429,25 @@
     "topic": "nature",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "tree root",
+        "sentences": [
+          {
+            "thai": "รากไม้ชอนไชลงไปในดิน",
+            "en": "The tree roots spread down into the soil.",
+            "audio_src": "รากไม้ชอนไชลงไปในดิน",
+            "audio_en_src": "The tree roots spread down into the soil."
+          },
+          {
+            "thai": "รากไม้ใหญ่ดันพื้นถนนจนแตก",
+            "en": "The big tree roots pushed up and cracked the road.",
+            "audio_src": "รากไม้ใหญ่ดันพื้นถนนจนแตก",
+            "audio_en_src": "The big tree roots pushed up and cracked the road."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92517,6 +92555,25 @@
       "Anki Basics",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "income",
+        "sentences": [
+          {
+            "thai": "รายได้ของครอบครัวมาจากการทำนา",
+            "en": "The family's income comes from farming.",
+            "audio_src": "รายได้ของครอบครัวมาจากการทำนา",
+            "audio_en_src": "The family's income comes from farming."
+          },
+          {
+            "thai": "เขามีรายได้พอเลี้ยงตัวเอง",
+            "en": "He has enough income to support himself.",
+            "audio_src": "เขามีรายได้พอเลี้ยงตัวเอง",
+            "audio_en_src": "He has enough income to support himself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92527,6 +92584,25 @@
     "topic": "economy",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "extra income, side income",
+        "sentences": [
+          {
+            "thai": "เธอขายของออนไลน์เป็นรายได้พิเศษ",
+            "en": "She sells things online for extra income.",
+            "audio_src": "เธอขายของออนไลน์เป็นรายได้พิเศษ",
+            "audio_en_src": "She sells things online for extra income."
+          },
+          {
+            "thai": "งานพาร์ทไทม์ช่วยให้มีรายได้พิเศษ",
+            "en": "A part-time job gives you some side income.",
+            "audio_src": "งานพาร์ทไทม์ช่วยให้มีรายได้พิเศษ",
+            "audio_en_src": "A part-time job gives you some side income."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93035,6 +93111,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to smuggle, to do something illegally, to carry out an activity in hiding",
+        "sentences": [
+          {
+            "thai": "เขาถูกจับข้อหาลักลอบนำเข้าสินค้า",
+            "en": "He was arrested for smuggling goods.",
+            "audio_src": "เขาถูกจับข้อหาลักลอบนำเข้าสินค้า",
+            "audio_en_src": "He was arrested for smuggling goods."
+          },
+          {
+            "thai": "มีคนลักลอบตัดไม้ในป่า",
+            "en": "Someone was illegally logging in the forest.",
+            "audio_src": "มีคนลักลอบตัดไม้ในป่า",
+            "audio_en_src": "Someone was illegally logging in the forest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93131,6 +93226,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "classifier for boats and aircraft",
+        "sentences": [
+          {
+            "thai": "ที่ท่าเรือมีเรือจอดอยู่สามลำ",
+            "en": "There are three boats docked at the pier.",
+            "audio_src": "ที่ท่าเรือมีเรือจอดอยู่สามลำ",
+            "audio_en_src": "There are three boats docked at the pier."
+          },
+          {
+            "thai": "สายการบินสั่งซื้อเครื่องบินใหม่สิบลำ",
+            "en": "The airline ordered ten new planes.",
+            "audio_src": "สายการบินสั่งซื้อเครื่องบินใหม่สิบลำ",
+            "audio_en_src": "The airline ordered ten new planes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93141,6 +93255,25 @@
     "topic": "nature",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "stream, brook, small river",
+        "sentences": [
+          {
+            "thai": "น้ำในลำธารใสเย็น",
+            "en": "The water in the stream is clear and cool.",
+            "audio_src": "น้ำในลำธารใสเย็น",
+            "audio_en_src": "The water in the stream is clear and cool."
+          },
+          {
+            "thai": "เด็กๆเล่นน้ำในลำธาร",
+            "en": "The kids play in the stream.",
+            "audio_src": "เด็กๆเล่นน้ำในลำธาร",
+            "audio_en_src": "The kids play in the stream."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93286,6 +93419,25 @@
     "topic": "time",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "the next day, the following day (formal)",
+        "sentences": [
+          {
+            "thai": "เขานอนดึก วันรุ่งขึ้นเลยตื่นสาย",
+            "en": "He stayed up late, so the next day he woke up late.",
+            "audio_src": "เขานอนดึก วันรุ่งขึ้นเลยตื่นสาย",
+            "audio_en_src": "He stayed up late, so the next day he woke up late."
+          },
+          {
+            "thai": "วันรุ่งขึ้นเราออกเดินทางแต่เช้า",
+            "en": "The following day we set off early in the morning.",
+            "audio_src": "วันรุ่งขึ้นเราออกเดินทางแต่เช้า",
+            "audio_en_src": "The following day we set off early in the morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93612,6 +93764,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "by the way, \"so anyway, ...\"",
+        "sentences": [
+          {
+            "thai": "ว่าแต่ว่าเมื่อวานเธอไปไหนมา",
+            "en": "By the way, where did you go yesterday?",
+            "audio_src": "ว่าแต่ว่าเมื่อวานเธอไปไหนมา",
+            "audio_en_src": "By the way, where did you go yesterday?"
+          },
+          {
+            "thai": "ว่าแต่ว่าเรื่องงานเป็นยังไงบ้าง",
+            "en": "So anyway, how's work going?",
+            "audio_src": "ว่าแต่ว่าเรื่องงานเป็นยังไงบ้าง",
+            "audio_en_src": "So anyway, how's work going?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -93624,6 +93795,25 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "century",
+        "sentences": [
+          {
+            "thai": "กว่าจะสร้างเสร็จใช้เวลาเกือบหนึ่งศตวรรษ",
+            "en": "It took nearly a century to build.",
+            "audio_src": "กว่าจะสร้างเสร็จใช้เวลาเกือบหนึ่งศตวรรษ",
+            "audio_en_src": "It took nearly a century to build."
+          },
+          {
+            "thai": "เทคโนโลยีเปลี่ยนไปมากในศตวรรษที่ผ่านมา",
+            "en": "Technology has changed a lot over the past century.",
+            "audio_src": "เทคโนโลยีเปลี่ยนไปมากในศตวรรษที่ผ่านมา",
+            "audio_en_src": "Technology has changed a lot over the past century."
+          }
+        ]
+      }
     ]
   },
   {
