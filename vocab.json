@@ -47345,6 +47345,42 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to claim expenses, to request reimbursement",
+        "sentences": [
+          {
+            "thai": "ค่าแท็กซี่เบิกบริษัทได้",
+            "en": "You can claim the taxi fare from the company.",
+            "audio_src": "ค่าแท็กซี่เบิกบริษัทได้",
+            "audio_en_src": "You can claim the taxi fare from the company."
+          },
+          {
+            "thai": "อย่าลืมเก็บใบเสร็จไว้เบิกเงิน",
+            "en": "Don't forget to keep the receipt to claim the reimbursement.",
+            "audio_src": "อย่าลืมเก็บใบเสร็จไว้เบิกเงิน",
+            "audio_en_src": "Don't forget to keep the receipt to claim the reimbursement."
+          }
+        ]
+      },
+      {
+        "meaning": "to withdraw",
+        "sentences": [
+          {
+            "thai": "ฉันไปเบิกเงินที่ธนาคาร",
+            "en": "I went to withdraw money at the bank.",
+            "audio_src": "ฉันไปเบิกเงินที่ธนาคาร",
+            "audio_en_src": "I went to withdraw money at the bank."
+          },
+          {
+            "thai": "เบิกเงินจากตู้เอทีเอ็ม",
+            "en": "Withdraw money from the ATM.",
+            "audio_src": "เบิกเงินจากตู้เอทีเอ็ม",
+            "audio_en_src": "Withdraw money from the ATM."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47468,6 +47504,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to soak in the air-conditioning",
+        "sentences": [
+          {
+            "thai": "วันหยุดขอนอนแช่แอร์อยู่บ้าน",
+            "en": "On my day off I just want to laze in the AC at home.",
+            "audio_src": "วันหยุดขอนอนแช่แอร์อยู่บ้าน",
+            "audio_en_src": "On my day off I just want to laze in the AC at home."
+          },
+          {
+            "thai": "ร้อนจัง เข้าไปแช่แอร์ในห้างกันเถอะ",
+            "en": "It's so hot, let's go chill in the AC at the mall.",
+            "audio_src": "ร้อนจัง เข้าไปแช่แอร์ในห้างกันเถอะ",
+            "audio_en_src": "It's so hot, let's go chill in the AC at the mall."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47479,6 +47534,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "production cost, initial investment",
+        "sentences": [
+          {
+            "thai": "สินค้านี้ต้นทุนสูง",
+            "en": "This product has a high production cost.",
+            "audio_src": "สินค้านี้ต้นทุนสูง",
+            "audio_en_src": "This product has a high production cost."
+          },
+          {
+            "thai": "ขายขาดทุนเพราะต้นทุนแพง",
+            "en": "We're selling at a loss because the cost is high.",
+            "audio_src": "ขายขาดทุนเพราะต้นทุนแพง",
+            "audio_en_src": "We're selling at a loss because the cost is high."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47499,6 +47573,25 @@
     "topic": "family",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "married couple",
+        "sentences": [
+          {
+            "thai": "คู่สามีภรรยาคู่นี้รักกันมาก",
+            "en": "This married couple loves each other very much.",
+            "audio_src": "คู่สามีภรรยาคู่นี้รักกันมาก",
+            "audio_en_src": "This married couple loves each other very much."
+          },
+          {
+            "thai": "พวกเขาเป็นคู่สามีภรรยาที่น่ารัก",
+            "en": "They're a lovely married couple.",
+            "audio_src": "พวกเขาเป็นคู่สามีภรรยาที่น่ารัก",
+            "audio_en_src": "They're a lovely married couple."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47509,6 +47602,25 @@
     "topic": "family",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to adopt and foster",
+        "sentences": [
+          {
+            "thai": "พวกเขารับเลี้ยงเด็กกำพร้าคนหนึ่ง",
+            "en": "They adopted an orphan.",
+            "audio_src": "พวกเขารับเลี้ยงเด็กกำพร้าคนหนึ่ง",
+            "audio_en_src": "They adopted an orphan."
+          },
+          {
+            "thai": "เธอรับเลี้ยงแมวจรจัด",
+            "en": "She adopted a stray cat.",
+            "audio_src": "เธอรับเลี้ยงแมวจรจัด",
+            "audio_en_src": "She adopted a stray cat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47771,6 +47883,25 @@
     "topic": "family",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "orphan",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเด็กกำพร้าตั้งแต่เล็ก",
+            "en": "He's been an orphan since he was little.",
+            "audio_src": "เขาเป็นเด็กกำพร้าตั้งแต่เล็ก",
+            "audio_en_src": "He's been an orphan since he was little."
+          },
+          {
+            "thai": "มูลนิธินี้ช่วยเหลือเด็กกำพร้า",
+            "en": "This foundation helps orphans.",
+            "audio_src": "มูลนิธินี้ช่วยเหลือเด็กกำพร้า",
+            "audio_en_src": "This foundation helps orphans."
+          }
+        ]
+      }
     ]
   },
   {
@@ -47992,6 +48123,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "emotionally attached, bonded, connected",
+        "sentences": [
+          {
+            "thai": "ฉันผูกพันกับบ้านหลังนี้มาก",
+            "en": "I'm very attached to this house.",
+            "audio_src": "ฉันผูกพันกับบ้านหลังนี้มาก",
+            "audio_en_src": "I'm very attached to this house."
+          },
+          {
+            "thai": "เราผูกพันกันเหมือนพี่น้อง",
+            "en": "We're bonded like siblings.",
+            "audio_src": "เราผูกพันกันเหมือนพี่น้อง",
+            "audio_en_src": "We're bonded like siblings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48073,6 +48223,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "bored, fed up, tired of",
+        "sentences": [
+          {
+            "thai": "ทำงานเดิมๆทุกวันจนเบื่อหน่าย",
+            "en": "Doing the same work every day gets so tiresome.",
+            "audio_src": "ทำงานเดิมๆทุกวันจนเบื่อหน่าย",
+            "audio_en_src": "Doing the same work every day gets so tiresome."
+          },
+          {
+            "thai": "เขาเริ่มหน่ายกับชีวิตในเมือง",
+            "en": "He's growing tired of city life.",
+            "audio_src": "เขาเริ่มหน่ายกับชีวิตในเมือง",
+            "audio_en_src": "He's growing tired of city life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48147,6 +48316,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to keep one's feelings to oneself",
+        "sentences": [
+          {
+            "thai": "เขาเก็บความรู้สึกเก่ง",
+            "en": "He's good at hiding his feelings.",
+            "audio_src": "เขาเก็บความรู้สึกเก่ง",
+            "audio_en_src": "He's good at hiding his feelings."
+          },
+          {
+            "thai": "อย่าเก็บความรู้สึกไว้คนเดียว",
+            "en": "Don't keep your feelings all to yourself.",
+            "audio_src": "อย่าเก็บความรู้สึกไว้คนเดียว",
+            "audio_en_src": "Don't keep your feelings all to yourself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48191,6 +48379,25 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cheerful, lively (person, mood)",
+        "sentences": [
+          {
+            "thai": "เธอเป็นคนร่าเริงสดใส",
+            "en": "She's a cheerful, bright person.",
+            "audio_src": "เธอเป็นคนร่าเริงสดใส",
+            "audio_en_src": "She's a cheerful, bright person."
+          },
+          {
+            "thai": "เด็กๆวิ่งเล่นอย่างร่าเริง",
+            "en": "The kids run around cheerfully.",
+            "audio_src": "เด็กๆวิ่งเล่นอย่างร่าเริง",
+            "audio_en_src": "The kids run around cheerfully."
+          }
+        ]
+      }
     ]
   },
   {

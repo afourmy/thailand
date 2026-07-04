@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4433 words**
+**Total: 4443 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1215,9 +1215,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-295` : ประมาณว่า... ("roughly speaking, ...", "something like...") : 1 meaning(s), 2 sentences
 - `tamago-l3-297` : ค่อยๆเป็นค่อยๆไป ("take it slow and steady") : 1 meaning(s), 2 sentences
 - `tamago-l3-298` : เศรษฐี (millionaire, rich person) : 1 meaning(s), 2 sentences
+- `tamago-l3-299` : เบิก (to claim expenses, to request reimbursement; to withdraw) : 2 meaning(s), 4 sentences
 - `tamago-l3-300` : ส่อง (to shine on, to look through (binoculars, microscope); to stalk online) : 2 meaning(s), 4 sentences
 - `tamago-l3-301` : เบื้องหลัง (behind the scenes, in the background) : 1 meaning(s), 2 sentences
 - `tamago-l3-302` : กลยุทธ์ (strategy) : 1 meaning(s), 2 sentences
+- `tamago-l3-303` : แช่แอร์ (to soak in the air-conditioning) : 1 meaning(s), 2 sentences
+- `tamago-l3-304` : ต้นทุน (production cost, initial investment) : 1 meaning(s), 2 sentences
+- `tamago-l3-306` : คู่สามีภรรยา (married couple) : 1 meaning(s), 2 sentences
+- `tamago-l3-307` : รับเลี้ยง (to adopt and foster) : 1 meaning(s), 2 sentences
 - `tamago-l3-309` : ฉายา (alias, nickname) : 1 meaning(s), 2 sentences
 - `tamago-l3-310` : วาดฝัน (to dream of, to envision) : 1 meaning(s), 2 sentences
 - `tamago-l3-311` : เข้าแถว (to line up, to form a line) : 1 meaning(s), 2 sentences
@@ -1225,16 +1230,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-315` : ทั่วถึง (thoroughly, comprehensively, all over) : 1 meaning(s), 2 sentences
 - `tamago-l3-316` : บ้านเรา ((colloquial) refers to Thailand, "our country") : 1 meaning(s), 2 sentences
 - `tamago-l3-317` : รถเข็น (cart, stroller, wheelchair) : 1 meaning(s), 3 sentences
+- `tamago-l3-318` : เด็กกำพร้า (orphan) : 1 meaning(s), 2 sentences
 - `tamago-l3-319` : มอบ (to give, to present (often formally)) : 1 meaning(s), 2 sentences
 - `tamago-l3-320` : ล้มเลิก (to cancel, to abandon, to call off) : 1 meaning(s), 2 sentences
 - `tamago-l3-321` : หันไปสนใจ (to shift one's interest to) : 1 meaning(s), 2 sentences
 - `tamago-l3-324` : ห่างกัน (apart, distant from (each other)) : 1 meaning(s), 2 sentences
 - `tamago-l3-325` : อย่างใกล้ชิด (closely, intimately) : 1 meaning(s), 2 sentences
 - `tamago-l3-326` : สานสัมพันธ์ (to build a relationship, to bond) : 1 meaning(s), 2 sentences
+- `tamago-l3-327` : ผูกพัน (emotionally attached, bonded, connected) : 1 meaning(s), 2 sentences
 - `tamago-l3-331` : ขัด (to polish; to oppose, to go against) : 2 meaning(s), 4 sentences
+- `tamago-l3-332` : หน่าย (bored, fed up, tired of) : 1 meaning(s), 2 sentences
 - `tamago-l3-334` : แปะ (to stick (a poster, sticker), to put on a surface) : 1 meaning(s), 2 sentences
 - `tamago-l3-335` : ผิวเผิน (superficially, on the surface) : 1 meaning(s), 2 sentences
+- `tamago-l3-336` : เก็บความรู้สึก (to keep one's feelings to oneself) : 1 meaning(s), 2 sentences
 - `tamago-l3-337` : แสดงออก (to express oneself, to show (feelings)) : 1 meaning(s), 2 sentences
+- `tamago-l3-338` : ร่าเริง (cheerful, lively (person, mood)) : 1 meaning(s), 2 sentences
 - `tamago-l3-343` : ตัวตน (identity, self) : 1 meaning(s), 2 sentences
 - `tamago-l3-344` : แย่ง (to compete for, to fight over; to grab, to seize) : 2 meaning(s), 4 sentences
 - `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ("whatever!", "never mind", "forget about it!") : 1 meaning(s), 2 sentences
