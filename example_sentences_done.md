@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5202 words**
+**Total: 5212 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3405,15 +3405,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-008` : อคติ (prejudice, bias) : 1 meaning(s), 2 sentences
 - `yt-c09-011` : ดั้งเดิม (original, traditional, authentic) : 1 meaning(s), 2 sentences
 - `yt-c09-014` : จี่ (to roast, to grill (Isan way)) : 1 meaning(s), 2 sentences
+- `yt-c09-019` : ใบตองกล้วย (banana leaf) : 1 meaning(s), 2 sentences
+- `yt-c09-022` : ตะขาบ (centipede) : 1 meaning(s), 2 sentences
 - `yt-c09-033` : ตอก (to nail, to hammer in) : 1 meaning(s), 2 sentences
+- `yt-c09-039` : ดวงตก (to have bad luck (astrology)) : 1 meaning(s), 2 sentences
+- `yt-c09-040` : ทำโอที, ทำงานนอกเวลา, ทำงานล่วงเวลา (to work overtime) : 1 meaning(s), 2 sentences
 - `yt-c09-051` : แปลง (to convert, to transform; plot of land, field) : 2 meaning(s), 4 sentences
 - `yt-c09-053` : โดยลำพัง (alone, by oneself, independently (without others)) : 1 meaning(s), 2 sentences
+- `yt-c09-058` : พลุ, ดอกไม้ไฟ (fireworks) : 1 meaning(s), 2 sentences
+- `yt-c09-059` : ลิขสิทธิ์ (copyright) : 1 meaning(s), 2 sentences
 - `yt-c09-073` : ทวน (to go against, to go in the opposite direction; to repeat, to review) : 2 meaning(s), 4 sentences
 - `yt-c09-082` : ยัด (to cram, to shove, to force something into a tight space) : 1 meaning(s), 2 sentences
+- `yt-c09-084` : ชีวิตชีวา (lively, full of life) : 1 meaning(s), 2 sentences
 - `yt-c09-085` : สีสันสดใส (bright colors, vivid colors) : 1 meaning(s), 2 sentences
+- `yt-c09-087` : เหม่อลอย (absent-minded, lost in thought) : 1 meaning(s), 2 sentences
 - `yt-c09-093` : ลงแข่ง (to register, to sign up for a competition) : 1 meaning(s), 2 sentences
+- `yt-c09-094` : หนักแน่น (firm, resolute, emotionally stable) : 1 meaning(s), 2 sentences
 - `yt-c09-097` : หลงทาง (lost, errant, to get lost) : 1 meaning(s), 2 sentences
 - `yt-c09-098` : ให้พลัง (to give power, to strengthen) : 1 meaning(s), 2 sentences
+- `yt-c09-099` : จู้จี้ (to nitpick, to nag (constantly reproach), nitpicky, fussy) : 1 meaning(s), 2 sentences
 - `yt-c10-002` : จุดอ่อน (weakness) : 1 meaning(s), 2 sentences
 - `yt-c10-015` : สมเหตุสมผล (rational, logical, reasonable, "it makes sense") : 1 meaning(s), 2 sentences
 - `yt-c10-019` : หนุน (to support, to prop up, to bolster) : 1 meaning(s), 2 sentences

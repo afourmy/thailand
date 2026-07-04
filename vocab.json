@@ -131706,6 +131706,25 @@
       "Anki Basics",
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "banana leaf",
+        "sentences": [
+          {
+            "thai": "ห่อขนมด้วยใบตองกล้วย",
+            "en": "Wrap the dessert in banana leaves.",
+            "audio_src": "ห่อขนมด้วยใบตองกล้วย",
+            "audio_en_src": "Wrap the dessert in banana leaves."
+          },
+          {
+            "thai": "ใบตองกล้วยใช้รองจานได้",
+            "en": "Banana leaves can be used to line plates.",
+            "audio_src": "ใบตองกล้วยใช้รองจานได้",
+            "audio_en_src": "Banana leaves can be used to line plates."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131736,6 +131755,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "centipede",
+        "sentences": [
+          {
+            "thai": "มีตะขาบอยู่ในรองเท้า",
+            "en": "There’s a centipede in the shoe.",
+            "audio_src": "มีตะขาบอยู่ในรองเท้า",
+            "audio_en_src": "There’s a centipede in the shoe."
+          },
+          {
+            "thai": "โดนตะขาบกัดเจ็บมาก",
+            "en": "A centipede bite hurts a lot.",
+            "audio_src": "โดนตะขาบกัดเจ็บมาก",
+            "audio_en_src": "A centipede bite hurts a lot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131897,6 +131935,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to have bad luck (astrology)",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ดวงตก ทำอะไรก็ไม่สำเร็จ",
+            "en": "I’ve had bad luck lately, nothing I do works out.",
+            "audio_src": "ช่วงนี้ดวงตก ทำอะไรก็ไม่สำเร็จ",
+            "audio_en_src": "I’ve had bad luck lately, nothing I do works out."
+          },
+          {
+            "thai": "เขาบอกว่าปีนี้ฉันดวงตก",
+            "en": "They said my luck is down this year.",
+            "audio_src": "เขาบอกว่าปีนี้ฉันดวงตก",
+            "audio_en_src": "They said my luck is down this year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131907,6 +131964,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to work overtime",
+        "sentences": [
+          {
+            "thai": "คืนนี้ต้องทำโอทีถึงดึก",
+            "en": "I have to work overtime late tonight.",
+            "audio_src": "คืนนี้ต้องทำโอทีถึงดึก",
+            "audio_en_src": "I have to work overtime late tonight."
+          },
+          {
+            "thai": "ทำงานล่วงเวลาได้เงินเพิ่ม",
+            "en": "Working overtime pays extra.",
+            "audio_src": "ทำงานล่วงเวลาได้เงินเพิ่ม",
+            "audio_en_src": "Working overtime pays extra."
+          }
+        ]
+      }
     ]
   },
   {
@@ -132141,6 +132217,25 @@
     "sources": [
       "YouTube",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "fireworks",
+        "sentences": [
+          {
+            "thai": "คืนปีใหม่มีพลุสวยมาก",
+            "en": "On New Year’s Eve there were beautiful fireworks.",
+            "audio_src": "คืนปีใหม่มีพลุสวยมาก",
+            "audio_en_src": "On New Year’s Eve there were beautiful fireworks."
+          },
+          {
+            "thai": "เด็กๆตื่นเต้นกับดอกไม้ไฟ",
+            "en": "The kids were excited about the fireworks.",
+            "audio_src": "เด็กๆตื่นเต้นกับดอกไม้ไฟ",
+            "audio_en_src": "The kids were excited about the fireworks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -132151,6 +132246,25 @@
     "topic": "law",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "copyright",
+        "sentences": [
+          {
+            "thai": "เพลงนี้มีลิขสิทธิ์ ห้ามนำไปใช้",
+            "en": "This song is copyrighted, don’t use it.",
+            "audio_src": "เพลงนี้มีลิขสิทธิ์ ห้ามนำไปใช้",
+            "audio_en_src": "This song is copyrighted, don’t use it."
+          },
+          {
+            "thai": "เขาละเมิดลิขสิทธิ์หนังสือ",
+            "en": "He infringed the book’s copyright.",
+            "audio_src": "เขาละเมิดลิขสิทธิ์หนังสือ",
+            "audio_en_src": "He infringed the book’s copyright."
+          }
+        ]
+      }
     ]
   },
   {
@@ -132467,6 +132581,25 @@
       "YouTube",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "lively, full of life",
+        "sentences": [
+          {
+            "thai": "งานปาร์ตี้เต็มไปด้วยชีวิตชีวา",
+            "en": "The party was full of life.",
+            "audio_src": "งานปาร์ตี้เต็มไปด้วยชีวิตชีวา",
+            "audio_en_src": "The party was full of life."
+          },
+          {
+            "thai": "รอยยิ้มของเด็กๆทำให้บ้านมีชีวิตชีวา",
+            "en": "The children’s smiles make the house lively.",
+            "audio_src": "รอยยิ้มของเด็กๆทำให้บ้านมีชีวิตชีวา",
+            "audio_en_src": "The children’s smiles make the house lively."
+          }
+        ]
+      }
     ]
   },
   {
@@ -132518,6 +132651,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "absent-minded, lost in thought",
+        "sentences": [
+          {
+            "thai": "เขานั่งเหม่อลอยมองออกไปนอกหน้าต่าง",
+            "en": "He sat lost in thought, staring out the window.",
+            "audio_src": "เขานั่งเหม่อลอยมองออกไปนอกหน้าต่าง",
+            "audio_en_src": "He sat lost in thought, staring out the window."
+          },
+          {
+            "thai": "เธอเหม่อลอยจนเรียกไม่ได้ยิน",
+            "en": "She was so absent-minded she didn’t hear me call.",
+            "audio_src": "เธอเหม่อลอยจนเรียกไม่ได้ยิน",
+            "audio_en_src": "She was so absent-minded she didn’t hear me call."
+          }
+        ]
+      }
     ]
   },
   {
@@ -132611,6 +132763,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "firm, resolute, emotionally stable",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนหนักแน่น ไม่หวั่นไหวง่าย",
+            "en": "He’s a steady person, not easily shaken.",
+            "audio_src": "เขาเป็นคนหนักแน่น ไม่หวั่นไหวง่าย",
+            "audio_en_src": "He’s a steady person, not easily shaken."
+          },
+          {
+            "thai": "ตัดสินใจแล้วต้องหนักแน่น",
+            "en": "Once you’ve decided, you have to stand firm.",
+            "audio_src": "ตัดสินใจแล้วต้องหนักแน่น",
+            "audio_en_src": "Once you’ve decided, you have to stand firm."
+          }
+        ]
+      }
     ]
   },
   {
@@ -132703,6 +132874,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to nitpick, to nag (constantly reproach), nitpicky, fussy",
+        "sentences": [
+          {
+            "thai": "แม่จู้จี้เรื่องความสะอาดมาก",
+            "en": "Mom is really fussy about cleanliness.",
+            "audio_src": "แม่จู้จี้เรื่องความสะอาดมาก",
+            "audio_en_src": "Mom is really fussy about cleanliness."
+          },
+          {
+            "thai": "อย่าจู้จี้กับลูกมากเกินไป",
+            "en": "Don’t nag your kids too much.",
+            "audio_src": "อย่าจู้จี้กับลูกมากเกินไป",
+            "audio_en_src": "Don’t nag your kids too much."
+          }
+        ]
+      }
     ]
   },
   {
