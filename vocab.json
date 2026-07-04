@@ -109595,6 +109595,25 @@
     "topic": "family",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "funeral",
+        "sentences": [
+          {
+            "thai": "เขาไปร่วมงานศพของญาติ",
+            "en": "He attended a relative's funeral.",
+            "audio_src": "เขาไปร่วมงานศพของญาติ",
+            "audio_en_src": "He attended a relative's funeral."
+          },
+          {
+            "thai": "งานศพจัดที่วัดใกล้บ้าน",
+            "en": "The funeral was held at the temple near home.",
+            "audio_src": "งานศพจัดที่วัดใกล้บ้าน",
+            "audio_en_src": "The funeral was held at the temple near home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109671,6 +109690,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "scar",
+        "sentences": [
+          {
+            "thai": "เขามีแผลเป็นที่แขนจากอุบัติเหตุ",
+            "en": "He has a scar on his arm from an accident.",
+            "audio_src": "เขามีแผลเป็นที่แขนจากอุบัติเหตุ",
+            "audio_en_src": "He has a scar on his arm from an accident."
+          },
+          {
+            "thai": "แผลเป็นจางลงเมื่อเวลาผ่านไป",
+            "en": "The scar faded over time.",
+            "audio_src": "แผลเป็นจางลงเมื่อเวลาผ่านไป",
+            "audio_en_src": "The scar faded over time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109749,6 +109787,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "turtle, tortoise",
+        "sentences": [
+          {
+            "thai": "เต่าเดินช้าแต่มีอายุยืน",
+            "en": "Turtles move slowly but live a long time.",
+            "audio_src": "เต่าเดินช้าแต่มีอายุยืน",
+            "audio_en_src": "Turtles move slowly but live a long time."
+          },
+          {
+            "thai": "เราเห็นเต่าทะเลว่ายน้ำ",
+            "en": "We saw a sea turtle swimming.",
+            "audio_src": "เราเห็นเต่าทะเลว่ายน้ำ",
+            "audio_en_src": "We saw a sea turtle swimming."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109923,6 +109980,25 @@
     "topic": "family",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "twin(s)",
+        "sentences": [
+          {
+            "thai": "เขามีลูกเป็นฝาแฝด",
+            "en": "He has twins.",
+            "audio_src": "เขามีลูกเป็นฝาแฝด",
+            "audio_en_src": "He has twins."
+          },
+          {
+            "thai": "ฝาแฝดคู่นี้หน้าเหมือนกันมาก",
+            "en": "These twins look very much alike.",
+            "audio_src": "ฝาแฝดคู่นี้หน้าเหมือนกันมาก",
+            "audio_en_src": "These twins look very much alike."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109935,6 +110011,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "butterfly",
+        "sentences": [
+          {
+            "thai": "ผีเสื้อบินอยู่รอบดอกไม้",
+            "en": "Butterflies flutter around the flowers.",
+            "audio_src": "ผีเสื้อบินอยู่รอบดอกไม้",
+            "audio_en_src": "Butterflies flutter around the flowers."
+          },
+          {
+            "thai": "หนอนค่อยๆกลายเป็นผีเสื้อ",
+            "en": "The caterpillar slowly turns into a butterfly.",
+            "audio_src": "หนอนค่อยๆกลายเป็นผีเสื้อ",
+            "audio_en_src": "The caterpillar slowly turns into a butterfly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109946,6 +110041,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cucumber",
+        "sentences": [
+          {
+            "thai": "เขาหั่นแตงกวาใส่สลัด",
+            "en": "He sliced cucumber into the salad.",
+            "audio_src": "เขาหั่นแตงกวาใส่สลัด",
+            "audio_en_src": "He sliced cucumber into the salad."
+          },
+          {
+            "thai": "แตงกวาสดกรอบอร่อย",
+            "en": "Fresh cucumber is crisp and tasty.",
+            "audio_src": "แตงกวาสดกรอบอร่อย",
+            "audio_en_src": "Fresh cucumber is crisp and tasty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -110000,6 +110114,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "injured",
+        "sentences": [
+          {
+            "thai": "เขาบาดเจ็บจากการเล่นฟุตบอล",
+            "en": "He got injured playing football.",
+            "audio_src": "เขาบาดเจ็บจากการเล่นฟุตบอล",
+            "audio_en_src": "He got injured playing football."
+          },
+          {
+            "thai": "มีคนบาดเจ็บหลายคนในอุบัติเหตุ",
+            "en": "Several people were injured in the accident.",
+            "audio_src": "มีคนบาดเจ็บหลายคนในอุบัติเหตุ",
+            "audio_en_src": "Several people were injured in the accident."
+          }
+        ]
+      }
     ]
   },
   {
@@ -110119,6 +110252,25 @@
     "sources": [
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "couple (romantic), lovers",
+        "sentences": [
+          {
+            "thai": "คู่รักเดินจับมือกันในสวน",
+            "en": "The couple walked hand in hand in the park.",
+            "audio_src": "คู่รักเดินจับมือกันในสวน",
+            "audio_en_src": "The couple walked hand in hand in the park."
+          },
+          {
+            "thai": "คู่รักคู่นี้คบกันมาห้าปีแล้ว",
+            "en": "This couple has been together for five years.",
+            "audio_src": "คู่รักคู่นี้คบกันมาห้าปีแล้ว",
+            "audio_en_src": "This couple has been together for five years."
+          }
+        ]
+      }
     ]
   },
   {
@@ -110540,6 +110692,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ankle",
+        "sentences": [
+          {
+            "thai": "เขาข้อเท้าแพลงตอนวิ่ง",
+            "en": "He sprained his ankle while running.",
+            "audio_src": "เขาข้อเท้าแพลงตอนวิ่ง",
+            "audio_en_src": "He sprained his ankle while running."
+          },
+          {
+            "thai": "ข้อเท้าบวมจนเดินไม่ได้",
+            "en": "His ankle is so swollen he can't walk.",
+            "audio_src": "ข้อเท้าบวมจนเดินไม่ได้",
+            "audio_en_src": "His ankle is so swollen he can't walk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -110551,6 +110722,25 @@
     "sources": [
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "pride",
+        "sentences": [
+          {
+            "thai": "การได้รับรางวัลเป็นความภาคภูมิใจของครอบครัว",
+            "en": "Winning the award is a source of pride for the family.",
+            "audio_src": "การได้รับรางวัลเป็นความภาคภูมิใจของครอบครัว",
+            "audio_en_src": "Winning the award is a source of pride for the family."
+          },
+          {
+            "thai": "เขาพูดถึงลูกด้วยความภาคภูมิใจ",
+            "en": "He talks about his kids with pride.",
+            "audio_src": "เขาพูดถึงลูกด้วยความภาคภูมิใจ",
+            "audio_en_src": "He talks about his kids with pride."
+          }
+        ]
+      }
     ]
   },
   {

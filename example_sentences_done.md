@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5003 words**
+**Total: 5013 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2854,19 +2854,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-219` : ความเสี่ยง (risk) : 1 meaning(s), 2 sentences
 - `tobo-220` : ฝันร้าย (nightmare) : 1 meaning(s), 2 sentences
 - `tobo-221` : คำเตือน (warning) : 1 meaning(s), 2 sentences
+- `tobo-222` : งานศพ (funeral) : 1 meaning(s), 2 sentences
 - `tobo-224` : อุปกรณ์ (equipment, device) : 1 meaning(s), 2 sentences
 - `tobo-225` : วิทยาศาสตร์ (science) : 1 meaning(s), 2 sentences
+- `tobo-227` : แผลเป็น (scar) : 1 meaning(s), 2 sentences
 - `tobo-228` : รูปปั้น (statue) : 1 meaning(s), 2 sentences
 - `tobo-229` : ขุด (to dig) : 1 meaning(s), 2 sentences
+- `tobo-230` : เต่า (turtle, tortoise) : 1 meaning(s), 2 sentences
 - `tobo-231` : วัว (cow) : 1 meaning(s), 2 sentences
 - `tobo-233` : สัตว์ประหลาด (monster) : 1 meaning(s), 2 sentences
 - `tobo-234` : หลุมฝังศพ (grave, tomb) : 1 meaning(s), 2 sentences
 - `tobo-235` : เปลือก (shell, peel, bark) : 1 meaning(s), 2 sentences
 - `tobo-236` : ยาพิษ (poison) : 1 meaning(s), 2 sentences
+- `tobo-237` : ฝาแฝด (twin(s)) : 1 meaning(s), 2 sentences
+- `tobo-238` : ผีเสื้อ (butterfly) : 1 meaning(s), 2 sentences
+- `tobo-239` : แตงกวา (cucumber) : 1 meaning(s), 2 sentences
 - `tobo-240` : มังกร (dragon) : 1 meaning(s), 2 sentences
+- `tobo-243` : บาดเจ็บ (injured) : 1 meaning(s), 2 sentences
 - `tobo-244` : เส้น (line, thread, string) : 1 meaning(s), 3 sentences
 - `tobo-245` : ช่างไฟ, ช่างไฟฟ้า (electrician) : 1 meaning(s), 2 sentences
 - `tobo-246` : จุด (point, dot, spot) : 1 meaning(s), 2 sentences
+- `tobo-247` : คู่รัก (couple (romantic), lovers) : 1 meaning(s), 2 sentences
 - `tobo-248` : โหล (dozen) : 1 meaning(s), 2 sentences
 - `tobo-249` : ตะกร้า (basket) : 1 meaning(s), 2 sentences
 - `tobo-250` : รายงาน (to report, report) : 1 meaning(s), 2 sentences
@@ -2879,6 +2887,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-260` : เพิ่มเป็นสองเท่า (to double) : 1 meaning(s), 2 sentences
 - `tobo-261` : เล่นไพ่ (to play cards) : 1 meaning(s), 2 sentences
 - `tobo-264` : น่าตกใจ (shocking) : 1 meaning(s), 2 sentences
+- `tobo-265` : ข้อเท้า (ankle) : 1 meaning(s), 2 sentences
+- `tobo-266` : ความภาคภูมิใจ (pride) : 1 meaning(s), 2 sentences
 - `tobo-267` : ทฤษฎี (theory) : 1 meaning(s), 2 sentences
 - `tobo-268` : นอนเกินเวลา (to oversleep) : 1 meaning(s), 2 sentences
 - `tobo-270` : คอลเลกชัน (collection) : 1 meaning(s), 2 sentences
