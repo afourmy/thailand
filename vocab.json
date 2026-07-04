@@ -100672,6 +100672,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to focus on one thing to the detriment of others",
+        "sentences": [
+          {
+            "thai": "เขาเอาแต่เล่นเกมไม่ยอมทำการบ้าน",
+            "en": "He does nothing but play games and won't do his homework.",
+            "audio_src": "เขาเอาแต่เล่นเกมไม่ยอมทำการบ้าน",
+            "audio_en_src": "He does nothing but play games and won't do his homework."
+          },
+          {
+            "thai": "อย่าเอาแต่ทำงาน ต้องพักผ่อนบ้าง",
+            "en": "Don't just focus on work, you need to rest too.",
+            "audio_src": "อย่าเอาแต่ทำงาน ต้องพักผ่อนบ้าง",
+            "audio_en_src": "Don't just focus on work, you need to rest too."
+          }
+        ]
+      }
     ]
   },
   {
@@ -100682,6 +100701,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"save it for next time\", \"do it next time\"",
+        "sentences": [
+          {
+            "thai": "วันนี้ไม่ว่าง เอาไว้คราวหน้าแล้วกัน",
+            "en": "I'm busy today, let's save it for next time.",
+            "audio_src": "วันนี้ไม่ว่าง เอาไว้คราวหน้าแล้วกัน",
+            "audio_en_src": "I'm busy today, let's save it for next time."
+          },
+          {
+            "thai": "ของหมดแล้ว เอาไว้คราวหน้าค่อยซื้อ",
+            "en": "It's sold out, we'll buy it next time.",
+            "audio_src": "ของหมดแล้ว เอาไว้คราวหน้าค่อยซื้อ",
+            "audio_en_src": "It's sold out, we'll buy it next time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -100728,6 +100766,25 @@
     "topic": "food",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "coconut curry",
+        "sentences": [
+          {
+            "thai": "แม่ทำแกงกะทิไก่อร่อยมาก",
+            "en": "Mom makes a really tasty chicken coconut curry.",
+            "audio_src": "แม่ทำแกงกะทิไก่อร่อยมาก",
+            "audio_en_src": "Mom makes a really tasty chicken coconut curry."
+          },
+          {
+            "thai": "แกงกะทิหม้อนี้ข้นและหอมมาก",
+            "en": "This pot of coconut curry is thick and very fragrant.",
+            "audio_src": "แกงกะทิหม้อนี้ข้นและหอมมาก",
+            "audio_en_src": "This pot of coconut curry is thick and very fragrant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -101221,6 +101278,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "in reality, actually",
+        "sentences": [
+          {
+            "thai": "เขาดูใจร้าย แต่แท้จริงแล้วใจดีมาก",
+            "en": "He seems mean, but in reality he's very kind.",
+            "audio_src": "เขาดูใจร้าย แต่แท้จริงแล้วใจดีมาก",
+            "audio_en_src": "He seems mean, but in reality he's very kind."
+          },
+          {
+            "thai": "แท้จริงแล้วเรื่องนี้ไม่ยากอย่างที่คิด",
+            "en": "Actually, this isn't as hard as you'd think.",
+            "audio_src": "แท้จริงแล้วเรื่องนี้ไม่ยากอย่างที่คิด",
+            "audio_en_src": "Actually, this isn't as hard as you'd think."
+          }
+        ]
+      }
     ]
   },
   {
@@ -101231,6 +101307,25 @@
     "topic": "nature",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "coastline",
+        "sentences": [
+          {
+            "thai": "แนวชายฝั่งทะเลถูกกัดเซาะทุกปี",
+            "en": "The coastline erodes a little more every year.",
+            "audio_src": "แนวชายฝั่งทะเลถูกกัดเซาะทุกปี",
+            "audio_en_src": "The coastline erodes a little more every year."
+          },
+          {
+            "thai": "แนวชายฝั่งทะเลภาคใต้ยาวมาก",
+            "en": "The southern coastline is very long.",
+            "audio_src": "แนวชายฝั่งทะเลภาคใต้ยาวมาก",
+            "audio_en_src": "The southern coastline is very long."
+          }
+        ]
+      }
     ]
   },
   {
@@ -101479,6 +101574,25 @@
     "topic": "culture",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "beckoning cat (lucky figurine)",
+        "sentences": [
+          {
+            "thai": "ร้านค้าตั้งแมวกวักไว้หน้าร้าน",
+            "en": "The shop keeps a beckoning cat by the entrance.",
+            "audio_src": "ร้านค้าตั้งแมวกวักไว้หน้าร้าน",
+            "audio_en_src": "The shop keeps a beckoning cat by the entrance."
+          },
+          {
+            "thai": "คนเชื่อว่าแมวกวักเรียกเงินเรียกทอง",
+            "en": "People believe the beckoning cat draws in wealth.",
+            "audio_src": "คนเชื่อว่าแมวกวักเรียกเงินเรียกทอง",
+            "audio_en_src": "People believe the beckoning cat draws in wealth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -101665,6 +101779,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to express sympathy, to give condolences",
+        "sentences": [
+          {
+            "thai": "เขาโทรมาแสดงความเสียใจกับครอบครัวผู้เสียชีวิต",
+            "en": "He called to give his condolences to the bereaved family.",
+            "audio_src": "เขาโทรมาแสดงความเสียใจกับครอบครัวผู้เสียชีวิต",
+            "audio_en_src": "He called to give his condolences to the bereaved family."
+          },
+          {
+            "thai": "ฉันอยากแสดงความเสียใจกับการสูญเสียของเธอ",
+            "en": "I want to express my sympathy for your loss.",
+            "audio_src": "ฉันอยากแสดงความเสียใจกับการสูญเสียของเธอ",
+            "audio_en_src": "I want to express my sympathy for your loss."
+          }
+        ]
+      }
     ]
   },
   {
@@ -101767,6 +101900,25 @@
     "topic": "culture",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sky lantern",
+        "sentences": [
+          {
+            "thai": "คนปล่อยโคมลอยในเทศกาลยี่เป็ง",
+            "en": "People release sky lanterns during the Yi Peng festival.",
+            "audio_src": "คนปล่อยโคมลอยในเทศกาลยี่เป็ง",
+            "audio_en_src": "People release sky lanterns during the Yi Peng festival."
+          },
+          {
+            "thai": "โคมลอยลอยขึ้นเต็มท้องฟ้า",
+            "en": "Sky lanterns filled the whole sky.",
+            "audio_src": "โคมลอยลอยขึ้นเต็มท้องฟ้า",
+            "audio_en_src": "Sky lanterns filled the whole sky."
+          }
+        ]
+      }
     ]
   },
   {
@@ -101880,6 +102032,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "thief, robber",
+        "sentences": [
+          {
+            "thai": "โจรงัดบ้านตอนกลางคืน",
+            "en": "The thief broke into the house at night.",
+            "audio_src": "โจรงัดบ้านตอนกลางคืน",
+            "audio_en_src": "The thief broke into the house at night."
+          },
+          {
+            "thai": "ตำรวจไล่จับโจรจนได้",
+            "en": "The police chased down the robber and caught him.",
+            "audio_src": "ตำรวจไล่จับโจรจนได้",
+            "audio_en_src": "The police chased down the robber and caught him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -101902,6 +102073,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "especially, particularly",
+        "sentences": [
+          {
+            "thai": "ฉันชอบผลไม้ไทย โดยเฉพาะทุเรียน",
+            "en": "I love Thai fruit, especially durian.",
+            "audio_src": "ฉันชอบผลไม้ไทย โดยเฉพาะทุเรียน",
+            "audio_en_src": "I love Thai fruit, especially durian."
+          },
+          {
+            "thai": "ช่วงนี้รถติดมาก โดยเฉพาะตอนเย็น",
+            "en": "Traffic is really bad lately, especially in the evening.",
+            "audio_src": "ช่วงนี้รถติดมาก โดยเฉพาะตอนเย็น",
+            "audio_en_src": "Traffic is really bad lately, especially in the evening."
+          }
+        ]
+      }
     ]
   },
   {
