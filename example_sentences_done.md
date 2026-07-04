@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5242 words**
+**Total: 5252 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3470,16 +3470,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-002` : กลบ (to cover up, to bury) : 1 meaning(s), 2 sentences
 - `yt-c11-003` : ท่อไอเสีย (exhaust pipe) : 1 meaning(s), 2 sentences
 - `yt-c11-004` : กระจกมองหลัง (rearview mirror) : 1 meaning(s), 2 sentences
+- `yt-c11-005` : คาดเข็มขัด, คาดเข็มขัดนิรภัย (to fasten one's seatbelt) : 1 meaning(s), 2 sentences
 - `yt-c11-007` : แล่น (to move swiftly, to drive quickly, to speed along; to glide, to sail) : 2 meaning(s), 4 sentences
+- `yt-c11-008` : พิพิธภัณฑ์, พิพิธภัณฑสถาน (museum) : 1 meaning(s), 2 sentences
 - `yt-c11-009` : ละแวก (neighborhood) : 1 meaning(s), 2 sentences
+- `yt-c11-010` : เปิดโลก (to broaden one's horizon, eye-opening) : 1 meaning(s), 2 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
 - `yt-c11-016` : เสาอากาศ (antenna (e.g for TV signal)) : 1 meaning(s), 2 sentences
 - `yt-c11-018` : ดูด (to suck, to draw in) : 1 meaning(s), 2 sentences
 - `yt-c11-021` : ปะแป้ง (to apply powder) : 1 meaning(s), 2 sentences
+- `yt-c11-022` : ระคายเคือง (irritated, itchy (throat, eyes, skin)) : 1 meaning(s), 2 sentences
 - `yt-c11-023` : ผ้าเย็น (refreshing towel (stored in fridge in 7/11)) : 1 meaning(s), 2 sentences
 - `yt-c11-024` : ปะทะ (to clash, to collide) : 1 meaning(s), 2 sentences
+- `yt-c11-025` : ฟ้าแลบ (lightning flash (specifically the flash)) : 1 meaning(s), 2 sentences
 - `yt-c11-026` : ล้มทับ (to fall over, to collapse onto) : 1 meaning(s), 2 sentences
+- `yt-c11-028` : เม้าท์มอย (to gossip, to chat casually) : 1 meaning(s), 2 sentences
 - `yt-c11-029` : ตั้งกระทู้ (to create a post, to start a new thread) : 1 meaning(s), 2 sentences
+- `yt-c11-030` : กวนๆ (teasing, cheeky, playfully annoying) : 1 meaning(s), 2 sentences
+- `yt-c11-031` : เกี๊ยว (dumplings) : 1 meaning(s), 2 sentences
+- `yt-c11-032` : พริกป่น (chili powder) : 1 meaning(s), 2 sentences
+- `yt-c11-034` : ถูกคอ (to be a good match, to fit, to get along well) : 1 meaning(s), 2 sentences
 - `yt-c11-036` : กระบอก (cylinder, tube, flask (and classifier for guns and tube-shaped containers)) : 1 meaning(s), 2 sentences
 - `yt-c11-053` : ต้อน (to herd, to round up (animals)) : 1 meaning(s), 2 sentences
 - `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
