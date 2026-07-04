@@ -39024,6 +39024,25 @@
     "sources": [
       "Thai 9000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cunning, sly",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนเจ้าเล่ห์",
+            "en": "He's a cunning person.",
+            "audio_src": "เขาเป็นคนเจ้าเล่ห์",
+            "audio_en_src": "He's a cunning person."
+          },
+          {
+            "thai": "พ่อค้าคนนี้เจ้าเล่ห์มาก",
+            "en": "This merchant is very sly.",
+            "audio_src": "พ่อค้าคนนี้เจ้าเล่ห์มาก",
+            "audio_en_src": "This merchant is very sly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39034,6 +39053,25 @@
     "topic": "personality",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "determined, resolute",
+        "sentences": [
+          {
+            "thai": "เธอเป็นคนเด็ดเดี่ยว",
+            "en": "She's a determined person.",
+            "audio_src": "เธอเป็นคนเด็ดเดี่ยว",
+            "audio_en_src": "She's a determined person."
+          },
+          {
+            "thai": "เขาตัดสินใจอย่างเด็ดเดี่ยว",
+            "en": "He made a resolute decision.",
+            "audio_src": "เขาตัดสินใจอย่างเด็ดเดี่ยว",
+            "audio_en_src": "He made a resolute decision."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39275,6 +39313,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to leave something for later, to set aside for now",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้เอาไว้ก่อนนะ",
+            "en": "Let's leave this for later.",
+            "audio_src": "เรื่องนี้เอาไว้ก่อนนะ",
+            "audio_en_src": "Let's leave this for later."
+          },
+          {
+            "thai": "อันนี้เอาไว้ก่อน ทำอันอื่นก่อน",
+            "en": "Set this aside for now, do the other thing first.",
+            "audio_src": "อันนี้เอาไว้ก่อน ทำอันอื่นก่อน",
+            "audio_en_src": "Set this aside for now, do the other thing first."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39385,6 +39442,25 @@
       "Tamago L3",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fond of, hooked on, captivated",
+        "sentences": [
+          {
+            "thai": "ฉันกินร้านนี้แล้วติดใจ",
+            "en": "I ate at this place and got hooked.",
+            "audio_src": "ฉันกินร้านนี้แล้วติดใจ",
+            "audio_en_src": "I ate at this place and got hooked."
+          },
+          {
+            "thai": "เขาติดใจในเสียงเพลงของเธอ",
+            "en": "He was captivated by her singing.",
+            "audio_src": "เขาติดใจในเสียงเพลงของเธอ",
+            "audio_en_src": "He was captivated by her singing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39460,6 +39536,25 @@
       "Anki Basics",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "shoulder",
+        "sentences": [
+          {
+            "thai": "ฉันปวดไหล่",
+            "en": "My shoulder hurts.",
+            "audio_src": "ฉันปวดไหล่",
+            "audio_en_src": "My shoulder hurts."
+          },
+          {
+            "thai": "เขาแบกกระเป๋าไว้บนหัวไหล่",
+            "en": "He carried the bag on his shoulder.",
+            "audio_src": "เขาแบกกระเป๋าไว้บนหัวไหล่",
+            "audio_en_src": "He carried the bag on his shoulder."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39583,6 +39678,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "overly sweet, cutesy, cheesy",
+        "sentences": [
+          {
+            "thai": "คู่นี้หวานแหววกันมาก",
+            "en": "This couple is so lovey-dovey.",
+            "audio_src": "คู่นี้หวานแหววกันมาก",
+            "audio_en_src": "This couple is so lovey-dovey."
+          },
+          {
+            "thai": "เธอพูดเสียงหวานแหวว",
+            "en": "She talks in a cutesy voice.",
+            "audio_src": "เธอพูดเสียงหวานแหวว",
+            "audio_en_src": "She talks in a cutesy voice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39678,6 +39792,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"just wait and see\", \"just keep watching\"",
+        "sentences": [
+          {
+            "thai": "คอยดูนะ เดี๋ยวก็รู้",
+            "en": "Just you wait, you'll see.",
+            "audio_src": "คอยดูนะ เดี๋ยวก็รู้",
+            "audio_en_src": "Just you wait, you'll see."
+          },
+          {
+            "thai": "คอยดูสิ ฉันทำได้แน่",
+            "en": "Just watch, I can definitely do it.",
+            "audio_src": "คอยดูสิ ฉันทำได้แน่",
+            "audio_en_src": "Just watch, I can definitely do it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39821,6 +39954,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "sweet face, soft and feminine looking face",
+        "sentences": [
+          {
+            "thai": "เธอหน้าหวานน่ารัก",
+            "en": "She has a sweet, cute face.",
+            "audio_src": "เธอหน้าหวานน่ารัก",
+            "audio_en_src": "She has a sweet, cute face."
+          },
+          {
+            "thai": "ผู้หญิงคนนั้นหน้าหวานมาก",
+            "en": "That woman has a very sweet face.",
+            "audio_src": "ผู้หญิงคนนั้นหน้าหวานมาก",
+            "audio_en_src": "That woman has a very sweet face."
+          }
+        ]
+      }
     ]
   },
   {
@@ -40029,6 +40181,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"let alone...\", \"not to mention...\"",
+        "sentences": [
+          {
+            "thai": "อย่าว่าแต่วิ่งเลย เดินยังไม่ไหว",
+            "en": "Let alone running, I can't even walk.",
+            "audio_src": "อย่าว่าแต่วิ่งเลย เดินยังไม่ไหว",
+            "audio_en_src": "Let alone running, I can't even walk."
+          },
+          {
+            "thai": "อย่าว่าแต่เที่ยวเลย เงินกินข้าวยังไม่มี",
+            "en": "Let alone traveling, I don't even have money for food.",
+            "audio_src": "อย่าว่าแต่เที่ยวเลย เงินกินข้าวยังไม่มี",
+            "audio_en_src": "Let alone traveling, I don't even have money for food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -40329,6 +40500,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to repress, to suppress one's feelings, to bottle up",
+        "sentences": [
+          {
+            "thai": "อย่าเก็บกดความรู้สึกไว้",
+            "en": "Don't bottle up your feelings.",
+            "audio_src": "อย่าเก็บกดความรู้สึกไว้",
+            "audio_en_src": "Don't bottle up your feelings."
+          },
+          {
+            "thai": "เขาเก็บกดมานานมาก",
+            "en": "He's kept things bottled up for a long time.",
+            "audio_src": "เขาเก็บกดมานานมาก",
+            "audio_en_src": "He's kept things bottled up for a long time."
+          }
+        ]
+      }
     ]
   },
   {

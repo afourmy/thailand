@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4353 words**
+**Total: 4363 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -979,31 +979,40 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-030` : เปลเด็ก (cradle, baby crib) : 1 meaning(s), 2 sentences
 - `thai9k-031` : จุกนมหลอก (pacifier) : 1 meaning(s), 2 sentences
 - `thai9k-033` : ละอายใจ (to feel ashamed of oneself, to feel remorse) : 1 meaning(s), 2 sentences
+- `thai9k-035` : เจ้าเล่ห์ (cunning, sly) : 1 meaning(s), 2 sentences
+- `thai9k-036` : เด็ดเดี่ยว (determined, resolute) : 1 meaning(s), 2 sentences
 - `thai9k-037` : หลงเชื่อ (to be fooled into believing, be gullible enough to believe) : 1 meaning(s), 2 sentences
 - `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
 - `thai9k-040` : ปริศนา (riddle, puzzle, mystery) : 1 meaning(s), 2 sentences
 - `tamago-l3-001` : ความน่าเชื่อถือ (reliability, credibility, trustworthiness) : 1 meaning(s), 2 sentences
 - `tamago-l3-003` : ตั้งชื่อ (to name (give a name to)) : 1 meaning(s), 2 sentences
 - `tamago-l3-004` : ใบรับรอง (certificate) : 1 meaning(s), 2 sentences
+- `tamago-l3-005` : เอาไว้ก่อน (to leave something for later, to set aside for now) : 1 meaning(s), 2 sentences
 - `tamago-l3-006` : ใช้ได้ (good quality, "okay", decent, usable) : 1 meaning(s), 2 sentences
 - `tamago-l3-007` : ไม่น่าเลย ("that's too bad", "that's unfortunate") : 1 meaning(s), 2 sentences
 - `tamago-l3-008` : ให้ความสนใจ (to pay attention, to take an interest in) : 1 meaning(s), 2 sentences
+- `tamago-l3-009` : ติดใจ (fond of, hooked on, captivated) : 1 meaning(s), 2 sentences
 - `tamago-l3-010` : ต่อเวลา (to extend the time) : 1 meaning(s), 2 sentences
 - `tamago-l3-011` : นอนคว่ำ (to lie face down) : 1 meaning(s), 2 sentences
+- `tamago-l3-012` : ไหล่, หัวไหล่ (shoulder) : 1 meaning(s), 2 sentences
 - `tamago-l3-013` : ชำระเงิน (to make a payment, to settle a bill) : 1 meaning(s), 2 sentences
 - `tamago-l3-014` : นอก, ด้านนอก (outside, exterior side) : 1 meaning(s), 2 sentences
 - `tamago-l3-016` : โล่ง (empty, spacious, clear (of obstruction); relieved) : 2 meaning(s), 4 sentences
+- `tamago-l3-017` : หวานแหวว (overly sweet, cutesy, cheesy) : 1 meaning(s), 2 sentences
 - `tamago-l3-018` : ประดับ (to decorate, to adorn) : 1 meaning(s), 2 sentences
 - `tamago-l3-019` : สูตร (recipe; formula) : 2 meaning(s), 4 sentences
+- `tamago-l3-020` : คอยดู ("just wait and see", "just keep watching") : 1 meaning(s), 2 sentences
 - `tamago-l3-021` : ตั้ง (to set up, to arrange, established; up to, as much as) : 2 meaning(s), 4 sentences
 - `tamago-l3-022` : ลงมือ (to start doing something, to "get down to it") : 1 meaning(s), 2 sentences
 - `tamago-l3-023` : แยกออก (to be able to distinguish; to separate out) : 2 meaning(s), 4 sentences
+- `tamago-l3-024` : หน้าหวาน (sweet face, soft and feminine looking face) : 1 meaning(s), 2 sentences
 - `tamago-l3-025` : บึกบึน (muscular, sturdy, robust) : 1 meaning(s), 2 sentences
 - `tamago-l3-028` : เข้าชุด (to match, to go well together (clothing, set)) : 1 meaning(s), 2 sentences
 - `tamago-l3-029` : ออกงาน (to attend an event, to go to an event) : 1 meaning(s), 2 sentences
 - `tamago-l3-030` : ร้านซักอบรีด (laundry shop (wash-dry-iron)) : 1 meaning(s), 2 sentences
 - `tamago-l3-031` : บริจาค (to donate) : 1 meaning(s), 2 sentences
 - `tamago-l3-032` : คนไร้ที่อยู่ (homeless person) : 1 meaning(s), 2 sentences
+- `tamago-l3-033` : อย่าว่าแต่...เลย ("let alone...", "not to mention...") : 1 meaning(s), 2 sentences
 - `tamago-l3-034` : หาว่า (to accuse (e.g without proof), to claim (something negative)) : 1 meaning(s), 2 sentences
 - `tamago-l3-035` : โปรด (favorite) : 1 meaning(s), 2 sentences
 - `tamago-l3-036` : คุ้น, คุ้นเคย, คุ้นชิน (familiar, recognizable; to be familiar with, used to) : 2 meaning(s), 4 sentences
@@ -1011,6 +1020,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
 - `tamago-l3-040` : สุดโต่ง (extreme, radical) : 1 meaning(s), 2 sentences
 - `tamago-l3-041` : คงที่ (stable, constant, unchanging) : 1 meaning(s), 2 sentences
+- `tamago-l3-043` : เก็บกด (to repress, to suppress one's feelings, to bottle up) : 1 meaning(s), 2 sentences
 - `tamago-l3-044` : แรงกระตุ้น (motivation) : 1 meaning(s), 2 sentences
 - `tamago-l3-045` : งานบ้าน (housework) : 1 meaning(s), 2 sentences
 - `tamago-l3-046` : เอาเหอะ ("never mind", "whatever", "forget about it") : 1 meaning(s), 2 sentences
