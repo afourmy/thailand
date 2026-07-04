@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5043 words**
+**Total: 5053 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3008,12 +3008,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-413` : การก่อการร้าย (terrorism) : 1 meaning(s), 2 sentences
 - `tobo-414` : ห้องนั่งเล่น, ห้องรับแขก (living room) : 1 meaning(s), 2 sentences
 - `tobo-415` : ภาษี (tax) : 1 meaning(s), 2 sentences
+- `tobo-416` : ไร้เดียงสา (innocent, naive) : 1 meaning(s), 2 sentences
 - `tobo-417` : น้ำพุ (fountain) : 1 meaning(s), 2 sentences
 - `tobo-418` : การแข่งขัน (competition) : 1 meaning(s), 2 sentences
+- `tobo-419` : เหงื่อออก (to sweat) : 1 meaning(s), 2 sentences
 - `tobo-420` : ผลกระทบ (impact, effect) : 1 meaning(s), 2 sentences
+- `tobo-421` : ความเห็นใจ (sympathy, empathy) : 1 meaning(s), 2 sentences
+- `tobo-422` : ผิดหวัง (disappointed) : 1 meaning(s), 2 sentences
 - `tobo-425` : โต๊ะหัวเตียง (nightstand, bedside table) : 1 meaning(s), 2 sentences
+- `tobo-426` : ดอกเบี้ย (interest (financial)) : 1 meaning(s), 2 sentences
 - `tobo-427` : เครือข่าย (network) : 1 meaning(s), 2 sentences
 - `tobo-428` : ใบอนุญาต (license, permit) : 1 meaning(s), 2 sentences
+- `tobo-430` : ตั้งครรภ์ (pregnant (formal)) : 1 meaning(s), 2 sentences
 - `tobo-431` : ผู้ก่อตั้ง (founder) : 1 meaning(s), 2 sentences
 - `tobo-432` : บรรลุ (to achieve, to accomplish, to attain) : 1 meaning(s), 2 sentences
 - `tobo-434` : ทำให้สั้น (to shorten) : 1 meaning(s), 2 sentences
@@ -3025,13 +3031,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-442` : มหาวิทยาลัย (university; campus) : 2 meaning(s), 4 sentences
 - `tobo-443` : ดึงดูดความสนใจ (to attract attention) : 1 meaning(s), 2 sentences
 - `tobo-444` : ผู้ชม (audience, spectator) : 1 meaning(s), 2 sentences
+- `tobo-445` : มีจริยธรรม (ethical) : 1 meaning(s), 2 sentences
 - `tobo-447` : ที่พัก (accommodation, lodging) : 1 meaning(s), 2 sentences
+- `tobo-448` : เล็บ (nail (fingernail or toenail)) : 1 meaning(s), 2 sentences
+- `tobo-449` : อ่อนไหว (sensitive, emotional) : 1 meaning(s), 2 sentences
 - `tobo-450` : แหย่ (to tease light-heartedly, to gently provoke) : 1 meaning(s), 2 sentences
 - `tobo-451` : เปลือย (naked, bare) : 1 meaning(s), 2 sentences
 - `tobo-453` : อิสระ (independent, free) : 1 meaning(s), 2 sentences
 - `tobo-454` : ม้านั่ง (bench) : 1 meaning(s), 2 sentences
 - `tobo-455` : ค้นพบ (to discover) : 1 meaning(s), 2 sentences
 - `tobo-456` : เป่าปาก (to whistle (with mouth)) : 1 meaning(s), 2 sentences
+- `tobo-457` : แมลงสาบ (cockroach) : 1 meaning(s), 2 sentences
 - `tobo-459` : เปรียบเทียบ (to compare) : 1 meaning(s), 2 sentences
 - `tobo-460` : การสังเกต (observation) : 1 meaning(s), 2 sentences
 - `tobo-461` : ตัวอย่าง (sample, example) : 1 meaning(s), 2 sentences

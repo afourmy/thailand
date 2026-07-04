@@ -114699,6 +114699,25 @@
     "sources": [
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "innocent, naive",
+        "sentences": [
+          {
+            "thai": "เด็กยังไร้เดียงสา ไม่รู้เรื่องอะไร",
+            "en": "Kids are innocent; they don’t know anything yet.",
+            "audio_src": "เด็กยังไร้เดียงสา ไม่รู้เรื่องอะไร",
+            "audio_en_src": "Kids are innocent; they don’t know anything yet."
+          },
+          {
+            "thai": "อย่าไร้เดียงสาไปหน่อยเลย เขาหลอกคุณ",
+            "en": "Don’t be so naive, he’s tricking you.",
+            "audio_src": "อย่าไร้เดียงสาไปหน่อยเลย เขาหลอกคุณ",
+            "audio_en_src": "Don’t be so naive, he’s tricking you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114772,6 +114791,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to sweat",
+        "sentences": [
+          {
+            "thai": "อากาศร้อนจนเหงื่อออก",
+            "en": "It’s so hot I’m sweating.",
+            "audio_src": "อากาศร้อนจนเหงื่อออก",
+            "audio_en_src": "It’s so hot I’m sweating."
+          },
+          {
+            "thai": "วิ่งแป๊บเดียวก็เหงื่อออกแล้ว",
+            "en": "I only ran a little and I’m already sweating.",
+            "audio_src": "วิ่งแป๊บเดียวก็เหงื่อออกแล้ว",
+            "audio_en_src": "I only ran a little and I’m already sweating."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114816,6 +114854,25 @@
     "sources": [
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "sympathy, empathy",
+        "sentences": [
+          {
+            "thai": "เขาไม่มีความเห็นใจคนอื่นเลย",
+            "en": "He has no sympathy for others at all.",
+            "audio_src": "เขาไม่มีความเห็นใจคนอื่นเลย",
+            "audio_en_src": "He has no sympathy for others at all."
+          },
+          {
+            "thai": "ขอบคุณสำหรับความเห็นใจ",
+            "en": "Thank you for your sympathy.",
+            "audio_src": "ขอบคุณสำหรับความเห็นใจ",
+            "audio_en_src": "Thank you for your sympathy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114828,6 +114885,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "disappointed",
+        "sentences": [
+          {
+            "thai": "ฉันผิดหวังในตัวเขามาก",
+            "en": "I’m really disappointed in him.",
+            "audio_src": "ฉันผิดหวังในตัวเขามาก",
+            "audio_en_src": "I’m really disappointed in him."
+          },
+          {
+            "thai": "อย่าผิดหวังไปเลย ลองใหม่ได้",
+            "en": "Don’t be disappointed, you can try again.",
+            "audio_src": "อย่าผิดหวังไปเลย ลองใหม่ได้",
+            "audio_en_src": "Don’t be disappointed, you can try again."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114893,6 +114969,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "interest (financial)",
+        "sentences": [
+          {
+            "thai": "เงินกู้นี้ดอกเบี้ยสูงมาก",
+            "en": "This loan has really high interest.",
+            "audio_src": "เงินกู้นี้ดอกเบี้ยสูงมาก",
+            "audio_en_src": "This loan has really high interest."
+          },
+          {
+            "thai": "ฝากเงินกับธนาคารได้ดอกเบี้ยนิดเดียว",
+            "en": "You get very little interest saving with the bank.",
+            "audio_src": "ฝากเงินกับธนาคารได้ดอกเบี้ยนิดเดียว",
+            "audio_en_src": "You get very little interest saving with the bank."
+          }
+        ]
+      }
     ]
   },
   {
@@ -114967,6 +115062,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "pregnant (formal)",
+        "sentences": [
+          {
+            "thai": "เธอตั้งครรภ์ได้สามเดือนแล้ว",
+            "en": "She’s been pregnant for three months.",
+            "audio_src": "เธอตั้งครรภ์ได้สามเดือนแล้ว",
+            "audio_en_src": "She’s been pregnant for three months."
+          },
+          {
+            "thai": "ห้ามสูบบุหรี่ขณะตั้งครรภ์",
+            "en": "Do not smoke while pregnant.",
+            "audio_src": "ห้ามสูบบุหรี่ขณะตั้งครรภ์",
+            "audio_en_src": "Do not smoke while pregnant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -115345,6 +115459,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "ethical",
+        "sentences": [
+          {
+            "thai": "นักธุรกิจที่ดีต้องมีจริยธรรม",
+            "en": "A good businessperson must be ethical.",
+            "audio_src": "นักธุรกิจที่ดีต้องมีจริยธรรม",
+            "audio_en_src": "A good businessperson must be ethical."
+          },
+          {
+            "thai": "แพทย์ต้องทำงานอย่างมีจริยธรรม",
+            "en": "Doctors must work ethically.",
+            "audio_src": "แพทย์ต้องทำงานอย่างมีจริยธรรม",
+            "audio_en_src": "Doctors must work ethically."
+          }
+        ]
+      }
     ]
   },
   {
@@ -115390,6 +115523,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "nail (fingernail or toenail)",
+        "sentences": [
+          {
+            "thai": "เธอทาเล็บสีแดง",
+            "en": "She painted her nails red.",
+            "audio_src": "เธอทาเล็บสีแดง",
+            "audio_en_src": "She painted her nails red."
+          },
+          {
+            "thai": "เล็บเท้าฉันยาวแล้ว ต้องตัด",
+            "en": "My toenails are long; I need to cut them.",
+            "audio_src": "เล็บเท้าฉันยาวแล้ว ต้องตัด",
+            "audio_en_src": "My toenails are long; I need to cut them."
+          }
+        ]
+      }
     ]
   },
   {
@@ -115400,6 +115552,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "sensitive, emotional",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนอ่อนไหว ร้องไห้ง่าย",
+            "en": "He’s sensitive and cries easily.",
+            "audio_src": "เขาเป็นคนอ่อนไหว ร้องไห้ง่าย",
+            "audio_en_src": "He’s sensitive and cries easily."
+          },
+          {
+            "thai": "เรื่องนี้อ่อนไหว ต้องพูดให้ดี",
+            "en": "This is a sensitive topic; be careful how you say it.",
+            "audio_src": "เรื่องนี้อ่อนไหว ต้องพูดให้ดี",
+            "audio_en_src": "This is a sensitive topic; be careful how you say it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -115614,6 +115785,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cockroach",
+        "sentences": [
+          {
+            "thai": "มีแมลงสาบในครัว",
+            "en": "There’s a cockroach in the kitchen.",
+            "audio_src": "มีแมลงสาบในครัว",
+            "audio_en_src": "There’s a cockroach in the kitchen."
+          },
+          {
+            "thai": "ฉันกลัวแมลงสาบมาก",
+            "en": "I’m really scared of cockroaches.",
+            "audio_src": "ฉันกลัวแมลงสาบมาก",
+            "audio_en_src": "I’m really scared of cockroaches."
+          }
+        ]
+      }
     ]
   },
   {
