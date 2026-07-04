@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4543 words**
+**Total: 4553 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1480,10 +1480,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-634` : ฟอง (classifier for eggs; bubble, foam) : 2 meaning(s), 4 sentences
 - `tamago-l3-635` : จัด...มา (to bring something, to get something ready) : 1 meaning(s), 2 sentences
 - `tamago-l3-636` : กลุ้มใจ (worried, anxious, troubled, mentally burdened (on-going concern)) : 1 meaning(s), 2 sentences
+- `tamago-l3-637` : ท้องร้อง (stomach growling (from hunger)) : 1 meaning(s), 2 sentences
+- `tamago-l3-638` : เปิดอกคุย (to open up and talk about one's feelings) : 1 meaning(s), 2 sentences
 - `tamago-l3-639` : คลี่คลาย (to improve, to ease up, to resolve) : 1 meaning(s), 2 sentences
 - `tamago-l3-640` : ย่าน (area, zone, neighborhood) : 1 meaning(s), 2 sentences
 - `tamago-l3-641` : สดๆ (fresh; new, very recent) : 2 meaning(s), 4 sentences
 - `tamago-l3-642` : มิดชิด (tightly closed, sealed) : 1 meaning(s), 2 sentences
+- `tamago-l3-645` : บีบคั้น (to pressure emotionally, to oppress) : 1 meaning(s), 2 sentences
+- `tamago-l3-646` : ไม่เต็มใจ (unwilling, reluctant) : 1 meaning(s), 2 sentences
+- `tamago-l3-647` : ล้างบาป (to atone for a sin, to cleanse sin) : 1 meaning(s), 2 sentences
 - `tamago-l3-650` : จับกลุ่ม (to form a group, to group up) : 1 meaning(s), 2 sentences
 - `tamago-l3-654` : ความรู้รอบตัว (general knowledge) : 1 meaning(s), 2 sentences
 - `tamago-l3-656` : หัวข้อย่อย (sub-topic) : 1 meaning(s), 2 sentences
@@ -1497,9 +1502,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-668` : ตัดบท (to cut short, to interrupt, to change the topic abruptly) : 1 meaning(s), 2 sentences
 - `tamago-l3-669` : เจาะ (to drill, to pierce; to dig into (a topic)) : 2 meaning(s), 4 sentences
 - `tamago-l3-670` : ชน (to collide with, to hit; tribe, ethnic group) : 2 meaning(s), 4 sentences
+- `tamago-l3-671` : เชื้อสาย (ancestry, descent, lineage) : 1 meaning(s), 2 sentences
+- `tamago-l3-672` : ตระกูล (family, lineage, clan) : 1 meaning(s), 2 sentences
+- `tamago-l3-674` : ในเมื่อ (since, given that, because) : 1 meaning(s), 2 sentences
 - `tamago-l3-675` : พลอย (gem, precious stone; to also be affected, to be involved indirectly) : 2 meaning(s), 4 sentences
 - `tamago-l3-676` : ฉุด (to drag, to pull (forcefully)) : 1 meaning(s), 2 sentences
 - `tamago-l3-677` : สามัคคี (unity, to work together) : 1 meaning(s), 2 sentences
+- `tamago-l3-678` : เคร่งครัด (strict, rigorous) : 1 meaning(s), 2 sentences
+- `tamago-l3-679` : หูตึง (hard of hearing, partially deaf) : 1 meaning(s), 2 sentences
 - `tamago-l3-685` : ตู้เซฟ (safe, safety box) : 1 meaning(s), 2 sentences
 - `tamago-l3-690` : สืบ (to investigate, to inquire into) : 1 meaning(s), 2 sentences
 - `tamago-l3-693` : ส่องกระจก (to look at oneself in the mirror) : 1 meaning(s), 2 sentences

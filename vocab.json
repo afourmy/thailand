@@ -56483,6 +56483,25 @@
     "topic": "health",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "stomach growling (from hunger)",
+        "sentences": [
+          {
+            "thai": "หิวจนท้องร้อง",
+            "en": "I'm so hungry my stomach is growling.",
+            "audio_src": "หิวจนท้องร้อง",
+            "audio_en_src": "I'm so hungry my stomach is growling."
+          },
+          {
+            "thai": "ท้องร้องเสียงดังกลางห้องเรียน",
+            "en": "My stomach growled loudly in the middle of class.",
+            "audio_src": "ท้องร้องเสียงดังกลางห้องเรียน",
+            "audio_en_src": "My stomach growled loudly in the middle of class."
+          }
+        ]
+      }
     ]
   },
   {
@@ -56493,6 +56512,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to open up and talk about one's feelings",
+        "sentences": [
+          {
+            "thai": "เรามาเปิดอกคุยกันดีกว่า",
+            "en": "Let's have an open, honest talk.",
+            "audio_src": "เรามาเปิดอกคุยกันดีกว่า",
+            "audio_en_src": "Let's have an open, honest talk."
+          },
+          {
+            "thai": "หลังเปิดอกคุยกัน ทั้งคู่ก็เข้าใจกันมากขึ้น",
+            "en": "After they opened up to each other, the two understood each other better.",
+            "audio_src": "หลังเปิดอกคุยกัน ทั้งคู่ก็เข้าใจกันมากขึ้น",
+            "audio_en_src": "After they opened up to each other, the two understood each other better."
+          }
+        ]
+      }
     ]
   },
   {
@@ -56654,6 +56692,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to pressure emotionally, to oppress",
+        "sentences": [
+          {
+            "thai": "เขารู้สึกถูกบีบคั้นจากงานหนัก",
+            "en": "He feels pressured by the heavy workload.",
+            "audio_src": "เขารู้สึกถูกบีบคั้นจากงานหนัก",
+            "audio_en_src": "He feels pressured by the heavy workload."
+          },
+          {
+            "thai": "อย่าบีบคั้นให้เขาตัดสินใจ",
+            "en": "Don't pressure him into deciding.",
+            "audio_src": "อย่าบีบคั้นให้เขาตัดสินใจ",
+            "audio_en_src": "Don't pressure him into deciding."
+          }
+        ]
+      }
     ]
   },
   {
@@ -56664,6 +56721,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "unwilling, reluctant",
+        "sentences": [
+          {
+            "thai": "เขาไม่เต็มใจช่วยเลย",
+            "en": "He's not willing to help at all.",
+            "audio_src": "เขาไม่เต็มใจช่วยเลย",
+            "audio_en_src": "He's not willing to help at all."
+          },
+          {
+            "thai": "ฉันไม่เต็มใจไปแต่ก็ต้องไป",
+            "en": "I'm reluctant to go but I have to.",
+            "audio_src": "ฉันไม่เต็มใจไปแต่ก็ต้องไป",
+            "audio_en_src": "I'm reluctant to go but I have to."
+          }
+        ]
+      }
     ]
   },
   {
@@ -56674,6 +56750,25 @@
     "topic": "beliefs",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to atone for a sin, to cleanse sin",
+        "sentences": [
+          {
+            "thai": "เขาไปทำบุญเพื่อล้างบาป",
+            "en": "He made merit to atone for his sins.",
+            "audio_src": "เขาไปทำบุญเพื่อล้างบาป",
+            "audio_en_src": "He made merit to atone for his sins."
+          },
+          {
+            "thai": "บางศาสนาเชื่อเรื่องการล้างบาป",
+            "en": "Some religions believe in cleansing sin.",
+            "audio_src": "บางศาสนาเชื่อเรื่องการล้างบาป",
+            "audio_en_src": "Some religions believe in cleansing sin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57237,6 +57332,25 @@
       "Tamago L3",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ancestry, descent, lineage",
+        "sentences": [
+          {
+            "thai": "เขามีเชื้อสายจีน",
+            "en": "He has Chinese ancestry.",
+            "audio_src": "เขามีเชื้อสายจีน",
+            "audio_en_src": "He has Chinese ancestry."
+          },
+          {
+            "thai": "ครอบครัวเธอมีเชื้อสายขุนนาง",
+            "en": "Her family is of noble descent.",
+            "audio_src": "ครอบครัวเธอมีเชื้อสายขุนนาง",
+            "audio_en_src": "Her family is of noble descent."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57249,6 +57363,25 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "family, lineage, clan",
+        "sentences": [
+          {
+            "thai": "เขามาจากตระกูลใหญ่",
+            "en": "He comes from a big family.",
+            "audio_src": "เขามาจากตระกูลใหญ่",
+            "audio_en_src": "He comes from a big family."
+          },
+          {
+            "thai": "นามสกุลนี้เป็นตระกูลเก่าแก่",
+            "en": "This surname belongs to an old lineage.",
+            "audio_src": "นามสกุลนี้เป็นตระกูลเก่าแก่",
+            "audio_en_src": "This surname belongs to an old lineage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57271,6 +57404,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "since, given that, because",
+        "sentences": [
+          {
+            "thai": "ในเมื่อเธอไม่ชอบ ก็ไม่ต้องทำ",
+            "en": "Since you don't like it, you don't have to do it.",
+            "audio_src": "ในเมื่อเธอไม่ชอบ ก็ไม่ต้องทำ",
+            "audio_en_src": "Since you don't like it, you don't have to do it."
+          },
+          {
+            "thai": "ในเมื่อฝนตก เราก็อยู่บ้านกันเถอะ",
+            "en": "Since it's raining, let's just stay home.",
+            "audio_src": "ในเมื่อฝนตก เราก็อยู่บ้านกันเถอะ",
+            "audio_en_src": "Since it's raining, let's just stay home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57399,6 +57551,25 @@
       "YouTube",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "strict, rigorous",
+        "sentences": [
+          {
+            "thai": "โรงเรียนนี้เคร่งครัดเรื่องระเบียบ",
+            "en": "This school is strict about rules.",
+            "audio_src": "โรงเรียนนี้เคร่งครัดเรื่องระเบียบ",
+            "audio_en_src": "This school is strict about rules."
+          },
+          {
+            "thai": "เขาเคร่งครัดในการปฏิบัติศาสนา",
+            "en": "He's strict about practicing his religion.",
+            "audio_src": "เขาเคร่งครัดในการปฏิบัติศาสนา",
+            "audio_en_src": "He's strict about practicing his religion."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57409,6 +57580,25 @@
     "topic": "health",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "hard of hearing, partially deaf",
+        "sentences": [
+          {
+            "thai": "คุณปู่หูตึง ต้องพูดดังๆ",
+            "en": "Grandpa is hard of hearing, you have to speak loudly.",
+            "audio_src": "คุณปู่หูตึง ต้องพูดดังๆ",
+            "audio_en_src": "Grandpa is hard of hearing, you have to speak loudly."
+          },
+          {
+            "thai": "พอแก่ตัวลงเขาก็หูตึง",
+            "en": "As he got older, he became hard of hearing.",
+            "audio_src": "พอแก่ตัวลงเขาก็หูตึง",
+            "audio_en_src": "As he got older, he became hard of hearing."
+          }
+        ]
+      }
     ]
   },
   {
