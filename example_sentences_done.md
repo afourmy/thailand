@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4863 words**
+**Total: 4873 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2363,25 +2363,35 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0773` : มั่นคง (stable, secure, steady) : 1 meaning(s), 2 sentences
 - `thaipod-0776` : มากพอๆ กัน (about equally many, roughly the same amount) : 1 meaning(s), 2 sentences
 - `thaipod-0777` : มากมาย (many, plenty, abundant) : 1 meaning(s), 2 sentences
+- `thaipod-0778` : มากเกินพอ (more than enough) : 1 meaning(s), 2 sentences
 - `thaipod-0782` : มือใหม่ (beginner, novice) : 1 meaning(s), 2 sentences
 - `thaipod-0783` : มุ่งหวัง (to aim for, to hope for) : 1 meaning(s), 2 sentences
+- `thaipod-0785` : ยอดขาย (sales, sales total) : 1 meaning(s), 2 sentences
 - `thaipod-0788` : ยอดเยี่ยม (excellent, outstanding) : 1 meaning(s), 2 sentences
 - `thaipod-0789` : ยอม (to agree, to give in, to admit) : 1 meaning(s), 3 sentences
 - `thaipod-0790` : ยอมรับ (to admit, to accept, to acknowledge) : 1 meaning(s), 2 sentences
+- `thaipod-0791` : ยังกับ (as if, just like, exactly like) : 1 meaning(s), 2 sentences
 - `thaipod-0794` : ยังไง (anyway, how) : 1 meaning(s), 3 sentences
+- `thaipod-0798` : ยามค่ำคืน (at night, nighttime (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0803` : ยิ่งใหญ่ (great, magnificent, grandiose) : 1 meaning(s), 2 sentences
 - `thaipod-0808` : ยุทธศาสตร์ (strategy, strategic plan) : 1 meaning(s), 2 sentences
 - `thaipod-0810` : ย่อ (short, to shorten, abbreviated) : 1 meaning(s), 2 sentences
 - `thaipod-0811` : ย่านการค้า (commercial area, business district) : 1 meaning(s), 2 sentences
+- `thaipod-0813` : รถชน (car accident) : 1 meaning(s), 2 sentences
 - `thaipod-0814` : รถติด (traffic jam) : 1 meaning(s), 2 sentences
+- `thaipod-0816` : รถสามล้อ (tuk-tuk (three-wheeler)) : 1 meaning(s), 2 sentences
 - `thaipod-0818` : รบ, สู้รบ (to fight, to battle) : 1 meaning(s), 2 sentences
 - `thaipod-0819` : รวบรวม (to compile, to gather, to unify) : 1 meaning(s), 2 sentences
+- `thaipod-0820` : รวมถึง (including, as well as) : 1 meaning(s), 2 sentences
+- `thaipod-0822` : รสชาติ (taste, flavor) : 1 meaning(s), 2 sentences
+- `thaipod-0823` : รองจาก (second to (next to in rank or importance)) : 1 meaning(s), 2 sentences
 - `thaipod-0827` : รอยต่อ (joint, connection point) : 1 meaning(s), 2 sentences
 - `thaipod-0828` : รอยสัก, สัก (tattoo) : 1 meaning(s), 2 sentences
 - `thaipod-0829` : รอยเท้า (footprint) : 1 meaning(s), 2 sentences
 - `thaipod-0830` : รอยแตก (crack, fracture) : 1 meaning(s), 2 sentences
 - `thaipod-0831` : ระฆัง (bell (large, e.g temple bell)) : 1 meaning(s), 2 sentences
 - `thaipod-0832` : ระยะ (span, phase, period) : 1 meaning(s), 2 sentences
+- `thaipod-0833` : ระยะเวลา (period of time, time span) : 1 meaning(s), 2 sentences
 - `thaipod-0834` : ระลึก (commemorative, to recall) : 1 meaning(s), 2 sentences
 - `thaipod-0835` : ระหว่าง (during, between) : 2 meaning(s), 4 sentences
 - `thaipod-0836` : ระหว่างทาง (on the way, along the way) : 1 meaning(s), 2 sentences

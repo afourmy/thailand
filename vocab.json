@@ -91075,6 +91075,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "more than enough",
+        "sentences": [
+          {
+            "thai": "อาหารที่เตรียมไว้มีมากเกินพอ",
+            "en": "There's more than enough food prepared.",
+            "audio_src": "อาหารที่เตรียมไว้มีมากเกินพอ",
+            "audio_en_src": "There's more than enough food prepared."
+          },
+          {
+            "thai": "เวลาที่เหลือมากเกินพอสำหรับทำข้อสอบ",
+            "en": "There's more than enough time left to finish the exam.",
+            "audio_src": "เวลาที่เหลือมากเกินพอสำหรับทำข้อสอบ",
+            "audio_en_src": "There's more than enough time left to finish the exam."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91148,6 +91167,25 @@
     "topic": "economy",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sales, sales total",
+        "sentences": [
+          {
+            "thai": "เดือนนี้ยอดขายเพิ่มขึ้นสองเท่า",
+            "en": "This month sales doubled.",
+            "audio_src": "เดือนนี้ยอดขายเพิ่มขึ้นสองเท่า",
+            "audio_en_src": "This month sales doubled."
+          },
+          {
+            "thai": "ร้านมียอดขายดีช่วงเทศกาล",
+            "en": "The shop has good sales during the festival.",
+            "audio_src": "ร้านมียอดขายดีช่วงเทศกาล",
+            "audio_en_src": "The shop has good sales during the festival."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91263,6 +91301,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "as if, just like, exactly like",
+        "sentences": [
+          {
+            "thai": "เขากินยังกับไม่ได้กินมาหลายวัน",
+            "en": "He eats as if he hasn't eaten in days.",
+            "audio_src": "เขากินยังกับไม่ได้กินมาหลายวัน",
+            "audio_en_src": "He eats as if he hasn't eaten in days."
+          },
+          {
+            "thai": "ในห้องเงียบยังกับป่าช้า",
+            "en": "The room is as quiet as a graveyard.",
+            "audio_src": "ในห้องเงียบยังกับป่าช้า",
+            "audio_en_src": "The room is as quiet as a graveyard."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91325,6 +91382,25 @@
     "topic": "time",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "at night, nighttime (formal)",
+        "sentences": [
+          {
+            "thai": "ยามค่ำคืนเมืองนี้สวยงามด้วยแสงไฟ",
+            "en": "At night this city is beautiful with all its lights.",
+            "audio_src": "ยามค่ำคืนเมืองนี้สวยงามด้วยแสงไฟ",
+            "audio_en_src": "At night this city is beautiful with all its lights."
+          },
+          {
+            "thai": "เขาชอบเดินเล่นในยามค่ำคืน",
+            "en": "He likes to take strolls at night.",
+            "audio_src": "เขาชอบเดินเล่นในยามค่ำคืน",
+            "audio_en_src": "He likes to take strolls at night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91513,6 +91589,25 @@
     "topic": "transport",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "car accident",
+        "sentences": [
+          {
+            "thai": "เกิดรถชนบนทางด่วนเมื่อเช้า",
+            "en": "There was a car accident on the expressway this morning.",
+            "audio_src": "เกิดรถชนบนทางด่วนเมื่อเช้า",
+            "audio_en_src": "There was a car accident on the expressway this morning."
+          },
+          {
+            "thai": "เขาบาดเจ็บสาหัสจากรถชน",
+            "en": "He was seriously injured in a car accident.",
+            "audio_src": "เขาบาดเจ็บสาหัสจากรถชน",
+            "audio_en_src": "He was seriously injured in a car accident."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91557,6 +91652,25 @@
     "topic": "transport",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "tuk-tuk (three-wheeler)",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวชอบนั่งรถสามล้อ",
+            "en": "Tourists love riding tuk-tuks.",
+            "audio_src": "นักท่องเที่ยวชอบนั่งรถสามล้อ",
+            "audio_en_src": "Tourists love riding tuk-tuks."
+          },
+          {
+            "thai": "รถสามล้อวิ่งในตัวเมืองเยอะ",
+            "en": "There are lots of tuk-tuks around downtown.",
+            "audio_src": "รถสามล้อวิ่งในตัวเมืองเยอะ",
+            "audio_en_src": "There are lots of tuk-tuks around downtown."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91644,6 +91758,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "including, as well as",
+        "sentences": [
+          {
+            "thai": "ทุกคนต้องมา รวมถึงหัวหน้าด้วย",
+            "en": "Everyone has to come, including the boss.",
+            "audio_src": "ทุกคนต้องมา รวมถึงหัวหน้าด้วย",
+            "audio_en_src": "Everyone has to come, including the boss."
+          },
+          {
+            "thai": "ราคานี้รวมถึงค่าอาหารด้วย",
+            "en": "This price includes the cost of food as well.",
+            "audio_src": "ราคานี้รวมถึงค่าอาหารด้วย",
+            "audio_en_src": "This price includes the cost of food as well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91656,6 +91789,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "taste, flavor",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้รสชาติจัดจ้าน",
+            "en": "The food at this place has a bold flavor.",
+            "audio_src": "อาหารร้านนี้รสชาติจัดจ้าน",
+            "audio_en_src": "The food at this place has a bold flavor."
+          },
+          {
+            "thai": "ผลไม้ไทยมีรสชาติหวานอร่อย",
+            "en": "Thai fruit has a sweet, delicious taste.",
+            "audio_src": "ผลไม้ไทยมีรสชาติหวานอร่อย",
+            "audio_en_src": "Thai fruit has a sweet, delicious taste."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91666,6 +91818,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "second to (next to in rank or importance)",
+        "sentences": [
+          {
+            "thai": "เขาเก่งเป็นรองจากพี่ชายเท่านั้น",
+            "en": "He's second only to his older brother in skill.",
+            "audio_src": "เขาเก่งเป็นรองจากพี่ชายเท่านั้น",
+            "audio_en_src": "He's second only to his older brother in skill."
+          },
+          {
+            "thai": "แม่น้ำสายนี้ยาวเป็นรองจากแม่น้ำโขง",
+            "en": "This river is second in length only to the Mekong.",
+            "audio_src": "แม่น้ำสายนี้ยาวเป็นรองจากแม่น้ำโขง",
+            "audio_en_src": "This river is second in length only to the Mekong."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91877,6 +92048,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "period of time, time span",
+        "sentences": [
+          {
+            "thai": "โครงการนี้ใช้ระยะเวลาหนึ่งปี",
+            "en": "This project takes a period of one year.",
+            "audio_src": "โครงการนี้ใช้ระยะเวลาหนึ่งปี",
+            "audio_en_src": "This project takes a period of one year."
+          },
+          {
+            "thai": "ในระยะเวลาสั้นๆเขาพัฒนาขึ้นมาก",
+            "en": "In a short period of time he improved a lot.",
+            "audio_src": "ในระยะเวลาสั้นๆเขาพัฒนาขึ้นมาก",
+            "audio_en_src": "In a short period of time he improved a lot."
+          }
+        ]
+      }
     ]
   },
   {
