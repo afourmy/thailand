@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4663 words**
+**Total: 4673 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1751,12 +1751,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-131` : ขี้แย (crybaby, overly sensitive (cries easily)) : 1 meaning(s), 2 sentences
 - `tsl-132` : อุทาน (to exclaim ("wow!", "ouch!")) : 1 meaning(s), 2 sentences
 - `tsl-134` : ถนอม (to preserve, to nurture (food, books, documents, friendship)) : 1 meaning(s), 2 sentences
+- `tsl-135` : บูดเน่า (rotten, spoiled) : 1 meaning(s), 2 sentences
+- `tsl-136` : ปรุงรส (to season (food)) : 1 meaning(s), 2 sentences
 - `tsl-137` : ยอดฮิต (hit, most popular) : 1 meaning(s), 2 sentences
+- `tsl-138` : พื้นบ้าน, พื้นเมือง (traditional, folk, native, local) : 1 meaning(s), 2 sentences
 - `tsl-141` : ได้รับอิทธิพล (to be influenced by) : 1 meaning(s), 2 sentences
+- `tsl-142` : ชื่อการค้า (trade name, brand name) : 1 meaning(s), 2 sentences
+- `tsl-143` : นมข้นหวาน (sweetened condensed milk) : 1 meaning(s), 2 sentences
+- `tsl-145` : ถูกอกถูกใจ (to be very pleased, pleasing, to one's liking) : 1 meaning(s), 2 sentences
 - `tsl-146` : บ้านๆ (simple, unpretentious, rustic, local) : 1 meaning(s), 2 sentences
 - `tsl-147` : เละเทะ (messy, chaotic, in complete disorder) : 1 meaning(s), 2 sentences
+- `tsl-149` : ติดเงิน (to owe money) : 1 meaning(s), 2 sentences
 - `tsl-150` : ป่าช้า (cemetery, burial ground (rural)) : 1 meaning(s), 2 sentences
+- `tsl-151` : สังคมก้มหน้า ((idiom) smartphone-addicted society (literally "society with bowed heads")) : 1 meaning(s), 2 sentences
 - `tsl-154` : หล่น (to drop, to fall (single object falling)) : 1 meaning(s), 2 sentences
+- `tsl-155` : เขี้ยว (fang (animal); canine tooth (human)) : 2 meaning(s), 4 sentences
+- `tsl-156` : นอนหลับไม่สนิท (to sleep restlessly, to not sleep well) : 1 meaning(s), 2 sentences
 - `tsl-157` : รู (hole, small opening, cavity) : 1 meaning(s), 2 sentences
 - `tsl-159` : ติดแน่น (stuck firmly, tightly attached) : 1 meaning(s), 2 sentences
 - `tsl-162` : คุ้มค่า (worth it, worthwhile, good value) : 1 meaning(s), 2 sentences

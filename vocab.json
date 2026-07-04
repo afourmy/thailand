@@ -66108,6 +66108,25 @@
       "Anki Basics",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "rotten, spoiled",
+        "sentences": [
+          {
+            "thai": "อาหารทิ้งไว้นานจนบูดเน่า",
+            "en": "The food was left out so long it went bad.",
+            "audio_src": "อาหารทิ้งไว้นานจนบูดเน่า",
+            "audio_en_src": "The food was left out so long it went bad."
+          },
+          {
+            "thai": "อย่ากินเลย มันบูดเน่าแล้ว",
+            "en": "Don't eat it, it's gone rotten.",
+            "audio_src": "อย่ากินเลย มันบูดเน่าแล้ว",
+            "audio_en_src": "Don't eat it, it's gone rotten."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66118,6 +66137,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to season (food)",
+        "sentences": [
+          {
+            "thai": "เชฟกำลังปรุงรสซุป",
+            "en": "The chef is seasoning the soup.",
+            "audio_src": "เชฟกำลังปรุงรสซุป",
+            "audio_en_src": "The chef is seasoning the soup."
+          },
+          {
+            "thai": "ปรุงรสด้วยน้ำปลานิดหน่อย",
+            "en": "Season it with a little fish sauce.",
+            "audio_src": "ปรุงรสด้วยน้ำปลานิดหน่อย",
+            "audio_en_src": "Season it with a little fish sauce."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66159,6 +66197,25 @@
     "topic": "culture",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "traditional, folk, native, local",
+        "sentences": [
+          {
+            "thai": "เขาชอบฟังเพลงพื้นบ้าน",
+            "en": "He likes listening to folk music.",
+            "audio_src": "เขาชอบฟังเพลงพื้นบ้าน",
+            "audio_en_src": "He likes listening to folk music."
+          },
+          {
+            "thai": "หมู่บ้านนี้ยังรักษาประเพณีพื้นบ้านไว้",
+            "en": "This village still keeps its local traditions.",
+            "audio_src": "หมู่บ้านนี้ยังรักษาประเพณีพื้นบ้านไว้",
+            "audio_en_src": "This village still keeps its local traditions."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66211,6 +66268,25 @@
     "topic": "economy",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "trade name, brand name",
+        "sentences": [
+          {
+            "thai": "ยาตัวนี้มีชื่อการค้าหลายชื่อ",
+            "en": "This medicine has several brand names.",
+            "audio_src": "ยาตัวนี้มีชื่อการค้าหลายชื่อ",
+            "audio_en_src": "This medicine has several brand names."
+          },
+          {
+            "thai": "ชื่อการค้าต้องจดทะเบียนให้ถูกต้อง",
+            "en": "A trade name has to be properly registered.",
+            "audio_src": "ชื่อการค้าต้องจดทะเบียนให้ถูกต้อง",
+            "audio_en_src": "A trade name has to be properly registered."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66222,6 +66298,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sweetened condensed milk",
+        "sentences": [
+          {
+            "thai": "ใส่นมข้นหวานลงในกาแฟ",
+            "en": "Add some condensed milk to the coffee.",
+            "audio_src": "ใส่นมข้นหวานลงในกาแฟ",
+            "audio_en_src": "Add some condensed milk to the coffee."
+          },
+          {
+            "thai": "ขนมปังปิ้งราดนมข้นหวานอร่อยมาก",
+            "en": "Toast drizzled with condensed milk is so good.",
+            "audio_src": "ขนมปังปิ้งราดนมข้นหวานอร่อยมาก",
+            "audio_en_src": "Toast drizzled with condensed milk is so good."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66242,6 +66337,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to be very pleased, pleasing, to one's liking",
+        "sentences": [
+          {
+            "thai": "เขาซื้อของขวัญที่ฉันถูกอกถูกใจมาก",
+            "en": "He bought a gift that I absolutely loved.",
+            "audio_src": "เขาซื้อของขวัญที่ฉันถูกอกถูกใจมาก",
+            "audio_en_src": "He bought a gift that I absolutely loved."
+          },
+          {
+            "thai": "ลูกค้าถูกอกถูกใจสินค้าชิ้นนี้",
+            "en": "Customers are really pleased with this product.",
+            "audio_src": "ลูกค้าถูกอกถูกใจสินค้าชิ้นนี้",
+            "audio_en_src": "Customers are really pleased with this product."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66325,6 +66439,25 @@
     "topic": "economy",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to owe money",
+        "sentences": [
+          {
+            "thai": "ฉันยังติดเงินเพื่อนอยู่ห้าร้อย",
+            "en": "I still owe my friend five hundred.",
+            "audio_src": "ฉันยังติดเงินเพื่อนอยู่ห้าร้อย",
+            "audio_en_src": "I still owe my friend five hundred."
+          },
+          {
+            "thai": "เขาติดเงินร้านค้าหลายเจ้า",
+            "en": "He owes money to several shops.",
+            "audio_src": "เขาติดเงินร้านค้าหลายเจ้า",
+            "audio_en_src": "He owes money to several shops."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66367,6 +66500,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "(idiom) smartphone-addicted society (literally \"society with bowed heads\")",
+        "sentences": [
+          {
+            "thai": "เดี๋ยวนี้กลายเป็นสังคมก้มหน้าไปหมด",
+            "en": "These days everyone's glued to their phones.",
+            "audio_src": "เดี๋ยวนี้กลายเป็นสังคมก้มหน้าไปหมด",
+            "audio_en_src": "These days everyone's glued to their phones."
+          },
+          {
+            "thai": "บนรถไฟฟ้าเห็นแต่สังคมก้มหน้า",
+            "en": "On the skytrain all you see is people with their heads down on their phones.",
+            "audio_src": "บนรถไฟฟ้าเห็นแต่สังคมก้มหน้า",
+            "audio_en_src": "On the skytrain all you see is people with their heads down on their phones."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66432,6 +66584,42 @@
       "TSL Chiang Mai",
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "fang (animal)",
+        "sentences": [
+          {
+            "thai": "งูใช้เขี้ยวฉีดพิษ",
+            "en": "A snake injects venom with its fangs.",
+            "audio_src": "งูใช้เขี้ยวฉีดพิษ",
+            "audio_en_src": "A snake injects venom with its fangs."
+          },
+          {
+            "thai": "หมาป่ามีเขี้ยวแหลมคม",
+            "en": "The wolf has sharp fangs.",
+            "audio_src": "หมาป่ามีเขี้ยวแหลมคม",
+            "audio_en_src": "The wolf has sharp fangs."
+          }
+        ]
+      },
+      {
+        "meaning": "canine tooth (human)",
+        "sentences": [
+          {
+            "thai": "หมอฟันถอนเขี้ยวให้ฉัน",
+            "en": "The dentist pulled my canine tooth.",
+            "audio_src": "หมอฟันถอนเขี้ยวให้ฉัน",
+            "audio_en_src": "The dentist pulled my canine tooth."
+          },
+          {
+            "thai": "เด็กบางคนเขี้ยวขึ้นช้า",
+            "en": "Some kids' canine teeth come in late.",
+            "audio_src": "เด็กบางคนเขี้ยวขึ้นช้า",
+            "audio_en_src": "Some kids' canine teeth come in late."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66442,6 +66630,25 @@
     "topic": "health",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to sleep restlessly, to not sleep well",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนนอนหลับไม่สนิทเลย",
+            "en": "I didn't sleep well at all last night.",
+            "audio_src": "เมื่อคืนนอนหลับไม่สนิทเลย",
+            "audio_en_src": "I didn't sleep well at all last night."
+          },
+          {
+            "thai": "เครียดเรื่องงานจนนอนหลับไม่สนิท",
+            "en": "I'm so stressed about work that I can't sleep soundly.",
+            "audio_src": "เครียดเรื่องงานจนนอนหลับไม่สนิท",
+            "audio_en_src": "I'm so stressed about work that I can't sleep soundly."
+          }
+        ]
+      }
     ]
   },
   {
