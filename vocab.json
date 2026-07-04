@@ -135599,6 +135599,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "kangaroo",
+        "sentences": [
+          {
+            "thai": "จิงโจ้กระโดดได้ไกลมาก",
+            "en": "Kangaroos can jump really far.",
+            "audio_src": "จิงโจ้กระโดดได้ไกลมาก",
+            "audio_en_src": "Kangaroos can jump really far."
+          },
+          {
+            "thai": "ออสเตรเลียมีจิงโจ้เยอะ",
+            "en": "Australia has lots of kangaroos.",
+            "audio_src": "ออสเตรเลียมีจิงโจ้เยอะ",
+            "audio_en_src": "Australia has lots of kangaroos."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135639,6 +135658,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "tank",
+        "sentences": [
+          {
+            "thai": "รถถังแล่นผ่านกลางเมือง",
+            "en": "Tanks rolled through the middle of the city.",
+            "audio_src": "รถถังแล่นผ่านกลางเมือง",
+            "audio_en_src": "Tanks rolled through the middle of the city."
+          },
+          {
+            "thai": "ทหารขับรถถังในสนามรบ",
+            "en": "Soldiers drive tanks on the battlefield.",
+            "audio_src": "ทหารขับรถถังในสนามรบ",
+            "audio_en_src": "Soldiers drive tanks on the battlefield."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135649,6 +135687,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "trunk (of an elephant)",
+        "sentences": [
+          {
+            "thai": "ช้างใช้งวงหยิบอาหารเข้าปาก",
+            "en": "The elephant uses its trunk to put food in its mouth.",
+            "audio_src": "ช้างใช้งวงหยิบอาหารเข้าปาก",
+            "audio_en_src": "The elephant uses its trunk to put food in its mouth."
+          },
+          {
+            "thai": "ช้างพ่นน้ำออกจากงวง",
+            "en": "The elephant sprays water from its trunk.",
+            "audio_src": "ช้างพ่นน้ำออกจากงวง",
+            "audio_en_src": "The elephant sprays water from its trunk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135832,6 +135889,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "casino, gambling den",
+        "sentences": [
+          {
+            "thai": "เขาเสียเงินเยอะในบ่อน",
+            "en": "He lost a lot of money at the casino.",
+            "audio_src": "เขาเสียเงินเยอะในบ่อน",
+            "audio_en_src": "He lost a lot of money at the casino."
+          },
+          {
+            "thai": "ตำรวจบุกจับบ่อนการพนัน",
+            "en": "The police raided the gambling den.",
+            "audio_src": "ตำรวจบุกจับบ่อนการพนัน",
+            "audio_en_src": "The police raided the gambling den."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135854,6 +135930,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "annoying, to annoy, to irritate",
+        "sentences": [
+          {
+            "thai": "อย่ามากวนตีน ไปให้พ้น",
+            "en": "Stop being a pain, get out of here.",
+            "audio_src": "อย่ามากวนตีน ไปให้พ้น",
+            "audio_en_src": "Stop being a pain, get out of here."
+          },
+          {
+            "thai": "เขาพูดจากวนตีนจนคนหมั่นไส้",
+            "en": "He talks in such an annoying way that people get irritated.",
+            "audio_src": "เขาพูดจากวนตีนจนคนหมั่นไส้",
+            "audio_en_src": "He talks in such an annoying way that people get irritated."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135874,6 +135969,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to stir (food)",
+        "sentences": [
+          {
+            "thai": "คนซุปเรื่อยๆ อย่าให้ไหม้",
+            "en": "Keep stirring the soup so it doesn’t burn.",
+            "audio_src": "คนซุปเรื่อยๆ อย่าให้ไหม้",
+            "audio_en_src": "Keep stirring the soup so it doesn’t burn."
+          },
+          {
+            "thai": "กวนไข่ให้เข้ากันก่อนทอด",
+            "en": "Stir the eggs together before frying.",
+            "audio_src": "กวนไข่ให้เข้ากันก่อนทอด",
+            "audio_en_src": "Stir the eggs together before frying."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135895,6 +136009,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to care for, to be concerned about, to worry about (someone, out of affection)",
+        "sentences": [
+          {
+            "thai": "แม่ห่วงใยลูกเสมอ",
+            "en": "A mother always worries about her children.",
+            "audio_src": "แม่ห่วงใยลูกเสมอ",
+            "audio_en_src": "A mother always worries about her children."
+          },
+          {
+            "thai": "ขอบคุณที่ห่วงใยกันนะ",
+            "en": "Thank you for caring about me.",
+            "audio_src": "ขอบคุณที่ห่วงใยกันนะ",
+            "audio_en_src": "Thank you for caring about me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135905,6 +136038,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "behind someone's back, secretly, on the sly",
+        "sentences": [
+          {
+            "thai": "อย่านินทาเขาลับหลัง",
+            "en": "Don’t gossip about him behind his back.",
+            "audio_src": "อย่านินทาเขาลับหลัง",
+            "audio_en_src": "Don’t gossip about him behind his back."
+          },
+          {
+            "thai": "เขาทำแบบนี้ลับหลังเจ้านาย",
+            "en": "He did this behind the boss’s back.",
+            "audio_src": "เขาทำแบบนี้ลับหลังเจ้านาย",
+            "audio_en_src": "He did this behind the boss’s back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -135966,6 +136118,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to pluck, to pick (with a tool, e.g bamboo stick, to make fruits fall)",
+        "sentences": [
+          {
+            "thai": "ใช้ไม้สอยมะม่วงบนต้น",
+            "en": "Use a stick to pluck the mangoes off the tree.",
+            "audio_src": "ใช้ไม้สอยมะม่วงบนต้น",
+            "audio_en_src": "Use a stick to pluck the mangoes off the tree."
+          },
+          {
+            "thai": "เด็กๆช่วยกันสอยมะพร้าว",
+            "en": "The kids helped pick the coconuts down.",
+            "audio_src": "เด็กๆช่วยกันสอยมะพร้าว",
+            "audio_en_src": "The kids helped pick the coconuts down."
+          }
+        ]
+      }
     ]
   },
   {
@@ -136006,6 +136177,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "calm, composed, level-headed",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนสุขุม ไม่โมโหง่าย",
+            "en": "He’s a composed person, not easily angered.",
+            "audio_src": "เขาเป็นคนสุขุม ไม่โมโหง่าย",
+            "audio_en_src": "He’s a composed person, not easily angered."
+          },
+          {
+            "thai": "ผู้นำที่ดีต้องสุขุมเวลาเจอปัญหา",
+            "en": "A good leader must stay level-headed when facing problems.",
+            "audio_src": "ผู้นำที่ดีต้องสุขุมเวลาเจอปัญหา",
+            "audio_en_src": "A good leader must stay level-headed when facing problems."
+          }
+        ]
+      }
     ]
   },
   {

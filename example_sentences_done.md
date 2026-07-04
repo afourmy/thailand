@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5252 words**
+**Total: 5262 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3491,8 +3491,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-032` : พริกป่น (chili powder) : 1 meaning(s), 2 sentences
 - `yt-c11-034` : ถูกคอ (to be a good match, to fit, to get along well) : 1 meaning(s), 2 sentences
 - `yt-c11-036` : กระบอก (cylinder, tube, flask (and classifier for guns and tube-shaped containers)) : 1 meaning(s), 2 sentences
+- `yt-c11-037` : จิงโจ้ (kangaroo) : 1 meaning(s), 2 sentences
+- `yt-c11-041` : รถถัง (tank) : 1 meaning(s), 2 sentences
+- `yt-c11-042` : งวง (trunk (of an elephant)) : 1 meaning(s), 2 sentences
 - `yt-c11-053` : ต้อน (to herd, to round up (animals)) : 1 meaning(s), 2 sentences
+- `yt-c11-058` : บ่อน (บ่อนการพนัน) (casino, gambling den) : 1 meaning(s), 2 sentences
+- `yt-c11-060` : กวนตีน (annoying, to annoy, to irritate) : 1 meaning(s), 2 sentences
+- `yt-c11-061` : คน, กวน (to stir (food)) : 1 meaning(s), 2 sentences
+- `yt-c11-064` : ห่วงใย (to care for, to be concerned about, to worry about (someone, out of affection)) : 1 meaning(s), 2 sentences
+- `yt-c11-065` : ลับหลัง (behind someone's back, secretly, on the sly) : 1 meaning(s), 2 sentences
 - `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
+- `yt-c11-069` : สอย (to pluck, to pick (with a tool, e.g bamboo stick, to make fruits fall)) : 1 meaning(s), 2 sentences
+- `yt-c11-073` : สุขุม (calm, composed, level-headed) : 1 meaning(s), 2 sentences
 - `yt-c11-080` : ชะลอ (to slow down, to decelerate, to delay) : 1 meaning(s), 2 sentences
 - `yt-c11-083` : กระแสตอบรับ (public response, reception, feedback from people) : 1 meaning(s), 2 sentences
 - `yt-c11-085` : คำนวณ (to calculate) : 1 meaning(s), 2 sentences
