@@ -130370,6 +130370,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "curly hair",
+        "sentences": [
+          {
+            "thai": "น้องชายฉันผมหยิกตั้งแต่เกิด",
+            "en": "My little brother has had curly hair since birth.",
+            "audio_src": "น้องชายฉันผมหยิกตั้งแต่เกิด",
+            "audio_en_src": "My little brother has had curly hair since birth."
+          },
+          {
+            "thai": "เขาไปยืดผมหยิกให้ตรง",
+            "en": "He got his curly hair straightened.",
+            "audio_src": "เขาไปยืดผมหยิกให้ตรง",
+            "audio_en_src": "He got his curly hair straightened."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130380,6 +130399,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "frizzy hair, poofy hair",
+        "sentences": [
+          {
+            "thai": "อากาศชื้นทำให้ผมหยองฟู",
+            "en": "The humidity makes my hair frizzy.",
+            "audio_src": "อากาศชื้นทำให้ผมหยองฟู",
+            "audio_en_src": "The humidity makes my hair frizzy."
+          },
+          {
+            "thai": "ใช้เซรั่มช่วยให้ผมไม่หยอง",
+            "en": "Use serum to keep hair from getting frizzy.",
+            "audio_src": "ใช้เซรั่มช่วยให้ผมไม่หยอง",
+            "audio_en_src": "Use serum to keep hair from getting frizzy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130390,6 +130428,25 @@
     "topic": "grammar",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "overall, on the whole, in general",
+        "sentences": [
+          {
+            "thai": "โดยรวมแล้วงานนี้ประสบความสำเร็จ",
+            "en": "Overall, the event was a success.",
+            "audio_src": "โดยรวมแล้วงานนี้ประสบความสำเร็จ",
+            "audio_en_src": "Overall, the event was a success."
+          },
+          {
+            "thai": "อาหารโดยรวมโอเค แต่บริการช้าไปหน่อย",
+            "en": "The food was okay overall, but the service was a bit slow.",
+            "audio_src": "อาหารโดยรวมโอเค แต่บริการช้าไปหน่อย",
+            "audio_en_src": "The food was okay overall, but the service was a bit slow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130607,6 +130664,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "banknotes",
+        "sentences": [
+          {
+            "thai": "เขาจ่ายด้วยธนบัตรใบละพัน",
+            "en": "He paid with a thousand-baht note.",
+            "audio_src": "เขาจ่ายด้วยธนบัตรใบละพัน",
+            "audio_en_src": "He paid with a thousand-baht note."
+          },
+          {
+            "thai": "ธนบัตรใบนี้ขาดนิดหน่อย",
+            "en": "This banknote is slightly torn.",
+            "audio_src": "ธนบัตรใบนี้ขาดนิดหน่อย",
+            "audio_en_src": "This banknote is slightly torn."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130700,6 +130776,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "processing fee, administrative fee",
+        "sentences": [
+          {
+            "thai": "สมัครบริการนี้มีค่าดำเนินการเพิ่ม",
+            "en": "Signing up for this service has an extra processing fee.",
+            "audio_src": "สมัครบริการนี้มีค่าดำเนินการเพิ่ม",
+            "audio_en_src": "Signing up for this service has an extra processing fee."
+          },
+          {
+            "thai": "ค่าดำเนินการโอนเงินไม่แพง",
+            "en": "The transfer processing fee isn’t expensive.",
+            "audio_src": "ค่าดำเนินการโอนเงินไม่แพง",
+            "audio_en_src": "The transfer processing fee isn’t expensive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130720,6 +130815,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to honk",
+        "sentences": [
+          {
+            "thai": "คนขับข้างหลังบีบแตรใส่ฉัน",
+            "en": "The driver behind honked at me.",
+            "audio_src": "คนขับข้างหลังบีบแตรใส่ฉัน",
+            "audio_en_src": "The driver behind honked at me."
+          },
+          {
+            "thai": "อย่าบีบแตรตอนดึก เดี๋ยวรบกวนคนอื่น",
+            "en": "Don’t honk late at night, it’ll disturb others.",
+            "audio_src": "อย่าบีบแตรตอนดึก เดี๋ยวรบกวนคนอื่น",
+            "audio_en_src": "Don’t honk late at night, it’ll disturb others."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130742,6 +130856,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be in trouble, to be in difficulty",
+        "sentences": [
+          {
+            "thai": "ถ้าไม่มีเงินจ่ายค่าเช่าก็จะเดือดร้อน",
+            "en": "If you can’t pay the rent, you’ll be in trouble.",
+            "audio_src": "ถ้าไม่มีเงินจ่ายค่าเช่าก็จะเดือดร้อน",
+            "audio_en_src": "If you can’t pay the rent, you’ll be in trouble."
+          },
+          {
+            "thai": "เขาชอบทำให้คนอื่นเดือดร้อน",
+            "en": "He likes causing trouble for others.",
+            "audio_src": "เขาชอบทำให้คนอื่นเดือดร้อน",
+            "audio_en_src": "He likes causing trouble for others."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130752,6 +130885,25 @@
     "topic": "law",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to set up a checkpoint (police, military)",
+        "sentences": [
+          {
+            "thai": "ตำรวจตั้งด่านตรวจแอลกอฮอล์ช่วงปีใหม่",
+            "en": "The police set up checkpoints to test for alcohol during New Year.",
+            "audio_src": "ตำรวจตั้งด่านตรวจแอลกอฮอล์ช่วงปีใหม่",
+            "audio_en_src": "The police set up checkpoints to test for alcohol during New Year."
+          },
+          {
+            "thai": "ข้างหน้าตำรวจตั้งด่านอยู่",
+            "en": "The police have set up a checkpoint ahead.",
+            "audio_src": "ข้างหน้าตำรวจตั้งด่านอยู่",
+            "audio_en_src": "The police have set up a checkpoint ahead."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130772,6 +130924,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "stinging eyes, burning eyes",
+        "sentences": [
+          {
+            "thai": "หั่นหอมทีไรน้ำตาไหลแสบตา",
+            "en": "Every time I chop onions my eyes sting and water.",
+            "audio_src": "หั่นหอมทีไรน้ำตาไหลแสบตา",
+            "audio_en_src": "Every time I chop onions my eyes sting and water."
+          },
+          {
+            "thai": "ควันไฟทำให้แสบตา",
+            "en": "The smoke makes my eyes burn.",
+            "audio_src": "ควันไฟทำให้แสบตา",
+            "audio_en_src": "The smoke makes my eyes burn."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130782,6 +130953,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "high beam headlights (long-range headlight of a car)",
+        "sentences": [
+          {
+            "thai": "อย่าเปิดไฟสูงใส่รถที่สวนมา",
+            "en": "Don’t use high beams against oncoming cars.",
+            "audio_src": "อย่าเปิดไฟสูงใส่รถที่สวนมา",
+            "audio_en_src": "Don’t use high beams against oncoming cars."
+          },
+          {
+            "thai": "ถนนมืดมากเลยต้องเปิดไฟสูง",
+            "en": "The road was very dark, so I had to use the high beams.",
+            "audio_src": "ถนนมืดมากเลยต้องเปิดไฟสูง",
+            "audio_en_src": "The road was very dark, so I had to use the high beams."
+          }
+        ]
+      }
     ]
   },
   {

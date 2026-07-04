@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5182 words**
+**Total: 5192 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3374,12 +3374,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-041` : ฉีด (to spray; to inject) : 2 meaning(s), 4 sentences
 - `yt-c08-042` : ย้อมผม (to dye hair) : 1 meaning(s), 2 sentences
 - `yt-c08-043` : ผมหยักศก (wavy hair) : 1 meaning(s), 2 sentences
+- `yt-c08-043b` : ผมหยิก (curly hair) : 1 meaning(s), 2 sentences
+- `yt-c08-043c` : ผมหยอง (frizzy hair, poofy hair) : 1 meaning(s), 2 sentences
+- `yt-c08-044` : โดยรวม (overall, on the whole, in general) : 1 meaning(s), 2 sentences
 - `yt-c08-047` : ความชอบส่วนตัว, ความชอบส่วนบุคคล (personal preference) : 1 meaning(s), 2 sentences
 - `yt-c08-048` : ตอกย้ำ (to reinforce, to emphasize, to underscore) : 1 meaning(s), 2 sentences
 - `yt-c08-049` : ร้านเสริมสวย (beauty salon) : 1 meaning(s), 2 sentences
 - `yt-c08-056` : ตรา (brand, hallmark, blazon) : 1 meaning(s), 2 sentences
 - `yt-c08-057` : ความเท่าเทียม, ความเท่าเทียมกัน (equality, fairness) : 1 meaning(s), 2 sentences
+- `yt-c08-058` : ธนบัตร (banknotes) : 1 meaning(s), 2 sentences
 - `yt-c08-059` : คล่อง (fluent, nimble, agile, smooth) : 1 meaning(s), 2 sentences
+- `yt-c08-065` : ค่าดำเนินการ (processing fee, administrative fee) : 1 meaning(s), 2 sentences
+- `yt-c08-067` : บีบแตร (to honk) : 1 meaning(s), 2 sentences
+- `yt-c08-069` : เดือดร้อน (to be in trouble, to be in difficulty) : 1 meaning(s), 2 sentences
+- `yt-c08-071` : ตั้งด่าน (to set up a checkpoint (police, military)) : 1 meaning(s), 2 sentences
+- `yt-c08-073` : แสบตา (stinging eyes, burning eyes) : 1 meaning(s), 2 sentences
+- `yt-c08-074` : ไฟสูง (high beam headlights (long-range headlight of a car)) : 1 meaning(s), 2 sentences
 - `yt-c08-075` : เสริม (to supplement, to reinforce, to enhance) : 1 meaning(s), 2 sentences
 - `yt-c08-078` : สำเนา (a copy (of a document, e.g passport, certificate, etc)) : 1 meaning(s), 2 sentences
 - `yt-c08-090` : แจ่ม (bright, clear, radiant, excellent) : 1 meaning(s), 2 sentences
