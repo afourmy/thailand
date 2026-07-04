@@ -106862,6 +106862,25 @@
       "Anki Basics",
       "Thai 4000",
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "wound",
+        "sentences": [
+          {
+            "thai": "เขามีแผลที่หัวเข่า",
+            "en": "He has a wound on his knee.",
+            "audio_src": "เขามีแผลที่หัวเข่า",
+            "audio_en_src": "He has a wound on his knee."
+          },
+          {
+            "thai": "บาดแผลยังไม่หายดี",
+            "en": "The wound hasn't fully healed yet.",
+            "audio_src": "บาดแผลยังไม่หายดี",
+            "audio_en_src": "The wound hasn't fully healed yet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106875,6 +106894,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wrist",
+        "sentences": [
+          {
+            "thai": "เขาเคล็ดข้อมือตอนเล่นกีฬา",
+            "en": "He sprained his wrist playing sports.",
+            "audio_src": "เขาเคล็ดข้อมือตอนเล่นกีฬา",
+            "audio_en_src": "He sprained his wrist playing sports."
+          },
+          {
+            "thai": "เธอใส่นาฬิกาที่ข้อมือ",
+            "en": "She wears a watch on her wrist.",
+            "audio_src": "เธอใส่นาฬิกาที่ข้อมือ",
+            "audio_en_src": "She wears a watch on her wrist."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107371,6 +107409,25 @@
       "Tobo Deck",
       "Thai 4000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "passenger",
+        "sentences": [
+          {
+            "thai": "ผู้โดยสารรอขึ้นรถเมล์",
+            "en": "The passengers are waiting to board the bus.",
+            "audio_src": "ผู้โดยสารรอขึ้นรถเมล์",
+            "audio_en_src": "The passengers are waiting to board the bus."
+          },
+          {
+            "thai": "เครื่องบินลำนี้จุผู้โดยสารได้สามร้อยคน",
+            "en": "This plane can hold three hundred passengers.",
+            "audio_src": "เครื่องบินลำนี้จุผู้โดยสารได้สามร้อยคน",
+            "audio_en_src": "This plane can hold three hundred passengers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107450,6 +107507,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "eyebrow",
+        "sentences": [
+          {
+            "thai": "เธอเขียนคิ้วให้เข้มขึ้น",
+            "en": "She darkens her eyebrows with makeup.",
+            "audio_src": "เธอเขียนคิ้วให้เข้มขึ้น",
+            "audio_en_src": "She darkens her eyebrows with makeup."
+          },
+          {
+            "thai": "เขาเลิกคิ้วด้วยความสงสัย",
+            "en": "He raised an eyebrow in suspicion.",
+            "audio_src": "เขาเลิกคิ้วด้วยความสงสัย",
+            "audio_en_src": "He raised an eyebrow in suspicion."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107460,6 +107536,25 @@
     "topic": "personality",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "pessimistic",
+        "sentences": [
+          {
+            "thai": "อย่ามองโลกในแง่ร้ายเกินไป",
+            "en": "Don't be too pessimistic.",
+            "audio_src": "อย่ามองโลกในแง่ร้ายเกินไป",
+            "audio_en_src": "Don't be too pessimistic."
+          },
+          {
+            "thai": "เขามองโลกในแง่ร้ายจนไม่กล้าลองอะไรใหม่",
+            "en": "He's so pessimistic he doesn't dare try anything new.",
+            "audio_src": "เขามองโลกในแง่ร้ายจนไม่กล้าลองอะไรใหม่",
+            "audio_en_src": "He's so pessimistic he doesn't dare try anything new."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107535,6 +107630,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "account",
+        "sentences": [
+          {
+            "thai": "เขาเปิดบัญชีธนาคารใหม่",
+            "en": "He opened a new bank account.",
+            "audio_src": "เขาเปิดบัญชีธนาคารใหม่",
+            "audio_en_src": "He opened a new bank account."
+          },
+          {
+            "thai": "เงินในบัญชีเหลือน้อยแล้ว",
+            "en": "There's little money left in the account.",
+            "audio_src": "เงินในบัญชีเหลือน้อยแล้ว",
+            "audio_en_src": "There's little money left in the account."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107749,6 +107863,25 @@
     "sources": [
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "princess",
+        "sentences": [
+          {
+            "thai": "ในนิทานเจ้าหญิงอาศัยอยู่ในปราสาท",
+            "en": "In the fairy tale the princess lives in a castle.",
+            "audio_src": "ในนิทานเจ้าหญิงอาศัยอยู่ในปราสาท",
+            "audio_en_src": "In the fairy tale the princess lives in a castle."
+          },
+          {
+            "thai": "เด็กๆชอบฟังเรื่องเจ้าหญิงกับเจ้าชาย",
+            "en": "Kids love stories about princesses and princes.",
+            "audio_src": "เด็กๆชอบฟังเรื่องเจ้าหญิงกับเจ้าชาย",
+            "audio_en_src": "Kids love stories about princesses and princes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107761,6 +107894,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bean, nut",
+        "sentences": [
+          {
+            "thai": "เขาแพ้ถั่วกินไม่ได้เลย",
+            "en": "He's allergic to nuts and can't eat them at all.",
+            "audio_src": "เขาแพ้ถั่วกินไม่ได้เลย",
+            "audio_en_src": "He's allergic to nuts and can't eat them at all."
+          },
+          {
+            "thai": "แกงหม้อนี้ใส่ถั่วเยอะ",
+            "en": "This pot of curry has lots of beans in it.",
+            "audio_src": "แกงหม้อนี้ใส่ถั่วเยอะ",
+            "audio_en_src": "This pot of curry has lots of beans in it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107846,6 +107998,25 @@
     "sources": [
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "decade",
+        "sentences": [
+          {
+            "thai": "เทคโนโลยีก้าวหน้ามากในทศวรรษนี้",
+            "en": "Technology has advanced a lot in this decade.",
+            "audio_src": "เทคโนโลยีก้าวหน้ามากในทศวรรษนี้",
+            "audio_en_src": "Technology has advanced a lot in this decade."
+          },
+          {
+            "thai": "เขาทำงานที่นี่มานานกว่าหนึ่งทศวรรษ",
+            "en": "He's worked here for over a decade.",
+            "audio_src": "เขาทำงานที่นี่มานานกว่าหนึ่งทศวรรษ",
+            "audio_en_src": "He's worked here for over a decade."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108079,6 +108250,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to taste, to sample",
+        "sentences": [
+          {
+            "thai": "ขอชิมหน่อยได้ไหม",
+            "en": "Can I have a taste?",
+            "audio_src": "ขอชิมหน่อยได้ไหม",
+            "audio_en_src": "Can I have a taste?"
+          },
+          {
+            "thai": "เชฟชิมซุปก่อนเสิร์ฟ",
+            "en": "The chef tastes the soup before serving it.",
+            "audio_src": "เชฟชิมซุปก่อนเสิร์ฟ",
+            "audio_en_src": "The chef tastes the soup before serving it."
+          }
+        ]
+      }
     ]
   },
   {

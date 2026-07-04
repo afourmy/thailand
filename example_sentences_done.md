@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4983 words**
+**Total: 4993 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2773,6 +2773,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-122` : ให้อภัย (to forgive) : 1 meaning(s), 2 sentences
 - `tobo-123` : จักรวาล (universe) : 1 meaning(s), 2 sentences
 - `tobo-125` : การตัดสินใจ (decision) : 1 meaning(s), 2 sentences
+- `tobo-126` : แผล, บาดแผล (wound) : 1 meaning(s), 2 sentences
+- `tobo-127` : ข้อมือ (wrist) : 1 meaning(s), 2 sentences
 - `tobo-128` : วัยเด็ก (childhood) : 1 meaning(s), 2 sentences
 - `tobo-130` : หาง (tail) : 1 meaning(s), 2 sentences
 - `tobo-131` : เข็มขัด (belt) : 1 meaning(s), 2 sentences
@@ -2787,24 +2789,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-141` : ลึก (deep) : 1 meaning(s), 2 sentences
 - `tobo-142` : สนามบิน (airport) : 1 meaning(s), 2 sentences
 - `tobo-143` : เสื้อยืด (T-shirt) : 1 meaning(s), 2 sentences
+- `tobo-144` : ผู้โดยสาร (passenger) : 1 meaning(s), 2 sentences
 - `tobo-145` : พรม (carpet, rug) : 1 meaning(s), 2 sentences
 - `tobo-147` : เครา (beard) : 1 meaning(s), 2 sentences
+- `tobo-148` : คิ้ว (eyebrow) : 1 meaning(s), 2 sentences
+- `tobo-149` : มองโลกในแง่ร้าย (pessimistic) : 1 meaning(s), 2 sentences
 - `tobo-150` : จุดประสงค์ (purpose, aim) : 1 meaning(s), 2 sentences
 - `tobo-151` : จัตุรัส (square) : 1 meaning(s), 2 sentences
+- `tobo-152` : บัญชี (account) : 1 meaning(s), 2 sentences
 - `tobo-153` : ขนมปัง (bread) : 1 meaning(s), 2 sentences
 - `tobo-154` : กีฬา (sport) : 1 meaning(s), 2 sentences
 - `tobo-155` : นาฬิกาปลุก (alarm clock) : 1 meaning(s), 2 sentences
 - `tobo-156` : แผนก (department, section) : 1 meaning(s), 2 sentences
 - `tobo-157` : โครงการ (project, program) : 1 meaning(s), 2 sentences
 - `tobo-159` : น้ำตาล (sugar) : 1 meaning(s), 2 sentences
+- `tobo-160` : เจ้าหญิง (princess) : 1 meaning(s), 2 sentences
+- `tobo-161` : ถั่ว (bean, nut) : 1 meaning(s), 2 sentences
 - `tobo-162` : ฟองน้ำ (sponge) : 1 meaning(s), 2 sentences
 - `tobo-164` : เภสัช, เภสัชกร (pharmacist) : 1 meaning(s), 2 sentences
+- `tobo-165` : ทศวรรษ (decade) : 1 meaning(s), 2 sentences
 - `tobo-166` : หน้าที่ (duty, responsibility) : 1 meaning(s), 2 sentences
 - `tobo-167` : ปราสาท (castle) : 1 meaning(s), 2 sentences
 - `tobo-168` : เสรีภาพ (freedom, liberty) : 1 meaning(s), 2 sentences
 - `tobo-169` : เกลือ (salt) : 1 meaning(s), 2 sentences
 - `tobo-170` : จักรยาน (bicycle) : 1 meaning(s), 2 sentences
 - `tobo-171` : หมู (pig; pork) : 2 meaning(s), 4 sentences
+- `tobo-172` : ชิม (to taste, to sample) : 1 meaning(s), 2 sentences
 - `tobo-176` : ร่ม (umbrella) : 1 meaning(s), 2 sentences
 - `tobo-177` : ชั้นวาง (shelf) : 1 meaning(s), 2 sentences
 - `tobo-178` : ของเล่น (toy) : 1 meaning(s), 2 sentences
