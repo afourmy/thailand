@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4693 words**
+**Total: 4703 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1825,14 +1825,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-264` : ทั้งนี้เพื่อ (in order to, for the purpose of (formal)) : 1 meaning(s), 2 sentences
 - `tsl-265` : ไม่มากก็น้อย (more or less, to some extent) : 1 meaning(s), 2 sentences
 - `tsl-270` : ตลาดหุ้น (stock market) : 1 meaning(s), 2 sentences
+- `tsl-276` : อัธยาศัย (temperament, disposition, friendliness) : 1 meaning(s), 2 sentences
+- `tsl-282` : เร้าใจ (exciting, stimulating, thrilling) : 1 meaning(s), 2 sentences
 - `tsl-285` : ยึดเกาะ (to cling, to adhere, to hold on) : 1 meaning(s), 2 sentences
 - `tsl-286` : ทรงตัว (to maintain balance, to stabilize) : 1 meaning(s), 2 sentences
 - `tsl-288` : คาดฝัน (to anticipate, to look forward to, to dream of) : 1 meaning(s), 2 sentences
+- `tsl-290` : ขาดไม่ได้ (indispensable, essential) : 1 meaning(s), 2 sentences
 - `tsl-294` : สารพิษ (toxic substance, poison) : 1 meaning(s), 2 sentences
 - `tsl-297` : ปฏิบัติ (to carry out, to perform (duties)) : 1 meaning(s), 2 sentences
 - `tsl-298` : ของเสีย (waste (industrial, biological, defective product)) : 1 meaning(s), 2 sentences
+- `tsl-300` : ติงต๊อง (crazy, silly, daft) : 1 meaning(s), 2 sentences
+- `tsl-301` : หนืด (thick, sticky, viscous (liquid)) : 1 meaning(s), 2 sentences
+- `tsl-302` : สับ (to chop, to mince, to cut finely) : 1 meaning(s), 2 sentences
 - `tsl-305` : ขอบเขต (boundary, scope, limit) : 1 meaning(s), 2 sentences
 - `tsl-306` : หน่วยย่อย (subunit, subdivision) : 1 meaning(s), 2 sentences
+- `tsl-307` : พรรคการเมือง (political party) : 1 meaning(s), 2 sentences
+- `tsl-308` : หาเสียง (to campaign (for votes, election)) : 1 meaning(s), 2 sentences
 - `tsl-309` : พรรคพวก (companions, associates, allies) : 1 meaning(s), 2 sentences
 - `tsl-312` : ราบรื่น (smooth, seamless, without obstacles) : 1 meaning(s), 2 sentences
 - `tsl-313` : ติดๆ ขัดๆ (stuttering, interrupted, not going smoothly (speech, process)) : 1 meaning(s), 2 sentences
@@ -1847,6 +1855,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-327` : เคลื่อน, เคลื่อนที่ (to move, to displace, to be in motion) : 1 meaning(s), 2 sentences
 - `tsl-328` : คำนึงถึง (to take into consideration, to bear in mind) : 1 meaning(s), 2 sentences
 - `tsl-330` : ประนีประนอม (to compromise, to reconcile) : 1 meaning(s), 2 sentences
+- `tsl-331` : ความห่วงใย (concern, care, worry (for someone's well-being)) : 1 meaning(s), 2 sentences
+- `tsl-332` : น่าเห็นใจ (pitiful, deserving sympathy) : 1 meaning(s), 2 sentences
 - `tsl-338` : ยกย่อง (to praise, to honor, to glorify) : 1 meaning(s), 2 sentences
 - `tsl-341` : ต่อต้าน (to oppose, to resist, to fight against) : 1 meaning(s), 2 sentences
 - `tsl-344` : ข้อห้าม (ban, prohibition, taboo) : 1 meaning(s), 2 sentences
