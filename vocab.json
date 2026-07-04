@@ -74902,6 +74902,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "\"my condolences\"",
+        "sentences": [
+          {
+            "thai": "ขอแสดงความเสียใจด้วยกับการจากไปของคุณพ่อ",
+            "en": "My condolences on the passing of your father.",
+            "audio_src": "ขอแสดงความเสียใจด้วยกับการจากไปของคุณพ่อ",
+            "audio_en_src": "My condolences on the passing of your father."
+          },
+          {
+            "thai": "ผมขอแสดงความเสียใจด้วยครับ",
+            "en": "Please accept my condolences.",
+            "audio_src": "ผมขอแสดงความเสียใจด้วยครับ",
+            "audio_en_src": "Please accept my condolences."
+          }
+        ]
+      }
     ]
   },
   {
@@ -74912,6 +74931,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "snacks, light food",
+        "sentences": [
+          {
+            "thai": "ช่วงบ่ายมีอาหารว่างเสิร์ฟ",
+            "en": "Light snacks are served in the afternoon.",
+            "audio_src": "ช่วงบ่ายมีอาหารว่างเสิร์ฟ",
+            "audio_en_src": "Light snacks are served in the afternoon."
+          },
+          {
+            "thai": "เธอเตรียมของว่างไว้ให้แขก",
+            "en": "She prepared some snacks for the guests.",
+            "audio_src": "เธอเตรียมของว่างไว้ให้แขก",
+            "audio_en_src": "She prepared some snacks for the guests."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75055,6 +75093,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "ecosystem",
+        "sentences": [
+          {
+            "thai": "มลพิษกำลังทำลายระบบนิเวศ",
+            "en": "Pollution is destroying the ecosystem.",
+            "audio_src": "มลพิษกำลังทำลายระบบนิเวศ",
+            "audio_en_src": "Pollution is destroying the ecosystem."
+          },
+          {
+            "thai": "ป่าไม้เป็นส่วนสำคัญของระบบนิเวศ",
+            "en": "Forests are an important part of the ecosystem.",
+            "audio_src": "ป่าไม้เป็นส่วนสำคัญของระบบนิเวศ",
+            "audio_en_src": "Forests are an important part of the ecosystem."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75076,6 +75133,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "mammal",
+        "sentences": [
+          {
+            "thai": "วาฬเป็นสัตว์เลี้ยงลูกด้วยนม",
+            "en": "Whales are mammals.",
+            "audio_src": "วาฬเป็นสัตว์เลี้ยงลูกด้วยนม",
+            "audio_en_src": "Whales are mammals."
+          },
+          {
+            "thai": "ค้างคาวก็เป็นสัตว์เลี้ยงลูกด้วยนมชนิดหนึ่ง",
+            "en": "Bats are also a kind of mammal.",
+            "audio_src": "ค้างคาวก็เป็นสัตว์เลี้ยงลูกด้วยนมชนิดหนึ่ง",
+            "audio_en_src": "Bats are also a kind of mammal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75191,6 +75267,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "classifier for thin bar-like things (teeth, ribs, cage bars)",
+        "sentences": [
+          {
+            "thai": "เขาฟันหักไปหนึ่งซี่",
+            "en": "He broke one tooth.",
+            "audio_src": "เขาฟันหักไปหนึ่งซี่",
+            "audio_en_src": "He broke one tooth."
+          },
+          {
+            "thai": "เขาซี่โครงหักสองซี่",
+            "en": "He broke two ribs.",
+            "audio_src": "เขาซี่โครงหักสองซี่",
+            "audio_en_src": "He broke two ribs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75309,6 +75404,25 @@
       "TSL Chiang Mai",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "completely, entirely, utterly",
+        "sentences": [
+          {
+            "thai": "เขาเปลี่ยนไปโดยสิ้นเชิง",
+            "en": "He's changed completely.",
+            "audio_src": "เขาเปลี่ยนไปโดยสิ้นเชิง",
+            "audio_en_src": "He's changed completely."
+          },
+          {
+            "thai": "แผนการล้มเหลวโดยสิ้นเชิง",
+            "en": "The plan failed utterly.",
+            "audio_src": "แผนการล้มเหลวโดยสิ้นเชิง",
+            "audio_en_src": "The plan failed utterly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75320,6 +75434,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "suspect (legal)",
+        "sentences": [
+          {
+            "thai": "ตำรวจจับผู้ต้องหาได้แล้ว",
+            "en": "The police have caught the suspect.",
+            "audio_src": "ตำรวจจับผู้ต้องหาได้แล้ว",
+            "audio_en_src": "The police have caught the suspect."
+          },
+          {
+            "thai": "ผู้ต้องหาให้การปฏิเสธ",
+            "en": "The suspect denied the charges.",
+            "audio_src": "ผู้ต้องหาให้การปฏิเสธ",
+            "audio_en_src": "The suspect denied the charges."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75332,6 +75465,25 @@
       "TSL Chiang Mai",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "monk (formal)",
+        "sentences": [
+          {
+            "thai": "พระภิกษุออกบิณฑบาตทุกเช้า",
+            "en": "Monks go out to collect alms every morning.",
+            "audio_src": "พระภิกษุออกบิณฑบาตทุกเช้า",
+            "audio_en_src": "Monks go out to collect alms every morning."
+          },
+          {
+            "thai": "เขาบวชเป็นพระภิกษุสามเดือน",
+            "en": "He was ordained as a monk for three months.",
+            "audio_src": "เขาบวชเป็นพระภิกษุสามเดือน",
+            "audio_en_src": "He was ordained as a monk for three months."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75683,6 +75835,25 @@
     "topic": "nature",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "cactus",
+        "sentences": [
+          {
+            "thai": "กระบองเพชรปลูกง่ายไม่ต้องรดน้ำบ่อย",
+            "en": "Cacti are easy to grow and don't need frequent watering.",
+            "audio_src": "กระบองเพชรปลูกง่ายไม่ต้องรดน้ำบ่อย",
+            "audio_en_src": "Cacti are easy to grow and don't need frequent watering."
+          },
+          {
+            "thai": "เขาปลูกกระบองเพชรไว้ริมหน้าต่าง",
+            "en": "He keeps a cactus by the window.",
+            "audio_src": "เขาปลูกกระบองเพชรไว้ริมหน้าต่าง",
+            "audio_en_src": "He keeps a cactus by the window."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75693,6 +75864,25 @@
     "topic": "nature",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "aloe vera plant",
+        "sentences": [
+          {
+            "thai": "ว่านหางจระเข้ช่วยรักษาแผลไฟไหม้",
+            "en": "Aloe vera helps treat burns.",
+            "audio_src": "ว่านหางจระเข้ช่วยรักษาแผลไฟไหม้",
+            "audio_en_src": "Aloe vera helps treat burns."
+          },
+          {
+            "thai": "เธอทาเจลว่านหางจระเข้บนผิว",
+            "en": "She rubs aloe vera gel on her skin.",
+            "audio_src": "เธอทาเจลว่านหางจระเข้บนผิว",
+            "audio_en_src": "She rubs aloe vera gel on her skin."
+          }
+        ]
+      }
     ]
   },
   {
