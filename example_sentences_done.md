@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4403 words**
+**Total: 4413 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1141,22 +1141,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-195` : รับไหว (to be able to handle, can take it) : 1 meaning(s), 2 sentences
 - `tamago-l3-197` : ฉวยโอกาส (to seize an opportunity) : 1 meaning(s), 2 sentences
 - `tamago-l3-198` : ตามใจ (as you wish; to spoil (someone)) : 2 meaning(s), 4 sentences
+- `tamago-l3-199` : โลภ (greedy) : 1 meaning(s), 2 sentences
 - `tamago-l3-200` : ความหลัง (the past, past memories) : 1 meaning(s), 2 sentences
 - `tamago-l3-201` : มั่ว (to mess up, mixed up, to bullshit, say random things from lack of knowledge) : 1 meaning(s), 2 sentences
 - `tamago-l3-202` : ทีละ (one at a time, one by one) : 1 meaning(s), 2 sentences
 - `tamago-l3-203` : หมอดู (fortune teller) : 1 meaning(s), 2 sentences
 - `tamago-l3-204` : พักนี้ (lately, recently) : 1 meaning(s), 2 sentences
 - `tamago-l3-205` : ดูออก (to be able to tell, to figure out by looking) : 1 meaning(s), 2 sentences
+- `tamago-l3-207` : นานๆที, นานๆครั้ง (once in a while, occasionally) : 1 meaning(s), 2 sentences
 - `tamago-l3-208` : บ่ายเบี่ยง (to avoid, to evade (a question)) : 1 meaning(s), 2 sentences
 - `tamago-l3-210` : แม้แต่ (even, even as little as) : 1 meaning(s), 2 sentences
 - `tamago-l3-213` : ไม่ไหว ("I can't take it!", can't handle) : 1 meaning(s), 2 sentences
+- `tamago-l3-214` : วุฒิภาวะ (maturity) : 1 meaning(s), 2 sentences
 - `tamago-l3-215` : โดยบังเอิญ (by accident, by coincidence) : 1 meaning(s), 2 sentences
+- `tamago-l3-216` : อึดอัด (feeling uncomfortable, tense, constrained) : 1 meaning(s), 2 sentences
+- `tamago-l3-218` : หมดหวัง (hopeless, to lose hope) : 1 meaning(s), 2 sentences
 - `tamago-l3-219` : เอาเถอะ ("whatever!", "let it go", "leave it alone") : 1 meaning(s), 2 sentences
 - `tamago-l3-220` : สักที (finally, at last) : 1 meaning(s), 2 sentences
+- `tamago-l3-221` : ต๊าย ("oh my god!", "oh dear!") : 1 meaning(s), 2 sentences
+- `tamago-l3-222` : ฝันไปเถอะ ("dream on", "in your dreams") : 1 meaning(s), 2 sentences
 - `tamago-l3-223` : อารมณ์เสีย (upset, in a bad mood) : 1 meaning(s), 2 sentences
+- `tamago-l3-224` : เสียก่อน (first, beforehand) : 1 meaning(s), 2 sentences
 - `tamago-l3-227` : เรื่องส่วนตัว (personal matter) : 1 meaning(s), 2 sentences
+- `tamago-l3-228` : ลูกติด (child from a previous relationship) : 1 meaning(s), 2 sentences
 - `tamago-l3-229` : ผิวคล้ำ (tanned skin, dark skin) : 1 meaning(s), 2 sentences
 - `tamago-l3-230` : ขาวจั๊วะ (extremely white (skin)) : 1 meaning(s), 2 sentences
+- `tamago-l3-231` : แม่แท้ๆ (biological mother) : 1 meaning(s), 2 sentences
 - `tamago-l3-232` : เข้าเรียน (to attend a class) : 1 meaning(s), 2 sentences
 - `tamago-l3-233` : เรียนจบ (to graduate, to finish studies) : 1 meaning(s), 2 sentences
 - `tamago-l3-234` : อยู่ๆ (suddenly, out of nowhere) : 1 meaning(s), 2 sentences

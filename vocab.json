@@ -44817,6 +44817,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "greedy",
+        "sentences": [
+          {
+            "thai": "อย่าโลภมาก เดี๋ยวเสียหมด",
+            "en": "Don't be too greedy, you'll lose everything.",
+            "audio_src": "อย่าโลภมาก เดี๋ยวเสียหมด",
+            "audio_en_src": "Don't be too greedy, you'll lose everything."
+          },
+          {
+            "thai": "เขาโลภอยากได้ทุกอย่าง",
+            "en": "He's greedy and wants everything.",
+            "audio_src": "เขาโลภอยากได้ทุกอย่าง",
+            "audio_en_src": "He's greedy and wants everything."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45029,6 +45048,25 @@
     "sources": [
       "Tamago L3",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "once in a while, occasionally",
+        "sentences": [
+          {
+            "thai": "เราเจอกันนานๆที",
+            "en": "We only see each other once in a while.",
+            "audio_src": "เราเจอกันนานๆที",
+            "audio_en_src": "We only see each other once in a while."
+          },
+          {
+            "thai": "นานๆครั้งฉันถึงจะกินของหวาน",
+            "en": "I only eat sweets once in a while.",
+            "audio_src": "นานๆครั้งฉันถึงจะกินของหวาน",
+            "audio_en_src": "I only eat sweets once in a while."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45151,6 +45189,25 @@
     "sources": [
       "Tamago L3",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "maturity",
+        "sentences": [
+          {
+            "thai": "เขายังขาดวุฒิภาวะ",
+            "en": "He still lacks maturity.",
+            "audio_src": "เขายังขาดวุฒิภาวะ",
+            "audio_en_src": "He still lacks maturity."
+          },
+          {
+            "thai": "ผู้ใหญ่ควรมีวุฒิภาวะ",
+            "en": "Adults should be mature.",
+            "audio_src": "ผู้ใหญ่ควรมีวุฒิภาวะ",
+            "audio_en_src": "Adults should be mature."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45194,6 +45251,25 @@
       "Tamago L3",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "feeling uncomfortable, tense, constrained",
+        "sentences": [
+          {
+            "thai": "อยู่กับคนแปลกหน้าแล้วรู้สึกอึดอัด",
+            "en": "I feel uncomfortable around strangers.",
+            "audio_src": "อยู่กับคนแปลกหน้าแล้วรู้สึกอึดอัด",
+            "audio_en_src": "I feel uncomfortable around strangers."
+          },
+          {
+            "thai": "ห้องนี้คนเยอะ อึดอัดจัง",
+            "en": "This room is crowded, it's so stuffy.",
+            "audio_src": "ห้องนี้คนเยอะ อึดอัดจัง",
+            "audio_en_src": "This room is crowded, it's so stuffy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45204,6 +45280,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "hopeless, to lose hope",
+        "sentences": [
+          {
+            "thai": "อย่าเพิ่งหมดหวัง",
+            "en": "Don't lose hope yet.",
+            "audio_src": "อย่าเพิ่งหมดหวัง",
+            "audio_en_src": "Don't lose hope yet."
+          },
+          {
+            "thai": "เขารู้สึกหมดหวังกับชีวิต",
+            "en": "He feels hopeless about life.",
+            "audio_src": "เขารู้สึกหมดหวังกับชีวิต",
+            "audio_en_src": "He feels hopeless about life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45280,6 +45375,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"oh my god!\", \"oh dear!\"",
+        "sentences": [
+          {
+            "thai": "ต๊าย ลืมกระเป๋าไว้บนรถ",
+            "en": "Oh my god, I left my bag on the bus.",
+            "audio_src": "ต๊าย ลืมกระเป๋าไว้บนรถ",
+            "audio_en_src": "Oh my god, I left my bag on the bus."
+          },
+          {
+            "thai": "ต๊าย น่ารักจัง",
+            "en": "Aww, so cute!",
+            "audio_src": "ต๊าย น่ารักจัง",
+            "audio_en_src": "Aww, so cute!"
+          }
+        ]
+      }
     ]
   },
   {
@@ -45290,6 +45404,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"dream on\", \"in your dreams\"",
+        "sentences": [
+          {
+            "thai": "อยากได้รถใหม่เหรอ ฝันไปเถอะ",
+            "en": "You want a new car? Dream on.",
+            "audio_src": "อยากได้รถใหม่เหรอ ฝันไปเถอะ",
+            "audio_en_src": "You want a new car? Dream on."
+          },
+          {
+            "thai": "ฝันไปเถอะ เขาไม่มีทางชอบเธอหรอก",
+            "en": "In your dreams, there's no way he'll like you.",
+            "audio_src": "ฝันไปเถอะ เขาไม่มีทางชอบเธอหรอก",
+            "audio_en_src": "In your dreams, there's no way he'll like you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45335,6 +45468,25 @@
       "Tamago L3",
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "first, beforehand",
+        "sentences": [
+          {
+            "thai": "กินข้าวให้อิ่มเสียก่อน",
+            "en": "Eat your fill first.",
+            "audio_src": "กินข้าวให้อิ่มเสียก่อน",
+            "audio_en_src": "Eat your fill first."
+          },
+          {
+            "thai": "จ่ายเงินเสียก่อนถึงจะได้ของ",
+            "en": "Pay first, then you get the item.",
+            "audio_src": "จ่ายเงินเสียก่อนถึงจะได้ของ",
+            "audio_en_src": "Pay first, then you get the item."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45386,6 +45538,25 @@
     "topic": "family",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "child from a previous relationship",
+        "sentences": [
+          {
+            "thai": "เธอแต่งงานทั้งที่มีลูกติด",
+            "en": "She got married even though she has a child from a previous relationship.",
+            "audio_src": "เธอแต่งงานทั้งที่มีลูกติด",
+            "audio_en_src": "She got married even though she has a child from a previous relationship."
+          },
+          {
+            "thai": "เขารับเลี้ยงลูกติดของภรรยา",
+            "en": "He raises his wife's child from her previous relationship.",
+            "audio_src": "เขารับเลี้ยงลูกติดของภรรยา",
+            "audio_en_src": "He raises his wife's child from her previous relationship."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45458,6 +45629,25 @@
     "topic": "family",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "biological mother",
+        "sentences": [
+          {
+            "thai": "เธอไม่ใช่แม่แท้ๆของฉัน",
+            "en": "She's not my biological mother.",
+            "audio_src": "เธอไม่ใช่แม่แท้ๆของฉัน",
+            "audio_en_src": "She's not my biological mother."
+          },
+          {
+            "thai": "เขาตามหาแม่แท้ๆมานาน",
+            "en": "He's been searching for his biological mother for a long time.",
+            "audio_src": "เขาตามหาแม่แท้ๆมานาน",
+            "audio_en_src": "He's been searching for his biological mother for a long time."
+          }
+        ]
+      }
     ]
   },
   {
