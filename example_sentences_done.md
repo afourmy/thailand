@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5172 words**
+**Total: 5182 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3345,8 +3345,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-038` : บดละเอียด (to grind finely, finely ground (powder, chili, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-044` : ที่มาที่ไป (origin, history, background, how something came to be) : 1 meaning(s), 2 sentences
 - `yt-c07-046` : ราก (root) : 1 meaning(s), 2 sentences
+- `yt-c07-047` : ฝน (rain; to grind (e.g a plant into powder), to sharpen) : 2 meaning(s), 4 sentences
+- `yt-c07-049` : ความดันโลหิต (blood pressure) : 1 meaning(s), 2 sentences
 - `yt-c07-051` : ใส (clear, transparent) : 1 meaning(s), 2 sentences
 - `yt-c07-056` : ถ่ายเอกสาร (to photocopy a document) : 1 meaning(s), 2 sentences
+- `yt-c07-057` : ค่ามัดจำ (security deposit, deposit fee) : 1 meaning(s), 2 sentences
 - `yt-c07-058` : สบู่ก้อน (bar soap) : 1 meaning(s), 2 sentences
 - `yt-c07-067` : กระสอบ (sack, bag (e.g made of sand for training, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
@@ -3354,16 +3357,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-076` : ประกอบกัน (to combine, to be put together) : 1 meaning(s), 2 sentences
 - `yt-c07-082` : ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน (upper class - middle class - working class) : 1 meaning(s), 2 sentences
 - `yt-c07-088` : อนุสาวรีย์ (monument, memorial) : 1 meaning(s), 2 sentences
+- `yt-c07-093` : ถอนฟัน (to extract a tooth) : 1 meaning(s), 2 sentences
 - `yt-c08-004` : ติดตัว (to carry on oneself; (figuratively) innate, ingrained) : 2 meaning(s), 4 sentences
 - `yt-c08-005` : เฉลย (to reveal the answer, to provide the solution (e.g tests, exercises)) : 1 meaning(s), 2 sentences
 - `yt-c08-026` : กระพริบ (to blink, to flicker (e.g eyes, light)) : 1 meaning(s), 2 sentences
+- `yt-c08-028` : หมั่นไส้ (to feel annoyed, irritated by someone (e.g for being smug, showing off)) : 1 meaning(s), 2 sentences
 - `yt-c08-029` : ห้องลองเสื้อ (changing room (cloth store)) : 1 meaning(s), 2 sentences
+- `yt-c08-030` : สลาก (lottery ticket, lottery slip) : 1 meaning(s), 2 sentences
 - `yt-c08-031` : อัตราส่วน (ratio) : 1 meaning(s), 2 sentences
+- `yt-c08-032` : เจ้ามือ (dealer, person in charge of a gambling game (or lottery tickets)) : 1 meaning(s), 2 sentences
+- `yt-c08-033` : จอดตรงนี้ก็ได้ครับ ("you can stop here" (direction to taxi)) : 1 meaning(s), 2 sentences
+- `yt-c08-034` : ขับไปอีกนิดนึงครับ ("drive a little further" (then stop) (direction to taxi)) : 1 meaning(s), 2 sentences
 - `yt-c08-037` : ซีก (half, hemisphere, side (one of two parts)) : 1 meaning(s), 2 sentences
 - `yt-c08-039` : เล็มผม (to trim hair, to snip the end of the hair) : 1 meaning(s), 2 sentences
 - `yt-c08-040` : หวี (comb, to comb) : 1 meaning(s), 2 sentences
 - `yt-c08-041` : ฉีด (to spray; to inject) : 2 meaning(s), 4 sentences
 - `yt-c08-042` : ย้อมผม (to dye hair) : 1 meaning(s), 2 sentences
+- `yt-c08-043` : ผมหยักศก (wavy hair) : 1 meaning(s), 2 sentences
 - `yt-c08-047` : ความชอบส่วนตัว, ความชอบส่วนบุคคล (personal preference) : 1 meaning(s), 2 sentences
 - `yt-c08-048` : ตอกย้ำ (to reinforce, to emphasize, to underscore) : 1 meaning(s), 2 sentences
 - `yt-c08-049` : ร้านเสริมสวย (beauty salon) : 1 meaning(s), 2 sentences

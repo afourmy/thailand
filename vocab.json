@@ -128769,6 +128769,42 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "rain",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักมากเมื่อคืน",
+            "en": "It rained really hard last night.",
+            "audio_src": "ฝนตกหนักมากเมื่อคืน",
+            "audio_en_src": "It rained really hard last night."
+          },
+          {
+            "thai": "เอาร่มไปด้วย เดี๋ยวฝนตก",
+            "en": "Take an umbrella, it might rain.",
+            "audio_src": "เอาร่มไปด้วย เดี๋ยวฝนตก",
+            "audio_en_src": "Take an umbrella, it might rain."
+          }
+        ]
+      },
+      {
+        "meaning": "to grind (e.g a plant into powder), to sharpen",
+        "sentences": [
+          {
+            "thai": "หมอยาฝนสมุนไพรให้ละเอียด",
+            "en": "The herbalist grinds the herbs into powder.",
+            "audio_src": "หมอยาฝนสมุนไพรให้ละเอียด",
+            "audio_en_src": "The herbalist grinds the herbs into powder."
+          },
+          {
+            "thai": "เขาฝนมีดให้คม",
+            "en": "He sharpened the knife.",
+            "audio_src": "เขาฝนมีดให้คม",
+            "audio_en_src": "He sharpened the knife."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128789,6 +128825,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "blood pressure",
+        "sentences": [
+          {
+            "thai": "หมอวัดความดันโลหิตให้ฉัน",
+            "en": "The doctor measured my blood pressure.",
+            "audio_src": "หมอวัดความดันโลหิตให้ฉัน",
+            "audio_en_src": "The doctor measured my blood pressure."
+          },
+          {
+            "thai": "เขามีความดันโลหิตสูง",
+            "en": "He has high blood pressure.",
+            "audio_src": "เขามีความดันโลหิตสูง",
+            "audio_en_src": "He has high blood pressure."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128913,6 +128968,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "security deposit, deposit fee",
+        "sentences": [
+          {
+            "thai": "เช่าห้องต้องจ่ายค่ามัดจำล่วงหน้า",
+            "en": "Renting a room, you have to pay a deposit in advance.",
+            "audio_src": "เช่าห้องต้องจ่ายค่ามัดจำล่วงหน้า",
+            "audio_en_src": "Renting a room, you have to pay a deposit in advance."
+          },
+          {
+            "thai": "ถ้าห้องไม่เสียหายจะได้ค่ามัดจำคืน",
+            "en": "If the room isn’t damaged, you’ll get the deposit back.",
+            "audio_src": "ถ้าห้องไม่เสียหายจะได้ค่ามัดจำคืน",
+            "audio_en_src": "If the room isn’t damaged, you’ll get the deposit back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129464,6 +129538,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to extract a tooth",
+        "sentences": [
+          {
+            "thai": "หมอฟันถอนฟันผุให้ฉัน",
+            "en": "The dentist extracted my decayed tooth.",
+            "audio_src": "หมอฟันถอนฟันผุให้ฉัน",
+            "audio_en_src": "The dentist extracted my decayed tooth."
+          },
+          {
+            "thai": "ถอนฟันเสร็จห้ามบ้วนน้ำแรงๆ",
+            "en": "After a tooth extraction, don’t rinse forcefully.",
+            "audio_src": "ถอนฟันเสร็จห้ามบ้วนน้ำแรงๆ",
+            "audio_en_src": "After a tooth extraction, don’t rinse forcefully."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129845,6 +129938,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to feel annoyed, irritated by someone (e.g for being smug, showing off)",
+        "sentences": [
+          {
+            "thai": "เห็นเขาอวดรวยแล้วหมั่นไส้",
+            "en": "Seeing him show off his wealth is annoying.",
+            "audio_src": "เห็นเขาอวดรวยแล้วหมั่นไส้",
+            "audio_en_src": "Seeing him show off his wealth is annoying."
+          },
+          {
+            "thai": "ทำไมชอบทำตัวน่าหมั่นไส้",
+            "en": "Why do you like acting so smug?",
+            "audio_src": "ทำไมชอบทำตัวน่าหมั่นไส้",
+            "audio_en_src": "Why do you like acting so smug?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -129886,6 +129998,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "lottery ticket, lottery slip",
+        "sentences": [
+          {
+            "thai": "เขาซื้อสลากทุกงวด",
+            "en": "He buys lottery tickets every draw.",
+            "audio_src": "เขาซื้อสลากทุกงวด",
+            "audio_en_src": "He buys lottery tickets every draw."
+          },
+          {
+            "thai": "ถ้าถูกสลากรางวัลที่หนึ่งจะรวยเลย",
+            "en": "If you win the first prize in the lottery, you’ll be rich.",
+            "audio_src": "ถ้าถูกสลากรางวัลที่หนึ่งจะรวยเลย",
+            "audio_en_src": "If you win the first prize in the lottery, you’ll be rich."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129927,6 +130058,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "dealer, person in charge of a gambling game (or lottery tickets)",
+        "sentences": [
+          {
+            "thai": "คืนนี้ใครเป็นเจ้ามือ",
+            "en": "Who’s the dealer tonight?",
+            "audio_src": "คืนนี้ใครเป็นเจ้ามือ",
+            "audio_en_src": "Who’s the dealer tonight?"
+          },
+          {
+            "thai": "เจ้ามือหวยเถื่อนโดนจับ",
+            "en": "The illegal lottery bookie got arrested.",
+            "audio_src": "เจ้ามือหวยเถื่อนโดนจับ",
+            "audio_en_src": "The illegal lottery bookie got arrested."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129937,6 +130087,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"you can stop here\" (direction to taxi)",
+        "sentences": [
+          {
+            "thai": "ถึงแล้วครับ จอดตรงนี้ก็ได้ครับ",
+            "en": "We’re here, you can stop here.",
+            "audio_src": "ถึงแล้วครับ จอดตรงนี้ก็ได้ครับ",
+            "audio_en_src": "We’re here, you can stop here."
+          },
+          {
+            "thai": "หน้าร้านสะดวกซื้อ จอดตรงนี้ก็ได้ครับ",
+            "en": "In front of the convenience store, you can stop here.",
+            "audio_src": "หน้าร้านสะดวกซื้อ จอดตรงนี้ก็ได้ครับ",
+            "audio_en_src": "In front of the convenience store, you can stop here."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129947,6 +130116,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"drive a little further\" (then stop) (direction to taxi)",
+        "sentences": [
+          {
+            "thai": "ยังไม่ถึงครับ ขับไปอีกนิดนึงครับ",
+            "en": "Not there yet, drive a little further.",
+            "audio_src": "ยังไม่ถึงครับ ขับไปอีกนิดนึงครับ",
+            "audio_en_src": "Not there yet, drive a little further."
+          },
+          {
+            "thai": "ขับไปอีกนิดนึงครับ แล้วเลี้ยวซ้าย",
+            "en": "Drive a little further, then turn left.",
+            "audio_src": "ขับไปอีกนิดนึงครับ แล้วเลี้ยวซ้าย",
+            "audio_en_src": "Drive a little further, then turn left."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130153,6 +130341,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "wavy hair",
+        "sentences": [
+          {
+            "thai": "เธอมีผมหยักศกสวยเป็นธรรมชาติ",
+            "en": "She has beautiful natural wavy hair.",
+            "audio_src": "เธอมีผมหยักศกสวยเป็นธรรมชาติ",
+            "audio_en_src": "She has beautiful natural wavy hair."
+          },
+          {
+            "thai": "ผมหยักศกจัดทรงง่ายกว่าผมตรง",
+            "en": "Wavy hair is easier to style than straight hair.",
+            "audio_src": "ผมหยักศกจัดทรงง่ายกว่าผมตรง",
+            "audio_en_src": "Wavy hair is easier to style than straight hair."
+          }
+        ]
+      }
     ]
   },
   {
