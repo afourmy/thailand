@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4533 words**
+**Total: 4543 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1447,11 +1447,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-593` : รู้สึกขอบคุณ (to feel grateful) : 1 meaning(s), 2 sentences
 - `tamago-l3-594` : ใช้ไม่ได้ (useless, no good (of objects); terrible (of people)) : 2 meaning(s), 4 sentences
 - `tamago-l3-595` : ซน (mischievous, naughty (about children)) : 1 meaning(s), 2 sentences
+- `tamago-l3-596` : รู้อยู่แก่ใจ (to know in one's heart, to know full well) : 1 meaning(s), 2 sentences
 - `tamago-l3-597` : แอบได้ยิน (to overhear) : 1 meaning(s), 2 sentences
+- `tamago-l3-598` : งอแง (to throw a tantrum, to whine) : 1 meaning(s), 2 sentences
 - `tamago-l3-599` : ตำหนิ (to criticize, to find fault with) : 1 meaning(s), 2 sentences
 - `tamago-l3-600` : สรรหา (to seek out, search for, dig up, to pick carefully, to recruit) : 1 meaning(s), 2 sentences
+- `tamago-l3-601` : นึกว่า ... เสียอีก ("I thought that... (but it turned out otherwise)") : 1 meaning(s), 2 sentences
+- `tamago-l3-602` : แปลว่า... ("it means that..." (idiomatic, nothing to do with translating)) : 1 meaning(s), 2 sentences
 - `tamago-l3-603` : แย้ง (to argue against, to refute, to contradict) : 1 meaning(s), 2 sentences
 - `tamago-l3-604` : ยอมจำนน (to surrender, to give up, to concede) : 1 meaning(s), 2 sentences
+- `tamago-l3-605` : ดึกๆดื่นๆ (late at night) : 1 meaning(s), 2 sentences
 - `tamago-l3-606` : คาบ ((school) period, class) : 1 meaning(s), 2 sentences
 - `tamago-l3-608` : สืบทอด (to inherit, to carry on (a business, tradition)) : 1 meaning(s), 2 sentences
 - `tamago-l3-609` : งานอดิเรก (hobby) : 1 meaning(s), 2 sentences
@@ -1460,16 +1465,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-613` : อยู่ตัว (stable, settled) : 1 meaning(s), 2 sentences
 - `tamago-l3-615` : ความอยู่รอด (survival) : 1 meaning(s), 2 sentences
 - `tamago-l3-616` : โละทิ้ง (to discard, to throw out (e.g unwanted, obsolete things)) : 1 meaning(s), 2 sentences
+- `tamago-l3-618` : พูดถึงเรื่อง ("speaking of...", "on the topic of...") : 1 meaning(s), 2 sentences
 - `tamago-l3-619` : มีส่วน, มีส่วนร่วม (to take part in, to be involved in) : 1 meaning(s), 2 sentences
 - `tamago-l3-620` : สุขสบาย (comfortable and happy, at ease) : 1 meaning(s), 2 sentences
 - `tamago-l3-621` : เจ๋ง (cool, awesome (slang)) : 1 meaning(s), 2 sentences
+- `tamago-l3-622` : ในดวงใจ (favorite, in one's heart, most beloved) : 1 meaning(s), 2 sentences
 - `tamago-l3-626` : ชะตาชีวิต (fate, destiny) : 1 meaning(s), 2 sentences
+- `tamago-l3-627` : บาป (sin) : 1 meaning(s), 2 sentences
 - `tamago-l3-628` : รับช่วง (to take over (a business, project) from someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-629` : ขึ้นเสียง (to raise one's voice) : 1 meaning(s), 2 sentences
 - `tamago-l3-631` : ด้อย (inferior, low) : 1 meaning(s), 2 sentences
 - `tamago-l3-632` : ด้อยกว่า (inferior, lesser than) : 1 meaning(s), 2 sentences
 - `tamago-l3-633` : สนับสนุน (to support, to back up, to promote) : 1 meaning(s), 2 sentences
 - `tamago-l3-634` : ฟอง (classifier for eggs; bubble, foam) : 2 meaning(s), 4 sentences
+- `tamago-l3-635` : จัด...มา (to bring something, to get something ready) : 1 meaning(s), 2 sentences
+- `tamago-l3-636` : กลุ้มใจ (worried, anxious, troubled, mentally burdened (on-going concern)) : 1 meaning(s), 2 sentences
 - `tamago-l3-639` : คลี่คลาย (to improve, to ease up, to resolve) : 1 meaning(s), 2 sentences
 - `tamago-l3-640` : ย่าน (area, zone, neighborhood) : 1 meaning(s), 2 sentences
 - `tamago-l3-641` : สดๆ (fresh; new, very recent) : 2 meaning(s), 4 sentences

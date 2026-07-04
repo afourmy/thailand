@@ -55362,6 +55362,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to know in one's heart, to know full well",
+        "sentences": [
+          {
+            "thai": "เขารู้อยู่แก่ใจว่าทำผิด",
+            "en": "He knows full well that he did wrong.",
+            "audio_src": "เขารู้อยู่แก่ใจว่าทำผิด",
+            "audio_en_src": "He knows full well that he did wrong."
+          },
+          {
+            "thai": "ฉันรู้อยู่แก่ใจว่าเธอโกหก",
+            "en": "I know in my heart that you're lying.",
+            "audio_src": "ฉันรู้อยู่แก่ใจว่าเธอโกหก",
+            "audio_en_src": "I know in my heart that you're lying."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55404,6 +55423,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to throw a tantrum, to whine",
+        "sentences": [
+          {
+            "thai": "เด็กงอแงไม่ยอมนอน",
+            "en": "The child is whining and won't sleep.",
+            "audio_src": "เด็กงอแงไม่ยอมนอน",
+            "audio_en_src": "The child is whining and won't sleep."
+          },
+          {
+            "thai": "อย่างอแงสิ เดี๋ยวก็ได้กิน",
+            "en": "Stop fussing, you'll get to eat soon.",
+            "audio_src": "อย่างอแงสิ เดี๋ยวก็ได้กิน",
+            "audio_en_src": "Stop fussing, you'll get to eat soon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55477,6 +55515,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"I thought that... (but it turned out otherwise)\"",
+        "sentences": [
+          {
+            "thai": "นึกว่าวันนี้หยุดเสียอีก ที่แท้ต้องทำงาน",
+            "en": "I thought today was a holiday, but it turns out I have to work.",
+            "audio_src": "นึกว่าวันนี้หยุดเสียอีก ที่แท้ต้องทำงาน",
+            "audio_en_src": "I thought today was a holiday, but it turns out I have to work."
+          },
+          {
+            "thai": "นึกว่าเขาใจดีเสียอีก ที่ไหนได้ร้ายมาก",
+            "en": "I thought he was kind, but no, he's really mean.",
+            "audio_src": "นึกว่าเขาใจดีเสียอีก ที่ไหนได้ร้ายมาก",
+            "audio_en_src": "I thought he was kind, but no, he's really mean."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55488,6 +55545,25 @@
     "sources": [
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "\"it means that...\" (idiomatic, nothing to do with translating)",
+        "sentences": [
+          {
+            "thai": "เขาเงียบ แปลว่าเขาไม่พอใจ",
+            "en": "He's quiet, which means he's not happy.",
+            "audio_src": "เขาเงียบ แปลว่าเขาไม่พอใจ",
+            "audio_en_src": "He's quiet, which means he's not happy."
+          },
+          {
+            "thai": "ไฟแดง แปลว่าให้หยุด",
+            "en": "A red light means stop.",
+            "audio_src": "ไฟแดง แปลว่าให้หยุด",
+            "audio_en_src": "A red light means stop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55561,6 +55637,25 @@
     "topic": "time",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "late at night",
+        "sentences": [
+          {
+            "thai": "อย่ากลับบ้านดึกๆดื่นๆ",
+            "en": "Don't come home so late at night.",
+            "audio_src": "อย่ากลับบ้านดึกๆดื่นๆ",
+            "audio_en_src": "Don't come home so late at night."
+          },
+          {
+            "thai": "โทรมาหากันดึกๆดื่นๆทำไม",
+            "en": "Why are you calling so late at night?",
+            "audio_src": "โทรมาหากันดึกๆดื่นๆทำไม",
+            "audio_en_src": "Why are you calling so late at night?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -55861,6 +55956,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"speaking of...\", \"on the topic of...\"",
+        "sentences": [
+          {
+            "thai": "พูดถึงเรื่องอาหาร ฉันหิวเลย",
+            "en": "Speaking of food, I'm hungry now.",
+            "audio_src": "พูดถึงเรื่องอาหาร ฉันหิวเลย",
+            "audio_en_src": "Speaking of food, I'm hungry now."
+          },
+          {
+            "thai": "พูดถึงเรื่องงาน เดี๋ยวค่อยคุยกัน",
+            "en": "On the topic of work, let's talk later.",
+            "audio_src": "พูดถึงเรื่องงาน เดี๋ยวค่อยคุยกัน",
+            "audio_en_src": "On the topic of work, let's talk later."
+          }
+        ]
+      }
     ]
   },
   {
@@ -55968,6 +56082,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "favorite, in one's heart, most beloved",
+        "sentences": [
+          {
+            "thai": "เธอเป็นนักร้องในดวงใจของฉัน",
+            "en": "She's my favorite singer.",
+            "audio_src": "เธอเป็นนักร้องในดวงใจของฉัน",
+            "audio_en_src": "She's my favorite singer."
+          },
+          {
+            "thai": "ร้านนี้เป็นร้านในดวงใจเลย",
+            "en": "This is my all-time favorite restaurant.",
+            "audio_src": "ร้านนี้เป็นร้านในดวงใจเลย",
+            "audio_en_src": "This is my all-time favorite restaurant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -56042,6 +56175,25 @@
       "Tamago L3",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sin",
+        "sentences": [
+          {
+            "thai": "การโกหกเป็นบาป",
+            "en": "Lying is a sin.",
+            "audio_src": "การโกหกเป็นบาป",
+            "audio_en_src": "Lying is a sin."
+          },
+          {
+            "thai": "เขากลัวบาปเลยไม่กล้าทำ",
+            "en": "He's afraid of sin, so he doesn't dare do it.",
+            "audio_src": "เขากลัวบาปเลยไม่กล้าทำ",
+            "audio_en_src": "He's afraid of sin, so he doesn't dare do it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -56271,6 +56423,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to bring something, to get something ready",
+        "sentences": [
+          {
+            "thai": "ช่วยจัดเก้าอี้มาเพิ่มหน่อย",
+            "en": "Please bring some more chairs.",
+            "audio_src": "ช่วยจัดเก้าอี้มาเพิ่มหน่อย",
+            "audio_en_src": "Please bring some more chairs."
+          },
+          {
+            "thai": "จัดกาแฟมาให้แก้วนึง",
+            "en": "Get me a cup of coffee.",
+            "audio_src": "จัดกาแฟมาให้แก้วนึง",
+            "audio_en_src": "Get me a cup of coffee."
+          }
+        ]
+      }
     ]
   },
   {
@@ -56283,6 +56454,25 @@
       "Tamago L3",
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "worried, anxious, troubled, mentally burdened (on-going concern)",
+        "sentences": [
+          {
+            "thai": "เขากลุ้มใจเรื่องเงิน",
+            "en": "He's worried about money.",
+            "audio_src": "เขากลุ้มใจเรื่องเงิน",
+            "audio_en_src": "He's worried about money."
+          },
+          {
+            "thai": "อย่ากลุ้มใจไปเลย เดี๋ยวก็ดีขึ้น",
+            "en": "Don't be so troubled, it'll get better.",
+            "audio_src": "อย่ากลุ้มใจไปเลย เดี๋ยวก็ดีขึ้น",
+            "audio_en_src": "Don't be so troubled, it'll get better."
+          }
+        ]
+      }
     ]
   },
   {
