@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4683 words**
+**Total: 4693 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1800,21 +1800,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-215` : ร่วน (crumbly, loose, easily falls apart (texture)) : 1 meaning(s), 2 sentences
 - `tsl-217` : คีบ (to pick up (using chopsticks, tongs, fingers)) : 1 meaning(s), 2 sentences
 - `tsl-219` : เอาใจช่วย (to root for someone, to cheer on) : 1 meaning(s), 2 sentences
+- `tsl-221` : ของใครของมัน ((idiom) "to each their own") : 1 meaning(s), 2 sentences
+- `tsl-223` : มาก่อนได้ก่อน (first come, first served) : 1 meaning(s), 2 sentences
 - `tsl-226` : เป็นธุระ (to take care of something, to handle a task) : 1 meaning(s), 2 sentences
 - `tsl-228` : ยั่งยืน (sustainable, long-lasting) : 1 meaning(s), 2 sentences
 - `tsl-231` : กระจ่าง (clear, easily understandable (explanation)) : 1 meaning(s), 2 sentences
 - `tsl-233` : ค้าน (to object, to protest, to oppose) : 1 meaning(s), 2 sentences
+- `tsl-234` : ภูมิอากาศ (climate) : 1 meaning(s), 2 sentences
 - `tsl-235` : อารยธรรม (civilization) : 1 meaning(s), 2 sentences
 - `tsl-238` : เสริมสร้าง (to enhance, strengthen, reinforce) : 1 meaning(s), 2 sentences
+- `tsl-242` : อาหารเสริม ((dietary) supplement) : 1 meaning(s), 2 sentences
+- `tsl-243` : ข้ามเส้น - ล้ำเส้น (to cross the line (literally) - to overstep limits, to go too far) : 1 meaning(s), 2 sentences
 - `tsl-244` : ทึบ (dense, solid, opaque (not letting light, air, or fluid through)) : 1 meaning(s), 2 sentences
+- `tsl-249` : ไม่... เสมอไป (not always, not necessarily true) : 1 meaning(s), 2 sentences
 - `tsl-250` : ผ้าฝ้าย (cotton fabric) : 1 meaning(s), 2 sentences
 - `tsl-251` : เชิง (aspect, angle, style) : 1 meaning(s), 2 sentences
 - `tsl-252` : ริ้ว (stripe, line, streak) : 1 meaning(s), 2 sentences
 - `tsl-253` : ภาษิต, สุภาษิต (proverb) : 1 meaning(s), 2 sentences
 - `tsl-254` : ข้อคิด (thought, insight, takeaway, consideration) : 1 meaning(s), 2 sentences
+- `tsl-256` : ค่านิยม (social values, principles (what a society considers important)) : 1 meaning(s), 2 sentences
 - `tsl-257` : คาดการณ์ (to forecast, to predict, to extrapolate) : 1 meaning(s), 2 sentences
 - `tsl-258` : รับจ้าง (to accept a job (contract), to work as a freelancer) : 1 meaning(s), 2 sentences
 - `tsl-259` : มุ่ง (to aim at, to focus on, to head towards) : 1 meaning(s), 2 sentences
+- `tsl-264` : ทั้งนี้เพื่อ (in order to, for the purpose of (formal)) : 1 meaning(s), 2 sentences
+- `tsl-265` : ไม่มากก็น้อย (more or less, to some extent) : 1 meaning(s), 2 sentences
+- `tsl-270` : ตลาดหุ้น (stock market) : 1 meaning(s), 2 sentences
 - `tsl-285` : ยึดเกาะ (to cling, to adhere, to hold on) : 1 meaning(s), 2 sentences
 - `tsl-286` : ทรงตัว (to maintain balance, to stabilize) : 1 meaning(s), 2 sentences
 - `tsl-288` : คาดฝัน (to anticipate, to look forward to, to dream of) : 1 meaning(s), 2 sentences
