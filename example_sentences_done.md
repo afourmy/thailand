@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5262 words**
+**Total: 5272 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3503,13 +3503,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
 - `yt-c11-069` : สอย (to pluck, to pick (with a tool, e.g bamboo stick, to make fruits fall)) : 1 meaning(s), 2 sentences
 - `yt-c11-073` : สุขุม (calm, composed, level-headed) : 1 meaning(s), 2 sentences
+- `yt-c11-075` : ระดมทุน (to raise funds, to raise capital) : 1 meaning(s), 2 sentences
+- `yt-c11-078` : หึง (jealous (in relationships only, romantic context)) : 1 meaning(s), 2 sentences
 - `yt-c11-080` : ชะลอ (to slow down, to decelerate, to delay) : 1 meaning(s), 2 sentences
+- `yt-c11-082` : เหลิง (conceited, overconfident, getting a big head) : 1 meaning(s), 2 sentences
 - `yt-c11-083` : กระแสตอบรับ (public response, reception, feedback from people) : 1 meaning(s), 2 sentences
 - `yt-c11-085` : คำนวณ (to calculate) : 1 meaning(s), 2 sentences
 - `yt-c11-091` : พ้อง (similar, matching, identical, to correspond, to be the same) : 1 meaning(s), 2 sentences
+- `yt-c11-092` : ขัดตา - ขัดหู - ขัดใจ (displeasing, unpleasant (literally irritates the eyes - ears - heart)) : 1 meaning(s), 2 sentences
+- `yt-c11-096` : เสือก (to butt in, to meddle with, to stick your nose in (slang, very rude)) : 1 meaning(s), 2 sentences
+- `yt-c11-097` : ผิดสังเกต (unusual, "looks suspicious", "seems off") : 1 meaning(s), 2 sentences
+- `yt-c11-098` : ช่างสังเกต (observant, someone who tends to notice things) : 1 meaning(s), 2 sentences
 - `yt-c12-000` : จ้า (very bright, glaring (when talking about light)) : 1 meaning(s), 2 sentences
+- `yt-c12-002` : ม่านตา (pupils (of the eyes), iris) : 1 meaning(s), 2 sentences
 - `yt-c12-003` : ลึกลับ (mysterious, secretive) : 1 meaning(s), 2 sentences
+- `yt-c12-004` : ปากดี (smart-mouthed, cheeky, sassy (e.g teasing people)) : 1 meaning(s), 2 sentences
 - `yt-c12-005` : กล่าว (to say, to state, to mention (formal)) : 1 meaning(s), 2 sentences
+- `yt-c12-008` : หิวโหย (very hungry, famished, starving (formal)) : 1 meaning(s), 2 sentences
 - `yt-c12-030` : เกี่ยว (related to, concerning; to harvest, to reap; to hook, to link, to entangle) : 3 meaning(s), 6 sentences
 - `yt-c12-030b` : เก็บเกี่ยว (to harvest crops (e.g rice, wheat)) : 1 meaning(s), 2 sentences
 - `yt-c12-031` : พร่อง - เต็ม - ล้น (less than full, deficient, lacking, below standard - full - more than full, overflow) : 1 meaning(s), 3 sentences
