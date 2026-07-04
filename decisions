@@ -8,5 +8,22 @@ chula-l6-160 หมองคล้ำ: eng 'dull, darkened (usually used negativ
 chula-l6-228 ปุดๆ: eng 'bubbling, boiling, welling up (onomatopoeia)'
 chula-l6-254 ตัวยง: eng 'die-hard, ardent, devoted'
 chula-l6-299 สู่ขอ: eng 'to make a marriage proposal, to ask for someone's hand (literally "go and ask")'
+chula-l6-313 พลเอก - พลโท - ร้อยเอก: eng 'general - lieutenant general - captain (military ranks)'
+chula-l6-314 ว่าการ: eng 'to administer, to be in charge, to govern'
+tamago-l12-051 ขอขมา: eng 'to ask for forgiveness, to formally apologize (formal)'
+tamago-l12-229 นิทรา: eng 'to sleep, to slumber (formal, poetic)'
+tamago-l12-238 น่อง: eng 'calf (back of the lower leg)'
+tamago-l12-477 อักษรศาสตร์: eng 'humanities, liberal arts (study of language, culture)'
+tamago-l12-482 อิดออด: eng 'reluctant, unwilling to do something, to procrastinate'
+tamago-l12-522 เทียบติด: eng 'to match closely, comparable, on par (formal)'
+tamago-l12-578 เหว: eng 'abyss, deep ravine, gorge'
+tamago-l3-002 เขียวเสวย: eng 'a type of green mango'
 
-remove card: chula-l4-016 พิษสุนัขบ้า
+
+chula-l6-339 พ.ร.บ. (พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ): make it 'พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ (พ.ร.บ.)'
+
+chula-l6-326 กลากเกลื้อน - หูด: split in two cards:
+กลากเกลื้อน: 'fungal skin infections (ringworm and tinea)'
+หูด: 'wart (HPV)'
+
+remove card: chula-l4-016 พิษสุนัขบ้า, tamago-l12-596 แป๊ด
