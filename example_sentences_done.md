@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4843 words**
+**Total: 4853 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2283,9 +2283,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0534` : บ้านเรือน (houses, household, habitations) : 1 meaning(s), 2 sentences
 - `thaipod-0536` : ครอง, ปกครอง (to govern, to rule) : 1 meaning(s), 2 sentences
 - `thaipod-0542` : ปฏิเสธ (to refuse, to deny) : 1 meaning(s), 2 sentences
+- `thaipod-0547` : ประกอบด้วย (to consist of, to be composed of) : 1 meaning(s), 2 sentences
 - `thaipod-0548` : ประการ (point, aspect, matter (formal classifier for reasons or items in a list)) : 1 meaning(s), 2 sentences
 - `thaipod-0551` : ประชากร (population) : 1 meaning(s), 2 sentences
 - `thaipod-0552` : ประชาชน (the people, populace, citizens) : 1 meaning(s), 2 sentences
+- `thaipod-0556` : ประทัด (firecracker) : 1 meaning(s), 2 sentences
 - `thaipod-0560` : ประวัติความเป็นมา (historical background) : 1 meaning(s), 2 sentences
 - `thaipod-0561` : ประวัติศาสตร์ (history (as a discipline)) : 1 meaning(s), 2 sentences
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
@@ -2296,6 +2298,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0576` : ปลายทาง (destination, end of the route) : 1 meaning(s), 2 sentences
 - `thaipod-0577` : ปลูกฝัง (to instill, to cultivate (values, ideas)) : 1 meaning(s), 2 sentences
 - `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
+- `thaipod-0579` : ปล้น (to rob (often with force or in groups, like a bank)) : 1 meaning(s), 2 sentences
 - `thaipod-0584` : ปัจจุบัน (present, current) : 1 meaning(s), 2 sentences
 - `thaipod-0586` : ปั้น (to sculpt, to mold (clay, sculpture)) : 1 meaning(s), 2 sentences
 - `thaipod-0588` : ปากซอย (entrance of a soi (small street)) : 1 meaning(s), 2 sentences
@@ -2307,6 +2310,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0606` : ผลงาน (works, output, performance) : 1 meaning(s), 2 sentences
 - `thaipod-0607` : ผลักดัน (to push forward, to promote, to drive forward) : 1 meaning(s), 2 sentences
 - `thaipod-0608` : ผลัด (to take turns, to rotate; to shed (seasonal)) : 2 meaning(s), 4 sentences
+- `thaipod-0609` : ผา, หน้าผา (cliff) : 1 meaning(s), 2 sentences
 - `thaipod-0611` : ผิว (surface, skin) : 1 meaning(s), 2 sentences
 - `thaipod-0614` : ผูก (to tie, to bind) : 1 meaning(s), 2 sentences
 - `thaipod-0616` : ผู้กำกับ, ผู้กำกับภาพยนตร์ (film director) : 1 meaning(s), 2 sentences
@@ -2315,13 +2319,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0627` : ผ้าไหม (silk fabric) : 1 meaning(s), 2 sentences
 - `thaipod-0628` : ฝัง (to bury, to embed, to implant) : 1 meaning(s), 2 sentences
 - `thaipod-0629` : ฝั่ง (bank (of a river), side, shore) : 1 meaning(s), 2 sentences
+- `thaipod-0630` : ฝากความคิดถึง ("send my regards to") : 1 meaning(s), 2 sentences
 - `thaipod-0633` : ฝีมือ (skill, craftsmanship) : 1 meaning(s), 2 sentences
 - `thaipod-0634` : อบรม, ฝึกอบรม (to train, to instruct) : 1 meaning(s), 2 sentences
 - `thaipod-0635` : ฝูง (flock, herd, masses (group of animals or people)) : 1 meaning(s), 2 sentences
+- `thaipod-0638` : ฝ่าไฟแดง (to run a red light) : 1 meaning(s), 2 sentences
 - `thaipod-0639` : พกร่ม (to carry an umbrella) : 1 meaning(s), 2 sentences
 - `thaipod-0642` : พม่า (Burma (Myanmar)) : 1 meaning(s), 2 sentences
 - `thaipod-0643` : พยายาม (to try, to attempt) : 1 meaning(s), 2 sentences
+- `thaipod-0644` : พร (blessing, wish) : 1 meaning(s), 2 sentences
 - `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
+- `thaipod-0648` : พระจันทร์เสี้ยว (crescent moon) : 1 meaning(s), 2 sentences
+- `thaipod-0673` : พระพุทธรูป (Buddha image, Buddha statue) : 1 meaning(s), 2 sentences
+- `thaipod-0675` : พระพุทธเจ้า (the Buddha) : 1 meaning(s), 2 sentences
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
 - `thaipod-0721` : พวก (group, bunch (of people)) : 1 meaning(s), 2 sentences
 - `thaipod-0722` : พอง (swollen, inflated, puffed up) : 1 meaning(s), 2 sentences
