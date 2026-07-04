@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4753 words**
+**Total: 4763 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2000,14 +2000,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-582` : ว่านหางจระเข้ (aloe vera plant) : 1 meaning(s), 2 sentences
 - `tsl-583` : สกุล (family, lineage; genus (plants/animals)) : 2 meaning(s), 4 sentences
 - `tsl-584` : ความทนทาน, ความคงทน (durability) : 1 meaning(s), 2 sentences
+- `tsl-586` : สูญพันธุ์ (to become extinct, to die out (e.g species)) : 1 meaning(s), 2 sentences
 - `tsl-587` : ตัก (lap (sit on someone's lap); to scoop) : 2 meaning(s), 4 sentences
 - `tsl-588` : ผ้าขี้ริ้ว (rag, cleaning cloth) : 1 meaning(s), 2 sentences
+- `tsl-589` : แทนกัน (to replace each other, interchangeably) : 1 meaning(s), 2 sentences
 - `tsl-594` : หนาแน่น (crowded, densely populated) : 1 meaning(s), 2 sentences
+- `tsl-598` : เศรษฐกิจตกต่ำ (economic downturn, recession) : 1 meaning(s), 2 sentences
 - `tsl-600` : จำแนก (to classify, to categorize) : 1 meaning(s), 2 sentences
 - `tsl-601` : แผนภูมิ (chart, diagram) : 1 meaning(s), 2 sentences
 - `tsl-603` : พลศึกษา (physical education (P.E, at school), gymnastics) : 1 meaning(s), 2 sentences
+- `tsl-604` : พืชผล (crops, agricultural produce) : 1 meaning(s), 2 sentences
 - `tsl-607` : โค่น (to make something large fall (e.g a tree, a government), to topple, to bring down) : 1 meaning(s), 2 sentences
 - `tsl-608` : ปลิว (to blow away, to fly off (wind)) : 1 meaning(s), 2 sentences
+- `tsl-609` : โสม (ginseng) : 1 meaning(s), 2 sentences
+- `tsl-610` : หัตถกรรม (handicraft) : 1 meaning(s), 2 sentences
 - `tsl-612` : ว่างเว้น (to take a break from, to abstain, to pause) : 1 meaning(s), 2 sentences
 - `tsl-615` : พลัด (to be separated; to fall, to slip) : 2 meaning(s), 4 sentences
 - `tsl-616` : เบ็ด (fishing hook) : 1 meaning(s), 2 sentences
@@ -2016,8 +2022,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-619` : ชดใช้ (to pay back, to make amends (for damage, wrongdoing)) : 1 meaning(s), 2 sentences
 - `tsl-619b` : ชดเชย (to compensate, to make up for, to offset) : 1 meaning(s), 2 sentences
 - `tsl-621` : ป่อง (bloated, swollen) : 1 meaning(s), 2 sentences
+- `tsl-621b` : แมงป่อง (scorpion) : 1 meaning(s), 2 sentences
+- `tsl-623` : เละ (mushy, pulpy (food); ruined, messy, messed up) : 2 meaning(s), 4 sentences
 - `tsl-624` : แหว่ง (chipped, dented, missing a piece (broken objects, teeth)) : 1 meaning(s), 2 sentences
 - `tsl-625` : บิ่น (chipped, nicked (small piece broken off from an edge)) : 1 meaning(s), 2 sentences
+- `tsl-626` : สำลัก (to choke on food (from swallowing wrong)) : 1 meaning(s), 2 sentences
+- `tsl-634` : ปลาดุก (catfish) : 1 meaning(s), 2 sentences
 - `tsl-635` : เกื้อกูล (to support, to help out, to be mutually beneficial) : 1 meaning(s), 2 sentences
 - `tsl-636` : ชมเชย (to praise, to compliment) : 1 meaning(s), 2 sentences
 - `tsl-639` : คูคลอง (canals, waterways) : 1 meaning(s), 2 sentences

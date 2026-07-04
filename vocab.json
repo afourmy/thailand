@@ -75986,6 +75986,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to become extinct, to die out (e.g species)",
+        "sentences": [
+          {
+            "thai": "ไดโนเสาร์สูญพันธุ์ไปนานแล้ว",
+            "en": "Dinosaurs went extinct long ago.",
+            "audio_src": "ไดโนเสาร์สูญพันธุ์ไปนานแล้ว",
+            "audio_en_src": "Dinosaurs went extinct long ago."
+          },
+          {
+            "thai": "สัตว์หลายชนิดเสี่ยงต่อการสูญพันธุ์",
+            "en": "Many animal species are at risk of extinction.",
+            "audio_src": "สัตว์หลายชนิดเสี่ยงต่อการสูญพันธุ์",
+            "audio_en_src": "Many animal species are at risk of extinction."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76079,6 +76098,25 @@
     "topic": "grammar",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to replace each other, interchangeably",
+        "sentences": [
+          {
+            "thai": "คำสองคำนี้ใช้แทนกันได้",
+            "en": "These two words can be used interchangeably.",
+            "audio_src": "คำสองคำนี้ใช้แทนกันได้",
+            "audio_en_src": "These two words can be used interchangeably."
+          },
+          {
+            "thai": "เราสองคนทำงานแทนกันได้",
+            "en": "The two of us can cover for each other.",
+            "audio_src": "เราสองคนทำงานแทนกันได้",
+            "audio_en_src": "The two of us can cover for each other."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76182,6 +76220,25 @@
     "topic": "economy",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "economic downturn, recession",
+        "sentences": [
+          {
+            "thai": "ช่วงเศรษฐกิจตกต่ำคนตกงานเยอะ",
+            "en": "During a recession a lot of people lose their jobs.",
+            "audio_src": "ช่วงเศรษฐกิจตกต่ำคนตกงานเยอะ",
+            "audio_en_src": "During a recession a lot of people lose their jobs."
+          },
+          {
+            "thai": "ร้านเจ๊งเพราะเศรษฐกิจตกต่ำ",
+            "en": "The shop went under because of the economic downturn.",
+            "audio_src": "ร้านเจ๊งเพราะเศรษฐกิจตกต่ำ",
+            "audio_en_src": "The shop went under because of the economic downturn."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76296,6 +76353,25 @@
     "topic": "nature",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "crops, agricultural produce",
+        "sentences": [
+          {
+            "thai": "ปีนี้พืชผลเสียหายเพราะน้ำท่วม",
+            "en": "This year the crops were damaged by flooding.",
+            "audio_src": "ปีนี้พืชผลเสียหายเพราะน้ำท่วม",
+            "audio_en_src": "This year the crops were damaged by flooding."
+          },
+          {
+            "thai": "เกษตรกรขายพืชผลได้ราคาดี",
+            "en": "The farmers got a good price for their produce.",
+            "audio_src": "เกษตรกรขายพืชผลได้ราคาดี",
+            "audio_en_src": "The farmers got a good price for their produce."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76391,6 +76467,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "ginseng",
+        "sentences": [
+          {
+            "thai": "ชาวเกาหลีนิยมกินโสม",
+            "en": "Koreans commonly eat ginseng.",
+            "audio_src": "ชาวเกาหลีนิยมกินโสม",
+            "audio_en_src": "Koreans commonly eat ginseng."
+          },
+          {
+            "thai": "โสมช่วยบำรุงร่างกาย",
+            "en": "Ginseng helps nourish the body.",
+            "audio_src": "โสมช่วยบำรุงร่างกาย",
+            "audio_en_src": "Ginseng helps nourish the body."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76402,6 +76497,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "handicraft",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านนี้มีชื่อเรื่องงานหัตถกรรม",
+            "en": "This village is famous for its handicrafts.",
+            "audio_src": "หมู่บ้านนี้มีชื่อเรื่องงานหัตถกรรม",
+            "audio_en_src": "This village is famous for its handicrafts."
+          },
+          {
+            "thai": "เธอซื้อของหัตถกรรมเป็นของฝาก",
+            "en": "She bought some handicrafts as souvenirs.",
+            "audio_src": "เธอซื้อของหัตถกรรมเป็นของฝาก",
+            "audio_en_src": "She bought some handicrafts as souvenirs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76721,6 +76835,25 @@
     "topic": "nature",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "scorpion",
+        "sentences": [
+          {
+            "thai": "แมงป่องมีพิษอยู่ที่หาง",
+            "en": "Scorpions have venom in their tails.",
+            "audio_src": "แมงป่องมีพิษอยู่ที่หาง",
+            "audio_en_src": "Scorpions have venom in their tails."
+          },
+          {
+            "thai": "ระวังแมงป่องต่อยเวลาเดินป่า",
+            "en": "Watch out for scorpion stings when you're hiking.",
+            "audio_src": "ระวังแมงป่องต่อยเวลาเดินป่า",
+            "audio_en_src": "Watch out for scorpion stings when you're hiking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76731,6 +76864,42 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "mushy, pulpy (food)",
+        "sentences": [
+          {
+            "thai": "ต้มข้าวนานไปข้าวเลยเละ",
+            "en": "I boiled the rice too long, so it turned mushy.",
+            "audio_src": "ต้มข้าวนานไปข้าวเลยเละ",
+            "audio_en_src": "I boiled the rice too long, so it turned mushy."
+          },
+          {
+            "thai": "กล้วยสุกงอมจนเละ",
+            "en": "The banana was overripe and mushy.",
+            "audio_src": "กล้วยสุกงอมจนเละ",
+            "audio_en_src": "The banana was overripe and mushy."
+          }
+        ]
+      },
+      {
+        "meaning": "ruined, messy, messed up",
+        "sentences": [
+          {
+            "thai": "ห้องรกเละไปหมด",
+            "en": "The room is a total mess.",
+            "audio_src": "ห้องรกเละไปหมด",
+            "audio_en_src": "The room is a total mess."
+          },
+          {
+            "thai": "งานเละไม่เป็นท่าเพราะไม่มีการวางแผน",
+            "en": "The project fell apart into a mess because there was no planning.",
+            "audio_src": "งานเละไม่เป็นท่าเพราะไม่มีการวางแผน",
+            "audio_en_src": "The project fell apart into a mess because there was no planning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76804,6 +76973,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to choke on food (from swallowing wrong)",
+        "sentences": [
+          {
+            "thai": "เขากินเร็วไปเลยสำลัก",
+            "en": "He ate too fast and choked.",
+            "audio_src": "เขากินเร็วไปเลยสำลัก",
+            "audio_en_src": "He ate too fast and choked."
+          },
+          {
+            "thai": "ระวังเด็กสำลักอาหาร",
+            "en": "Be careful the child doesn't choke on the food.",
+            "audio_src": "ระวังเด็กสำลักอาหาร",
+            "audio_en_src": "Be careful the child doesn't choke on the food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76864,6 +77052,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "catfish",
+        "sentences": [
+          {
+            "thai": "ปลาดุกย่างอร่อยมาก",
+            "en": "Grilled catfish is really tasty.",
+            "audio_src": "ปลาดุกย่างอร่อยมาก",
+            "audio_en_src": "Grilled catfish is really tasty."
+          },
+          {
+            "thai": "เขาเลี้ยงปลาดุกไว้ในบ่อ",
+            "en": "He raises catfish in a pond.",
+            "audio_src": "เขาเลี้ยงปลาดุกไว้ในบ่อ",
+            "audio_en_src": "He raises catfish in a pond."
+          }
+        ]
+      }
     ]
   },
   {
