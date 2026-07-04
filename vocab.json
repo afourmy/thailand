@@ -108290,6 +108290,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "rabbit",
+        "sentences": [
+          {
+            "thai": "กระต่ายชอบกินแครอท",
+            "en": "Rabbits love eating carrots.",
+            "audio_src": "กระต่ายชอบกินแครอท",
+            "audio_en_src": "Rabbits love eating carrots."
+          },
+          {
+            "thai": "เด็กๆเลี้ยงกระต่ายไว้เป็นสัตว์เลี้ยง",
+            "en": "The kids keep a rabbit as a pet.",
+            "audio_src": "เด็กๆเลี้ยงกระต่ายไว้เป็นสัตว์เลี้ยง",
+            "audio_en_src": "The kids keep a rabbit as a pet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108300,6 +108319,25 @@
     "topic": "beliefs",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "ordained person, monastic person, monk",
+        "sentences": [
+          {
+            "thai": "นักบวชใช้ชีวิตเรียบง่าย",
+            "en": "Monastics live simple lives.",
+            "audio_src": "นักบวชใช้ชีวิตเรียบง่าย",
+            "audio_en_src": "Monastics live simple lives."
+          },
+          {
+            "thai": "เขาตัดสินใจบวชเป็นนักบวช",
+            "en": "He decided to be ordained as a monk.",
+            "audio_src": "เขาตัดสินใจบวชเป็นนักบวช",
+            "audio_en_src": "He decided to be ordained as a monk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108412,6 +108450,25 @@
     "sources": [
       "Tobo Deck",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sidewalk, footpath",
+        "sentences": [
+          {
+            "thai": "คนเดินอยู่บนทางเท้า",
+            "en": "People are walking on the sidewalk.",
+            "audio_src": "คนเดินอยู่บนทางเท้า",
+            "audio_en_src": "People are walking on the sidewalk."
+          },
+          {
+            "thai": "ทางเดินเท้าถูกรถจอดขวาง",
+            "en": "The footpath is blocked by parked cars.",
+            "audio_src": "ทางเดินเท้าถูกรถจอดขวาง",
+            "audio_en_src": "The footpath is blocked by parked cars."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108467,6 +108524,25 @@
     "topic": "nature",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "snail",
+        "sentences": [
+          {
+            "thai": "หอยทากคลานช้ามาก",
+            "en": "Snails crawl very slowly.",
+            "audio_src": "หอยทากคลานช้ามาก",
+            "audio_en_src": "Snails crawl very slowly."
+          },
+          {
+            "thai": "ในสวนมีหอยทากเยอะหลังฝนตก",
+            "en": "There are lots of snails in the garden after it rains.",
+            "audio_src": "ในสวนมีหอยทากเยอะหลังฝนตก",
+            "audio_en_src": "There are lots of snails in the garden after it rains."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108478,6 +108554,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "dessert, sweets",
+        "sentences": [
+          {
+            "thai": "กินข้าวเสร็จแล้วมีของหวานด้วย",
+            "en": "After the meal there's dessert too.",
+            "audio_src": "กินข้าวเสร็จแล้วมีของหวานด้วย",
+            "audio_en_src": "After the meal there's dessert too."
+          },
+          {
+            "thai": "เธอชอบกินของหวานมาก",
+            "en": "She really loves sweets.",
+            "audio_src": "เธอชอบกินของหวานมาก",
+            "audio_en_src": "She really loves sweets."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108711,6 +108806,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "toe",
+        "sentences": [
+          {
+            "thai": "เขาเตะโต๊ะจนนิ้วเท้าเจ็บ",
+            "en": "He stubbed his toe on the table.",
+            "audio_src": "เขาเตะโต๊ะจนนิ้วเท้าเจ็บ",
+            "audio_en_src": "He stubbed his toe on the table."
+          },
+          {
+            "thai": "นิ้วเท้าของฉันชาเพราะรองเท้าคับ",
+            "en": "My toes are numb because my shoes are too tight.",
+            "audio_src": "นิ้วเท้าของฉันชาเพราะรองเท้าคับ",
+            "audio_en_src": "My toes are numb because my shoes are too tight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108888,6 +109002,25 @@
     "sources": [
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "prince",
+        "sentences": [
+          {
+            "thai": "ในนิทานเจ้าชายขี่ม้าขาว",
+            "en": "In the tale the prince rides a white horse.",
+            "audio_src": "ในนิทานเจ้าชายขี่ม้าขาว",
+            "audio_en_src": "In the tale the prince rides a white horse."
+          },
+          {
+            "thai": "เจ้าชายในเรื่องกล้าหาญมาก",
+            "en": "The prince in the story is very brave.",
+            "audio_src": "เจ้าชายในเรื่องกล้าหาญมาก",
+            "audio_en_src": "The prince in the story is very brave."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109072,6 +109205,25 @@
     "topic": "beliefs",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "miracle",
+        "sentences": [
+          {
+            "thai": "เขารอดชีวิตอย่างปาฏิหาริย์",
+            "en": "He survived by a miracle.",
+            "audio_src": "เขารอดชีวิตอย่างปาฏิหาริย์",
+            "audio_en_src": "He survived by a miracle."
+          },
+          {
+            "thai": "หลายคนเชื่อในปาฏิหาริย์",
+            "en": "Many people believe in miracles.",
+            "audio_src": "หลายคนเชื่อในปาฏิหาริย์",
+            "audio_en_src": "Many people believe in miracles."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109126,6 +109278,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "prison, jail",
+        "sentences": [
+          {
+            "thai": "เขาถูกส่งเข้าคุกสิบปี",
+            "en": "He was sent to prison for ten years.",
+            "audio_src": "เขาถูกส่งเข้าคุกสิบปี",
+            "audio_en_src": "He was sent to prison for ten years."
+          },
+          {
+            "thai": "ในคุกมีนักโทษหลายร้อยคน",
+            "en": "There are hundreds of prisoners in the jail.",
+            "audio_src": "ในคุกมีนักโทษหลายร้อยคน",
+            "audio_en_src": "There are hundreds of prisoners in the jail."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109269,6 +109440,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "desert",
+        "sentences": [
+          {
+            "thai": "อูฐเดินทางข้ามทะเลทราย",
+            "en": "Camels travel across the desert.",
+            "audio_src": "อูฐเดินทางข้ามทะเลทราย",
+            "audio_en_src": "Camels travel across the desert."
+          },
+          {
+            "thai": "ทะเลทรายกลางวันร้อนกลางคืนหนาว",
+            "en": "The desert is hot by day and cold at night.",
+            "audio_src": "ทะเลทรายกลางวันร้อนกลางคืนหนาว",
+            "audio_en_src": "The desert is hot by day and cold at night."
+          }
+        ]
+      }
     ]
   },
   {

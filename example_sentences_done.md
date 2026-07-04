@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4993 words**
+**Total: 5003 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2815,31 +2815,41 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-170` : จักรยาน (bicycle) : 1 meaning(s), 2 sentences
 - `tobo-171` : หมู (pig; pork) : 2 meaning(s), 4 sentences
 - `tobo-172` : ชิม (to taste, to sample) : 1 meaning(s), 2 sentences
+- `tobo-174` : กระต่าย (rabbit) : 1 meaning(s), 2 sentences
+- `tobo-175` : นักบวช (ordained person, monastic person, monk) : 1 meaning(s), 2 sentences
 - `tobo-176` : ร่ม (umbrella) : 1 meaning(s), 2 sentences
 - `tobo-177` : ชั้นวาง (shelf) : 1 meaning(s), 2 sentences
 - `tobo-178` : ของเล่น (toy) : 1 meaning(s), 2 sentences
+- `tobo-179` : ทางเท้า, ทางเดินเท้า (sidewalk, footpath) : 1 meaning(s), 2 sentences
 - `tobo-180` : หมอน (pillow) : 1 meaning(s), 2 sentences
+- `tobo-182` : หอยทาก (snail) : 1 meaning(s), 2 sentences
+- `tobo-183` : ของหวาน (dessert, sweets) : 1 meaning(s), 2 sentences
 - `tobo-184` : คุณภาพ (quality) : 1 meaning(s), 2 sentences
 - `tobo-185` : ดึง (to pull) : 1 meaning(s), 2 sentences
 - `tobo-187` : ความสำเร็จ (success) : 1 meaning(s), 2 sentences
 - `tobo-189` : มะพร้าว (coconut) : 1 meaning(s), 2 sentences
 - `tobo-191` : ผลลัพธ์ (result, outcome) : 1 meaning(s), 2 sentences
 - `tobo-192` : พนักงาน (employee, staff) : 1 meaning(s), 2 sentences
+- `tobo-193` : นิ้วเท้า (toe) : 1 meaning(s), 2 sentences
 - `tobo-194` : โยน (to throw) : 1 meaning(s), 2 sentences
 - `tobo-195` : โรงรถ (garage) : 1 meaning(s), 2 sentences
 - `tobo-196` : แปรงสีฟัน (toothbrush) : 1 meaning(s), 2 sentences
 - `tobo-197` : ถุงเท้า (sock) : 1 meaning(s), 2 sentences
 - `tobo-198` : ดินสอ (pencil) : 1 meaning(s), 2 sentences
+- `tobo-199` : เจ้าชาย (prince) : 1 meaning(s), 2 sentences
 - `tobo-201` : มันฝรั่ง (potato) : 1 meaning(s), 2 sentences
 - `tobo-202` : หน้ากาก (mask) : 1 meaning(s), 2 sentences
 - `tobo-204` : ตู้ปลา (aquarium, fish tank) : 1 meaning(s), 2 sentences
 - `tobo-206` : สีชมพู (pink) : 1 meaning(s), 2 sentences
 - `tobo-208` : เลีย (to lick) : 1 meaning(s), 2 sentences
+- `tobo-209` : ปาฏิหาริย์ (miracle) : 1 meaning(s), 2 sentences
 - `tobo-211` : สี่เหลี่ยมผืนผ้า (rectangle) : 1 meaning(s), 2 sentences
+- `tobo-212` : คุก (prison, jail) : 1 meaning(s), 2 sentences
 - `tobo-213` : ผู้นำ (leader) : 1 meaning(s), 2 sentences
 - `tobo-214` : อารมณ์ (emotion, mood) : 1 meaning(s), 2 sentences
 - `tobo-215` : ยิง (to shoot) : 1 meaning(s), 2 sentences
 - `tobo-216` : มนุษย์ต่างดาว (alien (extraterrestrial)) : 1 meaning(s), 2 sentences
+- `tobo-217` : ทะเลทราย (desert) : 1 meaning(s), 2 sentences
 - `tobo-218` : บทเรียน (lesson) : 1 meaning(s), 2 sentences
 - `tobo-219` : ความเสี่ยง (risk) : 1 meaning(s), 2 sentences
 - `tobo-220` : ฝันร้าย (nightmare) : 1 meaning(s), 2 sentences
