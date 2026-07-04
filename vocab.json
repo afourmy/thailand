@@ -45758,6 +45758,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "reluctantly, to do something against one's will",
+        "sentences": [
+          {
+            "thai": "เขาจำใจต้องขายบ้าน",
+            "en": "He reluctantly had to sell the house.",
+            "audio_src": "เขาจำใจต้องขายบ้าน",
+            "audio_en_src": "He reluctantly had to sell the house."
+          },
+          {
+            "thai": "ฉันจำใจไปงานทั้งที่ไม่อยากไป",
+            "en": "I went to the event reluctantly even though I didn't want to.",
+            "audio_src": "ฉันจำใจไปงานทั้งที่ไม่อยากไป",
+            "audio_en_src": "I went to the event reluctantly even though I didn't want to."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45810,6 +45829,25 @@
     "sources": [
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "no way, never",
+        "sentences": [
+          {
+            "thai": "ฉันไม่มีวันลืมเธอ",
+            "en": "I'll never forget you.",
+            "audio_src": "ฉันไม่มีวันลืมเธอ",
+            "audio_en_src": "I'll never forget you."
+          },
+          {
+            "thai": "เขาไม่มีวันยอมแพ้",
+            "en": "He'll never give up.",
+            "audio_src": "เขาไม่มีวันยอมแพ้",
+            "audio_en_src": "He'll never give up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45885,6 +45923,25 @@
     "topic": "law",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to commit terrorism",
+        "sentences": [
+          {
+            "thai": "กลุ่มก่อการร้ายวางระเบิดในเมือง",
+            "en": "The terrorist group planted a bomb in the city.",
+            "audio_src": "กลุ่มก่อการร้ายวางระเบิดในเมือง",
+            "audio_en_src": "The terrorist group planted a bomb in the city."
+          },
+          {
+            "thai": "ตำรวจจับผู้ก่อการร้ายได้แล้ว",
+            "en": "Police have caught the terrorists.",
+            "audio_src": "ตำรวจจับผู้ก่อการร้ายได้แล้ว",
+            "audio_en_src": "Police have caught the terrorists."
+          }
+        ]
+      }
     ]
   },
   {
@@ -45915,6 +45972,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be sarcastic, to speak ironically, mockingly",
+        "sentences": [
+          {
+            "thai": "เขาชอบพูดประชดคนอื่น",
+            "en": "He likes making sarcastic remarks at others.",
+            "audio_src": "เขาชอบพูดประชดคนอื่น",
+            "audio_en_src": "He likes making sarcastic remarks at others."
+          },
+          {
+            "thai": "อย่ามาประชดฉันนะ",
+            "en": "Don't be sarcastic with me.",
+            "audio_src": "อย่ามาประชดฉันนะ",
+            "audio_en_src": "Don't be sarcastic with me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46109,6 +46185,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "step by step, slowly but surely",
+        "sentences": [
+          {
+            "thai": "เรียนภาษาต้องค่อยเป็นค่อยไป",
+            "en": "Learning a language takes time, step by step.",
+            "audio_src": "เรียนภาษาต้องค่อยเป็นค่อยไป",
+            "audio_en_src": "Learning a language takes time, step by step."
+          },
+          {
+            "thai": "ไม่ต้องรีบ ค่อยเป็นค่อยไป",
+            "en": "No rush, slowly but surely.",
+            "audio_src": "ไม่ต้องรีบ ค่อยเป็นค่อยไป",
+            "audio_en_src": "No rush, slowly but surely."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46129,6 +46224,25 @@
     "topic": "transport",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to miss a flight",
+        "sentences": [
+          {
+            "thai": "รีบหน่อยเดี๋ยวตกเครื่อง",
+            "en": "Hurry up or we'll miss the flight.",
+            "audio_src": "รีบหน่อยเดี๋ยวตกเครื่อง",
+            "audio_en_src": "Hurry up or we'll miss the flight."
+          },
+          {
+            "thai": "เขาไปสนามบินสาย เลยตกเครื่อง",
+            "en": "He got to the airport late, so he missed his flight.",
+            "audio_src": "เขาไปสนามบินสาย เลยตกเครื่อง",
+            "audio_en_src": "He got to the airport late, so he missed his flight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46139,6 +46253,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "workaholic",
+        "sentences": [
+          {
+            "thai": "เจ้านายฉันเป็นคนบ้างาน",
+            "en": "My boss is a workaholic.",
+            "audio_src": "เจ้านายฉันเป็นคนบ้างาน",
+            "audio_en_src": "My boss is a workaholic."
+          },
+          {
+            "thai": "เขาบ้างานจนไม่มีเวลาพักผ่อน",
+            "en": "He's such a workaholic he has no time to rest.",
+            "audio_src": "เขาบ้างานจนไม่มีเวลาพักผ่อน",
+            "audio_en_src": "He's such a workaholic he has no time to rest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46149,6 +46282,25 @@
     "topic": "emotions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "eagerly focused, fully attentive",
+        "sentences": [
+          {
+            "thai": "เด็กๆนั่งฟังนิทานอย่างใจจดใจจ่อ",
+            "en": "The kids sat listening to the story, fully attentive.",
+            "audio_src": "เด็กๆนั่งฟังนิทานอย่างใจจดใจจ่อ",
+            "audio_en_src": "The kids sat listening to the story, fully attentive."
+          },
+          {
+            "thai": "ฉันใจจดใจจ่อรอผลสอบ",
+            "en": "I'm anxiously waiting for the exam results.",
+            "audio_src": "ฉันใจจดใจจ่อรอผลสอบ",
+            "audio_en_src": "I'm anxiously waiting for the exam results."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46223,6 +46375,25 @@
     "topic": "transport",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "return trip, the way back",
+        "sentences": [
+          {
+            "thai": "ขาไปรถโล่ง ขากลับรถติด",
+            "en": "The way there was clear, the way back was jammed.",
+            "audio_src": "ขาไปรถโล่ง ขากลับรถติด",
+            "audio_en_src": "The way there was clear, the way back was jammed."
+          },
+          {
+            "thai": "ขากลับเราแวะซื้อของฝาก",
+            "en": "On the way back, we stopped to buy souvenirs.",
+            "audio_src": "ขากลับเราแวะซื้อของฝาก",
+            "audio_en_src": "On the way back, we stopped to buy souvenirs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46233,6 +46404,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"of course!\", \"for sure!\"",
+        "sentences": [
+          {
+            "thai": "ไปเที่ยวทะเลกัน งานนี้มันแน่",
+            "en": "Let's go to the beach, this is gonna be awesome for sure.",
+            "audio_src": "ไปเที่ยวทะเลกัน งานนี้มันแน่",
+            "audio_en_src": "Let's go to the beach, this is gonna be awesome for sure."
+          },
+          {
+            "thai": "คอนเสิร์ตวงนี้มันแน่",
+            "en": "This band's concert is gonna be a blast for sure.",
+            "audio_src": "คอนเสิร์ตวงนี้มันแน่",
+            "audio_en_src": "This band's concert is gonna be a blast for sure."
+          }
+        ]
+      }
     ]
   },
   {
