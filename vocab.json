@@ -57619,6 +57619,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "at the same time, in the process",
+        "sentences": [
+          {
+            "thai": "เดินเล่นได้ออกกำลังกายไปในตัว",
+            "en": "Taking a walk, you get exercise at the same time.",
+            "audio_src": "เดินเล่นได้ออกกำลังกายไปในตัว",
+            "audio_en_src": "Taking a walk, you get exercise at the same time."
+          },
+          {
+            "thai": "สอนน้องทำการบ้าน ได้ทบทวนไปในตัว",
+            "en": "Teaching my sibling the homework, I review it in the process too.",
+            "audio_src": "สอนน้องทำการบ้าน ได้ทบทวนไปในตัว",
+            "audio_en_src": "Teaching my sibling the homework, I review it in the process too."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57629,6 +57648,25 @@
     "topic": "health",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "exhausted, fatigued",
+        "sentences": [
+          {
+            "thai": "ทำงานทั้งวันจนล้า",
+            "en": "I worked all day and got exhausted.",
+            "audio_src": "ทำงานทั้งวันจนล้า",
+            "audio_en_src": "I worked all day and got exhausted."
+          },
+          {
+            "thai": "ขาล้าเพราะเดินเยอะ",
+            "en": "My legs are tired from walking a lot.",
+            "audio_src": "ขาล้าเพราะเดินเยอะ",
+            "audio_en_src": "My legs are tired from walking a lot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57691,6 +57729,25 @@
     "sources": [
       "Tamago L3",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "mortar (for grinding food)",
+        "sentences": [
+          {
+            "thai": "ตำน้ำพริกในครก",
+            "en": "Pound the chili paste in the mortar.",
+            "audio_src": "ตำน้ำพริกในครก",
+            "audio_en_src": "Pound the chili paste in the mortar."
+          },
+          {
+            "thai": "ครกหินหนักมาก",
+            "en": "The stone mortar is very heavy.",
+            "audio_src": "ครกหินหนักมาก",
+            "audio_en_src": "The stone mortar is very heavy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57702,6 +57759,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "pestle",
+        "sentences": [
+          {
+            "thai": "ใช้สากตำกระเทียม",
+            "en": "Use the pestle to pound the garlic.",
+            "audio_src": "ใช้สากตำกระเทียม",
+            "audio_en_src": "Use the pestle to pound the garlic."
+          },
+          {
+            "thai": "สากกับครกเป็นของคู่กัน",
+            "en": "The pestle and mortar go together.",
+            "audio_src": "สากกับครกเป็นของคู่กัน",
+            "audio_en_src": "The pestle and mortar go together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57746,6 +57822,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "unless, except if",
+        "sentences": [
+          {
+            "thai": "ฉันจะไม่ไป นอกเสียจากว่าเธอไปด้วย",
+            "en": "I won't go, unless you go too.",
+            "audio_src": "ฉันจะไม่ไป นอกเสียจากว่าเธอไปด้วย",
+            "audio_en_src": "I won't go, unless you go too."
+          },
+          {
+            "thai": "เขาไม่ยอมกิน นอกเสียจากว่าเป็นของโปรด",
+            "en": "He won't eat, except if it's his favorite.",
+            "audio_src": "เขาไม่ยอมกิน นอกเสียจากว่าเป็นของโปรด",
+            "audio_en_src": "He won't eat, except if it's his favorite."
+          }
+        ]
+      }
     ]
   },
   {
@@ -57921,6 +58016,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to hold a grudge, to resent",
+        "sentences": [
+          {
+            "thai": "เขาแค้นที่ถูกหักหลัง",
+            "en": "He resents being betrayed.",
+            "audio_src": "เขาแค้นที่ถูกหักหลัง",
+            "audio_en_src": "He resents being betrayed."
+          },
+          {
+            "thai": "อย่าเก็บความแค้นไว้เลย",
+            "en": "Don't hold on to the grudge.",
+            "audio_src": "อย่าเก็บความแค้นไว้เลย",
+            "audio_en_src": "Don't hold on to the grudge."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58047,6 +58161,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "surprised, astonished",
+        "sentences": [
+          {
+            "thai": "ฉันประหลาดใจที่เห็นเขาที่นี่",
+            "en": "I was surprised to see him here.",
+            "audio_src": "ฉันประหลาดใจที่เห็นเขาที่นี่",
+            "audio_en_src": "I was surprised to see him here."
+          },
+          {
+            "thai": "ทุกคนประหลาดใจกับข่าวนี้",
+            "en": "Everyone was astonished by the news.",
+            "audio_src": "ทุกคนประหลาดใจกับข่าวนี้",
+            "audio_en_src": "Everyone was astonished by the news."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58154,6 +58287,42 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "capital, funds",
+        "sentences": [
+          {
+            "thai": "เขาไม่มีทุนเปิดร้าน",
+            "en": "He doesn't have the capital to open a shop.",
+            "audio_src": "เขาไม่มีทุนเปิดร้าน",
+            "audio_en_src": "He doesn't have the capital to open a shop."
+          },
+          {
+            "thai": "ต้องหาทุนมาลงทุนก่อน",
+            "en": "You need to find funds to invest first.",
+            "audio_src": "ต้องหาทุนมาลงทุนก่อน",
+            "audio_en_src": "You need to find funds to invest first."
+          }
+        ]
+      },
+      {
+        "meaning": "scholarship",
+        "sentences": [
+          {
+            "thai": "เธอได้ทุนไปเรียนต่างประเทศ",
+            "en": "She got a scholarship to study abroad.",
+            "audio_src": "เธอได้ทุนไปเรียนต่างประเทศ",
+            "audio_en_src": "She got a scholarship to study abroad."
+          },
+          {
+            "thai": "เขาสอบชิงทุนได้",
+            "en": "He won a scholarship.",
+            "audio_src": "เขาสอบชิงทุนได้",
+            "audio_en_src": "He won a scholarship."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58246,6 +58415,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to leave (it) as is, to leave alone",
+        "sentences": [
+          {
+            "thai": "อย่าปล่อยไว้แบบนี้ รีบซ่อมเถอะ",
+            "en": "Don't just leave it like this, get it fixed.",
+            "audio_src": "อย่าปล่อยไว้แบบนี้ รีบซ่อมเถอะ",
+            "audio_en_src": "Don't just leave it like this, get it fixed."
+          },
+          {
+            "thai": "ปล่อยไว้ก่อน เดี๋ยวค่อยเก็บ",
+            "en": "Leave it for now, I'll clean up later.",
+            "audio_src": "ปล่อยไว้ก่อน เดี๋ยวค่อยเก็บ",
+            "audio_en_src": "Leave it for now, I'll clean up later."
+          }
+        ]
+      }
     ]
   },
   {
@@ -58259,6 +58447,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "even, even to the point of",
+        "sentences": [
+          {
+            "thai": "เขาทำงานหนักกระทั่งลืมกินข้าว",
+            "en": "He works so hard he even forgets to eat.",
+            "audio_src": "เขาทำงานหนักกระทั่งลืมกินข้าว",
+            "audio_en_src": "He works so hard he even forgets to eat."
+          },
+          {
+            "thai": "ยากกระทั่งผู้เชี่ยวชาญยังทำไม่ได้",
+            "en": "It's so hard that even experts can't do it.",
+            "audio_src": "ยากกระทั่งผู้เชี่ยวชาญยังทำไม่ได้",
+            "audio_en_src": "It's so hard that even experts can't do it."
+          }
+        ]
+      }
     ]
   },
   {

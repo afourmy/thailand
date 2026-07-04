@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4553 words**
+**Total: 4563 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1510,19 +1510,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-677` : สามัคคี (unity, to work together) : 1 meaning(s), 2 sentences
 - `tamago-l3-678` : เคร่งครัด (strict, rigorous) : 1 meaning(s), 2 sentences
 - `tamago-l3-679` : หูตึง (hard of hearing, partially deaf) : 1 meaning(s), 2 sentences
+- `tamago-l3-682` : ไปในตัว (at the same time, in the process) : 1 meaning(s), 2 sentences
+- `tamago-l3-683` : ล้า (exhausted, fatigued) : 1 meaning(s), 2 sentences
 - `tamago-l3-685` : ตู้เซฟ (safe, safety box) : 1 meaning(s), 2 sentences
+- `tamago-l3-688` : ครก (mortar (for grinding food)) : 1 meaning(s), 2 sentences
+- `tamago-l3-689` : สาก (pestle) : 1 meaning(s), 2 sentences
 - `tamago-l3-690` : สืบ (to investigate, to inquire into) : 1 meaning(s), 2 sentences
+- `tamago-l3-691` : นอกเสียจากว่า... (unless, except if) : 1 meaning(s), 2 sentences
 - `tamago-l3-693` : ส่องกระจก (to look at oneself in the mirror) : 1 meaning(s), 2 sentences
 - `tamago-l3-696` : น่าขำ (funny, laughable) : 1 meaning(s), 2 sentences
 - `tamago-l3-697` : เบาะแส (clue, lead) : 1 meaning(s), 2 sentences
 - `tamago-l3-699` : บอบบาง (fragile, frail) : 1 meaning(s), 2 sentences
+- `tamago-l3-700` : แค้น (to hold a grudge, to resent) : 1 meaning(s), 2 sentences
 - `tamago-l3-701` : แก้แค้น (to get revenge) : 1 meaning(s), 2 sentences
 - `tamago-l3-702` : ช่าง (to disregard, to ignore; how (+ adjective) (exclamation, "so + adjective")) : 2 meaning(s), 4 sentences
 - `tamago-l3-703` : ทำเนียน (to act innocent, to act as if nothing happened) : 1 meaning(s), 2 sentences
+- `tamago-l3-704` : ประหลาดใจ (surprised, astonished) : 1 meaning(s), 2 sentences
 - `tamago-l3-705` : ล้างแค้น (to take revenge, to avenge) : 1 meaning(s), 2 sentences
 - `tamago-l3-706` : พิรุธ (suspicious sign, something that raises doubt) : 1 meaning(s), 2 sentences
+- `tamago-l3-710` : ทุน (capital, funds; scholarship) : 2 meaning(s), 4 sentences
 - `tamago-l3-711` : พวงมาลัย (steering wheel; flower garland) : 2 meaning(s), 4 sentences
 - `tamago-l3-712` : เอียง (to incline, to tilt, tilted, slanted) : 1 meaning(s), 2 sentences
+- `tamago-l3-713` : ปล่อยไว้ (to leave (it) as is, to leave alone) : 1 meaning(s), 2 sentences
+- `tamago-l3-714` : กระทั่ง (even, even to the point of) : 1 meaning(s), 2 sentences
 - `tamago-l3-715` : อันตรายถึงชีวิต (life-threatening, deadly) : 1 meaning(s), 2 sentences
 - `tamago-l3-718` : พอรู้ (to have a rough idea, to know roughly) : 1 meaning(s), 2 sentences
 - `tamago-l3-719` : หลอกลวง (to defraud, to scam) : 1 meaning(s), 2 sentences
