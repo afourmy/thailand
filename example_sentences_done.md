@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4903 words**
+**Total: 4913 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2543,23 +2543,33 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1182` : เงียบสงบ (calm, peaceful, tranquil) : 1 meaning(s), 2 sentences
 - `thaipod-1185` : เจรจา (to negotiate, to converse formally) : 1 meaning(s), 2 sentences
 - `thaipod-1186` : เจริญก้าวหน้า (to prosper, to progress, to advance) : 1 meaning(s), 2 sentences
+- `thaipod-1190` : เฉพาะ (specifically, only, particular) : 1 meaning(s), 2 sentences
 - `thaipod-1195` : เชือก (rope) : 1 meaning(s), 2 sentences
+- `thaipod-1196` : เชื่อกันว่า ("it is believed that", "people believe that") : 1 meaning(s), 2 sentences
 - `thaipod-1197` : เชื่อม (to connect, to join, to weld) : 1 meaning(s), 2 sentences
 - `thaipod-1198` : เชื่อมต่อ (to connect, to link up) : 1 meaning(s), 2 sentences
 - `thaipod-1199` : เช็ดตัว (to dry off, to wipe the body) : 1 meaning(s), 2 sentences
+- `thaipod-1200` : เช่นเดียวกับ (just like, similar to) : 1 meaning(s), 2 sentences
 - `thaipod-1203` : เดินเท้า (to walk, to go on foot) : 1 meaning(s), 2 sentences
+- `thaipod-1204` : เดิม (original, former, same as before) : 1 meaning(s), 2 sentences
 - `thaipod-1207` : เตือน (to warn, to remind) : 1 meaning(s), 2 sentences
+- `thaipod-1208` : เต็มไปหมด (all over, full of) : 1 meaning(s), 2 sentences
 - `thaipod-1209` : เถอะ (let's, suggestive particle) : 1 meaning(s), 2 sentences
 - `thaipod-1215` : เทียน (candle) : 1 meaning(s), 2 sentences
+- `thaipod-1216` : เทือกเขา (mountain range) : 1 meaning(s), 2 sentences
 - `thaipod-1217` : เท่ (cool, stylish) : 1 meaning(s), 2 sentences
 - `thaipod-1218` : เท่านั้น (only, just) : 1 meaning(s), 2 sentences
+- `thaipod-1219` : เนื่องจาก (since, due to, because of) : 1 meaning(s), 2 sentences
+- `thaipod-1220` : เนื่องด้วย (due to, because of) : 1 meaning(s), 2 sentences
 - `thaipod-1221` : เนื้อที่ (area, space (especially for land)) : 1 meaning(s), 2 sentences
 - `thaipod-1223` : เบา (light; gently, softly) : 2 meaning(s), 4 sentences
 - `thaipod-1224` : เบื้องล่าง (below, underneath) : 1 meaning(s), 2 sentences
+- `thaipod-1226` : เปรียบเสมือน (to be comparable to, to be like) : 1 meaning(s), 2 sentences
 - `thaipod-1227` : เปิดทาง (to make way, to clear the path) : 1 meaning(s), 2 sentences
 - `thaipod-1228` : เปิดรับสมัคร (open for applications, taking applications) : 1 meaning(s), 2 sentences
 - `thaipod-1229` : เป็นการลับ (in secret, confidentially) : 1 meaning(s), 2 sentences
 - `thaipod-1230` : เป็นชั้นๆ (layered, in layers) : 1 meaning(s), 2 sentences
+- `thaipod-1231` : เป็นต้น (etc., and so on) : 1 meaning(s), 2 sentences
 - `thaipod-1237` : เผา (to burn, to cremate) : 1 meaning(s), 2 sentences
 - `thaipod-1240` : เพลิดเพลิน (to enjoy, to be delighted) : 1 meaning(s), 2 sentences
 - `thaipod-1242` : เพี้ยน (distorted, strange, off; derived from) : 2 meaning(s), 4 sentences

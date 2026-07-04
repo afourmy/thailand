@@ -98500,6 +98500,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "specifically, only, particular",
+        "sentences": [
+          {
+            "thai": "งานนี้เฉพาะสมาชิกเท่านั้นที่เข้าได้",
+            "en": "This event is for members only.",
+            "audio_src": "งานนี้เฉพาะสมาชิกเท่านั้นที่เข้าได้",
+            "audio_en_src": "This event is for members only."
+          },
+          {
+            "thai": "ร้านนี้ขายเฉพาะอาหารมังสวิรัติ",
+            "en": "This shop sells only vegetarian food.",
+            "audio_src": "ร้านนี้ขายเฉพาะอาหารมังสวิรัติ",
+            "audio_en_src": "This shop sells only vegetarian food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98584,6 +98603,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"it is believed that\", \"people believe that\"",
+        "sentences": [
+          {
+            "thai": "เชื่อกันว่าแมวดำนำโชคร้าย",
+            "en": "It's believed that black cats bring bad luck.",
+            "audio_src": "เชื่อกันว่าแมวดำนำโชคร้าย",
+            "audio_en_src": "It's believed that black cats bring bad luck."
+          },
+          {
+            "thai": "เชื่อกันว่าต้นไม้ใหญ่ต้นนี้มีสิ่งศักดิ์สิทธิ์",
+            "en": "People believe this big tree has a sacred spirit.",
+            "audio_src": "เชื่อกันว่าต้นไม้ใหญ่ต้นนี้มีสิ่งศักดิ์สิทธิ์",
+            "audio_en_src": "People believe this big tree has a sacred spirit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98689,6 +98727,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "just like, similar to",
+        "sentences": [
+          {
+            "thai": "เขาชอบอ่านหนังสือเช่นเดียวกับพ่อ",
+            "en": "He loves reading, just like his father.",
+            "audio_src": "เขาชอบอ่านหนังสือเช่นเดียวกับพ่อ",
+            "audio_en_src": "He loves reading, just like his father."
+          },
+          {
+            "thai": "เมืองนี้อากาศร้อนเช่นเดียวกับกรุงเทพ",
+            "en": "This city is hot, similar to Bangkok.",
+            "audio_src": "เมืองนี้อากาศร้อนเช่นเดียวกับกรุงเทพ",
+            "audio_en_src": "This city is hot, similar to Bangkok."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98741,6 +98798,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "original, former, same as before",
+        "sentences": [
+          {
+            "thai": "เขากลับไปทำงานที่เดิม",
+            "en": "He went back to his old job.",
+            "audio_src": "เขากลับไปทำงานที่เดิม",
+            "audio_en_src": "He went back to his old job."
+          },
+          {
+            "thai": "ราคายังเท่าเดิม",
+            "en": "The price is still the same as before.",
+            "audio_src": "ราคายังเท่าเดิม",
+            "audio_en_src": "The price is still the same as before."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98794,6 +98870,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "all over, full of",
+        "sentences": [
+          {
+            "thai": "พื้นเปียกน้ำเต็มไปหมด",
+            "en": "The floor is all wet.",
+            "audio_src": "พื้นเปียกน้ำเต็มไปหมด",
+            "audio_en_src": "The floor is all wet."
+          },
+          {
+            "thai": "บนโต๊ะมีเอกสารเต็มไปหมด",
+            "en": "The desk is covered in documents.",
+            "audio_src": "บนโต๊ะมีเอกสารเต็มไปหมด",
+            "audio_en_src": "The desk is covered in documents."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98914,6 +99009,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mountain range",
+        "sentences": [
+          {
+            "thai": "เทือกเขาหิมาลัยสูงที่สุดในโลก",
+            "en": "The Himalayan mountain range is the tallest in the world.",
+            "audio_src": "เทือกเขาหิมาลัยสูงที่สุดในโลก",
+            "audio_en_src": "The Himalayan mountain range is the tallest in the world."
+          },
+          {
+            "thai": "หมู่บ้านตั้งอยู่เชิงเทือกเขา",
+            "en": "The village sits at the foot of the mountain range.",
+            "audio_src": "หมู่บ้านตั้งอยู่เชิงเทือกเขา",
+            "audio_en_src": "The village sits at the foot of the mountain range."
+          }
+        ]
+      }
     ]
   },
   {
@@ -98995,6 +99109,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "since, due to, because of",
+        "sentences": [
+          {
+            "thai": "เที่ยวบินล่าช้าเนื่องจากสภาพอากาศ",
+            "en": "The flight was delayed due to the weather.",
+            "audio_src": "เที่ยวบินล่าช้าเนื่องจากสภาพอากาศ",
+            "audio_en_src": "The flight was delayed due to the weather."
+          },
+          {
+            "thai": "เนื่องจากฝนตกหนัก โรงเรียนจึงปิด",
+            "en": "Because of heavy rain, the school closed.",
+            "audio_src": "เนื่องจากฝนตกหนัก โรงเรียนจึงปิด",
+            "audio_en_src": "Because of heavy rain, the school closed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99006,6 +99139,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "due to, because of",
+        "sentences": [
+          {
+            "thai": "เนื่องด้วยวันนี้เป็นวันหยุด ธนาคารจึงปิด",
+            "en": "Since today is a holiday, the bank is closed.",
+            "audio_src": "เนื่องด้วยวันนี้เป็นวันหยุด ธนาคารจึงปิด",
+            "audio_en_src": "Since today is a holiday, the bank is closed."
+          },
+          {
+            "thai": "งานเลื่อนออกไปเนื่องด้วยเหตุสุดวิสัย",
+            "en": "The event was postponed due to unforeseen circumstances.",
+            "audio_src": "งานเลื่อนออกไปเนื่องด้วยเหตุสุดวิสัย",
+            "audio_en_src": "The event was postponed due to unforeseen circumstances."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99154,6 +99306,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be comparable to, to be like",
+        "sentences": [
+          {
+            "thai": "ครูเปรียบเสมือนพ่อแม่คนที่สอง",
+            "en": "Teachers are like second parents.",
+            "audio_src": "ครูเปรียบเสมือนพ่อแม่คนที่สอง",
+            "audio_en_src": "Teachers are like second parents."
+          },
+          {
+            "thai": "เวลาเปรียบเสมือนเงินทอง",
+            "en": "Time is like money.",
+            "audio_src": "เวลาเปรียบเสมือนเงินทอง",
+            "audio_en_src": "Time is like money."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99290,6 +99461,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "etc., and so on",
+        "sentences": [
+          {
+            "thai": "ในตลาดมีผลไม้หลายชนิด เช่น มะม่วง กล้วย เป็นต้น",
+            "en": "The market has many fruits, such as mango, banana, and so on.",
+            "audio_src": "ในตลาดมีผลไม้หลายชนิด เช่น มะม่วง กล้วย เป็นต้น",
+            "audio_en_src": "The market has many fruits, such as mango, banana, and so on."
+          },
+          {
+            "thai": "เขาเล่นกีฬาหลายอย่าง เช่น ฟุตบอล ว่ายน้ำ เป็นต้น",
+            "en": "He plays many sports, such as football, swimming, and so on.",
+            "audio_src": "เขาเล่นกีฬาหลายอย่าง เช่น ฟุตบอล ว่ายน้ำ เป็นต้น",
+            "audio_en_src": "He plays many sports, such as football, swimming, and so on."
+          }
+        ]
+      }
     ]
   },
   {
