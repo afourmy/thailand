@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4643 words**
+**Total: 4653 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1700,30 +1700,40 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-057` : โรคกระเพาะ (gastritis, stomach disease) : 1 meaning(s), 2 sentences
 - `tsl-058` : ของกินเล่น (snacks) : 1 meaning(s), 2 sentences
 - `tsl-061` : เอาเปรียบ (to take unfair advantage of, to exploit) : 1 meaning(s), 2 sentences
+- `tsl-062` : สายธรรมะ, สายธรรมะธัมโม (spiritually inclined person, one who follows Buddhist principles closely) : 1 meaning(s), 2 sentences
 - `tsl-064` : สายฝอ (Westerner-culture enthusiast, a "farang lover" (slang)) : 1 meaning(s), 2 sentences
 - `tsl-066` : ลุย (to tackle head-on, to wade through, to go all out) : 1 meaning(s), 2 sentences
 - `tsl-068` : สายมู (person into superstition (horoscope, lucky charms, astrology)) : 1 meaning(s), 2 sentences
 - `tsl-069` : สายเมา (heavy drinker, someone who enjoys getting drunk) : 1 meaning(s), 2 sentences
+- `tsl-071` : แทนที่จะ... แต่กลับ... ("instead of..., ... (something different)") : 1 meaning(s), 2 sentences
 - `tsl-073` : สอบตก (to fail an exam) : 1 meaning(s), 2 sentences
 - `tsl-075` : บ้านนอก (countryside, rural area (spoken)) : 1 meaning(s), 2 sentences
+- `tsl-076` : น้ำหนักขึ้น (to gain weight) : 1 meaning(s), 2 sentences
 - `tsl-077` : เพิกเฉย (to ignore, to disregard, to turn a blind eye to) : 1 meaning(s), 2 sentences
 - `tsl-078` : หนังแอ็คชั่น - หนังบู๊ (action movie - martial arts movie) : 2 meaning(s), 4 sentences
 - `tsl-079` : หนังชีวิต (drama (movie)) : 1 meaning(s), 2 sentences
 - `tsl-082` : หนังรักโรแมนติก (romantic movie) : 1 meaning(s), 2 sentences
 - `tsl-083` : หนังระทึกขวัญ (thriller (movie)) : 1 meaning(s), 2 sentences
+- `tsl-086` : ไม่ว่า... หรือ..., ต่างก็... ("no matter whether... or..., both...") : 1 meaning(s), 2 sentences
 - `tsl-090` : ถูกหวย (to win the lottery) : 1 meaning(s), 2 sentences
 - `tsl-091` : ไปทำงานต่างประเทศ (to go on a business trip abroad) : 1 meaning(s), 2 sentences
 - `tsl-091b` : ไปทำงานต่างจังหวัด (to go on a business trip to another province) : 1 meaning(s), 2 sentences
+- `tsl-092` : ให้ได้ (no matter what, at all costs, "to make sure to do something") : 1 meaning(s), 2 sentences
 - `tsl-093` : มุก, ไข่มุก (pearl) : 1 meaning(s), 2 sentences
 - `tsl-094` : มุข (joke, gag, punchline) : 1 meaning(s), 2 sentences
 - `tsl-096` : เลขนำโชค (lucky number) : 1 meaning(s), 2 sentences
+- `tsl-097` : ฝ่าฝืน (to violate, to disobey, to breach (e.g a law, a rule)) : 1 meaning(s), 2 sentences
 - `tsl-098` : เข็ม (needle; (informal) shot, injection) : 2 meaning(s), 4 sentences
+- `tsl-100` : จู่ๆ (suddenly, all of a sudden) : 1 meaning(s), 2 sentences
 - `tsl-103` : แคะขี้มูก (to pick one's nose) : 1 meaning(s), 2 sentences
+- `tsl-106` : คลั่งไคล้ (crazy about, infatuated with, obsessed with) : 1 meaning(s), 2 sentences
 - `tsl-107` : ทางลาด - ทางลาดชัน (slope (inclined path) - steep slope) : 2 meaning(s), 4 sentences
 - `tsl-108` : แบบทดสอบ (quiz, test, exam) : 1 meaning(s), 2 sentences
 - `tsl-111` : หลอน (haunted, spooky, creepy; to hallucinate) : 2 meaning(s), 4 sentences
 - `tsl-112` : บ่ง, บ่งบอก (to indicate, to reveal) : 1 meaning(s), 2 sentences
 - `tsl-113` : เบื้องลึก (deep inside, innermost (motivation, secret)) : 1 meaning(s), 2 sentences
+- `tsl-114` : ระแวง (suspicious, distrustful) : 1 meaning(s), 2 sentences
+- `tsl-115` : เจ้าระเบียบ (neat freak, perfectionist, strict about order) : 1 meaning(s), 2 sentences
 - `tsl-117` : ซ่อน (to hide, to conceal (e.g something or someone)) : 1 meaning(s), 2 sentences
 - `tsl-119` : เปิดกว้าง (wide open; open-minded) : 2 meaning(s), 4 sentences
 - `tsl-120` : ความไม่เป๊ะ (imperfection, lack of precision) : 1 meaning(s), 2 sentences
