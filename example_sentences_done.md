@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4893 words**
+**Total: 4903 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2500,17 +2500,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1070` : หลัก (principle, main; pillar) : 2 meaning(s), 4 sentences
 - `thaipod-1073` : หลังจากนั้น (after that) : 1 meaning(s), 2 sentences
 - `thaipod-1074` : หลังจากนี้ (after this) : 1 meaning(s), 2 sentences
+- `thaipod-1075` : หลายต่อหลายครั้ง (many times, repeatedly) : 1 meaning(s), 2 sentences
 - `thaipod-1076` : หล่อ (handsome) : 1 meaning(s), 2 sentences
 - `thaipod-1078` : หวย (lottery) : 1 meaning(s), 2 sentences
+- `thaipod-1079` : หวัง (to hope) : 1 meaning(s), 2 sentences
 - `thaipod-1082` : หัน (to turn (one's body or face)) : 1 meaning(s), 2 sentences
 - `thaipod-1085` : หัวเราะ (to laugh) : 1 meaning(s), 2 sentences
 - `thaipod-1087` : หาเลี้ยงชีพ (to make a living, to earn a livelihood) : 1 meaning(s), 2 sentences
+- `thaipod-1094` : องค์ (classifier for sacred objects, Buddha images, deities, royalty) : 1 meaning(s), 2 sentences
 - `thaipod-1095` : องค์กร, องค์การ (organization) : 1 meaning(s), 2 sentences
 - `thaipod-1096` : อดทน (to endure, to be patient) : 1 meaning(s), 2 sentences
 - `thaipod-1098` : อบอุ่น (warm) : 1 meaning(s), 2 sentences
+- `thaipod-1100` : อยู่ดีๆ (suddenly, out of the blue) : 1 meaning(s), 2 sentences
+- `thaipod-1103` : อย่างต่อเนื่อง, เรื่อยๆ (continuously) : 1 meaning(s), 2 sentences
 - `thaipod-1104` : อย่างนี้ (like this, this way) : 1 meaning(s), 2 sentences
+- `thaipod-1107` : อย่างยิ่ง (greatly, extremely) : 1 meaning(s), 2 sentences
+- `thaipod-1111` : อย่างเปิดเผย (openly, transparently) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `thaipod-1120` : ออกฉาย (released (e.g a film), screened) : 1 meaning(s), 2 sentences
+- `thaipod-1121` : ออกดอก (to bloom, to flower) : 1 meaning(s), 2 sentences
+- `thaipod-1123` : อะไรกันจ๊ะ ("what's going on?", "what's this?") : 1 meaning(s), 2 sentences
 - `thaipod-1124` : อักษร (letter, character (alphabet)) : 1 meaning(s), 2 sentences
 - `thaipod-1127` : อันไหน (which one) : 1 meaning(s), 2 sentences
 - `thaipod-1128` : อาคาร (building) : 1 meaning(s), 2 sentences
@@ -2518,6 +2527,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1135` : อาสา (to volunteer) : 1 meaning(s), 2 sentences
 - `thaipod-1142` : อุทยาน (park (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-1146` : อ่าง (basin, reservoir, sink, tub) : 1 meaning(s), 2 sentences
+- `thaipod-1147` : อ่าว (bay) : 1 meaning(s), 2 sentences
 - `thaipod-1150` : อ้า (to open wide (e.g mouth, door)) : 1 meaning(s), 2 sentences
 - `thaipod-1152` : อ้างอิง, อ้างถึง (to reference, to cite) : 1 meaning(s), 2 sentences
 - `thaipod-1153` : เกลียด (to hate) : 1 meaning(s), 2 sentences
