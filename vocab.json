@@ -62838,6 +62838,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cost of living",
+        "sentences": [
+          {
+            "thai": "ค่าครองชีพในเมืองสูงมาก",
+            "en": "The cost of living in the city is very high.",
+            "audio_src": "ค่าครองชีพในเมืองสูงมาก",
+            "audio_en_src": "The cost of living in the city is very high."
+          },
+          {
+            "thai": "เงินเดือนไม่พอกับค่าครองชีพ",
+            "en": "My salary isn't enough for the cost of living.",
+            "audio_src": "เงินเดือนไม่พอกับค่าครองชีพ",
+            "audio_en_src": "My salary isn't enough for the cost of living."
+          }
+        ]
+      }
     ]
   },
   {
@@ -62848,6 +62867,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "speechless, \"at a loss for words\"",
+        "sentences": [
+          {
+            "thai": "ฉันตกใจจนพูดไม่ออก",
+            "en": "I was so shocked I couldn't speak.",
+            "audio_src": "ฉันตกใจจนพูดไม่ออก",
+            "audio_en_src": "I was so shocked I couldn't speak."
+          },
+          {
+            "thai": "เขาซึ้งจนพูดไม่ออก",
+            "en": "He was so touched he was at a loss for words.",
+            "audio_src": "เขาซึ้งจนพูดไม่ออก",
+            "audio_en_src": "He was so touched he was at a loss for words."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63072,6 +63110,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "fast food",
+        "sentences": [
+          {
+            "thai": "เขากินอาหารจานด่วนบ่อยเกินไป",
+            "en": "He eats fast food too often.",
+            "audio_src": "เขากินอาหารจานด่วนบ่อยเกินไป",
+            "audio_en_src": "He eats fast food too often."
+          },
+          {
+            "thai": "อาหารจานด่วนอิ่มเร็วแต่ไม่ค่อยดีต่อสุขภาพ",
+            "en": "Fast food is quick and filling but not very healthy.",
+            "audio_src": "อาหารจานด่วนอิ่มเร็วแต่ไม่ค่อยดีต่อสุขภาพ",
+            "audio_en_src": "Fast food is quick and filling but not very healthy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63082,6 +63139,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "strawberry",
+        "sentences": [
+          {
+            "thai": "ฉันชอบเค้กสตรอว์เบอร์รี",
+            "en": "I like strawberry cake.",
+            "audio_src": "ฉันชอบเค้กสตรอว์เบอร์รี",
+            "audio_en_src": "I like strawberry cake."
+          },
+          {
+            "thai": "สตรอว์เบอร์รีลูกนี้หวานมาก",
+            "en": "This strawberry is very sweet.",
+            "audio_src": "สตรอว์เบอร์รีลูกนี้หวานมาก",
+            "audio_en_src": "This strawberry is very sweet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63092,6 +63168,25 @@
     "topic": "food",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to lie, to bullshit, to fake innocence (slang, from \"strawberry\")",
+        "sentences": [
+          {
+            "thai": "อย่ามาสตอ ฉันรู้หมดแล้ว",
+            "en": "Don't bullshit me, I already know everything.",
+            "audio_src": "อย่ามาสตอ ฉันรู้หมดแล้ว",
+            "audio_en_src": "Don't bullshit me, I already know everything."
+          },
+          {
+            "thai": "เขาชอบสตอว่าไม่รู้เรื่อง",
+            "en": "He likes to play dumb like he doesn't know anything.",
+            "audio_src": "เขาชอบสตอว่าไม่รู้เรื่อง",
+            "audio_en_src": "He likes to play dumb like he doesn't know anything."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63104,6 +63199,42 @@
       "TSL Chiang Mai",
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "longan",
+        "sentences": [
+          {
+            "thai": "ลำไยกระป๋องหวานเจี๊ยบ",
+            "en": "Canned longan is super sweet.",
+            "audio_src": "ลำไยกระป๋องหวานเจี๊ยบ",
+            "audio_en_src": "Canned longan is super sweet."
+          },
+          {
+            "thai": "หน้าร้อนลำไยออกเยอะ",
+            "en": "Lots of longan comes out in summer.",
+            "audio_src": "หน้าร้อนลำไยออกเยอะ",
+            "audio_en_src": "Lots of longan comes out in summer."
+          }
+        ]
+      },
+      {
+        "meaning": "annoying, irritating (slang)",
+        "sentences": [
+          {
+            "thai": "เขาพูดมากจนน่าลำไย",
+            "en": "He talks so much it's annoying.",
+            "audio_src": "เขาพูดมากจนน่าลำไย",
+            "audio_en_src": "He talks so much it's annoying."
+          },
+          {
+            "thai": "อย่าทำตัวลำไยน่า",
+            "en": "Don't be so annoying.",
+            "audio_src": "อย่าทำตัวลำไยน่า",
+            "audio_en_src": "Don't be so annoying."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63219,6 +63350,25 @@
     "topic": "expressions",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "(slang) hot, good-looking, impressive",
+        "sentences": [
+          {
+            "thai": "สาวคนนั้นงานดีมาก",
+            "en": "That girl is really hot.",
+            "audio_src": "สาวคนนั้นงานดีมาก",
+            "audio_en_src": "That girl is really hot."
+          },
+          {
+            "thai": "ชุดนี้ใส่แล้วงานดีสุดๆ",
+            "en": "You look amazing in this outfit.",
+            "audio_src": "ชุดนี้ใส่แล้วงานดีสุดๆ",
+            "audio_en_src": "You look amazing in this outfit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63231,6 +63381,42 @@
       "TSL Chiang Mai",
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "taro (vegetable)",
+        "sentences": [
+          {
+            "thai": "ขนมเผือกอร่อยมาก",
+            "en": "Taro dessert is really tasty.",
+            "audio_src": "ขนมเผือกอร่อยมาก",
+            "audio_en_src": "Taro dessert is really tasty."
+          },
+          {
+            "thai": "ฉันชอบไอศกรีมรสเผือก",
+            "en": "I like taro-flavored ice cream.",
+            "audio_src": "ฉันชอบไอศกรีมรสเผือก",
+            "audio_en_src": "I like taro-flavored ice cream."
+          }
+        ]
+      },
+      {
+        "meaning": "(slang) nosy, meddlesome, to gossip",
+        "sentences": [
+          {
+            "thai": "อย่ามาเผือกเรื่องของคนอื่น",
+            "en": "Don't be nosy about other people's business.",
+            "audio_src": "อย่ามาเผือกเรื่องของคนอื่น",
+            "audio_en_src": "Don't be nosy about other people's business."
+          },
+          {
+            "thai": "เพื่อนฉันชอบเผือกเรื่องชาวบ้าน",
+            "en": "My friend loves gossiping about everyone.",
+            "audio_src": "เพื่อนฉันชอบเผือกเรื่องชาวบ้าน",
+            "audio_en_src": "My friend loves gossiping about everyone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63340,6 +63526,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "delicious, tastes good",
+        "sentences": [
+          {
+            "thai": "อาหารร้านนี้ถูกปากฉันมาก",
+            "en": "The food here really suits my taste.",
+            "audio_src": "อาหารร้านนี้ถูกปากฉันมาก",
+            "audio_en_src": "The food here really suits my taste."
+          },
+          {
+            "thai": "ลองชิมดูสิ เผื่อจะถูกปาก",
+            "en": "Give it a try, maybe you'll like it.",
+            "audio_src": "ลองชิมดูสิ เผื่อจะถูกปาก",
+            "audio_en_src": "Give it a try, maybe you'll like it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -63381,6 +63586,25 @@
     "topic": "grammar",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "made with - made from",
+        "sentences": [
+          {
+            "thai": "โต๊ะตัวนี้ทำด้วยไม้",
+            "en": "This table is made of wood.",
+            "audio_src": "โต๊ะตัวนี้ทำด้วยไม้",
+            "audio_en_src": "This table is made of wood."
+          },
+          {
+            "thai": "กระดาษทำจากต้นไม้",
+            "en": "Paper is made from trees.",
+            "audio_src": "กระดาษทำจากต้นไม้",
+            "audio_en_src": "Paper is made from trees."
+          }
+        ]
+      }
     ]
   },
   {

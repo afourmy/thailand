@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4623 words**
+**Total: 4633 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1658,18 +1658,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-010` : ล่าช้า (delayed, late, behind schedule (delivery, service, flight)) : 1 meaning(s), 2 sentences
 - `tsl-011` : ของกินของใช้ (food and daily necessities (groceries, household items)) : 1 meaning(s), 2 sentences
 - `tsl-012` : ชานเมือง (suburbs, outskirts of the city) : 1 meaning(s), 2 sentences
+- `tsl-013` : ค่าครองชีพ (cost of living) : 1 meaning(s), 2 sentences
+- `tsl-014` : พูดไม่ออก (speechless, "at a loss for words") : 1 meaning(s), 2 sentences
 - `tsl-015` : ขี้เหร่ (ugly, unattractive) : 1 meaning(s), 2 sentences
 - `tsl-016` : ตื้น (shallow (not deep)) : 1 meaning(s), 2 sentences
 - `tsl-017` : น่าเกลียด (ugly; disgusting, repulsive) : 2 meaning(s), 4 sentences
 - `tsl-018` : ว่างเปล่า (empty, vacant) : 1 meaning(s), 2 sentences
 - `tsl-019` : ตด (to fart) : 1 meaning(s), 2 sentences
 - `tsl-020` : แคบ (narrow) : 1 meaning(s), 2 sentences
+- `tsl-021` : อาหารจานด่วน (fast food) : 1 meaning(s), 2 sentences
+- `tsl-022` : สตรอว์เบอร์รี (strawberry) : 1 meaning(s), 2 sentences
+- `tsl-022b` : สตอ (to lie, to bullshit, to fake innocence (slang, from "strawberry")) : 1 meaning(s), 2 sentences
+- `tsl-023` : ลำไย (longan; annoying, irritating (slang)) : 2 meaning(s), 4 sentences
 - `tsl-024` : แกง (curry; (slang) to tease, trick, prank) : 2 meaning(s), 4 sentences
 - `tsl-025` : เท (to pour; (slang) to dump someone, to stand someone up) : 2 meaning(s), 4 sentences
+- `tsl-026` : งานดี ((slang) hot, good-looking, impressive) : 1 meaning(s), 2 sentences
+- `tsl-027` : เผือก (taro (vegetable); (slang) nosy, meddlesome, to gossip) : 2 meaning(s), 4 sentences
 - `tsl-029` : จัดกระเป๋า (to pack a bag) : 1 meaning(s), 2 sentences
 - `tsl-030` : โอที ((work) overtime) : 1 meaning(s), 2 sentences
 - `tsl-031` : ไว้ (in advance, to keep for later) : 1 meaning(s), 2 sentences
+- `tsl-033` : ถูกปาก (delicious, tastes good) : 1 meaning(s), 2 sentences
 - `tsl-035` : ห้องแถว (row house, shophouse (narrow units with a shop in front)) : 1 meaning(s), 2 sentences
+- `tsl-036` : ทำด้วย - ทำจาก (made with - made from) : 1 meaning(s), 2 sentences
 - `tsl-038` : ไร่ (field, plantation; unit of area (1600 m²)) : 2 meaning(s), 4 sentences
 - `tsl-040` : ต่อรอง (to bargain, to negotiate) : 1 meaning(s), 2 sentences
 - `tsl-042` : หารกัน (to split among people (share a bill), to divide equally) : 1 meaning(s), 2 sentences
