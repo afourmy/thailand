@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4393 words**
+**Total: 4403 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1104,7 +1104,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-142` : สั่น (to tremble, to shake, to vibrate (phone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-143` : มีปากเสียง (to quarrel, to have an argument) : 1 meaning(s), 2 sentences
 - `tamago-l3-144` : เลี้ยงข้าว (to treat to a meal, to pay for someone's meal) : 1 meaning(s), 2 sentences
+- `tamago-l3-145` : ชาตินี้ (this current life, this lifetime) : 1 meaning(s), 2 sentences
+- `tamago-l3-146` : ปรากฏว่า (it turns out that, it appears that) : 1 meaning(s), 2 sentences
 - `tamago-l3-147` : ลูกอม (candy) : 1 meaning(s), 2 sentences
+- `tamago-l3-148` : ติดคอ (stuck in the throat, to choke on (food)) : 1 meaning(s), 2 sentences
 - `tamago-l3-149` : อม (to put in one's mouth, to suck on something) : 1 meaning(s), 2 sentences
 - `tamago-l3-151` : ชู้ (lover, cheating partner) : 1 meaning(s), 2 sentences
 - `tamago-l3-152` : เห็นใจ (to sympathize, to feel compassion (for)) : 1 meaning(s), 2 sentences
@@ -1112,14 +1115,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-155` : เรียบง่าย (simple, uncomplicated, plain) : 1 meaning(s), 2 sentences
 - `tamago-l3-157` : ด่า (to scold, to curse, to insult harshly) : 1 meaning(s), 2 sentences
 - `tamago-l3-159` : เถียง, ถกเถียง, โต้เถียง (to argue, to talk back, to dispute) : 1 meaning(s), 2 sentences
+- `tamago-l3-160` : เป็นเรื่อง (to become an issue, to be a big deal) : 1 meaning(s), 2 sentences
+- `tamago-l3-162` : ตัดใจ (to get over something, to let go emotionally) : 1 meaning(s), 2 sentences
 - `tamago-l3-163` : เรื่องราว (story, narrative) : 1 meaning(s), 2 sentences
 - `tamago-l3-164` : ซีด (pale) : 1 meaning(s), 2 sentences
+- `tamago-l3-166` : ดำเนินไปได้ด้วยดี (to go well, to go smoothly) : 1 meaning(s), 2 sentences
 - `tamago-l3-168` : ผลเสีย (damage, harm, negative consequence) : 1 meaning(s), 2 sentences
 - `tamago-l3-170` : ส่งผลกระทบ (to impact, to affect) : 1 meaning(s), 2 sentences
 - `tamago-l3-171` : โดยตรง (directly) : 1 meaning(s), 2 sentences
+- `tamago-l3-172` : พูดซะยาว ("you talk too much!", "that's a long explanation!") : 1 meaning(s), 2 sentences
+- `tamago-l3-174` : ฟังไม่ขึ้น (sounds unconvincing, implausible, "doesn't hold up") : 1 meaning(s), 2 sentences
 - `tamago-l3-175` : ผู้สมัคร (candidate, applicant) : 1 meaning(s), 2 sentences
 - `tamago-l3-176` : ดัน (to push, to press; unexpectedly, "it just happens that") : 2 meaning(s), 4 sentences
 - `tamago-l3-177` : ผู้สัมภาษณ์ (interviewer) : 1 meaning(s), 2 sentences
+- `tamago-l3-178` : ตามสั่ง (made-to-order) : 1 meaning(s), 2 sentences
 - `tamago-l3-181` : ปิดบัง (to hide, to conceal (e.g information, facts)) : 1 meaning(s), 2 sentences
 - `tamago-l3-184` : ขำ (funny, to laugh) : 1 meaning(s), 2 sentences
 - `tamago-l3-186` : แอบฟัง (to eavesdrop) : 1 meaning(s), 2 sentences
@@ -1129,6 +1138,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-190` : ซึมซับ (to absorb (knowledge, culture)) : 1 meaning(s), 2 sentences
 - `tamago-l3-192` : เจ้าของภาษา (native speaker) : 1 meaning(s), 2 sentences
 - `tamago-l3-193` : ดูบอล (to watch football (soccer)) : 1 meaning(s), 2 sentences
+- `tamago-l3-195` : รับไหว (to be able to handle, can take it) : 1 meaning(s), 2 sentences
 - `tamago-l3-197` : ฉวยโอกาส (to seize an opportunity) : 1 meaning(s), 2 sentences
 - `tamago-l3-198` : ตามใจ (as you wish; to spoil (someone)) : 2 meaning(s), 4 sentences
 - `tamago-l3-200` : ความหลัง (the past, past memories) : 1 meaning(s), 2 sentences

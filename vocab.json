@@ -43481,6 +43481,25 @@
     "topic": "beliefs",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "this current life, this lifetime",
+        "sentences": [
+          {
+            "thai": "ชาตินี้ฉันจะรักเธอคนเดียว",
+            "en": "In this life, I'll love only you.",
+            "audio_src": "ชาตินี้ฉันจะรักเธอคนเดียว",
+            "audio_en_src": "In this life, I'll love only you."
+          },
+          {
+            "thai": "ชาตินี้คงไม่มีโอกาสได้ไป",
+            "en": "I probably won't get the chance to go in this lifetime.",
+            "audio_src": "ชาตินี้คงไม่มีโอกาสได้ไป",
+            "audio_en_src": "I probably won't get the chance to go in this lifetime."
+          }
+        ]
+      }
     ]
   },
   {
@@ -43491,6 +43510,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "it turns out that, it appears that",
+        "sentences": [
+          {
+            "thai": "ปรากฏว่าเขาลืมนัด",
+            "en": "It turned out he forgot the appointment.",
+            "audio_src": "ปรากฏว่าเขาลืมนัด",
+            "audio_en_src": "It turned out he forgot the appointment."
+          },
+          {
+            "thai": "หากุญแจตั้งนาน ปรากฏว่าอยู่ในกระเป๋า",
+            "en": "I looked for the keys forever, turns out they were in my bag.",
+            "audio_src": "หากุญแจตั้งนาน ปรากฏว่าอยู่ในกระเป๋า",
+            "audio_en_src": "I looked for the keys forever, turns out they were in my bag."
+          }
+        ]
+      }
     ]
   },
   {
@@ -43535,6 +43573,25 @@
     "topic": "health",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "stuck in the throat, to choke on (food)",
+        "sentences": [
+          {
+            "thai": "ก้างปลาติดคอ",
+            "en": "A fish bone is stuck in my throat.",
+            "audio_src": "ก้างปลาติดคอ",
+            "audio_en_src": "A fish bone is stuck in my throat."
+          },
+          {
+            "thai": "กินเร็วๆระวังติดคอ",
+            "en": "Careful you don't choke eating so fast.",
+            "audio_src": "กินเร็วๆระวังติดคอ",
+            "audio_en_src": "Careful you don't choke eating so fast."
+          }
+        ]
+      }
     ]
   },
   {
@@ -43809,6 +43866,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to become an issue, to be a big deal",
+        "sentences": [
+          {
+            "thai": "ถ้าแม่รู้เดี๋ยวเป็นเรื่องแน่",
+            "en": "If Mom finds out, it'll be a big deal for sure.",
+            "audio_src": "ถ้าแม่รู้เดี๋ยวเป็นเรื่องแน่",
+            "audio_en_src": "If Mom finds out, it'll be a big deal for sure."
+          },
+          {
+            "thai": "เรื่องเล็กๆอย่าทำให้เป็นเรื่อง",
+            "en": "Don't turn a small thing into a big deal.",
+            "audio_src": "เรื่องเล็กๆอย่าทำให้เป็นเรื่อง",
+            "audio_en_src": "Don't turn a small thing into a big deal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -43830,6 +43906,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to get over something, to let go emotionally",
+        "sentences": [
+          {
+            "thai": "เขาตัดใจจากแฟนเก่าไม่ได้",
+            "en": "He can't get over his ex.",
+            "audio_src": "เขาตัดใจจากแฟนเก่าไม่ได้",
+            "audio_en_src": "He can't get over his ex."
+          },
+          {
+            "thai": "ของมันแพง ตัดใจไม่ซื้อดีกว่า",
+            "en": "It's expensive, better to let it go and not buy it.",
+            "audio_src": "ของมันแพง ตัดใจไม่ซื้อดีกว่า",
+            "audio_en_src": "It's expensive, better to let it go and not buy it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -43915,6 +44010,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to go well, to go smoothly",
+        "sentences": [
+          {
+            "thai": "งานแต่งดำเนินไปได้ด้วยดี",
+            "en": "The wedding went smoothly.",
+            "audio_src": "งานแต่งดำเนินไปได้ด้วยดี",
+            "audio_en_src": "The wedding went smoothly."
+          },
+          {
+            "thai": "โครงการดำเนินไปได้ด้วยดี",
+            "en": "The project is going well.",
+            "audio_src": "โครงการดำเนินไปได้ด้วยดี",
+            "audio_en_src": "The project is going well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44042,6 +44156,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "\"you talk too much!\", \"that's a long explanation!\"",
+        "sentences": [
+          {
+            "thai": "แค่ถามนิดเดียว พูดซะยาวเลย",
+            "en": "I just asked a little thing and you went on forever.",
+            "audio_src": "แค่ถามนิดเดียว พูดซะยาวเลย",
+            "audio_en_src": "I just asked a little thing and you went on forever."
+          },
+          {
+            "thai": "พูดซะยาว สรุปมาสั้นๆได้ไหม",
+            "en": "That's a long-winded answer, can you sum it up?",
+            "audio_src": "พูดซะยาว สรุปมาสั้นๆได้ไหม",
+            "audio_en_src": "That's a long-winded answer, can you sum it up?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -44062,6 +44195,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "sounds unconvincing, implausible, \"doesn't hold up\"",
+        "sentences": [
+          {
+            "thai": "ข้ออ้างของเขาฟังไม่ขึ้น",
+            "en": "His excuse doesn't hold up.",
+            "audio_src": "ข้ออ้างของเขาฟังไม่ขึ้น",
+            "audio_en_src": "His excuse doesn't hold up."
+          },
+          {
+            "thai": "เหตุผลนี้ฟังไม่ขึ้นเลย",
+            "en": "This reason is totally unconvincing.",
+            "audio_src": "เหตุผลนี้ฟังไม่ขึ้นเลย",
+            "audio_en_src": "This reason is totally unconvincing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44187,6 +44339,25 @@
     "topic": "food",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "made-to-order",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายอาหารตามสั่ง",
+            "en": "This shop sells made-to-order food.",
+            "audio_src": "ร้านนี้ขายอาหารตามสั่ง",
+            "audio_en_src": "This shop sells made-to-order food."
+          },
+          {
+            "thai": "ผัดกะเพราตามสั่งจานนึง",
+            "en": "One made-to-order stir-fried basil, please.",
+            "audio_src": "ผัดกะเพราตามสั่งจานนึง",
+            "audio_en_src": "One made-to-order stir-fried basil, please."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44532,6 +44703,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be able to handle, can take it",
+        "sentences": [
+          {
+            "thai": "งานเยอะแต่ฉันรับไหว",
+            "en": "There's a lot of work but I can handle it.",
+            "audio_src": "งานเยอะแต่ฉันรับไหว",
+            "audio_en_src": "There's a lot of work but I can handle it."
+          },
+          {
+            "thai": "ราคาเท่านี้ยังพอรับไหว",
+            "en": "I can still afford this price.",
+            "audio_src": "ราคาเท่านี้ยังพอรับไหว",
+            "audio_en_src": "I can still afford this price."
+          }
+        ]
+      }
     ]
   },
   {
