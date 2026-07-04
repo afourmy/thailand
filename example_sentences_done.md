@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4593 words**
+**Total: 4603 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1605,11 +1605,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-818` : เมตตา (kindness, goodwill, wishing others well) : 1 meaning(s), 2 sentences
 - `tamago-l3-819` : รู้สึกเคว้งคว้าง (to feel lost, adrift, without direction) : 1 meaning(s), 2 sentences
 - `tamago-l3-820` : ลูกแหง่ (mama's boy, spoiled child) : 1 meaning(s), 2 sentences
+- `tamago-l3-821` : ไม่รู้จักโต (to be immature, to behave like a child) : 1 meaning(s), 2 sentences
 - `tamago-l3-822` : หมั่น (to be diligent, to be persistent, to practice regularly) : 1 meaning(s), 2 sentences
 - `tamago-l3-823` : เตือนสติ (to bring back to one's senses, to remind of what's right) : 1 meaning(s), 2 sentences
+- `tamago-l3-824` : ธรรมะ (Dharma, Buddha's teachings) : 1 meaning(s), 2 sentences
+- `tamago-l3-825` : ลำเอียง (biased, unfairly favoring one side) : 1 meaning(s), 2 sentences
 - `tamago-l3-826` : ต้นเหตุ (cause, source, root of (a problem)) : 1 meaning(s), 2 sentences
+- `tamago-l3-827` : หมดปัญญา (to be out of ideas, at a loss what to do) : 1 meaning(s), 2 sentences
 - `tamago-l3-828` : ถอยห่าง (to step back, to distance oneself from) : 1 meaning(s), 2 sentences
+- `tamago-l3-829` : เป็นอันขาด (absolutely (not), never ever, (not) under any circumstances) : 1 meaning(s), 2 sentences
+- `tamago-l3-831` : อยู่เคียงข้าง (to be by someone's side, to stand by) : 1 meaning(s), 2 sentences
+- `tamago-l3-832` : ลาบหมู (spicy minced pork salad (Isan dish)) : 1 meaning(s), 2 sentences
+- `tamago-l3-833` : ใจตรงกัน (to think alike, to feel the same way) : 1 meaning(s), 2 sentences
+- `tamago-l3-834` : หัวสมัยใหม่ (modern-minded, liberal) : 1 meaning(s), 2 sentences
 - `tamago-l3-835` : คนรักเพศเดียวกัน (homosexual person (literally one who loves the same sex)) : 1 meaning(s), 2 sentences
+- `tamago-l3-836` : ความนับถือตัวเอง (self-esteem) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
 - `tamago-l3-843` : เดินกะเผลก (to limp, to walk with a limp) : 1 meaning(s), 2 sentences
 - `tamago-l3-847` : สู้ (to fight; "might as well", "wouldn't it be better if") : 2 meaning(s), 4 sentences

@@ -61085,6 +61085,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be immature, to behave like a child",
+        "sentences": [
+          {
+            "thai": "อายุปูนนี้แล้วยังไม่รู้จักโต",
+            "en": "You're this old and still act like a child.",
+            "audio_src": "อายุปูนนี้แล้วยังไม่รู้จักโต",
+            "audio_en_src": "You're this old and still act like a child."
+          },
+          {
+            "thai": "เขาไม่รู้จักโตสักที",
+            "en": "He just never grows up.",
+            "audio_src": "เขาไม่รู้จักโตสักที",
+            "audio_en_src": "He just never grows up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61160,6 +61179,25 @@
       "Tamago L3",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Dharma, Buddha's teachings",
+        "sentences": [
+          {
+            "thai": "ยายชอบฟังธรรมะทุกเช้า",
+            "en": "Grandma likes listening to Dharma talks every morning.",
+            "audio_src": "ยายชอบฟังธรรมะทุกเช้า",
+            "audio_en_src": "Grandma likes listening to Dharma talks every morning."
+          },
+          {
+            "thai": "ธรรมะช่วยให้จิตใจสงบ",
+            "en": "The Dharma helps calm the mind.",
+            "audio_src": "ธรรมะช่วยให้จิตใจสงบ",
+            "audio_en_src": "The Dharma helps calm the mind."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61170,6 +61208,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "biased, unfairly favoring one side",
+        "sentences": [
+          {
+            "thai": "กรรมการตัดสินอย่างลำเอียง",
+            "en": "The judge ruled in a biased way.",
+            "audio_src": "กรรมการตัดสินอย่างลำเอียง",
+            "audio_en_src": "The judge ruled in a biased way."
+          },
+          {
+            "thai": "พ่อแม่ไม่ควรลำเอียงกับลูก",
+            "en": "Parents shouldn't play favorites with their children.",
+            "audio_src": "พ่อแม่ไม่ควรลำเอียงกับลูก",
+            "audio_en_src": "Parents shouldn't play favorites with their children."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61212,6 +61269,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be out of ideas, at a loss what to do",
+        "sentences": [
+          {
+            "thai": "ฉันหมดปัญญาจะช่วยเขาแล้ว",
+            "en": "I'm out of ideas on how to help him.",
+            "audio_src": "ฉันหมดปัญญาจะช่วยเขาแล้ว",
+            "audio_en_src": "I'm out of ideas on how to help him."
+          },
+          {
+            "thai": "ปัญหานี้ยากจนหมดปัญญา",
+            "en": "This problem is so hard I'm at a loss.",
+            "audio_src": "ปัญหานี้ยากจนหมดปัญญา",
+            "audio_en_src": "This problem is so hard I'm at a loss."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61254,6 +61330,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "absolutely (not), never ever, (not) under any circumstances",
+        "sentences": [
+          {
+            "thai": "ห้ามออกไปข้างนอกเป็นอันขาด",
+            "en": "You absolutely must not go outside.",
+            "audio_src": "ห้ามออกไปข้างนอกเป็นอันขาด",
+            "audio_en_src": "You absolutely must not go outside."
+          },
+          {
+            "thai": "อย่าบอกใครเป็นอันขาด",
+            "en": "Don't tell anyone, under any circumstances.",
+            "audio_src": "อย่าบอกใครเป็นอันขาด",
+            "audio_en_src": "Don't tell anyone, under any circumstances."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61264,6 +61359,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be by someone's side, to stand by",
+        "sentences": [
+          {
+            "thai": "ไม่ว่าจะเกิดอะไร ฉันจะอยู่เคียงข้างเธอ",
+            "en": "No matter what happens, I'll be by your side.",
+            "audio_src": "ไม่ว่าจะเกิดอะไร ฉันจะอยู่เคียงข้างเธอ",
+            "audio_en_src": "No matter what happens, I'll be by your side."
+          },
+          {
+            "thai": "เขาอยู่เคียงข้างครอบครัวเสมอ",
+            "en": "He always stands by his family.",
+            "audio_src": "เขาอยู่เคียงข้างครอบครัวเสมอ",
+            "audio_en_src": "He always stands by his family."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61274,6 +61388,25 @@
     "topic": "food",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "spicy minced pork salad (Isan dish)",
+        "sentences": [
+          {
+            "thai": "มื้อเย็นสั่งลาบหมูกับข้าวเหนียว",
+            "en": "For dinner we ordered larb moo with sticky rice.",
+            "audio_src": "มื้อเย็นสั่งลาบหมูกับข้าวเหนียว",
+            "audio_en_src": "For dinner we ordered larb moo with sticky rice."
+          },
+          {
+            "thai": "ลาบหมูร้านนี้เผ็ดกำลังดี",
+            "en": "The larb moo here is spicy just right.",
+            "audio_src": "ลาบหมูร้านนี้เผ็ดกำลังดี",
+            "audio_en_src": "The larb moo here is spicy just right."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61284,6 +61417,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to think alike, to feel the same way",
+        "sentences": [
+          {
+            "thai": "เราใจตรงกัน อยากกินอย่างเดียวกัน",
+            "en": "We think alike, we want to eat the same thing.",
+            "audio_src": "เราใจตรงกัน อยากกินอย่างเดียวกัน",
+            "audio_en_src": "We think alike, we want to eat the same thing."
+          },
+          {
+            "thai": "พอดีเลย เราใจตรงกัน",
+            "en": "Perfect, we're on the same page.",
+            "audio_src": "พอดีเลย เราใจตรงกัน",
+            "audio_en_src": "Perfect, we're on the same page."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61295,6 +61447,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "modern-minded, liberal",
+        "sentences": [
+          {
+            "thai": "แม่ฉันหัวสมัยใหม่ ไม่บังคับเรื่องแต่งงาน",
+            "en": "My mom is modern-minded, she doesn't pressure me about marriage.",
+            "audio_src": "แม่ฉันหัวสมัยใหม่ ไม่บังคับเรื่องแต่งงาน",
+            "audio_en_src": "My mom is modern-minded, she doesn't pressure me about marriage."
+          },
+          {
+            "thai": "เจ้านายคนนี้หัวสมัยใหม่",
+            "en": "This boss is progressive.",
+            "audio_src": "เจ้านายคนนี้หัวสมัยใหม่",
+            "audio_en_src": "This boss is progressive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61336,6 +61507,25 @@
     "topic": "personality",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "self-esteem",
+        "sentences": [
+          {
+            "thai": "การถูกดูถูกบ่อยๆทำลายความนับถือตัวเอง",
+            "en": "Being belittled often destroys one's self-esteem.",
+            "audio_src": "การถูกดูถูกบ่อยๆทำลายความนับถือตัวเอง",
+            "audio_en_src": "Being belittled often destroys one's self-esteem."
+          },
+          {
+            "thai": "เด็กควรได้รับการเลี้ยงดูให้มีความนับถือตัวเอง",
+            "en": "Children should be raised to have self-esteem.",
+            "audio_src": "เด็กควรได้รับการเลี้ยงดูให้มีความนับถือตัวเอง",
+            "audio_en_src": "Children should be raised to have self-esteem."
+          }
+        ]
+      }
     ]
   },
   {
