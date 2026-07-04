@@ -85414,6 +85414,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "field",
+        "sentences": [
+          {
+            "thai": "วัวกินหญ้าอยู่ในทุ่ง",
+            "en": "The cows are grazing in the field.",
+            "audio_src": "วัวกินหญ้าอยู่ในทุ่ง",
+            "audio_en_src": "The cows are grazing in the field."
+          },
+          {
+            "thai": "เด็กๆวิ่งเล่นในทุ่งกว้าง",
+            "en": "The kids run around in the open field.",
+            "audio_src": "เด็กๆวิ่งเล่นในทุ่งกว้าง",
+            "audio_en_src": "The kids run around in the open field."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85468,6 +85487,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "amid, in the midst of",
+        "sentences": [
+          {
+            "thai": "เขายืนยิ้มท่ามกลางเสียงปรบมือ",
+            "en": "He stood smiling amid the applause.",
+            "audio_src": "เขายืนยิ้มท่ามกลางเสียงปรบมือ",
+            "audio_en_src": "He stood smiling amid the applause."
+          },
+          {
+            "thai": "ดอกไม้บานท่ามกลางหิมะ",
+            "en": "Flowers bloom in the midst of the snow.",
+            "audio_src": "ดอกไม้บานท่ามกลางหิมะ",
+            "audio_en_src": "Flowers bloom in the midst of the snow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85488,6 +85526,25 @@
     "topic": "health",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "heavily pregnant, late-term pregnant",
+        "sentences": [
+          {
+            "thai": "เธอท้องแก่ใกล้คลอดแล้ว",
+            "en": "She's heavily pregnant and close to giving birth.",
+            "audio_src": "เธอท้องแก่ใกล้คลอดแล้ว",
+            "audio_en_src": "She's heavily pregnant and close to giving birth."
+          },
+          {
+            "thai": "คนท้องแก่ไม่ควรยกของหนัก",
+            "en": "A heavily pregnant woman shouldn't lift heavy things.",
+            "audio_src": "คนท้องแก่ไม่ควรยกของหนัก",
+            "audio_en_src": "A heavily pregnant woman shouldn't lift heavy things."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85534,6 +85591,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to overreact, to go too far",
+        "sentences": [
+          {
+            "thai": "แค่เรื่องเล็กน้อย อย่าทำเกินกว่าเหตุ",
+            "en": "It's just a small thing, don't overreact.",
+            "audio_src": "แค่เรื่องเล็กน้อย อย่าทำเกินกว่าเหตุ",
+            "audio_en_src": "It's just a small thing, don't overreact."
+          },
+          {
+            "thai": "ตำรวจถูกกล่าวหาว่าทำเกินกว่าเหตุ",
+            "en": "The police were accused of using excessive force.",
+            "audio_src": "ตำรวจถูกกล่าวหาว่าทำเกินกว่าเหตุ",
+            "audio_en_src": "The police were accused of using excessive force."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85624,6 +85700,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "incense stick",
+        "sentences": [
+          {
+            "thai": "เขาจุดธูปไหว้พระ",
+            "en": "He lit incense to pay respects to the Buddha.",
+            "audio_src": "เขาจุดธูปไหว้พระ",
+            "audio_en_src": "He lit incense to pay respects to the Buddha."
+          },
+          {
+            "thai": "กลิ่นธูปหอมอบอวลทั้งวัด",
+            "en": "The scent of incense fills the whole temple.",
+            "audio_src": "กลิ่นธูปหอมอบอวลทั้งวัด",
+            "audio_en_src": "The scent of incense fills the whole temple."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85681,6 +85776,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "besides, apart from, other than",
+        "sentences": [
+          {
+            "thai": "นอกเหนือจากงานประจำ เขายังทำธุรกิจส่วนตัว",
+            "en": "Apart from his regular job, he also runs his own business.",
+            "audio_src": "นอกเหนือจากงานประจำ เขายังทำธุรกิจส่วนตัว",
+            "audio_en_src": "Apart from his regular job, he also runs his own business."
+          },
+          {
+            "thai": "นอกเหนือจากภาษาไทย เธอพูดภาษาจีนได้ด้วย",
+            "en": "Besides Thai, she can also speak Chinese.",
+            "audio_src": "นอกเหนือจากภาษาไทย เธอพูดภาษาจีนได้ด้วย",
+            "audio_en_src": "Besides Thai, she can also speak Chinese."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85723,6 +85837,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "since then, from that point onward",
+        "sentences": [
+          {
+            "thai": "เขาย้ายไปต่างประเทศ นับแต่นั้นมาเราก็ไม่ได้เจอกันอีก",
+            "en": "He moved abroad, and since then we haven't seen each other again.",
+            "audio_src": "เขาย้ายไปต่างประเทศ นับแต่นั้นมาเราก็ไม่ได้เจอกันอีก",
+            "audio_en_src": "He moved abroad, and since then we haven't seen each other again."
+          },
+          {
+            "thai": "เธอเลิกสูบบุหรี่ นับแต่นั้นมาสุขภาพก็ดีขึ้น",
+            "en": "She quit smoking, and from that point on her health improved.",
+            "audio_src": "เธอเลิกสูบบุหรี่ นับแต่นั้นมาสุขภาพก็ดีขึ้น",
+            "audio_en_src": "She quit smoking, and from that point on her health improved."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85734,6 +85867,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"it is you that...\", \"that's it\"",
+        "sentences": [
+          {
+            "thai": "ใช่ คนนั้นแหละที่ฉันพูดถึง",
+            "en": "Yes, that's the person I was talking about.",
+            "audio_src": "ใช่ คนนั้นแหละที่ฉันพูดถึง",
+            "audio_en_src": "Yes, that's the person I was talking about."
+          },
+          {
+            "thai": "นั่นแหละ ที่ฉันอยากบอกเธอ",
+            "en": "That's exactly what I wanted to tell you.",
+            "audio_src": "นั่นแหละ ที่ฉันอยากบอกเธอ",
+            "audio_en_src": "That's exactly what I wanted to tell you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85817,6 +85969,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "various, many kinds of",
+        "sentences": [
+          {
+            "thai": "ในสวนมีดอกไม้นานาพันธุ์",
+            "en": "The garden has flowers of many varieties.",
+            "audio_src": "ในสวนมีดอกไม้นานาพันธุ์",
+            "audio_en_src": "The garden has flowers of many varieties."
+          },
+          {
+            "thai": "ที่งานมีอาหารนานาชาติให้ชิม",
+            "en": "At the event there's food from many nations to try.",
+            "audio_src": "ที่งานมีอาหารนานาชาติให้ชิม",
+            "audio_en_src": "At the event there's food from many nations to try."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85827,6 +85998,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "various kinds, all kinds of",
+        "sentences": [
+          {
+            "thai": "ตลาดนี้ขายผักนานาชนิด",
+            "en": "This market sells all kinds of vegetables.",
+            "audio_src": "ตลาดนี้ขายผักนานาชนิด",
+            "audio_en_src": "This market sells all kinds of vegetables."
+          },
+          {
+            "thai": "เขาสะสมแสตมป์นานาชนิด",
+            "en": "He collects all kinds of stamps.",
+            "audio_src": "เขาสะสมแสตมป์นานาชนิด",
+            "audio_en_src": "He collects all kinds of stamps."
+          }
+        ]
+      }
     ]
   },
   {

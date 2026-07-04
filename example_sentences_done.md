@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4823 words**
+**Total: 4833 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2237,13 +2237,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0456` : ที่ว่า (that (which was mentioned), that (which is being talked about)) : 1 meaning(s), 2 sentences
 - `thaipod-0458` : ทุกชนิด (all kinds, every type) : 1 meaning(s), 2 sentences
 - `thaipod-0459` : ทุกวันนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
+- `thaipod-0461` : ทุ่ง (field) : 1 meaning(s), 2 sentences
 - `thaipod-0462` : ท่อระบายน้ำ (drain, sewer) : 1 meaning(s), 2 sentences
+- `thaipod-0464` : ท่ามกลาง (amid, in the midst of) : 1 meaning(s), 2 sentences
+- `thaipod-0466` : ท้องแก่ (heavily pregnant, late-term pregnant) : 1 meaning(s), 2 sentences
 - `thaipod-0467` : ท้าย (end, at the back, rear side) : 1 meaning(s), 2 sentences
+- `thaipod-0468` : ทำเกินกว่าเหตุ (to overreact, to go too far) : 1 meaning(s), 2 sentences
 - `thaipod-0470` : ธรรมดา (ordinary, common, normal) : 1 meaning(s), 2 sentences
 - `thaipod-0471` : ธุระ (business, errand) : 1 meaning(s), 2 sentences
+- `thaipod-0472` : ธูป (incense stick) : 1 meaning(s), 2 sentences
 - `thaipod-0473` : นก (bird) : 1 meaning(s), 2 sentences
+- `thaipod-0475` : นอกเหนือจาก (besides, apart from, other than) : 1 meaning(s), 2 sentences
 - `thaipod-0476` : นักวิชาการ (scholar, academic) : 1 meaning(s), 2 sentences
+- `thaipod-0478` : นับแต่นั้นมา (since then, from that point onward) : 1 meaning(s), 2 sentences
+- `thaipod-0480` : นั่นแหละ ("it is you that...", "that's it") : 1 meaning(s), 2 sentences
 - `thaipod-0481` : นาข้าว (rice field, paddy) : 1 meaning(s), 2 sentences
+- `thaipod-0487` : นานา (various, many kinds of) : 1 meaning(s), 2 sentences
+- `thaipod-0488` : นานาชนิด (various kinds, all kinds of) : 1 meaning(s), 2 sentences
 - `thaipod-0489` : นานาชาติ (international) : 1 meaning(s), 2 sentences
 - `thaipod-0490` : นาม (name, appellation (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0491` : นำทาง (to guide, to lead the way) : 1 meaning(s), 2 sentences
