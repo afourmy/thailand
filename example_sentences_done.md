@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5053 words**
+**Total: 5063 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3046,11 +3046,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-460` : การสังเกต (observation) : 1 meaning(s), 2 sentences
 - `tobo-461` : ตัวอย่าง (sample, example) : 1 meaning(s), 2 sentences
 - `tobo-462` : แทง (to stab, to pierce) : 1 meaning(s), 2 sentences
+- `tobo-463` : อธิษฐาน (to pray, to make a wish) : 1 meaning(s), 2 sentences
 - `tobo-464` : ทาสี (to paint (a surface)) : 1 meaning(s), 2 sentences
 - `tobo-465` : ปลอม, ของปลอม (fake, counterfeit) : 1 meaning(s), 2 sentences
 - `tobo-469` : ขั้นสูง (advanced (level)) : 1 meaning(s), 2 sentences
 - `tobo-470` : น่าขยะแขยง (disgusting) : 1 meaning(s), 2 sentences
 - `tobo-473` : ช่างเทคนิค (technician) : 1 meaning(s), 2 sentences
+- `tobo-474` : กระโปรงท้ายรถ (trunk (of a car)) : 1 meaning(s), 2 sentences
 - `tobo-475` : สาธารณะ (public) : 1 meaning(s), 2 sentences
 - `tobo-477` : พนัน (to gamble, betting) : 1 meaning(s), 2 sentences
 - `tobo-479` : ชั่ง, ชั่งน้ำหนัก (to weigh) : 1 meaning(s), 2 sentences
@@ -3060,12 +3062,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-483` : ไม่เกิดผล (ineffective, having no result) : 1 meaning(s), 2 sentences
 - `tobo-484` : สวนสนุก (amusement park, theme park) : 1 meaning(s), 2 sentences
 - `tobo-485` : ภาระ (burden, responsibility) : 1 meaning(s), 2 sentences
+- `tobo-486` : ผิดกฎหมาย (illegal) : 1 meaning(s), 2 sentences
 - `tobo-490` : อัตโนมัติ (automatic) : 1 meaning(s), 2 sentences
 - `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
+- `tobo-493` : ความมั่งคั่ง (wealth) : 1 meaning(s), 2 sentences
 - `tobo-494` : แนวคิด (concept, idea) : 1 meaning(s), 2 sentences
+- `tobo-495` : ภาวะซึมเศร้า (depression) : 1 meaning(s), 2 sentences
+- `tobo-496` : สุขอนามัย (hygiene) : 1 meaning(s), 2 sentences
 - `tobo-498` : แผนที่ (map) : 1 meaning(s), 2 sentences
+- `tobo-499` : ประท้วง (to protest) : 1 meaning(s), 2 sentences
 - `tobo-501` : ต่างหู, ตุ้มหู (earring) : 1 meaning(s), 2 sentences
+- `tobo-502` : มด (ant) : 1 meaning(s), 2 sentences
 - `tobo-503` : โปร่งใส (transparent) : 1 meaning(s), 2 sentences
+- `tobo-504` : พี่เลี้ยงเด็ก (babysitter) : 1 meaning(s), 2 sentences
+- `tobo-505` : นกพิราบ (pigeon) : 1 meaning(s), 2 sentences
 - `tobo-509` : รอด, รอดชีวิต (to survive) : 1 meaning(s), 2 sentences
 - `tobo-510` : รหัสผ่าน (password) : 1 meaning(s), 2 sentences
 - `tobo-511` : ที่โกนหนวด, มีดโกน (razor) : 1 meaning(s), 2 sentences

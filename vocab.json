@@ -115947,6 +115947,25 @@
     "sources": [
       "Tobo Deck",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to pray, to make a wish",
+        "sentences": [
+          {
+            "thai": "เธอหลับตาอธิษฐานขอพร",
+            "en": "She closed her eyes and prayed for a blessing.",
+            "audio_src": "เธอหลับตาอธิษฐานขอพร",
+            "audio_en_src": "She closed her eyes and prayed for a blessing."
+          },
+          {
+            "thai": "อธิษฐานก่อนเป่าเทียนวันเกิด",
+            "en": "Make a wish before blowing out the birthday candles.",
+            "audio_src": "อธิษฐานก่อนเป่าเทียนวันเกิด",
+            "audio_en_src": "Make a wish before blowing out the birthday candles."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116158,6 +116177,25 @@
     "topic": "transport",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "trunk (of a car)",
+        "sentences": [
+          {
+            "thai": "ใส่กระเป๋าไว้ในกระโปรงท้ายรถ",
+            "en": "Put the bags in the trunk.",
+            "audio_src": "ใส่กระเป๋าไว้ในกระโปรงท้ายรถ",
+            "audio_en_src": "Put the bags in the trunk."
+          },
+          {
+            "thai": "กระโปรงท้ายรถเปิดไม่ออก",
+            "en": "The trunk won’t open.",
+            "audio_src": "กระโปรงท้ายรถเปิดไม่ออก",
+            "audio_en_src": "The trunk won’t open."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116476,6 +116514,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "illegal",
+        "sentences": [
+          {
+            "thai": "จอดรถตรงนี้ผิดกฎหมาย",
+            "en": "Parking here is illegal.",
+            "audio_src": "จอดรถตรงนี้ผิดกฎหมาย",
+            "audio_en_src": "Parking here is illegal."
+          },
+          {
+            "thai": "การขายของแบบนี้ผิดกฎหมาย",
+            "en": "Selling this kind of thing is illegal.",
+            "audio_src": "การขายของแบบนี้ผิดกฎหมาย",
+            "audio_en_src": "Selling this kind of thing is illegal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116585,6 +116642,25 @@
     "topic": "economy",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "wealth",
+        "sentences": [
+          {
+            "thai": "เขาสร้างความมั่งคั่งจากธุรกิจส่วนตัว",
+            "en": "He built his wealth from his own business.",
+            "audio_src": "เขาสร้างความมั่งคั่งจากธุรกิจส่วนตัว",
+            "audio_en_src": "He built his wealth from his own business."
+          },
+          {
+            "thai": "ความมั่งคั่งไม่ได้ทำให้มีความสุขเสมอไป",
+            "en": "Wealth doesn’t always bring happiness.",
+            "audio_src": "ความมั่งคั่งไม่ได้ทำให้มีความสุขเสมอไป",
+            "audio_en_src": "Wealth doesn’t always bring happiness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116627,6 +116703,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "depression",
+        "sentences": [
+          {
+            "thai": "เธอกำลังรักษาภาวะซึมเศร้า",
+            "en": "She’s being treated for depression.",
+            "audio_src": "เธอกำลังรักษาภาวะซึมเศร้า",
+            "audio_en_src": "She’s being treated for depression."
+          },
+          {
+            "thai": "ภาวะซึมเศร้าเป็นโรคที่ต้องได้รับการดูแล",
+            "en": "Depression is an illness that needs care.",
+            "audio_src": "ภาวะซึมเศร้าเป็นโรคที่ต้องได้รับการดูแล",
+            "audio_en_src": "Depression is an illness that needs care."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116637,6 +116732,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "hygiene",
+        "sentences": [
+          {
+            "thai": "ร้านอาหารต้องรักษาสุขอนามัย",
+            "en": "Restaurants have to maintain good hygiene.",
+            "audio_src": "ร้านอาหารต้องรักษาสุขอนามัย",
+            "audio_en_src": "Restaurants have to maintain good hygiene."
+          },
+          {
+            "thai": "ล้างมือบ่อยๆเพื่อสุขอนามัยที่ดี",
+            "en": "Wash your hands often for good hygiene.",
+            "audio_src": "ล้างมือบ่อยๆเพื่อสุขอนามัยที่ดี",
+            "audio_en_src": "Wash your hands often for good hygiene."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116684,6 +116798,25 @@
       "Tobo Deck",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to protest",
+        "sentences": [
+          {
+            "thai": "ประชาชนออกมาประท้วงรัฐบาล",
+            "en": "People came out to protest against the government.",
+            "audio_src": "ประชาชนออกมาประท้วงรัฐบาล",
+            "audio_en_src": "People came out to protest against the government."
+          },
+          {
+            "thai": "คนงานประท้วงเรื่องค่าแรง",
+            "en": "The workers are protesting over wages.",
+            "audio_src": "คนงานประท้วงเรื่องค่าแรง",
+            "audio_en_src": "The workers are protesting over wages."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116729,6 +116862,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ant",
+        "sentences": [
+          {
+            "thai": "มีมดขึ้นบนโต๊ะ",
+            "en": "There are ants on the table.",
+            "audio_src": "มีมดขึ้นบนโต๊ะ",
+            "audio_en_src": "There are ants on the table."
+          },
+          {
+            "thai": "มดชอบของหวาน",
+            "en": "Ants like sweet things.",
+            "audio_src": "มดชอบของหวาน",
+            "audio_en_src": "Ants like sweet things."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116771,6 +116923,25 @@
     "topic": "family",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "babysitter",
+        "sentences": [
+          {
+            "thai": "เราจ้างพี่เลี้ยงเด็กมาดูลูก",
+            "en": "We hired a babysitter to look after the kids.",
+            "audio_src": "เราจ้างพี่เลี้ยงเด็กมาดูลูก",
+            "audio_en_src": "We hired a babysitter to look after the kids."
+          },
+          {
+            "thai": "คืนนี้ฉันเป็นพี่เลี้ยงเด็กให้เพื่อน",
+            "en": "Tonight I’m babysitting for a friend.",
+            "audio_src": "คืนนี้ฉันเป็นพี่เลี้ยงเด็กให้เพื่อน",
+            "audio_en_src": "Tonight I’m babysitting for a friend."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116781,6 +116952,25 @@
     "topic": "nature",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "pigeon",
+        "sentences": [
+          {
+            "thai": "มีนกพิราบเยอะมากที่ลานหน้าวัด",
+            "en": "There are lots of pigeons in the square in front of the temple.",
+            "audio_src": "มีนกพิราบเยอะมากที่ลานหน้าวัด",
+            "audio_en_src": "There are lots of pigeons in the square in front of the temple."
+          },
+          {
+            "thai": "อย่าให้อาหารนกพิราบ",
+            "en": "Don’t feed the pigeons.",
+            "audio_src": "อย่าให้อาหารนกพิราบ",
+            "audio_en_src": "Don’t feed the pigeons."
+          }
+        ]
+      }
     ]
   },
   {
