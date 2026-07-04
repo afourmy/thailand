@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5102 words**
+**Total: 5112 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3192,14 +3192,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-006` : ม้วน (to roll, to curl, roll, classifier for rolled items (e.g toilet paper)) : 1 meaning(s), 2 sentences
 - `yt-c04-012` : สอด (to insert in, to slip into (an object, usually a small space)) : 1 meaning(s), 2 sentences
 - `yt-c04-013` : ชุบ (to coat (e.g in liquid), to dip, to soak) : 1 meaning(s), 2 sentences
+- `yt-c04-014` : ต้นแขน (upper arm) : 1 meaning(s), 2 sentences
+- `yt-c04-015` : สำนึก (to realize, to become aware) : 1 meaning(s), 2 sentences
+- `yt-c04-016` : ลักษณะนิสัย (characteristics of one's personality, character traits) : 1 meaning(s), 2 sentences
 - `yt-c04-019` : ปาด (to swipe, to wipe, to cut across (quick motion)) : 1 meaning(s), 2 sentences
+- `yt-c04-020` : ปาดหน้า (to cut in line, to cut in front, to overtake in a dangerous way (in traffic when driving)) : 1 meaning(s), 2 sentences
+- `yt-c04-021` : ความอึดอัดใจ (embarrassment, discomfort) : 1 meaning(s), 2 sentences
 - `yt-c04-022` : ละเอียดอ่อน (delicate, sensitive) : 1 meaning(s), 2 sentences
 - `yt-c04-026` : ทดสอบ (to check, test, evaluate, experiment) : 1 meaning(s), 2 sentences
+- `yt-c04-027` : เป็นตัวของตัวเอง (to be oneself ("be myself", "be yourself")) : 1 meaning(s), 2 sentences
 - `yt-c04-037` : อ้อม (curved, indirect, roundabout) : 1 meaning(s), 2 sentences
 - `yt-c04-038` : นิ่ม (soft, silky, gentle) : 1 meaning(s), 2 sentences
 - `yt-c04-039` : คำชม (compliment) : 1 meaning(s), 2 sentences
+- `yt-c04-046` : ได้อยู่ ("not bad", "good enough", "not great not terrible") : 1 meaning(s), 2 sentences
 - `yt-c04-047` : หยด (to drop (water, tear), to drip) : 1 meaning(s), 2 sentences
+- `yt-c04-048` : เข็ดแล้ว ("I've learned my lesson", "never again") : 1 meaning(s), 2 sentences
+- `yt-c04-055` : กิจการ (business, enterprise) : 1 meaning(s), 2 sentences
 - `yt-c04-056` : ตาชั่ง (balance, weighting scale) : 1 meaning(s), 2 sentences
+- `yt-c04-060` : ริน (to pour gently, to pour slowly) : 1 meaning(s), 2 sentences
 - `yt-c04-081` : กระบะ (container, tray (e.g at airport security)) : 1 meaning(s), 2 sentences
 - `yt-c04-082` : สะพาย (to carry over the shoulder (e.g a bag)) : 1 meaning(s), 2 sentences
 - `yt-c04-083` : กระเป๋าสะพาย (shoulder bag) : 1 meaning(s), 2 sentences
