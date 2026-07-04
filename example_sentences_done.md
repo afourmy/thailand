@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4763 words**
+**Total: 4773 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2033,18 +2033,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-639` : คูคลอง (canals, waterways) : 1 meaning(s), 2 sentences
 - `tsl-644` : ค้นคว้า (to research, to study, to investigate) : 1 meaning(s), 2 sentences
 - `tsl-645` : สร้างเสริม (to build up, to strengthen, to enhance) : 1 meaning(s), 2 sentences
+- `tsl-647` : โรคภัย, โรคภัยไข้เจ็บ (illness, disease (general term)) : 1 meaning(s), 2 sentences
+- `thaipod-0003` : กฎมีไว้ให้ฝ่าฝืน ("rules are made to be broken") : 1 meaning(s), 2 sentences
+- `thaipod-0004` : กฎหมาย (law) : 1 meaning(s), 2 sentences
 - `thaipod-0009` : กระจัดกระจาย (scattered, spread out) : 1 meaning(s), 2 sentences
 - `thaipod-0013` : กระตุ้น (to stimulate, to urge) : 1 meaning(s), 2 sentences
+- `thaipod-0014` : กระทง (krathong (small decorated float made from banana leaves, flowers, candles for Loy Krathong festival)) : 1 meaning(s), 2 sentences
 - `thaipod-0016` : กระเช้าของขวัญ (gift basket) : 1 meaning(s), 2 sentences
 - `thaipod-0018` : กระเบื้อง (tile) : 1 meaning(s), 2 sentences
 - `thaipod-0021` : กระโปรง (skirt) : 1 meaning(s), 2 sentences
 - `thaipod-0022` : กรุง (capital city) : 1 meaning(s), 2 sentences
 - `thaipod-0024` : กลับหัว (upside down) : 1 meaning(s), 2 sentences
+- `thaipod-0028` : กล่าวหา (to accuse, to allege, to charge) : 1 meaning(s), 2 sentences
+- `thaipod-0029` : กล้วยไม้ (orchid) : 1 meaning(s), 2 sentences
 - `thaipod-0030` : กล้า (brave; to dare) : 2 meaning(s), 4 sentences
 - `thaipod-0031` : กว้างใหญ่ (vast, expansive) : 1 meaning(s), 2 sentences
 - `thaipod-0032` : กว้างไกล (far and wide, far-reaching) : 1 meaning(s), 2 sentences
+- `thaipod-0033` : กษัตริย์ (king) : 1 meaning(s), 2 sentences
 - `thaipod-0034` : กอง (pile, heap; division (e.g army)) : 2 meaning(s), 4 sentences
 - `thaipod-0038` : กองไฟ (bonfire, pile of fire) : 1 meaning(s), 2 sentences
+- `thaipod-0042` : กันแน่ ("... really?", "for sure?" (in questions, when seeking clarification)) : 1 meaning(s), 2 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences
 - `thaipod-0047` : การขยายตัว (expansion) : 1 meaning(s), 2 sentences
 - `thaipod-0055` : การจัดการ (management, organization, setup) : 1 meaning(s), 2 sentences
@@ -2056,8 +2064,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0085` : การเปิดใช้ (activation, putting into use) : 1 meaning(s), 2 sentences
 - `thaipod-0089` : การเล่าเรื่อง (storytelling) : 1 meaning(s), 2 sentences
 - `thaipod-0093` : การแสดง (performance, acting) : 1 meaning(s), 2 sentences
+- `thaipod-0099` : กำลังกาย (physical strength) : 1 meaning(s), 2 sentences
 - `thaipod-0100` : กำหนด (to determine, to set, to specify) : 1 meaning(s), 2 sentences
 - `thaipod-0101` : กำหนดขึ้น (established, set up) : 1 meaning(s), 2 sentences
+- `thaipod-0107` : ก็ว่าได้ ("you could say that...", "one could say", "roughly speaking") : 1 meaning(s), 2 sentences
 - `thaipod-0108` : ก่อ (to form, to produce, to cause) : 1 meaning(s), 2 sentences
 - `thaipod-0109` : ก่อตั้ง (to found, to establish) : 1 meaning(s), 2 sentences
 - `thaipod-0111` : ก้าวขึ้น (to step up, to ascend) : 1 meaning(s), 2 sentences
