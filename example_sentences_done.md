@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4853 words**
+**Total: 4863 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2332,26 +2332,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0648` : พระจันทร์เสี้ยว (crescent moon) : 1 meaning(s), 2 sentences
 - `thaipod-0673` : พระพุทธรูป (Buddha image, Buddha statue) : 1 meaning(s), 2 sentences
 - `thaipod-0675` : พระพุทธเจ้า (the Buddha) : 1 meaning(s), 2 sentences
+- `thaipod-0705` : พระเจ้า (god) : 1 meaning(s), 2 sentences
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
+- `thaipod-0717` : พร้อมกับ (along with, simultaneously with) : 1 meaning(s), 2 sentences
+- `thaipod-0718` : พร้อมทั้ง (as well as, along with, together with) : 1 meaning(s), 2 sentences
 - `thaipod-0721` : พวก (group, bunch (of people)) : 1 meaning(s), 2 sentences
 - `thaipod-0722` : พอง (swollen, inflated, puffed up) : 1 meaning(s), 2 sentences
 - `thaipod-0723` : พอสมควร (reasonable, moderate, fairly) : 1 meaning(s), 2 sentences
+- `thaipod-0724` : พอๆ กับ (about the same as, roughly equal to) : 1 meaning(s), 2 sentences
 - `thaipod-0725` : พัฒนา (to develop) : 1 meaning(s), 2 sentences
 - `thaipod-0727` : พับขา (to sit cross-legged, rolled up legs) : 1 meaning(s), 2 sentences
+- `thaipod-0728` : พากัน (all together, collectively) : 1 meaning(s), 2 sentences
 - `thaipod-0729` : พิจารณา (to consider, to examine) : 1 meaning(s), 2 sentences
+- `thaipod-0730` : พิธี, พิธีกรรม (rite, ceremony, ritual) : 1 meaning(s), 2 sentences
 - `thaipod-0733` : พิสูจน์ (to prove) : 1 meaning(s), 2 sentences
 - `thaipod-0735` : พื้นฐาน (foundation, basic, fundamental) : 1 meaning(s), 2 sentences
 - `thaipod-0736` : พื้นที่ (area, space) : 1 meaning(s), 2 sentences
 - `thaipod-0737` : พื้นเมือง (native, indigenous, local) : 1 meaning(s), 2 sentences
+- `thaipod-0738` : พุทธศาสนา, ศาสนาพุทธ (Buddhism) : 1 meaning(s), 2 sentences
 - `thaipod-0741` : พ่ายแพ้ (to be defeated, to lose (battle, war)) : 1 meaning(s), 2 sentences
+- `thaipod-0742` : พ้น (free from, out of (e.g danger, trouble); beyond, past) : 2 meaning(s), 4 sentences
 - `thaipod-0743` : ฟัน (tooth, teeth; to cut, to slash, to chop) : 2 meaning(s), 4 sentences
 - `thaipod-0744` : ฟื้นฟู (to restore, to revive, to rehabilitate) : 1 meaning(s), 2 sentences
 - `thaipod-0748` : ภาพประกอบ (illustration, diagram) : 1 meaning(s), 2 sentences
 - `thaipod-0753` : ภายนอก (exterior, outside) : 1 meaning(s), 2 sentences
 - `thaipod-0757` : ภูมิใจ (proud of) : 1 meaning(s), 2 sentences
 - `thaipod-0764` : มรดก (inheritance, heritage, legacy) : 1 meaning(s), 2 sentences
+- `thaipod-0766` : มรสุม (monsoon) : 1 meaning(s), 2 sentences
 - `thaipod-0772` : มัธยม (secondary school (age 12-17)) : 1 meaning(s), 2 sentences
 - `thaipod-0773` : มั่นคง (stable, secure, steady) : 1 meaning(s), 2 sentences
+- `thaipod-0776` : มากพอๆ กัน (about equally many, roughly the same amount) : 1 meaning(s), 2 sentences
 - `thaipod-0777` : มากมาย (many, plenty, abundant) : 1 meaning(s), 2 sentences
 - `thaipod-0782` : มือใหม่ (beginner, novice) : 1 meaning(s), 2 sentences
 - `thaipod-0783` : มุ่งหวัง (to aim for, to hope for) : 1 meaning(s), 2 sentences

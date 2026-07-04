@@ -89676,6 +89676,25 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "god",
+        "sentences": [
+          {
+            "thai": "ชาวคริสต์เชื่อในพระเจ้า",
+            "en": "Christians believe in God.",
+            "audio_src": "ชาวคริสต์เชื่อในพระเจ้า",
+            "audio_en_src": "Christians believe in God."
+          },
+          {
+            "thai": "เขาสวดมนต์ขอพรจากพระเจ้า",
+            "en": "He prays to God for blessings.",
+            "audio_src": "เขาสวดมนต์ขอพรจากพระเจ้า",
+            "audio_en_src": "He prays to God for blessings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -89842,6 +89861,25 @@
       "Thaipod101",
       "Thai 4000",
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "along with, simultaneously with",
+        "sentences": [
+          {
+            "thai": "เธอเดินเข้ามาพร้อมกับรอยยิ้ม",
+            "en": "She walked in with a smile.",
+            "audio_src": "เธอเดินเข้ามาพร้อมกับรอยยิ้ม",
+            "audio_en_src": "She walked in with a smile."
+          },
+          {
+            "thai": "เขายื่นใบลาออกพร้อมกับคำขอโทษ",
+            "en": "He handed in his resignation along with an apology.",
+            "audio_src": "เขายื่นใบลาออกพร้อมกับคำขอโทษ",
+            "audio_en_src": "He handed in his resignation along with an apology."
+          }
+        ]
+      }
     ]
   },
   {
@@ -89853,6 +89891,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "as well as, along with, together with",
+        "sentences": [
+          {
+            "thai": "เขาส่งรายงานพร้อมทั้งเอกสารประกอบ",
+            "en": "He submitted the report along with the supporting documents.",
+            "audio_src": "เขาส่งรายงานพร้อมทั้งเอกสารประกอบ",
+            "audio_en_src": "He submitted the report along with the supporting documents."
+          },
+          {
+            "thai": "โรงแรมมีอาหารเช้าพร้อมทั้งบริการรับส่ง",
+            "en": "The hotel offers breakfast as well as a shuttle service.",
+            "audio_src": "โรงแรมมีอาหารเช้าพร้อมทั้งบริการรับส่ง",
+            "audio_en_src": "The hotel offers breakfast as well as a shuttle service."
+          }
+        ]
+      }
     ]
   },
   {
@@ -89984,6 +90041,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "about the same as, roughly equal to",
+        "sentences": [
+          {
+            "thai": "ราคาพอๆกับร้านข้างๆ",
+            "en": "The price is about the same as the shop next door.",
+            "audio_src": "ราคาพอๆกับร้านข้างๆ",
+            "audio_en_src": "The price is about the same as the shop next door."
+          },
+          {
+            "thai": "เขาสูงพอๆกับพี่ชาย",
+            "en": "He's about as tall as his older brother.",
+            "audio_src": "เขาสูงพอๆกับพี่ชาย",
+            "audio_en_src": "He's about as tall as his older brother."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90070,6 +90146,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "all together, collectively",
+        "sentences": [
+          {
+            "thai": "พอฝนตกทุกคนพากันวิ่งหลบ",
+            "en": "When it started raining everyone ran for cover together.",
+            "audio_src": "พอฝนตกทุกคนพากันวิ่งหลบ",
+            "audio_en_src": "When it started raining everyone ran for cover together."
+          },
+          {
+            "thai": "เด็กๆพากันหัวเราะเสียงดัง",
+            "en": "The kids all burst out laughing together.",
+            "audio_src": "เด็กๆพากันหัวเราะเสียงดัง",
+            "audio_en_src": "The kids all burst out laughing together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90116,6 +90211,25 @@
       "YouTube",
       "Thai 4000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "rite, ceremony, ritual",
+        "sentences": [
+          {
+            "thai": "พิธีแต่งงานจัดขึ้นที่โรงแรม",
+            "en": "The wedding ceremony was held at a hotel.",
+            "audio_src": "พิธีแต่งงานจัดขึ้นที่โรงแรม",
+            "audio_en_src": "The wedding ceremony was held at a hotel."
+          },
+          {
+            "thai": "พิธีกรรมทางศาสนามีความศักดิ์สิทธิ์",
+            "en": "Religious rituals are sacred.",
+            "audio_src": "พิธีกรรมทางศาสนามีความศักดิ์สิทธิ์",
+            "audio_en_src": "Religious rituals are sacred."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90279,6 +90393,25 @@
       "Thaipod101",
       "Thai 4000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhism",
+        "sentences": [
+          {
+            "thai": "คนไทยส่วนใหญ่นับถือพุทธศาสนา",
+            "en": "Most Thai people practice Buddhism.",
+            "audio_src": "คนไทยส่วนใหญ่นับถือพุทธศาสนา",
+            "audio_en_src": "Most Thai people practice Buddhism."
+          },
+          {
+            "thai": "ศาสนาพุทธสอนเรื่องการปล่อยวาง",
+            "en": "Buddhism teaches about letting go.",
+            "audio_src": "ศาสนาพุทธสอนเรื่องการปล่อยวาง",
+            "audio_en_src": "Buddhism teaches about letting go."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90343,6 +90476,42 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "free from, out of (e.g danger, trouble)",
+        "sentences": [
+          {
+            "thai": "ในที่สุดเขาก็พ้นจากอันตราย",
+            "en": "In the end he was out of danger.",
+            "audio_src": "ในที่สุดเขาก็พ้นจากอันตราย",
+            "audio_en_src": "In the end he was out of danger."
+          },
+          {
+            "thai": "เธอพ้นโทษออกจากคุกแล้ว",
+            "en": "She's finished her sentence and is out of prison.",
+            "audio_src": "เธอพ้นโทษออกจากคุกแล้ว",
+            "audio_en_src": "She's finished her sentence and is out of prison."
+          }
+        ]
+      },
+      {
+        "meaning": "beyond, past",
+        "sentences": [
+          {
+            "thai": "รถวิ่งพ้นสะพานไปแล้ว",
+            "en": "The car has already gone past the bridge.",
+            "audio_src": "รถวิ่งพ้นสะพานไปแล้ว",
+            "audio_en_src": "The car has already gone past the bridge."
+          },
+          {
+            "thai": "ดวงอาทิตย์ขึ้นพ้นขอบฟ้า",
+            "en": "The sun rose above the horizon.",
+            "audio_src": "ดวงอาทิตย์ขึ้นพ้นขอบฟ้า",
+            "audio_en_src": "The sun rose above the horizon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90705,6 +90874,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "monsoon",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้เข้าฤดูมรสุมฝนตกทุกวัน",
+            "en": "It's monsoon season now, so it rains every day.",
+            "audio_src": "ช่วงนี้เข้าฤดูมรสุมฝนตกทุกวัน",
+            "audio_en_src": "It's monsoon season now, so it rains every day."
+          },
+          {
+            "thai": "เรือประมงงดออกเรือเพราะมรสุม",
+            "en": "The fishing boats stayed in port because of the monsoon.",
+            "audio_src": "เรือประมงงดออกเรือเพราะมรสุม",
+            "audio_en_src": "The fishing boats stayed in port because of the monsoon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90823,6 +91011,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "about equally many, roughly the same amount",
+        "sentences": [
+          {
+            "thai": "คนชอบทั้งสองทีมมากพอๆกัน",
+            "en": "People like both teams about equally.",
+            "audio_src": "คนชอบทั้งสองทีมมากพอๆกัน",
+            "audio_en_src": "People like both teams about equally."
+          },
+          {
+            "thai": "งานสองที่นี้จ่ายเงินมากพอๆกัน",
+            "en": "These two jobs pay about the same.",
+            "audio_src": "งานสองที่นี้จ่ายเงินมากพอๆกัน",
+            "audio_en_src": "These two jobs pay about the same."
+          }
+        ]
+      }
     ]
   },
   {
