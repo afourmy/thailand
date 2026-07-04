@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4603 words**
+**Total: 4613 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1621,13 +1621,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-835` : คนรักเพศเดียวกัน (homosexual person (literally one who loves the same sex)) : 1 meaning(s), 2 sentences
 - `tamago-l3-836` : ความนับถือตัวเอง (self-esteem) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
+- `tamago-l3-839` : กล้าๆกลัวๆ (hesitant, "half wanting, half afraid") : 1 meaning(s), 2 sentences
+- `tamago-l3-840` : เอะอะโวยวาย (to shout and make a fuss, to throw a tantrum) : 1 meaning(s), 2 sentences
+- `tamago-l3-842` : โบสถ์ (church, Buddhist temple ordination hall) : 1 meaning(s), 2 sentences
 - `tamago-l3-843` : เดินกะเผลก (to limp, to walk with a limp) : 1 meaning(s), 2 sentences
+- `tamago-l3-845` : สุ่มสี่สุ่มห้า (recklessly, without thinking, haphazardly) : 1 meaning(s), 2 sentences
 - `tamago-l3-847` : สู้ (to fight; "might as well", "wouldn't it be better if") : 2 meaning(s), 4 sentences
 - `tamago-l3-848` : บ้านจน (poor family, poor household) : 1 meaning(s), 2 sentences
 - `tamago-l3-849` : โสเภณี (prostitute) : 1 meaning(s), 2 sentences
+- `tamago-l3-850` : แพะรับบาป (scapegoat) : 1 meaning(s), 2 sentences
+- `tamago-l3-851` : ติดคุกฟรี (to go to jail for no reason) : 1 meaning(s), 2 sentences
 - `tamago-l3-852` : ลำพัง (alone, by oneself) : 1 meaning(s), 2 sentences
+- `tamago-l3-853` : ทีอย่างนี้ ("in a situation like this", "when it comes to this") : 1 meaning(s), 2 sentences
+- `tamago-l3-855` : เอาตัวเองให้รอด (to survive on one's own, to make it out alive) : 1 meaning(s), 2 sentences
+- `tamago-l3-857` : ขยะแขยง (disgusted, repulsed) : 1 meaning(s), 2 sentences
 - `tamago-l3-858` : ทำท่า (to pretend, to act like, to make a gesture (as if)) : 1 meaning(s), 2 sentences
 - `tamago-l3-859` : สยอง (horrible, terrifying, gruesome) : 1 meaning(s), 2 sentences
+- `tamago-l3-860` : เป็นที่เป็นทาง (orderly, well-arranged, in the right place, in proper order) : 1 meaning(s), 2 sentences
 - `tamago-l3-864` : อาชีพเสริม (side job, part-time work) : 1 meaning(s), 2 sentences
 - `tamago-l3-866` : คำสอน (teachings (religious or moral)) : 1 meaning(s), 2 sentences
 - `tamago-l3-870` : นอนค้าง (to stay overnight, to sleep over at someone's house) : 1 meaning(s), 2 sentences
