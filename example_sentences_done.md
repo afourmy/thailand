@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4713 words**
+**Total: 4723 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1889,10 +1889,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-397` : ประกาย (spark, glimmer, gleam, to sparkle) : 1 meaning(s), 2 sentences
 - `tsl-398` : อนุรักษ์ (to preserve, to conserve) : 1 meaning(s), 2 sentences
 - `tsl-399` : ใช้สอย (to utilize, to consume for practical purposes) : 1 meaning(s), 2 sentences
+- `tsl-401` : เศรษฐกิจพอเพียง (sufficiency economy (King Bhumibol's philosophy of moderation and self-reliance)) : 1 meaning(s), 2 sentences
+- `tsl-402` : สุจริต (honest, ethical, upright, morally correct) : 1 meaning(s), 2 sentences
 - `tsl-403` : อภิปราย (to debate, to discuss) : 1 meaning(s), 2 sentences
 - `tsl-404` : แสวง, แสวงหา (to seek, to pursue (formal)) : 1 meaning(s), 2 sentences
+- `tsl-406` : อุปนิสัย, อุปนิสัยใจ (temperament, character, disposition) : 1 meaning(s), 2 sentences
+- `tsl-408` : จารีตประเพณี (customs and traditions) : 1 meaning(s), 2 sentences
+- `tsl-411` : ญาติมิตร (relatives and close friends) : 1 meaning(s), 2 sentences
+- `tsl-412` : ความอ่อนน้อมถ่อมตน (humility, modesty, deference) : 1 meaning(s), 2 sentences
 - `tsl-414` : ท่าที (attitude, stance, gesture) : 1 meaning(s), 2 sentences
 - `tsl-416` : กิริยา (behavior, manner, conduct) : 1 meaning(s), 2 sentences
+- `tsl-419` : ถนอมน้ำใจ (to spare someone's feelings, to be considerate) : 1 meaning(s), 2 sentences
 - `tsl-422` : เฉพาะหน้า (immediate, on-the-spot, in the moment) : 1 meaning(s), 2 sentences
 - `tsl-425` : ไพเราะ (melodious, beautiful-sounding) : 1 meaning(s), 2 sentences
 - `tsl-427` : วาจาสุภาพ (polite speech) : 1 meaning(s), 2 sentences
@@ -1900,7 +1907,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-431` : ลึกซึ้ง (deep, profound) : 1 meaning(s), 2 sentences
 - `tsl-432` : ปรัชญา (philosophy) : 1 meaning(s), 2 sentences
 - `tsl-433` : แนวทาง (guideline, approach) : 1 meaning(s), 2 sentences
+- `tsl-434` : สุขกายสบายใจ (physically well and mentally at ease) : 1 meaning(s), 2 sentences
+- `tsl-435` : ตำรับ (recipe (food), formula (medicine)) : 1 meaning(s), 4 sentences
 - `tsl-437` : ล้ำค่า (precious, priceless, invaluable) : 1 meaning(s), 2 sentences
+- `tsl-439` : ย่อยสลาย (to decompose, to break down, to biodegrade) : 1 meaning(s), 2 sentences
 - `tsl-440` : ละเว้น (to refrain from, to abstain from) : 1 meaning(s), 2 sentences
 - `tsl-445` : ถอนหายใจ (to sigh) : 1 meaning(s), 2 sentences
 - `tsl-451` : หวีด (to shriek, to scream (high-pitched)) : 1 meaning(s), 2 sentences
