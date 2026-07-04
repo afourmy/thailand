@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4803 words**
+**Total: 4813 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2164,6 +2164,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0306` : ญาติผู้ใหญ่ (elders, elderly relatives) : 1 meaning(s), 2 sentences
 - `thaipod-0307` : ฐาน (base, pedestal) : 1 meaning(s), 2 sentences
 - `thaipod-0309` : ณ (at, in (formal preposition)) : 1 meaning(s), 2 sentences
+- `thaipod-0312` : ดอกบัว (lotus flower) : 1 meaning(s), 2 sentences
+- `thaipod-0315` : ดังกล่าว (aforementioned, mentioned above) : 1 meaning(s), 2 sentences
+- `thaipod-0316` : ดังจะเห็นได้จาก (as can be seen from) : 1 meaning(s), 2 sentences
 - `thaipod-0317` : ดัด (to bend, to straighten (e.g hair, posture)) : 1 meaning(s), 2 sentences
 - `thaipod-0319` : ดารานำชาย (male lead actor) : 1 meaning(s), 2 sentences
 - `thaipod-0320` : ดารานำแสดง (lead actor) : 1 meaning(s), 2 sentences
@@ -2171,16 +2174,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0322` : ดำน้ำลึก (scuba diving) : 1 meaning(s), 2 sentences
 - `thaipod-0323` : ดำเนิน (to proceed, to go on, to carry on) : 1 meaning(s), 2 sentences
 - `thaipod-0326` : ดินแดน (land, territory) : 1 meaning(s), 2 sentences
+- `thaipod-0327` : ดิบ (raw, uncooked) : 1 meaning(s), 2 sentences
 - `thaipod-0328` : ดีด (to pluck, to strum, to flick) : 1 meaning(s), 2 sentences
 - `thaipod-0333` : ด่าน (checkpoint, border control, toll booth) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
 - `thaipod-0337` : ด้วยดี (amicably, peacefully, without troubles, on good terms) : 1 meaning(s), 2 sentences
+- `thaipod-0338` : ด้วยเหตุนี้ (for this reason, therefore) : 1 meaning(s), 2 sentences
 - `thaipod-0339` : ด้าน (side, field, area, aspect) : 1 meaning(s), 3 sentences
 - `thaipod-0341` : ด้านเหนือ (north side) : 1 meaning(s), 2 sentences
 - `thaipod-0342` : ด้าม (handle (of a tool, knife)) : 1 meaning(s), 2 sentences
 - `thaipod-0344` : ตบแต่ง (to decorate, to adorn, to dress up) : 1 meaning(s), 2 sentences
 - `thaipod-0345` : ตรงกลาง (in the middle, center) : 1 meaning(s), 2 sentences
 - `thaipod-0346` : ตรงกับ (to match with, to coincide with) : 1 meaning(s), 2 sentences
+- `thaipod-0351` : ตอนต้น (beginning, early stage, initial period) : 1 meaning(s), 2 sentences
 - `thaipod-0352` : ตอนบน (upper part) : 1 meaning(s), 2 sentences
 - `thaipod-0353` : ตอนล่าง (lower part) : 1 meaning(s), 2 sentences
 - `thaipod-0356` : ตัดกับ (to contrast with, to clash with) : 1 meaning(s), 2 sentences
@@ -2191,8 +2197,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0367` : ตาม (to follow; along) : 2 meaning(s), 4 sentences
 - `thaipod-0368` : ตามตัวอักษร (literally, word-for-word) : 1 meaning(s), 2 sentences
 - `thaipod-0369` : ตามหา (to look for, to search for) : 1 meaning(s), 2 sentences
+- `thaipod-0370` : ตามๆกันมา (to follow each other, to come after in sequence) : 1 meaning(s), 2 sentences
 - `thaipod-0371` : ตำนาน (legend) : 1 meaning(s), 2 sentences
 - `thaipod-0373` : ติดกัน (adjacent, next to each other) : 1 meaning(s), 2 sentences
+- `thaipod-0374` : ติดปาก (popularly used, catchy (phrase that spreads and becomes commonly used in society)) : 1 meaning(s), 2 sentences
 - `thaipod-0375` : ตีความ, ตีความหมาย (to interpret, to analyze) : 1 meaning(s), 2 sentences
 - `thaipod-0378` : ตุ๊กตา (doll) : 1 meaning(s), 2 sentences
 - `thaipod-0380` : ตุ๊กตาหมี (teddy bear) : 1 meaning(s), 2 sentences
@@ -2204,6 +2212,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0388` : ต้นกำเนิด (origin, source) : 1 meaning(s), 2 sentences
 - `thaipod-0391` : ต้นแบบ (model, prototype) : 1 meaning(s), 2 sentences
 - `thaipod-0394` : ถิ่น (region, habitat, native place) : 1 meaning(s), 2 sentences
+- `thaipod-0398` : แม้ว่า, ถึงแม้ว่า (although, even though) : 1 meaning(s), 2 sentences
+- `thaipod-0399` : จัดว่า, ถือว่า, ถือเป็น ("is considered", "is regarded as") : 1 meaning(s), 2 sentences
 - `thaipod-0415` : ทอดทิ้ง (to forsake, to abandon, to neglect) : 1 meaning(s), 2 sentences
 - `thaipod-0422` : ทัน (in time, to catch up) : 1 meaning(s), 2 sentences
 - `thaipod-0426` : ทั่วโลก (worldwide, around the world) : 1 meaning(s), 2 sentences

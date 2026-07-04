@@ -82585,6 +82585,25 @@
       "Thaipod101",
       "Anki Basics",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "lotus flower",
+        "sentences": [
+          {
+            "thai": "เขาถือดอกบัวไปไหว้พระ",
+            "en": "He took a lotus flower to pay respects at the temple.",
+            "audio_src": "เขาถือดอกบัวไปไหว้พระ",
+            "audio_en_src": "He took a lotus flower to pay respects at the temple."
+          },
+          {
+            "thai": "ดอกบัวบานอยู่กลางสระ",
+            "en": "Lotus flowers are blooming in the middle of the pond.",
+            "audio_src": "ดอกบัวบานอยู่กลางสระ",
+            "audio_en_src": "Lotus flowers are blooming in the middle of the pond."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82616,6 +82635,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "aforementioned, mentioned above",
+        "sentences": [
+          {
+            "thai": "บริษัทดังกล่าวปิดกิจการไปแล้ว",
+            "en": "The aforementioned company has shut down.",
+            "audio_src": "บริษัทดังกล่าวปิดกิจการไปแล้ว",
+            "audio_en_src": "The aforementioned company has shut down."
+          },
+          {
+            "thai": "เหตุการณ์ดังกล่าวเกิดขึ้นเมื่อวานนี้",
+            "en": "The incident mentioned above happened yesterday.",
+            "audio_src": "เหตุการณ์ดังกล่าวเกิดขึ้นเมื่อวานนี้",
+            "audio_en_src": "The incident mentioned above happened yesterday."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82626,6 +82664,25 @@
     "topic": "grammar",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "as can be seen from",
+        "sentences": [
+          {
+            "thai": "เขาขยันมาก ดังจะเห็นได้จากผลงานที่ออกมา",
+            "en": "He's very hardworking, as can be seen from the results he produces.",
+            "audio_src": "เขาขยันมาก ดังจะเห็นได้จากผลงานที่ออกมา",
+            "audio_en_src": "He's very hardworking, as can be seen from the results he produces."
+          },
+          {
+            "thai": "เศรษฐกิจกำลังฟื้นตัว ดังจะเห็นได้จากยอดขายที่เพิ่มขึ้น",
+            "en": "The economy is recovering, as can be seen from the rising sales.",
+            "audio_src": "เศรษฐกิจกำลังฟื้นตัว ดังจะเห็นได้จากยอดขายที่เพิ่มขึ้น",
+            "audio_en_src": "The economy is recovering, as can be seen from the rising sales."
+          }
+        ]
+      }
     ]
   },
   {
@@ -82881,6 +82938,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "raw, uncooked",
+        "sentences": [
+          {
+            "thai": "ปลาดิบต้องสดมากถึงจะกินได้",
+            "en": "Raw fish has to be very fresh to be safe to eat.",
+            "audio_src": "ปลาดิบต้องสดมากถึงจะกินได้",
+            "audio_en_src": "Raw fish has to be very fresh to be safe to eat."
+          },
+          {
+            "thai": "เนื้อยังดิบอยู่ ต้องย่างต่ออีกหน่อย",
+            "en": "The meat is still raw, it needs a bit more grilling.",
+            "audio_src": "เนื้อยังดิบอยู่ ต้องย่างต่ออีกหน่อย",
+            "audio_en_src": "The meat is still raw, it needs a bit more grilling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83061,6 +83137,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "for this reason, therefore",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนัก ด้วยเหตุนี้การแข่งขันจึงถูกเลื่อน",
+            "en": "It rained heavily, and for this reason the match was postponed.",
+            "audio_src": "ฝนตกหนัก ด้วยเหตุนี้การแข่งขันจึงถูกเลื่อน",
+            "audio_en_src": "It rained heavily, and for this reason the match was postponed."
+          },
+          {
+            "thai": "เขามาสาย ด้วยเหตุนี้จึงพลาดการประชุม",
+            "en": "He arrived late, therefore he missed the meeting.",
+            "audio_src": "เขามาสาย ด้วยเหตุนี้จึงพลาดการประชุม",
+            "audio_en_src": "He arrived late, therefore he missed the meeting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83296,6 +83391,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "beginning, early stage, initial period",
+        "sentences": [
+          {
+            "thai": "ตอนต้นเรื่องยังไม่ค่อยสนุก",
+            "en": "The beginning of the story isn't very exciting yet.",
+            "audio_src": "ตอนต้นเรื่องยังไม่ค่อยสนุก",
+            "audio_en_src": "The beginning of the story isn't very exciting yet."
+          },
+          {
+            "thai": "ตอนต้นเดือนเงินยังเหลือเยอะ",
+            "en": "At the start of the month there's still plenty of money left.",
+            "audio_src": "ตอนต้นเดือนเงินยังเหลือเยอะ",
+            "audio_en_src": "At the start of the month there's still plenty of money left."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83694,6 +83808,25 @@
     "topic": "expressions",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to follow each other, to come after in sequence",
+        "sentences": [
+          {
+            "thai": "ลูกเป็ดเดินตามๆกันมาเป็นแถว",
+            "en": "The ducklings walk in a row, one after another.",
+            "audio_src": "ลูกเป็ดเดินตามๆกันมาเป็นแถว",
+            "audio_en_src": "The ducklings walk in a row, one after another."
+          },
+          {
+            "thai": "ประเพณีนี้สืบทอดตามๆกันมาหลายรุ่น",
+            "en": "This tradition has been passed down in succession for many generations.",
+            "audio_src": "ประเพณีนี้สืบทอดตามๆกันมาหลายรุ่น",
+            "audio_en_src": "This tradition has been passed down in succession for many generations."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83769,6 +83902,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "popularly used, catchy (phrase that spreads and becomes commonly used in society)",
+        "sentences": [
+          {
+            "thai": "คำนี้ติดปากวัยรุ่นไปแล้ว",
+            "en": "This word has caught on with teenagers.",
+            "audio_src": "คำนี้ติดปากวัยรุ่นไปแล้ว",
+            "audio_en_src": "This word has caught on with teenagers."
+          },
+          {
+            "thai": "สโลแกนโฆษณาติดปากคนทั้งประเทศ",
+            "en": "The ad slogan became a catchphrase across the whole country.",
+            "audio_src": "สโลแกนโฆษณาติดปากคนทั้งประเทศ",
+            "audio_en_src": "The ad slogan became a catchphrase across the whole country."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84266,6 +84418,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "although, even though",
+        "sentences": [
+          {
+            "thai": "แม้ว่าจะเหนื่อย เขาก็ยังทำงานต่อ",
+            "en": "Even though he was tired, he kept working.",
+            "audio_src": "แม้ว่าจะเหนื่อย เขาก็ยังทำงานต่อ",
+            "audio_en_src": "Even though he was tired, he kept working."
+          },
+          {
+            "thai": "ถึงแม้ว่าฝนจะตก เราก็ยังไปเที่ยว",
+            "en": "Even though it was raining, we still went out.",
+            "audio_src": "ถึงแม้ว่าฝนจะตก เราก็ยังไปเที่ยว",
+            "audio_en_src": "Even though it was raining, we still went out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84277,6 +84448,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"is considered\", \"is regarded as\"",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ถือว่าอร่อยที่สุดในย่านนี้",
+            "en": "This place is considered the best in the neighborhood.",
+            "audio_src": "ร้านนี้ถือว่าอร่อยที่สุดในย่านนี้",
+            "audio_en_src": "This place is considered the best in the neighborhood."
+          },
+          {
+            "thai": "เขาถือเป็นศิลปินที่มีชื่อเสียง",
+            "en": "He is regarded as a famous artist.",
+            "audio_src": "เขาถือเป็นศิลปินที่มีชื่อเสียง",
+            "audio_en_src": "He is regarded as a famous artist."
+          }
+        ]
+      }
     ]
   },
   {
