@@ -116982,6 +116982,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "oyster",
+        "sentences": [
+          {
+            "thai": "ฉันชอบกินหอยนางรมสด",
+            "en": "I love eating raw oysters.",
+            "audio_src": "ฉันชอบกินหอยนางรมสด",
+            "audio_en_src": "I love eating raw oysters."
+          },
+          {
+            "thai": "หอยนางรมที่นี่ตัวใหญ่มาก",
+            "en": "The oysters here are really big.",
+            "audio_src": "หอยนางรมที่นี่ตัวใหญ่มาก",
+            "audio_en_src": "The oysters here are really big."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117634,6 +117653,25 @@
       "Chulalongkorn L6",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "pollution",
+        "sentences": [
+          {
+            "thai": "มลพิษในเมืองใหญ่รุนแรงขึ้นทุกปี",
+            "en": "Pollution in big cities gets worse every year.",
+            "audio_src": "มลพิษในเมืองใหญ่รุนแรงขึ้นทุกปี",
+            "audio_en_src": "Pollution in big cities gets worse every year."
+          },
+          {
+            "thai": "โรงงานปล่อยมลพิษลงในแม่น้ำ",
+            "en": "The factory releases pollution into the river.",
+            "audio_src": "โรงงานปล่อยมลพิษลงในแม่น้ำ",
+            "audio_en_src": "The factory releases pollution into the river."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117644,6 +117682,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "blender",
+        "sentences": [
+          {
+            "thai": "ใช้เครื่องปั่นทำน้ำผลไม้",
+            "en": "Use the blender to make fruit juice.",
+            "audio_src": "ใช้เครื่องปั่นทำน้ำผลไม้",
+            "audio_en_src": "Use the blender to make fruit juice."
+          },
+          {
+            "thai": "เครื่องปั่นเสียอีกแล้ว",
+            "en": "The blender is broken again.",
+            "audio_src": "เครื่องปั่นเสียอีกแล้ว",
+            "audio_en_src": "The blender is broken again."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117718,6 +117775,42 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to season, to adjust the taste",
+        "sentences": [
+          {
+            "thai": "ชิมดูก่อนแล้วค่อยปรุงเพิ่ม",
+            "en": "Taste it first, then season some more.",
+            "audio_src": "ชิมดูก่อนแล้วค่อยปรุงเพิ่ม",
+            "audio_en_src": "Taste it first, then season some more."
+          },
+          {
+            "thai": "แกงนี้ปรุงรสได้กำลังดี",
+            "en": "This curry is seasoned just right.",
+            "audio_src": "แกงนี้ปรุงรสได้กำลังดี",
+            "audio_en_src": "This curry is seasoned just right."
+          }
+        ]
+      },
+      {
+        "meaning": "to cook",
+        "sentences": [
+          {
+            "thai": "แม่กำลังปรุงอาหารอยู่ในครัว",
+            "en": "Mom is cooking in the kitchen.",
+            "audio_src": "แม่กำลังปรุงอาหารอยู่ในครัว",
+            "audio_en_src": "Mom is cooking in the kitchen."
+          },
+          {
+            "thai": "ร้านนี้ปรุงอาหารตามสั่ง",
+            "en": "This restaurant cooks food to order.",
+            "audio_src": "ร้านนี้ปรุงอาหารตามสั่ง",
+            "audio_en_src": "This restaurant cooks food to order."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117728,6 +117821,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "rotten, decayed (food)",
+        "sentences": [
+          {
+            "thai": "ผลไม้ในตู้เย็นเน่าหมดแล้ว",
+            "en": "The fruit in the fridge has all gone rotten.",
+            "audio_src": "ผลไม้ในตู้เย็นเน่าหมดแล้ว",
+            "audio_en_src": "The fruit in the fridge has all gone rotten."
+          },
+          {
+            "thai": "อย่ากินเนื้อที่เน่า",
+            "en": "Don’t eat rotten meat.",
+            "audio_src": "อย่ากินเนื้อที่เน่า",
+            "audio_en_src": "Don’t eat rotten meat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117738,6 +117850,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "spoiled, sour, gone bad (usually liquid)",
+        "sentences": [
+          {
+            "thai": "นมบูดแล้ว อย่าดื่ม",
+            "en": "The milk has gone bad, don’t drink it.",
+            "audio_src": "นมบูดแล้ว อย่าดื่ม",
+            "audio_en_src": "The milk has gone bad, don’t drink it."
+          },
+          {
+            "thai": "ข้าวทิ้งไว้นานจนบูด",
+            "en": "The rice sat out so long it went sour.",
+            "audio_src": "ข้าวทิ้งไว้นานจนบูด",
+            "audio_en_src": "The rice sat out so long it went sour."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117748,6 +117879,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "rice cooker",
+        "sentences": [
+          {
+            "thai": "หุงข้าวในหม้อหุงข้าวง่ายมาก",
+            "en": "Cooking rice in a rice cooker is really easy.",
+            "audio_src": "หุงข้าวในหม้อหุงข้าวง่ายมาก",
+            "audio_en_src": "Cooking rice in a rice cooker is really easy."
+          },
+          {
+            "thai": "หม้อหุงข้าวของเราใบเล็ก",
+            "en": "Our rice cooker is small.",
+            "audio_src": "หม้อหุงข้าวของเราใบเล็ก",
+            "audio_en_src": "Our rice cooker is small."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117809,6 +117959,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "mental strength, willpower",
+        "sentences": [
+          {
+            "thai": "เขามีพลังใจเข้มแข็ง ไม่ยอมแพ้ง่ายๆ",
+            "en": "He has strong willpower and doesn’t give up easily.",
+            "audio_src": "เขามีพลังใจเข้มแข็ง ไม่ยอมแพ้ง่ายๆ",
+            "audio_en_src": "He has strong willpower and doesn’t give up easily."
+          },
+          {
+            "thai": "ต้องใช้พลังใจมากในการเลิกบุหรี่",
+            "en": "It takes a lot of willpower to quit smoking.",
+            "audio_src": "ต้องใช้พลังใจมากในการเลิกบุหรี่",
+            "audio_en_src": "It takes a lot of willpower to quit smoking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -118282,6 +118451,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "dam",
+        "sentences": [
+          {
+            "thai": "เขื่อนนี้ผลิตไฟฟ้าให้ทั้งจังหวัด",
+            "en": "This dam produces electricity for the whole province.",
+            "audio_src": "เขื่อนนี้ผลิตไฟฟ้าให้ทั้งจังหวัด",
+            "audio_en_src": "This dam produces electricity for the whole province."
+          },
+          {
+            "thai": "ฝนตกหนักจนน้ำในเขื่อนเต็ม",
+            "en": "It rained so hard the dam filled up.",
+            "audio_src": "ฝนตกหนักจนน้ำในเขื่อนเต็ม",
+            "audio_en_src": "It rained so hard the dam filled up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -118489,6 +118677,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "antiseptic, disinfectant",
+        "sentences": [
+          {
+            "thai": "ใช้ยาฆ่าเชื้อทำความสะอาดแผล",
+            "en": "Use antiseptic to clean the wound.",
+            "audio_src": "ใช้ยาฆ่าเชื้อทำความสะอาดแผล",
+            "audio_en_src": "Use antiseptic to clean the wound."
+          },
+          {
+            "thai": "เช็ดโต๊ะด้วยยาฆ่าเชื้อ",
+            "en": "Wipe the table with disinfectant.",
+            "audio_src": "เช็ดโต๊ะด้วยยาฆ่าเชื้อ",
+            "audio_en_src": "Wipe the table with disinfectant."
+          }
+        ]
+      }
     ]
   },
   {

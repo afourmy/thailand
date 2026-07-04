@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5063 words**
+**Total: 5073 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3076,6 +3076,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-503` : โปร่งใส (transparent) : 1 meaning(s), 2 sentences
 - `tobo-504` : พี่เลี้ยงเด็ก (babysitter) : 1 meaning(s), 2 sentences
 - `tobo-505` : นกพิราบ (pigeon) : 1 meaning(s), 2 sentences
+- `tobo-506` : หอยนางรม (oyster) : 1 meaning(s), 2 sentences
 - `tobo-509` : รอด, รอดชีวิต (to survive) : 1 meaning(s), 2 sentences
 - `tobo-510` : รหัสผ่าน (password) : 1 meaning(s), 2 sentences
 - `tobo-511` : ที่โกนหนวด, มีดโกน (razor) : 1 meaning(s), 2 sentences
@@ -3091,17 +3092,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-008` : แบ่งปัน (to share with others (e.g food, experience)) : 1 meaning(s), 2 sentences
 - `yt-c01-019` : สัญชาติ (nationality) : 1 meaning(s), 2 sentences
 - `yt-c01-023` : สังสรรค์ (to get together, to socialize) : 1 meaning(s), 2 sentences
+- `yt-c01-024` : มลพิษ, มลภาวะ (pollution) : 1 meaning(s), 2 sentences
+- `yt-c01-025` : เครื่องปั่น (blender) : 1 meaning(s), 2 sentences
 - `yt-c01-026` : เสียบ (to plug in, to insert) : 1 meaning(s), 2 sentences
 - `yt-c01-027` : ปลั๊ก ((electrical) plug) : 1 meaning(s), 2 sentences
+- `yt-c01-028` : ปรุง (to season, to adjust the taste; to cook) : 2 meaning(s), 4 sentences
+- `yt-c01-029` : เน่า (rotten, decayed (food)) : 1 meaning(s), 2 sentences
+- `yt-c01-029b` : บูด (spoiled, sour, gone bad (usually liquid)) : 1 meaning(s), 2 sentences
+- `yt-c01-030` : หม้อหุงข้าว (rice cooker) : 1 meaning(s), 2 sentences
 - `yt-c01-031` : ลำโพง (speaker (music)) : 1 meaning(s), 2 sentences
+- `yt-c01-035` : พลังใจ (mental strength, willpower) : 1 meaning(s), 2 sentences
 - `yt-c01-059` : ดำรง (to hold (e.g a position), to maintain, to preserve) : 1 meaning(s), 2 sentences
 - `yt-c01-061` : ตำแหน่ง (position, job title) : 1 meaning(s), 2 sentences
 - `yt-c01-063` : การกุศล (charity) : 1 meaning(s), 2 sentences
 - `yt-c01-067` : ใช้ประโยชน์ (to take advantage of, to make use of) : 1 meaning(s), 2 sentences
 - `yt-c01-068` : ข้อมูลพื้นฐาน (basic information, fundamental data) : 1 meaning(s), 2 sentences
+- `yt-c01-073` : เขื่อน (dam) : 1 meaning(s), 2 sentences
 - `yt-c01-079` : เกาะติด (to cling to, to stick to) : 1 meaning(s), 2 sentences
 - `yt-c01-080` : สงบลง (to calm down, to settle down (about a situation)) : 1 meaning(s), 2 sentences
 - `yt-c01-083` : ฝึกฝน (to practice, to train) : 1 meaning(s), 2 sentences
+- `yt-c01-088` : ยาฆ่าเชื้อ (antiseptic, disinfectant) : 1 meaning(s), 2 sentences
 - `yt-c01-091` : ตัวเมือง (city center, downtown) : 1 meaning(s), 2 sentences
 - `yt-c01-093` : เลียนแบบ (to imitate, to mimic) : 1 meaning(s), 2 sentences
 - `yt-c01-095` : กล้องวงจรปิด (CCTV) : 1 meaning(s), 2 sentences
