@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4963 words**
+**Total: 4973 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2719,12 +2719,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-061` : ศิลปะ (art) : 1 meaning(s), 2 sentences
 - `tobo-062` : นักดนตรี (musician) : 1 meaning(s), 2 sentences
 - `tobo-063` : วิกฤต (crisis) : 1 meaning(s), 2 sentences
+- `tobo-064` : หญ้า (grass) : 1 meaning(s), 2 sentences
+- `tobo-065` : ภูมิแพ้ (allergy) : 1 meaning(s), 2 sentences
 - `tobo-066` : ติดตาม (to follow) : 1 meaning(s), 2 sentences
+- `tobo-067` : ลมแรง (windy, strong wind) : 1 meaning(s), 2 sentences
 - `tobo-068` : ท้อง (stomach, belly; pregnant) : 2 meaning(s), 4 sentences
+- `tobo-069` : ใบไม้ (leaf) : 1 meaning(s), 2 sentences
 - `tobo-070` : ประธานาธิบดี (president (of a country)) : 1 meaning(s), 2 sentences
 - `tobo-071` : รูปร่าง (shape, figure) : 1 meaning(s), 2 sentences
+- `tobo-072` : ลิ้น (tongue) : 1 meaning(s), 2 sentences
 - `tobo-073` : มะเขือเทศ (tomato) : 1 meaning(s), 2 sentences
+- `tobo-074` : น้ำท่วม (flood) : 1 meaning(s), 2 sentences
+- `tobo-075` : ปีก (wing) : 1 meaning(s), 2 sentences
+- `tobo-076` : แผ่นดินไหว (earthquake) : 1 meaning(s), 2 sentences
+- `tobo-077` : นกแก้ว (parrot) : 1 meaning(s), 2 sentences
 - `tobo-078` : ถอดเสื้อผ้า (to undress) : 1 meaning(s), 2 sentences
+- `tobo-079` : หน้าผาก (forehead) : 1 meaning(s), 2 sentences
 - `tobo-081` : เพดาน (ceiling) : 1 meaning(s), 2 sentences
 - `tobo-083` : อนาคต (future) : 1 meaning(s), 2 sentences
 - `tobo-085` : รายละเอียด (detail(s)) : 1 meaning(s), 2 sentences

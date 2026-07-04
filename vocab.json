@@ -105082,6 +105082,25 @@
       "Anki Basics",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "grass",
+        "sentences": [
+          {
+            "thai": "วัวกินหญ้าอยู่ในทุ่ง",
+            "en": "The cows are eating grass in the field.",
+            "audio_src": "วัวกินหญ้าอยู่ในทุ่ง",
+            "audio_en_src": "The cows are eating grass in the field."
+          },
+          {
+            "thai": "เขาตัดหญ้าหน้าบ้านทุกสัปดาห์",
+            "en": "He mows the grass in front of the house every week.",
+            "audio_src": "เขาตัดหญ้าหน้าบ้านทุกสัปดาห์",
+            "audio_en_src": "He mows the grass in front of the house every week."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105092,6 +105111,25 @@
     "topic": "health",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "allergy",
+        "sentences": [
+          {
+            "thai": "เขาเป็นภูมิแพ้ฝุ่น",
+            "en": "He has a dust allergy.",
+            "audio_src": "เขาเป็นภูมิแพ้ฝุ่น",
+            "audio_en_src": "He has a dust allergy."
+          },
+          {
+            "thai": "อากาศเปลี่ยนทำให้ภูมิแพ้กำเริบ",
+            "en": "The changing weather makes my allergies flare up.",
+            "audio_src": "อากาศเปลี่ยนทำให้ภูมิแพ้กำเริบ",
+            "audio_en_src": "The changing weather makes my allergies flare up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105134,6 +105172,25 @@
     "topic": "weather",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "windy, strong wind",
+        "sentences": [
+          {
+            "thai": "วันนี้ลมแรงจนร่มปลิว",
+            "en": "It's so windy today the umbrella blew away.",
+            "audio_src": "วันนี้ลมแรงจนร่มปลิว",
+            "audio_en_src": "It's so windy today the umbrella blew away."
+          },
+          {
+            "thai": "ลมแรงทำให้ต้นไม้ล้ม",
+            "en": "The strong wind knocked over a tree.",
+            "audio_src": "ลมแรงทำให้ต้นไม้ล้ม",
+            "audio_en_src": "The strong wind knocked over a tree."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105198,6 +105255,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "leaf",
+        "sentences": [
+          {
+            "thai": "ใบไม้ร่วงในฤดูใบไม้ร่วง",
+            "en": "Leaves fall in autumn.",
+            "audio_src": "ใบไม้ร่วงในฤดูใบไม้ร่วง",
+            "audio_en_src": "Leaves fall in autumn."
+          },
+          {
+            "thai": "ลมพัดใบไม้ปลิวว่อน",
+            "en": "The wind blew leaves everywhere.",
+            "audio_src": "ลมพัดใบไม้ปลิวว่อน",
+            "audio_en_src": "The wind blew leaves everywhere."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105275,6 +105351,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tongue",
+        "sentences": [
+          {
+            "thai": "กินของร้อนจนลิ้นพอง",
+            "en": "I ate something so hot it burned my tongue.",
+            "audio_src": "กินของร้อนจนลิ้นพอง",
+            "audio_en_src": "I ate something so hot it burned my tongue."
+          },
+          {
+            "thai": "หมอให้แลบลิ้นออกมาตรวจ",
+            "en": "The doctor asked me to stick out my tongue for a check.",
+            "audio_src": "หมอให้แลบลิ้นออกมาตรวจ",
+            "audio_en_src": "The doctor asked me to stick out my tongue for a check."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105321,6 +105416,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "flood",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักจนน้ำท่วมถนน",
+            "en": "It rained so hard the road flooded.",
+            "audio_src": "ฝนตกหนักจนน้ำท่วมถนน",
+            "audio_en_src": "It rained so hard the road flooded."
+          },
+          {
+            "thai": "หมู่บ้านถูกน้ำท่วมทุกปี",
+            "en": "The village floods every year.",
+            "audio_src": "หมู่บ้านถูกน้ำท่วมทุกปี",
+            "audio_en_src": "The village floods every year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105333,6 +105447,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wing",
+        "sentences": [
+          {
+            "thai": "นกกางปีกบินขึ้นฟ้า",
+            "en": "The bird spread its wings and flew into the sky.",
+            "audio_src": "นกกางปีกบินขึ้นฟ้า",
+            "audio_en_src": "The bird spread its wings and flew into the sky."
+          },
+          {
+            "thai": "ผีเสื้อมีปีกสีสวย",
+            "en": "The butterfly has beautifully colored wings.",
+            "audio_src": "ผีเสื้อมีปีกสีสวย",
+            "audio_en_src": "The butterfly has beautifully colored wings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105343,6 +105476,25 @@
     "topic": "nature",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "earthquake",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนเกิดแผ่นดินไหวขนาดเล็ก",
+            "en": "There was a small earthquake last night.",
+            "audio_src": "เมื่อคืนเกิดแผ่นดินไหวขนาดเล็ก",
+            "audio_en_src": "There was a small earthquake last night."
+          },
+          {
+            "thai": "แผ่นดินไหวทำให้อาคารถล่ม",
+            "en": "The earthquake caused buildings to collapse.",
+            "audio_src": "แผ่นดินไหวทำให้อาคารถล่ม",
+            "audio_en_src": "The earthquake caused buildings to collapse."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105354,6 +105506,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "parrot",
+        "sentences": [
+          {
+            "thai": "นกแก้วพูดเลียนเสียงคนได้",
+            "en": "Parrots can mimic human speech.",
+            "audio_src": "นกแก้วพูดเลียนเสียงคนได้",
+            "audio_en_src": "Parrots can mimic human speech."
+          },
+          {
+            "thai": "เขาเลี้ยงนกแก้วสีเขียวไว้ตัวหนึ่ง",
+            "en": "He keeps a green parrot.",
+            "audio_src": "เขาเลี้ยงนกแก้วสีเขียวไว้ตัวหนึ่ง",
+            "audio_en_src": "He keeps a green parrot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105398,6 +105569,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "forehead",
+        "sentences": [
+          {
+            "thai": "แม่เอามือแตะหน้าผากดูว่าเป็นไข้ไหม",
+            "en": "Mom touched my forehead to see if I had a fever.",
+            "audio_src": "แม่เอามือแตะหน้าผากดูว่าเป็นไข้ไหม",
+            "audio_en_src": "Mom touched my forehead to see if I had a fever."
+          },
+          {
+            "thai": "เขาเหงื่อออกที่หน้าผาก",
+            "en": "He's sweating on his forehead.",
+            "audio_src": "เขาเหงื่อออกที่หน้าผาก",
+            "audio_en_src": "He's sweating on his forehead."
+          }
+        ]
+      }
     ]
   },
   {
