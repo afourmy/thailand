@@ -37871,6 +37871,42 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "probably not, unlikely",
+        "sentences": [
+          {
+            "thai": "วันนี้ไม่น่าฝนตก",
+            "en": "It probably won't rain today.",
+            "audio_src": "วันนี้ไม่น่าฝนตก",
+            "audio_en_src": "It probably won't rain today."
+          },
+          {
+            "thai": "เขาไม่น่ามาหรอก",
+            "en": "He probably won't come.",
+            "audio_src": "เขาไม่น่ามาหรอก",
+            "audio_en_src": "He probably won't come."
+          }
+        ]
+      },
+      {
+        "meaning": "\"shouldn't have\"",
+        "sentences": [
+          {
+            "thai": "ไม่น่ากินเยอะเลย",
+            "en": "I shouldn't have eaten so much.",
+            "audio_src": "ไม่น่ากินเยอะเลย",
+            "audio_en_src": "I shouldn't have eaten so much."
+          },
+          {
+            "thai": "ไม่น่าซื้อเลย แพงมาก",
+            "en": "I shouldn't have bought it, it was so expensive.",
+            "audio_src": "ไม่น่าซื้อเลย แพงมาก",
+            "audio_en_src": "I shouldn't have bought it, it was so expensive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37945,6 +37981,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "not even a little",
+        "sentences": [
+          {
+            "thai": "ฉันไม่กลัวสักนิด",
+            "en": "I'm not scared at all.",
+            "audio_src": "ฉันไม่กลัวสักนิด",
+            "audio_en_src": "I'm not scared at all."
+          },
+          {
+            "thai": "อากาศไม่ร้อนสักนิด",
+            "en": "It's not hot at all.",
+            "audio_src": "อากาศไม่ร้อนสักนิด",
+            "audio_en_src": "It's not hot at all."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37956,6 +38011,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to be irrelevant, to have nothing to do with",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ไม่เกี่ยวกับฉัน",
+            "en": "This has nothing to do with me.",
+            "audio_src": "เรื่องนี้ไม่เกี่ยวกับฉัน",
+            "audio_en_src": "This has nothing to do with me."
+          },
+          {
+            "thai": "สองเรื่องนี้ไม่เกี่ยวกัน",
+            "en": "These two things are unrelated.",
+            "audio_src": "สองเรื่องนี้ไม่เกี่ยวกัน",
+            "audio_en_src": "These two things are unrelated."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37977,6 +38051,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bamboo",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้ทำจากไม้ไผ่",
+            "en": "This house is made of bamboo.",
+            "audio_src": "บ้านหลังนี้ทำจากไม้ไผ่",
+            "audio_en_src": "This house is made of bamboo."
+          },
+          {
+            "thai": "แพนด้ากินไม้ไผ่",
+            "en": "Pandas eat bamboo.",
+            "audio_src": "แพนด้ากินไม้ไผ่",
+            "audio_en_src": "Pandas eat bamboo."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38018,6 +38111,25 @@
     "topic": "grammar",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "grammar",
+        "sentences": [
+          {
+            "thai": "ไวยากรณ์ไทยไม่ยาก",
+            "en": "Thai grammar isn't hard.",
+            "audio_src": "ไวยากรณ์ไทยไม่ยาก",
+            "audio_en_src": "Thai grammar isn't hard."
+          },
+          {
+            "thai": "ฉันสอบไวยากรณ์ตก",
+            "en": "I failed the grammar test.",
+            "audio_src": "ฉันสอบไวยากรณ์ตก",
+            "audio_en_src": "I failed the grammar test."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38080,6 +38192,25 @@
     "topic": "expressions",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"didn't you say...?\", \"you said..., didn't you?\"",
+        "sentences": [
+          {
+            "thai": "ไหนบอกว่าจะมา",
+            "en": "You said you were coming, didn't you?",
+            "audio_src": "ไหนบอกว่าจะมา",
+            "audio_en_src": "You said you were coming, didn't you?"
+          },
+          {
+            "thai": "ไหนบอกว่าไม่ชอบ",
+            "en": "Didn't you say you didn't like it?",
+            "audio_src": "ไหนบอกว่าไม่ชอบ",
+            "audio_en_src": "Didn't you say you didn't like it?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -38090,6 +38221,25 @@
     "topic": "health",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "dental floss",
+        "sentences": [
+          {
+            "thai": "อย่าลืมใช้ไหมขัดฟัน",
+            "en": "Don't forget to use dental floss.",
+            "audio_src": "อย่าลืมใช้ไหมขัดฟัน",
+            "audio_en_src": "Don't forget to use dental floss."
+          },
+          {
+            "thai": "ไหมขัดฟันหมดแล้ว",
+            "en": "We're out of dental floss.",
+            "audio_src": "ไหมขัดฟันหมดแล้ว",
+            "audio_en_src": "We're out of dental floss."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38261,6 +38411,25 @@
       "YouTube",
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "rainbow",
+        "sentences": [
+          {
+            "thai": "ดูสิ มีรุ้งกินน้ำ",
+            "en": "Look, there's a rainbow!",
+            "audio_src": "ดูสิ มีรุ้งกินน้ำ",
+            "audio_en_src": "Look, there's a rainbow!"
+          },
+          {
+            "thai": "รุ้งมีเจ็ดสี",
+            "en": "A rainbow has seven colors.",
+            "audio_src": "รุ้งมีเจ็ดสี",
+            "audio_en_src": "A rainbow has seven colors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38271,6 +38440,25 @@
     "topic": "health",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "nerve",
+        "sentences": [
+          {
+            "thai": "หมอบอกว่าเส้นประสาทถูกกดทับ",
+            "en": "The doctor said it's a pinched nerve.",
+            "audio_src": "หมอบอกว่าเส้นประสาทถูกกดทับ",
+            "audio_en_src": "The doctor said it's a pinched nerve."
+          },
+          {
+            "thai": "ร่างกายมีเส้นประสาทเยอะมาก",
+            "en": "The body has a lot of nerves.",
+            "audio_src": "ร่างกายมีเส้นประสาทเยอะมาก",
+            "audio_en_src": "The body has a lot of nerves."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38315,6 +38503,25 @@
     "sources": [
       "Thai 9000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "mole",
+        "sentences": [
+          {
+            "thai": "เขามีไฝที่แก้ม",
+            "en": "He has a mole on his cheek.",
+            "audio_src": "เขามีไฝที่แก้ม",
+            "audio_en_src": "He has a mole on his cheek."
+          },
+          {
+            "thai": "ฉันอยากลบไฝนี้ออก",
+            "en": "I want to get this mole removed.",
+            "audio_src": "ฉันอยากลบไฝนี้ออก",
+            "audio_en_src": "I want to get this mole removed."
+          }
+        ]
+      }
     ]
   },
   {

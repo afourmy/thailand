@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4333 words**
+**Total: 4343 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -947,14 +947,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-642` : ไม่ก็ (or else, if not, otherwise) : 1 meaning(s), 2 sentences
 - `tamago-l12-642b` : ไม่ ... ก็ ... ("if not ..., then...", "either..., or...") : 1 meaning(s), 2 sentences
 - `tamago-l12-643` : ไม่งั้น (otherwise, if not) : 1 meaning(s), 2 sentences
+- `tamago-l12-644` : ไม่น่า (probably not, unlikely; "shouldn't have") : 2 meaning(s), 4 sentences
 - `tamago-l12-645` : ไม่มีทาง ("no way!", impossible) : 1 meaning(s), 2 sentences
 - `tamago-l12-646` : ไม่รวม (to exclude, excluding, not included) : 1 meaning(s), 2 sentences
+- `tamago-l12-647` : ไม่สักนิด (not even a little) : 1 meaning(s), 2 sentences
+- `tamago-l12-648` : ไม่เกี่ยว (to be irrelevant, to have nothing to do with) : 1 meaning(s), 2 sentences
+- `tamago-l12-650` : ไม้ไผ่ (bamboo) : 1 meaning(s), 2 sentences
 - `tamago-l12-651` : ไร้สาระ (useless, foolish, nonsensical) : 1 meaning(s), 2 sentences
+- `tamago-l12-652` : ไวยากรณ์ (grammar) : 1 meaning(s), 2 sentences
 - `tamago-l12-654` : ไหน (where; which) : 2 meaning(s), 4 sentences
+- `tamago-l12-655` : ไหนบอก ("didn't you say...?", "you said..., didn't you?") : 1 meaning(s), 2 sentences
+- `tamago-l12-656` : ไหมขัดฟัน (dental floss) : 1 meaning(s), 2 sentences
 - `tamago-l12-657` : ไอ้ ((slang) rude pronoun marker for males) : 1 meaning(s), 2 sentences
 - `thai9k-001` : ปลดปล่อย (to liberate, set free, release from oppression) : 1 meaning(s), 2 sentences
 - `thai9k-002` : เข้าร่วม (to join, attend, participate in) : 1 meaning(s), 2 sentences
 - `thai9k-003` : กู้ (to save, to rescue; to borrow money, to take a loan) : 2 meaning(s), 4 sentences
+- `thai9k-005` : สายรุ้ง, รุ้ง, รุ้งกินน้ำ (rainbow) : 1 meaning(s), 2 sentences
+- `thai9k-007` : เส้นประสาท (nerve) : 1 meaning(s), 2 sentences
+- `thai9k-012` : ไฝ (mole) : 1 meaning(s), 2 sentences
 - `thai9k-014` : ผูกเชือกรองเท้า (to tie one's shoelaces) : 1 meaning(s), 2 sentences
 - `thai9k-015` : ที่ตัดเล็บ (nail clipper) : 1 meaning(s), 2 sentences
 - `thai9k-019` : หัวหอม (onion) : 1 meaning(s), 2 sentences
