@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4783 words**
+**Total: 4793 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2105,6 +2105,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0173` : ควรค่า (แก่) (worthy of, deserving of) : 1 meaning(s), 2 sentences
 - `thaipod-0177` : ความจริงแล้ว (actually, in fact) : 1 meaning(s), 2 sentences
 - `thaipod-0179` : ความซื่อ (honesty, sincerity) : 1 meaning(s), 2 sentences
+- `thaipod-0182` : ความทุกข์, ความทุกข์ยาก (misery, suffering, hardship) : 1 meaning(s), 2 sentences
+- `thaipod-0183` : ความประทับใจ (impression) : 1 meaning(s), 2 sentences
 - `thaipod-0185` : ความมีชีวิตชีวา (vitality, liveliness) : 1 meaning(s), 2 sentences
 - `thaipod-0189` : ความลึกลับ (mystery, mysteriousness) : 1 meaning(s), 2 sentences
 - `thaipod-0199` : ความเป็นมา (background, history (of something)) : 1 meaning(s), 2 sentences
@@ -2114,15 +2116,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0211` : คาดหวัง (to expect, to hope for) : 1 meaning(s), 2 sentences
 - `thaipod-0212` : คำกล่าว (saying, statement, adage) : 1 meaning(s), 2 sentences
 - `thaipod-0213` : คำขอ (request, application, petition) : 1 meaning(s), 2 sentences
+- `thaipod-0214` : คิดซะว่า ("think of it as...") : 1 meaning(s), 2 sentences
+- `thaipod-0215` : คิดไม่ออก ("I can't think of anything", "can't come up with") : 1 meaning(s), 2 sentences
 - `thaipod-0217` : คึกคัก (lively, bustling) : 1 meaning(s), 2 sentences
 - `thaipod-0219` : คุกเข่า (to kneel) : 1 meaning(s), 2 sentences
 - `thaipod-0220` : คุณค่า (value, worth (abstract)) : 1 meaning(s), 2 sentences
 - `thaipod-0222` : คุม, ควบคุม (to control, to supervise) : 1 meaning(s), 2 sentences
+- `thaipod-0223` : เพลินไปหน่อย ("got a bit too absorbed", "slightly over-engaged in...") : 1 meaning(s), 2 sentences
 - `thaipod-0224` : คุ้มครอง (to protect, to safeguard) : 1 meaning(s), 2 sentences
+- `thaipod-0229` : ค้างคาว (bat (animal)) : 1 meaning(s), 2 sentences
+- `thaipod-0230` : ค้างคาใจ (unsettled, lingering doubts on one's mind, unresolved feelings) : 1 meaning(s), 2 sentences
 - `thaipod-0231` : ค้างคืน (overnight, to stay overnight) : 1 meaning(s), 2 sentences
+- `thaipod-0233` : ฆาตกรรม (murder) : 1 meaning(s), 2 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
 - `thaipod-0240` : งานฉลอง (celebration, festivity) : 1 meaning(s), 2 sentences
 - `thaipod-0241` : งานแสดง (exhibition, show, expo) : 1 meaning(s), 2 sentences
+- `thaipod-0242` : จนจบ (until the end) : 1 meaning(s), 2 sentences
+- `thaipod-0243` : จนป่านนี้ (up until now) : 1 meaning(s), 2 sentences
 - `thaipod-0247` : จัดการ (to manage, to arrange, to handle) : 1 meaning(s), 2 sentences
 - `thaipod-0253` : จาง (to fade, to pale) : 1 meaning(s), 2 sentences
 - `thaipod-0256` : จำลอง (to replicate, to simulate, replica) : 1 meaning(s), 2 sentences
