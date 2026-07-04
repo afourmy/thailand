@@ -132913,6 +132913,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "at first glance, the first impression",
+        "sentences": [
+          {
+            "thai": "แวบแรกที่เห็นก็รู้สึกชอบเลย",
+            "en": "At first glance I liked it right away.",
+            "audio_src": "แวบแรกที่เห็นก็รู้สึกชอบเลย",
+            "audio_en_src": "At first glance I liked it right away."
+          },
+          {
+            "thai": "แวบแรกฉันนึกว่าเป็นคนอื่น",
+            "en": "At first I thought it was someone else.",
+            "audio_src": "แวบแรกฉันนึกว่าเป็นคนอื่น",
+            "audio_en_src": "At first I thought it was someone else."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133016,6 +133035,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "various expressions to ask for the bill",
+        "sentences": [
+          {
+            "thai": "น้องครับ เช็คบิลด้วยครับ",
+            "en": "Excuse me, can I have the bill?",
+            "audio_src": "น้องครับ เช็คบิลด้วยครับ",
+            "audio_en_src": "Excuse me, can I have the bill?"
+          },
+          {
+            "thai": "กินเสร็จแล้วเรียกพนักงานมาคิดเงิน",
+            "en": "After eating, call the server to get the bill.",
+            "audio_src": "กินเสร็จแล้วเรียกพนักงานมาคิดเงิน",
+            "audio_en_src": "After eating, call the server to get the bill."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133026,6 +133064,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "various expressions to say that you'll pay (invite your friends) at the restaurant",
+        "sentences": [
+          {
+            "thai": "มื้อนี้ฉันเลี้ยงเอง ไม่ต้องจ่าย",
+            "en": "This meal’s on me, you don’t have to pay.",
+            "audio_src": "มื้อนี้ฉันเลี้ยงเอง ไม่ต้องจ่าย",
+            "audio_en_src": "This meal’s on me, you don’t have to pay."
+          },
+          {
+            "thai": "เก็บเงินไว้เถอะ เดี๋ยวฉันจ่ายเอง",
+            "en": "Keep your money, I’ll pay.",
+            "audio_src": "เก็บเงินไว้เถอะ เดี๋ยวฉันจ่ายเอง",
+            "audio_en_src": "Keep your money, I’ll pay."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133097,6 +133154,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to the fullest, wholeheartedly",
+        "sentences": [
+          {
+            "thai": "เขารักครอบครัวอย่างสุดใจ",
+            "en": "He loves his family wholeheartedly.",
+            "audio_src": "เขารักครอบครัวอย่างสุดใจ",
+            "audio_en_src": "He loves his family wholeheartedly."
+          },
+          {
+            "thai": "ฉันจะช่วยเธออย่างสุดใจ",
+            "en": "I’ll help you with all my heart.",
+            "audio_src": "ฉันจะช่วยเธออย่างสุดใจ",
+            "audio_en_src": "I’ll help you with all my heart."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133107,6 +133183,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "wealthy, affluent, prosperous",
+        "sentences": [
+          {
+            "thai": "ครอบครัวเขามั่งคั่งมาหลายรุ่น",
+            "en": "His family has been wealthy for generations.",
+            "audio_src": "ครอบครัวเขามั่งคั่งมาหลายรุ่น",
+            "audio_en_src": "His family has been wealthy for generations."
+          },
+          {
+            "thai": "ประเทศนี้มั่งคั่งเพราะการค้า",
+            "en": "This country is prosperous because of trade.",
+            "audio_src": "ประเทศนี้มั่งคั่งเพราะการค้า",
+            "audio_en_src": "This country is prosperous because of trade."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133189,6 +133284,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(self-)discipline, code of conduct",
+        "sentences": [
+          {
+            "thai": "ทหารต้องมีระเบียบวินัยสูง",
+            "en": "Soldiers must have strong discipline.",
+            "audio_src": "ทหารต้องมีระเบียบวินัยสูง",
+            "audio_en_src": "Soldiers must have strong discipline."
+          },
+          {
+            "thai": "โรงเรียนสอนให้เด็กมีระเบียบวินัย",
+            "en": "The school teaches children discipline.",
+            "audio_src": "โรงเรียนสอนให้เด็กมีระเบียบวินัย",
+            "audio_en_src": "The school teaches children discipline."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133199,6 +133313,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "adorable, endearing, cute",
+        "sentences": [
+          {
+            "thai": "ลูกหมาตัวนี้น่าเอ็นดูมาก",
+            "en": "This puppy is so adorable.",
+            "audio_src": "ลูกหมาตัวนี้น่าเอ็นดูมาก",
+            "audio_en_src": "This puppy is so adorable."
+          },
+          {
+            "thai": "ยายหัวเราะแบบน่าเอ็นดู",
+            "en": "Grandma laughs in such an endearing way.",
+            "audio_src": "ยายหัวเราะแบบน่าเอ็นดู",
+            "audio_en_src": "Grandma laughs in such an endearing way."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133229,6 +133362,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fungus",
+        "sentences": [
+          {
+            "thai": "ขนมปังขึ้นเชื้อราแล้ว",
+            "en": "The bread has grown mold.",
+            "audio_src": "ขนมปังขึ้นเชื้อราแล้ว",
+            "audio_en_src": "The bread has grown mold."
+          },
+          {
+            "thai": "เชื้อราที่เท้าทำให้คัน",
+            "en": "The fungus on my feet makes them itch.",
+            "audio_src": "เชื้อราที่เท้าทำให้คัน",
+            "audio_en_src": "The fungus on my feet makes them itch."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133434,6 +133586,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to smile brightly, to be cheerful",
+        "sentences": [
+          {
+            "thai": "พนักงานต้อนรับยิ้มแย้มแจ่มใส",
+            "en": "The receptionist greets people with a bright smile.",
+            "audio_src": "พนักงานต้อนรับยิ้มแย้มแจ่มใส",
+            "audio_en_src": "The receptionist greets people with a bright smile."
+          },
+          {
+            "thai": "เธอตื่นมายิ้มแย้มแจ่มใสทุกเช้า",
+            "en": "She wakes up cheerful every morning.",
+            "audio_src": "เธอตื่นมายิ้มแย้มแจ่มใสทุกเช้า",
+            "audio_en_src": "She wakes up cheerful every morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133464,6 +133635,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fried wontons (dumplings)",
+        "sentences": [
+          {
+            "thai": "สั่งเกี๊ยวทอดมาเป็นของกินเล่น",
+            "en": "We ordered fried wontons as a snack.",
+            "audio_src": "สั่งเกี๊ยวทอดมาเป็นของกินเล่น",
+            "audio_en_src": "We ordered fried wontons as a snack."
+          },
+          {
+            "thai": "เกี๊ยวทอดจิ้มน้ำจิ้มบ๊วยอร่อย",
+            "en": "Fried wontons with plum sauce are delicious.",
+            "audio_src": "เกี๊ยวทอดจิ้มน้ำจิ้มบ๊วยอร่อย",
+            "audio_en_src": "Fried wontons with plum sauce are delicious."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5212 words**
+**Total: 5222 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3424,13 +3424,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-097` : หลงทาง (lost, errant, to get lost) : 1 meaning(s), 2 sentences
 - `yt-c09-098` : ให้พลัง (to give power, to strengthen) : 1 meaning(s), 2 sentences
 - `yt-c09-099` : จู้จี้ (to nitpick, to nag (constantly reproach), nitpicky, fussy) : 1 meaning(s), 2 sentences
+- `yt-c10-001` : แวบแรก (at first glance, the first impression) : 1 meaning(s), 2 sentences
 - `yt-c10-002` : จุดอ่อน (weakness) : 1 meaning(s), 2 sentences
+- `yt-c10-010` : คิดตังค์, คิดเงิน, เช็คบิล (various expressions to ask for the bill) : 1 meaning(s), 2 sentences
+- `yt-c10-011` : เลี้ยงเอง, จัดการเอง, จ่ายเอง (various expressions to say that you'll pay (invite your friends) at the restaurant) : 1 meaning(s), 2 sentences
 - `yt-c10-015` : สมเหตุสมผล (rational, logical, reasonable, "it makes sense") : 1 meaning(s), 2 sentences
+- `yt-c10-016` : สุดใจ (to the fullest, wholeheartedly) : 1 meaning(s), 2 sentences
+- `yt-c10-017` : มั่งคั่ง (wealthy, affluent, prosperous) : 1 meaning(s), 2 sentences
 - `yt-c10-019` : หนุน (to support, to prop up, to bolster) : 1 meaning(s), 2 sentences
+- `yt-c10-024` : ระเบียบวินัย ((self-)discipline, code of conduct) : 1 meaning(s), 2 sentences
+- `yt-c10-025` : น่าเอ็นดู (adorable, endearing, cute) : 1 meaning(s), 2 sentences
+- `yt-c10-028` : เชื้อรา (fungus) : 1 meaning(s), 2 sentences
 - `yt-c10-033` : เสียเปรียบ (to be at a disadvantage, in an unfavorable position) : 1 meaning(s), 2 sentences
 - `yt-c10-035` : ความว่องไว (agility, handiness) : 1 meaning(s), 2 sentences
 - `yt-c10-037` : ข้อด้อย (weakness, disadvantage) : 1 meaning(s), 2 sentences
 - `yt-c10-039` : อ้าปาก (to open one's mouth) : 1 meaning(s), 2 sentences
+- `yt-c10-040` : ยิ้มแย้มแจ่มใส (to smile brightly, to be cheerful) : 1 meaning(s), 2 sentences
+- `yt-c10-043` : เกี๊ยวทอด (fried wontons (dumplings)) : 1 meaning(s), 2 sentences
 - `yt-c10-049` : ชั่ง - วัด - ตวง (measure weigh - measure size, length - measure volume, capacity) : 1 meaning(s), 3 sentences
 - `yt-c10-057` : เปราะ (brittle, fragile (e.g glass, bone, etc)) : 1 meaning(s), 2 sentences
 - `yt-c10-081` : ร่มเงา (shade, shadow, umbrage) : 1 meaning(s), 2 sentences
