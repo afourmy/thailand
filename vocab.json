@@ -131014,6 +131014,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "passion fruit",
+        "sentences": [
+          {
+            "thai": "น้ำเสาวรสเปรี้ยวอมหวาน",
+            "en": "Passion fruit juice is sweet and sour.",
+            "audio_src": "น้ำเสาวรสเปรี้ยวอมหวาน",
+            "audio_en_src": "Passion fruit juice is sweet and sour."
+          },
+          {
+            "thai": "เสาวรสสุกจะมีกลิ่นหอม",
+            "en": "Ripe passion fruit has a lovely smell.",
+            "audio_src": "เสาวรสสุกจะมีกลิ่นหอม",
+            "audio_en_src": "Ripe passion fruit has a lovely smell."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131024,6 +131043,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "medical certificate",
+        "sentences": [
+          {
+            "thai": "ลาป่วยต้องใช้ใบรับรองแพทย์",
+            "en": "You need a medical certificate to take sick leave.",
+            "audio_src": "ลาป่วยต้องใช้ใบรับรองแพทย์",
+            "audio_en_src": "You need a medical certificate to take sick leave."
+          },
+          {
+            "thai": "หมอออกใบรับรองแพทย์ให้แล้ว",
+            "en": "The doctor issued the medical certificate.",
+            "audio_src": "หมอออกใบรับรองแพทย์ให้แล้ว",
+            "audio_en_src": "The doctor issued the medical certificate."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131087,6 +131125,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "thick soup (e.g cream-based, not watery)",
+        "sentences": [
+          {
+            "thai": "ซุปนี้น้ำข้นกว่าที่คิด",
+            "en": "This soup is thicker than I expected.",
+            "audio_src": "ซุปนี้น้ำข้นกว่าที่คิด",
+            "audio_en_src": "This soup is thicker than I expected."
+          },
+          {
+            "thai": "ฉันชอบก๋วยเตี๋ยวน้ำข้น",
+            "en": "I like noodles with thick broth.",
+            "audio_src": "ฉันชอบก๋วยเตี๋ยวน้ำข้น",
+            "audio_en_src": "I like noodles with thick broth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131097,6 +131154,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "food tongs (ustensil for picking food in buffet)",
+        "sentences": [
+          {
+            "thai": "ใช้ที่คีบอาหารตักของในบุฟเฟต์",
+            "en": "Use the tongs to take food at the buffet.",
+            "audio_src": "ใช้ที่คีบอาหารตักของในบุฟเฟต์",
+            "audio_en_src": "Use the tongs to take food at the buffet."
+          },
+          {
+            "thai": "ที่คีบอาหารช่วยให้มือไม่เลอะ",
+            "en": "Food tongs keep your hands clean.",
+            "audio_src": "ที่คีบอาหารช่วยให้มือไม่เลอะ",
+            "audio_en_src": "Food tongs keep your hands clean."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131119,6 +131195,25 @@
       "YouTube",
       "Thai 4000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "star",
+        "sentences": [
+          {
+            "thai": "คืนนี้ดาวเต็มท้องฟ้า",
+            "en": "Tonight the sky is full of stars.",
+            "audio_src": "คืนนี้ดาวเต็มท้องฟ้า",
+            "audio_en_src": "Tonight the sky is full of stars."
+          },
+          {
+            "thai": "เด็กๆชอบดูดวงดาวบนฟ้า",
+            "en": "Kids love looking at the stars in the sky.",
+            "audio_src": "เด็กๆชอบดูดวงดาวบนฟ้า",
+            "audio_en_src": "Kids love looking at the stars in the sky."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131130,6 +131225,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to crush, to mash",
+        "sentences": [
+          {
+            "thai": "บดกล้วยให้ละเอียดป้อนเด็ก",
+            "en": "Mash the banana to feed the baby.",
+            "audio_src": "บดกล้วยให้ละเอียดป้อนเด็ก",
+            "audio_en_src": "Mash the banana to feed the baby."
+          },
+          {
+            "thai": "ใช้ครกบดกระเทียม",
+            "en": "Use a mortar to crush the garlic.",
+            "audio_src": "ใช้ครกบดกระเทียม",
+            "audio_en_src": "Use a mortar to crush the garlic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131297,6 +131411,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "civil servant (employee of the state)",
+        "sentences": [
+          {
+            "thai": "พ่อของเขาเป็นข้าราชการครู",
+            "en": "His father is a government teacher.",
+            "audio_src": "พ่อของเขาเป็นข้าราชการครู",
+            "audio_en_src": "His father is a government teacher."
+          },
+          {
+            "thai": "ข้าราชการเกษียณตอนอายุหกสิบ",
+            "en": "Civil servants retire at sixty.",
+            "audio_src": "ข้าราชการเกษียณตอนอายุหกสิบ",
+            "audio_en_src": "Civil servants retire at sixty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131317,6 +131450,25 @@
     "topic": "time",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "right now, at this moment (informal, colloquial)",
+        "sentences": [
+          {
+            "thai": "ตอนเนี้ยฉันยุ่งมาก เดี๋ยวโทรกลับ",
+            "en": "I’m really busy right now, I’ll call you back.",
+            "audio_src": "ตอนเนี้ยฉันยุ่งมาก เดี๋ยวโทรกลับ",
+            "audio_en_src": "I’m really busy right now, I’ll call you back."
+          },
+          {
+            "thai": "เธออยู่ไหนตอนเนี้ย",
+            "en": "Where are you right now?",
+            "audio_src": "เธออยู่ไหนตอนเนี้ย",
+            "audio_en_src": "Where are you right now?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -131347,6 +131499,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "dedication, devotion",
+        "sentences": [
+          {
+            "thai": "ความสำเร็จมาจากการทุ่มเทของทุกคน",
+            "en": "The success comes from everyone’s dedication.",
+            "audio_src": "ความสำเร็จมาจากการทุ่มเทของทุกคน",
+            "audio_en_src": "The success comes from everyone’s dedication."
+          },
+          {
+            "thai": "เขาทำงานด้วยการทุ่มเทเต็มที่",
+            "en": "He works with full dedication.",
+            "audio_src": "เขาทำงานด้วยการทุ่มเทเต็มที่",
+            "audio_en_src": "He works with full dedication."
+          }
+        ]
+      }
     ]
   },
   {
@@ -131473,6 +131644,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to roast, to grill (Isan way)",
+        "sentences": [
+          {
+            "thai": "แม่จี่ไก่ให้กินกับข้าวเหนียว",
+            "en": "Mom grilled chicken to eat with sticky rice.",
+            "audio_src": "แม่จี่ไก่ให้กินกับข้าวเหนียว",
+            "audio_en_src": "Mom grilled chicken to eat with sticky rice."
+          },
+          {
+            "thai": "เอาปลาไปจี่บนเตาถ่าน",
+            "en": "Grill the fish on the charcoal stove.",
+            "audio_src": "เอาปลาไปจี่บนเตาถ่าน",
+            "audio_en_src": "Grill the fish on the charcoal stove."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5192 words**
+**Total: 5202 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3391,10 +3391,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-073` : แสบตา (stinging eyes, burning eyes) : 1 meaning(s), 2 sentences
 - `yt-c08-074` : ไฟสูง (high beam headlights (long-range headlight of a car)) : 1 meaning(s), 2 sentences
 - `yt-c08-075` : เสริม (to supplement, to reinforce, to enhance) : 1 meaning(s), 2 sentences
+- `yt-c08-076` : เสาวรส (passion fruit) : 1 meaning(s), 2 sentences
+- `yt-c08-077` : ใบรับรองแพทย์ (medical certificate) : 1 meaning(s), 2 sentences
 - `yt-c08-078` : สำเนา (a copy (of a document, e.g passport, certificate, etc)) : 1 meaning(s), 2 sentences
+- `yt-c08-081` : น้ำข้น (thick soup (e.g cream-based, not watery)) : 1 meaning(s), 2 sentences
+- `yt-c08-082` : ที่คีบอาหาร (food tongs (ustensil for picking food in buffet)) : 1 meaning(s), 2 sentences
+- `yt-c08-084` : ดาว, ดวงดาว (star) : 1 meaning(s), 2 sentences
+- `yt-c08-085` : บด (to crush, to mash) : 1 meaning(s), 2 sentences
 - `yt-c08-090` : แจ่ม (bright, clear, radiant, excellent) : 1 meaning(s), 2 sentences
+- `yt-c09-001` : ข้าราชการ (civil servant (employee of the state)) : 1 meaning(s), 2 sentences
+- `yt-c09-003` : ตอนเนี้ย (right now, at this moment (informal, colloquial)) : 1 meaning(s), 2 sentences
+- `yt-c09-006` : การทุ่มเท (dedication, devotion) : 1 meaning(s), 2 sentences
 - `yt-c09-008` : อคติ (prejudice, bias) : 1 meaning(s), 2 sentences
 - `yt-c09-011` : ดั้งเดิม (original, traditional, authentic) : 1 meaning(s), 2 sentences
+- `yt-c09-014` : จี่ (to roast, to grill (Isan way)) : 1 meaning(s), 2 sentences
 - `yt-c09-033` : ตอก (to nail, to hammer in) : 1 meaning(s), 2 sentences
 - `yt-c09-051` : แปลง (to convert, to transform; plot of land, field) : 2 meaning(s), 4 sentences
 - `yt-c09-053` : โดยลำพัง (alone, by oneself, independently (without others)) : 1 meaning(s), 2 sentences
