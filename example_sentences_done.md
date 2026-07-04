@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4953 words**
+**Total: 4963 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2671,12 +2671,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-002` : การปฏิวัติ (revolution) : 1 meaning(s), 2 sentences
 - `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
 - `tobo-005` : แมงมุม (spider) : 1 meaning(s), 2 sentences
+- `tobo-007` : โคลน (mud) : 1 meaning(s), 2 sentences
 - `tobo-008` : เหยื่อ (victim; bait) : 2 meaning(s), 4 sentences
 - `tobo-009` : ลบ (to subtract, to delete; negative) : 2 meaning(s), 4 sentences
+- `tobo-010` : นักลงทุน (investor) : 1 meaning(s), 2 sentences
 - `tobo-011` : การเตรียมการ (preparation) : 1 meaning(s), 2 sentences
 - `tobo-013` : ผ้าอ้อม (diaper) : 1 meaning(s), 2 sentences
+- `tobo-014` : ใบสั่งยา (prescription (medication)) : 1 meaning(s), 2 sentences
 - `tobo-015` : อ่างล้างจาน (kitchen sink) : 1 meaning(s), 2 sentences
 - `tobo-016` : กระดูก (bone) : 1 meaning(s), 2 sentences
+- `tobo-017` : ไฟจราจร (traffic light) : 1 meaning(s), 2 sentences
 - `tobo-018` : หน้าต่าง (window) : 1 meaning(s), 2 sentences
 - `tobo-019` : ป่า (forest; wild) : 2 meaning(s), 4 sentences
 - `tobo-020` : จบ (to finish, the end) : 1 meaning(s), 2 sentences
@@ -2691,6 +2695,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-032` : หิน (stone, rock) : 1 meaning(s), 2 sentences
 - `tobo-033` : สงคราม (war) : 1 meaning(s), 2 sentences
 - `tobo-034` : จดหมาย (letter (mail)) : 1 meaning(s), 2 sentences
+- `tobo-036` : ความเจ็บปวด (pain (emotional or physical)) : 1 meaning(s), 2 sentences
 - `tobo-037` : ฉาก (scene; backdrop, partition) : 2 meaning(s), 4 sentences
 - `tobo-038` : ลุง (uncle (older than parents)) : 1 meaning(s), 2 sentences
 - `tobo-039` : ฝูงชน (crowd) : 1 meaning(s), 2 sentences
@@ -2698,10 +2703,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-043` : จอ (screen, monitor) : 1 meaning(s), 2 sentences
 - `tobo-044` : ผลิตภัณฑ์ (product) : 1 meaning(s), 2 sentences
 - `tobo-045` : รีไซเคิล (to recycle) : 1 meaning(s), 2 sentences
+- `tobo-047` : กล้าหาญ (brave, courageous) : 1 meaning(s), 2 sentences
 - `tobo-048` : ระยะทาง (distance) : 1 meaning(s), 2 sentences
+- `tobo-049` : หิมะ (snow) : 1 meaning(s), 2 sentences
+- `tobo-050` : พระราชา (king) : 1 meaning(s), 2 sentences
 - `tobo-051` : ป้า (aunt (older than parents)) : 1 meaning(s), 2 sentences
 - `tobo-053` : บันได (stairs, ladder) : 1 meaning(s), 2 sentences
 - `tobo-054` : หมวก (hat) : 1 meaning(s), 2 sentences
+- `tobo-055` : ขโมย (thief, to steal) : 1 meaning(s), 2 sentences
+- `tobo-056` : หาเงิน (to earn money, to make a living) : 1 meaning(s), 2 sentences
 - `tobo-057` : คล้ายกัน (similar) : 1 meaning(s), 2 sentences
 - `tobo-058` : โลหะ (metal) : 1 meaning(s), 2 sentences
 - `tobo-059` : ทหาร (soldier) : 1 meaning(s), 2 sentences

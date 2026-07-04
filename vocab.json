@@ -103401,6 +103401,25 @@
       "Tobo Deck",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mud",
+        "sentences": [
+          {
+            "thai": "ฝนตกจนถนนเต็มไปด้วยโคลน",
+            "en": "It rained so much the road is covered in mud.",
+            "audio_src": "ฝนตกจนถนนเต็มไปด้วยโคลน",
+            "audio_en_src": "It rained so much the road is covered in mud."
+          },
+          {
+            "thai": "รองเท้าเปื้อนโคลนไปหมด",
+            "en": "The shoes are all covered in mud.",
+            "audio_src": "รองเท้าเปื้อนโคลนไปหมด",
+            "audio_en_src": "The shoes are all covered in mud."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103512,6 +103531,25 @@
     "sources": [
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "investor",
+        "sentences": [
+          {
+            "thai": "นักลงทุนสนใจหุ้นบริษัทนี้",
+            "en": "Investors are interested in this company's stock.",
+            "audio_src": "นักลงทุนสนใจหุ้นบริษัทนี้",
+            "audio_en_src": "Investors are interested in this company's stock."
+          },
+          {
+            "thai": "เขาเป็นนักลงทุนที่ประสบความสำเร็จ",
+            "en": "He's a successful investor.",
+            "audio_src": "เขาเป็นนักลงทุนที่ประสบความสำเร็จ",
+            "audio_en_src": "He's a successful investor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103595,6 +103633,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "prescription (medication)",
+        "sentences": [
+          {
+            "thai": "หมอเขียนใบสั่งยาให้ฉัน",
+            "en": "The doctor wrote me a prescription.",
+            "audio_src": "หมอเขียนใบสั่งยาให้ฉัน",
+            "audio_en_src": "The doctor wrote me a prescription."
+          },
+          {
+            "thai": "ยานี้ต้องมีใบสั่งยาถึงจะซื้อได้",
+            "en": "This medicine requires a prescription to buy.",
+            "audio_src": "ยานี้ต้องมีใบสั่งยาถึงจะซื้อได้",
+            "audio_en_src": "This medicine requires a prescription to buy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103672,6 +103729,25 @@
     "sources": [
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "traffic light",
+        "sentences": [
+          {
+            "thai": "รอไฟจราจรเปลี่ยนเป็นสีเขียวก่อน",
+            "en": "Wait for the traffic light to turn green first.",
+            "audio_src": "รอไฟจราจรเปลี่ยนเป็นสีเขียวก่อน",
+            "audio_en_src": "Wait for the traffic light to turn green first."
+          },
+          {
+            "thai": "ไฟจราจรเสียทำให้รถติด",
+            "en": "The broken traffic light caused a jam.",
+            "audio_src": "ไฟจราจรเสียทำให้รถติด",
+            "audio_en_src": "The broken traffic light caused a jam."
+          }
+        ]
+      }
     ]
   },
   {
@@ -104182,6 +104258,25 @@
     "topic": "emotions",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "pain (emotional or physical)",
+        "sentences": [
+          {
+            "thai": "เขาทนความเจ็บปวดจากบาดแผลไม่ไหว",
+            "en": "He couldn't bear the pain from the wound.",
+            "audio_src": "เขาทนความเจ็บปวดจากบาดแผลไม่ไหว",
+            "audio_en_src": "He couldn't bear the pain from the wound."
+          },
+          {
+            "thai": "การสูญเสียคนรักเป็นความเจ็บปวดที่ยิ่งใหญ่",
+            "en": "Losing a loved one is a great pain.",
+            "audio_src": "การสูญเสียคนรักเป็นความเจ็บปวดที่ยิ่งใหญ่",
+            "audio_en_src": "Losing a loved one is a great pain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -104451,6 +104546,25 @@
     "sources": [
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "brave, courageous",
+        "sentences": [
+          {
+            "thai": "ทหารกล้าหาญปกป้องประเทศ",
+            "en": "The brave soldiers defend the country.",
+            "audio_src": "ทหารกล้าหาญปกป้องประเทศ",
+            "audio_en_src": "The brave soldiers defend the country."
+          },
+          {
+            "thai": "เธอกล้าหาญพอที่จะพูดความจริง",
+            "en": "She was brave enough to tell the truth.",
+            "audio_src": "เธอกล้าหาญพอที่จะพูดความจริง",
+            "audio_en_src": "She was brave enough to tell the truth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -104496,6 +104610,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "snow",
+        "sentences": [
+          {
+            "thai": "ที่ญี่ปุ่นหิมะตกหนักในฤดูหนาว",
+            "en": "In Japan it snows heavily in winter.",
+            "audio_src": "ที่ญี่ปุ่นหิมะตกหนักในฤดูหนาว",
+            "audio_en_src": "In Japan it snows heavily in winter."
+          },
+          {
+            "thai": "เด็กๆชอบเล่นหิมะ",
+            "en": "Kids love playing in the snow.",
+            "audio_src": "เด็กๆชอบเล่นหิมะ",
+            "audio_en_src": "Kids love playing in the snow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -104508,6 +104641,25 @@
       "Tobo Deck",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "king",
+        "sentences": [
+          {
+            "thai": "ในนิทานพระราชาปกครองเมืองอย่างยุติธรรม",
+            "en": "In the tale the king ruled the city justly.",
+            "audio_src": "ในนิทานพระราชาปกครองเมืองอย่างยุติธรรม",
+            "audio_en_src": "In the tale the king ruled the city justly."
+          },
+          {
+            "thai": "พระราชาในตำนานทรงเมตตาต่อประชาชน",
+            "en": "The legendary king was kind to his people.",
+            "audio_src": "พระราชาในตำนานทรงเมตตาต่อประชาชน",
+            "audio_en_src": "The legendary king was kind to his people."
+          }
+        ]
+      }
     ]
   },
   {
@@ -104636,6 +104788,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "thief, to steal",
+        "sentences": [
+          {
+            "thai": "มีขโมยขึ้นบ้านเมื่อคืน",
+            "en": "A thief broke into the house last night.",
+            "audio_src": "มีขโมยขึ้นบ้านเมื่อคืน",
+            "audio_en_src": "A thief broke into the house last night."
+          },
+          {
+            "thai": "เขาขโมยเงินจากลิ้นชัก",
+            "en": "He stole money from the drawer.",
+            "audio_src": "เขาขโมยเงินจากลิ้นชัก",
+            "audio_en_src": "He stole money from the drawer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -104648,6 +104819,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to earn money, to make a living",
+        "sentences": [
+          {
+            "thai": "เขาทำงานหนักเพื่อหาเงินเลี้ยงครอบครัว",
+            "en": "He works hard to earn money to support his family.",
+            "audio_src": "เขาทำงานหนักเพื่อหาเงินเลี้ยงครอบครัว",
+            "audio_en_src": "He works hard to earn money to support his family."
+          },
+          {
+            "thai": "สมัยนี้หาเงินยากขึ้นทุกวัน",
+            "en": "These days it's getting harder to make money.",
+            "audio_src": "สมัยนี้หาเงินยากขึ้นทุกวัน",
+            "audio_en_src": "These days it's getting harder to make money."
+          }
+        ]
+      }
     ]
   },
   {
