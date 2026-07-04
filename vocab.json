@@ -133686,6 +133686,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "buttocks, bottom, backside",
+        "sentences": [
+          {
+            "thai": "เด็กล้มก้นกระแทกพื้น",
+            "en": "The kid fell and landed on his bottom.",
+            "audio_src": "เด็กล้มก้นกระแทกพื้น",
+            "audio_en_src": "The kid fell and landed on his bottom."
+          },
+          {
+            "thai": "นั่งนานจนก้นชา",
+            "en": "I sat so long my backside went numb.",
+            "audio_src": "นั่งนานจนก้นชา",
+            "audio_en_src": "I sat so long my backside went numb."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133696,6 +133715,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "quick wit, sagacity, mental agility, cleverness",
+        "sentences": [
+          {
+            "thai": "เขาแก้ปัญหาเฉพาะหน้าด้วยไหวพริบ",
+            "en": "He solved the problem on the spot with quick thinking.",
+            "audio_src": "เขาแก้ปัญหาเฉพาะหน้าด้วยไหวพริบ",
+            "audio_en_src": "He solved the problem on the spot with quick thinking."
+          },
+          {
+            "thai": "คนขายของต้องมีไหวพริบดี",
+            "en": "A salesperson needs to be quick-witted.",
+            "audio_src": "คนขายของต้องมีไหวพริบดี",
+            "audio_en_src": "A salesperson needs to be quick-witted."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133754,6 +133792,25 @@
     "topic": "grammar",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "on the other hand, conversely",
+        "sentences": [
+          {
+            "thai": "เขาขยันมาก ในทางกลับกันน้องเขาขี้เกียจ",
+            "en": "He’s very hardworking; his younger brother, on the other hand, is lazy.",
+            "audio_src": "เขาขยันมาก ในทางกลับกันน้องเขาขี้เกียจ",
+            "audio_en_src": "He’s very hardworking; his younger brother, on the other hand, is lazy."
+          },
+          {
+            "thai": "ราคาถูกลง ในทางกลับกันคุณภาพก็แย่ลง",
+            "en": "The price dropped; conversely, the quality got worse.",
+            "audio_src": "ราคาถูกลง ในทางกลับกันคุณภาพก็แย่ลง",
+            "audio_en_src": "The price dropped; conversely, the quality got worse."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133765,6 +133822,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "moral virtue, ethical values",
+        "sentences": [
+          {
+            "thai": "ผู้นำที่ดีต้องมีคุณธรรม",
+            "en": "A good leader must have moral virtue.",
+            "audio_src": "ผู้นำที่ดีต้องมีคุณธรรม",
+            "audio_en_src": "A good leader must have moral virtue."
+          },
+          {
+            "thai": "โรงเรียนปลูกฝังคุณธรรมให้นักเรียน",
+            "en": "The school instills ethical values in students.",
+            "audio_src": "โรงเรียนปลูกฝังคุณธรรมให้นักเรียน",
+            "audio_en_src": "The school instills ethical values in students."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133775,6 +133851,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "camel (animal)",
+        "sentences": [
+          {
+            "thai": "อูฐเดินในทะเลทรายได้หลายวัน",
+            "en": "Camels can walk in the desert for days.",
+            "audio_src": "อูฐเดินในทะเลทรายได้หลายวัน",
+            "audio_en_src": "Camels can walk in the desert for days."
+          },
+          {
+            "thai": "เราขี่อูฐตอนไปเที่ยวทะเลทราย",
+            "en": "We rode camels when we visited the desert.",
+            "audio_src": "เราขี่อูฐตอนไปเที่ยวทะเลทราย",
+            "audio_en_src": "We rode camels when we visited the desert."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133786,6 +133881,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Monosodium Glutamate (MSG)",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ไม่ใส่ผงชูรส",
+            "en": "This restaurant doesn’t use MSG.",
+            "audio_src": "ร้านนี้ไม่ใส่ผงชูรส",
+            "audio_en_src": "This restaurant doesn’t use MSG."
+          },
+          {
+            "thai": "บางคนแพ้ผงชูรส",
+            "en": "Some people are sensitive to MSG.",
+            "audio_src": "บางคนแพ้ผงชูรส",
+            "audio_en_src": "Some people are sensitive to MSG."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133797,6 +133911,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bitter",
+        "sentences": [
+          {
+            "thai": "ยานี้ขมมาก กินยากจัง",
+            "en": "This medicine is so bitter, it’s hard to swallow.",
+            "audio_src": "ยานี้ขมมาก กินยากจัง",
+            "audio_en_src": "This medicine is so bitter, it’s hard to swallow."
+          },
+          {
+            "thai": "มะระมีรสขม",
+            "en": "Bitter gourd has a bitter taste.",
+            "audio_src": "มะระมีรสขม",
+            "audio_en_src": "Bitter gourd has a bitter taste."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133848,6 +133981,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "allergic reaction",
+        "sentences": [
+          {
+            "thai": "กินกุ้งแล้วมีอาการแพ้",
+            "en": "I had an allergic reaction after eating shrimp.",
+            "audio_src": "กินกุ้งแล้วมีอาการแพ้",
+            "audio_en_src": "I had an allergic reaction after eating shrimp."
+          },
+          {
+            "thai": "อาการแพ้ทำให้ผิวเป็นผื่นแดง",
+            "en": "The allergic reaction made my skin break out in a red rash.",
+            "audio_src": "อาการแพ้ทำให้ผิวเป็นผื่นแดง",
+            "audio_en_src": "The allergic reaction made my skin break out in a red rash."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133858,6 +134010,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fermented fish sauce",
+        "sentences": [
+          {
+            "thai": "ส้มตำใส่น้ำปลาร้ารสจัดจ้าน",
+            "en": "Papaya salad with fermented fish sauce is intensely flavored.",
+            "audio_src": "ส้มตำใส่น้ำปลาร้ารสจัดจ้าน",
+            "audio_en_src": "Papaya salad with fermented fish sauce is intensely flavored."
+          },
+          {
+            "thai": "น้ำปลาร้ากลิ่นแรงแต่อร่อย",
+            "en": "Fermented fish sauce has a strong smell but tastes good.",
+            "audio_src": "น้ำปลาร้ากลิ่นแรงแต่อร่อย",
+            "audio_en_src": "Fermented fish sauce has a strong smell but tastes good."
+          }
+        ]
+      }
     ]
   },
   {
@@ -133878,6 +134049,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "myopia",
+        "sentences": [
+          {
+            "thai": "เขาสายตาสั้นเลยต้องใส่แว่น",
+            "en": "He’s nearsighted, so he has to wear glasses.",
+            "audio_src": "เขาสายตาสั้นเลยต้องใส่แว่น",
+            "audio_en_src": "He’s nearsighted, so he has to wear glasses."
+          },
+          {
+            "thai": "เล่นมือถือมากทำให้สายตาสั้น",
+            "en": "Using your phone a lot causes nearsightedness.",
+            "audio_src": "เล่นมือถือมากทำให้สายตาสั้น",
+            "audio_en_src": "Using your phone a lot causes nearsightedness."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5222 words**
+**Total: 5232 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3441,8 +3441,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-039` : อ้าปาก (to open one's mouth) : 1 meaning(s), 2 sentences
 - `yt-c10-040` : ยิ้มแย้มแจ่มใส (to smile brightly, to be cheerful) : 1 meaning(s), 2 sentences
 - `yt-c10-043` : เกี๊ยวทอด (fried wontons (dumplings)) : 1 meaning(s), 2 sentences
+- `yt-c10-047` : ก้น (buttocks, bottom, backside) : 1 meaning(s), 2 sentences
+- `yt-c10-048` : ไหวพริบ (quick wit, sagacity, mental agility, cleverness) : 1 meaning(s), 2 sentences
 - `yt-c10-049` : ชั่ง - วัด - ตวง (measure weigh - measure size, length - measure volume, capacity) : 1 meaning(s), 3 sentences
+- `yt-c10-051` : ในทางกลับกัน (on the other hand, conversely) : 1 meaning(s), 2 sentences
+- `yt-c10-052` : คุณธรรม (moral virtue, ethical values) : 1 meaning(s), 2 sentences
+- `yt-c10-053` : อูฐ (camel (animal)) : 1 meaning(s), 2 sentences
+- `yt-c10-054` : ผงชูรส (Monosodium Glutamate (MSG)) : 1 meaning(s), 2 sentences
+- `yt-c10-055` : ขม (bitter) : 1 meaning(s), 2 sentences
 - `yt-c10-057` : เปราะ (brittle, fragile (e.g glass, bone, etc)) : 1 meaning(s), 2 sentences
+- `yt-c10-058` : อาการแพ้ (allergic reaction) : 1 meaning(s), 2 sentences
+- `yt-c10-059` : น้ำปลาร้า (fermented fish sauce) : 1 meaning(s), 2 sentences
+- `yt-c10-063` : สายตาสั้น (myopia) : 1 meaning(s), 2 sentences
 - `yt-c10-081` : ร่มเงา (shade, shadow, umbrage) : 1 meaning(s), 2 sentences
 - `yt-c10-084` : โทน, โทนเสียง (tone (low, high, etc)) : 1 meaning(s), 2 sentences
 - `yt-c10-085` : ล้น (to overflow, to spill over) : 1 meaning(s), 2 sentences
