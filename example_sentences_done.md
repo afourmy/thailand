@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 4503 words**
+**Total: 4513 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1396,11 +1396,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-529` : ฟังความข้างเดียว (to listen to just one side of the story) : 1 meaning(s), 2 sentences
 - `tamago-l3-530` : ใส่ร้าย (to slander, to make false damaging statements about someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-531` : เข้าข้าง (to take sides, to side with) : 1 meaning(s), 2 sentences
+- `tamago-l3-532` : เอาผิดกับ (to prosecute, to take legal action against, to hold someone legally accountable) : 1 meaning(s), 2 sentences
+- `tamago-l3-534` : ยุ่งเรื่องของ... (to meddle in someone's business) : 1 meaning(s), 2 sentences
+- `tamago-l3-535` : ตราบใดที่ (as long as) : 1 meaning(s), 2 sentences
+- `tamago-l3-536` : เสร็จแน่ ("you're in trouble", "you're done for") : 1 meaning(s), 2 sentences
+- `tamago-l3-537` : ปากร้าย (sharp-tongued, insulting, offensive) : 1 meaning(s), 2 sentences
+- `tamago-l3-538` : พอกันที ("that's enough!", "enough is enough", "I've had enough") : 1 meaning(s), 2 sentences
+- `tamago-l3-539` : ถึงจะอย่างนั้นก็เถอะ ("even so!", "even then") : 1 meaning(s), 2 sentences
+- `tamago-l3-542` : สำนึกผิด (to repent, to feel remorse for one's wrongdoing) : 1 meaning(s), 2 sentences
 - `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences
 - `tamago-l3-545` : พิสูจน์ตัวเอง (to prove oneself) : 1 meaning(s), 2 sentences
 - `tamago-l3-547` : หน้าสด (bare face (without makeup)) : 1 meaning(s), 2 sentences
+- `tamago-l3-549` : ถือเสียว่า (to consider it as, to treat it as) : 1 meaning(s), 2 sentences
 - `tamago-l3-550` : พลั้งปาก (to let slip (in conversation), to say something by accident) : 1 meaning(s), 2 sentences
 - `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
+- `tamago-l3-552` : ร้านริมถนน (street food stall, roadside shop) : 1 meaning(s), 2 sentences
 - `tamago-l3-555` : พ้น - ไม่พ้น (free from, escape from - can't avoid, inevitably ends up being...) : 2 meaning(s), 4 sentences
 - `tamago-l3-556` : พื้นๆ (plain, simple, ordinary) : 1 meaning(s), 2 sentences
 - `tamago-l3-561` : เจ้าแม่ (queen of, powerful woman; goddess) : 2 meaning(s), 4 sentences
