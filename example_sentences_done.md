@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5132 words**
+**Total: 5142 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3260,13 +3260,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-070` : ผมบาง (thin hair) : 1 meaning(s), 2 sentences
 - `yt-c05-071` : หัวโล้น (completely bald) : 1 meaning(s), 2 sentences
 - `yt-c05-072` : แน่น (tight, dense, packed (e.g traffic, street)) : 1 meaning(s), 2 sentences
+- `yt-c05-080` : เฮง (lucky, fortunate) : 1 meaning(s), 2 sentences
 - `yt-c05-083` : จูง (to lead, to guide, to pull (e.g by hand, or with a rope, a leash)) : 1 meaning(s), 2 sentences
 - `yt-c05-088` : ห่ม (to cover, to wrap (usually with a cloth, e.g blanket)) : 1 meaning(s), 2 sentences
 - `yt-c05-089` : ชนชั้น (social class, stratum) : 1 meaning(s), 2 sentences
+- `yt-c05-090` : ความเต็มใจ (willingness, readiness to do something) : 1 meaning(s), 2 sentences
+- `yt-c05-091` : ไม่ต้องทอน ("you can keep the change") : 1 meaning(s), 2 sentences
+- `yt-c05-094` : ซด (to drink quickly and audibly, to slurp) : 1 meaning(s), 2 sentences
 - `yt-c05-095` : ทำไร่ (to farm, to do plantation work) : 1 meaning(s), 2 sentences
+- `yt-c05-096` : กตัญญู (grateful) : 1 meaning(s), 2 sentences
 - `yt-c06-003` : ราวบันได (handrail) : 1 meaning(s), 2 sentences
 - `yt-c06-004` : เขย่า (to shake) : 1 meaning(s), 2 sentences
 - `yt-c06-007` : ตะขอ (hook (clothes, fishing, etc)) : 1 meaning(s), 2 sentences
+- `yt-c06-008` : สัมภาระ (baggage, luggage, belongings) : 1 meaning(s), 2 sentences
 - `yt-c06-009` : ขัน (basin) : 1 meaning(s), 2 sentences
 - `yt-c06-010` : สายฉีดตูด, สายชำระ (bidet spray (bum gun)) : 1 meaning(s), 2 sentences
 - `yt-c06-012` : ติดนิสัย (to pick up a habit, to get used to a behavior) : 1 meaning(s), 2 sentences
@@ -3276,8 +3282,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-017` : ภาพลักษณ์ (public image, reputation, public perception) : 1 meaning(s), 2 sentences
 - `yt-c06-019` : สีแทน (tan color) : 1 meaning(s), 2 sentences
 - `yt-c06-020` : มัด (to tie, to bind, to bundle) : 1 meaning(s), 2 sentences
+- `yt-c06-023` : ลองผิดลองถูก (trial and error) : 1 meaning(s), 2 sentences
+- `yt-c06-025` : ความอ่อนโยน (gentleness, tenderness) : 1 meaning(s), 2 sentences
 - `yt-c06-027` : ที่อุดหู (ear plug) : 1 meaning(s), 2 sentences
 - `yt-c06-030` : หยอด (to drop in, to insert (e.g coin in machine)) : 1 meaning(s), 2 sentences
+- `yt-c06-032` : ท้อ, ท้อใจ, ท้อแท้ (discouraged, disheartened, to lose motivation, feel like giving up) : 1 meaning(s), 2 sentences
+- `yt-c06-033` : หมวกกันน็อค (helmet) : 1 meaning(s), 2 sentences
 - `yt-c06-038` : ตัวสำรอง (substitute (e.g football player)) : 1 meaning(s), 2 sentences
 - `yt-c06-043` : สาระ (essence, meaningful content, key point) : 1 meaning(s), 2 sentences
 - `yt-c06-062` : สายจูง (leash (e.g for dogs)) : 1 meaning(s), 2 sentences

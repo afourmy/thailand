@@ -125463,6 +125463,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "lucky, fortunate",
+        "sentences": [
+          {
+            "thai": "วันนี้เฮงจัง ถูกหวยด้วย",
+            "en": "I’m so lucky today, I even won the lottery.",
+            "audio_src": "วันนี้เฮงจัง ถูกหวยด้วย",
+            "audio_en_src": "I’m so lucky today, I even won the lottery."
+          },
+          {
+            "thai": "ขอให้ปีนี้เฮงๆนะ",
+            "en": "Wishing you lots of luck this year.",
+            "audio_src": "ขอให้ปีนี้เฮงๆนะ",
+            "audio_en_src": "Wishing you lots of luck this year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125629,6 +125648,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "willingness, readiness to do something",
+        "sentences": [
+          {
+            "thai": "เขาช่วยงานด้วยความเต็มใจ",
+            "en": "He helped out willingly.",
+            "audio_src": "เขาช่วยงานด้วยความเต็มใจ",
+            "audio_en_src": "He helped out willingly."
+          },
+          {
+            "thai": "ฉันทำสิ่งนี้ด้วยความเต็มใจ ไม่มีใครบังคับ",
+            "en": "I’m doing this willingly, no one is forcing me.",
+            "audio_src": "ฉันทำสิ่งนี้ด้วยความเต็มใจ ไม่มีใครบังคับ",
+            "audio_en_src": "I’m doing this willingly, no one is forcing me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125639,6 +125677,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"you can keep the change\"",
+        "sentences": [
+          {
+            "thai": "ไม่ต้องทอนนะครับ",
+            "en": "Keep the change.",
+            "audio_src": "ไม่ต้องทอนนะครับ",
+            "audio_en_src": "Keep the change."
+          },
+          {
+            "thai": "จ่ายร้อยนึง บอกคนขับว่าไม่ต้องทอน",
+            "en": "I paid a hundred and told the driver to keep the change.",
+            "audio_src": "จ่ายร้อยนึง บอกคนขับว่าไม่ต้องทอน",
+            "audio_en_src": "I paid a hundred and told the driver to keep the change."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125669,6 +125726,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to drink quickly and audibly, to slurp",
+        "sentences": [
+          {
+            "thai": "เขาซดน้ำซุปเสียงดัง",
+            "en": "He slurped the soup loudly.",
+            "audio_src": "เขาซดน้ำซุปเสียงดัง",
+            "audio_en_src": "He slurped the soup loudly."
+          },
+          {
+            "thai": "อากาศหนาว ซดกาแฟร้อนสักแก้ว",
+            "en": "It’s cold, let me slurp down a hot coffee.",
+            "audio_src": "อากาศหนาว ซดกาแฟร้อนสักแก้ว",
+            "audio_en_src": "It’s cold, let me slurp down a hot coffee."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125710,6 +125786,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "grateful",
+        "sentences": [
+          {
+            "thai": "เขาเป็นลูกที่กตัญญูต่อพ่อแม่",
+            "en": "He’s a child who is grateful to his parents.",
+            "audio_src": "เขาเป็นลูกที่กตัญญูต่อพ่อแม่",
+            "audio_en_src": "He’s a child who is grateful to his parents."
+          },
+          {
+            "thai": "คนกตัญญูมักได้รับความรัก",
+            "en": "Grateful people tend to be well loved.",
+            "audio_src": "คนกตัญญูมักได้รับความรัก",
+            "audio_en_src": "Grateful people tend to be well loved."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125864,6 +125959,25 @@
     "topic": "travel",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "baggage, luggage, belongings",
+        "sentences": [
+          {
+            "thai": "ขนสัมภาระขึ้นรถให้หมด",
+            "en": "Load all the luggage onto the car.",
+            "audio_src": "ขนสัมภาระขึ้นรถให้หมด",
+            "audio_en_src": "Load all the luggage onto the car."
+          },
+          {
+            "thai": "ผู้โดยสารรับสัมภาระที่สายพาน",
+            "en": "Passengers pick up their baggage at the belt.",
+            "audio_src": "ผู้โดยสารรับสัมภาระที่สายพาน",
+            "audio_en_src": "Passengers pick up their baggage at the belt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126210,6 +126324,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "trial and error",
+        "sentences": [
+          {
+            "thai": "กว่าจะทำอาหารเป็น ต้องลองผิดลองถูกอยู่นาน",
+            "en": "It took a lot of trial and error before I could cook.",
+            "audio_src": "กว่าจะทำอาหารเป็น ต้องลองผิดลองถูกอยู่นาน",
+            "audio_en_src": "It took a lot of trial and error before I could cook."
+          },
+          {
+            "thai": "เขาเรียนรู้จากการลองผิดลองถูก",
+            "en": "He learned through trial and error.",
+            "audio_src": "เขาเรียนรู้จากการลองผิดลองถูก",
+            "audio_en_src": "He learned through trial and error."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126230,6 +126363,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "gentleness, tenderness",
+        "sentences": [
+          {
+            "thai": "เธอดูแลคนป่วยด้วยความอ่อนโยน",
+            "en": "She cares for the sick with gentleness.",
+            "audio_src": "เธอดูแลคนป่วยด้วยความอ่อนโยน",
+            "audio_en_src": "She cares for the sick with gentleness."
+          },
+          {
+            "thai": "ความอ่อนโยนของเขาทำให้ทุกคนสบายใจ",
+            "en": "His gentleness puts everyone at ease.",
+            "audio_src": "ความอ่อนโยนของเขาทำให้ทุกคนสบายใจ",
+            "audio_en_src": "His gentleness puts everyone at ease."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126334,6 +126486,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "discouraged, disheartened, to lose motivation, feel like giving up",
+        "sentences": [
+          {
+            "thai": "อย่าเพิ่งท้อ ลองอีกครั้งนะ",
+            "en": "Don’t get discouraged yet, try again.",
+            "audio_src": "อย่าเพิ่งท้อ ลองอีกครั้งนะ",
+            "audio_en_src": "Don’t get discouraged yet, try again."
+          },
+          {
+            "thai": "เจออุปสรรคเยอะจนเริ่มท้อแท้",
+            "en": "I’ve hit so many obstacles that I’m starting to feel like giving up.",
+            "audio_src": "เจออุปสรรคเยอะจนเริ่มท้อแท้",
+            "audio_en_src": "I’ve hit so many obstacles that I’m starting to feel like giving up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126345,6 +126516,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "helmet",
+        "sentences": [
+          {
+            "thai": "ขับมอเตอร์ไซค์ต้องใส่หมวกกันน็อค",
+            "en": "You have to wear a helmet when riding a motorbike.",
+            "audio_src": "ขับมอเตอร์ไซค์ต้องใส่หมวกกันน็อค",
+            "audio_en_src": "You have to wear a helmet when riding a motorbike."
+          },
+          {
+            "thai": "ลืมหมวกกันน็อคไว้ที่บ้าน",
+            "en": "I left my helmet at home.",
+            "audio_src": "ลืมหมวกกันน็อคไว้ที่บ้าน",
+            "audio_en_src": "I left my helmet at home."
+          }
+        ]
+      }
     ]
   },
   {
