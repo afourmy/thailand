@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6232 words**
+**Total: 6242 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6043,12 +6043,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c08-008` : มั่ง (maybe, perhaps, some, a bit (slang)) : 1 meaning(s), 2 sentences
 - `t4k-c08-009` : กฎหมายแพ่ง (civil law) : 1 meaning(s), 2 sentences
 - `t4k-c08-011` : เบื่อหน่าย (bored, weary, fed up (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c08-012` : เพาะปลูก (to cultivate, to grow crops) : 1 meaning(s), 2 sentences
 - `t4k-c08-013` : เลือน (to fade away, to become blurred, to gradually disappear) : 1 meaning(s), 2 sentences
 - `t4k-c08-016` : ขั้นพื้นฐาน (basic level, foundation, introductory) : 1 meaning(s), 2 sentences
+- `t4k-c08-022` : ได้เสีย (gain and loss, profit and loss) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
+- `t4k-c08-028` : ห้วย (stream, creek) : 1 meaning(s), 2 sentences
+- `t4k-c08-029` : อัยการ (public prosecutor, state attorney) : 1 meaning(s), 2 sentences
 - `t4k-c08-032` : คำปรึกษา (advice, guidance) : 1 meaning(s), 2 sentences
+- `t4k-c08-043` : คณะกรรมาธิการ (parliamentary committee) : 1 meaning(s), 2 sentences
+- `t4k-c08-044` : ฝ่ายค้าน (opposition (in politics, e.g parliamentary opposition)) : 1 meaning(s), 2 sentences
+- `t4k-c08-046` : มาลัย (flower garland) : 1 meaning(s), 2 sentences
 - `t4k-c08-047` : สารคดี (documentary) : 1 meaning(s), 2 sentences
+- `t4k-c08-050` : สิ้นเชิง (completely, entirely) : 1 meaning(s), 2 sentences
+- `t4k-c08-052` : ทรัพยากรธรรมชาติ (natural resources) : 1 meaning(s), 2 sentences
 - `t4k-c08-055` : ยกมือ (to raise one's hand) : 1 meaning(s), 2 sentences
+- `t4k-c08-056` : เป็นต้นไป (onward, from now on) : 1 meaning(s), 2 sentences
 - `t4k-c08-057` : ล่อ (to lure, to bait; to tease, to provoke) : 2 meaning(s), 4 sentences
 - `t4k-c08-062` : แวว (glimpse, hint, trace; (figuratively) potential, prospect) : 2 meaning(s), 4 sentences
 - `t4k-c08-065` : เท็จ (false, untrue) : 1 meaning(s), 2 sentences
