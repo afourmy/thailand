@@ -204980,6 +204980,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "garage, workshop",
+        "sentences": [
+          {
+            "thai": "เอารถไปซ่อมที่อู่",
+            "en": "Take the car to the garage for repairs.",
+            "audio_src": "เอารถไปซ่อมที่อู่",
+            "audio_en_src": "Take the car to the garage for repairs."
+          },
+          {
+            "thai": "อู่แถวนี้ฝีมือดีราคาถูก",
+            "en": "The garage around here is skilled and cheap.",
+            "audio_src": "อู่แถวนี้ฝีมือดีราคาถูก",
+            "audio_en_src": "The garage around here is skilled and cheap."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204991,6 +205010,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "AIDS",
+        "sentences": [
+          {
+            "thai": "โรคเอดส์ติดต่อทางเลือดและเพศสัมพันธ์",
+            "en": "AIDS is transmitted through blood and sex.",
+            "audio_src": "โรคเอดส์ติดต่อทางเลือดและเพศสัมพันธ์",
+            "audio_en_src": "AIDS is transmitted through blood and sex."
+          },
+          {
+            "thai": "ปัจจุบันมียาช่วยควบคุมเอดส์ได้",
+            "en": "Nowadays there's medicine to control AIDS.",
+            "audio_src": "ปัจจุบันมียาช่วยควบคุมเอดส์ได้",
+            "audio_en_src": "Nowadays there's medicine to control AIDS."
+          }
+        ]
+      }
     ]
   },
   {
@@ -206376,6 +206414,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to know (formal, polite)",
+        "sentences": [
+          {
+            "thai": "ดิฉันไม่ทราบเรื่องนี้มาก่อน",
+            "en": "I wasn't aware of this before.",
+            "audio_src": "ดิฉันไม่ทราบเรื่องนี้มาก่อน",
+            "audio_en_src": "I wasn't aware of this before."
+          },
+          {
+            "thai": "ท่านทราบผลการประชุมหรือยัง",
+            "en": "Do you know the meeting results yet, sir?",
+            "audio_src": "ท่านทราบผลการประชุมหรือยัง",
+            "audio_en_src": "Do you know the meeting results yet, sir?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -211828,6 +211885,42 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "as much as, as many as",
+        "sentences": [
+          {
+            "thai": "เขาสูงเท่าพี่ชาย",
+            "en": "He's as tall as his older brother.",
+            "audio_src": "เขาสูงเท่าพี่ชาย",
+            "audio_en_src": "He's as tall as his older brother."
+          },
+          {
+            "thai": "กินได้เท่าที่อยากกิน",
+            "en": "Eat as much as you want.",
+            "audio_src": "กินได้เท่าที่อยากกิน",
+            "audio_en_src": "Eat as much as you want."
+          }
+        ]
+      },
+      {
+        "meaning": "(number of) times",
+        "sentences": [
+          {
+            "thai": "ราคาแพงขึ้นสองเท่า",
+            "en": "The price doubled.",
+            "audio_src": "ราคาแพงขึ้นสองเท่า",
+            "audio_en_src": "The price doubled."
+          },
+          {
+            "thai": "เขาแข็งแรงกว่าฉันสามเท่า",
+            "en": "He's three times stronger than me.",
+            "audio_src": "เขาแข็งแรงกว่าฉันสามเท่า",
+            "audio_en_src": "He's three times stronger than me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -211838,6 +211931,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "you, he, she (polite, in a formal setting)",
+        "sentences": [
+          {
+            "thai": "ท่านประธานกำลังกล่าวเปิดงาน",
+            "en": "The chairman is giving the opening speech.",
+            "audio_src": "ท่านประธานกำลังกล่าวเปิดงาน",
+            "audio_en_src": "The chairman is giving the opening speech."
+          },
+          {
+            "thai": "ขอเชิญท่านนั่งด้านหน้า",
+            "en": "Please, sir, take a seat at the front.",
+            "audio_src": "ขอเชิญท่านนั่งด้านหน้า",
+            "audio_en_src": "Please, sir, take a seat at the front."
+          }
+        ]
+      }
     ]
   },
   {
@@ -211848,6 +211960,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "regardless of, no matter what",
+        "sentences": [
+          {
+            "thai": "ไม่ว่าฝนจะตกเราก็จะไป",
+            "en": "No matter if it rains, we'll still go.",
+            "audio_src": "ไม่ว่าฝนจะตกเราก็จะไป",
+            "audio_en_src": "No matter if it rains, we'll still go."
+          },
+          {
+            "thai": "ไม่ว่าใครก็ต้องทำตามกฎ",
+            "en": "Regardless of who you are, you have to follow the rules.",
+            "audio_src": "ไม่ว่าใครก็ต้องทำตามกฎ",
+            "audio_en_src": "Regardless of who you are, you have to follow the rules."
+          }
+        ]
+      }
     ]
   },
   {
@@ -211858,6 +211989,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to become",
+        "sentences": [
+          {
+            "thai": "หนอนกลายเป็นผีเสื้อ",
+            "en": "The caterpillar becomes a butterfly.",
+            "audio_src": "หนอนกลายเป็นผีเสื้อ",
+            "audio_en_src": "The caterpillar becomes a butterfly."
+          },
+          {
+            "thai": "เรื่องเล็กกลายเป็นเรื่องใหญ่",
+            "en": "A small matter turned into a big one.",
+            "audio_src": "เรื่องเล็กกลายเป็นเรื่องใหญ่",
+            "audio_en_src": "A small matter turned into a big one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -211899,6 +212049,42 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "round, cycle, turn",
+        "sentences": [
+          {
+            "thai": "หนังฉายรอบสุดท้ายสี่ทุ่ม",
+            "en": "The last movie showing is at 10pm.",
+            "audio_src": "หนังฉายรอบสุดท้ายสี่ทุ่ม",
+            "audio_en_src": "The last movie showing is at 10pm."
+          },
+          {
+            "thai": "เขาวิ่งรอบสนามสามรอบ",
+            "en": "He ran three laps around the field.",
+            "audio_src": "เขาวิ่งรอบสนามสามรอบ",
+            "audio_en_src": "He ran three laps around the field."
+          }
+        ]
+      },
+      {
+        "meaning": "around, surrounding",
+        "sentences": [
+          {
+            "thai": "มีต้นไม้อยู่รอบบ้าน",
+            "en": "There are trees around the house.",
+            "audio_src": "มีต้นไม้อยู่รอบบ้าน",
+            "audio_en_src": "There are trees around the house."
+          },
+          {
+            "thai": "ผู้คนยืนล้อมรอบเวที",
+            "en": "People stood surrounding the stage.",
+            "audio_src": "ผู้คนยืนล้อมรอบเวที",
+            "audio_en_src": "People stood surrounding the stage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -212002,6 +212188,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "including, together with, along with",
+        "sentences": [
+          {
+            "thai": "ทุกคนมางานรวมทั้งเจ้านาย",
+            "en": "Everyone came to the event, including the boss.",
+            "audio_src": "ทุกคนมางานรวมทั้งเจ้านาย",
+            "audio_en_src": "Everyone came to the event, including the boss."
+          },
+          {
+            "thai": "ราคานี้รวมทั้งค่าอาหารและที่พัก",
+            "en": "This price includes food and lodging.",
+            "audio_src": "ราคานี้รวมทั้งค่าอาหารและที่พัก",
+            "audio_en_src": "This price includes food and lodging."
+          }
+        ]
+      }
     ]
   },
   {
@@ -212086,6 +212291,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "politics",
+        "sentences": [
+          {
+            "thai": "เขาไม่ชอบคุยเรื่องการเมือง",
+            "en": "He doesn't like talking about politics.",
+            "audio_src": "เขาไม่ชอบคุยเรื่องการเมือง",
+            "audio_en_src": "He doesn't like talking about politics."
+          },
+          {
+            "thai": "การเมืองไทยเปลี่ยนแปลงบ่อย",
+            "en": "Thai politics changes often.",
+            "audio_src": "การเมืองไทยเปลี่ยนแปลงบ่อย",
+            "audio_en_src": "Thai politics changes often."
+          }
+        ]
+      }
     ]
   },
   {

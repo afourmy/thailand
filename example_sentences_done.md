@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6082 words**
+**Total: 6092 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5499,6 +5499,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-074` : อ่านเล่น (to read for pleasure) : 1 meaning(s), 2 sentences
 - `wlt-c19-075` : อาหารเป็นพิษ (food poisoning) : 1 meaning(s), 2 sentences
 - `wlt-c19-076` : อีกนาน (still a long way off, not anytime soon) : 1 meaning(s), 2 sentences
+- `wlt-c19-077` : อู่ (garage, workshop) : 1 meaning(s), 2 sentences
+- `wlt-c19-078` : เอดส์, โรคเอดส์ (AIDS) : 1 meaning(s), 2 sentences
 - `wlt-c19-080` : แอบดู (to peek at, to secretly watch) : 1 meaning(s), 2 sentences
 - `wlt-c19-081` : กรกฎาคม (July) : 1 meaning(s), 2 sentences
 - `wlt-c19-082` : กระดาษ (paper) : 1 meaning(s), 2 sentences
@@ -5538,6 +5540,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c20-019` : ตุลาคม (October) : 1 meaning(s), 2 sentences
 - `wlt-c20-020` : เตี้ย (short (in height)) : 1 meaning(s), 2 sentences
 - `wlt-c20-021` : แต่งงาน (to marry, married) : 1 meaning(s), 2 sentences
+- `wlt-c20-022` : ทราบ (to know (formal, polite)) : 1 meaning(s), 2 sentences
 - `wlt-c20-023` : แท็กซี่ (taxi) : 1 meaning(s), 2 sentences
 - `wlt-c20-024` : ธนาคาร (bank) : 1 meaning(s), 2 sentences
 - `wlt-c20-025` : ธันวาคม (December) : 1 meaning(s), 2 sentences
@@ -5687,12 +5690,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c21-080` : ใหญ่ (big, large) : 1 meaning(s), 2 sentences
 - `t4k-c01-001` : เรา (we; us) : 1 meaning(s), 2 sentences
 - `t4k-c01-002` : เขา (he) : 1 meaning(s), 2 sentences
+- `t4k-c01-004` : เท่า (as much as, as many as; (number of) times) : 2 meaning(s), 4 sentences
+- `t4k-c01-005` : ท่าน (you, he, she (polite, in a formal setting)) : 1 meaning(s), 2 sentences
+- `t4k-c01-006` : ไม่ว่า (regardless of, no matter what) : 1 meaning(s), 2 sentences
+- `t4k-c01-007` : กลายเป็น (to become) : 1 meaning(s), 2 sentences
 - `t4k-c01-008` : ที่มา (source, origin) : 1 meaning(s), 2 sentences
+- `t4k-c01-010` : รอบ (round, cycle, turn; around, surrounding) : 2 meaning(s), 4 sentences
 - `t4k-c01-012` : เสนอ (to offer, to propose) : 1 meaning(s), 2 sentences
 - `t4k-c01-013` : ชัดเจน (clear, easy to comprehend) : 1 meaning(s), 2 sentences
 - `t4k-c01-014` : ดูแล (to care for, to look after) : 1 meaning(s), 2 sentences
+- `t4k-c01-015` : รวมทั้ง (including, together with, along with) : 1 meaning(s), 2 sentences
 - `t4k-c01-017` : พูดถึง (to talk about, to refer to) : 1 meaning(s), 2 sentences
 - `t4k-c01-019` : ราย (list of, individual, item, case, instance) : 1 meaning(s), 2 sentences
+- `t4k-c01-022` : การเมือง (politics) : 1 meaning(s), 2 sentences
 - `t4k-c01-023` : น่าเชื่อ (believable, credible) : 1 meaning(s), 2 sentences
 - `t4k-c01-024` : ผู้คน (people) : 1 meaning(s), 2 sentences
 - `t4k-c01-027` : คล้าย (to resemble, to look like) : 1 meaning(s), 2 sentences
