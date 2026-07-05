@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6112 words**
+**Total: 6122 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5758,25 +5758,35 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-024` : แต่ก่อน (before, in the past, back then, formerly) : 1 meaning(s), 2 sentences
 - `t4k-c02-025` : กระแส (stream, flow; (figuratively) trend, wave) : 2 meaning(s), 4 sentences
 - `t4k-c02-026` : เท่ากับ (equal to, equivalent to) : 1 meaning(s), 2 sentences
+- `t4k-c02-028` : สนุกสนาน (enjoyable, fun) : 1 meaning(s), 2 sentences
 - `t4k-c02-029` : หลากหลาย (various, many kinds) : 1 meaning(s), 2 sentences
 - `t4k-c02-030` : สวย, สวยงาม (beautiful) : 1 meaning(s), 2 sentences
 - `t4k-c02-032` : ทา (to apply, to spread on a surface (e.g paint, cream)) : 1 meaning(s), 2 sentences
 - `t4k-c02-034` : ล่า (to hunt) : 1 meaning(s), 2 sentences
 - `t4k-c02-038` : นิ่ง (still, quiet) : 1 meaning(s), 2 sentences
+- `t4k-c02-039` : พันธุ์ (breed, variety, strain) : 1 meaning(s), 2 sentences
 - `t4k-c02-040` : ปกป้อง (to protect, to defend) : 1 meaning(s), 2 sentences
+- `t4k-c02-041` : ยาวนาน (long-lasting, prolonged) : 1 meaning(s), 2 sentences
 - `t4k-c02-042` : ตัน (blocked, clogged, obstructed; ton (unit)) : 2 meaning(s), 4 sentences
 - `t4k-c02-043` : พูดคุย (to talk, to chat) : 1 meaning(s), 2 sentences
+- `t4k-c02-044` : ความหวัง (hope) : 1 meaning(s), 2 sentences
+- `t4k-c02-045` : ชื่อว่า (named, called) : 1 meaning(s), 2 sentences
 - `t4k-c02-046` : ที่ไหน (where) : 1 meaning(s), 2 sentences
 - `t4k-c02-048` : ล้ำ (to exceed, to go beyond; futuristic, advanced, cutting-edge) : 2 meaning(s), 4 sentences
+- `t4k-c02-049` : เล็กน้อย (a little, slightly) : 1 meaning(s), 2 sentences
 - `t4k-c02-050` : แง่ (aspect, point of view) : 1 meaning(s), 2 sentences
 - `t4k-c02-051` : คำพูด (words, speech) : 1 meaning(s), 2 sentences
 - `t4k-c02-054` : วางแผน (to plan) : 1 meaning(s), 2 sentences
 - `t4k-c02-056` : ลับ (secret, hidden; to sharpen (e.g knife)) : 2 meaning(s), 4 sentences
 - `t4k-c02-060` : ย่อย (to digest, to break down; smaller part, minor, sub-) : 2 meaning(s), 4 sentences
+- `t4k-c02-062` : ชื่นชม (to admire, to praise) : 1 meaning(s), 2 sentences
 - `t4k-c02-065` : กล้อง (camera) : 1 meaning(s), 2 sentences
 - `t4k-c02-068` : ภาพยนตร์ (movie) : 1 meaning(s), 2 sentences
+- `t4k-c02-069` : ทรัพย์สิน (assets, property, belongings) : 1 meaning(s), 2 sentences
 - `t4k-c02-070` : จัดตั้ง (to establish, to set up) : 1 meaning(s), 2 sentences
 - `t4k-c02-071` : ก่อให้เกิด (to cause, to give rise to) : 1 meaning(s), 2 sentences
+- `t4k-c02-072` : กาล (time, era; tense (grammar)) : 2 meaning(s), 4 sentences
+- `t4k-c02-075` : เกรง (to be afraid, to hesitate out of respect or fear (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c02-083` : บวก (to add; plus ("+"), positive) : 2 meaning(s), 4 sentences
 - `t4k-c02-084` : เก (twisted, crooked, bent) : 1 meaning(s), 2 sentences
 - `t4k-c02-092` : เทคนิค (technique) : 1 meaning(s), 2 sentences

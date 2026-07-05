@@ -214245,6 +214245,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "enjoyable, fun",
+        "sentences": [
+          {
+            "thai": "งานเลี้ยงเมื่อคืนสนุกสนานมาก",
+            "en": "The party last night was so much fun.",
+            "audio_src": "งานเลี้ยงเมื่อคืนสนุกสนานมาก",
+            "audio_en_src": "The party last night was so much fun."
+          },
+          {
+            "thai": "เด็กๆเล่นกันอย่างสนุกสนาน",
+            "en": "The kids play joyfully together.",
+            "audio_src": "เด็กๆเล่นกันอย่างสนุกสนาน",
+            "audio_en_src": "The kids play joyfully together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -214411,6 +214430,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "breed, variety, strain",
+        "sentences": [
+          {
+            "thai": "สุนัขพันธุ์นี้ตัวใหญ่และขนยาว",
+            "en": "This breed of dog is big with long fur.",
+            "audio_src": "สุนัขพันธุ์นี้ตัวใหญ่และขนยาว",
+            "audio_en_src": "This breed of dog is big with long fur."
+          },
+          {
+            "thai": "ข้าวพันธุ์ใหม่ให้ผลผลิตสูง",
+            "en": "The new rice variety gives a high yield.",
+            "audio_src": "ข้าวพันธุ์ใหม่ให้ผลผลิตสูง",
+            "audio_en_src": "The new rice variety gives a high yield."
+          }
+        ]
+      }
     ]
   },
   {
@@ -214452,6 +214490,25 @@
     "topic": "time",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "long-lasting, prolonged",
+        "sentences": [
+          {
+            "thai": "พวกเขาเป็นเพื่อนกันมายาวนาน",
+            "en": "They've been friends for a long time.",
+            "audio_src": "พวกเขาเป็นเพื่อนกันมายาวนาน",
+            "audio_en_src": "They've been friends for a long time."
+          },
+          {
+            "thai": "สงครามยืดเยื้อยาวนานหลายปี",
+            "en": "The war dragged on for many years.",
+            "audio_src": "สงครามยืดเยื้อยาวนานหลายปี",
+            "audio_en_src": "The war dragged on for many years."
+          }
+        ]
+      }
     ]
   },
   {
@@ -214543,6 +214600,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hope",
+        "sentences": [
+          {
+            "thai": "เขายังมีความหวังว่าจะหาย",
+            "en": "He still has hope of recovering.",
+            "audio_src": "เขายังมีความหวังว่าจะหาย",
+            "audio_en_src": "He still has hope of recovering."
+          },
+          {
+            "thai": "อย่าสิ้นหวังยังมีความหวังเสมอ",
+            "en": "Don't despair, there's always hope.",
+            "audio_src": "อย่าสิ้นหวังยังมีความหวังเสมอ",
+            "audio_en_src": "Don't despair, there's always hope."
+          }
+        ]
+      }
     ]
   },
   {
@@ -214553,6 +214629,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "named, called",
+        "sentences": [
+          {
+            "thai": "หมาของเขาชื่อว่าโบ้",
+            "en": "His dog is named Bo.",
+            "audio_src": "หมาของเขาชื่อว่าโบ้",
+            "audio_en_src": "His dog is named Bo."
+          },
+          {
+            "thai": "หนังสือเล่มนี้ชื่อว่าอะไร",
+            "en": "What is this book called?",
+            "audio_src": "หนังสือเล่มนี้ชื่อว่าอะไร",
+            "audio_en_src": "What is this book called?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -214645,6 +214740,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "a little, slightly",
+        "sentences": [
+          {
+            "thai": "อาหารเค็มไปเล็กน้อย",
+            "en": "The food is slightly too salty.",
+            "audio_src": "อาหารเค็มไปเล็กน้อย",
+            "audio_en_src": "The food is slightly too salty."
+          },
+          {
+            "thai": "เขาบาดเจ็บเล็กน้อยจากอุบัติเหตุ",
+            "en": "He was slightly injured in the accident.",
+            "audio_src": "เขาบาดเจ็บเล็กน้อยจากอุบัติเหตุ",
+            "audio_en_src": "He was slightly injured in the accident."
+          }
+        ]
+      }
     ]
   },
   {
@@ -214874,6 +214988,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to admire, to praise",
+        "sentences": [
+          {
+            "thai": "ครูชื่นชมความตั้งใจของนักเรียน",
+            "en": "The teacher praised the student's diligence.",
+            "audio_src": "ครูชื่นชมความตั้งใจของนักเรียน",
+            "audio_en_src": "The teacher praised the student's diligence."
+          },
+          {
+            "thai": "ทุกคนชื่นชมผลงานของเขา",
+            "en": "Everyone admires his work.",
+            "audio_src": "ทุกคนชื่นชมผลงานของเขา",
+            "audio_en_src": "Everyone admires his work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -214960,6 +215093,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "assets, property, belongings",
+        "sentences": [
+          {
+            "thai": "เขามีทรัพย์สินมากมาย",
+            "en": "He has a lot of assets.",
+            "audio_src": "เขามีทรัพย์สินมากมาย",
+            "audio_en_src": "He has a lot of assets."
+          },
+          {
+            "thai": "ประกันคุ้มครองทรัพย์สินในบ้าน",
+            "en": "The insurance covers the property in the house.",
+            "audio_src": "ประกันคุ้มครองทรัพย์สินในบ้าน",
+            "audio_en_src": "The insurance covers the property in the house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215033,6 +215185,42 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "time, era",
+        "sentences": [
+          {
+            "thai": "กาลครั้งหนึ่งนานมาแล้ว",
+            "en": "Once upon a time, long ago.",
+            "audio_src": "กาลครั้งหนึ่งนานมาแล้ว",
+            "audio_en_src": "Once upon a time, long ago."
+          },
+          {
+            "thai": "ทุกอย่างเปลี่ยนไปตามกาลเวลา",
+            "en": "Everything changes with time.",
+            "audio_src": "ทุกอย่างเปลี่ยนไปตามกาลเวลา",
+            "audio_en_src": "Everything changes with time."
+          }
+        ]
+      },
+      {
+        "meaning": "tense (grammar)",
+        "sentences": [
+          {
+            "thai": "ภาษาอังกฤษมีหลายกาล",
+            "en": "English has many tenses.",
+            "audio_src": "ภาษาอังกฤษมีหลายกาล",
+            "audio_en_src": "English has many tenses."
+          },
+          {
+            "thai": "เขาใช้กาลผิดในประโยค",
+            "en": "He used the wrong tense in the sentence.",
+            "audio_src": "เขาใช้กาลผิดในประโยค",
+            "audio_en_src": "He used the wrong tense in the sentence."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215043,6 +215231,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be afraid, to hesitate out of respect or fear (formal)",
+        "sentences": [
+          {
+            "thai": "ผมเกรงว่าจะรบกวนเวลาคุณ",
+            "en": "I'm afraid I might be taking up your time.",
+            "audio_src": "ผมเกรงว่าจะรบกวนเวลาคุณ",
+            "audio_en_src": "I'm afraid I might be taking up your time."
+          },
+          {
+            "thai": "เธอเกรงใจไม่กล้าปฏิเสธ",
+            "en": "She was too deferential to refuse.",
+            "audio_src": "เธอเกรงใจไม่กล้าปฏิเสธ",
+            "audio_en_src": "She was too deferential to refuse."
+          }
+        ]
+      }
     ]
   },
   {
