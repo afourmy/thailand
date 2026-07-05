@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6062 words**
+**Total: 6072 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5471,10 +5471,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-033` : ริมฝีปาก (lips) : 1 meaning(s), 2 sentences
 - `wlt-c19-034` : รู้เรื่อง (to understand, to follow what is being said, to be aware of what's going on) : 1 meaning(s), 2 sentences
 - `wlt-c19-035` : โรคหัวใจ (heart disease) : 1 meaning(s), 2 sentences
+- `wlt-c19-038` : ลูกครึ่ง (child of two ethnic groups) : 1 meaning(s), 2 sentences
+- `wlt-c19-039` : เล็บเท้า (toenail) : 1 meaning(s), 2 sentences
+- `wlt-c19-040` : เล็บมือ (fingernail) : 1 meaning(s), 2 sentences
+- `wlt-c19-041` : ศาสนายิว (Judaism) : 1 meaning(s), 2 sentences
 - `wlt-c19-042` : ศูนย์การค้า (shopping center) : 1 meaning(s), 2 sentences
 - `wlt-c19-044` : สบายๆ ("no problem", "no worries", relaxed) : 1 meaning(s), 2 sentences
+- `wlt-c19-045` : สลบ (to faint, unconscious) : 1 meaning(s), 2 sentences
+- `wlt-c19-046` : สะพานลอย (pedestrian overpass (floating bridge)) : 1 meaning(s), 2 sentences
+- `wlt-c19-047` : สายกลาง (middle way, moderation (Buddhist concept: avoiding extremes)) : 1 meaning(s), 2 sentences
+- `wlt-c19-048` : สุขภาพดี (healthy, good health) : 1 meaning(s), 2 sentences
+- `wlt-c19-049` : สุขภาพไม่ดี (unhealthy, bad health) : 1 meaning(s), 2 sentences
 - `wlt-c19-050` : สูบบุหรี่ (to smoke (cigarettes)) : 1 meaning(s), 2 sentences
 - `wlt-c19-051` : เสาร์อาทิตย์นี้ (this weekend) : 1 meaning(s), 2 sentences
+- `wlt-c19-052` : เสียว (scared, thrilled, strong or sharp feeling; (informal) sexually aroused) : 2 meaning(s), 4 sentences
 - `wlt-c19-058` : หมดอายุ (to be expired) : 1 meaning(s), 2 sentences
 - `wlt-c19-062` : หวัดดี (hi, bye (casual)) : 1 meaning(s), 2 sentences
 - `wlt-c19-068` : เหงา (lonely) : 1 meaning(s), 2 sentences
