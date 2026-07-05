@@ -203660,6 +203660,25 @@
     "topic": "personality",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to be generous, to be kind",
+        "sentences": [
+          {
+            "thai": "เขามีน้ำใจแบ่งขนมให้เพื่อน",
+            "en": "He's kind and shares his snacks with friends.",
+            "audio_src": "เขามีน้ำใจแบ่งขนมให้เพื่อน",
+            "audio_en_src": "He's kind and shares his snacks with friends."
+          },
+          {
+            "thai": "คนมีน้ำใจย่อมมีคนรัก",
+            "en": "Kind people are well-loved.",
+            "audio_src": "คนมีน้ำใจย่อมมีคนรัก",
+            "audio_en_src": "Kind people are well-loved."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203736,6 +203755,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "without (\"not put\")",
+        "sentences": [
+          {
+            "thai": "ขอกาแฟไม่ใส่น้ำตาล",
+            "en": "Coffee without sugar, please.",
+            "audio_src": "ขอกาแฟไม่ใส่น้ำตาล",
+            "audio_en_src": "Coffee without sugar, please."
+          },
+          {
+            "thai": "ก๋วยเตี๋ยวไม่ใส่ผักชี",
+            "en": "Noodles without cilantro.",
+            "audio_src": "ก๋วยเตี๋ยวไม่ใส่ผักชี",
+            "audio_en_src": "Noodles without cilantro."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203746,6 +203784,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "birth control pill",
+        "sentences": [
+          {
+            "thai": "เธอกินยาคุมทุกวันตรงเวลา",
+            "en": "She takes the birth control pill on time every day.",
+            "audio_src": "เธอกินยาคุมทุกวันตรงเวลา",
+            "audio_en_src": "She takes the birth control pill on time every day."
+          },
+          {
+            "thai": "ลืมกินยาคุมไปหนึ่งวัน",
+            "en": "She forgot to take the pill for a day.",
+            "audio_src": "ลืมกินยาคุมไปหนึ่งวัน",
+            "audio_en_src": "She forgot to take the pill for a day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203756,6 +203813,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ointment, lotion",
+        "sentences": [
+          {
+            "thai": "ทายาทาแก้ผื่นคัน",
+            "en": "Apply the ointment for the itchy rash.",
+            "audio_src": "ทายาทาแก้ผื่นคัน",
+            "audio_en_src": "Apply the ointment for the itchy rash."
+          },
+          {
+            "thai": "ยาทานี้ช่วยลดอาการปวด",
+            "en": "This ointment helps ease the pain.",
+            "audio_src": "ยาทานี้ช่วยลดอาการปวด",
+            "audio_en_src": "This ointment helps ease the pain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203766,6 +203842,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pills, capsules",
+        "sentences": [
+          {
+            "thai": "หมอสั่งยาเม็ดให้กินหลังอาหาร",
+            "en": "The doctor prescribed pills to take after meals.",
+            "audio_src": "หมอสั่งยาเม็ดให้กินหลังอาหาร",
+            "audio_en_src": "The doctor prescribed pills to take after meals."
+          },
+          {
+            "thai": "เด็กกลืนยาเม็ดไม่ค่อยเป็น",
+            "en": "Kids aren't very good at swallowing pills.",
+            "audio_src": "เด็กกลืนยาเม็ดไม่ค่อยเป็น",
+            "audio_en_src": "Kids aren't very good at swallowing pills."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203776,6 +203871,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lozenge, throat tablet (slowly dissolves in the mouth)",
+        "sentences": [
+          {
+            "thai": "เจ็บคออมยาอมช่วยได้",
+            "en": "For a sore throat, a lozenge helps.",
+            "audio_src": "เจ็บคออมยาอมช่วยได้",
+            "audio_en_src": "For a sore throat, a lozenge helps."
+          },
+          {
+            "thai": "ยาอมรสมินต์เย็นชื่นคอ",
+            "en": "The mint lozenge soothes the throat.",
+            "audio_src": "ยาอมรสมินต์เย็นชื่นคอ",
+            "audio_en_src": "The mint lozenge soothes the throat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203787,6 +203901,25 @@
     "sources": [
       "Anki Basics",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "air-conditioned bus",
+        "sentences": [
+          {
+            "thai": "นั่งรถแอร์เย็นสบายกว่ารถธรรมดา",
+            "en": "The air-con bus is more comfortable than a regular one.",
+            "audio_src": "นั่งรถแอร์เย็นสบายกว่ารถธรรมดา",
+            "audio_en_src": "The air-con bus is more comfortable than a regular one."
+          },
+          {
+            "thai": "รถปรับอากาศราคาแพงกว่าเล็กน้อย",
+            "en": "The air-conditioned bus is a bit more expensive.",
+            "audio_src": "รถปรับอากาศราคาแพงกว่าเล็กน้อย",
+            "audio_en_src": "The air-conditioned bus is a bit more expensive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203892,6 +204025,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "lips",
+        "sentences": [
+          {
+            "thai": "หน้าหนาวริมฝีปากแห้งแตก",
+            "en": "In winter the lips get dry and chapped.",
+            "audio_src": "หน้าหนาวริมฝีปากแห้งแตก",
+            "audio_en_src": "In winter the lips get dry and chapped."
+          },
+          {
+            "thai": "เธอทาลิปสติกที่ริมฝีปาก",
+            "en": "She puts lipstick on her lips.",
+            "audio_src": "เธอทาลิปสติกที่ริมฝีปาก",
+            "audio_en_src": "She puts lipstick on her lips."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203902,6 +204054,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to understand, to follow what is being said, to be aware of what's going on",
+        "sentences": [
+          {
+            "thai": "เขาอธิบายจนฉันรู้เรื่อง",
+            "en": "He explained it until I understood.",
+            "audio_src": "เขาอธิบายจนฉันรู้เรื่อง",
+            "audio_en_src": "He explained it until I understood."
+          },
+          {
+            "thai": "พูดภาษาอังกฤษเร็วไปฟังไม่รู้เรื่อง",
+            "en": "The English was too fast, I couldn't follow.",
+            "audio_src": "พูดภาษาอังกฤษเร็วไปฟังไม่รู้เรื่อง",
+            "audio_en_src": "The English was too fast, I couldn't follow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -203912,6 +204083,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "heart disease",
+        "sentences": [
+          {
+            "thai": "ปู่เป็นโรคหัวใจต้องกินยาประจำ",
+            "en": "Grandpa has heart disease and takes medicine regularly.",
+            "audio_src": "ปู่เป็นโรคหัวใจต้องกินยาประจำ",
+            "audio_en_src": "Grandpa has heart disease and takes medicine regularly."
+          },
+          {
+            "thai": "กินอาหารมันเสี่ยงเป็นโรคหัวใจ",
+            "en": "Eating fatty food raises the risk of heart disease.",
+            "audio_src": "กินอาหารมันเสี่ยงเป็นโรคหัวใจ",
+            "audio_en_src": "Eating fatty food raises the risk of heart disease."
+          }
+        ]
+      }
     ]
   },
   {

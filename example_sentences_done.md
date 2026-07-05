@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6052 words**
+**Total: 6062 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5456,11 +5456,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-006` : ภาษาอังกฤษ (English language) : 1 meaning(s), 2 sentences
 - `wlt-c19-007` : มัดจำ (deposit (e.g car or room rental)) : 1 meaning(s), 2 sentences
 - `wlt-c19-013` : มีท้อง, ตั้งท้อง (to be pregnant) : 1 meaning(s), 2 sentences
+- `wlt-c19-014` : มีน้ำใจ (to be generous, to be kind) : 1 meaning(s), 2 sentences
 - `wlt-c19-017` : ไม่นาน (not long) : 1 meaning(s), 2 sentences
 - `wlt-c19-020` : ไม่สบายใจ (uneasy, troubled, uncomfortable) : 1 meaning(s), 2 sentences
+- `wlt-c19-022` : ไม่ใส่ (without ("not put")) : 1 meaning(s), 2 sentences
+- `wlt-c19-024` : ยาคุม (birth control pill) : 1 meaning(s), 2 sentences
+- `wlt-c19-025` : ยาทา (ointment, lotion) : 1 meaning(s), 2 sentences
+- `wlt-c19-026` : ยาเม็ด (pills, capsules) : 1 meaning(s), 2 sentences
+- `wlt-c19-027` : ยาอม (lozenge, throat tablet (slowly dissolves in the mouth)) : 1 meaning(s), 2 sentences
+- `wlt-c19-029` : รถแอร์, รถปรับอากาศ (air-conditioned bus) : 1 meaning(s), 2 sentences
 - `wlt-c19-030` : รหัส (code (e.g postal, security)) : 1 meaning(s), 2 sentences
 - `wlt-c19-031` : ร้านขายหนังสือ (bookstore) : 1 meaning(s), 2 sentences
 - `wlt-c19-032` : ร้านตัดเสื้อ (tailor, dressmaker) : 1 meaning(s), 2 sentences
+- `wlt-c19-033` : ริมฝีปาก (lips) : 1 meaning(s), 2 sentences
+- `wlt-c19-034` : รู้เรื่อง (to understand, to follow what is being said, to be aware of what's going on) : 1 meaning(s), 2 sentences
+- `wlt-c19-035` : โรคหัวใจ (heart disease) : 1 meaning(s), 2 sentences
 - `wlt-c19-042` : ศูนย์การค้า (shopping center) : 1 meaning(s), 2 sentences
 - `wlt-c19-044` : สบายๆ ("no problem", "no worries", relaxed) : 1 meaning(s), 2 sentences
 - `wlt-c19-050` : สูบบุหรี่ (to smoke (cigarettes)) : 1 meaning(s), 2 sentences
