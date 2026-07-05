@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5962 words**
+**Total: 5972 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4955,22 +4955,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-053` : หด (to shrink) : 1 meaning(s), 2 sentences
 - `wlt-c12-055` : หน้าร้อน (hot season) : 1 meaning(s), 2 sentences
 - `wlt-c12-056` : หน้าหนาว (cold season) : 1 meaning(s), 2 sentences
+- `wlt-c12-057` : หมื่น (ten thousand (10,000)) : 1 meaning(s), 2 sentences
 - `wlt-c12-058` : หมุน (to rotate, to spin, to revolve) : 1 meaning(s), 2 sentences
 - `wlt-c12-059` : หรือยัง (yet (question word), have you... yet?) : 1 meaning(s), 2 sentences
+- `wlt-c12-061` : หลานชาย (nephew, grandson) : 1 meaning(s), 2 sentences
+- `wlt-c12-062` : หลานสาว (niece, granddaughter) : 1 meaning(s), 2 sentences
 - `wlt-c12-063` : ห้องนอน (bedroom) : 1 meaning(s), 2 sentences
 - `wlt-c12-064` : หอพัก (dormitory) : 1 meaning(s), 2 sentences
+- `wlt-c12-065` : หอย (mollusk, shellfish; (slang) pussy) : 2 meaning(s), 4 sentences
 - `wlt-c12-066` : หัก (to break, to fracture; to deduct, to subtract) : 2 meaning(s), 4 sentences
+- `wlt-c12-067` : หัวใจ (heart) : 1 meaning(s), 2 sentences
+- `wlt-c12-069` : เห็ด (mushroom) : 1 meaning(s), 2 sentences
 - `wlt-c12-070` : เห็นด้วย (to agree) : 1 meaning(s), 2 sentences
 - `wlt-c12-071` : เหม็น (to smell bad) : 1 meaning(s), 2 sentences
 - `wlt-c12-072` : เหมาะสม (appropriate) : 1 meaning(s), 2 sentences
 - `wlt-c12-074` : เหลือ (to be left over, remaining) : 1 meaning(s), 2 sentences
 - `wlt-c12-075` : แห้ง (dry) : 1 meaning(s), 2 sentences
 - `wlt-c12-077` : อธิบาย (to explain) : 1 meaning(s), 2 sentences
+- `wlt-c12-078` : อบ (to bake, to roast) : 1 meaning(s), 2 sentences
 - `wlt-c12-079` : ออฟฟิศ (office) : 1 meaning(s), 2 sentences
 - `wlt-c12-080` : อาจ, อาจจะ (may, might, maybe) : 1 meaning(s), 2 sentences
+- `wlt-c12-082` : อาชีพ (profession) : 1 meaning(s), 2 sentences
 - `wlt-c12-083` : อาศัยอยู่, อาศัย (to live, to reside; to depend on, to rely on) : 2 meaning(s), 4 sentences
 - `wlt-c12-084` : อาหารเย็น (dinner) : 1 meaning(s), 2 sentences
+- `wlt-c12-085` : อุณหภูมิ (temperature) : 1 meaning(s), 2 sentences
 - `wlt-c12-086` : อุ่น (warm, to warm up, to heat up) : 1 meaning(s), 2 sentences
+- `wlt-c12-087` : เอก (first, primary, highest) : 1 meaning(s), 2 sentences
 - `wlt-c12-089` : กรม (department, bureau, government agency) : 1 meaning(s), 2 sentences
 - `wlt-c12-090` : กระจก (window pane, mirror) : 1 meaning(s), 2 sentences
 - `wlt-c12-091` : กระดาน (board, plank) : 1 meaning(s), 2 sentences

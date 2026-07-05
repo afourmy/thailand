@@ -186874,6 +186874,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ten thousand (10,000)",
+        "sentences": [
+          {
+            "thai": "โทรศัพท์รุ่นนี้ราคาสองหมื่นบาท",
+            "en": "This phone model costs twenty thousand baht.",
+            "audio_src": "โทรศัพท์รุ่นนี้ราคาสองหมื่นบาท",
+            "audio_en_src": "This phone model costs twenty thousand baht."
+          },
+          {
+            "thai": "เขาเก็บเงินได้หมื่นบาท",
+            "en": "He saved up ten thousand baht.",
+            "audio_src": "เขาเก็บเงินได้หมื่นบาท",
+            "audio_en_src": "He saved up ten thousand baht."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186949,6 +186968,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "nephew, grandson",
+        "sentences": [
+          {
+            "thai": "หลานชายของฉันเรียนอยู่ประถม",
+            "en": "My nephew is in primary school.",
+            "audio_src": "หลานชายของฉันเรียนอยู่ประถม",
+            "audio_en_src": "My nephew is in primary school."
+          },
+          {
+            "thai": "ปู่พาหลานชายไปตกปลา",
+            "en": "Grandpa took his grandson fishing.",
+            "audio_src": "ปู่พาหลานชายไปตกปลา",
+            "audio_en_src": "Grandpa took his grandson fishing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186959,6 +186997,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "niece, granddaughter",
+        "sentences": [
+          {
+            "thai": "หลานสาวชอบเล่นตุ๊กตา",
+            "en": "My niece likes playing with dolls.",
+            "audio_src": "หลานสาวชอบเล่นตุ๊กตา",
+            "audio_en_src": "My niece likes playing with dolls."
+          },
+          {
+            "thai": "ยายเลี้ยงหลานสาวตั้งแต่เล็ก",
+            "en": "Grandma raised her granddaughter from a young age.",
+            "audio_src": "ยายเลี้ยงหลานสาวตั้งแต่เล็ก",
+            "audio_en_src": "Grandma raised her granddaughter from a young age."
+          }
+        ]
+      }
     ]
   },
   {
@@ -187034,6 +187091,42 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mollusk, shellfish",
+        "sentences": [
+          {
+            "thai": "หอยแมลงภู่นึ่งอร่อยมาก",
+            "en": "Steamed mussels are delicious.",
+            "audio_src": "หอยแมลงภู่นึ่งอร่อยมาก",
+            "audio_en_src": "Steamed mussels are delicious."
+          },
+          {
+            "thai": "เด็กๆเก็บหอยริมชายหาด",
+            "en": "The kids collect shells along the beach.",
+            "audio_src": "เด็กๆเก็บหอยริมชายหาด",
+            "audio_en_src": "The kids collect shells along the beach."
+          }
+        ]
+      },
+      {
+        "meaning": "(slang) pussy",
+        "sentences": [
+          {
+            "thai": "หนังโป๊เรื่องนี้เห็นหอยชัดเลย",
+            "en": "In this porn you can clearly see her pussy.",
+            "audio_src": "หนังโป๊เรื่องนี้เห็นหอยชัดเลย",
+            "audio_en_src": "In this porn you can clearly see her pussy."
+          },
+          {
+            "thai": "ไอ้พวกลามกชอบพูดถึงหอย",
+            "en": "Those perverts love talking about pussy.",
+            "audio_src": "ไอ้พวกลามกชอบพูดถึงหอย",
+            "audio_en_src": "Those perverts love talking about pussy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -187096,6 +187189,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "heart",
+        "sentences": [
+          {
+            "thai": "หัวใจเต้นเร็วเวลาตื่นเต้น",
+            "en": "The heart beats fast when you're excited.",
+            "audio_src": "หัวใจเต้นเร็วเวลาตื่นเต้น",
+            "audio_en_src": "The heart beats fast when you're excited."
+          },
+          {
+            "thai": "เขาป่วยเป็นโรคหัวใจ",
+            "en": "He has heart disease.",
+            "audio_src": "เขาป่วยเป็นโรคหัวใจ",
+            "audio_en_src": "He has heart disease."
+          }
+        ]
+      }
     ]
   },
   {
@@ -187106,6 +187218,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "mushroom",
+        "sentences": [
+          {
+            "thai": "ผัดเห็ดรวมมิตรใส่น้ำมันหอย",
+            "en": "Stir-fried mixed mushrooms with oyster sauce.",
+            "audio_src": "ผัดเห็ดรวมมิตรใส่น้ำมันหอย",
+            "audio_en_src": "Stir-fried mixed mushrooms with oyster sauce."
+          },
+          {
+            "thai": "เห็ดบางชนิดมีพิษกินไม่ได้",
+            "en": "Some mushrooms are poisonous and inedible.",
+            "audio_src": "เห็ดบางชนิดมีพิษกินไม่ได้",
+            "audio_en_src": "Some mushrooms are poisonous and inedible."
+          }
+        ]
+      }
     ]
   },
   {
@@ -187317,6 +187448,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to bake, to roast",
+        "sentences": [
+          {
+            "thai": "อบคุกกี้ในเตาอบยี่สิบนาที",
+            "en": "Bake the cookies in the oven for twenty minutes.",
+            "audio_src": "อบคุกกี้ในเตาอบยี่สิบนาที",
+            "audio_en_src": "Bake the cookies in the oven for twenty minutes."
+          },
+          {
+            "thai": "ไก่อบสมุนไพรหอมมาก",
+            "en": "The herb-roasted chicken smells amazing.",
+            "audio_src": "ไก่อบสมุนไพรหอมมาก",
+            "audio_en_src": "The herb-roasted chicken smells amazing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -187393,6 +187543,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "profession",
+        "sentences": [
+          {
+            "thai": "เขามีอาชีพเป็นวิศวกร",
+            "en": "He works as an engineer.",
+            "audio_src": "เขามีอาชีพเป็นวิศวกร",
+            "audio_en_src": "He works as an engineer."
+          },
+          {
+            "thai": "อาชีพครูต้องอดทนสูง",
+            "en": "The teaching profession requires a lot of patience.",
+            "audio_src": "อาชีพครูต้องอดทนสูง",
+            "audio_en_src": "The teaching profession requires a lot of patience."
+          }
+        ]
+      }
     ]
   },
   {
@@ -187485,6 +187654,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "temperature",
+        "sentences": [
+          {
+            "thai": "วันนี้อุณหภูมิสูงถึงสามสิบห้าองศา",
+            "en": "Today the temperature reached thirty-five degrees.",
+            "audio_src": "วันนี้อุณหภูมิสูงถึงสามสิบห้าองศา",
+            "audio_en_src": "Today the temperature reached thirty-five degrees."
+          },
+          {
+            "thai": "อุณหภูมิร่างกายปกติประมาณสามสิบเจ็ดองศา",
+            "en": "Normal body temperature is about thirty-seven degrees.",
+            "audio_src": "อุณหภูมิร่างกายปกติประมาณสามสิบเจ็ดองศา",
+            "audio_en_src": "Normal body temperature is about thirty-seven degrees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -187528,6 +187716,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "first, primary, highest",
+        "sentences": [
+          {
+            "thai": "พระเอกกับนางเอกในเรื่องนี้เข้ากันดี",
+            "en": "The male and female leads in this show are a good match.",
+            "audio_src": "พระเอกกับนางเอกในเรื่องนี้เข้ากันดี",
+            "audio_en_src": "The male and female leads in this show are a good match."
+          },
+          {
+            "thai": "เขาเรียนวิชาเอกเศรษฐศาสตร์",
+            "en": "He majors in economics.",
+            "audio_src": "เขาเรียนวิชาเอกเศรษฐศาสตร์",
+            "audio_en_src": "He majors in economics."
+          }
+        ]
+      }
     ]
   },
   {
