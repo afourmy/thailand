@@ -60,6 +60,7 @@
         { href: "index.html", en: "Vocabulary" },
         { href: "flashcards.html", en: "Flashcards" },
         { href: "etymology.html", en: "Etymology" },
+        { href: "culture.html", en: "Culture" },
       ]
     ]},
     { en: "Projects", columns: [
