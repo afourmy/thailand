@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5522 words**
+**Total: 5532 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3939,11 +3939,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-076` : ลี้ภัย (to seek refuge, to seek asylum) : 1 meaning(s), 2 sentences
 - `new-7` : ผู้ลี้ภัย (refugee) : 1 meaning(s), 2 sentences
 - `yt-c20-078` : กั๊ก (to hold something back, to keep secrets, to not go all in (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-083` : ช่างแม่ง ("screw it", "fuck that shit" (slang, vulgar)) : 1 meaning(s), 2 sentences
+- `yt-c20-084` : ฝากไว้ก่อนเถอะ ("I'll get back at you (get my revenge on you) later") : 1 meaning(s), 1 sentences
+- `yt-c20-085` : พ่อแม่ไม่สั่งสอนเหรอ ((very rude) didn't your parents teach you anything ?) : 1 meaning(s), 1 sentences
+- `yt-c20-086` : พ่อง (พ่อมึง), แม่ง (แม่มึง), แม่งเอ้ย ("damn it!", "fuck!" (slang, vulgar)) : 1 meaning(s), 2 sentences
 - `yt-c20-087` : บรรจุภัณฑ์ (packaging) : 1 meaning(s), 2 sentences
 - `yt-c20-088` : จำเจ (monotonous, repetitive, routine) : 1 meaning(s), 2 sentences
+- `yt-c20-090` : รักสามเส้า (love triangle) : 1 meaning(s), 2 sentences
+- `yt-c20-091` : อย่ามาโทษผม ("don't blame me") : 1 meaning(s), 2 sentences
+- `yt-c20-093` : ว่าไปเรื่อย (to talk nonsense, to ramble, to make things up (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-094` : ไม่เนียน (not convincing, not believable, fake-looking (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-096` : แก้เผ็ด (to retaliate, to get even (light revenge, e.g when someone teases you)) : 1 meaning(s), 2 sentences
 - `yt-c20-097` : หลาบจำ (to be taught a lesson (when you're getting punished for something)) : 1 meaning(s), 2 sentences
+- `yt-c20-099` : คืนดี (to get back together (e.g after breaking up), to reconcile) : 1 meaning(s), 2 sentences
 - `yt-c21-000` : แตะตา, สะดุดตา (to strike the eyes, eye-catching) : 1 meaning(s), 2 sentences
+- `yt-c21-005` : แซะ (to make sarcastic, snide remarks, to take a dig at someone (indirect, passive-aggressive criticism)) : 1 meaning(s), 2 sentences
 - `yt-c21-032` : จู่โจม (to ambush, to raid, to launch a surprise attack) : 1 meaning(s), 2 sentences
 - `yt-c21-042` : ให้ความเห็นชอบ (to give one's approval, to give consent) : 1 meaning(s), 2 sentences
 - `yt-c21-047` : คราง (to groan, to moan (e.g heavy work, sex)) : 1 meaning(s), 2 sentences
