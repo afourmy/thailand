@@ -174358,6 +174358,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to be in debt, to owe money",
+        "sentences": [
+          {
+            "thai": "เขาเป็นหนี้บัตรเครดิตเยอะ",
+            "en": "He has a lot of credit card debt.",
+            "audio_src": "เขาเป็นหนี้บัตรเครดิตเยอะ",
+            "audio_en_src": "He has a lot of credit card debt."
+          },
+          {
+            "thai": "ฉันเป็นหนี้เพื่อนอยู่ห้าร้อย",
+            "en": "I owe a friend five hundred.",
+            "audio_src": "ฉันเป็นหนี้เพื่อนอยู่ห้าร้อย",
+            "audio_en_src": "I owe a friend five hundred."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174558,6 +174577,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bandage",
+        "sentences": [
+          {
+            "thai": "พันผ้าพันแผลที่นิ้วที่มีดบาด",
+            "en": "Wrap a bandage on the finger the knife cut.",
+            "audio_src": "พันผ้าพันแผลที่นิ้วที่มีดบาด",
+            "audio_en_src": "Wrap a bandage on the finger the knife cut."
+          },
+          {
+            "thai": "ผ้าพันแผลหมดต้องซื้อใหม่",
+            "en": "We're out of bandages, need to buy more.",
+            "audio_src": "ผ้าพันแผลหมดต้องซื้อใหม่",
+            "audio_en_src": "We're out of bandages, need to buy more."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174569,6 +174607,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ghost",
+        "sentences": [
+          {
+            "thai": "เด็กๆกลัวผีตอนกลางคืน",
+            "en": "Kids are scared of ghosts at night.",
+            "audio_src": "เด็กๆกลัวผีตอนกลางคืน",
+            "audio_en_src": "Kids are scared of ghosts at night."
+          },
+          {
+            "thai": "เขาเล่าเรื่องผีจนขนลุก",
+            "en": "He told a ghost story that gave me goosebumps.",
+            "audio_src": "เขาเล่าเรื่องผีจนขนลุก",
+            "audio_en_src": "He told a ghost story that gave me goosebumps."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174579,6 +174636,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bee",
+        "sentences": [
+          {
+            "thai": "ผึ้งดูดน้ำหวานจากดอกไม้",
+            "en": "Bees suck nectar from flowers.",
+            "audio_src": "ผึ้งดูดน้ำหวานจากดอกไม้",
+            "audio_en_src": "Bees suck nectar from flowers."
+          },
+          {
+            "thai": "ระวังโดนผึ้งต่อย",
+            "en": "Careful not to get stung by a bee.",
+            "audio_src": "ระวังโดนผึ้งต่อย",
+            "audio_en_src": "Careful not to get stung by a bee."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174653,6 +174729,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "guardian (person responsible for a minor, usually the parent)",
+        "sentences": [
+          {
+            "thai": "ผู้ปกครองมาประชุมที่โรงเรียน",
+            "en": "The parents came to the meeting at school.",
+            "audio_src": "ผู้ปกครองมาประชุมที่โรงเรียน",
+            "audio_en_src": "The parents came to the meeting at school."
+          },
+          {
+            "thai": "นักเรียนต้องให้ผู้ปกครองเซ็นชื่อ",
+            "en": "Students need a guardian's signature.",
+            "audio_src": "นักเรียนต้องให้ผู้ปกครองเซ็นชื่อ",
+            "audio_en_src": "Students need a guardian's signature."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174664,6 +174759,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "producer, manufacturer, maker",
+        "sentences": [
+          {
+            "thai": "ผู้ผลิตรถยนต์เปิดตัวรุ่นใหม่",
+            "en": "The car manufacturer launched a new model.",
+            "audio_src": "ผู้ผลิตรถยนต์เปิดตัวรุ่นใหม่",
+            "audio_en_src": "The car manufacturer launched a new model."
+          },
+          {
+            "thai": "สินค้าตกมาตรฐานผู้ผลิตต้องรับผิดชอบ",
+            "en": "If products are substandard, the manufacturer is responsible.",
+            "audio_src": "สินค้าตกมาตรฐานผู้ผลิตต้องรับผิดชอบ",
+            "audio_en_src": "If products are substandard, the manufacturer is responsible."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174674,6 +174788,25 @@
     "topic": "law",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "judge (court)",
+        "sentences": [
+          {
+            "thai": "ผู้พิพากษาตัดสินคดี",
+            "en": "The judge ruled on the case.",
+            "audio_src": "ผู้พิพากษาตัดสินคดี",
+            "audio_en_src": "The judge ruled on the case."
+          },
+          {
+            "thai": "ทุกคนยืนขึ้นเมื่อผู้พิพากษาเข้ามา",
+            "en": "Everyone stood up when the judge entered.",
+            "audio_src": "ทุกคนยืนขึ้นเมื่อผู้พิพากษาเข้ามา",
+            "audio_en_src": "Everyone stood up when the judge entered."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174694,6 +174827,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to deposit money (in the bank)",
+        "sentences": [
+          {
+            "thai": "เขาไปฝากเงินที่ธนาคาร",
+            "en": "He went to deposit money at the bank.",
+            "audio_src": "เขาไปฝากเงินที่ธนาคาร",
+            "audio_en_src": "He went to deposit money at the bank."
+          },
+          {
+            "thai": "ฝากเงินทุกเดือนไว้เก็บออม",
+            "en": "Deposit money every month to build up savings.",
+            "audio_src": "ฝากเงินทุกเดือนไว้เก็บออม",
+            "audio_en_src": "Deposit money every month to build up savings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174736,6 +174888,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "consonant",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมีพยัญชนะสี่สิบสี่ตัว",
+            "en": "Thai has forty-four consonants.",
+            "audio_src": "ภาษาไทยมีพยัญชนะสี่สิบสี่ตัว",
+            "audio_en_src": "Thai has forty-four consonants."
+          },
+          {
+            "thai": "เด็กเรียนพยัญชนะก่อนหัดอ่าน",
+            "en": "Children learn the consonants before learning to read.",
+            "audio_src": "เด็กเรียนพยัญชนะก่อนหัดอ่าน",
+            "audio_en_src": "Children learn the consonants before learning to read."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174746,6 +174917,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "syllable",
+        "sentences": [
+          {
+            "thai": "คำนี้มีสองพยางค์",
+            "en": "This word has two syllables.",
+            "audio_src": "คำนี้มีสองพยางค์",
+            "audio_en_src": "This word has two syllables."
+          },
+          {
+            "thai": "อ่านออกเสียงให้ครบทุกพยางค์",
+            "en": "Pronounce every syllable fully.",
+            "audio_src": "อ่านออกเสียงให้ครบทุกพยางค์",
+            "audio_en_src": "Pronounce every syllable fully."
+          }
+        ]
+      }
     ]
   },
   {

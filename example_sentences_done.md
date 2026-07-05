@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5832 words**
+**Total: 5842 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4566,15 +4566,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-074` : ปัจจัย (factor) : 1 meaning(s), 2 sentences
 - `wlt-c07-076` : ป่าไม้ (forest) : 1 meaning(s), 2 sentences
 - `wlt-c07-077` : ปืนพก (pistol) : 1 meaning(s), 2 sentences
+- `wlt-c07-079` : เป็นหนี้ (to be in debt, to owe money) : 1 meaning(s), 2 sentences
 - `wlt-c07-080` : เปียก (wet) : 1 meaning(s), 2 sentences
 - `wlt-c07-082` : โปรแกรม (program (loan word)) : 1 meaning(s), 2 sentences
 - `wlt-c07-084` : ไปเยี่ยม (to go visit a person) : 1 meaning(s), 2 sentences
 - `wlt-c07-085` : ไปส่ง (to see someone off, to deliver someone or something) : 1 meaning(s), 2 sentences
 - `wlt-c07-089` : ผ้าเช็ดมือ (handtowel, napkin) : 1 meaning(s), 2 sentences
 - `wlt-c07-090` : ผ้าใบ (canvas) : 1 meaning(s), 2 sentences
+- `wlt-c07-091` : ผ้าพันแผล (bandage) : 1 meaning(s), 2 sentences
+- `wlt-c07-092` : ผี (ghost) : 1 meaning(s), 2 sentences
+- `wlt-c07-093` : ผึ้ง (bee) : 1 meaning(s), 2 sentences
 - `wlt-c07-095` : ผู้เช่า (tenant) : 1 meaning(s), 2 sentences
 - `wlt-c07-096` : ผู้แต่ง (composer, author) : 1 meaning(s), 2 sentences
+- `wlt-c07-097` : ผู้ปกครอง (guardian (person responsible for a minor, usually the parent)) : 1 meaning(s), 2 sentences
+- `wlt-c07-098` : ผู้ผลิต (producer, manufacturer, maker) : 1 meaning(s), 2 sentences
+- `wlt-c07-099` : ผู้พิพากษา (judge (court)) : 1 meaning(s), 2 sentences
+- `wlt-c08-001` : ฝากเงิน (to deposit money (in the bank)) : 1 meaning(s), 2 sentences
 - `wlt-c08-004` : พ่น (to spray) : 1 meaning(s), 2 sentences
+- `wlt-c08-005` : พยัญชนะ (consonant) : 1 meaning(s), 2 sentences
+- `wlt-c08-006` : พยางค์ (syllable) : 1 meaning(s), 2 sentences
 - `wlt-c08-014` : พิง (to lean against) : 1 meaning(s), 2 sentences
 - `wlt-c08-020` : เพชร (diamond) : 1 meaning(s), 2 sentences
 - `wlt-c08-021` : เพศ (gender, sex) : 1 meaning(s), 2 sentences
