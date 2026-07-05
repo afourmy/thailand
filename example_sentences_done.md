@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5772 words**
+**Total: 5782 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4407,26 +4407,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-060` : แก้ไขเพิ่มเติม (to amend, to revise) : 1 meaning(s), 2 sentences
 - `wlt-c05-061` : โกน (to shave) : 1 meaning(s), 2 sentences
 - `wlt-c05-062` : ไก่งวง (turkey) : 1 meaning(s), 2 sentences
+- `wlt-c05-063` : ขนตา (eyelash) : 1 meaning(s), 2 sentences
 - `wlt-c05-064` : ข่วน (to scratch (in a way that leaves injury or marks)) : 1 meaning(s), 2 sentences
 - `wlt-c05-065` : ข้อความ (message) : 1 meaning(s), 2 sentences
 - `wlt-c05-066` : ของคุณ (your, yours) : 1 meaning(s), 2 sentences
 - `wlt-c05-068` : ขอบ (side, border, edge, rim) : 1 meaning(s), 2 sentences
+- `wlt-c05-069` : ขายส่ง (to sell wholesale) : 1 meaning(s), 2 sentences
 - `wlt-c05-070` : ข้าวเที่ยง (lunch) : 1 meaning(s), 2 sentences
 - `wlt-c05-071` : ข้าวผัด (fried rice) : 1 meaning(s), 2 sentences
 - `wlt-c05-072` : ขูด (to scrape off) : 1 meaning(s), 2 sentences
 - `wlt-c05-073` : เข็มกลัด (brooch) : 1 meaning(s), 2 sentences
+- `wlt-c05-074` : เข็มฉีดยา (syringe) : 1 meaning(s), 2 sentences
 - `wlt-c05-078` : แข่ง, แข่งขัน (to compete) : 1 meaning(s), 2 sentences
 - `wlt-c05-079` : แข็งแรง (strong, robust) : 1 meaning(s), 2 sentences
+- `wlt-c05-081` : คณะกรรมการ (committee, commission) : 1 meaning(s), 2 sentences
+- `wlt-c05-083` : คนไข้, ผู้ป่วย (patient) : 1 meaning(s), 2 sentences
 - `wlt-c05-085` : คนไทย (Thai person) : 1 meaning(s), 2 sentences
 - `wlt-c05-087` : คนใน (insider) : 1 meaning(s), 2 sentences
+- `wlt-c05-088` : คนโสด (single person, bachelor, spinster) : 1 meaning(s), 2 sentences
 - `wlt-c05-089` : ครั้งแรก (first time) : 1 meaning(s), 2 sentences
+- `wlt-c05-090` : ครู่ (a short while, a moment) : 1 meaning(s), 2 sentences
 - `wlt-c05-091` : ครูฝึก (coach, trainer) : 1 meaning(s), 2 sentences
 - `wlt-c05-093` : ความคิด (idea) : 1 meaning(s), 2 sentences
 - `wlt-c05-094` : ความคิดเห็น (opinion) : 1 meaning(s), 2 sentences
 - `wlt-c05-095` : ความจริง (truth) : 1 meaning(s), 2 sentences
+- `wlt-c05-096` : ความเชื่อ (belief) : 1 meaning(s), 2 sentences
 - `wlt-c05-097` : ความรู้ (knowledge) : 1 meaning(s), 2 sentences
+- `wlt-c05-098` : ความรู้สึก (feeling) : 1 meaning(s), 2 sentences
 - `wlt-c06-003` : ค้อน (hammer) : 1 meaning(s), 2 sentences
 - `wlt-c06-005` : คะแนน (grade, score point(s)) : 1 meaning(s), 2 sentences
+- `wlt-c06-007` : ค่าเช่า (rent) : 1 meaning(s), 2 sentences
 - `wlt-c06-010` : คำถาม (question) : 1 meaning(s), 2 sentences
 - `wlt-c06-011` : คำนึง, คำนึงถึง (to think deeply, to take into consideration) : 1 meaning(s), 2 sentences
 - `wlt-c06-014` : เคยชิน (to get used to) : 1 meaning(s), 2 sentences

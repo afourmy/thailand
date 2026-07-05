@@ -169189,6 +169189,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "eyelash",
+        "sentences": [
+          {
+            "thai": "เธอมีขนตายาวสวย",
+            "en": "She has long, pretty eyelashes.",
+            "audio_src": "เธอมีขนตายาวสวย",
+            "audio_en_src": "She has long, pretty eyelashes."
+          },
+          {
+            "thai": "ขนตาปลอมทำให้ตาดูโต",
+            "en": "False eyelashes make your eyes look bigger.",
+            "audio_src": "ขนตาปลอมทำให้ตาดูโต",
+            "audio_en_src": "False eyelashes make your eyes look bigger."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169329,6 +169348,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to sell wholesale",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายส่งราคาถูกกว่าขายปลีก",
+            "en": "This shop sells wholesale, cheaper than retail.",
+            "audio_src": "ร้านนี้ขายส่งราคาถูกกว่าขายปลีก",
+            "audio_en_src": "This shop sells wholesale, cheaper than retail."
+          },
+          {
+            "thai": "เขาขายส่งเสื้อผ้าให้ร้านค้า",
+            "en": "He sells clothes wholesale to the shops.",
+            "audio_src": "เขาขายส่งเสื้อผ้าให้ร้านค้า",
+            "audio_en_src": "He sells clothes wholesale to the shops."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169467,6 +169505,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "syringe",
+        "sentences": [
+          {
+            "thai": "พยาบาลเตรียมเข็มฉีดยา",
+            "en": "The nurse prepared the syringe.",
+            "audio_src": "พยาบาลเตรียมเข็มฉีดยา",
+            "audio_en_src": "The nurse prepared the syringe."
+          },
+          {
+            "thai": "เด็กกลัวเข็มฉีดยา",
+            "en": "The child is scared of syringes.",
+            "audio_src": "เด็กกลัวเข็มฉีดยา",
+            "audio_en_src": "The child is scared of syringes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169542,6 +169599,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "committee, commission",
+        "sentences": [
+          {
+            "thai": "คณะกรรมการประชุมพิจารณาโครงการ",
+            "en": "The committee met to consider the project.",
+            "audio_src": "คณะกรรมการประชุมพิจารณาโครงการ",
+            "audio_en_src": "The committee met to consider the project."
+          },
+          {
+            "thai": "เขาได้รับเลือกเป็นคณะกรรมการ",
+            "en": "He was elected to the committee.",
+            "audio_src": "เขาได้รับเลือกเป็นคณะกรรมการ",
+            "audio_en_src": "He was elected to the committee."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169553,6 +169629,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "patient",
+        "sentences": [
+          {
+            "thai": "หมอตรวจคนไข้ทีละคน",
+            "en": "The doctor examines patients one at a time.",
+            "audio_src": "หมอตรวจคนไข้ทีละคน",
+            "audio_en_src": "The doctor examines patients one at a time."
+          },
+          {
+            "thai": "ผู้ป่วยต้องพักรักษาตัวที่โรงพยาบาล",
+            "en": "The patient needs to recover in the hospital.",
+            "audio_src": "ผู้ป่วยต้องพักรักษาตัวที่โรงพยาบาล",
+            "audio_en_src": "The patient needs to recover in the hospital."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169628,6 +169723,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "single person, bachelor, spinster",
+        "sentences": [
+          {
+            "thai": "เขายังเป็นคนโสดอยู่",
+            "en": "He's still single.",
+            "audio_src": "เขายังเป็นคนโสดอยู่",
+            "audio_en_src": "He's still single."
+          },
+          {
+            "thai": "คนโสดมีอิสระในการใช้ชีวิต",
+            "en": "Single people have freedom in how they live.",
+            "audio_src": "คนโสดมีอิสระในการใช้ชีวิต",
+            "audio_en_src": "Single people have freedom in how they live."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169672,6 +169786,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "a short while, a moment",
+        "sentences": [
+          {
+            "thai": "รอสักครู่เดี๋ยวมา",
+            "en": "Wait a moment, I'll be right back.",
+            "audio_src": "รอสักครู่เดี๋ยวมา",
+            "audio_en_src": "Wait a moment, I'll be right back."
+          },
+          {
+            "thai": "เขาเงียบไปครู่หนึ่งก่อนตอบ",
+            "en": "He was silent for a moment before answering.",
+            "audio_src": "เขาเงียบไปครู่หนึ่งก่อนตอบ",
+            "audio_en_src": "He was silent for a moment before answering."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169811,6 +169944,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "belief",
+        "sentences": [
+          {
+            "thai": "แต่ละคนมีความเชื่อต่างกัน",
+            "en": "Everyone has different beliefs.",
+            "audio_src": "แต่ละคนมีความเชื่อต่างกัน",
+            "audio_en_src": "Everyone has different beliefs."
+          },
+          {
+            "thai": "ความเชื่อเรื่องผีมีมานาน",
+            "en": "Beliefs about ghosts have existed for a long time.",
+            "audio_src": "ความเชื่อเรื่องผีมีมานาน",
+            "audio_en_src": "Beliefs about ghosts have existed for a long time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169854,6 +170006,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "feeling",
+        "sentences": [
+          {
+            "thai": "เขาเก็บความรู้สึกไว้ไม่บอกใคร",
+            "en": "He keeps his feelings to himself.",
+            "audio_src": "เขาเก็บความรู้สึกไว้ไม่บอกใคร",
+            "audio_en_src": "He keeps his feelings to himself."
+          },
+          {
+            "thai": "ความรู้สึกของเธอเปลี่ยนไป",
+            "en": "Her feelings have changed.",
+            "audio_src": "ความรู้สึกของเธอเปลี่ยนไป",
+            "audio_en_src": "Her feelings have changed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -169938,6 +170109,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "rent",
+        "sentences": [
+          {
+            "thai": "ค่าเช่าห้องเดือนละห้าพัน",
+            "en": "The room rent is five thousand a month.",
+            "audio_src": "ค่าเช่าห้องเดือนละห้าพัน",
+            "audio_en_src": "The room rent is five thousand a month."
+          },
+          {
+            "thai": "เขาจ่ายค่าเช่าตรงเวลาทุกเดือน",
+            "en": "He pays the rent on time every month.",
+            "audio_src": "เขาจ่ายค่าเช่าตรงเวลาทุกเดือน",
+            "audio_en_src": "He pays the rent on time every month."
+          }
+        ]
+      }
     ]
   },
   {
