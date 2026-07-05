@@ -159937,6 +159937,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "imported goods, foreign products (made outside Thailand)",
+        "sentences": [
+          {
+            "thai": "เขาชอบซื้อของนอกราคาแพง",
+            "en": "He likes buying expensive imported goods.",
+            "audio_src": "เขาชอบซื้อของนอกราคาแพง",
+            "audio_en_src": "He likes buying expensive imported goods."
+          },
+          {
+            "thai": "ของนอกไม่ได้ดีกว่าของไทยเสมอไป",
+            "en": "Imported products aren't always better than Thai ones.",
+            "audio_src": "ของนอกไม่ได้ดีกว่าของไทยเสมอไป",
+            "audio_en_src": "Imported products aren't always better than Thai ones."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159947,6 +159966,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "(I) wish you ...",
+        "sentences": [
+          {
+            "thai": "ขอให้เดินทางปลอดภัย",
+            "en": "Wishing you a safe trip.",
+            "audio_src": "ขอให้เดินทางปลอดภัย",
+            "audio_en_src": "Wishing you a safe trip."
+          },
+          {
+            "thai": "ขอให้สอบผ่านนะ",
+            "en": "Hope you pass the exam.",
+            "audio_src": "ขอให้สอบผ่านนะ",
+            "audio_en_src": "Hope you pass the exam."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159990,6 +160028,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "white rice",
+        "sentences": [
+          {
+            "thai": "กินข้าวขาวกับกับข้าว",
+            "en": "Eat white rice with the dishes.",
+            "audio_src": "กินข้าวขาวกับกับข้าว",
+            "audio_en_src": "Eat white rice with the dishes."
+          },
+          {
+            "thai": "บางคนเลี่ยงข้าวขาวหันไปกินข้าวกล้อง",
+            "en": "Some people avoid white rice and switch to brown rice.",
+            "audio_src": "บางคนเลี่ยงข้าวขาวหันไปกินข้าวกล้อง",
+            "audio_en_src": "Some people avoid white rice and switch to brown rice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160000,6 +160057,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cooked rice",
+        "sentences": [
+          {
+            "thai": "หุงข้าวสุกไว้รอแล้ว",
+            "en": "The cooked rice is ready and waiting.",
+            "audio_src": "หุงข้าวสุกไว้รอแล้ว",
+            "audio_en_src": "The cooked rice is ready and waiting."
+          },
+          {
+            "thai": "เอาข้าวสุกที่เหลือไปทำข้าวผัด",
+            "en": "Use the leftover cooked rice to make fried rice.",
+            "audio_src": "เอาข้าวสุกที่เหลือไปทำข้าวผัด",
+            "audio_en_src": "Use the leftover cooked rice to make fried rice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160074,6 +160150,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "yolk",
+        "sentences": [
+          {
+            "thai": "ไข่แดงมีสีเหลืองเข้ม",
+            "en": "The yolk is a deep yellow.",
+            "audio_src": "ไข่แดงมีสีเหลืองเข้ม",
+            "audio_en_src": "The yolk is a deep yellow."
+          },
+          {
+            "thai": "เขากินแต่ไข่ขาวไม่กินไข่แดง",
+            "en": "He eats only the egg white, not the yolk.",
+            "audio_src": "เขากินแต่ไข่ขาวไม่กินไข่แดง",
+            "audio_en_src": "He eats only the egg white, not the yolk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160084,6 +160179,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "steamed egg",
+        "sentences": [
+          {
+            "thai": "ไข่ตุ๋นเนื้อนุ่มเหมาะกับเด็ก",
+            "en": "Steamed egg is soft, so it's good for kids.",
+            "audio_src": "ไข่ตุ๋นเนื้อนุ่มเหมาะกับเด็ก",
+            "audio_en_src": "Steamed egg is soft, so it's good for kids."
+          },
+          {
+            "thai": "สั่งไข่ตุ๋นทรงเครื่องมาหนึ่งถ้วย",
+            "en": "I ordered a bowl of steamed egg with toppings.",
+            "audio_src": "สั่งไข่ตุ๋นทรงเครื่องมาหนึ่งถ้วย",
+            "audio_en_src": "I ordered a bowl of steamed egg with toppings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160094,6 +160208,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "grilled egg",
+        "sentences": [
+          {
+            "thai": "ไข่ปิ้งขายตามข้างทาง",
+            "en": "Grilled eggs are sold along the roadside.",
+            "audio_src": "ไข่ปิ้งขายตามข้างทาง",
+            "audio_en_src": "Grilled eggs are sold along the roadside."
+          },
+          {
+            "thai": "กลิ่นไข่ปิ้งหอมชวนกิน",
+            "en": "The smell of grilled egg is mouthwatering.",
+            "audio_src": "กลิ่นไข่ปิ้งหอมชวนกิน",
+            "audio_en_src": "The smell of grilled egg is mouthwatering."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160104,6 +160237,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "stuffed omelet",
+        "sentences": [
+          {
+            "thai": "ไข่ยัดไส้ใส่หมูสับกับผัก",
+            "en": "Stuffed omelet with minced pork and vegetables.",
+            "audio_src": "ไข่ยัดไส้ใส่หมูสับกับผัก",
+            "audio_en_src": "Stuffed omelet with minced pork and vegetables."
+          },
+          {
+            "thai": "แม่ทำไข่ยัดไส้เป็นอาหารเช้า",
+            "en": "Mom made a stuffed omelet for breakfast.",
+            "audio_src": "แม่ทำไข่ยัดไส้เป็นอาหารเช้า",
+            "audio_en_src": "Mom made a stuffed omelet for breakfast."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160114,6 +160266,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "very soft boiled eggs",
+        "sentences": [
+          {
+            "thai": "กินไข่ลวกใส่ซีอิ๊วตอนเช้า",
+            "en": "Eat soft-boiled eggs with soy sauce in the morning.",
+            "audio_src": "กินไข่ลวกใส่ซีอิ๊วตอนเช้า",
+            "audio_en_src": "Eat soft-boiled eggs with soy sauce in the morning."
+          },
+          {
+            "thai": "ไข่ลวกยังเหลวๆอยู่เลย",
+            "en": "The soft-boiled egg is still runny.",
+            "audio_src": "ไข่ลวกยังเหลวๆอยู่เลย",
+            "audio_en_src": "The soft-boiled egg is still runny."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160221,6 +160392,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "eldest (of children)",
+        "sentences": [
+          {
+            "thai": "ลูกคนโตช่วยดูแลน้อง",
+            "en": "The eldest child helps look after the younger ones.",
+            "audio_src": "ลูกคนโตช่วยดูแลน้อง",
+            "audio_en_src": "The eldest child helps look after the younger ones."
+          },
+          {
+            "thai": "คนโตในบ้านต้องรับผิดชอบมากหน่อย",
+            "en": "The eldest in the family has to take on a bit more responsibility.",
+            "audio_src": "คนโตในบ้านต้องรับผิดชอบมากหน่อย",
+            "audio_en_src": "The eldest in the family has to take on a bit more responsibility."
+          }
+        ]
+      }
     ]
   },
   {

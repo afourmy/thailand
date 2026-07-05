@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5642 words**
+**Total: 5652 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4111,12 +4111,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-023` : ของจริง (real thing) : 1 meaning(s), 2 sentences
 - `wlt-c01-024` : ของใช้ (appliance, utensils, wares) : 1 meaning(s), 2 sentences
+- `wlt-c01-025` : ของนอก (imported goods, foreign products (made outside Thailand)) : 1 meaning(s), 2 sentences
+- `wlt-c01-028` : ขอให้ ((I) wish you ...) : 1 meaning(s), 2 sentences
 - `wlt-c01-029` : ข้างขวา (มือ) (right (hand) side) : 1 meaning(s), 2 sentences
+- `wlt-c01-030` : ข้าวขาว (white rice) : 1 meaning(s), 2 sentences
+- `wlt-c01-032` : ข้าวสุก (cooked rice) : 1 meaning(s), 2 sentences
 - `wlt-c01-035` : เข้าใจผิด (to misunderstand) : 1 meaning(s), 2 sentences
 - `wlt-c01-037` : ไปนอน, เข้านอน (to go to bed) : 1 meaning(s), 2 sentences
+- `wlt-c01-039` : ไข่แดง (yolk) : 1 meaning(s), 2 sentences
+- `wlt-c01-040` : ไข่ตุ๋น (steamed egg) : 1 meaning(s), 2 sentences
+- `wlt-c01-041` : ไข่ปิ้ง (grilled egg) : 1 meaning(s), 2 sentences
+- `wlt-c01-042` : ไข่ยัดไส้ (stuffed omelet) : 1 meaning(s), 2 sentences
+- `wlt-c01-043` : ไข่ลวก (very soft boiled eggs) : 1 meaning(s), 2 sentences
 - `wlt-c01-044` : คนขาย (vendor) : 1 meaning(s), 2 sentences
 - `wlt-c01-045` : คนขายของ (salesman) : 1 meaning(s), 2 sentences
 - `wlt-c01-046` : คนงาน (worker, laborer (manual or industrial work)) : 1 meaning(s), 2 sentences
+- `wlt-c01-047` : คนโต (eldest (of children)) : 1 meaning(s), 2 sentences
 - `wlt-c01-050` : คราวหน้า (next time) : 1 meaning(s), 2 sentences
 - `wlt-c01-052` : ครึ่งหนึ่ง (one half) : 1 meaning(s), 2 sentences
 - `wlt-c01-053` : ความสำคัญ (importance) : 1 meaning(s), 2 sentences
