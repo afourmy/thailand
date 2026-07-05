@@ -228922,6 +228922,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "vitamin",
+        "sentences": [
+          {
+            "thai": "ส้มมีวิตามินซีสูง",
+            "en": "Oranges are high in vitamin C.",
+            "audio_src": "ส้มมีวิตามินซีสูง",
+            "audio_en_src": "Oranges are high in vitamin C."
+          },
+          {
+            "thai": "หมอแนะนำให้กินวิตามินเสริม",
+            "en": "The doctor recommended taking vitamin supplements.",
+            "audio_src": "หมอแนะนำให้กินวิตามินเสริม",
+            "audio_en_src": "The doctor recommended taking vitamin supplements."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228932,6 +228951,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "republic",
+        "sentences": [
+          {
+            "thai": "ฝรั่งเศสปกครองในระบอบสาธารณรัฐ",
+            "en": "France is governed as a republic.",
+            "audio_src": "ฝรั่งเศสปกครองในระบอบสาธารณรัฐ",
+            "audio_en_src": "France is governed as a republic."
+          },
+          {
+            "thai": "ประเทศนี้เปลี่ยนการปกครองมาเป็นสาธารณรัฐ",
+            "en": "This country switched to being a republic.",
+            "audio_src": "ประเทศนี้เปลี่ยนการปกครองมาเป็นสาธารณรัฐ",
+            "audio_en_src": "This country switched to being a republic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228983,6 +229021,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fiscal year",
+        "sentences": [
+          {
+            "thai": "ปีงบประมาณของไทยเริ่มเดือนตุลาคม",
+            "en": "Thailand's fiscal year begins in October.",
+            "audio_src": "ปีงบประมาณของไทยเริ่มเดือนตุลาคม",
+            "audio_en_src": "Thailand's fiscal year begins in October."
+          },
+          {
+            "thai": "งบก้อนนี้ต้องใช้ให้หมดภายในปีงบประมาณ",
+            "en": "This budget has to be spent within the fiscal year.",
+            "audio_src": "งบก้อนนี้ต้องใช้ให้หมดภายในปีงบประมาณ",
+            "audio_en_src": "This budget has to be spent within the fiscal year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228993,6 +229050,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "void, null, invalid (formal, legal)",
+        "sentences": [
+          {
+            "thai": "สัญญาฉบับนี้เป็นโมฆะ",
+            "en": "This contract is void.",
+            "audio_src": "สัญญาฉบับนี้เป็นโมฆะ",
+            "audio_en_src": "This contract is void."
+          },
+          {
+            "thai": "การเลือกตั้งครั้งนั้นถูกประกาศให้เป็นโมฆะ",
+            "en": "That election was declared invalid.",
+            "audio_src": "การเลือกตั้งครั้งนั้นถูกประกาศให้เป็นโมฆะ",
+            "audio_en_src": "That election was declared invalid."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229044,6 +229120,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tense, stressful, high-pressure",
+        "sentences": [
+          {
+            "thai": "บรรยากาศในที่ประชุมตึงเครียดมาก",
+            "en": "The atmosphere in the meeting was really tense.",
+            "audio_src": "บรรยากาศในที่ประชุมตึงเครียดมาก",
+            "audio_en_src": "The atmosphere in the meeting was really tense."
+          },
+          {
+            "thai": "สถานการณ์ชายแดนเริ่มตึงเครียด",
+            "en": "The situation at the border is getting tense.",
+            "audio_src": "สถานการณ์ชายแดนเริ่มตึงเครียด",
+            "audio_en_src": "The situation at the border is getting tense."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229227,6 +229322,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "clinic",
+        "sentences": [
+          {
+            "thai": "เขาไปหาหมอที่คลินิกใกล้บ้าน",
+            "en": "He went to see a doctor at the clinic near his house.",
+            "audio_src": "เขาไปหาหมอที่คลินิกใกล้บ้าน",
+            "audio_en_src": "He went to see a doctor at the clinic near his house."
+          },
+          {
+            "thai": "คลินิกนี้เปิดถึงสามทุ่ม",
+            "en": "This clinic is open until nine at night.",
+            "audio_src": "คลินิกนี้เปิดถึงสามทุ่ม",
+            "audio_en_src": "This clinic is open until nine at night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229247,6 +229361,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "dispute, conflict, disagreement (formal)",
+        "sentences": [
+          {
+            "thai": "สองประเทศมีข้อพิพาทเรื่องพรมแดน",
+            "en": "The two countries have a border dispute.",
+            "audio_src": "สองประเทศมีข้อพิพาทเรื่องพรมแดน",
+            "audio_en_src": "The two countries have a border dispute."
+          },
+          {
+            "thai": "ข้อพิพาทเรื่องมรดกยังไม่จบสักที",
+            "en": "The dispute over the inheritance still isn't settled.",
+            "audio_src": "ข้อพิพาทเรื่องมรดกยังไม่จบสักที",
+            "audio_en_src": "The dispute over the inheritance still isn't settled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229257,6 +229390,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "party leader",
+        "sentences": [
+          {
+            "thai": "หัวหน้าพรรคแถลงนโยบายในวันนี้",
+            "en": "The party leader announced the policy today.",
+            "audio_src": "หัวหน้าพรรคแถลงนโยบายในวันนี้",
+            "audio_en_src": "The party leader announced the policy today."
+          },
+          {
+            "thai": "สมาชิกลงคะแนนเลือกหัวหน้าพรรคคนใหม่",
+            "en": "The members voted for a new party leader.",
+            "audio_src": "สมาชิกลงคะแนนเลือกหัวหน้าพรรคคนใหม่",
+            "audio_en_src": "The members voted for a new party leader."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229318,6 +229470,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hormone",
+        "sentences": [
+          {
+            "thai": "วัยรุ่นมักมีการเปลี่ยนแปลงของฮอร์โมน",
+            "en": "Teenagers often go through hormonal changes.",
+            "audio_src": "วัยรุ่นมักมีการเปลี่ยนแปลงของฮอร์โมน",
+            "audio_en_src": "Teenagers often go through hormonal changes."
+          },
+          {
+            "thai": "ฮอร์โมนส่งผลต่ออารมณ์ของเรา",
+            "en": "Hormones affect our mood.",
+            "audio_src": "ฮอร์โมนส่งผลต่ออารมณ์ของเรา",
+            "audio_en_src": "Hormones affect our mood."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229338,6 +229509,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "dance (traditional style)",
+        "sentences": [
+          {
+            "thai": "นักเรียนแสดงระบำไทยบนเวที",
+            "en": "The students performed a traditional Thai dance on stage.",
+            "audio_src": "นักเรียนแสดงระบำไทยบนเวที",
+            "audio_en_src": "The students performed a traditional Thai dance on stage."
+          },
+          {
+            "thai": "ระบำชุดนี้ต้องใช้ผู้แสดงหลายคน",
+            "en": "This dance requires many performers.",
+            "audio_src": "ระบำชุดนี้ต้องใช้ผู้แสดงหลายคน",
+            "audio_en_src": "This dance requires many performers."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6282 words**
+**Total: 6292 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6160,13 +6160,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-009` : ข้อเรียกร้อง (demand, claim, request (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c11-011` : คำร้อง (petition; request) : 2 meaning(s), 4 sentences
 - `t4k-c11-017` : ผู้รับผิดชอบ (person in charge, responsible person) : 1 meaning(s), 2 sentences
+- `t4k-c11-018` : วิตามิน (vitamin) : 1 meaning(s), 2 sentences
+- `t4k-c11-020` : สาธารณรัฐ (republic) : 1 meaning(s), 2 sentences
 - `t4k-c11-022` : ข้อสอบ (exam, test) : 1 meaning(s), 2 sentences
+- `t4k-c11-024` : ปีงบประมาณ (fiscal year) : 1 meaning(s), 2 sentences
+- `t4k-c11-025` : โมฆะ (void, null, invalid (formal, legal)) : 1 meaning(s), 2 sentences
 - `t4k-c11-028` : บ่งชี้ (to indicate, to point out) : 1 meaning(s), 2 sentences
+- `t4k-c11-030` : ตึงเครียด (tense, stressful, high-pressure) : 1 meaning(s), 2 sentences
 - `t4k-c11-032` : เกร็ง (to contract (muscles), to harden; (figuratively) to be stiff, to be tense (nervous)) : 2 meaning(s), 4 sentences
 - `t4k-c11-034` : ทรุด (to sink, to subside, to collapse) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
 - `t4k-c11-040` : ต้าน (to resist, to oppose) : 1 meaning(s), 2 sentences
+- `t4k-c11-041` : คลินิก (clinic) : 1 meaning(s), 2 sentences
+- `t4k-c11-044` : ข้อพิพาท (dispute, conflict, disagreement (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c11-045` : หัวหน้าพรรค (party leader) : 1 meaning(s), 2 sentences
 - `t4k-c11-051` : โยกย้าย (to relocate, to transfer, to shift from one place to another) : 1 meaning(s), 2 sentences
+- `t4k-c11-054` : ฮอร์โมน (hormone) : 1 meaning(s), 2 sentences
+- `t4k-c11-056` : ระบำ (dance (traditional style)) : 1 meaning(s), 2 sentences
 - `t4k-c11-060` : กดขี่ (to oppress, to repress) : 1 meaning(s), 2 sentences
 - `t4k-c11-076` : พิกัด (coordinates) : 1 meaning(s), 2 sentences
 - `t4k-c11-077` : ตายตัว (rigid, inflexible, fixed) : 1 meaning(s), 2 sentences
