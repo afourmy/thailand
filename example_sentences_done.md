@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5822 words**
+**Total: 5832 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4541,20 +4541,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-039` : นักการเมือง (politician) : 1 meaning(s), 2 sentences
 - `wlt-c07-040` : นักแปล (translator) : 1 meaning(s), 2 sentences
 - `wlt-c07-043` : นายกรัฐมนตรี (prime minister) : 1 meaning(s), 2 sentences
+- `wlt-c07-044` : นายจ้าง (employer) : 1 meaning(s), 2 sentences
 - `wlt-c07-045` : น่ารำคาญ (annoying) : 1 meaning(s), 2 sentences
+- `wlt-c07-046` : น่าเสียใจ (regrettable, sad) : 1 meaning(s), 2 sentences
 - `wlt-c07-047` : น่าเสียดาย (what a pity, what a shame; regrettable) : 2 meaning(s), 4 sentences
+- `wlt-c07-049` : น้ำเชื่อม (syrup) : 1 meaning(s), 2 sentences
+- `wlt-c07-051` : น้ำมะนาว (lemonade) : 1 meaning(s), 2 sentences
 - `wlt-c07-053` : นิ้วมือ (finger) : 1 meaning(s), 2 sentences
+- `wlt-c07-054` : เนื้อวัว (beef) : 1 meaning(s), 2 sentences
 - `wlt-c07-055` : แนวโน้ม (tendency) : 1 meaning(s), 2 sentences
+- `wlt-c07-057` : บก (land (as opposed to sea)) : 1 meaning(s), 2 sentences
 - `wlt-c07-058` : บัตร (ticket, card) : 1 meaning(s), 2 sentences
 - `wlt-c07-059` : บัตรเครดิต (credit card) : 1 meaning(s), 2 sentences
 - `wlt-c07-062` : บุรุษไปรษณีย์ (postman) : 1 meaning(s), 2 sentences
 - `wlt-c07-063` : เบาะ, เบาะนั่ง (seat) : 1 meaning(s), 2 sentences
 - `wlt-c07-064` : โบว์ลิ่ง (bowling) : 1 meaning(s), 2 sentences
+- `wlt-c07-065` : ใบมะกรูด (kaffir lime leaf) : 1 meaning(s), 2 sentences
+- `wlt-c07-066` : สลิป, ใบเสร็จ (receipt) : 1 meaning(s), 2 sentences
 - `wlt-c07-067` : ประถม (elementary (level)) : 1 meaning(s), 2 sentences
 - `wlt-c07-068` : ประพฤติ (to behave, to conduct oneself (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c07-069` : ประมูล (to auction, to bid (in an auction)) : 1 meaning(s), 2 sentences
 - `wlt-c07-070` : ประเมิน (to estimate, to assess, to evaluate) : 1 meaning(s), 2 sentences
 - `wlt-c07-072` : ประสบ (to face, to encounter) : 1 meaning(s), 2 sentences
 - `wlt-c07-074` : ปัจจัย (factor) : 1 meaning(s), 2 sentences
+- `wlt-c07-076` : ป่าไม้ (forest) : 1 meaning(s), 2 sentences
 - `wlt-c07-077` : ปืนพก (pistol) : 1 meaning(s), 2 sentences
 - `wlt-c07-080` : เปียก (wet) : 1 meaning(s), 2 sentences
 - `wlt-c07-082` : โปรแกรม (program (loan word)) : 1 meaning(s), 2 sentences

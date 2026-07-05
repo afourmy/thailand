@@ -173525,6 +173525,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "employer",
+        "sentences": [
+          {
+            "thai": "นายจ้างจ่ายเงินเดือนตรงเวลา",
+            "en": "The employer pays wages on time.",
+            "audio_src": "นายจ้างจ่ายเงินเดือนตรงเวลา",
+            "audio_en_src": "The employer pays wages on time."
+          },
+          {
+            "thai": "ลูกจ้างกับนายจ้างตกลงเรื่องค่าแรง",
+            "en": "The employee and employer agreed on the wage.",
+            "audio_src": "ลูกจ้างกับนายจ้างตกลงเรื่องค่าแรง",
+            "audio_en_src": "The employee and employer agreed on the wage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173568,6 +173587,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "regrettable, sad",
+        "sentences": [
+          {
+            "thai": "เป็นเรื่องน่าเสียใจที่เขาต้องจากไป",
+            "en": "It's sad that he had to leave.",
+            "audio_src": "เป็นเรื่องน่าเสียใจที่เขาต้องจากไป",
+            "audio_en_src": "It's sad that he had to leave."
+          },
+          {
+            "thai": "ผลลัพธ์ออกมาน่าเสียใจ",
+            "en": "The outcome was regrettable.",
+            "audio_src": "ผลลัพธ์ออกมาน่าเสียใจ",
+            "audio_en_src": "The outcome was regrettable."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173629,6 +173667,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "syrup",
+        "sentences": [
+          {
+            "thai": "ราดน้ำเชื่อมบนแพนเค้ก",
+            "en": "Drizzle syrup on the pancakes.",
+            "audio_src": "ราดน้ำเชื่อมบนแพนเค้ก",
+            "audio_en_src": "Drizzle syrup on the pancakes."
+          },
+          {
+            "thai": "เติมน้ำเชื่อมให้กาแฟหวานขึ้น",
+            "en": "Add syrup to make the coffee sweeter.",
+            "audio_src": "เติมน้ำเชื่อมให้กาแฟหวานขึ้น",
+            "audio_en_src": "Add syrup to make the coffee sweeter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173639,6 +173696,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lemonade",
+        "sentences": [
+          {
+            "thai": "อากาศร้อนดื่มน้ำมะนาวเย็นๆ",
+            "en": "It's hot, have some cold lemonade.",
+            "audio_src": "อากาศร้อนดื่มน้ำมะนาวเย็นๆ",
+            "audio_en_src": "It's hot, have some cold lemonade."
+          },
+          {
+            "thai": "น้ำมะนาวใส่น้ำผึ้งช่วยแก้เจ็บคอ",
+            "en": "Lemonade with honey helps a sore throat.",
+            "audio_src": "น้ำมะนาวใส่น้ำผึ้งช่วยแก้เจ็บคอ",
+            "audio_en_src": "Lemonade with honey helps a sore throat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173692,6 +173768,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "beef",
+        "sentences": [
+          {
+            "thai": "ก๋วยเตี๋ยวเนื้อวัวรสเข้มข้น",
+            "en": "Beef noodle soup with a rich broth.",
+            "audio_src": "ก๋วยเตี๋ยวเนื้อวัวรสเข้มข้น",
+            "audio_en_src": "Beef noodle soup with a rich broth."
+          },
+          {
+            "thai": "ย่างเนื้อวัวให้สุกกำลังดี",
+            "en": "Grill the beef until it's medium.",
+            "audio_src": "ย่างเนื้อวัวให้สุกกำลังดี",
+            "audio_en_src": "Grill the beef until it's medium."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173735,6 +173830,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "land (as opposed to sea)",
+        "sentences": [
+          {
+            "thai": "เต่าบางชนิดอาศัยอยู่บนบก",
+            "en": "Some turtles live on land.",
+            "audio_src": "เต่าบางชนิดอาศัยอยู่บนบก",
+            "audio_en_src": "Some turtles live on land."
+          },
+          {
+            "thai": "เดินทางทางบกใช้เวลานานกว่า",
+            "en": "Traveling by land takes longer.",
+            "audio_src": "เดินทางทางบกใช้เวลานานกว่า",
+            "audio_en_src": "Traveling by land takes longer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173914,6 +174028,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "kaffir lime leaf",
+        "sentences": [
+          {
+            "thai": "ใส่ใบมะกรูดในต้มยำ",
+            "en": "Add kaffir lime leaves to the tom yum.",
+            "audio_src": "ใส่ใบมะกรูดในต้มยำ",
+            "audio_en_src": "Add kaffir lime leaves to the tom yum."
+          },
+          {
+            "thai": "ใบมะกรูดมีกลิ่นหอมแรง",
+            "en": "Kaffir lime leaves have a strong fragrance.",
+            "audio_src": "ใบมะกรูดมีกลิ่นหอมแรง",
+            "audio_en_src": "Kaffir lime leaves have a strong fragrance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173925,6 +174058,25 @@
     "sources": [
       "Anki Basics",
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "receipt",
+        "sentences": [
+          {
+            "thai": "เก็บใบเสร็จไว้เผื่อต้องเปลี่ยนสินค้า",
+            "en": "Keep the receipt in case you need to exchange the item.",
+            "audio_src": "เก็บใบเสร็จไว้เผื่อต้องเปลี่ยนสินค้า",
+            "audio_en_src": "Keep the receipt in case you need to exchange the item."
+          },
+          {
+            "thai": "เขาขอสลิปการโอนเงิน",
+            "en": "He asked for the transfer slip.",
+            "audio_src": "เขาขอสลิปการโอนเงิน",
+            "audio_en_src": "He asked for the transfer slip."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174000,6 +174152,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to auction, to bid (in an auction)",
+        "sentences": [
+          {
+            "thai": "เขาประมูลภาพวาดได้ในราคาสูง",
+            "en": "He won the painting at auction for a high price.",
+            "audio_src": "เขาประมูลภาพวาดได้ในราคาสูง",
+            "audio_en_src": "He won the painting at auction for a high price."
+          },
+          {
+            "thai": "หลายคนมาประมูลบ้านหลังนี้",
+            "en": "Many people came to bid on this house.",
+            "audio_src": "หลายคนมาประมูลบ้านหลังนี้",
+            "audio_en_src": "Many people came to bid on this house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174127,6 +174298,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "forest",
+        "sentences": [
+          {
+            "thai": "ป่าไม้ช่วยดูดซับก๊าซคาร์บอน",
+            "en": "Forests help absorb carbon.",
+            "audio_src": "ป่าไม้ช่วยดูดซับก๊าซคาร์บอน",
+            "audio_en_src": "Forests help absorb carbon."
+          },
+          {
+            "thai": "การตัดไม้ทำลายป่าไม้",
+            "en": "Logging destroys forests.",
+            "audio_src": "การตัดไม้ทำลายป่าไม้",
+            "audio_en_src": "Logging destroys forests."
+          }
+        ]
+      }
     ]
   },
   {
