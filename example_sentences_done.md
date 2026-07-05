@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5532 words**
+**Total: 5542 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3954,7 +3954,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-099` : คืนดี (to get back together (e.g after breaking up), to reconcile) : 1 meaning(s), 2 sentences
 - `yt-c21-000` : แตะตา, สะดุดตา (to strike the eyes, eye-catching) : 1 meaning(s), 2 sentences
 - `yt-c21-005` : แซะ (to make sarcastic, snide remarks, to take a dig at someone (indirect, passive-aggressive criticism)) : 1 meaning(s), 2 sentences
+- `yt-c21-008` : ไม่ถือ (I don't mind (in the sense "I won't hold it against you")) : 1 meaning(s), 2 sentences
+- `yt-c21-009` : งานนอก (side job, freelance work) : 1 meaning(s), 2 sentences
+- `yt-c21-011` : กินแรง (to be a parasite, to freeload on others' effort (e.g not help one's team at work)) : 1 meaning(s), 2 sentences
+- `yt-c21-017` : จัดกัน (to have sex, to hook up (literally "to arrange something")) : 1 meaning(s), 2 sentences
+- `yt-c21-025` : ไปตามน้ำ ((idiom) to go with the flow) : 1 meaning(s), 2 sentences
+- `yt-c21-029` : แทงข้างหลัง ((expression) to stab in the back, to betray) : 1 meaning(s), 2 sentences
 - `yt-c21-032` : จู่โจม (to ambush, to raid, to launch a surprise attack) : 1 meaning(s), 2 sentences
+- `yt-c21-034` : ลงเรือลำเดียวกัน (to be in the same boat) : 1 meaning(s), 2 sentences
+- `yt-c21-035` : น้ำตาจระเข้ (fake tears, crocodile tears) : 1 meaning(s), 2 sentences
+- `yt-c21-036` : ตบมือข้างเดียวไม่ดัง (it takes two to tango (literally "one hand can't clap")) : 1 meaning(s), 1 sentences
+- `yt-c21-037` : จู๋, กระเจี๊ยว, กระปู๋, เจ้าโลก, องคชาต, ปิกาจู, กระดอ, ช้างน้อย, จ้อน, งู, น้องชาย (various words for "dick") : 1 meaning(s), 2 sentences
 - `yt-c21-042` : ให้ความเห็นชอบ (to give one's approval, to give consent) : 1 meaning(s), 2 sentences
 - `yt-c21-047` : คราง (to groan, to moan (e.g heavy work, sex)) : 1 meaning(s), 2 sentences
 - `yt-c21-052` : ยอดมนุษย์ (superhero) : 1 meaning(s), 2 sentences
