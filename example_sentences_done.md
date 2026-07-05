@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6302 words**
+**Total: 6312 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6192,14 +6192,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-085` : เนื้อสัตว์ (meat) : 1 meaning(s), 2 sentences
 - `t4k-c11-093` : สายลม (breeze, wind (literary)) : 1 meaning(s), 2 sentences
 - `t4k-c11-094` : กรด (acid) : 1 meaning(s), 2 sentences
+- `t4k-c11-101` : เส้นผม (hair) : 1 meaning(s), 2 sentences
+- `t4k-c11-102` : สหภาพ (union, federation) : 1 meaning(s), 2 sentences
+- `t4k-c11-103` : ผู้เยาว์ (minor (person under legal age)) : 1 meaning(s), 2 sentences
 - `t4k-c11-104` : คุณนาย (Madam, Mrs.) : 1 meaning(s), 2 sentences
 - `t4k-c11-107` : พรรณนา (to depict, to portray, to describe in detail) : 1 meaning(s), 2 sentences
 - `t4k-c11-109` : เค้ก (cake) : 1 meaning(s), 2 sentences
 - `t4k-c11-110` : ยิ้มแย้ม (to smile happily, to have a cheerful facial expression) : 1 meaning(s), 2 sentences
+- `t4k-c11-112` : ชาตินิยม (nationalism) : 1 meaning(s), 2 sentences
+- `t4k-c11-115` : หันหลัง (to turn one's back, to turn around) : 1 meaning(s), 2 sentences
+- `t4k-c11-118` : ผู้ส่งออก (exporter) : 1 meaning(s), 2 sentences
 - `t4k-c11-122` : เหี่ยว (to lose freshness, to shrivel, to become dry and wrinkled) : 1 meaning(s), 2 sentences
+- `t4k-c11-123` : ฝ่ามือ (palm) : 1 meaning(s), 2 sentences
 - `t4k-c11-125` : ประถมศึกษา (primary education) : 1 meaning(s), 2 sentences
 - `t4k-c11-128` : จิ๋ว (very small, tiny, miniature) : 1 meaning(s), 2 sentences
 - `t4k-c11-129` : แอลกอฮอล์ (alcohol) : 1 meaning(s), 2 sentences
+- `t4k-c11-130` : โธ่ ("oh dear", "come on!") : 1 meaning(s), 2 sentences
 - `t4k-c11-131` : ลูบ (to stroke, to rub gently (gently glide the hand over a surface, e.g cat, skin)) : 1 meaning(s), 2 sentences
 - `t4k-c11-134` : สปา (spa) : 1 meaning(s), 2 sentences
 - `new-1` : ยาปฏิชีวนะ (antibiotics) : 1 meaning(s), 2 sentences
@@ -6306,3 +6314,5 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-111` : อาหารทะเล (seafood) : 1 meaning(s), 2 sentences
 - `exd-112` : อีเมล (email (loanword)) : 1 meaning(s), 2 sentences
 - `exd-113` : ไอศกรีม (ice-cream (loanword)) : 1 meaning(s), 2 sentences
+- `manual-002` : การเกษตร (agriculture (activity, process)) : 1 meaning(s), 2 sentences
+- `manual-003` : ขี้ระแวง (paranoid, suspicious by nature) : 1 meaning(s), 2 sentences

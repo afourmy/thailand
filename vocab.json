@@ -230123,6 +230123,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hair",
+        "sentences": [
+          {
+            "thai": "มีเส้นผมติดอยู่บนเสื้อ",
+            "en": "There's a hair stuck on your shirt.",
+            "audio_src": "มีเส้นผมติดอยู่บนเสื้อ",
+            "audio_en_src": "There's a hair stuck on your shirt."
+          },
+          {
+            "thai": "เส้นผมของเธอยาวสลวย",
+            "en": "Her hair is long and silky.",
+            "audio_src": "เส้นผมของเธอยาวสลวย",
+            "audio_en_src": "Her hair is long and silky."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230133,6 +230152,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "union, federation",
+        "sentences": [
+          {
+            "thai": "คนงานรวมตัวกันตั้งสหภาพแรงงาน",
+            "en": "The workers came together to form a labor union.",
+            "audio_src": "คนงานรวมตัวกันตั้งสหภาพแรงงาน",
+            "audio_en_src": "The workers came together to form a labor union."
+          },
+          {
+            "thai": "สหภาพยุโรปมีสมาชิกหลายประเทศ",
+            "en": "The European Union has many member countries.",
+            "audio_src": "สหภาพยุโรปมีสมาชิกหลายประเทศ",
+            "audio_en_src": "The European Union has many member countries."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230143,6 +230181,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "minor (person under legal age)",
+        "sentences": [
+          {
+            "thai": "กฎหมายห้ามขายเหล้าให้ผู้เยาว์",
+            "en": "The law forbids selling alcohol to minors.",
+            "audio_src": "กฎหมายห้ามขายเหล้าให้ผู้เยาว์",
+            "audio_en_src": "The law forbids selling alcohol to minors."
+          },
+          {
+            "thai": "ผู้เยาว์ต้องได้รับความยินยอมจากผู้ปกครอง",
+            "en": "A minor needs consent from a guardian.",
+            "audio_src": "ผู้เยาว์ต้องได้รับความยินยอมจากผู้ปกครอง",
+            "audio_en_src": "A minor needs consent from a guardian."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230309,6 +230366,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "nationalism",
+        "sentences": [
+          {
+            "thai": "เพลงนี้ปลุกกระแสชาตินิยม",
+            "en": "This song stirs up nationalism.",
+            "audio_src": "เพลงนี้ปลุกกระแสชาตินิยม",
+            "audio_en_src": "This song stirs up nationalism."
+          },
+          {
+            "thai": "แนวคิดชาตินิยมกำลังเพิ่มขึ้นในหลายประเทศ",
+            "en": "Nationalist ideas are on the rise in many countries.",
+            "audio_src": "แนวคิดชาตินิยมกำลังเพิ่มขึ้นในหลายประเทศ",
+            "audio_en_src": "Nationalist ideas are on the rise in many countries."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230329,6 +230405,25 @@
     "topic": "expressions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to turn one's back, to turn around",
+        "sentences": [
+          {
+            "thai": "เขาหันหลังเดินจากไปเงียบๆ",
+            "en": "He turned and quietly walked away.",
+            "audio_src": "เขาหันหลังเดินจากไปเงียบๆ",
+            "audio_en_src": "He turned and quietly walked away."
+          },
+          {
+            "thai": "อย่าหันหลังให้เพื่อนตอนที่เขาลำบาก",
+            "en": "Don't turn your back on a friend when they're struggling.",
+            "audio_src": "อย่าหันหลังให้เพื่อนตอนที่เขาลำบาก",
+            "audio_en_src": "Don't turn your back on a friend when they're struggling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230349,6 +230444,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "exporter",
+        "sentences": [
+          {
+            "thai": "ไทยเป็นผู้ส่งออกข้าวรายใหญ่",
+            "en": "Thailand is a major rice exporter.",
+            "audio_src": "ไทยเป็นผู้ส่งออกข้าวรายใหญ่",
+            "audio_en_src": "Thailand is a major rice exporter."
+          },
+          {
+            "thai": "ผู้ส่งออกได้รับผลกระทบจากค่าเงินบาทที่แข็ง",
+            "en": "Exporters are affected by the strong baht.",
+            "audio_src": "ผู้ส่งออกได้รับผลกระทบจากค่าเงินบาทที่แข็ง",
+            "audio_en_src": "Exporters are affected by the strong baht."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230410,6 +230524,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "palm",
+        "sentences": [
+          {
+            "thai": "เขากำเหรียญไว้ในฝ่ามือ",
+            "en": "He clutched the coin in his palm.",
+            "audio_src": "เขากำเหรียญไว้ในฝ่ามือ",
+            "audio_en_src": "He clutched the coin in his palm."
+          },
+          {
+            "thai": "หมอดูดูลายเส้นบนฝ่ามือ",
+            "en": "The fortune teller reads the lines on your palm.",
+            "audio_src": "หมอดูดูลายเส้นบนฝ่ามือ",
+            "audio_en_src": "The fortune teller reads the lines on your palm."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230523,6 +230656,25 @@
     "topic": "expressions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"oh dear\", \"come on!\"",
+        "sentences": [
+          {
+            "thai": "โธ่ อย่าเพิ่งท้อสิ",
+            "en": "Come on, don't give up yet.",
+            "audio_src": "โธ่ อย่าเพิ่งท้อสิ",
+            "audio_en_src": "Come on, don't give up yet."
+          },
+          {
+            "thai": "โธ่ น่าสงสารจังเลย",
+            "en": "Oh dear, that's so sad.",
+            "audio_src": "โธ่ น่าสงสารจังเลย",
+            "audio_en_src": "Oh dear, that's so sad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234093,6 +234245,25 @@
       "Tamago L1-2",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "agriculture (activity, process)",
+        "sentences": [
+          {
+            "thai": "ครอบครัวเขาทำการเกษตรมาหลายรุ่น",
+            "en": "His family has farmed for generations.",
+            "audio_src": "ครอบครัวเขาทำการเกษตรมาหลายรุ่น",
+            "audio_en_src": "His family has farmed for generations."
+          },
+          {
+            "thai": "รัฐบาลสนับสนุนการเกษตรแบบยั่งยืน",
+            "en": "The government promotes sustainable agriculture.",
+            "audio_src": "รัฐบาลสนับสนุนการเกษตรแบบยั่งยืน",
+            "audio_en_src": "The government promotes sustainable agriculture."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234103,6 +234274,25 @@
     "topic": "personality",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "paranoid, suspicious by nature",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนขี้ระแวง ไม่ไว้ใจใครง่ายๆ",
+            "en": "He's a paranoid guy who doesn't trust anyone easily.",
+            "audio_src": "เขาเป็นคนขี้ระแวง ไม่ไว้ใจใครง่ายๆ",
+            "audio_en_src": "He's a paranoid guy who doesn't trust anyone easily."
+          },
+          {
+            "thai": "เธอขี้ระแวงจนคอยเช็คมือถือแฟนตลอด",
+            "en": "She's so suspicious she keeps checking her boyfriend's phone.",
+            "audio_src": "เธอขี้ระแวงจนคอยเช็คมือถือแฟนตลอด",
+            "audio_en_src": "She's so suspicious she keeps checking her boyfriend's phone."
+          }
+        ]
+      }
     ]
   },
   {
