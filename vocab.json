@@ -137243,6 +137243,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "output, yield, product",
+        "sentences": [
+          {
+            "thai": "ผลผลิตข้าวปีนี้เพิ่มขึ้น",
+            "en": "This year's rice yield went up.",
+            "audio_src": "ผลผลิตข้าวปีนี้เพิ่มขึ้น",
+            "audio_en_src": "This year's rice yield went up."
+          },
+          {
+            "thai": "โรงงานเพิ่มผลผลิตให้ทันความต้องการ",
+            "en": "The factory boosted output to keep up with demand.",
+            "audio_src": "โรงงานเพิ่มผลผลิตให้ทันความต้องการ",
+            "audio_en_src": "The factory boosted output to keep up with demand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137592,6 +137611,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "monitor lizard",
+        "sentences": [
+          {
+            "thai": "ที่สวนลุมมีเหี้ยเยอะมาก",
+            "en": "There are tons of monitor lizards at Lumphini Park.",
+            "audio_src": "ที่สวนลุมมีเหี้ยเยอะมาก",
+            "audio_en_src": "There are tons of monitor lizards at Lumphini Park."
+          },
+          {
+            "thai": "ตัวเงินตัวทองขึ้นมานอนริมบ่อ",
+            "en": "A monitor lizard came up to lie by the pond.",
+            "audio_src": "ตัวเงินตัวทองขึ้นมานอนริมบ่อ",
+            "audio_en_src": "A monitor lizard came up to lie by the pond."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137642,6 +137680,25 @@
     "topic": "grammar",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"go ahead and...\", \"do it completely\", \"do it once and for all\" (conveys impatience, annoyance)",
+        "sentences": [
+          {
+            "thai": "ง่วงแล้วก็นอนซะเลย",
+            "en": "If you're sleepy, just go to sleep then.",
+            "audio_src": "ง่วงแล้วก็นอนซะเลย",
+            "audio_en_src": "If you're sleepy, just go to sleep then."
+          },
+          {
+            "thai": "กินให้หมดเสียเลยนะ",
+            "en": "Just finish it all up.",
+            "audio_src": "กินให้หมดเสียเลยนะ",
+            "audio_en_src": "Just finish it all up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137662,6 +137719,25 @@
     "topic": "grammar",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "directly, explicitly - indirectly, implicitly",
+        "sentences": [
+          {
+            "thai": "ถ้ามีปัญหา บอกฉันโดยตรงได้เลย",
+            "en": "If there's a problem, you can tell me directly.",
+            "audio_src": "ถ้ามีปัญหา บอกฉันโดยตรงได้เลย",
+            "audio_en_src": "If there's a problem, you can tell me directly."
+          },
+          {
+            "thai": "เขาไม่ได้พูดตรงๆ แต่บอกโดยนัยว่าไม่เห็นด้วย",
+            "en": "He didn't say it outright, but implied he disagreed.",
+            "audio_src": "เขาไม่ได้พูดตรงๆ แต่บอกโดยนัยว่าไม่เห็นด้วย",
+            "audio_en_src": "He didn't say it outright, but implied he disagreed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137887,6 +137963,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to slice off, to cut a thin layer from something",
+        "sentences": [
+          {
+            "thai": "เฉือนเนื้อเป็นแผ่นบางๆ",
+            "en": "Slice the meat into thin pieces.",
+            "audio_src": "เฉือนเนื้อเป็นแผ่นบางๆ",
+            "audio_en_src": "Slice the meat into thin pieces."
+          },
+          {
+            "thai": "ใช้มีดเฉือนไขมันออก",
+            "en": "Use a knife to trim off the fat.",
+            "audio_src": "ใช้มีดเฉือนไขมันออก",
+            "audio_en_src": "Use a knife to trim off the fat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137927,6 +138022,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "surgery (surgical operation)",
+        "sentences": [
+          {
+            "thai": "คุณหมอเป็นแพทย์ศัลยกรรม",
+            "en": "The doctor is a surgeon.",
+            "audio_src": "คุณหมอเป็นแพทย์ศัลยกรรม",
+            "audio_en_src": "The doctor is a surgeon."
+          },
+          {
+            "thai": "เธอไปทำศัลยกรรมจมูก",
+            "en": "She got nose surgery.",
+            "audio_src": "เธอไปทำศัลยกรรมจมูก",
+            "audio_en_src": "She got nose surgery."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137937,6 +138051,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to grasp, to catch the point",
+        "sentences": [
+          {
+            "thai": "ครูสอนให้จับจุดสำคัญของบทเรียน",
+            "en": "The teacher teaches us to catch the key points of the lesson.",
+            "audio_src": "ครูสอนให้จับจุดสำคัญของบทเรียน",
+            "audio_en_src": "The teacher teaches us to catch the key points of the lesson."
+          },
+          {
+            "thai": "พอฟังไปสักพักก็เริ่มจับจุดได้",
+            "en": "After listening for a while, I started to catch on.",
+            "audio_src": "พอฟังไปสักพักก็เริ่มจับจุดได้",
+            "audio_en_src": "After listening for a while, I started to catch on."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137967,6 +138100,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to land (aircraft, helicopter)",
+        "sentences": [
+          {
+            "thai": "เครื่องบินกำลังจะลงจอด",
+            "en": "The plane is about to land.",
+            "audio_src": "เครื่องบินกำลังจะลงจอด",
+            "audio_en_src": "The plane is about to land."
+          },
+          {
+            "thai": "เฮลิคอปเตอร์ลงจอดบนดาดฟ้า",
+            "en": "The helicopter landed on the rooftop.",
+            "audio_src": "เฮลิคอปเตอร์ลงจอดบนดาดฟ้า",
+            "audio_en_src": "The helicopter landed on the rooftop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137977,6 +138129,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "crew member (of a boat or an aircraft)",
+        "sentences": [
+          {
+            "thai": "ลูกเรือคอยดูแลผู้โดยสารตลอดเที่ยวบิน",
+            "en": "The crew looks after passengers throughout the flight.",
+            "audio_src": "ลูกเรือคอยดูแลผู้โดยสารตลอดเที่ยวบิน",
+            "audio_en_src": "The crew looks after passengers throughout the flight."
+          },
+          {
+            "thai": "เขาทำงานเป็นลูกเรือบนเรือสำราญ",
+            "en": "He works as a crew member on a cruise ship.",
+            "audio_src": "เขาทำงานเป็นลูกเรือบนเรือสำราญ",
+            "audio_en_src": "He works as a crew member on a cruise ship."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138038,6 +138209,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "couple formed by two fictional characters (e.g in series, movies)",
+        "sentences": [
+          {
+            "thai": "คู่จิ้นในเรื่องนี้น่ารักมาก",
+            "en": "The on-screen couple in this show is so cute.",
+            "audio_src": "คู่จิ้นในเรื่องนี้น่ารักมาก",
+            "audio_en_src": "The on-screen couple in this show is so cute."
+          },
+          {
+            "thai": "แฟนๆอยากให้คู่จิ้นคู่นี้ได้อยู่ด้วยกัน",
+            "en": "Fans want this couple to end up together.",
+            "audio_src": "แฟนๆอยากให้คู่จิ้นคู่นี้ได้อยู่ด้วยกัน",
+            "audio_en_src": "Fans want this couple to end up together."
+          }
+        ]
+      }
     ]
   },
   {

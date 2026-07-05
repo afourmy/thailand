@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5282 words**
+**Total: 5292 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3530,6 +3530,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-026` : ละมุด (sapodilla (type of fruit)) : 1 meaning(s), 2 sentences
 - `yt-c12-027` : อบเชย (cinnamon) : 1 meaning(s), 2 sentences
 - `yt-c12-028` : ย้อนหลัง (after the fact, retroactively (e.g to send homework late, to wish a birthday late)) : 1 meaning(s), 2 sentences
+- `yt-c12-029` : ผลิตผล, ผลผลิต (output, yield, product) : 1 meaning(s), 2 sentences
 - `yt-c12-030` : เกี่ยว (related to, concerning; to harvest, to reap; to hook, to link, to entangle) : 3 meaning(s), 6 sentences
 - `yt-c12-030b` : เก็บเกี่ยว (to harvest crops (e.g rice, wheat)) : 1 meaning(s), 2 sentences
 - `yt-c12-031` : พร่อง - เต็ม - ล้น (less than full, deficient, lacking, below standard - full - more than full, overflow) : 1 meaning(s), 3 sentences
@@ -3537,10 +3538,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-032b` : ข้อบกพร่อง (defect, flaw) : 1 meaning(s), 2 sentences
 - `yt-c12-035` : วน (to rotate, to go in circle) : 1 meaning(s), 2 sentences
 - `yt-c12-037` : พบปะ (to meet (usually in a social setting, like friends, coworkers), to meet and socialize) : 1 meaning(s), 2 sentences
+- `yt-c12-044` : เหี้ย, ตัวเงินตัวทอง, วรนุช (monitor lizard) : 1 meaning(s), 2 sentences
+- `yt-c12-049` : (เอา)เสียเลย, (เอา)ซะเลย ("go ahead and...", "do it completely", "do it once and for all" (conveys impatience, annoyance)) : 1 meaning(s), 2 sentences
+- `yt-c12-051` : โดยตรง - โดยนัย (directly, explicitly - indirectly, implicitly) : 1 meaning(s), 2 sentences
 - `yt-c12-054` : ยั่ว (to tease, to provoke, to entice) : 1 meaning(s), 2 sentences
 - `yt-c12-058` : ปัด (to brush, to swipe, to dust) : 1 meaning(s), 2 sentences
 - `yt-c12-059` : ถ่วง ((literally) to weigh down (put a weight on something); (figuratively) to hinder, to delay, to slow down) : 2 meaning(s), 4 sentences
+- `yt-c12-065` : เฉือน (to slice off, to cut a thin layer from something) : 1 meaning(s), 2 sentences
+- `yt-c12-069` : ศัลยกรรม (surgery (surgical operation)) : 1 meaning(s), 2 sentences
+- `yt-c12-070` : จับจุด (to grasp, to catch the point) : 1 meaning(s), 2 sentences
+- `yt-c12-073` : ลงจอด (to land (aircraft, helicopter)) : 1 meaning(s), 2 sentences
+- `yt-c12-075` : ลูกเรือ (crew member (of a boat or an aircraft)) : 1 meaning(s), 2 sentences
 - `yt-c12-078` : เบ้า (cavity, socket, mold) : 1 meaning(s), 2 sentences
+- `yt-c12-079` : คู่จิ้น (couple formed by two fictional characters (e.g in series, movies)) : 1 meaning(s), 2 sentences
 - `yt-c12-080` : กระโจน (to leap, to jump very fast like a spring) : 1 meaning(s), 2 sentences
 - `yt-c12-081` : เพ่ง, เพ่งดู (to stare, to focus intently) : 1 meaning(s), 2 sentences
 - `yt-c12-085` : โต้ (to respond, to retort, to argue back; to go against (e.g wind, wave)) : 2 meaning(s), 4 sentences
