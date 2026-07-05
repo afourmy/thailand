@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6122 words**
+**Total: 6132 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5787,10 +5787,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-071` : ก่อให้เกิด (to cause, to give rise to) : 1 meaning(s), 2 sentences
 - `t4k-c02-072` : กาล (time, era; tense (grammar)) : 2 meaning(s), 4 sentences
 - `t4k-c02-075` : เกรง (to be afraid, to hesitate out of respect or fear (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c02-076` : ที่จริง (actually, in fact) : 1 meaning(s), 2 sentences
+- `t4k-c02-077` : ถัดไป, ถัดมา (next, following (in sequence)) : 1 meaning(s), 2 sentences
+- `t4k-c02-078` : ผลประโยชน์ (benefit, gain, interest) : 1 meaning(s), 2 sentences
 - `t4k-c02-083` : บวก (to add; plus ("+"), positive) : 2 meaning(s), 4 sentences
 - `t4k-c02-084` : เก (twisted, crooked, bent) : 1 meaning(s), 2 sentences
+- `t4k-c02-087` : ถึงกับ ("so much... that", to the extent that) : 1 meaning(s), 2 sentences
+- `t4k-c02-088` : กู (I, me (slang, rude)) : 1 meaning(s), 2 sentences
+- `t4k-c02-090` : ทั้งนั้น (all of them, every) : 1 meaning(s), 2 sentences
 - `t4k-c02-092` : เทคนิค (technique) : 1 meaning(s), 2 sentences
+- `t4k-c02-095` : อนามัย (hygiene, sanitation) : 1 meaning(s), 2 sentences
 - `t4k-c02-098` : นึกถึง (to think of, to recall, to remember) : 1 meaning(s), 2 sentences
+- `t4k-c02-099` : พื้นดิน (ground, land, terrain) : 1 meaning(s), 2 sentences
+- `t4k-c03-000` : ราชา (ruler, monarch) : 1 meaning(s), 2 sentences
+- `t4k-c03-002` : เทพ (deity) : 1 meaning(s), 2 sentences
 - `t4k-c03-011` : กด (to press) : 1 meaning(s), 2 sentences
 - `t4k-c03-014` : คิดเห็น (to think, to be of the opinion) : 1 meaning(s), 2 sentences
 - `t4k-c03-015` : ย้อนกลับ (to go back, to reverse) : 1 meaning(s), 2 sentences

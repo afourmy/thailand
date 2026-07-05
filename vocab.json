@@ -215260,6 +215260,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "actually, in fact",
+        "sentences": [
+          {
+            "thai": "ที่จริงฉันไม่อยากไปหรอก",
+            "en": "Actually, I don't really want to go.",
+            "audio_src": "ที่จริงฉันไม่อยากไปหรอก",
+            "audio_en_src": "Actually, I don't really want to go."
+          },
+          {
+            "thai": "เขาดูใจร้ายแต่ที่จริงใจดี",
+            "en": "He seems mean, but he's actually kind.",
+            "audio_src": "เขาดูใจร้ายแต่ที่จริงใจดี",
+            "audio_en_src": "He seems mean, but he's actually kind."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215270,6 +215289,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "next, following (in sequence)",
+        "sentences": [
+          {
+            "thai": "ลงรถป้ายถัดไป",
+            "en": "Get off at the next stop.",
+            "audio_src": "ลงรถป้ายถัดไป",
+            "audio_en_src": "Get off at the next stop."
+          },
+          {
+            "thai": "วันถัดมาเขาก็หายป่วย",
+            "en": "The following day he recovered.",
+            "audio_src": "วันถัดมาเขาก็หายป่วย",
+            "audio_en_src": "The following day he recovered."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215280,6 +215318,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "benefit, gain, interest",
+        "sentences": [
+          {
+            "thai": "เขาทำเพื่อผลประโยชน์ส่วนตัว",
+            "en": "He does it for his own benefit.",
+            "audio_src": "เขาทำเพื่อผลประโยชน์ส่วนตัว",
+            "audio_en_src": "He does it for his own benefit."
+          },
+          {
+            "thai": "สองฝ่ายมีผลประโยชน์ร่วมกัน",
+            "en": "Both sides have shared interests.",
+            "audio_src": "สองฝ่ายมีผลประโยชน์ร่วมกัน",
+            "audio_en_src": "Both sides have shared interests."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215389,6 +215446,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"so much... that\", to the extent that",
+        "sentences": [
+          {
+            "thai": "เขาดีใจถึงกับร้องไห้",
+            "en": "He was so happy he cried.",
+            "audio_src": "เขาดีใจถึงกับร้องไห้",
+            "audio_en_src": "He was so happy he cried."
+          },
+          {
+            "thai": "อร่อยถึงกับสั่งเพิ่มอีกจาน",
+            "en": "It was so delicious I ordered another plate.",
+            "audio_src": "อร่อยถึงกับสั่งเพิ่มอีกจาน",
+            "audio_en_src": "It was so delicious I ordered another plate."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215399,6 +215475,25 @@
     "topic": "slang",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "I, me (slang, rude)",
+        "sentences": [
+          {
+            "thai": "กูจะไปแล้วนะ",
+            "en": "I'm off now.",
+            "audio_src": "กูจะไปแล้วนะ",
+            "audio_en_src": "I'm off now."
+          },
+          {
+            "thai": "อย่ามายุ่งกับกู",
+            "en": "Don't mess with me.",
+            "audio_src": "อย่ามายุ่งกับกู",
+            "audio_en_src": "Don't mess with me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215409,6 +215504,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "all of them, every",
+        "sentences": [
+          {
+            "thai": "ของในร้านนี้แพงทั้งนั้น",
+            "en": "Everything in this shop is expensive.",
+            "audio_src": "ของในร้านนี้แพงทั้งนั้น",
+            "audio_en_src": "Everything in this shop is expensive."
+          },
+          {
+            "thai": "ที่พูดมาเป็นเรื่องจริงทั้งนั้น",
+            "en": "Everything I said is true.",
+            "audio_src": "ที่พูดมาเป็นเรื่องจริงทั้งนั้น",
+            "audio_en_src": "Everything I said is true."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215470,6 +215584,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hygiene, sanitation",
+        "sentences": [
+          {
+            "thai": "ล้างมือบ่อยๆเพื่อสุขอนามัยที่ดี",
+            "en": "Wash your hands often for good hygiene.",
+            "audio_src": "ล้างมือบ่อยๆเพื่อสุขอนามัยที่ดี",
+            "audio_en_src": "Wash your hands often for good hygiene."
+          },
+          {
+            "thai": "ร้านอาหารต้องรักษาความสะอาดและอนามัย",
+            "en": "Restaurants must maintain cleanliness and hygiene.",
+            "audio_src": "ร้านอาหารต้องรักษาความสะอาดและอนามัย",
+            "audio_en_src": "Restaurants must maintain cleanliness and hygiene."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215521,6 +215654,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ground, land, terrain",
+        "sentences": [
+          {
+            "thai": "เมล็ดพืชงอกออกมาจากพื้นดิน",
+            "en": "The seeds sprout up from the ground.",
+            "audio_src": "เมล็ดพืชงอกออกมาจากพื้นดิน",
+            "audio_en_src": "The seeds sprout up from the ground."
+          },
+          {
+            "thai": "พื้นดินแถบนี้แห้งแล้งมาก",
+            "en": "The terrain around here is very arid.",
+            "audio_src": "พื้นดินแถบนี้แห้งแล้งมาก",
+            "audio_en_src": "The terrain around here is very arid."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215531,6 +215683,25 @@
     "topic": "monarchy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ruler, monarch",
+        "sentences": [
+          {
+            "thai": "ราชาปกครองอาณาจักรอย่างยุติธรรม",
+            "en": "The king rules the kingdom justly.",
+            "audio_src": "ราชาปกครองอาณาจักรอย่างยุติธรรม",
+            "audio_en_src": "The king rules the kingdom justly."
+          },
+          {
+            "thai": "สิงโตได้ชื่อว่าเป็นราชาแห่งสัตว์",
+            "en": "The lion is called the king of animals.",
+            "audio_src": "สิงโตได้ชื่อว่าเป็นราชาแห่งสัตว์",
+            "audio_en_src": "The lion is called the king of animals."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215551,6 +215722,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "deity",
+        "sentences": [
+          {
+            "thai": "คนโบราณบูชาเทพเจ้าหลายองค์",
+            "en": "Ancient people worshipped many gods.",
+            "audio_src": "คนโบราณบูชาเทพเจ้าหลายองค์",
+            "audio_en_src": "Ancient people worshipped many gods."
+          },
+          {
+            "thai": "เทพในตำนานกรีกมีพลังวิเศษ",
+            "en": "The gods in Greek myth have magical powers.",
+            "audio_src": "เทพในตำนานกรีกมีพลังวิเศษ",
+            "audio_en_src": "The gods in Greek myth have magical powers."
+          }
+        ]
+      }
     ]
   },
   {
