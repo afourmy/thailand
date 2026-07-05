@@ -234633,6 +234633,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to overstep one's place, to shamelessly butt in, to have the nerve to do something",
+        "sentences": [
+          {
+            "thai": "เธอสะเออะไปยุ่งเรื่องชาวบ้าน",
+            "en": "You've got some nerve butting into other people's business.",
+            "audio_src": "เธอสะเออะไปยุ่งเรื่องชาวบ้าน",
+            "audio_en_src": "You've got some nerve butting into other people's business."
+          },
+          {
+            "thai": "สะเออะมาสั่งฉันได้ยังไง",
+            "en": "How dare you come and boss me around.",
+            "audio_src": "สะเออะมาสั่งฉันได้ยังไง",
+            "audio_en_src": "How dare you come and boss me around."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234643,6 +234662,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "awkwardly nosy, tactless, lacking social awareness",
+        "sentences": [
+          {
+            "thai": "เขาแต่งตัวสะเหล่อจนโดนเพื่อนล้อ",
+            "en": "He dressed so dorky his friends teased him.",
+            "audio_src": "เขาแต่งตัวสะเหล่อจนโดนเพื่อนล้อ",
+            "audio_en_src": "He dressed so dorky his friends teased him."
+          },
+          {
+            "thai": "อย่าทำตัวสะเหล่อต่อหน้าคนอื่น",
+            "en": "Don't act like a dork in front of everyone.",
+            "audio_src": "อย่าทำตัวสะเหล่อต่อหน้าคนอื่น",
+            "audio_en_src": "Don't act like a dork in front of everyone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234653,6 +234691,42 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"...as fuck\", \"fucking...\"",
+        "sentences": [
+          {
+            "thai": "วันนี้ร้อนฉิบหาย",
+            "en": "It's hot as fuck today.",
+            "audio_src": "วันนี้ร้อนฉิบหาย",
+            "audio_en_src": "It's hot as fuck today."
+          },
+          {
+            "thai": "หนังเรื่องนี้สนุกฉิบหาย",
+            "en": "This movie is fucking awesome.",
+            "audio_src": "หนังเรื่องนี้สนุกฉิบหาย",
+            "audio_en_src": "This movie is fucking awesome."
+          }
+        ]
+      },
+      {
+        "meaning": "screwed, awful, fucked-up (slang)",
+        "sentences": [
+          {
+            "thai": "งานเข้าแล้ว ฉิบหายแน่",
+            "en": "We're in for it now, we're totally screwed.",
+            "audio_src": "งานเข้าแล้ว ฉิบหายแน่",
+            "audio_en_src": "We're in for it now, we're totally screwed."
+          },
+          {
+            "thai": "รถพังกลางทาง ฉิบหายเลย",
+            "en": "The car broke down halfway, this is fucked.",
+            "audio_src": "รถพังกลางทาง ฉิบหายเลย",
+            "audio_en_src": "The car broke down halfway, this is fucked."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234663,6 +234737,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "completely screwed, utterly destroyed, total annihilation (slang)",
+        "sentences": [
+          {
+            "thai": "ไฟไหม้จนบ้านฉิบหายวายวอด",
+            "en": "The fire burned the house to the ground.",
+            "audio_src": "ไฟไหม้จนบ้านฉิบหายวายวอด",
+            "audio_en_src": "The fire burned the house to the ground."
+          },
+          {
+            "thai": "ธุรกิจเจ๊งฉิบหายวายวอด",
+            "en": "The business went completely bust.",
+            "audio_src": "ธุรกิจเจ๊งฉิบหายวายวอด",
+            "audio_en_src": "The business went completely bust."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234673,6 +234766,25 @@
     "topic": "family",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "in-law (male)",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเขยของตระกูลนี้",
+            "en": "He married into this family.",
+            "audio_src": "เขาเป็นเขยของตระกูลนี้",
+            "audio_en_src": "He married into this family."
+          },
+          {
+            "thai": "หมู่บ้านนี้มีเขยฝรั่งหลายคน",
+            "en": "This village has a lot of foreign sons-in-law.",
+            "audio_src": "หมู่บ้านนี้มีเขยฝรั่งหลายคน",
+            "audio_en_src": "This village has a lot of foreign sons-in-law."
+          }
+        ]
+      }
     ]
   }
 ]
