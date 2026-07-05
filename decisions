@@ -69,10 +69,15 @@ thaipod-0194 ความอาฆาต: eng 'vengeance, vindictiveness (litera
 thaipod-0254 จารึก: eng 'to engrave, engraving, inscription'
 thaipod-0277 ชัยภูมิ: eng 'auspicious location, strategically favorable spot (military)'
 thaipod-0302 ซุ้มประตู: eng 'gate arch, entrance arch'
+thaipod-0400 ถือศีล: eng 'to observe the Buddhist precepts'
+thaipod-0409 ทรงประกอบ: eng 'to perform, to assemble, to construct (royal)'
+thaipod-0411 ทรงพระนาม: eng '"with the royal name", "is named" (royal)'
 
 tsl-394 อย., สำนักงานคณะกรรมการอาหารและยา: make it 'สำนักงานคณะกรรมการอาหารและยา (อย.)'
 
 tsl-303 นายก อบจ., นายกองค์การบริหารส่วนจังหวัด: make it 'นายกองค์การบริหารส่วนจังหวัด (นายก อบจ.)'
+
+thaipod-0408 ทรงดอกบัวตูม: make it 'ดอกตูม': 'bud (unopened flower)'
 
 tsl-304 ส.อบจ., สมาชิกองค์การบริหารส่วนจังหวัด: make it 'สมาชิกองค์การบริหารส่วนจังหวัด (ส.อบจ.)'
 
@@ -86,4 +91,4 @@ chula-l6-326 กลากเกลื้อน - หูด: split in two cards:
 กลากเกลื้อน: 'fungal skin infections (ringworm and tinea)'
 หูด: 'wart (HPV)'
 
-remove card: chula-l4-016 พิษสุนัขบ้า, tamago-l12-596 แป๊ด, tamago-l3-212 ลำบากแม่น่าดู, tamago-l3-444 กระทุ่มน้ำ, tamago-l3-651 รำไทย, tamago-l3-546 คำประกอบ, tsl-620 ตานขโมย, thaipod-0086 การเป็นทาส, thaipod-0091 การแตกความสามัคคี, thaipod-0227 คูเมือง, thaipod-0262 จุดปัจจุบัน, thaipod-0313 ดอกบัวบาน, thaipod-0314 ดอกพุทธรักษา
+remove card: chula-l4-016 พิษสุนัขบ้า, tamago-l12-596 แป๊ด, tamago-l3-212 ลำบากแม่น่าดู, tamago-l3-444 กระทุ่มน้ำ, tamago-l3-651 รำไทย, tamago-l3-546 คำประกอบ, tsl-620 ตานขโมย, thaipod-0086 การเป็นทาส, thaipod-0091 การแตกความสามัคคี, thaipod-0227 คูเมือง, thaipod-0262 จุดปัจจุบัน, thaipod-0313 ดอกบัวบาน, thaipod-0314 ดอกพุทธรักษา, thaipod-0381 ตูม, thaipod-0377 ตึกราม
