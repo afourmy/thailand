@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5592 words**
+**Total: 5602 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4039,14 +4039,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-051` : อับ (stuffy, poorly ventilated, cramped (enclosed space with no flow, no way out)) : 1 meaning(s), 2 sentences
 - `yt-c22-053` : ฉ้อฉล (fraudulent, corrupt) : 1 meaning(s), 2 sentences
 - `new-8` : ฉ้อโกง (to defraud, to scam, to cheat someone (e.g out of money or property)) : 1 meaning(s), 2 sentences
+- `yt-c22-054` : คดีแพ่ง - คดีอาญา (civil case - criminal case) : 1 meaning(s), 2 sentences
 - `yt-c22-056` : เลี่ยง, หลีกเลี่ยง (to avoid, to evade (e.g law, tax, etc)) : 1 meaning(s), 2 sentences
 - `yt-c22-058` : ช่องโหว่ (loophole, gap, vulnerability) : 1 meaning(s), 2 sentences
 - `yt-c22-059` : ท้วม ((not rude) plump, chubby, somewhat overweight) : 1 meaning(s), 2 sentences
 - `yt-c22-060` : ผู้หลักผู้ใหญ่ (senior figure, elder, respected adult) : 1 meaning(s), 2 sentences
 - `yt-c22-064` : อย่างมีเหตุผล (rationally, logically, with good reason) : 1 meaning(s), 2 sentences
+- `yt-c22-065` : รัฐประหาร (coup d'état (overthrow of a government by force)) : 1 meaning(s), 2 sentences
+- `yt-c22-066` : ประชาธิปไตย (democracy) : 1 meaning(s), 2 sentences
+- `yt-c22-069` : เก็บเงิน, เก็บออมเงิน (to save money) : 1 meaning(s), 2 sentences
 - `yt-c22-070` : ความเสถียร (stability, steadiness) : 1 meaning(s), 2 sentences
 - `yt-c22-072` : เด็กเกเร (delinquent child, misbehaving and troublesome kid) : 1 meaning(s), 2 sentences
 - `yt-c22-073` : ย่ำ (to tread, to stomp on, to trample) : 1 meaning(s), 2 sentences
+- `yt-c22-074` : การผูกขาด (monopoly) : 1 meaning(s), 2 sentences
+- `yt-c22-076` : ผู้อำนวยการ (managing director, executive director) : 1 meaning(s), 2 sentences
+- `yt-c22-078` : หวานเจี๊ยบ (very sweet, overly sugary) : 1 meaning(s), 2 sentences
+- `yt-c22-080` : ไอ้สัตว์, อีสัตว์ (you (among friends), fucker, bitch (male, female)) : 1 meaning(s), 2 sentences
+- `new-6` : สัตว์ๆ ("fucking...", "...as fuck") : 1 meaning(s), 2 sentences
+- `yt-c22-083` : สารเลว (bastard, piece of shit, despicable person (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c22-084` : ประคับประคอง (to sustain, to maintain, to support something so it does not worsen or collapse) : 1 meaning(s), 2 sentences
 - `yt-c23-011` : ตะไบเล็บ (to file one's nails) : 1 meaning(s), 2 sentences
 - `yt-c23-021` : ปิดกั้น (to seal off completely, to completely block (physically, or feelings)) : 1 meaning(s), 2 sentences
