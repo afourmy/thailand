@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6272 words**
+**Total: 6282 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6142,13 +6142,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c10-065` : มัธยมศึกษา (secondary education) : 1 meaning(s), 2 sentences
 - `t4k-c10-068` : สายน้ำ (stream of water) : 1 meaning(s), 2 sentences
 - `t4k-c10-070` : เครื่องดนตรี (musical instrument) : 1 meaning(s), 2 sentences
+- `t4k-c10-071` : เจ๊ (older sister, older woman, "Madam" (used in Chinese-Thai context)) : 1 meaning(s), 2 sentences
 - `t4k-c10-074` : อุด (to plug, to fill, to block a hole) : 1 meaning(s), 2 sentences
+- `t4k-c10-078` : ส่วนผสม (ingredient, component) : 1 meaning(s), 2 sentences
 - `t4k-c10-083` : ลัด (to cut across, to bypass, to take a shortcut) : 1 meaning(s), 2 sentences
 - `t4k-c10-084` : พยุง (to hold up someone or something to prevent falling, to support; (figuratively) to prop up, to sustain) : 2 meaning(s), 4 sentences
 - `t4k-c10-088` : คอนเสิร์ต (concert) : 1 meaning(s), 2 sentences
+- `t4k-c10-090` : ว่างงาน (unemployed) : 1 meaning(s), 2 sentences
+- `t4k-c10-092` : เกย์ (gay) : 1 meaning(s), 2 sentences
+- `t4k-c10-094` : ผู้ซื้อ (buyer) : 1 meaning(s), 2 sentences
 - `t4k-c10-098` : สืบสวน (to investigate (e.g crime, accident)) : 1 meaning(s), 2 sentences
+- `t4k-c11-000` : พลัน (suddenly, immediately and unexpectedly (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c11-001` : โปร่ง (airy, open, well-ventilated; sparse, not dense) : 2 meaning(s), 4 sentences
+- `t4k-c11-004` : ภาวนา (to pray, to wish strongly, to meditate) : 1 meaning(s), 2 sentences
 - `t4k-c11-006` : ต่ำสุด (minimum) : 1 meaning(s), 2 sentences
+- `t4k-c11-007` : ข้อกำหนด (regulation, specification) : 1 meaning(s), 2 sentences
+- `t4k-c11-009` : ข้อเรียกร้อง (demand, claim, request (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c11-011` : คำร้อง (petition; request) : 2 meaning(s), 4 sentences
 - `t4k-c11-017` : ผู้รับผิดชอบ (person in charge, responsible person) : 1 meaning(s), 2 sentences
 - `t4k-c11-022` : ข้อสอบ (exam, test) : 1 meaning(s), 2 sentences
 - `t4k-c11-028` : บ่งชี้ (to indicate, to point out) : 1 meaning(s), 2 sentences

@@ -228183,6 +228183,25 @@
     "topic": "slang",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "older sister, older woman, \"Madam\" (used in Chinese-Thai context)",
+        "sentences": [
+          {
+            "thai": "เจ๊เจ้าของร้านใจดีกับลูกค้ามาก",
+            "en": "The lady who owns the shop is really kind to customers.",
+            "audio_src": "เจ๊เจ้าของร้านใจดีกับลูกค้ามาก",
+            "audio_en_src": "The lady who owns the shop is really kind to customers."
+          },
+          {
+            "thai": "เจ๊ครับ คิดเงินด้วย",
+            "en": "Ma'am, check please.",
+            "audio_src": "เจ๊ครับ คิดเงินด้วย",
+            "audio_en_src": "Ma'am, check please."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228234,6 +228253,25 @@
     "topic": "food",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ingredient, component",
+        "sentences": [
+          {
+            "thai": "ผสมส่วนผสมทุกอย่างเข้าด้วยกัน",
+            "en": "Mix all the ingredients together.",
+            "audio_src": "ผสมส่วนผสมทุกอย่างเข้าด้วยกัน",
+            "audio_en_src": "Mix all the ingredients together."
+          },
+          {
+            "thai": "เค้กสูตรนี้มีส่วนผสมไม่กี่อย่าง",
+            "en": "This cake recipe has only a few ingredients.",
+            "audio_src": "เค้กสูตรนี้มีส่วนผสมไม่กี่อย่าง",
+            "audio_en_src": "This cake recipe has only a few ingredients."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228404,6 +228442,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "unemployed",
+        "sentences": [
+          {
+            "thai": "ตอนนี้เขาว่างงานมาสามเดือนแล้ว",
+            "en": "He's been out of work for three months now.",
+            "audio_src": "ตอนนี้เขาว่างงานมาสามเดือนแล้ว",
+            "audio_en_src": "He's been out of work for three months now."
+          },
+          {
+            "thai": "คนว่างงานเพิ่มขึ้นในช่วงเศรษฐกิจแย่",
+            "en": "Unemployment rises when the economy is bad.",
+            "audio_src": "คนว่างงานเพิ่มขึ้นในช่วงเศรษฐกิจแย่",
+            "audio_en_src": "Unemployment rises when the economy is bad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228424,6 +228481,25 @@
     "topic": "slang",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "gay",
+        "sentences": [
+          {
+            "thai": "เพื่อนสนิทของฉันเป็นเกย์",
+            "en": "My close friend is gay.",
+            "audio_src": "เพื่อนสนิทของฉันเป็นเกย์",
+            "audio_en_src": "My close friend is gay."
+          },
+          {
+            "thai": "เขาเปิดเผยว่าตัวเองเป็นเกย์",
+            "en": "He came out as gay.",
+            "audio_src": "เขาเปิดเผยว่าตัวเองเป็นเกย์",
+            "audio_en_src": "He came out as gay."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228434,6 +228510,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "buyer",
+        "sentences": [
+          {
+            "thai": "ผู้ซื้อกับผู้ขายตกลงราคากันแล้ว",
+            "en": "The buyer and seller have agreed on a price.",
+            "audio_src": "ผู้ซื้อกับผู้ขายตกลงราคากันแล้ว",
+            "audio_en_src": "The buyer and seller have agreed on a price."
+          },
+          {
+            "thai": "ผู้ซื้อบ้านควรตรวจสอบสัญญาให้ดี",
+            "en": "Home buyers should check the contract carefully.",
+            "audio_src": "ผู้ซื้อบ้านควรตรวจสอบสัญญาให้ดี",
+            "audio_en_src": "Home buyers should check the contract carefully."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228475,6 +228570,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "suddenly, immediately and unexpectedly (formal)",
+        "sentences": [
+          {
+            "thai": "เสียงระเบิดดังขึ้นโดยพลัน",
+            "en": "An explosion suddenly rang out.",
+            "audio_src": "เสียงระเบิดดังขึ้นโดยพลัน",
+            "audio_en_src": "An explosion suddenly rang out."
+          },
+          {
+            "thai": "ทุกอย่างเปลี่ยนไปโดยพลัน",
+            "en": "Everything changed all at once.",
+            "audio_src": "ทุกอย่างเปลี่ยนไปโดยพลัน",
+            "audio_en_src": "Everything changed all at once."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228553,6 +228667,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to pray, to wish strongly, to meditate",
+        "sentences": [
+          {
+            "thai": "เขาภาวนาขอให้ทุกคนปลอดภัย",
+            "en": "He prayed for everyone to be safe.",
+            "audio_src": "เขาภาวนาขอให้ทุกคนปลอดภัย",
+            "audio_en_src": "He prayed for everyone to be safe."
+          },
+          {
+            "thai": "ฉันได้แต่ภาวนาให้เธอหายป่วยเร็วๆ",
+            "en": "I can only pray you get better soon.",
+            "audio_src": "ฉันได้แต่ภาวนาให้เธอหายป่วยเร็วๆ",
+            "audio_en_src": "I can only pray you get better soon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228604,6 +228737,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "regulation, specification",
+        "sentences": [
+          {
+            "thai": "สัญญาฉบับนี้มีข้อกำหนดหลายข้อ",
+            "en": "This contract has many terms.",
+            "audio_src": "สัญญาฉบับนี้มีข้อกำหนดหลายข้อ",
+            "audio_en_src": "This contract has many terms."
+          },
+          {
+            "thai": "สินค้าต้องเป็นไปตามข้อกำหนดของโรงงาน",
+            "en": "The product must meet the factory's specifications.",
+            "audio_src": "สินค้าต้องเป็นไปตามข้อกำหนดของโรงงาน",
+            "audio_en_src": "The product must meet the factory's specifications."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228614,6 +228766,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "demand, claim, request (formal)",
+        "sentences": [
+          {
+            "thai": "คนงานยื่นข้อเรียกร้องขอขึ้นค่าแรง",
+            "en": "The workers submitted a demand for higher wages.",
+            "audio_src": "คนงานยื่นข้อเรียกร้องขอขึ้นค่าแรง",
+            "audio_en_src": "The workers submitted a demand for higher wages."
+          },
+          {
+            "thai": "รัฐบาลรับข้อเรียกร้องของประชาชนไปพิจารณา",
+            "en": "The government took the people's demands under consideration.",
+            "audio_src": "รัฐบาลรับข้อเรียกร้องของประชาชนไปพิจารณา",
+            "audio_en_src": "The government took the people's demands under consideration."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228634,6 +228805,42 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "petition",
+        "sentences": [
+          {
+            "thai": "ทนายยื่นคำร้องต่อศาล",
+            "en": "The lawyer filed a petition with the court.",
+            "audio_src": "ทนายยื่นคำร้องต่อศาล",
+            "audio_en_src": "The lawyer filed a petition with the court."
+          },
+          {
+            "thai": "เขายื่นคำร้องขอความเป็นธรรม",
+            "en": "He filed a petition seeking justice.",
+            "audio_src": "เขายื่นคำร้องขอความเป็นธรรม",
+            "audio_en_src": "He filed a petition seeking justice."
+          }
+        ]
+      },
+      {
+        "meaning": "request",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่รับคำร้องของประชาชนไว้แล้ว",
+            "en": "The official has received the citizens' requests.",
+            "audio_src": "เจ้าหน้าที่รับคำร้องของประชาชนไว้แล้ว",
+            "audio_en_src": "The official has received the citizens' requests."
+          },
+          {
+            "thai": "กรุณากรอกคำร้องก่อนยื่นเอกสาร",
+            "en": "Please fill out the request form before submitting your documents.",
+            "audio_src": "กรุณากรอกคำร้องก่อนยื่นเอกสาร",
+            "audio_en_src": "Please fill out the request form before submitting your documents."
+          }
+        ]
+      }
     ]
   },
   {
