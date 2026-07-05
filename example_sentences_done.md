@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5762 words**
+**Total: 5772 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4368,23 +4368,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-003` : หายป่วย (to recover) : 1 meaning(s), 2 sentences
 - `wlt-c05-005` : เหลน (great-grandchild) : 1 meaning(s), 2 sentences
 - `wlt-c05-006` : เหลวไหล (nonsense, absurd, unreliable, not serious) : 1 meaning(s), 2 sentences
+- `wlt-c05-009` : ไหมไทย (Thai silk) : 1 meaning(s), 2 sentences
 - `wlt-c05-010` : อยากได้ (to want to get (something)) : 1 meaning(s), 2 sentences
 - `wlt-c05-012` : อย่าเพิ่ง ("don't do that yet!", "hold on!") : 1 meaning(s), 2 sentences
 - `wlt-c05-013` : อยู่ที่ไหน (where is it?) : 1 meaning(s), 2 sentences
+- `wlt-c05-014` : ออกเงิน (to pay (on behalf of others), to foot the bill) : 1 meaning(s), 2 sentences
 - `wlt-c05-015` : ออกจาก (to leave from) : 1 meaning(s), 2 sentences
 - `wlt-c05-016` : อะไรก็ได้ (anything) : 1 meaning(s), 2 sentences
 - `wlt-c05-020` : อาทิตย์นี้ (this week) : 1 meaning(s), 2 sentences
+- `wlt-c05-024` : อาหารญี่ปุ่น (Japanese food) : 1 meaning(s), 2 sentences
+- `wlt-c05-025` : อีกด้วย (also, as well) : 1 meaning(s), 2 sentences
 - `wlt-c05-031` : เอาออก (to take out) : 1 meaning(s), 2 sentences
 - `wlt-c05-032` : โอเค (okay (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c05-034` : แฮม (ham (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c05-035` : กระดาษแข็ง (cardboard) : 1 meaning(s), 2 sentences
 - `wlt-c05-036` : กระดาษชำระ (toilet paper) : 1 meaning(s), 2 sentences
 - `wlt-c05-037` : กระเป๋าถือ (handbag) : 1 meaning(s), 2 sentences
 - `wlt-c05-038` : กรัม (gram (metric system) (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c05-040` : กล่องเล็กๆ, กลัก (small box, small case) : 1 meaning(s), 2 sentences
+- `wlt-c05-041` : กลับรถ (to turn the car around, to make a U-turn) : 1 meaning(s), 2 sentences
 - `wlt-c05-042` : กลืน (to swallow) : 1 meaning(s), 2 sentences
 - `wlt-c05-043` : ก๊อกน้ำ (faucet) : 1 meaning(s), 2 sentences
+- `wlt-c05-044` : กอด (to hug) : 1 meaning(s), 2 sentences
 - `wlt-c05-045` : ก๊อปปี้, สำเนา (photocopy) : 1 meaning(s), 2 sentences
 - `wlt-c05-046` : ก่อสร้าง (to build, to construct) : 1 meaning(s), 2 sentences
+- `wlt-c05-047` : กับข้าว (food eaten with rice) : 1 meaning(s), 2 sentences
 - `wlt-c05-048` : กางเกงขาสั้น (shorts) : 1 meaning(s), 2 sentences
 - `wlt-c05-049` : กางเกงใน (underwear (lower body)) : 1 meaning(s), 2 sentences
 - `wlt-c05-050` : การบ้าน (homework) : 1 meaning(s), 2 sentences
@@ -4393,10 +4401,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-054` : กำแพง (wall (enclosing a yard or city)) : 1 meaning(s), 2 sentences
 - `wlt-c05-055` : กินข้าว, ทานข้าว (to have a meal) : 1 meaning(s), 2 sentences
 - `wlt-c05-056` : กิโลกรัม (kilogram (metric system)) : 1 meaning(s), 2 sentences
+- `wlt-c05-057` : กุหลาบ (rose) : 1 meaning(s), 2 sentences
 - `wlt-c05-058` : เก้าสิบ (ninety (90)) : 1 meaning(s), 2 sentences
 - `wlt-c05-059` : แก้ไข (to correct, to fix, to revise) : 1 meaning(s), 2 sentences
 - `wlt-c05-060` : แก้ไขเพิ่มเติม (to amend, to revise) : 1 meaning(s), 2 sentences
 - `wlt-c05-061` : โกน (to shave) : 1 meaning(s), 2 sentences
+- `wlt-c05-062` : ไก่งวง (turkey) : 1 meaning(s), 2 sentences
 - `wlt-c05-064` : ข่วน (to scratch (in a way that leaves injury or marks)) : 1 meaning(s), 2 sentences
 - `wlt-c05-065` : ข้อความ (message) : 1 meaning(s), 2 sentences
 - `wlt-c05-066` : ของคุณ (your, yours) : 1 meaning(s), 2 sentences

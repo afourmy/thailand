@@ -167956,6 +167956,25 @@
     "topic": "culture",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai silk",
+        "sentences": [
+          {
+            "thai": "ผ้าไหมไทยสวยและราคาแพง",
+            "en": "Thai silk is beautiful and expensive.",
+            "audio_src": "ผ้าไหมไทยสวยและราคาแพง",
+            "audio_en_src": "Thai silk is beautiful and expensive."
+          },
+          {
+            "thai": "เธอใส่ชุดไหมไทยไปงานแต่ง",
+            "en": "She wore a Thai silk outfit to the wedding.",
+            "audio_src": "เธอใส่ชุดไหมไทยไปงานแต่ง",
+            "audio_en_src": "She wore a Thai silk outfit to the wedding."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168065,6 +168084,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay (on behalf of others), to foot the bill",
+        "sentences": [
+          {
+            "thai": "มื้อนี้ฉันออกเงินเอง",
+            "en": "I'll pay for this meal myself.",
+            "audio_src": "มื้อนี้ฉันออกเงินเอง",
+            "audio_en_src": "I'll pay for this meal myself."
+          },
+          {
+            "thai": "เพื่อนออกเงินให้ก่อนแล้วค่อยคืน",
+            "en": "My friend paid for me and I paid him back later.",
+            "audio_src": "เพื่อนออกเงินให้ก่อนแล้วค่อยคืน",
+            "audio_en_src": "My friend paid for me and I paid him back later."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168174,6 +168212,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Japanese food",
+        "sentences": [
+          {
+            "thai": "เขาชอบกินอาหารญี่ปุ่นโดยเฉพาะซูชิ",
+            "en": "He loves Japanese food, especially sushi.",
+            "audio_src": "เขาชอบกินอาหารญี่ปุ่นโดยเฉพาะซูชิ",
+            "audio_en_src": "He loves Japanese food, especially sushi."
+          },
+          {
+            "thai": "ร้านอาหารญี่ปุ่นเปิดใหม่ใกล้บ้าน",
+            "en": "A new Japanese restaurant opened near my house.",
+            "audio_src": "ร้านอาหารญี่ปุ่นเปิดใหม่ใกล้บ้าน",
+            "audio_en_src": "A new Japanese restaurant opened near my house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168184,6 +168241,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "also, as well",
+        "sentences": [
+          {
+            "thai": "เขาเก่งเรียนและเล่นกีฬาเก่งอีกด้วย",
+            "en": "He's good at his studies, and good at sports as well.",
+            "audio_src": "เขาเก่งเรียนและเล่นกีฬาเก่งอีกด้วย",
+            "audio_en_src": "He's good at his studies, and good at sports as well."
+          },
+          {
+            "thai": "ร้านนี้อาหารอร่อยราคาถูกอีกด้วย",
+            "en": "This place has tasty food, and it's cheap too.",
+            "audio_src": "ร้านนี้อาหารอร่อยราคาถูกอีกด้วย",
+            "audio_en_src": "This place has tasty food, and it's cheap too."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168258,6 +168334,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ham (loanword)",
+        "sentences": [
+          {
+            "thai": "แซนด์วิชไส้แฮมชีส",
+            "en": "A ham and cheese sandwich.",
+            "audio_src": "แซนด์วิชไส้แฮมชีส",
+            "audio_en_src": "A ham and cheese sandwich."
+          },
+          {
+            "thai": "หั่นแฮมใส่ไข่เจียว",
+            "en": "Chop some ham into the omelet.",
+            "audio_src": "หั่นแฮมใส่ไข่เจียว",
+            "audio_en_src": "Chop some ham into the omelet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168426,6 +168521,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to turn the car around, to make a U-turn",
+        "sentences": [
+          {
+            "thai": "ขับเลยแล้วต้องกลับรถ",
+            "en": "I drove past it, so I have to make a U-turn.",
+            "audio_src": "ขับเลยแล้วต้องกลับรถ",
+            "audio_en_src": "I drove past it, so I have to make a U-turn."
+          },
+          {
+            "thai": "ตรงนี้ห้ามกลับรถ",
+            "en": "No U-turns here.",
+            "audio_src": "ตรงนี้ห้ามกลับรถ",
+            "audio_en_src": "No U-turns here."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168500,6 +168614,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to hug",
+        "sentences": [
+          {
+            "thai": "แม่กอดลูกก่อนไปโรงเรียน",
+            "en": "Mom hugs her child before school.",
+            "audio_src": "แม่กอดลูกก่อนไปโรงเรียน",
+            "audio_en_src": "Mom hugs her child before school."
+          },
+          {
+            "thai": "เขากอดกันด้วยความดีใจ",
+            "en": "They hugged out of joy.",
+            "audio_src": "เขากอดกันด้วยความดีใจ",
+            "audio_en_src": "They hugged out of joy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168574,6 +168707,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "food eaten with rice",
+        "sentences": [
+          {
+            "thai": "วันนี้แม่ทำกับข้าวสามอย่าง",
+            "en": "Today mom made three dishes to go with the rice.",
+            "audio_src": "วันนี้แม่ทำกับข้าวสามอย่าง",
+            "audio_en_src": "Today mom made three dishes to go with the rice."
+          },
+          {
+            "thai": "กับข้าวเหลือเก็บไว้กินพรุ่งนี้",
+            "en": "Save the leftover dishes for tomorrow.",
+            "audio_src": "กับข้าวเหลือเก็บไว้กินพรุ่งนี้",
+            "audio_en_src": "Save the leftover dishes for tomorrow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168852,6 +169004,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "rose",
+        "sentences": [
+          {
+            "thai": "เขาให้ดอกกุหลาบสีแดงกับแฟน",
+            "en": "He gave his girlfriend red roses.",
+            "audio_src": "เขาให้ดอกกุหลาบสีแดงกับแฟน",
+            "audio_en_src": "He gave his girlfriend red roses."
+          },
+          {
+            "thai": "กุหลาบในสวนกำลังบาน",
+            "en": "The roses in the garden are blooming.",
+            "audio_src": "กุหลาบในสวนกำลังบาน",
+            "audio_en_src": "The roses in the garden are blooming."
+          }
+        ]
+      }
     ]
   },
   {
@@ -168989,6 +169160,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "turkey",
+        "sentences": [
+          {
+            "thai": "วันขอบคุณพระเจ้ากินไก่งวง",
+            "en": "On Thanksgiving people eat turkey.",
+            "audio_src": "วันขอบคุณพระเจ้ากินไก่งวง",
+            "audio_en_src": "On Thanksgiving people eat turkey."
+          },
+          {
+            "thai": "อบไก่งวงทั้งตัวในเตาอบ",
+            "en": "Roast the whole turkey in the oven.",
+            "audio_src": "อบไก่งวงทั้งตัวในเตาอบ",
+            "audio_en_src": "Roast the whole turkey in the oven."
+          }
+        ]
+      }
     ]
   },
   {
