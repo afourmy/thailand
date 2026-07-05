@@ -229538,6 +229538,25 @@
     "topic": "weather",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "damp, moist",
+        "sentences": [
+          {
+            "thai": "หน้าฝนอากาศชื้นมาก",
+            "en": "In the rainy season the air is very humid.",
+            "audio_src": "หน้าฝนอากาศชื้นมาก",
+            "audio_en_src": "In the rainy season the air is very humid."
+          },
+          {
+            "thai": "เสื้อผ้ายังชื้นอยู่เลย ตากต่ออีกหน่อย",
+            "en": "The clothes are still damp, hang them out a bit longer.",
+            "audio_src": "เสื้อผ้ายังชื้นอยู่เลย ตากต่ออีกหน่อย",
+            "audio_en_src": "The clothes are still damp, hang them out a bit longer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229629,6 +229648,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ownership",
+        "sentences": [
+          {
+            "thai": "เขามีกรรมสิทธิ์ในที่ดินผืนนี้",
+            "en": "He has ownership of this plot of land.",
+            "audio_src": "เขามีกรรมสิทธิ์ในที่ดินผืนนี้",
+            "audio_en_src": "He has ownership of this plot of land."
+          },
+          {
+            "thai": "กรรมสิทธิ์รถโอนมาเป็นชื่อฉันแล้ว",
+            "en": "Ownership of the car has been transferred to my name.",
+            "audio_src": "กรรมสิทธิ์รถโอนมาเป็นชื่อฉันแล้ว",
+            "audio_en_src": "Ownership of the car has been transferred to my name."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229649,6 +229687,25 @@
     "topic": "slang",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "girl, woman (slang, rude)",
+        "sentences": [
+          {
+            "thai": "นังคนนั้นชอบนินทาคนอื่น",
+            "en": "That woman loves to gossip about people.",
+            "audio_src": "นังคนนั้นชอบนินทาคนอื่น",
+            "audio_en_src": "That woman loves to gossip about people."
+          },
+          {
+            "thai": "อย่าไปยุ่งกับนังนั่นเลย",
+            "en": "Don't get involved with that girl.",
+            "audio_src": "อย่าไปยุ่งกับนังนั่นเลย",
+            "audio_en_src": "Don't get involved with that girl."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229659,6 +229716,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "stomach",
+        "sentences": [
+          {
+            "thai": "เขาปวดกระเพาะเพราะกินเผ็ด",
+            "en": "His stomach hurts from eating spicy food.",
+            "audio_src": "เขาปวดกระเพาะเพราะกินเผ็ด",
+            "audio_en_src": "His stomach hurts from eating spicy food."
+          },
+          {
+            "thai": "กินข้าวไม่ตรงเวลาทำให้เป็นโรคกระเพาะ",
+            "en": "Eating at irregular times causes stomach problems.",
+            "audio_src": "กินข้าวไม่ตรงเวลาทำให้เป็นโรคกระเพาะ",
+            "audio_en_src": "Eating at irregular times causes stomach problems."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229679,6 +229755,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "adjacent, beside, next to",
+        "sentences": [
+          {
+            "thai": "บ้านข้างเคียงเลี้ยงหมาไว้หลายตัว",
+            "en": "The house next door keeps several dogs.",
+            "audio_src": "บ้านข้างเคียงเลี้ยงหมาไว้หลายตัว",
+            "audio_en_src": "The house next door keeps several dogs."
+          },
+          {
+            "thai": "เขาไปช่วยงานที่หมู่บ้านข้างเคียง",
+            "en": "He went to help out in the neighboring village.",
+            "audio_src": "เขาไปช่วยงานที่หมู่บ้านข้างเคียง",
+            "audio_en_src": "He went to help out in the neighboring village."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229792,6 +229887,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to pawn, to pledge an item as collateral for a loan",
+        "sentences": [
+          {
+            "thai": "เขาเอานาฬิกาไปจำนำ",
+            "en": "He pawned his watch.",
+            "audio_src": "เขาเอานาฬิกาไปจำนำ",
+            "audio_en_src": "He pawned his watch."
+          },
+          {
+            "thai": "ช่วงเงินขาดมือ หลายคนเอาทองไปจำนำ",
+            "en": "When money is tight, many people pawn their gold.",
+            "audio_src": "ช่วงเงินขาดมือ หลายคนเอาทองไปจำนำ",
+            "audio_en_src": "When money is tight, many people pawn their gold."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229802,6 +229916,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "urine, to urinate",
+        "sentences": [
+          {
+            "thai": "หมอขอเก็บปัสสาวะไปตรวจ",
+            "en": "The doctor wants to collect a urine sample for testing.",
+            "audio_src": "หมอขอเก็บปัสสาวะไปตรวจ",
+            "audio_en_src": "The doctor wants to collect a urine sample for testing."
+          },
+          {
+            "thai": "คนไข้ปัสสาวะบ่อยผิดปกติ",
+            "en": "The patient urinates abnormally often.",
+            "audio_src": "คนไข้ปัสสาวะบ่อยผิดปกติ",
+            "audio_en_src": "The patient urinates abnormally often."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229812,6 +229945,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "great power, superpower (e.g country)",
+        "sentences": [
+          {
+            "thai": "สหรัฐเป็นชาติมหาอำนาจ",
+            "en": "The US is a superpower.",
+            "audio_src": "สหรัฐเป็นชาติมหาอำนาจ",
+            "audio_en_src": "The US is a superpower."
+          },
+          {
+            "thai": "สองมหาอำนาจแข่งขันกันด้านเทคโนโลยี",
+            "en": "The two great powers compete in technology.",
+            "audio_src": "สองมหาอำนาจแข่งขันกันด้านเทคโนโลยี",
+            "audio_en_src": "The two great powers compete in technology."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229822,6 +229974,25 @@
     "topic": "food",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "meat",
+        "sentences": [
+          {
+            "thai": "คนกินเจจะไม่กินเนื้อสัตว์",
+            "en": "People on a vegetarian diet don't eat meat.",
+            "audio_src": "คนกินเจจะไม่กินเนื้อสัตว์",
+            "audio_en_src": "People on a vegetarian diet don't eat meat."
+          },
+          {
+            "thai": "เนื้อสัตว์เป็นแหล่งโปรตีนที่ดี",
+            "en": "Meat is a good source of protein.",
+            "audio_src": "เนื้อสัตว์เป็นแหล่งโปรตีนที่ดี",
+            "audio_en_src": "Meat is a good source of protein."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229862,6 +230033,25 @@
     "topic": "weather",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "breeze, wind (literary)",
+        "sentences": [
+          {
+            "thai": "สายลมพัดเบาๆยามเย็น",
+            "en": "A gentle breeze blows in the evening.",
+            "audio_src": "สายลมพัดเบาๆยามเย็น",
+            "audio_en_src": "A gentle breeze blows in the evening."
+          },
+          {
+            "thai": "เธอยืนรับสายลมอยู่ริมทะเล",
+            "en": "She stood taking in the breeze by the sea.",
+            "audio_src": "เธอยืนรับสายลมอยู่ริมทะเล",
+            "audio_en_src": "She stood taking in the breeze by the sea."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6292 words**
+**Total: 6302 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6177,10 +6177,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-051` : โยกย้าย (to relocate, to transfer, to shift from one place to another) : 1 meaning(s), 2 sentences
 - `t4k-c11-054` : ฮอร์โมน (hormone) : 1 meaning(s), 2 sentences
 - `t4k-c11-056` : ระบำ (dance (traditional style)) : 1 meaning(s), 2 sentences
+- `t4k-c11-057` : ชื้น (damp, moist) : 1 meaning(s), 2 sentences
 - `t4k-c11-060` : กดขี่ (to oppress, to repress) : 1 meaning(s), 2 sentences
+- `t4k-c11-068` : กรรมสิทธิ์ (ownership) : 1 meaning(s), 2 sentences
+- `t4k-c11-070` : นัง (girl, woman (slang, rude)) : 1 meaning(s), 2 sentences
+- `t4k-c11-072` : กระเพาะ (stomach) : 1 meaning(s), 2 sentences
+- `t4k-c11-075` : ข้างเคียง (adjacent, beside, next to) : 1 meaning(s), 2 sentences
 - `t4k-c11-076` : พิกัด (coordinates) : 1 meaning(s), 2 sentences
 - `t4k-c11-077` : ตายตัว (rigid, inflexible, fixed) : 1 meaning(s), 2 sentences
 - `t4k-c11-079` : แผนงาน (work plan, project plan) : 1 meaning(s), 2 sentences
+- `t4k-c11-080` : จำนำ (to pawn, to pledge an item as collateral for a loan) : 1 meaning(s), 2 sentences
+- `t4k-c11-081` : ปัสสาวะ (urine, to urinate) : 1 meaning(s), 2 sentences
+- `t4k-c11-084` : มหาอำนาจ (great power, superpower (e.g country)) : 1 meaning(s), 2 sentences
+- `t4k-c11-085` : เนื้อสัตว์ (meat) : 1 meaning(s), 2 sentences
+- `t4k-c11-093` : สายลม (breeze, wind (literary)) : 1 meaning(s), 2 sentences
 - `t4k-c11-094` : กรด (acid) : 1 meaning(s), 2 sentences
 - `t4k-c11-104` : คุณนาย (Madam, Mrs.) : 1 meaning(s), 2 sentences
 - `t4k-c11-107` : พรรณนา (to depict, to portray, to describe in detail) : 1 meaning(s), 2 sentences
