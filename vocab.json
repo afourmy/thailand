@@ -166443,6 +166443,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to worry, to be anxious",
+        "sentences": [
+          {
+            "thai": "เธอวิตกเรื่องผลสอบ",
+            "en": "She's anxious about the exam results.",
+            "audio_src": "เธอวิตกเรื่องผลสอบ",
+            "audio_en_src": "She's anxious about the exam results."
+          },
+          {
+            "thai": "อย่าวิตกไปเลยทุกอย่างจะเรียบร้อย",
+            "en": "Don't worry, everything will be fine.",
+            "audio_src": "อย่าวิตกไปเลยทุกอย่างจะเรียบร้อย",
+            "audio_en_src": "Don't worry, everything will be fine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166453,6 +166472,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "whiskey (loanword)",
+        "sentences": [
+          {
+            "thai": "เขาสั่งวิสกี้ใส่น้ำแข็ง",
+            "en": "He ordered whiskey on the rocks.",
+            "audio_src": "เขาสั่งวิสกี้ใส่น้ำแข็ง",
+            "audio_en_src": "He ordered whiskey on the rocks."
+          },
+          {
+            "thai": "วิสกี้แก้วนี้แรงมาก",
+            "en": "This glass of whiskey is really strong.",
+            "audio_src": "วิสกี้แก้วนี้แรงมาก",
+            "audio_en_src": "This glass of whiskey is really strong."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166464,6 +166502,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "except if, unless",
+        "sentences": [
+          {
+            "thai": "ฉันไปทุกวันเว้นแต่วันอาทิตย์",
+            "en": "I go every day except Sunday.",
+            "audio_src": "ฉันไปทุกวันเว้นแต่วันอาทิตย์",
+            "audio_en_src": "I go every day except Sunday."
+          },
+          {
+            "thai": "เราจะยกเลิกงานเว้นแต่ฝนหยุดตก",
+            "en": "We'll cancel the event unless it stops raining.",
+            "audio_src": "เราจะยกเลิกงานเว้นแต่ฝนหยุดตก",
+            "audio_en_src": "We'll cancel the event unless it stops raining."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166475,6 +166532,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "except, excluding",
+        "sentences": [
+          {
+            "thai": "ทุกคนต้องมายกเว้นคนป่วย",
+            "en": "Everyone has to come except those who are sick.",
+            "audio_src": "ทุกคนต้องมายกเว้นคนป่วย",
+            "audio_en_src": "Everyone has to come except those who are sick."
+          },
+          {
+            "thai": "ร้านเปิดทุกวันยกเว้นวันจันทร์",
+            "en": "The shop is open every day except Monday.",
+            "audio_src": "ร้านเปิดทุกวันยกเว้นวันจันทร์",
+            "audio_en_src": "The shop is open every day except Monday."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166485,6 +166561,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to microwave",
+        "sentences": [
+          {
+            "thai": "เวฟข้าวให้ร้อนก่อนกิน",
+            "en": "Microwave the rice to heat it before eating.",
+            "audio_src": "เวฟข้าวให้ร้อนก่อนกิน",
+            "audio_en_src": "Microwave the rice to heat it before eating."
+          },
+          {
+            "thai": "เอาอาหารไปเวฟในไมโครเวฟ",
+            "en": "Put the food in the microwave to heat it up.",
+            "audio_src": "เอาอาหารไปเวฟในไมโครเวฟ",
+            "audio_en_src": "Put the food in the microwave to heat it up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166495,6 +166590,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "at present",
+        "sentences": [
+          {
+            "thai": "เวลานี้เขากำลังประชุมอยู่",
+            "en": "At the moment he's in a meeting.",
+            "audio_src": "เวลานี้เขากำลังประชุมอยู่",
+            "audio_en_src": "At the moment he's in a meeting."
+          },
+          {
+            "thai": "เวลานี้เศรษฐกิจไม่ค่อยดี",
+            "en": "At present the economy isn't great.",
+            "audio_src": "เวลานี้เศรษฐกิจไม่ค่อยดี",
+            "audio_en_src": "At present the economy isn't great."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166633,6 +166747,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "in the past, in former times",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนไม่มีโทรศัพท์มือถือ",
+            "en": "In the past there were no mobile phones.",
+            "audio_src": "สมัยก่อนไม่มีโทรศัพท์มือถือ",
+            "audio_en_src": "In the past there were no mobile phones."
+          },
+          {
+            "thai": "สมัยก่อนคนเดินทางด้วยเกวียน",
+            "en": "In former times people traveled by ox cart.",
+            "audio_src": "สมัยก่อนคนเดินทางด้วยเกวียน",
+            "audio_en_src": "In former times people traveled by ox cart."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166643,6 +166776,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "nowadays, these days",
+        "sentences": [
+          {
+            "thai": "สมัยนี้อะไรๆก็สั่งออนไลน์ได้",
+            "en": "Nowadays you can order anything online.",
+            "audio_src": "สมัยนี้อะไรๆก็สั่งออนไลน์ได้",
+            "audio_en_src": "Nowadays you can order anything online."
+          },
+          {
+            "thai": "เด็กสมัยนี้เก่งเทคโนโลยี",
+            "en": "Kids these days are good with technology.",
+            "audio_src": "เด็กสมัยนี้เก่งเทคโนโลยี",
+            "audio_en_src": "Kids these days are good with technology."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166653,6 +166805,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "two thousand (2000)",
+        "sentences": [
+          {
+            "thai": "โทรศัพท์เครื่องนี้ราคาสองพันบาท",
+            "en": "This phone costs two thousand baht.",
+            "audio_src": "โทรศัพท์เครื่องนี้ราคาสองพันบาท",
+            "audio_en_src": "This phone costs two thousand baht."
+          },
+          {
+            "thai": "เขาบริจาคเงินสองพัน",
+            "en": "He donated two thousand.",
+            "audio_src": "เขาบริจาคเงินสองพัน",
+            "audio_en_src": "He donated two thousand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166728,6 +166899,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "three days ago",
+        "sentences": [
+          {
+            "thai": "เขาเพิ่งกลับมาสามวันก่อน",
+            "en": "He just got back three days ago.",
+            "audio_src": "เขาเพิ่งกลับมาสามวันก่อน",
+            "audio_en_src": "He just got back three days ago."
+          },
+          {
+            "thai": "สามวันก่อนฝนตกหนักมาก",
+            "en": "Three days ago it rained really hard.",
+            "audio_src": "สามวันก่อนฝนตกหนักมาก",
+            "audio_en_src": "Three days ago it rained really hard."
+          }
+        ]
+      }
     ]
   },
   {

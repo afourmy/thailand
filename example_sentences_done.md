@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5742 words**
+**Total: 5752 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4320,11 +4320,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-039` : เลขที่ (number used as a designation) : 1 meaning(s), 2 sentences
 - `wlt-c04-041` : วันเว้นวัน (every other day) : 1 meaning(s), 2 sentences
 - `wlt-c04-042` : วันหลัง (another day, some day (in the future), next time, some other time) : 1 meaning(s), 2 sentences
+- `wlt-c04-043` : วิตก (to worry, to be anxious) : 1 meaning(s), 2 sentences
+- `wlt-c04-044` : วิสกี้ (whiskey (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c04-045` : เว้นแต่ (except if, unless) : 1 meaning(s), 2 sentences
+- `wlt-c04-045b` : ยกเว้น (except, excluding) : 1 meaning(s), 2 sentences
+- `wlt-c04-046` : เวฟ (to microwave) : 1 meaning(s), 2 sentences
+- `wlt-c04-047` : เวลานี้ (at present) : 1 meaning(s), 2 sentences
 - `wlt-c04-049` : ไว (fast, quick) : 1 meaning(s), 2 sentences
 - `wlt-c04-053` : สบู่เหลว (liquid soap) : 1 meaning(s), 2 sentences
 - `wlt-c04-056` : ส้มตำ (papaya salad) : 1 meaning(s), 2 sentences
+- `wlt-c04-057` : สมัยก่อน (in the past, in former times) : 1 meaning(s), 2 sentences
+- `wlt-c04-058` : สมัยนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
+- `wlt-c04-059` : สองพัน (two thousand (2000)) : 1 meaning(s), 2 sentences
 - `wlt-c04-060` : สักครู่ (one moment) : 1 meaning(s), 2 sentences
 - `wlt-c04-061` : สั่งซื้อ (to place an order, to purchase) : 1 meaning(s), 2 sentences
+- `wlt-c04-062` : สามวันก่อน (three days ago) : 1 meaning(s), 2 sentences
 - `wlt-c04-063` : สามสิบเอ็ด (thirty one (31)) : 1 meaning(s), 2 sentences
 - `wlt-c04-066` : สิบเก้า (nineteen (19)) : 1 meaning(s), 2 sentences
 - `wlt-c04-067` : สิบเจ็ด (seventeen (17)) : 1 meaning(s), 2 sentences
