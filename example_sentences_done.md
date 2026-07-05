@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5892 words**
+**Total: 5902 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4705,8 +4705,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-058` : เสือดาว (leopard) : 1 meaning(s), 2 sentences
 - `wlt-c09-059` : ไส้กรอก (sausage) : 1 meaning(s), 2 sentences
 - `wlt-c09-060` : หกสิบ (sixty (60)) : 1 meaning(s), 2 sentences
+- `wlt-c09-062` : หมี (bear) : 1 meaning(s), 2 sentences
 - `wlt-c09-063` : หยุดพัก (to take a break) : 1 meaning(s), 2 sentences
 - `wlt-c09-064` : หลังจาก (after) : 1 meaning(s), 2 sentences
+- `wlt-c09-065` : ห้องกินข้าว (dining room) : 1 meaning(s), 2 sentences
 - `wlt-c09-066` : ห้องครัว (kitchen) : 1 meaning(s), 2 sentences
 - `wlt-c09-067` : ห้องทำงาน (work room, office) : 1 meaning(s), 2 sentences
 - `wlt-c09-068` : ห้อย (to dangle) : 1 meaning(s), 2 sentences
@@ -4717,30 +4719,38 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-074` : เหตุผล (reason) : 1 meaning(s), 2 sentences
 - `wlt-c09-075` : เหรอ ("really?" (particle asking for confirmation)) : 1 meaning(s), 2 sentences
 - `wlt-c09-076` : เหล้า (alcohol, liquor) : 1 meaning(s), 2 sentences
+- `wlt-c09-078` : ให้เช่า (to rent out, to let (property)) : 1 meaning(s), 2 sentences
 - `wlt-c09-079` : องศา (degree (temperature)) : 1 meaning(s), 2 sentences
 - `wlt-c09-080` : อนุญาต (to permit) : 1 meaning(s), 2 sentences
 - `wlt-c09-081` : อนุบาล (nursery (level)) : 1 meaning(s), 2 sentences
 - `wlt-c09-082` : อพาร์ทเมนท์ (apartment (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c09-086` : ออกเสียง (to pronounce) : 1 meaning(s), 2 sentences
 - `wlt-c09-087` : อัด (to record (audio, video); to press, to compress, to pack) : 2 meaning(s), 4 sentences
 - `wlt-c09-088` : อันนี้ (this one) : 1 meaning(s), 2 sentences
 - `wlt-c09-089` : อ้างถึง, อ้างอิง (to refer to, to cite, to quote) : 1 meaning(s), 2 sentences
 - `wlt-c09-091` : อ่างอาบน้ำ (bathtub) : 1 meaning(s), 2 sentences
 - `wlt-c09-092` : อาทิตย์ที่แล้ว, อาทิตย์ก่อน (last week) : 1 meaning(s), 2 sentences
 - `wlt-c09-093` : อาทิตย์หน้า (next week) : 1 meaning(s), 2 sentences
+- `wlt-c09-094` : อาหารเที่ยง (lunch (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c09-095` : อาหารไทย (Thai food) : 1 meaning(s), 2 sentences
 - `wlt-c09-097` : อิสรภาพ (freedom) : 1 meaning(s), 2 sentences
+- `wlt-c09-098` : อุดฟัน (to get a filling (dental), to fill a tooth) : 1 meaning(s), 2 sentences
 - `wlt-c09-099` : อุดหนุน (to support financially, to patronize a business) : 1 meaning(s), 2 sentences
+- `wlt-c10-000` : เอกอัครราชทูต (ambassador (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c10-002` : เอามา, นำมา (to bring) : 1 meaning(s), 2 sentences
 - `wlt-c10-003` : แอปเปิล (apple (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c10-004` : แอร์ (air conditioning (informal), air hostess) : 2 meaning(s), 4 sentences
 - `wlt-c10-007` : ก็ได้ (all right, OK, fine) : 1 meaning(s), 2 sentences
+- `wlt-c10-008` : กบ (frog) : 1 meaning(s), 2 sentences
 - `wlt-c10-009` : กรรไกร (scissors) : 1 meaning(s), 2 sentences
 - `wlt-c10-010` : กระดานดำ (blackboard) : 1 meaning(s), 2 sentences
 - `wlt-c10-011` : กรุงเทพฯ (Bangkok) : 1 meaning(s), 2 sentences
 - `wlt-c10-013` : กลิ่น (smell, odor) : 1 meaning(s), 2 sentences
 - `wlt-c10-014` : ก๋วยเตี๋ยว (noodles) : 1 meaning(s), 2 sentences
 - `wlt-c10-015` : กอล์ฟ (golf) : 1 meaning(s), 2 sentences
+- `wlt-c10-016` : กำไร (profit) : 1 meaning(s), 2 sentences
 - `wlt-c10-018` : โกนหนวด (to get a shave) : 1 meaning(s), 2 sentences
+- `wlt-c10-019` : ขณะนี้ (currently, at the moment) : 1 meaning(s), 2 sentences
 - `wlt-c10-023` : ข้อ (item, provision, clause, point, section) : 1 meaning(s), 2 sentences
 - `wlt-c10-024` : ของใคร (whose) : 1 meaning(s), 2 sentences
 - `wlt-c10-030` : ข้าวเหนียว (sticky rice) : 1 meaning(s), 2 sentences

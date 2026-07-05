@@ -178788,6 +178788,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bear",
+        "sentences": [
+          {
+            "thai": "หมีชอบกินน้ำผึ้ง",
+            "en": "Bears like to eat honey.",
+            "audio_src": "หมีชอบกินน้ำผึ้ง",
+            "audio_en_src": "Bears like to eat honey."
+          },
+          {
+            "thai": "หมีจำศีลในฤดูหนาว",
+            "en": "Bears hibernate in winter.",
+            "audio_src": "หมีจำศีลในฤดูหนาว",
+            "audio_en_src": "Bears hibernate in winter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178863,6 +178882,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "dining room",
+        "sentences": [
+          {
+            "thai": "ครอบครัวกินข้าวพร้อมกันในห้องกินข้าว",
+            "en": "The family eats together in the dining room.",
+            "audio_src": "ครอบครัวกินข้าวพร้อมกันในห้องกินข้าว",
+            "audio_en_src": "The family eats together in the dining room."
+          },
+          {
+            "thai": "ห้องกินข้าวอยู่ติดกับครัว",
+            "en": "The dining room is right next to the kitchen.",
+            "audio_src": "ห้องกินข้าวอยู่ติดกับครัว",
+            "audio_en_src": "The dining room is right next to the kitchen."
+          }
+        ]
+      }
     ]
   },
   {
@@ -179208,6 +179246,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to rent out, to let (property)",
+        "sentences": [
+          {
+            "thai": "เขาให้เช่าห้องแถวสองห้อง",
+            "en": "He rents out two shophouse units.",
+            "audio_src": "เขาให้เช่าห้องแถวสองห้อง",
+            "audio_en_src": "He rents out two shophouse units."
+          },
+          {
+            "thai": "บ้านหลังนี้ประกาศให้เช่า",
+            "en": "This house is up for rent.",
+            "audio_src": "บ้านหลังนี้ประกาศให้เช่า",
+            "audio_en_src": "This house is up for rent."
+          }
+        ]
+      }
     ]
   },
   {
@@ -179349,6 +179406,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to pronounce",
+        "sentences": [
+          {
+            "thai": "คำนี้ออกเสียงยาก",
+            "en": "This word is hard to pronounce.",
+            "audio_src": "คำนี้ออกเสียงยาก",
+            "audio_en_src": "This word is hard to pronounce."
+          },
+          {
+            "thai": "ครูสอนให้ออกเสียงให้ถูกต้อง",
+            "en": "The teacher teaches us to pronounce it correctly.",
+            "audio_src": "ครูสอนให้ออกเสียงให้ถูกต้อง",
+            "audio_en_src": "The teacher teaches us to pronounce it correctly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -179569,6 +179645,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lunch (formal)",
+        "sentences": [
+          {
+            "thai": "เราไปกินอาหารเที่ยงด้วยกัน",
+            "en": "We went to have lunch together.",
+            "audio_src": "เราไปกินอาหารเที่ยงด้วยกัน",
+            "audio_en_src": "We went to have lunch together."
+          },
+          {
+            "thai": "อาหารเที่ยงวันนี้มีข้าวกับแกง",
+            "en": "Today's lunch is rice and curry.",
+            "audio_src": "อาหารเที่ยงวันนี้มีข้าวกับแกง",
+            "audio_en_src": "Today's lunch is rice and curry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -179644,6 +179739,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to get a filling (dental), to fill a tooth",
+        "sentences": [
+          {
+            "thai": "ฟันผุต้องไปอุดฟัน",
+            "en": "The tooth has a cavity, I need to get it filled.",
+            "audio_src": "ฟันผุต้องไปอุดฟัน",
+            "audio_en_src": "The tooth has a cavity, I need to get it filled."
+          },
+          {
+            "thai": "หมอฟันอุดฟันให้ฉันสองซี่",
+            "en": "The dentist filled two of my teeth.",
+            "audio_src": "หมอฟันอุดฟันให้ฉันสองซี่",
+            "audio_en_src": "The dentist filled two of my teeth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -179686,6 +179800,25 @@
     "topic": "law",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ambassador (formal)",
+        "sentences": [
+          {
+            "thai": "เอกอัครราชทูตไทยประจำญี่ปุ่น",
+            "en": "The Thai ambassador to Japan.",
+            "audio_src": "เอกอัครราชทูตไทยประจำญี่ปุ่น",
+            "audio_en_src": "The Thai ambassador to Japan."
+          },
+          {
+            "thai": "เอกอัครราชทูตเข้าพบผู้นำประเทศ",
+            "en": "The ambassador met with the country's leader.",
+            "audio_src": "เอกอัครราชทูตเข้าพบผู้นำประเทศ",
+            "audio_en_src": "The ambassador met with the country's leader."
+          }
+        ]
+      }
     ]
   },
   {
@@ -179849,6 +179982,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "frog",
+        "sentences": [
+          {
+            "thai": "กบร้องเสียงดังหลังฝนตก",
+            "en": "Frogs croak loudly after the rain.",
+            "audio_src": "กบร้องเสียงดังหลังฝนตก",
+            "audio_en_src": "Frogs croak loudly after the rain."
+          },
+          {
+            "thai": "กบกระโดดลงไปในบ่อ",
+            "en": "The frog jumped into the pond.",
+            "audio_src": "กบกระโดดลงไปในบ่อ",
+            "audio_en_src": "The frog jumped into the pond."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180055,6 +180207,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "profit",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ได้กำไรเยอะเดือนนี้",
+            "en": "This shop made a lot of profit this month.",
+            "audio_src": "ร้านนี้ได้กำไรเยอะเดือนนี้",
+            "audio_en_src": "This shop made a lot of profit this month."
+          },
+          {
+            "thai": "ขายขาดทุนไม่ได้กำไรเลย",
+            "en": "Sold at a loss, no profit at all.",
+            "audio_src": "ขายขาดทุนไม่ได้กำไรเลย",
+            "audio_en_src": "Sold at a loss, no profit at all."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180097,6 +180268,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "currently, at the moment",
+        "sentences": [
+          {
+            "thai": "ขณะนี้เขาไม่อยู่ที่โต๊ะ",
+            "en": "He's not at his desk at the moment.",
+            "audio_src": "ขณะนี้เขาไม่อยู่ที่โต๊ะ",
+            "audio_en_src": "He's not at his desk at the moment."
+          },
+          {
+            "thai": "ขณะนี้ฝนกำลังตกหนัก",
+            "en": "It's raining heavily right now.",
+            "audio_src": "ขณะนี้ฝนกำลังตกหนัก",
+            "audio_en_src": "It's raining heavily right now."
+          }
+        ]
+      }
     ]
   },
   {
