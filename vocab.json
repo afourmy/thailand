@@ -218320,6 +218320,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "element (e.g chemical, natural, etc)",
+        "sentences": [
+          {
+            "thai": "ทองคำเป็นธาตุชนิดหนึ่ง",
+            "en": "Gold is a chemical element.",
+            "audio_src": "ทองคำเป็นธาตุชนิดหนึ่ง",
+            "audio_en_src": "Gold is a chemical element."
+          },
+          {
+            "thai": "ออกซิเจนเป็นธาตุที่สำคัญต่อชีวิต",
+            "en": "Oxygen is an element essential to life.",
+            "audio_src": "ออกซิเจนเป็นธาตุที่สำคัญต่อชีวิต",
+            "audio_en_src": "Oxygen is an element essential to life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218361,6 +218380,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hurt deeply, painful, to be in pain",
+        "sentences": [
+          {
+            "thai": "การสูญเสียครั้งนี้เจ็บปวดมาก",
+            "en": "This loss is so painful.",
+            "audio_src": "การสูญเสียครั้งนี้เจ็บปวดมาก",
+            "audio_en_src": "This loss is so painful."
+          },
+          {
+            "thai": "คำพูดของเธอทำให้เขาเจ็บปวด",
+            "en": "Her words hurt him deeply.",
+            "audio_src": "คำพูดของเธอทำให้เขาเจ็บปวด",
+            "audio_en_src": "Her words hurt him deeply."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218433,6 +218471,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "eye (formal, poetic)",
+        "sentences": [
+          {
+            "thai": "ดวงตาของเธอสวยงามเหมือนดวงดาว",
+            "en": "Her eyes are as beautiful as the stars.",
+            "audio_src": "ดวงตาของเธอสวยงามเหมือนดวงดาว",
+            "audio_en_src": "Her eyes are as beautiful as the stars."
+          },
+          {
+            "thai": "น้ำตาเอ่อล้นดวงตาของเขา",
+            "en": "Tears welled up in his eyes.",
+            "audio_src": "น้ำตาเอ่อล้นดวงตาของเขา",
+            "audio_en_src": "Tears welled up in his eyes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218443,6 +218500,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "quite... indeed, very much indeed",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้สนุกเลยทีเดียว",
+            "en": "This movie is really quite fun.",
+            "audio_src": "หนังเรื่องนี้สนุกเลยทีเดียว",
+            "audio_en_src": "This movie is really quite fun."
+          },
+          {
+            "thai": "อาหารร้านนี้อร่อยเลยทีเดียว",
+            "en": "The food at this place is delicious indeed.",
+            "audio_src": "อาหารร้านนี้อร่อยเลยทีเดียว",
+            "audio_en_src": "The food at this place is delicious indeed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218453,6 +218529,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "dense forest, jungle",
+        "sentences": [
+          {
+            "thai": "เสือหายเข้าไปในดง",
+            "en": "The tiger vanished into the jungle.",
+            "audio_src": "เสือหายเข้าไปในดง",
+            "audio_en_src": "The tiger vanished into the jungle."
+          },
+          {
+            "thai": "หมู่บ้านเล็กๆซ่อนอยู่กลางดงลึก",
+            "en": "A small village is hidden deep in the forest.",
+            "audio_src": "หมู่บ้านเล็กๆซ่อนอยู่กลางดงลึก",
+            "audio_en_src": "A small village is hidden deep in the forest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218525,6 +218620,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "prime minister",
+        "sentences": [
+          {
+            "thai": "วันนี้นายกแถลงข่าวเรื่องเศรษฐกิจ",
+            "en": "Today the prime minister gave a statement on the economy.",
+            "audio_src": "วันนี้นายกแถลงข่าวเรื่องเศรษฐกิจ",
+            "audio_en_src": "Today the prime minister gave a statement on the economy."
+          },
+          {
+            "thai": "นายกเดินทางไปประชุมที่ต่างประเทศ",
+            "en": "The prime minister traveled abroad for a meeting.",
+            "audio_src": "นายกเดินทางไปประชุมที่ต่างประเทศ",
+            "audio_en_src": "The prime minister traveled abroad for a meeting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218535,6 +218649,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "lost, gone, disappeared",
+        "sentences": [
+          {
+            "thai": "เขากลัวว่าเงินลงทุนจะสูญ",
+            "en": "He's afraid the investment will be lost.",
+            "audio_src": "เขากลัวว่าเงินลงทุนจะสูญ",
+            "audio_en_src": "He's afraid the investment will be lost."
+          },
+          {
+            "thai": "อย่าปล่อยให้โอกาสดีๆสูญไป",
+            "en": "Don't let a good opportunity slip away.",
+            "audio_src": "อย่าปล่อยให้โอกาสดีๆสูญไป",
+            "audio_en_src": "Don't let a good opportunity slip away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218627,6 +218760,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cabinet, Council of Ministers",
+        "sentences": [
+          {
+            "thai": "คณะรัฐมนตรีประชุมกันทุกวันอังคาร",
+            "en": "The cabinet meets every Tuesday.",
+            "audio_src": "คณะรัฐมนตรีประชุมกันทุกวันอังคาร",
+            "audio_en_src": "The cabinet meets every Tuesday."
+          },
+          {
+            "thai": "นายกแต่งตั้งคณะรัฐมนตรีชุดใหม่แล้ว",
+            "en": "The prime minister has appointed a new cabinet.",
+            "audio_src": "นายกแต่งตั้งคณะรัฐมนตรีชุดใหม่แล้ว",
+            "audio_en_src": "The prime minister has appointed a new cabinet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218637,6 +218789,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "extremely, very much, a lot",
+        "sentences": [
+          {
+            "thai": "ขอบคุณเป็นอย่างยิ่งครับ",
+            "en": "Thank you very much.",
+            "audio_src": "ขอบคุณเป็นอย่างยิ่งครับ",
+            "audio_en_src": "Thank you very much."
+          },
+          {
+            "thai": "ผมเสียใจเป็นอย่างยิ่งกับเหตุการณ์ที่เกิดขึ้น",
+            "en": "I am extremely sorry about what happened.",
+            "audio_src": "ผมเสียใจเป็นอย่างยิ่งกับเหตุการณ์ที่เกิดขึ้น",
+            "audio_en_src": "I am extremely sorry about what happened."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218647,6 +218818,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to treat, to heal, to cure (formal)",
+        "sentences": [
+          {
+            "thai": "เขาเข้ารับการบำบัดยาเสพติด",
+            "en": "He's undergoing treatment for drug addiction.",
+            "audio_src": "เขาเข้ารับการบำบัดยาเสพติด",
+            "audio_en_src": "He's undergoing treatment for drug addiction."
+          },
+          {
+            "thai": "โรงงานต้องบำบัดน้ำเสียก่อนปล่อยลงแม่น้ำ",
+            "en": "The factory must treat the wastewater before releasing it into the river.",
+            "audio_src": "โรงงานต้องบำบัดน้ำเสียก่อนปล่อยลงแม่น้ำ",
+            "audio_en_src": "The factory must treat the wastewater before releasing it into the river."
+          }
+        ]
+      }
     ]
   },
   {

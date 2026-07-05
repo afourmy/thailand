@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6162 words**
+**Total: 6172 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5875,13 +5875,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-059` : ผู้ใช้ (user) : 1 meaning(s), 2 sentences
 - `t4k-c04-060` : รวมตัว (to gather, to assemble) : 1 meaning(s), 2 sentences
 - `t4k-c04-061` : โชว์ (show) : 1 meaning(s), 2 sentences
+- `t4k-c04-062` : ธาตุ (element (e.g chemical, natural, etc)) : 1 meaning(s), 2 sentences
 - `t4k-c04-064` : ความจำ (memory) : 1 meaning(s), 2 sentences
+- `t4k-c04-066` : เจ็บปวด (hurt deeply, painful, to be in pain) : 1 meaning(s), 2 sentences
 - `t4k-c04-067` : ที่ปรึกษา (advisor, consultant) : 1 meaning(s), 2 sentences
 - `t4k-c04-068` : จม (to sink, to be submerged) : 1 meaning(s), 2 sentences
+- `t4k-c04-069` : ดวงตา (eye (formal, poetic)) : 1 meaning(s), 2 sentences
+- `t4k-c04-070` : เลยทีเดียว (quite... indeed, very much indeed) : 1 meaning(s), 2 sentences
+- `t4k-c04-071` : ดง (dense forest, jungle) : 1 meaning(s), 2 sentences
 - `t4k-c04-072` : จัดสรร (to allocate, to distribute, to assign) : 1 meaning(s), 2 sentences
 - `t4k-c04-073` : คัดค้าน (to oppose, to protest against) : 1 meaning(s), 2 sentences
+- `t4k-c04-074` : นายก (prime minister) : 1 meaning(s), 2 sentences
+- `t4k-c04-075` : สูญ (lost, gone, disappeared) : 1 meaning(s), 2 sentences
 - `t4k-c04-078` : ปัน (to share, to divide) : 1 meaning(s), 2 sentences
 - `t4k-c04-082` : ยุติ (to terminate, to resolve, to settle (e.g a conflict, a case)) : 1 meaning(s), 2 sentences
+- `t4k-c04-083` : คณะรัฐมนตรี (cabinet, Council of Ministers) : 1 meaning(s), 2 sentences
+- `t4k-c04-084` : เป็นอย่างยิ่ง (extremely, very much, a lot) : 1 meaning(s), 2 sentences
+- `t4k-c04-085` : บำบัด (to treat, to heal, to cure (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c04-088` : ราบ (flat, smooth) : 1 meaning(s), 2 sentences
 - `t4k-c04-089` : ดึงดูด (to attract, to appeal) : 1 meaning(s), 2 sentences
 - `t4k-c04-093` : สื่อมวลชน (mass media) : 1 meaning(s), 2 sentences
