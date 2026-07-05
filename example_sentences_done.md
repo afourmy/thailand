@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5442 words**
+**Total: 5452 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3832,12 +3832,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-077` : ก้าวเท้า (to step into, to take a step (literally "step + foot")) : 1 meaning(s), 2 sentences
 - `yt-c18-078` : ปล่อยผ่าน (to let it pass, to let it slide) : 1 meaning(s), 2 sentences
 - `yt-c18-079` : ปูเสื่อ (to lay out a mat) : 1 meaning(s), 2 sentences
+- `yt-c18-080` : ติ่ง (skin tag, protruding piece of flesh; hardcore fan, die-hard fan) : 2 meaning(s), 4 sentences
+- `yt-c18-081` : โศกเศร้า (sorrowful, deeply sad, grieving (formal)) : 1 meaning(s), 2 sentences
+- `yt-c18-082` : ค่าแรง (wage, labor cost) : 1 meaning(s), 2 sentences
+- `yt-c18-085` : กักตัว (to quarantine, to self-isolate) : 1 meaning(s), 2 sentences
 - `yt-c18-087` : ได้เปรียบ (to have an advantage, to have the edge) : 1 meaning(s), 2 sentences
 - `yt-c18-088` : เล่นมุก (to crack a joke, to joke around) : 1 meaning(s), 2 sentences
 - `yt-c18-090` : แสบ (stinging, burning sensation (e.g from a cut, spicy food, smoke, etc); naughty, mischievous, troublemaker (e.g of a child)) : 2 meaning(s), 4 sentences
+- `yt-c18-094` : บาทหลวง (catholic priest) : 1 meaning(s), 2 sentences
+- `yt-c18-096` : ถอยหลัง (to reverse, to move backward) : 1 meaning(s), 2 sentences
+- `yt-c18-098` : คนจู้จี้จุกจิก (person who is picky, fussy, likes to nitpick) : 1 meaning(s), 2 sentences
 - `yt-c18-099` : ตกยุค (outdated, out of fashion, obsolete) : 1 meaning(s), 2 sentences
 - `yt-c19-000` : คาบเกี่ยว (to overlap, to span across) : 1 meaning(s), 2 sentences
 - `yt-c19-007` : เลยเป้า, เลยเป้าหมาย (to exceed the target, to go beyond the target) : 1 meaning(s), 2 sentences
+- `yt-c19-011` : พลเรือน (civilian (non military)) : 1 meaning(s), 2 sentences
+- `yt-c19-018` : คลั่ง (obsessed, crazy about, fanatical) : 1 meaning(s), 2 sentences
+- `yt-c19-018b` : คลุ้มคลั่ง (to go crazy, frenzied, in a rage) : 1 meaning(s), 2 sentences
 - `yt-c19-028` : อวบ (chubby, plump) : 1 meaning(s), 2 sentences
 - `yt-c19-030` : ขาดตกบกพร่อง (lacking, incomplete, to have shortcomings or omissions) : 1 meaning(s), 2 sentences
 - `yt-c19-035` : ล่อ - ล่อหลอก (to lure, to entice, to bait - to trick, to deceive by luring) : 1 meaning(s), 2 sentences

@@ -149801,6 +149801,42 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "skin tag, protruding piece of flesh",
+        "sentences": [
+          {
+            "thai": "มีติ่งเล็กๆที่คอ",
+            "en": "I have a little skin tag on my neck.",
+            "audio_src": "มีติ่งเล็กๆที่คอ",
+            "audio_en_src": "I have a little skin tag on my neck."
+          },
+          {
+            "thai": "หมอตัดติ่งเนื้อออก",
+            "en": "The doctor removed the skin tag.",
+            "audio_src": "หมอตัดติ่งเนื้อออก",
+            "audio_en_src": "The doctor removed the skin tag."
+          }
+        ]
+      },
+      {
+        "meaning": "hardcore fan, die-hard fan",
+        "sentences": [
+          {
+            "thai": "เธอเป็นติ่งเกาหลีตัวยง",
+            "en": "She's a die-hard K-pop fan.",
+            "audio_src": "เธอเป็นติ่งเกาหลีตัวยง",
+            "audio_en_src": "She's a die-hard K-pop fan."
+          },
+          {
+            "thai": "ติ่งวงนี้เยอะมาก",
+            "en": "This band has a huge base of die-hard fans.",
+            "audio_src": "ติ่งวงนี้เยอะมาก",
+            "audio_en_src": "This band has a huge base of die-hard fans."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149811,6 +149847,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "sorrowful, deeply sad, grieving (formal)",
+        "sentences": [
+          {
+            "thai": "ทุกคนโศกเศร้ากับการจากไปของเขา",
+            "en": "Everyone grieved his passing.",
+            "audio_src": "ทุกคนโศกเศร้ากับการจากไปของเขา",
+            "audio_en_src": "Everyone grieved his passing."
+          },
+          {
+            "thai": "เธอร้องไห้ด้วยความโศกเศร้า",
+            "en": "She wept in deep sorrow.",
+            "audio_src": "เธอร้องไห้ด้วยความโศกเศร้า",
+            "audio_en_src": "She wept in deep sorrow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149821,6 +149876,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "wage, labor cost",
+        "sentences": [
+          {
+            "thai": "รัฐบาลขึ้นค่าแรงขั้นต่ำ",
+            "en": "The government raised the minimum wage.",
+            "audio_src": "รัฐบาลขึ้นค่าแรงขั้นต่ำ",
+            "audio_en_src": "The government raised the minimum wage."
+          },
+          {
+            "thai": "ค่าแรงช่างแพงกว่าค่าอุปกรณ์",
+            "en": "The labor cost is higher than the materials.",
+            "audio_src": "ค่าแรงช่างแพงกว่าค่าอุปกรณ์",
+            "audio_en_src": "The labor cost is higher than the materials."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149852,6 +149926,25 @@
     "sources": [
       "YouTube",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to quarantine, to self-isolate",
+        "sentences": [
+          {
+            "thai": "เขาต้องกักตัวสิบสี่วัน",
+            "en": "He has to quarantine for fourteen days.",
+            "audio_src": "เขาต้องกักตัวสิบสี่วัน",
+            "audio_en_src": "He has to quarantine for fourteen days."
+          },
+          {
+            "thai": "ติดโควิดต้องกักตัวอยู่บ้าน",
+            "en": "He caught COVID and has to self-isolate at home.",
+            "audio_src": "ติดโควิดต้องกักตัวอยู่บ้าน",
+            "audio_en_src": "He caught COVID and has to self-isolate at home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150027,6 +150120,25 @@
     "topic": "beliefs",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "catholic priest",
+        "sentences": [
+          {
+            "thai": "บาทหลวงประกอบพิธีในโบสถ์",
+            "en": "The priest leads the service in the church.",
+            "audio_src": "บาทหลวงประกอบพิธีในโบสถ์",
+            "audio_en_src": "The priest leads the service in the church."
+          },
+          {
+            "thai": "เขาบวชเป็นบาทหลวง",
+            "en": "He was ordained as a priest.",
+            "audio_src": "เขาบวชเป็นบาทหลวง",
+            "audio_en_src": "He was ordained as a priest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150047,6 +150159,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to reverse, to move backward",
+        "sentences": [
+          {
+            "thai": "ค่อยๆถอยหลังรถเข้าซอง",
+            "en": "Slowly reverse the car into the parking spot.",
+            "audio_src": "ค่อยๆถอยหลังรถเข้าซอง",
+            "audio_en_src": "Slowly reverse the car into the parking spot."
+          },
+          {
+            "thai": "เดินถอยหลังระวังชน",
+            "en": "Walk backward carefully so you don't bump into anything.",
+            "audio_src": "เดินถอยหลังระวังชน",
+            "audio_en_src": "Walk backward carefully so you don't bump into anything."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150067,6 +150198,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "person who is picky, fussy, likes to nitpick",
+        "sentences": [
+          {
+            "thai": "เจ้านายจู้จี้จุกจิกเรื่องเล็กๆน้อยๆ",
+            "en": "The boss nitpicks over every little thing.",
+            "audio_src": "เจ้านายจู้จี้จุกจิกเรื่องเล็กๆน้อยๆ",
+            "audio_en_src": "The boss nitpicks over every little thing."
+          },
+          {
+            "thai": "เขาเป็นคนจู้จี้จุกจิกเรื่องอาหาร",
+            "en": "He's really fussy about food.",
+            "audio_src": "เขาเป็นคนจู้จี้จุกจิกเรื่องอาหาร",
+            "audio_en_src": "He's really fussy about food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150261,6 +150411,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "civilian (non military)",
+        "sentences": [
+          {
+            "thai": "สงครามทำให้พลเรือนเดือดร้อน",
+            "en": "The war brings suffering to civilians.",
+            "audio_src": "สงครามทำให้พลเรือนเดือดร้อน",
+            "audio_en_src": "The war brings suffering to civilians."
+          },
+          {
+            "thai": "เขตนี้ห้ามพลเรือนเข้า",
+            "en": "Civilians are not allowed into this area.",
+            "audio_src": "เขตนี้ห้ามพลเรือนเข้า",
+            "audio_en_src": "Civilians are not allowed into this area."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150322,6 +150491,25 @@
     "sources": [
       "YouTube",
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "obsessed, crazy about, fanatical",
+        "sentences": [
+          {
+            "thai": "เขาคลั่งฟุตบอลมาก",
+            "en": "He's crazy about football.",
+            "audio_src": "เขาคลั่งฟุตบอลมาก",
+            "audio_en_src": "He's crazy about football."
+          },
+          {
+            "thai": "วัยรุ่นคลั่งไอดอลเกาหลี",
+            "en": "Teens are obsessed with Korean idols.",
+            "audio_src": "วัยรุ่นคลั่งไอดอลเกาหลี",
+            "audio_en_src": "Teens are obsessed with Korean idols."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150333,6 +150521,25 @@
     "sources": [
       "YouTube",
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to go crazy, frenzied, in a rage",
+        "sentences": [
+          {
+            "thai": "เขาโกรธจนคลุ้มคลั่ง",
+            "en": "He was so angry he flew into a rage.",
+            "audio_src": "เขาโกรธจนคลุ้มคลั่ง",
+            "audio_en_src": "He was so angry he flew into a rage."
+          },
+          {
+            "thai": "ฝูงชนคลุ้มคลั่งตอนไฟไหม้",
+            "en": "The crowd went into a frenzy during the fire.",
+            "audio_src": "ฝูงชนคลุ้มคลั่งตอนไฟไหม้",
+            "audio_en_src": "The crowd went into a frenzy during the fire."
+          }
+        ]
+      }
     ]
   },
   {
