@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5562 words**
+**Total: 5572 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3996,6 +3996,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-087` : ชะล่าใจ (to let one's guard down, to be overconfident, careless, complacent) : 1 meaning(s), 2 sentences
 - `yt-c21-088` : ซื้อใจ (to win someone over, to buy someone's favor) : 1 meaning(s), 2 sentences
 - `yt-c21-089` : ดูใจ (to test the waters, to feel someone out) : 1 meaning(s), 2 sentences
+- `yt-c21-090` : ตายใจ (to become overconfident, to let down one's guard, to trust too much and stop being careful) : 1 meaning(s), 2 sentences
+- `yt-c21-091` : เตรียมใจ (to prepare oneself mentally, to get ready for something tough) : 1 meaning(s), 2 sentences
+- `yt-c21-092` : ถอดใจ (to give up, to get discouraged, to abandon hope) : 1 meaning(s), 2 sentences
+- `yt-c21-093` : ตามนั้น ("sounds good", "agreed", "I'm in") : 1 meaning(s), 2 sentences
+- `yt-c21-094` : พูดเป็นเล่น ("you're kidding!", "are you kidding me?") : 1 meaning(s), 2 sentences
+- `yt-c21-096` : ช่างเหอะ, ช่างเถอะ (whatever, "doesn't matter", "never mind", "forget it") : 1 meaning(s), 2 sentences
+- `yt-c21-097` : ทิพย์ (divine, heavenly, supernatural; (slang, figurative) in one's dreams, fake, imaginary (something)) : 2 meaning(s), 4 sentences
+- `yt-c21-098` : สายแดก (foodie) : 1 meaning(s), 2 sentences
+- `yt-c21-099` : หิวแสง (attention-seeking, thirsty for attention) : 1 meaning(s), 2 sentences
+- `yt-c22-000` : ครั่นเนื้อครั่นตัว (to feel feverish, unwell, to have chills) : 1 meaning(s), 2 sentences
 - `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
 - `yt-c22-005` : คาดคะเน (to estimate, to predict, to infer) : 1 meaning(s), 2 sentences
 - `yt-c22-011` : ยอ (to flatter, to suck up to) : 1 meaning(s), 2 sentences
