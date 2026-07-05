@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5552 words**
+**Total: 5562 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3986,6 +3986,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-074` : เหลือบ (to glance, to peek quickly (brief or sideway look to be discrete)) : 1 meaning(s), 2 sentences
 - `yt-c21-078` : แอ๊บ (to act, to pretend (usually to look like something one is not)) : 1 meaning(s), 2 sentences
 - `new-3` : แอ๊บแบ๊ว (to act cute, innocent in an exaggerated way) : 1 meaning(s), 2 sentences
+- `new-4` : แอ๊บแมน (to act manly, to pretend to be masculine) : 1 meaning(s), 2 sentences
+- `new-5` : แอ๊บใส (to act innocent, pure) : 1 meaning(s), 2 sentences
+- `yt-c21-079` : เสี่ยว (cheesy, corny, cringey) : 1 meaning(s), 2 sentences
+- `yt-c21-082` : โพลล์ (poll (politics)) : 1 meaning(s), 2 sentences
+- `yt-c21-084` : กาวใจ (the one who holds everyone together, peacemaker, mediator) : 1 meaning(s), 2 sentences
+- `yt-c21-085` : ข้องใจ (to have doubts, lingering questions, to be bothered by something) : 1 meaning(s), 2 sentences
+- `yt-c21-086` : ชนะใจ (to win someone's heart) : 1 meaning(s), 2 sentences
+- `yt-c21-087` : ชะล่าใจ (to let one's guard down, to be overconfident, careless, complacent) : 1 meaning(s), 2 sentences
+- `yt-c21-088` : ซื้อใจ (to win someone over, to buy someone's favor) : 1 meaning(s), 2 sentences
+- `yt-c21-089` : ดูใจ (to test the waters, to feel someone out) : 1 meaning(s), 2 sentences
 - `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
 - `yt-c22-005` : คาดคะเน (to estimate, to predict, to infer) : 1 meaning(s), 2 sentences
 - `yt-c22-011` : ยอ (to flatter, to suck up to) : 1 meaning(s), 2 sentences
