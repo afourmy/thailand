@@ -234303,6 +234303,25 @@
     "topic": "personality",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "flirtatious, womanizer",
+        "sentences": [
+          {
+            "thai": "ผู้ชายคนนั้นขี้หลี ชอบจีบสาวไปทั่ว",
+            "en": "That guy is a womanizer, always hitting on girls.",
+            "audio_src": "ผู้ชายคนนั้นขี้หลี ชอบจีบสาวไปทั่ว",
+            "audio_en_src": "That guy is a womanizer, always hitting on girls."
+          },
+          {
+            "thai": "อย่าไปคบกับคนขี้หลีเลย",
+            "en": "Don't get involved with a womanizer.",
+            "audio_src": "อย่าไปคบกับคนขี้หลีเลย",
+            "audio_en_src": "Don't get involved with a womanizer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234313,6 +234332,25 @@
     "topic": "beliefs",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "auspicious",
+        "sentences": [
+          {
+            "thai": "วันนี้เป็นวันมงคลสำหรับแต่งงาน",
+            "en": "Today is an auspicious day for a wedding.",
+            "audio_src": "วันนี้เป็นวันมงคลสำหรับแต่งงาน",
+            "audio_en_src": "Today is an auspicious day for a wedding."
+          },
+          {
+            "thai": "พระให้พรเป็นสิริมงคลแก่บ่าวสาว",
+            "en": "The monk gave the couple an auspicious blessing.",
+            "audio_src": "พระให้พรเป็นสิริมงคลแก่บ่าวสาว",
+            "audio_en_src": "The monk gave the couple an auspicious blessing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234363,6 +234401,25 @@
     "topic": "family",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "daughter-in-law, wife of son",
+        "sentences": [
+          {
+            "thai": "ลูกสะใภ้ช่วยแม่สามีทำกับข้าว",
+            "en": "The daughter-in-law helps her mother-in-law cook.",
+            "audio_src": "ลูกสะใภ้ช่วยแม่สามีทำกับข้าว",
+            "audio_en_src": "The daughter-in-law helps her mother-in-law cook."
+          },
+          {
+            "thai": "เขารักลูกสะใภ้เหมือนลูกสาวแท้ๆ",
+            "en": "He loves his daughter-in-law like his own daughter.",
+            "audio_src": "เขารักลูกสะใภ้เหมือนลูกสาวแท้ๆ",
+            "audio_en_src": "He loves his daughter-in-law like his own daughter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234373,6 +234430,25 @@
     "topic": "family",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "son-in-law, husband of daughter",
+        "sentences": [
+          {
+            "thai": "ลูกเขยพาครอบครัวมาเยี่ยมทุกปีใหม่",
+            "en": "The son-in-law brings the family to visit every New Year.",
+            "audio_src": "ลูกเขยพาครอบครัวมาเยี่ยมทุกปีใหม่",
+            "audio_en_src": "The son-in-law brings the family to visit every New Year."
+          },
+          {
+            "thai": "พ่อตาภูมิใจในลูกเขยมาก",
+            "en": "The father-in-law is very proud of his son-in-law.",
+            "audio_src": "พ่อตาภูมิใจในลูกเขยมาก",
+            "audio_en_src": "The father-in-law is very proud of his son-in-law."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234383,6 +234459,25 @@
     "topic": "family",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "bride",
+        "sentences": [
+          {
+            "thai": "เจ้าสาวสวยมากในชุดแต่งงาน",
+            "en": "The bride looked so beautiful in her wedding dress.",
+            "audio_src": "เจ้าสาวสวยมากในชุดแต่งงาน",
+            "audio_en_src": "The bride looked so beautiful in her wedding dress."
+          },
+          {
+            "thai": "เจ้าสาวเดินเข้างานพร้อมกับพ่อ",
+            "en": "The bride walked in together with her father.",
+            "audio_src": "เจ้าสาวเดินเข้างานพร้อมกับพ่อ",
+            "audio_en_src": "The bride walked in together with her father."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234393,6 +234488,25 @@
     "topic": "family",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "groom",
+        "sentences": [
+          {
+            "thai": "เจ้าบ่าวตื่นเต้นจนพูดไม่ออก",
+            "en": "The groom was so nervous he couldn't get a word out.",
+            "audio_src": "เจ้าบ่าวตื่นเต้นจนพูดไม่ออก",
+            "audio_en_src": "The groom was so nervous he couldn't get a word out."
+          },
+          {
+            "thai": "เจ้าบ่าวสวมแหวนให้เจ้าสาว",
+            "en": "The groom slipped the ring onto the bride's finger.",
+            "audio_src": "เจ้าบ่าวสวมแหวนให้เจ้าสาว",
+            "audio_en_src": "The groom slipped the ring onto the bride's finger."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234403,6 +234517,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "hood",
+        "sentences": [
+          {
+            "thai": "เครื่องยนต์ร้อน เปิดกระโปรงหน้าดูหน่อย",
+            "en": "The engine's hot, open the hood and take a look.",
+            "audio_src": "เครื่องยนต์ร้อน เปิดกระโปรงหน้าดูหน่อย",
+            "audio_en_src": "The engine's hot, open the hood and take a look."
+          },
+          {
+            "thai": "ควันลอยออกมาจากกระโปรงหน้ารถ",
+            "en": "Smoke drifted out from under the car's hood.",
+            "audio_src": "ควันลอยออกมาจากกระโปรงหน้ารถ",
+            "audio_en_src": "Smoke drifted out from under the car's hood."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234413,6 +234546,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "trunk lid",
+        "sentences": [
+          {
+            "thai": "เอากระเป๋าไปใส่ไว้ในกระโปรงหลัง",
+            "en": "Put the bags in the trunk.",
+            "audio_src": "เอากระเป๋าไปใส่ไว้ในกระโปรงหลัง",
+            "audio_en_src": "Put the bags in the trunk."
+          },
+          {
+            "thai": "กระโปรงหลังปิดไม่สนิท",
+            "en": "The trunk lid won't close all the way.",
+            "audio_src": "กระโปรงหลังปิดไม่สนิท",
+            "audio_en_src": "The trunk lid won't close all the way."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234423,6 +234575,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "tire leak",
+        "sentences": [
+          {
+            "thai": "ยางรั่วเพราะเหยียบตะปู",
+            "en": "The tire got a leak from running over a nail.",
+            "audio_src": "ยางรั่วเพราะเหยียบตะปู",
+            "audio_en_src": "The tire got a leak from running over a nail."
+          },
+          {
+            "thai": "ต้องแวะปะยางรั่วก่อนเดินทางต่อ",
+            "en": "We have to stop and patch the tire leak before driving on.",
+            "audio_src": "ต้องแวะปะยางรั่วก่อนเดินทางต่อ",
+            "audio_en_src": "We have to stop and patch the tire leak before driving on."
+          }
+        ]
+      }
     ]
   },
   {
@@ -234433,6 +234604,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "flat tire",
+        "sentences": [
+          {
+            "thai": "รถยางแบนกลางทาง",
+            "en": "The car got a flat tire on the way.",
+            "audio_src": "รถยางแบนกลางทาง",
+            "audio_en_src": "The car got a flat tire on the way."
+          },
+          {
+            "thai": "ยางแบนต้องเปลี่ยนไปใช้ยางอะไหล่",
+            "en": "A flat tire means switching to the spare.",
+            "audio_src": "ยางแบนต้องเปลี่ยนไปใช้ยางอะไหล่",
+            "audio_en_src": "A flat tire means switching to the spare."
+          }
+        ]
+      }
     ]
   },
   {

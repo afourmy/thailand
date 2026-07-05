@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6312 words**
+**Total: 6322 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6316,3 +6316,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-113` : ไอศกรีม (ice-cream (loanword)) : 1 meaning(s), 2 sentences
 - `manual-002` : การเกษตร (agriculture (activity, process)) : 1 meaning(s), 2 sentences
 - `manual-003` : ขี้ระแวง (paranoid, suspicious by nature) : 1 meaning(s), 2 sentences
+- `manual-004` : ขี้หลี (flirtatious, womanizer) : 1 meaning(s), 2 sentences
+- `manual-005` : มงคล (auspicious) : 1 meaning(s), 2 sentences
+- `new-16` : ลูกสะใภ้ (daughter-in-law, wife of son) : 1 meaning(s), 2 sentences
+- `new-17` : ลูกเขย (son-in-law, husband of daughter) : 1 meaning(s), 2 sentences
+- `new-18` : เจ้าสาว (bride) : 1 meaning(s), 2 sentences
+- `new-19` : เจ้าบ่าว (groom) : 1 meaning(s), 2 sentences
+- `new-20` : กระโปรงหน้า (hood) : 1 meaning(s), 2 sentences
+- `new-21` : กระโปรงหลัง (trunk lid) : 1 meaning(s), 2 sentences
+- `new-22` : ยางรั่ว (tire leak) : 1 meaning(s), 2 sentences
+- `new-23` : ยางแบน (flat tire) : 1 meaning(s), 2 sentences
