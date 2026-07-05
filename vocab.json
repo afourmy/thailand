@@ -190403,6 +190403,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "company, business",
+        "sentences": [
+          {
+            "thai": "เขาทำงานในบริษัทใหญ่",
+            "en": "He works at a big company.",
+            "audio_src": "เขาทำงานในบริษัทใหญ่",
+            "audio_en_src": "He works at a big company."
+          },
+          {
+            "thai": "บริษัทเปิดรับสมัครพนักงานใหม่",
+            "en": "The company is hiring new staff.",
+            "audio_src": "บริษัทเปิดรับสมัครพนักงานใหม่",
+            "audio_en_src": "The company is hiring new staff."
+          }
+        ]
+      }
     ]
   },
   {
@@ -190481,6 +190500,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "banknote, bank (loanword)",
+        "sentences": [
+          {
+            "thai": "ขอแลกแบงค์ร้อยเป็นแบงค์ยี่สิบ",
+            "en": "Can you break a hundred note into twenties?",
+            "audio_src": "ขอแลกแบงค์ร้อยเป็นแบงค์ยี่สิบ",
+            "audio_en_src": "Can you break a hundred note into twenties?"
+          },
+          {
+            "thai": "เขาไปถอนเงินที่แบงค์",
+            "en": "He went to withdraw money at the bank.",
+            "audio_src": "เขาไปถอนเงินที่แบงค์",
+            "audio_en_src": "He went to withdraw money at the bank."
+          }
+        ]
+      }
     ]
   },
   {
@@ -190783,6 +190821,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pepper",
+        "sentences": [
+          {
+            "thai": "โรยพริกไทยบนไข่ดาว",
+            "en": "Sprinkle pepper on the fried egg.",
+            "audio_src": "โรยพริกไทยบนไข่ดาว",
+            "audio_en_src": "Sprinkle pepper on the fried egg."
+          },
+          {
+            "thai": "ซุปนี้ใส่พริกไทยเยอะไปหน่อย",
+            "en": "This soup has a bit too much pepper.",
+            "audio_src": "ซุปนี้ใส่พริกไทยเยอะไปหน่อย",
+            "audio_en_src": "This soup has a bit too much pepper."
+          }
+        ]
+      }
     ]
   },
   {
@@ -190794,6 +190851,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "vendor (male)",
+        "sentences": [
+          {
+            "thai": "พ่อค้าขายก๋วยเตี๋ยวหน้าปากซอย",
+            "en": "The vendor sells noodles at the mouth of the alley.",
+            "audio_src": "พ่อค้าขายก๋วยเตี๋ยวหน้าปากซอย",
+            "audio_en_src": "The vendor sells noodles at the mouth of the alley."
+          },
+          {
+            "thai": "พ่อค้าลดราคาให้ลูกค้าประจำ",
+            "en": "The vendor gives regulars a discount.",
+            "audio_src": "พ่อค้าลดราคาให้ลูกค้าประจำ",
+            "audio_en_src": "The vendor gives regulars a discount."
+          }
+        ]
+      }
     ]
   },
   {
@@ -190955,6 +191031,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "goat",
+        "sentences": [
+          {
+            "thai": "แพะกินหญ้าบนเนินเขา",
+            "en": "The goats graze on the hillside.",
+            "audio_src": "แพะกินหญ้าบนเนินเขา",
+            "audio_en_src": "The goats graze on the hillside."
+          },
+          {
+            "thai": "นมแพะมีประโยชน์ต่อสุขภาพ",
+            "en": "Goat's milk is good for your health.",
+            "audio_src": "นมแพะมีประโยชน์ต่อสุขภาพ",
+            "audio_en_src": "Goat's milk is good for your health."
+          }
+        ]
+      }
     ]
   },
   {
@@ -191032,6 +191127,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mountains",
+        "sentences": [
+          {
+            "thai": "บ้านเขาอยู่เชิงภูเขา",
+            "en": "His house is at the foot of the mountain.",
+            "audio_src": "บ้านเขาอยู่เชิงภูเขา",
+            "audio_en_src": "His house is at the foot of the mountain."
+          },
+          {
+            "thai": "เราปีนภูเขาสูงในวันหยุด",
+            "en": "We climbed a tall mountain over the holiday.",
+            "audio_src": "เราปีนภูเขาสูงในวันหยุด",
+            "audio_en_src": "We climbed a tall mountain over the holiday."
+          }
+        ]
+      }
     ]
   },
   {
@@ -191043,6 +191157,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "lime",
+        "sentences": [
+          {
+            "thai": "บีบมะนาวใส่ต้มยำ",
+            "en": "Squeeze lime into the tom yum.",
+            "audio_src": "บีบมะนาวใส่ต้มยำ",
+            "audio_en_src": "Squeeze lime into the tom yum."
+          },
+          {
+            "thai": "มะนาวแพงในหน้าแล้ง",
+            "en": "Limes are expensive in the dry season.",
+            "audio_src": "มะนาวแพงในหน้าแล้ง",
+            "audio_en_src": "Limes are expensive in the dry season."
+          }
+        ]
+      }
     ]
   },
   {
@@ -191116,6 +191249,42 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "seed, grain, pill",
+        "sentences": [
+          {
+            "thai": "หมอให้กินยาวันละสองเม็ด",
+            "en": "The doctor said to take two pills a day.",
+            "audio_src": "หมอให้กินยาวันละสองเม็ด",
+            "audio_en_src": "The doctor said to take two pills a day."
+          },
+          {
+            "thai": "เม็ดข้าวเปลือกร่วงบนพื้น",
+            "en": "Grains of unmilled rice fell on the floor.",
+            "audio_src": "เม็ดข้าวเปลือกร่วงบนพื้น",
+            "audio_en_src": "Grains of unmilled rice fell on the floor."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for small, round objects",
+        "sentences": [
+          {
+            "thai": "ขอลูกอมสักเม็ด",
+            "en": "Can I have a piece of candy?",
+            "audio_src": "ขอลูกอมสักเม็ด",
+            "audio_en_src": "Can I have a piece of candy?"
+          },
+          {
+            "thai": "เขากินองุ่นไปห้าเม็ด",
+            "en": "He ate five grapes.",
+            "audio_src": "เขากินองุ่นไปห้าเม็ด",
+            "audio_en_src": "He ate five grapes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -191224,6 +191393,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "nobody",
+        "sentences": [
+          {
+            "thai": "ไม่มีใครอยู่บ้านตอนนี้",
+            "en": "Nobody is home right now.",
+            "audio_src": "ไม่มีใครอยู่บ้านตอนนี้",
+            "audio_en_src": "Nobody is home right now."
+          },
+          {
+            "thai": "เรื่องนี้ไม่มีใครรู้",
+            "en": "Nobody knows about this.",
+            "audio_src": "เรื่องนี้ไม่มีใครรู้",
+            "audio_en_src": "Nobody knows about this."
+          }
+        ]
+      }
     ]
   },
   {
@@ -191386,6 +191574,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bus (inter-city), airconditioned bus (coach)",
+        "sentences": [
+          {
+            "thai": "เรานั่งรถทัวร์ไปเชียงใหม่",
+            "en": "We took a coach to Chiang Mai.",
+            "audio_src": "เรานั่งรถทัวร์ไปเชียงใหม่",
+            "audio_en_src": "We took a coach to Chiang Mai."
+          },
+          {
+            "thai": "รถทัวร์กลางคืนมีเตียงนอน",
+            "en": "The overnight coach has sleeper seats.",
+            "audio_src": "รถทัวร์กลางคืนมีเตียงนอน",
+            "audio_en_src": "The overnight coach has sleeper seats."
+          }
+        ]
+      }
     ]
   },
   {
