@@ -227390,6 +227390,25 @@
     "topic": "food",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "protein",
+        "sentences": [
+          {
+            "thai": "เนื้อไก่มีโปรตีนสูง",
+            "en": "Chicken is high in protein.",
+            "audio_src": "เนื้อไก่มีโปรตีนสูง",
+            "audio_en_src": "Chicken is high in protein."
+          },
+          {
+            "thai": "คนออกกำลังกายต้องกินโปรตีนให้พอ",
+            "en": "People who work out need to get enough protein.",
+            "audio_src": "คนออกกำลังกายต้องกินโปรตีนให้พอ",
+            "audio_en_src": "People who work out need to get enough protein."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227472,6 +227491,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "damages",
+        "sentences": [
+          {
+            "thai": "ศาลสั่งให้จำเลยจ่ายค่าเสียหายแก่โจทก์",
+            "en": "The court ordered the defendant to pay damages to the plaintiff.",
+            "audio_src": "ศาลสั่งให้จำเลยจ่ายค่าเสียหายแก่โจทก์",
+            "audio_en_src": "The court ordered the defendant to pay damages to the plaintiff."
+          },
+          {
+            "thai": "เขาเรียกค่าเสียหายจากบริษัทประกัน",
+            "en": "He claimed damages from the insurance company.",
+            "audio_src": "เขาเรียกค่าเสียหายจากบริษัทประกัน",
+            "audio_en_src": "He claimed damages from the insurance company."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227482,6 +227520,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "in front (formal)",
+        "sentences": [
+          {
+            "thai": "ภูเขาสูงตระหง่านอยู่เบื้องหน้า",
+            "en": "A towering mountain stood ahead.",
+            "audio_src": "ภูเขาสูงตระหง่านอยู่เบื้องหน้า",
+            "audio_en_src": "A towering mountain stood ahead."
+          },
+          {
+            "thai": "อนาคตที่สดใสรออยู่เบื้องหน้า",
+            "en": "A bright future lies ahead.",
+            "audio_src": "อนาคตที่สดใสรออยู่เบื้องหน้า",
+            "audio_en_src": "A bright future lies ahead."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227574,6 +227631,25 @@
     "topic": "slang",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wealthy Chinese-Thai businessman, rich older man, rich guy (informal)",
+        "sentences": [
+          {
+            "thai": "เสี่ยคนนั้นขับรถหรูคันใหญ่",
+            "en": "That rich guy drives a big luxury car.",
+            "audio_src": "เสี่ยคนนั้นขับรถหรูคันใหญ่",
+            "audio_en_src": "That rich guy drives a big luxury car."
+          },
+          {
+            "thai": "เธอไปกินข้าวกับเสี่ยเจ้าของร้าน",
+            "en": "She went out to eat with the wealthy shop owner.",
+            "audio_src": "เธอไปกินข้าวกับเสี่ยเจ้าของร้าน",
+            "audio_en_src": "She went out to eat with the wealthy shop owner."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227657,6 +227733,25 @@
     "sources": [
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "governor",
+        "sentences": [
+          {
+            "thai": "ผู้ว่าสั่งปิดถนนช่วงงานเทศกาล",
+            "en": "The governor ordered the road closed during the festival.",
+            "audio_src": "ผู้ว่าสั่งปิดถนนช่วงงานเทศกาล",
+            "audio_en_src": "The governor ordered the road closed during the festival."
+          },
+          {
+            "thai": "ประชาชนไปยื่นหนังสือร้องเรียนถึงผู้ว่า",
+            "en": "People went to file a complaint with the governor.",
+            "audio_src": "ประชาชนไปยื่นหนังสือร้องเรียนถึงผู้ว่า",
+            "audio_en_src": "People went to file a complaint with the governor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227677,6 +227772,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to cause (someone to feel or react a certain way)",
+        "sentences": [
+          {
+            "thai": "หนังผีเรื่องนี้ทำเอาฉันขวัญหนี",
+            "en": "This horror movie scared the life out of me.",
+            "audio_src": "หนังผีเรื่องนี้ทำเอาฉันขวัญหนี",
+            "audio_en_src": "This horror movie scared the life out of me."
+          },
+          {
+            "thai": "ข่าวร้ายทำเอาทุกคนตกใจ",
+            "en": "The bad news left everyone shocked.",
+            "audio_src": "ข่าวร้ายทำเอาทุกคนตกใจ",
+            "audio_en_src": "The bad news left everyone shocked."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227697,6 +227811,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "afterwards, later on",
+        "sentences": [
+          {
+            "thai": "ตอนแรกเขาไม่ชอบ แต่ตอนหลังก็เริ่มชิน",
+            "en": "At first he didn't like it, but later he got used to it.",
+            "audio_src": "ตอนแรกเขาไม่ชอบ แต่ตอนหลังก็เริ่มชิน",
+            "audio_en_src": "At first he didn't like it, but later he got used to it."
+          },
+          {
+            "thai": "ตอนหลังฉันไม่ค่อยได้เจอเธอเลย",
+            "en": "Lately I haven't seen her much.",
+            "audio_src": "ตอนหลังฉันไม่ค่อยได้เจอเธอเลย",
+            "audio_en_src": "Lately I haven't seen her much."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227748,6 +227881,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "song, lyrics (formal)",
+        "sentences": [
+          {
+            "thai": "บทเพลงนี้ไพเราะจับใจ",
+            "en": "This song is beautifully moving.",
+            "audio_src": "บทเพลงนี้ไพเราะจับใจ",
+            "audio_en_src": "This song is beautifully moving."
+          },
+          {
+            "thai": "เขาแต่งบทเพลงให้คนรัก",
+            "en": "He wrote a song for the one he loves.",
+            "audio_src": "เขาแต่งบทเพลงให้คนรัก",
+            "audio_en_src": "He wrote a song for the one he loves."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227963,6 +228115,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "stream of water",
+        "sentences": [
+          {
+            "thai": "สายน้ำไหลผ่านกลางหมู่บ้าน",
+            "en": "The stream flows through the middle of the village.",
+            "audio_src": "สายน้ำไหลผ่านกลางหมู่บ้าน",
+            "audio_en_src": "The stream flows through the middle of the village."
+          },
+          {
+            "thai": "ชีวิตคนเราเหมือนสายน้ำที่ไม่หวนกลับ",
+            "en": "Our lives are like a stream that never flows back.",
+            "audio_src": "ชีวิตคนเราเหมือนสายน้ำที่ไม่หวนกลับ",
+            "audio_en_src": "Our lives are like a stream that never flows back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227983,6 +228154,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "musical instrument",
+        "sentences": [
+          {
+            "thai": "เขาเล่นเครื่องดนตรีได้หลายชนิด",
+            "en": "He can play several kinds of instruments.",
+            "audio_src": "เขาเล่นเครื่องดนตรีได้หลายชนิด",
+            "audio_en_src": "He can play several kinds of instruments."
+          },
+          {
+            "thai": "กีตาร์เป็นเครื่องดนตรีที่ฉันชอบที่สุด",
+            "en": "The guitar is my favorite instrument.",
+            "audio_src": "กีตาร์เป็นเครื่องดนตรีที่ฉันชอบที่สุด",
+            "audio_en_src": "The guitar is my favorite instrument."
+          }
+        ]
+      }
     ]
   },
   {

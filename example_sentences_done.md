@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6262 words**
+**Total: 6272 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6121,17 +6121,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c10-020` : เจ้าพ่อ (godfather, mafia boss; male deity, guardian spirit) : 2 meaning(s), 4 sentences
 - `t4k-c10-021` : อวกาศ (space) : 1 meaning(s), 2 sentences
 - `t4k-c10-023` : ประมวลกฎหมาย (legal code (collection of laws)) : 1 meaning(s), 2 sentences
+- `t4k-c10-024` : โปรตีน (protein) : 1 meaning(s), 2 sentences
 - `t4k-c10-026` : ผนวก (to append, to annex, to incorporate) : 1 meaning(s), 2 sentences
 - `t4k-c10-028` : เสี้ยว (fraction, small portion, small part) : 1 meaning(s), 2 sentences
+- `t4k-c10-029` : ค่าเสียหาย (damages) : 1 meaning(s), 2 sentences
+- `t4k-c10-031` : เบื้องหน้า (in front (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c10-034` : บ้านเกิด (hometown, homeland) : 1 meaning(s), 2 sentences
 - `t4k-c10-036` : ดำน้ำ (to dive) : 1 meaning(s), 2 sentences
+- `t4k-c10-037` : เสี่ย (wealthy Chinese-Thai businessman, rich older man, rich guy (informal)) : 1 meaning(s), 2 sentences
 - `t4k-c10-038` : มวย (boxing) : 1 meaning(s), 2 sentences
 - `t4k-c10-041` : เก๋ (stylish, chic, cool) : 1 meaning(s), 2 sentences
+- `t4k-c10-044` : ผู้ว่า (governor) : 1 meaning(s), 2 sentences
+- `t4k-c10-046` : ทำเอา (to cause (someone to feel or react a certain way)) : 1 meaning(s), 2 sentences
+- `t4k-c10-048` : ตอนหลัง (afterwards, later on) : 1 meaning(s), 2 sentences
 - `t4k-c10-049` : อาบ (to bathe) : 1 meaning(s), 2 sentences
+- `t4k-c10-051` : บทเพลง (song, lyrics (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c10-052` : ฟุตบอล (football) : 1 meaning(s), 2 sentences
 - `t4k-c10-062` : น้ำพริก (chili sauce) : 1 meaning(s), 2 sentences
 - `t4k-c10-063` : เอื้อม (to reach out, to stretch out; (figuratively) to be able to attain) : 2 meaning(s), 4 sentences
 - `t4k-c10-065` : มัธยมศึกษา (secondary education) : 1 meaning(s), 2 sentences
+- `t4k-c10-068` : สายน้ำ (stream of water) : 1 meaning(s), 2 sentences
+- `t4k-c10-070` : เครื่องดนตรี (musical instrument) : 1 meaning(s), 2 sentences
 - `t4k-c10-074` : อุด (to plug, to fill, to block a hole) : 1 meaning(s), 2 sentences
 - `t4k-c10-083` : ลัด (to cut across, to bypass, to take a shortcut) : 1 meaning(s), 2 sentences
 - `t4k-c10-084` : พยุง (to hold up someone or something to prevent falling, to support; (figuratively) to prop up, to sustain) : 2 meaning(s), 4 sentences
