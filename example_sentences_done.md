@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6252 words**
+**Total: 6262 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6098,8 +6098,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-058` : เป็นกลาง (neutral, impartial, not taking sides) : 1 meaning(s), 2 sentences
 - `t4k-c09-061` : เตรียมพร้อม (to be prepared, to get ready) : 1 meaning(s), 2 sentences
 - `t4k-c09-064` : ถ่ายทำ (to produce a movie, to shoot a movie) : 1 meaning(s), 2 sentences
+- `t4k-c09-067` : พุ่ม, พุ่มไม้ (bush) : 1 meaning(s), 2 sentences
 - `t4k-c09-070` : เกรด (grade (school)) : 1 meaning(s), 2 sentences
+- `t4k-c09-071` : สิทธิมนุษยชน (human rights) : 1 meaning(s), 2 sentences
 - `t4k-c09-072` : รับผิด (to take responsibility, to admit fault) : 1 meaning(s), 2 sentences
+- `t4k-c09-078` : ภาคตะวันออก (eastern) : 1 meaning(s), 2 sentences
+- `t4k-c09-080` : อนึ่ง (furthermore, moreover (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c09-081` : แทรกแซง (to intervene) : 1 meaning(s), 2 sentences
 - `t4k-c09-085` : เงย (to look up, to raise the head) : 1 meaning(s), 2 sentences
 - `t4k-c09-090` : หมายเหตุ (note, remark, comment) : 1 meaning(s), 2 sentences
@@ -6107,10 +6111,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-096` : กระเทือน (to shake, to vibrate; (figuratively) to impact, to be disturbed, to be destabilized) : 2 meaning(s), 4 sentences
 - `t4k-c10-000` : ขว้าง (to throw (with force), to pitch (a ball), to hurl) : 1 meaning(s), 2 sentences
 - `t4k-c10-007` : โรแมนติก (romantic) : 1 meaning(s), 2 sentences
+- `t4k-c10-008` : เพิกถอน (to revoke, to withdraw, to cancel (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c10-011` : อุทธรณ์ (to appeal, appeal) : 1 meaning(s), 2 sentences
 - `t4k-c10-012` : ฟาร์ม (farm) : 1 meaning(s), 2 sentences
 - `t4k-c10-013` : ผุด (to emerge, to come up to the surface, to pop up, to arise unexpectedly) : 1 meaning(s), 2 sentences
+- `t4k-c10-014` : ตาบอด (blind) : 1 meaning(s), 2 sentences
 - `t4k-c10-015` : เข็น (to push (e.g cart, wheelchair)) : 1 meaning(s), 2 sentences
 - `t4k-c10-017` : โน้ม (to bend, to incline; (figuratively) to tend toward, to be inclined to) : 2 meaning(s), 4 sentences
+- `t4k-c10-020` : เจ้าพ่อ (godfather, mafia boss; male deity, guardian spirit) : 2 meaning(s), 4 sentences
+- `t4k-c10-021` : อวกาศ (space) : 1 meaning(s), 2 sentences
+- `t4k-c10-023` : ประมวลกฎหมาย (legal code (collection of laws)) : 1 meaning(s), 2 sentences
 - `t4k-c10-026` : ผนวก (to append, to annex, to incorporate) : 1 meaning(s), 2 sentences
 - `t4k-c10-028` : เสี้ยว (fraction, small portion, small part) : 1 meaning(s), 2 sentences
 - `t4k-c10-034` : บ้านเกิด (hometown, homeland) : 1 meaning(s), 2 sentences

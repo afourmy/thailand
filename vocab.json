@@ -226466,6 +226466,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bush",
+        "sentences": [
+          {
+            "thai": "นกทำรังอยู่ในพุ่มไม้",
+            "en": "A bird built its nest in the bush.",
+            "audio_src": "นกทำรังอยู่ในพุ่มไม้",
+            "audio_en_src": "A bird built its nest in the bush."
+          },
+          {
+            "thai": "เขาตัดแต่งพุ่มไม้หน้าบ้าน",
+            "en": "He trimmed the bushes in front of the house.",
+            "audio_src": "เขาตัดแต่งพุ่มไม้หน้าบ้าน",
+            "audio_en_src": "He trimmed the bushes in front of the house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226517,6 +226536,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "human rights",
+        "sentences": [
+          {
+            "thai": "ทุกคนมีสิทธิมนุษยชนเท่าเทียมกัน",
+            "en": "Everyone has equal human rights.",
+            "audio_src": "ทุกคนมีสิทธิมนุษยชนเท่าเทียมกัน",
+            "audio_en_src": "Everyone has equal human rights."
+          },
+          {
+            "thai": "องค์กรนี้ต่อสู้เพื่อสิทธิมนุษยชน",
+            "en": "This organization fights for human rights.",
+            "audio_src": "องค์กรนี้ต่อสู้เพื่อสิทธิมนุษยชน",
+            "audio_en_src": "This organization fights for human rights."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226588,6 +226626,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "eastern",
+        "sentences": [
+          {
+            "thai": "ภาคตะวันออกของไทยมีชายหาดสวยงาม",
+            "en": "Thailand's eastern region has beautiful beaches.",
+            "audio_src": "ภาคตะวันออกของไทยมีชายหาดสวยงาม",
+            "audio_en_src": "Thailand's eastern region has beautiful beaches."
+          },
+          {
+            "thai": "โรงงานส่วนใหญ่ตั้งอยู่ในภาคตะวันออก",
+            "en": "Most of the factories are in the eastern region.",
+            "audio_src": "โรงงานส่วนใหญ่ตั้งอยู่ในภาคตะวันออก",
+            "audio_en_src": "Most of the factories are in the eastern region."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226608,6 +226665,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "furthermore, moreover (formal)",
+        "sentences": [
+          {
+            "thai": "อนึ่ง ที่ประชุมขอแจ้งกำหนดการครั้งต่อไป",
+            "en": "Furthermore, the meeting wishes to announce the next schedule.",
+            "audio_src": "อนึ่ง ที่ประชุมขอแจ้งกำหนดการครั้งต่อไป",
+            "audio_en_src": "Furthermore, the meeting wishes to announce the next schedule."
+          },
+          {
+            "thai": "อนึ่ง ผู้เข้าร่วมทุกคนต้องลงทะเบียนล่วงหน้า",
+            "en": "Moreover, all participants must register in advance.",
+            "audio_src": "อนึ่ง ผู้เข้าร่วมทุกคนต้องลงทะเบียนล่วงหน้า",
+            "audio_en_src": "Moreover, all participants must register in advance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226972,6 +227048,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to revoke, to withdraw, to cancel (formal)",
+        "sentences": [
+          {
+            "thai": "ศาลมีคำสั่งเพิกถอนใบอนุญาต",
+            "en": "The court ordered the license revoked.",
+            "audio_src": "ศาลมีคำสั่งเพิกถอนใบอนุญาต",
+            "audio_en_src": "The court ordered the license revoked."
+          },
+          {
+            "thai": "เขายื่นเรื่องขอเพิกถอนสัญญา",
+            "en": "He filed to cancel the contract.",
+            "audio_src": "เขายื่นเรื่องขอเพิกถอนสัญญา",
+            "audio_en_src": "He filed to cancel the contract."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226982,6 +227077,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to appeal, appeal",
+        "sentences": [
+          {
+            "thai": "จำเลยยื่นอุทธรณ์ต่อศาลสูง",
+            "en": "The defendant filed an appeal with the higher court.",
+            "audio_src": "จำเลยยื่นอุทธรณ์ต่อศาลสูง",
+            "audio_en_src": "The defendant filed an appeal with the higher court."
+          },
+          {
+            "thai": "เขาไม่พอใจคำตัดสินจึงขออุทธรณ์",
+            "en": "He was unhappy with the ruling, so he appealed.",
+            "audio_src": "เขาไม่พอใจคำตัดสินจึงขออุทธรณ์",
+            "audio_en_src": "He was unhappy with the ruling, so he appealed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227054,6 +227168,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "blind",
+        "sentences": [
+          {
+            "thai": "เขาตาบอดมาตั้งแต่เกิด",
+            "en": "He's been blind since birth.",
+            "audio_src": "เขาตาบอดมาตั้งแต่เกิด",
+            "audio_en_src": "He's been blind since birth."
+          },
+          {
+            "thai": "อุบัติเหตุครั้งนั้นทำให้เธอตาบอด",
+            "en": "That accident left her blind.",
+            "audio_src": "อุบัติเหตุครั้งนั้นทำให้เธอตาบอด",
+            "audio_en_src": "That accident left her blind."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227143,6 +227276,42 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "godfather, mafia boss",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเจ้าพ่อค้ายาในย่านนี้",
+            "en": "He's the drug kingpin in this neighborhood.",
+            "audio_src": "เขาเป็นเจ้าพ่อค้ายาในย่านนี้",
+            "audio_en_src": "He's the drug kingpin in this neighborhood."
+          },
+          {
+            "thai": "หนังเรื่องนี้เล่าเรื่องเจ้าพ่อมาเฟีย",
+            "en": "This movie is about a mafia godfather.",
+            "audio_src": "หนังเรื่องนี้เล่าเรื่องเจ้าพ่อมาเฟีย",
+            "audio_en_src": "This movie is about a mafia godfather."
+          }
+        ]
+      },
+      {
+        "meaning": "male deity, guardian spirit",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านไปไหว้เจ้าพ่อที่ศาลริมแม่น้ำ",
+            "en": "The villagers go to pay respects to the guardian spirit at the riverside shrine.",
+            "audio_src": "ชาวบ้านไปไหว้เจ้าพ่อที่ศาลริมแม่น้ำ",
+            "audio_en_src": "The villagers go to pay respects to the guardian spirit at the riverside shrine."
+          },
+          {
+            "thai": "ทุกปีมีงานบวงสรวงเจ้าพ่อประจำเมือง",
+            "en": "Every year there's a ceremony to honor the town's guardian deity.",
+            "audio_src": "ทุกปีมีงานบวงสรวงเจ้าพ่อประจำเมือง",
+            "audio_en_src": "Every year there's a ceremony to honor the town's guardian deity."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227153,6 +227322,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "space",
+        "sentences": [
+          {
+            "thai": "นักบินอวกาศเดินทางออกไปนอกโลก",
+            "en": "Astronauts travel out beyond the Earth.",
+            "audio_src": "นักบินอวกาศเดินทางออกไปนอกโลก",
+            "audio_en_src": "Astronauts travel out beyond the Earth."
+          },
+          {
+            "thai": "จรวดพุ่งขึ้นสู่อวกาศ",
+            "en": "The rocket shot up into space.",
+            "audio_src": "จรวดพุ่งขึ้นสู่อวกาศ",
+            "audio_en_src": "The rocket shot up into space."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227173,6 +227361,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "legal code (collection of laws)",
+        "sentences": [
+          {
+            "thai": "ประมวลกฎหมายอาญากำหนดบทลงโทษไว้ชัดเจน",
+            "en": "The penal code clearly sets out the punishments.",
+            "audio_src": "ประมวลกฎหมายอาญากำหนดบทลงโทษไว้ชัดเจน",
+            "audio_en_src": "The penal code clearly sets out the punishments."
+          },
+          {
+            "thai": "ทนายเปิดประมวลกฎหมายขึ้นมาอ้างอิงมาตรา",
+            "en": "The lawyer opened the legal code to cite a section.",
+            "audio_src": "ทนายเปิดประมวลกฎหมายขึ้นมาอ้างอิงมาตรา",
+            "audio_en_src": "The lawyer opened the legal code to cite a section."
+          }
+        ]
+      }
     ]
   },
   {
