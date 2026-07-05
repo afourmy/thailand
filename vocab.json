@@ -221903,6 +221903,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to suppose, to assume",
+        "sentences": [
+          {
+            "thai": "สมมติว่าฝนตก เราจะทำยังไง",
+            "en": "Suppose it rains, what will we do?",
+            "audio_src": "สมมติว่าฝนตก เราจะทำยังไง",
+            "audio_en_src": "Suppose it rains, what will we do?"
+          },
+          {
+            "thai": "สมมติว่าคุณถูกหวย จะทำอะไรก่อน",
+            "en": "Say you won the lottery, what would you do first?",
+            "audio_src": "สมมติว่าคุณถูกหวย จะทำอะไรก่อน",
+            "audio_en_src": "Say you won the lottery, what would you do first?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -222016,6 +222035,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be fascinated, strongly attracted to, infatuated with",
+        "sentences": [
+          {
+            "thai": "เขาหลงใหลในเสียงเพลงแจ๊ส",
+            "en": "He's fascinated by jazz music.",
+            "audio_src": "เขาหลงใหลในเสียงเพลงแจ๊ส",
+            "audio_en_src": "He's fascinated by jazz music."
+          },
+          {
+            "thai": "เธอหลงใหลผู้ชายคนนั้นมาก",
+            "en": "She's completely infatuated with that guy.",
+            "audio_src": "เธอหลงใหลผู้ชายคนนั้นมาก",
+            "audio_en_src": "She's completely infatuated with that guy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222026,6 +222064,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to violate, to infringe (e.g rules, law) (formal)",
+        "sentences": [
+          {
+            "thai": "การกระทำนี้ละเมิดกฎหมาย",
+            "en": "This act violates the law.",
+            "audio_src": "การกระทำนี้ละเมิดกฎหมาย",
+            "audio_en_src": "This act violates the law."
+          },
+          {
+            "thai": "เขาถูกฟ้องข้อหาละเมิดลิขสิทธิ์",
+            "en": "He was sued for copyright infringement.",
+            "audio_src": "เขาถูกฟ้องข้อหาละเมิดลิขสิทธิ์",
+            "audio_en_src": "He was sued for copyright infringement."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222077,6 +222134,25 @@
     "topic": "expressions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"fine then\", \"alright then\" (used to accept a decision, reluctantly or after hesitation)",
+        "sentences": [
+          {
+            "thai": "ไม่เป็นไร งั้นเอาวันพรุ่งนี้ก็แล้วกัน",
+            "en": "Never mind, let's just make it tomorrow then.",
+            "audio_src": "ไม่เป็นไร งั้นเอาวันพรุ่งนี้ก็แล้วกัน",
+            "audio_en_src": "Never mind, let's just make it tomorrow then."
+          },
+          {
+            "thai": "ถ้าเธอไม่อยากไป เราอยู่บ้านก็แล้วกัน",
+            "en": "If you don't want to go, we'll just stay home then.",
+            "audio_src": "ถ้าเธอไม่อยากไป เราอยู่บ้านก็แล้วกัน",
+            "audio_en_src": "If you don't want to go, we'll just stay home then."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222118,6 +222194,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ideology",
+        "sentences": [
+          {
+            "thai": "เขาเข้าสู่การเมืองเพราะมีอุดมการณ์",
+            "en": "He got into politics because he has ideals.",
+            "audio_src": "เขาเข้าสู่การเมืองเพราะมีอุดมการณ์",
+            "audio_en_src": "He got into politics because he has ideals."
+          },
+          {
+            "thai": "คนสองคนนี้มีอุดมการณ์ต่างกัน",
+            "en": "These two have different ideologies.",
+            "audio_src": "คนสองคนนี้มีอุดมการณ์ต่างกัน",
+            "audio_en_src": "These two have different ideologies."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222250,6 +222345,25 @@
     "topic": "transport",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "engine",
+        "sentences": [
+          {
+            "thai": "เครื่องยนต์รถเสียกลางทาง",
+            "en": "The car's engine broke down on the way.",
+            "audio_src": "เครื่องยนต์รถเสียกลางทาง",
+            "audio_en_src": "The car's engine broke down on the way."
+          },
+          {
+            "thai": "รถคันนี้เครื่องยนต์แรงมาก",
+            "en": "This car has a really powerful engine.",
+            "audio_src": "รถคันนี้เครื่องยนต์แรงมาก",
+            "audio_en_src": "This car has a really powerful engine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222291,6 +222405,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tendon, ligament",
+        "sentences": [
+          {
+            "thai": "เขาเอ็นข้อเท้าอักเสบเพราะวิ่งเยอะ",
+            "en": "He got an inflamed ankle tendon from running too much.",
+            "audio_src": "เขาเอ็นข้อเท้าอักเสบเพราะวิ่งเยอะ",
+            "audio_en_src": "He got an inflamed ankle tendon from running too much."
+          },
+          {
+            "thai": "นักฟุตบอลเอ็นเข่าขาดต้องผ่าตัด",
+            "en": "The footballer tore a knee ligament and needs surgery.",
+            "audio_src": "นักฟุตบอลเอ็นเข่าขาดต้องผ่าตัด",
+            "audio_en_src": "The footballer tore a knee ligament and needs surgery."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222373,6 +222506,25 @@
     "topic": "food",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to pour over (food), topped with",
+        "sentences": [
+          {
+            "thai": "ราดน้ำจิ้มบนหมูย่างให้ทั่ว",
+            "en": "Pour the sauce all over the grilled pork.",
+            "audio_src": "ราดน้ำจิ้มบนหมูย่างให้ทั่ว",
+            "audio_en_src": "Pour the sauce all over the grilled pork."
+          },
+          {
+            "thai": "ฉันชอบข้าวราดแกงเขียวหวาน",
+            "en": "I love rice topped with green curry.",
+            "audio_src": "ฉันชอบข้าวราดแกงเขียวหวาน",
+            "audio_en_src": "I love rice topped with green curry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222424,6 +222576,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "stress",
+        "sentences": [
+          {
+            "thai": "งานเยอะทำให้เกิดความเครียด",
+            "en": "Too much work causes stress.",
+            "audio_src": "งานเยอะทำให้เกิดความเครียด",
+            "audio_en_src": "Too much work causes stress."
+          },
+          {
+            "thai": "เขาไปพักร้อนเพื่อคลายความเครียด",
+            "en": "He went on vacation to relieve stress.",
+            "audio_src": "เขาไปพักร้อนเพื่อคลายความเครียด",
+            "audio_en_src": "He went on vacation to relieve stress."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222434,6 +222605,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "capital, investment money",
+        "sentences": [
+          {
+            "thai": "เขาขาดเงินทุนในการเปิดร้าน",
+            "en": "He doesn't have enough capital to open a shop.",
+            "audio_src": "เขาขาดเงินทุนในการเปิดร้าน",
+            "audio_en_src": "He doesn't have enough capital to open a shop."
+          },
+          {
+            "thai": "ธุรกิจนี้ต้องใช้เงินทุนก้อนใหญ่",
+            "en": "This business needs a large amount of capital.",
+            "audio_src": "ธุรกิจนี้ต้องใช้เงินทุนก้อนใหญ่",
+            "audio_en_src": "This business needs a large amount of capital."
+          }
+        ]
+      }
     ]
   },
   {
