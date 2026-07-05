@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5812 words**
+**Total: 5822 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4520,17 +4520,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-009` : ทะเบียน (register, list, record) : 1 meaning(s), 2 sentences
 - `wlt-c07-010` : ทั้งคืน (all night) : 1 meaning(s), 2 sentences
 - `wlt-c07-011` : ตลอดวัน, ทั้งวัน (all day) : 1 meaning(s), 2 sentences
+- `wlt-c07-012` : ทั่ว (everywhere, all over, throughout) : 1 meaning(s), 2 sentences
 - `wlt-c07-015` : ทางนี้ (this way) : 1 meaning(s), 2 sentences
+- `wlt-c07-017` : ทางรถไฟ (railway) : 1 meaning(s), 2 sentences
 - `wlt-c07-019` : ทำกับข้าว (to cook) : 1 meaning(s), 2 sentences
+- `wlt-c07-021` : ที่ตีไข่ (egg beater, egg whisk) : 1 meaning(s), 2 sentences
+- `wlt-c07-022` : ที่เที่ยว (tourist attraction, place to tour) : 1 meaning(s), 2 sentences
 - `wlt-c07-023` : ทีม (team, group (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c07-024` : ทีแรก (at first, initially) : 1 meaning(s), 2 sentences
 - `wlt-c07-026` : ทุกคน (everybody, everyone) : 1 meaning(s), 2 sentences
+- `wlt-c07-027` : ทุกที่ (anywhere, everywhere) : 1 meaning(s), 2 sentences
 - `wlt-c07-029` : ทุกอย่าง (everything (spoken), every kind) : 1 meaning(s), 2 sentences
 - `wlt-c07-030` : เทคโนโลยี (technology) : 1 meaning(s), 2 sentences
 - `wlt-c07-031` : เทนนิส (tennis) : 1 meaning(s), 2 sentences
 - `wlt-c07-032` : เทป (tape (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c07-033` : เท่าที่ (as far as, as much as, to the extent that) : 1 meaning(s), 2 sentences
 - `wlt-c07-034` : เท่าไหร่ (how much) : 1 meaning(s), 2 sentences
 - `wlt-c07-035` : เทียบ (to compare with, to match against) : 1 meaning(s), 2 sentences
+- `wlt-c07-036` : นกฮูก (owl) : 1 meaning(s), 2 sentences
+- `wlt-c07-039` : นักการเมือง (politician) : 1 meaning(s), 2 sentences
 - `wlt-c07-040` : นักแปล (translator) : 1 meaning(s), 2 sentences
+- `wlt-c07-043` : นายกรัฐมนตรี (prime minister) : 1 meaning(s), 2 sentences
 - `wlt-c07-045` : น่ารำคาญ (annoying) : 1 meaning(s), 2 sentences
 - `wlt-c07-047` : น่าเสียดาย (what a pity, what a shame; regrettable) : 2 meaning(s), 4 sentences
 - `wlt-c07-053` : นิ้วมือ (finger) : 1 meaning(s), 2 sentences

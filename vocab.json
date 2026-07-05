@@ -172875,6 +172875,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "everywhere, all over, throughout",
+        "sentences": [
+          {
+            "thai": "ข่าวนี้แพร่ไปทั่วประเทศ",
+            "en": "This news spread throughout the country.",
+            "audio_src": "ข่าวนี้แพร่ไปทั่วประเทศ",
+            "audio_en_src": "This news spread throughout the country."
+          },
+          {
+            "thai": "เขาเดินทางไปทั่วโลก",
+            "en": "He has traveled all over the world.",
+            "audio_src": "เขาเดินทางไปทั่วโลก",
+            "audio_en_src": "He has traveled all over the world."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172918,6 +172937,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "railway",
+        "sentences": [
+          {
+            "thai": "รถวิ่งข้ามทางรถไฟ",
+            "en": "The car crosses the railway.",
+            "audio_src": "รถวิ่งข้ามทางรถไฟ",
+            "audio_en_src": "The car crosses the railway."
+          },
+          {
+            "thai": "บ้านเขาอยู่ใกล้ทางรถไฟ",
+            "en": "His house is near the railway.",
+            "audio_src": "บ้านเขาอยู่ใกล้ทางรถไฟ",
+            "audio_en_src": "His house is near the railway."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172961,6 +172999,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "egg beater, egg whisk",
+        "sentences": [
+          {
+            "thai": "ใช้ที่ตีไข่ตีไข่ให้ขึ้นฟู",
+            "en": "Use the whisk to beat the eggs until fluffy.",
+            "audio_src": "ใช้ที่ตีไข่ตีไข่ให้ขึ้นฟู",
+            "audio_en_src": "Use the whisk to beat the eggs until fluffy."
+          },
+          {
+            "thai": "ที่ตีไข่อันนี้ทำจากสเตนเลส",
+            "en": "This egg whisk is made of stainless steel.",
+            "audio_src": "ที่ตีไข่อันนี้ทำจากสเตนเลส",
+            "audio_en_src": "This egg whisk is made of stainless steel."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172971,6 +173028,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "tourist attraction, place to tour",
+        "sentences": [
+          {
+            "thai": "เชียงใหม่มีที่เที่ยวเยอะ",
+            "en": "Chiang Mai has lots of places to visit.",
+            "audio_src": "เชียงใหม่มีที่เที่ยวเยอะ",
+            "audio_en_src": "Chiang Mai has lots of places to visit."
+          },
+          {
+            "thai": "เราหาที่เที่ยวใกล้ๆกรุงเทพ",
+            "en": "We're looking for places to visit near Bangkok.",
+            "audio_src": "เราหาที่เที่ยวใกล้ๆกรุงเทพ",
+            "audio_en_src": "We're looking for places to visit near Bangkok."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173013,6 +173089,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "at first, initially",
+        "sentences": [
+          {
+            "thai": "ทีแรกฉันไม่ชอบเขาเลย",
+            "en": "At first I didn't like him at all.",
+            "audio_src": "ทีแรกฉันไม่ชอบเขาเลย",
+            "audio_en_src": "At first I didn't like him at all."
+          },
+          {
+            "thai": "ทีแรกงานยากแต่ค่อยๆชิน",
+            "en": "At first the work was hard, but I gradually got used to it.",
+            "audio_src": "ทีแรกงานยากแต่ค่อยๆชิน",
+            "audio_en_src": "At first the work was hard, but I gradually got used to it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173056,6 +173151,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "anywhere, everywhere",
+        "sentences": [
+          {
+            "thai": "เขาพกโน้ตบุ๊กไปทุกที่",
+            "en": "He takes his laptop everywhere.",
+            "audio_src": "เขาพกโน้ตบุ๊กไปทุกที่",
+            "audio_en_src": "He takes his laptop everywhere."
+          },
+          {
+            "thai": "ร้านสะดวกซื้อมีอยู่ทุกที่",
+            "en": "Convenience stores are everywhere.",
+            "audio_src": "ร้านสะดวกซื้อมีอยู่ทุกที่",
+            "audio_en_src": "Convenience stores are everywhere."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173195,6 +173309,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "as far as, as much as, to the extent that",
+        "sentences": [
+          {
+            "thai": "เท่าที่ฉันรู้เขายังไม่มา",
+            "en": "As far as I know, he hasn't come yet.",
+            "audio_src": "เท่าที่ฉันรู้เขายังไม่มา",
+            "audio_en_src": "As far as I know, he hasn't come yet."
+          },
+          {
+            "thai": "ช่วยเท่าที่ช่วยได้",
+            "en": "Help as much as you can.",
+            "audio_src": "ช่วยเท่าที่ช่วยได้",
+            "audio_en_src": "Help as much as you can."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173271,6 +173404,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "owl",
+        "sentences": [
+          {
+            "thai": "นกฮูกออกหากินตอนกลางคืน",
+            "en": "Owls hunt at night.",
+            "audio_src": "นกฮูกออกหากินตอนกลางคืน",
+            "audio_en_src": "Owls hunt at night."
+          },
+          {
+            "thai": "นกฮูกมีดวงตากลมโต",
+            "en": "Owls have big round eyes.",
+            "audio_src": "นกฮูกมีดวงตากลมโต",
+            "audio_en_src": "Owls have big round eyes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173282,6 +173434,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "politician",
+        "sentences": [
+          {
+            "thai": "นักการเมืองหาเสียงก่อนเลือกตั้ง",
+            "en": "Politicians campaign before the election.",
+            "audio_src": "นักการเมืองหาเสียงก่อนเลือกตั้ง",
+            "audio_en_src": "Politicians campaign before the election."
+          },
+          {
+            "thai": "ประชาชนไม่ไว้ใจนักการเมือง",
+            "en": "People don't trust politicians.",
+            "audio_src": "ประชาชนไม่ไว้ใจนักการเมือง",
+            "audio_en_src": "People don't trust politicians."
+          }
+        ]
+      }
     ]
   },
   {
@@ -173324,6 +173495,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "prime minister",
+        "sentences": [
+          {
+            "thai": "นายกรัฐมนตรีแถลงนโยบายใหม่",
+            "en": "The prime minister announced a new policy.",
+            "audio_src": "นายกรัฐมนตรีแถลงนโยบายใหม่",
+            "audio_en_src": "The prime minister announced a new policy."
+          },
+          {
+            "thai": "เขาได้รับเลือกเป็นนายกรัฐมนตรี",
+            "en": "He was elected prime minister.",
+            "audio_src": "เขาได้รับเลือกเป็นนายกรัฐมนตรี",
+            "audio_en_src": "He was elected prime minister."
+          }
+        ]
+      }
     ]
   },
   {
