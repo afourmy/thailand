@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5512 words**
+**Total: 5522 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3924,11 +3924,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-055` : ปัญหาโลกแตก (unsolvable problem, extremely difficult (usually used ironically of a question that is asked frequently)) : 1 meaning(s), 2 sentences
 - `yt-c20-057` : เค็ม (salty; stingy, reluctant to spend money (slang)) : 2 meaning(s), 4 sentences
 - `yt-c20-058` : บ้านเล็ก (mistress, minor wife of a married man (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-059` : รูดซิป (to zip up, to unzip; to not tell anyone about a secret, "zip it" (slang)) : 2 meaning(s), 4 sentences
+- `yt-c20-060` : หลังไมค์ (to talk privately, off the record (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-062` : หักหลัง (to betray, to backstab (literally "break back")) : 1 meaning(s), 2 sentences
 - `yt-c20-063` : ต่อปากต่อคำ (to argue back and forth, to argue in an endless conversation) : 1 meaning(s), 2 sentences
+- `yt-c20-064` : ประหม่า (nervous, self-conscious, timid (especially in social or performance situations)) : 1 meaning(s), 2 sentences
+- `yt-c20-065` : จัดไป ((informal) "absolutely!", "totally!", "go for it", "sure, of course") : 1 meaning(s), 2 sentences
+- `yt-c20-067` : ไม่ธรรมดา (extraordinary, impressive, awesome) : 1 meaning(s), 2 sentences
 - `yt-c20-069` : แว๊บ (in a flash, (something happening) quickly, suddenly, to pop in) : 1 meaning(s), 2 sentences
+- `yt-c20-070` : แห้ว (water chestnut; frustration, disappointment (e.g failure in getting something desired)) : 2 meaning(s), 4 sentences
+- `new-11` : กินแห้ว (to be disappointed, to fail, to be left empty-handed, to get nothing) : 1 meaning(s), 2 sentences
 - `yt-c20-071` : ฉก (to snatch, to grab, to steal (quick, sudden action)) : 1 meaning(s), 2 sentences
 - `yt-c20-074` : ล่มสลาย (to collapse, to fall apart (e.g system, society, empire)) : 1 meaning(s), 2 sentences
+- `yt-c20-076` : ลี้ภัย (to seek refuge, to seek asylum) : 1 meaning(s), 2 sentences
+- `new-7` : ผู้ลี้ภัย (refugee) : 1 meaning(s), 2 sentences
+- `yt-c20-078` : กั๊ก (to hold something back, to keep secrets, to not go all in (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-087` : บรรจุภัณฑ์ (packaging) : 1 meaning(s), 2 sentences
 - `yt-c20-088` : จำเจ (monotonous, repetitive, routine) : 1 meaning(s), 2 sentences
 - `yt-c20-096` : แก้เผ็ด (to retaliate, to get even (light revenge, e.g when someone teases you)) : 1 meaning(s), 2 sentences
