@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5752 words**
+**Total: 5762 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4339,6 +4339,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-066` : สิบเก้า (nineteen (19)) : 1 meaning(s), 2 sentences
 - `wlt-c04-067` : สิบเจ็ด (seventeen (17)) : 1 meaning(s), 2 sentences
 - `wlt-c04-068` : สิบแปด (eighteen (18)) : 1 meaning(s), 2 sentences
+- `wlt-c04-069` : สิบล้าน (ten million (10,000,000)) : 1 meaning(s), 2 sentences
 - `wlt-c04-070` : สิบสาม (thirteen (13)) : 1 meaning(s), 2 sentences
 - `wlt-c04-071` : สิบหก (sixteen (16)) : 1 meaning(s), 2 sentences
 - `wlt-c04-072` : สิบห้า (fifteen (15)) : 1 meaning(s), 2 sentences
@@ -4350,6 +4351,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-078` : สีไม่สด, สีหม่น (dull color) : 1 meaning(s), 2 sentences
 - `wlt-c04-079` : สีเหลืองอ่อน (light yellow, pale yellow) : 1 meaning(s), 2 sentences
 - `wlt-c04-080` : สีอ่อน (light colour) : 1 meaning(s), 2 sentences
+- `wlt-c04-082` : เส้นทาง (route, path) : 1 meaning(s), 2 sentences
+- `wlt-c04-083` : เส้นใหญ่ (large flat rice noodles) : 1 meaning(s), 2 sentences
 - `wlt-c04-086` : เสื้อแขนยาว (long-sleeved shirt) : 1 meaning(s), 2 sentences
 - `wlt-c04-087` : เสื้อชั้นใน (underwear (upper body)) : 1 meaning(s), 2 sentences
 - `wlt-c04-088` : เสื้อหนาว (coat, sweater, warm jacket) : 1 meaning(s), 2 sentences
@@ -4358,6 +4361,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-093` : หมอ (doctor) : 1 meaning(s), 2 sentences
 - `wlt-c04-094` : หมอนวด (masseur, masseuse) : 1 meaning(s), 2 sentences
 - `wlt-c04-097` : ห้องเก็บของ (storage space, storage room) : 1 meaning(s), 2 sentences
+- `wlt-c04-098` : ห้องคู่ (double room) : 1 meaning(s), 2 sentences
+- `wlt-c04-099` : ห้องเดี่ยว (single room) : 1 meaning(s), 2 sentences
+- `wlt-c05-001` : ห้องอาหาร (dining room, dining hall) : 1 meaning(s), 2 sentences
+- `wlt-c05-002` : หัวค่ำ (early in the evening (6pm - 9pm)) : 1 meaning(s), 2 sentences
+- `wlt-c05-003` : หายป่วย (to recover) : 1 meaning(s), 2 sentences
+- `wlt-c05-005` : เหลน (great-grandchild) : 1 meaning(s), 2 sentences
+- `wlt-c05-006` : เหลวไหล (nonsense, absurd, unreliable, not serious) : 1 meaning(s), 2 sentences
 - `wlt-c05-010` : อยากได้ (to want to get (something)) : 1 meaning(s), 2 sentences
 - `wlt-c05-012` : อย่าเพิ่ง ("don't do that yet!", "hold on!") : 1 meaning(s), 2 sentences
 - `wlt-c05-013` : อยู่ที่ไหน (where is it?) : 1 meaning(s), 2 sentences

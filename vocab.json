@@ -167060,6 +167060,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ten million (10,000,000)",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้ราคาสิบล้านบาท",
+            "en": "This house costs ten million baht.",
+            "audio_src": "บ้านหลังนี้ราคาสิบล้านบาท",
+            "audio_en_src": "This house costs ten million baht."
+          },
+          {
+            "thai": "เขาถูกลอตเตอรี่รางวัลสิบล้าน",
+            "en": "He won a ten-million lottery prize.",
+            "audio_src": "เขาถูกลอตเตอรี่รางวัลสิบล้าน",
+            "audio_en_src": "He won a ten-million lottery prize."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167420,6 +167439,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "route, path",
+        "sentences": [
+          {
+            "thai": "เส้นทางนี้ไปทะเลใกล้กว่า",
+            "en": "This route to the beach is shorter.",
+            "audio_src": "เส้นทางนี้ไปทะเลใกล้กว่า",
+            "audio_en_src": "This route to the beach is shorter."
+          },
+          {
+            "thai": "เขาเลือกเส้นทางชีวิตของตัวเอง",
+            "en": "He chose his own path in life.",
+            "audio_src": "เขาเลือกเส้นทางชีวิตของตัวเอง",
+            "audio_en_src": "He chose his own path in life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167430,6 +167468,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "large flat rice noodles",
+        "sentences": [
+          {
+            "thai": "ผัดซีอิ๊วใช้เส้นใหญ่",
+            "en": "Pad see ew uses wide flat rice noodles.",
+            "audio_src": "ผัดซีอิ๊วใช้เส้นใหญ่",
+            "audio_en_src": "Pad see ew uses wide flat rice noodles."
+          },
+          {
+            "thai": "ขอก๋วยเตี๋ยวเส้นใหญ่หนึ่งชาม",
+            "en": "One bowl of wide-noodle soup, please.",
+            "audio_src": "ขอก๋วยเตี๋ยวเส้นใหญ่หนึ่งชาม",
+            "audio_en_src": "One bowl of wide-noodle soup, please."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167696,6 +167753,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "double room",
+        "sentences": [
+          {
+            "thai": "จองห้องคู่สำหรับสองคน",
+            "en": "Book a double room for two people.",
+            "audio_src": "จองห้องคู่สำหรับสองคน",
+            "audio_en_src": "Book a double room for two people."
+          },
+          {
+            "thai": "ห้องคู่มีเตียงใหญ่หนึ่งเตียง",
+            "en": "The double room has one big bed.",
+            "audio_src": "ห้องคู่มีเตียงใหญ่หนึ่งเตียง",
+            "audio_en_src": "The double room has one big bed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167706,6 +167782,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "single room",
+        "sentences": [
+          {
+            "thai": "เขาพักห้องเดี่ยวคนเดียว",
+            "en": "He stays in a single room by himself.",
+            "audio_src": "เขาพักห้องเดี่ยวคนเดียว",
+            "audio_en_src": "He stays in a single room by himself."
+          },
+          {
+            "thai": "ห้องเดี่ยวราคาถูกกว่าห้องคู่",
+            "en": "A single room is cheaper than a double.",
+            "audio_src": "ห้องเดี่ยวราคาถูกกว่าห้องคู่",
+            "audio_en_src": "A single room is cheaper than a double."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167716,6 +167811,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "dining room, dining hall",
+        "sentences": [
+          {
+            "thai": "โรงแรมมีห้องอาหารเปิดถึงสี่ทุ่ม",
+            "en": "The hotel's dining room is open until 10pm.",
+            "audio_src": "โรงแรมมีห้องอาหารเปิดถึงสี่ทุ่ม",
+            "audio_en_src": "The hotel's dining room is open until 10pm."
+          },
+          {
+            "thai": "เราไปกินมื้อเช้าที่ห้องอาหาร",
+            "en": "We had breakfast in the dining hall.",
+            "audio_src": "เราไปกินมื้อเช้าที่ห้องอาหาร",
+            "audio_en_src": "We had breakfast in the dining hall."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167726,6 +167840,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "early in the evening (6pm - 9pm)",
+        "sentences": [
+          {
+            "thai": "หัวค่ำร้านค้ายังเปิดอยู่",
+            "en": "In the early evening the shops are still open.",
+            "audio_src": "หัวค่ำร้านค้ายังเปิดอยู่",
+            "audio_en_src": "In the early evening the shops are still open."
+          },
+          {
+            "thai": "เขากลับบ้านตั้งแต่หัวค่ำ",
+            "en": "He got home early in the evening.",
+            "audio_src": "เขากลับบ้านตั้งแต่หัวค่ำ",
+            "audio_en_src": "He got home early in the evening."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167736,6 +167869,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to recover",
+        "sentences": [
+          {
+            "thai": "พักผ่อนเยอะๆจะได้หายป่วยเร็ว",
+            "en": "Rest a lot so you recover quickly.",
+            "audio_src": "พักผ่อนเยอะๆจะได้หายป่วยเร็ว",
+            "audio_en_src": "Rest a lot so you recover quickly."
+          },
+          {
+            "thai": "เขาหายป่วยแล้วกลับไปทำงาน",
+            "en": "He recovered and went back to work.",
+            "audio_src": "เขาหายป่วยแล้วกลับไปทำงาน",
+            "audio_en_src": "He recovered and went back to work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167746,6 +167898,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "great-grandchild",
+        "sentences": [
+          {
+            "thai": "คุณยายมีเหลนสองคนแล้ว",
+            "en": "Grandma has two great-grandchildren now.",
+            "audio_src": "คุณยายมีเหลนสองคนแล้ว",
+            "audio_en_src": "Grandma has two great-grandchildren now."
+          },
+          {
+            "thai": "เหลนตัวเล็กน่ารักมาก",
+            "en": "The little great-grandchild is so cute.",
+            "audio_src": "เหลนตัวเล็กน่ารักมาก",
+            "audio_en_src": "The little great-grandchild is so cute."
+          }
+        ]
+      }
     ]
   },
   {
@@ -167756,6 +167927,25 @@
     "topic": "personality",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "nonsense, absurd, unreliable, not serious",
+        "sentences": [
+          {
+            "thai": "อย่าพูดเรื่องเหลวไหลไร้สาระ",
+            "en": "Don't talk absurd nonsense.",
+            "audio_src": "อย่าพูดเรื่องเหลวไหลไร้สาระ",
+            "audio_en_src": "Don't talk absurd nonsense."
+          },
+          {
+            "thai": "เขาเป็นคนเหลวไหลเชื่อถือไม่ได้",
+            "en": "He's unreliable, you can't count on him.",
+            "audio_src": "เขาเป็นคนเหลวไหลเชื่อถือไม่ได้",
+            "audio_en_src": "He's unreliable, you can't count on him."
+          }
+        ]
+      }
     ]
   },
   {
