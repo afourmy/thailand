@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5652 words**
+**Total: 5662 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4128,12 +4128,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c01-046` : คนงาน (worker, laborer (manual or industrial work)) : 1 meaning(s), 2 sentences
 - `wlt-c01-047` : คนโต (eldest (of children)) : 1 meaning(s), 2 sentences
 - `wlt-c01-050` : คราวหน้า (next time) : 1 meaning(s), 2 sentences
+- `wlt-c01-051` : ครีม (cream) : 1 meaning(s), 2 sentences
 - `wlt-c01-052` : ครึ่งหนึ่ง (one half) : 1 meaning(s), 2 sentences
 - `wlt-c01-053` : ความสำคัญ (importance) : 1 meaning(s), 2 sentences
+- `wlt-c01-054` : ค่ารถ (carfare) : 1 meaning(s), 2 sentences
+- `wlt-c01-055` : ค่ำวันอาทิตย์ (Sunday night) : 1 meaning(s), 2 sentences
+- `wlt-c01-056` : คิดดู (to consider, to think something through) : 1 meaning(s), 2 sentences
+- `wlt-c01-057` : คุณพ่อคุณแม่ (parents (polite usage)) : 1 meaning(s), 2 sentences
 - `wlt-c01-058` : คุณล่ะ (and you, what about you) : 1 meaning(s), 2 sentences
 - `wlt-c01-060` : คุยกัน (to chat together) : 1 meaning(s), 2 sentences
 - `wlt-c01-061` : เครื่องซักผ้า (washing machine) : 1 meaning(s), 2 sentences
 - `wlt-c01-062` : เครื่องดูดฝุ่น (vacuum cleaner) : 1 meaning(s), 2 sentences
+- `wlt-c01-063` : แคร์ (to care about (slang)) : 1 meaning(s), 2 sentences
+- `wlt-c01-064` : แครอท (carrot) : 1 meaning(s), 2 sentences
+- `wlt-c01-065` : ใครก็ได้ (anyone) : 1 meaning(s), 2 sentences
+- `wlt-c01-066` : ใครคนหนึ่ง (someone, a certain person) : 1 meaning(s), 2 sentences
+- `wlt-c01-067` : งูเขียว (green snake) : 1 meaning(s), 2 sentences
 - `wlt-c01-074` : จำได้ (to remember) : 1 meaning(s), 2 sentences
 - `wlt-c01-075` : เจ็ดสิบ (seventy (70)) : 1 meaning(s), 2 sentences
 - `wlt-c01-076` : เจ้าของบ้าน (landlord) : 1 meaning(s), 2 sentences

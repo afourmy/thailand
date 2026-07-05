@@ -160455,6 +160455,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cream",
+        "sentences": [
+          {
+            "thai": "ใส่ครีมลงในกาแฟ",
+            "en": "Add cream to the coffee.",
+            "audio_src": "ใส่ครีมลงในกาแฟ",
+            "audio_en_src": "Add cream to the coffee."
+          },
+          {
+            "thai": "เค้กก้อนนี้แต่งหน้าด้วยครีม",
+            "en": "This cake is topped with cream.",
+            "audio_src": "เค้กก้อนนี้แต่งหน้าด้วยครีม",
+            "audio_en_src": "This cake is topped with cream."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160530,6 +160549,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "carfare",
+        "sentences": [
+          {
+            "thai": "ค่ารถไปทำงานแพงขึ้นทุกปี",
+            "en": "The fare to get to work goes up every year.",
+            "audio_src": "ค่ารถไปทำงานแพงขึ้นทุกปี",
+            "audio_en_src": "The fare to get to work goes up every year."
+          },
+          {
+            "thai": "เขาให้เงินค่ารถกลับบ้าน",
+            "en": "He gave me money for the fare home.",
+            "audio_src": "เขาให้เงินค่ารถกลับบ้าน",
+            "audio_en_src": "He gave me money for the fare home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160540,6 +160578,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Sunday night",
+        "sentences": [
+          {
+            "thai": "ค่ำวันอาทิตย์ครอบครัวกินข้าวพร้อมหน้า",
+            "en": "On Sunday nights the whole family eats together.",
+            "audio_src": "ค่ำวันอาทิตย์ครอบครัวกินข้าวพร้อมหน้า",
+            "audio_en_src": "On Sunday nights the whole family eats together."
+          },
+          {
+            "thai": "ค่ำวันอาทิตย์มักรู้สึกไม่อยากไปทำงาน",
+            "en": "On Sunday nights I usually don't feel like going to work.",
+            "audio_src": "ค่ำวันอาทิตย์มักรู้สึกไม่อยากไปทำงาน",
+            "audio_en_src": "On Sunday nights I usually don't feel like going to work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160550,6 +160607,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to consider, to think something through",
+        "sentences": [
+          {
+            "thai": "ลองคิดดูก่อนตัดสินใจ",
+            "en": "Think it over before you decide.",
+            "audio_src": "ลองคิดดูก่อนตัดสินใจ",
+            "audio_en_src": "Think it over before you decide."
+          },
+          {
+            "thai": "คิดดูแล้วก็ยังไม่แน่ใจ",
+            "en": "I thought it through and I'm still not sure.",
+            "audio_src": "คิดดูแล้วก็ยังไม่แน่ใจ",
+            "audio_en_src": "I thought it through and I'm still not sure."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160560,6 +160636,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "parents (polite usage)",
+        "sentences": [
+          {
+            "thai": "คุณพ่อคุณแม่สอนให้เป็นคนดี",
+            "en": "My parents taught me to be a good person.",
+            "audio_src": "คุณพ่อคุณแม่สอนให้เป็นคนดี",
+            "audio_en_src": "My parents taught me to be a good person."
+          },
+          {
+            "thai": "พาคุณพ่อคุณแม่ไปเที่ยวต่างจังหวัด",
+            "en": "I took my parents on a trip upcountry.",
+            "audio_src": "พาคุณพ่อคุณแม่ไปเที่ยวต่างจังหวัด",
+            "audio_en_src": "I took my parents on a trip upcountry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160698,6 +160793,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to care about (slang)",
+        "sentences": [
+          {
+            "thai": "เขาไม่แคร์ว่าใครจะคิดยังไง",
+            "en": "He doesn't care what anyone thinks.",
+            "audio_src": "เขาไม่แคร์ว่าใครจะคิดยังไง",
+            "audio_en_src": "He doesn't care what anyone thinks."
+          },
+          {
+            "thai": "ฉันแคร์ความรู้สึกของเธอนะ",
+            "en": "I do care about your feelings.",
+            "audio_src": "ฉันแคร์ความรู้สึกของเธอนะ",
+            "audio_en_src": "I do care about your feelings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160708,6 +160822,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "carrot",
+        "sentences": [
+          {
+            "thai": "หั่นแครอทใส่ในซุป",
+            "en": "Chop the carrots into the soup.",
+            "audio_src": "หั่นแครอทใส่ในซุป",
+            "audio_en_src": "Chop the carrots into the soup."
+          },
+          {
+            "thai": "กระต่ายชอบกินแครอท",
+            "en": "Rabbits like to eat carrots.",
+            "audio_src": "กระต่ายชอบกินแครอท",
+            "audio_en_src": "Rabbits like to eat carrots."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160718,6 +160851,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "anyone",
+        "sentences": [
+          {
+            "thai": "ใครก็ได้ช่วยหน่อย",
+            "en": "Somebody, anybody, please help.",
+            "audio_src": "ใครก็ได้ช่วยหน่อย",
+            "audio_en_src": "Somebody, anybody, please help."
+          },
+          {
+            "thai": "งานนี้ใครก็ได้ทำได้",
+            "en": "Anyone can do this job.",
+            "audio_src": "งานนี้ใครก็ได้ทำได้",
+            "audio_en_src": "Anyone can do this job."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160728,6 +160880,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "someone, a certain person",
+        "sentences": [
+          {
+            "thai": "มีใครคนหนึ่งฝากของมาให้",
+            "en": "Someone left this for you.",
+            "audio_src": "มีใครคนหนึ่งฝากของมาให้",
+            "audio_en_src": "Someone left this for you."
+          },
+          {
+            "thai": "เธอกำลังคิดถึงใครคนหนึ่งอยู่",
+            "en": "She's thinking about a certain someone.",
+            "audio_src": "เธอกำลังคิดถึงใครคนหนึ่งอยู่",
+            "audio_en_src": "She's thinking about a certain someone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -160738,6 +160909,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "green snake",
+        "sentences": [
+          {
+            "thai": "เจองูเขียวบนต้นไม้",
+            "en": "I saw a green snake up in the tree.",
+            "audio_src": "เจองูเขียวบนต้นไม้",
+            "audio_en_src": "I saw a green snake up in the tree."
+          },
+          {
+            "thai": "งูเขียวบางชนิดมีพิษ",
+            "en": "Some green snakes are venomous.",
+            "audio_src": "งูเขียวบางชนิดมีพิษ",
+            "audio_en_src": "Some green snakes are venomous."
+          }
+        ]
+      }
     ]
   },
   {
