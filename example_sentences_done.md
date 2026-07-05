@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6242 words**
+**Total: 6252 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6063,10 +6063,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c08-062` : แวว (glimpse, hint, trace; (figuratively) potential, prospect) : 2 meaning(s), 4 sentences
 - `t4k-c08-065` : เท็จ (false, untrue) : 1 meaning(s), 2 sentences
 - `t4k-c08-066` : ผ่านพ้น (to pass through, to get through, to be over) : 1 meaning(s), 2 sentences
+- `t4k-c08-069` : ประกันภัย (insurance) : 1 meaning(s), 2 sentences
 - `t4k-c08-073` : ตรึง (to fix, to pin, to hold in place) : 1 meaning(s), 2 sentences
+- `t4k-c08-080` : ศุลกากร (customs (government agency controlling imports / exports)) : 1 meaning(s), 2 sentences
 - `t4k-c08-081` : ดาวเทียม (satellite) : 1 meaning(s), 2 sentences
 - `t4k-c08-083` : ถ่ายภาพ (to take a photo (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-084` : ครอบงำ (to control, to dominate, to overpower) : 1 meaning(s), 2 sentences
+- `t4k-c08-085` : ชื่นชอบ (to like, to be fond of (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c08-089` : ชะตา (fate, destiny) : 1 meaning(s), 2 sentences
+- `t4k-c08-091` : แตง (melon) : 1 meaning(s), 2 sentences
 - `t4k-c08-092` : แบ่งแยก (to be divided, to split, to separate) : 1 meaning(s), 2 sentences
 - `t4k-c08-096` : เซนติเมตร (cm) : 1 meaning(s), 2 sentences
 - `t4k-c08-098` : อิฐ (brick) : 1 meaning(s), 2 sentences
@@ -6074,9 +6079,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-005` : ปล่อยตัว (to discharge, to release someone (e.g from detention); to let oneself go, to neglect oneself) : 2 meaning(s), 4 sentences
 - `t4k-c09-006` : เลน (lane; mud) : 2 meaning(s), 4 sentences
 - `t4k-c09-008` : ประจำตัว (personal (e.g card, doctor, etc)) : 1 meaning(s), 2 sentences
+- `t4k-c09-010` : มนต์ (spell, incantation, sacred chant) : 1 meaning(s), 2 sentences
 - `t4k-c09-011` : ชุ่ม (moist, damp, soaked) : 1 meaning(s), 2 sentences
 - `t4k-c09-016` : ตามลำพัง (alone, by oneself) : 1 meaning(s), 2 sentences
 - `t4k-c09-018` : คุณวุฒิ (qualification, academic degree) : 1 meaning(s), 2 sentences
+- `t4k-c09-020` : เจ้าพนักงาน (public officer, government official) : 1 meaning(s), 2 sentences
 - `t4k-c09-027` : บอกกล่าว (to inform, to notify) : 1 meaning(s), 2 sentences
 - `t4k-c09-029` : หมึก (ink) : 1 meaning(s), 2 sentences
 - `t4k-c09-032` : ช่อ (cluster, bunch; bouquet (of flowers)) : 2 meaning(s), 4 sentences
@@ -6084,7 +6091,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-037` : หากิน (to earn a living, to make a living) : 1 meaning(s), 2 sentences
 - `t4k-c09-042` : ไอน้ำ (steam (water)) : 1 meaning(s), 2 sentences
 - `t4k-c09-050` : จุดมุ่งหมาย (aim, objective, purpose) : 1 meaning(s), 2 sentences
+- `t4k-c09-051` : หวั่นไหว (emotionally shaken, deeply moved (unstable feelings)) : 1 meaning(s), 2 sentences
 - `t4k-c09-053` : นายอำเภอ (district chief, district officer) : 1 meaning(s), 2 sentences
+- `t4k-c09-054` : เนิน (small hill, mound) : 1 meaning(s), 2 sentences
+- `t4k-c09-057` : ผู้เฒ่า (elder, old person (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c09-058` : เป็นกลาง (neutral, impartial, not taking sides) : 1 meaning(s), 2 sentences
 - `t4k-c09-061` : เตรียมพร้อม (to be prepared, to get ready) : 1 meaning(s), 2 sentences
 - `t4k-c09-064` : ถ่ายทำ (to produce a movie, to shoot a movie) : 1 meaning(s), 2 sentences

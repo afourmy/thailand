@@ -225118,6 +225118,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "insurance",
+        "sentences": [
+          {
+            "thai": "เขาซื้อประกันภัยรถยนต์ทุกปี",
+            "en": "He buys car insurance every year.",
+            "audio_src": "เขาซื้อประกันภัยรถยนต์ทุกปี",
+            "audio_en_src": "He buys car insurance every year."
+          },
+          {
+            "thai": "ประกันภัยจ่ายค่าเสียหายให้ทั้งหมด",
+            "en": "The insurance covered all the damages.",
+            "audio_src": "ประกันภัยจ่ายค่าเสียหายให้ทั้งหมด",
+            "audio_en_src": "The insurance covered all the damages."
+          }
+        ]
+      }
     ]
   },
   {
@@ -225179,6 +225198,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "customs (government agency controlling imports / exports)",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่ศุลกากรตรวจกระเป๋าที่สนามบิน",
+            "en": "Customs officers inspect bags at the airport.",
+            "audio_src": "เจ้าหน้าที่ศุลกากรตรวจกระเป๋าที่สนามบิน",
+            "audio_en_src": "Customs officers inspect bags at the airport."
+          },
+          {
+            "thai": "สินค้าถูกกักไว้ที่ศุลกากรหลายวัน",
+            "en": "The goods were held at customs for several days.",
+            "audio_src": "สินค้าถูกกักไว้ที่ศุลกากรหลายวัน",
+            "audio_en_src": "The goods were held at customs for several days."
+          }
+        ]
+      }
     ]
   },
   {
@@ -225292,6 +225330,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to like, to be fond of (formal)",
+        "sentences": [
+          {
+            "thai": "เธอชื่นชอบงานศิลปะเป็นพิเศษ",
+            "en": "She is especially fond of art.",
+            "audio_src": "เธอชื่นชอบงานศิลปะเป็นพิเศษ",
+            "audio_en_src": "She is especially fond of art."
+          },
+          {
+            "thai": "แฟนๆชื่นชอบนักร้องคนนี้มาก",
+            "en": "Fans adore this singer.",
+            "audio_src": "แฟนๆชื่นชอบนักร้องคนนี้มาก",
+            "audio_en_src": "Fans adore this singer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -225302,6 +225359,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fate, destiny",
+        "sentences": [
+          {
+            "thai": "หมอดูทำนายชะตาชีวิตของเขา",
+            "en": "The fortune teller foretold his destiny.",
+            "audio_src": "หมอดูทำนายชะตาชีวิตของเขา",
+            "audio_en_src": "The fortune teller foretold his destiny."
+          },
+          {
+            "thai": "เขาเชื่อว่าทุกอย่างขึ้นอยู่กับชะตา",
+            "en": "He believes everything comes down to fate.",
+            "audio_src": "เขาเชื่อว่าทุกอย่างขึ้นอยู่กับชะตา",
+            "audio_en_src": "He believes everything comes down to fate."
+          }
+        ]
+      }
     ]
   },
   {
@@ -225312,6 +225388,25 @@
     "topic": "food",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "melon",
+        "sentences": [
+          {
+            "thai": "แตงลูกนี้หวานฉ่ำมาก",
+            "en": "This melon is really sweet and juicy.",
+            "audio_src": "แตงลูกนี้หวานฉ่ำมาก",
+            "audio_en_src": "This melon is really sweet and juicy."
+          },
+          {
+            "thai": "แม่ปลูกแตงไว้หลังบ้าน",
+            "en": "Mom grows melons behind the house.",
+            "audio_src": "แม่ปลูกแตงไว้หลังบ้าน",
+            "audio_en_src": "Mom grows melons behind the house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -225664,6 +225759,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "spell, incantation, sacred chant",
+        "sentences": [
+          {
+            "thai": "หมอผีร่ายมนต์ไล่ผี",
+            "en": "The shaman chanted a spell to drive out the spirits.",
+            "audio_src": "หมอผีร่ายมนต์ไล่ผี",
+            "audio_en_src": "The shaman chanted a spell to drive out the spirits."
+          },
+          {
+            "thai": "พระสวดมนต์ในงานบุญ",
+            "en": "The monks chant sacred verses at the merit ceremony.",
+            "audio_src": "พระสวดมนต์ในงานบุญ",
+            "audio_en_src": "The monks chant sacred verses at the merit ceremony."
+          }
+        ]
+      }
     ]
   },
   {
@@ -225787,6 +225901,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "public officer, government official",
+        "sentences": [
+          {
+            "thai": "เจ้าพนักงานตรวจสอบเอกสารอย่างละเอียด",
+            "en": "The officer checked the documents thoroughly.",
+            "audio_src": "เจ้าพนักงานตรวจสอบเอกสารอย่างละเอียด",
+            "audio_en_src": "The officer checked the documents thoroughly."
+          },
+          {
+            "thai": "ห้ามขัดขวางการทำงานของเจ้าพนักงาน",
+            "en": "Obstructing an officer in their duties is prohibited.",
+            "audio_src": "ห้ามขัดขวางการทำงานของเจ้าพนักงาน",
+            "audio_en_src": "Obstructing an officer in their duties is prohibited."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226111,6 +226244,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "emotionally shaken, deeply moved (unstable feelings)",
+        "sentences": [
+          {
+            "thai": "คำพูดของเขาทำให้ใจฉันหวั่นไหว",
+            "en": "His words left me emotionally shaken.",
+            "audio_src": "คำพูดของเขาทำให้ใจฉันหวั่นไหว",
+            "audio_en_src": "His words left me emotionally shaken."
+          },
+          {
+            "thai": "เธอยังหวั่นไหวทุกครั้งที่เจอเขา",
+            "en": "Her heart still flutters every time she sees him.",
+            "audio_src": "เธอยังหวั่นไหวทุกครั้งที่เจอเขา",
+            "audio_en_src": "Her heart still flutters every time she sees him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226152,6 +226304,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "small hill, mound",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนั้นตั้งอยู่บนเนิน",
+            "en": "That house sits up on a hill.",
+            "audio_src": "บ้านหลังนั้นตั้งอยู่บนเนิน",
+            "audio_en_src": "That house sits up on a hill."
+          },
+          {
+            "thai": "เด็กๆวิ่งขึ้นเนินไปเล่นว่าว",
+            "en": "The kids ran up the hill to fly kites.",
+            "audio_src": "เด็กๆวิ่งขึ้นเนินไปเล่นว่าว",
+            "audio_en_src": "The kids ran up the hill to fly kites."
+          }
+        ]
+      }
     ]
   },
   {
@@ -226172,6 +226343,25 @@
     "topic": "family",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "elder, old person (formal)",
+        "sentences": [
+          {
+            "thai": "ผู้เฒ่าในหมู่บ้านเล่าเรื่องเก่าให้เด็กฟัง",
+            "en": "The village elder tells the children old tales.",
+            "audio_src": "ผู้เฒ่าในหมู่บ้านเล่าเรื่องเก่าให้เด็กฟัง",
+            "audio_en_src": "The village elder tells the children old tales."
+          },
+          {
+            "thai": "เด็กๆยกมือไหว้ผู้เฒ่าด้วยความเคารพ",
+            "en": "The children raised their hands in respect to the elder.",
+            "audio_src": "เด็กๆยกมือไหว้ผู้เฒ่าด้วยความเคารพ",
+            "audio_en_src": "The children raised their hands in respect to the elder."
+          }
+        ]
+      }
     ]
   },
   {
