@@ -202317,6 +202317,25 @@
     "topic": "weather",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sunburn",
+        "sentences": [
+          {
+            "thai": "เล่นน้ำทะเลนานจนโดนแดดเผา",
+            "en": "I swam in the sea too long and got sunburned.",
+            "audio_src": "เล่นน้ำทะเลนานจนโดนแดดเผา",
+            "audio_en_src": "I swam in the sea too long and got sunburned."
+          },
+          {
+            "thai": "ผิวแดงเพราะแดดเผา",
+            "en": "The skin is red from sunburn.",
+            "audio_src": "ผิวแดงเพราะแดดเผา",
+            "audio_en_src": "The skin is red from sunburn."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202327,6 +202346,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "hips",
+        "sentences": [
+          {
+            "thai": "เธอมีตะโพกผายสวย",
+            "en": "She has nicely curved hips.",
+            "audio_src": "เธอมีตะโพกผายสวย",
+            "audio_en_src": "She has nicely curved hips."
+          },
+          {
+            "thai": "เขาล้มก้นกระแทกตะโพก",
+            "en": "He fell and hit his hip.",
+            "audio_src": "เขาล้มก้นกระแทกตะโพก",
+            "audio_en_src": "He fell and hit his hip."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202337,6 +202375,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sleeping compartment on train",
+        "sentences": [
+          {
+            "thai": "จองตู้นอนสำหรับเดินทางไกล",
+            "en": "Book a sleeper car for the long journey.",
+            "audio_src": "จองตู้นอนสำหรับเดินทางไกล",
+            "audio_en_src": "Book a sleeper car for the long journey."
+          },
+          {
+            "thai": "ตู้นอนมีเตียงสองชั้น",
+            "en": "The sleeping compartment has bunk beds.",
+            "audio_src": "ตู้นอนมีเตียงสองชั้น",
+            "audio_en_src": "The sleeping compartment has bunk beds."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202413,6 +202470,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "expressway",
+        "sentences": [
+          {
+            "thai": "ขึ้นทางด่วนเลี่ยงรถติด",
+            "en": "Take the expressway to avoid the traffic.",
+            "audio_src": "ขึ้นทางด่วนเลี่ยงรถติด",
+            "audio_en_src": "Take the expressway to avoid the traffic."
+          },
+          {
+            "thai": "ค่าผ่านทางด่วนขึ้นราคา",
+            "en": "The expressway toll has gone up.",
+            "audio_src": "ค่าผ่านทางด่วนขึ้นราคา",
+            "audio_en_src": "The expressway toll has gone up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202456,6 +202532,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "parking space, place to park",
+        "sentences": [
+          {
+            "thai": "หาที่จอดหน้าร้านไม่ได้",
+            "en": "I couldn't find a parking spot in front of the shop.",
+            "audio_src": "หาที่จอดหน้าร้านไม่ได้",
+            "audio_en_src": "I couldn't find a parking spot in front of the shop."
+          },
+          {
+            "thai": "ที่จอดตรงนี้สงวนไว้สำหรับคนพิการ",
+            "en": "This parking space is reserved for the disabled.",
+            "audio_src": "ที่จอดตรงนี้สงวนไว้สำหรับคนพิการ",
+            "audio_en_src": "This parking space is reserved for the disabled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202500,6 +202595,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "one-way (trip, ticket), single journey",
+        "sentences": [
+          {
+            "thai": "ซื้อตั๋วเที่ยวเดียวไปกรุงเทพ",
+            "en": "Buy a one-way ticket to Bangkok.",
+            "audio_src": "ซื้อตั๋วเที่ยวเดียวไปกรุงเทพ",
+            "audio_en_src": "Buy a one-way ticket to Bangkok."
+          },
+          {
+            "thai": "เขาเดินทางเที่ยวเดียวไม่กลับ",
+            "en": "He made a one-way trip and isn't coming back.",
+            "audio_src": "เขาเดินทางเที่ยวเดียวไม่กลับ",
+            "audio_en_src": "He made a one-way trip and isn't coming back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202616,6 +202730,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "kindness, generosity, thoughtfulness",
+        "sentences": [
+          {
+            "thai": "เขามีน้ำใจช่วยเหลือคนแปลกหน้า",
+            "en": "He kindly helps out strangers.",
+            "audio_src": "เขามีน้ำใจช่วยเหลือคนแปลกหน้า",
+            "audio_en_src": "He kindly helps out strangers."
+          },
+          {
+            "thai": "ขอบคุณสำหรับน้ำใจของทุกคน",
+            "en": "Thank you for everyone's kindness.",
+            "audio_src": "ขอบคุณสำหรับน้ำใจของทุกคน",
+            "audio_en_src": "Thank you for everyone's kindness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202692,6 +202825,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "in the future",
+        "sentences": [
+          {
+            "thai": "ในอนาคตฉันอยากเปิดร้านกาแฟ",
+            "en": "In the future I want to open a coffee shop.",
+            "audio_src": "ในอนาคตฉันอยากเปิดร้านกาแฟ",
+            "audio_en_src": "In the future I want to open a coffee shop."
+          },
+          {
+            "thai": "เทคโนโลยีจะพัฒนาไปมากในอนาคต",
+            "en": "Technology will advance a lot in the future.",
+            "audio_src": "เทคโนโลยีจะพัฒนาไปมากในอนาคต",
+            "audio_en_src": "Technology will advance a lot in the future."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202799,6 +202951,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "small bills",
+        "sentences": [
+          {
+            "thai": "ขอแลกแบ๊งค์ย่อยไว้ใช้ทอน",
+            "en": "Can I get some small bills for making change?",
+            "audio_src": "ขอแลกแบ๊งค์ย่อยไว้ใช้ทอน",
+            "audio_en_src": "Can I get some small bills for making change?"
+          },
+          {
+            "thai": "ในกระเป๋ามีแต่แบ๊งค์ย่อย",
+            "en": "I only have small bills in my wallet.",
+            "audio_src": "ในกระเป๋ามีแต่แบ๊งค์ย่อย",
+            "audio_en_src": "I only have small bills in my wallet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202875,6 +203046,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "toothache",
+        "sentences": [
+          {
+            "thai": "เขาปวดฟันจนนอนไม่หลับ",
+            "en": "He has a toothache so bad he can't sleep.",
+            "audio_src": "เขาปวดฟันจนนอนไม่หลับ",
+            "audio_en_src": "He has a toothache so bad he can't sleep."
+          },
+          {
+            "thai": "กินของหวานมากทำให้ปวดฟัน",
+            "en": "Eating too many sweets gives you a toothache.",
+            "audio_src": "กินของหวานมากทำให้ปวดฟัน",
+            "audio_en_src": "Eating too many sweets gives you a toothache."
+          }
+        ]
+      }
     ]
   },
   {

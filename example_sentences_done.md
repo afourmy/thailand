@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6032 words**
+**Total: 6042 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5413,20 +5413,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-043` : ซิ่ง (to drive very fast, to race) : 1 meaning(s), 2 sentences
 - `wlt-c18-045` : ดูเหมือน (looks like) : 1 meaning(s), 2 sentences
 - `wlt-c18-048` : เดินเล่น (to take a walk) : 1 meaning(s), 2 sentences
+- `wlt-c18-049` : แดดเผา (sunburn) : 1 meaning(s), 2 sentences
+- `wlt-c18-051` : ตะโพก (hips) : 1 meaning(s), 2 sentences
+- `wlt-c18-053` : ตู้นอน (sleeping compartment on train) : 1 meaning(s), 2 sentences
 - `wlt-c18-054` : ถ้าอย่างนั้น ("in that case", "if so, then...") : 1 meaning(s), 2 sentences
 - `wlt-c18-056` : แถวนี้ (around here, in this area) : 1 meaning(s), 2 sentences
+- `wlt-c18-057` : ทางด่วน (expressway) : 1 meaning(s), 2 sentences
 - `wlt-c18-059` : ทิชชู่ (tissue, napkins) : 1 meaning(s), 2 sentences
+- `wlt-c18-060` : ที่จอด (parking space, place to park) : 1 meaning(s), 2 sentences
 - `wlt-c18-062` : ทุกครั้ง, ทุกที (every time) : 1 meaning(s), 2 sentences
+- `wlt-c18-063` : เที่ยวเดียว (one-way (trip, ticket), single journey) : 1 meaning(s), 2 sentences
 - `wlt-c18-067` : นอนเล่น (to lie down and relax) : 1 meaning(s), 2 sentences
 - `wlt-c18-068` : นั่งเล่น (to sit down and relax) : 1 meaning(s), 2 sentences
 - `wlt-c18-069` : น่ากิน (looks delicious) : 1 meaning(s), 2 sentences
+- `wlt-c18-070` : น้ำใจ (kindness, generosity, thoughtfulness) : 1 meaning(s), 2 sentences
 - `wlt-c18-071` : น้ำเปล่า (plain water) : 1 meaning(s), 2 sentences
 - `wlt-c18-072` : น้ำเย็น (cold water) : 1 meaning(s), 2 sentences
+- `wlt-c18-075` : ในอนาคต (in the future) : 1 meaning(s), 2 sentences
 - `wlt-c18-078` : บัตรประชาชน (national I.D. card) : 1 meaning(s), 2 sentences
 - `wlt-c18-079` : บ่ายนี้ (this afternoon (early)) : 1 meaning(s), 2 sentences
 - `wlt-c18-082` : เบอร์โทรศัพท์ (phone number) : 1 meaning(s), 2 sentences
+- `wlt-c18-083` : แบ๊งค์ย่อย (small bills) : 1 meaning(s), 2 sentences
 - `wlt-c18-084` : แบบนี้ (this kind, like this) : 1 meaning(s), 2 sentences
 - `wlt-c18-085` : ปวดท้อง (stomachache) : 1 meaning(s), 2 sentences
+- `wlt-c18-086` : ปวดฟัน (toothache) : 1 meaning(s), 2 sentences
 - `wlt-c18-089` : เป็นพิษ (toxic, poisonous) : 1 meaning(s), 2 sentences
 - `wlt-c18-093` : ไปซื้อของ (to go shopping) : 1 meaning(s), 2 sentences
 - `wlt-c18-094` : ผับ (pub (loanword)) : 1 meaning(s), 2 sentences
