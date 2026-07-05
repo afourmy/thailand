@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6132 words**
+**Total: 6142 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5801,19 +5801,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-099` : พื้นดิน (ground, land, terrain) : 1 meaning(s), 2 sentences
 - `t4k-c03-000` : ราชา (ruler, monarch) : 1 meaning(s), 2 sentences
 - `t4k-c03-002` : เทพ (deity) : 1 meaning(s), 2 sentences
+- `t4k-c03-003` : ประสาท (nerve; (informal) crazy, losing it) : 2 meaning(s), 4 sentences
+- `t4k-c03-007` : ผืน (classifier for thin cloth-like things (towel, blanket, mattress, sheet, etc) and land) : 1 meaning(s), 2 sentences
 - `t4k-c03-011` : กด (to press) : 1 meaning(s), 2 sentences
 - `t4k-c03-014` : คิดเห็น (to think, to be of the opinion) : 1 meaning(s), 2 sentences
 - `t4k-c03-015` : ย้อนกลับ (to go back, to reverse) : 1 meaning(s), 2 sentences
 - `t4k-c03-016` : ล้อม (to surround, to encircle, to besiege) : 1 meaning(s), 2 sentences
+- `t4k-c03-025` : มติ (resolution, formal decision (e.g in committee, parliament)) : 1 meaning(s), 2 sentences
+- `t4k-c03-027` : ลูกหลาน (descendants, children and grandchildren, posterity) : 1 meaning(s), 2 sentences
 - `t4k-c03-029` : เลวร้าย (bad, awful, terrible) : 1 meaning(s), 2 sentences
 - `t4k-c03-030` : ตลก (funny) : 1 meaning(s), 2 sentences
 - `t4k-c03-031` : คำนึง (to take into account, to bear in mind) : 1 meaning(s), 2 sentences
 - `t4k-c03-032` : เพื่อนบ้าน (neighbor) : 1 meaning(s), 2 sentences
 - `t4k-c03-033` : ปฏิบัติการ (operation, execution (of a plan, a task)) : 1 meaning(s), 2 sentences
 - `t4k-c03-034` : หมายเลข (number) : 1 meaning(s), 2 sentences
+- `t4k-c03-036` : ผู้บริโภค (consumer) : 1 meaning(s), 2 sentences
 - `t4k-c03-037` : จัดทำ (to prepare, to produce (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c03-040` : ผู้แทน (representative, delegate) : 1 meaning(s), 2 sentences
 - `t4k-c03-041` : เตรียมตัว (to prepare oneself, to get ready) : 1 meaning(s), 2 sentences
+- `t4k-c03-043` : การเลือกตั้ง (election) : 1 meaning(s), 2 sentences
 - `t4k-c03-045` : หลักเกณฑ์ (criteria, rules, standards) : 1 meaning(s), 2 sentences
+- `t4k-c03-048` : รำ (traditional dance, to perform Thai classical dance) : 1 meaning(s), 2 sentences
+- `t4k-c03-050` : ข้างต้น (above, aforementioned, abovementioned) : 1 meaning(s), 2 sentences
 - `t4k-c03-051` : ความพยายาม (effort, attempt) : 1 meaning(s), 2 sentences
 - `t4k-c03-052` : เข้าถึง (to access, to reach) : 1 meaning(s), 2 sentences
 - `t4k-c03-054` : ดารา (celebrity, star) : 1 meaning(s), 2 sentences
@@ -5822,6 +5831,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-064` : ครอบครอง (to possess, to own) : 1 meaning(s), 2 sentences
 - `t4k-c03-066` : คิว (queue) : 1 meaning(s), 2 sentences
 - `t4k-c03-073` : กลไก (mechanism, system, machinery) : 1 meaning(s), 2 sentences
+- `t4k-c03-074` : เหมือนเดิม (as usual, the same as before) : 1 meaning(s), 2 sentences
 - `t4k-c03-079` : ชายหนุ่ม (young man) : 1 meaning(s), 2 sentences
 - `t4k-c03-080` : เดี่ยว (single, solo) : 1 meaning(s), 2 sentences
 - `t4k-c03-083` : เงา (shadow, shade, reflection) : 1 meaning(s), 2 sentences

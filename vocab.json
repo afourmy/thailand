@@ -215751,6 +215751,42 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "nerve",
+        "sentences": [
+          {
+            "thai": "อุบัติเหตุทำให้เส้นประสาทเสียหาย",
+            "en": "The accident damaged the nerves.",
+            "audio_src": "อุบัติเหตุทำให้เส้นประสาทเสียหาย",
+            "audio_en_src": "The accident damaged the nerves."
+          },
+          {
+            "thai": "ประสาทตาเชื่อมกับสมอง",
+            "en": "The optic nerve connects to the brain.",
+            "audio_src": "ประสาทตาเชื่อมกับสมอง",
+            "audio_en_src": "The optic nerve connects to the brain."
+          }
+        ]
+      },
+      {
+        "meaning": "(informal) crazy, losing it",
+        "sentences": [
+          {
+            "thai": "ทำตัวประสาทแบบนี้ทำไม",
+            "en": "Why are you acting so crazy?",
+            "audio_src": "ทำตัวประสาทแบบนี้ทำไม",
+            "audio_en_src": "Why are you acting so crazy?"
+          },
+          {
+            "thai": "เขาเครียดจนจะประสาทแล้ว",
+            "en": "He's so stressed he's about to lose it.",
+            "audio_src": "เขาเครียดจนจะประสาทแล้ว",
+            "audio_en_src": "He's so stressed he's about to lose it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215781,6 +215817,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "classifier for thin cloth-like things (towel, blanket, mattress, sheet, etc) and land",
+        "sentences": [
+          {
+            "thai": "ซื้อผ้าห่มมาสองผืน",
+            "en": "I bought two blankets.",
+            "audio_src": "ซื้อผ้าห่มมาสองผืน",
+            "audio_en_src": "I bought two blankets."
+          },
+          {
+            "thai": "เขามีที่ดินผืนใหญ่",
+            "en": "He has a large plot of land.",
+            "audio_src": "เขามีที่ดินผืนใหญ่",
+            "audio_en_src": "He has a large plot of land."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215965,6 +216020,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "resolution, formal decision (e.g in committee, parliament)",
+        "sentences": [
+          {
+            "thai": "ที่ประชุมมีมติเห็นชอบโครงการ",
+            "en": "The meeting resolved to approve the project.",
+            "audio_src": "ที่ประชุมมีมติเห็นชอบโครงการ",
+            "audio_en_src": "The meeting resolved to approve the project."
+          },
+          {
+            "thai": "สภาลงมติผ่านกฎหมายใหม่",
+            "en": "Parliament voted to pass the new law.",
+            "audio_src": "สภาลงมติผ่านกฎหมายใหม่",
+            "audio_en_src": "Parliament voted to pass the new law."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215975,6 +216049,25 @@
     "topic": "family",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "descendants, children and grandchildren, posterity",
+        "sentences": [
+          {
+            "thai": "เขาเก็บที่ดินไว้ให้ลูกหลาน",
+            "en": "He keeps the land for his descendants.",
+            "audio_src": "เขาเก็บที่ดินไว้ให้ลูกหลาน",
+            "audio_en_src": "He keeps the land for his descendants."
+          },
+          {
+            "thai": "ลูกหลานมารวมตัวกันวันปีใหม่",
+            "en": "The children and grandchildren gather on New Year.",
+            "audio_src": "ลูกหลานมารวมตัวกันวันปีใหม่",
+            "audio_en_src": "The children and grandchildren gather on New Year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216185,6 +216278,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "consumer",
+        "sentences": [
+          {
+            "thai": "ผู้บริโภคมีสิทธิ์เลือกซื้อสินค้า",
+            "en": "Consumers have the right to choose which products to buy.",
+            "audio_src": "ผู้บริโภคมีสิทธิ์เลือกซื้อสินค้า",
+            "audio_en_src": "Consumers have the right to choose which products to buy."
+          },
+          {
+            "thai": "ราคาสินค้าแพงกระทบผู้บริโภค",
+            "en": "High prices affect consumers.",
+            "audio_src": "ราคาสินค้าแพงกระทบผู้บริโภค",
+            "audio_en_src": "High prices affect consumers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216236,6 +216348,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "representative, delegate",
+        "sentences": [
+          {
+            "thai": "เขาเป็นผู้แทนของบริษัทในการเจรจา",
+            "en": "He's the company's representative in the negotiation.",
+            "audio_src": "เขาเป็นผู้แทนของบริษัทในการเจรจา",
+            "audio_en_src": "He's the company's representative in the negotiation."
+          },
+          {
+            "thai": "ประชาชนเลือกผู้แทนเข้าสภา",
+            "en": "The people elect representatives to parliament.",
+            "audio_src": "ประชาชนเลือกผู้แทนเข้าสภา",
+            "audio_en_src": "The people elect representatives to parliament."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216287,6 +216418,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "election",
+        "sentences": [
+          {
+            "thai": "การเลือกตั้งครั้งนี้มีผู้มาใช้สิทธิ์เยอะ",
+            "en": "This election had a high turnout.",
+            "audio_src": "การเลือกตั้งครั้งนี้มีผู้มาใช้สิทธิ์เยอะ",
+            "audio_en_src": "This election had a high turnout."
+          },
+          {
+            "thai": "ผลการเลือกตั้งจะประกาศคืนนี้",
+            "en": "The election results will be announced tonight.",
+            "audio_src": "ผลการเลือกตั้งจะประกาศคืนนี้",
+            "audio_en_src": "The election results will be announced tonight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216328,6 +216478,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "traditional dance, to perform Thai classical dance",
+        "sentences": [
+          {
+            "thai": "เด็กๆหัดรำไทยที่โรงเรียน",
+            "en": "The kids learn Thai dance at school.",
+            "audio_src": "เด็กๆหัดรำไทยที่โรงเรียน",
+            "audio_en_src": "The kids learn Thai dance at school."
+          },
+          {
+            "thai": "เธอรำสวยในงานประเพณี",
+            "en": "She dances beautifully at the festival.",
+            "audio_src": "เธอรำสวยในงานประเพณี",
+            "audio_en_src": "She dances beautifully at the festival."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216348,6 +216517,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "above, aforementioned, abovementioned",
+        "sentences": [
+          {
+            "thai": "ตามที่กล่าวไว้ข้างต้น",
+            "en": "As mentioned above.",
+            "audio_src": "ตามที่กล่าวไว้ข้างต้น",
+            "audio_en_src": "As mentioned above."
+          },
+          {
+            "thai": "ข้อมูลข้างต้นถูกต้องทั้งหมด",
+            "en": "The information above is all correct.",
+            "audio_src": "ข้อมูลข้างต้นถูกต้องทั้งหมด",
+            "audio_en_src": "The information above is all correct."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216646,6 +216834,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "as usual, the same as before",
+        "sentences": [
+          {
+            "thai": "ทุกอย่างยังเหมือนเดิมไม่เปลี่ยน",
+            "en": "Everything is still the same, unchanged.",
+            "audio_src": "ทุกอย่างยังเหมือนเดิมไม่เปลี่ยน",
+            "audio_en_src": "Everything is still the same, unchanged."
+          },
+          {
+            "thai": "ขอกาแฟแก้วเดิมเหมือนเดิม",
+            "en": "The same coffee as usual, please.",
+            "audio_src": "ขอกาแฟแก้วเดิมเหมือนเดิม",
+            "audio_en_src": "The same coffee as usual, please."
+          }
+        ]
+      }
     ]
   },
   {
