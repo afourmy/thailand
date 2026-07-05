@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5312 words**
+**Total: 5322 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3587,18 +3587,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-052` : ดวงซวย (unlucky, bad luck (informal)) : 1 meaning(s), 2 sentences
 - `yt-c13-053` : ราชวงศ์จักรี (Chakri dynasty (current royal family)) : 1 meaning(s), 2 sentences
 - `yt-c13-056` : สภา (council, assembly, parliament) : 1 meaning(s), 2 sentences
+- `yt-c13-062` : จดทะเบียนสมรส (to get married officially (legally)) : 1 meaning(s), 2 sentences
 - `yt-c13-063` : ยัก (to shrug, to move slightly) : 1 meaning(s), 2 sentences
 - `yt-c13-063b` : พยักหน้า (to nod one's head) : 1 meaning(s), 2 sentences
+- `yt-c13-064` : อา (uncle, aunt (younger sibling on paternal side)) : 1 meaning(s), 2 sentences
 - `yt-c13-068` : เวร (duty, shift, watch) : 1 meaning(s), 2 sentences
 - `yt-c13-074` : ยัดเยียด (to force something on someone or into a space, to cram, to impose) : 1 meaning(s), 2 sentences
 - `yt-c13-076` : โทรม (worn-out, dilapidated, deteriorated, unwell, in poor condition (e.g objects, people, clothes, places)) : 1 meaning(s), 2 sentences
 - `yt-c13-077` : ล้าหลัง (backward, outdated, behind the times) : 1 meaning(s), 2 sentences
+- `yt-c13-078` : เข้าไม่ถึงจริงๆ ("I really don't get it", "it's completely beyond me", "I can't relate at all") : 1 meaning(s), 2 sentences
 - `yt-c13-079` : เหยียด (to stretch, to extend; to discriminate against, to look down on) : 2 meaning(s), 4 sentences
 - `yt-c13-081` : ด้อยค่า (to belittle, to devalue) : 1 meaning(s), 2 sentences
 - `yt-c13-082` : ทองแดง (copper (also used to say "bronze medal")) : 1 meaning(s), 2 sentences
 - `yt-c13-084` : รอบรองชนะเลิศ (semifinal) : 1 meaning(s), 2 sentences
 - `yt-c13-085` : รอบชิงชนะเลิศ (final (match of a championship)) : 1 meaning(s), 2 sentences
 - `yt-c13-086` : น้ำใจนักกีฬา (sportsmanship) : 1 meaning(s), 2 sentences
+- `yt-c13-092` : แมลงปอ (dragonfly) : 1 meaning(s), 2 sentences
 - `yt-c13-093` : ต่อย (to punch, to strike with a fist; to sting (insect)) : 2 meaning(s), 4 sentences
 - `yt-c13-099` : รองเท้าหุ้มส้น (shoes that fully cover the heel) : 1 meaning(s), 2 sentences
 - `yt-c14-000` : ไขกุญแจ (to unlock, to open with a key (literally to turn the key)) : 1 meaning(s), 2 sentences
@@ -3606,7 +3610,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-002` : เสียบปลั๊ก - ถอดปลั๊ก (to plug in (e.g fan, etc) - to unplug) : 1 meaning(s), 2 sentences
 - `yt-c14-003` : เพิ่มเสียง - ลดเสียง (to turn up - down the volume) : 1 meaning(s), 2 sentences
 - `yt-c14-006` : สายสะพาย (shoulder strap, sash) : 1 meaning(s), 2 sentences
+- `yt-c14-009` : อักษรย่อ (abbreviation, initials (shortened form with only the first letters of each word)) : 1 meaning(s), 2 sentences
+- `yt-c14-011` : ลูกระนาด, ยางชะลอความเร็ว, คันชะลอความเร็ว (speed bump) : 1 meaning(s), 2 sentences
 - `yt-c14-012` : กระทู้ (thread, topic (e.g online forum like pantip)) : 1 meaning(s), 2 sentences
+- `yt-c14-014` : ยอมแพ้ (to give up, to surrender) : 1 meaning(s), 2 sentences
+- `yt-c14-015` : ข้าวต้ม (rice porridge) : 1 meaning(s), 2 sentences
+- `yt-c14-016` : หูหม้อ (pot handle) : 1 meaning(s), 2 sentences
+- `yt-c14-017` : ตระหนี่ (stingy, unwilling to spend money (formal)) : 1 meaning(s), 2 sentences
 - `yt-c14-023` : ห้องชุด (condo, condominium unit) : 1 meaning(s), 2 sentences
 - `yt-c14-024` : ห้องรับรอง (reception room) : 1 meaning(s), 2 sentences
 - `yt-c14-035` : ถล่ม (to collapse, to crash, to fall down violently; to destroy, to attack with force) : 2 meaning(s), 4 sentences
