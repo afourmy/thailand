@@ -165636,6 +165636,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "nowhere",
+        "sentences": [
+          {
+            "thai": "หาเท่าไหร่ก็ไม่มีที่ไหนขาย",
+            "en": "No matter how hard I look, nowhere sells it.",
+            "audio_src": "หาเท่าไหร่ก็ไม่มีที่ไหนขาย",
+            "audio_en_src": "No matter how hard I look, nowhere sells it."
+          },
+          {
+            "thai": "ไม่มีที่ไหนปลอดภัยเท่าบ้าน",
+            "en": "Nowhere is as safe as home.",
+            "audio_src": "ไม่มีที่ไหนปลอดภัยเท่าบ้าน",
+            "audio_en_src": "Nowhere is as safe as home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165679,6 +165698,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to not mind, to not object",
+        "sentences": [
+          {
+            "thai": "เขาไม่ว่าอะไรถ้าฉันมาสาย",
+            "en": "He doesn't mind if I'm late.",
+            "audio_src": "เขาไม่ว่าอะไรถ้าฉันมาสาย",
+            "audio_en_src": "He doesn't mind if I'm late."
+          },
+          {
+            "thai": "จะนั่งตรงนี้ก็ได้ ฉันไม่ว่าอะไร",
+            "en": "You can sit here, I don't mind.",
+            "audio_src": "จะนั่งตรงนี้ก็ได้ ฉันไม่ว่าอะไร",
+            "audio_en_src": "You can sit here, I don't mind."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165752,6 +165790,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "in what way, how?",
+        "sentences": [
+          {
+            "thai": "เราจะแก้ปัญหานี้อย่างไร",
+            "en": "How should we solve this problem?",
+            "audio_src": "เราจะแก้ปัญหานี้อย่างไร",
+            "audio_en_src": "How should we solve this problem?"
+          },
+          {
+            "thai": "ไม่รู้ว่าจะเริ่มต้นอย่างไรดี",
+            "en": "I don't know how to begin.",
+            "audio_src": "ไม่รู้ว่าจะเริ่มต้นอย่างไรดี",
+            "audio_en_src": "I don't know how to begin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165829,6 +165886,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Sunday evening",
+        "sentences": [
+          {
+            "thai": "เย็นวันอาทิตย์ชอบไปเดินสวน",
+            "en": "On Sunday evenings I like to walk in the park.",
+            "audio_src": "เย็นวันอาทิตย์ชอบไปเดินสวน",
+            "audio_en_src": "On Sunday evenings I like to walk in the park."
+          },
+          {
+            "thai": "เย็นวันอาทิตย์รถติดขากลับ",
+            "en": "Sunday evenings there's traffic on the way back.",
+            "audio_src": "เย็นวันอาทิตย์รถติดขากลับ",
+            "audio_en_src": "Sunday evenings there's traffic on the way back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165839,6 +165915,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "express train",
+        "sentences": [
+          {
+            "thai": "รถด่วนไปเชียงใหม่ออกตอนค่ำ",
+            "en": "The express train to Chiang Mai leaves in the evening.",
+            "audio_src": "รถด่วนไปเชียงใหม่ออกตอนค่ำ",
+            "audio_en_src": "The express train to Chiang Mai leaves in the evening."
+          },
+          {
+            "thai": "นั่งรถด่วนเร็วกว่ารถธรรมดา",
+            "en": "Taking the express train is faster than the regular one.",
+            "audio_src": "นั่งรถด่วนเร็วกว่ารถธรรมดา",
+            "audio_en_src": "Taking the express train is faster than the regular one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165849,6 +165944,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ambulance",
+        "sentences": [
+          {
+            "thai": "รีบโทรเรียกรถพยาบาล",
+            "en": "Quickly call an ambulance.",
+            "audio_src": "รีบโทรเรียกรถพยาบาล",
+            "audio_en_src": "Quickly call an ambulance."
+          },
+          {
+            "thai": "รถพยาบาลเปิดไซเรนฝ่ารถติด",
+            "en": "The ambulance turned on its siren to get through the traffic.",
+            "audio_src": "รถพยาบาลเปิดไซเรนฝ่ารถติด",
+            "audio_en_src": "The ambulance turned on its siren to get through the traffic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166053,6 +166167,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cafeteria",
+        "sentences": [
+          {
+            "thai": "นักเรียนกินข้าวที่โรงอาหาร",
+            "en": "The students eat at the cafeteria.",
+            "audio_src": "นักเรียนกินข้าวที่โรงอาหาร",
+            "audio_en_src": "The students eat at the cafeteria."
+          },
+          {
+            "thai": "โรงอาหารช่วงเที่ยงคนเยอะมาก",
+            "en": "The cafeteria is packed at lunchtime.",
+            "audio_src": "โรงอาหารช่วงเที่ยงคนเยอะมาก",
+            "audio_en_src": "The cafeteria is packed at lunchtime."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166190,6 +166323,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "meatball",
+        "sentences": [
+          {
+            "thai": "ลูกชิ้นปิ้งขายหน้าโรงเรียน",
+            "en": "Grilled meatballs are sold in front of the school.",
+            "audio_src": "ลูกชิ้นปิ้งขายหน้าโรงเรียน",
+            "audio_en_src": "Grilled meatballs are sold in front of the school."
+          },
+          {
+            "thai": "ก๋วยเตี๋ยวใส่ลูกชิ้นหมู",
+            "en": "Noodles with pork meatballs.",
+            "audio_src": "ก๋วยเตี๋ยวใส่ลูกชิ้นหมู",
+            "audio_en_src": "Noodles with pork meatballs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166232,6 +166384,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "every other day",
+        "sentences": [
+          {
+            "thai": "หมอให้กินยาวันเว้นวัน",
+            "en": "The doctor said to take the medicine every other day.",
+            "audio_src": "หมอให้กินยาวันเว้นวัน",
+            "audio_en_src": "The doctor said to take the medicine every other day."
+          },
+          {
+            "thai": "เขาออกกำลังกายวันเว้นวัน",
+            "en": "He exercises every other day.",
+            "audio_src": "เขาออกกำลังกายวันเว้นวัน",
+            "audio_en_src": "He exercises every other day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -166242,6 +166413,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "another day, some day (in the future), next time, some other time",
+        "sentences": [
+          {
+            "thai": "ไว้วันหลังค่อยไปด้วยกัน",
+            "en": "Let's go together another day.",
+            "audio_src": "ไว้วันหลังค่อยไปด้วยกัน",
+            "audio_en_src": "Let's go together another day."
+          },
+          {
+            "thai": "วันหลังมาเที่ยวบ้านฉันอีกนะ",
+            "en": "Come visit my place again some time.",
+            "audio_src": "วันหลังมาเที่ยวบ้านฉันอีกนะ",
+            "audio_en_src": "Come visit my place again some time."
+          }
+        ]
+      }
     ]
   },
   {

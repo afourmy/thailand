@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5732 words**
+**Total: 5742 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4294,22 +4294,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-000` : ไม่บ่อย (seldom, not often) : 1 meaning(s), 2 sentences
 - `wlt-c04-001` : ไม่เป็น (unable (lack of ability or skill)) : 1 meaning(s), 2 sentences
 - `wlt-c04-002` : ไม่มากนัก, ไม่นัก (not very much, not that much) : 1 meaning(s), 2 sentences
+- `wlt-c04-004` : ไม่มีที่ไหน (nowhere) : 1 meaning(s), 2 sentences
 - `wlt-c04-005` : ไม่มีอะไร (nothing) : 1 meaning(s), 2 sentences
+- `wlt-c04-007` : ไม่ว่าอะไร (to not mind, to not object) : 1 meaning(s), 2 sentences
 - `wlt-c04-008` : ย้อน (to go back, to come back) : 1 meaning(s), 2 sentences
 - `wlt-c04-009` : ยอมให้ (to permit, to allow) : 1 meaning(s), 2 sentences
+- `wlt-c04-011` : อย่างไร (in what way, how?) : 1 meaning(s), 2 sentences
 - `wlt-c04-015` : ยี่สิบสอง (twenty two (22)) : 1 meaning(s), 2 sentences
 - `wlt-c04-016` : ยุ่ง (busy) : 1 meaning(s), 2 sentences
+- `wlt-c04-017` : เย็นวันอาทิตย์ (Sunday evening) : 1 meaning(s), 2 sentences
+- `wlt-c04-018` : รถด่วน (express train) : 1 meaning(s), 2 sentences
+- `wlt-c04-019` : รถพยาบาล (ambulance) : 1 meaning(s), 2 sentences
 - `wlt-c04-020` : รองเท้าแตะ (sandals, flip-flops) : 1 meaning(s), 2 sentences
 - `wlt-c04-022` : รั่ว (to leak) : 1 meaning(s), 2 sentences
 - `wlt-c04-023` : ร้านขายของ (shop, store) : 1 meaning(s), 2 sentences
 - `wlt-c04-025` : ร้านหนังสือ (book store) : 1 meaning(s), 2 sentences
 - `wlt-c04-026` : รุนแรง (violent, harsh) : 1 meaning(s), 2 sentences
 - `wlt-c04-028` : เร็วๆนี้ (soon) : 1 meaning(s), 2 sentences
+- `wlt-c04-030` : โรงอาหาร (cafeteria) : 1 meaning(s), 2 sentences
 - `wlt-c04-033` : ล้างน้ำ (to rinse) : 1 meaning(s), 2 sentences
 - `wlt-c04-034` : ลายเซ็น (signature) : 1 meaning(s), 2 sentences
 - `wlt-c04-035` : ลุกขึ้น (to stand up, to get up) : 1 meaning(s), 2 sentences
 - `wlt-c04-036` : กุญแจ, ลูกกุญแจ (key) : 1 meaning(s), 2 sentences
+- `wlt-c04-037` : ลูกชิ้น (meatball) : 1 meaning(s), 2 sentences
 - `wlt-c04-039` : เลขที่ (number used as a designation) : 1 meaning(s), 2 sentences
+- `wlt-c04-041` : วันเว้นวัน (every other day) : 1 meaning(s), 2 sentences
+- `wlt-c04-042` : วันหลัง (another day, some day (in the future), next time, some other time) : 1 meaning(s), 2 sentences
 - `wlt-c04-049` : ไว (fast, quick) : 1 meaning(s), 2 sentences
 - `wlt-c04-053` : สบู่เหลว (liquid soap) : 1 meaning(s), 2 sentences
 - `wlt-c04-056` : ส้มตำ (papaya salad) : 1 meaning(s), 2 sentences
