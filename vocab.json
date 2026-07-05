@@ -188348,6 +188348,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "chauffeur, driver",
+        "sentences": [
+          {
+            "thai": "คนขับรถพาเจ้านายไปประชุม",
+            "en": "The driver takes the boss to meetings.",
+            "audio_src": "คนขับรถพาเจ้านายไปประชุม",
+            "audio_en_src": "The driver takes the boss to meetings."
+          },
+          {
+            "thai": "เขาทำงานเป็นคนขับรถแท็กซี่",
+            "en": "He works as a taxi driver.",
+            "audio_src": "เขาทำงานเป็นคนขับรถแท็กซี่",
+            "audio_en_src": "He works as a taxi driver."
+          }
+        ]
+      }
     ]
   },
   {
@@ -188359,6 +188378,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "time, occasion",
+        "sentences": [
+          {
+            "thai": "คราวหน้าอย่าลืมเอาร่มมา",
+            "en": "Next time don't forget to bring an umbrella.",
+            "audio_src": "คราวหน้าอย่าลืมเอาร่มมา",
+            "audio_en_src": "Next time don't forget to bring an umbrella."
+          },
+          {
+            "thai": "คราวนั้นเราไปเที่ยวด้วยกัน",
+            "en": "That time we went traveling together.",
+            "audio_src": "คราวนั้นเราไปเที่ยวด้วยกัน",
+            "audio_en_src": "That time we went traveling together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -188404,6 +188442,42 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "(of a sound) soft, low",
+        "sentences": [
+          {
+            "thai": "พูดค่อยๆหน่อยเดี๋ยวคนอื่นได้ยิน",
+            "en": "Speak a bit more softly or others will hear.",
+            "audio_src": "พูดค่อยๆหน่อยเดี๋ยวคนอื่นได้ยิน",
+            "audio_en_src": "Speak a bit more softly or others will hear."
+          },
+          {
+            "thai": "เปิดเพลงค่อยๆอย่าให้ดัง",
+            "en": "Play the music low, not loud.",
+            "audio_src": "เปิดเพลงค่อยๆอย่าให้ดัง",
+            "audio_en_src": "Play the music low, not loud."
+          }
+        ]
+      },
+      {
+        "meaning": "then, only after",
+        "sentences": [
+          {
+            "thai": "กินข้าวเสร็จค่อยไปเล่น",
+            "en": "Finish eating, then go play.",
+            "audio_src": "กินข้าวเสร็จค่อยไปเล่น",
+            "audio_en_src": "Finish eating, then go play."
+          },
+          {
+            "thai": "ทำงานให้เสร็จก่อนค่อยพัก",
+            "en": "Finish the work first, then rest.",
+            "audio_src": "ทำงานให้เสร็จก่อนค่อยพัก",
+            "audio_en_src": "Finish the work first, then rest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -188415,6 +188489,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fee, cost, price, value",
+        "sentences": [
+          {
+            "thai": "ค่าไฟเดือนนี้แพงกว่าปกติ",
+            "en": "The electricity bill this month is higher than usual.",
+            "audio_src": "ค่าไฟเดือนนี้แพงกว่าปกติ",
+            "audio_en_src": "The electricity bill this month is higher than usual."
+          },
+          {
+            "thai": "ของชิ้นนี้มีค่าทางจิตใจ",
+            "en": "This item has sentimental value.",
+            "audio_src": "ของชิ้นนี้มีค่าทางจิตใจ",
+            "audio_en_src": "This item has sentimental value."
+          }
+        ]
+      }
     ]
   },
   {
@@ -188823,6 +188916,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bachelor",
+        "sentences": [
+          {
+            "thai": "ชายโสดคนนี้ยังไม่คิดแต่งงาน",
+            "en": "This bachelor isn't thinking about marriage yet.",
+            "audio_src": "ชายโสดคนนี้ยังไม่คิดแต่งงาน",
+            "audio_en_src": "This bachelor isn't thinking about marriage yet."
+          },
+          {
+            "thai": "เขาใช้ชีวิตชายโสดอย่างมีความสุข",
+            "en": "He lives a happy bachelor life.",
+            "audio_src": "เขาใช้ชีวิตชายโสดอย่างมีความสุข",
+            "audio_en_src": "He lives a happy bachelor life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -189470,6 +189582,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sand",
+        "sentences": [
+          {
+            "thai": "เด็กๆก่อปราสาททรายที่ชายหาด",
+            "en": "The kids build sandcastles at the beach.",
+            "audio_src": "เด็กๆก่อปราสาททรายที่ชายหาด",
+            "audio_en_src": "The kids build sandcastles at the beach."
+          },
+          {
+            "thai": "ทรายร้อนจนเดินเท้าเปล่าไม่ได้",
+            "en": "The sand is so hot you can't walk barefoot.",
+            "audio_src": "ทรายร้อนจนเดินเท้าเปล่าไม่ได้",
+            "audio_en_src": "The sand is so hot you can't walk barefoot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -189636,6 +189767,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to give change",
+        "sentences": [
+          {
+            "thai": "แม่ค้าทอนเงินให้ยี่สิบบาท",
+            "en": "The vendor gave me twenty baht in change.",
+            "audio_src": "แม่ค้าทอนเงินให้ยี่สิบบาท",
+            "audio_en_src": "The vendor gave me twenty baht in change."
+          },
+          {
+            "thai": "จ่ายพอดีไม่ต้องทอน",
+            "en": "I paid the exact amount, no change needed.",
+            "audio_src": "จ่ายพอดีไม่ต้องทอน",
+            "audio_en_src": "I paid the exact amount, no change needed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -189912,6 +190062,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "business",
+        "sentences": [
+          {
+            "thai": "เขาเปิดธุรกิจร้านอาหารเล็กๆ",
+            "en": "He started a small restaurant business.",
+            "audio_src": "เขาเปิดธุรกิจร้านอาหารเล็กๆ",
+            "audio_en_src": "He started a small restaurant business."
+          },
+          {
+            "thai": "ธุรกิจออนไลน์เติบโตเร็วมาก",
+            "en": "Online business is growing very fast.",
+            "audio_src": "ธุรกิจออนไลน์เติบโตเร็วมาก",
+            "audio_en_src": "Online business is growing very fast."
+          }
+        ]
+      }
     ]
   },
   {
@@ -190023,6 +190192,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cozy, livable, a good place to live, a good place to be at",
+        "sentences": [
+          {
+            "thai": "เมืองนี้สงบและน่าอยู่",
+            "en": "This city is peaceful and livable.",
+            "audio_src": "เมืองนี้สงบและน่าอยู่",
+            "audio_en_src": "This city is peaceful and livable."
+          },
+          {
+            "thai": "บ้านหลังเล็กแต่อบอุ่นน่าอยู่",
+            "en": "The house is small but warm and cozy.",
+            "audio_src": "บ้านหลังเล็กแต่อบอุ่นน่าอยู่",
+            "audio_en_src": "The house is small but warm and cozy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -190068,6 +190256,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tears",
+        "sentences": [
+          {
+            "thai": "เธอเสียใจจนน้ำตาไหล",
+            "en": "She was so sad that tears started to fall.",
+            "audio_src": "เธอเสียใจจนน้ำตาไหล",
+            "audio_en_src": "She was so sad that tears started to fall."
+          },
+          {
+            "thai": "เขาเช็ดน้ำตาแล้วยิ้ม",
+            "en": "He wiped away his tears and smiled.",
+            "audio_src": "เขาเช็ดน้ำตาแล้วยิ้ม",
+            "audio_en_src": "He wiped away his tears and smiled."
+          }
+        ]
+      }
     ]
   },
   {

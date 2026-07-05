@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5972 words**
+**Total: 5982 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4998,7 +4998,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-007` : ข่าว (news) : 1 meaning(s), 2 sentences
 - `wlt-c13-008` : ขี้ (poop; (of a person) habitually prone to (usually negative trait)) : 2 meaning(s), 4 sentences
 - `wlt-c13-009` : ขีด (mark, line, to mark, to draw a line; 100 grams) : 2 meaning(s), 4 sentences
+- `wlt-c13-010` : คนขับรถ (chauffeur, driver) : 1 meaning(s), 2 sentences
+- `wlt-c13-012` : คราว (time, occasion) : 1 meaning(s), 2 sentences
 - `wlt-c13-013` : ควร, ควรจะ (should, ought to) : 1 meaning(s), 2 sentences
+- `wlt-c13-014` : ค่อย ((of a sound) soft, low; then, only after) : 2 meaning(s), 4 sentences
+- `wlt-c13-015` : ค่า (fee, cost, price, value) : 1 meaning(s), 2 sentences
 - `wlt-c13-016` : ค่ำ (dusk (6pm - 7pm)) : 1 meaning(s), 2 sentences
 - `wlt-c13-017` : คิดถึง (to miss someone (literally "think about")) : 1 meaning(s), 2 sentences
 - `wlt-c13-018` : คืนนี้ (tonight) : 1 meaning(s), 2 sentences
@@ -5011,6 +5015,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-025` : ฉลาด (smart) : 1 meaning(s), 2 sentences
 - `wlt-c13-027` : ฉาย (to shine a light) : 1 meaning(s), 2 sentences
 - `wlt-c13-028` : ช่างตัดผม (barber) : 1 meaning(s), 2 sentences
+- `wlt-c13-029` : ชายโสด (bachelor) : 1 meaning(s), 2 sentences
 - `wlt-c13-030` : เช็ค (to check (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c13-031` : เชิญ (to invite someone to do something (polite request: "please...")) : 1 meaning(s), 2 sentences
 - `wlt-c13-032` : ใช่ (yes) : 1 meaning(s), 2 sentences
@@ -5030,11 +5035,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-051` : เตรียม (to prepare) : 1 meaning(s), 2 sentences
 - `wlt-c13-054` : ถือ (to hold) : 1 meaning(s), 2 sentences
 - `wlt-c13-055` : ถุง (bag) : 1 meaning(s), 2 sentences
+- `wlt-c13-056` : ทราย (sand) : 1 meaning(s), 2 sentences
 - `wlt-c13-057` : ทวีป (continent) : 1 meaning(s), 2 sentences
 - `wlt-c13-058` : ยุโรป, ทวีปยุโรป (Europe) : 1 meaning(s), 2 sentences
 - `wlt-c13-060` : ทวีปอเมริกาใต้ (South America) : 1 meaning(s), 2 sentences
 - `wlt-c13-061` : ทวีปอเมริกาเหนือ (North America) : 1 meaning(s), 2 sentences
 - `wlt-c13-063` : ทวีปเอเชีย (Asia) : 1 meaning(s), 2 sentences
+- `wlt-c13-065` : ทอน (to give change) : 1 meaning(s), 2 sentences
 - `wlt-c13-066` : ทั้ง (all of) : 1 meaning(s), 2 sentences
 - `wlt-c13-067` : ทั้งสอง (both) : 1 meaning(s), 2 sentences
 - `wlt-c13-068` : ทั้งหมด (all of it, the whole) : 1 meaning(s), 2 sentences
@@ -5043,10 +5050,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-071` : ที่สุด (the most, extremely) : 1 meaning(s), 2 sentences
 - `wlt-c13-072` : ที่อยู่ (address, place of residence) : 1 meaning(s), 2 sentences
 - `wlt-c13-075` : ไทย (Thai) : 1 meaning(s), 2 sentences
+- `wlt-c13-076` : ธุรกิจ (business) : 1 meaning(s), 2 sentences
 - `wlt-c13-077` : เธอ (you, she (informal, usually feminine)) : 1 meaning(s), 2 sentences
 - `wlt-c13-079` : น้องสาว (younger sister) : 1 meaning(s), 2 sentences
 - `wlt-c13-085` : น่าสนใจ (interesting) : 1 meaning(s), 2 sentences
+- `wlt-c13-086` : น่าอยู่ (cozy, livable, a good place to live, a good place to be at) : 1 meaning(s), 2 sentences
 - `wlt-c13-087` : น้ำแข็ง (ice) : 1 meaning(s), 2 sentences
+- `wlt-c13-088` : น้ำตา (tears) : 1 meaning(s), 2 sentences
 - `wlt-c13-089` : น้ำมัน (oil, gasoline) : 1 meaning(s), 2 sentences
 - `wlt-c13-092` : แน่นอน (certain, sure) : 1 meaning(s), 2 sentences
 - `wlt-c13-093` : แนะนำ (to introduce; to advise, to suggest) : 2 meaning(s), 4 sentences
