@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5332 words**
+**Total: 5342 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3633,7 +3633,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-051` : สาธุ (said after someone does a good deed, makes a merit, or recites a prayer ("amen", "may it be blessed")) : 1 meaning(s), 2 sentences
 - `yt-c14-052` : หอน (to howl (the sound a wolf or dog makes)) : 1 meaning(s), 2 sentences
 - `yt-c14-053` : โลง, โลงศพ (coffin) : 1 meaning(s), 2 sentences
+- `yt-c14-060` : สินสอด (dowry, bride price (literally "property (goods, money) presented")) : 1 meaning(s), 2 sentences
+- `yt-c14-061` : เอาการเอางาน (hardworking, diligent, dedicated to work) : 1 meaning(s), 2 sentences
+- `yt-c14-069` : เขิน (to feel shy in a cute, romantic way) : 1 meaning(s), 2 sentences
+- `yt-c14-070` : ปิ๊ง (to click, to instantly like, to have a sudden crush) : 1 meaning(s), 2 sentences
+- `yt-c14-071` : อ่อย (to hit on someone, to flirt) : 1 meaning(s), 2 sentences
+- `yt-c14-072` : เคมีตรงกัน (to have chemistry (e.g with someone), to have good vibes, to fit together well) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
+- `yt-c14-074` : จบข่าว ("end of the discussion", "no more talking about this", "end of story") : 1 meaning(s), 2 sentences
+- `yt-c14-079` : หัวใส (clever, quick-witted, smart-thinking) : 1 meaning(s), 2 sentences
+- `new-15` : หัวหมอ (cunning, sly, clever in a way that exploits loopholes) : 1 meaning(s), 2 sentences
+- `yt-c14-080` : หน้าแตก, หน้าแหก - หน้าเสีย (to lose face (strongly, e.g public humiliation) - to lose face (mild embarrassment)) : 1 meaning(s), 2 sentences
 - `yt-c14-088` : เด้ง (to bounce, to spring back; (skin) firm, tight, not saggy) : 2 meaning(s), 4 sentences
 - `yt-c14-093` : เมือก (mucus, slime, slime-like substance) : 1 meaning(s), 2 sentences
 - `yt-c15-003` : เล็ง (to target, to aim, to focus on) : 1 meaning(s), 2 sentences
