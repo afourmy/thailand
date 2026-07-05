@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5352 words**
+**Total: 5362 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3660,15 +3660,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-007` : เล่นว่าว (to fly a kite) : 1 meaning(s), 2 sentences
 - `yt-c15-008` : รักษาสัญญา (to keep a promise, to honor an agreement) : 1 meaning(s), 2 sentences
 - `yt-c15-009` : ผิดคำพูด (to break a promise, to go back on one's word) : 1 meaning(s), 2 sentences
+- `yt-c15-010` : ปลวก (termite) : 1 meaning(s), 2 sentences
+- `yt-c15-011` : เหา (lice) : 1 meaning(s), 2 sentences
+- `yt-c15-012` : เห็บ - หมัด (tick (on animals and humans) - flea (on animals)) : 1 meaning(s), 2 sentences
 - `yt-c15-013` : ส่งสาร (to convey a message, to transmit information) : 1 meaning(s), 2 sentences
 - `yt-c15-018` : ดูอ่อนกว่าวัย - ดูแก่กว่าวัย (to look younger than one's age - to look older than one's age) : 1 meaning(s), 2 sentences
+- `yt-c15-019` : พยาธิ (parasite, worm) : 1 meaning(s), 2 sentences
 - `yt-c15-021` : ตึง (tight, stretched, tense) : 1 meaning(s), 2 sentences
+- `yt-c15-022` : สะตอ (stink bean (type of bean vegetable that smells bad)) : 1 meaning(s), 2 sentences
 - `yt-c15-024` : กลิ่นสาบ (unpleasant sweaty, musty odor) : 1 meaning(s), 2 sentences
+- `yt-c15-026` : เป่ายิ้งฉุบ (rock paper scissors (game)) : 1 meaning(s), 2 sentences
+- `yt-c15-027` : บริสุทธิ์ใจ (pure-hearted, honest, sincere) : 1 meaning(s), 2 sentences
 - `yt-c15-028` : คด ((physically) bent, crooked; (morally) crooked, dishonest; to scoop rice) : 3 meaning(s), 6 sentences
 - `yt-c15-031` : นางงาม (beauty queen, beauty pageant) : 1 meaning(s), 2 sentences
+- `yt-c15-032` : แซ่บ (tasty and spicy (food); (figuratively) sexy, hot (girl)) : 2 meaning(s), 4 sentences
+- `yt-c15-033` : ปากแซ่บ (sharped-tongue, witty, cheeky) : 1 meaning(s), 2 sentences
 - `yt-c15-040` : วีรบุรุษ - วีรสตรี (hero - heroine (literally "heroic + man - woman")) : 1 meaning(s), 2 sentences
 - `yt-c15-041` : ตั้งตัว (to get established, to set oneself up (in life, career, financially, etc)) : 1 meaning(s), 2 sentences
 - `yt-c15-053` : วลีเด็ด (catchphrase, iconic line, famous quote or expression) : 1 meaning(s), 2 sentences
+- `yt-c15-054` : อวยไส้แตก (to overhype, to praise so much it's ridiculous, to praise to death (literally "praise until guts burst")) : 1 meaning(s), 2 sentences
 - `yt-c15-055` : เล้า (animal pen, coop) : 1 meaning(s), 2 sentences
 - `yt-c15-056` : เลื้อย (to crawl, to creep) : 1 meaning(s), 2 sentences
 - `yt-c15-057` : แง้ม ((literally) to open slightly; (figuratively) to hint at, to reveal a little) : 2 meaning(s), 4 sentences
