@@ -162359,6 +162359,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "willing, glad to do something, not reluctant",
+        "sentences": [
+          {
+            "thai": "เขาเต็มใจช่วยเหลือคนอื่น",
+            "en": "He is glad to help others.",
+            "audio_src": "เขาเต็มใจช่วยเหลือคนอื่น",
+            "audio_en_src": "He is glad to help others."
+          },
+          {
+            "thai": "ฉันเต็มใจทำงานนี้",
+            "en": "I'm willing to do this job.",
+            "audio_src": "ฉันเต็มใจทำงานนี้",
+            "audio_en_src": "I'm willing to do this job."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162369,6 +162388,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "electric stove",
+        "sentences": [
+          {
+            "thai": "ทำอาหารด้วยเตาไฟฟ้า",
+            "en": "Cook with an electric stove.",
+            "audio_src": "ทำอาหารด้วยเตาไฟฟ้า",
+            "audio_en_src": "Cook with an electric stove."
+          },
+          {
+            "thai": "เตาไฟฟ้าปลอดภัยกว่าเตาแก๊ส",
+            "en": "An electric stove is safer than a gas one.",
+            "audio_src": "เตาไฟฟ้าปลอดภัยกว่าเตาแก๊ส",
+            "audio_en_src": "An electric stove is safer than a gas one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162379,6 +162417,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "oven",
+        "sentences": [
+          {
+            "thai": "อบขนมปังในเตาอบ",
+            "en": "Bake the bread in the oven.",
+            "audio_src": "อบขนมปังในเตาอบ",
+            "audio_en_src": "Bake the bread in the oven."
+          },
+          {
+            "thai": "เตาอบร้อนระวังมือ",
+            "en": "The oven is hot, watch your hands.",
+            "audio_src": "เตาอบร้อนระวังมือ",
+            "audio_en_src": "The oven is hot, watch your hands."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162423,6 +162480,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "early in the morning, from early morning",
+        "sentences": [
+          {
+            "thai": "เขาตื่นแต่เช้าไปออกกำลังกาย",
+            "en": "He wakes up early to exercise.",
+            "audio_src": "เขาตื่นแต่เช้าไปออกกำลังกาย",
+            "audio_en_src": "He wakes up early to exercise."
+          },
+          {
+            "thai": "ร้านเปิดแต่เช้าทุกวัน",
+            "en": "The shop opens early every day.",
+            "audio_src": "ร้านเปิดแต่เช้าทุกวัน",
+            "audio_en_src": "The shop opens early every day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162433,6 +162509,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "main road",
+        "sentences": [
+          {
+            "thai": "เดินออกไปจากซอยจะเจอถนนใหญ่",
+            "en": "Walk out of the alley and you'll reach the main road.",
+            "audio_src": "เดินออกไปจากซอยจะเจอถนนใหญ่",
+            "audio_en_src": "Walk out of the alley and you'll reach the main road."
+          },
+          {
+            "thai": "ถนนใหญ่รถเยอะระวังข้าม",
+            "en": "The main road is busy, so cross carefully.",
+            "audio_src": "ถนนใหญ่รถเยอะระวังข้าม",
+            "audio_en_src": "The main road is busy, so cross carefully."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162443,6 +162538,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "coffee cup",
+        "sentences": [
+          {
+            "thai": "เทกาแฟใส่ถ้วยกาแฟ",
+            "en": "Pour the coffee into the coffee cup.",
+            "audio_src": "เทกาแฟใส่ถ้วยกาแฟ",
+            "audio_en_src": "Pour the coffee into the coffee cup."
+          },
+          {
+            "thai": "ถ้วยกาแฟใบนี้ลายสวย",
+            "en": "This coffee cup has a lovely pattern.",
+            "audio_src": "ถ้วยกาแฟใบนี้ลายสวย",
+            "audio_en_src": "This coffee cup has a lovely pattern."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162453,6 +162567,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "in that case, if that's how it is",
+        "sentences": [
+          {
+            "thai": "ถ้ายังงั้นเราไปพรุ่งนี้แทน",
+            "en": "In that case, let's go tomorrow instead.",
+            "audio_src": "ถ้ายังงั้นเราไปพรุ่งนี้แทน",
+            "audio_en_src": "In that case, let's go tomorrow instead."
+          },
+          {
+            "thai": "ถ้ายังงั้นฉันขอตัวก่อนนะ",
+            "en": "If that's how it is, I'll excuse myself then.",
+            "audio_src": "ถ้ายังงั้นฉันขอตัวก่อนนะ",
+            "audio_en_src": "If that's how it is, I'll excuse myself then."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162508,6 +162641,25 @@
     "sources": [
       "Anki Basics",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "pomegranate",
+        "sentences": [
+          {
+            "thai": "น้ำทับทิมมีสีแดงสด",
+            "en": "Pomegranate juice is bright red.",
+            "audio_src": "น้ำทับทิมมีสีแดงสด",
+            "audio_en_src": "Pomegranate juice is bright red."
+          },
+          {
+            "thai": "เมล็ดทับทิมรสเปรี้ยวอมหวาน",
+            "en": "Pomegranate seeds are sweet and sour.",
+            "audio_src": "เมล็ดทับทิมรสเปรี้ยวอมหวาน",
+            "audio_en_src": "Pomegranate seeds are sweet and sour."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162618,6 +162770,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "that way",
+        "sentences": [
+          {
+            "thai": "ห้องน้ำอยู่ทางนั้น",
+            "en": "The bathroom is that way.",
+            "audio_src": "ห้องน้ำอยู่ทางนั้น",
+            "audio_en_src": "The bathroom is that way."
+          },
+          {
+            "thai": "ไปทางนั้นแล้วเลี้ยวซ้าย",
+            "en": "Go that way and then turn left.",
+            "audio_src": "ไปทางนั้นแล้วเลี้ยวซ้าย",
+            "audio_en_src": "Go that way and then turn left."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162628,6 +162799,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "which way",
+        "sentences": [
+          {
+            "thai": "ไปสถานีรถไฟต้องไปทางไหน",
+            "en": "Which way is it to the train station?",
+            "audio_src": "ไปสถานีรถไฟต้องไปทางไหน",
+            "audio_en_src": "Which way is it to the train station?"
+          },
+          {
+            "thai": "ไม่รู้ว่าจะเลือกทางไหนดี",
+            "en": "I don't know which way to choose.",
+            "audio_src": "ไม่รู้ว่าจะเลือกทางไหนดี",
+            "audio_en_src": "I don't know which way to choose."
+          }
+        ]
+      }
     ]
   },
   {

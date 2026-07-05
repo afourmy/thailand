@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5682 words**
+**Total: 5692 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4189,11 +4189,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-035` : ตุ๊กแก (gecko) : 1 meaning(s), 2 sentences
 - `wlt-c02-036` : ตู้ไปรษณีย์ (letterbox (public, for sending)) : 1 meaning(s), 2 sentences
 - `wlt-c02-038` : ตู้หนังสือ (bookcase) : 1 meaning(s), 2 sentences
+- `wlt-c02-040` : เต็มใจ (willing, glad to do something, not reluctant) : 1 meaning(s), 2 sentences
+- `wlt-c02-041` : เตาไฟฟ้า (electric stove) : 1 meaning(s), 2 sentences
+- `wlt-c02-042` : เตาอบ (oven) : 1 meaning(s), 2 sentences
 - `wlt-c02-043` : เตียง, เตียงนอน (bed) : 1 meaning(s), 2 sentences
+- `wlt-c02-044` : แต่เช้า (early in the morning, from early morning) : 1 meaning(s), 2 sentences
+- `wlt-c02-045` : ถนนใหญ่ (main road) : 1 meaning(s), 2 sentences
+- `wlt-c02-046` : ถ้วยกาแฟ (coffee cup) : 1 meaning(s), 2 sentences
+- `wlt-c02-048` : ถ้ายังงั้น (in that case, if that's how it is) : 1 meaning(s), 2 sentences
 - `wlt-c02-051` : เที่ยว, ท่องเที่ยว (to go travelling, to travel for pleasure) : 1 meaning(s), 2 sentences
+- `wlt-c02-055` : ทับทิม (pomegranate) : 1 meaning(s), 2 sentences
 - `wlt-c02-056` : ทางขวา (มือ) (on the right (hand side)) : 1 meaning(s), 2 sentences
 - `wlt-c02-057` : ทางเข้า (way in, entrance) : 1 meaning(s), 2 sentences
 - `wlt-c02-058` : ทางซ้าย (มือ) (on the left (hand side)) : 1 meaning(s), 2 sentences
+- `wlt-c02-059` : ทางนั้น (that way) : 1 meaning(s), 2 sentences
+- `wlt-c02-060` : ทางไหน (which way) : 1 meaning(s), 2 sentences
 - `wlt-c02-061` : ทางออก (way out, exit) : 1 meaning(s), 2 sentences
 - `wlt-c02-064` : ทำหาย (to lose (something)) : 1 meaning(s), 2 sentences
 - `wlt-c02-066` : ที่เก็บของ (storage place) : 1 meaning(s), 2 sentences
