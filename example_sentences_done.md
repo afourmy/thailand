@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6152 words**
+**Total: 6162 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5853,14 +5853,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-009` : ต่างชาติ (foreign, of another nationality) : 1 meaning(s), 2 sentences
 - `t4k-c04-010` : ทั้งคู่ (both) : 1 meaning(s), 2 sentences
 - `t4k-c04-015` : แก่น (core, kernel, essence) : 1 meaning(s), 2 sentences
+- `t4k-c04-017` : อย่างเช่น (such as, for example) : 1 meaning(s), 2 sentences
+- `t4k-c04-022` : ภาคภูมิใจ (proud) : 1 meaning(s), 2 sentences
 - `t4k-c04-023` : นางเอก (female lead, heroine) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
 - `t4k-c04-025` : รูปทรง (shape, form) : 1 meaning(s), 2 sentences
 - `t4k-c04-027` : อำนวย (to grant, to facilitate, to provide) : 1 meaning(s), 2 sentences
+- `t4k-c04-029` : เผ่า (tribe, ethnic group, clan) : 1 meaning(s), 2 sentences
 - `t4k-c04-031` : เกม (game) : 1 meaning(s), 2 sentences
+- `t4k-c04-033` : จำเลย (defendant, accused person (in court)) : 1 meaning(s), 2 sentences
 - `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
+- `t4k-c04-039` : ประมง (fishing, fishery (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c04-040` : บัดนี้ (now (formal, written)) : 1 meaning(s), 2 sentences
 - `t4k-c04-045` : เลขาธิการ (secretary general) : 1 meaning(s), 2 sentences
+- `t4k-c04-047` : เหมา (to contract, to hire) : 1 meaning(s), 2 sentences
+- `t4k-c04-049` : ออม (to save, to conserve (e.g money, resources)) : 1 meaning(s), 2 sentences
 - `t4k-c04-051` : วิถี (way, path, manner) : 1 meaning(s), 2 sentences
+- `t4k-c04-053` : ตกเป็น (to end up as, to become) : 1 meaning(s), 2 sentences
+- `t4k-c04-054` : เจ็บป่วย (sick, ill) : 1 meaning(s), 2 sentences
 - `t4k-c04-057` : ยากลำบาก (difficult, hard) : 1 meaning(s), 2 sentences
 - `t4k-c04-059` : ผู้ใช้ (user) : 1 meaning(s), 2 sentences
 - `t4k-c04-060` : รวมตัว (to gather, to assemble) : 1 meaning(s), 2 sentences

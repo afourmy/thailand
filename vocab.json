@@ -217571,6 +217571,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "such as, for example",
+        "sentences": [
+          {
+            "thai": "เขาชอบผลไม้ อย่างเช่น มะม่วงและส้ม",
+            "en": "He likes fruit, such as mango and orange.",
+            "audio_src": "เขาชอบผลไม้ อย่างเช่น มะม่วงและส้ม",
+            "audio_en_src": "He likes fruit, such as mango and orange."
+          },
+          {
+            "thai": "กีฬาหลายชนิด อย่างเช่น ฟุตบอลและบาส",
+            "en": "Many kinds of sports, such as football and basketball.",
+            "audio_src": "กีฬาหลายชนิด อย่างเช่น ฟุตบอลและบาส",
+            "audio_en_src": "Many kinds of sports, such as football and basketball."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217621,6 +217640,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "proud",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ภาคภูมิใจในตัวลูก",
+            "en": "The parents are proud of their child.",
+            "audio_src": "พ่อแม่ภาคภูมิใจในตัวลูก",
+            "audio_en_src": "The parents are proud of their child."
+          },
+          {
+            "thai": "เขาภาคภูมิใจในผลงานของตัวเอง",
+            "en": "He's proud of his own work.",
+            "audio_src": "เขาภาคภูมิใจในผลงานของตัวเอง",
+            "audio_en_src": "He's proud of his own work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217757,6 +217795,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tribe, ethnic group, clan",
+        "sentences": [
+          {
+            "thai": "ชาวเขาเผ่ากะเหรี่ยงอาศัยบนดอย",
+            "en": "The Karen tribe lives in the highlands.",
+            "audio_src": "ชาวเขาเผ่ากะเหรี่ยงอาศัยบนดอย",
+            "audio_en_src": "The Karen tribe lives in the highlands."
+          },
+          {
+            "thai": "แต่ละเผ่ามีวัฒนธรรมของตัวเอง",
+            "en": "Each tribe has its own culture.",
+            "audio_src": "แต่ละเผ่ามีวัฒนธรรมของตัวเอง",
+            "audio_en_src": "Each tribe has its own culture."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217810,6 +217867,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "defendant, accused person (in court)",
+        "sentences": [
+          {
+            "thai": "จำเลยให้การปฏิเสธข้อกล่าวหา",
+            "en": "The defendant denied the charges.",
+            "audio_src": "จำเลยให้การปฏิเสธข้อกล่าวหา",
+            "audio_en_src": "The defendant denied the charges."
+          },
+          {
+            "thai": "ศาลตัดสินให้จำเลยมีความผิด",
+            "en": "The court found the defendant guilty.",
+            "audio_src": "ศาลตัดสินให้จำเลยมีความผิด",
+            "audio_en_src": "The court found the defendant guilty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217863,6 +217939,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fishing, fishery (formal)",
+        "sentences": [
+          {
+            "thai": "ชาวประมงออกเรือหาปลาแต่เช้า",
+            "en": "The fishermen set out to fish early in the morning.",
+            "audio_src": "ชาวประมงออกเรือหาปลาแต่เช้า",
+            "audio_en_src": "The fishermen set out to fish early in the morning."
+          },
+          {
+            "thai": "อุตสาหกรรมประมงสร้างรายได้ให้ประเทศ",
+            "en": "The fishing industry generates income for the country.",
+            "audio_src": "อุตสาหกรรมประมงสร้างรายได้ให้ประเทศ",
+            "audio_en_src": "The fishing industry generates income for the country."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217873,6 +217968,25 @@
     "topic": "time",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "now (formal, written)",
+        "sentences": [
+          {
+            "thai": "บัดนี้ได้เวลาอันสมควรแล้ว",
+            "en": "The appropriate time has now come.",
+            "audio_src": "บัดนี้ได้เวลาอันสมควรแล้ว",
+            "audio_en_src": "The appropriate time has now come."
+          },
+          {
+            "thai": "บัดนี้พิธีได้เริ่มขึ้นแล้ว",
+            "en": "The ceremony has now begun.",
+            "audio_src": "บัดนี้พิธีได้เริ่มขึ้นแล้ว",
+            "audio_en_src": "The ceremony has now begun."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217924,6 +218038,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to contract, to hire",
+        "sentences": [
+          {
+            "thai": "เขาเหมารถตู้ไปเที่ยวกันทั้งกลุ่ม",
+            "en": "He chartered a van for the whole group's trip.",
+            "audio_src": "เขาเหมารถตู้ไปเที่ยวกันทั้งกลุ่ม",
+            "audio_en_src": "He chartered a van for the whole group's trip."
+          },
+          {
+            "thai": "เหมาช่างมาทาสีบ้านทั้งหลัง",
+            "en": "We hired a painter to paint the whole house.",
+            "audio_src": "เหมาช่างมาทาสีบ้านทั้งหลัง",
+            "audio_en_src": "We hired a painter to paint the whole house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217944,6 +218077,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to save, to conserve (e.g money, resources)",
+        "sentences": [
+          {
+            "thai": "เขาออมเงินทุกเดือนไว้ซื้อบ้าน",
+            "en": "He saves money every month to buy a house.",
+            "audio_src": "เขาออมเงินทุกเดือนไว้ซื้อบ้าน",
+            "audio_en_src": "He saves money every month to buy a house."
+          },
+          {
+            "thai": "ช่วยกันออมน้ำในหน้าแล้ง",
+            "en": "Let's conserve water together in the dry season.",
+            "audio_src": "ช่วยกันออมน้ำในหน้าแล้ง",
+            "audio_en_src": "Let's conserve water together in the dry season."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217985,6 +218137,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to end up as, to become",
+        "sentences": [
+          {
+            "thai": "เขาตกเป็นเหยื่อของมิจฉาชีพ",
+            "en": "He ended up a victim of scammers.",
+            "audio_src": "เขาตกเป็นเหยื่อของมิจฉาชีพ",
+            "audio_en_src": "He ended up a victim of scammers."
+          },
+          {
+            "thai": "เธอตกเป็นข่าวหน้าหนึ่ง",
+            "en": "She became front-page news.",
+            "audio_src": "เธอตกเป็นข่าวหน้าหนึ่ง",
+            "audio_en_src": "She became front-page news."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217995,6 +218166,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sick, ill",
+        "sentences": [
+          {
+            "thai": "เมื่อเจ็บป่วยควรพบแพทย์",
+            "en": "When you're sick, you should see a doctor.",
+            "audio_src": "เมื่อเจ็บป่วยควรพบแพทย์",
+            "audio_en_src": "When you're sick, you should see a doctor."
+          },
+          {
+            "thai": "ผู้สูงอายุมักเจ็บป่วยง่าย",
+            "en": "The elderly tend to get sick easily.",
+            "audio_src": "ผู้สูงอายุมักเจ็บป่วยง่าย",
+            "audio_en_src": "The elderly tend to get sick easily."
+          }
+        ]
+      }
     ]
   },
   {
