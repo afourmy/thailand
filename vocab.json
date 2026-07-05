@@ -161109,6 +161109,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "chocolate (loanword)",
+        "sentences": [
+          {
+            "thai": "ฉันชอบกินช็อกโกแลตดำ",
+            "en": "I like dark chocolate.",
+            "audio_src": "ฉันชอบกินช็อกโกแลตดำ",
+            "audio_en_src": "I like dark chocolate."
+          },
+          {
+            "thai": "เขาซื้อช็อกโกแลตให้แฟนวันวาเลนไทน์",
+            "en": "He bought chocolate for his girlfriend on Valentine's Day.",
+            "audio_src": "เขาซื้อช็อกโกแลตให้แฟนวันวาเลนไทน์",
+            "audio_en_src": "He bought chocolate for his girlfriend on Valentine's Day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161119,6 +161138,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "teaspoon",
+        "sentences": [
+          {
+            "thai": "ใส่น้ำตาลสองช้อนชา",
+            "en": "Add two teaspoons of sugar.",
+            "audio_src": "ใส่น้ำตาลสองช้อนชา",
+            "audio_en_src": "Add two teaspoons of sugar."
+          },
+          {
+            "thai": "คนยาด้วยช้อนชา",
+            "en": "Stir the medicine with a teaspoon.",
+            "audio_src": "คนยาด้วยช้อนชา",
+            "audio_en_src": "Stir the medicine with a teaspoon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161222,6 +161260,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Sunday morning",
+        "sentences": [
+          {
+            "thai": "เช้าวันอาทิตย์ชอบนอนตื่นสาย",
+            "en": "On Sunday mornings I like to sleep in.",
+            "audio_src": "เช้าวันอาทิตย์ชอบนอนตื่นสาย",
+            "audio_en_src": "On Sunday mornings I like to sleep in."
+          },
+          {
+            "thai": "เช้าวันอาทิตย์ไปตลาดซื้อของ",
+            "en": "On Sunday morning I go to the market.",
+            "audio_src": "เช้าวันอาทิตย์ไปตลาดซื้อของ",
+            "audio_en_src": "On Sunday morning I go to the market."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161306,6 +161363,25 @@
     "topic": "personality",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "mischievous, playful",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้ซุกซนไม่อยู่นิ่ง",
+            "en": "This kid is mischievous and can't sit still.",
+            "audio_src": "เด็กคนนี้ซุกซนไม่อยู่นิ่ง",
+            "audio_en_src": "This kid is mischievous and can't sit still."
+          },
+          {
+            "thai": "ลูกหมาซุกซนชอบกัดรองเท้า",
+            "en": "The playful puppy likes to chew on shoes.",
+            "audio_src": "ลูกหมาซุกซนชอบกัดรองเท้า",
+            "audio_en_src": "The playful puppy likes to chew on shoes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161317,6 +161393,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "soup (loanword)",
+        "sentences": [
+          {
+            "thai": "ซุปร้อนๆอร่อยตอนอากาศหนาว",
+            "en": "Hot soup is lovely in cold weather.",
+            "audio_src": "ซุปร้อนๆอร่อยตอนอากาศหนาว",
+            "audio_en_src": "Hot soup is lovely in cold weather."
+          },
+          {
+            "thai": "เขาสั่งซุปไก่มาหนึ่งชาม",
+            "en": "He ordered a bowl of chicken soup.",
+            "audio_src": "เขาสั่งซุปไก่มาหนึ่งชาม",
+            "audio_en_src": "He ordered a bowl of chicken soup."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161327,6 +161422,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "by oneself",
+        "sentences": [
+          {
+            "thai": "เขาทำการบ้านด้วยตัวเอง",
+            "en": "He does his homework by himself.",
+            "audio_src": "เขาทำการบ้านด้วยตัวเอง",
+            "audio_en_src": "He does his homework by himself."
+          },
+          {
+            "thai": "ฉันซ่อมจักรยานด้วยตัวเอง",
+            "en": "I fixed the bike by myself.",
+            "audio_src": "ฉันซ่อมจักรยานด้วยตัวเอง",
+            "audio_en_src": "I fixed the bike by myself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161505,6 +161619,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "namely, consisting of (+ enumeration)",
+        "sentences": [
+          {
+            "thai": "ผลไม้ที่ฉันชอบได้แก่มะม่วงและทุเรียน",
+            "en": "The fruits I like are, namely, mango and durian.",
+            "audio_src": "ผลไม้ที่ฉันชอบได้แก่มะม่วงและทุเรียน",
+            "audio_en_src": "The fruits I like are, namely, mango and durian."
+          },
+          {
+            "thai": "วิชาหลักได้แก่คณิตศาสตร์และภาษาไทย",
+            "en": "The core subjects are math and Thai.",
+            "audio_src": "วิชาหลักได้แก่คณิตศาสตร์และภาษาไทย",
+            "audio_en_src": "The core subjects are math and Thai."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161515,6 +161648,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to make money",
+        "sentences": [
+          {
+            "thai": "ขายของออนไลน์ได้เงินดี",
+            "en": "Selling online makes good money.",
+            "audio_src": "ขายของออนไลน์ได้เงินดี",
+            "audio_en_src": "Selling online makes good money."
+          },
+          {
+            "thai": "ทำงานพิเศษได้เงินเพิ่ม",
+            "en": "Doing side work earns some extra money.",
+            "audio_src": "ทำงานพิเศษได้เงินเพิ่ม",
+            "audio_en_src": "Doing side work earns some extra money."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161525,6 +161677,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "beginning of the month",
+        "sentences": [
+          {
+            "thai": "ต้นเดือนเงินเดือนเข้าเลยไปช้อปปิ้ง",
+            "en": "At the start of the month the salary comes in, so I go shopping.",
+            "audio_src": "ต้นเดือนเงินเดือนเข้าเลยไปช้อปปิ้ง",
+            "audio_en_src": "At the start of the month the salary comes in, so I go shopping."
+          },
+          {
+            "thai": "ค่าเช่าบ้านต้องจ่ายต้นเดือน",
+            "en": "Rent has to be paid at the beginning of the month.",
+            "audio_src": "ค่าเช่าบ้านต้องจ่ายต้นเดือน",
+            "audio_en_src": "Rent has to be paid at the beginning of the month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161535,6 +161706,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "beginning of the year",
+        "sentences": [
+          {
+            "thai": "ต้นปีตั้งเป้าหมายใหม่",
+            "en": "At the start of the year I set new goals.",
+            "audio_src": "ต้นปีตั้งเป้าหมายใหม่",
+            "audio_en_src": "At the start of the year I set new goals."
+          },
+          {
+            "thai": "บริษัทจ่ายโบนัสช่วงต้นปี",
+            "en": "The company pays bonuses early in the year.",
+            "audio_src": "บริษัทจ่ายโบนัสช่วงต้นปี",
+            "audio_en_src": "The company pays bonuses early in the year."
+          }
+        ]
+      }
     ]
   },
   {

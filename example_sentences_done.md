@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5662 words**
+**Total: 5672 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4149,16 +4149,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c01-076` : เจ้าของบ้าน (landlord) : 1 meaning(s), 2 sentences
 - `wlt-c01-077` : เจ้าของร้าน (shop owner) : 1 meaning(s), 2 sentences
 - `wlt-c01-078` : ช่วงนี้ (these days, lately) : 1 meaning(s), 2 sentences
+- `wlt-c01-079` : ช็อกโกแลต (chocolate (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c01-080` : ช้อนชา (teaspoon) : 1 meaning(s), 2 sentences
 - `wlt-c01-082` : ชายแก่ (old man) : 1 meaning(s), 2 sentences
 - `wlt-c01-083` : ชายหญิง (men and women) : 1 meaning(s), 2 sentences
 - `wlt-c01-084` : ชุดนอน (pajamas) : 1 meaning(s), 2 sentences
+- `wlt-c01-086` : เช้าวันอาทิตย์ (Sunday morning) : 1 meaning(s), 2 sentences
 - `wlt-c01-091` : ซักน้ำ (to wash in water, to rinse) : 1 meaning(s), 2 sentences
 - `wlt-c01-092` : ซักผ้า (to do the laundry) : 1 meaning(s), 2 sentences
+- `wlt-c01-094` : ซุกซน (mischievous, playful) : 1 meaning(s), 2 sentences
+- `wlt-c01-095` : ซุป (soup (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c01-097` : ด้วยตัวเอง (by oneself) : 1 meaning(s), 2 sentences
 - `wlt-c01-099` : เด็กชาย, เด็กผู้ชาย (boy) : 1 meaning(s), 2 sentences
 - `wlt-c02-000` : เด็กหญิง, เด็กผู้หญิง (girl) : 1 meaning(s), 2 sentences
 - `wlt-c02-001` : เดือนที่แล้ว (last month) : 1 meaning(s), 2 sentences
 - `wlt-c02-002` : เดือนนี้ (this month) : 1 meaning(s), 2 sentences
 - `wlt-c02-003` : เดือนหน้า (next month) : 1 meaning(s), 2 sentences
+- `wlt-c02-005` : ได้แก่ (namely, consisting of (+ enumeration)) : 1 meaning(s), 2 sentences
+- `wlt-c02-006` : ได้เงิน (to make money) : 1 meaning(s), 2 sentences
+- `wlt-c02-008` : ต้นเดือน (beginning of the month) : 1 meaning(s), 2 sentences
+- `wlt-c02-009` : ต้นปี (beginning of the year) : 1 meaning(s), 2 sentences
 - `wlt-c02-013` : ตรงนี้ (over here, right here) : 1 meaning(s), 2 sentences
 - `wlt-c02-016` : ตอนกลางคืน (at night, during the night) : 1 meaning(s), 2 sentences
 - `wlt-c02-017` : ตอนค่ำ (in the evening (around dusk)) : 1 meaning(s), 2 sentences
