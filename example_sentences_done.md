@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5922 words**
+**Total: 5932 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4824,16 +4824,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-003` : โทร (to call (by phone)) : 1 meaning(s), 2 sentences
 - `wlt-c11-004` : ธง (flag) : 1 meaning(s), 2 sentences
 - `wlt-c11-005` : นโยบาย (policy, plan) : 1 meaning(s), 2 sentences
+- `wlt-c11-006` : น้องเขย, พี่เขย (brother-in-law) : 1 meaning(s), 2 sentences
+- `wlt-c11-007` : น้อยหน่า (custard apple) : 1 meaning(s), 2 sentences
 - `wlt-c11-009` : นักกีฬา (athlete) : 1 meaning(s), 2 sentences
 - `wlt-c11-010` : นักเขียน (writer) : 1 meaning(s), 2 sentences
+- `wlt-c11-011` : นักธุรกิจ (businessman, businessperson) : 1 meaning(s), 2 sentences
+- `wlt-c11-012` : นักประพันธ์ (writer, author, composer (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-013` : นักร้อง (singer) : 1 meaning(s), 2 sentences
 - `wlt-c11-014` : นับ (to count) : 1 meaning(s), 2 sentences
 - `wlt-c11-016` : น่ากลัว (scary, frightening) : 1 meaning(s), 2 sentences
+- `wlt-c11-017` : นางสาว (Miss (+ name)) : 1 meaning(s), 2 sentences
+- `wlt-c11-018` : นามบัตร (business card) : 1 meaning(s), 2 sentences
 - `wlt-c11-019` : นำ (to bring; to lead, to guide) : 2 meaning(s), 4 sentences
+- `wlt-c11-020` : น้ำส้ม (orange juice, orange soda) : 1 meaning(s), 2 sentences
 - `wlt-c11-021` : น้ำหนัก (weight) : 1 meaning(s), 2 sentences
 - `wlt-c11-022` : น้ำหอม (perfume) : 1 meaning(s), 2 sentences
 - `wlt-c11-023` : นึก (to think) : 1 meaning(s), 2 sentences
+- `wlt-c11-024` : เนยแข็ง (cheese) : 1 meaning(s), 2 sentences
 - `wlt-c11-025` : แน่ใจ (sure, certain) : 1 meaning(s), 2 sentences
+- `wlt-c11-026` : โน่น (that (far away), over there) : 1 meaning(s), 2 sentences
 - `wlt-c11-027` : บ่อย, มัก (often) : 1 meaning(s), 2 sentences
 - `wlt-c11-028` : บันทึก (to record, to note) : 1 meaning(s), 2 sentences
 - `wlt-c11-029` : บ้า (crazy) : 1 meaning(s), 2 sentences
@@ -4843,6 +4852,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-034` : เบื่อ (bored) : 1 meaning(s), 2 sentences
 - `wlt-c11-035` : แบก (to carry (on the shoulder or back)) : 1 meaning(s), 2 sentences
 - `wlt-c11-036` : ใบขับขี่ (driver's license) : 1 meaning(s), 2 sentences
+- `wlt-c11-037` : ประจำวัน, รายวัน (daily) : 1 meaning(s), 2 sentences
 - `wlt-c11-038` : ประชุม (to hold a meeting) : 1 meaning(s), 2 sentences
 - `wlt-c11-039` : ประเภท (type, sort, category) : 1 meaning(s), 2 sentences
 - `wlt-c11-042` : ปลอดภัย (safe, out of danger) : 1 meaning(s), 2 sentences

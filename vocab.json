@@ -182658,6 +182658,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "brother-in-law",
+        "sentences": [
+          {
+            "thai": "พี่เขยของฉันทำงานธนาคาร",
+            "en": "My brother-in-law works at a bank.",
+            "audio_src": "พี่เขยของฉันทำงานธนาคาร",
+            "audio_en_src": "My brother-in-law works at a bank."
+          },
+          {
+            "thai": "น้องเขยเพิ่งแต่งงานกับน้องสาว",
+            "en": "My brother-in-law just married my younger sister.",
+            "audio_src": "น้องเขยเพิ่งแต่งงานกับน้องสาว",
+            "audio_en_src": "My brother-in-law just married my younger sister."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182668,6 +182687,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "custard apple",
+        "sentences": [
+          {
+            "thai": "น้อยหน่าสุกเนื้อหวานนุ่ม",
+            "en": "Ripe custard apple is sweet and soft.",
+            "audio_src": "น้อยหน่าสุกเนื้อหวานนุ่ม",
+            "audio_en_src": "Ripe custard apple is sweet and soft."
+          },
+          {
+            "thai": "น้อยหน่ามีเมล็ดดำเยอะ",
+            "en": "Custard apple has a lot of black seeds.",
+            "audio_src": "น้อยหน่ามีเมล็ดดำเยอะ",
+            "audio_en_src": "Custard apple has a lot of black seeds."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182743,6 +182781,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "businessman, businessperson",
+        "sentences": [
+          {
+            "thai": "เขาเป็นนักธุรกิจที่ประสบความสำเร็จ",
+            "en": "He's a successful businessman.",
+            "audio_src": "เขาเป็นนักธุรกิจที่ประสบความสำเร็จ",
+            "audio_en_src": "He's a successful businessman."
+          },
+          {
+            "thai": "นักธุรกิจเดินทางไปประชุมต่างประเทศ",
+            "en": "The businessman travels abroad for meetings.",
+            "audio_src": "นักธุรกิจเดินทางไปประชุมต่างประเทศ",
+            "audio_en_src": "The businessman travels abroad for meetings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182753,6 +182810,25 @@
     "topic": "culture",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "writer, author, composer (formal)",
+        "sentences": [
+          {
+            "thai": "นักประพันธ์คนนี้เขียนนิยายหลายเล่ม",
+            "en": "This author has written many novels.",
+            "audio_src": "นักประพันธ์คนนี้เขียนนิยายหลายเล่ม",
+            "audio_en_src": "This author has written many novels."
+          },
+          {
+            "thai": "นักประพันธ์เพลงแต่งเพลงประกอบหนัง",
+            "en": "The composer wrote the film's score.",
+            "audio_src": "นักประพันธ์เพลงแต่งเพลงประกอบหนัง",
+            "audio_en_src": "The composer wrote the film's score."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182862,6 +182938,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Miss (+ name)",
+        "sentences": [
+          {
+            "thai": "นางสาวสมหญิงเป็นครูโรงเรียนนี้",
+            "en": "Miss Somying is a teacher at this school.",
+            "audio_src": "นางสาวสมหญิงเป็นครูโรงเรียนนี้",
+            "audio_en_src": "Miss Somying is a teacher at this school."
+          },
+          {
+            "thai": "ใบสมัครเขียนคำนำหน้าว่านางสาว",
+            "en": "The application form has the title \"Miss\".",
+            "audio_src": "ใบสมัครเขียนคำนำหน้าว่านางสาว",
+            "audio_en_src": "The application form has the title \"Miss\"."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182872,6 +182967,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "business card",
+        "sentences": [
+          {
+            "thai": "เขายื่นนามบัตรให้ลูกค้า",
+            "en": "He handed his business card to the client.",
+            "audio_src": "เขายื่นนามบัตรให้ลูกค้า",
+            "audio_en_src": "He handed his business card to the client."
+          },
+          {
+            "thai": "บนนามบัตรมีเบอร์โทรและอีเมล",
+            "en": "The business card has a phone number and email.",
+            "audio_src": "บนนามบัตรมีเบอร์โทรและอีเมล",
+            "audio_en_src": "The business card has a phone number and email."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182931,6 +183045,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "orange juice, orange soda",
+        "sentences": [
+          {
+            "thai": "เช้านี้ดื่มน้ำส้มคั้นสด",
+            "en": "This morning I had some fresh orange juice.",
+            "audio_src": "เช้านี้ดื่มน้ำส้มคั้นสด",
+            "audio_en_src": "This morning I had some fresh orange juice."
+          },
+          {
+            "thai": "เขาสั่งน้ำส้มเย็นมาหนึ่งแก้ว",
+            "en": "He ordered a glass of cold orange juice.",
+            "audio_src": "เขาสั่งน้ำส้มเย็นมาหนึ่งแก้ว",
+            "audio_en_src": "He ordered a glass of cold orange juice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -183038,6 +183171,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cheese",
+        "sentences": [
+          {
+            "thai": "พิซซ่าโรยเนยแข็งเยอะๆ",
+            "en": "Pizza topped with lots of cheese.",
+            "audio_src": "พิซซ่าโรยเนยแข็งเยอะๆ",
+            "audio_en_src": "Pizza topped with lots of cheese."
+          },
+          {
+            "thai": "เนยแข็งบางชนิดกลิ่นแรง",
+            "en": "Some cheeses have a strong smell.",
+            "audio_src": "เนยแข็งบางชนิดกลิ่นแรง",
+            "audio_en_src": "Some cheeses have a strong smell."
+          }
+        ]
+      }
     ]
   },
   {
@@ -183083,6 +183235,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "that (far away), over there",
+        "sentences": [
+          {
+            "thai": "บ้านของเขาอยู่โน่น",
+            "en": "His house is over there.",
+            "audio_src": "บ้านของเขาอยู่โน่น",
+            "audio_en_src": "His house is over there."
+          },
+          {
+            "thai": "มองไปโน่นสิ มีสายรุ้ง",
+            "en": "Look over there, there's a rainbow.",
+            "audio_src": "มองไปโน่นสิ มีสายรุ้ง",
+            "audio_en_src": "Look over there, there's a rainbow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -183402,6 +183573,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "daily",
+        "sentences": [
+          {
+            "thai": "เขาอ่านข่าวประจำวันทุกเช้า",
+            "en": "He reads the daily news every morning.",
+            "audio_src": "เขาอ่านข่าวประจำวันทุกเช้า",
+            "audio_en_src": "He reads the daily news every morning."
+          },
+          {
+            "thai": "พนักงานได้ค่าจ้างรายวัน",
+            "en": "The workers are paid daily wages.",
+            "audio_src": "พนักงานได้ค่าจ้างรายวัน",
+            "audio_en_src": "The workers are paid daily wages."
+          }
+        ]
+      }
     ]
   },
   {
