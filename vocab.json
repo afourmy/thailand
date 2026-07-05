@@ -201457,6 +201457,25 @@
     "topic": "slang",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "drunkard, alcoholic",
+        "sentences": [
+          {
+            "thai": "พ่อบ้านข้างๆเป็นคนขี้เมา",
+            "en": "The man next door is a drunkard.",
+            "audio_src": "พ่อบ้านข้างๆเป็นคนขี้เมา",
+            "audio_en_src": "The man next door is a drunkard."
+          },
+          {
+            "thai": "เขาขี้เมากลับบ้านดึกทุกคืน",
+            "en": "He's a drunk who comes home late every night.",
+            "audio_src": "เขาขี้เมากลับบ้านดึกทุกคืน",
+            "audio_en_src": "He's a drunk who comes home late every night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201477,6 +201496,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "dengue fever",
+        "sentences": [
+          {
+            "thai": "ยุงลายเป็นพาหะของไข้เลือดออก",
+            "en": "The Aedes mosquito carries dengue fever.",
+            "audio_src": "ยุงลายเป็นพาหะของไข้เลือดออก",
+            "audio_en_src": "The Aedes mosquito carries dengue fever."
+          },
+          {
+            "thai": "เขาป่วยเป็นไข้เลือดออกต้องนอนโรงพยาบาล",
+            "en": "He got dengue fever and had to stay in the hospital.",
+            "audio_src": "เขาป่วยเป็นไข้เลือดออกต้องนอนโรงพยาบาล",
+            "audio_en_src": "He got dengue fever and had to stay in the hospital."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201552,6 +201590,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "the second time",
+        "sentences": [
+          {
+            "thai": "นี่เป็นครั้งที่สองที่เขามาสาย",
+            "en": "This is the second time he's been late.",
+            "audio_src": "นี่เป็นครั้งที่สองที่เขามาสาย",
+            "audio_en_src": "This is the second time he's been late."
+          },
+          {
+            "thai": "ครั้งที่สองสอบผ่านแล้ว",
+            "en": "The second time, I passed the exam.",
+            "audio_src": "ครั้งที่สองสอบผ่านแล้ว",
+            "audio_en_src": "The second time, I passed the exam."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201595,6 +201652,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "love",
+        "sentences": [
+          {
+            "thai": "ความรักทำให้คนเรามีความสุข",
+            "en": "Love makes people happy.",
+            "audio_src": "ความรักทำให้คนเรามีความสุข",
+            "audio_en_src": "Love makes people happy."
+          },
+          {
+            "thai": "พ่อแม่ให้ความรักกับลูกเสมอ",
+            "en": "Parents always give their children love.",
+            "audio_src": "พ่อแม่ให้ความรักกับลูกเสมอ",
+            "audio_en_src": "Parents always give their children love."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201606,6 +201682,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "happiness",
+        "sentences": [
+          {
+            "thai": "ความสุขเล็กๆอยู่รอบตัวเรา",
+            "en": "Small joys are all around us.",
+            "audio_src": "ความสุขเล็กๆอยู่รอบตัวเรา",
+            "audio_en_src": "Small joys are all around us."
+          },
+          {
+            "thai": "เงินซื้อความสุขไม่ได้ทุกอย่าง",
+            "en": "Money can't buy all happiness.",
+            "audio_src": "เงินซื้อความสุขไม่ได้ทุกอย่าง",
+            "audio_en_src": "Money can't buy all happiness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201616,6 +201711,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "homesick",
+        "sentences": [
+          {
+            "thai": "ไปเรียนต่างเมืองแล้วคิดถึงบ้าน",
+            "en": "Studying in another city, I feel homesick.",
+            "audio_src": "ไปเรียนต่างเมืองแล้วคิดถึงบ้าน",
+            "audio_en_src": "Studying in another city, I feel homesick."
+          },
+          {
+            "thai": "เขาคิดถึงบ้านจนน้ำตาไหล",
+            "en": "He was so homesick he cried.",
+            "audio_src": "เขาคิดถึงบ้านจนน้ำตาไหล",
+            "audio_en_src": "He was so homesick he cried."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201692,6 +201806,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sincere",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเพื่อนที่จริงใจ",
+            "en": "He's a sincere friend.",
+            "audio_src": "เขาเป็นเพื่อนที่จริงใจ",
+            "audio_en_src": "He's a sincere friend."
+          },
+          {
+            "thai": "ขอบคุณที่จริงใจกับฉันเสมอ",
+            "en": "Thanks for always being sincere with me.",
+            "audio_src": "ขอบคุณที่จริงใจกับฉันเสมอ",
+            "audio_en_src": "Thanks for always being sincere with me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201832,6 +201965,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "spoon and fork",
+        "sentences": [
+          {
+            "thai": "วางช้อนส้อมข้างจาน",
+            "en": "Place the spoon and fork beside the plate.",
+            "audio_src": "วางช้อนส้อมข้างจาน",
+            "audio_en_src": "Place the spoon and fork beside the plate."
+          },
+          {
+            "thai": "คนไทยกินข้าวด้วยช้อนส้อม",
+            "en": "Thai people eat rice with a spoon and fork.",
+            "audio_src": "คนไทยกินข้าวด้วยช้อนส้อม",
+            "audio_en_src": "Thai people eat rice with a spoon and fork."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201935,6 +202087,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "platform",
+        "sentences": [
+          {
+            "thai": "ผู้โดยสารรอรถไฟบนชานชาลา",
+            "en": "Passengers wait for the train on the platform.",
+            "audio_src": "ผู้โดยสารรอรถไฟบนชานชาลา",
+            "audio_en_src": "Passengers wait for the train on the platform."
+          },
+          {
+            "thai": "รถไฟเทียบชานชาลาที่สาม",
+            "en": "The train pulls up to platform three.",
+            "audio_src": "รถไฟเทียบชานชาลาที่สาม",
+            "audio_en_src": "The train pulls up to platform three."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202009,6 +202180,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "\"hooray\", \"cheers\"",
+        "sentences": [
+          {
+            "thai": "ทีมชนะแล้ว ไชโย",
+            "en": "The team won, hooray!",
+            "audio_src": "ทีมชนะแล้ว ไชโย",
+            "audio_en_src": "The team won, hooray!"
+          },
+          {
+            "thai": "ทุกคนยกแก้วพร้อมตะโกนไชโย",
+            "en": "Everyone raised their glasses and shouted \"cheers\".",
+            "audio_src": "ทุกคนยกแก้วพร้อมตะโกนไชโย",
+            "audio_en_src": "Everyone raised their glasses and shouted \"cheers\"."
+          }
+        ]
+      }
     ]
   },
   {

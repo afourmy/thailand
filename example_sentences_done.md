@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6022 words**
+**Total: 6032 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5386,20 +5386,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-000` : ใกล้จะ (about to, nearly, almost) : 1 meaning(s), 2 sentences
 - `wlt-c18-001` : ใกล้จะหมดอายุ (about to expire, nearly expired) : 1 meaning(s), 2 sentences
 - `wlt-c18-002` : ขอทาง (to ask to give way, to request to pass through) : 1 meaning(s), 2 sentences
+- `wlt-c18-004` : ขี้เมา (drunkard, alcoholic) : 1 meaning(s), 2 sentences
+- `wlt-c18-007` : ไข้เลือดออก (dengue fever) : 1 meaning(s), 2 sentences
 - `wlt-c18-009` : ชาวต่างชาติ, คนต่างประเทศ (foreigner) : 1 meaning(s), 2 sentences
 - `wlt-c18-013` : คนยุโรป (European) : 1 meaning(s), 2 sentences
+- `wlt-c18-015` : ครั้งที่สอง (the second time) : 1 meaning(s), 2 sentences
 - `wlt-c18-016` : ครั้งนี้ (this time) : 1 meaning(s), 2 sentences
+- `wlt-c18-017` : ความรัก (love) : 1 meaning(s), 2 sentences
+- `wlt-c18-018` : ความสุข (happiness) : 1 meaning(s), 2 sentences
+- `wlt-c18-020` : คิดถึงบ้าน (homesick) : 1 meaning(s), 2 sentences
 - `wlt-c18-022` : แค่ (just, only) : 1 meaning(s), 2 sentences
 - `wlt-c18-023` : จมน้ำ (to drown, to sink) : 1 meaning(s), 2 sentences
+- `wlt-c18-024` : จริงใจ (sincere) : 1 meaning(s), 2 sentences
 - `wlt-c18-025` : จั๊กจี้ (tickly, to tickle) : 1 meaning(s), 2 sentences
 - `wlt-c18-027` : เจ็บคอ (sore throat) : 1 meaning(s), 2 sentences
 - `wlt-c18-030` : ฉีดยา (to get an injection) : 1 meaning(s), 2 sentences
 - `wlt-c18-031` : ช่วยด้วย (help!) : 1 meaning(s), 2 sentences
+- `wlt-c18-032` : ช้อนส้อม (spoon and fork) : 1 meaning(s), 2 sentences
 - `wlt-c18-033` : ชั้นสอง (second floor) : 1 meaning(s), 2 sentences
 - `wlt-c18-034` : ชั้นหนึ่ง (first floor, first class) : 1 meaning(s), 2 sentences
 - `wlt-c18-036` : ช่างยนต์ (car mechanic (technician who repairs cars)) : 1 meaning(s), 2 sentences
+- `wlt-c18-037` : ชานชาลา (platform) : 1 meaning(s), 2 sentences
 - `wlt-c18-038` : ชาวเอเชีย (Asian) : 1 meaning(s), 2 sentences
 - `wlt-c18-040` : ใช้เงิน (to spend money) : 1 meaning(s), 2 sentences
+- `wlt-c18-041` : ไชโย ("hooray", "cheers") : 1 meaning(s), 2 sentences
 - `wlt-c18-043` : ซิ่ง (to drive very fast, to race) : 1 meaning(s), 2 sentences
 - `wlt-c18-045` : ดูเหมือน (looks like) : 1 meaning(s), 2 sentences
 - `wlt-c18-048` : เดินเล่น (to take a walk) : 1 meaning(s), 2 sentences
