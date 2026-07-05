@@ -220745,6 +220745,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "court judgment, verdict",
+        "sentences": [
+          {
+            "thai": "ศาลอ่านคำพิพากษาในวันนี้",
+            "en": "The court read out the verdict today.",
+            "audio_src": "ศาลอ่านคำพิพากษาในวันนี้",
+            "audio_en_src": "The court read out the verdict today."
+          },
+          {
+            "thai": "คำพิพากษายังไม่ถึงที่สุด",
+            "en": "The judgment is not yet final.",
+            "audio_src": "คำพิพากษายังไม่ถึงที่สุด",
+            "audio_en_src": "The judgment is not yet final."
+          }
+        ]
+      }
     ]
   },
   {
@@ -220807,6 +220826,25 @@
     "sources": [
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "jealous",
+        "sentences": [
+          {
+            "thai": "อย่ามาอิจฉาฉันเลย",
+            "en": "Don't be jealous of me.",
+            "audio_src": "อย่ามาอิจฉาฉันเลย",
+            "audio_en_src": "Don't be jealous of me."
+          },
+          {
+            "thai": "เขาอิจฉาที่เพื่อนได้เลื่อนตำแหน่ง",
+            "en": "He's jealous that his friend got promoted.",
+            "audio_src": "เขาอิจฉาที่เพื่อนได้เลื่อนตำแหน่ง",
+            "audio_en_src": "He's jealous that his friend got promoted."
+          }
+        ]
+      }
     ]
   },
   {
@@ -220858,6 +220896,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "only if, only when",
+        "sentences": [
+          {
+            "thai": "เขาจะมาก็ต่อเมื่อได้รับเชิญ",
+            "en": "He'll come only if he's invited.",
+            "audio_src": "เขาจะมาก็ต่อเมื่อได้รับเชิญ",
+            "audio_en_src": "He'll come only if he's invited."
+          },
+          {
+            "thai": "ปัญหาจะหมดไปต่อเมื่อเราแก้ที่ต้นเหตุ",
+            "en": "The problem will go away only when we fix the root cause.",
+            "audio_src": "ปัญหาจะหมดไปต่อเมื่อเราแก้ที่ต้นเหตุ",
+            "audio_en_src": "The problem will go away only when we fix the root cause."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221149,6 +221206,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "happy, content, to enjoy oneself (formal)",
+        "sentences": [
+          {
+            "thai": "ทุกคนสำราญกันในงานเลี้ยง",
+            "en": "Everyone had a wonderful time at the party.",
+            "audio_src": "ทุกคนสำราญกันในงานเลี้ยง",
+            "audio_en_src": "Everyone had a wonderful time at the party."
+          },
+          {
+            "thai": "เขาใช้ชีวิตบั้นปลายอย่างสำราญ",
+            "en": "He spends his later years in contentment.",
+            "audio_src": "เขาใช้ชีวิตบั้นปลายอย่างสำราญ",
+            "audio_en_src": "He spends his later years in contentment."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221221,6 +221297,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "plaintiff (party filing a legal case)",
+        "sentences": [
+          {
+            "thai": "โจทก์ยื่นฟ้องต่อศาลเมื่อวานนี้",
+            "en": "The plaintiff filed suit with the court yesterday.",
+            "audio_src": "โจทก์ยื่นฟ้องต่อศาลเมื่อวานนี้",
+            "audio_en_src": "The plaintiff filed suit with the court yesterday."
+          },
+          {
+            "thai": "ทนายของโจทก์แถลงต่อศาล",
+            "en": "The plaintiff's lawyer addressed the court.",
+            "audio_src": "ทนายของโจทก์แถลงต่อศาล",
+            "audio_en_src": "The plaintiff's lawyer addressed the court."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221263,6 +221358,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "completely finished, exhausted, used up",
+        "sentences": [
+          {
+            "thai": "เงินเก็บของเขาหมดสิ้นแล้ว",
+            "en": "His savings are completely gone.",
+            "audio_src": "เงินเก็บของเขาหมดสิ้นแล้ว",
+            "audio_en_src": "His savings are completely gone."
+          },
+          {
+            "thai": "ความอดทนของฉันหมดสิ้นแล้ว",
+            "en": "My patience is completely exhausted.",
+            "audio_src": "ความอดทนของฉันหมดสิ้นแล้ว",
+            "audio_en_src": "My patience is completely exhausted."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221345,6 +221459,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "after that, afterwards",
+        "sentences": [
+          {
+            "thai": "เรากินข้าวเสร็จ ต่อจากนั้นก็ไปดูหนัง",
+            "en": "We finished eating, and after that we went to a movie.",
+            "audio_src": "เรากินข้าวเสร็จ ต่อจากนั้นก็ไปดูหนัง",
+            "audio_en_src": "We finished eating, and after that we went to a movie."
+          },
+          {
+            "thai": "เขาเรียนจบ ต่อจากนั้นก็เริ่มทำงานทันที",
+            "en": "He graduated, and afterwards started working right away.",
+            "audio_src": "เขาเรียนจบ ต่อจากนั้นก็เริ่มทำงานทันที",
+            "audio_en_src": "He graduated, and afterwards started working right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221396,6 +221529,25 @@
     "topic": "family",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "friends, group of friends",
+        "sentences": [
+          {
+            "thai": "เขามีเพื่อนฝูงเยอะ",
+            "en": "He has a lot of friends.",
+            "audio_src": "เขามีเพื่อนฝูงเยอะ",
+            "audio_en_src": "He has a lot of friends."
+          },
+          {
+            "thai": "วันหยุดเขาชอบไปเที่ยวกับเพื่อนฝูง",
+            "en": "On his days off he likes to go out with his friends.",
+            "audio_src": "วันหยุดเขาชอบไปเที่ยวกับเพื่อนฝูง",
+            "audio_en_src": "On his days off he likes to go out with his friends."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221549,6 +221701,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "regulation, rule",
+        "sentences": [
+          {
+            "thai": "พนักงานต้องปฏิบัติตามข้อบังคับของบริษัท",
+            "en": "Employees must follow the company's regulations.",
+            "audio_src": "พนักงานต้องปฏิบัติตามข้อบังคับของบริษัท",
+            "audio_en_src": "Employees must follow the company's regulations."
+          },
+          {
+            "thai": "ข้อบังคับใหม่เริ่มใช้เดือนหน้า",
+            "en": "The new rules take effect next month.",
+            "audio_src": "ข้อบังคับใหม่เริ่มใช้เดือนหน้า",
+            "audio_en_src": "The new rules take effect next month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221703,6 +221874,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "up until now, up to the present",
+        "sentences": [
+          {
+            "thai": "เขาทำงานที่นี่ตั้งแต่ปี 2010 เป็นต้นมา",
+            "en": "He has worked here since 2010.",
+            "audio_src": "เขาทำงานที่นี่ตั้งแต่ปี 2010 เป็นต้นมา",
+            "audio_en_src": "He has worked here since 2010."
+          },
+          {
+            "thai": "ตั้งแต่ย้ายมากรุงเทพเป็นต้นมา ชีวิตก็เปลี่ยนไปมาก",
+            "en": "Since moving to Bangkok, life has changed a lot.",
+            "audio_src": "ตั้งแต่ย้ายมากรุงเทพเป็นต้นมา ชีวิตก็เปลี่ยนไปมาก",
+            "audio_en_src": "Since moving to Bangkok, life has changed a lot."
+          }
+        ]
+      }
     ]
   },
   {
