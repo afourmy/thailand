@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5992 words**
+**Total: 6002 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5097,13 +5097,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-044` : เยอะ, เยอะแยะ (a lot, plenty) : 1 meaning(s), 2 sentences
 - `wlt-c14-045` : รถทัวร์ (bus (inter-city), airconditioned bus (coach)) : 1 meaning(s), 2 sentences
 - `wlt-c14-046` : ร่วมมือ (to cooperate, to collaborate, to work together) : 1 meaning(s), 2 sentences
+- `wlt-c14-048` : รส (taste, flavor) : 1 meaning(s), 2 sentences
 - `wlt-c14-049` : ร้องไห้ (to cry) : 1 meaning(s), 2 sentences
 - `wlt-c14-050` : ระวัง (careful) : 1 meaning(s), 2 sentences
+- `wlt-c14-051` : รับประทาน (to eat (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c14-052` : รัสเซีย (Russia) : 1 meaning(s), 2 sentences
 - `wlt-c14-053` : ร้านตัดผม (barber shop) : 1 meaning(s), 2 sentences
 - `wlt-c14-054` : รีบ (to hurry) : 1 meaning(s), 2 sentences
 - `wlt-c14-057` : ลด (to reduce, to lower; to discount) : 2 meaning(s), 4 sentences
 - `wlt-c14-058` : ล้ม (to fall down, to topple, to collapse) : 1 meaning(s), 2 sentences
+- `wlt-c14-059` : ล่วงหน้า (in advance, beforehand) : 1 meaning(s), 2 sentences
 - `wlt-c14-060` : ลอง (to try out) : 1 meaning(s), 2 sentences
 - `wlt-c14-061` : ลาว (Laos) : 1 meaning(s), 2 sentences
 - `wlt-c14-062` : เลข (number, numeral; (informal) math) : 2 meaning(s), 4 sentences
@@ -5112,6 +5115,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-066` : เว้น (to leave out, to omit, to skip) : 1 meaning(s), 2 sentences
 - `wlt-c14-067` : เวียดนาม (Vietnam, Vietnamese) : 1 meaning(s), 2 sentences
 - `wlt-c14-068` : แว่นตา (glasses) : 1 meaning(s), 2 sentences
+- `wlt-c14-069` : ศาสนาคริสต์ (Christianity) : 1 meaning(s), 2 sentences
 - `wlt-c14-071` : สตางค์ (satang) : 1 meaning(s), 2 sentences
 - `wlt-c14-073` : ส่วนตัว (private, personal) : 1 meaning(s), 2 sentences
 - `wlt-c14-079` : สหรัฐอเมริกา (United States of America) : 1 meaning(s), 2 sentences
@@ -5130,6 +5134,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-094` : ห้าม (to forbid) : 1 meaning(s), 2 sentences
 - `wlt-c14-095` : หิว, หิวข้าว (hungry) : 1 meaning(s), 2 sentences
 - `wlt-c14-096` : หิวน้ำ (thirsty) : 1 meaning(s), 2 sentences
+- `wlt-c14-097` : เหงื่อ (sweat) : 1 meaning(s), 2 sentences
 - `wlt-c14-098` : เหนื่อย (tired, fatigued) : 1 meaning(s), 2 sentences
 - `wlt-c14-099` : เหมือน (like, as, as if, same as) : 1 meaning(s), 2 sentences
 - `wlt-c15-000` : แห่ง (classifier for places) : 1 meaning(s), 2 sentences
@@ -5139,6 +5144,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-007` : อาหารเช้า (breakfast) : 1 meaning(s), 2 sentences
 - `wlt-c15-009` : อินเดีย (India, Indian) : 1 meaning(s), 2 sentences
 - `wlt-c15-015` : อื่น (other, different) : 1 meaning(s), 2 sentences
+- `wlt-c15-016` : เอว (waist) : 1 meaning(s), 2 sentences
 - `wlt-c15-018` : ฮ่องกง (Hong Kong) : 1 meaning(s), 2 sentences
 - `wlt-c15-020` : กระป๋อง (can, tin can) : 1 meaning(s), 2 sentences
 - `wlt-c15-021` : กล่อง (box, case) : 1 meaning(s), 2 sentences
@@ -5157,6 +5163,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-034` : ข้างล่าง (below, under) : 1 meaning(s), 2 sentences
 - `wlt-c15-035` : ขี้เกียจ (lazy) : 1 meaning(s), 2 sentences
 - `wlt-c15-036` : เขมร (Cambodia, Cambodian) : 1 meaning(s), 2 sentences
+- `wlt-c15-037` : เข่า (knees) : 1 meaning(s), 2 sentences
 - `wlt-c15-038` : เข้า (to enter) : 1 meaning(s), 2 sentences
 - `wlt-c15-039` : แข็ง (hard (not soft)) : 1 meaning(s), 2 sentences
 - `wlt-c15-040` : ไข้ (fever) : 1 meaning(s), 2 sentences
@@ -5178,6 +5185,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-061` : ดิฉัน, ฉัน (I, me (female speaker)) : 1 meaning(s), 2 sentences
 - `wlt-c15-062` : เดียว, อย่างเดียว (only, single, alone) : 1 meaning(s), 2 sentences
 - `wlt-c15-064` : ตรวจ (to inspect) : 1 meaning(s), 2 sentences
+- `wlt-c15-065` : ตลอด (throughout, always, all the time, continually) : 1 meaning(s), 2 sentences
 - `wlt-c15-066` : ต่อไป (next, later) : 1 meaning(s), 2 sentences
 - `wlt-c15-067` : ตะวันออกเฉียงใต้ (southeast) : 1 meaning(s), 2 sentences
 - `wlt-c15-068` : ตั้งแต่ (from, since) : 1 meaning(s), 2 sentences
@@ -5194,6 +5202,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-080` : ทุก (every, each) : 1 meaning(s), 2 sentences
 - `wlt-c15-082` : นักเรียน (student) : 1 meaning(s), 2 sentences
 - `wlt-c15-083` : นั่ง (to sit) : 1 meaning(s), 2 sentences
+- `wlt-c15-084` : นับถือ (to believe in (a religion)) : 1 meaning(s), 2 sentences
 - `wlt-c15-085` : นาน (long (in time)) : 1 meaning(s), 2 sentences
 - `wlt-c15-086` : น่าเบื่อ (boring, dull, tedious, tiresome) : 1 meaning(s), 2 sentences
 - `wlt-c15-087` : นามสกุล (family name) : 1 meaning(s), 2 sentences
@@ -5201,6 +5210,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-090` : บางที (sometimes; maybe, perhaps) : 2 meaning(s), 4 sentences
 - `wlt-c15-091` : บาท (Baht) : 1 meaning(s), 2 sentences
 - `wlt-c15-094` : ประกาศ (to announce) : 1 meaning(s), 2 sentences
+- `wlt-c15-096` : ปั๊มน้ำมัน (gas pump, gas station) : 1 meaning(s), 2 sentences
 - `wlt-c15-098` : ผลไม้ (fruit) : 1 meaning(s), 2 sentences
 - `wlt-c15-099` : ผ้าห่ม (blanket) : 1 meaning(s), 2 sentences
 - `wlt-c16-000` : ฝรั่งเศส (France, French) : 1 meaning(s), 2 sentences

@@ -191636,6 +191636,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "taste, flavor",
+        "sentences": [
+          {
+            "thai": "อาหารจานนี้รสจัดจ้าน",
+            "en": "This dish has a bold flavor.",
+            "audio_src": "อาหารจานนี้รสจัดจ้าน",
+            "audio_en_src": "This dish has a bold flavor."
+          },
+          {
+            "thai": "เขาชอบขนมรสหวาน",
+            "en": "He likes sweet-flavored snacks.",
+            "audio_src": "เขาชอบขนมรสหวาน",
+            "audio_en_src": "He likes sweet-flavored snacks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -191715,6 +191734,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to eat (formal)",
+        "sentences": [
+          {
+            "thai": "เชิญรับประทานอาหารตามสบาย",
+            "en": "Please help yourself to the food.",
+            "audio_src": "เชิญรับประทานอาหารตามสบาย",
+            "audio_en_src": "Please help yourself to the food."
+          },
+          {
+            "thai": "ก่อนรับประทานยาควรอ่านฉลาก",
+            "en": "You should read the label before taking the medicine.",
+            "audio_src": "ก่อนรับประทานยาควรอ่านฉลาก",
+            "audio_en_src": "You should read the label before taking the medicine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -191917,6 +191955,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "in advance, beforehand",
+        "sentences": [
+          {
+            "thai": "จองตั๋วล่วงหน้าได้ราคาถูกกว่า",
+            "en": "Booking tickets in advance is cheaper.",
+            "audio_src": "จองตั๋วล่วงหน้าได้ราคาถูกกว่า",
+            "audio_en_src": "Booking tickets in advance is cheaper."
+          },
+          {
+            "thai": "เขาแจ้งลางานล่วงหน้าหนึ่งสัปดาห์",
+            "en": "He requested leave a week in advance.",
+            "audio_src": "เขาแจ้งลางานล่วงหน้าหนึ่งสัปดาห์",
+            "audio_en_src": "He requested leave a week in advance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -192218,6 +192275,25 @@
     "topic": "beliefs",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Christianity",
+        "sentences": [
+          {
+            "thai": "ศาสนาคริสต์มีคริสต์มาสเป็นวันสำคัญ",
+            "en": "Christianity has Christmas as an important day.",
+            "audio_src": "ศาสนาคริสต์มีคริสต์มาสเป็นวันสำคัญ",
+            "audio_en_src": "Christianity has Christmas as an important day."
+          },
+          {
+            "thai": "เขานับถือศาสนาคริสต์ไปโบสถ์ทุกวันอาทิตย์",
+            "en": "He's Christian and goes to church every Sunday.",
+            "audio_src": "เขานับถือศาสนาคริสต์ไปโบสถ์ทุกวันอาทิตย์",
+            "audio_en_src": "He's Christian and goes to church every Sunday."
+          }
+        ]
+      }
     ]
   },
   {
@@ -192834,6 +192910,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sweat",
+        "sentences": [
+          {
+            "thai": "อากาศร้อนจนเหงื่อไหล",
+            "en": "It's so hot the sweat is dripping.",
+            "audio_src": "อากาศร้อนจนเหงื่อไหล",
+            "audio_en_src": "It's so hot the sweat is dripping."
+          },
+          {
+            "thai": "ออกกำลังกายเสียเหงื่อเยอะ",
+            "en": "Exercising makes you sweat a lot.",
+            "audio_src": "ออกกำลังกายเสียเหงื่อเยอะ",
+            "audio_en_src": "Exercising makes you sweat a lot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -193143,6 +193238,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "waist",
+        "sentences": [
+          {
+            "thai": "เธอเอวเล็กใส่กระโปรงสวย",
+            "en": "She has a small waist and looks great in a skirt.",
+            "audio_src": "เธอเอวเล็กใส่กระโปรงสวย",
+            "audio_en_src": "She has a small waist and looks great in a skirt."
+          },
+          {
+            "thai": "ยกของหนักระวังปวดเอว",
+            "en": "Be careful lifting heavy things or you'll hurt your lower back.",
+            "audio_src": "ยกของหนักระวังปวดเอว",
+            "audio_en_src": "Be careful lifting heavy things or you'll hurt your lower back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -193766,6 +193880,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "knees",
+        "sentences": [
+          {
+            "thai": "เขาคุกเข่าลงขอแต่งงาน",
+            "en": "He knelt down to propose.",
+            "audio_src": "เขาคุกเข่าลงขอแต่งงาน",
+            "audio_en_src": "He knelt down to propose."
+          },
+          {
+            "thai": "วิ่งเยอะเกินไปทำให้เจ็บเข่า",
+            "en": "Running too much makes your knees hurt.",
+            "audio_src": "วิ่งเยอะเกินไปทำให้เจ็บเข่า",
+            "audio_en_src": "Running too much makes your knees hurt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -194504,6 +194637,25 @@
       "Thai 4000",
       "Thaipod101",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "throughout, always, all the time, continually",
+        "sentences": [
+          {
+            "thai": "เขาทำงานตลอดทั้งวันไม่พัก",
+            "en": "He works throughout the whole day without a break.",
+            "audio_src": "เขาทำงานตลอดทั้งวันไม่พัก",
+            "audio_en_src": "He works throughout the whole day without a break."
+          },
+          {
+            "thai": "ฉันจะอยู่เคียงข้างเธอตลอด",
+            "en": "I'll always be by your side.",
+            "audio_src": "ฉันจะอยู่เคียงข้างเธอตลอด",
+            "audio_en_src": "I'll always be by your side."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195081,6 +195233,25 @@
       "Anki Basics",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to believe in (a religion)",
+        "sentences": [
+          {
+            "thai": "ครอบครัวเขานับถือศาสนาพุทธ",
+            "en": "His family believes in Buddhism.",
+            "audio_src": "ครอบครัวเขานับถือศาสนาพุทธ",
+            "audio_en_src": "His family believes in Buddhism."
+          },
+          {
+            "thai": "เธอนับถือศาสนาต่างจากสามี",
+            "en": "She follows a different religion from her husband.",
+            "audio_src": "เธอนับถือศาสนาต่างจากสามี",
+            "audio_en_src": "She follows a different religion from her husband."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195343,6 +195514,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "gas pump, gas station",
+        "sentences": [
+          {
+            "thai": "แวะเติมน้ำมันที่ปั๊มน้ำมัน",
+            "en": "Stop to fill up at the gas station.",
+            "audio_src": "แวะเติมน้ำมันที่ปั๊มน้ำมัน",
+            "audio_en_src": "Stop to fill up at the gas station."
+          },
+          {
+            "thai": "ปั๊มน้ำมันมีร้านสะดวกซื้อด้วย",
+            "en": "The gas station also has a convenience store.",
+            "audio_src": "ปั๊มน้ำมันมีร้านสะดวกซื้อด้วย",
+            "audio_en_src": "The gas station also has a convenience store."
+          }
+        ]
+      }
     ]
   },
   {
