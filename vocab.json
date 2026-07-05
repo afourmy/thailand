@@ -183668,6 +183668,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sentence",
+        "sentences": [
+          {
+            "thai": "เขียนประโยคให้ถูกไวยากรณ์",
+            "en": "Write the sentence with correct grammar.",
+            "audio_src": "เขียนประโยคให้ถูกไวยากรณ์",
+            "audio_en_src": "Write the sentence with correct grammar."
+          },
+          {
+            "thai": "ประโยคนี้ยาวและเข้าใจยาก",
+            "en": "This sentence is long and hard to understand.",
+            "audio_src": "ประโยคนี้ยาวและเข้าใจยาก",
+            "audio_en_src": "This sentence is long and hard to understand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -183711,6 +183730,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "squid",
+        "sentences": [
+          {
+            "thai": "ปลาหมึกย่างจิ้มน้ำจิ้มซีฟู้ด",
+            "en": "Grilled squid with seafood dipping sauce.",
+            "audio_src": "ปลาหมึกย่างจิ้มน้ำจิ้มซีฟู้ด",
+            "audio_en_src": "Grilled squid with seafood dipping sauce."
+          },
+          {
+            "thai": "ปลาหมึกสดเนื้อกรอบเด้ง",
+            "en": "Fresh squid is crisp and springy.",
+            "audio_src": "ปลาหมึกสดเนื้อกรอบเด้ง",
+            "audio_en_src": "Fresh squid is crisp and springy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -183790,6 +183828,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to grill, to roast",
+        "sentences": [
+          {
+            "thai": "ปิ้งขนมปังกินกับแยม",
+            "en": "Toast some bread to eat with jam.",
+            "audio_src": "ปิ้งขนมปังกินกับแยม",
+            "audio_en_src": "Toast some bread to eat with jam."
+          },
+          {
+            "thai": "เขาปิ้งหมูบนเตาถ่าน",
+            "en": "He grills the pork over the charcoal stove.",
+            "audio_src": "เขาปิ้งหมูบนเตาถ่าน",
+            "audio_en_src": "He grills the pork over the charcoal stove."
+          }
+        ]
+      }
     ]
   },
   {
@@ -183800,6 +183857,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "possible, feasible",
+        "sentences": [
+          {
+            "thai": "แผนนี้เป็นไปได้ถ้ามีงบพอ",
+            "en": "This plan is feasible if there's enough budget.",
+            "audio_src": "แผนนี้เป็นไปได้ถ้ามีงบพอ",
+            "audio_en_src": "This plan is feasible if there's enough budget."
+          },
+          {
+            "thai": "เป็นไปได้ไหมที่จะเสร็จวันนี้",
+            "en": "Is it possible to finish today?",
+            "audio_src": "เป็นไปได้ไหมที่จะเสร็จวันนี้",
+            "audio_en_src": "Is it possible to finish today?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -183906,6 +183982,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to manufacture, to produce",
+        "sentences": [
+          {
+            "thai": "โรงงานผลิตรถยนต์วันละพันคัน",
+            "en": "The factory produces a thousand cars a day.",
+            "audio_src": "โรงงานผลิตรถยนต์วันละพันคัน",
+            "audio_en_src": "The factory produces a thousand cars a day."
+          },
+          {
+            "thai": "ประเทศนี้ผลิตกาแฟส่งออก",
+            "en": "This country produces coffee for export.",
+            "audio_src": "ประเทศนี้ผลิตกาแฟส่งออก",
+            "audio_en_src": "This country produces coffee for export."
+          }
+        ]
+      }
     ]
   },
   {
@@ -183917,6 +184012,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "husband (informal)",
+        "sentences": [
+          {
+            "thai": "ผัวเธอทำงานอยู่ต่างจังหวัด",
+            "en": "Her husband works upcountry.",
+            "audio_src": "ผัวเธอทำงานอยู่ต่างจังหวัด",
+            "audio_en_src": "Her husband works upcountry."
+          },
+          {
+            "thai": "เขากับผัวทะเลาะกันบ่อย",
+            "en": "She and her husband argue often.",
+            "audio_src": "เขากับผัวทะเลาะกันบ่อย",
+            "audio_en_src": "She and her husband argue often."
+          }
+        ]
+      }
     ]
   },
   {
@@ -184230,6 +184344,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "vehicle, means of transportation",
+        "sentences": [
+          {
+            "thai": "รถยนต์เป็นพาหนะที่สะดวก",
+            "en": "A car is a convenient vehicle.",
+            "audio_src": "รถยนต์เป็นพาหนะที่สะดวก",
+            "audio_en_src": "A car is a convenient vehicle."
+          },
+          {
+            "thai": "สมัยก่อนช้างเป็นพาหนะในการเดินทาง",
+            "en": "In the past, elephants were a means of transport.",
+            "audio_src": "สมัยก่อนช้างเป็นพาหนะในการเดินทาง",
+            "audio_en_src": "In the past, elephants were a means of transport."
+          }
+        ]
+      }
     ]
   },
   {
@@ -184274,6 +184407,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "restaurant (formal)",
+        "sentences": [
+          {
+            "thai": "เขาพาครอบครัวไปกินที่ภัตตาคารหรู",
+            "en": "He took his family to eat at a fancy restaurant.",
+            "audio_src": "เขาพาครอบครัวไปกินที่ภัตตาคารหรู",
+            "audio_en_src": "He took his family to eat at a fancy restaurant."
+          },
+          {
+            "thai": "ภัตตาคารจีนแห่งนี้มีติ่มซำอร่อย",
+            "en": "This Chinese restaurant has delicious dim sum.",
+            "audio_src": "ภัตตาคารจีนแห่งนี้มีติ่มซำอร่อย",
+            "audio_en_src": "This Chinese restaurant has delicious dim sum."
+          }
+        ]
+      }
     ]
   },
   {
@@ -184284,6 +184436,25 @@
     "topic": "culture",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "northeastern region",
+        "sentences": [
+          {
+            "thai": "ภาคอีสานมีอาหารรสจัดจ้าน",
+            "en": "The northeast has spicy, bold food.",
+            "audio_src": "ภาคอีสานมีอาหารรสจัดจ้าน",
+            "audio_en_src": "The northeast has spicy, bold food."
+          },
+          {
+            "thai": "คนภาคอีสานพูดภาษาถิ่นของตัวเอง",
+            "en": "People in the northeast speak their own dialect.",
+            "audio_src": "คนภาคอีสานพูดภาษาถิ่นของตัวเอง",
+            "audio_en_src": "People in the northeast speak their own dialect."
+          }
+        ]
+      }
     ]
   },
   {
@@ -184325,6 +184496,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "the day after tomorrow",
+        "sentences": [
+          {
+            "thai": "มะรืนนี้ฉันจะไปหาหมอ",
+            "en": "The day after tomorrow I'm going to the doctor.",
+            "audio_src": "มะรืนนี้ฉันจะไปหาหมอ",
+            "audio_en_src": "The day after tomorrow I'm going to the doctor."
+          },
+          {
+            "thai": "งานเลื่อนไปมะรืนนี้",
+            "en": "The event was postponed to the day after tomorrow.",
+            "audio_src": "งานเลื่อนไปมะรืนนี้",
+            "audio_en_src": "The event was postponed to the day after tomorrow."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5932 words**
+**Total: 5942 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4855,12 +4855,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-037` : ประจำวัน, รายวัน (daily) : 1 meaning(s), 2 sentences
 - `wlt-c11-038` : ประชุม (to hold a meeting) : 1 meaning(s), 2 sentences
 - `wlt-c11-039` : ประเภท (type, sort, category) : 1 meaning(s), 2 sentences
+- `wlt-c11-040` : ประโยค (sentence) : 1 meaning(s), 2 sentences
 - `wlt-c11-042` : ปลอดภัย (safe, out of danger) : 1 meaning(s), 2 sentences
+- `wlt-c11-043` : ปลาหมึก (squid) : 1 meaning(s), 2 sentences
 - `wlt-c11-044` : ป่วย (sick, ill) : 1 meaning(s), 2 sentences
 - `wlt-c11-045` : ปัญหา (problem, issue) : 1 meaning(s), 2 sentences
+- `wlt-c11-046` : ปิ้ง (to grill, to roast) : 1 meaning(s), 2 sentences
+- `wlt-c11-047` : เป็นไปได้ (possible, feasible) : 1 meaning(s), 2 sentences
 - `wlt-c11-048` : เป็นหวัด (to have a cold) : 1 meaning(s), 2 sentences
 - `wlt-c11-049` : แปรง (brush) : 1 meaning(s), 2 sentences
 - `wlt-c11-050` : ไปหา (to go to meet, to visit someone) : 1 meaning(s), 2 sentences
+- `wlt-c11-051` : ผลิต (to manufacture, to produce) : 1 meaning(s), 2 sentences
+- `wlt-c11-052` : ผัว (husband (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-053` : ผ้าปูที่นอน (bedsheet) : 1 meaning(s), 2 sentences
 - `wlt-c11-054` : ฝ้าย (cotton) : 1 meaning(s), 2 sentences
 - `wlt-c11-056` : ฝึก, หัด, ฝึกหัด (to practise, exercise, train) : 1 meaning(s), 2 sentences
@@ -4870,8 +4876,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-060` : พอดี (just right) : 1 meaning(s), 2 sentences
 - `wlt-c11-061` : พักผ่อน (to rest) : 1 meaning(s), 2 sentences
 - `wlt-c11-062` : พัดลม (fan (device)) : 1 meaning(s), 2 sentences
+- `wlt-c11-063` : พาหนะ (vehicle, means of transportation) : 1 meaning(s), 2 sentences
 - `wlt-c11-065` : เพิ่ม, เพิ่มขึ้น (to increase) : 1 meaning(s), 2 sentences
+- `wlt-c11-069` : ภัตตาคาร (restaurant (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c11-070` : ภาคอีสาน (northeastern region) : 1 meaning(s), 2 sentences
 - `wlt-c11-072` : ภูมิศาสตร์ (geography) : 1 meaning(s), 2 sentences
+- `wlt-c11-073` : มะรืนนี้ (the day after tomorrow) : 1 meaning(s), 2 sentences
 - `wlt-c11-075` : มุม (angle, corner) : 1 meaning(s), 2 sentences
 - `wlt-c11-076` : เมา (drunk) : 1 meaning(s), 2 sentences
 - `wlt-c11-077` : เมีย (wife, long-term girlfriend (informal)) : 1 meaning(s), 2 sentences
