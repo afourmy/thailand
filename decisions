@@ -63,6 +63,12 @@ thaipod-0119 ขนานพระนาม: eng 'to bestow a royal name (royal)
 thaipod-0142 ขุนนาง: eng 'noble, aristocrat'
 thaipod-0160 ครองราชย์: eng 'to reign, to rule as monarch'
 thaipod-0163 ครั้งยัง: eng '"back when", "in the days when" (literary)'
+thaipod-0181 ความทารุณ: eng 'cruelty, brutality (literary)'
+thaipod-0191 ความสงบร่มเย็น: eng 'peace and tranquility (literary)'
+thaipod-0194 ความอาฆาต: eng 'vengeance, vindictiveness (literary)'
+thaipod-0254 จารึก: eng 'to engrave, engraving, inscription'
+thaipod-0277 ชัยภูมิ: eng 'auspicious location, strategically favorable spot (military)'
+thaipod-0302 ซุ้มประตู: eng 'gate arch, entrance arch'
 
 tsl-394 อย., สำนักงานคณะกรรมการอาหารและยา: make it 'สำนักงานคณะกรรมการอาหารและยา (อย.)'
 
@@ -70,10 +76,14 @@ tsl-303 นายก อบจ., นายกองค์การบริห�
 
 tsl-304 ส.อบจ., สมาชิกองค์การบริหารส่วนจังหวัด: make it 'สมาชิกองค์การบริหารส่วนจังหวัด (ส.อบจ.)'
 
+thaipod-0329 ดีดกีตาร์โปร่ง: make it 'กีตาร์โปร่ง': 'acoustic guitar'
+
+thaipod-0363 ตัวโคร่ง: make it 'โคร่ง': 'oversized, loose-fitting, roomy'
+
 chula-l6-339 พ.ร.บ. (พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ): make it 'พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ (พ.ร.บ.)'
 
 chula-l6-326 กลากเกลื้อน - หูด: split in two cards:
 กลากเกลื้อน: 'fungal skin infections (ringworm and tinea)'
 หูด: 'wart (HPV)'
 
-remove card: chula-l4-016 พิษสุนัขบ้า, tamago-l12-596 แป๊ด, tamago-l3-212 ลำบากแม่น่าดู, tamago-l3-444 กระทุ่มน้ำ, tamago-l3-651 รำไทย, tamago-l3-546 คำประกอบ, tsl-620 ตานขโมย, thaipod-0086 การเป็นทาส, thaipod-0091 การแตกความสามัคคี
+remove card: chula-l4-016 พิษสุนัขบ้า, tamago-l12-596 แป๊ด, tamago-l3-212 ลำบากแม่น่าดู, tamago-l3-444 กระทุ่มน้ำ, tamago-l3-651 รำไทย, tamago-l3-546 คำประกอบ, tsl-620 ตานขโมย, thaipod-0086 การเป็นทาส, thaipod-0091 การแตกความสามัคคี, thaipod-0227 คูเมือง, thaipod-0262 จุดปัจจุบัน, thaipod-0313 ดอกบัวบาน, thaipod-0314 ดอกพุทธรักษา
