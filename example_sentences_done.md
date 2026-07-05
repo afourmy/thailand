@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5912 words**
+**Total: 5922 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4784,26 +4784,35 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-053` : ชั้นบน (upstairs) : 1 meaning(s), 2 sentences
 - `wlt-c10-054` : ชั้นล่าง (downstairs, ground floor) : 1 meaning(s), 2 sentences
 - `wlt-c10-055` : ชาม (bowl) : 1 meaning(s), 2 sentences
+- `wlt-c10-056` : ชายทะเล (beach) : 1 meaning(s), 2 sentences
 - `wlt-c10-057` : ชื่อเล่น (nickname) : 1 meaning(s), 2 sentences
 - `wlt-c10-059` : ซักแห้ง (to dry-clean) : 1 meaning(s), 2 sentences
 - `wlt-c10-062` : เซ็น (to sign) : 1 meaning(s), 2 sentences
 - `wlt-c10-063` : โซ่ (chain) : 1 meaning(s), 2 sentences
 - `wlt-c10-065` : ดม (to smell (active)) : 1 meaning(s), 2 sentences
 - `wlt-c10-066` : ด่วน (urgent, express) : 1 meaning(s), 2 sentences
+- `wlt-c10-067` : ดิน (earth, land, ground) : 1 meaning(s), 2 sentences
 - `wlt-c10-068` : ดีกว่า (better) : 1 meaning(s), 2 sentences
 - `wlt-c10-069` : เดียวกัน (same, identical) : 1 meaning(s), 2 sentences
+- `wlt-c10-070` : ตรงกันข้าม (opposite; on the contrary) : 2 meaning(s), 4 sentences
+- `wlt-c10-071` : ตรงข้าม (opposite, across from) : 1 meaning(s), 2 sentences
 - `wlt-c10-073` : ตอนบ่าย (in the afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences
+- `wlt-c10-074` : ตะเกียบ (chopsticks) : 1 meaning(s), 2 sentences
 - `wlt-c10-076` : ตัวเลข (number, figure, digit) : 1 meaning(s), 2 sentences
 - `wlt-c10-077` : ตาย (to die) : 1 meaning(s), 2 sentences
+- `wlt-c10-078` : ตุ๊กตุ๊ก (tuk tuk) : 1 meaning(s), 2 sentences
 - `wlt-c10-079` : ตู้เย็น (refrigerator) : 1 meaning(s), 2 sentences
 - `wlt-c10-080` : เตะ (to kick) : 1 meaning(s), 2 sentences
+- `wlt-c10-081` : เตา (stove) : 1 meaning(s), 2 sentences
 - `wlt-c10-082` : เติม (to fill, to refill, to add) : 1 meaning(s), 2 sentences
 - `wlt-c10-083` : แตกต่าง (to differ, to be different, separate) : 1 meaning(s), 2 sentences
 - `wlt-c10-084` : ถอน (to withdraw, to pull out) : 1 meaning(s), 2 sentences
 - `wlt-c10-085` : ถ่าน (charcoal) : 1 meaning(s), 2 sentences
 - `wlt-c10-086` : ถุงมือ (gloves) : 1 meaning(s), 2 sentences
 - `wlt-c10-087` : ถูกต้อง (accurate, correct) : 1 meaning(s), 2 sentences
+- `wlt-c10-088` : ท่าเรือ (pier, harbour, port) : 1 meaning(s), 2 sentences
 - `wlt-c10-089` : ทำความสะอาด (to clean) : 1 meaning(s), 2 sentences
+- `wlt-c10-091` : ที่จอดรถ (parking place, parking lot) : 1 meaning(s), 2 sentences
 - `wlt-c10-092` : ที่นั่ง (seat, place to sit) : 1 meaning(s), 2 sentences
 - `wlt-c10-094` : ที่แล้ว (last, previous) : 1 meaning(s), 2 sentences
 - `wlt-c10-095` : ทีวี (TV, television (loanword)) : 1 meaning(s), 2 sentences
@@ -4814,6 +4823,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-001` : เที่ยงคืน (midnight) : 1 meaning(s), 2 sentences
 - `wlt-c11-003` : โทร (to call (by phone)) : 1 meaning(s), 2 sentences
 - `wlt-c11-004` : ธง (flag) : 1 meaning(s), 2 sentences
+- `wlt-c11-005` : นโยบาย (policy, plan) : 1 meaning(s), 2 sentences
 - `wlt-c11-009` : นักกีฬา (athlete) : 1 meaning(s), 2 sentences
 - `wlt-c11-010` : นักเขียน (writer) : 1 meaning(s), 2 sentences
 - `wlt-c11-013` : นักร้อง (singer) : 1 meaning(s), 2 sentences

@@ -181351,6 +181351,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "beach",
+        "sentences": [
+          {
+            "thai": "วันหยุดเราไปเที่ยวชายทะเล",
+            "en": "On the holiday we went to the seaside.",
+            "audio_src": "วันหยุดเราไปเที่ยวชายทะเล",
+            "audio_en_src": "On the holiday we went to the seaside."
+          },
+          {
+            "thai": "ลมชายทะเลพัดเย็นสบาย",
+            "en": "The sea breeze at the beach is cool and pleasant.",
+            "audio_src": "ลมชายทะเลพัดเย็นสบาย",
+            "audio_en_src": "The sea breeze at the beach is cool and pleasant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -181563,6 +181582,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "earth, land, ground",
+        "sentences": [
+          {
+            "thai": "ต้นไม้ต้องการดินที่อุดมสมบูรณ์",
+            "en": "Plants need fertile soil.",
+            "audio_src": "ต้นไม้ต้องการดินที่อุดมสมบูรณ์",
+            "audio_en_src": "Plants need fertile soil."
+          },
+          {
+            "thai": "เด็กๆนั่งเล่นบนพื้นดิน",
+            "en": "The kids sit and play on the ground.",
+            "audio_src": "เด็กๆนั่งเล่นบนพื้นดิน",
+            "audio_en_src": "The kids sit and play on the ground."
+          }
+        ]
+      }
     ]
   },
   {
@@ -181641,6 +181679,42 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "opposite",
+        "sentences": [
+          {
+            "thai": "ความคิดเห็นของเราตรงกันข้ามกัน",
+            "en": "Our opinions are opposite.",
+            "audio_src": "ความคิดเห็นของเราตรงกันข้ามกัน",
+            "audio_en_src": "Our opinions are opposite."
+          },
+          {
+            "thai": "นิสัยพี่น้องคู่นี้ตรงกันข้าม",
+            "en": "These two siblings have opposite personalities.",
+            "audio_src": "นิสัยพี่น้องคู่นี้ตรงกันข้าม",
+            "audio_en_src": "These two siblings have opposite personalities."
+          }
+        ]
+      },
+      {
+        "meaning": "on the contrary",
+        "sentences": [
+          {
+            "thai": "เขาไม่ได้โกรธ ตรงกันข้ามเขากลับดีใจ",
+            "en": "He wasn't angry; on the contrary, he was glad.",
+            "audio_src": "เขาไม่ได้โกรธ ตรงกันข้ามเขากลับดีใจ",
+            "audio_en_src": "He wasn't angry; on the contrary, he was glad."
+          },
+          {
+            "thai": "งานไม่ได้ยาก ตรงกันข้ามง่ายมาก",
+            "en": "The work wasn't hard; on the contrary, it was very easy.",
+            "audio_src": "งานไม่ได้ยาก ตรงกันข้ามง่ายมาก",
+            "audio_en_src": "The work wasn't hard; on the contrary, it was very easy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -181652,6 +181726,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "opposite, across from",
+        "sentences": [
+          {
+            "thai": "ร้านสะดวกซื้ออยู่ตรงข้ามบ้าน",
+            "en": "The convenience store is across from my house.",
+            "audio_src": "ร้านสะดวกซื้ออยู่ตรงข้ามบ้าน",
+            "audio_en_src": "The convenience store is across from my house."
+          },
+          {
+            "thai": "เขานั่งตรงข้ามกับฉัน",
+            "en": "He sat across from me.",
+            "audio_src": "เขานั่งตรงข้ามกับฉัน",
+            "audio_en_src": "He sat across from me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -181695,6 +181788,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "chopsticks",
+        "sentences": [
+          {
+            "thai": "ใช้ตะเกียบคีบก๋วยเตี๋ยว",
+            "en": "Use chopsticks to pick up the noodles.",
+            "audio_src": "ใช้ตะเกียบคีบก๋วยเตี๋ยว",
+            "audio_en_src": "Use chopsticks to pick up the noodles."
+          },
+          {
+            "thai": "เขาใช้ตะเกียบไม่ค่อยคล่อง",
+            "en": "He's not very skilled with chopsticks.",
+            "audio_src": "เขาใช้ตะเกียบไม่ค่อยคล่อง",
+            "audio_en_src": "He's not very skilled with chopsticks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -181771,6 +181883,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "tuk tuk",
+        "sentences": [
+          {
+            "thai": "นั่งตุ๊กตุ๊กเที่ยวในเมืองสนุกดี",
+            "en": "Riding a tuk tuk around the city is fun.",
+            "audio_src": "นั่งตุ๊กตุ๊กเที่ยวในเมืองสนุกดี",
+            "audio_en_src": "Riding a tuk tuk around the city is fun."
+          },
+          {
+            "thai": "ตุ๊กตุ๊กแล่นฉวัดเฉวียนบนถนน",
+            "en": "The tuk tuk weaves through the traffic.",
+            "audio_src": "ตุ๊กตุ๊กแล่นฉวัดเฉวียนบนถนน",
+            "audio_en_src": "The tuk tuk weaves through the traffic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -181848,6 +181979,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "stove",
+        "sentences": [
+          {
+            "thai": "ตั้งหม้อบนเตาแล้วเปิดไฟ",
+            "en": "Put the pot on the stove and turn on the heat.",
+            "audio_src": "ตั้งหม้อบนเตาแล้วเปิดไฟ",
+            "audio_en_src": "Put the pot on the stove and turn on the heat."
+          },
+          {
+            "thai": "เตาแก๊สหมดต้องเปลี่ยนถัง",
+            "en": "The gas stove ran out, so we need to change the tank.",
+            "audio_src": "เตาแก๊สหมดต้องเปลี่ยนถัง",
+            "audio_en_src": "The gas stove ran out, so we need to change the tank."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182053,6 +182203,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "pier, harbour, port",
+        "sentences": [
+          {
+            "thai": "เรือเทียบท่าที่ท่าเรือ",
+            "en": "The boat docks at the pier.",
+            "audio_src": "เรือเทียบท่าที่ท่าเรือ",
+            "audio_en_src": "The boat docks at the pier."
+          },
+          {
+            "thai": "ท่าเรือแห่งนี้ขนส่งสินค้าจำนวนมาก",
+            "en": "This port ships large quantities of goods.",
+            "audio_src": "ท่าเรือแห่งนี้ขนส่งสินค้าจำนวนมาก",
+            "audio_en_src": "This port ships large quantities of goods."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182096,6 +182265,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "parking place, parking lot",
+        "sentences": [
+          {
+            "thai": "หาที่จอดรถในห้างยากมาก",
+            "en": "It's really hard to find parking at the mall.",
+            "audio_src": "หาที่จอดรถในห้างยากมาก",
+            "audio_en_src": "It's really hard to find parking at the mall."
+          },
+          {
+            "thai": "ที่จอดรถเต็มตั้งแต่เช้า",
+            "en": "The parking lot was full since morning.",
+            "audio_src": "ที่จอดรถเต็มตั้งแต่เช้า",
+            "audio_en_src": "The parking lot was full since morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -182441,6 +182629,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "policy, plan",
+        "sentences": [
+          {
+            "thai": "รัฐบาลออกนโยบายช่วยเหลือเกษตรกร",
+            "en": "The government issued a policy to help farmers.",
+            "audio_src": "รัฐบาลออกนโยบายช่วยเหลือเกษตรกร",
+            "audio_en_src": "The government issued a policy to help farmers."
+          },
+          {
+            "thai": "บริษัทมีนโยบายห้ามสูบบุหรี่",
+            "en": "The company has a no-smoking policy.",
+            "audio_src": "บริษัทมีนโยบายห้ามสูบบุหรี่",
+            "audio_en_src": "The company has a no-smoking policy."
+          }
+        ]
+      }
     ]
   },
   {
