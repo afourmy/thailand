@@ -177242,6 +177242,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "employee, hired worker",
+        "sentences": [
+          {
+            "thai": "ลูกจ้างได้รับสวัสดิการดี",
+            "en": "The employees get good benefits.",
+            "audio_src": "ลูกจ้างได้รับสวัสดิการดี",
+            "audio_en_src": "The employees get good benefits."
+          },
+          {
+            "thai": "บริษัทมีลูกจ้างกว่าร้อยคน",
+            "en": "The company has over a hundred employees.",
+            "audio_src": "บริษัทมีลูกจ้างกว่าร้อยคน",
+            "audio_en_src": "The company has over a hundred employees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177316,6 +177335,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cousin",
+        "sentences": [
+          {
+            "thai": "เขาเป็นลูกพี่ลูกน้องกับฉัน",
+            "en": "He's my cousin.",
+            "audio_src": "เขาเป็นลูกพี่ลูกน้องกับฉัน",
+            "audio_en_src": "He's my cousin."
+          },
+          {
+            "thai": "ลูกพี่ลูกน้องมาเยี่ยมช่วงปีใหม่",
+            "en": "My cousins came to visit over New Year.",
+            "audio_src": "ลูกพี่ลูกน้องมาเยี่ยมช่วงปีใหม่",
+            "audio_en_src": "My cousins came to visit over New Year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177327,6 +177365,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "debtor",
+        "sentences": [
+          {
+            "thai": "ลูกหนี้ผิดนัดชำระเงิน",
+            "en": "The debtor missed a payment.",
+            "audio_src": "ลูกหนี้ผิดนัดชำระเงิน",
+            "audio_en_src": "The debtor missed a payment."
+          },
+          {
+            "thai": "ธนาคารทวงหนี้จากลูกหนี้",
+            "en": "The bank collects debt from its debtors.",
+            "audio_src": "ธนาคารทวงหนี้จากลูกหนี้",
+            "audio_en_src": "The bank collects debt from its debtors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177404,6 +177461,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to elect (in a political election)",
+        "sentences": [
+          {
+            "thai": "ประชาชนออกไปเลือกตั้งผู้นำ",
+            "en": "People go out to elect their leader.",
+            "audio_src": "ประชาชนออกไปเลือกตั้งผู้นำ",
+            "audio_en_src": "People go out to elect their leader."
+          },
+          {
+            "thai": "การเลือกตั้งจัดขึ้นทุกสี่ปี",
+            "en": "Elections are held every four years.",
+            "audio_src": "การเลือกตั้งจัดขึ้นทุกสี่ปี",
+            "audio_en_src": "Elections are held every four years."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177621,6 +177697,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "second (unit of time)",
+        "sentences": [
+          {
+            "thai": "รอสักสิบวินาทีจะเสร็จ",
+            "en": "Wait about ten seconds, it'll be done.",
+            "audio_src": "รอสักสิบวินาทีจะเสร็จ",
+            "audio_en_src": "Wait about ten seconds, it'll be done."
+          },
+          {
+            "thai": "ทุกวินาทีมีค่าในการแข่งขัน",
+            "en": "Every second counts in a competition.",
+            "audio_src": "ทุกวินาทีมีค่าในการแข่งขัน",
+            "audio_en_src": "Every second counts in a competition."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177631,6 +177726,25 @@
     "topic": "beliefs",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "auspicious time (based on astrology or tradition)",
+        "sentences": [
+          {
+            "thai": "หมอดูเลือกเวลาดีสำหรับงานแต่ง",
+            "en": "The fortune teller chose an auspicious time for the wedding.",
+            "audio_src": "หมอดูเลือกเวลาดีสำหรับงานแต่ง",
+            "audio_en_src": "The fortune teller chose an auspicious time for the wedding."
+          },
+          {
+            "thai": "เขารอเวลาดีก่อนเปิดร้าน",
+            "en": "He waited for an auspicious time before opening the shop.",
+            "audio_src": "เขารอเวลาดีก่อนเปิดร้าน",
+            "audio_en_src": "He waited for an auspicious time before opening the shop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177642,6 +177756,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to trust, to rely on",
+        "sentences": [
+          {
+            "thai": "ฉันไว้ใจเพื่อนคนนี้มาก",
+            "en": "I trust this friend a lot.",
+            "audio_src": "ฉันไว้ใจเพื่อนคนนี้มาก",
+            "audio_en_src": "I trust this friend a lot."
+          },
+          {
+            "thai": "เขาเป็นคนที่ไว้ใจได้",
+            "en": "He's someone you can rely on.",
+            "audio_src": "เขาเป็นคนที่ไว้ใจได้",
+            "audio_en_src": "He's someone you can rely on."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177695,6 +177828,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to export, to send abroad",
+        "sentences": [
+          {
+            "thai": "ไทยส่งออกข้าวไปหลายประเทศ",
+            "en": "Thailand exports rice to many countries.",
+            "audio_src": "ไทยส่งออกข้าวไปหลายประเทศ",
+            "audio_en_src": "Thailand exports rice to many countries."
+          },
+          {
+            "thai": "โรงงานส่งออกสินค้าทุกเดือน",
+            "en": "The factory exports goods every month.",
+            "audio_src": "โรงงานส่งออกสินค้าทุกเดือน",
+            "audio_en_src": "The factory exports goods every month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177706,6 +177858,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "consciousness, sense, mind",
+        "sentences": [
+          {
+            "thai": "เขาล้มหัวฟาดจนหมดสติ",
+            "en": "He fell, hit his head, and lost consciousness.",
+            "audio_src": "เขาล้มหัวฟาดจนหมดสติ",
+            "audio_en_src": "He fell, hit his head, and lost consciousness."
+          },
+          {
+            "thai": "มีสติทุกครั้งก่อนตัดสินใจ",
+            "en": "Keep a clear head before making decisions.",
+            "audio_src": "มีสติทุกครั้งก่อนตัดสินใจ",
+            "audio_en_src": "Keep a clear head before making decisions."
+          }
+        ]
+      }
     ]
   },
   {
@@ -177858,6 +178029,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to chant a prayer",
+        "sentences": [
+          {
+            "thai": "คนไทยสวดมนต์ก่อนนอน",
+            "en": "Thai people chant prayers before bed.",
+            "audio_src": "คนไทยสวดมนต์ก่อนนอน",
+            "audio_en_src": "Thai people chant prayers before bed."
+          },
+          {
+            "thai": "พระนำญาติโยมสวดมนต์",
+            "en": "The monk leads the laypeople in chanting.",
+            "audio_src": "พระนำญาติโยมสวดมนต์",
+            "audio_en_src": "The monk leads the laypeople in chanting."
+          }
+        ]
+      }
     ]
   },
   {
