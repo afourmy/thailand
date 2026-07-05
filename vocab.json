@@ -171676,6 +171676,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "oneself, self",
+        "sentences": [
+          {
+            "thai": "เขาพึ่งพาตนเองได้",
+            "en": "He can rely on himself.",
+            "audio_src": "เขาพึ่งพาตนเองได้",
+            "audio_en_src": "He can rely on himself."
+          },
+          {
+            "thai": "ควรเชื่อมั่นในตนเอง",
+            "en": "You should believe in yourself.",
+            "audio_src": "ควรเชื่อมั่นในตนเอง",
+            "audio_en_src": "You should believe in yourself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172040,6 +172059,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "animal (male)",
+        "sentences": [
+          {
+            "thai": "นกยูงตัวผู้มีขนหางสวย",
+            "en": "The male peacock has beautiful tail feathers.",
+            "audio_src": "นกยูงตัวผู้มีขนหางสวย",
+            "audio_en_src": "The male peacock has beautiful tail feathers."
+          },
+          {
+            "thai": "แมวตัวผู้มักตัวใหญ่กว่าตัวเมีย",
+            "en": "Male cats are usually bigger than females.",
+            "audio_src": "แมวตัวผู้มักตัวใหญ่กว่าตัวเมีย",
+            "audio_en_src": "Male cats are usually bigger than females."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172050,6 +172088,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "animal (female)",
+        "sentences": [
+          {
+            "thai": "ไก่ตัวเมียออกไข่",
+            "en": "The female chicken lays eggs.",
+            "audio_src": "ไก่ตัวเมียออกไข่",
+            "audio_en_src": "The female chicken lays eggs."
+          },
+          {
+            "thai": "สิงโตตัวเมียออกล่าเหยื่อ",
+            "en": "The female lion goes out to hunt.",
+            "audio_src": "สิงโตตัวเมียออกล่าเหยื่อ",
+            "audio_en_src": "The female lion goes out to hunt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172060,6 +172117,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "letters, characters, text",
+        "sentences": [
+          {
+            "thai": "ตัวหนังสือเล็กมากอ่านไม่ออก",
+            "en": "The text is so small I can't read it.",
+            "audio_src": "ตัวหนังสือเล็กมากอ่านไม่ออก",
+            "audio_en_src": "The text is so small I can't read it."
+          },
+          {
+            "thai": "เขียนตัวหนังสือให้ชัดๆ",
+            "en": "Write the letters clearly.",
+            "audio_src": "เขียนตัวหนังสือให้ชัดๆ",
+            "audio_en_src": "Write the letters clearly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172071,6 +172147,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "alphabet, letter, character",
+        "sentences": [
+          {
+            "thai": "เด็กหัดเขียนตัวอักษรไทย",
+            "en": "The child is practicing writing Thai letters.",
+            "audio_src": "เด็กหัดเขียนตัวอักษรไทย",
+            "audio_en_src": "The child is practicing writing Thai letters."
+          },
+          {
+            "thai": "ป้ายนี้มีตัวอักษรภาษาอังกฤษ",
+            "en": "This sign has English letters on it.",
+            "audio_src": "ป้ายนี้มีตัวอักษรภาษาอังกฤษ",
+            "audio_en_src": "This sign has English letters on it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172198,6 +172293,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "musk melon",
+        "sentences": [
+          {
+            "thai": "น้ำแตงไทยใส่น้ำแข็งเย็นชื่นใจ",
+            "en": "Musk melon drink with ice is refreshing.",
+            "audio_src": "น้ำแตงไทยใส่น้ำแข็งเย็นชื่นใจ",
+            "audio_en_src": "Musk melon drink with ice is refreshing."
+          },
+          {
+            "thai": "แตงไทยสุกมีกลิ่นหอม",
+            "en": "Ripe musk melon has a lovely fragrance.",
+            "audio_src": "แตงไทยสุกมีกลิ่นหอม",
+            "audio_en_src": "Ripe musk melon has a lovely fragrance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172313,6 +172427,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "green peas",
+        "sentences": [
+          {
+            "thai": "ใส่ถั่วลันเตาในข้าวผัด",
+            "en": "Add green peas to the fried rice.",
+            "audio_src": "ใส่ถั่วลันเตาในข้าวผัด",
+            "audio_en_src": "Add green peas to the fried rice."
+          },
+          {
+            "thai": "ถั่วลันเตาต้มสุกหวานกรอบ",
+            "en": "Cooked green peas are sweet and crisp.",
+            "audio_src": "ถั่วลันเตาต้มสุกหวานกรอบ",
+            "audio_en_src": "Cooked green peas are sweet and crisp."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172355,6 +172488,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cave",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวเข้าไปเที่ยวในถ้ำ",
+            "en": "Tourists go to explore inside the cave.",
+            "audio_src": "นักท่องเที่ยวเข้าไปเที่ยวในถ้ำ",
+            "audio_en_src": "Tourists go to explore inside the cave."
+          },
+          {
+            "thai": "ในถ้ำมืดและเย็น",
+            "en": "It's dark and cold inside the cave.",
+            "audio_src": "ในถ้ำมืดและเย็น",
+            "audio_en_src": "It's dark and cold inside the cave."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172365,6 +172517,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "over there, that area",
+        "sentences": [
+          {
+            "thai": "ร้านกาแฟอยู่แถวนั้น",
+            "en": "The coffee shop is over there.",
+            "audio_src": "ร้านกาแฟอยู่แถวนั้น",
+            "audio_en_src": "The coffee shop is over there."
+          },
+          {
+            "thai": "แถวนั้นมีที่จอดรถเยอะ",
+            "en": "There's plenty of parking in that area.",
+            "audio_src": "แถวนั้นมีที่จอดรถเยอะ",
+            "audio_en_src": "There's plenty of parking in that area."
+          }
+        ]
+      }
     ]
   },
   {
@@ -172438,6 +172609,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to flood",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักน้ำท่วมถนน",
+            "en": "The heavy rain flooded the road.",
+            "audio_src": "ฝนตกหนักน้ำท่วมถนน",
+            "audio_en_src": "The heavy rain flooded the road."
+          },
+          {
+            "thai": "หน้าฝนบ้านริมแม่น้ำมักถูกน้ำท่วม",
+            "en": "In the rainy season, riverside houses often flood.",
+            "audio_src": "หน้าฝนบ้านริมแม่น้ำมักถูกน้ำท่วม",
+            "audio_en_src": "In the rainy season, riverside houses often flood."
+          }
+        ]
+      }
     ]
   },
   {

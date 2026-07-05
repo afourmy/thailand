@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5802 words**
+**Total: 5812 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4483,6 +4483,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-065` : เดือด (to boil; (figuratively) to be furious, boiling mad) : 2 meaning(s), 4 sentences
 - `wlt-c06-066` : ตกใจ (startled) : 1 meaning(s), 2 sentences
 - `wlt-c06-067` : ตกปลา (to fish) : 1 meaning(s), 2 sentences
+- `wlt-c06-068` : ตนเอง (oneself, self) : 1 meaning(s), 2 sentences
 - `wlt-c06-069` : ตบ (to slap, to strike with the open hand) : 1 meaning(s), 2 sentences
 - `wlt-c06-070` : ตรวจสอบ (to check, to verify) : 1 meaning(s), 2 sentences
 - `wlt-c06-071` : ตลอดไป (forever) : 1 meaning(s), 2 sentences
@@ -4494,15 +4495,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-077` : ตะวันออกเฉียงเหนือ (northeast) : 1 meaning(s), 2 sentences
 - `wlt-c06-078` : ตัดผม (to cut hair) : 1 meaning(s), 2 sentences
 - `wlt-c06-079` : ตัดสินใจ (to decide) : 1 meaning(s), 2 sentences
+- `wlt-c06-080` : ตัวผู้ (animal (male)) : 1 meaning(s), 2 sentences
+- `wlt-c06-081` : ตัวเมีย (animal (female)) : 1 meaning(s), 2 sentences
+- `wlt-c06-082` : ตัวหนังสือ (letters, characters, text) : 1 meaning(s), 2 sentences
+- `wlt-c06-083` : ตัวอักษร (alphabet, letter, character) : 1 meaning(s), 2 sentences
 - `wlt-c06-086` : ตื่นเต้น (excited, thrilled) : 1 meaning(s), 2 sentences
 - `wlt-c06-087` : ตู้เสื้อผ้า (wardrobe) : 1 meaning(s), 2 sentences
 - `wlt-c06-089` : เต้น, เต้นรำ (to dance) : 1 meaning(s), 2 sentences
+- `wlt-c06-091` : แตงไทย (musk melon) : 1 meaning(s), 2 sentences
 - `wlt-c06-092` : แตะ (to touch (lightly)) : 1 meaning(s), 2 sentences
 - `wlt-c06-094` : โต๊ะทำงาน (desk) : 1 meaning(s), 2 sentences
 - `wlt-c06-096` : ถอย (to move backward, to retreat, to step back) : 1 meaning(s), 2 sentences
+- `wlt-c06-097` : ถั่วลันเตา (green peas) : 1 meaning(s), 2 sentences
 - `wlt-c06-098` : ถ่านไฟฉาย (flashlight battery) : 1 meaning(s), 2 sentences
+- `wlt-c06-099` : ถ้ำ (cave) : 1 meaning(s), 2 sentences
+- `wlt-c07-000` : แถวนั้น (over there, that area) : 1 meaning(s), 2 sentences
 - `wlt-c07-001` : ทนทาน (durable, resistant) : 1 meaning(s), 2 sentences
 - `wlt-c07-001b` : ถาวร (permanent, long-lasting) : 1 meaning(s), 2 sentences
+- `wlt-c07-002` : ท่วม (to flood) : 1 meaning(s), 2 sentences
 - `wlt-c07-004` : ทหารอากาศ (airman, air force personnel) : 1 meaning(s), 2 sentences
 - `wlt-c07-006` : ท่อ (pipe, ditch, sewer) : 1 meaning(s), 2 sentences
 - `wlt-c07-007` : ท่องจำ (to memorize by repetition) : 1 meaning(s), 2 sentences
