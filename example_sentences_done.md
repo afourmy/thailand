@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6042 words**
+**Total: 6052 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5437,15 +5437,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-084` : แบบนี้ (this kind, like this) : 1 meaning(s), 2 sentences
 - `wlt-c18-085` : ปวดท้อง (stomachache) : 1 meaning(s), 2 sentences
 - `wlt-c18-086` : ปวดฟัน (toothache) : 1 meaning(s), 2 sentences
+- `wlt-c18-087` : ปวดหลัง (backache) : 1 meaning(s), 2 sentences
+- `wlt-c18-088` : เป็นไปไม่ได้ (impossible) : 1 meaning(s), 2 sentences
 - `wlt-c18-089` : เป็นพิษ (toxic, poisonous) : 1 meaning(s), 2 sentences
+- `wlt-c18-090` : เปรี้ยวหวาน (sweet and sour) : 1 meaning(s), 2 sentences
+- `wlt-c18-091` : เปิดบัญชี (to open an account) : 1 meaning(s), 2 sentences
+- `wlt-c18-092` : ไปกลับ (round trip) : 1 meaning(s), 2 sentences
 - `wlt-c18-093` : ไปซื้อของ (to go shopping) : 1 meaning(s), 2 sentences
 - `wlt-c18-094` : ผับ (pub (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c18-097` : พลาสเตอร์ (band-aid, plaster) : 1 meaning(s), 2 sentences
 - `wlt-c18-098` : พวกเขา (they, them) : 1 meaning(s), 2 sentences
 - `wlt-c19-000` : พูดเล่น (to joke) : 1 meaning(s), 2 sentences
 - `wlt-c19-001` : ฟรี (free (of charge)) : 1 meaning(s), 2 sentences
 - `wlt-c19-002` : ฟังเพลง (to listen to music) : 1 meaning(s), 2 sentences
 - `wlt-c19-003` : ไฟฉาย (flashlight) : 1 meaning(s), 2 sentences
+- `wlt-c19-004` : ภาคใต้ (southern region) : 1 meaning(s), 2 sentences
+- `wlt-c19-005` : ภาคเหนือ (north) : 1 meaning(s), 2 sentences
 - `wlt-c19-006` : ภาษาอังกฤษ (English language) : 1 meaning(s), 2 sentences
+- `wlt-c19-007` : มัดจำ (deposit (e.g car or room rental)) : 1 meaning(s), 2 sentences
+- `wlt-c19-013` : มีท้อง, ตั้งท้อง (to be pregnant) : 1 meaning(s), 2 sentences
 - `wlt-c19-017` : ไม่นาน (not long) : 1 meaning(s), 2 sentences
 - `wlt-c19-020` : ไม่สบายใจ (uneasy, troubled, uncomfortable) : 1 meaning(s), 2 sentences
 - `wlt-c19-030` : รหัส (code (e.g postal, security)) : 1 meaning(s), 2 sentences
