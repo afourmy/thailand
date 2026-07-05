@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5902 words**
+**Total: 5912 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4751,8 +4751,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-016` : กำไร (profit) : 1 meaning(s), 2 sentences
 - `wlt-c10-018` : โกนหนวด (to get a shave) : 1 meaning(s), 2 sentences
 - `wlt-c10-019` : ขณะนี้ (currently, at the moment) : 1 meaning(s), 2 sentences
+- `wlt-c10-020` : ขนส่ง (to transport (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c10-021` : ขยัน (hardworking, industrious) : 1 meaning(s), 2 sentences
+- `wlt-c10-022` : ขวบ (years old (for children only, under 12 years)) : 1 meaning(s), 2 sentences
 - `wlt-c10-023` : ข้อ (item, provision, clause, point, section) : 1 meaning(s), 2 sentences
 - `wlt-c10-024` : ของใคร (whose) : 1 meaning(s), 2 sentences
+- `wlt-c10-026` : ขอบใจ (thanks (informal "thank you")) : 1 meaning(s), 2 sentences
+- `wlt-c10-028` : ขากรรไกร (jaw) : 1 meaning(s), 2 sentences
+- `wlt-c10-029` : ข้าวสาลี (wheat) : 1 meaning(s), 2 sentences
 - `wlt-c10-030` : ข้าวเหนียว (sticky rice) : 1 meaning(s), 2 sentences
 - `wlt-c10-031` : ขี่ (to ride (when sitting astride on top of animal or vehicle)) : 1 meaning(s), 2 sentences
 - `wlt-c10-032` : ไข้หวัด (flu, cold) : 1 meaning(s), 2 sentences
@@ -4762,11 +4768,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-037` : ความเร็ว (speed) : 1 meaning(s), 2 sentences
 - `wlt-c10-038` : ความหมาย (meaning) : 1 meaning(s), 2 sentences
 - `wlt-c10-039` : คอม, คอมพิวเตอร์ (computer (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c10-040` : ค่าจ้าง (wage, labor pay) : 1 meaning(s), 2 sentences
 - `wlt-c10-041` : คำตอบ (answer) : 1 meaning(s), 2 sentences
 - `wlt-c10-042` : คุณสมบัติ (qualifications) : 1 meaning(s), 2 sentences
 - `wlt-c10-043` : คูณ (to multiply) : 1 meaning(s), 2 sentences
+- `wlt-c10-044` : เครื่องดื่ม (drinks) : 1 meaning(s), 2 sentences
 - `wlt-c10-045` : ง่วง, ง่วงนอน (sleepy) : 1 meaning(s), 2 sentences
 - `wlt-c10-046` : งั้น (in that case, therefore (informal short form)) : 1 meaning(s), 2 sentences
+- `wlt-c10-047` : เงินเดือน (salary) : 1 meaning(s), 2 sentences
 - `wlt-c10-048` : จำกัด (to limit, to restrict) : 1 meaning(s), 2 sentences
 - `wlt-c10-049` : จำนวน (amount) : 1 meaning(s), 2 sentences
 - `wlt-c10-050` : เจริญ (to prosper, to develop, to flourish) : 1 meaning(s), 2 sentences
@@ -4774,6 +4783,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-052` : ชนบท (rural area, countryside (polite)) : 1 meaning(s), 2 sentences
 - `wlt-c10-053` : ชั้นบน (upstairs) : 1 meaning(s), 2 sentences
 - `wlt-c10-054` : ชั้นล่าง (downstairs, ground floor) : 1 meaning(s), 2 sentences
+- `wlt-c10-055` : ชาม (bowl) : 1 meaning(s), 2 sentences
 - `wlt-c10-057` : ชื่อเล่น (nickname) : 1 meaning(s), 2 sentences
 - `wlt-c10-059` : ซักแห้ง (to dry-clean) : 1 meaning(s), 2 sentences
 - `wlt-c10-062` : เซ็น (to sign) : 1 meaning(s), 2 sentences

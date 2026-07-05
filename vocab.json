@@ -180298,6 +180298,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to transport (formal)",
+        "sentences": [
+          {
+            "thai": "บริษัทขนส่งสินค้าไปทั่วประเทศ",
+            "en": "The company transports goods across the country.",
+            "audio_src": "บริษัทขนส่งสินค้าไปทั่วประเทศ",
+            "audio_en_src": "The company transports goods across the country."
+          },
+          {
+            "thai": "รถบรรทุกขนส่งผลไม้ไปขาย",
+            "en": "The truck transports fruit to sell.",
+            "audio_src": "รถบรรทุกขนส่งผลไม้ไปขาย",
+            "audio_en_src": "The truck transports fruit to sell."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180309,6 +180328,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hardworking, industrious",
+        "sentences": [
+          {
+            "thai": "เขาขยันทำงานไม่เคยขาด",
+            "en": "He's hardworking and never misses a day.",
+            "audio_src": "เขาขยันทำงานไม่เคยขาด",
+            "audio_en_src": "He's hardworking and never misses a day."
+          },
+          {
+            "thai": "นักเรียนขยันอ่านหนังสือทุกวัน",
+            "en": "The diligent student studies every day.",
+            "audio_src": "นักเรียนขยันอ่านหนังสือทุกวัน",
+            "audio_en_src": "The diligent student studies every day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180320,6 +180358,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "years old (for children only, under 12 years)",
+        "sentences": [
+          {
+            "thai": "ลูกสาวฉันอายุสามขวบ",
+            "en": "My daughter is three years old.",
+            "audio_src": "ลูกสาวฉันอายุสามขวบ",
+            "audio_en_src": "My daughter is three years old."
+          },
+          {
+            "thai": "เด็กห้าขวบเริ่มเข้าโรงเรียน",
+            "en": "A five-year-old starts school.",
+            "audio_src": "เด็กห้าขวบเริ่มเข้าโรงเรียน",
+            "audio_en_src": "A five-year-old starts school."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180395,6 +180452,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "thanks (informal \"thank you\")",
+        "sentences": [
+          {
+            "thai": "ขอบใจนะที่ช่วยฉัน",
+            "en": "Thanks for helping me.",
+            "audio_src": "ขอบใจนะที่ช่วยฉัน",
+            "audio_en_src": "Thanks for helping me."
+          },
+          {
+            "thai": "เขายิ้มแล้วพูดว่าขอบใจ",
+            "en": "He smiled and said thanks.",
+            "audio_src": "เขายิ้มแล้วพูดว่าขอบใจ",
+            "audio_en_src": "He smiled and said thanks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180405,6 +180481,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "jaw",
+        "sentences": [
+          {
+            "thai": "เขาเจ็บขากรรไกรตอนเคี้ยว",
+            "en": "His jaw hurts when he chews.",
+            "audio_src": "เขาเจ็บขากรรไกรตอนเคี้ยว",
+            "audio_en_src": "His jaw hurts when he chews."
+          },
+          {
+            "thai": "หมัดนั้นเข้าที่ขากรรไกรเต็มๆ",
+            "en": "The punch landed right on the jaw.",
+            "audio_src": "หมัดนั้นเข้าที่ขากรรไกรเต็มๆ",
+            "audio_en_src": "The punch landed right on the jaw."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180415,6 +180510,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "wheat",
+        "sentences": [
+          {
+            "thai": "ขนมปังทำจากแป้งข้าวสาลี",
+            "en": "Bread is made from wheat flour.",
+            "audio_src": "ขนมปังทำจากแป้งข้าวสาลี",
+            "audio_en_src": "Bread is made from wheat flour."
+          },
+          {
+            "thai": "เกษตรกรปลูกข้าวสาลีในทุ่ง",
+            "en": "Farmers grow wheat in the fields.",
+            "audio_src": "เกษตรกรปลูกข้าวสาลีในทุ่ง",
+            "audio_en_src": "Farmers grow wheat in the fields."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180724,6 +180838,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wage, labor pay",
+        "sentences": [
+          {
+            "thai": "นายจ้างจ่ายค่าจ้างรายวัน",
+            "en": "The employer pays daily wages.",
+            "audio_src": "นายจ้างจ่ายค่าจ้างรายวัน",
+            "audio_en_src": "The employer pays daily wages."
+          },
+          {
+            "thai": "ค่าจ้างขั้นต่ำปรับขึ้นทุกปี",
+            "en": "The minimum wage rises every year.",
+            "audio_src": "ค่าจ้างขั้นต่ำปรับขึ้นทุกปี",
+            "audio_en_src": "The minimum wage rises every year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180833,6 +180966,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "drinks",
+        "sentences": [
+          {
+            "thai": "งานเลี้ยงมีเครื่องดื่มให้เลือกหลายอย่าง",
+            "en": "The party has many drinks to choose from.",
+            "audio_src": "งานเลี้ยงมีเครื่องดื่มให้เลือกหลายอย่าง",
+            "audio_en_src": "The party has many drinks to choose from."
+          },
+          {
+            "thai": "เครื่องดื่มเย็นๆดับกระหายได้ดี",
+            "en": "Cold drinks quench your thirst well.",
+            "audio_src": "เครื่องดื่มเย็นๆดับกระหายได้ดี",
+            "audio_en_src": "Cold drinks quench your thirst well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180912,6 +181064,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "salary",
+        "sentences": [
+          {
+            "thai": "เงินเดือนออกทุกสิ้นเดือน",
+            "en": "The salary comes out at the end of every month.",
+            "audio_src": "เงินเดือนออกทุกสิ้นเดือน",
+            "audio_en_src": "The salary comes out at the end of every month."
+          },
+          {
+            "thai": "เขาได้ขึ้นเงินเดือนปีนี้",
+            "en": "He got a salary raise this year.",
+            "audio_src": "เขาได้ขึ้นเงินเดือนปีนี้",
+            "audio_en_src": "He got a salary raise this year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -181151,6 +181322,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bowl",
+        "sentences": [
+          {
+            "thai": "เขากินข้าวหมดสองชาม",
+            "en": "He finished two whole bowls of rice.",
+            "audio_src": "เขากินข้าวหมดสองชาม",
+            "audio_en_src": "He finished two whole bowls of rice."
+          },
+          {
+            "thai": "ชามใบนี้ลายดอกไม้สวย",
+            "en": "This bowl has a pretty floral pattern.",
+            "audio_src": "ชามใบนี้ลายดอกไม้สวย",
+            "audio_en_src": "This bowl has a pretty floral pattern."
+          }
+        ]
+      }
     ]
   },
   {
