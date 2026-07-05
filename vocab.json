@@ -212392,6 +212392,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "like, similar to, as if",
+        "sentences": [
+          {
+            "thai": "เขาพูดเหมือนกับผู้ใหญ่",
+            "en": "He talks like an adult.",
+            "audio_src": "เขาพูดเหมือนกับผู้ใหญ่",
+            "audio_en_src": "He talks like an adult."
+          },
+          {
+            "thai": "อากาศวันนี้เหมือนกับหน้าหนาว",
+            "en": "Today's weather is like winter.",
+            "audio_src": "อากาศวันนี้เหมือนกับหน้าหนาว",
+            "audio_en_src": "Today's weather is like winter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -212465,6 +212484,25 @@
     "topic": "time",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "era, epoch",
+        "sentences": [
+          {
+            "thai": "ยุคนี้ทุกอย่างขับเคลื่อนด้วยเทคโนโลยี",
+            "en": "In this era, everything is driven by technology.",
+            "audio_src": "ยุคนี้ทุกอย่างขับเคลื่อนด้วยเทคโนโลยี",
+            "audio_en_src": "In this era, everything is driven by technology."
+          },
+          {
+            "thai": "ไดโนเสาร์อยู่ในยุคดึกดำบรรพ์",
+            "en": "Dinosaurs lived in prehistoric times.",
+            "audio_src": "ไดโนเสาร์อยู่ในยุคดึกดำบรรพ์",
+            "audio_en_src": "Dinosaurs lived in prehistoric times."
+          }
+        ]
+      }
     ]
   },
   {
@@ -212833,6 +212871,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "political party",
+        "sentences": [
+          {
+            "thai": "พรรคนี้ได้คะแนนเสียงมากที่สุด",
+            "en": "This party got the most votes.",
+            "audio_src": "พรรคนี้ได้คะแนนเสียงมากที่สุด",
+            "audio_en_src": "This party got the most votes."
+          },
+          {
+            "thai": "เขาสมัครเป็นสมาชิกพรรค",
+            "en": "He applied to become a party member.",
+            "audio_src": "เขาสมัครเป็นสมาชิกพรรค",
+            "audio_en_src": "He applied to become a party member."
+          }
+        ]
+      }
     ]
   },
   {
@@ -212922,6 +212979,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "as follows",
+        "sentences": [
+          {
+            "thai": "ขั้นตอนการสมัครมีดังนี้",
+            "en": "The application steps are as follows.",
+            "audio_src": "ขั้นตอนการสมัครมีดังนี้",
+            "audio_en_src": "The application steps are as follows."
+          },
+          {
+            "thai": "เหตุผลที่ลาออกมีดังนี้",
+            "en": "The reasons for resigning are as follows.",
+            "audio_src": "เหตุผลที่ลาออกมีดังนี้",
+            "audio_en_src": "The reasons for resigning are as follows."
+          }
+        ]
+      }
     ]
   },
   {
@@ -212997,6 +213073,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "in addition, besides this",
+        "sentences": [
+          {
+            "thai": "นอกจากนี้ยังมีของแถมอีกด้วย",
+            "en": "In addition, there are free gifts too.",
+            "audio_src": "นอกจากนี้ยังมีของแถมอีกด้วย",
+            "audio_en_src": "In addition, there are free gifts too."
+          },
+          {
+            "thai": "นอกจากนี้เขายังพูดได้หลายภาษา",
+            "en": "Besides this, he can speak several languages.",
+            "audio_src": "นอกจากนี้เขายังพูดได้หลายภาษา",
+            "audio_en_src": "Besides this, he can speak several languages."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213017,6 +213112,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "property, assets, possessions",
+        "sentences": [
+          {
+            "thai": "เขายกสมบัติทั้งหมดให้ลูก",
+            "en": "He left all his assets to his children.",
+            "audio_src": "เขายกสมบัติทั้งหมดให้ลูก",
+            "audio_en_src": "He left all his assets to his children."
+          },
+          {
+            "thai": "สมบัติล้ำค่าถูกเก็บในพิพิธภัณฑ์",
+            "en": "The precious treasure is kept in the museum.",
+            "audio_src": "สมบัติล้ำค่าถูกเก็บในพิพิธภัณฑ์",
+            "audio_en_src": "The precious treasure is kept in the museum."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213027,6 +213141,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mind, mental",
+        "sentences": [
+          {
+            "thai": "การทำสมาธิช่วยให้จิตสงบ",
+            "en": "Meditation calms the mind.",
+            "audio_src": "การทำสมาธิช่วยให้จิตสงบ",
+            "audio_en_src": "Meditation calms the mind."
+          },
+          {
+            "thai": "เขามีปัญหาสุขภาพจิต",
+            "en": "He has mental health problems.",
+            "audio_src": "เขามีปัญหาสุขภาพจิต",
+            "audio_en_src": "He has mental health problems."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213090,6 +213223,25 @@
     "topic": "expressions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "famous, well-known",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีชื่อเรื่องข้าวมันไก่",
+            "en": "This shop is famous for its chicken rice.",
+            "audio_src": "ร้านนี้มีชื่อเรื่องข้าวมันไก่",
+            "audio_en_src": "This shop is famous for its chicken rice."
+          },
+          {
+            "thai": "เขาเป็นนักเขียนที่มีชื่อ",
+            "en": "He's a well-known writer.",
+            "audio_src": "เขาเป็นนักเขียนที่มีชื่อ",
+            "audio_en_src": "He's a well-known writer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213100,6 +213252,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to replace, to stand in for, instead",
+        "sentences": [
+          {
+            "thai": "หุ่นยนต์เข้ามาแทนที่แรงงานคน",
+            "en": "Robots are replacing human labor.",
+            "audio_src": "หุ่นยนต์เข้ามาแทนที่แรงงานคน",
+            "audio_en_src": "Robots are replacing human labor."
+          },
+          {
+            "thai": "เขามาทำงานแทนที่เพื่อนที่ลาป่วย",
+            "en": "He came in to work in place of a sick colleague.",
+            "audio_src": "เขามาทำงานแทนที่เพื่อนที่ลาป่วย",
+            "audio_en_src": "He came in to work in place of a sick colleague."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213111,6 +213282,25 @@
     "sources": [
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "real, true, genuine",
+        "sentences": [
+          {
+            "thai": "ความสุขที่แท้จริงไม่ได้มาจากเงิน",
+            "en": "True happiness doesn't come from money.",
+            "audio_src": "ความสุขที่แท้จริงไม่ได้มาจากเงิน",
+            "audio_en_src": "True happiness doesn't come from money."
+          },
+          {
+            "thai": "เขาแสดงตัวตนที่แท้จริงออกมา",
+            "en": "He showed his true self.",
+            "audio_src": "เขาแสดงตัวตนที่แท้จริงออกมา",
+            "audio_en_src": "He showed his true self."
+          }
+        ]
+      }
     ]
   },
   {

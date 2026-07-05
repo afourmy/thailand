@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6092 words**
+**Total: 6102 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5705,8 +5705,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-022` : การเมือง (politics) : 1 meaning(s), 2 sentences
 - `t4k-c01-023` : น่าเชื่อ (believable, credible) : 1 meaning(s), 2 sentences
 - `t4k-c01-024` : ผู้คน (people) : 1 meaning(s), 2 sentences
+- `t4k-c01-026` : เหมือนกับ (like, similar to, as if) : 1 meaning(s), 2 sentences
 - `t4k-c01-027` : คล้าย (to resemble, to look like) : 1 meaning(s), 2 sentences
 - `t4k-c01-028` : ช่วยเหลือ (to help, to assist) : 1 meaning(s), 2 sentences
+- `t4k-c01-029` : ยุค (era, epoch) : 1 meaning(s), 2 sentences
 - `t4k-c01-031` : ทางการ (official, formal) : 1 meaning(s), 2 sentences
 - `t4k-c01-035` : รวดเร็ว (fast, quick (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c01-036` : ข้าง (side) : 1 meaning(s), 2 sentences
@@ -5717,11 +5719,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-047` : เกี่ยวข้อง (related, connected) : 1 meaning(s), 2 sentences
 - `t4k-c01-051` : แสง (light) : 1 meaning(s), 2 sentences
 - `t4k-c01-052` : ทำการ (to carry out, to perform, to conduct) : 1 meaning(s), 2 sentences
+- `t4k-c01-053` : พรรค (political party) : 1 meaning(s), 2 sentences
 - `t4k-c01-055` : ความสามารถ (ability) : 1 meaning(s), 2 sentences
 - `t4k-c01-056` : ใกล้ชิด (adjacent, close; intimate) : 2 meaning(s), 4 sentences
+- `t4k-c01-058` : ดังนี้ (as follows) : 1 meaning(s), 2 sentences
 - `t4k-c01-059` : ช้า (slow) : 1 meaning(s), 2 sentences
 - `t4k-c01-062` : พลัง (energy, power) : 1 meaning(s), 2 sentences
+- `t4k-c01-063` : นอกจากนี้ (in addition, besides this) : 1 meaning(s), 2 sentences
+- `t4k-c01-066` : สมบัติ (property, assets, possessions) : 1 meaning(s), 2 sentences
+- `t4k-c01-069` : จิต (mind, mental) : 1 meaning(s), 2 sentences
 - `t4k-c01-073` : ฝัน (dream) : 1 meaning(s), 2 sentences
+- `t4k-c01-074` : มีชื่อ (famous, well-known) : 1 meaning(s), 2 sentences
+- `t4k-c01-078` : แทนที่ (to replace, to stand in for, instead) : 1 meaning(s), 2 sentences
+- `t4k-c01-079` : แท้จริง (real, true, genuine) : 1 meaning(s), 2 sentences
 - `t4k-c01-080` : ความผิด (fault, mistake) : 1 meaning(s), 2 sentences
 - `t4k-c01-082` : ต่อสู้ (to fight, to struggle) : 1 meaning(s), 2 sentences
 - `t4k-c01-084` : ร้าย (bad, evil, harmful) : 1 meaning(s), 2 sentences
