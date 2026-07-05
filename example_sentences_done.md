@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6072 words**
+**Total: 6082 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5485,10 +5485,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-050` : สูบบุหรี่ (to smoke (cigarettes)) : 1 meaning(s), 2 sentences
 - `wlt-c19-051` : เสาร์อาทิตย์นี้ (this weekend) : 1 meaning(s), 2 sentences
 - `wlt-c19-052` : เสียว (scared, thrilled, strong or sharp feeling; (informal) sexually aroused) : 2 meaning(s), 4 sentences
+- `wlt-c19-053` : เสียหน้า (to lose face) : 1 meaning(s), 2 sentences
+- `wlt-c19-054` : ใส่ถุง (to bag up (to take away)) : 1 meaning(s), 2 sentences
+- `wlt-c19-057` : หมดสติ (unconscious) : 1 meaning(s), 2 sentences
 - `wlt-c19-058` : หมดอายุ (to be expired) : 1 meaning(s), 2 sentences
+- `wlt-c19-060` : หลายปี (many years) : 1 meaning(s), 2 sentences
 - `wlt-c19-062` : หวัดดี (hi, bye (casual)) : 1 meaning(s), 2 sentences
+- `wlt-c19-064` : ห้องพัดลม (room with fan) : 1 meaning(s), 2 sentences
+- `wlt-c19-065` : ห้องแอร์ (air-conditioned room) : 1 meaning(s), 2 sentences
+- `wlt-c19-066` : หายใจไม่ออก (to be unable to breathe) : 1 meaning(s), 2 sentences
 - `wlt-c19-068` : เหงา (lonely) : 1 meaning(s), 2 sentences
+- `wlt-c19-071` : ออกลูก (to give birth) : 1 meaning(s), 2 sentences
 - `wlt-c19-074` : อ่านเล่น (to read for pleasure) : 1 meaning(s), 2 sentences
+- `wlt-c19-075` : อาหารเป็นพิษ (food poisoning) : 1 meaning(s), 2 sentences
+- `wlt-c19-076` : อีกนาน (still a long way off, not anytime soon) : 1 meaning(s), 2 sentences
 - `wlt-c19-080` : แอบดู (to peek at, to secretly watch) : 1 meaning(s), 2 sentences
 - `wlt-c19-081` : กรกฎาคม (July) : 1 meaning(s), 2 sentences
 - `wlt-c19-082` : กระดาษ (paper) : 1 meaning(s), 2 sentences

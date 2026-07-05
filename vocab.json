@@ -204549,6 +204549,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to lose face",
+        "sentences": [
+          {
+            "thai": "เขาตอบผิดกลางห้องรู้สึกเสียหน้า",
+            "en": "He answered wrong in front of the class and felt embarrassed.",
+            "audio_src": "เขาตอบผิดกลางห้องรู้สึกเสียหน้า",
+            "audio_en_src": "He answered wrong in front of the class and felt embarrassed."
+          },
+          {
+            "thai": "ไม่อยากเสียหน้าต่อหน้าเพื่อน",
+            "en": "I don't want to lose face in front of my friends.",
+            "audio_src": "ไม่อยากเสียหน้าต่อหน้าเพื่อน",
+            "audio_en_src": "I don't want to lose face in front of my friends."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204559,6 +204578,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to bag up (to take away)",
+        "sentences": [
+          {
+            "thai": "ขอใส่ถุงกลับบ้าน",
+            "en": "Please bag it up to take home.",
+            "audio_src": "ขอใส่ถุงกลับบ้าน",
+            "audio_en_src": "Please bag it up to take home."
+          },
+          {
+            "thai": "แม่ค้าใส่ถุงผลไม้ให้ลูกค้า",
+            "en": "The vendor bags up the fruit for the customer.",
+            "audio_src": "แม่ค้าใส่ถุงผลไม้ให้ลูกค้า",
+            "audio_en_src": "The vendor bags up the fruit for the customer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204569,6 +204607,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "unconscious",
+        "sentences": [
+          {
+            "thai": "เขาหมดสติเพราะเสียเลือดมาก",
+            "en": "He lost consciousness from losing a lot of blood.",
+            "audio_src": "เขาหมดสติเพราะเสียเลือดมาก",
+            "audio_en_src": "He lost consciousness from losing a lot of blood."
+          },
+          {
+            "thai": "คนไข้หมดสติต้องรีบปั๊มหัวใจ",
+            "en": "The unconscious patient needs CPR right away.",
+            "audio_src": "คนไข้หมดสติต้องรีบปั๊มหัวใจ",
+            "audio_en_src": "The unconscious patient needs CPR right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204610,6 +204667,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "many years",
+        "sentences": [
+          {
+            "thai": "เขาอยู่ต่างประเทศมาหลายปี",
+            "en": "He's lived abroad for many years.",
+            "audio_src": "เขาอยู่ต่างประเทศมาหลายปี",
+            "audio_en_src": "He's lived abroad for many years."
+          },
+          {
+            "thai": "ผ่านมาหลายปีแล้วเรายังคิดถึงกัน",
+            "en": "Many years have passed and we still miss each other.",
+            "audio_src": "ผ่านมาหลายปีแล้วเรายังคิดถึงกัน",
+            "audio_en_src": "Many years have passed and we still miss each other."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204653,6 +204729,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "room with fan",
+        "sentences": [
+          {
+            "thai": "ห้องพัดลมราคาถูกกว่าห้องแอร์",
+            "en": "A fan room is cheaper than an air-con room.",
+            "audio_src": "ห้องพัดลมราคาถูกกว่าห้องแอร์",
+            "audio_en_src": "A fan room is cheaper than an air-con room."
+          },
+          {
+            "thai": "หน้าร้อนนอนห้องพัดลมร้อนมาก",
+            "en": "In summer, sleeping in a fan room is very hot.",
+            "audio_src": "หน้าร้อนนอนห้องพัดลมร้อนมาก",
+            "audio_en_src": "In summer, sleeping in a fan room is very hot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204663,6 +204758,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "air-conditioned room",
+        "sentences": [
+          {
+            "thai": "ห้องแอร์เย็นสบายเหมาะกับหน้าร้อน",
+            "en": "An air-con room is nice and cool for the summer.",
+            "audio_src": "ห้องแอร์เย็นสบายเหมาะกับหน้าร้อน",
+            "audio_en_src": "An air-con room is nice and cool for the summer."
+          },
+          {
+            "thai": "เขาจองห้องแอร์เพราะกลัวร้อน",
+            "en": "He booked an air-con room because he hates the heat.",
+            "audio_src": "เขาจองห้องแอร์เพราะกลัวร้อน",
+            "audio_en_src": "He booked an air-con room because he hates the heat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204673,6 +204787,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to be unable to breathe",
+        "sentences": [
+          {
+            "thai": "ควันเยอะจนหายใจไม่ออก",
+            "en": "There's so much smoke I can't breathe.",
+            "audio_src": "ควันเยอะจนหายใจไม่ออก",
+            "audio_en_src": "There's so much smoke I can't breathe."
+          },
+          {
+            "thai": "เขาหอบจนหายใจไม่ออก",
+            "en": "He was gasping and couldn't breathe.",
+            "audio_src": "เขาหอบจนหายใจไม่ออก",
+            "audio_en_src": "He was gasping and couldn't breathe."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204728,6 +204861,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to give birth",
+        "sentences": [
+          {
+            "thai": "แมวออกลูกห้าตัว",
+            "en": "The cat gave birth to five kittens.",
+            "audio_src": "แมวออกลูกห้าตัว",
+            "audio_en_src": "The cat gave birth to five kittens."
+          },
+          {
+            "thai": "วัวตัวนี้กำลังจะออกลูก",
+            "en": "This cow is about to give birth.",
+            "audio_src": "วัวตัวนี้กำลังจะออกลูก",
+            "audio_en_src": "This cow is about to give birth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204769,6 +204921,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "food poisoning",
+        "sentences": [
+          {
+            "thai": "กินของค้างคืนจนอาหารเป็นพิษ",
+            "en": "I ate leftover food and got food poisoning.",
+            "audio_src": "กินของค้างคืนจนอาหารเป็นพิษ",
+            "audio_en_src": "I ate leftover food and got food poisoning."
+          },
+          {
+            "thai": "อาหารเป็นพิษทำให้ท้องเสียรุนแรง",
+            "en": "Food poisoning causes severe diarrhea.",
+            "audio_src": "อาหารเป็นพิษทำให้ท้องเสียรุนแรง",
+            "audio_en_src": "Food poisoning causes severe diarrhea."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204779,6 +204950,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "still a long way off, not anytime soon",
+        "sentences": [
+          {
+            "thai": "กว่ารถไฟจะมาอีกนาน",
+            "en": "It'll be a long while before the train comes.",
+            "audio_src": "กว่ารถไฟจะมาอีกนาน",
+            "audio_en_src": "It'll be a long while before the train comes."
+          },
+          {
+            "thai": "เรียนจบยังอีกนานเลย",
+            "en": "Graduating is still a long way off.",
+            "audio_src": "เรียนจบยังอีกนานเลย",
+            "audio_en_src": "Graduating is still a long way off."
+          }
+        ]
+      }
     ]
   },
   {
