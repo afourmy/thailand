@@ -6327,7 +6327,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-22` : ยางรั่ว (tire leak) : 1 meaning(s), 2 sentences
 - `new-23` : ยางแบน (flat tire) : 1 meaning(s), 2 sentences
 - `new-24` : สะเออะ (to overstep one's place, to shamelessly butt in, to have the nerve to do something) : 1 meaning(s), 2 sentences
-- `new-25` : สะเหล่อ (awkwardly nosy, tactless, lacking social awareness) : 1 meaning(s), 2 sentences
+- `new-25` : สะเหล่อ (goofy, dorky, socially clueless) : 1 meaning(s), 2 sentences
 - `new-26` : ฉิบหาย ("...as fuck", "fucking..."; screwed, awful, fucked-up (slang)) : 2 meaning(s), 4 sentences
 - `new-27` : ฉิบหายวายวอด (completely screwed, utterly destroyed, total annihilation (slang)) : 1 meaning(s), 2 sentences
 - `new-28` : เขย (in-law (male)) : 1 meaning(s), 2 sentences
