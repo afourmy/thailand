@@ -222634,6 +222634,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "vocabulary, term",
+        "sentences": [
+          {
+            "thai": "วันนี้ครูสอนศัพท์ใหม่สิบคำ",
+            "en": "Today the teacher taught ten new vocabulary words.",
+            "audio_src": "วันนี้ครูสอนศัพท์ใหม่สิบคำ",
+            "audio_en_src": "Today the teacher taught ten new vocabulary words."
+          },
+          {
+            "thai": "ศัพท์ทางการแพทย์เข้าใจยาก",
+            "en": "Medical terms are hard to understand.",
+            "audio_src": "ศัพท์ทางการแพทย์เข้าใจยาก",
+            "audio_en_src": "Medical terms are hard to understand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222705,6 +222724,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "governor",
+        "sentences": [
+          {
+            "thai": "ผู้ว่าราชการลงพื้นที่ดูน้ำท่วม",
+            "en": "The governor went out to inspect the flooding.",
+            "audio_src": "ผู้ว่าราชการลงพื้นที่ดูน้ำท่วม",
+            "audio_en_src": "The governor went out to inspect the flooding."
+          },
+          {
+            "thai": "คนกรุงเทพได้เลือกผู้ว่าราชการคนใหม่",
+            "en": "Bangkok residents elected a new governor.",
+            "audio_src": "คนกรุงเทพได้เลือกผู้ว่าราชการคนใหม่",
+            "audio_en_src": "Bangkok residents elected a new governor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222737,6 +222775,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "muslim",
+        "sentences": [
+          {
+            "thai": "เพื่อนสนิทของฉันเป็นมุสลิม",
+            "en": "My close friend is Muslim.",
+            "audio_src": "เพื่อนสนิทของฉันเป็นมุสลิม",
+            "audio_en_src": "My close friend is Muslim."
+          },
+          {
+            "thai": "ชาวมุสลิมถือศีลอดในเดือนรอมฎอน",
+            "en": "Muslims fast during the month of Ramadan.",
+            "audio_src": "ชาวมุสลิมถือศีลอดในเดือนรอมฎอน",
+            "audio_en_src": "Muslims fast during the month of Ramadan."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222747,6 +222804,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "conscience, moral awareness",
+        "sentences": [
+          {
+            "thai": "คนที่โกงเงินคนแก่ไม่มีจิตสำนึกเลย",
+            "en": "Someone who cheats the elderly out of money has no conscience.",
+            "audio_src": "คนที่โกงเงินคนแก่ไม่มีจิตสำนึกเลย",
+            "audio_en_src": "Someone who cheats the elderly out of money has no conscience."
+          },
+          {
+            "thai": "เราควรมีจิตสำนึกในการรักษาสิ่งแวดล้อม",
+            "en": "We should have the awareness to protect the environment.",
+            "audio_src": "เราควรมีจิตสำนึกในการรักษาสิ่งแวดล้อม",
+            "audio_en_src": "We should have the awareness to protect the environment."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222990,6 +223066,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "refreshed, invigorated, lively (e.g feeling, atmosphere)",
+        "sentences": [
+          {
+            "thai": "อาบน้ำเย็นแล้วรู้สึกสดชื่น",
+            "en": "A cold shower leaves me feeling refreshed.",
+            "audio_src": "อาบน้ำเย็นแล้วรู้สึกสดชื่น",
+            "audio_en_src": "A cold shower leaves me feeling refreshed."
+          },
+          {
+            "thai": "อากาศตอนเช้าที่ภูเขาสดชื่นมาก",
+            "en": "The morning air in the mountains is so refreshing.",
+            "audio_src": "อากาศตอนเช้าที่ภูเขาสดชื่นมาก",
+            "audio_en_src": "The morning air in the mountains is so refreshing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223000,6 +223095,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "regulation, norm, standard",
+        "sentences": [
+          {
+            "thai": "ที่ทำงานนี้มีกฎเกณฑ์เยอะมาก",
+            "en": "This workplace has a lot of rules.",
+            "audio_src": "ที่ทำงานนี้มีกฎเกณฑ์เยอะมาก",
+            "audio_en_src": "This workplace has a lot of rules."
+          },
+          {
+            "thai": "ทุกคนต้องเล่นตามกฎเกณฑ์เดียวกัน",
+            "en": "Everyone has to play by the same rules.",
+            "audio_src": "ทุกคนต้องเล่นตามกฎเกณฑ์เดียวกัน",
+            "audio_en_src": "Everyone has to play by the same rules."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223102,6 +223216,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "central region",
+        "sentences": [
+          {
+            "thai": "ภาคกลางของไทยเป็นที่ราบลุ่ม",
+            "en": "Thailand's central region is a lowland plain.",
+            "audio_src": "ภาคกลางของไทยเป็นที่ราบลุ่ม",
+            "audio_en_src": "Thailand's central region is a lowland plain."
+          },
+          {
+            "thai": "ข้าวส่วนใหญ่ปลูกกันในภาคกลาง",
+            "en": "Most of the rice is grown in the central region.",
+            "audio_src": "ข้าวส่วนใหญ่ปลูกกันในภาคกลาง",
+            "audio_en_src": "Most of the rice is grown in the central region."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223112,6 +223245,25 @@
     "topic": "beliefs",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hell",
+        "sentences": [
+          {
+            "thai": "คนโบราณเชื่อว่าคนทำบาปจะตกนรก",
+            "en": "People in the old days believed sinners would fall into hell.",
+            "audio_src": "คนโบราณเชื่อว่าคนทำบาปจะตกนรก",
+            "audio_en_src": "People in the old days believed sinners would fall into hell."
+          },
+          {
+            "thai": "รถติดแบบนี้เหมือนตกนรกเลย",
+            "en": "Traffic like this is absolute hell.",
+            "audio_src": "รถติดแบบนี้เหมือนตกนรกเลย",
+            "audio_en_src": "Traffic like this is absolute hell."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223132,6 +223284,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "house of representatives (lower house of parliament)",
+        "sentences": [
+          {
+            "thai": "สภาผู้แทนราษฎรลงมติผ่านร่างกฎหมาย",
+            "en": "The House of Representatives voted to pass the bill.",
+            "audio_src": "สภาผู้แทนราษฎรลงมติผ่านร่างกฎหมาย",
+            "audio_en_src": "The House of Representatives voted to pass the bill."
+          },
+          {
+            "thai": "การประชุมสภาผู้แทนราษฎรจัดขึ้นทุกสัปดาห์",
+            "en": "House sessions are held every week.",
+            "audio_src": "การประชุมสภาผู้แทนราษฎรจัดขึ้นทุกสัปดาห์",
+            "audio_en_src": "House sessions are held every week."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223415,6 +223586,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "living being, organism",
+        "sentences": [
+          {
+            "thai": "น้ำเป็นสิ่งจำเป็นต่อสิ่งมีชีวิตทุกชนิด",
+            "en": "Water is essential to every kind of living thing.",
+            "audio_src": "น้ำเป็นสิ่งจำเป็นต่อสิ่งมีชีวิตทุกชนิด",
+            "audio_en_src": "Water is essential to every kind of living thing."
+          },
+          {
+            "thai": "นักวิทยาศาสตร์ค้นพบสิ่งมีชีวิตชนิดใหม่ในถ้ำ",
+            "en": "Scientists discovered a new organism in the cave.",
+            "audio_src": "นักวิทยาศาสตร์ค้นพบสิ่งมีชีวิตชนิดใหม่ในถ้ำ",
+            "audio_en_src": "Scientists discovered a new organism in the cave."
+          }
+        ]
+      }
     ]
   },
   {

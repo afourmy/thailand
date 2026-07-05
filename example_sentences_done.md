@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6212 words**
+**Total: 6222 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5999,21 +5999,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-002` : ทัศนะ (viewpoint, point of view, stance (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-004` : ความเครียด (stress) : 1 meaning(s), 2 sentences
 - `t4k-c07-005` : เงินทุน (capital, investment money) : 1 meaning(s), 2 sentences
+- `t4k-c07-006` : ศัพท์ (vocabulary, term) : 1 meaning(s), 2 sentences
 - `t4k-c07-009` : ตกต่ำ (to decline, to deteriorate) : 1 meaning(s), 2 sentences
+- `t4k-c07-011` : ผู้ว่าราชการ (governor) : 1 meaning(s), 2 sentences
+- `t4k-c07-014` : มุสลิม (muslim) : 1 meaning(s), 2 sentences
+- `t4k-c07-021` : จิตสำนึก (conscience, moral awareness) : 1 meaning(s), 2 sentences
 - `t4k-c07-022` : รวบ (to gather, to collect together, to bundle up, to tie up; to arrest (police)) : 2 meaning(s), 4 sentences
 - `t4k-c07-023` : จุดเริ่มต้น (starting point) : 1 meaning(s), 2 sentences
 - `t4k-c07-026` : ฆ่าตัวตาย (to commit suicide) : 1 meaning(s), 2 sentences
 - `t4k-c07-029` : ผู้ดูแล (caretaker, supervisor) : 1 meaning(s), 2 sentences
 - `t4k-c07-032` : ห้องเรียน (classroom) : 1 meaning(s), 2 sentences
 - `t4k-c07-033` : จัดวาง (to arrange, to lay out, to place) : 1 meaning(s), 2 sentences
+- `t4k-c07-035` : สดชื่น (refreshed, invigorated, lively (e.g feeling, atmosphere)) : 1 meaning(s), 2 sentences
+- `t4k-c07-036` : กฎเกณฑ์ (regulation, norm, standard) : 1 meaning(s), 2 sentences
 - `t4k-c07-038` : รุก (to attack forward, to advance (e.g army, chess piece)) : 1 meaning(s), 2 sentences
 - `t4k-c07-040` : ฝุ่น (dust) : 1 meaning(s), 2 sentences
+- `t4k-c07-044` : ภาคกลาง (central region) : 1 meaning(s), 2 sentences
+- `t4k-c07-045` : นรก (hell) : 1 meaning(s), 2 sentences
+- `t4k-c07-047` : สภาผู้แทนราษฎร (house of representatives (lower house of parliament)) : 1 meaning(s), 2 sentences
 - `t4k-c07-053` : สันติภาพ (peace (opposite of war)) : 1 meaning(s), 2 sentences
 - `t4k-c07-057` : สูญหาย (to be lost, to go missing, to disappear) : 1 meaning(s), 2 sentences
 - `t4k-c07-058` : นวล (soft, gentle (texture, light); pale (skin tone, color)) : 2 meaning(s), 4 sentences
 - `t4k-c07-061` : หรูหรา (luxurious, lavish, fancy) : 1 meaning(s), 2 sentences
 - `t4k-c07-062` : รับทราบ (to acknowledge, to take note (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-064` : แม่นยำ (accurate, exact) : 1 meaning(s), 2 sentences
+- `t4k-c07-065` : สิ่งมีชีวิต (living being, organism) : 1 meaning(s), 2 sentences
 - `t4k-c07-072` : ผู้ฟัง (listener, audience) : 1 meaning(s), 2 sentences
 - `t4k-c07-075` : เทอม (academic term, semester) : 1 meaning(s), 2 sentences
 - `t4k-c07-076` : สถาปนิก (architect) : 1 meaning(s), 2 sentences
