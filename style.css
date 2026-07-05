@@ -1197,6 +1197,11 @@ html[lang="fr"] .en { display: none; }
   cursor: pointer;
 }
 
+/* display: flex above would otherwise override the hidden attribute. */
+.vocab-search-clear[hidden] {
+  display: none;
+}
+
 .vocab-search-clear:hover {
   background: rgba(0, 0, 0, 0.08);
   color: var(--text);
