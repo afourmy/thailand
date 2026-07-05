@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5542 words**
+**Total: 5552 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3966,16 +3966,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-036` : ตบมือข้างเดียวไม่ดัง (it takes two to tango (literally "one hand can't clap")) : 1 meaning(s), 1 sentences
 - `yt-c21-037` : จู๋, กระเจี๊ยว, กระปู๋, เจ้าโลก, องคชาต, ปิกาจู, กระดอ, ช้างน้อย, จ้อน, งู, น้องชาย (various words for "dick") : 1 meaning(s), 2 sentences
 - `yt-c21-042` : ให้ความเห็นชอบ (to give one's approval, to give consent) : 1 meaning(s), 2 sentences
+- `yt-c21-043` : เพ้อเจ้อ (to talk nonsense, to ramble incoherently, to be delusional) : 1 meaning(s), 2 sentences
+- `yt-c21-044` : เวลาเยียวยาทุกสิ่ง (time heals all wounds) : 1 meaning(s), 1 sentences
+- `yt-c21-045` : หนังโป๊ (porno) : 1 meaning(s), 2 sentences
 - `yt-c21-047` : คราง (to groan, to moan (e.g heavy work, sex)) : 1 meaning(s), 2 sentences
+- `yt-c21-048` : แดก (to devour, to eat (slang, rude)) : 1 meaning(s), 2 sentences
+- `yt-c21-050` : กินมูมมาม (to eat messily and greedily, to make a mess while eating (slang)) : 1 meaning(s), 2 sentences
 - `yt-c21-052` : ยอดมนุษย์ (superhero) : 1 meaning(s), 2 sentences
+- `yt-c21-053` : งานประดิษฐ์ (handicraft, craftwork) : 1 meaning(s), 2 sentences
 - `yt-c21-054` : ขับเคลื่อน (to drive, to propel, to move forward) : 1 meaning(s), 2 sentences
 - `yt-c21-055` : จับตามอง (to watch closely, to keep an eye on) : 1 meaning(s), 2 sentences
 - `yt-c21-059` : เยี่ยมเยือน (to pay a visit, to visit (formal)) : 1 meaning(s), 2 sentences
+- `yt-c21-060` : สะเทือนใจ (heartbreaking, deeply moved, emotionally shaken (formal)) : 1 meaning(s), 2 sentences
 - `yt-c21-061` : พอเพียง (sufficient, self-restrained, having just enough, not excessive not lacking) : 1 meaning(s), 2 sentences
+- `yt-c21-067` : รื่นเริง (cheerful, joyful (atmosphere, event)) : 1 meaning(s), 2 sentences
 - `yt-c21-069` : เฉียด ("almost there", "narrowly missed", to narrowly miss, to almost hit) : 1 meaning(s), 2 sentences
 - `yt-c21-070` : ตะเบ็ง (to shout, to yell) : 1 meaning(s), 2 sentences
 - `yt-c21-071` : พึมพำ (to mumble) : 1 meaning(s), 2 sentences
 - `yt-c21-074` : เหลือบ (to glance, to peek quickly (brief or sideway look to be discrete)) : 1 meaning(s), 2 sentences
+- `yt-c21-078` : แอ๊บ (to act, to pretend (usually to look like something one is not)) : 1 meaning(s), 2 sentences
+- `new-3` : แอ๊บแบ๊ว (to act cute, innocent in an exaggerated way) : 1 meaning(s), 2 sentences
 - `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
 - `yt-c22-005` : คาดคะเน (to estimate, to predict, to infer) : 1 meaning(s), 2 sentences
 - `yt-c22-011` : ยอ (to flatter, to suck up to) : 1 meaning(s), 2 sentences
