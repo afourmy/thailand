@@ -159423,6 +159423,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "coconut milk",
+        "sentences": [
+          {
+            "thai": "แกงนี้ใส่กะทิเยอะ",
+            "en": "This curry has a lot of coconut milk in it.",
+            "audio_src": "แกงนี้ใส่กะทิเยอะ",
+            "audio_en_src": "This curry has a lot of coconut milk in it."
+          },
+          {
+            "thai": "ขนมไทยส่วนใหญ่ทำจากกะทิ",
+            "en": "Most Thai desserts are made with coconut milk.",
+            "audio_src": "ขนมไทยส่วนใหญ่ทำจากกะทิ",
+            "audio_en_src": "Most Thai desserts are made with coconut milk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159433,6 +159452,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "basil",
+        "sentences": [
+          {
+            "thai": "ผัดกะเพราหมูสับเผ็ดๆ",
+            "en": "Spicy stir-fried holy basil with minced pork.",
+            "audio_src": "ผัดกะเพราหมูสับเผ็ดๆ",
+            "audio_en_src": "Spicy stir-fried holy basil with minced pork."
+          },
+          {
+            "thai": "ใส่ใบกะเพราเพิ่มความหอม",
+            "en": "Add basil leaves for extra fragrance.",
+            "audio_src": "ใส่ใบกะเพราเพิ่มความหอม",
+            "audio_en_src": "Add basil leaves for extra fragrance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159443,6 +159481,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "teapot",
+        "sentences": [
+          {
+            "thai": "รินชาจากกาน้ำชา",
+            "en": "Pour the tea from the teapot.",
+            "audio_src": "รินชาจากกาน้ำชา",
+            "audio_en_src": "Pour the tea from the teapot."
+          },
+          {
+            "thai": "กาน้ำชาใบนี้ทำจากดินเผา",
+            "en": "This teapot is made of clay.",
+            "audio_src": "กาน้ำชาใบนี้ทำจากดินเผา",
+            "audio_en_src": "This teapot is made of clay."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159518,6 +159575,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to clear the table",
+        "sentences": [
+          {
+            "thai": "กินเสร็จแล้วช่วยเก็บโต๊ะด้วย",
+            "en": "When you're done eating, help clear the table.",
+            "audio_src": "กินเสร็จแล้วช่วยเก็บโต๊ะด้วย",
+            "audio_en_src": "When you're done eating, help clear the table."
+          },
+          {
+            "thai": "พนักงานมาเก็บโต๊ะหลังลูกค้ากลับ",
+            "en": "The staff clears the table after customers leave.",
+            "audio_src": "พนักงานมาเก็บโต๊ะหลังลูกค้ากลับ",
+            "audio_en_src": "The staff clears the table after customers leave."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159559,6 +159635,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ninety-one (91)",
+        "sentences": [
+          {
+            "thai": "คุณยายอายุเก้าสิบเอ็ดปี",
+            "en": "Grandma is ninety-one years old.",
+            "audio_src": "คุณยายอายุเก้าสิบเอ็ดปี",
+            "audio_en_src": "Grandma is ninety-one years old."
+          },
+          {
+            "thai": "หนังสือเล่มนี้มีเก้าสิบเอ็ดหน้า",
+            "en": "This book has ninety-one pages.",
+            "audio_src": "หนังสือเล่มนี้มีเก้าสิบเอ็ดหน้า",
+            "audio_en_src": "This book has ninety-one pages."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159569,6 +159664,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "green curry",
+        "sentences": [
+          {
+            "thai": "แกงเขียวหวานไก่รสจัดจ้าน",
+            "en": "Green curry with chicken, richly flavored.",
+            "audio_src": "แกงเขียวหวานไก่รสจัดจ้าน",
+            "audio_en_src": "Green curry with chicken, richly flavored."
+          },
+          {
+            "thai": "กินแกงเขียวหวานกับข้าวสวย",
+            "en": "Eat green curry with steamed rice.",
+            "audio_src": "กินแกงเขียวหวานกับข้าวสวย",
+            "audio_en_src": "Eat green curry with steamed rice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159579,6 +159693,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "massaman curry",
+        "sentences": [
+          {
+            "thai": "แกงมัสมั่นเนื้อหอมเครื่องเทศ",
+            "en": "Massaman beef curry, fragrant with spices.",
+            "audio_src": "แกงมัสมั่นเนื้อหอมเครื่องเทศ",
+            "audio_en_src": "Massaman beef curry, fragrant with spices."
+          },
+          {
+            "thai": "แกงมัสมั่นรสไม่เผ็ดมาก",
+            "en": "Massaman curry isn't very spicy.",
+            "audio_src": "แกงมัสมั่นรสไม่เผ็ดมาก",
+            "audio_en_src": "Massaman curry isn't very spicy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159589,6 +159722,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "yellow curry",
+        "sentences": [
+          {
+            "thai": "แกงเหลืองปลารสเปรี้ยวเผ็ด",
+            "en": "Yellow curry with fish, sour and spicy.",
+            "audio_src": "แกงเหลืองปลารสเปรี้ยวเผ็ด",
+            "audio_en_src": "Yellow curry with fish, sour and spicy."
+          },
+          {
+            "thai": "คนใต้ชอบกินแกงเหลือง",
+            "en": "Southerners love yellow curry.",
+            "audio_src": "คนใต้ชอบกินแกงเหลือง",
+            "audio_en_src": "Southerners love yellow curry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159631,6 +159783,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "wine glass",
+        "sentences": [
+          {
+            "thai": "รินไวน์ใส่แก้วไวน์",
+            "en": "Pour the wine into the wine glass.",
+            "audio_src": "รินไวน์ใส่แก้วไวน์",
+            "audio_en_src": "Pour the wine into the wine glass."
+          },
+          {
+            "thai": "แก้วไวน์แตกตอนล้าง",
+            "en": "The wine glass broke while I was washing it.",
+            "audio_src": "แก้วไวน์แตกตอนล้าง",
+            "audio_en_src": "The wine glass broke while I was washing it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -159641,6 +159812,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai vermicelli",
+        "sentences": [
+          {
+            "thai": "ขนมจีนน้ำยากินกับผัก",
+            "en": "Thai vermicelli with curry sauce, eaten with vegetables.",
+            "audio_src": "ขนมจีนน้ำยากินกับผัก",
+            "audio_en_src": "Thai vermicelli with curry sauce, eaten with vegetables."
+          },
+          {
+            "thai": "เช้านี้กินขนมจีนน้ำเงี้ยว",
+            "en": "This morning I had khanom jeen nam ngiao.",
+            "audio_src": "เช้านี้กินขนมจีนน้ำเงี้ยว",
+            "audio_en_src": "This morning I had khanom jeen nam ngiao."
+          }
+        ]
+      }
     ]
   },
   {

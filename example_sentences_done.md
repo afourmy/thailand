@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5632 words**
+**Total: 5642 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4094,10 +4094,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c23-032` : กลับด้าน (to flip to the other side, to turn inside out) : 1 meaning(s), 2 sentences
 - `wlt-c01-000` : กระดิ่ง (small, simple bell (e.g bicycle)) : 1 meaning(s), 2 sentences
 - `wlt-c01-004` : กลางเดือน (middle of the month) : 1 meaning(s), 2 sentences
+- `wlt-c01-006` : กะทิ (coconut milk) : 1 meaning(s), 2 sentences
+- `wlt-c01-007` : กะเพรา (basil) : 1 meaning(s), 2 sentences
+- `wlt-c01-008` : กาน้ำชา (teapot) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-011` : เก๊ (fake, counterfeit) : 1 meaning(s), 2 sentences
+- `wlt-c01-013` : เก็บโต๊ะ (to clear the table) : 1 meaning(s), 2 sentences
 - `wlt-c01-014` : เกษียณ (to retire) : 1 meaning(s), 2 sentences
+- `wlt-c01-015` : เก้าสิบเอ็ด (ninety-one (91)) : 1 meaning(s), 2 sentences
+- `wlt-c01-016` : แกงเขียวหวาน (green curry) : 1 meaning(s), 2 sentences
+- `wlt-c01-017` : แกงมัสมั่น (massaman curry) : 1 meaning(s), 2 sentences
+- `wlt-c01-018` : แกงเหลือง (yellow curry) : 1 meaning(s), 2 sentences
 - `wlt-c01-019` : แก้ตัว (to excuse oneself, to make excuses) : 1 meaning(s), 2 sentences
+- `wlt-c01-020` : แก้วไวน์ (wine glass) : 1 meaning(s), 2 sentences
+- `wlt-c01-021` : ขนมจีน (Thai vermicelli) : 1 meaning(s), 2 sentences
 - `wlt-c01-022` : ขยะ (rubbish, trash) : 1 meaning(s), 2 sentences
 - `wlt-c01-023` : ของจริง (real thing) : 1 meaning(s), 2 sentences
 - `wlt-c01-024` : ของใช้ (appliance, utensils, wares) : 1 meaning(s), 2 sentences
