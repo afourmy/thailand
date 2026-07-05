@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5612 words**
+**Total: 5622 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4068,7 +4068,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-097` : เอาการ (quite, very, seriously) : 1 meaning(s), 2 sentences
 - `yt-c22-098` : อ้ำอึ้ง (hesitant, tongue-tied, at a loss for words, unsure what to say) : 1 meaning(s), 2 sentences
 - `yt-c22-099` : ทำตัวตามสบาย (make yourself comfortable) : 1 meaning(s), 2 sentences
+- `yt-c23-000` : น่าน้อยใจ (upsetting, hurtful, making someone feel slighted, left out) : 1 meaning(s), 2 sentences
+- `yt-c23-001` : หัวอก (one's feelings, state of mind, emotional state) : 1 meaning(s), 2 sentences
+- `yt-c23-002` : มองบน (to roll one's eyes, to look up in annoyance or exasperation) : 1 meaning(s), 2 sentences
+- `yt-c23-003` : เป็นหน้าเป็นตา (to make someone look good, to give "face", to bring prestige, pride, social credit) : 1 meaning(s), 2 sentences
+- `yt-c23-005` : คุมกำเนิด (birth control, contraception) : 1 meaning(s), 2 sentences
+- `yt-c23-006` : ครั้งแล้วครั้งเล่า (again and again, time and time again) : 1 meaning(s), 2 sentences
+- `yt-c23-008` : ไม่ช้าก็เร็ว (sooner or later) : 1 meaning(s), 2 sentences
+- `yt-c23-009` : เวลาเป็นเงินเป็นทอง ((idiom) time is money) : 1 meaning(s), 2 sentences
 - `yt-c23-011` : ตะไบเล็บ (to file one's nails) : 1 meaning(s), 2 sentences
+- `yt-c23-012` : ปากต่อปาก (by word of mouth) : 1 meaning(s), 2 sentences
+- `yt-c23-014` : เป็นประจำเดือน, เป็นเมนส์ (to be on one's period, to be menstruating) : 1 meaning(s), 2 sentences
 - `yt-c23-021` : ปิดกั้น (to seal off completely, to completely block (physically, or feelings)) : 1 meaning(s), 2 sentences
 - `yt-c23-022` : ขวางทาง (to block the way) : 1 meaning(s), 2 sentences
 - `yt-c23-024` : ตีหน้า (to deliberately put on a facial expression, to pretend to feel a certain way) : 1 meaning(s), 2 sentences
