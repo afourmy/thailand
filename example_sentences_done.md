@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5702 words**
+**Total: 5712 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4231,15 +4231,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-095` : น้ำชา (tea) : 1 meaning(s), 2 sentences
 - `wlt-c02-096` : น้ำดื่ม (drinking water) : 1 meaning(s), 2 sentences
 - `wlt-c02-098` : น้ำปลา (fish sauce) : 1 meaning(s), 2 sentences
+- `wlt-c02-099` : น้ำผลไม้ (fruit juice) : 1 meaning(s), 2 sentences
 - `wlt-c03-000` : น้ำมันพืช (vegetable oil) : 1 meaning(s), 2 sentences
+- `wlt-c03-001` : น้ำมันมะกอก (olive oil) : 1 meaning(s), 2 sentences
 - `wlt-c03-002` : นิดเดียว (only a little) : 1 meaning(s), 2 sentences
+- `wlt-c03-003` : นิสัยดี (well-behaved) : 1 meaning(s), 2 sentences
 - `wlt-c03-005` : เนื้อหมู (pork) : 1 meaning(s), 2 sentences
+- `wlt-c03-009` : ในไม่ช้า (soon, shortly) : 1 meaning(s), 2 sentences
 - `wlt-c03-013` : บ่อยๆ (often, frequently) : 1 meaning(s), 2 sentences
 - `wlt-c03-014` : บัตรเชิญ (invitation card) : 1 meaning(s), 2 sentences
 - `wlt-c03-015` : บัตรผ่าน (pass, entry card) : 1 meaning(s), 2 sentences
+- `wlt-c03-016` : บัว, ดอกบัว (lotus) : 1 meaning(s), 2 sentences
 - `wlt-c03-017` : บางอย่าง (something) : 1 meaning(s), 2 sentences
 - `wlt-c03-018` : บ้านเช่า (house to rent) : 1 meaning(s), 2 sentences
+- `wlt-c03-019` : เบคอน (bacon) : 1 meaning(s), 2 sentences
+- `wlt-c03-020` : เบาใจ (relieved) : 1 meaning(s), 2 sentences
+- `wlt-c03-021` : เบาะหลัง (backseat) : 1 meaning(s), 2 sentences
 - `wlt-c03-023` : แบบไหน (what type?) : 1 meaning(s), 2 sentences
+- `wlt-c03-025` : ใบร้อย (one hundred bill) : 1 meaning(s), 2 sentences
+- `wlt-c03-028` : ใบโหระพา (basil leaf) : 1 meaning(s), 2 sentences
 - `wlt-c03-032` : ประตูหน้า (front door) : 1 meaning(s), 2 sentences
 - `wlt-c03-035` : ปลุก (to wake someone up) : 1 meaning(s), 2 sentences
 - `wlt-c03-036` : ปีที่แล้ว (last year) : 1 meaning(s), 2 sentences

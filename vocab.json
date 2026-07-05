@@ -163675,6 +163675,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "fruit juice",
+        "sentences": [
+          {
+            "thai": "เช้านี้ดื่มน้ำผลไม้สด",
+            "en": "This morning I had some fresh fruit juice.",
+            "audio_src": "เช้านี้ดื่มน้ำผลไม้สด",
+            "audio_en_src": "This morning I had some fresh fruit juice."
+          },
+          {
+            "thai": "น้ำผลไม้กล่องมีน้ำตาลสูง",
+            "en": "Boxed fruit juice is high in sugar.",
+            "audio_src": "น้ำผลไม้กล่องมีน้ำตาลสูง",
+            "audio_en_src": "Boxed fruit juice is high in sugar."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163718,6 +163737,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "olive oil",
+        "sentences": [
+          {
+            "thai": "ผัดผักด้วยน้ำมันมะกอก",
+            "en": "Stir-fry the vegetables with olive oil.",
+            "audio_src": "ผัดผักด้วยน้ำมันมะกอก",
+            "audio_en_src": "Stir-fry the vegetables with olive oil."
+          },
+          {
+            "thai": "น้ำมันมะกอกดีต่อสุขภาพ",
+            "en": "Olive oil is good for your health.",
+            "audio_src": "น้ำมันมะกอกดีต่อสุขภาพ",
+            "audio_en_src": "Olive oil is good for your health."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163762,6 +163800,25 @@
     "topic": "personality",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "well-behaved",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้นิสัยดีมีมารยาท",
+            "en": "This kid is well-behaved and polite.",
+            "audio_src": "เด็กคนนี้นิสัยดีมีมารยาท",
+            "audio_en_src": "This kid is well-behaved and polite."
+          },
+          {
+            "thai": "เขานิสัยดีใครๆก็ชอบ",
+            "en": "He's good-natured, everyone likes him.",
+            "audio_src": "เขานิสัยดีใครๆก็ชอบ",
+            "audio_en_src": "He's good-natured, everyone likes him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163815,6 +163872,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "soon, shortly",
+        "sentences": [
+          {
+            "thai": "รถไฟจะมาถึงในไม่ช้า",
+            "en": "The train will arrive shortly.",
+            "audio_src": "รถไฟจะมาถึงในไม่ช้า",
+            "audio_en_src": "The train will arrive shortly."
+          },
+          {
+            "thai": "ในไม่ช้าเขาก็จะหายดี",
+            "en": "He'll recover soon.",
+            "audio_src": "ในไม่ช้าเขาก็จะหายดี",
+            "audio_en_src": "He'll recover soon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163920,6 +163996,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lotus",
+        "sentences": [
+          {
+            "thai": "ดอกบัวบานในสระ",
+            "en": "The lotus flowers are blooming in the pond.",
+            "audio_src": "ดอกบัวบานในสระ",
+            "audio_en_src": "The lotus flowers are blooming in the pond."
+          },
+          {
+            "thai": "คนไทยใช้บัวไหว้พระ",
+            "en": "Thai people use lotus flowers to make offerings.",
+            "audio_src": "คนไทยใช้บัวไหว้พระ",
+            "audio_en_src": "Thai people use lotus flowers to make offerings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163994,6 +164089,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bacon",
+        "sentences": [
+          {
+            "thai": "ไข่ดาวกินกับเบคอน",
+            "en": "Fried eggs with bacon.",
+            "audio_src": "ไข่ดาวกินกับเบคอน",
+            "audio_en_src": "Fried eggs with bacon."
+          },
+          {
+            "thai": "ทอดเบคอนให้กรอบ",
+            "en": "Fry the bacon until it's crispy.",
+            "audio_src": "ทอดเบคอนให้กรอบ",
+            "audio_en_src": "Fry the bacon until it's crispy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164004,6 +164118,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "relieved",
+        "sentences": [
+          {
+            "thai": "รู้ว่าลูกปลอดภัยก็เบาใจ",
+            "en": "Knowing my child is safe, I feel relieved.",
+            "audio_src": "รู้ว่าลูกปลอดภัยก็เบาใจ",
+            "audio_en_src": "Knowing my child is safe, I feel relieved."
+          },
+          {
+            "thai": "พอสอบเสร็จก็เบาใจไปเปลาะ",
+            "en": "Once the exam was over, a weight lifted off me.",
+            "audio_src": "พอสอบเสร็จก็เบาใจไปเปลาะ",
+            "audio_en_src": "Once the exam was over, a weight lifted off me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164014,6 +164147,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "backseat",
+        "sentences": [
+          {
+            "thai": "เด็กๆนั่งเบาะหลัง",
+            "en": "The kids sit in the backseat.",
+            "audio_src": "เด็กๆนั่งเบาะหลัง",
+            "audio_en_src": "The kids sit in the backseat."
+          },
+          {
+            "thai": "วางกระเป๋าไว้ที่เบาะหลัง",
+            "en": "Put the bag on the backseat.",
+            "audio_src": "วางกระเป๋าไว้ที่เบาะหลัง",
+            "audio_en_src": "Put the bag on the backseat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164057,6 +164209,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "one hundred bill",
+        "sentences": [
+          {
+            "thai": "ขอแลกใบร้อยเป็นแบงก์ย่อย",
+            "en": "Can I break a hundred into smaller notes?",
+            "audio_src": "ขอแลกใบร้อยเป็นแบงก์ย่อย",
+            "audio_en_src": "Can I break a hundred into smaller notes?"
+          },
+          {
+            "thai": "จ่ายค่าข้าวด้วยใบร้อยใบเดียว",
+            "en": "I paid for the meal with a single hundred-baht note.",
+            "audio_src": "จ่ายค่าข้าวด้วยใบร้อยใบเดียว",
+            "audio_en_src": "I paid for the meal with a single hundred-baht note."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164067,6 +164238,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "basil leaf",
+        "sentences": [
+          {
+            "thai": "ใส่ใบโหระพาในแกงเขียวหวาน",
+            "en": "Add basil leaves to the green curry.",
+            "audio_src": "ใส่ใบโหระพาในแกงเขียวหวาน",
+            "audio_en_src": "Add basil leaves to the green curry."
+          },
+          {
+            "thai": "ใบโหระพามีกลิ่นหอมเฉพาะตัว",
+            "en": "Basil leaves have a distinctive fragrance.",
+            "audio_src": "ใบโหระพามีกลิ่นหอมเฉพาะตัว",
+            "audio_en_src": "Basil leaves have a distinctive fragrance."
+          }
+        ]
+      }
     ]
   },
   {
