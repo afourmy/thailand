@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5672 words**
+**Total: 5682 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4169,14 +4169,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-006` : ได้เงิน (to make money) : 1 meaning(s), 2 sentences
 - `wlt-c02-008` : ต้นเดือน (beginning of the month) : 1 meaning(s), 2 sentences
 - `wlt-c02-009` : ต้นปี (beginning of the year) : 1 meaning(s), 2 sentences
+- `wlt-c02-012` : ตรงข้ามกับ (opposite of) : 1 meaning(s), 2 sentences
 - `wlt-c02-013` : ตรงนี้ (over here, right here) : 1 meaning(s), 2 sentences
+- `wlt-c02-015` : ต้องไม่ (must not, not allowed to) : 1 meaning(s), 2 sentences
 - `wlt-c02-016` : ตอนกลางคืน (at night, during the night) : 1 meaning(s), 2 sentences
 - `wlt-c02-017` : ตอนค่ำ (in the evening (around dusk)) : 1 meaning(s), 2 sentences
+- `wlt-c02-020` : ตอนเที่ยง (at noon) : 1 meaning(s), 2 sentences
 - `wlt-c02-022` : ต้อนรับ (to receive, to welcome) : 1 meaning(s), 2 sentences
+- `wlt-c02-023` : ตอนสาย (late morning) : 1 meaning(s), 2 sentences
 - `wlt-c02-024` : ตะคอก (to yell) : 1 meaning(s), 2 sentences
+- `wlt-c02-025` : ตั๊กแตน (grasshopper) : 1 meaning(s), 2 sentences
+- `wlt-c02-026` : ตั้งแต่เมื่อไร (since when) : 1 meaning(s), 2 sentences
+- `wlt-c02-028` : ตั๋วไปกลับ (round-trip ticket) : 1 meaning(s), 2 sentences
 - `wlt-c02-030` : ตากแดด (to dry in the sun, to expose something to sunlight) : 1 meaning(s), 2 sentences
+- `wlt-c02-031` : ทวด (great-grandparent) : 1 meaning(s), 2 sentences
+- `wlt-c02-032` : ตามธรรมดา (normally, usually, as a rule) : 1 meaning(s), 2 sentences
 - `wlt-c02-033` : ตารางเวลา (schedule) : 1 meaning(s), 2 sentences
 - `wlt-c02-034` : ตื่น, ตื่นนอน (to wake up) : 1 meaning(s), 2 sentences
+- `wlt-c02-035` : ตุ๊กแก (gecko) : 1 meaning(s), 2 sentences
 - `wlt-c02-036` : ตู้ไปรษณีย์ (letterbox (public, for sending)) : 1 meaning(s), 2 sentences
 - `wlt-c02-038` : ตู้หนังสือ (bookcase) : 1 meaning(s), 2 sentences
 - `wlt-c02-043` : เตียง, เตียงนอน (bed) : 1 meaning(s), 2 sentences

@@ -161735,6 +161735,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "opposite of",
+        "sentences": [
+          {
+            "thai": "บ้านเขาอยู่ตรงข้ามกับโรงเรียน",
+            "en": "His house is opposite the school.",
+            "audio_src": "บ้านเขาอยู่ตรงข้ามกับโรงเรียน",
+            "audio_en_src": "His house is opposite the school."
+          },
+          {
+            "thai": "นิสัยเธอตรงข้ามกับพี่สาว",
+            "en": "Her personality is the opposite of her sister's.",
+            "audio_src": "นิสัยเธอตรงข้ามกับพี่สาว",
+            "audio_en_src": "Her personality is the opposite of her sister's."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161779,6 +161798,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "must not, not allowed to",
+        "sentences": [
+          {
+            "thai": "นักเรียนต้องไม่มาสาย",
+            "en": "Students must not be late.",
+            "audio_src": "นักเรียนต้องไม่มาสาย",
+            "audio_en_src": "Students must not be late."
+          },
+          {
+            "thai": "คนขับต้องไม่ดื่มเหล้า",
+            "en": "The driver must not drink alcohol.",
+            "audio_src": "คนขับต้องไม่ดื่มเหล้า",
+            "audio_en_src": "The driver must not drink alcohol."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161856,6 +161894,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "at noon",
+        "sentences": [
+          {
+            "thai": "ตอนเที่ยงเราไปกินข้าวกัน",
+            "en": "At noon we go out to eat together.",
+            "audio_src": "ตอนเที่ยงเราไปกินข้าวกัน",
+            "audio_en_src": "At noon we go out to eat together."
+          },
+          {
+            "thai": "แดดตอนเที่ยงร้อนมาก",
+            "en": "The sun at noon is really hot.",
+            "audio_src": "แดดตอนเที่ยงร้อนมาก",
+            "audio_en_src": "The sun at noon is really hot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161899,6 +161956,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "late morning",
+        "sentences": [
+          {
+            "thai": "วันหยุดฉันตื่นตอนสาย",
+            "en": "On holidays I wake up in the late morning.",
+            "audio_src": "วันหยุดฉันตื่นตอนสาย",
+            "audio_en_src": "On holidays I wake up in the late morning."
+          },
+          {
+            "thai": "ตอนสายค่อยออกไปทำธุระ",
+            "en": "I'll head out to run errands later in the morning.",
+            "audio_src": "ตอนสายค่อยออกไปทำธุระ",
+            "audio_en_src": "I'll head out to run errands later in the morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161940,6 +162016,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "grasshopper",
+        "sentences": [
+          {
+            "thai": "ตั๊กแตนกระโดดอยู่ในทุ่งหญ้า",
+            "en": "Grasshoppers are hopping around in the meadow.",
+            "audio_src": "ตั๊กแตนกระโดดอยู่ในทุ่งหญ้า",
+            "audio_en_src": "Grasshoppers are hopping around in the meadow."
+          },
+          {
+            "thai": "ตั๊กแตนทอดเป็นของกินเล่น",
+            "en": "Fried grasshoppers are a snack.",
+            "audio_src": "ตั๊กแตนทอดเป็นของกินเล่น",
+            "audio_en_src": "Fried grasshoppers are a snack."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161950,6 +162045,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "since when",
+        "sentences": [
+          {
+            "thai": "เธอมาถึงตั้งแต่เมื่อไร",
+            "en": "Since when have you been here?",
+            "audio_src": "เธอมาถึงตั้งแต่เมื่อไร",
+            "audio_en_src": "Since when have you been here?"
+          },
+          {
+            "thai": "เขาชอบเธอตั้งแต่เมื่อไรไม่มีใครรู้",
+            "en": "No one knows since when he's liked her.",
+            "audio_src": "เขาชอบเธอตั้งแต่เมื่อไรไม่มีใครรู้",
+            "audio_en_src": "No one knows since when he's liked her."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161960,6 +162074,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "round-trip ticket",
+        "sentences": [
+          {
+            "thai": "ซื้อตั๋วไปกลับถูกกว่าซื้อขาเดียว",
+            "en": "A round-trip ticket is cheaper than a one-way.",
+            "audio_src": "ซื้อตั๋วไปกลับถูกกว่าซื้อขาเดียว",
+            "audio_en_src": "A round-trip ticket is cheaper than a one-way."
+          },
+          {
+            "thai": "ฉันจองตั๋วไปกลับกรุงเทพเชียงใหม่",
+            "en": "I booked a round-trip ticket from Bangkok to Chiang Mai.",
+            "audio_src": "ฉันจองตั๋วไปกลับกรุงเทพเชียงใหม่",
+            "audio_en_src": "I booked a round-trip ticket from Bangkok to Chiang Mai."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162001,6 +162134,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "great-grandparent",
+        "sentences": [
+          {
+            "thai": "ทวดของฉันอายุร้อยกว่าปี",
+            "en": "My great-grandparent is over a hundred years old.",
+            "audio_src": "ทวดของฉันอายุร้อยกว่าปี",
+            "audio_en_src": "My great-grandparent is over a hundred years old."
+          },
+          {
+            "thai": "เด็กๆไปกราบทวดวันปีใหม่",
+            "en": "The kids pay their respects to their great-grandparent on New Year.",
+            "audio_src": "เด็กๆไปกราบทวดวันปีใหม่",
+            "audio_en_src": "The kids pay their respects to their great-grandparent on New Year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162011,6 +162163,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "normally, usually, as a rule",
+        "sentences": [
+          {
+            "thai": "ตามธรรมดาเขาตื่นหกโมงเช้า",
+            "en": "Normally he wakes up at six in the morning.",
+            "audio_src": "ตามธรรมดาเขาตื่นหกโมงเช้า",
+            "audio_en_src": "Normally he wakes up at six in the morning."
+          },
+          {
+            "thai": "วันนี้รถติดกว่าตามธรรมดา",
+            "en": "Today the traffic is worse than usual.",
+            "audio_src": "วันนี้รถติดกว่าตามธรรมดา",
+            "audio_en_src": "Today the traffic is worse than usual."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162086,6 +162257,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "gecko",
+        "sentences": [
+          {
+            "thai": "ตุ๊กแกร้องเสียงดังตอนกลางคืน",
+            "en": "The gecko calls loudly at night.",
+            "audio_src": "ตุ๊กแกร้องเสียงดังตอนกลางคืน",
+            "audio_en_src": "The gecko calls loudly at night."
+          },
+          {
+            "thai": "มีตุ๊กแกเกาะอยู่บนผนัง",
+            "en": "There's a gecko clinging to the wall.",
+            "audio_src": "มีตุ๊กแกเกาะอยู่บนผนัง",
+            "audio_en_src": "There's a gecko clinging to the wall."
+          }
+        ]
+      }
     ]
   },
   {
