@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5492 words**
+**Total: 5502 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3897,6 +3897,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-011` : โม๊ก (to give a blowjob, to give head (slang)) : 1 meaning(s), 1 sentences
 - `yt-c20-015` : กินเด็ก (to date or have sex with someone a lot younger than you (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-016` : พูดไปงั้นแหละ ((informal) "I'm just saying", "just saying it like that", "don't take it personally") : 1 meaning(s), 2 sentences
+- `yt-c20-017` : แซะเก่ง (good at poking, teasing, making sarcastic remarks, quick with sarcasm) : 1 meaning(s), 2 sentences
+- `yt-c20-018` : ถังแตก (broke, ruined, out of money) : 1 meaning(s), 2 sentences
+- `yt-c20-019` : อะไรของเธอ, อะไรของคุณ ("what's wrong with you", "what's your problem") : 1 meaning(s), 2 sentences
+- `yt-c20-020` : เจี๊ยว (penis (slang, childish)) : 1 meaning(s), 2 sentences
+- `yt-c20-022` : สาวประเภทสอง (transgender woman (katoey)) : 1 meaning(s), 2 sentences
+- `yt-c20-023` : ทอม (tomboy) : 1 meaning(s), 2 sentences
+- `yt-c20-024` : ดี้ (a girl that likes tomboys, feminine-presenting lesbian partner of tomboy (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-025` : เลส (lesbian (slang, loanword)) : 1 meaning(s), 2 sentences
+- `yt-c20-028` : น้องชาย (younger brother) : 1 meaning(s), 2 sentences
+- `yt-c20-029` : งู (snake) : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
 - `yt-c20-039` : หักดิบ (to suddenly and completely cut something out (e.g lose weight, quit smoking)) : 1 meaning(s), 2 sentences
