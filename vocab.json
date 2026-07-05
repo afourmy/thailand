@@ -150560,6 +150560,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to lose one's mind, irrational, out of one's mind",
+        "sentences": [
+          {
+            "thai": "เขาโกรธจนขาดสติ",
+            "en": "He got so angry he lost his mind.",
+            "audio_src": "เขาโกรธจนขาดสติ",
+            "audio_en_src": "He got so angry he lost his mind."
+          },
+          {
+            "thai": "อย่าขาดสติเวลาเจอปัญหา",
+            "en": "Don't lose your head when you run into problems.",
+            "audio_src": "อย่าขาดสติเวลาเจอปัญหา",
+            "audio_en_src": "Don't lose your head when you run into problems."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150570,6 +150589,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to mess with someone's mind, to trick, to manipulate psychologically",
+        "sentences": [
+          {
+            "thai": "เขาชอบปั่นหัวคนอื่นให้สับสน",
+            "en": "He likes to mess with people's heads and confuse them.",
+            "audio_src": "เขาชอบปั่นหัวคนอื่นให้สับสน",
+            "audio_en_src": "He likes to mess with people's heads and confuse them."
+          },
+          {
+            "thai": "อย่ามาปั่นหัวฉัน",
+            "en": "Don't try to mess with my head.",
+            "audio_src": "อย่ามาปั่นหัวฉัน",
+            "audio_en_src": "Don't try to mess with my head."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150580,6 +150618,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to drive someone crazy, to torment, to mess with someone's head (slang)",
+        "sentences": [
+          {
+            "thai": "เสียงดังทั้งคืนปั่นประสาทมาก",
+            "en": "The noise all night is driving me crazy.",
+            "audio_src": "เสียงดังทั้งคืนปั่นประสาทมาก",
+            "audio_en_src": "The noise all night is driving me crazy."
+          },
+          {
+            "thai": "เขาชอบปั่นประสาทให้ฉันหงุดหงิด",
+            "en": "He likes to wind me up until I get annoyed.",
+            "audio_src": "เขาชอบปั่นประสาทให้ฉันหงุดหงิด",
+            "audio_en_src": "He likes to wind me up until I get annoyed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150742,6 +150799,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "whore, slut, prostitute (slang, rude)",
+        "sentences": [
+          {
+            "thai": "เขาด่าผู้หญิงคนนั้นว่ากะหรี่",
+            "en": "He called that woman a whore.",
+            "audio_src": "เขาด่าผู้หญิงคนนั้นว่ากะหรี่",
+            "audio_en_src": "He called that woman a whore."
+          },
+          {
+            "thai": "อย่าไปเรียกใครว่ากะหรี่",
+            "en": "Don't go calling anyone a whore.",
+            "audio_src": "อย่าไปเรียกใครว่ากะหรี่",
+            "audio_en_src": "Don't go calling anyone a whore."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150793,6 +150869,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "otter",
+        "sentences": [
+          {
+            "thai": "นากว่ายน้ำเล่นในบ่อ",
+            "en": "The otters are swimming and playing in the pond.",
+            "audio_src": "นากว่ายน้ำเล่นในบ่อ",
+            "audio_en_src": "The otters are swimming and playing in the pond."
+          },
+          {
+            "thai": "นากชอบกินปลาเป็นอาหาร",
+            "en": "Otters like to eat fish.",
+            "audio_src": "นากชอบกินปลาเป็นอาหาร",
+            "audio_en_src": "Otters like to eat fish."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150865,6 +150960,25 @@
     "topic": "economy",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "life insurance",
+        "sentences": [
+          {
+            "thai": "เขาทำประกันชีวิตให้ครอบครัว",
+            "en": "He took out life insurance for his family.",
+            "audio_src": "เขาทำประกันชีวิตให้ครอบครัว",
+            "audio_en_src": "He took out life insurance for his family."
+          },
+          {
+            "thai": "ประกันชีวิตช่วยดูแลยามเกิดเหตุ",
+            "en": "Life insurance provides support when something happens.",
+            "audio_src": "ประกันชีวิตช่วยดูแลยามเกิดเหตุ",
+            "audio_en_src": "Life insurance provides support when something happens."
+          }
+        ]
+      }
     ]
   },
   {
@@ -150876,6 +150990,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "shared spoon used to serve food from a shared dish",
+        "sentences": [
+          {
+            "thai": "ใช้ช้อนกลางตักกับข้าว",
+            "en": "Use the serving spoon to take the food.",
+            "audio_src": "ใช้ช้อนกลางตักกับข้าว",
+            "audio_en_src": "Use the serving spoon to take the food."
+          },
+          {
+            "thai": "กินข้าวร่วมกันควรใช้ช้อนกลาง",
+            "en": "When eating together you should use a serving spoon.",
+            "audio_src": "กินข้าวร่วมกันควรใช้ช้อนกลาง",
+            "audio_en_src": "When eating together you should use a serving spoon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -151047,6 +151180,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "shameless, thick-skinned, not embarrassed even in awkward situations",
+        "sentences": [
+          {
+            "thai": "เขาหน้าหนามากไม่รู้สึกอาย",
+            "en": "He's so shameless, he feels no embarrassment at all.",
+            "audio_src": "เขาหน้าหนามากไม่รู้สึกอาย",
+            "audio_en_src": "He's so shameless, he feels no embarrassment at all."
+          },
+          {
+            "thai": "โดนปฏิเสธแล้วยังหน้าหนาไปขอต่อ",
+            "en": "He got rejected but was thick-skinned enough to ask again.",
+            "audio_src": "โดนปฏิเสธแล้วยังหน้าหนาไปขอต่อ",
+            "audio_en_src": "He got rejected but was thick-skinned enough to ask again."
+          }
+        ]
+      }
     ]
   },
   {
@@ -151057,6 +151209,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to blush from embarrassment or shyness",
+        "sentences": [
+          {
+            "thai": "เธอเขินจนหน้าแดง",
+            "en": "She got so shy her face turned red.",
+            "audio_src": "เธอเขินจนหน้าแดง",
+            "audio_en_src": "She got so shy her face turned red."
+          },
+          {
+            "thai": "โดนแซวเรื่องแฟนหน้าแดงเลย",
+            "en": "I got teased about my boyfriend and blushed.",
+            "audio_src": "โดนแซวเรื่องแฟนหน้าแดงเลย",
+            "audio_en_src": "I got teased about my boyfriend and blushed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -151067,6 +151238,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "hypocritical, two-faced, not sincere",
+        "sentences": [
+          {
+            "thai": "อย่าคบคนตีสองหน้า",
+            "en": "Don't get close to two-faced people.",
+            "audio_src": "อย่าคบคนตีสองหน้า",
+            "audio_en_src": "Don't get close to two-faced people."
+          },
+          {
+            "thai": "เขาตีสองหน้าพูดอย่างทำอย่าง",
+            "en": "He's two-faced, he says one thing and does another.",
+            "audio_src": "เขาตีสองหน้าพูดอย่างทำอย่าง",
+            "audio_en_src": "He's two-faced, he says one thing and does another."
+          }
+        ]
+      }
     ]
   },
   {

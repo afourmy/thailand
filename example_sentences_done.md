@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5452 words**
+**Total: 5462 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3848,14 +3848,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-011` : พลเรือน (civilian (non military)) : 1 meaning(s), 2 sentences
 - `yt-c19-018` : คลั่ง (obsessed, crazy about, fanatical) : 1 meaning(s), 2 sentences
 - `yt-c19-018b` : คลุ้มคลั่ง (to go crazy, frenzied, in a rage) : 1 meaning(s), 2 sentences
+- `yt-c19-020` : ขาดสติ (to lose one's mind, irrational, out of one's mind) : 1 meaning(s), 2 sentences
+- `yt-c19-021` : ปั่นหัว (to mess with someone's mind, to trick, to manipulate psychologically) : 1 meaning(s), 2 sentences
+- `yt-c19-022` : ปั่นประสาท (to drive someone crazy, to torment, to mess with someone's head (slang)) : 1 meaning(s), 2 sentences
 - `yt-c19-028` : อวบ (chubby, plump) : 1 meaning(s), 2 sentences
 - `yt-c19-030` : ขาดตกบกพร่อง (lacking, incomplete, to have shortcomings or omissions) : 1 meaning(s), 2 sentences
+- `yt-c19-034` : กะหรี่ (whore, slut, prostitute (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c19-035` : ล่อ - ล่อหลอก (to lure, to entice, to bait - to trick, to deceive by luring) : 1 meaning(s), 2 sentences
+- `yt-c19-037` : นาก (otter) : 1 meaning(s), 2 sentences
 - `yt-c19-038` : ไม้เซลฟี่ (selfie stick) : 1 meaning(s), 2 sentences
 - `yt-c19-039` : ถ่ายเผื่อ (to take extra photos for someone (take a serie of photos for someone)) : 1 meaning(s), 2 sentences
+- `yt-c19-040` : ประกันชีวิต (life insurance) : 1 meaning(s), 2 sentences
+- `yt-c19-041` : ช้อนกลาง (shared spoon used to serve food from a shared dish) : 1 meaning(s), 2 sentences
 - `yt-c19-044` : กำหนดการ (program, agenda, planned sequence of activities) : 1 meaning(s), 2 sentences
 - `yt-c19-046` : ผิดนัด (to miss an appointment, to not show up as scheduled; to default, to fail to meet a contractual obligation (e.g loan)) : 2 meaning(s), 4 sentences
 - `yt-c19-047` : หนังสือนิยาย (novel) : 1 meaning(s), 2 sentences
+- `yt-c19-050` : หน้าหนา (shameless, thick-skinned, not embarrassed even in awkward situations) : 1 meaning(s), 2 sentences
+- `yt-c19-051` : หน้าแดง (to blush from embarrassment or shyness) : 1 meaning(s), 2 sentences
+- `yt-c19-052` : ตีสองหน้า (hypocritical, two-faced, not sincere) : 1 meaning(s), 2 sentences
 - `yt-c19-056` : บาดตา (eyesore, harsh on the eyes, unpleasant to look at) : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
