@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6142 words**
+**Total: 6152 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5832,16 +5832,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-066` : คิว (queue) : 1 meaning(s), 2 sentences
 - `t4k-c03-073` : กลไก (mechanism, system, machinery) : 1 meaning(s), 2 sentences
 - `t4k-c03-074` : เหมือนเดิม (as usual, the same as before) : 1 meaning(s), 2 sentences
+- `t4k-c03-075` : ความมั่นใจ (confidence) : 1 meaning(s), 2 sentences
 - `t4k-c03-079` : ชายหนุ่ม (young man) : 1 meaning(s), 2 sentences
 - `t4k-c03-080` : เดี่ยว (single, solo) : 1 meaning(s), 2 sentences
 - `t4k-c03-083` : เงา (shadow, shade, reflection) : 1 meaning(s), 2 sentences
+- `t4k-c03-084` : บัญญัติ (to legislate, to enact (a law, a rule)) : 1 meaning(s), 2 sentences
+- `t4k-c03-085` : ก่อนหน้า (previous, earlier) : 1 meaning(s), 2 sentences
+- `t4k-c03-086` : กล่าวคือ (in other words, "that is", "that is to say", "i.e.") : 1 meaning(s), 2 sentences
 - `t4k-c03-087` : ส่วนร่วม (participation, contribution) : 1 meaning(s), 2 sentences
+- `t4k-c03-090` : รัฐสภา (parliament, congress) : 1 meaning(s), 2 sentences
+- `t4k-c03-091` : นับแต่, นับตั้งแต่ (since, from (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c03-094` : เข้ม (strong, dark, intense (e.g color, flavor)) : 1 meaning(s), 2 sentences
 - `t4k-c03-095` : ยุ (to incite, to provoke someone to do something (e.g risky or bad)) : 1 meaning(s), 2 sentences
 - `t4k-c03-096` : ข้อเสนอ (proposal, offer) : 1 meaning(s), 2 sentences
 - `t4k-c03-099` : ข่าวสาร (news, information) : 1 meaning(s), 2 sentences
+- `t4k-c04-000` : ชาติไทย (Thai nation) : 1 meaning(s), 2 sentences
 - `t4k-c04-001` : คัด (to select, to pick, to filter; to copy) : 2 meaning(s), 4 sentences
+- `t4k-c04-004` : ขณะเดียวกัน (at the same time) : 1 meaning(s), 2 sentences
+- `t4k-c04-005` : แต่อย่างใด (at all, whatsoever, in any way) : 1 meaning(s), 2 sentences
 - `t4k-c04-009` : ต่างชาติ (foreign, of another nationality) : 1 meaning(s), 2 sentences
+- `t4k-c04-010` : ทั้งคู่ (both) : 1 meaning(s), 2 sentences
 - `t4k-c04-015` : แก่น (core, kernel, essence) : 1 meaning(s), 2 sentences
 - `t4k-c04-023` : นางเอก (female lead, heroine) : 1 meaning(s), 2 sentences
 - `t4k-c04-024` : บ่าย (afternoon (1pm - 4pm)) : 1 meaning(s), 2 sentences

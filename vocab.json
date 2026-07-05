@@ -216863,6 +216863,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "confidence",
+        "sentences": [
+          {
+            "thai": "เขาพูดด้วยความมั่นใจ",
+            "en": "He speaks with confidence.",
+            "audio_src": "เขาพูดด้วยความมั่นใจ",
+            "audio_en_src": "He speaks with confidence."
+          },
+          {
+            "thai": "ความล้มเหลวทำให้ขาดความมั่นใจ",
+            "en": "Failure erodes your confidence.",
+            "audio_src": "ความล้มเหลวทำให้ขาดความมั่นใจ",
+            "audio_en_src": "Failure erodes your confidence."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216976,6 +216995,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to legislate, to enact (a law, a rule)",
+        "sentences": [
+          {
+            "thai": "รัฐสภาบัญญัติกฎหมายฉบับใหม่",
+            "en": "Parliament enacted a new law.",
+            "audio_src": "รัฐสภาบัญญัติกฎหมายฉบับใหม่",
+            "audio_en_src": "Parliament enacted a new law."
+          },
+          {
+            "thai": "ศาสนาบัญญัติข้อห้ามหลายอย่าง",
+            "en": "The religion lays down many prohibitions.",
+            "audio_src": "ศาสนาบัญญัติข้อห้ามหลายอย่าง",
+            "audio_en_src": "The religion lays down many prohibitions."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216986,6 +217024,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "previous, earlier",
+        "sentences": [
+          {
+            "thai": "เขาโทรมาก่อนหน้านี้แล้ว",
+            "en": "He called earlier.",
+            "audio_src": "เขาโทรมาก่อนหน้านี้แล้ว",
+            "audio_en_src": "He called earlier."
+          },
+          {
+            "thai": "เดือนก่อนหน้ายอดขายดีกว่านี้",
+            "en": "Sales were better the previous month.",
+            "audio_src": "เดือนก่อนหน้ายอดขายดีกว่านี้",
+            "audio_en_src": "Sales were better the previous month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -216996,6 +217053,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "in other words, \"that is\", \"that is to say\", \"i.e.\"",
+        "sentences": [
+          {
+            "thai": "เขาชอบสัตว์ปีก กล่าวคือ ไก่และเป็ด",
+            "en": "He likes poultry, that is, chicken and duck.",
+            "audio_src": "เขาชอบสัตว์ปีก กล่าวคือ ไก่และเป็ด",
+            "audio_en_src": "He likes poultry, that is, chicken and duck."
+          },
+          {
+            "thai": "งานเลิกดึก กล่าวคือ กว่าจะได้กลับก็เที่ยงคืน",
+            "en": "Work ends late, that is, I don't get home until midnight.",
+            "audio_src": "งานเลิกดึก กล่าวคือ กว่าจะได้กลับก็เที่ยงคืน",
+            "audio_en_src": "Work ends late, that is, I don't get home until midnight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217047,6 +217123,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "parliament, congress",
+        "sentences": [
+          {
+            "thai": "รัฐสภาประชุมพิจารณางบประมาณ",
+            "en": "Parliament meets to consider the budget.",
+            "audio_src": "รัฐสภาประชุมพิจารณางบประมาณ",
+            "audio_en_src": "Parliament meets to consider the budget."
+          },
+          {
+            "thai": "เขาได้รับเลือกเข้าสู่รัฐสภา",
+            "en": "He was elected to parliament.",
+            "audio_src": "เขาได้รับเลือกเข้าสู่รัฐสภา",
+            "audio_en_src": "He was elected to parliament."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217057,6 +217152,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "since, from (formal)",
+        "sentences": [
+          {
+            "thai": "นับตั้งแต่วันนั้นเราไม่ได้เจอกันอีก",
+            "en": "Since that day we haven't met again.",
+            "audio_src": "นับตั้งแต่วันนั้นเราไม่ได้เจอกันอีก",
+            "audio_en_src": "Since that day we haven't met again."
+          },
+          {
+            "thai": "นับแต่เด็กเขาก็ขยันเรียน",
+            "en": "From childhood he was diligent in his studies.",
+            "audio_src": "นับแต่เด็กเขาก็ขยันเรียน",
+            "audio_en_src": "From childhood he was diligent in his studies."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217211,6 +217325,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai nation",
+        "sentences": [
+          {
+            "thai": "เขาภูมิใจในชาติไทย",
+            "en": "He's proud of the Thai nation.",
+            "audio_src": "เขาภูมิใจในชาติไทย",
+            "audio_en_src": "He's proud of the Thai nation."
+          },
+          {
+            "thai": "ชาติไทยมีประวัติศาสตร์ยาวนาน",
+            "en": "The Thai nation has a long history.",
+            "audio_src": "ชาติไทยมีประวัติศาสตร์ยาวนาน",
+            "audio_en_src": "The Thai nation has a long history."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217269,6 +217402,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "at the same time",
+        "sentences": [
+          {
+            "thai": "เขาทำงานไปด้วย ขณะเดียวกันก็เรียนต่อ",
+            "en": "He works and studies at the same time.",
+            "audio_src": "เขาทำงานไปด้วย ขณะเดียวกันก็เรียนต่อ",
+            "audio_en_src": "He works and studies at the same time."
+          },
+          {
+            "thai": "ราคาถูกลง ขณะเดียวกันคุณภาพก็ดีขึ้น",
+            "en": "The price dropped; at the same time the quality improved.",
+            "audio_src": "ราคาถูกลง ขณะเดียวกันคุณภาพก็ดีขึ้น",
+            "audio_en_src": "The price dropped; at the same time the quality improved."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217279,6 +217431,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "at all, whatsoever, in any way",
+        "sentences": [
+          {
+            "thai": "เขาไม่ได้โกรธแต่อย่างใด",
+            "en": "He's not angry at all.",
+            "audio_src": "เขาไม่ได้โกรธแต่อย่างใด",
+            "audio_en_src": "He's not angry at all."
+          },
+          {
+            "thai": "เรื่องนี้ไม่เกี่ยวกับฉันแต่อย่างใด",
+            "en": "This has nothing to do with me whatsoever.",
+            "audio_src": "เรื่องนี้ไม่เกี่ยวกับฉันแต่อย่างใด",
+            "audio_en_src": "This has nothing to do with me whatsoever."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217320,6 +217491,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "both",
+        "sentences": [
+          {
+            "thai": "พี่น้องทั้งคู่เรียนเก่ง",
+            "en": "Both siblings are good students.",
+            "audio_src": "พี่น้องทั้งคู่เรียนเก่ง",
+            "audio_en_src": "Both siblings are good students."
+          },
+          {
+            "thai": "เราทั้งคู่ชอบดูหนัง",
+            "en": "We both like watching movies.",
+            "audio_src": "เราทั้งคู่ชอบดูหนัง",
+            "audio_en_src": "We both like watching movies."
+          }
+        ]
+      }
     ]
   },
   {
