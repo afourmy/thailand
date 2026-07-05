@@ -147602,6 +147602,25 @@
     "topic": "weather",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "dust particles",
+        "sentences": [
+          {
+            "thai": "ฝุ่นละอองในอากาศทำให้ไอ",
+            "en": "The dust particles in the air make me cough.",
+            "audio_src": "ฝุ่นละอองในอากาศทำให้ไอ",
+            "audio_en_src": "The dust particles in the air make me cough."
+          },
+          {
+            "thai": "เช็ดโต๊ะทุกวันก็ยังมีฝุ่นละออง",
+            "en": "Even wiping the table every day, there's still dust.",
+            "audio_src": "เช็ดโต๊ะทุกวันก็ยังมีฝุ่นละออง",
+            "audio_en_src": "Even wiping the table every day, there's still dust."
+          }
+        ]
+      }
     ]
   },
   {
@@ -147622,6 +147641,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "weed (unwanted plants)",
+        "sentences": [
+          {
+            "thai": "ต้องถอนวัชพืชในสวนออก",
+            "en": "You have to pull the weeds out of the garden.",
+            "audio_src": "ต้องถอนวัชพืชในสวนออก",
+            "audio_en_src": "You have to pull the weeds out of the garden."
+          },
+          {
+            "thai": "วัชพืชขึ้นเต็มแปลงผัก",
+            "en": "Weeds have grown all over the vegetable patch.",
+            "audio_src": "วัชพืชขึ้นเต็มแปลงผัก",
+            "audio_en_src": "Weeds have grown all over the vegetable patch."
+          }
+        ]
+      }
     ]
   },
   {
@@ -147632,6 +147670,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "muffled hearing, blocked ears",
+        "sentences": [
+          {
+            "thai": "ขึ้นเครื่องบินแล้วหูอื้อ",
+            "en": "My ears get blocked on the plane.",
+            "audio_src": "ขึ้นเครื่องบินแล้วหูอื้อ",
+            "audio_en_src": "My ears get blocked on the plane."
+          },
+          {
+            "thai": "เสียงดังจนหูอื้อไปหมด",
+            "en": "It was so loud my ears went all muffled.",
+            "audio_src": "เสียงดังจนหูอื้อไปหมด",
+            "audio_en_src": "It was so loud my ears went all muffled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -147683,6 +147740,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fare collector (person who collects the money in public transport)",
+        "sentences": [
+          {
+            "thai": "กระเป๋ารถเมล์เดินมาเก็บเงิน",
+            "en": "The bus fare collector came around to collect the money.",
+            "audio_src": "กระเป๋ารถเมล์เดินมาเก็บเงิน",
+            "audio_en_src": "The bus fare collector came around to collect the money."
+          },
+          {
+            "thai": "เขาทำงานเป็นกระเป๋ารถเมล์",
+            "en": "He works as a bus fare collector.",
+            "audio_src": "เขาทำงานเป็นกระเป๋ารถเมล์",
+            "audio_en_src": "He works as a bus fare collector."
+          }
+        ]
+      }
     ]
   },
   {
@@ -147845,6 +147921,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "crooked, hunched back",
+        "sentences": [
+          {
+            "thai": "นั่งหลังค่อมนานๆไม่ดีต่อสุขภาพ",
+            "en": "Sitting hunched over for long isn't good for your health.",
+            "audio_src": "นั่งหลังค่อมนานๆไม่ดีต่อสุขภาพ",
+            "audio_en_src": "Sitting hunched over for long isn't good for your health."
+          },
+          {
+            "thai": "คุณตาแก่จนหลังค่อม",
+            "en": "Grandpa is so old his back is hunched.",
+            "audio_src": "คุณตาแก่จนหลังค่อม",
+            "audio_en_src": "Grandpa is so old his back is hunched."
+          }
+        ]
+      }
     ]
   },
   {
@@ -148092,6 +148187,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "first aid kit",
+        "sentences": [
+          {
+            "thai": "ในรถควรมีชุดปฐมพยาบาล",
+            "en": "You should keep a first aid kit in the car.",
+            "audio_src": "ในรถควรมีชุดปฐมพยาบาล",
+            "audio_en_src": "You should keep a first aid kit in the car."
+          },
+          {
+            "thai": "หยิบชุดปฐมพยาบาลมาทำแผล",
+            "en": "Grab the first aid kit to dress the wound.",
+            "audio_src": "หยิบชุดปฐมพยาบาลมาทำแผล",
+            "audio_en_src": "Grab the first aid kit to dress the wound."
+          }
+        ]
+      }
     ]
   },
   {
@@ -148112,6 +148226,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to look ahead, far-sighted, visionary, forward-thinking",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนมองการณ์ไกลวางแผนล่วงหน้าเสมอ",
+            "en": "He's forward-thinking and always plans ahead.",
+            "audio_src": "เขาเป็นคนมองการณ์ไกลวางแผนล่วงหน้าเสมอ",
+            "audio_en_src": "He's forward-thinking and always plans ahead."
+          },
+          {
+            "thai": "ผู้นำที่ดีต้องมองการณ์ไกล",
+            "en": "A good leader has to be visionary.",
+            "audio_src": "ผู้นำที่ดีต้องมองการณ์ไกล",
+            "audio_en_src": "A good leader has to be visionary."
+          }
+        ]
+      }
     ]
   },
   {
@@ -148132,6 +148265,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "dull, heavy discomfort, dragging sensation (e.g pain)",
+        "sentences": [
+          {
+            "thai": "ปวดท้องหน่วงๆตั้งแต่เช้า",
+            "en": "I've had a dull, heavy stomachache since this morning.",
+            "audio_src": "ปวดท้องหน่วงๆตั้งแต่เช้า",
+            "audio_en_src": "I've had a dull, heavy stomachache since this morning."
+          },
+          {
+            "thai": "รู้สึกหน่วงๆที่หลัง",
+            "en": "I feel a dull, dragging ache in my back.",
+            "audio_src": "รู้สึกหน่วงๆที่หลัง",
+            "audio_en_src": "I feel a dull, dragging ache in my back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -148152,6 +148304,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to focus intently, to concentrate hard",
+        "sentences": [
+          {
+            "thai": "เขาตั้งหน้าตั้งตาอ่านหนังสือสอบ",
+            "en": "He's studying hard for the exam.",
+            "audio_src": "เขาตั้งหน้าตั้งตาอ่านหนังสือสอบ",
+            "audio_en_src": "He's studying hard for the exam."
+          },
+          {
+            "thai": "ตั้งหน้าตั้งตาทำงานจนลืมกินข้าว",
+            "en": "Focused so hard on work I forgot to eat.",
+            "audio_src": "ตั้งหน้าตั้งตาทำงานจนลืมกินข้าว",
+            "audio_en_src": "Focused so hard on work I forgot to eat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -148193,6 +148364,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to lose sight of, to take one's eyes off (e.g a kid)",
+        "sentences": [
+          {
+            "thai": "อย่าคลาดสายตาจากลูกในห้าง",
+            "en": "Don't take your eyes off your kid in the mall.",
+            "audio_src": "อย่าคลาดสายตาจากลูกในห้าง",
+            "audio_en_src": "Don't take your eyes off your kid in the mall."
+          },
+          {
+            "thai": "เผลอคลาดสายตาแป๊บเดียวเด็กก็หาย",
+            "en": "I looked away for just a second and the kid was gone.",
+            "audio_src": "เผลอคลาดสายตาแป๊บเดียวเด็กก็หาย",
+            "audio_en_src": "I looked away for just a second and the kid was gone."
+          }
+        ]
+      }
     ]
   },
   {

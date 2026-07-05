@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5412 words**
+**Total: 5422 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3774,15 +3774,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-062` : หมอง (dim, dull, gloomy, has lost its shine) : 1 meaning(s), 2 sentences
 - `yt-c17-063` : ผ่อง, ผ่องใส (bright, radiant, clear (face, skin complexion)) : 1 meaning(s), 2 sentences
 - `yt-c17-064` : โสโครก (extremely dirty, filthy, disgusting) : 1 meaning(s), 2 sentences
+- `yt-c17-065` : ฝุ่นละออง (dust particles) : 1 meaning(s), 2 sentences
+- `yt-c17-067` : วัชพืช (weed (unwanted plants)) : 1 meaning(s), 2 sentences
+- `yt-c17-068` : หูอื้อ (muffled hearing, blocked ears) : 1 meaning(s), 2 sentences
 - `yt-c17-069b` : ร้องเพลงเพี้ยน (to sing off-key) : 1 meaning(s), 2 sentences
+- `yt-c17-071` : กระเป๋ารถ (fare collector (person who collects the money in public transport)) : 1 meaning(s), 2 sentences
 - `yt-c17-078` : กรรมการ (committee member, board member, judge, referee (sport)) : 1 meaning(s), 2 sentences
+- `yt-c17-089` : หลังค่อม (crooked, hunched back) : 1 meaning(s), 2 sentences
 - `yt-c17-090` : หลบภัย (to shelter, to take refuge) : 1 meaning(s), 2 sentences
 - `yt-c17-092` : ที่โล่ง (open space (empty space), open-air) : 1 meaning(s), 2 sentences
 - `yt-c17-093` : หมอบ (to crouch, to prostrate) : 1 meaning(s), 2 sentences
 - `yt-c17-095` : สั่นสะเทือน (to vibrate, to tremble, to shake) : 1 meaning(s), 2 sentences
 - `yt-c17-097` : เหวี่ยง (to swing, to fling (sweeping or swinging motion)) : 1 meaning(s), 2 sentences
 - `yt-c17-099` : ความแม่นยำ (accuracy) : 1 meaning(s), 2 sentences
+- `yt-c18-001` : ชุดปฐมพยาบาล (first aid kit) : 1 meaning(s), 2 sentences
+- `yt-c18-004` : มองการณ์ไกล (to look ahead, far-sighted, visionary, forward-thinking) : 1 meaning(s), 2 sentences
+- `yt-c18-006` : หน่วงๆ (dull, heavy discomfort, dragging sensation (e.g pain)) : 1 meaning(s), 2 sentences
+- `yt-c18-008` : ตั้งหน้าตั้งตา (to focus intently, to concentrate hard) : 1 meaning(s), 2 sentences
 - `yt-c18-009` : จดจ่อ (to focus intensely, to concentrate, to pay close attention) : 1 meaning(s), 2 sentences
+- `yt-c18-010` : คลาดสายตา (to lose sight of, to take one's eyes off (e.g a kid)) : 1 meaning(s), 2 sentences
 - `yt-c18-019` : กระทรวงศึกษาธิการ (Ministry of Education) : 1 meaning(s), 2 sentences
 - `yt-c18-020` : ประมุข (head, chief) : 1 meaning(s), 2 sentences
 - `yt-c18-021` : สมัครใจ (voluntary, willingly, of one's own free will) : 1 meaning(s), 2 sentences
