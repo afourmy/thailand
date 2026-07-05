@@ -145834,6 +145834,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "easy (various expressions using the word \"banana\")",
+        "sentences": [
+          {
+            "thai": "งานนี้กล้วยๆ",
+            "en": "This job is a piece of cake.",
+            "audio_src": "งานนี้กล้วยๆ",
+            "audio_en_src": "This job is a piece of cake."
+          },
+          {
+            "thai": "ข้อสอบง่ายเหมือนปอกกล้วยเข้าปาก",
+            "en": "The exam was as easy as pie.",
+            "audio_src": "ข้อสอบง่ายเหมือนปอกกล้วยเข้าปาก",
+            "audio_en_src": "The exam was as easy as pie."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145844,6 +145863,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "very easy, a piece of cake",
+        "sentences": [
+          {
+            "thai": "ข้อสอบครั้งนี้หมูๆ",
+            "en": "This exam was a piece of cake.",
+            "audio_src": "ข้อสอบครั้งนี้หมูๆ",
+            "audio_en_src": "This exam was a piece of cake."
+          },
+          {
+            "thai": "งานแค่นี้หมูๆสบายมาก",
+            "en": "A job this small is easy peasy.",
+            "audio_src": "งานแค่นี้หมูๆสบายมาก",
+            "audio_en_src": "A job this small is easy peasy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145854,6 +145892,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "trivial, no big deal, easy, insignificant (slang)",
+        "sentences": [
+          {
+            "thai": "เรื่องแค่นี้จิ๊บๆ",
+            "en": "Something this small is no big deal.",
+            "audio_src": "เรื่องแค่นี้จิ๊บๆ",
+            "audio_en_src": "Something this small is no big deal."
+          },
+          {
+            "thai": "ระยะทางแค่นี้จิ๊บๆเดินสบาย",
+            "en": "A distance this short is nothing, an easy walk.",
+            "audio_src": "ระยะทางแค่นี้จิ๊บๆเดินสบาย",
+            "audio_en_src": "A distance this short is nothing, an easy walk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145876,6 +145933,42 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "oneself",
+        "sentences": [
+          {
+            "thai": "ทำด้วยตัวเองได้",
+            "en": "You can do it yourself.",
+            "audio_src": "ทำด้วยตัวเองได้",
+            "audio_en_src": "You can do it yourself."
+          },
+          {
+            "thai": "เขาภูมิใจในตัวเอง",
+            "en": "He's proud of himself.",
+            "audio_src": "เขาภูมิใจในตัวเอง",
+            "audio_en_src": "He's proud of himself."
+          }
+        ]
+      },
+      {
+        "meaning": "you (when speaking to your partner in romantic relationships)",
+        "sentences": [
+          {
+            "thai": "ตัวเองกินข้าวยัง",
+            "en": "Have you eaten yet, honey?",
+            "audio_src": "ตัวเองกินข้าวยัง",
+            "audio_en_src": "Have you eaten yet, honey?"
+          },
+          {
+            "thai": "คิดถึงตัวเองจัง",
+            "en": "I miss you so much, babe.",
+            "audio_src": "คิดถึงตัวเองจัง",
+            "audio_en_src": "I miss you so much, babe."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145886,6 +145979,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"don't exaggerate\", \"don't be too much\", \"don't overdo it\"",
+        "sentences": [
+          {
+            "thai": "อย่าเยอะน่ะ แค่ล้อเล่น",
+            "en": "Don't be so extra, I was just joking.",
+            "audio_src": "อย่าเยอะน่ะ แค่ล้อเล่น",
+            "audio_en_src": "Don't be so extra, I was just joking."
+          },
+          {
+            "thai": "เรื่องนิดเดียวอย่าเยอะ",
+            "en": "It's a tiny thing, don't overdo it.",
+            "audio_src": "เรื่องนิดเดียวอย่าเยอะ",
+            "audio_en_src": "It's a tiny thing, don't overdo it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146046,6 +146158,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to look forward to, to eagerly wait for",
+        "sentences": [
+          {
+            "thai": "ฉันตั้งตารอวันหยุดยาว",
+            "en": "I'm looking forward to the long holiday.",
+            "audio_src": "ฉันตั้งตารอวันหยุดยาว",
+            "audio_en_src": "I'm looking forward to the long holiday."
+          },
+          {
+            "thai": "เด็กๆตั้งตารอวันเปิดของขวัญ",
+            "en": "The kids can't wait for the day to open presents.",
+            "audio_src": "เด็กๆตั้งตารอวันเปิดของขวัญ",
+            "audio_en_src": "The kids can't wait for the day to open presents."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146066,6 +146197,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "saltwater",
+        "sentences": [
+          {
+            "thai": "ปลาชนิดนี้อยู่ในน้ำเค็ม",
+            "en": "This kind of fish lives in saltwater.",
+            "audio_src": "ปลาชนิดนี้อยู่ในน้ำเค็ม",
+            "audio_en_src": "This kind of fish lives in saltwater."
+          },
+          {
+            "thai": "น้ำเค็มทำให้แผลแสบ",
+            "en": "Saltwater stings the wound.",
+            "audio_src": "น้ำเค็มทำให้แผลแสบ",
+            "audio_en_src": "Saltwater stings the wound."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146076,6 +146226,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "melasma (dark patches on skin, skin discoloration)",
+        "sentences": [
+          {
+            "thai": "เธอเป็นฝ้าที่แก้ม",
+            "en": "She has dark melasma patches on her cheeks.",
+            "audio_src": "เธอเป็นฝ้าที่แก้ม",
+            "audio_en_src": "She has dark melasma patches on her cheeks."
+          },
+          {
+            "thai": "ครีมนี้ช่วยลดฝ้า",
+            "en": "This cream helps fade the dark patches.",
+            "audio_src": "ครีมนี้ช่วยลดฝ้า",
+            "audio_en_src": "This cream helps fade the dark patches."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146086,6 +146255,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "specialist doctor",
+        "sentences": [
+          {
+            "thai": "อาการนี้ต้องพบหมอเฉพาะทาง",
+            "en": "This condition needs a specialist doctor.",
+            "audio_src": "อาการนี้ต้องพบหมอเฉพาะทาง",
+            "audio_en_src": "This condition needs a specialist doctor."
+          },
+          {
+            "thai": "เขาเป็นแพทย์เฉพาะทางด้านหัวใจ",
+            "en": "He's a heart specialist.",
+            "audio_src": "เขาเป็นแพทย์เฉพาะทางด้านหัวใจ",
+            "audio_en_src": "He's a heart specialist."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146126,6 +146314,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "stuffy nose, nasal congestion",
+        "sentences": [
+          {
+            "thai": "เป็นหวัดคัดจมูกหายใจไม่ออก",
+            "en": "I've got a cold, my nose is stuffed and I can't breathe.",
+            "audio_src": "เป็นหวัดคัดจมูกหายใจไม่ออก",
+            "audio_en_src": "I've got a cold, my nose is stuffed and I can't breathe."
+          },
+          {
+            "thai": "อากาศเปลี่ยนทำให้คัดจมูก",
+            "en": "The change in weather gives me a stuffy nose.",
+            "audio_src": "อากาศเปลี่ยนทำให้คัดจมูก",
+            "audio_en_src": "The change in weather gives me a stuffy nose."
+          }
+        ]
+      }
     ]
   },
   {

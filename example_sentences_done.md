@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5392 words**
+**Total: 5402 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3732,8 +3732,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-075` : อะไรก็ช่าง (whatever, never mind ("I don't care what it is")) : 1 meaning(s), 2 sentences
 - `yt-c16-076` : ถ้วย - ชาม (small bowl (e.g for sauce) - regular-sized bowl) : 1 meaning(s), 2 sentences
 - `yt-c16-077` : งี่เง่า (silly, foolish, stupid (e.g behavior)) : 1 meaning(s), 2 sentences
+- `yt-c16-078` : กล้วย, กล้วยๆ, ง่ายเหมือนปอกกล้วยเข้าปาก (easy (various expressions using the word "banana")) : 1 meaning(s), 2 sentences
+- `yt-c16-079` : หมูๆ (very easy, a piece of cake) : 1 meaning(s), 2 sentences
+- `new-13` : จิ๊บๆ (trivial, no big deal, easy, insignificant (slang)) : 1 meaning(s), 2 sentences
+- `yt-c16-081` : ตัวเอง (oneself; you (when speaking to your partner in romantic relationships)) : 2 meaning(s), 4 sentences
+- `yt-c16-082` : อย่าเยอะ ("don't exaggerate", "don't be too much", "don't overdo it") : 1 meaning(s), 2 sentences
 - `yt-c16-084` : บอกเป็นนัย (to imply, to hint at something) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
+- `yt-c16-090` : ตั้งตารอ (to look forward to, to eagerly wait for) : 1 meaning(s), 2 sentences
+- `yt-c16-093` : น้ำเค็ม (saltwater) : 1 meaning(s), 2 sentences
+- `yt-c16-094` : ฝ้า (melasma (dark patches on skin, skin discoloration)) : 1 meaning(s), 2 sentences
+- `yt-c16-095` : หมอเฉพาะทาง, แพทย์เฉพาะทาง (specialist doctor) : 1 meaning(s), 2 sentences
+- `yt-c16-099` : คัดจมูก (stuffy nose, nasal congestion) : 1 meaning(s), 2 sentences
 - `yt-c17-000` : ผิดรูป (deformed, distorted) : 1 meaning(s), 2 sentences
 - `yt-c17-001` : ทิ่ม (to poke, to jab, to stab lightly with something pointed) : 1 meaning(s), 2 sentences
 - `yt-c17-007` : คุ้มกัน (to guard, to escort, to protect someone) : 1 meaning(s), 2 sentences
