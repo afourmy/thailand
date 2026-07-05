@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5362 words**
+**Total: 5372 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3682,17 +3682,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-055` : เล้า (animal pen, coop) : 1 meaning(s), 2 sentences
 - `yt-c15-056` : เลื้อย (to crawl, to creep) : 1 meaning(s), 2 sentences
 - `yt-c15-057` : แง้ม ((literally) to open slightly; (figuratively) to hint at, to reveal a little) : 2 meaning(s), 4 sentences
+- `yt-c15-058` : อ่อม, อ่อมๆ ยมๆ (bland, boring, so so, underwhelming (slang)) : 1 meaning(s), 2 sentences
 - `yt-c15-059` : วิจัย (to research, to study) : 1 meaning(s), 2 sentences
 - `yt-c15-060` : ความเสมอภาค (equality (in status, rights, opportunities)) : 1 meaning(s), 2 sentences
 - `yt-c15-063` : ยึดถือ (to uphold, to adhere to (e.g moral value, religion)) : 1 meaning(s), 2 sentences
+- `yt-c15-065` : ลั้นลา (carefree, cheerful, lighthearted, enjoying oneself without worries (slang)) : 1 meaning(s), 2 sentences
 - `yt-c15-066` : งัด (to pry, to lever up) : 1 meaning(s), 2 sentences
+- `yt-c15-069` : ปัง, ปั๊วะ, ปั๊วะปัง (amazing, impressive, excellent, very pretty) : 1 meaning(s), 2 sentences
+- `yt-c15-071` : ใจฟู ((slang) feeling very happy, heartwarming feeling (e.g when someone is kind to you, gives you a present) (literally "inflated heart")) : 1 meaning(s), 2 sentences
+- `yt-c15-072` : นอยอะ ((slang) expresses quiet sadness, sulking, feeling down, emotionally hurt) : 1 meaning(s), 2 sentences
+- `yt-c15-073` : ทำถึง (to "go all the way", executed perfectly (slang)) : 1 meaning(s), 2 sentences
 - `yt-c15-074` : ตกหล่น (to be unintentionally left out, to be omitted) : 1 meaning(s), 2 sentences
 - `yt-c15-077` : เสียหลัก (to lose one's balance (physically), to lose control, to lose one's stability (emotionally)) : 1 meaning(s), 2 sentences
 - `yt-c15-080` : เกา (to scratch (one's back, one's head, when it itches)) : 1 meaning(s), 2 sentences
 - `yt-c15-081` : ซัด (to throw, to hurl something forcefully) : 1 meaning(s), 2 sentences
 - `yt-c15-083` : โพสต์ท่า (to pose (for a photo, on stage, etc)) : 1 meaning(s), 2 sentences
 - `yt-c15-085` : ควง (to spin, to twirl, to rotate) : 1 meaning(s), 2 sentences
+- `yt-c15-086` : บ้วน (to rinse and spit, to spit out) : 1 meaning(s), 2 sentences
+- `yt-c15-095` : ไม่สมเหตุสมผล ("it doesn't make sense") : 1 meaning(s), 2 sentences
 - `yt-c15-097` : เสื่อมเสีย (to damage, to tarnish (usually reputation, social standing)) : 1 meaning(s), 2 sentences
+- `yt-c15-098` : นางร้าย (female antagonist, bad female character in a lakon (hits the nang eek, etc)) : 1 meaning(s), 2 sentences
+- `yt-c16-002` : สายทำอาหาร (someone who's into cooking, a cooking hobbyist) : 1 meaning(s), 2 sentences
 - `yt-c16-010` : ผลุด, โผล่ (to pop up suddenly, to spring out (e.g a thought)) : 1 meaning(s), 2 sentences
 - `yt-c16-034` : ชู (to raise, to lift up (something for others to see, e.g your hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c16-035` : ไข (to solve, to figure out (e.g a problem, a puzzle); to turn, to operate) : 2 meaning(s), 4 sentences
