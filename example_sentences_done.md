@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5382 words**
+**Total: 5392 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3721,7 +3721,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-054b` : คนเร่ร่อน (vagrant, homeless person) : 1 meaning(s), 2 sentences
 - `yt-c16-059` : ทุจริต (corruption, fraud, misconduct) : 1 meaning(s), 2 sentences
 - `yt-c16-062` : บุญคุณ (indebted kindness (kindness someone has done for you that creates a moral obligation)) : 1 meaning(s), 2 sentences
+- `yt-c16-063` : หนักใจ (troubled, worried, burdened mentally) : 1 meaning(s), 2 sentences
+- `yt-c16-064` : ปลาไหล (eel) : 1 meaning(s), 2 sentences
+- `yt-c16-065` : ติดรถ (to get a ride, to hitch a ride, to go along in someone's car) : 1 meaning(s), 2 sentences
+- `yt-c16-066` : ยางอะไหล่ (spare tire) : 1 meaning(s), 2 sentences
 - `yt-c16-068` : ประคอง (to support (physically), to keep from falling, to steady something (e.g help someone walk, or keep something steady)) : 1 meaning(s), 2 sentences
+- `yt-c16-070` : ตอแหล (to lie, liar, "bullshit!" (slang, very rude)) : 1 meaning(s), 2 sentences
+- `yt-c16-072` : เปรี้ยว (sour; (slang) stylish, fashionable, used about girls that dress seductively) : 2 meaning(s), 4 sentences
+- `yt-c16-074` : กว่า - ขึ้น (compare X and Y - compare X and X) : 1 meaning(s), 2 sentences
+- `yt-c16-075` : อะไรก็ช่าง (whatever, never mind ("I don't care what it is")) : 1 meaning(s), 2 sentences
+- `yt-c16-076` : ถ้วย - ชาม (small bowl (e.g for sauce) - regular-sized bowl) : 1 meaning(s), 2 sentences
+- `yt-c16-077` : งี่เง่า (silly, foolish, stupid (e.g behavior)) : 1 meaning(s), 2 sentences
 - `yt-c16-084` : บอกเป็นนัย (to imply, to hint at something) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `yt-c17-000` : ผิดรูป (deformed, distorted) : 1 meaning(s), 2 sentences

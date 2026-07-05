@@ -145482,6 +145482,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "troubled, worried, burdened mentally",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ทำให้ฉันหนักใจ",
+            "en": "This whole thing really weighs on my mind.",
+            "audio_src": "เรื่องนี้ทำให้ฉันหนักใจ",
+            "audio_en_src": "This whole thing really weighs on my mind."
+          },
+          {
+            "thai": "เขาหนักใจเรื่องหนี้สิน",
+            "en": "He's troubled about his debts.",
+            "audio_src": "เขาหนักใจเรื่องหนี้สิน",
+            "audio_en_src": "He's troubled about his debts."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145492,6 +145511,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "eel",
+        "sentences": [
+          {
+            "thai": "ปลาไหลตัวลื่นจับยาก",
+            "en": "Eels are slippery and hard to catch.",
+            "audio_src": "ปลาไหลตัวลื่นจับยาก",
+            "audio_en_src": "Eels are slippery and hard to catch."
+          },
+          {
+            "thai": "แกงปลาไหลอร่อยมาก",
+            "en": "Eel curry is really delicious.",
+            "audio_src": "แกงปลาไหลอร่อยมาก",
+            "audio_en_src": "Eel curry is really delicious."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145502,6 +145540,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to get a ride, to hitch a ride, to go along in someone's car",
+        "sentences": [
+          {
+            "thai": "ขอติดรถไปด้วยได้ไหม",
+            "en": "Can I get a ride with you?",
+            "audio_src": "ขอติดรถไปด้วยได้ไหม",
+            "audio_en_src": "Can I get a ride with you?"
+          },
+          {
+            "thai": "ฉันติดรถเพื่อนมาทำงาน",
+            "en": "I caught a ride to work with a friend.",
+            "audio_src": "ฉันติดรถเพื่อนมาทำงาน",
+            "audio_en_src": "I caught a ride to work with a friend."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145512,6 +145569,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "spare tire",
+        "sentences": [
+          {
+            "thai": "ยางแบนต้องเปลี่ยนยางอะไหล่",
+            "en": "Got a flat, so I have to put on the spare tire.",
+            "audio_src": "ยางแบนต้องเปลี่ยนยางอะไหล่",
+            "audio_en_src": "Got a flat, so I have to put on the spare tire."
+          },
+          {
+            "thai": "ในรถมียางอะไหล่สำรองไว้",
+            "en": "There's a spare tire kept in the car.",
+            "audio_src": "ในรถมียางอะไหล่สำรองไว้",
+            "audio_en_src": "There's a spare tire kept in the car."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145554,6 +145630,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to lie, liar, \"bullshit!\" (slang, very rude)",
+        "sentences": [
+          {
+            "thai": "อย่ามาตอแหล ฉันเห็นกับตา",
+            "en": "Don't give me that bullshit, I saw it with my own eyes.",
+            "audio_src": "อย่ามาตอแหล ฉันเห็นกับตา",
+            "audio_en_src": "Don't give me that bullshit, I saw it with my own eyes."
+          },
+          {
+            "thai": "เขาตอแหลไม่เคยพูดจริง",
+            "en": "He's a liar, he never tells the truth.",
+            "audio_src": "เขาตอแหลไม่เคยพูดจริง",
+            "audio_en_src": "He's a liar, he never tells the truth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145566,6 +145661,42 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sour",
+        "sentences": [
+          {
+            "thai": "มะนาวเปรี้ยวมาก",
+            "en": "Limes are very sour.",
+            "audio_src": "มะนาวเปรี้ยวมาก",
+            "audio_en_src": "Limes are very sour."
+          },
+          {
+            "thai": "ยำจานนี้เปรี้ยวไปหน่อย",
+            "en": "This salad is a bit too sour.",
+            "audio_src": "ยำจานนี้เปรี้ยวไปหน่อย",
+            "audio_en_src": "This salad is a bit too sour."
+          }
+        ]
+      },
+      {
+        "meaning": "(slang) stylish, fashionable, used about girls that dress seductively",
+        "sentences": [
+          {
+            "thai": "สาวคนนั้นแต่งตัวเปรี้ยว",
+            "en": "That girl dresses in a bold, sexy style.",
+            "audio_src": "สาวคนนั้นแต่งตัวเปรี้ยว",
+            "audio_en_src": "That girl dresses in a bold, sexy style."
+          },
+          {
+            "thai": "วันนี้แต่งตัวเปรี้ยวจัง",
+            "en": "You're looking so bold and stylish today.",
+            "audio_src": "วันนี้แต่งตัวเปรี้ยวจัง",
+            "audio_en_src": "You're looking so bold and stylish today."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145586,6 +145717,25 @@
     "topic": "grammar",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "compare X and Y - compare X and X",
+        "sentences": [
+          {
+            "thai": "เขาสูงกว่าฉัน",
+            "en": "He's taller than me.",
+            "audio_src": "เขาสูงกว่าฉัน",
+            "audio_en_src": "He's taller than me."
+          },
+          {
+            "thai": "วันนี้อากาศร้อนขึ้น",
+            "en": "The weather has gotten hotter today.",
+            "audio_src": "วันนี้อากาศร้อนขึ้น",
+            "audio_en_src": "The weather has gotten hotter today."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145596,6 +145746,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "whatever, never mind (\"I don't care what it is\")",
+        "sentences": [
+          {
+            "thai": "อะไรก็ช่างขอแค่เราได้อยู่ด้วยกัน",
+            "en": "Whatever, as long as we get to be together.",
+            "audio_src": "อะไรก็ช่างขอแค่เราได้อยู่ด้วยกัน",
+            "audio_en_src": "Whatever, as long as we get to be together."
+          },
+          {
+            "thai": "อะไรก็ช่างฉันไม่สนแล้ว",
+            "en": "Whatever, I don't care anymore.",
+            "audio_src": "อะไรก็ช่างฉันไม่สนแล้ว",
+            "audio_en_src": "Whatever, I don't care anymore."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145607,6 +145776,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "small bowl (e.g for sauce) - regular-sized bowl",
+        "sentences": [
+          {
+            "thai": "ใส่น้ำจิ้มในถ้วยเล็ก",
+            "en": "Put the dipping sauce in a small bowl.",
+            "audio_src": "ใส่น้ำจิ้มในถ้วยเล็ก",
+            "audio_en_src": "Put the dipping sauce in a small bowl."
+          },
+          {
+            "thai": "ตักข้าวใส่ชาม",
+            "en": "Scoop the rice into a bowl.",
+            "audio_src": "ตักข้าวใส่ชาม",
+            "audio_en_src": "Scoop the rice into a bowl."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145617,6 +145805,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "silly, foolish, stupid (e.g behavior)",
+        "sentences": [
+          {
+            "thai": "เลิกทำตัวงี่เง่าได้แล้ว",
+            "en": "Stop acting so foolish already.",
+            "audio_src": "เลิกทำตัวงี่เง่าได้แล้ว",
+            "audio_en_src": "Stop acting so foolish already."
+          },
+          {
+            "thai": "เป็นความคิดที่งี่เง่ามาก",
+            "en": "That's a really stupid idea.",
+            "audio_src": "เป็นความคิดที่งี่เง่ามาก",
+            "audio_en_src": "That's a really stupid idea."
+          }
+        ]
+      }
     ]
   },
   {
