@@ -715,10 +715,21 @@
   });
 
   var searchTimer = null;
+  var searchClearEl = document.getElementById("vocab-search-clear");
   searchEl.addEventListener("input", function () {
     query = searchEl.value.trim();
+    searchClearEl.hidden = searchEl.value === "";
     if (searchTimer) clearTimeout(searchTimer);
     searchTimer = setTimeout(render, 500);
+  });
+
+  searchClearEl.addEventListener("click", function () {
+    searchEl.value = "";
+    query = "";
+    searchClearEl.hidden = true;
+    if (searchTimer) clearTimeout(searchTimer);
+    searchEl.focus();
+    render();
   });
 
   // Flip a card on click (single-side modes): a two-phase 3D turn. The front

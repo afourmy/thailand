@@ -19,7 +19,6 @@ Credentials come from the environment (see thai/.tts-credentials):
 Usage:
   source thai/.tts-credentials && python3 thai/gen_audio.py --frequency everyday --all
   source thai/.tts-credentials && python3 thai/gen_audio.py --lang en -n 25
-  source thai/.tts-credentials && python3 thai/gen_audio.py --frequency common --topic general --all
 """
 import argparse
 import json
@@ -110,8 +109,6 @@ def main():
                     help="re-synthesize even if the mp3 already exists")
     ap.add_argument("--frequency", metavar="FREQ",
                     help="only words with this frequency (e.g. everyday)")
-    ap.add_argument("--topic", metavar="TOPIC",
-                    help="only words with this topic (e.g. general)")
     ap.add_argument("--lang", choices=("th", "en", "both"), default="both",
                     help="which audio to generate (default both)")
     ap.add_argument("--delay", type=float, default=0.4,
@@ -131,12 +128,8 @@ def main():
     pool = words
     if args.frequency:
         pool = [w for w in pool if w.get("frequency") == args.frequency]
-    if args.topic:
-        pool = [w for w in pool if w.get("topic") == args.topic]
     targets = pool if args.all else pool[: args.count]
-    filters = ", ".join(
-        "%s=%s" % (k, v) for k, v in (("frequency", args.frequency),
-                                      ("topic", args.topic)) if v)
+    filters = "frequency=%s" % args.frequency if args.frequency else ""
     print("%d candidate words%s; languages: %s" % (
         len(targets),
         " (%s)" % filters if filters else "",

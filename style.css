@@ -1150,12 +1150,17 @@ html[lang="fr"] .en { display: none; }
   background: #e3f0fc;
 }
 
-.vocab-search {
+.vocab-search-wrap {
+  position: relative;
   flex: 0 0 320px;
   width: 320px;
+}
+
+.vocab-search {
+  width: 100%;
   font-family: 'Computer Modern Serif', serif;
   font-size: 0.95rem;
-  padding: 0.4rem 0.7rem;
+  padding: 0.4rem 2rem 0.4rem 0.7rem;
   border: 1px solid #bbb;
   border-radius: 5px;
   background: var(--surface);
@@ -1165,6 +1170,45 @@ html[lang="fr"] .en { display: none; }
 .vocab-search:focus {
   outline: none;
   border-color: var(--accent);
+}
+
+/* Replaces the browser's native search-cancel icon, which keeps a text cursor
+   and doesn't exist in Firefox. */
+.vocab-search::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  display: none;
+}
+
+.vocab-search-clear {
+  position: absolute;
+  right: 0.35rem;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.vocab-search-clear:hover {
+  background: rgba(0, 0, 0, 0.08);
+  color: var(--text);
+}
+
+[data-theme="dark"] .vocab-search-clear:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.vocab-search-clear svg {
+  width: 0.8rem;
+  height: 0.8rem;
 }
 
 /* Results toolbar: a slim full-width strip above the card grid, like a data

@@ -44,7 +44,12 @@
     <div class="vocab-controls vocab-filter" id="vocab-filter">
       <div class="vocab-filter-group vocab-filter-group--search">
         <span class="vocab-control-label">Filter</span>
-        <input type="search" id="vocab-search" class="vocab-search" placeholder="Search Thai or English…" autocomplete="off">
+        <span class="vocab-search-wrap">
+          <input type="search" id="vocab-search" class="vocab-search" placeholder="Search Thai or English…" autocomplete="off">
+          <button type="button" id="vocab-search-clear" class="vocab-search-clear" aria-label="Clear search" hidden>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="18" y1="6" x2="6" y2="18"/></svg>
+          </button>
+        </span>
         <label class="vocab-check vocab-deck-only" id="deck-only-label" hidden>
           <input type="checkbox" id="deck-only"> Only show deck cards
         </label>
