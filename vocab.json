@@ -149036,6 +149036,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "loan, borrowed money",
+        "sentences": [
+          {
+            "thai": "เขาขอเงินกู้จากธนาคาร",
+            "en": "He took out a loan from the bank.",
+            "audio_src": "เขาขอเงินกู้จากธนาคาร",
+            "audio_en_src": "He took out a loan from the bank."
+          },
+          {
+            "thai": "ต้องผ่อนเงินกู้ทุกเดือน",
+            "en": "I have to pay off the loan every month.",
+            "audio_src": "ต้องผ่อนเงินกู้ทุกเดือน",
+            "audio_en_src": "I have to pay off the loan every month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149077,6 +149096,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "young plant, seedling",
+        "sentences": [
+          {
+            "thai": "ชาวนาปลูกต้นกล้าในนา",
+            "en": "The farmer plants the seedlings in the paddy.",
+            "audio_src": "ชาวนาปลูกต้นกล้าในนา",
+            "audio_en_src": "The farmer plants the seedlings in the paddy."
+          },
+          {
+            "thai": "ต้นกล้าเล็กๆต้องรดน้ำทุกวัน",
+            "en": "The little seedlings need watering every day.",
+            "audio_src": "ต้นกล้าเล็กๆต้องรดน้ำทุกวัน",
+            "audio_en_src": "The little seedlings need watering every day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149087,6 +149125,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to sprout, to bud",
+        "sentences": [
+          {
+            "thai": "ต้นไม้ผลิใบอ่อนในฤดูใบไม้ผลิ",
+            "en": "The trees sprout new leaves in spring.",
+            "audio_src": "ต้นไม้ผลิใบอ่อนในฤดูใบไม้ผลิ",
+            "audio_en_src": "The trees sprout new leaves in spring."
+          },
+          {
+            "thai": "ดอกไม้เริ่มผลิบานแล้ว",
+            "en": "The flowers have started to bud and bloom.",
+            "audio_src": "ดอกไม้เริ่มผลิบานแล้ว",
+            "audio_en_src": "The flowers have started to bud and bloom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149097,6 +149154,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "pollen",
+        "sentences": [
+          {
+            "thai": "ผึ้งเก็บเกสรจากดอกไม้",
+            "en": "Bees collect pollen from flowers.",
+            "audio_src": "ผึ้งเก็บเกสรจากดอกไม้",
+            "audio_en_src": "Bees collect pollen from flowers."
+          },
+          {
+            "thai": "บางคนแพ้เกสรดอกไม้",
+            "en": "Some people are allergic to flower pollen.",
+            "audio_src": "บางคนแพ้เกสรดอกไม้",
+            "audio_en_src": "Some people are allergic to flower pollen."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149240,6 +149316,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to get stuck in a loop, to repeat the same process endlessly (colloquial)",
+        "sentences": [
+          {
+            "thai": "ปัญหาเดิมวนลูปไม่จบสักที",
+            "en": "The same problem keeps looping and never ends.",
+            "audio_src": "ปัญหาเดิมวนลูปไม่จบสักที",
+            "audio_en_src": "The same problem keeps looping and never ends."
+          },
+          {
+            "thai": "ฉันฟังเพลงนี้วนลูปทั้งวัน",
+            "en": "I've had this song on loop all day.",
+            "audio_src": "ฉันฟังเพลงนี้วนลูปทั้งวัน",
+            "audio_en_src": "I've had this song on loop all day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149333,6 +149428,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "heart failure",
+        "sentences": [
+          {
+            "thai": "คุณปู่เสียชีวิตด้วยภาวะหัวใจล้มเหลว",
+            "en": "Grandpa passed away from heart failure.",
+            "audio_src": "คุณปู่เสียชีวิตด้วยภาวะหัวใจล้มเหลว",
+            "audio_en_src": "Grandpa passed away from heart failure."
+          },
+          {
+            "thai": "หัวใจล้มเหลวเป็นโรคที่อันตราย",
+            "en": "Heart failure is a dangerous condition.",
+            "audio_src": "หัวใจล้มเหลวเป็นโรคที่อันตราย",
+            "audio_en_src": "Heart failure is a dangerous condition."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149467,6 +149581,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "burnout (syndrome)",
+        "sentences": [
+          {
+            "thai": "ทำงานหนักเกินไปจนเกิดภาวะหมดไฟ",
+            "en": "He overworked to the point of burnout.",
+            "audio_src": "ทำงานหนักเกินไปจนเกิดภาวะหมดไฟ",
+            "audio_en_src": "He overworked to the point of burnout."
+          },
+          {
+            "thai": "เขาลาพักเพราะภาวะหมดไฟ",
+            "en": "He took time off because of burnout.",
+            "audio_src": "เขาลาพักเพราะภาวะหมดไฟ",
+            "audio_en_src": "He took time off because of burnout."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149477,6 +149610,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "alienated, socially disconnected, isolated, feeling like an outsider",
+        "sentences": [
+          {
+            "thai": "เขารู้สึกแปลกแยกจากคนในกลุ่ม",
+            "en": "He feels alienated from the group.",
+            "audio_src": "เขารู้สึกแปลกแยกจากคนในกลุ่ม",
+            "audio_en_src": "He feels alienated from the group."
+          },
+          {
+            "thai": "ย้ายมาใหม่ทำให้รู้สึกแปลกแยก",
+            "en": "Being new here makes me feel like an outsider.",
+            "audio_src": "ย้ายมาใหม่ทำให้รู้สึกแปลกแยก",
+            "audio_en_src": "Being new here makes me feel like an outsider."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149529,6 +149681,25 @@
     "topic": "transport",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "blind spot",
+        "sentences": [
+          {
+            "thai": "รถใหญ่มีจุดบอดเยอะ",
+            "en": "Big trucks have a lot of blind spots.",
+            "audio_src": "รถใหญ่มีจุดบอดเยอะ",
+            "audio_en_src": "Big trucks have a lot of blind spots."
+          },
+          {
+            "thai": "มอเตอร์ไซค์อยู่ในจุดบอดของรถ",
+            "en": "The motorbike was in the car's blind spot.",
+            "audio_src": "มอเตอร์ไซค์อยู่ในจุดบอดของรถ",
+            "audio_en_src": "The motorbike was in the car's blind spot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -149570,6 +149741,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to let it pass, to let it slide",
+        "sentences": [
+          {
+            "thai": "เรื่องเล็กน้อยก็ปล่อยผ่านไป",
+            "en": "Just let the little things slide.",
+            "audio_src": "เรื่องเล็กน้อยก็ปล่อยผ่านไป",
+            "audio_en_src": "Just let the little things slide."
+          },
+          {
+            "thai": "ความผิดครั้งนี้ปล่อยผ่านไม่ได้",
+            "en": "This mistake can't be let slide.",
+            "audio_src": "ความผิดครั้งนี้ปล่อยผ่านไม่ได้",
+            "audio_en_src": "This mistake can't be let slide."
+          }
+        ]
+      }
     ]
   },
   {

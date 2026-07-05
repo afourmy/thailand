@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5432 words**
+**Total: 5442 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3810,17 +3810,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-037` : เบี้ยเลี้ยง (allowance (e.g travel allowance on a business trip)) : 1 meaning(s), 2 sentences
 - `yt-c18-038` : ลาคลอดบุตร (maternity leave) : 1 meaning(s), 2 sentences
 - `yt-c18-040` : ทยอย (gradually, in stages, little by little) : 1 meaning(s), 2 sentences
+- `yt-c18-043` : เงินกู้ (loan, borrowed money) : 1 meaning(s), 2 sentences
 - `yt-c18-046` : (โดน)สั่งย้าย (to be transferred, to be relocated (as an employee)) : 1 meaning(s), 2 sentences
+- `yt-c18-047` : ต้นกล้า (young plant, seedling) : 1 meaning(s), 2 sentences
+- `yt-c18-048` : ผลิ (to sprout, to bud) : 1 meaning(s), 2 sentences
+- `yt-c18-049` : เกสร (pollen) : 1 meaning(s), 2 sentences
 - `yt-c18-050` : เม็ด - เมล็ด (seed (small round unit, grain) - seed (idea of life potential, using it to grow a tree)) : 1 meaning(s), 2 sentences
 - `yt-c18-051` : เสียม (shovel) : 1 meaning(s), 2 sentences
 - `yt-c18-056` : สัปหงก (to nod off, to doze off, to fall asleep briefly) : 1 meaning(s), 2 sentences
+- `yt-c18-057` : วนลูป (to get stuck in a loop, to repeat the same process endlessly (colloquial)) : 1 meaning(s), 2 sentences
 - `yt-c18-058` : พื้นผิว (surface, outer layer) : 1 meaning(s), 2 sentences
 - `yt-c18-059` : ไล่ลำดับ (to arrange in order, to put in sequence) : 1 meaning(s), 2 sentences
+- `yt-c18-062` : หัวใจล้มเหลว (heart failure) : 1 meaning(s), 2 sentences
 - `yt-c18-065` : แปรปรวน (variable, changing, to fluctuate, to vary unpredictably (e.g mood, weather)) : 1 meaning(s), 2 sentences
 - `yt-c18-067` : ภัยคุกคาม (threat, menace) : 1 meaning(s), 2 sentences
 - `yt-c18-069` : โต้ตอบ (to respond, to reply) : 1 meaning(s), 2 sentences
+- `yt-c18-071` : ภาวะหมดไฟ (burnout (syndrome)) : 1 meaning(s), 2 sentences
+- `yt-c18-072` : แปลกแยก (alienated, socially disconnected, isolated, feeling like an outsider) : 1 meaning(s), 2 sentences
 - `yt-c18-073` : พาด (to lay across, to drape, to sling over) : 1 meaning(s), 2 sentences
+- `yt-c18-076` : จุดบอด (blind spot) : 1 meaning(s), 2 sentences
 - `yt-c18-077` : ก้าวเท้า (to step into, to take a step (literally "step + foot")) : 1 meaning(s), 2 sentences
+- `yt-c18-078` : ปล่อยผ่าน (to let it pass, to let it slide) : 1 meaning(s), 2 sentences
 - `yt-c18-079` : ปูเสื่อ (to lay out a mat) : 1 meaning(s), 2 sentences
 - `yt-c18-087` : ได้เปรียบ (to have an advantage, to have the edge) : 1 meaning(s), 2 sentences
 - `yt-c18-088` : เล่นมุก (to crack a joke, to joke around) : 1 meaning(s), 2 sentences
