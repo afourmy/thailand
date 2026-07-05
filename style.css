@@ -2409,7 +2409,7 @@ body[data-thai-font="noto"] .th {
 
 /* Keep the right-aligned selects in the flashcard setup (Deck, Direction) at
    a single shared width so the column reads as a tidy stack. */
-.fc-setting > .vocab-deck-select { width: 240px; }
+.fc-setting > .vocab-deck-select { width: 250px; }
 
 /* Desired-retention slider + its value readout. */
 .fc-retention {
