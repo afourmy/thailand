@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5342 words**
+**Total: 5352 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3644,8 +3644,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-079` : หัวใส (clever, quick-witted, smart-thinking) : 1 meaning(s), 2 sentences
 - `new-15` : หัวหมอ (cunning, sly, clever in a way that exploits loopholes) : 1 meaning(s), 2 sentences
 - `yt-c14-080` : หน้าแตก, หน้าแหก - หน้าเสีย (to lose face (strongly, e.g public humiliation) - to lose face (mild embarrassment)) : 1 meaning(s), 2 sentences
+- `yt-c14-083` : ปากจัด (sharp tongue, to speak very directly, harshly) : 1 meaning(s), 2 sentences
+- `yt-c14-084` : ปากเสีย (rude, offensive, uses bad language) : 1 meaning(s), 2 sentences
+- `yt-c14-085` : มือที่สาม (a third party in a relationship causing trouble (e.g a mistress, mia noi)) : 1 meaning(s), 2 sentences
+- `yt-c14-086` : หุบปาก ("shut up", "stop talking") : 1 meaning(s), 2 sentences
+- `yt-c14-087` : ฆ้อง (gong (the percussion instrument that produces a deep sound when hit)) : 1 meaning(s), 2 sentences
 - `yt-c14-088` : เด้ง (to bounce, to spring back; (skin) firm, tight, not saggy) : 2 meaning(s), 4 sentences
 - `yt-c14-093` : เมือก (mucus, slime, slime-like substance) : 1 meaning(s), 2 sentences
+- `yt-c14-095` : อึด (resilient, tough, enduring) : 1 meaning(s), 2 sentences
+- `yt-c14-097` : เกินต้าน (irresistible, "too good to resist", "too cute to resist") : 1 meaning(s), 2 sentences
+- `yt-c14-099` : จีบติด (to successfully flirt with someone) : 1 meaning(s), 2 sentences
+- `yt-c15-000` : รักแรกพบ (love at first sight) : 1 meaning(s), 2 sentences
+- `yt-c15-001` : คนคุย (a person you are casually seeing but not officially dating yet, still getting to know each other romantically) : 1 meaning(s), 2 sentences
 - `yt-c15-003` : เล็ง (to target, to aim, to focus on) : 1 meaning(s), 2 sentences
 - `yt-c15-007` : เล่นว่าว (to fly a kite) : 1 meaning(s), 2 sentences
 - `yt-c15-008` : รักษาสัญญา (to keep a promise, to honor an agreement) : 1 meaning(s), 2 sentences
