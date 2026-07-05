@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5422 words**
+**Total: 5432 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3793,13 +3793,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-008` : ตั้งหน้าตั้งตา (to focus intently, to concentrate hard) : 1 meaning(s), 2 sentences
 - `yt-c18-009` : จดจ่อ (to focus intensely, to concentrate, to pay close attention) : 1 meaning(s), 2 sentences
 - `yt-c18-010` : คลาดสายตา (to lose sight of, to take one's eyes off (e.g a kid)) : 1 meaning(s), 2 sentences
+- `yt-c18-012` : เกณฑ์ทหาร (military conscription, draft, to draw the military lottery) : 1 meaning(s), 2 sentences
+- `yt-c18-015` : รับราชการ (to be a government official, to work in civil service) : 1 meaning(s), 2 sentences
+- `yt-c18-018` : กระทรวงการคลัง (Ministry of Finance) : 1 meaning(s), 2 sentences
 - `yt-c18-019` : กระทรวงศึกษาธิการ (Ministry of Education) : 1 meaning(s), 2 sentences
 - `yt-c18-020` : ประมุข (head, chief) : 1 meaning(s), 2 sentences
 - `yt-c18-021` : สมัครใจ (voluntary, willingly, of one's own free will) : 1 meaning(s), 2 sentences
 - `yt-c18-023` : วุฒิการศึกษา (educational background, educational qualification, academic degree) : 1 meaning(s), 2 sentences
 - `yt-c18-024` : สลาก - จับสลาก (lot, ballot, lottery slip - to draw lots, to draw a lottery slip) : 1 meaning(s), 2 sentences
+- `yt-c18-027` : ว่าที่ (soon-to-be (e.g "bride-to-be", "soon-to-be-graduate", etc), future, prospective) : 1 meaning(s), 2 sentences
 - `yt-c18-028` : ลำดับชั้น (hierarchy) : 1 meaning(s), 2 sentences
+- `yt-c18-032` : เสี่ยงดวง (to take a chance, to try one's luck, to gamble on fate) : 1 meaning(s), 2 sentences
 - `yt-c18-033` : สะสาง (to clean up, to clear up, to sort out, to tidy up (e.g tasks, mess, problems, etc)) : 1 meaning(s), 2 sentences
+- `yt-c18-035` : ค่ารักษาพยาบาล (สวัสดิการ) (medical expenses, medical treatment fee (Thai civil servant perk)) : 1 meaning(s), 2 sentences
+- `yt-c18-036` : ค่าเล่าเรียนบุตร (สวัสดิการ) (children's tuition fees (Thai civil servant perk)) : 1 meaning(s), 2 sentences
+- `yt-c18-037` : เบี้ยเลี้ยง (allowance (e.g travel allowance on a business trip)) : 1 meaning(s), 2 sentences
+- `yt-c18-038` : ลาคลอดบุตร (maternity leave) : 1 meaning(s), 2 sentences
+- `yt-c18-040` : ทยอย (gradually, in stages, little by little) : 1 meaning(s), 2 sentences
 - `yt-c18-046` : (โดน)สั่งย้าย (to be transferred, to be relocated (as an employee)) : 1 meaning(s), 2 sentences
 - `yt-c18-050` : เม็ด - เมล็ด (seed (small round unit, grain) - seed (idea of life potential, using it to grow a tree)) : 1 meaning(s), 2 sentences
 - `yt-c18-051` : เสียม (shovel) : 1 meaning(s), 2 sentences
