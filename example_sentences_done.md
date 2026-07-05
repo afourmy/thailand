@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5852 words**
+**Total: 5862 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4610,11 +4610,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-044` : เมืองไทย (Thailand (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c08-045` : เมืองนอก (foreign countries, abroad) : 1 meaning(s), 2 sentences
 - `wlt-c08-046` : เมืองหลวง (capital) : 1 meaning(s), 2 sentences
+- `wlt-c08-047` : แม่ครัว (female cook) : 1 meaning(s), 2 sentences
+- `wlt-c08-048` : แม่ชี (nun (white-robed woman who follows monastic practice, usually without full ordination status like monks)) : 1 meaning(s), 2 sentences
 - `wlt-c08-049` : แม่บ้าน (housekeeper (female)) : 1 meaning(s), 2 sentences
+- `wlt-c08-050` : แม่ม่าย (widow) : 1 meaning(s), 2 sentences
 - `wlt-c08-052` : ไม้กวาด (broom) : 1 meaning(s), 2 sentences
 - `wlt-c08-053` : ไม้ขีด (matches) : 1 meaning(s), 2 sentences
 - `wlt-c08-055` : ไม่ต้อง (there is no need to) : 1 meaning(s), 2 sentences
+- `wlt-c08-056` : ไม่ทัน (not in time, too late) : 1 meaning(s), 2 sentences
+- `wlt-c08-057` : ไม้ประดับ (houseplant, ornamental plant) : 1 meaning(s), 2 sentences
 - `wlt-c08-058` : ไม่มี (to not have, there isn't) : 1 meaning(s), 2 sentences
+- `wlt-c08-059` : ไม้เลื้อย (vine, climbing plant) : 1 meaning(s), 2 sentences
 - `wlt-c08-060` : ไม่เห็นด้วย (to disagree) : 1 meaning(s), 2 sentences
 - `wlt-c08-061` : ย่อง (to tiptoe) : 1 meaning(s), 2 sentences
 - `wlt-c08-062` : ยับ (wrinkled, crumpled) : 1 meaning(s), 2 sentences
@@ -4622,10 +4628,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-065` : ยี่สิบเอ็ด (twenty one (21)) : 1 meaning(s), 2 sentences
 - `wlt-c08-066` : เย็นนี้ (this evening, this late afternoon) : 1 meaning(s), 2 sentences
 - `wlt-c08-067` : แย่ (bad, terrible) : 1 meaning(s), 2 sentences
+- `wlt-c08-068` : รถไฟใต้ดิน (MRT, subway) : 1 meaning(s), 2 sentences
+- `wlt-c08-069` : รถไฟฟ้า (BTS, skytrain) : 1 meaning(s), 2 sentences
 - `wlt-c08-071` : รหัสไปรษณีย์ (postal code) : 1 meaning(s), 2 sentences
 - `wlt-c08-072` : รอย (scratch, mark, trail) : 1 meaning(s), 2 sentences
 - `wlt-c08-073` : ระบบ (system) : 1 meaning(s), 2 sentences
+- `wlt-c08-074` : ระบอบ (regime) : 1 meaning(s), 2 sentences
 - `wlt-c08-075` : ร่าง (draft, proposal) : 1 meaning(s), 2 sentences
+- `wlt-c08-076` : ร่างกาย (body) : 1 meaning(s), 2 sentences
 - `wlt-c08-078` : ร้านขายยา (pharmacy) : 1 meaning(s), 2 sentences
 - `wlt-c08-079` : รื้อ (to dismantle, to tear down) : 1 meaning(s), 2 sentences
 - `wlt-c08-080` : รุ่น (age, generation, period) : 1 meaning(s), 2 sentences

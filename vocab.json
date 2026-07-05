@@ -175780,6 +175780,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "female cook",
+        "sentences": [
+          {
+            "thai": "แม่ครัวทำอาหารอร่อยทุกจาน",
+            "en": "The cook makes every dish delicious.",
+            "audio_src": "แม่ครัวทำอาหารอร่อยทุกจาน",
+            "audio_en_src": "The cook makes every dish delicious."
+          },
+          {
+            "thai": "ร้านนี้จ้างแม่ครัวฝีมือดี",
+            "en": "This restaurant hired a skilled cook.",
+            "audio_src": "ร้านนี้จ้างแม่ครัวฝีมือดี",
+            "audio_en_src": "This restaurant hired a skilled cook."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175790,6 +175809,25 @@
     "topic": "beliefs",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "nun (white-robed woman who follows monastic practice, usually without full ordination status like monks)",
+        "sentences": [
+          {
+            "thai": "แม่ชีสวดมนต์ทุกเช้า",
+            "en": "The nun chants prayers every morning.",
+            "audio_src": "แม่ชีสวดมนต์ทุกเช้า",
+            "audio_en_src": "The nun chants prayers every morning."
+          },
+          {
+            "thai": "เธอบวชเป็นแม่ชีที่วัด",
+            "en": "She was ordained as a nun at the temple.",
+            "audio_src": "เธอบวชเป็นแม่ชีที่วัด",
+            "audio_en_src": "She was ordained as a nun at the temple."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175832,6 +175870,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "widow",
+        "sentences": [
+          {
+            "thai": "แม่ม่ายเลี้ยงลูกสามคนตามลำพัง",
+            "en": "The widow raises three children on her own.",
+            "audio_src": "แม่ม่ายเลี้ยงลูกสามคนตามลำพัง",
+            "audio_en_src": "The widow raises three children on her own."
+          },
+          {
+            "thai": "หลังสามีเสียเธอกลายเป็นแม่ม่าย",
+            "en": "After her husband died, she became a widow.",
+            "audio_src": "หลังสามีเสียเธอกลายเป็นแม่ม่าย",
+            "audio_en_src": "After her husband died, she became a widow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175938,6 +175995,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "not in time, too late",
+        "sentences": [
+          {
+            "thai": "รีบหน่อยเดี๋ยวไปไม่ทันรถไฟ",
+            "en": "Hurry up or we'll miss the train.",
+            "audio_src": "รีบหน่อยเดี๋ยวไปไม่ทันรถไฟ",
+            "audio_en_src": "Hurry up or we'll miss the train."
+          },
+          {
+            "thai": "ฉันมาไม่ทันตอนเขาพูด",
+            "en": "I didn't get there in time when he was speaking.",
+            "audio_src": "ฉันมาไม่ทันตอนเขาพูด",
+            "audio_en_src": "I didn't get there in time when he was speaking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175948,6 +176024,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "houseplant, ornamental plant",
+        "sentences": [
+          {
+            "thai": "เธอปลูกไม้ประดับในบ้านหลายกระถาง",
+            "en": "She grows many potted houseplants at home.",
+            "audio_src": "เธอปลูกไม้ประดับในบ้านหลายกระถาง",
+            "audio_en_src": "She grows many potted houseplants at home."
+          },
+          {
+            "thai": "ไม้ประดับช่วยให้ห้องดูสดชื่น",
+            "en": "Ornamental plants make the room feel fresh.",
+            "audio_src": "ไม้ประดับช่วยให้ห้องดูสดชื่น",
+            "audio_en_src": "Ornamental plants make the room feel fresh."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175991,6 +176086,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "vine, climbing plant",
+        "sentences": [
+          {
+            "thai": "ไม้เลื้อยพันรอบรั้วบ้าน",
+            "en": "The vine winds around the house fence.",
+            "audio_src": "ไม้เลื้อยพันรอบรั้วบ้าน",
+            "audio_en_src": "The vine winds around the house fence."
+          },
+          {
+            "thai": "ปลูกไม้เลื้อยให้ร่มเงาที่ระเบียง",
+            "en": "Plant a climbing vine for shade on the balcony.",
+            "audio_src": "ปลูกไม้เลื้อยให้ร่มเงาที่ระเบียง",
+            "audio_en_src": "Plant a climbing vine for shade on the balcony."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176228,6 +176342,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "MRT, subway",
+        "sentences": [
+          {
+            "thai": "นั่งรถไฟใต้ดินไปทำงานเร็วดี",
+            "en": "Taking the subway to work is nice and fast.",
+            "audio_src": "นั่งรถไฟใต้ดินไปทำงานเร็วดี",
+            "audio_en_src": "Taking the subway to work is nice and fast."
+          },
+          {
+            "thai": "รถไฟใต้ดินเชื่อมหลายสถานี",
+            "en": "The subway connects many stations.",
+            "audio_src": "รถไฟใต้ดินเชื่อมหลายสถานี",
+            "audio_en_src": "The subway connects many stations."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176238,6 +176371,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "BTS, skytrain",
+        "sentences": [
+          {
+            "thai": "รถไฟฟ้าวิ่งเหนือถนนสุขุมวิท",
+            "en": "The skytrain runs above Sukhumvit road.",
+            "audio_src": "รถไฟฟ้าวิ่งเหนือถนนสุขุมวิท",
+            "audio_en_src": "The skytrain runs above Sukhumvit road."
+          },
+          {
+            "thai": "ชั่วโมงเร่งด่วนรถไฟฟ้าคนแน่น",
+            "en": "During rush hour the skytrain is packed.",
+            "audio_src": "ชั่วโมงเร่งด่วนรถไฟฟ้าคนแน่น",
+            "audio_en_src": "During rush hour the skytrain is packed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176344,6 +176496,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "regime",
+        "sentences": [
+          {
+            "thai": "ประเทศนี้ปกครองด้วยระบอบประชาธิปไตย",
+            "en": "This country is governed by a democratic system.",
+            "audio_src": "ประเทศนี้ปกครองด้วยระบอบประชาธิปไตย",
+            "audio_en_src": "This country is governed by a democratic system."
+          },
+          {
+            "thai": "ระบอบเผด็จการจำกัดเสรีภาพ",
+            "en": "A dictatorial regime restricts freedom.",
+            "audio_src": "ระบอบเผด็จการจำกัดเสรีภาพ",
+            "audio_en_src": "A dictatorial regime restricts freedom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176387,6 +176558,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "body",
+        "sentences": [
+          {
+            "thai": "ออกกำลังกายทำให้ร่างกายแข็งแรง",
+            "en": "Exercise makes the body strong.",
+            "audio_src": "ออกกำลังกายทำให้ร่างกายแข็งแรง",
+            "audio_en_src": "Exercise makes the body strong."
+          },
+          {
+            "thai": "ร่างกายต้องการน้ำทุกวัน",
+            "en": "The body needs water every day.",
+            "audio_src": "ร่างกายต้องการน้ำทุกวัน",
+            "audio_en_src": "The body needs water every day."
+          }
+        ]
+      }
     ]
   },
   {
