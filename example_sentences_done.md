@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5482 words**
+**Total: 5492 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3887,6 +3887,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-083` : ขี้เผือก (nosy person, someone who sticks their nose into other people's business) : 1 meaning(s), 2 sentences
 - `yt-c19-086` : ซิง (virgin, sexually inexperienced (slang)) : 1 meaning(s), 2 sentences
 - `yt-c19-088` : โรคติดต่อทางเพศสัมพันธ์ (STD (formal)) : 1 meaning(s), 2 sentences
+- `yt-c19-089` : เอากัน (to have sex (slang, literally "to do each other")) : 1 meaning(s), 2 sentences
+- `yt-c19-093` : กินตับ (to get laid, to have sex (slang, literally "eat liver")) : 1 meaning(s), 2 sentences
+- `yt-c19-097` : ขึ้นเลย, แข็งเลย (to have an instant erection) : 1 meaning(s), 2 sentences
+- `yt-c19-099` : มีอารมณ์ (sexual arousal, to be turned on (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-000` : เงี่ยน (horny (slang, rude)) : 1 meaning(s), 2 sentences
+- `yt-c20-002` : ช่วยตัวเอง (to masturbate (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-004` : ชักว่าว ((literally) to fly a kite; (figuratively, sexual) to masturbate (for men only)) : 2 meaning(s), 4 sentences
+- `yt-c20-011` : โม๊ก (to give a blowjob, to give head (slang)) : 1 meaning(s), 1 sentences
+- `yt-c20-015` : กินเด็ก (to date or have sex with someone a lot younger than you (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-016` : พูดไปงั้นแหละ ((informal) "I'm just saying", "just saying it like that", "don't take it personally") : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
 - `yt-c20-039` : หักดิบ (to suddenly and completely cut something out (e.g lose weight, quit smoking)) : 1 meaning(s), 2 sentences
