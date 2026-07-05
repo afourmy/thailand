@@ -157064,6 +157064,42 @@
       "Anki Basics",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "water buffalo",
+        "sentences": [
+          {
+            "thai": "ควายนอนแช่น้ำในหนอง",
+            "en": "The buffaloes lie soaking in the pond.",
+            "audio_src": "ควายนอนแช่น้ำในหนอง",
+            "audio_en_src": "The buffaloes lie soaking in the pond."
+          },
+          {
+            "thai": "ชาวนาใช้ควายไถนา",
+            "en": "Farmers use buffalo to plow the field.",
+            "audio_src": "ชาวนาใช้ควายไถนา",
+            "audio_en_src": "Farmers use buffalo to plow the field."
+          }
+        ]
+      },
+      {
+        "meaning": "idiot, moron",
+        "sentences": [
+          {
+            "thai": "โง่เหมือนควาย",
+            "en": "Dumb as an ox.",
+            "audio_src": "โง่เหมือนควาย",
+            "audio_en_src": "Dumb as an ox."
+          },
+          {
+            "thai": "เขาโมโหด่าลูกน้องว่าควาย",
+            "en": "He got mad and called his subordinate an idiot.",
+            "audio_src": "เขาโมโหด่าลูกน้องว่าควาย",
+            "audio_en_src": "He got mad and called his subordinate an idiot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157077,6 +157113,25 @@
       "Anki Basics",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "moron, dumbass (altered pronunciation of buffalo)",
+        "sentences": [
+          {
+            "thai": "มึงมันฟายชัดๆ",
+            "en": "You're such a dumbass.",
+            "audio_src": "มึงมันฟายชัดๆ",
+            "audio_en_src": "You're such a dumbass."
+          },
+          {
+            "thai": "อย่าทำตัวเป็นฟาย",
+            "en": "Don't be a moron.",
+            "audio_src": "อย่าทำตัวเป็นฟาย",
+            "audio_en_src": "Don't be a moron."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157087,6 +157142,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to be cheated on by one's partner, to be made a cuckold (informal)",
+        "sentences": [
+          {
+            "thai": "เขาโดนสวมเขาแต่ไม่รู้ตัว",
+            "en": "He got cheated on without even knowing.",
+            "audio_src": "เขาโดนสวมเขาแต่ไม่รู้ตัว",
+            "audio_en_src": "He got cheated on without even knowing."
+          },
+          {
+            "thai": "รู้ทีหลังว่าถูกสวมเขามาตลอด",
+            "en": "He found out later he'd been cheated on the whole time.",
+            "audio_src": "รู้ทีหลังว่าถูกสวมเขามาตลอด",
+            "audio_en_src": "He found out later he'd been cheated on the whole time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157107,6 +157181,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to remember vividly, to be engraved in one's mind (e.g bad memories)",
+        "sentences": [
+          {
+            "thai": "คำพูดวันนั้นฉันจำฝังใจ",
+            "en": "I'll never forget the words from that day.",
+            "audio_src": "คำพูดวันนั้นฉันจำฝังใจ",
+            "audio_en_src": "I'll never forget the words from that day."
+          },
+          {
+            "thai": "เหตุการณ์นั้นจำฝังใจไม่มีวันลืม",
+            "en": "That incident is etched in my memory forever.",
+            "audio_src": "เหตุการณ์นั้นจำฝังใจไม่มีวันลืม",
+            "audio_en_src": "That incident is etched in my memory forever."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157223,6 +157316,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "clever but dishonest, cunning, sly",
+        "sentences": [
+          {
+            "thai": "เขาฉลาดแกมโกงหาช่องเอาเปรียบ",
+            "en": "He's cunning, always finding an angle to take advantage.",
+            "audio_src": "เขาฉลาดแกมโกงหาช่องเอาเปรียบ",
+            "audio_en_src": "He's cunning, always finding an angle to take advantage."
+          },
+          {
+            "thai": "อย่าไว้ใจคนฉลาดแกมโกง",
+            "en": "Don't trust cunning, sly people.",
+            "audio_src": "อย่าไว้ใจคนฉลาดแกมโกง",
+            "audio_en_src": "Don't trust cunning, sly people."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157243,6 +157355,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"piss off\", \"get lost\", \"get the hell out\" (slang, rude)",
+        "sentences": [
+          {
+            "thai": "ไสหัวไปเลย ไม่อยากเห็นหน้า",
+            "en": "Get lost, I don't want to see your face.",
+            "audio_src": "ไสหัวไปเลย ไม่อยากเห็นหน้า",
+            "audio_en_src": "Get lost, I don't want to see your face."
+          },
+          {
+            "thai": "เขาไล่ให้ผมไสหัวไป",
+            "en": "He told me to get the hell out.",
+            "audio_src": "เขาไล่ให้ผมไสหัวไป",
+            "audio_en_src": "He told me to get the hell out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157253,6 +157384,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"fuck you\", \"fuck your mother\" (slang, very rude)",
+        "sentences": [
+          {
+            "thai": "เขาโมโหจนตะโกนด่าพ่อมึงตาย",
+            "en": "He was so furious he screamed a curse at him.",
+            "audio_src": "เขาโมโหจนตะโกนด่าพ่อมึงตาย",
+            "audio_en_src": "He was so furious he screamed a curse at him."
+          },
+          {
+            "thai": "ทะเลาะกันหนักถึงขั้นด่าแม่มึงตาย",
+            "en": "The fight got so bad they hurled the vilest curses at each other.",
+            "audio_src": "ทะเลาะกันหนักถึงขั้นด่าแม่มึงตาย",
+            "audio_en_src": "The fight got so bad they hurled the vilest curses at each other."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157273,6 +157423,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "unbearable, intolerable",
+        "sentences": [
+          {
+            "thai": "เสียงดังทั้งคืนเหลือทนจริงๆ",
+            "en": "The noise all night is truly unbearable.",
+            "audio_src": "เสียงดังทั้งคืนเหลือทนจริงๆ",
+            "audio_en_src": "The noise all night is truly unbearable."
+          },
+          {
+            "thai": "พฤติกรรมแบบนี้เหลือทนแล้ว",
+            "en": "This kind of behavior is intolerable now.",
+            "audio_src": "พฤติกรรมแบบนี้เหลือทนแล้ว",
+            "audio_en_src": "This kind of behavior is intolerable now."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157366,6 +157535,25 @@
     "topic": "law",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fraudulent, corrupt",
+        "sentences": [
+          {
+            "thai": "นักการเมืองฉ้อฉลโกงงบประมาณ",
+            "en": "Corrupt politicians embezzle the budget.",
+            "audio_src": "นักการเมืองฉ้อฉลโกงงบประมาณ",
+            "audio_en_src": "Corrupt politicians embezzle the budget."
+          },
+          {
+            "thai": "ระบบที่ฉ้อฉลทำให้ประเทศเสียหาย",
+            "en": "A corrupt system damages the country.",
+            "audio_src": "ระบบที่ฉ้อฉลทำให้ประเทศเสียหาย",
+            "audio_en_src": "A corrupt system damages the country."
+          }
+        ]
+      }
     ]
   },
   {
@@ -157376,6 +157564,25 @@
     "topic": "law",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to defraud, to scam, to cheat someone (e.g out of money or property)",
+        "sentences": [
+          {
+            "thai": "เขาถูกจับข้อหาฉ้อโกงประชาชน",
+            "en": "He was arrested for defrauding the public.",
+            "audio_src": "เขาถูกจับข้อหาฉ้อโกงประชาชน",
+            "audio_en_src": "He was arrested for defrauding the public."
+          },
+          {
+            "thai": "บริษัทนี้ฉ้อโกงเงินลูกค้า",
+            "en": "This company scammed money out of its customers.",
+            "audio_src": "บริษัทนี้ฉ้อโกงเงินลูกค้า",
+            "audio_en_src": "This company scammed money out of its customers."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5582 words**
+**Total: 5592 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4024,11 +4024,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-024` : ประปราย (sporadic) : 1 meaning(s), 2 sentences
 - `yt-c22-025` : เตียงผ้าใบ (beach chair made of fabric stretched over a frame (like a hammock)) : 1 meaning(s), 2 sentences
 - `yt-c22-026` : หนาตา (crowded, bustling) : 1 meaning(s), 2 sentences
+- `yt-c22-033` : ควาย (water buffalo; idiot, moron) : 2 meaning(s), 4 sentences
+- `new-10` : ฟาย (moron, dumbass (altered pronunciation of buffalo)) : 1 meaning(s), 2 sentences
+- `yt-c22-034` : ถูกสวมเขา, โดนสวมเขา (to be cheated on by one's partner, to be made a cuckold (informal)) : 1 meaning(s), 2 sentences
+- `yt-c22-036` : จำฝังใจ (to remember vividly, to be engraved in one's mind (e.g bad memories)) : 1 meaning(s), 2 sentences
 - `yt-c22-037` : ระงับ (to suppress, to suspend, to put a stop to) : 1 meaning(s), 2 sentences
 - `yt-c22-038` : โล่งแจ้ง (open, unobstructed, clear) : 1 meaning(s), 2 sentences
 - `yt-c22-039` : แถลง (to announce, to declare, to make a statement) : 1 meaning(s), 2 sentences
+- `yt-c22-042` : ฉลาดแกมโกง (clever but dishonest, cunning, sly) : 1 meaning(s), 2 sentences
+- `yt-c22-044` : ไสหัวไป ("piss off", "get lost", "get the hell out" (slang, rude)) : 1 meaning(s), 2 sentences
+- `yt-c22-045` : พ่อมึงตาย, แม่มึงตาย ("fuck you", "fuck your mother" (slang, very rude)) : 1 meaning(s), 2 sentences
+- `yt-c22-047` : เหลือทน (unbearable, intolerable) : 1 meaning(s), 2 sentences
 - `yt-c22-049` : สจ๊วต (steward (male air hostess)) : 1 meaning(s), 2 sentences
 - `yt-c22-051` : อับ (stuffy, poorly ventilated, cramped (enclosed space with no flow, no way out)) : 1 meaning(s), 2 sentences
+- `yt-c22-053` : ฉ้อฉล (fraudulent, corrupt) : 1 meaning(s), 2 sentences
+- `new-8` : ฉ้อโกง (to defraud, to scam, to cheat someone (e.g out of money or property)) : 1 meaning(s), 2 sentences
 - `yt-c22-056` : เลี่ยง, หลีกเลี่ยง (to avoid, to evade (e.g law, tax, etc)) : 1 meaning(s), 2 sentences
 - `yt-c22-058` : ช่องโหว่ (loophole, gap, vulnerability) : 1 meaning(s), 2 sentences
 - `yt-c22-059` : ท้วม ((not rude) plump, chubby, somewhat overweight) : 1 meaning(s), 2 sentences
