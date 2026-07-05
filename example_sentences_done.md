@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5952 words**
+**Total: 5962 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4927,21 +4927,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c12-023` : วัตถุ (object, material) : 1 meaning(s), 2 sentences
 - `wlt-c12-024` : วันเกิด (birthday) : 1 meaning(s), 2 sentences
 - `wlt-c12-025` : วิศวกร (engineer) : 1 meaning(s), 2 sentences
+- `wlt-c12-026` : วีซ่า (visa (loanword)) : 1 meaning(s), 2 sentences
+- `wlt-c12-028` : ศาสนาอิสลาม (Islam) : 1 meaning(s), 2 sentences
 - `wlt-c12-029` : สถานที่ (place, location) : 1 meaning(s), 2 sentences
+- `wlt-c12-030` : สถานีตำรวจ (police station) : 1 meaning(s), 2 sentences
 - `wlt-c12-031` : สถาบัน (institute, institution) : 1 meaning(s), 2 sentences
 - `wlt-c12-032` : สบายดี (to feel well, to be okay) : 1 meaning(s), 2 sentences
 - `wlt-c12-033` : สมบูรณ์ (perfect, whole, complete) : 1 meaning(s), 2 sentences
+- `wlt-c12-034` : สมอง (brain) : 1 meaning(s), 2 sentences
 - `wlt-c12-035` : สมาคม (association, society, organization) : 1 meaning(s), 2 sentences
 - `wlt-c12-036` : สระว่ายน้ำ (swimming pool) : 1 meaning(s), 2 sentences
 - `wlt-c12-037` : ส้วม (toilet) : 1 meaning(s), 2 sentences
 - `wlt-c12-038` : สวัสดี (hello (used for greeting or leavetaking)) : 1 meaning(s), 2 sentences
 - `wlt-c12-039` : สามสิบ (thirty (30)) : 1 meaning(s), 2 sentences
+- `wlt-c12-041` : สิทธิ (right, privilege) : 1 meaning(s), 2 sentences
 - `wlt-c12-042` : สิ้น, สิ้นสุด (to end, to come to an end) : 1 meaning(s), 2 sentences
+- `wlt-c12-043` : สินค้า (goods, merchandise) : 1 meaning(s), 2 sentences
+- `wlt-c12-044` : สิว (pimple) : 1 meaning(s), 2 sentences
 - `wlt-c12-045` : สีเงิน (silver (colour)) : 1 meaning(s), 2 sentences
 - `wlt-c12-046` : สีทอง (gold (color)) : 1 meaning(s), 2 sentences
 - `wlt-c12-047` : สีส้ม (orange) : 1 meaning(s), 2 sentences
+- `wlt-c12-048` : สุภาพ (polite) : 1 meaning(s), 2 sentences
 - `wlt-c12-049` : เสื้อเชิ้ต (shirt (worn in formal settings)) : 1 meaning(s), 2 sentences
 - `wlt-c12-050` : แสตมป์ (postage stamp) : 1 meaning(s), 2 sentences
+- `wlt-c12-051` : ไส้ (intestines, innards) : 1 meaning(s), 2 sentences
+- `wlt-c12-052` : หญิงโสด (unmarried women, spinster) : 1 meaning(s), 2 sentences
 - `wlt-c12-053` : หด (to shrink) : 1 meaning(s), 2 sentences
 - `wlt-c12-055` : หน้าร้อน (hot season) : 1 meaning(s), 2 sentences
 - `wlt-c12-056` : หน้าหนาว (cold season) : 1 meaning(s), 2 sentences

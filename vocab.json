@@ -185999,6 +185999,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "visa (loanword)",
+        "sentences": [
+          {
+            "thai": "เขาขอวีซ่าไปเที่ยวยุโรป",
+            "en": "He applied for a visa to travel to Europe.",
+            "audio_src": "เขาขอวีซ่าไปเที่ยวยุโรป",
+            "audio_en_src": "He applied for a visa to travel to Europe."
+          },
+          {
+            "thai": "วีซ่าท่องเที่ยวมีอายุสามเดือน",
+            "en": "The tourist visa is valid for three months.",
+            "audio_src": "วีซ่าท่องเที่ยวมีอายุสามเดือน",
+            "audio_en_src": "The tourist visa is valid for three months."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186009,6 +186028,25 @@
     "topic": "beliefs",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Islam",
+        "sentences": [
+          {
+            "thai": "ศาสนาอิสลามห้ามกินหมู",
+            "en": "Islam prohibits eating pork.",
+            "audio_src": "ศาสนาอิสลามห้ามกินหมู",
+            "audio_en_src": "Islam prohibits eating pork."
+          },
+          {
+            "thai": "คนนับถือศาสนาอิสลามละหมาดวันละห้าครั้ง",
+            "en": "Muslims pray five times a day.",
+            "audio_src": "คนนับถือศาสนาอิสลามละหมาดวันละห้าครั้ง",
+            "audio_en_src": "Muslims pray five times a day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186051,6 +186089,25 @@
     "topic": "law",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "police station",
+        "sentences": [
+          {
+            "thai": "เขาไปแจ้งความที่สถานีตำรวจ",
+            "en": "He went to file a report at the police station.",
+            "audio_src": "เขาไปแจ้งความที่สถานีตำรวจ",
+            "audio_en_src": "He went to file a report at the police station."
+          },
+          {
+            "thai": "สถานีตำรวจอยู่ใกล้ตลาด",
+            "en": "The police station is near the market.",
+            "audio_src": "สถานีตำรวจอยู่ใกล้ตลาด",
+            "audio_en_src": "The police station is near the market."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186159,6 +186216,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "brain",
+        "sentences": [
+          {
+            "thai": "สมองต้องการพักผ่อนเพียงพอ",
+            "en": "The brain needs enough rest.",
+            "audio_src": "สมองต้องการพักผ่อนเพียงพอ",
+            "audio_en_src": "The brain needs enough rest."
+          },
+          {
+            "thai": "การอ่านหนังสือช่วยพัฒนาสมอง",
+            "en": "Reading helps develop the brain.",
+            "audio_src": "การอ่านหนังสือช่วยพัฒนาสมอง",
+            "audio_en_src": "Reading helps develop the brain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186332,6 +186408,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "right, privilege",
+        "sentences": [
+          {
+            "thai": "ทุกคนมีสิทธิแสดงความคิดเห็น",
+            "en": "Everyone has the right to express their opinion.",
+            "audio_src": "ทุกคนมีสิทธิแสดงความคิดเห็น",
+            "audio_en_src": "Everyone has the right to express their opinion."
+          },
+          {
+            "thai": "เขาใช้สิทธิเลือกตั้งครั้งแรก",
+            "en": "He exercised his right to vote for the first time.",
+            "audio_src": "เขาใช้สิทธิเลือกตั้งครั้งแรก",
+            "audio_en_src": "He exercised his right to vote for the first time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186376,6 +186471,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "goods, merchandise",
+        "sentences": [
+          {
+            "thai": "ร้านนำสินค้าใหม่มาวางขาย",
+            "en": "The shop put out new merchandise.",
+            "audio_src": "ร้านนำสินค้าใหม่มาวางขาย",
+            "audio_en_src": "The shop put out new merchandise."
+          },
+          {
+            "thai": "สินค้าส่งออกราคาสูงขึ้น",
+            "en": "Export goods have gone up in price.",
+            "audio_src": "สินค้าส่งออกราคาสูงขึ้น",
+            "audio_en_src": "Export goods have gone up in price."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186386,6 +186500,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pimple",
+        "sentences": [
+          {
+            "thai": "วัยรุ่นมักมีสิวขึ้นหน้า",
+            "en": "Teenagers often get pimples on their face.",
+            "audio_src": "วัยรุ่นมักมีสิวขึ้นหน้า",
+            "audio_en_src": "Teenagers often get pimples on their face."
+          },
+          {
+            "thai": "อย่าบีบสิวเดี๋ยวเป็นแผล",
+            "en": "Don't pop the pimple or it'll scar.",
+            "audio_src": "อย่าบีบสิวเดี๋ยวเป็นแผล",
+            "audio_en_src": "Don't pop the pimple or it'll scar."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186492,6 +186625,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "polite",
+        "sentences": [
+          {
+            "thai": "เขาพูดจาสุภาพกับทุกคน",
+            "en": "He speaks politely to everyone.",
+            "audio_src": "เขาพูดจาสุภาพกับทุกคน",
+            "audio_en_src": "He speaks politely to everyone."
+          },
+          {
+            "thai": "แต่งตัวสุภาพไปงานพิธี",
+            "en": "Dress modestly for the ceremony.",
+            "audio_src": "แต่งตัวสุภาพไปงานพิธี",
+            "audio_en_src": "Dress modestly for the ceremony."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186565,6 +186717,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "intestines, innards",
+        "sentences": [
+          {
+            "thai": "ไส้หมูย่างเป็นเมนูโปรด",
+            "en": "Grilled pork intestine is a favorite dish.",
+            "audio_src": "ไส้หมูย่างเป็นเมนูโปรด",
+            "audio_en_src": "Grilled pork intestine is a favorite dish."
+          },
+          {
+            "thai": "ล้างไส้ไก่ให้สะอาดก่อนปรุง",
+            "en": "Clean the chicken innards well before cooking.",
+            "audio_src": "ล้างไส้ไก่ให้สะอาดก่อนปรุง",
+            "audio_en_src": "Clean the chicken innards well before cooking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186575,6 +186746,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "unmarried women, spinster",
+        "sentences": [
+          {
+            "thai": "หญิงโสดหลายคนเลือกใช้ชีวิตอิสระ",
+            "en": "Many single women choose an independent life.",
+            "audio_src": "หญิงโสดหลายคนเลือกใช้ชีวิตอิสระ",
+            "audio_en_src": "Many single women choose an independent life."
+          },
+          {
+            "thai": "เธอเป็นหญิงโสดที่ประสบความสำเร็จ",
+            "en": "She's a successful single woman.",
+            "audio_src": "เธอเป็นหญิงโสดที่ประสบความสำเร็จ",
+            "audio_en_src": "She's a successful single woman."
+          }
+        ]
+      }
     ]
   },
   {
