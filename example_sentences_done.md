@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5622 words**
+**Total: 5632 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4079,11 +4079,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c23-011` : ตะไบเล็บ (to file one's nails) : 1 meaning(s), 2 sentences
 - `yt-c23-012` : ปากต่อปาก (by word of mouth) : 1 meaning(s), 2 sentences
 - `yt-c23-014` : เป็นประจำเดือน, เป็นเมนส์ (to be on one's period, to be menstruating) : 1 meaning(s), 2 sentences
+- `yt-c23-016` : ทำตัวถูก, วางตัวถูก (to behave properly, to do the right thing) : 1 meaning(s), 2 sentences
+- `yt-c23-017` : เอาแล้วไง ("here we go again..." (something negative about to happen)) : 1 meaning(s), 2 sentences
+- `yt-c23-018` : ฝืนใจ (to force oneself to do something, against one's will) : 1 meaning(s), 2 sentences
+- `yt-c23-019` : ดูเผินๆ (at first glance, superficially) : 1 meaning(s), 2 sentences
+- `yt-c23-020` : ไม่...ซะทีเดียว (not completely, not entirely, not exactly) : 1 meaning(s), 2 sentences
 - `yt-c23-021` : ปิดกั้น (to seal off completely, to completely block (physically, or feelings)) : 1 meaning(s), 2 sentences
 - `yt-c23-022` : ขวางทาง (to block the way) : 1 meaning(s), 2 sentences
 - `yt-c23-024` : ตีหน้า (to deliberately put on a facial expression, to pretend to feel a certain way) : 1 meaning(s), 2 sentences
+- `yt-c23-027` : มาแต่ตัว - ไปแต่ตัว (to come empty-handed - to go empty-handed) : 1 meaning(s), 2 sentences
+- `yt-c23-029` : ชื่นใจ (cheerful, delighted) : 1 meaning(s), 2 sentences
+- `yt-c23-030` : เปิดใจ (open-minded, to open up emotionally, to give something a chance) : 1 meaning(s), 2 sentences
+- `yt-c23-031` : สนิทใจ (to feel close and comfortable around someone, to trust on a personal level) : 1 meaning(s), 2 sentences
 - `yt-c23-032` : กลับด้าน (to flip to the other side, to turn inside out) : 1 meaning(s), 2 sentences
 - `wlt-c01-000` : กระดิ่ง (small, simple bell (e.g bicycle)) : 1 meaning(s), 2 sentences
+- `wlt-c01-004` : กลางเดือน (middle of the month) : 1 meaning(s), 2 sentences
 - `wlt-c01-010` : กี่โมง (what time) : 1 meaning(s), 2 sentences
 - `wlt-c01-011` : เก๊ (fake, counterfeit) : 1 meaning(s), 2 sentences
 - `wlt-c01-014` : เกษียณ (to retire) : 1 meaning(s), 2 sentences
