@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5692 words**
+**Total: 5702 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4207,17 +4207,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-061` : ทางออก (way out, exit) : 1 meaning(s), 2 sentences
 - `wlt-c02-064` : ทำหาย (to lose (something)) : 1 meaning(s), 2 sentences
 - `wlt-c02-066` : ที่เก็บของ (storage place) : 1 meaning(s), 2 sentences
+- `wlt-c02-069` : ทีละคน (one by one, one person at a time) : 1 meaning(s), 2 sentences
 - `wlt-c02-070` : ที่ว่าง (unoccupied space, vacant place) : 1 meaning(s), 2 sentences
 - `wlt-c02-071` : ที่สอง (second (2nd)) : 1 meaning(s), 2 sentences
 - `wlt-c02-072` : ที่เหลือ (the rest) : 1 meaning(s), 2 sentences
+- `wlt-c02-074` : ที่ไหนก็ได้ (anywhere) : 1 meaning(s), 2 sentences
 - `wlt-c02-075` : ทุกคืน (every night) : 1 meaning(s), 2 sentences
 - `wlt-c02-076` : ทุกเช้า (every morning) : 1 meaning(s), 2 sentences
 - `wlt-c02-077` : ทุกเดือน (every month) : 1 meaning(s), 2 sentences
 - `wlt-c02-079` : ทุกปี (every year) : 1 meaning(s), 2 sentences
 - `wlt-c02-080` : ทุกเย็น (every evening) : 1 meaning(s), 2 sentences
 - `wlt-c02-081` : ทุกอาทิตย์ (every week) : 1 meaning(s), 2 sentences
+- `wlt-c02-082` : นมข้น (condensed milk) : 1 meaning(s), 2 sentences
+- `wlt-c02-083` : นมพร่องมันเนย (low-fat milk) : 1 meaning(s), 2 sentences
 - `wlt-c02-084` : นวด (massage) : 1 meaning(s), 2 sentences
+- `wlt-c02-085` : นอนเต็มอิ่ม (to be rested (from sleep)) : 1 meaning(s), 2 sentences
 - `wlt-c02-086` : น้อยลง (less) : 1 meaning(s), 2 sentences
+- `wlt-c02-087` : นักท่องเที่ยว (tourist) : 1 meaning(s), 2 sentences
+- `wlt-c02-091` : น่ารู้ (worth knowing) : 1 meaning(s), 2 sentences
+- `wlt-c02-092` : น่าลอง (worth trying) : 1 meaning(s), 2 sentences
+- `wlt-c02-093` : น่าไว้ใจ (trustworthy, reliable) : 1 meaning(s), 2 sentences
+- `wlt-c02-094` : น่าอาย (embarrassing, shameful) : 1 meaning(s), 2 sentences
 - `wlt-c02-095` : น้ำชา (tea) : 1 meaning(s), 2 sentences
 - `wlt-c02-096` : น้ำดื่ม (drinking water) : 1 meaning(s), 2 sentences
 - `wlt-c02-098` : น้ำปลา (fish sauce) : 1 meaning(s), 2 sentences

@@ -162924,6 +162924,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "one by one, one person at a time",
+        "sentences": [
+          {
+            "thai": "เข้าห้องสอบทีละคน",
+            "en": "Enter the exam room one at a time.",
+            "audio_src": "เข้าห้องสอบทีละคน",
+            "audio_en_src": "Enter the exam room one at a time."
+          },
+          {
+            "thai": "หมอเรียกคนไข้เข้าไปทีละคน",
+            "en": "The doctor calls the patients in one by one.",
+            "audio_src": "หมอเรียกคนไข้เข้าไปทีละคน",
+            "audio_en_src": "The doctor calls the patients in one by one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163031,6 +163050,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "anywhere",
+        "sentences": [
+          {
+            "thai": "กินข้าวที่ไหนก็ได้ฉันไม่เลือก",
+            "en": "Anywhere is fine to eat, I'm not picky.",
+            "audio_src": "กินข้าวที่ไหนก็ได้ฉันไม่เลือก",
+            "audio_en_src": "Anywhere is fine to eat, I'm not picky."
+          },
+          {
+            "thai": "นั่งที่ไหนก็ได้ตามสบาย",
+            "en": "Sit anywhere you like.",
+            "audio_src": "นั่งที่ไหนก็ได้ตามสบาย",
+            "audio_en_src": "Sit anywhere you like."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163239,6 +163277,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "condensed milk",
+        "sentences": [
+          {
+            "thai": "ใส่นมข้นในกาแฟเย็น",
+            "en": "Add condensed milk to the iced coffee.",
+            "audio_src": "ใส่นมข้นในกาแฟเย็น",
+            "audio_en_src": "Add condensed milk to the iced coffee."
+          },
+          {
+            "thai": "ขนมปังปิ้งราดนมข้นหวาน",
+            "en": "Toast drizzled with sweet condensed milk.",
+            "audio_src": "ขนมปังปิ้งราดนมข้นหวาน",
+            "audio_en_src": "Toast drizzled with sweet condensed milk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163249,6 +163306,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "low-fat milk",
+        "sentences": [
+          {
+            "thai": "เขาดื่มนมพร่องมันเนยเพื่อลดน้ำหนัก",
+            "en": "He drinks low-fat milk to lose weight.",
+            "audio_src": "เขาดื่มนมพร่องมันเนยเพื่อลดน้ำหนัก",
+            "audio_en_src": "He drinks low-fat milk to lose weight."
+          },
+          {
+            "thai": "นมพร่องมันเนยมีไขมันน้อยกว่านมปกติ",
+            "en": "Low-fat milk has less fat than regular milk.",
+            "audio_src": "นมพร่องมันเนยมีไขมันน้อยกว่านมปกติ",
+            "audio_en_src": "Low-fat milk has less fat than regular milk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163293,6 +163369,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to be rested (from sleep)",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนนอนเต็มอิ่มเลยสดชื่น",
+            "en": "I slept well last night, so I feel refreshed.",
+            "audio_src": "เมื่อคืนนอนเต็มอิ่มเลยสดชื่น",
+            "audio_en_src": "I slept well last night, so I feel refreshed."
+          },
+          {
+            "thai": "วันหยุดได้นอนเต็มอิ่มสักที",
+            "en": "On the holiday I finally got a good, full sleep.",
+            "audio_src": "วันหยุดได้นอนเต็มอิ่มสักที",
+            "audio_en_src": "On the holiday I finally got a good, full sleep."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163335,6 +163430,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tourist",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวต่างชาติชอบมาเที่ยวไทย",
+            "en": "Foreign tourists love visiting Thailand.",
+            "audio_src": "นักท่องเที่ยวต่างชาติชอบมาเที่ยวไทย",
+            "audio_en_src": "Foreign tourists love visiting Thailand."
+          },
+          {
+            "thai": "ช่วงหยุดยาวนักท่องเที่ยวเยอะมาก",
+            "en": "During the long holiday there are tons of tourists.",
+            "audio_src": "ช่วงหยุดยาวนักท่องเที่ยวเยอะมาก",
+            "audio_en_src": "During the long holiday there are tons of tourists."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163345,6 +163459,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "worth knowing",
+        "sentences": [
+          {
+            "thai": "บทความนี้มีข้อมูลน่ารู้เยอะ",
+            "en": "This article has a lot of useful facts worth knowing.",
+            "audio_src": "บทความนี้มีข้อมูลน่ารู้เยอะ",
+            "audio_en_src": "This article has a lot of useful facts worth knowing."
+          },
+          {
+            "thai": "เกร็ดความรู้น่ารู้เกี่ยวกับสุขภาพ",
+            "en": "Handy health tidbits worth knowing.",
+            "audio_src": "เกร็ดความรู้น่ารู้เกี่ยวกับสุขภาพ",
+            "audio_en_src": "Handy health tidbits worth knowing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163355,6 +163488,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "worth trying",
+        "sentences": [
+          {
+            "thai": "ร้านนี้เมนูใหม่น่าลอง",
+            "en": "This place's new menu is worth trying.",
+            "audio_src": "ร้านนี้เมนูใหม่น่าลอง",
+            "audio_en_src": "This place's new menu is worth trying."
+          },
+          {
+            "thai": "วิธีนี้น่าลองดูสักครั้ง",
+            "en": "This method is worth a try.",
+            "audio_src": "วิธีนี้น่าลองดูสักครั้ง",
+            "audio_en_src": "This method is worth a try."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163365,6 +163517,25 @@
     "topic": "personality",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "trustworthy, reliable",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนน่าไว้ใจฝากงานได้",
+            "en": "He's trustworthy, you can rely on him with work.",
+            "audio_src": "เขาเป็นคนน่าไว้ใจฝากงานได้",
+            "audio_en_src": "He's trustworthy, you can rely on him with work."
+          },
+          {
+            "thai": "ร้านนี้น่าไว้ใจของไม่เคยมีปัญหา",
+            "en": "This shop is reliable, their products never have problems.",
+            "audio_src": "ร้านนี้น่าไว้ใจของไม่เคยมีปัญหา",
+            "audio_en_src": "This shop is reliable, their products never have problems."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163375,6 +163546,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "embarrassing, shameful",
+        "sentences": [
+          {
+            "thai": "ล้มกลางที่สาธารณะมันน่าอายมาก",
+            "en": "Falling over in public is so embarrassing.",
+            "audio_src": "ล้มกลางที่สาธารณะมันน่าอายมาก",
+            "audio_en_src": "Falling over in public is so embarrassing."
+          },
+          {
+            "thai": "เขาทำเรื่องน่าอายจนไม่กล้าสู้หน้า",
+            "en": "He did something so shameful he can't face anyone.",
+            "audio_src": "เขาทำเรื่องน่าอายจนไม่กล้าสู้หน้า",
+            "audio_en_src": "He did something so shameful he can't face anyone."
+          }
+        ]
+      }
     ]
   },
   {
