@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5572 words**
+**Total: 5582 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4008,9 +4008,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-000` : ครั่นเนื้อครั่นตัว (to feel feverish, unwell, to have chills) : 1 meaning(s), 2 sentences
 - `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
 - `yt-c22-005` : คาดคะเน (to estimate, to predict, to infer) : 1 meaning(s), 2 sentences
+- `yt-c22-006` : ไม่กินเส้นกับ (to dislike, to not get along with) : 1 meaning(s), 2 sentences
+- `yt-c22-008` : ใช้เงินเก่ง (to splurge, big spender) : 1 meaning(s), 2 sentences
+- `yt-c22-009` : ใช้เงินสุรุ่ยสุร่าย (to spend money extravagantly, to be wasteful with money) : 1 meaning(s), 2 sentences
 - `yt-c22-011` : ยอ (to flatter, to suck up to) : 1 meaning(s), 2 sentences
+- `yt-c22-012` : อวย (to praise excessively, to hype up, to flatter) : 1 meaning(s), 2 sentences
+- `yt-c22-015` : หลับสบาย, ไปดี, กลับบ้านเก่า (to die, to pass away (various idioms)) : 1 meaning(s), 2 sentences
 - `yt-c22-016` : คลาดเคลื่อน (inaccurate, off, incorrect, to be slightly off) : 1 meaning(s), 2 sentences
+- `yt-c22-017` : เข้าที่เข้าทาง (to settle into place (idea of a situation becoming stable after disorder or transition)) : 1 meaning(s), 2 sentences
+- `yt-c22-018` : ไปทำอีท่าไหน ("how did this happen", "how on earth did you do this") : 1 meaning(s), 2 sentences
+- `yt-c22-020` : ก็ใช่ว่าจะ ("it’s not necessarily that...", "it's not always like that") : 1 meaning(s), 2 sentences
+- `yt-c22-021` : ยังไงอย่างนั้น ("that’s exactly how it is", "that’s exactly it") : 1 meaning(s), 2 sentences
 - `yt-c22-022` : ท้าวความ (to give background information, to recap previous events, to retell the context) : 1 meaning(s), 2 sentences
+- `yt-c22-023` : ใจหาย (startled, frightened, suddenly sad, emptied, fearful) : 1 meaning(s), 2 sentences
 - `yt-c22-024` : ประปราย (sporadic) : 1 meaning(s), 2 sentences
 - `yt-c22-025` : เตียงผ้าใบ (beach chair made of fabric stretched over a frame (like a hammock)) : 1 meaning(s), 2 sentences
 - `yt-c22-026` : หนาตา (crowded, bustling) : 1 meaning(s), 2 sentences
