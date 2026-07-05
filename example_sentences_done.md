@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5942 words**
+**Total: 5952 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4886,6 +4886,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-076` : เมา (drunk) : 1 meaning(s), 2 sentences
 - `wlt-c11-077` : เมีย (wife, long-term girlfriend (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-079` : เมื่อไหร่ (when (question word)) : 1 meaning(s), 2 sentences
+- `wlt-c11-080` : แม่ค้า (salesperson (female)) : 1 meaning(s), 2 sentences
+- `wlt-c11-081` : แมลงวัน (fly (insect)) : 1 meaning(s), 2 sentences
 - `wlt-c11-082` : โมง (o'clock, time) : 1 meaning(s), 2 sentences
 - `wlt-c11-083` : ไม้จิ้มฟัน (toothpick) : 1 meaning(s), 2 sentences
 - `wlt-c11-084` : ไม้บรรทัด (ruler) : 1 meaning(s), 2 sentences
@@ -4898,22 +4900,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-093` : รบกวน (to disturb, to bother) : 1 meaning(s), 2 sentences
 - `wlt-c11-094` : รอ (to wait) : 1 meaning(s), 2 sentences
 - `wlt-c11-095` : ร้องเพลง (to sing) : 1 meaning(s), 2 sentences
+- `wlt-c11-096` : เปอร์เซ็นต์, ร้อยละ (percent) : 1 meaning(s), 2 sentences
 - `wlt-c11-097` : ระดับ (level) : 1 meaning(s), 2 sentences
+- `wlt-c11-098` : รัง (nest, hive) : 1 meaning(s), 2 sentences
 - `wlt-c12-000` : รางวัล (prize, award, trophy) : 1 meaning(s), 2 sentences
 - `wlt-c12-001` : ร้านกาแฟ (coffee shop) : 1 meaning(s), 2 sentences
+- `wlt-c12-003` : รึ (or (colloquial form)) : 1 meaning(s), 2 sentences
 - `wlt-c12-004` : เรียกว่า (to be called) : 1 meaning(s), 2 sentences
 - `wlt-c12-005` : เรียนรู้ (to study, to learn) : 1 meaning(s), 2 sentences
 - `wlt-c12-006` : เรียบ (smooth, even, plain) : 1 meaning(s), 2 sentences
 - `wlt-c12-008` : โรงพัก (police station (informal)) : 1 meaning(s), 2 sentences
+- `wlt-c12-009` : ฤดูร้อน (hot season, summer) : 1 meaning(s), 2 sentences
+- `wlt-c12-010` : ลงทุน (to invest (finance)) : 1 meaning(s), 2 sentences
 - `wlt-c12-011` : ล่าง (lower, bottom) : 1 meaning(s), 2 sentences
 - `wlt-c12-012` : ล่าม (interpreter) : 1 meaning(s), 2 sentences
 - `wlt-c12-013` : ลำบาก (difficult, hard) : 1 meaning(s), 2 sentences
+- `wlt-c12-014` : ลิง (monkey) : 1 meaning(s), 2 sentences
 - `wlt-c12-015` : ลิตร (liter (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c12-016` : ลูกค้า (customer) : 1 meaning(s), 2 sentences
 - `wlt-c12-017` : ลูกชาย (son) : 1 meaning(s), 2 sentences
 - `wlt-c12-018` : เลขา, เลขานุการ (secretary) : 1 meaning(s), 2 sentences
 - `wlt-c12-019` : เลิก (to stop, end, quit, break up) : 1 meaning(s), 3 sentences
+- `wlt-c12-020` : เลือด (blood) : 1 meaning(s), 2 sentences
 - `wlt-c12-021` : วงกลม (circle) : 1 meaning(s), 2 sentences
+- `wlt-c12-022` : วงเวียน (roundabout, traffic circle) : 1 meaning(s), 2 sentences
 - `wlt-c12-023` : วัตถุ (object, material) : 1 meaning(s), 2 sentences
 - `wlt-c12-024` : วันเกิด (birthday) : 1 meaning(s), 2 sentences
 - `wlt-c12-025` : วิศวกร (engineer) : 1 meaning(s), 2 sentences

@@ -184660,6 +184660,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "salesperson (female)",
+        "sentences": [
+          {
+            "thai": "แม่ค้าขายผลไม้ในตลาด",
+            "en": "The vendor sells fruit in the market.",
+            "audio_src": "แม่ค้าขายผลไม้ในตลาด",
+            "audio_en_src": "The vendor sells fruit in the market."
+          },
+          {
+            "thai": "แม่ค้าใจดีแถมของให้",
+            "en": "The kind vendor threw in a freebie.",
+            "audio_src": "แม่ค้าใจดีแถมของให้",
+            "audio_en_src": "The kind vendor threw in a freebie."
+          }
+        ]
+      }
     ]
   },
   {
@@ -184670,6 +184689,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "fly (insect)",
+        "sentences": [
+          {
+            "thai": "แมลงวันตอมอาหาร",
+            "en": "Flies swarm the food.",
+            "audio_src": "แมลงวันตอมอาหาร",
+            "audio_en_src": "Flies swarm the food."
+          },
+          {
+            "thai": "ปิดฝาอาหารกันแมลงวัน",
+            "en": "Cover the food to keep the flies away.",
+            "audio_src": "ปิดฝาอาหารกันแมลงวัน",
+            "audio_en_src": "Cover the food to keep the flies away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185088,6 +185126,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "percent",
+        "sentences": [
+          {
+            "thai": "ร้านลดราคาห้าสิบเปอร์เซ็นต์",
+            "en": "The shop has a fifty percent discount.",
+            "audio_src": "ร้านลดราคาห้าสิบเปอร์เซ็นต์",
+            "audio_en_src": "The shop has a fifty percent discount."
+          },
+          {
+            "thai": "ประชากรร้อยละเจ็ดสิบอาศัยในเมือง",
+            "en": "Seventy percent of the population lives in the city.",
+            "audio_src": "ประชากรร้อยละเจ็ดสิบอาศัยในเมือง",
+            "audio_en_src": "Seventy percent of the population lives in the city."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185131,6 +185188,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "nest, hive",
+        "sentences": [
+          {
+            "thai": "นกทำรังบนต้นไม้",
+            "en": "Birds build nests in trees.",
+            "audio_src": "นกทำรังบนต้นไม้",
+            "audio_en_src": "Birds build nests in trees."
+          },
+          {
+            "thai": "รังผึ้งมีน้ำผึ้งเต็มไปหมด",
+            "en": "The beehive is full of honey.",
+            "audio_src": "รังผึ้งมีน้ำผึ้งเต็มไปหมด",
+            "audio_en_src": "The beehive is full of honey."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185219,6 +185295,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "or (colloquial form)",
+        "sentences": [
+          {
+            "thai": "จะไปรึไม่ไป",
+            "en": "Are you going or not?",
+            "audio_src": "จะไปรึไม่ไป",
+            "audio_en_src": "Are you going or not?"
+          },
+          {
+            "thai": "กินข้าวรึยัง",
+            "en": "Have you eaten yet?",
+            "audio_src": "กินข้าวรึยัง",
+            "audio_en_src": "Have you eaten yet?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -185358,6 +185453,25 @@
     "topic": "weather",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "hot season, summer",
+        "sentences": [
+          {
+            "thai": "ฤดูร้อนอากาศร้อนอบอ้าว",
+            "en": "In summer the weather is hot and muggy.",
+            "audio_src": "ฤดูร้อนอากาศร้อนอบอ้าว",
+            "audio_en_src": "In summer the weather is hot and muggy."
+          },
+          {
+            "thai": "เด็กๆชอบเล่นน้ำในฤดูร้อน",
+            "en": "Kids love playing in the water in summer.",
+            "audio_src": "เด็กๆชอบเล่นน้ำในฤดูร้อน",
+            "audio_en_src": "Kids love playing in the water in summer."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185369,6 +185483,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to invest (finance)",
+        "sentences": [
+          {
+            "thai": "เขาลงทุนในหุ้นและกองทุน",
+            "en": "He invests in stocks and funds.",
+            "audio_src": "เขาลงทุนในหุ้นและกองทุน",
+            "audio_en_src": "He invests in stocks and funds."
+          },
+          {
+            "thai": "การลงทุนมีความเสี่ยง",
+            "en": "Investing carries risk.",
+            "audio_src": "การลงทุนมีความเสี่ยง",
+            "audio_en_src": "Investing carries risk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185477,6 +185610,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "monkey",
+        "sentences": [
+          {
+            "thai": "ลิงแย่งกล้วยจากนักท่องเที่ยว",
+            "en": "Monkeys snatch bananas from tourists.",
+            "audio_src": "ลิงแย่งกล้วยจากนักท่องเที่ยว",
+            "audio_en_src": "Monkeys snatch bananas from tourists."
+          },
+          {
+            "thai": "ลิงห้อยโหนอยู่บนต้นไม้",
+            "en": "The monkey swings around in the tree.",
+            "audio_src": "ลิงห้อยโหนอยู่บนต้นไม้",
+            "audio_en_src": "The monkey swings around in the tree."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185660,6 +185812,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "blood",
+        "sentences": [
+          {
+            "thai": "เขามีดบาดนิ้วเลือดไหล",
+            "en": "He cut his finger and it started bleeding.",
+            "audio_src": "เขามีดบาดนิ้วเลือดไหล",
+            "audio_en_src": "He cut his finger and it started bleeding."
+          },
+          {
+            "thai": "บริจาคเลือดช่วยชีวิตคนได้",
+            "en": "Donating blood can save lives.",
+            "audio_src": "บริจาคเลือดช่วยชีวิตคนได้",
+            "audio_en_src": "Donating blood can save lives."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185702,6 +185873,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "roundabout, traffic circle",
+        "sentences": [
+          {
+            "thai": "เลี้ยวออกจากวงเวียนทางที่สอง",
+            "en": "Take the second exit off the roundabout.",
+            "audio_src": "เลี้ยวออกจากวงเวียนทางที่สอง",
+            "audio_en_src": "Take the second exit off the roundabout."
+          },
+          {
+            "thai": "รถติดหนักบริเวณวงเวียน",
+            "en": "Traffic is heavy around the roundabout.",
+            "audio_src": "รถติดหนักบริเวณวงเวียน",
+            "audio_en_src": "Traffic is heavy around the roundabout."
+          }
+        ]
+      }
     ]
   },
   {
