@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5472 words**
+**Total: 5482 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3877,6 +3877,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-064` : แรด (rhinoceros; (slang) slutty, sleazy (usually used about girls)) : 2 meaning(s), 4 sentences
 - `yt-c19-066` : ช้าง (elephant) : 1 meaning(s), 2 sentences
 - `yt-c19-067` : กุ้งแห้ง (skinny person (slang, literally "dried shrimp")) : 1 meaning(s), 2 sentences
+- `yt-c19-068` : นกเขา (dove; penis (slang)) : 2 meaning(s), 3 sentences
+- `yt-c19-069` : นกเขาขันตอนเช้า (morning wood (to have an erection in the morning)) : 1 meaning(s), 1 sentences
+- `yt-c19-071` : เสือผู้หญิง (womanizer (literally "tiger + girl")) : 1 meaning(s), 2 sentences
+- `yt-c19-076` : ผู้ถือหุ้น (shareholder, stockholder) : 1 meaning(s), 2 sentences
+- `yt-c19-077` : กู้เงิน (to borrow money) : 1 meaning(s), 2 sentences
+- `yt-c19-081` : รูปไม่ตรงปก (ugly, catfished (deceived by someone using heavily edited photos in online dating), not as advertised (object or person) (literally "the picture doesn't match the cover")) : 1 meaning(s), 2 sentences
+- `yt-c19-082` : กะโหลกหนา ((slang) stupid, slow to understand (literally "thick skull")) : 1 meaning(s), 2 sentences
+- `yt-c19-083` : ขี้เผือก (nosy person, someone who sticks their nose into other people's business) : 1 meaning(s), 2 sentences
+- `yt-c19-086` : ซิง (virgin, sexually inexperienced (slang)) : 1 meaning(s), 2 sentences
+- `yt-c19-088` : โรคติดต่อทางเพศสัมพันธ์ (STD (formal)) : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
 - `yt-c20-039` : หักดิบ (to suddenly and completely cut something out (e.g lose weight, quit smoking)) : 1 meaning(s), 2 sentences
