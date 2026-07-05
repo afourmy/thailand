@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6222 words**
+**Total: 6232 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6024,15 +6024,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-062` : รับทราบ (to acknowledge, to take note (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-064` : แม่นยำ (accurate, exact) : 1 meaning(s), 2 sentences
 - `t4k-c07-065` : สิ่งมีชีวิต (living being, organism) : 1 meaning(s), 2 sentences
+- `t4k-c07-067` : เต็มตัว (fully developed, no longer partial or part-time) : 1 meaning(s), 2 sentences
+- `t4k-c07-068` : ทัวร์ (tour) : 1 meaning(s), 2 sentences
+- `t4k-c07-069` : ดังเช่น (such as, like) : 1 meaning(s), 2 sentences
+- `t4k-c07-071` : แบบแผน (pattern, model, convention (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-072` : ผู้ฟัง (listener, audience) : 1 meaning(s), 2 sentences
+- `t4k-c07-073` : ผิวหนัง (skin) : 1 meaning(s), 2 sentences
 - `t4k-c07-075` : เทอม (academic term, semester) : 1 meaning(s), 2 sentences
 - `t4k-c07-076` : สถาปนิก (architect) : 1 meaning(s), 2 sentences
 - `t4k-c07-079` : ชิ้นส่วน (part, piece, component) : 1 meaning(s), 2 sentences
 - `t4k-c07-087` : ข้อจำกัด (limitation, restriction) : 1 meaning(s), 2 sentences
 - `t4k-c07-090` : เทียม (artificial, synthetic, imitation) : 1 meaning(s), 2 sentences
+- `t4k-c07-092` : เจ้าตัว (the person in question, the person themselves (subject of the discussion)) : 1 meaning(s), 2 sentences
 - `t4k-c07-096` : ปลอด (safe from, free from) : 1 meaning(s), 2 sentences
 - `t4k-c07-098` : เหลี่ยม (edge, side; trick, tactic) : 2 meaning(s), 4 sentences
+- `t4k-c08-003` : นวนิยาย (novel, fiction) : 1 meaning(s), 2 sentences
 - `t4k-c08-006` : ตัวแปร (variable) : 1 meaning(s), 2 sentences
+- `t4k-c08-008` : มั่ง (maybe, perhaps, some, a bit (slang)) : 1 meaning(s), 2 sentences
+- `t4k-c08-009` : กฎหมายแพ่ง (civil law) : 1 meaning(s), 2 sentences
+- `t4k-c08-011` : เบื่อหน่าย (bored, weary, fed up (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-013` : เลือน (to fade away, to become blurred, to gradually disappear) : 1 meaning(s), 2 sentences
 - `t4k-c08-016` : ขั้นพื้นฐาน (basic level, foundation, introductory) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences

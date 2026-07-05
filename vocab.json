@@ -223615,6 +223615,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fully developed, no longer partial or part-time",
+        "sentences": [
+          {
+            "thai": "ตอนนี้เขาเป็นนักเขียนเต็มตัวแล้ว",
+            "en": "He's a full-time writer now.",
+            "audio_src": "ตอนนี้เขาเป็นนักเขียนเต็มตัวแล้ว",
+            "audio_en_src": "He's a full-time writer now."
+          },
+          {
+            "thai": "เธอผันตัวมาเป็นนักธุรกิจเต็มตัว",
+            "en": "She's turned into a full-fledged businesswoman.",
+            "audio_src": "เธอผันตัวมาเป็นนักธุรกิจเต็มตัว",
+            "audio_en_src": "She's turned into a full-fledged businesswoman."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223625,6 +223644,25 @@
     "topic": "travel",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tour",
+        "sentences": [
+          {
+            "thai": "เราจองทัวร์เที่ยวเชียงใหม่ไว้แล้ว",
+            "en": "We've booked a tour of Chiang Mai.",
+            "audio_src": "เราจองทัวร์เที่ยวเชียงใหม่ไว้แล้ว",
+            "audio_en_src": "We've booked a tour of Chiang Mai."
+          },
+          {
+            "thai": "ทัวร์นี้รวมอาหารและที่พักด้วย",
+            "en": "This tour includes meals and accommodation.",
+            "audio_src": "ทัวร์นี้รวมอาหารและที่พักด้วย",
+            "audio_en_src": "This tour includes meals and accommodation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223635,6 +223673,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "such as, like",
+        "sentences": [
+          {
+            "thai": "ผลไม้เมืองร้อนดังเช่นมะม่วงและทุเรียนหาได้ง่าย",
+            "en": "Tropical fruits such as mango and durian are easy to find.",
+            "audio_src": "ผลไม้เมืองร้อนดังเช่นมะม่วงและทุเรียนหาได้ง่าย",
+            "audio_en_src": "Tropical fruits such as mango and durian are easy to find."
+          },
+          {
+            "thai": "เมืองใหญ่ดังเช่นกรุงเทพมีรถติดมาก",
+            "en": "Big cities like Bangkok have terrible traffic.",
+            "audio_src": "เมืองใหญ่ดังเช่นกรุงเทพมีรถติดมาก",
+            "audio_en_src": "Big cities like Bangkok have terrible traffic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223645,6 +223702,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "pattern, model, convention (formal)",
+        "sentences": [
+          {
+            "thai": "เขายึดถือแบบแผนของครอบครัวมาตลอด",
+            "en": "He has always stuck to his family's conventions.",
+            "audio_src": "เขายึดถือแบบแผนของครอบครัวมาตลอด",
+            "audio_en_src": "He has always stuck to his family's conventions."
+          },
+          {
+            "thai": "พิธีนี้จัดขึ้นตามแบบแผนโบราณ",
+            "en": "This ceremony is held according to ancient custom.",
+            "audio_src": "พิธีนี้จัดขึ้นตามแบบแผนโบราณ",
+            "audio_en_src": "This ceremony is held according to ancient custom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223686,6 +223762,25 @@
     "topic": "health",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "skin",
+        "sentences": [
+          {
+            "thai": "แดดแรงเกินไปทำให้ผิวหนังไหม้",
+            "en": "The sun is too strong and burns the skin.",
+            "audio_src": "แดดแรงเกินไปทำให้ผิวหนังไหม้",
+            "audio_en_src": "The sun is too strong and burns the skin."
+          },
+          {
+            "thai": "เธอมีผิวหนังที่บอบบางแพ้ง่าย",
+            "en": "She has delicate, sensitive skin.",
+            "audio_src": "เธอมีผิวหนังที่บอบบางแพ้ง่าย",
+            "audio_en_src": "She has delicate, sensitive skin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223921,6 +224016,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "the person in question, the person themselves (subject of the discussion)",
+        "sentences": [
+          {
+            "thai": "มีข่าวลือเยอะ แต่เจ้าตัวยังไม่ออกมาพูด",
+            "en": "There are a lot of rumors, but the person herself hasn't spoken out.",
+            "audio_src": "มีข่าวลือเยอะ แต่เจ้าตัวยังไม่ออกมาพูด",
+            "audio_en_src": "There are a lot of rumors, but the person herself hasn't spoken out."
+          },
+          {
+            "thai": "ทุกคนชมว่าเขาเก่ง แต่เจ้าตัวบอกว่ายังทำได้ไม่ดี",
+            "en": "Everyone says he's talented, but he himself says he can still do better.",
+            "audio_src": "ทุกคนชมว่าเขาเก่ง แต่เจ้าตัวบอกว่ายังทำได้ไม่ดี",
+            "audio_en_src": "Everyone says he's talented, but he himself says he can still do better."
+          }
+        ]
+      }
     ]
   },
   {
@@ -224050,6 +224164,25 @@
     "topic": "culture",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "novel, fiction",
+        "sentences": [
+          {
+            "thai": "เขาชอบอ่านนวนิยายสืบสวน",
+            "en": "He likes reading detective novels.",
+            "audio_src": "เขาชอบอ่านนวนิยายสืบสวน",
+            "audio_en_src": "He likes reading detective novels."
+          },
+          {
+            "thai": "นักเขียนคนนี้แต่งนวนิยายมาแล้วหลายเล่ม",
+            "en": "This author has written many novels.",
+            "audio_src": "นักเขียนคนนี้แต่งนวนิยายมาแล้วหลายเล่ม",
+            "audio_en_src": "This author has written many novels."
+          }
+        ]
+      }
     ]
   },
   {
@@ -224091,6 +224224,25 @@
     "topic": "slang",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "maybe, perhaps, some, a bit (slang)",
+        "sentences": [
+          {
+            "thai": "ขอกินมั่งสิ",
+            "en": "Let me have some too.",
+            "audio_src": "ขอกินมั่งสิ",
+            "audio_en_src": "Let me have some too."
+          },
+          {
+            "thai": "พรุ่งนี้ฝนอาจจะตกมั่ง",
+            "en": "Maybe it'll rain tomorrow.",
+            "audio_src": "พรุ่งนี้ฝนอาจจะตกมั่ง",
+            "audio_en_src": "Maybe it'll rain tomorrow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -224101,6 +224253,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "civil law",
+        "sentences": [
+          {
+            "thai": "คดีนี้เป็นเรื่องของกฎหมายแพ่ง",
+            "en": "This case is a civil law matter.",
+            "audio_src": "คดีนี้เป็นเรื่องของกฎหมายแพ่ง",
+            "audio_en_src": "This case is a civil law matter."
+          },
+          {
+            "thai": "กฎหมายแพ่งว่าด้วยเรื่องสัญญาและหนี้สิน",
+            "en": "Civil law deals with contracts and debts.",
+            "audio_src": "กฎหมายแพ่งว่าด้วยเรื่องสัญญาและหนี้สิน",
+            "audio_en_src": "Civil law deals with contracts and debts."
+          }
+        ]
+      }
     ]
   },
   {
@@ -224111,6 +224282,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bored, weary, fed up (formal)",
+        "sentences": [
+          {
+            "thai": "เขาเบื่อหน่ายกับงานที่ทำซ้ำๆทุกวัน",
+            "en": "He's weary of doing the same work every day.",
+            "audio_src": "เขาเบื่อหน่ายกับงานที่ทำซ้ำๆทุกวัน",
+            "audio_en_src": "He's weary of doing the same work every day."
+          },
+          {
+            "thai": "เธอเริ่มเบื่อหน่ายชีวิตในเมืองใหญ่",
+            "en": "She's growing tired of life in the big city.",
+            "audio_src": "เธอเริ่มเบื่อหน่ายชีวิตในเมืองใหญ่",
+            "audio_en_src": "She's growing tired of life in the big city."
+          }
+        ]
+      }
     ]
   },
   {
