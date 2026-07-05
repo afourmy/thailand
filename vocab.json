@@ -164988,6 +164988,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "later, afterward (formal)",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้ค่อยคุยกันภายหลัง",
+            "en": "Let's discuss this later.",
+            "audio_src": "เรื่องนี้ค่อยคุยกันภายหลัง",
+            "audio_en_src": "Let's discuss this later."
+          },
+          {
+            "thai": "ภายหลังเขาก็ยอมรับความผิด",
+            "en": "Afterward he admitted his mistake.",
+            "audio_src": "ภายหลังเขาก็ยอมรับความผิด",
+            "audio_en_src": "Afterward he admitted his mistake."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165029,6 +165048,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "tamarind (fruit)",
+        "sentences": [
+          {
+            "thai": "มะขามเปียกใช้ทำน้ำพริก",
+            "en": "Tamarind paste is used to make chili paste.",
+            "audio_src": "มะขามเปียกใช้ทำน้ำพริก",
+            "audio_en_src": "Tamarind paste is used to make chili paste."
+          },
+          {
+            "thai": "มะขามหวานรสอร่อย",
+            "en": "Sweet tamarind tastes delicious.",
+            "audio_src": "มะขามหวานรสอร่อย",
+            "audio_en_src": "Sweet tamarind tastes delicious."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165039,6 +165077,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "fried potatoes, potato chips",
+        "sentences": [
+          {
+            "thai": "เด็กๆชอบกินมันทอดกรอบๆ",
+            "en": "Kids love crispy fried potatoes.",
+            "audio_src": "เด็กๆชอบกินมันทอดกรอบๆ",
+            "audio_en_src": "Kids love crispy fried potatoes."
+          },
+          {
+            "thai": "สั่งมันทอดมากินเล่น",
+            "en": "Ordered some fries as a snack.",
+            "audio_src": "สั่งมันทอดมากินเล่น",
+            "audio_en_src": "Ordered some fries as a snack."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165049,6 +165106,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "mustard (loanword)",
+        "sentences": [
+          {
+            "thai": "ทามัสตาร์ดบนขนมปัง",
+            "en": "Spread mustard on the bread.",
+            "audio_src": "ทามัสตาร์ดบนขนมปัง",
+            "audio_en_src": "Spread mustard on the bread."
+          },
+          {
+            "thai": "ฮอทดอกใส่มัสตาร์ดกับซอส",
+            "en": "A hot dog with mustard and sauce.",
+            "audio_src": "ฮอทดอกใส่มัสตาร์ดกับซอส",
+            "audio_en_src": "A hot dog with mustard and sauce."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165124,6 +165200,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "manners, behaviour",
+        "sentences": [
+          {
+            "thai": "เด็กควรมีมารยาทกับผู้ใหญ่",
+            "en": "Children should have good manners with adults.",
+            "audio_src": "เด็กควรมีมารยาทกับผู้ใหญ่",
+            "audio_en_src": "Children should have good manners with adults."
+          },
+          {
+            "thai": "การพูดแทรกเป็นการเสียมารยาท",
+            "en": "Interrupting is bad manners.",
+            "audio_src": "การพูดแทรกเป็นการเสียมารยาท",
+            "audio_en_src": "Interrupting is bad manners."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165198,6 +165293,25 @@
     "topic": "economy",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "valuable, costly, expensive, worth something",
+        "sentences": [
+          {
+            "thai": "ภาพวาดชิ้นนี้มีราคาสูงมาก",
+            "en": "This painting is very valuable.",
+            "audio_src": "ภาพวาดชิ้นนี้มีราคาสูงมาก",
+            "audio_en_src": "This painting is very valuable."
+          },
+          {
+            "thai": "ของเก่าบางอย่างมีราคา",
+            "en": "Some antiques are worth a lot.",
+            "audio_src": "ของเก่าบางอย่างมีราคา",
+            "audio_en_src": "Some antiques are worth a lot."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165209,6 +165323,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "right hand",
+        "sentences": [
+          {
+            "thai": "เขาถนัดใช้มือขวา",
+            "en": "He's right-handed.",
+            "audio_src": "เขาถนัดใช้มือขวา",
+            "audio_en_src": "He's right-handed."
+          },
+          {
+            "thai": "เขียนหนังสือด้วยมือขวา",
+            "en": "Write with your right hand.",
+            "audio_src": "เขียนหนังสือด้วยมือขวา",
+            "audio_en_src": "Write with your right hand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165382,6 +165515,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "\"no wonder!\", \"that explains it!\"",
+        "sentences": [
+          {
+            "thai": "เขาไม่สบาย ไม่น่าล่ะถึงไม่มาเรียน",
+            "en": "He's sick, no wonder he didn't come to class.",
+            "audio_src": "เขาไม่สบาย ไม่น่าล่ะถึงไม่มาเรียน",
+            "audio_en_src": "He's sick, no wonder he didn't come to class."
+          },
+          {
+            "thai": "อ๋อรถเสีย ไม่น่าล่ะมาสาย",
+            "en": "Oh, his car broke down, no wonder he was late.",
+            "audio_src": "อ๋อรถเสีย ไม่น่าล่ะมาสาย",
+            "audio_en_src": "Oh, his car broke down, no wonder he was late."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165426,6 +165578,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "unable (lack of ability or skill)",
+        "sentences": [
+          {
+            "thai": "ฉันว่ายน้ำไม่เป็น",
+            "en": "I can't swim.",
+            "audio_src": "ฉันว่ายน้ำไม่เป็น",
+            "audio_en_src": "I can't swim."
+          },
+          {
+            "thai": "เขาทำกับข้าวไม่เป็นเลย",
+            "en": "He can't cook at all.",
+            "audio_src": "เขาทำกับข้าวไม่เป็นเลย",
+            "audio_en_src": "He can't cook at all."
+          }
+        ]
+      }
     ]
   },
   {
@@ -165436,6 +165607,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "not very much, not that much",
+        "sentences": [
+          {
+            "thai": "เงินเก็บฉันมีไม่มากนัก",
+            "en": "I don't have very much saved up.",
+            "audio_src": "เงินเก็บฉันมีไม่มากนัก",
+            "audio_en_src": "I don't have very much saved up."
+          },
+          {
+            "thai": "เขาสนใจเรื่องนี้ไม่นัก",
+            "en": "He's not that interested in this.",
+            "audio_src": "เขาสนใจเรื่องนี้ไม่นัก",
+            "audio_en_src": "He's not that interested in this."
+          }
+        ]
+      }
     ]
   },
   {

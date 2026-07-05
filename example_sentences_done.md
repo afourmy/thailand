@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5722 words**
+**Total: 5732 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4273,17 +4273,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-065` : เพื่อที่จะ (in order to, so as to) : 1 meaning(s), 2 sentences
 - `wlt-c03-066` : เพื่อว่า (so that, in order that) : 1 meaning(s), 2 sentences
 - `wlt-c03-070` : ภายในประเทศ (domestic) : 1 meaning(s), 2 sentences
+- `wlt-c03-071` : ภายหลัง (later, afterward (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c03-074` : มองหา (to look for, to search visually for something) : 1 meaning(s), 2 sentences
+- `wlt-c03-075` : มะขาม (tamarind (fruit)) : 1 meaning(s), 2 sentences
+- `wlt-c03-076` : มันทอด (fried potatoes, potato chips) : 1 meaning(s), 2 sentences
+- `wlt-c03-077` : มัสตาร์ด (mustard (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c03-078` : มากกว่า (more (than something else)) : 1 meaning(s), 2 sentences
 - `wlt-c03-080` : มาเยี่ยม (to come visit a person) : 1 meaning(s), 2 sentences
+- `wlt-c03-081` : มารยาท (manners, behaviour) : 1 meaning(s), 2 sentences
 - `wlt-c03-082` : มาหา (to come to see someone) : 1 meaning(s), 2 sentences
 - `wlt-c03-085` : มีนัด (to have an appointment) : 1 meaning(s), 2 sentences
+- `wlt-c03-086` : มีราคา (valuable, costly, expensive, worth something) : 1 meaning(s), 2 sentences
+- `wlt-c03-087` : มือขวา (right hand) : 1 meaning(s), 2 sentences
 - `wlt-c03-088` : มือสอง (secondhand) : 1 meaning(s), 2 sentences
 - `wlt-c03-091` : เมื่อคืน, เมื่อคืนนี้ (last night) : 1 meaning(s), 2 sentences
 - `wlt-c03-092` : เมื่อเช้านี้ (this morning) : 1 meaning(s), 2 sentences
 - `wlt-c03-094` : เมื่อวานซืนนี้ (the day before yesterday) : 1 meaning(s), 2 sentences
 - `wlt-c03-098` : ไม่ถูก (wrong, incorrect) : 1 meaning(s), 2 sentences
+- `wlt-c03-099` : ไม่น่าล่ะ ("no wonder!", "that explains it!") : 1 meaning(s), 2 sentences
 - `wlt-c04-000` : ไม่บ่อย (seldom, not often) : 1 meaning(s), 2 sentences
+- `wlt-c04-001` : ไม่เป็น (unable (lack of ability or skill)) : 1 meaning(s), 2 sentences
+- `wlt-c04-002` : ไม่มากนัก, ไม่นัก (not very much, not that much) : 1 meaning(s), 2 sentences
 - `wlt-c04-005` : ไม่มีอะไร (nothing) : 1 meaning(s), 2 sentences
 - `wlt-c04-008` : ย้อน (to go back, to come back) : 1 meaning(s), 2 sentences
 - `wlt-c04-009` : ยอมให้ (to permit, to allow) : 1 meaning(s), 2 sentences
