@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5372 words**
+**Total: 5382 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3703,14 +3703,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-097` : เสื่อมเสีย (to damage, to tarnish (usually reputation, social standing)) : 1 meaning(s), 2 sentences
 - `yt-c15-098` : นางร้าย (female antagonist, bad female character in a lakon (hits the nang eek, etc)) : 1 meaning(s), 2 sentences
 - `yt-c16-002` : สายทำอาหาร (someone who's into cooking, a cooking hobbyist) : 1 meaning(s), 2 sentences
+- `yt-c16-003` : ฝุ่นควัน (air pollution, smog) : 1 meaning(s), 2 sentences
+- `yt-c16-005` : ฟาง (straw (dried stalks left after harvesting)) : 1 meaning(s), 2 sentences
+- `yt-c16-009` : ใจอ่อน - ใจแข็ง (soft-hearted, gives in easily, forgives easily - (opposite) firm-hearted, doesn't give in or forgive easily) : 1 meaning(s), 2 sentences
 - `yt-c16-010` : ผลุด, โผล่ (to pop up suddenly, to spring out (e.g a thought)) : 1 meaning(s), 2 sentences
+- `yt-c16-033` : ก้ามปู (crab claw, pincer) : 1 meaning(s), 2 sentences
 - `yt-c16-034` : ชู (to raise, to lift up (something for others to see, e.g your hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c16-035` : ไข (to solve, to figure out (e.g a problem, a puzzle); to turn, to operate) : 2 meaning(s), 4 sentences
+- `yt-c16-038` : ดอย (mountain, hill (northern dialect)) : 1 meaning(s), 2 sentences
+- `yt-c16-039` : คนโลกส่วนตัวสูง (introverted, keeps to oneself) : 1 meaning(s), 2 sentences
 - `yt-c16-040` : ยางลบ (eraser) : 1 meaning(s), 2 sentences
+- `yt-c16-041` : เดินละเมอ, นอนละเมอ (to sleepwalk) : 1 meaning(s), 2 sentences
+- `yt-c16-046` : เย่อหยิ่ง (arrogant, haughty, full of oneself) : 1 meaning(s), 2 sentences
 - `yt-c16-048` : กระทบกระเทือน (to affect, to shake, to impact (physically or emotionally)) : 1 meaning(s), 2 sentences
 - `yt-c16-050` : ตกตะกอน (to precipitate (when solid particles in a liquid settle at the bottom); (figuratively) to settle down, to become clear over time (e.g emotions)) : 2 meaning(s), 4 sentences
 - `yt-c16-054` : เร่ร่อน (to wander from place to place without a fixed residence) : 1 meaning(s), 2 sentences
 - `yt-c16-054b` : คนเร่ร่อน (vagrant, homeless person) : 1 meaning(s), 2 sentences
+- `yt-c16-059` : ทุจริต (corruption, fraud, misconduct) : 1 meaning(s), 2 sentences
+- `yt-c16-062` : บุญคุณ (indebted kindness (kindness someone has done for you that creates a moral obligation)) : 1 meaning(s), 2 sentences
 - `yt-c16-068` : ประคอง (to support (physically), to keep from falling, to steady something (e.g help someone walk, or keep something steady)) : 1 meaning(s), 2 sentences
 - `yt-c16-084` : บอกเป็นนัย (to imply, to hint at something) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences

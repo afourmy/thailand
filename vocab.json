@@ -144608,6 +144608,25 @@
     "topic": "weather",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "air pollution, smog",
+        "sentences": [
+          {
+            "thai": "หน้านี้ฝุ่นควันเยอะต้องใส่หน้ากาก",
+            "en": "The smog is bad this season, you have to wear a mask.",
+            "audio_src": "หน้านี้ฝุ่นควันเยอะต้องใส่หน้ากาก",
+            "audio_en_src": "The smog is bad this season, you have to wear a mask."
+          },
+          {
+            "thai": "ฝุ่นควันในเมืองทำให้หายใจลำบาก",
+            "en": "The smog in the city makes it hard to breathe.",
+            "audio_src": "ฝุ่นควันในเมืองทำให้หายใจลำบาก",
+            "audio_en_src": "The smog in the city makes it hard to breathe."
+          }
+        ]
+      }
     ]
   },
   {
@@ -144629,6 +144648,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "straw (dried stalks left after harvesting)",
+        "sentences": [
+          {
+            "thai": "ชาวนาเผาฟางหลังเก็บเกี่ยว",
+            "en": "Farmers burn the straw after the harvest.",
+            "audio_src": "ชาวนาเผาฟางหลังเก็บเกี่ยว",
+            "audio_en_src": "Farmers burn the straw after the harvest."
+          },
+          {
+            "thai": "วัวนอนอยู่บนกองฟาง",
+            "en": "The cow is lying on a pile of straw.",
+            "audio_src": "วัวนอนอยู่บนกองฟาง",
+            "audio_en_src": "The cow is lying on a pile of straw."
+          }
+        ]
+      }
     ]
   },
   {
@@ -144669,6 +144707,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "soft-hearted, gives in easily, forgives easily - (opposite) firm-hearted, doesn't give in or forgive easily",
+        "sentences": [
+          {
+            "thai": "เขาใจอ่อนเห็นใครร้องไห้ก็ยอม",
+            "en": "He's soft-hearted, he gives in the moment anyone cries.",
+            "audio_src": "เขาใจอ่อนเห็นใครร้องไห้ก็ยอม",
+            "audio_en_src": "He's soft-hearted, he gives in the moment anyone cries."
+          },
+          {
+            "thai": "ต้องใจแข็งไม่งั้นโดนหลอก",
+            "en": "You have to stay firm, or you'll get played.",
+            "audio_src": "ต้องใจแข็งไม่งั้นโดนหลอก",
+            "audio_en_src": "You have to stay firm, or you'll get played."
+          }
+        ]
+      }
     ]
   },
   {
@@ -144790,6 +144847,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "crab claw, pincer",
+        "sentences": [
+          {
+            "thai": "ก้ามปูตัวนี้เนื้อเยอะมาก",
+            "en": "This crab claw has a lot of meat.",
+            "audio_src": "ก้ามปูตัวนี้เนื้อเยอะมาก",
+            "audio_en_src": "This crab claw has a lot of meat."
+          },
+          {
+            "thai": "เมนูโปรดของฉันคือก้ามปูนึ่ง",
+            "en": "My favorite dish is steamed crab claws.",
+            "audio_src": "เมนูโปรดของฉันคือก้ามปูนึ่ง",
+            "audio_en_src": "My favorite dish is steamed crab claws."
+          }
+        ]
+      }
     ]
   },
   {
@@ -144904,6 +144980,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mountain, hill (northern dialect)",
+        "sentences": [
+          {
+            "thai": "หน้าหนาวคนชอบไปเที่ยวดอย",
+            "en": "In winter people like to head up to the mountains.",
+            "audio_src": "หน้าหนาวคนชอบไปเที่ยวดอย",
+            "audio_en_src": "In winter people like to head up to the mountains."
+          },
+          {
+            "thai": "บนดอยอากาศเย็นสบาย",
+            "en": "Up on the mountain the air is cool and pleasant.",
+            "audio_src": "บนดอยอากาศเย็นสบาย",
+            "audio_en_src": "Up on the mountain the air is cool and pleasant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -144914,6 +145009,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "introverted, keeps to oneself",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนโลกส่วนตัวสูงไม่ค่อยออกไปไหน",
+            "en": "He's very introverted and rarely goes out.",
+            "audio_src": "เขาเป็นคนโลกส่วนตัวสูงไม่ค่อยออกไปไหน",
+            "audio_en_src": "He's very introverted and rarely goes out."
+          },
+          {
+            "thai": "ฉันเป็นคนโลกส่วนตัวสูงชอบอยู่คนเดียว",
+            "en": "I'm an introvert, I like being on my own.",
+            "audio_src": "ฉันเป็นคนโลกส่วนตัวสูงชอบอยู่คนเดียว",
+            "audio_en_src": "I'm an introvert, I like being on my own."
+          }
+        ]
+      }
     ]
   },
   {
@@ -144956,6 +145070,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to sleepwalk",
+        "sentences": [
+          {
+            "thai": "ลูกชอบเดินละเมอตอนดึก",
+            "en": "My kid tends to sleepwalk late at night.",
+            "audio_src": "ลูกชอบเดินละเมอตอนดึก",
+            "audio_en_src": "My kid tends to sleepwalk late at night."
+          },
+          {
+            "thai": "เขานอนละเมอลุกขึ้นมาเดิน",
+            "en": "He sleepwalks, getting up and walking around.",
+            "audio_src": "เขานอนละเมอลุกขึ้นมาเดิน",
+            "audio_en_src": "He sleepwalks, getting up and walking around."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145008,6 +145141,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "arrogant, haughty, full of oneself",
+        "sentences": [
+          {
+            "thai": "เขาเย่อหยิ่งไม่มองใคร",
+            "en": "He's arrogant and looks down on everyone.",
+            "audio_src": "เขาเย่อหยิ่งไม่มองใคร",
+            "audio_en_src": "He's arrogant and looks down on everyone."
+          },
+          {
+            "thai": "ท่าทางเย่อหยิ่งไม่น่าคบ",
+            "en": "Her haughty manner makes her hard to get along with.",
+            "audio_src": "ท่าทางเย่อหยิ่งไม่น่าคบ",
+            "audio_en_src": "Her haughty manner makes her hard to get along with."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145250,6 +145402,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "corruption, fraud, misconduct",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่ทุจริตถูกไล่ออก",
+            "en": "The corrupt official was dismissed.",
+            "audio_src": "เจ้าหน้าที่ทุจริตถูกไล่ออก",
+            "audio_en_src": "The corrupt official was dismissed."
+          },
+          {
+            "thai": "เขาถูกจับข้อหาทุจริต",
+            "en": "He was arrested on corruption charges.",
+            "audio_src": "เขาถูกจับข้อหาทุจริต",
+            "audio_en_src": "He was arrested on corruption charges."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145281,6 +145452,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "indebted kindness (kindness someone has done for you that creates a moral obligation)",
+        "sentences": [
+          {
+            "thai": "ฉันไม่มีวันลืมบุญคุณของพ่อแม่",
+            "en": "I'll never forget all that my parents have done for me.",
+            "audio_src": "ฉันไม่มีวันลืมบุญคุณของพ่อแม่",
+            "audio_en_src": "I'll never forget all that my parents have done for me."
+          },
+          {
+            "thai": "เขามีบุญคุณกับฉันมาก",
+            "en": "I owe him a great deal.",
+            "audio_src": "เขามีบุญคุณกับฉันมาก",
+            "audio_en_src": "I owe him a great deal."
+          }
+        ]
+      }
     ]
   },
   {
