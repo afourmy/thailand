@@ -1093,11 +1093,18 @@ html[lang="fr"] .en { display: none; }
    double the row's. */
 .vocab-panel-row .vocab-filter-group { padding: 0; }
 
-/* Keeps a label and its toggle on the same line when the row wraps. */
+/* Keeps a label and its toggle on the same line when the row wraps, and sets
+   the Audio pair clearly apart from the face toggle before it. */
 .vocab-toggle-set {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem 0.7rem;
+  margin-left: 1.8rem;
+}
+@media (max-width: 600px) {
+  /* Wrapped into the vertical stack, the extra offset would read as a stray
+     indent. */
+  .vocab-toggle-set { margin-left: 0; }
 }
 
 .vocab-control-label {
@@ -2723,11 +2730,20 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
   .fc-card-face.fc-thai { font-size: 2.2rem; }
   .fc-card-face.fc-en { font-size: 1.3rem; }
   .fc-grade { font-size: 0.92rem; padding: 0.6rem 0.15rem; }
-  .fc-stat-num { font-size: 1.7rem; }
-  .fc-stats { gap: 0.4rem; }
-  .fc-stat { padding: 0.7rem 0.25rem; }
+  .fc-stat-num { font-size: 1.5rem; }
+  .fc-stats { gap: 0.4rem; margin-bottom: 0.8rem; }
+  .fc-stat { padding: 0.5rem 0.25rem; }
   .fc-stat-label { font-size: 0.66rem; letter-spacing: 0.02em; }
-  .fc-start { margin-bottom: 1.6rem; }
+  /* The home screen must fit a small Android viewport (~360x640 after browser
+     chrome) without scrolling, so every vertical cost shrinks a notch. */
+  .fc-banner { margin: 0.2rem auto 0.8rem; padding: 0.55rem 1rem; }
+  .fc-banner h1 { font-size: 1.45rem; }
+  .fc-setting { padding: 0.4rem 0; }
+  .fc-stepper button { width: 1.7rem; height: 1.7rem; }
+  /* Narrower slider keeps the Desired Retention row on one line at 360px. */
+  .fc-retention input[type="range"] { width: 92px; }
+  .fc-retention-val { font-size: 1rem; }
+  .fc-start { margin: 0.9rem 0 1.2rem; padding: 0.7rem 1.2rem; font-size: 1.1rem; }
   /* Fill the vertical space so the card no longer floats in empty room, and
      keep extra top/bottom padding so the speaker/copy icons sit clear of the
      text rather than touching it. */
