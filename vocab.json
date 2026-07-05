@@ -198242,6 +198242,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "foreign countries, abroad",
+        "sentences": [
+          {
+            "thai": "เขาไปทำงานที่ต่างประเทศ",
+            "en": "He went to work abroad.",
+            "audio_src": "เขาไปทำงานที่ต่างประเทศ",
+            "audio_en_src": "He went to work abroad."
+          },
+          {
+            "thai": "สินค้าต่างประเทศราคาแพงกว่า",
+            "en": "Foreign goods are more expensive.",
+            "audio_src": "สินค้าต่างประเทศราคาแพงกว่า",
+            "audio_en_src": "Foreign goods are more expensive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -199253,6 +199272,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "adult",
+        "sentences": [
+          {
+            "thai": "เด็กต้องเชื่อฟังผู้ใหญ่",
+            "en": "Children should obey adults.",
+            "audio_src": "เด็กต้องเชื่อฟังผู้ใหญ่",
+            "audio_en_src": "Children should obey adults."
+          },
+          {
+            "thai": "พอเป็นผู้ใหญ่ก็มีความรับผิดชอบมากขึ้น",
+            "en": "When you become an adult, you have more responsibilities.",
+            "audio_src": "พอเป็นผู้ใหญ่ก็มีความรับผิดชอบมากขึ้น",
+            "audio_en_src": "When you become an adult, you have more responsibilities."
+          }
+        ]
+      }
     ]
   },
   {
@@ -199873,6 +199911,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "factory",
+        "sentences": [
+          {
+            "thai": "โรงงานผลิตเสื้อผ้าส่งออก",
+            "en": "The factory produces clothes for export.",
+            "audio_src": "โรงงานผลิตเสื้อผ้าส่งออก",
+            "audio_en_src": "The factory produces clothes for export."
+          },
+          {
+            "thai": "คนงานในโรงงานทำงานเป็นกะ",
+            "en": "Factory workers work in shifts.",
+            "audio_src": "คนงานในโรงงานทำงานเป็นกะ",
+            "audio_en_src": "Factory workers work in shifts."
+          }
+        ]
+      }
     ]
   },
   {
@@ -200241,6 +200298,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "station",
+        "sentences": [
+          {
+            "thai": "รถไฟจอดที่สถานีถัดไป",
+            "en": "The train stops at the next station.",
+            "audio_src": "รถไฟจอดที่สถานีถัดไป",
+            "audio_en_src": "The train stops at the next station."
+          },
+          {
+            "thai": "สถานีขนส่งมีรถออกทุกชั่วโมง",
+            "en": "The bus terminal has departures every hour.",
+            "audio_src": "สถานีขนส่งมีรถออกทุกชั่วโมง",
+            "audio_en_src": "The bus terminal has departures every hour."
+          }
+        ]
+      }
     ]
   },
   {
@@ -200251,6 +200327,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "railway station, train station",
+        "sentences": [
+          {
+            "thai": "เจอกันที่สถานีรถไฟตอนเก้าโมง",
+            "en": "Meet me at the train station at nine.",
+            "audio_src": "เจอกันที่สถานีรถไฟตอนเก้าโมง",
+            "audio_en_src": "Meet me at the train station at nine."
+          },
+          {
+            "thai": "สถานีรถไฟหัวลำโพงเก่าแก่มาก",
+            "en": "Hua Lamphong train station is very old.",
+            "audio_src": "สถานีรถไฟหัวลำโพงเก่าแก่มาก",
+            "audio_en_src": "Hua Lamphong train station is very old."
+          }
+        ]
+      }
     ]
   },
   {
@@ -200986,6 +201081,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "food eaten while drinking (alcohol)",
+        "sentences": [
+          {
+            "thai": "สั่งกับแกล้มมากินกับเบียร์",
+            "en": "Order some snacks to go with the beer.",
+            "audio_src": "สั่งกับแกล้มมากินกับเบียร์",
+            "audio_en_src": "Order some snacks to go with the beer."
+          },
+          {
+            "thai": "ถั่วทอดเป็นกับแกล้มยอดนิยม",
+            "en": "Fried peanuts are a popular drinking snack.",
+            "audio_src": "ถั่วทอดเป็นกับแกล้มยอดนิยม",
+            "audio_en_src": "Fried peanuts are a popular drinking snack."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201128,6 +201242,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to drink (liquor)",
+        "sentences": [
+          {
+            "thai": "เขาชอบกินเหล้ากับเพื่อนวันศุกร์",
+            "en": "He likes drinking with friends on Fridays.",
+            "audio_src": "เขาชอบกินเหล้ากับเพื่อนวันศุกร์",
+            "audio_en_src": "He likes drinking with friends on Fridays."
+          },
+          {
+            "thai": "กินเหล้ามากเกินไปไม่ดีต่อสุขภาพ",
+            "en": "Drinking too much liquor is bad for your health.",
+            "audio_src": "กินเหล้ามากเกินไปไม่ดีต่อสุขภาพ",
+            "audio_en_src": "Drinking too much liquor is bad for your health."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201237,6 +201370,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "about to, nearly, almost",
+        "sentences": [
+          {
+            "thai": "หนังใกล้จะเริ่มแล้วรีบหน่อย",
+            "en": "The movie is about to start, hurry up.",
+            "audio_src": "หนังใกล้จะเริ่มแล้วรีบหน่อย",
+            "audio_en_src": "The movie is about to start, hurry up."
+          },
+          {
+            "thai": "ฝนใกล้จะตกท้องฟ้ามืดครึ้ม",
+            "en": "It's about to rain, the sky is dark and gloomy.",
+            "audio_src": "ฝนใกล้จะตกท้องฟ้ามืดครึ้ม",
+            "audio_en_src": "It's about to rain, the sky is dark and gloomy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201247,6 +201399,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "about to expire, nearly expired",
+        "sentences": [
+          {
+            "thai": "นมกล่องนี้ใกล้จะหมดอายุแล้ว",
+            "en": "This carton of milk is about to expire.",
+            "audio_src": "นมกล่องนี้ใกล้จะหมดอายุแล้ว",
+            "audio_en_src": "This carton of milk is about to expire."
+          },
+          {
+            "thai": "รีบใช้คูปองก่อนใกล้จะหมดอายุ",
+            "en": "Use the coupon before it expires.",
+            "audio_src": "รีบใช้คูปองก่อนใกล้จะหมดอายุ",
+            "audio_en_src": "Use the coupon before it expires."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201257,6 +201428,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to ask to give way, to request to pass through",
+        "sentences": [
+          {
+            "thai": "รถพยาบาลเปิดไฟขอทาง",
+            "en": "The ambulance flashes its lights to ask for way.",
+            "audio_src": "รถพยาบาลเปิดไฟขอทาง",
+            "audio_en_src": "The ambulance flashes its lights to ask for way."
+          },
+          {
+            "thai": "เขาบีบแตรขอทางเพื่อแซง",
+            "en": "He honked to ask for way to overtake.",
+            "audio_src": "เขาบีบแตรขอทางเพื่อแซง",
+            "audio_en_src": "He honked to ask for way to overtake."
+          }
+        ]
+      }
     ]
   },
   {

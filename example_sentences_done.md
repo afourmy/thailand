@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6012 words**
+**Total: 6022 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5291,6 +5291,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-091` : ดึก (late at night) : 1 meaning(s), 2 sentences
 - `wlt-c16-092` : ตก (to fall) : 1 meaning(s), 2 sentences
 - `wlt-c16-093` : ต้องการ (to want, to need) : 1 meaning(s), 2 sentences
+- `wlt-c16-094` : ต่างประเทศ (foreign countries, abroad) : 1 meaning(s), 2 sentences
 - `wlt-c16-095` : ตำรวจ (police) : 1 meaning(s), 2 sentences
 - `wlt-c16-096` : ตึก (building (e.g large, concrete)) : 1 meaning(s), 2 sentences
 - `wlt-c16-097` : โต๊ะ (table, desk) : 1 meaning(s), 2 sentences
@@ -5320,6 +5321,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-024` : แปล (to translate) : 1 meaning(s), 2 sentences
 - `wlt-c17-025` : ผ้า (cloth) : 1 meaning(s), 2 sentences
 - `wlt-c17-026` : ผู้หญิง (girl, woman) : 1 meaning(s), 2 sentences
+- `wlt-c17-027` : ผู้ใหญ่ (adult) : 1 meaning(s), 2 sentences
 - `wlt-c17-028` : พฤษภาคม (May) : 1 meaning(s), 2 sentences
 - `wlt-c17-029` : พี่ ((someone older) I, he, she, you, brother, sister) : 1 meaning(s), 2 sentences
 - `wlt-c17-031` : ภายใน (within) : 1 meaning(s), 2 sentences
@@ -5338,6 +5340,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-047` : ร้านอาหาร (restaurant) : 1 meaning(s), 2 sentences
 - `wlt-c17-048` : เรียก (to call) : 1 meaning(s), 2 sentences
 - `wlt-c17-049` : แรก, ที่หนึ่ง (first) : 1 meaning(s), 2 sentences
+- `wlt-c17-050` : โรงงาน (factory) : 1 meaning(s), 2 sentences
 - `wlt-c17-051` : ลง (to go down, to get off) : 1 meaning(s), 2 sentences
 - `wlt-c17-052` : ลม (wind, air, breeze) : 1 meaning(s), 2 sentences
 - `wlt-c17-053` : เลี้ยว (to turn) : 1 meaning(s), 2 sentences
@@ -5348,6 +5351,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-059` : วาง (to put (down), to place, to lay) : 1 meaning(s), 2 sentences
 - `wlt-c17-060` : วิ่ง (to run) : 1 meaning(s), 2 sentences
 - `wlt-c17-061` : สด (fresh (of fruit, etc.)) : 1 meaning(s), 2 sentences
+- `wlt-c17-062` : สถานี (station) : 1 meaning(s), 2 sentences
+- `wlt-c17-063` : สถานีรถไฟ (railway station, train station) : 1 meaning(s), 2 sentences
 - `wlt-c17-064` : สาว (girl, young woman) : 1 meaning(s), 2 sentences
 - `wlt-c17-065` : สิบ (ten (10)) : 1 meaning(s), 2 sentences
 - `wlt-c17-066` : สีเขียว (green) : 1 meaning(s), 2 sentences
@@ -5369,13 +5374,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c17-083` : อิ่ม (full (from eating)) : 1 meaning(s), 2 sentences
 - `wlt-c17-084` : เอง (oneself) : 1 meaning(s), 2 sentences
 - `wlt-c17-085` : กลับบ้าน (to go home) : 1 meaning(s), 2 sentences
+- `wlt-c17-088` : กับแกล้ม (food eaten while drinking (alcohol)) : 1 meaning(s), 2 sentences
 - `wlt-c17-089` : กาแฟเย็น (iced coffee) : 1 meaning(s), 2 sentences
 - `wlt-c17-090` : กาแฟร้อน (hot coffee) : 1 meaning(s), 2 sentences
 - `wlt-c17-091` : กินยา (to take medicine) : 1 meaning(s), 2 sentences
 - `wlt-c17-092` : กินเล่น (to snack) : 1 meaning(s), 2 sentences
+- `wlt-c17-094` : กินเหล้า (to drink (liquor)) : 1 meaning(s), 2 sentences
 - `wlt-c17-095` : กี่ปี (how many years?) : 1 meaning(s), 2 sentences
 - `wlt-c17-096` : กี่วัน (how many days?) : 1 meaning(s), 2 sentences
 - `wlt-c17-097` : ใกล้ๆ (nearby, close) : 1 meaning(s), 2 sentences
+- `wlt-c18-000` : ใกล้จะ (about to, nearly, almost) : 1 meaning(s), 2 sentences
+- `wlt-c18-001` : ใกล้จะหมดอายุ (about to expire, nearly expired) : 1 meaning(s), 2 sentences
+- `wlt-c18-002` : ขอทาง (to ask to give way, to request to pass through) : 1 meaning(s), 2 sentences
 - `wlt-c18-009` : ชาวต่างชาติ, คนต่างประเทศ (foreigner) : 1 meaning(s), 2 sentences
 - `wlt-c18-013` : คนยุโรป (European) : 1 meaning(s), 2 sentences
 - `wlt-c18-016` : ครั้งนี้ (this time) : 1 meaning(s), 2 sentences
