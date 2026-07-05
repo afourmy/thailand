@@ -213568,6 +213568,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "farming, agriculture",
+        "sentences": [
+          {
+            "thai": "เขาทำเกษตรปลูกข้าวและผัก",
+            "en": "He farms, growing rice and vegetables.",
+            "audio_src": "เขาทำเกษตรปลูกข้าวและผัก",
+            "audio_en_src": "He farms, growing rice and vegetables."
+          },
+          {
+            "thai": "รัฐบาลส่งเสริมการเกษตรอินทรีย์",
+            "en": "The government promotes organic agriculture.",
+            "audio_src": "รัฐบาลส่งเสริมการเกษตรอินทรีย์",
+            "audio_en_src": "The government promotes organic agriculture."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213677,6 +213696,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "the same, similar to, likewise",
+        "sentences": [
+          {
+            "thai": "เธอชอบอ่านหนังสือเช่นเดียวกับฉัน",
+            "en": "She likes reading, the same as me.",
+            "audio_src": "เธอชอบอ่านหนังสือเช่นเดียวกับฉัน",
+            "audio_en_src": "She likes reading, the same as me."
+          },
+          {
+            "thai": "พี่เก่งเลข น้องก็เช่นเดียว",
+            "en": "The older sibling is good at math, and the younger one likewise.",
+            "audio_src": "พี่เก่งเลข น้องก็เช่นเดียว",
+            "audio_en_src": "The older sibling is good at math, and the younger one likewise."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213687,6 +213725,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "interest, attention",
+        "sentences": [
+          {
+            "thai": "เขาให้ความสนใจกับงานศิลปะ",
+            "en": "He takes an interest in art.",
+            "audio_src": "เขาให้ความสนใจกับงานศิลปะ",
+            "audio_en_src": "He takes an interest in art."
+          },
+          {
+            "thai": "โฆษณานี้ดึงดูดความสนใจได้ดี",
+            "en": "This ad grabs attention well.",
+            "audio_src": "โฆษณานี้ดึงดูดความสนใจได้ดี",
+            "audio_en_src": "This ad grabs attention well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213728,6 +213785,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "we humans, people in general",
+        "sentences": [
+          {
+            "thai": "คนเราต้องมีความฝัน",
+            "en": "We all need to have dreams.",
+            "audio_src": "คนเราต้องมีความฝัน",
+            "audio_en_src": "We all need to have dreams."
+          },
+          {
+            "thai": "คนเราเปลี่ยนแปลงได้ตลอดเวลา",
+            "en": "People can change at any time.",
+            "audio_src": "คนเราเปลี่ยนแปลงได้ตลอดเวลา",
+            "audio_en_src": "People can change at any time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213738,6 +213814,59 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to get lost",
+        "sentences": [
+          {
+            "thai": "เขาหลงทางในป่า",
+            "en": "He got lost in the forest.",
+            "audio_src": "เขาหลงทางในป่า",
+            "audio_en_src": "He got lost in the forest."
+          },
+          {
+            "thai": "นักท่องเที่ยวหลงทางในเมืองเก่า",
+            "en": "The tourist got lost in the old town.",
+            "audio_src": "นักท่องเที่ยวหลงทางในเมืองเก่า",
+            "audio_en_src": "The tourist got lost in the old town."
+          }
+        ]
+      },
+      {
+        "meaning": "to be infatuated, crazy about, to fall for",
+        "sentences": [
+          {
+            "thai": "เธอหลงเขาตั้งแต่แรกเจอ",
+            "en": "She fell for him at first sight.",
+            "audio_src": "เธอหลงเขาตั้งแต่แรกเจอ",
+            "audio_en_src": "She fell for him at first sight."
+          },
+          {
+            "thai": "เขาหลงเสน่ห์ผู้หญิงคนนั้น",
+            "en": "He's infatuated with that woman's charm.",
+            "audio_src": "เขาหลงเสน่ห์ผู้หญิงคนนั้น",
+            "audio_en_src": "He's infatuated with that woman's charm."
+          }
+        ]
+      },
+      {
+        "meaning": "to be mistaken",
+        "sentences": [
+          {
+            "thai": "อย่าหลงเชื่อคำโกหก",
+            "en": "Don't be fooled by lies.",
+            "audio_src": "อย่าหลงเชื่อคำโกหก",
+            "audio_en_src": "Don't be fooled by lies."
+          },
+          {
+            "thai": "เขาหลงคิดว่าตัวเองถูก",
+            "en": "He mistakenly thinks he's right.",
+            "audio_src": "เขาหลงคิดว่าตัวเองถูก",
+            "audio_en_src": "He mistakenly thinks he's right."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213748,6 +213877,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "even though, although",
+        "sentences": [
+          {
+            "thai": "ถึงแม้จะเหนื่อยเขาก็ยังทำงานต่อ",
+            "en": "Even though he's tired, he keeps working.",
+            "audio_src": "ถึงแม้จะเหนื่อยเขาก็ยังทำงานต่อ",
+            "audio_en_src": "Even though he's tired, he keeps working."
+          },
+          {
+            "thai": "ถึงแม้ฝนตกเราก็ไปเที่ยว",
+            "en": "Even though it was raining, we still went out.",
+            "audio_src": "ถึงแม้ฝนตกเราก็ไปเที่ยว",
+            "audio_en_src": "Even though it was raining, we still went out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213892,6 +214040,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "even though, although",
+        "sentences": [
+          {
+            "thai": "เขายิ้มทั้งที่ในใจเสียใจ",
+            "en": "He smiled even though he was sad inside.",
+            "audio_src": "เขายิ้มทั้งที่ในใจเสียใจ",
+            "audio_en_src": "He smiled even though he was sad inside."
+          },
+          {
+            "thai": "เธอช่วยเหลือทั้งที่ตัวเองก็ลำบาก",
+            "en": "She helped out even though she was struggling herself.",
+            "audio_src": "เธอช่วยเหลือทั้งที่ตัวเองก็ลำบาก",
+            "audio_en_src": "She helped out even though she was struggling herself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213933,6 +214100,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "must, should, \"you should...\"",
+        "sentences": [
+          {
+            "thai": "จงตั้งใจเรียนเพื่ออนาคต",
+            "en": "You should study hard for your future.",
+            "audio_src": "จงตั้งใจเรียนเพื่ออนาคต",
+            "audio_en_src": "You should study hard for your future."
+          },
+          {
+            "thai": "จงทำความดีละเว้นความชั่ว",
+            "en": "Do good and refrain from evil.",
+            "audio_src": "จงทำความดีละเว้นความชั่ว",
+            "audio_en_src": "Do good and refrain from evil."
+          }
+        ]
+      }
     ]
   },
   {
@@ -213953,6 +214139,25 @@
     "topic": "time",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "before, in the past, back then, formerly",
+        "sentences": [
+          {
+            "thai": "แต่ก่อนที่นี่เป็นทุ่งนา",
+            "en": "This place used to be rice fields.",
+            "audio_src": "แต่ก่อนที่นี่เป็นทุ่งนา",
+            "audio_en_src": "This place used to be rice fields."
+          },
+          {
+            "thai": "แต่ก่อนเขาผอมกว่านี้มาก",
+            "en": "He used to be much thinner than this.",
+            "audio_src": "แต่ก่อนเขาผอมกว่านี้มาก",
+            "audio_en_src": "He used to be much thinner than this."
+          }
+        ]
+      }
     ]
   },
   {
@@ -214011,6 +214216,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "equal to, equivalent to",
+        "sentences": [
+          {
+            "thai": "สองบวกสามเท่ากับห้า",
+            "en": "Two plus three equals five.",
+            "audio_src": "สองบวกสามเท่ากับห้า",
+            "audio_en_src": "Two plus three equals five."
+          },
+          {
+            "thai": "การนิ่งเงียบเท่ากับยอมรับ",
+            "en": "Staying silent is as good as admitting it.",
+            "audio_src": "การนิ่งเงียบเท่ากับยอมรับ",
+            "audio_en_src": "Staying silent is as good as admitting it."
+          }
+        ]
+      }
     ]
   },
   {

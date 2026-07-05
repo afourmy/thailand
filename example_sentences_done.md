@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6102 words**
+**Total: 6112 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5739,15 +5739,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-088` : ชื่อเสียง (reputation) : 1 meaning(s), 2 sentences
 - `t4k-c01-091` : คำสั่ง (order, command) : 1 meaning(s), 2 sentences
 - `t4k-c01-092` : รอง (secondary, vice-; to hold, to support from below) : 2 meaning(s), 4 sentences
+- `t4k-c01-094` : เกษตร (farming, agriculture) : 1 meaning(s), 2 sentences
 - `t4k-c02-005` : ความต้องการ (requirement, demand, need) : 1 meaning(s), 2 sentences
 - `t4k-c02-006` : ทำเป็น (to know how to do, to be skilled at; to pretend, to feign) : 2 meaning(s), 4 sentences
+- `t4k-c02-007` : เช่นเดียว (the same, similar to, likewise) : 1 meaning(s), 2 sentences
+- `t4k-c02-008` : ความสนใจ (interest, attention) : 1 meaning(s), 2 sentences
 - `t4k-c02-009` : ซ้อน (to stack, to overlap) : 1 meaning(s), 2 sentences
+- `t4k-c02-010` : คนเรา (we humans, people in general) : 1 meaning(s), 2 sentences
+- `t4k-c02-011` : หลง (to get lost; to be infatuated, crazy about, to fall for; to be mistaken) : 3 meaning(s), 6 sentences
+- `t4k-c02-012` : ถึงแม้ (even though, although) : 1 meaning(s), 2 sentences
 - `t4k-c02-015` : เสี่ยง (to risk, risky) : 1 meaning(s), 2 sentences
 - `t4k-c02-016` : หน่วย (unit (of measurement)) : 1 meaning(s), 2 sentences
 - `t4k-c02-017` : สำนัก (office, bureau, institution) : 1 meaning(s), 2 sentences
 - `t4k-c02-018` : สนิท (close, intimate) : 1 meaning(s), 2 sentences
+- `t4k-c02-019` : ทั้งที่ (even though, although) : 1 meaning(s), 2 sentences
 - `t4k-c02-020` : ห่างไกล (far, distant, remote) : 1 meaning(s), 2 sentences
+- `t4k-c02-021` : จง (must, should, "you should...") : 1 meaning(s), 2 sentences
+- `t4k-c02-024` : แต่ก่อน (before, in the past, back then, formerly) : 1 meaning(s), 2 sentences
 - `t4k-c02-025` : กระแส (stream, flow; (figuratively) trend, wave) : 2 meaning(s), 4 sentences
+- `t4k-c02-026` : เท่ากับ (equal to, equivalent to) : 1 meaning(s), 2 sentences
 - `t4k-c02-029` : หลากหลาย (various, many kinds) : 1 meaning(s), 2 sentences
 - `t4k-c02-030` : สวย, สวยงาม (beautiful) : 1 meaning(s), 2 sentences
 - `t4k-c02-032` : ทา (to apply, to spread on a surface (e.g paint, cream)) : 1 meaning(s), 2 sentences
