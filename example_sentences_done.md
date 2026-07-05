@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6182 words**
+**Total: 6192 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5922,17 +5922,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-041` : ข่าย ((figuratively) range, scope) : 1 meaning(s), 2 sentences
 - `t4k-c05-045` : สภาพแวดล้อม (environment, surrounding conditions (social, economic, etc)) : 1 meaning(s), 2 sentences
 - `t4k-c05-046` : โชค (luck) : 1 meaning(s), 2 sentences
+- `t4k-c05-047` : คนรัก (lover, romantic partner) : 1 meaning(s), 2 sentences
 - `t4k-c05-048` : ตอบรับ (to accept, to acknowledge, to respond positively) : 1 meaning(s), 2 sentences
+- `t4k-c05-049` : โศก (sorrow, grief, sad, mournful (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c05-051` : พระสงฆ์ (monk) : 1 meaning(s), 2 sentences
 - `t4k-c05-052` : เชี่ยวชาญ (skilled, proficient, expert in, specialized in) : 1 meaning(s), 2 sentences
+- `t4k-c05-053` : ประมวล (to compile, to summarize, to collect (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-057` : ทางเดิน (walkway, footpath) : 1 meaning(s), 2 sentences
+- `t4k-c05-063` : กลับกลายเป็น (to turn into, to become) : 1 meaning(s), 2 sentences
+- `t4k-c05-064` : ปลัด (senior administrative officer (e.g head official under a minister)) : 1 meaning(s), 2 sentences
 - `t4k-c05-065` : ของเก่า (old things, antique, second-hand) : 1 meaning(s), 2 sentences
 - `t4k-c05-066` : รังสี (rays, radiation, beam) : 1 meaning(s), 2 sentences
 - `t4k-c05-067` : โบ (bow, ribbon) : 1 meaning(s), 2 sentences
 - `t4k-c05-068` : สติปัญญา (intelligence) : 1 meaning(s), 2 sentences
+- `t4k-c05-072` : แหง (definitely, for sure) : 1 meaning(s), 2 sentences
 - `t4k-c05-073` : คุกคาม (to threaten, to intimidate) : 1 meaning(s), 2 sentences
 - `t4k-c05-074` : จงใจ (to intend, deliberately, on purpose) : 1 meaning(s), 2 sentences
+- `t4k-c05-075` : พิพากษา (to judge, to pronounce a verdict) : 1 meaning(s), 2 sentences
 - `t4k-c05-077` : เครื่องใช้ (appliance, utensil, equipment) : 1 meaning(s), 2 sentences
+- `t4k-c05-079` : เคียง (near, beside, alongside, next to) : 1 meaning(s), 2 sentences
 - `t4k-c05-080` : ฟื้น (to recover, to restore) : 1 meaning(s), 2 sentences
+- `t4k-c05-082` : ในขณะนี้ (at this present moment, at present (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-083` : เดา (to guess, to take a guess (without certainty)) : 1 meaning(s), 2 sentences
 - `t4k-c05-084` : เพลิง (fire, blaze) : 1 meaning(s), 2 sentences
 - `t4k-c05-087` : สามัญ (common, basic, ordinary) : 1 meaning(s), 2 sentences
