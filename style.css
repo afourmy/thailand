@@ -1056,45 +1056,48 @@ html[lang="fr"] .en { display: none; }
   border-radius: 6px;
 }
 
-/* Display options laid out as a 2x2 grid: left column Show / Group by, right
-   column Audio / Backup. The shared right column means Audio and Backup start
-   at the same x, instead of each floating independently to the right edge. */
-/* Two columns, two rows, placed explicitly so the four cells never spill into a
-   staircase of empty grid tracks: Display over Show on the left, Audio over
-   Backup on the right. */
-.vocab-controls--display {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  grid-template-areas:
-    "display audio"
-    "show    backup";
-  align-items: center;
-  gap: 0.6rem 1.5rem;
-  margin-bottom: 1.8rem;
+/* Unified control panel: row 1 chooses which cards you see (deck + search),
+   row 2 how they are shown (frequency chips + face/audio toggles). Each row
+   fills its full width; the search and the toggles are pushed to the right
+   edge so no row trails off into empty space. */
+.vocab-panel {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0;
 }
 
-.vocab-display-cell {
+.vocab-panel-row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.6rem 0.8rem;
+  gap: 0.5rem 0.7rem;
+  padding: 0.55rem 0;
 }
 
-.vocab-display-cell--display { grid-area: display; }
-.vocab-display-cell--show    { grid-area: show; }
-.vocab-display-cell--audio   { grid-area: audio; }
-.vocab-display-cell--backup  { grid-area: backup; }
+.vocab-panel-row:first-child { padding-top: 0; }
+.vocab-panel-row:last-child { padding-bottom: 0; }
+.vocab-panel-row + .vocab-panel-row { border-top: 1px solid var(--border); }
 
+/* Only the line's leading label gets the shared width, so the label column
+   aligns across rows; labels further down a line (Audio) stay natural. */
+.vocab-panel-row > .vocab-control-label:first-child { min-width: 5.5rem; }
+
+/* The deck-only checkbox closes the Show line at the right edge; on narrow
+   screens it wraps and joins the left-aligned stack like everything else. */
+.vocab-panel-row--how .vocab-deck-only { margin-left: auto; }
 @media (max-width: 600px) {
-  /* Stack to a single column when there isn't room for two. */
-  .vocab-controls--display {
-    grid-template-columns: 1fr;
-    grid-template-areas:
-      "display"
-      "show"
-      "audio"
-      "backup";
-  }
+  .vocab-panel-row--how .vocab-deck-only { margin-left: 0; }
+}
+
+/* The chips group sits inline after the search; its standalone padding would
+   double the row's. */
+.vocab-panel-row .vocab-filter-group { padding: 0; }
+
+/* Keeps a label and its toggle on the same line when the row wraps. */
+.vocab-toggle-set {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem 0.7rem;
 }
 
 .vocab-control-label {
@@ -1150,10 +1153,14 @@ html[lang="fr"] .en { display: none; }
   background: #e3f0fc;
 }
 
+/* Grows to fill whatever is left of its line, so on wide screens it packs the
+   row full and when it wraps it spans the new line instead of leaving a hole.
+   The low basis is what flex uses to decide line breaks: it must leave room
+   for the chips AND the Add-filtered button on one line at the narrowest
+   desktop width, otherwise the button drops onto a half-empty line. */
 .vocab-search-wrap {
   position: relative;
-  flex: 0 0 320px;
-  width: 320px;
+  flex: 1 1 150px;
 }
 
 .vocab-search {
@@ -1218,11 +1225,14 @@ html[lang="fr"] .en { display: none; }
 
 /* Results toolbar: a slim full-width strip above the card grid, like a data
    table's "showing X of Y" info row. The bottom rule ties it to the cards. */
+/* Results toolbar: count + page-size on the left (they are the same thought),
+   backup on the right, so the strip works for its height instead of holding a
+   single floating sentence. */
 .vocab-count-bar {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
-  gap: 0.6rem;
+  gap: 0.4rem 0.8rem;
   margin: 0 0 1rem;
   padding: 0 0.15rem 0.6rem;
   border-bottom: 1px solid var(--border);
@@ -1240,13 +1250,32 @@ html[lang="fr"] .en { display: none; }
   font-weight: 700;
 }
 
-
-/* Filter bar: the frequency chip row controls which cards are visible. */
-.vocab-filter {
-  flex-direction: column;
-  align-items: stretch;
-  gap: 0;
+.vocab-limit-select {
+  font-family: 'Computer Modern Serif', serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.15rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background: var(--surface);
+  color: var(--text-soft);
+  cursor: pointer;
 }
+.vocab-limit-select:hover { border-color: var(--accent); }
+
+.vocab-count-backup {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: auto;
+}
+/* Backup buttons shrink to match the strip's slim scale. */
+.vocab-count-backup .vocab-backup-btn {
+  font-size: 0.82rem;
+  padding: 0.2rem 0.55rem;
+}
+.vocab-count-backup .vocab-backup-btn svg { width: 12px; height: 12px; }
+.vocab-count-backup .vocab-backup-status { font-size: 0.82rem; }
 
 .vocab-filter-group {
   display: flex;
@@ -1585,13 +1614,9 @@ html[lang="fr"] .en { display: none; }
   border-color: rgba(192, 89, 60, 0.45);
 }
 
-/* ── Deck controls bar ──
-   Custom-deck picker: dropdown + rename / delete / new buttons. Sits in its
-   own vocab-controls row, matching the filter/display bars. */
-.vocab-deck-controls {
-  gap: 0.5rem 0.7rem;
-}
-
+/* ── Deck controls ──
+   Custom-deck picker: dropdown + rename / delete / new buttons, inline in the
+   control panel's first row. */
 .vocab-deck-picker {
   position: relative;
   display: inline-flex;
