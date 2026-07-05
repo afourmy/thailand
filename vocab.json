@@ -152826,6 +152826,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "nosy, meddlesome",
+        "sentences": [
+          {
+            "thai": "อย่ามาสาระแนเรื่องของคนอื่น",
+            "en": "Don't go meddling in other people's business.",
+            "audio_src": "อย่ามาสาระแนเรื่องของคนอื่น",
+            "audio_en_src": "Don't go meddling in other people's business."
+          },
+          {
+            "thai": "เขาชอบสาระแนไปทั่ว",
+            "en": "He likes to stick his nose into everything.",
+            "audio_src": "เขาชอบสาระแนไปทั่ว",
+            "audio_en_src": "He likes to stick his nose into everything."
+          }
+        ]
+      }
     ]
   },
   {
@@ -152950,6 +152969,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "in a hurry, panicking, restless, nervous",
+        "sentences": [
+          {
+            "thai": "เขาลุกลี้ลุกลนเพราะกลัวไปสาย",
+            "en": "He was flustered because he was afraid of being late.",
+            "audio_src": "เขาลุกลี้ลุกลนเพราะกลัวไปสาย",
+            "audio_en_src": "He was flustered because he was afraid of being late."
+          },
+          {
+            "thai": "อย่าลุกลี้ลุกลนใจเย็นๆ",
+            "en": "Don't be so frantic, calm down.",
+            "audio_src": "อย่าลุกลี้ลุกลนใจเย็นๆ",
+            "audio_en_src": "Don't be so frantic, calm down."
+          }
+        ]
+      }
     ]
   },
   {
@@ -152981,6 +153019,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "pronoun to refer to an older Chinese-Thai man with respect (\"older brother\", \"uncle\") (loanword from Chinese)",
+        "sentences": [
+          {
+            "thai": "เฮียเจ้าของร้านใจดีมาก",
+            "en": "The shop owner is a really kind older guy.",
+            "audio_src": "เฮียเจ้าของร้านใจดีมาก",
+            "audio_en_src": "The shop owner is a really kind older guy."
+          },
+          {
+            "thai": "ไปทักทายเฮียที่ตลาดหน่อย",
+            "en": "Go say hi to the older fellow at the market.",
+            "audio_src": "ไปทักทายเฮียที่ตลาดหน่อย",
+            "audio_en_src": "Go say hi to the older fellow at the market."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153032,6 +153089,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "special skill, tactic, secret weapon, strategy that someone saves for a critical moment",
+        "sentences": [
+          {
+            "thai": "เขางัดไม้ตายออกมาใช้ตอนท้าย",
+            "en": "He pulled out his secret weapon at the very end.",
+            "audio_src": "เขางัดไม้ตายออกมาใช้ตอนท้าย",
+            "audio_en_src": "He pulled out his secret weapon at the very end."
+          },
+          {
+            "thai": "ทีมนี้มีไม้ตายที่คู่แข่งไม่รู้",
+            "en": "This team has a trump card the rivals don't know about.",
+            "audio_src": "ทีมนี้มีไม้ตายที่คู่แข่งไม่รู้",
+            "audio_en_src": "This team has a trump card the rivals don't know about."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153157,6 +153233,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to get in trouble, to be in trouble, to run into problems",
+        "sentences": [
+          {
+            "thai": "ลืมทำการบ้านงานเข้าแน่",
+            "en": "I forgot my homework, I'm definitely in trouble.",
+            "audio_src": "ลืมทำการบ้านงานเข้าแน่",
+            "audio_en_src": "I forgot my homework, I'm definitely in trouble."
+          },
+          {
+            "thai": "เจ้านายรู้เรื่องนี้งานเข้าเลย",
+            "en": "The boss found out, now we're in trouble.",
+            "audio_src": "เจ้านายรู้เรื่องนี้งานเข้าเลย",
+            "audio_en_src": "The boss found out, now we're in trouble."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153167,6 +153262,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to show one's true colors (reveal one's bad behavior)",
+        "sentences": [
+          {
+            "thai": "คบไปนานๆเขาก็เริ่มออกลาย",
+            "en": "After a while together, he started showing his true colors.",
+            "audio_src": "คบไปนานๆเขาก็เริ่มออกลาย",
+            "audio_en_src": "After a while together, he started showing his true colors."
+          },
+          {
+            "thai": "พอได้ตำแหน่งก็ออกลายทันที",
+            "en": "Once he got the position, he showed his true colors right away.",
+            "audio_src": "พอได้ตำแหน่งก็ออกลายทันที",
+            "audio_en_src": "Once he got the position, he showed his true colors right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153177,6 +153291,37 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "green light; to allow, to approve - red light; to refuse",
+        "sentences": [
+          {
+            "thai": "รถหยุดรอไฟเขียว",
+            "en": "The cars stop and wait for the green light.",
+            "audio_src": "รถหยุดรอไฟเขียว",
+            "audio_en_src": "The cars stop and wait for the green light."
+          },
+          {
+            "thai": "เจ้านายให้ไฟเขียวโครงการแล้ว",
+            "en": "The boss gave the green light to the project.",
+            "audio_src": "เจ้านายให้ไฟเขียวโครงการแล้ว",
+            "audio_en_src": "The boss gave the green light to the project."
+          },
+          {
+            "thai": "ติดไฟแดงนานมาก",
+            "en": "Stuck at the red light for ages.",
+            "audio_src": "ติดไฟแดงนานมาก",
+            "audio_en_src": "Stuck at the red light for ages."
+          },
+          {
+            "thai": "พ่อไฟแดงไม่ให้ไปเที่ยว",
+            "en": "Dad shut it down, no going out.",
+            "audio_src": "พ่อไฟแดงไม่ให้ไปเที่ยว",
+            "audio_en_src": "Dad shut it down, no going out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153187,6 +153332,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "unsolvable problem, extremely difficult (usually used ironically of a question that is asked frequently)",
+        "sentences": [
+          {
+            "thai": "กินอะไรดีเป็นปัญหาโลกแตกทุกวัน",
+            "en": "\"What should we eat\" is the eternal unsolvable question every day.",
+            "audio_src": "กินอะไรดีเป็นปัญหาโลกแตกทุกวัน",
+            "audio_en_src": "\"What should we eat\" is the eternal unsolvable question every day."
+          },
+          {
+            "thai": "เรื่องนี้เถียงกันไม่จบเป็นปัญหาโลกแตก",
+            "en": "This is a never-ending debate, an impossible question.",
+            "audio_src": "เรื่องนี้เถียงกันไม่จบเป็นปัญหาโลกแตก",
+            "audio_en_src": "This is a never-ending debate, an impossible question."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153209,6 +153373,42 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "salty",
+        "sentences": [
+          {
+            "thai": "แกงหม้อนี้เค็มไป",
+            "en": "This pot of curry is too salty.",
+            "audio_src": "แกงหม้อนี้เค็มไป",
+            "audio_en_src": "This pot of curry is too salty."
+          },
+          {
+            "thai": "ใส่เกลือเยอะไปเลยเค็ม",
+            "en": "Put in too much salt, so it came out salty.",
+            "audio_src": "ใส่เกลือเยอะไปเลยเค็ม",
+            "audio_en_src": "Put in too much salt, so it came out salty."
+          }
+        ]
+      },
+      {
+        "meaning": "stingy, reluctant to spend money (slang)",
+        "sentences": [
+          {
+            "thai": "เขาเค็มมากไม่ยอมจ่ายอะไรเลย",
+            "en": "He's really tight, won't pay for anything.",
+            "audio_src": "เขาเค็มมากไม่ยอมจ่ายอะไรเลย",
+            "audio_en_src": "He's really tight, won't pay for anything."
+          },
+          {
+            "thai": "เพื่อนคนนี้เค็มไม่เคยเลี้ยงข้าว",
+            "en": "This friend is stingy, never treats anyone to a meal.",
+            "audio_src": "เพื่อนคนนี้เค็มไม่เคยเลี้ยงข้าว",
+            "audio_en_src": "This friend is stingy, never treats anyone to a meal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153219,6 +153419,25 @@
     "topic": "slang",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "mistress, minor wife of a married man (slang)",
+        "sentences": [
+          {
+            "thai": "เขาแอบมีบ้านเล็ก",
+            "en": "He secretly has a mistress.",
+            "audio_src": "เขาแอบมีบ้านเล็ก",
+            "audio_en_src": "He secretly has a mistress."
+          },
+          {
+            "thai": "เมียหลวงรู้เรื่องบ้านเล็ก",
+            "en": "The main wife found out about the mistress.",
+            "audio_src": "เมียหลวงรู้เรื่องบ้านเล็ก",
+            "audio_en_src": "The main wife found out about the mistress."
+          }
+        ]
+      }
     ]
   },
   {

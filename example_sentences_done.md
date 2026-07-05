@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5502 words**
+**Total: 5512 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3907,13 +3907,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-025` : เลส (lesbian (slang, loanword)) : 1 meaning(s), 2 sentences
 - `yt-c20-028` : น้องชาย (younger brother) : 1 meaning(s), 2 sentences
 - `yt-c20-029` : งู (snake) : 1 meaning(s), 2 sentences
+- `yt-c20-035` : สาระแน (nosy, meddlesome) : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
 - `yt-c20-039` : หักดิบ (to suddenly and completely cut something out (e.g lose weight, quit smoking)) : 1 meaning(s), 2 sentences
+- `yt-c20-041` : ลุกลี้ลุกลน (in a hurry, panicking, restless, nervous) : 1 meaning(s), 2 sentences
+- `yt-c20-044` : เฮีย (pronoun to refer to an older Chinese-Thai man with respect ("older brother", "uncle") (loanword from Chinese)) : 1 meaning(s), 2 sentences
 - `yt-c20-046` : เคยตัว (to have gotten used to, be accustomed to (used negatively, e.g bad habit, bad behavior)) : 1 meaning(s), 2 sentences
+- `yt-c20-047` : ไม้ตาย (special skill, tactic, secret weapon, strategy that someone saves for a critical moment) : 1 meaning(s), 2 sentences
 - `yt-c20-048` : ด้นสด (to improvise) : 1 meaning(s), 2 sentences
 - `yt-c20-051` : ชัก (to pull, to draw) : 1 meaning(s), 2 sentences
 - `yt-c20-051b` : ชักจะ (to begin, to start) : 1 meaning(s), 2 sentences
+- `yt-c20-052` : งานเข้า (to get in trouble, to be in trouble, to run into problems) : 1 meaning(s), 2 sentences
+- `yt-c20-053` : ออกลาย (to show one's true colors (reveal one's bad behavior)) : 1 meaning(s), 2 sentences
+- `yt-c20-054` : ไฟเขียว - ไฟแดง (green light; to allow, to approve - red light; to refuse) : 1 meaning(s), 4 sentences
+- `yt-c20-055` : ปัญหาโลกแตก (unsolvable problem, extremely difficult (usually used ironically of a question that is asked frequently)) : 1 meaning(s), 2 sentences
+- `yt-c20-057` : เค็ม (salty; stingy, reluctant to spend money (slang)) : 2 meaning(s), 4 sentences
+- `yt-c20-058` : บ้านเล็ก (mistress, minor wife of a married man (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-062` : หักหลัง (to betray, to backstab (literally "break back")) : 1 meaning(s), 2 sentences
 - `yt-c20-063` : ต่อปากต่อคำ (to argue back and forth, to argue in an endless conversation) : 1 meaning(s), 2 sentences
 - `yt-c20-069` : แว๊บ (in a flash, (something happening) quickly, suddenly, to pop in) : 1 meaning(s), 2 sentences
