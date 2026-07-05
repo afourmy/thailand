@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5712 words**
+**Total: 5722 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4250,18 +4250,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-023` : แบบไหน (what type?) : 1 meaning(s), 2 sentences
 - `wlt-c03-025` : ใบร้อย (one hundred bill) : 1 meaning(s), 2 sentences
 - `wlt-c03-028` : ใบโหระพา (basil leaf) : 1 meaning(s), 2 sentences
+- `wlt-c03-029` : ใบอนุญาตขับขี่ (driver's license (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c03-031` : ประจำเดือน (monthly) : 1 meaning(s), 2 sentences
 - `wlt-c03-032` : ประตูหน้า (front door) : 1 meaning(s), 2 sentences
+- `wlt-c03-034` : ปลายปี, สิ้นปี (end of the year) : 1 meaning(s), 2 sentences
 - `wlt-c03-035` : ปลุก (to wake someone up) : 1 meaning(s), 2 sentences
 - `wlt-c03-036` : ปีที่แล้ว (last year) : 1 meaning(s), 2 sentences
 - `wlt-c03-037` : ปีนี้ (this year) : 1 meaning(s), 2 sentences
 - `wlt-c03-038` : ปีหน้า (next year) : 1 meaning(s), 2 sentences
 - `wlt-c03-039` : ปู่ย่าตายาย (grandparents) : 1 meaning(s), 2 sentences
+- `wlt-c03-040` : เป็นบางคราว (occasionally, at times) : 1 meaning(s), 2 sentences
 - `wlt-c03-042` : เป็นห่วง (to be worried, to be concerned about) : 1 meaning(s), 2 sentences
 - `wlt-c03-043` : แปดสิบ (eighty (80)) : 1 meaning(s), 2 sentences
 - `wlt-c03-049` : ไปธุระ (to go run an errand, to go out on business) : 1 meaning(s), 2 sentences
+- `wlt-c03-051` : ผงกะหรี่ (curry powder) : 1 meaning(s), 2 sentences
 - `wlt-c03-053` : ผัดไทย (pad thai) : 1 meaning(s), 2 sentences
 - `wlt-c03-055` : ผ้าม่าน (curtains) : 1 meaning(s), 2 sentences
+- `wlt-c03-058` : พร้อมกัน (together, at the same time, altogether) : 1 meaning(s), 2 sentences
 - `wlt-c03-059` : พรุ่งนี้เช้า (tomorrow morning) : 1 meaning(s), 2 sentences
+- `wlt-c03-061` : พอใช้ได้ (good enough, acceptable, passable) : 1 meaning(s), 2 sentences
+- `wlt-c03-063` : พ่อเลี้ยง (stepfather) : 1 meaning(s), 2 sentences
+- `wlt-c03-065` : เพื่อที่จะ (in order to, so as to) : 1 meaning(s), 2 sentences
+- `wlt-c03-066` : เพื่อว่า (so that, in order that) : 1 meaning(s), 2 sentences
 - `wlt-c03-070` : ภายในประเทศ (domestic) : 1 meaning(s), 2 sentences
 - `wlt-c03-074` : มองหา (to look for, to search visually for something) : 1 meaning(s), 2 sentences
 - `wlt-c03-078` : มากกว่า (more (than something else)) : 1 meaning(s), 2 sentences

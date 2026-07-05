@@ -164267,6 +164267,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "driver's license (formal)",
+        "sentences": [
+          {
+            "thai": "ตำรวจขอดูใบอนุญาตขับขี่",
+            "en": "The police asked to see my driver's license.",
+            "audio_src": "ตำรวจขอดูใบอนุญาตขับขี่",
+            "audio_en_src": "The police asked to see my driver's license."
+          },
+          {
+            "thai": "ต้องสอบผ่านถึงจะได้ใบอนุญาตขับขี่",
+            "en": "You have to pass the test to get a driver's license.",
+            "audio_src": "ต้องสอบผ่านถึงจะได้ใบอนุญาตขับขี่",
+            "audio_en_src": "You have to pass the test to get a driver's license."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164277,6 +164296,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "monthly",
+        "sentences": [
+          {
+            "thai": "เขาจ่ายค่าเช่าเป็นประจำเดือน",
+            "en": "He pays the rent monthly.",
+            "audio_src": "เขาจ่ายค่าเช่าเป็นประจำเดือน",
+            "audio_en_src": "He pays the rent monthly."
+          },
+          {
+            "thai": "บริษัทจัดประชุมประจำเดือน",
+            "en": "The company holds a monthly meeting.",
+            "audio_src": "บริษัทจัดประชุมประจำเดือน",
+            "audio_en_src": "The company holds a monthly meeting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164318,6 +164356,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "end of the year",
+        "sentences": [
+          {
+            "thai": "ปลายปีอากาศเริ่มหนาว",
+            "en": "At the end of the year it starts getting cold.",
+            "audio_src": "ปลายปีอากาศเริ่มหนาว",
+            "audio_en_src": "At the end of the year it starts getting cold."
+          },
+          {
+            "thai": "สิ้นปีมีงานเลี้ยงบริษัท",
+            "en": "At year's end there's a company party.",
+            "audio_src": "สิ้นปีมีงานเลี้ยงบริษัท",
+            "audio_en_src": "At year's end there's a company party."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164492,6 +164549,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "occasionally, at times",
+        "sentences": [
+          {
+            "thai": "เขากลับบ้านต่างจังหวัดเป็นบางคราว",
+            "en": "He goes back home upcountry occasionally.",
+            "audio_src": "เขากลับบ้านต่างจังหวัดเป็นบางคราว",
+            "audio_en_src": "He goes back home upcountry occasionally."
+          },
+          {
+            "thai": "ฉันปวดหัวเป็นบางคราว",
+            "en": "I get headaches at times.",
+            "audio_src": "ฉันปวดหัวเป็นบางคราว",
+            "audio_en_src": "I get headaches at times."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164599,6 +164675,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "curry powder",
+        "sentences": [
+          {
+            "thai": "ใส่ผงกะหรี่ลงในไก่ผัด",
+            "en": "Add curry powder to the stir-fried chicken.",
+            "audio_src": "ใส่ผงกะหรี่ลงในไก่ผัด",
+            "audio_en_src": "Add curry powder to the stir-fried chicken."
+          },
+          {
+            "thai": "ผงกะหรี่ทำให้อาหารมีสีเหลือง",
+            "en": "Curry powder gives the food a yellow color.",
+            "audio_src": "ผงกะหรี่ทำให้อาหารมีสีเหลือง",
+            "audio_en_src": "Curry powder gives the food a yellow color."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164673,6 +164768,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "together, at the same time, altogether",
+        "sentences": [
+          {
+            "thai": "ทุกคนยืนขึ้นพร้อมกัน",
+            "en": "Everyone stood up at the same time.",
+            "audio_src": "ทุกคนยืนขึ้นพร้อมกัน",
+            "audio_en_src": "Everyone stood up at the same time."
+          },
+          {
+            "thai": "เราออกเดินทางพร้อมกันตอนเช้า",
+            "en": "We set off together in the morning.",
+            "audio_src": "เราออกเดินทางพร้อมกันตอนเช้า",
+            "audio_en_src": "We set off together in the morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164716,6 +164830,25 @@
     "topic": "expressions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "good enough, acceptable, passable",
+        "sentences": [
+          {
+            "thai": "ฝีมือทำอาหารของเขาพอใช้ได้",
+            "en": "His cooking is passable.",
+            "audio_src": "ฝีมือทำอาหารของเขาพอใช้ได้",
+            "audio_en_src": "His cooking is passable."
+          },
+          {
+            "thai": "ผลสอบครั้งนี้พอใช้ได้",
+            "en": "This exam result is acceptable.",
+            "audio_src": "ผลสอบครั้งนี้พอใช้ได้",
+            "audio_en_src": "This exam result is acceptable."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164736,6 +164869,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "stepfather",
+        "sentences": [
+          {
+            "thai": "พ่อเลี้ยงดูแลเธอเหมือนลูกแท้ๆ",
+            "en": "Her stepfather treats her like his own child.",
+            "audio_src": "พ่อเลี้ยงดูแลเธอเหมือนลูกแท้ๆ",
+            "audio_en_src": "Her stepfather treats her like his own child."
+          },
+          {
+            "thai": "แม่แต่งงานใหม่ฉันเลยมีพ่อเลี้ยง",
+            "en": "My mom remarried, so now I have a stepfather.",
+            "audio_src": "แม่แต่งงานใหม่ฉันเลยมีพ่อเลี้ยง",
+            "audio_en_src": "My mom remarried, so now I have a stepfather."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164746,6 +164898,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "in order to, so as to",
+        "sentences": [
+          {
+            "thai": "เขาตื่นเช้าเพื่อที่จะไปออกกำลังกาย",
+            "en": "He wakes up early in order to go exercise.",
+            "audio_src": "เขาตื่นเช้าเพื่อที่จะไปออกกำลังกาย",
+            "audio_en_src": "He wakes up early in order to go exercise."
+          },
+          {
+            "thai": "เก็บเงินเพื่อที่จะซื้อรถ",
+            "en": "Save money in order to buy a car.",
+            "audio_src": "เก็บเงินเพื่อที่จะซื้อรถ",
+            "audio_en_src": "Save money in order to buy a car."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164756,6 +164927,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "so that, in order that",
+        "sentences": [
+          {
+            "thai": "พูดให้ชัดเพื่อว่าทุกคนจะเข้าใจ",
+            "en": "Speak clearly so that everyone understands.",
+            "audio_src": "พูดให้ชัดเพื่อว่าทุกคนจะเข้าใจ",
+            "audio_en_src": "Speak clearly so that everyone understands."
+          },
+          {
+            "thai": "เขียนโน้ตไว้เพื่อว่าจะไม่ลืม",
+            "en": "I wrote a note so that I won't forget.",
+            "audio_src": "เขียนโน้ตไว้เพื่อว่าจะไม่ลืม",
+            "audio_en_src": "I wrote a note so that I won't forget."
+          }
+        ]
+      }
     ]
   },
   {
