@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5302 words**
+**Total: 5312 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3565,18 +3565,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-004` : ทีเดียว (once, at once; very, quite; immediately, right away) : 3 meaning(s), 6 sentences
 - `yt-c13-005` : ฟันเฟือง (gear, cog (icon used for the "settings" on phone)) : 1 meaning(s), 2 sentences
 - `yt-c13-006` : จับความ, จับใจความ (to get the idea, to grasp the gist, to get the general meaning) : 1 meaning(s), 2 sentences
+- `yt-c13-007` : บังเอิญ, เผอิญ (by chance, coincidentally, "it just happened that") : 1 meaning(s), 2 sentences
+- `yt-c13-014` : ฉุนเฉียว (irritable, quick to anger) : 1 meaning(s), 2 sentences
 - `yt-c13-016` : เรียบหรู (simple yet elegant, sophisticated and classy in a simple way) : 1 meaning(s), 2 sentences
 - `yt-c13-017` : รสนิยม (taste, preference, inclination) : 1 meaning(s), 2 sentences
+- `yt-c13-019` : ดาบสองคม (double-edged sword) : 1 meaning(s), 2 sentences
+- `yt-c13-020` : สมรสเท่าเทียม (same-sex marriage (literally "equal marriage")) : 1 meaning(s), 2 sentences
 - `yt-c13-022` : ถ่ายเท (to flow, to transfer (move from one place to another)) : 1 meaning(s), 2 sentences
 - `yt-c13-025` : รางน้ำ (gutter, water drainpipe) : 1 meaning(s), 2 sentences
+- `yt-c13-026` : ฝนตกปรอยๆ (to drizzle, to rain lightly, continuously but not heavily) : 1 meaning(s), 2 sentences
 - `yt-c13-027` : แปรงขัดชักโครก (toilet brush) : 1 meaning(s), 2 sentences
 - `yt-c13-029` : บัวรดน้ำ (watering can) : 1 meaning(s), 2 sentences
 - `yt-c13-031` : เบลอ, เบลอๆ ((from "blur") blurred, fuzzy, unclear) : 1 meaning(s), 2 sentences
 - `yt-c13-032` : โคลงศีรษะ (to sway one's head (side-to-side, to express disbelief or disappointment)) : 1 meaning(s), 2 sentences
 - `yt-c13-033` : เดา - ทาย - มั่ว (to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly) : 1 meaning(s), 3 sentences
+- `yt-c13-034` : สะดุ้ง (to startle, to flinch, to jump in surprise) : 1 meaning(s), 2 sentences
+- `yt-c13-036` : กระปรี้กระเปร่า (full of energy, lively) : 1 meaning(s), 2 sentences
 - `yt-c13-040` : ตาข่าย (net (fishing net, sport net like volleyball, etc)) : 1 meaning(s), 2 sentences
 - `yt-c13-046` : สาด (to splash, to throw a liquid) : 1 meaning(s), 2 sentences
 - `yt-c13-051` : ชอล์ก (chalk) : 1 meaning(s), 2 sentences
+- `yt-c13-052` : ดวงซวย (unlucky, bad luck (informal)) : 1 meaning(s), 2 sentences
+- `yt-c13-053` : ราชวงศ์จักรี (Chakri dynasty (current royal family)) : 1 meaning(s), 2 sentences
+- `yt-c13-056` : สภา (council, assembly, parliament) : 1 meaning(s), 2 sentences
 - `yt-c13-063` : ยัก (to shrug, to move slightly) : 1 meaning(s), 2 sentences
 - `yt-c13-063b` : พยักหน้า (to nod one's head) : 1 meaning(s), 2 sentences
 - `yt-c13-068` : เวร (duty, shift, watch) : 1 meaning(s), 2 sentences
