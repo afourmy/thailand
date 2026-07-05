@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5792 words**
+**Total: 5802 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4456,21 +4456,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-034` : จิ้งจก (house lizard) : 1 meaning(s), 2 sentences
 - `wlt-c06-035` : จิ้งหรีด (cricket) : 1 meaning(s), 2 sentences
 - `wlt-c06-037` : จูบ (kiss, to kiss) : 1 meaning(s), 2 sentences
+- `wlt-c06-039` : เจ้าหนี้ (creditor) : 1 meaning(s), 2 sentences
 - `wlt-c06-040` : แจก, จำหน่าย (to distribute) : 1 meaning(s), 2 sentences
+- `wlt-c06-041` : ใจกว้าง (generous) : 1 meaning(s), 2 sentences
 - `wlt-c06-043` : ช่วง (period (of time)) : 1 meaning(s), 2 sentences
+- `wlt-c06-044` : ชายหาด (beach) : 1 meaning(s), 2 sentences
 - `wlt-c06-045` : ชาวประมง (fisherman (people who fish for a living)) : 1 meaning(s), 2 sentences
 - `wlt-c06-046` : ชี้แจง (to clarify, to explain in detail) : 1 meaning(s), 2 sentences
 - `wlt-c06-047` : ชีวิต (life) : 1 meaning(s), 2 sentences
 - `wlt-c06-048` : ชุดชั้นใน (underwear, lingerie) : 1 meaning(s), 2 sentences
 - `wlt-c06-049` : เช่นกัน (same here) : 1 meaning(s), 2 sentences
+- `wlt-c06-050` : เชื่อฟัง (to obey) : 1 meaning(s), 2 sentences
 - `wlt-c06-051` : โชคดี (good luck) : 1 meaning(s), 2 sentences
 - `wlt-c06-052` : ซอฟต์แวร์ (software) : 1 meaning(s), 2 sentences
+- `wlt-c06-053` : ซื่อ, ซื่อตรง (honest, upright, straightforward) : 1 meaning(s), 2 sentences
 - `wlt-c06-055` : ซุปเปอร์มาร์เก็ต (supermarket) : 1 meaning(s), 2 sentences
 - `wlt-c06-056` : เซลเซียส (celsius) : 1 meaning(s), 2 sentences
+- `wlt-c06-057` : จันทร์, พระจันทร์, ดวงจันทร์ (moon) : 1 meaning(s), 2 sentences
+- `wlt-c06-058` : ดวงอาทิตย์, พระอาทิตย์ (sun) : 1 meaning(s), 2 sentences
+- `wlt-c06-059` : ดอลลาร์ (dollar) : 1 meaning(s), 2 sentences
 - `wlt-c06-060` : ดังนั้น, เพราะฉะนั้น (therefore) : 1 meaning(s), 2 sentences
 - `wlt-c06-061` : ดีขึ้น (improved, better than before) : 1 meaning(s), 2 sentences
 - `wlt-c06-062` : ดีที่สุด (best) : 1 meaning(s), 2 sentences
+- `wlt-c06-063` : ดีเยี่ยม (excellent, very good) : 1 meaning(s), 2 sentences
 - `wlt-c06-064` : บำรุง (to nourish, to maintain, to improve condition (e.g health, skin, machine)) : 1 meaning(s), 2 sentences
+- `wlt-c06-065` : เดือด (to boil; (figuratively) to be furious, boiling mad) : 2 meaning(s), 4 sentences
 - `wlt-c06-066` : ตกใจ (startled) : 1 meaning(s), 2 sentences
 - `wlt-c06-067` : ตกปลา (to fish) : 1 meaning(s), 2 sentences
 - `wlt-c06-069` : ตบ (to slap, to strike with the open hand) : 1 meaning(s), 2 sentences
