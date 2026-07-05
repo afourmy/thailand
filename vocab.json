@@ -146498,6 +146498,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "dignity, self-worth, honor",
+        "sentences": [
+          {
+            "thai": "เขาทำงานหนักเพื่อรักษาศักดิ์ศรี",
+            "en": "He works hard to keep his dignity.",
+            "audio_src": "เขาทำงานหนักเพื่อรักษาศักดิ์ศรี",
+            "audio_en_src": "He works hard to keep his dignity."
+          },
+          {
+            "thai": "อย่ายอมเสียศักดิ์ศรีเพราะเงิน",
+            "en": "Don't lose your dignity over money.",
+            "audio_src": "อย่ายอมเสียศักดิ์ศรีเพราะเงิน",
+            "audio_en_src": "Don't lose your dignity over money."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146528,6 +146547,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to put yourself in someone else's shoes (literally \"put their heart into our heart\")",
+        "sentences": [
+          {
+            "thai": "รู้จักใจเขาใจเราบ้าง",
+            "en": "Have a little empathy for other people.",
+            "audio_src": "รู้จักใจเขาใจเราบ้าง",
+            "audio_en_src": "Have a little empathy for other people."
+          },
+          {
+            "thai": "ลองเอาใจเขามาใส่ใจเราดู",
+            "en": "Try putting yourself in their shoes.",
+            "audio_src": "ลองเอาใจเขามาใส่ใจเราดู",
+            "audio_en_src": "Try putting yourself in their shoes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146538,6 +146576,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cleaver, butcher's knife",
+        "sentences": [
+          {
+            "thai": "ใช้มีดปังตอสับกระดูกไก่",
+            "en": "Use a cleaver to chop the chicken bones.",
+            "audio_src": "ใช้มีดปังตอสับกระดูกไก่",
+            "audio_en_src": "Use a cleaver to chop the chicken bones."
+          },
+          {
+            "thai": "มีดปังตอคมมากระวังมือ",
+            "en": "The cleaver is really sharp, watch your hand.",
+            "audio_src": "มีดปังตอคมมากระวังมือ",
+            "audio_en_src": "The cleaver is really sharp, watch your hand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146630,6 +146687,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "eagle",
+        "sentences": [
+          {
+            "thai": "นกอินทรีบินอยู่บนท้องฟ้า",
+            "en": "An eagle is soaring in the sky.",
+            "audio_src": "นกอินทรีบินอยู่บนท้องฟ้า",
+            "audio_en_src": "An eagle is soaring in the sky."
+          },
+          {
+            "thai": "นกอินทรีสายตาคมมาก",
+            "en": "Eagles have very sharp eyesight.",
+            "audio_src": "นกอินทรีสายตาคมมาก",
+            "audio_en_src": "Eagles have very sharp eyesight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146640,6 +146716,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "condition, state",
+        "sentences": [
+          {
+            "thai": "เศรษฐกิจอยู่ในสภาวะถดถอย",
+            "en": "The economy is in a state of recession.",
+            "audio_src": "เศรษฐกิจอยู่ในสภาวะถดถอย",
+            "audio_en_src": "The economy is in a state of recession."
+          },
+          {
+            "thai": "ร่างกายอยู่ในสภาวะปกติ",
+            "en": "The body is in a normal condition.",
+            "audio_src": "ร่างกายอยู่ในสภาวะปกติ",
+            "audio_en_src": "The body is in a normal condition."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146650,6 +146745,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "emotional state, mood",
+        "sentences": [
+          {
+            "thai": "สภาวะอารมณ์ของเขาไม่คงที่",
+            "en": "His emotional state is unstable.",
+            "audio_src": "สภาวะอารมณ์ของเขาไม่คงที่",
+            "audio_en_src": "His emotional state is unstable."
+          },
+          {
+            "thai": "การนอนไม่พอส่งผลต่อสภาวะอารมณ์",
+            "en": "Not getting enough sleep affects your mood.",
+            "audio_src": "การนอนไม่พอส่งผลต่อสภาวะอารมณ์",
+            "audio_en_src": "Not getting enough sleep affects your mood."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146660,6 +146774,25 @@
     "topic": "nature",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "race, tribe, species",
+        "sentences": [
+          {
+            "thai": "สัตว์เผ่าพันธุ์นี้ใกล้สูญพันธุ์",
+            "en": "This species of animal is close to extinction.",
+            "audio_src": "สัตว์เผ่าพันธุ์นี้ใกล้สูญพันธุ์",
+            "audio_en_src": "This species of animal is close to extinction."
+          },
+          {
+            "thai": "มนุษย์ทุกเผ่าพันธุ์เท่าเทียมกัน",
+            "en": "All races of humankind are equal.",
+            "audio_src": "มนุษย์ทุกเผ่าพันธุ์เท่าเทียมกัน",
+            "audio_en_src": "All races of humankind are equal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -146898,6 +147031,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to imagine things, to overthink",
+        "sentences": [
+          {
+            "thai": "เธอคิดไปเองว่าเขาโกรธ",
+            "en": "She just imagined that he was angry.",
+            "audio_src": "เธอคิดไปเองว่าเขาโกรธ",
+            "audio_en_src": "She just imagined that he was angry."
+          },
+          {
+            "thai": "อย่าคิดไปเองว่าไม่มีใครสน",
+            "en": "Don't convince yourself that nobody cares.",
+            "audio_src": "อย่าคิดไปเองว่าไม่มีใครสน",
+            "audio_en_src": "Don't convince yourself that nobody cares."
+          }
+        ]
+      }
     ]
   },
   {
@@ -147051,6 +147203,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "ironic, sarcastic, mocking",
+        "sentences": [
+          {
+            "thai": "เขาพูดประชดประชันตลอด",
+            "en": "He's always being sarcastic.",
+            "audio_src": "เขาพูดประชดประชันตลอด",
+            "audio_en_src": "He's always being sarcastic."
+          },
+          {
+            "thai": "อย่าพูดประชดประชันใส่กันสิ",
+            "en": "Don't be sarcastic with each other.",
+            "audio_src": "อย่าพูดประชดประชันใส่กันสิ",
+            "audio_en_src": "Don't be sarcastic with each other."
+          }
+        ]
+      }
     ]
   },
   {
@@ -147061,6 +147232,25 @@
     "topic": "health",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "sense (sight, hearing, taste, smell, touch)",
+        "sentences": [
+          {
+            "thai": "มนุษย์มีประสาทสัมผัสทั้งห้า",
+            "en": "Humans have five senses.",
+            "audio_src": "มนุษย์มีประสาทสัมผัสทั้งห้า",
+            "audio_en_src": "Humans have five senses."
+          },
+          {
+            "thai": "ประสาทสัมผัสด้านการดมกลิ่นของหมาไวมาก",
+            "en": "A dog's sense of smell is very keen.",
+            "audio_src": "ประสาทสัมผัสด้านการดมกลิ่นของหมาไวมาก",
+            "audio_en_src": "A dog's sense of smell is very keen."
+          }
+        ]
+      }
     ]
   },
   {

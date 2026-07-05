@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5402 words**
+**Total: 5412 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3747,16 +3747,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-000` : ผิดรูป (deformed, distorted) : 1 meaning(s), 2 sentences
 - `yt-c17-001` : ทิ่ม (to poke, to jab, to stab lightly with something pointed) : 1 meaning(s), 2 sentences
 - `yt-c17-007` : คุ้มกัน (to guard, to escort, to protect someone) : 1 meaning(s), 2 sentences
+- `yt-c17-009` : ศักดิ์ศรี (dignity, self-worth, honor) : 1 meaning(s), 2 sentences
+- `yt-c17-012` : ใจเขาใจเรา, เอาใจเขามาใส่ใจเรา (to put yourself in someone else's shoes (literally "put their heart into our heart")) : 1 meaning(s), 2 sentences
+- `yt-c17-013` : มีดปังตอ (cleaver, butcher's knife) : 1 meaning(s), 2 sentences
 - `yt-c17-015` : แผงลอย (stall (at a market)) : 1 meaning(s), 2 sentences
 - `yt-c17-018` : ผลพลอยได้ (side benefit, unintended but beneficial result) : 1 meaning(s), 2 sentences
+- `yt-c17-019` : นกอินทรี (eagle) : 1 meaning(s), 2 sentences
+- `yt-c17-020` : สภาวะ (condition, state) : 1 meaning(s), 2 sentences
+- `yt-c17-020b` : สภาวะอารมณ์ (emotional state, mood) : 1 meaning(s), 2 sentences
+- `yt-c17-021` : เผ่าพันธุ์ (race, tribe, species) : 1 meaning(s), 2 sentences
 - `yt-c17-022` : มิติ (dimension) : 1 meaning(s), 2 sentences
 - `yt-c17-023` : ตอกบัตร - แตะบัตร (to punch a time card (in order to clock in) - to tap a card) : 1 meaning(s), 2 sentences
 - `yt-c17-025` : ภาพรวม (overview, overall picture, "big picture") : 1 meaning(s), 2 sentences
 - `yt-c17-028` : วันหยุดชดเชย (compensatory day off (day off given in place of a holiday that falls on a weekend)) : 1 meaning(s), 2 sentences
 - `yt-c17-029` : ลากิจ (personal leave (taking time off for personal errands)) : 1 meaning(s), 2 sentences
 - `yt-c17-031` : เครื่องถ่ายเอกสาร (photocopier) : 1 meaning(s), 2 sentences
+- `yt-c17-033` : คิดไปเอง (to imagine things, to overthink) : 1 meaning(s), 2 sentences
 - `yt-c17-041` : หลงทาง - หลงป่า (to be lost, to lose one's way - lost in the forest) : 1 meaning(s), 2 sentences
 - `yt-c17-042` : ขุ่น, ขุ่นมัว (murky, cloudy (liquid)) : 1 meaning(s), 2 sentences
+- `yt-c17-044` : ประชดประชัน (ironic, sarcastic, mocking) : 1 meaning(s), 2 sentences
+- `yt-c17-045` : ประสาทสัมผัส (sense (sight, hearing, taste, smell, touch)) : 1 meaning(s), 2 sentences
 - `yt-c17-046` : ไม้เท้า, ไม้นำทาง (cane, walking stick) : 1 meaning(s), 2 sentences
 - `yt-c17-048` : ย้อนยุค (vintage style, retro) : 1 meaning(s), 2 sentences
 - `yt-c17-055` : อายุขัย (lifespan, life expectancy) : 1 meaning(s), 2 sentences
