@@ -178090,6 +178090,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "majority, larger part",
+        "sentences": [
+          {
+            "thai": "นักเรียนส่วนใหญ่ชอบวิชาพละ",
+            "en": "Most students like PE class.",
+            "audio_src": "นักเรียนส่วนใหญ่ชอบวิชาพละ",
+            "audio_en_src": "Most students like PE class."
+          },
+          {
+            "thai": "เงินส่วนใหญ่ใช้ไปกับค่าเช่า",
+            "en": "Most of the money goes to rent.",
+            "audio_src": "เงินส่วนใหญ่ใช้ไปกับค่าเช่า",
+            "audio_en_src": "Most of the money goes to rent."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178100,6 +178119,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pick-up truck with two benches (two rows)",
+        "sentences": [
+          {
+            "thai": "นั่งสองแถวไปตลาดราคาถูก",
+            "en": "Taking a songthaew to the market is cheap.",
+            "audio_src": "นั่งสองแถวไปตลาดราคาถูก",
+            "audio_en_src": "Taking a songthaew to the market is cheap."
+          },
+          {
+            "thai": "สองแถวจอดรับผู้โดยสารริมถนน",
+            "en": "The songthaew stops to pick up passengers by the road.",
+            "audio_src": "สองแถวจอดรับผู้โดยสารริมถนน",
+            "audio_en_src": "The songthaew stops to pick up passengers by the road."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178110,6 +178148,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "in-law (female)",
+        "sentences": [
+          {
+            "thai": "ลูกสะใภ้ช่วยแม่สามีทำกับข้าว",
+            "en": "The daughter-in-law helps her mother-in-law cook.",
+            "audio_src": "ลูกสะใภ้ช่วยแม่สามีทำกับข้าว",
+            "audio_en_src": "The daughter-in-law helps her mother-in-law cook."
+          },
+          {
+            "thai": "เธอเป็นสะใภ้คนใหม่ของบ้าน",
+            "en": "She's the new daughter-in-law of the family.",
+            "audio_src": "เธอเป็นสะใภ้คนใหม่ของบ้าน",
+            "audio_en_src": "She's the new daughter-in-law of the family."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178121,6 +178178,42 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "about, approximately",
+        "sentences": [
+          {
+            "thai": "รอสักครึ่งชั่วโมง",
+            "en": "Wait about half an hour.",
+            "audio_src": "รอสักครึ่งชั่วโมง",
+            "audio_en_src": "Wait about half an hour."
+          },
+          {
+            "thai": "ขอเวลาสักห้านาที",
+            "en": "Give me about five minutes.",
+            "audio_src": "ขอเวลาสักห้านาที",
+            "audio_en_src": "Give me about five minutes."
+          }
+        ]
+      },
+      {
+        "meaning": "at least, just",
+        "sentences": [
+          {
+            "thai": "ขอกินสักคำได้ไหม",
+            "en": "Can I have just a bite?",
+            "audio_src": "ขอกินสักคำได้ไหม",
+            "audio_en_src": "Can I have just a bite?"
+          },
+          {
+            "thai": "ลองสักครั้งก็ยังดี",
+            "en": "Give it at least one try.",
+            "audio_src": "ลองสักครั้งก็ยังดี",
+            "audio_en_src": "Give it at least one try."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178260,6 +178353,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lion",
+        "sentences": [
+          {
+            "thai": "สิงโตเป็นราชาแห่งป่า",
+            "en": "The lion is the king of the jungle.",
+            "audio_src": "สิงโตเป็นราชาแห่งป่า",
+            "audio_en_src": "The lion is the king of the jungle."
+          },
+          {
+            "thai": "สิงโตล่าเหยื่อเป็นฝูง",
+            "en": "Lions hunt as a pride.",
+            "audio_src": "สิงโตล่าเหยื่อเป็นฝูง",
+            "audio_en_src": "Lions hunt as a pride."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178270,6 +178382,25 @@
     "topic": "time",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "end of the month",
+        "sentences": [
+          {
+            "thai": "ปลายเดือนเงินมักจะหมด",
+            "en": "By the end of the month the money usually runs out.",
+            "audio_src": "ปลายเดือนเงินมักจะหมด",
+            "audio_en_src": "By the end of the month the money usually runs out."
+          },
+          {
+            "thai": "สิ้นเดือนต้องจ่ายบิลหลายอย่าง",
+            "en": "At month's end there are lots of bills to pay.",
+            "audio_src": "สิ้นเดือนต้องจ่ายบิลหลายอย่าง",
+            "audio_en_src": "At month's end there are lots of bills to pay."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178442,6 +178573,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "rice vermicelli",
+        "sentences": [
+          {
+            "thai": "เส้นหมี่ลวกใส่ในก๋วยเตี๋ยว",
+            "en": "Blanched vermicelli goes into the noodle soup.",
+            "audio_src": "เส้นหมี่ลวกใส่ในก๋วยเตี๋ยว",
+            "audio_en_src": "Blanched vermicelli goes into the noodle soup."
+          },
+          {
+            "thai": "เส้นหมี่เส้นเล็กนิ่มง่ายต่อการกิน",
+            "en": "Vermicelli is thin and soft, easy to eat.",
+            "audio_src": "เส้นหมี่เส้นเล็กนิ่มง่ายต่อการกิน",
+            "audio_en_src": "Vermicelli is thin and soft, easy to eat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178485,6 +178635,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "tones",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมีเสียงสูงต่ำห้าเสียง",
+            "en": "Thai has five tones.",
+            "audio_src": "ภาษาไทยมีเสียงสูงต่ำห้าเสียง",
+            "audio_en_src": "Thai has five tones."
+          },
+          {
+            "thai": "ออกเสียงสูงต่ำผิดความหมายก็เปลี่ยน",
+            "en": "Get the tones wrong and the meaning changes.",
+            "audio_src": "ออกเสียงสูงต่ำผิดความหมายก็เปลี่ยน",
+            "audio_en_src": "Get the tones wrong and the meaning changes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178527,6 +178696,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "leopard",
+        "sentences": [
+          {
+            "thai": "เสือดาวมีลายจุดทั่วตัว",
+            "en": "Leopards have spots all over their body.",
+            "audio_src": "เสือดาวมีลายจุดทั่วตัว",
+            "audio_en_src": "Leopards have spots all over their body."
+          },
+          {
+            "thai": "เสือดาวปีนต้นไม้เก่ง",
+            "en": "Leopards are good at climbing trees.",
+            "audio_src": "เสือดาวปีนต้นไม้เก่ง",
+            "audio_en_src": "Leopards are good at climbing trees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -178537,6 +178725,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sausage",
+        "sentences": [
+          {
+            "thai": "ย่างไส้กรอกกินกับข้าวเหนียว",
+            "en": "Grill sausages to eat with sticky rice.",
+            "audio_src": "ย่างไส้กรอกกินกับข้าวเหนียว",
+            "audio_en_src": "Grill sausages to eat with sticky rice."
+          },
+          {
+            "thai": "เด็กๆชอบไส้กรอกทอด",
+            "en": "Kids love fried sausages.",
+            "audio_src": "เด็กๆชอบไส้กรอกทอด",
+            "audio_en_src": "Kids love fried sausages."
+          }
+        ]
+      }
     ]
   },
   {

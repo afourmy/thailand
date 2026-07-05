@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5882 words**
+**Total: 5892 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4683,17 +4683,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-032` : สลัด, ยำสลัด (salad) : 1 meaning(s), 2 sentences
 - `wlt-c09-033` : สวดมนต์ (to chant a prayer) : 1 meaning(s), 2 sentences
 - `wlt-c09-034` : สวนสัตว์ (zoo) : 1 meaning(s), 2 sentences
+- `wlt-c09-035` : ส่วนใหญ่ (majority, larger part) : 1 meaning(s), 2 sentences
+- `wlt-c09-036` : สองแถว (pick-up truck with two benches (two rows)) : 1 meaning(s), 2 sentences
+- `wlt-c09-037` : สะใภ้ (in-law (female)) : 1 meaning(s), 2 sentences
+- `wlt-c09-038` : สัก (about, approximately; at least, just) : 2 meaning(s), 4 sentences
 - `wlt-c09-039` : สัดส่วน (proportion, ratio) : 1 meaning(s), 2 sentences
 - `wlt-c09-042` : สามเหลี่ยม (triangle) : 1 meaning(s), 2 sentences
 - `wlt-c09-043` : สำนักงาน (office (building)) : 1 meaning(s), 2 sentences
 - `wlt-c09-044` : สิ่ง, สิ่งของ (thing) : 1 meaning(s), 2 sentences
+- `wlt-c09-045` : สิงโต (lion) : 1 meaning(s), 2 sentences
+- `wlt-c09-046` : ปลายเดือน, สิ้นเดือน (end of the month) : 1 meaning(s), 2 sentences
 - `wlt-c09-047` : สิบสอง (twelve (12)) : 1 meaning(s), 2 sentences
 - `wlt-c09-048` : สิบเอ็ด (eleven (11)) : 1 meaning(s), 2 sentences
 - `wlt-c09-049` : สีตก (faded (color), dye bleeding (when washed)) : 1 meaning(s), 2 sentences
 - `wlt-c09-050` : สี่สิบ (forty (40)) : 1 meaning(s), 2 sentences
 - `wlt-c09-053` : สูงสุด (maximum, highest) : 1 meaning(s), 2 sentences
+- `wlt-c09-054` : เส้นหมี่ (rice vermicelli) : 1 meaning(s), 2 sentences
 - `wlt-c09-055` : เสาร์อาทิตย์ (weekend) : 1 meaning(s), 2 sentences
+- `wlt-c09-056` : เสียงสูงต่ำ (tones) : 1 meaning(s), 2 sentences
 - `wlt-c09-057` : เสียหาย (damaged) : 1 meaning(s), 2 sentences
+- `wlt-c09-058` : เสือดาว (leopard) : 1 meaning(s), 2 sentences
+- `wlt-c09-059` : ไส้กรอก (sausage) : 1 meaning(s), 2 sentences
 - `wlt-c09-060` : หกสิบ (sixty (60)) : 1 meaning(s), 2 sentences
 - `wlt-c09-063` : หยุดพัก (to take a break) : 1 meaning(s), 2 sentences
 - `wlt-c09-064` : หลังจาก (after) : 1 meaning(s), 2 sentences
