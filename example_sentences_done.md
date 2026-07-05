@@ -3894,7 +3894,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-000` : เงี่ยน (horny (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c20-002` : ช่วยตัวเอง (to masturbate (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-004` : ชักว่าว ((literally) to fly a kite; (figuratively, sexual) to masturbate (for men only)) : 2 meaning(s), 4 sentences
-- `yt-c20-011` : โม๊ก (to give a blowjob, to give head (slang)) : 1 meaning(s), 1 sentences
+- `yt-c20-011` : โม๊ก (to give a blowjob, to give head (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-015` : กินเด็ก (to date or have sex with someone a lot younger than you (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-016` : พูดไปงั้นแหละ ((informal) "I'm just saying", "just saying it like that", "don't take it personally") : 1 meaning(s), 2 sentences
 - `yt-c20-017` : แซะเก่ง (good at poking, teasing, making sarcastic remarks, quick with sarcasm) : 1 meaning(s), 2 sentences
