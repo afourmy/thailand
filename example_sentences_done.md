@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5602 words**
+**Total: 5612 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4058,6 +4058,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-6` : สัตว์ๆ ("fucking...", "...as fuck") : 1 meaning(s), 2 sentences
 - `yt-c22-083` : สารเลว (bastard, piece of shit, despicable person (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c22-084` : ประคับประคอง (to sustain, to maintain, to support something so it does not worsen or collapse) : 1 meaning(s), 2 sentences
+- `yt-c22-087` : หนักหัวใคร ("how does it concern you?", "it's none of your business" (literally "whose head is it heavy on")) : 1 meaning(s), 2 sentences
+- `yt-c22-088` : ทีใครทีมัน, ตัวใครตัวมัน ("every man for himself", "each person looks for themselves") : 1 meaning(s), 2 sentences
+- `yt-c22-090` : เล่นตัว (to play hard to get) : 1 meaning(s), 2 sentences
+- `yt-c22-091` : ยังกะจะแยแส ("as if I cared", "as if they cared", "as if they give a damn" (slang)) : 1 meaning(s), 2 sentences
+- `yt-c22-092` : ...อะไรหนักหนา ("why so much?", "why so extreme?" (conveys irritation)) : 1 meaning(s), 2 sentences
+- `yt-c22-093` : ประมาณหนึ่ง (roughly, approximately; somewhat, kind of) : 2 meaning(s), 4 sentences
+- `yt-c22-095` : เข้าไปใหญ่, เข้าไปอีก (even more, increasingly) : 1 meaning(s), 2 sentences
+- `yt-c22-097` : เอาการ (quite, very, seriously) : 1 meaning(s), 2 sentences
+- `yt-c22-098` : อ้ำอึ้ง (hesitant, tongue-tied, at a loss for words, unsure what to say) : 1 meaning(s), 2 sentences
+- `yt-c22-099` : ทำตัวตามสบาย (make yourself comfortable) : 1 meaning(s), 2 sentences
 - `yt-c23-011` : ตะไบเล็บ (to file one's nails) : 1 meaning(s), 2 sentences
 - `yt-c23-021` : ปิดกั้น (to seal off completely, to completely block (physically, or feelings)) : 1 meaning(s), 2 sentences
 - `yt-c23-022` : ขวางทาง (to block the way) : 1 meaning(s), 2 sentences
