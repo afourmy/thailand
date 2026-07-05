@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5462 words**
+**Total: 5472 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3866,7 +3866,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-050` : หน้าหนา (shameless, thick-skinned, not embarrassed even in awkward situations) : 1 meaning(s), 2 sentences
 - `yt-c19-051` : หน้าแดง (to blush from embarrassment or shyness) : 1 meaning(s), 2 sentences
 - `yt-c19-052` : ตีสองหน้า (hypocritical, two-faced, not sincere) : 1 meaning(s), 2 sentences
+- `yt-c19-054` : ปอดแหก (coward, easily scared, to chicken out) : 1 meaning(s), 2 sentences
+- `yt-c19-055` : หูเบา (credulous, gullible, easily influenced) : 1 meaning(s), 2 sentences
 - `yt-c19-056` : บาดตา (eyesore, harsh on the eyes, unpleasant to look at) : 1 meaning(s), 2 sentences
+- `yt-c19-058` : คอแข็ง (strong drinker, someone who does not get drunk easily) : 1 meaning(s), 2 sentences
+- `new-12` : คออ่อน (low alcohol tolerance, someone who gets drunk easily) : 1 meaning(s), 2 sentences
+- `yt-c19-059` : ปากแข็ง (to stubbornly refuse to admit, to deny something that's obvious) : 1 meaning(s), 2 sentences
+- `yt-c19-060` : หลุดปาก (to let something slip, to say something accidentally (that was supposed to be a secret)) : 1 meaning(s), 2 sentences
+- `yt-c19-062` : ขอคิดดูก่อน ("let me think about it first") : 1 meaning(s), 2 sentences
+- `yt-c19-064` : แรด (rhinoceros; (slang) slutty, sleazy (usually used about girls)) : 2 meaning(s), 4 sentences
+- `yt-c19-066` : ช้าง (elephant) : 1 meaning(s), 2 sentences
+- `yt-c19-067` : กุ้งแห้ง (skinny person (slang, literally "dried shrimp")) : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
 - `yt-c20-039` : หักดิบ (to suddenly and completely cut something out (e.g lose weight, quit smoking)) : 1 meaning(s), 2 sentences
