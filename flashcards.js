@@ -34,6 +34,7 @@
   var states = loadJSON(STATE_KEY, {}); // cardId -> FSRS card state
   var config = loadJSON(CONFIG_KEY, null) || {
     newPerDay: 15,
+    retention: 0.9,
     direction: "both",
     listening: false,
     typeMode: false,
@@ -51,6 +52,11 @@
   // inline; when off, a bubble icon on the card opens them in a modal instead.
   if (config.showExamples === undefined) config.showExamples = true;
   config.showExamples = !!config.showExamples;
+  // Desired retention: FSRS target recall probability at review time. Snap
+  // anything outside the slider's range back to the 0.9 default, then hand it
+  // to the scheduler so intervals and grade previews use it.
+  if (!(config.retention >= 0.7 && config.retention <= 0.95)) config.retention = 0.9;
+  window.FSRS.setRetention(config.retention);
 
   // Direction filter: which card directions are eligible for the queue and the
   // stat counts. "both" returns the full DIRS list; the others restrict to one.
@@ -772,6 +778,20 @@
     });
     newPerDayEl.addEventListener("blur", function () {
       this.value = config.newPerDay;
+    });
+
+    var retentionEl = $("fc-retention");
+    var retentionValEl = $("fc-retention-val");
+    function retentionLabel() {
+      retentionValEl.textContent = Math.round(config.retention * 100) + "%";
+    }
+    retentionEl.value = config.retention;
+    retentionLabel();
+    retentionEl.addEventListener("input", function () {
+      config.retention = parseFloat(this.value);
+      retentionLabel();
+      window.FSRS.setRetention(config.retention);
+      saveConfig();
     });
 
     $("fc-settings").addEventListener("click", function (e) {

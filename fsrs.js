@@ -5,11 +5,13 @@
 //   FSRS.review(card, grade, now)   -> new card state after a rating
 //   FSRS.preview(card, now)         -> { 1: days, 2: days, 3: days, 4: days }
 //   FSRS.formatInterval(days)       -> short human label ("Now", "4d", "2mo")
+//   FSRS.setRetention(r)            -> set the request retention (see below)
 //
 // Grades follow the Anki/FSRS convention: 1 = Again, 2 = Hard, 3 = Good,
 // 4 = Easy. A card's scheduling state is the pair (stability, difficulty);
 // "stability" is the number of days at which recall probability falls to the
-// request retention (0.9), which is why an interval comes out close to it.
+// request retention (default 0.9), which is why an interval comes out close
+// to it.
 (function () {
   // Published FSRS-5 default weights (19 parameters). Not personally optimised;
   // optimisation needs a corpus of past reviews we don't have yet.
@@ -19,7 +21,14 @@
     0.51655, 0.6621,
   ];
 
-  var REQUEST_RETENTION = 0.9;
+  // Target recall probability at review time. Configurable via setRetention
+  // (the flashcards page persists the choice); scheduling state stays valid
+  // across changes since retention only scales future intervals.
+  var requestRetention = 0.9;
+
+  function setRetention(r) {
+    if (typeof r === "number" && r >= 0.7 && r <= 0.97) requestRetention = r;
+  }
   var MAX_INTERVAL = 36500; // 100 years, the practical ceiling
   var DECAY = -0.5;
   var FACTOR = Math.pow(0.9, 1 / DECAY) - 1; // 19/81 for DECAY = -0.5
@@ -75,7 +84,7 @@
   }
 
   function intervalDays(stability) {
-    var ivl = (stability / FACTOR) * (Math.pow(REQUEST_RETENTION, 1 / DECAY) - 1);
+    var ivl = (stability / FACTOR) * (Math.pow(requestRetention, 1 / DECAY) - 1);
     return Math.min(MAX_INTERVAL, Math.max(1, Math.round(ivl)));
   }
 
@@ -154,5 +163,6 @@
     review: review,
     preview: preview,
     formatInterval: formatInterval,
+    setRetention: setRetention,
   };
 })();

@@ -2411,6 +2411,28 @@ body[data-thai-font="noto"] .th {
    a single shared width so the column reads as a tidy stack. */
 .fc-setting > .vocab-deck-select { width: 240px; }
 
+/* Desired-retention slider + its value readout. */
+.fc-retention {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-left: auto;
+}
+.fc-retention input[type="range"] {
+  width: 120px;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+.fc-retention-val {
+  font-family: 'Computer Modern Serif', serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+  min-width: 2.4em; /* widest value (0.95) so the slider doesn't shift */
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
 /* ── Review screen ── */
 /* Display gated behind :not([hidden]) so the hidden attribute always wins,
    with no dependence on an ancestor class. This matters under the site's SPA

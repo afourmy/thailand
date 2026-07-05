@@ -43,6 +43,18 @@
         </div>
 
         <div class="fc-setting">
+          <span class="fc-setting-label">Desired retention</span>
+          <button type="button" class="fc-info" aria-label="What is Desired retention?">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+            <span class="fc-info-bubble" role="tooltip">How well you want to remember your cards. Higher: cards come back more often, so you forget less but review more each day. Lower: cards come back less often, so you review less but forget more.</span>
+          </button>
+          <div class="fc-retention">
+            <input type="range" id="fc-retention" min="0.7" max="0.95" step="0.05" value="0.9" aria-label="Desired retention">
+            <span class="fc-retention-val" id="fc-retention-val">90%</span>
+          </div>
+        </div>
+
+        <div class="fc-setting">
           <span class="fc-setting-label">Direction</span>
           <button type="button" class="fc-info" aria-label="What is Direction?">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
