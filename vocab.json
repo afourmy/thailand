@@ -170138,6 +170138,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "fare",
+        "sentences": [
+          {
+            "thai": "ค่าโดยสารรถเมล์ขึ้นราคา",
+            "en": "The bus fare has gone up.",
+            "audio_src": "ค่าโดยสารรถเมล์ขึ้นราคา",
+            "audio_en_src": "The bus fare has gone up."
+          },
+          {
+            "thai": "จ่ายค่าโดยสารก่อนขึ้นรถไฟฟ้า",
+            "en": "Pay the fare before getting on the skytrain.",
+            "audio_src": "จ่ายค่าโดยสารก่อนขึ้นรถไฟฟ้า",
+            "audio_en_src": "Pay the fare before getting on the skytrain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170149,6 +170168,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fee",
+        "sentences": [
+          {
+            "thai": "ธนาคารคิดค่าธรรมเนียมการโอน",
+            "en": "The bank charges a transfer fee.",
+            "audio_src": "ธนาคารคิดค่าธรรมเนียมการโอน",
+            "audio_en_src": "The bank charges a transfer fee."
+          },
+          {
+            "thai": "สมัครสมาชิกมีค่าธรรมเนียมรายปี",
+            "en": "Membership comes with an annual fee.",
+            "audio_src": "สมัครสมาชิกมีค่าธรรมเนียมรายปี",
+            "audio_en_src": "Membership comes with an annual fee."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170225,6 +170263,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fiance",
+        "sentences": [
+          {
+            "thai": "เขาแนะนำคู่หมั้นให้ครอบครัวรู้จัก",
+            "en": "He introduced his fiancée to the family.",
+            "audio_src": "เขาแนะนำคู่หมั้นให้ครอบครัวรู้จัก",
+            "audio_en_src": "He introduced his fiancée to the family."
+          },
+          {
+            "thai": "คู่หมั้นของเธอทำงานเป็นหมอ",
+            "en": "Her fiancé works as a doctor.",
+            "audio_src": "คู่หมั้นของเธอทำงานเป็นหมอ",
+            "audio_en_src": "Her fiancé works as a doctor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170364,6 +170421,25 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "whoever",
+        "sentences": [
+          {
+            "thai": "ใครก็ตามที่ทำผิดต้องรับผิดชอบ",
+            "en": "Whoever does wrong has to take responsibility.",
+            "audio_src": "ใครก็ตามที่ทำผิดต้องรับผิดชอบ",
+            "audio_en_src": "Whoever does wrong has to take responsibility."
+          },
+          {
+            "thai": "ใครก็ตามที่มาก่อนได้ที่นั่งก่อน",
+            "en": "Whoever comes first gets a seat first.",
+            "audio_src": "ใครก็ตามที่มาก่อนได้ที่นั่งก่อน",
+            "audio_en_src": "Whoever comes first gets a seat first."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170417,6 +170493,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cobra",
+        "sentences": [
+          {
+            "thai": "งูเห่าแผ่แม่เบี้ยขู่",
+            "en": "The cobra spread its hood in a threat.",
+            "audio_src": "งูเห่าแผ่แม่เบี้ยขู่",
+            "audio_en_src": "The cobra spread its hood in a threat."
+          },
+          {
+            "thai": "งูเห่ามีพิษร้ายแรง",
+            "en": "Cobras have deadly venom.",
+            "audio_src": "งูเห่ามีพิษร้ายแรง",
+            "audio_en_src": "Cobras have deadly venom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170471,6 +170566,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "until (time condition not yet reached)",
+        "sentences": [
+          {
+            "thai": "รอตรงนี้จนกว่าฉันจะกลับมา",
+            "en": "Wait here until I come back.",
+            "audio_src": "รอตรงนี้จนกว่าฉันจะกลับมา",
+            "audio_en_src": "Wait here until I come back."
+          },
+          {
+            "thai": "เขาจะไม่ยอมแพ้จนกว่าจะสำเร็จ",
+            "en": "He won't give up until he succeeds.",
+            "audio_src": "เขาจะไม่ยอมแพ้จนกว่าจะสำเร็จ",
+            "audio_en_src": "He won't give up until he succeeds."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170482,6 +170596,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "until",
+        "sentences": [
+          {
+            "thai": "ร้านเปิดจนถึงเที่ยงคืน",
+            "en": "The shop is open until midnight.",
+            "audio_src": "ร้านเปิดจนถึงเที่ยงคืน",
+            "audio_en_src": "The shop is open until midnight."
+          },
+          {
+            "thai": "เขาทำงานจนถึงดึก",
+            "en": "He worked until late at night.",
+            "audio_src": "เขาทำงานจนถึงดึก",
+            "audio_en_src": "He worked until late at night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170535,6 +170668,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "saucer",
+        "sentences": [
+          {
+            "thai": "วางถ้วยกาแฟบนจานรองถ้วย",
+            "en": "Put the coffee cup on the saucer.",
+            "audio_src": "วางถ้วยกาแฟบนจานรองถ้วย",
+            "audio_en_src": "Put the coffee cup on the saucer."
+          },
+          {
+            "thai": "จานรองถ้วยกันน้ำหยดเลอะโต๊ะ",
+            "en": "The saucer keeps drips off the table.",
+            "audio_src": "จานรองถ้วยกันน้ำหยดเลอะโต๊ะ",
+            "audio_en_src": "The saucer keeps drips off the table."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170545,6 +170697,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "house lizard",
+        "sentences": [
+          {
+            "thai": "จิ้งจกเกาะผนังจับแมลง",
+            "en": "The house lizard on the wall catches insects.",
+            "audio_src": "จิ้งจกเกาะผนังจับแมลง",
+            "audio_en_src": "The house lizard on the wall catches insects."
+          },
+          {
+            "thai": "ตกใจจิ้งจกตกลงมาจากเพดาน",
+            "en": "I got startled when a house lizard fell from the ceiling.",
+            "audio_src": "ตกใจจิ้งจกตกลงมาจากเพดาน",
+            "audio_en_src": "I got startled when a house lizard fell from the ceiling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -170555,6 +170726,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cricket",
+        "sentences": [
+          {
+            "thai": "จิ้งหรีดร้องดังตอนกลางคืน",
+            "en": "The crickets chirp loudly at night.",
+            "audio_src": "จิ้งหรีดร้องดังตอนกลางคืน",
+            "audio_en_src": "The crickets chirp loudly at night."
+          },
+          {
+            "thai": "จิ้งหรีดทอดเป็นของกินเล่น",
+            "en": "Fried crickets are a snack.",
+            "audio_src": "จิ้งหรีดทอดเป็นของกินเล่น",
+            "audio_en_src": "Fried crickets are a snack."
+          }
+        ]
+      }
     ]
   },
   {

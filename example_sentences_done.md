@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5782 words**
+**Total: 5792 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4437,14 +4437,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-003` : ค้อน (hammer) : 1 meaning(s), 2 sentences
 - `wlt-c06-005` : คะแนน (grade, score point(s)) : 1 meaning(s), 2 sentences
 - `wlt-c06-007` : ค่าเช่า (rent) : 1 meaning(s), 2 sentences
+- `wlt-c06-008` : ค่าโดยสาร (fare) : 1 meaning(s), 2 sentences
+- `wlt-c06-009` : ค่าธรรมเนียม (fee) : 1 meaning(s), 2 sentences
 - `wlt-c06-010` : คำถาม (question) : 1 meaning(s), 2 sentences
 - `wlt-c06-011` : คำนึง, คำนึงถึง (to think deeply, to take into consideration) : 1 meaning(s), 2 sentences
+- `wlt-c06-013` : คู่หมั้น (fiance) : 1 meaning(s), 2 sentences
 - `wlt-c06-014` : เคยชิน (to get used to) : 1 meaning(s), 2 sentences
 - `wlt-c06-017` : เครื่องมือ (tool) : 1 meaning(s), 2 sentences
 - `wlt-c06-019` : โครง (frame, skeleton) : 1 meaning(s), 2 sentences
+- `wlt-c06-021` : ใครก็ตาม (whoever) : 1 meaning(s), 2 sentences
 - `wlt-c06-023` : งาม (beautiful, good-looking, pretty) : 1 meaning(s), 2 sentences
+- `wlt-c06-024` : งูเห่า (cobra) : 1 meaning(s), 2 sentences
 - `wlt-c06-026` : จด (to write down, to record, to take note) : 1 meaning(s), 2 sentences
+- `wlt-c06-028` : จนกว่า (until (time condition not yet reached)) : 1 meaning(s), 2 sentences
+- `wlt-c06-029` : จนถึง (until) : 1 meaning(s), 2 sentences
 - `wlt-c06-031` : จัดหา (to procure, to provide, to acquire) : 1 meaning(s), 2 sentences
+- `wlt-c06-032` : จานรองถ้วย (saucer) : 1 meaning(s), 2 sentences
+- `wlt-c06-034` : จิ้งจก (house lizard) : 1 meaning(s), 2 sentences
+- `wlt-c06-035` : จิ้งหรีด (cricket) : 1 meaning(s), 2 sentences
 - `wlt-c06-037` : จูบ (kiss, to kiss) : 1 meaning(s), 2 sentences
 - `wlt-c06-040` : แจก, จำหน่าย (to distribute) : 1 meaning(s), 2 sentences
 - `wlt-c06-043` : ช่วง (period (of time)) : 1 meaning(s), 2 sentences
