@@ -174946,6 +174946,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "widower",
+        "sentences": [
+          {
+            "thai": "เขาเป็นพ่อม่ายเลี้ยงลูกคนเดียว",
+            "en": "He's a widower raising his child alone.",
+            "audio_src": "เขาเป็นพ่อม่ายเลี้ยงลูกคนเดียว",
+            "audio_en_src": "He's a widower raising his child alone."
+          },
+          {
+            "thai": "พ่อม่ายคนนั้นแต่งงานใหม่",
+            "en": "That widower remarried.",
+            "audio_src": "พ่อม่ายคนนั้นแต่งงานใหม่",
+            "audio_en_src": "That widower remarried."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174957,6 +174976,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to blow (wind)",
+        "sentences": [
+          {
+            "thai": "ลมพัดใบไม้ร่วง",
+            "en": "The wind blows the leaves down.",
+            "audio_src": "ลมพัดใบไม้ร่วง",
+            "audio_en_src": "The wind blows the leaves down."
+          },
+          {
+            "thai": "ลมทะเลพัดเย็นสบาย",
+            "en": "The sea breeze blows cool and pleasant.",
+            "audio_src": "ลมทะเลพัดเย็นสบาย",
+            "audio_en_src": "The sea breeze blows cool and pleasant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -174967,6 +175005,25 @@
     "topic": "travel",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "passport (loanword)",
+        "sentences": [
+          {
+            "thai": "อย่าลืมพาสปอร์ตตอนไปสนามบิน",
+            "en": "Don't forget your passport when you go to the airport.",
+            "audio_src": "อย่าลืมพาสปอร์ตตอนไปสนามบิน",
+            "audio_en_src": "Don't forget your passport when you go to the airport."
+          },
+          {
+            "thai": "พาสปอร์ตของฉันใกล้หมดอายุ",
+            "en": "My passport is about to expire.",
+            "audio_src": "พาสปอร์ตของฉันใกล้หมดอายุ",
+            "audio_en_src": "My passport is about to expire."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175018,6 +175075,25 @@
     "topic": "health",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pot belly",
+        "sentences": [
+          {
+            "thai": "กินเบียร์เยอะจนพุงยื่น",
+            "en": "He drank so much beer he got a pot belly.",
+            "audio_src": "กินเบียร์เยอะจนพุงยื่น",
+            "audio_en_src": "He drank so much beer he got a pot belly."
+          },
+          {
+            "thai": "เขาออกกำลังกายเพื่อลดพุง",
+            "en": "He exercises to lose his belly.",
+            "audio_src": "เขาออกกำลังกายเพื่อลดพุง",
+            "audio_en_src": "He exercises to lose his belly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175095,6 +175171,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "additional, to add",
+        "sentences": [
+          {
+            "thai": "มีคำถามเพิ่มเติมถามได้",
+            "en": "If you have additional questions, feel free to ask.",
+            "audio_src": "มีคำถามเพิ่มเติมถามได้",
+            "audio_en_src": "If you have additional questions, feel free to ask."
+          },
+          {
+            "thai": "ครูให้ข้อมูลเพิ่มเติมหลังเลิกเรียน",
+            "en": "The teacher gave extra information after class.",
+            "audio_src": "ครูให้ข้อมูลเพิ่มเติมหลังเลิกเรียน",
+            "audio_en_src": "The teacher gave extra information after class."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175106,6 +175201,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "enough, sufficient, adequate",
+        "sentences": [
+          {
+            "thai": "เงินเดือนเพียงพอสำหรับใช้จ่าย",
+            "en": "The salary is enough to cover expenses.",
+            "audio_src": "เงินเดือนเพียงพอสำหรับใช้จ่าย",
+            "audio_en_src": "The salary is enough to cover expenses."
+          },
+          {
+            "thai": "นอนให้เพียงพอจะได้สุขภาพดี",
+            "en": "Sleep enough to stay healthy.",
+            "audio_src": "นอนให้เพียงพอจะได้สุขภาพดี",
+            "audio_en_src": "Sleep enough to stay healthy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175254,6 +175368,42 @@
     "topic": "grammar",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to roll",
+        "sentences": [
+          {
+            "thai": "เขามวนบุหรี่เอง",
+            "en": "He rolls his own cigarettes.",
+            "audio_src": "เขามวนบุหรี่เอง",
+            "audio_en_src": "He rolls his own cigarettes."
+          },
+          {
+            "thai": "ยายมวนใบยาสูบ",
+            "en": "Grandma rolls tobacco leaves.",
+            "audio_src": "ยายมวนใบยาสูบ",
+            "audio_en_src": "Grandma rolls tobacco leaves."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for cigarettes, cigars",
+        "sentences": [
+          {
+            "thai": "ขอบุหรี่หนึ่งมวน",
+            "en": "Can I have one cigarette?",
+            "audio_src": "ขอบุหรี่หนึ่งมวน",
+            "audio_en_src": "Can I have one cigarette?"
+          },
+          {
+            "thai": "เขาสูบบุหรี่วันละสิบมวน",
+            "en": "He smokes ten cigarettes a day.",
+            "audio_src": "เขาสูบบุหรี่วันละสิบมวน",
+            "audio_en_src": "He smokes ten cigarettes a day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175478,6 +175628,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "minor wife",
+        "sentences": [
+          {
+            "thai": "เขาแอบมีเมียน้อย",
+            "en": "He secretly has a minor wife.",
+            "audio_src": "เขาแอบมีเมียน้อย",
+            "audio_en_src": "He secretly has a minor wife."
+          },
+          {
+            "thai": "เมียหลวงจับได้ว่ามีเมียน้อย",
+            "en": "The main wife found out about the minor wife.",
+            "audio_src": "เมียหลวงจับได้ว่ามีเมียน้อย",
+            "audio_en_src": "The main wife found out about the minor wife."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175488,6 +175657,25 @@
     "topic": "family",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "major wife (infers having a minor wife)",
+        "sentences": [
+          {
+            "thai": "เมียหลวงดูแลบ้านและลูก",
+            "en": "The main wife takes care of the house and the kids.",
+            "audio_src": "เมียหลวงดูแลบ้านและลูก",
+            "audio_en_src": "The main wife takes care of the house and the kids."
+          },
+          {
+            "thai": "เมียหลวงกับเมียน้อยทะเลาะกัน",
+            "en": "The major wife and the minor wife got into a fight.",
+            "audio_src": "เมียหลวงกับเมียน้อยทะเลาะกัน",
+            "audio_en_src": "The major wife and the minor wife got into a fight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -175531,6 +175719,25 @@
     "topic": "culture",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "foreign countries, abroad",
+        "sentences": [
+          {
+            "thai": "เขาไปเรียนต่อเมืองนอก",
+            "en": "He went abroad to study.",
+            "audio_src": "เขาไปเรียนต่อเมืองนอก",
+            "audio_en_src": "He went abroad to study."
+          },
+          {
+            "thai": "ของจากเมืองนอกมักราคาแพง",
+            "en": "Things from abroad are usually expensive.",
+            "audio_src": "ของจากเมืองนอกมักราคาแพง",
+            "audio_en_src": "Things from abroad are usually expensive."
+          }
+        ]
+      }
     ]
   },
   {

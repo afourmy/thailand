@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5842 words**
+**Total: 5852 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4585,20 +4585,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-004` : พ่น (to spray) : 1 meaning(s), 2 sentences
 - `wlt-c08-005` : พยัญชนะ (consonant) : 1 meaning(s), 2 sentences
 - `wlt-c08-006` : พยางค์ (syllable) : 1 meaning(s), 2 sentences
+- `wlt-c08-011` : พ่อม่าย (widower) : 1 meaning(s), 2 sentences
+- `wlt-c08-012` : พัด (to blow (wind)) : 1 meaning(s), 2 sentences
+- `wlt-c08-013` : พาสปอร์ต (passport (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c08-014` : พิง (to lean against) : 1 meaning(s), 2 sentences
+- `wlt-c08-019` : พุง (pot belly) : 1 meaning(s), 2 sentences
 - `wlt-c08-020` : เพชร (diamond) : 1 meaning(s), 2 sentences
 - `wlt-c08-021` : เพศ (gender, sex) : 1 meaning(s), 2 sentences
+- `wlt-c08-023` : เพิ่มเติม (additional, to add) : 1 meaning(s), 2 sentences
+- `wlt-c08-024` : เพียงพอ (enough, sufficient, adequate) : 1 meaning(s), 2 sentences
 - `wlt-c08-025` : ไพ่ ((playing) cards) : 1 meaning(s), 2 sentences
 - `wlt-c08-026` : ฟิล์ม (film, photographic film) : 1 meaning(s), 2 sentences
 - `wlt-c08-027` : แฟ้มข้อมูล (file (physical or on a computer)) : 1 meaning(s), 2 sentences
 - `wlt-c08-030` : ภาษาไทย (Thai language) : 1 meaning(s), 2 sentences
+- `wlt-c08-031` : มวน (to roll; classifier for cigarettes, cigars) : 2 meaning(s), 4 sentences
 - `wlt-c08-032` : มองดู (to look at closely, to observe) : 1 meaning(s), 2 sentences
 - `wlt-c08-033` : มองเห็น (to be able to see) : 1 meaning(s), 2 sentences
 - `wlt-c08-036` : มีความสุข, สุขใจ (happy) : 1 meaning(s), 2 sentences
 - `wlt-c08-037` : มีค่า (valuable) : 1 meaning(s), 2 sentences
 - `wlt-c08-039` : มือถือ, โทรศัพท์มือถือ (mobile phone) : 1 meaning(s), 2 sentences
 - `wlt-c08-041` : เมล็ด (seed) : 1 meaning(s), 2 sentences
+- `wlt-c08-042` : เมียน้อย (minor wife) : 1 meaning(s), 2 sentences
+- `wlt-c08-043` : เมียหลวง (major wife (infers having a minor wife)) : 1 meaning(s), 2 sentences
 - `wlt-c08-044` : เมืองไทย (Thailand (informal)) : 1 meaning(s), 2 sentences
+- `wlt-c08-045` : เมืองนอก (foreign countries, abroad) : 1 meaning(s), 2 sentences
 - `wlt-c08-046` : เมืองหลวง (capital) : 1 meaning(s), 2 sentences
 - `wlt-c08-049` : แม่บ้าน (housekeeper (female)) : 1 meaning(s), 2 sentences
 - `wlt-c08-052` : ไม้กวาด (broom) : 1 meaning(s), 2 sentences
