@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6002 words**
+**Total: 6012 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5214,7 +5214,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c15-098` : ผลไม้ (fruit) : 1 meaning(s), 2 sentences
 - `wlt-c15-099` : ผ้าห่ม (blanket) : 1 meaning(s), 2 sentences
 - `wlt-c16-000` : ฝรั่งเศส (France, French) : 1 meaning(s), 2 sentences
+- `wlt-c16-001` : พยาบาล, นางพยาบาล (nurse) : 1 meaning(s), 2 sentences
 - `wlt-c16-002` : พริก (chili peppers, chilies) : 1 meaning(s), 2 sentences
+- `wlt-c16-003` : พอใจ (satisfied) : 1 meaning(s), 2 sentences
 - `wlt-c16-004` : พ่อแม่ (parents) : 1 meaning(s), 2 sentences
 - `wlt-c16-005` : พัน (thousand (1000)) : 1 meaning(s), 2 sentences
 - `wlt-c16-006` : พี่ชาย (older brother) : 1 meaning(s), 2 sentences
@@ -5225,12 +5227,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-012` : ไม่เคย (never) : 1 meaning(s), 2 sentences
 - `wlt-c16-013` : ยืน (to stand) : 1 meaning(s), 2 sentences
 - `wlt-c16-014` : ยืม (to borrow) : 1 meaning(s), 2 sentences
+- `wlt-c16-015` : ยุง (mosquito) : 1 meaning(s), 2 sentences
 - `wlt-c16-016` : เยอรมัน (Germany, German) : 1 meaning(s), 2 sentences
 - `wlt-c16-017` : รถยนต์ (car, automobile) : 1 meaning(s), 2 sentences
 - `wlt-c16-019` : รู้สึก (to feel) : 1 meaning(s), 2 sentences
 - `wlt-c16-020` : เรา, พวกเรา (we, our, us) : 1 meaning(s), 2 sentences
 - `wlt-c16-021` : เรียบร้อย (in good condition, all set, ready) : 1 meaning(s), 2 sentences
+- `wlt-c16-022` : โรค (disease) : 1 meaning(s), 2 sentences
 - `wlt-c16-023` : โรงหนัง (cinema) : 1 meaning(s), 2 sentences
+- `wlt-c16-024` : ลา (to take leave, to say goodbye (said by the person leaving)) : 1 meaning(s), 2 sentences
+- `wlt-c16-025` : ล้าน (million (1,000,000)) : 1 meaning(s), 2 sentences
 - `wlt-c16-026` : ลูกสาว (daughter) : 1 meaning(s), 2 sentences
 - `wlt-c16-027` : โลก (world) : 1 meaning(s), 2 sentences
 - `wlt-c16-028` : สกปรก (dirty) : 1 meaning(s), 2 sentences
@@ -5239,13 +5245,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-031` : สบาย (well, comfortable) : 1 meaning(s), 2 sentences
 - `wlt-c16-032` : สบู่, สบู่หอม (soap) : 1 meaning(s), 2 sentences
 - `wlt-c16-033` : ส้ม (orange) : 1 meaning(s), 2 sentences
+- `wlt-c16-034` : สมัย (period, era, time) : 1 meaning(s), 2 sentences
 - `wlt-c16-035` : สมุด (notebook) : 1 meaning(s), 2 sentences
 - `wlt-c16-036` : สว่าง (light, bright) : 1 meaning(s), 2 sentences
 - `wlt-c16-037` : สัตว์ (animal) : 1 meaning(s), 2 sentences
+- `wlt-c16-038` : สับปะรด (pineapple) : 1 meaning(s), 2 sentences
 - `wlt-c16-039` : สัปดาห์ (week (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c16-040` : สาม ๓ (three (3)) : 1 meaning(s), 2 sentences
 - `wlt-c16-041` : สีเทา (grey) : 1 meaning(s), 2 sentences
 - `wlt-c16-042` : สีน้ำตาล (brown) : 1 meaning(s), 2 sentences
+- `wlt-c16-043` : สี่แยก (four-way intersection) : 1 meaning(s), 2 sentences
 - `wlt-c16-044` : สีเหลือง (yellow) : 1 meaning(s), 2 sentences
 - `wlt-c16-045` : สูบ (to draw on, pump, smoke) : 1 meaning(s), 3 sentences
 - `wlt-c16-047` : หมด (all gone, used up, finished) : 1 meaning(s), 2 sentences
@@ -5256,6 +5265,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c16-052` : หลาน (nephew, niece, grandchild) : 1 meaning(s), 2 sentences
 - `wlt-c16-053` : ห้า ๕ (five (5)) : 1 meaning(s), 2 sentences
 - `wlt-c16-054` : ห่าง (distant, far apart, separate) : 1 meaning(s), 2 sentences
+- `wlt-c16-057` : อก (chest) : 1 meaning(s), 2 sentences
 - `wlt-c16-060` : อย่า (do not (to tell someone not to do something)) : 1 meaning(s), 2 sentences
 - `wlt-c16-061` : อร่อย (to taste good, delicious) : 1 meaning(s), 2 sentences
 - `wlt-c16-063` : อันตราย (dangerous) : 1 meaning(s), 2 sentences

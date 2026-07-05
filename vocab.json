@@ -195640,6 +195640,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "nurse",
+        "sentences": [
+          {
+            "thai": "พยาบาลดูแลผู้ป่วยอย่างใกล้ชิด",
+            "en": "The nurse looks after the patient closely.",
+            "audio_src": "พยาบาลดูแลผู้ป่วยอย่างใกล้ชิด",
+            "audio_en_src": "The nurse looks after the patient closely."
+          },
+          {
+            "thai": "นางพยาบาลฉีดยาให้คนไข้",
+            "en": "The nurse gives the patient an injection.",
+            "audio_src": "นางพยาบาลฉีดยาให้คนไข้",
+            "audio_en_src": "The nurse gives the patient an injection."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195685,6 +195704,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "satisfied",
+        "sentences": [
+          {
+            "thai": "ลูกค้าพอใจกับบริการมาก",
+            "en": "The customer is very satisfied with the service.",
+            "audio_src": "ลูกค้าพอใจกับบริการมาก",
+            "audio_en_src": "The customer is very satisfied with the service."
+          },
+          {
+            "thai": "เขาไม่พอใจกับผลงานตัวเอง",
+            "en": "He's not satisfied with his own work.",
+            "audio_src": "เขาไม่พอใจกับผลงานตัวเอง",
+            "audio_en_src": "He's not satisfied with his own work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -196032,6 +196070,25 @@
     "topic": "nature",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "mosquito",
+        "sentences": [
+          {
+            "thai": "ยุงกัดจนเป็นตุ่มคัน",
+            "en": "The mosquito bit me and left an itchy bump.",
+            "audio_src": "ยุงกัดจนเป็นตุ่มคัน",
+            "audio_en_src": "The mosquito bit me and left an itchy bump."
+          },
+          {
+            "thai": "จุดยากันยุงก่อนนอน",
+            "en": "Light a mosquito coil before bed.",
+            "audio_src": "จุดยากันยุงก่อนนอน",
+            "audio_en_src": "Light a mosquito coil before bed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -196210,6 +196267,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "disease",
+        "sentences": [
+          {
+            "thai": "โรคนี้ติดต่อผ่านการสัมผัส",
+            "en": "This disease spreads through contact.",
+            "audio_src": "โรคนี้ติดต่อผ่านการสัมผัส",
+            "audio_en_src": "This disease spreads through contact."
+          },
+          {
+            "thai": "ออกกำลังกายช่วยป้องกันโรค",
+            "en": "Exercise helps prevent disease.",
+            "audio_src": "ออกกำลังกายช่วยป้องกันโรค",
+            "audio_en_src": "Exercise helps prevent disease."
+          }
+        ]
+      }
     ]
   },
   {
@@ -196252,6 +196328,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to take leave, to say goodbye (said by the person leaving)",
+        "sentences": [
+          {
+            "thai": "ฉันขอลาไปก่อนนะ",
+            "en": "I'll say goodbye and head off now.",
+            "audio_src": "ฉันขอลาไปก่อนนะ",
+            "audio_en_src": "I'll say goodbye and head off now."
+          },
+          {
+            "thai": "เขาลาหัวหน้าก่อนออกจากที่ทำงาน",
+            "en": "He said goodbye to his boss before leaving work.",
+            "audio_src": "เขาลาหัวหน้าก่อนออกจากที่ทำงาน",
+            "audio_en_src": "He said goodbye to his boss before leaving work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -196263,6 +196358,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "million (1,000,000)",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้ราคาห้าล้านบาท",
+            "en": "This house costs five million baht.",
+            "audio_src": "บ้านหลังนี้ราคาห้าล้านบาท",
+            "audio_en_src": "This house costs five million baht."
+          },
+          {
+            "thai": "คลิปนี้มีคนดูเป็นล้าน",
+            "en": "This clip has millions of views.",
+            "audio_src": "คลิปนี้มีคนดูเป็นล้าน",
+            "audio_en_src": "This clip has millions of views."
+          }
+        ]
+      }
     ]
   },
   {
@@ -196544,6 +196658,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "period, era, time",
+        "sentences": [
+          {
+            "thai": "สมัยรัชกาลที่ห้ามีการเลิกทาส",
+            "en": "In the reign of Rama V, slavery was abolished.",
+            "audio_src": "สมัยรัชกาลที่ห้ามีการเลิกทาส",
+            "audio_en_src": "In the reign of Rama V, slavery was abolished."
+          },
+          {
+            "thai": "สมัยที่ฉันยังเด็กไม่มีมือถือ",
+            "en": "When I was young, there were no mobile phones.",
+            "audio_src": "สมัยที่ฉันยังเด็กไม่มีมือถือ",
+            "audio_en_src": "When I was young, there were no mobile phones."
+          }
+        ]
+      }
     ]
   },
   {
@@ -196653,6 +196786,25 @@
     "topic": "food",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pineapple",
+        "sentences": [
+          {
+            "thai": "สับปะรดสุกหวานฉ่ำ",
+            "en": "Ripe pineapple is sweet and juicy.",
+            "audio_src": "สับปะรดสุกหวานฉ่ำ",
+            "audio_en_src": "Ripe pineapple is sweet and juicy."
+          },
+          {
+            "thai": "ปอกสับปะรดแล้วหั่นเป็นชิ้น",
+            "en": "Peel the pineapple and cut it into pieces.",
+            "audio_src": "ปอกสับปะรดแล้วหั่นเป็นชิ้น",
+            "audio_en_src": "Peel the pineapple and cut it into pieces."
+          }
+        ]
+      }
     ]
   },
   {
@@ -196796,6 +196948,25 @@
     "topic": "transport",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "four-way intersection",
+        "sentences": [
+          {
+            "thai": "เลี้ยวขวาตรงสี่แยกข้างหน้า",
+            "en": "Turn right at the intersection ahead.",
+            "audio_src": "เลี้ยวขวาตรงสี่แยกข้างหน้า",
+            "audio_en_src": "Turn right at the intersection ahead."
+          },
+          {
+            "thai": "สี่แยกนี้มีไฟแดงนานมาก",
+            "en": "This intersection has a very long red light.",
+            "audio_src": "สี่แยกนี้มีไฟแดงนานมาก",
+            "audio_en_src": "This intersection has a very long red light."
+          }
+        ]
+      }
     ]
   },
   {
@@ -197159,6 +197330,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "chest",
+        "sentences": [
+          {
+            "thai": "เขาเจ็บหน้าอกตอนหายใจ",
+            "en": "He has chest pain when he breathes.",
+            "audio_src": "เขาเจ็บหน้าอกตอนหายใจ",
+            "audio_en_src": "He has chest pain when he breathes."
+          },
+          {
+            "thai": "เธอกอดอกยืนรอ",
+            "en": "She stood waiting with her arms crossed.",
+            "audio_src": "เธอกอดอกยืนรอ",
+            "audio_en_src": "She stood waiting with her arms crossed."
+          }
+        ]
+      }
     ]
   },
   {
