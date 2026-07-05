@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6172 words**
+**Total: 6182 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5892,13 +5892,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-083` : คณะรัฐมนตรี (cabinet, Council of Ministers) : 1 meaning(s), 2 sentences
 - `t4k-c04-084` : เป็นอย่างยิ่ง (extremely, very much, a lot) : 1 meaning(s), 2 sentences
 - `t4k-c04-085` : บำบัด (to treat, to heal, to cure (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c04-086` : จำต้อง (must, obliged to, compelled to (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c04-088` : ราบ (flat, smooth) : 1 meaning(s), 2 sentences
 - `t4k-c04-089` : ดึงดูด (to attract, to appeal) : 1 meaning(s), 2 sentences
+- `t4k-c04-090` : ทุกสิ่งทุกอย่าง (everything) : 1 meaning(s), 2 sentences
+- `t4k-c04-092` : สมรส (to marry, marriage) : 1 meaning(s), 2 sentences
 - `t4k-c04-093` : สื่อมวลชน (mass media) : 1 meaning(s), 2 sentences
 - `t4k-c04-095` : เห็นชอบ (to approve, to consent, to endorse) : 1 meaning(s), 2 sentences
 - `t4k-c04-096` : ขยับ (to move slightly, to adjust one's position) : 1 meaning(s), 2 sentences
+- `t4k-c04-098` : สหกรณ์ (cooperative (organization owned and managed jointly by members)) : 1 meaning(s), 2 sentences
 - `t4k-c05-001` : บทความ (article, essay, text) : 1 meaning(s), 2 sentences
 - `t4k-c05-003` : สะดุด (to stumble, to trip; (figuratively) to be disrupted, to be interrupted) : 2 meaning(s), 4 sentences
+- `t4k-c05-004` : เมื่อใด (when, whenever (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-005` : ฟู (fluffy, puffed up (e.g hair, face)) : 1 meaning(s), 2 sentences
 - `t4k-c05-007` : ข้อสังเกต (observation, remark) : 1 meaning(s), 2 sentences
 - `t4k-c05-009` : บาร์ (bar) : 1 meaning(s), 2 sentences
@@ -5906,11 +5911,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-015` : ผู้ช่วย (assistant) : 1 meaning(s), 2 sentences
 - `t4k-c05-018` : ก๊าซ (gas) : 1 meaning(s), 2 sentences
 - `t4k-c05-022` : มวล (mass, bulk) : 1 meaning(s), 2 sentences
+- `t4k-c05-023` : ตัวเรา (ourselves; oneself) : 2 meaning(s), 4 sentences
 - `t4k-c05-024` : สังกัด (to belong to, to be affiliated with (e.g organization, institution)) : 1 meaning(s), 2 sentences
 - `t4k-c05-025` : ซับ (to absorb (e.g liquid), to wipe) : 1 meaning(s), 2 sentences
 - `t4k-c05-031` : ขบวนการ (movement, organization) : 1 meaning(s), 2 sentences
+- `t4k-c05-032` : อาญา (criminal, penal) : 1 meaning(s), 2 sentences
+- `t4k-c05-033` : เชื่อถือ (to trust, to consider reliable (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-038` : ประหลาด (strange, odd, unusual) : 1 meaning(s), 2 sentences
+- `t4k-c05-040` : มึง (you (slang, rude)) : 1 meaning(s), 2 sentences
 - `t4k-c05-041` : ข่าย ((figuratively) range, scope) : 1 meaning(s), 2 sentences
+- `t4k-c05-045` : สภาพแวดล้อม (environment, surrounding conditions (social, economic, etc)) : 1 meaning(s), 2 sentences
 - `t4k-c05-046` : โชค (luck) : 1 meaning(s), 2 sentences
 - `t4k-c05-048` : ตอบรับ (to accept, to acknowledge, to respond positively) : 1 meaning(s), 2 sentences
 - `t4k-c05-052` : เชี่ยวชาญ (skilled, proficient, expert in, specialized in) : 1 meaning(s), 2 sentences

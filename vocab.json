@@ -218847,6 +218847,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "must, obliged to, compelled to (formal)",
+        "sentences": [
+          {
+            "thai": "เขาจำต้องลาออกจากงานเพราะป่วยหนัก",
+            "en": "He was forced to quit his job because of a serious illness.",
+            "audio_src": "เขาจำต้องลาออกจากงานเพราะป่วยหนัก",
+            "audio_en_src": "He was forced to quit his job because of a serious illness."
+          },
+          {
+            "thai": "ผมจำต้องปฏิเสธคำเชิญครั้งนี้",
+            "en": "I have no choice but to decline this invitation.",
+            "audio_src": "ผมจำต้องปฏิเสธคำเชิญครั้งนี้",
+            "audio_en_src": "I have no choice but to decline this invitation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218929,6 +218948,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "everything",
+        "sentences": [
+          {
+            "thai": "เธอคือทุกสิ่งทุกอย่างของผม",
+            "en": "You are everything to me.",
+            "audio_src": "เธอคือทุกสิ่งทุกอย่างของผม",
+            "audio_en_src": "You are everything to me."
+          },
+          {
+            "thai": "เขายอมทำทุกสิ่งทุกอย่างเพื่อลูก",
+            "en": "He'd do anything for his kids.",
+            "audio_src": "เขายอมทำทุกสิ่งทุกอย่างเพื่อลูก",
+            "audio_en_src": "He'd do anything for his kids."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218949,6 +218987,25 @@
     "topic": "family",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to marry, marriage",
+        "sentences": [
+          {
+            "thai": "ทั้งคู่สมรสกันเมื่อปีที่แล้ว",
+            "en": "The couple got married last year.",
+            "audio_src": "ทั้งคู่สมรสกันเมื่อปีที่แล้ว",
+            "audio_en_src": "The couple got married last year."
+          },
+          {
+            "thai": "เขาไปจดทะเบียนสมรสที่อำเภอ",
+            "en": "They registered their marriage at the district office.",
+            "audio_src": "เขาไปจดทะเบียนสมรสที่อำเภอ",
+            "audio_en_src": "They registered their marriage at the district office."
+          }
+        ]
+      }
     ]
   },
   {
@@ -219052,6 +219109,25 @@
     "topic": "economy",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cooperative (organization owned and managed jointly by members)",
+        "sentences": [
+          {
+            "thai": "ชาวนารวมตัวกันตั้งสหกรณ์",
+            "en": "The farmers joined together to form a cooperative.",
+            "audio_src": "ชาวนารวมตัวกันตั้งสหกรณ์",
+            "audio_en_src": "The farmers joined together to form a cooperative."
+          },
+          {
+            "thai": "เขาฝากเงินไว้กับสหกรณ์ของหมู่บ้าน",
+            "en": "He keeps his savings with the village cooperative.",
+            "audio_src": "เขาฝากเงินไว้กับสหกรณ์ของหมู่บ้าน",
+            "audio_en_src": "He keeps his savings with the village cooperative."
+          }
+        ]
+      }
     ]
   },
   {
@@ -219141,6 +219217,25 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "when, whenever (formal)",
+        "sentences": [
+          {
+            "thai": "ไม่มีใครรู้ว่าเขาจะกลับมาเมื่อใด",
+            "en": "No one knows when he'll come back.",
+            "audio_src": "ไม่มีใครรู้ว่าเขาจะกลับมาเมื่อใด",
+            "audio_en_src": "No one knows when he'll come back."
+          },
+          {
+            "thai": "เมื่อใดที่คุณพร้อม ก็บอกผมได้เลย",
+            "en": "Whenever you're ready, just let me know.",
+            "audio_src": "เมื่อใดที่คุณพร้อม ก็บอกผมได้เลย",
+            "audio_en_src": "Whenever you're ready, just let me know."
+          }
+        ]
+      }
     ]
   },
   {
@@ -219405,6 +219500,42 @@
     "topic": "grammar",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ourselves",
+        "sentences": [
+          {
+            "thai": "เราต้องเชื่อมั่นในตัวเราเอง",
+            "en": "We have to believe in ourselves.",
+            "audio_src": "เราต้องเชื่อมั่นในตัวเราเอง",
+            "audio_en_src": "We have to believe in ourselves."
+          },
+          {
+            "thai": "เราควรดูแลตัวเราเองก่อนดูแลคนอื่น",
+            "en": "We should take care of ourselves before others.",
+            "audio_src": "เราควรดูแลตัวเราเองก่อนดูแลคนอื่น",
+            "audio_en_src": "We should take care of ourselves before others."
+          }
+        ]
+      },
+      {
+        "meaning": "oneself",
+        "sentences": [
+          {
+            "thai": "คนเราต้องรู้จักตัวเราเอง",
+            "en": "One has to know oneself.",
+            "audio_src": "คนเราต้องรู้จักตัวเราเอง",
+            "audio_en_src": "One has to know oneself."
+          },
+          {
+            "thai": "ความสุขเริ่มต้นจากตัวเราเอง",
+            "en": "Happiness begins with oneself.",
+            "audio_src": "ความสุขเริ่มต้นจากตัวเราเอง",
+            "audio_en_src": "Happiness begins with oneself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -219538,6 +219669,25 @@
     "topic": "law",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "criminal, penal",
+        "sentences": [
+          {
+            "thai": "เรื่องนี้กลายเป็นคดีอาญา",
+            "en": "This has turned into a criminal case.",
+            "audio_src": "เรื่องนี้กลายเป็นคดีอาญา",
+            "audio_en_src": "This has turned into a criminal case."
+          },
+          {
+            "thai": "เขาถูกดำเนินคดีอาญาฐานฉ้อโกง",
+            "en": "He is being prosecuted on criminal fraud charges.",
+            "audio_src": "เขาถูกดำเนินคดีอาญาฐานฉ้อโกง",
+            "audio_en_src": "He is being prosecuted on criminal fraud charges."
+          }
+        ]
+      }
     ]
   },
   {
@@ -219548,6 +219698,25 @@
     "topic": "emotions",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to trust, to consider reliable (formal)",
+        "sentences": [
+          {
+            "thai": "ข้อมูลจากเว็บนี้เชื่อถือได้ไหม",
+            "en": "Can the information on this website be trusted?",
+            "audio_src": "ข้อมูลจากเว็บนี้เชื่อถือได้ไหม",
+            "audio_en_src": "Can the information on this website be trusted?"
+          },
+          {
+            "thai": "เขาเป็นคนที่ทุกคนเชื่อถือ",
+            "en": "He's someone everyone trusts.",
+            "audio_src": "เขาเป็นคนที่ทุกคนเชื่อถือ",
+            "audio_en_src": "He's someone everyone trusts."
+          }
+        ]
+      }
     ]
   },
   {
@@ -219620,6 +219789,25 @@
     "topic": "slang",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "you (slang, rude)",
+        "sentences": [
+          {
+            "thai": "มึงจะไปไหน",
+            "en": "Where are you going?",
+            "audio_src": "มึงจะไปไหน",
+            "audio_en_src": "Where are you going?"
+          },
+          {
+            "thai": "มึงบ้าไปแล้วเหรอ",
+            "en": "Have you lost your mind?",
+            "audio_src": "มึงบ้าไปแล้วเหรอ",
+            "audio_en_src": "Have you lost your mind?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -219671,6 +219859,25 @@
     "topic": "nature",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "environment, surrounding conditions (social, economic, etc)",
+        "sentences": [
+          {
+            "thai": "เราต้องช่วยกันรักษาสภาพแวดล้อม",
+            "en": "We all need to help protect the environment.",
+            "audio_src": "เราต้องช่วยกันรักษาสภาพแวดล้อม",
+            "audio_en_src": "We all need to help protect the environment."
+          },
+          {
+            "thai": "สภาพแวดล้อมในที่ทำงานส่งผลต่ออารมณ์",
+            "en": "The work environment affects your mood.",
+            "audio_src": "สภาพแวดล้อมในที่ทำงานส่งผลต่ออารมณ์",
+            "audio_en_src": "The work environment affects your mood."
+          }
+        ]
+      }
     ]
   },
   {
