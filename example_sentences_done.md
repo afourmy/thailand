@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5862 words**
+**Total: 5872 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4636,14 +4636,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-074` : ระบอบ (regime) : 1 meaning(s), 2 sentences
 - `wlt-c08-075` : ร่าง (draft, proposal) : 1 meaning(s), 2 sentences
 - `wlt-c08-076` : ร่างกาย (body) : 1 meaning(s), 2 sentences
+- `wlt-c08-077` : ราชการ (government service, civil service) : 1 meaning(s), 2 sentences
 - `wlt-c08-078` : ร้านขายยา (pharmacy) : 1 meaning(s), 2 sentences
 - `wlt-c08-079` : รื้อ (to dismantle, to tear down) : 1 meaning(s), 2 sentences
 - `wlt-c08-080` : รุ่น (age, generation, period) : 1 meaning(s), 2 sentences
 - `wlt-c08-081` : รูปถ่าย (photograph) : 1 meaning(s), 2 sentences
 - `wlt-c08-082` : เร็ว, เร็วๆ (quickly, fast) : 1 meaning(s), 2 sentences
+- `wlt-c08-083` : แรงงาน (labor, workforce) : 1 meaning(s), 2 sentences
 - `wlt-c08-086` : โรงเรียนอนุบาล (kindergarten, preschool) : 1 meaning(s), 2 sentences
+- `wlt-c08-087` : โรงละคร (theater) : 1 meaning(s), 2 sentences
+- `wlt-c08-089` : ฤดูใบไม้ผลิ (spring) : 1 meaning(s), 2 sentences
+- `wlt-c08-090` : ฤดูใบไม้ร่วง (autumn) : 1 meaning(s), 2 sentences
+- `wlt-c08-091` : ฤดูฝน, หน้าฝน (rainy season) : 1 meaning(s), 2 sentences
+- `wlt-c08-092` : ฤดูหนาว (cold season, winter) : 1 meaning(s), 2 sentences
 - `wlt-c08-093` : ลดลง (to become lower, to diminish) : 1 meaning(s), 2 sentences
 - `wlt-c08-094` : ลวด (wire) : 1 meaning(s), 2 sentences
+- `wlt-c08-095` : ละคร (TV drama) : 1 meaning(s), 2 sentences
+- `wlt-c08-096` : ละอาย (ashamed) : 1 meaning(s), 2 sentences
+- `wlt-c08-097` : ลักทรัพย์ (to steal, theft (formal, legal)) : 1 meaning(s), 2 sentences
 - `wlt-c08-098` : ลาก่อน (goodbye, farewell) : 1 meaning(s), 2 sentences
 - `wlt-c08-099` : ลำดับ (order, sequence, to arrange in order) : 1 meaning(s), 2 sentences
 - `wlt-c09-000` : ลิ้นชัก (drawer) : 1 meaning(s), 2 sentences

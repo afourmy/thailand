@@ -176588,6 +176588,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "government service, civil service",
+        "sentences": [
+          {
+            "thai": "เขาทำงานราชการมายี่สิบปี",
+            "en": "He's worked in the civil service for twenty years.",
+            "audio_src": "เขาทำงานราชการมายี่สิบปี",
+            "audio_en_src": "He's worked in the civil service for twenty years."
+          },
+          {
+            "thai": "วันหยุดราชการธนาคารปิด",
+            "en": "On government holidays the banks are closed.",
+            "audio_src": "วันหยุดราชการธนาคารปิด",
+            "audio_en_src": "On government holidays the banks are closed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176761,6 +176780,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "labor, workforce",
+        "sentences": [
+          {
+            "thai": "โรงงานขาดแคลนแรงงาน",
+            "en": "The factory is short of labor.",
+            "audio_src": "โรงงานขาดแคลนแรงงาน",
+            "audio_en_src": "The factory is short of labor."
+          },
+          {
+            "thai": "แรงงานต่างชาติทำงานในภาคก่อสร้าง",
+            "en": "Foreign workers are employed in the construction sector.",
+            "audio_src": "แรงงานต่างชาติทำงานในภาคก่อสร้าง",
+            "audio_en_src": "Foreign workers are employed in the construction sector."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176812,6 +176850,25 @@
     "topic": "culture",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "theater",
+        "sentences": [
+          {
+            "thai": "เราไปดูการแสดงที่โรงละคร",
+            "en": "We went to see a performance at the theater.",
+            "audio_src": "เราไปดูการแสดงที่โรงละคร",
+            "audio_en_src": "We went to see a performance at the theater."
+          },
+          {
+            "thai": "โรงละครแห่งนี้เก่าแก่มาก",
+            "en": "This theater is very old.",
+            "audio_src": "โรงละครแห่งนี้เก่าแก่มาก",
+            "audio_en_src": "This theater is very old."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176822,6 +176879,25 @@
     "topic": "weather",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "spring",
+        "sentences": [
+          {
+            "thai": "ฤดูใบไม้ผลิดอกไม้บานสวยงาม",
+            "en": "In spring the flowers bloom beautifully.",
+            "audio_src": "ฤดูใบไม้ผลิดอกไม้บานสวยงาม",
+            "audio_en_src": "In spring the flowers bloom beautifully."
+          },
+          {
+            "thai": "ญี่ปุ่นฤดูใบไม้ผลิมีซากุระ",
+            "en": "In spring Japan has cherry blossoms.",
+            "audio_src": "ญี่ปุ่นฤดูใบไม้ผลิมีซากุระ",
+            "audio_en_src": "In spring Japan has cherry blossoms."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176832,6 +176908,25 @@
     "topic": "weather",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "autumn",
+        "sentences": [
+          {
+            "thai": "ฤดูใบไม้ร่วงใบไม้เปลี่ยนสี",
+            "en": "In autumn the leaves change color.",
+            "audio_src": "ฤดูใบไม้ร่วงใบไม้เปลี่ยนสี",
+            "audio_en_src": "In autumn the leaves change color."
+          },
+          {
+            "thai": "อากาศฤดูใบไม้ร่วงเย็นสบาย",
+            "en": "Autumn weather is cool and pleasant.",
+            "audio_src": "อากาศฤดูใบไม้ร่วงเย็นสบาย",
+            "audio_en_src": "Autumn weather is cool and pleasant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176842,6 +176937,25 @@
     "topic": "weather",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "rainy season",
+        "sentences": [
+          {
+            "thai": "หน้าฝนฝนตกเกือบทุกวัน",
+            "en": "In the rainy season it rains almost every day.",
+            "audio_src": "หน้าฝนฝนตกเกือบทุกวัน",
+            "audio_en_src": "In the rainy season it rains almost every day."
+          },
+          {
+            "thai": "ฤดูฝนน้ำท่วมบ่อย",
+            "en": "Floods are common in the rainy season.",
+            "audio_src": "ฤดูฝนน้ำท่วมบ่อย",
+            "audio_en_src": "Floods are common in the rainy season."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176852,6 +176966,25 @@
     "topic": "weather",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cold season, winter",
+        "sentences": [
+          {
+            "thai": "ฤดูหนาวต้องใส่เสื้อกันหนาว",
+            "en": "In winter you have to wear a warm coat.",
+            "audio_src": "ฤดูหนาวต้องใส่เสื้อกันหนาว",
+            "audio_en_src": "In winter you have to wear a warm coat."
+          },
+          {
+            "thai": "ภาคเหนือฤดูหนาวอากาศเย็นมาก",
+            "en": "The north gets very cold in winter.",
+            "audio_src": "ภาคเหนือฤดูหนาวอากาศเย็นมาก",
+            "audio_en_src": "The north gets very cold in winter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176925,6 +177058,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "TV drama",
+        "sentences": [
+          {
+            "thai": "แม่ชอบดูละครหลังข่าว",
+            "en": "Mom likes watching dramas after the news.",
+            "audio_src": "แม่ชอบดูละครหลังข่าว",
+            "audio_en_src": "Mom likes watching dramas after the news."
+          },
+          {
+            "thai": "ละครเรื่องนี้เรตติ้งสูงมาก",
+            "en": "This drama has really high ratings.",
+            "audio_src": "ละครเรื่องนี้เรตติ้งสูงมาก",
+            "audio_en_src": "This drama has really high ratings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -176935,6 +177087,25 @@
     "topic": "emotions",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "ashamed",
+        "sentences": [
+          {
+            "thai": "เขารู้สึกละอายที่ทำผิด",
+            "en": "He feels ashamed of his mistake.",
+            "audio_src": "เขารู้สึกละอายที่ทำผิด",
+            "audio_en_src": "He feels ashamed of his mistake."
+          },
+          {
+            "thai": "ทำเรื่องแบบนั้นไม่ละอายบ้างเหรอ",
+            "en": "Aren't you ashamed to do something like that?",
+            "audio_src": "ทำเรื่องแบบนั้นไม่ละอายบ้างเหรอ",
+            "audio_en_src": "Aren't you ashamed to do something like that?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -176945,6 +177116,25 @@
     "topic": "law",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to steal, theft (formal, legal)",
+        "sentences": [
+          {
+            "thai": "เขาถูกจับข้อหาลักทรัพย์",
+            "en": "He was arrested on theft charges.",
+            "audio_src": "เขาถูกจับข้อหาลักทรัพย์",
+            "audio_en_src": "He was arrested on theft charges."
+          },
+          {
+            "thai": "การลักทรัพย์มีโทษตามกฎหมาย",
+            "en": "Theft is punishable by law.",
+            "audio_src": "การลักทรัพย์มีโทษตามกฎหมาย",
+            "audio_en_src": "Theft is punishable by law."
+          }
+        ]
+      }
     ]
   },
   {
