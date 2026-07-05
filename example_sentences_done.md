@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5322 words**
+**Total: 5332 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3617,12 +3617,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-015` : ข้าวต้ม (rice porridge) : 1 meaning(s), 2 sentences
 - `yt-c14-016` : หูหม้อ (pot handle) : 1 meaning(s), 2 sentences
 - `yt-c14-017` : ตระหนี่ (stingy, unwilling to spend money (formal)) : 1 meaning(s), 2 sentences
+- `yt-c14-017b` : งก (stingy, reluctant to spend money (informal)) : 1 meaning(s), 2 sentences
+- `yt-c14-018` : คดโกง (dishonest, fraudulent, corrupt (formal)) : 1 meaning(s), 2 sentences
+- `yt-c14-020` : คนง่ายๆ สบายๆ (someone chill, with a laid-back attitude) : 1 meaning(s), 2 sentences
+- `yt-c14-021` : หัวไว - หัวช้า (smart, quick-witted - slow learner, slow to understand) : 1 meaning(s), 2 sentences
 - `yt-c14-023` : ห้องชุด (condo, condominium unit) : 1 meaning(s), 2 sentences
 - `yt-c14-024` : ห้องรับรอง (reception room) : 1 meaning(s), 2 sentences
+- `yt-c14-026` : ตรวจคนเข้าเมือง (ตม.) (immigration (e.g department, office)) : 1 meaning(s), 2 sentences
+- `yt-c14-029` : หัวเข่า (knee cap (front part of the knee)) : 1 meaning(s), 2 sentences
+- `yt-c14-030` : ซุ่มซ่าม (clumsy (usually physical clumsiness i.e prone to accidents or dropping things)) : 1 meaning(s), 2 sentences
 - `yt-c14-035` : ถล่ม (to collapse, to crash, to fall down violently; to destroy, to attack with force) : 2 meaning(s), 4 sentences
 - `yt-c14-040` : ซ้ำซาก (repetitive and dull, occurring again and again until it becomes boring, monotonous, tiresome) : 1 meaning(s), 2 sentences
 - `yt-c14-042` : ชาวไร่ (farmer (who farms in a rai i.e dry crops like corn, not rice field)) : 1 meaning(s), 2 sentences
 - `yt-c14-043` : ทำนา - ทำไร่ - ทำสวน (to do rice farming - to do dry crops farming - to do garden work) : 1 meaning(s), 3 sentences
+- `yt-c14-051` : สาธุ (said after someone does a good deed, makes a merit, or recites a prayer ("amen", "may it be blessed")) : 1 meaning(s), 2 sentences
+- `yt-c14-052` : หอน (to howl (the sound a wolf or dog makes)) : 1 meaning(s), 2 sentences
+- `yt-c14-053` : โลง, โลงศพ (coffin) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c14-088` : เด้ง (to bounce, to spring back; (skin) firm, tight, not saggy) : 2 meaning(s), 4 sentences
 - `yt-c14-093` : เมือก (mucus, slime, slime-like substance) : 1 meaning(s), 2 sentences
