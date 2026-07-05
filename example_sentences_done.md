@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 5292 words**
+**Total: 5302 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3553,8 +3553,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-079` : คู่จิ้น (couple formed by two fictional characters (e.g in series, movies)) : 1 meaning(s), 2 sentences
 - `yt-c12-080` : กระโจน (to leap, to jump very fast like a spring) : 1 meaning(s), 2 sentences
 - `yt-c12-081` : เพ่ง, เพ่งดู (to stare, to focus intently) : 1 meaning(s), 2 sentences
+- `yt-c12-082` : เบิกบาน (radiant, joyful, full of happiness (formal)) : 1 meaning(s), 2 sentences
+- `yt-c12-083` : แจ่มใส (bright, clear (e.g sky, weather); cheerful, happy) : 2 meaning(s), 4 sentences
 - `yt-c12-085` : โต้ (to respond, to retort, to argue back; to go against (e.g wind, wave)) : 2 meaning(s), 4 sentences
+- `yt-c12-091` : ติ๊ด - ติ๊ดเดียว (a tiny amount, a tiny bit) : 1 meaning(s), 2 sentences
+- `yt-c12-092` : เกเร ((of kids) mischievous, naughty, (of adults) rebellious, undisciplined) : 1 meaning(s), 2 sentences
+- `yt-c12-094` : ส่งๆ (casually, without overthinking, quickly) : 1 meaning(s), 2 sentences
+- `yt-c12-099` : เจ้าอยู่หัว, พระเจ้าอยู่หัว (the king (very respectful way to refer to the king, literally "lord residing at the head")) : 1 meaning(s), 2 sentences
+- `yt-c13-000` : คะน้า ((chinese) kale (vegetable used for cooking)) : 1 meaning(s), 2 sentences
+- `yt-c13-001` : เงินทอน (change (money returned after making a purchase)) : 1 meaning(s), 2 sentences
+- `yt-c13-004` : ทีเดียว (once, at once; very, quite; immediately, right away) : 3 meaning(s), 6 sentences
 - `yt-c13-005` : ฟันเฟือง (gear, cog (icon used for the "settings" on phone)) : 1 meaning(s), 2 sentences
+- `yt-c13-006` : จับความ, จับใจความ (to get the idea, to grasp the gist, to get the general meaning) : 1 meaning(s), 2 sentences
 - `yt-c13-016` : เรียบหรู (simple yet elegant, sophisticated and classy in a simple way) : 1 meaning(s), 2 sentences
 - `yt-c13-017` : รสนิยม (taste, preference, inclination) : 1 meaning(s), 2 sentences
 - `yt-c13-022` : ถ่ายเท (to flow, to transfer (move from one place to another)) : 1 meaning(s), 2 sentences

@@ -138300,6 +138300,25 @@
     "topic": "emotions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "radiant, joyful, full of happiness (formal)",
+        "sentences": [
+          {
+            "thai": "จิตใจเบิกบานเมื่อได้อยู่ท่ามกลางธรรมชาติ",
+            "en": "My heart feels joyful when I'm surrounded by nature.",
+            "audio_src": "จิตใจเบิกบานเมื่อได้อยู่ท่ามกลางธรรมชาติ",
+            "audio_en_src": "My heart feels joyful when I'm surrounded by nature."
+          },
+          {
+            "thai": "ใบหน้าเธอเบิกบานด้วยรอยยิ้ม",
+            "en": "Her face was radiant with a smile.",
+            "audio_src": "ใบหน้าเธอเบิกบานด้วยรอยยิ้ม",
+            "audio_en_src": "Her face was radiant with a smile."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138311,6 +138330,42 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "bright, clear (e.g sky, weather)",
+        "sentences": [
+          {
+            "thai": "ท้องฟ้าแจ่มใสไร้เมฆ",
+            "en": "The sky is bright and clear, without a cloud.",
+            "audio_src": "ท้องฟ้าแจ่มใสไร้เมฆ",
+            "audio_en_src": "The sky is bright and clear, without a cloud."
+          },
+          {
+            "thai": "วันนี้อากาศแจ่มใสน่าเดินเล่น",
+            "en": "The weather is clear today, nice for a walk.",
+            "audio_src": "วันนี้อากาศแจ่มใสน่าเดินเล่น",
+            "audio_en_src": "The weather is clear today, nice for a walk."
+          }
+        ]
+      },
+      {
+        "meaning": "cheerful, happy",
+        "sentences": [
+          {
+            "thai": "เด็กๆอารมณ์แจ่มใสร่าเริง",
+            "en": "The kids are cheerful and lively.",
+            "audio_src": "เด็กๆอารมณ์แจ่มใสร่าเริง",
+            "audio_en_src": "The kids are cheerful and lively."
+          },
+          {
+            "thai": "เช้านี้เธอตื่นมาอย่างแจ่มใส",
+            "en": "This morning she woke up bright and cheerful.",
+            "audio_src": "เช้านี้เธอตื่นมาอย่างแจ่มใส",
+            "audio_en_src": "This morning she woke up bright and cheerful."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138421,6 +138476,25 @@
     "topic": "grammar",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "a tiny amount, a tiny bit",
+        "sentences": [
+          {
+            "thai": "ขอน้ำตาลติ๊ดเดียวพอ",
+            "en": "Just a tiny bit of sugar, please.",
+            "audio_src": "ขอน้ำตาลติ๊ดเดียวพอ",
+            "audio_en_src": "Just a tiny bit of sugar, please."
+          },
+          {
+            "thai": "เหลืออีกติ๊ดเดียวก็เสร็จแล้ว",
+            "en": "Just a tiny bit more and it's done.",
+            "audio_src": "เหลืออีกติ๊ดเดียวก็เสร็จแล้ว",
+            "audio_en_src": "Just a tiny bit more and it's done."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138431,6 +138505,25 @@
     "topic": "personality",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(of kids) mischievous, naughty, (of adults) rebellious, undisciplined",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้เกเรชอบแกล้งเพื่อน",
+            "en": "This kid is naughty and likes to tease his friends.",
+            "audio_src": "เด็กคนนี้เกเรชอบแกล้งเพื่อน",
+            "audio_en_src": "This kid is naughty and likes to tease his friends."
+          },
+          {
+            "thai": "เขาเกเรไม่ยอมทำตามกฎ",
+            "en": "He's rebellious and won't follow the rules.",
+            "audio_src": "เขาเกเรไม่ยอมทำตามกฎ",
+            "audio_en_src": "He's rebellious and won't follow the rules."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138441,6 +138534,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "casually, without overthinking, quickly",
+        "sentences": [
+          {
+            "thai": "ทำการบ้านส่งๆให้เสร็จ",
+            "en": "Just knock out the homework to get it done.",
+            "audio_src": "ทำการบ้านส่งๆให้เสร็จ",
+            "audio_en_src": "Just knock out the homework to get it done."
+          },
+          {
+            "thai": "อย่าทำงานส่งๆนะ",
+            "en": "Don't do the work half-heartedly.",
+            "audio_src": "อย่าทำงานส่งๆนะ",
+            "audio_en_src": "Don't do the work half-heartedly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138492,6 +138604,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "the king (very respectful way to refer to the king, literally \"lord residing at the head\")",
+        "sentences": [
+          {
+            "thai": "พระเจ้าอยู่หัวเสด็จพระราชดำเนินไปทรงงาน",
+            "en": "The King proceeded to carry out his royal duties.",
+            "audio_src": "พระเจ้าอยู่หัวเสด็จพระราชดำเนินไปทรงงาน",
+            "audio_en_src": "The King proceeded to carry out his royal duties."
+          },
+          {
+            "thai": "ประชาชนถวายความจงรักภักดีต่อพระเจ้าอยู่หัว",
+            "en": "The people pledged their loyalty to the King.",
+            "audio_src": "ประชาชนถวายความจงรักภักดีต่อพระเจ้าอยู่หัว",
+            "audio_en_src": "The people pledged their loyalty to the King."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138502,6 +138633,25 @@
     "topic": "food",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(chinese) kale (vegetable used for cooking)",
+        "sentences": [
+          {
+            "thai": "ผัดคะน้าหมูกรอบอร่อยมาก",
+            "en": "Stir-fried kale with crispy pork is really tasty.",
+            "audio_src": "ผัดคะน้าหมูกรอบอร่อยมาก",
+            "audio_en_src": "Stir-fried kale with crispy pork is really tasty."
+          },
+          {
+            "thai": "คะน้าลวกจิ้มน้ำพริก",
+            "en": "Blanched kale dipped in chili paste.",
+            "audio_src": "คะน้าลวกจิ้มน้ำพริก",
+            "audio_en_src": "Blanched kale dipped in chili paste."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138513,6 +138663,25 @@
     "sources": [
       "YouTube",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "change (money returned after making a purchase)",
+        "sentences": [
+          {
+            "thai": "รับเงินทอนครบแล้วนะคะ",
+            "en": "Here's all your change.",
+            "audio_src": "รับเงินทอนครบแล้วนะคะ",
+            "audio_en_src": "Here's all your change."
+          },
+          {
+            "thai": "อย่าลืมเงินทอนด้วย",
+            "en": "Don't forget your change.",
+            "audio_src": "อย่าลืมเงินทอนด้วย",
+            "audio_en_src": "Don't forget your change."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138535,6 +138704,59 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "once, at once",
+        "sentences": [
+          {
+            "thai": "ยกของขึ้นทีเดียวหมดเลย",
+            "en": "Lifted all the stuff up in one go.",
+            "audio_src": "ยกของขึ้นทีเดียวหมดเลย",
+            "audio_en_src": "Lifted all the stuff up in one go."
+          },
+          {
+            "thai": "จ่ายทีเดียวจบไม่ต้องผ่อน",
+            "en": "Pay it all at once, no need for installments.",
+            "audio_src": "จ่ายทีเดียวจบไม่ต้องผ่อน",
+            "audio_en_src": "Pay it all at once, no need for installments."
+          }
+        ]
+      },
+      {
+        "meaning": "very, quite",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้ดีทีเดียว",
+            "en": "This book is quite good.",
+            "audio_src": "หนังสือเล่มนี้ดีทีเดียว",
+            "audio_en_src": "This book is quite good."
+          },
+          {
+            "thai": "ร้านนี้อร่อยทีเดียวเลยนะ",
+            "en": "This place is really quite tasty.",
+            "audio_src": "ร้านนี้อร่อยทีเดียวเลยนะ",
+            "audio_en_src": "This place is really quite tasty."
+          }
+        ]
+      },
+      {
+        "meaning": "immediately, right away",
+        "sentences": [
+          {
+            "thai": "เจอกันครั้งแรกก็ถูกใจทีเดียว",
+            "en": "The first time we met, I liked them right away.",
+            "audio_src": "เจอกันครั้งแรกก็ถูกใจทีเดียว",
+            "audio_en_src": "The first time we met, I liked them right away."
+          },
+          {
+            "thai": "พอฝนตกเขาก็กลับบ้านทีเดียว",
+            "en": "As soon as it rained, he went straight home.",
+            "audio_src": "พอฝนตกเขาก็กลับบ้านทีเดียว",
+            "audio_en_src": "As soon as it rained, he went straight home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -138576,6 +138798,25 @@
     "topic": "expressions",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to get the idea, to grasp the gist, to get the general meaning",
+        "sentences": [
+          {
+            "thai": "อ่านเร็วๆแต่ก็จับใจความได้",
+            "en": "I read fast but still got the gist.",
+            "audio_src": "อ่านเร็วๆแต่ก็จับใจความได้",
+            "audio_en_src": "I read fast but still got the gist."
+          },
+          {
+            "thai": "ฟังภาษาอังกฤษแล้วพอจับความได้",
+            "en": "I can more or less grasp the meaning when I listen to English.",
+            "audio_src": "ฟังภาษาอังกฤษแล้วพอจับความได้",
+            "audio_en_src": "I can more or less grasp the meaning when I listen to English."
+          }
+        ]
+      }
     ]
   },
   {
