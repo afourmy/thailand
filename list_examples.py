@@ -11,7 +11,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 VOCAB = HERE / "vocab.json"
-OUT = HERE / "example_sentences_done.md"
+OUT = HERE / "example_sentences_done.md" 
 
 
 def main():
