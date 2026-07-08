@@ -440,15 +440,6 @@
     ]
   },
   {
-    "id": "chula-l4-016",
-    "thai": "พิษสุนัขบ้า",
-    "english": "rabies",
-    "frequency": "rare",
-    "sources": [
-      "Chulalongkorn L4"
-    ]
-  },
-  {
     "id": "chula-l4-018",
     "thai": "เสมหะ",
     "english": "phlegm, thick mucus",
@@ -1078,7 +1069,7 @@
   {
     "id": "chula-l4-041",
     "thai": "พระมหากษัตริย์",
-    "english": "king",
+    "english": "king, monarch (formal)",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L4",
@@ -12599,7 +12590,7 @@
   {
     "id": "chula-l6-012",
     "thai": "คณาจารย์",
-    "english": "faculty (group of teachers/professors)",
+    "english": "faculty members, teaching staff",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -14593,7 +14584,7 @@
   {
     "id": "chula-l6-103",
     "thai": "มิให้",
-    "english": "to do not, so as to not (formal/written)",
+    "english": "not to, so as not to (formal, written)",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6",
@@ -15206,7 +15197,7 @@
   {
     "id": "chula-l6-130",
     "thai": "แผ่ว",
-    "english": "weak, faint, soft; to weaken, to fade",
+    "english": "weak, faint, soft, to weaken, to fade",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -15215,7 +15206,7 @@
   {
     "id": "chula-l6-131",
     "thai": "เป็นทุนเดิม",
-    "english": "to begin with, by nature, already",
+    "english": "to begin with, originally (to already be that way by nature)",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -15727,7 +15718,7 @@
   {
     "id": "chula-l6-160",
     "thai": "หมองคล้ำ",
-    "english": "dull (dim) and dark",
+    "english": "dull, darkened (usually used negatively, especially about skin complexion)",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -15907,7 +15898,7 @@
   {
     "id": "chula-l6-166",
     "thai": "รูขุมขน",
-    "english": "pore (literally \"hole of hair follicle\")",
+    "english": "skin pore (literally \"hole of hair follicle\")",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -17603,7 +17594,7 @@
   {
     "id": "chula-l6-228",
     "thai": "ปุดๆ",
-    "english": "bubbling, boiling (onomatopoeia)",
+    "english": "bubbling, boiling, welling up (onomatopoeia)",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -18314,7 +18305,7 @@
   {
     "id": "chula-l6-254",
     "thai": "ตัวยง",
-    "english": "dedicated, expert, extremely devoted",
+    "english": "die-hard, ardent, devoted",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6",
@@ -19339,7 +19330,7 @@
   {
     "id": "chula-l6-299",
     "thai": "สู่ขอ",
-    "english": "to make a marriage proposal (literally \"go and ask\")",
+    "english": "to make a marriage proposal, to ask for someone's hand (literally \"go and ask\")",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -19603,7 +19594,7 @@
   {
     "id": "chula-l6-313",
     "thai": "พลเอก - พลโท - ร้อยเอก",
-    "english": "general (military rank) - lieutenant general - captain",
+    "english": "general - lieutenant general - captain (military ranks)",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -19612,7 +19603,7 @@
   {
     "id": "chula-l6-314",
     "thai": "ว่าการ",
-    "english": "to be in charge, to govern",
+    "english": "to administer, to be in charge, to govern",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
@@ -19863,12 +19854,22 @@
   },
   {
     "id": "chula-l6-326",
-    "thai": "กลากเกลื้อน - หูด",
-    "english": "fungal skin infection, rash - wart (HPV)",
+    "thai": "กลากเกลื้อน",
+    "english": "fungal skin infections (ringworm and tinea)",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
     ]
+  },
+  {
+    "id": "new-29",
+    "thai": "หูด",
+    "english": "wart (HPV)",
+    "frequency": "rare",
+    "sources": [
+      "Chulalongkorn L6"
+    ],
+    "examples": []
   },
   {
     "id": "chula-l6-327",
@@ -20056,7 +20057,7 @@
   },
   {
     "id": "chula-l6-339",
-    "thai": "พ.ร.บ. (พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ)",
+    "thai": "พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ (พ.ร.บ.)",
     "english": "Act for the Protection of Road Accident Victims (insurance for accidents)",
     "frequency": "rare",
     "sources": [
@@ -21168,7 +21169,7 @@
   {
     "id": "tamago-l12-051",
     "thai": "ขอขมา",
-    "english": "to ask for forgiveness (formal)",
+    "english": "to ask for forgiveness, to formally apologize (formal)",
     "frequency": "rare",
     "sources": [
       "Tamago L1-2",
@@ -25503,7 +25504,7 @@
   {
     "id": "tamago-l12-229",
     "thai": "นิทรา",
-    "english": "to sleep, slumber (formal/poetic)",
+    "english": "to sleep, to slumber (formal, poetic)",
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
@@ -25666,7 +25667,7 @@
   {
     "id": "tamago-l12-238",
     "thai": "น่อง",
-    "english": "calf (lower leg)",
+    "english": "calf (back of the lower leg)",
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
@@ -31930,7 +31931,7 @@
   {
     "id": "tamago-l12-477",
     "thai": "อักษรศาสตร์",
-    "english": "liberal arts (study of language, culture)",
+    "english": "humanities, liberal arts (study of language, culture)",
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
@@ -33176,7 +33177,7 @@
   {
     "id": "tamago-l12-522",
     "thai": "เทียบติด",
-    "english": "comparable, on par",
+    "english": "to match closely, comparable, on par (formal)",
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
@@ -34580,7 +34581,7 @@
   {
     "id": "tamago-l12-578",
     "thai": "เหว",
-    "english": "gorge, ravine, chasm",
+    "english": "abyss, deep ravine, gorge",
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
@@ -35090,16 +35091,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "tamago-l12-596",
-    "thai": "แป๊ด",
-    "english": "gaudy, flashy, extravagant",
-    "frequency": "rare",
-    "sources": [
-      "Tamago L1-2",
-      "Tamago L3"
     ]
   },
   {
@@ -37682,7 +37673,7 @@
   {
     "id": "tamago-l3-002",
     "thai": "เขียวเสวย",
-    "english": "khiao sawoei (a type of green mango)",
+    "english": "a type of green mango",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -39295,7 +39286,7 @@
   {
     "id": "tamago-l3-057",
     "thai": "จีรัง",
-    "english": "to last for a long time, lasting",
+    "english": "to last for a long time, lasting, permanent",
     "frequency": "rare",
     "sources": [
       "Tamago L3",
@@ -40202,7 +40193,7 @@
   {
     "id": "tamago-l3-090",
     "thai": "จุกตูด",
-    "english": "overloaded, overwhelming (slang, vulgar: \"crammed up the butt\")",
+    "english": "overwhelmingly busy, swamped, buried in work (slang, vulgar, literally \"crammed up the butt\")",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -43384,15 +43375,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "tamago-l3-212",
-    "thai": "ลำบากแม่น่าดู",
-    "english": "causing a lot of trouble for one's mother",
-    "frequency": "rare",
-    "sources": [
-      "Tamago L3"
     ]
   },
   {
@@ -47224,7 +47206,7 @@
   {
     "id": "tamago-l3-366",
     "thai": "อำพรางตัว",
-    "english": "to camouflage",
+    "english": "to camouflage, to disguise oneself",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -49276,15 +49258,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "tamago-l3-444",
-    "thai": "กระทุ่มน้ำ",
-    "english": "to splash water with one's feet, to paddle with feet",
-    "frequency": "rare",
-    "sources": [
-      "Tamago L3"
     ]
   },
   {
@@ -51856,15 +51829,6 @@
     ]
   },
   {
-    "id": "tamago-l3-546",
-    "thai": "คำประกอบ",
-    "english": "descriptor (grammar/linguistics)",
-    "frequency": "rare",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
     "id": "tamago-l3-547",
     "thai": "หน้าสด",
     "english": "bare face (without makeup)",
@@ -52356,7 +52320,7 @@
   {
     "id": "tamago-l3-564",
     "thai": "พูดพร่ำทำเพลง",
-    "english": "to talk and talk without acting, waste time talking",
+    "english": "to talk and talk without acting, to waste time talking, to ramble on",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -54656,15 +54620,6 @@
     ]
   },
   {
-    "id": "tamago-l3-651",
-    "thai": "รำไทย",
-    "english": "Thai traditional dance",
-    "frequency": "rare",
-    "sources": [
-      "Tamago L3"
-    ]
-  },
-  {
     "id": "tamago-l3-652",
     "thai": "การล่าอาณานิคม",
     "english": "colonization",
@@ -55759,7 +55714,7 @@
   {
     "id": "tamago-l3-698",
     "thai": "กระเทยควาย",
-    "english": "(derogatory) crude term for katoey (transgender)",
+    "english": "derogatory term for katoey (slang, rude)",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -56305,7 +56260,7 @@
   {
     "id": "tamago-l3-716",
     "thai": "เต็นท์รถ",
-    "english": "car dealership",
+    "english": "car dealership (second-hand cars displayed under covered area)",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -57702,7 +57657,7 @@
   {
     "id": "tamago-l3-774",
     "thai": "สะทกสะท้าน",
-    "english": "emotionally shaken, affected",
+    "english": "emotionally shaken, deeply affected, trembling with fear",
     "frequency": "rare",
     "sources": [
       "Tamago L3",
@@ -58299,7 +58254,7 @@
   {
     "id": "tamago-l3-799",
     "thai": "วารสาร",
-    "english": "journal, periodical",
+    "english": "journal, periodical (e.g academic research)",
     "frequency": "rare",
     "sources": [
       "Tamago L3",
@@ -58338,7 +58293,7 @@
   {
     "id": "tamago-l3-801",
     "thai": "มืดแปดด้าน",
-    "english": "(idiom) to feel trapped with no way out",
+    "english": "to feel trapped with no way out, to be completely at a loss (idiom, literally \"dark on all eight sides\")",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -58621,7 +58576,7 @@
   {
     "id": "tamago-l3-815",
     "thai": "บุพการี",
-    "english": "parent (formal)",
+    "english": "ascendants, parents (formal)",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -58630,7 +58585,7 @@
   {
     "id": "tamago-l3-816",
     "thai": "ลูกกตัญญู",
-    "english": "grateful child (a child who is grateful to and takes care of their parents)",
+    "english": "grateful child (a child who is grateful and takes care of their parents)",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -59294,7 +59249,7 @@
   {
     "id": "tamago-l3-841",
     "thai": "อยู่ดีไม่ว่าดี",
-    "english": "(expression) bringing trouble on oneself when everything was fine",
+    "english": "to unnecessarily create problems when things were already fine (idiom)",
     "frequency": "rare",
     "sources": [
       "Tamago L3"
@@ -64721,7 +64676,7 @@
   {
     "id": "tsl-186",
     "thai": "แต่กระนั้น, แม้กระนั้น",
-    "english": "but nevertheless, however (literary)",
+    "english": "nevertheless, however (formal, literary)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -64799,7 +64754,7 @@
   {
     "id": "tsl-190",
     "thai": "พิธีรีตอง",
-    "english": "ritual, formal ceremony, protocol",
+    "english": "formalities, protocol, etiquette",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -64808,7 +64763,7 @@
   {
     "id": "tsl-191",
     "thai": "ชุบมือเปิบ",
-    "english": "(idiom) to take credit, to benefit from someone else's work (literally \"dip hand and eat\")",
+    "english": "to take credit without contributing, to benefit from someone else's work (idiom, literally \"dip hand and eat\")",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -65257,7 +65212,7 @@
   {
     "id": "tsl-213",
     "thai": "ยามราตรี",
-    "english": "(literary, poetic) night time, at night",
+    "english": "night time, at night (literary, poetic)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -65364,7 +65319,7 @@
   {
     "id": "tsl-218",
     "thai": "เซ่น",
-    "english": "offerings (in a ritual), sacrifice",
+    "english": "offerings, sacrifice, to make an offering to spirits or deities",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -65614,7 +65569,7 @@
   {
     "id": "tsl-232",
     "thai": "งมเข็มในมหาสมุทร",
-    "english": "(idiom) to look for a needle in a haystack (literally \"in the ocean\")",
+    "english": "(idiom) to look for a needle in a haystack (literally \"to search for a needle in the ocean\")",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai",
@@ -65905,7 +65860,7 @@
   {
     "id": "tsl-248",
     "thai": "ความมีอารยธรรม",
-    "english": "state of being civilized, refinement",
+    "english": "civility, refinement, state of being civilized",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -66418,7 +66373,7 @@
   {
     "id": "tsl-275",
     "thai": "จุดระเบิด",
-    "english": "ignition",
+    "english": "to ignite, ignition (of an engine)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -66902,7 +66857,7 @@
   },
   {
     "id": "tsl-303",
-    "thai": "นายก อบจ., นายกองค์การบริหารส่วนจังหวัด",
+    "thai": "นายกองค์การบริหารส่วนจังหวัด (นายก อบจ.)",
     "english": "president of the Provincial Administrative Organization (PAO)",
     "frequency": "rare",
     "sources": [
@@ -66911,7 +66866,7 @@
   },
   {
     "id": "tsl-304",
-    "thai": "ส.อบจ., สมาชิกองค์การบริหารส่วนจังหวัด",
+    "thai": "สมาชิกองค์การบริหารส่วนจังหวัด (ส.อบจ.)",
     "english": "Member of the Provincial Administrative Organization",
     "frequency": "rare",
     "sources": [
@@ -67073,7 +67028,7 @@
   {
     "id": "tsl-310",
     "thai": "ลากตั้ง",
-    "english": "(politics; pejorative) to be appointed (without public vote)",
+    "english": "to be appointed without formal process or public vote (politics, pejorative)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -67454,7 +67409,7 @@
   {
     "id": "tsl-324",
     "thai": "รัดตรึง",
-    "english": "to fasten tightly, to tie down (so it cannot move)",
+    "english": "to fasten tightly, to tie down firmly (so it cannot move)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -68228,7 +68183,7 @@
   {
     "id": "tsl-366",
     "thai": "ต้นไม้ใบหญ้า",
-    "english": "(literary) flora, \"all plants and vegetation\"",
+    "english": "flora, \"all plants and vegetation\" (literary)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -68298,7 +68253,7 @@
   {
     "id": "tsl-369",
     "thai": "บทบัญญัติ",
-    "english": "article of law, statute, provision",
+    "english": "clause, statute, provision (formal, legal)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai",
@@ -68773,7 +68728,7 @@
   },
   {
     "id": "tsl-394",
-    "thai": "อย., สำนักงานคณะกรรมการอาหารและยา",
+    "thai": "สำนักงานคณะกรรมการอาหารและยา (อย.)",
     "english": "Thai Food and Drug Administration (FDA equivalent)",
     "frequency": "rare",
     "sources": [
@@ -69784,7 +69739,7 @@
   {
     "id": "tsl-443",
     "thai": "จำพวก",
-    "english": "(scientific) category, group, species, kind",
+    "english": "category, group, species, kind (formal)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai",
@@ -69863,7 +69818,7 @@
   {
     "id": "tsl-449",
     "thai": "ระรัว",
-    "english": "to beat rapidly, palpitating (sound or motion)",
+    "english": "to beat rapidly, palpitating, \"in quick succession\" (sound or motion)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -70042,7 +69997,7 @@
   {
     "id": "tsl-457",
     "thai": "สิงสู่",
-    "english": "(ghosts) to haunt, to inhabit, to possess (a body)",
+    "english": "to haunt, to inhabit, to possess (ghost in a body)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -70276,7 +70231,7 @@
   {
     "id": "tsl-469",
     "thai": "โรคลมหลับ",
-    "english": "narcolepsy",
+    "english": "narcolepsy (sudden sleep attacks)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -71628,7 +71583,7 @@
   {
     "id": "tsl-524",
     "thai": "พลาง",
-    "english": "(literary) while, at the same time as",
+    "english": "while, at the same time as, simultaneously (formal, literary)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai",
@@ -72711,7 +72666,7 @@
   {
     "id": "tsl-568",
     "thai": "หรรษา",
-    "english": "(literary) joy, fun, delight",
+    "english": "joy, delight, pleasure (formal, literary)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -73044,7 +72999,7 @@
   {
     "id": "tsl-585",
     "thai": "ไพศาล",
-    "english": "(literary) vast, expansive",
+    "english": "vast, immense (formal, poetic)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai",
@@ -73270,7 +73225,7 @@
   {
     "id": "tsl-597",
     "thai": "วัยเจริญพันธุ์",
-    "english": "reproductive age, fertile period",
+    "english": "reproductive age, fertile period, puberty",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -73829,15 +73784,6 @@
     ]
   },
   {
-    "id": "tsl-620",
-    "thai": "ตานขโมย",
-    "english": "(traditional Thai folk term) malnutrition (thought to be caused by a spirit stealing the child's food)",
-    "frequency": "rare",
-    "sources": [
-      "TSL Chiang Mai"
-    ]
-  },
-  {
     "id": "tsl-621",
     "thai": "ป่อง",
     "english": "bloated, swollen",
@@ -74041,7 +73987,7 @@
   {
     "id": "tsl-628",
     "thai": "ความจัญไร",
-    "english": "wickedness, evil, vileness",
+    "english": "wickedness, vileness (very rude)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -74166,7 +74112,7 @@
   {
     "id": "tsl-637",
     "thai": "คลาคล่ำ",
-    "english": "(literary) crowded, swarming with people",
+    "english": "crowded, packed with people (formal, literary)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -74304,7 +74250,7 @@
   {
     "id": "tsl-646",
     "thai": "อิริยาบถ",
-    "english": "(formal) posture, bodily position (the 4 Buddhist postures)",
+    "english": "posture, bodily position, the 4 Buddhist postures (formal)",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
@@ -74428,7 +74374,7 @@
   {
     "id": "thaipod-0006",
     "thai": "กรมการ",
-    "english": "committee, governing body",
+    "english": "departmental officials, administrative officers, governing body (formal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -74585,7 +74531,7 @@
   {
     "id": "thaipod-0017",
     "thai": "กระเช้าลอยฟ้า",
-    "english": "cable car (in sky)",
+    "english": "cable car, gondola",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -75074,7 +75020,7 @@
   {
     "id": "thaipod-0040",
     "thai": "กังขา",
-    "english": "skeptical, doubtful (literary)",
+    "english": "skeptical, doubtful (formal, literary)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -75120,7 +75066,7 @@
   {
     "id": "thaipod-0043",
     "thai": "กัลปังหา",
-    "english": "sea fan coral",
+    "english": "sea fan coral (red type of coral)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -75497,7 +75443,7 @@
   {
     "id": "thaipod-0082",
     "thai": "การออกร้าน",
-    "english": "sale event, booth",
+    "english": "setting up a stall, selling goods at an event",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -75552,15 +75498,6 @@
     ]
   },
   {
-    "id": "thaipod-0086",
-    "thai": "การเป็นทาส",
-    "english": "slavery",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0087",
     "thai": "การเรียงตัว",
     "english": "arrangement, alignment",
@@ -75606,15 +75543,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "thaipod-0091",
-    "thai": "การแตกความสามัคคี",
-    "english": "disunity (literally breaking of unity)",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -75767,7 +75695,7 @@
   {
     "id": "thaipod-0105",
     "thai": "กึกก้อง",
-    "english": "loud, resounding",
+    "english": "loud, resounding, echoing sound",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -76059,7 +75987,7 @@
   {
     "id": "thaipod-0119",
     "thai": "ขนานพระนาม",
-    "english": "to be given a name (royal)",
+    "english": "to bestow a royal name (royal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -76441,7 +76369,7 @@
   {
     "id": "thaipod-0142",
     "thai": "ขุนนาง",
-    "english": "nobility, aristocrat",
+    "english": "noble, aristocrat",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -76826,7 +76754,7 @@
   {
     "id": "thaipod-0160",
     "thai": "ครองราชย์",
-    "english": "to reign, to succeed to the throne",
+    "english": "to reign, to rule as monarch",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -76877,7 +76805,7 @@
   {
     "id": "thaipod-0163",
     "thai": "ครั้งยัง",
-    "english": "\"back when\" (literary)",
+    "english": "\"back when\", \"in the days when\" (literary)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -77148,7 +77076,7 @@
   {
     "id": "thaipod-0181",
     "thai": "ความทารุณ",
-    "english": "cruelty, brutality",
+    "english": "cruelty, brutality (literary)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -77312,7 +77240,7 @@
   {
     "id": "thaipod-0191",
     "thai": "ความสงบร่มเย็น",
-    "english": "peace and tranquility",
+    "english": "peace and tranquility (literary)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -77330,7 +77258,7 @@
   {
     "id": "thaipod-0194",
     "thai": "ความอาฆาต",
-    "english": "vengeance, vindictiveness",
+    "english": "vengeance, vindictiveness (literary)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -77897,15 +77825,6 @@
     ]
   },
   {
-    "id": "thaipod-0227",
-    "thai": "คูเมือง",
-    "english": "city moat",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0229",
     "thai": "ค้างคาว",
     "english": "bat (animal)",
@@ -78334,7 +78253,7 @@
   {
     "id": "thaipod-0254",
     "thai": "จารึก",
-    "english": "to engrave; engraving, inscription",
+    "english": "to engrave, engraving, inscription",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -78460,15 +78379,6 @@
     "thai": "จุดชมทิวทัศน์",
     "english": "viewpoint, scenic spot",
     "frequency": "occasional",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
-    "id": "thaipod-0262",
-    "thai": "จุดปัจจุบัน",
-    "english": "current point, \"these days\"",
-    "frequency": "rare",
     "sources": [
       "Thaipod101"
     ]
@@ -78828,7 +78738,7 @@
   {
     "id": "thaipod-0277",
     "thai": "ชัยภูมิ",
-    "english": "auspicious location, strategically favorable spot",
+    "english": "auspicious location, strategically favorable spot (military)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -79210,7 +79120,7 @@
   {
     "id": "thaipod-0302",
     "thai": "ซุ้มประตู",
-    "english": "arch, archway",
+    "english": "gate arch, entrance arch",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -79384,24 +79294,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "thaipod-0313",
-    "thai": "ดอกบัวบาน",
-    "english": "blooming lotus flowers",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
-    "id": "thaipod-0314",
-    "thai": "ดอกพุทธรักษา",
-    "english": "canna flower (literally \"flower that protects Buddha\")",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -79758,8 +79650,8 @@
   },
   {
     "id": "thaipod-0329",
-    "thai": "ดีดกีตาร์โปร่ง",
-    "english": "to play acoustic guitar",
+    "thai": "กีตาร์โปร่ง",
+    "english": "acoustic guitar",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -80347,8 +80239,8 @@
   },
   {
     "id": "thaipod-0363",
-    "thai": "ตัวโคร่ง",
-    "english": "oversized, large",
+    "thai": "โคร่ง",
+    "english": "oversized, loose-fitting, roomy",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -80698,15 +80590,6 @@
     ]
   },
   {
-    "id": "thaipod-0377",
-    "thai": "ตึกราม",
-    "english": "large buildings",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0378",
     "thai": "ตุ๊กตา",
     "english": "doll",
@@ -80777,15 +80660,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "thaipod-0381",
-    "thai": "ตูม",
-    "english": "bud (flower about to bloom)",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -81182,7 +81056,7 @@
   {
     "id": "thaipod-0400",
     "thai": "ถือศีล",
-    "english": "to observe (Buddhist) precepts",
+    "english": "to observe the Buddhist precepts",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -81247,8 +81121,8 @@
   },
   {
     "id": "thaipod-0408",
-    "thai": "ทรงดอกบัวตูม",
-    "english": "lotus-bud shaped",
+    "thai": "ดอกตูม",
+    "english": "bud (unopened flower)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -81257,7 +81131,7 @@
   {
     "id": "thaipod-0409",
     "thai": "ทรงประกอบ",
-    "english": "to perform (royal)",
+    "english": "to perform, to assemble, to construct (royal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -81275,7 +81149,7 @@
   {
     "id": "thaipod-0411",
     "thai": "ทรงพระนาม",
-    "english": "\"with the royal name\"",
+    "english": "\"with the royal name\", \"is named\" (royal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -81688,7 +81562,7 @@
   {
     "id": "thaipod-0439",
     "thai": "ทางราชไมตรี",
-    "english": "diplomatic relations",
+    "english": "diplomatic relations (formal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -82068,7 +81942,7 @@
   {
     "id": "thaipod-0460",
     "thai": "ทุนสร้าง",
-    "english": "production budget (e.g of a film)",
+    "english": "construction cost, production budget (e.g of a film)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -82135,15 +82009,6 @@
     ]
   },
   {
-    "id": "thaipod-0463",
-    "thai": "ท่านวด",
-    "english": "massage posture",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0464",
     "thai": "ท่ามกลาง",
     "english": "amid, in the midst of",
@@ -82176,7 +82041,7 @@
   {
     "id": "thaipod-0465",
     "thai": "ท้องทุ่ง",
-    "english": "field, meadow",
+    "english": "open field, meadow",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -82416,7 +82281,7 @@
   {
     "id": "thaipod-0474",
     "thai": "นมัสการ",
-    "english": "to worship, to pay respect (Buddhist)",
+    "english": "to bow in reverence, to pay respect (e.g to a monk)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -82580,15 +82445,6 @@
     ]
   },
   {
-    "id": "thaipod-0484",
-    "thai": "นางเอกวัยรุ่น",
-    "english": "teen heroine, young female lead",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0485",
     "thai": "นกนางแอ่น",
     "english": "swallow (bird)",
@@ -82600,7 +82456,7 @@
   {
     "id": "thaipod-0486",
     "thai": "นาฏศิลป์",
-    "english": "performing arts (traditional Thai dance and theater)",
+    "english": "dramatic arts, performing arts (traditional Thai dance and theater)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -83309,18 +83165,9 @@
     ]
   },
   {
-    "id": "thaipod-0520",
-    "thai": "บันไดนาค",
-    "english": "Naga staircase (decorative staircase with serpent motifs)",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0521",
     "thai": "บั้งไฟ",
-    "english": "rocket (traditional Thai gunpowder rocket, especially in Isan festivals)",
+    "english": "traditional homemade rocket (traditional Thai gunpowder rocket, especially in Isan festivals)",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -83654,15 +83501,6 @@
     ]
   },
   {
-    "id": "thaipod-0538",
-    "thai": "ปกนิตยสาร",
-    "english": "magazine cover",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0540",
     "thai": "ปฏิทินสากล",
     "english": "Gregorian (international) calendar",
@@ -83806,7 +83644,7 @@
   {
     "id": "thaipod-0550",
     "thai": "ประชัน",
-    "english": "to compete, competition, contest",
+    "english": "to compete (e.g face to face), competition, contest",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -83880,7 +83718,7 @@
   {
     "id": "thaipod-0553",
     "thai": "ประดับประดา",
-    "english": "to decorate elaborately",
+    "english": "to decorate elaborately, to adorn",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -83937,7 +83775,7 @@
   {
     "id": "thaipod-0557",
     "thai": "ประทับ",
-    "english": "to live, to reside (royal)",
+    "english": "to stamp, to seal; to sit, to reside (royal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -84009,7 +83847,7 @@
   {
     "id": "thaipod-0562",
     "thai": "ประสูติ",
-    "english": "to be born (royal); royal birth",
+    "english": "to be born (royal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -84133,7 +83971,7 @@
   {
     "id": "thaipod-0569",
     "thai": "ปราบ, ปราบปราม",
-    "english": "to suppress, subdue, quell (an uprising)",
+    "english": "to suppress, to subdue, to quell (e.g uprising, enemies)",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -84358,15 +84196,6 @@
     ]
   },
   {
-    "id": "thaipod-0581",
-    "thai": "ปะการังกัลปังหา",
-    "english": "brain coral (specific type of coral that resembles a brain)",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0584",
     "thai": "ปัจจุบัน",
     "english": "present, current",
@@ -84466,7 +84295,7 @@
   {
     "id": "thaipod-0589",
     "thai": "ปางสมาธิ",
-    "english": "meditation posture (Buddha image)",
+    "english": "Buddha posture of meditation (sitting Buddha in meditation pose)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -84505,7 +84334,7 @@
   {
     "id": "thaipod-0591",
     "thai": "ปีชง",
-    "english": "inauspicious year (Thai-Chinese astrology)",
+    "english": "inauspicious year, unlucky zodiac year (Thai-Chinese astrology)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -84575,15 +84404,6 @@
     ]
   },
   {
-    "id": "thaipod-0594",
-    "thai": "ปูนเคลือบทอง",
-    "english": "gold-coated plaster",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0595",
     "thai": "ป่าดงดิบ",
     "english": "dense forest, jungle, rainforest",
@@ -84591,15 +84411,6 @@
     "sources": [
       "Thaipod101",
       "YouTube"
-    ]
-  },
-  {
-    "id": "thaipod-0596",
-    "thai": "ป่าดงดิบชื้น",
-    "english": "humid rainforest",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -84623,7 +84434,7 @@
   {
     "id": "thaipod-0600",
     "thai": "ป่าผลัดใบ",
-    "english": "deciduous forest",
+    "english": "deciduous forest (forest where trees shed leaves seasonally)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -84633,24 +84444,6 @@
     "id": "thaipod-0601",
     "thai": "ป่าเขตร้อน",
     "english": "tropical rainforest",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
-    "id": "thaipod-0602",
-    "thai": "ป่าเบญจพรรณ",
-    "english": "mixed deciduous forest",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
-    "id": "thaipod-0603",
-    "thai": "ป่าโปร่ง",
-    "english": "sparse (open) forest",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -84869,7 +84662,7 @@
   {
     "id": "thaipod-0610",
     "thai": "ผาดโผน",
-    "english": "adventurous, daring, risky",
+    "english": "daring, adventurous, bold (e.g risky actions)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -85002,7 +84795,7 @@
   {
     "id": "thaipod-0618",
     "thai": "ผู้บุกเบิก",
-    "english": "pioneer",
+    "english": "pioneer, innovator",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -85077,7 +84870,7 @@
   {
     "id": "thaipod-0624",
     "thai": "ผู้แสดงประกอบชาย",
-    "english": "supporting actor",
+    "english": "supporting actor (male)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -85567,7 +85360,7 @@
   {
     "id": "thaipod-0645",
     "thai": "พรรษา",
-    "english": "rainy season; age (royal); year of monastic life",
+    "english": "Buddhist \"rain retreat\" period (3-month during rainy season); number of years of monastic life (in monkhood)",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -85709,7 +85502,7 @@
   {
     "id": "thaipod-0656",
     "thai": "พระนคร",
-    "english": "city, capital (royal/old)",
+    "english": "royal city, capital (formal)",
     "frequency": "rare",
     "sources": [
       "Thaipod101",
@@ -85757,7 +85550,7 @@
   {
     "id": "thaipod-0662",
     "thai": "พระบรมอัฐิ",
-    "english": "royal relics (bones)",
+    "english": "royal ashes, cremated remains of a king or high-ranking royal",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
