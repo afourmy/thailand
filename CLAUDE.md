@@ -29,6 +29,6 @@ Process:
 
 Detection caveats learned the hard way: whisper exact-match comparison is useless for Thai (~84% false positives from homophone spellings, loanwords transcribed in Latin script, digits); Azure's Pronunciation Assessment API cannot detect these errors (it uses the same broken segmenter, and scored the bad milk clip *higher* than the fixed one); isolated word clips transcribe too noisily to trust. Differential synthesis is the only reliable detector, and it only catches segmentation errors (not wrong homograph readings).
 
-Fixed so far (2026-07-10): wlt-c21-023 ex1_1 (ทารก‸ดูดนมแม่), tobo-208 ex0_1 (เลีย‸ไอศกรีม) — ‸ marks where the invisible ZWSP sits.
+Fixed so far (2026-07-10): wlt-c21-023 ex1_1 (ทารก‸ดูดนมแม่), tobo-208 ex0_1 (เลีย‸ไอศกรีม), tamago-l12-097 ex0_1 (อย่า‸งอนสิ) — ‸ marks where the invisible ZWSP sits. Note the last one: whisper transcribed the bad clip as the expected string (อย่างอน is the same letters read either way), so only the differential test could detect it.
 
 Tooling note: faster-whisper and pythainlp are not installed globally; create a venv and `pip install faster-whisper pythainlp` (whisper models download on first use).
