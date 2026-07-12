@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6468 words**
+**Total: 6478 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1514,6 +1514,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-502` : พูดได้แบบงูๆปลาๆ (to speak (a language) only a little, not fluently) : 1 meaning(s), 2 sentences
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-504` : พึ่ง, พึ่งพา (to rely on, to depend on) : 1 meaning(s), 2 sentences
+- `tamago-l3-505` : วงจำกัด (limit, limited scope) : 1 meaning(s), 2 sentences
 - `tamago-l3-507` : สดใส (bright, cheerful, lively) : 1 meaning(s), 2 sentences
 - `tamago-l3-508` : มนุษยสัมพันธ์ดี (sociable, with good interpersonal skills) : 1 meaning(s), 2 sentences
 - `tamago-l3-509` : ลัดคิว (to cut in line, to skip the queue) : 1 meaning(s), 2 sentences
@@ -1532,16 +1533,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-525` : ฟ้อง, ฟ้องร้อง (to complain about someone; to sue, to file a lawsuit) : 2 meaning(s), 4 sentences
 - `tamago-l3-526` : สมาธิ (concentration, focus) : 1 meaning(s), 2 sentences
 - `tamago-l3-527` : หาเรื่อง (to pick a fight, to look for trouble) : 1 meaning(s), 2 sentences
+- `tamago-l3-528` : ปรักปรำ (to falsely accuse, to blame someone for something they didn't do) : 1 meaning(s), 2 sentences
 - `tamago-l3-529` : ฟังความข้างเดียว (to listen to just one side of the story) : 1 meaning(s), 2 sentences
 - `tamago-l3-530` : ใส่ร้าย (to slander, to make false damaging statements about someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-531` : เข้าข้าง (to take sides, to side with) : 1 meaning(s), 2 sentences
 - `tamago-l3-532` : เอาผิดกับ (to prosecute, to take legal action against, to hold someone legally accountable) : 1 meaning(s), 2 sentences
+- `tamago-l3-533` : คะยั้นคะยอ (to insist persistently, to urge someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-534` : ยุ่งเรื่องของ... (to meddle in someone's business) : 1 meaning(s), 2 sentences
 - `tamago-l3-535` : ตราบใดที่ (as long as) : 1 meaning(s), 2 sentences
 - `tamago-l3-536` : เสร็จแน่ ("you're in trouble", "you're done for") : 1 meaning(s), 2 sentences
 - `tamago-l3-537` : ปากร้าย (sharp-tongued, insulting, offensive) : 1 meaning(s), 2 sentences
 - `tamago-l3-538` : พอกันที ("that's enough!", "enough is enough", "I've had enough") : 1 meaning(s), 2 sentences
 - `tamago-l3-539` : ถึงจะอย่างนั้นก็เถอะ ("even so!", "even then") : 1 meaning(s), 2 sentences
+- `tamago-l3-540` : ตอแย (to persistently bother, to pester) : 1 meaning(s), 2 sentences
 - `tamago-l3-542` : สำนึกผิด (to repent, to feel remorse for one's wrongdoing) : 1 meaning(s), 2 sentences
 - `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences
 - `tamago-l3-545` : พิสูจน์ตัวเอง (to prove oneself) : 1 meaning(s), 2 sentences
@@ -1560,6 +1564,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-560` : สู้ตาย ("I'll do my best", "fight to the death") : 1 meaning(s), 2 sentences
 - `tamago-l3-561` : เจ้าแม่ (queen of, powerful woman; goddess) : 2 meaning(s), 4 sentences
 - `tamago-l3-563` : น้อยหน้า (to feel inferior, less than others) : 1 meaning(s), 2 sentences
+- `tamago-l3-564` : พูดพร่ำทำเพลง (to talk and talk without acting, to waste time talking, to ramble on) : 1 meaning(s), 2 sentences
 - `tamago-l3-565` : อย่าว่ากัน ("don't be mad", "don't take it the wrong way") : 1 meaning(s), 2 sentences
 - `tamago-l3-566` : ซ้ำซากจำเจ (tedious, repetitive and boring) : 1 meaning(s), 2 sentences
 - `tamago-l3-567` : เที่ยวรอบโลก (to travel around the world) : 1 meaning(s), 2 sentences
@@ -1581,6 +1586,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-587` : ค่าบ้าน (rent or mortgage payment) : 1 meaning(s), 2 sentences
 - `tamago-l3-588` : เจ้า (lord, master; particle of endearment before child or pet's name (used by adults)) : 2 meaning(s), 4 sentences
 - `tamago-l3-589` : ไม่เท่าไหร่ (not that much, not really) : 1 meaning(s), 2 sentences
+- `tamago-l3-590` : ตีตนไปก่อนไข้ ((proverb) to worry before something actually happens) : 1 meaning(s), 2 sentences
 - `tamago-l3-591` : เอาอีกแล้ว ("here we go again") : 1 meaning(s), 2 sentences
 - `tamago-l3-592` : เอ็นดู (to find cute, to be fond of someone in a soft, warm way (often used for children or animals)) : 1 meaning(s), 2 sentences
 - `tamago-l3-593` : รู้สึกขอบคุณ (to feel grateful) : 1 meaning(s), 2 sentences
@@ -1604,6 +1610,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-613` : อยู่ตัว (stable, settled) : 1 meaning(s), 2 sentences
 - `tamago-l3-615` : ความอยู่รอด (survival) : 1 meaning(s), 2 sentences
 - `tamago-l3-616` : โละทิ้ง (to discard, to throw out (e.g unwanted, obsolete things)) : 1 meaning(s), 2 sentences
+- `tamago-l3-617` : ขอชีวิต (to beg for one's life) : 1 meaning(s), 2 sentences
 - `tamago-l3-618` : พูดถึงเรื่อง ("speaking of...", "on the topic of...") : 1 meaning(s), 2 sentences
 - `tamago-l3-619` : มีส่วน, มีส่วนร่วม (to take part in, to be involved in) : 1 meaning(s), 2 sentences
 - `tamago-l3-620` : สุขสบาย (comfortable and happy, at ease) : 1 meaning(s), 2 sentences
@@ -1628,7 +1635,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-645` : บีบคั้น (to pressure emotionally, to oppress) : 1 meaning(s), 2 sentences
 - `tamago-l3-646` : ไม่เต็มใจ (unwilling, reluctant) : 1 meaning(s), 2 sentences
 - `tamago-l3-647` : ล้างบาป (to atone for a sin, to cleanse sin) : 1 meaning(s), 2 sentences
+- `tamago-l3-648` : เล็ดลอด (to slip through, to leak through (light, sound, info)) : 1 meaning(s), 2 sentences
+- `tamago-l3-649` : เปลี่ยนจากหน้ามือเป็นหลังมือ ((idiom) drastic change, complete reversal) : 1 meaning(s), 2 sentences
 - `tamago-l3-650` : จับกลุ่ม (to form a group, to group up) : 1 meaning(s), 2 sentences
+- `tamago-l3-652` : การล่าอาณานิคม (colonization) : 1 meaning(s), 2 sentences
 - `tamago-l3-654` : ความรู้รอบตัว (general knowledge) : 1 meaning(s), 2 sentences
 - `tamago-l3-656` : หัวข้อย่อย (sub-topic) : 1 meaning(s), 2 sentences
 - `tamago-l3-657` : ซ้อม (to rehearse, to practice) : 1 meaning(s), 2 sentences
