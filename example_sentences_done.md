@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6368 words**
+**Total: 6378 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -395,7 +395,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-104` : ร้องเรียน (to file a complaint, to report a problem) : 1 meaning(s), 2 sentences
 - `chula-l6-105` : ร้องทุกข์ (to file a complaint about a hardship, suffering) : 1 meaning(s), 2 sentences
 - `chula-l6-108` : แขวง (subdistrict in Bangkok; zone, section) : 2 meaning(s), 4 sentences
+- `chula-l6-109` : รถแบ็กโฮ (backhoe excavator (used for lifting or digging soil)) : 1 meaning(s), 2 sentences
 - `chula-l6-110` : สัญจร (to travel, to circulate, to commute) : 1 meaning(s), 2 sentences
+- `chula-l6-112` : การสูบน้ำ (water pumping) : 1 meaning(s), 2 sentences
 - `chula-l6-113` : สมุนไพร (herb) : 1 meaning(s), 2 sentences
 - `chula-l6-114` : รับปาก (to promise, to give one's word) : 1 meaning(s), 2 sentences
 - `chula-l6-116` : ที่พึ่ง (support, refuge, source of help, someone you can rely on) : 1 meaning(s), 2 sentences
@@ -405,14 +407,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-122` : ผู้ประท้วง (protesters) : 1 meaning(s), 2 sentences
 - `chula-l6-123` : ชุมนุม (to rally, to gather, to assemble) : 1 meaning(s), 2 sentences
 - `chula-l6-125` : กว้างขวาง (spacious, large; (figuratively) extensive, broad) : 2 meaning(s), 4 sentences
+- `chula-l6-126` : คละคลุ้ง (to stink, to spread or linger in the air (e.g smell)) : 1 meaning(s), 2 sentences
 - `chula-l6-127` : หน่วยงาน (agency, department) : 1 meaning(s), 2 sentences
 - `chula-l6-128` : เรื้อรัง (chronic, persistent, long-standing) : 1 meaning(s), 2 sentences
 - `chula-l6-129` : น่ารังเกียจ (disgusting, despicable, repulsive) : 1 meaning(s), 2 sentences
+- `chula-l6-130` : แผ่ว (weak, faint, soft, to weaken, to fade) : 1 meaning(s), 2 sentences
+- `chula-l6-131` : เป็นทุนเดิม (to begin with, originally (to already be that way by nature)) : 1 meaning(s), 2 sentences
+- `chula-l6-132` : รสฝาด (astringent taste (dry, puckering feeling in the mouth)) : 1 meaning(s), 2 sentences
 - `chula-l6-133` : จัดจ้าน (strong, intense, bold (e.g taste of food, or personality)) : 1 meaning(s), 2 sentences
 - `chula-l6-134` : เครื่องเทศ (seasoning spices) : 1 meaning(s), 2 sentences
 - `chula-l6-135` : เอกลักษณ์ (distinctive identity, unique characteristic) : 1 meaning(s), 2 sentences
 - `chula-l6-136` : เฉพาะตัว (singular, of its own, distinctive) : 1 meaning(s), 2 sentences
+- `chula-l6-137` : วันเพ็ญ (full moon day) : 1 meaning(s), 2 sentences
+- `chula-l6-138` : ตลิ่ง (riverbank, embankment) : 1 meaning(s), 2 sentences
+- `chula-l6-139` : การประปา (waterworks, water supply system) : 1 meaning(s), 2 sentences
 - `chula-l6-140` : เงียบกริบ (completely silent, dead quiet) : 1 meaning(s), 2 sentences
+- `chula-l6-141` : มืดตึ๊ดตื๋อ (pitch dark, extremely dark) : 1 meaning(s), 2 sentences
 - `chula-l6-142` : หวั่น (fearful, worried, anxious) : 1 meaning(s), 2 sentences
 - `chula-l6-147` : วอน, อ้อนวอน (to plead for, beg for, implore) : 1 meaning(s), 2 sentences
 - `chula-l6-151` : ตำ (to pound (with pestle and mortar)) : 1 meaning(s), 2 sentences
