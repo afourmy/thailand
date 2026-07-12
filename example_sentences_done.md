@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6585 words**
+**Total: 6595 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2314,15 +2314,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0062` : การบอกเล่า (narration, reporting (orally)) : 1 meaning(s), 2 sentences
 - `thaipod-0063` : การบูรณะซ่อมแซม (restoration and repair) : 1 meaning(s), 2 sentences
 - `thaipod-0066` : การประกวด (competition, contest) : 1 meaning(s), 2 sentences
+- `thaipod-0067` : การปลูกข้าว (rice cultivation) : 1 meaning(s), 2 sentences
 - `thaipod-0068` : การผสมผสาน (combination, blending) : 1 meaning(s), 2 sentences
 - `thaipod-0069` : การฝึกอบรม (training) : 1 meaning(s), 2 sentences
+- `thaipod-0070` : การพลีชีพ (martyrdom, sacrifice) : 1 meaning(s), 2 sentences
 - `thaipod-0074` : การยอมรับ (acceptance, recognition) : 1 meaning(s), 2 sentences
+- `thaipod-0075` : การยื่นอุทธรณ์ (filing an appeal (legal)) : 1 meaning(s), 2 sentences
+- `thaipod-0077` : การสร้างกุศล (performing good deeds, merit-making) : 1 meaning(s), 2 sentences
+- `thaipod-0081` : การส่องสัตว์ (animal watching, animal spotting) : 1 meaning(s), 2 sentences
+- `thaipod-0082` : การออกร้าน (setting up a stall, selling goods at an event) : 1 meaning(s), 2 sentences
+- `thaipod-0084` : การเซิ้ง (traditional Isan folk dance) : 1 meaning(s), 2 sentences
 - `thaipod-0085` : การเปิดใช้ (activation, putting into use) : 1 meaning(s), 2 sentences
+- `thaipod-0087` : การเรียงตัว (arrangement, alignment) : 1 meaning(s), 2 sentences
+- `thaipod-0088` : การเล่าต่อๆ กันมา (recounting, retelling, oral tradition passed down) : 1 meaning(s), 2 sentences
 - `thaipod-0089` : การเล่าเรื่อง (storytelling) : 1 meaning(s), 2 sentences
 - `thaipod-0093` : การแสดง (performance, acting) : 1 meaning(s), 2 sentences
 - `thaipod-0099` : กำลังกาย (physical strength) : 1 meaning(s), 2 sentences
 - `thaipod-0100` : กำหนด (to determine, to set, to specify) : 1 meaning(s), 2 sentences
 - `thaipod-0101` : กำหนดขึ้น (established, set up) : 1 meaning(s), 2 sentences
+- `thaipod-0102` : กิจการระหว่างประเทศ (international affairs) : 1 meaning(s), 2 sentences
 - `thaipod-0107` : ก็ว่าได้ ("you could say that...", "one could say", "roughly speaking") : 1 meaning(s), 2 sentences
 - `thaipod-0108` : ก่อ (to form, to produce, to cause) : 1 meaning(s), 2 sentences
 - `thaipod-0109` : ก่อตั้ง (to found, to establish) : 1 meaning(s), 2 sentences
