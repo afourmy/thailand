@@ -133,6 +133,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "acid reflux (GERD)",
+        "sentences": [
+          {
+            "thai": "กินเสร็จแล้วอย่าเพิ่งนอน เดี๋ยวเป็นกรดไหลย้อน",
+            "en": "Don't lie down right after eating, you'll get acid reflux.",
+            "audio_src": "กินเสร็จแล้วอย่าเพิ่งนอน เดี๋ยวเป็นกรดไหลย้อน",
+            "audio_en_src": "Don't lie down right after eating, you'll get acid reflux."
+          },
+          {
+            "thai": "หมอบอกว่าฉันเป็นโรคกรดไหลย้อน",
+            "en": "The doctor said I have acid reflux.",
+            "audio_src": "หมอบอกว่าฉันเป็นโรคกรดไหลย้อน",
+            "audio_en_src": "The doctor said I have acid reflux."
+          }
+        ]
+      }
     ]
   },
   {
@@ -446,6 +465,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "phlegm, thick mucus",
+        "sentences": [
+          {
+            "thai": "ไอมีเสมหะมาหลายวันแล้ว",
+            "en": "I've had a cough with phlegm for days now.",
+            "audio_src": "ไอมีเสมหะมาหลายวันแล้ว",
+            "audio_en_src": "I've had a cough with phlegm for days now."
+          },
+          {
+            "thai": "ยาตัวนี้ช่วยละลายเสมหะ",
+            "en": "This medicine helps loosen phlegm.",
+            "audio_src": "ยาตัวนี้ช่วยละลายเสมหะ",
+            "audio_en_src": "This medicine helps loosen phlegm."
+          }
+        ]
+      }
     ]
   },
   {
@@ -513,6 +551,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "feces",
+        "sentences": [
+          {
+            "thai": "หมอให้เก็บอุจจาระไปตรวจ",
+            "en": "The doctor asked me to collect a stool sample for testing.",
+            "audio_src": "หมอให้เก็บอุจจาระไปตรวจ",
+            "audio_en_src": "The doctor asked me to collect a stool sample for testing."
+          },
+          {
+            "thai": "ถ้าอุจจาระมีเลือดปนต้องรีบไปหาหมอ",
+            "en": "If there's blood in your stool, see a doctor right away.",
+            "audio_src": "ถ้าอุจจาระมีเลือดปนต้องรีบไปหาหมอ",
+            "audio_en_src": "If there's blood in your stool, see a doctor right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1064,6 +1121,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "royal anthem",
+        "sentences": [
+          {
+            "thai": "โรงหนังเปิดเพลงสรรเสริญพระบารมีก่อนหนังฉาย",
+            "en": "The cinema plays the royal anthem before the movie starts.",
+            "audio_src": "โรงหนังเปิดเพลงสรรเสริญพระบารมีก่อนหนังฉาย",
+            "audio_en_src": "The cinema plays the royal anthem before the movie starts."
+          },
+          {
+            "thai": "ทุกคนยืนขึ้นตอนเพลงสรรเสริญพระบารมีดังขึ้น",
+            "en": "Everyone stands up when the royal anthem starts playing.",
+            "audio_src": "ทุกคนยืนขึ้นตอนเพลงสรรเสริญพระบารมีดังขึ้น",
+            "audio_en_src": "Everyone stands up when the royal anthem starts playing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1075,6 +1151,25 @@
       "Chulalongkorn L4",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "king, monarch (formal)",
+        "sentences": [
+          {
+            "thai": "ประเทศไทยมีพระมหากษัตริย์เป็นประมุข",
+            "en": "Thailand has a king as its head of state.",
+            "audio_src": "ประเทศไทยมีพระมหากษัตริย์เป็นประมุข",
+            "audio_en_src": "Thailand has a king as its head of state."
+          },
+          {
+            "thai": "พระมหากษัตริย์องค์ปัจจุบันของไทยคือรัชกาลที่ 10",
+            "en": "Thailand's current king is Rama X.",
+            "audio_src": "พระมหากษัตริย์องค์ปัจจุบันของไทยคือรัชกาลที่ 10",
+            "audio_en_src": "Thailand's current king is Rama X."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1205,6 +1300,25 @@
       "Chulalongkorn L4",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to worship",
+        "sentences": [
+          {
+            "thai": "เขาจุดธูปบูชาพระทุกเช้า",
+            "en": "He lights incense to worship the Buddha every morning.",
+            "audio_src": "เขาจุดธูปบูชาพระทุกเช้า",
+            "audio_en_src": "He lights incense to worship the Buddha every morning."
+          },
+          {
+            "thai": "ที่บ้านฉันบูชาเจ้าแม่กวนอิม",
+            "en": "My family worships Guanyin.",
+            "audio_src": "ที่บ้านฉันบูชาเจ้าแม่กวนอิม",
+            "audio_en_src": "My family worships Guanyin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1216,6 +1330,25 @@
       "Chulalongkorn L4",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "deity, god",
+        "sentences": [
+          {
+            "thai": "กรีกโบราณมีเทพเจ้าหลายองค์",
+            "en": "The ancient Greeks had many gods.",
+            "audio_src": "กรีกโบราณมีเทพเจ้าหลายองค์",
+            "audio_en_src": "The ancient Greeks had many gods."
+          },
+          {
+            "thai": "คนจีนไหว้เทพเจ้าในวันตรุษจีน",
+            "en": "Chinese people pay respects to the gods at Chinese New Year.",
+            "audio_src": "คนจีนไหว้เทพเจ้าในวันตรุษจีน",
+            "audio_en_src": "Chinese people pay respects to the gods at Chinese New Year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1236,6 +1369,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "incense and candle",
+        "sentences": [
+          {
+            "thai": "อย่าลืมซื้อธูปเทียนไปวัดด้วย",
+            "en": "Don't forget to buy incense and candles to bring to the temple.",
+            "audio_src": "อย่าลืมซื้อธูปเทียนไปวัดด้วย",
+            "audio_en_src": "Don't forget to buy incense and candles to bring to the temple."
+          },
+          {
+            "thai": "จุดธูปเทียนก่อนแล้วค่อยอธิษฐาน",
+            "en": "Light the incense and candles first, then make your wish.",
+            "audio_src": "จุดธูปเทียนก่อนแล้วค่อยอธิษฐาน",
+            "audio_en_src": "Light the incense and candles first, then make your wish."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1518,6 +1670,25 @@
       "Chulalongkorn L4",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "astrology",
+        "sentences": [
+          {
+            "thai": "เขาเชื่อเรื่องโหราศาสตร์มาก ดูดวงทุกเดือน",
+            "en": "He really believes in astrology, he gets his fortune read every month.",
+            "audio_src": "เขาเชื่อเรื่องโหราศาสตร์มาก ดูดวงทุกเดือน",
+            "audio_en_src": "He really believes in astrology, he gets his fortune read every month."
+          },
+          {
+            "thai": "แม่ชอบอ่านคอลัมน์โหราศาสตร์ในนิตยสาร",
+            "en": "Mom likes reading the astrology column in magazines.",
+            "audio_src": "แม่ชอบอ่านคอลัมน์โหราศาสตร์ในนิตยสาร",
+            "audio_en_src": "Mom likes reading the astrology column in magazines."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1527,6 +1698,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "astronomy",
+        "sentences": [
+          {
+            "thai": "ลูกชายชอบดูดาว เลยอยากเรียนดาราศาสตร์",
+            "en": "My son loves stargazing, so he wants to study astronomy.",
+            "audio_src": "ลูกชายชอบดูดาว เลยอยากเรียนดาราศาสตร์",
+            "audio_en_src": "My son loves stargazing, so he wants to study astronomy."
+          },
+          {
+            "thai": "อาจารย์คนนี้สอนดาราศาสตร์อยู่ที่มหาลัย",
+            "en": "This professor teaches astronomy at the university.",
+            "audio_src": "อาจารย์คนนี้สอนดาราศาสตร์อยู่ที่มหาลัย",
+            "audio_en_src": "This professor teaches astronomy at the university."
+          }
+        ]
+      }
     ]
   },
   {

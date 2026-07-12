@@ -2,12 +2,13 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6329 words**
+**Total: 6339 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
 - `chula-l4-003` : ร้ายแรง (serious, severe) : 1 meaning(s), 2 sentences
 - `chula-l4-004` : มื้อ (meal) : 1 meaning(s), 2 sentences
+- `chula-l4-005` : กรดไหลย้อน (acid reflux (GERD)) : 1 meaning(s), 2 sentences
 - `chula-l4-006` : เหตุการณ์ (event, incident) : 1 meaning(s), 2 sentences
 - `chula-l4-007` : เครียด (stressed) : 1 meaning(s), 2 sentences
 - `chula-l4-008` : เอกชน (private, non-governmental) : 1 meaning(s), 2 sentences
@@ -16,8 +17,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-012` : ท้องเสีย (diarrhea, upset stomach) : 1 meaning(s), 2 sentences
 - `chula-l4-013` : สุนัข (dog (polite)) : 1 meaning(s), 2 sentences
 - `chula-l4-014` : เป็นแผล (to have a wound) : 1 meaning(s), 2 sentences
+- `chula-l4-018` : เสมหะ (phlegm, thick mucus) : 1 meaning(s), 2 sentences
 - `chula-l4-019` : เจาะเลือด (to draw blood) : 1 meaning(s), 2 sentences
 - `chula-l4-020` : ไข้หวัดใหญ่ (influenza, flu) : 1 meaning(s), 2 sentences
+- `chula-l4-021` : อุจจาระ (feces) : 1 meaning(s), 2 sentences
 - `chula-l4-022` : ผลตรวจ (test result) : 1 meaning(s), 2 sentences
 - `chula-l4-023` : คลื่นไส้ (nausea) : 1 meaning(s), 2 sentences
 - `chula-l4-024` : เวียนหัว (dizzy, lightheaded) : 1 meaning(s), 2 sentences
@@ -33,9 +36,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-036` : ช่อง (channel; gap, hole; (service) counter, window) : 3 meaning(s), 6 sentences
 - `chula-l4-038` : หุ่นยนต์ (robot) : 1 meaning(s), 2 sentences
 - `chula-l4-039` : เคารพ (to respect) : 1 meaning(s), 2 sentences
+- `chula-l4-040` : เพลงสรรเสริญพระบารมี (royal anthem) : 1 meaning(s), 2 sentences
+- `chula-l4-041` : พระมหากษัตริย์ (king, monarch (formal)) : 1 meaning(s), 2 sentences
 - `chula-l4-045` : วัฒนธรรม (culture) : 1 meaning(s), 2 sentences
 - `chula-l4-046` : ประเพณี (tradition) : 1 meaning(s), 2 sentences
 - `chula-l4-047` : เกี่ยวข้องกับ (related to) : 1 meaning(s), 2 sentences
+- `chula-l4-048` : บูชา (to worship) : 1 meaning(s), 2 sentences
+- `chula-l4-049` : เทพเจ้า (deity, god) : 1 meaning(s), 2 sentences
+- `chula-l4-051` : ธูปเทียน (incense and candle) : 1 meaning(s), 2 sentences
 - `chula-l4-052` : วัสดุ (material) : 1 meaning(s), 2 sentences
 - `chula-l4-054` : เนื้อคู่ (soulmate) : 1 meaning(s), 2 sentences
 - `chula-l4-056` : ทะเลสาบ (lake) : 1 meaning(s), 2 sentences
@@ -43,6 +51,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-063` : ดวง (luck, fortune, fate; classifier for stars, suns, lights) : 2 meaning(s), 4 sentences
 - `chula-l4-064` : ดูดวง (to check one's fortune, to have a horoscope reading) : 1 meaning(s), 2 sentences
 - `chula-l4-065` : ทำนาย (to predict, to foretell) : 1 meaning(s), 2 sentences
+- `chula-l4-066` : โหราศาสตร์ (astrology) : 1 meaning(s), 2 sentences
+- `chula-l4-067` : ดาราศาสตร์ (astronomy) : 1 meaning(s), 2 sentences
 - `chula-l4-069` : แม่น (accurate) : 1 meaning(s), 2 sentences
 - `chula-l4-072` : มุ่งมั่น (determined, focused) : 1 meaning(s), 2 sentences
 - `chula-l4-073` : เอาจริงเอาจัง (to take something seriously, to be diligent) : 1 meaning(s), 2 sentences
