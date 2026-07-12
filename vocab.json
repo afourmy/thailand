@@ -83720,6 +83720,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "field marshal (highest military rank)",
+        "sentences": [
+          {
+            "thai": "จอมพลเป็นยศทหารสูงสุดของไทย",
+            "en": "Field marshal is Thailand's highest military rank.",
+            "audio_src": "จอมพลเป็นยศทหารสูงสุดของไทย",
+            "audio_en_src": "Field marshal is Thailand's highest military rank."
+          },
+          {
+            "thai": "จอมพล ป. เป็นนายกรัฐมนตรีที่ดำรงตำแหน่งนานที่สุด",
+            "en": "Field Marshal Phibun was Thailand's longest-serving prime minister.",
+            "audio_src": "จอมพล ป. เป็นนายกรัฐมนตรีที่ดำรงตำแหน่งนานที่สุด",
+            "audio_en_src": "Field Marshal Phibun was Thailand's longest-serving prime minister."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83729,6 +83748,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "imperialism",
+        "sentences": [
+          {
+            "thai": "ยุคจักรวรรดินิยม ชาติตะวันตกแย่งกันหาอาณานิคม",
+            "en": "In the age of imperialism, Western nations scrambled for colonies.",
+            "audio_src": "ยุคจักรวรรดินิยม ชาติตะวันตกแย่งกันหาอาณานิคม",
+            "audio_en_src": "In the age of imperialism, Western nations scrambled for colonies."
+          },
+          {
+            "thai": "สยามรอดจากจักรวรรดินิยมมาได้อย่างหวุดหวิด",
+            "en": "Siam narrowly escaped imperialism.",
+            "audio_src": "สยามรอดจากจักรวรรดินิยมมาได้อย่างหวุดหวิด",
+            "audio_en_src": "Siam narrowly escaped imperialism."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83841,6 +83879,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to engrave, engraving, inscription",
+        "sentences": [
+          {
+            "thai": "ศิลาจารึกหลักที่หนึ่งเล่าเรื่องเมืองสุโขทัย",
+            "en": "The first stone inscription tells the story of Sukhothai.",
+            "audio_src": "ศิลาจารึกหลักที่หนึ่งเล่าเรื่องเมืองสุโขทัย",
+            "audio_en_src": "The first stone inscription tells the story of Sukhothai."
+          },
+          {
+            "thai": "ชื่อผู้บริจาคถูกจารึกไว้บนกำแพงวัด",
+            "en": "The donors' names are engraved on the temple wall.",
+            "audio_src": "ชื่อผู้บริจาคถูกจารึกไว้บนกำแพงวัด",
+            "audio_en_src": "The donors' names are engraved on the temple wall."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83850,6 +83907,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to spend the rainy season retreat in a monastery (Buddhist practice)",
+        "sentences": [
+          {
+            "thai": "พระใหม่ต้องจำพรรษาที่วัดตลอดสามเดือน",
+            "en": "Newly ordained monks must stay at the temple for the whole three-month retreat.",
+            "audio_src": "พระใหม่ต้องจำพรรษาที่วัดตลอดสามเดือน",
+            "audio_en_src": "Newly ordained monks must stay at the temple for the whole three-month retreat."
+          },
+          {
+            "thai": "หลวงพ่อจำพรรษาอยู่ที่วัดนี้มากว่ายี่สิบปี",
+            "en": "The senior monk has spent the rains retreat at this temple for over twenty years.",
+            "audio_src": "หลวงพ่อจำพรรษาอยู่ที่วัดนี้มากว่ายี่สิบปี",
+            "audio_en_src": "The senior monk has spent the rains retreat at this temple for over twenty years."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83891,6 +83967,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "mural painting",
+        "sentences": [
+          {
+            "thai": "จิตรกรรมฝาผนังในโบสถ์เล่าเรื่องพุทธประวัติ",
+            "en": "The murals in the ordination hall depict the life of the Buddha.",
+            "audio_src": "จิตรกรรมฝาผนังในโบสถ์เล่าเรื่องพุทธประวัติ",
+            "audio_en_src": "The murals in the ordination hall depict the life of the Buddha."
+          },
+          {
+            "thai": "ห้ามใช้แฟลชถ่ายรูปจิตรกรรมฝาผนัง",
+            "en": "Flash photography of the murals is prohibited.",
+            "audio_src": "ห้ามใช้แฟลชถ่ายรูปจิตรกรรมฝาผนัง",
+            "audio_en_src": "Flash photography of the murals is prohibited."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84244,6 +84339,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Java (Indonesia), Javanese",
+        "sentences": [
+          {
+            "thai": "เกาะชวาเป็นเกาะที่มีคนอยู่มากที่สุดในโลก",
+            "en": "Java is the most populous island in the world.",
+            "audio_src": "เกาะชวาเป็นเกาะที่มีคนอยู่มากที่สุดในโลก",
+            "audio_en_src": "Java is the most populous island in the world."
+          },
+          {
+            "thai": "วัฒนธรรมชวามีอิทธิพลต่อวรรณคดีไทยเรื่องอิเหนา",
+            "en": "Javanese culture influenced the Thai literary classic Inao.",
+            "audio_src": "วัฒนธรรมชวามีอิทธิพลต่อวรรณคดีไทยเรื่องอิเหนา",
+            "audio_en_src": "Javanese culture influenced the Thai literary classic Inao."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84253,6 +84367,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "rock ledge, rocky overhang",
+        "sentences": [
+          {
+            "thai": "นกอินทรีทำรังบนชะง่อนหิน",
+            "en": "The eagle nests on a rocky ledge.",
+            "audio_src": "นกอินทรีทำรังบนชะง่อนหิน",
+            "audio_en_src": "The eagle nests on a rocky ledge."
+          },
+          {
+            "thai": "เขานั่งพักอยู่ใต้ชะง่อนหินหลบฝน",
+            "en": "He sheltered from the rain under a rock overhang.",
+            "audio_src": "เขานั่งพักอยู่ใต้ชะง่อนหินหลบฝน",
+            "audio_en_src": "He sheltered from the rain under a rock overhang."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84325,6 +84458,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "auspicious location, strategically favorable spot (military)",
+        "sentences": [
+          {
+            "thai": "อยุธยาตั้งอยู่ในชัยภูมิที่มีแม่น้ำล้อมรอบ",
+            "en": "Ayutthaya sat in a strategic spot surrounded by rivers.",
+            "audio_src": "อยุธยาตั้งอยู่ในชัยภูมิที่มีแม่น้ำล้อมรอบ",
+            "audio_en_src": "Ayutthaya sat in a strategic spot surrounded by rivers."
+          },
+          {
+            "thai": "ร้านนี้อยู่ในชัยภูมิดี ติดทั้งโรงเรียนและตลาด",
+            "en": "This shop is in a prime location, right by both the school and the market.",
+            "audio_src": "ร้านนี้อยู่ในชัยภูมิดี ติดทั้งโรงเรียนและตลาด",
+            "audio_en_src": "This shop is in a prime location, right by both the school and the market."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84460,6 +84612,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "colonists",
+        "sentences": [
+          {
+            "thai": "ชาวอาณานิคมอังกฤษตั้งถิ่นฐานในอเมริกาเหนือ",
+            "en": "British colonists settled in North America.",
+            "audio_src": "ชาวอาณานิคมอังกฤษตั้งถิ่นฐานในอเมริกาเหนือ",
+            "audio_en_src": "British colonists settled in North America."
+          },
+          {
+            "thai": "ชาวอาณานิคมลุกขึ้นต่อต้านเจ้าอาณานิคม",
+            "en": "The colonists rose up against the colonial power.",
+            "audio_src": "ชาวอาณานิคมลุกขึ้นต่อต้านเจ้าอาณานิคม",
+            "audio_en_src": "The colonists rose up against the colonial power."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84536,6 +84707,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "life, existence (literary)",
+        "sentences": [
+          {
+            "thai": "ลูกเสือท่องคำขวัญว่า เสียชีพอย่าเสียสัตย์",
+            "en": "Scouts recite the motto \"better to lose your life than your honor\".",
+            "audio_src": "ลูกเสือท่องคำขวัญว่า เสียชีพอย่าเสียสัตย์",
+            "audio_en_src": "Scouts recite the motto \"better to lose your life than your honor\"."
+          },
+          {
+            "thai": "งูพิษปลิดชีพเหยื่อได้ในไม่กี่นาที",
+            "en": "The venomous snake can end its victim's life in minutes.",
+            "audio_src": "งูพิษปลิดชีพเหยื่อได้ในไม่กี่นาที",
+            "audio_en_src": "The venomous snake can end its victim's life in minutes."
+          }
+        ]
+      }
     ]
   },
   {

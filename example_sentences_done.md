@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6624 words**
+**Total: 6634 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2428,10 +2428,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0241` : งานแสดง (exhibition, show, expo) : 1 meaning(s), 2 sentences
 - `thaipod-0242` : จนจบ (until the end) : 1 meaning(s), 2 sentences
 - `thaipod-0243` : จนป่านนี้ (up until now) : 1 meaning(s), 2 sentences
+- `thaipod-0244` : จอมพล (field marshal (highest military rank)) : 1 meaning(s), 2 sentences
+- `thaipod-0245` : จักรวรรดินิยม (imperialism) : 1 meaning(s), 2 sentences
 - `thaipod-0247` : จัดการ (to manage, to arrange, to handle) : 1 meaning(s), 2 sentences
 - `thaipod-0250` : ถือได้ว่า, จัดได้ว่า ("can be considered", "can be regarded as") : 1 meaning(s), 2 sentences
 - `thaipod-0253` : จาง (to fade, to pale) : 1 meaning(s), 2 sentences
+- `thaipod-0254` : จารึก (to engrave, engraving, inscription) : 1 meaning(s), 2 sentences
+- `thaipod-0255` : จำพรรษา (to spend the rainy season retreat in a monastery (Buddhist practice)) : 1 meaning(s), 2 sentences
 - `thaipod-0256` : จำลอง (to replicate, to simulate, replica) : 1 meaning(s), 2 sentences
+- `thaipod-0257` : จิตรกรรมฝาผนัง (mural painting) : 1 meaning(s), 2 sentences
 - `thaipod-0258` : วิญญาณ, จิตวิญญาณ (spirit, soul) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
 - `thaipod-0263` : จุดหมาย (destination, goal) : 1 meaning(s), 2 sentences
@@ -2442,14 +2447,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0270` : ชนชาติ, เชื้อชาติ, ชาติพันธุ์ (race, ethnicity) : 1 meaning(s), 2 sentences
 - `thaipod-0271` : ชนิด (kind, type) : 1 meaning(s), 2 sentences
 - `thaipod-0272` : ชม (to admire, to compliment; to view (formal)) : 2 meaning(s), 4 sentences
+- `thaipod-0273` : ชวา (Java (Indonesia), Javanese) : 1 meaning(s), 2 sentences
+- `thaipod-0274` : ชะง่อนหิน (rock ledge, rocky overhang) : 1 meaning(s), 2 sentences
 - `thaipod-0275` : ชัน (steep) : 1 meaning(s), 2 sentences
 - `thaipod-0276` : ชัยชนะ (victory) : 1 meaning(s), 2 sentences
+- `thaipod-0277` : ชัยภูมิ (auspicious location, strategically favorable spot (military)) : 1 meaning(s), 2 sentences
 - `thaipod-0278` : ชายฝั่ง (coast, coastline) : 1 meaning(s), 2 sentences
 - `thaipod-0279` : ชาว (people (native from), inhabitants of) : 1 meaning(s), 2 sentences
 - `thaipod-0280` : ชาวนา (rice farmer) : 1 meaning(s), 2 sentences
 - `thaipod-0281` : ชาวบ้าน (villagers, locals, ordinary people) : 1 meaning(s), 2 sentences
+- `thaipod-0282` : ชาวอาณานิคม (colonists) : 1 meaning(s), 2 sentences
 - `thaipod-0283` : ชิน (accustomed, used to) : 1 meaning(s), 2 sentences
 - `thaipod-0284` : ชิ้น (piece, item (classifier)) : 1 meaning(s), 2 sentences
+- `thaipod-0285` : ชีพ (life, existence (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0286` : ชี้ (to point, to indicate) : 1 meaning(s), 2 sentences
 - `thaipod-0291` : ช่วงต้น (early period, beginning phase) : 1 meaning(s), 2 sentences
 - `thaipod-0295` : ช่างเถอะ ("forget it", "never mind") : 1 meaning(s), 2 sentences
