@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6546 words**
+**Total: 6555 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2170,6 +2170,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-505` : เมตตากรุณา (kindness and compassion) : 1 meaning(s), 2 sentences
 - `tsl-507` : ผสมพันธุ์ (to mate, to reproduce) : 1 meaning(s), 2 sentences
 - `tsl-508` : เหงือก (gums (mouth); gills (fish)) : 2 meaning(s), 4 sentences
+- `tsl-510` : ต้อนวัว (to herd cattle) : 1 meaning(s), 2 sentences
 - `tsl-511` : แต่เดิม (originally, formerly, in the past) : 1 meaning(s), 2 sentences
 - `tsl-512` : ผิวพรรณ (skin complexion) : 1 meaning(s), 2 sentences
 - `tsl-513` : สูญเสีย (to suffer a loss, to lose (something important)) : 1 meaning(s), 2 sentences
@@ -2180,8 +2181,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-517` : ...ไปก็เท่านั้น ("it's no use doing...", "doing... won't help") : 1 meaning(s), 2 sentences
 - `tsl-518` : การโกงกิน (corruption, embezzlement) : 1 meaning(s), 2 sentences
 - `tsl-520` : เยาวชน (youth, young people) : 1 meaning(s), 2 sentences
+- `tsl-524` : พลาง (while, at the same time as, simultaneously (formal, literary)) : 1 meaning(s), 2 sentences
 - `tsl-525` : กาก (residue, leftover, dregs; (slang) loser, worthless) : 2 meaning(s), 4 sentences
 - `tsl-526` : สม่ำเสมอ (regular, consistent, steady) : 1 meaning(s), 2 sentences
+- `tsl-528` : บ้านอุปถัมภ์ (foster home) : 1 meaning(s), 2 sentences
 - `tsl-530` : แผ่ (to spread, to extend, to diffuse) : 1 meaning(s), 2 sentences
 - `tsl-531` : ลาด (slope, inclined; to pave, to cover a surface) : 2 meaning(s), 4 sentences
 - `tsl-533` : มีหน้ามีตา ((idiom) to have status, to be well-regarded, have a good reputation) : 1 meaning(s), 2 sentences
@@ -2192,6 +2195,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-538` : รายรับ (income) : 1 meaning(s), 2 sentences
 - `tsl-539` : ขอแสดงความเสียใจด้วย ("my condolences") : 1 meaning(s), 2 sentences
 - `tsl-541` : อาหารว่าง, ของว่าง (snacks, light food) : 1 meaning(s), 2 sentences
+- `tsl-542` : ขบเคี้ยว (to crunch, to chew on snacks) : 1 meaning(s), 2 sentences
 - `tsl-543` : ขจัด (to eliminate, to get rid of, to eradicate) : 1 meaning(s), 2 sentences
 - `tsl-544` : คราบ (stain, mark) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
@@ -2200,17 +2204,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-551` : ย่น (wrinkled, shrunken, shortened) : 1 meaning(s), 2 sentences
 - `tsl-553` : ขวาง (to obstruct, to block; across, lateral) : 2 meaning(s), 4 sentences
 - `tsl-555` : ซี่ (classifier for thin bar-like things (teeth, ribs, cage bars)) : 1 meaning(s), 2 sentences
+- `tsl-556` : กะเหรี่ยงคอยาว (Long-Neck Karen (Padaung ethnic group)) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
 - `tsl-558` : ด้าย, เส้นด้าย (thread, string) : 1 meaning(s), 2 sentences
+- `tsl-559` : คำวิเศษณ์ (adverb (grammar)) : 1 meaning(s), 2 sentences
 - `tsl-560` : โดยสิ้นเชิง (completely, entirely, utterly) : 1 meaning(s), 2 sentences
 - `tsl-561` : ผู้ต้องหา (suspect (legal)) : 1 meaning(s), 2 sentences
 - `tsl-562` : พระภิกษุ (monk (formal)) : 1 meaning(s), 2 sentences
 - `tsl-563` : ฉัน (I; to eat (monks' usage); like, as) : 3 meaning(s), 6 sentences
 - `tsl-564` : สังเกตการณ์ (to observe, to monitor) : 1 meaning(s), 2 sentences
 - `tsl-567` : เห็นต่าง (to disagree, to see things differently) : 1 meaning(s), 2 sentences
+- `tsl-568` : หรรษา (joy, delight, pleasure (formal, literary)) : 1 meaning(s), 2 sentences
 - `tsl-571` : คอขวด (bottleneck) : 1 meaning(s), 2 sentences
+- `tsl-572` : คำสันธาน (conjunction (grammar)) : 1 meaning(s), 2 sentences
 - `tsl-576` : หายนะ (disaster, ruin, catastrophe) : 1 meaning(s), 2 sentences
 - `tsl-577` : พูดเกินจริง (to exaggerate) : 1 meaning(s), 2 sentences
+- `tsl-578` : สังเคราะห์แสง (photosynthesis) : 1 meaning(s), 2 sentences
 - `tsl-579` : สังเคราะห์ (synthetic, to synthesize) : 1 meaning(s), 2 sentences
 - `tsl-580` : คาย (to discharge, to emit, to secrete) : 1 meaning(s), 2 sentences
 - `tsl-581` : กระบองเพชร (cactus) : 1 meaning(s), 2 sentences

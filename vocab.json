@@ -75365,6 +75365,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to herd cattle",
+        "sentences": [
+          {
+            "thai": "เด็กเลี้ยงวัวต้อนวัวกลับเข้าคอกตอนเย็น",
+            "en": "The cowherd drives the cattle back into the pen in the evening.",
+            "audio_src": "เด็กเลี้ยงวัวต้อนวัวกลับเข้าคอกตอนเย็น",
+            "audio_en_src": "The cowherd drives the cattle back into the pen in the evening."
+          },
+          {
+            "thai": "เขาขี่ม้าต้อนวัวเหมือนคาวบอย",
+            "en": "He herds cattle on horseback like a cowboy.",
+            "audio_src": "เขาขี่ม้าต้อนวัวเหมือนคาวบอย",
+            "audio_en_src": "He herds cattle on horseback like a cowboy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75708,6 +75727,25 @@
       "TSL Chiang Mai",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "while, at the same time as, simultaneously (formal, literary)",
+        "sentences": [
+          {
+            "thai": "เขาเดินพลางคิดพลางไปตลอดทาง",
+            "en": "He walked along, thinking as he went.",
+            "audio_src": "เขาเดินพลางคิดพลางไปตลอดทาง",
+            "audio_en_src": "He walked along, thinking as he went."
+          },
+          {
+            "thai": "แม่ร้องเพลงพลางทำกับข้าวพลาง",
+            "en": "Mom sang while she cooked.",
+            "audio_src": "แม่ร้องเพลงพลางทำกับข้าวพลาง",
+            "audio_en_src": "Mom sang while she cooked."
+          }
+        ]
+      }
     ]
   },
   {
@@ -75807,6 +75845,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "foster home",
+        "sentences": [
+          {
+            "thai": "เด็กกำพร้าถูกส่งไปอยู่บ้านอุปถัมภ์",
+            "en": "The orphan was sent to a foster home.",
+            "audio_src": "เด็กกำพร้าถูกส่งไปอยู่บ้านอุปถัมภ์",
+            "audio_en_src": "The orphan was sent to a foster home."
+          },
+          {
+            "thai": "บ้านอุปถัมภ์แห่งนี้ดูแลเด็กมากกว่า 30 คน",
+            "en": "This foster home cares for more than 30 children.",
+            "audio_src": "บ้านอุปถัมภ์แห่งนี้ดูแลเด็กมากกว่า 30 คน",
+            "audio_en_src": "This foster home cares for more than 30 children."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76147,6 +76204,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to crunch, to chew on snacks",
+        "sentences": [
+          {
+            "thai": "ระหว่างดูหนัง เขาซื้อของขบเคี้ยวมาเต็มโต๊ะ",
+            "en": "For the movie, he bought a whole table of snacks.",
+            "audio_src": "ระหว่างดูหนัง เขาซื้อของขบเคี้ยวมาเต็มโต๊ะ",
+            "audio_en_src": "For the movie, he bought a whole table of snacks."
+          },
+          {
+            "thai": "เมล็ดทานตะวันเอาไว้ขบเคี้ยวเล่นๆ",
+            "en": "Sunflower seeds are for munching on.",
+            "audio_src": "เมล็ดทานตะวันเอาไว้ขบเคี้ยวเล่นๆ",
+            "audio_en_src": "Sunflower seeds are for munching on."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76293,15 +76369,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "tsl-549",
-    "thai": "พยูน",
-    "english": "dugong (marine mammal)",
-    "frequency": "rare",
-    "sources": [
-      "TSL Chiang Mai"
     ]
   },
   {
@@ -76469,6 +76536,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "Long-Neck Karen (Padaung ethnic group)",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวไปเยี่ยมหมู่บ้านกะเหรี่ยงคอยาวที่แม่ฮ่องสอน",
+            "en": "Tourists visit the Long-Neck Karen village in Mae Hong Son.",
+            "audio_src": "นักท่องเที่ยวไปเยี่ยมหมู่บ้านกะเหรี่ยงคอยาวที่แม่ฮ่องสอน",
+            "audio_en_src": "Tourists visit the Long-Neck Karen village in Mae Hong Son."
+          },
+          {
+            "thai": "ผู้หญิงกะเหรี่ยงคอยาวใส่ห่วงทองเหลืองที่คอ",
+            "en": "Long-Neck Karen women wear brass rings around their necks.",
+            "audio_src": "ผู้หญิงกะเหรี่ยงคอยาวใส่ห่วงทองเหลืองที่คอ",
+            "audio_en_src": "Long-Neck Karen women wear brass rings around their necks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76562,6 +76648,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "adverb (grammar)",
+        "sentences": [
+          {
+            "thai": "คำว่า \"เร็ว\" ในประโยคนี้เป็นคำวิเศษณ์",
+            "en": "The word \"fast\" in this sentence is an adverb.",
+            "audio_src": "คำว่า \"เร็ว\" ในประโยคนี้เป็นคำวิเศษณ์",
+            "audio_en_src": "The word \"fast\" in this sentence is an adverb."
+          },
+          {
+            "thai": "คำวิเศษณ์ช่วยขยายความหมายของกริยา",
+            "en": "Adverbs modify the meaning of verbs.",
+            "audio_src": "คำวิเศษณ์ช่วยขยายความหมายของกริยา",
+            "audio_en_src": "Adverbs modify the meaning of verbs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76789,6 +76894,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "joy, delight, pleasure (formal, literary)",
+        "sentences": [
+          {
+            "thai": "เด็กๆ ร้องเล่นกันอย่างหรรษา",
+            "en": "The kids sang and played joyfully.",
+            "audio_src": "เด็กๆ ร้องเล่นกันอย่างหรรษา",
+            "audio_en_src": "The kids sang and played joyfully."
+          },
+          {
+            "thai": "ทริปหรรษาของพวกเราเริ่มต้นแล้ว",
+            "en": "Our fun-filled trip has begun.",
+            "audio_src": "ทริปหรรษาของพวกเราเริ่มต้นแล้ว",
+            "audio_en_src": "Our fun-filled trip has begun."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76840,6 +76964,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "conjunction (grammar)",
+        "sentences": [
+          {
+            "thai": "\"และ\" กับ \"แต่\" เป็นคำสันธาน",
+            "en": "\"And\" and \"but\" are conjunctions.",
+            "audio_src": "\"และ\" กับ \"แต่\" เป็นคำสันธาน",
+            "audio_en_src": "\"And\" and \"but\" are conjunctions."
+          },
+          {
+            "thai": "คำสันธานใช้เชื่อมประโยคสองประโยคเข้าด้วยกัน",
+            "en": "Conjunctions join two sentences together.",
+            "audio_src": "คำสันธานใช้เชื่อมประโยคสองประโยคเข้าด้วยกัน",
+            "audio_en_src": "Conjunctions join two sentences together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -76918,6 +77061,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "photosynthesis",
+        "sentences": [
+          {
+            "thai": "พืชสังเคราะห์แสงเพื่อสร้างอาหาร",
+            "en": "Plants photosynthesize to make food.",
+            "audio_src": "พืชสังเคราะห์แสงเพื่อสร้างอาหาร",
+            "audio_en_src": "Plants photosynthesize to make food."
+          },
+          {
+            "thai": "ใบไม้ต้องการแสงแดดในการสังเคราะห์แสง",
+            "en": "Leaves need sunlight for photosynthesis.",
+            "audio_src": "ใบไม้ต้องการแสงแดดในการสังเคราะห์แสง",
+            "audio_en_src": "Leaves need sunlight for photosynthesis."
+          }
+        ]
+      }
     ]
   },
   {
