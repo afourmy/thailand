@@ -12,6 +12,11 @@ The text spoken is the full field value -- all comma / dash separated forms are
 read -- with any parenthetical "(...)" removed, since parentheses are
 annotations, not pronunciation.
 
+A word may carry an optional "thai_tts" / "english_tts" field: a phonetic
+respelling spoken instead of the display text, for homographs whose isolated
+default reading is wrong (e.g. "พลาว" so เพลา "to lessen" is read plao, not
+phee-laa). It affects synthesis only; the page still shows the normal field.
+
 Credentials come from the environment (see thai/.tts-credentials):
   AZURE_SPEECH_KEY     your Speech resource key
   AZURE_SPEECH_REGION  e.g. southeastasia, eastus
@@ -145,7 +150,7 @@ def main():
             if ok and not args.force:
                 print("skip (exists):", out.name)
             else:
-                spoken = speakable(word.get(cfg["field"], ""))
+                spoken = speakable(word.get(cfg["field"] + "_tts") or word.get(cfg["field"], ""))
                 if not spoken:
                     print("skip (empty %s):" % lc, word["id"])
                     continue

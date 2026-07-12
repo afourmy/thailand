@@ -85956,7 +85956,7 @@
   {
     "id": "thaipod-0707",
     "thai": "พระเชษฐาธิราช",
-    "english": "elder brother who is king; royal elder brother",
+    "english": "elder brother who is king",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
@@ -114247,7 +114247,7 @@
   {
     "id": "yt-c02-027",
     "thai": "ใย",
-    "english": "fiber, filament; to care, be concerned about (literary)",
+    "english": "fiber, filament",
     "frequency": "rare",
     "sources": [
       "YouTube",
@@ -130136,7 +130136,16 @@
   {
     "id": "yt-c11-072",
     "thai": "เพลา",
-    "english": "to lessen, to reduce; time (old-fashioned)",
+    "english": "to lessen, to reduce",
+    "frequency": "rare",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-33",
+    "thai": "เพลา",
+    "english": "time (old-fashioned)",
     "frequency": "rare",
     "sources": [
       "YouTube"
@@ -133788,7 +133797,7 @@
   {
     "id": "yt-c13-071",
     "thai": "ขุนช้าง",
-    "english": "(from Khun Chang Khun Phaen) someone not handsome (bald, fat), very wealthy; can also mean selfish, jealous",
+    "english": "(from Khun Chang Khun Phaen) someone not handsome (bald, fat), very wealthy, selfish, jealous",
     "frequency": "rare",
     "sources": [
       "YouTube"
@@ -145948,7 +145957,7 @@
   {
     "id": "yt-c20-030",
     "thai": "หนอนชาเขียว",
-    "english": "green tea worm; (sexual, slang) micro-penis",
+    "english": "(sexual, slang) micro-penis (literally \"green tea worm\")",
     "frequency": "rare",
     "sources": [
       "YouTube"
