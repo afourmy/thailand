@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6378 words**
+**Total: 6388 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -424,16 +424,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-140` : เงียบกริบ (completely silent, dead quiet) : 1 meaning(s), 2 sentences
 - `chula-l6-141` : มืดตึ๊ดตื๋อ (pitch dark, extremely dark) : 1 meaning(s), 2 sentences
 - `chula-l6-142` : หวั่น (fearful, worried, anxious) : 1 meaning(s), 2 sentences
+- `chula-l6-144` : ผู้สัญจรไปมา (passersby, people passing through) : 1 meaning(s), 2 sentences
+- `chula-l6-145` : น้ำเสีย (wastewater, contaminated water) : 1 meaning(s), 2 sentences
+- `chula-l6-146` : จริงเท็จอย่างไร ("what's true and what's false?", "where is the truth") : 1 meaning(s), 2 sentences
 - `chula-l6-147` : วอน, อ้อนวอน (to plead for, beg for, implore) : 1 meaning(s), 2 sentences
+- `chula-l6-148` : หลังคาเรือน (household) : 1 meaning(s), 2 sentences
+- `chula-l6-149` : เจ้าอาวาส (abbot, head monk, chief of monks) : 1 meaning(s), 2 sentences
+- `chula-l6-150` : ขาวนวล (soft creamy white, pale) : 1 meaning(s), 2 sentences
 - `chula-l6-151` : ตำ (to pound (with pestle and mortar)) : 1 meaning(s), 2 sentences
+- `chula-l6-152` : พอก (to apply as a paste (e.g on body)) : 1 meaning(s), 2 sentences
+- `chula-l6-153` : หนอง (pus; swamp, marsh) : 2 meaning(s), 4 sentences
 - `chula-l6-154` : ชง (to brew) : 1 meaning(s), 2 sentences
 - `chula-l6-156` : หลอดเลือด, เส้นเลือด (blood vessel) : 1 meaning(s), 2 sentences
 - `chula-l6-157` : ผง (powder) : 1 meaning(s), 2 sentences
 - `chula-l6-159` : หมู่ (group, cluster) : 1 meaning(s), 2 sentences
+- `chula-l6-160` : หมองคล้ำ (dull, darkened (usually used negatively, especially about skin complexion)) : 1 meaning(s), 2 sentences
 - `chula-l6-161` : เศษ (fragment, scrap, remnant; fraction of; a bit more, slightly over) : 3 meaning(s), 6 sentences
 - `chula-l6-162` : ว่ากันว่า ("it is said that...", reportedly) : 1 meaning(s), 2 sentences
 - `chula-l6-164` : หลุด (to slip, drop, fall off) : 1 meaning(s), 2 sentences
 - `chula-l6-165` : กระชับ (compact, tight, firm, to tighten, to strengthen) : 1 meaning(s), 2 sentences
+- `chula-l6-166` : รูขุมขน (skin pore (literally "hole of hair follicle")) : 1 meaning(s), 2 sentences
 - `chula-l6-167` : เครื่องสำอาง (cosmetics) : 1 meaning(s), 2 sentences
 - `chula-l6-168` : แปลก, แปลกประหลาด (strange, weird) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences

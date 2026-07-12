@@ -16376,6 +16376,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "passersby, people passing through",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่เตือนผู้สัญจรไปมาให้ระวังถนนลื่น",
+            "en": "Officials warned passersby to watch out for the slippery road.",
+            "audio_src": "เจ้าหน้าที่เตือนผู้สัญจรไปมาให้ระวังถนนลื่น",
+            "audio_en_src": "Officials warned passersby to watch out for the slippery road."
+          },
+          {
+            "thai": "ร้านนี้อยู่ติดถนน มีผู้สัญจรไปมาตลอด",
+            "en": "The shop is right on the road, with people passing by all the time.",
+            "audio_src": "ร้านนี้อยู่ติดถนน มีผู้สัญจรไปมาตลอด",
+            "audio_en_src": "The shop is right on the road, with people passing by all the time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16385,6 +16404,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "wastewater, contaminated water",
+        "sentences": [
+          {
+            "thai": "โรงงานปล่อยน้ำเสียลงแม่น้ำ",
+            "en": "The factory dumps wastewater into the river.",
+            "audio_src": "โรงงานปล่อยน้ำเสียลงแม่น้ำ",
+            "audio_en_src": "The factory dumps wastewater into the river."
+          },
+          {
+            "thai": "กรุงเทพฯ มีโรงบำบัดน้ำเสียหลายแห่ง",
+            "en": "Bangkok has several wastewater treatment plants.",
+            "audio_src": "กรุงเทพฯ มีโรงบำบัดน้ำเสียหลายแห่ง",
+            "audio_en_src": "Bangkok has several wastewater treatment plants."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16394,6 +16432,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "\"what's true and what's false?\", \"where is the truth\"",
+        "sentences": [
+          {
+            "thai": "ข่าวนี้จริงเท็จอย่างไรยังไม่มีใครยืนยัน",
+            "en": "No one has confirmed yet how much of this news is true.",
+            "audio_src": "ข่าวนี้จริงเท็จอย่างไรยังไม่มีใครยืนยัน",
+            "audio_en_src": "No one has confirmed yet how much of this news is true."
+          },
+          {
+            "thai": "อย่าเพิ่งแชร์ ถ้ายังไม่รู้ว่าจริงเท็จอย่างไร",
+            "en": "Don't share it yet if you don't know whether it's true or not.",
+            "audio_src": "อย่าเพิ่งแชร์ ถ้ายังไม่รู้ว่าจริงเท็จอย่างไร",
+            "audio_en_src": "Don't share it yet if you don't know whether it's true or not."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16435,6 +16492,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "household",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านนี้มีอยู่ประมาณ 50 หลังคาเรือน",
+            "en": "This village has about 50 households.",
+            "audio_src": "หมู่บ้านนี้มีอยู่ประมาณ 50 หลังคาเรือน",
+            "audio_en_src": "This village has about 50 households."
+          },
+          {
+            "thai": "ไฟดับกระทบหลายพันหลังคาเรือน",
+            "en": "The power outage affected thousands of households.",
+            "audio_src": "ไฟดับกระทบหลายพันหลังคาเรือน",
+            "audio_en_src": "The power outage affected thousands of households."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16444,6 +16520,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "abbot, head monk, chief of monks",
+        "sentences": [
+          {
+            "thai": "เจ้าอาวาสวัดนี้อายุแปดสิบกว่าแล้ว",
+            "en": "The abbot of this temple is over eighty.",
+            "audio_src": "เจ้าอาวาสวัดนี้อายุแปดสิบกว่าแล้ว",
+            "audio_en_src": "The abbot of this temple is over eighty."
+          },
+          {
+            "thai": "ชาวบ้านนิมนต์เจ้าอาวาสมาทำพิธีขึ้นบ้านใหม่",
+            "en": "The villagers invited the abbot to perform the housewarming ceremony.",
+            "audio_src": "ชาวบ้านนิมนต์เจ้าอาวาสมาทำพิธีขึ้นบ้านใหม่",
+            "audio_en_src": "The villagers invited the abbot to perform the housewarming ceremony."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16453,6 +16548,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "soft creamy white, pale",
+        "sentences": [
+          {
+            "thai": "สาวคนนี้ผิวขาวนวล",
+            "en": "This girl has soft, creamy-white skin.",
+            "audio_src": "สาวคนนี้ผิวขาวนวล",
+            "audio_en_src": "This girl has soft, creamy-white skin."
+          },
+          {
+            "thai": "ดอกมะลิสีขาวนวล",
+            "en": "Jasmine flowers are a soft creamy white.",
+            "audio_src": "ดอกมะลิสีขาวนวล",
+            "audio_en_src": "Jasmine flowers are a soft creamy white."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16490,6 +16604,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to apply as a paste (e.g on body)",
+        "sentences": [
+          {
+            "thai": "เธอพอกหน้าด้วยโคลนอาทิตย์ละครั้ง",
+            "en": "She does a mud mask once a week.",
+            "audio_src": "เธอพอกหน้าด้วยโคลนอาทิตย์ละครั้ง",
+            "audio_en_src": "She does a mud mask once a week."
+          },
+          {
+            "thai": "หมอโบราณใช้สมุนไพรพอกแผล",
+            "en": "Traditional healers apply herbal paste to wounds.",
+            "audio_src": "หมอโบราณใช้สมุนไพรพอกแผล",
+            "audio_en_src": "Traditional healers apply herbal paste to wounds."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16500,6 +16633,42 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "pus",
+        "sentences": [
+          {
+            "thai": "แผลเป็นหนอง ต้องไปหาหมอ",
+            "en": "The wound is full of pus, you need to see a doctor.",
+            "audio_src": "แผลเป็นหนอง ต้องไปหาหมอ",
+            "audio_en_src": "The wound is full of pus, you need to see a doctor."
+          },
+          {
+            "thai": "สิวหัวหนองห้ามบีบ",
+            "en": "Don't pop a pus-filled pimple.",
+            "audio_src": "สิวหัวหนองห้ามบีบ",
+            "audio_en_src": "Don't pop a pus-filled pimple."
+          }
+        ]
+      },
+      {
+        "meaning": "swamp, marsh",
+        "sentences": [
+          {
+            "thai": "ควายชอบนอนแช่ในหนองน้ำ",
+            "en": "Buffaloes like to soak in the marsh.",
+            "audio_src": "ควายชอบนอนแช่ในหนองน้ำ",
+            "audio_en_src": "Buffaloes like to soak in the marsh."
+          },
+          {
+            "thai": "เด็กๆ ไปหาปลากันที่หนองน้ำท้ายหมู่บ้าน",
+            "en": "The kids went fishing in the pond at the edge of the village.",
+            "audio_src": "เด็กๆ ไปหาปลากันที่หนองน้ำท้ายหมู่บ้าน",
+            "audio_en_src": "The kids went fishing in the pond at the edge of the village."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16644,6 +16813,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "dull, darkened (usually used negatively, especially about skin complexion)",
+        "sentences": [
+          {
+            "thai": "นอนดึกบ่อยๆ ผิวจะหมองคล้ำ",
+            "en": "Stay up late a lot and your skin will look dull.",
+            "audio_src": "นอนดึกบ่อยๆ ผิวจะหมองคล้ำ",
+            "audio_en_src": "Stay up late a lot and your skin will look dull."
+          },
+          {
+            "thai": "ครีมตัวนี้ช่วยลดผิวหมองคล้ำ",
+            "en": "This cream helps with dull skin.",
+            "audio_src": "ครีมตัวนี้ช่วยลดผิวหมองคล้ำ",
+            "audio_en_src": "This cream helps with dull skin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16824,6 +17012,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "skin pore (literally \"hole of hair follicle\")",
+        "sentences": [
+          {
+            "thai": "ล้างหน้าไม่สะอาด รูขุมขนจะอุดตัน",
+            "en": "If you don't wash your face properly, your pores get clogged.",
+            "audio_src": "ล้างหน้าไม่สะอาด รูขุมขนจะอุดตัน",
+            "audio_en_src": "If you don't wash your face properly, your pores get clogged."
+          },
+          {
+            "thai": "น้ำเย็นช่วยให้รูขุมขนกระชับ",
+            "en": "Cold water helps tighten your pores.",
+            "audio_src": "น้ำเย็นช่วยให้รูขุมขนกระชับ",
+            "audio_en_src": "Cold water helps tighten your pores."
+          }
+        ]
+      }
     ]
   },
   {
