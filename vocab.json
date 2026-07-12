@@ -80722,6 +80722,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "kinnara (mythical bird-man in Buddhist/Hindu mythology)",
+        "sentences": [
+          {
+            "thai": "กินนรเป็นสัตว์ในป่าหิมพานต์",
+            "en": "The kinnara is a creature of the Himmapan forest.",
+            "audio_src": "กินนรเป็นสัตว์ในป่าหิมพานต์",
+            "audio_en_src": "The kinnara is a creature of the Himmapan forest."
+          },
+          {
+            "thai": "จิตรกรรมฝาผนังวัดนี้มีรูปกินนร",
+            "en": "This temple's murals include kinnara figures.",
+            "audio_src": "จิตรกรรมฝาผนังวัดนี้มีรูปกินนร",
+            "audio_en_src": "This temple's murals include kinnara figures."
+          }
+        ]
+      }
     ]
   },
   {
@@ -80731,6 +80750,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "kinnari (mythical bird-woman)",
+        "sentences": [
+          {
+            "thai": "กินรีมีท่อนบนเป็นหญิงสาว ท่อนล่างเป็นนก",
+            "en": "The kinnari has the upper body of a woman and the lower body of a bird.",
+            "audio_src": "กินรีมีท่อนบนเป็นหญิงสาว ท่อนล่างเป็นนก",
+            "audio_en_src": "The kinnari has the upper body of a woman and the lower body of a bird."
+          },
+          {
+            "thai": "ระบำกินรีเป็นการแสดงที่มีชื่อเสียง",
+            "en": "The kinnari dance is a famous performance.",
+            "audio_src": "ระบำกินรีเป็นการแสดงที่มีชื่อเสียง",
+            "audio_en_src": "The kinnari dance is a famous performance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -80740,6 +80778,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "loud, resounding, echoing sound",
+        "sentences": [
+          {
+            "thai": "เสียงปรบมือดังกึกก้องทั้งฮอลล์",
+            "en": "Applause thundered through the hall.",
+            "audio_src": "เสียงปรบมือดังกึกก้องทั้งฮอลล์",
+            "audio_en_src": "Applause thundered through the hall."
+          },
+          {
+            "thai": "เสียงฟ้าร้องกึกก้องไปทั้งหุบเขา",
+            "en": "Thunder echoed across the valley.",
+            "audio_src": "เสียงฟ้าร้องกึกก้องไปทั้งหุบเขา",
+            "audio_en_src": "Thunder echoed across the valley."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81032,6 +81089,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to bestow a royal name (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์ได้รับการขนานพระนามว่า \"มหาราช\"",
+            "en": "He was given the royal title \"the Great\".",
+            "audio_src": "พระองค์ได้รับการขนานพระนามว่า \"มหาราช\"",
+            "audio_en_src": "He was given the royal title \"the Great\"."
+          },
+          {
+            "thai": "พระเจ้าแผ่นดินทรงขนานพระนามให้พระราชโอรสองค์แรก",
+            "en": "The king bestowed a royal name on his firstborn son.",
+            "audio_src": "พระเจ้าแผ่นดินทรงขนานพระนามให้พระราชโอรสองค์แรก",
+            "audio_en_src": "The king bestowed a royal name on his firstborn son."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81276,6 +81352,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to ascend the throne",
+        "sentences": [
+          {
+            "thai": "พระองค์ขึ้นครองราชย์ตั้งแต่พระชนมายุยังน้อย",
+            "en": "He ascended the throne at a young age.",
+            "audio_src": "พระองค์ขึ้นครองราชย์ตั้งแต่พระชนมายุยังน้อย",
+            "audio_en_src": "He ascended the throne at a young age."
+          },
+          {
+            "thai": "ปีนี้ครบรอบ 10 ปีที่ทรงขึ้นครองราชย์",
+            "en": "This year marks the tenth anniversary of his accession to the throne.",
+            "audio_src": "ปีนี้ครบรอบ 10 ปีที่ทรงขึ้นครองราชย์",
+            "audio_en_src": "This year marks the tenth anniversary of his accession to the throne."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81405,6 +81500,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "beam (structural element supporting the roof)",
+        "sentences": [
+          {
+            "thai": "ช่างกำลังวางขื่อหลังคา",
+            "en": "The builders are setting the roof beams.",
+            "audio_src": "ช่างกำลังวางขื่อหลังคา",
+            "audio_en_src": "The builders are setting the roof beams."
+          },
+          {
+            "thai": "บ้านเก่าหลังนี้ขื่อผุหมดแล้ว",
+            "en": "The beams of this old house are all rotten.",
+            "audio_src": "บ้านเก่าหลังนี้ขื่อผุหมดแล้ว",
+            "audio_en_src": "The beams of this old house are all rotten."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81416,6 +81530,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "noble, aristocrat",
+        "sentences": [
+          {
+            "thai": "สมัยอยุธยา ขุนนางมีอำนาจมาก",
+            "en": "In the Ayutthaya period, the nobles held great power.",
+            "audio_src": "สมัยอยุธยา ขุนนางมีอำนาจมาก",
+            "audio_en_src": "In the Ayutthaya period, the nobles held great power."
+          },
+          {
+            "thai": "เขาเกิดในตระกูลขุนนางเก่า",
+            "en": "He was born into an old noble family.",
+            "audio_src": "เขาเกิดในตระกูลขุนนางเก่า",
+            "audio_en_src": "He was born into an old noble family."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81550,6 +81683,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "assumption, supposition (formal)",
+        "sentences": [
+          {
+            "thai": "ตำรวจยังไม่ตัดข้อสันนิษฐานเรื่องการฆาตกรรม",
+            "en": "The police haven't ruled out the possibility of murder.",
+            "audio_src": "ตำรวจยังไม่ตัดข้อสันนิษฐานเรื่องการฆาตกรรม",
+            "audio_en_src": "The police haven't ruled out the possibility of murder."
+          },
+          {
+            "thai": "ข้อสันนิษฐานนี้ยังไม่มีหลักฐานรองรับ",
+            "en": "This hypothesis isn't supported by evidence yet.",
+            "audio_src": "ข้อสันนิษฐานนี้ยังไม่มีหลักฐานรองรับ",
+            "audio_en_src": "This hypothesis isn't supported by evidence yet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81589,6 +81741,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "servant, attendant",
+        "sentences": [
+          {
+            "thai": "ในวัง มีข้ารับใช้คอยดูแลทุกอย่าง",
+            "en": "In the palace, servants take care of everything.",
+            "audio_src": "ในวัง มีข้ารับใช้คอยดูแลทุกอย่าง",
+            "audio_en_src": "In the palace, servants take care of everything."
+          },
+          {
+            "thai": "เขาเป็นข้ารับใช้ที่ซื่อสัตย์ของเจ้านายมาทั้งชีวิต",
+            "en": "He was his master's loyal servant all his life.",
+            "audio_src": "เขาเป็นข้ารับใช้ที่ซื่อสัตย์ของเจ้านายมาทั้งชีวิต",
+            "audio_en_src": "He was his master's loyal servant all his life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81687,6 +81858,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "government administration, cabinet",
+        "sentences": [
+          {
+            "thai": "คณะรัฐบาลชุดใหม่แถลงนโยบายต่อรัฐสภา",
+            "en": "The new administration presented its policies to parliament.",
+            "audio_src": "คณะรัฐบาลชุดใหม่แถลงนโยบายต่อรัฐสภา",
+            "audio_en_src": "The new administration presented its policies to parliament."
+          },
+          {
+            "thai": "คณะรัฐบาลมีมติขึ้นค่าแรงขั้นต่ำ",
+            "en": "The cabinet resolved to raise the minimum wage.",
+            "audio_src": "คณะรัฐบาลมีมติขึ้นค่าแรงขั้นต่ำ",
+            "audio_en_src": "The cabinet resolved to raise the minimum wage."
+          }
+        ]
+      }
     ]
   },
   {

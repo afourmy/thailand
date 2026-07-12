@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6595 words**
+**Total: 6605 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2333,6 +2333,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0100` : กำหนด (to determine, to set, to specify) : 1 meaning(s), 2 sentences
 - `thaipod-0101` : กำหนดขึ้น (established, set up) : 1 meaning(s), 2 sentences
 - `thaipod-0102` : กิจการระหว่างประเทศ (international affairs) : 1 meaning(s), 2 sentences
+- `thaipod-0103` : กินนร (kinnara (mythical bird-man in Buddhist/Hindu mythology)) : 1 meaning(s), 2 sentences
+- `thaipod-0104` : กินรี (kinnari (mythical bird-woman)) : 1 meaning(s), 2 sentences
+- `thaipod-0105` : กึกก้อง (loud, resounding, echoing sound) : 1 meaning(s), 2 sentences
 - `thaipod-0107` : ก็ว่าได้ ("you could say that...", "one could say", "roughly speaking") : 1 meaning(s), 2 sentences
 - `thaipod-0108` : ก่อ (to form, to produce, to cause) : 1 meaning(s), 2 sentences
 - `thaipod-0109` : ก่อตั้ง (to found, to establish) : 1 meaning(s), 2 sentences
@@ -2342,6 +2345,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0115` : ขนบธรรมเนียม (customs, traditions) : 1 meaning(s), 2 sentences
 - `thaipod-0116` : ขนม (dessert, sweet, snack) : 1 meaning(s), 2 sentences
 - `thaipod-0117` : ขนมหวาน (sweet dessert) : 1 meaning(s), 2 sentences
+- `thaipod-0119` : ขนานพระนาม (to bestow a royal name (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0120` : ขบวน (procession, parade) : 1 meaning(s), 2 sentences
 - `thaipod-0121` : ขยาย (to expand, to enlarge) : 1 meaning(s), 2 sentences
 - `thaipod-0124` : ของที่ระลึก (souvenir) : 1 meaning(s), 2 sentences
@@ -2349,17 +2353,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0130` : ขับไล่ (to expel, to drive out, to banish) : 1 meaning(s), 2 sentences
 - `thaipod-0132` : ขั้นตอน (steps, procedure) : 1 meaning(s), 2 sentences
 - `thaipod-0133` : ขาดแคลน (to lack, to be insufficient) : 1 meaning(s), 2 sentences
+- `thaipod-0135` : ขึ้นครองราชย์ (to ascend the throne) : 1 meaning(s), 2 sentences
 - `thaipod-0137` : ขึ้นชื่อ (well-known, famous (for something)) : 1 meaning(s), 2 sentences
 - `thaipod-0138` : ขึ้นบิน (to take off (plane)) : 1 meaning(s), 2 sentences
 - `thaipod-0139` : ขึ้นฝั่ง (to come ashore, to land) : 1 meaning(s), 2 sentences
 - `thaipod-0140` : ขึ้นอยู่กับ (to depend on, to be up to) : 1 meaning(s), 2 sentences
+- `thaipod-0141` : ขื่อ (beam (structural element supporting the roof)) : 1 meaning(s), 2 sentences
+- `thaipod-0142` : ขุนนาง (noble, aristocrat) : 1 meaning(s), 2 sentences
 - `thaipod-0143` : ข่าวดี (good news) : 1 meaning(s), 2 sentences
 - `thaipod-0144` : ข้อบ่งชี้ (indication, indicator, sign) : 1 meaning(s), 2 sentences
 - `thaipod-0145` : ข้อสงสัย (doubt, uncertainty) : 1 meaning(s), 2 sentences
 - `thaipod-0146` : ข้อสรุป (conclusion) : 1 meaning(s), 2 sentences
+- `thaipod-0147` : ข้อสันนิษฐาน (assumption, supposition (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0148` : ข้างทาง (roadside) : 1 meaning(s), 2 sentences
+- `thaipod-0150` : ข้ารับใช้ (servant, attendant) : 1 meaning(s), 2 sentences
 - `thaipod-0151` : คง (probably; to remain, to continue) : 2 meaning(s), 4 sentences
 - `thaipod-0152` : คณะ (group, board, faculty) : 1 meaning(s), 3 sentences
+- `thaipod-0153` : คณะรัฐบาล (government administration, cabinet) : 1 meaning(s), 2 sentences
 - `thaipod-0155` : คนหนุ่มสาว (young people) : 1 meaning(s), 2 sentences
 - `thaipod-0156` : คบ, คบหา (to date, to associate with, to befriend) : 1 meaning(s), 2 sentences
 - `thaipod-0158` : คม (sharp) : 1 meaning(s), 2 sentences
