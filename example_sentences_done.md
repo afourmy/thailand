@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6458 words**
+**Total: 6468 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1315,6 +1315,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-255` : ตกเครื่อง (to miss a flight) : 1 meaning(s), 2 sentences
 - `tamago-l3-256` : บ้างาน (workaholic) : 1 meaning(s), 2 sentences
 - `tamago-l3-257` : ใจจดใจจ่อ (eagerly focused, fully attentive) : 1 meaning(s), 2 sentences
+- `tamago-l3-258` : ขันแข็ง (diligent, hardworking) : 1 meaning(s), 2 sentences
 - `tamago-l3-261` : เลิกรา (to part ways, to break up) : 1 meaning(s), 2 sentences
 - `tamago-l3-262` : ขากลับ (return trip, the way back) : 1 meaning(s), 2 sentences
 - `tamago-l3-263` : มันแน่ ("of course!", "for sure!") : 1 meaning(s), 2 sentences
@@ -1383,6 +1384,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-345` : ช่างมันเถอะ, ช่างเหอะ ("whatever!", "never mind", "forget about it!") : 1 meaning(s), 2 sentences
 - `tamago-l3-346` : ไม่ได้ดั่งใจ ("not as expected", "not going the way one wants", unsatisfactory) : 1 meaning(s), 2 sentences
 - `tamago-l3-347` : ซ้ำๆซากๆ (repeatedly, over and over) : 1 meaning(s), 2 sentences
+- `tamago-l3-348` : นับแต่จากนี้ไป (starting from now on, from this moment onward) : 1 meaning(s), 2 sentences
 - `tamago-l3-350` : หมกตัว (to shut oneself away (in a room)) : 1 meaning(s), 2 sentences
 - `tamago-l3-353` : เสียมารยาท (rude, ill-mannered) : 1 meaning(s), 2 sentences
 - `tamago-l3-354` : อาวุโส (senior, elder) : 1 meaning(s), 2 sentences
@@ -1391,9 +1393,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-357` : รูจมูก (nostril) : 1 meaning(s), 2 sentences
 - `tamago-l3-358` : มั่วๆ (to do something wrong or randomly, messily, haphazardly) : 1 meaning(s), 2 sentences
 - `tamago-l3-359` : ใต้น้ำ - เหนือน้ำ (underwater - above the water) : 2 meaning(s), 4 sentences
+- `tamago-l3-360` : ขี้แพ้ชวนตี ((proverb) a sore loser who picks fights after losing) : 1 meaning(s), 2 sentences
+- `tamago-l3-362` : แผงคอ (mane (of an animal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-363` : ทำคะแนน (to score points) : 1 meaning(s), 2 sentences
+- `tamago-l3-366` : อำพรางตัว (to camouflage, to disguise oneself) : 1 meaning(s), 2 sentences
 - `tamago-l3-367` : ตาบอดสี (colorblind) : 1 meaning(s), 2 sentences
 - `tamago-l3-368` : คิดออก (to figure out, to come up with (an idea)) : 1 meaning(s), 2 sentences
+- `tamago-l3-369` : ตกม้าตายตอนจบ ((expression) to make a blunder at the end and lose, to fall at the last hurdle) : 1 meaning(s), 2 sentences
 - `tamago-l3-370` : โผล่ (to appear, to emerge, to pop up) : 1 meaning(s), 2 sentences
 - `tamago-l3-371` : ของสด (fresh food, raw meat or vegetables) : 1 meaning(s), 2 sentences
 - `tamago-l3-372` : โดยใช่เหตุ (unreasonably, unnecessarily, for no good reason) : 1 meaning(s), 2 sentences
@@ -1434,6 +1440,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-414` : เข้าสังคม (to socialize) : 1 meaning(s), 2 sentences
 - `tamago-l3-415` : ปิดเงียบ (to keep secret, to remain silent about something) : 1 meaning(s), 2 sentences
 - `tamago-l3-416` : ยาหม่อง (Thai mentholated balm (e.g tiger balm)) : 1 meaning(s), 2 sentences
+- `tamago-l3-417` : ยอมทำตามแต่โดยดี (to willingly obey without resistance) : 1 meaning(s), 2 sentences
 - `tamago-l3-418` : ไทยแท้ (authentic Thai, truly Thai) : 1 meaning(s), 2 sentences
 - `tamago-l3-420` : เรืองแสง (to glow, to emit light) : 1 meaning(s), 2 sentences
 - `tamago-l3-421` : จนแล้วจนรอด (in the end, after all, eventually) : 1 meaning(s), 2 sentences
@@ -1443,12 +1450,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-425` : ทางอ้อม (indirectly) : 1 meaning(s), 2 sentences
 - `tamago-l3-428` : ท่า (pose, posture; swimming style) : 2 meaning(s), 4 sentences
 - `tamago-l3-429` : อึ้ง (shocked, speechless, stunned) : 1 meaning(s), 2 sentences
+- `tamago-l3-430` : อัฒจันทร์ (grandstand, bleachers, stadium seating) : 1 meaning(s), 2 sentences
 - `tamago-l3-431` : ถือสา (to take offense, to take something personally) : 1 meaning(s), 2 sentences
 - `tamago-l3-432` : หัวล้าน (bald) : 1 meaning(s), 2 sentences
 - `tamago-l3-433` : กลั้นหายใจ (to hold one's breath) : 1 meaning(s), 2 sentences
 - `tamago-l3-434` : ลืมตา (to open one's eyes) : 1 meaning(s), 2 sentences
 - `tamago-l3-435` : เห็นแก่ตัว (selfish) : 1 meaning(s), 2 sentences
 - `tamago-l3-436` : เชี่ยว (skilled, expert; rapid (of water current)) : 2 meaning(s), 4 sentences
+- `tamago-l3-437` : อุตส่าห์คุยนักคุยหนา (to talk a lot for nothing and not deliver) : 1 meaning(s), 2 sentences
+- `tamago-l3-438` : ชะเง้อ (to crane one's neck to look for something) : 1 meaning(s), 2 sentences
 - `tamago-l3-439` : เพลิน (to be absorbed by, to be lost in, to enjoy, enjoyable, engaging) : 1 meaning(s), 2 sentences
 - `tamago-l3-440` : หุ่น (body shape, body figure) : 1 meaning(s), 2 sentences
 - `tamago-l3-441` : ออกนอกเรื่อง (to go off topic, to digress) : 1 meaning(s), 2 sentences
