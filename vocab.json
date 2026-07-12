@@ -13574,15 +13574,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
-    ]
-  },
-  {
-    "id": "chula-l6-033",
-    "thai": "คำบ่งกรรม (ถูก - โดน)",
-    "english": "passive marker (negative or neutral marker - informal marker)",
-    "frequency": "rare",
-    "sources": [
-      "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "active sentence - passive sentence (grammar)",
+        "sentences": [
+          {
+            "thai": "\"แมวกินปลา\" เป็นประโยคกรรตุ",
+            "en": "\"The cat eats the fish\" is an active sentence.",
+            "audio_src": "\"แมวกินปลา\" เป็นประโยคกรรตุ",
+            "audio_en_src": "\"The cat eats the fish\" is an active sentence."
+          },
+          {
+            "thai": "\"ปลาถูกแมวกิน\" เป็นประโยคกรรม",
+            "en": "\"The fish was eaten by the cat\" is a passive sentence.",
+            "audio_src": "\"ปลาถูกแมวกิน\" เป็นประโยคกรรม",
+            "audio_en_src": "\"The fish was eaten by the cat\" is a passive sentence."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13610,6 +13620,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "bibliography",
+        "sentences": [
+          {
+            "thai": "อย่าลืมใส่บรรณานุกรมท้ายรายงาน",
+            "en": "Don't forget to include a bibliography at the end of your report.",
+            "audio_src": "อย่าลืมใส่บรรณานุกรมท้ายรายงาน",
+            "audio_en_src": "Don't forget to include a bibliography at the end of your report."
+          },
+          {
+            "thai": "อาจารย์ให้เขียนบรรณานุกรมตามรูปแบบ APA",
+            "en": "The professor wants the bibliography in APA format.",
+            "audio_src": "อาจารย์ให้เขียนบรรณานุกรมตามรูปแบบ APA",
+            "audio_en_src": "The professor wants the bibliography in APA format."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13619,6 +13648,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "phrase",
+        "sentences": [
+          {
+            "thai": "ครูให้แต่งประโยคจากวลีที่กำหนด",
+            "en": "The teacher had us make sentences from the given phrases.",
+            "audio_src": "ครูให้แต่งประโยคจากวลีที่กำหนด",
+            "audio_en_src": "The teacher had us make sentences from the given phrases."
+          },
+          {
+            "thai": "วลีนี้แปลตรงตัวไม่ได้",
+            "en": "This phrase can't be translated literally.",
+            "audio_src": "วลีนี้แปลตรงตัวไม่ได้",
+            "audio_en_src": "This phrase can't be translated literally."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14752,6 +14800,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "noun, substantive (grammar)",
+        "sentences": [
+          {
+            "thai": "คำว่า \"บ้าน\" เป็นคำนาม",
+            "en": "The word \"house\" is a noun.",
+            "audio_src": "คำว่า \"บ้าน\" เป็นคำนาม",
+            "audio_en_src": "The word \"house\" is a noun."
+          },
+          {
+            "thai": "คำนามภาษาไทยไม่มีรูปพหูพจน์",
+            "en": "Thai nouns have no plural form.",
+            "audio_src": "คำนามภาษาไทยไม่มีรูปพหูพจน์",
+            "audio_en_src": "Thai nouns have no plural form."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14907,6 +14974,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to swarm around (e.g flies, mosquitoes)",
+        "sentences": [
+          {
+            "thai": "ปิดอาหารด้วย เดี๋ยวแมลงวันตอม",
+            "en": "Cover the food or the flies will get on it.",
+            "audio_src": "ปิดอาหารด้วย เดี๋ยวแมลงวันตอม",
+            "audio_en_src": "Cover the food or the flies will get on it."
+          },
+          {
+            "thai": "ยุงตอมหูทั้งคืน นอนไม่หลับเลย",
+            "en": "Mosquitoes buzzed around my ear all night, I couldn't sleep.",
+            "audio_src": "ยุงตอมหูทั้งคืน นอนไม่หลับเลย",
+            "audio_en_src": "Mosquitoes buzzed around my ear all night, I couldn't sleep."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14974,6 +15060,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "clump (cluster of plants, trees, etc)",
+        "sentences": [
+          {
+            "thai": "หลังบ้านมีกอไผ่ใหญ่",
+            "en": "There's a big clump of bamboo behind the house.",
+            "audio_src": "หลังบ้านมีกอไผ่ใหญ่",
+            "audio_en_src": "There's a big clump of bamboo behind the house."
+          },
+          {
+            "thai": "งูชอบซ่อนอยู่ในกอหญ้า",
+            "en": "Snakes like to hide in clumps of grass.",
+            "audio_src": "งูชอบซ่อนอยู่ในกอหญ้า",
+            "audio_en_src": "Snakes like to hide in clumps of grass."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15011,6 +15116,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "banyan (type of tree)",
+        "sentences": [
+          {
+            "thai": "ต้นไทรใหญ่หน้าวัดมีอายุเป็นร้อยปี",
+            "en": "The big banyan tree in front of the temple is a hundred years old.",
+            "audio_src": "ต้นไทรใหญ่หน้าวัดมีอายุเป็นร้อยปี",
+            "audio_en_src": "The big banyan tree in front of the temple is a hundred years old."
+          },
+          {
+            "thai": "คนไทยเชื่อว่ามีผีอยู่ในต้นไทร",
+            "en": "Thai people believe spirits live in banyan trees.",
+            "audio_src": "คนไทยเชื่อว่ามีผีอยู่ในต้นไทร",
+            "audio_en_src": "Thai people believe spirits live in banyan trees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15120,6 +15244,25 @@
       "Chulalongkorn L6",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "without, free from, devoid of",
+        "sentences": [
+          {
+            "thai": "ห้องผ่าตัดต้องปราศจากเชื้อ",
+            "en": "The operating room must be free of germs.",
+            "audio_src": "ห้องผ่าตัดต้องปราศจากเชื้อ",
+            "audio_en_src": "The operating room must be free of germs."
+          },
+          {
+            "thai": "อาหารเจ้านี้ปราศจากผงชูรส",
+            "en": "This place's food is MSG-free.",
+            "audio_src": "อาหารเจ้านี้ปราศจากผงชูรส",
+            "audio_en_src": "This place's food is MSG-free."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15159,6 +15302,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "not to, so as not to (formal, written)",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่กั้นพื้นที่เพื่อมิให้คนเข้าใกล้",
+            "en": "Officials blocked off the area to keep people from getting close.",
+            "audio_src": "เจ้าหน้าที่กั้นพื้นที่เพื่อมิให้คนเข้าใกล้",
+            "audio_en_src": "Officials blocked off the area to keep people from getting close."
+          },
+          {
+            "thai": "เขาปิดข่าวนี้ไว้เพื่อมิให้แม่เสียใจ",
+            "en": "He kept the news quiet so as not to upset his mother.",
+            "audio_src": "เขาปิดข่าวนี้ไว้เพื่อมิให้แม่เสียใจ",
+            "audio_en_src": "He kept the news quiet so as not to upset his mother."
+          }
+        ]
+      }
     ]
   },
   {

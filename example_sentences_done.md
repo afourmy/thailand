@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6359 words**
+**Total: 6368 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -339,6 +339,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-028` : สกรรมกริยา - อกรรมกริยา (transitive verb (requires an object) - intransitive verb) : 1 meaning(s), 2 sentences
 - `chula-l6-029` : คุณศัพท์ (adjective (in grammar)) : 1 meaning(s), 2 sentences
 - `chula-l6-030` : กรรม (object (what comes after the verb in Thai grammar); karma) : 2 meaning(s), 4 sentences
+- `chula-l6-032` : ประโยคกรรตุ - ประโยคกรรม (active sentence - passive sentence (grammar)) : 1 meaning(s), 2 sentences
+- `chula-l6-036` : บรรณานุกรม (bibliography) : 1 meaning(s), 2 sentences
+- `chula-l6-037` : วลี (phrase) : 1 meaning(s), 2 sentences
 - `chula-l6-039` : แต่งตั้ง (to appoint, to nominate) : 1 meaning(s), 2 sentences
 - `chula-l6-040` : แทรก, สอดแทรก (to insert, interject, slip in) : 1 meaning(s), 2 sentences
 - `chula-l6-042` : สวน (park, garden; against, in the opposite direction) : 2 meaning(s), 4 sentences
@@ -372,17 +375,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-078` : ส่วนแบ่งการตลาด (market share) : 1 meaning(s), 2 sentences
 - `chula-l6-081` : สนิทสนม (close, familiar, intimate (e.g relationship)) : 1 meaning(s), 2 sentences
 - `chula-l6-082` : ก้าวก่าย (to intrude, interfere, meddle with) : 1 meaning(s), 2 sentences
+- `chula-l6-083` : คำนาม (noun, substantive (grammar)) : 1 meaning(s), 2 sentences
 - `chula-l6-085` : เพศสัมพันธ์ (sexual intercourse) : 1 meaning(s), 2 sentences
 - `chula-l6-086` : ถุงยาง, ถุงยางอนามัย (condom) : 1 meaning(s), 2 sentences
 - `chula-l6-087` : เชย (dated, outdated, old-fashioned) : 1 meaning(s), 2 sentences
 - `chula-l6-088` : เทศบาล (municipality) : 1 meaning(s), 2 sentences
+- `chula-l6-090` : ตอม (to swarm around (e.g flies, mosquitoes)) : 1 meaning(s), 2 sentences
 - `chula-l6-091` : โคน (base, root, bottom part (e.g of a tree, a pole, a tooth)) : 1 meaning(s), 2 sentences
 - `chula-l6-092` : มักง่าย (careless, sloppy, negligent) : 1 meaning(s), 2 sentences
+- `chula-l6-093` : กอ (clump (cluster of plants, trees, etc)) : 1 meaning(s), 2 sentences
 - `chula-l6-094` : สามัญสำนึก (common sense) : 1 meaning(s), 2 sentences
+- `chula-l6-095` : ไทร (banyan (type of tree)) : 1 meaning(s), 2 sentences
 - `chula-l6-097` : เครื่องเสียง (sound system, stereo) : 1 meaning(s), 2 sentences
 - `chula-l6-098` : เผื่อแผ่ (generous, charitable, to share generously) : 1 meaning(s), 2 sentences
 - `chula-l6-099` : ต่างคนต่าง ("each person separately", "each one on their own") : 1 meaning(s), 2 sentences
+- `chula-l6-100` : ปราศจาก (without, free from, devoid of) : 1 meaning(s), 2 sentences
 - `chula-l6-102` : สาธารณสุข (public health) : 1 meaning(s), 2 sentences
+- `chula-l6-103` : มิให้ (not to, so as not to (formal, written)) : 1 meaning(s), 2 sentences
 - `chula-l6-104` : ร้องเรียน (to file a complaint, to report a problem) : 1 meaning(s), 2 sentences
 - `chula-l6-105` : ร้องทุกข์ (to file a complaint about a hardship, suffering) : 1 meaning(s), 2 sentences
 - `chula-l6-108` : แขวง (subdistrict in Bangkok; zone, section) : 2 meaning(s), 4 sentences
