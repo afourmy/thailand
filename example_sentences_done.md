@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6478 words**
+**Total: 6488 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1645,6 +1645,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-660` : เกริ่น (to introduce (a topic, a presentation), to preface) : 1 meaning(s), 2 sentences
 - `tamago-l3-661` : นิยาม (definition) : 1 meaning(s), 2 sentences
 - `tamago-l3-663` : ยึด (to hold on to, to adhere to, to stick to; to seize) : 2 meaning(s), 4 sentences
+- `tamago-l3-664` : ความเจริญงอกงาม (prosperity, growth) : 1 meaning(s), 2 sentences
 - `tamago-l3-665` : ส่วนรวม (the collective, the public (interest), the common good (as opposed to "personal")) : 1 meaning(s), 2 sentences
 - `tamago-l3-666` : ถ่ายทอด (to pass on, to transmit, to relay (knowledge, broadcast)) : 1 meaning(s), 2 sentences
 - `tamago-l3-667` : เอาอย่าง (to imitate, to follow (someone's example)) : 1 meaning(s), 2 sentences
@@ -1661,6 +1662,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-679` : หูตึง (hard of hearing, partially deaf) : 1 meaning(s), 2 sentences
 - `tamago-l3-682` : ไปในตัว (at the same time, in the process) : 1 meaning(s), 2 sentences
 - `tamago-l3-683` : ล้า (exhausted, fatigued) : 1 meaning(s), 2 sentences
+- `tamago-l3-684` : ขาเดฟ (skinny jeans) : 1 meaning(s), 2 sentences
 - `tamago-l3-685` : ตู้เซฟ (safe, safety box) : 1 meaning(s), 2 sentences
 - `tamago-l3-688` : ครก (mortar (for grinding food)) : 1 meaning(s), 2 sentences
 - `tamago-l3-689` : สาก (pestle) : 1 meaning(s), 2 sentences
@@ -1669,6 +1671,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-693` : ส่องกระจก (to look at oneself in the mirror) : 1 meaning(s), 2 sentences
 - `tamago-l3-696` : น่าขำ (funny, laughable) : 1 meaning(s), 2 sentences
 - `tamago-l3-697` : เบาะแส (clue, lead) : 1 meaning(s), 2 sentences
+- `tamago-l3-698` : กระเทยควาย (derogatory term for katoey (slang, rude)) : 1 meaning(s), 2 sentences
 - `tamago-l3-699` : บอบบาง (fragile, frail) : 1 meaning(s), 2 sentences
 - `tamago-l3-700` : แค้น (to hold a grudge, to resent) : 1 meaning(s), 2 sentences
 - `tamago-l3-701` : แก้แค้น (to get revenge) : 1 meaning(s), 2 sentences
@@ -1684,6 +1687,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-714` : กระทั่ง (even, even to the point of) : 1 meaning(s), 2 sentences
 - `tamago-l3-714b` : จนกระทั่ง (until, up to the point that) : 1 meaning(s), 2 sentences
 - `tamago-l3-715` : อันตรายถึงชีวิต (life-threatening, deadly) : 1 meaning(s), 2 sentences
+- `tamago-l3-716` : เต็นท์รถ (car dealership (second-hand cars displayed under covered area)) : 1 meaning(s), 2 sentences
 - `tamago-l3-717` : ต่อให้ (even if, even though) : 1 meaning(s), 2 sentences
 - `tamago-l3-718` : พอรู้ (to have a rough idea, to know roughly) : 1 meaning(s), 2 sentences
 - `tamago-l3-719` : หลอกลวง (to defraud, to scam) : 1 meaning(s), 2 sentences
@@ -1695,10 +1699,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-725` : ราคาย่อมเยา (affordable, reasonably priced) : 1 meaning(s), 2 sentences
 - `tamago-l3-726` : วางใจ, ไว้วางใจ (to trust, to have confidence in, "rest assured") : 1 meaning(s), 2 sentences
 - `tamago-l3-727` : กะทัดรัด (compact, concise) : 1 meaning(s), 2 sentences
+- `tamago-l3-728` : เทอะทะ (bulky, awkwardly large) : 1 meaning(s), 2 sentences
 - `tamago-l3-729` : ตามตรง (honestly, straightforwardly) : 1 meaning(s), 2 sentences
+- `tamago-l3-730` : ตั้งศูนย์ (to align wheels (car)) : 1 meaning(s), 2 sentences
 - `tamago-l3-732` : หลบซ่อน (to hide oneself, to take cover) : 1 meaning(s), 2 sentences
 - `tamago-l3-733` : นานพอควร (quite long, fairly long) : 1 meaning(s), 2 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
+- `tamago-l3-736` : โรคแต่กำเนิด (congenital disease) : 1 meaning(s), 2 sentences
 - `tamago-l3-737` : จัดงาน (to organize an event, to hold a ceremony) : 1 meaning(s), 2 sentences
 - `tamago-l3-738` : วัยเดียวกัน (same age) : 1 meaning(s), 2 sentences
 - `tamago-l3-739` : แสน (hundred thousand (100,000); very, extremely) : 2 meaning(s), 4 sentences
@@ -1722,11 +1729,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-764` : ต้นฉบับ (original version, manuscript) : 1 meaning(s), 2 sentences
 - `tamago-l3-765` : ซึ้ง (touched, moved (emotionally, e.g by kindness, story, gesture)) : 1 meaning(s), 2 sentences
 - `tamago-l3-767` : เกินจริง (exaggerated, unrealistic) : 1 meaning(s), 2 sentences
+- `tamago-l3-768` : คลอ ((of tears) to well up gradually) : 1 meaning(s), 2 sentences
 - `tamago-l3-772` : วิจารณ์ (to criticize, review, evaluate) : 1 meaning(s), 2 sentences
 - `tamago-l3-773` : ทางลบ (in a negative way) : 1 meaning(s), 2 sentences
+- `tamago-l3-774` : สะทกสะท้าน (emotionally shaken, deeply affected, trembling with fear) : 1 meaning(s), 2 sentences
 - `tamago-l3-775` : หลอกด่า (to insult someone indirectly) : 1 meaning(s), 2 sentences
 - `tamago-l3-776` : แกะ (to peel off, to unpack, to untie, to remove (a wrapping)) : 1 meaning(s), 2 sentences
 - `tamago-l3-777` : อุดม (abundant, rich in) : 1 meaning(s), 2 sentences
+- `tamago-l3-778` : สารต้านอนุมูลอิสระ (antioxidant) : 1 meaning(s), 2 sentences
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
 - `tamago-l3-780` : โรคหอบหืด (asthma) : 1 meaning(s), 2 sentences
 - `tamago-l3-781` : ชุ่มชื้น (moisturized, hydrated) : 1 meaning(s), 2 sentences
