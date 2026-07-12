@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6644 words**
+**Total: 6653 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2525,12 +2525,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0386` : ต่างๆ (various) : 1 meaning(s), 2 sentences
 - `thaipod-0387` : ต้น (tree; classifier for plants) : 2 meaning(s), 4 sentences
 - `thaipod-0388` : ต้นกำเนิด (origin, source) : 1 meaning(s), 2 sentences
+- `thaipod-0389` : ต้นข้าว (rice plant) : 1 meaning(s), 2 sentences
 - `thaipod-0391` : ต้นแบบ (model, prototype) : 1 meaning(s), 2 sentences
+- `thaipod-0392` : ถวาย (to offer (royal, religious)) : 1 meaning(s), 2 sentences
 - `thaipod-0394` : ถิ่น (region, habitat, native place) : 1 meaning(s), 2 sentences
+- `thaipod-0396` : ถึงแก่, ถึงแก่กรรม (to pass away (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0398` : แม้ว่า, ถึงแม้ว่า (although, even though) : 1 meaning(s), 2 sentences
 - `thaipod-0399` : จัดว่า, ถือว่า, ถือเป็น ("is considered", "is regarded as") : 1 meaning(s), 2 sentences
+- `thaipod-0400` : ถือศีล (to observe the Buddhist precepts) : 1 meaning(s), 2 sentences
 - `thaipod-0402` : ถือได้ว่า (it can be considered that) : 1 meaning(s), 2 sentences
 - `thaipod-0404` : ถูกต้องตามกฎหมาย (legal, in accordance with the law) : 1 meaning(s), 2 sentences
+- `thaipod-0408` : ดอกตูม (bud (unopened flower)) : 1 meaning(s), 2 sentences
+- `thaipod-0409` : ทรงประกอบ (to perform, to assemble, to construct (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0410` : ทรงพระกรุณาโปรดเกล้าฯ (to graciously bestow, to make a royal command) : 1 meaning(s), 2 sentences
+- `thaipod-0411` : ทรงพระนาม ("with the royal name", "is named" (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0413` : ทหารเอก (elite soldier, military leader) : 1 meaning(s), 2 sentences
 - `thaipod-0415` : ทอดทิ้ง (to forsake, to abandon, to neglect) : 1 meaning(s), 2 sentences
 - `thaipod-0418` : ทะเบียนรถ (car license plate, vehicle registration) : 1 meaning(s), 2 sentences
 - `thaipod-0422` : ทัน (in time, to catch up) : 1 meaning(s), 2 sentences

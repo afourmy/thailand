@@ -86587,15 +86587,6 @@
     ]
   },
   {
-    "id": "thaipod-0379",
-    "thai": "ตุ๊กตาทองคำ",
-    "english": "\"Golden Doll\" (a film award)",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0380",
     "thai": "ตุ๊กตาหมี",
     "english": "teddy bear",
@@ -86863,6 +86854,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "rice plant",
+        "sentences": [
+          {
+            "thai": "ต้นข้าวในนาเขียวขจีสุดลูกหูลูกตา",
+            "en": "The rice plants in the paddies are green as far as the eye can see.",
+            "audio_src": "ต้นข้าวในนาเขียวขจีสุดลูกหูลูกตา",
+            "audio_en_src": "The rice plants in the paddies are green as far as the eye can see."
+          },
+          {
+            "thai": "น้ำท่วมทำให้ต้นข้าวเสียหายหลายพันไร่",
+            "en": "The floods damaged thousands of rai of rice plants.",
+            "audio_src": "น้ำท่วมทำให้ต้นข้าวเสียหายหลายพันไร่",
+            "audio_en_src": "The floods damaged thousands of rai of rice plants."
+          }
+        ]
+      }
     ]
   },
   {
@@ -86906,6 +86916,25 @@
       "Thaipod101",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to offer (royal, religious)",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านถวายอาหารแด่พระสงฆ์",
+            "en": "The villagers offered food to the monks.",
+            "audio_src": "ชาวบ้านถวายอาหารแด่พระสงฆ์",
+            "audio_en_src": "The villagers offered food to the monks."
+          },
+          {
+            "thai": "ประชาชนถวายพระพรในวันเฉลิมพระชนมพรรษา",
+            "en": "The people offered blessings on the royal birthday.",
+            "audio_src": "ประชาชนถวายพระพรในวันเฉลิมพระชนมพรรษา",
+            "audio_en_src": "The people offered blessings on the royal birthday."
+          }
+        ]
+      }
     ]
   },
   {
@@ -86955,6 +86984,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to pass away (formal)",
+        "sentences": [
+          {
+            "thai": "คุณปู่ถึงแก่กรรมอย่างสงบเมื่อคืนนี้",
+            "en": "Grandfather passed away peacefully last night.",
+            "audio_src": "คุณปู่ถึงแก่กรรมอย่างสงบเมื่อคืนนี้",
+            "audio_en_src": "Grandfather passed away peacefully last night."
+          },
+          {
+            "thai": "ทนายแจ้งว่าเจ้าของที่ดินถึงแก่ความตายแล้ว",
+            "en": "The lawyer reported that the landowner has died.",
+            "audio_src": "ทนายแจ้งว่าเจ้าของที่ดินถึงแก่ความตายแล้ว",
+            "audio_en_src": "The lawyer reported that the landowner has died."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87024,6 +87072,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to observe the Buddhist precepts",
+        "sentences": [
+          {
+            "thai": "ช่วงเข้าพรรษา แม่ถือศีลแปด",
+            "en": "During Buddhist Lent, Mom observes the eight precepts.",
+            "audio_src": "ช่วงเข้าพรรษา แม่ถือศีลแปด",
+            "audio_en_src": "During Buddhist Lent, Mom observes the eight precepts."
+          },
+          {
+            "thai": "เขาไปถือศีลปฏิบัติธรรมที่วัดทุกปีใหม่",
+            "en": "He goes to the temple to observe the precepts and meditate every New Year.",
+            "audio_src": "เขาไปถือศีลปฏิบัติธรรมที่วัดทุกปีใหม่",
+            "audio_en_src": "He goes to the temple to observe the precepts and meditate every New Year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87089,6 +87156,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "bud (unopened flower)",
+        "sentences": [
+          {
+            "thai": "กุหลาบยังเป็นดอกตูมอยู่เลย",
+            "en": "The roses are still in bud.",
+            "audio_src": "กุหลาบยังเป็นดอกตูมอยู่เลย",
+            "audio_en_src": "The roses are still in bud."
+          },
+          {
+            "thai": "อีกสองสามวันดอกตูมพวกนี้จะบาน",
+            "en": "In a few days these buds will bloom.",
+            "audio_src": "อีกสองสามวันดอกตูมพวกนี้จะบาน",
+            "audio_en_src": "In a few days these buds will bloom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87098,6 +87184,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to perform, to assemble, to construct (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์เสด็จไปทรงประกอบพิธีวางศิลาฤกษ์",
+            "en": "The king went to perform the foundation-stone-laying ceremony.",
+            "audio_src": "พระองค์เสด็จไปทรงประกอบพิธีวางศิลาฤกษ์",
+            "audio_en_src": "The king went to perform the foundation-stone-laying ceremony."
+          },
+          {
+            "thai": "พระมหากษัตริย์ทรงประกอบพระราชกรณียกิจมากมาย",
+            "en": "The king carries out many royal duties.",
+            "audio_src": "พระมหากษัตริย์ทรงประกอบพระราชกรณียกิจมากมาย",
+            "audio_en_src": "The king carries out many royal duties."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87107,6 +87212,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to graciously bestow, to make a royal command",
+        "sentences": [
+          {
+            "thai": "ทรงพระกรุณาโปรดเกล้าฯ แต่งตั้งนายกรัฐมนตรีคนใหม่",
+            "en": "His Majesty graciously appointed the new prime minister.",
+            "audio_src": "ทรงพระกรุณาโปรดเกล้าฯ แต่งตั้งนายกรัฐมนตรีคนใหม่",
+            "audio_en_src": "His Majesty graciously appointed the new prime minister."
+          },
+          {
+            "thai": "ทรงพระกรุณาโปรดเกล้าฯ พระราชทานชื่อสะพานแห่งนี้",
+            "en": "His Majesty graciously bestowed the name of this bridge.",
+            "audio_src": "ทรงพระกรุณาโปรดเกล้าฯ พระราชทานชื่อสะพานแห่งนี้",
+            "audio_en_src": "His Majesty graciously bestowed the name of this bridge."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87116,6 +87240,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"with the royal name\", \"is named\" (royal)",
+        "sentences": [
+          {
+            "thai": "รัชกาลที่ 5 ทรงพระนามว่าจุฬาลงกรณ์",
+            "en": "Rama V's royal name was Chulalongkorn.",
+            "audio_src": "รัชกาลที่ 5 ทรงพระนามว่าจุฬาลงกรณ์",
+            "audio_en_src": "Rama V's royal name was Chulalongkorn."
+          },
+          {
+            "thai": "กษัตริย์พระองค์ใหม่ทรงพระนามตามพระอัยกา",
+            "en": "The new king is named after his grandfather.",
+            "audio_src": "กษัตริย์พระองค์ใหม่ทรงพระนามตามพระอัยกา",
+            "audio_en_src": "The new king is named after his grandfather."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87134,6 +87277,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "elite soldier, military leader",
+        "sentences": [
+          {
+            "thai": "เขาเป็นทหารเอกคู่ใจของแม่ทัพ",
+            "en": "He was the general's most trusted soldier.",
+            "audio_src": "เขาเป็นทหารเอกคู่ใจของแม่ทัพ",
+            "audio_en_src": "He was the general's most trusted soldier."
+          },
+          {
+            "thai": "ในละคร พระเอกรับบททหารเอกของพระราชา",
+            "en": "In the drama, the lead actor plays the king's champion warrior.",
+            "audio_src": "ในละคร พระเอกรับบททหารเอกของพระราชา",
+            "audio_en_src": "In the drama, the lead actor plays the king's champion warrior."
+          }
+        ]
+      }
     ]
   },
   {
