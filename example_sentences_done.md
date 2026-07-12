@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6526 words**
+**Total: 6536 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2034,11 +2034,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-300` : ติงต๊อง (crazy, silly, daft) : 1 meaning(s), 2 sentences
 - `tsl-301` : หนืด (thick, sticky, viscous (liquid)) : 1 meaning(s), 2 sentences
 - `tsl-302` : สับ (to chop, to mince, to cut finely) : 1 meaning(s), 2 sentences
+- `tsl-303` : นายกองค์การบริหารส่วนจังหวัด (นายก อบจ.) (president of the Provincial Administrative Organization (PAO)) : 1 meaning(s), 2 sentences
+- `tsl-304` : สมาชิกองค์การบริหารส่วนจังหวัด (ส.อบจ.) (Member of the Provincial Administrative Organization) : 1 meaning(s), 2 sentences
 - `tsl-305` : ขอบเขต (boundary, scope, limit) : 1 meaning(s), 2 sentences
 - `tsl-306` : หน่วยย่อย (subunit, subdivision) : 1 meaning(s), 2 sentences
 - `tsl-307` : พรรคการเมือง (political party) : 1 meaning(s), 2 sentences
 - `tsl-308` : หาเสียง (to campaign (for votes, election)) : 1 meaning(s), 2 sentences
 - `tsl-309` : พรรคพวก (companions, associates, allies) : 1 meaning(s), 2 sentences
+- `tsl-310` : ลากตั้ง (to be appointed without formal process or public vote (politics, pejorative)) : 1 meaning(s), 2 sentences
 - `tsl-312` : ราบรื่น (smooth, seamless, without obstacles) : 1 meaning(s), 2 sentences
 - `tsl-313` : ติดๆ ขัดๆ (stuttering, interrupted, not going smoothly (speech, process)) : 1 meaning(s), 2 sentences
 - `tsl-314` : ลาก, ลากจูง (to pull, to drag, to tow (suitcase, boat)) : 1 meaning(s), 2 sentences
@@ -2048,6 +2051,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-321` : เหยียดเพศ (sexist) : 1 meaning(s), 2 sentences
 - `tsl-322` : สัญลักษณ์ (symbol, emblem) : 1 meaning(s), 2 sentences
 - `tsl-323` : ซอง (envelope) : 1 meaning(s), 2 sentences
+- `tsl-324` : รัดตรึง (to fasten tightly, to tie down firmly (so it cannot move)) : 1 meaning(s), 2 sentences
 - `tsl-326` : แน่นหนา (secure, firm, strong, sturdy) : 1 meaning(s), 2 sentences
 - `tsl-327` : เคลื่อน, เคลื่อนที่ (to move, to displace, to be in motion) : 1 meaning(s), 2 sentences
 - `tsl-328` : คำนึงถึง (to take into consideration, to bear in mind) : 1 meaning(s), 2 sentences
@@ -2061,6 +2065,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-344` : ข้อห้าม (ban, prohibition, taboo) : 1 meaning(s), 2 sentences
 - `tsl-345` : เจ็บไข้ได้ป่วย (to fall ill, to get sick (idiomatic)) : 1 meaning(s), 2 sentences
 - `tsl-346` : น้ำมนต์ (holy water (Buddhist)) : 1 meaning(s), 2 sentences
+- `tsl-347` : คาถาอาคม (magic spell, magical incantation) : 1 meaning(s), 2 sentences
+- `tsl-350` : ทันใดนั้น (suddenly, all of a sudden (literary)) : 1 meaning(s), 2 sentences
 - `tsl-353` : จิก (to peck (bird)) : 1 meaning(s), 2 sentences
 - `tsl-354` : ทรัพย์สมบัติ (assets, property, wealth) : 1 meaning(s), 2 sentences
 - `tsl-356` : ความเย่อหยิ่ง (arrogance, haughtiness, excessive pride) : 1 meaning(s), 2 sentences
@@ -2068,8 +2074,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-359` : สาระสำคัญ (main point, gist, crux (of a story)) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
 - `tsl-365` : คิดค้น (to invent, to devise, to come up with something new) : 1 meaning(s), 2 sentences
+- `tsl-366` : ต้นไม้ใบหญ้า (flora, "all plants and vegetation" (literary)) : 1 meaning(s), 2 sentences
 - `tsl-367` : ยาสูบ (tobacco) : 1 meaning(s), 2 sentences
 - `tsl-368` : แผนการ (plan, project, scheme) : 1 meaning(s), 2 sentences
+- `tsl-369` : บทบัญญัติ (clause, statute, provision (formal, legal)) : 1 meaning(s), 2 sentences
 - `tsl-372` : เสรีภาพในการแสดงออก (freedom of expression) : 1 meaning(s), 2 sentences
 - `tsl-373` : สูด (to inhale, to breathe in) : 1 meaning(s), 2 sentences
 - `tsl-374` : ลมหายใจ (breath) : 1 meaning(s), 2 sentences
@@ -2081,7 +2089,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-384` : สั่งการ (to command, to give orders) : 1 meaning(s), 2 sentences
 - `tsl-387` : ยับยั้งชั่งใจ (to restrain oneself, to exercise self-control) : 1 meaning(s), 2 sentences
 - `tsl-388` : หวาดเสียว (thrilling, spine-chilling (fear mixed with excitement)) : 1 meaning(s), 2 sentences
+- `tsl-390` : ต่อมไร้ท่อ (endocrine gland) : 1 meaning(s), 2 sentences
 - `tsl-391` : กินจุ (to eat a lot, to be a heavy eater) : 1 meaning(s), 2 sentences
+- `tsl-394` : สำนักงานคณะกรรมการอาหารและยา (อย.) (Thai Food and Drug Administration (FDA equivalent)) : 1 meaning(s), 2 sentences
 - `tsl-395` : ขรุขระ (rough, rugged, bumpy (surface)) : 1 meaning(s), 2 sentences
 - `tsl-397` : ประกาย (spark, glimmer, gleam, to sparkle) : 1 meaning(s), 2 sentences
 - `tsl-398` : อนุรักษ์ (to preserve, to conserve) : 1 meaning(s), 2 sentences
