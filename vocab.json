@@ -10928,6 +10928,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "tin",
+        "sentences": [
+          {
+            "thai": "ภูเก็ตเคยมีเหมืองแร่ดีบุกเยอะมาก",
+            "en": "Phuket used to have a lot of tin mines.",
+            "audio_src": "ภูเก็ตเคยมีเหมืองแร่ดีบุกเยอะมาก",
+            "audio_en_src": "Phuket used to have a lot of tin mines."
+          },
+          {
+            "thai": "สมัยก่อนไทยส่งออกดีบุกเป็นอันดับต้นๆ ของโลก",
+            "en": "Thailand used to be one of the world's top tin exporters.",
+            "audio_src": "สมัยก่อนไทยส่งออกดีบุกเป็นอันดับต้นๆ ของโลก",
+            "audio_en_src": "Thailand used to be one of the world's top tin exporters."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11166,6 +11185,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "chemical products",
+        "sentences": [
+          {
+            "thai": "โรงงานนี้ผลิตเคมีภัณฑ์ส่งออก",
+            "en": "This factory makes chemical products for export.",
+            "audio_src": "โรงงานนี้ผลิตเคมีภัณฑ์ส่งออก",
+            "audio_en_src": "This factory makes chemical products for export."
+          },
+          {
+            "thai": "ห้ามเก็บเคมีภัณฑ์ไว้ใกล้อาหาร",
+            "en": "Don't store chemicals near food.",
+            "audio_src": "ห้ามเก็บเคมีภัณฑ์ไว้ใกล้อาหาร",
+            "audio_en_src": "Don't store chemicals near food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11254,6 +11292,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "pharmaceutical products, medical supplies",
+        "sentences": [
+          {
+            "thai": "โรงพยาบาลสั่งซื้อยาและเวชภัณฑ์เพิ่ม",
+            "en": "The hospital ordered more medicine and medical supplies.",
+            "audio_src": "โรงพยาบาลสั่งซื้อยาและเวชภัณฑ์เพิ่ม",
+            "audio_en_src": "The hospital ordered more medicine and medical supplies."
+          },
+          {
+            "thai": "ช่วงน้ำท่วม มีคนบริจาคเวชภัณฑ์เยอะมาก",
+            "en": "During the floods, a lot of people donated medical supplies.",
+            "audio_src": "ช่วงน้ำท่วม มีคนบริจาคเวชภัณฑ์เยอะมาก",
+            "audio_en_src": "During the floods, a lot of people donated medical supplies."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11787,6 +11844,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "generalized anxiety disorder",
+        "sentences": [
+          {
+            "thai": "หมอวินิจฉัยว่าเขาเป็นโรควิตกกังวลทั่วไป",
+            "en": "The doctor diagnosed him with generalized anxiety disorder.",
+            "audio_src": "หมอวินิจฉัยว่าเขาเป็นโรควิตกกังวลทั่วไป",
+            "audio_en_src": "The doctor diagnosed him with generalized anxiety disorder."
+          },
+          {
+            "thai": "โรควิตกกังวลทั่วไปรักษาได้ด้วยยาและการบำบัด",
+            "en": "Generalized anxiety disorder can be treated with medication and therapy.",
+            "audio_src": "โรควิตกกังวลทั่วไปรักษาได้ด้วยยาและการบำบัด",
+            "audio_en_src": "Generalized anxiety disorder can be treated with medication and therapy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12296,6 +12372,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay respect, to worship",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวมาสักการะพระแก้วมรกต",
+            "en": "Tourists come to pay their respects to the Emerald Buddha.",
+            "audio_src": "นักท่องเที่ยวมาสักการะพระแก้วมรกต",
+            "audio_en_src": "Tourists come to pay their respects to the Emerald Buddha."
+          },
+          {
+            "thai": "คนไทยนิยมไปสักการะศาลหลักเมืองตอนปีใหม่",
+            "en": "Thai people like to pay respects at the city pillar shrine at New Year.",
+            "audio_src": "คนไทยนิยมไปสักการะศาลหลักเมืองตอนปีใหม่",
+            "audio_en_src": "Thai people like to pay respects at the city pillar shrine at New Year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12345,6 +12440,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "rectum",
+        "sentences": [
+          {
+            "thai": "หมอส่องกล้องตรวจไส้ตรง",
+            "en": "The doctor examined the rectum with a scope.",
+            "audio_src": "หมอส่องกล้องตรวจไส้ตรง",
+            "audio_en_src": "The doctor examined the rectum with a scope."
+          },
+          {
+            "thai": "เขาเป็นมะเร็งไส้ตรง ต้องผ่าตัด",
+            "en": "He has rectal cancer and needs surgery.",
+            "audio_src": "เขาเป็นมะเร็งไส้ตรง ต้องผ่าตัด",
+            "audio_en_src": "He has rectal cancer and needs surgery."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12974,6 +13088,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "faculty members, teaching staff",
+        "sentences": [
+          {
+            "thai": "พิธีวันนี้มีคณาจารย์มาร่วมหลายท่าน",
+            "en": "Many faculty members attended today's ceremony.",
+            "audio_src": "พิธีวันนี้มีคณาจารย์มาร่วมหลายท่าน",
+            "audio_en_src": "Many faculty members attended today's ceremony."
+          },
+          {
+            "thai": "นักศึกษาขอบคุณคณาจารย์ทุกท่านในวันรับปริญญา",
+            "en": "The students thanked all their professors on graduation day.",
+            "audio_src": "นักศึกษาขอบคุณคณาจารย์ทุกท่านในวันรับปริญญา",
+            "audio_en_src": "The students thanked all their professors on graduation day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13024,6 +13157,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "holiday (festival, holy day, auspicious day tied to religion or tradition)",
+        "sentences": [
+          {
+            "thai": "ธนาคารปิดทุกวันหยุดนักขัตฤกษ์",
+            "en": "Banks are closed on all public holidays.",
+            "audio_src": "ธนาคารปิดทุกวันหยุดนักขัตฤกษ์",
+            "audio_en_src": "Banks are closed on all public holidays."
+          },
+          {
+            "thai": "วันนี้เป็นวันหยุดนักขัตฤกษ์ ที่ทำการไปรษณีย์เลยปิด",
+            "en": "Today is a public holiday, so the post office is closed.",
+            "audio_src": "วันนี้เป็นวันหยุดนักขัตฤกษ์ ที่ทำการไปรษณีย์เลยปิด",
+            "audio_en_src": "Today is a public holiday, so the post office is closed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13311,6 +13463,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "transitive verb (requires an object) - intransitive verb",
+        "sentences": [
+          {
+            "thai": "\"กิน\" เป็นสกรรมกริยา ต้องมีกรรมมารับ",
+            "en": "\"Eat\" is a transitive verb, it needs an object.",
+            "audio_src": "\"กิน\" เป็นสกรรมกริยา ต้องมีกรรมมารับ",
+            "audio_en_src": "\"Eat\" is a transitive verb, it needs an object."
+          },
+          {
+            "thai": "\"นอน\" เป็นอกรรมกริยา ไม่ต้องมีกรรม",
+            "en": "\"Sleep\" is an intransitive verb, it doesn't take an object.",
+            "audio_src": "\"นอน\" เป็นอกรรมกริยา ไม่ต้องมีกรรม",
+            "audio_en_src": "\"Sleep\" is an intransitive verb, it doesn't take an object."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13320,6 +13491,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "adjective (in grammar)",
+        "sentences": [
+          {
+            "thai": "ในภาษาไทย คุณศัพท์อยู่หลังคำนาม",
+            "en": "In Thai, adjectives come after the noun.",
+            "audio_src": "ในภาษาไทย คุณศัพท์อยู่หลังคำนาม",
+            "audio_en_src": "In Thai, adjectives come after the noun."
+          },
+          {
+            "thai": "คำว่า \"สวย\" เป็นคุณศัพท์",
+            "en": "The word \"beautiful\" is an adjective.",
+            "audio_src": "คำว่า \"สวย\" เป็นคุณศัพท์",
+            "audio_en_src": "The word \"beautiful\" is an adjective."
+          }
+        ]
+      }
     ]
   },
   {

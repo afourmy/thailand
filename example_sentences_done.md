@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6349 words**
+**Total: 6359 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -278,12 +278,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-353` : เกษตรกรรม (agriculture (industry)) : 1 meaning(s), 2 sentences
 - `chula-l5-357` : สำเร็จรูป (ready-made, instant) : 1 meaning(s), 2 sentences
 - `chula-l5-358` : สำรอง (reserved, spare, secondary) : 1 meaning(s), 2 sentences
+- `chula-l5-362` : ดีบุก (tin) : 1 meaning(s), 2 sentences
 - `chula-l5-367` : ส่วนประกอบ (component, ingredient) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-372` : ความสัมพันธ์ (relationship) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
+- `chula-l5-378` : เคมีภัณฑ์ (chemical products) : 1 meaning(s), 2 sentences
 - `chula-l5-379` : การเงิน (finance) : 1 meaning(s), 2 sentences
 - `chula-l5-381` : ความขัดแย้ง (conflict) : 1 meaning(s), 2 sentences
+- `chula-l5-383` : เวชภัณฑ์ (pharmaceutical products, medical supplies) : 1 meaning(s), 2 sentences
 - `chula-l5-387` : สายการบิน (airline) : 1 meaning(s), 2 sentences
 - `chula-l5-389` : สมัคร (to apply) : 1 meaning(s), 2 sentences
 - `chula-l5-390` : ตรุษจีน (Chinese New Year) : 1 meaning(s), 2 sentences
@@ -297,6 +300,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-400` : งบประมาณ (budget) : 1 meaning(s), 2 sentences
 - `chula-l5-403` : ปรากฏ (to appear) : 1 meaning(s), 2 sentences
 - `chula-l5-408` : ฉีก (to tear, to rip) : 1 meaning(s), 2 sentences
+- `chula-l5-412` : โรควิตกกังวลทั่วไป (generalized anxiety disorder) : 1 meaning(s), 2 sentences
 - `chula-l5-417` : ปริมาณ (quantity, volume) : 1 meaning(s), 2 sentences
 - `chula-l5-419` : พุ่ง (to rush, to dash, to fling; to throw forcefully; to surge) : 3 meaning(s), 6 sentences
 - `chula-l5-420` : รปภ (security guard) : 1 meaning(s), 2 sentences
@@ -306,7 +310,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-426` : เข้มข้น (intense, strong, concentrated) : 1 meaning(s), 2 sentences
 - `chula-l5-427` : จุดชมวิว (viewpoint) : 1 meaning(s), 2 sentences
 - `chula-l5-433` : ลงตัว (perfectly balanced, just right; to fit together nicely, to be finalized) : 2 meaning(s), 4 sentences
+- `chula-l5-436` : สักการะ (to pay respect, to worship) : 1 meaning(s), 2 sentences
 - `chula-l5-437` : หงาย (to turn face-up, to lie on one's back, on its back, face-up) : 1 meaning(s), 2 sentences
+- `chula-l5-439` : ไส้ตรง (rectum) : 1 meaning(s), 2 sentences
 - `chula-l5-440` : แพทย์ (doctor, physician) : 1 meaning(s), 2 sentences
 - `chula-l5-443` : หมอก (fog) : 1 meaning(s), 2 sentences
 - `chula-l5-444` : รับมือ (to cope, to handle, to deal with) : 1 meaning(s), 2 sentences
@@ -321,13 +327,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-005` : ความนับถือ (respect, esteem) : 1 meaning(s), 2 sentences
 - `chula-l6-008` : ครบ, ครบถ้วน (thorough, complete) : 1 meaning(s), 2 sentences
 - `chula-l6-009` : รูปแบบ (format, form, pattern, model) : 1 meaning(s), 2 sentences
+- `chula-l6-012` : คณาจารย์ (faculty members, teaching staff) : 1 meaning(s), 2 sentences
 - `chula-l6-013` : อาสาสมัคร (volunteer) : 1 meaning(s), 2 sentences
+- `chula-l6-015` : นักขัตฤกษ์ (holiday (festival, holy day, auspicious day tied to religion or tradition)) : 1 meaning(s), 2 sentences
 - `chula-l6-017` : ศูนย์ (zero; center (institution), hub) : 2 meaning(s), 4 sentences
 - `chula-l6-018` : กรอก (to fill in (a form)) : 1 meaning(s), 2 sentences
 - `chula-l6-020` : ชายแดน (border, border region (near a frontier)) : 1 meaning(s), 2 sentences
 - `chula-l6-021` : ฝ่าย (team, group, side) : 1 meaning(s), 2 sentences
 - `chula-l6-022` : นิสิต (university student) : 1 meaning(s), 2 sentences
 - `chula-l6-024` : เน้น, มุ่งเน้น (to focus on, to emphasize) : 1 meaning(s), 2 sentences
+- `chula-l6-028` : สกรรมกริยา - อกรรมกริยา (transitive verb (requires an object) - intransitive verb) : 1 meaning(s), 2 sentences
+- `chula-l6-029` : คุณศัพท์ (adjective (in grammar)) : 1 meaning(s), 2 sentences
 - `chula-l6-030` : กรรม (object (what comes after the verb in Thai grammar); karma) : 2 meaning(s), 4 sentences
 - `chula-l6-039` : แต่งตั้ง (to appoint, to nominate) : 1 meaning(s), 2 sentences
 - `chula-l6-040` : แทรก, สอดแทรก (to insert, interject, slip in) : 1 meaning(s), 2 sentences
