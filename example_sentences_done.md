@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6536 words**
+**Total: 6546 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2102,12 +2102,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-404` : แสวง, แสวงหา (to seek, to pursue (formal)) : 1 meaning(s), 2 sentences
 - `tsl-406` : อุปนิสัย, อุปนิสัยใจ (temperament, character, disposition) : 1 meaning(s), 2 sentences
 - `tsl-408` : จารีตประเพณี (customs and traditions) : 1 meaning(s), 2 sentences
+- `tsl-409` : เรือนชาน (house terrace, veranda, porch) : 1 meaning(s), 2 sentences
 - `tsl-411` : ญาติมิตร (relatives and close friends) : 1 meaning(s), 2 sentences
 - `tsl-412` : ความอ่อนน้อมถ่อมตน (humility, modesty, deference) : 1 meaning(s), 2 sentences
 - `tsl-414` : ท่าที (attitude, stance, gesture) : 1 meaning(s), 2 sentences
 - `tsl-416` : กิริยา (behavior, manner, conduct) : 1 meaning(s), 2 sentences
 - `tsl-419` : ถนอมน้ำใจ (to spare someone's feelings, to be considerate) : 1 meaning(s), 2 sentences
 - `tsl-422` : เฉพาะหน้า (immediate, on-the-spot, in the moment) : 1 meaning(s), 2 sentences
+- `tsl-423` : สลัก, แกะสลัก (to carve, to engrave, to sculpt) : 1 meaning(s), 2 sentences
 - `tsl-425` : ไพเราะ (melodious, beautiful-sounding) : 1 meaning(s), 2 sentences
 - `tsl-427` : วาจาสุภาพ (polite speech) : 1 meaning(s), 2 sentences
 - `tsl-429` : สาธิต (to demonstrate, to show how to do something) : 1 meaning(s), 2 sentences
@@ -2119,17 +2121,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-437` : ล้ำค่า (precious, priceless, invaluable) : 1 meaning(s), 2 sentences
 - `tsl-439` : ย่อยสลาย (to decompose, to break down, to biodegrade) : 1 meaning(s), 2 sentences
 - `tsl-440` : ละเว้น (to refrain from, to abstain from) : 1 meaning(s), 2 sentences
+- `tsl-441` : ผสมเทียม (artificial insemination) : 1 meaning(s), 2 sentences
+- `tsl-442` : เขียด (small frog, tree frog) : 1 meaning(s), 2 sentences
+- `tsl-443` : จำพวก (category, group, species, kind (formal)) : 1 meaning(s), 2 sentences
 - `tsl-445` : ถอนหายใจ (to sigh) : 1 meaning(s), 2 sentences
+- `tsl-449` : ระรัว (to beat rapidly, palpitating, "in quick succession" (sound or motion)) : 1 meaning(s), 2 sentences
 - `tsl-451` : หวีด (to shriek, to scream (high-pitched)) : 1 meaning(s), 2 sentences
 - `tsl-452` : ฝืน (to force, to go against, to resist) : 1 meaning(s), 2 sentences
 - `tsl-453` : หนักอึ้ง (very heavy, crushingly heavy (literal or emotional)) : 1 meaning(s), 2 sentences
 - `tsl-454` : ชั่วขณะ (momentarily, for a moment, brief instant) : 1 meaning(s), 2 sentences
 - `tsl-455` : ดิ้นรน (to struggle, to strive against difficulty) : 1 meaning(s), 2 sentences
+- `tsl-457` : สิงสู่ (to haunt, to inhabit, to possess (ghost in a body)) : 1 meaning(s), 2 sentences
 - `tsl-459` : หลอกหลอน (to haunt (ghosts, memories)) : 1 meaning(s), 2 sentences
 - `tsl-460` : แข็งทื่อ (stiff, rigid) : 1 meaning(s), 2 sentences
 - `tsl-461` : คล้ายคลึง (analogous, similar) : 1 meaning(s), 2 sentences
 - `tsl-462` : รับรู้ (to recognize, to acknowledge, to perceive, to be aware of) : 1 meaning(s), 2 sentences
 - `tsl-463` : ท่อง (to recite, to memorize; to roam, to travel, to wander) : 2 meaning(s), 4 sentences
+- `tsl-468` : ภาพเสมือน (virtual image, illusion) : 1 meaning(s), 2 sentences
+- `tsl-469` : โรคลมหลับ (narcolepsy (sudden sleep attacks)) : 1 meaning(s), 2 sentences
+- `tsl-471` : ประภาคาร (lighthouse) : 1 meaning(s), 2 sentences
 - `tsl-472` : บึง (swamp, marsh) : 1 meaning(s), 2 sentences
 - `tsl-474` : ซาบซึ้ง, ซาบซึ้งใจ (deeply appreciative, moved, touched, grateful (formal)) : 1 meaning(s), 2 sentences
 - `tsl-475` : สันติ (peace, tranquility) : 1 meaning(s), 2 sentences
