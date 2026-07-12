@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6428 words**
+**Total: 6438 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -870,15 +870,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-396` : วิชา (subject, field of study) : 1 meaning(s), 2 sentences
 - `tamago-l12-399` : วิเศษ (magic, extraordinary, wonderful) : 1 meaning(s), 2 sentences
 - `tamago-l12-400` : วิ่งผ่าน (to pass through (running, driving)) : 1 meaning(s), 2 sentences
+- `tamago-l12-401` : วี่แวว (indication, faint sign, hint that something is happening) : 1 meaning(s), 2 sentences
 - `tamago-l12-402` : วุ้นเส้น (glass noodles, mung bean noodles) : 1 meaning(s), 2 sentences
 - `tamago-l12-403` : ว่าแต่ (by the way) : 1 meaning(s), 2 sentences
 - `tamago-l12-404` : ว่าแล้ว(เชียว) ("I knew it!", "just as I thought") : 1 meaning(s), 2 sentences
 - `tamago-l12-405` : ศาสนา (religion) : 1 meaning(s), 2 sentences
+- `tamago-l12-406` : ศิลปกรรมศาสตร์ (fine arts (academic field)) : 1 meaning(s), 2 sentences
 - `tamago-l12-409` : สถานทูต (embassy) : 1 meaning(s), 2 sentences
 - `tamago-l12-413` : สนใจเรียน (to pay attention in class) : 1 meaning(s), 2 sentences
 - `tamago-l12-414` : สมควร (appropriate, suitable; to deserve, worthy) : 2 meaning(s), 4 sentences
 - `tamago-l12-415` : สระ (to wash, to shampoo; vowel; pool, pond) : 3 meaning(s), 6 sentences
 - `tamago-l12-416` : สระผม (to wash one's hair, to shampoo) : 1 meaning(s), 2 sentences
+- `tamago-l12-417` : สวนพฤกษศาสตร์ (botanical garden) : 1 meaning(s), 2 sentences
 - `tamago-l12-418` : สวนสาธารณะ (public park) : 1 meaning(s), 2 sentences
 - `tamago-l12-419` : สอบ (to take an exam) : 1 meaning(s), 2 sentences
 - `tamago-l12-420` : สะพาน (bridge) : 1 meaning(s), 2 sentences
@@ -896,6 +899,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-435` : หนา (thick) : 1 meaning(s), 2 sentences
 - `tamago-l12-437` : หน้าตา (face, appearance, looks) : 1 meaning(s), 2 sentences
 - `tamago-l12-439` : หน้าอก (chest; breast) : 2 meaning(s), 4 sentences
+- `tamago-l12-440` : หมวกอาบน้ำ (shower cap) : 1 meaning(s), 2 sentences
 - `tamago-l12-442` : หมัก (to ferment (food, drinks)) : 1 meaning(s), 2 sentences
 - `tamago-l12-443` : หมากรุก (chess) : 1 meaning(s), 2 sentences
 - `tamago-l12-445` : หยิก (to pinch; curly, wavy (of hair)) : 2 meaning(s), 4 sentences
@@ -923,9 +927,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-474` : อลังการ (magnificent, splendid, grand) : 1 meaning(s), 2 sentences
 - `tamago-l12-475` : อะไรพวกนี้ (things like that) : 1 meaning(s), 2 sentences
 - `tamago-l12-476` : อะไรแบบนี้ (stuff like that, things like this) : 1 meaning(s), 2 sentences
+- `tamago-l12-477` : อักษรศาสตร์ (humanities, liberal arts (study of language, culture)) : 1 meaning(s), 2 sentences
 - `tamago-l12-478` : อับอาย (ashamed, embarrassed, humiliated) : 1 meaning(s), 2 sentences
 - `tamago-l12-480` : อาจารย์ (university professor; teacher (respectful)) : 2 meaning(s), 4 sentences
 - `tamago-l12-481` : อาละวาด (to act violently, to go on a rampage) : 1 meaning(s), 2 sentences
+- `tamago-l12-482` : อิดออด (reluctant, unwilling to do something) : 1 meaning(s), 2 sentences
 - `tamago-l12-483` : อีกต่างหาก (even, as well, "to make things worse" (emphasis on additional negative)) : 1 meaning(s), 2 sentences
 - `tamago-l12-484` : อีกหน่อย (soon, later, in a little while) : 1 meaning(s), 2 sentences
 - `tamago-l12-485` : อุทยานแห่งชาติ (national park) : 1 meaning(s), 2 sentences
@@ -935,6 +941,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-489` : อ้วก (to vomit (informal)) : 1 meaning(s), 2 sentences
 - `tamago-l12-490` : เกะกะ (cluttered, obstructed, in the way) : 1 meaning(s), 2 sentences
 - `tamago-l12-491` : เกาะ (island; to cling, to hold on to) : 2 meaning(s), 4 sentences
+- `tamago-l12-493` : เกี๊ยวไข่ทอด (deep-fried quail egg wonton) : 1 meaning(s), 2 sentences
 - `tamago-l12-494` : เขียง (cutting board) : 1 meaning(s), 2 sentences
 - `tamago-l12-495` : เข้างาน (to go to work, to start a shift) : 1 meaning(s), 2 sentences
 - `tamago-l12-497` : เครื่องปรุง (seasoning, condiment) : 1 meaning(s), 2 sentences
@@ -958,6 +965,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-519` : เต้าหู้ (tofu) : 1 meaning(s), 2 sentences
 - `tamago-l12-520` : เทขยะ (to take out the trash) : 1 meaning(s), 2 sentences
 - `tamago-l12-521` : เทวดา (angel, deity, celestial being) : 1 meaning(s), 2 sentences
+- `tamago-l12-522` : เทียบติด (to match closely, comparable, on par (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l12-523` : เที่ยวกลางคืน (to go out at night (bars, clubs)) : 1 meaning(s), 2 sentences
 - `tamago-l12-524` : เท่าตัว (twofold, twice as much) : 1 meaning(s), 2 sentences
 - `tamago-l12-525` : เท่านี้ (only this, just this much) : 1 meaning(s), 2 sentences
@@ -974,6 +982,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-539` : เป็ด (duck) : 1 meaning(s), 2 sentences
 - `tamago-l12-540` : เป็นตะคริว (to have a cramp) : 1 meaning(s), 2 sentences
 - `tamago-l12-541` : เป็นลม (to faint, to pass out) : 1 meaning(s), 2 sentences
+- `tamago-l12-542` : เป็นหมัน (sterile, infertile) : 1 meaning(s), 2 sentences
 - `tamago-l12-543` : เป็นหลัก (mainly, primarily) : 1 meaning(s), 2 sentences
 - `tamago-l12-544` : เป๊ะ (exact, precise, perfect (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-545` : เผาผลาญ (to burn (calories, energy, money)) : 1 meaning(s), 2 sentences
@@ -984,6 +993,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-551` : เมื่อกี้, เมื่อกี้นี้, เมื่อตะกี้นี้ (just now, a moment ago) : 1 meaning(s), 2 sentences
 - `tamago-l12-552` : เมื่อย (sore, achy (from physical fatigue)) : 1 meaning(s), 2 sentences
 - `tamago-l12-555` : เรือข้ามฟาก (ferry) : 1 meaning(s), 2 sentences
+- `tamago-l12-556` : เรือแคนู (canoe) : 1 meaning(s), 2 sentences
 - `tamago-l12-558` : เลือดออก, เลือดไหล (to bleed) : 1 meaning(s), 2 sentences
 - `tamago-l12-559` : เล่ม (classifier for books) : 1 meaning(s), 2 sentences
 - `tamago-l12-560` : เวที (stage, platform) : 1 meaning(s), 2 sentences

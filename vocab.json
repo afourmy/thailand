@@ -31861,6 +31861,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "indication, faint sign, hint that something is happening",
+        "sentences": [
+          {
+            "thai": "รอมาชั่วโมงแล้ว ยังไม่มีวี่แววว่าเขาจะมา",
+            "en": "I've been waiting an hour, still no sign of him coming.",
+            "audio_src": "รอมาชั่วโมงแล้ว ยังไม่มีวี่แววว่าเขาจะมา",
+            "audio_en_src": "I've been waiting an hour, still no sign of him coming."
+          },
+          {
+            "thai": "ตำรวจยังไม่พบวี่แววของคนร้าย",
+            "en": "The police still have no trace of the culprit.",
+            "audio_src": "ตำรวจยังไม่พบวี่แววของคนร้าย",
+            "audio_en_src": "The police still have no trace of the culprit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31990,6 +32009,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "fine arts (academic field)",
+        "sentences": [
+          {
+            "thai": "เธอจบคณะศิลปกรรมศาสตร์",
+            "en": "She graduated from the Faculty of Fine Arts.",
+            "audio_src": "เธอจบคณะศิลปกรรมศาสตร์",
+            "audio_en_src": "She graduated from the Faculty of Fine Arts."
+          },
+          {
+            "thai": "เขาอยากสอบเข้าศิลปกรรมศาสตร์เพราะชอบวาดรูป",
+            "en": "He wants to get into fine arts because he loves drawing.",
+            "audio_src": "เขาอยากสอบเข้าศิลปกรรมศาสตร์เพราะชอบวาดรูป",
+            "audio_en_src": "He wants to get into fine arts because he loves drawing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32244,6 +32282,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "botanical garden",
+        "sentences": [
+          {
+            "thai": "วันหยุดไปเดินเล่นที่สวนพฤกษศาสตร์",
+            "en": "On our day off we strolled around the botanical garden.",
+            "audio_src": "วันหยุดไปเดินเล่นที่สวนพฤกษศาสตร์",
+            "audio_en_src": "On our day off we strolled around the botanical garden."
+          },
+          {
+            "thai": "สวนพฤกษศาสตร์ที่เชียงใหม่มีดอกไม้หายากเยอะ",
+            "en": "The botanical garden in Chiang Mai has lots of rare flowers.",
+            "audio_src": "สวนพฤกษศาสตร์ที่เชียงใหม่มีดอกไม้หายากเยอะ",
+            "audio_en_src": "The botanical garden in Chiang Mai has lots of rare flowers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32865,6 +32922,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "shower cap",
+        "sentences": [
+          {
+            "thai": "ใส่หมวกอาบน้ำจะได้ผมไม่เปียก",
+            "en": "Wear a shower cap so your hair doesn't get wet.",
+            "audio_src": "ใส่หมวกอาบน้ำจะได้ผมไม่เปียก",
+            "audio_en_src": "Wear a shower cap so your hair doesn't get wet."
+          },
+          {
+            "thai": "โรงแรมนี้มีหมวกอาบน้ำให้ฟรี",
+            "en": "This hotel provides free shower caps.",
+            "audio_src": "โรงแรมนี้มีหมวกอาบน้ำให้ฟรี",
+            "audio_en_src": "This hotel provides free shower caps."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33830,6 +33906,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "humanities, liberal arts (study of language, culture)",
+        "sentences": [
+          {
+            "thai": "เธอเรียนอักษรศาสตร์ที่จุฬาฯ",
+            "en": "She studies liberal arts at Chula.",
+            "audio_src": "เธอเรียนอักษรศาสตร์ที่จุฬาฯ",
+            "audio_en_src": "She studies liberal arts at Chula."
+          },
+          {
+            "thai": "คณะอักษรศาสตร์มีสอนหลายภาษา",
+            "en": "The Faculty of Arts teaches many languages.",
+            "audio_src": "คณะอักษรศาสตร์มีสอนหลายภาษา",
+            "audio_en_src": "The Faculty of Arts teaches many languages."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33957,6 +34052,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "reluctant, unwilling to do something",
+        "sentences": [
+          {
+            "thai": "พอถูกใช้ไปซื้อของ เขาก็ทำอิดออด",
+            "en": "When he was told to go run errands, he dragged his feet.",
+            "audio_src": "พอถูกใช้ไปซื้อของ เขาก็ทำอิดออด",
+            "audio_en_src": "When he was told to go run errands, he dragged his feet."
+          },
+          {
+            "thai": "ลูกอิดออดทุกครั้งที่ให้ไปอาบน้ำ",
+            "en": "My kid drags his feet every time I tell him to shower.",
+            "audio_src": "ลูกอิดออดทุกครั้งที่ให้ไปอาบน้ำ",
+            "audio_en_src": "My kid drags his feet every time I tell him to shower."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34270,6 +34384,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "deep-fried quail egg wonton",
+        "sentences": [
+          {
+            "thai": "เกี๊ยวไข่ทอดร้านนี้กรอบมาก",
+            "en": "This place's fried quail-egg wontons are so crispy.",
+            "audio_src": "เกี๊ยวไข่ทอดร้านนี้กรอบมาก",
+            "audio_en_src": "This place's fried quail-egg wontons are so crispy."
+          },
+          {
+            "thai": "ซื้อเกี๊ยวไข่ทอดกินเล่นหน้าโรงเรียน",
+            "en": "We bought fried quail-egg wontons for a snack in front of the school.",
+            "audio_src": "ซื้อเกี๊ยวไข่ทอดกินเล่นหน้าโรงเรียน",
+            "audio_en_src": "We bought fried quail-egg wontons for a snack in front of the school."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35076,6 +35209,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to match closely, comparable, on par (formal)",
+        "sentences": [
+          {
+            "thai": "รสชาติร้านนี้ ร้านอื่นเทียบไม่ติด",
+            "en": "No other place comes close to this restaurant's flavor.",
+            "audio_src": "รสชาติร้านนี้ ร้านอื่นเทียบไม่ติด",
+            "audio_en_src": "No other place comes close to this restaurant's flavor."
+          },
+          {
+            "thai": "เขาเก่งจนรุ่นพี่ยังเทียบไม่ติด",
+            "en": "He's so good even the seniors can't compare.",
+            "audio_src": "เขาเก่งจนรุ่นพี่ยังเทียบไม่ติด",
+            "audio_en_src": "He's so good even the seniors can't compare."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35612,6 +35764,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "sterile, infertile",
+        "sentences": [
+          {
+            "thai": "ตรวจแล้วพบว่าเขาเป็นหมัน",
+            "en": "The tests showed he's infertile.",
+            "audio_src": "ตรวจแล้วพบว่าเขาเป็นหมัน",
+            "audio_en_src": "The tests showed he's infertile."
+          },
+          {
+            "thai": "ล่อเป็นสัตว์ที่เป็นหมัน",
+            "en": "Mules are sterile animals.",
+            "audio_src": "ล่อเป็นสัตว์ที่เป็นหมัน",
+            "audio_en_src": "Mules are sterile animals."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35965,6 +36136,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "canoe",
+        "sentences": [
+          {
+            "thai": "เราพายเรือแคนูรอบทะเลสาบ",
+            "en": "We paddled a canoe around the lake.",
+            "audio_src": "เราพายเรือแคนูรอบทะเลสาบ",
+            "audio_en_src": "We paddled a canoe around the lake."
+          },
+          {
+            "thai": "ที่รีสอร์ตมีเรือแคนูให้เช่า",
+            "en": "The resort has canoes for rent.",
+            "audio_src": "ที่รีสอร์ตมีเรือแคนูให้เช่า",
+            "audio_en_src": "The resort has canoes for rent."
+          }
+        ]
+      }
     ]
   },
   {
