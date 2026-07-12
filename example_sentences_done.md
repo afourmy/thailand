@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6663 words**
+**Total: 6673 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2581,11 +2581,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0471` : ธุระ (business, errand) : 1 meaning(s), 2 sentences
 - `thaipod-0472` : ธูป (incense stick) : 1 meaning(s), 2 sentences
 - `thaipod-0473` : นก (bird) : 1 meaning(s), 2 sentences
+- `thaipod-0474` : นมัสการ (to bow in reverence, to pay respect (e.g to a monk)) : 1 meaning(s), 2 sentences
 - `thaipod-0475` : นอกเหนือจาก (besides, apart from, other than) : 1 meaning(s), 2 sentences
 - `thaipod-0476` : นักวิชาการ (scholar, academic) : 1 meaning(s), 2 sentences
 - `thaipod-0478` : นับแต่นั้นมา (since then, from that point onward) : 1 meaning(s), 2 sentences
 - `thaipod-0480` : นั่นแหละ ("it is you that...", "that's it") : 1 meaning(s), 2 sentences
 - `thaipod-0481` : นาข้าว (rice field, paddy) : 1 meaning(s), 2 sentences
+- `thaipod-0483` : นางกวัก (Nang Kwak (beckoning maiden, believed to bring good luck/customers)) : 1 meaning(s), 2 sentences
+- `thaipod-0485` : นกนางแอ่น (swallow (bird)) : 1 meaning(s), 2 sentences
+- `thaipod-0486` : นาฏศิลป์ (dramatic arts, performing arts (traditional Thai dance and theater)) : 1 meaning(s), 2 sentences
 - `thaipod-0487` : นานา (various, many kinds of) : 1 meaning(s), 2 sentences
 - `thaipod-0488` : นานาชนิด (various kinds, all kinds of) : 1 meaning(s), 2 sentences
 - `thaipod-0489` : นานาชาติ (international) : 1 meaning(s), 2 sentences
@@ -2595,6 +2599,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0493` : นำแสดง (to star in, to play the lead role (movie, show)) : 1 meaning(s), 2 sentences
 - `thaipod-0495` : นิยม (popular, in favor) : 1 meaning(s), 2 sentences
 - `thaipod-0496` : นิยาย (novel, fiction) : 1 meaning(s), 2 sentences
+- `thaipod-0497` : นิวัติ (to return, to come back (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0498` : นิสัย (habit, behavior, character) : 1 meaning(s), 2 sentences
 - `thaipod-0499` : น่าชื่นชม (admirable, praiseworthy) : 1 meaning(s), 2 sentences
 - `thaipod-0500` : น่าดึงดูด (attractive, appealing) : 1 meaning(s), 2 sentences
@@ -2603,10 +2608,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0505` : น้ำตก (waterfall) : 1 meaning(s), 2 sentences
 - `thaipod-0506` : น้ำอัดลม (soda, soft drink) : 1 meaning(s), 2 sentences
 - `thaipod-0508` : บทบาท (role (in a play, story, society)) : 1 meaning(s), 2 sentences
+- `thaipod-0509` : บทประพันธ์ (literary work, opus, script) : 1 meaning(s), 2 sentences
+- `thaipod-0510` : บทภาพยนตร์ (screenplay) : 1 meaning(s), 2 sentences
+- `thaipod-0511` : บรมราชาภิเษก (royal coronation) : 1 meaning(s), 2 sentences
 - `thaipod-0514` : บรรดา (all, the group of (followed by a noun)) : 1 meaning(s), 2 sentences
 - `thaipod-0516` : บรรพบุรุษ (ancestors) : 1 meaning(s), 2 sentences
+- `thaipod-0517` : บรรเลงดนตรี (to play music (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0518` : บริเวณ (area, neighborhood, vicinity) : 1 meaning(s), 2 sentences
 - `thaipod-0519` : บังคับ (to force, to compel, mandatory) : 1 meaning(s), 2 sentences
+- `thaipod-0521` : บั้งไฟ (traditional homemade rocket (traditional Thai gunpowder rocket, especially in Isan festivals)) : 1 meaning(s), 2 sentences
 - `thaipod-0522` : บางชนิด (some kinds, certain types) : 1 meaning(s), 2 sentences
 - `thaipod-0525` : บุกรุก (to invade, to trespass) : 1 meaning(s), 2 sentences
 - `thaipod-0526` : บุคคล (person, individual) : 1 meaning(s), 2 sentences
