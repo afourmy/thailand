@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6438 words**
+**Total: 6448 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1003,10 +1003,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-567` : เสียดาย ("it's a shame", "what a pity") : 1 meaning(s), 2 sentences
 - `tamago-l12-568` : เสียใจ (sad (short-term sadness), sorry) : 1 meaning(s), 2 sentences
 - `tamago-l12-570` : เสื้อกันหนาว (sweater, coat (warm clothing)) : 1 meaning(s), 2 sentences
+- `tamago-l12-571` : เสื้อชูชีพ (life vest, life jacket) : 1 meaning(s), 2 sentences
 - `tamago-l12-572` : เสื้อสูท (suit jacket) : 1 meaning(s), 2 sentences
 - `tamago-l12-575` : เหยือก (jug, pitcher) : 1 meaning(s), 2 sentences
 - `tamago-l12-576` : เหรียญ (coin) : 1 meaning(s), 2 sentences
 - `tamago-l12-577` : เหล็กดัดฟัน (braces (dental)) : 1 meaning(s), 2 sentences
+- `tamago-l12-578` : เหว (abyss, deep ravine, gorge) : 1 meaning(s), 2 sentences
+- `tamago-l12-579` : เหาะ (to fly (without wings, often magical)) : 1 meaning(s), 2 sentences
 - `tamago-l12-580` : เห็นอกเห็นใจ (to sympathize, to empathize) : 1 meaning(s), 2 sentences
 - `tamago-l12-581` : เอาคืน (to get something back; (figuratively) to take revenge) : 2 meaning(s), 4 sentences
 - `tamago-l12-582` : เอาน่า ("come on!", "let's do it!" (persuade or encourage)) : 1 meaning(s), 2 sentences
@@ -1022,7 +1025,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-594` : แปลกใจ (surprised) : 1 meaning(s), 2 sentences
 - `tamago-l12-595` : แป้ง (powder; flour, starch) : 2 meaning(s), 4 sentences
 - `tamago-l12-597` : แผง (stall, booth; blister pack (e.g pills); panel, board) : 3 meaning(s), 6 sentences
+- `tamago-l12-598` : แพ (raft (boat)) : 1 meaning(s), 2 sentences
 - `tamago-l12-600` : แมงกะพรุน (jellyfish) : 1 meaning(s), 2 sentences
+- `tamago-l12-601` : แมวน้ำ (seal (animal)) : 1 meaning(s), 2 sentences
 - `tamago-l12-604` : แม่ลูกอ่อน (young mother, mother with a newborn) : 1 meaning(s), 2 sentences
 - `tamago-l12-605` : แม้กระทั่ง (even, even including) : 1 meaning(s), 2 sentences
 - `tamago-l12-607` : แล้วไง ("and?", "so what?") : 1 meaning(s), 2 sentences
@@ -1061,6 +1066,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-646` : ไม่รวม (to exclude, excluding, not included) : 1 meaning(s), 2 sentences
 - `tamago-l12-647` : ไม่สักนิด (not even a little) : 1 meaning(s), 2 sentences
 - `tamago-l12-648` : ไม่เกี่ยว (to be irrelevant, to have nothing to do with) : 1 meaning(s), 2 sentences
+- `tamago-l12-649` : ไม้ลามิเนต (laminated wood) : 1 meaning(s), 2 sentences
 - `tamago-l12-650` : ไม้ไผ่ (bamboo) : 1 meaning(s), 2 sentences
 - `tamago-l12-651` : ไร้สาระ (useless, foolish, nonsensical) : 1 meaning(s), 2 sentences
 - `tamago-l12-652` : ไวยากรณ์ (grammar) : 1 meaning(s), 2 sentences
@@ -1073,6 +1079,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-003` : กู้ (to save, to rescue; to borrow money, to take a loan) : 2 meaning(s), 4 sentences
 - `thai9k-005` : สายรุ้ง, รุ้ง, รุ้งกินน้ำ (rainbow) : 1 meaning(s), 2 sentences
 - `thai9k-007` : เส้นประสาท (nerve) : 1 meaning(s), 2 sentences
+- `thai9k-009` : ซี่โครง (rib) : 1 meaning(s), 2 sentences
 - `thai9k-012` : ไฝ (mole) : 1 meaning(s), 2 sentences
 - `thai9k-013` : ปาน (birthmark) : 1 meaning(s), 2 sentences
 - `thai9k-014` : ผูกเชือกรองเท้า (to tie one's shoelaces) : 1 meaning(s), 2 sentences
@@ -1087,6 +1094,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-029` : สง่า, สง่างาม (majestic, graceful, elegant) : 1 meaning(s), 2 sentences
 - `thai9k-030` : เปลเด็ก (cradle, baby crib) : 1 meaning(s), 2 sentences
 - `thai9k-031` : จุกนมหลอก (pacifier) : 1 meaning(s), 2 sentences
+- `thai9k-032` : ปลีกวิเวก (to withdraw from the world, to live in seclusion) : 1 meaning(s), 2 sentences
 - `thai9k-033` : ละอายใจ (to feel ashamed of oneself, to feel remorse) : 1 meaning(s), 2 sentences
 - `thai9k-035` : เจ้าเล่ห์ (cunning, sly) : 1 meaning(s), 2 sentences
 - `thai9k-036` : เด็ดเดี่ยว (determined, resolute) : 1 meaning(s), 2 sentences
@@ -1094,6 +1102,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
 - `thai9k-040` : ปริศนา (riddle, puzzle, mystery) : 1 meaning(s), 2 sentences
 - `tamago-l3-001` : ความน่าเชื่อถือ (reliability, credibility, trustworthiness) : 1 meaning(s), 2 sentences
+- `tamago-l3-002` : เขียวเสวย (a type of green mango) : 1 meaning(s), 2 sentences
 - `tamago-l3-003` : ตั้งชื่อ (to name (give a name to)) : 1 meaning(s), 2 sentences
 - `tamago-l3-004` : ใบรับรอง (certificate) : 1 meaning(s), 2 sentences
 - `tamago-l3-005` : เอาไว้ก่อน (to leave something for later, to set aside for now) : 1 meaning(s), 2 sentences
@@ -1129,6 +1138,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
 - `tamago-l3-040` : สุดโต่ง (extreme, radical) : 1 meaning(s), 2 sentences
 - `tamago-l3-041` : คงที่ (stable, constant, unchanging) : 1 meaning(s), 2 sentences
+- `tamago-l3-042` : ฮวบฮาบ (drastically, abruptly) : 1 meaning(s), 2 sentences
 - `tamago-l3-043` : เก็บกด (to repress, to suppress one's feelings, to bottle up) : 1 meaning(s), 2 sentences
 - `tamago-l3-044` : แรงกระตุ้น (motivation) : 1 meaning(s), 2 sentences
 - `tamago-l3-045` : งานบ้าน (housework) : 1 meaning(s), 2 sentences
