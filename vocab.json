@@ -130136,10 +130136,31 @@
   {
     "id": "yt-c11-072",
     "thai": "เพลา",
+    "thai_tts": "พลาว",
     "english": "to lessen, to reduce",
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to lessen, to reduce",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ดื่มหนักไปแล้ว เพลาๆ ลงบ้างนะ",
+            "thai_tts": "ช่วงนี้ดื่มหนักไปแล้ว พลาวๆ ลงบ้างนะ",
+            "en": "You've been drinking too much lately, ease up a bit.",
+            "audio_src": "ช่วงนี้ดื่มหนักไปแล้ว พลาวๆ ลงบ้างนะ",
+            "audio_en_src": "You've been drinking too much lately, ease up a bit."
+          },
+          {
+            "thai": "นวดแรงไปหน่อย เพลามือลงนิดนึง",
+            "en": "You're massaging too hard, ease up a little.",
+            "audio_src": "นวดแรงไปหน่อย เพลามือลงนิดนึง",
+            "audio_en_src": "You're massaging too hard, ease up a little."
+          }
+        ]
+      }
     ]
   },
   {
@@ -130149,6 +130170,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "time (old-fashioned)",
+        "sentences": [
+          {
+            "thai": "เพลาเช้าอากาศยังเย็นอยู่",
+            "en": "In the early morning, the air is still cool.",
+            "audio_src": "เพลาเช้าอากาศยังเย็นอยู่",
+            "audio_en_src": "In the early morning, the air is still cool."
+          },
+          {
+            "thai": "เพลาค่ำแล้ว รีบกลับบ้านเถิด",
+            "en": "It's evening already, hurry on home.",
+            "audio_src": "เพลาค่ำแล้ว รีบกลับบ้านเถิด",
+            "audio_en_src": "It's evening already, hurry on home."
+          }
+        ]
+      }
     ]
   },
   {

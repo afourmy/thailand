@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6327 words**
+**Total: 6329 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3502,6 +3502,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-065` : ลับหลัง (behind someone's back, secretly, on the sly) : 1 meaning(s), 2 sentences
 - `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
 - `yt-c11-069` : สอย (to pluck, to pick (with a tool, e.g bamboo stick, to make fruits fall)) : 1 meaning(s), 2 sentences
+- `yt-c11-072` : เพลา (to lessen, to reduce) : 1 meaning(s), 2 sentences
+- `new-33` : เพลา (time (old-fashioned)) : 1 meaning(s), 2 sentences
 - `yt-c11-073` : สุขุม (calm, composed, level-headed) : 1 meaning(s), 2 sentences
 - `yt-c11-075` : ระดมทุน (to raise funds, to raise capital) : 1 meaning(s), 2 sentences
 - `yt-c11-078` : หึง (jealous (in relationships only, romantic context)) : 1 meaning(s), 2 sentences

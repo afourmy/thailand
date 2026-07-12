@@ -12,6 +12,11 @@ vocab.js):
 where <mi> is the 0-based meaning index, <si> the 0-based sentence index, and <shard>
 is a 2-hex-digit bucket of the word id (see audio_paths.py).
 
+A sentence may carry an optional "thai_tts" / "en_tts" field: a phonetic
+respelling spoken instead of the display text, for homographs Azure misreads
+even in context (e.g. พลาวๆ so เพลาๆ "ease up" is read plao, not phee-laa).
+It affects synthesis only; the UI still shows the normal field.
+
 After synthesizing a clip, the exact spoken text is recorded back onto the sentence
 object as "audio_src" (Thai) / "audio_en_src" (English) -- the same provenance
 mechanism the word entries use. A clip is regenerated when its mp3 is missing OR
@@ -143,7 +148,7 @@ def main():
                     src_key = SRC_KEY[lc]
                     out = Path(audio_paths.example_audio_path(
                         word["id"], mi, si, en=(lc == "en")))
-                    spoken = speakable(sent.get(cfg["key"], ""))
+                    spoken = speakable(sent.get(cfg["key"] + "_tts") or sent.get(cfg["key"], ""))
                     if not spoken:
                         print("skip (empty %s):" % lc, out.name)
                         continue
