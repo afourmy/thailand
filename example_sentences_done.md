@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6565 words**
+**Total: 6575 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2272,14 +2272,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0002` : 18 มงกุฎ ((idiom) to act as a con artist) : 1 meaning(s), 2 sentences
 - `thaipod-0003` : กฎมีไว้ให้ฝ่าฝืน ("rules are made to be broken") : 1 meaning(s), 2 sentences
 - `thaipod-0004` : กฎหมาย (law) : 1 meaning(s), 2 sentences
+- `thaipod-0005` : กฎอัยการศึก (martial law) : 1 meaning(s), 2 sentences
+- `thaipod-0006` : กรมการ (departmental officials, administrative officers, governing body (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0007` : กรมศิลปากร (Fine Arts Department) : 1 meaning(s), 2 sentences
 - `thaipod-0009` : กระจัดกระจาย (scattered, spread out) : 1 meaning(s), 2 sentences
 - `thaipod-0013` : กระตุ้น (to stimulate, to urge) : 1 meaning(s), 2 sentences
 - `thaipod-0014` : กระทง (krathong (small decorated float made from banana leaves, flowers, candles for Loy Krathong festival)) : 1 meaning(s), 2 sentences
 - `thaipod-0016` : กระเช้าของขวัญ (gift basket) : 1 meaning(s), 2 sentences
+- `thaipod-0017` : กระเช้าลอยฟ้า (cable car, gondola) : 1 meaning(s), 2 sentences
 - `thaipod-0018` : กระเบื้อง (tile) : 1 meaning(s), 2 sentences
+- `thaipod-0019` : กระเบื้องสี (colored tile) : 1 meaning(s), 2 sentences
+- `thaipod-0020` : กระเบื้องเคลือบ (glazed tile) : 1 meaning(s), 2 sentences
 - `thaipod-0021` : กระโปรง (skirt) : 1 meaning(s), 2 sentences
 - `thaipod-0022` : กรุง (capital city) : 1 meaning(s), 2 sentences
+- `thaipod-0023` : กลอนบรรยาย (descriptive verse (poetry)) : 1 meaning(s), 2 sentences
 - `thaipod-0024` : กลับหัว (upside down) : 1 meaning(s), 2 sentences
+- `thaipod-0026` : กลุ่มอิทธิพล (powerful clique, gang, influential group) : 1 meaning(s), 2 sentences
+- `thaipod-0027` : กล่าวขวัญ (to mention, to speak of (usually in praise)) : 1 meaning(s), 2 sentences
 - `thaipod-0028` : กล่าวหา (to accuse, to allege, to charge) : 1 meaning(s), 2 sentences
 - `thaipod-0029` : กล้วยไม้ (orchid) : 1 meaning(s), 2 sentences
 - `thaipod-0030` : กล้า (brave; to dare) : 2 meaning(s), 4 sentences
@@ -2287,6 +2296,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0032` : กว้างไกล (far and wide, far-reaching) : 1 meaning(s), 2 sentences
 - `thaipod-0033` : กษัตริย์ (king) : 1 meaning(s), 2 sentences
 - `thaipod-0034` : กอง (pile, heap; division (e.g army)) : 2 meaning(s), 4 sentences
+- `thaipod-0035` : กองกำลังทหาร (military forces) : 1 meaning(s), 2 sentences
 - `thaipod-0038` : กองไฟ (bonfire, pile of fire) : 1 meaning(s), 2 sentences
 - `thaipod-0042` : กันแน่ ("... really?", "for sure?" (in questions, when seeking clarification)) : 1 meaning(s), 2 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences

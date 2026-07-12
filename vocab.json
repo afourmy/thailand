@@ -78840,6 +78840,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "martial law",
+        "sentences": [
+          {
+            "thai": "รัฐบาลประกาศกฎอัยการศึกหลังรัฐประหาร",
+            "en": "The government declared martial law after the coup.",
+            "audio_src": "รัฐบาลประกาศกฎอัยการศึกหลังรัฐประหาร",
+            "audio_en_src": "The government declared martial law after the coup."
+          },
+          {
+            "thai": "ภายใต้กฎอัยการศึก ห้ามชุมนุมเกินห้าคน",
+            "en": "Under martial law, gatherings of more than five people are banned.",
+            "audio_src": "ภายใต้กฎอัยการศึก ห้ามชุมนุมเกินห้าคน",
+            "audio_en_src": "Under martial law, gatherings of more than five people are banned."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78849,6 +78868,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "departmental officials, administrative officers, governing body (formal)",
+        "sentences": [
+          {
+            "thai": "สมัยก่อน กรมการเมืองมีหน้าที่ดูแลความสงบในเมือง",
+            "en": "In the old days, town officials were responsible for keeping the peace.",
+            "audio_src": "สมัยก่อน กรมการเมืองมีหน้าที่ดูแลความสงบในเมือง",
+            "audio_en_src": "In the old days, town officials were responsible for keeping the peace."
+          },
+          {
+            "thai": "เจ้าเมืองเรียกประชุมกรมการทุกคน",
+            "en": "The governor summoned all his officials to a meeting.",
+            "audio_src": "เจ้าเมืองเรียกประชุมกรมการทุกคน",
+            "audio_en_src": "The governor summoned all his officials to a meeting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78859,6 +78897,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Fine Arts Department",
+        "sentences": [
+          {
+            "thai": "กรมศิลปากรดูแลโบราณสถานทั่วประเทศ",
+            "en": "The Fine Arts Department looks after historic sites across the country.",
+            "audio_src": "กรมศิลปากรดูแลโบราณสถานทั่วประเทศ",
+            "audio_en_src": "The Fine Arts Department looks after historic sites across the country."
+          },
+          {
+            "thai": "โบราณวัตถุที่ขุดพบถูกส่งให้กรมศิลปากรตรวจสอบ",
+            "en": "The excavated artifacts were sent to the Fine Arts Department for examination.",
+            "audio_src": "โบราณวัตถุที่ขุดพบถูกส่งให้กรมศิลปากรตรวจสอบ",
+            "audio_en_src": "The excavated artifacts were sent to the Fine Arts Department for examination."
+          }
+        ]
+      }
     ]
   },
   {
@@ -79006,6 +79063,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "cable car, gondola",
+        "sentences": [
+          {
+            "thai": "เรานั่งกระเช้าลอยฟ้าขึ้นไปบนยอดเขา",
+            "en": "We took the cable car up to the mountaintop.",
+            "audio_src": "เรานั่งกระเช้าลอยฟ้าขึ้นไปบนยอดเขา",
+            "audio_en_src": "We took the cable car up to the mountaintop."
+          },
+          {
+            "thai": "วิวจากกระเช้าลอยฟ้าสวยจนไม่อยากลง",
+            "en": "The view from the cable car was so beautiful I didn't want to come down.",
+            "audio_src": "วิวจากกระเช้าลอยฟ้าสวยจนไม่อยากลง",
+            "audio_en_src": "The view from the cable car was so beautiful I didn't want to come down."
+          }
+        ]
+      }
     ]
   },
   {
@@ -79046,6 +79122,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "colored tile",
+        "sentences": [
+          {
+            "thai": "หลังคาวัดมุงด้วยกระเบื้องสีสดใส",
+            "en": "The temple roof is covered in brightly colored tiles.",
+            "audio_src": "หลังคาวัดมุงด้วยกระเบื้องสีสดใส",
+            "audio_en_src": "The temple roof is covered in brightly colored tiles."
+          },
+          {
+            "thai": "เขาเลือกกระเบื้องสีฟ้าปูห้องน้ำ",
+            "en": "He chose blue tiles for the bathroom.",
+            "audio_src": "เขาเลือกกระเบื้องสีฟ้าปูห้องน้ำ",
+            "audio_en_src": "He chose blue tiles for the bathroom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -79055,6 +79150,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "glazed tile",
+        "sentences": [
+          {
+            "thai": "กระเบื้องเคลือบทำความสะอาดง่าย",
+            "en": "Glazed tiles are easy to clean.",
+            "audio_src": "กระเบื้องเคลือบทำความสะอาดง่าย",
+            "audio_en_src": "Glazed tiles are easy to clean."
+          },
+          {
+            "thai": "เจดีย์วัดอรุณประดับด้วยกระเบื้องเคลือบ",
+            "en": "The spire of Wat Arun is decorated with glazed tiles.",
+            "audio_src": "เจดีย์วัดอรุณประดับด้วยกระเบื้องเคลือบ",
+            "audio_en_src": "The spire of Wat Arun is decorated with glazed tiles."
+          }
+        ]
+      }
     ]
   },
   {
@@ -79130,6 +79244,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "descriptive verse (poetry)",
+        "sentences": [
+          {
+            "thai": "ครูให้แต่งกลอนบรรยายธรรมชาติ",
+            "en": "The teacher had us write descriptive verse about nature.",
+            "audio_src": "ครูให้แต่งกลอนบรรยายธรรมชาติ",
+            "audio_en_src": "The teacher had us write descriptive verse about nature."
+          },
+          {
+            "thai": "กวีใช้กลอนบรรยายเล่าเหตุการณ์ในประวัติศาสตร์",
+            "en": "The poet used descriptive verse to recount historical events.",
+            "audio_src": "กวีใช้กลอนบรรยายเล่าเหตุการณ์ในประวัติศาสตร์",
+            "audio_en_src": "The poet used descriptive verse to recount historical events."
+          }
+        ]
+      }
     ]
   },
   {
@@ -79178,6 +79311,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "powerful clique, gang, influential group",
+        "sentences": [
+          {
+            "thai": "ตำรวจกวาดล้างกลุ่มอิทธิพลในพื้นที่",
+            "en": "Police cracked down on the local mafia groups.",
+            "audio_src": "ตำรวจกวาดล้างกลุ่มอิทธิพลในพื้นที่",
+            "audio_en_src": "Police cracked down on the local mafia groups."
+          },
+          {
+            "thai": "ธุรกิจนี้มีกลุ่มอิทธิพลหนุนหลัง",
+            "en": "This business is backed by an influential clique.",
+            "audio_src": "ธุรกิจนี้มีกลุ่มอิทธิพลหนุนหลัง",
+            "audio_en_src": "This business is backed by an influential clique."
+          }
+        ]
+      }
     ]
   },
   {
@@ -79187,6 +79339,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to mention, to speak of (usually in praise)",
+        "sentences": [
+          {
+            "thai": "ผลงานของเธอถูกกล่าวขวัญถึงไปทั่ววงการ",
+            "en": "Her work is talked about across the industry.",
+            "audio_src": "ผลงานของเธอถูกกล่าวขวัญถึงไปทั่ววงการ",
+            "audio_en_src": "Her work is talked about across the industry."
+          },
+          {
+            "thai": "ครูใหญ่กล่าวขวัญถึงนักเรียนคนนี้อยู่บ่อยๆ",
+            "en": "The principal often speaks admiringly of this student.",
+            "audio_src": "ครูใหญ่กล่าวขวัญถึงนักเรียนคนนี้อยู่บ่อยๆ",
+            "audio_en_src": "The principal often speaks admiringly of this student."
+          }
+        ]
+      }
     ]
   },
   {
@@ -79445,6 +79616,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "military forces",
+        "sentences": [
+          {
+            "thai": "กองกำลังทหารถูกส่งไปประจำชายแดน",
+            "en": "Military forces were sent to the border.",
+            "audio_src": "กองกำลังทหารถูกส่งไปประจำชายแดน",
+            "audio_en_src": "Military forces were sent to the border."
+          },
+          {
+            "thai": "สองประเทศเสริมกองกำลังทหารตามแนวชายแดน",
+            "en": "Both countries reinforced their military forces along the border.",
+            "audio_src": "สองประเทศเสริมกองกำลังทหารตามแนวชายแดน",
+            "audio_en_src": "Both countries reinforced their military forces along the border."
+          }
+        ]
+      }
     ]
   },
   {
