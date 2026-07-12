@@ -68180,11 +68180,15 @@
         "sentences": [
           {
             "thai": "บ้านเราไม่มีพิธีรีตอง ตามสบายเลย",
-            "en": "No formalities in our house, make yourself at home."
+            "en": "No formalities in our house, make yourself at home.",
+            "audio_src": "บ้านเราไม่มีพิธีรีตอง ตามสบายเลย",
+            "audio_en_src": "No formalities in our house, make yourself at home."
           },
           {
             "thai": "งานเลี้ยงจัดแบบเรียบง่าย ไม่เน้นพิธีรีตอง",
-            "en": "The party was kept simple, without much ceremony."
+            "en": "The party was kept simple, without much ceremony.",
+            "audio_src": "งานเลี้ยงจัดแบบเรียบง่าย ไม่เน้นพิธีรีตอง",
+            "audio_en_src": "The party was kept simple, without much ceremony."
           }
         ]
       }
@@ -68204,11 +68208,15 @@
         "sentences": [
           {
             "thai": "เราทำกันมาทั้งเดือน เขาโผล่มาชุบมือเปิบตอนจบ",
-            "en": "We worked on it all month, and he swooped in at the end to take the credit."
+            "en": "We worked on it all month, and he swooped in at the end to take the credit.",
+            "audio_src": "เราทำกันมาทั้งเดือน เขาโผล่มาชุบมือเปิบตอนจบ",
+            "audio_en_src": "We worked on it all month, and he swooped in at the end to take the credit."
           },
           {
             "thai": "อย่าให้ใครมาชุบมือเปิบผลงานของทีม",
-            "en": "Don't let anyone ride on the team's work."
+            "en": "Don't let anyone ride on the team's work.",
+            "audio_src": "อย่าให้ใครมาชุบมือเปิบผลงานของทีม",
+            "audio_en_src": "Don't let anyone ride on the team's work."
           }
         ]
       }
@@ -68639,10 +68647,29 @@
   {
     "id": "tsl-211",
     "thai": "ใจดีสู้เสือ",
-    "english": "(idiom) to face a fierce situation with kindness",
+    "english": "(idiom) to keep one's cool and face danger bravely",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "(idiom) to keep one's cool and face danger bravely",
+        "sentences": [
+          {
+            "thai": "เจอหมาดุ ต้องใจดีสู้เสือ เดินผ่านไปเฉยๆ",
+            "en": "When you meet an aggressive dog, keep your cool and just walk past.",
+            "audio_src": "เจอหมาดุ ต้องใจดีสู้เสือ เดินผ่านไปเฉยๆ",
+            "audio_en_src": "When you meet an aggressive dog, keep your cool and just walk past."
+          },
+          {
+            "thai": "โดนเจ้านายเรียกไปคุย เขาก็ใจดีสู้เสือเข้าไป",
+            "en": "Called in to see the boss, he steeled himself and went in.",
+            "audio_src": "โดนเจ้านายเรียกไปคุย เขาก็ใจดีสู้เสือเข้าไป",
+            "audio_en_src": "Called in to see the boss, he steeled himself and went in."
+          }
+        ]
+      }
     ]
   },
   {
@@ -68659,11 +68686,15 @@
         "sentences": [
           {
             "thai": "กางเกงผ้าลูกฟูกกลับมาฮิตอีกแล้ว",
-            "en": "Corduroy pants are back in fashion."
+            "en": "Corduroy pants are back in fashion.",
+            "audio_src": "กางเกงผ้าลูกฟูกกลับมาฮิตอีกแล้ว",
+            "audio_en_src": "Corduroy pants are back in fashion."
           },
           {
             "thai": "แจ็กเก็ตผ้าลูกฟูกใส่หน้าหนาวอุ่นดี",
-            "en": "A corduroy jacket is nice and warm for the cool season."
+            "en": "A corduroy jacket is nice and warm for the cool season.",
+            "audio_src": "แจ็กเก็ตผ้าลูกฟูกใส่หน้าหนาวอุ่นดี",
+            "audio_en_src": "A corduroy jacket is nice and warm for the cool season."
           }
         ]
       }
@@ -68683,11 +68714,15 @@
         "sentences": [
           {
             "thai": "กรุงเทพฯ ยามราตรีสวยไปอีกแบบ",
-            "en": "Bangkok at night has its own beauty."
+            "en": "Bangkok at night has its own beauty.",
+            "audio_src": "กรุงเทพฯ ยามราตรีสวยไปอีกแบบ",
+            "audio_en_src": "Bangkok at night has its own beauty."
           },
           {
             "thai": "เสียงจักจั่นดังก้องในยามราตรี",
-            "en": "The sound of cicadas echoes through the night."
+            "en": "The sound of cicadas echoes through the night.",
+            "audio_src": "เสียงจักจั่นดังก้องในยามราตรี",
+            "audio_en_src": "The sound of cicadas echoes through the night."
           }
         ]
       }
@@ -68805,11 +68840,15 @@
         "sentences": [
           {
             "thai": "ชาวบ้านเอาเหล้าขาวไปเซ่นศาลเจ้าที่",
-            "en": "The villagers offered rice whiskey at the spirit shrine."
+            "en": "The villagers offered rice whiskey at the spirit shrine.",
+            "audio_src": "ชาวบ้านเอาเหล้าขาวไปเซ่นศาลเจ้าที่",
+            "audio_en_src": "The villagers offered rice whiskey at the spirit shrine."
           },
           {
             "thai": "ก่อนลงมือสร้างบ้าน ต้องเซ่นไหว้เจ้าที่ก่อน",
-            "en": "Before building a house, you have to make offerings to the guardian spirits."
+            "en": "Before building a house, you have to make offerings to the guardian spirits.",
+            "audio_src": "ก่อนลงมือสร้างบ้าน ต้องเซ่นไหว้เจ้าที่ก่อน",
+            "audio_en_src": "Before building a house, you have to make offerings to the guardian spirits."
           }
         ]
       }
@@ -68933,11 +68972,15 @@
         "sentences": [
           {
             "thai": "เขาได้รับแต่งตั้งเป็นรองคณบดีฝ่ายวิชาการ",
-            "en": "He was appointed vice-dean for academic affairs."
+            "en": "He was appointed vice-dean for academic affairs.",
+            "audio_src": "เขาได้รับแต่งตั้งเป็นรองคณบดีฝ่ายวิชาการ",
+            "audio_en_src": "He was appointed vice-dean for academic affairs."
           },
           {
             "thai": "นักศึกษาไปยื่นเรื่องกับรองคณบดี",
-            "en": "The students submitted their petition to the vice-dean."
+            "en": "The students submitted their petition to the vice-dean.",
+            "audio_src": "นักศึกษาไปยื่นเรื่องกับรองคณบดี",
+            "audio_en_src": "The students submitted their petition to the vice-dean."
           }
         ]
       }
@@ -68957,11 +69000,15 @@
         "sentences": [
           {
             "thai": "เธอทำงานอยู่ฝ่ายวิเทศสัมพันธ์ของมหาวิทยาลัย",
-            "en": "She works in the university's international relations office."
+            "en": "She works in the university's international relations office.",
+            "audio_src": "เธอทำงานอยู่ฝ่ายวิเทศสัมพันธ์ของมหาวิทยาลัย",
+            "audio_en_src": "She works in the university's international relations office."
           },
           {
             "thai": "กองวิเทศสัมพันธ์ดูแลนักศึกษาแลกเปลี่ยน",
-            "en": "The international relations division takes care of exchange students."
+            "en": "The international relations division takes care of exchange students.",
+            "audio_src": "กองวิเทศสัมพันธ์ดูแลนักศึกษาแลกเปลี่ยน",
+            "audio_en_src": "The international relations division takes care of exchange students."
           }
         ]
       }
@@ -69101,11 +69148,15 @@
         "sentences": [
           {
             "thai": "หาแฟ้มเก่าในโกดังนี้เหมือนงมเข็มในมหาสมุทร",
-            "en": "Finding that old file in this warehouse is like looking for a needle in a haystack."
+            "en": "Finding that old file in this warehouse is like looking for a needle in a haystack.",
+            "audio_src": "หาแฟ้มเก่าในโกดังนี้เหมือนงมเข็มในมหาสมุทร",
+            "audio_en_src": "Finding that old file in this warehouse is like looking for a needle in a haystack."
           },
           {
             "thai": "ตามหาคนที่เห็นเหตุการณ์เหมือนงมเข็มในมหาสมุทร",
-            "en": "Tracking down a witness is like searching for a needle in a haystack."
+            "en": "Tracking down a witness is like searching for a needle in a haystack.",
+            "audio_src": "ตามหาคนที่เห็นเหตุการณ์เหมือนงมเข็มในมหาสมุทร",
+            "audio_en_src": "Tracking down a witness is like searching for a needle in a haystack."
           }
         ]
       }
@@ -69224,11 +69275,15 @@
         "sentences": [
           {
             "thai": "ชุดไทยผู้ชายสมัยก่อนมีผ้ารัดเอว",
-            "en": "Old-style Thai men's dress included a waist sash."
+            "en": "Old-style Thai men's dress included a waist sash.",
+            "audio_src": "ชุดไทยผู้ชายสมัยก่อนมีผ้ารัดเอว",
+            "audio_en_src": "Old-style Thai men's dress included a waist sash."
           },
           {
             "thai": "เขาผูกผ้ารัดเอวให้แน่นก่อนรำ",
-            "en": "He tied his waist sash tight before the dance."
+            "en": "He tied his waist sash tight before the dance.",
+            "audio_src": "เขาผูกผ้ารัดเอวให้แน่นก่อนรำ",
+            "audio_en_src": "He tied his waist sash tight before the dance."
           }
         ]
       }

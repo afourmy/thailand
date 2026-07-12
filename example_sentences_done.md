@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6508 words**
+**Total: 6518 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1964,6 +1964,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-187` : เอ่ยถึง (to mention, to bring up, to refer to) : 1 meaning(s), 2 sentences
 - `tsl-188` : พิลึกพิลั่น (bizarre, weird, strange) : 1 meaning(s), 2 sentences
 - `tsl-189` : สั่งน้ำมูก (to blow one's nose) : 1 meaning(s), 2 sentences
+- `tsl-190` : พิธีรีตอง (formalities, protocol, etiquette) : 1 meaning(s), 2 sentences
+- `tsl-191` : ชุบมือเปิบ (to take credit without contributing, to benefit from someone else's work (idiom, literally "dip hand and eat")) : 1 meaning(s), 2 sentences
 - `tsl-192` : ดาวน์ (downpayment, deposit) : 1 meaning(s), 2 sentences
 - `tsl-193` : งวด (installment of a payment; (cooking) reduced, simmered) : 2 meaning(s), 4 sentences
 - `tsl-195` : คันเร่ง (accelerator pedal (of a vehicle)) : 1 meaning(s), 2 sentences
@@ -1975,18 +1977,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-208` : ประทับตรา (to stamp, to affix a seal) : 1 meaning(s), 2 sentences
 - `tsl-209` : ตราประทับ (stamp, seal (the impression)) : 1 meaning(s), 2 sentences
 - `tsl-210` : สถานภาพ (status (e.g marital, residency)) : 1 meaning(s), 2 sentences
+- `tsl-211` : ใจดีสู้เสือ ((idiom) to keep one's cool and face danger bravely) : 1 meaning(s), 2 sentences
+- `tsl-212` : ผ้าลูกฟูก (corduroy) : 1 meaning(s), 2 sentences
+- `tsl-213` : ยามราตรี (night time, at night (literary, poetic)) : 1 meaning(s), 2 sentences
 - `tsl-214` : ล้อมวง (to sit in a circle, to gather around) : 1 meaning(s), 2 sentences
 - `tsl-215` : ร่วน (crumbly, loose, easily falls apart (texture)) : 1 meaning(s), 2 sentences
 - `tsl-217` : คีบ (to pick up (using chopsticks, tongs, fingers)) : 1 meaning(s), 2 sentences
+- `tsl-218` : เซ่น (offerings, sacrifice, to make an offering to spirits or deities) : 1 meaning(s), 2 sentences
 - `tsl-219` : เอาใจช่วย (to root for someone, to cheer on) : 1 meaning(s), 2 sentences
 - `tsl-221` : ของใครของมัน ((idiom) "to each their own") : 1 meaning(s), 2 sentences
 - `tsl-223` : มาก่อนได้ก่อน (first come, first served) : 1 meaning(s), 2 sentences
+- `tsl-224` : รองคณบดี (vice-dean (school, university)) : 1 meaning(s), 2 sentences
+- `tsl-225` : วิเทศสัมพันธ์ (foreign affairs, international relations) : 1 meaning(s), 2 sentences
 - `tsl-226` : เป็นธุระ (to take care of something, to handle a task) : 1 meaning(s), 2 sentences
 - `tsl-228` : ยั่งยืน (sustainable, long-lasting) : 1 meaning(s), 2 sentences
 - `tsl-231` : กระจ่าง (clear, easily understandable (explanation)) : 1 meaning(s), 2 sentences
+- `tsl-232` : งมเข็มในมหาสมุทร ((idiom) to look for a needle in a haystack (literally "to search for a needle in the ocean")) : 1 meaning(s), 2 sentences
 - `tsl-233` : ค้าน (to object, to protest, to oppose) : 1 meaning(s), 2 sentences
 - `tsl-234` : ภูมิอากาศ (climate) : 1 meaning(s), 2 sentences
 - `tsl-235` : อารยธรรม (civilization) : 1 meaning(s), 2 sentences
+- `tsl-237` : ผ้ารัดเอว (sash, waist cloth) : 1 meaning(s), 2 sentences
 - `tsl-238` : เสริมสร้าง (to enhance, strengthen, reinforce) : 1 meaning(s), 2 sentences
 - `tsl-242` : อาหารเสริม ((dietary) supplement) : 1 meaning(s), 2 sentences
 - `tsl-243` : ข้ามเส้น - ล้ำเส้น (to cross the line (literally) - to overstep limits, to go too far) : 1 meaning(s), 2 sentences
