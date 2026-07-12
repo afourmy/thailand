@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6498 words**
+**Total: 6508 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1849,7 +1849,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-033` : ถูกปาก (delicious, tastes good) : 1 meaning(s), 2 sentences
 - `tsl-035` : ห้องแถว (row house, shophouse (narrow units with a shop in front)) : 1 meaning(s), 2 sentences
 - `tsl-036` : ทำด้วย - ทำจาก (made with - made from) : 1 meaning(s), 2 sentences
+- `tsl-037` : ไม้สัก (teak wood) : 1 meaning(s), 2 sentences
 - `tsl-038` : ไร่ (field, plantation; unit of area (1600 m²)) : 2 meaning(s), 4 sentences
+- `tsl-039` : ชามเบญจรงค์ (Benjarong bowl (traditional Thai painted porcelain)) : 1 meaning(s), 2 sentences
 - `tsl-040` : ต่อรอง (to bargain, to negotiate) : 1 meaning(s), 2 sentences
 - `tsl-041` : เป็นอย่างดี (very well, excellently) : 1 meaning(s), 2 sentences
 - `tsl-042` : หารกัน (to split among people (share a bill), to divide equally) : 1 meaning(s), 2 sentences
@@ -1894,6 +1896,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-097` : ฝ่าฝืน (to violate, to disobey, to breach (e.g a law, a rule)) : 1 meaning(s), 2 sentences
 - `tsl-098` : เข็ม (needle; (informal) shot, injection) : 2 meaning(s), 4 sentences
 - `tsl-100` : จู่ๆ (suddenly, all of a sudden) : 1 meaning(s), 2 sentences
+- `tsl-102` : มัมมี่ (mummy (preserved corpse)) : 1 meaning(s), 2 sentences
 - `tsl-103` : แคะขี้มูก (to pick one's nose) : 1 meaning(s), 2 sentences
 - `tsl-106` : คลั่งไคล้ (crazy about, infatuated with, obsessed with) : 1 meaning(s), 2 sentences
 - `tsl-107` : ทางลาด - ทางลาดชัน (slope (inclined path) - steep slope) : 2 meaning(s), 4 sentences
@@ -1924,6 +1927,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-136` : ปรุงรส (to season (food)) : 1 meaning(s), 2 sentences
 - `tsl-137` : ยอดฮิต (hit, most popular) : 1 meaning(s), 2 sentences
 - `tsl-138` : พื้นบ้าน, พื้นเมือง (traditional, folk, native, local) : 1 meaning(s), 2 sentences
+- `tsl-140` : มะกรูด (kaffir lime) : 1 meaning(s), 2 sentences
 - `tsl-141` : ได้รับอิทธิพล (to be influenced by) : 1 meaning(s), 2 sentences
 - `tsl-142` : ชื่อการค้า (trade name, brand name) : 1 meaning(s), 2 sentences
 - `tsl-143` : นมข้นหวาน (sweetened condensed milk) : 1 meaning(s), 2 sentences
@@ -1933,17 +1937,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-149` : ติดเงิน (to owe money) : 1 meaning(s), 2 sentences
 - `tsl-150` : ป่าช้า (cemetery, burial ground (rural)) : 1 meaning(s), 2 sentences
 - `tsl-151` : สังคมก้มหน้า ((idiom) smartphone-addicted society (literally "society with bowed heads")) : 1 meaning(s), 2 sentences
+- `tsl-152` : เหล็กใน (stinger (of a bee or wasp)) : 1 meaning(s), 2 sentences
+- `tsl-153` : ใต้ถุนโล่ง (open area beneath a traditional Thai stilt house) : 1 meaning(s), 2 sentences
 - `tsl-154` : หล่น (to drop, to fall (single object falling)) : 1 meaning(s), 2 sentences
 - `tsl-155` : เขี้ยว (fang (animal); canine tooth (human)) : 2 meaning(s), 4 sentences
 - `tsl-156` : นอนหลับไม่สนิท (to sleep restlessly, to not sleep well) : 1 meaning(s), 2 sentences
 - `tsl-157` : รู (hole, small opening, cavity) : 1 meaning(s), 2 sentences
 - `tsl-159` : ติดแน่น (stuck firmly, tightly attached) : 1 meaning(s), 2 sentences
+- `tsl-160` : เศรษฐกิจฟองสบู่ (economic bubble, financial bubble) : 1 meaning(s), 2 sentences
 - `tsl-162` : คุ้มค่า (worth it, worthwhile, good value) : 1 meaning(s), 2 sentences
 - `tsl-163` : สะดุดตา (eye-catching, striking) : 1 meaning(s), 2 sentences
 - `tsl-164` : สำรวจ (to survey, to explore, to inspect) : 1 meaning(s), 2 sentences
 - `tsl-165` : ส่งเสริม (to support, encourage, promote) : 1 meaning(s), 2 sentences
 - `tsl-167` : เนื้อผ้า (fabric, cloth texture) : 1 meaning(s), 2 sentences
 - `tsl-171` : แบบอย่าง (model, example, exemplar) : 1 meaning(s), 2 sentences
+- `tsl-173` : ขี่ช้างจับตั๊กแตน ((idiom) using enormous resources for a small task (literally "ride an elephant to catch a grasshopper")) : 1 meaning(s), 2 sentences
 - `tsl-177` : เล่นเฟซบุ๊ก - เล่นอินสตาแกรม (to use Facebook - Instagram) : 2 meaning(s), 4 sentences
 - `tsl-178` : จะเป็นอะไรไหมถ้า... ("do you mind if...?") : 1 meaning(s), 2 sentences
 - `tsl-179` : ...เนาะ ("..., right?", "..., isn't it" (Northern Thai sentence ending)) : 1 meaning(s), 2 sentences
@@ -1952,7 +1960,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-182` : ช่างคิด (imaginative person, clever thinker) : 1 meaning(s), 2 sentences
 - `tsl-183` : ออกความคิด (to share an idea, to express an opinion) : 1 meaning(s), 2 sentences
 - `tsl-185` : ในเร็ววันนี้ (very soon, in the near future) : 1 meaning(s), 2 sentences
+- `tsl-186` : แต่กระนั้น, แม้กระนั้น (nevertheless, however (formal, literary)) : 1 meaning(s), 2 sentences
 - `tsl-187` : เอ่ยถึง (to mention, to bring up, to refer to) : 1 meaning(s), 2 sentences
+- `tsl-188` : พิลึกพิลั่น (bizarre, weird, strange) : 1 meaning(s), 2 sentences
 - `tsl-189` : สั่งน้ำมูก (to blow one's nose) : 1 meaning(s), 2 sentences
 - `tsl-192` : ดาวน์ (downpayment, deposit) : 1 meaning(s), 2 sentences
 - `tsl-193` : งวด (installment of a payment; (cooking) reduced, simmered) : 2 meaning(s), 4 sentences
