@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6418 words**
+**Total: 6428 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -616,6 +616,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
 - `tamago-l12-049` : ขนาดที่ ("so much so that", "to the extent that") : 1 meaning(s), 2 sentences
 - `tamago-l12-050` : ขบวนพาเหรด (parade) : 1 meaning(s), 2 sentences
+- `tamago-l12-051` : ขอขมา (to ask for forgiveness, to formally apologize (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l12-052` : ของแต่งบ้าน (house decorations) : 1 meaning(s), 2 sentences
 - `tamago-l12-053` : ขอตัว (to take one's leave, to excuse oneself (to leave)) : 1 meaning(s), 2 sentences
 - `tamago-l12-054` : ขอพร (to ask for a blessing, to make a wish) : 1 meaning(s), 2 sentences
@@ -639,6 +640,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-076` : คนละ (different; separately for each person) : 2 meaning(s), 4 sentences
 - `tamago-l12-079` : คล้ำ (dark, tan (skin); dim) : 2 meaning(s), 4 sentences
 - `tamago-l12-083` : ความเดือดร้อน (trouble, difficulty) : 1 meaning(s), 2 sentences
+- `tamago-l12-084` : คอกม้า (horse stable) : 1 meaning(s), 2 sentences
 - `tamago-l12-085` : คัน (to feel itchy) : 1 meaning(s), 2 sentences
 - `tamago-l12-086` : คับแคบ (uncomfortably narrow, cramped) : 1 meaning(s), 2 sentences
 - `tamago-l12-087` : คำศัพท์ (vocabulary, word) : 1 meaning(s), 2 sentences
@@ -678,6 +680,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-132` : ซีอิ๊ว (soy sauce) : 1 meaning(s), 2 sentences
 - `tamago-l12-135` : ดอก (classifier for various small objects (flowers, keys, firecrackers, etc)) : 1 meaning(s), 2 sentences
 - `tamago-l12-137` : ดัดผม (to curl hair (get a perm)) : 1 meaning(s), 2 sentences
+- `tamago-l12-139` : ดำหัว (northern Thai tradition of asking forgiveness from elders (dipping hand in water bowl)) : 1 meaning(s), 2 sentences
 - `tamago-l12-140` : ดีเด่น (excellent, outstanding, distinguished) : 1 meaning(s), 2 sentences
 - `tamago-l12-141` : ด้วยกันทั้งนั้น (all of them equally, every single one of them) : 1 meaning(s), 2 sentences
 - `tamago-l12-142` : ตกข่าว (to miss the news, to be out of the loop) : 1 meaning(s), 2 sentences
@@ -686,6 +689,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-145` : ตรงกัน (to match, to correspond) : 1 meaning(s), 2 sentences
 - `tamago-l12-146` : ตรงๆ (frankly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l12-147` : ตลาดนัด (temporary market, flea market) : 1 meaning(s), 2 sentences
+- `tamago-l12-148` : ตอด (to nibble (e.g fish nibbling)) : 1 meaning(s), 2 sentences
 - `tamago-l12-149` : ตอบแทน (to repay, to return a favor) : 1 meaning(s), 2 sentences
 - `tamago-l12-151` : ตั้ง...แน่ะ ("...so much", "such a...") : 1 meaning(s), 2 sentences
 - `tamago-l12-152` : ตั้งนาน (for so long, in a long time) : 1 meaning(s), 2 sentences
@@ -739,9 +743,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-223` : นั่นน่ะสิ ("that's right!", "good point!") : 1 meaning(s), 2 sentences
 - `tamago-l12-224` : นั่นแหละที่มัน ("that's exactly it", "that's precisely it") : 1 meaning(s), 2 sentences
 - `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
+- `tamago-l12-229` : นิทรา (to sleep, to slumber (formal, poetic)) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
 - `tamago-l12-236` : นึกออก (to realize, to recall, to come to mind) : 1 meaning(s), 2 sentences
 - `tamago-l12-237` : นึ่ง (to steam (food)) : 1 meaning(s), 2 sentences
+- `tamago-l12-238` : น่อง (calf (back of the lower leg)) : 1 meaning(s), 2 sentences
 - `tamago-l12-240` : น่าสงสาร ("poor thing", pitiful) : 1 meaning(s), 2 sentences
 - `tamago-l12-241` : น่าอิจฉา (enviable) : 1 meaning(s), 2 sentences
 - `tamago-l12-243` : น้ำจิ้ม (dipping sauce) : 1 meaning(s), 2 sentences
@@ -756,6 +762,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-253` : บัง (to block, to obstruct (view, light); to hide, to cover up) : 2 meaning(s), 4 sentences
 - `tamago-l12-254` : บังเอิญ (by chance, coincidentally; to happen (by chance)) : 2 meaning(s), 4 sentences
 - `tamago-l12-256` : บัตรประจำตัว (ID card) : 1 meaning(s), 2 sentences
+- `tamago-l12-257` : บันจี้จัมพ์ (bungee jump) : 1 meaning(s), 2 sentences
 - `tamago-l12-258` : บันไดเลื่อน (escalator) : 1 meaning(s), 2 sentences
 - `tamago-l12-259` : บาง (thin) : 1 meaning(s), 2 sentences
 - `tamago-l12-260` : ปฏิทิน (calendar) : 1 meaning(s), 2 sentences
@@ -764,6 +771,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-266` : ปลูก (to plant, to grow) : 1 meaning(s), 2 sentences
 - `tamago-l12-267` : ปล่อยให้ (to let, to allow; to leave someone to do something) : 2 meaning(s), 4 sentences
 - `tamago-l12-268` : ปอก (to peel) : 1 meaning(s), 2 sentences
+- `tamago-l12-269` : ปะการัง (coral) : 1 meaning(s), 2 sentences
 - `tamago-l12-270` : ปั่น (to spin, to blend (e.g smoothie); to work intensely, to rush to finish something) : 2 meaning(s), 4 sentences
 - `tamago-l12-271` : ปา (to throw, to toss) : 1 meaning(s), 2 sentences
 - `tamago-l12-272` : ปาท่องโก๋ (deep-fried dough pastry (Thai/Chinese)) : 1 meaning(s), 2 sentences
@@ -787,6 +795,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-300` : ฝากข้อความ (to leave a message) : 1 meaning(s), 2 sentences
 - `tamago-l12-301` : ฝึกงาน (to intern, to do an internship) : 1 meaning(s), 2 sentences
 - `tamago-l12-302` : ฝ่าเท้า (sole of the foot) : 1 meaning(s), 2 sentences
+- `tamago-l12-303` : พรมวิเศษ (magic carpet) : 1 meaning(s), 2 sentences
 - `tamago-l12-305` : พริกหยวก (bell pepper) : 1 meaning(s), 2 sentences
 - `tamago-l12-307` : พละ (physical education (school subject)) : 1 meaning(s), 2 sentences
 - `tamago-l12-308` : พอ (enough; when, as soon as, once) : 2 meaning(s), 4 sentences
@@ -801,6 +810,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
 - `tamago-l12-320` : พิเศษไม่เหมือนใคร (unique, special unlike anything else) : 1 meaning(s), 2 sentences
 - `tamago-l12-321` : พุทธศักราช, พ.ศ. (Buddhist Era (BE)) : 1 meaning(s), 2 sentences
+- `tamago-l12-323` : ฟันดาบ (to fence (sport), to swordfight) : 1 meaning(s), 2 sentences
 - `tamago-l12-325` : ฟิต (physically fit, in good shape (loanword)) : 1 meaning(s), 2 sentences
 - `tamago-l12-326` : ฟิตหุ่น (to get in shape) : 1 meaning(s), 2 sentences
 - `tamago-l12-327` : ฟ้าผ่า (lightning, thunderbolt) : 1 meaning(s), 2 sentences

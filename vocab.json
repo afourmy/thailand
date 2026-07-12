@@ -22879,6 +22879,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to ask for forgiveness, to formally apologize (formal)",
+        "sentences": [
+          {
+            "thai": "ก่อนบวช เขาขอขมาพ่อแม่",
+            "en": "Before ordaining, he formally asked his parents' forgiveness.",
+            "audio_src": "ก่อนบวช เขาขอขมาพ่อแม่",
+            "audio_en_src": "Before ordaining, he formally asked his parents' forgiveness."
+          },
+          {
+            "thai": "ทีมงานไปขอขมาครอบครัวผู้เสียชีวิต",
+            "en": "The team went to formally apologize to the family of the deceased.",
+            "audio_src": "ทีมงานไปขอขมาครอบครัวผู้เสียชีวิต",
+            "audio_en_src": "The team went to formally apologize to the family of the deceased."
+          }
+        ]
+      }
     ]
   },
   {
@@ -23682,6 +23701,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "horse stable",
+        "sentences": [
+          {
+            "thai": "เขาพาม้ากลับเข้าคอกม้า",
+            "en": "He led the horse back into the stable.",
+            "audio_src": "เขาพาม้ากลับเข้าคอกม้า",
+            "audio_en_src": "He led the horse back into the stable."
+          },
+          {
+            "thai": "คอกม้าต้องทำความสะอาดทุกวัน",
+            "en": "The stables have to be cleaned every day.",
+            "audio_src": "คอกม้าต้องทำความสะอาดทุกวัน",
+            "audio_en_src": "The stables have to be cleaned every day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25055,6 +25093,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "northern Thai tradition of asking forgiveness from elders (dipping hand in water bowl)",
+        "sentences": [
+          {
+            "thai": "ช่วงสงกรานต์ คนเหนือจะไปดำหัวผู้ใหญ่",
+            "en": "During Songkran, northerners visit their elders for the traditional forgiveness ceremony.",
+            "audio_src": "ช่วงสงกรานต์ คนเหนือจะไปดำหัวผู้ใหญ่",
+            "audio_en_src": "During Songkran, northerners visit their elders for the traditional forgiveness ceremony."
+          },
+          {
+            "thai": "ลูกหลานมาดำหัวปู่ย่ากันพร้อมหน้า",
+            "en": "All the children and grandchildren came to pay the traditional respects to their grandparents.",
+            "audio_src": "ลูกหลานมาดำหัวปู่ย่ากันพร้อมหน้า",
+            "audio_en_src": "All the children and grandchildren came to pay the traditional respects to their grandparents."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25310,6 +25367,25 @@
     "sources": [
       "Tamago L1-2",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to nibble (e.g fish nibbling)",
+        "sentences": [
+          {
+            "thai": "ลงไปแช่น้ำแล้วมีปลามาตอดขา",
+            "en": "When I got in the water, fish came and nibbled at my legs.",
+            "audio_src": "ลงไปแช่น้ำแล้วมีปลามาตอดขา",
+            "audio_en_src": "When I got in the water, fish came and nibbled at my legs."
+          },
+          {
+            "thai": "ปลาตอดเหยื่อแต่ไม่กินเบ็ด",
+            "en": "The fish are nibbling the bait but not taking the hook.",
+            "audio_src": "ปลาตอดเหยื่อแต่ไม่กินเบ็ด",
+            "audio_en_src": "The fish are nibbling the bait but not taking the hook."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27213,6 +27289,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to sleep, to slumber (formal, poetic)",
+        "sentences": [
+          {
+            "thai": "นิทานเรื่องเจ้าหญิงนิทราใครๆ ก็รู้จัก",
+            "en": "Everyone knows the story of Sleeping Beauty.",
+            "audio_src": "นิทานเรื่องเจ้าหญิงนิทราใครๆ ก็รู้จัก",
+            "audio_en_src": "Everyone knows the story of Sleeping Beauty."
+          },
+          {
+            "thai": "กวีเขียนถึงเด็กน้อยที่นิทราอย่างสงบ",
+            "en": "The poet wrote of a child sleeping peacefully.",
+            "audio_src": "กวีเขียนถึงเด็กน้อยที่นิทราอย่างสงบ",
+            "audio_en_src": "The poet wrote of a child sleeping peacefully."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27376,6 +27471,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "calf (back of the lower leg)",
+        "sentences": [
+          {
+            "thai": "วิ่งเสร็จแล้วปวดน่อง",
+            "en": "My calves ache after the run.",
+            "audio_src": "วิ่งเสร็จแล้วปวดน่อง",
+            "audio_en_src": "My calves ache after the run."
+          },
+          {
+            "thai": "นวดน่องหน่อย เป็นตะคริว",
+            "en": "Massage my calf, I've got a cramp.",
+            "audio_src": "นวดน่องหน่อย เป็นตะคริว",
+            "audio_en_src": "Massage my calf, I've got a cramp."
+          }
+        ]
+      }
     ]
   },
   {
@@ -27854,6 +27968,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "bungee jump",
+        "sentences": [
+          {
+            "thai": "ที่พัทยามีที่เล่นบันจี้จัมพ์",
+            "en": "There's a bungee jumping spot in Pattaya.",
+            "audio_src": "ที่พัทยามีที่เล่นบันจี้จัมพ์",
+            "audio_en_src": "There's a bungee jumping spot in Pattaya."
+          },
+          {
+            "thai": "ไม่กล้าเล่นบันจี้จัมพ์ กลัวความสูง",
+            "en": "I don't dare bungee jump, I'm afraid of heights.",
+            "audio_src": "ไม่กล้าเล่นบันจี้จัมพ์ กลัวความสูง",
+            "audio_en_src": "I don't dare bungee jump, I'm afraid of heights."
+          }
+        ]
+      }
     ]
   },
   {
@@ -28165,6 +28298,25 @@
       "Tamago L1-2",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "coral",
+        "sentences": [
+          {
+            "thai": "ไปดำน้ำดูปะการังที่เกาะเต่า",
+            "en": "We went snorkeling to see the coral at Koh Tao.",
+            "audio_src": "ไปดำน้ำดูปะการังที่เกาะเต่า",
+            "audio_en_src": "We went snorkeling to see the coral at Koh Tao."
+          },
+          {
+            "thai": "ห้ามเหยียบปะการังเด็ดขาด",
+            "en": "Never step on the coral.",
+            "audio_src": "ห้ามเหยียบปะการังเด็ดขาด",
+            "audio_en_src": "Never step on the coral."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29001,6 +29153,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "magic carpet",
+        "sentences": [
+          {
+            "thai": "ในเรื่องอะลาดินมีพรมวิเศษบินได้",
+            "en": "In Aladdin there's a flying magic carpet.",
+            "audio_src": "ในเรื่องอะลาดินมีพรมวิเศษบินได้",
+            "audio_en_src": "In Aladdin there's a flying magic carpet."
+          },
+          {
+            "thai": "อยากมีพรมวิเศษจะได้ไม่ต้องเจอรถติด",
+            "en": "I wish I had a magic carpet so I could skip the traffic.",
+            "audio_src": "อยากมีพรมวิเศษจะได้ไม่ต้องเจอรถติด",
+            "audio_en_src": "I wish I had a magic carpet so I could skip the traffic."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29523,6 +29694,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to fence (sport), to swordfight",
+        "sentences": [
+          {
+            "thai": "ลูกชายไปเรียนฟันดาบทุกเสาร์",
+            "en": "My son takes fencing lessons every Saturday.",
+            "audio_src": "ลูกชายไปเรียนฟันดาบทุกเสาร์",
+            "audio_en_src": "My son takes fencing lessons every Saturday."
+          },
+          {
+            "thai": "นักแสดงต้องฝึกฟันดาบเพื่อบทนี้",
+            "en": "The actors had to train in swordfighting for this role.",
+            "audio_src": "นักแสดงต้องฝึกฟันดาบเพื่อบทนี้",
+            "audio_en_src": "The actors had to train in swordfighting for this role."
+          }
+        ]
+      }
     ]
   },
   {
