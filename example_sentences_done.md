@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6673 words**
+**Total: 6683 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2618,19 +2618,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0519` : บังคับ (to force, to compel, mandatory) : 1 meaning(s), 2 sentences
 - `thaipod-0521` : บั้งไฟ (traditional homemade rocket (traditional Thai gunpowder rocket, especially in Isan festivals)) : 1 meaning(s), 2 sentences
 - `thaipod-0522` : บางชนิด (some kinds, certain types) : 1 meaning(s), 2 sentences
+- `thaipod-0524` : บำเพ็ญ (to practice (good deeds), to perform (religious acts)) : 1 meaning(s), 2 sentences
 - `thaipod-0525` : บุกรุก (to invade, to trespass) : 1 meaning(s), 2 sentences
 - `thaipod-0526` : บุคคล (person, individual) : 1 meaning(s), 2 sentences
 - `thaipod-0527` : บุญ (merit, good karma) : 1 meaning(s), 2 sentences
+- `thaipod-0528` : บุญญา (merit, virtue, good deeds) : 1 meaning(s), 2 sentences
 - `thaipod-0531` : บ่น (to complain, to grumble) : 1 meaning(s), 2 sentences
 - `thaipod-0532` : บ้านพัก (residence, vacation house) : 1 meaning(s), 2 sentences
 - `thaipod-0533` : บ้านเมือง (country, nation, the state) : 1 meaning(s), 2 sentences
 - `thaipod-0534` : บ้านเรือน (houses, household, habitations) : 1 meaning(s), 2 sentences
+- `thaipod-0535` : บำเพ็ญกุศล (to perform meritorious religious rites, to accumulate merit) : 1 meaning(s), 2 sentences
 - `thaipod-0536` : ครอง, ปกครอง (to govern, to rule) : 1 meaning(s), 2 sentences
+- `thaipod-0540` : ปฏิทินสากล (Gregorian (international) calendar) : 1 meaning(s), 2 sentences
 - `thaipod-0542` : ปฏิเสธ (to refuse, to deny) : 1 meaning(s), 2 sentences
+- `thaipod-0543` : ปฐม (first, primary (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0544` : ปฐมกษัตริย์ (first king (of a dynasty)) : 1 meaning(s), 2 sentences
 - `thaipod-0547` : ประกอบด้วย (to consist of, to be composed of) : 1 meaning(s), 2 sentences
 - `thaipod-0548` : ประการ (point, aspect, matter (formal classifier for reasons or items in a list)) : 1 meaning(s), 2 sentences
+- `thaipod-0549` : ประจำชาติ (national) : 1 meaning(s), 2 sentences
+- `thaipod-0550` : ประชัน (to compete (e.g face to face), competition, contest) : 1 meaning(s), 2 sentences
 - `thaipod-0551` : ประชากร (population) : 1 meaning(s), 2 sentences
 - `thaipod-0552` : ประชาชน (the people, populace, citizens) : 1 meaning(s), 2 sentences
+- `thaipod-0553` : ประดับประดา (to decorate elaborately, to adorn) : 1 meaning(s), 2 sentences
+- `thaipod-0554` : ประดิดประดอย (to decorate, to embellish (meticulously)) : 1 meaning(s), 2 sentences
 - `thaipod-0556` : ประทัด (firecracker) : 1 meaning(s), 2 sentences
 - `thaipod-0560` : ประวัติความเป็นมา (historical background) : 1 meaning(s), 2 sentences
 - `thaipod-0561` : ประวัติศาสตร์ (history (as a discipline)) : 1 meaning(s), 2 sentences
