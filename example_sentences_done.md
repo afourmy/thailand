@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6339 words**
+**Total: 6349 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -89,11 +89,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-128` : ซึมเศร้า (depressed) : 1 meaning(s), 2 sentences
 - `chula-l4-129` : น้อยใจ (to feel neglected, to feel hurt) : 1 meaning(s), 2 sentences
 - `chula-l4-130` : เอาใจใส่ (to pay attention, to be considerate) : 1 meaning(s), 2 sentences
+- `chula-l4-131` : อัมพาต (paralysis) : 1 meaning(s), 2 sentences
 - `chula-l4-135` : ป่านนี้ (up until now, by now) : 1 meaning(s), 2 sentences
 - `chula-l4-136` : เน่าเสีย (rotten, spoiled) : 1 meaning(s), 2 sentences
 - `chula-l4-137` : เร่งด่วน (urgent, priority) : 1 meaning(s), 2 sentences
 - `chula-l4-138` : เวลาเร่งด่วน (rush hour) : 1 meaning(s), 2 sentences
 - `chula-l4-139` : สาเหตุ (cause, motive) : 1 meaning(s), 2 sentences
+- `chula-l4-140` : นกนางนวล (seagull) : 1 meaning(s), 2 sentences
 - `chula-l4-141` : (พอ) ...ปุ๊บ, (ก็) ...ปั๊บ (as soon as (one thing happens), then (the next follows)) : 1 meaning(s), 2 sentences
 - `chula-l4-142` : ... ไป (ด้วย), ... ไป (ด้วย) (two actions happening at the same time) : 1 meaning(s), 2 sentences
 - `chula-l4-143` : ได้รับ (to receive; passive marker) : 2 meaning(s), 4 sentences
@@ -112,8 +114,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-008` : ช่องทาง (channel, pathway) : 1 meaning(s), 2 sentences
 - `chula-l5-010` : โอน (to transfer) : 1 meaning(s), 2 sentences
 - `chula-l5-011` : ออมทรัพย์ (savings (account)) : 1 meaning(s), 2 sentences
+- `chula-l5-014` : พาหะ (carrier (of a disease), vector) : 1 meaning(s), 2 sentences
 - `chula-l5-015` : ความร่วมมือ (cooperation) : 1 meaning(s), 2 sentences
 - `chula-l5-016` : ยาม (security guard; period of time) : 2 meaning(s), 4 sentences
+- `chula-l5-017` : วิกาล (nighttime, late at night) : 1 meaning(s), 2 sentences
 - `chula-l5-018` : ส่วนกลาง (common area, central part) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences
 - `chula-l5-021` : เอาเป็นว่า (in short, "suppose that..." (used to summarize or make an assumption)) : 1 meaning(s), 2 sentences
@@ -159,6 +163,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-099` : พลาด (to miss (e.g an opportunity, a target), to make a mistake) : 1 meaning(s), 2 sentences
 - `chula-l5-100` : ทรัพยากร (resources) : 1 meaning(s), 2 sentences
 - `chula-l5-101` : ธรรมชาติ (nature) : 1 meaning(s), 2 sentences
+- `chula-l5-111` : นาค (Naga (mythological serpent deity)) : 1 meaning(s), 2 sentences
 - `chula-l5-112` : ขั้น (step (stairs, process)) : 1 meaning(s), 2 sentences
 - `chula-l5-114` : นา, ทุ่งนา (rice field) : 1 meaning(s), 2 sentences
 - `chula-l5-116` : หลงรัก (infatuated, deeply in love) : 1 meaning(s), 2 sentences
@@ -197,9 +202,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-189` : บาน (to bloom; to spread out, to be wide open) : 2 meaning(s), 4 sentences
 - `chula-l5-192` : ยี่ห้อ (brand) : 1 meaning(s), 2 sentences
 - `chula-l5-193` : ขาด (to lack, to be missing; torn, broken) : 2 meaning(s), 4 sentences
+- `chula-l5-197` : ศร (arrow) : 1 meaning(s), 2 sentences
 - `chula-l5-198` : นินทา (to gossip (negatively), to talk behind someone's back) : 1 meaning(s), 2 sentences
 - `chula-l5-201` : ศีรษะ (head (formal)) : 1 meaning(s), 2 sentences
 - `chula-l5-203` : ถ่าย (to take (photo, video); to defecate; to transfer (data)) : 3 meaning(s), 6 sentences
+- `chula-l5-207` : ตับโต (hepatomegaly (enlarged liver)) : 1 meaning(s), 2 sentences
+- `chula-l5-208` : ชายโครง (flank, area below the ribs) : 1 meaning(s), 2 sentences
 - `chula-l5-212` : มุ้ง (mosquito net) : 1 meaning(s), 2 sentences
 - `chula-l5-214` : แหล่ง (source) : 1 meaning(s), 2 sentences
 - `chula-l5-216` : กำจัด (to get rid of, to eliminate) : 1 meaning(s), 2 sentences
@@ -208,6 +216,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-225` : พฤติกรรม (behavior) : 1 meaning(s), 2 sentences
 - `chula-l5-226` : ไขมัน (fat) : 1 meaning(s), 2 sentences
 - `chula-l5-230` : ประวัติ (history, background, record) : 1 meaning(s), 2 sentences
+- `chula-l5-231` : ติ่งเนื้อ (skin tag, benign growth of skin, polyp) : 1 meaning(s), 2 sentences
 - `chula-l5-235` : ท้องผูก (constipation) : 1 meaning(s), 2 sentences
 - `chula-l5-236` : สลับ (to swap, to switch) : 1 meaning(s), 2 sentences
 - `chula-l5-239` : หัวข้อ (topic) : 1 meaning(s), 2 sentences
@@ -231,6 +240,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-277` : ระบาย (to drain, to empty; to express strong emotions, to vent) : 2 meaning(s), 4 sentences
 - `chula-l5-278` : ลื่น (to slip, slippery) : 1 meaning(s), 2 sentences
 - `chula-l5-279` : ระมัดระวัง (careful) : 1 meaning(s), 2 sentences
+- `chula-l5-281` : ร่องฝน (monsoon trough) : 1 meaning(s), 2 sentences
 - `chula-l5-283` : คลื่น (wave; radio channel, frequency) : 2 meaning(s), 4 sentences
 - `chula-l5-284` : ค่อนข้าง (quite, rather, relatively) : 1 meaning(s), 2 sentences
 - `chula-l5-285` : อบอ้าว (stuffy, hot and humid) : 1 meaning(s), 2 sentences
