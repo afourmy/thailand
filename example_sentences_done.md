@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6398 words**
+**Total: 6408 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -522,8 +522,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-250` : สายพาน (conveyor belt) : 1 meaning(s), 2 sentences
 - `chula-l6-251` : เปื่อย (mushy, tender, falling apart (rot), easily shredded) : 1 meaning(s), 2 sentences
 - `chula-l6-252` : แกว่ง (to swing, to sway) : 1 meaning(s), 2 sentences
+- `chula-l6-254` : ตัวยง (die-hard, ardent, devoted) : 1 meaning(s), 2 sentences
 - `chula-l6-256` : ไกลลิบ (very far away) : 1 meaning(s), 2 sentences
 - `chula-l6-257` : อัจฉริยะ (genius) : 1 meaning(s), 2 sentences
+- `chula-l6-260` : เป็นชีวิตจิตใจ (wholeheartedly, with all one's heart) : 1 meaning(s), 2 sentences
 - `chula-l6-261` : แปลกใหม่ (novel, original, innovative, new and different) : 1 meaning(s), 2 sentences
 - `chula-l6-262` : กำกับ (to direct (movie, series)) : 1 meaning(s), 2 sentences
 - `chula-l6-265` : ลอก (to copy (cheat); to peel, to shed (skin, paint)) : 2 meaning(s), 4 sentences
@@ -540,16 +542,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-277` : ออกอากาศ (to broadcast, to air (on TV, radio, etc)) : 1 meaning(s), 2 sentences
 - `chula-l6-278` : พระเอก (main character, leading actor, hero) : 1 meaning(s), 2 sentences
 - `chula-l6-280` : ซีรีส์วาย (BL (Boys' Love) series (from Japanese "yaoi")) : 1 meaning(s), 2 sentences
+- `chula-l6-281` : ประธานในพิธี (presiding guest of honor at a ceremony) : 1 meaning(s), 2 sentences
 - `chula-l6-282` : เจ้าภาพ (host) : 1 meaning(s), 2 sentences
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
+- `chula-l6-285` : วิวาห์ (marriage ceremony, wedding) : 1 meaning(s), 2 sentences
 - `chula-l6-286` : เกียรติ (honor) : 1 meaning(s), 2 sentences
+- `chula-l6-288` : พิธีมงคลสมรส (auspicious wedding (ceremony)) : 1 meaning(s), 2 sentences
 - `chula-l6-289` : โต๊ะจีน (Chinese-style banquet) : 1 meaning(s), 2 sentences
 - `chula-l6-290` : ธีม (theme) : 1 meaning(s), 2 sentences
 - `chula-l6-291` : ซื่อสัตย์ (faithful, honest, loyal) : 1 meaning(s), 2 sentences
+- `chula-l6-293` : พิธีสงฆ์ (Buddhist monk ritual, monk ceremony) : 1 meaning(s), 2 sentences
 - `chula-l6-294` : อวยพร (to give a blessing, to wish (something to someone)) : 1 meaning(s), 2 sentences
+- `chula-l6-295` : ขันหมาก (tray of gifts (dowry from the groom to the bride's family)) : 1 meaning(s), 2 sentences
+- `chula-l6-296` : อนาถา (miserable, pitiful, destitute, person living in poor condition) : 1 meaning(s), 2 sentences
 - `chula-l6-297` : มูลนิธิ (foundation, non-profit organization, charity) : 1 meaning(s), 2 sentences
 - `chula-l6-298` : แห่ (to parade) : 1 meaning(s), 2 sentences
+- `chula-l6-299` : สู่ขอ (to make a marriage proposal, to ask for someone's hand (literally "go and ask")) : 1 meaning(s), 2 sentences
 - `chula-l6-300` : หมั้น (engaged (to be married)) : 1 meaning(s), 2 sentences
+- `chula-l6-301` : (พิธี)รดน้ำสังข์ (water blessing (ceremony)) : 1 meaning(s), 2 sentences
 - `chula-l6-302` : รวย, ร่ำรวย (wealthy, rich) : 1 meaning(s), 2 sentences
 - `chula-l6-303` : ไหนๆ (ก็...แล้ว ...) ("while we're at it, ...", "seeing that...") : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences

@@ -19630,6 +19630,25 @@
       "Chulalongkorn L6",
       "Tamago L3",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "die-hard, ardent, devoted",
+        "sentences": [
+          {
+            "thai": "พ่อเป็นแฟนบอลตัวยงของทีมนี้",
+            "en": "Dad is a die-hard fan of this team.",
+            "audio_src": "พ่อเป็นแฟนบอลตัวยงของทีมนี้",
+            "audio_en_src": "Dad is a die-hard fan of this team."
+          },
+          {
+            "thai": "เขาเป็นนักอ่านตัวยง บ้านเต็มไปด้วยหนังสือ",
+            "en": "He's an avid reader, his house is full of books.",
+            "audio_src": "เขาเป็นนักอ่านตัวยง บ้านเต็มไปด้วยหนังสือ",
+            "audio_en_src": "He's an avid reader, his house is full of books."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19726,6 +19745,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "wholeheartedly, with all one's heart",
+        "sentences": [
+          {
+            "thai": "ยายรักหลานคนนี้เป็นชีวิตจิตใจ",
+            "en": "Grandma loves this grandchild with all her heart.",
+            "audio_src": "ยายรักหลานคนนี้เป็นชีวิตจิตใจ",
+            "audio_en_src": "Grandma loves this grandchild with all her heart."
+          },
+          {
+            "thai": "เขาชอบเตะบอลเป็นชีวิตจิตใจ",
+            "en": "He absolutely lives for football.",
+            "audio_src": "เขาชอบเตะบอลเป็นชีวิตจิตใจ",
+            "audio_en_src": "He absolutely lives for football."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20296,10 +20334,29 @@
   {
     "id": "chula-l6-281",
     "thai": "ประธานในพิธี",
-    "english": "master of ceremonies, presiding officer at a ceremony",
+    "english": "presiding guest of honor at a ceremony",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "presiding guest of honor at a ceremony",
+        "sentences": [
+          {
+            "thai": "ผู้ว่าราชการจังหวัดมาเป็นประธานในพิธีเปิดงาน",
+            "en": "The governor presided over the opening ceremony.",
+            "audio_src": "ผู้ว่าราชการจังหวัดมาเป็นประธานในพิธีเปิดงาน",
+            "audio_en_src": "The governor presided over the opening ceremony."
+          },
+          {
+            "thai": "ประธานในพิธีเป็นคนกล่าวเปิดงาน",
+            "en": "The presiding guest gives the opening speech.",
+            "audio_src": "ประธานในพิธีเป็นคนกล่าวเปิดงาน",
+            "audio_en_src": "The presiding guest gives the opening speech."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20369,11 +20426,30 @@
   },
   {
     "id": "chula-l6-285",
-    "thai": "วิวาห",
+    "thai": "วิวาห์",
     "english": "marriage ceremony, wedding",
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "marriage ceremony, wedding",
+        "sentences": [
+          {
+            "thai": "งานวิวาห์ของทั้งคู่จัดแบบเรียบง่าย",
+            "en": "Their wedding was a simple affair.",
+            "audio_src": "งานวิวาห์ของทั้งคู่จัดแบบเรียบง่าย",
+            "audio_en_src": "Their wedding was a simple affair."
+          },
+          {
+            "thai": "เธอเก็บเงินเพื่อจัดงานวิวาห์ในฝัน",
+            "en": "She's saving up for her dream wedding.",
+            "audio_src": "เธอเก็บเงินเพื่อจัดงานวิวาห์ในฝัน",
+            "audio_en_src": "She's saving up for her dream wedding."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20423,6 +20499,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "auspicious wedding (ceremony)",
+        "sentences": [
+          {
+            "thai": "พิธีมงคลสมรสจะจัดขึ้นที่โรงแรมวันเสาร์นี้",
+            "en": "The wedding ceremony will be held at the hotel this Saturday.",
+            "audio_src": "พิธีมงคลสมรสจะจัดขึ้นที่โรงแรมวันเสาร์นี้",
+            "audio_en_src": "The wedding ceremony will be held at the hotel this Saturday."
+          },
+          {
+            "thai": "ขอเชิญร่วมพิธีมงคลสมรสของทั้งคู่",
+            "en": "You are invited to the couple's wedding ceremony.",
+            "audio_src": "ขอเชิญร่วมพิธีมงคลสมรสของทั้งคู่",
+            "audio_en_src": "You are invited to the couple's wedding ceremony."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20532,6 +20627,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhist monk ritual, monk ceremony",
+        "sentences": [
+          {
+            "thai": "งานแต่งเริ่มด้วยพิธีสงฆ์ตอนเช้า",
+            "en": "The wedding starts with the monks' ceremony in the morning.",
+            "audio_src": "งานแต่งเริ่มด้วยพิธีสงฆ์ตอนเช้า",
+            "audio_en_src": "The wedding starts with the monks' ceremony in the morning."
+          },
+          {
+            "thai": "เจ้าภาพนิมนต์พระเก้ารูปมาทำพิธีสงฆ์",
+            "en": "The hosts invited nine monks to perform the ceremony.",
+            "audio_src": "เจ้าภาพนิมนต์พระเก้ารูปมาทำพิธีสงฆ์",
+            "audio_en_src": "The hosts invited nine monks to perform the ceremony."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20571,6 +20685,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "tray of gifts (dowry from the groom to the bride's family)",
+        "sentences": [
+          {
+            "thai": "ฝ่ายเจ้าบ่าวยกขันหมากมาแต่เช้า",
+            "en": "The groom's side brought the gift trays early in the morning.",
+            "audio_src": "ฝ่ายเจ้าบ่าวยกขันหมากมาแต่เช้า",
+            "audio_en_src": "The groom's side brought the gift trays early in the morning."
+          },
+          {
+            "thai": "ขบวนขันหมากมีทั้งกล้วยอ้อยและขนมมงคล",
+            "en": "The gift procession includes bananas, sugarcane, and auspicious sweets.",
+            "audio_src": "ขบวนขันหมากมีทั้งกล้วยอ้อยและขนมมงคล",
+            "audio_en_src": "The gift procession includes bananas, sugarcane, and auspicious sweets."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20580,6 +20713,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "miserable, pitiful, destitute, person living in poor condition",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนโรงพยาบาลมีเตียงสำหรับคนไข้อนาถา",
+            "en": "In the old days, hospitals had beds for destitute patients.",
+            "audio_src": "สมัยก่อนโรงพยาบาลมีเตียงสำหรับคนไข้อนาถา",
+            "audio_en_src": "In the old days, hospitals had beds for destitute patients."
+          },
+          {
+            "thai": "เขาใช้ชีวิตอย่างอนาถาอยู่ข้างถนน",
+            "en": "He lives a destitute life on the street.",
+            "audio_src": "เขาใช้ชีวิตอย่างอนาถาอยู่ข้างถนน",
+            "audio_en_src": "He lives a destitute life on the street."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20653,6 +20805,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to make a marriage proposal, to ask for someone's hand (literally \"go and ask\")",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ฝ่ายชายมาสู่ขอลูกสาวบ้านนี้",
+            "en": "The man's parents came to ask for this family's daughter's hand.",
+            "audio_src": "พ่อแม่ฝ่ายชายมาสู่ขอลูกสาวบ้านนี้",
+            "audio_en_src": "The man's parents came to ask for this family's daughter's hand."
+          },
+          {
+            "thai": "เขาให้ผู้ใหญ่ไปสู่ขอแฟนตามประเพณี",
+            "en": "He had his elders formally ask for his girlfriend's hand, following tradition.",
+            "audio_src": "เขาให้ผู้ใหญ่ไปสู่ขอแฟนตามประเพณี",
+            "audio_en_src": "He had his elders formally ask for his girlfriend's hand, following tradition."
+          }
+        ]
+      }
     ]
   },
   {
@@ -20691,6 +20862,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "water blessing (ceremony)",
+        "sentences": [
+          {
+            "thai": "ผู้ใหญ่มารดน้ำสังข์อวยพรให้บ่าวสาว",
+            "en": "The elders poured blessing water over the couple's hands.",
+            "audio_src": "ผู้ใหญ่มารดน้ำสังข์อวยพรให้บ่าวสาว",
+            "audio_en_src": "The elders poured blessing water over the couple's hands."
+          },
+          {
+            "thai": "พิธีรดน้ำสังข์เริ่มบ่ายโมง",
+            "en": "The water blessing ceremony starts at 1 p.m.",
+            "audio_src": "พิธีรดน้ำสังข์เริ่มบ่ายโมง",
+            "audio_en_src": "The water blessing ceremony starts at 1 p.m."
+          }
+        ]
+      }
     ]
   },
   {
