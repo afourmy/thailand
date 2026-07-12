@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6605 words**
+**Total: 6615 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2370,21 +2370,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0151` : คง (probably; to remain, to continue) : 2 meaning(s), 4 sentences
 - `thaipod-0152` : คณะ (group, board, faculty) : 1 meaning(s), 3 sentences
 - `thaipod-0153` : คณะรัฐบาล (government administration, cabinet) : 1 meaning(s), 2 sentences
+- `thaipod-0154` : คณะองคมนตรี (Privy Council) : 1 meaning(s), 2 sentences
 - `thaipod-0155` : คนหนุ่มสาว (young people) : 1 meaning(s), 2 sentences
 - `thaipod-0156` : คบ, คบหา (to date, to associate with, to befriend) : 1 meaning(s), 2 sentences
 - `thaipod-0158` : คม (sharp) : 1 meaning(s), 2 sentences
+- `thaipod-0160` : ครองราชย์ (to reign, to rule as monarch) : 1 meaning(s), 2 sentences
 - `thaipod-0162` : ครอบคลุม (to cover, to encompass, comprehensive) : 1 meaning(s), 2 sentences
+- `thaipod-0163` : ครั้งยัง ("back when", "in the days when" (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0164` : ครั้งใหญ่ (big time, major) : 1 meaning(s), 2 sentences
+- `thaipod-0165` : คราบมนุษย์ (human form, human appearance (often as disguise)) : 1 meaning(s), 2 sentences
+- `thaipod-0166` : ครุฑ (Garuda (legendary bird)) : 1 meaning(s), 2 sentences
 - `thaipod-0167` : คลอง, ลำคลอง (canal, small waterway) : 1 meaning(s), 2 sentences
 - `thaipod-0169` : คลาย (to loosen, to relieve, to ease) : 1 meaning(s), 2 sentences
 - `thaipod-0172` : ควบคู่กันกับ (together with, simultaneously with) : 1 meaning(s), 2 sentences
 - `thaipod-0173` : ควรค่า (แก่) (worthy of, deserving of) : 1 meaning(s), 2 sentences
 - `thaipod-0177` : ความจริงแล้ว (actually, in fact) : 1 meaning(s), 2 sentences
 - `thaipod-0179` : ความซื่อ (honesty, sincerity) : 1 meaning(s), 2 sentences
+- `thaipod-0181` : ความทารุณ (cruelty, brutality (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0182` : ความทุกข์, ความทุกข์ยาก (misery, suffering, hardship) : 1 meaning(s), 2 sentences
 - `thaipod-0183` : ความประทับใจ (impression) : 1 meaning(s), 2 sentences
 - `thaipod-0185` : ความมีชีวิตชีวา (vitality, liveliness) : 1 meaning(s), 2 sentences
+- `thaipod-0188` : ความรันทด (sorrow, sadness (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0189` : ความลึกลับ (mystery, mysteriousness) : 1 meaning(s), 2 sentences
+- `thaipod-0191` : ความสงบร่มเย็น (peace and tranquility (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0194` : ความอาฆาต (vengeance, vindictiveness (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0195` : ความอุดมสมบูรณ์ (prosperity, abundance, fertility) : 1 meaning(s), 2 sentences
 - `thaipod-0199` : ความเป็นมา (background, history (of something)) : 1 meaning(s), 2 sentences
 - `thaipod-0203` : ความแท้จริง (authenticity, genuineness) : 1 meaning(s), 2 sentences
 - `thaipod-0206` : ความไม่มั่นคง (instability, insecurity) : 1 meaning(s), 2 sentences
