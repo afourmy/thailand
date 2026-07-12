@@ -87338,6 +87338,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to look at, to watch (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์เสด็จมาทอดพระเนตรการแสดงโขน",
+            "en": "The king came to watch the masked dance performance.",
+            "audio_src": "พระองค์เสด็จมาทอดพระเนตรการแสดงโขน",
+            "audio_en_src": "The king came to watch the masked dance performance."
+          },
+          {
+            "thai": "ทรงทอดพระเนตรความคืบหน้าของโครงการหลวง",
+            "en": "He inspected the progress of the royal project.",
+            "audio_src": "ทรงทอดพระเนตรความคืบหน้าของโครงการหลวง",
+            "audio_en_src": "He inspected the progress of the royal project."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87376,6 +87395,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "circumambulating clockwise around a sacred site (Buddhist practice)",
+        "sentences": [
+          {
+            "thai": "ผู้คนเดินเวียนเทียนแบบทักษิณาวัติรอบโบสถ์สามรอบ",
+            "en": "People circle the ordination hall clockwise three times with candles.",
+            "audio_src": "ผู้คนเดินเวียนเทียนแบบทักษิณาวัติรอบโบสถ์สามรอบ",
+            "audio_en_src": "People circle the ordination hall clockwise three times with candles."
+          },
+          {
+            "thai": "การเดินทักษิณาวัติคือการเวียนขวารอบสิ่งศักดิ์สิทธิ์",
+            "en": "Circumambulation means walking clockwise around a sacred object.",
+            "audio_src": "การเดินทักษิณาวัติคือการเวียนขวารอบสิ่งศักดิ์สิทธิ์",
+            "audio_en_src": "Circumambulation means walking clockwise around a sacred object."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87421,6 +87459,25 @@
       "Thaipod101",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "army, troops",
+        "sentences": [
+          {
+            "thai": "กองทัพเคลื่อนพลตั้งแต่เช้ามืด",
+            "en": "The army moved out before dawn.",
+            "audio_src": "กองทัพเคลื่อนพลตั้งแต่เช้ามืด",
+            "audio_en_src": "The army moved out before dawn."
+          },
+          {
+            "thai": "พม่ายกทัพมาทางด่านเจดีย์สามองค์",
+            "en": "The Burmese army advanced through the Three Pagodas Pass.",
+            "audio_src": "พม่ายกทัพมาทางด่านเจดีย์สามองค์",
+            "audio_en_src": "The Burmese army advanced through the Three Pagodas Pass."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87568,6 +87625,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "military, in military terms",
+        "sentences": [
+          {
+            "thai": "เกาะนี้มีความสำคัญทางการทหาร",
+            "en": "This island is militarily important.",
+            "audio_src": "เกาะนี้มีความสำคัญทางการทหาร",
+            "audio_en_src": "This island is militarily important."
+          },
+          {
+            "thai": "สองประเทศร่วมมือกันทางการทหาร",
+            "en": "The two countries cooperate militarily.",
+            "audio_src": "สองประเทศร่วมมือกันทางการทหาร",
+            "audio_en_src": "The two countries cooperate militarily."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87577,6 +87653,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "spiritual, in spiritual terms",
+        "sentences": [
+          {
+            "thai": "การนั่งสมาธิช่วยให้เติบโตทางจิตวิญญาณ",
+            "en": "Meditation supports spiritual growth.",
+            "audio_src": "การนั่งสมาธิช่วยให้เติบโตทางจิตวิญญาณ",
+            "audio_en_src": "Meditation supports spiritual growth."
+          },
+          {
+            "thai": "หลายคนไปอินเดียเพื่อแสวงหาความสงบทางจิตวิญญาณ",
+            "en": "Many people go to India seeking spiritual peace.",
+            "audio_src": "หลายคนไปอินเดียเพื่อแสวงหาความสงบทางจิตวิญญาณ",
+            "audio_en_src": "Many people go to India seeking spiritual peace."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87691,6 +87786,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "diplomatic relations (formal)",
+        "sentences": [
+          {
+            "thai": "สยามส่งทูตไปเจริญทางราชไมตรีกับฝรั่งเศส",
+            "en": "Siam sent envoys to establish diplomatic relations with France.",
+            "audio_src": "สยามส่งทูตไปเจริญทางราชไมตรีกับฝรั่งเศส",
+            "audio_en_src": "Siam sent envoys to establish diplomatic relations with France."
+          },
+          {
+            "thai": "สองอาณาจักรผูกทางราชไมตรีด้วยการอภิเษกสมรส",
+            "en": "The two kingdoms sealed their diplomatic ties through a royal marriage.",
+            "audio_src": "สองอาณาจักรผูกทางราชไมตรีด้วยการอภิเษกสมรส",
+            "audio_en_src": "The two kingdoms sealed their diplomatic ties through a royal marriage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -87772,6 +87886,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "row of coconut trees",
+        "sentences": [
+          {
+            "thai": "ทิวมะพร้าวริมหาดทอดยาวสุดสายตา",
+            "en": "The row of coconut palms along the beach stretches as far as the eye can see.",
+            "audio_src": "ทิวมะพร้าวริมหาดทอดยาวสุดสายตา",
+            "audio_en_src": "The row of coconut palms along the beach stretches as far as the eye can see."
+          },
+          {
+            "thai": "เรือนพักตากอากาศซ่อนอยู่หลังทิวมะพร้าว",
+            "en": "The beach house is tucked behind a line of coconut trees.",
+            "audio_src": "เรือนพักตากอากาศซ่อนอยู่หลังทิวมะพร้าว",
+            "audio_en_src": "The beach house is tucked behind a line of coconut trees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -88071,6 +88204,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "construction cost, production budget (e.g of a film)",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้ใช้ทุนสร้างกว่าพันล้านบาท",
+            "en": "This movie had a production budget of over a billion baht.",
+            "audio_src": "หนังเรื่องนี้ใช้ทุนสร้างกว่าพันล้านบาท",
+            "audio_en_src": "This movie had a production budget of over a billion baht."
+          },
+          {
+            "thai": "ละครทุนสร้างต่ำแต่ดังเป็นพลุแตก",
+            "en": "The low-budget drama became a smash hit.",
+            "audio_src": "ละครทุนสร้างต่ำแต่ดังเป็นพลุแตก",
+            "audio_en_src": "The low-budget drama became a smash hit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -88170,6 +88322,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "open field, meadow",
+        "sentences": [
+          {
+            "thai": "เด็กๆ วิ่งเล่นว่าวกันกลางท้องทุ่ง",
+            "en": "The kids ran around flying kites in the open fields.",
+            "audio_src": "เด็กๆ วิ่งเล่นว่าวกันกลางท้องทุ่ง",
+            "audio_en_src": "The kids ran around flying kites in the open fields."
+          },
+          {
+            "thai": "หน้าหนาว ท้องทุ่งเป็นสีทองไปหมด",
+            "en": "In the cool season, the fields turn all golden.",
+            "audio_src": "หน้าหนาว ท้องทุ่งเป็นสีทองไปหมด",
+            "audio_en_src": "In the cool season, the fields turn all golden."
+          }
+        ]
+      }
     ]
   },
   {
@@ -88271,6 +88442,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "geology",
+        "sentences": [
+          {
+            "thai": "เขาเรียนธรณีวิทยาเพราะชอบหิน",
+            "en": "He studies geology because he loves rocks.",
+            "audio_src": "เขาเรียนธรณีวิทยาเพราะชอบหิน",
+            "audio_en_src": "He studies geology because he loves rocks."
+          },
+          {
+            "thai": "นักธรณีวิทยามาสำรวจรอยเลื่อนแถวนี้",
+            "en": "Geologists came to survey the fault line around here.",
+            "audio_src": "นักธรณีวิทยามาสำรวจรอยเลื่อนแถวนี้",
+            "audio_en_src": "Geologists came to survey the fault line around here."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6653 words**
+**Total: 6663 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2541,17 +2541,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0411` : ทรงพระนาม ("with the royal name", "is named" (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0413` : ทหารเอก (elite soldier, military leader) : 1 meaning(s), 2 sentences
 - `thaipod-0415` : ทอดทิ้ง (to forsake, to abandon, to neglect) : 1 meaning(s), 2 sentences
+- `thaipod-0416` : ทอดพระเนตร (to look at, to watch (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0418` : ทะเบียนรถ (car license plate, vehicle registration) : 1 meaning(s), 2 sentences
+- `thaipod-0420` : ทักษิณาวัติ (circumambulating clockwise around a sacred site (Buddhist practice)) : 1 meaning(s), 2 sentences
 - `thaipod-0422` : ทัน (in time, to catch up) : 1 meaning(s), 2 sentences
+- `thaipod-0423` : ทัพ, กองทัพ (army, troops) : 1 meaning(s), 2 sentences
 - `thaipod-0426` : ทั่วโลก (worldwide, around the world) : 1 meaning(s), 2 sentences
 - `thaipod-0427` : ทั่วไป, โดยทั่วไป (generally, in general) : 1 meaning(s), 2 sentences
 - `thaipod-0430` : ทั้งสิ้น (all, in total, altogether) : 1 meaning(s), 2 sentences
 - `thaipod-0431` : ทั้งหลาย (all, all of them) : 1 meaning(s), 2 sentences
+- `thaipod-0434` : ทางการทหาร (military, in military terms) : 1 meaning(s), 2 sentences
+- `thaipod-0435` : ทางจิตวิญญาณ (spiritual, in spiritual terms) : 1 meaning(s), 2 sentences
 - `thaipod-0436` : ทางด้าน (in terms of, in the area of) : 1 meaning(s), 2 sentences
 - `thaipod-0437` : ทางบก (by land, on land) : 1 meaning(s), 2 sentences
 - `thaipod-0438` : ทางบ้าน (family matters, from home; (TV) the audience at home) : 2 meaning(s), 4 sentences
+- `thaipod-0439` : ทางราชไมตรี (diplomatic relations (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0442` : ทำนา (to farm rice) : 1 meaning(s), 2 sentences
 - `thaipod-0443` : ทำบุญ (to make merit, to do good deeds (Buddhist)) : 1 meaning(s), 2 sentences
+- `thaipod-0445` : ทิวมะพร้าว (row of coconut trees) : 1 meaning(s), 2 sentences
 - `thaipod-0446` : ทิศ, ทิศทาง (direction) : 1 meaning(s), 2 sentences
 - `thaipod-0447` : ทิ้ง (to leave, to throw away, to discard) : 1 meaning(s), 2 sentences
 - `thaipod-0450` : ที่ตั้ง (location, position) : 1 meaning(s), 2 sentences
@@ -2561,12 +2568,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0456` : ที่ว่า (that (which was mentioned), that (which is being talked about)) : 1 meaning(s), 2 sentences
 - `thaipod-0458` : ทุกชนิด (all kinds, every type) : 1 meaning(s), 2 sentences
 - `thaipod-0459` : ทุกวันนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
+- `thaipod-0460` : ทุนสร้าง (construction cost, production budget (e.g of a film)) : 1 meaning(s), 2 sentences
 - `thaipod-0461` : ทุ่ง (field) : 1 meaning(s), 2 sentences
 - `thaipod-0462` : ท่อระบายน้ำ (drain, sewer) : 1 meaning(s), 2 sentences
 - `thaipod-0464` : ท่ามกลาง (amid, in the midst of) : 1 meaning(s), 2 sentences
+- `thaipod-0465` : ท้องทุ่ง (open field, meadow) : 1 meaning(s), 2 sentences
 - `thaipod-0466` : ท้องแก่ (heavily pregnant, late-term pregnant) : 1 meaning(s), 2 sentences
 - `thaipod-0467` : ท้าย (end, at the back, rear side) : 1 meaning(s), 2 sentences
 - `thaipod-0468` : ทำเกินกว่าเหตุ (to overreact, to go too far) : 1 meaning(s), 2 sentences
+- `thaipod-0469` : ธรณีวิทยา (geology) : 1 meaning(s), 2 sentences
 - `thaipod-0470` : ธรรมดา (ordinary, common, normal) : 1 meaning(s), 2 sentences
 - `thaipod-0471` : ธุระ (business, errand) : 1 meaning(s), 2 sentences
 - `thaipod-0472` : ธูป (incense stick) : 1 meaning(s), 2 sentences
