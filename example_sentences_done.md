@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6388 words**
+**Total: 6398 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -448,6 +448,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-168` : แปลก, แปลกประหลาด (strange, weird) : 1 meaning(s), 2 sentences
 - `chula-l6-169` : อ่อน ((fruit) unripe; (age) young; soft, weak, tender, gentle) : 3 meaning(s), 6 sentences
 - `chula-l6-170` : กวน (to stir until thickened or smooth (cooking); to annoy, to bother) : 2 meaning(s), 4 sentences
+- `chula-l6-171` : แช่อิ่ม (to preserve in syrup) : 1 meaning(s), 2 sentences
 - `chula-l6-172` : สรรพคุณ (properties (of a medicine, a plant)) : 1 meaning(s), 2 sentences
 - `chula-l6-173` : รอยฟกช้ำ (bruise) : 1 meaning(s), 2 sentences
 - `chula-l6-174` : อักเสบ (inflamed (wound)) : 1 meaning(s), 2 sentences
@@ -456,6 +457,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-177` : ล้วน (all, entirely) : 1 meaning(s), 2 sentences
 - `chula-l6-178` : ฉุน (pungent, strong smell or strong taste) : 1 meaning(s), 2 sentences
 - `chula-l6-179` : ดอง (to pickle (store food in salt, vinegar, alcohol, etc)) : 1 meaning(s), 2 sentences
+- `chula-l6-180` : สรรพนาม (pronoun) : 1 meaning(s), 2 sentences
 - `chula-l6-181` : ก้าน (stem (supporting part of a leaf, a flower); shaft, handle (e.g brush, umbrella)) : 2 meaning(s), 4 sentences
 - `chula-l6-182` : รอยเหี่ยวย่น (wrinkles) : 1 meaning(s), 2 sentences
 - `chula-l6-183` : ก้าง (fish bone) : 1 meaning(s), 2 sentences
@@ -466,6 +468,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-190` : เหนียวนุ่ม (sticky and tender, chewy soft) : 1 meaning(s), 2 sentences
 - `chula-l6-191` : น่าหลงใหล (fascinating) : 1 meaning(s), 2 sentences
 - `chula-l6-192` : บีบ, คั้น (to squeeze) : 1 meaning(s), 2 sentences
+- `chula-l6-193` : คู่คี่ (well matched, well-balanced, very close (literally "even and odd")) : 1 meaning(s), 2 sentences
 - `chula-l6-194` : สูสี (closely matched, well-balanced, very close) : 1 meaning(s), 2 sentences
 - `chula-l6-195` : เนื้อสับ (minced meat) : 1 meaning(s), 2 sentences
 - `chula-l6-196` : ผสม, ผสมผสาน (to mix, combine, blend together) : 1 meaning(s), 2 sentences
@@ -477,10 +480,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-202` : ภารกิจ (mission, task) : 1 meaning(s), 2 sentences
 - `chula-l6-203` : เกลี้ยง (completely, totally, entirely) : 1 meaning(s), 2 sentences
 - `chula-l6-204` : มังสวิรัติ (vegetarian) : 1 meaning(s), 2 sentences
+- `chula-l6-205` : ข้าวจี่ (traditional grilled rice snack) : 1 meaning(s), 2 sentences
 - `chula-l6-206` : เนียน (smooth, slick; sly) : 2 meaning(s), 4 sentences
 - `chula-l6-207` : เฉย (plain, just, simple; "not as expected", "not like one thought") : 2 meaning(s), 4 sentences
 - `chula-l6-208` : หนึบ (chewy, sticky (in a pleasant way)) : 1 meaning(s), 2 sentences
+- `chula-l6-209` : เปรม (delighted, very happy) : 1 meaning(s), 2 sentences
 - `chula-l6-210` : สะระแหน่ (mint, peppermint) : 1 meaning(s), 2 sentences
+- `chula-l6-211` : แพทยศาสตร์ (medical sciences) : 1 meaning(s), 2 sentences
 - `chula-l6-212` : อาหารคาว (main dishes (e.g fish, meat, not sweet)) : 1 meaning(s), 2 sentences
 - `chula-l6-213` : เผ็ด (spicy) : 1 meaning(s), 2 sentences
 - `chula-l6-214` : ท้องถิ่น (local, locality) : 1 meaning(s), 2 sentences
@@ -489,9 +495,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-217` : ผักชี (coriander) : 1 meaning(s), 2 sentences
 - `chula-l6-218` : คั่ว (to dry-roast) : 1 meaning(s), 2 sentences
 - `chula-l6-220` : ผ่า (to cut into pieces, split, dissect) : 1 meaning(s), 2 sentences
+- `chula-l6-221` : แฉลบ (to glance off, to graze, to ricochet) : 1 meaning(s), 2 sentences
 - `chula-l6-222` : แท่ง (stick, bar, rod (and classifier for stick-shaped objects)) : 1 meaning(s), 2 sentences
 - `chula-l6-225` : เคี่ยว (to stew, to simmer, to reduce (barely boil until concentrated)) : 1 meaning(s), 2 sentences
 - `chula-l6-227` : ฟังทัน (to follow along without falling behind (when listening to e.g a teacher)) : 1 meaning(s), 2 sentences
+- `chula-l6-228` : ปุดๆ (bubbling, boiling, welling up (onomatopoeia)) : 1 meaning(s), 2 sentences
 - `chula-l6-229` : คอร์ส (course) : 1 meaning(s), 2 sentences
 - `chula-l6-230` : พอประมาณ (moderately (not too little, not too much)) : 1 meaning(s), 2 sentences
 - `chula-l6-231` : สารสกัด (extract (e.g from a plant)) : 1 meaning(s), 2 sentences
@@ -506,10 +514,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-240` : หยาบ (rough, coarse, rude) : 1 meaning(s), 2 sentences
 - `chula-l6-241` : เปิดตัว (to launch, introduce, unveil (event, product); to introduce a romantic partner to friends or family) : 2 meaning(s), 4 sentences
 - `chula-l6-242` : ปลื้ม, ปลื้มใจ (delighted, very pleased) : 1 meaning(s), 2 sentences
+- `chula-l6-243` : อธิบดี (director-general (of a government department)) : 1 meaning(s), 2 sentences
 - `chula-l6-245` : ท้องเฟ้อ (indigestion, bloated stomach) : 1 meaning(s), 2 sentences
 - `chula-l6-246` : ร้อนใน (mouth ulcer, canker sore) : 1 meaning(s), 2 sentences
 - `chula-l6-248` : วุ้น (jelly, gelatin) : 1 meaning(s), 2 sentences
 - `chula-l6-249` : วิงเวียน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
+- `chula-l6-250` : สายพาน (conveyor belt) : 1 meaning(s), 2 sentences
 - `chula-l6-251` : เปื่อย (mushy, tender, falling apart (rot), easily shredded) : 1 meaning(s), 2 sentences
 - `chula-l6-252` : แกว่ง (to swing, to sway) : 1 meaning(s), 2 sentences
 - `chula-l6-256` : ไกลลิบ (very far away) : 1 meaning(s), 2 sentences
