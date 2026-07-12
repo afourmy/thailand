@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6575 words**
+**Total: 6585 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2298,11 +2298,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0034` : กอง (pile, heap; division (e.g army)) : 2 meaning(s), 4 sentences
 - `thaipod-0035` : กองกำลังทหาร (military forces) : 1 meaning(s), 2 sentences
 - `thaipod-0038` : กองไฟ (bonfire, pile of fire) : 1 meaning(s), 2 sentences
+- `thaipod-0040` : กังขา (skeptical, doubtful (formal, literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0041` : กัณฑ์ (chapter, section (Buddhist text)) : 1 meaning(s), 2 sentences
 - `thaipod-0042` : กันแน่ ("... really?", "for sure?" (in questions, when seeking clarification)) : 1 meaning(s), 2 sentences
+- `thaipod-0043` : กัลปังหา (sea fan coral (red type of coral)) : 1 meaning(s), 2 sentences
 - `thaipod-0044` : กางเกงยีนส์ (jeans) : 1 meaning(s), 2 sentences
+- `thaipod-0045` : กาบหอยมุก (pearl oyster shell (used in decoration)) : 1 meaning(s), 2 sentences
+- `thaipod-0046` : กายกรรม (gymnastics, acrobatics) : 1 meaning(s), 2 sentences
 - `thaipod-0047` : การขยายตัว (expansion) : 1 meaning(s), 2 sentences
+- `thaipod-0048` : การขาดแคลนอาหาร (food shortage) : 1 meaning(s), 2 sentences
+- `thaipod-0050` : การขุดพบ (discovery (via excavation)) : 1 meaning(s), 2 sentences
 - `thaipod-0055` : การจัดการ (management, organization, setup) : 1 meaning(s), 2 sentences
+- `thaipod-0058` : การฉ้อราษฎร์บังหลวง (embezzlement of public funds (corruption)) : 1 meaning(s), 2 sentences
 - `thaipod-0061` : การนำเสนอ (presentation) : 1 meaning(s), 2 sentences
+- `thaipod-0062` : การบอกเล่า (narration, reporting (orally)) : 1 meaning(s), 2 sentences
+- `thaipod-0063` : การบูรณะซ่อมแซม (restoration and repair) : 1 meaning(s), 2 sentences
 - `thaipod-0066` : การประกวด (competition, contest) : 1 meaning(s), 2 sentences
 - `thaipod-0068` : การผสมผสาน (combination, blending) : 1 meaning(s), 2 sentences
 - `thaipod-0069` : การฝึกอบรม (training) : 1 meaning(s), 2 sentences
