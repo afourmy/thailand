@@ -110,6 +110,7 @@ def main():
     ap.add_argument("-n", "--count", type=int, default=10,
                     help="number of words from the top of the deck (default 10)")
     ap.add_argument("--all", action="store_true", help="process every word")
+    ap.add_argument("--id", metavar="WORD_ID", help="only this word id")
     ap.add_argument("--force", action="store_true",
                     help="re-synthesize even if the mp3 already exists")
     ap.add_argument("--frequency", metavar="FREQ",
@@ -133,8 +134,12 @@ def main():
     pool = words
     if args.frequency:
         pool = [w for w in pool if w.get("frequency") == args.frequency]
+    if args.id:
+        pool = [w for w in pool if w["id"] == args.id]
     targets = pool if args.all else pool[: args.count]
-    filters = "frequency=%s" % args.frequency if args.frequency else ""
+    filters = ", ".join(
+        f for f in ("frequency=%s" % args.frequency if args.frequency else "",
+                    "id=%s" % args.id if args.id else "") if f)
     print("%d candidate words%s; languages: %s" % (
         len(targets),
         " (%s)" % filters if filters else "",
