@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6683 words**
+**Total: 6693 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2641,14 +2641,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0552` : ประชาชน (the people, populace, citizens) : 1 meaning(s), 2 sentences
 - `thaipod-0553` : ประดับประดา (to decorate elaborately, to adorn) : 1 meaning(s), 2 sentences
 - `thaipod-0554` : ประดิดประดอย (to decorate, to embellish (meticulously)) : 1 meaning(s), 2 sentences
+- `thaipod-0555` : ประดิษฐาน (to enshrine, to install (sacred objects)) : 1 meaning(s), 2 sentences
 - `thaipod-0556` : ประทัด (firecracker) : 1 meaning(s), 2 sentences
+- `thaipod-0557` : ประทับ (to stamp, to seal; to sit, to reside (royal)) : 2 meaning(s), 4 sentences
 - `thaipod-0560` : ประวัติความเป็นมา (historical background) : 1 meaning(s), 2 sentences
 - `thaipod-0561` : ประวัติศาสตร์ (history (as a discipline)) : 1 meaning(s), 2 sentences
+- `thaipod-0562` : ประสูติ (to be born (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
+- `thaipod-0564` : ประหารชีวิต (to execute, to put to death) : 1 meaning(s), 2 sentences
 - `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
 - `thaipod-0567` : ปรับ, ปรับปรุง (to adjust, adapt, improve) : 1 meaning(s), 2 sentences
+- `thaipod-0569` : ปราบ, ปราบปราม (to suppress, to subdue, to quell (e.g uprising, enemies)) : 1 meaning(s), 2 sentences
 - `thaipod-0570` : ปรึกษา (to consult, to seek advice) : 1 meaning(s), 2 sentences
 - `thaipod-0571` : ปลด (to release, to remove (from a position), to dismiss) : 1 meaning(s), 2 sentences
+- `thaipod-0572` : ปลดราชอิสริยยศ (to strip of royal titles) : 1 meaning(s), 2 sentences
 - `thaipod-0576` : ปลายทาง (destination, end of the route) : 1 meaning(s), 2 sentences
 - `thaipod-0577` : ปลูกฝัง (to instill, to cultivate (values, ideas)) : 1 meaning(s), 2 sentences
 - `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
@@ -2656,9 +2662,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0584` : ปัจจุบัน (present, current) : 1 meaning(s), 2 sentences
 - `thaipod-0586` : ปั้น (to sculpt, to mold (clay, sculpture)) : 1 meaning(s), 2 sentences
 - `thaipod-0588` : ปากซอย (entrance of a soi (small street)) : 1 meaning(s), 2 sentences
+- `thaipod-0589` : ปางสมาธิ (Buddha posture of meditation (sitting Buddha in meditation pose)) : 1 meaning(s), 2 sentences
 - `thaipod-0590` : ปิดล้อม (to enclose, to surround, to besiege) : 1 meaning(s), 2 sentences
+- `thaipod-0591` : ปีชง (inauspicious year, unlucky zodiac year (Thai-Chinese astrology)) : 1 meaning(s), 2 sentences
 - `thaipod-0592` : ปืนฉีดน้ำ (water gun) : 1 meaning(s), 2 sentences
 - `thaipod-0593` : ปูน (mortar, cement, plaster) : 1 meaning(s), 2 sentences
+- `thaipod-0595` : ป่าดงดิบ (dense forest, jungle, rainforest) : 1 meaning(s), 2 sentences
+- `thaipod-0598` : ป่าดิบเขา (mountain evergreen forest) : 1 meaning(s), 2 sentences
 - `thaipod-0604` : ป้าย (sign, billboard) : 1 meaning(s), 2 sentences
 - `thaipod-0605` : ผนัง, ฝาผนัง (wall) : 1 meaning(s), 2 sentences
 - `thaipod-0606` : ผลงาน (works, output, performance) : 1 meaning(s), 2 sentences

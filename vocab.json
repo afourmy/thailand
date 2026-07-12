@@ -90436,6 +90436,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to enshrine, to install (sacred objects)",
+        "sentences": [
+          {
+            "thai": "พระแก้วมรกตประดิษฐานอยู่ที่วัดพระแก้ว",
+            "en": "The Emerald Buddha is enshrined at Wat Phra Kaew.",
+            "audio_src": "พระแก้วมรกตประดิษฐานอยู่ที่วัดพระแก้ว",
+            "audio_en_src": "The Emerald Buddha is enshrined at Wat Phra Kaew."
+          },
+          {
+            "thai": "อัฐิของท่านถูกนำไปประดิษฐานในเจดีย์",
+            "en": "His relics were enshrined in the stupa.",
+            "audio_src": "อัฐิของท่านถูกนำไปประดิษฐานในเจดีย์",
+            "audio_en_src": "His relics were enshrined in the stupa."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90475,6 +90494,42 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to stamp, to seal",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่ประทับตราลงบนเอกสาร",
+            "en": "The official stamped the document.",
+            "audio_src": "เจ้าหน้าที่ประทับตราลงบนเอกสาร",
+            "audio_en_src": "The official stamped the document."
+          },
+          {
+            "thai": "อย่าลืมให้เขาประทับตราวันที่ด้วย",
+            "en": "Don't forget to have them stamp the date too.",
+            "audio_src": "อย่าลืมให้เขาประทับตราวันที่ด้วย",
+            "audio_en_src": "Don't forget to have them stamp the date too."
+          }
+        ]
+      },
+      {
+        "meaning": "to sit, to reside (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์ประทับอยู่ที่พระตำหนักในต่างจังหวัด",
+            "en": "The king is residing at a provincial royal residence.",
+            "audio_src": "พระองค์ประทับอยู่ที่พระตำหนักในต่างจังหวัด",
+            "audio_en_src": "The king is residing at a provincial royal residence."
+          },
+          {
+            "thai": "พระราชินีประทับนั่งข้างพระมหากษัตริย์",
+            "en": "The queen sat beside the king.",
+            "audio_src": "พระราชินีประทับนั่งข้างพระมหากษัตริย์",
+            "audio_en_src": "The queen sat beside the king."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90547,6 +90602,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to be born (royal)",
+        "sentences": [
+          {
+            "thai": "พระพุทธเจ้าประสูติที่ลุมพินีวัน",
+            "en": "The Buddha was born at Lumbini.",
+            "audio_src": "พระพุทธเจ้าประสูติที่ลุมพินีวัน",
+            "audio_en_src": "The Buddha was born at Lumbini."
+          },
+          {
+            "thai": "พระราชโอรสประสูติเมื่อเช้านี้",
+            "en": "The prince was born this morning.",
+            "audio_src": "พระราชโอรสประสูติเมื่อเช้านี้",
+            "audio_en_src": "The prince was born this morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90591,6 +90665,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to execute, to put to death",
+        "sentences": [
+          {
+            "thai": "ศาลตัดสินประหารชีวิตจำเลย",
+            "en": "The court sentenced the defendant to death.",
+            "audio_src": "ศาลตัดสินประหารชีวิตจำเลย",
+            "audio_en_src": "The court sentenced the defendant to death."
+          },
+          {
+            "thai": "หลายประเทศยกเลิกโทษประหารชีวิตแล้ว",
+            "en": "Many countries have abolished the death penalty.",
+            "audio_src": "หลายประเทศยกเลิกโทษประหารชีวิตแล้ว",
+            "audio_en_src": "Many countries have abolished the death penalty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90672,6 +90765,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to suppress, to subdue, to quell (e.g uprising, enemies)",
+        "sentences": [
+          {
+            "thai": "ตำรวจปราบปรามการพนันในพื้นที่",
+            "en": "Police cracked down on gambling in the area.",
+            "audio_src": "ตำรวจปราบปรามการพนันในพื้นที่",
+            "audio_en_src": "Police cracked down on gambling in the area."
+          },
+          {
+            "thai": "กษัตริย์ส่งกองทัพไปปราบกบฏ",
+            "en": "The king sent the army to put down the rebellion.",
+            "audio_src": "กษัตริย์ส่งกองทัพไปปราบกบฏ",
+            "audio_en_src": "The king sent the army to put down the rebellion."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90745,6 +90857,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to strip of royal titles",
+        "sentences": [
+          {
+            "thai": "เจ้าชายถูกปลดราชอิสริยยศหลังเรื่องอื้อฉาว",
+            "en": "The prince was stripped of his royal titles after the scandal.",
+            "audio_src": "เจ้าชายถูกปลดราชอิสริยยศหลังเรื่องอื้อฉาว",
+            "audio_en_src": "The prince was stripped of his royal titles after the scandal."
+          },
+          {
+            "thai": "มีประกาศปลดราชอิสริยยศในราชกิจจานุเบกษา",
+            "en": "The stripping of royal titles was announced in the Royal Gazette.",
+            "audio_src": "มีประกาศปลดราชอิสริยยศในราชกิจจานุเบกษา",
+            "audio_en_src": "The stripping of royal titles was announced in the Royal Gazette."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90994,6 +91125,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddha posture of meditation (sitting Buddha in meditation pose)",
+        "sentences": [
+          {
+            "thai": "พระประธานในโบสถ์เป็นพระพุทธรูปปางสมาธิ",
+            "en": "The main Buddha image in the hall is in the meditation posture.",
+            "audio_src": "พระประธานในโบสถ์เป็นพระพุทธรูปปางสมาธิ",
+            "audio_en_src": "The main Buddha image in the hall is in the meditation posture."
+          },
+          {
+            "thai": "พระปางสมาธิประทับนั่งขัดสมาธิ พระหัตถ์วางซ้อนกัน",
+            "en": "The meditation-posture Buddha sits cross-legged with hands resting one on the other.",
+            "audio_src": "พระปางสมาธิประทับนั่งขัดสมาธิ พระหัตถ์วางซ้อนกัน",
+            "audio_en_src": "The meditation-posture Buddha sits cross-legged with hands resting one on the other."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91033,6 +91183,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "inauspicious year, unlucky zodiac year (Thai-Chinese astrology)",
+        "sentences": [
+          {
+            "thai": "ปีนี้ปีชงของคนเกิดปีมะเมีย",
+            "en": "This year is an unlucky year for people born in the Year of the Horse.",
+            "audio_src": "ปีนี้ปีชงของคนเกิดปีมะเมีย",
+            "audio_en_src": "This year is an unlucky year for people born in the Year of the Horse."
+          },
+          {
+            "thai": "เขาไปแก้ชงที่วัดจีนเพราะเป็นปีชง",
+            "en": "He went to a Chinese temple for a bad-luck-averting ritual because it's his unlucky year.",
+            "audio_src": "เขาไปแก้ชงที่วัดจีนเพราะเป็นปีชง",
+            "audio_en_src": "He went to a Chinese temple for a bad-luck-averting ritual because it's his unlucky year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91106,6 +91275,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "dense forest, jungle, rainforest",
+        "sentences": [
+          {
+            "thai": "ภาคใต้ของไทยมีป่าดงดิบอุดมสมบูรณ์",
+            "en": "Southern Thailand has lush rainforests.",
+            "audio_src": "ภาคใต้ของไทยมีป่าดงดิบอุดมสมบูรณ์",
+            "audio_en_src": "Southern Thailand has lush rainforests."
+          },
+          {
+            "thai": "ทีมสำรวจเดินฝ่าป่าดงดิบอยู่หลายวัน",
+            "en": "The expedition trekked through dense jungle for days.",
+            "audio_src": "ทีมสำรวจเดินฝ่าป่าดงดิบอยู่หลายวัน",
+            "audio_en_src": "The expedition trekked through dense jungle for days."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91115,6 +91303,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "mountain evergreen forest",
+        "sentences": [
+          {
+            "thai": "ป่าดิบเขาพบได้ตามยอดดอยทางภาคเหนือ",
+            "en": "Mountain evergreen forest is found on the high peaks of the North.",
+            "audio_src": "ป่าดิบเขาพบได้ตามยอดดอยทางภาคเหนือ",
+            "audio_en_src": "Mountain evergreen forest is found on the high peaks of the North."
+          },
+          {
+            "thai": "อากาศในป่าดิบเขาเย็นและชื้นตลอดปี",
+            "en": "The air in mountain evergreen forest is cool and damp all year.",
+            "audio_src": "อากาศในป่าดิบเขาเย็นและชื้นตลอดปี",
+            "audio_en_src": "The air in mountain evergreen forest is cool and damp all year."
+          }
+        ]
+      }
     ]
   },
   {
