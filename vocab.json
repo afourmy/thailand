@@ -21020,6 +21020,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "old (person), elderly",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านนี้เหลือแต่คนเฒ่าคนแก่",
+            "en": "Only the old folks are left in this village.",
+            "audio_src": "หมู่บ้านนี้เหลือแต่คนเฒ่าคนแก่",
+            "audio_en_src": "Only the old folks are left in this village."
+          },
+          {
+            "thai": "ระวังเฒ่าหัวงูคนนั้น",
+            "en": "Watch out for that dirty old man.",
+            "audio_src": "ระวังเฒ่าหัวงูคนนั้น",
+            "audio_en_src": "Watch out for that dirty old man."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21098,6 +21117,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to join the army, to enter military service",
+        "sentences": [
+          {
+            "thai": "เขาจับได้ใบแดง ต้องเข้ากรมเดือนหน้า",
+            "en": "He drew a red card, so he has to report to the army next month.",
+            "audio_src": "เขาจับได้ใบแดง ต้องเข้ากรมเดือนหน้า",
+            "audio_en_src": "He drew a red card, so he has to report to the army next month."
+          },
+          {
+            "thai": "ลูกชายเข้ากรมไปตั้งแต่ต้นเดือน",
+            "en": "My son started his military service at the beginning of the month.",
+            "audio_src": "ลูกชายเข้ากรมไปตั้งแต่ต้นเดือน",
+            "audio_en_src": "My son started his military service at the beginning of the month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21107,6 +21145,31 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "general - lieutenant general - captain (military ranks)",
+        "sentences": [
+          {
+            "thai": "พลเอกคนนี้เคยเป็นนายกรัฐมนตรี",
+            "en": "This general was once prime minister.",
+            "audio_src": "พลเอกคนนี้เคยเป็นนายกรัฐมนตรี",
+            "audio_en_src": "This general was once prime minister."
+          },
+          {
+            "thai": "เขาเพิ่งได้เลื่อนยศเป็นพลโท",
+            "en": "He was just promoted to lieutenant general.",
+            "audio_src": "เขาเพิ่งได้เลื่อนยศเป็นพลโท",
+            "audio_en_src": "He was just promoted to lieutenant general."
+          },
+          {
+            "thai": "ร้อยเอกหนุ่มคนนี้คุมทหารทั้งกองร้อย",
+            "en": "This young captain commands a whole company.",
+            "audio_src": "ร้อยเอกหนุ่มคนนี้คุมทหารทั้งกองร้อย",
+            "audio_en_src": "This young captain commands a whole company."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21116,6 +21179,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to administer, to be in charge, to govern",
+        "sentences": [
+          {
+            "thai": "เขาเป็นรัฐมนตรีว่าการกระทรวงศึกษาธิการ",
+            "en": "He is the Minister of Education.",
+            "audio_src": "เขาเป็นรัฐมนตรีว่าการกระทรวงศึกษาธิการ",
+            "audio_en_src": "He is the Minister of Education."
+          },
+          {
+            "thai": "ช่วงเปลี่ยนรัฐบาล ปลัดกระทรวงต้องว่าการแทน",
+            "en": "During the change of government, the permanent secretary has to run the ministry.",
+            "audio_src": "ช่วงเปลี่ยนรัฐบาล ปลัดกระทรวงต้องว่าการแทน",
+            "audio_en_src": "During the change of government, the permanent secretary has to run the ministry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21368,6 +21450,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "fungal skin infections (ringworm and tinea)",
+        "sentences": [
+          {
+            "thai": "ยาตัวนี้ใช้ทากลากเกลื้อนได้",
+            "en": "This ointment treats fungal skin infections.",
+            "audio_src": "ยาตัวนี้ใช้ทากลากเกลื้อนได้",
+            "audio_en_src": "This ointment treats fungal skin infections."
+          },
+          {
+            "thai": "หน้าฝนแบบนี้ ระวังเป็นกลากเกลื้อน",
+            "en": "In the rainy season, watch out for fungal skin infections.",
+            "audio_src": "หน้าฝนแบบนี้ ระวังเป็นกลากเกลื้อน",
+            "audio_en_src": "In the rainy season, watch out for fungal skin infections."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21455,6 +21556,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "beautiful enough to be forgiven",
+        "sentences": [
+          {
+            "thai": "ทำแก้วแตกอีกแล้ว แต่สวยให้อภัย",
+            "en": "She broke another glass, but she's too pretty to stay mad at.",
+            "audio_src": "ทำแก้วแตกอีกแล้ว แต่สวยให้อภัย",
+            "audio_en_src": "She broke another glass, but she's too pretty to stay mad at."
+          },
+          {
+            "thai": "เธอมาสายทุกวัน ดีที่สวยให้อภัย",
+            "en": "She's late every day, lucky she's too pretty to be mad at.",
+            "audio_src": "เธอมาสายทุกวัน ดีที่สวยให้อภัย",
+            "audio_en_src": "She's late every day, lucky she's too pretty to be mad at."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21571,6 +21691,25 @@
     "frequency": "rare",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "Act for the Protection of Road Accident Victims (insurance for accidents)",
+        "sentences": [
+          {
+            "thai": "อย่าลืมต่อ พ.ร.บ. ก่อนไปต่อภาษีรถ",
+            "en": "Don't forget to renew your compulsory insurance before renewing the car tax.",
+            "audio_src": "อย่าลืมต่อ พ.ร.บ. ก่อนไปต่อภาษีรถ",
+            "audio_en_src": "Don't forget to renew your compulsory insurance before renewing the car tax."
+          },
+          {
+            "thai": "รถทุกคันต้องมี พ.ร.บ. ตามกฎหมาย",
+            "en": "Every vehicle must have compulsory accident insurance by law.",
+            "audio_src": "รถทุกคันต้องมี พ.ร.บ. ตามกฎหมาย",
+            "audio_en_src": "Every vehicle must have compulsory accident insurance by law."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21904,6 +22043,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "bladder",
+        "sentences": [
+          {
+            "thai": "อั้นฉี่บ่อยๆ ไม่ดีต่อกระเพาะปัสสาวะ",
+            "en": "Holding your pee a lot is bad for your bladder.",
+            "audio_src": "อั้นฉี่บ่อยๆ ไม่ดีต่อกระเพาะปัสสาวะ",
+            "audio_en_src": "Holding your pee a lot is bad for your bladder."
+          },
+          {
+            "thai": "เขาเป็นกระเพาะปัสสาวะอักเสบ",
+            "en": "She has a bladder infection.",
+            "audio_src": "เขาเป็นกระเพาะปัสสาวะอักเสบ",
+            "audio_en_src": "She has a bladder infection."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22422,6 +22580,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "issuance (document, certificate)",
+        "sentences": [
+          {
+            "thai": "การออกหนังสือเดินทางใช้เวลาประมาณหนึ่งอาทิตย์",
+            "en": "Issuing a passport takes about a week.",
+            "audio_src": "การออกหนังสือเดินทางใช้เวลาประมาณหนึ่งอาทิตย์",
+            "audio_en_src": "Issuing a passport takes about a week."
+          },
+          {
+            "thai": "ธนาคารคิดค่าธรรมเนียมการออกบัตรใหม่",
+            "en": "The bank charges a fee for issuing a new card.",
+            "audio_src": "ธนาคารคิดค่าธรรมเนียมการออกบัตรใหม่",
+            "audio_en_src": "The bank charges a fee for issuing a new card."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22673,6 +22850,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "parade",
+        "sentences": [
+          {
+            "thai": "เด็กๆ ตื่นเต้นกับขบวนพาเหรดวันกีฬาสี",
+            "en": "The kids are excited about the sports day parade.",
+            "audio_src": "เด็กๆ ตื่นเต้นกับขบวนพาเหรดวันกีฬาสี",
+            "audio_en_src": "The kids are excited about the sports day parade."
+          },
+          {
+            "thai": "ขบวนพาเหรดเดินผ่านหน้าโรงเรียน",
+            "en": "The parade went past the school.",
+            "audio_src": "ขบวนพาเหรดเดินผ่านหน้าโรงเรียน",
+            "audio_en_src": "The parade went past the school."
+          }
+        ]
+      }
     ]
   },
   {

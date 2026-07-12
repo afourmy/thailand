@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6408 words**
+**Total: 6418 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -564,7 +564,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-303` : ไหนๆ (ก็...แล้ว ...) ("while we're at it, ...", "seeing that...") : 1 meaning(s), 2 sentences
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
 - `chula-l6-305` : ฝ่าฟัน (to overcome, to strive, to struggle through (obstacles)) : 1 meaning(s), 2 sentences
+- `chula-l6-306` : เฒ่า (old (person), elderly) : 1 meaning(s), 2 sentences
 - `chula-l6-311` : ง่ายดาย (very easy, effortless) : 1 meaning(s), 2 sentences
+- `chula-l6-312` : เข้ากรม (to join the army, to enter military service) : 1 meaning(s), 2 sentences
+- `chula-l6-313` : พลเอก - พลโท - ร้อยเอก (general - lieutenant general - captain (military ranks)) : 1 meaning(s), 3 sentences
+- `chula-l6-314` : ว่าการ (to administer, to be in charge, to govern) : 1 meaning(s), 2 sentences
 - `chula-l6-319` : สมหวัง (to have one's hopes fulfilled, to get what one wished for) : 1 meaning(s), 2 sentences
 - `chula-l6-320` : แรงบันดาลใจ (inspiration) : 1 meaning(s), 2 sentences
 - `chula-l6-321` : ทายาท (heir) : 1 meaning(s), 2 sentences
@@ -572,10 +576,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-323` : ปริญญาตรี (bachelor's degree) : 1 meaning(s), 2 sentences
 - `chula-l6-324` : เครื่องเคียง (side dish) : 1 meaning(s), 2 sentences
 - `chula-l6-325` : เฮฮา (fun, cheerful, lively) : 1 meaning(s), 2 sentences
+- `chula-l6-326` : กลากเกลื้อน (fungal skin infections (ringworm and tinea)) : 1 meaning(s), 2 sentences
 - `chula-l6-328` : มโน (delusional, someone who makes stuff up in their head, "delulu" (slang)) : 1 meaning(s), 2 sentences
 - `chula-l6-329` : ข่มขืน (to rape) : 1 meaning(s), 2 sentences
+- `chula-l6-330` : สวยให้อภัย (beautiful enough to be forgiven) : 1 meaning(s), 2 sentences
 - `chula-l6-332` : ไม่แพ้กัน (equally matched, on par, not inferior) : 1 meaning(s), 2 sentences
 - `chula-l6-338` : รองรับ (to support, accommodate, handle (e.g a need, a capacity)) : 1 meaning(s), 2 sentences
+- `chula-l6-339` : พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ (พ.ร.บ.) (Act for the Protection of Road Accident Victims (insurance for accidents)) : 1 meaning(s), 2 sentences
 - `tamago-l12-001` : (ไหน)ยังจะ...อีก ("and on top of that, ...", "to make matters worse, ..." (+ something negative)) : 1 meaning(s), 2 sentences
 - `tamago-l12-003` : ...ไปก่อน ("... for now") : 1 meaning(s), 2 sentences
 - `tamago-l12-006` : เรื่อยๆ (to keep doing something (continuously)) : 1 meaning(s), 2 sentences
@@ -585,6 +592,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-014` : กระดูกสันหลัง (spine) : 1 meaning(s), 2 sentences
 - `tamago-l12-015` : กระถาง (flower pot) : 1 meaning(s), 2 sentences
 - `tamago-l12-016` : กระรอก (squirrel) : 1 meaning(s), 2 sentences
+- `tamago-l12-019` : กระเพาะปัสสาวะ (bladder) : 1 meaning(s), 2 sentences
 - `tamago-l12-020` : กระเพาะอาหาร (stomach (organ)) : 1 meaning(s), 2 sentences
 - `tamago-l12-022` : กลอง (drums) : 1 meaning(s), 2 sentences
 - `tamago-l12-023` : กลั่นแกล้ง (to bully, to victimize) : 1 meaning(s), 2 sentences
@@ -600,12 +608,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-035` : กับเขาบ้าง ("like other people", "as everyone else does") : 1 meaning(s), 2 sentences
 - `tamago-l12-036` : กั้น (to block, separate, divide) : 1 meaning(s), 2 sentences
 - `tamago-l12-038` : กาต้มน้ำ (kettle) : 1 meaning(s), 2 sentences
+- `tamago-l12-039` : การออก (issuance (document, certificate)) : 1 meaning(s), 2 sentences
 - `tamago-l12-043` : กำลังจะ (to be about to) : 1 meaning(s), 2 sentences
 - `tamago-l12-044` : กำไล (bracelet) : 1 meaning(s), 2 sentences
 - `tamago-l12-046` : ก้อน (lump; classifier for chunks (e.g money, ice)) : 2 meaning(s), 4 sentences
 - `tamago-l12-047` : ขนมปังปิ้ง (toast) : 1 meaning(s), 2 sentences
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
 - `tamago-l12-049` : ขนาดที่ ("so much so that", "to the extent that") : 1 meaning(s), 2 sentences
+- `tamago-l12-050` : ขบวนพาเหรด (parade) : 1 meaning(s), 2 sentences
 - `tamago-l12-052` : ของแต่งบ้าน (house decorations) : 1 meaning(s), 2 sentences
 - `tamago-l12-053` : ขอตัว (to take one's leave, to excuse oneself (to leave)) : 1 meaning(s), 2 sentences
 - `tamago-l12-054` : ขอพร (to ask for a blessing, to make a wish) : 1 meaning(s), 2 sentences
