@@ -41429,6 +41429,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to deeply hate, to dislike intensely",
+        "sentences": [
+          {
+            "thai": "ไม่รู้เขาไปทำอะไรให้ เธอถึงจงเกลียดจงชังขนาดนั้น",
+            "en": "I don't know what he did to make her hate him so much.",
+            "audio_src": "ไม่รู้เขาไปทำอะไรให้ เธอถึงจงเกลียดจงชังขนาดนั้น",
+            "audio_en_src": "I don't know what he did to make her hate him so much."
+          },
+          {
+            "thai": "อย่าจงเกลียดจงชังกันเลย เรื่องมันผ่านไปแล้ว",
+            "en": "Don't keep hating each other, it's in the past.",
+            "audio_src": "อย่าจงเกลียดจงชังกันเลย เรื่องมันผ่านไปแล้ว",
+            "audio_en_src": "Don't keep hating each other, it's in the past."
+          }
+        ]
+      }
     ]
   },
   {
@@ -41566,6 +41585,25 @@
     "sources": [
       "Tamago L3",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to last for a long time, lasting, permanent",
+        "sentences": [
+          {
+            "thai": "ความสวยงามไม่จีรัง",
+            "en": "Beauty doesn't last.",
+            "audio_src": "ความสวยงามไม่จีรัง",
+            "audio_en_src": "Beauty doesn't last."
+          },
+          {
+            "thai": "ชื่อเสียงเงินทองเป็นของไม่จีรังยั่งยืน",
+            "en": "Fame and money don't last forever.",
+            "audio_src": "ชื่อเสียงเงินทองเป็นของไม่จีรังยั่งยืน",
+            "audio_en_src": "Fame and money don't last forever."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42067,6 +42105,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "ancient, prehistoric",
+        "sentences": [
+          {
+            "thai": "ไดโนเสาร์เป็นสัตว์ดึกดำบรรพ์",
+            "en": "Dinosaurs are prehistoric animals.",
+            "audio_src": "ไดโนเสาร์เป็นสัตว์ดึกดำบรรพ์",
+            "audio_en_src": "Dinosaurs are prehistoric animals."
+          },
+          {
+            "thai": "มือถือเครื่องนี้ดึกดำบรรพ์มากแล้ว เปลี่ยนเถอะ",
+            "en": "This phone is ancient, get a new one.",
+            "audio_src": "มือถือเครื่องนี้ดึกดำบรรพ์มากแล้ว เปลี่ยนเถอะ",
+            "audio_en_src": "This phone is ancient, get a new one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42336,6 +42393,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "plural (grammar)",
+        "sentences": [
+          {
+            "thai": "ในภาษาอังกฤษ คำนามพหูพจน์ส่วนใหญ่เติม s",
+            "en": "In English, most plural nouns add an s.",
+            "audio_src": "ในภาษาอังกฤษ คำนามพหูพจน์ส่วนใหญ่เติม s",
+            "audio_en_src": "In English, most plural nouns add an s."
+          },
+          {
+            "thai": "คำว่า children เป็นพหูพจน์ของ child",
+            "en": "\"Children\" is the plural of \"child\".",
+            "audio_src": "คำว่า children เป็นพหูพจน์ของ child",
+            "audio_en_src": "\"Children\" is the plural of \"child\"."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42472,6 +42548,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "overwhelmingly busy, swamped, buried in work (slang, vulgar, literally \"crammed up the butt\")",
+        "sentences": [
+          {
+            "thai": "งานเข้ามาพร้อมกันจนจุกตูด",
+            "en": "So much work came in at once, I'm completely swamped.",
+            "audio_src": "งานเข้ามาพร้อมกันจนจุกตูด",
+            "audio_en_src": "So much work came in at once, I'm completely swamped."
+          },
+          {
+            "thai": "ช่วงปิดงบนี่ทำงานกันจุกตูดเลย",
+            "en": "During closing season we're buried in work.",
+            "audio_src": "ช่วงปิดงบนี่ทำงานกันจุกตูดเลย",
+            "audio_en_src": "During closing season we're buried in work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42961,6 +43056,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to wait anxiously, desperately",
+        "sentences": [
+          {
+            "thai": "รีบกลับบ้านเถอะ แม่รอแย่เลย",
+            "en": "Hurry home, Mom's been waiting anxiously.",
+            "audio_src": "รีบกลับบ้านเถอะ แม่รอแย่เลย",
+            "audio_en_src": "Hurry home, Mom's been waiting anxiously."
+          },
+          {
+            "thai": "ไปไหนมา ทุกคนรอแย่เลย",
+            "en": "Where have you been? Everyone's been waiting like crazy.",
+            "audio_src": "ไปไหนมา ทุกคนรอแย่เลย",
+            "audio_en_src": "Where have you been? Everyone's been waiting like crazy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44204,6 +44318,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "dim, faint, dusky",
+        "sentences": [
+          {
+            "thai": "ห้องนี้แสงสลัว อ่านหนังสือไม่ค่อยเห็น",
+            "en": "The light in this room is dim, it's hard to read.",
+            "audio_src": "ห้องนี้แสงสลัว อ่านหนังสือไม่ค่อยเห็น",
+            "audio_en_src": "The light in this room is dim, it's hard to read."
+          },
+          {
+            "thai": "ไฟถนนสลัวๆ ทำให้ซอยดูน่ากลัว",
+            "en": "The dim streetlights make the alley look scary.",
+            "audio_src": "ไฟถนนสลัวๆ ทำให้ซอยดูน่ากลัว",
+            "audio_en_src": "The dim streetlights make the alley look scary."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44943,6 +45076,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "secret motive, hidden agenda",
+        "sentences": [
+          {
+            "thai": "ข้อเสนอนี้ดูดีเกินไป น่าจะมีลับลมคมใน",
+            "en": "This offer looks too good, there's probably a hidden agenda.",
+            "audio_src": "ข้อเสนอนี้ดูดีเกินไป น่าจะมีลับลมคมใน",
+            "audio_en_src": "This offer looks too good, there's probably a hidden agenda."
+          },
+          {
+            "thai": "เขาเป็นคนตรงๆ ไม่มีลับลมคมใน",
+            "en": "He's straightforward, no hidden motives.",
+            "audio_src": "เขาเป็นคนตรงๆ ไม่มีลับลมคมใน",
+            "audio_en_src": "He's straightforward, no hidden motives."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46430,6 +46582,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "MP3 player",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนใครมีเครื่องเล่นเอ็มพีสามถือว่าเท่มาก",
+            "en": "Back in the day, having an MP3 player was really cool.",
+            "audio_src": "สมัยก่อนใครมีเครื่องเล่นเอ็มพีสามถือว่าเท่มาก",
+            "audio_en_src": "Back in the day, having an MP3 player was really cool."
+          },
+          {
+            "thai": "เดี๋ยวนี้ไม่ค่อยมีใครใช้เครื่องเล่นเอ็มพีสามแล้ว",
+            "en": "Hardly anyone uses MP3 players anymore.",
+            "audio_src": "เดี๋ยวนี้ไม่ค่อยมีใครใช้เครื่องเล่นเอ็มพีสามแล้ว",
+            "audio_en_src": "Hardly anyone uses MP3 players anymore."
+          }
+        ]
+      }
     ]
   },
   {
@@ -46682,6 +46853,25 @@
     "frequency": "rare",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to sob uncontrollably, to overreact emotionally",
+        "sentences": [
+          {
+            "thai": "เธอร้องไห้ฟูมฟายกลางงาน",
+            "en": "She broke down sobbing in the middle of the event.",
+            "audio_src": "เธอร้องไห้ฟูมฟายกลางงาน",
+            "audio_en_src": "She broke down sobbing in the middle of the event."
+          },
+          {
+            "thai": "แค่เรื่องเล็กน้อย อย่าฟูมฟายไปหน่อยเลย",
+            "en": "It's a small thing, don't be so dramatic.",
+            "audio_src": "แค่เรื่องเล็กน้อย อย่าฟูมฟายไปหน่อยเลย",
+            "audio_en_src": "It's a small thing, don't be so dramatic."
+          }
+        ]
+      }
     ]
   },
   {

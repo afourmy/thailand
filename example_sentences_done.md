@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6448 words**
+**Total: 6458 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1147,10 +1147,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-048` : บริสุทธิ์ (pure, innocent, virgin) : 1 meaning(s), 2 sentences
 - `tamago-l3-049` : เพียบ (a lot, plenty, full, tons of) : 1 meaning(s), 2 sentences
 - `tamago-l3-051` : สะใจ (satisfied, relieved (especially after revenge (schadenfreude) or achievement)) : 1 meaning(s), 2 sentences
+- `tamago-l3-052` : จงเกลียดจงชัง (to deeply hate, to dislike intensely) : 1 meaning(s), 2 sentences
 - `tamago-l3-053` : รังแก (to bully) : 1 meaning(s), 2 sentences
 - `tamago-l3-054` : ดูถูก (to insult, to look down on, to belittle) : 1 meaning(s), 2 sentences
 - `tamago-l3-055` : ชั่ว (evil, wicked, bad-hearted) : 1 meaning(s), 2 sentences
 - `tamago-l3-056` : ใจ, จิตใจ (heart, mind, spirit) : 1 meaning(s), 2 sentences
+- `tamago-l3-057` : จีรัง (to last for a long time, lasting, permanent) : 1 meaning(s), 2 sentences
 - `tamago-l3-058` : สวรรค์ (heaven, paradise) : 1 meaning(s), 2 sentences
 - `tamago-l3-059` : ลงโทษ, ทำโทษ (to punish) : 1 meaning(s), 2 sentences
 - `tamago-l3-060` : ได้ใจ (to be encouraged, to feel empowered (often after getting away with something)) : 1 meaning(s), 2 sentences
@@ -1166,6 +1168,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-071` : ย่าง (to grill, to roast; (literary) to step into, to be approaching (a season, age)) : 2 meaning(s), 4 sentences
 - `tamago-l3-072` : พรำ (gentle, slow and continuous (mainly used to describe rain drizzling)) : 1 meaning(s), 2 sentences
 - `tamago-l3-073` : เรื่องมาก (picky, fussy, demanding) : 1 meaning(s), 2 sentences
+- `tamago-l3-074` : ดึกดำบรรพ์ (ancient, prehistoric) : 1 meaning(s), 2 sentences
 - `tamago-l3-075` : แนว (genre, style) : 1 meaning(s), 2 sentences
 - `tamago-l3-076` : รายการ (TV show, program; list, item) : 2 meaning(s), 4 sentences
 - `tamago-l3-077` : คิดเลข (to calculate, to do arithmetic) : 1 meaning(s), 2 sentences
@@ -1173,10 +1176,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-080` : คนรอบข้าง (the people around) : 1 meaning(s), 2 sentences
 - `tamago-l3-081` : ประกวด (to enter a contest, to compete) : 1 meaning(s), 2 sentences
 - `tamago-l3-082` : มัวแต่ (to waste time doing something, to be absorbed in (and neglect other things)) : 1 meaning(s), 2 sentences
+- `tamago-l3-085` : พหูพจน์ (plural (grammar)) : 1 meaning(s), 2 sentences
 - `tamago-l3-086` : ร้องตาม (to sing along) : 1 meaning(s), 2 sentences
 - `tamago-l3-087` : ท่อน (line, section, segment) : 1 meaning(s), 2 sentences
 - `tamago-l3-088` : ทันสมัย (up-to-date, modern) : 1 meaning(s), 2 sentences
 - `tamago-l3-089` : ตามทัน (to keep up with, to catch up with) : 1 meaning(s), 2 sentences
+- `tamago-l3-090` : จุกตูด (overwhelmingly busy, swamped, buried in work (slang, vulgar, literally "crammed up the butt")) : 1 meaning(s), 2 sentences
 - `tamago-l3-091` : ห้ามใจ (to hold back, to suppress one's desire to do something) : 1 meaning(s), 2 sentences
 - `tamago-l3-092` : น่าเป็นห่วง (worrying, concerning) : 1 meaning(s), 2 sentences
 - `tamago-l3-094` : แกล้ง (to tease, to pick on; to pretend (in a deceptive or playful way)) : 2 meaning(s), 4 sentences
@@ -1191,6 +1196,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-103` : คิดได้ (to realize, to come to a realization) : 1 meaning(s), 2 sentences
 - `tamago-l3-104` : ไปๆมาๆ (back and forth; in the end, after all) : 2 meaning(s), 4 sentences
 - `tamago-l3-105` : ดึกดื่น (very late at night) : 1 meaning(s), 2 sentences
+- `tamago-l3-106` : รอแย่ (to wait anxiously, desperately) : 1 meaning(s), 2 sentences
 - `tamago-l3-107` : รู้ใจ (to deeply know someone's feelings, thoughts) : 1 meaning(s), 2 sentences
 - `tamago-l3-108` : สุภาพบุรุษ (gentleman) : 1 meaning(s), 2 sentences
 - `tamago-l3-109` : ผ่อน (to pay by installments; to ease, to relax, to lighten, to reduce intensity) : 2 meaning(s), 4 sentences
@@ -1228,6 +1234,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-147` : ลูกอม (candy) : 1 meaning(s), 2 sentences
 - `tamago-l3-148` : ติดคอ (stuck in the throat, to choke on (food)) : 1 meaning(s), 2 sentences
 - `tamago-l3-149` : อม (to put in one's mouth, to suck on something) : 1 meaning(s), 2 sentences
+- `tamago-l3-150` : สลัว (dim, faint, dusky) : 1 meaning(s), 2 sentences
 - `tamago-l3-151` : ชู้ (lover, cheating partner) : 1 meaning(s), 2 sentences
 - `tamago-l3-152` : เห็นใจ (to sympathize, to feel compassion (for)) : 1 meaning(s), 2 sentences
 - `tamago-l3-154` : แสงเทียน (candlelight) : 1 meaning(s), 2 sentences
@@ -1249,6 +1256,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-177` : ผู้สัมภาษณ์ (interviewer) : 1 meaning(s), 2 sentences
 - `tamago-l3-178` : ตามสั่ง (made-to-order) : 1 meaning(s), 2 sentences
 - `tamago-l3-181` : ปิดบัง (to hide, to conceal (e.g information, facts)) : 1 meaning(s), 2 sentences
+- `tamago-l3-182` : ลับลมคมใน (secret motive, hidden agenda) : 1 meaning(s), 2 sentences
 - `tamago-l3-184` : ขำ (funny, to laugh) : 1 meaning(s), 2 sentences
 - `tamago-l3-186` : แอบฟัง (to eavesdrop) : 1 meaning(s), 2 sentences
 - `tamago-l3-187` : ทัศนคติ (attitude, viewpoint) : 1 meaning(s), 2 sentences
@@ -1295,6 +1303,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-239` : ข้าวของ (stuff, possessions, belongings) : 1 meaning(s), 2 sentences
 - `tamago-l3-240` : เจตนา, เจตนารมณ์ (intent, intention, underlying purpose) : 1 meaning(s), 2 sentences
 - `tamago-l3-241` : ก่อการร้าย (to commit terrorism) : 1 meaning(s), 2 sentences
+- `tamago-l3-242` : เครื่องเล่นเอ็มพีสาม (MP3 player) : 1 meaning(s), 2 sentences
 - `tamago-l3-246` : ประชด (to be sarcastic, to speak ironically, mockingly) : 1 meaning(s), 2 sentences
 - `tamago-l3-247` : คำหยาบ (swear word, vulgar word) : 1 meaning(s), 2 sentences
 - `tamago-l3-248` : ย่อๆ (in short, in brief, abbreviated) : 1 meaning(s), 2 sentences
@@ -1302,6 +1311,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-250` : เริ่ด (excellent, fabulous (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-251` : สารภาพ (to confess, to admit) : 1 meaning(s), 2 sentences
 - `tamago-l3-253` : ค่อยเป็นค่อยไป (step by step, slowly but surely) : 1 meaning(s), 2 sentences
+- `tamago-l3-254` : ฟูมฟาย (to sob uncontrollably, to overreact emotionally) : 1 meaning(s), 2 sentences
 - `tamago-l3-255` : ตกเครื่อง (to miss a flight) : 1 meaning(s), 2 sentences
 - `tamago-l3-256` : บ้างาน (workaholic) : 1 meaning(s), 2 sentences
 - `tamago-l3-257` : ใจจดใจจ่อ (eagerly focused, fully attentive) : 1 meaning(s), 2 sentences
