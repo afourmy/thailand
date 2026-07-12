@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6555 words**
+**Total: 6565 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2226,11 +2226,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-582` : ว่านหางจระเข้ (aloe vera plant) : 1 meaning(s), 2 sentences
 - `tsl-583` : สกุล (family, lineage; genus (plants/animals)) : 2 meaning(s), 4 sentences
 - `tsl-584` : ความทนทาน, ความคงทน (durability) : 1 meaning(s), 2 sentences
+- `tsl-585` : ไพศาล (vast, immense (formal, poetic)) : 1 meaning(s), 2 sentences
 - `tsl-586` : สูญพันธุ์ (to become extinct, to die out (e.g species)) : 1 meaning(s), 2 sentences
 - `tsl-587` : ตัก (lap (sit on someone's lap); to scoop) : 2 meaning(s), 4 sentences
 - `tsl-588` : ผ้าขี้ริ้ว (rag, cleaning cloth) : 1 meaning(s), 2 sentences
 - `tsl-589` : แทนกัน (to replace each other, interchangeably) : 1 meaning(s), 2 sentences
 - `tsl-594` : หนาแน่น (crowded, densely populated) : 1 meaning(s), 2 sentences
+- `tsl-595` : ปฐมวัย (early childhood, preschool age) : 1 meaning(s), 2 sentences
+- `tsl-597` : วัยเจริญพันธุ์ (reproductive age, fertile period, puberty) : 1 meaning(s), 2 sentences
 - `tsl-598` : เศรษฐกิจตกต่ำ (economic downturn, recession) : 1 meaning(s), 2 sentences
 - `tsl-600` : จำแนก (to classify, to categorize) : 1 meaning(s), 2 sentences
 - `tsl-601` : แผนภูมิ (chart, diagram) : 1 meaning(s), 2 sentences
@@ -2253,13 +2256,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-624` : แหว่ง (chipped, dented, missing a piece (broken objects, teeth)) : 1 meaning(s), 2 sentences
 - `tsl-625` : บิ่น (chipped, nicked (small piece broken off from an edge)) : 1 meaning(s), 2 sentences
 - `tsl-626` : สำลัก (to choke on food (from swallowing wrong)) : 1 meaning(s), 2 sentences
+- `tsl-628` : ความจัญไร (wickedness, vileness (very rude)) : 1 meaning(s), 2 sentences
+- `tsl-629` : เจ้าแม่โพสพ (Mae Phosop, the rice goddess (Thai mythology)) : 1 meaning(s), 2 sentences
+- `tsl-630` : ธัญญาหาร (grain, cereal (formal)) : 1 meaning(s), 2 sentences
 - `tsl-634` : ปลาดุก (catfish) : 1 meaning(s), 2 sentences
 - `tsl-635` : เกื้อกูล (to support, to help out, to be mutually beneficial) : 1 meaning(s), 2 sentences
 - `tsl-636` : ชมเชย (to praise, to compliment) : 1 meaning(s), 2 sentences
+- `tsl-637` : คลาคล่ำ (crowded, packed with people (formal, literary)) : 1 meaning(s), 2 sentences
 - `tsl-639` : คูคลอง (canals, waterways) : 1 meaning(s), 2 sentences
+- `tsl-640` : โลหิตจาง, โรคโลหิตจาง (anemia) : 1 meaning(s), 2 sentences
 - `tsl-644` : ค้นคว้า (to research, to study, to investigate) : 1 meaning(s), 2 sentences
 - `tsl-645` : สร้างเสริม (to build up, to strengthen, to enhance) : 1 meaning(s), 2 sentences
+- `tsl-646` : อิริยาบถ (posture, bodily position, the 4 Buddhist postures (formal)) : 1 meaning(s), 2 sentences
 - `tsl-647` : โรคภัย, โรคภัยไข้เจ็บ (illness, disease (general term)) : 1 meaning(s), 2 sentences
+- `thaipod-0002` : 18 มงกุฎ ((idiom) to act as a con artist) : 1 meaning(s), 2 sentences
 - `thaipod-0003` : กฎมีไว้ให้ฝ่าฝืน ("rules are made to be broken") : 1 meaning(s), 2 sentences
 - `thaipod-0004` : กฎหมาย (law) : 1 meaning(s), 2 sentences
 - `thaipod-0009` : กระจัดกระจาย (scattered, spread out) : 1 meaning(s), 2 sentences

@@ -77286,6 +77286,25 @@
       "TSL Chiang Mai",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "vast, immense (formal, poetic)",
+        "sentences": [
+          {
+            "thai": "จักรวาลกว้างใหญ่ไพศาลเกินจินตนาการ",
+            "en": "The universe is vast beyond imagination.",
+            "audio_src": "จักรวาลกว้างใหญ่ไพศาลเกินจินตนาการ",
+            "audio_en_src": "The universe is vast beyond imagination."
+          },
+          {
+            "thai": "อาณาจักรแห่งนี้เคยยิ่งใหญ่ไพศาล",
+            "en": "This kingdom was once vast and mighty.",
+            "audio_src": "อาณาจักรแห่งนี้เคยยิ่งใหญ่ไพศาล",
+            "audio_en_src": "This kingdom was once vast and mighty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -77492,6 +77511,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "early childhood, preschool age",
+        "sentences": [
+          {
+            "thai": "เธอเป็นครูการศึกษาปฐมวัย",
+            "en": "She's an early childhood education teacher.",
+            "audio_src": "เธอเป็นครูการศึกษาปฐมวัย",
+            "audio_en_src": "She's an early childhood education teacher."
+          },
+          {
+            "thai": "เด็กปฐมวัยเรียนรู้ผ่านการเล่น",
+            "en": "Preschool-age children learn through play.",
+            "audio_src": "เด็กปฐมวัยเรียนรู้ผ่านการเล่น",
+            "audio_en_src": "Preschool-age children learn through play."
+          }
+        ]
+      }
     ]
   },
   {
@@ -77510,6 +77548,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "reproductive age, fertile period, puberty",
+        "sentences": [
+          {
+            "thai": "ผู้หญิงวัยเจริญพันธุ์ควรได้รับโฟเลตเพียงพอ",
+            "en": "Women of reproductive age should get enough folate.",
+            "audio_src": "ผู้หญิงวัยเจริญพันธุ์ควรได้รับโฟเลตเพียงพอ",
+            "audio_en_src": "Women of reproductive age should get enough folate."
+          },
+          {
+            "thai": "ประชากรวัยเจริญพันธุ์ของประเทศลดลงเรื่อยๆ",
+            "en": "The country's reproductive-age population keeps shrinking.",
+            "audio_src": "ประชากรวัยเจริญพันธุ์ของประเทศลดลงเรื่อยๆ",
+            "audio_en_src": "The country's reproductive-age population keeps shrinking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78272,6 +78329,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "wickedness, vileness (very rude)",
+        "sentences": [
+          {
+            "thai": "ฉันทนความจัญไรของคนพวกนี้ไม่ไหวแล้ว",
+            "en": "I can't stand these people's vileness any more.",
+            "audio_src": "ฉันทนความจัญไรของคนพวกนี้ไม่ไหวแล้ว",
+            "audio_en_src": "I can't stand these people's vileness any more."
+          },
+          {
+            "thai": "ละครเรื่องนี้เต็มไปด้วยความจัญไรของตัวร้าย",
+            "en": "This drama is full of the villain's wickedness.",
+            "audio_src": "ละครเรื่องนี้เต็มไปด้วยความจัญไรของตัวร้าย",
+            "audio_en_src": "This drama is full of the villain's wickedness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78281,6 +78357,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "Mae Phosop, the rice goddess (Thai mythology)",
+        "sentences": [
+          {
+            "thai": "ชาวนาไหว้เจ้าแม่โพสพก่อนเก็บเกี่ยว",
+            "en": "Farmers pay respects to the rice goddess before the harvest.",
+            "audio_src": "ชาวนาไหว้เจ้าแม่โพสพก่อนเก็บเกี่ยว",
+            "audio_en_src": "Farmers pay respects to the rice goddess before the harvest."
+          },
+          {
+            "thai": "คนโบราณสอนว่าอย่ากินข้าวเหลือ เดี๋ยวเจ้าแม่โพสพเสียใจ",
+            "en": "The old folks taught not to leave rice uneaten, or the rice goddess will be sad.",
+            "audio_src": "คนโบราณสอนว่าอย่ากินข้าวเหลือ เดี๋ยวเจ้าแม่โพสพเสียใจ",
+            "audio_en_src": "The old folks taught not to leave rice uneaten, or the rice goddess will be sad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78290,6 +78385,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "grain, cereal (formal)",
+        "sentences": [
+          {
+            "thai": "ยุ้งฉางเต็มไปด้วยธัญญาหาร",
+            "en": "The granary is full of grain.",
+            "audio_src": "ยุ้งฉางเต็มไปด้วยธัญญาหาร",
+            "audio_en_src": "The granary is full of grain."
+          },
+          {
+            "thai": "ปีนี้ฝนดี ธัญญาหารอุดมสมบูรณ์",
+            "en": "The rains were good this year, so grain is plentiful.",
+            "audio_src": "ปีนี้ฝนดี ธัญญาหารอุดมสมบูรณ์",
+            "audio_en_src": "The rains were good this year, so grain is plentiful."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78397,6 +78511,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "crowded, packed with people (formal, literary)",
+        "sentences": [
+          {
+            "thai": "ตลาดน้ำมีนักท่องเที่ยวคลาคล่ำ",
+            "en": "The floating market is packed with tourists.",
+            "audio_src": "ตลาดน้ำมีนักท่องเที่ยวคลาคล่ำ",
+            "audio_en_src": "The floating market is packed with tourists."
+          },
+          {
+            "thai": "ผู้คนคลาคล่ำเต็มถนนตอนสงกรานต์",
+            "en": "The streets are thronged with people during Songkran.",
+            "audio_src": "ผู้คนคลาคล่ำเต็มถนนตอนสงกรานต์",
+            "audio_en_src": "The streets are thronged with people during Songkran."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78445,6 +78578,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "anemia",
+        "sentences": [
+          {
+            "thai": "ผลเลือดบอกว่าเธอมีภาวะโลหิตจาง",
+            "en": "Her blood test showed she's anemic.",
+            "audio_src": "ผลเลือดบอกว่าเธอมีภาวะโลหิตจาง",
+            "audio_en_src": "Her blood test showed she's anemic."
+          },
+          {
+            "thai": "คนเป็นโรคโลหิตจางควรกินอาหารที่มีธาตุเหล็ก",
+            "en": "People with anemia should eat iron-rich foods.",
+            "audio_src": "คนเป็นโรคโลหิตจางควรกินอาหารที่มีธาตุเหล็ก",
+            "audio_en_src": "People with anemia should eat iron-rich foods."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78535,6 +78687,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "posture, bodily position, the 4 Buddhist postures (formal)",
+        "sentences": [
+          {
+            "thai": "นั่งนานแล้ว ลุกเปลี่ยนอิริยาบถบ้าง",
+            "en": "You've been sitting a long time, get up and change position.",
+            "audio_src": "นั่งนานแล้ว ลุกเปลี่ยนอิริยาบถบ้าง",
+            "audio_en_src": "You've been sitting a long time, get up and change position."
+          },
+          {
+            "thai": "การเจริญสติทำได้ในทุกอิริยาบถ ทั้งยืน เดิน นั่ง นอน",
+            "en": "Mindfulness can be practiced in every posture: standing, walking, sitting, lying down.",
+            "audio_src": "การเจริญสติทำได้ในทุกอิริยาบถ ทั้งยืน เดิน นั่ง นอน",
+            "audio_en_src": "Mindfulness can be practiced in every posture: standing, walking, sitting, lying down."
+          }
+        ]
+      }
     ]
   },
   {
@@ -78577,11 +78748,30 @@
   },
   {
     "id": "thaipod-0002",
-    "thai": "18 มงกุฏ",
+    "thai": "18 มงกุฎ",
     "english": "(idiom) to act as a con artist",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "(idiom) to act as a con artist",
+        "sentences": [
+          {
+            "thai": "ระวังพวก 18 มงกุฎหลอกขายทองปลอม",
+            "en": "Watch out for con artists selling fake gold.",
+            "audio_src": "ระวังพวก 18 มงกุฎหลอกขายทองปลอม",
+            "audio_en_src": "Watch out for con artists selling fake gold."
+          },
+          {
+            "thai": "เขาโดนแก๊ง 18 มงกุฎหลอกโอนเงินไปหลายแสน",
+            "en": "He got scammed out of hundreds of thousands by a gang of con artists.",
+            "audio_src": "เขาโดนแก๊ง 18 มงกุฎหลอกโอนเงินไปหลายแสน",
+            "audio_en_src": "He got scammed out of hundreds of thousands by a gang of con artists."
+          }
+        ]
+      }
     ]
   },
   {
