@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6634 words**
+**Total: 6644 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2463,11 +2463,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0286` : ชี้ (to point, to indicate) : 1 meaning(s), 2 sentences
 - `thaipod-0291` : ช่วงต้น (early period, beginning phase) : 1 meaning(s), 2 sentences
 - `thaipod-0295` : ช่างเถอะ ("forget it", "never mind") : 1 meaning(s), 2 sentences
+- `thaipod-0296` : ช้างเผือก (white (albino) elephant (sacred in Thai culture)) : 1 meaning(s), 2 sentences
 - `thaipod-0298` : ซองใส่เงิน (money envelope (for gifts)) : 1 meaning(s), 2 sentences
 - `thaipod-0301` : ซื่อๆ (naive, simple, innocent) : 1 meaning(s), 2 sentences
+- `thaipod-0302` : ซุ้มประตู (gate arch, entrance arch) : 1 meaning(s), 2 sentences
+- `thaipod-0304` : ญวน (Vietnamese (people, language)) : 1 meaning(s), 2 sentences
 - `thaipod-0305` : ญาติ (relative (family)) : 1 meaning(s), 2 sentences
 - `thaipod-0306` : ญาติผู้ใหญ่ (elders, elderly relatives) : 1 meaning(s), 2 sentences
 - `thaipod-0307` : ฐาน (base, pedestal) : 1 meaning(s), 2 sentences
+- `thaipod-0308` : ฐานยิง (launch base, firing base) : 1 meaning(s), 2 sentences
 - `thaipod-0309` : ณ (at, in (formal preposition)) : 1 meaning(s), 2 sentences
 - `thaipod-0312` : ดอกบัว (lotus flower) : 1 meaning(s), 2 sentences
 - `thaipod-0315` : ดังกล่าว (aforementioned, mentioned above) : 1 meaning(s), 2 sentences
@@ -2478,9 +2482,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0321` : ดำน้ำตื้น (snorkeling) : 1 meaning(s), 2 sentences
 - `thaipod-0322` : ดำน้ำลึก (scuba diving) : 1 meaning(s), 2 sentences
 - `thaipod-0323` : ดำเนิน (to proceed, to go on, to carry on) : 1 meaning(s), 2 sentences
+- `thaipod-0325` : ดินปืน (gunpowder) : 1 meaning(s), 2 sentences
 - `thaipod-0326` : ดินแดน (land, territory) : 1 meaning(s), 2 sentences
 - `thaipod-0327` : ดิบ (raw, uncooked) : 1 meaning(s), 2 sentences
 - `thaipod-0328` : ดีด (to pluck, to strum, to flick) : 1 meaning(s), 2 sentences
+- `thaipod-0329` : กีตาร์โปร่ง (acoustic guitar) : 1 meaning(s), 2 sentences
 - `thaipod-0333` : ด่าน (checkpoint, border control, toll booth) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
 - `thaipod-0337` : ด้วยดี (amicably, peacefully, without troubles, on good terms) : 1 meaning(s), 2 sentences
@@ -2491,12 +2497,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0344` : ตบแต่ง (to decorate, to adorn, to dress up) : 1 meaning(s), 2 sentences
 - `thaipod-0345` : ตรงกลาง (in the middle, center) : 1 meaning(s), 2 sentences
 - `thaipod-0346` : ตรงกับ (to match with, to coincide with) : 1 meaning(s), 2 sentences
+- `thaipod-0347` : ตรัส (to say, "he said" (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0351` : ตอนต้น (beginning, early stage, initial period) : 1 meaning(s), 2 sentences
 - `thaipod-0352` : ตอนบน (upper part) : 1 meaning(s), 2 sentences
 - `thaipod-0353` : ตอนล่าง (lower part) : 1 meaning(s), 2 sentences
 - `thaipod-0356` : ตัดกับ (to contrast with, to clash with) : 1 meaning(s), 2 sentences
 - `thaipod-0359` : ตัวละคร (character, persona (in a story)) : 1 meaning(s), 2 sentences
 - `thaipod-0360` : ตัวแทน (representative, agent, substitute) : 1 meaning(s), 2 sentences
+- `thaipod-0362` : ตัวแสดงแทน (stunt double, substitute actor) : 1 meaning(s), 2 sentences
+- `thaipod-0363` : โคร่ง (oversized, loose-fitting, roomy) : 1 meaning(s), 2 sentences
 - `thaipod-0365` : ตั้งอยู่ (located, situated) : 1 meaning(s), 2 sentences
 - `thaipod-0366` : ตากอากาศ (to vacation, to have a holiday (especially by the sea)) : 1 meaning(s), 2 sentences
 - `thaipod-0367` : ตาม (to follow; along) : 2 meaning(s), 4 sentences
@@ -2507,6 +2516,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0373` : ติดกัน (adjacent, next to each other) : 1 meaning(s), 2 sentences
 - `thaipod-0374` : ติดปาก (popularly used, catchy (phrase that spreads and becomes commonly used in society)) : 1 meaning(s), 2 sentences
 - `thaipod-0375` : ตีความ, ตีความหมาย (to interpret, to analyze) : 1 meaning(s), 2 sentences
+- `thaipod-0376` : ตีทัพ (to attack the army) : 1 meaning(s), 2 sentences
 - `thaipod-0378` : ตุ๊กตา (doll) : 1 meaning(s), 2 sentences
 - `thaipod-0380` : ตุ๊กตาหมี (teddy bear) : 1 meaning(s), 2 sentences
 - `thaipod-0382` : ต่อ (for, against; per) : 2 meaning(s), 4 sentences

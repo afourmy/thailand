@@ -84832,6 +84832,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "white (albino) elephant (sacred in Thai culture)",
+        "sentences": [
+          {
+            "thai": "ช้างเผือกถือเป็นสัตว์คู่บารมีของพระมหากษัตริย์",
+            "en": "White elephants are considered symbols of the king's majesty.",
+            "audio_src": "ช้างเผือกถือเป็นสัตว์คู่บารมีของพระมหากษัตริย์",
+            "audio_en_src": "White elephants are considered symbols of the king's majesty."
+          },
+          {
+            "thai": "สมัยก่อน ใครพบช้างเผือกต้องถวายพระเจ้าแผ่นดิน",
+            "en": "In the old days, anyone who found a white elephant had to present it to the king.",
+            "audio_src": "สมัยก่อน ใครพบช้างเผือกต้องถวายพระเจ้าแผ่นดิน",
+            "audio_en_src": "In the old days, anyone who found a white elephant had to present it to the king."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84897,6 +84916,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "gate arch, entrance arch",
+        "sentences": [
+          {
+            "thai": "ซุ้มประตูวัดแกะสลักลวดลายสวยงาม",
+            "en": "The temple's gateway arch is carved with beautiful patterns.",
+            "audio_src": "ซุ้มประตูวัดแกะสลักลวดลายสวยงาม",
+            "audio_en_src": "The temple's gateway arch is carved with beautiful patterns."
+          },
+          {
+            "thai": "งานแต่งตกแต่งซุ้มประตูด้วยดอกไม้สด",
+            "en": "The wedding's entrance arch was decorated with fresh flowers.",
+            "audio_src": "งานแต่งตกแต่งซุ้มประตูด้วยดอกไม้สด",
+            "audio_en_src": "The wedding's entrance arch was decorated with fresh flowers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -84907,6 +84945,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Vietnamese (people, language)",
+        "sentences": [
+          {
+            "thai": "ในพงศาวดารมีบันทึกสงครามระหว่างสยามกับญวน",
+            "en": "The chronicles record wars between Siam and Vietnam.",
+            "audio_src": "ในพงศาวดารมีบันทึกสงครามระหว่างสยามกับญวน",
+            "audio_en_src": "The chronicles record wars between Siam and Vietnam."
+          },
+          {
+            "thai": "ยายชอบกินขนมเบื้องญวน",
+            "en": "Grandma loves Vietnamese-style stuffed crepes.",
+            "audio_src": "ยายชอบกินขนมเบื้องญวน",
+            "audio_en_src": "Grandma loves Vietnamese-style stuffed crepes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85009,6 +85066,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "launch base, firing base",
+        "sentences": [
+          {
+            "thai": "จรวดถูกส่งขึ้นจากฐานยิงในทะเลทราย",
+            "en": "The rocket was launched from a base in the desert.",
+            "audio_src": "จรวดถูกส่งขึ้นจากฐานยิงในทะเลทราย",
+            "audio_en_src": "The rocket was launched from a base in the desert."
+          },
+          {
+            "thai": "ทหารตั้งฐานยิงบนเนินเขา",
+            "en": "The soldiers set up a firing position on the hill.",
+            "audio_src": "ทหารตั้งฐานยิงบนเนินเขา",
+            "audio_en_src": "The soldiers set up a firing position on the hill."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85326,6 +85402,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "gunpowder",
+        "sentences": [
+          {
+            "thai": "ชาวจีนเป็นผู้คิดค้นดินปืน",
+            "en": "The Chinese invented gunpowder.",
+            "audio_src": "ชาวจีนเป็นผู้คิดค้นดินปืน",
+            "audio_en_src": "The Chinese invented gunpowder."
+          },
+          {
+            "thai": "โกดังเก็บดินปืนระเบิดกลางดึก",
+            "en": "The gunpowder warehouse exploded in the middle of the night.",
+            "audio_src": "โกดังเก็บดินปืนระเบิดกลางดึก",
+            "audio_en_src": "The gunpowder warehouse exploded in the middle of the night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85428,6 +85523,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "acoustic guitar",
+        "sentences": [
+          {
+            "thai": "เขานั่งเล่นกีตาร์โปร่งริมทะเล",
+            "en": "He sat playing acoustic guitar by the sea.",
+            "audio_src": "เขานั่งเล่นกีตาร์โปร่งริมทะเล",
+            "audio_en_src": "He sat playing acoustic guitar by the sea."
+          },
+          {
+            "thai": "เพลงนี้เพราะกว่าเวลาเล่นด้วยกีตาร์โปร่ง",
+            "en": "This song sounds better on an acoustic guitar.",
+            "audio_src": "เพลงนี้เพราะกว่าเวลาเล่นด้วยกีตาร์โปร่ง",
+            "audio_en_src": "This song sounds better on an acoustic guitar."
+          }
+        ]
+      }
     ]
   },
   {
@@ -85796,6 +85910,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to say, \"he said\" (royal)",
+        "sentences": [
+          {
+            "thai": "พระพุทธเจ้าตรัสสอนเรื่องความไม่ประมาท",
+            "en": "The Buddha taught about heedfulness.",
+            "audio_src": "พระพุทธเจ้าตรัสสอนเรื่องความไม่ประมาท",
+            "audio_en_src": "The Buddha taught about heedfulness."
+          },
+          {
+            "thai": "ในหลวงตรัสขอบใจประชาชนที่มารอรับเสด็จ",
+            "en": "The king thanked the people who came to welcome him.",
+            "audio_src": "ในหลวงตรัสขอบใจประชาชนที่มารอรับเสด็จ",
+            "audio_en_src": "The king thanked the people who came to welcome him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -86008,6 +86141,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "stunt double, substitute actor",
+        "sentences": [
+          {
+            "thai": "ฉากเสี่ยงตายใช้ตัวแสดงแทนทั้งหมด",
+            "en": "All the dangerous scenes used stunt doubles.",
+            "audio_src": "ฉากเสี่ยงตายใช้ตัวแสดงแทนทั้งหมด",
+            "audio_en_src": "All the dangerous scenes used stunt doubles."
+          },
+          {
+            "thai": "ดาราคนนี้เล่นเองทุกฉาก ไม่ใช้ตัวแสดงแทน",
+            "en": "This star does every scene himself, no stunt double.",
+            "audio_src": "ดาราคนนี้เล่นเองทุกฉาก ไม่ใช้ตัวแสดงแทน",
+            "audio_en_src": "This star does every scene himself, no stunt double."
+          }
+        ]
+      }
     ]
   },
   {
@@ -86017,6 +86169,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "oversized, loose-fitting, roomy",
+        "sentences": [
+          {
+            "thai": "เสื้อตัวโคร่งกำลังเป็นแฟชั่น",
+            "en": "Oversized shirts are in fashion.",
+            "audio_src": "เสื้อตัวโคร่งกำลังเป็นแฟชั่น",
+            "audio_en_src": "Oversized shirts are in fashion."
+          },
+          {
+            "thai": "กางเกงตัวนี้โคร่งไป ขอไซซ์เล็กกว่านี้",
+            "en": "These pants are too baggy, can I get a smaller size?",
+            "audio_src": "กางเกงตัวนี้โคร่งไป ขอไซซ์เล็กกว่านี้",
+            "audio_en_src": "These pants are too baggy, can I get a smaller size?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -86360,6 +86531,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to attack the army",
+        "sentences": [
+          {
+            "thai": "พระนเรศวรทรงยกทัพไปตีทัพพม่า",
+            "en": "King Naresuan led his forces to attack the Burmese army.",
+            "audio_src": "พระนเรศวรทรงยกทัพไปตีทัพพม่า",
+            "audio_en_src": "King Naresuan led his forces to attack the Burmese army."
+          },
+          {
+            "thai": "ข้าศึกวางแผนตีทัพหลวงตอนกลางคืน",
+            "en": "The enemy planned to strike the main army at night.",
+            "audio_src": "ข้าศึกวางแผนตีทัพหลวงตอนกลางคืน",
+            "audio_en_src": "The enemy planned to strike the main army at night."
+          }
+        ]
+      }
     ]
   },
   {
