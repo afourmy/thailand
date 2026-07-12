@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6615 words**
+**Total: 6624 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2395,8 +2395,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0191` : ความสงบร่มเย็น (peace and tranquility (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0194` : ความอาฆาต (vengeance, vindictiveness (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0195` : ความอุดมสมบูรณ์ (prosperity, abundance, fertility) : 1 meaning(s), 2 sentences
+- `thaipod-0196` : ความเก่าแก่ (antiquity, ancientness) : 1 meaning(s), 2 sentences
+- `thaipod-0197` : ความเจริญรุ่งเรือง (prosperity, flourishing) : 1 meaning(s), 2 sentences
 - `thaipod-0199` : ความเป็นมา (background, history (of something)) : 1 meaning(s), 2 sentences
+- `thaipod-0202` : ความเอื้ออาทรต่อกัน (mutual generosity, kindness toward each other) : 1 meaning(s), 2 sentences
 - `thaipod-0203` : ความแท้จริง (authenticity, genuineness) : 1 meaning(s), 2 sentences
+- `thaipod-0204` : ความแร้นแค้น (hardship, poverty (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0205` : ความโกลาหล (chaos, disorder, turmoil) : 1 meaning(s), 2 sentences
 - `thaipod-0206` : ความไม่มั่นคง (instability, insecurity) : 1 meaning(s), 2 sentences
 - `thaipod-0208` : คัดเลือก (to select, to choose) : 1 meaning(s), 2 sentences
 - `thaipod-0211` : คาดหวัง (to expect, to hope for) : 1 meaning(s), 2 sentences
@@ -2410,11 +2415,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0222` : คุม, ควบคุม (to control, to supervise) : 1 meaning(s), 2 sentences
 - `thaipod-0223` : เพลินไปหน่อย ("got a bit too absorbed", "slightly over-engaged in...") : 1 meaning(s), 2 sentences
 - `thaipod-0224` : คุ้มครอง (to protect, to safeguard) : 1 meaning(s), 2 sentences
+- `thaipod-0225` : คุ้มวัด (residential area within or adjacent to a Buddhist temple) : 1 meaning(s), 2 sentences
+- `thaipod-0226` : คู (moat) : 1 meaning(s), 2 sentences
 - `thaipod-0229` : ค้างคาว (bat (animal)) : 1 meaning(s), 2 sentences
 - `thaipod-0230` : ค้างคาใจ (unsettled, lingering doubts on one's mind, unresolved feelings) : 1 meaning(s), 2 sentences
 - `thaipod-0231` : ค้างคืน (overnight, to stay overnight) : 1 meaning(s), 2 sentences
+- `thaipod-0232` : ค้ายาเสพติด (drug trafficking) : 1 meaning(s), 2 sentences
 - `thaipod-0233` : ฆาตกรรม (murder) : 1 meaning(s), 2 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
+- `thaipod-0238` : งอบ (traditional wide-brimmed straw hat (Thai farmer's hat)) : 1 meaning(s), 2 sentences
 - `thaipod-0240` : งานฉลอง (celebration, festivity) : 1 meaning(s), 2 sentences
 - `thaipod-0241` : งานแสดง (exhibition, show, expo) : 1 meaning(s), 2 sentences
 - `thaipod-0242` : จนจบ (until the end) : 1 meaning(s), 2 sentences
