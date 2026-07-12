@@ -69328,6 +69328,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "velvet",
+        "sentences": [
+          {
+            "thai": "เก้าอี้ตัวนี้หุ้มด้วยกำมะหยี่สีแดง",
+            "en": "This chair is upholstered in red velvet.",
+            "audio_src": "เก้าอี้ตัวนี้หุ้มด้วยกำมะหยี่สีแดง",
+            "audio_en_src": "This chair is upholstered in red velvet."
+          },
+          {
+            "thai": "กล่องแหวนบุกำมะหยี่ด้านใน",
+            "en": "The ring box is lined with velvet.",
+            "audio_src": "กล่องแหวนบุกำมะหยี่ด้านใน",
+            "audio_en_src": "The ring box is lined with velvet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -69442,15 +69461,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
-    ]
-  },
-  {
-    "id": "tsl-246",
-    "thai": "ผ้าซิ่น - ผ้าจงกระเบน",
-    "english": "traditional Thai wraparound skirt - traditional cloth wrap (knot-style trousers)",
-    "frequency": "rare",
-    "sources": [
-      "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "universalism, preference for international standards",
+        "sentences": [
+          {
+            "thai": "สมัยจอมพล ป. รัฐบาลส่งเสริมการแต่งกายแบบสากลนิยม",
+            "en": "Under Field Marshal Phibun, the government promoted dressing in the international style.",
+            "audio_src": "สมัยจอมพล ป. รัฐบาลส่งเสริมการแต่งกายแบบสากลนิยม",
+            "audio_en_src": "Under Field Marshal Phibun, the government promoted dressing in the international style."
+          },
+          {
+            "thai": "แนวคิดสากลนิยมเชื่อว่าค่านิยมบางอย่างใช้ได้กับทุกวัฒนธรรม",
+            "en": "Universalism holds that some values apply to every culture.",
+            "audio_src": "แนวคิดสากลนิยมเชื่อว่าค่านิยมบางอย่างใช้ได้กับทุกวัฒนธรรม",
+            "audio_en_src": "Universalism holds that some values apply to every culture."
+          }
+        ]
+      }
     ]
   },
   {
@@ -69469,6 +69498,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "civility, refinement, state of being civilized",
+        "sentences": [
+          {
+            "thai": "การเข้าคิวเป็นเครื่องหมายของความมีอารยธรรม",
+            "en": "Waiting in line is a mark of a civilized society.",
+            "audio_src": "การเข้าคิวเป็นเครื่องหมายของความมีอารยธรรม",
+            "audio_en_src": "Waiting in line is a mark of a civilized society."
+          },
+          {
+            "thai": "ประเทศที่เจริญวัดกันที่ความมีอารยธรรมของผู้คน",
+            "en": "How advanced a country is shows in how civilized its people are.",
+            "audio_src": "ประเทศที่เจริญวัดกันที่ความมีอารยธรรมของผู้คน",
+            "audio_en_src": "How advanced a country is shows in how civilized its people are."
+          }
+        ]
+      }
     ]
   },
   {
@@ -69801,21 +69849,31 @@
     ]
   },
   {
-    "id": "tsl-262",
-    "thai": "ตักบาตรถามพระ",
-    "english": "(idiom) to ask an expert, to seek advice from someone more knowledgeable",
-    "frequency": "rare",
-    "sources": [
-      "TSL Chiang Mai"
-    ]
-  },
-  {
     "id": "tsl-263",
     "thai": "ไก่งามเพราะขน คนงามเพราะแต่ง",
     "english": "(proverb) beauty can be improved with care and grooming (literally \"a chicken is beautiful because of its feathers, a person is beautiful because of their dress\")",
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "(proverb) beauty can be improved with care and grooming (literally \"a chicken is beautiful because of its feathers, a person is beautiful because of their dress\")",
+        "sentences": [
+          {
+            "thai": "แต่งตัวหน่อยสิ ไก่งามเพราะขน คนงามเพราะแต่ง",
+            "en": "Dress up a bit! Fine feathers make fine birds.",
+            "audio_src": "แต่งตัวหน่อยสิ ไก่งามเพราะขน คนงามเพราะแต่ง",
+            "audio_en_src": "Dress up a bit! Fine feathers make fine birds."
+          },
+          {
+            "thai": "เปลี่ยนทรงผมกับเสื้อผ้าแล้วดูดีขึ้นเยอะ ไก่งามเพราะขน คนงามเพราะแต่งจริงๆ",
+            "en": "With a new haircut and clothes he looks so much better. Fine feathers really do make fine birds.",
+            "audio_src": "เปลี่ยนทรงผมกับเสื้อผ้าแล้วดูดีขึ้นเยอะ ไก่งามเพราะขน คนงามเพราะแต่งจริงๆ",
+            "audio_en_src": "With a new haircut and clothes he looks so much better. Fine feathers really do make fine birds."
+          }
+        ]
+      }
     ]
   },
   {
@@ -69890,6 +69948,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "magnate, tycoon (wealthy Chinese-Thai businessperson)",
+        "sentences": [
+          {
+            "thai": "เจ้าสัวคนนี้เริ่มจากร้านขายของชำเล็กๆ",
+            "en": "This tycoon started from a small grocery store.",
+            "audio_src": "เจ้าสัวคนนี้เริ่มจากร้านขายของชำเล็กๆ",
+            "audio_en_src": "This tycoon started from a small grocery store."
+          },
+          {
+            "thai": "ลูกชายเจ้าสัวรับช่วงต่อธุรกิจครอบครัว",
+            "en": "The tycoon's son took over the family business.",
+            "audio_src": "ลูกชายเจ้าสัวรับช่วงต่อธุรกิจครอบครัว",
+            "audio_en_src": "The tycoon's son took over the family business."
+          }
+        ]
+      }
     ]
   },
   {
@@ -69964,6 +70041,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "hood of a car (bonnet)",
+        "sentences": [
+          {
+            "thai": "เปิดฝากระโปรงหน่อย เดี๋ยวเช็กน้ำมันเครื่องให้",
+            "en": "Pop the hood, I'll check the oil for you.",
+            "audio_src": "เปิดฝากระโปรงหน่อย เดี๋ยวเช็กน้ำมันเครื่องให้",
+            "audio_en_src": "Pop the hood, I'll check the oil for you."
+          },
+          {
+            "thai": "ควันขึ้นจากฝากระโปรงหน้า รีบจอดเลย",
+            "en": "Smoke was coming from the hood, so I pulled over right away.",
+            "audio_src": "ควันขึ้นจากฝากระโปรงหน้า รีบจอดเลย",
+            "audio_en_src": "Smoke was coming from the hood, so I pulled over right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -69982,6 +70078,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to ignite, ignition (of an engine)",
+        "sentences": [
+          {
+            "thai": "เครื่องยนต์เบนซินใช้หัวเทียนจุดระเบิด",
+            "en": "Gasoline engines use spark plugs for ignition.",
+            "audio_src": "เครื่องยนต์เบนซินใช้หัวเทียนจุดระเบิด",
+            "audio_en_src": "Gasoline engines use spark plugs for ignition."
+          },
+          {
+            "thai": "รถสตาร์ตไม่ติด อาจเป็นที่ระบบจุดระเบิด",
+            "en": "The car won't start, could be the ignition system.",
+            "audio_src": "รถสตาร์ตไม่ติด อาจเป็นที่ระบบจุดระเบิด",
+            "audio_en_src": "The car won't start, could be the ignition system."
+          }
+        ]
+      }
     ]
   },
   {
@@ -70038,6 +70153,25 @@
     "frequency": "rare",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "torque (rotational force)",
+        "sentences": [
+          {
+            "thai": "รถกระบะคันนี้แรงบิดสูง ลากของหนักสบาย",
+            "en": "This pickup has high torque, it tows heavy loads easily.",
+            "audio_src": "รถกระบะคันนี้แรงบิดสูง ลากของหนักสบาย",
+            "audio_en_src": "This pickup has high torque, it tows heavy loads easily."
+          },
+          {
+            "thai": "มอเตอร์ไฟฟ้าให้แรงบิดทันทีตั้งแต่ออกตัว",
+            "en": "Electric motors deliver instant torque from a standstill.",
+            "audio_src": "มอเตอร์ไฟฟ้าให้แรงบิดทันทีตั้งแต่ออกตัว",
+            "audio_en_src": "Electric motors deliver instant torque from a standstill."
+          }
+        ]
+      }
     ]
   },
   {

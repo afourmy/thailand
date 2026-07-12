@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6518 words**
+**Total: 6526 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1998,9 +1998,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-235` : อารยธรรม (civilization) : 1 meaning(s), 2 sentences
 - `tsl-237` : ผ้ารัดเอว (sash, waist cloth) : 1 meaning(s), 2 sentences
 - `tsl-238` : เสริมสร้าง (to enhance, strengthen, reinforce) : 1 meaning(s), 2 sentences
+- `tsl-239` : กำมะหยี่ (velvet) : 1 meaning(s), 2 sentences
 - `tsl-242` : อาหารเสริม ((dietary) supplement) : 1 meaning(s), 2 sentences
 - `tsl-243` : ข้ามเส้น - ล้ำเส้น (to cross the line (literally) - to overstep limits, to go too far) : 1 meaning(s), 2 sentences
 - `tsl-244` : ทึบ (dense, solid, opaque (not letting light, air, or fluid through)) : 1 meaning(s), 2 sentences
+- `tsl-245` : สากลนิยม (universalism, preference for international standards) : 1 meaning(s), 2 sentences
+- `tsl-248` : ความมีอารยธรรม (civility, refinement, state of being civilized) : 1 meaning(s), 2 sentences
 - `tsl-249` : ไม่... เสมอไป (not always, not necessarily true) : 1 meaning(s), 2 sentences
 - `tsl-250` : ผ้าฝ้าย (cotton fabric) : 1 meaning(s), 2 sentences
 - `tsl-251` : เชิง (aspect, angle, style) : 1 meaning(s), 2 sentences
@@ -2011,10 +2014,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-257` : คาดการณ์ (to forecast, to predict, to extrapolate) : 1 meaning(s), 2 sentences
 - `tsl-258` : รับจ้าง (to accept a job (contract), to work as a freelancer) : 1 meaning(s), 2 sentences
 - `tsl-259` : มุ่ง (to aim at, to focus on, to head towards) : 1 meaning(s), 2 sentences
+- `tsl-263` : ไก่งามเพราะขน คนงามเพราะแต่ง ((proverb) beauty can be improved with care and grooming (literally "a chicken is beautiful because of its feathers, a person is beautiful because of their dress")) : 1 meaning(s), 2 sentences
 - `tsl-264` : ทั้งนี้เพื่อ (in order to, for the purpose of (formal)) : 1 meaning(s), 2 sentences
 - `tsl-265` : ไม่มากก็น้อย (more or less, to some extent) : 1 meaning(s), 2 sentences
+- `tsl-267` : เจ้าสัว (magnate, tycoon (wealthy Chinese-Thai businessperson)) : 1 meaning(s), 2 sentences
 - `tsl-270` : ตลาดหุ้น (stock market) : 1 meaning(s), 2 sentences
+- `tsl-273` : ฝากระโปรง (hood of a car (bonnet)) : 1 meaning(s), 2 sentences
+- `tsl-275` : จุดระเบิด (to ignite, ignition (of an engine)) : 1 meaning(s), 2 sentences
 - `tsl-276` : อัธยาศัย (temperament, disposition, friendliness) : 1 meaning(s), 2 sentences
+- `tsl-279` : แรงบิด (torque (rotational force)) : 1 meaning(s), 2 sentences
 - `tsl-282` : เร้าใจ (exciting, stimulating, thrilling) : 1 meaning(s), 2 sentences
 - `tsl-285` : ยึดเกาะ (to cling, to adhere, to hold on) : 1 meaning(s), 2 sentences
 - `tsl-286` : ทรงตัว (to maintain balance, to stabilize) : 1 meaning(s), 2 sentences
