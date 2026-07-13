@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6781 words**
+**Total: 6791 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2850,11 +2850,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0841` : รัฐ (state (political)) : 1 meaning(s), 2 sentences
 - `thaipod-0842` : รัฐธรรมนูญ (constitution) : 1 meaning(s), 2 sentences
 - `thaipod-0843` : รัฐบาล (government) : 1 meaning(s), 2 sentences
+- `thaipod-0846` : รับสั่ง (to give an order, to command (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0847` : รั่วไหล (to leak out) : 1 meaning(s), 2 sentences
 - `thaipod-0848` : รั้ว (fence, barrier) : 1 meaning(s), 2 sentences
 - `thaipod-0849` : รากฐาน (foundation, basis) : 1 meaning(s), 2 sentences
 - `thaipod-0850` : รากไม้ (tree root) : 1 meaning(s), 2 sentences
+- `thaipod-0851` : ราชการทหาร (military service, military duties) : 1 meaning(s), 2 sentences
+- `thaipod-0852` : ราชธานี (royal capital) : 1 meaning(s), 2 sentences
+- `thaipod-0853` : ราชบัลลังก์ (throne (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0854` : ราชวงศ์ (royal dynasty) : 1 meaning(s), 2 sentences
+- `thaipod-0855` : ราชสมบัติ (royal property, throne) : 1 meaning(s), 2 sentences
+- `thaipod-0856` : ราชสำนัก (royal court) : 1 meaning(s), 2 sentences
+- `thaipod-0858` : ราบสูง (plateau, high plain) : 1 meaning(s), 2 sentences
 - `thaipod-0861` : รายได้ (income) : 1 meaning(s), 2 sentences
 - `thaipod-0862` : รายได้พิเศษ (extra income, side income) : 1 meaning(s), 2 sentences
+- `thaipod-0865` : ราษฎร (people, populace, subjects) : 1 meaning(s), 2 sentences
 - `thaipod-0867` : ริมทะเล (by the sea, seaside) : 1 meaning(s), 2 sentences
 - `thaipod-0871` : รุ่งเรือง (prosperous, flourishing) : 1 meaning(s), 2 sentences
 - `thaipod-0873` : รู้ทัน (to see through someone's intentions, to read someone's game) : 1 meaning(s), 2 sentences
