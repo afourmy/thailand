@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6909 words**
+**Total: 6919 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3209,7 +3209,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1344` : แสงสี (colored lights (cityscape, entertainment)) : 1 meaning(s), 2 sentences
 - `thaipod-1345` : แสดงความเสียใจ (to express sympathy, to give condolences) : 1 meaning(s), 2 sentences
 - `thaipod-1346` : แสดงบท (to play a role, to perform a part) : 1 meaning(s), 2 sentences
+- `thaipod-1347` : แสนซื่อ (very honest, extremely sincere) : 1 meaning(s), 2 sentences
 - `thaipod-1352` : แหล่งท่องเที่ยว (tourist attraction, tourist spot) : 1 meaning(s), 2 sentences
+- `thaipod-1353` : แหล่งสะสม (collection site, place where things are stored) : 1 meaning(s), 2 sentences
+- `thaipod-1355` : โขน (Khon (Thai masked dance drama)) : 1 meaning(s), 2 sentences
 - `thaipod-1356` : โคมลอย (sky lantern) : 1 meaning(s), 2 sentences
 - `thaipod-1358` : โครงสร้าง (structure, framework) : 1 meaning(s), 2 sentences
 - `thaipod-1360` : โค้ง (curve, arc) : 1 meaning(s), 2 sentences
@@ -3219,7 +3222,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1369` : โต (to grow up; large) : 2 meaning(s), 4 sentences
 - `thaipod-1371` : โต้รุ่ง ((open) all night, throughout the night) : 1 meaning(s), 2 sentences
 - `thaipod-1372` : โทรไม่ติด (can't get through (phone call)) : 1 meaning(s), 2 sentences
+- `thaipod-1374` : โบราณคดี (archaeology) : 1 meaning(s), 2 sentences
+- `thaipod-1376` : โปรดเกล้าฯ (by royal command, graciously granted by the King) : 1 meaning(s), 2 sentences
+- `thaipod-1379` : โรงฆ่า, โรงฆ่าสัตว์ (slaughterhouse) : 1 meaning(s), 2 sentences
 - `thaipod-1380` : โรงเรียนประจำ (boarding school) : 1 meaning(s), 2 sentences
+- `thaipod-1384` : โห่ร้อง (to cheer, to acclaim) : 1 meaning(s), 2 sentences
+- `thaipod-1386` : โอบอุ้ม (to embrace, to support, to foster) : 1 meaning(s), 2 sentences
+- `thaipod-1388` : โอรสธิดา (children, sons and daughters (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1390` : ใครๆ (everyone, anyone) : 1 meaning(s), 2 sentences
 - `thaipod-1391` : ใจร้อน (impatient, hot-tempered) : 1 meaning(s), 2 sentences
 - `thaipod-1392` : ใจเย็นๆ ("cool down", "take it easy") : 1 meaning(s), 2 sentences
@@ -3232,6 +3241,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1402` : ในอำนาจ (in power) : 1 meaning(s), 2 sentences
 - `thaipod-1403` : ใบเตย (pandan leaf) : 1 meaning(s), 2 sentences
 - `thaipod-1406` : ใหญ่โต (huge, enormous) : 1 meaning(s), 2 sentences
+- `thaipod-1407` : ไข้ทรพิษ (smallpox) : 1 meaning(s), 2 sentences
 - `thaipod-1408` : ได้ข่าวว่า ("I heard that", "I got word that") : 1 meaning(s), 2 sentences
 - `thaipod-1410` : ได้ชื่อว่า (to be known as, to be regarded as) : 1 meaning(s), 2 sentences
 - `thaipod-1411` : ไต่ (to climb, to crawl along a surface (carefully, gradually)) : 1 meaning(s), 2 sentences

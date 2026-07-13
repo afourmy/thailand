@@ -108439,6 +108439,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "very honest, extremely sincere",
+        "sentences": [
+          {
+            "thai": "หมาตัวนี้ตาแสนซื่อ ใครเห็นก็เอ็นดู",
+            "en": "This dog has such innocent eyes, everyone adores him.",
+            "audio_src": "หมาตัวนี้ตาแสนซื่อ ใครเห็นก็เอ็นดู",
+            "audio_en_src": "This dog has such innocent eyes, everyone adores him."
+          },
+          {
+            "thai": "เด็กน้อยหน้าตาแสนซื่อถามคำถามจนแม่อึ้ง",
+            "en": "The sweet-faced kid asked a question that left his mom speechless.",
+            "audio_src": "เด็กน้อยหน้าตาแสนซื่อถามคำถามจนแม่อึ้ง",
+            "audio_en_src": "The sweet-faced kid asked a question that left his mom speechless."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108478,6 +108497,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "collection site, place where things are stored",
+        "sentences": [
+          {
+            "thai": "น้ำขังเป็นแหล่งสะสมของลูกน้ำยุง",
+            "en": "Standing water is a breeding ground where mosquito larvae collect.",
+            "audio_src": "น้ำขังเป็นแหล่งสะสมของลูกน้ำยุง",
+            "audio_en_src": "Standing water is a breeding ground where mosquito larvae collect."
+          },
+          {
+            "thai": "ร้านนี้เป็นแหล่งสะสมของเก่าหายาก",
+            "en": "This shop is a repository of rare antiques.",
+            "audio_src": "ร้านนี้เป็นแหล่งสะสมของเก่าหายาก",
+            "audio_en_src": "This shop is a repository of rare antiques."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108487,6 +108525,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Khon (Thai masked dance drama)",
+        "sentences": [
+          {
+            "thai": "โขนเป็นนาฏศิลป์ชั้นสูงของไทย",
+            "en": "Khon is a classical Thai performing art.",
+            "audio_src": "โขนเป็นนาฏศิลป์ชั้นสูงของไทย",
+            "audio_en_src": "Khon is a classical Thai performing art."
+          },
+          {
+            "thai": "ผู้แสดงโขนต้องฝึกท่ารำมาหลายปี",
+            "en": "Khon performers train their dance moves for years.",
+            "audio_src": "ผู้แสดงโขนต้องฝึกท่ารำมาหลายปี",
+            "audio_en_src": "Khon performers train their dance moves for years."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108800,6 +108857,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "archaeology",
+        "sentences": [
+          {
+            "thai": "เธอเรียนจบด้านโบราณคดีจากศิลปากร",
+            "en": "She has an archaeology degree from Silpakorn.",
+            "audio_src": "เธอเรียนจบด้านโบราณคดีจากศิลปากร",
+            "audio_en_src": "She has an archaeology degree from Silpakorn."
+          },
+          {
+            "thai": "การขุดค้นทางโบราณคดีพบเครื่องมือหินอายุหลายพันปี",
+            "en": "The archaeological dig found stone tools thousands of years old.",
+            "audio_src": "การขุดค้นทางโบราณคดีพบเครื่องมือหินอายุหลายพันปี",
+            "audio_en_src": "The archaeological dig found stone tools thousands of years old."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108809,6 +108885,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "by royal command, graciously granted by the King",
+        "sentences": [
+          {
+            "thai": "มีพระบรมราชโองการโปรดเกล้าฯ แต่งตั้งรัฐมนตรีใหม่",
+            "en": "A royal command appointed the new ministers.",
+            "audio_src": "มีพระบรมราชโองการโปรดเกล้าฯ แต่งตั้งรัฐมนตรีใหม่",
+            "audio_en_src": "A royal command appointed the new ministers."
+          },
+          {
+            "thai": "ชื่อนี้ได้รับโปรดเกล้าฯ พระราชทานมา",
+            "en": "This name was graciously bestowed by the king.",
+            "audio_src": "ชื่อนี้ได้รับโปรดเกล้าฯ พระราชทานมา",
+            "audio_en_src": "This name was graciously bestowed by the king."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108828,6 +108923,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "slaughterhouse",
+        "sentences": [
+          {
+            "thai": "หมูถูกส่งไปโรงฆ่าสัตว์ตอนเช้ามืด",
+            "en": "The pigs are sent to the slaughterhouse before dawn.",
+            "audio_src": "หมูถูกส่งไปโรงฆ่าสัตว์ตอนเช้ามืด",
+            "audio_en_src": "The pigs are sent to the slaughterhouse before dawn."
+          },
+          {
+            "thai": "โรงฆ่าต้องผ่านการตรวจมาตรฐานสุขอนามัย",
+            "en": "Slaughterhouses must pass hygiene inspections.",
+            "audio_src": "โรงฆ่าต้องผ่านการตรวจมาตรฐานสุขอนามัย",
+            "audio_en_src": "Slaughterhouses must pass hygiene inspections."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108877,6 +108991,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to cheer, to acclaim",
+        "sentences": [
+          {
+            "thai": "แฟนบอลโห่ร้องดีใจเมื่อทีมยิงประตูได้",
+            "en": "The fans cheered when the team scored.",
+            "audio_src": "แฟนบอลโห่ร้องดีใจเมื่อทีมยิงประตูได้",
+            "audio_en_src": "The fans cheered when the team scored."
+          },
+          {
+            "thai": "ฝูงชนโห่ร้องต้อนรับนักกีฬาเหรียญทอง",
+            "en": "The crowd cheered to welcome the gold medalist.",
+            "audio_src": "ฝูงชนโห่ร้องต้อนรับนักกีฬาเหรียญทอง",
+            "audio_en_src": "The crowd cheered to welcome the gold medalist."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108886,6 +109019,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to embrace, to support, to foster",
+        "sentences": [
+          {
+            "thai": "ชุมชนช่วยโอบอุ้มครอบครัวที่เดือดร้อน",
+            "en": "The community helped support the struggling family.",
+            "audio_src": "ชุมชนช่วยโอบอุ้มครอบครัวที่เดือดร้อน",
+            "audio_en_src": "The community helped support the struggling family."
+          },
+          {
+            "thai": "ธรรมชาติโอบอุ้มหมู่บ้านเล็กๆ แห่งนี้ไว้",
+            "en": "Nature cradles this little village.",
+            "audio_src": "ธรรมชาติโอบอุ้มหมู่บ้านเล็กๆ แห่งนี้ไว้",
+            "audio_en_src": "Nature cradles this little village."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108895,6 +109047,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "children, sons and daughters (royal)",
+        "sentences": [
+          {
+            "thai": "กษัตริย์ทรงมีโอรสธิดารวมห้าพระองค์",
+            "en": "The king had five sons and daughters in all.",
+            "audio_src": "กษัตริย์ทรงมีโอรสธิดารวมห้าพระองค์",
+            "audio_en_src": "The king had five sons and daughters in all."
+          },
+          {
+            "thai": "โอรสธิดาทุกพระองค์เสด็จร่วมพิธี",
+            "en": "All the royal children attended the ceremony.",
+            "audio_src": "โอรสธิดาทุกพระองค์เสด็จร่วมพิธี",
+            "audio_en_src": "All the royal children attended the ceremony."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109261,6 +109432,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "smallpox",
+        "sentences": [
+          {
+            "thai": "ไข้ทรพิษถูกกวาดล้างไปจากโลกแล้ว",
+            "en": "Smallpox has been eradicated from the world.",
+            "audio_src": "ไข้ทรพิษถูกกวาดล้างไปจากโลกแล้ว",
+            "audio_en_src": "Smallpox has been eradicated from the world."
+          },
+          {
+            "thai": "สมัยก่อนไข้ทรพิษคร่าชีวิตผู้คนมากมาย",
+            "en": "In the past, smallpox claimed many lives.",
+            "audio_src": "สมัยก่อนไข้ทรพิษคร่าชีวิตผู้คนมากมาย",
+            "audio_en_src": "In the past, smallpox claimed many lives."
+          }
+        ]
+      }
     ]
   },
   {
