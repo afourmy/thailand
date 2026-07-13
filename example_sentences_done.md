@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6762 words**
+**Total: 6772 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2783,15 +2783,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0736` : พื้นที่ (area, space) : 1 meaning(s), 2 sentences
 - `thaipod-0737` : พื้นเมือง (native, indigenous, local) : 1 meaning(s), 2 sentences
 - `thaipod-0738` : พุทธศาสนา, ศาสนาพุทธ (Buddhism) : 1 meaning(s), 2 sentences
+- `thaipod-0739` : พุทธาวาส (Buddhist sanctuary, area where Buddha resides (reserved for Buddha images and religious structures)) : 1 meaning(s), 2 sentences
+- `thaipod-0740` : พ่อตัวอย่าง (exemplary father, model father) : 1 meaning(s), 2 sentences
 - `thaipod-0741` : พ่ายแพ้ (to be defeated, to lose (battle, war)) : 1 meaning(s), 2 sentences
 - `thaipod-0742` : พ้น (free from, out of (e.g danger, trouble); beyond, past) : 2 meaning(s), 4 sentences
 - `thaipod-0743` : ฟัน (tooth, teeth; to cut, to slash, to chop) : 2 meaning(s), 4 sentences
 - `thaipod-0744` : ฟื้นฟู (to restore, to revive, to rehabilitate) : 1 meaning(s), 2 sentences
+- `thaipod-0745` : ฟ้อนรำ (to dance traditional northern Thai style) : 1 meaning(s), 2 sentences
 - `thaipod-0748` : ภาพประกอบ (illustration, diagram) : 1 meaning(s), 2 sentences
+- `thaipod-0749` : ภาพพจน์ (figurative expression, figure of speech) : 1 meaning(s), 2 sentences
 - `thaipod-0753` : ภายนอก (exterior, outside) : 1 meaning(s), 2 sentences
 - `thaipod-0757` : ภูมิใจ (proud of) : 1 meaning(s), 2 sentences
+- `thaipod-0758` : ภูเขาหินปูน (limestone mountain) : 1 meaning(s), 2 sentences
+- `thaipod-0761` : มณฑล (province, region, administrative area (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0762` : มรกต (emerald) : 1 meaning(s), 2 sentences
+- `thaipod-0763` : มรณะ (death (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0764` : มรดก (inheritance, heritage, legacy) : 1 meaning(s), 2 sentences
+- `thaipod-0765` : มรดกโลก (World Heritage) : 1 meaning(s), 2 sentences
 - `thaipod-0766` : มรสุม (monsoon) : 1 meaning(s), 2 sentences
+- `thaipod-0767` : มลายู (Malay (people, culture, etc)) : 1 meaning(s), 2 sentences
 - `thaipod-0772` : มัธยม (secondary school (age 12-17)) : 1 meaning(s), 2 sentences
 - `thaipod-0773` : มั่นคง (stable, secure, steady) : 1 meaning(s), 2 sentences
 - `thaipod-0776` : มากพอๆ กัน (about equally many, roughly the same amount) : 1 meaning(s), 2 sentences
