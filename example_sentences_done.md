@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6851 words**
+**Total: 6861 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3026,23 +3026,33 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1077` : หวดนึ่ง (bamboo steaming basket) : 1 meaning(s), 2 sentences
 - `thaipod-1078` : หวย (lottery) : 1 meaning(s), 2 sentences
 - `thaipod-1079` : หวัง (to hope) : 1 meaning(s), 2 sentences
+- `thaipod-1081` : หอระฆัง (bell tower (temple)) : 1 meaning(s), 2 sentences
 - `thaipod-1082` : หัน (to turn (one's body or face)) : 1 meaning(s), 2 sentences
+- `thaipod-1084` : หัวเมือง (provincial capital, administrative center) : 1 meaning(s), 2 sentences
 - `thaipod-1085` : หัวเราะ (to laugh) : 1 meaning(s), 2 sentences
 - `thaipod-1087` : หาเลี้ยงชีพ (to make a living, to earn a livelihood) : 1 meaning(s), 2 sentences
+- `thaipod-1088` : หินทราย (sandstone) : 1 meaning(s), 2 sentences
+- `thaipod-1091` : ห้องนักบิน (cockpit) : 1 meaning(s), 2 sentences
+- `thaipod-1092` : ห้องบรรทม (bedroom (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1094` : องค์ (classifier for sacred objects, Buddha images, deities, royalty) : 1 meaning(s), 2 sentences
 - `thaipod-1095` : องค์กร, องค์การ (organization) : 1 meaning(s), 2 sentences
 - `thaipod-1096` : อดทน (to endure, to be patient) : 1 meaning(s), 2 sentences
+- `thaipod-1097` : อนิจกรรม (death, passing away (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-1098` : อบอุ่น (warm) : 1 meaning(s), 2 sentences
+- `thaipod-1099` : อภิเษกสมรส (to marry, royal wedding) : 1 meaning(s), 2 sentences
 - `thaipod-1100` : อยู่ดีๆ (suddenly, out of the blue) : 1 meaning(s), 2 sentences
 - `thaipod-1103` : อย่างต่อเนื่อง, เรื่อยๆ (continuously) : 1 meaning(s), 2 sentences
 - `thaipod-1104` : อย่างนี้ (like this, this way) : 1 meaning(s), 2 sentences
 - `thaipod-1107` : อย่างยิ่ง (greatly, extremely) : 1 meaning(s), 2 sentences
 - `thaipod-1111` : อย่างเปิดเผย (openly, transparently) : 1 meaning(s), 2 sentences
+- `thaipod-1115` : อลวน (tumultuous, chaotic (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-1118` : ออกกฎ (to issue a law, to legislate) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `thaipod-1120` : ออกฉาย (released (e.g a film), screened) : 1 meaning(s), 2 sentences
 - `thaipod-1121` : ออกดอก (to bloom, to flower) : 1 meaning(s), 2 sentences
 - `thaipod-1123` : อะไรกันจ๊ะ ("what's going on?", "what's this?") : 1 meaning(s), 2 sentences
 - `thaipod-1124` : อักษร (letter, character (alphabet)) : 1 meaning(s), 2 sentences
+- `thaipod-1125` : อัญเชิญ (to invite (royal, religious)) : 1 meaning(s), 2 sentences
 - `thaipod-1127` : อันไหน (which one) : 1 meaning(s), 2 sentences
 - `thaipod-1128` : อาคาร (building) : 1 meaning(s), 2 sentences
 - `thaipod-1134` : อาย (shy, embarrassed) : 1 meaning(s), 2 sentences

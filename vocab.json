@@ -102567,6 +102567,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "bell tower (temple)",
+        "sentences": [
+          {
+            "thai": "เณรน้อยขึ้นไปตีระฆังบนหอระฆัง",
+            "en": "The young novice went up the bell tower to strike the bell.",
+            "audio_src": "เณรน้อยขึ้นไปตีระฆังบนหอระฆัง",
+            "audio_en_src": "The young novice went up the bell tower to strike the bell."
+          },
+          {
+            "thai": "หอระฆังวัดนี้สร้างด้วยไม้สักทั้งหลัง",
+            "en": "This temple's bell tower is built entirely of teak.",
+            "audio_src": "หอระฆังวัดนี้สร้างด้วยไม้สักทั้งหลัง",
+            "audio_en_src": "This temple's bell tower is built entirely of teak."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102609,6 +102628,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "provincial capital, administrative center",
+        "sentences": [
+          {
+            "thai": "สมัยก่อน ข้าราชการถูกส่งไปประจำตามหัวเมือง",
+            "en": "In the old days, officials were posted to the provincial towns.",
+            "audio_src": "สมัยก่อน ข้าราชการถูกส่งไปประจำตามหัวเมือง",
+            "audio_en_src": "In the old days, officials were posted to the provincial towns."
+          },
+          {
+            "thai": "กบฏเกิดขึ้นตามหัวเมืองทางใต้",
+            "en": "Rebellions broke out in the southern provincial towns.",
+            "audio_src": "กบฏเกิดขึ้นตามหัวเมืองทางใต้",
+            "audio_en_src": "Rebellions broke out in the southern provincial towns."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102682,6 +102720,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sandstone",
+        "sentences": [
+          {
+            "thai": "ปราสาทหินพนมรุ้งสร้างจากหินทราย",
+            "en": "Phanom Rung sanctuary is built of sandstone.",
+            "audio_src": "ปราสาทหินพนมรุ้งสร้างจากหินทราย",
+            "audio_en_src": "Phanom Rung sanctuary is built of sandstone."
+          },
+          {
+            "thai": "หินทรายถูกน้ำกัดเซาะจนเป็นรูปแปลกๆ",
+            "en": "The sandstone has been eroded by water into strange shapes.",
+            "audio_src": "หินทรายถูกน้ำกัดเซาะจนเป็นรูปแปลกๆ",
+            "audio_en_src": "The sandstone has been eroded by water into strange shapes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102700,6 +102757,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "cockpit",
+        "sentences": [
+          {
+            "thai": "ผู้โดยสารห้ามเข้าห้องนักบิน",
+            "en": "Passengers are not allowed in the cockpit.",
+            "audio_src": "ผู้โดยสารห้ามเข้าห้องนักบิน",
+            "audio_en_src": "Passengers are not allowed in the cockpit."
+          },
+          {
+            "thai": "เด็กชายได้เข้าไปดูห้องนักบินตอนเครื่องจอด",
+            "en": "The boy got to see the cockpit while the plane was parked.",
+            "audio_src": "เด็กชายได้เข้าไปดูห้องนักบินตอนเครื่องจอด",
+            "audio_en_src": "The boy got to see the cockpit while the plane was parked."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102709,6 +102785,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "bedroom (royal)",
+        "sentences": [
+          {
+            "thai": "ห้องบรรทมของกษัตริย์อยู่ชั้นบนสุดของพระตำหนัก",
+            "en": "The king's bedchamber is on the top floor of the royal residence.",
+            "audio_src": "ห้องบรรทมของกษัตริย์อยู่ชั้นบนสุดของพระตำหนัก",
+            "audio_en_src": "The king's bedchamber is on the top floor of the royal residence."
+          },
+          {
+            "thai": "นักท่องเที่ยวเข้าชมห้องบรรทมในพระราชวังเก่าได้",
+            "en": "Visitors can see the royal bedchamber in the old palace.",
+            "audio_src": "นักท่องเที่ยวเข้าชมห้องบรรทมในพระราชวังเก่าได้",
+            "audio_en_src": "Visitors can see the royal bedchamber in the old palace."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102815,6 +102910,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "death, passing away (literary)",
+        "sentences": [
+          {
+            "thai": "อดีตปลัดกระทรวงถึงแก่อนิจกรรมด้วยวัย 80 ปี",
+            "en": "The former permanent secretary passed away at 80.",
+            "audio_src": "อดีตปลัดกระทรวงถึงแก่อนิจกรรมด้วยวัย 80 ปี",
+            "audio_en_src": "The former permanent secretary passed away at 80."
+          },
+          {
+            "thai": "ข่าวการถึงแก่อนิจกรรมของท่านสร้างความอาลัยทั่วไป",
+            "en": "News of his passing brought widespread mourning.",
+            "audio_src": "ข่าวการถึงแก่อนิจกรรมของท่านสร้างความอาลัยทั่วไป",
+            "audio_en_src": "News of his passing brought widespread mourning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -102859,6 +102973,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to marry, royal wedding",
+        "sentences": [
+          {
+            "thai": "พระราชพิธีอภิเษกสมรสจัดขึ้นอย่างสมพระเกียรติ",
+            "en": "The royal wedding ceremony was held with full honors.",
+            "audio_src": "พระราชพิธีอภิเษกสมรสจัดขึ้นอย่างสมพระเกียรติ",
+            "audio_en_src": "The royal wedding ceremony was held with full honors."
+          },
+          {
+            "thai": "เจ้าชายทรงอภิเษกสมรสกับสามัญชน",
+            "en": "The prince married a commoner.",
+            "audio_src": "เจ้าชายทรงอภิเษกสมรสกับสามัญชน",
+            "audio_en_src": "The prince married a commoner."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103026,6 +103159,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "tumultuous, chaotic (literary)",
+        "sentences": [
+          {
+            "thai": "งานเปิดตัวสินค้าวุ่นวายอลวนไปหมด",
+            "en": "The product launch was total chaos.",
+            "audio_src": "งานเปิดตัวสินค้าวุ่นวายอลวนไปหมด",
+            "audio_en_src": "The product launch was total chaos."
+          },
+          {
+            "thai": "ตลาดเช้าอลวนไปด้วยผู้คนและเสียงต่อรองราคา",
+            "en": "The morning market is a whirl of people and haggling.",
+            "audio_src": "ตลาดเช้าอลวนไปด้วยผู้คนและเสียงต่อรองราคา",
+            "audio_en_src": "The morning market is a whirl of people and haggling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103044,6 +103196,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to issue a law, to legislate",
+        "sentences": [
+          {
+            "thai": "บริษัทออกกฎห้ามใช้มือถือระหว่างประชุม",
+            "en": "The company issued a rule banning phones during meetings.",
+            "audio_src": "บริษัทออกกฎห้ามใช้มือถือระหว่างประชุม",
+            "audio_en_src": "The company issued a rule banning phones during meetings."
+          },
+          {
+            "thai": "รัฐออกกฎใหม่ควบคุมบุหรี่ไฟฟ้า",
+            "en": "The state issued new rules controlling e-cigarettes.",
+            "audio_src": "รัฐออกกฎใหม่ควบคุมบุหรี่ไฟฟ้า",
+            "audio_en_src": "The state issued new rules controlling e-cigarettes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103214,6 +103385,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to invite (royal, religious)",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านอัญเชิญพระพุทธรูปขึ้นประดิษฐานบนแท่น",
+            "en": "The villagers respectfully carried the Buddha image up onto its pedestal.",
+            "audio_src": "ชาวบ้านอัญเชิญพระพุทธรูปขึ้นประดิษฐานบนแท่น",
+            "audio_en_src": "The villagers respectfully carried the Buddha image up onto its pedestal."
+          },
+          {
+            "thai": "มีการอัญเชิญพระบรมสารีริกธาตุมาให้ประชาชนสักการะ",
+            "en": "The Buddha's relics were brought for the public to venerate.",
+            "audio_src": "มีการอัญเชิญพระบรมสารีริกธาตุมาให้ประชาชนสักการะ",
+            "audio_en_src": "The Buddha's relics were brought for the public to venerate."
+          }
+        ]
+      }
     ]
   },
   {
