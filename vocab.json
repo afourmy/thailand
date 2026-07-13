@@ -99097,6 +99097,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sermon hall in a Buddhist monastery",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านมาฟังเทศน์ที่ศาลาการเปรียญ",
+            "en": "The villagers come to hear sermons at the sermon hall.",
+            "audio_src": "ชาวบ้านมาฟังเทศน์ที่ศาลาการเปรียญ",
+            "audio_en_src": "The villagers come to hear sermons at the sermon hall."
+          },
+          {
+            "thai": "งานบุญของหมู่บ้านจัดที่ศาลาการเปรียญ",
+            "en": "The village merit-making events are held in the sermon hall.",
+            "audio_src": "งานบุญของหมู่บ้านจัดที่ศาลาการเปรียญ",
+            "audio_en_src": "The village merit-making events are held in the sermon hall."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99106,6 +99125,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "religious site, place of worship",
+        "sentences": [
+          {
+            "thai": "ห้ามส่งเสียงดังในศาสนสถาน",
+            "en": "Loud noise is forbidden at religious sites.",
+            "audio_src": "ห้ามส่งเสียงดังในศาสนสถาน",
+            "audio_en_src": "Loud noise is forbidden at religious sites."
+          },
+          {
+            "thai": "ปราสาทหินแห่งนี้เคยเป็นศาสนสถานของขอม",
+            "en": "This stone sanctuary was once a Khmer religious site.",
+            "audio_src": "ปราสาทหินแห่งนี้เคยเป็นศาสนสถานของขอม",
+            "audio_en_src": "This stone sanctuary was once a Khmer religious site."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99174,6 +99212,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "stone, rock (literary)",
+        "sentences": [
+          {
+            "thai": "พระพุทธรูปองค์นี้สลักจากศิลาทั้งก้อน",
+            "en": "This Buddha image is carved from a single block of stone.",
+            "audio_src": "พระพุทธรูปองค์นี้สลักจากศิลาทั้งก้อน",
+            "audio_en_src": "This Buddha image is carved from a single block of stone."
+          },
+          {
+            "thai": "มีพิธีวางศิลาฤกษ์อาคารใหม่",
+            "en": "A foundation-stone ceremony was held for the new building.",
+            "audio_src": "มีพิธีวางศิลาฤกษ์อาคารใหม่",
+            "audio_en_src": "A foundation-stone ceremony was held for the new building."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99183,6 +99240,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "stone inscription",
+        "sentences": [
+          {
+            "thai": "ศิลาจารึกเก็บรักษาไว้ที่พิพิธภัณฑสถานแห่งชาติ",
+            "en": "The stone inscription is kept at the National Museum.",
+            "audio_src": "ศิลาจารึกเก็บรักษาไว้ที่พิพิธภัณฑสถานแห่งชาติ",
+            "audio_en_src": "The stone inscription is kept at the National Museum."
+          },
+          {
+            "thai": "นักประวัติศาสตร์ถอดความจากศิลาจารึกโบราณ",
+            "en": "Historians deciphered the ancient stone inscription.",
+            "audio_src": "นักประวัติศาสตร์ถอดความจากศิลาจารึกโบราณ",
+            "audio_en_src": "Historians deciphered the ancient stone inscription."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99257,6 +99333,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "civil war",
+        "sentences": [
+          {
+            "thai": "สงครามกลางเมืองทำให้ผู้คนอพยพหนีนับล้าน",
+            "en": "The civil war forced millions to flee.",
+            "audio_src": "สงครามกลางเมืองทำให้ผู้คนอพยพหนีนับล้าน",
+            "audio_en_src": "The civil war forced millions to flee."
+          },
+          {
+            "thai": "ประเทศเพื่อนบ้านเคยผ่านสงครามกลางเมืองมาหลายสิบปี",
+            "en": "The neighboring country went through decades of civil war.",
+            "audio_src": "ประเทศเพื่อนบ้านเคยผ่านสงครามกลางเมืองมาหลายสิบปี",
+            "audio_en_src": "The neighboring country went through decades of civil war."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99527,6 +99622,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to establish, to install, to found (formal)",
+        "sentences": [
+          {
+            "thai": "กรุงรัตนโกสินทร์ถูกสถาปนาขึ้นในปี พ.ศ. 2325",
+            "en": "Rattanakosin was founded in 1782.",
+            "audio_src": "กรุงรัตนโกสินทร์ถูกสถาปนาขึ้นในปี พ.ศ. 2325",
+            "audio_en_src": "Rattanakosin was founded in 1782."
+          },
+          {
+            "thai": "พระองค์ทรงสถาปนาพระราชินีในวันบรมราชาภิเษก",
+            "en": "He installed the queen on coronation day.",
+            "audio_src": "พระองค์ทรงสถาปนาพระราชินีในวันบรมราชาภิเษก",
+            "audio_en_src": "He installed the queen on coronation day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99569,6 +99683,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "treaty",
+        "sentences": [
+          {
+            "thai": "สยามลงนามในสนธิสัญญาเบาว์ริงกับอังกฤษ",
+            "en": "Siam signed the Bowring Treaty with Britain.",
+            "audio_src": "สยามลงนามในสนธิสัญญาเบาว์ริงกับอังกฤษ",
+            "audio_en_src": "Siam signed the Bowring Treaty with Britain."
+          },
+          {
+            "thai": "สองประเทศทำสนธิสัญญาสันติภาพกัน",
+            "en": "The two countries concluded a peace treaty.",
+            "audio_src": "สองประเทศทำสนธิสัญญาสันติภาพกัน",
+            "audio_en_src": "The two countries concluded a peace treaty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99578,6 +99711,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "King's first concubine",
+        "sentences": [
+          {
+            "thai": "นางได้เลื่อนขึ้นเป็นสนมเอก",
+            "en": "She was elevated to chief royal concubine.",
+            "audio_src": "นางได้เลื่อนขึ้นเป็นสนมเอก",
+            "audio_en_src": "She was elevated to chief royal concubine."
+          },
+          {
+            "thai": "ในละคร สนมเอกวางแผนชิงบัลลังก์ให้โอรสของตน",
+            "en": "In the drama, the chief concubine schemes to win the throne for her own son.",
+            "audio_src": "ในละคร สนมเอกวางแผนชิงบัลลังก์ให้โอรสของตน",
+            "audio_en_src": "In the drama, the chief concubine schemes to win the throne for her own son."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99650,6 +99802,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "birth, to be born (literary)",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้เล่าถึงสถานที่สมภพของกวีเอก",
+            "en": "This book describes the birthplace of the great poet.",
+            "audio_src": "หนังสือเล่มนี้เล่าถึงสถานที่สมภพของกวีเอก",
+            "audio_en_src": "This book describes the birthplace of the great poet."
+          },
+          {
+            "thai": "ตำนานเล่าถึงการสมภพของวีรบุรุษ",
+            "en": "The legend tells of the hero's birth.",
+            "audio_src": "ตำนานเล่าถึงการสมภพของวีรบุรุษ",
+            "audio_en_src": "The legend tells of the hero's birth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -99660,6 +99831,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "battlefield",
+        "sentences": [
+          {
+            "thai": "ทหารหลายพันนายเสียชีวิตในสมรภูมิ",
+            "en": "Thousands of soldiers died on the battlefield.",
+            "audio_src": "ทหารหลายพันนายเสียชีวิตในสมรภูมิ",
+            "audio_en_src": "Thousands of soldiers died on the battlefield."
+          },
+          {
+            "thai": "ทุ่งนาแห่งนี้เคยเป็นสมรภูมิสำคัญ",
+            "en": "These rice fields were once a major battlefield.",
+            "audio_src": "ทุ่งนาแห่งนี้เคยเป็นสมรภูมิสำคัญ",
+            "audio_en_src": "These rice fields were once a major battlefield."
+          }
+        ]
+      }
     ]
   },
   {

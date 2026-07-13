@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6811 words**
+**Total: 6821 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2917,10 +2917,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0931` : ศักดิ์สิทธิ์ (sacred, holy) : 1 meaning(s), 2 sentences
 - `thaipod-0932` : ศาลปู่ตา (ancestral shrine, spirit shrine of the ancestors) : 1 meaning(s), 2 sentences
 - `thaipod-0933` : ศาลา (pavilion, sala (open-sided structure)) : 1 meaning(s), 2 sentences
+- `thaipod-0934` : ศาลาการเปรียญ (sermon hall in a Buddhist monastery) : 1 meaning(s), 2 sentences
+- `thaipod-0935` : ศาสนสถาน (religious site, place of worship) : 1 meaning(s), 2 sentences
 - `thaipod-0936` : ศิลปวัฒนธรรม (arts and culture) : 1 meaning(s), 2 sentences
 - `thaipod-0937` : ศิลปะการต่อสู้ (martial arts) : 1 meaning(s), 2 sentences
+- `thaipod-0938` : ศิลา (stone, rock (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0939` : ศิลาจารึก (stone inscription) : 1 meaning(s), 2 sentences
 - `thaipod-0941` : ศึก (battle, war) : 1 meaning(s), 2 sentences
 - `thaipod-0942` : ศึกษา (to study, to learn (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0944` : สงครามกลางเมือง (civil war) : 1 meaning(s), 2 sentences
 - `thaipod-0945` : สงบ (peaceful, calm, quiet) : 1 meaning(s), 2 sentences
 - `thaipod-0946` : สงบเงียบ (peaceful and quiet) : 1 meaning(s), 2 sentences
 - `thaipod-0947` : สงสัย (to wonder, to suspect, to be curious) : 1 meaning(s), 3 sentences
@@ -2928,9 +2933,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0949` : สตรี (woman, female (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0950` : สถานที่ท่องเที่ยว (tourist attraction) : 1 meaning(s), 2 sentences
 - `thaipod-0952` : สถานะ (status, current state) : 1 meaning(s), 2 sentences
+- `thaipod-0955` : สถาปนา (to establish, to install, to found (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0956` : สถิติ (statistics) : 1 meaning(s), 2 sentences
+- `thaipod-0957` : สนธิสัญญา (treaty) : 1 meaning(s), 2 sentences
+- `thaipod-0958` : สนมเอก (King's first concubine) : 1 meaning(s), 2 sentences
 - `thaipod-0959` : สภาพ (condition, state) : 1 meaning(s), 2 sentences
 - `thaipod-0961` : สมจริง (truthful, realistic, lifelike) : 1 meaning(s), 2 sentences
+- `thaipod-0962` : สมภพ (birth, to be born (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0963` : สมรภูมิ (battlefield) : 1 meaning(s), 2 sentences
 - `thaipod-0967` : สมัยใหม่ (modern) : 1 meaning(s), 2 sentences
 - `thaipod-0972` : สยองขวัญ (horror, terror) : 1 meaning(s), 2 sentences
 - `thaipod-0974` : สรุป (to summarize, to conclude) : 1 meaning(s), 2 sentences
