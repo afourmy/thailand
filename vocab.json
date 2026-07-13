@@ -106144,6 +106144,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "resort town, holiday destination",
+        "sentences": [
+          {
+            "thai": "หัวหินเป็นเมืองตากอากาศเก่าแก่ของไทย",
+            "en": "Hua Hin is one of Thailand's oldest resort towns.",
+            "audio_src": "หัวหินเป็นเมืองตากอากาศเก่าแก่ของไทย",
+            "audio_en_src": "Hua Hin is one of Thailand's oldest resort towns."
+          },
+          {
+            "thai": "ครอบครัวเราไปพักผ่อนที่เมืองตากอากาศริมทะเล",
+            "en": "Our family vacations in a seaside resort town.",
+            "audio_src": "ครอบครัวเราไปพักผ่อนที่เมืองตากอากาศริมทะเล",
+            "audio_en_src": "Our family vacations in a seaside resort town."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106382,6 +106401,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "parasailing boat",
+        "sentences": [
+          {
+            "thai": "เรือลากร่มชูชีพวิ่งไปมาอยู่หน้าหาด",
+            "en": "Parasailing boats run back and forth in front of the beach.",
+            "audio_src": "เรือลากร่มชูชีพวิ่งไปมาอยู่หน้าหาด",
+            "audio_en_src": "Parasailing boats run back and forth in front of the beach."
+          },
+          {
+            "thai": "นักท่องเที่ยวต่อคิวขึ้นเรือลากร่มชูชีพ",
+            "en": "Tourists queued up for the parasailing boat.",
+            "audio_src": "นักท่องเที่ยวต่อคิวขึ้นเรือลากร่มชูชีพ",
+            "audio_en_src": "Tourists queued up for the parasailing boat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106391,6 +106429,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "water ski boat, speedboat (for water skiing)",
+        "sentences": [
+          {
+            "thai": "เรือสกีลากนักเล่นสกีน้ำไปรอบอ่าว",
+            "en": "The ski boat towed the water-skier around the bay.",
+            "audio_src": "เรือสกีลากนักเล่นสกีน้ำไปรอบอ่าว",
+            "audio_en_src": "The ski boat towed the water-skier around the bay."
+          },
+          {
+            "thai": "ห้ามเรือสกีเข้าใกล้เขตว่ายน้ำ",
+            "en": "Ski boats must keep away from the swimming zone.",
+            "audio_src": "ห้ามเรือสกีเข้าใกล้เขตว่ายน้ำ",
+            "audio_en_src": "Ski boats must keep away from the swimming zone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106589,6 +106646,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "curved inward, concave",
+        "sentences": [
+          {
+            "thai": "กระจกเว้าทำให้ภาพดูใหญ่ขึ้น",
+            "en": "A concave mirror makes the image look bigger.",
+            "audio_src": "กระจกเว้าทำให้ภาพดูใหญ่ขึ้น",
+            "audio_en_src": "A concave mirror makes the image look bigger."
+          },
+          {
+            "thai": "ชุดราตรีคอเว้าลึกกำลังเป็นที่นิยม",
+            "en": "Deep-cut necklines are in fashion.",
+            "audio_src": "ชุดราตรีคอเว้าลึกกำลังเป็นที่นิยม",
+            "audio_en_src": "Deep-cut necklines are in fashion."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106607,6 +106683,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "head (of deity, king, monk, etc)",
+        "sentences": [
+          {
+            "thai": "เศียรพระพุทธรูปที่อยุธยาถูกรากไม้ปกคลุม",
+            "en": "The Buddha head at Ayutthaya is wrapped in tree roots.",
+            "audio_src": "เศียรพระพุทธรูปที่อยุธยาถูกรากไม้ปกคลุม",
+            "audio_en_src": "The Buddha head at Ayutthaya is wrapped in tree roots."
+          },
+          {
+            "thai": "ทศกัณฐ์มีสิบเศียร",
+            "en": "Thotsakan has ten heads.",
+            "audio_src": "ทศกัณฐ์มีสิบเศียร",
+            "audio_en_src": "Thotsakan has ten heads."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106618,6 +106713,25 @@
       "Thaipod101",
       "Thai 4000",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to go, to proceed, to travel (royal)",
+        "sentences": [
+          {
+            "thai": "พระราชินีเสด็จเยือนจังหวัดภาคใต้",
+            "en": "The queen visited the southern provinces.",
+            "audio_src": "พระราชินีเสด็จเยือนจังหวัดภาคใต้",
+            "audio_en_src": "The queen visited the southern provinces."
+          },
+          {
+            "thai": "ประชาชนมารอรับเสด็จตั้งแต่เช้า",
+            "en": "People waited since morning to receive the royal visit.",
+            "audio_src": "ประชาชนมารอรับเสด็จตั้งแต่เช้า",
+            "audio_en_src": "People waited since morning to receive the royal visit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106628,6 +106742,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "minister (royal, historical)",
+        "sentences": [
+          {
+            "thai": "เสนาบดีกระทรวงกลาโหมสมัยนั้นมีอำนาจมาก",
+            "en": "The minister of defense in those days held great power.",
+            "audio_src": "เสนาบดีกระทรวงกลาโหมสมัยนั้นมีอำนาจมาก",
+            "audio_en_src": "The minister of defense in those days held great power."
+          },
+          {
+            "thai": "พระเจ้าแผ่นดินทรงเรียกประชุมเสนาบดีทุกกระทรวง",
+            "en": "The king summoned the ministers of every ministry.",
+            "audio_src": "พระเจ้าแผ่นดินทรงเรียกประชุมเสนาบดีทุกกระทรวง",
+            "audio_en_src": "The king summoned the ministers of every ministry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106637,6 +106770,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "supplies, provisions",
+        "sentences": [
+          {
+            "thai": "กองทัพขนเสบียงไปเต็มเกวียน",
+            "en": "The army hauled cartloads of provisions.",
+            "audio_src": "กองทัพขนเสบียงไปเต็มเกวียน",
+            "audio_en_src": "The army hauled cartloads of provisions."
+          },
+          {
+            "thai": "นักปีนเขาเตรียมเสบียงไว้สามวัน",
+            "en": "The climbers packed three days of provisions.",
+            "audio_src": "นักปีนเขาเตรียมเสบียงไว้สามวัน",
+            "audio_en_src": "The climbers packed three days of provisions."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106646,6 +106798,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to reign, to rule as a monarch",
+        "sentences": [
+          {
+            "thai": "พระองค์เสวยราชย์ต่อจากพระเชษฐา",
+            "en": "He came to the throne after his elder brother.",
+            "audio_src": "พระองค์เสวยราชย์ต่อจากพระเชษฐา",
+            "audio_en_src": "He came to the throne after his elder brother."
+          },
+          {
+            "thai": "กษัตริย์พระองค์นี้เสวยราชย์ยาวนานที่สุดในประวัติศาสตร์",
+            "en": "This king reigned the longest in history.",
+            "audio_src": "กษัตริย์พระองค์นี้เสวยราชย์ยาวนานที่สุดในประวัติศาสตร์",
+            "audio_en_src": "This king reigned the longest in history."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106655,6 +106826,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "city pillar (sacred pillar marking the foundation of a city)",
+        "sentences": [
+          {
+            "thai": "ศาลหลักเมืองกรุงเทพฯ ประดิษฐานเสาหลักเมืองที่รัชกาลที่ 1 ทรงสร้าง",
+            "en": "The Bangkok city pillar shrine houses the pillar erected by Rama I.",
+            "audio_src": "ศาลหลักเมืองกรุงเทพฯ ประดิษฐานเสาหลักเมืองที่รัชกาลที่ 1 ทรงสร้าง",
+            "audio_en_src": "The Bangkok city pillar shrine houses the pillar erected by Rama I."
+          },
+          {
+            "thai": "ทุกจังหวัดมีเสาหลักเมืองเป็นศูนย์รวมจิตใจ",
+            "en": "Every province has a city pillar as its spiritual center.",
+            "audio_src": "ทุกจังหวัดมีเสาหลักเมืองเป็นศูนย์รวมจิตใจ",
+            "audio_en_src": "Every province has a city pillar as its spiritual center."
+          }
+        ]
+      }
     ]
   },
   {

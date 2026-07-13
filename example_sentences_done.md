@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6891 words**
+**Total: 6901 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3138,6 +3138,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1243` : เพื่อ (for, in order to) : 1 meaning(s), 2 sentences
 - `thaipod-1244` : เฟือย (excessively, extravagantly (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-1245` : เมืองขึ้น (colony, vassal state) : 1 meaning(s), 2 sentences
+- `thaipod-1246` : เมืองตากอากาศ (resort town, holiday destination) : 1 meaning(s), 2 sentences
 - `thaipod-1247` : เมื่อก่อน (previously, in the past) : 1 meaning(s), 2 sentences
 - `thaipod-1249` : เริ่ม, เริ่มต้น (to begin, to start) : 1 meaning(s), 2 sentences
 - `thaipod-1250` : เรียกร้อง (to demand, to call for) : 1 meaning(s), 2 sentences
@@ -3145,12 +3146,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1252` : เรียงต่อกัน (lined up, arranged in a line) : 1 meaning(s), 2 sentences
 - `thaipod-1253` : เรียบร้อยแล้ว (to be in order, to be completed) : 1 meaning(s), 2 sentences
 - `thaipod-1254` : เรือคายัค (kayak) : 1 meaning(s), 2 sentences
+- `thaipod-1255` : เรือลากร่มชูชีพ (parasailing boat) : 1 meaning(s), 2 sentences
+- `thaipod-1256` : เรือสกี (water ski boat, speedboat (for water skiing)) : 1 meaning(s), 2 sentences
 - `thaipod-1257` : เรือหางยาว (long-tail boat (traditional Thai boat)) : 1 meaning(s), 2 sentences
 - `thaipod-1258` : เรือเร็ว (speedboat) : 1 meaning(s), 2 sentences
 - `thaipod-1259` : เรือใบ (sailboat) : 1 meaning(s), 2 sentences
 - `thaipod-1262` : เลี้ยง (to feed, to treat, to raise) : 1 meaning(s), 3 sentences
 - `thaipod-1263` : เล่นงาน (to attack, to take action against, to target) : 1 meaning(s), 2 sentences
 - `thaipod-1264` : เล่า (to tell (a story)) : 1 meaning(s), 2 sentences
+- `thaipod-1267` : เว้า (curved inward, concave) : 1 meaning(s), 2 sentences
+- `thaipod-1270` : เศียร (head (of deity, king, monk, etc)) : 1 meaning(s), 2 sentences
+- `thaipod-1271` : เสด็จ (to go, to proceed, to travel (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-1275` : เสนาบดี (minister (royal, historical)) : 1 meaning(s), 2 sentences
+- `thaipod-1277` : เสบียง (supplies, provisions) : 1 meaning(s), 2 sentences
+- `thaipod-1281` : เสวยราชย์ (to reign, to rule as a monarch) : 1 meaning(s), 2 sentences
+- `thaipod-1282` : เสาหลักเมือง (city pillar (sacred pillar marking the foundation of a city)) : 1 meaning(s), 2 sentences
 - `thaipod-1284` : เสียชีวิต (to die, to pass away) : 1 meaning(s), 2 sentences
 - `thaipod-1285` : เสี่ยงทายดู (to try one's luck, to make a guess, to try fortune-telling) : 1 meaning(s), 2 sentences
 - `thaipod-1286` : เสี่ยงอันตราย (risky, dangerous) : 1 meaning(s), 2 sentences
