@@ -106944,6 +106944,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Death Railway (built during WWII)",
+        "sentences": [
+          {
+            "thai": "เส้นทางรถไฟสายมรณะสร้างขึ้นช่วงสงครามโลกครั้งที่สอง",
+            "en": "The Death Railway was built during World War II.",
+            "audio_src": "เส้นทางรถไฟสายมรณะสร้างขึ้นช่วงสงครามโลกครั้งที่สอง",
+            "audio_en_src": "The Death Railway was built during World War II."
+          },
+          {
+            "thai": "นักท่องเที่ยวนั่งรถไฟชมเส้นทางรถไฟสายมรณะที่กาญจนบุรี",
+            "en": "Tourists ride the train along the Death Railway in Kanchanaburi.",
+            "audio_src": "นักท่องเที่ยวนั่งรถไฟชมเส้นทางรถไฟสายมรณะที่กาญจนบุรี",
+            "audio_en_src": "Tourists ride the train along the Death Railway in Kanchanaburi."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107138,6 +107157,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "delicious",
+        "sentences": [
+          {
+            "thai": "เด็กๆ กินขนมกันอย่างเอร็ดอร่อย",
+            "en": "The kids tucked into the sweets with relish.",
+            "audio_src": "เด็กๆ กินขนมกันอย่างเอร็ดอร่อย",
+            "audio_en_src": "The kids tucked into the sweets with relish."
+          },
+          {
+            "thai": "อาหารมื้อนี้ช่างเอร็ดอร่อยจริงๆ",
+            "en": "This meal is truly delicious.",
+            "audio_src": "อาหารมื้อนี้ช่างเอร็ดอร่อยจริงๆ",
+            "audio_en_src": "This meal is truly delicious."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107293,15 +107331,6 @@
     ]
   },
   {
-    "id": "thaipod-1303",
-    "thai": "แกนมหาอำนาจ",
-    "english": "Axis Powers (WWII)",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-1304",
     "thai": "แก้",
     "english": "to fix, to solve, to correct",
@@ -107410,6 +107439,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to be thoroughly defeated, to suffer a crushing defeat",
+        "sentences": [
+          {
+            "thai": "กองทัพข้าศึกแตกพ่ายไม่เป็นขบวน",
+            "en": "The enemy army was routed in disarray.",
+            "audio_src": "กองทัพข้าศึกแตกพ่ายไม่เป็นขบวน",
+            "audio_en_src": "The enemy army was routed in disarray."
+          },
+          {
+            "thai": "ทีมเยือนแตกพ่ายไปห้าประตูต่อศูนย์",
+            "en": "The visiting team was crushed five nil.",
+            "audio_src": "ทีมเยือนแตกพ่ายไปห้าประตูต่อศูนย์",
+            "audio_en_src": "The visiting team was crushed five nil."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107523,6 +107571,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to embellish, to adorn",
+        "sentences": [
+          {
+            "thai": "ดอกไม้ป่าแต่งแต้มทุ่งหญ้าให้มีสีสัน",
+            "en": "Wildflowers dot the meadow with color.",
+            "audio_src": "ดอกไม้ป่าแต่งแต้มทุ่งหญ้าให้มีสีสัน",
+            "audio_en_src": "Wildflowers dot the meadow with color."
+          },
+          {
+            "thai": "เขาแต่งแต้มเรื่องเล่าให้สนุกเกินจริง",
+            "en": "He embellished the story to make it more exciting than it was.",
+            "audio_src": "เขาแต่งแต้มเรื่องเล่าให้สนุกเกินจริง",
+            "audio_en_src": "He embellished the story to make it more exciting than it was."
+          }
+        ]
+      }
     ]
   },
   {
@@ -107588,15 +107655,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "thaipod-1316",
-    "thai": "แถบปะการัง",
-    "english": "coral reef",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -107976,6 +108034,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "scented powder",
+        "sentences": [
+          {
+            "thai": "หน้าร้อนคนไทยชอบทาแป้งหอมให้เย็นตัว",
+            "en": "In the hot season, Thais like to dust on scented powder to cool off.",
+            "audio_src": "หน้าร้อนคนไทยชอบทาแป้งหอมให้เย็นตัว",
+            "audio_en_src": "In the hot season, Thais like to dust on scented powder to cool off."
+          },
+          {
+            "thai": "ยายทาแป้งหอมกลิ่นดอกไม้หลังอาบน้ำ",
+            "en": "Grandma puts on floral scented powder after her bath.",
+            "audio_src": "ยายทาแป้งหอมกลิ่นดอกไม้หลังอาบน้ำ",
+            "audio_en_src": "Grandma puts on floral scented powder after her bath."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108031,6 +108108,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "gold leaf (thin gold sheet)",
+        "sentences": [
+          {
+            "thai": "คนนิยมปิดแผ่นทองที่องค์พระ",
+            "en": "People like to press gold leaf onto Buddha images.",
+            "audio_src": "คนนิยมปิดแผ่นทองที่องค์พระ",
+            "audio_en_src": "People like to press gold leaf onto Buddha images."
+          },
+          {
+            "thai": "แผ่นทองบางเฉียบจนลอยตามลมได้",
+            "en": "The gold leaf is so thin it can float on the breeze.",
+            "audio_src": "แผ่นทองบางเฉียบจนลอยตามลมได้",
+            "audio_en_src": "The gold leaf is so thin it can float on the breeze."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108040,6 +108136,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "stone tablet",
+        "sentences": [
+          {
+            "thai": "ข้อความโบราณถูกสลักลงบนแผ่นศิลา",
+            "en": "The ancient text was carved into a stone tablet.",
+            "audio_src": "ข้อความโบราณถูกสลักลงบนแผ่นศิลา",
+            "audio_en_src": "The ancient text was carved into a stone tablet."
+          },
+          {
+            "thai": "แผ่นศิลาหน้าโบสถ์บอกปีที่สร้างวัด",
+            "en": "The stone tablet in front of the hall gives the year the temple was built.",
+            "audio_src": "แผ่นศิลาหน้าโบสถ์บอกปีที่สร้างวัด",
+            "audio_en_src": "The stone tablet in front of the hall gives the year the temple was built."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108077,6 +108192,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "general, army commander",
+        "sentences": [
+          {
+            "thai": "แม่ทัพนำทัพออกศึกด้วยตนเอง",
+            "en": "The general led his army into battle himself.",
+            "audio_src": "แม่ทัพนำทัพออกศึกด้วยตนเอง",
+            "audio_en_src": "The general led his army into battle himself."
+          },
+          {
+            "thai": "เขาได้รับแต่งตั้งเป็นแม่ทัพภาคที่สี่",
+            "en": "He was appointed commander of the Fourth Army Region.",
+            "audio_src": "เขาได้รับแต่งตั้งเป็นแม่ทัพภาคที่สี่",
+            "audio_en_src": "He was appointed commander of the Fourth Army Region."
+          }
+        ]
+      }
     ]
   },
   {

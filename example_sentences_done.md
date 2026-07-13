@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6901 words**
+**Total: 6909 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3164,11 +3164,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1284` : เสียชีวิต (to die, to pass away) : 1 meaning(s), 2 sentences
 - `thaipod-1285` : เสี่ยงทายดู (to try one's luck, to make a guess, to try fortune-telling) : 1 meaning(s), 2 sentences
 - `thaipod-1286` : เสี่ยงอันตราย (risky, dangerous) : 1 meaning(s), 2 sentences
+- `thaipod-1287` : เส้นทางรถไฟสายมรณะ (Death Railway (built during WWII)) : 1 meaning(s), 2 sentences
 - `thaipod-1288` : เหนือ (above, over; north) : 2 meaning(s), 4 sentences
 - `thaipod-1289` : เหมาะ (suitable, appropriate) : 1 meaning(s), 2 sentences
 - `thaipod-1290` : เหมาะแก่ (suitable for, fitting for) : 1 meaning(s), 2 sentences
 - `thaipod-1292` : เหล่า (group of, "all the...") : 1 meaning(s), 2 sentences
 - `thaipod-1293` : เห็นจะ (probably, likely; "seems", "appears to be") : 2 meaning(s), 4 sentences
+- `thaipod-1295` : เอร็ดอร่อย (delicious) : 1 meaning(s), 2 sentences
 - `thaipod-1297` : เอาละ (alright, well then) : 1 meaning(s), 2 sentences
 - `thaipod-1299` : เอาแต่ (to focus on one thing to the detriment of others) : 1 meaning(s), 2 sentences
 - `thaipod-1300` : เอาไว้คราวหน้า ("save it for next time", "do it next time") : 1 meaning(s), 2 sentences
@@ -3177,9 +3179,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1304` : แก้ (to fix, to solve, to correct) : 1 meaning(s), 3 sentences
 - `thaipod-1305` : แก้มพองๆ (puffy cheeks) : 1 meaning(s), 2 sentences
 - `thaipod-1306` : แง่มุม (aspect, point of view, perspective) : 1 meaning(s), 2 sentences
+- `thaipod-1307` : แตกพ่าย (to be thoroughly defeated, to suffer a crushing defeat) : 1 meaning(s), 2 sentences
 - `thaipod-1308` : แตกแยก (to break apart, to split) : 1 meaning(s), 2 sentences
 - `thaipod-1309` : แต่ง (to dress up, to compose, to decorate) : 1 meaning(s), 3 sentences
 - `thaipod-1311` : แต่งหน้า (to put on makeup) : 1 meaning(s), 2 sentences
+- `thaipod-1312` : แต่งแต้ม (to embellish, to adorn) : 1 meaning(s), 2 sentences
 - `thaipod-1313` : แต่ละ (each, every) : 1 meaning(s), 2 sentences
 - `thaipod-1315` : แถบ (region, area, zone) : 1 meaning(s), 2 sentences
 - `thaipod-1317` : แถว (area, neighborhood; row) : 2 meaning(s), 4 sentences
@@ -3192,8 +3196,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1325` : แน่ชัด (exact, definite) : 1 meaning(s), 2 sentences
 - `thaipod-1326` : แน่ๆ (definitely, for sure) : 1 meaning(s), 2 sentences
 - `thaipod-1329` : แบ่ง (to divide, to separate; to share) : 2 meaning(s), 4 sentences
+- `thaipod-1330` : แป้งหอม (scented powder) : 1 meaning(s), 2 sentences
 - `thaipod-1331` : แผ่น (sheet, classifier for thin flat objects) : 1 meaning(s), 2 sentences
+- `thaipod-1333` : แผ่นทอง (gold leaf (thin gold sheet)) : 1 meaning(s), 2 sentences
+- `thaipod-1334` : แผ่นศิลา (stone tablet) : 1 meaning(s), 2 sentences
 - `thaipod-1337` : แมวกวัก (beckoning cat (lucky figurine)) : 1 meaning(s), 2 sentences
+- `thaipod-1338` : แม่ทัพ (general, army commander) : 1 meaning(s), 2 sentences
 - `thaipod-1339` : แยก (to separate, to distinguish) : 1 meaning(s), 2 sentences
 - `thaipod-1340` : แรง (strength, force) : 1 meaning(s), 2 sentences
 - `thaipod-1342` : แวะ (to stop by, to drop in) : 1 meaning(s), 2 sentences
