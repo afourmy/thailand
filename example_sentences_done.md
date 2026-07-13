@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6752 words**
+**Total: 6762 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2756,9 +2756,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0705` : พระเจ้า (god) : 1 meaning(s), 2 sentences
 - `thaipod-0706` : พระเชษฐา (elder brother (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0707` : พระเชษฐาธิราช (elder brother who is king) : 1 meaning(s), 2 sentences
+- `thaipod-0708` : พระเนตร (eyes (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0709` : พระเยาว์ (young age, childhood (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0710` : พระแก้วมรกต (Emerald Buddha) : 1 meaning(s), 2 sentences
+- `thaipod-0711` : พระแท่น (royal throne, sacred pedestal, Buddha altar) : 1 meaning(s), 2 sentences
+- `thaipod-0712` : โอรส, พระโอรส, พระราชโอรส (royal son, prince) : 1 meaning(s), 2 sentences
+- `thaipod-0713` : พระไตรปิฎก (Tripitaka (3 collections of Buddhist scriptures)) : 1 meaning(s), 2 sentences
+- `thaipod-0714` : พราก (to sever, to separate, to tear apart (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
 - `thaipod-0717` : พร้อมกับ (along with, simultaneously with) : 1 meaning(s), 2 sentences
 - `thaipod-0718` : พร้อมทั้ง (as well as, along with, together with) : 1 meaning(s), 2 sentences
+- `thaipod-0719` : พลี (to sacrifice (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0721` : พวก (group, bunch (of people)) : 1 meaning(s), 2 sentences
 - `thaipod-0722` : พอง (swollen, inflated, puffed up) : 1 meaning(s), 2 sentences
 - `thaipod-0723` : พอสมควร (reasonable, moderate, fairly) : 1 meaning(s), 2 sentences
@@ -2768,7 +2776,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0728` : พากัน (all together, collectively) : 1 meaning(s), 2 sentences
 - `thaipod-0729` : พิจารณา (to consider, to examine) : 1 meaning(s), 2 sentences
 - `thaipod-0730` : พิธี, พิธีกรรม (rite, ceremony, ritual) : 1 meaning(s), 2 sentences
+- `thaipod-0732` : พิธีอุปสมบท (monk ordination ceremony) : 1 meaning(s), 2 sentences
 - `thaipod-0733` : พิสูจน์ (to prove) : 1 meaning(s), 2 sentences
+- `thaipod-0734` : พืชพรรณ (flora, vegetation) : 1 meaning(s), 2 sentences
 - `thaipod-0735` : พื้นฐาน (foundation, basic, fundamental) : 1 meaning(s), 2 sentences
 - `thaipod-0736` : พื้นที่ (area, space) : 1 meaning(s), 2 sentences
 - `thaipod-0737` : พื้นเมือง (native, indigenous, local) : 1 meaning(s), 2 sentences
