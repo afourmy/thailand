@@ -93062,6 +93062,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "His Majesty the King",
+        "sentences": [
+          {
+            "thai": "พระบาทสมเด็จพระเจ้าอยู่หัวพระราชทานปริญญาบัตรแก่บัณฑิต",
+            "en": "His Majesty the King presented degrees to the graduates.",
+            "audio_src": "พระบาทสมเด็จพระเจ้าอยู่หัวพระราชทานปริญญาบัตรแก่บัณฑิต",
+            "audio_en_src": "His Majesty the King presented degrees to the graduates."
+          },
+          {
+            "thai": "พระบาทสมเด็จพระเจ้าอยู่หัวเสด็จออกมหาสมาคม",
+            "en": "His Majesty the King appeared at the grand royal audience.",
+            "audio_src": "พระบาทสมเด็จพระเจ้าอยู่หัวเสด็จออกมหาสมาคม",
+            "audio_en_src": "His Majesty the King appeared at the grand royal audience."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93071,6 +93090,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "King Chulalongkorn (Rama V)",
+        "sentences": [
+          {
+            "thai": "พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวทรงยกเลิกระบบทาส",
+            "en": "King Chulalongkorn abolished slavery.",
+            "audio_src": "พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวทรงยกเลิกระบบทาส",
+            "audio_en_src": "King Chulalongkorn abolished slavery."
+          },
+          {
+            "thai": "พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวคือรัชกาลที่ 5 แห่งราชวงศ์จักรี",
+            "en": "King Chulalongkorn was the fifth king of the Chakri dynasty.",
+            "audio_src": "พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวคือรัชกาลที่ 5 แห่งราชวงศ์จักรี",
+            "audio_en_src": "King Chulalongkorn was the fifth king of the Chakri dynasty."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93080,6 +93118,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "the sacred power, royal merit and virtue",
+        "sentences": [
+          {
+            "thai": "ประชาชนเชื่อว่าบ้านเมืองร่มเย็นด้วยพระบุญญาบารมี",
+            "en": "People believe the country is at peace thanks to the king's merit and virtue.",
+            "audio_src": "ประชาชนเชื่อว่าบ้านเมืองร่มเย็นด้วยพระบุญญาบารมี",
+            "audio_en_src": "People believe the country is at peace thanks to the king's merit and virtue."
+          },
+          {
+            "thai": "ผู้เฒ่าผู้แก่เล่าถึงพระบุญญาบารมีของรัชกาลก่อน",
+            "en": "The elders speak of the previous king's great merit.",
+            "audio_src": "ผู้เฒ่าผู้แก่เล่าถึงพระบุญญาบารมีของรัชกาลก่อน",
+            "audio_en_src": "The elders speak of the previous king's great merit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93089,6 +93146,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "principal Buddha image in a temple",
+        "sentences": [
+          {
+            "thai": "พระประธานในโบสถ์นี้เก่าแก่มาก",
+            "en": "The principal Buddha image in this hall is very old.",
+            "audio_src": "พระประธานในโบสถ์นี้เก่าแก่มาก",
+            "audio_en_src": "The principal Buddha image in this hall is very old."
+          },
+          {
+            "thai": "ชาวบ้านร่วมเงินสร้างพระประธานองค์ใหม่",
+            "en": "The villagers pooled money to build a new principal Buddha image.",
+            "audio_src": "ชาวบ้านร่วมเงินสร้างพระประธานองค์ใหม่",
+            "audio_en_src": "The villagers pooled money to build a new principal Buddha image."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93098,6 +93174,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "prang (Khmer-style tower in Thai temples)",
+        "sentences": [
+          {
+            "thai": "พระปรางค์วัดอรุณตั้งตระหง่านริมแม่น้ำเจ้าพระยา",
+            "en": "The prang of Wat Arun towers over the Chao Phraya River.",
+            "audio_src": "พระปรางค์วัดอรุณตั้งตระหง่านริมแม่น้ำเจ้าพระยา",
+            "audio_en_src": "The prang of Wat Arun towers over the Chao Phraya River."
+          },
+          {
+            "thai": "พระปรางค์ได้รับอิทธิพลจากสถาปัตยกรรมขอม",
+            "en": "The prang was influenced by Khmer architecture.",
+            "audio_src": "พระปรางค์ได้รับอิทธิพลจากสถาปัตยกรรมขอม",
+            "audio_en_src": "The prang was influenced by Khmer architecture."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93107,6 +93202,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddha posture (significant moment in Buddha's life)",
+        "sentences": [
+          {
+            "thai": "พระปางห้ามญาติเป็นพระประจำวันจันทร์",
+            "en": "The \"calming the relatives\" posture is the Buddha image for Monday.",
+            "audio_src": "พระปางห้ามญาติเป็นพระประจำวันจันทร์",
+            "audio_en_src": "The \"calming the relatives\" posture is the Buddha image for Monday."
+          },
+          {
+            "thai": "คนไทยนิยมบูชาพระปางประจำวันเกิด",
+            "en": "Thais like to worship the Buddha posture of their birth day.",
+            "audio_src": "คนไทยนิยมบูชาพระปางประจำวันเกิด",
+            "audio_en_src": "Thais like to worship the Buddha posture of their birth day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93116,6 +93230,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "\"The Beloved Great King\" (refers to King Chulalongkorn)",
+        "sentences": [
+          {
+            "thai": "วันปิยมหาราชตรงกับวันที่ 23 ตุลาคม",
+            "en": "King Chulalongkorn Memorial Day falls on October 23.",
+            "audio_src": "วันปิยมหาราชตรงกับวันที่ 23 ตุลาคม",
+            "audio_en_src": "King Chulalongkorn Memorial Day falls on October 23."
+          },
+          {
+            "thai": "ประชาชนถวายสักการะพระปิยมหาราชที่ลานพระบรมรูปทรงม้า",
+            "en": "People pay homage to the Beloved Great King at the equestrian statue plaza.",
+            "audio_src": "ประชาชนถวายสักการะพระปิยมหาราชที่ลานพระบรมรูปทรงม้า",
+            "audio_en_src": "People pay homage to the Beloved Great King at the equestrian statue plaza."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93125,6 +93258,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Jataka tales (stories of the Buddha's past lives)",
+        "sentences": [
+          {
+            "thai": "พระพุทธชาดกเล่าเรื่องอดีตชาติของพระพุทธเจ้า",
+            "en": "The Jataka tales tell of the Buddha's past lives.",
+            "audio_src": "พระพุทธชาดกเล่าเรื่องอดีตชาติของพระพุทธเจ้า",
+            "audio_en_src": "The Jataka tales tell of the Buddha's past lives."
+          },
+          {
+            "thai": "จิตรกรรมฝาผนังวัดนี้วาดเรื่องพระพุทธชาดก",
+            "en": "This temple's murals depict the Jataka tales.",
+            "audio_src": "จิตรกรรมฝาผนังวัดนี้วาดเรื่องพระพุทธชาดก",
+            "audio_en_src": "This temple's murals depict the Jataka tales."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93187,21 +93339,31 @@
     ]
   },
   {
-    "id": "thaipod-0676",
-    "thai": "พระพุทธไสยาส",
-    "english": "Reclining Buddha (image)",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
-    ]
-  },
-  {
     "id": "thaipod-0677",
     "thai": "พระพุทธไสยาสน์",
     "english": "Reclining Buddha statue",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Reclining Buddha statue",
+        "sentences": [
+          {
+            "thai": "พระพุทธไสยาสน์วัดโพธิ์ยาวสี่สิบหกเมตร",
+            "en": "The Reclining Buddha at Wat Pho is forty-six meters long.",
+            "audio_src": "พระพุทธไสยาสน์วัดโพธิ์ยาวสี่สิบหกเมตร",
+            "audio_en_src": "The Reclining Buddha at Wat Pho is forty-six meters long."
+          },
+          {
+            "thai": "นักท่องเที่ยวมาชมพระพุทธไสยาสน์กันทั้งปี",
+            "en": "Tourists come to see the Reclining Buddha all year round.",
+            "audio_src": "นักท่องเที่ยวมาชมพระพุทธไสยาสน์กันทั้งปี",
+            "audio_en_src": "Tourists come to see the Reclining Buddha all year round."
+          }
+        ]
+      }
     ]
   },
   {
