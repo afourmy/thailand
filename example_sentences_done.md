@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6791 words**
+**Total: 6801 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2867,16 +2867,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0865` : ราษฎร (people, populace, subjects) : 1 meaning(s), 2 sentences
 - `thaipod-0867` : ริมทะเล (by the sea, seaside) : 1 meaning(s), 2 sentences
 - `thaipod-0871` : รุ่งเรือง (prosperous, flourishing) : 1 meaning(s), 2 sentences
+- `thaipod-0872` : รูปปูนปั้น (plaster sculpture) : 1 meaning(s), 2 sentences
 - `thaipod-0873` : รู้ทัน (to see through someone's intentions, to read someone's game) : 1 meaning(s), 2 sentences
 - `thaipod-0876` : ร่องรอย (trace, sign, vestige) : 1 meaning(s), 2 sentences
+- `thaipod-0877` : ร่างทรง (spirit medium (intermediary with the spirit world)) : 1 meaning(s), 2 sentences
 - `thaipod-0879` : ร้าง, ทิ้งร้าง (deserted, abandoned) : 1 meaning(s), 2 sentences
 - `thaipod-0880` : ร้าน, ร้านค้า (shop, store) : 1 meaning(s), 2 sentences
+- `thaipod-0883` : ฤกษ์ (auspicious time, lucky date chosen for an event) : 1 meaning(s), 2 sentences
+- `thaipod-0884` : ฤๅษี (hermit, sage, ascetic (Buddhism)) : 1 meaning(s), 2 sentences
+- `thaipod-0885` : ฤๅษีดัดตน (Ruesi Datton (Thai traditional yoga-like stretching exercises)) : 1 meaning(s), 2 sentences
 - `thaipod-0886` : ลงความเห็น (to give an opinion, to make a judgment) : 1 meaning(s), 2 sentences
 - `thaipod-0887` : ลาย, ลวดลาย (pattern, design, motif) : 1 meaning(s), 2 sentences
 - `thaipod-0888` : ลอด (to slip through (underneath), to go under) : 1 meaning(s), 2 sentences
+- `thaipod-0889` : ลอบปลงพระชนม์ (to assassinate (a royal person, like a king)) : 1 meaning(s), 2 sentences
 - `thaipod-0890` : ลอย (to float) : 1 meaning(s), 2 sentences
 - `thaipod-0891` : ละลาย (to dissolve, to melt) : 1 meaning(s), 2 sentences
+- `thaipod-0892` : ละเล่น (to play (especially traditional games or performances)) : 1 meaning(s), 2 sentences
 - `thaipod-0893` : ลักลอบ (to smuggle, to do something illegally, to carry out an activity in hiding) : 1 meaning(s), 2 sentences
+- `thaipod-0894` : ลังกา (Sri Lanka (Lanka)) : 1 meaning(s), 2 sentences
+- `thaipod-0895` : ลัทธิ (doctrine, ideology, cult) : 1 meaning(s), 2 sentences
+- `thaipod-0896` : ลางบอกเหตุ (omen, presage) : 1 meaning(s), 2 sentences
 - `thaipod-0899` : ลาออก (to quit, to resign) : 1 meaning(s), 2 sentences
 - `thaipod-0900` : ลำ (classifier for boats and aircraft) : 1 meaning(s), 2 sentences
 - `thaipod-0901` : ลำธาร (stream, brook, small river) : 1 meaning(s), 2 sentences
