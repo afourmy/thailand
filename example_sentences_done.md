@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6703 words**
+**Total: 6713 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2689,21 +2689,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0619` : ผู้ประดิษฐ์ (inventor) : 1 meaning(s), 2 sentences
 - `thaipod-0621` : ผู้สำเร็จราชการแทน (regent (ruling on behalf of a monarch)) : 1 meaning(s), 2 sentences
 - `thaipod-0622` : ผู้อำนวยการผลิตภาพยนตร์ (film producer) : 1 meaning(s), 2 sentences
+- `thaipod-0623` : ผู้เขียนบท (screenwriter) : 1 meaning(s), 2 sentences
+- `thaipod-0624` : ผู้แสดงประกอบชาย (supporting actor (male)) : 1 meaning(s), 2 sentences
+- `thaipod-0625` : ผู้ใหญ่บ้าน (village headman) : 1 meaning(s), 2 sentences
 - `thaipod-0626` : ผ่าน (to pass; through, via) : 2 meaning(s), 4 sentences
 - `thaipod-0627` : ผ้าไหม (silk fabric) : 1 meaning(s), 2 sentences
 - `thaipod-0628` : ฝัง (to bury, to embed, to implant) : 1 meaning(s), 2 sentences
 - `thaipod-0629` : ฝั่ง (bank (of a river), side, shore) : 1 meaning(s), 2 sentences
 - `thaipod-0630` : ฝากความคิดถึง ("send my regards to") : 1 meaning(s), 2 sentences
+- `thaipod-0632` : ฝิ่น (opium) : 1 meaning(s), 2 sentences
 - `thaipod-0633` : ฝีมือ (skill, craftsmanship) : 1 meaning(s), 2 sentences
 - `thaipod-0634` : อบรม, ฝึกอบรม (to train, to instruct) : 1 meaning(s), 2 sentences
 - `thaipod-0635` : ฝูง (flock, herd, masses (group of animals or people)) : 1 meaning(s), 2 sentences
+- `thaipod-0636` : ฝ่าพระบาท (foot sole (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0637` : ฝ่ายสัมพันธมิตร (the Allies (WWII)) : 1 meaning(s), 2 sentences
 - `thaipod-0638` : ฝ่าไฟแดง (to run a red light) : 1 meaning(s), 2 sentences
 - `thaipod-0639` : พกร่ม (to carry an umbrella) : 1 meaning(s), 2 sentences
+- `thaipod-0640` : พญา (high-ranking noble, king, lord) : 1 meaning(s), 2 sentences
+- `thaipod-0641` : พญานาค (Phaya Naga (king of serpents in mythology)) : 1 meaning(s), 2 sentences
 - `thaipod-0642` : พม่า (Burma (Myanmar)) : 1 meaning(s), 2 sentences
 - `thaipod-0643` : พยายาม (to try, to attempt) : 1 meaning(s), 2 sentences
 - `thaipod-0644` : พร (blessing, wish) : 1 meaning(s), 2 sentences
+- `thaipod-0645` : พรรษา (Buddhist "rain retreat" period (3-month during rainy season); number of years of monastic life (in monkhood)) : 2 meaning(s), 4 sentences
 - `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
 - `thaipod-0648` : พระจันทร์เสี้ยว (crescent moon) : 1 meaning(s), 2 sentences
+- `thaipod-0649` : พระชนก (king's father (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0673` : พระพุทธรูป (Buddha image, Buddha statue) : 1 meaning(s), 2 sentences
 - `thaipod-0675` : พระพุทธเจ้า (the Buddha) : 1 meaning(s), 2 sentences
 - `thaipod-0705` : พระเจ้า (god) : 1 meaning(s), 2 sentences

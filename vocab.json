@@ -91957,6 +91957,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "screenwriter",
+        "sentences": [
+          {
+            "thai": "ผู้เขียนบทเรื่องนี้ได้แรงบันดาลใจจากเรื่องจริง",
+            "en": "The screenwriter was inspired by a true story.",
+            "audio_src": "ผู้เขียนบทเรื่องนี้ได้แรงบันดาลใจจากเรื่องจริง",
+            "audio_en_src": "The screenwriter was inspired by a true story."
+          },
+          {
+            "thai": "เขาทำงานเป็นผู้เขียนบทละครโทรทัศน์",
+            "en": "He works as a television scriptwriter.",
+            "audio_src": "เขาทำงานเป็นผู้เขียนบทละครโทรทัศน์",
+            "audio_en_src": "He works as a television scriptwriter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91966,6 +91985,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "supporting actor (male)",
+        "sentences": [
+          {
+            "thai": "เขาได้รางวัลผู้แสดงประกอบชายยอดเยี่ยม",
+            "en": "He won best supporting actor.",
+            "audio_src": "เขาได้รางวัลผู้แสดงประกอบชายยอดเยี่ยม",
+            "audio_en_src": "He won best supporting actor."
+          },
+          {
+            "thai": "บทผู้แสดงประกอบชายเรื่องนี้เด่นกว่าพระเอกอีก",
+            "en": "The supporting actor's role in this one outshines the lead.",
+            "audio_src": "บทผู้แสดงประกอบชายเรื่องนี้เด่นกว่าพระเอกอีก",
+            "audio_en_src": "The supporting actor's role in this one outshines the lead."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91976,6 +92014,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "village headman",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านเลือกผู้ใหญ่บ้านคนใหม่เมื่อวานนี้",
+            "en": "The villagers elected a new headman yesterday.",
+            "audio_src": "ชาวบ้านเลือกผู้ใหญ่บ้านคนใหม่เมื่อวานนี้",
+            "audio_en_src": "The villagers elected a new headman yesterday."
+          },
+          {
+            "thai": "มีเรื่องเดือดร้อนก็ไปปรึกษาผู้ใหญ่บ้าน",
+            "en": "When there's trouble, people go to the village headman for advice.",
+            "audio_src": "มีเรื่องเดือดร้อนก็ไปปรึกษาผู้ใหญ่บ้าน",
+            "audio_en_src": "When there's trouble, people go to the village headman for advice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92161,6 +92218,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "opium",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนมีการปลูกฝิ่นบนดอยทางภาคเหนือ",
+            "en": "Opium used to be grown in the northern mountains.",
+            "audio_src": "สมัยก่อนมีการปลูกฝิ่นบนดอยทางภาคเหนือ",
+            "audio_en_src": "Opium used to be grown in the northern mountains."
+          },
+          {
+            "thai": "โครงการหลวงช่วยให้ชาวเขาเลิกปลูกฝิ่น",
+            "en": "The royal projects helped hill tribes stop growing opium.",
+            "audio_src": "โครงการหลวงช่วยให้ชาวเขาเลิกปลูกฝิ่น",
+            "audio_en_src": "The royal projects helped hill tribes stop growing opium."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92264,6 +92340,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "foot sole (royal)",
+        "sentences": [
+          {
+            "thai": "ประชาชนก้มกราบแทบฝ่าพระบาท",
+            "en": "The people prostrated at the king's feet.",
+            "audio_src": "ประชาชนก้มกราบแทบฝ่าพระบาท",
+            "audio_en_src": "The people prostrated at the king's feet."
+          },
+          {
+            "thai": "เจ้าชายน้อยทรงเดินจนฝ่าพระบาทพอง",
+            "en": "The little prince walked until the soles of his feet blistered.",
+            "audio_src": "เจ้าชายน้อยทรงเดินจนฝ่าพระบาทพอง",
+            "audio_en_src": "The little prince walked until the soles of his feet blistered."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92273,6 +92368,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "the Allies (WWII)",
+        "sentences": [
+          {
+            "thai": "ฝ่ายสัมพันธมิตรชนะสงครามโลกครั้งที่สอง",
+            "en": "The Allies won World War II.",
+            "audio_src": "ฝ่ายสัมพันธมิตรชนะสงครามโลกครั้งที่สอง",
+            "audio_en_src": "The Allies won World War II."
+          },
+          {
+            "thai": "เครื่องบินฝ่ายสัมพันธมิตรทิ้งระเบิดกรุงเทพฯ ช่วงสงคราม",
+            "en": "Allied planes bombed Bangkok during the war.",
+            "audio_src": "เครื่องบินฝ่ายสัมพันธมิตรทิ้งระเบิดกรุงเทพฯ ช่วงสงคราม",
+            "audio_en_src": "Allied planes bombed Bangkok during the war."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92343,6 +92457,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "high-ranking noble, king, lord",
+        "sentences": [
+          {
+            "thai": "พญามังรายทรงก่อตั้งเมืองเชียงใหม่",
+            "en": "King Mangrai founded Chiang Mai.",
+            "audio_src": "พญามังรายทรงก่อตั้งเมืองเชียงใหม่",
+            "audio_en_src": "King Mangrai founded Chiang Mai."
+          },
+          {
+            "thai": "นกอินทรีได้ชื่อว่าเป็นพญาแห่งนก",
+            "en": "The eagle is known as the lord of birds.",
+            "audio_src": "นกอินทรีได้ชื่อว่าเป็นพญาแห่งนก",
+            "audio_en_src": "The eagle is known as the lord of birds."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92353,6 +92486,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Phaya Naga (king of serpents in mythology)",
+        "sentences": [
+          {
+            "thai": "คนอีสานเชื่อว่าพญานาคอาศัยอยู่ในแม่น้ำโขง",
+            "en": "People in Isan believe the Naga king lives in the Mekong.",
+            "audio_src": "คนอีสานเชื่อว่าพญานาคอาศัยอยู่ในแม่น้ำโขง",
+            "audio_en_src": "People in Isan believe the Naga king lives in the Mekong."
+          },
+          {
+            "thai": "บั้งไฟพญานาคเกิดขึ้นช่วงออกพรรษา",
+            "en": "The Naga fireballs appear around the end of Buddhist Lent.",
+            "audio_src": "บั้งไฟพญานาคเกิดขึ้นช่วงออกพรรษา",
+            "audio_en_src": "The Naga fireballs appear around the end of Buddhist Lent."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92457,6 +92609,42 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhist \"rain retreat\" period (3-month during rainy season)",
+        "sentences": [
+          {
+            "thai": "ช่วงเข้าพรรษา พระจะไม่ค้างคืนนอกวัด",
+            "en": "During the rains retreat, monks don't stay overnight outside the temple.",
+            "audio_src": "ช่วงเข้าพรรษา พระจะไม่ค้างคืนนอกวัด",
+            "audio_en_src": "During the rains retreat, monks don't stay overnight outside the temple."
+          },
+          {
+            "thai": "ปีนี้พรรษาเริ่มเดือนกรกฎาคม",
+            "en": "This year the rains retreat starts in July.",
+            "audio_src": "ปีนี้พรรษาเริ่มเดือนกรกฎาคม",
+            "audio_en_src": "This year the rains retreat starts in July."
+          }
+        ]
+      },
+      {
+        "meaning": "number of years of monastic life (in monkhood)",
+        "sentences": [
+          {
+            "thai": "หลวงพี่บวชมาแล้วห้าพรรษา",
+            "en": "The monk has been ordained for five years.",
+            "audio_src": "หลวงพี่บวชมาแล้วห้าพรรษา",
+            "audio_en_src": "The monk has been ordained for five years."
+          },
+          {
+            "thai": "พระที่มีพรรษามากกว่าจะนั่งข้างหน้า",
+            "en": "Monks with more years in the robes sit in front.",
+            "audio_src": "พระที่มีพรรษามากกว่าจะนั่งข้างหน้า",
+            "audio_en_src": "Monks with more years in the robes sit in front."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92562,6 +92750,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "king's father (royal)",
+        "sentences": [
+          {
+            "thai": "พระชนกของพระองค์เป็นกษัตริย์รัชกาลก่อน",
+            "en": "His father was the previous king.",
+            "audio_src": "พระชนกของพระองค์เป็นกษัตริย์รัชกาลก่อน",
+            "audio_en_src": "His father was the previous king."
+          },
+          {
+            "thai": "พระองค์ทรงระลึกถึงพระชนกอยู่เสมอ",
+            "en": "He always remembered his royal father.",
+            "audio_src": "พระองค์ทรงระลึกถึงพระชนกอยู่เสมอ",
+            "audio_en_src": "He always remembered his royal father."
+          }
+        ]
+      }
     ]
   },
   {
