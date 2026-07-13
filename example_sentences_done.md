@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6871 words**
+**Total: 6881 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3079,13 +3079,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1167` : ร่วม, เข้าร่วม (to join, to participate) : 1 meaning(s), 2 sentences
 - `thaipod-1168` : เข้าเฝ้า (to have an audience with royalty) : 1 meaning(s), 2 sentences
 - `thaipod-1169` : เครื่อง (machine, device) : 1 meaning(s), 2 sentences
+- `thaipod-1170` : เครื่องปั้นดินเผา (pottery, earthenware) : 1 meaning(s), 2 sentences
+- `thaipod-1172` : เครื่องเคลือบดินเผา (glazed pottery, ceramics) : 1 meaning(s), 2 sentences
 - `thaipod-1174` : เครื่องแต่งกาย (outfit, clothing) : 1 meaning(s), 2 sentences
 - `thaipod-1175` : เคลือบ (to coat, to glaze, to overlay) : 1 meaning(s), 2 sentences
+- `thaipod-1176` : เคารพบูชา (to worship, to venerate) : 1 meaning(s), 2 sentences
 - `thaipod-1178` : เค้า ((informal) he, she, I) : 1 meaning(s), 2 sentences
 - `thaipod-1182` : เงียบสงบ (calm, peaceful, tranquil) : 1 meaning(s), 2 sentences
+- `thaipod-1184` : เจดีย์ครอบ (covering stupa (protective Buddhist structure)) : 1 meaning(s), 2 sentences
 - `thaipod-1185` : เจรจา (to negotiate, to converse formally) : 1 meaning(s), 2 sentences
 - `thaipod-1186` : เจริญก้าวหน้า (to prosper, to progress, to advance) : 1 meaning(s), 2 sentences
+- `thaipod-1187` : เจ้าจอม (King's concubine (secondary wife)) : 1 meaning(s), 2 sentences
+- `thaipod-1188` : เจ้าฟ้า (Chao Fa, Prince (royal title)) : 1 meaning(s), 2 sentences
 - `thaipod-1190` : เฉพาะ (specifically, only, particular) : 1 meaning(s), 2 sentences
+- `thaipod-1191` : เฉลิมพระเกียรติ (to honor, to celebrate the glory (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-1192` : เชลย (captive, prisoner) : 1 meaning(s), 2 sentences
+- `thaipod-1193` : เชลยศึก (prisoner of war (POW)) : 1 meaning(s), 2 sentences
+- `thaipod-1194` : เชิดสิงโต (lion dance (Chinese New Year)) : 1 meaning(s), 2 sentences
 - `thaipod-1195` : เชือก (rope) : 1 meaning(s), 2 sentences
 - `thaipod-1196` : เชื่อกันว่า ("it is believed that", "people believe that") : 1 meaning(s), 2 sentences
 - `thaipod-1197` : เชื่อม (to connect, to join, to weld) : 1 meaning(s), 2 sentences
