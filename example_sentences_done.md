@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6742 words**
+**Total: 6752 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2745,7 +2745,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0687` : พระราชบิดา (father (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0688` : พระราชพิธี (royal ceremony) : 1 meaning(s), 2 sentences
 - `thaipod-0691` : พระราชสมภพ (royal birth, to be born (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0692` : พระราชอิสริยยศ (royal rank, royal title) : 1 meaning(s), 2 sentences
+- `thaipod-0694` : พระวรกาย (sacred body, royal body) : 1 meaning(s), 2 sentences
+- `thaipod-0695` : พระวิหาร (temple hall, vihara (Buddhist assembly hall)) : 1 meaning(s), 2 sentences
+- `thaipod-0696` : พระสวามี (husband (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0697` : พระสหาย (friend (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0700` : พระอัยกาธิราช (king's paternal grandfather (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0701` : พระอารามหลวง (royal monastery, royal temple) : 1 meaning(s), 2 sentences
+- `thaipod-0702` : พระอุโบสถ (ubosot (ordination hall of a Thai temple)) : 1 meaning(s), 2 sentences
 - `thaipod-0705` : พระเจ้า (god) : 1 meaning(s), 2 sentences
+- `thaipod-0706` : พระเชษฐา (elder brother (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0707` : พระเชษฐาธิราช (elder brother who is king) : 1 meaning(s), 2 sentences
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
 - `thaipod-0717` : พร้อมกับ (along with, simultaneously with) : 1 meaning(s), 2 sentences
 - `thaipod-0718` : พร้อมทั้ง (as well as, along with, together with) : 1 meaning(s), 2 sentences
