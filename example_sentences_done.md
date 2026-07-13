@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6821 words**
+**Total: 6831 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2941,12 +2941,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0961` : สมจริง (truthful, realistic, lifelike) : 1 meaning(s), 2 sentences
 - `thaipod-0962` : สมภพ (birth, to be born (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0963` : สมรภูมิ (battlefield) : 1 meaning(s), 2 sentences
+- `thaipod-0964` : สมรู้ร่วมคิด (to conspire, to collude) : 1 meaning(s), 2 sentences
+- `thaipod-0965` : สมัยก่อนประวัติศาสตร์ (prehistory, prehistoric times) : 1 meaning(s), 2 sentences
+- `thaipod-0966` : สมัยขอม (Khmer period (in Thai history)) : 1 meaning(s), 2 sentences
 - `thaipod-0967` : สมัยใหม่ (modern) : 1 meaning(s), 2 sentences
+- `thaipod-0968` : สมาชิกวุฒิสภา (senator) : 1 meaning(s), 2 sentences
+- `thaipod-0969` : สมเด็จ (honorific prefix for high royalty and senior clergy) : 1 meaning(s), 2 sentences
+- `thaipod-0971` : สยบลง (to be subdued, to fall under control (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0972` : สยองขวัญ (horror, terror) : 1 meaning(s), 2 sentences
+- `thaipod-0973` : สรงน้ำ (to bathe (royal or religious)) : 1 meaning(s), 2 sentences
 - `thaipod-0974` : สรุป (to summarize, to conclude) : 1 meaning(s), 2 sentences
 - `thaipod-0975` : สร้าง (to create, to build) : 1 meaning(s), 2 sentences
 - `thaipod-0977` : สละ (to give up, to renounce, to abdicate) : 1 meaning(s), 2 sentences
+- `thaipod-0980` : สลิง (sling, wire) : 1 meaning(s), 2 sentences
+- `thaipod-0981` : สวดอภิธรรมศพ (to recite a Buddhist funeral prayer) : 1 meaning(s), 2 sentences
 - `thaipod-0982` : สวม (to wear, to put on (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0984` : สวรรคต (to pass away (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0985` : สวัสดิการ (welfare, benefits) : 1 meaning(s), 2 sentences
 - `thaipod-0987` : สอนหนังสือ (to teach) : 1 meaning(s), 2 sentences
 - `thaipod-0988` : สอบคัดเลือก (entrance exam, selection exam) : 1 meaning(s), 2 sentences
