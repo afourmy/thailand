@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6841 words**
+**Total: 6851 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2994,6 +2994,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
 - `thaipod-1036` : สุดท้อง (youngest child in a family, last-born) : 1 meaning(s), 2 sentences
 - `thaipod-1037` : สุดท้าย (finally, last) : 1 meaning(s), 2 sentences
+- `thaipod-1038` : สุริยคติ (solar calendar system, solar reckoning) : 1 meaning(s), 2 sentences
+- `thaipod-1039` : สุริยคราส (solar eclipse) : 1 meaning(s), 2 sentences
+- `thaipod-1040` : สุริยะ (sun, solar) : 1 meaning(s), 2 sentences
 - `thaipod-1042` : สูญหายไป (to disappear, to be lost) : 1 meaning(s), 2 sentences
 - `thaipod-1043` : สู่ (to, towards) : 1 meaning(s), 2 sentences
 - `thaipod-1045` : ส่งผล (to affect, to have an effect, to impact) : 1 meaning(s), 2 sentences
@@ -3002,18 +3005,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1050` : หนวด (mustache, whiskers) : 1 meaning(s), 2 sentences
 - `thaipod-1052` : หนุ่ม (young man) : 1 meaning(s), 2 sentences
 - `thaipod-1053` : หนู (rat, mouse; I (used by younger people)) : 2 meaning(s), 4 sentences
+- `thaipod-1054` : หน้าด่าน (frontline, frontier outpost) : 1 meaning(s), 2 sentences
 - `thaipod-1055` : หน้าบึ้ง (to frown, to look grumpy, sulky face) : 1 meaning(s), 2 sentences
+- `thaipod-1056` : หมายเรียก (summons, official notice requiring someone to appear (usually from police or court)) : 1 meaning(s), 2 sentences
 - `thaipod-1057` : หมู่เกาะ (archipelago, group of islands) : 1 meaning(s), 2 sentences
+- `thaipod-1058` : หม่อมเจ้า (Mom Chao (lowest royal rank, descendant of king)) : 1 meaning(s), 2 sentences
+- `thaipod-1059` : หม้ออบ (oven pot, baking pot) : 1 meaning(s), 2 sentences
+- `thaipod-1062` : หยวกกล้วย (banana stalk) : 1 meaning(s), 2 sentences
 - `thaipod-1063` : หยอก, หยอกล้อ (to tease, make fun of, joke around) : 1 meaning(s), 2 sentences
 - `thaipod-1065` : หยิบ (to pick up, to grab) : 1 meaning(s), 2 sentences
 - `thaipod-1067` : หรอก (really, (not) at all (sentence particle)) : 1 meaning(s), 2 sentences
 - `thaipod-1068` : หลอดไฟ (light bulb) : 1 meaning(s), 2 sentences
 - `thaipod-1069` : หลอม (to melt, to fuse) : 1 meaning(s), 2 sentences
 - `thaipod-1070` : หลัก (principle, main; pillar) : 2 meaning(s), 4 sentences
+- `thaipod-1072` : หลักศิลาจารึก (stone inscription pillar) : 1 meaning(s), 2 sentences
 - `thaipod-1073` : หลังจากนั้น (after that) : 1 meaning(s), 2 sentences
 - `thaipod-1074` : หลังจากนี้ (after this) : 1 meaning(s), 2 sentences
 - `thaipod-1075` : หลายต่อหลายครั้ง (many times, repeatedly) : 1 meaning(s), 2 sentences
 - `thaipod-1076` : หล่อ (handsome) : 1 meaning(s), 2 sentences
+- `thaipod-1077` : หวดนึ่ง (bamboo steaming basket) : 1 meaning(s), 2 sentences
 - `thaipod-1078` : หวย (lottery) : 1 meaning(s), 2 sentences
 - `thaipod-1079` : หวัง (to hope) : 1 meaning(s), 2 sentences
 - `thaipod-1082` : หัน (to turn (one's body or face)) : 1 meaning(s), 2 sentences
