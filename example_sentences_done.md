@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6831 words**
+**Total: 6841 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2958,29 +2958,39 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0982` : สวม (to wear, to put on (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0984` : สวรรคต (to pass away (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0985` : สวัสดิการ (welfare, benefits) : 1 meaning(s), 2 sentences
+- `thaipod-0986` : สว่างไสว (bright, radiant, shining) : 1 meaning(s), 2 sentences
 - `thaipod-0987` : สอนหนังสือ (to teach) : 1 meaning(s), 2 sentences
 - `thaipod-0988` : สอบคัดเลือก (entrance exam, selection exam) : 1 meaning(s), 2 sentences
 - `thaipod-0989` : สะดวก (convenient) : 1 meaning(s), 2 sentences
 - `thaipod-0990` : สะสม (to collect, to accumulate) : 1 meaning(s), 2 sentences
 - `thaipod-0992` : สักนิด (a little bit) : 1 meaning(s), 2 sentences
 - `thaipod-0993` : สักลาย (to get a tattoo) : 1 meaning(s), 2 sentences
+- `thaipod-0994` : สังขยา (sangkhaya, custard (type of Thai dessert)) : 1 meaning(s), 2 sentences
 - `thaipod-0995` : สังคม (society) : 1 meaning(s), 2 sentences
 - `thaipod-0996` : สังเกต, สังเกตเห็น (to notice, to observe) : 1 meaning(s), 2 sentences
 - `thaipod-0997` : สัตว์ป่า (wild animals, wildlife) : 1 meaning(s), 2 sentences
 - `thaipod-0998` : สัมผัส (to feel, to touch, to experience) : 1 meaning(s), 2 sentences
+- `thaipod-1000` : สัมพันธมิตร (ally, allied forces, "the Allies") : 1 meaning(s), 2 sentences
 - `thaipod-1002` : สั้นลง (to become shorter, to shorten) : 1 meaning(s), 2 sentences
 - `thaipod-1003` : สากล (international, universal) : 1 meaning(s), 2 sentences
 - `thaipod-1004` : สาขา (branch, category) : 1 meaning(s), 2 sentences
+- `thaipod-1006` : สาขาโท (minor (university study)) : 1 meaning(s), 2 sentences
+- `thaipod-1008` : สามัญชน (commoner, common people, non-royal person) : 1 meaning(s), 2 sentences
 - `thaipod-1010` : สายตา (sight, vision, gaze) : 1 meaning(s), 2 sentences
 - `thaipod-1011` : สายยาง (hose) : 1 meaning(s), 2 sentences
+- `thaipod-1013` : สารทุกข์สุขดิบ (one's troubles and well-being, one's situation (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-1016` : สำริด (bronze) : 1 meaning(s), 2 sentences
+- `thaipod-1017` : สำเร็จโทษ (to execute, to put to death (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1020` : สิ่งก่อสร้าง (structure, built object) : 1 meaning(s), 2 sentences
 - `thaipod-1022` : สิ่งประดิษฐ์ (invention) : 1 meaning(s), 2 sentences
 - `thaipod-1024` : สิ่งเลวร้าย (bad things, evil things) : 1 meaning(s), 2 sentences
+- `thaipod-1025` : สิ้นพระชนม์ (to die, to pass away (royal, religious)) : 1 meaning(s), 2 sentences
 - `thaipod-1027` : สิ้นสุดลง (to come to an end, to stop) : 1 meaning(s), 2 sentences
 - `thaipod-1028` : สีสัน (colorful; (figuratively) liveliness, vibrancy) : 2 meaning(s), 4 sentences
 - `thaipod-1029` : สีเข้ม (dark color) : 1 meaning(s), 2 sentences
 - `thaipod-1030` : สี่เหลี่ยม (square, rectangle) : 1 meaning(s), 2 sentences
 - `thaipod-1033` : สุก (cooked; ripe) : 2 meaning(s), 4 sentences
+- `thaipod-1034` : สุกดิบ (medium-rare, partially cooked) : 1 meaning(s), 2 sentences
 - `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
 - `thaipod-1036` : สุดท้อง (youngest child in a family, last-born) : 1 meaning(s), 2 sentences
 - `thaipod-1037` : สุดท้าย (finally, last) : 1 meaning(s), 2 sentences
