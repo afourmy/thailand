@@ -95506,6 +95506,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "\"the Great King\"",
+        "sentences": [
+          {
+            "thai": "กษัตริย์ไทยที่ได้พระนามว่ามหาราชมีไม่กี่พระองค์",
+            "en": "Only a few Thai kings have been given the title \"the Great\".",
+            "audio_src": "กษัตริย์ไทยที่ได้พระนามว่ามหาราชมีไม่กี่พระองค์",
+            "audio_en_src": "Only a few Thai kings have been given the title \"the Great\"."
+          },
+          {
+            "thai": "สมเด็จพระนเรศวรมหาราชทรงกอบกู้เอกราช",
+            "en": "King Naresuan the Great restored the country's independence.",
+            "audio_src": "สมเด็จพระนเรศวรมหาราชทรงกอบกู้เอกราช",
+            "audio_en_src": "King Naresuan the Great restored the country's independence."
+          }
+        ]
+      }
     ]
   },
   {
@@ -95929,6 +95948,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Yantra, sacred protective diagram (often tattooed)",
+        "sentences": [
+          {
+            "thai": "เขาสักยันต์ห้าแถวไว้กลางหลัง",
+            "en": "He has a five-line yantra tattooed across his back.",
+            "audio_src": "เขาสักยันต์ห้าแถวไว้กลางหลัง",
+            "audio_en_src": "He has a five-line yantra tattooed across his back."
+          },
+          {
+            "thai": "คนขับรถแขวนผ้ายันต์ไว้ในรถ",
+            "en": "The driver hangs a yantra cloth in his car.",
+            "audio_src": "คนขับรถแขวนผ้ายันต์ไว้ในรถ",
+            "audio_en_src": "The driver hangs a yantra cloth in his car."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96007,6 +96045,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to occupy, to seize and control",
+        "sentences": [
+          {
+            "thai": "กองทัพต่างชาติยึดครองเมืองหลวงได้สำเร็จ",
+            "en": "The foreign army succeeded in occupying the capital.",
+            "audio_src": "กองทัพต่างชาติยึดครองเมืองหลวงได้สำเร็จ",
+            "audio_en_src": "The foreign army succeeded in occupying the capital."
+          },
+          {
+            "thai": "เกาะแห่งนี้เคยถูกยึดครองในช่วงสงคราม",
+            "en": "This island was once occupied during the war.",
+            "audio_src": "เกาะแห่งนี้เคยถูกยึดครองในช่วงสงคราม",
+            "audio_en_src": "This island was once occupied during the war."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96016,6 +96073,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "golden age, golden era",
+        "sentences": [
+          {
+            "thai": "สมัยสุโขทัยถือเป็นยุคทองของศิลปะไทย",
+            "en": "The Sukhothai period is considered a golden age of Thai art.",
+            "audio_src": "สมัยสุโขทัยถือเป็นยุคทองของศิลปะไทย",
+            "audio_en_src": "The Sukhothai period is considered a golden age of Thai art."
+          },
+          {
+            "thai": "สมัยนั้นถือเป็นยุคทองของเพลงลูกทุ่ง",
+            "en": "That era is considered the golden age of Thai country music.",
+            "audio_src": "สมัยนั้นถือเป็นยุคทองของเพลงลูกทุ่ง",
+            "audio_en_src": "That era is considered the golden age of Thai country music."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96025,6 +96101,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Stone Age",
+        "sentences": [
+          {
+            "thai": "มนุษย์ยุคหินใช้เครื่องมือจากหินกะเทาะ",
+            "en": "Stone Age humans used chipped stone tools.",
+            "audio_src": "มนุษย์ยุคหินใช้เครื่องมือจากหินกะเทาะ",
+            "audio_en_src": "Stone Age humans used chipped stone tools."
+          },
+          {
+            "thai": "มือถือเครื่องนี้เก่ายังกับของยุคหิน",
+            "en": "This phone is ancient, like something from the Stone Age.",
+            "audio_src": "มือถือเครื่องนี้เก่ายังกับของยุคหิน",
+            "audio_en_src": "This phone is ancient, like something from the Stone Age."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96117,15 +96212,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "thaipod-0812",
-    "thai": "รถกระเช้า",
-    "english": "cable car, gondola",
-    "frequency": "rare",
-    "sources": [
-      "Thaipod101"
     ]
   },
   {
@@ -96384,6 +96470,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to escape, to survive, to be free from danger",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านรอดพ้นจากน้ำท่วมมาได้ทุกปี",
+            "en": "The village has escaped the floods every year.",
+            "audio_src": "หมู่บ้านรอดพ้นจากน้ำท่วมมาได้ทุกปี",
+            "audio_en_src": "The village has escaped the floods every year."
+          },
+          {
+            "thai": "เขารอดพ้นจากอันตรายมาได้อย่างหวุดหวิด",
+            "en": "He narrowly escaped danger.",
+            "audio_src": "เขารอดพ้นจากอันตรายมาได้อย่างหวุดหวิด",
+            "audio_en_src": "He narrowly escaped danger."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96719,6 +96824,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "tumultuous love, wild love, chaotic romance",
+        "sentences": [
+          {
+            "thai": "ละครเรื่องนี้เป็นเรื่องรักอุตลุดของสามหนุ่มสาว",
+            "en": "This drama is a chaotic love story between three young people.",
+            "audio_src": "ละครเรื่องนี้เป็นเรื่องรักอุตลุดของสามหนุ่มสาว",
+            "audio_en_src": "This drama is a chaotic love story between three young people."
+          },
+          {
+            "thai": "ชีวิตคู่ของพวกเขาเป็นรักอุตลุดตั้งแต่วันแรก",
+            "en": "Their relationship has been a whirlwind of chaos from day one.",
+            "audio_src": "ชีวิตคู่ของพวกเขาเป็นรักอุตลุดตั้งแต่วันแรก",
+            "audio_en_src": "Their relationship has been a whirlwind of chaos from day one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96729,6 +96853,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "bird's nest (delicacy used in soup)",
+        "sentences": [
+          {
+            "thai": "ซุปรังนกเป็นอาหารบำรุงราคาแพง",
+            "en": "Bird's nest soup is an expensive health delicacy.",
+            "audio_src": "ซุปรังนกเป็นอาหารบำรุงราคาแพง",
+            "audio_en_src": "Bird's nest soup is an expensive health delicacy."
+          },
+          {
+            "thai": "เกาะทางภาคใต้มีสัมปทานเก็บรังนก",
+            "en": "Islands in the South hold concessions for collecting birds' nests.",
+            "audio_src": "เกาะทางภาคใต้มีสัมปทานเก็บรังนก",
+            "audio_en_src": "Islands in the South hold concessions for collecting birds' nests."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96748,6 +96891,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "reign, era (of a king)",
+        "sentences": [
+          {
+            "thai": "ในรัชสมัยรัชกาลที่ 5 มีการปฏิรูปประเทศครั้งใหญ่",
+            "en": "In the reign of Rama V, the country underwent major reforms.",
+            "audio_src": "ในรัชสมัยรัชกาลที่ 5 มีการปฏิรูปประเทศครั้งใหญ่",
+            "audio_en_src": "In the reign of Rama V, the country underwent major reforms."
+          },
+          {
+            "thai": "วัดนี้สร้างขึ้นในรัชสมัยของพระเจ้าอยู่หัวบรมโกศ",
+            "en": "This temple was built during the reign of King Borommakot.",
+            "audio_src": "วัดนี้สร้างขึ้นในรัชสมัยของพระเจ้าอยู่หัวบรมโกศ",
+            "audio_en_src": "This temple was built during the reign of King Borommakot."
+          }
+        ]
+      }
     ]
   },
   {

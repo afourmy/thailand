@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6772 words**
+**Total: 6781 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2802,6 +2802,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0765` : มรดกโลก (World Heritage) : 1 meaning(s), 2 sentences
 - `thaipod-0766` : มรสุม (monsoon) : 1 meaning(s), 2 sentences
 - `thaipod-0767` : มลายู (Malay (people, culture, etc)) : 1 meaning(s), 2 sentences
+- `thaipod-0769` : มหาราช ("the Great King") : 1 meaning(s), 2 sentences
 - `thaipod-0772` : มัธยม (secondary school (age 12-17)) : 1 meaning(s), 2 sentences
 - `thaipod-0773` : มั่นคง (stable, secure, steady) : 1 meaning(s), 2 sentences
 - `thaipod-0776` : มากพอๆ กัน (about equally many, roughly the same amount) : 1 meaning(s), 2 sentences
@@ -2815,8 +2816,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0790` : ยอมรับ (to admit, to accept, to acknowledge) : 1 meaning(s), 2 sentences
 - `thaipod-0791` : ยังกับ (as if, just like, exactly like) : 1 meaning(s), 2 sentences
 - `thaipod-0794` : ยังไง (anyway, how) : 1 meaning(s), 3 sentences
+- `thaipod-0796` : ยันต์ (Yantra, sacred protective diagram (often tattooed)) : 1 meaning(s), 2 sentences
 - `thaipod-0798` : ยามค่ำคืน (at night, nighttime (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0803` : ยิ่งใหญ่ (great, magnificent, grandiose) : 1 meaning(s), 2 sentences
+- `thaipod-0804` : ยึดครอง (to occupy, to seize and control) : 1 meaning(s), 2 sentences
+- `thaipod-0806` : ยุคทอง (golden age, golden era) : 1 meaning(s), 2 sentences
+- `thaipod-0807` : ยุคหิน (Stone Age) : 1 meaning(s), 2 sentences
 - `thaipod-0808` : ยุทธศาสตร์ (strategy, strategic plan) : 1 meaning(s), 2 sentences
 - `thaipod-0810` : ย่อ (short, to shorten, abbreviated) : 1 meaning(s), 2 sentences
 - `thaipod-0811` : ย่านการค้า (commercial area, business district) : 1 meaning(s), 2 sentences
@@ -2828,6 +2833,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0820` : รวมถึง (including, as well as) : 1 meaning(s), 2 sentences
 - `thaipod-0822` : รสชาติ (taste, flavor) : 1 meaning(s), 2 sentences
 - `thaipod-0823` : รองจาก (second to (next to in rank or importance)) : 1 meaning(s), 2 sentences
+- `thaipod-0825` : รอดพ้น (to escape, to survive, to be free from danger) : 1 meaning(s), 2 sentences
 - `thaipod-0827` : รอยต่อ (joint, connection point) : 1 meaning(s), 2 sentences
 - `thaipod-0828` : รอยสัก, สัก (tattoo) : 1 meaning(s), 2 sentences
 - `thaipod-0829` : รอยเท้า (footprint) : 1 meaning(s), 2 sentences
@@ -2838,6 +2844,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0834` : ระลึก (commemorative, to recall) : 1 meaning(s), 2 sentences
 - `thaipod-0835` : ระหว่าง (during, between) : 2 meaning(s), 4 sentences
 - `thaipod-0836` : ระหว่างทาง (on the way, along the way) : 1 meaning(s), 2 sentences
+- `thaipod-0837` : รักอุตลุด (tumultuous love, wild love, chaotic romance) : 1 meaning(s), 2 sentences
+- `thaipod-0838` : รังนก (bird's nest (delicacy used in soup)) : 1 meaning(s), 2 sentences
+- `thaipod-0840` : รัชสมัย (reign, era (of a king)) : 1 meaning(s), 2 sentences
 - `thaipod-0841` : รัฐ (state (political)) : 1 meaning(s), 2 sentences
 - `thaipod-0842` : รัฐธรรมนูญ (constitution) : 1 meaning(s), 2 sentences
 - `thaipod-0843` : รัฐบาล (government) : 1 meaning(s), 2 sentences
