@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6919 words**
+**Total: 6929 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3246,21 +3246,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1410` : ได้ชื่อว่า (to be known as, to be regarded as) : 1 meaning(s), 2 sentences
 - `thaipod-1411` : ไต่ (to climb, to crawl along a surface (carefully, gradually)) : 1 meaning(s), 2 sentences
 - `thaipod-1413` : ไฟเลี้ยว (turn signal (vehicle)) : 1 meaning(s), 2 sentences
+- `thaipod-1414` : ไมตรีจิต (goodwill, friendliness) : 1 meaning(s), 2 sentences
 - `thaipod-1415` : ไม่กี่วัน (a few days) : 1 meaning(s), 2 sentences
 - `thaipod-1416` : ไม่ต่ำกว่า (not less than, at least) : 1 meaning(s), 2 sentences
 - `thaipod-1417` : ไม่ทางใดก็ทางหนึ่ง (one way or another) : 1 meaning(s), 2 sentences
 - `thaipod-1418` : ไม่ว่าจะเป็น (whether it be) : 1 meaning(s), 2 sentences
 - `thaipod-1419` : ไม่ใช่ก็ใกล้เคียง ((idiom) not exactly but close) : 1 meaning(s), 2 sentences
+- `thaipod-1420` : ไร่ฝิ่น (opium farm) : 1 meaning(s), 2 sentences
 - `thaipod-1421` : ไร้ (without, lacking) : 1 meaning(s), 2 sentences
 - `thaipod-1422` : ไร้เหตุผล (illogical, unreasonable) : 1 meaning(s), 2 sentences
+- `thaipod-1424` : ไล่ฆ่า (to chase and kill, to hunt down) : 1 meaning(s), 2 sentences
 - `thaipod-1425` : ไล่ออก (to fire, to lay off) : 1 meaning(s), 2 sentences
 - `thaipod-1426` : ไหนๆก็ไหนๆ ("since we're already at it", "might as well") : 1 meaning(s), 2 sentences
+- `thaipod-1427` : ไหลมาเทมา (to flow in abundance, to pour in) : 1 meaning(s), 2 sentences
 - `thaipod-1429` : ไหว้ (to wai (Thai greeting); to pay respect, to worship) : 1 meaning(s), 2 sentences
 - `thaipod-1430` : ไอ (to cough; vapor, steam) : 2 meaning(s), 4 sentences
+- `thaipod-1431` : ไอความร้อน (heat vapor, steam) : 1 meaning(s), 2 sentences
 - `tobo-001` : เงินออม (savings) : 1 meaning(s), 2 sentences
 - `tobo-002` : การปฏิวัติ (revolution) : 1 meaning(s), 2 sentences
 - `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
 - `tobo-005` : แมงมุม (spider) : 1 meaning(s), 2 sentences
+- `tobo-006` : วงรี (ellipse, oval) : 1 meaning(s), 2 sentences
 - `tobo-007` : โคลน (mud) : 1 meaning(s), 2 sentences
 - `tobo-008` : เหยื่อ (victim; bait) : 2 meaning(s), 4 sentences
 - `tobo-009` : ลบ (to subtract, to delete; negative) : 2 meaning(s), 4 sentences
@@ -3285,6 +3291,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-032` : หิน (stone, rock) : 1 meaning(s), 2 sentences
 - `tobo-033` : สงคราม (war) : 1 meaning(s), 2 sentences
 - `tobo-034` : จดหมาย (letter (mail)) : 1 meaning(s), 2 sentences
+- `tobo-035` : เถ้า (ash) : 1 meaning(s), 2 sentences
 - `tobo-036` : ความเจ็บปวด (pain (emotional or physical)) : 1 meaning(s), 2 sentences
 - `tobo-037` : ฉาก (scene; backdrop, partition) : 2 meaning(s), 4 sentences
 - `tobo-038` : ลุง (uncle (older than parents)) : 1 meaning(s), 2 sentences
@@ -3328,6 +3335,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-080` : พระอาทิตย์ตก (sunset) : 1 meaning(s), 2 sentences
 - `tobo-081` : เพดาน (ceiling) : 1 meaning(s), 2 sentences
 - `tobo-083` : อนาคต (future) : 1 meaning(s), 2 sentences
+- `tobo-084` : ถุงนอน (sleeping bag) : 1 meaning(s), 2 sentences
 - `tobo-085` : รายละเอียด (detail(s)) : 1 meaning(s), 2 sentences
 - `tobo-086` : ปวดหัว (headache) : 1 meaning(s), 2 sentences
 - `tobo-087` : โจมตี (to attack) : 1 meaning(s), 2 sentences
@@ -3396,6 +3404,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-160` : เจ้าหญิง (princess) : 1 meaning(s), 2 sentences
 - `tobo-161` : ถั่ว (bean, nut) : 1 meaning(s), 2 sentences
 - `tobo-162` : ฟองน้ำ (sponge) : 1 meaning(s), 2 sentences
+- `tobo-163` : สายลับ (spy, secret agent) : 1 meaning(s), 2 sentences
 - `tobo-164` : เภสัช, เภสัชกร (pharmacist) : 1 meaning(s), 2 sentences
 - `tobo-165` : ทศวรรษ (decade) : 1 meaning(s), 2 sentences
 - `tobo-166` : หน้าที่ (duty, responsibility) : 1 meaning(s), 2 sentences
@@ -3430,6 +3439,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-201` : มันฝรั่ง (potato) : 1 meaning(s), 2 sentences
 - `tobo-202` : หน้ากาก (mask) : 1 meaning(s), 2 sentences
 - `tobo-204` : ตู้ปลา (aquarium, fish tank) : 1 meaning(s), 2 sentences
+- `tobo-205` : กวี (poet) : 1 meaning(s), 2 sentences
 - `tobo-206` : สีชมพู (pink) : 1 meaning(s), 2 sentences
 - `tobo-208` : เลีย (to lick) : 1 meaning(s), 2 sentences
 - `tobo-209` : ปาฏิหาริย์ (miracle) : 1 meaning(s), 2 sentences
