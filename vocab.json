@@ -91331,6 +91331,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "dry evergreen forest",
+        "sentences": [
+          {
+            "thai": "ป่าดิบแล้งพบมากในภาคตะวันออกและภาคกลาง",
+            "en": "Dry evergreen forest is common in the East and central regions.",
+            "audio_src": "ป่าดิบแล้งพบมากในภาคตะวันออกและภาคกลาง",
+            "audio_en_src": "Dry evergreen forest is common in the East and central regions."
+          },
+          {
+            "thai": "เขาใหญ่มีป่าดงดิบแล้งผืนใหญ่",
+            "en": "Khao Yai has a large tract of dry evergreen forest.",
+            "audio_src": "เขาใหญ่มีป่าดงดิบแล้งผืนใหญ่",
+            "audio_en_src": "Khao Yai has a large tract of dry evergreen forest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91340,6 +91359,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "deciduous forest (forest where trees shed leaves seasonally)",
+        "sentences": [
+          {
+            "thai": "หน้าแล้ง ต้นไม้ในป่าผลัดใบทิ้งใบเกือบหมด",
+            "en": "In the dry season, the trees in deciduous forest drop nearly all their leaves.",
+            "audio_src": "หน้าแล้ง ต้นไม้ในป่าผลัดใบทิ้งใบเกือบหมด",
+            "audio_en_src": "In the dry season, the trees in deciduous forest drop nearly all their leaves."
+          },
+          {
+            "thai": "ป่าผลัดใบจะกลับมาเขียวอีกครั้งเมื่อฝนมา",
+            "en": "Deciduous forest turns green again when the rains come.",
+            "audio_src": "ป่าผลัดใบจะกลับมาเขียวอีกครั้งเมื่อฝนมา",
+            "audio_en_src": "Deciduous forest turns green again when the rains come."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91349,6 +91387,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "tropical rainforest",
+        "sentences": [
+          {
+            "thai": "ป่าเขตร้อนมีความหลากหลายทางชีวภาพสูง",
+            "en": "Tropical forests have high biodiversity.",
+            "audio_src": "ป่าเขตร้อนมีความหลากหลายทางชีวภาพสูง",
+            "audio_en_src": "Tropical forests have high biodiversity."
+          },
+          {
+            "thai": "ป่าแอมะซอนเป็นป่าเขตร้อนที่ใหญ่ที่สุดในโลก",
+            "en": "The Amazon is the world's largest tropical forest.",
+            "audio_src": "ป่าแอมะซอนเป็นป่าเขตร้อนที่ใหญ่ที่สุดในโลก",
+            "audio_en_src": "The Amazon is the world's largest tropical forest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91568,6 +91625,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "daring, adventurous, bold (e.g risky actions)",
+        "sentences": [
+          {
+            "thai": "นักบิดโชว์ท่าผาดโผนกลางสนาม",
+            "en": "The rider showed off daring stunts in the arena.",
+            "audio_src": "นักบิดโชว์ท่าผาดโผนกลางสนาม",
+            "audio_en_src": "The rider showed off daring stunts in the arena."
+          },
+          {
+            "thai": "เด็กคนนี้ชอบเล่นผาดโผน แม่ต้องคอยห้าม",
+            "en": "This kid loves risky play, his mom has to keep stopping him.",
+            "audio_src": "เด็กคนนี้ชอบเล่นผาดโผน แม่ต้องคอยห้าม",
+            "audio_en_src": "This kid loves risky play, his mom has to keep stopping him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91610,6 +91686,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "female ghost who dies while pregnant or during childbirth",
+        "sentences": [
+          {
+            "thai": "คนโบราณกลัวผีตายทั้งกลมมากที่สุด",
+            "en": "In the old days, people feared the ghost of a woman who died in childbirth most of all.",
+            "audio_src": "คนโบราณกลัวผีตายทั้งกลมมากที่สุด",
+            "audio_en_src": "In the old days, people feared the ghost of a woman who died in childbirth most of all."
+          },
+          {
+            "thai": "ตำนานแม่นาคคือเรื่องผีตายทั้งกลมที่ดังที่สุด",
+            "en": "The legend of Mae Nak is the most famous story of a ghost who died in childbirth.",
+            "audio_src": "ตำนานแม่นาคคือเรื่องผีตายทั้งกลมที่ดังที่สุด",
+            "audio_en_src": "The legend of Mae Nak is the most famous story of a ghost who died in childbirth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91619,6 +91714,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Phi Ta Khon (ghost mask dance festival in northeast Thailand)",
+        "sentences": [
+          {
+            "thai": "งานผีตาโขนจัดที่อำเภอด่านซ้าย จังหวัดเลย",
+            "en": "The Phi Ta Khon festival is held in Dan Sai district, Loei.",
+            "audio_src": "งานผีตาโขนจัดที่อำเภอด่านซ้าย จังหวัดเลย",
+            "audio_en_src": "The Phi Ta Khon festival is held in Dan Sai district, Loei."
+          },
+          {
+            "thai": "หน้ากากผีตาโขนทำจากกาบมะพร้าวและหวดนึ่งข้าว",
+            "en": "Phi Ta Khon masks are made from coconut sheaths and sticky-rice steamer baskets.",
+            "audio_src": "หน้ากากผีตาโขนทำจากกาบมะพร้าวและหวดนึ่งข้าว",
+            "audio_en_src": "Phi Ta Khon masks are made from coconut sheaths and sticky-rice steamer baskets."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91655,11 +91769,30 @@
   },
   {
     "id": "thaipod-0615",
-    "thai": "ผู้กวดวิชา",
-    "english": "tutor, private instructor",
+    "thai": "กวดวิชา",
+    "english": "to take tutoring classes, to cram (for exams)",
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to take tutoring classes, to cram (for exams)",
+        "sentences": [
+          {
+            "thai": "เด็ก ม.6 ส่วนใหญ่ต้องกวดวิชาเตรียมสอบเข้ามหาลัย",
+            "en": "Most high school seniors take cram classes to prepare for university entrance exams.",
+            "audio_src": "เด็ก ม.6 ส่วนใหญ่ต้องกวดวิชาเตรียมสอบเข้ามหาลัย",
+            "audio_en_src": "Most high school seniors take cram classes to prepare for university entrance exams."
+          },
+          {
+            "thai": "เสาร์อาทิตย์เขาไปกวดวิชาเลขที่สยาม",
+            "en": "On weekends he goes to math tutoring at Siam Square.",
+            "audio_src": "เสาร์อาทิตย์เขาไปกวดวิชาเลขที่สยาม",
+            "audio_en_src": "On weekends he goes to math tutoring at Siam Square."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91701,6 +91834,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "pioneer, innovator",
+        "sentences": [
+          {
+            "thai": "เขาเป็นผู้บุกเบิกวงการเกมในไทย",
+            "en": "He was a pioneer of the Thai gaming industry.",
+            "audio_src": "เขาเป็นผู้บุกเบิกวงการเกมในไทย",
+            "audio_en_src": "He was a pioneer of the Thai gaming industry."
+          },
+          {
+            "thai": "ผู้บุกเบิกรุ่นแรกต้องถางป่าทำไร่เอง",
+            "en": "The first pioneers had to clear the forest for their own farms.",
+            "audio_src": "ผู้บุกเบิกรุ่นแรกต้องถางป่าทำไร่เอง",
+            "audio_en_src": "The first pioneers had to clear the forest for their own farms."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91749,6 +91901,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "regent (ruling on behalf of a monarch)",
+        "sentences": [
+          {
+            "thai": "สภาแต่งตั้งผู้สำเร็จราชการแทนพระองค์ระหว่างที่กษัตริย์ยังทรงพระเยาว์",
+            "en": "Parliament appointed a regent while the king was still a minor.",
+            "audio_src": "สภาแต่งตั้งผู้สำเร็จราชการแทนพระองค์ระหว่างที่กษัตริย์ยังทรงพระเยาว์",
+            "audio_en_src": "Parliament appointed a regent while the king was still a minor."
+          },
+          {
+            "thai": "ปรีดี พนมยงค์เคยเป็นผู้สำเร็จราชการแทนพระองค์",
+            "en": "Pridi Banomyong once served as regent.",
+            "audio_src": "ปรีดี พนมยงค์เคยเป็นผู้สำเร็จราชการแทนพระองค์",
+            "audio_en_src": "Pridi Banomyong once served as regent."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91758,6 +91929,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "film producer",
+        "sentences": [
+          {
+            "thai": "เขาเป็นผู้อำนวยการผลิตภาพยนตร์เรื่องดังหลายเรื่อง",
+            "en": "He has produced several hit films.",
+            "audio_src": "เขาเป็นผู้อำนวยการผลิตภาพยนตร์เรื่องดังหลายเรื่อง",
+            "audio_en_src": "He has produced several hit films."
+          },
+          {
+            "thai": "ผู้อำนวยการผลิตภาพยนตร์ดูแลทั้งงบและทีมงาน",
+            "en": "The film producer oversees both the budget and the crew.",
+            "audio_src": "ผู้อำนวยการผลิตภาพยนตร์ดูแลทั้งงบและทีมงาน",
+            "audio_en_src": "The film producer oversees both the budget and the crew."
+          }
+        ]
+      }
     ]
   },
   {

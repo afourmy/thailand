@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6693 words**
+**Total: 6703 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2669,16 +2669,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0593` : ปูน (mortar, cement, plaster) : 1 meaning(s), 2 sentences
 - `thaipod-0595` : ป่าดงดิบ (dense forest, jungle, rainforest) : 1 meaning(s), 2 sentences
 - `thaipod-0598` : ป่าดิบเขา (mountain evergreen forest) : 1 meaning(s), 2 sentences
+- `thaipod-0599` : ป่าดิบแล้ง, ป่าดงดิบแล้ง (dry evergreen forest) : 1 meaning(s), 2 sentences
+- `thaipod-0600` : ป่าผลัดใบ (deciduous forest (forest where trees shed leaves seasonally)) : 1 meaning(s), 2 sentences
+- `thaipod-0601` : ป่าเขตร้อน (tropical rainforest) : 1 meaning(s), 2 sentences
 - `thaipod-0604` : ป้าย (sign, billboard) : 1 meaning(s), 2 sentences
 - `thaipod-0605` : ผนัง, ฝาผนัง (wall) : 1 meaning(s), 2 sentences
 - `thaipod-0606` : ผลงาน (works, output, performance) : 1 meaning(s), 2 sentences
 - `thaipod-0607` : ผลักดัน (to push forward, to promote, to drive forward) : 1 meaning(s), 2 sentences
 - `thaipod-0608` : ผลัด (to take turns, to rotate; to shed (seasonal)) : 2 meaning(s), 4 sentences
 - `thaipod-0609` : ผา, หน้าผา (cliff) : 1 meaning(s), 2 sentences
+- `thaipod-0610` : ผาดโผน (daring, adventurous, bold (e.g risky actions)) : 1 meaning(s), 2 sentences
 - `thaipod-0611` : ผิว (surface, skin) : 1 meaning(s), 2 sentences
+- `thaipod-0612` : ผีตายทั้งกลม (female ghost who dies while pregnant or during childbirth) : 1 meaning(s), 2 sentences
+- `thaipod-0613` : ผีตาโขน (Phi Ta Khon (ghost mask dance festival in northeast Thailand)) : 1 meaning(s), 2 sentences
 - `thaipod-0614` : ผูก (to tie, to bind) : 1 meaning(s), 2 sentences
+- `thaipod-0615` : กวดวิชา (to take tutoring classes, to cram (for exams)) : 1 meaning(s), 2 sentences
 - `thaipod-0616` : ผู้กำกับ, ผู้กำกับภาพยนตร์ (film director) : 1 meaning(s), 2 sentences
+- `thaipod-0618` : ผู้บุกเบิก (pioneer, innovator) : 1 meaning(s), 2 sentences
 - `thaipod-0619` : ผู้ประดิษฐ์ (inventor) : 1 meaning(s), 2 sentences
+- `thaipod-0621` : ผู้สำเร็จราชการแทน (regent (ruling on behalf of a monarch)) : 1 meaning(s), 2 sentences
+- `thaipod-0622` : ผู้อำนวยการผลิตภาพยนตร์ (film producer) : 1 meaning(s), 2 sentences
 - `thaipod-0626` : ผ่าน (to pass; through, via) : 2 meaning(s), 4 sentences
 - `thaipod-0627` : ผ้าไหม (silk fabric) : 1 meaning(s), 2 sentences
 - `thaipod-0628` : ฝัง (to bury, to embed, to implant) : 1 meaning(s), 2 sentences
