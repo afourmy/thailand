@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6801 words**
+**Total: 6811 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2887,12 +2887,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0894` : ลังกา (Sri Lanka (Lanka)) : 1 meaning(s), 2 sentences
 - `thaipod-0895` : ลัทธิ (doctrine, ideology, cult) : 1 meaning(s), 2 sentences
 - `thaipod-0896` : ลางบอกเหตุ (omen, presage) : 1 meaning(s), 2 sentences
+- `thaipod-0897` : ลานหิน (rocky plain, rock field) : 1 meaning(s), 2 sentences
+- `thaipod-0898` : ลายสือไทย (Thai script, ancient Thai writing system (Sukhothai script)) : 1 meaning(s), 2 sentences
 - `thaipod-0899` : ลาออก (to quit, to resign) : 1 meaning(s), 2 sentences
 - `thaipod-0900` : ลำ (classifier for boats and aircraft) : 1 meaning(s), 2 sentences
 - `thaipod-0901` : ลำธาร (stream, brook, small river) : 1 meaning(s), 2 sentences
+- `thaipod-0904` : ล่องแก่ง (to go whitewater rafting) : 1 meaning(s), 2 sentences
+- `thaipod-0905` : ล่าอาณานิคม (to colonize) : 1 meaning(s), 2 sentences
+- `thaipod-0907` : ล้มลงตาย (to fall down dead, to drop dead) : 1 meaning(s), 2 sentences
+- `thaipod-0910` : ล้านนา (Lanna (historical kingdom in Northern Thailand)) : 1 meaning(s), 2 sentences
+- `thaipod-0912` : วงก้นหอย (spiral) : 1 meaning(s), 2 sentences
 - `thaipod-0913` : วรรณคดี, วรรณกรรม (literature) : 1 meaning(s), 2 sentences
 - `thaipod-0914` : วันจ่าย (spending day, shopping day (before a festival)) : 1 meaning(s), 2 sentences
 - `thaipod-0915` : วันรุ่งขึ้น (the next day, the following day (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0916` : วันเฉลิมพระชนมพรรษา (royal birthday) : 1 meaning(s), 2 sentences
 - `thaipod-0917` : วัย (age, era of life) : 1 meaning(s), 2 sentences
 - `thaipod-0918` : วัยรุ่น (teenager, adolescent) : 1 meaning(s), 2 sentences
 - `thaipod-0919` : วางแนวทาง (to set the course, to establish an approach) : 1 meaning(s), 2 sentences
@@ -2900,12 +2908,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0921` : วิทยุ (radio) : 1 meaning(s), 2 sentences
 - `thaipod-0922` : วิธี (way, method) : 1 meaning(s), 2 sentences
 - `thaipod-0923` : วิธีการ (method, procedure) : 1 meaning(s), 2 sentences
+- `thaipod-0924` : วิธีการทอผ้าไหม (silk weaving method) : 1 meaning(s), 2 sentences
 - `thaipod-0926` : วิสัยทัศน์ (vision, foresight) : 1 meaning(s), 2 sentences
 - `thaipod-0927` : วุ่น, วุ่นวาย (chaotic, busy, hectic) : 1 meaning(s), 2 sentences
 - `thaipod-0928` : ว่าแต่ว่า (by the way, "so anyway, ...") : 1 meaning(s), 2 sentences
 - `thaipod-0929` : ศตวรรษ (century) : 1 meaning(s), 2 sentences
 - `thaipod-0930` : ศพ (corpse, body) : 1 meaning(s), 2 sentences
 - `thaipod-0931` : ศักดิ์สิทธิ์ (sacred, holy) : 1 meaning(s), 2 sentences
+- `thaipod-0932` : ศาลปู่ตา (ancestral shrine, spirit shrine of the ancestors) : 1 meaning(s), 2 sentences
 - `thaipod-0933` : ศาลา (pavilion, sala (open-sided structure)) : 1 meaning(s), 2 sentences
 - `thaipod-0936` : ศิลปวัฒนธรรม (arts and culture) : 1 meaning(s), 2 sentences
 - `thaipod-0937` : ศิลปะการต่อสู้ (martial arts) : 1 meaning(s), 2 sentences
