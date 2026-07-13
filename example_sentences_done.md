@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6713 words**
+**Total: 6723 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2714,6 +2714,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0647` : พระ (Buddha; monk; royal prefix) : 3 meaning(s), 6 sentences
 - `thaipod-0648` : พระจันทร์เสี้ยว (crescent moon) : 1 meaning(s), 2 sentences
 - `thaipod-0649` : พระชนก (king's father (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0650` : พระชนมายุ, พระชันษา (age (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0651` : พระชนม์ชีพ (life, to live (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0655` : พระธิดา, พระราชธิดา (daughter, princess (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0656` : พระนคร (royal city, capital (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0657` : พระนาง, ราชินี (queen) : 1 meaning(s), 2 sentences
+- `thaipod-0659` : พระบรมมหาราชวัง (Grand Palace (Bangkok)) : 1 meaning(s), 2 sentences
+- `thaipod-0660` : พระบรมรูป (royal statue, statue of the King) : 1 meaning(s), 2 sentences
+- `thaipod-0661` : พระบรมสารีริกธาตุ (sacred relics of the Buddha's body) : 1 meaning(s), 2 sentences
+- `thaipod-0662` : พระบรมอัฐิ (royal ashes, cremated remains of a king or high-ranking royal) : 1 meaning(s), 2 sentences
+- `thaipod-0663` : พระบาท (foot (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0673` : พระพุทธรูป (Buddha image, Buddha statue) : 1 meaning(s), 2 sentences
 - `thaipod-0675` : พระพุทธเจ้า (the Buddha) : 1 meaning(s), 2 sentences
 - `thaipod-0705` : พระเจ้า (god) : 1 meaning(s), 2 sentences

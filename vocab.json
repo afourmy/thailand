@@ -92778,6 +92778,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "age (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์มีพระชนมายุครบ 60 พรรษาในปีนี้",
+            "en": "The king turns sixty this year.",
+            "audio_src": "พระองค์มีพระชนมายุครบ 60 พรรษาในปีนี้",
+            "audio_en_src": "The king turns sixty this year."
+          },
+          {
+            "thai": "สมเด็จพระสังฆราชสิ้นพระชนม์เมื่อพระชันษา 100 ปี",
+            "en": "The Supreme Patriarch passed away at the age of one hundred.",
+            "audio_src": "สมเด็จพระสังฆราชสิ้นพระชนม์เมื่อพระชันษา 100 ปี",
+            "audio_en_src": "The Supreme Patriarch passed away at the age of one hundred."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92787,6 +92806,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "life, to live (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์ทรงงานเพื่อประชาชนตลอดพระชนม์ชีพ",
+            "en": "He worked for the people all his life.",
+            "audio_src": "พระองค์ทรงงานเพื่อประชาชนตลอดพระชนม์ชีพ",
+            "audio_en_src": "He worked for the people all his life."
+          },
+          {
+            "thai": "ตลอดพระชนม์ชีพ ทรงอุทิศตนให้การศึกษา",
+            "en": "Throughout her life, she devoted herself to education.",
+            "audio_src": "ตลอดพระชนม์ชีพ ทรงอุทิศตนให้การศึกษา",
+            "audio_en_src": "Throughout her life, she devoted herself to education."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92796,6 +92834,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "daughter, princess (royal)",
+        "sentences": [
+          {
+            "thai": "กษัตริย์มีพระราชธิดาสองพระองค์",
+            "en": "The king has two daughters.",
+            "audio_src": "กษัตริย์มีพระราชธิดาสองพระองค์",
+            "audio_en_src": "The king has two daughters."
+          },
+          {
+            "thai": "พระธิดาองค์เล็กเสด็จแทนพระบิดา",
+            "en": "The youngest princess attended in her father's place.",
+            "audio_src": "พระธิดาองค์เล็กเสด็จแทนพระบิดา",
+            "audio_en_src": "The youngest princess attended in her father's place."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92806,6 +92863,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "royal city, capital (formal)",
+        "sentences": [
+          {
+            "thai": "วัดสำคัญหลายแห่งอยู่ในเขตพระนคร",
+            "en": "Many important temples are in the Phra Nakhon district.",
+            "audio_src": "วัดสำคัญหลายแห่งอยู่ในเขตพระนคร",
+            "audio_en_src": "Many important temples are in the Phra Nakhon district."
+          },
+          {
+            "thai": "กองทัพยกกลับเข้าพระนครอย่างมีชัย",
+            "en": "The army returned to the capital in triumph.",
+            "audio_src": "กองทัพยกกลับเข้าพระนครอย่างมีชัย",
+            "audio_en_src": "The army returned to the capital in triumph."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92817,6 +92893,25 @@
       "Thaipod101",
       "Thai 4000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "queen",
+        "sentences": [
+          {
+            "thai": "ราชินีเสด็จเยือนต่างประเทศพร้อมพระราชา",
+            "en": "The queen traveled abroad with the king.",
+            "audio_src": "ราชินีเสด็จเยือนต่างประเทศพร้อมพระราชา",
+            "audio_en_src": "The queen traveled abroad with the king."
+          },
+          {
+            "thai": "พระนางเอลิซาเบธที่หนึ่งไม่เคยอภิเษกสมรส",
+            "en": "Queen Elizabeth I never married.",
+            "audio_src": "พระนางเอลิซาเบธที่หนึ่งไม่เคยอภิเษกสมรส",
+            "audio_en_src": "Queen Elizabeth I never married."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92826,6 +92921,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Grand Palace (Bangkok)",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวต่อแถวเข้าชมพระบรมมหาราชวัง",
+            "en": "Tourists line up to visit the Grand Palace.",
+            "audio_src": "นักท่องเที่ยวต่อแถวเข้าชมพระบรมมหาราชวัง",
+            "audio_en_src": "Tourists line up to visit the Grand Palace."
+          },
+          {
+            "thai": "พระบรมมหาราชวังสร้างขึ้นในสมัยรัชกาลที่ 1",
+            "en": "The Grand Palace was built in the reign of Rama I.",
+            "audio_src": "พระบรมมหาราชวังสร้างขึ้นในสมัยรัชกาลที่ 1",
+            "audio_en_src": "The Grand Palace was built in the reign of Rama I."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92835,6 +92949,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "royal statue, statue of the King",
+        "sentences": [
+          {
+            "thai": "ประชาชนนำดอกไม้มาถวายพระบรมรูปทรงม้า",
+            "en": "People bring flowers to the equestrian statue of the king.",
+            "audio_src": "ประชาชนนำดอกไม้มาถวายพระบรมรูปทรงม้า",
+            "audio_en_src": "People bring flowers to the equestrian statue of the king."
+          },
+          {
+            "thai": "พระบรมรูปรัชกาลที่ 5 ตั้งอยู่หน้าลานพระราชวังดุสิต",
+            "en": "The statue of Rama V stands before the Dusit Palace plaza.",
+            "audio_src": "พระบรมรูปรัชกาลที่ 5 ตั้งอยู่หน้าลานพระราชวังดุสิต",
+            "audio_en_src": "The statue of Rama V stands before the Dusit Palace plaza."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92844,6 +92977,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sacred relics of the Buddha's body",
+        "sentences": [
+          {
+            "thai": "เจดีย์องค์นี้บรรจุพระบรมสารีริกธาตุ",
+            "en": "This stupa enshrines relics of the Buddha.",
+            "audio_src": "เจดีย์องค์นี้บรรจุพระบรมสารีริกธาตุ",
+            "audio_en_src": "This stupa enshrines relics of the Buddha."
+          },
+          {
+            "thai": "ผู้คนเดินทางมาสักการะพระบรมสารีริกธาตุจากทั่วประเทศ",
+            "en": "People travel from all over the country to venerate the Buddha's relics.",
+            "audio_src": "ผู้คนเดินทางมาสักการะพระบรมสารีริกธาตุจากทั่วประเทศ",
+            "audio_en_src": "People travel from all over the country to venerate the Buddha's relics."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92853,6 +93005,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "royal ashes, cremated remains of a king or high-ranking royal",
+        "sentences": [
+          {
+            "thai": "พระบรมอัฐิประดิษฐานอยู่บนพระที่นั่งจักรีมหาปราสาท",
+            "en": "The royal ashes are enshrined in the Chakri Maha Prasat Throne Hall.",
+            "audio_src": "พระบรมอัฐิประดิษฐานอยู่บนพระที่นั่งจักรีมหาปราสาท",
+            "audio_en_src": "The royal ashes are enshrined in the Chakri Maha Prasat Throne Hall."
+          },
+          {
+            "thai": "มีพิธีอัญเชิญพระบรมอัฐิขึ้นประดิษฐาน",
+            "en": "A ceremony was held to install the royal ashes.",
+            "audio_src": "มีพิธีอัญเชิญพระบรมอัฐิขึ้นประดิษฐาน",
+            "audio_en_src": "A ceremony was held to install the royal ashes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92862,6 +93033,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "foot (royal)",
+        "sentences": [
+          {
+            "thai": "ประชาชนหมอบกราบแทบพระบาท",
+            "en": "The people prostrated at the king's feet.",
+            "audio_src": "ประชาชนหมอบกราบแทบพระบาท",
+            "audio_en_src": "The people prostrated at the king's feet."
+          },
+          {
+            "thai": "สุนัขทรงเลี้ยงหมอบอยู่แทบพระบาท",
+            "en": "The royal dog lay at the king's feet.",
+            "audio_src": "สุนัขทรงเลี้ยงหมอบอยู่แทบพระบาท",
+            "audio_en_src": "The royal dog lay at the king's feet."
+          }
+        ]
+      }
     ]
   },
   {
