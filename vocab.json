@@ -103478,6 +103478,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "auxiliary building",
+        "sentences": [
+          {
+            "thai": "โครงการนี้มีทั้งอาคารหลักและอาคารประกอบ",
+            "en": "The project has both a main building and auxiliary buildings.",
+            "audio_src": "โครงการนี้มีทั้งอาคารหลักและอาคารประกอบ",
+            "audio_en_src": "The project has both a main building and auxiliary buildings."
+          },
+          {
+            "thai": "โรงจอดรถเป็นอาคารประกอบของสนามกีฬา",
+            "en": "The parking structure is an auxiliary building of the stadium.",
+            "audio_src": "โรงจอดรถเป็นอาคารประกอบของสนามกีฬา",
+            "audio_en_src": "The parking structure is an auxiliary building of the stadium."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103500,6 +103519,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "colony",
+        "sentences": [
+          {
+            "thai": "อินเดียเคยเป็นอาณานิคมของอังกฤษ",
+            "en": "India was once a British colony.",
+            "audio_src": "อินเดียเคยเป็นอาณานิคมของอังกฤษ",
+            "audio_en_src": "India was once a British colony."
+          },
+          {
+            "thai": "หลายประเทศในแอฟริกาเคยตกเป็นอาณานิคมของฝรั่งเศส",
+            "en": "Many African countries were once French colonies.",
+            "audio_src": "หลายประเทศในแอฟริกาเคยตกเป็นอาณานิคมของฝรั่งเศส",
+            "audio_en_src": "Many African countries were once French colonies."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103510,6 +103548,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "territory",
+        "sentences": [
+          {
+            "thai": "แม่น้ำสายนี้เป็นเส้นแบ่งอาณาเขตของสองประเทศ",
+            "en": "This river marks the boundary between the two countries' territories.",
+            "audio_src": "แม่น้ำสายนี้เป็นเส้นแบ่งอาณาเขตของสองประเทศ",
+            "audio_en_src": "This river marks the boundary between the two countries' territories."
+          },
+          {
+            "thai": "อาณาจักรขยายอาณาเขตออกไปกว้างไกล",
+            "en": "The kingdom expanded its territory far and wide.",
+            "audio_src": "อาณาจักรขยายอาณาเขตออกไปกว้างไกล",
+            "audio_en_src": "The kingdom expanded its territory far and wide."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103594,6 +103651,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "freedom of trade",
+        "sentences": [
+          {
+            "thai": "สนธิสัญญาเบาว์ริงเปิดอิสระทางการค้าให้พ่อค้าต่างชาติ",
+            "en": "The Bowring Treaty opened free trade to foreign merchants.",
+            "audio_src": "สนธิสัญญาเบาว์ริงเปิดอิสระทางการค้าให้พ่อค้าต่างชาติ",
+            "audio_en_src": "The Bowring Treaty opened free trade to foreign merchants."
+          },
+          {
+            "thai": "นโยบายใหม่ส่งเสริมอิสระทางการค้าระหว่างประเทศ",
+            "en": "The new policy promotes freedom of international trade.",
+            "audio_src": "นโยบายใหม่ส่งเสริมอิสระทางการค้าระหว่างประเทศ",
+            "audio_en_src": "The new policy promotes freedom of international trade."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103604,6 +103680,25 @@
     "sources": [
       "Thaipod101",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "rank, status (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์เจ้าเป็นอิสริยยศชั้นสูงกว่าหม่อมเจ้า",
+            "en": "Phra Ong Chao is a higher royal rank than Mom Chao.",
+            "audio_src": "พระองค์เจ้าเป็นอิสริยยศชั้นสูงกว่าหม่อมเจ้า",
+            "audio_en_src": "Phra Ong Chao is a higher royal rank than Mom Chao."
+          },
+          {
+            "thai": "ท่านได้รับเลื่อนอิสริยยศหลังทำความดีความชอบ",
+            "en": "He was promoted in rank after his distinguished service.",
+            "audio_src": "ท่านได้รับเลื่อนอิสริยยศหลังทำความดีความชอบ",
+            "audio_en_src": "He was promoted in rank after his distinguished service."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103643,6 +103738,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to dedicate oneself, to devote oneself (formal)",
+        "sentences": [
+          {
+            "thai": "หมอคนนี้อุทิศตนรักษาคนไข้ในถิ่นทุรกันดาร",
+            "en": "This doctor devotes herself to treating patients in remote areas.",
+            "audio_src": "หมอคนนี้อุทิศตนรักษาคนไข้ในถิ่นทุรกันดาร",
+            "audio_en_src": "This doctor devotes herself to treating patients in remote areas."
+          },
+          {
+            "thai": "ครูใหญ่อุทิศตนให้โรงเรียนมาทั้งชีวิต",
+            "en": "The principal dedicated his whole life to the school.",
+            "audio_src": "ครูใหญ่อุทิศตนให้โรงเรียนมาทั้งชีวิต",
+            "audio_en_src": "The principal dedicated his whole life to the school."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103831,6 +103945,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "cart (traditional ox-drawn, i.e pulled by animals)",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนชาวนาใช้เกวียนขนข้าว",
+            "en": "Farmers used to haul rice in ox carts.",
+            "audio_src": "สมัยก่อนชาวนาใช้เกวียนขนข้าว",
+            "audio_en_src": "Farmers used to haul rice in ox carts."
+          },
+          {
+            "thai": "ล้อเกวียนเก่าถูกนำมาตกแต่งร้านกาแฟ",
+            "en": "Old cart wheels are used to decorate the coffee shop.",
+            "audio_src": "ล้อเกวียนเก่าถูกนำมาตกแต่งร้านกาแฟ",
+            "audio_en_src": "Old cart wheels are used to decorate the coffee shop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103840,6 +103973,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "excessive, oversized, beyond measure",
+        "sentences": [
+          {
+            "thai": "รถบรรทุกน้ำหนักเกินขนาดทำถนนพัง",
+            "en": "Overloaded trucks ruin the roads.",
+            "audio_src": "รถบรรทุกน้ำหนักเกินขนาดทำถนนพัง",
+            "audio_en_src": "Overloaded trucks ruin the roads."
+          },
+          {
+            "thai": "กระเป๋าใบนี้เกินขนาดที่สายการบินกำหนด",
+            "en": "This bag exceeds the airline's size limit.",
+            "audio_src": "กระเป๋าใบนี้เกินขนาดที่สายการบินกำหนด",
+            "audio_en_src": "This bag exceeds the airline's size limit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -103973,6 +104125,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "wildlife sanctuary",
+        "sentences": [
+          {
+            "thai": "ห้วยขาแข้งเป็นเขตรักษาพันธุ์สัตว์ป่าที่สำคัญ",
+            "en": "Huai Kha Khaeng is an important wildlife sanctuary.",
+            "audio_src": "ห้วยขาแข้งเป็นเขตรักษาพันธุ์สัตว์ป่าที่สำคัญ",
+            "audio_en_src": "Huai Kha Khaeng is an important wildlife sanctuary."
+          },
+          {
+            "thai": "ห้ามล่าสัตว์ในเขตรักษาพันธุ์สัตว์ป่าเด็ดขาด",
+            "en": "Hunting is strictly forbidden in wildlife sanctuaries.",
+            "audio_src": "ห้ามล่าสัตว์ในเขตรักษาพันธุ์สัตว์ป่าเด็ดขาด",
+            "audio_en_src": "Hunting is strictly forbidden in wildlife sanctuaries."
+          }
+        ]
+      }
     ]
   },
   {
@@ -104045,6 +104216,25 @@
     "frequency": "rare",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to have an audience with royalty",
+        "sentences": [
+          {
+            "thai": "คณะทูตเข้าเฝ้าพระมหากษัตริย์",
+            "en": "The delegation had an audience with the king.",
+            "audio_src": "คณะทูตเข้าเฝ้าพระมหากษัตริย์",
+            "audio_en_src": "The delegation had an audience with the king."
+          },
+          {
+            "thai": "นายกรัฐมนตรีคนใหม่เข้าเฝ้าถวายสัตย์ปฏิญาณ",
+            "en": "The new prime minister had a royal audience to take the oath of office.",
+            "audio_src": "นายกรัฐมนตรีคนใหม่เข้าเฝ้าถวายสัตย์ปฏิญาณ",
+            "audio_en_src": "The new prime minister had a royal audience to take the oath of office."
+          }
+        ]
+      }
     ]
   },
   {

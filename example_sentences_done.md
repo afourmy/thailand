@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6861 words**
+**Total: 6871 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3055,19 +3055,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1125` : อัญเชิญ (to invite (royal, religious)) : 1 meaning(s), 2 sentences
 - `thaipod-1127` : อันไหน (which one) : 1 meaning(s), 2 sentences
 - `thaipod-1128` : อาคาร (building) : 1 meaning(s), 2 sentences
+- `thaipod-1129` : อาคารประกอบ (auxiliary building) : 1 meaning(s), 2 sentences
+- `thaipod-1131` : อาณานิคม (colony) : 1 meaning(s), 2 sentences
+- `thaipod-1132` : อาณาเขต (territory) : 1 meaning(s), 2 sentences
 - `thaipod-1134` : อาย (shy, embarrassed) : 1 meaning(s), 2 sentences
 - `thaipod-1135` : อาสา (to volunteer) : 1 meaning(s), 2 sentences
+- `thaipod-1139` : อิสระทางการค้า (freedom of trade) : 1 meaning(s), 2 sentences
+- `thaipod-1140` : อิสริยยศ (rank, status (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1142` : อุทยาน (park (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-1143` : อุทิศตน (to dedicate oneself, to devote oneself (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-1146` : อ่าง (basin, reservoir, sink, tub) : 1 meaning(s), 2 sentences
 - `thaipod-1147` : อ่าว (bay) : 1 meaning(s), 2 sentences
 - `thaipod-1150` : อ้า (to open wide (e.g mouth, door)) : 1 meaning(s), 2 sentences
 - `thaipod-1152` : อ้างอิง, อ้างถึง (to reference, to cite) : 1 meaning(s), 2 sentences
 - `thaipod-1153` : เกลียด (to hate) : 1 meaning(s), 2 sentences
+- `thaipod-1154` : เกวียน (cart (traditional ox-drawn, i.e pulled by animals)) : 1 meaning(s), 2 sentences
+- `thaipod-1155` : เกินขนาด (excessive, oversized, beyond measure) : 1 meaning(s), 2 sentences
 - `thaipod-1159` : เกี่ยวพัน (related, intertwined, connected) : 1 meaning(s), 2 sentences
 - `thaipod-1160` : เก่ง (talented, good at) : 1 meaning(s), 2 sentences
 - `thaipod-1162` : เขต (zone, area, district) : 1 meaning(s), 2 sentences
+- `thaipod-1163` : เขตรักษาพันธุ์สัตว์ป่า (wildlife sanctuary) : 1 meaning(s), 2 sentences
 - `thaipod-1165` : เข้ากับ (to fit with, to suit) : 1 meaning(s), 2 sentences
 - `thaipod-1167` : ร่วม, เข้าร่วม (to join, to participate) : 1 meaning(s), 2 sentences
+- `thaipod-1168` : เข้าเฝ้า (to have an audience with royalty) : 1 meaning(s), 2 sentences
 - `thaipod-1169` : เครื่อง (machine, device) : 1 meaning(s), 2 sentences
 - `thaipod-1174` : เครื่องแต่งกาย (outfit, clothing) : 1 meaning(s), 2 sentences
 - `thaipod-1175` : เคลือบ (to coat, to glaze, to overlay) : 1 meaning(s), 2 sentences
