@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6732 words**
+**Total: 6742 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2735,6 +2735,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0673` : พระพุทธรูป (Buddha image, Buddha statue) : 1 meaning(s), 2 sentences
 - `thaipod-0675` : พระพุทธเจ้า (the Buddha) : 1 meaning(s), 2 sentences
 - `thaipod-0677` : พระพุทธไสยาสน์ (Reclining Buddha statue) : 1 meaning(s), 2 sentences
+- `thaipod-0680` : พระมารดา (mother (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0681` : พระมเหสี (queen consort (king's wife)) : 1 meaning(s), 2 sentences
+- `thaipod-0682` : พระราชกรณียกิจ (royal duties) : 1 meaning(s), 2 sentences
+- `thaipod-0683` : พระราชกุศล (royal merit) : 1 meaning(s), 2 sentences
+- `thaipod-0684` : พระราชดำรัส (royal speech, royal address) : 1 meaning(s), 2 sentences
+- `thaipod-0685` : พระราชดำเนิน (royal journey, to travel, to go (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0686` : พระราชทาน (to bestow, to grant (by the monarch)) : 1 meaning(s), 2 sentences
+- `thaipod-0687` : พระราชบิดา (father (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0688` : พระราชพิธี (royal ceremony) : 1 meaning(s), 2 sentences
+- `thaipod-0691` : พระราชสมภพ (royal birth, to be born (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0705` : พระเจ้า (god) : 1 meaning(s), 2 sentences
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
 - `thaipod-0717` : พร้อมกับ (along with, simultaneously with) : 1 meaning(s), 2 sentences
