@@ -124871,6 +124871,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "a person's value lies in their work, their results",
+        "sentences": [
+          {
+            "thai": "อย่าดูถูกใคร คุณค่าของคนอยู่ที่ผลงาน",
+            "en": "Don't look down on anyone; a person's worth is in what they achieve.",
+            "audio_src": "อย่าดูถูกใคร คุณค่าของคนอยู่ที่ผลงาน",
+            "audio_en_src": "Don't look down on anyone; a person's worth is in what they achieve."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124889,6 +124902,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "where there is effort, there is success",
+        "sentences": [
+          {
+            "thai": "สู้ต่อไปนะ ความพยายามอยู่ที่ไหน ความสำเร็จอยู่ที่นั้น",
+            "en": "Keep fighting; where there's effort, there's success.",
+            "audio_src": "สู้ต่อไปนะ ความพยายามอยู่ที่ไหน ความสำเร็จอยู่ที่นั้น",
+            "audio_en_src": "Keep fighting; where there's effort, there's success."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124908,6 +124934,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "bad company leads to trouble, wise company to success",
+        "sentences": [
+          {
+            "thai": "เลือกเพื่อนดีๆ นะ คบคนพาล พาลไปหาผิด คบบัณฑิต บัณฑิตพาไปหาผล",
+            "en": "Choose good friends; bad company leads you to trouble, wise company leads you to good.",
+            "audio_src": "เลือกเพื่อนดีๆ นะ คบคนพาล พาลไปหาผิด คบบัณฑิต บัณฑิตพาไปหาผล",
+            "audio_en_src": "Choose good friends; bad company leads you to trouble, wise company leads you to good."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124917,6 +124956,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "live within your means (\"a small bird builds a nest just big enough for himself\")",
+        "sentences": [
+          {
+            "thai": "เงินเดือนเท่านี้ก็ใช้แบบนกน้อยทำรังแต่พอตัว",
+            "en": "With a salary like this, you live within your means.",
+            "audio_src": "เงินเดือนเท่านี้ก็ใช้แบบนกน้อยทำรังแต่พอตัว",
+            "audio_en_src": "With a salary like this, you live within your means."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124926,6 +124978,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "when entering the jungle, don't forget your machete",
+        "sentences": [
+          {
+            "thai": "จะไปทำงานก็เตรียมของให้พร้อม เข้าเถื่อนอย่าลืมพร้า",
+            "en": "Get everything ready before the job; going into the wild, don't forget your machete.",
+            "audio_src": "จะไปทำงานก็เตรียมของให้พร้อม เข้าเถื่อนอย่าลืมพร้า",
+            "audio_en_src": "Get everything ready before the job; going into the wild, don't forget your machete."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124935,6 +125000,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "quickly take opportunities as they arise (\"quickly fetch the water during the rising tide\")",
+        "sentences": [
+          {
+            "thai": "มีโอกาสก็รีบคว้าไว้ น้ำขึ้นให้รีบตัก",
+            "en": "Grab the chance while you can; fetch the water while the tide is high.",
+            "audio_src": "มีโอกาสก็รีบคว้าไว้ น้ำขึ้นให้รีบตัก",
+            "audio_en_src": "Grab the chance while you can; fetch the water while the tide is high."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124953,6 +125031,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "don't respond to aggression with aggression (\"dog bites, don't bite back\")",
+        "sentences": [
+          {
+            "thai": "เขาด่ามาก็อย่าไปด่าตอบ หมากัดอย่ากัดตอบ",
+            "en": "If he insults you, don't insult back; when a dog bites, don't bite back.",
+            "audio_src": "เขาด่ามาก็อย่าไปด่าตอบ หมากัดอย่ากัดตอบ",
+            "audio_en_src": "If he insults you, don't insult back; when a dog bites, don't bite back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -124994,6 +125085,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "senate",
+        "sentences": [
+          {
+            "thai": "วุฒิสภาลงมติเห็นชอบร่างกฎหมาย",
+            "en": "The senate voted to approve the bill.",
+            "audio_src": "วุฒิสภาลงมติเห็นชอบร่างกฎหมาย",
+            "audio_en_src": "The senate voted to approve the bill."
+          },
+          {
+            "thai": "สมาชิกวุฒิสภามาจากการแต่งตั้งและการเลือกตั้ง",
+            "en": "Senate members come from both appointment and election.",
+            "audio_src": "สมาชิกวุฒิสภามาจากการแต่งตั้งและการเลือกตั้ง",
+            "audio_en_src": "Senate members come from both appointment and election."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125180,6 +125290,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "great flooding (2011)",
+        "sentences": [
+          {
+            "thai": "มหาอุทกภัยปี 2554 ทำให้หลายจังหวัดจมน้ำ",
+            "en": "The great flood of 2011 submerged many provinces.",
+            "audio_src": "มหาอุทกภัยปี 2554 ทำให้หลายจังหวัดจมน้ำ",
+            "audio_en_src": "The great flood of 2011 submerged many provinces."
+          },
+          {
+            "thai": "โรงงานหลายแห่งเสียหายหนักจากมหาอุทกภัย",
+            "en": "Many factories were badly damaged by the great flood.",
+            "audio_src": "โรงงานหลายแห่งเสียหายหนักจากมหาอุทกภัย",
+            "audio_en_src": "Many factories were badly damaged by the great flood."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125256,6 +125385,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to erode, to corrode, to wear away",
+        "sentences": [
+          {
+            "thai": "คลื่นกัดเซาะชายหาดจนหายไปหลายเมตร",
+            "en": "The waves have eroded the beach by several meters.",
+            "audio_src": "คลื่นกัดเซาะชายหาดจนหายไปหลายเมตร",
+            "audio_en_src": "The waves have eroded the beach by several meters."
+          },
+          {
+            "thai": "น้ำกรดค่อยๆ กัดเซาะโลหะ",
+            "en": "Acid slowly corrodes metal.",
+            "audio_src": "น้ำกรดค่อยๆ กัดเซาะโลหะ",
+            "audio_en_src": "Acid slowly corrodes metal."
+          }
+        ]
+      }
     ]
   },
   {
