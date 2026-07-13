@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6929 words**
+**Total: 6939 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3470,6 +3470,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-238` : ผีเสื้อ (butterfly) : 1 meaning(s), 2 sentences
 - `tobo-239` : แตงกวา (cucumber) : 1 meaning(s), 2 sentences
 - `tobo-240` : มังกร (dragon) : 1 meaning(s), 2 sentences
+- `tobo-242` : นักเศรษฐศาสตร์ (economist) : 1 meaning(s), 2 sentences
 - `tobo-243` : บาดเจ็บ (injured) : 1 meaning(s), 2 sentences
 - `tobo-244` : เส้น (line, thread, string) : 1 meaning(s), 3 sentences
 - `tobo-245` : ช่างไฟ, ช่างไฟฟ้า (electrician) : 1 meaning(s), 2 sentences
@@ -3486,11 +3487,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-259` : แหล่งที่มา (source, origin) : 1 meaning(s), 2 sentences
 - `tobo-260` : เพิ่มเป็นสองเท่า (to double) : 1 meaning(s), 2 sentences
 - `tobo-261` : เล่นไพ่ (to play cards) : 1 meaning(s), 2 sentences
+- `tobo-262` : ถัก (to knit, to weave) : 1 meaning(s), 2 sentences
+- `tobo-263` : พันธุศาสตร์ (genetics (science, field of study)) : 1 meaning(s), 2 sentences
 - `tobo-264` : น่าตกใจ (shocking) : 1 meaning(s), 2 sentences
 - `tobo-265` : ข้อเท้า (ankle) : 1 meaning(s), 2 sentences
 - `tobo-266` : ความภาคภูมิใจ (pride) : 1 meaning(s), 2 sentences
 - `tobo-267` : ทฤษฎี (theory) : 1 meaning(s), 2 sentences
 - `tobo-268` : นอนเกินเวลา (to oversleep) : 1 meaning(s), 2 sentences
+- `tobo-269` : เรือดำน้ำ (submarine) : 1 meaning(s), 2 sentences
 - `tobo-270` : คอลเลกชัน (collection) : 1 meaning(s), 2 sentences
 - `tobo-271` : อำนาจ (power, authority) : 1 meaning(s), 2 sentences
 - `tobo-273` : สะดือ (belly button, navel) : 1 meaning(s), 2 sentences
@@ -3528,6 +3532,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-312` : ความเศร้าโศก (grief, deep sorrow) : 1 meaning(s), 2 sentences
 - `tobo-314` : ความกรุณา (compassion, mercy, wanting to relieve others' suffering) : 1 meaning(s), 2 sentences
 - `tobo-317` : ความรับผิดชอบ (responsibility) : 1 meaning(s), 2 sentences
+- `tobo-318` : นักบุญ (saint) : 1 meaning(s), 2 sentences
 - `tobo-319` : เป้าหมาย (target, goal) : 1 meaning(s), 2 sentences
 - `tobo-320` : นุ่ม (soft, tender (texture)) : 1 meaning(s), 2 sentences
 - `tobo-321` : ออกแบบ (to design) : 1 meaning(s), 2 sentences
@@ -3563,6 +3568,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-356` : การเป็นสมาชิก (membership) : 1 meaning(s), 2 sentences
 - `tobo-357` : มะเร็ง (cancer) : 1 meaning(s), 2 sentences
 - `tobo-358` : ขัดจังหวะ (to interrupt, to disturb the flow) : 1 meaning(s), 2 sentences
+- `tobo-359` : ฝึกให้เชื่อง (to tame) : 1 meaning(s), 2 sentences
 - `tobo-360` : สกุลเงิน (currency) : 1 meaning(s), 2 sentences
 - `tobo-362` : ความรุนแรง (violence) : 1 meaning(s), 2 sentences
 - `tobo-363` : อารมณ์ขัน (humor, sense of humor) : 1 meaning(s), 2 sentences
@@ -3602,6 +3608,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-406` : รัฐมนตรี (minister (government)) : 1 meaning(s), 2 sentences
 - `tobo-407` : แมลง (insect) : 1 meaning(s), 2 sentences
 - `tobo-408` : มีความผิด (to be guilty, to be at fault) : 1 meaning(s), 2 sentences
+- `tobo-409` : ยีน (gene) : 1 meaning(s), 2 sentences
 - `tobo-410` : เจ้าของ (owner) : 1 meaning(s), 2 sentences
 - `tobo-411` : ให้ยืม (to lend) : 1 meaning(s), 2 sentences
 - `tobo-412` : โสด (single (unmarried)) : 1 meaning(s), 2 sentences
@@ -3615,6 +3622,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-420` : ผลกระทบ (impact, effect) : 1 meaning(s), 2 sentences
 - `tobo-421` : ความเห็นใจ (sympathy, empathy) : 1 meaning(s), 2 sentences
 - `tobo-422` : ผิดหวัง (disappointed) : 1 meaning(s), 2 sentences
+- `tobo-423` : ชีวภาพ (biological) : 1 meaning(s), 2 sentences
 - `tobo-425` : โต๊ะหัวเตียง (nightstand, bedside table) : 1 meaning(s), 2 sentences
 - `tobo-426` : ดอกเบี้ย (interest (financial)) : 1 meaning(s), 2 sentences
 - `tobo-427` : เครือข่าย (network) : 1 meaning(s), 2 sentences
@@ -3637,6 +3645,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-449` : อ่อนไหว (sensitive, emotional) : 1 meaning(s), 2 sentences
 - `tobo-450` : แหย่ (to tease light-heartedly, to gently provoke) : 1 meaning(s), 2 sentences
 - `tobo-451` : เปลือย (naked, bare) : 1 meaning(s), 2 sentences
+- `tobo-452` : มนุษยชาติ (humanity, mankind) : 1 meaning(s), 2 sentences
 - `tobo-453` : อิสระ (independent, free) : 1 meaning(s), 2 sentences
 - `tobo-454` : ม้านั่ง (bench) : 1 meaning(s), 2 sentences
 - `tobo-455` : ค้นพบ (to discover) : 1 meaning(s), 2 sentences
@@ -3649,6 +3658,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-463` : อธิษฐาน (to pray, to make a wish) : 1 meaning(s), 2 sentences
 - `tobo-464` : ทาสี (to paint (a surface)) : 1 meaning(s), 2 sentences
 - `tobo-465` : ปลอม, ของปลอม (fake, counterfeit) : 1 meaning(s), 2 sentences
+- `tobo-467` : เขตเวลา (time zone) : 1 meaning(s), 2 sentences
 - `tobo-469` : ขั้นสูง (advanced (level)) : 1 meaning(s), 2 sentences
 - `tobo-470` : น่าขยะแขยง (disgusting) : 1 meaning(s), 2 sentences
 - `tobo-473` : ช่างเทคนิค (technician) : 1 meaning(s), 2 sentences
