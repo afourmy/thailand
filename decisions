@@ -104,10 +104,23 @@ tsl-575 สบประมาท: eng 'to underestimate, to look down on, to be 
 tsl-611 ถักทอ: eng 'to knit and weave'
 tsl-631 ห้ามปราม: eng 'to prohibit, to warn against, to dissuade'
 tsl-641 เหยาะ: eng 'to drip, to pour a small amount, drop by drop'
+tsl-642 ผุดผ่อง: eng 'spotless, radiant, pure, glowing (beauty, skin)'
+thaipod-0193 ความสดใส: eng 'brightness, cheerfulness, liveliness'
+thaipod-0252 จับต้อง: eng 'to touch (with hands), tangible'
+thaipod-0441 ทาส: eng 'slave'
+thaipod-0457 ที่ใด: eng 'where (formal)'
+thaipod-0523 บารมี: eng 'accumulated virtue, charisma, spiritual power, influence, prestige'
+thaipod-0752 ภาพเขียนสี: eng 'painting, colored drawing'
 
 tsl-627 สมประกอบ - ไม่สมประกอบ: split in 2 cards:
 สมประกอบ: 'healthy, complete, normal, all parts intact (physically, mentally)'
 ไม่สมประกอบ: 'disabled, crippled, not fully normal, mentally unsound'
+
+thaipod-0012 กระชันชิด: make it 'กระชั้นชิด': 'close in time, imminent, at short notice'
+
+thaipod-0037 กองทัพเรือ, ทหารเรือ: split in 2 cards:
+กองทัพเรือ: 'navy'
+ทหารเรือ: 'naval officer, navy personnel'
  
 tsl-477 ปลีก - ปลีกตัว: split in 2 cards:
 ปลีก: 'to withdraw, to break away, to separate, to slip away'
@@ -147,4 +160,4 @@ chula-l5-035 บุก, บุกรุก: make it 'บุก': 'to attack, to 
 
 chula-l5-003 นิติบุคคล, นิติฯ: make it 'นิติบุคคล (นิติฯ)'
 
-remove card: อีสัตว์, tamago-l3-695 เอาไปประมูล, tsl-059 เสื้อวอ, tsl-229 เสาเอก, tsl-266 (ล้วนแล้วแต่...) กันทั้งนั้น
+remove card: อีสัตว์, tamago-l3-695 เอาไปประมูล, tsl-059 เสื้อวอ, tsl-229 เสาเอก, tsl-266 (ล้วนแล้วแต่...) กันทั้งนั้น, thaipod-0288 ชุดเรื่อง, thaipod-0412 ทรงสี่เหลี่ยม
