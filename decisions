@@ -81,7 +81,11 @@ tamago-l3-846 ปลอกคอ: eng 'collar (e.g for an animal)'
 tsl-001 เฉี่ยว: eng 'grazed, clipped (minor car collision, usually on the side)'
 tsl-144 อย่างแพร่หลาย: eng 'widely, extensively, on a large scale'
 tsl-196 ศัตรูพืช: eng 'crop pest, agricultural pest (animals and insects that damage plants)'
-
+tsl-197 แม่เหล็ก: eng 'magnet'
+tsl-240 ตะเข็บ: eng 'seam, stitched joint (where two pieces of fabric are sewn together)'
+tsl-277 อัธยาศัยไมตรี: eng 'friendliness, hospitality, cordiality'
+tsl-295 การไหลเวียน: eng 'circulation (e.g blood, air, etc)'
+tsl-280 คับขัน: eng 'critical, urgent (literally "cramped + intense")'
 
 tsl-110 เลื่อย - เลื่อยไฟฟ้า: split in 2 cards:
 เลื่อย: 'saw'
@@ -111,4 +115,4 @@ chula-l5-035 บุก, บุกรุก: make it 'บุก': 'to attack, to 
 
 chula-l5-003 นิติบุคคล, นิติฯ: make it 'นิติบุคคล (นิติฯ)'
 
-remove card: อีสัตว์, tamago-l3-695 เอาไปประมูล, tsl-059 เสื้อวอ
+remove card: อีสัตว์, tamago-l3-695 เอาไปประมูล, tsl-059 เสื้อวอ, tsl-229 เสาเอก, tsl-266 (ล้วนแล้วแต่...) กันทั้งนั้น
