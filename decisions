@@ -79,6 +79,15 @@ tamago-l3-785 เป็นที่ถกเถียงกัน: eng 'to be co
 tamago-l3-844 สงเคราะห์: eng 'to provide aid, to support (especially welfare, aid for the poor)'
 tamago-l3-846 ปลอกคอ: eng 'collar (e.g for an animal)'
 tsl-001 เฉี่ยว: eng 'grazed, clipped (minor car collision, usually on the side)'
+tsl-144 อย่างแพร่หลาย: eng 'widely, extensively, on a large scale'
+tsl-196 ศัตรูพืช: eng 'crop pest, agricultural pest (animals and insects that damage plants)'
+
+
+tsl-110 เลื่อย - เลื่อยไฟฟ้า: split in 2 cards:
+เลื่อย: 'saw'
+เลื่อยไฟฟ้า: 'electric saw'
+
+tsl-104 เท้า - นั่งเท้าคาง: make it 'นั่งเท้าคาง': 'to rest one's chin on one's hand'
 
 thai9k-025 แม่หม้าย - พ่อหม้าย: split in 2 cards:
 แม่หม้าย: 'widow'
@@ -102,4 +111,4 @@ chula-l5-035 บุก, บุกรุก: make it 'บุก': 'to attack, to 
 
 chula-l5-003 นิติบุคคล, นิติฯ: make it 'นิติบุคคล (นิติฯ)'
 
-remove card: อีสัตว์, tamago-l3-695 เอาไปประมูล
+remove card: อีสัตว์, tamago-l3-695 เอาไปประมูล, tsl-059 เสื้อวอ
