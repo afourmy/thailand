@@ -48,13 +48,6 @@
         { href: SITE + "/cs/graph-theory.html", en: "Graph Theory" },
       ]
     ]},
-    { en: "Bioinformatics", columns: [
-      [
-        { href: SITE + "/bio/genomics.html", en: "Genomics" },
-        { href: SITE + "/bio/transcriptomics.html", en: "Transcriptomics" },
-        { href: SITE + "/bio/proteomics.html", en: "Proteomics" },
-      ]
-    ]},
     { en: "Thailand", columns: [
       [
         { href: "index.html", en: "Vocabulary" },
