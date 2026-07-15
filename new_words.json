@@ -1,33 +1,13 @@
 [
   {
     "thai": "ความ",
-    "english": "matter; affair; subject",
+    "english": "matter, affair, subject",
     "frequency": "common"
-  },
-  {
-    "thai": "นั้น",
-    "english": "that",
-    "frequency": "everyday"
   },
   {
     "thai": "อีก",
     "english": "more",
     "frequency": "everyday"
-  },
-  {
-    "thai": "ทำให้",
-    "english": "make",
-    "frequency": "common"
-  },
-  {
-    "thai": "โดย",
-    "english": "by",
-    "frequency": "common"
-  },
-  {
-    "thai": "ผู้",
-    "english": "person",
-    "frequency": "common"
   },
   {
     "thai": "หาก",
@@ -51,9 +31,8 @@
   },
   {
     "thai": "นัก",
-    "english": "very; extremely",
-    "frequency": "common",
-    "suggested_en": "very, extremely; (as a prefix) expert, -ist, -er"
+    "english": "very, extremely",
+    "frequency": "common"
   },
   {
     "thai": "เริ่ม",
@@ -884,16 +863,6 @@
   {
     "thai": "ลงโทษ",
     "english": "punish",
-    "frequency": "common"
-  },
-  {
-    "thai": "นิด",
-    "english": "little",
-    "frequency": "everyday"
-  },
-  {
-    "thai": "ฟ้อง",
-    "english": "sue",
     "frequency": "common"
   },
   {
@@ -3088,46 +3057,14 @@
     "frequency": "common"
   },
   {
-    "thai": "อย่างเดียว",
-    "english": "Only",
-    "frequency": "common"
-  },
-  {
     "thai": "คฤหาสน์",
     "english": "Mansion",
     "frequency": "occasional"
   },
   {
     "thai": "น้ำแตก",
-    "english": "Climax",
+    "english": "climax",
     "frequency": "occasional"
-  },
-  {
-    "thai": "แยกทาง",
-    "english": "Part ways",
-    "frequency": "common"
-  },
-  {
-    "thai": "เล่นเอา",
-    "english": "Make/Cause",
-    "frequency": "common"
-  },
-  {
-    "thai": "ด้านอื่นๆ",
-    "english": "Other aspects",
-    "frequency": "common"
-  },
-  {
-    "thai": "อีกราวๆ",
-    "english": "About more",
-    "frequency": "common",
-    "suggested_en": "approximately another (amount); about ... more"
-  },
-  {
-    "thai": "อีกมั้ง",
-    "english": "Probably more",
-    "frequency": "common",
-    "suggested_en": "probably; I guess (expresses uncertainty)"
   },
   {
     "thai": "เป็นพื้น",
@@ -3140,60 +3077,13 @@
     "frequency": "common"
   },
   {
-    "thai": "คว้าสิทธิ์",
-    "english": "Seize the right",
-    "frequency": "occasional"
-  },
-  {
     "thai": "ขัดเกลา",
     "english": "Refine",
     "frequency": "common"
   },
   {
-    "thai": "สั่งสมมา",
-    "english": "Accumulated",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ตามพัด",
-    "english": "As it goes",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ขอเปล",
-    "english": "Request a stretcher",
-    "frequency": "occasional"
-  },
-  {
     "thai": "เอียน",
     "english": "Sick of",
-    "frequency": "common"
-  },
-  {
-    "thai": "จนชวน",
-    "english": "Until it invites…",
-    "frequency": "common",
-    "suggested_en": "so much that it draws one to do something"
-  },
-  {
-    "thai": "เรื่องเด่น",
-    "english": "Highlight/Featured story",
-    "frequency": "common"
-  },
-  {
-    "thai": "ชู้รัก",
-    "english": "Lover",
-    "frequency": "occasional",
-    "suggested_en": "secret lover; paramour (illicit)"
-  },
-  {
-    "thai": "ที่เอือม",
-    "english": "Fed up",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "จู้จี้กัน",
-    "english": "Nagging each other",
     "frequency": "common"
   },
   {
