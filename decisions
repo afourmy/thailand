@@ -12,7 +12,7 @@ yt-c07-068 ตามอัธยาศัย: eng 'as you please, according to y
 yt-c07-083 สืบสาน: eng 'to preserve and pass on, to inherit and carry on (e.g tradition, culture, legacy)'
 yt-c07-087 ระนาด: eng 'Thai xylophone'
 yt-c08-018 ไสยศาสตร์: eng 'black magic, occult practices'
-yt-c08-027 เซ่นไหว้: eng 'to perform a ritual offering (e.g to spirits, gods, ancestors)'
+yt-c09-029 เซ่น, เซ่นไหว้: eng 'to perform a ritual offering (e.g to spirits, gods, ancestors)'
 yt-c08-061 เก็ง: eng 'to speculate, to predict'
 yt-c08-062 ทองรูปพรรณ: eng 'gold jewelry, gold crafted into necklace, ring, etc'
 yt-c08-064 กร่อน: eng 'to corrode, to erode, to wear away'
@@ -25,6 +25,12 @@ yt-c09-009 ไม่ตรงปก: eng 'not what was expected, disappointing (
 yt-c09-013 ศีล: eng 'moral precept (Buddhism)'
 yt-c09-016 ระเหย: eng 'to evaporate, to vaporize'
 yt-c09-018 ทะลึ่ง: eng 'naughty, indecent, impudent'
+yt-c09-030 ขลัง: eng 'magical, enchanted, imbued with magical power'
+
+
+
+
+yt-c09-028 เวทมนตร์, คาถา: make it 'คาถา': 'sacred spell, incantation'
 
 yt-c08-025 อย่าลบหลู่: eng '"don't be disrespectful", "don't show irreverence" (especially towards sacred things)'
 
@@ -38,4 +44,4 @@ yt-c07-034 โซ่หย่อน - โซ่ขาด: split in 2 cards:
 
 yt-c08-080 ลาด - ลาดชัน: make it 'ลาด': 'slope'
 
-remove card: yt-c08-072 สับสวน
+remove card: yt-c08-072 สับสวน, t4k-c07-080 คาถา, yt-c08-027 เซ่นไหว้
