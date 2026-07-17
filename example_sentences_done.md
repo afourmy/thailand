@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6999 words**
+**Total: 7008 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3869,17 +3869,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-020` : ปาดหน้า (to cut in line, to cut in front, to overtake in a dangerous way (in traffic when driving)) : 1 meaning(s), 2 sentences
 - `yt-c04-021` : ความอึดอัดใจ (embarrassment, discomfort) : 1 meaning(s), 2 sentences
 - `yt-c04-022` : ละเอียดอ่อน (delicate, sensitive) : 1 meaning(s), 2 sentences
+- `yt-c04-025` : คำผวน (spoonerism) : 1 meaning(s), 2 sentences
 - `yt-c04-026` : ทดสอบ (to check, test, evaluate, experiment) : 1 meaning(s), 2 sentences
 - `yt-c04-027` : เป็นตัวของตัวเอง (to be oneself ("be myself", "be yourself")) : 1 meaning(s), 2 sentences
+- `yt-c04-029` : คอเว้า (low-cut neckline clothes (V-shaped)) : 1 meaning(s), 2 sentences
+- `yt-c04-030` : เดินตามหลังผู้ใหญ่หมาไม่กัด ((expression) if you follow the adults, dogs won't bite you (meaning: obey the adults and you'll be safe)) : 1 meaning(s), 1 sentences
+- `yt-c04-034` : นอบน้อมถ่อมตน, อ่อนน้อมถ่อมตน (humble and respectful) : 1 meaning(s), 2 sentences
+- `yt-c04-035` : ราตรีสวัสดิ์ (good night (rarely used)) : 1 meaning(s), 2 sentences
 - `yt-c04-037` : อ้อม (curved, indirect, roundabout) : 1 meaning(s), 2 sentences
 - `yt-c04-038` : นิ่ม (soft, silky, gentle) : 1 meaning(s), 2 sentences
 - `yt-c04-039` : คำชม (compliment) : 1 meaning(s), 2 sentences
 - `yt-c04-046` : ได้อยู่ ("not bad", "good enough", "not great not terrible") : 1 meaning(s), 2 sentences
 - `yt-c04-047` : หยด (to drop (water, tear), to drip) : 1 meaning(s), 2 sentences
 - `yt-c04-048` : เข็ดแล้ว ("I've learned my lesson", "never again") : 1 meaning(s), 2 sentences
+- `yt-c04-053` : โอ้วชีวิต ("c'est la vie") : 1 meaning(s), 2 sentences
 - `yt-c04-055` : กิจการ (business, enterprise) : 1 meaning(s), 2 sentences
 - `yt-c04-056` : ตาชั่ง (balance, weighting scale) : 1 meaning(s), 2 sentences
 - `yt-c04-060` : ริน (to pour gently, to pour slowly) : 1 meaning(s), 2 sentences
+- `yt-c04-064` : ขี้ไคล (scurf (dead skin flakes, body dirt)) : 1 meaning(s), 2 sentences
 - `yt-c04-066` : ปลาทู (mackerel) : 1 meaning(s), 2 sentences
 - `yt-c04-067` : หอยแมลงภู่ (mussel) : 1 meaning(s), 2 sentences
 - `yt-c04-068` : หอยแครง (blood cockle) : 1 meaning(s), 2 sentences
@@ -3896,6 +3903,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-084` : รัด (to tighten, to constrict, to fasten, to bind tightly) : 1 meaning(s), 2 sentences
 - `yt-c04-085` : รัดเข็มขัด (to economize, to cut back on spending (literally "to tighten one's belt")) : 1 meaning(s), 2 sentences
 - `yt-c04-086` : หย่อน (to let loose, to slacken, to relax, to drop (make something less tight, or let something hang)) : 1 meaning(s), 2 sentences
+- `yt-c04-087` : คันนา (rice field ridge) : 1 meaning(s), 2 sentences
+- `yt-c04-088` : โหร (astrologer) : 1 meaning(s), 2 sentences
 - `yt-c04-097` : ท้า (to challenge, to dare (someone to do something)) : 1 meaning(s), 2 sentences
 - `yt-c05-003` : รูด (to swipe (e.g a credit card), to slide (e.g zipper)) : 1 meaning(s), 2 sentences
 - `yt-c05-004` : ฟันผุ (tooth decay, cavity) : 1 meaning(s), 2 sentences

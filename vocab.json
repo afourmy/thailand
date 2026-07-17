@@ -130179,11 +130179,15 @@
         "sentences": [
           {
             "thai": "คำผวนเป็นการเล่นคำที่คนไทยชอบมาก",
-            "en": "Spoonerisms are a kind of wordplay Thais really love."
+            "en": "Spoonerisms are a kind of wordplay Thais really love.",
+            "audio_src": "คำผวนเป็นการเล่นคำที่คนไทยชอบมาก",
+            "audio_en_src": "Spoonerisms are a kind of wordplay Thais really love."
           },
           {
             "thai": "เขาชอบพูดคำผวนจนเพื่อนขำ",
-            "en": "He loves making spoonerisms and cracks his friends up."
+            "en": "He loves making spoonerisms and cracks his friends up.",
+            "audio_src": "เขาชอบพูดคำผวนจนเพื่อนขำ",
+            "audio_en_src": "He loves making spoonerisms and cracks his friends up."
           }
         ]
       }
@@ -130272,11 +130276,15 @@
         "sentences": [
           {
             "thai": "เสื้อคอเว้าแบบนี้ใส่ไปงานกลางคืนสวยดี",
-            "en": "A low-cut top like this looks great for a night out."
+            "en": "A low-cut top like this looks great for a night out.",
+            "audio_src": "เสื้อคอเว้าแบบนี้ใส่ไปงานกลางคืนสวยดี",
+            "audio_en_src": "A low-cut top like this looks great for a night out."
           },
           {
             "thai": "เขาไม่กล้าใส่เสื้อคอเว้าลึก",
-            "en": "She doesn't dare wear a plunging neckline."
+            "en": "She doesn't dare wear a plunging neckline.",
+            "audio_src": "เขาไม่กล้าใส่เสื้อคอเว้าลึก",
+            "audio_en_src": "She doesn't dare wear a plunging neckline."
           }
         ]
       }
@@ -130296,7 +130304,9 @@
         "sentences": [
           {
             "thai": "ยายสอนเสมอว่า เดินตามหลังผู้ใหญ่หมาไม่กัด",
-            "en": "Grandma always taught me, walk behind the grown-ups and the dogs won't bite."
+            "en": "Grandma always taught me, walk behind the grown-ups and the dogs won't bite.",
+            "audio_src": "ยายสอนเสมอว่า เดินตามหลังผู้ใหญ่หมาไม่กัด",
+            "audio_en_src": "Grandma always taught me, walk behind the grown-ups and the dogs won't bite."
           }
         ]
       }
@@ -130335,11 +130345,15 @@
         "sentences": [
           {
             "thai": "เด็กคนนี้อ่อนน้อมถ่อมตนมาก ผู้ใหญ่เลยเอ็นดู",
-            "en": "This kid is so humble and respectful, the adults adore him."
+            "en": "This kid is so humble and respectful, the adults adore him.",
+            "audio_src": "เด็กคนนี้อ่อนน้อมถ่อมตนมาก ผู้ใหญ่เลยเอ็นดู",
+            "audio_en_src": "This kid is so humble and respectful, the adults adore him."
           },
           {
             "thai": "ถึงจะเก่งแค่ไหน เขาก็ยังนอบน้อมถ่อมตน",
-            "en": "No matter how talented he is, he stays humble and respectful."
+            "en": "No matter how talented he is, he stays humble and respectful.",
+            "audio_src": "ถึงจะเก่งแค่ไหน เขาก็ยังนอบน้อมถ่อมตน",
+            "audio_en_src": "No matter how talented he is, he stays humble and respectful."
           }
         ]
       }
@@ -130359,11 +130373,15 @@
         "sentences": [
           {
             "thai": "เขาส่งข้อความมาบอกว่า ราตรีสวัสดิ์ ฝันดีนะ",
-            "en": "He texted me, good night, sweet dreams."
+            "en": "He texted me, good night, sweet dreams.",
+            "audio_src": "เขาส่งข้อความมาบอกว่า ราตรีสวัสดิ์ ฝันดีนะ",
+            "audio_en_src": "He texted me, good night, sweet dreams."
           },
           {
             "thai": "พิธีกรกล่าวปิดรายการว่า ราตรีสวัสดิ์ครับ",
-            "en": "The host closed the show with, good night everyone."
+            "en": "The host closed the show with, good night everyone.",
+            "audio_src": "พิธีกรกล่าวปิดรายการว่า ราตรีสวัสดิ์ครับ",
+            "audio_en_src": "The host closed the show with, good night everyone."
           }
         ]
       }
@@ -130615,11 +130633,15 @@
         "sentences": [
           {
             "thai": "ทำงานทั้งเดือน เงินหมดในสามวัน โอ้วชีวิต",
-            "en": "I work all month and the money's gone in three days, c'est la vie."
+            "en": "I work all month and the money's gone in three days, c'est la vie.",
+            "audio_src": "ทำงานทั้งเดือน เงินหมดในสามวัน โอ้วชีวิต",
+            "audio_en_src": "I work all month and the money's gone in three days, c'est la vie."
           },
           {
             "thai": "ฝนตกวันที่ลืมร่มพอดี โอ้วชีวิต",
-            "en": "It rains on the exact day I forget my umbrella, c'est la vie."
+            "en": "It rains on the exact day I forget my umbrella, c'est la vie.",
+            "audio_src": "ฝนตกวันที่ลืมร่มพอดี โอ้วชีวิต",
+            "audio_en_src": "It rains on the exact day I forget my umbrella, c'est la vie."
           }
         ]
       }
@@ -130750,15 +130772,6 @@
     ]
   },
   {
-    "id": "yt-c04-062",
-    "thai": "พิธีขึ้นบ้าน",
-    "english": "house blessing ceremony (monks chanting to bless new built, or moved-into house)",
-    "frequency": "rare",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c04-063",
     "thai": "บ้านสวน",
     "english": "garden house (house with a garden)",
@@ -130781,11 +130794,15 @@
         "sentences": [
           {
             "thai": "อาบน้ำขัดขี้ไคลให้สะอาด",
-            "en": "Take a bath and scrub off the dead skin."
+            "en": "Take a bath and scrub off the dead skin.",
+            "audio_src": "อาบน้ำขัดขี้ไคลให้สะอาด",
+            "audio_en_src": "Take a bath and scrub off the dead skin."
           },
           {
             "thai": "ไปนวดที่สปา มีขัดขี้ไคลด้วย",
-            "en": "I got a massage at the spa, with a body scrub too."
+            "en": "I got a massage at the spa, with a body scrub too.",
+            "audio_src": "ไปนวดที่สปา มีขัดขี้ไคลด้วย",
+            "audio_en_src": "I got a massage at the spa, with a body scrub too."
           }
         ]
       }
@@ -131288,11 +131305,15 @@
         "sentences": [
           {
             "thai": "ชาวนาเดินไปตามคันนา",
-            "en": "The farmer walked along the ridge of the rice field."
+            "en": "The farmer walked along the ridge of the rice field.",
+            "audio_src": "ชาวนาเดินไปตามคันนา",
+            "audio_en_src": "The farmer walked along the ridge of the rice field."
           },
           {
             "thai": "เด็กๆ วิ่งเล่นบนคันนา",
-            "en": "The kids ran and played on the rice field ridges."
+            "en": "The kids ran and played on the rice field ridges.",
+            "audio_src": "เด็กๆ วิ่งเล่นบนคันนา",
+            "audio_en_src": "The kids ran and played on the rice field ridges."
           }
         ]
       }
@@ -131312,11 +131333,15 @@
         "sentences": [
           {
             "thai": "โหรทำนายว่าปีหน้าบ้านเมืองจะวุ่นวาย",
-            "en": "The astrologer predicted the country will be in turmoil next year."
+            "en": "The astrologer predicted the country will be in turmoil next year.",
+            "audio_src": "โหรทำนายว่าปีหน้าบ้านเมืองจะวุ่นวาย",
+            "audio_en_src": "The astrologer predicted the country will be in turmoil next year."
           },
           {
             "thai": "สมัยก่อน กษัตริย์มีโหรประจำราชสำนัก",
-            "en": "In the old days, kings had court astrologers."
+            "en": "In the old days, kings had court astrologers.",
+            "audio_src": "สมัยก่อน กษัตริย์มีโหรประจำราชสำนัก",
+            "audio_en_src": "In the old days, kings had court astrologers."
           }
         ]
       }
