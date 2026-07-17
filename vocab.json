@@ -125579,6 +125579,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "anthropology",
+        "sentences": [
+          {
+            "thai": "เขาเรียนปริญญาโทด้านมานุษยวิทยา",
+            "en": "He's doing a master's in anthropology.",
+            "audio_src": "เขาเรียนปริญญาโทด้านมานุษยวิทยา",
+            "audio_en_src": "He's doing a master's in anthropology."
+          },
+          {
+            "thai": "มานุษยวิทยาคือการศึกษาวัฒนธรรมของมนุษย์",
+            "en": "Anthropology is the study of human cultures.",
+            "audio_src": "มานุษยวิทยาคือการศึกษาวัฒนธรรมของมนุษย์",
+            "audio_en_src": "Anthropology is the study of human cultures."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125588,6 +125607,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cathedral",
+        "sentences": [
+          {
+            "thai": "อาสนวิหารแห่งนี้สร้างมากว่าร้อยปีแล้ว",
+            "en": "This cathedral was built over a hundred years ago.",
+            "audio_src": "อาสนวิหารแห่งนี้สร้างมากว่าร้อยปีแล้ว",
+            "audio_en_src": "This cathedral was built over a hundred years ago."
+          },
+          {
+            "thai": "นักท่องเที่ยวชอบมาถ่ายรูปหน้าอาสนวิหาร",
+            "en": "Tourists love taking photos in front of the cathedral.",
+            "audio_src": "นักท่องเที่ยวชอบมาถ่ายรูปหน้าอาสนวิหาร",
+            "audio_en_src": "Tourists love taking photos in front of the cathedral."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125622,11 +125660,30 @@
   },
   {
     "id": "yt-c01-092",
-    "thai": "ปราติมากรรม",
+    "thai": "ประติมากรรม",
     "english": "sculpture",
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "sculpture",
+        "sentences": [
+          {
+            "thai": "พิพิธภัณฑ์นี้มีประติมากรรมโบราณเยอะมาก",
+            "en": "This museum has a lot of ancient sculptures.",
+            "audio_src": "พิพิธภัณฑ์นี้มีประติมากรรมโบราณเยอะมาก",
+            "audio_en_src": "This museum has a lot of ancient sculptures."
+          },
+          {
+            "thai": "กลางสวนมีประติมากรรมหินอ่อนตั้งอยู่",
+            "en": "There's a marble sculpture in the middle of the park.",
+            "audio_src": "กลางสวนมีประติมากรรมหินอ่อนตั้งอยู่",
+            "audio_en_src": "There's a marble sculpture in the middle of the park."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125761,6 +125818,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"fat fingers\", \"my fingers slipped\" (when typo on mobile)",
+        "sentences": [
+          {
+            "thai": "โทษที พิมพ์ผิด นิ้วเบียด",
+            "en": "Sorry for the typo, fat fingers.",
+            "audio_src": "โทษที พิมพ์ผิด นิ้วเบียด",
+            "audio_en_src": "Sorry for the typo, fat fingers."
+          },
+          {
+            "thai": "จอมันเล็ก พิมพ์ทีไรนิ้วเบียดตลอด",
+            "en": "The screen is so small, I hit the wrong keys every time.",
+            "audio_src": "จอมันเล็ก พิมพ์ทีไรนิ้วเบียดตลอด",
+            "audio_en_src": "The screen is so small, I hit the wrong keys every time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126019,6 +126095,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "atom",
+        "sentences": [
+          {
+            "thai": "ระเบิดปรมาณูทำลายเมืองฮิโรชิมาในปี 1945",
+            "en": "The atomic bomb destroyed Hiroshima in 1945.",
+            "audio_src": "ระเบิดปรมาณูทำลายเมืองฮิโรชิมาในปี 1945",
+            "audio_en_src": "The atomic bomb destroyed Hiroshima in 1945."
+          },
+          {
+            "thai": "ทุกอย่างรอบตัวเราประกอบด้วยปรมาณู",
+            "en": "Everything around us is made of atoms.",
+            "audio_src": "ทุกอย่างรอบตัวเราประกอบด้วยปรมาณู",
+            "audio_en_src": "Everything around us is made of atoms."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126047,6 +126142,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "conqueror",
+        "sentences": [
+          {
+            "thai": "อเล็กซานเดอร์มหาราชคือผู้พิชิตผู้ยิ่งใหญ่",
+            "en": "Alexander the Great was a great conqueror.",
+            "audio_src": "อเล็กซานเดอร์มหาราชคือผู้พิชิตผู้ยิ่งใหญ่",
+            "audio_en_src": "Alexander the Great was a great conqueror."
+          },
+          {
+            "thai": "เขาคือผู้พิชิตยอดเขาเอเวอเรสต์คนแรกของไทย",
+            "en": "He was the first Thai to conquer Mount Everest.",
+            "audio_src": "เขาคือผู้พิชิตยอดเขาเอเวอเรสต์คนแรกของไทย",
+            "audio_en_src": "He was the first Thai to conquer Mount Everest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126148,6 +126262,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fiber, filament",
+        "sentences": [
+          {
+            "thai": "ใยแมงมุมเหนียวกว่าที่คิด",
+            "en": "Spider silk is tougher than you'd think.",
+            "audio_src": "ใยแมงมุมเหนียวกว่าที่คิด",
+            "audio_en_src": "Spider silk is tougher than you'd think."
+          },
+          {
+            "thai": "ผักผลไม้มีใยอาหารเยอะ",
+            "en": "Fruits and vegetables are high in fiber.",
+            "audio_src": "ผักผลไม้มีใยอาหารเยอะ",
+            "audio_en_src": "Fruits and vegetables are high in fiber."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126283,6 +126416,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Burmese grape (thai fruit small, round, yellow, similar to Longan)",
+        "sentences": [
+          {
+            "thai": "มะไฟลูกนี้เปรี้ยวจัง",
+            "en": "This Burmese grape is so sour.",
+            "audio_src": "มะไฟลูกนี้เปรี้ยวจัง",
+            "audio_en_src": "This Burmese grape is so sour."
+          },
+          {
+            "thai": "หน้าบ้านยายมีต้นมะไฟอยู่ต้นนึง",
+            "en": "There's a Burmese grape tree in front of Grandma's house.",
+            "audio_src": "หน้าบ้านยายมีต้นมะไฟอยู่ต้นนึง",
+            "audio_en_src": "There's a Burmese grape tree in front of Grandma's house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126585,6 +126737,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "language principles, grammar",
+        "sentences": [
+          {
+            "thai": "เด็กไทยต้องเรียนหลักภาษาไทยตั้งแต่ประถม",
+            "en": "Thai kids have to study Thai grammar from primary school.",
+            "audio_src": "เด็กไทยต้องเรียนหลักภาษาไทยตั้งแต่ประถม",
+            "audio_en_src": "Thai kids have to study Thai grammar from primary school."
+          },
+          {
+            "thai": "เขาพูดคล่องแต่ไม่ค่อยแม่นหลักภาษา",
+            "en": "He speaks fluently but his grammar isn't very solid.",
+            "audio_src": "เขาพูดคล่องแต่ไม่ค่อยแม่นหลักภาษา",
+            "audio_en_src": "He speaks fluently but his grammar isn't very solid."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126672,6 +126843,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "winter melon, wax gourd",
+        "sentences": [
+          {
+            "thai": "แกงจืดฟักใส่หมูสับ อร่อยมาก",
+            "en": "Winter melon soup with minced pork is delicious.",
+            "audio_src": "แกงจืดฟักใส่หมูสับ อร่อยมาก",
+            "audio_en_src": "Winter melon soup with minced pork is delicious."
+          },
+          {
+            "thai": "ฟักลูกใหญ่ขนาดนี้ กินได้เป็นอาทิตย์เลย",
+            "en": "A winter melon this big will last a week.",
+            "audio_src": "ฟักลูกใหญ่ขนาดนี้ กินได้เป็นอาทิตย์เลย",
+            "audio_en_src": "A winter melon this big will last a week."
+          }
+        ]
+      }
     ]
   },
   {
