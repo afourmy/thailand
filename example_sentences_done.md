@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7107 words**
+**Total: 7117 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4272,14 +4272,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-045` : ลากซุง (to drag logs (piece of trunk)) : 1 meaning(s), 2 sentences
 - `yt-c11-048` : ควาญ (mahout (elephant handler, caretaker)) : 1 meaning(s), 2 sentences
 - `yt-c11-049` : ทำยุทธหัตถี (to fight on elephant back, elephant duel (e.g between kings)) : 1 meaning(s), 2 sentences
+- `yt-c11-050` : ยุทโธปกรณ์ (military equipment) : 1 meaning(s), 2 sentences
+- `yt-c11-052` : ตกมัน ((of elephant) in musth; (figuratively) to go wild, to act uncontrollably, frenzied, in rage) : 2 meaning(s), 4 sentences
 - `yt-c11-053` : ต้อน (to herd, to round up (animals)) : 1 meaning(s), 2 sentences
+- `yt-c11-054` : ส่งส่วย (to pay a tribute (when vassals give food or other valuables to ruler)) : 1 meaning(s), 2 sentences
+- `yt-c11-056` : ส่วย (tribute, levy, tax) : 1 meaning(s), 2 sentences
 - `yt-c11-058` : บ่อน (บ่อนการพนัน) (casino, gambling den) : 1 meaning(s), 2 sentences
 - `yt-c11-060` : กวนตีน (annoying, to annoy, to irritate) : 1 meaning(s), 2 sentences
+- `new-14` : กวนบาทา (annoying, to annoy, to irritate (rare)) : 1 meaning(s), 2 sentences
 - `yt-c11-061` : คน, กวน (to stir (food)) : 1 meaning(s), 2 sentences
+- `yt-c11-062` : เพื่อนบ้านดีมีชัยไปกว่าครึ่ง (having good neighbors is already half way to success) : 1 meaning(s), 1 sentences
 - `yt-c11-064` : ห่วงใย (to care for, to be concerned about, to worry about (someone, out of affection)) : 1 meaning(s), 2 sentences
 - `yt-c11-065` : ลับหลัง (behind someone's back, secretly, on the sly) : 1 meaning(s), 2 sentences
 - `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
+- `yt-c11-068` : ตาบอดได้แว่น ((idiom) when someone receives a valuable gift but it is completely useless to them) : 1 meaning(s), 2 sentences
 - `yt-c11-069` : สอย (to pluck, to pick (with a tool, e.g bamboo stick, to make fruits fall)) : 1 meaning(s), 2 sentences
+- `yt-c11-070` : คำพ้องรูป (homographs (written the same but different meaning)) : 1 meaning(s), 2 sentences
+- `yt-c11-071` : คำพ้องเสียง (homophones (sounds the same but different meaning)) : 1 meaning(s), 2 sentences
 - `yt-c11-072` : เพลา (to lessen, to reduce) : 1 meaning(s), 2 sentences
 - `new-33` : เพลา (time (old-fashioned)) : 1 meaning(s), 2 sentences
 - `yt-c11-073` : สุขุม (calm, composed, level-headed) : 1 meaning(s), 2 sentences
@@ -4289,6 +4298,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-082` : เหลิง (conceited, overconfident, getting a big head) : 1 meaning(s), 2 sentences
 - `yt-c11-083` : กระแสตอบรับ (public response, reception, feedback from people) : 1 meaning(s), 2 sentences
 - `yt-c11-085` : คำนวณ (to calculate) : 1 meaning(s), 2 sentences
+- `yt-c11-087` : คำประพันธ์ (โคลง, กลอน, ฉันท์) (poetry (different types of Thai poetry)) : 1 meaning(s), 2 sentences
 - `yt-c11-091` : พ้อง (similar, matching, identical, to correspond, to be the same) : 1 meaning(s), 2 sentences
 - `yt-c11-092` : ขัดตา - ขัดหู - ขัดใจ (displeasing, unpleasant (literally irritates the eyes - ears - heart)) : 1 meaning(s), 2 sentences
 - `yt-c11-096` : เสือก (to butt in, to meddle with, to stick your nose in (slang, very rude)) : 1 meaning(s), 2 sentences
