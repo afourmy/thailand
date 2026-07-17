@@ -145406,11 +145406,30 @@
   },
   {
     "id": "yt-c11-093",
-    "thai": "คำซ้อน, คำคู่, คำควบคู่ (เร็วไว, นุ่มนิ่ม, ดีชั่ว, ผิดถูก)",
+    "thai": "คำซ้อน, คำคู่ (เร็วไว, นุ่มนิ่ม, ดีชั่ว, ผิดถูก)",
     "english": "repeated words in Thai (to precise meaning or insist)",
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "repeated words in Thai (to precise meaning or insist)",
+        "sentences": [
+          {
+            "thai": "คำซ้อนช่วยเน้นความหมายให้หนักขึ้น",
+            "en": "Paired words help emphasize the meaning.",
+            "audio_src": "คำซ้อนช่วยเน้นความหมายให้หนักขึ้น",
+            "audio_en_src": "Paired words help emphasize the meaning."
+          },
+          {
+            "thai": "ครูให้นักเรียนยกตัวอย่างคำคู่มาห้าคำ",
+            "en": "The teacher asked the students for five examples of paired words.",
+            "audio_src": "ครูให้นักเรียนยกตัวอย่างคำคู่มาห้าคำ",
+            "audio_en_src": "The teacher asked the students for five examples of paired words."
+          }
+        ]
+      }
     ]
   },
   {
@@ -145916,15 +145935,6 @@
     ]
   },
   {
-    "id": "yt-c12-022",
-    "thai": "จำปาดะ",
-    "english": "Borneo durian (type of durian fruit)",
-    "frequency": "rare",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c12-023",
     "thai": "มะเฟือง",
     "english": "starfruit (type of fruit)",
@@ -146355,11 +146365,15 @@
         "sentences": [
           {
             "thai": "ไม่คิดว่าจะได้พบพานกันอีก",
-            "en": "I never thought we'd meet again."
+            "en": "I never thought we'd meet again.",
+            "audio_src": "ไม่คิดว่าจะได้พบพานกันอีก",
+            "audio_en_src": "I never thought we'd meet again."
           },
           {
             "thai": "ขอให้พานพบแต่สิ่งดีๆ",
-            "en": "May you encounter only good things."
+            "en": "May you encounter only good things.",
+            "audio_src": "ขอให้พานพบแต่สิ่งดีๆ",
+            "audio_en_src": "May you encounter only good things."
           }
         ]
       }
@@ -146428,11 +146442,15 @@
         "sentences": [
           {
             "thai": "ขอเวลาใคร่ครวญให้ดีก่อนตัดสินใจ",
-            "en": "Give me time to think it over carefully before deciding."
+            "en": "Give me time to think it over carefully before deciding.",
+            "audio_src": "ขอเวลาใคร่ครวญให้ดีก่อนตัดสินใจ",
+            "audio_en_src": "Give me time to think it over carefully before deciding."
           },
           {
             "thai": "เขานั่งใคร่ครวญถึงคำพูดของพ่อ",
-            "en": "He sat pondering his father's words."
+            "en": "He sat pondering his father's words.",
+            "audio_src": "เขานั่งใคร่ครวญถึงคำพูดของพ่อ",
+            "audio_en_src": "He sat pondering his father's words."
           }
         ]
       }
@@ -146507,11 +146525,15 @@
         "sentences": [
           {
             "thai": "อายุหกสิบแล้ว สังขารเริ่มไม่ไหว",
-            "en": "I'm sixty, and this body is starting to give out."
+            "en": "I'm sixty, and this body is starting to give out.",
+            "audio_src": "อายุหกสิบแล้ว สังขารเริ่มไม่ไหว",
+            "audio_en_src": "I'm sixty, and this body is starting to give out."
           },
           {
             "thai": "พระท่านสอนว่าสังขารไม่เที่ยง",
-            "en": "The monks teach that the body is impermanent."
+            "en": "The monks teach that the body is impermanent.",
+            "audio_src": "พระท่านสอนว่าสังขารไม่เที่ยง",
+            "audio_en_src": "The monks teach that the body is impermanent."
           }
         ]
       }
@@ -146665,11 +146687,15 @@
         "sentences": [
           {
             "thai": "สังข์ทองเป็นนิทานพื้นบ้านที่คนไทยรู้จักกันดี",
-            "en": "Sang Thong is a folk tale every Thai knows."
+            "en": "Sang Thong is a folk tale every Thai knows.",
+            "audio_src": "สังข์ทองเป็นนิทานพื้นบ้านที่คนไทยรู้จักกันดี",
+            "audio_en_src": "Sang Thong is a folk tale every Thai knows."
           },
           {
             "thai": "ละครสังข์ทองฉายทุกเช้าวันเสาร์อาทิตย์",
-            "en": "The Sang Thong series airs every weekend morning."
+            "en": "The Sang Thong series airs every weekend morning.",
+            "audio_src": "ละครสังข์ทองฉายทุกเช้าวันเสาร์อาทิตย์",
+            "audio_en_src": "The Sang Thong series airs every weekend morning."
           }
         ]
       }
@@ -146698,11 +146724,15 @@
         "sentences": [
           {
             "thai": "เรื่องพระมหาชนกเป็นบทพระราชนิพนธ์ของรัชกาลที่เก้า",
-            "en": "The Story of Mahajanaka is a royal composition by King Rama IX."
+            "en": "The Story of Mahajanaka is a royal composition by King Rama IX.",
+            "audio_src": "เรื่องพระมหาชนกเป็นบทพระราชนิพนธ์ของรัชกาลที่เก้า",
+            "audio_en_src": "The Story of Mahajanaka is a royal composition by King Rama IX."
           },
           {
             "thai": "นักเรียนอ่านบทพระราชนิพนธ์ในวิชาภาษาไทย",
-            "en": "Students read royal compositions in Thai class."
+            "en": "Students read royal compositions in Thai class.",
+            "audio_src": "นักเรียนอ่านบทพระราชนิพนธ์ในวิชาภาษาไทย",
+            "audio_en_src": "Students read royal compositions in Thai class."
           }
         ]
       }
@@ -146827,11 +146857,15 @@
         "sentences": [
           {
             "thai": "หญิงสาวทัดดอกลีลาวดีไว้ที่หู",
-            "en": "The young woman tucked a plumeria behind her ear."
+            "en": "The young woman tucked a plumeria behind her ear.",
+            "audio_src": "หญิงสาวทัดดอกลีลาวดีไว้ที่หู",
+            "audio_en_src": "The young woman tucked a plumeria behind her ear."
           },
           {
             "thai": "นางรำทัดดอกไม้สีขาว",
-            "en": "The dancer wears a white flower behind her ear."
+            "en": "The dancer wears a white flower behind her ear.",
+            "audio_src": "นางรำทัดดอกไม้สีขาว",
+            "audio_en_src": "The dancer wears a white flower behind her ear."
           }
         ]
       }
@@ -146851,11 +146885,15 @@
         "sentences": [
           {
             "thai": "ทำตัวเป็นเงาะป่าไปได้ กินข้าวก็ไม่เรียบร้อย",
-            "en": "You're acting like a caveman, you can't even eat properly."
+            "en": "You're acting like a caveman, you can't even eat properly.",
+            "audio_src": "ทำตัวเป็นเงาะป่าไปได้ กินข้าวก็ไม่เรียบร้อย",
+            "audio_en_src": "You're acting like a caveman, you can't even eat properly."
           },
           {
             "thai": "เขาโดนแซวว่าหัวยุ่งเหมือนเงาะป่า",
-            "en": "They teased him that his hair was as wild as a caveman's."
+            "en": "They teased him that his hair was as wild as a caveman's.",
+            "audio_src": "เขาโดนแซวว่าหัวยุ่งเหมือนเงาะป่า",
+            "audio_en_src": "They teased him that his hair was as wild as a caveman's."
           }
         ]
       }
@@ -146904,11 +146942,15 @@
         "sentences": [
           {
             "thai": "พระอินทร์มีกายสีเขียว",
-            "en": "Indra has a green body."
+            "en": "Indra has a green body.",
+            "audio_src": "พระอินทร์มีกายสีเขียว",
+            "audio_en_src": "Indra has a green body."
           },
           {
             "thai": "ในนิทาน พระอินทร์ลงมาช่วยคนดีเสมอ",
-            "en": "In the tales, Indra always comes down to help good people."
+            "en": "In the tales, Indra always comes down to help good people.",
+            "audio_src": "ในนิทาน พระอินทร์ลงมาช่วยคนดีเสมอ",
+            "audio_en_src": "In the tales, Indra always comes down to help good people."
           }
         ]
       }

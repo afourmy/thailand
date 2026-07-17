@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7117 words**
+**Total: 7126 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4301,6 +4301,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-087` : คำประพันธ์ (โคลง, กลอน, ฉันท์) (poetry (different types of Thai poetry)) : 1 meaning(s), 2 sentences
 - `yt-c11-091` : พ้อง (similar, matching, identical, to correspond, to be the same) : 1 meaning(s), 2 sentences
 - `yt-c11-092` : ขัดตา - ขัดหู - ขัดใจ (displeasing, unpleasant (literally irritates the eyes - ears - heart)) : 1 meaning(s), 2 sentences
+- `yt-c11-093` : คำซ้อน, คำคู่ (เร็วไว, นุ่มนิ่ม, ดีชั่ว, ผิดถูก) (repeated words in Thai (to precise meaning or insist)) : 1 meaning(s), 2 sentences
 - `yt-c11-096` : เสือก (to butt in, to meddle with, to stick your nose in (slang, very rude)) : 1 meaning(s), 2 sentences
 - `yt-c11-097` : ผิดสังเกต (unusual, "looks suspicious", "seems off") : 1 meaning(s), 2 sentences
 - `yt-c11-098` : ช่างสังเกต (observant, someone who tends to notice things) : 1 meaning(s), 2 sentences
@@ -4327,14 +4328,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-032` : บกพร่อง (defective, lacking, flawed) : 1 meaning(s), 2 sentences
 - `yt-c12-032b` : ข้อบกพร่อง (defect, flaw) : 1 meaning(s), 2 sentences
 - `yt-c12-035` : วน (to rotate, to go in circle) : 1 meaning(s), 2 sentences
+- `yt-c12-036` : พบพาน, พานพบ (to meet, to encounter (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-037` : พบปะ (to meet (usually in a social setting, like friends, coworkers), to meet and socialize) : 1 meaning(s), 2 sentences
+- `yt-c12-041` : ใคร่ครวญ (to reflect deeply, to ponder carefully (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-044` : เหี้ย, ตัวเงินตัวทอง, วรนุช (monitor lizard) : 1 meaning(s), 2 sentences
+- `yt-c12-046` : สังขาร (human body (Buddhist term)) : 1 meaning(s), 2 sentences
 - `yt-c12-049` : (เอา)เสียเลย, (เอา)ซะเลย ("go ahead and...", "do it completely", "do it once and for all" (conveys impatience, annoyance)) : 1 meaning(s), 2 sentences
 - `yt-c12-051` : โดยตรง - โดยนัย (directly, explicitly - indirectly, implicitly) : 1 meaning(s), 2 sentences
 - `yt-c12-054` : ยั่ว (to tease, to provoke, to entice) : 1 meaning(s), 2 sentences
+- `yt-c12-055` : สังข์ทอง (Thai folk storytale "Golden Conch", story of a prince born from a conch (sea snail shell)) : 1 meaning(s), 2 sentences
+- `yt-c12-057` : บทพระราชนิพนธ์ (royal composition, royally authored work) : 1 meaning(s), 2 sentences
 - `yt-c12-058` : ปัด (to brush, to swipe, to dust) : 1 meaning(s), 2 sentences
 - `yt-c12-059` : ถ่วง ((literally) to weigh down (put a weight on something); (figuratively) to hinder, to delay, to slow down) : 2 meaning(s), 4 sentences
+- `yt-c12-063` : ทัด (to tuck, to adorn by inserting something (e.g a flower behind the ear)) : 1 meaning(s), 2 sentences
+- `yt-c12-064` : เงาะป่า (someone uncultured, wild, with unrefined behavior or manners) : 1 meaning(s), 2 sentences
 - `yt-c12-065` : เฉือน (to slice off, to cut a thin layer from something) : 1 meaning(s), 2 sentences
+- `yt-c12-066` : พระอินทร์ (Indra, the king of gods (Buddhist mythology)) : 1 meaning(s), 2 sentences
 - `yt-c12-069` : ศัลยกรรม (surgery (surgical operation)) : 1 meaning(s), 2 sentences
 - `yt-c12-070` : จับจุด (to grasp, to catch the point) : 1 meaning(s), 2 sentences
 - `yt-c12-073` : ลงจอด (to land (aircraft, helicopter)) : 1 meaning(s), 2 sentences
