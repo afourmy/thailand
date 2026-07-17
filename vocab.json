@@ -134986,7 +134986,7 @@
   {
     "id": "yt-c06-073",
     "thai": "สายศิลป์",
-    "english": "art track in high school (~ section ES, L)",
+    "english": "art track in high school",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -134995,7 +134995,7 @@
   {
     "id": "yt-c06-074",
     "thai": "สายวิทย์",
-    "english": "science track in high school (~ section S)",
+    "english": "science track in high school",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -135496,7 +135496,7 @@
   {
     "id": "yt-c06-094",
     "thai": "อาหารชาววัง",
-    "english": "royal cuisine, food beautifully prepared and presented (literally food for people of the palace)",
+    "english": "royal cuisine, food beautifully prepared and presented (literally \"palace food\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -136139,7 +136139,7 @@
   {
     "id": "yt-c07-024",
     "thai": "โดนเติมเต็ม",
-    "english": "to be fulfilled, made whole",
+    "english": "to be fulfilled, to be made whole",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -136324,9 +136324,18 @@
     ]
   },
   {
-    "id": "yt-c07-034",
-    "thai": "โซ่หย่อน - โซ่ขาด",
-    "english": "loose chain - broken chain (on a motosai)",
+    "id": "new-65",
+    "thai": "โซ่หย่อน",
+    "english": "loose chain (e.g motorbike)",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-66",
+    "thai": "โซ่ขาด",
+    "english": "broken chain (e.g motorbike)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -136395,7 +136404,7 @@
   {
     "id": "yt-c07-037",
     "thai": "ภูมิปัญญา",
-    "english": "wisdom, knowledge",
+    "english": "wisdom, traditional knowledge",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -136433,7 +136442,7 @@
   {
     "id": "yt-c07-039",
     "thai": "ระบบสาธารณสุข",
-    "english": "Public Health System",
+    "english": "public health system, healthcare system",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -136442,7 +136451,7 @@
   {
     "id": "yt-c07-040",
     "thai": "รายหัว",
-    "english": "per capita",
+    "english": "per capita, per person",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -136630,7 +136639,7 @@
   {
     "id": "yt-c07-050",
     "thai": "อสุจิ",
-    "english": "sperm",
+    "english": "sperm, semen (formal, medical)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -136814,7 +136823,7 @@
   {
     "id": "yt-c07-059",
     "thai": "สื่อหลัก",
-    "english": "main media",
+    "english": "mainstream media",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -136899,7 +136908,7 @@
   {
     "id": "yt-c07-063",
     "thai": "เชื่อมโยง",
-    "english": "to associate, connect, link (e.g something abstract, idea, relations)",
+    "english": "to associate, to connect, to link (e.g something abstract, idea, relations)",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -136957,7 +136966,7 @@
   {
     "id": "yt-c07-068",
     "thai": "ตามอัธยาศัย",
-    "english": "as you please - according to your own preference",
+    "english": "as you please, according to your own preference",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -137333,7 +137342,7 @@
   {
     "id": "yt-c07-083",
     "thai": "สืบสาน",
-    "english": "to continue, inherit, carry on",
+    "english": "to preserve and pass on, to inherit and carry on (e.g tradition, culture, legacy)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -137427,7 +137436,7 @@
   {
     "id": "yt-c07-087",
     "thai": "ระนาด",
-    "english": "xylophone",
+    "english": "Thai xylophone",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -137598,9 +137607,18 @@
     ]
   },
   {
-    "id": "yt-c07-097",
-    "thai": "ทางราบ - ทางชัน",
-    "english": "flat road - steep road",
+    "id": "new-63",
+    "thai": "ทางราบ",
+    "english": "flat road",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-64",
+    "thai": "ทางชัน",
+    "english": "steep road",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -137965,7 +137983,7 @@
   {
     "id": "yt-c08-018",
     "thai": "ไสยศาสตร์",
-    "english": "black magic, superstition",
+    "english": "occult practices, magic arts",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -138085,7 +138103,7 @@
   {
     "id": "yt-c08-025",
     "thai": "อย่าลบหลู่",
-    "english": "don't be disrespectful, don't show irreverence",
+    "english": "\"don't be disrespectful\", \"don't show irreverence\" (especially towards sacred things)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -138119,15 +138137,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "yt-c08-027",
-    "thai": "เซ่นไหว้",
-    "english": "to make offering to a spirit",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
     ]
   },
   {
@@ -138967,7 +138976,7 @@
   {
     "id": "yt-c08-061",
     "thai": "เก็ง",
-    "english": "to speculate",
+    "english": "to speculate, to predict",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -138976,7 +138985,7 @@
   {
     "id": "yt-c08-062",
     "thai": "ทองรูปพรรณ",
-    "english": "jewelry, gold crafted into necklace, ring, etc",
+    "english": "gold jewelry, gold crafted into necklace, ring, etc",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -138985,7 +138994,7 @@
   {
     "id": "yt-c08-064",
     "thai": "กร่อน",
-    "english": "to corrode, corroded",
+    "english": "to corrode, to erode, to wear away",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -139059,7 +139068,7 @@
   {
     "id": "yt-c08-068",
     "thai": "จี้ตูด",
-    "english": "to tailgate (= to drive very close to vehicle in front)",
+    "english": "to tailgate (to drive very close to vehicle in front)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -139121,15 +139130,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "yt-c08-072",
-    "thai": "สับสวน",
-    "english": "to weave through traffic (often recklessly), cut into oncoming traffic",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
     ]
   },
   {
@@ -139318,8 +139318,8 @@
   },
   {
     "id": "yt-c08-080",
-    "thai": "ลาด - ลาดชัน",
-    "english": "slope - steep slope",
+    "thai": "ลาด",
+    "english": "slope",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -139622,7 +139622,7 @@
   {
     "id": "yt-c08-094",
     "thai": "สีคราม",
-    "english": "indigo",
+    "english": "indigo, deep blue",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -139632,7 +139632,7 @@
   {
     "id": "yt-c08-096",
     "thai": "เคราะห์",
-    "english": "fortune, fate",
+    "english": "misfortune, bad luck",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -139784,7 +139784,7 @@
   {
     "id": "yt-c09-004",
     "thai": "เบื้องลึกเบื้องหลัง",
-    "english": "behind the scene",
+    "english": "behind the scenes, the hidden details",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -139793,7 +139793,7 @@
   {
     "id": "yt-c09-005",
     "thai": "ความเป็นตัวเองสูง",
-    "english": "high self-esteem",
+    "english": "strong sense of self, highly independent",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -139870,7 +139870,7 @@
   {
     "id": "yt-c09-009",
     "thai": "ไม่ตรงปก",
-    "english": "(literally) doesn't match the cover (not what was expected, disappointing)",
+    "english": "not what was expected, disappointing (literally \"doesn't match the cover\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -139928,7 +139928,7 @@
   {
     "id": "yt-c09-013",
     "thai": "ศีล",
-    "english": "moral precept",
+    "english": "moral precept (Buddhism)",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -139976,7 +139976,7 @@
   {
     "id": "yt-c09-016",
     "thai": "ระเหย",
-    "english": "volatile; to evaporate",
+    "english": "to evaporate, to vaporize",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -139985,7 +139985,7 @@
   {
     "id": "yt-c09-018",
     "thai": "ทะลึ่ง",
-    "english": "naughty, indecent; cheeky, rude, impudent",
+    "english": "naughty, indecent, impudent",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -140135,8 +140135,8 @@
   },
   {
     "id": "yt-c09-028",
-    "thai": "เวทมนตร์, คาถา",
-    "english": "sacred chant, sacred spell",
+    "thai": "คาถา",
+    "english": "sacred spell, incantation",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -140145,7 +140145,7 @@
   {
     "id": "yt-c09-029",
     "thai": "เซ่น, เซ่นไหว้",
-    "english": "to make offerings to a spirit",
+    "english": "to perform a ritual offering (e.g to spirits, gods, ancestors)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -140154,7 +140154,7 @@
   {
     "id": "yt-c09-030",
     "thai": "ขลัง",
-    "english": "magical, enchanted",
+    "english": "magical, enchanted, imbued with magical power",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -140624,7 +140624,7 @@
   {
     "id": "yt-c09-054",
     "thai": "เลื่อมใส",
-    "english": "to admire, revere, respect deeply",
+    "english": "to admire deeply, to revere",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -140633,7 +140633,7 @@
   {
     "id": "yt-c09-055",
     "thai": "ตรอมใจ",
-    "english": "deeply affected, heart-broken",
+    "english": "deeply affected, heart-broken, devastated",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -140837,18 +140837,9 @@
     ]
   },
   {
-    "id": "yt-c09-064",
-    "thai": "เฮี้ยน",
-    "english": "haunted, possessed",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c09-065",
     "thai": "สลาย, สูญสลาย",
-    "english": "to disintegrate, dissolve, disappear completely",
+    "english": "to disintegrate, to dissolve, to disappear completely",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -140885,8 +140876,8 @@
   },
   {
     "id": "yt-c09-067",
-    "thai": "การตัดขาด",
-    "english": "severance, cutting of ties",
+    "thai": "ตัดขาด",
+    "english": "to sever ties, to cut off completely",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -140895,7 +140886,7 @@
   {
     "id": "yt-c09-068",
     "thai": "เยื่อใย",
-    "english": "tie, bond",
+    "english": "emotional attachment, affection, lingering feelings, tie, bond",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141084,7 +141075,7 @@
   {
     "id": "yt-c09-076",
     "thai": "บ่วง",
-    "english": "loop",
+    "english": "snare, noose, trap (binding attachment)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141120,7 +141111,7 @@
   {
     "id": "yt-c09-081",
     "thai": "อาลัย",
-    "english": "grief, mourning",
+    "english": "to mourn, to grieve",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141160,7 +141151,7 @@
   {
     "id": "yt-c09-083",
     "thai": "แช่ง, สาปแช่ง",
-    "english": "to curse, damn, invoke misfortune on someone",
+    "english": "to curse, to damn, to invoke misfortune on someone",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141295,7 +141286,7 @@
   {
     "id": "yt-c09-090",
     "thai": "กลัด",
-    "english": "to fasten, attach, pin",
+    "english": "to pin, to fasten with a pin",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141332,7 +141323,7 @@
   {
     "id": "yt-c09-092",
     "thai": "หน่วง",
-    "english": "to delay, hold back, weigh down on",
+    "english": "to delay, to hold back, to weigh down on",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141400,7 +141391,7 @@
   {
     "id": "yt-c09-095",
     "thai": "ล้ำเส้น",
-    "english": "to cross the line, overstep boundary, be intrusive",
+    "english": "to cross the line, to overstep a boundary, to be intrusive",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141409,7 +141400,7 @@
   {
     "id": "yt-c09-096",
     "thai": "มั่วซั่ว",
-    "english": "carelessly, recklessly, haphazardly",
+    "english": "carelessly, recklessly, haphazardly, done without order or knowledge",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -141751,7 +141742,7 @@
   {
     "id": "yt-c10-013",
     "thai": "ปลอดโปร่ง",
-    "english": "bright, unclouded; (figuratively) serene, free from wories",
+    "english": "clear, unobstructed, unclouded; (figuratively) serene, free from worries",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142042,7 +142033,7 @@
   {
     "id": "yt-c10-031",
     "thai": "เปรียบมวย",
-    "english": "to compare rivals (two fighters in muay thai, or can be used for any other activity)",
+    "english": "to compare strength, abilities, to size up opponents (two fighters in muay thai, or can be used for any other activity)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142051,7 +142042,7 @@
   {
     "id": "yt-c10-032",
     "thai": "มวยรอง",
-    "english": "unfavored boxer; (figuratively) underdog, less favored competitor",
+    "english": "underdog, less favored competitor (literally \"unfavored boxer\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142091,7 +142082,7 @@
   {
     "id": "yt-c10-034",
     "thai": "มวยต่อ",
-    "english": "favored boxer; (figuratively) someone in a position of advantage (e.g better support, resources, chances)",
+    "english": "favorite, someone in a position of advantage (literally \"favored boxer\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142264,7 +142255,7 @@
   {
     "id": "yt-c10-042",
     "thai": "ถึงเนื้อถึงตัว",
-    "english": "to get physical, physical contact; to get intimate, intimate contact",
+    "english": "to get physical, to get intimate, intimate contact",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142604,7 +142595,7 @@
   {
     "id": "yt-c10-056",
     "thai": "อูมามิ",
-    "english": "fifth type of taste, distinct from sweet, sour, salty, and bitter",
+    "english": "fifth type of taste, distinct from sweet, sour, salty, and bitter (loanword from japanese)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142774,7 +142765,7 @@
   {
     "id": "yt-c10-069",
     "thai": "เสน่หา",
-    "english": "affection",
+    "english": "affection, love, romantic attraction",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142783,7 +142774,7 @@
   {
     "id": "yt-c10-070",
     "thai": "สรรพากร",
-    "english": "Revenue Department (taxation authority)",
+    "english": "Revenue Department (tax authority)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142913,7 +142904,7 @@
   {
     "id": "yt-c10-078",
     "thai": "คล้องคอ",
-    "english": "to hang around the neck",
+    "english": "to hang around the neck, to wear something around the neck",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -142922,7 +142913,7 @@
   {
     "id": "yt-c10-079",
     "thai": "โดนตก",
-    "english": "to be hooked on something, swept in (slang)",
+    "english": "to be hooked on something, to be swept in (slang)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143191,7 +143182,7 @@
   {
     "id": "yt-c10-089",
     "thai": "ใจบาง",
-    "english": "soft-hearted, easily moved, affected; easily scared, intimidated (literally \"thin-hearted\")",
+    "english": "soft-hearted, easily moved, affected (literally \"thin-hearted\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143200,16 +143191,7 @@
   {
     "id": "yt-c10-090",
     "thai": "ลงสนาม",
-    "english": "to enter the field; (figuratively) to enter the love game, to look for a partner, for love",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c10-091",
-    "thai": "เล็มหญ้าหมดสนาม",
-    "english": "to grab it all, to take everything (literally \"graze all the grass in the field\")",
+    "english": "to enter the field, to take part in a competition (e.g in love)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143218,7 +143200,7 @@
   {
     "id": "yt-c10-092",
     "thai": "เล็ม",
-    "english": "to trim lightly, truncate, clip a little bit; to nibble, to eat a little, bit by bit",
+    "english": "to trim lightly, to clip a little bit, to nibble, to eat bit by bit",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143245,8 +143227,8 @@
   },
   {
     "id": "yt-c10-095",
-    "thai": "ข้อพิพาท, กรณีพิพาท",
-    "english": "dispute, conflict, quarrel",
+    "thai": "ข้อพิพาท",
+    "english": "dispute, conflict, point of contention",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143264,7 +143246,7 @@
   {
     "id": "yt-c10-097",
     "thai": "ข่มขี่",
-    "english": "to oppress, dominate, tyranize",
+    "english": "to oppress, to dominate, to tyrannize",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143301,7 +143283,7 @@
   {
     "id": "yt-c10-099",
     "thai": "แยกแยะ",
-    "english": "to differentiate, tell apart, distinguish",
+    "english": "to differentiate, to tell apart, to distinguish",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -143620,7 +143602,7 @@
   {
     "id": "yt-c11-011",
     "thai": "จานบิน",
-    "english": "UFO",
+    "english": "UFO (literally \"flying plate\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143697,7 +143679,7 @@
   {
     "id": "yt-c11-013",
     "thai": "ติดตา",
-    "english": "stuck in one's mind, to persist, imprinted in one's eyes",
+    "english": "stuck in one's mind, imprinted in one's eyes",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143706,7 +143688,7 @@
   {
     "id": "yt-c11-014",
     "thai": "เบาบาง",
-    "english": "sparse, scattered, meager, thin",
+    "english": "sparse, scattered, to thin out, to become less dense",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143785,7 +143767,7 @@
   {
     "id": "yt-c11-019",
     "thai": "กระดก",
-    "english": "to tilt, tilted, to lift slightly",
+    "english": "to tilt up, to lift slightly",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -143794,7 +143776,7 @@
   {
     "id": "yt-c11-020",
     "thai": "สบู่อาบน้ำสูตรเย็น, ยาสระผมสูตรเย็น",
-    "english": "cooling shower gel or shampoo to feel fresh (with menthol)",
+    "english": "cooling formula shower gel or shampoo to feel fresh (with menthol)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -144320,7 +144302,7 @@
   {
     "id": "yt-c11-043",
     "thai": "โขลง",
-    "english": "herd (of large animals, e.g elephants)",
+    "english": "herd (of elephants)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -144329,7 +144311,7 @@
   {
     "id": "yt-c11-044",
     "thai": "ประจำการ",
-    "english": "regular duty, official position, on duty",
+    "english": "to be on duty, to be deployed (military)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -144366,7 +144348,7 @@
   {
     "id": "yt-c11-046",
     "thai": "ทารุณ",
-    "english": "inhuman, cruel",
+    "english": "inhuman, cruel, to mistreat, to abuse",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -144581,7 +144563,7 @@
   {
     "id": "yt-c11-055",
     "thai": "ข่มเหง",
-    "english": "to oppress, mistreat",
+    "english": "to oppress, to bully, to abuse",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -144656,7 +144638,7 @@
   {
     "id": "yt-c11-059",
     "thai": "ประยุกต์",
-    "english": "to apply, to adapt; adapted",
+    "english": "to apply, to adapt, to modify for practical use",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -145293,7 +145275,7 @@
   {
     "id": "yt-c11-086",
     "thai": "สิ้นคิด",
-    "english": "out of ideas, at a loss",
+    "english": "out of ideas, at a loss, desperate",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -145330,7 +145312,7 @@
   {
     "id": "yt-c11-088",
     "thai": "โคลง",
-    "english": "to sway, to move back and forth; unstable, wobbly",
+    "english": "to sway, to move back and forth, unstable, wobbly",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -145338,8 +145320,8 @@
   },
   {
     "id": "yt-c11-089",
-    "thai": "ดาวเคราะห์ - ดาวฤกษ์",
-    "english": "planet (does not emit light) - star, constellation (does emit light)",
+    "thai": "ดาวฤกษ์",
+    "english": "star",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -145685,7 +145667,7 @@
   {
     "id": "yt-c12-006",
     "thai": "อุทิศ",
-    "english": "to devote, dedicate, offer (something abstract, spiritual, like offering \"merit\")",
+    "english": "to devote, to dedicate, to offer (something abstract e.g time, life, effort)",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -145751,7 +145733,7 @@
   {
     "id": "yt-c12-010",
     "thai": "ประโลม",
-    "english": "to soothe, ease, comfort, console",
+    "english": "to soothe, to comfort, to console",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -145760,7 +145742,7 @@
   {
     "id": "yt-c12-011",
     "thai": "ตาสว่าง",
-    "english": "to realize the truth, wake up to reality, have your eyes opened (literally \"bright eyes\")",
+    "english": "to realize the truth, to wake up to reality, to have your eyes opened (literally \"bright eyes\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -146314,7 +146296,7 @@
   {
     "id": "yt-c12-034",
     "thai": "คนไม่เต็ม",
-    "english": "said about someone weird, crazy, mentally unstable",
+    "english": "someone weird, crazy, mentally unstable",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -146422,7 +146404,7 @@
   {
     "id": "yt-c12-039",
     "thai": "วาสนา",
-    "english": "fate, destiny (spiritual, karmic sense)",
+    "english": "fate, destiny (spiritual, karmic sense: merit from past lives)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -146466,15 +146448,6 @@
     ]
   },
   {
-    "id": "yt-c12-043",
-    "thai": "ผจญ",
-    "english": "to face, to encounter (something challenging or dangerous)",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c12-044",
     "thai": "เหี้ย, ตัวเงินตัวทอง, วรนุช",
     "english": "monitor lizard",
@@ -146505,7 +146478,7 @@
   {
     "id": "yt-c12-045",
     "thai": "ชิ้นเอก",
-    "english": "masterpiece, finest, most important part of a collection",
+    "english": "masterpiece, magnum opus, most important part of a collection",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -146551,7 +146524,7 @@
   {
     "id": "yt-c12-048",
     "thai": "ท้อถอย",
-    "english": "to give up, to no longer want to do something (literary)",
+    "english": "to give up, to become discouraged, to no longer want to do something (literary)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -146625,7 +146598,7 @@
   {
     "id": "yt-c12-052",
     "thai": "นัย",
-    "english": "(underlying) meaning, undertone",
+    "english": "underlying meaning, implication, undertone",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -146635,7 +146608,7 @@
   {
     "id": "yt-c12-053",
     "thai": "เอาเรื่อง",
-    "english": "troublesome, problematic; tough, impressive",
+    "english": "tough, impressive, not to be underestimated",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -146819,7 +146792,7 @@
   {
     "id": "yt-c12-060",
     "thai": "แปลงร่าง",
-    "english": "to change form, shapeshift, transfigure",
+    "english": "to change form, to metamorphose",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -146829,15 +146802,6 @@
     "id": "yt-c12-061",
     "thai": "ชุดเกราะ",
     "english": "armor",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c12-062",
-    "thai": "เกือก",
-    "english": "hoof, shoes worn by horses or other animals; (figuratively) footwear, shoes",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -147097,7 +147061,7 @@
   {
     "id": "yt-c12-072",
     "thai": "ขัดข้องใจ",
-    "english": "to feel conflicted, troubled",
+    "english": "conflicted, troubled, to feel something is not right",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -147189,8 +147153,8 @@
   },
   {
     "id": "yt-c12-077",
-    "thai": "คว้าง - เคว้งคว้าง",
-    "english": "to swing, uncontrolled free-swinging motion, lost - adrift, lost, wandering aimlessly",
+    "thai": "เคว้งคว้าง",
+    "english": "adrift, lost (e.g feelings, emotions)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -147626,7 +147590,7 @@
   {
     "id": "yt-c12-096",
     "thai": "ชะโงก",
-    "english": "to peep, to peek forward, to lean forward",
+    "english": "to stretch out to look, to poke one's head out, to peek forward",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -147635,7 +147599,7 @@
   {
     "id": "yt-c12-097",
     "thai": "กะลา",
-    "english": "shell of a coconut",
+    "english": "coconut shell",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -147930,7 +147894,7 @@
   {
     "id": "yt-c13-009",
     "thai": "เจียมตัว",
-    "english": "to know one's place, to be aware of one's position (e.g social status)",
+    "english": "to know one's place, to be humble, to be aware of one's position (e.g social status)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -147984,9 +147948,18 @@
     ]
   },
   {
-    "id": "yt-c13-013",
-    "thai": "เสียงใส - เสียงทุ้ม",
-    "english": "clear voice, high-pitched voice - deep voice, low-pitched voice",
+    "id": "new-61",
+    "thai": "เสียงใส",
+    "english": "clear voice, high-pitched voice",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-62",
+    "thai": "เสียงทุ้ม",
+    "english": "deep voice, low-pitched voice",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148320,9 +148293,18 @@
     ]
   },
   {
-    "id": "yt-c13-028",
-    "thai": "หยากไย่ - ใยแมงมุม",
-    "english": "cobwebs (old spider webs) - spider web, spider silk",
+    "id": "new-59",
+    "thai": "หยากไย่",
+    "english": "cobweb, old spider web (e.g dusty ones in corners)",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-60",
+    "thai": "ใยแมงมุม",
+    "english": "spider web, spider silk",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148495,7 +148477,7 @@
   {
     "id": "yt-c13-035",
     "thai": "เคร่งขรึม",
-    "english": "very serious, stern, grave (literally \"strict + solemn, grave\")",
+    "english": "stern, solemn, grave, very serious",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148569,7 +148551,7 @@
   {
     "id": "yt-c13-039",
     "thai": "ผิงไฟ",
-    "english": "to warm oneself by a fire, stand near a fire for warmth",
+    "english": "to warm oneself by a fire, to stand near a fire for warmth",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148608,7 +148590,7 @@
   {
     "id": "yt-c13-041",
     "thai": "ฟันเหยิน",
-    "english": "protruding (sticking out) teeth",
+    "english": "protruding teeth, teeth sticking out",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148682,7 +148664,7 @@
   {
     "id": "yt-c13-045",
     "thai": "เตาฟืน",
-    "english": "wood stove (for cooking)",
+    "english": "wood-burning stove, firewood stove (e.g in rural context)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148721,9 +148703,18 @@
     ]
   },
   {
-    "id": "yt-c13-047",
-    "thai": "โคจร - วงโคจร",
-    "english": "to orbit, to revolve around (e.g planet) - orbit (noun)",
+    "id": "new-57",
+    "thai": "โคจร",
+    "english": "to orbit, to revolve around (e.g planet)",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-58",
+    "thai": "วงโคจร",
+    "english": "orbit (celestial body)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148970,7 +148961,7 @@
   {
     "id": "yt-c13-059",
     "thai": "สง่าผ่าเผย",
-    "english": "imposing dignity (literally \"graceful and striking\", \"elegant and frank\")",
+    "english": "imposing dignity, commanding presence (literally \"graceful and striking\", \"elegant and frank\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -148979,7 +148970,7 @@
   {
     "id": "yt-c13-060",
     "thai": "มีตัวตน",
-    "english": "to exist, to have a real physical presence (unlike ghosts)",
+    "english": "to exist, to matter, to have a real physical presence (unlike ghosts)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -149342,7 +149333,7 @@
   {
     "id": "yt-c13-075",
     "thai": "เยิน",
-    "english": "worn out, tattered, shabby, in poor condition (e.g clothes, shoes, other objects)",
+    "english": "worn out, tattered, shabby, in poor condition (e.g clothes, shoes, reputation)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -149557,7 +149548,7 @@
   {
     "id": "yt-c13-083",
     "thai": "ติดแกลม",
-    "english": "likes to dress up, look fancy, (literally) addicted to glamorous",
+    "english": "someone who likes to dress up, look fancy (literally \"addicted to glamorous\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -149656,7 +149647,7 @@
   {
     "id": "yt-c13-087",
     "thai": "เงินอัดฉีด",
-    "english": "bonus money, reward money, sponsorship money given to athletes (literally \"money + to inject, to pump in\")",
+    "english": "bonus money, incentive money, sponsorship money (literally \"money + to inject, to pump in\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -149769,7 +149760,7 @@
   {
     "id": "yt-c13-094",
     "thai": "โป๊เปลือย",
-    "english": "naked (literally \"nude, exposed + bare, unclothed\")",
+    "english": "completely naked, nude",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -149974,7 +149965,7 @@
   {
     "id": "yt-c14-004",
     "thai": "หนทาง",
-    "english": "way, path, road",
+    "english": "way, path, means",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -150516,7 +150507,7 @@
   {
     "id": "yt-c14-027",
     "thai": "ปะติดปะต่อ",
-    "english": "to patch together, to assemble; (figuratively) to piece together (figure something out by combining information)",
+    "english": "to piece together, to figure something out by combining information",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -150591,7 +150582,7 @@
   {
     "id": "yt-c14-031",
     "thai": "ขี้เซา",
-    "english": "someone who falls asleep easily (e.g morning, after lunch), drowsy",
+    "english": "someone who sleeps a lot, is hard to wake up",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -150731,7 +150722,7 @@
   {
     "id": "yt-c14-038",
     "thai": "เยียวยา",
-    "english": "to heal, remedy, provide relief",
+    "english": "to heal, to remedy, to provide relief (e.g medical, government compensation, etc)",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -151049,7 +151040,7 @@
   {
     "id": "yt-c14-056",
     "thai": "พรหมจรรย์",
-    "english": "virginity (said of girls only), abstinence from sexual activity",
+    "english": "virginity (said of girls only), chastity, abstinence from sexual activity (Buddhism)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -151067,7 +151058,7 @@
   {
     "id": "yt-c14-059",
     "thai": "เฉดหัว",
-    "english": "to shave someone's head; (figuratively) to expel, get rid of, boot out (someone)",
+    "english": "to kick out, to chase away, to get rid of (someone)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -151200,7 +151191,7 @@
   {
     "id": "yt-c14-065",
     "thai": "สัญชาตญาณดิบ",
-    "english": "raw instinct, animal instinct",
+    "english": "primal instinct, raw instinct, animal instinct",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -151237,16 +151228,7 @@
   {
     "id": "yt-c14-067",
     "thai": "ชิงสุกก่อนห่าม",
-    "english": "to rush a process, be hasty, act before the proper time (literally \"compete ripe before unripe\") (example: have sex before marriage)",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c14-068",
-    "thai": "ห่าม",
-    "english": "(fruit) unripe; (figuratively) immature, premature",
+    "english": "to rush a process, to act before the proper time (especially having sex before marriage) (literally \"compete ripe before unripe\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -151448,7 +151430,7 @@
   {
     "id": "yt-c14-075",
     "thai": "พูดไม่ทันขาดคำ",
-    "english": "when you mention something or someone and it suddenly appears (~ \"speak of the devil\")",
+    "english": "when you mention something or someone and it suddenly appears (\"speak of the devil\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -151457,7 +151439,7 @@
   {
     "id": "yt-c14-078",
     "thai": "ซา",
-    "english": "to fade, subside, die down",
+    "english": "to fade, to subside, to die down",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -151551,7 +151533,7 @@
   {
     "id": "yt-c14-081",
     "thai": "หน้าเลือด",
-    "english": "bold, aggressive, greedy, likes to squeeze every advantage",
+    "english": "ruthless, greedy, exploitative, likes to squeeze every advantage",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -151560,7 +151542,7 @@
   {
     "id": "yt-c14-082",
     "thai": "ตาถั่ว",
-    "english": "clueless, slow to notice things, inattentive (literally \"eyes nut\" = can't see well)",
+    "english": "clueless, blind to something, slow to notice something obvious (literally \"eyes nut\" = can't see well)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -152434,7 +152416,7 @@
   {
     "id": "yt-c15-020",
     "thai": "เอ๊าะๆ",
-    "english": "cute, sweet (onomatopeia)",
+    "english": "young and fresh, cute, sweet",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -152502,8 +152484,8 @@
   },
   {
     "id": "yt-c15-023",
-    "thai": "ราดน้ำ - กดชักโครก",
-    "english": "to pour water (manually flush) - to flush the toilet (press the flush button)",
+    "thai": "กดชักโครก",
+    "english": "to flush the toilet (press the flush button)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -152684,7 +152666,7 @@
   {
     "id": "yt-c15-030",
     "thai": "ไหว้ย่อ",
-    "english": "special \"wai\" where you bow very low, to show a lot of respect (e.g teacher, parents, etc)",
+    "english": "special wai where you slightly bend your knees while bowing, showing extra respect (e.g teachers, elders, etc)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -152852,7 +152834,7 @@
   {
     "id": "yt-c15-039",
     "thai": "วีรกรรม",
-    "english": "deeds, exploits, notable actions",
+    "english": "heroic deeds, exploits, notable actions",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -152968,8 +152950,8 @@
   },
   {
     "id": "yt-c15-045",
-    "thai": "หยุม - หยุมผม",
-    "english": "to grab, pinch, pull (usually with fingers) - to pull one's hair",
+    "thai": "หยุมหัว",
+    "english": "to pull someone's hair",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -153034,7 +153016,7 @@
   {
     "id": "yt-c15-048",
     "thai": "แมวขโมย",
-    "english": "(expression) used jokingly to describe a sneaky person who quietly takes something or flirts (cheats) with someone else's wife",
+    "english": "(idiom) used jokingly to describe a sneaky person who quietly takes something",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -153042,8 +153024,8 @@
   },
   {
     "id": "yt-c15-049",
-    "thai": "แมวเปรต, เด็กเปรต",
-    "english": "(expression) bad, greedy, mischievous cat (or child)",
+    "thai": "เด็กเปรต",
+    "english": "bad, malicious, mischievous child (literally like \"ghost pret\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -153458,15 +153440,6 @@
     ]
   },
   {
-    "id": "yt-c15-068",
-    "thai": "โฮ่ง",
-    "english": "(gen Z slang) great, excellent",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c15-069",
     "thai": "ปัง, ปั๊วะ, ปั๊วะปัง",
     "english": "amazing, impressive, excellent, very pretty",
@@ -153797,8 +153770,8 @@
   },
   {
     "id": "yt-c15-084",
-    "thai": "กระบอง - กระบองไฟ",
-    "english": "baton, staff, club - fire staff (used in fire show)",
+    "thai": "กระบอง",
+    "english": "baton, staff, club",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -154053,16 +154026,25 @@
   {
     "id": "yt-c15-099",
     "thai": "จิกหมอน",
-    "english": "(fandom slang) to scream into one's pillow (feeling excited, very happy), to feel cuteness overload from a romantic scene, \"can't handle how sweet it is\"",
+    "english": "(fandom slang) to swoon, to scream into one's pillow (feeling excited, very happy), to feel cuteness overload from a romantic scene, \"can't handle how sweet it is\"",
     "frequency": "occasional",
     "sources": [
       "YouTube"
     ]
   },
   {
-    "id": "yt-c16-000",
-    "thai": "บริบูรณ์ - จบบริบูรณ์",
-    "english": "fully finished, nothing is missing, complete, perfect, \"not less, not more\" - \"The end\" (used at the end of a movie, drama, etc)",
+    "id": "new-55",
+    "thai": "บริบูรณ์",
+    "english": "fully finished, nothing is missing, complete, perfect",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-56",
+    "thai": "จบบริบูรณ์",
+    "english": "\"The end\" (used at the end of a movie, drama, etc)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -154183,7 +154165,7 @@
   {
     "id": "yt-c16-007",
     "thai": "ตายผ่อนส่ง",
-    "english": "to die little by little (literally: by installment)",
+    "english": "to die little by little (literally \"by installment\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -154307,18 +154289,9 @@
     ]
   },
   {
-    "id": "yt-c16-013",
-    "thai": "ขก (ขี้เกียจ)",
-    "english": "lazy (online abbreviation)",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c16-026",
-    "thai": "ปสด (ประสาทแดก)",
-    "english": "said about someone who acts crazy, behaves badly (insult) (online abbreviation)",
+    "thai": "ประสาทแดก",
+    "english": "to act crazy, to lose one's mind (slang, rude)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -154327,7 +154300,7 @@
   {
     "id": "yt-c16-030",
     "thai": "ควย",
-    "english": "(very rude) dick (penis)",
+    "english": "dick (slang, rude)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -154345,7 +154318,7 @@
   {
     "id": "yt-c16-032",
     "thai": "ลบหลู่",
-    "english": "to disrespect, defy, insult (e.g elders, the gods, etc)",
+    "english": "to disrespect, to insult (e.g elders, the gods, etc)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -154597,7 +154570,7 @@
   {
     "id": "yt-c16-042",
     "thai": "ความถี่",
-    "english": "frequency",
+    "english": "frequency (technical term)",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -154738,15 +154711,6 @@
     ]
   },
   {
-    "id": "yt-c16-049",
-    "thai": "เวี่ยง",
-    "english": "crazy, wild, super fun",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c16-050",
     "thai": "ตกตะกอน",
     "english": "to precipitate (when solid particles in a liquid settle at the bottom); (figuratively) to settle down, to become clear over time (e.g emotions)",
@@ -154805,7 +154769,7 @@
   {
     "id": "yt-c16-052",
     "thai": "นัยยะ",
-    "english": "(literary) deeper hidden meaning, hidden significance",
+    "english": "deeper hidden meaning, hidden significance (literary)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -154958,7 +154922,7 @@
   {
     "id": "yt-c16-057",
     "thai": "ทัศนวิสัย",
-    "english": "visibility (e.g weather reports, aviation, etc)",
+    "english": "visibility, visual conditions (e.g weather reports, aviation, etc)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -155734,7 +155698,7 @@
   {
     "id": "yt-c16-087",
     "thai": "ชั่วอายุคน",
-    "english": "lifetime, lifespan",
+    "english": "lifetime, lifespan, one generation",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -155827,7 +155791,7 @@
   {
     "id": "yt-c16-091",
     "thai": "โดยปริยาย",
-    "english": "\"(to happen) automatically as a consequence\", by implication",
+    "english": "\"automatically as a consequence\", by implication",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -156044,7 +156008,7 @@
   {
     "id": "yt-c17-003",
     "thai": "ยุบ",
-    "english": "to collapse, sink down, shrink down, deflate (idea of going inward)",
+    "english": "to collapse, to sink down, to shrink down, to deflate (idea of going inward)",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -156072,7 +156036,7 @@
   {
     "id": "yt-c17-006",
     "thai": "เยาะ, เยาะเย้ย",
-    "english": "to mock, ridicule, make fun of someone in an insulting way",
+    "english": "to mock, to ridicule, to make fun of someone in an insulting way",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -156149,7 +156113,7 @@
   {
     "id": "yt-c17-010",
     "thai": "วิวาท",
-    "english": "to brawl, quarrel, engage in a conflict",
+    "english": "to brawl, to quarrel, to engage in a conflict",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -156514,7 +156478,7 @@
   {
     "id": "yt-c17-027",
     "thai": "ค่าคลอดบุตร",
-    "english": "maternity allowance",
+    "english": "maternity delivery fee",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -156834,7 +156798,7 @@
   {
     "id": "yt-c17-043",
     "thai": "แก้ตัวน้ำขุ่นๆ",
-    "english": "to make a weak or unclear excuse, to dodge responsibility without being fully honest (literally \"murky water excuse\")",
+    "english": "to make a lame excuse, to dodge responsibility without being fully honest (literally \"murky water excuse\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -156968,7 +156932,7 @@
   {
     "id": "yt-c17-049",
     "thai": "สำนักศึกษา",
-    "english": "academy, institution to learn something",
+    "english": "academy, educational institution",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -156986,7 +156950,7 @@
   {
     "id": "yt-c17-051",
     "thai": "สัมมาคารวะ",
-    "english": "appropriate respect, proper reverence (shown to elders, etc)",
+    "english": "appropriate respect, good manners, proper reverence (shown to elders, etc)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -156995,7 +156959,7 @@
   {
     "id": "yt-c17-052",
     "thai": "ร่ำเรียน",
-    "english": "to study diligently, to pursue learning seriously (\"ram\" conveys the idea of doing something repeatedly)",
+    "english": "to study diligently, to pursue learning seriously",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157081,7 +157045,7 @@
   {
     "id": "yt-c17-057",
     "thai": "พลัดพราก",
-    "english": "to be separated from someone (painfully, unwillingly), to be torn apart",
+    "english": "to be separated from someone (painfully, unwillingly), to be torn apart by fate, circumstance, or death",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157146,7 +157110,7 @@
   {
     "id": "yt-c17-060",
     "thai": "แอบอ้าง",
-    "english": "to impersonate, falsely claim, act under a false identity",
+    "english": "to impersonate, to falsely claim, to act under a false identity",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157304,9 +157268,18 @@
     ]
   },
   {
-    "id": "yt-c17-066",
-    "thai": "มดลูก - ครรภ์",
-    "english": "(normal) womb - (formal, medical) womb",
+    "id": "new-53",
+    "thai": "มดลูก",
+    "english": "uterus, womb",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-54",
+    "thai": "ครรภ์",
+    "english": "womb (formal, medical)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157466,7 +157439,7 @@
   {
     "id": "yt-c17-074",
     "thai": "เอื้ออำนวย",
-    "english": "to facilitate, to support, to be conducive to (formal)",
+    "english": "to facilitate, to support, to make possible (formal)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157484,7 +157457,7 @@
   {
     "id": "yt-c17-076",
     "thai": "เปี่ยม, เปี่ยมไปด้วย",
-    "english": "(literary) full of, overflowing with",
+    "english": "full of, overflowing with (literary)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157524,7 +157497,7 @@
   {
     "id": "yt-c17-079",
     "thai": "จำนน",
-    "english": "to surrender, yield, give in",
+    "english": "to surrender, to yield, to give in",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157583,7 +157556,7 @@
   {
     "id": "yt-c17-083",
     "thai": "ทัดทาน",
-    "english": "to object, dissuade, advise against",
+    "english": "to object, to oppose, to try to stop",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157592,7 +157565,7 @@
   {
     "id": "yt-c17-084",
     "thai": "เชือดเฉือน",
-    "english": "to cut into, slice away, erode",
+    "english": "to cut into, to slice, to slash",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157724,7 +157697,7 @@
   {
     "id": "yt-c17-091",
     "thai": "ตั้งสติ",
-    "english": "to calm down, regain composure, get your mind under control",
+    "english": "to calm down, to regain composure, to get your mind under control",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157930,7 +157903,7 @@
   {
     "id": "yt-c18-000",
     "thai": "จุดศูนย์กลาง",
-    "english": "epicenter (earthquake)",
+    "english": "center point, epicenter (e.g earthquake)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -157966,8 +157939,8 @@
   },
   {
     "id": "yt-c18-003",
-    "thai": "โยธา (วิศวกรรมโยธา)",
-    "english": "Civil Engineering",
+    "thai": "วิศวกรรมโยธา",
+    "english": "civil engineering",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -158004,7 +157977,7 @@
   {
     "id": "yt-c18-005",
     "thai": "ความแหวกแนว",
-    "english": "unconventionality, originality, uniqueness",
+    "english": "unconventionality, originality, being different from the norm",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -158211,16 +158184,25 @@
   {
     "id": "yt-c18-016",
     "thai": "ขอผ่อนผัน",
-    "english": "to request an extension; to ask for leniency",
+    "english": "to request an extension, to ask for leniency",
     "frequency": "occasional",
     "sources": [
       "YouTube"
     ]
   },
   {
-    "id": "yt-c18-017",
-    "thai": "เหล่าทัพ - สามเหล่าทัพ",
-    "english": "army, armed forces branch - the 3 armed forces branches (land, navy, air force)",
+    "id": "new-51",
+    "thai": "เหล่าทัพ",
+    "english": "army, armed forces branch",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-52",
+    "thai": "สามเหล่าทัพ",
+    "english": "the 3 armed forces branches (land, navy, air force)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -158410,7 +158392,7 @@
   {
     "id": "yt-c18-025",
     "thai": "จับใบดำใบแดง",
-    "english": "(army lottery) to draw lots, to draw black (exempted) or red (conscripted) ballot",
+    "english": "to draw lots in the military conscription lottery, to draw black (exempted) or red (conscripted) ballot",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -158505,7 +158487,7 @@
   {
     "id": "yt-c18-029",
     "thai": "วัตถุแปลกปลอม",
-    "english": "foreign object (something that doesn't belong)",
+    "english": "foreign object, foreign body (something that doesn't belong)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -158728,9 +158710,18 @@
     ]
   },
   {
-    "id": "yt-c18-039",
-    "thai": "บำเหน็จ - บำนาญ",
-    "english": "(for Thai civil servant) lump-sum retirement payment (paid once) - pension (paid monthly for life)",
+    "id": "new-49",
+    "thai": "บำเหน็จ",
+    "english": "(for Thai civil servant) lump-sum retirement payment (paid once)",
+    "frequency": "occasional",
+    "sources": [
+      "YouTube"
+    ]
+  },
+  {
+    "id": "new-50",
+    "thai": "บำนาญ",
+    "english": "pension (paid monthly for life)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -158768,7 +158759,7 @@
   {
     "id": "yt-c18-041",
     "thai": "เจ้ายศเจ้าอย่าง",
-    "english": "overly concerned with rank and status, acts superior because of title or position",
+    "english": "snobbish, overly concerned with rank and status, acts superior because of title or position",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -159017,7 +159008,7 @@
   {
     "id": "yt-c18-053",
     "thai": "จอบ",
-    "english": "hoe",
+    "english": "hoe (digging tool)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -159026,7 +159017,7 @@
   {
     "id": "yt-c18-054",
     "thai": "กรรไกรตัดแต่งกิ่ง",
-    "english": "pruning shears",
+    "english": "pruning shears, garden scissors for cutting branches",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -159191,7 +159182,7 @@
   {
     "id": "yt-c18-061",
     "thai": "สูบฉีด",
-    "english": "to pump (e.g heart pumping blood, pump water into a tank, etc)",
+    "english": "to pump (e.g heart pumping blood, pump water into a tank, etc), to stimulate (e.g economy)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -159267,7 +159258,7 @@
   {
     "id": "yt-c18-066",
     "thai": "ทิ้งๆ ขว้างๆ",
-    "english": "to treat carelessly, neglect, discard casually",
+    "english": "to treat carelessly, to discard casually, wastefully, without taking care",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -159337,7 +159328,7 @@
   {
     "id": "yt-c18-070",
     "thai": "...กันตาย",
-    "english": "for survival, as a last resort (literally \"to keep from dying\")",
+    "english": "for survival, as a last resort, as a backup (literally \"to keep from dying\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -159658,7 +159649,7 @@
   },
   {
     "id": "yt-c18-083",
-    "thai": "ใช้เครื่องปั๊มหัวใจ",
+    "thai": "เครื่องปั๊มหัวใจ",
     "english": "defibrillator",
     "frequency": "occasional",
     "sources": [
@@ -159668,7 +159659,7 @@
   {
     "id": "yt-c18-084",
     "thai": "สารกระตุ้น",
-    "english": "doping substance",
+    "english": "doping substance, stimulant",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -159795,7 +159786,7 @@
   {
     "id": "yt-c18-089",
     "thai": "วิวัฒนาการ",
-    "english": "(formal) biological evolution",
+    "english": "evolution, development (formal)",
     "frequency": "occasional",
     "sources": [
       "YouTube",
@@ -159985,7 +159976,7 @@
   {
     "id": "yt-c18-097",
     "thai": "จอมบงการ",
-    "english": "master controller, dictator, someone who likes to control",
+    "english": "mastermind, puppet master, someone who likes to control",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160091,7 +160082,7 @@
   {
     "id": "yt-c19-002",
     "thai": "กระชั้นชิด",
-    "english": "very close, very near, to come very close; urgent, pressing, imminent",
+    "english": "very close, pressing, imminent",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160100,7 +160091,7 @@
   {
     "id": "yt-c19-003",
     "thai": "เลียบๆ เคียงๆ",
-    "english": "hovering around, circling around; \"beating around the bush\", \"speaking indirectly\"",
+    "english": "indirectly, subtly, hinting around, \"beating around the bush\", \"speaking indirectly\"",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160109,7 +160100,7 @@
   {
     "id": "yt-c19-004",
     "thai": "เลียบ",
-    "english": "to go around, to walk along the edge of",
+    "english": "to go around, to skirt, to walk along the edge of, to go alongside",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160118,7 +160109,7 @@
   {
     "id": "yt-c19-005",
     "thai": "หยั่ง",
-    "english": "to probe, gauge, measure the reach (or depth) of (e.g gauge a reaction, sound out public opinion)",
+    "english": "to probe, to gauge, to measure the reach of (e.g gauge a reaction, sound out public opinion)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160166,7 +160157,7 @@
   {
     "id": "yt-c19-008",
     "thai": "ปะทะฝีปาก",
-    "english": "verbal clash, verbal confrontation, to argue verbally",
+    "english": "verbal clash, verbal confrontation, to argue verbally, to trade insults",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160249,7 +160240,7 @@
   {
     "id": "yt-c19-016",
     "thai": "จับต้นชนปลาย",
-    "english": "to put the pieces together",
+    "english": "to put the pieces together, to figure something out",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160427,7 +160418,7 @@
   {
     "id": "yt-c19-024",
     "thai": "โดนลูกหลง",
-    "english": "(literally) to be hit by a stray bullet; (figuratively) collateral damage, to be caught in the crossfire",
+    "english": "collateral damage, to be caught in the crossfire (literally \"to be hit by a stray bullet\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160454,7 +160445,7 @@
   {
     "id": "yt-c19-027",
     "thai": "แบกความหวัง, แบกรับความหวัง",
-    "english": "to carry the weight of hope, to shoulder others' expectations (e.g family)",
+    "english": "to bear the hopes, to shoulder others' expectations (e.g family) (literally \"to carry hope\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160569,7 +160560,7 @@
   {
     "id": "yt-c19-033",
     "thai": "อีตัว",
-    "english": "(vulgar, very rude) bitch, slut",
+    "english": "hooker, whore (vulgar, very rude)",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160943,8 +160934,8 @@
   },
   {
     "id": "yt-c19-048",
-    "thai": "ซบ - ซบอก",
-    "english": "to nestle - to lean (rest) one's head on someone's chest",
+    "thai": "ซบ",
+    "english": "to nestle, to rest one's head or body against",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -160953,7 +160944,7 @@
   {
     "id": "yt-c19-049",
     "thai": "หน้าชา",
-    "english": "(idiom) stunned, shocked (literally \"numb face\")",
+    "english": "(idiom) stunned, shocked, feeling humiliated (literally \"numb face\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -161251,15 +161242,6 @@
     ]
   },
   {
-    "id": "yt-c19-061",
-    "thai": "หน้าตัวเมีย - หน้าหี",
-    "english": "asshole, douchebag, guy that likes to cheat on girls, beat girls, behaves very bad towards girls (literally \"cunt-faced\") - same as first word, but very rude",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c19-062",
     "thai": "ขอคิดดูก่อน",
     "english": "\"let me think about it first\"",
@@ -161336,7 +161318,7 @@
   {
     "id": "yt-c19-065",
     "thai": "ไก่กา",
-    "english": "cheap, low quality (literally \"chicken + crow\")",
+    "english": "cheap, low quality, unimportant, insignificant",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -161501,7 +161483,7 @@
   {
     "id": "yt-c19-072",
     "thai": "เก้ง",
-    "english": "barking deer; (slang) gay, homosexual",
+    "english": "barking deer (type of small deer); (slang) gay, homosexual",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -161593,27 +161575,9 @@
     ]
   },
   {
-    "id": "yt-c19-078",
-    "thai": "ข้อศอกหมา",
-    "english": "(slang) ugly (literally \"dog's elbow\")",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c19-079",
     "thai": "สวยร้อยเมตร - หล่อร้อยเมตร",
     "english": "(slang) ugly girl - ugly guy (literally \"pretty from a hundred meters\")",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c19-080",
-    "thai": "หลักกิโล",
-    "english": "milestone; (slang, not very rude) a short person",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -161706,7 +161670,7 @@
   {
     "id": "yt-c19-085",
     "thai": "สาวพรหมจรรย์",
-    "english": "virgin girls",
+    "english": "virgin girl",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -161808,7 +161772,7 @@
   {
     "id": "yt-c19-090",
     "thai": "เล่นจ้ำจี้",
-    "english": "(slang) to grope, play with someone's private parts, finger, have sex",
+    "english": "(slang) to grope, to play with someone's private parts, to finger, to have sex (literally \"to play jam-jee, a children's counting game\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -161817,16 +161781,7 @@
   {
     "id": "yt-c19-091",
     "thai": "เล่นผีผ้าห่ม - เล่นผีผ้าห่มกันไหม",
-    "english": "(slang) to have sex (literally \"playing the blanket ghost\") - do you want to get laid ?",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c19-092",
-    "thai": "ทำการบ้าน",
-    "english": "to do one's homework; (informal) to have sex at home",
+    "english": "(slang) to have sex (literally \"playing the blanket ghost\")",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -161861,9 +161816,9 @@
     ]
   },
   {
-    "id": "yt-c19-094",
-    "thai": "เรื่องอย่างว่า - ผู้หญิงอย่างว่า",
-    "english": "one night stand - prostitute",
+    "id": "new-46",
+    "thai": "ผู้หญิงอย่างว่า",
+    "english": "prostitute, hooker",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -231513,15 +231468,6 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "t4k-c07-080",
-    "thai": "คาถา",
-    "english": "spell; magic",
-    "frequency": "occasional",
-    "sources": [
-      "Thai 4000"
     ]
   },
   {
