@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7078 words**
+**Total: 7088 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4157,12 +4157,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-031` : ใบลาน (palm leaf) : 1 meaning(s), 2 sentences
 - `yt-c09-033` : ตอก (to nail, to hammer in) : 1 meaning(s), 2 sentences
 - `yt-c09-036` : ทำคุณไสย (to perform black magic) : 1 meaning(s), 2 sentences
+- `yt-c09-037` : น้ำมันพราย (spirit-infused oil (imbued with ghost power) used to perform black magic) : 1 meaning(s), 2 sentences
+- `yt-c09-038` : ไสยศาสตร์มนต์ดำ (black magic) : 1 meaning(s), 2 sentences
 - `yt-c09-039` : ดวงตก (to have bad luck (astrology)) : 1 meaning(s), 2 sentences
 - `yt-c09-040` : ทำโอที, ทำงานนอกเวลา, ทำงานล่วงเวลา (to work overtime) : 1 meaning(s), 2 sentences
+- `yt-c09-041` : วันโกน (the day before a Buddhist holy day (monks would shave their head in preparation)) : 1 meaning(s), 2 sentences
+- `yt-c09-043` : เจ้ากรรมนายเวร ("owner of karma", karmic creditor (people you wronged in the past now causing suffering in return)) : 1 meaning(s), 2 sentences
+- `yt-c09-044` : ลมเพลมพัด (sudden unexplained illness attributed to spirits or black magic (literally "wind blowing here and there")) : 1 meaning(s), 2 sentences
+- `yt-c09-046` : พุทธกาล (Buddha's time (time when Buddha was still alive)) : 1 meaning(s), 2 sentences
 - `yt-c09-051` : แปลง (to convert, to transform; plot of land, field) : 2 meaning(s), 4 sentences
 - `yt-c09-053` : โดยลำพัง (alone, by oneself, independently (without others)) : 1 meaning(s), 2 sentences
+- `yt-c09-057` : ลอดห่วง (to pass through a hoop, a ring) : 1 meaning(s), 2 sentences
 - `yt-c09-058` : พลุ, ดอกไม้ไฟ (fireworks) : 1 meaning(s), 2 sentences
 - `yt-c09-059` : ลิขสิทธิ์ (copyright) : 1 meaning(s), 2 sentences
+- `yt-c09-060` : เอ็มวี (music video (video made to accompany a song)) : 1 meaning(s), 2 sentences
+- `yt-c09-061` : ตายทั้งกลม (death of a pregnant woman and unborn child altogether) : 1 meaning(s), 2 sentences
+- `yt-c09-062` : สัปเหร่อ (undertaker (person managing the funeral rituals)) : 1 meaning(s), 2 sentences
 - `yt-c09-073` : ทวน (to go against, to go in the opposite direction; to repeat, to review) : 2 meaning(s), 4 sentences
 - `yt-c09-082` : ยัด (to cram, to shove, to force something into a tight space) : 1 meaning(s), 2 sentences
 - `yt-c09-084` : ชีวิตชีวา (lively, full of life) : 1 meaning(s), 2 sentences
