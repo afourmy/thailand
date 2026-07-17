@@ -136159,11 +136159,15 @@
         "sentences": [
           {
             "thai": "หน้าบ้านประดับพระบรมฉายาลักษณ์",
-            "en": "The front of the house is decorated with the royal portrait."
+            "en": "The front of the house is decorated with the royal portrait.",
+            "audio_src": "หน้าบ้านประดับพระบรมฉายาลักษณ์",
+            "audio_en_src": "The front of the house is decorated with the royal portrait."
           },
           {
             "thai": "ประชาชนถือพระบรมฉายาลักษณ์มารอรับเสด็จ",
-            "en": "People held royal portraits while waiting to welcome the King."
+            "en": "People held royal portraits while waiting to welcome the King.",
+            "audio_src": "ประชาชนถือพระบรมฉายาลักษณ์มารอรับเสด็จ",
+            "audio_en_src": "People held royal portraits while waiting to welcome the King."
           }
         ]
       }
@@ -136678,11 +136682,15 @@
         "sentences": [
           {
             "thai": "ดูหนังแบบนี้แล้วหงี่จัดเลย",
-            "en": "Watching stuff like this makes me so horny."
+            "en": "Watching stuff like this makes me so horny.",
+            "audio_src": "ดูหนังแบบนี้แล้วหงี่จัดเลย",
+            "audio_en_src": "Watching stuff like this makes me so horny."
           },
           {
             "thai": "แฟนไม่อยู่ทั้งเดือน หงี่จัดมาก",
-            "en": "My girlfriend's been away all month, I'm so horny."
+            "en": "My girlfriend's been away all month, I'm so horny.",
+            "audio_src": "แฟนไม่อยู่ทั้งเดือน หงี่จัดมาก",
+            "audio_en_src": "My girlfriend's been away all month, I'm so horny."
           }
         ]
       }
@@ -136826,11 +136834,15 @@
         "sentences": [
           {
             "thai": "ชื่อเมืองส่วนใหญ่ใช้วิธีทับศัพท์",
-            "en": "Most city names are just transliterated."
+            "en": "Most city names are just transliterated.",
+            "audio_src": "ชื่อเมืองส่วนใหญ่ใช้วิธีทับศัพท์",
+            "audio_en_src": "Most city names are just transliterated."
           },
           {
             "thai": "ศัพท์เทคนิคบางคำแปลยาก เลยต้องทับศัพท์เอา",
-            "en": "Some technical terms are hard to translate, so we just transliterate them."
+            "en": "Some technical terms are hard to translate, so we just transliterate them.",
+            "audio_src": "ศัพท์เทคนิคบางคำแปลยาก เลยต้องทับศัพท์เอา",
+            "audio_en_src": "Some technical terms are hard to translate, so we just transliterate them."
           }
         ]
       }
@@ -136850,11 +136862,15 @@
         "sentences": [
           {
             "thai": "คอมพิวเตอร์เป็นคำทับศัพท์จากภาษาอังกฤษ",
-            "en": "Computer in Thai is a word transliterated from English."
+            "en": "Computer in Thai is a word transliterated from English.",
+            "audio_src": "คอมพิวเตอร์เป็นคำทับศัพท์จากภาษาอังกฤษ",
+            "audio_en_src": "Computer in Thai is a word transliterated from English."
           },
           {
             "thai": "ภาษาไทยมีคำทับศัพท์เยอะมาก",
-            "en": "Thai has a lot of transliterated words."
+            "en": "Thai has a lot of transliterated words.",
+            "audio_src": "ภาษาไทยมีคำทับศัพท์เยอะมาก",
+            "audio_en_src": "Thai has a lot of transliterated words."
           }
         ]
       }
@@ -137044,11 +137060,30 @@
   },
   {
     "id": "yt-c07-071",
-    "thai": "เป่า ดีด สี ตี",
-    "english": "the four types of musical instruments (blow, pluck, bow, strike)",
+    "thai": "ดีด สี ตี เป่า",
+    "english": "the four types of musical instruments (pluck, bow, strike, blow)",
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "the four types of musical instruments (pluck, bow, strike, blow)",
+        "sentences": [
+          {
+            "thai": "เครื่องดนตรีไทยแบ่งเป็นสี่ประเภท คือ ดีด สี ตี เป่า",
+            "en": "Thai instruments are divided into four types: plucked, bowed, struck, and blown.",
+            "audio_src": "เครื่องดนตรีไทยแบ่งเป็นสี่ประเภท คือ ดีด สี ตี เป่า",
+            "audio_en_src": "Thai instruments are divided into four types: plucked, bowed, struck, and blown."
+          },
+          {
+            "thai": "ขลุ่ยเป็นเครื่องเป่า ส่วนระนาดเป็นเครื่องตี",
+            "en": "The khlui is a wind instrument, while the ranat is a percussion instrument.",
+            "audio_src": "ขลุ่ยเป็นเครื่องเป่า ส่วนระนาดเป็นเครื่องตี",
+            "audio_en_src": "The khlui is a wind instrument, while the ranat is a percussion instrument."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137095,15 +137130,21 @@
         "sentences": [
           {
             "thai": "ซึงเป็นเครื่องดนตรีพื้นเมืองของภาคเหนือ",
-            "en": "The seung is a folk instrument of northern Thailand."
+            "en": "The seung is a folk instrument of northern Thailand.",
+            "audio_src": "ซึงเป็นเครื่องดนตรีพื้นเมืองของภาคเหนือ",
+            "audio_en_src": "The seung is a folk instrument of northern Thailand."
           },
           {
             "thai": "เสียงสะล้อฟังแล้วเศร้า",
-            "en": "The sound of the salo is melancholy."
+            "en": "The sound of the salo is melancholy.",
+            "audio_src": "เสียงสะล้อฟังแล้วเศร้า",
+            "audio_en_src": "The sound of the salo is melancholy."
           },
           {
             "thai": "พิณเพียะเป็นเครื่องดนตรีโบราณที่หาคนเล่นได้ยาก",
-            "en": "The phin phia is an ancient instrument that few people can still play."
+            "en": "The phin phia is an ancient instrument that few people can still play.",
+            "audio_src": "พิณเพียะเป็นเครื่องดนตรีโบราณที่หาคนเล่นได้ยาก",
+            "audio_en_src": "The phin phia is an ancient instrument that few people can still play."
           }
         ]
       }
@@ -137163,11 +137204,15 @@
         "sentences": [
           {
             "thai": "ขลุ่ยเมืองเป็นขลุ่ยพื้นบ้านของภาคเหนือ",
-            "en": "The khlui mueang is a folk flute of northern Thailand."
+            "en": "The khlui mueang is a folk flute of northern Thailand.",
+            "audio_src": "ขลุ่ยเมืองเป็นขลุ่ยพื้นบ้านของภาคเหนือ",
+            "audio_en_src": "The khlui mueang is a folk flute of northern Thailand."
           },
           {
             "thai": "เขาเป่าขลุ่ยเมืองในงานประเพณี",
-            "en": "He plays the khlui mueang at traditional festivals."
+            "en": "He plays the khlui mueang at traditional festivals.",
+            "audio_src": "เขาเป่าขลุ่ยเมืองในงานประเพณี",
+            "audio_en_src": "He plays the khlui mueang at traditional festivals."
           }
         ]
       }
@@ -137187,15 +137232,21 @@
         "sentences": [
           {
             "thai": "แคนคือสัญลักษณ์ของดนตรีอีสาน",
-            "en": "The khaen is the symbol of Isan music."
+            "en": "The khaen is the symbol of Isan music.",
+            "audio_src": "แคนคือสัญลักษณ์ของดนตรีอีสาน",
+            "audio_en_src": "The khaen is the symbol of Isan music."
           },
           {
             "thai": "โหวดทำจากไม้ไผ่หลายๆ ท่อนมัดรวมกัน",
-            "en": "The wot is made of bamboo pipes tied together."
+            "en": "The wot is made of bamboo pipes tied together.",
+            "audio_src": "โหวดทำจากไม้ไผ่หลายๆ ท่อนมัดรวมกัน",
+            "audio_en_src": "The wot is made of bamboo pipes tied together."
           },
           {
             "thai": "ปี่ภูไทใช้เล่นในหมู่ชาวผู้ไท",
-            "en": "The pi phu thai is played among the Phu Thai people."
+            "en": "The pi phu thai is played among the Phu Thai people.",
+            "audio_src": "ปี่ภูไทใช้เล่นในหมู่ชาวผู้ไท",
+            "audio_en_src": "The pi phu thai is played among the Phu Thai people."
           }
         ]
       }
@@ -137215,11 +137266,15 @@
         "sentences": [
           {
             "thai": "เขาเล่นพิณเก่งมาก",
-            "en": "He plays the phin really well."
+            "en": "He plays the phin really well.",
+            "audio_src": "เขาเล่นพิณเก่งมาก",
+            "audio_en_src": "He plays the phin really well."
           },
           {
             "thai": "เสียงพิณกับแคนเข้ากันสุดๆ",
-            "en": "The phin and the khaen sound great together."
+            "en": "The phin and the khaen sound great together.",
+            "audio_src": "เสียงพิณกับแคนเข้ากันสุดๆ",
+            "audio_en_src": "The phin and the khaen sound great together."
           }
         ]
       }
@@ -137298,11 +137353,15 @@
         "sentences": [
           {
             "thai": "จะเข้เป็นเครื่องดนตรีไทยที่วางเล่นบนพื้น",
-            "en": "The ja-khe is a Thai instrument played lying on the floor."
+            "en": "The ja-khe is a Thai instrument played lying on the floor.",
+            "audio_src": "จะเข้เป็นเครื่องดนตรีไทยที่วางเล่นบนพื้น",
+            "audio_en_src": "The ja-khe is a Thai instrument played lying on the floor."
           },
           {
             "thai": "น้องสาวเรียนดีดจะเข้ที่โรงเรียน",
-            "en": "My little sister is learning to play the ja-khe at school."
+            "en": "My little sister is learning to play the ja-khe at school.",
+            "audio_src": "น้องสาวเรียนดีดจะเข้ที่โรงเรียน",
+            "audio_en_src": "My little sister is learning to play the ja-khe at school."
           }
         ]
       }

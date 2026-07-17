@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7038 words**
+**Total: 7048 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4044,6 +4044,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-021` : สมุดบัญชี (bank book) : 1 meaning(s), 2 sentences
 - `yt-c07-022` : กองทุน (investment fund (like SET50 or SET100, equivalent of S&P500 in Thailand)) : 1 meaning(s), 2 sentences
 - `yt-c07-023` : สินเชื่อ (loan, credit (e.g to buy a house)) : 1 meaning(s), 2 sentences
+- `yt-c07-026` : พระบรมฉายาลักษณ์ (royal portrait) : 1 meaning(s), 2 sentences
 - `yt-c07-027` : กาง (to unfold, to spread out (e.g umbrella, map, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-028` : หนังสยองขวัญ, ภาพยนตร์สยองขวัญ (horror movie) : 1 meaning(s), 2 sentences
 - `yt-c07-029` : จุดยืน (standpoint, position, opinion (e.g in politics)) : 1 meaning(s), 2 sentences
@@ -4057,14 +4058,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-047` : ฝน (rain; to grind (e.g a plant into powder), to sharpen) : 2 meaning(s), 4 sentences
 - `yt-c07-049` : ความดันโลหิต (blood pressure) : 1 meaning(s), 2 sentences
 - `yt-c07-051` : ใส (clear, transparent) : 1 meaning(s), 2 sentences
+- `yt-c07-052` : หงี่จัด (extremely horny) : 1 meaning(s), 2 sentences
 - `yt-c07-056` : ถ่ายเอกสาร (to photocopy a document) : 1 meaning(s), 2 sentences
 - `yt-c07-057` : ค่ามัดจำ (security deposit, deposit fee) : 1 meaning(s), 2 sentences
 - `yt-c07-058` : สบู่ก้อน (bar soap) : 1 meaning(s), 2 sentences
+- `yt-c07-060` : ทับศัพท์ (transliteration, to transliterate) : 1 meaning(s), 2 sentences
+- `new-31` : คำทับศัพท์ (transliterated word) : 1 meaning(s), 2 sentences
 - `yt-c07-067` : กระสอบ (sack, bag (e.g made of sand for training, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
+- `yt-c07-071` : ดีด สี ตี เป่า (the four types of musical instruments (pluck, bow, strike, blow)) : 1 meaning(s), 2 sentences
 - `yt-c07-073` : เร่งรีบ (rushed, in a hurry, hastily) : 1 meaning(s), 2 sentences
+- `yt-c07-074` : ซึง, สะล้อ, พิณเพียะ (stringed musical instruments (north of Thailand)) : 1 meaning(s), 3 sentences
 - `yt-c07-076` : ประกอบกัน (to combine, to be put together) : 1 meaning(s), 2 sentences
+- `yt-c07-077` : ขลุ่ยเมือง (sort of flute (north of Thailand)) : 1 meaning(s), 2 sentences
+- `yt-c07-078` : แคน, โหวด, ปี่ภูไท (wind musical instruments made of bamboo pipes (from Issan - Laos)) : 1 meaning(s), 3 sentences
+- `yt-c07-079` : พิณ (stringed musical instrument, similar to a lute) : 1 meaning(s), 2 sentences
 - `yt-c07-082` : ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน (upper class - middle class - working class) : 1 meaning(s), 2 sentences
+- `yt-c07-084` : จะเข้ (traditional musical instrument, looks like a big guitar laid on the ground) : 1 meaning(s), 2 sentences
 - `yt-c07-088` : อนุสาวรีย์ (monument, memorial) : 1 meaning(s), 2 sentences
 - `yt-c07-093` : ถอนฟัน (to extract a tooth) : 1 meaning(s), 2 sentences
 - `yt-c08-004` : ติดตัว (to carry on oneself; (figuratively) innate, ingrained) : 2 meaning(s), 4 sentences
