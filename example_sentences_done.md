@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7098 words**
+**Total: 7107 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4195,6 +4195,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-001` : แวบแรก (at first glance, the first impression) : 1 meaning(s), 2 sentences
 - `yt-c10-002` : จุดอ่อน (weakness) : 1 meaning(s), 2 sentences
 - `yt-c10-005` : อโคจร ("forbidden" places for practitioners of the Dhamma (e.g places with drugs, alcohol, prostitutes, etc)) : 1 meaning(s), 2 sentences
+- `yt-c10-009` : ตระการ (splendid, gorgeous) : 1 meaning(s), 2 sentences
 - `yt-c10-010` : คิดตังค์, คิดเงิน, เช็คบิล (various expressions to ask for the bill) : 1 meaning(s), 2 sentences
 - `yt-c10-011` : เลี้ยงเอง, จัดการเอง, จ่ายเอง (various expressions to say that you'll pay (invite your friends) at the restaurant) : 1 meaning(s), 2 sentences
 - `yt-c10-015` : สมเหตุสมผล (rational, logical, reasonable, "it makes sense") : 1 meaning(s), 2 sentences
@@ -4207,12 +4208,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-033` : เสียเปรียบ (to be at a disadvantage, in an unfavorable position) : 1 meaning(s), 2 sentences
 - `yt-c10-035` : ความว่องไว (agility, handiness) : 1 meaning(s), 2 sentences
 - `yt-c10-037` : ข้อด้อย (weakness, disadvantage) : 1 meaning(s), 2 sentences
+- `yt-c10-038` : แม่ไม้ (Muay Thai art, foundational techniques of martial art) : 1 meaning(s), 2 sentences
 - `yt-c10-039` : อ้าปาก (to open one's mouth) : 1 meaning(s), 2 sentences
 - `yt-c10-040` : ยิ้มแย้มแจ่มใส (to smile brightly, to be cheerful) : 1 meaning(s), 2 sentences
 - `yt-c10-043` : เกี๊ยวทอด (fried wontons (dumplings)) : 1 meaning(s), 2 sentences
+- `yt-c10-045` : วิ่งเปี้ยว (Thai traditional relay game where players run around and try to tag opponents) : 1 meaning(s), 2 sentences
 - `yt-c10-047` : ก้น (buttocks, bottom, backside) : 1 meaning(s), 2 sentences
 - `yt-c10-048` : ไหวพริบ (quick wit, sagacity, mental agility, cleverness) : 1 meaning(s), 2 sentences
 - `yt-c10-049` : ชั่ง - วัด - ตวง (measure weigh - measure size, length - measure volume, capacity) : 1 meaning(s), 3 sentences
+- `yt-c10-050` : เบี้ย (cowrie shell (old currency used in old Siam)) : 1 meaning(s), 2 sentences
 - `yt-c10-051` : ในทางกลับกัน (on the other hand, conversely) : 1 meaning(s), 2 sentences
 - `yt-c10-052` : คุณธรรม (moral virtue, ethical values) : 1 meaning(s), 2 sentences
 - `yt-c10-053` : อูฐ (camel (animal)) : 1 meaning(s), 2 sentences
@@ -4224,6 +4228,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-063` : สายตาสั้น (myopia) : 1 meaning(s), 2 sentences
 - `yt-c10-064` : สายตายาว (far-sighted) : 1 meaning(s), 2 sentences
 - `yt-c10-072` : โฉนดที่ดิน (land title deed) : 1 meaning(s), 2 sentences
+- `yt-c10-074` : ลิเก (traditional Thai folk theater) : 1 meaning(s), 2 sentences
+- `yt-c10-075` : แม่ยก (female patron, benefactor in the context of Thai folk theater) : 1 meaning(s), 2 sentences
 - `yt-c10-077` : คลั่งรัก (crazy in love) : 1 meaning(s), 2 sentences
 - `yt-c10-081` : ร่มเงา (shade, shadow, umbrage) : 1 meaning(s), 2 sentences
 - `yt-c10-082` : เช้ามืด (very early morning (3am - 5am)) : 1 meaning(s), 2 sentences
@@ -4263,6 +4269,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-037` : จิงโจ้ (kangaroo) : 1 meaning(s), 2 sentences
 - `yt-c11-041` : รถถัง (tank) : 1 meaning(s), 2 sentences
 - `yt-c11-042` : งวง (trunk (of an elephant)) : 1 meaning(s), 2 sentences
+- `yt-c11-045` : ลากซุง (to drag logs (piece of trunk)) : 1 meaning(s), 2 sentences
+- `yt-c11-048` : ควาญ (mahout (elephant handler, caretaker)) : 1 meaning(s), 2 sentences
+- `yt-c11-049` : ทำยุทธหัตถี (to fight on elephant back, elephant duel (e.g between kings)) : 1 meaning(s), 2 sentences
 - `yt-c11-053` : ต้อน (to herd, to round up (animals)) : 1 meaning(s), 2 sentences
 - `yt-c11-058` : บ่อน (บ่อนการพนัน) (casino, gambling den) : 1 meaning(s), 2 sentences
 - `yt-c11-060` : กวนตีน (annoying, to annoy, to irritate) : 1 meaning(s), 2 sentences

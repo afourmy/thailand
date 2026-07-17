@@ -141669,11 +141669,15 @@
         "sentences": [
           {
             "thai": "งานพลุคืนนี้ตระการตามาก",
-            "en": "The fireworks tonight were spectacular."
+            "en": "The fireworks tonight were spectacular.",
+            "audio_src": "งานพลุคืนนี้ตระการตามาก",
+            "audio_en_src": "The fireworks tonight were spectacular."
           },
           {
             "thai": "ปราสาทหลังนี้งามตระการ",
-            "en": "This castle is magnificent."
+            "en": "This castle is magnificent.",
+            "audio_src": "ปราสาทหลังนี้งามตระการ",
+            "audio_en_src": "This castle is magnificent."
           }
         ]
       }
@@ -142176,11 +142180,15 @@
         "sentences": [
           {
             "thai": "ครูสอนแม่ไม้มวยไทยให้นักเรียน",
-            "en": "The teacher taught his students the fundamental Muay Thai techniques."
+            "en": "The teacher taught his students the fundamental Muay Thai techniques.",
+            "audio_src": "ครูสอนแม่ไม้มวยไทยให้นักเรียน",
+            "audio_en_src": "The teacher taught his students the fundamental Muay Thai techniques."
           },
           {
             "thai": "จระเข้ฟาดหางเป็นหนึ่งในแม่ไม้มวยไทย",
-            "en": "The crocodile tail whip is one of the classic Muay Thai techniques."
+            "en": "The crocodile tail whip is one of the classic Muay Thai techniques.",
+            "audio_src": "จระเข้ฟาดหางเป็นหนึ่งในแม่ไม้มวยไทย",
+            "audio_en_src": "The crocodile tail whip is one of the classic Muay Thai techniques."
           }
         ]
       }
@@ -142313,11 +142321,15 @@
         "sentences": [
           {
             "thai": "งานกีฬาสีมีแข่งวิ่งเปี้ยวด้วย",
-            "en": "The school sports day includes a wing piao relay race."
+            "en": "The school sports day includes a wing piao relay race.",
+            "audio_src": "งานกีฬาสีมีแข่งวิ่งเปี้ยวด้วย",
+            "audio_en_src": "The school sports day includes a wing piao relay race."
           },
           {
             "thai": "เด็กๆ เล่นวิ่งเปี้ยวกันสนุกมาก",
-            "en": "The kids had a blast playing wing piao."
+            "en": "The kids had a blast playing wing piao.",
+            "audio_src": "เด็กๆ เล่นวิ่งเปี้ยวกันสนุกมาก",
+            "audio_en_src": "The kids had a blast playing wing piao."
           }
         ]
       }
@@ -142432,11 +142444,15 @@
         "sentences": [
           {
             "thai": "สมัยอยุธยาใช้เบี้ยแทนเงิน",
-            "en": "In the Ayutthaya era, cowrie shells were used as money."
+            "en": "In the Ayutthaya era, cowrie shells were used as money.",
+            "audio_src": "สมัยอยุธยาใช้เบี้ยแทนเงิน",
+            "audio_en_src": "In the Ayutthaya era, cowrie shells were used as money."
           },
           {
             "thai": "หอยเบี้ยเคยมีค่าเหมือนเหรียญในปัจจุบัน",
-            "en": "Cowrie shells were once as valuable as coins today."
+            "en": "Cowrie shells were once as valuable as coins today.",
+            "audio_src": "หอยเบี้ยเคยมีค่าเหมือนเหรียญในปัจจุบัน",
+            "audio_en_src": "Cowrie shells were once as valuable as coins today."
           }
         ]
       }
@@ -142824,11 +142840,15 @@
         "sentences": [
           {
             "thai": "ยายชอบไปดูลิเกที่งานวัด",
-            "en": "Grandma loves watching likay at the temple fair."
+            "en": "Grandma loves watching likay at the temple fair.",
+            "audio_src": "ยายชอบไปดูลิเกที่งานวัด",
+            "audio_en_src": "Grandma loves watching likay at the temple fair."
           },
           {
             "thai": "พระเอกลิเกคนนี้ดังมาก",
-            "en": "This likay leading man is a big star."
+            "en": "This likay leading man is a big star.",
+            "audio_src": "พระเอกลิเกคนนี้ดังมาก",
+            "audio_en_src": "This likay leading man is a big star."
           }
         ]
       }
@@ -142848,11 +142868,15 @@
         "sentences": [
           {
             "thai": "แม่ยกเอาพวงมาลัยเงินไปคล้องให้พระเอกลิเก",
-            "en": "The patroness draped a money garland on the likay star."
+            "en": "The patroness draped a money garland on the likay star.",
+            "audio_src": "แม่ยกเอาพวงมาลัยเงินไปคล้องให้พระเอกลิเก",
+            "audio_en_src": "The patroness draped a money garland on the likay star."
           },
           {
             "thai": "เขามีแม่ยกติดตามไปทุกงาน",
-            "en": "He has devoted female fans following him to every show."
+            "en": "He has devoted female fans following him to every show.",
+            "audio_src": "เขามีแม่ยกติดตามไปทุกงาน",
+            "audio_en_src": "He has devoted female fans following him to every show."
           }
         ]
       }
@@ -143728,15 +143752,6 @@
     ]
   },
   {
-    "id": "yt-c11-017",
-    "thai": "ปกิณกกะ",
-    "english": "miscellaneous, trivial matters, minor details",
-    "frequency": "rare",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c11-018",
     "thai": "ดูด",
     "english": "to suck, to draw in",
@@ -144334,11 +144349,15 @@
         "sentences": [
           {
             "thai": "สมัยก่อนใช้ช้างลากซุงในป่า",
-            "en": "In the old days, elephants were used to drag logs in the forest."
+            "en": "In the old days, elephants were used to drag logs in the forest.",
+            "audio_src": "สมัยก่อนใช้ช้างลากซุงในป่า",
+            "audio_en_src": "In the old days, elephants were used to drag logs in the forest."
           },
           {
             "thai": "รถบรรทุกมาลากซุงออกจากไร่",
-            "en": "A truck came to haul the logs off the farm."
+            "en": "A truck came to haul the logs off the farm.",
+            "audio_src": "รถบรรทุกมาลากซุงออกจากไร่",
+            "audio_en_src": "A truck came to haul the logs off the farm."
           }
         ]
       }
@@ -144376,11 +144395,15 @@
         "sentences": [
           {
             "thai": "ควาญช้างดูแลช้างเหมือนคนในครอบครัว",
-            "en": "The mahout cares for his elephant like family."
+            "en": "The mahout cares for his elephant like family.",
+            "audio_src": "ควาญช้างดูแลช้างเหมือนคนในครอบครัว",
+            "audio_en_src": "The mahout cares for his elephant like family."
           },
           {
             "thai": "ช้างเชื่อฟังแต่ควาญของมัน",
-            "en": "The elephant only obeys its own mahout."
+            "en": "The elephant only obeys its own mahout.",
+            "audio_src": "ช้างเชื่อฟังแต่ควาญของมัน",
+            "audio_en_src": "The elephant only obeys its own mahout."
           }
         ]
       }
@@ -144400,11 +144423,15 @@
         "sentences": [
           {
             "thai": "สมเด็จพระนเรศวรทรงทำยุทธหัตถีกับพระมหาอุปราชา",
-            "en": "King Naresuan fought an elephant duel with the Burmese crown prince."
+            "en": "King Naresuan fought an elephant duel with the Burmese crown prince.",
+            "audio_src": "สมเด็จพระนเรศวรทรงทำยุทธหัตถีกับพระมหาอุปราชา",
+            "audio_en_src": "King Naresuan fought an elephant duel with the Burmese crown prince."
           },
           {
             "thai": "วันกองทัพไทยรำลึกถึงการทำยุทธหัตถี",
-            "en": "Thai Armed Forces Day commemorates the royal elephant duel."
+            "en": "Thai Armed Forces Day commemorates the royal elephant duel.",
+            "audio_src": "วันกองทัพไทยรำลึกถึงการทำยุทธหัตถี",
+            "audio_en_src": "Thai Armed Forces Day commemorates the royal elephant duel."
           }
         ]
       }
