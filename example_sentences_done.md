@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7088 words**
+**Total: 7098 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4173,18 +4173,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-060` : เอ็มวี (music video (video made to accompany a song)) : 1 meaning(s), 2 sentences
 - `yt-c09-061` : ตายทั้งกลม (death of a pregnant woman and unborn child altogether) : 1 meaning(s), 2 sentences
 - `yt-c09-062` : สัปเหร่อ (undertaker (person managing the funeral rituals)) : 1 meaning(s), 2 sentences
+- `yt-c09-063` : การตายโหง (violent death, sudden death) : 1 meaning(s), 2 sentences
+- `yt-c09-066` : อาคม (magic, sorcery) : 1 meaning(s), 2 sentences
+- `yt-c09-070` : ปรินิพพาน (final Nirvana, end of the cycle of rebirth, the Buddha's passing away (death after attaining enlightenment)) : 1 meaning(s), 2 sentences
+- `yt-c09-072` : สวดอภิธรรม (to chant Abhidhamma (funeral ceremony)) : 1 meaning(s), 2 sentences
 - `yt-c09-073` : ทวน (to go against, to go in the opposite direction; to repeat, to review) : 2 meaning(s), 4 sentences
+- `yt-c09-074` : ปริศนาธรรม (riddle that conveys a Buddhist teaching) : 1 meaning(s), 2 sentences
+- `yt-c09-075` : กิเลส (defilements, mental impurities, cravings (Buddhism)) : 1 meaning(s), 2 sentences
 - `yt-c09-082` : ยัด (to cram, to shove, to force something into a tight space) : 1 meaning(s), 2 sentences
 - `yt-c09-084` : ชีวิตชีวา (lively, full of life) : 1 meaning(s), 2 sentences
 - `yt-c09-085` : สีสันสดใส (bright colors, vivid colors) : 1 meaning(s), 2 sentences
+- `yt-c09-086` : อาสนะ (seat for the monks (religious)) : 1 meaning(s), 2 sentences
 - `yt-c09-087` : เหม่อลอย (absent-minded, lost in thought) : 1 meaning(s), 2 sentences
+- `yt-c09-091` : ธุง (ceremonial banner, decorative flag) : 1 meaning(s), 2 sentences
 - `yt-c09-093` : ลงแข่ง (to register, to sign up for a competition) : 1 meaning(s), 2 sentences
 - `yt-c09-094` : หนักแน่น (firm, resolute, emotionally stable) : 1 meaning(s), 2 sentences
 - `yt-c09-097` : หลงทาง (lost, errant, to get lost) : 1 meaning(s), 2 sentences
 - `yt-c09-098` : ให้พลัง (to give power, to strengthen) : 1 meaning(s), 2 sentences
 - `yt-c09-099` : จู้จี้ (to nitpick, to nag (constantly reproach), nitpicky, fussy) : 1 meaning(s), 2 sentences
+- `yt-c10-000` : สัจธรรม (ultimate truth (Buddhism)) : 1 meaning(s), 2 sentences
 - `yt-c10-001` : แวบแรก (at first glance, the first impression) : 1 meaning(s), 2 sentences
 - `yt-c10-002` : จุดอ่อน (weakness) : 1 meaning(s), 2 sentences
+- `yt-c10-005` : อโคจร ("forbidden" places for practitioners of the Dhamma (e.g places with drugs, alcohol, prostitutes, etc)) : 1 meaning(s), 2 sentences
 - `yt-c10-010` : คิดตังค์, คิดเงิน, เช็คบิล (various expressions to ask for the bill) : 1 meaning(s), 2 sentences
 - `yt-c10-011` : เลี้ยงเอง, จัดการเอง, จ่ายเอง (various expressions to say that you'll pay (invite your friends) at the restaurant) : 1 meaning(s), 2 sentences
 - `yt-c10-015` : สมเหตุสมผล (rational, logical, reasonable, "it makes sense") : 1 meaning(s), 2 sentences
