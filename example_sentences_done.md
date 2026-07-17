@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7048 words**
+**Total: 7058 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4075,10 +4075,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-079` : พิณ (stringed musical instrument, similar to a lute) : 1 meaning(s), 2 sentences
 - `yt-c07-082` : ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน (upper class - middle class - working class) : 1 meaning(s), 2 sentences
 - `yt-c07-084` : จะเข้ (traditional musical instrument, looks like a big guitar laid on the ground) : 1 meaning(s), 2 sentences
+- `yt-c07-085` : ซอ (Thai traditional instrument (sort of fiddle)) : 1 meaning(s), 2 sentences
+- `yt-c07-086` : ครอบครู (traditional thai ceremony where Thai students pay respect to the teacher) : 1 meaning(s), 2 sentences
 - `yt-c07-088` : อนุสาวรีย์ (monument, memorial) : 1 meaning(s), 2 sentences
+- `yt-c07-092` : ขี้เกลือ (sweat stain (salt residue on cloth from sweating)) : 1 meaning(s), 2 sentences
 - `yt-c07-093` : ถอนฟัน (to extract a tooth) : 1 meaning(s), 2 sentences
+- `yt-c07-094` : ความวัวไม่ทันหาย ความควายก็เข้ามาแทรก (before one problem is over, another problem comes (literally "before the cow matter has disappeared, the buffalo matter comes in")) : 1 meaning(s), 1 sentences
+- `yt-c07-095` : ลูกหาบ (porter (person who carries load for others, e.g when trekking on moutain)) : 1 meaning(s), 2 sentences
+- `yt-c07-099` : หาบ (to carry a load using a shoulder pole) : 1 meaning(s), 2 sentences
+- `yt-c08-001` : ทะเลหมอก (sea of clouds (when on a moutain)) : 1 meaning(s), 2 sentences
 - `yt-c08-004` : ติดตัว (to carry on oneself; (figuratively) innate, ingrained) : 2 meaning(s), 4 sentences
 - `yt-c08-005` : เฉลย (to reveal the answer, to provide the solution (e.g tests, exercises)) : 1 meaning(s), 2 sentences
+- `yt-c08-006` : ผีกระหัง (malevolent ghost that possess or drain life from humans) : 1 meaning(s), 2 sentences
+- `yt-c08-008` : สากตำข้าว (rice-pounding pestle) : 1 meaning(s), 2 sentences
+- `yt-c08-009` : ผีกระสือ (female ghost whose head is separated from internal organs (hanging below head)) : 1 meaning(s), 2 sentences
 - `yt-c08-026` : กระพริบ (to blink, to flicker (e.g eyes, light)) : 1 meaning(s), 2 sentences
 - `yt-c08-028` : หมั่นไส้ (to feel annoyed, irritated by someone (e.g for being smug, showing off)) : 1 meaning(s), 2 sentences
 - `yt-c08-029` : ห้องลองเสื้อ (changing room (cloth store)) : 1 meaning(s), 2 sentences

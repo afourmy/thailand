@@ -137375,6 +137375,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai traditional instrument (sort of fiddle)",
+        "sentences": [
+          {
+            "thai": "เขาสีซอเพราะมาก",
+            "en": "He plays the saw fiddle beautifully.",
+            "audio_src": "เขาสีซอเพราะมาก",
+            "audio_en_src": "He plays the saw fiddle beautifully."
+          },
+          {
+            "thai": "ยายชอบฟังเสียงซอ",
+            "en": "Grandma loves the sound of the saw fiddle.",
+            "audio_src": "ยายชอบฟังเสียงซอ",
+            "audio_en_src": "Grandma loves the sound of the saw fiddle."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137384,6 +137403,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "traditional thai ceremony where Thai students pay respect to the teacher",
+        "sentences": [
+          {
+            "thai": "นักดนตรีไทยต้องผ่านพิธีครอบครูก่อนเริ่มเรียน",
+            "en": "Thai musicians go through the khrop khru ceremony before they start learning.",
+            "audio_src": "นักดนตรีไทยต้องผ่านพิธีครอบครูก่อนเริ่มเรียน",
+            "audio_en_src": "Thai musicians go through the khrop khru ceremony before they start learning."
+          },
+          {
+            "thai": "โรงเรียนสอนรำไทยจัดพิธีครอบครูทุกปี",
+            "en": "The Thai dance school holds a khrop khru ceremony every year.",
+            "audio_src": "โรงเรียนสอนรำไทยจัดพิธีครอบครูทุกปี",
+            "audio_en_src": "The Thai dance school holds a khrop khru ceremony every year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137460,6 +137498,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "sweat stain (salt residue on cloth from sweating)",
+        "sentences": [
+          {
+            "thai": "เสื้อเต็มไปด้วยขี้เกลือหลังปั่นจักรยานทั้งวัน",
+            "en": "My shirt was covered in sweat stains after cycling all day.",
+            "audio_src": "เสื้อเต็มไปด้วยขี้เกลือหลังปั่นจักรยานทั้งวัน",
+            "audio_en_src": "My shirt was covered in sweat stains after cycling all day."
+          },
+          {
+            "thai": "หมวกใบนี้มีขี้เกลือขึ้นเป็นวงขาวๆ",
+            "en": "This cap has white rings of sweat stains on it.",
+            "audio_src": "หมวกใบนี้มีขี้เกลือขึ้นเป็นวงขาวๆ",
+            "audio_en_src": "This cap has white rings of sweat stains on it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137497,6 +137554,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "before one problem is over, another problem comes (literally \"before the cow matter has disappeared, the buffalo matter comes in\")",
+        "sentences": [
+          {
+            "thai": "ยายชอบพูดว่า ความวัวไม่ทันหาย ความควายก็เข้ามาแทรก",
+            "en": "Grandma likes to say, before the cow trouble is gone, the buffalo trouble barges in.",
+            "audio_src": "ยายชอบพูดว่า ความวัวไม่ทันหาย ความควายก็เข้ามาแทรก",
+            "audio_en_src": "Grandma likes to say, before the cow trouble is gone, the buffalo trouble barges in."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137506,6 +137576,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "porter (person who carries load for others, e.g when trekking on moutain)",
+        "sentences": [
+          {
+            "thai": "ลูกหาบช่วยแบกเต็นท์ขึ้นภูกระดึง",
+            "en": "The porters carried our tent up Phu Kradueng.",
+            "audio_src": "ลูกหาบช่วยแบกเต็นท์ขึ้นภูกระดึง",
+            "audio_en_src": "The porters carried our tent up Phu Kradueng."
+          },
+          {
+            "thai": "จ้างลูกหาบดีกว่า ของเยอะขนาดนี้",
+            "en": "Better hire a porter, with this much stuff.",
+            "audio_src": "จ้างลูกหาบดีกว่า ของเยอะขนาดนี้",
+            "audio_en_src": "Better hire a porter, with this much stuff."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137524,6 +137613,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to carry a load using a shoulder pole",
+        "sentences": [
+          {
+            "thai": "แม่ค้าหาบผลไม้ไปขายที่ตลาด",
+            "en": "The vendor carries fruit to the market on a shoulder pole.",
+            "audio_src": "แม่ค้าหาบผลไม้ไปขายที่ตลาด",
+            "audio_en_src": "The vendor carries fruit to the market on a shoulder pole."
+          },
+          {
+            "thai": "สมัยก่อนชาวนาหาบข้าวกลับบ้านเอง",
+            "en": "In the old days, farmers carried the rice home themselves on shoulder poles.",
+            "audio_src": "สมัยก่อนชาวนาหาบข้าวกลับบ้านเอง",
+            "audio_en_src": "In the old days, farmers carried the rice home themselves on shoulder poles."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137533,6 +137641,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "sea of clouds (when on a moutain)",
+        "sentences": [
+          {
+            "thai": "เช้านี้ทะเลหมอกที่ภูชี้ฟ้าสวยมาก",
+            "en": "The sea of mist at Phu Chi Fa was gorgeous this morning.",
+            "audio_src": "เช้านี้ทะเลหมอกที่ภูชี้ฟ้าสวยมาก",
+            "audio_en_src": "The sea of mist at Phu Chi Fa was gorgeous this morning."
+          },
+          {
+            "thai": "ตื่นตีห้าเพื่อไปดูทะเลหมอก",
+            "en": "We got up at five to see the sea of mist.",
+            "audio_src": "ตื่นตีห้าเพื่อไปดูทะเลหมอก",
+            "audio_en_src": "We got up at five to see the sea of mist."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137638,6 +137765,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "malevolent ghost that possess or drain life from humans",
+        "sentences": [
+          {
+            "thai": "ตำนานว่าผีกระหังเป็นผู้ชายและบินได้",
+            "en": "Legend says the krahang ghost is male and can fly.",
+            "audio_src": "ตำนานว่าผีกระหังเป็นผู้ชายและบินได้",
+            "audio_en_src": "Legend says the krahang ghost is male and can fly."
+          },
+          {
+            "thai": "คนแก่เล่าว่าเคยเห็นผีกระหังบินข้ามหลังคา",
+            "en": "The old folks say they once saw a krahang fly over the roof.",
+            "audio_src": "คนแก่เล่าว่าเคยเห็นผีกระหังบินข้ามหลังคา",
+            "audio_en_src": "The old folks say they once saw a krahang fly over the roof."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137656,6 +137802,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "rice-pounding pestle",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนชาวบ้านใช้สากตำข้าวแทนโรงสี",
+            "en": "In the old days, villagers pounded rice with a pestle instead of using a mill.",
+            "audio_src": "สมัยก่อนชาวบ้านใช้สากตำข้าวแทนโรงสี",
+            "audio_en_src": "In the old days, villagers pounded rice with a pestle instead of using a mill."
+          },
+          {
+            "thai": "สากตำข้าวอันนี้ทำจากไม้เนื้อแข็ง",
+            "en": "This rice pestle is made of hardwood.",
+            "audio_src": "สากตำข้าวอันนี้ทำจากไม้เนื้อแข็ง",
+            "audio_en_src": "This rice pestle is made of hardwood."
+          }
+        ]
+      }
     ]
   },
   {
@@ -137665,6 +137830,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "female ghost whose head is separated from internal organs (hanging below head)",
+        "sentences": [
+          {
+            "thai": "กลางคืนมีแสงเขียวๆ ลอยในนา คนแก่บอกว่าเป็นผีกระสือ",
+            "en": "At night a green light floated over the rice fields, the old folks said it was a krasue.",
+            "audio_src": "กลางคืนมีแสงเขียวๆ ลอยในนา คนแก่บอกว่าเป็นผีกระสือ",
+            "audio_en_src": "At night a green light floated over the rice fields, the old folks said it was a krasue."
+          },
+          {
+            "thai": "เด็กๆ กลัวผีกระสือกันทั้งหมู่บ้าน",
+            "en": "All the village kids are scared of the krasue.",
+            "audio_src": "เด็กๆ กลัวผีกระสือกันทั้งหมู่บ้าน",
+            "audio_en_src": "All the village kids are scared of the krasue."
+          }
+        ]
+      }
     ]
   },
   {
