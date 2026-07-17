@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7008 words**
+**Total: 7018 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3905,7 +3905,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-086` : หย่อน (to let loose, to slacken, to relax, to drop (make something less tight, or let something hang)) : 1 meaning(s), 2 sentences
 - `yt-c04-087` : คันนา (rice field ridge) : 1 meaning(s), 2 sentences
 - `yt-c04-088` : โหร (astrologer) : 1 meaning(s), 2 sentences
+- `yt-c04-090` : ข้างแรม (waning moon phase (when the moon is becoming less visible)) : 1 meaning(s), 2 sentences
+- `yt-c04-091` : ข้างขึ้น (waxing moon phase (when the moon is becoming more visible)) : 1 meaning(s), 2 sentences
+- `yt-c04-092` : ปฏิทินสุริยคติ (solar calendar) : 1 meaning(s), 2 sentences
+- `yt-c04-094` : จุติ ((for a deity) to descend from heaven to be reborn as a man in the human world) : 1 meaning(s), 2 sentences
+- `yt-c04-096` : สังเวย (to sacrifice, to immolate (in a ritual, religious context)) : 1 meaning(s), 2 sentences
 - `yt-c04-097` : ท้า (to challenge, to dare (someone to do something)) : 1 meaning(s), 2 sentences
+- `yt-c04-099` : ดินสอพอง (white clay filler (white clay used for Songkran and other rituals)) : 1 meaning(s), 2 sentences
+- `yt-c05-000` : อัฐิ (cremated bones, ashes of the dead) : 1 meaning(s), 2 sentences
 - `yt-c05-003` : รูด (to swipe (e.g a credit card), to slide (e.g zipper)) : 1 meaning(s), 2 sentences
 - `yt-c05-004` : ฟันผุ (tooth decay, cavity) : 1 meaning(s), 2 sentences
 - `yt-c05-009` : ซิงค์, อ่างล้างมือ (sink (e.g kitchen sink)) : 1 meaning(s), 2 sentences
@@ -3916,6 +3923,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-014` : ระบายสี (to color, to fill with color) : 1 meaning(s), 2 sentences
 - `yt-c05-016` : ใบแจ้งหนี้ (invoice) : 1 meaning(s), 2 sentences
 - `yt-c05-018` : รังเกียจ (to loathe, to detest, to be disgusted by) : 1 meaning(s), 2 sentences
+- `yt-c05-020` : สไบ (traditional Thai sash worn by women (draped over one shoulder)) : 1 meaning(s), 2 sentences
+- `yt-c05-025` : ลือเลื่อง (well-known, renowned, widely talked about) : 1 meaning(s), 2 sentences
 - `yt-c05-027` : ผงซักผ้า (laundry detergent (powder)) : 1 meaning(s), 2 sentences
 - `yt-c05-028` : น้ำยาซักผ้า (laundry detergent (liquid)) : 1 meaning(s), 2 sentences
 - `yt-c05-029` : น้ำยาปรับผ้านุ่ม (fabric softener) : 1 meaning(s), 2 sentences
@@ -3924,6 +3933,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-033` : ราวตากผ้า (drying rack) : 1 meaning(s), 2 sentences
 - `yt-c05-034` : กะละมัง (basin, tub) : 1 meaning(s), 2 sentences
 - `yt-c05-036` : ขยี้ (to rub, to crush, to scrub (repeated movement)) : 1 meaning(s), 2 sentences
+- `yt-c05-037` : ย้วย (floppy, saggy, lacking firmness or stiffness) : 1 meaning(s), 2 sentences
 - `yt-c05-038` : สะบัด (to flick, to shake off) : 1 meaning(s), 2 sentences
 - `yt-c05-039` : สะกิด (to provoke, to poke, to nudge) : 1 meaning(s), 2 sentences
 - `yt-c05-040` : ฝาน (to slice thinly) : 1 meaning(s), 2 sentences
