@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7185 words**
+**Total: 7195 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4621,13 +4621,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-031` : เครื่องถ่ายเอกสาร (photocopier) : 1 meaning(s), 2 sentences
 - `yt-c17-033` : คิดไปเอง (to imagine things, to overthink) : 1 meaning(s), 2 sentences
 - `yt-c17-035` : หวังน้ำบ่อหน้า ((idiom) to rely on future luck, to hope for something that may never happen (literally "hope for water next well")) : 1 meaning(s), 2 sentences
+- `yt-c17-036` : ลงแดง (severe withdrawal symptoms from addiction) : 1 meaning(s), 2 sentences
+- `yt-c17-039` : กินไม่ชวนอาหารติดคอ ((idiom) if you don't share (your food), you'll get into trouble, have bad luck) : 1 meaning(s), 1 sentences
 - `yt-c17-041` : หลงทาง - หลงป่า (to be lost, to lose one's way - lost in the forest) : 1 meaning(s), 2 sentences
 - `yt-c17-042` : ขุ่น, ขุ่นมัว (murky, cloudy (liquid)) : 1 meaning(s), 2 sentences
 - `yt-c17-044` : ประชดประชัน (ironic, sarcastic, mocking) : 1 meaning(s), 2 sentences
 - `yt-c17-045` : ประสาทสัมผัส (sense (sight, hearing, taste, smell, touch)) : 1 meaning(s), 2 sentences
 - `yt-c17-046` : ไม้เท้า, ไม้นำทาง (cane, walking stick) : 1 meaning(s), 2 sentences
 - `yt-c17-048` : ย้อนยุค (vintage style, retro) : 1 meaning(s), 2 sentences
+- `yt-c17-053` : จอมยุทธ์ (tactician, martial art master, great warrior) : 1 meaning(s), 2 sentences
 - `yt-c17-055` : อายุขัย (lifespan, life expectancy) : 1 meaning(s), 2 sentences
+- `yt-c17-058` : ด่านเคราะห์ (a rough time, a hurdle (literally "checkpoint of misfortune")) : 1 meaning(s), 2 sentences
+- `yt-c17-059` : กลับจวน ((formal, old-fashioned) to go back home (literally "to return to one's residence, manor")) : 1 meaning(s), 2 sentences
 - `yt-c17-061` : มัว (blurred, dim, unclear (eye, window)) : 1 meaning(s), 2 sentences
 - `yt-c17-062` : หมอง (dim, dull, gloomy, has lost its shine) : 1 meaning(s), 2 sentences
 - `yt-c17-063` : ผ่อง, ผ่องใส (bright, radiant, clear (face, skin complexion)) : 1 meaning(s), 2 sentences
@@ -4637,7 +4642,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-068` : หูอื้อ (muffled hearing, blocked ears) : 1 meaning(s), 2 sentences
 - `yt-c17-069b` : ร้องเพลงเพี้ยน (to sing off-key) : 1 meaning(s), 2 sentences
 - `yt-c17-071` : กระเป๋ารถ (fare collector (person who collects the money in public transport)) : 1 meaning(s), 2 sentences
+- `yt-c17-073` : พึ่งพิง (to depend on, to rely on (formal, literary)) : 1 meaning(s), 2 sentences
 - `yt-c17-078` : กรรมการ (committee member, board member, judge, referee (sport)) : 1 meaning(s), 2 sentences
+- `yt-c17-080` : ดวงตาเป็นหน้าต่างของดวงใจ ((idiom) "the eyes are the window to the heart") : 1 meaning(s), 1 sentences
+- `yt-c17-081` : เลศนัย (hidden meaning, hidden motive, ruse) : 1 meaning(s), 2 sentences
+- `yt-c17-086` : บังเหียน (reins, bridle) : 1 meaning(s), 2 sentences
+- `yt-c17-087` : อานม้า (saddle) : 1 meaning(s), 2 sentences
 - `yt-c17-089` : หลังค่อม (crooked, hunched back) : 1 meaning(s), 2 sentences
 - `yt-c17-090` : หลบภัย (to shelter, to take refuge) : 1 meaning(s), 2 sentences
 - `yt-c17-092` : ที่โล่ง (open space (empty space), open-air) : 1 meaning(s), 2 sentences
