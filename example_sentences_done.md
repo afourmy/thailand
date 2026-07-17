@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7136 words**
+**Total: 7145 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4390,17 +4390,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-033` : เดา - ทาย - มั่ว (to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly) : 1 meaning(s), 3 sentences
 - `yt-c13-034` : สะดุ้ง (to startle, to flinch, to jump in surprise) : 1 meaning(s), 2 sentences
 - `yt-c13-036` : กระปรี้กระเปร่า (full of energy, lively) : 1 meaning(s), 2 sentences
+- `yt-c13-038` : ไม้เรียว (rattan stick (wooden stick used to beat children at Thai schools)) : 1 meaning(s), 2 sentences
 - `yt-c13-040` : ตาข่าย (net (fishing net, sport net like volleyball, etc)) : 1 meaning(s), 2 sentences
+- `yt-c13-043` : ปาฐกถาธรรม (Dharma speech, Buddhist sermon) : 1 meaning(s), 2 sentences
+- `yt-c13-044` : ยุวกาชาด (Young Red Cross Society (kids in school do this, a bit like scouts)) : 1 meaning(s), 2 sentences
 - `yt-c13-046` : สาด (to splash, to throw a liquid) : 1 meaning(s), 2 sentences
+- `yt-c13-048` : ดาวพฤหัส (Jupiter (planet)) : 1 meaning(s), 2 sentences
+- `yt-c13-050` : กระดานชนวน (slate) : 1 meaning(s), 2 sentences
 - `yt-c13-051` : ชอล์ก (chalk) : 1 meaning(s), 2 sentences
 - `yt-c13-052` : ดวงซวย (unlucky, bad luck (informal)) : 1 meaning(s), 2 sentences
 - `yt-c13-053` : ราชวงศ์จักรี (Chakri dynasty (current royal family)) : 1 meaning(s), 2 sentences
+- `yt-c13-054` : มิ (no, not (literary)) : 1 meaning(s), 2 sentences
 - `yt-c13-056` : สภา (council, assembly, parliament) : 1 meaning(s), 2 sentences
 - `yt-c13-062` : จดทะเบียนสมรส (to get married officially (legally)) : 1 meaning(s), 2 sentences
 - `yt-c13-063` : ยัก (to shrug, to move slightly) : 1 meaning(s), 2 sentences
 - `yt-c13-063b` : พยักหน้า (to nod one's head) : 1 meaning(s), 2 sentences
 - `yt-c13-064` : อา (uncle, aunt (younger sibling on paternal side)) : 1 meaning(s), 2 sentences
+- `yt-c13-066` : เสภา (type of Thai poetry, usually recited with musical accompaniment) : 1 meaning(s), 2 sentences
 - `yt-c13-068` : เวร (duty, shift, watch) : 1 meaning(s), 2 sentences
+- `yt-c13-069` : กุมาร (young boy; spirit of a young boy) : 2 meaning(s), 4 sentences
+- `yt-c13-070` : นางวันทองสองใจ ((from Khun Chang Khun Phaen) girl who likes two men, torn between two lovers) : 1 meaning(s), 2 sentences
 - `yt-c13-074` : ยัดเยียด (to force something on someone or into a space, to cram, to impose) : 1 meaning(s), 2 sentences
 - `yt-c13-076` : โทรม (worn-out, dilapidated, deteriorated, unwell, in poor condition (e.g objects, people, clothes, places)) : 1 meaning(s), 2 sentences
 - `yt-c13-077` : ล้าหลัง (backward, outdated, behind the times) : 1 meaning(s), 2 sentences
