@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7126 words**
+**Total: 7136 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4344,32 +4344,42 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-064` : เงาะป่า (someone uncultured, wild, with unrefined behavior or manners) : 1 meaning(s), 2 sentences
 - `yt-c12-065` : เฉือน (to slice off, to cut a thin layer from something) : 1 meaning(s), 2 sentences
 - `yt-c12-066` : พระอินทร์ (Indra, the king of gods (Buddhist mythology)) : 1 meaning(s), 2 sentences
+- `yt-c12-067` : ร่างทอง ((from "golden conch" tale) dressed very elegantly, very attractive; (figuratively) to be the very best, at one's full potential) : 2 meaning(s), 4 sentences
+- `yt-c12-068` : ชุบตัว ((from "golden conch" tale) to go rejuvenate, to refresh oneself somewhere else for a while) : 1 meaning(s), 2 sentences
 - `yt-c12-069` : ศัลยกรรม (surgery (surgical operation)) : 1 meaning(s), 2 sentences
 - `yt-c12-070` : จับจุด (to grasp, to catch the point) : 1 meaning(s), 2 sentences
 - `yt-c12-073` : ลงจอด (to land (aircraft, helicopter)) : 1 meaning(s), 2 sentences
 - `yt-c12-075` : ลูกเรือ (crew member (of a boat or an aircraft)) : 1 meaning(s), 2 sentences
+- `yt-c12-076` : บุตรธิดา (children, sons and daughters (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-078` : เบ้า (cavity, socket, mold) : 1 meaning(s), 2 sentences
 - `yt-c12-079` : คู่จิ้น (couple formed by two fictional characters (e.g in series, movies)) : 1 meaning(s), 2 sentences
 - `yt-c12-080` : กระโจน (to leap, to jump very fast like a spring) : 1 meaning(s), 2 sentences
 - `yt-c12-081` : เพ่ง, เพ่งดู (to stare, to focus intently) : 1 meaning(s), 2 sentences
 - `yt-c12-082` : เบิกบาน (radiant, joyful, full of happiness (formal)) : 1 meaning(s), 2 sentences
 - `yt-c12-083` : แจ่มใส (bright, clear (e.g sky, weather); cheerful, happy) : 2 meaning(s), 4 sentences
+- `yt-c12-084` : แต่ประการใด, แต่อย่างใด (at all, whatsoever (formal)) : 1 meaning(s), 2 sentences
 - `yt-c12-085` : โต้ (to respond, to retort, to argue back; to go against (e.g wind, wave)) : 2 meaning(s), 4 sentences
+- `yt-c12-090` : ภพชาติ (existence, life within the cycle of birth and rebirth (Buddhist term)) : 1 meaning(s), 2 sentences
 - `yt-c12-091` : ติ๊ด - ติ๊ดเดียว (a tiny amount, a tiny bit) : 1 meaning(s), 2 sentences
 - `yt-c12-092` : เกเร ((of kids) mischievous, naughty, (of adults) rebellious, undisciplined) : 1 meaning(s), 2 sentences
 - `yt-c12-094` : ส่งๆ (casually, without overthinking, quickly) : 1 meaning(s), 2 sentences
+- `yt-c12-095` : ทอประกาย (to shimmer, to sparkle, sparkling) : 1 meaning(s), 2 sentences
+- `yt-c12-098` : ตักน้ำใส่กะโหลก ชะโงกดูเงา ((insulting) go look at yourself, be humble and consider your own limitations (literally "scoop water into a coconut shell then lean over to see your reflection")) : 1 meaning(s), 1 sentences
 - `yt-c12-099` : เจ้าอยู่หัว, พระเจ้าอยู่หัว (the king (very respectful way to refer to the king, literally "lord residing at the head")) : 1 meaning(s), 2 sentences
 - `yt-c13-000` : คะน้า ((chinese) kale (vegetable used for cooking)) : 1 meaning(s), 2 sentences
 - `yt-c13-001` : เงินทอน (change (money returned after making a purchase)) : 1 meaning(s), 2 sentences
+- `yt-c13-003` : นานโข (a long time (literary, old-fashioned)) : 1 meaning(s), 2 sentences
 - `yt-c13-004` : ทีเดียว (once, at once; very, quite; immediately, right away) : 3 meaning(s), 6 sentences
 - `yt-c13-005` : ฟันเฟือง (gear, cog (icon used for the "settings" on phone)) : 1 meaning(s), 2 sentences
 - `yt-c13-006` : จับความ, จับใจความ (to get the idea, to grasp the gist, to get the general meaning) : 1 meaning(s), 2 sentences
 - `yt-c13-007` : บังเอิญ, เผอิญ (by chance, coincidentally, "it just happened that") : 1 meaning(s), 2 sentences
+- `yt-c13-010` : เสงี่ยมเจียมตัว (humble and well-behaved, knowing one’s place) : 1 meaning(s), 2 sentences
 - `yt-c13-014` : ฉุนเฉียว (irritable, quick to anger) : 1 meaning(s), 2 sentences
 - `yt-c13-016` : เรียบหรู (simple yet elegant, sophisticated and classy in a simple way) : 1 meaning(s), 2 sentences
 - `yt-c13-017` : รสนิยม (taste, preference, inclination) : 1 meaning(s), 2 sentences
 - `yt-c13-019` : ดาบสองคม (double-edged sword) : 1 meaning(s), 2 sentences
 - `yt-c13-020` : สมรสเท่าเทียม (same-sex marriage (literally "equal marriage")) : 1 meaning(s), 2 sentences
+- `yt-c13-021` : เพศสภาพ (gender identity) : 1 meaning(s), 2 sentences
 - `yt-c13-022` : ถ่ายเท (to flow, to transfer (move from one place to another)) : 1 meaning(s), 2 sentences
 - `yt-c13-025` : รางน้ำ (gutter, water drainpipe) : 1 meaning(s), 2 sentences
 - `yt-c13-026` : ฝนตกปรอยๆ (to drizzle, to rain lightly, continuously but not heavily) : 1 meaning(s), 2 sentences
