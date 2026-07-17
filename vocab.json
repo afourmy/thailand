@@ -209940,6 +209940,25 @@
     "frequency": "rare",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to exchange for cash, to cash a cheque",
+        "sentences": [
+          {
+            "thai": "ถูกหวยแล้วรีบไปขึ้นเงินเลย",
+            "en": "I won the lottery, so I hurried off to cash it in.",
+            "audio_src": "ถูกหวยแล้วรีบไปขึ้นเงินเลย",
+            "audio_en_src": "I won the lottery, so I hurried off to cash it in."
+          },
+          {
+            "thai": "เช็คใบนี้ขึ้นเงินได้ที่ธนาคารไหนก็ได้",
+            "en": "This cheque can be cashed at any bank.",
+            "audio_src": "เช็คใบนี้ขึ้นเงินได้ที่ธนาคารไหนก็ได้",
+            "audio_en_src": "This cheque can be cashed at any bank."
+          }
+        ]
+      }
     ]
   },
   {
@@ -220630,6 +220649,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to act, to perform an action",
+        "sentences": [
+          {
+            "thai": "ผู้ใดกระทำผิดต้องรับโทษ",
+            "en": "Whoever commits an offense must face the penalty.",
+            "audio_src": "ผู้ใดกระทำผิดต้องรับโทษ",
+            "audio_en_src": "Whoever commits an offense must face the penalty."
+          },
+          {
+            "thai": "การกระทำสำคัญกว่าคำพูด",
+            "en": "Actions matter more than words.",
+            "audio_src": "การกระทำสำคัญกว่าคำพูด",
+            "audio_en_src": "Actions matter more than words."
+          }
+        ]
+      }
     ]
   },
   {
@@ -220732,6 +220770,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Dhamma",
+        "sentences": [
+          {
+            "thai": "วันพระ ยายไปฟังธรรมที่วัด",
+            "en": "On holy days, Grandma goes to hear the dhamma at the temple.",
+            "audio_src": "วันพระ ยายไปฟังธรรมที่วัด",
+            "audio_en_src": "On holy days, Grandma goes to hear the dhamma at the temple."
+          },
+          {
+            "thai": "ท่านสอนให้ใช้ชีวิตตามหลักธรรม",
+            "en": "He taught us to live by the dhamma.",
+            "audio_src": "ท่านสอนให้ใช้ชีวิตตามหลักธรรม",
+            "audio_en_src": "He taught us to live by the dhamma."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221274,6 +221331,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "I, me (very polite, written only)",
+        "sentences": [
+          {
+            "thai": "ข้าพเจ้าขอรับรองว่าข้อมูลทั้งหมดเป็นความจริง",
+            "en": "I hereby certify that all the information is true.",
+            "audio_src": "ข้าพเจ้าขอรับรองว่าข้อมูลทั้งหมดเป็นความจริง",
+            "audio_en_src": "I hereby certify that all the information is true."
+          },
+          {
+            "thai": "ข้าพเจ้ารู้สึกเป็นเกียรติอย่างยิ่ง",
+            "en": "I am deeply honored.",
+            "audio_src": "ข้าพเจ้ารู้สึกเป็นเกียรติอย่างยิ่ง",
+            "audio_en_src": "I am deeply honored."
+          }
+        ]
+      }
     ]
   },
   {
@@ -222882,6 +222958,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "she, her (old-fashioned)",
+        "sentences": [
+          {
+            "thai": "หล่อนเป็นคนสวยแต่เย่อหยิ่ง",
+            "en": "She was beautiful but haughty.",
+            "audio_src": "หล่อนเป็นคนสวยแต่เย่อหยิ่ง",
+            "audio_en_src": "She was beautiful but haughty."
+          },
+          {
+            "thai": "หล่อนจะไปไหนก็เรื่องของหล่อน",
+            "en": "Wherever she goes is her business.",
+            "audio_src": "หล่อนจะไปไหนก็เรื่องของหล่อน",
+            "audio_en_src": "Wherever she goes is her business."
+          }
+        ]
+      }
     ]
   },
   {
@@ -224655,6 +224750,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "how much, however much, to what extent",
+        "sentences": [
+          {
+            "thai": "ไม่ว่าจะยากเพียงใด เขาก็ไม่ยอมแพ้",
+            "en": "No matter how hard it gets, he never gives up.",
+            "audio_src": "ไม่ว่าจะยากเพียงใด เขาก็ไม่ยอมแพ้",
+            "audio_en_src": "No matter how hard it gets, he never gives up."
+          },
+          {
+            "thai": "ผลจะออกมาดีเพียงใดขึ้นอยู่กับความตั้งใจ",
+            "en": "How good the result is depends on your effort.",
+            "audio_src": "ผลจะออกมาดีเพียงใดขึ้นอยู่กับความตั้งใจ",
+            "audio_en_src": "How good the result is depends on your effort."
+          }
+        ]
+      }
     ]
   },
   {
@@ -225784,6 +225898,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "moral principles, ethical behaviour",
+        "sentences": [
+          {
+            "thai": "หมอต้องมีจริยธรรมในวิชาชีพ",
+            "en": "Doctors must have professional ethics.",
+            "audio_src": "หมอต้องมีจริยธรรมในวิชาชีพ",
+            "audio_en_src": "Doctors must have professional ethics."
+          },
+          {
+            "thai": "โรงเรียนสอนเรื่องจริยธรรมทุกสัปดาห์",
+            "en": "The school teaches ethics every week.",
+            "audio_src": "โรงเรียนสอนเรื่องจริยธรรมทุกสัปดาห์",
+            "audio_en_src": "The school teaches ethics every week."
+          }
+        ]
+      }
     ]
   },
   {
@@ -228040,6 +228173,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to return, to circle back, to reminisce (literary)",
+        "sentences": [
+          {
+            "thai": "เพลงนี้ทำให้หวนนึกถึงสมัยเรียน",
+            "en": "This song takes me back to my school days.",
+            "audio_src": "เพลงนี้ทำให้หวนนึกถึงสมัยเรียน",
+            "audio_en_src": "This song takes me back to my school days."
+          },
+          {
+            "thai": "เขาตัดสินใจหวนกลับบ้านเกิด",
+            "en": "He decided to return to his hometown.",
+            "audio_src": "เขาตัดสินใจหวนกลับบ้านเกิด",
+            "audio_en_src": "He decided to return to his hometown."
+          }
+        ]
+      }
     ]
   },
   {
@@ -229397,6 +229549,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "beam, horizontal support bar, lever, crossbar",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้ใช้คานไม้เนื้อแข็ง",
+            "en": "This house uses hardwood beams.",
+            "audio_src": "บ้านหลังนี้ใช้คานไม้เนื้อแข็ง",
+            "audio_en_src": "This house uses hardwood beams."
+          },
+          {
+            "thai": "ลูกบอลชนคานประตู",
+            "en": "The ball hit the crossbar.",
+            "audio_src": "ลูกบอลชนคานประตู",
+            "audio_en_src": "The ball hit the crossbar."
+          }
+        ]
+      }
     ]
   },
   {
@@ -230048,6 +230219,25 @@
     "frequency": "rare",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to eat, to consume (royal)",
+        "sentences": [
+          {
+            "thai": "พระราชาเสวยพระกระยาหารเช้า",
+            "en": "The king ate his breakfast.",
+            "audio_src": "พระราชาเสวยพระกระยาหารเช้า",
+            "audio_en_src": "The king ate his breakfast."
+          },
+          {
+            "thai": "ในหลวงรัชกาลที่เก้าโปรดเสวยอาหารง่ายๆ",
+            "en": "King Rama IX preferred to eat simple food.",
+            "audio_src": "ในหลวงรัชกาลที่เก้าโปรดเสวยอาหารง่ายๆ",
+            "audio_en_src": "King Rama IX preferred to eat simple food."
+          }
+        ]
+      }
     ]
   },
   {

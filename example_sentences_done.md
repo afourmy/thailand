@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7225 words**
+**Total: 7235 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6285,6 +6285,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c18-001` : ใกล้จะหมดอายุ (about to expire, nearly expired) : 1 meaning(s), 2 sentences
 - `wlt-c18-002` : ขอทาง (to ask to give way, to request to pass through) : 1 meaning(s), 2 sentences
 - `wlt-c18-004` : ขี้เมา (drunkard, alcoholic) : 1 meaning(s), 2 sentences
+- `wlt-c18-006` : ขึ้นเงิน (to exchange for cash, to cash a cheque) : 1 meaning(s), 2 sentences
 - `wlt-c18-007` : ไข้เลือดออก (dengue fever) : 1 meaning(s), 2 sentences
 - `wlt-c18-009` : ชาวต่างชาติ, คนต่างประเทศ (foreigner) : 1 meaning(s), 2 sentences
 - `wlt-c18-013` : คนยุโรป (European) : 1 meaning(s), 2 sentences
@@ -6607,9 +6608,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-027` : คล้าย (to resemble, to look like) : 1 meaning(s), 2 sentences
 - `t4k-c01-028` : ช่วยเหลือ (to help, to assist) : 1 meaning(s), 2 sentences
 - `t4k-c01-029` : ยุค (era, epoch) : 1 meaning(s), 2 sentences
+- `t4k-c01-030` : กระทำ (to act, to perform an action) : 1 meaning(s), 2 sentences
 - `t4k-c01-031` : ทางการ (official, formal) : 1 meaning(s), 2 sentences
 - `t4k-c01-035` : รวดเร็ว (fast, quick (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c01-036` : ข้าง (side) : 1 meaning(s), 2 sentences
+- `t4k-c01-041` : ธรรม (Dhamma) : 1 meaning(s), 2 sentences
 - `t4k-c01-042` : ไม่ค่อย (not very, hardly) : 1 meaning(s), 2 sentences
 - `t4k-c01-043` : ทันที (immediately) : 1 meaning(s), 2 sentences
 - `t4k-c01-044` : สาร (substance, matter) : 1 meaning(s), 2 sentences
@@ -6626,6 +6629,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-063` : นอกจากนี้ (in addition, besides this) : 1 meaning(s), 2 sentences
 - `t4k-c01-066` : สมบัติ (property, assets, possessions) : 1 meaning(s), 2 sentences
 - `t4k-c01-069` : จิต (mind, mental) : 1 meaning(s), 2 sentences
+- `t4k-c01-072` : ข้าพเจ้า (I, me (very polite, written only)) : 1 meaning(s), 2 sentences
 - `t4k-c01-073` : ฝัน (dream) : 1 meaning(s), 2 sentences
 - `t4k-c01-074` : มีชื่อ (famous, well-known) : 1 meaning(s), 2 sentences
 - `t4k-c01-078` : แทนที่ (to replace, to stand in for, instead) : 1 meaning(s), 2 sentences
@@ -6675,6 +6679,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-050` : แง่ (aspect, point of view) : 1 meaning(s), 2 sentences
 - `t4k-c02-051` : คำพูด (words, speech) : 1 meaning(s), 2 sentences
 - `t4k-c02-054` : วางแผน (to plan) : 1 meaning(s), 2 sentences
+- `t4k-c02-055` : หล่อน (she, her (old-fashioned)) : 1 meaning(s), 2 sentences
 - `t4k-c02-056` : ลับ (secret, hidden; to sharpen (e.g knife)) : 2 meaning(s), 4 sentences
 - `t4k-c02-060` : ย่อย (to digest, to break down; smaller part, minor, sub-) : 2 meaning(s), 4 sentences
 - `t4k-c02-062` : ชื่นชม (to admire, to praise) : 1 meaning(s), 2 sentences
@@ -6728,6 +6733,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-057` : แดน (land, area) : 1 meaning(s), 2 sentences
 - `t4k-c03-064` : ครอบครอง (to possess, to own) : 1 meaning(s), 2 sentences
 - `t4k-c03-066` : คิว (queue) : 1 meaning(s), 2 sentences
+- `t4k-c03-070` : เพียงใด (how much, however much, to what extent) : 1 meaning(s), 2 sentences
 - `t4k-c03-073` : กลไก (mechanism, system, machinery) : 1 meaning(s), 2 sentences
 - `t4k-c03-074` : เหมือนเดิม (as usual, the same as before) : 1 meaning(s), 2 sentences
 - `t4k-c03-075` : ความมั่นใจ (confidence) : 1 meaning(s), 2 sentences
@@ -6763,6 +6769,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-034` : จัง (very, so (+ adjective)) : 1 meaning(s), 2 sentences
 - `t4k-c04-039` : ประมง (fishing, fishery (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c04-040` : บัดนี้ (now (formal, written)) : 1 meaning(s), 2 sentences
+- `t4k-c04-044` : จริยธรรม (moral principles, ethical behaviour) : 1 meaning(s), 2 sentences
 - `t4k-c04-045` : เลขาธิการ (secretary general) : 1 meaning(s), 2 sentences
 - `t4k-c04-047` : เหมา (to contract, to hire) : 1 meaning(s), 2 sentences
 - `t4k-c04-049` : ออม (to save, to conserve (e.g money, resources)) : 1 meaning(s), 2 sentences
@@ -6833,6 +6840,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-066` : รังสี (rays, radiation, beam) : 1 meaning(s), 2 sentences
 - `t4k-c05-067` : โบ (bow, ribbon) : 1 meaning(s), 2 sentences
 - `t4k-c05-068` : สติปัญญา (intelligence) : 1 meaning(s), 2 sentences
+- `t4k-c05-069` : หวน (to return, to circle back, to reminisce (literary)) : 1 meaning(s), 2 sentences
 - `t4k-c05-072` : แหง (definitely, for sure) : 1 meaning(s), 2 sentences
 - `t4k-c05-073` : คุกคาม (to threaten, to intimidate) : 1 meaning(s), 2 sentences
 - `t4k-c05-074` : จงใจ (to intend, deliberately, on purpose) : 1 meaning(s), 2 sentences
@@ -6875,6 +6883,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-052` : นักวิทยาศาสตร์ (scientist) : 1 meaning(s), 2 sentences
 - `t4k-c06-053` : นักรบ (warrior, fighter) : 1 meaning(s), 2 sentences
 - `t4k-c06-055` : นายทหาร (military officer) : 1 meaning(s), 2 sentences
+- `t4k-c06-056` : คาน (beam, horizontal support bar, lever, crossbar) : 1 meaning(s), 2 sentences
 - `t4k-c06-058` : ใจกลาง (center, heart (of a place)) : 1 meaning(s), 2 sentences
 - `t4k-c06-061` : เป็นต้นมา (up until now, up to the present) : 1 meaning(s), 2 sentences
 - `t4k-c06-062` : สมมติ, สมมุติ (to suppose, to assume) : 1 meaning(s), 2 sentences
@@ -6894,6 +6903,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-097` : ละเลย (to neglect, to ignore) : 1 meaning(s), 2 sentences
 - `t4k-c06-098` : พันธุกรรม (heredity, genetics) : 1 meaning(s), 2 sentences
 - `t4k-c07-000` : ราด (to pour over (food), topped with) : 1 meaning(s), 2 sentences
+- `t4k-c07-001` : เสวย (to eat, to consume (royal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-002` : ทัศนะ (viewpoint, point of view, stance (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-004` : ความเครียด (stress) : 1 meaning(s), 2 sentences
 - `t4k-c07-005` : เงินทุน (capital, investment money) : 1 meaning(s), 2 sentences
