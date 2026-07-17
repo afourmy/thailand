@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7145 words**
+**Total: 7155 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4410,6 +4410,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-068` : เวร (duty, shift, watch) : 1 meaning(s), 2 sentences
 - `yt-c13-069` : กุมาร (young boy; spirit of a young boy) : 2 meaning(s), 4 sentences
 - `yt-c13-070` : นางวันทองสองใจ ((from Khun Chang Khun Phaen) girl who likes two men, torn between two lovers) : 1 meaning(s), 2 sentences
+- `yt-c13-071` : ขุนช้าง ((from Khun Chang Khun Phaen) someone not handsome (bald, fat), very wealthy, selfish, jealous) : 1 meaning(s), 2 sentences
+- `yt-c13-072` : ขุนแผน ((from Khun Chang Khun Phaen) someone handsome, brave, skilled in martial art and magic, has many wives (jaoshuu)) : 1 meaning(s), 2 sentences
 - `yt-c13-074` : ยัดเยียด (to force something on someone or into a space, to cram, to impose) : 1 meaning(s), 2 sentences
 - `yt-c13-076` : โทรม (worn-out, dilapidated, deteriorated, unwell, in poor condition (e.g objects, people, clothes, places)) : 1 meaning(s), 2 sentences
 - `yt-c13-077` : ล้าหลัง (backward, outdated, behind the times) : 1 meaning(s), 2 sentences
@@ -4422,6 +4424,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-086` : น้ำใจนักกีฬา (sportsmanship) : 1 meaning(s), 2 sentences
 - `yt-c13-092` : แมลงปอ (dragonfly) : 1 meaning(s), 2 sentences
 - `yt-c13-093` : ต่อย (to punch, to strike with a fist; to sting (insect)) : 2 meaning(s), 4 sentences
+- `yt-c13-095` : นุ่งผ้าลอยชาย (to wear clothes that are hanging freely, loose, not tucked in (e.g traditional Thai garment like Sarong)) : 1 meaning(s), 2 sentences
 - `yt-c13-099` : รองเท้าหุ้มส้น (shoes that fully cover the heel) : 1 meaning(s), 2 sentences
 - `yt-c14-000` : ไขกุญแจ (to unlock, to open with a key (literally to turn the key)) : 1 meaning(s), 2 sentences
 - `yt-c14-001` : ปรับแอร์ (ลง - ขึ้น) (to adjust aircon temperature (down - up)) : 1 meaning(s), 2 sentences
@@ -4429,8 +4432,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-003` : เพิ่มเสียง - ลดเสียง (to turn up - down the volume) : 1 meaning(s), 2 sentences
 - `yt-c14-006` : สายสะพาย (shoulder strap, sash) : 1 meaning(s), 2 sentences
 - `yt-c14-009` : อักษรย่อ (abbreviation, initials (shortened form with only the first letters of each word)) : 1 meaning(s), 2 sentences
+- `yt-c14-010` : สัมปทาน (concession (contract giving right to operate a business, usually given by the government)) : 1 meaning(s), 2 sentences
 - `yt-c14-011` : ลูกระนาด, ยางชะลอความเร็ว, คันชะลอความเร็ว (speed bump) : 1 meaning(s), 2 sentences
 - `yt-c14-012` : กระทู้ (thread, topic (e.g online forum like pantip)) : 1 meaning(s), 2 sentences
+- `yt-c14-013` : ปราบเซียน ((figuratively) to defeat an expert (used when talking about something extremely difficult)) : 1 meaning(s), 2 sentences
 - `yt-c14-014` : ยอมแพ้ (to give up, to surrender) : 1 meaning(s), 2 sentences
 - `yt-c14-015` : ข้าวต้ม (rice porridge) : 1 meaning(s), 2 sentences
 - `yt-c14-016` : หูหม้อ (pot handle) : 1 meaning(s), 2 sentences
@@ -4444,15 +4449,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-026` : ตรวจคนเข้าเมือง (ตม.) (immigration (e.g department, office)) : 1 meaning(s), 2 sentences
 - `yt-c14-029` : หัวเข่า (knee cap (front part of the knee)) : 1 meaning(s), 2 sentences
 - `yt-c14-030` : ซุ่มซ่าม (clumsy (usually physical clumsiness i.e prone to accidents or dropping things)) : 1 meaning(s), 2 sentences
+- `yt-c14-033` : คนธรรมะธรรมโม (a very religious person, someone who constantly practices Buddhist teachings (sometimes used ironically)) : 1 meaning(s), 2 sentences
 - `yt-c14-035` : ถล่ม (to collapse, to crash, to fall down violently; to destroy, to attack with force) : 2 meaning(s), 4 sentences
+- `yt-c14-037` : ฝาย (check dam (small barrier across a stream to slow water flow)) : 1 meaning(s), 2 sentences
+- `yt-c14-039` : วาตภัย (wind-related disasters (e.g tornadoes, cyclones, etc)) : 1 meaning(s), 2 sentences
 - `yt-c14-040` : ซ้ำซาก (repetitive and dull, occurring again and again until it becomes boring, monotonous, tiresome) : 1 meaning(s), 2 sentences
 - `yt-c14-042` : ชาวไร่ (farmer (who farms in a rai i.e dry crops like corn, not rice field)) : 1 meaning(s), 2 sentences
 - `yt-c14-043` : ทำนา - ทำไร่ - ทำสวน (to do rice farming - to do dry crops farming - to do garden work) : 1 meaning(s), 3 sentences
 - `yt-c14-051` : สาธุ (said after someone does a good deed, makes a merit, or recites a prayer ("amen", "may it be blessed")) : 1 meaning(s), 2 sentences
 - `yt-c14-052` : หอน (to howl (the sound a wolf or dog makes)) : 1 meaning(s), 2 sentences
 - `yt-c14-053` : โลง, โลงศพ (coffin) : 1 meaning(s), 2 sentences
+- `yt-c14-054` : อุปมาอุปไมย (metaphor, analogy) : 1 meaning(s), 2 sentences
 - `yt-c14-060` : สินสอด (dowry, bride price (literally "property (goods, money) presented")) : 1 meaning(s), 2 sentences
 - `yt-c14-061` : เอาการเอางาน (hardworking, diligent, dedicated to work) : 1 meaning(s), 2 sentences
+- `yt-c14-062` : นิกาย (sect, religious order) : 1 meaning(s), 2 sentences
 - `yt-c14-069` : เขิน (to feel shy in a cute, romantic way) : 1 meaning(s), 2 sentences
 - `yt-c14-070` : ปิ๊ง (to click, to instantly like, to have a sudden crush) : 1 meaning(s), 2 sentences
 - `yt-c14-071` : อ่อย (to hit on someone, to flirt) : 1 meaning(s), 2 sentences
