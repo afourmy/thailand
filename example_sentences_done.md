@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7195 words**
+**Total: 7205 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4652,6 +4652,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-090` : หลบภัย (to shelter, to take refuge) : 1 meaning(s), 2 sentences
 - `yt-c17-092` : ที่โล่ง (open space (empty space), open-air) : 1 meaning(s), 2 sentences
 - `yt-c17-093` : หมอบ (to crouch, to prostrate) : 1 meaning(s), 2 sentences
+- `yt-c17-094` : กุศโลบาย (clever approach, strategic approach, stratagem) : 1 meaning(s), 2 sentences
 - `yt-c17-095` : สั่นสะเทือน (to vibrate, to tremble, to shake) : 1 meaning(s), 2 sentences
 - `yt-c17-097` : เหวี่ยง (to swing, to fling (sweeping or swinging motion)) : 1 meaning(s), 2 sentences
 - `yt-c17-099` : ความแม่นยำ (accuracy) : 1 meaning(s), 2 sentences
@@ -4669,8 +4670,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-021` : สมัครใจ (voluntary, willingly, of one's own free will) : 1 meaning(s), 2 sentences
 - `yt-c18-023` : วุฒิการศึกษา (educational background, educational qualification, academic degree) : 1 meaning(s), 2 sentences
 - `yt-c18-024` : สลาก - จับสลาก (lot, ballot, lottery slip - to draw lots, to draw a lottery slip) : 1 meaning(s), 2 sentences
+- `yt-c18-026` : เนตรนารี (girl scouts (like scouts but for girls)) : 1 meaning(s), 2 sentences
 - `yt-c18-027` : ว่าที่ (soon-to-be (e.g "bride-to-be", "soon-to-be-graduate", etc), future, prospective) : 1 meaning(s), 2 sentences
 - `yt-c18-028` : ลำดับชั้น (hierarchy) : 1 meaning(s), 2 sentences
+- `yt-c18-031` : ชายฉกรรจ์ (burly man, able-bodied man, fit young man) : 1 meaning(s), 2 sentences
 - `yt-c18-032` : เสี่ยงดวง (to take a chance, to try one's luck, to gamble on fate) : 1 meaning(s), 2 sentences
 - `yt-c18-033` : สะสาง (to clean up, to clear up, to sort out, to tidy up (e.g tasks, mess, problems, etc)) : 1 meaning(s), 2 sentences
 - `yt-c18-035` : ค่ารักษาพยาบาล (สวัสดิการ) (medical expenses, medical treatment fee (Thai civil servant perk)) : 1 meaning(s), 2 sentences
@@ -4678,6 +4681,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-037` : เบี้ยเลี้ยง (allowance (e.g travel allowance on a business trip)) : 1 meaning(s), 2 sentences
 - `yt-c18-038` : ลาคลอดบุตร (maternity leave) : 1 meaning(s), 2 sentences
 - `yt-c18-040` : ทยอย (gradually, in stages, little by little) : 1 meaning(s), 2 sentences
+- `yt-c18-042` : เครื่องราชอิสริยาภรณ์ (royal decoration (official medal or insignia bestowed by the King to e.g civil servants, military, etc)) : 1 meaning(s), 2 sentences
 - `yt-c18-043` : เงินกู้ (loan, borrowed money) : 1 meaning(s), 2 sentences
 - `yt-c18-046` : (โดน)สั่งย้าย (to be transferred, to be relocated (as an employee)) : 1 meaning(s), 2 sentences
 - `yt-c18-047` : ต้นกล้า (young plant, seedling) : 1 meaning(s), 2 sentences
@@ -4689,6 +4693,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-057` : วนลูป (to get stuck in a loop, to repeat the same process endlessly (colloquial)) : 1 meaning(s), 2 sentences
 - `yt-c18-058` : พื้นผิว (surface, outer layer) : 1 meaning(s), 2 sentences
 - `yt-c18-059` : ไล่ลำดับ (to arrange in order, to put in sequence) : 1 meaning(s), 2 sentences
+- `yt-c18-060` : แดดร่มลมตก (pleasant, comfortable time of day (mellow sun, calm wind)) : 1 meaning(s), 2 sentences
 - `yt-c18-062` : หัวใจล้มเหลว (heart failure) : 1 meaning(s), 2 sentences
 - `yt-c18-065` : แปรปรวน (variable, changing, to fluctuate, to vary unpredictably (e.g mood, weather)) : 1 meaning(s), 2 sentences
 - `yt-c18-067` : ภัยคุกคาม (threat, menace) : 1 meaning(s), 2 sentences
@@ -4704,10 +4709,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-081` : โศกเศร้า (sorrowful, deeply sad, grieving (formal)) : 1 meaning(s), 2 sentences
 - `yt-c18-082` : ค่าแรง (wage, labor cost) : 1 meaning(s), 2 sentences
 - `yt-c18-085` : กักตัว (to quarantine, to self-isolate) : 1 meaning(s), 2 sentences
+- `yt-c18-086` : คนละครึ่ง (มีคนละครึ่งไหม) (Thai government co-payment policy where the state pays 50% of the cost of eligible purchases, and citizens pay the other 50%) : 1 meaning(s), 2 sentences
 - `yt-c18-087` : ได้เปรียบ (to have an advantage, to have the edge) : 1 meaning(s), 2 sentences
 - `yt-c18-088` : เล่นมุก (to crack a joke, to joke around) : 1 meaning(s), 2 sentences
 - `yt-c18-090` : แสบ (stinging, burning sensation (e.g from a cut, spicy food, smoke, etc); naughty, mischievous, troublemaker (e.g of a child)) : 2 meaning(s), 4 sentences
+- `yt-c18-093` : ตาข่ายดักฝัน (dream-catching net (a net hung above a bed to catch bad dreams)) : 1 meaning(s), 2 sentences
 - `yt-c18-094` : บาทหลวง (catholic priest) : 1 meaning(s), 2 sentences
+- `yt-c18-095` : ตายไม่เอาเรื่อง ((idiom) "I won't make a fuss even if I die", "I won't hold it against you, even to the grave") : 1 meaning(s), 2 sentences
 - `yt-c18-096` : ถอยหลัง (to reverse, to move backward) : 1 meaning(s), 2 sentences
 - `yt-c18-098` : คนจู้จี้จุกจิก (person who is picky, fussy, likes to nitpick) : 1 meaning(s), 2 sentences
 - `yt-c18-099` : ตกยุค (outdated, out of fashion, obsolete) : 1 meaning(s), 2 sentences
@@ -4721,6 +4729,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-022` : ปั่นประสาท (to drive someone crazy, to torment, to mess with someone's head (slang)) : 1 meaning(s), 2 sentences
 - `yt-c19-028` : อวบ (chubby, plump) : 1 meaning(s), 2 sentences
 - `yt-c19-030` : ขาดตกบกพร่อง (lacking, incomplete, to have shortcomings or omissions) : 1 meaning(s), 2 sentences
+- `yt-c19-032` : กระพรวน (set of small bells tied together) : 1 meaning(s), 2 sentences
 - `yt-c19-034` : กะหรี่ (whore, slut, prostitute (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c19-035` : ล่อ - ล่อหลอก (to lure, to entice, to bait - to trick, to deceive by luring) : 1 meaning(s), 2 sentences
 - `yt-c19-037` : นาก (otter) : 1 meaning(s), 2 sentences
@@ -4728,6 +4737,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-039` : ถ่ายเผื่อ (to take extra photos for someone (take a serie of photos for someone)) : 1 meaning(s), 2 sentences
 - `yt-c19-040` : ประกันชีวิต (life insurance) : 1 meaning(s), 2 sentences
 - `yt-c19-041` : ช้อนกลาง (shared spoon used to serve food from a shared dish) : 1 meaning(s), 2 sentences
+- `yt-c19-043` : พิธีบวงสรวง (ceremony to pay respect or seek blessings) : 1 meaning(s), 2 sentences
 - `yt-c19-044` : กำหนดการ (program, agenda, planned sequence of activities) : 1 meaning(s), 2 sentences
 - `yt-c19-046` : ผิดนัด (to miss an appointment, to not show up as scheduled; to default, to fail to meet a contractual obligation (e.g loan)) : 2 meaning(s), 4 sentences
 - `yt-c19-047` : หนังสือนิยาย (novel) : 1 meaning(s), 2 sentences
