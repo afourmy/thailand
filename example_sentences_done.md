@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7215 words**
+**Total: 7225 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4864,9 +4864,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-053` : งานประดิษฐ์ (handicraft, craftwork) : 1 meaning(s), 2 sentences
 - `yt-c21-054` : ขับเคลื่อน (to drive, to propel, to move forward) : 1 meaning(s), 2 sentences
 - `yt-c21-055` : จับตามอง (to watch closely, to keep an eye on) : 1 meaning(s), 2 sentences
+- `yt-c21-056` : พระพันปี (the Queen Mother (mother of the king)) : 1 meaning(s), 2 sentences
 - `yt-c21-059` : เยี่ยมเยือน (to pay a visit, to visit (formal)) : 1 meaning(s), 2 sentences
 - `yt-c21-060` : สะเทือนใจ (heartbreaking, deeply moved, emotionally shaken (formal)) : 1 meaning(s), 2 sentences
 - `yt-c21-061` : พอเพียง (sufficient, self-restrained, having just enough, not excessive not lacking) : 1 meaning(s), 2 sentences
+- `yt-c21-062` : เจ็บแล้วจำคือคน เจ็บแล้วทนคือควาย ((idiom) if you get hurt and learn from it, you're a human, if you get hurt and endure you're a buffalo) : 1 meaning(s), 1 sentences
+- `yt-c21-063` : พระมหากรุณาธิคุณ (deep royal kindness, the monarch's immense kindness) : 1 meaning(s), 2 sentences
 - `yt-c21-067` : รื่นเริง (cheerful, joyful (atmosphere, event)) : 1 meaning(s), 2 sentences
 - `yt-c21-069` : เฉียด ("almost there", "narrowly missed", to narrowly miss, to almost hit) : 1 meaning(s), 2 sentences
 - `yt-c21-070` : ตะเบ็ง (to shout, to yell) : 1 meaning(s), 2 sentences
@@ -4895,10 +4898,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-099` : หิวแสง (attention-seeking, thirsty for attention) : 1 meaning(s), 2 sentences
 - `yt-c22-000` : ครั่นเนื้อครั่นตัว (to feel feverish, unwell, to have chills) : 1 meaning(s), 2 sentences
 - `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
+- `yt-c22-004` : พิศวาส (to love deeply, passionately (rare, literary)) : 1 meaning(s), 2 sentences
 - `yt-c22-005` : คาดคะเน (to estimate, to predict, to infer) : 1 meaning(s), 2 sentences
 - `yt-c22-006` : ไม่กินเส้นกับ (to dislike, to not get along with) : 1 meaning(s), 2 sentences
 - `yt-c22-008` : ใช้เงินเก่ง (to splurge, big spender) : 1 meaning(s), 2 sentences
 - `yt-c22-009` : ใช้เงินสุรุ่ยสุร่าย (to spend money extravagantly, to be wasteful with money) : 1 meaning(s), 2 sentences
+- `yt-c22-010` : หาม (to carry (e.g something heavy with 2 people and a stretcher)) : 1 meaning(s), 2 sentences
 - `yt-c22-011` : ยอ (to flatter, to suck up to) : 1 meaning(s), 2 sentences
 - `yt-c22-012` : อวย (to praise excessively, to hype up, to flatter) : 1 meaning(s), 2 sentences
 - `yt-c22-015` : หลับสบาย, ไปดี, กลับบ้านเก่า (to die, to pass away (various idioms)) : 1 meaning(s), 2 sentences
@@ -4929,6 +4934,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-8` : ฉ้อโกง (to defraud, to scam, to cheat someone (e.g out of money or property)) : 1 meaning(s), 2 sentences
 - `yt-c22-054` : คดีแพ่ง - คดีอาญา (civil case - criminal case) : 1 meaning(s), 2 sentences
 - `yt-c22-056` : เลี่ยง, หลีกเลี่ยง (to avoid, to evade (e.g law, tax, etc)) : 1 meaning(s), 2 sentences
+- `yt-c22-057` : พระธรรมวินัย (Buddhist doctrine and monastic discipline (rules for the monks and nuns to follow)) : 1 meaning(s), 2 sentences
 - `yt-c22-058` : ช่องโหว่ (loophole, gap, vulnerability) : 1 meaning(s), 2 sentences
 - `yt-c22-059` : ท้วม ((not rude) plump, chubby, somewhat overweight) : 1 meaning(s), 2 sentences
 - `yt-c22-060` : ผู้หลักผู้ใหญ่ (senior figure, elder, respected adult) : 1 meaning(s), 2 sentences
@@ -5124,6 +5130,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-001` : น้ำมันมะกอก (olive oil) : 1 meaning(s), 2 sentences
 - `wlt-c03-002` : นิดเดียว (only a little) : 1 meaning(s), 2 sentences
 - `wlt-c03-003` : นิสัยดี (well-behaved) : 1 meaning(s), 2 sentences
+- `wlt-c03-004b` : ดำริ (to have an idea, to conceive (royal)) : 1 meaning(s), 2 sentences
 - `wlt-c03-005` : เนื้อหมู (pork) : 1 meaning(s), 2 sentences
 - `wlt-c03-009` : ในไม่ช้า (soon, shortly) : 1 meaning(s), 2 sentences
 - `wlt-c03-013` : บ่อยๆ (often, frequently) : 1 meaning(s), 2 sentences
@@ -5331,8 +5338,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-011` : คำนึง, คำนึงถึง (to think deeply, to take into consideration) : 1 meaning(s), 2 sentences
 - `wlt-c06-013` : คู่หมั้น (fiance) : 1 meaning(s), 2 sentences
 - `wlt-c06-014` : เคยชิน (to get used to) : 1 meaning(s), 2 sentences
+- `wlt-c06-016` : เครื่องพิมพ์ดีด (typewriter) : 1 meaning(s), 2 sentences
 - `wlt-c06-017` : เครื่องมือ (tool) : 1 meaning(s), 2 sentences
 - `wlt-c06-019` : โครง (frame, skeleton) : 1 meaning(s), 2 sentences
+- `wlt-c06-020` : ใคร่ (to desire, to wish (literary)) : 1 meaning(s), 2 sentences
 - `wlt-c06-021` : ใครก็ตาม (whoever) : 1 meaning(s), 2 sentences
 - `wlt-c06-023` : งาม (beautiful, good-looking, pretty) : 1 meaning(s), 2 sentences
 - `wlt-c06-024` : งูเห่า (cobra) : 1 meaning(s), 2 sentences
@@ -5992,6 +6001,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-052` : รัสเซีย (Russia) : 1 meaning(s), 2 sentences
 - `wlt-c14-053` : ร้านตัดผม (barber shop) : 1 meaning(s), 2 sentences
 - `wlt-c14-054` : รีบ (to hurry) : 1 meaning(s), 2 sentences
+- `wlt-c14-056` : เรือน (house, dwelling (mostly used in compounds)) : 1 meaning(s), 2 sentences
 - `wlt-c14-057` : ลด (to reduce, to lower; to discount) : 2 meaning(s), 4 sentences
 - `wlt-c14-058` : ล้ม (to fall down, to topple, to collapse) : 1 meaning(s), 2 sentences
 - `wlt-c14-059` : ล่วงหน้า (in advance, beforehand) : 1 meaning(s), 2 sentences
