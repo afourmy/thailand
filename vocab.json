@@ -128749,11 +128749,15 @@
         "sentences": [
           {
             "thai": "คืนนี้มีสวดพระอภิธรรมที่วัด",
-            "en": "Tonight there's an Abhidhamma chanting at the temple."
+            "en": "Tonight there's an Abhidhamma chanting at the temple.",
+            "audio_src": "คืนนี้มีสวดพระอภิธรรมที่วัด",
+            "audio_en_src": "Tonight there's an Abhidhamma chanting at the temple."
           },
           {
             "thai": "พระอภิธรรมเป็นส่วนหนึ่งของพระไตรปิฎก",
-            "en": "The Abhidhamma is part of the Tripitaka."
+            "en": "The Abhidhamma is part of the Tripitaka.",
+            "audio_src": "พระอภิธรรมเป็นส่วนหนึ่งของพระไตรปิฎก",
+            "audio_en_src": "The Abhidhamma is part of the Tripitaka."
           }
         ]
       }
@@ -128773,11 +128777,15 @@
         "sentences": [
           {
             "thai": "ญาติๆ เดินรอบเมรุสามรอบ",
-            "en": "The relatives walked around the crematorium three times."
+            "en": "The relatives walked around the crematorium three times.",
+            "audio_src": "ญาติๆ เดินรอบเมรุสามรอบ",
+            "audio_en_src": "The relatives walked around the crematorium three times."
           },
           {
             "thai": "พรุ่งนี้บ่ายมีพิธีเผาที่เมรุวัดนี้",
-            "en": "Tomorrow afternoon there's a cremation at this temple's crematorium."
+            "en": "Tomorrow afternoon there's a cremation at this temple's crematorium.",
+            "audio_src": "พรุ่งนี้บ่ายมีพิธีเผาที่เมรุวัดนี้",
+            "audio_en_src": "Tomorrow afternoon there's a cremation at this temple's crematorium."
           }
         ]
       }
@@ -128824,11 +128832,30 @@
   },
   {
     "id": "yt-c03-063",
-    "thai": "ทอดผ้าบังสกุล",
+    "thai": "ทอดผ้าบังสุกุล",
     "english": "(at a funeral) to offer ceremonial cloths to monks in a merit-making ceremony",
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(at a funeral) to offer ceremonial cloths to monks in a merit-making ceremony",
+        "sentences": [
+          {
+            "thai": "ประธานในพิธีขึ้นทอดผ้าบังสุกุลหน้าเมรุ",
+            "en": "The chairman of the ceremony went up to offer the ceremonial cloth in front of the crematorium.",
+            "audio_src": "ประธานในพิธีขึ้นทอดผ้าบังสุกุลหน้าเมรุ",
+            "audio_en_src": "The chairman of the ceremony went up to offer the ceremonial cloth in front of the crematorium."
+          },
+          {
+            "thai": "ญาติผู้ใหญ่ได้รับเชิญให้ทอดผ้าบังสุกุล",
+            "en": "The senior relatives were invited to offer the ceremonial cloths.",
+            "audio_src": "ญาติผู้ใหญ่ได้รับเชิญให้ทอดผ้าบังสุกุล",
+            "audio_en_src": "The senior relatives were invited to offer the ceremonial cloths."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128845,11 +128872,15 @@
         "sentences": [
           {
             "thai": "แขกทยอยขึ้นไปวางดอกไม้จันทน์",
-            "en": "The guests took turns going up to lay the sandalwood flowers."
+            "en": "The guests took turns going up to lay the sandalwood flowers.",
+            "audio_src": "แขกทยอยขึ้นไปวางดอกไม้จันทน์",
+            "audio_en_src": "The guests took turns going up to lay the sandalwood flowers."
           },
           {
             "thai": "ชาวบ้านช่วยกันพับดอกไม้จันทน์",
-            "en": "The villagers folded sandalwood flowers together."
+            "en": "The villagers folded sandalwood flowers together.",
+            "audio_src": "ชาวบ้านช่วยกันพับดอกไม้จันทน์",
+            "audio_en_src": "The villagers folded sandalwood flowers together."
           }
         ]
       }
@@ -128889,11 +128920,15 @@
         "sentences": [
           {
             "thai": "ขอให้ดวงวิญญาณของท่านไปสถิตในสรวงสวรรค์",
-            "en": "May his soul rest in heaven."
+            "en": "May his soul rest in heaven.",
+            "audio_src": "ขอให้ดวงวิญญาณของท่านไปสถิตในสรวงสวรรค์",
+            "audio_en_src": "May his soul rest in heaven."
           },
           {
             "thai": "คนไทยเชื่อว่ามีเทวดาสถิตอยู่ตามต้นไม้ใหญ่",
-            "en": "Thais believe spirits dwell in big trees."
+            "en": "Thais believe spirits dwell in big trees.",
+            "audio_src": "คนไทยเชื่อว่ามีเทวดาสถิตอยู่ตามต้นไม้ใหญ่",
+            "audio_en_src": "Thais believe spirits dwell in big trees."
           }
         ]
       }
@@ -129121,11 +129156,15 @@
         "sentences": [
           {
             "thai": "อย่าใช้แต่ภาษาแชต เดี๋ยวภาษาเสีย",
-            "en": "Don't use only chat-speak, it'll ruin your language."
+            "en": "Don't use only chat-speak, it'll ruin your language.",
+            "audio_src": "อย่าใช้แต่ภาษาแชต เดี๋ยวภาษาเสีย",
+            "audio_en_src": "Don't use only chat-speak, it'll ruin your language."
           },
           {
             "thai": "ครูห่วงว่าเด็กสมัยนี้ภาษาเสียเพราะโซเชียล",
-            "en": "Teachers worry kids these days have sloppy language because of social media."
+            "en": "Teachers worry kids these days have sloppy language because of social media.",
+            "audio_src": "ครูห่วงว่าเด็กสมัยนี้ภาษาเสียเพราะโซเชียล",
+            "audio_en_src": "Teachers worry kids these days have sloppy language because of social media."
           }
         ]
       }
@@ -129145,11 +129184,15 @@
         "sentences": [
           {
             "thai": "ปีนี้ดวงไม่ดี เลยไปทำบุญสะเดาะเคราะห์ที่วัด",
-            "en": "My luck is bad this year, so I went to make merit at the temple to ward it off."
+            "en": "My luck is bad this year, so I went to make merit at the temple to ward it off.",
+            "audio_src": "ปีนี้ดวงไม่ดี เลยไปทำบุญสะเดาะเคราะห์ที่วัด",
+            "audio_en_src": "My luck is bad this year, so I went to make merit at the temple to ward it off."
           },
           {
             "thai": "หมอดูแนะนำให้ปล่อยปลาสะเดาะเคราะห์",
-            "en": "The fortune teller told me to release fish to ward off bad luck."
+            "en": "The fortune teller told me to release fish to ward off bad luck.",
+            "audio_src": "หมอดูแนะนำให้ปล่อยปลาสะเดาะเคราะห์",
+            "audio_en_src": "The fortune teller told me to release fish to ward off bad luck."
           }
         ]
       }
@@ -129179,11 +129222,15 @@
         "sentences": [
           {
             "thai": "กษัตริย์สมัยก่อนมีสนมหลายคน",
-            "en": "Kings in the old days had many concubines."
+            "en": "Kings in the old days had many concubines.",
+            "audio_src": "กษัตริย์สมัยก่อนมีสนมหลายคน",
+            "audio_en_src": "Kings in the old days had many concubines."
           },
           {
             "thai": "ละครเรื่องนี้เล่าเรื่องการชิงดีกันของเหล่าสนม",
-            "en": "This drama is about concubines scheming against each other."
+            "en": "This drama is about concubines scheming against each other.",
+            "audio_src": "ละครเรื่องนี้เล่าเรื่องการชิงดีกันของเหล่าสนม",
+            "audio_en_src": "This drama is about concubines scheming against each other."
           }
         ]
       }
@@ -129203,11 +129250,15 @@
         "sentences": [
           {
             "thai": "คืนลอยกระทง ผู้คนจุดประทีปกันทั้งเมือง",
-            "en": "On Loy Krathong night, people light lanterns all over town."
+            "en": "On Loy Krathong night, people light lanterns all over town.",
+            "audio_src": "คืนลอยกระทง ผู้คนจุดประทีปกันทั้งเมือง",
+            "audio_en_src": "On Loy Krathong night, people light lanterns all over town."
           },
           {
             "thai": "ที่สุโขทัยมีงานจุดประทีปนับพันดวง",
-            "en": "In Sukhothai there's a festival lighting thousands of lamps."
+            "en": "In Sukhothai there's a festival lighting thousands of lamps.",
+            "audio_src": "ที่สุโขทัยมีงานจุดประทีปนับพันดวง",
+            "audio_en_src": "In Sukhothai there's a festival lighting thousands of lamps."
           }
         ]
       }
@@ -129592,11 +129643,15 @@
         "sentences": [
           {
             "thai": "กลอนบทนี้คล้องจองกันดีมาก",
-            "en": "This poem rhymes really well."
+            "en": "This poem rhymes really well.",
+            "audio_src": "กลอนบทนี้คล้องจองกันดีมาก",
+            "audio_en_src": "This poem rhymes really well."
           },
           {
             "thai": "พ่อแม่ตั้งชื่อลูกๆ ให้คล้องจองกัน",
-            "en": "The parents gave their kids rhyming names."
+            "en": "The parents gave their kids rhyming names.",
+            "audio_src": "พ่อแม่ตั้งชื่อลูกๆ ให้คล้องจองกัน",
+            "audio_en_src": "The parents gave their kids rhyming names."
           }
         ]
       }

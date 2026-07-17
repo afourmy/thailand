@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6989 words**
+**Total: 6999 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3828,13 +3828,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-056` : ภพ (existence, life (Buddhism)) : 1 meaning(s), 2 sentences
 - `new-30` : ภพภูมิ (realm, world, plane of existence (in Buddhist cosmology, beings are born in different realms based on karma)) : 1 meaning(s), 2 sentences
 - `yt-c03-057` : สวด (to chant, to recite (religious prayers)) : 1 meaning(s), 2 sentences
+- `yt-c03-058` : พระอภิธรรม (Abhidhamma (Buddhist scripture)) : 1 meaning(s), 2 sentences
+- `yt-c03-060` : เมรุ (Buddhist crematorium, funeral pyre) : 1 meaning(s), 2 sentences
 - `yt-c03-061` : ตามเข็มนาฬิกา - ทวนเข็มนาฬิกา (clockwise - counterclockwise) : 1 meaning(s), 2 sentences
+- `yt-c03-063` : ทอดผ้าบังสุกุล ((at a funeral) to offer ceremonial cloths to monks in a merit-making ceremony) : 1 meaning(s), 2 sentences
+- `yt-c03-064` : ดอกไม้จันทน์ (sandalwood flowers (used in funerals)) : 1 meaning(s), 2 sentences
+- `yt-c03-069` : สถิต (to be present, to be located, to reside (formal term used for spirits, deities, royals)) : 1 meaning(s), 2 sentences
 - `yt-c03-071` : เมาส์ (mouse) : 1 meaning(s), 2 sentences
 - `yt-c03-072` : แผ่นรองเมาส์ (mouse pad) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
 - `yt-c03-074` : ถ่านไฟ, ถ่าน (battery (e.g LR6, AA)) : 1 meaning(s), 2 sentences
 - `yt-c03-075` : กระติก (thermos (container for drinks, ice)) : 1 meaning(s), 2 sentences
 - `yt-c03-076` : กิ่ง, กิ่งไม้ (branch) : 1 meaning(s), 2 sentences
+- `yt-c03-079` : ภาษาเสีย (used about someone who speaks incorrectly (literally "broken language")) : 1 meaning(s), 2 sentences
+- `yt-c03-080` : สะเดาะเคราะห์ (to ward off bad luck) : 1 meaning(s), 2 sentences
+- `yt-c03-082` : สนม (concubine (woman in a king's harem), royal consort) : 1 meaning(s), 2 sentences
+- `yt-c03-083` : ประทีป (oil lamp, lantern (literary)) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
 - `yt-c03-085` : ด้วยซ้ำ (even, as well) : 1 meaning(s), 2 sentences
 - `yt-c03-087` : แฟ้ม (folder, file) : 1 meaning(s), 2 sentences
@@ -3845,6 +3854,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-095` : เสื่อ (mat) : 1 meaning(s), 2 sentences
 - `yt-c03-096` : ปู (crab; to spread, to lay out (e.g a mat)) : 2 meaning(s), 4 sentences
 - `yt-c03-097` : พับ (to fold) : 1 meaning(s), 2 sentences
+- `yt-c03-098` : คล้องจอง (to rhyme) : 1 meaning(s), 2 sentences
 - `yt-c03-099` : ทำนอง (melody, tune; manner, style) : 2 meaning(s), 4 sentences
 - `yt-c04-002` : ทำสวน (to do gardening) : 1 meaning(s), 2 sentences
 - `yt-c04-004` : กันและกัน (each other) : 1 meaning(s), 2 sentences
