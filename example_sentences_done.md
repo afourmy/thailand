@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7018 words**
+**Total: 7028 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3938,6 +3938,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-039` : สะกิด (to provoke, to poke, to nudge) : 1 meaning(s), 2 sentences
 - `yt-c05-040` : ฝาน (to slice thinly) : 1 meaning(s), 2 sentences
 - `yt-c05-046` : ที่คั่นหนังสือ (bookmark) : 1 meaning(s), 2 sentences
+- `yt-c05-048` : เขลา (ignorant, unintelligent, unwise (literary)) : 1 meaning(s), 2 sentences
+- `yt-c05-049` : บริวาร (attendant, servant) : 1 meaning(s), 2 sentences
+- `yt-c05-050` : มโหฬาร (gigantic, enormous) : 1 meaning(s), 2 sentences
 - `yt-c05-055` : เป้า (target) : 1 meaning(s), 2 sentences
 - `yt-c05-056` : ยก (to lift, to raise; a round (e.g in a boxing match)) : 2 meaning(s), 4 sentences
 - `yt-c05-059` : อุ่นใจ (to feel secure, at ease, to have peace of mind) : 1 meaning(s), 2 sentences
@@ -3949,8 +3952,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-070` : ผมบาง (thin hair) : 1 meaning(s), 2 sentences
 - `yt-c05-071` : หัวโล้น (completely bald) : 1 meaning(s), 2 sentences
 - `yt-c05-072` : แน่น (tight, dense, packed (e.g traffic, street)) : 1 meaning(s), 2 sentences
+- `yt-c05-077` : ซ่อนเร้น (to conceal, to keep hidden (e.g a secret)) : 1 meaning(s), 2 sentences
 - `yt-c05-080` : เฮง (lucky, fortunate) : 1 meaning(s), 2 sentences
+- `yt-c05-082` : บ่าว (servant, household attendant) : 1 meaning(s), 2 sentences
 - `yt-c05-083` : จูง (to lead, to guide, to pull (e.g by hand, or with a rope, a leash)) : 1 meaning(s), 2 sentences
+- `yt-c05-084` : หมอลำ (traditional Lao or Isan folk singer (songs with storytelling)) : 1 meaning(s), 2 sentences
+- `yt-c05-085` : แคน (traditional Lao - Isan musical instrument made of bamboo pipes) : 1 meaning(s), 2 sentences
 - `yt-c05-088` : ห่ม (to cover, to wrap (usually with a cloth, e.g blanket)) : 1 meaning(s), 2 sentences
 - `yt-c05-089` : ชนชั้น (social class, stratum) : 1 meaning(s), 2 sentences
 - `yt-c05-090` : ความเต็มใจ (willingness, readiness to do something) : 1 meaning(s), 2 sentences
@@ -3984,6 +3991,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-044` : ศาลพระภูมิ (spirit house) : 1 meaning(s), 2 sentences
 - `yt-c06-045` : เจ้าที่ (guardian spirit, local god of the land) : 1 meaning(s), 2 sentences
 - `yt-c06-046` : ของเซ่นไหว้ (offerings (e.g food, red fanta, flowers, incense, etc)) : 1 meaning(s), 2 sentences
+- `yt-c06-047` : สัมภเวสี (wandering ghost (ghost that does not have a home)) : 1 meaning(s), 2 sentences
+- `yt-c06-048` : ผีปอบ (flesh-eating ghost (kinda like a vampire)) : 1 meaning(s), 2 sentences
+- `yt-c06-051` : ตะกรุด (tubular scroll with sacred inscription) : 1 meaning(s), 2 sentences
 - `yt-c06-054` : ปุ๋ย (fertilizer) : 1 meaning(s), 2 sentences
 - `yt-c06-055` : นั่งซ้อนท้าย (to ride as a passenger on the back of a motorbike) : 1 meaning(s), 2 sentences
 - `yt-c06-056` : เอะใจ (to feel suspicious, to sense that something is odd) : 1 meaning(s), 2 sentences
