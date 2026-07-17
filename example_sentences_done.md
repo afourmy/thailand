@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7245 words**
+**Total: 7254 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -7028,6 +7028,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-096` : กระเทือน (to shake, to vibrate; (figuratively) to impact, to be disturbed, to be destabilized) : 2 meaning(s), 4 sentences
 - `t4k-c09-098` : เงินตรา (currency, monetary system) : 1 meaning(s), 2 sentences
 - `t4k-c10-000` : ขว้าง (to throw (with force), to pitch (a ball), to hurl) : 1 meaning(s), 2 sentences
+- `t4k-c10-004` : ผลตอบแทน (return (on investment), compensation, reward) : 1 meaning(s), 2 sentences
 - `t4k-c10-007` : โรแมนติก (romantic) : 1 meaning(s), 2 sentences
 - `t4k-c10-008` : เพิกถอน (to revoke, to withdraw, to cancel (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c10-011` : อุทธรณ์ (to appeal, appeal) : 1 meaning(s), 2 sentences
@@ -7061,12 +7062,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c10-068` : สายน้ำ (stream of water) : 1 meaning(s), 2 sentences
 - `t4k-c10-070` : เครื่องดนตรี (musical instrument) : 1 meaning(s), 2 sentences
 - `t4k-c10-071` : เจ๊ (older sister, older woman, "Madam" (used in Chinese-Thai context)) : 1 meaning(s), 2 sentences
+- `t4k-c10-073` : วงเงิน (approved financial limit, quota of spending or borrowing, credit limit) : 1 meaning(s), 2 sentences
 - `t4k-c10-074` : อุด (to plug, to fill, to block a hole) : 1 meaning(s), 2 sentences
 - `t4k-c10-078` : ส่วนผสม (ingredient, component) : 1 meaning(s), 2 sentences
 - `t4k-c10-083` : ลัด (to cut across, to bypass, to take a shortcut) : 1 meaning(s), 2 sentences
 - `t4k-c10-084` : พยุง (to hold up someone or something to prevent falling, to support; (figuratively) to prop up, to sustain) : 2 meaning(s), 4 sentences
 - `t4k-c10-088` : คอนเสิร์ต (concert) : 1 meaning(s), 2 sentences
 - `t4k-c10-090` : ว่างงาน (unemployed) : 1 meaning(s), 2 sentences
+- `t4k-c10-091` : ภาคี (partner, member) : 1 meaning(s), 2 sentences
 - `t4k-c10-092` : เกย์ (gay) : 1 meaning(s), 2 sentences
 - `t4k-c10-094` : ผู้ซื้อ (buyer) : 1 meaning(s), 2 sentences
 - `t4k-c10-098` : สืบสวน (to investigate (e.g crime, accident)) : 1 meaning(s), 2 sentences
@@ -7077,6 +7080,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-007` : ข้อกำหนด (regulation, specification) : 1 meaning(s), 2 sentences
 - `t4k-c11-009` : ข้อเรียกร้อง (demand, claim, request (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c11-011` : คำร้อง (petition; request) : 2 meaning(s), 4 sentences
+- `t4k-c11-014` : วิหาร (temple hall (Buddhism)) : 1 meaning(s), 2 sentences
 - `t4k-c11-017` : ผู้รับผิดชอบ (person in charge, responsible person) : 1 meaning(s), 2 sentences
 - `t4k-c11-018` : วิตามิน (vitamin) : 1 meaning(s), 2 sentences
 - `t4k-c11-020` : สาธารณรัฐ (republic) : 1 meaning(s), 2 sentences
@@ -7088,6 +7092,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-032` : เกร็ง (to contract (muscles), to harden; (figuratively) to be stiff, to be tense (nervous)) : 2 meaning(s), 4 sentences
 - `t4k-c11-034` : ทรุด (to sink, to subside, to collapse) : 1 meaning(s), 2 sentences
 - `t4k-c11-036` : นิดหนึ่ง (a little bit, just a little) : 1 meaning(s), 2 sentences
+- `t4k-c11-038` : รั้ง (to hold back, to restrain, to pull back) : 1 meaning(s), 2 sentences
 - `t4k-c11-040` : ต้าน (to resist, to oppose) : 1 meaning(s), 2 sentences
 - `t4k-c11-041` : คลินิก (clinic) : 1 meaning(s), 2 sentences
 - `t4k-c11-044` : ข้อพิพาท (dispute, conflict, disagreement (formal)) : 1 meaning(s), 2 sentences
@@ -7098,6 +7103,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-057` : ชื้น (damp, moist) : 1 meaning(s), 2 sentences
 - `t4k-c11-060` : กดขี่ (to oppress, to repress) : 1 meaning(s), 2 sentences
 - `t4k-c11-068` : กรรมสิทธิ์ (ownership) : 1 meaning(s), 2 sentences
+- `t4k-c11-069` : อุบล (water lily, lotus) : 1 meaning(s), 2 sentences
 - `t4k-c11-070` : นัง (girl, woman (slang, rude)) : 1 meaning(s), 2 sentences
 - `t4k-c11-072` : กระเพาะ (stomach) : 1 meaning(s), 2 sentences
 - `t4k-c11-075` : ข้างเคียง (adjacent, beside, next to) : 1 meaning(s), 2 sentences
@@ -7117,9 +7123,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-107` : พรรณนา (to depict, to portray, to describe in detail) : 1 meaning(s), 2 sentences
 - `t4k-c11-109` : เค้ก (cake) : 1 meaning(s), 2 sentences
 - `t4k-c11-110` : ยิ้มแย้ม (to smile happily, to have a cheerful facial expression) : 1 meaning(s), 2 sentences
+- `t4k-c11-111` : ปัญญาชน (scholar, intellectual (person)) : 1 meaning(s), 2 sentences
 - `t4k-c11-112` : ชาตินิยม (nationalism) : 1 meaning(s), 2 sentences
 - `t4k-c11-115` : หันหลัง (to turn one's back, to turn around) : 1 meaning(s), 2 sentences
 - `t4k-c11-118` : ผู้ส่งออก (exporter) : 1 meaning(s), 2 sentences
+- `t4k-c11-121` : ชี้ขาด (to rule, to arbitrate, to make a final decision, to determine the outcome) : 1 meaning(s), 2 sentences
 - `t4k-c11-122` : เหี่ยว (to lose freshness, to shrivel, to become dry and wrinkled) : 1 meaning(s), 2 sentences
 - `t4k-c11-123` : ฝ่ามือ (palm) : 1 meaning(s), 2 sentences
 - `t4k-c11-125` : ประถมศึกษา (primary education) : 1 meaning(s), 2 sentences
@@ -7128,6 +7136,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-130` : โธ่ ("oh dear", "come on!") : 1 meaning(s), 2 sentences
 - `t4k-c11-131` : ลูบ (to stroke, to rub gently (gently glide the hand over a surface, e.g cat, skin)) : 1 meaning(s), 2 sentences
 - `t4k-c11-134` : สปา (spa) : 1 meaning(s), 2 sentences
+- `parked-007` : ขอแสดงความนับถือ (best regards, yours sincerely) : 1 meaning(s), 2 sentences
 - `new-1` : ยาปฏิชีวนะ (antibiotics) : 1 meaning(s), 2 sentences
 - `new-2` : จูน (to fine-tune, to adjust, to calibrate (loanword, from "tune")) : 1 meaning(s), 2 sentences
 - `exd-002` : ที่ (at; that, which; times, occasions) : 3 meaning(s), 6 sentences
