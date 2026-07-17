@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6979 words**
+**Total: 6989 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3802,8 +3802,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-005` : จดจำ (to remember, to retain in memory) : 1 meaning(s), 2 sentences
 - `yt-c03-007` : ร้อย (hundred; to string, to thread (idea of connecting items in a sequence)) : 2 meaning(s), 4 sentences
+- `yt-c03-009` : พระอรหันต์ (an enlightened monk who has attained Nirvana) : 1 meaning(s), 2 sentences
 - `yt-c03-011` : ความเมตตา (compassion, deep kindness) : 1 meaning(s), 2 sentences
 - `yt-c03-014` : กระแทก (to slam, to hit with violent and sudden impact) : 1 meaning(s), 2 sentences
+- `yt-c03-015` : ควรแก่ (worthy of, deserving of) : 1 meaning(s), 2 sentences
+- `yt-c03-016` : อุปการะคุณ (support, benevolence (from someone who has helped you significantly)) : 1 meaning(s), 2 sentences
+- `yt-c03-019` : คำฟุ่มเฟือย (redundant words (words that can be removed without changing the meaning in Thai)) : 1 meaning(s), 2 sentences
 - `yt-c03-022` : ตัวหนา (bold (text, e.g in Word)) : 1 meaning(s), 2 sentences
 - `yt-c03-027` : จับใจความ (to grasp the main idea, to understand the gist of) : 1 meaning(s), 2 sentences
 - `yt-c03-029` : อาศัย, พึ่งพา, พึ่งพาอาศัย (to rely on, to depend on) : 1 meaning(s), 2 sentences
@@ -3817,6 +3821,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-044` : นั่งสมาธิ (to meditate) : 1 meaning(s), 2 sentences
 - `yt-c03-049` : รัวๆ (over and over, in quick succession, repeatedly, non-stop) : 1 meaning(s), 2 sentences
 - `yt-c03-050` : ยกโทษ (to forgive, to pardon) : 1 meaning(s), 2 sentences
+- `yt-c03-052` : ชาตะ - มรณะ ((about a deceased) born in - deceased in) : 1 meaning(s), 2 sentences
+- `yt-c03-053` : พวงหรีด (funeral wreath (circular arrangement of flowers)) : 1 meaning(s), 2 sentences
+- `yt-c03-054` : อาลัยยิ่ง ("with deepest condolences" (written on funeral wreath)) : 1 meaning(s), 2 sentences
+- `yt-c03-055` : ขอให้ไปสู่สุคติ ("may they be reborn in a good place", "may they have a good afterlife" (at a funeral)) : 1 meaning(s), 2 sentences
+- `yt-c03-056` : ภพ (existence, life (Buddhism)) : 1 meaning(s), 2 sentences
+- `new-30` : ภพภูมิ (realm, world, plane of existence (in Buddhist cosmology, beings are born in different realms based on karma)) : 1 meaning(s), 2 sentences
 - `yt-c03-057` : สวด (to chant, to recite (religious prayers)) : 1 meaning(s), 2 sentences
 - `yt-c03-061` : ตามเข็มนาฬิกา - ทวนเข็มนาฬิกา (clockwise - counterclockwise) : 1 meaning(s), 2 sentences
 - `yt-c03-071` : เมาส์ (mouse) : 1 meaning(s), 2 sentences
