@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 6969 words**
+**Total: 6979 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3775,11 +3775,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-056` : โบก (to wave (e.g a hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c02-057` : ฟาด (to strike, to hit strongly (e.g with stick, whip); to eat a lot, to devour) : 2 meaning(s), 4 sentences
 - `yt-c02-058` : ฟัก (winter melon, wax gourd) : 1 meaning(s), 2 sentences
+- `yt-c02-061` : ตรัสรู้ (to attain enlightment, to realize the ultimate truth (royal Buddhist term)) : 1 meaning(s), 2 sentences
+- `yt-c02-062` : ปฐมเทศนา (first sermon (Buddha's first teaching after the enlightment)) : 1 meaning(s), 2 sentences
+- `yt-c02-064` : บรรลุธรรม (to attain enlightenment, to realize the Dhamma (religious)) : 1 meaning(s), 2 sentences
+- `yt-c02-068` : สมุทัย (cause of suffering (religious)) : 1 meaning(s), 2 sentences
+- `yt-c02-069` : นิโรธ (cessation of suffering (religious)) : 1 meaning(s), 2 sentences
 - `yt-c02-070` : ตัวกลาง (medium, intermediary, middleman) : 1 meaning(s), 2 sentences
 - `yt-c02-071` : ตักบาตร (offering food to monks (religious term)) : 1 meaning(s), 2 sentences
 - `yt-c02-074` : พูดปด (to lie, to tell a lie) : 1 meaning(s), 2 sentences
+- `yt-c02-075` : กาม (lust, sexual craving) : 1 meaning(s), 2 sentences
+- `yt-c02-080` : เวียนเทียน (candlelight procession around a sacred site (3 circles)) : 1 meaning(s), 2 sentences
 - `yt-c02-082` : พนมมือ (to press palms together (greeting, prayer)) : 1 meaning(s), 2 sentences
+- `yt-c02-083` : จรด (to touch, to place exactly, to reach) : 1 meaning(s), 2 sentences
 - `yt-c02-085` : ก้มหัว (to bow the head) : 1 meaning(s), 2 sentences
+- `yt-c02-086` : รูป (classifier for monks and novice monks) : 1 meaning(s), 2 sentences
+- `yt-c02-088` : มรณภาพ (to pass away, to die (religious: for monks only)) : 1 meaning(s), 2 sentences
 - `yt-c02-090` : รสจัด (strong flavor, intense taste) : 1 meaning(s), 2 sentences
 - `yt-c02-091` : อุดมสมบูรณ์ (abundant, fertile) : 1 meaning(s), 2 sentences
 - `yt-c02-094` : นิ้วโป้ง, นิ้วหัวแม่มือ (thumb) : 1 meaning(s), 2 sentences
