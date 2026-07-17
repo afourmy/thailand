@@ -154656,11 +154656,15 @@
         "sentences": [
           {
             "thai": "เพื่อนบ้านทะเลาะกัน ฉันก็เอาหูไปนา เอาตาไปไร่",
-            "en": "When the neighbors fight, I just pretend not to see or hear anything."
+            "en": "When the neighbors fight, I just pretend not to see or hear anything.",
+            "audio_src": "เพื่อนบ้านทะเลาะกัน ฉันก็เอาหูไปนา เอาตาไปไร่",
+            "audio_en_src": "When the neighbors fight, I just pretend not to see or hear anything."
           },
           {
             "thai": "หัวหน้าเอาหูไปนา เอาตาไปไร่ ทั้งที่รู้ว่ามีคนโกง",
-            "en": "The boss turns a blind eye even though he knows someone's cheating."
+            "en": "The boss turns a blind eye even though he knows someone's cheating.",
+            "audio_src": "หัวหน้าเอาหูไปนา เอาตาไปไร่ ทั้งที่รู้ว่ามีคนโกง",
+            "audio_en_src": "The boss turns a blind eye even though he knows someone's cheating."
           }
         ]
       }
@@ -154821,11 +154825,15 @@
         "sentences": [
           {
             "thai": "กองไฟลุกโชนกลางค่าย",
-            "en": "The bonfire blazed in the middle of the camp."
+            "en": "The bonfire blazed in the middle of the camp.",
+            "audio_src": "กองไฟลุกโชนกลางค่าย",
+            "audio_en_src": "The bonfire blazed in the middle of the camp."
           },
           {
             "thai": "แสงตะวันส่องโชนไปทั่วทุ่ง",
-            "en": "The sunlight blazed across the fields."
+            "en": "The sunlight blazed across the fields.",
+            "audio_src": "แสงตะวันส่องโชนไปทั่วทุ่ง",
+            "audio_en_src": "The sunlight blazed across the fields."
           }
         ]
       }
@@ -154905,11 +154913,15 @@
         "sentences": [
           {
             "thai": "อุณหภูมิต่ำกว่าจุดน้ำค้างเลยมีหมอก",
-            "en": "The temperature dropped below the dew point, so there's fog."
+            "en": "The temperature dropped below the dew point, so there's fog.",
+            "audio_src": "อุณหภูมิต่ำกว่าจุดน้ำค้างเลยมีหมอก",
+            "audio_en_src": "The temperature dropped below the dew point, so there's fog."
           },
           {
             "thai": "คืนไหนอุณหภูมิแตะจุดน้ำค้าง หญ้าจะเปียกตอนเช้า",
-            "en": "On nights when the temperature hits the dew point, the grass is wet by morning."
+            "en": "On nights when the temperature hits the dew point, the grass is wet by morning.",
+            "audio_src": "คืนไหนอุณหภูมิแตะจุดน้ำค้าง หญ้าจะเปียกตอนเช้า",
+            "audio_en_src": "On nights when the temperature hits the dew point, the grass is wet by morning."
           }
         ]
       }
@@ -154929,11 +154941,15 @@
         "sentences": [
           {
             "thai": "วันนี้ความชื้นสัมพัทธ์สูงถึง 90 เปอร์เซ็นต์",
-            "en": "Today the relative humidity is up to 90 percent."
+            "en": "Today the relative humidity is up to 90 percent.",
+            "audio_src": "วันนี้ความชื้นสัมพัทธ์สูงถึง 90 เปอร์เซ็นต์",
+            "audio_en_src": "Today the relative humidity is up to 90 percent."
           },
           {
             "thai": "ความชื้นสัมพัทธ์สูงทำให้รู้สึกร้อนกว่าปกติ",
-            "en": "High relative humidity makes it feel hotter than it is."
+            "en": "High relative humidity makes it feel hotter than it is.",
+            "audio_src": "ความชื้นสัมพัทธ์สูงทำให้รู้สึกร้อนกว่าปกติ",
+            "audio_en_src": "High relative humidity makes it feel hotter than it is."
           }
         ]
       }
@@ -154962,11 +154978,15 @@
         "sentences": [
           {
             "thai": "ร้านนี้ขายทุกอย่างตั้งแต่สากกระเบือยันเรือรบ",
-            "en": "This shop sells everything from a pestle to a battleship."
+            "en": "This shop sells everything from a pestle to a battleship.",
+            "audio_src": "ร้านนี้ขายทุกอย่างตั้งแต่สากกระเบือยันเรือรบ",
+            "audio_en_src": "This shop sells everything from a pestle to a battleship."
           },
           {
             "thai": "เขาคุยได้ทุกเรื่องตั้งแต่สากกระเบือยันเรือรบ",
-            "en": "He can talk about anything, from pestles to battleships."
+            "en": "He can talk about anything, from pestles to battleships.",
+            "audio_src": "เขาคุยได้ทุกเรื่องตั้งแต่สากกระเบือยันเรือรบ",
+            "audio_en_src": "He can talk about anything, from pestles to battleships."
           }
         ]
       }
@@ -155003,11 +155023,30 @@
   },
   {
     "id": "yt-c16-060",
-    "thai": "คืนมาหอน",
+    "thai": "คืนหมาหอน",
     "english": "the night before an election when a corrupt politician gives money to villagers in exchange of their vote, prompting the dogs in the neighorhood to bark (literally \"the night when dogs howl\")",
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "the night before an election when a corrupt politician gives money to villagers in exchange of their vote, prompting the dogs in the neighorhood to bark (literally \"the night when dogs howl\")",
+        "sentences": [
+          {
+            "thai": "ตำรวจจับตาการซื้อเสียงช่วงคืนหมาหอน",
+            "en": "Police are watching for vote buying on the night before the election.",
+            "audio_src": "ตำรวจจับตาการซื้อเสียงช่วงคืนหมาหอน",
+            "audio_en_src": "Police are watching for vote buying on the night before the election."
+          },
+          {
+            "thai": "แถวบ้านฉัน คืนหมาหอนมีคนเดินแจกเงินจริงๆ",
+            "en": "In my neighborhood, people really do go around handing out money on the night the dogs howl.",
+            "audio_src": "แถวบ้านฉัน คืนหมาหอนมีคนเดินแจกเงินจริงๆ",
+            "audio_en_src": "In my neighborhood, people really do go around handing out money on the night the dogs howl."
+          }
+        ]
+      }
     ]
   },
   {
@@ -155487,11 +155526,15 @@
         "sentences": [
           {
             "thai": "กระผมขอขอบพระคุณเป็นอย่างสูงครับ",
-            "en": "I thank you most sincerely, sir."
+            "en": "I thank you most sincerely, sir.",
+            "audio_src": "กระผมขอขอบพระคุณเป็นอย่างสูงครับ",
+            "audio_en_src": "I thank you most sincerely, sir."
           },
           {
             "thai": "กระผมขออนุญาตเรียนชี้แจงครับ",
-            "en": "Allow me to explain, sir."
+            "en": "Allow me to explain, sir.",
+            "audio_src": "กระผมขออนุญาตเรียนชี้แจงครับ",
+            "audio_en_src": "Allow me to explain, sir."
           }
         ]
       }
@@ -155711,11 +155754,15 @@
         "sentences": [
           {
             "thai": "เขาเรียนครุศาสตร์เพราะอยากเป็นครู",
-            "en": "She's studying education because she wants to be a teacher."
+            "en": "She's studying education because she wants to be a teacher.",
+            "audio_src": "เขาเรียนครุศาสตร์เพราะอยากเป็นครู",
+            "audio_en_src": "She's studying education because she wants to be a teacher."
           },
           {
             "thai": "จบครุศาสตร์แล้วไปสอบบรรจุครู",
-            "en": "After graduating in education, he took the teacher placement exam."
+            "en": "After graduating in education, he took the teacher placement exam.",
+            "audio_src": "จบครุศาสตร์แล้วไปสอบบรรจุครู",
+            "audio_en_src": "After graduating in education, he took the teacher placement exam."
           }
         ]
       }
@@ -155735,11 +155782,15 @@
         "sentences": [
           {
             "thai": "วงดุริยางค์ของโรงเรียนซ้อมทุกเย็น",
-            "en": "The school band practices every evening."
+            "en": "The school band practices every evening.",
+            "audio_src": "วงดุริยางค์ของโรงเรียนซ้อมทุกเย็น",
+            "audio_en_src": "The school band practices every evening."
           },
           {
             "thai": "เขาเล่นทรัมเป็ตอยู่ในวงดุริยางค์ทหาร",
-            "en": "He plays trumpet in the military band."
+            "en": "He plays trumpet in the military band.",
+            "audio_src": "เขาเล่นทรัมเป็ตอยู่ในวงดุริยางค์ทหาร",
+            "audio_en_src": "He plays trumpet in the military band."
           }
         ]
       }
@@ -156628,11 +156679,15 @@
         "sentences": [
           {
             "thai": "อย่ามัวหวังน้ำบ่อหน้า รีบคว้าโอกาสตรงหน้าไว้ก่อน",
-            "en": "Don't pin your hopes on the next well, grab the chance in front of you."
+            "en": "Don't pin your hopes on the next well, grab the chance in front of you.",
+            "audio_src": "อย่ามัวหวังน้ำบ่อหน้า รีบคว้าโอกาสตรงหน้าไว้ก่อน",
+            "audio_en_src": "Don't pin your hopes on the next well, grab the chance in front of you."
           },
           {
             "thai": "เขาไม่เก็บเงินเลย เอาแต่หวังน้ำบ่อหน้า",
-            "en": "He never saves, always counting on tomorrow's luck."
+            "en": "He never saves, always counting on tomorrow's luck.",
+            "audio_src": "เขาไม่เก็บเงินเลย เอาแต่หวังน้ำบ่อหน้า",
+            "audio_en_src": "He never saves, always counting on tomorrow's luck."
           }
         ]
       }

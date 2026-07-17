@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7175 words**
+**Total: 7185 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4562,12 +4562,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-040` : ยางลบ (eraser) : 1 meaning(s), 2 sentences
 - `yt-c16-041` : เดินละเมอ, นอนละเมอ (to sleepwalk) : 1 meaning(s), 2 sentences
 - `yt-c16-044` : นกสองหัว ((idiom) someone who tries to please both sides, is disloyal (literally "two-headed bird")) : 1 meaning(s), 2 sentences
+- `yt-c16-045` : เอาหูไปนา เอาตาไปไร่ ((idiom) pretending not to hear or see something (literally "take your ears to the rice field and your eyes to the farm")) : 1 meaning(s), 2 sentences
 - `yt-c16-046` : เย่อหยิ่ง (arrogant, haughty, full of oneself) : 1 meaning(s), 2 sentences
 - `yt-c16-048` : กระทบกระเทือน (to affect, to shake, to impact (physically or emotionally)) : 1 meaning(s), 2 sentences
 - `yt-c16-050` : ตกตะกอน (to precipitate (when solid particles in a liquid settle at the bottom); (figuratively) to settle down, to become clear over time (e.g emotions)) : 2 meaning(s), 4 sentences
+- `yt-c16-053` : โชน (blazing, bright, shining (literary, about sun, light, fire)) : 1 meaning(s), 2 sentences
 - `yt-c16-054` : เร่ร่อน (to wander from place to place without a fixed residence) : 1 meaning(s), 2 sentences
 - `yt-c16-054b` : คนเร่ร่อน (vagrant, homeless person) : 1 meaning(s), 2 sentences
+- `yt-c16-055` : จุดน้ำค้าง (dew point (temperature at which water vapor condenses into dew)) : 1 meaning(s), 2 sentences
+- `yt-c16-056` : ความชื้นสัมพัทธ์ (relative humidity (amount of water vapor in the air compared to the maximum amount the air can hold at a given temperature)) : 1 meaning(s), 2 sentences
+- `yt-c16-058` : สากกระเบือยันเรือรบ (everything from the smallest thing to the biggest thing, everything from A to Z (literally "from a pestle all the way to a battleship")) : 1 meaning(s), 2 sentences
 - `yt-c16-059` : ทุจริต (corruption, fraud, misconduct) : 1 meaning(s), 2 sentences
+- `yt-c16-060` : คืนหมาหอน (the night before an election when a corrupt politician gives money to villagers in exchange of their vote, prompting the dogs in the neighorhood to bark (literally "the night when dogs howl")) : 1 meaning(s), 2 sentences
 - `yt-c16-062` : บุญคุณ (indebted kindness (kindness someone has done for you that creates a moral obligation)) : 1 meaning(s), 2 sentences
 - `yt-c16-063` : หนักใจ (troubled, worried, burdened mentally) : 1 meaning(s), 2 sentences
 - `yt-c16-064` : ปลาไหล (eel) : 1 meaning(s), 2 sentences
@@ -4583,10 +4589,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-078` : กล้วย, กล้วยๆ, ง่ายเหมือนปอกกล้วยเข้าปาก (easy (various expressions using the word "banana")) : 1 meaning(s), 2 sentences
 - `yt-c16-079` : หมูๆ (very easy, a piece of cake) : 1 meaning(s), 2 sentences
 - `new-13` : จิ๊บๆ (trivial, no big deal, easy, insignificant (slang)) : 1 meaning(s), 2 sentences
+- `yt-c16-080` : กระผม (I (male counterpart of dichan, formal, rarely used)) : 1 meaning(s), 2 sentences
 - `yt-c16-081` : ตัวเอง (oneself; you (when speaking to your partner in romantic relationships)) : 2 meaning(s), 4 sentences
 - `yt-c16-082` : อย่าเยอะ ("don't exaggerate", "don't be too much", "don't overdo it") : 1 meaning(s), 2 sentences
 - `yt-c16-084` : บอกเป็นนัย (to imply, to hint at something) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
+- `yt-c16-088` : ครุศาสตร์ (pedagogy (field of pedagogy in education)) : 1 meaning(s), 2 sentences
+- `yt-c16-089` : ดุริยางค์ ((formal, old-fashioned) music (e.g classical music, orchestra)) : 1 meaning(s), 2 sentences
 - `yt-c16-090` : ตั้งตารอ (to look forward to, to eagerly wait for) : 1 meaning(s), 2 sentences
 - `yt-c16-093` : น้ำเค็ม (saltwater) : 1 meaning(s), 2 sentences
 - `yt-c16-094` : ฝ้า (melasma (dark patches on skin, skin discoloration)) : 1 meaning(s), 2 sentences
@@ -4611,6 +4620,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-029` : ลากิจ (personal leave (taking time off for personal errands)) : 1 meaning(s), 2 sentences
 - `yt-c17-031` : เครื่องถ่ายเอกสาร (photocopier) : 1 meaning(s), 2 sentences
 - `yt-c17-033` : คิดไปเอง (to imagine things, to overthink) : 1 meaning(s), 2 sentences
+- `yt-c17-035` : หวังน้ำบ่อหน้า ((idiom) to rely on future luck, to hope for something that may never happen (literally "hope for water next well")) : 1 meaning(s), 2 sentences
 - `yt-c17-041` : หลงทาง - หลงป่า (to be lost, to lose one's way - lost in the forest) : 1 meaning(s), 2 sentences
 - `yt-c17-042` : ขุ่น, ขุ่นมัว (murky, cloudy (liquid)) : 1 meaning(s), 2 sentences
 - `yt-c17-044` : ประชดประชัน (ironic, sarcastic, mocking) : 1 meaning(s), 2 sentences
