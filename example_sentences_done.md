@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7235 words**
+**Total: 7245 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6926,6 +6926,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-045` : นรก (hell) : 1 meaning(s), 2 sentences
 - `t4k-c07-047` : สภาผู้แทนราษฎร (house of representatives (lower house of parliament)) : 1 meaning(s), 2 sentences
 - `t4k-c07-053` : สันติภาพ (peace (opposite of war)) : 1 meaning(s), 2 sentences
+- `t4k-c07-056` : ความเพียร (perseverance, diligence (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-057` : สูญหาย (to be lost, to go missing, to disappear) : 1 meaning(s), 2 sentences
 - `t4k-c07-058` : นวล (soft, gentle (texture, light); pale (skin tone, color)) : 2 meaning(s), 4 sentences
 - `t4k-c07-061` : หรูหรา (luxurious, lavish, fancy) : 1 meaning(s), 2 sentences
@@ -6973,6 +6974,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c08-066` : ผ่านพ้น (to pass through, to get through, to be over) : 1 meaning(s), 2 sentences
 - `t4k-c08-069` : ประกันภัย (insurance) : 1 meaning(s), 2 sentences
 - `t4k-c08-073` : ตรึง (to fix, to pin, to hold in place) : 1 meaning(s), 2 sentences
+- `t4k-c08-079` : กู้ยืม (to take out a loan, to borrow) : 1 meaning(s), 2 sentences
 - `t4k-c08-080` : ศุลกากร (customs (government agency controlling imports / exports)) : 1 meaning(s), 2 sentences
 - `t4k-c08-081` : ดาวเทียม (satellite) : 1 meaning(s), 2 sentences
 - `t4k-c08-083` : ถ่ายภาพ (to take a photo (formal)) : 1 meaning(s), 2 sentences
@@ -6992,12 +6994,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-016` : ตามลำพัง (alone, by oneself) : 1 meaning(s), 2 sentences
 - `t4k-c09-018` : คุณวุฒิ (qualification, academic degree) : 1 meaning(s), 2 sentences
 - `t4k-c09-020` : เจ้าพนักงาน (public officer, government official) : 1 meaning(s), 2 sentences
+- `t4k-c09-025` : ตอ (stump (tree stump left after cutting)) : 1 meaning(s), 2 sentences
 - `t4k-c09-027` : บอกกล่าว (to inform, to notify) : 1 meaning(s), 2 sentences
 - `t4k-c09-029` : หมึก (ink) : 1 meaning(s), 2 sentences
 - `t4k-c09-032` : ช่อ (cluster, bunch; bouquet (of flowers)) : 2 meaning(s), 4 sentences
 - `t4k-c09-034` : ดัชนี (index (book, data), indicator) : 1 meaning(s), 2 sentences
 - `t4k-c09-037` : หากิน (to earn a living, to make a living) : 1 meaning(s), 2 sentences
 - `t4k-c09-042` : ไอน้ำ (steam (water)) : 1 meaning(s), 2 sentences
+- `t4k-c09-049` : มานะ (perseverance, determination (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c09-050` : จุดมุ่งหมาย (aim, objective, purpose) : 1 meaning(s), 2 sentences
 - `t4k-c09-051` : หวั่นไหว (emotionally shaken, deeply moved (unstable feelings)) : 1 meaning(s), 2 sentences
 - `t4k-c09-053` : นายอำเภอ (district chief, district officer) : 1 meaning(s), 2 sentences
@@ -7007,16 +7011,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-061` : เตรียมพร้อม (to be prepared, to get ready) : 1 meaning(s), 2 sentences
 - `t4k-c09-064` : ถ่ายทำ (to produce a movie, to shoot a movie) : 1 meaning(s), 2 sentences
 - `t4k-c09-067` : พุ่ม, พุ่มไม้ (bush) : 1 meaning(s), 2 sentences
+- `t4k-c09-069` : พระองค์เจ้า (king's son born by a lesser concubine) : 1 meaning(s), 2 sentences
 - `t4k-c09-070` : เกรด (grade (school)) : 1 meaning(s), 2 sentences
 - `t4k-c09-071` : สิทธิมนุษยชน (human rights) : 1 meaning(s), 2 sentences
 - `t4k-c09-072` : รับผิด (to take responsibility, to admit fault) : 1 meaning(s), 2 sentences
 - `t4k-c09-078` : ภาคตะวันออก (eastern) : 1 meaning(s), 2 sentences
 - `t4k-c09-080` : อนึ่ง (furthermore, moreover (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c09-081` : แทรกแซง (to intervene) : 1 meaning(s), 2 sentences
+- `t4k-c09-082` : กก (to brood, to incubate) : 1 meaning(s), 2 sentences
+- `t4k-c09-083` : หลักประกัน (guarantee, collateral (for loans or debts)) : 1 meaning(s), 2 sentences
 - `t4k-c09-085` : เงย (to look up, to raise the head) : 1 meaning(s), 2 sentences
 - `t4k-c09-090` : หมายเหตุ (note, remark, comment) : 1 meaning(s), 2 sentences
 - `t4k-c09-092` : เร่งรัด (to rush, to speed up, to expedite) : 1 meaning(s), 2 sentences
+- `t4k-c09-094` : ทำเนียบ (official residence, administrative residence; list, register) : 2 meaning(s), 4 sentences
+- `t4k-c09-095` : ขอน (log, tree trunk) : 1 meaning(s), 2 sentences
 - `t4k-c09-096` : กระเทือน (to shake, to vibrate; (figuratively) to impact, to be disturbed, to be destabilized) : 2 meaning(s), 4 sentences
+- `t4k-c09-098` : เงินตรา (currency, monetary system) : 1 meaning(s), 2 sentences
 - `t4k-c10-000` : ขว้าง (to throw (with force), to pitch (a ball), to hurl) : 1 meaning(s), 2 sentences
 - `t4k-c10-007` : โรแมนติก (romantic) : 1 meaning(s), 2 sentences
 - `t4k-c10-008` : เพิกถอน (to revoke, to withdraw, to cancel (formal)) : 1 meaning(s), 2 sentences
