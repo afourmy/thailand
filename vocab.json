@@ -162087,6 +162087,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(sexual position) to fuck while standing and carrying the girl (literally \"monkey carry melon\")",
+        "sentences": [
+          {
+            "thai": "คู่รักในหนังลองท่าลิงอุ้มแตง",
+            "en": "The couple in the movie tried the standing carry position.",
+            "audio_src": "คู่รักในหนังลองท่าลิงอุ้มแตง",
+            "audio_en_src": "The couple in the movie tried the standing carry position."
+          },
+          {
+            "thai": "ท่าลิงอุ้มแตงต้องใช้แรงแขนเยอะ",
+            "en": "The monkey-carrying-a-melon position takes a lot of arm strength.",
+            "audio_src": "ท่าลิงอุ้มแตงต้องใช้แรงแขนเยอะ",
+            "audio_en_src": "The monkey-carrying-a-melon position takes a lot of arm strength."
+          }
+        ]
+      }
     ]
   },
   {
@@ -162518,6 +162537,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(sexual, slang) micro-penis (literally \"green tea worm\")",
+        "sentences": [
+          {
+            "thai": "สาวๆ นินทากันเรื่องหนอนชาเขียวของแฟนเก่า",
+            "en": "The girls were gossiping about her ex's green tea worm.",
+            "audio_src": "สาวๆ นินทากันเรื่องหนอนชาเขียวของแฟนเก่า",
+            "audio_en_src": "The girls were gossiping about her ex's green tea worm."
+          },
+          {
+            "thai": "โดนล้อว่ามีหนอนชาเขียว",
+            "en": "He got teased for having a green tea worm.",
+            "audio_src": "โดนล้อว่ามีหนอนชาเขียว",
+            "audio_en_src": "He got teased for having a green tea worm."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163651,6 +163689,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "oneself is one's own refuge, rely on yourself first (literally \"oneself indeed is the refuge of oneself\")",
+        "sentences": [
+          {
+            "thai": "ครูยกพุทธสุภาษิตว่า ตนแลเป็นที่พึ่งแห่งตน",
+            "en": "The teacher quoted the Buddhist saying, oneself is one's own refuge.",
+            "audio_src": "ครูยกพุทธสุภาษิตว่า ตนแลเป็นที่พึ่งแห่งตน",
+            "audio_en_src": "The teacher quoted the Buddhist saying, oneself is one's own refuge."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163660,6 +163711,19 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(idiom) be mindful and discipline yourself, practice self-discipline (literally \"remind yourself by yourself\")",
+        "sentences": [
+          {
+            "thai": "หลวงพ่อสอนว่า จงเตือนตนด้วยตน",
+            "en": "The abbot taught, discipline yourself by yourself.",
+            "audio_src": "หลวงพ่อสอนว่า จงเตือนตนด้วยตน",
+            "audio_en_src": "The abbot taught, discipline yourself by yourself."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164077,6 +164141,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhist saying, proverb of Buddhist origin",
+        "sentences": [
+          {
+            "thai": "นักเรียนต้องท่องพุทธศาสนสุภาษิตในวิชาพระพุทธศาสนา",
+            "en": "Students have to memorize Buddhist sayings in religion class.",
+            "audio_src": "นักเรียนต้องท่องพุทธศาสนสุภาษิตในวิชาพระพุทธศาสนา",
+            "audio_en_src": "Students have to memorize Buddhist sayings in religion class."
+          },
+          {
+            "thai": "ป้ายในวัดเขียนพุทธศาสนสุภาษิตไว้ตามต้นไม้",
+            "en": "The temple hangs signs with Buddhist sayings on the trees.",
+            "audio_src": "ป้ายในวัดเขียนพุทธศาสนสุภาษิตไว้ตามต้นไม้",
+            "audio_en_src": "The temple hangs signs with Buddhist sayings on the trees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164086,6 +164169,31 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(poetic, literary) just like, as if",
+        "sentences": [
+          {
+            "thai": "เสียงเธอไพเราะดุจดั่งเสียงนางฟ้า",
+            "en": "Her voice is as lovely as an angel's.",
+            "audio_src": "เสียงเธอไพเราะดุจดั่งเสียงนางฟ้า",
+            "audio_en_src": "Her voice is as lovely as an angel's."
+          },
+          {
+            "thai": "ครูเปรียบดุจเรือจ้าง",
+            "en": "Teachers are like ferrymen.",
+            "audio_src": "ครูเปรียบดุจเรือจ้าง",
+            "audio_en_src": "Teachers are like ferrymen."
+          },
+          {
+            "thai": "เขารักเธอดั่งดวงใจ",
+            "en": "He loves her like his own heart.",
+            "audio_src": "เขารักเธอดั่งดวงใจ",
+            "audio_en_src": "He loves her like his own heart."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164314,10 +164422,29 @@
   {
     "id": "yt-c21-019",
     "thai": "บัวพ้นน้ำ",
-    "english": "(idiom) describes someone who stands out, has glowed up in life",
+    "english": "quick learner, someone who understands right away (lotus above the water)",
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "quick learner, someone who understands right away (lotus above the water)",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้เป็นบัวพ้นน้ำ สอนอะไรก็เข้าใจทันที",
+            "en": "This kid is a quick learner, he gets whatever you teach him right away.",
+            "audio_src": "เด็กคนนี้เป็นบัวพ้นน้ำ สอนอะไรก็เข้าใจทันที",
+            "audio_en_src": "This kid is a quick learner, he gets whatever you teach him right away."
+          },
+          {
+            "thai": "ลูกศิษย์แบบบัวพ้นน้ำ อธิบายรอบเดียวก็พอ",
+            "en": "With a student who's a lotus above the water, one explanation is enough.",
+            "audio_src": "ลูกศิษย์แบบบัวพ้นน้ำ อธิบายรอบเดียวก็พอ",
+            "audio_en_src": "With a student who's a lotus above the water, one explanation is enough."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164327,6 +164454,31 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(idiom) describes someone who is slow to understand, slow learner (literally \"lotus under the water\" - \"lotus in murky wet soil\")",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้เป็นบัวใต้น้ำ ต้องค่อยๆ สอน",
+            "en": "This kid is a slow bloomer, you have to teach him step by step.",
+            "audio_src": "เด็กคนนี้เป็นบัวใต้น้ำ ต้องค่อยๆ สอน",
+            "audio_en_src": "This kid is a slow bloomer, you have to teach him step by step."
+          },
+          {
+            "thai": "ครูไม่เคยมองว่าใครเป็นบัวในโคลนตม",
+            "en": "The teacher never sees any student as a hopeless case.",
+            "audio_src": "ครูไม่เคยมองว่าใครเป็นบัวในโคลนตม",
+            "audio_en_src": "The teacher never sees any student as a hopeless case."
+          },
+          {
+            "thai": "อย่าท้อ ถึงจะเป็นบัวในตมก็เบ่งบานได้",
+            "en": "Don't lose heart, even a lotus in the mud can bloom.",
+            "audio_src": "อย่าท้อ ถึงจะเป็นบัวในตมก็เบ่งบานได้",
+            "audio_en_src": "Don't lose heart, even a lotus in the mud can bloom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164446,6 +164598,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "post-drama residual signs, aftermath of an event, lingering signs of something that happened (e.g songkran)",
+        "sentences": [
+          {
+            "thai": "ผ่านไปอาทิตย์นึงแล้ว ยังมีควันหลงจากสงกรานต์อยู่เลย",
+            "en": "A week on, and there's still a lingering buzz from Songkran.",
+            "audio_src": "ผ่านไปอาทิตย์นึงแล้ว ยังมีควันหลงจากสงกรานต์อยู่เลย",
+            "audio_en_src": "A week on, and there's still a lingering buzz from Songkran."
+          },
+          {
+            "thai": "รายการเช้านี้เล่าควันหลงงานประกาศรางวัลเมื่อคืน",
+            "en": "This morning's show covered the afterglow of last night's awards.",
+            "audio_src": "รายการเช้านี้เล่าควันหลงงานประกาศรางวัลเมื่อคืน",
+            "audio_en_src": "This morning's show covered the afterglow of last night's awards."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164820,6 +164991,25 @@
     "frequency": "rare",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to eat greedily or voraciously, to wolf down (colloquial, often humorous or pejorative)",
+        "sentences": [
+          {
+            "thai": "เด็กๆ สวาปามพิซซ่าหมดถาดในห้านาที",
+            "en": "The kids wolfed down the whole pizza in five minutes.",
+            "audio_src": "เด็กๆ สวาปามพิซซ่าหมดถาดในห้านาที",
+            "audio_en_src": "The kids wolfed down the whole pizza in five minutes."
+          },
+          {
+            "thai": "หิวจนสวาปามข้าวสองจาน",
+            "en": "I was so hungry I devoured two plates of rice.",
+            "audio_src": "หิวจนสวาปามข้าวสองจาน",
+            "audio_en_src": "I was so hungry I devoured two plates of rice."
+          }
+        ]
+      }
     ]
   },
   {

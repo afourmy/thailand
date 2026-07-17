@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7205 words**
+**Total: 7215 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4772,6 +4772,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-000` : เงี่ยน (horny (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c20-002` : ช่วยตัวเอง (to masturbate (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-004` : ชักว่าว ((literally) to fly a kite; (figuratively, sexual) to masturbate (for men only)) : 2 meaning(s), 4 sentences
+- `yt-c20-008` : ลิงอุ้มแตง ((sexual position) to fuck while standing and carrying the girl (literally "monkey carry melon")) : 1 meaning(s), 2 sentences
 - `yt-c20-011` : โม๊ก (to give a blowjob, to give head (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-015` : กินเด็ก (to date or have sex with someone a lot younger than you (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-016` : พูดไปงั้นแหละ ((informal) "I'm just saying", "just saying it like that", "don't take it personally") : 1 meaning(s), 2 sentences
@@ -4785,6 +4786,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-025` : เลส (lesbian (slang, loanword)) : 1 meaning(s), 2 sentences
 - `yt-c20-028` : น้องชาย (younger brother) : 1 meaning(s), 2 sentences
 - `yt-c20-029` : งู (snake) : 1 meaning(s), 2 sentences
+- `yt-c20-030` : หนอนชาเขียว ((sexual, slang) micro-penis (literally "green tea worm")) : 1 meaning(s), 2 sentences
 - `yt-c20-035` : สาระแน (nosy, meddlesome) : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
@@ -4817,6 +4819,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-076` : ลี้ภัย (to seek refuge, to seek asylum) : 1 meaning(s), 2 sentences
 - `new-7` : ผู้ลี้ภัย (refugee) : 1 meaning(s), 2 sentences
 - `yt-c20-078` : กั๊ก (to hold something back, to keep secrets, to not go all in (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-081` : ตนแลเป็นที่พึ่งแห่งตน (oneself is one's own refuge, rely on yourself first (literally "oneself indeed is the refuge of oneself")) : 1 meaning(s), 1 sentences
+- `yt-c20-082` : จงเตือนตนด้วยตน ((idiom) be mindful and discipline yourself, practice self-discipline (literally "remind yourself by yourself")) : 1 meaning(s), 1 sentences
 - `yt-c20-083` : ช่างแม่ง ("screw it", "fuck that shit" (slang, vulgar)) : 1 meaning(s), 2 sentences
 - `yt-c20-084` : ฝากไว้ก่อนเถอะ ("I'll get back at you (get my revenge on you) later") : 1 meaning(s), 1 sentences
 - `yt-c20-085` : พ่อแม่ไม่สั่งสอนเหรอ ((very rude) didn't your parents teach you anything ?) : 1 meaning(s), 1 sentences
@@ -4831,13 +4835,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-097` : หลาบจำ (to be taught a lesson (when you're getting punished for something)) : 1 meaning(s), 2 sentences
 - `yt-c20-099` : คืนดี (to get back together (e.g after breaking up), to reconcile) : 1 meaning(s), 2 sentences
 - `yt-c21-000` : แตะตา, สะดุดตา (to strike the eyes, eye-catching) : 1 meaning(s), 2 sentences
+- `yt-c21-001` : พุทธศาสนสุภาษิต (Buddhist saying, proverb of Buddhist origin) : 1 meaning(s), 2 sentences
+- `yt-c21-002` : ดุจดั่ง, ดุจ, ดั่ง ((poetic, literary) just like, as if) : 1 meaning(s), 3 sentences
 - `yt-c21-005` : แซะ (to make sarcastic, snide remarks, to take a dig at someone (indirect, passive-aggressive criticism)) : 1 meaning(s), 2 sentences
 - `yt-c21-008` : ไม่ถือ (I don't mind (in the sense "I won't hold it against you")) : 1 meaning(s), 2 sentences
 - `yt-c21-009` : งานนอก (side job, freelance work) : 1 meaning(s), 2 sentences
 - `yt-c21-011` : กินแรง (to be a parasite, to freeload on others' effort (e.g not help one's team at work)) : 1 meaning(s), 2 sentences
 - `yt-c21-017` : จัดกัน (to have sex, to hook up (literally "to arrange something")) : 1 meaning(s), 2 sentences
+- `yt-c21-019` : บัวพ้นน้ำ (quick learner, someone who understands right away (lotus above the water)) : 1 meaning(s), 2 sentences
+- `yt-c21-020` : บัวใต้น้ำ - บัวในโคลนตม - บัวในตม ((idiom) describes someone who is slow to understand, slow learner (literally "lotus under the water" - "lotus in murky wet soil")) : 1 meaning(s), 3 sentences
 - `yt-c21-025` : ไปตามน้ำ ((idiom) to go with the flow) : 1 meaning(s), 2 sentences
 - `yt-c21-029` : แทงข้างหลัง ((expression) to stab in the back, to betray) : 1 meaning(s), 2 sentences
+- `yt-c21-030` : ควันหลง (post-drama residual signs, aftermath of an event, lingering signs of something that happened (e.g songkran)) : 1 meaning(s), 2 sentences
 - `yt-c21-032` : จู่โจม (to ambush, to raid, to launch a surprise attack) : 1 meaning(s), 2 sentences
 - `yt-c21-034` : ลงเรือลำเดียวกัน (to be in the same boat) : 1 meaning(s), 2 sentences
 - `yt-c21-035` : น้ำตาจระเข้ (fake tears, crocodile tears) : 1 meaning(s), 2 sentences
@@ -4849,6 +4858,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-045` : หนังโป๊ (porno) : 1 meaning(s), 2 sentences
 - `yt-c21-047` : คราง (to groan, to moan (e.g heavy work, sex)) : 1 meaning(s), 2 sentences
 - `yt-c21-048` : แดก (to devour, to eat (slang, rude)) : 1 meaning(s), 2 sentences
+- `yt-c21-049` : สวาปาม (to eat greedily or voraciously, to wolf down (colloquial, often humorous or pejorative)) : 1 meaning(s), 2 sentences
 - `yt-c21-050` : กินมูมมาม (to eat messily and greedily, to make a mess while eating (slang)) : 1 meaning(s), 2 sentences
 - `yt-c21-052` : ยอดมนุษย์ (superhero) : 1 meaning(s), 2 sentences
 - `yt-c21-053` : งานประดิษฐ์ (handicraft, craftwork) : 1 meaning(s), 2 sentences
