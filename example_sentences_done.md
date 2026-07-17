@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7155 words**
+**Total: 7165 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4463,6 +4463,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-060` : สินสอด (dowry, bride price (literally "property (goods, money) presented")) : 1 meaning(s), 2 sentences
 - `yt-c14-061` : เอาการเอางาน (hardworking, diligent, dedicated to work) : 1 meaning(s), 2 sentences
 - `yt-c14-062` : นิกาย (sect, religious order) : 1 meaning(s), 2 sentences
+- `yt-c14-063` : อภินิหาร (miracle, supernatural phenomenon (literary, religious)) : 1 meaning(s), 2 sentences
+- `yt-c14-066` : รักนวลสงวนตัว (chaste, to preserve one's chastity (literally "love purity and preserve oneself")) : 1 meaning(s), 2 sentences
 - `yt-c14-069` : เขิน (to feel shy in a cute, romantic way) : 1 meaning(s), 2 sentences
 - `yt-c14-070` : ปิ๊ง (to click, to instantly like, to have a sudden crush) : 1 meaning(s), 2 sentences
 - `yt-c14-071` : อ่อย (to hit on someone, to flirt) : 1 meaning(s), 2 sentences
@@ -4484,7 +4486,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-099` : จีบติด (to successfully flirt with someone) : 1 meaning(s), 2 sentences
 - `yt-c15-000` : รักแรกพบ (love at first sight) : 1 meaning(s), 2 sentences
 - `yt-c15-001` : คนคุย (a person you are casually seeing but not officially dating yet, still getting to know each other romantically) : 1 meaning(s), 2 sentences
+- `yt-c15-002` : หมาคาบไปแดก (มคได) (used when someone is too slow to act, too slow to claim something, usually a girl (literally "a dog will snatch and eat it")) : 1 meaning(s), 2 sentences
 - `yt-c15-003` : เล็ง (to target, to aim, to focus on) : 1 meaning(s), 2 sentences
+- `yt-c15-004` : ศีลเสมอกัน (to have the same level of virtue, to be morally compatible (as a couple)) : 1 meaning(s), 2 sentences
 - `yt-c15-007` : เล่นว่าว (to fly a kite) : 1 meaning(s), 2 sentences
 - `yt-c15-008` : รักษาสัญญา (to keep a promise, to honor an agreement) : 1 meaning(s), 2 sentences
 - `yt-c15-009` : ผิดคำพูด (to break a promise, to go back on one's word) : 1 meaning(s), 2 sentences
@@ -4492,6 +4496,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-011` : เหา (lice) : 1 meaning(s), 2 sentences
 - `yt-c15-012` : เห็บ - หมัด (tick (on animals and humans) - flea (on animals)) : 1 meaning(s), 2 sentences
 - `yt-c15-013` : ส่งสาร (to convey a message, to transmit information) : 1 meaning(s), 2 sentences
+- `yt-c15-014` : ฌาน (state of deep meditation (Buddhist)) : 1 meaning(s), 2 sentences
+- `yt-c15-015` : พระชายา (queen consort, royal wife) : 1 meaning(s), 2 sentences
+- `yt-c15-016` : ม้าดีดกะโหลก ((of a woman) clumsy, jumpy, with unrefined manners (literally "a horse kicking the coconut shell")) : 1 meaning(s), 2 sentences
+- `yt-c15-017` : แก้วหน้าม้า ((from fairytale) said of a girl who's ugly but good-hearted or talented) : 1 meaning(s), 2 sentences
 - `yt-c15-018` : ดูอ่อนกว่าวัย - ดูแก่กว่าวัย (to look younger than one's age - to look older than one's age) : 1 meaning(s), 2 sentences
 - `yt-c15-019` : พยาธิ (parasite, worm) : 1 meaning(s), 2 sentences
 - `yt-c15-021` : ตึง (tight, stretched, tense) : 1 meaning(s), 2 sentences
@@ -4500,9 +4508,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-026` : เป่ายิ้งฉุบ (rock paper scissors (game)) : 1 meaning(s), 2 sentences
 - `yt-c15-027` : บริสุทธิ์ใจ (pure-hearted, honest, sincere) : 1 meaning(s), 2 sentences
 - `yt-c15-028` : คด ((physically) bent, crooked; (morally) crooked, dishonest; to scoop rice) : 3 meaning(s), 6 sentences
+- `yt-c15-029` : ซื่อกินไม่หมด คดกินไม่นาน ("honest people may not get rich, but dishonest people won't last long" (literally "the honest person cannot eat it all; the dishonest person cannot eat it for long")) : 1 meaning(s), 1 sentences
 - `yt-c15-031` : นางงาม (beauty queen, beauty pageant) : 1 meaning(s), 2 sentences
 - `yt-c15-032` : แซ่บ (tasty and spicy (food); (figuratively) sexy, hot (girl)) : 2 meaning(s), 4 sentences
 - `yt-c15-033` : ปากแซ่บ (sharped-tongue, witty, cheeky) : 1 meaning(s), 2 sentences
+- `yt-c15-037` : เสลี่ยง (palanquin, a traditional seat carried by people to transport royalty or nobles in old times) : 1 meaning(s), 2 sentences
 - `yt-c15-040` : วีรบุรุษ - วีรสตรี (hero - heroine (literally "heroic + man - woman")) : 1 meaning(s), 2 sentences
 - `yt-c15-041` : ตั้งตัว (to get established, to set oneself up (in life, career, financially, etc)) : 1 meaning(s), 2 sentences
 - `yt-c15-053` : วลีเด็ด (catchphrase, iconic line, famous quote or expression) : 1 meaning(s), 2 sentences
