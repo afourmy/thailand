@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7165 words**
+**Total: 7175 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4515,6 +4515,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-037` : เสลี่ยง (palanquin, a traditional seat carried by people to transport royalty or nobles in old times) : 1 meaning(s), 2 sentences
 - `yt-c15-040` : วีรบุรุษ - วีรสตรี (hero - heroine (literally "heroic + man - woman")) : 1 meaning(s), 2 sentences
 - `yt-c15-041` : ตั้งตัว (to get established, to set oneself up (in life, career, financially, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-044` : สีดอกเลา (grayish, white and grey (said about hair of fur)) : 1 meaning(s), 2 sentences
+- `yt-c15-046` : พิธีแห่นางแมว (procession where people carry a cat (in a cage or a basket) to pray for rain during times of drought) : 1 meaning(s), 2 sentences
+- `yt-c15-047` : ที่เท่าแมวดิ้นตาย ((expression) very tiny space, narrow, cramped space (literally "a space where a cat would struggle and die")) : 1 meaning(s), 2 sentences
+- `yt-c15-051` : ปิดประตูตีแมว ((expression) to hide bad behavior and do something bad (e.g hit someone) behind closed doors) : 1 meaning(s), 2 sentences
 - `yt-c15-053` : วลีเด็ด (catchphrase, iconic line, famous quote or expression) : 1 meaning(s), 2 sentences
 - `yt-c15-054` : อวยไส้แตก (to overhype, to praise so much it's ridiculous, to praise to death (literally "praise until guts burst")) : 1 meaning(s), 2 sentences
 - `yt-c15-055` : เล้า (animal pen, coop) : 1 meaning(s), 2 sentences
@@ -4532,19 +4536,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-073` : ทำถึง (to "go all the way", executed perfectly (slang)) : 1 meaning(s), 2 sentences
 - `yt-c15-074` : ตกหล่น (to be unintentionally left out, to be omitted) : 1 meaning(s), 2 sentences
 - `yt-c15-077` : เสียหลัก (to lose one's balance (physically), to lose control, to lose one's stability (emotionally)) : 1 meaning(s), 2 sentences
+- `yt-c15-078` : ฝนลงเม็ด (to rain in drops (literary)) : 1 meaning(s), 2 sentences
 - `yt-c15-080` : เกา (to scratch (one's back, one's head, when it itches)) : 1 meaning(s), 2 sentences
 - `yt-c15-081` : ซัด (to throw, to hurl something forcefully) : 1 meaning(s), 2 sentences
 - `yt-c15-083` : โพสต์ท่า (to pose (for a photo, on stage, etc)) : 1 meaning(s), 2 sentences
 - `yt-c15-085` : ควง (to spin, to twirl, to rotate) : 1 meaning(s), 2 sentences
 - `yt-c15-086` : บ้วน (to rinse and spit, to spit out) : 1 meaning(s), 2 sentences
+- `yt-c15-090` : อับโชค (unlucky, unfortunate) : 1 meaning(s), 2 sentences
+- `yt-c15-092` : พระราชสำนัก (royal institution serving the King (officials, King residence, etc)) : 1 meaning(s), 2 sentences
 - `yt-c15-095` : ไม่สมเหตุสมผล ("it doesn't make sense") : 1 meaning(s), 2 sentences
 - `yt-c15-097` : เสื่อมเสีย (to damage, to tarnish (usually reputation, social standing)) : 1 meaning(s), 2 sentences
 - `yt-c15-098` : นางร้าย (female antagonist, bad female character in a lakon (hits the nang eek, etc)) : 1 meaning(s), 2 sentences
 - `yt-c16-002` : สายทำอาหาร (someone who's into cooking, a cooking hobbyist) : 1 meaning(s), 2 sentences
 - `yt-c16-003` : ฝุ่นควัน (air pollution, smog) : 1 meaning(s), 2 sentences
 - `yt-c16-005` : ฟาง (straw (dried stalks left after harvesting)) : 1 meaning(s), 2 sentences
+- `yt-c16-008` : ไม้ดัด (sort of bonsai-like ornamental plant) : 1 meaning(s), 2 sentences
 - `yt-c16-009` : ใจอ่อน - ใจแข็ง (soft-hearted, gives in easily, forgives easily - (opposite) firm-hearted, doesn't give in or forgive easily) : 1 meaning(s), 2 sentences
 - `yt-c16-010` : ผลุด, โผล่ (to pop up suddenly, to spring out (e.g a thought)) : 1 meaning(s), 2 sentences
+- `yt-c16-012` : รู้ไว้ใช่ว่าใส่บ่าแบกหาม ((idiom) learning something is never a waste (literally "keep the knowledge, it's not as if you put on shoulder and have to carry")) : 1 meaning(s), 1 sentences
 - `yt-c16-033` : ก้ามปู (crab claw, pincer) : 1 meaning(s), 2 sentences
 - `yt-c16-034` : ชู (to raise, to lift up (something for others to see, e.g your hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c16-035` : ไข (to solve, to figure out (e.g a problem, a puzzle); to turn, to operate) : 2 meaning(s), 4 sentences
@@ -4552,6 +4561,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-039` : คนโลกส่วนตัวสูง (introverted, keeps to oneself) : 1 meaning(s), 2 sentences
 - `yt-c16-040` : ยางลบ (eraser) : 1 meaning(s), 2 sentences
 - `yt-c16-041` : เดินละเมอ, นอนละเมอ (to sleepwalk) : 1 meaning(s), 2 sentences
+- `yt-c16-044` : นกสองหัว ((idiom) someone who tries to please both sides, is disloyal (literally "two-headed bird")) : 1 meaning(s), 2 sentences
 - `yt-c16-046` : เย่อหยิ่ง (arrogant, haughty, full of oneself) : 1 meaning(s), 2 sentences
 - `yt-c16-048` : กระทบกระเทือน (to affect, to shake, to impact (physically or emotionally)) : 1 meaning(s), 2 sentences
 - `yt-c16-050` : ตกตะกอน (to precipitate (when solid particles in a liquid settle at the bottom); (figuratively) to settle down, to become clear over time (e.g emotions)) : 2 meaning(s), 4 sentences
