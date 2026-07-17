@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7028 words**
+**Total: 7038 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3994,6 +3994,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-047` : สัมภเวสี (wandering ghost (ghost that does not have a home)) : 1 meaning(s), 2 sentences
 - `yt-c06-048` : ผีปอบ (flesh-eating ghost (kinda like a vampire)) : 1 meaning(s), 2 sentences
 - `yt-c06-051` : ตะกรุด (tubular scroll with sacred inscription) : 1 meaning(s), 2 sentences
+- `yt-c06-053` : ตารางสีเสื้อมงคล (auspicious shirt color chart (one color per day of the week for clothes)) : 1 meaning(s), 2 sentences
 - `yt-c06-054` : ปุ๋ย (fertilizer) : 1 meaning(s), 2 sentences
 - `yt-c06-055` : นั่งซ้อนท้าย (to ride as a passenger on the back of a motorbike) : 1 meaning(s), 2 sentences
 - `yt-c06-056` : เอะใจ (to feel suspicious, to sense that something is odd) : 1 meaning(s), 2 sentences
@@ -4002,9 +4003,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-059` : ปลาเผา (grilled fish) : 1 meaning(s), 2 sentences
 - `yt-c06-062` : สายจูง (leash (e.g for dogs)) : 1 meaning(s), 2 sentences
 - `yt-c06-064` : ฟุตบาท (sidewalk, pavement) : 1 meaning(s), 2 sentences
+- `yt-c06-065` : ฤดูผสมพันธุ์ (mating season) : 1 meaning(s), 2 sentences
 - `yt-c06-066` : กระดิก (to wiggle, to twitch, to move slightly back and forth) : 1 meaning(s), 2 sentences
+- `yt-c06-067` : กรมปศุสัตว์ (Department of Livestock Development) : 1 meaning(s), 2 sentences
 - `yt-c06-068` : จรจัด (stray (of animals, e.g stray dogs)) : 1 meaning(s), 2 sentences
 - `yt-c06-070` : ใส่บาตร (to give alms (offer food) to monks) : 1 meaning(s), 2 sentences
+- `yt-c06-072` : การศึกษาตามอัธยาศัย (informal education, informal learning) : 1 meaning(s), 2 sentences
+- `yt-c06-076` : ปวช, ประกาศนียบัตรวิชาชีพ (vocational certificate (first step of vocational education)) : 1 meaning(s), 2 sentences
 - `yt-c06-077` : ปริญญาโท (master degree (in Thai university)) : 1 meaning(s), 2 sentences
 - `yt-c06-078` : ศูนย์อาหาร (food court) : 1 meaning(s), 2 sentences
 - `yt-c06-079` : โยก (to shake, to sway, to move back and forth, to shift) : 1 meaning(s), 2 sentences
@@ -4018,10 +4023,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-088` : แห้งแล้ง (arid, very dry) : 1 meaning(s), 2 sentences
 - `yt-c06-090` : สายพันธุ์ (species, breed, strain) : 1 meaning(s), 2 sentences
 - `yt-c06-091` : น้ำจืด (fresh water (from rivers, lake, so not salty)) : 1 meaning(s), 2 sentences
+- `yt-c06-092` : คอพอก (goiter (swelling of the neck caused by iodine deficiency, usually in northern Thailand)) : 1 meaning(s), 2 sentences
 - `yt-c06-093` : ปลาร้า (fermented fish) : 1 meaning(s), 2 sentences
 - `yt-c06-095` : ชนชั้นสูง (upper class, elite class) : 1 meaning(s), 2 sentences
 - `yt-c06-097` : ศาลาวัด (temple hall) : 1 meaning(s), 2 sentences
+- `yt-c06-098` : จำวัด (to sleep (used for Buddhist monks only)) : 1 meaning(s), 2 sentences
+- `yt-c06-099` : กุฏิ (monk's living quarter, cubicle where monks live and sleep) : 1 meaning(s), 2 sentences
 - `yt-c07-002` : ไฟแช็ค (lighter) : 1 meaning(s), 2 sentences
+- `yt-c07-006` : แด่ (to, for, in honor of (formal, poetic)) : 1 meaning(s), 2 sentences
+- `yt-c07-007` : ชุดกรวดน้ำ (set of items used in Thai water pouring ceremony in a temple) : 1 meaning(s), 2 sentences
 - `yt-c07-012` : ผุ (to decay, to rot, to deteriorate, rotten) : 1 meaning(s), 2 sentences
 - `yt-c07-013` : ต่อเติม (to extend, to add on, to renovate (by expansion)) : 1 meaning(s), 2 sentences
 - `yt-c07-014` : สถานีขนส่งผู้โดยสาร (บขส) (passenger bus terminal) : 1 meaning(s), 2 sentences
