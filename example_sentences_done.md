@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7834 words**
+**Total: 7844 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2530,9 +2530,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-163` : สะดุดตา (eye-catching, striking) : 1 meaning(s), 2 sentences
 - `tsl-164` : สำรวจ (to survey, to explore, to inspect) : 1 meaning(s), 2 sentences
 - `tsl-165` : ส่งเสริม (to support, encourage, promote) : 1 meaning(s), 2 sentences
+- `tsl-166` : ช่างตัดเสื้อ (tailor) : 1 meaning(s), 2 sentences
 - `tsl-167` : เนื้อผ้า (fabric, cloth texture) : 1 meaning(s), 2 sentences
+- `tsl-168` : ดิ้น (to wriggle, to squirm, to thrash) : 1 meaning(s), 2 sentences
+- `tsl-169` : นักการทูต (diplomat) : 1 meaning(s), 2 sentences
 - `tsl-171` : แบบอย่าง (model, example, exemplar) : 1 meaning(s), 2 sentences
 - `tsl-173` : ขี่ช้างจับตั๊กแตน ((idiom) using enormous resources for a small task (literally "ride an elephant to catch a grasshopper")) : 1 meaning(s), 2 sentences
+- `tsl-174` : ของกำนัล (present, token of appreciation (formal)) : 1 meaning(s), 2 sentences
+- `tsl-175` : หยั่งเชิง (to test the waters, to gauge someone's reaction) : 1 meaning(s), 2 sentences
+- `tsl-176` : ลักษณะคลุมๆ (vague, in an approximate way, broadly described) : 1 meaning(s), 2 sentences
 - `tsl-177` : เล่นเฟซบุ๊ก - เล่นอินสตาแกรม (to use Facebook - Instagram) : 2 meaning(s), 4 sentences
 - `tsl-178` : จะเป็นอะไรไหมถ้า... ("do you mind if...?") : 1 meaning(s), 2 sentences
 - `tsl-179` : ...เนาะ ("..., right?", "..., isn't it" (Northern Thai sentence ending)) : 1 meaning(s), 2 sentences
@@ -2549,8 +2555,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-191` : ชุบมือเปิบ (to take credit without contributing, to benefit from someone else's work (idiom, literally "dip hand and eat")) : 1 meaning(s), 2 sentences
 - `tsl-192` : ดาวน์ (downpayment, deposit) : 1 meaning(s), 2 sentences
 - `tsl-193` : งวด (installment of a payment; (cooking) reduced, simmered) : 2 meaning(s), 4 sentences
+- `tsl-194` : ระยะประกัน (warranty period, guarantee period) : 1 meaning(s), 2 sentences
 - `tsl-195` : คันเร่ง (accelerator pedal (of a vehicle)) : 1 meaning(s), 2 sentences
+- `tsl-196` : ศัตรูพืช (crop pest, agricultural pest (animals and insects that damage plants)) : 1 meaning(s), 2 sentences
+- `tsl-197` : แม่เหล็ก (magnet) : 1 meaning(s), 2 sentences
 - `tsl-198` : ผัดวันประกันพรุ่ง (to procrastinate) : 1 meaning(s), 2 sentences
+- `tsl-199` : สถานกงสุล (consulate) : 1 meaning(s), 2 sentences
 - `tsl-202` : อนุมัติ (to approve) : 1 meaning(s), 2 sentences
 - `tsl-203` : ต่ออายุ (to renew, to extend (document, passport, etc)) : 1 meaning(s), 2 sentences
 - `tsl-204` : บัตรประจำตัวประชาชน (citizen ID card) : 1 meaning(s), 2 sentences
