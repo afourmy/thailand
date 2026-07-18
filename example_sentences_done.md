@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8234 words**
+**Total: 8244 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4866,7 +4866,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-059` : ย้อนแสง (backlit, against the light) : 1 meaning(s), 2 sentences
 - `yt-c04-060` : ริน (to pour gently, to pour slowly) : 1 meaning(s), 2 sentences
 - `yt-c04-061` : โชกโชน (seasoned, highly experienced) : 1 meaning(s), 2 sentences
+- `yt-c04-063` : บ้านสวน (garden house (house with a garden)) : 1 meaning(s), 2 sentences
 - `yt-c04-064` : ขี้ไคล (scurf (dead skin flakes, body dirt)) : 1 meaning(s), 2 sentences
+- `yt-c04-065` : อบไอน้ำ (to take a steam bath (wet heat, different from sauna which is dry heat)) : 1 meaning(s), 2 sentences
 - `yt-c04-066` : ปลาทู (mackerel) : 1 meaning(s), 2 sentences
 - `yt-c04-067` : หอยแมลงภู่ (mussel) : 1 meaning(s), 2 sentences
 - `yt-c04-068` : หอยแครง (blood cockle) : 1 meaning(s), 2 sentences
@@ -4876,6 +4878,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-073` : ข้าวโพดอ่อน (baby corn) : 1 meaning(s), 2 sentences
 - `yt-c04-075` : มังคุด (mangosteen) : 1 meaning(s), 2 sentences
 - `yt-c04-076` : เงาะ (rambutan) : 1 meaning(s), 2 sentences
+- `yt-c04-079` : เขย่ง, เขย่งเท้า (to tiptoe, to stand on tiptoe) : 1 meaning(s), 2 sentences
 - `yt-c04-080` : ราง (track, rail) : 1 meaning(s), 2 sentences
 - `yt-c04-081` : กระบะ (container, tray (e.g at airport security)) : 1 meaning(s), 2 sentences
 - `yt-c04-082` : สะพาย (to carry over the shoulder (e.g a bag)) : 1 meaning(s), 2 sentences
@@ -4888,13 +4891,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-090` : ข้างแรม (waning moon phase (when the moon is becoming less visible)) : 1 meaning(s), 2 sentences
 - `yt-c04-091` : ข้างขึ้น (waxing moon phase (when the moon is becoming more visible)) : 1 meaning(s), 2 sentences
 - `yt-c04-092` : ปฏิทินสุริยคติ (solar calendar) : 1 meaning(s), 2 sentences
+- `yt-c04-093` : ต้นไทร (banyan tree) : 1 meaning(s), 2 sentences
 - `yt-c04-094` : จุติ ((for a deity) to descend from heaven to be reborn as a man in the human world) : 1 meaning(s), 2 sentences
+- `yt-c04-095` : ตำรา (textbook, manual) : 1 meaning(s), 2 sentences
 - `yt-c04-096` : สังเวย (to sacrifice, to immolate (in a ritual, religious context)) : 1 meaning(s), 2 sentences
 - `yt-c04-097` : ท้า (to challenge, to dare (someone to do something)) : 1 meaning(s), 2 sentences
+- `yt-c04-098` : ฤทธิ์ (supernatural power, magical ability) : 1 meaning(s), 2 sentences
 - `yt-c04-099` : ดินสอพอง (white clay filler (white clay used for Songkran and other rituals)) : 1 meaning(s), 2 sentences
 - `yt-c05-000` : อัฐิ (cremated bones, ashes of the dead) : 1 meaning(s), 2 sentences
+- `yt-c05-001` : ควงแขน (to hold arms, walk arm in arm (as a couple)) : 1 meaning(s), 2 sentences
 - `yt-c05-003` : รูด (to swipe (e.g a credit card), to slide (e.g zipper)) : 1 meaning(s), 2 sentences
 - `yt-c05-004` : ฟันผุ (tooth decay, cavity) : 1 meaning(s), 2 sentences
+- `yt-c05-005` : ตะปูเกลียว (screw, threaded nail) : 1 meaning(s), 2 sentences
+- `yt-c05-006` : สว่าน (drill (the tool)) : 1 meaning(s), 2 sentences
+- `yt-c05-007` : ไขควง (screwdriver) : 1 meaning(s), 2 sentences
 - `yt-c05-009` : ซิงค์, อ่างล้างมือ (sink (e.g kitchen sink)) : 1 meaning(s), 2 sentences
 - `yt-c05-010` : เครื่องพิมพ์ (printer) : 1 meaning(s), 2 sentences
 - `yt-c05-011` : กิ๊บ, กิ๊บติดผม (hair clip, hair pin) : 1 meaning(s), 2 sentences
