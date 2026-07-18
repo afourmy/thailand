@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8004 words**
+**Total: 8014 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3380,6 +3380,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0535` : บำเพ็ญกุศล (to perform meritorious religious rites, to accumulate merit) : 1 meaning(s), 2 sentences
 - `thaipod-0536` : ครอง, ปกครอง (to govern, to rule) : 1 meaning(s), 2 sentences
 - `thaipod-0540` : ปฏิทินสากล (Gregorian (international) calendar) : 1 meaning(s), 2 sentences
+- `thaipod-0541` : ปฏิรูป (to reform) : 1 meaning(s), 2 sentences
 - `thaipod-0542` : ปฏิเสธ (to refuse, to deny) : 1 meaning(s), 2 sentences
 - `thaipod-0543` : ปฐม (first, primary (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0544` : ปฐมกษัตริย์ (first king (of a dynasty)) : 1 meaning(s), 2 sentences
@@ -3405,6 +3406,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0570` : ปรึกษา (to consult, to seek advice) : 1 meaning(s), 2 sentences
 - `thaipod-0571` : ปลด (to release, to remove (from a position), to dismiss) : 1 meaning(s), 2 sentences
 - `thaipod-0572` : ปลดราชอิสริยยศ (to strip of royal titles) : 1 meaning(s), 2 sentences
+- `thaipod-0573` : ปลอดภาษี (duty-free, tax-free) : 1 meaning(s), 2 sentences
 - `thaipod-0576` : ปลายทาง (destination, end of the route) : 1 meaning(s), 2 sentences
 - `thaipod-0577` : ปลูกฝัง (to instill, to cultivate (values, ideas)) : 1 meaning(s), 2 sentences
 - `thaipod-0578` : ปล่อย (to release, to let go, to leave) : 1 meaning(s), 3 sentences
@@ -3437,6 +3439,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0616` : ผู้กำกับ, ผู้กำกับภาพยนตร์ (film director) : 1 meaning(s), 2 sentences
 - `thaipod-0618` : ผู้บุกเบิก (pioneer, innovator) : 1 meaning(s), 2 sentences
 - `thaipod-0619` : ผู้ประดิษฐ์ (inventor) : 1 meaning(s), 2 sentences
+- `thaipod-0620` : ผู้ร่วมก่อตั้ง (co-founder) : 1 meaning(s), 2 sentences
 - `thaipod-0621` : ผู้สำเร็จราชการแทน (regent (ruling on behalf of a monarch)) : 1 meaning(s), 2 sentences
 - `thaipod-0622` : ผู้อำนวยการผลิตภาพยนตร์ (film producer) : 1 meaning(s), 2 sentences
 - `thaipod-0623` : ผู้เขียนบท (screenwriter) : 1 meaning(s), 2 sentences
@@ -3494,15 +3497,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0686` : พระราชทาน (to bestow, to grant (by the monarch)) : 1 meaning(s), 2 sentences
 - `thaipod-0687` : พระราชบิดา (father (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0688` : พระราชพิธี (royal ceremony) : 1 meaning(s), 2 sentences
+- `thaipod-0690` : พระราชวัง (royal palace) : 1 meaning(s), 2 sentences
 - `thaipod-0691` : พระราชสมภพ (royal birth, to be born (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0692` : พระราชอิสริยยศ (royal rank, royal title) : 1 meaning(s), 2 sentences
 - `thaipod-0694` : พระวรกาย (sacred body, royal body) : 1 meaning(s), 2 sentences
 - `thaipod-0695` : พระวิหาร (temple hall, vihara (Buddhist assembly hall)) : 1 meaning(s), 2 sentences
 - `thaipod-0696` : พระสวามี (husband (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0697` : พระสหาย (friend (royal)) : 1 meaning(s), 2 sentences
+- `thaipod-0698` : พระองค์ (he, she (royal); classifier for royalty and Buddha images) : 2 meaning(s), 4 sentences
 - `thaipod-0700` : พระอัยกาธิราช (king's paternal grandfather (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0701` : พระอารามหลวง (royal monastery, royal temple) : 1 meaning(s), 2 sentences
 - `thaipod-0702` : พระอุโบสถ (ubosot (ordination hall of a Thai temple)) : 1 meaning(s), 2 sentences
+- `thaipod-0703` : พระเครื่อง (Buddhist amulet (small Buddha image)) : 1 meaning(s), 2 sentences
 - `thaipod-0705` : พระเจ้า (god) : 1 meaning(s), 2 sentences
 - `thaipod-0706` : พระเชษฐา (elder brother (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0707` : พระเชษฐาธิราช (elder brother who is king) : 1 meaning(s), 2 sentences
@@ -3513,15 +3519,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0712` : โอรส, พระโอรส, พระราชโอรส (royal son, prince) : 1 meaning(s), 2 sentences
 - `thaipod-0713` : พระไตรปิฎก (Tripitaka (3 collections of Buddhist scriptures)) : 1 meaning(s), 2 sentences
 - `thaipod-0714` : พราก (to sever, to separate, to tear apart (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0715` : พรุน (porous, full of holes) : 1 meaning(s), 2 sentences
 - `thaipod-0716` : พร้อม (ready; along with) : 2 meaning(s), 4 sentences
 - `thaipod-0717` : พร้อมกับ (along with, simultaneously with) : 1 meaning(s), 2 sentences
 - `thaipod-0718` : พร้อมทั้ง (as well as, along with, together with) : 1 meaning(s), 2 sentences
 - `thaipod-0719` : พลี (to sacrifice (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0720` : พลุกพล่าน (crowded, chaotic, bustling) : 1 meaning(s), 2 sentences
 - `thaipod-0721` : พวก (group, bunch (of people)) : 1 meaning(s), 2 sentences
 - `thaipod-0722` : พอง (swollen, inflated, puffed up) : 1 meaning(s), 2 sentences
 - `thaipod-0723` : พอสมควร (reasonable, moderate, fairly) : 1 meaning(s), 2 sentences
 - `thaipod-0724` : พอๆ กับ (about the same as, roughly equal to) : 1 meaning(s), 2 sentences
 - `thaipod-0725` : พัฒนา (to develop) : 1 meaning(s), 2 sentences
+- `thaipod-0726` : พันธมิตร (ally, alliance) : 1 meaning(s), 2 sentences
 - `thaipod-0727` : พับขา (to sit cross-legged, rolled up legs) : 1 meaning(s), 2 sentences
 - `thaipod-0728` : พากัน (all together, collectively) : 1 meaning(s), 2 sentences
 - `thaipod-0729` : พิจารณา (to consider, to examine) : 1 meaning(s), 2 sentences
@@ -3540,6 +3549,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0743` : ฟัน (tooth, teeth; to cut, to slash, to chop) : 2 meaning(s), 4 sentences
 - `thaipod-0744` : ฟื้นฟู (to restore, to revive, to rehabilitate) : 1 meaning(s), 2 sentences
 - `thaipod-0745` : ฟ้อนรำ (to dance traditional northern Thai style) : 1 meaning(s), 2 sentences
+- `thaipod-0746` : ภาคต่อ (sequel) : 1 meaning(s), 2 sentences
 - `thaipod-0748` : ภาพประกอบ (illustration, diagram) : 1 meaning(s), 2 sentences
 - `thaipod-0749` : ภาพพจน์ (figurative expression, figure of speech) : 1 meaning(s), 2 sentences
 - `thaipod-0753` : ภายนอก (exterior, outside) : 1 meaning(s), 2 sentences

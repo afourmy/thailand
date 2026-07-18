@@ -104636,6 +104636,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to reform",
+        "sentences": [
+          {
+            "thai": "รัฐบาลสัญญาว่าจะปฏิรูปการศึกษา",
+            "en": "The government promised to reform education.",
+            "audio_src": "รัฐบาลสัญญาว่าจะปฏิรูปการศึกษา",
+            "audio_en_src": "The government promised to reform education."
+          },
+          {
+            "thai": "ระบบราชการต้องได้รับการปฏิรูป",
+            "en": "The bureaucracy needs to be reformed.",
+            "audio_src": "ระบบราชการต้องได้รับการปฏิรูป",
+            "audio_en_src": "The bureaucracy needs to be reformed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -105423,6 +105442,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "duty-free, tax-free",
+        "sentences": [
+          {
+            "thai": "ซื้อน้ำหอมที่ร้านปลอดภาษีในสนามบิน",
+            "en": "Buy perfume at the airport duty-free shop.",
+            "audio_src": "ซื้อน้ำหอมที่ร้านปลอดภาษีในสนามบิน",
+            "audio_en_src": "Buy perfume at the airport duty-free shop."
+          },
+          {
+            "thai": "สินค้าปลอดภาษีถูกกว่าข้างนอกเยอะ",
+            "en": "Duty-free goods are much cheaper than outside.",
+            "audio_src": "สินค้าปลอดภาษีถูกกว่าข้างนอกเยอะ",
+            "audio_en_src": "Duty-free goods are much cheaper than outside."
+          }
+        ]
+      }
     ]
   },
   {
@@ -106430,6 +106468,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "co-founder",
+        "sentences": [
+          {
+            "thai": "เขาเป็นผู้ร่วมก่อตั้งบริษัทสตาร์ทอัพนี้",
+            "en": "He's a co-founder of this startup.",
+            "audio_src": "เขาเป็นผู้ร่วมก่อตั้งบริษัทสตาร์ทอัพนี้",
+            "audio_en_src": "He's a co-founder of this startup."
+          },
+          {
+            "thai": "ผู้ร่วมก่อตั้งสองคนแยกทางกันหลังบริษัทโต",
+            "en": "The two co-founders parted ways after the company grew.",
+            "audio_src": "ผู้ร่วมก่อตั้งสองคนแยกทางกันหลังบริษัทโต",
+            "audio_en_src": "The two co-founders parted ways after the company grew."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108170,6 +108227,25 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "royal palace",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวต่อแถวเข้าชมพระราชวัง",
+            "en": "Tourists lined up to visit the royal palace.",
+            "audio_src": "นักท่องเที่ยวต่อแถวเข้าชมพระราชวัง",
+            "audio_en_src": "Tourists lined up to visit the royal palace."
+          },
+          {
+            "thai": "พระราชวังแห่งนี้สร้างเมื่อสองร้อยปีก่อน",
+            "en": "This palace was built two hundred years ago.",
+            "audio_src": "พระราชวังแห่งนี้สร้างเมื่อสองร้อยปีก่อน",
+            "audio_en_src": "This palace was built two hundred years ago."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108349,6 +108425,42 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "he, she (royal)",
+        "sentences": [
+          {
+            "thai": "พระองค์เสด็จเยือนภาคเหนือเมื่อปีที่แล้ว",
+            "en": "His Majesty visited the north last year.",
+            "audio_src": "พระองค์เสด็จเยือนภาคเหนือเมื่อปีที่แล้ว",
+            "audio_en_src": "His Majesty visited the north last year."
+          },
+          {
+            "thai": "ประชาชนรักพระองค์มาก",
+            "en": "The people love him dearly.",
+            "audio_src": "ประชาชนรักพระองค์มาก",
+            "audio_en_src": "The people love him dearly."
+          }
+        ]
+      },
+      {
+        "meaning": "classifier for royalty and Buddha images",
+        "sentences": [
+          {
+            "thai": "ภาพนี้มีกษัตริย์สองพระองค์",
+            "en": "This painting shows two kings.",
+            "audio_src": "ภาพนี้มีกษัตริย์สองพระองค์",
+            "audio_en_src": "This painting shows two kings."
+          },
+          {
+            "thai": "เจ้าหญิงพระองค์นี้เป็นที่รักของประชาชน",
+            "en": "This princess is beloved by the people.",
+            "audio_src": "เจ้าหญิงพระองค์นี้เป็นที่รักของประชาชน",
+            "audio_en_src": "This princess is beloved by the people."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108443,6 +108555,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhist amulet (small Buddha image)",
+        "sentences": [
+          {
+            "thai": "เขาสะสมพระเครื่องมาสิบกว่าปี",
+            "en": "He's collected amulets for over ten years.",
+            "audio_src": "เขาสะสมพระเครื่องมาสิบกว่าปี",
+            "audio_en_src": "He's collected amulets for over ten years."
+          },
+          {
+            "thai": "พระเครื่ององค์นี้ราคาหลักแสน",
+            "en": "This amulet is worth hundreds of thousands of baht.",
+            "audio_src": "พระเครื่ององค์นี้ราคาหลักแสน",
+            "audio_en_src": "This amulet is worth hundreds of thousands of baht."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108735,6 +108866,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "porous, full of holes",
+        "sentences": [
+          {
+            "thai": "เสื้อโดนมอดกัดจนพรุน",
+            "en": "Moths ate the shirt full of holes.",
+            "audio_src": "เสื้อโดนมอดกัดจนพรุน",
+            "audio_en_src": "Moths ate the shirt full of holes."
+          },
+          {
+            "thai": "ไม้ผุพรุนไปหมดเพราะปลวก",
+            "en": "The wood is riddled with holes from termites.",
+            "audio_src": "ไม้ผุพรุนไปหมดเพราะปลวก",
+            "audio_en_src": "The wood is riddled with holes from termites."
+          }
+        ]
+      }
     ]
   },
   {
@@ -108883,6 +109033,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "crowded, chaotic, bustling",
+        "sentences": [
+          {
+            "thai": "ช่วงเทศกาล สนามบินคนพลุกพล่าน",
+            "en": "During the holidays the airport is swarming with people.",
+            "audio_src": "ช่วงเทศกาล สนามบินคนพลุกพล่าน",
+            "audio_en_src": "During the holidays the airport is swarming with people."
+          },
+          {
+            "thai": "ย่านนี้พลุกพล่านทั้งวันทั้งคืน",
+            "en": "This area is bustling day and night.",
+            "audio_src": "ย่านนี้พลุกพล่านทั้งวันทั้งคืน",
+            "audio_en_src": "This area is bustling day and night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109052,6 +109221,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ally, alliance",
+        "sentences": [
+          {
+            "thai": "สองประเทศเป็นพันธมิตรกันมานาน",
+            "en": "The two countries have long been allies.",
+            "audio_src": "สองประเทศเป็นพันธมิตรกันมานาน",
+            "audio_en_src": "The two countries have long been allies."
+          },
+          {
+            "thai": "บริษัทกำลังหาพันธมิตรทางธุรกิจเพิ่ม",
+            "en": "The company is seeking more business partners.",
+            "audio_src": "บริษัทกำลังหาพันธมิตรทางธุรกิจเพิ่ม",
+            "audio_en_src": "The company is seeking more business partners."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109640,6 +109828,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sequel",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้จะมีภาคต่อปีหน้า",
+            "en": "This movie is getting a sequel next year.",
+            "audio_src": "หนังเรื่องนี้จะมีภาคต่อปีหน้า",
+            "audio_en_src": "This movie is getting a sequel next year."
+          },
+          {
+            "thai": "ภาคต่อสนุกกว่าภาคแรกอีก",
+            "en": "The sequel is even better than the first one.",
+            "audio_src": "ภาคต่อสนุกกว่าภาคแรกอีก",
+            "audio_en_src": "The sequel is even better than the first one."
+          }
+        ]
+      }
     ]
   },
   {
