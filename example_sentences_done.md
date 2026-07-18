@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7734 words**
+**Total: 7744 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1791,12 +1791,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-249` : ตรงประเด็น - ไม่ตรงประเด็น (on point, relevant - off-topic, irrelevant) : 2 meaning(s), 4 sentences
 - `tamago-l3-250` : เริ่ด (excellent, fabulous (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-251` : สารภาพ (to confess, to admit) : 1 meaning(s), 2 sentences
+- `tamago-l3-252` : ตีสนิท (to befriend, to get close to someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-253` : ค่อยเป็นค่อยไป (step by step, slowly but surely) : 1 meaning(s), 2 sentences
 - `tamago-l3-254` : ฟูมฟาย (to sob uncontrollably, to overreact emotionally) : 1 meaning(s), 2 sentences
 - `tamago-l3-255` : ตกเครื่อง (to miss a flight) : 1 meaning(s), 2 sentences
 - `tamago-l3-256` : บ้างาน (workaholic) : 1 meaning(s), 2 sentences
 - `tamago-l3-257` : ใจจดใจจ่อ (eagerly focused, fully attentive) : 1 meaning(s), 2 sentences
 - `tamago-l3-258` : ขันแข็ง (diligent, hardworking) : 1 meaning(s), 2 sentences
+- `tamago-l3-259` : งานเลี้ยง (party, reception, banquet) : 1 meaning(s), 2 sentences
+- `tamago-l3-260` : ย่อม (naturally, certainly, inevitably (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-261` : เลิกรา (to part ways, to break up) : 1 meaning(s), 2 sentences
 - `tamago-l3-262` : ขากลับ (return trip, the way back) : 1 meaning(s), 2 sentences
 - `tamago-l3-263` : มันแน่ ("of course!", "for sure!") : 1 meaning(s), 2 sentences
@@ -1807,6 +1810,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-270` : สร้างฐานะ (to build wealth, to build financial stability) : 1 meaning(s), 2 sentences
 - `tamago-l3-272` : อะไรต่อมิอะไร ("this and that", "all sorts of things") : 1 meaning(s), 2 sentences
 - `tamago-l3-273` : ขอร้อง (to beg, to plead) : 1 meaning(s), 2 sentences
+- `tamago-l3-274` : ใฝ่ฝัน (to dream of, to aspire to) : 1 meaning(s), 2 sentences
 - `tamago-l3-275` : ทำตามฝัน (to follow one's dream) : 1 meaning(s), 2 sentences
 - `tamago-l3-276` : ทัก, ทักทาย (to greet, to say hi) : 1 meaning(s), 2 sentences
 - `tamago-l3-277` : ลาป่วย (to take sick leave) : 1 meaning(s), 2 sentences
@@ -1815,15 +1819,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-280` : ข้ออ้าง (excuse, pretext) : 1 meaning(s), 2 sentences
 - `tamago-l3-281` : แอด (to add (e.g friend on social media)) : 1 meaning(s), 2 sentences
 - `tamago-l3-282` : มีอยู่พักนึง ("there was a period when...", for a while) : 1 meaning(s), 2 sentences
+- `tamago-l3-283` : อัพสเตตัส (to update one's status (e.g on Facebook)) : 1 meaning(s), 2 sentences
 - `tamago-l3-284` : รำคาญ (annoyed) : 1 meaning(s), 2 sentences
 - `tamago-l3-285` : หดหู่ (depressed, gloomy, deeply sad) : 1 meaning(s), 2 sentences
 - `tamago-l3-287` : ยื่น (to hand in, to submit; to extend (an arm)) : 2 meaning(s), 4 sentences
+- `tamago-l3-288` : จดหมายลาออก (resignation letter) : 1 meaning(s), 2 sentences
 - `tamago-l3-289` : วันต่อวัน (day by day, one day at a time) : 1 meaning(s), 2 sentences
+- `tamago-l3-290` : ขืน (if (you insist on... + warning, threat); to force, to insist, to do something despite opposition) : 2 meaning(s), 4 sentences
 - `tamago-l3-291` : คล้อง (to rhyme; to link, to be attached) : 2 meaning(s), 4 sentences
 - `tamago-l3-292` : เหลือเกิน (too much, extremely) : 1 meaning(s), 2 sentences
 - `tamago-l3-293` : ค่อยยังชั่ว ("what a relief!", "thank god!") : 1 meaning(s), 2 sentences
 - `tamago-l3-294` : ควบ (in parallel, simultaneously) : 1 meaning(s), 2 sentences
 - `tamago-l3-295` : ประมาณว่า... ("roughly speaking, ...", "something like...") : 1 meaning(s), 2 sentences
+- `tamago-l3-296` : ถาด (tray) : 1 meaning(s), 2 sentences
 - `tamago-l3-297` : ค่อยๆเป็นค่อยๆไป ("take it slow and steady") : 1 meaning(s), 2 sentences
 - `tamago-l3-298` : เศรษฐี (millionaire, rich person) : 1 meaning(s), 2 sentences
 - `tamago-l3-299` : เบิก (to claim expenses, to request reimbursement; to withdraw) : 2 meaning(s), 4 sentences
@@ -1832,8 +1840,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-302` : กลยุทธ์ (strategy) : 1 meaning(s), 2 sentences
 - `tamago-l3-303` : แช่แอร์ (to soak in the air-conditioning) : 1 meaning(s), 2 sentences
 - `tamago-l3-304` : ต้นทุน (production cost, initial investment) : 1 meaning(s), 2 sentences
+- `tamago-l3-305` : แขกรับเชิญ (invited guest) : 1 meaning(s), 2 sentences
 - `tamago-l3-306` : คู่สามีภรรยา (married couple) : 1 meaning(s), 2 sentences
 - `tamago-l3-307` : รับเลี้ยง (to adopt and foster) : 1 meaning(s), 2 sentences
+- `tamago-l3-308` : บุตรบุญธรรม (adopted child (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-309` : ฉายา (alias, nickname) : 1 meaning(s), 2 sentences
 - `tamago-l3-310` : วาดฝัน (to dream of, to envision) : 1 meaning(s), 2 sentences
 - `tamago-l3-311` : เข้าแถว (to line up, to form a line) : 1 meaning(s), 2 sentences
