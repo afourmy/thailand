@@ -18814,6 +18814,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to start (e.g a sentence, paragraph, letter, speech)",
+        "sentences": [
+          {
+            "thai": "เพลงนี้ขึ้นต้นด้วยเสียงเปียโน",
+            "en": "This song opens with the sound of a piano.",
+            "audio_src": "เพลงนี้ขึ้นต้นด้วยเสียงเปียโน",
+            "audio_en_src": "This song opens with the sound of a piano."
+          },
+          {
+            "thai": "เขาขึ้นต้นสุนทรพจน์ด้วยมุกตลก",
+            "en": "He started his speech with a joke.",
+            "audio_src": "เขาขึ้นต้นสุนทรพจน์ด้วยมุกตลก",
+            "audio_en_src": "He started his speech with a joke."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18851,6 +18870,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to reach into, to put one's hand into (a pocket, hole)",
+        "sentences": [
+          {
+            "thai": "เขาล้วงกระเป๋าหาเศษเหรียญ",
+            "en": "He reached into his pocket for some coins.",
+            "audio_src": "เขาล้วงกระเป๋าหาเศษเหรียญ",
+            "audio_en_src": "He reached into his pocket for some coins."
+          },
+          {
+            "thai": "อย่าล้วงมือเข้าไปในรู เดี๋ยวโดนงูกัด",
+            "en": "Don't stick your hand in the hole, you might get bitten by a snake.",
+            "audio_src": "อย่าล้วงมือเข้าไปในรู เดี๋ยวโดนงูกัด",
+            "audio_en_src": "Don't stick your hand in the hole, you might get bitten by a snake."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18860,6 +18898,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to pickpocket",
+        "sentences": [
+          {
+            "thai": "ระวังโดนล้วงกระเป๋าตอนรถไฟฟ้าแน่น",
+            "en": "Watch out for pickpockets when the train is crowded.",
+            "audio_src": "ระวังโดนล้วงกระเป๋าตอนรถไฟฟ้าแน่น",
+            "audio_en_src": "Watch out for pickpockets when the train is crowded."
+          },
+          {
+            "thai": "เขาโดนล้วงกระเป๋าที่ตลาดนัด",
+            "en": "He got pickpocketed at the market.",
+            "audio_src": "เขาโดนล้วงกระเป๋าที่ตลาดนัด",
+            "audio_en_src": "He got pickpocketed at the market."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18869,6 +18926,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to poison",
+        "sentences": [
+          {
+            "thai": "มีคนวางยาพิษหมาข้างบ้าน",
+            "en": "Someone poisoned the neighbor's dog.",
+            "audio_src": "มีคนวางยาพิษหมาข้างบ้าน",
+            "audio_en_src": "Someone poisoned the neighbor's dog."
+          },
+          {
+            "thai": "ในนิยาย ราชินีวางยาพิษในไวน์",
+            "en": "In the novel, the queen poisons the wine.",
+            "audio_src": "ในนิยาย ราชินีวางยาพิษในไวน์",
+            "audio_en_src": "In the novel, the queen poisons the wine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18934,6 +19010,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "positive - negative",
+        "sentences": [
+          {
+            "thai": "ลองมองเรื่องนี้ในเชิงบวกดู",
+            "en": "Try looking at this in a positive light.",
+            "audio_src": "ลองมองเรื่องนี้ในเชิงบวกดู",
+            "audio_en_src": "Try looking at this in a positive light."
+          },
+          {
+            "thai": "ข่าวเชิงลบกระทบยอดขายของบริษัท",
+            "en": "Negative news hurt the company's sales.",
+            "audio_src": "ข่าวเชิงลบกระทบยอดขายของบริษัท",
+            "audio_en_src": "Negative news hurt the company's sales."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19007,6 +19102,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "tips, tricks",
+        "sentences": [
+          {
+            "thai": "ยายมีเคล็ดลับทำแกงให้หอม",
+            "en": "Grandma has a secret trick for making fragrant curry.",
+            "audio_src": "ยายมีเคล็ดลับทำแกงให้หอม",
+            "audio_en_src": "Grandma has a secret trick for making fragrant curry."
+          },
+          {
+            "thai": "เขาแชร์เคล็ดลับการออมเงินในติ๊กต่อก",
+            "en": "She shares money-saving tips on TikTok.",
+            "audio_src": "เขาแชร์เคล็ดลับการออมเงินในติ๊กต่อก",
+            "audio_en_src": "She shares money-saving tips on TikTok."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19097,6 +19211,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to mingle with, to be deeply involved with (close interaction, immersion)",
+        "sentences": [
+          {
+            "thai": "เขาคลุกคลีกับวงการเพลงมาตั้งแต่เด็ก",
+            "en": "He's been immersed in the music scene since he was a kid.",
+            "audio_src": "เขาคลุกคลีกับวงการเพลงมาตั้งแต่เด็ก",
+            "audio_en_src": "He's been immersed in the music scene since he was a kid."
+          },
+          {
+            "thai": "ครูคนนี้ชอบคลุกคลีกับนักเรียน",
+            "en": "This teacher likes spending time close to her students.",
+            "audio_src": "ครูคนนี้ชอบคลุกคลีกับนักเรียน",
+            "audio_en_src": "This teacher likes spending time close to her students."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19106,6 +19239,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "track, lane (e.g when running)",
+        "sentences": [
+          {
+            "thai": "นักวิ่งซ้อมอยู่ที่ลู่วิ่งทุกเช้า",
+            "en": "The runner trains on the track every morning.",
+            "audio_src": "นักวิ่งซ้อมอยู่ที่ลู่วิ่งทุกเช้า",
+            "audio_en_src": "The runner trains on the track every morning."
+          },
+          {
+            "thai": "เขาวิ่งอยู่ลู่ที่สี่",
+            "en": "He's running in lane four.",
+            "audio_src": "เขาวิ่งอยู่ลู่ที่สี่",
+            "audio_en_src": "He's running in lane four."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19115,6 +19267,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "prospect, way forward, chance, opportunity",
+        "sentences": [
+          {
+            "thai": "เขามาดูลู่ทางทำธุรกิจที่เวียดนาม",
+            "en": "He came to scope out business opportunities in Vietnam.",
+            "audio_src": "เขามาดูลู่ทางทำธุรกิจที่เวียดนาม",
+            "audio_en_src": "He came to scope out business opportunities in Vietnam."
+          },
+          {
+            "thai": "งานนี้ไม่มีลู่ทางก้าวหน้าเลย",
+            "en": "This job has no prospects for advancement.",
+            "audio_src": "งานนี้ไม่มีลู่ทางก้าวหน้าเลย",
+            "audio_en_src": "This job has no prospects for advancement."
+          }
+        ]
+      }
     ]
   },
   {
@@ -19125,6 +19296,42 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "down, downward, to fall down, to plunge, to sink",
+        "sentences": [
+          {
+            "thai": "หุ้นดิ่งหนักวันนี้",
+            "en": "Stocks plunged today.",
+            "audio_src": "หุ้นดิ่งหนักวันนี้",
+            "audio_en_src": "Stocks plunged today."
+          },
+          {
+            "thai": "เครื่องบินดิ่งลงกลางทะเล",
+            "en": "The plane plunged into the sea.",
+            "audio_src": "เครื่องบินดิ่งลงกลางทะเล",
+            "audio_en_src": "The plane plunged into the sea."
+          }
+        ]
+      },
+      {
+        "meaning": "vertically, straight",
+        "sentences": [
+          {
+            "thai": "หน้าผานี้ชันดิ่งเลย",
+            "en": "This cliff is sheer vertical.",
+            "audio_src": "หน้าผานี้ชันดิ่งเลย",
+            "audio_en_src": "This cliff is sheer vertical."
+          },
+          {
+            "thai": "เลิกงานปุ๊บ เขาตรงดิ่งกลับบ้านเลย",
+            "en": "The moment work ends, he heads straight home.",
+            "audio_src": "เลิกงานปุ๊บ เขาตรงดิ่งกลับบ้านเลย",
+            "audio_en_src": "The moment work ends, he heads straight home."
+          }
+        ]
+      }
     ]
   },
   {

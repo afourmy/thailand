@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7523 words**
+**Total: 7533 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -609,13 +609,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-028` : สกรรมกริยา - อกรรมกริยา (transitive verb (requires an object) - intransitive verb) : 1 meaning(s), 2 sentences
 - `chula-l6-029` : คุณศัพท์ (adjective (in grammar)) : 1 meaning(s), 2 sentences
 - `chula-l6-030` : กรรม (object (what comes after the verb in Thai grammar); karma) : 2 meaning(s), 4 sentences
+- `chula-l6-031` : ขึ้นต้น (to start (e.g a sentence, paragraph, letter, speech)) : 1 meaning(s), 2 sentences
 - `chula-l6-032` : ประโยคกรรตุ - ประโยคกรรม (active sentence - passive sentence (grammar)) : 1 meaning(s), 2 sentences
+- `chula-l6-034` : ล้วง (to reach into, to put one's hand into (a pocket, hole)) : 1 meaning(s), 2 sentences
+- `new-44` : ล้วงกระเป๋า (to pickpocket) : 1 meaning(s), 2 sentences
+- `chula-l6-035` : วางยาพิษ (to poison) : 1 meaning(s), 2 sentences
 - `chula-l6-036` : บรรณานุกรม (bibliography) : 1 meaning(s), 2 sentences
 - `chula-l6-037` : วลี (phrase) : 1 meaning(s), 2 sentences
+- `chula-l6-038` : เชิงบวก - เชิงลบ (positive - negative) : 1 meaning(s), 2 sentences
 - `chula-l6-039` : แต่งตั้ง (to appoint, to nominate) : 1 meaning(s), 2 sentences
 - `chula-l6-040` : แทรก, สอดแทรก (to insert, interject, slip in) : 1 meaning(s), 2 sentences
+- `chula-l6-041` : เคล็ดลับ (tips, tricks) : 1 meaning(s), 2 sentences
 - `chula-l6-042` : สวน (park, garden; against, in the opposite direction) : 2 meaning(s), 4 sentences
 - `chula-l6-043` : เอะอะ (to make a fuss, to react too quickly, without a reason) : 1 meaning(s), 2 sentences
+- `chula-l6-044` : คลุกคลี (to mingle with, to be deeply involved with (close interaction, immersion)) : 1 meaning(s), 2 sentences
+- `chula-l6-045` : ลู่ (track, lane (e.g when running)) : 1 meaning(s), 2 sentences
+- `new-43` : ลู่ทาง (prospect, way forward, chance, opportunity) : 1 meaning(s), 2 sentences
+- `chula-l6-046` : ดิ่ง (down, downward, to fall down, to plunge, to sink; vertically, straight) : 2 meaning(s), 4 sentences
 - `chula-l6-047` : รู้สึกดิ่ง, รู้สึกจม (to feel down, overwhelmed, to feel like sinking) : 1 meaning(s), 2 sentences
 - `chula-l6-048` : เนื้องาน (job description, actual content or tasks of the work) : 1 meaning(s), 2 sentences
 - `chula-l6-051` : น้ำเสียง (tone of voice (e.g polite, angry, etc)) : 1 meaning(s), 2 sentences
