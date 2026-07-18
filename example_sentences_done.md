@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7584 words**
+**Total: 7594 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -923,6 +923,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-014` : กระดูกสันหลัง (spine) : 1 meaning(s), 2 sentences
 - `tamago-l12-015` : กระถาง (flower pot) : 1 meaning(s), 2 sentences
 - `tamago-l12-016` : กระรอก (squirrel) : 1 meaning(s), 2 sentences
+- `tamago-l12-018` : กระเป๋าเป้ (backpack) : 1 meaning(s), 2 sentences
 - `tamago-l12-019` : กระเพาะปัสสาวะ (bladder) : 1 meaning(s), 2 sentences
 - `tamago-l12-020` : กระเพาะอาหาร (stomach (organ)) : 1 meaning(s), 2 sentences
 - `tamago-l12-022` : กลอง (drums) : 1 meaning(s), 2 sentences
@@ -938,10 +939,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-034` : กะหล่ำปลี (cabbage) : 1 meaning(s), 2 sentences
 - `tamago-l12-035` : กับเขาบ้าง ("like other people", "as everyone else does") : 1 meaning(s), 2 sentences
 - `tamago-l12-036` : กั้น (to block, separate, divide) : 1 meaning(s), 2 sentences
+- `tamago-l12-037` : กากบาท (a cross (X)) : 1 meaning(s), 2 sentences
 - `tamago-l12-038` : กาต้มน้ำ (kettle) : 1 meaning(s), 2 sentences
 - `tamago-l12-039` : การออก (issuance (document, certificate)) : 1 meaning(s), 2 sentences
+- `tamago-l12-040` : การ์ด (card (e.g greeting card, game card)) : 1 meaning(s), 2 sentences
+- `tamago-l12-041` : กาลครั้งหนึ่ง (once upon a time) : 1 meaning(s), 2 sentences
+- `tamago-l12-042` : กาว (glue) : 1 meaning(s), 2 sentences
 - `tamago-l12-043` : กำลังจะ (to be about to) : 1 meaning(s), 2 sentences
 - `tamago-l12-044` : กำไล (bracelet) : 1 meaning(s), 2 sentences
+- `tamago-l12-045` : กินขาด (to surpass, to be far superior) : 1 meaning(s), 2 sentences
 - `tamago-l12-046` : ก้อน (lump; classifier for chunks (e.g money, ice)) : 2 meaning(s), 4 sentences
 - `tamago-l12-047` : ขนมปังปิ้ง (toast) : 1 meaning(s), 2 sentences
 - `tamago-l12-048` : ขนาด (size) : 1 meaning(s), 2 sentences
@@ -953,6 +959,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-054` : ขอพร (to ask for a blessing, to make a wish) : 1 meaning(s), 2 sentences
 - `tamago-l12-055` : ขัง (to lock up, imprison, confine) : 1 meaning(s), 2 sentences
 - `tamago-l12-056` : ขั้นต่ำ (minimum) : 1 meaning(s), 2 sentences
+- `tamago-l12-057` : ขั้นเทพ (top level, god tier (slang)) : 1 meaning(s), 2 sentences
+- `tamago-l12-058` : ขีดเส้นใต้ (to underline) : 1 meaning(s), 2 sentences
 - `tamago-l12-059` : ขี้, อึ (feces, stool (informal and child-speak variants)) : 1 meaning(s), 2 sentences
 - `tamago-l12-060` : ขี้กังวล (prone to worry) : 1 meaning(s), 2 sentences
 - `tamago-l12-061` : ขี้งก (stingy, not willing to share) : 1 meaning(s), 2 sentences
@@ -969,6 +977,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-073` : ข้าวโพด (corn) : 1 meaning(s), 2 sentences
 - `tamago-l12-075` : คนดู (spectator, audience member) : 1 meaning(s), 2 sentences
 - `tamago-l12-076` : คนละ (different; separately for each person) : 2 meaning(s), 4 sentences
+- `tamago-l12-077` : คริสต์ศักราช (ค.ศ.) (Common Era, Christian Era) : 1 meaning(s), 2 sentences
+- `tamago-l12-078` : คลอด (to give birth, to deliver a baby) : 1 meaning(s), 2 sentences
 - `tamago-l12-079` : คล้ำ (dark, tan (skin); dim) : 2 meaning(s), 4 sentences
 - `tamago-l12-083` : ความเดือดร้อน (trouble, difficulty) : 1 meaning(s), 2 sentences
 - `tamago-l12-084` : คอกม้า (horse stable) : 1 meaning(s), 2 sentences

@@ -28561,6 +28561,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "backpack",
+        "sentences": [
+          {
+            "thai": "กระเป๋าเป้ใบนี้ใส่ของได้เยอะ",
+            "en": "This backpack holds a lot.",
+            "audio_src": "กระเป๋าเป้ใบนี้ใส่ของได้เยอะ",
+            "audio_en_src": "This backpack holds a lot."
+          },
+          {
+            "thai": "เขาสะพายกระเป๋าเป้ไปเที่ยวคนเดียว",
+            "en": "He went traveling alone with a backpack.",
+            "audio_src": "เขาสะพายกระเป๋าเป้ไปเที่ยวคนเดียว",
+            "audio_en_src": "He went traveling alone with a backpack."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29068,6 +29087,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "a cross (X)",
+        "sentences": [
+          {
+            "thai": "ทำเครื่องหมายกากบาทในช่องที่เลือก",
+            "en": "Put an X in the box you choose.",
+            "audio_src": "ทำเครื่องหมายกากบาทในช่องที่เลือก",
+            "audio_en_src": "Put an X in the box you choose."
+          },
+          {
+            "thai": "ข้อไหนผิด ครูจะขีดกากบาทไว้",
+            "en": "The teacher marks the wrong answers with an X.",
+            "audio_src": "ข้อไหนผิด ครูจะขีดกากบาทไว้",
+            "audio_en_src": "The teacher marks the wrong answers with an X."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29136,6 +29174,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "card (e.g greeting card, game card)",
+        "sentences": [
+          {
+            "thai": "ฉันเขียนการ์ดวันเกิดให้เพื่อน",
+            "en": "I wrote a birthday card for my friend.",
+            "audio_src": "ฉันเขียนการ์ดวันเกิดให้เพื่อน",
+            "audio_en_src": "I wrote a birthday card for my friend."
+          },
+          {
+            "thai": "การ์ดใบนี้หายากมาก",
+            "en": "This card is super rare.",
+            "audio_src": "การ์ดใบนี้หายากมาก",
+            "audio_en_src": "This card is super rare."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29145,6 +29202,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "once upon a time",
+        "sentences": [
+          {
+            "thai": "กาลครั้งหนึ่งมีเจ้าหญิงอาศัยอยู่ในปราสาท",
+            "en": "Once upon a time there was a princess living in a castle.",
+            "audio_src": "กาลครั้งหนึ่งมีเจ้าหญิงอาศัยอยู่ในปราสาท",
+            "audio_en_src": "Once upon a time there was a princess living in a castle."
+          },
+          {
+            "thai": "นิทานส่วนใหญ่ขึ้นต้นว่ากาลครั้งหนึ่ง",
+            "en": "Most fairy tales start with \"once upon a time\".",
+            "audio_src": "นิทานส่วนใหญ่ขึ้นต้นว่ากาลครั้งหนึ่ง",
+            "audio_en_src": "Most fairy tales start with \"once upon a time\"."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29154,6 +29230,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "glue",
+        "sentences": [
+          {
+            "thai": "ใช้กาวติดกระดาษสองแผ่นนี้เข้าด้วยกัน",
+            "en": "Use glue to stick these two sheets of paper together.",
+            "audio_src": "ใช้กาวติดกระดาษสองแผ่นนี้เข้าด้วยกัน",
+            "audio_en_src": "Use glue to stick these two sheets of paper together."
+          },
+          {
+            "thai": "กาวยังไม่แห้ง อย่าเพิ่งจับ",
+            "en": "The glue isn't dry yet, don't touch it.",
+            "audio_src": "กาวยังไม่แห้ง อย่าเพิ่งจับ",
+            "audio_en_src": "The glue isn't dry yet, don't touch it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29226,6 +29321,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to surpass, to be far superior",
+        "sentences": [
+          {
+            "thai": "เรื่องทำอาหาร แม่ฉันกินขาด",
+            "en": "When it comes to cooking, my mom is in a league of her own.",
+            "audio_src": "เรื่องทำอาหาร แม่ฉันกินขาด",
+            "audio_en_src": "When it comes to cooking, my mom is in a league of her own."
+          },
+          {
+            "thai": "ทีมนี้กินขาดทุกทีมในลีก",
+            "en": "This team is far and away the best in the league.",
+            "audio_src": "ทีมนี้กินขาดทุกทีมในลีก",
+            "audio_en_src": "This team is far and away the best in the league."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29583,6 +29697,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "top level, god tier (slang)",
+        "sentences": [
+          {
+            "thai": "ฝีมือทำอาหารของเขาขั้นเทพ",
+            "en": "His cooking skills are god tier.",
+            "audio_src": "ฝีมือทำอาหารของเขาขั้นเทพ",
+            "audio_en_src": "His cooking skills are god tier."
+          },
+          {
+            "thai": "เขาเล่นเกมนี้ขั้นเทพเลย",
+            "en": "He's insanely good at this game.",
+            "audio_src": "เขาเล่นเกมนี้ขั้นเทพเลย",
+            "audio_en_src": "He's insanely good at this game."
+          }
+        ]
+      }
     ]
   },
   {
@@ -29592,6 +29725,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to underline",
+        "sentences": [
+          {
+            "thai": "ขีดเส้นใต้คำที่ไม่เข้าใจ",
+            "en": "Underline the words you don't understand.",
+            "audio_src": "ขีดเส้นใต้คำที่ไม่เข้าใจ",
+            "audio_en_src": "Underline the words you don't understand."
+          },
+          {
+            "thai": "ครูให้ขีดเส้นใต้ประโยคสำคัญ",
+            "en": "The teacher had us underline the key sentences.",
+            "audio_src": "ครูให้ขีดเส้นใต้ประโยคสำคัญ",
+            "audio_en_src": "The teacher had us underline the key sentences."
+          }
+        ]
+      }
     ]
   },
   {
@@ -30111,6 +30263,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "Common Era, Christian Era",
+        "sentences": [
+          {
+            "thai": "ฝรั่งนับปีเป็นคริสต์ศักราช",
+            "en": "Westerners count years in the Christian era.",
+            "audio_src": "ฝรั่งนับปีเป็นคริสต์ศักราช",
+            "audio_en_src": "Westerners count years in the Christian era."
+          },
+          {
+            "thai": "ปี ค.ศ. 2026 ตรงกับปี พ.ศ. 2569",
+            "en": "The year 2026 CE is 2569 in the Buddhist era.",
+            "audio_src": "ปี ค.ศ. 2026 ตรงกับปี พ.ศ. 2569",
+            "audio_en_src": "The year 2026 CE is 2569 in the Buddhist era."
+          }
+        ]
+      }
     ]
   },
   {
@@ -30123,6 +30294,25 @@
       "Thai 4000",
       "Anki Basics",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to give birth, to deliver a baby",
+        "sentences": [
+          {
+            "thai": "ภรรยาเขาเพิ่งคลอดลูกสาว",
+            "en": "His wife just gave birth to a baby girl.",
+            "audio_src": "ภรรยาเขาเพิ่งคลอดลูกสาว",
+            "audio_en_src": "His wife just gave birth to a baby girl."
+          },
+          {
+            "thai": "หมอบอกว่าจะคลอดปลายเดือนนี้",
+            "en": "The doctor says the baby is due at the end of this month.",
+            "audio_src": "หมอบอกว่าจะคลอดปลายเดือนนี้",
+            "audio_en_src": "The doctor says the baby is due at the end of this month."
+          }
+        ]
+      }
     ]
   },
   {
