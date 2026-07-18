@@ -118939,6 +118939,42 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "based on, according to",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้อิงจากเรื่องจริง",
+            "en": "This movie is based on a true story.",
+            "audio_en_src": "This movie is based on a true story.",
+            "audio_src": "หนังเรื่องนี้อิงจากเรื่องจริง"
+          },
+          {
+            "thai": "ราคาปรับขึ้นโดยอิงจากราคาน้ำมันโลก",
+            "en": "Prices adjust based on global oil prices.",
+            "audio_src": "ราคาปรับขึ้นโดยอิงจากราคาน้ำมันโลก",
+            "audio_en_src": "Prices adjust based on global oil prices."
+          }
+        ]
+      },
+      {
+        "meaning": "to lean against",
+        "sentences": [
+          {
+            "thai": "เขานั่งอิงต้นไม้อ่านหนังสือ",
+            "en": "He sat leaning against a tree reading.",
+            "audio_src": "เขานั่งอิงต้นไม้อ่านหนังสือ",
+            "audio_en_src": "He sat leaning against a tree reading."
+          },
+          {
+            "thai": "เด็กน้อยนอนอิงไหล่แม่",
+            "en": "The little one leaned against her mom's shoulder.",
+            "audio_src": "เด็กน้อยนอนอิงไหล่แม่",
+            "audio_en_src": "The little one leaned against her mom's shoulder."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119063,6 +119099,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "ordination (monk)",
+        "sentences": [
+          {
+            "thai": "ลูกชายเข้าพิธีอุปสมบทที่วัดบ้านเกิด",
+            "en": "His son had his ordination ceremony at the temple in his hometown.",
+            "audio_en_src": "His son had his ordination ceremony at the temple in his hometown.",
+            "audio_src": "ลูกชายเข้าพิธีอุปสมบทที่วัดบ้านเกิด"
+          },
+          {
+            "thai": "ผู้ชายไทยจำนวนมากอุปสมบทก่อนแต่งงาน",
+            "en": "Many Thai men ordain as monks before marrying.",
+            "audio_src": "ผู้ชายไทยจำนวนมากอุปสมบทก่อนแต่งงาน",
+            "audio_en_src": "Many Thai men ordain as monks before marrying."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119134,6 +119189,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "chubby, plump and round (cute baby-talk style)",
+        "sentences": [
+          {
+            "thai": "ลูกหมาตัวนี้อ้วนกระปุ๊กลุกน่ากอด",
+            "en": "This puppy is so roly-poly and huggable.",
+            "audio_src": "ลูกหมาตัวนี้อ้วนกระปุ๊กลุกน่ากอด",
+            "audio_en_src": "This puppy is so roly-poly and huggable."
+          },
+          {
+            "thai": "เด็กน้อยแก้มยุ้ย อ้วนกระปุ๊กลุก",
+            "en": "The baby has chubby cheeks, all round and plump.",
+            "audio_en_src": "The baby has chubby cheeks, all round and plump.",
+            "audio_src": "เด็กน้อยแก้มยุ้ย อ้วนกระปุ๊กลุก"
+          }
+        ]
+      }
     ]
   },
   {
@@ -119298,6 +119372,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "beyond expectation",
+        "sentences": [
+          {
+            "thai": "ผลตอบรับดีเกินคาด",
+            "en": "The response was better than expected.",
+            "audio_src": "ผลตอบรับดีเกินคาด",
+            "audio_en_src": "The response was better than expected."
+          },
+          {
+            "thai": "หนังทำรายได้เกินคาดไปมาก",
+            "en": "The movie earned far more than expected.",
+            "audio_src": "หนังทำรายได้เกินคาดไปมาก",
+            "audio_en_src": "The movie earned far more than expected."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119307,6 +119400,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "with honors, honorary distinction (academic)",
+        "sentences": [
+          {
+            "thai": "เธอเรียนจบเกียรตินิยมอันดับหนึ่ง",
+            "en": "She graduated with first-class honors.",
+            "audio_en_src": "She graduated with first-class honors.",
+            "audio_src": "เธอเรียนจบเกียรตินิยมอันดับหนึ่ง"
+          },
+          {
+            "thai": "เขาตั้งใจเรียนเพื่อให้ได้เกียรตินิยม",
+            "en": "He studies hard to graduate with honors.",
+            "audio_src": "เขาตั้งใจเรียนเพื่อให้ได้เกียรตินิยม",
+            "audio_en_src": "He studies hard to graduate with honors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119381,6 +119493,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "ancient, old",
+        "sentences": [
+          {
+            "thai": "นี่คือร้านกาแฟเก่าแก่ที่สุดในเมือง",
+            "en": "This is the oldest coffee shop in town.",
+            "audio_src": "นี่คือร้านกาแฟเก่าแก่ที่สุดในเมือง",
+            "audio_en_src": "This is the oldest coffee shop in town."
+          },
+          {
+            "thai": "วัดเก่าแก่แห่งนี้อายุกว่าห้าร้อยปี",
+            "en": "This ancient temple is over five hundred years old.",
+            "audio_src": "วัดเก่าแก่แห่งนี้อายุกว่าห้าร้อยปี",
+            "audio_en_src": "This ancient temple is over five hundred years old."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119605,6 +119736,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "amulet, talisman",
+        "sentences": [
+          {
+            "thai": "คนขับแท็กซี่แขวนเครื่องรางเต็มหน้ารถ",
+            "en": "The taxi driver's dashboard is covered in talismans.",
+            "audio_src": "คนขับแท็กซี่แขวนเครื่องรางเต็มหน้ารถ",
+            "audio_en_src": "The taxi driver's dashboard is covered in talismans."
+          },
+          {
+            "thai": "ยายให้เครื่องรางไว้ป้องกันตัว",
+            "en": "Grandma gave me a talisman for protection.",
+            "audio_src": "ยายให้เครื่องรางไว้ป้องกันตัว",
+            "audio_en_src": "Grandma gave me a talisman for protection."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119642,6 +119792,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "ritual offerings",
+        "sentences": [
+          {
+            "thai": "ตั้งเครื่องเซ่นไหว้หน้าศาลพระภูมิ",
+            "en": "Set out the offerings in front of the spirit house.",
+            "audio_src": "ตั้งเครื่องเซ่นไหว้หน้าศาลพระภูมิ",
+            "audio_en_src": "Set out the offerings in front of the spirit house."
+          },
+          {
+            "thai": "วันตรุษจีนต้องเตรียมเครื่องเซ่นไหว้บรรพบุรุษ",
+            "en": "At Chinese New Year, families prepare offerings for their ancestors.",
+            "audio_src": "วันตรุษจีนต้องเตรียมเครื่องเซ่นไหว้บรรพบุรุษ",
+            "audio_en_src": "At Chinese New Year, families prepare offerings for their ancestors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119775,6 +119944,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "outline, structure (e.g of a plan, a book)",
+        "sentences": [
+          {
+            "thai": "เขียนเค้าโครงก่อนลงมือเขียนจริง",
+            "en": "Write an outline before you start writing.",
+            "audio_src": "เขียนเค้าโครงก่อนลงมือเขียนจริง",
+            "audio_en_src": "Write an outline before you start writing."
+          },
+          {
+            "thai": "เค้าโครงของนิยายเรื่องนี้น่าสนใจ",
+            "en": "The outline of this novel is interesting.",
+            "audio_src": "เค้าโครงของนิยายเรื่องนี้น่าสนใจ",
+            "audio_en_src": "The outline of this novel is interesting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -119815,6 +120003,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "chedi, stupa (Buddhist tiered tower)",
+        "sentences": [
+          {
+            "thai": "เจดีย์องค์นี้บรรจุพระบรมสารีริกธาตุ",
+            "en": "This chedi enshrines relics of the Buddha.",
+            "audio_src": "เจดีย์องค์นี้บรรจุพระบรมสารีริกธาตุ",
+            "audio_en_src": "This chedi enshrines relics of the Buddha."
+          },
+          {
+            "thai": "นักท่องเที่ยวถ่ายรูปเจดีย์สีทอง",
+            "en": "Tourists photograph the golden chedi.",
+            "audio_src": "นักท่องเที่ยวถ่ายรูปเจดีย์สีทอง",
+            "audio_en_src": "Tourists photograph the golden chedi."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8044 words**
+**Total: 8054 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3850,19 +3850,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1132` : อาณาเขต (territory) : 1 meaning(s), 2 sentences
 - `thaipod-1134` : อาย (shy, embarrassed) : 1 meaning(s), 2 sentences
 - `thaipod-1135` : อาสา (to volunteer) : 1 meaning(s), 2 sentences
+- `thaipod-1136` : อิง (based on, according to; to lean against) : 2 meaning(s), 4 sentences
 - `thaipod-1139` : อิสระทางการค้า (freedom of trade) : 1 meaning(s), 2 sentences
 - `thaipod-1140` : อิสริยยศ (rank, status (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1142` : อุทยาน (park (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-1143` : อุทิศตน (to dedicate oneself, to devote oneself (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-1145` : อุปสมบท (ordination (monk)) : 1 meaning(s), 2 sentences
 - `thaipod-1146` : อ่าง (basin, reservoir, sink, tub) : 1 meaning(s), 2 sentences
 - `thaipod-1147` : อ่าว (bay) : 1 meaning(s), 2 sentences
+- `thaipod-1149` : อ้วนกระปุ๊กลุก (chubby, plump and round (cute baby-talk style)) : 1 meaning(s), 2 sentences
 - `thaipod-1150` : อ้า (to open wide (e.g mouth, door)) : 1 meaning(s), 2 sentences
 - `thaipod-1152` : อ้างอิง, อ้างถึง (to reference, to cite) : 1 meaning(s), 2 sentences
 - `thaipod-1153` : เกลียด (to hate) : 1 meaning(s), 2 sentences
 - `thaipod-1154` : เกวียน (cart (traditional ox-drawn, i.e pulled by animals)) : 1 meaning(s), 2 sentences
 - `thaipod-1155` : เกินขนาด (excessive, oversized, beyond measure) : 1 meaning(s), 2 sentences
+- `thaipod-1156` : เกินคาด (beyond expectation) : 1 meaning(s), 2 sentences
+- `thaipod-1157` : เกียรตินิยม (with honors, honorary distinction (academic)) : 1 meaning(s), 2 sentences
 - `thaipod-1159` : เกี่ยวพัน (related, intertwined, connected) : 1 meaning(s), 2 sentences
 - `thaipod-1160` : เก่ง (talented, good at) : 1 meaning(s), 2 sentences
+- `thaipod-1161` : เก่าแก่ (ancient, old) : 1 meaning(s), 2 sentences
 - `thaipod-1162` : เขต (zone, area, district) : 1 meaning(s), 2 sentences
 - `thaipod-1163` : เขตรักษาพันธุ์สัตว์ป่า (wildlife sanctuary) : 1 meaning(s), 2 sentences
 - `thaipod-1165` : เข้ากับ (to fit with, to suit) : 1 meaning(s), 2 sentences
@@ -3870,12 +3876,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1168` : เข้าเฝ้า (to have an audience with royalty) : 1 meaning(s), 2 sentences
 - `thaipod-1169` : เครื่อง (machine, device) : 1 meaning(s), 2 sentences
 - `thaipod-1170` : เครื่องปั้นดินเผา (pottery, earthenware) : 1 meaning(s), 2 sentences
+- `thaipod-1171` : เครื่องราง (amulet, talisman) : 1 meaning(s), 2 sentences
 - `thaipod-1172` : เครื่องเคลือบดินเผา (glazed pottery, ceramics) : 1 meaning(s), 2 sentences
+- `thaipod-1173` : เครื่องเซ่นไหว้ (ritual offerings) : 1 meaning(s), 2 sentences
 - `thaipod-1174` : เครื่องแต่งกาย (outfit, clothing) : 1 meaning(s), 2 sentences
 - `thaipod-1175` : เคลือบ (to coat, to glaze, to overlay) : 1 meaning(s), 2 sentences
 - `thaipod-1176` : เคารพบูชา (to worship, to venerate) : 1 meaning(s), 2 sentences
 - `thaipod-1178` : เค้า ((informal) he, she, I) : 1 meaning(s), 2 sentences
+- `thaipod-1179` : เค้าโครง (outline, structure (e.g of a plan, a book)) : 1 meaning(s), 2 sentences
 - `thaipod-1182` : เงียบสงบ (calm, peaceful, tranquil) : 1 meaning(s), 2 sentences
+- `thaipod-1183` : เจดีย์ (chedi, stupa (Buddhist tiered tower)) : 1 meaning(s), 2 sentences
 - `thaipod-1184` : เจดีย์ครอบ (covering stupa (protective Buddhist structure)) : 1 meaning(s), 2 sentences
 - `thaipod-1185` : เจรจา (to negotiate, to converse formally) : 1 meaning(s), 2 sentences
 - `thaipod-1186` : เจริญก้าวหน้า (to prosper, to progress, to advance) : 1 meaning(s), 2 sentences
