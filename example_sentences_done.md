@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7393 words**
+**Total: 7403 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -349,12 +349,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-210` : ซึม (listless, dull, feeling down) : 1 meaning(s), 2 sentences
 - `chula-l5-211` : กระสับกระส่าย (restless, agitated, unable to sit still) : 1 meaning(s), 2 sentences
 - `chula-l5-212` : มุ้ง (mosquito net) : 1 meaning(s), 2 sentences
+- `chula-l5-213` : มุ้งลวด (mosquito wire screen) : 1 meaning(s), 2 sentences
 - `chula-l5-214` : แหล่ง (source) : 1 meaning(s), 2 sentences
+- `chula-l5-215` : เพาะพันธุ์ (to breed) : 1 meaning(s), 2 sentences
 - `chula-l5-216` : กำจัด (to get rid of, to eliminate) : 1 meaning(s), 2 sentences
+- `chula-l5-217` : น้ำขัง (stagnant water) : 1 meaning(s), 2 sentences
+- `chula-l5-218` : ลูกน้ำ (larva (e.g of mosquitoes)) : 1 meaning(s), 2 sentences
+- `chula-l5-220` : ภูมิทัศน์ (landscape) : 1 meaning(s), 2 sentences
+- `chula-l5-221` : ลำไส้ (intestine) : 1 meaning(s), 2 sentences
+- `chula-l5-222` : ลำไส้ใหญ่ (large intestine, colon) : 1 meaning(s), 2 sentences
 - `chula-l5-223` : อันดับ (rank) : 1 meaning(s), 2 sentences
 - `chula-l5-224` : อัตรา (rate) : 1 meaning(s), 2 sentences
 - `chula-l5-225` : พฤติกรรม (behavior) : 1 meaning(s), 2 sentences
 - `chula-l5-226` : ไขมัน (fat) : 1 meaning(s), 2 sentences
+- `chula-l5-227` : เกรียม (scorched, almost burnt) : 1 meaning(s), 2 sentences
+- `chula-l5-228` : แปรรูป (to transform, to process, processed) : 1 meaning(s), 2 sentences
+- `chula-l5-229` : ตลอดจน (including, as well as) : 1 meaning(s), 2 sentences
 - `chula-l5-230` : ประวัติ (history, background, record) : 1 meaning(s), 2 sentences
 - `chula-l5-231` : ติ่งเนื้อ (skin tag, benign growth of skin, polyp) : 1 meaning(s), 2 sentences
 - `chula-l5-235` : ท้องผูก (constipation) : 1 meaning(s), 2 sentences

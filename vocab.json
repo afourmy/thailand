@@ -10762,6 +10762,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "mosquito wire screen",
+        "sentences": [
+          {
+            "thai": "บ้านนี้ติดมุ้งลวดทุกหน้าต่าง",
+            "en": "This house has mosquito screens on every window.",
+            "audio_src": "บ้านนี้ติดมุ้งลวดทุกหน้าต่าง",
+            "audio_en_src": "This house has mosquito screens on every window."
+          },
+          {
+            "thai": "มุ้งลวดขาด ยุงเลยเข้าบ้าน",
+            "en": "The mosquito screen is torn, so mosquitoes are getting in.",
+            "audio_src": "มุ้งลวดขาด ยุงเลยเข้าบ้าน",
+            "audio_en_src": "The mosquito screen is torn, so mosquitoes are getting in."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10804,6 +10823,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to breed",
+        "sentences": [
+          {
+            "thai": "ฟาร์มนี้เพาะพันธุ์ปลาสวยงามขาย",
+            "en": "This farm breeds ornamental fish to sell.",
+            "audio_src": "ฟาร์มนี้เพาะพันธุ์ปลาสวยงามขาย",
+            "audio_en_src": "This farm breeds ornamental fish to sell."
+          },
+          {
+            "thai": "น้ำขังเป็นแหล่งเพาะพันธุ์ยุงลาย",
+            "en": "Standing water is a breeding ground for Aedes mosquitoes.",
+            "audio_src": "น้ำขังเป็นแหล่งเพาะพันธุ์ยุงลาย",
+            "audio_en_src": "Standing water is a breeding ground for Aedes mosquitoes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10846,6 +10884,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "stagnant water",
+        "sentences": [
+          {
+            "thai": "คว่ำกระถางเก่าไว้ จะได้ไม่มีน้ำขัง",
+            "en": "Turn old flowerpots upside down so water doesn't collect in them.",
+            "audio_src": "คว่ำกระถางเก่าไว้ จะได้ไม่มีน้ำขัง",
+            "audio_en_src": "Turn old flowerpots upside down so water doesn't collect in them."
+          },
+          {
+            "thai": "หน้าฝนมีน้ำขังหน้าบ้านตลอด",
+            "en": "In the rainy season, there's always standing water in front of the house.",
+            "audio_src": "หน้าฝนมีน้ำขังหน้าบ้านตลอด",
+            "audio_en_src": "In the rainy season, there's always standing water in front of the house."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10855,6 +10912,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "larva (e.g of mosquitoes)",
+        "sentences": [
+          {
+            "thai": "ในโอ่งมีลูกน้ำเต็มเลย",
+            "en": "The water jar is full of mosquito larvae.",
+            "audio_src": "ในโอ่งมีลูกน้ำเต็มเลย",
+            "audio_en_src": "The water jar is full of mosquito larvae."
+          },
+          {
+            "thai": "ปลาหางนกยูงช่วยกินลูกน้ำ",
+            "en": "Guppies help eat mosquito larvae.",
+            "audio_src": "ปลาหางนกยูงช่วยกินลูกน้ำ",
+            "audio_en_src": "Guppies help eat mosquito larvae."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10864,6 +10940,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "landscape",
+        "sentences": [
+          {
+            "thai": "เทศบาลปรับภูมิทัศน์ริมแม่น้ำใหม่",
+            "en": "The municipality relandscaped the riverfront.",
+            "audio_src": "เทศบาลปรับภูมิทัศน์ริมแม่น้ำใหม่",
+            "audio_en_src": "The municipality relandscaped the riverfront."
+          },
+          {
+            "thai": "ภูมิทัศน์แถวนี้สวยเหมาะกับถ่ายรูป",
+            "en": "The landscape around here is beautiful, perfect for photos.",
+            "audio_src": "ภูมิทัศน์แถวนี้สวยเหมาะกับถ่ายรูป",
+            "audio_en_src": "The landscape around here is beautiful, perfect for photos."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10874,6 +10969,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "intestine",
+        "sentences": [
+          {
+            "thai": "กินผักเยอะช่วยให้ลำไส้ทำงานดี",
+            "en": "Eating plenty of vegetables keeps your intestines working well.",
+            "audio_src": "กินผักเยอะช่วยให้ลำไส้ทำงานดี",
+            "audio_en_src": "Eating plenty of vegetables keeps your intestines working well."
+          },
+          {
+            "thai": "หมอสงสัยว่าลำไส้อักเสบ",
+            "en": "The doctor suspects an intestinal infection.",
+            "audio_src": "หมอสงสัยว่าลำไส้อักเสบ",
+            "audio_en_src": "The doctor suspects an intestinal infection."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10883,6 +10997,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "large intestine, colon",
+        "sentences": [
+          {
+            "thai": "หมอแนะนำให้ตรวจมะเร็งลำไส้ใหญ่หลังอายุห้าสิบ",
+            "en": "Doctors recommend colon cancer screening after fifty.",
+            "audio_src": "หมอแนะนำให้ตรวจมะเร็งลำไส้ใหญ่หลังอายุห้าสิบ",
+            "audio_en_src": "Doctors recommend colon cancer screening after fifty."
+          },
+          {
+            "thai": "ลำไส้ใหญ่ทำหน้าที่ดูดซึมน้ำ",
+            "en": "The large intestine absorbs water.",
+            "audio_src": "ลำไส้ใหญ่ทำหน้าที่ดูดซึมน้ำ",
+            "audio_en_src": "The large intestine absorbs water."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11022,6 +11155,25 @@
     "sources": [
       "Chulalongkorn L5",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "scorched, almost burnt",
+        "sentences": [
+          {
+            "thai": "ปิ้งหมูจนเกรียมไปหน่อย",
+            "en": "The grilled pork got a bit charred.",
+            "audio_src": "ปิ้งหมูจนเกรียมไปหน่อย",
+            "audio_en_src": "The grilled pork got a bit charred."
+          },
+          {
+            "thai": "ไปทะเลมาทั้งวัน ผิวเกรียมเลย",
+            "en": "I was at the beach all day, my skin got scorched.",
+            "audio_src": "ไปทะเลมาทั้งวัน ผิวเกรียมเลย",
+            "audio_en_src": "I was at the beach all day, my skin got scorched."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11032,6 +11184,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to transform, to process, processed",
+        "sentences": [
+          {
+            "thai": "โรงงานนี้แปรรูปผลไม้เป็นน้ำผลไม้",
+            "en": "This factory processes fruit into juice.",
+            "audio_src": "โรงงานนี้แปรรูปผลไม้เป็นน้ำผลไม้",
+            "audio_en_src": "This factory processes fruit into juice."
+          },
+          {
+            "thai": "อาหารแปรรูปกินเยอะไม่ดีต่อสุขภาพ",
+            "en": "Eating a lot of processed food is bad for your health.",
+            "audio_src": "อาหารแปรรูปกินเยอะไม่ดีต่อสุขภาพ",
+            "audio_en_src": "Eating a lot of processed food is bad for your health."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11044,6 +11215,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "including, as well as",
+        "sentences": [
+          {
+            "thai": "งานนี้มีนักเรียน ครู ตลอดจนผู้ปกครองมาร่วมด้วย",
+            "en": "Students, teachers, as well as parents came to the event.",
+            "audio_src": "งานนี้มีนักเรียน ครู ตลอดจนผู้ปกครองมาร่วมด้วย",
+            "audio_en_src": "Students, teachers, as well as parents came to the event."
+          },
+          {
+            "thai": "ร้านขายอุปกรณ์กีฬา ตลอดจนเสื้อผ้าออกกำลังกาย",
+            "en": "The shop sells sports equipment as well as workout clothes.",
+            "audio_src": "ร้านขายอุปกรณ์กีฬา ตลอดจนเสื้อผ้าออกกำลังกาย",
+            "audio_en_src": "The shop sells sports equipment as well as workout clothes."
+          }
+        ]
+      }
     ]
   },
   {
