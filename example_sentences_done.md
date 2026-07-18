@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8264 words**
+**Total: 8274 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4958,20 +4958,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-064` : ขัดแย้ง (to conflict, to be in opposition) : 1 meaning(s), 2 sentences
 - `yt-c05-065` : รังแค (dandruff) : 1 meaning(s), 2 sentences
 - `yt-c05-066` : ครีมนวดผม (conditioner (hair)) : 1 meaning(s), 2 sentences
+- `yt-c05-067` : ชโลม (to rub on, to spread over (e.g cream)) : 1 meaning(s), 2 sentences
 - `yt-c05-068` : ผมร่วง (hair loss, hair fall) : 1 meaning(s), 2 sentences
+- `yt-c05-069` : แหนบ (tweezers) : 1 meaning(s), 2 sentences
 - `yt-c05-070` : ผมบาง (thin hair) : 1 meaning(s), 2 sentences
 - `yt-c05-071` : หัวโล้น (completely bald) : 1 meaning(s), 2 sentences
 - `yt-c05-072` : แน่น (tight, dense, packed (e.g traffic, street)) : 1 meaning(s), 2 sentences
+- `yt-c05-073` : ศีลธรรม (morality, ethics) : 1 meaning(s), 2 sentences
+- `yt-c05-074` : สัญชาตญาณ (instinct) : 1 meaning(s), 2 sentences
+- `yt-c05-076` : ตู้ม ((onomatopeia) "boom!", sound of explosion, blast) : 1 meaning(s), 2 sentences
 - `yt-c05-077` : ซ่อนเร้น (to conceal, to keep hidden (e.g a secret)) : 1 meaning(s), 2 sentences
+- `yt-c05-079` : ซื่อบื้อ (stupid, very naive, slow-witted) : 1 meaning(s), 2 sentences
 - `yt-c05-080` : เฮง (lucky, fortunate) : 1 meaning(s), 2 sentences
+- `yt-c05-081` : ตกเป็นทาส (to become a slave, to fall into servitude) : 1 meaning(s), 2 sentences
 - `yt-c05-082` : บ่าว (servant, household attendant) : 1 meaning(s), 2 sentences
 - `yt-c05-083` : จูง (to lead, to guide, to pull (e.g by hand, or with a rope, a leash)) : 1 meaning(s), 2 sentences
 - `yt-c05-084` : หมอลำ (traditional Lao or Isan folk singer (songs with storytelling)) : 1 meaning(s), 2 sentences
 - `yt-c05-085` : แคน (traditional Lao - Isan musical instrument made of bamboo pipes) : 1 meaning(s), 2 sentences
+- `yt-c05-086` : กลองชุด (drum set) : 1 meaning(s), 2 sentences
+- `yt-c05-087` : หลักพัน (thousands, "in the thousands") : 1 meaning(s), 2 sentences
 - `yt-c05-088` : ห่ม (to cover, to wrap (usually with a cloth, e.g blanket)) : 1 meaning(s), 2 sentences
 - `yt-c05-089` : ชนชั้น (social class, stratum) : 1 meaning(s), 2 sentences
 - `yt-c05-090` : ความเต็มใจ (willingness, readiness to do something) : 1 meaning(s), 2 sentences
 - `yt-c05-091` : ไม่ต้องทอน ("you can keep the change") : 1 meaning(s), 2 sentences
+- `yt-c05-092` : อิสระเสรี (complete freedom, full liberty) : 1 meaning(s), 2 sentences
 - `yt-c05-094` : ซด (to drink quickly and audibly, to slurp) : 1 meaning(s), 2 sentences
 - `yt-c05-095` : ทำไร่ (to farm, to do plantation work) : 1 meaning(s), 2 sentences
 - `yt-c05-096` : กตัญญู (grateful) : 1 meaning(s), 2 sentences
