@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7724 words**
+**Total: 7734 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1717,10 +1717,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-164` : ซีด (pale) : 1 meaning(s), 2 sentences
 - `tamago-l3-165` : ฝ่ายบุคคล (HR department) : 1 meaning(s), 2 sentences
 - `tamago-l3-166` : ดำเนินไปได้ด้วยดี (to go well, to go smoothly) : 1 meaning(s), 2 sentences
+- `tamago-l3-167` : บุคลากร (personnel, staff) : 1 meaning(s), 2 sentences
 - `tamago-l3-168` : ผลเสีย (damage, harm, negative consequence) : 1 meaning(s), 2 sentences
+- `tamago-l3-169` : พึงพอใจ (satisfied (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-170` : ส่งผลกระทบ (to impact, to affect) : 1 meaning(s), 2 sentences
 - `tamago-l3-171` : โดยตรง (directly) : 1 meaning(s), 2 sentences
 - `tamago-l3-172` : พูดซะยาว ("you talk too much!", "that's a long explanation!") : 1 meaning(s), 2 sentences
+- `tamago-l3-173` : เล่ห์เหลี่ยม (tricks, schemes, stratagem) : 1 meaning(s), 2 sentences
 - `tamago-l3-174` : ฟังไม่ขึ้น (sounds unconvincing, implausible, "doesn't hold up") : 1 meaning(s), 2 sentences
 - `tamago-l3-175` : ผู้สมัคร (candidate, applicant) : 1 meaning(s), 2 sentences
 - `tamago-l3-176` : ดัน (to push, to press; unexpectedly, "it just happens that") : 2 meaning(s), 4 sentences
@@ -1728,7 +1731,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-178` : ตามสั่ง (made-to-order) : 1 meaning(s), 2 sentences
 - `tamago-l3-181` : ปิดบัง (to hide, to conceal (e.g information, facts)) : 1 meaning(s), 2 sentences
 - `tamago-l3-182` : ลับลมคมใน (secret motive, hidden agenda) : 1 meaning(s), 2 sentences
+- `tamago-l3-183` : ฐานเงินเดือน (base salary) : 1 meaning(s), 2 sentences
 - `tamago-l3-184` : ขำ (funny, to laugh) : 1 meaning(s), 2 sentences
+- `tamago-l3-185` : ใบสมัคร (application form) : 1 meaning(s), 2 sentences
 - `tamago-l3-186` : แอบฟัง (to eavesdrop) : 1 meaning(s), 2 sentences
 - `tamago-l3-187` : ทัศนคติ (attitude, viewpoint) : 1 meaning(s), 2 sentences
 - `tamago-l3-188` : รับสมัคร (to recruit, to take applications) : 1 meaning(s), 2 sentences
@@ -1736,6 +1741,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-190` : ซึมซับ (to absorb (knowledge, culture)) : 1 meaning(s), 2 sentences
 - `tamago-l3-192` : เจ้าของภาษา (native speaker) : 1 meaning(s), 2 sentences
 - `tamago-l3-193` : ดูบอล (to watch football (soccer)) : 1 meaning(s), 2 sentences
+- `tamago-l3-194` : พากย์ (to dub (voice-over)) : 1 meaning(s), 2 sentences
 - `tamago-l3-195` : รับไหว (to be able to handle, can take it) : 1 meaning(s), 2 sentences
 - `tamago-l3-197` : ฉวยโอกาส (to seize an opportunity) : 1 meaning(s), 2 sentences
 - `tamago-l3-198` : ตามใจ (as you wish; to spoil (someone)) : 2 meaning(s), 4 sentences
@@ -1746,6 +1752,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-203` : หมอดู (fortune teller) : 1 meaning(s), 2 sentences
 - `tamago-l3-204` : พักนี้ (lately, recently) : 1 meaning(s), 2 sentences
 - `tamago-l3-205` : ดูออก (to be able to tell, to figure out by looking) : 1 meaning(s), 2 sentences
+- `tamago-l3-206` : รักใคร่ (to love, to have affection for (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-207` : นานๆที, นานๆครั้ง (once in a while, occasionally) : 1 meaning(s), 2 sentences
 - `tamago-l3-208` : บ่ายเบี่ยง (to avoid, to evade (a question)) : 1 meaning(s), 2 sentences
 - `tamago-l3-210` : แม้แต่ (even, even as little as) : 1 meaning(s), 2 sentences
@@ -1760,6 +1767,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-222` : ฝันไปเถอะ ("dream on", "in your dreams") : 1 meaning(s), 2 sentences
 - `tamago-l3-223` : อารมณ์เสีย (upset, in a bad mood) : 1 meaning(s), 2 sentences
 - `tamago-l3-224` : เสียก่อน (first, beforehand) : 1 meaning(s), 2 sentences
+- `tamago-l3-225` : เด็กแลกเปลี่ยน (exchange student) : 1 meaning(s), 2 sentences
 - `tamago-l3-227` : เรื่องส่วนตัว (personal matter) : 1 meaning(s), 2 sentences
 - `tamago-l3-228` : ลูกติด (child from a previous relationship) : 1 meaning(s), 2 sentences
 - `tamago-l3-229` : ผิวคล้ำ (tanned skin, dark skin) : 1 meaning(s), 2 sentences
@@ -1770,11 +1778,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-234` : อยู่ๆ (suddenly, out of nowhere) : 1 meaning(s), 2 sentences
 - `tamago-l3-235` : จำใจ (reluctantly, to do something against one's will) : 1 meaning(s), 2 sentences
 - `tamago-l3-236` : ละเมอ (to talk in one's sleep) : 1 meaning(s), 2 sentences
+- `tamago-l3-237` : จากกัน (to part from someone, to go one's own way) : 1 meaning(s), 2 sentences
 - `tamago-l3-238` : ไม่มีวัน (no way, never) : 1 meaning(s), 2 sentences
 - `tamago-l3-239` : ข้าวของ (stuff, possessions, belongings) : 1 meaning(s), 2 sentences
 - `tamago-l3-240` : เจตนา, เจตนารมณ์ (intent, intention, underlying purpose) : 1 meaning(s), 2 sentences
 - `tamago-l3-241` : ก่อการร้าย (to commit terrorism) : 1 meaning(s), 2 sentences
 - `tamago-l3-242` : เครื่องเล่นเอ็มพีสาม (MP3 player) : 1 meaning(s), 2 sentences
+- `tamago-l3-244` : แป้งเด็ก (baby powder) : 1 meaning(s), 2 sentences
 - `tamago-l3-246` : ประชด (to be sarcastic, to speak ironically, mockingly) : 1 meaning(s), 2 sentences
 - `tamago-l3-247` : คำหยาบ (swear word, vulgar word) : 1 meaning(s), 2 sentences
 - `tamago-l3-248` : ย่อๆ (in short, in brief, abbreviated) : 1 meaning(s), 2 sentences
