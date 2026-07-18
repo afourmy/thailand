@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8174 words**
+**Total: 8184 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4702,25 +4702,35 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-069` : นิโรธ (cessation of suffering (religious)) : 1 meaning(s), 2 sentences
 - `yt-c02-070` : ตัวกลาง (medium, intermediary, middleman) : 1 meaning(s), 2 sentences
 - `yt-c02-071` : ตักบาตร (offering food to monks (religious term)) : 1 meaning(s), 2 sentences
+- `yt-c02-073` : เผยแผ่ (to spread, to disseminate, to propagate (e.g ideas, teachings)) : 1 meaning(s), 2 sentences
 - `yt-c02-074` : พูดปด (to lie, to tell a lie) : 1 meaning(s), 2 sentences
 - `yt-c02-075` : กาม (lust, sexual craving) : 1 meaning(s), 2 sentences
 - `yt-c02-080` : เวียนเทียน (candlelight procession around a sacred site (3 circles)) : 1 meaning(s), 2 sentences
+- `yt-c02-081` : พระธรรม (Buddha's teaching, Dharma) : 1 meaning(s), 2 sentences
 - `yt-c02-082` : พนมมือ (to press palms together (greeting, prayer)) : 1 meaning(s), 2 sentences
 - `yt-c02-083` : จรด (to touch, to place exactly, to reach) : 1 meaning(s), 2 sentences
 - `yt-c02-085` : ก้มหัว (to bow the head) : 1 meaning(s), 2 sentences
 - `yt-c02-086` : รูป (classifier for monks and novice monks) : 1 meaning(s), 2 sentences
+- `yt-c02-087` : พระภิกษุสงฆ์ (Buddhist monks, the monastic community) : 1 meaning(s), 2 sentences
 - `yt-c02-088` : มรณภาพ (to pass away, to die (religious: for monks only)) : 1 meaning(s), 2 sentences
+- `yt-c02-089` : ปฏิทินจันทรคติ (lunar calendar) : 1 meaning(s), 2 sentences
 - `yt-c02-090` : รสจัด (strong flavor, intense taste) : 1 meaning(s), 2 sentences
 - `yt-c02-091` : อุดมสมบูรณ์ (abundant, fertile) : 1 meaning(s), 2 sentences
+- `yt-c02-092` : ข้อนิ้ว (knuckle) : 1 meaning(s), 2 sentences
+- `yt-c02-093` : เส้นลายมือ (palm lines (used in palm reading)) : 1 meaning(s), 2 sentences
 - `yt-c02-094` : นิ้วโป้ง, นิ้วหัวแม่มือ (thumb) : 1 meaning(s), 2 sentences
 - `yt-c02-095` : นิ้วกลาง (middle finger) : 1 meaning(s), 2 sentences
 - `yt-c02-096` : โยน - ปา (to throw - to toss (with aim, forcefully)) : 1 meaning(s), 2 sentences
 - `yt-c02-097` : แบ (to unfold, spread out, to stretch out (e.g hand, finger)) : 1 meaning(s), 2 sentences
 - `yt-c02-098` : เขี่ย (to nudge, to flick) : 1 meaning(s), 2 sentences
+- `yt-c02-099` : เขวี้ยง (to hurl, to throw (e.g with force, anger)) : 1 meaning(s), 2 sentences
+- `yt-c03-000` : ถวายปัจจัย (to offer alms to monks (e.g money)) : 1 meaning(s), 2 sentences
+- `yt-c03-001` : กุม (to grasp, to hold firmly) : 1 meaning(s), 2 sentences
 - `yt-c03-002` : กุมมือ (to hold hands) : 1 meaning(s), 2 sentences
 - `yt-c03-003` : เป่า (to blow (e.g air, candles, cake)) : 1 meaning(s), 2 sentences
 - `yt-c03-004` : สุขสันต์วันเกิด (happy birthday) : 1 meaning(s), 2 sentences
 - `yt-c03-005` : จดจำ (to remember, to retain in memory) : 1 meaning(s), 2 sentences
+- `yt-c03-006` : ดอกมะลิ (jasmine flower) : 1 meaning(s), 2 sentences
 - `yt-c03-007` : ร้อย (hundred; to string, to thread (idea of connecting items in a sequence)) : 2 meaning(s), 4 sentences
 - `yt-c03-009` : พระอรหันต์ (an enlightened monk who has attained Nirvana) : 1 meaning(s), 2 sentences
 - `yt-c03-011` : ความเมตตา (compassion, deep kindness) : 1 meaning(s), 2 sentences
