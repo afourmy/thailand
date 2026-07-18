@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8014 words**
+**Total: 8024 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3552,7 +3552,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0746` : ภาคต่อ (sequel) : 1 meaning(s), 2 sentences
 - `thaipod-0748` : ภาพประกอบ (illustration, diagram) : 1 meaning(s), 2 sentences
 - `thaipod-0749` : ภาพพจน์ (figurative expression, figure of speech) : 1 meaning(s), 2 sentences
+- `thaipod-0752` : ภาพเขียนสี (painting, colored drawing) : 1 meaning(s), 2 sentences
 - `thaipod-0753` : ภายนอก (exterior, outside) : 1 meaning(s), 2 sentences
+- `thaipod-0754` : ภายใต้ (under, underneath, beneath) : 1 meaning(s), 2 sentences
+- `thaipod-0756` : ภูมิประเทศ (landscape, terrain, geography) : 1 meaning(s), 2 sentences
 - `thaipod-0757` : ภูมิใจ (proud of) : 1 meaning(s), 2 sentences
 - `thaipod-0758` : ภูเขาหินปูน (limestone mountain) : 1 meaning(s), 2 sentences
 - `thaipod-0761` : มณฑล (province, region, administrative area (formal)) : 1 meaning(s), 2 sentences
@@ -3562,6 +3565,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0765` : มรดกโลก (World Heritage) : 1 meaning(s), 2 sentences
 - `thaipod-0766` : มรสุม (monsoon) : 1 meaning(s), 2 sentences
 - `thaipod-0767` : มลายู (Malay (people, culture, etc)) : 1 meaning(s), 2 sentences
+- `thaipod-0768` : มหกรรม (festival, grand event) : 1 meaning(s), 2 sentences
 - `thaipod-0769` : มหาราช ("the Great King") : 1 meaning(s), 2 sentences
 - `thaipod-0772` : มัธยม (secondary school (age 12-17)) : 1 meaning(s), 2 sentences
 - `thaipod-0773` : มั่นคง (stable, secure, steady) : 1 meaning(s), 2 sentences
@@ -3578,6 +3582,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0794` : ยังไง (anyway, how) : 1 meaning(s), 3 sentences
 - `thaipod-0796` : ยันต์ (Yantra, sacred protective diagram (often tattooed)) : 1 meaning(s), 2 sentences
 - `thaipod-0798` : ยามค่ำคืน (at night, nighttime (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0800` : ยินยอม (to consent, to formally agree) : 1 meaning(s), 2 sentences
 - `thaipod-0803` : ยิ่งใหญ่ (great, magnificent, grandiose) : 1 meaning(s), 2 sentences
 - `thaipod-0804` : ยึดครอง (to occupy, to seize and control) : 1 meaning(s), 2 sentences
 - `thaipod-0806` : ยุคทอง (golden age, golden era) : 1 meaning(s), 2 sentences
@@ -3588,6 +3593,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0813` : รถชน (car accident) : 1 meaning(s), 2 sentences
 - `thaipod-0814` : รถติด (traffic jam) : 1 meaning(s), 2 sentences
 - `thaipod-0816` : รถสามล้อ (tuk-tuk (three-wheeler)) : 1 meaning(s), 2 sentences
+- `thaipod-0817` : รถโดยสารประจำทาง (public bus, regular bus) : 1 meaning(s), 2 sentences
 - `thaipod-0818` : รบ, สู้รบ (to fight, to battle) : 1 meaning(s), 2 sentences
 - `thaipod-0819` : รวบรวม (to compile, to gather, to unify) : 1 meaning(s), 2 sentences
 - `thaipod-0820` : รวมถึง (including, as well as) : 1 meaning(s), 2 sentences
@@ -3606,10 +3612,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0836` : ระหว่างทาง (on the way, along the way) : 1 meaning(s), 2 sentences
 - `thaipod-0837` : รักอุตลุด (tumultuous love, wild love, chaotic romance) : 1 meaning(s), 2 sentences
 - `thaipod-0838` : รังนก (bird's nest (delicacy used in soup)) : 1 meaning(s), 2 sentences
+- `thaipod-0839` : รัชกาล (reign (of a king)) : 1 meaning(s), 2 sentences
 - `thaipod-0840` : รัชสมัย (reign, era (of a king)) : 1 meaning(s), 2 sentences
 - `thaipod-0841` : รัฐ (state (political)) : 1 meaning(s), 2 sentences
 - `thaipod-0842` : รัฐธรรมนูญ (constitution) : 1 meaning(s), 2 sentences
 - `thaipod-0843` : รัฐบาล (government) : 1 meaning(s), 2 sentences
+- `thaipod-0844` : รับพร (to receive blessings) : 1 meaning(s), 2 sentences
 - `thaipod-0846` : รับสั่ง (to give an order, to command (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0847` : รั่วไหล (to leak out) : 1 meaning(s), 2 sentences
 - `thaipod-0848` : รั้ว (fence, barrier) : 1 meaning(s), 2 sentences
@@ -3622,6 +3630,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0855` : ราชสมบัติ (royal property, throne) : 1 meaning(s), 2 sentences
 - `thaipod-0856` : ราชสำนัก (royal court) : 1 meaning(s), 2 sentences
 - `thaipod-0858` : ราบสูง (plateau, high plain) : 1 meaning(s), 2 sentences
+- `thaipod-0859` : รายงานตัว (to report oneself, to check in, to present oneself officially (e.g army, school, appointment, etc)) : 1 meaning(s), 2 sentences
+- `thaipod-0860` : รายล้อม (surrounding, encircling, all around) : 1 meaning(s), 2 sentences
 - `thaipod-0861` : รายได้ (income) : 1 meaning(s), 2 sentences
 - `thaipod-0862` : รายได้พิเศษ (extra income, side income) : 1 meaning(s), 2 sentences
 - `thaipod-0865` : ราษฎร (people, populace, subjects) : 1 meaning(s), 2 sentences

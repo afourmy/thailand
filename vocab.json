@@ -109914,6 +109914,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "painting, colored drawing",
+        "sentences": [
+          {
+            "thai": "ถ้ำนี้มีภาพเขียนสีอายุสามพันปี",
+            "en": "This cave has three-thousand-year-old rock paintings.",
+            "audio_src": "ถ้ำนี้มีภาพเขียนสีอายุสามพันปี",
+            "audio_en_src": "This cave has three-thousand-year-old rock paintings."
+          },
+          {
+            "thai": "ภาพเขียนสีของเขาถูกประมูลไปในราคาสูง",
+            "en": "His painting sold for a high price at auction.",
+            "audio_src": "ภาพเขียนสีของเขาถูกประมูลไปในราคาสูง",
+            "audio_en_src": "His painting sold for a high price at auction."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109957,6 +109976,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "under, underneath, beneath",
+        "sentences": [
+          {
+            "thai": "บริษัทเติบโตภายใต้การนำของซีอีโอคนใหม่",
+            "en": "The company grew under the new CEO's leadership.",
+            "audio_src": "บริษัทเติบโตภายใต้การนำของซีอีโอคนใหม่",
+            "audio_en_src": "The company grew under the new CEO's leadership."
+          },
+          {
+            "thai": "ทุกคนเท่ากันภายใต้กฎหมาย",
+            "en": "Everyone is equal under the law.",
+            "audio_src": "ทุกคนเท่ากันภายใต้กฎหมาย",
+            "audio_en_src": "Everyone is equal under the law."
+          }
+        ]
+      }
     ]
   },
   {
@@ -109967,6 +110005,25 @@
     "sources": [
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "landscape, terrain, geography",
+        "sentences": [
+          {
+            "thai": "ภูมิประเทศแถบนี้เป็นภูเขาสลับหุบเขา",
+            "en": "The terrain around here is mountains and valleys.",
+            "audio_src": "ภูมิประเทศแถบนี้เป็นภูเขาสลับหุบเขา",
+            "audio_en_src": "The terrain around here is mountains and valleys."
+          },
+          {
+            "thai": "ทหารต้องเรียนรู้ภูมิประเทศก่อนปฏิบัติการ",
+            "en": "Soldiers must learn the terrain before an operation.",
+            "audio_src": "ทหารต้องเรียนรู้ภูมิประเทศก่อนปฏิบัติการ",
+            "audio_en_src": "Soldiers must learn the terrain before an operation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -110241,6 +110298,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "festival, grand event",
+        "sentences": [
+          {
+            "thai": "มหกรรมหนังสือจัดที่ศูนย์ประชุมทุกปี",
+            "en": "The book fair is held at the convention center every year.",
+            "audio_src": "มหกรรมหนังสือจัดที่ศูนย์ประชุมทุกปี",
+            "audio_en_src": "The book fair is held at the convention center every year."
+          },
+          {
+            "thai": "เมืองนี้เป็นเจ้าภาพมหกรรมกีฬาระดับโลก",
+            "en": "This city is hosting a world-class sporting event.",
+            "audio_src": "เมืองนี้เป็นเจ้าภาพมหกรรมกีฬาระดับโลก",
+            "audio_en_src": "This city is hosting a world-class sporting event."
+          }
+        ]
+      }
     ]
   },
   {
@@ -110750,6 +110826,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to consent, to formally agree",
+        "sentences": [
+          {
+            "thai": "เขายินยอมจ่ายค่าเสียหายทั้งหมด",
+            "en": "He agreed to pay all the damages.",
+            "audio_src": "เขายินยอมจ่ายค่าเสียหายทั้งหมด",
+            "audio_en_src": "He agreed to pay all the damages."
+          },
+          {
+            "thai": "ผู้ปกครองต้องยินยอมก่อนถึงจะผ่าตัดได้",
+            "en": "The parents must give consent before the operation.",
+            "audio_src": "ผู้ปกครองต้องยินยอมก่อนถึงจะผ่าตัดได้",
+            "audio_en_src": "The parents must give consent before the operation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -111055,6 +111150,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "public bus, regular bus",
+        "sentences": [
+          {
+            "thai": "รถโดยสารประจำทางสายนี้วิ่งถึงเที่ยงคืน",
+            "en": "This bus route runs until midnight.",
+            "audio_src": "รถโดยสารประจำทางสายนี้วิ่งถึงเที่ยงคืน",
+            "audio_en_src": "This bus route runs until midnight."
+          },
+          {
+            "thai": "ค่ารถโดยสารประจำทางกำลังจะขึ้นราคา",
+            "en": "Bus fares are about to go up.",
+            "audio_src": "ค่ารถโดยสารประจำทางกำลังจะขึ้นราคา",
+            "audio_en_src": "Bus fares are about to go up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -111627,6 +111741,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "reign (of a king)",
+        "sentences": [
+          {
+            "thai": "วัดนี้สร้างในรัชกาลที่ 3",
+            "en": "This temple was built in the reign of Rama III.",
+            "audio_src": "วัดนี้สร้างในรัชกาลที่ 3",
+            "audio_en_src": "This temple was built in the reign of Rama III."
+          },
+          {
+            "thai": "เหรียญนี้ผลิตในรัชกาลก่อน",
+            "en": "This coin was minted in the previous reign.",
+            "audio_src": "เหรียญนี้ผลิตในรัชกาลก่อน",
+            "audio_en_src": "This coin was minted in the previous reign."
+          }
+        ]
+      }
     ]
   },
   {
@@ -111759,6 +111892,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to receive blessings",
+        "sentences": [
+          {
+            "thai": "วันสงกรานต์ เด็กๆไปรับพรจากปู่ย่า",
+            "en": "At Songkran, the kids go receive blessings from their grandparents.",
+            "audio_src": "วันสงกรานต์ เด็กๆไปรับพรจากปู่ย่า",
+            "audio_en_src": "At Songkran, the kids go receive blessings from their grandparents."
+          },
+          {
+            "thai": "คู่บ่าวสาวรับพรจากพระ",
+            "en": "The bride and groom received blessings from the monks.",
+            "audio_src": "คู่บ่าวสาวรับพรจากพระ",
+            "audio_en_src": "The bride and groom received blessings from the monks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -112116,6 +112268,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to report oneself, to check in, to present oneself officially (e.g army, school, appointment, etc)",
+        "sentences": [
+          {
+            "thai": "นักเรียนใหม่ต้องมารายงานตัววันจันทร์",
+            "en": "New students must report on Monday.",
+            "audio_src": "นักเรียนใหม่ต้องมารายงานตัววันจันทร์",
+            "audio_en_src": "New students must report on Monday."
+          },
+          {
+            "thai": "ทหารใหม่ไปรายงานตัวที่ค่าย",
+            "en": "The new recruits reported to the barracks.",
+            "audio_src": "ทหารใหม่ไปรายงานตัวที่ค่าย",
+            "audio_en_src": "The new recruits reported to the barracks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -112125,6 +112296,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "surrounding, encircling, all around",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้มีภูเขารายล้อม",
+            "en": "This house is surrounded by mountains.",
+            "audio_src": "บ้านหลังนี้มีภูเขารายล้อม",
+            "audio_en_src": "This house is surrounded by mountains."
+          },
+          {
+            "thai": "ดาราถูกแฟนคลับรายล้อมทันทีที่ลงรถ",
+            "en": "The star was surrounded by fans the moment she stepped out of the car.",
+            "audio_src": "ดาราถูกแฟนคลับรายล้อมทันทีที่ลงรถ",
+            "audio_en_src": "The star was surrounded by fans the moment she stepped out of the car."
+          }
+        ]
+      }
     ]
   },
   {
