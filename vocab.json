@@ -95236,6 +95236,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to drive through (e.g traffic, weather)",
+        "sentences": [
+          {
+            "thai": "เราขับฝ่าพายุฝนกลับบ้าน",
+            "en": "We drove home through the storm.",
+            "audio_src": "เราขับฝ่าพายุฝนกลับบ้าน",
+            "audio_en_src": "We drove home through the storm."
+          },
+          {
+            "thai": "เขาขับฝ่าไฟแดงเลยโดนใบสั่ง",
+            "en": "He ran a red light and got a ticket.",
+            "audio_src": "เขาขับฝ่าไฟแดงเลยโดนใบสั่ง",
+            "audio_en_src": "He ran a red light and got a ticket."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96023,6 +96042,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to cover, to enclose",
+        "sentences": [
+          {
+            "thai": "เอาฝาชีครอบอาหารกันแมลงวัน",
+            "en": "Cover the food with a mesh dome to keep flies off.",
+            "audio_src": "เอาฝาชีครอบอาหารกันแมลงวัน",
+            "audio_en_src": "Cover the food with a mesh dome to keep flies off."
+          },
+          {
+            "thai": "ครอบแก้วไว้กันฝุ่น",
+            "en": "Put a cover over the glass to keep dust out.",
+            "audio_src": "ครอบแก้วไว้กันฝุ่น",
+            "audio_en_src": "Put a cover over the glass to keep dust out."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96243,6 +96281,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to cool down, to relieve heat",
+        "sentences": [
+          {
+            "thai": "กินแตงโมเย็นๆคลายร้อน",
+            "en": "Have some cold watermelon to beat the heat.",
+            "audio_src": "กินแตงโมเย็นๆคลายร้อน",
+            "audio_en_src": "Have some cold watermelon to beat the heat."
+          },
+          {
+            "thai": "เด็กๆเล่นน้ำคลายร้อนหน้าบ้าน",
+            "en": "The kids play in the water out front to cool off.",
+            "audio_src": "เด็กๆเล่นน้ำคลายร้อนหน้าบ้าน",
+            "audio_en_src": "The kids play in the water out front to cool off."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96309,6 +96366,25 @@
     "sources": [
       "Thaipod101",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "progress, advancement",
+        "sentences": [
+          {
+            "thai": "งานวิจัยมีความก้าวหน้ามาก",
+            "en": "The research has made a lot of progress.",
+            "audio_src": "งานวิจัยมีความก้าวหน้ามาก",
+            "audio_en_src": "The research has made a lot of progress."
+          },
+          {
+            "thai": "เขาย้ายงานเพราะอยากมีความก้าวหน้า",
+            "en": "He changed jobs because he wanted to advance.",
+            "audio_src": "เขาย้ายงานเพราะอยากมีความก้าวหน้า",
+            "audio_en_src": "He changed jobs because he wanted to advance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96318,6 +96394,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "liveliness, vitality, vibrancy",
+        "sentences": [
+          {
+            "thai": "ตลาดนัดเต็มไปด้วยความคึกคัก",
+            "en": "The market is full of life.",
+            "audio_src": "ตลาดนัดเต็มไปด้วยความคึกคัก",
+            "audio_en_src": "The market is full of life."
+          },
+          {
+            "thai": "เทศกาลปีนี้ความคึกคักกลับมาแล้ว",
+            "en": "The festive buzz is back this year.",
+            "audio_src": "เทศกาลปีนี้ความคึกคักกลับมาแล้ว",
+            "audio_en_src": "The festive buzz is back this year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96383,6 +96478,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "modernity",
+        "sentences": [
+          {
+            "thai": "โตเกียวผสมความทันสมัยกับประเพณีได้ลงตัว",
+            "en": "Tokyo blends modernity and tradition perfectly.",
+            "audio_src": "โตเกียวผสมความทันสมัยกับประเพณีได้ลงตัว",
+            "audio_en_src": "Tokyo blends modernity and tradition perfectly."
+          },
+          {
+            "thai": "ห้างใหม่เต็มไปด้วยความทันสมัย",
+            "en": "The new mall is thoroughly modern.",
+            "audio_src": "ห้างใหม่เต็มไปด้วยความทันสมัย",
+            "audio_en_src": "The new mall is thoroughly modern."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96508,6 +96622,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "flexibility",
+        "sentences": [
+          {
+            "thai": "งานนี้มีความยืดหยุ่นเรื่องเวลา",
+            "en": "This job has flexible hours.",
+            "audio_src": "งานนี้มีความยืดหยุ่นเรื่องเวลา",
+            "audio_en_src": "This job has flexible hours."
+          },
+          {
+            "thai": "โยคะช่วยเพิ่มความยืดหยุ่นของร่างกาย",
+            "en": "Yoga improves your body's flexibility.",
+            "audio_src": "โยคะช่วยเพิ่มความยืดหยุ่นของร่างกาย",
+            "audio_en_src": "Yoga improves your body's flexibility."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96517,6 +96650,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "caution, carefulness",
+        "sentences": [
+          {
+            "thai": "ขับรถหน้าฝนต้องใช้ความระมัดระวังเป็นพิเศษ",
+            "en": "Driving in the rainy season takes extra caution.",
+            "audio_src": "ขับรถหน้าฝนต้องใช้ความระมัดระวังเป็นพิเศษ",
+            "audio_en_src": "Driving in the rainy season takes extra caution."
+          },
+          {
+            "thai": "เปิดอ่านอีเมลแปลกๆด้วยความระมัดระวัง",
+            "en": "Open strange emails with caution.",
+            "audio_src": "เปิดอ่านอีเมลแปลกๆด้วยความระมัดระวัง",
+            "audio_en_src": "Open strange emails with caution."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96585,6 +96737,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "faith, belief",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านมีความศรัทธาในหลวงพ่อองค์นี้มาก",
+            "en": "The villagers have deep faith in this monk.",
+            "audio_src": "ชาวบ้านมีความศรัทธาในหลวงพ่อองค์นี้มาก",
+            "audio_en_src": "The villagers have deep faith in this monk."
+          },
+          {
+            "thai": "วัดนี้สร้างขึ้นจากความศรัทธาของชาวบ้าน",
+            "en": "This temple was built on the villagers' faith.",
+            "audio_src": "วัดนี้สร้างขึ้นจากความศรัทธาของชาวบ้าน",
+            "audio_en_src": "This temple was built on the villagers' faith."
+          }
+        ]
+      }
     ]
   },
   {
@@ -96622,6 +96793,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "brightness, cheerfulness, liveliness",
+        "sentences": [
+          {
+            "thai": "เธอกลับมาพร้อมความสดใสเหมือนเดิม",
+            "en": "She's back to her old cheerful self.",
+            "audio_src": "เธอกลับมาพร้อมความสดใสเหมือนเดิม",
+            "audio_en_src": "She's back to her old cheerful self."
+          },
+          {
+            "thai": "สีเหลืองให้ความสดใสกับห้อง",
+            "en": "Yellow gives the room a bright, cheerful feel.",
+            "audio_src": "สีเหลืองให้ความสดใสกับห้อง",
+            "audio_en_src": "Yellow gives the room a bright, cheerful feel."
+          }
+        ]
+      }
     ]
   },
   {

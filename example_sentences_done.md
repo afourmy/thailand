@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7974 words**
+**Total: 7984 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3070,6 +3070,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0122` : ขวาน (axe) : 1 meaning(s), 2 sentences
 - `thaipod-0124` : ของที่ระลึก (souvenir) : 1 meaning(s), 2 sentences
 - `thaipod-0128` : ขับ, ขับขี่ (to drive) : 1 meaning(s), 2 sentences
+- `thaipod-0129` : ขับฝ่า (to drive through (e.g traffic, weather)) : 1 meaning(s), 2 sentences
 - `thaipod-0130` : ขับไล่ (to expel, to drive out, to banish) : 1 meaning(s), 2 sentences
 - `thaipod-0132` : ขั้นตอน (steps, procedure) : 1 meaning(s), 2 sentences
 - `thaipod-0133` : ขาดแคลน (to lack, to be insufficient) : 1 meaning(s), 2 sentences
@@ -3095,6 +3096,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0156` : คบ, คบหา (to date, to associate with, to befriend) : 1 meaning(s), 2 sentences
 - `thaipod-0158` : คม (sharp) : 1 meaning(s), 2 sentences
 - `thaipod-0160` : ครองราชย์ (to reign, to rule as monarch) : 1 meaning(s), 2 sentences
+- `thaipod-0161` : ครอบ (to cover, to enclose) : 1 meaning(s), 2 sentences
 - `thaipod-0162` : ครอบคลุม (to cover, to encompass, comprehensive) : 1 meaning(s), 2 sentences
 - `thaipod-0163` : ครั้งยัง ("back when", "in the days when" (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0164` : ครั้งใหญ่ (big time, major) : 1 meaning(s), 2 sentences
@@ -3102,17 +3104,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0166` : ครุฑ (Garuda (legendary bird)) : 1 meaning(s), 2 sentences
 - `thaipod-0167` : คลอง, ลำคลอง (canal, small waterway) : 1 meaning(s), 2 sentences
 - `thaipod-0169` : คลาย (to loosen, to relieve, to ease) : 1 meaning(s), 2 sentences
+- `thaipod-0170` : คลายร้อน (to cool down, to relieve heat) : 1 meaning(s), 2 sentences
 - `thaipod-0172` : ควบคู่กันกับ (together with, simultaneously with) : 1 meaning(s), 2 sentences
 - `thaipod-0173` : ควรค่า (แก่) (worthy of, deserving of) : 1 meaning(s), 2 sentences
+- `thaipod-0174` : ความก้าวหน้า (progress, advancement) : 1 meaning(s), 2 sentences
+- `thaipod-0176` : ความคึกคัก (liveliness, vitality, vibrancy) : 1 meaning(s), 2 sentences
 - `thaipod-0177` : ความจริงแล้ว (actually, in fact) : 1 meaning(s), 2 sentences
 - `thaipod-0179` : ความซื่อ (honesty, sincerity) : 1 meaning(s), 2 sentences
+- `thaipod-0180` : ความทันสมัย (modernity) : 1 meaning(s), 2 sentences
 - `thaipod-0181` : ความทารุณ (cruelty, brutality (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0182` : ความทุกข์, ความทุกข์ยาก (misery, suffering, hardship) : 1 meaning(s), 2 sentences
 - `thaipod-0183` : ความประทับใจ (impression) : 1 meaning(s), 2 sentences
 - `thaipod-0185` : ความมีชีวิตชีวา (vitality, liveliness) : 1 meaning(s), 2 sentences
+- `thaipod-0186` : ความยืดหยุ่น (flexibility) : 1 meaning(s), 2 sentences
+- `thaipod-0187` : ความระมัดระวัง (caution, carefulness) : 1 meaning(s), 2 sentences
 - `thaipod-0188` : ความรันทด (sorrow, sadness (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0189` : ความลึกลับ (mystery, mysteriousness) : 1 meaning(s), 2 sentences
+- `thaipod-0190` : ความศรัทธา (faith, belief) : 1 meaning(s), 2 sentences
 - `thaipod-0191` : ความสงบร่มเย็น (peace and tranquility (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-0193` : ความสดใส (brightness, cheerfulness, liveliness) : 1 meaning(s), 2 sentences
 - `thaipod-0194` : ความอาฆาต (vengeance, vindictiveness (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0195` : ความอุดมสมบูรณ์ (prosperity, abundance, fertility) : 1 meaning(s), 2 sentences
 - `thaipod-0196` : ความเก่าแก่ (antiquity, ancientness) : 1 meaning(s), 2 sentences
