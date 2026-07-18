@@ -367,6 +367,25 @@
       "Chulalongkorn L4",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "old, elderly (formal)",
+        "sentences": [
+          {
+            "thai": "คุณยายชรามากแล้ว เดินไม่ค่อยไหว",
+            "en": "Grandma is very old now, she can barely walk.",
+            "audio_src": "คุณยายชรามากแล้ว เดินไม่ค่อยไหว",
+            "audio_en_src": "Grandma is very old now, she can barely walk."
+          },
+          {
+            "thai": "เขาไปเป็นอาสาสมัครที่บ้านพักคนชรา",
+            "en": "She volunteers at a nursing home.",
+            "audio_src": "เขาไปเป็นอาสาสมัครที่บ้านพักคนชรา",
+            "audio_en_src": "She volunteers at a nursing home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -813,6 +832,25 @@
       "Thaipod101",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "organ",
+        "sentences": [
+          {
+            "thai": "ตับเป็นอวัยวะที่สำคัญของร่างกาย",
+            "en": "The liver is a vital organ of the body.",
+            "audio_src": "ตับเป็นอวัยวะที่สำคัญของร่างกาย",
+            "audio_en_src": "The liver is a vital organ of the body."
+          },
+          {
+            "thai": "เขาลงทะเบียนบริจาคอวัยวะไว้แล้ว",
+            "en": "He's already registered as an organ donor.",
+            "audio_src": "เขาลงทะเบียนบริจาคอวัยวะไว้แล้ว",
+            "audio_en_src": "He's already registered as an organ donor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -872,6 +910,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sudden, immediate (formal)",
+        "sentences": [
+          {
+            "thai": "อากาศเปลี่ยนแปลงอย่างฉับพลัน",
+            "en": "The weather changed abruptly.",
+            "audio_src": "อากาศเปลี่ยนแปลงอย่างฉับพลัน",
+            "audio_en_src": "The weather changed abruptly."
+          },
+          {
+            "thai": "เขาตัดสินใจลาออกอย่างฉับพลัน",
+            "en": "He suddenly decided to resign.",
+            "audio_src": "เขาตัดสินใจลาออกอย่างฉับพลัน",
+            "audio_en_src": "He suddenly decided to resign."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1046,6 +1103,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "national anthem",
+        "sentences": [
+          {
+            "thai": "นักเรียนร้องเพลงชาติหน้าเสาธงทุกเช้า",
+            "en": "Students sing the national anthem at the flagpole every morning.",
+            "audio_src": "นักเรียนร้องเพลงชาติหน้าเสาธงทุกเช้า",
+            "audio_en_src": "Students sing the national anthem at the flagpole every morning."
+          },
+          {
+            "thai": "พอเพลงชาติดังขึ้น ทุกคนก็หยุดยืนตรง",
+            "en": "When the national anthem came on, everyone stopped and stood at attention.",
+            "audio_src": "พอเพลงชาติดังขึ้น ทุกคนก็หยุดยืนตรง",
+            "audio_en_src": "When the national anthem came on, everyone stopped and stood at attention."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1179,6 +1255,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "around, surrounding",
+        "sentences": [
+          {
+            "thai": "เขาเล่นมือถือจนไม่สนใจคนรอบข้าง",
+            "en": "He's on his phone so much he ignores the people around him.",
+            "audio_src": "เขาเล่นมือถือจนไม่สนใจคนรอบข้าง",
+            "audio_en_src": "He's on his phone so much he ignores the people around him."
+          },
+          {
+            "thai": "เวลาขับรถต้องคอยดูรถรอบข้างด้วย",
+            "en": "When you drive, keep an eye on the cars around you.",
+            "audio_src": "เวลาขับรถต้องคอยดูรถรอบข้างด้วย",
+            "audio_en_src": "When you drive, keep an eye on the cars around you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1188,6 +1283,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to squint",
+        "sentences": [
+          {
+            "thai": "เขาหลิ่วตาข้างหนึ่งเพื่อเล็งเป้า",
+            "en": "He squinted one eye to aim at the target.",
+            "audio_src": "เขาหลิ่วตาข้างหนึ่งเพื่อเล็งเป้า",
+            "audio_en_src": "He squinted one eye to aim at the target."
+          },
+          {
+            "thai": "เด็กหลิ่วตามองผ่านรูกุญแจ",
+            "en": "The boy squinted through the keyhole.",
+            "audio_src": "เด็กหลิ่วตามองผ่านรูกุญแจ",
+            "audio_en_src": "The boy squinted through the keyhole."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1360,6 +1474,25 @@
       "Chulalongkorn L4",
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "container",
+        "sentences": [
+          {
+            "thai": "ล้างภาชนะให้สะอาดก่อนใส่อาหาร",
+            "en": "Wash containers thoroughly before putting food in them.",
+            "audio_src": "ล้างภาชนะให้สะอาดก่อนใส่อาหาร",
+            "audio_en_src": "Wash containers thoroughly before putting food in them."
+          },
+          {
+            "thai": "อย่าใช้ภาชนะพลาสติกใส่ของร้อน",
+            "en": "Don't use plastic containers for hot food.",
+            "audio_src": "อย่าใช้ภาชนะพลาสติกใส่ของร้อน",
+            "audio_en_src": "Don't use plastic containers for hot food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1430,6 +1563,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "wax",
+        "sentences": [
+          {
+            "thai": "เทียนแท่งนี้ทำจากขี้ผึ้งแท้",
+            "en": "This candle is made from real beeswax.",
+            "audio_src": "เทียนแท่งนี้ทำจากขี้ผึ้งแท้",
+            "audio_en_src": "This candle is made from real beeswax."
+          },
+          {
+            "thai": "พิพิธภัณฑ์หุ่นขี้ผึ้งมีหุ่นของดาราดังหลายคน",
+            "en": "The wax museum has figures of many famous stars.",
+            "audio_src": "พิพิธภัณฑ์หุ่นขี้ผึ้งมีหุ่นของดาราดังหลายคน",
+            "audio_en_src": "The wax museum has figures of many famous stars."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1470,6 +1622,25 @@
       "Chulalongkorn L4",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "region",
+        "sentences": [
+          {
+            "thai": "อาหารแต่ละภูมิภาคของไทยรสชาติไม่เหมือนกัน",
+            "en": "Food from each region of Thailand tastes different.",
+            "audio_src": "อาหารแต่ละภูมิภาคของไทยรสชาติไม่เหมือนกัน",
+            "audio_en_src": "Food from each region of Thailand tastes different."
+          },
+          {
+            "thai": "ฝนจะตกหนักในหลายภูมิภาคของประเทศ",
+            "en": "Heavy rain is expected in many regions of the country.",
+            "audio_src": "ฝนจะตกหนักในหลายภูมิภาคของประเทศ",
+            "audio_en_src": "Heavy rain is expected in many regions of the country."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1513,6 +1684,25 @@
       "Thai 4000",
       "Thaipod101",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "lantern",
+        "sentences": [
+          {
+            "thai": "เขาแขวนโคมสีแดงไว้หน้าร้าน",
+            "en": "They hung red lanterns in front of the shop.",
+            "audio_src": "เขาแขวนโคมสีแดงไว้หน้าร้าน",
+            "audio_en_src": "They hung red lanterns in front of the shop."
+          },
+          {
+            "thai": "วัดประดับโคมหลากสีช่วงเทศกาล",
+            "en": "The temple is decorated with colorful lanterns during the festival.",
+            "audio_src": "วัดประดับโคมหลากสีช่วงเทศกาล",
+            "audio_en_src": "The temple is decorated with colorful lanterns during the festival."
+          }
+        ]
+      }
     ]
   },
   {

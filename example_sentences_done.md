@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7254 words**
+**Total: 7263 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -14,6 +14,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-008` : เอกชน (private, non-governmental) : 1 meaning(s), 2 sentences
 - `chula-l4-009` : คอย, รอคอย (to wait, await) : 1 meaning(s), 2 sentences
 - `chula-l4-010` : ส่วน (as for; while; part) : 3 meaning(s), 6 sentences
+- `chula-l4-011` : ชรา (old, elderly (formal)) : 1 meaning(s), 2 sentences
 - `chula-l4-012` : ท้องเสีย (diarrhea, upset stomach) : 1 meaning(s), 2 sentences
 - `chula-l4-013` : สุนัข (dog (polite)) : 1 meaning(s), 2 sentences
 - `chula-l4-014` : เป็นแผล (to have a wound) : 1 meaning(s), 2 sentences
@@ -29,24 +30,33 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-027` : สะอึก (hiccup) : 1 meaning(s), 2 sentences
 - `chula-l4-028` : บวม (swollen) : 1 meaning(s), 2 sentences
 - `chula-l4-029` : ช้ำ (bruised) : 1 meaning(s), 2 sentences
+- `chula-l4-030` : อวัยวะ (organ) : 1 meaning(s), 2 sentences
 - `chula-l4-031` : บรรยาย (to describe; to lecture) : 2 meaning(s), 4 sentences
+- `chula-l4-032` : ฉับพลัน (sudden, immediate (formal)) : 1 meaning(s), 2 sentences
 - `chula-l4-033` : ลักษณะ (characteristic) : 1 meaning(s), 2 sentences
 - `chula-l4-034` : ทบทวน (to review (e.g a lesson)) : 1 meaning(s), 2 sentences
 - `chula-l4-035` : เครื่องหมาย (sign, symbol) : 1 meaning(s), 2 sentences
 - `chula-l4-036` : ช่อง (channel; gap, hole; (service) counter, window) : 3 meaning(s), 6 sentences
+- `chula-l4-037` : เพลงชาติ (national anthem) : 1 meaning(s), 2 sentences
 - `chula-l4-038` : หุ่นยนต์ (robot) : 1 meaning(s), 2 sentences
 - `chula-l4-039` : เคารพ (to respect) : 1 meaning(s), 2 sentences
 - `chula-l4-040` : เพลงสรรเสริญพระบารมี (royal anthem) : 1 meaning(s), 2 sentences
 - `chula-l4-041` : พระมหากษัตริย์ (king, monarch (formal)) : 1 meaning(s), 2 sentences
+- `chula-l4-042` : รอบข้าง (around, surrounding) : 1 meaning(s), 2 sentences
+- `chula-l4-044` : หลิ่ว (to squint) : 1 meaning(s), 2 sentences
 - `chula-l4-045` : วัฒนธรรม (culture) : 1 meaning(s), 2 sentences
 - `chula-l4-046` : ประเพณี (tradition) : 1 meaning(s), 2 sentences
 - `chula-l4-047` : เกี่ยวข้องกับ (related to) : 1 meaning(s), 2 sentences
 - `chula-l4-048` : บูชา (to worship) : 1 meaning(s), 2 sentences
 - `chula-l4-049` : เทพเจ้า (deity, god) : 1 meaning(s), 2 sentences
+- `chula-l4-050` : ภาชนะ (container) : 1 meaning(s), 2 sentences
 - `chula-l4-051` : ธูปเทียน (incense and candle) : 1 meaning(s), 2 sentences
 - `chula-l4-052` : วัสดุ (material) : 1 meaning(s), 2 sentences
+- `chula-l4-053` : ขี้ผึ้ง (wax) : 1 meaning(s), 2 sentences
 - `chula-l4-054` : เนื้อคู่ (soulmate) : 1 meaning(s), 2 sentences
+- `chula-l4-055` : ภูมิภาค (region) : 1 meaning(s), 2 sentences
 - `chula-l4-056` : ทะเลสาบ (lake) : 1 meaning(s), 2 sentences
+- `chula-l4-058` : โคม (lantern) : 1 meaning(s), 2 sentences
 - `chula-l4-062` : ปัก (to pin, to stick) : 1 meaning(s), 2 sentences
 - `chula-l4-063` : ดวง (luck, fortune, fate; classifier for stars, suns, lights) : 2 meaning(s), 4 sentences
 - `chula-l4-064` : ดูดวง (to check one's fortune, to have a horoscope reading) : 1 meaning(s), 2 sentences
@@ -2064,7 +2074,6 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-341` : ต่อต้าน (to oppose, to resist, to fight against) : 1 meaning(s), 2 sentences
 - `tsl-344` : ข้อห้าม (ban, prohibition, taboo) : 1 meaning(s), 2 sentences
 - `tsl-345` : เจ็บไข้ได้ป่วย (to fall ill, to get sick (idiomatic)) : 1 meaning(s), 2 sentences
-- `tsl-346` : น้ำมนต์ (holy water (Buddhist)) : 1 meaning(s), 2 sentences
 - `tsl-347` : คาถาอาคม (magic spell, magical incantation) : 1 meaning(s), 2 sentences
 - `tsl-350` : ทันใดนั้น (suddenly, all of a sudden (literary)) : 1 meaning(s), 2 sentences
 - `tsl-353` : จิก (to peck (bird)) : 1 meaning(s), 2 sentences
@@ -7095,7 +7104,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-038` : รั้ง (to hold back, to restrain, to pull back) : 1 meaning(s), 2 sentences
 - `t4k-c11-040` : ต้าน (to resist, to oppose) : 1 meaning(s), 2 sentences
 - `t4k-c11-041` : คลินิก (clinic) : 1 meaning(s), 2 sentences
-- `t4k-c11-044` : ข้อพิพาท (dispute, conflict, disagreement (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c11-044` : ข้อพิพาท (dispute, conflict, point of contention, disagreement (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c11-045` : หัวหน้าพรรค (party leader) : 1 meaning(s), 2 sentences
 - `t4k-c11-051` : โยกย้าย (to relocate, to transfer, to shift from one place to another) : 1 meaning(s), 2 sentences
 - `t4k-c11-054` : ฮอร์โมน (hormone) : 1 meaning(s), 2 sentences
