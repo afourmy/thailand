@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7323 words**
+**Total: 7333 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -214,6 +214,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-066` : คว้า (to grab) : 1 meaning(s), 2 sentences
 - `chula-l5-067` : ดับ (to extinguish, to put out (a fire); to cease, to stop functioning) : 2 meaning(s), 4 sentences
 - `chula-l5-068` : มึนเมา (intoxicated, drunk) : 1 meaning(s), 2 sentences
+- `chula-l5-069` : มอบตัว (to surrender, to turn oneself in) : 1 meaning(s), 2 sentences
 - `chula-l5-070` : ปลาย (end, tip, extremity) : 1 meaning(s), 2 sentences
 - `chula-l5-071` : แหลม (sharp, pointed; peninsula) : 2 meaning(s), 4 sentences
 - `chula-l5-072` : เปื้อน, แปดเปื้อน (stained, soiled) : 1 meaning(s), 2 sentences
@@ -221,11 +222,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-9` : เครื่องพิสูจน์ (method of verification, instrument of proof (formal)) : 1 meaning(s), 2 sentences
 - `chula-l5-074` : เปิดเผย (to reveal, to disclose) : 1 meaning(s), 2 sentences
 - `chula-l5-075` : เคาะ (to knock, to hit lightly) : 1 meaning(s), 2 sentences
+- `chula-l5-076` : คลาน (to crawl) : 1 meaning(s), 2 sentences
+- `chula-l5-077` : เบื้องต้น (initially, preliminary) : 1 meaning(s), 2 sentences
+- `chula-l5-078` : พูดจา (to speak (manner of speaking)) : 1 meaning(s), 2 sentences
+- `chula-l5-079` : วกวน (to go around in circles, to ramble, confusing, convoluted) : 1 meaning(s), 2 sentences
 - `chula-l5-080` : ระบุ (to specify, to identify) : 1 meaning(s), 2 sentences
+- `chula-l5-081` : ตำบล (subdistrict) : 1 meaning(s), 2 sentences
 - `chula-l5-082` : คาง (chin) : 1 meaning(s), 2 sentences
+- `chula-l5-083` : ผู้ก่อเหตุ (perpetrator, culprit) : 1 meaning(s), 2 sentences
+- `chula-l5-085` : คุมตัว (to detain, to take into custody) : 1 meaning(s), 2 sentences
 - `chula-l5-086` : เลื่อน (to postpone, to delay, to shift, to move, to slide) : 1 meaning(s), 2 sentences
 - `chula-l5-087` : สัมภาษณ์ (to interview) : 1 meaning(s), 2 sentences
+- `chula-l5-089` : บันทึกไฟล์ (to save a file) : 1 meaning(s), 2 sentences
 - `chula-l5-090` : ค้าขาย (trade, commerce) : 1 meaning(s), 2 sentences
+- `chula-l5-091` : ขาดทุน (to make a loss, to lose money (in business)) : 1 meaning(s), 2 sentences
 - `chula-l5-093` : อาชญากรรม (crime) : 1 meaning(s), 2 sentences
 - `chula-l5-096` : สอบถาม (to inquire, to ask) : 1 meaning(s), 2 sentences
 - `chula-l5-097` : ศาล (court, tribunal) : 1 meaning(s), 2 sentences
