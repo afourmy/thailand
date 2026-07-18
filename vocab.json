@@ -116253,6 +116253,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sacred object",
+        "sentences": [
+          {
+            "thai": "เขาขอพรจากสิ่งศักดิ์สิทธิ์ให้สอบผ่าน",
+            "en": "He prayed to the sacred powers to pass the exam.",
+            "audio_src": "เขาขอพรจากสิ่งศักดิ์สิทธิ์ให้สอบผ่าน",
+            "audio_en_src": "He prayed to the sacred powers to pass the exam."
+          },
+          {
+            "thai": "ศาลนี้เป็นที่ตั้งของสิ่งศักดิ์สิทธิ์ที่ชาวบ้านนับถือ",
+            "en": "This shrine houses a sacred object the villagers revere.",
+            "audio_src": "ศาลนี้เป็นที่ตั้งของสิ่งศักดิ์สิทธิ์ที่ชาวบ้านนับถือ",
+            "audio_en_src": "This shrine houses a sacred object the villagers revere."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116460,6 +116479,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to be passed down over generations",
+        "sentences": [
+          {
+            "thai": "ประเพณีนี้สืบต่อกันมาหลายร้อยปี",
+            "en": "This tradition has been passed down for hundreds of years.",
+            "audio_src": "ประเพณีนี้สืบต่อกันมาหลายร้อยปี",
+            "audio_en_src": "This tradition has been passed down for hundreds of years."
+          },
+          {
+            "thai": "สูตรน้ำพริกนี้สืบต่อกันมาตั้งแต่รุ่นทวด",
+            "en": "This chili paste recipe has been handed down since my great-grandmother's time.",
+            "audio_src": "สูตรน้ำพริกนี้สืบต่อกันมาตั้งแต่รุ่นทวด",
+            "audio_en_src": "This chili paste recipe has been handed down since my great-grandmother's time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116470,6 +116508,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to stem from, to result from, to be a continuation of",
+        "sentences": [
+          {
+            "thai": "ปัญหานี้สืบเนื่องมาจากความขัดแย้งเก่า",
+            "en": "This problem stems from an old conflict.",
+            "audio_src": "ปัญหานี้สืบเนื่องมาจากความขัดแย้งเก่า",
+            "audio_en_src": "This problem stems from an old conflict."
+          },
+          {
+            "thai": "งานนี้จัดสืบเนื่องจากความสำเร็จปีที่แล้ว",
+            "en": "This event is a continuation of last year's success.",
+            "audio_src": "งานนี้จัดสืบเนื่องจากความสำเร็จปีที่แล้ว",
+            "audio_en_src": "This event is a continuation of last year's success."
+          }
+        ]
+      }
     ]
   },
   {
@@ -116887,6 +116944,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to sway, to shake from side to side",
+        "sentences": [
+          {
+            "thai": "เขาส่ายหัวไม่เห็นด้วย",
+            "en": "He shook his head in disagreement.",
+            "audio_src": "เขาส่ายหัวไม่เห็นด้วย",
+            "audio_en_src": "He shook his head in disagreement."
+          },
+          {
+            "thai": "งูส่ายหัวไปมาตามเสียงปี่",
+            "en": "The snake swayed its head to the sound of the flute.",
+            "audio_src": "งูส่ายหัวไปมาตามเสียงปี่",
+            "audio_en_src": "The snake swayed its head to the sound of the flute."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117185,6 +117261,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "jade",
+        "sentences": [
+          {
+            "thai": "กำไลหยกวงนี้เป็นมรดกจากคุณยาย",
+            "en": "This jade bangle is an heirloom from my grandmother.",
+            "audio_src": "กำไลหยกวงนี้เป็นมรดกจากคุณยาย",
+            "audio_en_src": "This jade bangle is an heirloom from my grandmother."
+          },
+          {
+            "thai": "พระพุทธรูปองค์นี้แกะจากหยกทั้งก้อน",
+            "en": "This Buddha image is carved from a single piece of jade.",
+            "audio_src": "พระพุทธรูปองค์นี้แกะจากหยกทั้งก้อน",
+            "audio_en_src": "This Buddha image is carved from a single piece of jade."
+          }
+        ]
+      }
     ]
   },
   {
@@ -117855,6 +117950,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "marble (stone)",
+        "sentences": [
+          {
+            "thai": "พื้นบ้านปูด้วยหินอ่อนสีขาว",
+            "en": "The floor is laid with white marble.",
+            "audio_src": "พื้นบ้านปูด้วยหินอ่อนสีขาว",
+            "audio_en_src": "The floor is laid with white marble."
+          },
+          {
+            "thai": "วัดนี้สร้างด้วยหินอ่อนจากอิตาลี",
+            "en": "This temple is built with Italian marble.",
+            "audio_src": "วัดนี้สร้างด้วยหินอ่อนจากอิตาลี",
+            "audio_en_src": "This temple is built with Italian marble."
+          }
+        ]
+      }
     ]
   },
   {
@@ -118257,6 +118371,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "remarkably, outstandingly",
+        "sentences": [
+          {
+            "thai": "ปีนี้ยอดขายเติบโตอย่างโดดเด่น",
+            "en": "Sales grew remarkably this year.",
+            "audio_src": "ปีนี้ยอดขายเติบโตอย่างโดดเด่น",
+            "audio_en_src": "Sales grew remarkably this year."
+          },
+          {
+            "thai": "เธอทำผลงานได้อย่างโดดเด่นตั้งแต่ปีแรก",
+            "en": "She has performed outstandingly since her first year.",
+            "audio_src": "เธอทำผลงานได้อย่างโดดเด่นตั้งแต่ปีแรก",
+            "audio_en_src": "She has performed outstandingly since her first year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -118294,6 +118427,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sexual organ, genitals",
+        "sentences": [
+          {
+            "thai": "โชว์อวัยวะเพศในที่สาธารณะผิดกฎหมาย",
+            "en": "Exposing your genitals in public is illegal.",
+            "audio_src": "โชว์อวัยวะเพศในที่สาธารณะผิดกฎหมาย",
+            "audio_en_src": "Exposing your genitals in public is illegal."
+          },
+          {
+            "thai": "แผลอยู่ใกล้อวัยวะเพศ ต้องระวังการติดเชื้อ",
+            "en": "The wound is near the genitals, so watch out for infection.",
+            "audio_src": "แผลอยู่ใกล้อวัยวะเพศ ต้องระวังการติดเชื้อ",
+            "audio_en_src": "The wound is near the genitals, so watch out for infection."
+          }
+        ]
+      }
     ]
   },
   {
@@ -118423,6 +118575,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to make a disclaimer in advance, to start out by saying",
+        "sentences": [
+          {
+            "thai": "เขาออกตัวก่อนว่าไม่ใช่ผู้เชี่ยวชาญ",
+            "en": "He said up front that he's no expert.",
+            "audio_src": "เขาออกตัวก่อนว่าไม่ใช่ผู้เชี่ยวชาญ",
+            "audio_en_src": "He said up front that he's no expert."
+          },
+          {
+            "thai": "ขอออกตัวก่อนนะ ฉันเพิ่งหัดทำเค้ก",
+            "en": "Fair warning, I've only just learned to bake.",
+            "audio_src": "ขอออกตัวก่อนนะ ฉันเพิ่งหัดทำเค้ก",
+            "audio_en_src": "Fair warning, I've only just learned to bake."
+          }
+        ]
+      }
     ]
   },
   {
@@ -118616,6 +118787,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "kingdom",
+        "sentences": [
+          {
+            "thai": "อาณาจักรสุโขทัยรุ่งเรืองเมื่อเจ็ดร้อยปีก่อน",
+            "en": "The Sukhothai kingdom flourished seven hundred years ago.",
+            "audio_src": "อาณาจักรสุโขทัยรุ่งเรืองเมื่อเจ็ดร้อยปีก่อน",
+            "audio_en_src": "The Sukhothai kingdom flourished seven hundred years ago."
+          },
+          {
+            "thai": "ชื่อทางการของไทยคือราชอาณาจักรไทย",
+            "en": "Thailand's official name is the Kingdom of Thailand.",
+            "audio_src": "ชื่อทางการของไทยคือราชอาณาจักรไทย",
+            "audio_en_src": "Thailand's official name is the Kingdom of Thailand."
+          }
+        ]
+      }
     ]
   },
   {

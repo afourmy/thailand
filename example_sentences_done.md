@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8034 words**
+**Total: 8044 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3763,12 +3763,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1017` : สำเร็จโทษ (to execute, to put to death (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1020` : สิ่งก่อสร้าง (structure, built object) : 1 meaning(s), 2 sentences
 - `thaipod-1022` : สิ่งประดิษฐ์ (invention) : 1 meaning(s), 2 sentences
+- `thaipod-1023` : สิ่งศักดิ์สิทธิ์ (sacred object) : 1 meaning(s), 2 sentences
 - `thaipod-1024` : สิ่งเลวร้าย (bad things, evil things) : 1 meaning(s), 2 sentences
 - `thaipod-1025` : สิ้นพระชนม์ (to die, to pass away (royal, religious)) : 1 meaning(s), 2 sentences
 - `thaipod-1027` : สิ้นสุดลง (to come to an end, to stop) : 1 meaning(s), 2 sentences
 - `thaipod-1028` : สีสัน (colorful; (figuratively) liveliness, vibrancy) : 2 meaning(s), 4 sentences
 - `thaipod-1029` : สีเข้ม (dark color) : 1 meaning(s), 2 sentences
 - `thaipod-1030` : สี่เหลี่ยม (square, rectangle) : 1 meaning(s), 2 sentences
+- `thaipod-1031` : สืบต่อกันมา (to be passed down over generations) : 1 meaning(s), 2 sentences
+- `thaipod-1032` : สืบเนื่อง (to stem from, to result from, to be a continuation of) : 1 meaning(s), 2 sentences
 - `thaipod-1033` : สุก (cooked; ripe) : 2 meaning(s), 4 sentences
 - `thaipod-1034` : สุกดิบ (medium-rare, partially cooked) : 1 meaning(s), 2 sentences
 - `thaipod-1035` : สุขภาพ (health) : 1 meaning(s), 2 sentences
@@ -3782,6 +3785,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1045` : ส่งผล (to affect, to have an effect, to impact) : 1 meaning(s), 2 sentences
 - `thaipod-1046` : ส่วนงาน (sector, department, division) : 1 meaning(s), 2 sentences
 - `thaipod-1047` : ส่วนมาก (mostly, for the most part) : 1 meaning(s), 2 sentences
+- `thaipod-1048` : ส่าย (to sway, to shake from side to side) : 1 meaning(s), 2 sentences
 - `thaipod-1050` : หนวด (mustache, whiskers) : 1 meaning(s), 2 sentences
 - `thaipod-1052` : หนุ่ม (young man) : 1 meaning(s), 2 sentences
 - `thaipod-1053` : หนู (rat, mouse; I (used by younger people)) : 2 meaning(s), 4 sentences
@@ -3791,6 +3795,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1057` : หมู่เกาะ (archipelago, group of islands) : 1 meaning(s), 2 sentences
 - `thaipod-1058` : หม่อมเจ้า (Mom Chao (lowest royal rank, descendant of king)) : 1 meaning(s), 2 sentences
 - `thaipod-1059` : หม้ออบ (oven pot, baking pot) : 1 meaning(s), 2 sentences
+- `thaipod-1060` : หยก (jade) : 1 meaning(s), 2 sentences
 - `thaipod-1062` : หยวกกล้วย (banana stalk) : 1 meaning(s), 2 sentences
 - `thaipod-1063` : หยอก, หยอกล้อ (to tease, make fun of, joke around) : 1 meaning(s), 2 sentences
 - `thaipod-1065` : หยิบ (to pick up, to grab) : 1 meaning(s), 2 sentences
@@ -3812,6 +3817,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1085` : หัวเราะ (to laugh) : 1 meaning(s), 2 sentences
 - `thaipod-1087` : หาเลี้ยงชีพ (to make a living, to earn a livelihood) : 1 meaning(s), 2 sentences
 - `thaipod-1088` : หินทราย (sandstone) : 1 meaning(s), 2 sentences
+- `thaipod-1089` : หินอ่อน (marble (stone)) : 1 meaning(s), 2 sentences
 - `thaipod-1091` : ห้องนักบิน (cockpit) : 1 meaning(s), 2 sentences
 - `thaipod-1092` : ห้องบรรทม (bedroom (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1094` : องค์ (classifier for sacred objects, Buddha images, deities, royalty) : 1 meaning(s), 2 sentences
@@ -3825,17 +3831,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1104` : อย่างนี้ (like this, this way) : 1 meaning(s), 2 sentences
 - `thaipod-1107` : อย่างยิ่ง (greatly, extremely) : 1 meaning(s), 2 sentences
 - `thaipod-1111` : อย่างเปิดเผย (openly, transparently) : 1 meaning(s), 2 sentences
+- `thaipod-1113` : อย่างโดดเด่น (remarkably, outstandingly) : 1 meaning(s), 2 sentences
 - `thaipod-1115` : อลวน (tumultuous, chaotic (literary)) : 1 meaning(s), 2 sentences
+- `thaipod-1117` : อวัยวะเพศ (sexual organ, genitals) : 1 meaning(s), 2 sentences
 - `thaipod-1118` : ออกกฎ (to issue a law, to legislate) : 1 meaning(s), 2 sentences
 - `thaipod-1119` : ออกกำลังกาย (to exercise) : 1 meaning(s), 2 sentences
 - `thaipod-1120` : ออกฉาย (released (e.g a film), screened) : 1 meaning(s), 2 sentences
 - `thaipod-1121` : ออกดอก (to bloom, to flower) : 1 meaning(s), 2 sentences
+- `thaipod-1122` : ออกตัว (to make a disclaimer in advance, to start out by saying) : 1 meaning(s), 2 sentences
 - `thaipod-1123` : อะไรกันจ๊ะ ("what's going on?", "what's this?") : 1 meaning(s), 2 sentences
 - `thaipod-1124` : อักษร (letter, character (alphabet)) : 1 meaning(s), 2 sentences
 - `thaipod-1125` : อัญเชิญ (to invite (royal, religious)) : 1 meaning(s), 2 sentences
 - `thaipod-1127` : อันไหน (which one) : 1 meaning(s), 2 sentences
 - `thaipod-1128` : อาคาร (building) : 1 meaning(s), 2 sentences
 - `thaipod-1129` : อาคารประกอบ (auxiliary building) : 1 meaning(s), 2 sentences
+- `thaipod-1130` : อาณาจักร, ราชอาณาจักร (kingdom) : 1 meaning(s), 2 sentences
 - `thaipod-1131` : อาณานิคม (colony) : 1 meaning(s), 2 sentences
 - `thaipod-1132` : อาณาเขต (territory) : 1 meaning(s), 2 sentences
 - `thaipod-1134` : อาย (shy, embarrassed) : 1 meaning(s), 2 sentences
