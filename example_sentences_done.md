@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7293 words**
+**Total: 7303 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -147,26 +147,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-153` : จะตาย (extremely, "...to death" (intensifier)) : 1 meaning(s), 2 sentences
 - `chula-l4-154` : หามรุ่งหามค่ำ (day and night, non-stop, around the clock) : 1 meaning(s), 2 sentences
 - `chula-l4-155` : เต็มบ้านเต็มเมือง (all over the place, everywhere) : 1 meaning(s), 2 sentences
+- `chula-l4-156` : เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม (When in Rome, do as the Romans do (proverb)) : 1 meaning(s), 2 sentences
+- `chula-l5-001` : เจ้าของร่วม (co-owner (real estate, business, etc)) : 1 meaning(s), 2 sentences
+- `chula-l5-002` : ผู้พักอาศัย (resident) : 1 meaning(s), 2 sentences
+- `chula-l5-003` : นิติบุคคล (นิติฯ) (juristic person, legal entity) : 1 meaning(s), 2 sentences
 - `chula-l5-004` : เวลาทำการ (business hours) : 1 meaning(s), 2 sentences
 - `chula-l5-005` : ชำระ (to pay; to cleanse, to wash away) : 2 meaning(s), 4 sentences
 - `chula-l5-006` : ค่าใช้จ่าย (cost, expenses) : 1 meaning(s), 2 sentences
 - `chula-l5-007` : น้ำประปา (tap water) : 1 meaning(s), 2 sentences
 - `chula-l5-008` : ช่องทาง (channel, pathway) : 1 meaning(s), 2 sentences
+- `chula-l5-009` : ค้างชำระ (overdue, unpaid) : 1 meaning(s), 2 sentences
 - `chula-l5-010` : โอน (to transfer) : 1 meaning(s), 2 sentences
 - `chula-l5-011` : ออมทรัพย์ (savings (account)) : 1 meaning(s), 2 sentences
+- `chula-l5-012` : อาคารชุด (condominium) : 1 meaning(s), 2 sentences
 - `chula-l5-014` : พาหะ (carrier (of a disease), vector) : 1 meaning(s), 2 sentences
 - `chula-l5-015` : ความร่วมมือ (cooperation) : 1 meaning(s), 2 sentences
 - `chula-l5-016` : ยาม (security guard; period of time) : 2 meaning(s), 4 sentences
 - `chula-l5-017` : วิกาล (nighttime, late at night) : 1 meaning(s), 2 sentences
 - `chula-l5-018` : ส่วนกลาง (common area, central part) : 1 meaning(s), 2 sentences
+- `chula-l5-019` : ลูกบ้าน (resident (of a managed community)) : 1 meaning(s), 2 sentences
 - `chula-l5-020` : เกรงใจ (considerate, reluctant to impose on others) : 1 meaning(s), 2 sentences
 - `chula-l5-021` : เอาเป็นว่า (in short, "suppose that..." (used to summarize or make an assumption)) : 1 meaning(s), 2 sentences
+- `chula-l5-022` : สำนวน (expression, idiom) : 1 meaning(s), 2 sentences
+- `chula-l5-023` : ประสาน (to coordinate, to connect) : 1 meaning(s), 2 sentences
 - `chula-l5-024` : สื่อ, สื่อสาร (to convey, to communicate) : 1 meaning(s), 2 sentences
 - `chula-l5-025` : เด็ดขาด (decisive, categorical) : 1 meaning(s), 2 sentences
 - `chula-l5-026` : ห้าม, ห้ามไม่ให้ (to forbid, to prohibit) : 1 meaning(s), 2 sentences
 - `chula-l5-027` : โปรด, กรุณา (please) : 1 meaning(s), 2 sentences
 - `chula-l5-028` : งด (to refrain, to abstain from) : 1 meaning(s), 2 sentences
 - `chula-l5-029` : ซ่อมแซม (to repair, to fix) : 1 meaning(s), 2 sentences
+- `chula-l5-030` : พื้นที่สาธารณะ (public space, public area) : 1 meaning(s), 2 sentences
 - `chula-l5-031` : บรรทัด (line, row) : 1 meaning(s), 2 sentences
 - `chula-l5-032` : สะกด (to spell) : 1 meaning(s), 2 sentences
 - `chula-l5-036` : เจ้าหน้าที่ (officer) : 1 meaning(s), 2 sentences

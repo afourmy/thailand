@@ -4450,6 +4450,25 @@
     "sources": [
       "Chulalongkorn L4",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "When in Rome, do as the Romans do (proverb)",
+        "sentences": [
+          {
+            "thai": "ไปอยู่ญี่ปุ่นก็ทำตามเขาเถอะ เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม",
+            "en": "You're living in Japan, just do what they do. When in Rome, do as the Romans do.",
+            "audio_src": "ไปอยู่ญี่ปุ่นก็ทำตามเขาเถอะ เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม",
+            "audio_en_src": "You're living in Japan, just do what they do. When in Rome, do as the Romans do."
+          },
+          {
+            "thai": "ฉันไม่ชอบใส่สูท แต่เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม",
+            "en": "I don't like wearing suits, but when in Rome, do as the Romans do.",
+            "audio_src": "ฉันไม่ชอบใส่สูท แต่เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม",
+            "audio_en_src": "I don't like wearing suits, but when in Rome, do as the Romans do."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4459,6 +4478,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "co-owner (real estate, business, etc)",
+        "sentences": [
+          {
+            "thai": "เขาเป็นเจ้าของร่วมของร้านกาแฟนี้",
+            "en": "He's a co-owner of this coffee shop.",
+            "audio_src": "เขาเป็นเจ้าของร่วมของร้านกาแฟนี้",
+            "audio_en_src": "He's a co-owner of this coffee shop."
+          },
+          {
+            "thai": "คอนโดจะจัดประชุมเจ้าของร่วมเดือนหน้า",
+            "en": "The condo is holding a co-owners' meeting next month.",
+            "audio_src": "คอนโดจะจัดประชุมเจ้าของร่วมเดือนหน้า",
+            "audio_en_src": "The condo is holding a co-owners' meeting next month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4468,6 +4506,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "resident",
+        "sentences": [
+          {
+            "thai": "ขอให้ผู้พักอาศัยทุกท่านทิ้งขยะในจุดที่กำหนด",
+            "en": "All residents, please dispose of trash at the designated spots.",
+            "audio_src": "ขอให้ผู้พักอาศัยทุกท่านทิ้งขยะในจุดที่กำหนด",
+            "audio_en_src": "All residents, please dispose of trash at the designated spots."
+          },
+          {
+            "thai": "ที่จอดรถสำรองไว้สำหรับผู้พักอาศัยเท่านั้น",
+            "en": "Parking is reserved for residents only.",
+            "audio_src": "ที่จอดรถสำรองไว้สำหรับผู้พักอาศัยเท่านั้น",
+            "audio_en_src": "Parking is reserved for residents only."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4477,6 +4534,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "juristic person, legal entity",
+        "sentences": [
+          {
+            "thai": "บริษัทมีสถานะเป็นนิติบุคคลแยกจากเจ้าของ",
+            "en": "A company is a legal entity separate from its owners.",
+            "audio_src": "บริษัทมีสถานะเป็นนิติบุคคลแยกจากเจ้าของ",
+            "audio_en_src": "A company is a legal entity separate from its owners."
+          },
+          {
+            "thai": "ลืมจ่ายค่าส่วนกลาง เดี๋ยวไปจ่ายที่ห้องนิติฯ",
+            "en": "I forgot to pay the maintenance fee, I'll go pay at the juristic office.",
+            "audio_src": "ลืมจ่ายค่าส่วนกลาง เดี๋ยวไปจ่ายที่ห้องนิติฯ",
+            "audio_en_src": "I forgot to pay the maintenance fee, I'll go pay at the juristic office."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4657,6 +4733,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "overdue, unpaid",
+        "sentences": [
+          {
+            "thai": "คุณมีค่าส่วนกลางค้างชำระสองเดือน",
+            "en": "You have two months of unpaid maintenance fees.",
+            "audio_src": "คุณมีค่าส่วนกลางค้างชำระสองเดือน",
+            "audio_en_src": "You have two months of unpaid maintenance fees."
+          },
+          {
+            "thai": "ถ้าค้างชำระเกินกำหนด จะโดนค่าปรับ",
+            "en": "If your payment is overdue past the deadline, you'll be fined.",
+            "audio_src": "ถ้าค้างชำระเกินกำหนด จะโดนค่าปรับ",
+            "audio_en_src": "If your payment is overdue past the deadline, you'll be fined."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4724,6 +4819,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "condominium",
+        "sentences": [
+          {
+            "thai": "เขาซื้อห้องในอาคารชุดใกล้รถไฟฟ้า",
+            "en": "He bought a unit in a condominium near the skytrain.",
+            "audio_src": "เขาซื้อห้องในอาคารชุดใกล้รถไฟฟ้า",
+            "audio_en_src": "He bought a unit in a condominium near the skytrain."
+          },
+          {
+            "thai": "อาคารชุดนี้มีทั้งหมดสามสิบชั้น",
+            "en": "This condominium has thirty floors in total.",
+            "audio_src": "อาคารชุดนี้มีทั้งหมดสามสิบชั้น",
+            "audio_en_src": "This condominium has thirty floors in total."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4901,6 +5015,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "resident (of a managed community)",
+        "sentences": [
+          {
+            "thai": "ผู้จัดการหมู่บ้านนัดประชุมลูกบ้านวันอาทิตย์นี้",
+            "en": "The village manager scheduled a residents' meeting this Sunday.",
+            "audio_src": "ผู้จัดการหมู่บ้านนัดประชุมลูกบ้านวันอาทิตย์นี้",
+            "audio_en_src": "The village manager scheduled a residents' meeting this Sunday."
+          },
+          {
+            "thai": "ลูกบ้านหลายคนบ่นเรื่องที่จอดรถไม่พอ",
+            "en": "A lot of residents complain that there isn't enough parking.",
+            "audio_src": "ลูกบ้านหลายคนบ่นเรื่องที่จอดรถไม่พอ",
+            "audio_en_src": "A lot of residents complain that there isn't enough parking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4973,6 +5106,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "expression, idiom",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมีสำนวนเยอะมาก",
+            "en": "Thai has a lot of idioms.",
+            "audio_src": "ภาษาไทยมีสำนวนเยอะมาก",
+            "audio_en_src": "Thai has a lot of idioms."
+          },
+          {
+            "thai": "สำนวนนี้แปลตรงตัวไม่ได้",
+            "en": "You can't translate this idiom literally.",
+            "audio_src": "สำนวนนี้แปลตรงตัวไม่ได้",
+            "audio_en_src": "You can't translate this idiom literally."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4984,6 +5136,25 @@
       "Chulalongkorn L5",
       "Thai 4000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to coordinate, to connect",
+        "sentences": [
+          {
+            "thai": "ฝ่ายขายต้องประสานงานกับฝ่ายผลิต",
+            "en": "The sales team has to coordinate with the production team.",
+            "audio_src": "ฝ่ายขายต้องประสานงานกับฝ่ายผลิต",
+            "audio_en_src": "The sales team has to coordinate with the production team."
+          },
+          {
+            "thai": "เดี๋ยวผมประสานทีมช่างให้เข้าไปดูพรุ่งนี้",
+            "en": "I'll coordinate with the repair team to come take a look tomorrow.",
+            "audio_src": "เดี๋ยวผมประสานทีมช่างให้เข้าไปดูพรุ่งนี้",
+            "audio_en_src": "I'll coordinate with the repair team to come take a look tomorrow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5182,6 +5353,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "public space, public area",
+        "sentences": [
+          {
+            "thai": "ห้ามสูบบุหรี่ในพื้นที่สาธารณะ",
+            "en": "Smoking is banned in public spaces.",
+            "audio_src": "ห้ามสูบบุหรี่ในพื้นที่สาธารณะ",
+            "audio_en_src": "Smoking is banned in public spaces."
+          },
+          {
+            "thai": "เมืองนี้มีพื้นที่สาธารณะให้คนมาพักผ่อนเยอะ",
+            "en": "This city has a lot of public spaces where people can relax.",
+            "audio_src": "เมืองนี้มีพื้นที่สาธารณะให้คนมาพักผ่อนเยอะ",
+            "audio_en_src": "This city has a lot of public spaces where people can relax."
+          }
+        ]
+      }
     ]
   },
   {
