@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7564 words**
+**Total: 7574 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -857,10 +857,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-284` : แขก (guest) : 1 meaning(s), 2 sentences
 - `chula-l6-285` : วิวาห์ (marriage ceremony, wedding) : 1 meaning(s), 2 sentences
 - `chula-l6-286` : เกียรติ (honor) : 1 meaning(s), 2 sentences
+- `chula-l6-287` : เนื่องใน (on the occasion of, in honor of) : 1 meaning(s), 2 sentences
 - `chula-l6-288` : พิธีมงคลสมรส (auspicious wedding (ceremony)) : 1 meaning(s), 2 sentences
 - `chula-l6-289` : โต๊ะจีน (Chinese-style banquet) : 1 meaning(s), 2 sentences
 - `chula-l6-290` : ธีม (theme) : 1 meaning(s), 2 sentences
 - `chula-l6-291` : ซื่อสัตย์ (faithful, honest, loyal) : 1 meaning(s), 2 sentences
+- `chula-l6-292` : องค์ประกอบ (component, element) : 1 meaning(s), 2 sentences
 - `chula-l6-293` : พิธีสงฆ์ (Buddhist monk ritual, monk ceremony) : 1 meaning(s), 2 sentences
 - `chula-l6-294` : อวยพร (to give a blessing, to wish (something to someone)) : 1 meaning(s), 2 sentences
 - `chula-l6-295` : ขันหมาก (tray of gifts (dowry from the groom to the bride's family)) : 1 meaning(s), 2 sentences
@@ -875,10 +877,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-304` : จีบ (to flirt) : 1 meaning(s), 2 sentences
 - `chula-l6-305` : ฝ่าฟัน (to overcome, to strive, to struggle through (obstacles)) : 1 meaning(s), 2 sentences
 - `chula-l6-306` : เฒ่า (old (person), elderly) : 1 meaning(s), 2 sentences
+- `chula-l6-307` : ชักชวน (to persuade, to encourage someone to do something) : 1 meaning(s), 2 sentences
+- `chula-l6-308` : ช่างพูด (someone who talks a lot, talkative, chatty) : 1 meaning(s), 2 sentences
+- `chula-l6-309` : ความทรงจำ (memory, recollection) : 1 meaning(s), 2 sentences
+- `chula-l6-310` : ป่วน (to disrupt, to cause chaos, turbulent, troublesome) : 1 meaning(s), 2 sentences
 - `chula-l6-311` : ง่ายดาย (very easy, effortless) : 1 meaning(s), 2 sentences
 - `chula-l6-312` : เข้ากรม (to join the army, to enter military service) : 1 meaning(s), 2 sentences
 - `chula-l6-313` : พลเอก - พลโท - ร้อยเอก (general - lieutenant general - captain (military ranks)) : 1 meaning(s), 3 sentences
 - `chula-l6-314` : ว่าการ (to administer, to be in charge, to govern) : 1 meaning(s), 2 sentences
+- `chula-l6-315` : กระทรวงกลาโหม (Ministry of Defense) : 1 meaning(s), 2 sentences
+- `chula-l6-316` : กระเด็น (to bounce off, to be scattered (from impact), to splash (liquid)) : 1 meaning(s), 2 sentences
+- `chula-l6-317` : ลัดวงจร (short-circuit) : 1 meaning(s), 2 sentences
+- `chula-l6-318` : ผู้รับเหมา (contractor) : 1 meaning(s), 2 sentences
 - `chula-l6-319` : สมหวัง (to have one's hopes fulfilled, to get what one wished for) : 1 meaning(s), 2 sentences
 - `chula-l6-320` : แรงบันดาลใจ (inspiration) : 1 meaning(s), 2 sentences
 - `chula-l6-321` : ทายาท (heir) : 1 meaning(s), 2 sentences
