@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8104 words**
+**Total: 8114 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4555,7 +4555,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-013` : สวะ (trash, scum, worthless person) : 1 meaning(s), 2 sentences
 - `yt-c01-014` : ความสม่ำเสมอ (consistency) : 1 meaning(s), 2 sentences
 - `yt-c01-016` : การกระทำ (actions, deeds) : 1 meaning(s), 2 sentences
+- `yt-c01-018` : คนเก็บตัว (introvert, someone who keeps to themselves) : 1 meaning(s), 2 sentences
 - `yt-c01-019` : สัญชาติ (nationality) : 1 meaning(s), 2 sentences
+- `yt-c01-020` : เหมารวม (to generalize, to lump together without distinction) : 1 meaning(s), 2 sentences
 - `yt-c01-021` : เนื้อหุ้มเหล็ก ((idiom) driving a motorbike is very dangerous (literally "flesh wrapping iron")) : 1 meaning(s), 2 sentences
 - `yt-c01-023` : สังสรรค์ (to get together, to socialize) : 1 meaning(s), 2 sentences
 - `yt-c01-024` : มลพิษ, มลภาวะ (pollution) : 1 meaning(s), 2 sentences
@@ -4567,10 +4569,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-029b` : บูด (spoiled, sour, gone bad (usually liquid)) : 1 meaning(s), 2 sentences
 - `yt-c01-030` : หม้อหุงข้าว (rice cooker) : 1 meaning(s), 2 sentences
 - `yt-c01-031` : ลำโพง (speaker (music)) : 1 meaning(s), 2 sentences
+- `yt-c01-033` : ความย่ำแย่ (deterioriation, degrading conditions, worsening state) : 1 meaning(s), 2 sentences
+- `yt-c01-034` : น่าสลดใจ (saddening, heartbreaking) : 1 meaning(s), 2 sentences
 - `yt-c01-035` : พลังใจ (mental strength, willpower) : 1 meaning(s), 2 sentences
+- `yt-c01-036` : เยือน (to visit) : 1 meaning(s), 2 sentences
+- `yt-c01-037` : ต่างด้าวเถื่อน (illegal immigrant) : 1 meaning(s), 2 sentences
 - `yt-c01-038` : กำแพงมีหู ประตูมีตา (wall have ears, doors have eyes) : 1 meaning(s), 2 sentences
+- `yt-c01-039` : กบในกะลา, กบในกะลาครอบ (ignorant, narrow-minded ("frog in a coconut shell")) : 1 meaning(s), 2 sentences
+- `yt-c01-040` : กันไว้ดีกว่าแก้ (better to prevent than to fix) : 1 meaning(s), 2 sentences
 - `yt-c01-041` : สีซอให้ควายฟัง (talking to people who don't care, or cannot understand ("play violin for buffalo")) : 1 meaning(s), 2 sentences
 - `yt-c01-042` : กำขี้ดีกว่ากำตด (something is better than nothing ("grabbing shit is better than grabbing a fart")) : 1 meaning(s), 2 sentences
+- `yt-c01-043` : จับปลาสองมือ (do too many things at once ("catch fish in each hand") (often used for men hitting on many girls at once)) : 1 meaning(s), 2 sentences
+- `yt-c01-044` : แมวไม่อยู่หนูร่าเริง (when the cat is away, mice will play) : 1 meaning(s), 2 sentences
 - `yt-c01-047` : ปิดทองหลังพระ (doing good deeds in secret, without seeking recognition ("put gold behind Buddha statue")) : 1 meaning(s), 2 sentences
 - `yt-c01-048` : คุณค่าของคนอยู่ที่ผลงาน (a person's value lies in their work, their results) : 1 meaning(s), 1 sentences
 - `yt-c01-050` : ความพยายามอยู่ที่ไหน ความสำเร็จอยู่ที่นั้น (where there is effort, there is success) : 1 meaning(s), 1 sentences
