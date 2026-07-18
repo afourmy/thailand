@@ -91339,6 +91339,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "hail",
+        "sentences": [
+          {
+            "thai": "เมื่อวานลูกเห็บตกที่เชียงใหม่",
+            "en": "Yesterday it hailed in Chiang Mai.",
+            "audio_src": "เมื่อวานลูกเห็บตกที่เชียงใหม่",
+            "audio_en_src": "Yesterday it hailed in Chiang Mai."
+          },
+          {
+            "thai": "ลูกเห็บเม็ดใหญ่ทำหลังคาบุบ",
+            "en": "Big hailstones dented the roof.",
+            "audio_src": "ลูกเห็บเม็ดใหญ่ทำหลังคาบุบ",
+            "audio_en_src": "Big hailstones dented the roof."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91467,6 +91486,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to knit and weave",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านถักทอผ้าพื้นเมืองขาย",
+            "en": "The villagers weave traditional cloth to sell.",
+            "audio_src": "ชาวบ้านถักทอผ้าพื้นเมืองขาย",
+            "audio_en_src": "The villagers weave traditional cloth to sell."
+          },
+          {
+            "thai": "เธอใช้เวลาว่างถักทอเสื้อกันหนาว",
+            "en": "She spends her free time knitting sweaters.",
+            "audio_src": "เธอใช้เวลาว่างถักทอเสื้อกันหนาว",
+            "audio_en_src": "She spends her free time knitting sweaters."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91508,6 +91546,25 @@
       "TSL Chiang Mai",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "exquisite, refined, meticulously crafted",
+        "sentences": [
+          {
+            "thai": "งานแกะสลักชิ้นนี้ประณีตมาก",
+            "en": "This carving is exquisitely done.",
+            "audio_src": "งานแกะสลักชิ้นนี้ประณีตมาก",
+            "audio_en_src": "This carving is exquisitely done."
+          },
+          {
+            "thai": "ร้านนี้จัดจานอาหารอย่างประณีต",
+            "en": "This restaurant plates its dishes with great care.",
+            "audio_src": "ร้านนี้จัดจานอาหารอย่างประณีต",
+            "audio_en_src": "This restaurant plates its dishes with great care."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91907,6 +91964,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "healthy, complete, normal, all parts intact (physically, mentally)",
+        "sentences": [
+          {
+            "thai": "ขอแค่ลูกเกิดมาสมประกอบก็พอใจแล้ว",
+            "en": "As long as the baby is born healthy and whole, I'm happy.",
+            "audio_src": "ขอแค่ลูกเกิดมาสมประกอบก็พอใจแล้ว",
+            "audio_en_src": "As long as the baby is born healthy and whole, I'm happy."
+          },
+          {
+            "thai": "เขาโชคดีที่รอดมาแบบร่างกายสมประกอบ",
+            "en": "He was lucky to come out of it with his body intact.",
+            "audio_src": "เขาโชคดีที่รอดมาแบบร่างกายสมประกอบ",
+            "audio_en_src": "He was lucky to come out of it with his body intact."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91916,6 +91992,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "disabled, crippled, not fully normal, mentally unsound",
+        "sentences": [
+          {
+            "thai": "อุบัติเหตุทำให้เขาร่างกายไม่สมประกอบ",
+            "en": "The accident left his body disabled.",
+            "audio_src": "อุบัติเหตุทำให้เขาร่างกายไม่สมประกอบ",
+            "audio_en_src": "The accident left his body disabled."
+          },
+          {
+            "thai": "เขาเกิดมาร่างกายไม่สมประกอบ แต่ไม่เคยยอมแพ้",
+            "en": "He was born with a physical disability, but he never gave up.",
+            "audio_src": "เขาเกิดมาร่างกายไม่สมประกอบ แต่ไม่เคยยอมแพ้",
+            "audio_en_src": "He was born with a physical disability, but he never gave up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92009,6 +92104,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to prohibit, to warn against, to dissuade",
+        "sentences": [
+          {
+            "thai": "พ่อแม่ห้ามปรามเท่าไหร่ก็ไม่ฟัง",
+            "en": "No matter how much his parents tried to stop him, he wouldn't listen.",
+            "audio_src": "พ่อแม่ห้ามปรามเท่าไหร่ก็ไม่ฟัง",
+            "audio_en_src": "No matter how much his parents tried to stop him, he wouldn't listen."
+          },
+          {
+            "thai": "ตำรวจห้ามปรามไม่ให้ทั้งสองฝ่ายตีกัน",
+            "en": "The police stepped in to stop the two sides from fighting.",
+            "audio_src": "ตำรวจห้ามปรามไม่ให้ทั้งสองฝ่ายตีกัน",
+            "audio_en_src": "The police stepped in to stop the two sides from fighting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92135,6 +92249,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to spread, to disperse in the air, scattered",
+        "sentences": [
+          {
+            "thai": "ฝุ่นฟุ้งกระจายไปทั้งห้อง",
+            "en": "Dust flew all over the room.",
+            "audio_src": "ฝุ่นฟุ้งกระจายไปทั้งห้อง",
+            "audio_en_src": "Dust flew all over the room."
+          },
+          {
+            "thai": "กลิ่นกาแฟฟุ้งกระจายทั่วร้าน",
+            "en": "The smell of coffee filled the whole shop.",
+            "audio_src": "กลิ่นกาแฟฟุ้งกระจายทั่วร้าน",
+            "audio_en_src": "The smell of coffee filled the whole shop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92202,6 +92335,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to drip, to pour a small amount, drop by drop",
+        "sentences": [
+          {
+            "thai": "เหยาะน้ำปลานิดหน่อยพอ",
+            "en": "Just add a little dash of fish sauce.",
+            "audio_src": "เหยาะน้ำปลานิดหน่อยพอ",
+            "audio_en_src": "Just add a little dash of fish sauce."
+          },
+          {
+            "thai": "เหยาะพริกไทยก่อนเสิร์ฟ",
+            "en": "Add a dash of pepper before serving.",
+            "audio_src": "เหยาะพริกไทยก่อนเสิร์ฟ",
+            "audio_en_src": "Add a dash of pepper before serving."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92212,6 +92364,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "spotless, radiant, pure, glowing (beauty, skin)",
+        "sentences": [
+          {
+            "thai": "ผิวเธอผุดผ่องขึ้นหลังพักผ่อนเต็มที่",
+            "en": "Her skin is glowing after getting proper rest.",
+            "audio_src": "ผิวเธอผุดผ่องขึ้นหลังพักผ่อนเต็มที่",
+            "audio_en_src": "Her skin is glowing after getting proper rest."
+          },
+          {
+            "thai": "หน้าผุดผ่องแบบนี้ มีข่าวดีหรือเปล่า",
+            "en": "You're glowing, is there good news?",
+            "audio_src": "หน้าผุดผ่องแบบนี้ มีข่าวดีหรือเปล่า",
+            "audio_en_src": "You're glowing, is there good news?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -92340,6 +92511,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "a little over 1 hour",
+        "sentences": [
+          {
+            "thai": "นั่งรถไป 1 ชั่วโมงเศษก็ถึง",
+            "en": "It's a little over an hour's drive.",
+            "audio_src": "นั่งรถไป 1 ชั่วโมงเศษก็ถึง",
+            "audio_en_src": "It's a little over an hour's drive."
+          },
+          {
+            "thai": "ประชุมกินเวลา 1 ชั่วโมงเศษ",
+            "en": "The meeting ran a little over an hour.",
+            "audio_src": "ประชุมกินเวลา 1 ชั่วโมงเศษ",
+            "audio_en_src": "The meeting ran a little over an hour."
+          }
+        ]
+      }
     ]
   },
   {

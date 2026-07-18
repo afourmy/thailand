@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7954 words**
+**Total: 7964 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2939,11 +2939,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-603` : พลศึกษา (physical education (P.E, at school), gymnastics) : 1 meaning(s), 2 sentences
 - `tsl-604` : พืชผล (crops, agricultural produce) : 1 meaning(s), 2 sentences
 - `tsl-605` : กระโชก (to gust (wind blowing in sudden bursts)) : 1 meaning(s), 2 sentences
+- `tsl-606` : ลูกเห็บ (hail) : 1 meaning(s), 2 sentences
 - `tsl-607` : โค่น (to make something large fall (e.g a tree, a government), to topple, to bring down) : 1 meaning(s), 2 sentences
 - `tsl-608` : ปลิว (to blow away, to fly off (wind)) : 1 meaning(s), 2 sentences
 - `tsl-609` : โสม (ginseng) : 1 meaning(s), 2 sentences
 - `tsl-610` : หัตถกรรม (handicraft) : 1 meaning(s), 2 sentences
+- `tsl-611` : ถักทอ (to knit and weave) : 1 meaning(s), 2 sentences
 - `tsl-612` : ว่างเว้น (to take a break from, to abstain, to pause) : 1 meaning(s), 2 sentences
+- `tsl-613` : ประณีต (exquisite, refined, meticulously crafted) : 1 meaning(s), 2 sentences
 - `tsl-615` : พลัด (to be separated; to fall, to slip) : 2 meaning(s), 4 sentences
 - `tsl-616` : เบ็ด (fishing hook) : 1 meaning(s), 2 sentences
 - `tsl-617` : ทดแทน (to compensate, to replace, to repay, to make up for) : 1 meaning(s), 2 sentences
@@ -2956,19 +2959,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-624` : แหว่ง (chipped, dented, missing a piece (broken objects, teeth)) : 1 meaning(s), 2 sentences
 - `tsl-625` : บิ่น (chipped, nicked (small piece broken off from an edge)) : 1 meaning(s), 2 sentences
 - `tsl-626` : สำลัก (to choke on food (from swallowing wrong)) : 1 meaning(s), 2 sentences
+- `tsl-627` : สมประกอบ (healthy, complete, normal, all parts intact (physically, mentally)) : 1 meaning(s), 2 sentences
+- `new-36` : ไม่สมประกอบ (disabled, crippled, not fully normal, mentally unsound) : 1 meaning(s), 2 sentences
 - `tsl-628` : ความจัญไร (wickedness, vileness (very rude)) : 1 meaning(s), 2 sentences
 - `tsl-629` : เจ้าแม่โพสพ (Mae Phosop, the rice goddess (Thai mythology)) : 1 meaning(s), 2 sentences
 - `tsl-630` : ธัญญาหาร (grain, cereal (formal)) : 1 meaning(s), 2 sentences
+- `tsl-631` : ห้ามปราม (to prohibit, to warn against, to dissuade) : 1 meaning(s), 2 sentences
 - `tsl-634` : ปลาดุก (catfish) : 1 meaning(s), 2 sentences
 - `tsl-635` : เกื้อกูล (to support, to help out, to be mutually beneficial) : 1 meaning(s), 2 sentences
 - `tsl-636` : ชมเชย (to praise, to compliment) : 1 meaning(s), 2 sentences
 - `tsl-637` : คลาคล่ำ (crowded, packed with people (formal, literary)) : 1 meaning(s), 2 sentences
+- `tsl-638` : ฟุ้งกระจาย (to spread, to disperse in the air, scattered) : 1 meaning(s), 2 sentences
 - `tsl-639` : คูคลอง (canals, waterways) : 1 meaning(s), 2 sentences
 - `tsl-640` : โลหิตจาง, โรคโลหิตจาง (anemia) : 1 meaning(s), 2 sentences
+- `tsl-641` : เหยาะ (to drip, to pour a small amount, drop by drop) : 1 meaning(s), 2 sentences
+- `tsl-642` : ผุดผ่อง (spotless, radiant, pure, glowing (beauty, skin)) : 1 meaning(s), 2 sentences
 - `tsl-644` : ค้นคว้า (to research, to study, to investigate) : 1 meaning(s), 2 sentences
 - `tsl-645` : สร้างเสริม (to build up, to strengthen, to enhance) : 1 meaning(s), 2 sentences
 - `tsl-646` : อิริยาบถ (posture, bodily position, the 4 Buddhist postures (formal)) : 1 meaning(s), 2 sentences
 - `tsl-647` : โรคภัย, โรคภัยไข้เจ็บ (illness, disease (general term)) : 1 meaning(s), 2 sentences
+- `thaipod-0001` : 1 ชั่วโมงเศษ (a little over 1 hour) : 1 meaning(s), 2 sentences
 - `thaipod-0002` : 18 มงกุฎ ((idiom) to act as a con artist) : 1 meaning(s), 2 sentences
 - `thaipod-0003` : กฎมีไว้ให้ฝ่าฝืน ("rules are made to be broken") : 1 meaning(s), 2 sentences
 - `thaipod-0004` : กฎหมาย (law) : 1 meaning(s), 2 sentences
