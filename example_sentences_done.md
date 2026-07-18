@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7994 words**
+**Total: 8004 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3244,8 +3244,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0356` : ตัดกับ (to contrast with, to clash with) : 1 meaning(s), 2 sentences
 - `thaipod-0359` : ตัวละคร (character, persona (in a story)) : 1 meaning(s), 2 sentences
 - `thaipod-0360` : ตัวแทน (representative, agent, substitute) : 1 meaning(s), 2 sentences
+- `thaipod-0361` : ตัวแสดง (character (in a story)) : 1 meaning(s), 2 sentences
 - `thaipod-0362` : ตัวแสดงแทน (stunt double, substitute actor) : 1 meaning(s), 2 sentences
 - `thaipod-0363` : โคร่ง (oversized, loose-fitting, roomy) : 1 meaning(s), 2 sentences
+- `thaipod-0364` : ตั้งฉาก (perpendicular, at right angles) : 1 meaning(s), 2 sentences
 - `thaipod-0365` : ตั้งอยู่ (located, situated) : 1 meaning(s), 2 sentences
 - `thaipod-0366` : ตากอากาศ (to vacation, to have a holiday (especially by the sea)) : 1 meaning(s), 2 sentences
 - `thaipod-0367` : ตาม (to follow; along) : 2 meaning(s), 4 sentences
@@ -3268,6 +3270,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0389` : ต้นข้าว (rice plant) : 1 meaning(s), 2 sentences
 - `thaipod-0391` : ต้นแบบ (model, prototype) : 1 meaning(s), 2 sentences
 - `thaipod-0392` : ถวาย (to offer (royal, religious)) : 1 meaning(s), 2 sentences
+- `thaipod-0393` : ถอดถอน (to remove (from a position), to revoke, to overthrow) : 1 meaning(s), 2 sentences
 - `thaipod-0394` : ถิ่น (region, habitat, native place) : 1 meaning(s), 2 sentences
 - `thaipod-0396` : ถึงแก่, ถึงแก่กรรม (to pass away (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0398` : แม้ว่า, ถึงแม้ว่า (although, even though) : 1 meaning(s), 2 sentences
@@ -3286,6 +3289,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0420` : ทักษิณาวัติ (circumambulating clockwise around a sacred site (Buddhist practice)) : 1 meaning(s), 2 sentences
 - `thaipod-0422` : ทัน (in time, to catch up) : 1 meaning(s), 2 sentences
 - `thaipod-0423` : ทัพ, กองทัพ (army, troops) : 1 meaning(s), 2 sentences
+- `thaipod-0425` : ทัศนียภาพ (scenery, landscape view (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0426` : ทั่วโลก (worldwide, around the world) : 1 meaning(s), 2 sentences
 - `thaipod-0427` : ทั่วไป, โดยทั่วไป (generally, in general) : 1 meaning(s), 2 sentences
 - `thaipod-0430` : ทั้งสิ้น (all, in total, altogether) : 1 meaning(s), 2 sentences
@@ -3296,6 +3300,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0437` : ทางบก (by land, on land) : 1 meaning(s), 2 sentences
 - `thaipod-0438` : ทางบ้าน (family matters, from home; (TV) the audience at home) : 2 meaning(s), 4 sentences
 - `thaipod-0439` : ทางราชไมตรี (diplomatic relations (formal)) : 1 meaning(s), 2 sentences
+- `thaipod-0441` : ทาส (slave) : 1 meaning(s), 2 sentences
 - `thaipod-0442` : ทำนา (to farm rice) : 1 meaning(s), 2 sentences
 - `thaipod-0443` : ทำบุญ (to make merit, to do good deeds (Buddhist)) : 1 meaning(s), 2 sentences
 - `thaipod-0445` : ทิวมะพร้าว (row of coconut trees) : 1 meaning(s), 2 sentences
@@ -3306,6 +3311,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0453` : ที่ระลึก (souvenir, keepsake) : 1 meaning(s), 2 sentences
 - `thaipod-0454` : ที่รัก (beloved, darling) : 1 meaning(s), 2 sentences
 - `thaipod-0456` : ที่ว่า (that (which was mentioned), that (which is being talked about)) : 1 meaning(s), 2 sentences
+- `thaipod-0457` : ที่ใด (where (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0458` : ทุกชนิด (all kinds, every type) : 1 meaning(s), 2 sentences
 - `thaipod-0459` : ทุกวันนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
 - `thaipod-0460` : ทุนสร้าง (construction cost, production budget (e.g of a film)) : 1 meaning(s), 2 sentences
@@ -3345,12 +3351,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0500` : น่าดึงดูด (attractive, appealing) : 1 meaning(s), 2 sentences
 - `thaipod-0501` : น่าตื่นตะลึง (astonishing, breathtaking) : 1 meaning(s), 2 sentences
 - `thaipod-0502` : น่าตื่นตาตื่นใจ (amazing, fascinating) : 1 meaning(s), 2 sentences
+- `thaipod-0503` : น่ารับประทาน (appetizing, looks delicious) : 1 meaning(s), 2 sentences
 - `thaipod-0505` : น้ำตก (waterfall) : 1 meaning(s), 2 sentences
 - `thaipod-0506` : น้ำอัดลม (soda, soft drink) : 1 meaning(s), 2 sentences
 - `thaipod-0508` : บทบาท (role (in a play, story, society)) : 1 meaning(s), 2 sentences
 - `thaipod-0509` : บทประพันธ์ (literary work, opus, script) : 1 meaning(s), 2 sentences
 - `thaipod-0510` : บทภาพยนตร์ (screenplay) : 1 meaning(s), 2 sentences
 - `thaipod-0511` : บรมราชาภิเษก (royal coronation) : 1 meaning(s), 2 sentences
+- `thaipod-0512` : บรรจบ (to converge, to intersect, to meet) : 1 meaning(s), 2 sentences
 - `thaipod-0514` : บรรดา (all, the group of (followed by a noun)) : 1 meaning(s), 2 sentences
 - `thaipod-0516` : บรรพบุรุษ (ancestors) : 1 meaning(s), 2 sentences
 - `thaipod-0517` : บรรเลงดนตรี (to play music (formal)) : 1 meaning(s), 2 sentences
@@ -3358,11 +3366,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0519` : บังคับ (to force, to compel, mandatory) : 1 meaning(s), 2 sentences
 - `thaipod-0521` : บั้งไฟ (traditional homemade rocket (traditional Thai gunpowder rocket, especially in Isan festivals)) : 1 meaning(s), 2 sentences
 - `thaipod-0522` : บางชนิด (some kinds, certain types) : 1 meaning(s), 2 sentences
+- `thaipod-0523` : บารมี (accumulated virtue, charisma, spiritual power, influence, prestige) : 1 meaning(s), 2 sentences
 - `thaipod-0524` : บำเพ็ญ (to practice (good deeds), to perform (religious acts)) : 1 meaning(s), 2 sentences
 - `thaipod-0525` : บุกรุก (to invade, to trespass) : 1 meaning(s), 2 sentences
 - `thaipod-0526` : บุคคล (person, individual) : 1 meaning(s), 2 sentences
 - `thaipod-0527` : บุญ (merit, good karma) : 1 meaning(s), 2 sentences
 - `thaipod-0528` : บุญญา (merit, virtue, good deeds) : 1 meaning(s), 2 sentences
+- `thaipod-0530` : บูรณะ (to restore, to renovate, to repair) : 1 meaning(s), 2 sentences
 - `thaipod-0531` : บ่น (to complain, to grumble) : 1 meaning(s), 2 sentences
 - `thaipod-0532` : บ้านพัก (residence, vacation house) : 1 meaning(s), 2 sentences
 - `thaipod-0533` : บ้านเมือง (country, nation, the state) : 1 meaning(s), 2 sentences
