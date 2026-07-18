@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7543 words**
+**Total: 7544 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -867,6 +867,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-324` : เครื่องเคียง (side dish) : 1 meaning(s), 2 sentences
 - `chula-l6-325` : เฮฮา (fun, cheerful, lively) : 1 meaning(s), 2 sentences
 - `chula-l6-326` : กลากเกลื้อน (fungal skin infections (ringworm and tinea)) : 1 meaning(s), 2 sentences
+- `new-29` : หูด (wart (HPV)) : 1 meaning(s), 2 sentences
 - `chula-l6-328` : มโน (delusional, someone who makes stuff up in their head, "delulu" (slang)) : 1 meaning(s), 2 sentences
 - `chula-l6-329` : ข่มขืน (to rape) : 1 meaning(s), 2 sentences
 - `chula-l6-330` : สวยให้อภัย (beautiful enough to be forgiven) : 1 meaning(s), 2 sentences

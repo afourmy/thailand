@@ -27143,7 +27143,25 @@
     "sources": [
       "Chulalongkorn L6"
     ],
-    "examples": []
+    "examples": [
+      {
+        "meaning": "wart (HPV)",
+        "sentences": [
+          {
+            "thai": "เขามีหูดขึ้นที่นิ้วมือ",
+            "en": "He has a wart on his finger.",
+            "audio_src": "เขามีหูดขึ้นที่นิ้วมือ",
+            "audio_en_src": "He has a wart on his finger."
+          },
+          {
+            "thai": "ไปหาหมอเพื่อจี้หูดออก",
+            "en": "I went to the doctor to get the wart removed.",
+            "audio_src": "ไปหาหมอเพื่อจี้หูดออก",
+            "audio_en_src": "I went to the doctor to get the wart removed."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "chula-l6-327",
