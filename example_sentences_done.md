@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8294 words**
+**Total: 8304 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5033,7 +5033,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-046` : ของเซ่นไหว้ (offerings (e.g food, red fanta, flowers, incense, etc)) : 1 meaning(s), 2 sentences
 - `yt-c06-047` : สัมภเวสี (wandering ghost (ghost that does not have a home)) : 1 meaning(s), 2 sentences
 - `yt-c06-048` : ผีปอบ (flesh-eating ghost (kinda like a vampire)) : 1 meaning(s), 2 sentences
+- `yt-c06-050` : สายรัดเอว (waistband, waist strap) : 1 meaning(s), 2 sentences
 - `yt-c06-051` : ตะกรุด (tubular scroll with sacred inscription) : 1 meaning(s), 2 sentences
+- `yt-c06-052` : สายสิญจน์ (sacred thread tied around the wrist used in Thai Buddhist ceremonies) : 1 meaning(s), 2 sentences
 - `yt-c06-053` : ตารางสีเสื้อมงคล (auspicious shirt color chart (one color per day of the week for clothes)) : 1 meaning(s), 2 sentences
 - `yt-c06-054` : ปุ๋ย (fertilizer) : 1 meaning(s), 2 sentences
 - `yt-c06-055` : นั่งซ้อนท้าย (to ride as a passenger on the back of a motorbike) : 1 meaning(s), 2 sentences
@@ -5041,14 +5043,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-057` : รถเก๋ง (sedan (standard passenger car)) : 1 meaning(s), 2 sentences
 - `yt-c06-058` : ข้าวหลาม (bamboo sticky rice) : 1 meaning(s), 2 sentences
 - `yt-c06-059` : ปลาเผา (grilled fish) : 1 meaning(s), 2 sentences
+- `yt-c06-060` : คอกหมา (dog pen, dog kennel (enclosure or shelter for dogs, like a doghouse)) : 1 meaning(s), 2 sentences
+- `yt-c06-061` : ปลอกหมอน (pillowcase) : 1 meaning(s), 2 sentences
 - `yt-c06-062` : สายจูง (leash (e.g for dogs)) : 1 meaning(s), 2 sentences
 - `yt-c06-064` : ฟุตบาท (sidewalk, pavement) : 1 meaning(s), 2 sentences
 - `yt-c06-065` : ฤดูผสมพันธุ์ (mating season) : 1 meaning(s), 2 sentences
 - `yt-c06-066` : กระดิก (to wiggle, to twitch, to move slightly back and forth) : 1 meaning(s), 2 sentences
 - `yt-c06-067` : กรมปศุสัตว์ (Department of Livestock Development) : 1 meaning(s), 2 sentences
 - `yt-c06-068` : จรจัด (stray (of animals, e.g stray dogs)) : 1 meaning(s), 2 sentences
+- `yt-c06-069` : บิณฑบาต (to go on alms round, act of collecting alms (when monks go look for food offerings)) : 1 meaning(s), 2 sentences
 - `yt-c06-070` : ใส่บาตร (to give alms (offer food) to monks) : 1 meaning(s), 2 sentences
+- `yt-c06-071` : โรคพิษสุนัขบ้า (rabies) : 1 meaning(s), 2 sentences
 - `yt-c06-072` : การศึกษาตามอัธยาศัย (informal education, informal learning) : 1 meaning(s), 2 sentences
+- `yt-c06-073` : สายศิลป์ (art track in high school) : 1 meaning(s), 2 sentences
+- `yt-c06-074` : สายวิทย์ (science track in high school) : 1 meaning(s), 2 sentences
+- `yt-c06-075` : สายอาชีพ (vocational track in high school, vocational school) : 1 meaning(s), 2 sentences
 - `yt-c06-076` : ปวช, ประกาศนียบัตรวิชาชีพ (vocational certificate (first step of vocational education)) : 1 meaning(s), 2 sentences
 - `yt-c06-077` : ปริญญาโท (master degree (in Thai university)) : 1 meaning(s), 2 sentences
 - `yt-c06-078` : ศูนย์อาหาร (food court) : 1 meaning(s), 2 sentences
@@ -5060,6 +5069,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-084` : ตอบโจทย์ (to meet the requirement, to "answer the question") : 1 meaning(s), 2 sentences
 - `yt-c06-085` : แบตเสื่อม (the battery is worn out, dead (e.g phone, computer)) : 1 meaning(s), 2 sentences
 - `yt-c06-086` : หน่อไม้ (bamboo shoot (young sprouts growing from the base of bamboo plants)) : 1 meaning(s), 2 sentences
+- `yt-c06-087` : พื้นที่ราบลุ่ม (lowland area (prone to flooding)) : 1 meaning(s), 2 sentences
 - `yt-c06-088` : แห้งแล้ง (arid, very dry) : 1 meaning(s), 2 sentences
 - `yt-c06-090` : สายพันธุ์ (species, breed, strain) : 1 meaning(s), 2 sentences
 - `yt-c06-091` : น้ำจืด (fresh water (from rivers, lake, so not salty)) : 1 meaning(s), 2 sentences
