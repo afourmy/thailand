@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8074 words**
+**Total: 8084 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4234,6 +4234,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-170` : จักรยาน (bicycle) : 1 meaning(s), 2 sentences
 - `tobo-171` : หมู (pig; pork) : 2 meaning(s), 4 sentences
 - `tobo-172` : ชิม (to taste, to sample) : 1 meaning(s), 2 sentences
+- `tobo-173` : อมยิ้ม (lollipop) : 1 meaning(s), 2 sentences
 - `tobo-174` : กระต่าย (rabbit) : 1 meaning(s), 2 sentences
 - `tobo-175` : นักบวช (ordained person, monastic person, monk) : 1 meaning(s), 2 sentences
 - `tobo-176` : ร่ม (umbrella) : 1 meaning(s), 2 sentences
@@ -4241,12 +4242,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-178` : ของเล่น (toy) : 1 meaning(s), 2 sentences
 - `tobo-179` : ทางเท้า, ทางเดินเท้า (sidewalk, footpath) : 1 meaning(s), 2 sentences
 - `tobo-180` : หมอน (pillow) : 1 meaning(s), 2 sentences
+- `tobo-181` : นักสืบ (detective) : 1 meaning(s), 2 sentences
 - `tobo-182` : หอยทาก (snail) : 1 meaning(s), 2 sentences
 - `tobo-183` : ของหวาน (dessert, sweets) : 1 meaning(s), 2 sentences
 - `tobo-184` : คุณภาพ (quality) : 1 meaning(s), 2 sentences
 - `tobo-185` : ดึง (to pull) : 1 meaning(s), 2 sentences
+- `tobo-186` : นักล่า (hunter) : 1 meaning(s), 2 sentences
 - `tobo-187` : ความสำเร็จ (success) : 1 meaning(s), 2 sentences
 - `tobo-189` : มะพร้าว (coconut) : 1 meaning(s), 2 sentences
+- `tobo-190` : นกยูง (peacock) : 1 meaning(s), 2 sentences
 - `tobo-191` : ผลลัพธ์ (result, outcome) : 1 meaning(s), 2 sentences
 - `tobo-192` : พนักงาน (employee, staff) : 1 meaning(s), 2 sentences
 - `tobo-193` : นิ้วเท้า (toe) : 1 meaning(s), 2 sentences
@@ -4263,6 +4267,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-206` : สีชมพู (pink) : 1 meaning(s), 2 sentences
 - `tobo-208` : เลีย (to lick) : 1 meaning(s), 2 sentences
 - `tobo-209` : ปาฏิหาริย์ (miracle) : 1 meaning(s), 2 sentences
+- `tobo-210` : ข้อได้เปรียบ (advantage, benefit) : 1 meaning(s), 2 sentences
 - `tobo-211` : สี่เหลี่ยมผืนผ้า (rectangle) : 1 meaning(s), 2 sentences
 - `tobo-212` : คุก (prison, jail) : 1 meaning(s), 2 sentences
 - `tobo-213` : ผู้นำ (leader) : 1 meaning(s), 2 sentences
@@ -4302,6 +4307,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-253` : เอาชนะ (to overcome, to defeat) : 1 meaning(s), 2 sentences
 - `tobo-254` : พื้นหลัง (background (image, context)) : 1 meaning(s), 2 sentences
 - `tobo-255` : จุดสูงสุด (peak, summit, highest point) : 1 meaning(s), 2 sentences
+- `tobo-256` : การเชื่อมต่อ (connection) : 1 meaning(s), 2 sentences
 - `tobo-257` : ดูดฝุ่น (to vacuum clean) : 1 meaning(s), 2 sentences
 - `tobo-258` : ปฏิกิริยา (reaction) : 1 meaning(s), 2 sentences
 - `tobo-259` : แหล่งที่มา (source, origin) : 1 meaning(s), 2 sentences
@@ -4317,6 +4323,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-269` : เรือดำน้ำ (submarine) : 1 meaning(s), 2 sentences
 - `tobo-270` : คอลเลกชัน (collection) : 1 meaning(s), 2 sentences
 - `tobo-271` : อำนาจ (power, authority) : 1 meaning(s), 2 sentences
+- `tobo-272` : ฆาตกร (murderer) : 1 meaning(s), 2 sentences
 - `tobo-273` : สะดือ (belly button, navel) : 1 meaning(s), 2 sentences
 - `tobo-274` : กรง (cage) : 1 meaning(s), 2 sentences
 - `tobo-275` : กรน (to snore) : 1 meaning(s), 2 sentences
@@ -4327,10 +4334,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-280` : ควัน (smoke) : 1 meaning(s), 2 sentences
 - `tobo-282` : ความหลง, ความหลงใหล (passion, infatuation) : 1 meaning(s), 2 sentences
 - `tobo-283` : กิจกรรม (activity) : 1 meaning(s), 2 sentences
+- `tobo-284` : รังผึ้ง (beehive, honeycomb) : 1 meaning(s), 2 sentences
 - `tobo-285` : เพื่อนร่วมทาง (companion, traveling companion) : 1 meaning(s), 2 sentences
+- `tobo-286` : ตัวต่อ (wasp) : 1 meaning(s), 2 sentences
 - `tobo-288` : ชาวพุทธ (Buddhist person) : 1 meaning(s), 2 sentences
 - `tobo-289` : ภาคส่วน (sector, division) : 1 meaning(s), 2 sentences
 - `tobo-290` : บท (chapter, section) : 1 meaning(s), 2 sentences
+- `tobo-291` : คนขายดอกไม้ (florist) : 1 meaning(s), 2 sentences
 - `tobo-292` : ลำคอ (throat) : 1 meaning(s), 2 sentences
 - `tobo-293` : เข้ากันได้ (to get along with, to be compatible) : 1 meaning(s), 2 sentences
 - `tobo-294` : อ่างล้างหน้า (bathroom sink) : 1 meaning(s), 2 sentences
