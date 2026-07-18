@@ -18052,6 +18052,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "within the deadline, by the due date",
+        "sentences": [
+          {
+            "thai": "กรุณาส่งงานภายในกำหนดส่ง",
+            "en": "Please turn in your work by the due date.",
+            "audio_src": "กรุณาส่งงานภายในกำหนดส่ง",
+            "audio_en_src": "Please turn in your work by the due date."
+          },
+          {
+            "thai": "ถ้าส่งไม่ทันภายในกำหนดส่ง จะถูกหักคะแนน",
+            "en": "If you don't submit within the deadline, points will be deducted.",
+            "audio_src": "ถ้าส่งไม่ทันภายในกำหนดส่ง จะถูกหักคะแนน",
+            "audio_en_src": "If you don't submit within the deadline, points will be deducted."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18129,6 +18148,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "brief biography, résumé",
+        "sentences": [
+          {
+            "thai": "แนบประวัติย่อมากับใบสมัครด้วย",
+            "en": "Attach your résumé to the application.",
+            "audio_src": "แนบประวัติย่อมากับใบสมัครด้วย",
+            "audio_en_src": "Attach your résumé to the application."
+          },
+          {
+            "thai": "ประวัติย่อไม่ควรยาวเกินสองหน้า",
+            "en": "A résumé shouldn't be longer than two pages.",
+            "audio_src": "ประวัติย่อไม่ควรยาวเกินสองหน้า",
+            "audio_en_src": "A résumé shouldn't be longer than two pages."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18138,6 +18176,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "plot summary, synopsis",
+        "sentences": [
+          {
+            "thai": "อ่านเนื้อเรื่องย่อก่อนตัดสินใจดูหนัง",
+            "en": "Read the synopsis before deciding to watch the movie.",
+            "audio_src": "อ่านเนื้อเรื่องย่อก่อนตัดสินใจดูหนัง",
+            "audio_en_src": "Read the synopsis before deciding to watch the movie."
+          },
+          {
+            "thai": "ครูให้เขียนเนื้อเรื่องย่อของนิยายที่อ่าน",
+            "en": "The teacher had us write a summary of the novel we read.",
+            "audio_src": "ครูให้เขียนเนื้อเรื่องย่อของนิยายที่อ่าน",
+            "audio_en_src": "The teacher had us write a summary of the novel we read."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18207,6 +18264,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "enthusiasm, zeal",
+        "sentences": [
+          {
+            "thai": "เขาทำงานด้วยความกระตือรือร้นเสมอ",
+            "en": "He always works with enthusiasm.",
+            "audio_src": "เขาทำงานด้วยความกระตือรือร้นเสมอ",
+            "audio_en_src": "He always works with enthusiasm."
+          },
+          {
+            "thai": "บริษัทชอบคนที่มีความกระตือรือร้นในการเรียนรู้",
+            "en": "The company likes people who are eager to learn.",
+            "audio_src": "บริษัทชอบคนที่มีความกระตือรือร้นในการเรียนรู้",
+            "audio_en_src": "The company likes people who are eager to learn."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18245,6 +18321,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to perform work, to carry out one's duties (formal, written)",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่ปฏิบัติงานตลอด 24 ชั่วโมง",
+            "en": "Staff are on duty around the clock.",
+            "audio_src": "เจ้าหน้าที่ปฏิบัติงานตลอด 24 ชั่วโมง",
+            "audio_en_src": "Staff are on duty around the clock."
+          },
+          {
+            "thai": "ห้ามดื่มสุราขณะปฏิบัติงาน",
+            "en": "Drinking alcohol while on duty is prohibited.",
+            "audio_src": "ห้ามดื่มสุราขณะปฏิบัติงาน",
+            "audio_en_src": "Drinking alcohol while on duty is prohibited."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18343,6 +18438,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to patrol, to roam around, to travel around, to wander",
+        "sentences": [
+          {
+            "thai": "ตำรวจตระเวนตรวจพื้นที่ตอนกลางคืน",
+            "en": "The police patrol the area at night.",
+            "audio_src": "ตำรวจตระเวนตรวจพื้นที่ตอนกลางคืน",
+            "audio_en_src": "The police patrol the area at night."
+          },
+          {
+            "thai": "เราตระเวนกินของอร่อยทั่วเยาวราช",
+            "en": "We went around Yaowarat trying all the good food.",
+            "audio_src": "เราตระเวนกินของอร่อยทั่วเยาวราช",
+            "audio_en_src": "We went around Yaowarat trying all the good food."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18451,6 +18565,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to make a living",
+        "sentences": [
+          {
+            "thai": "เขาย้ายมาทำมาหากินในเมืองหลวง",
+            "en": "He moved to the capital to make a living.",
+            "audio_src": "เขาย้ายมาทำมาหากินในเมืองหลวง",
+            "audio_en_src": "He moved to the capital to make a living."
+          },
+          {
+            "thai": "แถวนี้ชาวบ้านทำมาหากินด้วยการประมง",
+            "en": "People around here make their living from fishing.",
+            "audio_src": "แถวนี้ชาวบ้านทำมาหากินด้วยการประมง",
+            "audio_en_src": "People around here make their living from fishing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18494,6 +18627,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to have a passion for something",
+        "sentences": [
+          {
+            "thai": "เขามีใจรักในการทำอาหารตั้งแต่เด็ก",
+            "en": "She's had a passion for cooking since she was a kid.",
+            "audio_src": "เขามีใจรักในการทำอาหารตั้งแต่เด็ก",
+            "audio_en_src": "She's had a passion for cooking since she was a kid."
+          },
+          {
+            "thai": "งานนี้เหมาะกับคนที่มีใจรักในการบริการ",
+            "en": "This job suits people with a passion for service.",
+            "audio_src": "งานนี้เหมาะกับคนที่มีใจรักในการบริการ",
+            "audio_en_src": "This job suits people with a passion for service."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18503,6 +18655,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "easygoing, low-maintenance, adaptable in daily life (literally \"eat easily, live easily\")",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนกินง่ายอยู่ง่าย ไปเที่ยวด้วยสบาย",
+            "en": "He's easygoing, traveling with him is easy.",
+            "audio_src": "เขาเป็นคนกินง่ายอยู่ง่าย ไปเที่ยวด้วยสบาย",
+            "audio_en_src": "He's easygoing, traveling with him is easy."
+          },
+          {
+            "thai": "ฉันกินง่ายอยู่ง่าย อะไรก็ได้",
+            "en": "I'm easy, anything works for me.",
+            "audio_src": "ฉันกินง่ายอยู่ง่าย อะไรก็ได้",
+            "audio_en_src": "I'm easy, anything works for me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -18513,6 +18684,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "abstract",
+        "sentences": [
+          {
+            "thai": "ความสุขเป็นสิ่งที่เป็นนามธรรม จับต้องไม่ได้",
+            "en": "Happiness is abstract, you can't touch it.",
+            "audio_src": "ความสุขเป็นสิ่งที่เป็นนามธรรม จับต้องไม่ได้",
+            "audio_en_src": "Happiness is abstract, you can't touch it."
+          },
+          {
+            "thai": "เขาอธิบายเรื่องนามธรรมให้เข้าใจง่าย",
+            "en": "He explains abstract ideas in a way that's easy to understand.",
+            "audio_src": "เขาอธิบายเรื่องนามธรรมให้เข้าใจง่าย",
+            "audio_en_src": "He explains abstract ideas in a way that's easy to understand."
+          }
+        ]
+      }
     ]
   },
   {

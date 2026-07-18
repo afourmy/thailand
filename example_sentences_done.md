@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7513 words**
+**Total: 7523 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -585,17 +585,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-004` : ว่ากล่าว (to scold, to reproach, to reprimand) : 1 meaning(s), 2 sentences
 - `chula-l6-005` : ความนับถือ (respect, esteem) : 1 meaning(s), 2 sentences
 - `chula-l6-006` : เกณฑ์ (criteria, benchmark; to recruit, to conscript) : 2 meaning(s), 4 sentences
+- `chula-l6-007` : ภายในกำหนดส่ง (within the deadline, by the due date) : 1 meaning(s), 2 sentences
 - `chula-l6-008` : ครบ, ครบถ้วน (thorough, complete) : 1 meaning(s), 2 sentences
 - `chula-l6-009` : รูปแบบ (format, form, pattern, model) : 1 meaning(s), 2 sentences
+- `chula-l6-010` : ประวัติย่อ (brief biography, résumé) : 1 meaning(s), 2 sentences
+- `chula-l6-011` : เนื้อเรื่องย่อ (plot summary, synopsis) : 1 meaning(s), 2 sentences
 - `chula-l6-012` : คณาจารย์ (faculty members, teaching staff) : 1 meaning(s), 2 sentences
 - `chula-l6-013` : อาสาสมัคร (volunteer) : 1 meaning(s), 2 sentences
+- `chula-l6-014` : ความกระตือรือร้น (enthusiasm, zeal) : 1 meaning(s), 2 sentences
 - `chula-l6-015` : นักขัตฤกษ์ (holiday (festival, holy day, auspicious day tied to religion or tradition)) : 1 meaning(s), 2 sentences
+- `chula-l6-016` : ปฏิบัติงาน (to perform work, to carry out one's duties (formal, written)) : 1 meaning(s), 2 sentences
 - `chula-l6-017` : ศูนย์ (zero; center (institution), hub) : 2 meaning(s), 4 sentences
 - `chula-l6-018` : กรอก (to fill in (a form)) : 1 meaning(s), 2 sentences
+- `chula-l6-019` : ตระเวน (to patrol, to roam around, to travel around, to wander) : 1 meaning(s), 2 sentences
 - `chula-l6-020` : ชายแดน (border, border region (near a frontier)) : 1 meaning(s), 2 sentences
 - `chula-l6-021` : ฝ่าย (team, group, side) : 1 meaning(s), 2 sentences
 - `chula-l6-022` : นิสิต (university student) : 1 meaning(s), 2 sentences
+- `chula-l6-023` : ทำมาหากิน (to make a living) : 1 meaning(s), 2 sentences
 - `chula-l6-024` : เน้น, มุ่งเน้น (to focus on, to emphasize) : 1 meaning(s), 2 sentences
+- `chula-l6-025` : มีใจรักใน (to have a passion for something) : 1 meaning(s), 2 sentences
+- `chula-l6-026` : กินง่ายอยู่ง่าย (easygoing, low-maintenance, adaptable in daily life (literally "eat easily, live easily")) : 1 meaning(s), 2 sentences
+- `chula-l6-027` : นามธรรม (abstract) : 1 meaning(s), 2 sentences
 - `chula-l6-028` : สกรรมกริยา - อกรรมกริยา (transitive verb (requires an object) - intransitive verb) : 1 meaning(s), 2 sentences
 - `chula-l6-029` : คุณศัพท์ (adjective (in grammar)) : 1 meaning(s), 2 sentences
 - `chula-l6-030` : กรรม (object (what comes after the verb in Thai grammar); karma) : 2 meaning(s), 4 sentences
