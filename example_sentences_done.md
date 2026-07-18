@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7383 words**
+**Total: 7393 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -332,12 +332,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-193` : ขาด (to lack, to be missing; torn, broken) : 2 meaning(s), 4 sentences
 - `chula-l5-194` : นอง (flooded, covered in, soaked) : 1 meaning(s), 2 sentences
 - `chula-l5-195` : บุตรชาย (son (formal)) : 1 meaning(s), 2 sentences
+- `chula-l5-196` : รถยก (tow truck) : 1 meaning(s), 2 sentences
 - `chula-l5-197` : ศร (arrow) : 1 meaning(s), 2 sentences
 - `chula-l5-198` : นินทา (to gossip (negatively), to talk behind someone's back) : 1 meaning(s), 2 sentences
+- `chula-l5-199` : ยุงลาย (Aedes mosquito (has black and white stripes)) : 1 meaning(s), 2 sentences
+- `chula-l5-200` : เฉียบพลัน (acute, sudden) : 1 meaning(s), 2 sentences
 - `chula-l5-201` : ศีรษะ (head (formal)) : 1 meaning(s), 2 sentences
+- `chula-l5-202` : ผื่น (rash) : 1 meaning(s), 2 sentences
 - `chula-l5-203` : ถ่าย (to take (photo, video); to defecate; to transfer (data)) : 3 meaning(s), 6 sentences
+- `chula-l5-204` : ภาวะ (condition, state) : 1 meaning(s), 2 sentences
+- `chula-l5-205` : ชีพจร (pulse) : 1 meaning(s), 2 sentences
+- `chula-l5-206` : ตับ (liver) : 1 meaning(s), 2 sentences
 - `chula-l5-207` : ตับโต (hepatomegaly (enlarged liver)) : 1 meaning(s), 2 sentences
 - `chula-l5-208` : ชายโครง (flank, area below the ribs) : 1 meaning(s), 2 sentences
+- `chula-l5-209` : เกลือแร่ (mineral salts (e.g potassium, sodium, calcium), electrolytes) : 1 meaning(s), 2 sentences
+- `chula-l5-210` : ซึม (listless, dull, feeling down) : 1 meaning(s), 2 sentences
+- `chula-l5-211` : กระสับกระส่าย (restless, agitated, unable to sit still) : 1 meaning(s), 2 sentences
 - `chula-l5-212` : มุ้ง (mosquito net) : 1 meaning(s), 2 sentences
 - `chula-l5-214` : แหล่ง (source) : 1 meaning(s), 2 sentences
 - `chula-l5-216` : กำจัด (to get rid of, to eliminate) : 1 meaning(s), 2 sentences

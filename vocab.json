@@ -10231,6 +10231,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "tow truck",
+        "sentences": [
+          {
+            "thai": "รถเสียกลางทาง ต้องเรียกรถยก",
+            "en": "My car broke down on the road, I had to call a tow truck.",
+            "audio_src": "รถเสียกลางทาง ต้องเรียกรถยก",
+            "audio_en_src": "My car broke down on the road, I had to call a tow truck."
+          },
+          {
+            "thai": "จอดตรงนี้ระวังโดนรถยกนะ",
+            "en": "Careful parking here, you might get towed.",
+            "audio_src": "จอดตรงนี้ระวังโดนรถยกนะ",
+            "audio_en_src": "Careful parking here, you might get towed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10299,6 +10318,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "Aedes mosquito (has black and white stripes)",
+        "sentences": [
+          {
+            "thai": "ยุงลายเป็นพาหะของไข้เลือดออก",
+            "en": "Aedes mosquitoes carry dengue fever.",
+            "audio_src": "ยุงลายเป็นพาหะของไข้เลือดออก",
+            "audio_en_src": "Aedes mosquitoes carry dengue fever."
+          },
+          {
+            "thai": "อย่าให้มีน้ำขัง เดี๋ยวยุงลายวางไข่",
+            "en": "Don't leave standing water around, or Aedes mosquitoes will lay eggs in it.",
+            "audio_src": "อย่าให้มีน้ำขัง เดี๋ยวยุงลายวางไข่",
+            "audio_en_src": "Don't leave standing water around, or Aedes mosquitoes will lay eggs in it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10308,6 +10346,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "acute, sudden",
+        "sentences": [
+          {
+            "thai": "เขาถูกส่งโรงพยาบาลเพราะหัวใจวายเฉียบพลัน",
+            "en": "He was rushed to the hospital with a sudden heart attack.",
+            "audio_src": "เขาถูกส่งโรงพยาบาลเพราะหัวใจวายเฉียบพลัน",
+            "audio_en_src": "He was rushed to the hospital with a sudden heart attack."
+          },
+          {
+            "thai": "ปวดท้องเฉียบพลันแบบนี้ต้องรีบไปหาหมอ",
+            "en": "Sudden stomach pain like this, you need to see a doctor right away.",
+            "audio_src": "ปวดท้องเฉียบพลันแบบนี้ต้องรีบไปหาหมอ",
+            "audio_en_src": "Sudden stomach pain like this, you need to see a doctor right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10348,6 +10405,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "rash",
+        "sentences": [
+          {
+            "thai": "ลูกมีผื่นขึ้นที่แขนสองข้าง",
+            "en": "My kid has a rash on both arms.",
+            "audio_src": "ลูกมีผื่นขึ้นที่แขนสองข้าง",
+            "audio_en_src": "My kid has a rash on both arms."
+          },
+          {
+            "thai": "กินยานี้แล้วมีผื่นขึ้น ต้องหยุดยาทันที",
+            "en": "If you get a rash from this medicine, stop taking it immediately.",
+            "audio_src": "กินยานี้แล้วมีผื่นขึ้น ต้องหยุดยาทันที",
+            "audio_en_src": "If you get a rash from this medicine, stop taking it immediately."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10425,6 +10501,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "condition, state",
+        "sentences": [
+          {
+            "thai": "ผู้ป่วยอยู่ในภาวะวิกฤต",
+            "en": "The patient is in critical condition.",
+            "audio_src": "ผู้ป่วยอยู่ในภาวะวิกฤต",
+            "audio_en_src": "The patient is in critical condition."
+          },
+          {
+            "thai": "ช่วงนี้เศรษฐกิจอยู่ในภาวะถดถอย",
+            "en": "The economy is in a recession right now.",
+            "audio_src": "ช่วงนี้เศรษฐกิจอยู่ในภาวะถดถอย",
+            "audio_en_src": "The economy is in a recession right now."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10434,6 +10529,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "pulse",
+        "sentences": [
+          {
+            "thai": "พยาบาลจับชีพจรคนไข้ทุกชั่วโมง",
+            "en": "The nurse checks the patient's pulse every hour.",
+            "audio_src": "พยาบาลจับชีพจรคนไข้ทุกชั่วโมง",
+            "audio_en_src": "The nurse checks the patient's pulse every hour."
+          },
+          {
+            "thai": "ชีพจรเต้นเร็วผิดปกติ",
+            "en": "The pulse is abnormally fast.",
+            "audio_src": "ชีพจรเต้นเร็วผิดปกติ",
+            "audio_en_src": "The pulse is abnormally fast."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10446,6 +10560,25 @@
       "Tamago L1-2",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "liver",
+        "sentences": [
+          {
+            "thai": "ดื่มเหล้าทุกวันทำร้ายตับ",
+            "en": "Drinking every day damages your liver.",
+            "audio_src": "ดื่มเหล้าทุกวันทำร้ายตับ",
+            "audio_en_src": "Drinking every day damages your liver."
+          },
+          {
+            "thai": "หมอบอกว่าค่าตับสูง ต้องงดเหล้า",
+            "en": "The doctor said my liver values are high, I have to quit drinking.",
+            "audio_src": "หมอบอกว่าค่าตับสูง ต้องงดเหล้า",
+            "audio_en_src": "The doctor said my liver values are high, I have to quit drinking."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10512,6 +10645,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "mineral salts (e.g potassium, sodium, calcium), electrolytes",
+        "sentences": [
+          {
+            "thai": "ท้องเสียหนักต้องดื่มเกลือแร่",
+            "en": "If you have bad diarrhea, you need to drink electrolytes.",
+            "audio_src": "ท้องเสียหนักต้องดื่มเกลือแร่",
+            "audio_en_src": "If you have bad diarrhea, you need to drink electrolytes."
+          },
+          {
+            "thai": "เสียเหงื่อเยอะ ร่างกายเสียเกลือแร่",
+            "en": "When you sweat a lot, your body loses electrolytes.",
+            "audio_src": "เสียเหงื่อเยอะ ร่างกายเสียเกลือแร่",
+            "audio_en_src": "When you sweat a lot, your body loses electrolytes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10522,6 +10674,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "listless, dull, feeling down",
+        "sentences": [
+          {
+            "thai": "วันนี้ลูกดูซึม ไม่ยอมเล่นเลย",
+            "en": "The kid seems listless today, he won't play at all.",
+            "audio_src": "วันนี้ลูกดูซึม ไม่ยอมเล่นเลย",
+            "audio_en_src": "The kid seems listless today, he won't play at all."
+          },
+          {
+            "thai": "หมาตัวนี้ซึมมาสองวันแล้ว พาไปหาหมอดีกว่า",
+            "en": "This dog has been listless for two days, better take him to the vet.",
+            "audio_src": "หมาตัวนี้ซึมมาสองวันแล้ว พาไปหาหมอดีกว่า",
+            "audio_en_src": "This dog has been listless for two days, better take him to the vet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10531,6 +10702,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "restless, agitated, unable to sit still",
+        "sentences": [
+          {
+            "thai": "คนไข้กระสับกระส่ายทั้งคืน",
+            "en": "The patient was restless all night.",
+            "audio_src": "คนไข้กระสับกระส่ายทั้งคืน",
+            "audio_en_src": "The patient was restless all night."
+          },
+          {
+            "thai": "เขานั่งกระสับกระส่ายรอผลสอบ",
+            "en": "He sat there fidgeting, waiting for his exam results.",
+            "audio_src": "เขานั่งกระสับกระส่ายรอผลสอบ",
+            "audio_en_src": "He sat there fidgeting, waiting for his exam results."
+          }
+        ]
+      }
     ]
   },
   {
