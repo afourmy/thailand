@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8254 words**
+**Total: 8264 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4937,15 +4937,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-039` : สะกิด (to provoke, to poke, to nudge) : 1 meaning(s), 2 sentences
 - `yt-c05-040` : ฝาน (to slice thinly) : 1 meaning(s), 2 sentences
 - `yt-c05-042` : ขั้ว (pole, polarity, extremity, opposite end) : 1 meaning(s), 2 sentences
+- `yt-c05-043` : มนุษย์ป้า (entitled middle-aged or older woman, "Karen"-like woman) : 1 meaning(s), 2 sentences
+- `yt-c05-045` : ผมฟู, หัวฟู (messy hair, disheveled hair) : 1 meaning(s), 2 sentences
 - `yt-c05-046` : ที่คั่นหนังสือ (bookmark) : 1 meaning(s), 2 sentences
+- `yt-c05-047` : ยืดยาว (lengthy, stretched out) : 1 meaning(s), 2 sentences
 - `yt-c05-048` : เขลา (ignorant, unintelligent, unwise (literary)) : 1 meaning(s), 2 sentences
 - `yt-c05-049` : บริวาร (attendant, servant) : 1 meaning(s), 2 sentences
 - `yt-c05-050` : มโหฬาร (gigantic, enormous) : 1 meaning(s), 2 sentences
+- `yt-c05-052` : เชือกกระโดด (jump rope) : 1 meaning(s), 2 sentences
+- `yt-c05-053` : กระสอบทราย (punching bag) : 1 meaning(s), 2 sentences
+- `yt-c05-054` : นวม (boxing gloves) : 1 meaning(s), 2 sentences
 - `yt-c05-055` : เป้า (target) : 1 meaning(s), 2 sentences
 - `yt-c05-056` : ยก (to lift, to raise; a round (e.g in a boxing match)) : 2 meaning(s), 4 sentences
+- `yt-c05-058` : การแสดงออก (expression, outward display (of feelings, opinions)) : 1 meaning(s), 2 sentences
 - `yt-c05-059` : อุ่นใจ (to feel secure, at ease, to have peace of mind) : 1 meaning(s), 2 sentences
 - `yt-c05-060` : ก้าวข้าม (to get past (e.g a difficulty), to rise above, to overcome) : 1 meaning(s), 2 sentences
 - `yt-c05-061` : มาตรฐาน (standard) : 1 meaning(s), 2 sentences
+- `yt-c05-062` : ความเป็นตัวตน (individuality, sense of self) : 1 meaning(s), 2 sentences
+- `yt-c05-063` : ความโปร่ง (transparency; airiness) : 2 meaning(s), 4 sentences
+- `yt-c05-064` : ขัดแย้ง (to conflict, to be in opposition) : 1 meaning(s), 2 sentences
 - `yt-c05-065` : รังแค (dandruff) : 1 meaning(s), 2 sentences
 - `yt-c05-066` : ครีมนวดผม (conditioner (hair)) : 1 meaning(s), 2 sentences
 - `yt-c05-068` : ผมร่วง (hair loss, hair fall) : 1 meaning(s), 2 sentences
