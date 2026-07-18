@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7774 words**
+**Total: 7784 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2084,15 +2084,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-559` : หนำใจ (fully satisfied, fully pleased (to the point of enough or more than enough)) : 1 meaning(s), 2 sentences
 - `tamago-l3-560` : สู้ตาย ("I'll do my best", "fight to the death") : 1 meaning(s), 2 sentences
 - `tamago-l3-561` : เจ้าแม่ (queen of, powerful woman; goddess) : 2 meaning(s), 4 sentences
+- `tamago-l3-562` : นักชิม (food critic, gastronome) : 1 meaning(s), 2 sentences
 - `tamago-l3-563` : น้อยหน้า (to feel inferior, less than others) : 1 meaning(s), 2 sentences
 - `tamago-l3-564` : พูดพร่ำทำเพลง (to talk and talk without acting, to waste time talking, to ramble on) : 1 meaning(s), 2 sentences
 - `tamago-l3-565` : อย่าว่ากัน ("don't be mad", "don't take it the wrong way") : 1 meaning(s), 2 sentences
 - `tamago-l3-566` : ซ้ำซากจำเจ (tedious, repetitive and boring) : 1 meaning(s), 2 sentences
 - `tamago-l3-567` : เที่ยวรอบโลก (to travel around the world) : 1 meaning(s), 2 sentences
 - `tamago-l3-568` : ปักหลัก (to settle down (in a place)) : 1 meaning(s), 2 sentences
+- `tamago-l3-569` : สองส่วนสาม (two-thirds (2/3)) : 1 meaning(s), 2 sentences
 - `tamago-l3-570` : ทำใจ (to come to terms with something, to accept) : 1 meaning(s), 2 sentences
 - `tamago-l3-571` : ชำนาญ (expert, proficient, skilled at) : 1 meaning(s), 2 sentences
 - `tamago-l3-572` : รอบรู้ (well-versed, knowledgeable) : 1 meaning(s), 2 sentences
+- `tamago-l3-573` : อดใจรอ (to wait patiently, to hold off) : 1 meaning(s), 2 sentences
 - `tamago-l3-574` : กติกา (rules, terms) : 1 meaning(s), 2 sentences
 - `tamago-l3-575` : กระเทียม (garlic) : 1 meaning(s), 2 sentences
 - `tamago-l3-576` : กะปิ (shrimp paste) : 1 meaning(s), 2 sentences
@@ -2102,7 +2105,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-580` : โจทย์ (problem, challenge, task (math, competition)) : 1 meaning(s), 2 sentences
 - `tamago-l3-581` : จับเวลา (to time, to keep time) : 1 meaning(s), 2 sentences
 - `tamago-l3-582` : เสมอ (even, tied, to draw (in a game); always) : 2 meaning(s), 4 sentences
+- `tamago-l3-583` : ตกรอบ (to be eliminated, knocked out (from a competition)) : 1 meaning(s), 2 sentences
 - `tamago-l3-584` : ตัดกำลังใจ (to discourage, to demoralize) : 1 meaning(s), 2 sentences
+- `tamago-l3-585` : ไม่เช่นนั้น (otherwise (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-586` : เซียน (guru, master, expert) : 1 meaning(s), 2 sentences
 - `tamago-l3-587` : ค่าบ้าน (rent or mortgage payment) : 1 meaning(s), 2 sentences
 - `tamago-l3-588` : เจ้า (lord, master; particle of endearment before child or pet's name (used by adults)) : 2 meaning(s), 4 sentences
@@ -2124,10 +2129,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-604` : ยอมจำนน (to surrender, to give up, to concede) : 1 meaning(s), 2 sentences
 - `tamago-l3-605` : ดึกๆดื่นๆ (late at night) : 1 meaning(s), 2 sentences
 - `tamago-l3-606` : คาบ ((school) period, class) : 1 meaning(s), 2 sentences
+- `tamago-l3-607` : แนะแนว (to counsel, to give guidance (e.g education, career)) : 1 meaning(s), 2 sentences
 - `tamago-l3-608` : สืบทอด (to inherit, to carry on (a business, tradition)) : 1 meaning(s), 2 sentences
 - `tamago-l3-609` : งานอดิเรก (hobby) : 1 meaning(s), 2 sentences
 - `tamago-l3-610` : เจอหน้า (to meet in person, to see each other) : 1 meaning(s), 2 sentences
 - `tamago-l3-611` : ความคิดสร้างสรรค์ (creativity) : 1 meaning(s), 2 sentences
+- `tamago-l3-612` : ล้มละลาย (to go bankrupt) : 1 meaning(s), 2 sentences
 - `tamago-l3-613` : อยู่ตัว (stable, settled) : 1 meaning(s), 2 sentences
 - `tamago-l3-615` : ความอยู่รอด (survival) : 1 meaning(s), 2 sentences
 - `tamago-l3-616` : โละทิ้ง (to discard, to throw out (e.g unwanted, obsolete things)) : 1 meaning(s), 2 sentences
@@ -2137,6 +2144,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-620` : สุขสบาย (comfortable and happy, at ease) : 1 meaning(s), 2 sentences
 - `tamago-l3-621` : เจ๋ง (cool, awesome (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-622` : ในดวงใจ (favorite, in one's heart, most beloved) : 1 meaning(s), 2 sentences
+- `tamago-l3-623` : นิทรรศการ (exhibition (art, museum)) : 1 meaning(s), 2 sentences
+- `tamago-l3-624` : กัก, กักขัง (to detain, to confine, to imprison) : 1 meaning(s), 2 sentences
+- `tamago-l3-625` : ทางเดินชีวิต (life path, life journey) : 1 meaning(s), 2 sentences
 - `tamago-l3-626` : ชะตาชีวิต (fate, destiny) : 1 meaning(s), 2 sentences
 - `tamago-l3-627` : บาป (sin) : 1 meaning(s), 2 sentences
 - `tamago-l3-628` : รับช่วง (to take over (a business, project) from someone) : 1 meaning(s), 2 sentences

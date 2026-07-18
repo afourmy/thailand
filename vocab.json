@@ -65224,6 +65224,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "food critic, gastronome",
+        "sentences": [
+          {
+            "thai": "นักชิมชื่อดังมารีวิวร้านนี้",
+            "en": "A famous food critic came to review this restaurant.",
+            "audio_src": "นักชิมชื่อดังมารีวิวร้านนี้",
+            "audio_en_src": "A famous food critic came to review this restaurant."
+          },
+          {
+            "thai": "แม่ฉันเป็นนักชิมตัวยง",
+            "en": "My mom is a real foodie.",
+            "audio_src": "แม่ฉันเป็นนักชิมตัวยง",
+            "audio_en_src": "My mom is a real foodie."
+          }
+        ]
+      }
     ]
   },
   {
@@ -65407,6 +65426,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "two-thirds (2/3)",
+        "sentences": [
+          {
+            "thai": "พนักงานสองส่วนสามโหวตเห็นด้วย",
+            "en": "Two-thirds of the employees voted in favor.",
+            "audio_src": "พนักงานสองส่วนสามโหวตเห็นด้วย",
+            "audio_en_src": "Two-thirds of the employees voted in favor."
+          },
+          {
+            "thai": "เขากินเค้กไปสองส่วนสามแล้ว",
+            "en": "He's already eaten two-thirds of the cake.",
+            "audio_src": "เขากินเค้กไปสองส่วนสามแล้ว",
+            "audio_en_src": "He's already eaten two-thirds of the cake."
+          }
+        ]
+      }
     ]
   },
   {
@@ -65510,6 +65548,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to wait patiently, to hold off",
+        "sentences": [
+          {
+            "thai": "หนังภาคต่อใกล้ฉายแล้ว อดใจรออีกนิด",
+            "en": "The sequel is almost out, hang in there a little longer.",
+            "audio_src": "หนังภาคต่อใกล้ฉายแล้ว อดใจรออีกนิด",
+            "audio_en_src": "The sequel is almost out, hang in there a little longer."
+          },
+          {
+            "thai": "อดใจรอถึงวันเงินเดือนออกไม่ไหว",
+            "en": "I can't wait until payday.",
+            "audio_src": "อดใจรอถึงวันเงินเดือนออกไม่ไหว",
+            "audio_en_src": "I can't wait until payday."
+          }
+        ]
+      }
     ]
   },
   {
@@ -65815,6 +65872,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to be eliminated, knocked out (from a competition)",
+        "sentences": [
+          {
+            "thai": "ทีมโปรดของฉันตกรอบแรกเลย",
+            "en": "My favorite team got knocked out in the first round.",
+            "audio_src": "ทีมโปรดของฉันตกรอบแรกเลย",
+            "audio_en_src": "My favorite team got knocked out in the first round."
+          },
+          {
+            "thai": "นักร้องคนนั้นตกรอบอย่างน่าเสียดาย",
+            "en": "That singer was eliminated, such a shame.",
+            "audio_src": "นักร้องคนนั้นตกรอบอย่างน่าเสียดาย",
+            "audio_en_src": "That singer was eliminated, such a shame."
+          }
+        ]
+      }
     ]
   },
   {
@@ -65856,6 +65932,25 @@
       "Tamago L3",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "otherwise (formal)",
+        "sentences": [
+          {
+            "thai": "กรุณาชำระภายในกำหนด ไม่เช่นนั้นจะมีค่าปรับ",
+            "en": "Please pay by the due date. Otherwise there will be a fine.",
+            "audio_src": "กรุณาชำระภายในกำหนด ไม่เช่นนั้นจะมีค่าปรับ",
+            "audio_en_src": "Please pay by the due date. Otherwise there will be a fine."
+          },
+          {
+            "thai": "ต้องส่งเอกสารให้ครบ ไม่เช่นนั้นใบสมัครจะถูกยกเลิก",
+            "en": "You must submit all the documents; otherwise your application will be cancelled.",
+            "audio_src": "ต้องส่งเอกสารให้ครบ ไม่เช่นนั้นใบสมัครจะถูกยกเลิก",
+            "audio_en_src": "You must submit all the documents; otherwise your application will be cancelled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66512,6 +66607,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to counsel, to give guidance (e.g education, career)",
+        "sentences": [
+          {
+            "thai": "โรงเรียนจัดกิจกรรมแนะแนวอาชีพ",
+            "en": "The school held a career guidance session.",
+            "audio_src": "โรงเรียนจัดกิจกรรมแนะแนวอาชีพ",
+            "audio_en_src": "The school held a career guidance session."
+          },
+          {
+            "thai": "รุ่นพี่มาแนะแนวการเรียนต่อมหาวิทยาลัย",
+            "en": "Older students came to give advice about university.",
+            "audio_src": "รุ่นพี่มาแนะแนวการเรียนต่อมหาวิทยาลัย",
+            "audio_en_src": "Older students came to give advice about university."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66649,6 +66763,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to go bankrupt",
+        "sentences": [
+          {
+            "thai": "บริษัทเก่าแก่ประกาศล้มละลาย",
+            "en": "The long-established company declared bankruptcy.",
+            "audio_src": "บริษัทเก่าแก่ประกาศล้มละลาย",
+            "audio_en_src": "The long-established company declared bankruptcy."
+          },
+          {
+            "thai": "เขาเล่นพนันจนล้มละลาย",
+            "en": "He gambled until he went bankrupt.",
+            "audio_src": "เขาเล่นพนันจนล้มละลาย",
+            "audio_en_src": "He gambled until he went bankrupt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66928,6 +67061,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "exhibition (art, museum)",
+        "sentences": [
+          {
+            "thai": "สุดสัปดาห์นี้มีนิทรรศการภาพถ่ายที่หอศิลป์",
+            "en": "There's a photo exhibition at the art center this weekend.",
+            "audio_src": "สุดสัปดาห์นี้มีนิทรรศการภาพถ่ายที่หอศิลป์",
+            "audio_en_src": "There's a photo exhibition at the art center this weekend."
+          },
+          {
+            "thai": "นิทรรศการนี้จัดถึงสิ้นเดือน",
+            "en": "The exhibition runs until the end of the month.",
+            "audio_src": "นิทรรศการนี้จัดถึงสิ้นเดือน",
+            "audio_en_src": "The exhibition runs until the end of the month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66937,6 +67089,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to detain, to confine, to imprison",
+        "sentences": [
+          {
+            "thai": "ตำรวจกักตัวผู้ต้องสงสัยไว้สอบสวน",
+            "en": "Police detained the suspect for questioning.",
+            "audio_src": "ตำรวจกักตัวผู้ต้องสงสัยไว้สอบสวน",
+            "audio_en_src": "Police detained the suspect for questioning."
+          },
+          {
+            "thai": "เขาถูกกักขังอยู่หลายเดือน",
+            "en": "He was locked up for months.",
+            "audio_src": "เขาถูกกักขังอยู่หลายเดือน",
+            "audio_en_src": "He was locked up for months."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66946,6 +67117,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "life path, life journey",
+        "sentences": [
+          {
+            "thai": "แต่ละคนมีทางเดินชีวิตของตัวเอง",
+            "en": "Everyone has their own path in life.",
+            "audio_src": "แต่ละคนมีทางเดินชีวิตของตัวเอง",
+            "audio_en_src": "Everyone has their own path in life."
+          },
+          {
+            "thai": "การตัดสินใจครั้งนั้นเปลี่ยนทางเดินชีวิตของเขา",
+            "en": "That decision changed the course of his life.",
+            "audio_src": "การตัดสินใจครั้งนั้นเปลี่ยนทางเดินชีวิตของเขา",
+            "audio_en_src": "That decision changed the course of his life."
+          }
+        ]
+      }
     ]
   },
   {
