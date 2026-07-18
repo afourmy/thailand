@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7483 words**
+**Total: 7493 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -529,11 +529,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-404` : แล้ง (dry, drought) : 1 meaning(s), 2 sentences
 - `chula-l5-405` : ฉ่ำ (juicy, moist, saturated with liquid) : 1 meaning(s), 2 sentences
 - `chula-l5-406` : บรรณารักษ์ (librarian) : 1 meaning(s), 2 sentences
+- `chula-l5-407` : ขีดเขียน (to scribble) : 1 meaning(s), 2 sentences
 - `chula-l5-408` : ฉีก (to tear, to rip) : 1 meaning(s), 2 sentences
+- `chula-l5-409` : อาการหลงลืม (forgetfulness) : 1 meaning(s), 2 sentences
+- `chula-l5-410` : ความเหนื่อยล้า (fatigue) : 1 meaning(s), 2 sentences
+- `chula-l5-411` : การดำเนินชีวิต (lifestyle, way of life) : 1 meaning(s), 2 sentences
 - `chula-l5-412` : โรควิตกกังวลทั่วไป (generalized anxiety disorder) : 1 meaning(s), 2 sentences
+- `chula-l5-413` : จิตบำบัด (psychotherapy) : 1 meaning(s), 2 sentences
+- `chula-l5-414` : บรรเทา (to relieve, to alleviate) : 1 meaning(s), 2 sentences
+- `chula-l5-415` : หายขาด (to recover fully (from illness), to be completely cured) : 1 meaning(s), 2 sentences
+- `chula-l5-416` : เก๋ไก๋ (chic, cute, stylish) : 1 meaning(s), 2 sentences
 - `chula-l5-417` : ปริมาณ (quantity, volume) : 1 meaning(s), 2 sentences
+- `chula-l5-418` : ส่งท้าย (to mark the end of, to see out (e.g the year)) : 1 meaning(s), 2 sentences
 - `chula-l5-419` : พุ่ง (to rush, to dash, to fling; to throw forcefully; to surge) : 3 meaning(s), 6 sentences
 - `chula-l5-420` : รปภ (security guard) : 1 meaning(s), 2 sentences
+- `chula-l5-421` : ปม (knot; issue, problem, hidden point) : 2 meaning(s), 4 sentences
 - `chula-l5-422` : คาด (to assume, to speculate, to anticipate) : 1 meaning(s), 2 sentences
 - `chula-l5-423` : เร่ง (to speed up, to hurry, to accelerate) : 1 meaning(s), 2 sentences
 - `chula-l5-424` : นัด (meeting, appointment; game, match; classifier for gunshots, bullets) : 3 meaning(s), 6 sentences
