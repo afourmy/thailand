@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8214 words**
+**Total: 8224 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4817,23 +4817,33 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-000` : กีด (to block, to hinder, to obstruct) : 1 meaning(s), 2 sentences
 - `yt-c04-001` : ชาวสวน (orchard farmer, fruit grower) : 1 meaning(s), 2 sentences
 - `yt-c04-002` : ทำสวน (to do gardening) : 1 meaning(s), 2 sentences
+- `yt-c04-003` : ตีกรอบ (to frame, to set boundaries, to restrict) : 1 meaning(s), 2 sentences
 - `yt-c04-004` : กันและกัน (each other) : 1 meaning(s), 2 sentences
 - `yt-c04-005` : วิพากษ์วิจารณ์ (to criticize, to judge, to comment) : 1 meaning(s), 2 sentences
 - `yt-c04-006` : ม้วน (to roll, to curl, roll, classifier for rolled items (e.g toilet paper)) : 1 meaning(s), 2 sentences
+- `yt-c04-008` : จับฉลาก (to draw lots, to pick randomly) : 1 meaning(s), 2 sentences
+- `yt-c04-009` : กระสุน, ลูกกระสุน (bullet) : 1 meaning(s), 2 sentences
+- `yt-c04-010` : กระเช้า (basket (gifts or decorative)) : 1 meaning(s), 2 sentences
 - `yt-c04-012` : สอด (to insert in, to slip into (an object, usually a small space)) : 1 meaning(s), 2 sentences
 - `yt-c04-013` : ชุบ (to coat (e.g in liquid), to dip, to soak) : 1 meaning(s), 2 sentences
 - `yt-c04-014` : ต้นแขน (upper arm) : 1 meaning(s), 2 sentences
 - `yt-c04-015` : สำนึก (to realize, to become aware) : 1 meaning(s), 2 sentences
 - `yt-c04-016` : ลักษณะนิสัย (characteristics of one's personality, character traits) : 1 meaning(s), 2 sentences
+- `yt-c04-017` : โผงผาง (blunt, outspoken, speaking without tact) : 1 meaning(s), 2 sentences
+- `yt-c04-018` : รู้ไส้รู้พุง (to know someone inside out, to know everything about someone) : 1 meaning(s), 2 sentences
 - `yt-c04-019` : ปาด (to swipe, to wipe, to cut across (quick motion)) : 1 meaning(s), 2 sentences
 - `yt-c04-020` : ปาดหน้า (to cut in line, to cut in front, to overtake in a dangerous way (in traffic when driving)) : 1 meaning(s), 2 sentences
 - `yt-c04-021` : ความอึดอัดใจ (embarrassment, discomfort) : 1 meaning(s), 2 sentences
 - `yt-c04-022` : ละเอียดอ่อน (delicate, sensitive) : 1 meaning(s), 2 sentences
+- `yt-c04-024` : สาลี่ (Chinese pear (round, yellow fruit)) : 1 meaning(s), 2 sentences
 - `yt-c04-025` : คำผวน (spoonerism) : 1 meaning(s), 2 sentences
 - `yt-c04-026` : ทดสอบ (to check, test, evaluate, experiment) : 1 meaning(s), 2 sentences
 - `yt-c04-027` : เป็นตัวของตัวเอง (to be oneself ("be myself", "be yourself")) : 1 meaning(s), 2 sentences
+- `yt-c04-028` : แต่งตัวโป๊เกินไป (to dress in a way that's too revealing) : 1 meaning(s), 2 sentences
 - `yt-c04-029` : คอเว้า (low-cut neckline clothes (V-shaped)) : 1 meaning(s), 2 sentences
 - `yt-c04-030` : เดินตามหลังผู้ใหญ่หมาไม่กัด ((expression) if you follow the adults, dogs won't bite you (meaning: obey the adults and you'll be safe)) : 1 meaning(s), 1 sentences
+- `yt-c04-032` : นอบน้อม (humble, respectful, deferential) : 1 meaning(s), 2 sentences
+- `yt-c04-033` : ถ่อมตัว, ถ่อมตน (humble, not boasting, modest, to downplay oneself) : 1 meaning(s), 2 sentences
 - `yt-c04-034` : นอบน้อมถ่อมตน, อ่อนน้อมถ่อมตน (humble and respectful) : 1 meaning(s), 2 sentences
 - `yt-c04-035` : ราตรีสวัสดิ์ (good night (rarely used)) : 1 meaning(s), 2 sentences
 - `yt-c04-037` : อ้อม (curved, indirect, roundabout) : 1 meaning(s), 2 sentences
