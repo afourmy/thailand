@@ -67265,6 +67265,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "gratitude, filial piety",
+        "sentences": [
+          {
+            "thai": "ความกตัญญูต่อพ่อแม่สำคัญมากในสังคมไทย",
+            "en": "Gratitude toward your parents is very important in Thai society.",
+            "audio_src": "ความกตัญญูต่อพ่อแม่สำคัญมากในสังคมไทย",
+            "audio_en_src": "Gratitude toward your parents is very important in Thai society."
+          },
+          {
+            "thai": "เขาดูแลพ่อแม่ด้วยความกตัญญู",
+            "en": "He looks after his parents out of filial gratitude.",
+            "audio_src": "เขาดูแลพ่อแม่ด้วยความกตัญญู",
+            "audio_en_src": "He looks after his parents out of filial gratitude."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67906,6 +67925,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "Google (slang, \"Uncle Goo\")",
+        "sentences": [
+          {
+            "thai": "ไม่รู้ก็ถามอากู๋สิ",
+            "en": "If you don't know, just ask Google.",
+            "audio_src": "ไม่รู้ก็ถามอากู๋สิ",
+            "audio_en_src": "If you don't know, just ask Google."
+          },
+          {
+            "thai": "อากู๋รู้ทุกเรื่องจริงๆ",
+            "en": "Google really does know everything.",
+            "audio_src": "อากู๋รู้ทุกเรื่องจริงๆ",
+            "audio_en_src": "Google really does know everything."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67978,6 +68016,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "afternoon class period",
+        "sentences": [
+          {
+            "thai": "คาบบ่ายง่วงนอนทุกที",
+            "en": "I always get sleepy in afternoon classes.",
+            "audio_src": "คาบบ่ายง่วงนอนทุกที",
+            "audio_en_src": "I always get sleepy in afternoon classes."
+          },
+          {
+            "thai": "คาบบ่ายวันนี้เรียนพละ",
+            "en": "This afternoon's period is PE.",
+            "audio_src": "คาบบ่ายวันนี้เรียนพละ",
+            "audio_en_src": "This afternoon's period is PE."
+          }
+        ]
+      }
     ]
   },
   {
@@ -67987,6 +68044,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to grade, to assign a grade (school)",
+        "sentences": [
+          {
+            "thai": "อาจารย์คนนี้ตัดเกรดโหดมาก",
+            "en": "This professor grades really hard.",
+            "audio_src": "อาจารย์คนนี้ตัดเกรดโหดมาก",
+            "audio_en_src": "This professor grades really hard."
+          },
+          {
+            "thai": "วิชานี้ตัดเกรดตามคะแนนสอบอย่างเดียว",
+            "en": "This course is graded on exam scores alone.",
+            "audio_src": "วิชานี้ตัดเกรดตามคะแนนสอบอย่างเดียว",
+            "audio_en_src": "This course is graded on exam scores alone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -68420,6 +68496,25 @@
     "sources": [
       "Tamago L3",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "place of origin, birthplace",
+        "sentences": [
+          {
+            "thai": "เชียงใหม่เป็นถิ่นกำเนิดของเขา",
+            "en": "Chiang Mai is his birthplace.",
+            "audio_src": "เชียงใหม่เป็นถิ่นกำเนิดของเขา",
+            "audio_en_src": "Chiang Mai is his birthplace."
+          },
+          {
+            "thai": "ปลาชนิดนี้มีแหล่งกำเนิดในแม่น้ำโขง",
+            "en": "This fish species originates in the Mekong River.",
+            "audio_src": "ปลาชนิดนี้มีแหล่งกำเนิดในแม่น้ำโขง",
+            "audio_en_src": "This fish species originates in the Mekong River."
+          }
+        ]
+      }
     ]
   },
   {
@@ -68629,6 +68724,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "walking posture, gait",
+        "sentences": [
+          {
+            "thai": "ฉันจำเขาได้จากท่าเดิน",
+            "en": "I recognized him by his walk.",
+            "audio_src": "ฉันจำเขาได้จากท่าเดิน",
+            "audio_en_src": "I recognized him by his walk."
+          },
+          {
+            "thai": "ท่าเดินของนางแบบต้องฝึกนาน",
+            "en": "A model's walk takes a long time to train.",
+            "audio_src": "ท่าเดินของนางแบบต้องฝึกนาน",
+            "audio_en_src": "A model's walk takes a long time to train."
+          }
+        ]
+      }
     ]
   },
   {
@@ -68752,6 +68866,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "modest, content with little",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนมักน้อย มีเท่าไหร่ก็พอใจ",
+            "en": "He's content with little, happy with whatever he has.",
+            "audio_src": "เขาเป็นคนมักน้อย มีเท่าไหร่ก็พอใจ",
+            "audio_en_src": "He's content with little, happy with whatever he has."
+          },
+          {
+            "thai": "เธอใช้ชีวิตแบบมักน้อย ไม่ต้องมีอะไรหรูหรา",
+            "en": "She lives simply, with no need for anything fancy.",
+            "audio_src": "เธอใช้ชีวิตแบบมักน้อย ไม่ต้องมีอะไรหรูหรา",
+            "audio_en_src": "She lives simply, with no need for anything fancy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -68880,6 +69013,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "intimidating face, mean-looking",
+        "sentences": [
+          {
+            "thai": "เขาหน้าโหดแต่ใจดีมาก",
+            "en": "He looks scary but he's really kind.",
+            "audio_src": "เขาหน้าโหดแต่ใจดีมาก",
+            "audio_en_src": "He looks scary but he's really kind."
+          },
+          {
+            "thai": "การ์ดหน้าโหดยืนอยู่หน้าประตู",
+            "en": "A mean-looking bouncer stood at the door.",
+            "audio_src": "การ์ดหน้าโหดยืนอยู่หน้าประตู",
+            "audio_en_src": "A mean-looking bouncer stood at the door."
+          }
+        ]
+      }
     ]
   },
   {
@@ -68919,6 +69071,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "pawn shop",
+        "sentences": [
+          {
+            "thai": "เขาเอาทองไปจำนำที่โรงจำนำ",
+            "en": "He pawned his gold at the pawn shop.",
+            "audio_src": "เขาเอาทองไปจำนำที่โรงจำนำ",
+            "audio_en_src": "He pawned his gold at the pawn shop."
+          },
+          {
+            "thai": "ช่วงเปิดเทอม โรงจำนำคนแน่น",
+            "en": "When school starts, the pawn shops are packed.",
+            "audio_src": "ช่วงเปิดเทอม โรงจำนำคนแน่น",
+            "audio_en_src": "When school starts, the pawn shops are packed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -69278,6 +69449,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "financial means, purchasing power",
+        "sentences": [
+          {
+            "thai": "เลือกซื้อตามกำลังทรัพย์ของเรา",
+            "en": "Buy what your budget allows.",
+            "audio_src": "เลือกซื้อตามกำลังทรัพย์ของเรา",
+            "audio_en_src": "Buy what your budget allows."
+          },
+          {
+            "thai": "เขาอยากช่วยแต่กำลังทรัพย์ไม่พอ",
+            "en": "He wants to help, but doesn't have the means.",
+            "audio_src": "เขาอยากช่วยแต่กำลังทรัพย์ไม่พอ",
+            "audio_en_src": "He wants to help, but doesn't have the means."
+          }
+        ]
+      }
     ]
   },
   {

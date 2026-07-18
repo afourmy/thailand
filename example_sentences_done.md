@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7784 words**
+**Total: 7794 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2151,6 +2151,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-627` : บาป (sin) : 1 meaning(s), 2 sentences
 - `tamago-l3-628` : รับช่วง (to take over (a business, project) from someone) : 1 meaning(s), 2 sentences
 - `tamago-l3-629` : ขึ้นเสียง (to raise one's voice) : 1 meaning(s), 2 sentences
+- `tamago-l3-630` : ความกตัญญู (gratitude, filial piety) : 1 meaning(s), 2 sentences
 - `tamago-l3-631` : ด้อย (inferior, low) : 1 meaning(s), 2 sentences
 - `tamago-l3-632` : ด้อยกว่า (inferior, lesser than) : 1 meaning(s), 2 sentences
 - `tamago-l3-633` : สนับสนุน (to support, to back up, to promote) : 1 meaning(s), 2 sentences
@@ -2171,8 +2172,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-650` : จับกลุ่ม (to form a group, to group up) : 1 meaning(s), 2 sentences
 - `tamago-l3-652` : การล่าอาณานิคม (colonization) : 1 meaning(s), 2 sentences
 - `tamago-l3-654` : ความรู้รอบตัว (general knowledge) : 1 meaning(s), 2 sentences
+- `tamago-l3-655` : อากู๋ (Google (slang, "Uncle Goo")) : 1 meaning(s), 2 sentences
 - `tamago-l3-656` : หัวข้อย่อย (sub-topic) : 1 meaning(s), 2 sentences
 - `tamago-l3-657` : ซ้อม (to rehearse, to practice) : 1 meaning(s), 2 sentences
+- `tamago-l3-658` : คาบบ่าย (afternoon class period) : 1 meaning(s), 2 sentences
+- `tamago-l3-659` : ตัดเกรด (to grade, to assign a grade (school)) : 1 meaning(s), 2 sentences
 - `tamago-l3-660` : เกริ่น (to introduce (a topic, a presentation), to preface) : 1 meaning(s), 2 sentences
 - `tamago-l3-661` : นิยาม (definition) : 1 meaning(s), 2 sentences
 - `tamago-l3-663` : ยึด (to hold on to, to adhere to, to stick to; to seize) : 2 meaning(s), 4 sentences
@@ -2185,21 +2189,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-670` : ชน (to collide with, to hit; tribe, ethnic group) : 2 meaning(s), 4 sentences
 - `tamago-l3-671` : เชื้อสาย (ancestry, descent, lineage) : 1 meaning(s), 2 sentences
 - `tamago-l3-672` : ตระกูล (family, lineage, clan) : 1 meaning(s), 2 sentences
+- `tamago-l3-673` : ถิ่นกำเนิด, แหล่งกำเนิด (place of origin, birthplace) : 1 meaning(s), 2 sentences
 - `tamago-l3-674` : ในเมื่อ (since, given that, because) : 1 meaning(s), 2 sentences
 - `tamago-l3-675` : พลอย (gem, precious stone; to also be affected, to be involved indirectly) : 2 meaning(s), 4 sentences
 - `tamago-l3-676` : ฉุด (to drag, to pull (forcefully)) : 1 meaning(s), 2 sentences
 - `tamago-l3-677` : สามัคคี (unity, to work together) : 1 meaning(s), 2 sentences
 - `tamago-l3-678` : เคร่งครัด (strict, rigorous) : 1 meaning(s), 2 sentences
 - `tamago-l3-679` : หูตึง (hard of hearing, partially deaf) : 1 meaning(s), 2 sentences
+- `tamago-l3-681` : ท่าเดิน (walking posture, gait) : 1 meaning(s), 2 sentences
 - `tamago-l3-682` : ไปในตัว (at the same time, in the process) : 1 meaning(s), 2 sentences
 - `tamago-l3-683` : ล้า (exhausted, fatigued) : 1 meaning(s), 2 sentences
 - `tamago-l3-684` : ขาเดฟ (skinny jeans) : 1 meaning(s), 2 sentences
 - `tamago-l3-685` : ตู้เซฟ (safe, safety box) : 1 meaning(s), 2 sentences
+- `tamago-l3-687` : มักน้อย (modest, content with little) : 1 meaning(s), 2 sentences
 - `tamago-l3-688` : ครก (mortar (for grinding food)) : 1 meaning(s), 2 sentences
 - `tamago-l3-689` : สาก (pestle) : 1 meaning(s), 2 sentences
 - `tamago-l3-690` : สืบ (to investigate, to inquire into) : 1 meaning(s), 2 sentences
 - `tamago-l3-691` : นอกเสียจากว่า... (unless, except if) : 1 meaning(s), 2 sentences
+- `tamago-l3-692` : หน้าโหด (intimidating face, mean-looking) : 1 meaning(s), 2 sentences
 - `tamago-l3-693` : ส่องกระจก (to look at oneself in the mirror) : 1 meaning(s), 2 sentences
+- `tamago-l3-694` : โรงจำนำ (pawn shop) : 1 meaning(s), 2 sentences
 - `tamago-l3-696` : น่าขำ (funny, laughable) : 1 meaning(s), 2 sentences
 - `tamago-l3-697` : เบาะแส (clue, lead) : 1 meaning(s), 2 sentences
 - `tamago-l3-698` : กระเทยควาย (derogatory term for katoey (slang, rude)) : 1 meaning(s), 2 sentences
@@ -2211,6 +2220,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-704` : ประหลาดใจ (surprised, astonished) : 1 meaning(s), 2 sentences
 - `tamago-l3-705` : ล้างแค้น (to take revenge, to avenge) : 1 meaning(s), 2 sentences
 - `tamago-l3-706` : พิรุธ (suspicious sign, something that raises doubt) : 1 meaning(s), 2 sentences
+- `tamago-l3-707` : กำลังทรัพย์ (financial means, purchasing power) : 1 meaning(s), 2 sentences
 - `tamago-l3-710` : ทุน (capital, funds; scholarship) : 2 meaning(s), 4 sentences
 - `tamago-l3-711` : พวงมาลัย (steering wheel; flower garland) : 2 meaning(s), 4 sentences
 - `tamago-l3-712` : เอียง (to incline, to tilt, tilted, slanted) : 1 meaning(s), 2 sentences
