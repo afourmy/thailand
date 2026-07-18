@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8144 words**
+**Total: 8154 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4640,11 +4640,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-004` : ฟอกเงิน (to launder money) : 1 meaning(s), 2 sentences
 - `yt-c02-005` : รวยเงียบ (rich but not showing off, low-key wealthy) : 1 meaning(s), 2 sentences
 - `yt-c02-006` : หนังยาง (rubber band) : 1 meaning(s), 2 sentences
+- `yt-c02-007` : เสียขวัญ (to be scared, frightened, to lose morale, to lose courage) : 1 meaning(s), 2 sentences
+- `yt-c02-008` : ผู้ประสบภัย (disaster victim) : 1 meaning(s), 2 sentences
+- `yt-c02-009` : คาใจ (to have lingering doubts, to have something on one's mind) : 1 meaning(s), 2 sentences
+- `yt-c02-010` : อุดตัน (clogged, blocked, obstructed (e.g pipes, roads, arteries, etc.)) : 1 meaning(s), 2 sentences
 - `yt-c02-011` : ล้อเลียน (to mock, to imitate in a mocking way, to ridicule) : 1 meaning(s), 2 sentences
+- `yt-c02-012` : เนื้อร้าย (malignant tumor) : 1 meaning(s), 2 sentences
+- `yt-c02-013` : ความมุ่งมั่น (determination, commitment) : 1 meaning(s), 2 sentences
 - `yt-c02-014` : ทรงพลัง (powerful, mighty) : 1 meaning(s), 2 sentences
+- `yt-c02-015` : เส้นตื้น (easily amused, someone who laughs easily) : 1 meaning(s), 2 sentences
 - `yt-c02-016` : ระเบียบ (discipline, order) : 1 meaning(s), 2 sentences
 - `yt-c02-017` : ชีวิตคู่ (married life, conjugal life) : 1 meaning(s), 2 sentences
+- `yt-c02-018` : คนที่รู้ใจ (someone who understands you well, kindred spirit) : 1 meaning(s), 2 sentences
 - `yt-c02-019` : ปรมาณู (atom) : 1 meaning(s), 2 sentences
+- `yt-c02-020` : ประพันธ์ (to compose, to write (literary or musical works)) : 1 meaning(s), 2 sentences
+- `yt-c02-021` : ก้องโลก (world-renowned (literally "echoing around the world")) : 1 meaning(s), 2 sentences
 - `yt-c02-023` : ผู้พิชิต (conqueror) : 1 meaning(s), 2 sentences
 - `yt-c02-024` : นวัตกรรม (innovation) : 1 meaning(s), 2 sentences
 - `yt-c02-025` : ล้มเหลว (to fail, failure) : 1 meaning(s), 2 sentences
