@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8224 words**
+**Total: 8234 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4846,16 +4846,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-033` : ถ่อมตัว, ถ่อมตน (humble, not boasting, modest, to downplay oneself) : 1 meaning(s), 2 sentences
 - `yt-c04-034` : นอบน้อมถ่อมตน, อ่อนน้อมถ่อมตน (humble and respectful) : 1 meaning(s), 2 sentences
 - `yt-c04-035` : ราตรีสวัสดิ์ (good night (rarely used)) : 1 meaning(s), 2 sentences
+- `yt-c04-036` : อ้อมค้อม (evasive, indirect, beating around the bush (e.g speech or action)) : 1 meaning(s), 2 sentences
 - `yt-c04-037` : อ้อม (curved, indirect, roundabout) : 1 meaning(s), 2 sentences
 - `yt-c04-038` : นิ่ม (soft, silky, gentle) : 1 meaning(s), 2 sentences
 - `yt-c04-039` : คำชม (compliment) : 1 meaning(s), 2 sentences
+- `yt-c04-043` : กระดอง (shell (of a turtle)) : 1 meaning(s), 2 sentences
+- `yt-c04-044` : หลักฐานพิสูจน์ (proof, supporting evidence) : 1 meaning(s), 2 sentences
+- `yt-c04-045` : ไม่จกตา (not fake, genuine, legit, "for real", "the real deal") : 1 meaning(s), 2 sentences
 - `yt-c04-046` : ได้อยู่ ("not bad", "good enough", "not great not terrible") : 1 meaning(s), 2 sentences
 - `yt-c04-047` : หยด (to drop (water, tear), to drip) : 1 meaning(s), 2 sentences
 - `yt-c04-048` : เข็ดแล้ว ("I've learned my lesson", "never again") : 1 meaning(s), 2 sentences
+- `yt-c04-050` : งานดีมาก ((of a person) very pretty, perfect) : 1 meaning(s), 2 sentences
+- `yt-c04-052` : คอเดียวกัน (like-minded, having the same taste, liking the same thing) : 1 meaning(s), 2 sentences
 - `yt-c04-053` : โอ้วชีวิต ("c'est la vie") : 1 meaning(s), 2 sentences
+- `yt-c04-054` : คำอุทาน (interjection ("oh!")) : 1 meaning(s), 2 sentences
 - `yt-c04-055` : กิจการ (business, enterprise) : 1 meaning(s), 2 sentences
 - `yt-c04-056` : ตาชั่ง (balance, weighting scale) : 1 meaning(s), 2 sentences
+- `yt-c04-057` : ลูกเสือ (boy scout (literally "tiger child")) : 1 meaning(s), 2 sentences
+- `yt-c04-059` : ย้อนแสง (backlit, against the light) : 1 meaning(s), 2 sentences
 - `yt-c04-060` : ริน (to pour gently, to pour slowly) : 1 meaning(s), 2 sentences
+- `yt-c04-061` : โชกโชน (seasoned, highly experienced) : 1 meaning(s), 2 sentences
 - `yt-c04-064` : ขี้ไคล (scurf (dead skin flakes, body dirt)) : 1 meaning(s), 2 sentences
 - `yt-c04-066` : ปลาทู (mackerel) : 1 meaning(s), 2 sentences
 - `yt-c04-067` : หอยแมลงภู่ (mussel) : 1 meaning(s), 2 sentences
