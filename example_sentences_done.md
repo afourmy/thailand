@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7914 words**
+**Total: 7924 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2778,25 +2778,35 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-433` : แนวทาง (guideline, approach) : 1 meaning(s), 2 sentences
 - `tsl-434` : สุขกายสบายใจ (physically well and mentally at ease) : 1 meaning(s), 2 sentences
 - `tsl-435` : ตำรับ (recipe (food), formula (medicine)) : 1 meaning(s), 4 sentences
+- `tsl-436` : น้ำมันหอมระเหย (essential oil) : 1 meaning(s), 2 sentences
 - `tsl-437` : ล้ำค่า (precious, priceless, invaluable) : 1 meaning(s), 2 sentences
+- `tsl-438` : ความได้เปรียบทางการแข่งขัน (competitive advantage) : 1 meaning(s), 2 sentences
 - `tsl-439` : ย่อยสลาย (to decompose, to break down, to biodegrade) : 1 meaning(s), 2 sentences
 - `tsl-440` : ละเว้น (to refrain from, to abstain from) : 1 meaning(s), 2 sentences
 - `tsl-441` : ผสมเทียม (artificial insemination) : 1 meaning(s), 2 sentences
 - `tsl-442` : เขียด (small frog, tree frog) : 1 meaning(s), 2 sentences
 - `tsl-443` : จำพวก (category, group, species, kind (formal)) : 1 meaning(s), 2 sentences
+- `tsl-444` : ปราดเปรียว (agile, quick, swift, nimble) : 1 meaning(s), 2 sentences
 - `tsl-445` : ถอนหายใจ (to sigh) : 1 meaning(s), 2 sentences
+- `tsl-446` : ทุ้ม (low-pitched, deep (sound, voice)) : 1 meaning(s), 2 sentences
+- `tsl-447` : เค้น (to squeeze out, to force out, to press someone for information (a confession, etc)) : 1 meaning(s), 2 sentences
+- `tsl-448` : กระซิบกระซาบ (to whisper quietly and repeatedly (gossiping)) : 1 meaning(s), 2 sentences
 - `tsl-449` : ระรัว (to beat rapidly, palpitating, "in quick succession" (sound or motion)) : 1 meaning(s), 2 sentences
+- `tsl-450` : ฮัม (to hum (a tune)) : 1 meaning(s), 2 sentences
 - `tsl-451` : หวีด (to shriek, to scream (high-pitched)) : 1 meaning(s), 2 sentences
 - `tsl-452` : ฝืน (to force, to go against, to resist) : 1 meaning(s), 2 sentences
 - `tsl-453` : หนักอึ้ง (very heavy, crushingly heavy (literal or emotional)) : 1 meaning(s), 2 sentences
 - `tsl-454` : ชั่วขณะ (momentarily, for a moment, brief instant) : 1 meaning(s), 2 sentences
 - `tsl-455` : ดิ้นรน (to struggle, to strive against difficulty) : 1 meaning(s), 2 sentences
+- `tsl-456` : เฮือก (sudden gasp, sharp intake of breath) : 1 meaning(s), 2 sentences
 - `tsl-457` : สิงสู่ (to haunt, to inhabit, to possess (ghost in a body)) : 1 meaning(s), 2 sentences
+- `tsl-458` : ศาสตร์มืด (dark magic, black magic) : 1 meaning(s), 2 sentences
 - `tsl-459` : หลอกหลอน (to haunt (ghosts, memories)) : 1 meaning(s), 2 sentences
 - `tsl-460` : แข็งทื่อ (stiff, rigid) : 1 meaning(s), 2 sentences
 - `tsl-461` : คล้ายคลึง (analogous, similar) : 1 meaning(s), 2 sentences
 - `tsl-462` : รับรู้ (to recognize, to acknowledge, to perceive, to be aware of) : 1 meaning(s), 2 sentences
 - `tsl-463` : ท่อง (to recite, to memorize; to roam, to travel, to wander) : 2 meaning(s), 4 sentences
+- `tsl-464` : ภาพหลอน (hallucinations) : 1 meaning(s), 2 sentences
 - `tsl-468` : ภาพเสมือน (virtual image, illusion) : 1 meaning(s), 2 sentences
 - `tsl-469` : โรคลมหลับ (narcolepsy (sudden sleep attacks)) : 1 meaning(s), 2 sentences
 - `tsl-471` : ประภาคาร (lighthouse) : 1 meaning(s), 2 sentences
