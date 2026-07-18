@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7373 words**
+**Total: 7383 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -316,12 +316,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-177` : ใกล้เคียง (nearby) : 1 meaning(s), 2 sentences
 - `chula-l5-178` : บ่อ (pond, well) : 1 meaning(s), 2 sentences
 - `chula-l5-179` : เนินเขา (hill) : 1 meaning(s), 2 sentences
+- `chula-l5-180` : ความหลากหลาย (diversity) : 1 meaning(s), 2 sentences
+- `chula-l5-181` : สลับซับซ้อน (intricate, complicated, convoluted) : 1 meaning(s), 2 sentences
+- `chula-l5-182` : ปกคลุม (to cover, to blanket) : 1 meaning(s), 2 sentences
 - `chula-l5-183` : ยอดนิยม (highly popular) : 1 meaning(s), 2 sentences
+- `chula-l5-184` : ล่อง (to travel downstream, to drift (on a river)) : 1 meaning(s), 2 sentences
 - `chula-l5-185` : ชุมชน (community) : 1 meaning(s), 2 sentences
+- `chula-l5-186` : พระราชดำริ (royal initiative, royal idea) : 1 meaning(s), 2 sentences
+- `chula-l5-187` : ต้นสน (pine tree) : 1 meaning(s), 2 sentences
 - `chula-l5-188` : สะท้อน (to reflect) : 1 meaning(s), 2 sentences
 - `chula-l5-189` : บาน (to bloom; to spread out, to be wide open) : 2 meaning(s), 4 sentences
+- `chula-l5-190` : ความงดงาม (beauty) : 1 meaning(s), 2 sentences
+- `chula-l5-191` : ลัง (crate, case) : 1 meaning(s), 2 sentences
 - `chula-l5-192` : ยี่ห้อ (brand) : 1 meaning(s), 2 sentences
 - `chula-l5-193` : ขาด (to lack, to be missing; torn, broken) : 2 meaning(s), 4 sentences
+- `chula-l5-194` : นอง (flooded, covered in, soaked) : 1 meaning(s), 2 sentences
+- `chula-l5-195` : บุตรชาย (son (formal)) : 1 meaning(s), 2 sentences
 - `chula-l5-197` : ศร (arrow) : 1 meaning(s), 2 sentences
 - `chula-l5-198` : นินทา (to gossip (negatively), to talk behind someone's back) : 1 meaning(s), 2 sentences
 - `chula-l5-201` : ศีรษะ (head (formal)) : 1 meaning(s), 2 sentences

@@ -9717,6 +9717,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "diversity",
+        "sentences": [
+          {
+            "thai": "เมืองนี้มีความหลากหลายทางวัฒนธรรม",
+            "en": "This city is culturally diverse.",
+            "audio_src": "เมืองนี้มีความหลากหลายทางวัฒนธรรม",
+            "audio_en_src": "This city is culturally diverse."
+          },
+          {
+            "thai": "ป่าที่นี่มีความหลากหลายทางชีวภาพสูง",
+            "en": "The forest here has high biodiversity.",
+            "audio_src": "ป่าที่นี่มีความหลากหลายทางชีวภาพสูง",
+            "audio_en_src": "The forest here has high biodiversity."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9727,6 +9746,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "intricate, complicated, convoluted",
+        "sentences": [
+          {
+            "thai": "คดีนี้สลับซับซ้อนกว่าที่คิด",
+            "en": "This case is more complicated than expected.",
+            "audio_src": "คดีนี้สลับซับซ้อนกว่าที่คิด",
+            "audio_en_src": "This case is more complicated than expected."
+          },
+          {
+            "thai": "ตรอกซอกซอยในเมืองเก่าสลับซับซ้อนมาก",
+            "en": "The alleys in the old town are a real maze.",
+            "audio_src": "ตรอกซอกซอยในเมืองเก่าสลับซับซ้อนมาก",
+            "audio_en_src": "The alleys in the old town are a real maze."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9738,6 +9776,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to cover, to blanket",
+        "sentences": [
+          {
+            "thai": "หมอกปกคลุมยอดดอยตอนเช้า",
+            "en": "Fog blankets the mountaintop in the morning.",
+            "audio_src": "หมอกปกคลุมยอดดอยตอนเช้า",
+            "audio_en_src": "Fog blankets the mountaintop in the morning."
+          },
+          {
+            "thai": "หิมะปกคลุมทั้งเมือง",
+            "en": "Snow covered the whole city.",
+            "audio_src": "หิมะปกคลุมทั้งเมือง",
+            "audio_en_src": "Snow covered the whole city."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9780,6 +9837,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to travel downstream, to drift (on a river)",
+        "sentences": [
+          {
+            "thai": "เราล่องเรือชมแม่น้ำเจ้าพระยา",
+            "en": "We took a boat cruise along the Chao Phraya River.",
+            "audio_src": "เราล่องเรือชมแม่น้ำเจ้าพระยา",
+            "audio_en_src": "We took a boat cruise along the Chao Phraya River."
+          },
+          {
+            "thai": "นักท่องเที่ยวชอบไปล่องแพที่กาญจนบุรี",
+            "en": "Tourists love going rafting in Kanchanaburi.",
+            "audio_src": "นักท่องเที่ยวชอบไปล่องแพที่กาญจนบุรี",
+            "audio_en_src": "Tourists love going rafting in Kanchanaburi."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9823,6 +9899,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "royal initiative, royal idea",
+        "sentences": [
+          {
+            "thai": "โครงการนี้เกิดขึ้นตามพระราชดำริของรัชกาลที่เก้า",
+            "en": "This project was created under a royal initiative of King Rama IX.",
+            "audio_src": "โครงการนี้เกิดขึ้นตามพระราชดำริของรัชกาลที่เก้า",
+            "audio_en_src": "This project was created under a royal initiative of King Rama IX."
+          },
+          {
+            "thai": "ฝายแห่งนี้สร้างขึ้นตามแนวพระราชดำริ",
+            "en": "This check dam was built following a royal initiative.",
+            "audio_src": "ฝายแห่งนี้สร้างขึ้นตามแนวพระราชดำริ",
+            "audio_en_src": "This check dam was built following a royal initiative."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9833,6 +9928,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "pine tree",
+        "sentences": [
+          {
+            "thai": "บนดอยมีต้นสนขึ้นเต็มไปหมด",
+            "en": "The mountain is covered with pine trees.",
+            "audio_src": "บนดอยมีต้นสนขึ้นเต็มไปหมด",
+            "audio_en_src": "The mountain is covered with pine trees."
+          },
+          {
+            "thai": "เราไปกางเต็นท์ใต้ต้นสน",
+            "en": "We pitched our tent under the pine trees.",
+            "audio_src": "เราไปกางเต็นท์ใต้ต้นสน",
+            "audio_en_src": "We pitched our tent under the pine trees."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9923,6 +10037,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "beauty",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวประทับใจความงดงามของวัดไทย",
+            "en": "Tourists are impressed by the beauty of Thai temples.",
+            "audio_src": "นักท่องเที่ยวประทับใจความงดงามของวัดไทย",
+            "audio_en_src": "Tourists are impressed by the beauty of Thai temples."
+          },
+          {
+            "thai": "ภาพถ่ายชุดนี้ถ่ายทอดความงดงามของธรรมชาติ",
+            "en": "This photo series captures the beauty of nature.",
+            "audio_src": "ภาพถ่ายชุดนี้ถ่ายทอดความงดงามของธรรมชาติ",
+            "audio_en_src": "This photo series captures the beauty of nature."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9932,6 +10065,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "crate, case",
+        "sentences": [
+          {
+            "thai": "ช่วยยกลังผลไม้ขึ้นรถหน่อย",
+            "en": "Help me load the crates of fruit onto the truck.",
+            "audio_src": "ช่วยยกลังผลไม้ขึ้นรถหน่อย",
+            "audio_en_src": "Help me load the crates of fruit onto the truck."
+          },
+          {
+            "thai": "เขาซื้อน้ำเป็นลังไว้ติดบ้าน",
+            "en": "He buys water by the case to keep at home.",
+            "audio_src": "เขาซื้อน้ำเป็นลังไว้ติดบ้าน",
+            "audio_en_src": "He buys water by the case to keep at home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10022,6 +10174,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "flooded, covered in, soaked",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักจนน้ำนองเต็มถนน",
+            "en": "It rained so hard the road was covered in water.",
+            "audio_src": "ฝนตกหนักจนน้ำนองเต็มถนน",
+            "audio_en_src": "It rained so hard the road was covered in water."
+          },
+          {
+            "thai": "เด็กร้องไห้น้ำตานองหน้า",
+            "en": "The child cried with tears streaming down her face.",
+            "audio_src": "เด็กร้องไห้น้ำตานองหน้า",
+            "audio_en_src": "The child cried with tears streaming down her face."
+          }
+        ]
+      }
     ]
   },
   {
@@ -10032,6 +10203,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "son (formal)",
+        "sentences": [
+          {
+            "thai": "บุตรชายคนโตของเขาเรียนจบแพทย์",
+            "en": "His eldest son graduated from medical school.",
+            "audio_src": "บุตรชายคนโตของเขาเรียนจบแพทย์",
+            "audio_en_src": "His eldest son graduated from medical school."
+          },
+          {
+            "thai": "ข่าวบอกว่าผู้ต้องหาเป็นบุตรชายของนักการเมือง",
+            "en": "The news said the suspect is the son of a politician.",
+            "audio_src": "ข่าวบอกว่าผู้ต้องหาเป็นบุตรชายของนักการเมือง",
+            "audio_en_src": "The news said the suspect is the son of a politician."
+          }
+        ]
+      }
     ]
   },
   {
