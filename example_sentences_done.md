@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7934 words**
+**Total: 7944 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2850,6 +2850,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-506` : ไส้เดือน (earthworm) : 1 meaning(s), 2 sentences
 - `tsl-507` : ผสมพันธุ์ (to mate, to reproduce) : 1 meaning(s), 2 sentences
 - `tsl-508` : เหงือก (gums (mouth); gills (fish)) : 2 meaning(s), 4 sentences
+- `tsl-509` : ชื้นแฉะ (damp, wet, moist, soggy) : 1 meaning(s), 2 sentences
 - `tsl-510` : ต้อนวัว (to herd cattle) : 1 meaning(s), 2 sentences
 - `tsl-511` : แต่เดิม (originally, formerly, in the past) : 1 meaning(s), 2 sentences
 - `tsl-512` : ผิวพรรณ (skin complexion) : 1 meaning(s), 2 sentences
@@ -2860,13 +2861,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-516` : มิฉะนั้น (otherwise, or else) : 1 meaning(s), 2 sentences
 - `tsl-517` : ...ไปก็เท่านั้น ("it's no use doing...", "doing... won't help") : 1 meaning(s), 2 sentences
 - `tsl-518` : การโกงกิน (corruption, embezzlement) : 1 meaning(s), 2 sentences
+- `tsl-519` : ถลำ (to plunge, to go too far into, to fall into (a trap, a problem)) : 1 meaning(s), 2 sentences
 - `tsl-520` : เยาวชน (youth, young people) : 1 meaning(s), 2 sentences
+- `tsl-521` : ทรัพย์สินทางปัญญา (intellectual property) : 1 meaning(s), 2 sentences
+- `tsl-522` : บาปกรรม (sinful deeds, misdeeds, bad karma) : 1 meaning(s), 2 sentences
+- `tsl-523` : อำลา (to bid farewell, to take one's leave (formal)) : 1 meaning(s), 2 sentences
 - `tsl-524` : พลาง (while, at the same time as, simultaneously (formal, literary)) : 1 meaning(s), 2 sentences
 - `tsl-525` : กาก (residue, leftover, dregs; (slang) loser, worthless) : 2 meaning(s), 4 sentences
 - `tsl-526` : สม่ำเสมอ (regular, consistent, steady) : 1 meaning(s), 2 sentences
+- `tsl-527` : ธัญพืช (grains, cereals) : 1 meaning(s), 2 sentences
 - `tsl-528` : บ้านอุปถัมภ์ (foster home) : 1 meaning(s), 2 sentences
+- `tsl-529` : กัน (to block, to defend, to protect; to trim (hair)) : 2 meaning(s), 4 sentences
 - `tsl-530` : แผ่ (to spread, to extend, to diffuse) : 1 meaning(s), 2 sentences
 - `tsl-531` : ลาด (slope, inclined; to pave, to cover a surface) : 2 meaning(s), 4 sentences
+- `tsl-532` : เยาว์วัย (youth, young age, early years) : 1 meaning(s), 2 sentences
 - `tsl-533` : มีหน้ามีตา ((idiom) to have status, to be well-regarded, have a good reputation) : 1 meaning(s), 2 sentences
 - `tsl-534` : กุเรื่อง (to make up a story, to fabricate) : 1 meaning(s), 2 sentences
 - `tsl-535` : จอมปลอม (completely fake, total fraud) : 1 meaning(s), 2 sentences
@@ -2879,6 +2887,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-543` : ขจัด (to eliminate, to get rid of, to eradicate) : 1 meaning(s), 2 sentences
 - `tsl-544` : คราบ (stain, mark) : 1 meaning(s), 2 sentences
 - `tsl-545` : เช็ด (to wipe, to rub clean) : 1 meaning(s), 2 sentences
+- `tsl-546` : ทิว (row, range (mountain range, row of trees)) : 1 meaning(s), 2 sentences
+- `tsl-547` : คดเคี้ยว (zigzagging, winding, serpentine, twisting) : 1 meaning(s), 2 sentences
 - `tsl-548` : ระบบนิเวศ (ecosystem) : 1 meaning(s), 2 sentences
 - `tsl-550` : สัตว์เลี้ยงลูกด้วยนม (mammal) : 1 meaning(s), 2 sentences
 - `tsl-551` : ย่น (wrinkled, shrunken, shortened) : 1 meaning(s), 2 sentences
