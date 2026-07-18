@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7443 words**
+**Total: 7453 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -448,9 +448,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-317` : ผ่อนจ่าย, แบ่งชำระ (to pay by installments) : 1 meaning(s), 2 sentences
 - `chula-l5-318` : เรียน (to learn; to inform; "to", "dear" (official communication)) : 3 meaning(s), 6 sentences
 - `chula-l5-320` : อัศจรรย์, มหัศจรรย์ (amazing, wonderful) : 1 meaning(s), 2 sentences
+- `chula-l5-321` : ชั้นนำ (leading, top, prestigious) : 1 meaning(s), 2 sentences
+- `chula-l5-322` : เครื่องประดับ (accessories (e.g jewelry)) : 1 meaning(s), 2 sentences
+- `chula-l5-323` : เครื่องครัว (kitchenware) : 1 meaning(s), 2 sentences
+- `chula-l5-324` : เวียน, หมุนเวียน (to rotate, to circulate) : 1 meaning(s), 2 sentences
+- `chula-l5-325` : ดีล (deal) : 1 meaning(s), 2 sentences
+- `chula-l5-326` : ร่วมรายการ (participating, included in the list, included in the promotion) : 1 meaning(s), 2 sentences
 - `chula-l5-327` : แลก, แลกเปลี่ยน (to exchange) : 1 meaning(s), 2 sentences
 - `chula-l5-328` : แต้ม (point, dot, mark (+ classifier for these)) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences
+- `chula-l5-330` : สมนาคุณ (reward, complimentary (offered as a token of appreciation)) : 1 meaning(s), 2 sentences
 - `chula-l5-331` : เงื่อนไข (condition) : 1 meaning(s), 2 sentences
 - `chula-l5-332` : อย่างน้อย (at least) : 1 meaning(s), 2 sentences
 - `chula-l5-333` : อย่างมาก (at most) : 1 meaning(s), 2 sentences
@@ -458,7 +465,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-335` : เกษตรกร (farmer, agricultural worker) : 1 meaning(s), 2 sentences
 - `chula-l5-336` : จำหน่าย (to sell, to put on sale, to distribute) : 1 meaning(s), 2 sentences
 - `chula-l5-337` : จับคู่ (to pair up, to pair with) : 1 meaning(s), 2 sentences
+- `chula-l5-339` : แลกรับ (to redeem, to exchange for) : 1 meaning(s), 2 sentences
+- `chula-l5-340` : ประชาสัมพันธ์ (public relations (PR)) : 1 meaning(s), 2 sentences
 - `chula-l5-341` : มั่นใจ (confident) : 1 meaning(s), 2 sentences
+- `chula-l5-342` : เทียบเท่า (equivalent to, equal to) : 1 meaning(s), 2 sentences
 - `chula-l5-343` : กรอบ (framework, frame; crispy) : 2 meaning(s), 4 sentences
 - `chula-l5-344` : ทักษะ (skill) : 1 meaning(s), 2 sentences
 - `chula-l5-346` : เศรษฐกิจ (economy) : 1 meaning(s), 2 sentences

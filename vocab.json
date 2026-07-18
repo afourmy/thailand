@@ -13795,6 +13795,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "leading, top, prestigious",
+        "sentences": [
+          {
+            "thai": "เขาเรียนจบจากมหาวิทยาลัยชั้นนำของประเทศ",
+            "en": "He graduated from one of the country's top universities.",
+            "audio_src": "เขาเรียนจบจากมหาวิทยาลัยชั้นนำของประเทศ",
+            "audio_en_src": "He graduated from one of the country's top universities."
+          },
+          {
+            "thai": "แบรนด์ชั้นนำมาออกร้านในงานนี้เพียบ",
+            "en": "Tons of leading brands have booths at this event.",
+            "audio_src": "แบรนด์ชั้นนำมาออกร้านในงานนี้เพียบ",
+            "audio_en_src": "Tons of leading brands have booths at this event."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13806,6 +13825,25 @@
       "Chulalongkorn L5",
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "accessories (e.g jewelry)",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายเครื่องประดับทำจากเงินแท้",
+            "en": "This shop sells jewelry made of real silver.",
+            "audio_src": "ร้านนี้ขายเครื่องประดับทำจากเงินแท้",
+            "audio_en_src": "This shop sells jewelry made of real silver."
+          },
+          {
+            "thai": "ชุดเรียบแต่ดูดีเพราะเครื่องประดับ",
+            "en": "The outfit is simple but looks good thanks to the accessories.",
+            "audio_src": "ชุดเรียบแต่ดูดีเพราะเครื่องประดับ",
+            "audio_en_src": "The outfit is simple but looks good thanks to the accessories."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13815,6 +13853,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "kitchenware",
+        "sentences": [
+          {
+            "thai": "ห้างลดราคาเครื่องครัวห้าสิบเปอร์เซ็นต์",
+            "en": "The mall has fifty percent off kitchenware.",
+            "audio_src": "ห้างลดราคาเครื่องครัวห้าสิบเปอร์เซ็นต์",
+            "audio_en_src": "The mall has fifty percent off kitchenware."
+          },
+          {
+            "thai": "บ้านใหม่ยังไม่มีเครื่องครัวเลย",
+            "en": "The new house doesn't have any kitchenware yet.",
+            "audio_src": "บ้านใหม่ยังไม่มีเครื่องครัวเลย",
+            "audio_en_src": "The new house doesn't have any kitchenware yet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13827,6 +13884,25 @@
       "YouTube",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to rotate, to circulate",
+        "sentences": [
+          {
+            "thai": "พนักงานเวียนกันมาเข้ากะดึก",
+            "en": "The employees take turns working the night shift.",
+            "audio_src": "พนักงานเวียนกันมาเข้ากะดึก",
+            "audio_en_src": "The employees take turns working the night shift."
+          },
+          {
+            "thai": "เปิดหน้าต่างให้อากาศหมุนเวียน",
+            "en": "Open the windows to let the air circulate.",
+            "audio_src": "เปิดหน้าต่างให้อากาศหมุนเวียน",
+            "audio_en_src": "Open the windows to let the air circulate."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13836,6 +13912,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "deal",
+        "sentences": [
+          {
+            "thai": "แอปนี้มีดีลร้านอาหารราคาถูกเยอะ",
+            "en": "This app has lots of cheap restaurant deals.",
+            "audio_src": "แอปนี้มีดีลร้านอาหารราคาถูกเยอะ",
+            "audio_en_src": "This app has lots of cheap restaurant deals."
+          },
+          {
+            "thai": "ดีลนี้หมดเขตสิ้นเดือน",
+            "en": "This deal ends at the end of the month.",
+            "audio_src": "ดีลนี้หมดเขตสิ้นเดือน",
+            "audio_en_src": "This deal ends at the end of the month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13845,6 +13940,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "participating, included in the list, included in the promotion",
+        "sentences": [
+          {
+            "thai": "ส่วนลดใช้ได้เฉพาะสาขาที่ร่วมรายการ",
+            "en": "The discount is valid only at participating branches.",
+            "audio_src": "ส่วนลดใช้ได้เฉพาะสาขาที่ร่วมรายการ",
+            "audio_en_src": "The discount is valid only at participating branches."
+          },
+          {
+            "thai": "สินค้าร่วมรายการซื้อหนึ่งแถมหนึ่ง",
+            "en": "Participating products are buy one get one free.",
+            "audio_src": "สินค้าร่วมรายการซื้อหนึ่งแถมหนึ่ง",
+            "audio_en_src": "Participating products are buy one get one free."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13951,6 +14065,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "reward, complimentary (offered as a token of appreciation)",
+        "sentences": [
+          {
+            "thai": "สมัครวันนี้รับของสมนาคุณฟรี",
+            "en": "Sign up today and get a free gift.",
+            "audio_src": "สมัครวันนี้รับของสมนาคุณฟรี",
+            "audio_en_src": "Sign up today and get a free gift."
+          },
+          {
+            "thai": "ธนาคารมอบของสมนาคุณให้ลูกค้าประจำ",
+            "en": "The bank gives complimentary gifts to regular customers.",
+            "audio_src": "ธนาคารมอบของสมนาคุณให้ลูกค้าประจำ",
+            "audio_en_src": "The bank gives complimentary gifts to regular customers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14168,6 +14301,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to redeem, to exchange for",
+        "sentences": [
+          {
+            "thai": "สะสมแต้มครบร้อยแลกรับส่วนลดได้",
+            "en": "Collect a hundred points to redeem a discount.",
+            "audio_src": "สะสมแต้มครบร้อยแลกรับส่วนลดได้",
+            "audio_en_src": "Collect a hundred points to redeem a discount."
+          },
+          {
+            "thai": "นำใบเสร็จมาแลกรับของที่ระลึกที่เคาน์เตอร์",
+            "en": "Bring your receipt to the counter to redeem a souvenir.",
+            "audio_src": "นำใบเสร็จมาแลกรับของที่ระลึกที่เคาน์เตอร์",
+            "audio_en_src": "Bring your receipt to the counter to redeem a souvenir."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14179,6 +14331,25 @@
       "Chulalongkorn L5",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "public relations (PR)",
+        "sentences": [
+          {
+            "thai": "เธอทำงานฝ่ายประชาสัมพันธ์ของโรงแรม",
+            "en": "She works in the hotel's public relations department.",
+            "audio_src": "เธอทำงานฝ่ายประชาสัมพันธ์ของโรงแรม",
+            "audio_en_src": "She works in the hotel's public relations department."
+          },
+          {
+            "thai": "มีอะไรสงสัย ถามที่เคาน์เตอร์ประชาสัมพันธ์ได้",
+            "en": "If you have questions, you can ask at the information desk.",
+            "audio_src": "มีอะไรสงสัย ถามที่เคาน์เตอร์ประชาสัมพันธ์ได้",
+            "audio_en_src": "If you have questions, you can ask at the information desk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14220,6 +14391,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "equivalent to, equal to",
+        "sentences": [
+          {
+            "thai": "วุฒินี้เทียบเท่าปริญญาตรี",
+            "en": "This qualification is equivalent to a bachelor's degree.",
+            "audio_src": "วุฒินี้เทียบเท่าปริญญาตรี",
+            "audio_en_src": "This qualification is equivalent to a bachelor's degree."
+          },
+          {
+            "thai": "โรงแรมนี้บริการเทียบเท่าโรงแรมห้าดาว",
+            "en": "This hotel's service is on par with a five-star hotel.",
+            "audio_src": "โรงแรมนี้บริการเทียบเท่าโรงแรมห้าดาว",
+            "audio_en_src": "This hotel's service is on par with a five-star hotel."
+          }
+        ]
+      }
     ]
   },
   {
