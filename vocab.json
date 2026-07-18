@@ -60015,6 +60015,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "roasted duck",
+        "sentences": [
+          {
+            "thai": "ร้านนี้เป็ดย่างอร่อยที่สุดในย่าน",
+            "en": "This place has the best roast duck in the neighborhood.",
+            "audio_src": "ร้านนี้เป็ดย่างอร่อยที่สุดในย่าน",
+            "audio_en_src": "This place has the best roast duck in the neighborhood."
+          },
+          {
+            "thai": "สั่งข้าวหน้าเป็ดย่างมาจานนึง",
+            "en": "I ordered a plate of roast duck over rice.",
+            "audio_src": "สั่งข้าวหน้าเป็ดย่างมาจานนึง",
+            "audio_en_src": "I ordered a plate of roast duck over rice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60024,6 +60043,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "shiitake mushroom",
+        "sentences": [
+          {
+            "thai": "เห็ดหอมแห้งต้องแช่น้ำก่อนใช้",
+            "en": "Dried shiitake mushrooms need to be soaked before use.",
+            "audio_src": "เห็ดหอมแห้งต้องแช่น้ำก่อนใช้",
+            "audio_en_src": "Dried shiitake mushrooms need to be soaked before use."
+          },
+          {
+            "thai": "แม่ผัดผักรวมใส่เห็ดหอม",
+            "en": "Mom stir-fried mixed vegetables with shiitake.",
+            "audio_src": "แม่ผัดผักรวมใส่เห็ดหอม",
+            "audio_en_src": "Mom stir-fried mixed vegetables with shiitake."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60152,6 +60190,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "shrimp balls",
+        "sentences": [
+          {
+            "thai": "ขอลูกชิ้นกุ้งเพิ่มอีกถ้วย",
+            "en": "Another bowl of shrimp balls, please.",
+            "audio_src": "ขอลูกชิ้นกุ้งเพิ่มอีกถ้วย",
+            "audio_en_src": "Another bowl of shrimp balls, please."
+          },
+          {
+            "thai": "ลูกชิ้นกุ้งร้านนี้เด้งมาก",
+            "en": "The shrimp balls here are so springy.",
+            "audio_src": "ลูกชิ้นกุ้งร้านนี้เด้งมาก",
+            "audio_en_src": "The shrimp balls here are so springy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60161,6 +60218,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "sliced beef",
+        "sentences": [
+          {
+            "thai": "สั่งเนื้อสไลด์มาสองจานสำหรับชาบู",
+            "en": "We ordered two plates of sliced beef for the shabu.",
+            "audio_src": "สั่งเนื้อสไลด์มาสองจานสำหรับชาบู",
+            "audio_en_src": "We ordered two plates of sliced beef for the shabu."
+          },
+          {
+            "thai": "เนื้อสไลด์ลวกแป๊บเดียวก็สุก",
+            "en": "Sliced beef only takes a moment to cook in the broth.",
+            "audio_src": "เนื้อสไลด์ลวกแป๊บเดียวก็สุก",
+            "audio_en_src": "Sliced beef only takes a moment to cook in the broth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60288,6 +60364,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "immigration office",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ต้องไปต่อวีซ่าที่กองตรวจคนเข้าเมือง",
+            "en": "Tomorrow I have to go extend my visa at the immigration office.",
+            "audio_src": "พรุ่งนี้ต้องไปต่อวีซ่าที่กองตรวจคนเข้าเมือง",
+            "audio_en_src": "Tomorrow I have to go extend my visa at the immigration office."
+          },
+          {
+            "thai": "กองตรวจคนเข้าเมืองคนเยอะมากช่วงเช้า",
+            "en": "The immigration office is packed in the morning.",
+            "audio_src": "กองตรวจคนเข้าเมืองคนเยอะมากช่วงเช้า",
+            "audio_en_src": "The immigration office is packed in the morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -60465,6 +60560,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "basketball court",
+        "sentences": [
+          {
+            "thai": "เจอกันที่สนามบาสหลังเลิกเรียน",
+            "en": "See you at the basketball court after school.",
+            "audio_src": "เจอกันที่สนามบาสหลังเลิกเรียน",
+            "audio_en_src": "See you at the basketball court after school."
+          },
+          {
+            "thai": "โรงเรียนเพิ่งสร้างสนามบาสใหม่",
+            "en": "The school just built a new basketball court.",
+            "audio_src": "โรงเรียนเพิ่งสร้างสนามบาสใหม่",
+            "audio_en_src": "The school just built a new basketball court."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61027,6 +61141,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "firefly",
+        "sentences": [
+          {
+            "thai": "หิ่งห้อยกะพริบแสงอยู่ริมน้ำ",
+            "en": "Fireflies were blinking by the water.",
+            "audio_src": "หิ่งห้อยกะพริบแสงอยู่ริมน้ำ",
+            "audio_en_src": "Fireflies were blinking by the water."
+          },
+          {
+            "thai": "เดี๋ยวนี้หาหิ่งห้อยดูยากแล้ว",
+            "en": "These days fireflies are hard to find.",
+            "audio_src": "เดี๋ยวนี้หาหิ่งห้อยดูยากแล้ว",
+            "audio_en_src": "These days fireflies are hard to find."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61218,6 +61351,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "edge of a swimming pool",
+        "sentences": [
+          {
+            "thai": "เด็กๆนั่งห้อยขาอยู่ขอบสระ",
+            "en": "The kids sat dangling their legs at the edge of the pool.",
+            "audio_src": "เด็กๆนั่งห้อยขาอยู่ขอบสระ",
+            "audio_en_src": "The kids sat dangling their legs at the edge of the pool."
+          },
+          {
+            "thai": "อย่าวิ่งเล่นขอบสระ เดี๋ยวลื่น",
+            "en": "Don't run around the edge of the pool, you'll slip.",
+            "audio_src": "อย่าวิ่งเล่นขอบสระ เดี๋ยวลื่น",
+            "audio_en_src": "Don't run around the edge of the pool, you'll slip."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61748,6 +61900,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "vertical, vertically",
+        "sentences": [
+          {
+            "thai": "ตึกนี้มีสวนแนวดิ่งที่ผนัง",
+            "en": "This building has a vertical garden on its wall.",
+            "audio_src": "ตึกนี้มีสวนแนวดิ่งที่ผนัง",
+            "audio_en_src": "This building has a vertical garden on its wall."
+          },
+          {
+            "thai": "หน้าผาสูงชันเป็นแนวดิ่ง",
+            "en": "The cliff drops straight down vertically.",
+            "audio_src": "หน้าผาสูงชันเป็นแนวดิ่ง",
+            "audio_en_src": "The cliff drops straight down vertically."
+          }
+        ]
+      }
     ]
   },
   {
@@ -61788,6 +61959,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "wave",
+        "sentences": [
+          {
+            "thai": "เรือโคลงเพราะลูกคลื่นแรง",
+            "en": "The boat rocked because of the strong waves.",
+            "audio_src": "เรือโคลงเพราะลูกคลื่นแรง",
+            "audio_en_src": "The boat rocked because of the strong waves."
+          },
+          {
+            "thai": "ถนนช่วงนี้เป็นลูกคลื่น ขับดีๆนะ",
+            "en": "This stretch of road is wavy and bumpy, drive carefully.",
+            "audio_src": "ถนนช่วงนี้เป็นลูกคลื่น ขับดีๆนะ",
+            "audio_en_src": "This stretch of road is wavy and bumpy, drive carefully."
+          }
+        ]
+      }
     ]
   },
   {

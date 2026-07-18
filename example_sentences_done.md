@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7754 words**
+**Total: 7764 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1912,19 +1912,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-379` : แกล้งทำ (to pretend, to act as if) : 1 meaning(s), 2 sentences
 - `tamago-l3-381` : สุกี้ (Thai-style hot pot (sukiyaki)) : 1 meaning(s), 2 sentences
 - `tamago-l3-382` : ยาวเหยียด (long (used for a queue, line)) : 1 meaning(s), 2 sentences
+- `tamago-l3-383` : เป็ดย่าง (roasted duck) : 1 meaning(s), 2 sentences
+- `tamago-l3-384` : เห็ดหอม (shiitake mushroom) : 1 meaning(s), 2 sentences
 - `tamago-l3-385` : ทุเรศ (shameful, disgraceful) : 1 meaning(s), 2 sentences
 - `tamago-l3-386` : ค่อยๆ (gradually, slowly, quietly) : 1 meaning(s), 2 sentences
 - `tamago-l3-387` : ทีละเล็กทีละน้อย (bit by bit, little by little) : 1 meaning(s), 2 sentences
 - `tamago-l3-388` : จุก (sharp pain in chest or stomach (tight chest, bloated stomach, etc)) : 1 meaning(s), 2 sentences
+- `tamago-l3-389` : ลูกชิ้นกุ้ง (shrimp balls) : 1 meaning(s), 2 sentences
+- `tamago-l3-390` : เนื้อสไลด์ (sliced beef) : 1 meaning(s), 2 sentences
 - `tamago-l3-391` : จ้องจับผิด (to watch attentively for someone's mistakes, to try to fault them) : 1 meaning(s), 2 sentences
 - `tamago-l3-392` : เข็ด (to learn one's lesson (after a bad experience), to be wary) : 1 meaning(s), 2 sentences
 - `tamago-l3-393` : จะจะ (very obviously, clearly, "right in front of you") : 1 meaning(s), 2 sentences
 - `tamago-l3-394` : กึ่ง (half, semi-) : 1 meaning(s), 2 sentences
+- `tamago-l3-395` : กองตรวจคนเข้าเมือง (immigration office) : 1 meaning(s), 2 sentences
 - `tamago-l3-396` : คร่าวๆ (roughly, approximately) : 1 meaning(s), 2 sentences
 - `tamago-l3-397` : เกี่ยง (to avoid taking responsibility for a task and try to shift it to others) : 1 meaning(s), 2 sentences
 - `tamago-l3-398` : กล่อม (to persuade gently, to soothe; to sing a lullaby) : 2 meaning(s), 4 sentences
 - `tamago-l3-399` : ตื๊อ (to pester, to insist relentlessly in an annoying way) : 1 meaning(s), 2 sentences
 - `tamago-l3-400` : แปลออก (to know the meaning of a foreign word, to be able to translate) : 1 meaning(s), 2 sentences
+- `tamago-l3-401` : สนามบาส (basketball court) : 1 meaning(s), 2 sentences
 - `tamago-l3-402` : รก (messy, untidy, cluttered) : 1 meaning(s), 2 sentences
 - `tamago-l3-403` : อดใจ (to resist the urge, to hold back) : 1 meaning(s), 2 sentences
 - `tamago-l3-404` : อาศัย (to rely on, to depend on; to live in, to reside) : 2 meaning(s), 4 sentences
@@ -1943,12 +1949,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-416` : ยาหม่อง (Thai mentholated balm (e.g tiger balm)) : 1 meaning(s), 2 sentences
 - `tamago-l3-417` : ยอมทำตามแต่โดยดี (to willingly obey without resistance) : 1 meaning(s), 2 sentences
 - `tamago-l3-418` : ไทยแท้ (authentic Thai, truly Thai) : 1 meaning(s), 2 sentences
+- `tamago-l3-419` : หิ่งห้อย (firefly) : 1 meaning(s), 2 sentences
 - `tamago-l3-420` : เรืองแสง (to glow, to emit light) : 1 meaning(s), 2 sentences
 - `tamago-l3-421` : จนแล้วจนรอด (in the end, after all, eventually) : 1 meaning(s), 2 sentences
 - `tamago-l3-422` : อำ (to prank, to trick, to fake, to bluff) : 1 meaning(s), 2 sentences
 - `tamago-l3-423` : เรอ (to burp) : 1 meaning(s), 2 sentences
 - `tamago-l3-424` : กดดัน (to pressure (someone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-425` : ทางอ้อม (indirectly) : 1 meaning(s), 2 sentences
+- `tamago-l3-426` : ขอบสระ (edge of a swimming pool) : 1 meaning(s), 2 sentences
 - `tamago-l3-428` : ท่า (pose, posture; swimming style) : 2 meaning(s), 4 sentences
 - `tamago-l3-429` : อึ้ง (shocked, speechless, stunned) : 1 meaning(s), 2 sentences
 - `tamago-l3-430` : อัฒจันทร์ (grandstand, bleachers, stadium seating) : 1 meaning(s), 2 sentences
@@ -1965,7 +1973,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-441` : ออกนอกเรื่อง (to go off topic, to digress) : 1 meaning(s), 2 sentences
 - `tamago-l3-442` : ล่ม (to sink (a boat), to collapse, to fail (a system, an exam)) : 1 meaning(s), 3 sentences
 - `tamago-l3-443` : ชิด (close, adjacent) : 1 meaning(s), 2 sentences
+- `tamago-l3-445` : แนวดิ่ง (vertical, vertically) : 1 meaning(s), 2 sentences
 - `tamago-l3-446` : ก้ม (to bend down, to bow (head)) : 1 meaning(s), 2 sentences
+- `tamago-l3-447` : ลูกคลื่น (wave) : 1 meaning(s), 2 sentences
 - `tamago-l3-448` : แนบ (to attach, to stick to, to be close next to) : 1 meaning(s), 2 sentences
 - `tamago-l3-449` : กวาด, ปัดกวาด (to sweep) : 1 meaning(s), 2 sentences
 - `tamago-l3-450` : งอ (to bend, to curve) : 1 meaning(s), 2 sentences
