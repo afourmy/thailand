@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8244 words**
+**Total: 8254 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4905,28 +4905,38 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-005` : ตะปูเกลียว (screw, threaded nail) : 1 meaning(s), 2 sentences
 - `yt-c05-006` : สว่าน (drill (the tool)) : 1 meaning(s), 2 sentences
 - `yt-c05-007` : ไขควง (screwdriver) : 1 meaning(s), 2 sentences
+- `yt-c05-008` : คีม (pliers (the tool)) : 1 meaning(s), 2 sentences
 - `yt-c05-009` : ซิงค์, อ่างล้างมือ (sink (e.g kitchen sink)) : 1 meaning(s), 2 sentences
 - `yt-c05-010` : เครื่องพิมพ์ (printer) : 1 meaning(s), 2 sentences
 - `yt-c05-011` : กิ๊บ, กิ๊บติดผม (hair clip, hair pin) : 1 meaning(s), 2 sentences
 - `yt-c05-012` : ฝักบัว (showerhead) : 1 meaning(s), 2 sentences
 - `yt-c05-013` : หมาด (damp, slightly wet, not fully dry yet) : 1 meaning(s), 2 sentences
 - `yt-c05-014` : ระบายสี (to color, to fill with color) : 1 meaning(s), 2 sentences
+- `yt-c05-015` : พู่กัน (paint brush) : 1 meaning(s), 2 sentences
 - `yt-c05-016` : ใบแจ้งหนี้ (invoice) : 1 meaning(s), 2 sentences
 - `yt-c05-018` : รังเกียจ (to loathe, to detest, to be disgusted by) : 1 meaning(s), 2 sentences
+- `yt-c05-019` : ถุย, ถุยน้ำลาย (to spit) : 1 meaning(s), 2 sentences
 - `yt-c05-020` : สไบ (traditional Thai sash worn by women (draped over one shoulder)) : 1 meaning(s), 2 sentences
+- `yt-c05-021` : คนละนิดคนละหน่อย (a little bit each, small amounts from each person, "everyone contributes a little bit") : 1 meaning(s), 2 sentences
+- `yt-c05-022` : จิ๊กซอว์ (jigsaw (puzzle)) : 1 meaning(s), 2 sentences
+- `yt-c05-023` : คำขวัญ (slogan, motto) : 1 meaning(s), 2 sentences
+- `yt-c05-024` : เผ่า, ชนเผ่า (tribe, ethnic group) : 1 meaning(s), 2 sentences
 - `yt-c05-025` : ลือเลื่อง (well-known, renowned, widely talked about) : 1 meaning(s), 2 sentences
 - `yt-c05-027` : ผงซักผ้า (laundry detergent (powder)) : 1 meaning(s), 2 sentences
 - `yt-c05-028` : น้ำยาซักผ้า (laundry detergent (liquid)) : 1 meaning(s), 2 sentences
 - `yt-c05-029` : น้ำยาปรับผ้านุ่ม (fabric softener) : 1 meaning(s), 2 sentences
 - `yt-c05-030` : ไม้แขวนเสื้อ (clothes hanger) : 1 meaning(s), 2 sentences
 - `yt-c05-031` : กิ๊บหนีบเสื้อ (clothes pin, clothes clip) : 1 meaning(s), 2 sentences
+- `yt-c05-032` : ราวหนีบผ้า (drying rack with clips) : 1 meaning(s), 2 sentences
 - `yt-c05-033` : ราวตากผ้า (drying rack) : 1 meaning(s), 2 sentences
 - `yt-c05-034` : กะละมัง (basin, tub) : 1 meaning(s), 2 sentences
+- `yt-c05-035` : ตีฟอง (to whip up foam, to make bubbles by mixing) : 1 meaning(s), 2 sentences
 - `yt-c05-036` : ขยี้ (to rub, to crush, to scrub (repeated movement)) : 1 meaning(s), 2 sentences
 - `yt-c05-037` : ย้วย (floppy, saggy, lacking firmness or stiffness) : 1 meaning(s), 2 sentences
 - `yt-c05-038` : สะบัด (to flick, to shake off) : 1 meaning(s), 2 sentences
 - `yt-c05-039` : สะกิด (to provoke, to poke, to nudge) : 1 meaning(s), 2 sentences
 - `yt-c05-040` : ฝาน (to slice thinly) : 1 meaning(s), 2 sentences
+- `yt-c05-042` : ขั้ว (pole, polarity, extremity, opposite end) : 1 meaning(s), 2 sentences
 - `yt-c05-046` : ที่คั่นหนังสือ (bookmark) : 1 meaning(s), 2 sentences
 - `yt-c05-048` : เขลา (ignorant, unintelligent, unwise (literary)) : 1 meaning(s), 2 sentences
 - `yt-c05-049` : บริวาร (attendant, servant) : 1 meaning(s), 2 sentences
