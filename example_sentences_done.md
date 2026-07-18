@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7343 words**
+**Total: 7353 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -253,19 +253,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-106` : กราบ (to prostrate oneself, to bow deeply (in reverence)) : 1 meaning(s), 2 sentences
 - `chula-l5-107` : มงคล, สิริมงคล (blessed, auspicious) : 1 meaning(s), 2 sentences
 - `chula-l5-108` : กระซิบ (to whisper) : 1 meaning(s), 2 sentences
+- `chula-l5-109` : จิตรกรรม (painting (art)) : 1 meaning(s), 2 sentences
+- `chula-l5-110` : ความเป็นอยู่ (livelihood, living conditions, way of life) : 1 meaning(s), 2 sentences
 - `chula-l5-111` : นาค (Naga (mythological serpent deity)) : 1 meaning(s), 2 sentences
 - `chula-l5-112` : ขั้น (step (stairs, process)) : 1 meaning(s), 2 sentences
+- `chula-l5-113` : ผ้าทอ (woven fabric) : 1 meaning(s), 2 sentences
 - `chula-l5-114` : นา, ทุ่งนา (rice field) : 1 meaning(s), 2 sentences
+- `chula-l5-115` : ฟิน (thrilled, very happy, totally satisfied (slang)) : 1 meaning(s), 2 sentences
 - `chula-l5-116` : หลงรัก (infatuated, deeply in love) : 1 meaning(s), 2 sentences
 - `chula-l5-117` : ยอด (peak, summit, top; total; sprout, tip of plant stem; excellent, great) : 4 meaning(s), 8 sentences
 - `chula-l5-118` : จิบ (to sip) : 1 meaning(s), 2 sentences
+- `chula-l5-119` : ล้อมรอบ (to surround, to encircle) : 1 meaning(s), 2 sentences
 - `chula-l5-120` : โด่งดัง, ชื่อดัง, มีชื่อเสียง (famous) : 1 meaning(s), 2 sentences
 - `chula-l5-121` : เลิศ (excellent) : 1 meaning(s), 2 sentences
+- `chula-l5-122` : โดนใจ (to be to one's liking, to appeal to) : 1 meaning(s), 2 sentences
+- `chula-l5-124` : ของคาว (savory food, non-sweet food (meat or fish dishes)) : 1 meaning(s), 2 sentences
 - `chula-l5-126` : หยาบคาย (rude) : 1 meaning(s), 2 sentences
 - `chula-l5-127` : จริงจัง (seriously, for real) : 1 meaning(s), 2 sentences
+- `chula-l5-128` : เว่อร์ (over-the-top, exaggerated, to exaggerate (slang)) : 1 meaning(s), 2 sentences
+- `chula-l5-129` : โคตร (very (slang)) : 1 meaning(s), 2 sentences
 - `chula-l5-130` : รับรอง, รับประกัน (to assure, to guarantee) : 1 meaning(s), 2 sentences
 - `chula-l5-131` : ยกตัวอย่าง (to give an example) : 1 meaning(s), 2 sentences
 - `chula-l5-132` : โดดเด่น (to stand out, outstanding) : 1 meaning(s), 2 sentences
+- `chula-l5-133` : จัดแสดง (to exhibit, to show) : 1 meaning(s), 2 sentences
 - `chula-l5-136` : บรรทุก (to load, to carry) : 1 meaning(s), 2 sentences
 - `chula-l5-138` : พลิก (to flip, to turn over) : 1 meaning(s), 2 sentences
 - `chula-l5-140` : กระจาย (to scatter) : 1 meaning(s), 2 sentences

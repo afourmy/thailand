@@ -7754,6 +7754,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "painting (art)",
+        "sentences": [
+          {
+            "thai": "ผนังโบสถ์มีจิตรกรรมฝาผนังเก่าแก่",
+            "en": "The temple walls have ancient murals.",
+            "audio_src": "ผนังโบสถ์มีจิตรกรรมฝาผนังเก่าแก่",
+            "audio_en_src": "The temple walls have ancient murals."
+          },
+          {
+            "thai": "เขาเรียนสาขาจิตรกรรมที่มหาวิทยาลัย",
+            "en": "She's majoring in painting at university.",
+            "audio_src": "เขาเรียนสาขาจิตรกรรมที่มหาวิทยาลัย",
+            "audio_en_src": "She's majoring in painting at university."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7764,6 +7783,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "livelihood, living conditions, way of life",
+        "sentences": [
+          {
+            "thai": "รัฐบาลพยายามยกระดับความเป็นอยู่ของประชาชน",
+            "en": "The government is trying to improve people's living conditions.",
+            "audio_src": "รัฐบาลพยายามยกระดับความเป็นอยู่ของประชาชน",
+            "audio_en_src": "The government is trying to improve people's living conditions."
+          },
+          {
+            "thai": "แม่โทรมาถามเรื่องความเป็นอยู่ที่ต่างประเทศ",
+            "en": "Mom calls to ask about how I'm getting on abroad.",
+            "audio_src": "แม่โทรมาถามเรื่องความเป็นอยู่ที่ต่างประเทศ",
+            "audio_en_src": "Mom calls to ask about how I'm getting on abroad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7835,6 +7873,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "woven fabric",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านนี้ขึ้นชื่อเรื่องผ้าทอมือ",
+            "en": "This village is famous for its hand-woven fabric.",
+            "audio_src": "หมู่บ้านนี้ขึ้นชื่อเรื่องผ้าทอมือ",
+            "audio_en_src": "This village is famous for its hand-woven fabric."
+          },
+          {
+            "thai": "เขาซื้อผ้าทอพื้นเมืองมาฝากแม่",
+            "en": "She bought local woven fabric as a gift for her mom.",
+            "audio_src": "เขาซื้อผ้าทอพื้นเมืองมาฝากแม่",
+            "audio_en_src": "She bought local woven fabric as a gift for her mom."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7876,6 +7933,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "thrilled, very happy, totally satisfied (slang)",
+        "sentences": [
+          {
+            "thai": "กินชาบูอิ่มมาก ฟินสุดๆ",
+            "en": "I'm so stuffed from shabu, absolute bliss.",
+            "audio_src": "กินชาบูอิ่มมาก ฟินสุดๆ",
+            "audio_en_src": "I'm so stuffed from shabu, absolute bliss."
+          },
+          {
+            "thai": "นั่งกินกาแฟริมทะเล ฟินมาก",
+            "en": "Coffee by the sea, it doesn't get better than that.",
+            "audio_src": "นั่งกินกาแฟริมทะเล ฟินมาก",
+            "audio_en_src": "Coffee by the sea, it doesn't get better than that."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8027,6 +8103,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to surround, to encircle",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้มีต้นไม้ล้อมรอบ",
+            "en": "The house is surrounded by trees.",
+            "audio_src": "บ้านหลังนี้มีต้นไม้ล้อมรอบ",
+            "audio_en_src": "The house is surrounded by trees."
+          },
+          {
+            "thai": "แฟนคลับล้อมรอบนักร้องตอนออกจากงาน",
+            "en": "Fans surrounded the singer as she left the event.",
+            "audio_src": "แฟนคลับล้อมรอบนักร้องตอนออกจากงาน",
+            "audio_en_src": "Fans surrounded the singer as she left the event."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8105,6 +8200,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to be to one's liking, to appeal to",
+        "sentences": [
+          {
+            "thai": "เพลงใหม่ของวงนี้โดนใจวัยรุ่นมาก",
+            "en": "This band's new song really appeals to teenagers.",
+            "audio_src": "เพลงใหม่ของวงนี้โดนใจวัยรุ่นมาก",
+            "audio_en_src": "This band's new song really appeals to teenagers."
+          },
+          {
+            "thai": "ร้านนี้มีเมนูโดนใจฉันหลายอย่าง",
+            "en": "This restaurant has a lot of dishes that are right up my alley.",
+            "audio_src": "ร้านนี้มีเมนูโดนใจฉันหลายอย่าง",
+            "audio_en_src": "This restaurant has a lot of dishes that are right up my alley."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8114,6 +8228,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "savory food, non-sweet food (meat or fish dishes)",
+        "sentences": [
+          {
+            "thai": "กินของคาวก่อน แล้วค่อยกินของหวาน",
+            "en": "Eat the savory food first, then dessert.",
+            "audio_src": "กินของคาวก่อน แล้วค่อยกินของหวาน",
+            "audio_en_src": "Eat the savory food first, then dessert."
+          },
+          {
+            "thai": "ในงานมีทั้งของคาวและของหวาน",
+            "en": "At the event there was both savory food and dessert.",
+            "audio_src": "ในงานมีทั้งของคาวและของหวาน",
+            "audio_en_src": "At the event there was both savory food and dessert."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8183,6 +8316,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "over-the-top, exaggerated, to exaggerate (slang)",
+        "sentences": [
+          {
+            "thai": "อย่าเว่อร์ไปหน่อยเลย แผลนิดเดียวเอง",
+            "en": "Don't be so dramatic, it's just a little cut.",
+            "audio_src": "อย่าเว่อร์ไปหน่อยเลย แผลนิดเดียวเอง",
+            "audio_en_src": "Don't be so dramatic, it's just a little cut."
+          },
+          {
+            "thai": "เขาเล่าเรื่องเว่อร์เกินจริงตลอด",
+            "en": "He always tells stories that are way over the top.",
+            "audio_src": "เขาเล่าเรื่องเว่อร์เกินจริงตลอด",
+            "audio_en_src": "He always tells stories that are way over the top."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8194,6 +8346,25 @@
       "Chulalongkorn L5",
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "very (slang)",
+        "sentences": [
+          {
+            "thai": "ร้านนี้โคตรอร่อย",
+            "en": "This place is insanely good.",
+            "audio_src": "ร้านนี้โคตรอร่อย",
+            "audio_en_src": "This place is insanely good."
+          },
+          {
+            "thai": "วันนี้อากาศโคตรร้อน",
+            "en": "It's stupid hot today.",
+            "audio_src": "วันนี้อากาศโคตรร้อน",
+            "audio_en_src": "It's stupid hot today."
+          }
+        ]
+      }
     ]
   },
   {
@@ -8297,6 +8468,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to exhibit, to show",
+        "sentences": [
+          {
+            "thai": "พิพิธภัณฑ์จัดแสดงของเก่าหายาก",
+            "en": "The museum exhibits rare antiques.",
+            "audio_src": "พิพิธภัณฑ์จัดแสดงของเก่าหายาก",
+            "audio_en_src": "The museum exhibits rare antiques."
+          },
+          {
+            "thai": "ภาพวาดของเขาถูกนำไปจัดแสดงที่ต่างประเทศ",
+            "en": "His paintings were exhibited abroad.",
+            "audio_src": "ภาพวาดของเขาถูกนำไปจัดแสดงที่ต่างประเทศ",
+            "audio_en_src": "His paintings were exhibited abroad."
+          }
+        ]
+      }
     ]
   },
   {
