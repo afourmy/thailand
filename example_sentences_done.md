@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7884 words**
+**Total: 7894 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2696,22 +2696,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-345` : เจ็บไข้ได้ป่วย (to fall ill, to get sick (idiomatic)) : 1 meaning(s), 2 sentences
 - `tsl-347` : คาถาอาคม (magic spell, magical incantation) : 1 meaning(s), 2 sentences
 - `tsl-348` : เม็ดพลอย (gemstone) : 1 meaning(s), 2 sentences
+- `tsl-349` : วางมาด (to put on airs, to act superior, to strike a pose) : 1 meaning(s), 2 sentences
 - `tsl-350` : ทันใดนั้น (suddenly, all of a sudden (literary)) : 1 meaning(s), 2 sentences
+- `tsl-351` : วาววับ (shiny, brilliant, glittering, sparkling) : 1 meaning(s), 2 sentences
+- `tsl-352` : ข้า (I, me (royal, or used jokingly)) : 1 meaning(s), 2 sentences
 - `tsl-353` : จิก (to peck (bird)) : 1 meaning(s), 2 sentences
 - `tsl-354` : ทรัพย์สมบัติ (assets, property, wealth) : 1 meaning(s), 2 sentences
+- `tsl-355` : ระยิบระยับ (twinkling, sparkling, glittering (many small flashes of light)) : 1 meaning(s), 2 sentences
 - `tsl-356` : ความเย่อหยิ่ง (arrogance, haughtiness, excessive pride) : 1 meaning(s), 2 sentences
 - `tsl-357` : ความฟุ้งเฟ้อ (extravagance, wasteful luxury, excessive spending) : 1 meaning(s), 2 sentences
+- `tsl-358` : เพชรพลอย (gems, jewels) : 1 meaning(s), 2 sentences
 - `tsl-359` : สาระสำคัญ (main point, gist, crux (of a story)) : 1 meaning(s), 2 sentences
+- `tsl-360` : ข่า (galangal (similar to ginger)) : 1 meaning(s), 2 sentences
 - `tsl-361` : ขิง (ginger) : 1 meaning(s), 2 sentences
+- `tsl-362` : แมงลัก (lemon basil) : 1 meaning(s), 2 sentences
+- `tsl-363` : กระชาย (fingerroot (Thai spice)) : 1 meaning(s), 2 sentences
 - `tsl-365` : คิดค้น (to invent, to devise, to come up with something new) : 1 meaning(s), 2 sentences
 - `tsl-366` : ต้นไม้ใบหญ้า (flora, "all plants and vegetation" (literary)) : 1 meaning(s), 2 sentences
 - `tsl-367` : ยาสูบ (tobacco) : 1 meaning(s), 2 sentences
 - `tsl-368` : แผนการ (plan, project, scheme) : 1 meaning(s), 2 sentences
 - `tsl-369` : บทบัญญัติ (clause, statute, provision (formal, legal)) : 1 meaning(s), 2 sentences
+- `tsl-370` : ยื่นฟ้อง, ยื่นฟ้องร้อง (to file a lawsuit) : 1 meaning(s), 2 sentences
 - `tsl-372` : เสรีภาพในการแสดงออก (freedom of expression) : 1 meaning(s), 2 sentences
 - `tsl-373` : สูด (to inhale, to breathe in) : 1 meaning(s), 2 sentences
 - `tsl-374` : ลมหายใจ (breath) : 1 meaning(s), 2 sentences
 - `tsl-375` : แปลกปลอม (foreign, out-of-place, alien) : 1 meaning(s), 2 sentences
+- `tsl-376` : ไวไฟ (flammable) : 1 meaning(s), 2 sentences
 - `tsl-380` : กาลเทศะ (sense of appropriate time and place, propriety) : 1 meaning(s), 2 sentences
 - `tsl-381` : ผลการเรียน (academic results, grades, transcript) : 1 meaning(s), 2 sentences
 - `tsl-382` : แซง (to overtake (a vehicle in traffic)) : 1 meaning(s), 2 sentences
