@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7924 words**
+**Total: 7934 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2807,18 +2807,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-462` : รับรู้ (to recognize, to acknowledge, to perceive, to be aware of) : 1 meaning(s), 2 sentences
 - `tsl-463` : ท่อง (to recite, to memorize; to roam, to travel, to wander) : 2 meaning(s), 4 sentences
 - `tsl-464` : ภาพหลอน (hallucinations) : 1 meaning(s), 2 sentences
+- `tsl-465` : เคลิ้มหลับ (to drift off to sleep, to doze off) : 1 meaning(s), 2 sentences
+- `tsl-466` : ขยับเขยื้อน (to budge, to make a move (often when something won't move)) : 1 meaning(s), 2 sentences
+- `tsl-467` : เปล่งเสียง (to emit a sound, to produce a sound) : 1 meaning(s), 2 sentences
 - `tsl-468` : ภาพเสมือน (virtual image, illusion) : 1 meaning(s), 2 sentences
 - `tsl-469` : โรคลมหลับ (narcolepsy (sudden sleep attacks)) : 1 meaning(s), 2 sentences
+- `tsl-470` : ว่าว (kite) : 1 meaning(s), 2 sentences
+- `new-39` : เป็นหางว่าว ((idiom) a long string, a series of things) : 1 meaning(s), 2 sentences
 - `tsl-471` : ประภาคาร (lighthouse) : 1 meaning(s), 2 sentences
 - `tsl-472` : บึง (swamp, marsh) : 1 meaning(s), 2 sentences
+- `tsl-473` : ผึ่ง (to air out, to air-dry, to be exposed to air, sun) : 1 meaning(s), 2 sentences
 - `tsl-474` : ซาบซึ้ง, ซาบซึ้งใจ (deeply appreciative, moved, touched, grateful (formal)) : 1 meaning(s), 2 sentences
 - `tsl-475` : สันติ (peace, tranquility) : 1 meaning(s), 2 sentences
 - `tsl-476` : โรคสมาธิสั้น (ADHD) : 1 meaning(s), 2 sentences
+- `tsl-477` : ปลีก (to withdraw, to break away, to separate, to slip away) : 1 meaning(s), 2 sentences
+- `new-38` : ปลีกตัว (to withdraw oneself, to quietly remove oneself) : 1 meaning(s), 2 sentences
 - `tsl-478` : แออัด (crowded, packed, congested) : 1 meaning(s), 2 sentences
 - `tsl-479` : รอบคอบ (careful, cautious, thorough) : 1 meaning(s), 2 sentences
 - `tsl-481` : บอกลา (to say goodbye, to bid farewell) : 1 meaning(s), 2 sentences
 - `tsl-482` : ล้าสมัย (outdated, obsolete) : 1 meaning(s), 2 sentences
 - `tsl-483` : ทิ้งขว้าง (to abandon, to discard, to throw away carelessly) : 1 meaning(s), 2 sentences
+- `tsl-484` : เปลี่ยว (lonely, desolate, isolated (place or feeling)) : 1 meaning(s), 2 sentences
 - `tsl-485` : ภัยร้าย (danger, peril, serious threat) : 1 meaning(s), 2 sentences
 - `tsl-487` : สุงสิง (to hang out with, to mingle with, to be close to) : 1 meaning(s), 2 sentences
 - `tsl-488` : ขุดคุ้ย (to dig up; (figuratively) to dig into (data, past)) : 2 meaning(s), 4 sentences
@@ -2838,6 +2847,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-503` : งอก (to sprout, to germinate) : 1 meaning(s), 2 sentences
 - `tsl-504` : เพาะ (to cultivate, to breed, to implant) : 1 meaning(s), 2 sentences
 - `tsl-505` : เมตตากรุณา (kindness and compassion) : 1 meaning(s), 2 sentences
+- `tsl-506` : ไส้เดือน (earthworm) : 1 meaning(s), 2 sentences
 - `tsl-507` : ผสมพันธุ์ (to mate, to reproduce) : 1 meaning(s), 2 sentences
 - `tsl-508` : เหงือก (gums (mouth); gills (fish)) : 2 meaning(s), 4 sentences
 - `tsl-510` : ต้อนวัว (to herd cattle) : 1 meaning(s), 2 sentences
