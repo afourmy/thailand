@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7654 words**
+**Total: 7664 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1262,6 +1262,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-386` : ลู่วิ่ง (treadmill) : 1 meaning(s), 2 sentences
 - `tamago-l12-387` : ล่าสุด (most recent, latest) : 1 meaning(s), 2 sentences
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
+- `tamago-l12-389` : วงเล็บ (parenthesis, bracket) : 1 meaning(s), 2 sentences
 - `tamago-l12-390` : วันก่อน (the other day) : 1 meaning(s), 2 sentences
 - `tamago-l12-391` : วันครบรอบ (anniversary) : 1 meaning(s), 2 sentences
 - `tamago-l12-392` : วันธรรมดา (weekday) : 1 meaning(s), 2 sentences
@@ -1269,6 +1270,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-394` : วันรับปริญญา (graduation day) : 1 meaning(s), 2 sentences
 - `tamago-l12-395` : วันหยุดราชการ, วันหยุดนักขัตฤกษ์ (public holiday) : 1 meaning(s), 2 sentences
 - `tamago-l12-396` : วิชา (subject, field of study) : 1 meaning(s), 2 sentences
+- `tamago-l12-397` : วิชาการ (academic, scholarly) : 1 meaning(s), 2 sentences
+- `tamago-l12-398` : วิศวกรรมศาสตร์ (engineering (academic field)) : 1 meaning(s), 2 sentences
 - `tamago-l12-399` : วิเศษ (magic, extraordinary, wonderful) : 1 meaning(s), 2 sentences
 - `tamago-l12-400` : วิ่งผ่าน (to pass through (running, driving)) : 1 meaning(s), 2 sentences
 - `tamago-l12-401` : วี่แวว (indication, faint sign, hint that something is happening) : 1 meaning(s), 2 sentences
@@ -1277,7 +1280,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-404` : ว่าแล้ว(เชียว) ("I knew it!", "just as I thought") : 1 meaning(s), 2 sentences
 - `tamago-l12-405` : ศาสนา (religion) : 1 meaning(s), 2 sentences
 - `tamago-l12-406` : ศิลปกรรมศาสตร์ (fine arts (academic field)) : 1 meaning(s), 2 sentences
+- `tamago-l12-407` : สก็อตเทป (scotch tape, adhesive tape) : 1 meaning(s), 2 sentences
 - `tamago-l12-409` : สถานทูต (embassy) : 1 meaning(s), 2 sentences
+- `tamago-l12-410` : สถานบำบัด (rehabilitation centre, rehab) : 1 meaning(s), 2 sentences
+- `tamago-l12-411` : สถาปัตยกรรม (architecture) : 1 meaning(s), 2 sentences
+- `tamago-l12-412` : สถาปัตยกรรมศาสตร์ (architecture (academic field)) : 1 meaning(s), 2 sentences
 - `tamago-l12-413` : สนใจเรียน (to pay attention in class) : 1 meaning(s), 2 sentences
 - `tamago-l12-414` : สมควร (appropriate, suitable; to deserve, worthy) : 2 meaning(s), 4 sentences
 - `tamago-l12-415` : สระ (to wash, to shampoo; vowel; pool, pond) : 3 meaning(s), 6 sentences
@@ -1291,11 +1298,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-423` : สัตวแพทย์ (veterinarian) : 1 meaning(s), 2 sentences
 - `tamago-l12-424` : สัตว์แปลก (exotic animal) : 1 meaning(s), 2 sentences
 - `tamago-l12-425` : สาดน้ำใส่ (to splash water on) : 1 meaning(s), 2 sentences
+- `tamago-l12-426` : สามล้อ (tricycle, three-wheeler (e.g samlor)) : 1 meaning(s), 2 sentences
 - `tamago-l12-427` : สาย (line, route (e.g bus/subway)) : 1 meaning(s), 2 sentences
+- `tamago-l12-428` : สำลี (cotton wool, cotton ball) : 1 meaning(s), 2 sentences
 - `tamago-l12-429` : สเปรย์ (ระงับกลิ่นกาย) (spray deodorant) : 1 meaning(s), 2 sentences
 - `tamago-l12-430` : ส่ง (to send; to drop someone off) : 2 meaning(s), 4 sentences
 - `tamago-l12-431` : ส้นเท้า (heel (back part of the foot)) : 1 meaning(s), 2 sentences
 - `tamago-l12-432` : ส้อม (fork) : 1 meaning(s), 2 sentences
+- `tamago-l12-433` : หงส์ (swan) : 1 meaning(s), 2 sentences
 - `tamago-l12-434` : หนังสือเรียน (textbook) : 1 meaning(s), 2 sentences
 - `tamago-l12-435` : หนา (thick) : 1 meaning(s), 2 sentences
 - `tamago-l12-437` : หน้าตา (face, appearance, looks) : 1 meaning(s), 2 sentences
