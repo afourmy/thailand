@@ -11303,6 +11303,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "only when",
+        "sentences": [
+          {
+            "thai": "เขาจะโทรมาก็ต่อเมื่อต้องการเงิน",
+            "en": "He only calls when he needs money.",
+            "audio_src": "เขาจะโทรมาก็ต่อเมื่อต้องการเงิน",
+            "audio_en_src": "He only calls when he needs money."
+          },
+          {
+            "thai": "ยานี้จะได้ผลก็ต่อเมื่อกินติดต่อกันทุกวัน",
+            "en": "This medicine only works if you take it every day without skipping.",
+            "audio_src": "ยานี้จะได้ผลก็ต่อเมื่อกินติดต่อกันทุกวัน",
+            "audio_en_src": "This medicine only works if you take it every day without skipping."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11312,6 +11331,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to spread, to escalate",
+        "sentences": [
+          {
+            "thai": "ไฟลุกลามไปทั้งตลาดในไม่กี่นาที",
+            "en": "The fire spread through the whole market in minutes.",
+            "audio_src": "ไฟลุกลามไปทั้งตลาดในไม่กี่นาที",
+            "audio_en_src": "The fire spread through the whole market in minutes."
+          },
+          {
+            "thai": "อย่าปล่อยให้เรื่องเล็กลุกลามเป็นเรื่องใหญ่",
+            "en": "Don't let a small issue escalate into a big one.",
+            "audio_src": "อย่าปล่อยให้เรื่องเล็กลุกลามเป็นเรื่องใหญ่",
+            "audio_en_src": "Don't let a small issue escalate into a big one."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11321,6 +11359,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "as appropriate, \"as it should be\"",
+        "sentences": [
+          {
+            "thai": "ยอดขายปีนี้ไม่ดีเท่าที่ควร",
+            "en": "Sales this year weren't as good as they should be.",
+            "audio_src": "ยอดขายปีนี้ไม่ดีเท่าที่ควร",
+            "audio_en_src": "Sales this year weren't as good as they should be."
+          },
+          {
+            "thai": "เขายังไม่ตั้งใจเรียนเท่าที่ควร",
+            "en": "He's not studying as hard as he should.",
+            "audio_src": "เขายังไม่ตั้งใจเรียนเท่าที่ควร",
+            "audio_en_src": "He's not studying as hard as he should."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11392,6 +11449,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "mucus, nasal discharge",
+        "sentences": [
+          {
+            "thai": "ลูกมีน้ำมูกสีเขียว ต้องพาไปหาหมอ",
+            "en": "The kid has green snot, we should take him to the doctor.",
+            "audio_src": "ลูกมีน้ำมูกสีเขียว ต้องพาไปหาหมอ",
+            "audio_en_src": "The kid has green snot, we should take him to the doctor."
+          },
+          {
+            "thai": "ถ่ายมีมูกปน ควรไปตรวจ",
+            "en": "If there's mucus in your stool, you should get checked.",
+            "audio_src": "ถ่ายมีมูกปน ควรไปตรวจ",
+            "audio_en_src": "If there's mucus in your stool, you should get checked."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11465,6 +11541,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "feeling full, stuffed stomach",
+        "sentences": [
+          {
+            "thai": "กินบุฟเฟ่ต์มาแน่นท้องมาก",
+            "en": "I'm so stuffed from the buffet.",
+            "audio_src": "กินบุฟเฟ่ต์มาแน่นท้องมาก",
+            "audio_en_src": "I'm so stuffed from the buffet."
+          },
+          {
+            "thai": "กินเสร็จอย่าเพิ่งนอน เดี๋ยวแน่นท้อง",
+            "en": "Don't lie down right after eating, you'll feel bloated.",
+            "audio_src": "กินเสร็จอย่าเพิ่งนอน เดี๋ยวแน่นท้อง",
+            "audio_en_src": "Don't lie down right after eating, you'll feel bloated."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11475,6 +11570,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "bloated stomach, to have flatulence",
+        "sentences": [
+          {
+            "thai": "กินถั่วเยอะแล้วท้องอืด",
+            "en": "Eating a lot of beans makes me bloated.",
+            "audio_src": "กินถั่วเยอะแล้วท้องอืด",
+            "audio_en_src": "Eating a lot of beans makes me bloated."
+          },
+          {
+            "thai": "ท้องอืดแบบนี้ ลองกินยาขับลมดู",
+            "en": "If you're bloated like that, try taking some gas relief medicine.",
+            "audio_src": "ท้องอืดแบบนี้ ลองกินยาขับลมดู",
+            "audio_en_src": "If you're bloated like that, try taking some gas relief medicine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11484,6 +11598,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "stomach cramp, sharp abdominal pain",
+        "sentences": [
+          {
+            "thai": "กินเผ็ดมากแล้วจุกเสียดท้อง",
+            "en": "Eating really spicy food gives me sharp stomach pains.",
+            "audio_src": "กินเผ็ดมากแล้วจุกเสียดท้อง",
+            "audio_en_src": "Eating really spicy food gives me sharp stomach pains."
+          },
+          {
+            "thai": "เขามีอาการจุกเสียดแน่นหน้าอก",
+            "en": "He has a cramping, tight feeling in his chest.",
+            "audio_src": "เขามีอาการจุกเสียดแน่นหน้าอก",
+            "audio_en_src": "He has a cramping, tight feeling in his chest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11493,6 +11626,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to screen, screening (e.g health check, security)",
+        "sentences": [
+          {
+            "thai": "โรงพยาบาลตรวจคัดกรองมะเร็งฟรีปีละครั้ง",
+            "en": "The hospital offers free cancer screening once a year.",
+            "audio_src": "โรงพยาบาลตรวจคัดกรองมะเร็งฟรีปีละครั้ง",
+            "audio_en_src": "The hospital offers free cancer screening once a year."
+          },
+          {
+            "thai": "สนามบินมีจุดคัดกรองผู้โดยสาร",
+            "en": "The airport has passenger screening points.",
+            "audio_src": "สนามบินมีจุดคัดกรองผู้โดยสาร",
+            "audio_en_src": "The airport has passenger screening points."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11504,6 +11656,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hidden, concealed, disguised",
+        "sentences": [
+          {
+            "thai": "โฆษณานี้มีเนื้อหาแฝงอยู่",
+            "en": "This ad has a hidden message.",
+            "audio_src": "โฆษณานี้มีเนื้อหาแฝงอยู่",
+            "audio_en_src": "This ad has a hidden message."
+          },
+          {
+            "thai": "น้ำผลไม้บางยี่ห้อมีน้ำตาลแฝงเยอะ",
+            "en": "Some brands of fruit juice have a lot of hidden sugar.",
+            "audio_src": "น้ำผลไม้บางยี่ห้อมีน้ำตาลแฝงเยอะ",
+            "audio_en_src": "Some brands of fruit juice have a lot of hidden sugar."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11513,6 +11684,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to use a scope (e.g camera, telescope, endoscopy, etc)",
+        "sentences": [
+          {
+            "thai": "หมอนัดส่องกล้องกระเพาะอาหารอาทิตย์หน้า",
+            "en": "The doctor scheduled a stomach endoscopy for next week.",
+            "audio_src": "หมอนัดส่องกล้องกระเพาะอาหารอาทิตย์หน้า",
+            "audio_en_src": "The doctor scheduled a stomach endoscopy for next week."
+          },
+          {
+            "thai": "เราไปส่องกล้องดูนกกันที่อุทยาน",
+            "en": "We went birdwatching with binoculars at the national park.",
+            "audio_src": "เราไปส่องกล้องดูนกกันที่อุทยาน",
+            "audio_en_src": "We went birdwatching with binoculars at the national park."
+          }
+        ]
+      }
     ]
   },
   {

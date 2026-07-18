@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7403 words**
+**Total: 7413 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -367,10 +367,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-229` : ตลอดจน (including, as well as) : 1 meaning(s), 2 sentences
 - `chula-l5-230` : ประวัติ (history, background, record) : 1 meaning(s), 2 sentences
 - `chula-l5-231` : ติ่งเนื้อ (skin tag, benign growth of skin, polyp) : 1 meaning(s), 2 sentences
+- `chula-l5-232` : ก็ต่อเมื่อ (only when) : 1 meaning(s), 2 sentences
+- `chula-l5-233` : ลุกลาม (to spread, to escalate) : 1 meaning(s), 2 sentences
+- `chula-l5-234` : เท่าที่ควร (as appropriate, "as it should be") : 1 meaning(s), 2 sentences
 - `chula-l5-235` : ท้องผูก (constipation) : 1 meaning(s), 2 sentences
 - `chula-l5-236` : สลับ (to swap, to switch) : 1 meaning(s), 2 sentences
+- `chula-l5-238` : มูก (mucus, nasal discharge) : 1 meaning(s), 2 sentences
 - `chula-l5-239` : หัวข้อ (topic) : 1 meaning(s), 2 sentences
 - `chula-l5-240` : ปน (to mix, to blend, to mingle) : 1 meaning(s), 2 sentences
+- `chula-l5-241` : แน่นท้อง (feeling full, stuffed stomach) : 1 meaning(s), 2 sentences
+- `chula-l5-242` : ท้องอืด (bloated stomach, to have flatulence) : 1 meaning(s), 2 sentences
+- `chula-l5-243` : จุกเสียด (stomach cramp, sharp abdominal pain) : 1 meaning(s), 2 sentences
+- `chula-l5-244` : คัดกรอง (to screen, screening (e.g health check, security)) : 1 meaning(s), 2 sentences
+- `chula-l5-245` : แฝง (hidden, concealed, disguised) : 1 meaning(s), 2 sentences
+- `chula-l5-246` : ส่องกล้อง (to use a scope (e.g camera, telescope, endoscopy, etc)) : 1 meaning(s), 2 sentences
 - `chula-l5-247` : กรณี (case) : 1 meaning(s), 2 sentences
 - `chula-l5-249` : เชื้อ, เชื้อโรค (germ, pathogen) : 1 meaning(s), 2 sentences
 - `chula-l5-251` : ไวรัส (virus) : 1 meaning(s), 2 sentences
