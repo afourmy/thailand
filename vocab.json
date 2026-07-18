@@ -83075,6 +83075,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "booth, stall (e.g voting booth)",
+        "sentences": [
+          {
+            "thai": "เข้าคูหาแล้วกาเบอร์ที่ชอบ",
+            "en": "Go into the booth and mark the number you want.",
+            "audio_src": "เข้าคูหาแล้วกาเบอร์ที่ชอบ",
+            "audio_en_src": "Go into the booth and mark the number you want."
+          },
+          {
+            "thai": "ห้ามถ่ายรูปในคูหาเลือกตั้ง",
+            "en": "Photos aren't allowed in the voting booth.",
+            "audio_src": "ห้ามถ่ายรูปในคูหาเลือกตั้ง",
+            "audio_en_src": "Photos aren't allowed in the voting booth."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83165,6 +83184,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to complain, to grumble, to reproach (often emotionally)",
+        "sentences": [
+          {
+            "thai": "เธอตัดพ้อว่าเขาไม่มีเวลาให้",
+            "en": "She complained that he never has time for her.",
+            "audio_src": "เธอตัดพ้อว่าเขาไม่มีเวลาให้",
+            "audio_en_src": "She complained that he never has time for her."
+          },
+          {
+            "thai": "แม่ตัดพ้อที่ลูกไม่ค่อยโทรหา",
+            "en": "Mom grumbled that the kids hardly ever call.",
+            "audio_src": "แม่ตัดพ้อที่ลูกไม่ค่อยโทรหา",
+            "audio_en_src": "Mom grumbled that the kids hardly ever call."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83174,6 +83212,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "miscellaneous, sundry, various small items",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายของเบ็ดเตล็ดสารพัด",
+            "en": "This shop sells all sorts of odds and ends.",
+            "audio_src": "ร้านนี้ขายของเบ็ดเตล็ดสารพัด",
+            "audio_en_src": "This shop sells all sorts of odds and ends."
+          },
+          {
+            "thai": "ค่าใช้จ่ายเบ็ดเตล็ดเดือนนี้เยอะผิดปกติ",
+            "en": "Miscellaneous expenses are unusually high this month.",
+            "audio_src": "ค่าใช้จ่ายเบ็ดเตล็ดเดือนนี้เยอะผิดปกติ",
+            "audio_en_src": "Miscellaneous expenses are unusually high this month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83309,6 +83366,25 @@
       "TSL Chiang Mai",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "furniture (formal)",
+        "sentences": [
+          {
+            "thai": "บ้านนี้ตกแต่งด้วยเครื่องเรือนไม้สัก",
+            "en": "This house is furnished with teak furniture.",
+            "audio_src": "บ้านนี้ตกแต่งด้วยเครื่องเรือนไม้สัก",
+            "audio_en_src": "This house is furnished with teak furniture."
+          },
+          {
+            "thai": "ร้านขายเครื่องเรือนเก่ามีของสวยๆเยอะ",
+            "en": "The antique furniture shop has a lot of beautiful pieces.",
+            "audio_src": "ร้านขายเครื่องเรือนเก่ามีของสวยๆเยอะ",
+            "audio_en_src": "The antique furniture shop has a lot of beautiful pieces."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83527,6 +83603,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "crowded, bustling",
+        "sentences": [
+          {
+            "thai": "ตลาดเช้าคนจอแจมาก",
+            "en": "The morning market is bustling with people.",
+            "audio_src": "ตลาดเช้าคนจอแจมาก",
+            "audio_en_src": "The morning market is bustling with people."
+          },
+          {
+            "thai": "ไม่ชอบไปห้างวันเสาร์ คนจอแจ",
+            "en": "I don't like going to the mall on Saturdays, it's too crowded.",
+            "audio_src": "ไม่ชอบไปห้างวันเสาร์ คนจอแจ",
+            "audio_en_src": "I don't like going to the mall on Saturdays, it's too crowded."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83536,6 +83631,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "sender (of a message), messenger",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนกษัตริย์ส่งผู้ส่งสารไปเจรจา",
+            "en": "In the old days, kings sent messengers to negotiate.",
+            "audio_src": "สมัยก่อนกษัตริย์ส่งผู้ส่งสารไปเจรจา",
+            "audio_en_src": "In the old days, kings sent messengers to negotiate."
+          },
+          {
+            "thai": "ในการสื่อสาร มีผู้ส่งสารและผู้รับสาร",
+            "en": "In communication there is a sender and a receiver.",
+            "audio_src": "ในการสื่อสาร มีผู้ส่งสารและผู้รับสาร",
+            "audio_en_src": "In communication there is a sender and a receiver."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83608,6 +83722,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "words, speech, wording",
+        "sentences": [
+          {
+            "thai": "เลือกใช้ถ้อยคำให้สุภาพ",
+            "en": "Choose your words politely.",
+            "audio_src": "เลือกใช้ถ้อยคำให้สุภาพ",
+            "audio_en_src": "Choose your words politely."
+          },
+          {
+            "thai": "ถ้อยคำของเขาทำร้ายจิตใจคนฟัง",
+            "en": "His words hurt the people listening.",
+            "audio_src": "ถ้อยคำของเขาทำร้ายจิตใจคนฟัง",
+            "audio_en_src": "His words hurt the people listening."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83617,6 +83750,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "sluggish, depressed, lacking energy (e.g economy)",
+        "sentences": [
+          {
+            "thai": "เศรษฐกิจซบเซามาสองปีแล้ว",
+            "en": "The economy has been sluggish for two years.",
+            "audio_src": "เศรษฐกิจซบเซามาสองปีแล้ว",
+            "audio_en_src": "The economy has been sluggish for two years."
+          },
+          {
+            "thai": "การท่องเที่ยวซบเซาช่วงหน้าฝน",
+            "en": "Tourism is slow in the rainy season.",
+            "audio_src": "การท่องเที่ยวซบเซาช่วงหน้าฝน",
+            "audio_en_src": "Tourism is slow in the rainy season."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83661,6 +83813,25 @@
       "TSL Chiang Mai",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to obstruct, to block, to hinder",
+        "sentences": [
+          {
+            "thai": "เขาถูกจับข้อหาขัดขวางการทำงานของตำรวจ",
+            "en": "He was arrested for obstructing the police.",
+            "audio_src": "เขาถูกจับข้อหาขัดขวางการทำงานของตำรวจ",
+            "audio_en_src": "He was arrested for obstructing the police."
+          },
+          {
+            "thai": "อย่าขัดขวางความฝันของลูก",
+            "en": "Don't stand in the way of your kids' dreams.",
+            "audio_src": "อย่าขัดขวางความฝันของลูก",
+            "audio_en_src": "Don't stand in the way of your kids' dreams."
+          }
+        ]
+      }
     ]
   },
   {
@@ -83756,6 +83927,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "gemstone",
+        "sentences": [
+          {
+            "thai": "แหวนวงนี้ประดับเม็ดพลอยสีแดง",
+            "en": "This ring is set with a red gemstone.",
+            "audio_src": "แหวนวงนี้ประดับเม็ดพลอยสีแดง",
+            "audio_en_src": "This ring is set with a red gemstone."
+          },
+          {
+            "thai": "จันทบุรีขึ้นชื่อเรื่องเม็ดพลอย",
+            "en": "Chanthaburi is famous for gemstones.",
+            "audio_src": "จันทบุรีขึ้นชื่อเรื่องเม็ดพลอย",
+            "audio_en_src": "Chanthaburi is famous for gemstones."
+          }
+        ]
+      }
     ]
   },
   {

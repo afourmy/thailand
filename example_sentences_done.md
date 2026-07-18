@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7874 words**
+**Total: 7884 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2667,12 +2667,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-313` : ติดๆ ขัดๆ (stuttering, interrupted, not going smoothly (speech, process)) : 1 meaning(s), 2 sentences
 - `tsl-314` : ลาก, ลากจูง (to pull, to drag, to tow (suitcase, boat)) : 1 meaning(s), 2 sentences
 - `tsl-315` : วาระ ((politics) term, tenure; (meeting) agenda item; time, occasion) : 3 meaning(s), 6 sentences
+- `tsl-316` : คูหา (booth, stall (e.g voting booth)) : 1 meaning(s), 2 sentences
 - `tsl-317` : กา (to mark with an X, to tick a checkbox; crow) : 2 meaning(s), 4 sentences
 - `tsl-318` : หีบ (box, chest, trunk) : 1 meaning(s), 2 sentences
+- `tsl-319` : ตัดพ้อ (to complain, to grumble, to reproach (often emotionally)) : 1 meaning(s), 2 sentences
+- `tsl-320` : เบ็ดเตล็ด (miscellaneous, sundry, various small items) : 1 meaning(s), 2 sentences
 - `tsl-321` : เหยียดเพศ (sexist) : 1 meaning(s), 2 sentences
 - `tsl-322` : สัญลักษณ์ (symbol, emblem) : 1 meaning(s), 2 sentences
 - `tsl-323` : ซอง (envelope) : 1 meaning(s), 2 sentences
 - `tsl-324` : รัดตรึง (to fasten tightly, to tie down firmly (so it cannot move)) : 1 meaning(s), 2 sentences
+- `tsl-325` : เครื่องเรือน (furniture (formal)) : 1 meaning(s), 2 sentences
 - `tsl-326` : แน่นหนา (secure, firm, strong, sturdy) : 1 meaning(s), 2 sentences
 - `tsl-327` : เคลื่อน, เคลื่อนที่ (to move, to displace, to be in motion) : 1 meaning(s), 2 sentences
 - `tsl-328` : คำนึงถึง (to take into consideration, to bear in mind) : 1 meaning(s), 2 sentences
@@ -2680,12 +2684,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-331` : ความห่วงใย (concern, care, worry (for someone's well-being)) : 1 meaning(s), 2 sentences
 - `tsl-332` : น่าเห็นใจ (pitiful, deserving sympathy) : 1 meaning(s), 2 sentences
 - `tsl-333` : ความซาบซึ้งใจ (deep gratitude, deep appreciation (formal)) : 1 meaning(s), 2 sentences
+- `tsl-334` : จอแจ (crowded, bustling) : 1 meaning(s), 2 sentences
+- `tsl-335` : ผู้ส่งสาร (sender (of a message), messenger) : 1 meaning(s), 2 sentences
 - `tsl-337` : โดยสาร (to be a passenger, to ride (a bus, train)) : 1 meaning(s), 2 sentences
 - `tsl-338` : ยกย่อง (to praise, to honor, to glorify) : 1 meaning(s), 2 sentences
+- `tsl-339` : ถ้อยคำ (words, speech, wording) : 1 meaning(s), 2 sentences
+- `tsl-340` : ซบเซา (sluggish, depressed, lacking energy (e.g economy)) : 1 meaning(s), 2 sentences
 - `tsl-341` : ต่อต้าน (to oppose, to resist, to fight against) : 1 meaning(s), 2 sentences
+- `tsl-342` : ขัดขวาง (to obstruct, to block, to hinder) : 1 meaning(s), 2 sentences
 - `tsl-344` : ข้อห้าม (ban, prohibition, taboo) : 1 meaning(s), 2 sentences
 - `tsl-345` : เจ็บไข้ได้ป่วย (to fall ill, to get sick (idiomatic)) : 1 meaning(s), 2 sentences
 - `tsl-347` : คาถาอาคม (magic spell, magical incantation) : 1 meaning(s), 2 sentences
+- `tsl-348` : เม็ดพลอย (gemstone) : 1 meaning(s), 2 sentences
 - `tsl-350` : ทันใดนั้น (suddenly, all of a sudden (literary)) : 1 meaning(s), 2 sentences
 - `tsl-353` : จิก (to peck (bird)) : 1 meaning(s), 2 sentences
 - `tsl-354` : ทรัพย์สมบัติ (assets, property, wealth) : 1 meaning(s), 2 sentences
