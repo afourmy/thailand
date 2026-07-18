@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7594 words**
+**Total: 7604 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -980,6 +980,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-077` : คริสต์ศักราช (ค.ศ.) (Common Era, Christian Era) : 1 meaning(s), 2 sentences
 - `tamago-l12-078` : คลอด (to give birth, to deliver a baby) : 1 meaning(s), 2 sentences
 - `tamago-l12-079` : คล้ำ (dark, tan (skin); dim) : 2 meaning(s), 4 sentences
+- `tamago-l12-080` : ความกว้าง (width, breadth) : 1 meaning(s), 2 sentences
+- `tamago-l12-081` : ความดัง (loudness, volume) : 1 meaning(s), 2 sentences
 - `tamago-l12-083` : ความเดือดร้อน (trouble, difficulty) : 1 meaning(s), 2 sentences
 - `tamago-l12-084` : คอกม้า (horse stable) : 1 meaning(s), 2 sentences
 - `tamago-l12-085` : คัน (to feel itchy) : 1 meaning(s), 2 sentences
@@ -1002,18 +1004,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-103` : จริงๆจังๆ (seriously, for real) : 1 meaning(s), 2 sentences
 - `tamago-l12-104` : จะว่าไป (by the way, come to think of it) : 1 meaning(s), 2 sentences
 - `tamago-l12-105` : จัด (to organize, to arrange) : 1 meaning(s), 2 sentences
+- `tamago-l12-106` : จัดเตียง (to make the bed) : 1 meaning(s), 2 sentences
 - `tamago-l12-107` : จำได้คร่าวๆ (to remember roughly, to vaguely recall) : 1 meaning(s), 2 sentences
+- `tamago-l12-108` : จิตวิทยา (psychology) : 1 meaning(s), 2 sentences
 - `tamago-l12-109` : จิ้ม (to dip (e.g food in sauce)) : 1 meaning(s), 2 sentences
 - `tamago-l12-110` : จืด, จืดจาง (bland, tasteless) : 1 meaning(s), 2 sentences
 - `tamago-l12-111` : จุ่ม (to dip, to immerse) : 1 meaning(s), 2 sentences
 - `tamago-l12-112` : ฉลอง, เฉลิมฉลอง (to celebrate) : 1 meaning(s), 2 sentences
+- `tamago-l12-113` : ฉลากโภชนาการ (nutrition label) : 1 meaning(s), 2 sentences
+- `tamago-l12-114` : ฉากหลัง (background scene) : 1 meaning(s), 2 sentences
 - `tamago-l12-115` : ชกมวย (to box (muay thai)) : 1 meaning(s), 2 sentences
 - `tamago-l12-116` : ชวนคุย (to start a conversation, to engage someone in talking) : 1 meaning(s), 2 sentences
 - `tamago-l12-117` : ชัดๆ (clearly, definitely) : 1 meaning(s), 2 sentences
+- `tamago-l12-118` : ชั้นดาดฟ้า (rooftop) : 1 meaning(s), 2 sentences
+- `tamago-l12-119` : ชั้นวางหนังสือ (bookshelf) : 1 meaning(s), 2 sentences
+- `tamago-l12-120` : ชั้นใต้ดิน (basement) : 1 meaning(s), 2 sentences
 - `tamago-l12-121` : ชา (numb (numbness or tingling)) : 1 meaning(s), 2 sentences
 - `tamago-l12-122` : ชุดนักเรียน (school uniform) : 1 meaning(s), 2 sentences
 - `tamago-l12-124` : ช่างประปา (plumber) : 1 meaning(s), 2 sentences
 - `tamago-l12-125` : ช่างภาพ, ช่างถ่ายภาพ (photographer) : 1 meaning(s), 2 sentences
+- `tamago-l12-126` : ช่างแต่งหน้า (makeup artist) : 1 meaning(s), 2 sentences
 - `tamago-l12-127` : ช้อน (spoon) : 1 meaning(s), 2 sentences
 - `tamago-l12-128` : ซวย (unfortunate, bad luck, unlucky, screwed (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-129` : ซอก (corner, nook, narrow gap) : 1 meaning(s), 2 sentences
