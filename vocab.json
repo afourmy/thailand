@@ -146340,11 +146340,15 @@
         "sentences": [
           {
             "thai": "สมัยก่อนบ้านไทยมีโอ่งน้ำหน้าบ้าน",
-            "en": "In the old days Thai houses had a water jar out front."
+            "en": "In the old days Thai houses had a water jar out front.",
+            "audio_src": "สมัยก่อนบ้านไทยมีโอ่งน้ำหน้าบ้าน",
+            "audio_en_src": "In the old days Thai houses had a water jar out front."
           },
           {
             "thai": "โอ่งน้ำเต็มเพราะฝนตกทั้งคืน",
-            "en": "The water jar is full after it rained all night."
+            "en": "The water jar is full after it rained all night.",
+            "audio_src": "โอ่งน้ำเต็มเพราะฝนตกทั้งคืน",
+            "audio_en_src": "The water jar is full after it rained all night."
           }
         ]
       }
@@ -146364,11 +146368,15 @@
         "sentences": [
           {
             "thai": "รถสองคันสวนทางกันในซอยแคบๆ",
-            "en": "Two cars squeezed past each other in the narrow alley."
+            "en": "Two cars squeezed past each other in the narrow alley.",
+            "audio_src": "รถสองคันสวนทางกันในซอยแคบๆ",
+            "audio_en_src": "Two cars squeezed past each other in the narrow alley."
           },
           {
             "thai": "เราสวนทางกันพอดี เลยไม่เจอกัน",
-            "en": "We passed each other going opposite ways, so we missed each other."
+            "en": "We passed each other going opposite ways, so we missed each other.",
+            "audio_src": "เราสวนทางกันพอดี เลยไม่เจอกัน",
+            "audio_en_src": "We passed each other going opposite ways, so we missed each other."
           }
         ]
       }
@@ -146388,11 +146396,15 @@
         "sentences": [
           {
             "thai": "ร้านนี้บริการด้วยความใส่ใจ",
-            "en": "This place serves you with real care."
+            "en": "This place serves you with real care.",
+            "audio_src": "ร้านนี้บริการด้วยความใส่ใจ",
+            "audio_en_src": "This place serves you with real care."
           },
           {
             "thai": "ต้นไม้ต้องการความใส่ใจทุกวัน",
-            "en": "Plants need daily attention."
+            "en": "Plants need daily attention.",
+            "audio_src": "ต้นไม้ต้องการความใส่ใจทุกวัน",
+            "audio_en_src": "Plants need daily attention."
           }
         ]
       }
@@ -146560,11 +146572,15 @@
         "sentences": [
           {
             "thai": "เธอไปปฏิบัติธรรมที่วัดทุกปีใหม่",
-            "en": "She goes on a meditation retreat at the temple every New Year."
+            "en": "She goes on a meditation retreat at the temple every New Year.",
+            "audio_src": "เธอไปปฏิบัติธรรมที่วัดทุกปีใหม่",
+            "audio_en_src": "She goes on a meditation retreat at the temple every New Year."
           },
           {
             "thai": "เขาปฏิบัติธรรมเช้าเย็นไม่เคยขาด",
-            "en": "He never misses his morning and evening practice."
+            "en": "He never misses his morning and evening practice.",
+            "audio_src": "เขาปฏิบัติธรรมเช้าเย็นไม่เคยขาด",
+            "audio_en_src": "He never misses his morning and evening practice."
           }
         ]
       }
@@ -146671,11 +146687,15 @@
         "sentences": [
           {
             "thai": "การฝึกสมาธิช่วยให้อยู่กับปัจจุบันขณะ",
-            "en": "Meditation helps you stay in the present moment."
+            "en": "Meditation helps you stay in the present moment.",
+            "audio_src": "การฝึกสมาธิช่วยให้อยู่กับปัจจุบันขณะ",
+            "audio_en_src": "Meditation helps you stay in the present moment."
           },
           {
             "thai": "อย่ากังวลกับอนาคตมาก ลองอยู่กับปัจจุบันขณะ",
-            "en": "Don't worry so much about the future, try living in the present."
+            "en": "Don't worry so much about the future, try living in the present.",
+            "audio_src": "อย่ากังวลกับอนาคตมาก ลองอยู่กับปัจจุบันขณะ",
+            "audio_en_src": "Don't worry so much about the future, try living in the present."
           }
         ]
       }
@@ -146695,11 +146715,15 @@
         "sentences": [
           {
             "thai": "กลิ่นน้ำหอมฟุ้งทั้งลิฟต์",
-            "en": "The perfume filled the whole elevator."
+            "en": "The perfume filled the whole elevator.",
+            "audio_src": "กลิ่นน้ำหอมฟุ้งทั้งลิฟต์",
+            "audio_en_src": "The perfume filled the whole elevator."
           },
           {
             "thai": "นั่งสมาธิแรกๆความคิดฟุ้งไปหมด",
-            "en": "When you first meditate, your thoughts scatter everywhere."
+            "en": "When you first meditate, your thoughts scatter everywhere.",
+            "audio_src": "นั่งสมาธิแรกๆความคิดฟุ้งไปหมด",
+            "audio_en_src": "When you first meditate, your thoughts scatter everywhere."
           }
         ]
       }
@@ -146720,11 +146744,15 @@
         "sentences": [
           {
             "thai": "ตอนตีสาม ถนนเงียบสงัด",
-            "en": "At 3 a.m. the streets are dead silent."
+            "en": "At 3 a.m. the streets are dead silent.",
+            "audio_src": "ตอนตีสาม ถนนเงียบสงัด",
+            "audio_en_src": "At 3 a.m. the streets are dead silent."
           },
           {
             "thai": "วัดป่าเงียบสงัดจนได้ยินเสียงใบไม้ไหว",
-            "en": "The forest temple is so silent you can hear the leaves rustle."
+            "en": "The forest temple is so silent you can hear the leaves rustle.",
+            "audio_src": "วัดป่าเงียบสงัดจนได้ยินเสียงใบไม้ไหว",
+            "audio_en_src": "The forest temple is so silent you can hear the leaves rustle."
           }
         ]
       }
@@ -146802,11 +146830,15 @@
         "sentences": [
           {
             "thai": "เขาปักธูปที่กระถางหน้าศาล",
-            "en": "He placed the incense sticks in the pot in front of the shrine."
+            "en": "He placed the incense sticks in the pot in front of the shrine.",
+            "audio_src": "เขาปักธูปที่กระถางหน้าศาล",
+            "audio_en_src": "He placed the incense sticks in the pot in front of the shrine."
           },
           {
             "thai": "ไหว้เสร็จแล้วปักธูปตรงนี้",
-            "en": "After you pray, stick the incense here."
+            "en": "After you pray, stick the incense here.",
+            "audio_src": "ไหว้เสร็จแล้วปักธูปตรงนี้",
+            "audio_en_src": "After you pray, stick the incense here."
           }
         ]
       }
@@ -147109,11 +147141,15 @@
         "sentences": [
           {
             "thai": "ก่อนบวช เขาขออโหสิกรรมจากพ่อแม่",
-            "en": "Before ordaining, he asked his parents' forgiveness."
+            "en": "Before ordaining, he asked his parents' forgiveness.",
+            "audio_src": "ก่อนบวช เขาขออโหสิกรรมจากพ่อแม่",
+            "audio_en_src": "Before ordaining, he asked his parents' forgiveness."
           },
           {
             "thai": "เธออโหสิกรรมให้ทุกคนที่เคยทำร้าย",
-            "en": "She forgave everyone who ever hurt her."
+            "en": "She forgave everyone who ever hurt her.",
+            "audio_src": "เธออโหสิกรรมให้ทุกคนที่เคยทำร้าย",
+            "audio_en_src": "She forgave everyone who ever hurt her."
           }
         ]
       }
@@ -147191,11 +147227,15 @@
         "sentences": [
           {
             "thai": "วางพวงมาลัยบนพาน",
-            "en": "Place the garland on the ceremonial tray."
+            "en": "Place the garland on the ceremonial tray.",
+            "audio_src": "วางพวงมาลัยบนพาน",
+            "audio_en_src": "Place the garland on the ceremonial tray."
           },
           {
             "thai": "นักเรียนถือพานไหว้ครู",
-            "en": "Students carry ceremonial trays for Teacher's Day."
+            "en": "Students carry ceremonial trays for Teacher's Day.",
+            "audio_src": "นักเรียนถือพานไหว้ครู",
+            "audio_en_src": "Students carry ceremonial trays for Teacher's Day."
           }
         ]
       }
