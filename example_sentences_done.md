@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7493 words**
+**Total: 7503 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -549,11 +549,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-424` : นัด (meeting, appointment; game, match; classifier for gunshots, bullets) : 3 meaning(s), 6 sentences
 - `chula-l5-426` : เข้มข้น (intense, strong, concentrated) : 1 meaning(s), 2 sentences
 - `chula-l5-427` : จุดชมวิว (viewpoint) : 1 meaning(s), 2 sentences
+- `chula-l5-428` : ปัง (amazing, awesome (slang)) : 1 meaning(s), 2 sentences
+- `chula-l5-429` : มัสยิด (mosque) : 1 meaning(s), 2 sentences
+- `chula-l5-430` : ดูตาม้าตาเรือ (to be cautious, to assess the situation before acting) : 1 meaning(s), 2 sentences
+- `chula-l5-431` : โอบล้อม (to surround) : 1 meaning(s), 2 sentences
+- `chula-l5-432` : ผสาน (to merge) : 1 meaning(s), 2 sentences
 - `chula-l5-433` : ลงตัว (perfectly balanced, just right; to fit together nicely, to be finalized) : 2 meaning(s), 4 sentences
+- `chula-l5-434` : วิถีชีวิต (way of life) : 1 meaning(s), 2 sentences
+- `chula-l5-435` : โถง (hall, lobby) : 1 meaning(s), 2 sentences
 - `chula-l5-436` : สักการะ (to pay respect, to worship) : 1 meaning(s), 2 sentences
 - `chula-l5-437` : หงาย (to turn face-up, to lie on one's back, on its back, face-up) : 1 meaning(s), 2 sentences
+- `chula-l5-438` : ระยะ(เริ่ม)แรก (early stage, first stage) : 1 meaning(s), 2 sentences
 - `chula-l5-439` : ไส้ตรง (rectum) : 1 meaning(s), 2 sentences
 - `chula-l5-440` : แพทย์ (doctor, physician) : 1 meaning(s), 2 sentences
+- `chula-l5-441` : ความชื้น, ความชุ่มชื้น (humidity, moisture) : 1 meaning(s), 2 sentences
+- `chula-l5-442` : อ่อนกำลัง (to weaken, to lose strength) : 1 meaning(s), 2 sentences
 - `chula-l5-443` : หมอก (fog) : 1 meaning(s), 2 sentences
 - `chula-l5-444` : รับมือ (to cope, to handle, to deal with) : 1 meaning(s), 2 sentences
 - `chula-l5-447` : ค่าย (camp) : 1 meaning(s), 2 sentences

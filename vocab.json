@@ -16913,6 +16913,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "amazing, awesome (slang)",
+        "sentences": [
+          {
+            "thai": "ลุคนี้ปังมาก",
+            "en": "This look is stunning.",
+            "audio_src": "ลุคนี้ปังมาก",
+            "audio_en_src": "This look is stunning."
+          },
+          {
+            "thai": "เมนูใหม่ร้านนี้ปังสุด",
+            "en": "The new dish here is a total hit.",
+            "audio_src": "เมนูใหม่ร้านนี้ปังสุด",
+            "audio_en_src": "The new dish here is a total hit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16924,6 +16943,25 @@
       "Chulalongkorn L5",
       "TSL Chiang Mai",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "mosque",
+        "sentences": [
+          {
+            "thai": "ชาวมุสลิมไปละหมาดที่มัสยิดวันศุกร์",
+            "en": "Muslims go pray at the mosque on Fridays.",
+            "audio_src": "ชาวมุสลิมไปละหมาดที่มัสยิดวันศุกร์",
+            "audio_en_src": "Muslims go pray at the mosque on Fridays."
+          },
+          {
+            "thai": "มัสยิดนี้สร้างมานานกว่าร้อยปี",
+            "en": "This mosque was built over a hundred years ago.",
+            "audio_src": "มัสยิดนี้สร้างมานานกว่าร้อยปี",
+            "audio_en_src": "This mosque was built over a hundred years ago."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16933,6 +16971,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to be cautious, to assess the situation before acting",
+        "sentences": [
+          {
+            "thai": "ก่อนทำอะไรต้องดูตาม้าตาเรือก่อน",
+            "en": "Before you do anything, size up the situation first.",
+            "audio_src": "ก่อนทำอะไรต้องดูตาม้าตาเรือก่อน",
+            "audio_en_src": "Before you do anything, size up the situation first."
+          },
+          {
+            "thai": "เขาโดนดุเพราะพูดไม่ดูตาม้าตาเรือ",
+            "en": "He got scolded for speaking without reading the room.",
+            "audio_src": "เขาโดนดุเพราะพูดไม่ดูตาม้าตาเรือ",
+            "audio_en_src": "He got scolded for speaking without reading the room."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16943,6 +17000,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to surround",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านถูกโอบล้อมด้วยภูเขา",
+            "en": "The village is surrounded by mountains.",
+            "audio_src": "หมู่บ้านถูกโอบล้อมด้วยภูเขา",
+            "audio_en_src": "The village is surrounded by mountains."
+          },
+          {
+            "thai": "ตำรวจโอบล้อมบ้านผู้ต้องสงสัยไว้หมดแล้ว",
+            "en": "The police have the suspect's house completely surrounded.",
+            "audio_src": "ตำรวจโอบล้อมบ้านผู้ต้องสงสัยไว้หมดแล้ว",
+            "audio_en_src": "The police have the suspect's house completely surrounded."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16952,6 +17028,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to merge",
+        "sentences": [
+          {
+            "thai": "เพลงนี้ผสานดนตรีไทยกับสากลได้ลงตัว",
+            "en": "This song blends Thai and Western music perfectly.",
+            "audio_src": "เพลงนี้ผสานดนตรีไทยกับสากลได้ลงตัว",
+            "audio_en_src": "This song blends Thai and Western music perfectly."
+          },
+          {
+            "thai": "ร้านนี้ผสานความเก่ากับความใหม่เข้าด้วยกัน",
+            "en": "This shop merges old and new together.",
+            "audio_src": "ร้านนี้ผสานความเก่ากับความใหม่เข้าด้วยกัน",
+            "audio_en_src": "This shop merges old and new together."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17013,6 +17108,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "way of life",
+        "sentences": [
+          {
+            "thai": "นักท่องเที่ยวชอบมาดูวิถีชีวิตริมคลอง",
+            "en": "Tourists love coming to see the canal-side way of life.",
+            "audio_src": "นักท่องเที่ยวชอบมาดูวิถีชีวิตริมคลอง",
+            "audio_en_src": "Tourists love coming to see the canal-side way of life."
+          },
+          {
+            "thai": "เทคโนโลยีเปลี่ยนวิถีชีวิตคนรุ่นใหม่",
+            "en": "Technology has changed the younger generation's way of life.",
+            "audio_src": "เทคโนโลยีเปลี่ยนวิถีชีวิตคนรุ่นใหม่",
+            "audio_en_src": "Technology has changed the younger generation's way of life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17023,6 +17137,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "hall, lobby",
+        "sentences": [
+          {
+            "thai": "นัดเจอกันที่โถงชั้นล่างของโรงแรม",
+            "en": "Let's meet in the hotel's ground-floor lobby.",
+            "audio_src": "นัดเจอกันที่โถงชั้นล่างของโรงแรม",
+            "audio_en_src": "Let's meet in the hotel's ground-floor lobby."
+          },
+          {
+            "thai": "โถงของวัดนี้กว้างมาก",
+            "en": "This temple's hall is huge.",
+            "audio_src": "โถงของวัดนี้กว้างมาก",
+            "audio_en_src": "This temple's hall is huge."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17093,6 +17226,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "early stage, first stage",
+        "sentences": [
+          {
+            "thai": "มะเร็งระยะแรกรักษาง่ายกว่า",
+            "en": "Early-stage cancer is easier to treat.",
+            "audio_src": "มะเร็งระยะแรกรักษาง่ายกว่า",
+            "audio_en_src": "Early-stage cancer is easier to treat."
+          },
+          {
+            "thai": "ในระยะเริ่มแรก ธุรกิจยังไม่มีกำไร",
+            "en": "In the early stages, the business wasn't profitable yet.",
+            "audio_src": "ในระยะเริ่มแรก ธุรกิจยังไม่มีกำไร",
+            "audio_en_src": "In the early stages, the business wasn't profitable yet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17161,6 +17313,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "humidity, moisture",
+        "sentences": [
+          {
+            "thai": "อากาศเมืองไทยความชื้นสูง ผ้าแห้งช้า",
+            "en": "Thailand's air is very humid, laundry dries slowly.",
+            "audio_src": "อากาศเมืองไทยความชื้นสูง ผ้าแห้งช้า",
+            "audio_en_src": "Thailand's air is very humid, laundry dries slowly."
+          },
+          {
+            "thai": "ครีมนี้ช่วยเพิ่มความชุ่มชื้นให้ผิว",
+            "en": "This cream helps moisturize your skin.",
+            "audio_src": "ครีมนี้ช่วยเพิ่มความชุ่มชื้นให้ผิว",
+            "audio_en_src": "This cream helps moisturize your skin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17170,6 +17341,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to weaken, to lose strength",
+        "sentences": [
+          {
+            "thai": "พายุอ่อนกำลังลงก่อนขึ้นฝั่ง",
+            "en": "The storm weakened before making landfall.",
+            "audio_src": "พายุอ่อนกำลังลงก่อนขึ้นฝั่ง",
+            "audio_en_src": "The storm weakened before making landfall."
+          },
+          {
+            "thai": "นักมวยเริ่มอ่อนกำลังในยกสุดท้าย",
+            "en": "The boxer started to fade in the final round.",
+            "audio_src": "นักมวยเริ่มอ่อนกำลังในยกสุดท้าย",
+            "audio_en_src": "The boxer started to fade in the final round."
+          }
+        ]
+      }
     ]
   },
   {
