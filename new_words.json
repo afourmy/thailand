@@ -1,73 +1,13 @@
 [
   {
-    "thai": "ความ",
-    "english": "matter, affair, subject",
-    "frequency": "common"
-  },
-  {
-    "thai": "อีก",
-    "english": "more",
+    "thai": "เปลี่ยน",
+    "english": "to change",
     "frequency": "everyday"
   },
   {
-    "thai": "หาก",
-    "english": "if",
-    "frequency": "common"
-  },
-  {
-    "thai": "แรก",
-    "english": "first",
-    "frequency": "common"
-  },
-  {
-    "thai": "เพียง",
-    "english": "only",
-    "frequency": "common"
-  },
-  {
-    "thai": "อาจ",
-    "english": "may",
-    "frequency": "common"
-  },
-  {
-    "thai": "นัก",
-    "english": "very, extremely",
-    "frequency": "common"
-  },
-  {
-    "thai": "เริ่ม",
-    "english": "begin",
-    "frequency": "common"
-  },
-  {
-    "thai": "เปลี่ยน",
-    "english": "change",
-    "frequency": "common"
-  },
-  {
-    "thai": "นอก",
-    "english": "out",
-    "frequency": "common"
-  },
-  {
-    "thai": "เดียว",
-    "english": "single; one",
-    "frequency": "common"
-  },
-  {
-    "thai": "สิ่ง",
-    "english": "thing",
-    "frequency": "common"
-  },
-  {
     "thai": "ตอน",
-    "english": "when; during",
-    "frequency": "common"
-  },
-  {
-    "thai": "ภาพ",
-    "english": "image",
-    "frequency": "common"
+    "english": "when, during",
+    "frequency": "everyday"
   },
   {
     "thai": "เคย",
@@ -75,61 +15,11 @@
     "frequency": "everyday"
   },
   {
-    "thai": "ยิ่ง",
-    "english": "more",
-    "frequency": "common"
-  },
-  {
-    "thai": "แม้",
-    "english": "even",
-    "frequency": "common"
-  },
-  {
-    "thai": "ควร",
-    "english": "should",
-    "frequency": "common"
-  },
-  {
-    "thai": "น่า",
-    "english": "ought to",
-    "frequency": "common",
-    "suggested_en": "worth doing, inviting (forms adjectives like 'appetizing'); seemingly"
-  },
-  {
-    "thai": "ร่วม",
-    "english": "join",
-    "frequency": "common"
-  },
-  {
-    "thai": "ใจ",
-    "english": "mind",
+    "thai": "ติด",
+    "english": "to stick, to attach, to be attached; to be addicted",
     "frequency": "everyday"
   },
-  {
-    "thai": "ดัง",
-    "english": "as; loud",
-    "frequency": "common"
-  },
-  {
-    "thai": "โรง",
-    "english": "building; structure",
-    "frequency": "common"
-  },
-  {
-    "thai": "ติด",
-    "english": "stick; attached to",
-    "frequency": "common"
-  },
-  {
-    "thai": "สุข",
-    "english": "happiness",
-    "frequency": "common"
-  },
-  {
-    "thai": "เพิ่ม",
-    "english": "add",
-    "frequency": "common"
-  },
+
   {
     "thai": "นี่",
     "english": "this",
