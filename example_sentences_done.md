@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8164 words**
+**Total: 8174 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4677,17 +4677,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-043` : ปั่นจักรยาน, ถีบจักรยาน (to ride a bicycle) : 1 meaning(s), 2 sentences
 - `yt-c02-044` : โคนผม (base of the hair, hair root) : 1 meaning(s), 2 sentences
 - `yt-c02-045` : หนังศีรษะ (scalp (skin of the head)) : 1 meaning(s), 2 sentences
+- `yt-c02-046` : รูหู (ear canal, ear hole) : 1 meaning(s), 2 sentences
+- `yt-c02-047` : ขมับ (temple (forehead)) : 1 meaning(s), 2 sentences
 - `yt-c02-048` : แก้ม (cheek) : 1 meaning(s), 2 sentences
+- `yt-c02-049` : ตาดำ, รูม่านตา (iris, pupil) : 1 meaning(s), 2 sentences
 - `yt-c02-050` : ขมวดคิ้ว (to frown, to knit your eyebrows) : 1 meaning(s), 2 sentences
 - `yt-c02-051` : ยักคิ้ว (to raise an eyebrow) : 1 meaning(s), 2 sentences
+- `yt-c02-053` : ขยิบตา (to wink) : 1 meaning(s), 2 sentences
 - `yt-c02-054` : แลบลิ้น (to stick out one's tongue) : 1 meaning(s), 2 sentences
 - `yt-c02-055` : หลักภาษา (language principles, grammar) : 1 meaning(s), 2 sentences
 - `yt-c02-056` : โบก (to wave (e.g a hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c02-057` : ฟาด (to strike, to hit strongly (e.g with stick, whip); to eat a lot, to devour) : 2 meaning(s), 4 sentences
 - `yt-c02-058` : ฟัก (winter melon, wax gourd) : 1 meaning(s), 2 sentences
+- `yt-c02-059` : ประเพณีดั้งเดิม (original tradition, traditions from the past) : 1 meaning(s), 2 sentences
+- `yt-c02-060` : หน่วยงานราชการ (government agency, government department) : 1 meaning(s), 2 sentences
 - `yt-c02-061` : ตรัสรู้ (to attain enlightment, to realize the ultimate truth (royal Buddhist term)) : 1 meaning(s), 2 sentences
 - `yt-c02-062` : ปฐมเทศนา (first sermon (Buddha's first teaching after the enlightment)) : 1 meaning(s), 2 sentences
 - `yt-c02-064` : บรรลุธรรม (to attain enlightenment, to realize the Dhamma (religious)) : 1 meaning(s), 2 sentences
+- `yt-c02-065` : เอน (to lean, to tilt, to recline) : 1 meaning(s), 2 sentences
+- `new-34` : เอนเอียง (biased, partial) : 1 meaning(s), 2 sentences
+- `yt-c02-066` : ความพอดี (moderation, balance) : 1 meaning(s), 2 sentences
+- `yt-c02-067` : เทศนา (to preach, to give a sermon) : 1 meaning(s), 2 sentences
 - `yt-c02-068` : สมุทัย (cause of suffering (religious)) : 1 meaning(s), 2 sentences
 - `yt-c02-069` : นิโรธ (cessation of suffering (religious)) : 1 meaning(s), 2 sentences
 - `yt-c02-070` : ตัวกลาง (medium, intermediary, middleman) : 1 meaning(s), 2 sentences
