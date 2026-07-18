@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7634 words**
+**Total: 7644 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1149,6 +1149,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-262` : ปลาฉลาม (shark) : 1 meaning(s), 2 sentences
 - `tamago-l12-263` : ปลาวาฬ (whale) : 1 meaning(s), 2 sentences
 - `tamago-l12-264` : ปลาเปรี้ยวหวาน (sweet and sour fish) : 1 meaning(s), 2 sentences
+- `tamago-l12-265` : ปลาโลมา (dolphin) : 1 meaning(s), 2 sentences
 - `tamago-l12-266` : ปลูก (to plant, to grow) : 1 meaning(s), 2 sentences
 - `tamago-l12-267` : ปล่อยให้ (to let, to allow; to leave someone to do something) : 2 meaning(s), 4 sentences
 - `tamago-l12-268` : ปอก (to peel) : 1 meaning(s), 2 sentences
@@ -1160,15 +1161,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-275` : ปุ่ม (button) : 1 meaning(s), 2 sentences
 - `tamago-l12-277` : ป่านนั้น (by that time, by then) : 1 meaning(s), 2 sentences
 - `tamago-l12-278` : ป้ายรถเมล์ (bus stop) : 1 meaning(s), 2 sentences
+- `tamago-l12-279` : ป้ายห้ามจอด (no-parking sign) : 1 meaning(s), 2 sentences
 - `tamago-l12-280` : ผมก็ว่างั้น ("I think so too") : 1 meaning(s), 2 sentences
 - `tamago-l12-281` : ผมขาว (grey hair, white hair) : 1 meaning(s), 2 sentences
 - `tamago-l12-282` : ผมหน้าม้า (bangs (fringe)) : 1 meaning(s), 2 sentences
 - `tamago-l12-283` : ผวา (frightened, startled) : 1 meaning(s), 2 sentences
 - `tamago-l12-284` : ผักกาดหอม (lettuce) : 1 meaning(s), 2 sentences
+- `tamago-l12-285` : ผักโขม (spinach) : 1 meaning(s), 2 sentences
 - `tamago-l12-286` : ผัด (to stir-fry) : 1 meaning(s), 2 sentences
 - `tamago-l12-287` : ผัดผัก (stir-fried vegetables) : 1 meaning(s), 2 sentences
+- `tamago-l12-288` : ผู้รับ (recipient) : 1 meaning(s), 2 sentences
 - `tamago-l12-289` : ผู้สูงอายุ (elderly person, senior) : 1 meaning(s), 2 sentences
 - `tamago-l12-292` : ผ่าตัด (to perform a surgery, to operate) : 1 meaning(s), 2 sentences
+- `tamago-l12-293` : ผ้าปูโต๊ะ (tablecloth) : 1 meaning(s), 2 sentences
+- `tamago-l12-294` : ผ้าพันคอ (scarf) : 1 meaning(s), 2 sentences
+- `tamago-l12-295` : ผ้าอนามัย (sanitary pad) : 1 meaning(s), 2 sentences
 - `tamago-l12-296` : ฝรั่ง (guava; Westerner (informal)) : 2 meaning(s), 4 sentences
 - `tamago-l12-297` : ฝั่งตรงข้าม (the opposite side) : 1 meaning(s), 2 sentences
 - `tamago-l12-298` : ฝา (lid, cap (e.g bottle)) : 1 meaning(s), 2 sentences
@@ -1177,7 +1184,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-301` : ฝึกงาน (to intern, to do an internship) : 1 meaning(s), 2 sentences
 - `tamago-l12-302` : ฝ่าเท้า (sole of the foot) : 1 meaning(s), 2 sentences
 - `tamago-l12-303` : พรมวิเศษ (magic carpet) : 1 meaning(s), 2 sentences
+- `tamago-l12-304` : พรมเช็ดเท้า (doormat, foot mat) : 1 meaning(s), 2 sentences
 - `tamago-l12-305` : พริกหยวก (bell pepper) : 1 meaning(s), 2 sentences
+- `tamago-l12-306` : พรีเซนต์ (to give a presentation (loanword)) : 1 meaning(s), 2 sentences
 - `tamago-l12-307` : พละ (physical education (school subject)) : 1 meaning(s), 2 sentences
 - `tamago-l12-308` : พอ (enough; when, as soon as, once) : 2 meaning(s), 4 sentences
 - `tamago-l12-309` : พอได้ ("good enough", "not great but sufficient") : 1 meaning(s), 2 sentences
@@ -1186,6 +1195,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-312` : พักกลางวัน (lunch break) : 1 meaning(s), 2 sentences
 - `tamago-l12-313` : พับผ้า (to fold clothes) : 1 meaning(s), 2 sentences
 - `tamago-l12-314` : พัสดุ (parcel, package) : 1 meaning(s), 2 sentences
+- `tamago-l12-315` : พาย (to paddle, to row) : 1 meaning(s), 2 sentences
 - `tamago-l12-317` : พาไป (to take someone somewhere) : 1 meaning(s), 2 sentences
 - `tamago-l12-318` : พิการ (handicapped, disabled) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences

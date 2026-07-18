@@ -35652,6 +35652,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "dolphin",
+        "sentences": [
+          {
+            "thai": "ปลาโลมากระโดดขึ้นมาจากน้ำ",
+            "en": "A dolphin jumped out of the water.",
+            "audio_src": "ปลาโลมากระโดดขึ้นมาจากน้ำ",
+            "audio_en_src": "A dolphin jumped out of the water."
+          },
+          {
+            "thai": "ปลาโลมาเป็นสัตว์ที่ฉลาดมาก",
+            "en": "Dolphins are very intelligent animals.",
+            "audio_src": "ปลาโลมาเป็นสัตว์ที่ฉลาดมาก",
+            "audio_en_src": "Dolphins are very intelligent animals."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36040,6 +36059,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "no-parking sign",
+        "sentences": [
+          {
+            "thai": "ตรงนี้มีป้ายห้ามจอด เดี๋ยวโดนใบสั่ง",
+            "en": "There's a no-parking sign here, you'll get a ticket.",
+            "audio_src": "ตรงนี้มีป้ายห้ามจอด เดี๋ยวโดนใบสั่ง",
+            "audio_en_src": "There's a no-parking sign here, you'll get a ticket."
+          },
+          {
+            "thai": "เขาจอดรถทั้งที่มีป้ายห้ามจอด",
+            "en": "He parked even though there was a no-parking sign.",
+            "audio_src": "เขาจอดรถทั้งที่มีป้ายห้ามจอด",
+            "audio_en_src": "He parked even though there was a no-parking sign."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36197,6 +36235,25 @@
       "Tamago L1-2",
       "Thai 9000",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "spinach",
+        "sentences": [
+          {
+            "thai": "ป๊อปอายกินผักโขมแล้วแข็งแรง",
+            "en": "Popeye eats spinach and gets strong.",
+            "audio_src": "ป๊อปอายกินผักโขมแล้วแข็งแรง",
+            "audio_en_src": "Popeye eats spinach and gets strong."
+          },
+          {
+            "thai": "ผักโขมอบชีสร้านนี้อร่อยมาก",
+            "en": "The baked spinach with cheese here is really good.",
+            "audio_src": "ผักโขมอบชีสร้านนี้อร่อยมาก",
+            "audio_en_src": "The baked spinach with cheese here is really good."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36275,6 +36332,25 @@
     "sources": [
       "Tamago L1-2",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "recipient",
+        "sentences": [
+          {
+            "thai": "เขียนชื่อผู้รับให้ชัดเจน",
+            "en": "Write the recipient's name clearly.",
+            "audio_src": "เขียนชื่อผู้รับให้ชัดเจน",
+            "audio_en_src": "Write the recipient's name clearly."
+          },
+          {
+            "thai": "ผู้รับไม่อยู่บ้าน คนส่งของเลยฝากไว้หน้าประตู",
+            "en": "The recipient wasn't home, so the courier left it at the door.",
+            "audio_src": "ผู้รับไม่อยู่บ้าน คนส่งของเลยฝากไว้หน้าประตู",
+            "audio_en_src": "The recipient wasn't home, so the courier left it at the door."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36345,6 +36421,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "tablecloth",
+        "sentences": [
+          {
+            "thai": "ปูผ้าปูโต๊ะก่อนจัดจาน",
+            "en": "Lay the tablecloth before setting out the plates.",
+            "audio_src": "ปูผ้าปูโต๊ะก่อนจัดจาน",
+            "audio_en_src": "Lay the tablecloth before setting out the plates."
+          },
+          {
+            "thai": "ผ้าปูโต๊ะเปื้อนน้ำแกง",
+            "en": "The tablecloth got stained with curry.",
+            "audio_src": "ผ้าปูโต๊ะเปื้อนน้ำแกง",
+            "audio_en_src": "The tablecloth got stained with curry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36354,6 +36449,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "scarf",
+        "sentences": [
+          {
+            "thai": "อากาศหนาว อย่าลืมผ้าพันคอ",
+            "en": "It's cold, don't forget your scarf.",
+            "audio_src": "อากาศหนาว อย่าลืมผ้าพันคอ",
+            "audio_en_src": "It's cold, don't forget your scarf."
+          },
+          {
+            "thai": "เธอถักผ้าพันคอให้แฟน",
+            "en": "She knitted a scarf for her boyfriend.",
+            "audio_src": "เธอถักผ้าพันคอให้แฟน",
+            "audio_en_src": "She knitted a scarf for her boyfriend."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36363,6 +36477,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "sanitary pad",
+        "sentences": [
+          {
+            "thai": "ฝากซื้อผ้าอนามัยที่เซเว่นหน่อย",
+            "en": "Can you pick up some pads at 7-Eleven for me?",
+            "audio_src": "ฝากซื้อผ้าอนามัยที่เซเว่นหน่อย",
+            "audio_en_src": "Can you pick up some pads at 7-Eleven for me?"
+          },
+          {
+            "thai": "ห้องน้ำหญิงมีตู้ขายผ้าอนามัย",
+            "en": "The women's restroom has a pad vending machine.",
+            "audio_src": "ห้องน้ำหญิงมีตู้ขายผ้าอนามัย",
+            "audio_en_src": "The women's restroom has a pad vending machine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36658,6 +36791,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "doormat, foot mat",
+        "sentences": [
+          {
+            "thai": "เช็ดเท้าบนพรมเช็ดเท้าก่อนเข้าบ้าน",
+            "en": "Wipe your feet on the doormat before coming in.",
+            "audio_src": "เช็ดเท้าบนพรมเช็ดเท้าก่อนเข้าบ้าน",
+            "audio_en_src": "Wipe your feet on the doormat before coming in."
+          },
+          {
+            "thai": "พรมเช็ดเท้าสกปรกแล้ว เอาไปซักหน่อย",
+            "en": "The doormat is dirty, go wash it.",
+            "audio_src": "พรมเช็ดเท้าสกปรกแล้ว เอาไปซักหน่อย",
+            "audio_en_src": "The doormat is dirty, go wash it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36695,6 +36847,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to give a presentation (loanword)",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้ต้องพรีเซนต์งานหน้าห้อง",
+            "en": "Tomorrow I have to present my work in front of the class.",
+            "audio_src": "พรุ่งนี้ต้องพรีเซนต์งานหน้าห้อง",
+            "audio_en_src": "Tomorrow I have to present my work in front of the class."
+          },
+          {
+            "thai": "เขาพรีเซนต์เก่งมาก ลูกค้าชอบ",
+            "en": "He presents really well, clients love it.",
+            "audio_src": "เขาพรีเซนต์เก่งมาก ลูกค้าชอบ",
+            "audio_en_src": "He presents really well, clients love it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -36970,6 +37141,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to paddle, to row",
+        "sentences": [
+          {
+            "thai": "เราพายเรือเล่นในคลอง",
+            "en": "We paddled a boat around the canal.",
+            "audio_src": "เราพายเรือเล่นในคลอง",
+            "audio_en_src": "We paddled a boat around the canal."
+          },
+          {
+            "thai": "พายไปเรื่อยๆ เดี๋ยวก็ถึงฝั่ง",
+            "en": "Keep paddling, we'll reach the shore soon.",
+            "audio_src": "พายไปเรื่อยๆ เดี๋ยวก็ถึงฝั่ง",
+            "audio_en_src": "Keep paddling, we'll reach the shore soon."
+          }
+        ]
+      }
     ]
   },
   {
