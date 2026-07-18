@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7904 words**
+**Total: 7914 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2751,18 +2751,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-403` : อภิปราย (to debate, to discuss) : 1 meaning(s), 2 sentences
 - `tsl-404` : แสวง, แสวงหา (to seek, to pursue (formal)) : 1 meaning(s), 2 sentences
 - `tsl-406` : อุปนิสัย, อุปนิสัยใจ (temperament, character, disposition) : 1 meaning(s), 2 sentences
+- `tsl-407` : หล่อ, หล่อหลอม (to mold, to shape, to cast) : 1 meaning(s), 2 sentences
 - `tsl-408` : จารีตประเพณี (customs and traditions) : 1 meaning(s), 2 sentences
 - `tsl-409` : เรือนชาน (house terrace, veranda, porch) : 1 meaning(s), 2 sentences
+- `tsl-410` : ความโอบอ้อมอารี (kindness, compassion (formal)) : 1 meaning(s), 2 sentences
 - `tsl-411` : ญาติมิตร (relatives and close friends) : 1 meaning(s), 2 sentences
 - `tsl-412` : ความอ่อนน้อมถ่อมตน (humility, modesty, deference) : 1 meaning(s), 2 sentences
+- `tsl-413` : สถานประกอบการ (establishment, workplace (e.g company)) : 1 meaning(s), 2 sentences
 - `tsl-414` : ท่าที (attitude, stance, gesture) : 1 meaning(s), 2 sentences
+- `tsl-415` : สำรวม (composed, restrained, calm, focused) : 1 meaning(s), 2 sentences
 - `tsl-416` : กิริยา (behavior, manner, conduct) : 1 meaning(s), 2 sentences
+- `tsl-417` : นุ่มนวล (gentle, soft, delicate (manner, tone)) : 1 meaning(s), 2 sentences
+- `tsl-418` : อ่อนช้อย (delicate, elegant, graceful (e.g dance, gesture, etc)) : 1 meaning(s), 2 sentences
 - `tsl-419` : ถนอมน้ำใจ (to spare someone's feelings, to be considerate) : 1 meaning(s), 2 sentences
+- `tsl-421` : กล่อมเกลา (to cultivate, to nurture, to mold (one's character)) : 1 meaning(s), 2 sentences
 - `tsl-422` : เฉพาะหน้า (immediate, on-the-spot, in the moment) : 1 meaning(s), 2 sentences
 - `tsl-423` : สลัก, แกะสลัก (to carve, to engrave, to sculpt) : 1 meaning(s), 2 sentences
+- `tsl-424` : มัคคุเทศก์ (tour guide) : 1 meaning(s), 2 sentences
 - `tsl-425` : ไพเราะ (melodious, beautiful-sounding) : 1 meaning(s), 2 sentences
 - `tsl-427` : วาจาสุภาพ (polite speech) : 1 meaning(s), 2 sentences
+- `tsl-428` : อ่อนหวาน (sweet, gentle, soft-spoken, kind) : 1 meaning(s), 2 sentences
 - `tsl-429` : สาธิต (to demonstrate, to show how to do something) : 1 meaning(s), 2 sentences
+- `tsl-430` : กรรมวิธี (process, method) : 1 meaning(s), 2 sentences
 - `tsl-431` : ลึกซึ้ง (deep, profound) : 1 meaning(s), 2 sentences
 - `tsl-432` : ปรัชญา (philosophy) : 1 meaning(s), 2 sentences
 - `tsl-433` : แนวทาง (guideline, approach) : 1 meaning(s), 2 sentences
