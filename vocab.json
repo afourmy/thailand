@@ -5445,6 +5445,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "high on drugs",
+        "sentences": [
+          {
+            "thai": "เขาขับรถขณะเมายา เลยโดนจับ",
+            "en": "He was driving while high on drugs, so he got arrested.",
+            "audio_src": "เขาขับรถขณะเมายา เลยโดนจับ",
+            "audio_en_src": "He was driving while high on drugs, so he got arrested."
+          },
+          {
+            "thai": "ผู้ชายคนนั้นท่าทางเหมือนคนเมายา",
+            "en": "That guy is acting like he's high on drugs.",
+            "audio_src": "ผู้ชายคนนั้นท่าทางเหมือนคนเมายา",
+            "audio_en_src": "That guy is acting like he's high on drugs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5454,6 +5473,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to attack, to invade, to charge in",
+        "sentences": [
+          {
+            "thai": "ตำรวจบุกเข้าไปจับคนร้ายถึงในบ้าน",
+            "en": "The police charged into the house to arrest the suspect.",
+            "audio_src": "ตำรวจบุกเข้าไปจับคนร้ายถึงในบ้าน",
+            "audio_en_src": "The police charged into the house to arrest the suspect."
+          },
+          {
+            "thai": "สมัยก่อนกองทัพพม่าเคยบุกอยุธยา",
+            "en": "In the old days, the Burmese army invaded Ayutthaya.",
+            "audio_src": "สมัยก่อนกองทัพพม่าเคยบุกอยุธยา",
+            "audio_en_src": "In the old days, the Burmese army invaded Ayutthaya."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5529,6 +5567,42 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cause, reason",
+        "sentences": [
+          {
+            "thai": "เขาโมโหโดยไม่มีเหตุ",
+            "en": "He got angry for no reason.",
+            "audio_src": "เขาโมโหโดยไม่มีเหตุ",
+            "audio_en_src": "He got angry for no reason."
+          },
+          {
+            "thai": "ทุกอย่างที่เกิดขึ้นล้วนมีเหตุ",
+            "en": "Everything that happens has a cause.",
+            "audio_src": "ทุกอย่างที่เกิดขึ้นล้วนมีเหตุ",
+            "audio_en_src": "Everything that happens has a cause."
+          }
+        ]
+      },
+      {
+        "meaning": "incident, event",
+        "sentences": [
+          {
+            "thai": "เมื่อคืนเกิดเหตุไฟไหม้ที่ตลาด",
+            "en": "Last night there was a fire at the market.",
+            "audio_src": "เมื่อคืนเกิดเหตุไฟไหม้ที่ตลาด",
+            "audio_en_src": "Last night there was a fire at the market."
+          },
+          {
+            "thai": "รถไฟฟ้าหยุดวิ่งเพราะมีเหตุขัดข้อง",
+            "en": "The skytrain stopped running because of a technical problem.",
+            "audio_src": "รถไฟฟ้าหยุดวิ่งเพราะมีเหตุขัดข้อง",
+            "audio_en_src": "The skytrain stopped running because of a technical problem."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5567,6 +5641,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "area where the incident occured, crime scene",
+        "sentences": [
+          {
+            "thai": "ตำรวจรีบไปที่เกิดเหตุทันที",
+            "en": "The police rushed to the scene immediately.",
+            "audio_src": "ตำรวจรีบไปที่เกิดเหตุทันที",
+            "audio_en_src": "The police rushed to the scene immediately."
+          },
+          {
+            "thai": "กู้ภัยถึงที่เกิดเหตุภายในสิบนาที",
+            "en": "Rescue workers reached the scene within ten minutes.",
+            "audio_src": "กู้ภัยถึงที่เกิดเหตุภายในสิบนาที",
+            "audio_en_src": "Rescue workers reached the scene within ten minutes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5671,6 +5764,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to yell, to make a fuss, to act frantically",
+        "sentences": [
+          {
+            "thai": "ลูกค้าโวยวายเสียงดังกลางร้าน",
+            "en": "The customer made a loud scene in the middle of the shop.",
+            "audio_src": "ลูกค้าโวยวายเสียงดังกลางร้าน",
+            "audio_en_src": "The customer made a loud scene in the middle of the shop."
+          },
+          {
+            "thai": "อย่าเพิ่งโวยวาย ฟังเขาอธิบายก่อน",
+            "en": "Don't make a fuss yet, listen to his explanation first.",
+            "audio_src": "อย่าเพิ่งโวยวาย ฟังเขาอธิบายก่อน",
+            "audio_en_src": "Don't make a fuss yet, listen to his explanation first."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5732,6 +5844,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "punch, blow delivered with fist",
+        "sentences": [
+          {
+            "thai": "เขาโดนต่อยหมัดเดียวก็ล้ม",
+            "en": "One punch and he went down.",
+            "audio_src": "เขาโดนต่อยหมัดเดียวก็ล้ม",
+            "audio_en_src": "One punch and he went down."
+          },
+          {
+            "thai": "นักมวยคนนี้หมัดหนักมาก",
+            "en": "This boxer has a really heavy punch.",
+            "audio_src": "นักมวยคนนี้หมัดหนักมาก",
+            "audio_en_src": "This boxer has a really heavy punch."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5742,6 +5873,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "victim, injured person",
+        "sentences": [
+          {
+            "thai": "ตำรวจเชิญผู้เสียหายมาให้ปากคำ",
+            "en": "The police called the victim in to give a statement.",
+            "audio_src": "ตำรวจเชิญผู้เสียหายมาให้ปากคำ",
+            "audio_en_src": "The police called the victim in to give a statement."
+          },
+          {
+            "thai": "ผู้เสียหายจากแก๊งคอลเซ็นเตอร์มีหลายร้อยคน",
+            "en": "There are hundreds of victims of the call-center scam gangs.",
+            "audio_src": "ผู้เสียหายจากแก๊งคอลเซ็นเตอร์มีหลายร้อยคน",
+            "audio_en_src": "There are hundreds of victims of the call-center scam gangs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5751,6 +5901,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to crawl, to squeeze through a narrow space",
+        "sentences": [
+          {
+            "thai": "แมวมุดเข้าไปใต้เตียง",
+            "en": "The cat squeezed under the bed.",
+            "audio_src": "แมวมุดเข้าไปใต้เตียง",
+            "audio_en_src": "The cat squeezed under the bed."
+          },
+          {
+            "thai": "เด็กมุดรั้วออกไปเล่นนอกบ้าน",
+            "en": "The kid crawled through the fence to go play outside.",
+            "audio_src": "เด็กมุดรั้วออกไปเล่นนอกบ้าน",
+            "audio_en_src": "The kid crawled through the fence to go play outside."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5826,6 +5995,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to investigate",
+        "sentences": [
+          {
+            "thai": "ตำรวจกำลังสอบสวนพยานทีละคน",
+            "en": "The police are questioning the witnesses one by one.",
+            "audio_src": "ตำรวจกำลังสอบสวนพยานทีละคน",
+            "audio_en_src": "The police are questioning the witnesses one by one."
+          },
+          {
+            "thai": "คดีนี้อยู่ระหว่างการสอบสวน",
+            "en": "This case is under investigation.",
+            "audio_src": "คดีนี้อยู่ระหว่างการสอบสวน",
+            "audio_en_src": "This case is under investigation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -5838,6 +6026,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "drugs, narcotics",
+        "sentences": [
+          {
+            "thai": "ตำรวจตรวจพบยาเสพติดในรถของเขา",
+            "en": "The police found drugs in his car.",
+            "audio_src": "ตำรวจตรวจพบยาเสพติดในรถของเขา",
+            "audio_en_src": "The police found drugs in his car."
+          },
+          {
+            "thai": "โรงเรียนจัดกิจกรรมต่อต้านยาเสพติด",
+            "en": "The school held an anti-drug event.",
+            "audio_src": "โรงเรียนจัดกิจกรรมต่อต้านยาเสพติด",
+            "audio_en_src": "The school held an anti-drug event."
+          }
+        ]
+      }
     ]
   },
   {

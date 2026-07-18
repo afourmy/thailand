@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7303 words**
+**Total: 7313 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -179,15 +179,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-030` : พื้นที่สาธารณะ (public space, public area) : 1 meaning(s), 2 sentences
 - `chula-l5-031` : บรรทัด (line, row) : 1 meaning(s), 2 sentences
 - `chula-l5-032` : สะกด (to spell) : 1 meaning(s), 2 sentences
+- `chula-l5-034` : เมายา (high on drugs) : 1 meaning(s), 2 sentences
+- `chula-l5-035` : บุก (to attack, to invade, to charge in) : 1 meaning(s), 2 sentences
 - `chula-l5-036` : เจ้าหน้าที่ (officer) : 1 meaning(s), 2 sentences
 - `chula-l5-037` : ชก (to punch) : 1 meaning(s), 2 sentences
+- `chula-l5-038` : เหตุ (cause, reason; incident, event) : 2 meaning(s), 4 sentences
 - `chula-l5-039` : ทำร้าย (to harm, to hurt) : 1 meaning(s), 2 sentences
+- `chula-l5-040` : ที่เกิดเหตุ (area where the incident occured, crime scene) : 1 meaning(s), 2 sentences
 - `chula-l5-041` : คนร้าย (offender, criminal) : 1 meaning(s), 2 sentences
 - `chula-l5-042` : คณิตศาสตร์ (mathematics) : 1 meaning(s), 2 sentences
 - `chula-l5-043` : ตะโกน (to shout) : 1 meaning(s), 2 sentences
+- `chula-l5-044` : โวยวาย (to yell, to make a fuss, to act frantically) : 1 meaning(s), 2 sentences
 - `chula-l5-045` : กำ (to clench one's fist, grip; a bunch, handful of) : 2 meaning(s), 4 sentences
+- `chula-l5-046` : หมัด (punch, blow delivered with fist) : 1 meaning(s), 2 sentences
+- `chula-l5-047` : ผู้เสียหาย (victim, injured person) : 1 meaning(s), 2 sentences
+- `chula-l5-048` : มุด (to crawl, to squeeze through a narrow space) : 1 meaning(s), 2 sentences
 - `chula-l5-049` : หลบ (to dodge, to evade, to hide, to avoid) : 1 meaning(s), 2 sentences
 - `chula-l5-050` : หลบหนี (to escape, to flee) : 1 meaning(s), 2 sentences
+- `chula-l5-051` : สอบสวน (to investigate) : 1 meaning(s), 2 sentences
+- `chula-l5-052` : ยาเสพติด (drugs, narcotics) : 1 meaning(s), 2 sentences
 - `chula-l5-057` : ตัดสิน (to judge, to decide; to rule, to give a verdict) : 2 meaning(s), 4 sentences
 - `chula-l5-059` : คดี, คดีความ (legal case, lawsuit) : 1 meaning(s), 2 sentences
 - `chula-l5-062` : โทษ (punishment, penalty) : 1 meaning(s), 2 sentences
