@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7984 words**
+**Total: 7994 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3128,12 +3128,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0196` : ความเก่าแก่ (antiquity, ancientness) : 1 meaning(s), 2 sentences
 - `thaipod-0197` : ความเจริญรุ่งเรือง (prosperity, flourishing) : 1 meaning(s), 2 sentences
 - `thaipod-0199` : ความเป็นมา (background, history (of something)) : 1 meaning(s), 2 sentences
+- `thaipod-0201` : ความเลวร้าย (evil, horror, badness) : 1 meaning(s), 2 sentences
 - `thaipod-0202` : ความเอื้ออาทรต่อกัน (mutual generosity, kindness toward each other) : 1 meaning(s), 2 sentences
 - `thaipod-0203` : ความแท้จริง (authenticity, genuineness) : 1 meaning(s), 2 sentences
 - `thaipod-0204` : ความแร้นแค้น (hardship, poverty (literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0205` : ความโกลาหล (chaos, disorder, turmoil) : 1 meaning(s), 2 sentences
 - `thaipod-0206` : ความไม่มั่นคง (instability, insecurity) : 1 meaning(s), 2 sentences
+- `thaipod-0207` : ความไร้เดียงสา (innocence, naivete) : 1 meaning(s), 2 sentences
 - `thaipod-0208` : คัดเลือก (to select, to choose) : 1 meaning(s), 2 sentences
+- `thaipod-0210` : คับคั่ง (crowded, packed) : 1 meaning(s), 2 sentences
 - `thaipod-0211` : คาดหวัง (to expect, to hope for) : 1 meaning(s), 2 sentences
 - `thaipod-0212` : คำกล่าว (saying, statement, adage) : 1 meaning(s), 2 sentences
 - `thaipod-0213` : คำขอ (request, application, petition) : 1 meaning(s), 2 sentences
@@ -3153,6 +3156,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0232` : ค้ายาเสพติด (drug trafficking) : 1 meaning(s), 2 sentences
 - `thaipod-0233` : ฆาตกรรม (murder) : 1 meaning(s), 2 sentences
 - `thaipod-0234` : งง, สับสน (confused) : 1 meaning(s), 2 sentences
+- `thaipod-0236` : งดงาม (beautiful, elegant, gorgeous (formal, literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0238` : งอบ (traditional wide-brimmed straw hat (Thai farmer's hat)) : 1 meaning(s), 2 sentences
 - `thaipod-0240` : งานฉลอง (celebration, festivity) : 1 meaning(s), 2 sentences
 - `thaipod-0241` : งานแสดง (exhibition, show, expo) : 1 meaning(s), 2 sentences
@@ -3162,6 +3166,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0245` : จักรวรรดินิยม (imperialism) : 1 meaning(s), 2 sentences
 - `thaipod-0247` : จัดการ (to manage, to arrange, to handle) : 1 meaning(s), 2 sentences
 - `thaipod-0250` : ถือได้ว่า, จัดได้ว่า ("can be considered", "can be regarded as") : 1 meaning(s), 2 sentences
+- `thaipod-0252` : จับต้อง (to touch (with hands), tangible) : 1 meaning(s), 2 sentences
 - `thaipod-0253` : จาง (to fade, to pale) : 1 meaning(s), 2 sentences
 - `thaipod-0254` : จารึก (to engrave, engraving, inscription) : 1 meaning(s), 2 sentences
 - `thaipod-0255` : จำพรรษา (to spend the rainy season retreat in a monastery (Buddhist practice)) : 1 meaning(s), 2 sentences
@@ -3169,6 +3174,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0257` : จิตรกรรมฝาผนัง (mural painting) : 1 meaning(s), 2 sentences
 - `thaipod-0258` : วิญญาณ, จิตวิญญาณ (spirit, soul) : 1 meaning(s), 2 sentences
 - `thaipod-0259` : จึง (therefore, so) : 1 meaning(s), 2 sentences
+- `thaipod-0260` : จุดชมทิวทัศน์ (viewpoint, scenic spot) : 1 meaning(s), 2 sentences
 - `thaipod-0263` : จุดหมาย (destination, goal) : 1 meaning(s), 2 sentences
 - `thaipod-0264` : จุดหมายปลายทาง (destination) : 1 meaning(s), 2 sentences
 - `thaipod-0265` : จ้าง, ว่าจ้าง (to hire) : 1 meaning(s), 2 sentences
@@ -3207,6 +3213,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0315` : ดังกล่าว (aforementioned, mentioned above) : 1 meaning(s), 2 sentences
 - `thaipod-0316` : ดังจะเห็นได้จาก (as can be seen from) : 1 meaning(s), 2 sentences
 - `thaipod-0317` : ดัด (to bend, to straighten (e.g hair, posture)) : 1 meaning(s), 2 sentences
+- `thaipod-0318` : ดาบ (sword) : 1 meaning(s), 2 sentences
 - `thaipod-0319` : ดารานำชาย (male lead actor) : 1 meaning(s), 2 sentences
 - `thaipod-0320` : ดารานำแสดง (lead actor) : 1 meaning(s), 2 sentences
 - `thaipod-0321` : ดำน้ำตื้น (snorkeling) : 1 meaning(s), 2 sentences
@@ -3219,11 +3226,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0329` : กีตาร์โปร่ง (acoustic guitar) : 1 meaning(s), 2 sentences
 - `thaipod-0333` : ด่าน (checkpoint, border control, toll booth) : 1 meaning(s), 2 sentences
 - `thaipod-0334` : ด้วย (by, by means of; also) : 2 meaning(s), 4 sentences
+- `thaipod-0335` : ด้วยความที่, ด้วยเหตุที่ (due to the fact that) : 1 meaning(s), 2 sentences
 - `thaipod-0337` : ด้วยดี (amicably, peacefully, without troubles, on good terms) : 1 meaning(s), 2 sentences
 - `thaipod-0338` : ด้วยเหตุนี้ (for this reason, therefore) : 1 meaning(s), 2 sentences
 - `thaipod-0339` : ด้าน (side, field, area, aspect) : 1 meaning(s), 3 sentences
 - `thaipod-0341` : ด้านเหนือ (north side) : 1 meaning(s), 2 sentences
 - `thaipod-0342` : ด้าม (handle (of a tool, knife)) : 1 meaning(s), 2 sentences
+- `thaipod-0343` : ตน (oneself, one's own) : 1 meaning(s), 2 sentences
 - `thaipod-0344` : ตบแต่ง (to decorate, to adorn, to dress up) : 1 meaning(s), 2 sentences
 - `thaipod-0345` : ตรงกลาง (in the middle, center) : 1 meaning(s), 2 sentences
 - `thaipod-0346` : ตรงกับ (to match with, to coincide with) : 1 meaning(s), 2 sentences
@@ -3231,6 +3240,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0351` : ตอนต้น (beginning, early stage, initial period) : 1 meaning(s), 2 sentences
 - `thaipod-0352` : ตอนบน (upper part) : 1 meaning(s), 2 sentences
 - `thaipod-0353` : ตอนล่าง (lower part) : 1 meaning(s), 2 sentences
+- `thaipod-0354` : ตะเกียง, ตะเกียงไฟ (lantern (oil lamp)) : 1 meaning(s), 2 sentences
 - `thaipod-0356` : ตัดกับ (to contrast with, to clash with) : 1 meaning(s), 2 sentences
 - `thaipod-0359` : ตัวละคร (character, persona (in a story)) : 1 meaning(s), 2 sentences
 - `thaipod-0360` : ตัวแทน (representative, agent, substitute) : 1 meaning(s), 2 sentences
