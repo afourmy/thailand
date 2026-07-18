@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7273 words**
+**Total: 7283 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -82,23 +82,33 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-083` : แข็งแกร่ง (tough, resilient) : 1 meaning(s), 2 sentences
 - `chula-l4-084` : ตรงไปตรงมา (straightforward, blunt) : 1 meaning(s), 2 sentences
 - `chula-l4-085` : เสแสร้ง (to pretend, to be hypocritical, to put on an act) : 1 meaning(s), 2 sentences
+- `chula-l4-086` : ความตลกขบขัน (humor, comedy (formal)) : 1 meaning(s), 2 sentences
 - `chula-l4-088` : ก้าวร้าว (aggressive) : 1 meaning(s), 2 sentences
+- `chula-l4-089` : เอื้อเฟื้อเผื่อแผ่ (generous, benevolent, willing to share) : 1 meaning(s), 2 sentences
 - `chula-l4-090` : ดื้อ, ดื้อรั้น (stubborn, disobedient) : 1 meaning(s), 2 sentences
+- `chula-l4-091` : เจ้ากี้เจ้าการ (bossy, always telling others what to do) : 1 meaning(s), 2 sentences
+- `chula-l4-092` : นินทาว่าร้าย (to gossip, to speak ill of someone) : 1 meaning(s), 2 sentences
 - `chula-l4-094` : มีเสน่ห์ (charming, charismatic) : 1 meaning(s), 2 sentences
+- `chula-l4-095` : อัธยาศัยดี (friendly, good-natured) : 1 meaning(s), 2 sentences
 - `chula-l4-096` : พรสวรรค์ (talent) : 1 meaning(s), 2 sentences
 - `chula-l4-097` : ทุ่มเท (to dedicate, to commit fully, dedicated) : 1 meaning(s), 2 sentences
 - `chula-l4-098` : เอาแต่ใจตัวเอง (selfish, self-centered, to have everything one's way) : 1 meaning(s), 2 sentences
+- `chula-l4-099` : ราศี (zodiac sign) : 1 meaning(s), 2 sentences
+- `chula-l4-100` : คนโลกสวย (naive, idealistic person) : 1 meaning(s), 2 sentences
 - `chula-l4-101` : อ่อนโยน (gentle, tender) : 1 meaning(s), 2 sentences
 - `chula-l4-102` : อย่างไรก็ตาม (however, nevertheless, even so) : 1 meaning(s), 2 sentences
 - `chula-l4-103` : ที่อยู่อาศัย (residence) : 1 meaning(s), 2 sentences
 - `chula-l4-104` : ปลอบ, ปลอบใจ (to console, to comfort) : 1 meaning(s), 2 sentences
 - `chula-l4-105` : เจ้าชู้ (womanizer, someone who likes to flirt) : 1 meaning(s), 2 sentences
+- `chula-l4-106` : บ้านพักคนชรา (nursing home) : 1 meaning(s), 2 sentences
 - `chula-l4-107` : พ่อตา (wife's father) : 1 meaning(s), 2 sentences
 - `chula-l4-108` : แม่ยาย (wife's mother) : 1 meaning(s), 2 sentences
 - `chula-l4-111` : ไม่ลงรอยกัน (to disagree, to be at odds, to not get along) : 1 meaning(s), 2 sentences
+- `chula-l4-112` : ขึ้นคาน (to be "on the shelf" (without prospect of marriage)) : 1 meaning(s), 2 sentences
 - `chula-l4-114` : ช่วงวัย (age range, stage of life) : 1 meaning(s), 2 sentences
 - `chula-l4-115` : ต่าง (different, other) : 1 meaning(s), 2 sentences
 - `chula-l4-116` : เลี้ยงดู (to nurture, to raise, to care for, to provide for (e.g a child)) : 1 meaning(s), 2 sentences
+- `chula-l4-117` : บุคลิกภาพ (personality) : 1 meaning(s), 2 sentences
 - `chula-l4-118` : สิ่งแวดล้อม (environment) : 1 meaning(s), 2 sentences
 - `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences

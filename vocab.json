@@ -2479,6 +2479,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "humor, comedy (formal)",
+        "sentences": [
+          {
+            "thai": "หนังเรื่องนี้เต็มไปด้วยความตลกขบขัน",
+            "en": "This movie is full of humor.",
+            "audio_src": "หนังเรื่องนี้เต็มไปด้วยความตลกขบขัน",
+            "audio_en_src": "This movie is full of humor."
+          },
+          {
+            "thai": "เขาเล่าเรื่องเที่ยวด้วยความตลกขบขัน",
+            "en": "He told his travel stories with humor.",
+            "audio_src": "เขาเล่าเรื่องเที่ยวด้วยความตลกขบขัน",
+            "audio_en_src": "He told his travel stories with humor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2519,6 +2538,25 @@
     "sources": [
       "Chulalongkorn L4",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "generous, benevolent, willing to share",
+        "sentences": [
+          {
+            "thai": "ยายเป็นคนเอื้อเฟื้อเผื่อแผ่ ชอบแบ่งของให้เพื่อนบ้าน",
+            "en": "Grandma is generous, she likes sharing things with the neighbors.",
+            "audio_src": "ยายเป็นคนเอื้อเฟื้อเผื่อแผ่ ชอบแบ่งของให้เพื่อนบ้าน",
+            "audio_en_src": "Grandma is generous, she likes sharing things with the neighbors."
+          },
+          {
+            "thai": "ครูสอนให้เด็กรู้จักเอื้อเฟื้อเผื่อแผ่",
+            "en": "The teacher teaches kids to be generous and share.",
+            "audio_src": "ครูสอนให้เด็กรู้จักเอื้อเฟื้อเผื่อแผ่",
+            "audio_en_src": "The teacher teaches kids to be generous and share."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2559,6 +2597,25 @@
     "sources": [
       "Chulalongkorn L4",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "bossy, always telling others what to do",
+        "sentences": [
+          {
+            "thai": "พี่สาวฉันเจ้ากี้เจ้าการมาก ชอบสั่งให้ทำโน่นทำนี่",
+            "en": "My older sister is so bossy, she's always telling me to do this and that.",
+            "audio_src": "พี่สาวฉันเจ้ากี้เจ้าการมาก ชอบสั่งให้ทำโน่นทำนี่",
+            "audio_en_src": "My older sister is so bossy, she's always telling me to do this and that."
+          },
+          {
+            "thai": "อย่าเจ้ากี้เจ้าการกับเรื่องของคนอื่นเลย",
+            "en": "Don't be so bossy about other people's business.",
+            "audio_src": "อย่าเจ้ากี้เจ้าการกับเรื่องของคนอื่นเลย",
+            "audio_en_src": "Don't be so bossy about other people's business."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2568,6 +2625,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to gossip, to speak ill of someone",
+        "sentences": [
+          {
+            "thai": "อย่านินทาว่าร้ายคนอื่นลับหลัง",
+            "en": "Don't gossip about people behind their backs.",
+            "audio_src": "อย่านินทาว่าร้ายคนอื่นลับหลัง",
+            "audio_en_src": "Don't gossip about people behind their backs."
+          },
+          {
+            "thai": "เขาโดนเพื่อนร่วมงานนินทาว่าร้าย",
+            "en": "Her coworkers speak ill of her behind her back.",
+            "audio_src": "เขาโดนเพื่อนร่วมงานนินทาว่าร้าย",
+            "audio_en_src": "Her coworkers speak ill of her behind her back."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2606,6 +2682,25 @@
     "sources": [
       "Chulalongkorn L4",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "friendly, good-natured",
+        "sentences": [
+          {
+            "thai": "เจ้าของร้านอัธยาศัยดี คุยเก่ง",
+            "en": "The shop owner is friendly and chatty.",
+            "audio_src": "เจ้าของร้านอัธยาศัยดี คุยเก่ง",
+            "audio_en_src": "The shop owner is friendly and chatty."
+          },
+          {
+            "thai": "คนแถวนี้อัธยาศัยดีกันทุกคน",
+            "en": "Everyone around here is friendly.",
+            "audio_src": "คนแถวนี้อัธยาศัยดีกันทุกคน",
+            "audio_en_src": "Everyone around here is friendly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2707,6 +2802,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "zodiac sign",
+        "sentences": [
+          {
+            "thai": "คุณเกิดราศีอะไร",
+            "en": "What's your zodiac sign?",
+            "audio_src": "คุณเกิดราศีอะไร",
+            "audio_en_src": "What's your zodiac sign?"
+          },
+          {
+            "thai": "เดือนนี้ราศีเมษดวงดีเรื่องงาน",
+            "en": "This month, Aries has good luck with work.",
+            "audio_src": "เดือนนี้ราศีเมษดวงดีเรื่องงาน",
+            "audio_en_src": "This month, Aries has good luck with work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2716,6 +2830,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "naive, idealistic person",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนโลกสวย คิดว่าทุกคนเป็นคนดี",
+            "en": "He's so naive, he thinks everyone is a good person.",
+            "audio_src": "เขาเป็นคนโลกสวย คิดว่าทุกคนเป็นคนดี",
+            "audio_en_src": "He's so naive, he thinks everyone is a good person."
+          },
+          {
+            "thai": "โดนหลอกแบบนี้เพราะเป็นคนโลกสวยไง",
+            "en": "You got scammed like that because you're such a naive optimist.",
+            "audio_src": "โดนหลอกแบบนี้เพราะเป็นคนโลกสวยไง",
+            "audio_en_src": "You got scammed like that because you're such a naive optimist."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2874,6 +3007,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "nursing home",
+        "sentences": [
+          {
+            "thai": "เสาร์นี้เราจะไปเลี้ยงอาหารที่บ้านพักคนชรา",
+            "en": "This Saturday we're going to serve food at a nursing home.",
+            "audio_src": "เสาร์นี้เราจะไปเลี้ยงอาหารที่บ้านพักคนชรา",
+            "audio_en_src": "This Saturday we're going to serve food at a nursing home."
+          },
+          {
+            "thai": "เขาตัดสินใจส่งพ่อไปอยู่บ้านพักคนชรา",
+            "en": "He decided to put his father in a nursing home.",
+            "audio_src": "เขาตัดสินใจส่งพ่อไปอยู่บ้านพักคนชรา",
+            "audio_en_src": "He decided to put his father in a nursing home."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2970,6 +3122,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to be \"on the shelf\" (without prospect of marriage)",
+        "sentences": [
+          {
+            "thai": "เพื่อนชอบแซวว่าฉันจะขึ้นคาน",
+            "en": "My friends love teasing me that I'm going to end up an old maid.",
+            "audio_src": "เพื่อนชอบแซวว่าฉันจะขึ้นคาน",
+            "audio_en_src": "My friends love teasing me that I'm going to end up an old maid."
+          },
+          {
+            "thai": "แม่กลัวฉันขึ้นคาน เลยชอบหาคู่มาให้",
+            "en": "Mom's afraid I'll end up an old maid, so she keeps trying to set me up.",
+            "audio_src": "แม่กลัวฉันขึ้นคาน เลยชอบหาคู่มาให้",
+            "audio_en_src": "Mom's afraid I'll end up an old maid, so she keeps trying to set me up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3068,6 +3239,25 @@
       "Tobo Deck",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "personality",
+        "sentences": [
+          {
+            "thai": "เขามีบุคลิกภาพเป็นผู้นำ",
+            "en": "He has the personality of a leader.",
+            "audio_src": "เขามีบุคลิกภาพเป็นผู้นำ",
+            "audio_en_src": "He has the personality of a leader."
+          },
+          {
+            "thai": "แบบทดสอบนี้ช่วยวิเคราะห์บุคลิกภาพของคุณ",
+            "en": "This quiz helps analyze your personality.",
+            "audio_src": "แบบทดสอบนี้ช่วยวิเคราะห์บุคลิกภาพของคุณ",
+            "audio_en_src": "This quiz helps analyze your personality."
+          }
+        ]
+      }
     ]
   },
   {
