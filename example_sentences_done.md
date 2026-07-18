@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7944 words**
+**Total: 7954 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2892,7 +2892,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-548` : ระบบนิเวศ (ecosystem) : 1 meaning(s), 2 sentences
 - `tsl-550` : สัตว์เลี้ยงลูกด้วยนม (mammal) : 1 meaning(s), 2 sentences
 - `tsl-551` : ย่น (wrinkled, shrunken, shortened) : 1 meaning(s), 2 sentences
+- `tsl-552` : เรียว (slender, slim) : 1 meaning(s), 2 sentences
 - `tsl-553` : ขวาง (to obstruct, to block; across, lateral) : 2 meaning(s), 4 sentences
+- `tsl-554` : หยัก (serrated, notched, jagged, indented) : 1 meaning(s), 2 sentences
 - `tsl-555` : ซี่ (classifier for thin bar-like things (teeth, ribs, cage bars)) : 1 meaning(s), 2 sentences
 - `tsl-556` : กะเหรี่ยงคอยาว (Long-Neck Karen (Padaung ethnic group)) : 1 meaning(s), 2 sentences
 - `tsl-557` : ห่วง (to be concerned, to worry; loop, ring, hoop) : 2 meaning(s), 4 sentences
@@ -2905,8 +2907,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-564` : สังเกตการณ์ (to observe, to monitor) : 1 meaning(s), 2 sentences
 - `tsl-567` : เห็นต่าง (to disagree, to see things differently) : 1 meaning(s), 2 sentences
 - `tsl-568` : หรรษา (joy, delight, pleasure (formal, literary)) : 1 meaning(s), 2 sentences
+- `tsl-570` : เสมือน (virtual, as if, like) : 1 meaning(s), 2 sentences
 - `tsl-571` : คอขวด (bottleneck) : 1 meaning(s), 2 sentences
 - `tsl-572` : คำสันธาน (conjunction (grammar)) : 1 meaning(s), 2 sentences
+- `tsl-575` : สบประมาท (to insult, to disparage, to look down on) : 1 meaning(s), 2 sentences
 - `tsl-576` : หายนะ (disaster, ruin, catastrophe) : 1 meaning(s), 2 sentences
 - `tsl-577` : พูดเกินจริง (to exaggerate) : 1 meaning(s), 2 sentences
 - `tsl-578` : สังเคราะห์แสง (photosynthesis) : 1 meaning(s), 2 sentences
@@ -2921,14 +2925,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-587` : ตัก (lap (sit on someone's lap); to scoop) : 2 meaning(s), 4 sentences
 - `tsl-588` : ผ้าขี้ริ้ว (rag, cleaning cloth) : 1 meaning(s), 2 sentences
 - `tsl-589` : แทนกัน (to replace each other, interchangeably) : 1 meaning(s), 2 sentences
+- `tsl-590` : ไถ (to plow (a field)) : 1 meaning(s), 2 sentences
+- `tsl-592` : แวววาว (sparkling, glittering, shiny) : 1 meaning(s), 2 sentences
+- `tsl-593` : เบียดเสียด (crammed and crowded, packed tightly (people)) : 1 meaning(s), 2 sentences
 - `tsl-594` : หนาแน่น (crowded, densely populated) : 1 meaning(s), 2 sentences
 - `tsl-595` : ปฐมวัย (early childhood, preschool age) : 1 meaning(s), 2 sentences
+- `tsl-596` : สุดแต่ ((formal) entirely up to, depending on) : 1 meaning(s), 2 sentences
 - `tsl-597` : วัยเจริญพันธุ์ (reproductive age, fertile period, puberty) : 1 meaning(s), 2 sentences
 - `tsl-598` : เศรษฐกิจตกต่ำ (economic downturn, recession) : 1 meaning(s), 2 sentences
+- `tsl-599` : บุตรนอกสมรส (child born outside of marriage) : 1 meaning(s), 2 sentences
 - `tsl-600` : จำแนก (to classify, to categorize) : 1 meaning(s), 2 sentences
 - `tsl-601` : แผนภูมิ (chart, diagram) : 1 meaning(s), 2 sentences
 - `tsl-603` : พลศึกษา (physical education (P.E, at school), gymnastics) : 1 meaning(s), 2 sentences
 - `tsl-604` : พืชผล (crops, agricultural produce) : 1 meaning(s), 2 sentences
+- `tsl-605` : กระโชก (to gust (wind blowing in sudden bursts)) : 1 meaning(s), 2 sentences
 - `tsl-607` : โค่น (to make something large fall (e.g a tree, a government), to topple, to bring down) : 1 meaning(s), 2 sentences
 - `tsl-608` : ปลิว (to blow away, to fly off (wind)) : 1 meaning(s), 2 sentences
 - `tsl-609` : โสม (ginseng) : 1 meaning(s), 2 sentences

@@ -89846,6 +89846,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "slender, slim",
+        "sentences": [
+          {
+            "thai": "เธอมีนิ้วเรียวสวย",
+            "en": "She has beautiful slender fingers.",
+            "audio_src": "เธอมีนิ้วเรียวสวย",
+            "audio_en_src": "She has beautiful slender fingers."
+          },
+          {
+            "thai": "ขาเรียวขึ้นเพราะออกกำลังกายสม่ำเสมอ",
+            "en": "Her legs got slimmer from working out regularly.",
+            "audio_src": "ขาเรียวขึ้นเพราะออกกำลังกายสม่ำเสมอ",
+            "audio_en_src": "Her legs got slimmer from working out regularly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -89905,6 +89924,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "serrated, notched, jagged, indented",
+        "sentences": [
+          {
+            "thai": "ใบไม้ชนิดนี้ขอบหยัก",
+            "en": "This kind of leaf has serrated edges.",
+            "audio_src": "ใบไม้ชนิดนี้ขอบหยัก",
+            "audio_en_src": "This kind of leaf has serrated edges."
+          },
+          {
+            "thai": "ตัดกระดาษเป็นขอบหยักๆ",
+            "en": "Cut the paper with a zigzag edge.",
+            "audio_src": "ตัดกระดาษเป็นขอบหยักๆ",
+            "audio_en_src": "Cut the paper with a zigzag edge."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90331,6 +90369,25 @@
       "TSL Chiang Mai",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "virtual, as if, like",
+        "sentences": [
+          {
+            "thai": "เขารักหมาตัวนี้เสมือนลูก",
+            "en": "He loves this dog as if it were his child.",
+            "audio_src": "เขารักหมาตัวนี้เสมือนลูก",
+            "audio_en_src": "He loves this dog as if it were his child."
+          },
+          {
+            "thai": "นักเรียนทดลองในห้องแล็บเสมือนจริง",
+            "en": "Students do experiments in a virtual lab.",
+            "audio_src": "นักเรียนทดลองในห้องแล็บเสมือนจริง",
+            "audio_en_src": "Students do experiments in a virtual lab."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90399,6 +90456,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to insult, to disparage, to look down on",
+        "sentences": [
+          {
+            "thai": "อย่าสบประมาทคู่แข่ง",
+            "en": "Don't underestimate your opponent.",
+            "audio_src": "อย่าสบประมาทคู่แข่ง",
+            "audio_en_src": "Don't underestimate your opponent."
+          },
+          {
+            "thai": "เขาถูกสบประมาทว่าทำไม่ได้ เลยยิ่งพยายาม",
+            "en": "People scoffed that he couldn't do it, so he tried even harder.",
+            "audio_src": "เขาถูกสบประมาทว่าทำไม่ได้ เลยยิ่งพยายาม",
+            "audio_en_src": "People scoffed that he couldn't do it, so he tried even harder."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90859,6 +90935,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to plow (a field)",
+        "sentences": [
+          {
+            "thai": "ชาวนาไถนาเตรียมปลูกข้าว",
+            "en": "The farmers plow the fields to get ready for planting rice.",
+            "audio_src": "ชาวนาไถนาเตรียมปลูกข้าว",
+            "audio_en_src": "The farmers plow the fields to get ready for planting rice."
+          },
+          {
+            "thai": "สมัยก่อนใช้ควายไถนา",
+            "en": "In the old days they used buffalo to plow.",
+            "audio_src": "สมัยก่อนใช้ควายไถนา",
+            "audio_en_src": "In the old days they used buffalo to plow."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90868,6 +90963,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "sparkling, glittering, shiny",
+        "sentences": [
+          {
+            "thai": "พื้นถูเสร็จใหม่ๆแวววาว",
+            "en": "The freshly mopped floor is gleaming.",
+            "audio_src": "พื้นถูเสร็จใหม่ๆแวววาว",
+            "audio_en_src": "The freshly mopped floor is gleaming."
+          },
+          {
+            "thai": "ตาเด็กแวววาวตอนเห็นของเล่น",
+            "en": "The kid's eyes lit up when he saw the toys.",
+            "audio_src": "ตาเด็กแวววาวตอนเห็นของเล่น",
+            "audio_en_src": "The kid's eyes lit up when he saw the toys."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90877,6 +90991,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "crammed and crowded, packed tightly (people)",
+        "sentences": [
+          {
+            "thai": "คนเบียดเสียดกันในรถไฟฟ้าชั่วโมงเร่งด่วน",
+            "en": "People are packed tight on the train at rush hour.",
+            "audio_src": "คนเบียดเสียดกันในรถไฟฟ้าชั่วโมงเร่งด่วน",
+            "audio_en_src": "People are packed tight on the train at rush hour."
+          },
+          {
+            "thai": "แฟนๆเบียดเสียดกันหน้าเวที",
+            "en": "Fans crammed together in front of the stage.",
+            "audio_src": "แฟนๆเบียดเสียดกันหน้าเวที",
+            "audio_en_src": "Fans crammed together in front of the stage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -90946,6 +91079,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "(formal) entirely up to, depending on",
+        "sentences": [
+          {
+            "thai": "จะให้เท่าไหร่ก็สุดแต่ศรัทธา",
+            "en": "Give however much you wish, it's entirely up to your faith.",
+            "audio_src": "จะให้เท่าไหร่ก็สุดแต่ศรัทธา",
+            "audio_en_src": "Give however much you wish, it's entirely up to your faith."
+          },
+          {
+            "thai": "เรื่องนี้สุดแต่ท่านจะตัดสินใจ",
+            "en": "This matter rests entirely on your decision.",
+            "audio_src": "เรื่องนี้สุดแต่ท่านจะตัดสินใจ",
+            "audio_en_src": "This matter rests entirely on your decision."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91011,6 +91163,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "child born outside of marriage",
+        "sentences": [
+          {
+            "thai": "กฎหมายคุ้มครองสิทธิของบุตรนอกสมรส",
+            "en": "The law protects the rights of children born outside marriage.",
+            "audio_src": "กฎหมายคุ้มครองสิทธิของบุตรนอกสมรส",
+            "audio_en_src": "The law protects the rights of children born outside marriage."
+          },
+          {
+            "thai": "เขาเพิ่งรู้ว่ามีบุตรนอกสมรสอีกคน",
+            "en": "He just found out he has another child out of wedlock.",
+            "audio_src": "เขาเพิ่งรู้ว่ามีบุตรนอกสมรสอีกคน",
+            "audio_en_src": "He just found out he has another child out of wedlock."
+          }
+        ]
+      }
     ]
   },
   {
@@ -91139,6 +91310,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to gust (wind blowing in sudden bursts)",
+        "sentences": [
+          {
+            "thai": "ลมกระโชกแรงจนต้นไม้ล้ม",
+            "en": "The wind gusted so hard trees fell.",
+            "audio_src": "ลมกระโชกแรงจนต้นไม้ล้ม",
+            "audio_en_src": "The wind gusted so hard trees fell."
+          },
+          {
+            "thai": "พายุมาพร้อมลมกระโชกเป็นระยะ",
+            "en": "The storm came with periodic gusts of wind.",
+            "audio_src": "พายุมาพร้อมลมกระโชกเป็นระยะ",
+            "audio_en_src": "The storm came with periodic gusts of wind."
+          }
+        ]
+      }
     ]
   },
   {
