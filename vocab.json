@@ -81197,6 +81197,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "sleeveless top (traditional Thai top)",
+        "sentences": [
+          {
+            "thai": "คุณยายใส่เสื้อคอกระเช้าอยู่บ้าน",
+            "en": "Grandma wears a traditional sleeveless top around the house.",
+            "audio_src": "คุณยายใส่เสื้อคอกระเช้าอยู่บ้าน",
+            "audio_en_src": "Grandma wears a traditional sleeveless top around the house."
+          },
+          {
+            "thai": "อากาศร้อน ใส่เสื้อคอกระเช้านอนสบายสุด",
+            "en": "In hot weather, a light sleeveless top is the most comfortable to sleep in.",
+            "audio_src": "อากาศร้อน ใส่เสื้อคอกระเช้านอนสบายสุด",
+            "audio_en_src": "In hot weather, a light sleeveless top is the most comfortable to sleep in."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81544,6 +81563,25 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "proverb, saying, aphorism",
+        "sentences": [
+          {
+            "thai": "คำพังเพยไทยสอนเรื่องชีวิตได้ดี",
+            "en": "Thai sayings teach good life lessons.",
+            "audio_src": "คำพังเพยไทยสอนเรื่องชีวิตได้ดี",
+            "audio_en_src": "Thai sayings teach good life lessons."
+          },
+          {
+            "thai": "คุณยายชอบพูดเป็นคำพังเพย",
+            "en": "Grandma loves speaking in proverbs.",
+            "audio_src": "คุณยายชอบพูดเป็นคำพังเพย",
+            "audio_en_src": "Grandma loves speaking in proverbs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81554,6 +81592,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "living conditions, way of life",
+        "sentences": [
+          {
+            "thai": "การกินอยู่ที่ต่างจังหวัดถูกกว่ากรุงเทพ",
+            "en": "Living upcountry is cheaper than in Bangkok.",
+            "audio_src": "การกินอยู่ที่ต่างจังหวัดถูกกว่ากรุงเทพ",
+            "audio_en_src": "Living upcountry is cheaper than in Bangkok."
+          },
+          {
+            "thai": "เขาไม่ค่อยดูแลการกินอยู่ของตัวเอง",
+            "en": "He doesn't take good care of how he eats and lives.",
+            "audio_src": "เขาไม่ค่อยดูแลการกินอยู่ของตัวเอง",
+            "audio_en_src": "He doesn't take good care of how he eats and lives."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81675,6 +81732,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "gunman, hitman",
+        "sentences": [
+          {
+            "thai": "ตำรวจตามจับมือปืนที่ก่อเหตุ",
+            "en": "Police are hunting the gunman behind the attack.",
+            "audio_src": "ตำรวจตามจับมือปืนที่ก่อเหตุ",
+            "audio_en_src": "Police are hunting the gunman behind the attack."
+          },
+          {
+            "thai": "เขาถูกมือปืนรับจ้างยิง",
+            "en": "He was shot by a hired gunman.",
+            "audio_src": "เขาถูกมือปืนรับจ้างยิง",
+            "audio_en_src": "He was shot by a hired gunman."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81685,6 +81761,25 @@
     "sources": [
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "state enterprise, government-owned corporation",
+        "sentences": [
+          {
+            "thai": "การไฟฟ้าเป็นรัฐวิสาหกิจ",
+            "en": "The electricity authority is a state enterprise.",
+            "audio_src": "การไฟฟ้าเป็นรัฐวิสาหกิจ",
+            "audio_en_src": "The electricity authority is a state enterprise."
+          },
+          {
+            "thai": "พนักงานรัฐวิสาหกิจมีสวัสดิการดี",
+            "en": "State enterprise employees get good benefits.",
+            "audio_src": "พนักงานรัฐวิสาหกิจมีสวัสดิการดี",
+            "audio_en_src": "State enterprise employees get good benefits."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81722,6 +81817,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "maintenance cost, care fee",
+        "sentences": [
+          {
+            "thai": "รถหรูมีค่าดูแลรักษาแพง",
+            "en": "Luxury cars have high maintenance costs.",
+            "audio_src": "รถหรูมีค่าดูแลรักษาแพง",
+            "audio_en_src": "Luxury cars have high maintenance costs."
+          },
+          {
+            "thai": "สระว่ายน้ำมีค่าดูแลรักษาทุกเดือน",
+            "en": "A swimming pool has monthly maintenance costs.",
+            "audio_src": "สระว่ายน้ำมีค่าดูแลรักษาทุกเดือน",
+            "audio_en_src": "A swimming pool has monthly maintenance costs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81731,6 +81845,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "dashboard, control panel",
+        "sentences": [
+          {
+            "thai": "มีไฟเตือนขึ้นที่แผงหน้าปัด",
+            "en": "A warning light came on on the dashboard.",
+            "audio_src": "มีไฟเตือนขึ้นที่แผงหน้าปัด",
+            "audio_en_src": "A warning light came on on the dashboard."
+          },
+          {
+            "thai": "อย่าวางของบนแผงหน้าปัดรถ",
+            "en": "Don't put things on the car dashboard.",
+            "audio_src": "อย่าวางของบนแผงหน้าปัดรถ",
+            "audio_en_src": "Don't put things on the car dashboard."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81768,6 +81901,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "flyer, leaflet",
+        "sentences": [
+          {
+            "thai": "มีคนแจกใบปลิวหน้าห้าง",
+            "en": "Someone was handing out flyers in front of the mall.",
+            "audio_src": "มีคนแจกใบปลิวหน้าห้าง",
+            "audio_en_src": "Someone was handing out flyers in front of the mall."
+          },
+          {
+            "thai": "ใบปลิวโฆษณาเต็มตู้จดหมาย",
+            "en": "The mailbox is stuffed with advertising flyers.",
+            "audio_src": "ใบปลิวโฆษณาเต็มตู้จดหมาย",
+            "audio_en_src": "The mailbox is stuffed with advertising flyers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81834,6 +81986,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "friendliness, hospitality, cordiality",
+        "sentences": [
+          {
+            "thai": "คนเหนือขึ้นชื่อเรื่องอัธยาศัยไมตรี",
+            "en": "Northerners are known for their friendliness.",
+            "audio_src": "คนเหนือขึ้นชื่อเรื่องอัธยาศัยไมตรี",
+            "audio_en_src": "Northerners are known for their friendliness."
+          },
+          {
+            "thai": "เจ้าของร้านมีอัธยาศัยไมตรีดีมาก",
+            "en": "The shop owner is very warm and welcoming.",
+            "audio_src": "เจ้าของร้านมีอัธยาศัยไมตรีดีมาก",
+            "audio_en_src": "The shop owner is very warm and welcoming."
+          }
+        ]
+      }
     ]
   },
   {
@@ -81843,6 +82014,25 @@
     "frequency": "occasional",
     "sources": [
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "acceleration",
+        "sentences": [
+          {
+            "thai": "รถไฟฟ้ามีอัตราเร่งดีกว่ารถน้ำมัน",
+            "en": "Electric cars have better acceleration than gas cars.",
+            "audio_src": "รถไฟฟ้ามีอัตราเร่งดีกว่ารถน้ำมัน",
+            "audio_en_src": "Electric cars have better acceleration than gas cars."
+          },
+          {
+            "thai": "รถคันนี้อัตราเร่งแรงมาก",
+            "en": "This car accelerates really hard.",
+            "audio_src": "รถคันนี้อัตราเร่งแรงมาก",
+            "audio_en_src": "This car accelerates really hard."
+          }
+        ]
+      }
     ]
   },
   {
