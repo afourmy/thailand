@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7824 words**
+**Total: 7834 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2457,21 +2457,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-083` : หนังระทึกขวัญ (thriller (movie)) : 1 meaning(s), 2 sentences
 - `tsl-086` : ไม่ว่า... หรือ..., ต่างก็... ("no matter whether... or..., both...") : 1 meaning(s), 2 sentences
 - `tsl-087` : เลื่อนตำแหน่ง (to promote (an employee)) : 1 meaning(s), 2 sentences
+- `tsl-088` : อาหารข้างทาง (street food) : 1 meaning(s), 2 sentences
 - `tsl-090` : ถูกหวย (to win the lottery) : 1 meaning(s), 2 sentences
 - `tsl-091` : ไปทำงานต่างประเทศ (to go on a business trip abroad) : 1 meaning(s), 2 sentences
 - `tsl-091b` : ไปทำงานต่างจังหวัด (to go on a business trip to another province) : 1 meaning(s), 2 sentences
 - `tsl-092` : ให้ได้ (no matter what, at all costs, "to make sure to do something") : 1 meaning(s), 2 sentences
 - `tsl-093` : มุก, ไข่มุก (pearl) : 1 meaning(s), 2 sentences
 - `tsl-094` : มุข (joke, gag, punchline) : 1 meaning(s), 2 sentences
+- `tsl-095` : สนามหญ้า (lawn, grass yard) : 1 meaning(s), 2 sentences
 - `tsl-096` : เลขนำโชค (lucky number) : 1 meaning(s), 2 sentences
 - `tsl-097` : ฝ่าฝืน (to violate, to disobey, to breach (e.g a law, a rule)) : 1 meaning(s), 2 sentences
 - `tsl-098` : เข็ม (needle; (informal) shot, injection) : 2 meaning(s), 4 sentences
+- `tsl-099` : ความหลอน (creepiness, eeriness) : 1 meaning(s), 2 sentences
 - `tsl-100` : จู่ๆ (suddenly, all of a sudden) : 1 meaning(s), 2 sentences
 - `tsl-102` : มัมมี่ (mummy (preserved corpse)) : 1 meaning(s), 2 sentences
 - `tsl-103` : แคะขี้มูก (to pick one's nose) : 1 meaning(s), 2 sentences
+- `tsl-104` : นั่งเท้าคาง (to rest one's chin on one's hand) : 1 meaning(s), 2 sentences
 - `tsl-106` : คลั่งไคล้ (crazy about, infatuated with, obsessed with) : 1 meaning(s), 2 sentences
 - `tsl-107` : ทางลาด - ทางลาดชัน (slope (inclined path) - steep slope) : 2 meaning(s), 4 sentences
 - `tsl-108` : แบบทดสอบ (quiz, test, exam) : 1 meaning(s), 2 sentences
+- `tsl-109` : บ้านร้าง (abandoned house) : 1 meaning(s), 2 sentences
+- `tsl-110` : เลื่อย (saw) : 1 meaning(s), 2 sentences
+- `new-40` : เลื่อยไฟฟ้า (electric saw) : 1 meaning(s), 2 sentences
 - `tsl-111` : หลอน (haunted, spooky, creepy; to hallucinate) : 2 meaning(s), 4 sentences
 - `tsl-112` : บ่ง, บ่งบอก (to indicate, to reveal) : 1 meaning(s), 2 sentences
 - `tsl-113` : เบื้องลึก (deep inside, innermost (motivation, secret)) : 1 meaning(s), 2 sentences
@@ -2502,9 +2509,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-141` : ได้รับอิทธิพล (to be influenced by) : 1 meaning(s), 2 sentences
 - `tsl-142` : ชื่อการค้า (trade name, brand name) : 1 meaning(s), 2 sentences
 - `tsl-143` : นมข้นหวาน (sweetened condensed milk) : 1 meaning(s), 2 sentences
+- `tsl-144` : อย่างแพร่หลาย (widely, extensively, on a large scale) : 1 meaning(s), 2 sentences
 - `tsl-145` : ถูกอกถูกใจ (to be very pleased, pleasing, to one's liking) : 1 meaning(s), 2 sentences
 - `tsl-146` : บ้านๆ (simple, unpretentious, rustic, local) : 1 meaning(s), 2 sentences
 - `tsl-147` : เละเทะ (messy, chaotic, in complete disorder) : 1 meaning(s), 2 sentences
+- `tsl-148` : สวัสดิภาพ (safety, well-being) : 1 meaning(s), 2 sentences
 - `tsl-149` : ติดเงิน (to owe money) : 1 meaning(s), 2 sentences
 - `tsl-150` : ป่าช้า (cemetery, burial ground (rural)) : 1 meaning(s), 2 sentences
 - `tsl-151` : สังคมก้มหน้า ((idiom) smartphone-addicted society (literally "society with bowed heads")) : 1 meaning(s), 2 sentences
@@ -2516,6 +2525,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-157` : รู (hole, small opening, cavity) : 1 meaning(s), 2 sentences
 - `tsl-159` : ติดแน่น (stuck firmly, tightly attached) : 1 meaning(s), 2 sentences
 - `tsl-160` : เศรษฐกิจฟองสบู่ (economic bubble, financial bubble) : 1 meaning(s), 2 sentences
+- `tsl-161` : สารบัญ (table of contents) : 1 meaning(s), 2 sentences
 - `tsl-162` : คุ้มค่า (worth it, worthwhile, good value) : 1 meaning(s), 2 sentences
 - `tsl-163` : สะดุดตา (eye-catching, striking) : 1 meaning(s), 2 sentences
 - `tsl-164` : สำรวจ (to survey, to explore, to inspect) : 1 meaning(s), 2 sentences
