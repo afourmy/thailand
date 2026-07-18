@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8184 words**
+**Total: 8194 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4732,14 +4732,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-005` : จดจำ (to remember, to retain in memory) : 1 meaning(s), 2 sentences
 - `yt-c03-006` : ดอกมะลิ (jasmine flower) : 1 meaning(s), 2 sentences
 - `yt-c03-007` : ร้อย (hundred; to string, to thread (idea of connecting items in a sequence)) : 2 meaning(s), 4 sentences
+- `yt-c03-008` : ดั่ง, เหมือนดั่ง (like, just like, as if) : 1 meaning(s), 2 sentences
 - `yt-c03-009` : พระอรหันต์ (an enlightened monk who has attained Nirvana) : 1 meaning(s), 2 sentences
+- `yt-c03-010` : ความประพฤติ (behavior) : 1 meaning(s), 2 sentences
 - `yt-c03-011` : ความเมตตา (compassion, deep kindness) : 1 meaning(s), 2 sentences
+- `yt-c03-012` : ยั้ง, ยับยั้ง (to hold back, to restrain, to suppress, to prevent from happening) : 1 meaning(s), 2 sentences
+- `yt-c03-013` : ชั่งใจ (to weigh one's options, to hesitate carefully before deciding) : 1 meaning(s), 2 sentences
 - `yt-c03-014` : กระแทก (to slam, to hit with violent and sudden impact) : 1 meaning(s), 2 sentences
 - `yt-c03-015` : ควรแก่ (worthy of, deserving of) : 1 meaning(s), 2 sentences
 - `yt-c03-016` : อุปการะคุณ (support, benevolence (from someone who has helped you significantly)) : 1 meaning(s), 2 sentences
+- `yt-c03-017` : สลบไสล (to faint, to lose consciousness, unconscious, knocked out) : 1 meaning(s), 2 sentences
+- `yt-c03-018` : ฟุ่มเฟือย (superfluous, wasteful, extravagant, unnecessarily luxurious) : 1 meaning(s), 2 sentences
 - `yt-c03-019` : คำฟุ่มเฟือย (redundant words (words that can be removed without changing the meaning in Thai)) : 1 meaning(s), 2 sentences
+- `yt-c03-020` : ตีลังกา (to somersault, to flip) : 1 meaning(s), 2 sentences
+- `yt-c03-021` : กิ๊ฟติดผม (hair clip) : 1 meaning(s), 2 sentences
 - `yt-c03-022` : ตัวหนา (bold (text, e.g in Word)) : 1 meaning(s), 2 sentences
+- `yt-c03-026` : สีแสด (orange, leaning more on red (color)) : 1 meaning(s), 2 sentences
 - `yt-c03-027` : จับใจความ (to grasp the main idea, to understand the gist of) : 1 meaning(s), 2 sentences
+- `yt-c03-028` : ปากไม่ตรงกับใจ (to hide one's true feelings, to say something different from what one really feels) : 1 meaning(s), 2 sentences
 - `yt-c03-029` : อาศัย, พึ่งพา, พึ่งพาอาศัย (to rely on, to depend on) : 1 meaning(s), 2 sentences
 - `yt-c03-036` : ทางม้าลาย (zebra crossing) : 1 meaning(s), 2 sentences
 - `yt-c03-037` : เกินความจำเป็น (unnecessary, excessive, more than needed) : 1 meaning(s), 2 sentences
