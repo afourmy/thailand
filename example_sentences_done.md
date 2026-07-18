@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7624 words**
+**Total: 7634 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1111,11 +1111,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-218` : นอกใจ (to cheat on someone (be unfaithful)) : 1 meaning(s), 2 sentences
 - `tamago-l12-219` : นักดับเพลิง (firefighter) : 1 meaning(s), 2 sentences
 - `tamago-l12-220` : นักบินอวกาศ (astronaut) : 1 meaning(s), 2 sentences
+- `tamago-l12-221` : นั่งยองๆ (to squat) : 1 meaning(s), 2 sentences
 - `tamago-l12-223` : นั่นน่ะสิ ("that's right!", "good point!") : 1 meaning(s), 2 sentences
 - `tamago-l12-224` : นั่นแหละที่มัน ("that's exactly it", "that's precisely it") : 1 meaning(s), 2 sentences
 - `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
+- `tamago-l12-227` : นิตยสาร (magazine) : 1 meaning(s), 2 sentences
+- `tamago-l12-228` : นิติศาสตร์ (law (academic field)) : 1 meaning(s), 2 sentences
 - `tamago-l12-229` : นิทรา (to sleep, to slumber (formal, poetic)) : 1 meaning(s), 2 sentences
+- `tamago-l12-230` : นิทาน (tale, story (especially for children)) : 1 meaning(s), 2 sentences
 - `tamago-l12-231` : นิ้ว (inch; finger) : 2 meaning(s), 4 sentences
+- `tamago-l12-232` : นิ้วก้อย (little finger, pinky) : 1 meaning(s), 2 sentences
+- `tamago-l12-233` : นิ้วชี้ (index finger) : 1 meaning(s), 2 sentences
+- `tamago-l12-234` : นิ้วนาง (ring finger) : 1 meaning(s), 2 sentences
 - `tamago-l12-236` : นึกออก (to realize, to recall, to come to mind) : 1 meaning(s), 2 sentences
 - `tamago-l12-237` : นึ่ง (to steam (food)) : 1 meaning(s), 2 sentences
 - `tamago-l12-238` : น่อง (calf (back of the lower leg)) : 1 meaning(s), 2 sentences
@@ -1132,12 +1139,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-252` : บะหมี่ (egg noodle) : 1 meaning(s), 2 sentences
 - `tamago-l12-253` : บัง (to block, to obstruct (view, light); to hide, to cover up) : 2 meaning(s), 4 sentences
 - `tamago-l12-254` : บังเอิญ (by chance, coincidentally; to happen (by chance)) : 2 meaning(s), 4 sentences
+- `tamago-l12-255` : บัญชีออมทรัพย์ (savings account) : 1 meaning(s), 2 sentences
 - `tamago-l12-256` : บัตรประจำตัว (ID card) : 1 meaning(s), 2 sentences
 - `tamago-l12-257` : บันจี้จัมพ์ (bungee jump) : 1 meaning(s), 2 sentences
 - `tamago-l12-258` : บันไดเลื่อน (escalator) : 1 meaning(s), 2 sentences
 - `tamago-l12-259` : บาง (thin) : 1 meaning(s), 2 sentences
 - `tamago-l12-260` : ปฏิทิน (calendar) : 1 meaning(s), 2 sentences
 - `tamago-l12-261` : ประจำ, เป็นประจำ (regularly, constantly, routinely) : 1 meaning(s), 2 sentences
+- `tamago-l12-262` : ปลาฉลาม (shark) : 1 meaning(s), 2 sentences
+- `tamago-l12-263` : ปลาวาฬ (whale) : 1 meaning(s), 2 sentences
 - `tamago-l12-264` : ปลาเปรี้ยวหวาน (sweet and sour fish) : 1 meaning(s), 2 sentences
 - `tamago-l12-266` : ปลูก (to plant, to grow) : 1 meaning(s), 2 sentences
 - `tamago-l12-267` : ปล่อยให้ (to let, to allow; to leave someone to do something) : 2 meaning(s), 4 sentences

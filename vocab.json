@@ -34450,6 +34450,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to squat",
+        "sentences": [
+          {
+            "thai": "เขานั่งยองๆรอรถเมล์",
+            "en": "He squatted down waiting for the bus.",
+            "audio_src": "เขานั่งยองๆรอรถเมล์",
+            "audio_en_src": "He squatted down waiting for the bus."
+          },
+          {
+            "thai": "นั่งยองๆนานๆแล้วเมื่อยขา",
+            "en": "Squatting for a long time makes your legs ache.",
+            "audio_src": "นั่งยองๆนานๆแล้วเมื่อยขา",
+            "audio_en_src": "Squatting for a long time makes your legs ache."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34557,6 +34576,25 @@
       "Tobo Deck",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "magazine",
+        "sentences": [
+          {
+            "thai": "เธอชอบอ่านนิตยสารแฟชั่น",
+            "en": "She likes reading fashion magazines.",
+            "audio_src": "เธอชอบอ่านนิตยสารแฟชั่น",
+            "audio_en_src": "She likes reading fashion magazines."
+          },
+          {
+            "thai": "นิตยสารเล่มนี้ออกทุกเดือน",
+            "en": "This magazine comes out every month.",
+            "audio_src": "นิตยสารเล่มนี้ออกทุกเดือน",
+            "audio_en_src": "This magazine comes out every month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34567,6 +34605,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "law (academic field)",
+        "sentences": [
+          {
+            "thai": "เขาเรียนนิติศาสตร์ที่ธรรมศาสตร์",
+            "en": "He studies law at Thammasat.",
+            "audio_src": "เขาเรียนนิติศาสตร์ที่ธรรมศาสตร์",
+            "audio_en_src": "He studies law at Thammasat."
+          },
+          {
+            "thai": "อยากเป็นทนายต้องจบนิติศาสตร์",
+            "en": "To be a lawyer you need a law degree.",
+            "audio_src": "อยากเป็นทนายต้องจบนิติศาสตร์",
+            "audio_en_src": "To be a lawyer you need a law degree."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34605,6 +34662,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "tale, story (especially for children)",
+        "sentences": [
+          {
+            "thai": "แม่เล่านิทานให้ลูกฟังก่อนนอน",
+            "en": "Mom tells her kids a bedtime story.",
+            "audio_src": "แม่เล่านิทานให้ลูกฟังก่อนนอน",
+            "audio_en_src": "Mom tells her kids a bedtime story."
+          },
+          {
+            "thai": "เด็กๆชอบนิทานเรื่องนี้มาก",
+            "en": "The kids really love this story.",
+            "audio_src": "เด็กๆชอบนิทานเรื่องนี้มาก",
+            "audio_en_src": "The kids really love this story."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34666,6 +34742,25 @@
     "sources": [
       "Tamago L1-2",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "little finger, pinky",
+        "sentences": [
+          {
+            "thai": "เขาใส่แหวนที่นิ้วก้อย",
+            "en": "He wears a ring on his pinky.",
+            "audio_src": "เขาใส่แหวนที่นิ้วก้อย",
+            "audio_en_src": "He wears a ring on his pinky."
+          },
+          {
+            "thai": "เด็กสองคนเกี่ยวนิ้วก้อยกันเป็นสัญญา",
+            "en": "The two kids linked pinkies to make a promise.",
+            "audio_src": "เด็กสองคนเกี่ยวนิ้วก้อยกันเป็นสัญญา",
+            "audio_en_src": "The two kids linked pinkies to make a promise."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34676,6 +34771,25 @@
     "sources": [
       "Tamago L1-2",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "index finger",
+        "sentences": [
+          {
+            "thai": "เขาใช้นิ้วชี้กดกริ่ง",
+            "en": "He pressed the doorbell with his index finger.",
+            "audio_src": "เขาใช้นิ้วชี้กดกริ่ง",
+            "audio_en_src": "He pressed the doorbell with his index finger."
+          },
+          {
+            "thai": "มีดบาดนิ้วชี้ตอนหั่นผัก",
+            "en": "I cut my index finger while chopping vegetables.",
+            "audio_src": "มีดบาดนิ้วชี้ตอนหั่นผัก",
+            "audio_en_src": "I cut my index finger while chopping vegetables."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34686,6 +34800,25 @@
     "sources": [
       "Tamago L1-2",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "ring finger",
+        "sentences": [
+          {
+            "thai": "แหวนแต่งงานใส่ที่นิ้วนางข้างซ้าย",
+            "en": "The wedding ring goes on the left ring finger.",
+            "audio_src": "แหวนแต่งงานใส่ที่นิ้วนางข้างซ้าย",
+            "audio_en_src": "The wedding ring goes on the left ring finger."
+          },
+          {
+            "thai": "นิ้วนางของเธอมีแหวนเพชรวงใหญ่",
+            "en": "She has a big diamond ring on her ring finger.",
+            "audio_src": "นิ้วนางของเธอมีแหวนเพชรวงใหญ่",
+            "audio_en_src": "She has a big diamond ring on her ring finger."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35215,6 +35348,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "savings account",
+        "sentences": [
+          {
+            "thai": "ขอเปิดบัญชีออมทรัพย์ครับ",
+            "en": "I'd like to open a savings account, please.",
+            "audio_src": "ขอเปิดบัญชีออมทรัพย์ครับ",
+            "audio_en_src": "I'd like to open a savings account, please."
+          },
+          {
+            "thai": "ฉันโอนเงินเข้าบัญชีออมทรัพย์ทุกเดือน",
+            "en": "I transfer money into my savings account every month.",
+            "audio_src": "ฉันโอนเงินเข้าบัญชีออมทรัพย์ทุกเดือน",
+            "audio_en_src": "I transfer money into my savings account every month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35415,6 +35567,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "shark",
+        "sentences": [
+          {
+            "thai": "เขากลัวปลาฉลามเลยไม่กล้าดำน้ำ",
+            "en": "He's scared of sharks, so he won't go diving.",
+            "audio_src": "เขากลัวปลาฉลามเลยไม่กล้าดำน้ำ",
+            "audio_en_src": "He's scared of sharks, so he won't go diving."
+          },
+          {
+            "thai": "ปลาฉลามได้กลิ่นเลือดจากที่ไกลมาก",
+            "en": "Sharks can smell blood from far away.",
+            "audio_src": "ปลาฉลามได้กลิ่นเลือดจากที่ไกลมาก",
+            "audio_en_src": "Sharks can smell blood from far away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -35425,6 +35596,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "whale",
+        "sentences": [
+          {
+            "thai": "ปลาวาฬเป็นสัตว์เลี้ยงลูกด้วยนม ไม่ใช่ปลา",
+            "en": "Whales are mammals, not fish.",
+            "audio_src": "ปลาวาฬเป็นสัตว์เลี้ยงลูกด้วยนม ไม่ใช่ปลา",
+            "audio_en_src": "Whales are mammals, not fish."
+          },
+          {
+            "thai": "เราออกเรือไปดูปลาวาฬ",
+            "en": "We took a boat out to watch whales.",
+            "audio_src": "เราออกเรือไปดูปลาวาฬ",
+            "audio_en_src": "We took a boat out to watch whales."
+          }
+        ]
+      }
     ]
   },
   {
