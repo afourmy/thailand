@@ -92711,6 +92711,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "meditation (Buddhism)",
+        "sentences": [
+          {
+            "thai": "หลวงพ่อสอนกรรมฐานทุกเย็นวันพระ",
+            "en": "The abbot teaches meditation every Buddhist holy day evening.",
+            "audio_src": "หลวงพ่อสอนกรรมฐานทุกเย็นวันพระ",
+            "audio_en_src": "The abbot teaches meditation every Buddhist holy day evening."
+          },
+          {
+            "thai": "เธอไปปฏิบัติกรรมฐานที่วัดเจ็ดวัน",
+            "en": "She went to practice meditation at a temple for seven days.",
+            "audio_src": "เธอไปปฏิบัติกรรมฐานที่วัดเจ็ดวัน",
+            "audio_en_src": "She went to practice meditation at a temple for seven days."
+          }
+        ]
+      }
     ]
   },
   {
@@ -92750,6 +92769,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "close in time, imminent, at short notice",
+        "sentences": [
+          {
+            "thai": "แจ้งกระชั้นชิดแบบนี้ หาคนแทนไม่ทัน",
+            "en": "With such short notice, we can't find a replacement in time.",
+            "audio_src": "แจ้งกระชั้นชิดแบบนี้ หาคนแทนไม่ทัน",
+            "audio_en_src": "With such short notice, we can't find a replacement in time."
+          },
+          {
+            "thai": "เวลากระชั้นชิดเกินไป เตรียมตัวไม่ทัน",
+            "en": "Time is too tight, we can't prepare in time.",
+            "audio_src": "เวลากระชั้นชิดเกินไป เตรียมตัวไม่ทัน",
+            "audio_en_src": "Time is too tight, we can't prepare in time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93088,6 +93126,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to transform, to change state",
+        "sentences": [
+          {
+            "thai": "น้ำกลายสภาพเป็นไอเมื่อโดนความร้อน",
+            "en": "Water turns to vapor when heated.",
+            "audio_src": "น้ำกลายสภาพเป็นไอเมื่อโดนความร้อน",
+            "audio_en_src": "Water turns to vapor when heated."
+          },
+          {
+            "thai": "ตึกเก่ากลายสภาพเป็นโรงแรมหรู",
+            "en": "The old building was transformed into a luxury hotel.",
+            "audio_src": "ตึกเก่ากลายสภาพเป็นโรงแรมหรู",
+            "audio_en_src": "The old building was transformed into a luxury hotel."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93431,6 +93488,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "navy",
+        "sentences": [
+          {
+            "thai": "กองทัพเรือส่งเรือรบไปช่วยผู้ประสบภัย",
+            "en": "The navy sent warships to help disaster victims.",
+            "audio_src": "กองทัพเรือส่งเรือรบไปช่วยผู้ประสบภัย",
+            "audio_en_src": "The navy sent warships to help disaster victims."
+          },
+          {
+            "thai": "เขารับราชการในกองทัพเรือ",
+            "en": "He serves in the navy.",
+            "audio_src": "เขารับราชการในกองทัพเรือ",
+            "audio_en_src": "He serves in the navy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93441,6 +93517,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sailor, navy serviceman, navy personnel",
+        "sentences": [
+          {
+            "thai": "พี่ชายเป็นทหารเรือประจำอยู่ที่สัตหีบ",
+            "en": "My brother is a navy man stationed at Sattahip.",
+            "audio_src": "พี่ชายเป็นทหารเรือประจำอยู่ที่สัตหีบ",
+            "audio_en_src": "My brother is a navy man stationed at Sattahip."
+          },
+          {
+            "thai": "ทหารเรือช่วยชาวบ้านตอนน้ำท่วม",
+            "en": "Navy sailors helped villagers during the floods.",
+            "audio_src": "ทหารเรือช่วยชาวบ้านตอนน้ำท่วม",
+            "audio_en_src": "Navy sailors helped villagers during the floods."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93767,6 +93862,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "selection",
+        "sentences": [
+          {
+            "thai": "เขาผ่านการคัดเลือกรอบแรกแล้ว",
+            "en": "He made it through the first round of selection.",
+            "audio_src": "เขาผ่านการคัดเลือกรอบแรกแล้ว",
+            "audio_en_src": "He made it through the first round of selection."
+          },
+          {
+            "thai": "การคัดเลือกทหารจัดขึ้นทุกเดือนเมษายน",
+            "en": "Military conscription selection is held every April.",
+            "audio_src": "การคัดเลือกทหารจัดขึ้นทุกเดือนเมษายน",
+            "audio_en_src": "Military conscription selection is held every April."
+          }
+        ]
+      }
     ]
   },
   {
@@ -93834,6 +93948,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "diplomacy",
+        "sentences": [
+          {
+            "thai": "สองประเทศแก้ปัญหาด้วยการทูต",
+            "en": "The two countries solved the problem through diplomacy.",
+            "audio_src": "สองประเทศแก้ปัญหาด้วยการทูต",
+            "audio_en_src": "The two countries solved the problem through diplomacy."
+          },
+          {
+            "thai": "เขาเรียนด้านความสัมพันธ์ระหว่างประเทศและการทูต",
+            "en": "He studied international relations and diplomacy.",
+            "audio_src": "เขาเรียนด้านความสัมพันธ์ระหว่างประเทศและการทูต",
+            "audio_en_src": "He studied international relations and diplomacy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -94217,6 +94350,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sickness, illness",
+        "sentences": [
+          {
+            "thai": "ประกันนี้ครอบคลุมการเจ็บป่วยร้ายแรง",
+            "en": "This insurance covers serious illness.",
+            "audio_src": "ประกันนี้ครอบคลุมการเจ็บป่วยร้ายแรง",
+            "audio_en_src": "This insurance covers serious illness."
+          },
+          {
+            "thai": "การเจ็บป่วยทำให้เขาต้องหยุดงานบ่อย",
+            "en": "Illness forces him to miss work often.",
+            "audio_src": "การเจ็บป่วยทำให้เขาต้องหยุดงานบ่อย",
+            "audio_en_src": "Illness forces him to miss work often."
+          }
+        ]
+      }
     ]
   },
   {
@@ -94876,6 +95028,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "parallel",
+        "sentences": [
+          {
+            "thai": "ถนนสองสายนี้ขนานกัน",
+            "en": "These two roads run parallel.",
+            "audio_src": "ถนนสองสายนี้ขนานกัน",
+            "audio_en_src": "These two roads run parallel."
+          },
+          {
+            "thai": "ลากเส้นขนานสองเส้น",
+            "en": "Draw two parallel lines.",
+            "audio_src": "ลากเส้นขนานสองเส้น",
+            "audio_en_src": "Draw two parallel lines."
+          }
+        ]
+      }
     ]
   },
   {
@@ -94977,6 +95148,25 @@
     "sources": [
       "Thaipod101",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "axe",
+        "sentences": [
+          {
+            "thai": "เขาใช้ขวานผ่าฟืน",
+            "en": "He splits firewood with an axe.",
+            "audio_src": "เขาใช้ขวานผ่าฟืน",
+            "audio_en_src": "He splits firewood with an axe."
+          },
+          {
+            "thai": "ประเทศไทยมีรูปร่างเหมือนขวานทอง",
+            "en": "Thailand is shaped like a golden axe.",
+            "audio_src": "ประเทศไทยมีรูปร่างเหมือนขวานทอง",
+            "audio_en_src": "Thailand is shaped like a golden axe."
+          }
+        ]
+      }
     ]
   },
   {

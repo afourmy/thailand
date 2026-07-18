@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7964 words**
+**Total: 7974 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2985,7 +2985,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0005` : กฎอัยการศึก (martial law) : 1 meaning(s), 2 sentences
 - `thaipod-0006` : กรมการ (departmental officials, administrative officers, governing body (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0007` : กรมศิลปากร (Fine Arts Department) : 1 meaning(s), 2 sentences
+- `thaipod-0008` : กรรมฐาน (meditation (Buddhism)) : 1 meaning(s), 2 sentences
 - `thaipod-0009` : กระจัดกระจาย (scattered, spread out) : 1 meaning(s), 2 sentences
+- `thaipod-0012` : กระชั้นชิด (close in time, imminent, at short notice) : 1 meaning(s), 2 sentences
 - `thaipod-0013` : กระตุ้น (to stimulate, to urge) : 1 meaning(s), 2 sentences
 - `thaipod-0014` : กระทง (krathong (small decorated float made from banana leaves, flowers, candles for Loy Krathong festival)) : 1 meaning(s), 2 sentences
 - `thaipod-0016` : กระเช้าของขวัญ (gift basket) : 1 meaning(s), 2 sentences
@@ -2997,6 +2999,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0022` : กรุง (capital city) : 1 meaning(s), 2 sentences
 - `thaipod-0023` : กลอนบรรยาย (descriptive verse (poetry)) : 1 meaning(s), 2 sentences
 - `thaipod-0024` : กลับหัว (upside down) : 1 meaning(s), 2 sentences
+- `thaipod-0025` : กลายสภาพ (to transform, to change state) : 1 meaning(s), 2 sentences
 - `thaipod-0026` : กลุ่มอิทธิพล (powerful clique, gang, influential group) : 1 meaning(s), 2 sentences
 - `thaipod-0027` : กล่าวขวัญ (to mention, to speak of (usually in praise)) : 1 meaning(s), 2 sentences
 - `thaipod-0028` : กล่าวหา (to accuse, to allege, to charge) : 1 meaning(s), 2 sentences
@@ -3007,6 +3010,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0033` : กษัตริย์ (king) : 1 meaning(s), 2 sentences
 - `thaipod-0034` : กอง (pile, heap; division (e.g army)) : 2 meaning(s), 4 sentences
 - `thaipod-0035` : กองกำลังทหาร (military forces) : 1 meaning(s), 2 sentences
+- `thaipod-0037` : กองทัพเรือ (navy) : 1 meaning(s), 2 sentences
+- `new-37` : ทหารเรือ (sailor, navy serviceman, navy personnel) : 1 meaning(s), 2 sentences
 - `thaipod-0038` : กองไฟ (bonfire, pile of fire) : 1 meaning(s), 2 sentences
 - `thaipod-0040` : กังขา (skeptical, doubtful (formal, literary)) : 1 meaning(s), 2 sentences
 - `thaipod-0041` : กัณฑ์ (chapter, section (Buddhist text)) : 1 meaning(s), 2 sentences
@@ -3018,8 +3023,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0047` : การขยายตัว (expansion) : 1 meaning(s), 2 sentences
 - `thaipod-0048` : การขาดแคลนอาหาร (food shortage) : 1 meaning(s), 2 sentences
 - `thaipod-0050` : การขุดพบ (discovery (via excavation)) : 1 meaning(s), 2 sentences
+- `thaipod-0052` : การคัดเลือก (selection) : 1 meaning(s), 2 sentences
 - `thaipod-0055` : การจัดการ (management, organization, setup) : 1 meaning(s), 2 sentences
 - `thaipod-0058` : การฉ้อราษฎร์บังหลวง (embezzlement of public funds (corruption)) : 1 meaning(s), 2 sentences
+- `thaipod-0060` : การทูต (diplomacy) : 1 meaning(s), 2 sentences
 - `thaipod-0061` : การนำเสนอ (presentation) : 1 meaning(s), 2 sentences
 - `thaipod-0062` : การบอกเล่า (narration, reporting (orally)) : 1 meaning(s), 2 sentences
 - `thaipod-0063` : การบูรณะซ่อมแซม (restoration and repair) : 1 meaning(s), 2 sentences
@@ -3033,6 +3040,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0077` : การสร้างกุศล (performing good deeds, merit-making) : 1 meaning(s), 2 sentences
 - `thaipod-0081` : การส่องสัตว์ (animal watching, animal spotting) : 1 meaning(s), 2 sentences
 - `thaipod-0082` : การออกร้าน (setting up a stall, selling goods at an event) : 1 meaning(s), 2 sentences
+- `thaipod-0083` : การเจ็บป่วย (sickness, illness) : 1 meaning(s), 2 sentences
 - `thaipod-0084` : การเซิ้ง (traditional Isan folk dance) : 1 meaning(s), 2 sentences
 - `thaipod-0085` : การเปิดใช้ (activation, putting into use) : 1 meaning(s), 2 sentences
 - `thaipod-0087` : การเรียงตัว (arrangement, alignment) : 1 meaning(s), 2 sentences
@@ -3055,9 +3063,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0115` : ขนบธรรมเนียม (customs, traditions) : 1 meaning(s), 2 sentences
 - `thaipod-0116` : ขนม (dessert, sweet, snack) : 1 meaning(s), 2 sentences
 - `thaipod-0117` : ขนมหวาน (sweet dessert) : 1 meaning(s), 2 sentences
+- `thaipod-0118` : ขนาน (parallel) : 1 meaning(s), 2 sentences
 - `thaipod-0119` : ขนานพระนาม (to bestow a royal name (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-0120` : ขบวน (procession, parade) : 1 meaning(s), 2 sentences
 - `thaipod-0121` : ขยาย (to expand, to enlarge) : 1 meaning(s), 2 sentences
+- `thaipod-0122` : ขวาน (axe) : 1 meaning(s), 2 sentences
 - `thaipod-0124` : ของที่ระลึก (souvenir) : 1 meaning(s), 2 sentences
 - `thaipod-0128` : ขับ, ขับขี่ (to drive) : 1 meaning(s), 2 sentences
 - `thaipod-0130` : ขับไล่ (to expel, to drive out, to banish) : 1 meaning(s), 2 sentences
