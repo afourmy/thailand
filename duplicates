@@ -1,0 +1,39 @@
+Duplicate thai entries in vocab.json (found 2026-07-18). For each pair: keep which card? (glosses can also be merged into the survivor). เพลา (yt-c11-072 / new-33) is excluded: intentional homograph split.
+
+เหลี่ยม
+  tsl-281 [occasional, no examples, no audio] 'angle, corner (geometry)'
+  t4k-c07-098 [common, 2 examples, 10 audio files] 'edge, side; trick, tactic'
+  note: tsl gloss covers the geometry sense, which the t4k gloss does not mention
+  decision: keep t4k-c07-098
+
+น้ำมนต์
+  tsl-346 [common, 1 example, 4 audio files] 'holy water (Buddhist)'
+  new-32 [rare, 1 example, 4 audio files] 'holy water (blessed by monks)'
+  note: both have audio, so removing either one means deleting its clips from the audio repos
+  decision: keep new-32
+
+ลาด
+  tsl-531 [common, 2 examples, 10 audio files] 'slope, inclined; to pave, to cover a surface'
+  yt-c08-080 [occasional, no examples, no audio] 'slope'
+  note: yt gloss is a strict subset of the tsl gloss
+  decision: keep tsl-531
+
+บริบูรณ์
+  tsl-614 [occasional, no examples, no audio] 'complete, abundant, plentiful'
+  new-55 [occasional, no examples, no audio] 'fully finished, nothing is missing, complete, perfect'
+  decision: keep new-55
+
+กระชั้นชิด
+  thaipod-0012 [occasional, no examples, no audio] 'close in time, imminent, at short notice'
+  yt-c19-002 [occasional, no examples, no audio] 'very close, pressing, imminent'
+  decision: keep thaipod-0012
+
+จักรราศี
+  yt-c04-089 [occasional, no examples, no audio] 'zodiac, the zodiac signs'
+  yt-c14-098 [occasional, no examples, no audio] 'zodiac sign, zodiac wheel of 12 sign (literally "wheel, circle + constellation")'
+  decision: keep yt-c14-098
+
+ข้อพิพาท
+  yt-c10-095 [occasional, no examples, no audio] 'dispute, conflict, point of contention'
+  t4k-c11-044 [common, 1 example, 4 audio files] 'dispute, conflict, disagreement (formal)'
+  decision: keep t4k-c11-044 as 'dispute, conflict, point of contention, disagreement (formal)'

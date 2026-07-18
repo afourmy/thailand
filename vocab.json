@@ -70193,15 +70193,6 @@
     ]
   },
   {
-    "id": "tsl-281",
-    "thai": "เหลี่ยม",
-    "english": "angle, corner (geometry)",
-    "frequency": "occasional",
-    "sources": [
-      "TSL Chiang Mai"
-    ]
-  },
-  {
     "id": "tsl-282",
     "thai": "เร้าใจ",
     "english": "exciting, stimulating, thrilling",
@@ -71655,34 +71646,6 @@
             "en": "The weather's changing lately, a lot of people are getting sick.",
             "audio_src": "ช่วงนี้อากาศเปลี่ยน คนเจ็บไข้ได้ป่วยกันเยอะ",
             "audio_en_src": "The weather's changing lately, a lot of people are getting sick."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "tsl-346",
-    "thai": "น้ำมนต์",
-    "english": "holy water (Buddhist)",
-    "frequency": "common",
-    "sources": [
-      "TSL Chiang Mai"
-    ],
-    "examples": [
-      {
-        "meaning": "holy water (Buddhist)",
-        "sentences": [
-          {
-            "thai": "พระประพรมน้ำมนต์ให้พร",
-            "en": "The monk sprinkled holy water to give a blessing.",
-            "audio_src": "พระประพรมน้ำมนต์ให้พร",
-            "audio_en_src": "The monk sprinkled holy water to give a blessing."
-          },
-          {
-            "thai": "คนไทยเชื่อว่าน้ำมนต์ช่วยปัดเป่าสิ่งไม่ดี",
-            "en": "Thais believe holy water wards off bad things.",
-            "audio_src": "คนไทยเชื่อว่าน้ำมนต์ช่วยปัดเป่าสิ่งไม่ดี",
-            "audio_en_src": "Thais believe holy water wards off bad things."
           }
         ]
       }
@@ -77937,16 +77900,6 @@
     "sources": [
       "TSL Chiang Mai",
       "YouTube",
-      "Thai 4000"
-    ]
-  },
-  {
-    "id": "tsl-614",
-    "thai": "บริบูรณ์",
-    "english": "complete, abundant, plentiful",
-    "frequency": "occasional",
-    "sources": [
-      "TSL Chiang Mai",
       "Thai 4000"
     ]
   },
@@ -131348,15 +131301,6 @@
     ]
   },
   {
-    "id": "yt-c04-089",
-    "thai": "จักรราศี",
-    "english": "zodiac, the zodiac signs",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c04-090",
     "thai": "ข้างแรม",
     "english": "waning moon phase (when the moon is becoming less visible)",
@@ -139317,15 +139261,6 @@
     ]
   },
   {
-    "id": "yt-c08-080",
-    "thai": "ลาด",
-    "english": "slope",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
     "id": "yt-c08-081",
     "thai": "น้ำข้น",
     "english": "thick soup (e.g cream-based, not watery)",
@@ -143223,15 +143158,6 @@
     "sources": [
       "YouTube",
       "Thai 4000"
-    ]
-  },
-  {
-    "id": "yt-c10-095",
-    "thai": "ข้อพิพาท",
-    "english": "dispute, conflict, point of contention",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
     ]
   },
   {
@@ -160074,15 +160000,6 @@
     "id": "yt-c19-001",
     "thai": "ชื่อในวงการ",
     "english": "stage name, screename (e.g nickname of a singer, an actor)",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
-    ]
-  },
-  {
-    "id": "yt-c19-002",
-    "thai": "กระชั้นชิด",
-    "english": "very close, pressing, imminent",
     "frequency": "occasional",
     "sources": [
       "YouTube"
@@ -236048,14 +235965,14 @@
   {
     "id": "t4k-c11-044",
     "thai": "ข้อพิพาท",
-    "english": "dispute, conflict, disagreement (formal)",
+    "english": "dispute, conflict, point of contention, disagreement (formal)",
     "frequency": "common",
     "sources": [
       "Thai 4000"
     ],
     "examples": [
       {
-        "meaning": "dispute, conflict, disagreement (formal)",
+        "meaning": "dispute, conflict, point of contention, disagreement (formal)",
         "sentences": [
           {
             "thai": "สองประเทศมีข้อพิพาทเรื่องพรมแดน",
