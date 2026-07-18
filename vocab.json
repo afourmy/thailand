@@ -142106,6 +142106,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "charge, accusation (in legal context)",
+        "sentences": [
+          {
+            "thai": "เขาถูกจับข้อหาเมาแล้วขับ",
+            "en": "He was arrested on a drunk-driving charge.",
+            "audio_src": "เขาถูกจับข้อหาเมาแล้วขับ",
+            "audio_en_src": "He was arrested on a drunk-driving charge."
+          },
+          {
+            "thai": "ตำรวจตั้งข้อหาลักทรัพย์",
+            "en": "The police charged him with theft.",
+            "audio_src": "ตำรวจตั้งข้อหาลักทรัพย์",
+            "audio_en_src": "The police charged him with theft."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142172,6 +142191,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "capacity (e.g in terms of volume)",
+        "sentences": [
+          {
+            "thai": "ขวดนี้มีความจุหนึ่งลิตร",
+            "en": "This bottle has a capacity of one liter.",
+            "audio_src": "ขวดนี้มีความจุหนึ่งลิตร",
+            "audio_en_src": "This bottle has a capacity of one liter."
+          },
+          {
+            "thai": "มือถือรุ่นใหม่ความจุ 256 กิ๊ก",
+            "en": "The new phone has 256 gigs of storage.",
+            "audio_src": "มือถือรุ่นใหม่ความจุ 256 กิ๊ก",
+            "audio_en_src": "The new phone has 256 gigs of storage."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142182,6 +142220,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "suspended, halted, interrupted",
+        "sentences": [
+          {
+            "thai": "การก่อสร้างชะงักเพราะขาดเงินทุน",
+            "en": "Construction halted for lack of funds.",
+            "audio_src": "การก่อสร้างชะงักเพราะขาดเงินทุน",
+            "audio_en_src": "Construction halted for lack of funds."
+          },
+          {
+            "thai": "เขาเดินๆอยู่ก็ชะงักตอนได้ยินเสียงแปลกๆ",
+            "en": "He was walking along and stopped short when he heard a strange noise.",
+            "audio_src": "เขาเดินๆอยู่ก็ชะงักตอนได้ยินเสียงแปลกๆ",
+            "audio_en_src": "He was walking along and stopped short when he heard a strange noise."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142191,6 +142248,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "infrastructure",
+        "sentences": [
+          {
+            "thai": "รัฐบาลลงทุนในโครงสร้างพื้นฐานครั้งใหญ่",
+            "en": "The government is making a major investment in infrastructure.",
+            "audio_src": "รัฐบาลลงทุนในโครงสร้างพื้นฐานครั้งใหญ่",
+            "audio_en_src": "The government is making a major investment in infrastructure."
+          },
+          {
+            "thai": "ชนบทยังขาดโครงสร้างพื้นฐานหลายอย่าง",
+            "en": "Rural areas still lack a lot of infrastructure.",
+            "audio_src": "ชนบทยังขาดโครงสร้างพื้นฐานหลายอย่าง",
+            "audio_en_src": "Rural areas still lack a lot of infrastructure."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142201,6 +142277,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "measure",
+        "sentences": [
+          {
+            "thai": "รัฐออกมาตรการช่วยเหลือคนตกงาน",
+            "en": "The state issued measures to help the unemployed.",
+            "audio_src": "รัฐออกมาตรการช่วยเหลือคนตกงาน",
+            "audio_en_src": "The state issued measures to help the unemployed."
+          },
+          {
+            "thai": "โรงเรียนมีมาตรการรักษาความปลอดภัยเข้มงวด",
+            "en": "The school has strict security measures.",
+            "audio_src": "โรงเรียนมีมาตรการรักษาความปลอดภัยเข้มงวด",
+            "audio_en_src": "The school has strict security measures."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142298,6 +142393,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cavity, hollow space",
+        "sentences": [
+          {
+            "thai": "กระรอกทำรังในโพรงต้นไม้",
+            "en": "Squirrels nest in tree hollows.",
+            "audio_src": "กระรอกทำรังในโพรงต้นไม้",
+            "audio_en_src": "Squirrels nest in tree hollows."
+          },
+          {
+            "thai": "หมอบอกว่าฟันผุเป็นโพรงแล้ว",
+            "en": "The dentist says the decay has formed a cavity.",
+            "audio_src": "หมอบอกว่าฟันผุเป็นโพรงแล้ว",
+            "audio_en_src": "The dentist says the decay has formed a cavity."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142338,6 +142452,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "electrical socket, power outlet",
+        "sentences": [
+          {
+            "thai": "ห้องนี้มีเต้ารับไม่พอ",
+            "en": "This room doesn't have enough outlets.",
+            "audio_src": "ห้องนี้มีเต้ารับไม่พอ",
+            "audio_en_src": "This room doesn't have enough outlets."
+          },
+          {
+            "thai": "อย่าเสียบปลั๊กหลายอันในเต้ารับเดียว",
+            "en": "Don't plug too many things into one outlet.",
+            "audio_src": "อย่าเสียบปลั๊กหลายอันในเต้ารับเดียว",
+            "audio_en_src": "Don't plug too many things into one outlet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142347,6 +142480,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to go pee, piss (slang)",
+        "sentences": [
+          {
+            "thai": "ขอจอดแป๊บ ปวดเยี่ยว",
+            "en": "Pull over a sec, I need to piss.",
+            "audio_src": "ขอจอดแป๊บ ปวดเยี่ยว",
+            "audio_en_src": "Pull over a sec, I need to piss."
+          },
+          {
+            "thai": "หมาเยี่ยวรดล้อรถ",
+            "en": "The dog peed on the car wheel.",
+            "audio_src": "หมาเยี่ยวรดล้อรถ",
+            "audio_en_src": "The dog peed on the car wheel."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142356,6 +142508,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fire exit",
+        "sentences": [
+          {
+            "thai": "อย่าวางของขวางทางหนีไฟ",
+            "en": "Don't block the fire exit.",
+            "audio_src": "อย่าวางของขวางทางหนีไฟ",
+            "audio_en_src": "Don't block the fire exit."
+          },
+          {
+            "thai": "เช็คทางหนีไฟทุกครั้งที่เข้าพักโรงแรม",
+            "en": "Check the fire exits every time you stay at a hotel.",
+            "audio_src": "เช็คทางหนีไฟทุกครั้งที่เข้าพักโรงแรม",
+            "audio_en_src": "Check the fire exits every time you stay at a hotel."
+          }
+        ]
+      }
     ]
   },
   {
@@ -142366,6 +142537,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mold, fungus",
+        "sentences": [
+          {
+            "thai": "ขนมปังขึ้นราแล้ว ทิ้งเถอะ",
+            "en": "The bread's gone moldy, throw it out.",
+            "audio_src": "ขนมปังขึ้นราแล้ว ทิ้งเถอะ",
+            "audio_en_src": "The bread's gone moldy, throw it out."
+          },
+          {
+            "thai": "หน้าฝนผนังห้องน้ำขึ้นราง่าย",
+            "en": "In the rainy season the bathroom walls get moldy easily.",
+            "audio_src": "หน้าฝนผนังห้องน้ำขึ้นราง่าย",
+            "audio_en_src": "In the rainy season the bathroom walls get moldy easily."
+          }
+        ]
+      }
     ]
   },
   {

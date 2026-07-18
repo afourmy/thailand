@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8124 words**
+**Total: 8134 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4605,12 +4605,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-068` : ข้อมูลพื้นฐาน (basic information, fundamental data) : 1 meaning(s), 2 sentences
 - `yt-c01-069` : กิจกรรมทางปัญญา (intellectual activities) : 1 meaning(s), 2 sentences
 - `yt-c01-070` : การพิจารณาคดี (trial, court proceedings) : 1 meaning(s), 2 sentences
+- `yt-c01-071` : ข้อหา (charge, accusation (in legal context)) : 1 meaning(s), 2 sentences
 - `yt-c01-072` : มหาอุทกภัย (great flooding (2011)) : 1 meaning(s), 2 sentences
 - `yt-c01-073` : เขื่อน (dam) : 1 meaning(s), 2 sentences
+- `yt-c01-074` : ความจุ (capacity (e.g in terms of volume)) : 1 meaning(s), 2 sentences
+- `yt-c01-075` : ชะงัก (suspended, halted, interrupted) : 1 meaning(s), 2 sentences
+- `yt-c01-076` : โครงสร้างพื้นฐาน (infrastructure) : 1 meaning(s), 2 sentences
+- `yt-c01-077` : มาตรการ (measure) : 1 meaning(s), 2 sentences
 - `yt-c01-078` : กัดเซาะ (to erode, to corrode, to wear away) : 1 meaning(s), 2 sentences
 - `yt-c01-079` : เกาะติด (to cling to, to stick to) : 1 meaning(s), 2 sentences
 - `yt-c01-080` : สงบลง (to calm down, to settle down (about a situation)) : 1 meaning(s), 2 sentences
+- `yt-c01-082` : โพรง (cavity, hollow space) : 1 meaning(s), 2 sentences
 - `yt-c01-083` : ฝึกฝน (to practice, to train) : 1 meaning(s), 2 sentences
+- `yt-c01-084` : เต้ารับ (electrical socket, power outlet) : 1 meaning(s), 2 sentences
+- `yt-c01-085` : เยี่ยว (to go pee, piss (slang)) : 1 meaning(s), 2 sentences
+- `yt-c01-086` : ทางหนีไฟ (fire exit) : 1 meaning(s), 2 sentences
+- `yt-c01-087` : รา (mold, fungus) : 1 meaning(s), 2 sentences
 - `yt-c01-088` : ยาฆ่าเชื้อ (antiseptic, disinfectant) : 1 meaning(s), 2 sentences
 - `yt-c01-089` : มานุษยวิทยา (anthropology) : 1 meaning(s), 2 sentences
 - `yt-c01-090` : อาสนวิหาร (cathedral) : 1 meaning(s), 2 sentences
