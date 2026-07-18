@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7794 words**
+**Total: 7804 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2221,6 +2221,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-705` : ล้างแค้น (to take revenge, to avenge) : 1 meaning(s), 2 sentences
 - `tamago-l3-706` : พิรุธ (suspicious sign, something that raises doubt) : 1 meaning(s), 2 sentences
 - `tamago-l3-707` : กำลังทรัพย์ (financial means, purchasing power) : 1 meaning(s), 2 sentences
+- `tamago-l3-708` : ป้ายแดง ("red license plate" (new car still awaiting registration)) : 1 meaning(s), 2 sentences
+- `tamago-l3-709` : ขายทิ้ง (to sell off to get rid of) : 1 meaning(s), 2 sentences
 - `tamago-l3-710` : ทุน (capital, funds; scholarship) : 2 meaning(s), 4 sentences
 - `tamago-l3-711` : พวงมาลัย (steering wheel; flower garland) : 2 meaning(s), 4 sentences
 - `tamago-l3-712` : เอียง (to incline, to tilt, tilted, slanted) : 1 meaning(s), 2 sentences
@@ -2243,6 +2245,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-728` : เทอะทะ (bulky, awkwardly large) : 1 meaning(s), 2 sentences
 - `tamago-l3-729` : ตามตรง (honestly, straightforwardly) : 1 meaning(s), 2 sentences
 - `tamago-l3-730` : ตั้งศูนย์ (to align wheels (car)) : 1 meaning(s), 2 sentences
+- `tamago-l3-731` : แหวนหมั้น (engagement ring) : 1 meaning(s), 2 sentences
 - `tamago-l3-732` : หลบซ่อน (to hide oneself, to take cover) : 1 meaning(s), 2 sentences
 - `tamago-l3-733` : นานพอควร (quite long, fairly long) : 1 meaning(s), 2 sentences
 - `tamago-l3-735` : เพียง, เพียงแค่ (only, just, merely) : 1 meaning(s), 2 sentences
@@ -2255,22 +2258,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-742` : อ่านหนังสือสอบ (to study for an exam) : 1 meaning(s), 2 sentences
 - `tamago-l3-743` : เลอะเทอะ (dirty, messy) : 1 meaning(s), 2 sentences
 - `tamago-l3-744` : หัวโบราณ (old-fashioned, conservative-minded) : 1 meaning(s), 2 sentences
+- `tamago-l3-746` : แววตา (gaze, look in someone's eyes) : 1 meaning(s), 2 sentences
 - `tamago-l3-747` : หมาจรจัด (stray dog) : 1 meaning(s), 2 sentences
 - `tamago-l3-748` : ดุ (to scold, to reprimand; fierce, angry-looking, aggressive; strict, stern) : 3 meaning(s), 6 sentences
 - `tamago-l3-749` : แก้เหงา (to relieve loneliness, to do something to not feel lonely) : 1 meaning(s), 2 sentences
 - `tamago-l3-750` : เห็นแก่ (for the sake of, out of consideration for) : 1 meaning(s), 2 sentences
+- `tamago-l3-751` : สงบสติอารมณ์ (to calm down, to compose oneself) : 1 meaning(s), 2 sentences
 - `tamago-l3-752` : เฝ้านึกถึง (to constantly, longingly think about) : 1 meaning(s), 2 sentences
 - `tamago-l3-753` : วนเวียน (to circle around, to go round and round) : 1 meaning(s), 2 sentences
 - `tamago-l3-754` : อบขนม (to bake pastry) : 1 meaning(s), 2 sentences
 - `tamago-l3-755` : ชิดซ้าย (to be inferior, nowhere near as good, "can't compare to" (slang); "move left") : 2 meaning(s), 4 sentences
+- `tamago-l3-756` : สอบชิงทุน (to take an exam to compete for a scholarship) : 1 meaning(s), 2 sentences
+- `tamago-l3-757` : ประกวดนางงาม (beauty pageant) : 1 meaning(s), 2 sentences
 - `tamago-l3-758` : สร้างสรรค์ (constructive, creative, to create constructively) : 1 meaning(s), 2 sentences
 - `tamago-l3-759` : ชมรม (club, association (e.g informal, like a school club)) : 1 meaning(s), 2 sentences
+- `tamago-l3-760` : มือกลอง (drummer) : 1 meaning(s), 2 sentences
 - `tamago-l3-761` : ขนลุก (to get goosebumps) : 1 meaning(s), 2 sentences
 - `tamago-l3-762` : มืออาชีพ (professional) : 1 meaning(s), 2 sentences
 - `tamago-l3-764` : ต้นฉบับ (original version, manuscript) : 1 meaning(s), 2 sentences
 - `tamago-l3-765` : ซึ้ง (touched, moved (emotionally, e.g by kindness, story, gesture)) : 1 meaning(s), 2 sentences
 - `tamago-l3-767` : เกินจริง (exaggerated, unrealistic) : 1 meaning(s), 2 sentences
 - `tamago-l3-768` : คลอ ((of tears) to well up gradually) : 1 meaning(s), 2 sentences
+- `tamago-l3-769` : กระโดดโลดเต้น (to jump around with excitement and joy) : 1 meaning(s), 2 sentences
+- `tamago-l3-770` : คำติ (criticism) : 1 meaning(s), 2 sentences
 - `tamago-l3-772` : วิจารณ์ (to criticize, review, evaluate) : 1 meaning(s), 2 sentences
 - `tamago-l3-773` : ทางลบ (in a negative way) : 1 meaning(s), 2 sentences
 - `tamago-l3-774` : สะทกสะท้าน (emotionally shaken, deeply affected, trembling with fear) : 1 meaning(s), 2 sentences
