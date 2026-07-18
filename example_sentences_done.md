@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7433 words**
+**Total: 7443 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -432,12 +432,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-300` : ปรากฏการณ์ (phenomenon) : 1 meaning(s), 2 sentences
 - `chula-l5-301` : กัมพูชา (Cambodia) : 1 meaning(s), 2 sentences
 - `chula-l5-302` : อิทธิพล (influence) : 1 meaning(s), 2 sentences
+- `chula-l5-304` : พื้นราบ (flat land, plain surface, lowlands) : 1 meaning(s), 2 sentences
 - `chula-l5-305` : เทศกาล (festival) : 1 meaning(s), 2 sentences
 - `chula-l5-306` : จาม (to sneeze) : 1 meaning(s), 2 sentences
+- `chula-l5-307` : เซ (to stagger, to be unsteady) : 1 meaning(s), 2 sentences
+- `chula-l5-308` : หอบ (to gasp, to breathe heavily; to carry (e.g in a bundle, in one's arms)) : 2 meaning(s), 4 sentences
+- `chula-l5-309` : แพร่ (to spread, to disseminate, to become widespread) : 1 meaning(s), 2 sentences
+- `chula-l5-310` : ปัจจัยเสี่ยง (risk factors) : 1 meaning(s), 2 sentences
+- `chula-l5-311` : ฟ้าคะนอง (thunder, thundering sky (literally "the sky roars")) : 1 meaning(s), 2 sentences
+- `chula-l5-312` : สิทธิพิเศษ (privilege) : 1 meaning(s), 2 sentences
 - `chula-l5-313` : ส่วนลด (discount) : 1 meaning(s), 2 sentences
+- `chula-l5-314` : ศก (era) : 1 meaning(s), 2 sentences
 - `chula-l5-315` : คูปอง (coupon) : 1 meaning(s), 2 sentences
 - `chula-l5-316` : ลุ้น (to hope to win, to wait eagerly, to have a chance to win) : 1 meaning(s), 2 sentences
+- `chula-l5-317` : ผ่อนจ่าย, แบ่งชำระ (to pay by installments) : 1 meaning(s), 2 sentences
 - `chula-l5-318` : เรียน (to learn; to inform; "to", "dear" (official communication)) : 3 meaning(s), 6 sentences
+- `chula-l5-320` : อัศจรรย์, มหัศจรรย์ (amazing, wonderful) : 1 meaning(s), 2 sentences
 - `chula-l5-327` : แลก, แลกเปลี่ยน (to exchange) : 1 meaning(s), 2 sentences
 - `chula-l5-328` : แต้ม (point, dot, mark (+ classifier for these)) : 1 meaning(s), 2 sentences
 - `chula-l5-329` : ของขวัญ (gift, present) : 1 meaning(s), 2 sentences

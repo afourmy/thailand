@@ -13277,6 +13277,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "flat land, plain surface, lowlands",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านบนดอยหนาวกว่าพื้นราบมาก",
+            "en": "Villages up in the mountains are much colder than the lowlands.",
+            "audio_src": "หมู่บ้านบนดอยหนาวกว่าพื้นราบมาก",
+            "audio_en_src": "Villages up in the mountains are much colder than the lowlands."
+          },
+          {
+            "thai": "จักรยานคันนี้เหมาะกับขี่บนพื้นราบ",
+            "en": "This bike is made for riding on flat ground.",
+            "audio_src": "จักรยานคันนี้เหมาะกับขี่บนพื้นราบ",
+            "audio_en_src": "This bike is made for riding on flat ground."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13344,6 +13363,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to stagger, to be unsteady",
+        "sentences": [
+          {
+            "thai": "เขาเมาจนเดินเซ",
+            "en": "He was so drunk he was staggering.",
+            "audio_src": "เขาเมาจนเดินเซ",
+            "audio_en_src": "He was so drunk he was staggering."
+          },
+          {
+            "thai": "เรือโคลง ฉันเลยเซไปข้างหนึ่ง",
+            "en": "The boat rocked and I stumbled to one side.",
+            "audio_src": "เรือโคลง ฉันเลยเซไปข้างหนึ่ง",
+            "audio_en_src": "The boat rocked and I stumbled to one side."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13355,6 +13393,42 @@
       "Chulalongkorn L5",
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to gasp, to breathe heavily",
+        "sentences": [
+          {
+            "thai": "วิ่งขึ้นบันไดมาหอบเลย",
+            "en": "I ran up the stairs and now I'm out of breath.",
+            "audio_src": "วิ่งขึ้นบันไดมาหอบเลย",
+            "audio_en_src": "I ran up the stairs and now I'm out of breath."
+          },
+          {
+            "thai": "หมาหอบแลบลิ้นเพราะอากาศร้อน",
+            "en": "The dog is panting with its tongue out because of the heat.",
+            "audio_src": "หมาหอบแลบลิ้นเพราะอากาศร้อน",
+            "audio_en_src": "The dog is panting with its tongue out because of the heat."
+          }
+        ]
+      },
+      {
+        "meaning": "to carry (e.g in a bundle, in one's arms)",
+        "sentences": [
+          {
+            "thai": "เขาหอบของพะรุงพะรังขึ้นรถเมล์",
+            "en": "She got on the bus carrying armfuls of stuff.",
+            "audio_src": "เขาหอบของพะรุงพะรังขึ้นรถเมล์",
+            "audio_en_src": "She got on the bus carrying armfuls of stuff."
+          },
+          {
+            "thai": "แม่หอบผ้าไปตากหลังบ้าน",
+            "en": "Mom carried the laundry out back to hang it up.",
+            "audio_src": "แม่หอบผ้าไปตากหลังบ้าน",
+            "audio_en_src": "Mom carried the laundry out back to hang it up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13368,6 +13442,25 @@
       "Thai 4000",
       "TSL Chiang Mai",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to spread, to disseminate, to become widespread",
+        "sentences": [
+          {
+            "thai": "ข่าวปลอมแพร่เร็วมากในโซเชียล",
+            "en": "Fake news spreads really fast on social media.",
+            "audio_src": "ข่าวปลอมแพร่เร็วมากในโซเชียล",
+            "audio_en_src": "Fake news spreads really fast on social media."
+          },
+          {
+            "thai": "เชื้อไวรัสแพร่จากคนสู่คนได้",
+            "en": "The virus can spread from person to person.",
+            "audio_src": "เชื้อไวรัสแพร่จากคนสู่คนได้",
+            "audio_en_src": "The virus can spread from person to person."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13377,6 +13470,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "risk factors",
+        "sentences": [
+          {
+            "thai": "การสูบบุหรี่เป็นปัจจัยเสี่ยงของโรคหัวใจ",
+            "en": "Smoking is a risk factor for heart disease.",
+            "audio_src": "การสูบบุหรี่เป็นปัจจัยเสี่ยงของโรคหัวใจ",
+            "audio_en_src": "Smoking is a risk factor for heart disease."
+          },
+          {
+            "thai": "หมออธิบายปัจจัยเสี่ยงของโรคเบาหวานให้ฟัง",
+            "en": "The doctor explained the risk factors for diabetes.",
+            "audio_src": "หมออธิบายปัจจัยเสี่ยงของโรคเบาหวานให้ฟัง",
+            "audio_en_src": "The doctor explained the risk factors for diabetes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13387,6 +13499,25 @@
     "sources": [
       "Chulalongkorn L5",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "thunder, thundering sky (literally \"the sky roars\")",
+        "sentences": [
+          {
+            "thai": "วันนี้มีฝนฟ้าคะนองร้อยละสี่สิบของพื้นที่",
+            "en": "Thundershowers are expected over forty percent of the area today.",
+            "audio_src": "วันนี้มีฝนฟ้าคะนองร้อยละสี่สิบของพื้นที่",
+            "audio_en_src": "Thundershowers are expected over forty percent of the area today."
+          },
+          {
+            "thai": "ได้ยินเสียงฟ้าคะนองแต่ไกล",
+            "en": "I can hear thunder rumbling in the distance.",
+            "audio_src": "ได้ยินเสียงฟ้าคะนองแต่ไกล",
+            "audio_en_src": "I can hear thunder rumbling in the distance."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13396,6 +13527,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "privilege",
+        "sentences": [
+          {
+            "thai": "สมาชิกได้สิทธิพิเศษส่วนลดยี่สิบเปอร์เซ็นต์",
+            "en": "Members get an exclusive twenty percent discount.",
+            "audio_src": "สมาชิกได้สิทธิพิเศษส่วนลดยี่สิบเปอร์เซ็นต์",
+            "audio_en_src": "Members get an exclusive twenty percent discount."
+          },
+          {
+            "thai": "บัตรใบนี้มีสิทธิพิเศษเข้าเลานจ์สนามบิน",
+            "en": "This card comes with airport lounge privileges.",
+            "audio_src": "บัตรใบนี้มีสิทธิพิเศษเข้าเลานจ์สนามบิน",
+            "audio_en_src": "This card comes with airport lounge privileges."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13434,6 +13584,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "era",
+        "sentences": [
+          {
+            "thai": "ขอให้มีความสุขตลอดศกใหม่นี้",
+            "en": "Wishing you happiness throughout the new year.",
+            "audio_src": "ขอให้มีความสุขตลอดศกใหม่นี้",
+            "audio_en_src": "Wishing you happiness throughout the new year."
+          },
+          {
+            "thai": "เหตุการณ์รัตนโกสินทร์ศก 112 เป็นบทเรียนสำคัญของไทย",
+            "en": "The events of Rattanakosin Era 112 were an important lesson for Thailand.",
+            "audio_src": "เหตุการณ์รัตนโกสินทร์ศก 112 เป็นบทเรียนสำคัญของไทย",
+            "audio_en_src": "The events of Rattanakosin Era 112 were an important lesson for Thailand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13501,6 +13670,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to pay by installments",
+        "sentences": [
+          {
+            "thai": "มือถือรุ่นนี้ผ่อนจ่ายได้สิบเดือน",
+            "en": "You can pay for this phone in ten monthly installments.",
+            "audio_src": "มือถือรุ่นนี้ผ่อนจ่ายได้สิบเดือน",
+            "audio_en_src": "You can pay for this phone in ten monthly installments."
+          },
+          {
+            "thai": "ลูกค้าเลือกแบ่งชำระเป็นสามงวดได้",
+            "en": "Customers can choose to split the payment into three installments.",
+            "audio_src": "ลูกค้าเลือกแบ่งชำระเป็นสามงวดได้",
+            "audio_en_src": "Customers can choose to split the payment into three installments."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13578,6 +13766,25 @@
       "Chulalongkorn L5",
       "Thai 4000",
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "amazing, wonderful",
+        "sentences": [
+          {
+            "thai": "ปรากฏการณ์นี้น่าอัศจรรย์มาก",
+            "en": "This phenomenon is astonishing.",
+            "audio_src": "ปรากฏการณ์นี้น่าอัศจรรย์มาก",
+            "audio_en_src": "This phenomenon is astonishing."
+          },
+          {
+            "thai": "เด็กคนนี้มีความจำมหัศจรรย์",
+            "en": "This kid has an amazing memory.",
+            "audio_src": "เด็กคนนี้มีความจำมหัศจรรย์",
+            "audio_en_src": "This kid has an amazing memory."
+          }
+        ]
+      }
     ]
   },
   {
