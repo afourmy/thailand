@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7363 words**
+**Total: 7373 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -293,19 +293,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-150` : สงวน (to preserve, to reserve, to refrain from using) : 1 meaning(s), 2 sentences
 - `chula-l5-151` : คู่กรณี (parties involved, both sides, the other party) : 1 meaning(s), 2 sentences
 - `chula-l5-152` : ข้าวเปลือก (paddy, unmilled rice (still in husk)) : 1 meaning(s), 2 sentences
+- `chula-l5-153` : ตะแคงข้าง (to tilt, to lean on the side) : 1 meaning(s), 2 sentences
 - `chula-l5-154` : มุ่งหน้า (to head toward, to make one's way to) : 1 meaning(s), 2 sentences
 - `chula-l5-156` : มูลค่า (value) : 1 meaning(s), 2 sentences
 - `chula-l5-157` : พยาน (witness) : 1 meaning(s), 2 sentences
 - `chula-l5-158` : ดำเนินการ (to proceed, to carry out, to take action) : 1 meaning(s), 2 sentences
+- `chula-l5-159` : กระบวนการ (process) : 1 meaning(s), 2 sentences
 - `chula-l5-160` : อุบัติเหตุ (accident) : 1 meaning(s), 2 sentences
 - `chula-l5-162` : พัง (broken, damaged) : 1 meaning(s), 2 sentences
+- `chula-l5-164` : ยานพาหนะ (vehicle) : 1 meaning(s), 2 sentences
+- `chula-l5-165` : กู้ภัย (rescue team) : 1 meaning(s), 2 sentences
+- `chula-l5-166` : ขาเข้า (inbound) : 1 meaning(s), 2 sentences
+- `chula-l5-167` : อย่างจัง (seriously (+ adjective), in a big way) : 1 meaning(s), 2 sentences
+- `chula-l5-168` : ประธาน (subject (grammar); chairman, presiding person) : 2 meaning(s), 4 sentences
 - `chula-l5-169` : อาการ (symptom, (medical) condition) : 1 meaning(s), 2 sentences
 - `chula-l5-171` : ตาราง (chart, table) : 1 meaning(s), 2 sentences
 - `chula-l5-172` : รถกระบะ (pick-up truck) : 1 meaning(s), 2 sentences
+- `chula-l5-173` : หลับใน (to doze off while driving) : 1 meaning(s), 2 sentences
 - `chula-l5-174` : ติดขัด (congested, stuck, jammed) : 1 meaning(s), 2 sentences
 - `chula-l5-175` : เบรก (to brake) : 1 meaning(s), 2 sentences
+- `chula-l5-176` : กระจกหน้า (windshield) : 1 meaning(s), 2 sentences
 - `chula-l5-177` : ใกล้เคียง (nearby) : 1 meaning(s), 2 sentences
 - `chula-l5-178` : บ่อ (pond, well) : 1 meaning(s), 2 sentences
+- `chula-l5-179` : เนินเขา (hill) : 1 meaning(s), 2 sentences
 - `chula-l5-183` : ยอดนิยม (highly popular) : 1 meaning(s), 2 sentences
 - `chula-l5-185` : ชุมชน (community) : 1 meaning(s), 2 sentences
 - `chula-l5-188` : สะท้อน (to reflect) : 1 meaning(s), 2 sentences
