@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8194 words**
+**Total: 8204 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4751,16 +4751,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-027` : จับใจความ (to grasp the main idea, to understand the gist of) : 1 meaning(s), 2 sentences
 - `yt-c03-028` : ปากไม่ตรงกับใจ (to hide one's true feelings, to say something different from what one really feels) : 1 meaning(s), 2 sentences
 - `yt-c03-029` : อาศัย, พึ่งพา, พึ่งพาอาศัย (to rely on, to depend on) : 1 meaning(s), 2 sentences
+- `yt-c03-030` : โอ่งน้ำ (water jar) : 1 meaning(s), 2 sentences
+- `yt-c03-033` : สวนทางกัน (to go in opposite directions, to pass each other from opposite sides (e.g cars)) : 1 meaning(s), 2 sentences
+- `yt-c03-035` : ความใส่ใจ (care, attention, thoughtfulness) : 1 meaning(s), 2 sentences
 - `yt-c03-036` : ทางม้าลาย (zebra crossing) : 1 meaning(s), 2 sentences
 - `yt-c03-037` : เกินความจำเป็น (unnecessary, excessive, more than needed) : 1 meaning(s), 2 sentences
 - `yt-c03-038` : กิ้งก่า (lizard) : 1 meaning(s), 2 sentences
 - `yt-c03-039` : ตัวกรอง (filter) : 1 meaning(s), 2 sentences
 - `yt-c03-040` : ปรบ, ปรบมือ (to clap (hands), to applaud) : 1 meaning(s), 2 sentences
+- `yt-c03-041` : ปฏิบัติธรรม (to practice Buddhist teachings) : 1 meaning(s), 2 sentences
 - `yt-c03-042` : สบตา, สบสายตา (to make eye contact) : 1 meaning(s), 2 sentences
 - `yt-c03-043` : โป๊ (nude, porn) : 1 meaning(s), 2 sentences
 - `yt-c03-044` : นั่งสมาธิ (to meditate) : 1 meaning(s), 2 sentences
+- `yt-c03-045` : อยู่กับปัจจุบันขณะ (to live in the present moment) : 1 meaning(s), 2 sentences
+- `yt-c03-046` : ฟุ้ง (to spread out, to scatter, to be diffuse (e.g smell, smoke, light, thoughts)) : 1 meaning(s), 2 sentences
+- `yt-c03-047` : เงียบสงัด (completely quiet, completely silent) : 1 meaning(s), 2 sentences
 - `yt-c03-049` : รัวๆ (over and over, in quick succession, repeatedly, non-stop) : 1 meaning(s), 2 sentences
 - `yt-c03-050` : ยกโทษ (to forgive, to pardon) : 1 meaning(s), 2 sentences
+- `yt-c03-051` : ปักธูป (to stick an incense stick) : 1 meaning(s), 2 sentences
 - `yt-c03-052` : ชาตะ - มรณะ ((about a deceased) born in - deceased in) : 1 meaning(s), 2 sentences
 - `yt-c03-053` : พวงหรีด (funeral wreath (circular arrangement of flowers)) : 1 meaning(s), 2 sentences
 - `yt-c03-054` : อาลัยยิ่ง ("with deepest condolences" (written on funeral wreath)) : 1 meaning(s), 2 sentences
@@ -4771,8 +4779,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-058` : พระอภิธรรม (Abhidhamma (Buddhist scripture)) : 1 meaning(s), 2 sentences
 - `yt-c03-060` : เมรุ (Buddhist crematorium, funeral pyre) : 1 meaning(s), 2 sentences
 - `yt-c03-061` : ตามเข็มนาฬิกา - ทวนเข็มนาฬิกา (clockwise - counterclockwise) : 1 meaning(s), 2 sentences
+- `yt-c03-062` : อโหสิกรรม (forgiveness, act of pardoning, to let go of wrongs, of resentment) : 1 meaning(s), 2 sentences
 - `yt-c03-063` : ทอดผ้าบังสุกุล ((at a funeral) to offer ceremonial cloths to monks in a merit-making ceremony) : 1 meaning(s), 2 sentences
 - `yt-c03-064` : ดอกไม้จันทน์ (sandalwood flowers (used in funerals)) : 1 meaning(s), 2 sentences
+- `yt-c03-065` : พาน (ceremonial tray) : 1 meaning(s), 2 sentences
 - `yt-c03-069` : สถิต (to be present, to be located, to reside (formal term used for spirits, deities, royals)) : 1 meaning(s), 2 sentences
 - `yt-c03-071` : เมาส์ (mouse) : 1 meaning(s), 2 sentences
 - `yt-c03-072` : แผ่นรองเมาส์ (mouse pad) : 1 meaning(s), 2 sentences
