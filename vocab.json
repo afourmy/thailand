@@ -42709,6 +42709,25 @@
     "sources": [
       "Tamago L1-2",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "water heater",
+        "sentences": [
+          {
+            "thai": "หน้าหนาวต้องเปิดเครื่องทำน้ำอุ่น",
+            "en": "In the cold season you need the water heater on.",
+            "audio_src": "หน้าหนาวต้องเปิดเครื่องทำน้ำอุ่น",
+            "audio_en_src": "In the cold season you need the water heater on."
+          },
+          {
+            "thai": "เครื่องทำน้ำอุ่นเสีย เลยต้องอาบน้ำเย็น",
+            "en": "The water heater is broken, so I had to take a cold shower.",
+            "audio_src": "เครื่องทำน้ำอุ่นเสีย เลยต้องอาบน้ำเย็น",
+            "audio_en_src": "The water heater is broken, so I had to take a cold shower."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42746,6 +42765,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "toaster",
+        "sentences": [
+          {
+            "thai": "ใส่ขนมปังสองแผ่นในเครื่องปิ้งขนมปัง",
+            "en": "Put two slices of bread in the toaster.",
+            "audio_src": "ใส่ขนมปังสองแผ่นในเครื่องปิ้งขนมปัง",
+            "audio_en_src": "Put two slices of bread in the toaster."
+          },
+          {
+            "thai": "เครื่องปิ้งขนมปังปิ้งไหม้อีกแล้ว",
+            "en": "The toaster burned the toast again.",
+            "audio_src": "เครื่องปิ้งขนมปังปิ้งไหม้อีกแล้ว",
+            "audio_en_src": "The toaster burned the toast again."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42786,6 +42824,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "stationery (office supplies)",
+        "sentences": [
+          {
+            "thai": "ไปซื้อเครื่องเขียนก่อนเปิดเทอม",
+            "en": "Go buy school supplies before the semester starts.",
+            "audio_src": "ไปซื้อเครื่องเขียนก่อนเปิดเทอม",
+            "audio_en_src": "Go buy school supplies before the semester starts."
+          },
+          {
+            "thai": "ร้านนี้ขายเครื่องเขียนครบทุกอย่าง",
+            "en": "This shop sells all kinds of stationery.",
+            "audio_src": "ร้านนี้ขายเครื่องเขียนครบทุกอย่าง",
+            "audio_en_src": "This shop sells all kinds of stationery."
+          }
+        ]
+      }
     ]
   },
   {
@@ -42903,6 +42960,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "countdown (e.g New Year's Eve)",
+        "sentences": [
+          {
+            "thai": "ปีใหม่นี้ไปเคาท์ดาวน์ที่ไหนดี",
+            "en": "Where should we go for the New Year's countdown?",
+            "audio_src": "ปีใหม่นี้ไปเคาท์ดาวน์ที่ไหนดี",
+            "audio_en_src": "Where should we go for the New Year's countdown?"
+          },
+          {
+            "thai": "เราไปเคาท์ดาวน์กันที่เซ็นทรัลเวิลด์",
+            "en": "We went to the countdown at CentralWorld.",
+            "audio_src": "เราไปเคาท์ดาวน์กันที่เซ็นทรัลเวิลด์",
+            "audio_en_src": "We went to the countdown at CentralWorld."
+          }
+        ]
+      }
     ]
   },
   {
@@ -43115,6 +43191,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "\"all day\" (morning, late morning, afternoon, evening)",
+        "sentences": [
+          {
+            "thai": "เขากินกาแฟเช้าสายบ่ายเย็น",
+            "en": "He drinks coffee morning, noon, and night.",
+            "audio_src": "เขากินกาแฟเช้าสายบ่ายเย็น",
+            "audio_en_src": "He drinks coffee morning, noon, and night."
+          },
+          {
+            "thai": "ร้านนี้คนแน่นเช้าสายบ่ายเย็น",
+            "en": "This place is packed morning, noon, and night.",
+            "audio_src": "ร้านนี้คนแน่นเช้าสายบ่ายเย็น",
+            "audio_en_src": "This place is packed morning, noon, and night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44200,6 +44295,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "perfect (loanword)",
+        "sentences": [
+          {
+            "thai": "วันนี้อากาศเพอร์เฟคสุดๆ",
+            "en": "The weather today is absolutely perfect.",
+            "audio_src": "วันนี้อากาศเพอร์เฟคสุดๆ",
+            "audio_en_src": "The weather today is absolutely perfect."
+          },
+          {
+            "thai": "งานออกมาเพอร์เฟค ไม่ต้องแก้อะไรเลย",
+            "en": "The work came out perfect, nothing to fix at all.",
+            "audio_src": "งานออกมาเพอร์เฟค ไม่ต้องแก้อะไรเลย",
+            "audio_en_src": "The work came out perfect, nothing to fix at all."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44336,6 +44450,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "cashew nut",
+        "sentences": [
+          {
+            "thai": "ไก่ผัดเม็ดมะม่วงหิมพานต์เป็นเมนูดัง",
+            "en": "Chicken with cashew nuts is a famous dish.",
+            "audio_src": "ไก่ผัดเม็ดมะม่วงหิมพานต์เป็นเมนูดัง",
+            "audio_en_src": "Chicken with cashew nuts is a famous dish."
+          },
+          {
+            "thai": "เม็ดมะม่วงหิมพานต์อบเกลือถุงนี้อร่อยมาก",
+            "en": "This bag of salted roasted cashews is really good.",
+            "audio_src": "เม็ดมะม่วงหิมพานต์อบเกลือถุงนี้อร่อยมาก",
+            "audio_en_src": "This bag of salted roasted cashews is really good."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44401,6 +44534,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "nosebleed",
+        "sentences": [
+          {
+            "thai": "อากาศร้อนจัดจนเลือดกำเดาไหล",
+            "en": "It was so hot I got a nosebleed.",
+            "audio_src": "อากาศร้อนจัดจนเลือดกำเดาไหล",
+            "audio_en_src": "It was so hot I got a nosebleed."
+          },
+          {
+            "thai": "ถ้าเลือดกำเดาไหล ให้บีบจมูกแล้วก้มหน้า",
+            "en": "If you get a nosebleed, pinch your nose and lean forward.",
+            "audio_src": "ถ้าเลือดกำเดาไหล ให้บีบจมูกแล้วก้มหน้า",
+            "audio_en_src": "If you get a nosebleed, pinch your nose and lean forward."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44505,6 +44657,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to leave a space (in text)",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยไม่เว้นวรรคระหว่างคำ",
+            "en": "Thai doesn't put spaces between words.",
+            "audio_src": "ภาษาไทยไม่เว้นวรรคระหว่างคำ",
+            "audio_en_src": "Thai doesn't put spaces between words."
+          },
+          {
+            "thai": "อย่าลืมเว้นวรรคหลังจบประโยค",
+            "en": "Don't forget to leave a space after the end of a sentence.",
+            "audio_src": "อย่าลืมเว้นวรรคหลังจบประโยค",
+            "audio_en_src": "Don't forget to leave a space after the end of a sentence."
+          }
+        ]
+      }
     ]
   },
   {
@@ -44515,6 +44686,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "economics (academic field)",
+        "sentences": [
+          {
+            "thai": "พี่ชายเรียนจบเศรษฐศาสตร์",
+            "en": "My older brother has a degree in economics.",
+            "audio_src": "พี่ชายเรียนจบเศรษฐศาสตร์",
+            "audio_en_src": "My older brother has a degree in economics."
+          },
+          {
+            "thai": "เศรษฐศาสตร์เป็นวิชาที่ใช้คณิตเยอะ",
+            "en": "Economics is a subject that uses a lot of math.",
+            "audio_src": "เศรษฐศาสตร์เป็นวิชาที่ใช้คณิตเยอะ",
+            "audio_en_src": "Economics is a subject that uses a lot of math."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7674 words**
+**Total: 7684 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1365,17 +1365,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-493` : เกี๊ยวไข่ทอด (deep-fried quail egg wonton) : 1 meaning(s), 2 sentences
 - `tamago-l12-494` : เขียง (cutting board) : 1 meaning(s), 2 sentences
 - `tamago-l12-495` : เข้างาน (to go to work, to start a shift) : 1 meaning(s), 2 sentences
+- `tamago-l12-496` : เครื่องทำน้ำร้อน, เครื่องทำน้ำอุ่น (water heater) : 1 meaning(s), 2 sentences
 - `tamago-l12-497` : เครื่องปรุง (seasoning, condiment) : 1 meaning(s), 2 sentences
+- `tamago-l12-498` : เครื่องปิ้งขนมปัง (toaster) : 1 meaning(s), 2 sentences
 - `tamago-l12-499` : เครื่องอบผ้า ((clothes) dryer) : 1 meaning(s), 2 sentences
+- `tamago-l12-500` : เครื่องเขียน (stationery (office supplies)) : 1 meaning(s), 2 sentences
 - `tamago-l12-501` : เครื่องเล่น (media player; amusement ride) : 2 meaning(s), 4 sentences
 - `tamago-l12-502` : เครื่องแบบ (uniform (military, official)) : 1 meaning(s), 2 sentences
 - `tamago-l12-503` : เคลียร์ (clear, to clarify, to sort out (loanword)) : 1 meaning(s), 2 sentences
+- `tamago-l12-504` : เคาท์ดาวน์ (countdown (e.g New Year's Eve)) : 1 meaning(s), 2 sentences
 - `tamago-l12-505` : เงินฝาก (deposit (bank)) : 1 meaning(s), 2 sentences
 - `tamago-l12-506` : เจ้าของธุรกิจ, เจ้าของกิจการ (business owner) : 1 meaning(s), 2 sentences
 - `tamago-l12-507` : เจ้านาย (boss, employer) : 1 meaning(s), 2 sentences
 - `tamago-l12-508` : เจ๊ง (to break (down), to fail, to go bankrupt (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-509` : เฉยๆ (merely, just, nothing special; indifferent) : 2 meaning(s), 4 sentences
 - `tamago-l12-510` : เชียว (ending particle for something impressive ("really!", "truly!")) : 1 meaning(s), 2 sentences
+- `tamago-l12-511` : เช้าสายบ่ายเย็น ("all day" (morning, late morning, afternoon, evening)) : 1 meaning(s), 2 sentences
 - `tamago-l12-512` : เดินดูของ (to window-shop) : 1 meaning(s), 2 sentences
 - `tamago-l12-513` : เดินเขา (to hike in the mountains) : 1 meaning(s), 2 sentences
 - `tamago-l12-514` : เดี๋ยว...ก่อน ("let me... first", "hold on before...") : 1 meaning(s), 2 sentences
@@ -1409,15 +1414,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-545` : เผาผลาญ (to burn (calories, energy, money)) : 1 meaning(s), 2 sentences
 - `tamago-l12-546` : เฝ้า (to guard, to watch over) : 1 meaning(s), 2 sentences
 - `tamago-l12-547` : เพราะ (because; beautiful (for sounds e.g music, voice)) : 2 meaning(s), 4 sentences
+- `tamago-l12-548` : เพอร์เฟค (perfect (loanword)) : 1 meaning(s), 2 sentences
 - `tamago-l12-549` : เพียงแต่ ("it's just that...") : 1 meaning(s), 2 sentences
 - `tamago-l12-550` : เมฆ (cloud) : 1 meaning(s), 2 sentences
 - `tamago-l12-551` : เมื่อกี้, เมื่อกี้นี้, เมื่อตะกี้นี้ (just now, a moment ago) : 1 meaning(s), 2 sentences
 - `tamago-l12-552` : เมื่อย (sore, achy (from physical fatigue)) : 1 meaning(s), 2 sentences
+- `tamago-l12-553` : เม็ดมะม่วงหิมพานต์ (cashew nut) : 1 meaning(s), 2 sentences
 - `tamago-l12-555` : เรือข้ามฟาก (ferry) : 1 meaning(s), 2 sentences
 - `tamago-l12-556` : เรือแคนู (canoe) : 1 meaning(s), 2 sentences
+- `tamago-l12-557` : เลือดกำเดาไหล (nosebleed) : 1 meaning(s), 2 sentences
 - `tamago-l12-558` : เลือดออก, เลือดไหล (to bleed) : 1 meaning(s), 2 sentences
 - `tamago-l12-559` : เล่ม (classifier for books) : 1 meaning(s), 2 sentences
 - `tamago-l12-560` : เวที (stage, platform) : 1 meaning(s), 2 sentences
+- `tamago-l12-561` : เว้นวรรค (to leave a space (in text)) : 1 meaning(s), 2 sentences
+- `tamago-l12-562` : เศรษฐศาสตร์ (economics (academic field)) : 1 meaning(s), 2 sentences
 - `tamago-l12-563` : เศร้า (sad (extended/deep sadness)) : 1 meaning(s), 2 sentences
 - `tamago-l12-564` : เสา (pole, pillar) : 1 meaning(s), 2 sentences
 - `tamago-l12-566` : เสีย (to waste, to spend; to be broken) : 2 meaning(s), 4 sentences
