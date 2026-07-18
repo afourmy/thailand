@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7574 words**
+**Total: 7584 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -898,18 +898,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-325` : เฮฮา (fun, cheerful, lively) : 1 meaning(s), 2 sentences
 - `chula-l6-326` : กลากเกลื้อน (fungal skin infections (ringworm and tinea)) : 1 meaning(s), 2 sentences
 - `new-29` : หูด (wart (HPV)) : 1 meaning(s), 2 sentences
+- `chula-l6-327` : กลิ่นอาย (aura, atmosphere; trace, hint of something) : 2 meaning(s), 4 sentences
 - `chula-l6-328` : มโน (delusional, someone who makes stuff up in their head, "delulu" (slang)) : 1 meaning(s), 2 sentences
 - `chula-l6-329` : ข่มขืน (to rape) : 1 meaning(s), 2 sentences
 - `chula-l6-330` : สวยให้อภัย (beautiful enough to be forgiven) : 1 meaning(s), 2 sentences
+- `chula-l6-331` : เถื่อน (illegal, unlicensed (e.g car, goods); violent, wild, uncivilized (person)) : 2 meaning(s), 4 sentences
 - `chula-l6-332` : ไม่แพ้กัน (equally matched, on par, not inferior) : 1 meaning(s), 2 sentences
+- `chula-l6-333` : เข้าถึงได้ (accessible, not unreachable (e.g a person, a price not too expensive)) : 1 meaning(s), 2 sentences
+- `chula-l6-334` : ความคล่องตัว (agility, flexibility) : 1 meaning(s), 2 sentences
+- `chula-l6-335` : ซอกแซก (to weave through narrow spaces (e.g a motorbike in traffic), to poke around every nook; nosy, inquisitive) : 2 meaning(s), 4 sentences
+- `chula-l6-336` : เสื้อกั๊ก (vest, sleeveless jacket) : 1 meaning(s), 2 sentences
 - `chula-l6-338` : รองรับ (to support, accommodate, handle (e.g a need, a capacity)) : 1 meaning(s), 2 sentences
 - `chula-l6-339` : พระราชบัญญัติคุ้มครองผู้ประสบอุบัติเหตุจากรถ (พ.ร.บ.) (Act for the Protection of Road Accident Victims (insurance for accidents)) : 1 meaning(s), 2 sentences
+- `chula-l6-340` : แบ่งเบา (to lighten, to relieve (someone's burden, workload, responsibility)) : 1 meaning(s), 2 sentences
 - `tamago-l12-001` : (ไหน)ยังจะ...อีก ("and on top of that, ...", "to make matters worse, ..." (+ something negative)) : 1 meaning(s), 2 sentences
 - `tamago-l12-003` : ...ไปก่อน ("... for now") : 1 meaning(s), 2 sentences
 - `tamago-l12-006` : เรื่อยๆ (to keep doing something (continuously)) : 1 meaning(s), 2 sentences
 - `tamago-l12-008` : ไหว (to be able to, have the capacity (physical or mental) to) : 1 meaning(s), 2 sentences
 - `tamago-l12-009` : กดปุ่ม (to press a button) : 1 meaning(s), 2 sentences
+- `tamago-l12-010` : กรรมกร (construction worker, manual laborer) : 1 meaning(s), 2 sentences
 - `tamago-l12-011` : กระจอก (cheap, low quality, worthless) : 1 meaning(s), 2 sentences
+- `tamago-l12-012` : กระดาษห่อ (wrapping paper) : 1 meaning(s), 2 sentences
+- `tamago-l12-013` : กระดุม (button (for clothes)) : 1 meaning(s), 2 sentences
 - `tamago-l12-014` : กระดูกสันหลัง (spine) : 1 meaning(s), 2 sentences
 - `tamago-l12-015` : กระถาง (flower pot) : 1 meaning(s), 2 sentences
 - `tamago-l12-016` : กระรอก (squirrel) : 1 meaning(s), 2 sentences
