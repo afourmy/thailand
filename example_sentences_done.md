@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7283 words**
+**Total: 7293 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -113,13 +113,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
 - `chula-l4-121` : เต็มที่ (to the utmost, fully, totally, wholeheartedly, 100%) : 1 meaning(s), 2 sentences
+- `chula-l4-122` : เสื่อม (to decay, to deteriorate, to decline) : 1 meaning(s), 2 sentences
 - `chula-l4-123` : ผมหงอก (grey hair) : 1 meaning(s), 2 sentences
+- `chula-l4-124` : ผิวเหี่ยว (wrinkled skin) : 1 meaning(s), 2 sentences
 - `chula-l4-125` : งานประจำ (regular job, steady job) : 1 meaning(s), 2 sentences
+- `chula-l4-126` : จากไป (to leave; to pass away) : 2 meaning(s), 4 sentences
 - `chula-l4-127` : หงุดหงิด (irritated, frustrated) : 1 meaning(s), 2 sentences
 - `chula-l4-128` : ซึมเศร้า (depressed) : 1 meaning(s), 2 sentences
 - `chula-l4-129` : น้อยใจ (to feel neglected, to feel hurt) : 1 meaning(s), 2 sentences
 - `chula-l4-130` : เอาใจใส่ (to pay attention, to be considerate) : 1 meaning(s), 2 sentences
 - `chula-l4-131` : อัมพาต (paralysis) : 1 meaning(s), 2 sentences
+- `chula-l4-132` : ความจำเสื่อม (memory loss, memory deterioration (e.g from aging)) : 1 meaning(s), 2 sentences
+- `chula-l4-133` : กายภาพบำบัด (physical therapy) : 1 meaning(s), 2 sentences
+- `chula-l4-134` : วัยทอง (menopause) : 1 meaning(s), 2 sentences
 - `chula-l4-135` : ป่านนี้ (up until now, by now) : 1 meaning(s), 2 sentences
 - `chula-l4-136` : เน่าเสีย (rotten, spoiled) : 1 meaning(s), 2 sentences
 - `chula-l4-137` : เร่งด่วน (urgent, priority) : 1 meaning(s), 2 sentences
@@ -135,8 +141,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-147` : ข้อเสีย (disadvantage) : 1 meaning(s), 2 sentences
 - `chula-l4-148` : เจ็บ (to hurt, to be sore (e.g external pain, injury)) : 1 meaning(s), 2 sentences
 - `chula-l4-149` : ปวด (to ache (e.g internal pain)) : 1 meaning(s), 2 sentences
+- `chula-l4-150` : แก้ดวง (to fix one's luck) : 1 meaning(s), 2 sentences
+- `chula-l4-151` : เสริมดวง (to boost one's luck, to improve one's luck) : 1 meaning(s), 2 sentences
 - `chula-l4-152` : จะแย่ (extremely, terribly (intensifier)) : 1 meaning(s), 2 sentences
 - `chula-l4-153` : จะตาย (extremely, "...to death" (intensifier)) : 1 meaning(s), 2 sentences
+- `chula-l4-154` : หามรุ่งหามค่ำ (day and night, non-stop, around the clock) : 1 meaning(s), 2 sentences
+- `chula-l4-155` : เต็มบ้านเต็มเมือง (all over the place, everywhere) : 1 meaning(s), 2 sentences
 - `chula-l5-004` : เวลาทำการ (business hours) : 1 meaning(s), 2 sentences
 - `chula-l5-005` : ชำระ (to pay; to cleanse, to wash away) : 2 meaning(s), 4 sentences
 - `chula-l5-006` : ค่าใช้จ่าย (cost, expenses) : 1 meaning(s), 2 sentences

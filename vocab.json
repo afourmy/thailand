@@ -3399,6 +3399,25 @@
       "Chulalongkorn L4",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to decay, to deteriorate, to decline",
+        "sentences": [
+          {
+            "thai": "พออายุมากขึ้น สายตาก็เริ่มเสื่อม",
+            "en": "As you get older, your eyesight starts to deteriorate.",
+            "audio_src": "พออายุมากขึ้น สายตาก็เริ่มเสื่อม",
+            "audio_en_src": "As you get older, your eyesight starts to deteriorate."
+          },
+          {
+            "thai": "แบตมือถือเครื่องนี้เสื่อมแล้ว หมดเร็วมาก",
+            "en": "This phone's battery has degraded, it dies really fast.",
+            "audio_src": "แบตมือถือเครื่องนี้เสื่อมแล้ว หมดเร็วมาก",
+            "audio_en_src": "This phone's battery has degraded, it dies really fast."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3437,6 +3456,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "wrinkled skin",
+        "sentences": [
+          {
+            "thai": "ถ้าไม่ทากันแดด ผิวจะเหี่ยวเร็ว",
+            "en": "If you don't wear sunscreen, your skin will wrinkle faster.",
+            "audio_src": "ถ้าไม่ทากันแดด ผิวจะเหี่ยวเร็ว",
+            "audio_en_src": "If you don't wear sunscreen, your skin will wrinkle faster."
+          },
+          {
+            "thai": "ครีมนี้โฆษณาว่าแก้ผิวเหี่ยวได้",
+            "en": "This cream claims it can fix wrinkled skin.",
+            "audio_src": "ครีมนี้โฆษณาว่าแก้ผิวเหี่ยวได้",
+            "audio_en_src": "This cream claims it can fix wrinkled skin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3477,6 +3515,42 @@
     "sources": [
       "Chulalongkorn L4",
       "TSL Chiang Mai"
+    ],
+    "examples": [
+      {
+        "meaning": "to leave",
+        "sentences": [
+          {
+            "thai": "เขาจากไปโดยไม่บอกลา",
+            "en": "He left without saying goodbye.",
+            "audio_src": "เขาจากไปโดยไม่บอกลา",
+            "audio_en_src": "He left without saying goodbye."
+          },
+          {
+            "thai": "เธอจากไปอยู่ต่างประเทศหลายปีแล้ว",
+            "en": "She left to live abroad years ago.",
+            "audio_src": "เธอจากไปอยู่ต่างประเทศหลายปีแล้ว",
+            "audio_en_src": "She left to live abroad years ago."
+          }
+        ]
+      },
+      {
+        "meaning": "to pass away",
+        "sentences": [
+          {
+            "thai": "คุณปู่จากไปอย่างสงบเมื่อคืนนี้",
+            "en": "Grandpa passed away peacefully last night.",
+            "audio_src": "คุณปู่จากไปอย่างสงบเมื่อคืนนี้",
+            "audio_en_src": "Grandpa passed away peacefully last night."
+          },
+          {
+            "thai": "แม้เขาจะจากไปแล้ว แต่ทุกคนยังคิดถึงเขาเสมอ",
+            "en": "Even though he's gone, everyone still misses him.",
+            "audio_src": "แม้เขาจะจากไปแล้ว แต่ทุกคนยังคิดถึงเขาเสมอ",
+            "audio_en_src": "Even though he's gone, everyone still misses him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3631,6 +3705,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "memory loss, memory deterioration (e.g from aging)",
+        "sentences": [
+          {
+            "thai": "คุณยายเริ่มมีอาการความจำเสื่อม",
+            "en": "Grandma is starting to show signs of memory loss.",
+            "audio_src": "คุณยายเริ่มมีอาการความจำเสื่อม",
+            "audio_en_src": "Grandma is starting to show signs of memory loss."
+          },
+          {
+            "thai": "อายุเยอะแล้ว ความจำเริ่มเสื่อม",
+            "en": "I'm getting old, my memory is starting to go.",
+            "audio_src": "อายุเยอะแล้ว ความจำเริ่มเสื่อม",
+            "audio_en_src": "I'm getting old, my memory is starting to go."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3640,6 +3733,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "physical therapy",
+        "sentences": [
+          {
+            "thai": "หลังผ่าตัด หมอให้มาทำกายภาพบำบัดทุกสัปดาห์",
+            "en": "After the surgery, the doctor has me coming in for physical therapy every week.",
+            "audio_src": "หลังผ่าตัด หมอให้มาทำกายภาพบำบัดทุกสัปดาห์",
+            "audio_en_src": "After the surgery, the doctor has me coming in for physical therapy every week."
+          },
+          {
+            "thai": "เขาทำกายภาพบำบัดจนกลับมาเดินได้",
+            "en": "He did physical therapy until he could walk again.",
+            "audio_src": "เขาทำกายภาพบำบัดจนกลับมาเดินได้",
+            "audio_en_src": "He did physical therapy until he could walk again."
+          }
+        ]
+      }
     ]
   },
   {
@@ -3649,6 +3761,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "menopause",
+        "sentences": [
+          {
+            "thai": "แม่เข้าสู่วัยทอง เลยหงุดหงิดง่าย",
+            "en": "Mom's going through menopause, so she gets irritable easily.",
+            "audio_src": "แม่เข้าสู่วัยทอง เลยหงุดหงิดง่าย",
+            "audio_en_src": "Mom's going through menopause, so she gets irritable easily."
+          },
+          {
+            "thai": "อาการร้อนวูบวาบเป็นเรื่องปกติของผู้หญิงวัยทอง",
+            "en": "Hot flashes are normal for menopausal women.",
+            "audio_src": "อาการร้อนวูบวาบเป็นเรื่องปกติของผู้หญิงวัยทอง",
+            "audio_en_src": "Hot flashes are normal for menopausal women."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4149,6 +4280,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to fix one's luck",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ซวยบ่อย เลยไปทำบุญแก้ดวง",
+            "en": "I've had a lot of bad luck lately, so I went to make merit to fix my luck.",
+            "audio_src": "ช่วงนี้ซวยบ่อย เลยไปทำบุญแก้ดวง",
+            "audio_en_src": "I've had a lot of bad luck lately, so I went to make merit to fix my luck."
+          },
+          {
+            "thai": "หมอดูแนะนำให้ปล่อยปลาแก้ดวง",
+            "en": "The fortune teller told me to release fish to fix my luck.",
+            "audio_src": "หมอดูแนะนำให้ปล่อยปลาแก้ดวง",
+            "audio_en_src": "The fortune teller told me to release fish to fix my luck."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4158,6 +4308,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to boost one's luck, to improve one's luck",
+        "sentences": [
+          {
+            "thai": "เขาใส่เสื้อสีมงคลเพื่อเสริมดวง",
+            "en": "She wears lucky colors to boost her luck.",
+            "audio_src": "เขาใส่เสื้อสีมงคลเพื่อเสริมดวง",
+            "audio_en_src": "She wears lucky colors to boost her luck."
+          },
+          {
+            "thai": "คนนิยมซื้อเครื่องรางมาเสริมดวงเรื่องเงิน",
+            "en": "People like buying amulets to boost their money luck.",
+            "audio_src": "คนนิยมซื้อเครื่องรางมาเสริมดวงเรื่องเงิน",
+            "audio_en_src": "People like buying amulets to boost their money luck."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4224,6 +4393,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "day and night, non-stop, around the clock",
+        "sentences": [
+          {
+            "thai": "เขาทำงานหามรุ่งหามค่ำจนล้มป่วย",
+            "en": "He worked day and night until he got sick.",
+            "audio_src": "เขาทำงานหามรุ่งหามค่ำจนล้มป่วย",
+            "audio_en_src": "He worked day and night until he got sick."
+          },
+          {
+            "thai": "ช่วงสอบ นักศึกษาอ่านหนังสือหามรุ่งหามค่ำ",
+            "en": "During exams, students study around the clock.",
+            "audio_src": "ช่วงสอบ นักศึกษาอ่านหนังสือหามรุ่งหามค่ำ",
+            "audio_en_src": "During exams, students study around the clock."
+          }
+        ]
+      }
     ]
   },
   {
@@ -4233,6 +4421,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "all over the place, everywhere",
+        "sentences": [
+          {
+            "thai": "ช่วงหน้าฝน ยุงเยอะเต็มบ้านเต็มเมือง",
+            "en": "In the rainy season, there are mosquitoes everywhere.",
+            "audio_src": "ช่วงหน้าฝน ยุงเยอะเต็มบ้านเต็มเมือง",
+            "audio_en_src": "In the rainy season, there are mosquitoes everywhere."
+          },
+          {
+            "thai": "เดี๋ยวนี้ร้านกาแฟมีเต็มบ้านเต็มเมือง",
+            "en": "These days there are coffee shops all over the place.",
+            "audio_src": "เดี๋ยวนี้ร้านกาแฟมีเต็มบ้านเต็มเมือง",
+            "audio_en_src": "These days there are coffee shops all over the place."
+          }
+        ]
+      }
     ]
   },
   {
