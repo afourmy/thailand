@@ -7251,6 +7251,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "live musical performance",
+        "sentences": [
+          {
+            "thai": "ร้านนี้มีดนตรีบรรเลงสดทุกคืน",
+            "en": "This place has live music every night.",
+            "audio_src": "ร้านนี้มีดนตรีบรรเลงสดทุกคืน",
+            "audio_en_src": "This place has live music every night."
+          },
+          {
+            "thai": "ผมชอบฟังเพลงแบบบรรเลงสดมากกว่าฟังจากแผ่น",
+            "en": "I prefer hearing music performed live rather than recorded.",
+            "audio_src": "ผมชอบฟังเพลงแบบบรรเลงสดมากกว่าฟังจากแผ่น",
+            "audio_en_src": "I prefer hearing music performed live rather than recorded."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7290,6 +7309,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "guidelines, instruction",
+        "sentences": [
+          {
+            "thai": "โรงแรมติดประกาศข้อปฏิบัติสำหรับผู้เข้าพัก",
+            "en": "The hotel posted guidelines for guests.",
+            "audio_src": "โรงแรมติดประกาศข้อปฏิบัติสำหรับผู้เข้าพัก",
+            "audio_en_src": "The hotel posted guidelines for guests."
+          },
+          {
+            "thai": "อ่านข้อปฏิบัติก่อนเข้าใช้สระว่ายน้ำ",
+            "en": "Read the rules before using the pool.",
+            "audio_src": "อ่านข้อปฏิบัติก่อนเข้าใช้สระว่ายน้ำ",
+            "audio_en_src": "Read the rules before using the pool."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7299,6 +7337,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to block, to obstruct (e.g road), to stand in the way",
+        "sentences": [
+          {
+            "thai": "ห้ามจอดรถกีดขวางทางเข้าออก",
+            "en": "Don't park blocking the entrance.",
+            "audio_src": "ห้ามจอดรถกีดขวางทางเข้าออก",
+            "audio_en_src": "Don't park blocking the entrance."
+          },
+          {
+            "thai": "มีต้นไม้ล้มกีดขวางถนนอยู่",
+            "en": "A fallen tree is blocking the road.",
+            "audio_src": "มีต้นไม้ล้มกีดขวางถนนอยู่",
+            "audio_en_src": "A fallen tree is blocking the road."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7494,6 +7551,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "charm, charisma",
+        "sentences": [
+          {
+            "thai": "เมืองเก่ามีเสน่ห์ไม่เหมือนใคร",
+            "en": "The old town has a unique charm.",
+            "audio_src": "เมืองเก่ามีเสน่ห์ไม่เหมือนใคร",
+            "audio_en_src": "The old town has a unique charm."
+          },
+          {
+            "thai": "เขาเป็นคนมีเสน่ห์ ใครเจอก็ชอบ",
+            "en": "He's really charming, everyone who meets him likes him.",
+            "audio_src": "เขาเป็นคนมีเสน่ห์ ใครเจอก็ชอบ",
+            "audio_en_src": "He's really charming, everyone who meets him likes him."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7504,6 +7580,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddha's relics, pagoda (structure around the relics)",
+        "sentences": [
+          {
+            "thai": "คนเหนือนิยมไปไหว้พระธาตุประจำปีเกิด",
+            "en": "Northern Thais like to visit the pagoda of their birth year.",
+            "audio_src": "คนเหนือนิยมไปไหว้พระธาตุประจำปีเกิด",
+            "audio_en_src": "Northern Thais like to visit the pagoda of their birth year."
+          },
+          {
+            "thai": "พระธาตุดอยสุเทพเป็นที่เคารพของคนเชียงใหม่",
+            "en": "The Doi Suthep pagoda is revered by the people of Chiang Mai.",
+            "audio_src": "พระธาตุดอยสุเทพเป็นที่เคารพของคนเชียงใหม่",
+            "audio_en_src": "The Doi Suthep pagoda is revered by the people of Chiang Mai."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7513,6 +7608,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "institution or landmark that has a strong historical or cultural significance for the nation",
+        "sentences": [
+          {
+            "thai": "วัดพระแก้วเป็นวัดคู่บ้านคู่เมืองของไทย",
+            "en": "The Temple of the Emerald Buddha is one of Thailand's most treasured national landmarks.",
+            "audio_src": "วัดพระแก้วเป็นวัดคู่บ้านคู่เมืองของไทย",
+            "audio_en_src": "The Temple of the Emerald Buddha is one of Thailand's most treasured national landmarks."
+          },
+          {
+            "thai": "ช้างถือเป็นสัตว์คู่บ้านคู่เมืองของไทย",
+            "en": "Elephants are considered a national symbol of Thailand.",
+            "audio_src": "ช้างถือเป็นสัตว์คู่บ้านคู่เมืองของไทย",
+            "audio_en_src": "Elephants are considered a national symbol of Thailand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7522,6 +7636,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "year of the Rabbit",
+        "sentences": [
+          {
+            "thai": "ฉันเกิดปีเถาะ",
+            "en": "I was born in the year of the Rabbit.",
+            "audio_src": "ฉันเกิดปีเถาะ",
+            "audio_en_src": "I was born in the year of the Rabbit."
+          },
+          {
+            "thai": "คนเกิดปีเถาะมักใจเย็น",
+            "en": "People born in the year of the Rabbit are usually calm.",
+            "audio_src": "คนเกิดปีเถาะมักใจเย็น",
+            "audio_en_src": "People born in the year of the Rabbit are usually calm."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7532,6 +7665,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to prostrate oneself, to bow deeply (in reverence)",
+        "sentences": [
+          {
+            "thai": "เขากราบพระสามครั้งก่อนสวดมนต์",
+            "en": "He bowed to the ground three times before praying.",
+            "audio_src": "เขากราบพระสามครั้งก่อนสวดมนต์",
+            "audio_en_src": "He bowed to the ground three times before praying."
+          },
+          {
+            "thai": "ลูกกราบลาพ่อแม่ก่อนไปบวช",
+            "en": "The son bowed to his parents before entering the monkhood.",
+            "audio_src": "ลูกกราบลาพ่อแม่ก่อนไปบวช",
+            "audio_en_src": "The son bowed to his parents before entering the monkhood."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7543,6 +7695,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "blessed, auspicious",
+        "sentences": [
+          {
+            "thai": "คนไทยถือว่าเลขเก้าเป็นเลขมงคล",
+            "en": "Thais consider nine an auspicious number.",
+            "audio_src": "คนไทยถือว่าเลขเก้าเป็นเลขมงคล",
+            "audio_en_src": "Thais consider nine an auspicious number."
+          },
+          {
+            "thai": "ทำบุญตอนเช้าเพื่อความเป็นสิริมงคล",
+            "en": "Making merit in the morning brings good fortune.",
+            "audio_src": "ทำบุญตอนเช้าเพื่อความเป็นสิริมงคล",
+            "audio_en_src": "Making merit in the morning brings good fortune."
+          }
+        ]
+      }
     ]
   },
   {
@@ -7554,6 +7725,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to whisper",
+        "sentences": [
+          {
+            "thai": "เขากระซิบบอกความลับกับฉัน",
+            "en": "She whispered a secret to me.",
+            "audio_src": "เขากระซิบบอกความลับกับฉัน",
+            "audio_en_src": "She whispered a secret to me."
+          },
+          {
+            "thai": "อยากบอกอะไรก็กระซิบมาสิ",
+            "en": "If you want to tell me something, just whisper it.",
+            "audio_src": "อยากบอกอะไรก็กระซิบมาสิ",
+            "audio_en_src": "If you want to tell me something, just whisper it."
+          }
+        ]
+      }
     ]
   },
   {

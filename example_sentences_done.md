@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7333 words**
+**Total: 7343 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -236,13 +236,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-089` : บันทึกไฟล์ (to save a file) : 1 meaning(s), 2 sentences
 - `chula-l5-090` : ค้าขาย (trade, commerce) : 1 meaning(s), 2 sentences
 - `chula-l5-091` : ขาดทุน (to make a loss, to lose money (in business)) : 1 meaning(s), 2 sentences
+- `chula-l5-092` : บรรเลงสด (live musical performance) : 1 meaning(s), 2 sentences
 - `chula-l5-093` : อาชญากรรม (crime) : 1 meaning(s), 2 sentences
+- `chula-l5-094` : ข้อปฏิบัติ (guidelines, instruction) : 1 meaning(s), 2 sentences
+- `chula-l5-095` : กีดขวาง (to block, to obstruct (e.g road), to stand in the way) : 1 meaning(s), 2 sentences
 - `chula-l5-096` : สอบถาม (to inquire, to ask) : 1 meaning(s), 2 sentences
 - `chula-l5-097` : ศาล (court, tribunal) : 1 meaning(s), 2 sentences
 - `chula-l5-098` : ไฟดับ (power cut) : 1 meaning(s), 2 sentences
 - `chula-l5-099` : พลาด (to miss (e.g an opportunity, a target), to make a mistake) : 1 meaning(s), 2 sentences
 - `chula-l5-100` : ทรัพยากร (resources) : 1 meaning(s), 2 sentences
 - `chula-l5-101` : ธรรมชาติ (nature) : 1 meaning(s), 2 sentences
+- `chula-l5-102` : เสน่ห์ (charm, charisma) : 1 meaning(s), 2 sentences
+- `chula-l5-103` : พระธาตุ (Buddha's relics, pagoda (structure around the relics)) : 1 meaning(s), 2 sentences
+- `chula-l5-104` : คู่บ้านคู่เมือง (institution or landmark that has a strong historical or cultural significance for the nation) : 1 meaning(s), 2 sentences
+- `chula-l5-105` : ปีเถาะ (year of the Rabbit) : 1 meaning(s), 2 sentences
+- `chula-l5-106` : กราบ (to prostrate oneself, to bow deeply (in reverence)) : 1 meaning(s), 2 sentences
+- `chula-l5-107` : มงคล, สิริมงคล (blessed, auspicious) : 1 meaning(s), 2 sentences
+- `chula-l5-108` : กระซิบ (to whisper) : 1 meaning(s), 2 sentences
 - `chula-l5-111` : นาค (Naga (mythological serpent deity)) : 1 meaning(s), 2 sentences
 - `chula-l5-112` : ขั้น (step (stairs, process)) : 1 meaning(s), 2 sentences
 - `chula-l5-114` : นา, ทุ่งนา (rice field) : 1 meaning(s), 2 sentences
