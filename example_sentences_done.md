@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8154 words**
+**Total: 8164 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4662,11 +4662,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c02-027` : ใย (fiber, filament) : 1 meaning(s), 2 sentences
 - `yt-c02-028` : เคียงข้าง (beside, alongside) : 1 meaning(s), 2 sentences
 - `yt-c02-029` : ขำๆ (funny, "just kidding", jokingly) : 1 meaning(s), 2 sentences
+- `yt-c02-030` : เย็ด (to fuck, to have sex (slang)) : 1 meaning(s), 2 sentences
+- `yt-c02-031` : หี (pussy (vulgar, rude)) : 1 meaning(s), 2 sentences
+- `new-35` : จิ๋ม (pussy (slang)) : 1 meaning(s), 2 sentences
+- `yt-c02-032` : รวด (continuously, without interruption, in one go) : 1 meaning(s), 2 sentences
 - `yt-c02-033` : ร้องเกะ (to sing Karaoke) : 1 meaning(s), 2 sentences
 - `yt-c02-034` : มะไฟ (Burmese grape (thai fruit small, round, yellow, similar to Longan)) : 1 meaning(s), 2 sentences
 - `yt-c02-035` : ตำ, โขลก (to pound, to crush (e.g using a mortar and pestle)) : 1 meaning(s), 2 sentences
+- `yt-c02-036` : ชมพู่ (rose apple (bell-shaped, juicy, sweet)) : 1 meaning(s), 2 sentences
 - `yt-c02-039` : โกโก้ (cocoa) : 1 meaning(s), 2 sentences
+- `yt-c02-040` : กลั่นกรอง (to filter, to screen, to carefully review (e.g ideas, candidates)) : 1 meaning(s), 2 sentences
+- `yt-c02-041` : รับสาร (to receive a message) : 1 meaning(s), 2 sentences
+- `yt-c02-042` : ความเพลิดเพลิน (enjoyment, pleasure) : 1 meaning(s), 2 sentences
 - `yt-c02-043` : ปั่นจักรยาน, ถีบจักรยาน (to ride a bicycle) : 1 meaning(s), 2 sentences
+- `yt-c02-044` : โคนผม (base of the hair, hair root) : 1 meaning(s), 2 sentences
+- `yt-c02-045` : หนังศีรษะ (scalp (skin of the head)) : 1 meaning(s), 2 sentences
 - `yt-c02-048` : แก้ม (cheek) : 1 meaning(s), 2 sentences
 - `yt-c02-050` : ขมวดคิ้ว (to frown, to knit your eyebrows) : 1 meaning(s), 2 sentences
 - `yt-c02-051` : ยักคิ้ว (to raise an eyebrow) : 1 meaning(s), 2 sentences
