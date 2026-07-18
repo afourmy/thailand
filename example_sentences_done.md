@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7684 words**
+**Total: 7694 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1430,12 +1430,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-562` : เศรษฐศาสตร์ (economics (academic field)) : 1 meaning(s), 2 sentences
 - `tamago-l12-563` : เศร้า (sad (extended/deep sadness)) : 1 meaning(s), 2 sentences
 - `tamago-l12-564` : เสา (pole, pillar) : 1 meaning(s), 2 sentences
+- `tamago-l12-565` : เสาไฟฟ้า (electric pole, utility pole) : 1 meaning(s), 2 sentences
 - `tamago-l12-566` : เสีย (to waste, to spend; to be broken) : 2 meaning(s), 4 sentences
 - `tamago-l12-567` : เสียดาย ("it's a shame", "what a pity") : 1 meaning(s), 2 sentences
 - `tamago-l12-568` : เสียใจ (sad (short-term sadness), sorry) : 1 meaning(s), 2 sentences
+- `tamago-l12-569` : เสื้อกล้าม (tank top, sleeveless shirt) : 1 meaning(s), 2 sentences
 - `tamago-l12-570` : เสื้อกันหนาว (sweater, coat (warm clothing)) : 1 meaning(s), 2 sentences
 - `tamago-l12-571` : เสื้อชูชีพ (life vest, life jacket) : 1 meaning(s), 2 sentences
 - `tamago-l12-572` : เสื้อสูท (suit jacket) : 1 meaning(s), 2 sentences
+- `tamago-l12-573` : เส้นเลือดดำ (vein) : 1 meaning(s), 2 sentences
+- `tamago-l12-574` : เส้นเลือดแดง (artery) : 1 meaning(s), 2 sentences
 - `tamago-l12-575` : เหยือก (jug, pitcher) : 1 meaning(s), 2 sentences
 - `tamago-l12-576` : เหรียญ (coin) : 1 meaning(s), 2 sentences
 - `tamago-l12-577` : เหล็กดัดฟัน (braces (dental)) : 1 meaning(s), 2 sentences
@@ -1457,10 +1461,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-595` : แป้ง (powder; flour, starch) : 2 meaning(s), 4 sentences
 - `tamago-l12-597` : แผง (stall, booth; blister pack (e.g pills); panel, board) : 3 meaning(s), 6 sentences
 - `tamago-l12-598` : แพ (raft (boat)) : 1 meaning(s), 2 sentences
+- `tamago-l12-599` : แฟนพันธุ์แท้ (true fan, hardcore fan) : 1 meaning(s), 2 sentences
 - `tamago-l12-600` : แมงกะพรุน (jellyfish) : 1 meaning(s), 2 sentences
 - `tamago-l12-601` : แมวน้ำ (seal (animal)) : 1 meaning(s), 2 sentences
+- `tamago-l12-602` : แม็ก (stapler) : 1 meaning(s), 2 sentences
+- `tamago-l12-603` : แม่มด (witch) : 1 meaning(s), 2 sentences
 - `tamago-l12-604` : แม่ลูกอ่อน (young mother, mother with a newborn) : 1 meaning(s), 2 sentences
 - `tamago-l12-605` : แม้กระทั่ง (even, even including) : 1 meaning(s), 2 sentences
+- `tamago-l12-606` : แลกเหรียญ (to exchange money into coins) : 1 meaning(s), 2 sentences
 - `tamago-l12-607` : แล้วไง ("and?", "so what?") : 1 meaning(s), 2 sentences
 - `tamago-l12-608` : แหวน (ring (jewelry)) : 1 meaning(s), 2 sentences
 - `tamago-l12-609` : แอบชอบ (to have a crush on, to secretly like) : 1 meaning(s), 2 sentences
@@ -1471,6 +1479,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-614` : โดดเรียน (to skip school, to skip class) : 1 meaning(s), 2 sentences
 - `tamago-l12-615` : โดน (to be exposed to (e.g rain, sun, water); to get (passive)) : 2 meaning(s), 4 sentences
 - `tamago-l12-617` : โด่ง (prominent, elevated (e.g nose)) : 1 meaning(s), 2 sentences
+- `tamago-l12-618` : โต้คลื่น (to surf (waves)) : 1 meaning(s), 2 sentences
+- `tamago-l12-619` : โปรย (to sprinkle, to scatter, to shower down) : 1 meaning(s), 2 sentences
 - `tamago-l12-620` : โมโห (angry, furious) : 1 meaning(s), 2 sentences
 - `tamago-l12-623` : โล (kilo (colloquial short form of kilogram)) : 1 meaning(s), 2 sentences
 - `tamago-l12-624` : โหด, โหดร้าย (cruel, harsh, brutal) : 1 meaning(s), 2 sentences
