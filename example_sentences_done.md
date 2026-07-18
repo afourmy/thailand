@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7744 words**
+**Total: 7754 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1848,6 +1848,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-310` : วาดฝัน (to dream of, to envision) : 1 meaning(s), 2 sentences
 - `tamago-l3-311` : เข้าแถว (to line up, to form a line) : 1 meaning(s), 2 sentences
 - `tamago-l3-313` : ปะปน (to be mixed (together)) : 1 meaning(s), 2 sentences
+- `tamago-l3-314` : ทัศนศึกษา (field trip (school)) : 1 meaning(s), 2 sentences
 - `tamago-l3-315` : ทั่วถึง (thoroughly, comprehensively, all over) : 1 meaning(s), 2 sentences
 - `tamago-l3-316` : บ้านเรา ((colloquial) refers to Thailand, "our country") : 1 meaning(s), 2 sentences
 - `tamago-l3-317` : รถเข็น (cart, stroller, wheelchair) : 1 meaning(s), 3 sentences
@@ -1855,10 +1856,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-319` : มอบ (to give, to present (often formally)) : 1 meaning(s), 2 sentences
 - `tamago-l3-320` : ล้มเลิก (to cancel, to abandon, to call off) : 1 meaning(s), 2 sentences
 - `tamago-l3-321` : หันไปสนใจ (to shift one's interest to) : 1 meaning(s), 2 sentences
+- `tamago-l3-322` : พิธีกร (host, presenter, master of ceremonies (MC)) : 1 meaning(s), 2 sentences
+- `tamago-l3-323` : คู่สมรส (married spouse, married couple (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-324` : ห่างกัน (apart, distant from (each other)) : 1 meaning(s), 2 sentences
 - `tamago-l3-325` : อย่างใกล้ชิด (closely, intimately) : 1 meaning(s), 2 sentences
 - `tamago-l3-326` : สานสัมพันธ์ (to build a relationship, to bond) : 1 meaning(s), 2 sentences
 - `tamago-l3-327` : ผูกพัน (emotionally attached, bonded, connected) : 1 meaning(s), 2 sentences
+- `tamago-l3-328` : ประสา (manner, style, character, inherent nature of someone) : 1 meaning(s), 2 sentences
+- `tamago-l3-330` : สถานเลี้ยงเด็กกำพร้า (orphanage) : 1 meaning(s), 2 sentences
 - `tamago-l3-331` : ขัด (to polish; to oppose, to go against) : 2 meaning(s), 4 sentences
 - `tamago-l3-332` : หน่าย (bored, fed up, tired of) : 1 meaning(s), 2 sentences
 - `tamago-l3-334` : แปะ (to stick (a poster, sticker), to put on a surface) : 1 meaning(s), 2 sentences
@@ -1877,6 +1882,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-347` : ซ้ำๆซากๆ (repeatedly, over and over) : 1 meaning(s), 2 sentences
 - `tamago-l3-348` : นับแต่จากนี้ไป (starting from now on, from this moment onward) : 1 meaning(s), 2 sentences
 - `tamago-l3-350` : หมกตัว (to shut oneself away (in a room)) : 1 meaning(s), 2 sentences
+- `tamago-l3-351` : กรี๊ดกร๊าด (to scream with excitement (high-pitched screams)) : 1 meaning(s), 2 sentences
+- `tamago-l3-352` : เล่นสนุ๊ก (to play snooker) : 1 meaning(s), 2 sentences
 - `tamago-l3-353` : เสียมารยาท (rude, ill-mannered) : 1 meaning(s), 2 sentences
 - `tamago-l3-354` : อาวุโส (senior, elder) : 1 meaning(s), 2 sentences
 - `tamago-l3-355` : อ้าง (to claim, to assert; to quote, to cite; to give an excuse) : 3 meaning(s), 6 sentences
@@ -1885,8 +1892,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-358` : มั่วๆ (to do something wrong or randomly, messily, haphazardly) : 1 meaning(s), 2 sentences
 - `tamago-l3-359` : ใต้น้ำ - เหนือน้ำ (underwater - above the water) : 2 meaning(s), 4 sentences
 - `tamago-l3-360` : ขี้แพ้ชวนตี ((proverb) a sore loser who picks fights after losing) : 1 meaning(s), 2 sentences
+- `tamago-l3-361` : ท่ายืน (standing posture) : 1 meaning(s), 2 sentences
 - `tamago-l3-362` : แผงคอ (mane (of an animal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-363` : ทำคะแนน (to score points) : 1 meaning(s), 2 sentences
+- `tamago-l3-364` : ที่ราบ (flat lands, plain) : 1 meaning(s), 2 sentences
+- `tamago-l3-365` : ทุ่งหญ้า (grassland, savannah, meadow) : 1 meaning(s), 2 sentences
 - `tamago-l3-366` : อำพรางตัว (to camouflage, to disguise oneself) : 1 meaning(s), 2 sentences
 - `tamago-l3-367` : ตาบอดสี (colorblind) : 1 meaning(s), 2 sentences
 - `tamago-l3-368` : คิดออก (to figure out, to come up with (an idea)) : 1 meaning(s), 2 sentences
