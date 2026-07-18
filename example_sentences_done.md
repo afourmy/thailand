@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8064 words**
+**Total: 8074 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4036,6 +4036,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1377` : โพ้นทะเล (overseas, beyond the sea) : 1 meaning(s), 2 sentences
 - `thaipod-1379` : โรงฆ่า, โรงฆ่าสัตว์ (slaughterhouse) : 1 meaning(s), 2 sentences
 - `thaipod-1380` : โรงเรียนประจำ (boarding school) : 1 meaning(s), 2 sentences
+- `thaipod-1382` : โรงไฟฟ้า (power plant) : 1 meaning(s), 2 sentences
 - `thaipod-1384` : โห่ร้อง (to cheer, to acclaim) : 1 meaning(s), 2 sentences
 - `thaipod-1386` : โอบอุ้ม (to embrace, to support, to foster) : 1 meaning(s), 2 sentences
 - `thaipod-1388` : โอรสธิดา (children, sons and daughters (royal)) : 1 meaning(s), 2 sentences
@@ -4055,6 +4056,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1408` : ได้ข่าวว่า ("I heard that", "I got word that") : 1 meaning(s), 2 sentences
 - `thaipod-1410` : ได้ชื่อว่า (to be known as, to be regarded as) : 1 meaning(s), 2 sentences
 - `thaipod-1411` : ไต่ (to climb, to crawl along a surface (carefully, gradually)) : 1 meaning(s), 2 sentences
+- `thaipod-1412` : ไถ่ชีวิต (to redeem a life (release an animal to gain merit)) : 1 meaning(s), 2 sentences
 - `thaipod-1413` : ไฟเลี้ยว (turn signal (vehicle)) : 1 meaning(s), 2 sentences
 - `thaipod-1414` : ไมตรีจิต (goodwill, friendliness) : 1 meaning(s), 2 sentences
 - `thaipod-1415` : ไม่กี่วัน (a few days) : 1 meaning(s), 2 sentences
@@ -4074,6 +4076,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1431` : ไอความร้อน (heat vapor, steam) : 1 meaning(s), 2 sentences
 - `tobo-001` : เงินออม (savings) : 1 meaning(s), 2 sentences
 - `tobo-002` : การปฏิวัติ (revolution) : 1 meaning(s), 2 sentences
+- `tobo-003` : ความกลมกลืน (harmony) : 1 meaning(s), 2 sentences
 - `tobo-004` : หนัง (movie; leather) : 2 meaning(s), 4 sentences
 - `tobo-005` : แมงมุม (spider) : 1 meaning(s), 2 sentences
 - `tobo-006` : วงรี (ellipse, oval) : 1 meaning(s), 2 sentences
@@ -4082,6 +4085,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-009` : ลบ (to subtract, to delete; negative) : 2 meaning(s), 4 sentences
 - `tobo-010` : นักลงทุน (investor) : 1 meaning(s), 2 sentences
 - `tobo-011` : การเตรียมการ (preparation) : 1 meaning(s), 2 sentences
+- `tobo-012` : การหมกมุ่น (obsession, preoccupation) : 1 meaning(s), 2 sentences
 - `tobo-013` : ผ้าอ้อม (diaper) : 1 meaning(s), 2 sentences
 - `tobo-014` : ใบสั่งยา (prescription (medication)) : 1 meaning(s), 2 sentences
 - `tobo-015` : อ่างล้างจาน (kitchen sink) : 1 meaning(s), 2 sentences
@@ -4110,11 +4114,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-043` : จอ (screen, monitor) : 1 meaning(s), 2 sentences
 - `tobo-044` : ผลิตภัณฑ์ (product) : 1 meaning(s), 2 sentences
 - `tobo-045` : รีไซเคิล (to recycle) : 1 meaning(s), 2 sentences
+- `tobo-046` : คนขายเนื้อ (butcher) : 1 meaning(s), 2 sentences
 - `tobo-047` : กล้าหาญ (brave, courageous) : 1 meaning(s), 2 sentences
 - `tobo-048` : ระยะทาง (distance) : 1 meaning(s), 2 sentences
 - `tobo-049` : หิมะ (snow) : 1 meaning(s), 2 sentences
 - `tobo-050` : พระราชา (king) : 1 meaning(s), 2 sentences
 - `tobo-051` : ป้า (aunt (older than parents)) : 1 meaning(s), 2 sentences
+- `tobo-052` : ความมืด (darkness) : 1 meaning(s), 2 sentences
 - `tobo-053` : บันได (stairs, ladder) : 1 meaning(s), 2 sentences
 - `tobo-054` : หมวก (hat) : 1 meaning(s), 2 sentences
 - `tobo-055` : ขโมย (thief, to steal) : 1 meaning(s), 2 sentences
@@ -4144,6 +4150,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-079` : หน้าผาก (forehead) : 1 meaning(s), 2 sentences
 - `tobo-080` : พระอาทิตย์ตก (sunset) : 1 meaning(s), 2 sentences
 - `tobo-081` : เพดาน (ceiling) : 1 meaning(s), 2 sentences
+- `tobo-082` : จิตรกร (painter (artist)) : 1 meaning(s), 2 sentences
 - `tobo-083` : อนาคต (future) : 1 meaning(s), 2 sentences
 - `tobo-084` : ถุงนอน (sleeping bag) : 1 meaning(s), 2 sentences
 - `tobo-085` : รายละเอียด (detail(s)) : 1 meaning(s), 2 sentences
@@ -4165,6 +4172,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-101` : โทรทัศน์ (television) : 1 meaning(s), 2 sentences
 - `tobo-102` : สัญญา (contract, agreement, promise) : 1 meaning(s), 2 sentences
 - `tobo-103` : พนักงานเสิร์ฟ (waiter, waitress) : 1 meaning(s), 2 sentences
+- `tobo-104` : แสงจันทร์ (moonlight) : 1 meaning(s), 2 sentences
 - `tobo-105` : แช่แข็ง (to freeze) : 1 meaning(s), 2 sentences
 - `tobo-106` : ลังเล (to hesitate) : 1 meaning(s), 2 sentences
 - `tobo-107` : ระเบียง (balcony, terrace) : 1 meaning(s), 2 sentences
@@ -4176,8 +4184,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-113` : น้ำผึ้ง (honey) : 1 meaning(s), 2 sentences
 - `tobo-114` : กฎ (rule) : 1 meaning(s), 2 sentences
 - `tobo-115` : แดดจัด (sunny, strong sun) : 1 meaning(s), 2 sentences
+- `tobo-116` : ทรยศ (to betray) : 1 meaning(s), 2 sentences
 - `tobo-119` : โกรธ (angry) : 1 meaning(s), 2 sentences
 - `tobo-120` : เคร่งศาสนา (religious (strict observance)) : 1 meaning(s), 2 sentences
+- `tobo-121` : กรีดร้อง (to scream) : 1 meaning(s), 2 sentences
 - `tobo-122` : ให้อภัย (to forgive) : 1 meaning(s), 2 sentences
 - `tobo-123` : จักรวาล (universe) : 1 meaning(s), 2 sentences
 - `tobo-125` : การตัดสินใจ (decision) : 1 meaning(s), 2 sentences

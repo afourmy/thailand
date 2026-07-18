@@ -124676,6 +124676,25 @@
     "sources": [
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "power plant",
+        "sentences": [
+          {
+            "thai": "โรงไฟฟ้าแห่งใหม่ใช้พลังงานแสงอาทิตย์",
+            "en": "The new power plant runs on solar energy.",
+            "audio_src": "โรงไฟฟ้าแห่งใหม่ใช้พลังงานแสงอาทิตย์",
+            "audio_en_src": "The new power plant runs on solar energy."
+          },
+          {
+            "thai": "ชาวบ้านคัดค้านการสร้างโรงไฟฟ้าถ่านหิน",
+            "en": "Villagers oppose building a coal power plant.",
+            "audio_src": "ชาวบ้านคัดค้านการสร้างโรงไฟฟ้าถ่านหิน",
+            "audio_en_src": "Villagers oppose building a coal power plant."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125241,6 +125260,25 @@
     "frequency": "occasional",
     "sources": [
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to redeem a life (release an animal to gain merit)",
+        "sentences": [
+          {
+            "thai": "เขาไถ่ชีวิตวัวหนึ่งตัวในวันเกิด",
+            "en": "He redeemed a cow's life on his birthday.",
+            "audio_src": "เขาไถ่ชีวิตวัวหนึ่งตัวในวันเกิด",
+            "audio_en_src": "He redeemed a cow's life on his birthday."
+          },
+          {
+            "thai": "พวกเขาทำบุญไถ่ชีวิตปลาที่ตลาด",
+            "en": "They made merit by buying fish at the market to set free.",
+            "audio_src": "พวกเขาทำบุญไถ่ชีวิตปลาที่ตลาด",
+            "audio_en_src": "They made merit by buying fish at the market to set free."
+          }
+        ]
+      }
     ]
   },
   {
@@ -125817,6 +125855,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "harmony",
+        "sentences": [
+          {
+            "thai": "สีของห้องนี้มีความกลมกลืนกันดี",
+            "en": "The colors in this room go together harmoniously.",
+            "audio_src": "สีของห้องนี้มีความกลมกลืนกันดี",
+            "audio_en_src": "The colors in this room go together harmoniously."
+          },
+          {
+            "thai": "การออกแบบเน้นความกลมกลืนกับธรรมชาติ",
+            "en": "The design emphasizes harmony with nature.",
+            "audio_src": "การออกแบบเน้นความกลมกลืนกับธรรมชาติ",
+            "audio_en_src": "The design emphasizes harmony with nature."
+          }
+        ]
+      }
     ]
   },
   {
@@ -126121,6 +126178,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "obsession, preoccupation",
+        "sentences": [
+          {
+            "thai": "การหมกมุ่นกับงานทำให้เขาละเลยครอบครัว",
+            "en": "His obsession with work made him neglect his family.",
+            "audio_src": "การหมกมุ่นกับงานทำให้เขาละเลยครอบครัว",
+            "audio_en_src": "His obsession with work made him neglect his family."
+          },
+          {
+            "thai": "การหมกมุ่นกับมือถือเป็นปัญหาของวัยรุ่น",
+            "en": "Phone obsession is a problem for teenagers.",
+            "audio_src": "การหมกมุ่นกับมือถือเป็นปัญหาของวัยรุ่น",
+            "audio_en_src": "Phone obsession is a problem for teenagers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -127055,6 +127131,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "butcher",
+        "sentences": [
+          {
+            "thai": "คนขายเนื้อที่ตลาดหั่นให้ตามสั่ง",
+            "en": "The butcher at the market cuts it to order.",
+            "audio_src": "คนขายเนื้อที่ตลาดหั่นให้ตามสั่ง",
+            "audio_en_src": "The butcher at the market cuts it to order."
+          },
+          {
+            "thai": "ฝากคนขายเนื้อบดหมูให้หน่อย",
+            "en": "Ask the butcher to grind the pork for you.",
+            "audio_src": "ฝากคนขายเนื้อบดหมูให้หน่อย",
+            "audio_en_src": "Ask the butcher to grind the pork for you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -127220,6 +127315,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "darkness",
+        "sentences": [
+          {
+            "thai": "เด็กๆกลัวความมืด",
+            "en": "Kids are afraid of the dark.",
+            "audio_src": "เด็กๆกลัวความมืด",
+            "audio_en_src": "Kids are afraid of the dark."
+          },
+          {
+            "thai": "ตาค่อยๆชินกับความมืดในถ้ำ",
+            "en": "Your eyes slowly adjust to the darkness in the cave.",
+            "audio_src": "ตาค่อยๆชินกับความมืดในถ้ำ",
+            "audio_en_src": "Your eyes slowly adjust to the darkness in the cave."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128145,6 +128259,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "painter (artist)",
+        "sentences": [
+          {
+            "thai": "จิตรกรคนนี้วาดภาพเหมือนเก่งมาก",
+            "en": "This painter does amazing portraits.",
+            "audio_src": "จิตรกรคนนี้วาดภาพเหมือนเก่งมาก",
+            "audio_en_src": "This painter does amazing portraits."
+          },
+          {
+            "thai": "ภาพนี้เป็นผลงานของจิตรกรชื่อดัง",
+            "en": "This painting is the work of a famous artist.",
+            "audio_src": "ภาพนี้เป็นผลงานของจิตรกรชื่อดัง",
+            "audio_en_src": "This painting is the work of a famous artist."
+          }
+        ]
+      }
     ]
   },
   {
@@ -128808,6 +128941,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "moonlight",
+        "sentences": [
+          {
+            "thai": "แสงจันทร์สะท้อนบนผิวน้ำ",
+            "en": "Moonlight reflects off the water.",
+            "audio_src": "แสงจันทร์สะท้อนบนผิวน้ำ",
+            "audio_en_src": "Moonlight reflects off the water."
+          },
+          {
+            "thai": "คืนนี้แสงจันทร์สว่างมาก",
+            "en": "The moonlight is really bright tonight.",
+            "audio_src": "คืนนี้แสงจันทร์สว่างมาก",
+            "audio_en_src": "The moonlight is really bright tonight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129149,6 +129301,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "to betray",
+        "sentences": [
+          {
+            "thai": "เขาทรยศเพื่อนเพื่อเงิน",
+            "en": "He betrayed his friend for money.",
+            "audio_src": "เขาทรยศเพื่อนเพื่อเงิน",
+            "audio_en_src": "He betrayed his friend for money."
+          },
+          {
+            "thai": "ฉันไม่มีวันทรยศความไว้ใจของเธอ",
+            "en": "I would never betray your trust.",
+            "audio_src": "ฉันไม่มีวันทรยศความไว้ใจของเธอ",
+            "audio_en_src": "I would never betray your trust."
+          }
+        ]
+      }
     ]
   },
   {
@@ -129220,6 +129391,25 @@
     "frequency": "occasional",
     "sources": [
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "to scream",
+        "sentences": [
+          {
+            "thai": "เธอกรีดร้องเมื่อเห็นงูในครัว",
+            "en": "She screamed when she saw a snake in the kitchen.",
+            "audio_src": "เธอกรีดร้องเมื่อเห็นงูในครัว",
+            "audio_en_src": "She screamed when she saw a snake in the kitchen."
+          },
+          {
+            "thai": "ได้ยินเสียงกรีดร้องมาจากบ้านร้าง",
+            "en": "We heard screams coming from the abandoned house.",
+            "audio_src": "ได้ยินเสียงกรีดร้องมาจากบ้านร้าง",
+            "audio_en_src": "We heard screams coming from the abandoned house."
+          }
+        ]
+      }
     ]
   },
   {
