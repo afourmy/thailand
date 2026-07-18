@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7804 words**
+**Total: 7814 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2281,6 +2281,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-768` : คลอ ((of tears) to well up gradually) : 1 meaning(s), 2 sentences
 - `tamago-l3-769` : กระโดดโลดเต้น (to jump around with excitement and joy) : 1 meaning(s), 2 sentences
 - `tamago-l3-770` : คำติ (criticism) : 1 meaning(s), 2 sentences
+- `tamago-l3-771` : ความสามารถรอบด้าน (versatile abilities, all-around ability) : 1 meaning(s), 2 sentences
 - `tamago-l3-772` : วิจารณ์ (to criticize, review, evaluate) : 1 meaning(s), 2 sentences
 - `tamago-l3-773` : ทางลบ (in a negative way) : 1 meaning(s), 2 sentences
 - `tamago-l3-774` : สะทกสะท้าน (emotionally shaken, deeply affected, trembling with fear) : 1 meaning(s), 2 sentences
@@ -2291,11 +2292,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-779` : ป้องกัน (to protect against, to prevent) : 1 meaning(s), 2 sentences
 - `tamago-l3-780` : โรคหอบหืด (asthma) : 1 meaning(s), 2 sentences
 - `tamago-l3-781` : ชุ่มชื้น (moisturized, hydrated) : 1 meaning(s), 2 sentences
+- `tamago-l3-782` : วิชาเลือก (elective course (school)) : 1 meaning(s), 2 sentences
 - `tamago-l3-783` : ประดิษฐ์ (to invent, to create something new) : 1 meaning(s), 2 sentences
 - `tamago-l3-784` : ดัดแปลงพันธุกรรม (to genetically modify, to engineer (GMO)) : 1 meaning(s), 2 sentences
+- `tamago-l3-785` : เป็นที่ถกเถียงกัน (to be controversial, to be debated) : 1 meaning(s), 2 sentences
 - `tamago-l3-786` : น่าเชื่อถือ (trustworthy, reliable, convincing) : 1 meaning(s), 2 sentences
 - `tamago-l3-787` : แพร่หลาย (widespread, prevalent) : 1 meaning(s), 2 sentences
 - `tamago-l3-788` : เห็นๆ (obviously, clearly (visible)) : 1 meaning(s), 2 sentences
+- `tamago-l3-789` : ปริญญาเอก (doctoral degree, PhD) : 1 meaning(s), 2 sentences
 - `tamago-l3-790` : นักศึกษา (university student, college student) : 1 meaning(s), 2 sentences
 - `tamago-l3-791` : ทุ่นแรง (to save effort, to reduce labor) : 1 meaning(s), 2 sentences
 - `tamago-l3-792` : ทดลอง (to experiment, to test, to trial) : 1 meaning(s), 2 sentences
@@ -2303,6 +2307,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-794` : กระจุก (cluster, tuft, small bunch) : 1 meaning(s), 2 sentences
 - `tamago-l3-795` : บีบคอ, รัดคอ (to strangle, to choke (someone)) : 1 meaning(s), 2 sentences
 - `tamago-l3-796` : ถอดปลั๊ก (to unplug) : 1 meaning(s), 2 sentences
+- `tamago-l3-798` : ตีพิมพ์ (to publish (a book, article)) : 1 meaning(s), 2 sentences
 - `tamago-l3-799` : วารสาร (journal, periodical (e.g academic research)) : 1 meaning(s), 2 sentences
 - `tamago-l3-800` : เปล่าๆ, โดยเปล่าประโยชน์ (in vain, for nothing) : 1 meaning(s), 2 sentences
 - `tamago-l3-801` : มืดแปดด้าน (to feel trapped with no way out, to be completely at a loss (idiom, literally "dark on all eight sides")) : 1 meaning(s), 2 sentences
@@ -2311,7 +2316,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-804` : เป็นระยะๆ (periodically, intermittently) : 1 meaning(s), 2 sentences
 - `tamago-l3-805` : หลวงพ่อ (you (when addressing a senior monk)) : 1 meaning(s), 2 sentences
 - `tamago-l3-806` : โยม ("you" (pronoun monks use to address laypeople)) : 1 meaning(s), 2 sentences
+- `tamago-l3-807` : อาตมา ("I" (pronoun monks use for themselves)) : 1 meaning(s), 2 sentences
 - `tamago-l3-808` : โรคหลอดเลือดสมอง (stroke (cerebrovascular)) : 1 meaning(s), 2 sentences
+- `tamago-l3-809` : พึง (should, ought to (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-810` : ยึดติด (to cling to, to be attached to (emotionally)) : 1 meaning(s), 2 sentences
 - `tamago-l3-811` : ปล่อยวาง (to let go (of feelings, attachments), to accept things as they are (in a Buddhist sense)) : 1 meaning(s), 2 sentences
 - `tamago-l3-812` : รู้สึกเฉยๆ (to feel indifferent) : 1 meaning(s), 2 sentences
@@ -2337,13 +2344,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-834` : หัวสมัยใหม่ (modern-minded, liberal) : 1 meaning(s), 2 sentences
 - `tamago-l3-835` : คนรักเพศเดียวกัน (homosexual person (literally one who loves the same sex)) : 1 meaning(s), 2 sentences
 - `tamago-l3-836` : ความนับถือตัวเอง (self-esteem) : 1 meaning(s), 2 sentences
+- `tamago-l3-837` : ตะกุกตะกัก (hesitant, stuttering, stammering) : 1 meaning(s), 2 sentences
 - `tamago-l3-838` : ชุด (set, portion, suit) : 1 meaning(s), 3 sentences
 - `tamago-l3-839` : กล้าๆกลัวๆ (hesitant, "half wanting, half afraid") : 1 meaning(s), 2 sentences
 - `tamago-l3-840` : เอะอะโวยวาย (to shout and make a fuss, to throw a tantrum) : 1 meaning(s), 2 sentences
 - `tamago-l3-841` : อยู่ดีไม่ว่าดี (to unnecessarily create problems when things were already fine (idiom)) : 1 meaning(s), 2 sentences
 - `tamago-l3-842` : โบสถ์ (church, Buddhist temple ordination hall) : 1 meaning(s), 2 sentences
 - `tamago-l3-843` : เดินกะเผลก (to limp, to walk with a limp) : 1 meaning(s), 2 sentences
+- `tamago-l3-844` : สงเคราะห์ (to provide aid, to support (especially welfare, aid for the poor)) : 1 meaning(s), 2 sentences
 - `tamago-l3-845` : สุ่มสี่สุ่มห้า (recklessly, without thinking, haphazardly) : 1 meaning(s), 2 sentences
+- `tamago-l3-846` : ปลอกคอ (collar (e.g for an animal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-847` : สู้ (to fight; "might as well", "wouldn't it be better if") : 2 meaning(s), 4 sentences
 - `tamago-l3-848` : บ้านจน (poor family, poor household) : 1 meaning(s), 2 sentences
 - `tamago-l3-849` : โสเภณี (prostitute) : 1 meaning(s), 2 sentences
