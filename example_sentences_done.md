@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7423 words**
+**Total: 7433 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -404,22 +404,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-268` : รู้ตัว (to be aware, to be conscious of) : 1 meaning(s), 2 sentences
 - `chula-l5-269` : คู่แข่ง (rival, competitor) : 1 meaning(s), 2 sentences
 - `chula-l5-270` : วงการ (field, industry) : 1 meaning(s), 2 sentences
+- `chula-l5-271` : พยากรณ์ (to forecast) : 1 meaning(s), 2 sentences
 - `chula-l5-272` : พยากรณ์อากาศ (weather forecast) : 1 meaning(s), 2 sentences
+- `chula-l5-273` : กรมอุตุนิยมวิทยา, กรมอุตุฯ (Thai Meteorological Department) : 1 meaning(s), 2 sentences
 - `chula-l5-274` : พายุ (storm) : 1 meaning(s), 2 sentences
+- `chula-l5-275` : อุตส่าห์ (to go out of one's way, to go through the trouble) : 1 meaning(s), 2 sentences
 - `chula-l5-276` : เซ็ง (bored, fed up, feeling blue) : 1 meaning(s), 2 sentences
 - `chula-l5-277` : ระบาย (to drain, to empty; to express strong emotions, to vent) : 2 meaning(s), 4 sentences
 - `chula-l5-278` : ลื่น (to slip, slippery) : 1 meaning(s), 2 sentences
 - `chula-l5-279` : ระมัดระวัง (careful) : 1 meaning(s), 2 sentences
+- `chula-l5-280` : ลมมรสุม (monsoon wind) : 1 meaning(s), 2 sentences
 - `chula-l5-281` : ร่องฝน (monsoon trough) : 1 meaning(s), 2 sentences
+- `chula-l5-282` : พาดผ่าน ((storm) to pass through, to sweep across) : 1 meaning(s), 2 sentences
 - `chula-l5-283` : คลื่น (wave; radio channel, frequency) : 2 meaning(s), 4 sentences
 - `chula-l5-284` : ค่อนข้าง (quite, rather, relatively) : 1 meaning(s), 2 sentences
 - `chula-l5-285` : อบอ้าว (stuffy, hot and humid) : 1 meaning(s), 2 sentences
 - `chula-l5-286` : อุปสรรค (obstacle) : 1 meaning(s), 2 sentences
+- `chula-l5-287` : ลมฟ้าอากาศ (weather) : 1 meaning(s), 2 sentences
 - `chula-l5-288` : ยกเลิก (to cancel) : 1 meaning(s), 2 sentences
+- `chula-l5-289` : เครๆ (okay, "alright") : 1 meaning(s), 2 sentences
 - `chula-l5-290` : สรุปแล้ว (in conclusion) : 1 meaning(s), 2 sentences
 - `chula-l5-291` : ยังคง (still) : 1 meaning(s), 2 sentences
 - `chula-l5-292` : เป็นกันเอง ((person) friendly, approachable, informal; (price) reasonable) : 2 meaning(s), 4 sentences
 - `chula-l5-293` : อะ, อ่ะ (makes the sentence softer and informal) : 1 meaning(s), 2 sentences
+- `chula-l5-298` : ใจความสำคัญ (main idea, key point) : 1 meaning(s), 2 sentences
+- `chula-l5-299` : ชาวเรือ, กะลาสี (sailor) : 1 meaning(s), 2 sentences
+- `chula-l5-300` : ปรากฏการณ์ (phenomenon) : 1 meaning(s), 2 sentences
 - `chula-l5-301` : กัมพูชา (Cambodia) : 1 meaning(s), 2 sentences
 - `chula-l5-302` : อิทธิพล (influence) : 1 meaning(s), 2 sentences
 - `chula-l5-305` : เทศกาล (festival) : 1 meaning(s), 2 sentences

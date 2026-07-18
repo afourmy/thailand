@@ -12398,6 +12398,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to forecast",
+        "sentences": [
+          {
+            "thai": "วันนี้พยากรณ์อากาศบอกว่าฝนจะตกหนัก",
+            "en": "Today's weather forecast says it will rain heavily.",
+            "audio_src": "วันนี้พยากรณ์อากาศบอกว่าฝนจะตกหนัก",
+            "audio_en_src": "Today's weather forecast says it will rain heavily."
+          },
+          {
+            "thai": "หมอดูพยากรณ์ว่าปีหน้าดวงเขาจะดีขึ้น",
+            "en": "The fortune teller predicted his luck will improve next year.",
+            "audio_src": "หมอดูพยากรณ์ว่าปีหน้าดวงเขาจะดีขึ้น",
+            "audio_en_src": "The fortune teller predicted his luck will improve next year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12436,6 +12455,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "Thai Meteorological Department",
+        "sentences": [
+          {
+            "thai": "กรมอุตุนิยมวิทยาเตือนว่าจะมีพายุเข้า",
+            "en": "The Meteorological Department warns that a storm is coming.",
+            "audio_src": "กรมอุตุนิยมวิทยาเตือนว่าจะมีพายุเข้า",
+            "audio_en_src": "The Meteorological Department warns that a storm is coming."
+          },
+          {
+            "thai": "ก่อนไปทะเล ลองเช็กเว็บกรมอุตุฯ",
+            "en": "Before going to the beach, check the Met Department's website.",
+            "audio_src": "ก่อนไปทะเล ลองเช็กเว็บกรมอุตุฯ",
+            "audio_en_src": "Before going to the beach, check the Met Department's website."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12476,6 +12514,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to go out of one's way, to go through the trouble",
+        "sentences": [
+          {
+            "thai": "เขาอุตส่าห์มาหาถึงบ้าน แต่ฉันไม่อยู่",
+            "en": "He went out of his way to visit me at home, but I wasn't there.",
+            "audio_src": "เขาอุตส่าห์มาหาถึงบ้าน แต่ฉันไม่อยู่",
+            "audio_en_src": "He went out of his way to visit me at home, but I wasn't there."
+          },
+          {
+            "thai": "อุตส่าห์ทำกับข้าวให้ กินหน่อยนะ",
+            "en": "I went to all the trouble of cooking for you, so please have some.",
+            "audio_src": "อุตส่าห์ทำกับข้าวให้ กินหน่อยนะ",
+            "audio_en_src": "I went to all the trouble of cooking for you, so please have some."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12627,6 +12684,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "monsoon wind",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ลมมรสุมพัดแรง ชาวเรือควรระวัง",
+            "en": "The monsoon winds are strong right now, sailors should be careful.",
+            "audio_src": "ช่วงนี้ลมมรสุมพัดแรง ชาวเรือควรระวัง",
+            "audio_en_src": "The monsoon winds are strong right now, sailors should be careful."
+          },
+          {
+            "thai": "ลมมรสุมทำให้ฝนตกติดต่อกันหลายวัน",
+            "en": "The monsoon winds are bringing days of continuous rain.",
+            "audio_src": "ลมมรสุมทำให้ฝนตกติดต่อกันหลายวัน",
+            "audio_en_src": "The monsoon winds are bringing days of continuous rain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12664,6 +12740,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "(storm) to pass through, to sweep across",
+        "sentences": [
+          {
+            "thai": "พายุจะพาดผ่านภาคเหนือคืนนี้",
+            "en": "The storm will pass over the North tonight.",
+            "audio_src": "พายุจะพาดผ่านภาคเหนือคืนนี้",
+            "audio_en_src": "The storm will pass over the North tonight."
+          },
+          {
+            "thai": "ร่องมรสุมพาดผ่านภาคกลาง ทำให้ฝนตกหนัก",
+            "en": "A monsoon trough is sweeping across the central region, bringing heavy rain.",
+            "audio_src": "ร่องมรสุมพาดผ่านภาคกลาง ทำให้ฝนตกหนัก",
+            "audio_en_src": "A monsoon trough is sweeping across the central region, bringing heavy rain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12812,6 +12907,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "weather",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้ลมฟ้าอากาศแปรปรวน",
+            "en": "The weather is unpredictable these days.",
+            "audio_src": "ช่วงนี้ลมฟ้าอากาศแปรปรวน",
+            "audio_en_src": "The weather is unpredictable these days."
+          },
+          {
+            "thai": "ชาวนาต้องคอยดูลมฟ้าอากาศตลอด",
+            "en": "Farmers always have to keep an eye on the weather.",
+            "audio_src": "ชาวนาต้องคอยดูลมฟ้าอากาศตลอด",
+            "audio_en_src": "Farmers always have to keep an eye on the weather."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12853,6 +12967,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "okay, \"alright\"",
+        "sentences": [
+          {
+            "thai": "เครๆ เดี๋ยวเจอกันหน้าตึก",
+            "en": "Alright, see you in front of the building.",
+            "audio_src": "เครๆ เดี๋ยวเจอกันหน้าตึก",
+            "audio_en_src": "Alright, see you in front of the building."
+          },
+          {
+            "thai": "ถามว่าไปไหม เขาก็ตอบแค่เครๆ",
+            "en": "I asked if he was coming and all he said was \"alright, alright\".",
+            "audio_src": "ถามว่าไปไหม เขาก็ตอบแค่เครๆ",
+            "audio_en_src": "I asked if he was coming and all he said was \"alright, alright\"."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12994,6 +13127,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "main idea, key point",
+        "sentences": [
+          {
+            "thai": "อ่านแล้วลองสรุปใจความสำคัญของเรื่อง",
+            "en": "After reading, try to summarize the main idea of the story.",
+            "audio_src": "อ่านแล้วลองสรุปใจความสำคัญของเรื่อง",
+            "audio_en_src": "After reading, try to summarize the main idea of the story."
+          },
+          {
+            "thai": "ใจความสำคัญของข่าวอยู่ย่อหน้าแรก",
+            "en": "The key point of the article is in the first paragraph.",
+            "audio_src": "ใจความสำคัญของข่าวอยู่ย่อหน้าแรก",
+            "audio_en_src": "The key point of the article is in the first paragraph."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13004,6 +13156,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sailor",
+        "sentences": [
+          {
+            "thai": "คลื่นลมแรง ชาวเรือควรงดออกจากฝั่ง",
+            "en": "With strong wind and waves, sailors should stay ashore.",
+            "audio_src": "คลื่นลมแรง ชาวเรือควรงดออกจากฝั่ง",
+            "audio_en_src": "With strong wind and waves, sailors should stay ashore."
+          },
+          {
+            "thai": "เขาเคยเป็นกะลาสีบนเรือสินค้า",
+            "en": "He used to be a sailor on a cargo ship.",
+            "audio_src": "เขาเคยเป็นกะลาสีบนเรือสินค้า",
+            "audio_en_src": "He used to be a sailor on a cargo ship."
+          }
+        ]
+      }
     ]
   },
   {
@@ -13014,6 +13185,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "phenomenon",
+        "sentences": [
+          {
+            "thai": "คืนนี้จะเกิดปรากฏการณ์จันทรุปราคา",
+            "en": "There will be a lunar eclipse tonight.",
+            "audio_src": "คืนนี้จะเกิดปรากฏการณ์จันทรุปราคา",
+            "audio_en_src": "There will be a lunar eclipse tonight."
+          },
+          {
+            "thai": "ฝนดาวตกเป็นปรากฏการณ์ธรรมชาติที่หาดูยาก",
+            "en": "Meteor showers are a rare natural phenomenon.",
+            "audio_src": "ฝนดาวตกเป็นปรากฏการณ์ธรรมชาติที่หาดูยาก",
+            "audio_en_src": "Meteor showers are a rare natural phenomenon."
+          }
+        ]
+      }
     ]
   },
   {
