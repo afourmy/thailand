@@ -48301,6 +48301,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "widower",
+        "sentences": [
+          {
+            "thai": "เขาเป็นพ่อหม้ายเลี้ยงลูกสองคน",
+            "en": "He's a widower raising two kids.",
+            "audio_src": "เขาเป็นพ่อหม้ายเลี้ยงลูกสองคน",
+            "audio_en_src": "He's a widower raising two kids."
+          },
+          {
+            "thai": "พ่อหม้ายบ้านข้างๆเพิ่งแต่งงานใหม่",
+            "en": "The widower next door just remarried.",
+            "audio_src": "พ่อหม้ายบ้านข้างๆเพิ่งแต่งงานใหม่",
+            "audio_en_src": "The widower next door just remarried."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48341,6 +48360,25 @@
     "sources": [
       "Thai 9000",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "superior, supervisor (at work), commander (army)",
+        "sentences": [
+          {
+            "thai": "ทหารต้องเชื่อฟังผู้บังคับบัญชา",
+            "en": "Soldiers must obey their commanding officers.",
+            "audio_src": "ทหารต้องเชื่อฟังผู้บังคับบัญชา",
+            "audio_en_src": "Soldiers must obey their commanding officers."
+          },
+          {
+            "thai": "เรื่องนี้ต้องรายงานผู้บังคับบัญชาก่อน",
+            "en": "This has to be reported to your superior first.",
+            "audio_src": "เรื่องนี้ต้องรายงานผู้บังคับบัญชาก่อน",
+            "audio_en_src": "This has to be reported to your superior first."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48609,6 +48647,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "to deeply trust someone (deep, personal trust)",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนเดียวที่ฉันไว้เนื้อเชื่อใจ",
+            "en": "He's the only person I really trust.",
+            "audio_src": "เขาเป็นคนเดียวที่ฉันไว้เนื้อเชื่อใจ",
+            "audio_en_src": "He's the only person I really trust."
+          },
+          {
+            "thai": "หัวหน้าไว้เนื้อเชื่อใจเธอมาก ให้ดูแลเงินทั้งหมด",
+            "en": "The boss trusts her completely and lets her handle all the money.",
+            "audio_src": "หัวหน้าไว้เนื้อเชื่อใจเธอมาก ให้ดูแลเงินทั้งหมด",
+            "audio_en_src": "The boss trusts her completely and lets her handle all the money."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48682,6 +48739,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "to swear (an oath)",
+        "sentences": [
+          {
+            "thai": "ฉันสาบานว่าไม่ได้โกหก",
+            "en": "I swear I'm not lying.",
+            "audio_src": "ฉันสาบานว่าไม่ได้โกหก",
+            "audio_en_src": "I swear I'm not lying."
+          },
+          {
+            "thai": "พยานต้องสาบานก่อนให้การในศาล",
+            "en": "Witnesses have to be sworn in before testifying in court.",
+            "audio_src": "พยานต้องสาบานก่อนให้การในศาล",
+            "audio_en_src": "Witnesses have to be sworn in before testifying in court."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48691,6 +48767,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "oath",
+        "sentences": [
+          {
+            "thai": "เขารักษาคำสาบานจนวันตาย",
+            "en": "He kept his oath until the day he died.",
+            "audio_src": "เขารักษาคำสาบานจนวันตาย",
+            "audio_en_src": "He kept his oath until the day he died."
+          },
+          {
+            "thai": "อย่าผิดคำสาบานที่ให้ไว้",
+            "en": "Don't break the oath you made.",
+            "audio_src": "อย่าผิดคำสาบานที่ให้ไว้",
+            "audio_en_src": "Don't break the oath you made."
+          }
+        ]
+      }
     ]
   },
   {
@@ -48700,6 +48795,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 9000"
+    ],
+    "examples": [
+      {
+        "meaning": "to imply, to hint, to speak indirectly",
+        "sentences": [
+          {
+            "thai": "เธอพูดเป็นนัยๆว่าอยากได้แหวน",
+            "en": "She hinted that she wants a ring.",
+            "audio_src": "เธอพูดเป็นนัยๆว่าอยากได้แหวน",
+            "audio_en_src": "She hinted that she wants a ring."
+          },
+          {
+            "thai": "หัวหน้าพูดเป็นนัยว่าปีนี้อาจไม่มีโบนัส",
+            "en": "The boss implied there might be no bonus this year.",
+            "audio_src": "หัวหน้าพูดเป็นนัยว่าปีนี้อาจไม่มีโบนัส",
+            "audio_en_src": "The boss implied there might be no bonus this year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -49510,6 +49624,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "seminar",
+        "sentences": [
+          {
+            "thai": "เดือนหน้าฉันต้องไปสัมมนาที่เชียงใหม่",
+            "en": "Next month I have to go to a seminar in Chiang Mai.",
+            "audio_src": "เดือนหน้าฉันต้องไปสัมมนาที่เชียงใหม่",
+            "audio_en_src": "Next month I have to go to a seminar in Chiang Mai."
+          },
+          {
+            "thai": "บริษัทจัดสัมมนาให้พนักงานทุกปี",
+            "en": "The company holds a seminar for employees every year.",
+            "audio_src": "บริษัทจัดสัมมนาให้พนักงานทุกปี",
+            "audio_en_src": "The company holds a seminar for employees every year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -49815,6 +49948,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "wedding ring",
+        "sentences": [
+          {
+            "thai": "เขาเลือกแหวนแต่งงานอยู่หลายร้าน",
+            "en": "He shopped around at several stores for the wedding ring.",
+            "audio_src": "เขาเลือกแหวนแต่งงานอยู่หลายร้าน",
+            "audio_en_src": "He shopped around at several stores for the wedding ring."
+          },
+          {
+            "thai": "เธอใส่แหวนแต่งงานตลอดเวลา",
+            "en": "She wears her wedding ring all the time.",
+            "audio_src": "เธอใส่แหวนแต่งงานตลอดเวลา",
+            "audio_en_src": "She wears her wedding ring all the time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50213,6 +50365,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "diet plan, weight loss plan",
+        "sentences": [
+          {
+            "thai": "สูตรลดน้ำหนักนี้ห้ามกินของทอด",
+            "en": "This diet plan doesn't allow fried food.",
+            "audio_src": "สูตรลดน้ำหนักนี้ห้ามกินของทอด",
+            "audio_en_src": "This diet plan doesn't allow fried food."
+          },
+          {
+            "thai": "เขาลองสูตรลดน้ำหนักมาหลายแบบแล้ว",
+            "en": "He's tried all kinds of diet plans.",
+            "audio_src": "เขาลองสูตรลดน้ำหนักมาหลายแบบแล้ว",
+            "audio_en_src": "He's tried all kinds of diet plans."
+          }
+        ]
+      }
     ]
   },
   {
@@ -50756,6 +50927,42 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to vary, to shift, to change",
+        "sentences": [
+          {
+            "thai": "เขาผันตัวจากนักร้องมาเป็นนักแสดง",
+            "en": "He shifted from being a singer to acting.",
+            "audio_src": "เขาผันตัวจากนักร้องมาเป็นนักแสดง",
+            "audio_en_src": "He shifted from being a singer to acting."
+          },
+          {
+            "thai": "ชาวนาผันน้ำเข้านาช่วงหน้าแล้ง",
+            "en": "Farmers channel water into their fields in the dry season.",
+            "audio_src": "ชาวนาผันน้ำเข้านาช่วงหน้าแล้ง",
+            "audio_en_src": "Farmers channel water into their fields in the dry season."
+          }
+        ]
+      },
+      {
+        "meaning": "to conjugate (a verb)",
+        "sentences": [
+          {
+            "thai": "ภาษาสเปนต้องผันกริยาเยอะมาก",
+            "en": "Spanish has a lot of verb conjugation.",
+            "audio_src": "ภาษาสเปนต้องผันกริยาเยอะมาก",
+            "audio_en_src": "Spanish has a lot of verb conjugation."
+          },
+          {
+            "thai": "ลองผันกริยานี้ในอดีตกาล",
+            "en": "Try conjugating this verb in the past tense.",
+            "audio_src": "ลองผันกริยานี้ในอดีตกาล",
+            "audio_en_src": "Try conjugating this verb in the past tense."
+          }
+        ]
+      }
     ]
   },
   {

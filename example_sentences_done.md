@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7704 words**
+**Total: 7714 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1540,7 +1540,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-023` : ลูกเกด (raisin) : 1 meaning(s), 2 sentences
 - `thai9k-024` : เจ ("jay" diet (strict Buddhist vegan: no animal products and no pungent vegetables like garlic or onion)) : 1 meaning(s), 2 sentences
 - `thai9k-025` : แม่หม้าย (widow) : 1 meaning(s), 2 sentences
+- `new-41` : พ่อหม้าย (widower) : 1 meaning(s), 2 sentences
 - `thai9k-026` : หย่า (to divorce) : 1 meaning(s), 2 sentences
+- `thai9k-027` : ผู้บังคับบัญชา (superior, supervisor (at work), commander (army)) : 1 meaning(s), 2 sentences
 - `thai9k-028` : กำยำ (muscular, well-built) : 1 meaning(s), 2 sentences
 - `thai9k-029` : สง่า, สง่างาม (majestic, graceful, elegant) : 1 meaning(s), 2 sentences
 - `thai9k-030` : เปลเด็ก (cradle, baby crib) : 1 meaning(s), 2 sentences
@@ -1550,8 +1552,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-035` : เจ้าเล่ห์ (cunning, sly) : 1 meaning(s), 2 sentences
 - `thai9k-036` : เด็ดเดี่ยว (determined, resolute) : 1 meaning(s), 2 sentences
 - `thai9k-037` : หลงเชื่อ (to be fooled into believing, be gullible enough to believe) : 1 meaning(s), 2 sentences
+- `thai9k-038` : ไว้เนื้อเชื่อใจ (to deeply trust someone (deep, personal trust)) : 1 meaning(s), 2 sentences
 - `thai9k-039` : หาว (to yawn) : 1 meaning(s), 2 sentences
 - `thai9k-040` : ปริศนา (riddle, puzzle, mystery) : 1 meaning(s), 2 sentences
+- `thai9k-041` : สาบาน (to swear (an oath)) : 1 meaning(s), 2 sentences
+- `new-42` : คำสาบาน (oath) : 1 meaning(s), 2 sentences
+- `thai9k-042` : พูดเป็นนัย (to imply, to hint, to speak indirectly) : 1 meaning(s), 2 sentences
 - `tamago-l3-001` : ความน่าเชื่อถือ (reliability, credibility, trustworthiness) : 1 meaning(s), 2 sentences
 - `tamago-l3-002` : เขียวเสวย (a type of green mango) : 1 meaning(s), 2 sentences
 - `tamago-l3-003` : ตั้งชื่อ (to name (give a name to)) : 1 meaning(s), 2 sentences
@@ -1576,6 +1582,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-023` : แยกออก (to be able to distinguish; to separate out) : 2 meaning(s), 4 sentences
 - `tamago-l3-024` : หน้าหวาน (sweet face, soft and feminine looking face) : 1 meaning(s), 2 sentences
 - `tamago-l3-025` : บึกบึน (muscular, sturdy, robust) : 1 meaning(s), 2 sentences
+- `tamago-l3-027` : สัมมนา (seminar) : 1 meaning(s), 2 sentences
 - `tamago-l3-028` : เข้าชุด (to match, to go well together (clothing, set)) : 1 meaning(s), 2 sentences
 - `tamago-l3-029` : ออกงาน (to attend an event, to go to an event) : 1 meaning(s), 2 sentences
 - `tamago-l3-030` : ร้านซักอบรีด (laundry shop (wash-dry-iron)) : 1 meaning(s), 2 sentences
@@ -1585,6 +1592,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-034` : หาว่า (to accuse (e.g without proof), to claim (something negative)) : 1 meaning(s), 2 sentences
 - `tamago-l3-035` : โปรด (favorite) : 1 meaning(s), 2 sentences
 - `tamago-l3-036` : คุ้น, คุ้นเคย, คุ้นชิน (familiar, recognizable; to be familiar with, used to) : 2 meaning(s), 4 sentences
+- `tamago-l3-037` : แหวนแต่งงาน (wedding ring) : 1 meaning(s), 2 sentences
 - `tamago-l3-038` : แย่แล้ว ("oh shoot", "oh no") : 1 meaning(s), 2 sentences
 - `tamago-l3-039` : ล้อ (to tease, to mock; wheel) : 2 meaning(s), 4 sentences
 - `tamago-l3-040` : สุดโต่ง (extreme, radical) : 1 meaning(s), 2 sentences
@@ -1597,6 +1605,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-047` : สู้เว่ย ("you got this!", "keep fighting!" (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-048` : บริสุทธิ์ (pure, innocent, virgin) : 1 meaning(s), 2 sentences
 - `tamago-l3-049` : เพียบ (a lot, plenty, full, tons of) : 1 meaning(s), 2 sentences
+- `tamago-l3-050` : สูตรลดน้ำหนัก (diet plan, weight loss plan) : 1 meaning(s), 2 sentences
 - `tamago-l3-051` : สะใจ (satisfied, relieved (especially after revenge (schadenfreude) or achievement)) : 1 meaning(s), 2 sentences
 - `tamago-l3-052` : จงเกลียดจงชัง (to deeply hate, to dislike intensely) : 1 meaning(s), 2 sentences
 - `tamago-l3-053` : รังแก (to bully) : 1 meaning(s), 2 sentences
@@ -1614,6 +1623,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-065` : รู้คุณ (to be grateful, to appreciate someone's kindness) : 1 meaning(s), 2 sentences
 - `tamago-l3-066` : ไม่ได้เรื่อง (terrible, useless, incompetent, no good) : 1 meaning(s), 2 sentences
 - `tamago-l3-067` : ก็ยิ่งไปกันใหญ่ ("it makes things worse", "that escalates things") : 1 meaning(s), 2 sentences
+- `tamago-l3-068` : ผัน (to vary, to shift, to change; to conjugate (a verb)) : 2 meaning(s), 4 sentences
 - `tamago-l3-069` : มิน่า ("no wonder!", "so that's the reason!") : 1 meaning(s), 2 sentences
 - `tamago-l3-070` : เพลงลูกทุ่ง (Thai country folk music) : 1 meaning(s), 2 sentences
 - `tamago-l3-071` : ย่าง (to grill, to roast; (literary) to step into, to be approaching (a season, age)) : 2 meaning(s), 4 sentences
