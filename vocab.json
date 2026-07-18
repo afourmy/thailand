@@ -15041,6 +15041,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "mine (ore mine)",
+        "sentences": [
+          {
+            "thai": "จังหวัดนี้เคยรุ่งเรืองจากเหมืองแร่ดีบุก",
+            "en": "This province once thrived on its tin mines.",
+            "audio_src": "จังหวัดนี้เคยรุ่งเรืองจากเหมืองแร่ดีบุก",
+            "audio_en_src": "This province once thrived on its tin mines."
+          },
+          {
+            "thai": "เหมืองแร่เก่าถูกเปลี่ยนเป็นที่เที่ยว",
+            "en": "The old mine was turned into a tourist attraction.",
+            "audio_src": "เหมืองแร่เก่าถูกเปลี่ยนเป็นที่เที่ยว",
+            "audio_en_src": "The old mine was turned into a tourist attraction."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15050,6 +15069,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "clothing, garments",
+        "sentences": [
+          {
+            "thai": "เครื่องนุ่งห่มเป็นหนึ่งในปัจจัยสี่",
+            "en": "Clothing is one of the four basic necessities.",
+            "audio_src": "เครื่องนุ่งห่มเป็นหนึ่งในปัจจัยสี่",
+            "audio_en_src": "Clothing is one of the four basic necessities."
+          },
+          {
+            "thai": "ชาวบ้านบริจาคเครื่องนุ่งห่มให้ผู้ประสบภัยหนาว",
+            "en": "Villagers donated warm clothing to those hit by the cold.",
+            "audio_src": "ชาวบ้านบริจาคเครื่องนุ่งห่มให้ผู้ประสบภัยหนาว",
+            "audio_en_src": "Villagers donated warm clothing to those hit by the cold."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15062,6 +15100,25 @@
       "Thaipod101",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to assemble, to compose, to consist of",
+        "sentences": [
+          {
+            "thai": "โต๊ะตัวนี้ต้องประกอบเอง",
+            "en": "You have to assemble this table yourself.",
+            "audio_src": "โต๊ะตัวนี้ต้องประกอบเอง",
+            "audio_en_src": "You have to assemble this table yourself."
+          },
+          {
+            "thai": "อาหารไทยประกอบด้วยรสเปรี้ยว หวาน เค็ม เผ็ด",
+            "en": "Thai food combines sour, sweet, salty, and spicy flavors.",
+            "audio_src": "อาหารไทยประกอบด้วยรสเปรี้ยว หวาน เค็ม เผ็ด",
+            "audio_en_src": "Thai food combines sour, sweet, salty, and spicy flavors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15102,6 +15159,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fuel (any material that can be burned to produce energy)",
+        "sentences": [
+          {
+            "thai": "เครื่องบินเติมเชื้อเพลิงก่อนออกเดินทาง",
+            "en": "The plane refueled before departure.",
+            "audio_src": "เครื่องบินเติมเชื้อเพลิงก่อนออกเดินทาง",
+            "audio_en_src": "The plane refueled before departure."
+          },
+          {
+            "thai": "ราคาเชื้อเพลิงแพงขึ้นทุกปี",
+            "en": "Fuel prices go up every year.",
+            "audio_src": "ราคาเชื้อเพลิงแพงขึ้นทุกปี",
+            "audio_en_src": "Fuel prices go up every year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15111,6 +15187,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to consume, to utilize",
+        "sentences": [
+          {
+            "thai": "น้ำในเขื่อนใช้เพื่อการอุปโภคและการเกษตร",
+            "en": "The water in the dam is used for household use and farming.",
+            "audio_src": "น้ำในเขื่อนใช้เพื่อการอุปโภคและการเกษตร",
+            "audio_en_src": "The water in the dam is used for household use and farming."
+          },
+          {
+            "thai": "หมู่บ้านขาดน้ำอุปโภคช่วงหน้าแล้ง",
+            "en": "The village runs short of water for daily use in the dry season.",
+            "audio_src": "หมู่บ้านขาดน้ำอุปโภคช่วงหน้าแล้ง",
+            "audio_en_src": "The village runs short of water for daily use in the dry season."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15122,6 +15217,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to consume, to ingest",
+        "sentences": [
+          {
+            "thai": "ควรบริโภคผักผลไม้ทุกวัน",
+            "en": "You should eat fruits and vegetables every day.",
+            "audio_src": "ควรบริโภคผักผลไม้ทุกวัน",
+            "audio_en_src": "You should eat fruits and vegetables every day."
+          },
+          {
+            "thai": "อาหารหมดอายุแล้ว ไม่ควรบริโภค",
+            "en": "The food is past its expiration date, you shouldn't eat it.",
+            "audio_src": "อาหารหมดอายุแล้ว ไม่ควรบริโภค",
+            "audio_en_src": "The food is past its expiration date, you shouldn't eat it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15231,6 +15345,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "assets, wealth",
+        "sentences": [
+          {
+            "thai": "เขาแบ่งทรัพย์ให้ลูกทั้งสามคนเท่ากัน",
+            "en": "He divided his assets equally among his three children.",
+            "audio_src": "เขาแบ่งทรัพย์ให้ลูกทั้งสามคนเท่ากัน",
+            "audio_en_src": "He divided his assets equally among his three children."
+          },
+          {
+            "thai": "ตำรวจยึดทรัพย์ผู้ต้องหาไว้ตรวจสอบ",
+            "en": "The police seized the suspect's assets for investigation.",
+            "audio_src": "ตำรวจยึดทรัพย์ผู้ต้องหาไว้ตรวจสอบ",
+            "audio_en_src": "The police seized the suspect's assets for investigation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15242,6 +15375,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "such as (formal)",
+        "sentences": [
+          {
+            "thai": "ร้านขายผลไม้หลายชนิด อาทิ มะม่วง ทุเรียน มังคุด",
+            "en": "The shop sells many kinds of fruit, such as mangoes, durians, and mangosteens.",
+            "audio_src": "ร้านขายผลไม้หลายชนิด อาทิ มะม่วง ทุเรียน มังคุด",
+            "audio_en_src": "The shop sells many kinds of fruit, such as mangoes, durians, and mangosteens."
+          },
+          {
+            "thai": "ภาคเหนือมีเมืองท่องเที่ยวหลายเมือง อาทิ เชียงใหม่ เชียงราย น่าน",
+            "en": "The North has several tourist cities, such as Chiang Mai, Chiang Rai, and Nan.",
+            "audio_src": "ภาคเหนือมีเมืองท่องเที่ยวหลายเมือง อาทิ เชียงใหม่ เชียงราย น่าน",
+            "audio_en_src": "The North has several tourist cities, such as Chiang Mai, Chiang Rai, and Nan."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15251,6 +15403,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "consumer goods",
+        "sentences": [
+          {
+            "thai": "ราคาสินค้าอุปโภคบริโภคปรับขึ้นตามค่าน้ำมัน",
+            "en": "Prices of consumer goods are rising with fuel costs.",
+            "audio_src": "ราคาสินค้าอุปโภคบริโภคปรับขึ้นตามค่าน้ำมัน",
+            "audio_en_src": "Prices of consumer goods are rising with fuel costs."
+          },
+          {
+            "thai": "ห้างนี้ขายสินค้าอุปโภคบริโภคครบทุกอย่าง",
+            "en": "This store sells all kinds of consumer goods.",
+            "audio_src": "ห้างนี้ขายสินค้าอุปโภคบริโภคครบทุกอย่าง",
+            "audio_en_src": "This store sells all kinds of consumer goods."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15317,6 +15488,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "classifier",
+        "sentences": [
+          {
+            "thai": "ลักษณนามของช้างคือเชือก",
+            "en": "The classifier for elephants is \"chueak\".",
+            "audio_src": "ลักษณนามของช้างคือเชือก",
+            "audio_en_src": "The classifier for elephants is \"chueak\"."
+          },
+          {
+            "thai": "ภาษาไทยมีลักษณนามเยอะจนคนไทยเองยังงง",
+            "en": "Thai has so many classifiers that even Thais get confused.",
+            "audio_src": "ภาษาไทยมีลักษณนามเยอะจนคนไทยเองยังงง",
+            "audio_en_src": "Thai has so many classifiers that even Thais get confused."
+          }
+        ]
+      }
     ]
   },
   {

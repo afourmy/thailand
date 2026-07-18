@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7463 words**
+**Total: 7473 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -489,12 +489,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-361` : การขนส่ง (transportation (act of transporting, shipping logistics)) : 1 meaning(s), 2 sentences
 - `chula-l5-362` : ดีบุก (tin) : 1 meaning(s), 2 sentences
 - `chula-l5-363` : ตะกั่ว (lead) : 1 meaning(s), 2 sentences
+- `chula-l5-364` : เหมืองแร่ (mine (ore mine)) : 1 meaning(s), 2 sentences
+- `chula-l5-365` : เครื่องนุ่งห่ม (clothing, garments) : 1 meaning(s), 2 sentences
+- `chula-l5-366` : ประกอบ (to assemble, to compose, to consist of) : 1 meaning(s), 2 sentences
 - `chula-l5-367` : ส่วนประกอบ (component, ingredient) : 1 meaning(s), 2 sentences
+- `chula-l5-368` : เชื้อเพลิง (fuel (any material that can be burned to produce energy)) : 1 meaning(s), 2 sentences
+- `chula-l5-369` : อุปโภค (to consume, to utilize) : 1 meaning(s), 2 sentences
+- `chula-l5-370` : บริโภค (to consume, to ingest) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-372` : ความสัมพันธ์ (relationship) : 1 meaning(s), 2 sentences
 - `chula-l5-374` : กลุ่ม (group) : 1 meaning(s), 2 sentences
+- `chula-l5-375` : ทรัพย์ (assets, wealth) : 1 meaning(s), 2 sentences
+- `chula-l5-376` : อาทิ (such as (formal)) : 1 meaning(s), 2 sentences
+- `chula-l5-377` : สินค้าอุปโภคบริโภค (consumer goods) : 1 meaning(s), 2 sentences
 - `chula-l5-378` : เคมีภัณฑ์ (chemical products) : 1 meaning(s), 2 sentences
 - `chula-l5-379` : การเงิน (finance) : 1 meaning(s), 2 sentences
+- `chula-l5-380` : ลักษณนาม (classifier) : 1 meaning(s), 2 sentences
 - `chula-l5-381` : ความขัดแย้ง (conflict) : 1 meaning(s), 2 sentences
 - `chula-l5-383` : เวชภัณฑ์ (pharmaceutical products, medical supplies) : 1 meaning(s), 2 sentences
 - `chula-l5-387` : สายการบิน (airline) : 1 meaning(s), 2 sentences
