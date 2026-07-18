@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8024 words**
+**Total: 8034 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3636,6 +3636,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0862` : รายได้พิเศษ (extra income, side income) : 1 meaning(s), 2 sentences
 - `thaipod-0865` : ราษฎร (people, populace, subjects) : 1 meaning(s), 2 sentences
 - `thaipod-0867` : ริมทะเล (by the sea, seaside) : 1 meaning(s), 2 sentences
+- `thaipod-0868` : ริมฝั่ง (riverbank, shore) : 1 meaning(s), 2 sentences
+- `thaipod-0869` : ริเริ่ม (to initiate, to start (a project)) : 1 meaning(s), 2 sentences
+- `thaipod-0870` : รุกราน (to invade, to aggress) : 1 meaning(s), 2 sentences
 - `thaipod-0871` : รุ่งเรือง (prosperous, flourishing) : 1 meaning(s), 2 sentences
 - `thaipod-0872` : รูปปูนปั้น (plaster sculpture) : 1 meaning(s), 2 sentences
 - `thaipod-0873` : รู้ทัน (to see through someone's intentions, to read someone's game) : 1 meaning(s), 2 sentences
@@ -3643,6 +3646,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0877` : ร่างทรง (spirit medium (intermediary with the spirit world)) : 1 meaning(s), 2 sentences
 - `thaipod-0879` : ร้าง, ทิ้งร้าง (deserted, abandoned) : 1 meaning(s), 2 sentences
 - `thaipod-0880` : ร้าน, ร้านค้า (shop, store) : 1 meaning(s), 2 sentences
+- `thaipod-0882` : รำลึก (to commemorate, to remember (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0883` : ฤกษ์ (auspicious time, lucky date chosen for an event) : 1 meaning(s), 2 sentences
 - `thaipod-0884` : ฤๅษี (hermit, sage, ascetic (Buddhism)) : 1 meaning(s), 2 sentences
 - `thaipod-0885` : ฤๅษีดัดตน (Ruesi Datton (Thai traditional yoga-like stretching exercises)) : 1 meaning(s), 2 sentences
@@ -3662,8 +3666,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0899` : ลาออก (to quit, to resign) : 1 meaning(s), 2 sentences
 - `thaipod-0900` : ลำ (classifier for boats and aircraft) : 1 meaning(s), 2 sentences
 - `thaipod-0901` : ลำธาร (stream, brook, small river) : 1 meaning(s), 2 sentences
+- `thaipod-0902` : ลืมเลือน (to forget gradually, to fade from memory) : 1 meaning(s), 2 sentences
 - `thaipod-0904` : ล่องแก่ง (to go whitewater rafting) : 1 meaning(s), 2 sentences
 - `thaipod-0905` : ล่าอาณานิคม (to colonize) : 1 meaning(s), 2 sentences
+- `thaipod-0906` : ล่ำ (muscular, sturdy) : 1 meaning(s), 2 sentences
 - `thaipod-0907` : ล้มลงตาย (to fall down dead, to drop dead) : 1 meaning(s), 2 sentences
 - `thaipod-0910` : ล้านนา (Lanna (historical kingdom in Northern Thailand)) : 1 meaning(s), 2 sentences
 - `thaipod-0912` : วงก้นหอย (spiral) : 1 meaning(s), 2 sentences
@@ -3702,7 +3708,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0948` : สงสาร (to pity, to feel sorry for) : 1 meaning(s), 2 sentences
 - `thaipod-0949` : สตรี (woman, female (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0950` : สถานที่ท่องเที่ยว (tourist attraction) : 1 meaning(s), 2 sentences
+- `thaipod-0951` : สถานบันเทิง (entertainment venue) : 1 meaning(s), 2 sentences
 - `thaipod-0952` : สถานะ (status, current state) : 1 meaning(s), 2 sentences
+- `thaipod-0953` : สถาบันกษัตริย์ (monarchy (the institution)) : 1 meaning(s), 2 sentences
 - `thaipod-0955` : สถาปนา (to establish, to install, to found (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-0956` : สถิติ (statistics) : 1 meaning(s), 2 sentences
 - `thaipod-0957` : สนธิสัญญา (treaty) : 1 meaning(s), 2 sentences
@@ -3746,8 +3754,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1004` : สาขา (branch, category) : 1 meaning(s), 2 sentences
 - `thaipod-1006` : สาขาโท (minor (university study)) : 1 meaning(s), 2 sentences
 - `thaipod-1008` : สามัญชน (commoner, common people, non-royal person) : 1 meaning(s), 2 sentences
+- `thaipod-1009` : สามเณร (novice monk (under 20 years old)) : 1 meaning(s), 2 sentences
 - `thaipod-1010` : สายตา (sight, vision, gaze) : 1 meaning(s), 2 sentences
 - `thaipod-1011` : สายยาง (hose) : 1 meaning(s), 2 sentences
+- `thaipod-1012` : สายสัมพันธ์ (relationship, bond, connection) : 1 meaning(s), 2 sentences
 - `thaipod-1013` : สารทุกข์สุขดิบ (one's troubles and well-being, one's situation (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-1016` : สำริด (bronze) : 1 meaning(s), 2 sentences
 - `thaipod-1017` : สำเร็จโทษ (to execute, to put to death (royal)) : 1 meaning(s), 2 sentences
