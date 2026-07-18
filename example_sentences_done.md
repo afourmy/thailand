@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7864 words**
+**Total: 7874 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2634,14 +2634,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-277` : อัธยาศัยไมตรี (friendliness, hospitality, cordiality) : 1 meaning(s), 2 sentences
 - `tsl-278` : อัตราเร่ง (acceleration) : 1 meaning(s), 2 sentences
 - `tsl-279` : แรงบิด (torque (rotational force)) : 1 meaning(s), 2 sentences
+- `tsl-280` : คับขัน (critical, urgent) : 1 meaning(s), 2 sentences
 - `tsl-282` : เร้าใจ (exciting, stimulating, thrilling) : 1 meaning(s), 2 sentences
+- `tsl-283` : สมรรถนะ (competence, performance, ability, capability) : 1 meaning(s), 2 sentences
+- `tsl-284` : ถุงลมนิรภัย (airbag) : 1 meaning(s), 2 sentences
 - `tsl-285` : ยึดเกาะ (to cling, to adhere, to hold on) : 1 meaning(s), 2 sentences
 - `tsl-286` : ทรงตัว (to maintain balance, to stabilize) : 1 meaning(s), 2 sentences
+- `tsl-287` : ตลาดหลักทรัพย์ (stock exchange, securities market) : 1 meaning(s), 2 sentences
 - `tsl-288` : คาดฝัน (to anticipate, to look forward to, to dream of) : 1 meaning(s), 2 sentences
 - `tsl-290` : ขาดไม่ได้ (indispensable, essential) : 1 meaning(s), 2 sentences
+- `tsl-291` : เปี่ยมพลัง (full of energy, powerful) : 1 meaning(s), 2 sentences
+- `tsl-293` : ต่อม (gland (thyroid, etc)) : 1 meaning(s), 2 sentences
 - `tsl-294` : สารพิษ (toxic substance, poison) : 1 meaning(s), 2 sentences
+- `tsl-295` : การไหลเวียน (circulation (e.g blood, air, etc)) : 1 meaning(s), 2 sentences
+- `tsl-296` : ลำเลียง (to transport, to convey (in a systematic way)) : 1 meaning(s), 2 sentences
 - `tsl-297` : ปฏิบัติ (to carry out, to perform (duties)) : 1 meaning(s), 2 sentences
 - `tsl-298` : ของเสีย (waste (industrial, biological, defective product)) : 1 meaning(s), 2 sentences
+- `tsl-299` : กระเป๋ารถเมล์ (bus fare collector) : 1 meaning(s), 2 sentences
 - `tsl-300` : ติงต๊อง (crazy, silly, daft) : 1 meaning(s), 2 sentences
 - `tsl-301` : หนืด (thick, sticky, viscous (liquid)) : 1 meaning(s), 2 sentences
 - `tsl-302` : สับ (to chop, to mince, to cut finely) : 1 meaning(s), 2 sentences
@@ -2653,6 +2662,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-308` : หาเสียง (to campaign (for votes, election)) : 1 meaning(s), 2 sentences
 - `tsl-309` : พรรคพวก (companions, associates, allies) : 1 meaning(s), 2 sentences
 - `tsl-310` : ลากตั้ง (to be appointed without formal process or public vote (politics, pejorative)) : 1 meaning(s), 2 sentences
+- `tsl-311` : ทุลักทุเล (struggling, in a difficult situation) : 1 meaning(s), 2 sentences
 - `tsl-312` : ราบรื่น (smooth, seamless, without obstacles) : 1 meaning(s), 2 sentences
 - `tsl-313` : ติดๆ ขัดๆ (stuttering, interrupted, not going smoothly (speech, process)) : 1 meaning(s), 2 sentences
 - `tsl-314` : ลาก, ลากจูง (to pull, to drag, to tow (suitcase, boat)) : 1 meaning(s), 2 sentences
