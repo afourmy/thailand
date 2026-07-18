@@ -31825,6 +31825,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "envelope",
+        "sentences": [
+          {
+            "thai": "ช่วยติดแสตมป์บนซองจดหมายให้หน่อย",
+            "en": "Put a stamp on the envelope for me, please.",
+            "audio_src": "ช่วยติดแสตมป์บนซองจดหมายให้หน่อย",
+            "audio_en_src": "Put a stamp on the envelope for me, please."
+          },
+          {
+            "thai": "เขาสอดการ์ดลงในซองจดหมาย",
+            "en": "He slipped the card into an envelope.",
+            "audio_src": "เขาสอดการ์ดลงในซองจดหมาย",
+            "audio_en_src": "He slipped the card into an envelope."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31899,6 +31918,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to buy something second-hand from its owner",
+        "sentences": [
+          {
+            "thai": "ฉันซื้อต่อรถคันนี้มาจากเพื่อน",
+            "en": "I bought this car off a friend.",
+            "audio_src": "ฉันซื้อต่อรถคันนี้มาจากเพื่อน",
+            "audio_en_src": "I bought this car off a friend."
+          },
+          {
+            "thai": "มือถือเครื่องนี้ซื้อต่อมา ถูกมาก",
+            "en": "I got this phone second-hand, it was really cheap.",
+            "audio_src": "มือถือเครื่องนี้ซื้อต่อมา ถูกมาก",
+            "audio_en_src": "I got this phone second-hand, it was really cheap."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31908,6 +31946,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "vegetable soup",
+        "sentences": [
+          {
+            "thai": "อากาศหนาวๆ กินซุปผักร้อนๆกำลังดี",
+            "en": "In cold weather, hot vegetable soup is just right.",
+            "audio_src": "อากาศหนาวๆ กินซุปผักร้อนๆกำลังดี",
+            "audio_en_src": "In cold weather, hot vegetable soup is just right."
+          },
+          {
+            "thai": "แม่ทำซุปผักให้ตอนไม่สบาย",
+            "en": "Mom makes me vegetable soup when I'm sick.",
+            "audio_src": "แม่ทำซุปผักให้ตอนไม่สบาย",
+            "audio_en_src": "Mom makes me vegetable soup when I'm sick."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31952,6 +32009,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "cauliflower",
+        "sentences": [
+          {
+            "thai": "ผัดดอกกะหล่ำกับหมูกรอบอร่อยมาก",
+            "en": "Stir-fried cauliflower with crispy pork is delicious.",
+            "audio_src": "ผัดดอกกะหล่ำกับหมูกรอบอร่อยมาก",
+            "audio_en_src": "Stir-fried cauliflower with crispy pork is delicious."
+          },
+          {
+            "thai": "ดอกกะหล่ำลวกจิ้มน้ำพริกก็อร่อย",
+            "en": "Blanched cauliflower dipped in chili paste is tasty too.",
+            "audio_src": "ดอกกะหล่ำลวกจิ้มน้ำพริกก็อร่อย",
+            "audio_en_src": "Blanched cauliflower dipped in chili paste is tasty too."
+          }
+        ]
+      }
     ]
   },
   {
@@ -31991,6 +32067,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "Mars (planet)",
+        "sentences": [
+          {
+            "thai": "มนุษย์อยากไปเหยียบดาวอังคาร",
+            "en": "Humans want to set foot on Mars.",
+            "audio_src": "มนุษย์อยากไปเหยียบดาวอังคาร",
+            "audio_en_src": "Humans want to set foot on Mars."
+          },
+          {
+            "thai": "ดาวอังคารมีอีกชื่อว่าดาวแดง",
+            "en": "Mars is also known as the red planet.",
+            "audio_src": "ดาวอังคารมีอีกชื่อว่าดาวแดง",
+            "audio_en_src": "Mars is also known as the red planet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32334,6 +32429,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "spatula (cooking)",
+        "sentences": [
+          {
+            "thai": "ใช้ตะหลิวกลับหมูในกระทะ",
+            "en": "Use the spatula to flip the pork in the pan.",
+            "audio_src": "ใช้ตะหลิวกลับหมูในกระทะ",
+            "audio_en_src": "Use the spatula to flip the pork in the pan."
+          },
+          {
+            "thai": "ตะหลิวอันนี้ใช้กับกระทะเทฟลอนได้",
+            "en": "This spatula is safe for nonstick pans.",
+            "audio_src": "ตะหลิวอันนี้ใช้กับกระทะเทฟลอนได้",
+            "audio_en_src": "This spatula is safe for nonstick pans."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32524,6 +32638,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to be in jail, imprisoned",
+        "sentences": [
+          {
+            "thai": "เขาติดคุกสองปีข้อหาขายยา",
+            "en": "He spent two years in jail for selling drugs.",
+            "audio_src": "เขาติดคุกสองปีข้อหาขายยา",
+            "audio_en_src": "He spent two years in jail for selling drugs."
+          },
+          {
+            "thai": "ทำแบบนี้ระวังติดคุกนะ",
+            "en": "Careful, you could end up in jail for that.",
+            "audio_src": "ทำแบบนี้ระวังติดคุกนะ",
+            "audio_en_src": "Careful, you could end up in jail for that."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32561,6 +32694,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "earlobe",
+        "sentences": [
+          {
+            "thai": "เธอเจาะติ่งหูตั้งแต่เด็ก",
+            "en": "She's had her earlobes pierced since she was little.",
+            "audio_src": "เธอเจาะติ่งหูตั้งแต่เด็ก",
+            "audio_en_src": "She's had her earlobes pierced since she was little."
+          },
+          {
+            "thai": "ติ่งหูฉันอักเสบเพราะต่างหูใหม่",
+            "en": "My earlobe got inflamed from the new earrings.",
+            "audio_src": "ติ่งหูฉันอักเสบเพราะต่างหูใหม่",
+            "audio_en_src": "My earlobe got inflamed from the new earrings."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32570,6 +32722,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to play golf",
+        "sentences": [
+          {
+            "thai": "พ่อไปตีกอล์ฟทุกเช้าวันอาทิตย์",
+            "en": "Dad goes golfing every Sunday morning.",
+            "audio_src": "พ่อไปตีกอล์ฟทุกเช้าวันอาทิตย์",
+            "audio_en_src": "Dad goes golfing every Sunday morning."
+          },
+          {
+            "thai": "เขาชอบคุยธุรกิจตอนตีกอล์ฟ",
+            "en": "He likes to talk business while playing golf.",
+            "audio_src": "เขาชอบคุยธุรกิจตอนตีกอล์ฟ",
+            "audio_en_src": "He likes to talk business while playing golf."
+          }
+        ]
+      }
     ]
   },
   {
@@ -32612,6 +32783,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to extend hair, to get hair extensions",
+        "sentences": [
+          {
+            "thai": "เธอไปต่อผมมา ยาวขึ้นเยอะเลย",
+            "en": "She got hair extensions, her hair is a lot longer now.",
+            "audio_src": "เธอไปต่อผมมา ยาวขึ้นเยอะเลย",
+            "audio_en_src": "She got hair extensions, her hair is a lot longer now."
+          },
+          {
+            "thai": "ต่อผมแบบนี้ราคาเท่าไหร่",
+            "en": "How much do hair extensions like this cost?",
+            "audio_src": "ต่อผมแบบนี้ราคาเท่าไหร่",
+            "audio_en_src": "How much do hair extensions like this cost?"
+          }
+        ]
+      }
     ]
   },
   {

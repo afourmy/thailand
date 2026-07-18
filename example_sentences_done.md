@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7604 words**
+**Total: 7614 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1027,10 +1027,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-127` : ช้อน (spoon) : 1 meaning(s), 2 sentences
 - `tamago-l12-128` : ซวย (unfortunate, bad luck, unlucky, screwed (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l12-129` : ซอก (corner, nook, narrow gap) : 1 meaning(s), 2 sentences
+- `tamago-l12-130` : ซองจดหมาย (envelope) : 1 meaning(s), 2 sentences
 - `tamago-l12-131` : ซับซ้อน (complex, complicated) : 1 meaning(s), 2 sentences
 - `tamago-l12-132` : ซีอิ๊ว (soy sauce) : 1 meaning(s), 2 sentences
+- `tamago-l12-133` : ซื้อต่อ (to buy something second-hand from its owner) : 1 meaning(s), 2 sentences
+- `tamago-l12-134` : ซุปผัก (vegetable soup) : 1 meaning(s), 2 sentences
 - `tamago-l12-135` : ดอก (classifier for various small objects (flowers, keys, firecrackers, etc)) : 1 meaning(s), 2 sentences
+- `tamago-l12-136` : ดอกกะหล่ำ (cauliflower) : 1 meaning(s), 2 sentences
 - `tamago-l12-137` : ดัดผม (to curl hair (get a perm)) : 1 meaning(s), 2 sentences
+- `tamago-l12-138` : ดาวอังคาร (Mars (planet)) : 1 meaning(s), 2 sentences
 - `tamago-l12-139` : ดำหัว (northern Thai tradition of asking forgiveness from elders (dipping hand in water bowl)) : 1 meaning(s), 2 sentences
 - `tamago-l12-140` : ดีเด่น (excellent, outstanding, distinguished) : 1 meaning(s), 2 sentences
 - `tamago-l12-141` : ด้วยกันทั้งนั้น (all of them equally, every single one of them) : 1 meaning(s), 2 sentences
@@ -1042,14 +1047,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-147` : ตลาดนัด (temporary market, flea market) : 1 meaning(s), 2 sentences
 - `tamago-l12-148` : ตอด (to nibble (e.g fish nibbling)) : 1 meaning(s), 2 sentences
 - `tamago-l12-149` : ตอบแทน (to repay, to return a favor) : 1 meaning(s), 2 sentences
+- `tamago-l12-150` : ตะหลิว (spatula (cooking)) : 1 meaning(s), 2 sentences
 - `tamago-l12-151` : ตั้ง...แน่ะ ("...so much", "such a...") : 1 meaning(s), 2 sentences
 - `tamago-l12-152` : ตั้งนาน (for so long, in a long time) : 1 meaning(s), 2 sentences
 - `tamago-l12-153` : ตั้งเยอะ ("a whole lot!", "so much") : 1 meaning(s), 2 sentences
 - `tamago-l12-154` : ตั้งแต่...เป็นต้นไป (from... on, from... onward) : 1 meaning(s), 2 sentences
 - `tamago-l12-155` : ตามสบาย ("please go ahead", "as you like") : 1 meaning(s), 2 sentences
 - `tamago-l12-157` : ติดกับ (next to, adjacent to) : 1 meaning(s), 2 sentences
+- `tamago-l12-158` : ติดคุก (to be in jail, imprisoned) : 1 meaning(s), 2 sentences
 - `tamago-l12-159` : ติดหนี้ (to owe money, to be in debt) : 1 meaning(s), 2 sentences
+- `tamago-l12-160` : ติ่งหู (earlobe) : 1 meaning(s), 2 sentences
+- `tamago-l12-161` : ตีกอล์ฟ (to play golf) : 1 meaning(s), 2 sentences
 - `tamago-l12-163` : ตู้กดเงิน, ตู้เอทีเอ็ม (ATM) : 1 meaning(s), 2 sentences
+- `tamago-l12-164` : ต่อผม (to extend hair, to get hair extensions) : 1 meaning(s), 2 sentences
 - `tamago-l12-165` : ต่อราคา (to negotiate the price, haggle) : 1 meaning(s), 2 sentences
 - `tamago-l12-166` : ต่อว่า (to scold, to reproach) : 1 meaning(s), 2 sentences
 - `tamago-l12-167` : ต่อหน้า (in front of, in the presence of) : 1 meaning(s), 2 sentences
