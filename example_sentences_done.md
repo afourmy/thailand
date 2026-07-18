@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7544 words**
+**Total: 7554 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -684,18 +684,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-104` : ร้องเรียน (to file a complaint, to report a problem) : 1 meaning(s), 2 sentences
 - `chula-l6-105` : ร้องทุกข์ (to file a complaint about a hardship, suffering) : 1 meaning(s), 2 sentences
 - `chula-l6-106` : สุม (to heap up, to pile up (often in a messy or careless way)) : 1 meaning(s), 2 sentences
+- `chula-l6-107` : ทรุดตัว (to collapse, to sink down) : 1 meaning(s), 2 sentences
 - `chula-l6-108` : แขวง (subdistrict in Bangkok; zone, section) : 2 meaning(s), 4 sentences
 - `chula-l6-109` : รถแบ็กโฮ (backhoe excavator (used for lifting or digging soil)) : 1 meaning(s), 2 sentences
 - `chula-l6-110` : สัญจร (to travel, to circulate, to commute) : 1 meaning(s), 2 sentences
 - `chula-l6-112` : การสูบน้ำ (water pumping) : 1 meaning(s), 2 sentences
 - `chula-l6-113` : สมุนไพร (herb) : 1 meaning(s), 2 sentences
 - `chula-l6-114` : รับปาก (to promise, to give one's word) : 1 meaning(s), 2 sentences
+- `chula-l6-115` : คา (to remain stuck (physically); pending, unfinished, unresolved) : 2 meaning(s), 4 sentences
 - `chula-l6-116` : ที่พึ่ง (support, refuge, source of help, someone you can rely on) : 1 meaning(s), 2 sentences
+- `chula-l6-117` : วาน (to request, to ask someone to do something) : 1 meaning(s), 2 sentences
 - `chula-l6-118` : กันเอง (informal, casual) : 1 meaning(s), 2 sentences
 - `chula-l6-119` : นำหน้า (to precede, to come before) : 1 meaning(s), 2 sentences
+- `chula-l6-120` : ลงท้าย (to end, to conclude, to finish (e.g a text, a sentence)) : 1 meaning(s), 2 sentences
 - `chula-l6-121` : หลีกทาง (to make way, give way, step aside) : 1 meaning(s), 2 sentences
 - `chula-l6-122` : ผู้ประท้วง (protesters) : 1 meaning(s), 2 sentences
 - `chula-l6-123` : ชุมนุม (to rally, to gather, to assemble) : 1 meaning(s), 2 sentences
+- `chula-l6-124` : ห้าว (bold, daring, cocky) : 1 meaning(s), 2 sentences
 - `chula-l6-125` : กว้างขวาง (spacious, large; (figuratively) extensive, broad) : 2 meaning(s), 4 sentences
 - `chula-l6-126` : คละคลุ้ง (to stink, to spread or linger in the air (e.g smell)) : 1 meaning(s), 2 sentences
 - `chula-l6-127` : หน่วยงาน (agency, department) : 1 meaning(s), 2 sentences
@@ -714,6 +719,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-140` : เงียบกริบ (completely silent, dead quiet) : 1 meaning(s), 2 sentences
 - `chula-l6-141` : มืดตึ๊ดตื๋อ (pitch dark, extremely dark) : 1 meaning(s), 2 sentences
 - `chula-l6-142` : หวั่น (fearful, worried, anxious) : 1 meaning(s), 2 sentences
+- `chula-l6-143` : กุญแจสำคัญ (crucial factor, key element) : 1 meaning(s), 2 sentences
 - `chula-l6-144` : ผู้สัญจรไปมา (passersby, people passing through) : 1 meaning(s), 2 sentences
 - `chula-l6-145` : น้ำเสีย (wastewater, contaminated water) : 1 meaning(s), 2 sentences
 - `chula-l6-146` : จริงเท็จอย่างไร ("what's true and what's false?", "where is the truth") : 1 meaning(s), 2 sentences
@@ -725,12 +731,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-152` : พอก (to apply as a paste (e.g on body)) : 1 meaning(s), 2 sentences
 - `chula-l6-153` : หนอง (pus; swamp, marsh) : 2 meaning(s), 4 sentences
 - `chula-l6-154` : ชง (to brew) : 1 meaning(s), 2 sentences
+- `chula-l6-155` : โลหิต (blood (formal)) : 1 meaning(s), 2 sentences
 - `chula-l6-156` : หลอดเลือด, เส้นเลือด (blood vessel) : 1 meaning(s), 2 sentences
 - `chula-l6-157` : ผง (powder) : 1 meaning(s), 2 sentences
 - `chula-l6-159` : หมู่ (group, cluster) : 1 meaning(s), 2 sentences
 - `chula-l6-160` : หมองคล้ำ (dull, darkened (usually used negatively, especially about skin complexion)) : 1 meaning(s), 2 sentences
 - `chula-l6-161` : เศษ (fragment, scrap, remnant; fraction of; a bit more, slightly over) : 3 meaning(s), 6 sentences
 - `chula-l6-162` : ว่ากันว่า ("it is said that...", reportedly) : 1 meaning(s), 2 sentences
+- `chula-l6-163` : เซลล์ (cell) : 1 meaning(s), 2 sentences
 - `chula-l6-164` : หลุด (to slip, drop, fall off) : 1 meaning(s), 2 sentences
 - `chula-l6-165` : กระชับ (compact, tight, firm, to tighten, to strengthen) : 1 meaning(s), 2 sentences
 - `chula-l6-166` : รูขุมขน (skin pore (literally "hole of hair follicle")) : 1 meaning(s), 2 sentences
@@ -787,7 +795,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-220` : ผ่า (to cut into pieces, split, dissect) : 1 meaning(s), 2 sentences
 - `chula-l6-221` : แฉลบ (to glance off, to graze, to ricochet) : 1 meaning(s), 2 sentences
 - `chula-l6-222` : แท่ง (stick, bar, rod (and classifier for stick-shaped objects)) : 1 meaning(s), 2 sentences
+- `chula-l6-223` : เฉียง (slanted, oblique, diagonal) : 1 meaning(s), 2 sentences
 - `chula-l6-225` : เคี่ยว (to stew, to simmer, to reduce (barely boil until concentrated)) : 1 meaning(s), 2 sentences
+- `chula-l6-226` : ละ (to omit, to leave out) : 1 meaning(s), 2 sentences
 - `chula-l6-227` : ฟังทัน (to follow along without falling behind (when listening to e.g a teacher)) : 1 meaning(s), 2 sentences
 - `chula-l6-228` : ปุดๆ (bubbling, boiling, welling up (onomatopoeia)) : 1 meaning(s), 2 sentences
 - `chula-l6-229` : คอร์ส (course) : 1 meaning(s), 2 sentences

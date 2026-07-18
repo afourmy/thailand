@@ -21062,6 +21062,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to collapse, to sink down",
+        "sentences": [
+          {
+            "thai": "พอได้ข่าวร้าย เธอก็ทรุดตัวลงกับพื้น",
+            "en": "When she heard the bad news, she collapsed to the floor.",
+            "audio_src": "พอได้ข่าวร้าย เธอก็ทรุดตัวลงกับพื้น",
+            "audio_en_src": "When she heard the bad news, she collapsed to the floor."
+          },
+          {
+            "thai": "เขาทรุดตัวลงนั่งข้างๆฉัน",
+            "en": "He sank down beside me.",
+            "audio_src": "เขาทรุดตัวลงนั่งข้างๆฉัน",
+            "audio_en_src": "He sank down beside me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21264,6 +21283,42 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to remain stuck (physically)",
+        "sentences": [
+          {
+            "thai": "กุญแจยังคาอยู่ที่ประตู",
+            "en": "The key is still in the door.",
+            "audio_src": "กุญแจยังคาอยู่ที่ประตู",
+            "audio_en_src": "The key is still in the door."
+          },
+          {
+            "thai": "ผ้ายังคาอยู่ในเครื่องซักผ้า",
+            "en": "The laundry is still sitting in the washing machine.",
+            "audio_src": "ผ้ายังคาอยู่ในเครื่องซักผ้า",
+            "audio_en_src": "The laundry is still sitting in the washing machine."
+          }
+        ]
+      },
+      {
+        "meaning": "pending, unfinished, unresolved",
+        "sentences": [
+          {
+            "thai": "งานยังคาอยู่หลายอย่าง",
+            "en": "I still have a lot of unfinished work.",
+            "audio_src": "งานยังคาอยู่หลายอย่าง",
+            "audio_en_src": "I still have a lot of unfinished work."
+          },
+          {
+            "thai": "คดียังคาอยู่ที่ศาล",
+            "en": "The case is still pending in court.",
+            "audio_src": "คดียังคาอยู่ที่ศาล",
+            "audio_en_src": "The case is still pending in court."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21305,6 +21360,25 @@
       "Chulalongkorn L6",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to request, to ask someone to do something",
+        "sentences": [
+          {
+            "thai": "วานช่วยเปิดประตูให้หน่อย",
+            "en": "Could you get the door for me?",
+            "audio_src": "วานช่วยเปิดประตูให้หน่อย",
+            "audio_en_src": "Could you get the door for me?"
+          },
+          {
+            "thai": "แม่วานให้ฉันไปรับน้องที่โรงเรียน",
+            "en": "Mom asked me to pick up my little sister from school.",
+            "audio_src": "แม่วานให้ฉันไปรับน้องที่โรงเรียน",
+            "audio_en_src": "Mom asked me to pick up my little sister from school."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21376,6 +21450,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to end, to conclude, to finish (e.g a text, a sentence)",
+        "sentences": [
+          {
+            "thai": "จดหมายลงท้ายว่า ด้วยความเคารพ",
+            "en": "The letter ends with \"Respectfully yours\".",
+            "audio_src": "จดหมายลงท้ายว่า ด้วยความเคารพ",
+            "audio_en_src": "The letter ends with \"Respectfully yours\"."
+          },
+          {
+            "thai": "ผู้หญิงมักลงท้ายประโยคด้วยคำว่าค่ะ",
+            "en": "Women usually end their sentences with \"kha\".",
+            "audio_src": "ผู้หญิงมักลงท้ายประโยคด้วยคำว่าค่ะ",
+            "audio_en_src": "Women usually end their sentences with \"kha\"."
+          }
+        ]
+      }
     ]
   },
   {
@@ -21475,6 +21568,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "bold, daring, cocky",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้ห้าวมาก ไม่กลัวใครเลย",
+            "en": "This kid is so cocky, he's not scared of anyone.",
+            "audio_src": "เด็กคนนี้ห้าวมาก ไม่กลัวใครเลย",
+            "audio_en_src": "This kid is so cocky, he's not scared of anyone."
+          },
+          {
+            "thai": "อย่าห้าวนัก เดี๋ยวเจ็บตัว",
+            "en": "Don't get cocky, you'll get yourself hurt.",
+            "audio_src": "อย่าห้าวนัก เดี๋ยวเจ็บตัว",
+            "audio_en_src": "Don't get cocky, you'll get yourself hurt."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22031,6 +22143,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "crucial factor, key element",
+        "sentences": [
+          {
+            "thai": "ความอดทนคือกุญแจสำคัญของความสำเร็จ",
+            "en": "Patience is the key to success.",
+            "audio_src": "ความอดทนคือกุญแจสำคัญของความสำเร็จ",
+            "audio_en_src": "Patience is the key to success."
+          },
+          {
+            "thai": "การสื่อสารเป็นกุญแจสำคัญของชีวิตคู่",
+            "en": "Communication is the key to a good relationship.",
+            "audio_src": "การสื่อสารเป็นกุญแจสำคัญของชีวิตคู่",
+            "audio_en_src": "Communication is the key to a good relationship."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22374,6 +22505,25 @@
       "Chulalongkorn L6",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "blood (formal)",
+        "sentences": [
+          {
+            "thai": "โรงพยาบาลเปิดรับบริจาคโลหิตทุกวัน",
+            "en": "The hospital accepts blood donations every day.",
+            "audio_src": "โรงพยาบาลเปิดรับบริจาคโลหิตทุกวัน",
+            "audio_en_src": "The hospital accepts blood donations every day."
+          },
+          {
+            "thai": "คุณตาเป็นโรคความดันโลหิตสูง",
+            "en": "Grandpa has high blood pressure.",
+            "audio_src": "คุณตาเป็นโรคความดันโลหิตสูง",
+            "audio_en_src": "Grandpa has high blood pressure."
+          }
+        ]
+      }
     ]
   },
   {
@@ -22603,6 +22753,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "cell",
+        "sentences": [
+          {
+            "thai": "ร่างกายของเราประกอบด้วยเซลล์นับล้านล้านเซลล์",
+            "en": "Our bodies are made up of trillions of cells.",
+            "audio_src": "ร่างกายของเราประกอบด้วยเซลล์นับล้านล้านเซลล์",
+            "audio_en_src": "Our bodies are made up of trillions of cells."
+          },
+          {
+            "thai": "เซลล์มะเร็งแพร่กระจายเร็วมาก",
+            "en": "Cancer cells spread very quickly.",
+            "audio_src": "เซลล์มะเร็งแพร่กระจายเร็วมาก",
+            "audio_en_src": "Cancer cells spread very quickly."
+          }
+        ]
+      }
     ]
   },
   {
@@ -24445,6 +24614,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "slanted, oblique, diagonal",
+        "sentences": [
+          {
+            "thai": "แสงแดดส่องเฉียงเข้ามาทางหน้าต่าง",
+            "en": "Sunlight slants in through the window.",
+            "audio_src": "แสงแดดส่องเฉียงเข้ามาทางหน้าต่าง",
+            "audio_en_src": "Sunlight slants in through the window."
+          },
+          {
+            "thai": "ตัดกระดาษเฉียงๆแบบนี้",
+            "en": "Cut the paper diagonally like this.",
+            "audio_src": "ตัดกระดาษเฉียงๆแบบนี้",
+            "audio_en_src": "Cut the paper diagonally like this."
+          }
+        ]
+      }
     ]
   },
   {
@@ -24485,6 +24673,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to omit, to leave out",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมักละประธานของประโยค",
+            "en": "Thai often leaves out the subject of the sentence.",
+            "audio_src": "ภาษาไทยมักละประธานของประโยค",
+            "audio_en_src": "Thai often leaves out the subject of the sentence."
+          },
+          {
+            "thai": "ที่เหลือละไว้ในฐานที่เข้าใจ",
+            "en": "The rest goes without saying.",
+            "audio_src": "ที่เหลือละไว้ในฐานที่เข้าใจ",
+            "audio_en_src": "The rest goes without saying."
+          }
+        ]
+      }
     ]
   },
   {
