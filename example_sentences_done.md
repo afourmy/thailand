@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7694 words**
+**Total: 7704 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1482,12 +1482,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-618` : โต้คลื่น (to surf (waves)) : 1 meaning(s), 2 sentences
 - `tamago-l12-619` : โปรย (to sprinkle, to scatter, to shower down) : 1 meaning(s), 2 sentences
 - `tamago-l12-620` : โมโห (angry, furious) : 1 meaning(s), 2 sentences
+- `tamago-l12-621` : โรคนอนไม่หลับ (insomnia) : 1 meaning(s), 2 sentences
+- `tamago-l12-622` : โรย (to sprinkle (e.g garnish on food)) : 1 meaning(s), 2 sentences
 - `tamago-l12-623` : โล (kilo (colloquial short form of kilogram)) : 1 meaning(s), 2 sentences
 - `tamago-l12-624` : โหด, โหดร้าย (cruel, harsh, brutal) : 1 meaning(s), 2 sentences
 - `tamago-l12-625` : ใจร้าย (mean, wicked, cruel-hearted) : 1 meaning(s), 2 sentences
 - `tamago-l12-626` : ใช้หนี้ (to pay off a debt) : 1 meaning(s), 2 sentences
 - `tamago-l12-627` : ในร่ม (indoors, under cover (e.g from rain, sun)) : 1 meaning(s), 2 sentences
 - `tamago-l12-628` : ใบ้ (to give hints, to give clues; mute) : 2 meaning(s), 4 sentences
+- `tamago-l12-629` : ใยอาหาร (dietary fiber) : 1 meaning(s), 2 sentences
 - `tamago-l12-630` : ใส่ (to put in, to wear, to insert) : 1 meaning(s), 3 sentences
 - `tamago-l12-631` : ใส่...เพิ่ม (to add more (of something)) : 1 meaning(s), 2 sentences
 - `tamago-l12-632` : ไข่คน, ไข่กวน (scrambled egg) : 1 meaning(s), 2 sentences
@@ -1518,18 +1521,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thai9k-001` : ปลดปล่อย (to liberate, set free, release from oppression) : 1 meaning(s), 2 sentences
 - `thai9k-002` : เข้าร่วม (to join, attend, participate in) : 1 meaning(s), 2 sentences
 - `thai9k-003` : กู้ (to save, to rescue; to borrow money, to take a loan) : 2 meaning(s), 4 sentences
+- `thai9k-004` : ดุว่า (to scold, to reprimand) : 1 meaning(s), 2 sentences
 - `thai9k-005` : สายรุ้ง, รุ้ง, รุ้งกินน้ำ (rainbow) : 1 meaning(s), 2 sentences
 - `thai9k-007` : เส้นประสาท (nerve) : 1 meaning(s), 2 sentences
+- `thai9k-008` : โครงกระดูก (skeleton) : 1 meaning(s), 2 sentences
 - `thai9k-009` : ซี่โครง (rib) : 1 meaning(s), 2 sentences
+- `thai9k-010` : กะโหลก (skull) : 1 meaning(s), 2 sentences
 - `thai9k-012` : ไฝ (mole) : 1 meaning(s), 2 sentences
 - `thai9k-013` : ปาน (birthmark) : 1 meaning(s), 2 sentences
 - `thai9k-014` : ผูกเชือกรองเท้า (to tie one's shoelaces) : 1 meaning(s), 2 sentences
 - `thai9k-015` : ที่ตัดเล็บ (nail clipper) : 1 meaning(s), 2 sentences
+- `thai9k-016` : มงกุฎ (crown) : 1 meaning(s), 2 sentences
 - `thai9k-017` : หมากฝรั่ง (chewing gum) : 1 meaning(s), 2 sentences
 - `thai9k-018` : สุรา (liquor, spirits (alcohol)) : 1 meaning(s), 2 sentences
 - `thai9k-019` : หัวหอม (onion) : 1 meaning(s), 2 sentences
+- `thai9k-020` : บีทรูท (beet, beetroot) : 1 meaning(s), 2 sentences
+- `thai9k-021` : หัวผักกาด (turnip) : 1 meaning(s), 2 sentences
 - `thai9k-023` : ลูกเกด (raisin) : 1 meaning(s), 2 sentences
 - `thai9k-024` : เจ ("jay" diet (strict Buddhist vegan: no animal products and no pungent vegetables like garlic or onion)) : 1 meaning(s), 2 sentences
+- `thai9k-025` : แม่หม้าย (widow) : 1 meaning(s), 2 sentences
 - `thai9k-026` : หย่า (to divorce) : 1 meaning(s), 2 sentences
 - `thai9k-028` : กำยำ (muscular, well-built) : 1 meaning(s), 2 sentences
 - `thai9k-029` : สง่า, สง่างาม (majestic, graceful, elegant) : 1 meaning(s), 2 sentences
