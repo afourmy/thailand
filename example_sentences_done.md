@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7844 words**
+**Total: 7854 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2561,6 +2561,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-197` : แม่เหล็ก (magnet) : 1 meaning(s), 2 sentences
 - `tsl-198` : ผัดวันประกันพรุ่ง (to procrastinate) : 1 meaning(s), 2 sentences
 - `tsl-199` : สถานกงสุล (consulate) : 1 meaning(s), 2 sentences
+- `tsl-200` : ชั้นประหยัด (economy class) : 1 meaning(s), 2 sentences
+- `tsl-201` : ประสงค์ (to wish, to desire (formal)) : 1 meaning(s), 2 sentences
 - `tsl-202` : อนุมัติ (to approve) : 1 meaning(s), 2 sentences
 - `tsl-203` : ต่ออายุ (to renew, to extend (document, passport, etc)) : 1 meaning(s), 2 sentences
 - `tsl-204` : บัตรประจำตัวประชาชน (citizen ID card) : 1 meaning(s), 2 sentences
@@ -2573,23 +2575,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-213` : ยามราตรี (night time, at night (literary, poetic)) : 1 meaning(s), 2 sentences
 - `tsl-214` : ล้อมวง (to sit in a circle, to gather around) : 1 meaning(s), 2 sentences
 - `tsl-215` : ร่วน (crumbly, loose, easily falls apart (texture)) : 1 meaning(s), 2 sentences
+- `tsl-216` : กำให้แน่น (to hold tightly, to grip firmly) : 1 meaning(s), 2 sentences
 - `tsl-217` : คีบ (to pick up (using chopsticks, tongs, fingers)) : 1 meaning(s), 2 sentences
 - `tsl-218` : เซ่น (offerings, sacrifice, to make an offering to spirits or deities) : 1 meaning(s), 2 sentences
 - `tsl-219` : เอาใจช่วย (to root for someone, to cheer on) : 1 meaning(s), 2 sentences
+- `tsl-220` : มีดพก (pocket knife) : 1 meaning(s), 2 sentences
 - `tsl-221` : ของใครของมัน ((idiom) "to each their own") : 1 meaning(s), 2 sentences
+- `tsl-222` : พอเหมาะ (just right, moderate, appropriate) : 1 meaning(s), 2 sentences
 - `tsl-223` : มาก่อนได้ก่อน (first come, first served) : 1 meaning(s), 2 sentences
 - `tsl-224` : รองคณบดี (vice-dean (school, university)) : 1 meaning(s), 2 sentences
 - `tsl-225` : วิเทศสัมพันธ์ (foreign affairs, international relations) : 1 meaning(s), 2 sentences
 - `tsl-226` : เป็นธุระ (to take care of something, to handle a task) : 1 meaning(s), 2 sentences
+- `tsl-227` : ท่าอากาศยาน (airport (formal)) : 1 meaning(s), 2 sentences
 - `tsl-228` : ยั่งยืน (sustainable, long-lasting) : 1 meaning(s), 2 sentences
+- `tsl-230` : ศึกษาศาสตร์ (education (academic field)) : 1 meaning(s), 2 sentences
 - `tsl-231` : กระจ่าง (clear, easily understandable (explanation)) : 1 meaning(s), 2 sentences
 - `tsl-232` : งมเข็มในมหาสมุทร ((idiom) to look for a needle in a haystack (literally "to search for a needle in the ocean")) : 1 meaning(s), 2 sentences
 - `tsl-233` : ค้าน (to object, to protest, to oppose) : 1 meaning(s), 2 sentences
 - `tsl-234` : ภูมิอากาศ (climate) : 1 meaning(s), 2 sentences
 - `tsl-235` : อารยธรรม (civilization) : 1 meaning(s), 2 sentences
+- `tsl-236` : ผ้ากันเปื้อน (apron) : 1 meaning(s), 2 sentences
 - `tsl-237` : ผ้ารัดเอว (sash, waist cloth) : 1 meaning(s), 2 sentences
 - `tsl-238` : เสริมสร้าง (to enhance, strengthen, reinforce) : 1 meaning(s), 2 sentences
 - `tsl-239` : กำมะหยี่ (velvet) : 1 meaning(s), 2 sentences
+- `tsl-240` : ตะเข็บ (seam, stitched joint (where two pieces of fabric are sewn together)) : 1 meaning(s), 2 sentences
+- `tsl-241` : คลุมทับ (to overlay, to layer on top, to cover over) : 1 meaning(s), 2 sentences
 - `tsl-242` : อาหารเสริม ((dietary) supplement) : 1 meaning(s), 2 sentences
 - `tsl-243` : ข้ามเส้น - ล้ำเส้น (to cross the line (literally) - to overstep limits, to go too far) : 1 meaning(s), 2 sentences
 - `tsl-244` : ทึบ (dense, solid, opaque (not letting light, air, or fluid through)) : 1 meaning(s), 2 sentences
