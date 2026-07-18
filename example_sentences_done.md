@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7894 words**
+**Total: 7904 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2722,20 +2722,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-374` : ลมหายใจ (breath) : 1 meaning(s), 2 sentences
 - `tsl-375` : แปลกปลอม (foreign, out-of-place, alien) : 1 meaning(s), 2 sentences
 - `tsl-376` : ไวไฟ (flammable) : 1 meaning(s), 2 sentences
+- `tsl-377` : ต่างๆ นานา (various, many kinds) : 1 meaning(s), 2 sentences
+- `tsl-378` : ถ้วยตวง (measuring cup) : 1 meaning(s), 2 sentences
+- `tsl-379` : ปากเปล่า (orally, by mouth (without notes)) : 1 meaning(s), 2 sentences
 - `tsl-380` : กาลเทศะ (sense of appropriate time and place, propriety) : 1 meaning(s), 2 sentences
 - `tsl-381` : ผลการเรียน (academic results, grades, transcript) : 1 meaning(s), 2 sentences
 - `tsl-382` : แซง (to overtake (a vehicle in traffic)) : 1 meaning(s), 2 sentences
 - `tsl-383` : ตอบสนอง (to respond, to react to) : 1 meaning(s), 2 sentences
 - `tsl-384` : สั่งการ (to command, to give orders) : 1 meaning(s), 2 sentences
+- `tsl-385` : แรงยุ (peer pressure, influence from others) : 1 meaning(s), 2 sentences
+- `tsl-386` : คึกคะนอง (impulsive, reckless, full of uncontrolled energy) : 1 meaning(s), 2 sentences
 - `tsl-387` : ยับยั้งชั่งใจ (to restrain oneself, to exercise self-control) : 1 meaning(s), 2 sentences
 - `tsl-388` : หวาดเสียว (thrilling, spine-chilling (fear mixed with excitement)) : 1 meaning(s), 2 sentences
+- `tsl-389` : พอกพูน (to accrue, to accumulate, to build up) : 1 meaning(s), 2 sentences
 - `tsl-390` : ต่อมไร้ท่อ (endocrine gland) : 1 meaning(s), 2 sentences
 - `tsl-391` : กินจุ (to eat a lot, to be a heavy eater) : 1 meaning(s), 2 sentences
+- `tsl-392` : ซอกซอน (to slip into small spaces, to penetrate cracks, to explore hidden places) : 1 meaning(s), 2 sentences
+- `tsl-393` : การรับรอง (certification, endorsement) : 1 meaning(s), 2 sentences
 - `tsl-394` : สำนักงานคณะกรรมการอาหารและยา (อย.) (Thai Food and Drug Administration (FDA equivalent)) : 1 meaning(s), 2 sentences
 - `tsl-395` : ขรุขระ (rough, rugged, bumpy (surface)) : 1 meaning(s), 2 sentences
+- `tsl-396` : ละออง (tiny particles, droplets, dust (in the air)) : 1 meaning(s), 2 sentences
 - `tsl-397` : ประกาย (spark, glimmer, gleam, to sparkle) : 1 meaning(s), 2 sentences
 - `tsl-398` : อนุรักษ์ (to preserve, to conserve) : 1 meaning(s), 2 sentences
 - `tsl-399` : ใช้สอย (to utilize, to consume for practical purposes) : 1 meaning(s), 2 sentences
+- `tsl-400` : เบียดเบียน (to harm, to oppress, to infringe on someone or something) : 1 meaning(s), 2 sentences
 - `tsl-401` : เศรษฐกิจพอเพียง (sufficiency economy (King Bhumibol's philosophy of moderation and self-reliance)) : 1 meaning(s), 2 sentences
 - `tsl-402` : สุจริต (honest, ethical, upright, morally correct) : 1 meaning(s), 2 sentences
 - `tsl-403` : อภิปราย (to debate, to discuss) : 1 meaning(s), 2 sentences
