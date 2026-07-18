@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7413 words**
+**Total: 7423 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -382,18 +382,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-245` : แฝง (hidden, concealed, disguised) : 1 meaning(s), 2 sentences
 - `chula-l5-246` : ส่องกล้อง (to use a scope (e.g camera, telescope, endoscopy, etc)) : 1 meaning(s), 2 sentences
 - `chula-l5-247` : กรณี (case) : 1 meaning(s), 2 sentences
+- `chula-l5-248` : วินิจฉัย (to diagnose) : 1 meaning(s), 2 sentences
 - `chula-l5-249` : เชื้อ, เชื้อโรค (germ, pathogen) : 1 meaning(s), 2 sentences
+- `chula-l5-250` : การติดเชื้อ (infection) : 1 meaning(s), 2 sentences
 - `chula-l5-251` : ไวรัส (virus) : 1 meaning(s), 2 sentences
 - `chula-l5-252` : เบื่ออาหาร (loss of appetite) : 1 meaning(s), 2 sentences
+- `chula-l5-253` : อาเจียน (to vomit (formal)) : 1 meaning(s), 2 sentences
+- `chula-l5-254` : ลำตัว (torso, trunk of the body) : 1 meaning(s), 2 sentences
 - `chula-l5-256` : ยากันยุง (mosquito repellent) : 1 meaning(s), 2 sentences
 - `chula-l5-257` : ซ้ำ (to repeat, repeatedly, again) : 1 meaning(s), 2 sentences
+- `chula-l5-258` : ภาวะอ้วน (obesity) : 1 meaning(s), 2 sentences
+- `chula-l5-259` : ส่งผล(ทำ)ให้ (resulting in, to result in) : 1 meaning(s), 2 sentences
+- `chula-l5-260` : การถ่ายอุจจาระ (defecation) : 1 meaning(s), 2 sentences
 - `chula-l5-261` : ผิดปกติ (abnormal) : 1 meaning(s), 2 sentences
 - `chula-l5-262` : สุขภาพจิต (mental health) : 1 meaning(s), 2 sentences
 - `chula-l5-263` : กฎระเบียบ (rules, regulations) : 1 meaning(s), 2 sentences
+- `chula-l5-264` : แต่งกาย (to dress (formal)) : 1 meaning(s), 2 sentences
+- `chula-l5-265` : ปฏิบัติตน (to conduct oneself) : 1 meaning(s), 2 sentences
 - `chula-l5-266` : สัญญาณ (signal, sign) : 1 meaning(s), 2 sentences
 - `chula-l5-267` : เผลอ (accidentally, unintentionally) : 1 meaning(s), 2 sentences
 - `chula-l5-268` : รู้ตัว (to be aware, to be conscious of) : 1 meaning(s), 2 sentences
 - `chula-l5-269` : คู่แข่ง (rival, competitor) : 1 meaning(s), 2 sentences
+- `chula-l5-270` : วงการ (field, industry) : 1 meaning(s), 2 sentences
 - `chula-l5-272` : พยากรณ์อากาศ (weather forecast) : 1 meaning(s), 2 sentences
 - `chula-l5-274` : พายุ (storm) : 1 meaning(s), 2 sentences
 - `chula-l5-276` : เซ็ง (bored, fed up, feeling blue) : 1 meaning(s), 2 sentences

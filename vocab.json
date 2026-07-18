@@ -11746,6 +11746,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to diagnose",
+        "sentences": [
+          {
+            "thai": "หมอวินิจฉัยว่าเป็นไข้เลือดออก",
+            "en": "The doctor diagnosed dengue fever.",
+            "audio_src": "หมอวินิจฉัยว่าเป็นไข้เลือดออก",
+            "audio_en_src": "The doctor diagnosed dengue fever."
+          },
+          {
+            "thai": "อาการแบบนี้วินิจฉัยยาก ต้องตรวจเพิ่ม",
+            "en": "Symptoms like this are hard to diagnose, more tests are needed.",
+            "audio_src": "อาการแบบนี้วินิจฉัยยาก ต้องตรวจเพิ่ม",
+            "audio_en_src": "Symptoms like this are hard to diagnose, more tests are needed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11786,6 +11805,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "infection",
+        "sentences": [
+          {
+            "thai": "แผลบวมแดงอาจเป็นสัญญาณของการติดเชื้อ",
+            "en": "A red, swollen wound can be a sign of infection.",
+            "audio_src": "แผลบวมแดงอาจเป็นสัญญาณของการติดเชื้อ",
+            "audio_en_src": "A red, swollen wound can be a sign of infection."
+          },
+          {
+            "thai": "ล้างมือช่วยลดการติดเชื้อ",
+            "en": "Washing your hands helps reduce infection.",
+            "audio_src": "ล้างมือช่วยลดการติดเชื้อ",
+            "audio_en_src": "Washing your hands helps reduce infection."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11853,6 +11891,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to vomit (formal)",
+        "sentences": [
+          {
+            "thai": "ผู้ป่วยมีอาการคลื่นไส้อาเจียน",
+            "en": "The patient has nausea and vomiting.",
+            "audio_src": "ผู้ป่วยมีอาการคลื่นไส้อาเจียน",
+            "audio_en_src": "The patient has nausea and vomiting."
+          },
+          {
+            "thai": "ถ้าอาเจียนไม่หยุด ให้รีบมาโรงพยาบาล",
+            "en": "If the vomiting doesn't stop, come to the hospital right away.",
+            "audio_src": "ถ้าอาเจียนไม่หยุด ให้รีบมาโรงพยาบาล",
+            "audio_en_src": "If the vomiting doesn't stop, come to the hospital right away."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11863,6 +11920,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "torso, trunk of the body",
+        "sentences": [
+          {
+            "thai": "เขามีผื่นขึ้นตามลำตัว",
+            "en": "He has a rash across his torso.",
+            "audio_src": "เขามีผื่นขึ้นตามลำตัว",
+            "audio_en_src": "He has a rash across his torso."
+          },
+          {
+            "thai": "ยืดตัวตรง อย่าเอียงลำตัว",
+            "en": "Stand up straight, don't lean your torso to the side.",
+            "audio_src": "ยืดตัวตรง อย่าเอียงลำตัว",
+            "audio_en_src": "Stand up straight, don't lean your torso to the side."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11935,6 +12011,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "obesity",
+        "sentences": [
+          {
+            "thai": "เด็กไทยมีภาวะอ้วนเพิ่มขึ้นทุกปี",
+            "en": "Obesity among Thai children is rising every year.",
+            "audio_src": "เด็กไทยมีภาวะอ้วนเพิ่มขึ้นทุกปี",
+            "audio_en_src": "Obesity among Thai children is rising every year."
+          },
+          {
+            "thai": "ภาวะอ้วนเพิ่มความเสี่ยงโรคเบาหวาน",
+            "en": "Obesity increases the risk of diabetes.",
+            "audio_src": "ภาวะอ้วนเพิ่มความเสี่ยงโรคเบาหวาน",
+            "audio_en_src": "Obesity increases the risk of diabetes."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11944,6 +12039,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "resulting in, to result in",
+        "sentences": [
+          {
+            "thai": "ฝนตกหนักส่งผลให้น้ำท่วมหลายพื้นที่",
+            "en": "Heavy rain resulted in flooding in many areas.",
+            "audio_src": "ฝนตกหนักส่งผลให้น้ำท่วมหลายพื้นที่",
+            "audio_en_src": "Heavy rain resulted in flooding in many areas."
+          },
+          {
+            "thai": "การนอนดึกส่งผลทำให้สมาธิแย่ลง",
+            "en": "Staying up late results in worse concentration.",
+            "audio_src": "การนอนดึกส่งผลทำให้สมาธิแย่ลง",
+            "audio_en_src": "Staying up late results in worse concentration."
+          }
+        ]
+      }
     ]
   },
   {
@@ -11953,6 +12067,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "defecation",
+        "sentences": [
+          {
+            "thai": "หมอถามเรื่องการถ่ายอุจจาระของผู้ป่วย",
+            "en": "The doctor asked about the patient's bowel movements.",
+            "audio_src": "หมอถามเรื่องการถ่ายอุจจาระของผู้ป่วย",
+            "audio_en_src": "The doctor asked about the patient's bowel movements."
+          },
+          {
+            "thai": "กินผักผลไม้ช่วยให้การถ่ายอุจจาระเป็นปกติ",
+            "en": "Eating fruits and vegetables keeps your bowel movements regular.",
+            "audio_src": "กินผักผลไม้ช่วยให้การถ่ายอุจจาระเป็นปกติ",
+            "audio_en_src": "Eating fruits and vegetables keeps your bowel movements regular."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12052,6 +12185,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to dress (formal)",
+        "sentences": [
+          {
+            "thai": "กรุณาแต่งกายสุภาพเมื่อเข้าวัด",
+            "en": "Please dress politely when visiting the temple.",
+            "audio_src": "กรุณาแต่งกายสุภาพเมื่อเข้าวัด",
+            "audio_en_src": "Please dress politely when visiting the temple."
+          },
+          {
+            "thai": "พนักงานต้องแต่งกายตามระเบียบบริษัท",
+            "en": "Employees must dress according to company rules.",
+            "audio_src": "พนักงานต้องแต่งกายตามระเบียบบริษัท",
+            "audio_en_src": "Employees must dress according to company rules."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12061,6 +12213,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to conduct oneself",
+        "sentences": [
+          {
+            "thai": "ผู้ป่วยควรปฏิบัติตนตามคำแนะนำของแพทย์",
+            "en": "Patients should follow their doctor's instructions.",
+            "audio_src": "ผู้ป่วยควรปฏิบัติตนตามคำแนะนำของแพทย์",
+            "audio_en_src": "Patients should follow their doctor's instructions."
+          },
+          {
+            "thai": "นักเรียนต้องปฏิบัติตนตามกฎของโรงเรียน",
+            "en": "Students must conduct themselves according to school rules.",
+            "audio_src": "นักเรียนต้องปฏิบัติตนตามกฎของโรงเรียน",
+            "audio_en_src": "Students must conduct themselves according to school rules."
+          }
+        ]
+      }
     ]
   },
   {
@@ -12198,6 +12369,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "field, industry",
+        "sentences": [
+          {
+            "thai": "เขาอยู่ในวงการบันเทิงมายี่สิบปี",
+            "en": "He's been in the entertainment industry for twenty years.",
+            "audio_src": "เขาอยู่ในวงการบันเทิงมายี่สิบปี",
+            "audio_en_src": "He's been in the entertainment industry for twenty years."
+          },
+          {
+            "thai": "ข่าวนี้สะเทือนวงการแพทย์",
+            "en": "This news shook the medical world.",
+            "audio_src": "ข่าวนี้สะเทือนวงการแพทย์",
+            "audio_en_src": "This news shook the medical world."
+          }
+        ]
+      }
     ]
   },
   {
