@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7453 words**
+**Total: 7463 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -471,14 +471,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-342` : เทียบเท่า (equivalent to, equal to) : 1 meaning(s), 2 sentences
 - `chula-l5-343` : กรอบ (framework, frame; crispy) : 2 meaning(s), 4 sentences
 - `chula-l5-344` : ทักษะ (skill) : 1 meaning(s), 2 sentences
+- `chula-l5-345` : ศาสตราจารย์ (professor) : 1 meaning(s), 2 sentences
 - `chula-l5-346` : เศรษฐกิจ (economy) : 1 meaning(s), 2 sentences
 - `chula-l5-347` : วัตถุดิบ (raw material) : 1 meaning(s), 2 sentences
 - `chula-l5-348` : พลังงาน (energy) : 1 meaning(s), 2 sentences
+- `chula-l5-349` : ทางเชื่อม (connecting passage, corridor) : 1 meaning(s), 2 sentences
+- `chula-l5-350` : ก๊าซธรรมชาติ (natural gas) : 1 meaning(s), 2 sentences
+- `chula-l5-351` : แร่, แร่ธาตุ (mineral, ore) : 1 meaning(s), 2 sentences
 - `chula-l5-352` : อุตสาหกรรม (industry) : 1 meaning(s), 2 sentences
 - `chula-l5-353` : เกษตรกรรม (agriculture (industry)) : 1 meaning(s), 2 sentences
+- `chula-l5-354` : สิ่งทอ (fabric, textile) : 1 meaning(s), 2 sentences
+- `chula-l5-355` : อัญมณี (gem, jewel) : 1 meaning(s), 2 sentences
 - `chula-l5-357` : สำเร็จรูป (ready-made, instant) : 1 meaning(s), 2 sentences
 - `chula-l5-358` : สำรอง (reserved, spare, secondary) : 1 meaning(s), 2 sentences
+- `chula-l5-359` : เครื่องจักร (machine, machinery) : 1 meaning(s), 2 sentences
+- `chula-l5-360` : การคมนาคม (transportation (infrastructure)) : 1 meaning(s), 2 sentences
+- `chula-l5-361` : การขนส่ง (transportation (act of transporting, shipping logistics)) : 1 meaning(s), 2 sentences
 - `chula-l5-362` : ดีบุก (tin) : 1 meaning(s), 2 sentences
+- `chula-l5-363` : ตะกั่ว (lead) : 1 meaning(s), 2 sentences
 - `chula-l5-367` : ส่วนประกอบ (component, ingredient) : 1 meaning(s), 2 sentences
 - `chula-l5-371` : ข้อมูล (information) : 1 meaning(s), 2 sentences
 - `chula-l5-372` : ความสัมพันธ์ (relationship) : 1 meaning(s), 2 sentences

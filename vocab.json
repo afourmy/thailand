@@ -14505,6 +14505,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "professor",
+        "sentences": [
+          {
+            "thai": "เขาได้เป็นศาสตราจารย์ตั้งแต่อายุสี่สิบ",
+            "en": "He became a full professor at forty.",
+            "audio_src": "เขาได้เป็นศาสตราจารย์ตั้งแต่อายุสี่สิบ",
+            "audio_en_src": "He became a full professor at forty."
+          },
+          {
+            "thai": "ศาสตราจารย์ท่านนี้เชี่ยวชาญด้านประวัติศาสตร์ไทย",
+            "en": "This professor specializes in Thai history.",
+            "audio_src": "ศาสตราจารย์ท่านนี้เชี่ยวชาญด้านประวัติศาสตร์ไทย",
+            "audio_en_src": "This professor specializes in Thai history."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14608,6 +14627,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "connecting passage, corridor",
+        "sentences": [
+          {
+            "thai": "มีทางเชื่อมจากบีทีเอสเข้าห้างเลย",
+            "en": "There's a walkway connecting the BTS straight into the mall.",
+            "audio_src": "มีทางเชื่อมจากบีทีเอสเข้าห้างเลย",
+            "audio_en_src": "There's a walkway connecting the BTS straight into the mall."
+          },
+          {
+            "thai": "ตึกสองตึกนี้มีทางเชื่อมชั้นสาม",
+            "en": "These two buildings are connected by a passage on the third floor.",
+            "audio_src": "ตึกสองตึกนี้มีทางเชื่อมชั้นสาม",
+            "audio_en_src": "These two buildings are connected by a passage on the third floor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14617,6 +14655,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "natural gas",
+        "sentences": [
+          {
+            "thai": "ประเทศไทยขุดก๊าซธรรมชาติจากอ่าวไทย",
+            "en": "Thailand extracts natural gas from the Gulf of Thailand.",
+            "audio_src": "ประเทศไทยขุดก๊าซธรรมชาติจากอ่าวไทย",
+            "audio_en_src": "Thailand extracts natural gas from the Gulf of Thailand."
+          },
+          {
+            "thai": "โรงไฟฟ้านี้ใช้ก๊าซธรรมชาติผลิตไฟ",
+            "en": "This power plant uses natural gas to generate electricity.",
+            "audio_src": "โรงไฟฟ้านี้ใช้ก๊าซธรรมชาติผลิตไฟ",
+            "audio_en_src": "This power plant uses natural gas to generate electricity."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14628,6 +14685,25 @@
       "Chulalongkorn L5",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "mineral, ore",
+        "sentences": [
+          {
+            "thai": "ภาคใต้เคยมีเหมืองแร่ดีบุกเยอะ",
+            "en": "The South used to have a lot of tin mines.",
+            "audio_src": "ภาคใต้เคยมีเหมืองแร่ดีบุกเยอะ",
+            "audio_en_src": "The South used to have a lot of tin mines."
+          },
+          {
+            "thai": "ผักใบเขียวมีแร่ธาตุที่ร่างกายต้องการ",
+            "en": "Leafy greens have minerals your body needs.",
+            "audio_src": "ผักใบเขียวมีแร่ธาตุที่ร่างกายต้องการ",
+            "audio_en_src": "Leafy greens have minerals your body needs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14699,6 +14775,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "fabric, textile",
+        "sentences": [
+          {
+            "thai": "โรงงานสิ่งทอจ้างคนงานหลายพันคน",
+            "en": "The textile factory employs thousands of workers.",
+            "audio_src": "โรงงานสิ่งทอจ้างคนงานหลายพันคน",
+            "audio_en_src": "The textile factory employs thousands of workers."
+          },
+          {
+            "thai": "ไทยส่งออกสิ่งทอไปหลายประเทศ",
+            "en": "Thailand exports textiles to many countries.",
+            "audio_src": "ไทยส่งออกสิ่งทอไปหลายประเทศ",
+            "audio_en_src": "Thailand exports textiles to many countries."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14708,6 +14803,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "gem, jewel",
+        "sentences": [
+          {
+            "thai": "จันทบุรีขึ้นชื่อเรื่องการค้าอัญมณี",
+            "en": "Chanthaburi is famous for its gem trade.",
+            "audio_src": "จันทบุรีขึ้นชื่อเรื่องการค้าอัญมณี",
+            "audio_en_src": "Chanthaburi is famous for its gem trade."
+          },
+          {
+            "thai": "มงกุฎประดับด้วยอัญมณีหลากสี",
+            "en": "The crown is decorated with gems of many colors.",
+            "audio_src": "มงกุฎประดับด้วยอัญมณีหลากสี",
+            "audio_en_src": "The crown is decorated with gems of many colors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14783,6 +14897,25 @@
       "Chulalongkorn L5",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "machine, machinery",
+        "sentences": [
+          {
+            "thai": "โรงงานสั่งเครื่องจักรใหม่จากญี่ปุ่น",
+            "en": "The factory ordered new machinery from Japan.",
+            "audio_src": "โรงงานสั่งเครื่องจักรใหม่จากญี่ปุ่น",
+            "audio_en_src": "The factory ordered new machinery from Japan."
+          },
+          {
+            "thai": "เครื่องจักรเสีย ต้องหยุดสายการผลิต",
+            "en": "The machine broke down, they had to stop the production line.",
+            "audio_src": "เครื่องจักรเสีย ต้องหยุดสายการผลิต",
+            "audio_en_src": "The machine broke down, they had to stop the production line."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14794,6 +14927,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "transportation (infrastructure)",
+        "sentences": [
+          {
+            "thai": "การคมนาคมในเมืองนี้สะดวกมาก",
+            "en": "Transportation in this city is very convenient.",
+            "audio_src": "การคมนาคมในเมืองนี้สะดวกมาก",
+            "audio_en_src": "Transportation in this city is very convenient."
+          },
+          {
+            "thai": "รัฐบาลลงทุนพัฒนาการคมนาคมทางราง",
+            "en": "The government is investing in rail transportation.",
+            "audio_src": "รัฐบาลลงทุนพัฒนาการคมนาคมทางราง",
+            "audio_en_src": "The government is investing in rail transportation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14803,6 +14955,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "transportation (act of transporting, shipping logistics)",
+        "sentences": [
+          {
+            "thai": "บริษัทนี้ทำธุรกิจการขนส่งสินค้า",
+            "en": "This company is in the freight transport business.",
+            "audio_src": "บริษัทนี้ทำธุรกิจการขนส่งสินค้า",
+            "audio_en_src": "This company is in the freight transport business."
+          },
+          {
+            "thai": "น้ำท่วมทำให้การขนส่งสินค้าล่าช้า",
+            "en": "The floods delayed shipments.",
+            "audio_src": "น้ำท่วมทำให้การขนส่งสินค้าล่าช้า",
+            "audio_en_src": "The floods delayed shipments."
+          }
+        ]
+      }
     ]
   },
   {
@@ -14842,6 +15013,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lead",
+        "sentences": [
+          {
+            "thai": "สีทาบ้านสมัยก่อนมีสารตะกั่ว",
+            "en": "Old house paint contained lead.",
+            "audio_src": "สีทาบ้านสมัยก่อนมีสารตะกั่ว",
+            "audio_en_src": "Old house paint contained lead."
+          },
+          {
+            "thai": "ตะกั่วเป็นโลหะที่อ่อนและหนัก",
+            "en": "Lead is a soft, heavy metal.",
+            "audio_src": "ตะกั่วเป็นโลหะที่อ่อนและหนัก",
+            "audio_en_src": "Lead is a soft, heavy metal."
+          }
+        ]
+      }
     ]
   },
   {
