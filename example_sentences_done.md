@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8284 words**
+**Total: 8294 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5009,14 +5009,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-021` : เด่นชัด (clear, evident, distinct) : 1 meaning(s), 2 sentences
 - `yt-c06-022` : โดดเดี่ยว (alone, isolated) : 1 meaning(s), 2 sentences
 - `yt-c06-023` : ลองผิดลองถูก (trial and error) : 1 meaning(s), 2 sentences
+- `yt-c06-024` : มารยา (trickery, deceit, cunning charm, manipulative behavior) : 1 meaning(s), 2 sentences
 - `yt-c06-025` : ความอ่อนโยน (gentleness, tenderness) : 1 meaning(s), 2 sentences
+- `yt-c06-026` : ละมุนละไม (gentle and delicate (e.g said of girls)) : 1 meaning(s), 2 sentences
 - `yt-c06-027` : ที่อุดหู (ear plug) : 1 meaning(s), 2 sentences
+- `yt-c06-028` : ต่อยอด (to expand further, to build upon) : 1 meaning(s), 2 sentences
 - `yt-c06-030` : หยอด (to drop in, to insert (e.g coin in machine)) : 1 meaning(s), 2 sentences
+- `yt-c06-031` : ศรัทธา (faith, belief, to have faith in (e.g Buddhism)) : 1 meaning(s), 2 sentences
 - `yt-c06-032` : ท้อ, ท้อใจ, ท้อแท้ (discouraged, disheartened, to lose motivation, feel like giving up) : 1 meaning(s), 2 sentences
 - `yt-c06-033` : หมวกกันน็อค (helmet) : 1 meaning(s), 2 sentences
 - `yt-c06-034` : ด่านตำรวจ (police checkpoint) : 1 meaning(s), 2 sentences
+- `yt-c06-035` : คร้าน (unwilling to bother, too lazy, reluctant) : 1 meaning(s), 2 sentences
+- `yt-c06-036` : วรรณยุกต์ (tone marks (above the letters)) : 1 meaning(s), 2 sentences
 - `yt-c06-037` : เสียกำลังใจ (to lose morale) : 1 meaning(s), 2 sentences
 - `yt-c06-038` : ตัวสำรอง (substitute (e.g football player)) : 1 meaning(s), 2 sentences
+- `yt-c06-039` : ผู้รักษาประตู (goalkeeper) : 1 meaning(s), 2 sentences
+- `yt-c06-040` : กองเชียร์ (cheering squad, group of supporters (who cheer e.g at a match)) : 1 meaning(s), 2 sentences
+- `yt-c06-041` : กล้องส่องทางไกล (binoculars) : 1 meaning(s), 2 sentences
+- `yt-c06-042` : รวดเดียว (all at once, in one go, without stopping) : 1 meaning(s), 2 sentences
 - `yt-c06-043` : สาระ (essence, meaningful content, key point) : 1 meaning(s), 2 sentences
 - `yt-c06-044` : ศาลพระภูมิ (spirit house) : 1 meaning(s), 2 sentences
 - `yt-c06-045` : เจ้าที่ (guardian spirit, local god of the land) : 1 meaning(s), 2 sentences

@@ -153858,6 +153858,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "trickery, deceit, cunning charm, manipulative behavior",
+        "sentences": [
+          {
+            "thai": "เธอทำมารยาให้ผู้ชายสงสาร",
+            "en": "She puts on an act to make guys feel sorry for her.",
+            "audio_src": "เธอทำมารยาให้ผู้ชายสงสาร",
+            "audio_en_src": "She puts on an act to make guys feel sorry for her."
+          },
+          {
+            "thai": "น้ำตาแบบนั้นเป็นแค่มารยา",
+            "en": "Those tears are just an act.",
+            "audio_src": "น้ำตาแบบนั้นเป็นแค่มารยา",
+            "audio_en_src": "Those tears are just an act."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153895,6 +153914,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "gentle and delicate (e.g said of girls)",
+        "sentences": [
+          {
+            "thai": "เธอพูดจาละมุนละไมน่าฟัง",
+            "en": "She speaks with a soft, gentle charm.",
+            "audio_src": "เธอพูดจาละมุนละไมน่าฟัง",
+            "audio_en_src": "She speaks with a soft, gentle charm."
+          },
+          {
+            "thai": "เพลงนี้ทำนองละมุนละไม",
+            "en": "This song has a soft, delicate melody.",
+            "audio_src": "เพลงนี้ทำนองละมุนละไม",
+            "audio_en_src": "This song has a soft, delicate melody."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153934,6 +153972,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to expand further, to build upon",
+        "sentences": [
+          {
+            "thai": "เขาต่อยอดสูตรของแม่มาเปิดร้าน",
+            "en": "He built on his mom's recipe to open a shop.",
+            "audio_src": "เขาต่อยอดสูตรของแม่มาเปิดร้าน",
+            "audio_en_src": "He built on his mom's recipe to open a shop."
+          },
+          {
+            "thai": "เรียนจบแล้วอยากต่อยอดความรู้ด้านเอไอ",
+            "en": "After graduating, I want to build on my knowledge of AI.",
+            "audio_src": "เรียนจบแล้วอยากต่อยอดความรู้ด้านเอไอ",
+            "audio_en_src": "After graduating, I want to build on my knowledge of AI."
+          }
+        ]
+      }
     ]
   },
   {
@@ -153975,6 +154032,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "faith, belief, to have faith in (e.g Buddhism)",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านศรัทธาหลวงพ่อวัดนี้มาก",
+            "en": "The villagers have deep faith in this temple's abbot.",
+            "audio_src": "ชาวบ้านศรัทธาหลวงพ่อวัดนี้มาก",
+            "audio_en_src": "The villagers have deep faith in this temple's abbot."
+          },
+          {
+            "thai": "เขาเริ่มหมดศรัทธาในระบบ",
+            "en": "He's losing faith in the system.",
+            "audio_src": "เขาเริ่มหมดศรัทธาในระบบ",
+            "audio_en_src": "He's losing faith in the system."
+          }
+        ]
+      }
     ]
   },
   {
@@ -154069,6 +154145,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "unwilling to bother, too lazy, reluctant",
+        "sentences": [
+          {
+            "thai": "อากาศร้อนจนคร้านจะออกไปไหน",
+            "en": "It's so hot I can't be bothered to go anywhere.",
+            "audio_src": "อากาศร้อนจนคร้านจะออกไปไหน",
+            "audio_en_src": "It's so hot I can't be bothered to go anywhere."
+          },
+          {
+            "thai": "คร้านจะเถียงด้วยแล้ว",
+            "en": "I can't even be bothered to argue anymore.",
+            "audio_src": "คร้านจะเถียงด้วยแล้ว",
+            "audio_en_src": "I can't even be bothered to argue anymore."
+          }
+        ]
+      }
     ]
   },
   {
@@ -154078,6 +154173,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "tone marks (above the letters)",
+        "sentences": [
+          {
+            "thai": "ภาษาไทยมีวรรณยุกต์สี่รูป",
+            "en": "Thai has four tone marks.",
+            "audio_src": "ภาษาไทยมีวรรณยุกต์สี่รูป",
+            "audio_en_src": "Thai has four tone marks."
+          },
+          {
+            "thai": "อย่าลืมใส่วรรณยุกต์ให้ถูก",
+            "en": "Don't forget to put the right tone marks.",
+            "audio_src": "อย่าลืมใส่วรรณยุกต์ให้ถูก",
+            "audio_en_src": "Don't forget to put the right tone marks."
+          }
+        ]
+      }
     ]
   },
   {
@@ -154145,6 +154259,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "goalkeeper",
+        "sentences": [
+          {
+            "thai": "ผู้รักษาประตูเซฟลูกโทษได้",
+            "en": "The goalkeeper saved the penalty.",
+            "audio_src": "ผู้รักษาประตูเซฟลูกโทษได้",
+            "audio_en_src": "The goalkeeper saved the penalty."
+          },
+          {
+            "thai": "เขาเล่นตำแหน่งผู้รักษาประตูมาตั้งแต่เด็ก",
+            "en": "He's played goalkeeper since he was a kid.",
+            "audio_src": "เขาเล่นตำแหน่งผู้รักษาประตูมาตั้งแต่เด็ก",
+            "audio_en_src": "He's played goalkeeper since he was a kid."
+          }
+        ]
+      }
     ]
   },
   {
@@ -154154,6 +154287,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cheering squad, group of supporters (who cheer e.g at a match)",
+        "sentences": [
+          {
+            "thai": "กองเชียร์ร้องเพลงดังทั้งสนาม",
+            "en": "The supporters sang loudly through the whole stadium.",
+            "audio_src": "กองเชียร์ร้องเพลงดังทั้งสนาม",
+            "audio_en_src": "The supporters sang loudly through the whole stadium."
+          },
+          {
+            "thai": "ทีมโรงเรียนเรามีกองเชียร์เยอะสุด",
+            "en": "Our school team has the biggest cheering squad.",
+            "audio_src": "ทีมโรงเรียนเรามีกองเชียร์เยอะสุด",
+            "audio_en_src": "Our school team has the biggest cheering squad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -154163,6 +154315,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "binoculars",
+        "sentences": [
+          {
+            "thai": "ใช้กล้องส่องทางไกลดูนก",
+            "en": "Use binoculars to watch birds.",
+            "audio_src": "ใช้กล้องส่องทางไกลดูนก",
+            "audio_en_src": "Use binoculars to watch birds."
+          },
+          {
+            "thai": "จากจุดชมวิว มีกล้องส่องทางไกลให้หยอดเหรียญ",
+            "en": "At the viewpoint there are coin-operated binoculars.",
+            "audio_src": "จากจุดชมวิว มีกล้องส่องทางไกลให้หยอดเหรียญ",
+            "audio_en_src": "At the viewpoint there are coin-operated binoculars."
+          }
+        ]
+      }
     ]
   },
   {
@@ -154172,6 +154343,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "all at once, in one go, without stopping",
+        "sentences": [
+          {
+            "thai": "เขาอ่านหนังสือจบรวดเดียว",
+            "en": "He read the whole book in one sitting.",
+            "audio_src": "เขาอ่านหนังสือจบรวดเดียว",
+            "audio_en_src": "He read the whole book in one sitting."
+          },
+          {
+            "thai": "ดื่มน้ำหมดแก้วรวดเดียว",
+            "en": "He downed the whole glass in one go.",
+            "audio_src": "ดื่มน้ำหมดแก้วรวดเดียว",
+            "audio_en_src": "He downed the whole glass in one go."
+          }
+        ]
+      }
     ]
   },
   {
