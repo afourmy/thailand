@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8054 words**
+**Total: 8064 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -3902,6 +3902,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1198` : เชื่อมต่อ (to connect, to link up) : 1 meaning(s), 2 sentences
 - `thaipod-1199` : เช็ดตัว (to dry off, to wipe the body) : 1 meaning(s), 2 sentences
 - `thaipod-1200` : เช่นเดียวกับ (just like, similar to) : 1 meaning(s), 2 sentences
+- `thaipod-1202` : เดินวนรอบ (to walk around, to circle around) : 1 meaning(s), 2 sentences
 - `thaipod-1203` : เดินเท้า (to walk, to go on foot) : 1 meaning(s), 2 sentences
 - `thaipod-1204` : เดิม (original, former, same as before) : 1 meaning(s), 2 sentences
 - `thaipod-1206` : เตรียมทหาร (military training, military preparatory school) : 1 meaning(s), 2 sentences
@@ -3910,6 +3911,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1209` : เถอะ (let's, suggestive particle) : 1 meaning(s), 2 sentences
 - `thaipod-1210` : เทพชุมนุม (gathering of deities (mural motif)) : 1 meaning(s), 2 sentences
 - `thaipod-1211` : เทพธิดา (goddess) : 1 meaning(s), 2 sentences
+- `thaipod-1213` : เทศน์ (to preach, sermon (Buddhism)) : 1 meaning(s), 2 sentences
 - `thaipod-1214` : เทิดทูน (to esteem, to revere, to honor (formal)) : 1 meaning(s), 2 sentences
 - `thaipod-1215` : เทียน (candle) : 1 meaning(s), 2 sentences
 - `thaipod-1216` : เทือกเขา (mountain range) : 1 meaning(s), 2 sentences
@@ -3933,6 +3935,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1234` : เป็นไท (to be free, to become independent (literary, historical)) : 1 meaning(s), 2 sentences
 - `thaipod-1237` : เผา (to burn, to cremate) : 1 meaning(s), 2 sentences
 - `thaipod-1238` : เพราะเหตุที่ (due to the fact that, because) : 1 meaning(s), 2 sentences
+- `thaipod-1239` : เพลงประกอบ (soundtrack, theme music) : 1 meaning(s), 2 sentences
 - `thaipod-1240` : เพลิดเพลิน (to enjoy, to be delighted) : 1 meaning(s), 2 sentences
 - `thaipod-1242` : เพี้ยน (distorted, strange, off; derived from) : 2 meaning(s), 4 sentences
 - `thaipod-1243` : เพื่อ (for, in order to) : 1 meaning(s), 2 sentences
@@ -3940,6 +3943,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1245` : เมืองขึ้น (colony, vassal state) : 1 meaning(s), 2 sentences
 - `thaipod-1246` : เมืองตากอากาศ (resort town, holiday destination) : 1 meaning(s), 2 sentences
 - `thaipod-1247` : เมื่อก่อน (previously, in the past) : 1 meaning(s), 2 sentences
+- `thaipod-1248` : เย็บ (to sew) : 1 meaning(s), 2 sentences
 - `thaipod-1249` : เริ่ม, เริ่มต้น (to begin, to start) : 1 meaning(s), 2 sentences
 - `thaipod-1250` : เรียกร้อง (to demand, to call for) : 1 meaning(s), 2 sentences
 - `thaipod-1251` : เรียง (arranged, lined up, in order) : 1 meaning(s), 2 sentences
@@ -3955,6 +3959,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1263` : เล่นงาน (to attack, to take action against, to target) : 1 meaning(s), 2 sentences
 - `thaipod-1264` : เล่า (to tell (a story)) : 1 meaning(s), 2 sentences
 - `thaipod-1267` : เว้า (curved inward, concave) : 1 meaning(s), 2 sentences
+- `thaipod-1269` : เศษผ้า (fabric scraps, scrap cloth) : 1 meaning(s), 2 sentences
 - `thaipod-1270` : เศียร (head (of deity, king, monk, etc)) : 1 meaning(s), 2 sentences
 - `thaipod-1271` : เสด็จ (to go, to proceed, to travel (royal)) : 1 meaning(s), 2 sentences
 - `thaipod-1275` : เสนาบดี (minister (royal, historical)) : 1 meaning(s), 2 sentences
@@ -3989,15 +3994,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1317` : แถว (area, neighborhood; row) : 2 meaning(s), 4 sentences
 - `thaipod-1318` : แทน (instead of, in place of) : 1 meaning(s), 2 sentences
 - `thaipod-1319` : แทบ (almost, nearly) : 1 meaning(s), 2 sentences
+- `thaipod-1320` : แท่งเทียน (candle) : 1 meaning(s), 2 sentences
 - `thaipod-1321` : แท้ (genuine, true, real) : 1 meaning(s), 2 sentences
 - `thaipod-1322` : แท้จริงแล้ว (in reality, actually) : 1 meaning(s), 2 sentences
 - `thaipod-1323` : แนวชายฝั่งทะเล (coastline) : 1 meaning(s), 2 sentences
 - `thaipod-1324` : แนววิทยาศาสตร์ (science fiction (genre)) : 1 meaning(s), 2 sentences
 - `thaipod-1325` : แน่ชัด (exact, definite) : 1 meaning(s), 2 sentences
 - `thaipod-1326` : แน่ๆ (definitely, for sure) : 1 meaning(s), 2 sentences
+- `thaipod-1328` : แบนราบ (completely flat, flat and smooth) : 1 meaning(s), 2 sentences
 - `thaipod-1329` : แบ่ง (to divide, to separate; to share) : 2 meaning(s), 4 sentences
 - `thaipod-1330` : แป้งหอม (scented powder) : 1 meaning(s), 2 sentences
 - `thaipod-1331` : แผ่น (sheet, classifier for thin flat objects) : 1 meaning(s), 2 sentences
+- `thaipod-1332` : แผ่นดิน (land, earth, country, homeland) : 1 meaning(s), 2 sentences
 - `thaipod-1333` : แผ่นทอง (gold leaf (thin gold sheet)) : 1 meaning(s), 2 sentences
 - `thaipod-1334` : แผ่นศิลา (stone tablet) : 1 meaning(s), 2 sentences
 - `thaipod-1337` : แมวกวัก (beckoning cat (lucky figurine)) : 1 meaning(s), 2 sentences
@@ -4018,12 +4026,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-1360` : โค้ง (curve, arc) : 1 meaning(s), 2 sentences
 - `thaipod-1361` : โง่ (stupid, foolish) : 1 meaning(s), 2 sentences
 - `thaipod-1362` : โจร (thief, robber) : 1 meaning(s), 2 sentences
+- `thaipod-1363` : โซนแดง (red zone (danger area)) : 1 meaning(s), 2 sentences
 - `thaipod-1367` : โดยเฉพาะ (especially, particularly) : 1 meaning(s), 2 sentences
 - `thaipod-1369` : โต (to grow up; large) : 2 meaning(s), 4 sentences
 - `thaipod-1371` : โต้รุ่ง ((open) all night, throughout the night) : 1 meaning(s), 2 sentences
 - `thaipod-1372` : โทรไม่ติด (can't get through (phone call)) : 1 meaning(s), 2 sentences
 - `thaipod-1374` : โบราณคดี (archaeology) : 1 meaning(s), 2 sentences
 - `thaipod-1376` : โปรดเกล้าฯ (by royal command, graciously granted by the King) : 1 meaning(s), 2 sentences
+- `thaipod-1377` : โพ้นทะเล (overseas, beyond the sea) : 1 meaning(s), 2 sentences
 - `thaipod-1379` : โรงฆ่า, โรงฆ่าสัตว์ (slaughterhouse) : 1 meaning(s), 2 sentences
 - `thaipod-1380` : โรงเรียนประจำ (boarding school) : 1 meaning(s), 2 sentences
 - `thaipod-1384` : โห่ร้อง (to cheer, to acclaim) : 1 meaning(s), 2 sentences
