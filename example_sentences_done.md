@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7644 words**
+**Total: 7654 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1196,12 +1196,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-313` : พับผ้า (to fold clothes) : 1 meaning(s), 2 sentences
 - `tamago-l12-314` : พัสดุ (parcel, package) : 1 meaning(s), 2 sentences
 - `tamago-l12-315` : พาย (to paddle, to row) : 1 meaning(s), 2 sentences
+- `tamago-l12-316` : พายเรือ (to row a boat) : 1 meaning(s), 2 sentences
 - `tamago-l12-317` : พาไป (to take someone somewhere) : 1 meaning(s), 2 sentences
 - `tamago-l12-318` : พิการ (handicapped, disabled) : 1 meaning(s), 2 sentences
 - `tamago-l12-319` : พิมพ์ (to type; to print) : 2 meaning(s), 4 sentences
 - `tamago-l12-320` : พิเศษไม่เหมือนใคร (unique, special unlike anything else) : 1 meaning(s), 2 sentences
 - `tamago-l12-321` : พุทธศักราช, พ.ศ. (Buddhist Era (BE)) : 1 meaning(s), 2 sentences
+- `tamago-l12-322` : ฟักทอง (pumpkin) : 1 meaning(s), 2 sentences
 - `tamago-l12-323` : ฟันดาบ (to fence (sport), to swordfight) : 1 meaning(s), 2 sentences
+- `tamago-l12-324` : ฟันปลอม (denture, false teeth) : 1 meaning(s), 2 sentences
 - `tamago-l12-325` : ฟิต (physically fit, in good shape (loanword)) : 1 meaning(s), 2 sentences
 - `tamago-l12-326` : ฟิตหุ่น (to get in shape) : 1 meaning(s), 2 sentences
 - `tamago-l12-327` : ฟ้าผ่า (lightning, thunderbolt) : 1 meaning(s), 2 sentences
@@ -1223,18 +1226,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-346` : ยิ่ง, ยิ่งขึ้น (more (so), even more) : 1 meaning(s), 2 sentences
 - `tamago-l12-347` : ยุติธรรม (fair, just) : 1 meaning(s), 2 sentences
 - `tamago-l12-348` : ยุ่งยาก (complicated, troublesome) : 1 meaning(s), 2 sentences
+- `tamago-l12-349` : ย่อหน้า (paragraph) : 1 meaning(s), 2 sentences
 - `tamago-l12-350` : ย้อม (to dye (hair, fabric)) : 1 meaning(s), 2 sentences
 - `tamago-l12-351` : ย้าย (to move (house); to transfer (e.g files)) : 2 meaning(s), 4 sentences
 - `tamago-l12-352` : รดน้ำ (to water (plants), to pour water) : 1 meaning(s), 2 sentences
 - `tamago-l12-353` : รถตู้ (minivan (taxi or shuttle)) : 1 meaning(s), 2 sentences
 - `tamago-l12-354` : รถบรรทุก (truck, cargo vehicle) : 1 meaning(s), 2 sentences
 - `tamago-l12-355` : รถบัส (bus) : 1 meaning(s), 2 sentences
+- `tamago-l12-356` : รถรับส่งสนามบิน (airport shuttle) : 1 meaning(s), 2 sentences
 - `tamago-l12-357` : รถเมล์ (city bus) : 1 meaning(s), 2 sentences
+- `tamago-l12-358` : รมควัน (to smoke (food), to fumigate) : 1 meaning(s), 2 sentences
 - `tamago-l12-359` : รวม (to include, including; total) : 2 meaning(s), 4 sentences
 - `tamago-l12-360` : รวมกัน (together, combined) : 1 meaning(s), 2 sentences
 - `tamago-l12-361` : รองเท้าผ้าใบ (sneakers) : 1 meaning(s), 2 sentences
 - `tamago-l12-362` : รองเท้าส้นสูง (high-heeled shoes) : 1 meaning(s), 2 sentences
 - `tamago-l12-364` : รักแร้ (armpit) : 1 meaning(s), 2 sentences
+- `tamago-l12-365` : รัฐศาสตร์ (political science (academic field)) : 1 meaning(s), 2 sentences
 - `tamago-l12-366` : รับ (to pick someone up; to receive) : 2 meaning(s), 4 sentences
 - `tamago-l12-367` : รับผิดชอบ (to take responsibility, to be responsible) : 1 meaning(s), 2 sentences
 - `tamago-l12-368` : รับสาย (to answer a call, pick up the phone) : 1 meaning(s), 2 sentences
@@ -1245,11 +1252,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-374` : ภาพ, รูปภาพ (picture, image, painting) : 1 meaning(s), 2 sentences
 - `tamago-l12-375` : ร่วง (to fall (off), to drop (e.g in large quantity like hairs)) : 1 meaning(s), 2 sentences
 - `tamago-l12-377` : ลดความอ้วน (to lose weight) : 1 meaning(s), 2 sentences
+- `tamago-l12-378` : ลอน (wave (of hair), curl) : 1 meaning(s), 2 sentences
 - `tamago-l12-379` : ละเอียด (detailed, thorough, fine (granular)) : 1 meaning(s), 2 sentences
 - `tamago-l12-380` : ลาน (yard, open area) : 1 meaning(s), 2 sentences
 - `tamago-l12-381` : ลานจอดรถ (parking lot) : 1 meaning(s), 2 sentences
+- `tamago-l12-383` : ลิ้นจี่ (lychee) : 1 meaning(s), 2 sentences
 - `tamago-l12-384` : ลูกน้อง (subordinate, underling) : 1 meaning(s), 2 sentences
 - `tamago-l12-385` : ลูกไม้ (lace (fabric); trick, maneuver) : 2 meaning(s), 4 sentences
+- `tamago-l12-386` : ลู่วิ่ง (treadmill) : 1 meaning(s), 2 sentences
 - `tamago-l12-387` : ล่าสุด (most recent, latest) : 1 meaning(s), 2 sentences
 - `tamago-l12-388` : วง (musical band; circle) : 2 meaning(s), 4 sentences
 - `tamago-l12-390` : วันก่อน (the other day) : 1 meaning(s), 2 sentences

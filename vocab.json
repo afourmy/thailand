@@ -37170,6 +37170,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "to row a boat",
+        "sentences": [
+          {
+            "thai": "วันหยุดเราไปพายเรือที่สวนสาธารณะ",
+            "en": "On our day off we went rowing at the park.",
+            "audio_src": "วันหยุดเราไปพายเรือที่สวนสาธารณะ",
+            "audio_en_src": "On our day off we went rowing at the park."
+          },
+          {
+            "thai": "พายเรือทวนน้ำเหนื่อยมาก",
+            "en": "Rowing against the current is exhausting.",
+            "audio_src": "พายเรือทวนน้ำเหนื่อยมาก",
+            "audio_en_src": "Rowing against the current is exhausting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37352,6 +37371,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "pumpkin",
+        "sentences": [
+          {
+            "thai": "ฟักทองผัดไข่เป็นเมนูโปรดของฉัน",
+            "en": "Stir-fried pumpkin with egg is my favorite dish.",
+            "audio_src": "ฟักทองผัดไข่เป็นเมนูโปรดของฉัน",
+            "audio_en_src": "Stir-fried pumpkin with egg is my favorite dish."
+          },
+          {
+            "thai": "ฮาโลวีนต้องแกะสลักฟักทอง",
+            "en": "For Halloween you have to carve a pumpkin.",
+            "audio_src": "ฮาโลวีนต้องแกะสลักฟักทอง",
+            "audio_en_src": "For Halloween you have to carve a pumpkin."
+          }
+        ]
+      }
     ]
   },
   {
@@ -37389,6 +37427,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "denture, false teeth",
+        "sentences": [
+          {
+            "thai": "คุณยายถอดฟันปลอมก่อนนอน",
+            "en": "Grandma takes out her dentures before bed.",
+            "audio_src": "คุณยายถอดฟันปลอมก่อนนอน",
+            "audio_en_src": "Grandma takes out her dentures before bed."
+          },
+          {
+            "thai": "เขาใส่ฟันปลอมมาหลายปีแล้ว",
+            "en": "He's worn dentures for years.",
+            "audio_src": "เขาใส่ฟันปลอมมาหลายปีแล้ว",
+            "audio_en_src": "He's worn dentures for years."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38125,6 +38182,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "paragraph",
+        "sentences": [
+          {
+            "thai": "อ่านย่อหน้าแรกให้ฟังหน่อย",
+            "en": "Read me the first paragraph.",
+            "audio_src": "อ่านย่อหน้าแรกให้ฟังหน่อย",
+            "audio_en_src": "Read me the first paragraph."
+          },
+          {
+            "thai": "เรียงความควรมีอย่างน้อยสามย่อหน้า",
+            "en": "An essay should have at least three paragraphs.",
+            "audio_src": "เรียงความควรมีอย่างน้อยสามย่อหน้า",
+            "audio_en_src": "An essay should have at least three paragraphs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38340,6 +38416,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "airport shuttle",
+        "sentences": [
+          {
+            "thai": "โรงแรมนี้มีรถรับส่งสนามบินฟรี",
+            "en": "This hotel has a free airport shuttle.",
+            "audio_src": "โรงแรมนี้มีรถรับส่งสนามบินฟรี",
+            "audio_en_src": "This hotel has a free airport shuttle."
+          },
+          {
+            "thai": "รถรับส่งสนามบินออกทุกครึ่งชั่วโมง",
+            "en": "The airport shuttle leaves every half hour.",
+            "audio_src": "รถรับส่งสนามบินออกทุกครึ่งชั่วโมง",
+            "audio_en_src": "The airport shuttle leaves every half hour."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38383,6 +38478,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "to smoke (food), to fumigate",
+        "sentences": [
+          {
+            "thai": "ร้านนี้รมควันหมูเองทุกเช้า",
+            "en": "This shop smokes its own pork every morning.",
+            "audio_src": "ร้านนี้รมควันหมูเองทุกเช้า",
+            "audio_en_src": "This shop smokes its own pork every morning."
+          },
+          {
+            "thai": "ต้องรมควันโกดังเพื่อไล่แมลง",
+            "en": "They have to fumigate the warehouse to get rid of insects.",
+            "audio_src": "ต้องรมควันโกดังเพื่อไล่แมลง",
+            "audio_en_src": "They have to fumigate the warehouse to get rid of insects."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38570,6 +38684,25 @@
     "sources": [
       "Tamago L1-2",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "political science (academic field)",
+        "sentences": [
+          {
+            "thai": "เธอเรียนรัฐศาสตร์ที่จุฬา",
+            "en": "She studies political science at Chula.",
+            "audio_src": "เธอเรียนรัฐศาสตร์ที่จุฬา",
+            "audio_en_src": "She studies political science at Chula."
+          },
+          {
+            "thai": "เขาจบรัฐศาสตร์แล้วไปทำงานกระทรวงต่างประเทศ",
+            "en": "He got a political science degree and went to work at the Foreign Ministry.",
+            "audio_src": "เขาจบรัฐศาสตร์แล้วไปทำงานกระทรวงต่างประเทศ",
+            "audio_en_src": "He got a political science degree and went to work at the Foreign Ministry."
+          }
+        ]
+      }
     ]
   },
   {
@@ -38939,6 +39072,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "wave (of hair), curl",
+        "sentences": [
+          {
+            "thai": "เธอไปดัดผมเป็นลอนใหญ่ๆ",
+            "en": "She got her hair permed in big waves.",
+            "audio_src": "เธอไปดัดผมเป็นลอนใหญ่ๆ",
+            "audio_en_src": "She got her hair permed in big waves."
+          },
+          {
+            "thai": "ผมของเธอเป็นลอนสวยตามธรรมชาติ",
+            "en": "Her hair has beautiful natural waves.",
+            "audio_src": "ผมของเธอเป็นลอนสวยตามธรรมชาติ",
+            "audio_en_src": "Her hair has beautiful natural waves."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39047,6 +39199,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "lychee",
+        "sentences": [
+          {
+            "thai": "ลิ้นจี่กำลังออกเยอะช่วงนี้",
+            "en": "Lychees are in season right now.",
+            "audio_src": "ลิ้นจี่กำลังออกเยอะช่วงนี้",
+            "audio_en_src": "Lychees are in season right now."
+          },
+          {
+            "thai": "น้ำลิ้นจี่เย็นๆชื่นใจมาก",
+            "en": "Iced lychee juice is so refreshing.",
+            "audio_src": "น้ำลิ้นจี่เย็นๆชื่นใจมาก",
+            "audio_en_src": "Iced lychee juice is so refreshing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -39134,6 +39305,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "treadmill",
+        "sentences": [
+          {
+            "thai": "ฝนตกก็วิ่งบนลู่วิ่งแทน",
+            "en": "When it rains, I run on the treadmill instead.",
+            "audio_src": "ฝนตกก็วิ่งบนลู่วิ่งแทน",
+            "audio_en_src": "When it rains, I run on the treadmill instead."
+          },
+          {
+            "thai": "ลู่วิ่งที่ฟิตเนสเต็มทุกเครื่อง",
+            "en": "All the treadmills at the gym are taken.",
+            "audio_src": "ลู่วิ่งที่ฟิตเนสเต็มทุกเครื่อง",
+            "audio_en_src": "All the treadmills at the gym are taken."
+          }
+        ]
+      }
     ]
   },
   {
