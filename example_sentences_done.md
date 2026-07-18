@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7814 words**
+**Total: 7824 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -2361,7 +2361,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-851` : ติดคุกฟรี (to go to jail for no reason) : 1 meaning(s), 2 sentences
 - `tamago-l3-852` : ลำพัง (alone, by oneself) : 1 meaning(s), 2 sentences
 - `tamago-l3-853` : ทีอย่างนี้ ("in a situation like this", "when it comes to this") : 1 meaning(s), 2 sentences
+- `tamago-l3-854` : คนด้อยโอกาส (underprivileged people) : 1 meaning(s), 2 sentences
 - `tamago-l3-855` : เอาตัวเองให้รอด (to survive on one's own, to make it out alive) : 1 meaning(s), 2 sentences
+- `tamago-l3-856` : ลักพาตัว (to kidnap) : 1 meaning(s), 2 sentences
 - `tamago-l3-857` : ขยะแขยง (disgusted, repulsed) : 1 meaning(s), 2 sentences
 - `tamago-l3-858` : ทำท่า (to pretend, to act like, to make a gesture (as if)) : 1 meaning(s), 2 sentences
 - `tamago-l3-859` : สยอง (horrible, terrifying, gruesome) : 1 meaning(s), 2 sentences
@@ -2378,6 +2380,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-870` : นอนค้าง (to stay overnight, to sleep over at someone's house) : 1 meaning(s), 2 sentences
 - `tamago-l3-871` : โน้มน้าว, โน้มน้าวใจ (to persuade, to win over) : 1 meaning(s), 2 sentences
 - `tamago-l3-872` : ราวกับ (as if, as though, like) : 1 meaning(s), 2 sentences
+- `tsl-001` : เฉี่ยว (to graze, to sideswipe (minor car collision, usually on the side)) : 1 meaning(s), 2 sentences
 - `tsl-002` : ลื่นล้ม (to slip and fall) : 1 meaning(s), 2 sentences
 - `tsl-003` : ตกบันได (to fall down the stairs) : 1 meaning(s), 2 sentences
 - `tsl-004` : สะดุด - สะดุดล้ม (to trip, to stumble - to trip and fall) : 2 meaning(s), 4 sentences
@@ -2431,14 +2434,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-056` : หมดไฟ (burned out, losing motivation (literally "run out of fire")) : 1 meaning(s), 2 sentences
 - `tsl-057` : โรคกระเพาะ (gastritis, stomach disease) : 1 meaning(s), 2 sentences
 - `tsl-058` : ของกินเล่น (snacks) : 1 meaning(s), 2 sentences
+- `tsl-060` : สาวสายปาร์ตี้ (party girl) : 1 meaning(s), 2 sentences
 - `tsl-061` : เอาเปรียบ (to take unfair advantage of, to exploit) : 1 meaning(s), 2 sentences
 - `tsl-062` : สายธรรมะ, สายธรรมะธัมโม (spiritually inclined person, one who follows Buddhist principles closely) : 1 meaning(s), 2 sentences
+- `tsl-063` : สายคาเฟ่ (café enthusiast, coffee lover) : 1 meaning(s), 2 sentences
 - `tsl-064` : สายฝอ (Westerner-culture enthusiast, a "farang lover" (slang)) : 1 meaning(s), 2 sentences
+- `tsl-065` : สายเกา (Korean-culture enthusiast (K-pop, K-drama)) : 1 meaning(s), 2 sentences
 - `tsl-066` : ลุย (to tackle head-on, to wade through, to go all out) : 1 meaning(s), 2 sentences
+- `tsl-067` : สายลุย (adventurous person, action-oriented) : 1 meaning(s), 2 sentences
 - `tsl-068` : สายมู (person into superstition (horoscope, lucky charms, astrology)) : 1 meaning(s), 2 sentences
 - `tsl-069` : สายเมา (heavy drinker, someone who enjoys getting drunk) : 1 meaning(s), 2 sentences
+- `tsl-070` : สายแจกเงิน, สายเปย์ (lavish spender, someone who likes to spend on others) : 1 meaning(s), 2 sentences
 - `tsl-071` : แทนที่จะ... แต่กลับ... ("instead of..., ... (something different)") : 1 meaning(s), 2 sentences
 - `tsl-073` : สอบตก (to fail an exam) : 1 meaning(s), 2 sentences
+- `tsl-074` : อากาศติดลบ (below-zero temperature, freezing) : 1 meaning(s), 2 sentences
 - `tsl-075` : บ้านนอก (countryside, rural area (spoken)) : 1 meaning(s), 2 sentences
 - `tsl-076` : น้ำหนักขึ้น (to gain weight) : 1 meaning(s), 2 sentences
 - `tsl-077` : เพิกเฉย (to ignore, to disregard, to turn a blind eye to) : 1 meaning(s), 2 sentences
@@ -2447,6 +2456,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-082` : หนังรักโรแมนติก (romantic movie) : 1 meaning(s), 2 sentences
 - `tsl-083` : หนังระทึกขวัญ (thriller (movie)) : 1 meaning(s), 2 sentences
 - `tsl-086` : ไม่ว่า... หรือ..., ต่างก็... ("no matter whether... or..., both...") : 1 meaning(s), 2 sentences
+- `tsl-087` : เลื่อนตำแหน่ง (to promote (an employee)) : 1 meaning(s), 2 sentences
 - `tsl-090` : ถูกหวย (to win the lottery) : 1 meaning(s), 2 sentences
 - `tsl-091` : ไปทำงานต่างประเทศ (to go on a business trip abroad) : 1 meaning(s), 2 sentences
 - `tsl-091b` : ไปทำงานต่างจังหวัด (to go on a business trip to another province) : 1 meaning(s), 2 sentences
