@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7263 words**
+**Total: 7273 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -57,21 +57,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-055` : ภูมิภาค (region) : 1 meaning(s), 2 sentences
 - `chula-l4-056` : ทะเลสาบ (lake) : 1 meaning(s), 2 sentences
 - `chula-l4-058` : โคม (lantern) : 1 meaning(s), 2 sentences
+- `chula-l4-059` : แหล่งน้ำ (water source) : 1 meaning(s), 2 sentences
 - `chula-l4-062` : ปัก (to pin, to stick) : 1 meaning(s), 2 sentences
 - `chula-l4-063` : ดวง (luck, fortune, fate; classifier for stars, suns, lights) : 2 meaning(s), 4 sentences
 - `chula-l4-064` : ดูดวง (to check one's fortune, to have a horoscope reading) : 1 meaning(s), 2 sentences
 - `chula-l4-065` : ทำนาย (to predict, to foretell) : 1 meaning(s), 2 sentences
 - `chula-l4-066` : โหราศาสตร์ (astrology) : 1 meaning(s), 2 sentences
 - `chula-l4-067` : ดาราศาสตร์ (astronomy) : 1 meaning(s), 2 sentences
+- `chula-l4-068` : งมงาย (credulous, gullible, blindly superstitious) : 1 meaning(s), 2 sentences
 - `chula-l4-069` : แม่น (accurate) : 1 meaning(s), 2 sentences
+- `chula-l4-070` : ไม่เข้าท่า (inappropriate, improper, absurd, makes no sense) : 1 meaning(s), 2 sentences
+- `chula-l4-071` : ทะเยอทะยาน (ambitious) : 1 meaning(s), 2 sentences
 - `chula-l4-072` : มุ่งมั่น (determined, focused) : 1 meaning(s), 2 sentences
 - `chula-l4-073` : เอาจริงเอาจัง (to take something seriously, to be diligent) : 1 meaning(s), 2 sentences
 - `chula-l4-074` : กังวล, วิตกกังวล (worried) : 1 meaning(s), 2 sentences
+- `chula-l4-075` : มีเมตตา (compassionate, kind-hearted, merciful) : 1 meaning(s), 2 sentences
 - `chula-l4-076` : เผชิญหน้า (to face, to confront) : 1 meaning(s), 2 sentences
+- `chula-l4-077` : กระตือรือร้น (enthusiastic, eager) : 1 meaning(s), 2 sentences
+- `chula-l4-078` : คล่องแคล่ว (agile, quick; skilled, fluent) : 2 meaning(s), 4 sentences
+- `chula-l4-079` : กระฉับกระเฉง (energetic, lively, active) : 1 meaning(s), 2 sentences
 - `chula-l4-080` : อวดดี (cocky, overconfident) : 1 meaning(s), 2 sentences
 - `chula-l4-081` : หยิ่ง (arrogant) : 1 meaning(s), 2 sentences
+- `chula-l4-082` : เงียบขรึม (quiet, reserved) : 1 meaning(s), 2 sentences
 - `chula-l4-083` : แข็งแกร่ง (tough, resilient) : 1 meaning(s), 2 sentences
 - `chula-l4-084` : ตรงไปตรงมา (straightforward, blunt) : 1 meaning(s), 2 sentences
+- `chula-l4-085` : เสแสร้ง (to pretend, to be hypocritical, to put on an act) : 1 meaning(s), 2 sentences
 - `chula-l4-088` : ก้าวร้าว (aggressive) : 1 meaning(s), 2 sentences
 - `chula-l4-090` : ดื้อ, ดื้อรั้น (stubborn, disobedient) : 1 meaning(s), 2 sentences
 - `chula-l4-094` : มีเสน่ห์ (charming, charismatic) : 1 meaning(s), 2 sentences

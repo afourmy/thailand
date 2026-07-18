@@ -1712,6 +1712,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "water source",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านนี้ใช้น้ำจากแหล่งน้ำธรรมชาติ",
+            "en": "This village gets its water from a natural water source.",
+            "audio_src": "หมู่บ้านนี้ใช้น้ำจากแหล่งน้ำธรรมชาติ",
+            "audio_en_src": "This village gets its water from a natural water source."
+          },
+          {
+            "thai": "หน้าแล้ง แหล่งน้ำหลายแห่งแห้งหมด",
+            "en": "In the dry season, many water sources dry up completely.",
+            "audio_src": "หน้าแล้ง แหล่งน้ำหลายแห่งแห้งหมด",
+            "audio_en_src": "In the dry season, many water sources dry up completely."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1917,6 +1936,25 @@
     "sources": [
       "Chulalongkorn L4",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "credulous, gullible, blindly superstitious",
+        "sentences": [
+          {
+            "thai": "เขาเชื่อหมอดูอย่างงมงาย",
+            "en": "He blindly believes fortune tellers.",
+            "audio_src": "เขาเชื่อหมอดูอย่างงมงาย",
+            "audio_en_src": "He blindly believes fortune tellers."
+          },
+          {
+            "thai": "บางคนงมงายเรื่องเครื่องรางมาก",
+            "en": "Some people are blindly superstitious about amulets.",
+            "audio_src": "บางคนงมงายเรื่องเครื่องรางมาก",
+            "audio_en_src": "Some people are blindly superstitious about amulets."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1957,6 +1995,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "inappropriate, improper, absurd, makes no sense",
+        "sentences": [
+          {
+            "thai": "ความคิดนี้ไม่เข้าท่าเลย",
+            "en": "This idea makes no sense at all.",
+            "audio_src": "ความคิดนี้ไม่เข้าท่าเลย",
+            "audio_en_src": "This idea makes no sense at all."
+          },
+          {
+            "thai": "เขาชอบเล่นมุกไม่เข้าท่า",
+            "en": "He's always making jokes that fall flat.",
+            "audio_src": "เขาชอบเล่นมุกไม่เข้าท่า",
+            "audio_en_src": "He's always making jokes that fall flat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1967,6 +2024,25 @@
     "sources": [
       "Chulalongkorn L4",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "ambitious",
+        "sentences": [
+          {
+            "thai": "เขาทะเยอทะยานมาก อยากเป็นเจ้าของธุรกิจ",
+            "en": "He's very ambitious, he wants to own his own business.",
+            "audio_src": "เขาทะเยอทะยานมาก อยากเป็นเจ้าของธุรกิจ",
+            "audio_en_src": "He's very ambitious, he wants to own his own business."
+          },
+          {
+            "thai": "ถ้าไม่ทะเยอทะยานบ้าง ก็ไม่ก้าวหน้า",
+            "en": "If you're not a bit ambitious, you won't get ahead.",
+            "audio_src": "ถ้าไม่ทะเยอทะยานบ้าง ก็ไม่ก้าวหน้า",
+            "audio_en_src": "If you're not a bit ambitious, you won't get ahead."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2066,6 +2142,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "compassionate, kind-hearted, merciful",
+        "sentences": [
+          {
+            "thai": "คุณครูมีเมตตากับเด็กทุกคน",
+            "en": "The teacher is kind-hearted with all the children.",
+            "audio_src": "คุณครูมีเมตตากับเด็กทุกคน",
+            "audio_en_src": "The teacher is kind-hearted with all the children."
+          },
+          {
+            "thai": "หลวงพ่อสอนให้มีเมตตาต่อสัตว์",
+            "en": "The monk teaches us to be compassionate toward animals.",
+            "audio_src": "หลวงพ่อสอนให้มีเมตตาต่อสัตว์",
+            "audio_en_src": "The monk teaches us to be compassionate toward animals."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2110,6 +2205,25 @@
       "Chulalongkorn L4",
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "enthusiastic, eager",
+        "sentences": [
+          {
+            "thai": "พนักงานใหม่กระตือรือร้นมาก",
+            "en": "The new employee is very enthusiastic.",
+            "audio_src": "พนักงานใหม่กระตือรือร้นมาก",
+            "audio_en_src": "The new employee is very enthusiastic."
+          },
+          {
+            "thai": "นักเรียนกระตือรือร้นที่จะเรียนรู้สิ่งใหม่ๆ",
+            "en": "The students are eager to learn new things.",
+            "audio_src": "นักเรียนกระตือรือร้นที่จะเรียนรู้สิ่งใหม่ๆ",
+            "audio_en_src": "The students are eager to learn new things."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2120,6 +2234,42 @@
     "sources": [
       "Chulalongkorn L4",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "agile, quick",
+        "sentences": [
+          {
+            "thai": "แมวปีนต้นไม้ได้อย่างคล่องแคล่ว",
+            "en": "The cat climbs trees nimbly.",
+            "audio_src": "แมวปีนต้นไม้ได้อย่างคล่องแคล่ว",
+            "audio_en_src": "The cat climbs trees nimbly."
+          },
+          {
+            "thai": "นักฟุตบอลคนนี้เคลื่อนไหวคล่องแคล่วมาก",
+            "en": "This footballer moves really quickly.",
+            "audio_src": "นักฟุตบอลคนนี้เคลื่อนไหวคล่องแคล่วมาก",
+            "audio_en_src": "This footballer moves really quickly."
+          }
+        ]
+      },
+      {
+        "meaning": "skilled, fluent",
+        "sentences": [
+          {
+            "thai": "เขาพูดภาษาอังกฤษได้คล่องแคล่ว",
+            "en": "He speaks English fluently.",
+            "audio_src": "เขาพูดภาษาอังกฤษได้คล่องแคล่ว",
+            "audio_en_src": "He speaks English fluently."
+          },
+          {
+            "thai": "พนักงานคนนี้ทำงานคล่องแคล่วมาก",
+            "en": "This employee is really quick and efficient.",
+            "audio_src": "พนักงานคนนี้ทำงานคล่องแคล่วมาก",
+            "audio_en_src": "This employee is really quick and efficient."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2129,6 +2279,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "energetic, lively, active",
+        "sentences": [
+          {
+            "thai": "ออกกำลังกายตอนเช้าทำให้รู้สึกกระฉับกระเฉง",
+            "en": "Exercising in the morning makes you feel energetic.",
+            "audio_src": "ออกกำลังกายตอนเช้าทำให้รู้สึกกระฉับกระเฉง",
+            "audio_en_src": "Exercising in the morning makes you feel energetic."
+          },
+          {
+            "thai": "คุณตาอายุแปดสิบแล้ว แต่ยังกระฉับกระเฉงอยู่เลย",
+            "en": "Grandpa is already eighty, but he's still full of energy.",
+            "audio_src": "คุณตาอายุแปดสิบแล้ว แต่ยังกระฉับกระเฉงอยู่เลย",
+            "audio_en_src": "Grandpa is already eighty, but he's still full of energy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -2196,6 +2365,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "quiet, reserved",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนเงียบขรึม ไม่ค่อยพูด",
+            "en": "He's the quiet type, he doesn't talk much.",
+            "audio_src": "เขาเป็นคนเงียบขรึม ไม่ค่อยพูด",
+            "audio_en_src": "He's the quiet type, he doesn't talk much."
+          },
+          {
+            "thai": "วันนี้พ่อดูเงียบขรึมกว่าปกติ มีอะไรหรือเปล่า",
+            "en": "Dad seems quieter than usual today, is something wrong?",
+            "audio_src": "วันนี้พ่อดูเงียบขรึมกว่าปกติ มีอะไรหรือเปล่า",
+            "audio_en_src": "Dad seems quieter than usual today, is something wrong?"
+          }
+        ]
+      }
     ]
   },
   {
@@ -2263,6 +2451,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L4"
+    ],
+    "examples": [
+      {
+        "meaning": "to pretend, to be hypocritical, to put on an act",
+        "sentences": [
+          {
+            "thai": "เขาเสแสร้งทำเป็นดีใจ ทั้งที่ไม่ได้ชอบเลย",
+            "en": "She pretended to be happy even though she didn't like it at all.",
+            "audio_src": "เขาเสแสร้งทำเป็นดีใจ ทั้งที่ไม่ได้ชอบเลย",
+            "audio_en_src": "She pretended to be happy even though she didn't like it at all."
+          },
+          {
+            "thai": "ไม่ต้องเสแสร้งมาดีกับฉันหรอก",
+            "en": "You don't have to fake being nice to me.",
+            "audio_src": "ไม่ต้องเสแสร้งมาดีกับฉันหรอก",
+            "audio_en_src": "You don't have to fake being nice to me."
+          }
+        ]
+      }
     ]
   },
   {
