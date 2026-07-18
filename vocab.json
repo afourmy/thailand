@@ -33037,6 +33037,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "thigh",
+        "sentences": [
+          {
+            "thai": "วิ่งเสร็จแล้วปวดต้นขามาก",
+            "en": "My thighs are so sore after the run.",
+            "audio_src": "วิ่งเสร็จแล้วปวดต้นขามาก",
+            "audio_en_src": "My thighs are so sore after the run."
+          },
+          {
+            "thai": "เขาโดนบอลอัดเข้าที่ต้นขา",
+            "en": "He took a ball right in the thigh.",
+            "audio_src": "เขาโดนบอลอัดเข้าที่ต้นขา",
+            "audio_en_src": "He took a ball right in the thigh."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33180,6 +33199,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "long bean (yard-long bean)",
+        "sentences": [
+          {
+            "thai": "ส้มตำใส่ถั่วฝักยาวด้วย",
+            "en": "Som tam has long beans in it too.",
+            "audio_src": "ส้มตำใส่ถั่วฝักยาวด้วย",
+            "audio_en_src": "Som tam has long beans in it too."
+          },
+          {
+            "thai": "แม่ผัดถั่วฝักยาวกับหมูสับ",
+            "en": "Mom stir-fried long beans with minced pork.",
+            "audio_src": "แม่ผัดถั่วฝักยาวกับหมูสับ",
+            "audio_en_src": "Mom stir-fried long beans with minced pork."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33219,6 +33257,25 @@
     "sources": [
       "Tamago L1-2",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to pedal, to kick (push with the foot)",
+        "sentences": [
+          {
+            "thai": "เขาถีบจักรยานขึ้นเนิน",
+            "en": "He pedaled his bike up the hill.",
+            "audio_src": "เขาถีบจักรยานขึ้นเนิน",
+            "audio_en_src": "He pedaled his bike up the hill."
+          },
+          {
+            "thai": "เธอถีบประตูจนเปิด",
+            "en": "She kicked the door open.",
+            "audio_src": "เธอถีบประตูจนเปิด",
+            "audio_en_src": "She kicked the door open."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33718,6 +33775,25 @@
     "sources": [
       "Tamago L1-2",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "sunflower",
+        "sentences": [
+          {
+            "thai": "ทุ่งทานตะวันกำลังบานสวยมาก",
+            "en": "The sunflower fields are in beautiful bloom.",
+            "audio_src": "ทุ่งทานตะวันกำลังบานสวยมาก",
+            "audio_en_src": "The sunflower fields are in beautiful bloom."
+          },
+          {
+            "thai": "ทานตะวันหันหน้าเข้าหาแสงแดด",
+            "en": "Sunflowers turn to face the sunlight.",
+            "audio_src": "ทานตะวันหันหน้าเข้าหาแสงแดด",
+            "audio_en_src": "Sunflowers turn to face the sunlight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33912,6 +33988,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "location, spot (especially for real estate, business suitability)",
+        "sentences": [
+          {
+            "thai": "ร้านนี้ขายดีเพราะทำเลดี",
+            "en": "This shop does well because it's in a good location.",
+            "audio_src": "ร้านนี้ขายดีเพราะทำเลดี",
+            "audio_en_src": "This shop does well because it's in a good location."
+          },
+          {
+            "thai": "คอนโดทำเลแบบนี้ราคาแพงแน่",
+            "en": "A condo in a location like this is bound to be expensive.",
+            "audio_src": "คอนโดทำเลแบบนี้ราคาแพงแน่",
+            "audio_en_src": "A condo in a location like this is bound to be expensive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -33955,6 +34050,25 @@
       "Tamago L1-2",
       "Thaipod101",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "scenery, landscape view",
+        "sentences": [
+          {
+            "thai": "จากยอดเขามองเห็นทิวทัศน์สวยมาก",
+            "en": "From the mountaintop the view is beautiful.",
+            "audio_src": "จากยอดเขามองเห็นทิวทัศน์สวยมาก",
+            "audio_en_src": "From the mountaintop the view is beautiful."
+          },
+          {
+            "thai": "ห้องนี้เห็นทิวทัศน์ของทะเล",
+            "en": "This room has a view of the sea.",
+            "audio_src": "ห้องนี้เห็นทิวทัศน์ของทะเล",
+            "audio_en_src": "This room has a view of the sea."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34082,6 +34196,25 @@
       "Tamago L1-2",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "diplomat, ambassador",
+        "sentences": [
+          {
+            "thai": "เขาเป็นทูตประจำประเทศญี่ปุ่น",
+            "en": "He's the ambassador to Japan.",
+            "audio_src": "เขาเป็นทูตประจำประเทศญี่ปุ่น",
+            "audio_en_src": "He's the ambassador to Japan."
+          },
+          {
+            "thai": "ลูกชายเธออยากเป็นทูต",
+            "en": "Her son wants to be a diplomat.",
+            "audio_src": "ลูกชายเธออยากเป็นทูต",
+            "audio_en_src": "Her son wants to be a diplomat."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34139,6 +34272,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "big belly (e.g pregnant or full)",
+        "sentences": [
+          {
+            "thai": "เธอท้องโตขึ้นทุกเดือน",
+            "en": "Her belly gets bigger every month.",
+            "audio_src": "เธอท้องโตขึ้นทุกเดือน",
+            "audio_en_src": "Her belly gets bigger every month."
+          },
+          {
+            "thai": "พ่อท้องโตขึ้นเพราะกินเบียร์ทุกวัน",
+            "en": "Dad's belly is getting big from drinking beer every day.",
+            "audio_src": "พ่อท้องโตขึ้นเพราะกินเบียร์ทุกวัน",
+            "audio_en_src": "Dad's belly is getting big from drinking beer every day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34242,6 +34394,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "firefighter",
+        "sentences": [
+          {
+            "thai": "นักดับเพลิงช่วยคนออกมาจากตึกได้ทัน",
+            "en": "The firefighters got the people out of the building in time.",
+            "audio_src": "นักดับเพลิงช่วยคนออกมาจากตึกได้ทัน",
+            "audio_en_src": "The firefighters got the people out of the building in time."
+          },
+          {
+            "thai": "ตอนเด็กเขาอยากเป็นนักดับเพลิง",
+            "en": "As a kid he wanted to be a firefighter.",
+            "audio_src": "ตอนเด็กเขาอยากเป็นนักดับเพลิง",
+            "audio_en_src": "As a kid he wanted to be a firefighter."
+          }
+        ]
+      }
     ]
   },
   {
@@ -34251,6 +34422,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L1-2"
+    ],
+    "examples": [
+      {
+        "meaning": "astronaut",
+        "sentences": [
+          {
+            "thai": "นักบินอวกาศต้องฝึกหนักหลายปี",
+            "en": "Astronauts have to train hard for years.",
+            "audio_src": "นักบินอวกาศต้องฝึกหนักหลายปี",
+            "audio_en_src": "Astronauts have to train hard for years."
+          },
+          {
+            "thai": "ลูกฉันฝันอยากเป็นนักบินอวกาศ",
+            "en": "My kid dreams of becoming an astronaut.",
+            "audio_src": "ลูกฉันฝันอยากเป็นนักบินอวกาศ",
+            "audio_en_src": "My kid dreams of becoming an astronaut."
+          }
+        ]
+      }
     ]
   },
   {

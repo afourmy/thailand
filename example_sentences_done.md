@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7614 words**
+**Total: 7624 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1066,11 +1066,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-168` : ต่อแถว, ต่อคิว (to get in line, to queue up) : 1 meaning(s), 2 sentences
 - `tamago-l12-169` : ต่อไปนี้ (the following; from now on, henceforth) : 2 meaning(s), 4 sentences
 - `tamago-l12-170` : ต่างหาก (rather, instead; separately) : 2 meaning(s), 4 sentences
+- `tamago-l12-171` : ต้นขา (thigh) : 1 meaning(s), 2 sentences
 - `tamago-l12-172` : ต้นไม้ (tree, plant) : 1 meaning(s), 2 sentences
 - `tamago-l12-173` : ต้ม (to boil) : 1 meaning(s), 2 sentences
 - `tamago-l12-174` : ถอด (to take off (clothes, shoes)) : 1 meaning(s), 2 sentences
 - `tamago-l12-175` : ถัดจาก (next to, right after (in sequence)) : 1 meaning(s), 2 sentences
+- `tamago-l12-176` : ถั่วฝักยาว (long bean (yard-long bean)) : 1 meaning(s), 2 sentences
 - `tamago-l12-177` : ถั่วลิสง (peanut) : 1 meaning(s), 2 sentences
+- `tamago-l12-179` : ถีบ (to pedal, to kick (push with the foot)) : 1 meaning(s), 2 sentences
 - `tamago-l12-180` : ถึง, ถึงจะ (even if, even though; to the point that) : 2 meaning(s), 4 sentences
 - `tamago-l12-182` : ถึงว่า... ("that's why...", "no wonder...") : 1 meaning(s), 2 sentences
 - `tamago-l12-183` : ถึงได้ ("that's why", "so that's why") : 1 meaning(s), 2 sentences
@@ -1086,21 +1089,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-193` : ทะเลาะ (to quarrel, to argue, to fight) : 1 meaning(s), 2 sentences
 - `tamago-l12-194` : ทั้งๆที่ (even though, despite the fact that) : 1 meaning(s), 2 sentences
 - `tamago-l12-195` : ทางลัด (shortcut) : 1 meaning(s), 2 sentences
+- `tamago-l12-196` : ทานตะวัน (sunflower) : 1 meaning(s), 2 sentences
 - `tamago-l12-197` : ทาย (to guess) : 1 meaning(s), 2 sentences
 - `tamago-l12-198` : ทำตก (to drop (accidentally)) : 1 meaning(s), 2 sentences
 - `tamago-l12-199` : ทำธุระ (to run an errand) : 1 meaning(s), 2 sentences
 - `tamago-l12-200` : ทำผิดพลาด (to make a mistake) : 1 meaning(s), 2 sentences
 - `tamago-l12-201` : ทำร้ายร่างกาย (to physically abuse, assault someone) : 1 meaning(s), 2 sentences
 - `tamago-l12-203` : ทำหกใส่ (to spill on) : 1 meaning(s), 2 sentences
+- `tamago-l12-204` : ทำเล (location, spot (especially for real estate, business suitability)) : 1 meaning(s), 2 sentences
 - `tamago-l12-205` : ทำไหม้ (to burn (accidentally)) : 1 meaning(s), 2 sentences
+- `tamago-l12-206` : ทิวทัศน์ (scenery, landscape view) : 1 meaning(s), 2 sentences
 - `tamago-l12-207` : ทิ้ง...ไว้ (to leave something behind somewhere) : 1 meaning(s), 2 sentences
 - `tamago-l12-208` : ทีไร (whenever, every time that) : 1 meaning(s), 2 sentences
 - `tamago-l12-211` : ทึ่ง (amazed, impressed) : 1 meaning(s), 2 sentences
 - `tamago-l12-212` : ทุเรียน (durian) : 1 meaning(s), 2 sentences
+- `tamago-l12-213` : ทูต (diplomat, ambassador) : 1 meaning(s), 2 sentences
 - `tamago-l12-214` : ท่าทาง ("it seems like"; gesture, manner, appearance) : 2 meaning(s), 4 sentences
+- `tamago-l12-215` : ท้องโต (big belly (e.g pregnant or full)) : 1 meaning(s), 2 sentences
 - `tamago-l12-216` : ธรรมเนียม (tradition, custom) : 1 meaning(s), 2 sentences
 - `tamago-l12-217` : นวดฝ่าเท้า (foot massage) : 1 meaning(s), 2 sentences
 - `tamago-l12-218` : นอกใจ (to cheat on someone (be unfaithful)) : 1 meaning(s), 2 sentences
+- `tamago-l12-219` : นักดับเพลิง (firefighter) : 1 meaning(s), 2 sentences
+- `tamago-l12-220` : นักบินอวกาศ (astronaut) : 1 meaning(s), 2 sentences
 - `tamago-l12-223` : นั่นน่ะสิ ("that's right!", "good point!") : 1 meaning(s), 2 sentences
 - `tamago-l12-224` : นั่นแหละที่มัน ("that's exactly it", "that's precisely it") : 1 meaning(s), 2 sentences
 - `tamago-l12-226` : นาย (you (pronoun for guys of the same age)) : 1 meaning(s), 2 sentences
