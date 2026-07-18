@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8094 words**
+**Total: 8104 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4515,6 +4515,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-484` : สวนสนุก (amusement park, theme park) : 1 meaning(s), 2 sentences
 - `tobo-485` : ภาระ (burden, responsibility) : 1 meaning(s), 2 sentences
 - `tobo-486` : ผิดกฎหมาย (illegal) : 1 meaning(s), 2 sentences
+- `tobo-488` : สิ้นหวัง (desperate, hopeless) : 1 meaning(s), 2 sentences
 - `tobo-490` : อัตโนมัติ (automatic) : 1 meaning(s), 2 sentences
 - `tobo-491` : สังคมนิยม (socialism) : 1 meaning(s), 2 sentences
 - `tobo-492` : แต่งตัว (to get dressed) : 1 meaning(s), 2 sentences
@@ -4530,6 +4531,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-504` : พี่เลี้ยงเด็ก (babysitter) : 1 meaning(s), 2 sentences
 - `tobo-505` : นกพิราบ (pigeon) : 1 meaning(s), 2 sentences
 - `tobo-506` : หอยนางรม (oyster) : 1 meaning(s), 2 sentences
+- `tobo-507` : หลักการ (principle) : 1 meaning(s), 2 sentences
 - `tobo-509` : รอด, รอดชีวิต (to survive) : 1 meaning(s), 2 sentences
 - `tobo-510` : รหัสผ่าน (password) : 1 meaning(s), 2 sentences
 - `tobo-511` : ที่โกนหนวด, มีดโกน (razor) : 1 meaning(s), 2 sentences
@@ -4539,12 +4541,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-515` : หนี้ (debt) : 1 meaning(s), 2 sentences
 - `tobo-516` : มุมมอง (perspective, point of view) : 1 meaning(s), 2 sentences
 - `tobo-517` : ประกาศนียบัตร (diploma, certificate) : 1 meaning(s), 2 sentences
+- `tobo-518` : การแก้แค้น (revenge) : 1 meaning(s), 2 sentences
 - `tobo-519` : สำนักงานใหญ่ (headquarters, main office) : 1 meaning(s), 2 sentences
 - `yt-c01-002` : บริหาร (to administer, manage) : 1 meaning(s), 2 sentences
+- `yt-c01-003` : สายงาน (line of work (field)) : 1 meaning(s), 2 sentences
 - `yt-c01-004` : โทรคมนาคม (telecommunications) : 1 meaning(s), 2 sentences
 - `yt-c01-005` : เฉพาะเจาะจง (specific) : 1 meaning(s), 2 sentences
+- `yt-c01-006` : การเผาไร่ (slash-and-burn farming, field burning) : 1 meaning(s), 2 sentences
 - `yt-c01-008` : แบ่งปัน (to share with others (e.g food, experience)) : 1 meaning(s), 2 sentences
 - `yt-c01-009` : สไลด์หนอน (euphemism for male masturbation (literally slide your worm)) : 1 meaning(s), 2 sentences
+- `yt-c01-011` : ภาพเหมารวม (stereotype) : 1 meaning(s), 2 sentences
+- `yt-c01-012` : เงินหมุน (cashflow, money moving in and out, living paycheck to paycheck) : 1 meaning(s), 2 sentences
+- `yt-c01-013` : สวะ (trash, scum, worthless person) : 1 meaning(s), 2 sentences
+- `yt-c01-014` : ความสม่ำเสมอ (consistency) : 1 meaning(s), 2 sentences
+- `yt-c01-016` : การกระทำ (actions, deeds) : 1 meaning(s), 2 sentences
 - `yt-c01-019` : สัญชาติ (nationality) : 1 meaning(s), 2 sentences
 - `yt-c01-021` : เนื้อหุ้มเหล็ก ((idiom) driving a motorbike is very dangerous (literally "flesh wrapping iron")) : 1 meaning(s), 2 sentences
 - `yt-c01-023` : สังสรรค์ (to get together, to socialize) : 1 meaning(s), 2 sentences
