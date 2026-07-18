@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7764 words**
+**Total: 7774 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1985,10 +1985,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-455` : ตามเคย (as usual, same as always, just like before) : 1 meaning(s), 2 sentences
 - `tamago-l3-456` : อายุยืนนาน (to live a long life) : 1 meaning(s), 2 sentences
 - `tamago-l3-457` : ในใจ (silently, inwardly, in one's heart) : 1 meaning(s), 2 sentences
+- `tamago-l3-458` : เถิด (ending particle expressing a wish ("may it be", "let it be")) : 1 meaning(s), 2 sentences
 - `tamago-l3-459` : มหาเศรษฐี (multimillionaire) : 1 meaning(s), 2 sentences
 - `tamago-l3-460` : หุ้น (stocks, shares) : 1 meaning(s), 2 sentences
+- `tamago-l3-461` : ยกมรดก (to bequeath, to pass down an inheritance) : 1 meaning(s), 2 sentences
 - `tamago-l3-462` : ขอทาน (beggar) : 1 meaning(s), 2 sentences
 - `tamago-l3-463` : ม.ต้น (middle school (lower secondary)) : 1 meaning(s), 2 sentences
+- `tamago-l3-464` : ผลิตภัณฑ์บำรุงผิว (skincare product) : 1 meaning(s), 2 sentences
 - `tamago-l3-465` : กระปุก (small container, jar (e.g for medicine, balm)) : 1 meaning(s), 2 sentences
 - `tamago-l3-466` : ซกมก (dirty, messy, filthy) : 1 meaning(s), 2 sentences
 - `tamago-l3-467` : ฐานะ (status, role, position, financial standing) : 1 meaning(s), 2 sentences
@@ -1999,10 +2002,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-472` : หลงตัวเอง (narcissistic, self-absorbed) : 1 meaning(s), 2 sentences
 - `tamago-l3-473` : ให้เกียรติ (to give respect, to show respect to) : 1 meaning(s), 2 sentences
 - `tamago-l3-474` : คู่ครอง (spouse, married partner) : 1 meaning(s), 2 sentences
+- `tamago-l3-475` : กริ่ง (bell (electrical like a buzzer, a door bell)) : 1 meaning(s), 2 sentences
 - `tamago-l3-476` : คลุมถุงชน (arranged marriage) : 1 meaning(s), 2 sentences
 - `tamago-l3-478` : เหยียบ (to step on, to tread on) : 1 meaning(s), 2 sentences
 - `tamago-l3-479` : ถึงขั้น (to the extent of, to the level of) : 1 meaning(s), 2 sentences
 - `tamago-l3-480` : ข้อดีข้อเสีย (pros and cons) : 1 meaning(s), 2 sentences
+- `tamago-l3-481` : ตุ๊ด (effeminate gay man, transvestite (slang, can be derogatory)) : 1 meaning(s), 2 sentences
 - `tamago-l3-482` : ส่วนสูง (height (of a person only)) : 1 meaning(s), 2 sentences
 - `wlt-c05-099` : ความสูง (height) : 1 meaning(s), 2 sentences
 - `tamago-l3-483` : สมบูรณ์แบบ (perfect, flawless) : 1 meaning(s), 2 sentences
@@ -2010,6 +2015,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-485` : คบหาดูใจ (to date, to get to know each other romantically) : 1 meaning(s), 2 sentences
 - `tamago-l3-486` : เกิดใหม่ (to be reborn, reincarnated) : 1 meaning(s), 2 sentences
 - `tamago-l3-487` : ดักรอ (to lie in wait, to ambush) : 1 meaning(s), 2 sentences
+- `tamago-l3-488` : สอบไม่ติด (to fail an entrance exam, to not get in) : 1 meaning(s), 2 sentences
 - `tamago-l3-489` : หัวไม่ไป (slow thinker, stupid (slang)) : 1 meaning(s), 2 sentences
 - `tamago-l3-490` : รุ่ง (to prosper, to succeed, to do well) : 1 meaning(s), 2 sentences
 - `tamago-l3-491` : ไม่เอาไหน (incompetent, to be no good at something) : 1 meaning(s), 2 sentences
@@ -2026,6 +2032,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-503` : ร้านสะดวกซื้อ (convenience store) : 1 meaning(s), 2 sentences
 - `tamago-l3-504` : พึ่ง, พึ่งพา (to rely on, to depend on) : 1 meaning(s), 2 sentences
 - `tamago-l3-505` : วงจำกัด (limit, limited scope) : 1 meaning(s), 2 sentences
+- `tamago-l3-506` : สีหน้า (facial expression, look on one's face, countenance) : 1 meaning(s), 2 sentences
 - `tamago-l3-507` : สดใส (bright, cheerful, lively) : 1 meaning(s), 2 sentences
 - `tamago-l3-508` : มนุษยสัมพันธ์ดี (sociable, with good interpersonal skills) : 1 meaning(s), 2 sentences
 - `tamago-l3-509` : ลัดคิว (to cut in line, to skip the queue) : 1 meaning(s), 2 sentences
@@ -2033,6 +2040,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-511` : สู้ไม่ได้ (no match for, "cannot beat", "cannot compete with") : 1 meaning(s), 2 sentences
 - `tamago-l3-512` : ผิดหูผิดตา (unrecognizably different, different from normal) : 1 meaning(s), 2 sentences
 - `tamago-l3-513` : เจอตัวจริง (to meet (someone) in person) : 1 meaning(s), 2 sentences
+- `tamago-l3-514` : ทุกประการ (in every respect, completely) : 1 meaning(s), 2 sentences
 - `tamago-l3-515` : เลิกคบ (to break up, to end a relationship or friendship) : 1 meaning(s), 2 sentences
 - `tamago-l3-516` : สอดรู้สอดเห็น (to be nosy, to stick one's nose into others' business) : 1 meaning(s), 2 sentences
 - `tamago-l3-517` : เสียดสี (to satirize, to criticize indirectly) : 1 meaning(s), 2 sentences
@@ -2057,10 +2065,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-538` : พอกันที ("that's enough!", "enough is enough", "I've had enough") : 1 meaning(s), 2 sentences
 - `tamago-l3-539` : ถึงจะอย่างนั้นก็เถอะ ("even so!", "even then") : 1 meaning(s), 2 sentences
 - `tamago-l3-540` : ตอแย (to persistently bother, to pester) : 1 meaning(s), 2 sentences
+- `tamago-l3-541` : ลดตำแหน่ง (to demote) : 1 meaning(s), 2 sentences
 - `tamago-l3-542` : สำนึกผิด (to repent, to feel remorse for one's wrongdoing) : 1 meaning(s), 2 sentences
 - `tamago-l3-543` : สมน้ำหน้า ("serves you right", "you deserve it") : 1 meaning(s), 2 sentences
 - `tamago-l3-545` : พิสูจน์ตัวเอง (to prove oneself) : 1 meaning(s), 2 sentences
 - `tamago-l3-547` : หน้าสด (bare face (without makeup)) : 1 meaning(s), 2 sentences
+- `tamago-l3-548` : เรียนให้ทราบ (to inform (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l3-549` : ถือเสียว่า (to consider it as, to treat it as) : 1 meaning(s), 2 sentences
 - `tamago-l3-550` : พลั้งปาก (to let slip (in conversation), to say something by accident) : 1 meaning(s), 2 sentences
 - `tamago-l3-551` : เช่นเคย (as usual, as always) : 1 meaning(s), 2 sentences
