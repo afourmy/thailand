@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8134 words**
+**Total: 8144 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4627,8 +4627,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-091` : ตัวเมือง (city center, downtown) : 1 meaning(s), 2 sentences
 - `yt-c01-092` : ประติมากรรม (sculpture) : 1 meaning(s), 2 sentences
 - `yt-c01-093` : เลียนแบบ (to imitate, to mimic) : 1 meaning(s), 2 sentences
+- `yt-c01-094` : สันดาน (nature, innate character (negative connotation, e.g bad nature)) : 1 meaning(s), 2 sentences
 - `yt-c01-095` : กล้องวงจรปิด (CCTV) : 1 meaning(s), 2 sentences
+- `yt-c01-096` : นายหน้า (broker, agent, intermediary (e.g real estate)) : 1 meaning(s), 2 sentences
+- `yt-c01-097` : ผู้ต้องขัง (inmate, detainee) : 1 meaning(s), 2 sentences
+- `yt-c01-098` : ผู้สูญหาย (missing person) : 1 meaning(s), 2 sentences
+- `yt-c01-099` : พ้นผิด (acquitted) : 1 meaning(s), 2 sentences
+- `yt-c02-000` : เรือนจำ (prison) : 1 meaning(s), 2 sentences
+- `yt-c02-001` : อุดมศึกษา (higher education (e.g university)) : 1 meaning(s), 2 sentences
 - `yt-c02-002` : นิ้วเบียด ("fat fingers", "my fingers slipped" (when typo on mobile)) : 1 meaning(s), 2 sentences
+- `yt-c02-003` : หลับนอน (to have sex) : 1 meaning(s), 2 sentences
+- `yt-c02-004` : ฟอกเงิน (to launder money) : 1 meaning(s), 2 sentences
+- `yt-c02-005` : รวยเงียบ (rich but not showing off, low-key wealthy) : 1 meaning(s), 2 sentences
 - `yt-c02-006` : หนังยาง (rubber band) : 1 meaning(s), 2 sentences
 - `yt-c02-011` : ล้อเลียน (to mock, to imitate in a mocking way, to ridicule) : 1 meaning(s), 2 sentences
 - `yt-c02-014` : ทรงพลัง (powerful, mighty) : 1 meaning(s), 2 sentences
