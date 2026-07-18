@@ -25273,6 +25273,25 @@
     "sources": [
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "manual, handbook",
+        "sentences": [
+          {
+            "thai": "อ่านคู่มือก่อนใช้งาน",
+            "en": "Read the manual before use.",
+            "audio_src": "อ่านคู่มือก่อนใช้งาน",
+            "audio_en_src": "Read the manual before use."
+          },
+          {
+            "thai": "คู่มือเล่มนี้เข้าใจง่ายมาก",
+            "en": "This handbook is really easy to understand.",
+            "audio_src": "คู่มือเล่มนี้เข้าใจง่ายมาก",
+            "audio_en_src": "This handbook is really easy to understand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25338,6 +25357,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "pregnant woman (formal)",
+        "sentences": [
+          {
+            "thai": "ที่นั่งนี้สำรองไว้สำหรับสตรีมีครรภ์",
+            "en": "This seat is reserved for pregnant women.",
+            "audio_src": "ที่นั่งนี้สำรองไว้สำหรับสตรีมีครรภ์",
+            "audio_en_src": "This seat is reserved for pregnant women."
+          },
+          {
+            "thai": "สตรีมีครรภ์ไม่ควรดื่มแอลกอฮอล์",
+            "en": "Pregnant women should not drink alcohol.",
+            "audio_src": "สตรีมีครรภ์ไม่ควรดื่มแอลกอฮอล์",
+            "audio_en_src": "Pregnant women should not drink alcohol."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25490,6 +25528,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "miserable, in a very bad state, ruined",
+        "sentences": [
+          {
+            "thai": "ช่วงนี้เศรษฐกิจย่ำแย่มาก",
+            "en": "The economy is in really bad shape these days.",
+            "audio_src": "ช่วงนี้เศรษฐกิจย่ำแย่มาก",
+            "audio_en_src": "The economy is in really bad shape these days."
+          },
+          {
+            "thai": "หลังตกงาน ชีวิตเขาก็ย่ำแย่ลงเรื่อยๆ",
+            "en": "After losing his job, his life just kept getting worse.",
+            "audio_src": "หลังตกงาน ชีวิตเขาก็ย่ำแย่ลงเรื่อยๆ",
+            "audio_en_src": "After losing his job, his life just kept getting worse."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25529,6 +25586,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to get out of control, to escalate",
+        "sentences": [
+          {
+            "thai": "เรื่องเล็กๆกลับบานปลายเป็นเรื่องใหญ่",
+            "en": "A small issue escalated into a big one.",
+            "audio_src": "เรื่องเล็กๆกลับบานปลายเป็นเรื่องใหญ่",
+            "audio_en_src": "A small issue escalated into a big one."
+          },
+          {
+            "thai": "ค่าใช้จ่ายเริ่มบานปลายแล้ว",
+            "en": "The costs are starting to balloon.",
+            "audio_src": "ค่าใช้จ่ายเริ่มบานปลายแล้ว",
+            "audio_en_src": "The costs are starting to balloon."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25597,6 +25673,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "in the millions, million-level",
+        "sentences": [
+          {
+            "thai": "บ้านหลังนี้ราคาหลักล้าน",
+            "en": "This house costs millions of baht.",
+            "audio_src": "บ้านหลังนี้ราคาหลักล้าน",
+            "audio_en_src": "This house costs millions of baht."
+          },
+          {
+            "thai": "เขามีรายได้หลักล้านต่อปี",
+            "en": "He makes millions of baht a year.",
+            "audio_src": "เขามีรายได้หลักล้านต่อปี",
+            "audio_en_src": "He makes millions of baht a year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25607,6 +25702,42 @@
     "sources": [
       "Chulalongkorn L6",
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to increase, to enhance, to upgrade",
+        "sentences": [
+          {
+            "thai": "เขาเล่นเกมทั้งคืนเพื่ออัพเลเวล",
+            "en": "He played the game all night to level up.",
+            "audio_src": "เขาเล่นเกมทั้งคืนเพื่ออัพเลเวล",
+            "audio_en_src": "He played the game all night to level up."
+          },
+          {
+            "thai": "ไปเรียนคอร์สนี้มา อัพสกิลได้เยอะเลย",
+            "en": "I took this course, it really leveled up my skills.",
+            "audio_src": "ไปเรียนคอร์สนี้มา อัพสกิลได้เยอะเลย",
+            "audio_en_src": "I took this course, it really leveled up my skills."
+          }
+        ]
+      },
+      {
+        "meaning": "to upload, to update (loanword)",
+        "sentences": [
+          {
+            "thai": "อัพรูปลงไอจีหรือยัง",
+            "en": "Did you upload the pics to Instagram yet?",
+            "audio_src": "อัพรูปลงไอจีหรือยัง",
+            "audio_en_src": "Did you upload the pics to Instagram yet?"
+          },
+          {
+            "thai": "เดี๋ยวอัพสตอรี่ให้ดู",
+            "en": "I'll post it to my story in a sec.",
+            "audio_src": "เดี๋ยวอัพสตอรี่ให้ดู",
+            "audio_en_src": "I'll post it to my story in a sec."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25707,6 +25838,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "GPA, average grade",
+        "sentences": [
+          {
+            "thai": "เทอมนี้ได้เกรดเฉลี่ยเท่าไหร่",
+            "en": "What's your GPA this semester?",
+            "audio_src": "เทอมนี้ได้เกรดเฉลี่ยเท่าไหร่",
+            "audio_en_src": "What's your GPA this semester?"
+          },
+          {
+            "thai": "เขาได้เกรดเฉลี่ยเกือบสี่",
+            "en": "He got almost a 4.0 GPA.",
+            "audio_src": "เขาได้เกรดเฉลี่ยเกือบสี่",
+            "audio_en_src": "He got almost a 4.0 GPA."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25716,6 +25866,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "academic year",
+        "sentences": [
+          {
+            "thai": "ปีการศึกษาใหม่เริ่มเดือนพฤษภาคม",
+            "en": "The new academic year starts in May.",
+            "audio_src": "ปีการศึกษาใหม่เริ่มเดือนพฤษภาคม",
+            "audio_en_src": "The new academic year starts in May."
+          },
+          {
+            "thai": "เขาจะเรียนจบในปีการศึกษานี้",
+            "en": "He will graduate this academic year.",
+            "audio_src": "เขาจะเรียนจบในปีการศึกษานี้",
+            "audio_en_src": "He will graduate this academic year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -25835,6 +26004,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "campaign",
+        "sentences": [
+          {
+            "thai": "บริษัทจะเปิดตัวแคมเปญใหม่เดือนหน้า",
+            "en": "The company is launching a new campaign next month.",
+            "audio_src": "บริษัทจะเปิดตัวแคมเปญใหม่เดือนหน้า",
+            "audio_en_src": "The company is launching a new campaign next month."
+          },
+          {
+            "thai": "แคมเปญนี้ได้ผลดีมาก",
+            "en": "This campaign worked really well.",
+            "audio_src": "แคมเปญนี้ได้ผลดีมาก",
+            "audio_en_src": "This campaign worked really well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -26172,6 +26360,25 @@
     "sources": [
       "Chulalongkorn L6",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "publishing house, publishing company",
+        "sentences": [
+          {
+            "thai": "หนังสือเล่มนี้ออกโดยสำนักพิมพ์เล็กๆ",
+            "en": "This book was put out by a small publisher.",
+            "audio_src": "หนังสือเล่มนี้ออกโดยสำนักพิมพ์เล็กๆ",
+            "audio_en_src": "This book was put out by a small publisher."
+          },
+          {
+            "thai": "เขาส่งต้นฉบับให้สำนักพิมพ์แล้ว",
+            "en": "He already sent his manuscript to the publisher.",
+            "audio_src": "เขาส่งต้นฉบับให้สำนักพิมพ์แล้ว",
+            "audio_en_src": "He already sent his manuscript to the publisher."
+          }
+        ]
+      }
     ]
   },
   {

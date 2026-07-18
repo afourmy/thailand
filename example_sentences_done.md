@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7554 words**
+**Total: 7564 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -815,22 +815,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-241` : เปิดตัว (to launch, introduce, unveil (event, product); to introduce a romantic partner to friends or family) : 2 meaning(s), 4 sentences
 - `chula-l6-242` : ปลื้ม, ปลื้มใจ (delighted, very pleased) : 1 meaning(s), 2 sentences
 - `chula-l6-243` : อธิบดี (director-general (of a government department)) : 1 meaning(s), 2 sentences
+- `chula-l6-244` : คู่มือ (manual, handbook) : 1 meaning(s), 2 sentences
 - `chula-l6-245` : ท้องเฟ้อ (indigestion, bloated stomach) : 1 meaning(s), 2 sentences
 - `chula-l6-246` : ร้อนใน (mouth ulcer, canker sore) : 1 meaning(s), 2 sentences
+- `chula-l6-247` : สตรีมีครรภ์ (pregnant woman (formal)) : 1 meaning(s), 2 sentences
 - `chula-l6-248` : วุ้น (jelly, gelatin) : 1 meaning(s), 2 sentences
 - `chula-l6-249` : วิงเวียน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l6-250` : สายพาน (conveyor belt) : 1 meaning(s), 2 sentences
 - `chula-l6-251` : เปื่อย (mushy, tender, falling apart (rot), easily shredded) : 1 meaning(s), 2 sentences
 - `chula-l6-252` : แกว่ง (to swing, to sway) : 1 meaning(s), 2 sentences
+- `chula-l6-253` : ย่ำแย่ (miserable, in a very bad state, ruined) : 1 meaning(s), 2 sentences
 - `chula-l6-254` : ตัวยง (die-hard, ardent, devoted) : 1 meaning(s), 2 sentences
+- `chula-l6-255` : บานปลาย (to get out of control, to escalate) : 1 meaning(s), 2 sentences
 - `chula-l6-256` : ไกลลิบ (very far away) : 1 meaning(s), 2 sentences
 - `chula-l6-257` : อัจฉริยะ (genius) : 1 meaning(s), 2 sentences
+- `chula-l6-258` : หลักล้าน (in the millions, million-level) : 1 meaning(s), 2 sentences
+- `chula-l6-259` : อัพ (to increase, to enhance, to upgrade; to upload, to update (loanword)) : 2 meaning(s), 4 sentences
 - `chula-l6-260` : เป็นชีวิตจิตใจ (wholeheartedly, with all one's heart) : 1 meaning(s), 2 sentences
 - `chula-l6-261` : แปลกใหม่ (novel, original, innovative, new and different) : 1 meaning(s), 2 sentences
 - `chula-l6-262` : กำกับ (to direct (movie, series)) : 1 meaning(s), 2 sentences
+- `chula-l6-263` : เกรดเฉลี่ย (GPA, average grade) : 1 meaning(s), 2 sentences
+- `chula-l6-264` : ปีการศึกษา (academic year) : 1 meaning(s), 2 sentences
 - `chula-l6-265` : ลอก (to copy (cheat); to peel, to shed (skin, paint)) : 2 meaning(s), 4 sentences
 - `chula-l6-266` : ค่าตอบแทน (compensation, remuneration) : 1 meaning(s), 2 sentences
 - `chula-l6-267` : เนื้อเรื่อง, โครงเรื่อง (plot, storyline) : 1 meaning(s), 2 sentences
+- `chula-l6-268` : แคมเปญ (campaign) : 1 meaning(s), 2 sentences
 - `chula-l6-269` : นักข่าว (reporter) : 1 meaning(s), 2 sentences
 - `chula-l6-270` : ผู้จัด (organizer; producer (of a movie, a show)) : 2 meaning(s), 4 sentences
 - `chula-l6-271` : อิ่มใจ (fulfilled, content at heart) : 1 meaning(s), 2 sentences
@@ -841,6 +850,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-276` : ข้อเท็จจริง (fact, factual matter) : 1 meaning(s), 2 sentences
 - `chula-l6-277` : ออกอากาศ (to broadcast, to air (on TV, radio, etc)) : 1 meaning(s), 2 sentences
 - `chula-l6-278` : พระเอก (main character, leading actor, hero) : 1 meaning(s), 2 sentences
+- `chula-l6-279` : สำนักพิมพ์ (publishing house, publishing company) : 1 meaning(s), 2 sentences
 - `chula-l6-280` : ซีรีส์วาย (BL (Boys' Love) series (from Japanese "yaoi")) : 1 meaning(s), 2 sentences
 - `chula-l6-281` : ประธานในพิธี (presiding guest of honor at a ceremony) : 1 meaning(s), 2 sentences
 - `chula-l6-282` : เจ้าภาพ (host) : 1 meaning(s), 2 sentences
