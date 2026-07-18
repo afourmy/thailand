@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8084 words**
+**Total: 8094 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4345,6 +4345,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-293` : เข้ากันได้ (to get along with, to be compatible) : 1 meaning(s), 2 sentences
 - `tobo-294` : อ่างล้างหน้า (bathroom sink) : 1 meaning(s), 2 sentences
 - `tobo-295` : ปีศาจ (devil, demon) : 1 meaning(s), 2 sentences
+- `tobo-296` : การคุกคาม (threat, harassment) : 1 meaning(s), 2 sentences
 - `tobo-297` : กระทะ (pan, frying pan) : 1 meaning(s), 2 sentences
 - `tobo-299` : ปอด (lung) : 1 meaning(s), 2 sentences
 - `tobo-300` : สถานการณ์ (situation, circumstances) : 1 meaning(s), 2 sentences
@@ -4361,6 +4362,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-311` : คำแนะนำ (advice, suggestion) : 1 meaning(s), 2 sentences
 - `tobo-312` : ความเศร้าโศก (grief, deep sorrow) : 1 meaning(s), 2 sentences
 - `tobo-314` : ความกรุณา (compassion, mercy, wanting to relieve others' suffering) : 1 meaning(s), 2 sentences
+- `tobo-315` : อสังหาริมทรัพย์ (real estate, property) : 1 meaning(s), 2 sentences
 - `tobo-317` : ความรับผิดชอบ (responsibility) : 1 meaning(s), 2 sentences
 - `tobo-318` : นักบุญ (saint) : 1 meaning(s), 2 sentences
 - `tobo-319` : เป้าหมาย (target, goal) : 1 meaning(s), 2 sentences
@@ -4400,6 +4402,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-358` : ขัดจังหวะ (to interrupt, to disturb the flow) : 1 meaning(s), 2 sentences
 - `tobo-359` : ฝึกให้เชื่อง (to tame) : 1 meaning(s), 2 sentences
 - `tobo-360` : สกุลเงิน (currency) : 1 meaning(s), 2 sentences
+- `tobo-361` : การขาด (absence, lack) : 1 meaning(s), 2 sentences
 - `tobo-362` : ความรุนแรง (violence) : 1 meaning(s), 2 sentences
 - `tobo-363` : อารมณ์ขัน (humor, sense of humor) : 1 meaning(s), 2 sentences
 - `tobo-364` : ปฏิสัมพันธ์ (interaction) : 1 meaning(s), 2 sentences
@@ -4409,6 +4412,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-368` : ลำดับความสำคัญ (priority) : 1 meaning(s), 2 sentences
 - `tobo-369` : ข้อตกลง (agreement) : 1 meaning(s), 2 sentences
 - `tobo-370` : คอ (neck) : 1 meaning(s), 2 sentences
+- `tobo-372` : การก่อสร้าง (construction) : 1 meaning(s), 2 sentences
 - `tobo-373` : กับดัก (trap) : 1 meaning(s), 2 sentences
 - `tobo-374` : ช่องว่าง (gap, space) : 1 meaning(s), 2 sentences
 - `tobo-375` : ล้อเล่น (to joke, to kid around) : 1 meaning(s), 2 sentences
@@ -4420,10 +4424,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-381` : ข้อเสนอแนะ (feedback, suggestion) : 1 meaning(s), 2 sentences
 - `tobo-383` : มีเมฆมาก (cloudy) : 1 meaning(s), 2 sentences
 - `tobo-384` : คำเชิญ (invitation) : 1 meaning(s), 2 sentences
+- `tobo-385` : การรักษา (treatment, cure) : 1 meaning(s), 2 sentences
 - `tobo-386` : ปัญญา (wisdom, intellect) : 1 meaning(s), 2 sentences
 - `tobo-387` : ยักษ์ (giant) : 1 meaning(s), 2 sentences
 - `tobo-388` : ทางเลือก (option, choice) : 1 meaning(s), 2 sentences
 - `tobo-390` : หายใจ (to breathe) : 1 meaning(s), 2 sentences
+- `tobo-391` : ผู้มีสิทธิเลือกตั้ง (voter (eligible voter)) : 1 meaning(s), 2 sentences
 - `tobo-392` : การฆ่าตัวตาย (suicide) : 1 meaning(s), 2 sentences
 - `tobo-394` : นายกเทศมนตรี (mayor) : 1 meaning(s), 2 sentences
 - `tobo-395` : ขีดจำกัด (limit) : 1 meaning(s), 2 sentences
@@ -4432,7 +4438,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-398` : การทำแท้ง (abortion) : 1 meaning(s), 2 sentences
 - `tobo-399` : ยืด (to stretch) : 1 meaning(s), 2 sentences
 - `tobo-400` : ประกัน (insurance, guarantee) : 1 meaning(s), 2 sentences
+- `tobo-401` : แนวนอน (horizontal) : 1 meaning(s), 2 sentences
 - `tobo-402` : ภัยพิบัติ (disaster) : 1 meaning(s), 2 sentences
+- `tobo-403` : แนวตั้ง (vertical) : 1 meaning(s), 2 sentences
 - `tobo-404` : มิตรภาพ (friendship) : 1 meaning(s), 2 sentences
 - `tobo-405` : ผู้อพยพ (immigrant, migrant) : 1 meaning(s), 2 sentences
 - `tobo-406` : รัฐมนตรี (minister (government)) : 1 meaning(s), 2 sentences
@@ -4453,6 +4461,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-421` : ความเห็นใจ (sympathy, empathy) : 1 meaning(s), 2 sentences
 - `tobo-422` : ผิดหวัง (disappointed) : 1 meaning(s), 2 sentences
 - `tobo-423` : ชีวภาพ (biological) : 1 meaning(s), 2 sentences
+- `tobo-424` : ความรู้สึกตัว (consciousness, awareness) : 1 meaning(s), 2 sentences
 - `tobo-425` : โต๊ะหัวเตียง (nightstand, bedside table) : 1 meaning(s), 2 sentences
 - `tobo-426` : ดอกเบี้ย (interest (financial)) : 1 meaning(s), 2 sentences
 - `tobo-427` : เครือข่าย (network) : 1 meaning(s), 2 sentences
@@ -4493,6 +4502,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tobo-469` : ขั้นสูง (advanced (level)) : 1 meaning(s), 2 sentences
 - `tobo-470` : น่าขยะแขยง (disgusting) : 1 meaning(s), 2 sentences
 - `tobo-471` : คอมมิวนิสต์ (communist (person, ideology)) : 1 meaning(s), 2 sentences
+- `tobo-472` : จระเข้ (crocodile) : 1 meaning(s), 2 sentences
 - `tobo-473` : ช่างเทคนิค (technician) : 1 meaning(s), 2 sentences
 - `tobo-474` : กระโปรงท้ายรถ (trunk (of a car)) : 1 meaning(s), 2 sentences
 - `tobo-475` : สาธารณะ (public) : 1 meaning(s), 2 sentences
