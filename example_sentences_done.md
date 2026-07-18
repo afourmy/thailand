@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7503 words**
+**Total: 7513 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -566,15 +566,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-442` : อ่อนกำลัง (to weaken, to lose strength) : 1 meaning(s), 2 sentences
 - `chula-l5-443` : หมอก (fog) : 1 meaning(s), 2 sentences
 - `chula-l5-444` : รับมือ (to cope, to handle, to deal with) : 1 meaning(s), 2 sentences
+- `chula-l5-445` : ตอนล่าง - ตอนกลาง - ตอนบน (lower part - central part - upper part) : 1 meaning(s), 2 sentences
 - `chula-l5-447` : ค่าย (camp) : 1 meaning(s), 2 sentences
+- `chula-l5-448` : หอการค้า (Chamber of Commerce) : 1 meaning(s), 2 sentences
+- `chula-l5-449` : พรมแดน (border) : 1 meaning(s), 2 sentences
 - `chula-l5-450` : คนแปลกหน้า (stranger) : 1 meaning(s), 2 sentences
+- `chula-l5-451` : ถั่วเหลือง (soybeans) : 1 meaning(s), 2 sentences
 - `chula-l5-452` : อ้อย (sugarcane) : 1 meaning(s), 2 sentences
 - `chula-l5-453` : กระทรวง (ministry) : 1 meaning(s), 2 sentences
+- `chula-l5-454` : เครื่องฟอกอากาศ (air purifier) : 1 meaning(s), 2 sentences
+- `chula-l5-455` : ครึ้ม (cloudy, shady, gloomy (e.g sky, atmosphere)) : 1 meaning(s), 2 sentences
 - `chula-l5-456` : ไล่ (to chase, pursue; to expel; to follow in sequence, go through one by one) : 3 meaning(s), 6 sentences
 - `chula-l5-457` : ย้ำ (to repeat, to emphasize, to reiterate) : 1 meaning(s), 2 sentences
 - `chula-l5-458` : ขัดข้อง (malfunctioning, to break down) : 1 meaning(s), 2 sentences
 - `chula-l6-001` : เรียบเรียง (to arrange, compose, organize) : 1 meaning(s), 2 sentences
+- `chula-l6-002` : พนักงานฝ่ายต้อนรับ (reception staff) : 1 meaning(s), 2 sentences
+- `chula-l6-003` : ตักเตือน (to warn, to caution, to admonish) : 1 meaning(s), 2 sentences
+- `chula-l6-004` : ว่ากล่าว (to scold, to reproach, to reprimand) : 1 meaning(s), 2 sentences
 - `chula-l6-005` : ความนับถือ (respect, esteem) : 1 meaning(s), 2 sentences
+- `chula-l6-006` : เกณฑ์ (criteria, benchmark; to recruit, to conscript) : 2 meaning(s), 4 sentences
 - `chula-l6-008` : ครบ, ครบถ้วน (thorough, complete) : 1 meaning(s), 2 sentences
 - `chula-l6-009` : รูปแบบ (format, form, pattern, model) : 1 meaning(s), 2 sentences
 - `chula-l6-012` : คณาจารย์ (faculty members, teaching staff) : 1 meaning(s), 2 sentences

@@ -17430,6 +17430,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "lower part - central part - upper part",
+        "sentences": [
+          {
+            "thai": "ภาคเหนือตอนบนอากาศหนาวกว่าตอนล่าง",
+            "en": "The upper North is colder than the lower part.",
+            "audio_src": "ภาคเหนือตอนบนอากาศหนาวกว่าตอนล่าง",
+            "audio_en_src": "The upper North is colder than the lower part."
+          },
+          {
+            "thai": "ฝนตกหนักในภาคกลางตอนล่าง",
+            "en": "Heavy rain is falling in the lower central region.",
+            "audio_src": "ฝนตกหนักในภาคกลางตอนล่าง",
+            "audio_en_src": "Heavy rain is falling in the lower central region."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17472,6 +17491,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "Chamber of Commerce",
+        "sentences": [
+          {
+            "thai": "เขาเป็นสมาชิกหอการค้าจังหวัด",
+            "en": "He's a member of the provincial Chamber of Commerce.",
+            "audio_src": "เขาเป็นสมาชิกหอการค้าจังหวัด",
+            "audio_en_src": "He's a member of the provincial Chamber of Commerce."
+          },
+          {
+            "thai": "หอการค้าจัดงานสัมมนาให้ธุรกิจรายย่อย",
+            "en": "The Chamber of Commerce held a seminar for small businesses.",
+            "audio_src": "หอการค้าจัดงานสัมมนาให้ธุรกิจรายย่อย",
+            "audio_en_src": "The Chamber of Commerce held a seminar for small businesses."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17483,6 +17521,25 @@
       "Chulalongkorn L5",
       "Chulalongkorn L6",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "border",
+        "sentences": [
+          {
+            "thai": "แม่น้ำโขงเป็นพรมแดนธรรมชาติระหว่างไทยกับลาว",
+            "en": "The Mekong River is a natural border between Thailand and Laos.",
+            "audio_src": "แม่น้ำโขงเป็นพรมแดนธรรมชาติระหว่างไทยกับลาว",
+            "audio_en_src": "The Mekong River is a natural border between Thailand and Laos."
+          },
+          {
+            "thai": "ด่านพรมแดนปิดตอนสองทุ่ม",
+            "en": "The border checkpoint closes at 8 p.m.",
+            "audio_src": "ด่านพรมแดนปิดตอนสองทุ่ม",
+            "audio_en_src": "The border checkpoint closes at 8 p.m."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17524,6 +17581,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "soybeans",
+        "sentences": [
+          {
+            "thai": "น้ำเต้าหู้ทำจากถั่วเหลือง",
+            "en": "Soy milk is made from soybeans.",
+            "audio_src": "น้ำเต้าหู้ทำจากถั่วเหลือง",
+            "audio_en_src": "Soy milk is made from soybeans."
+          },
+          {
+            "thai": "เกษตรกรภาคเหนือปลูกถั่วเหลืองหลังเก็บข้าว",
+            "en": "Farmers in the North grow soybeans after the rice harvest.",
+            "audio_src": "เกษตรกรภาคเหนือปลูกถั่วเหลืองหลังเก็บข้าว",
+            "audio_en_src": "Farmers in the North grow soybeans after the rice harvest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17594,6 +17670,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "air purifier",
+        "sentences": [
+          {
+            "thai": "ช่วงฝุ่นเยอะ เปิดเครื่องฟอกอากาศทั้งวัน",
+            "en": "When the dust is bad, I run the air purifier all day.",
+            "audio_src": "ช่วงฝุ่นเยอะ เปิดเครื่องฟอกอากาศทั้งวัน",
+            "audio_en_src": "When the dust is bad, I run the air purifier all day."
+          },
+          {
+            "thai": "เครื่องฟอกอากาศรุ่นนี้ขายดีมาก",
+            "en": "This model of air purifier sells really well.",
+            "audio_src": "เครื่องฟอกอากาศรุ่นนี้ขายดีมาก",
+            "audio_en_src": "This model of air purifier sells really well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17604,6 +17699,25 @@
     "sources": [
       "Chulalongkorn L5",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "cloudy, shady, gloomy (e.g sky, atmosphere)",
+        "sentences": [
+          {
+            "thai": "วันนี้ฟ้าครึ้มทั้งวัน ฝนคงจะตก",
+            "en": "The sky's been overcast all day, it's probably going to rain.",
+            "audio_src": "วันนี้ฟ้าครึ้มทั้งวัน ฝนคงจะตก",
+            "audio_en_src": "The sky's been overcast all day, it's probably going to rain."
+          },
+          {
+            "thai": "อากาศครึ้มแบบนี้เหมาะกับนอน",
+            "en": "Gloomy weather like this is perfect for sleeping in.",
+            "audio_src": "อากาศครึ้มแบบนี้เหมาะกับนอน",
+            "audio_en_src": "Gloomy weather like this is perfect for sleeping in."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17776,6 +17890,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "reception staff",
+        "sentences": [
+          {
+            "thai": "พนักงานฝ่ายต้อนรับพูดได้สามภาษา",
+            "en": "The receptionist speaks three languages.",
+            "audio_src": "พนักงานฝ่ายต้อนรับพูดได้สามภาษา",
+            "audio_en_src": "The receptionist speaks three languages."
+          },
+          {
+            "thai": "มีอะไรสอบถามได้ที่พนักงานฝ่ายต้อนรับ",
+            "en": "If you have any questions, ask the reception staff.",
+            "audio_src": "มีอะไรสอบถามได้ที่พนักงานฝ่ายต้อนรับ",
+            "audio_en_src": "If you have any questions, ask the reception staff."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17785,6 +17918,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to warn, to caution, to admonish",
+        "sentences": [
+          {
+            "thai": "ครูตักเตือนนักเรียนเรื่องมาสาย",
+            "en": "The teacher warned the students about coming late.",
+            "audio_src": "ครูตักเตือนนักเรียนเรื่องมาสาย",
+            "audio_en_src": "The teacher warned the students about coming late."
+          },
+          {
+            "thai": "เขาถูกตักเตือนเป็นลายลักษณ์อักษร",
+            "en": "He received a written warning.",
+            "audio_src": "เขาถูกตักเตือนเป็นลายลักษณ์อักษร",
+            "audio_en_src": "He received a written warning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17794,6 +17946,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L6"
+    ],
+    "examples": [
+      {
+        "meaning": "to scold, to reproach, to reprimand",
+        "sentences": [
+          {
+            "thai": "หัวหน้าว่ากล่าวพนักงานที่ทำผิดซ้ำ",
+            "en": "The boss reprimanded the employee for repeating the mistake.",
+            "audio_src": "หัวหน้าว่ากล่าวพนักงานที่ทำผิดซ้ำ",
+            "audio_en_src": "The boss reprimanded the employee for repeating the mistake."
+          },
+          {
+            "thai": "พ่อแม่ว่ากล่าวลูกด้วยเหตุผล ไม่ใช้อารมณ์",
+            "en": "The parents scold their kids with reason, not anger.",
+            "audio_src": "พ่อแม่ว่ากล่าวลูกด้วยเหตุผล ไม่ใช้อารมณ์",
+            "audio_en_src": "The parents scold their kids with reason, not anger."
+          }
+        ]
+      }
     ]
   },
   {
@@ -17836,6 +18007,42 @@
       "Thaipod101",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "criteria, benchmark",
+        "sentences": [
+          {
+            "thai": "คะแนนของเขาผ่านเกณฑ์พอดี",
+            "en": "His score just met the requirement.",
+            "audio_src": "คะแนนของเขาผ่านเกณฑ์พอดี",
+            "audio_en_src": "His score just met the requirement."
+          },
+          {
+            "thai": "น้ำหนักเด็กอยู่ในเกณฑ์ปกติ",
+            "en": "The baby's weight is in the normal range.",
+            "audio_src": "น้ำหนักเด็กอยู่ในเกณฑ์ปกติ",
+            "audio_en_src": "The baby's weight is in the normal range."
+          }
+        ]
+      },
+      {
+        "meaning": "to recruit, to conscript",
+        "sentences": [
+          {
+            "thai": "ผู้ชายไทยอายุยี่สิบเอ็ดต้องไปเกณฑ์ทหาร",
+            "en": "Thai men have to report for the military draft at twenty-one.",
+            "audio_src": "ผู้ชายไทยอายุยี่สิบเอ็ดต้องไปเกณฑ์ทหาร",
+            "audio_en_src": "Thai men have to report for the military draft at twenty-one."
+          },
+          {
+            "thai": "สมัยก่อนชาวบ้านถูกเกณฑ์ไปสร้างกำแพงเมือง",
+            "en": "In the old days, villagers were conscripted to build the city walls.",
+            "audio_src": "สมัยก่อนชาวบ้านถูกเกณฑ์ไปสร้างกำแพงเมือง",
+            "audio_en_src": "In the old days, villagers were conscripted to build the city walls."
+          }
+        ]
+      }
     ]
   },
   {
