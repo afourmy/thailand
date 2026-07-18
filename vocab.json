@@ -15548,6 +15548,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "coal",
+        "sentences": [
+          {
+            "thai": "โรงไฟฟ้าถ่านหินสร้างมลพิษเยอะ",
+            "en": "Coal power plants create a lot of pollution.",
+            "audio_src": "โรงไฟฟ้าถ่านหินสร้างมลพิษเยอะ",
+            "audio_en_src": "Coal power plants create a lot of pollution."
+          },
+          {
+            "thai": "หลายประเทศเลิกใช้ถ่านหินแล้ว",
+            "en": "Many countries have stopped using coal.",
+            "audio_src": "หลายประเทศเลิกใช้ถ่านหินแล้ว",
+            "audio_en_src": "Many countries have stopped using coal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15586,6 +15605,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to spread (of a disease or pest)",
+        "sentences": [
+          {
+            "thai": "ไข้เลือดออกระบาดหนักช่วงหน้าฝน",
+            "en": "Dengue fever spreads badly in the rainy season.",
+            "audio_src": "ไข้เลือดออกระบาดหนักช่วงหน้าฝน",
+            "audio_en_src": "Dengue fever spreads badly in the rainy season."
+          },
+          {
+            "thai": "โรคใหม่ระบาดไปทั่วโลกในไม่กี่เดือน",
+            "en": "The new disease spread around the world in just a few months.",
+            "audio_src": "โรคใหม่ระบาดไปทั่วโลกในไม่กี่เดือน",
+            "audio_en_src": "The new disease spread around the world in just a few months."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15596,6 +15634,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "inflation",
+        "sentences": [
+          {
+            "thai": "ปีนี้เงินเฟ้อสูง ของแพงขึ้นทุกอย่าง",
+            "en": "Inflation is high this year, everything is getting more expensive.",
+            "audio_src": "ปีนี้เงินเฟ้อสูง ของแพงขึ้นทุกอย่าง",
+            "audio_en_src": "Inflation is high this year, everything is getting more expensive."
+          },
+          {
+            "thai": "ธนาคารกลางขึ้นดอกเบี้ยเพื่อคุมเงินเฟ้อ",
+            "en": "The central bank raised interest rates to control inflation.",
+            "audio_src": "ธนาคารกลางขึ้นดอกเบี้ยเพื่อคุมเงินเฟ้อ",
+            "audio_en_src": "The central bank raised interest rates to control inflation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15605,6 +15662,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "rubber",
+        "sentences": [
+          {
+            "thai": "ภาคใต้ปลูกยางพารากันเยอะ",
+            "en": "They grow a lot of rubber in the South.",
+            "audio_src": "ภาคใต้ปลูกยางพารากันเยอะ",
+            "audio_en_src": "They grow a lot of rubber in the South."
+          },
+          {
+            "thai": "ราคายางพาราตกต่ำ ชาวสวนเดือดร้อน",
+            "en": "Rubber prices have dropped and growers are struggling.",
+            "audio_src": "ราคายางพาราตกต่ำ ชาวสวนเดือดร้อน",
+            "audio_en_src": "Rubber prices have dropped and growers are struggling."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15803,6 +15879,25 @@
       "Chulalongkorn L5",
       "TSL Chiang Mai",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "in this regard, therefore, with that said",
+        "sentences": [
+          {
+            "thai": "ร้านปิดปรับปรุงชั่วคราว ทั้งนี้ จะเปิดอีกครั้งวันจันทร์",
+            "en": "The shop is temporarily closed for renovations. It will reopen on Monday.",
+            "audio_src": "ร้านปิดปรับปรุงชั่วคราว ทั้งนี้ จะเปิดอีกครั้งวันจันทร์",
+            "audio_en_src": "The shop is temporarily closed for renovations. It will reopen on Monday."
+          },
+          {
+            "thai": "ค่าสมัครห้าร้อยบาท ทั้งนี้ รวมอาหารกลางวันแล้ว",
+            "en": "The registration fee is five hundred baht, which includes lunch.",
+            "audio_src": "ค่าสมัครห้าร้อยบาท ทั้งนี้ รวมอาหารกลางวันแล้ว",
+            "audio_en_src": "The registration fee is five hundred baht, which includes lunch."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15960,6 +16055,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to regain, to recover",
+        "sentences": [
+          {
+            "thai": "เศรษฐกิจเริ่มฟื้นตัวหลังโควิด",
+            "en": "The economy is starting to recover after COVID.",
+            "audio_src": "เศรษฐกิจเริ่มฟื้นตัวหลังโควิด",
+            "audio_en_src": "The economy is starting to recover after COVID."
+          },
+          {
+            "thai": "เขาสลบไปพักหนึ่งแล้วก็ฟื้น",
+            "en": "He was out cold for a bit and then came to.",
+            "audio_src": "เขาสลบไปพักหนึ่งแล้วก็ฟื้น",
+            "audio_en_src": "He was out cold for a bit and then came to."
+          }
+        ]
+      }
     ]
   },
   {
@@ -15969,6 +16083,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to shrink, to retract",
+        "sentences": [
+          {
+            "thai": "เสื้อโดนน้ำร้อนแล้วหด",
+            "en": "The shirt shrank in hot water.",
+            "audio_src": "เสื้อโดนน้ำร้อนแล้วหด",
+            "audio_en_src": "The shirt shrank in hot water."
+          },
+          {
+            "thai": "ยอดส่งออกหดตัวจากปีที่แล้ว",
+            "en": "Exports shrank from last year.",
+            "audio_src": "ยอดส่งออกหดตัวจากปีที่แล้ว",
+            "audio_en_src": "Exports shrank from last year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16013,6 +16146,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "dry, drought",
+        "sentences": [
+          {
+            "thai": "ปีนี้แล้งหนัก ข้าวเสียหายเยอะ",
+            "en": "There's a bad drought this year, a lot of the rice crop was damaged.",
+            "audio_src": "ปีนี้แล้งหนัก ข้าวเสียหายเยอะ",
+            "audio_en_src": "There's a bad drought this year, a lot of the rice crop was damaged."
+          },
+          {
+            "thai": "หน้าแล้งน้ำในเขื่อนเหลือน้อย",
+            "en": "In the dry season, the dam's water level gets low.",
+            "audio_src": "หน้าแล้งน้ำในเขื่อนเหลือน้อย",
+            "audio_en_src": "In the dry season, the dam's water level gets low."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16022,6 +16174,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "juicy, moist, saturated with liquid",
+        "sentences": [
+          {
+            "thai": "แตงโมลูกนี้หวานฉ่ำ",
+            "en": "This watermelon is sweet and juicy.",
+            "audio_src": "แตงโมลูกนี้หวานฉ่ำ",
+            "audio_en_src": "This watermelon is sweet and juicy."
+          },
+          {
+            "thai": "ฝนตกทั้งคืน ดินยังฉ่ำอยู่เลย",
+            "en": "It rained all night, the ground is still soaked.",
+            "audio_src": "ฝนตกทั้งคืน ดินยังฉ่ำอยู่เลย",
+            "audio_en_src": "It rained all night, the ground is still soaked."
+          }
+        ]
+      }
     ]
   },
   {
@@ -16031,6 +16202,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "librarian",
+        "sentences": [
+          {
+            "thai": "บรรณารักษ์ช่วยหาหนังสือให้",
+            "en": "The librarian helped me find the book.",
+            "audio_src": "บรรณารักษ์ช่วยหาหนังสือให้",
+            "audio_en_src": "The librarian helped me find the book."
+          },
+          {
+            "thai": "เธอทำงานเป็นบรรณารักษ์ที่ห้องสมุดมหาวิทยาลัย",
+            "en": "She works as a librarian at the university library.",
+            "audio_src": "เธอทำงานเป็นบรรณารักษ์ที่ห้องสมุดมหาวิทยาลัย",
+            "audio_en_src": "She works as a librarian at the university library."
+          }
+        ]
+      }
     ]
   },
   {

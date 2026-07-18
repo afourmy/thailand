@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7473 words**
+**Total: 7483 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -506,19 +506,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-379` : การเงิน (finance) : 1 meaning(s), 2 sentences
 - `chula-l5-380` : ลักษณนาม (classifier) : 1 meaning(s), 2 sentences
 - `chula-l5-381` : ความขัดแย้ง (conflict) : 1 meaning(s), 2 sentences
+- `chula-l5-382` : ถ่านหิน (coal) : 1 meaning(s), 2 sentences
 - `chula-l5-383` : เวชภัณฑ์ (pharmaceutical products, medical supplies) : 1 meaning(s), 2 sentences
+- `chula-l5-384` : ระบาด (to spread (of a disease or pest)) : 1 meaning(s), 2 sentences
+- `chula-l5-385` : เงินเฟ้อ (inflation) : 1 meaning(s), 2 sentences
+- `chula-l5-386` : ยางพารา (rubber) : 1 meaning(s), 2 sentences
 - `chula-l5-387` : สายการบิน (airline) : 1 meaning(s), 2 sentences
 - `chula-l5-389` : สมัคร (to apply) : 1 meaning(s), 2 sentences
 - `chula-l5-390` : ตรุษจีน (Chinese New Year) : 1 meaning(s), 2 sentences
 - `chula-l5-391` : สร้อย, สร้อยคอ (necklace) : 1 meaning(s), 2 sentences
 - `chula-l5-393` : เหล็ก (steel, iron) : 1 meaning(s), 2 sentences
 - `chula-l5-394` : ความมั่นคง (stability) : 1 meaning(s), 2 sentences
+- `chula-l5-395` : ทั้งนี้ (in this regard, therefore, with that said) : 1 meaning(s), 2 sentences
 - `chula-l5-396` : ฯลฯ (etc.) : 1 meaning(s), 2 sentences
 - `chula-l5-397` : พืช (plant) : 1 meaning(s), 2 sentences
 - `chula-l5-398` : รถประจำทาง (public bus) : 1 meaning(s), 2 sentences
 - `chula-l5-399` : กวาง (deer) : 1 meaning(s), 2 sentences
 - `chula-l5-400` : งบประมาณ (budget) : 1 meaning(s), 2 sentences
+- `chula-l5-401` : ฟื้น, ฟื้นตัว (to regain, to recover) : 1 meaning(s), 2 sentences
+- `chula-l5-402` : หด, หดตัว (to shrink, to retract) : 1 meaning(s), 2 sentences
 - `chula-l5-403` : ปรากฏ (to appear) : 1 meaning(s), 2 sentences
+- `chula-l5-404` : แล้ง (dry, drought) : 1 meaning(s), 2 sentences
+- `chula-l5-405` : ฉ่ำ (juicy, moist, saturated with liquid) : 1 meaning(s), 2 sentences
+- `chula-l5-406` : บรรณารักษ์ (librarian) : 1 meaning(s), 2 sentences
 - `chula-l5-408` : ฉีก (to tear, to rip) : 1 meaning(s), 2 sentences
 - `chula-l5-412` : โรควิตกกังวลทั่วไป (generalized anxiety disorder) : 1 meaning(s), 2 sentences
 - `chula-l5-417` : ปริมาณ (quantity, volume) : 1 meaning(s), 2 sentences
