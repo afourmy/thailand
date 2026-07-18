@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7353 words**
+**Total: 7363 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -276,13 +276,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-131` : ยกตัวอย่าง (to give an example) : 1 meaning(s), 2 sentences
 - `chula-l5-132` : โดดเด่น (to stand out, outstanding) : 1 meaning(s), 2 sentences
 - `chula-l5-133` : จัดแสดง (to exhibit, to show) : 1 meaning(s), 2 sentences
+- `chula-l5-134` : รอยพระพุทธบาท (Buddha's footprint (sacred symbol)) : 1 meaning(s), 2 sentences
+- `chula-l5-135` : รถพ่วง (trailer) : 1 meaning(s), 2 sentences
 - `chula-l5-136` : บรรทุก (to load, to carry) : 1 meaning(s), 2 sentences
+- `chula-l5-137` : เฉี่ยวชน (to bump into, to hit, to graze) : 1 meaning(s), 2 sentences
 - `chula-l5-138` : พลิก (to flip, to turn over) : 1 meaning(s), 2 sentences
+- `chula-l5-139` : คว่ำ (to turn upside down, to capsize) : 1 meaning(s), 2 sentences
 - `chula-l5-140` : กระจาย (to scatter) : 1 meaning(s), 2 sentences
+- `chula-l5-141` : เกลื่อน (scattered all over, littered everywhere) : 1 meaning(s), 2 sentences
 - `chula-l5-142` : จราจร (traffic) : 1 meaning(s), 2 sentences
 - `chula-l5-143` : กำลัง (force, power, strength) : 1 meaning(s), 2 sentences
+- `chula-l5-144` : อำนวยความสะดวก (to facilitate, to accommodate) : 1 meaning(s), 2 sentences
 - `chula-l5-145` : ทางหลวง (highway) : 1 meaning(s), 2 sentences
+- `chula-l5-146` : ติดประกาศ (to post a notice, to put up an announcement) : 1 meaning(s), 2 sentences
 - `chula-l5-149` : บรรจุ (to load, to pack; to contain) : 2 meaning(s), 4 sentences
+- `chula-l5-150` : สงวน (to preserve, to reserve, to refrain from using) : 1 meaning(s), 2 sentences
+- `chula-l5-151` : คู่กรณี (parties involved, both sides, the other party) : 1 meaning(s), 2 sentences
+- `chula-l5-152` : ข้าวเปลือก (paddy, unmilled rice (still in husk)) : 1 meaning(s), 2 sentences
 - `chula-l5-154` : มุ่งหน้า (to head toward, to make one's way to) : 1 meaning(s), 2 sentences
 - `chula-l5-156` : มูลค่า (value) : 1 meaning(s), 2 sentences
 - `chula-l5-157` : พยาน (witness) : 1 meaning(s), 2 sentences
