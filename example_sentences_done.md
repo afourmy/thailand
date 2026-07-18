@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8274 words**
+**Total: 8284 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4982,22 +4982,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c05-090` : ความเต็มใจ (willingness, readiness to do something) : 1 meaning(s), 2 sentences
 - `yt-c05-091` : ไม่ต้องทอน ("you can keep the change") : 1 meaning(s), 2 sentences
 - `yt-c05-092` : อิสระเสรี (complete freedom, full liberty) : 1 meaning(s), 2 sentences
+- `yt-c05-093` : ความชำนาญ (expertise) : 1 meaning(s), 2 sentences
 - `yt-c05-094` : ซด (to drink quickly and audibly, to slurp) : 1 meaning(s), 2 sentences
 - `yt-c05-095` : ทำไร่ (to farm, to do plantation work) : 1 meaning(s), 2 sentences
 - `yt-c05-096` : กตัญญู (grateful) : 1 meaning(s), 2 sentences
+- `yt-c05-098` : ช่วงรอยต่อ (transition period, transitional phase) : 1 meaning(s), 2 sentences
+- `yt-c06-000` : เผด็จการ (dictatorship) : 1 meaning(s), 2 sentences
+- `yt-c06-001` : ชี้นำ (to guide, to give directions) : 1 meaning(s), 2 sentences
+- `yt-c06-002` : สื่อกลาง (medium, intermediary) : 1 meaning(s), 2 sentences
 - `yt-c06-003` : ราวบันได (handrail) : 1 meaning(s), 2 sentences
 - `yt-c06-004` : เขย่า (to shake) : 1 meaning(s), 2 sentences
 - `yt-c06-007` : ตะขอ (hook (clothes, fishing, etc)) : 1 meaning(s), 2 sentences
 - `yt-c06-008` : สัมภาระ (baggage, luggage, belongings) : 1 meaning(s), 2 sentences
 - `yt-c06-009` : ขัน (basin) : 1 meaning(s), 2 sentences
 - `yt-c06-010` : สายฉีดตูด, สายชำระ (bidet spray (bum gun)) : 1 meaning(s), 2 sentences
+- `yt-c06-011` : โถฉี่, โถปัสสาวะ (urinal) : 1 meaning(s), 2 sentences
 - `yt-c06-012` : ติดนิสัย (to pick up a habit, to get used to a behavior) : 1 meaning(s), 2 sentences
 - `yt-c06-013` : ตัวต่อตัว (face-to-face, one-on-one) : 1 meaning(s), 2 sentences
+- `yt-c06-014` : วินมอเตอร์ไซค์ (วินโมไซค์) (motosai operating from a designated queue) : 1 meaning(s), 2 sentences
 - `yt-c06-015` : ตู้ข้างเตียง (bedside table) : 1 meaning(s), 2 sentences
 - `yt-c06-016` : ชักโครก (flush toilet (toilet that you can flush, ie normal toilet)) : 1 meaning(s), 2 sentences
 - `yt-c06-017` : ภาพลักษณ์ (public image, reputation, public perception) : 1 meaning(s), 2 sentences
+- `yt-c06-018` : ลักษณะบุคลิกภาพ (personality type, personality traits (e.g psychology, MBTI)) : 1 meaning(s), 2 sentences
 - `yt-c06-019` : สีแทน (tan color) : 1 meaning(s), 2 sentences
 - `yt-c06-020` : มัด (to tie, to bind, to bundle) : 1 meaning(s), 2 sentences
+- `yt-c06-021` : เด่นชัด (clear, evident, distinct) : 1 meaning(s), 2 sentences
+- `yt-c06-022` : โดดเดี่ยว (alone, isolated) : 1 meaning(s), 2 sentences
 - `yt-c06-023` : ลองผิดลองถูก (trial and error) : 1 meaning(s), 2 sentences
 - `yt-c06-025` : ความอ่อนโยน (gentleness, tenderness) : 1 meaning(s), 2 sentences
 - `yt-c06-027` : ที่อุดหู (ear plug) : 1 meaning(s), 2 sentences
