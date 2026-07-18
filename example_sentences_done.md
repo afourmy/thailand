@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7664 words**
+**Total: 7674 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1308,11 +1308,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-433` : หงส์ (swan) : 1 meaning(s), 2 sentences
 - `tamago-l12-434` : หนังสือเรียน (textbook) : 1 meaning(s), 2 sentences
 - `tamago-l12-435` : หนา (thick) : 1 meaning(s), 2 sentences
+- `tamago-l12-436` : หน่อไม้ฝรั่ง (asparagus) : 1 meaning(s), 2 sentences
 - `tamago-l12-437` : หน้าตา (face, appearance, looks) : 1 meaning(s), 2 sentences
 - `tamago-l12-439` : หน้าอก (chest; breast) : 2 meaning(s), 4 sentences
 - `tamago-l12-440` : หมวกอาบน้ำ (shower cap) : 1 meaning(s), 2 sentences
+- `tamago-l12-441` : หมอนข้าง (body pillow, bolster) : 1 meaning(s), 2 sentences
 - `tamago-l12-442` : หมัก (to ferment (food, drinks)) : 1 meaning(s), 2 sentences
 - `tamago-l12-443` : หมากรุก (chess) : 1 meaning(s), 2 sentences
+- `tamago-l12-444` : หมีขั้วโลก (polar bear) : 1 meaning(s), 2 sentences
 - `tamago-l12-445` : หยิก (to pinch; curly, wavy (of hair)) : 2 meaning(s), 4 sentences
 - `tamago-l12-446` : หรู (luxurious, fancy) : 1 meaning(s), 2 sentences
 - `tamago-l12-447` : หลงกล (to be tricked, fooled, fall into a trap) : 1 meaning(s), 2 sentences
@@ -1323,23 +1326,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-452` : หวังดี (to mean well, to have good intentions) : 1 meaning(s), 2 sentences
 - `tamago-l12-453` : หอ (dormitory, dorm; tower) : 2 meaning(s), 4 sentences
 - `tamago-l12-454` : หัวหน้า (boss, head, supervisor) : 1 meaning(s), 2 sentences
+- `tamago-l12-455` : หัวไชเท้า (radish, daikon) : 1 meaning(s), 2 sentences
 - `tamago-l12-456` : หั่น (to chop, to slice) : 1 meaning(s), 2 sentences
 - `tamago-l12-457` : หายงอน (to stop sulking, to get over a huff) : 1 meaning(s), 2 sentences
+- `tamago-l12-458` : หายร้อน (to cool down, to get rid of the heat) : 1 meaning(s), 2 sentences
 - `tamago-l12-459` : หุบเขา (valley) : 1 meaning(s), 2 sentences
 - `tamago-l12-460` : ห่วย (to suck at, to be terrible at) : 1 meaning(s), 2 sentences
 - `tamago-l12-461` : ห่อ (to wrap) : 1 meaning(s), 2 sentences
+- `tamago-l12-462` : ห่าน (goose) : 1 meaning(s), 2 sentences
 - `tamago-l12-463` : ห้องพัก (guest room, hotel room) : 1 meaning(s), 2 sentences
 - `tamago-l12-464` : องุ่น (grape) : 1 meaning(s), 2 sentences
 - `tamago-l12-465` : อด (to skip, to abstain from, to go without) : 1 meaning(s), 2 sentences
+- `tamago-l12-466` : อบแห้ง (to dry, to dehydrate (food)) : 1 meaning(s), 2 sentences
 - `tamago-l12-467` : อพยพ (to migrate, evacuate, relocate) : 1 meaning(s), 2 sentences
 - `tamago-l12-468` : อยู่ดี (anyway, regardless) : 1 meaning(s), 2 sentences
 - `tamago-l12-469` : อย่าง (classifier for abstract things, type, kind) : 1 meaning(s), 2 sentences
+- `tamago-l12-472` : อย่างไรก็ดี (anyway, however, nevertheless (formal)) : 1 meaning(s), 2 sentences
 - `tamago-l12-473` : อย่าดีกว่า ("better not (do it)", "I suggest you don't...") : 1 meaning(s), 2 sentences
 - `tamago-l12-474` : อลังการ (magnificent, splendid, grand) : 1 meaning(s), 2 sentences
 - `tamago-l12-475` : อะไรพวกนี้ (things like that) : 1 meaning(s), 2 sentences
 - `tamago-l12-476` : อะไรแบบนี้ (stuff like that, things like this) : 1 meaning(s), 2 sentences
 - `tamago-l12-477` : อักษรศาสตร์ (humanities, liberal arts (study of language, culture)) : 1 meaning(s), 2 sentences
 - `tamago-l12-478` : อับอาย (ashamed, embarrassed, humiliated) : 1 meaning(s), 2 sentences
+- `tamago-l12-479` : อาการโมโหง่าย (being short-tempered, easily angered) : 1 meaning(s), 2 sentences
 - `tamago-l12-480` : อาจารย์ (university professor; teacher (respectful)) : 2 meaning(s), 4 sentences
 - `tamago-l12-481` : อาละวาด (to act violently, to go on a rampage) : 1 meaning(s), 2 sentences
 - `tamago-l12-482` : อิดออด (reluctant, unwilling to do something) : 1 meaning(s), 2 sentences
@@ -1352,6 +1361,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-489` : อ้วก (to vomit (informal)) : 1 meaning(s), 2 sentences
 - `tamago-l12-490` : เกะกะ (cluttered, obstructed, in the way) : 1 meaning(s), 2 sentences
 - `tamago-l12-491` : เกาะ (island; to cling, to hold on to) : 2 meaning(s), 4 sentences
+- `tamago-l12-492` : เกาเหลา (Thai-Chinese clear soup (without noodles)) : 1 meaning(s), 2 sentences
 - `tamago-l12-493` : เกี๊ยวไข่ทอด (deep-fried quail egg wonton) : 1 meaning(s), 2 sentences
 - `tamago-l12-494` : เขียง (cutting board) : 1 meaning(s), 2 sentences
 - `tamago-l12-495` : เข้างาน (to go to work, to start a shift) : 1 meaning(s), 2 sentences
