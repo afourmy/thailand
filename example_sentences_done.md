@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8114 words**
+**Total: 8124 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4581,20 +4581,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c01-042` : กำขี้ดีกว่ากำตด (something is better than nothing ("grabbing shit is better than grabbing a fart")) : 1 meaning(s), 2 sentences
 - `yt-c01-043` : จับปลาสองมือ (do too many things at once ("catch fish in each hand") (often used for men hitting on many girls at once)) : 1 meaning(s), 2 sentences
 - `yt-c01-044` : แมวไม่อยู่หนูร่าเริง (when the cat is away, mice will play) : 1 meaning(s), 2 sentences
+- `yt-c01-045` : เข้าหูซ้ายทะลุหูขวา (in one ear, out the other) : 1 meaning(s), 2 sentences
+- `yt-c01-046` : ง่ายเหมือนปอกกล้วยเข้าปาก (very easy, easy as pie ("easy as peeling a banana")) : 1 meaning(s), 2 sentences
 - `yt-c01-047` : ปิดทองหลังพระ (doing good deeds in secret, without seeking recognition ("put gold behind Buddha statue")) : 1 meaning(s), 2 sentences
 - `yt-c01-048` : คุณค่าของคนอยู่ที่ผลงาน (a person's value lies in their work, their results) : 1 meaning(s), 1 sentences
+- `yt-c01-049` : ไม่มีอะไรสายเกินแก้ (it's never too late to fix) : 1 meaning(s), 2 sentences
 - `yt-c01-050` : ความพยายามอยู่ที่ไหน ความสำเร็จอยู่ที่นั้น (where there is effort, there is success) : 1 meaning(s), 1 sentences
+- `yt-c01-051` : ทำดีได้ดี ทำชั่วได้ชั่ว ("what goes around comes around", "you reap what you sow") : 1 meaning(s), 2 sentences
 - `yt-c01-052` : คบคนพาล พาลไปหาผิด คบบัณฑิต บัณฑิตพาไปหาผล (bad company leads to trouble, wise company to success) : 1 meaning(s), 1 sentences
 - `yt-c01-053` : นกน้อยทำรังแต่พอตัว (live within your means ("a small bird builds a nest just big enough for himself")) : 1 meaning(s), 1 sentences
 - `yt-c01-055` : เข้าเถื่อนอย่าลืมพร้า (when entering the jungle, don't forget your machete) : 1 meaning(s), 1 sentences
 - `yt-c01-056` : น้ำขึ้นให้รีบตัก (quickly take opportunities as they arise ("quickly fetch the water during the rising tide")) : 1 meaning(s), 1 sentences
+- `yt-c01-057` : เอาใจเขามาใส่ใจเรา (to "put oneself in someone else's shoes", to empathize with others ("put his/her heart into our heart")) : 1 meaning(s), 2 sentences
 - `yt-c01-058` : หมากัดอย่ากัดตอบ (don't respond to aggression with aggression ("dog bites, don't bite back")) : 1 meaning(s), 1 sentences
 - `yt-c01-059` : ดำรง (to hold (e.g a position), to maintain, to preserve) : 1 meaning(s), 2 sentences
 - `yt-c01-060` : วุฒิสภา (senate) : 1 meaning(s), 2 sentences
 - `yt-c01-061` : ตำแหน่ง (position, job title) : 1 meaning(s), 2 sentences
 - `yt-c01-063` : การกุศล (charity) : 1 meaning(s), 2 sentences
+- `yt-c01-064` : นักเคลื่อนไหว (activist) : 1 meaning(s), 2 sentences
+- `yt-c01-065` : ที่รองแก้ว (coaster (flat object placed under a glass to protect the table)) : 1 meaning(s), 2 sentences
+- `yt-c01-066` : องค์กรไม่แสวงหากำไร (non-profit organization) : 1 meaning(s), 2 sentences
 - `yt-c01-067` : ใช้ประโยชน์ (to take advantage of, to make use of) : 1 meaning(s), 2 sentences
 - `yt-c01-068` : ข้อมูลพื้นฐาน (basic information, fundamental data) : 1 meaning(s), 2 sentences
+- `yt-c01-069` : กิจกรรมทางปัญญา (intellectual activities) : 1 meaning(s), 2 sentences
+- `yt-c01-070` : การพิจารณาคดี (trial, court proceedings) : 1 meaning(s), 2 sentences
 - `yt-c01-072` : มหาอุทกภัย (great flooding (2011)) : 1 meaning(s), 2 sentences
 - `yt-c01-073` : เขื่อน (dam) : 1 meaning(s), 2 sentences
 - `yt-c01-078` : กัดเซาะ (to erode, to corrode, to wear away) : 1 meaning(s), 2 sentences
