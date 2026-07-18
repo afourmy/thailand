@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7714 words**
+**Total: 7724 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -1634,9 +1634,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-076` : รายการ (TV show, program; list, item) : 2 meaning(s), 4 sentences
 - `tamago-l3-077` : คิดเลข (to calculate, to do arithmetic) : 1 meaning(s), 2 sentences
 - `tamago-l3-078` : อวด, โอ้อวด (to show off, to brag) : 1 meaning(s), 2 sentences
+- `tamago-l3-079` : มุมกล้อง (camera angle) : 1 meaning(s), 2 sentences
 - `tamago-l3-080` : คนรอบข้าง (the people around) : 1 meaning(s), 2 sentences
 - `tamago-l3-081` : ประกวด (to enter a contest, to compete) : 1 meaning(s), 2 sentences
 - `tamago-l3-082` : มัวแต่ (to waste time doing something, to be absorbed in (and neglect other things)) : 1 meaning(s), 2 sentences
+- `tamago-l3-084` : ผู้เข้าแข่งขัน (contestant, competitor) : 1 meaning(s), 2 sentences
 - `tamago-l3-085` : พหูพจน์ (plural (grammar)) : 1 meaning(s), 2 sentences
 - `tamago-l3-086` : ร้องตาม (to sing along) : 1 meaning(s), 2 sentences
 - `tamago-l3-087` : ท่อน (line, section, segment) : 1 meaning(s), 2 sentences
@@ -1661,7 +1663,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-107` : รู้ใจ (to deeply know someone's feelings, thoughts) : 1 meaning(s), 2 sentences
 - `tamago-l3-108` : สุภาพบุรุษ (gentleman) : 1 meaning(s), 2 sentences
 - `tamago-l3-109` : ผ่อน (to pay by installments; to ease, to relax, to lighten, to reduce intensity) : 2 meaning(s), 4 sentences
+- `tamago-l3-110` : ห้องภาพ (gallery, photo studio) : 1 meaning(s), 2 sentences
 - `tamago-l3-111` : ตาถึง (to have a good eye, to spot quality quickly) : 1 meaning(s), 2 sentences
+- `tamago-l3-114` : ลาภลอย (unexpected gain, stroke of good fortune (literally "floating luck")) : 1 meaning(s), 2 sentences
+- `tamago-l3-115` : ล่องเรือ (to cruise, to take a boat ride) : 1 meaning(s), 2 sentences
 - `tamago-l3-116` : ออกจะ (rather, kind of, tends to be) : 1 meaning(s), 2 sentences
 - `tamago-l3-117` : นานๆ (rarely, once in a long while) : 1 meaning(s), 2 sentences
 - `tamago-l3-118` : ประเด็น (point (of a statement), issue, topic) : 1 meaning(s), 2 sentences
@@ -1684,6 +1689,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-135` : ชาติก่อน (previous life) : 1 meaning(s), 2 sentences
 - `tamago-l3-136` : หุ้นส่วน (business partner) : 1 meaning(s), 2 sentences
 - `tamago-l3-137` : จังหวะ (timing, rhythm, beat; moment, opportunity) : 2 meaning(s), 4 sentences
+- `tamago-l3-138` : ลั่น (loud, to make a loud noise; to go off, to burst out) : 2 meaning(s), 4 sentences
 - `tamago-l3-139` : เผลอๆ ("might even", "it wouldn't be surprising if") : 1 meaning(s), 2 sentences
 - `tamago-l3-140` : ทะลุ (to go through, break through, pierce through) : 1 meaning(s), 2 sentences
 - `tamago-l3-141` : หลังคา (roof) : 1 meaning(s), 2 sentences
@@ -1698,14 +1704,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-150` : สลัว (dim, faint, dusky) : 1 meaning(s), 2 sentences
 - `tamago-l3-151` : ชู้ (lover, cheating partner) : 1 meaning(s), 2 sentences
 - `tamago-l3-152` : เห็นใจ (to sympathize, to feel compassion (for)) : 1 meaning(s), 2 sentences
+- `tamago-l3-153` : ปักใจเชื่อ (to believe firmly, without doubt) : 1 meaning(s), 2 sentences
 - `tamago-l3-154` : แสงเทียน (candlelight) : 1 meaning(s), 2 sentences
 - `tamago-l3-155` : เรียบง่าย (simple, uncomplicated, plain) : 1 meaning(s), 2 sentences
 - `tamago-l3-157` : ด่า (to scold, to curse, to insult harshly) : 1 meaning(s), 2 sentences
+- `tamago-l3-158` : ผู้บริหาร (executive, administrator) : 1 meaning(s), 2 sentences
 - `tamago-l3-159` : เถียง, ถกเถียง, โต้เถียง (to argue, to talk back, to dispute) : 1 meaning(s), 2 sentences
 - `tamago-l3-160` : เป็นเรื่อง (to become an issue, to be a big deal) : 1 meaning(s), 2 sentences
+- `tamago-l3-161` : ฟุบ (to slump, to collapse, to fall down (face first)) : 1 meaning(s), 2 sentences
 - `tamago-l3-162` : ตัดใจ (to get over something, to let go emotionally) : 1 meaning(s), 2 sentences
 - `tamago-l3-163` : เรื่องราว (story, narrative) : 1 meaning(s), 2 sentences
 - `tamago-l3-164` : ซีด (pale) : 1 meaning(s), 2 sentences
+- `tamago-l3-165` : ฝ่ายบุคคล (HR department) : 1 meaning(s), 2 sentences
 - `tamago-l3-166` : ดำเนินไปได้ด้วยดี (to go well, to go smoothly) : 1 meaning(s), 2 sentences
 - `tamago-l3-168` : ผลเสีย (damage, harm, negative consequence) : 1 meaning(s), 2 sentences
 - `tamago-l3-170` : ส่งผลกระทบ (to impact, to affect) : 1 meaning(s), 2 sentences

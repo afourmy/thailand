@@ -51316,6 +51316,25 @@
     "sources": [
       "Tamago L3",
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "camera angle",
+        "sentences": [
+          {
+            "thai": "มุมกล้องนี้ทำให้ดูสูงขึ้น",
+            "en": "This camera angle makes you look taller.",
+            "audio_src": "มุมกล้องนี้ทำให้ดูสูงขึ้น",
+            "audio_en_src": "This camera angle makes you look taller."
+          },
+          {
+            "thai": "ช่างภาพลองถ่ายหลายมุมกล้อง",
+            "en": "The photographer tried shooting from several camera angles.",
+            "audio_src": "ช่างภาพลองถ่ายหลายมุมกล้อง",
+            "audio_en_src": "The photographer tried shooting from several camera angles."
+          }
+        ]
+      }
     ]
   },
   {
@@ -51416,6 +51435,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "contestant, competitor",
+        "sentences": [
+          {
+            "thai": "ผู้เข้าแข่งขันปีนี้เยอะกว่าปีที่แล้ว",
+            "en": "There are more contestants this year than last year.",
+            "audio_src": "ผู้เข้าแข่งขันปีนี้เยอะกว่าปีที่แล้ว",
+            "audio_en_src": "There are more contestants this year than last year."
+          },
+          {
+            "thai": "ผู้เข้าแข่งขันทุกคนต้องมารายงานตัวก่อนแปดโมง",
+            "en": "All contestants must check in before eight.",
+            "audio_src": "ผู้เข้าแข่งขันทุกคนต้องมารายงานตัวก่อนแปดโมง",
+            "audio_en_src": "All contestants must check in before eight."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52222,6 +52260,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "gallery, photo studio",
+        "sentences": [
+          {
+            "thai": "ไปถ่ายรูปติดบัตรที่ห้องภาพ",
+            "en": "Go get ID photos taken at the photo studio.",
+            "audio_src": "ไปถ่ายรูปติดบัตรที่ห้องภาพ",
+            "audio_en_src": "Go get ID photos taken at the photo studio."
+          },
+          {
+            "thai": "ห้องภาพร้านนี้เปิดมาตั้งแต่รุ่นปู่",
+            "en": "This photo studio has been open since my grandfather's time.",
+            "audio_src": "ห้องภาพร้านนี้เปิดมาตั้งแต่รุ่นปู่",
+            "audio_en_src": "This photo studio has been open since my grandfather's time."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52259,6 +52316,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "unexpected gain, stroke of good fortune (literally \"floating luck\")",
+        "sentences": [
+          {
+            "thai": "ถูกหวยเป็นลาภลอยแท้ๆ",
+            "en": "Winning the lottery is a real windfall.",
+            "audio_src": "ถูกหวยเป็นลาภลอยแท้ๆ",
+            "audio_en_src": "Winning the lottery is a real windfall."
+          },
+          {
+            "thai": "เงินก้อนนี้เป็นลาภลอย ไม่ได้คาดคิดมาก่อน",
+            "en": "This money was a windfall, totally unexpected.",
+            "audio_src": "เงินก้อนนี้เป็นลาภลอย ไม่ได้คาดคิดมาก่อน",
+            "audio_en_src": "This money was a windfall, totally unexpected."
+          }
+        ]
+      }
     ]
   },
   {
@@ -52268,6 +52344,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to cruise, to take a boat ride",
+        "sentences": [
+          {
+            "thai": "เราไปล่องเรือชมแม่น้ำเจ้าพระยา",
+            "en": "We took a boat cruise on the Chao Phraya River.",
+            "audio_src": "เราไปล่องเรือชมแม่น้ำเจ้าพระยา",
+            "audio_en_src": "We took a boat cruise on the Chao Phraya River."
+          },
+          {
+            "thai": "ล่องเรือดูหิ่งห้อยตอนกลางคืนสนุกมาก",
+            "en": "Taking a night boat ride to see the fireflies is a lot of fun.",
+            "audio_src": "ล่องเรือดูหิ่งห้อยตอนกลางคืนสนุกมาก",
+            "audio_en_src": "Taking a night boat ride to see the fireflies is a lot of fun."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53004,6 +53099,42 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "loud, to make a loud noise",
+        "sentences": [
+          {
+            "thai": "เพลงดังลั่นทั้งซอย",
+            "en": "The music was blasting through the whole alley.",
+            "audio_src": "เพลงดังลั่นทั้งซอย",
+            "audio_en_src": "The music was blasting through the whole alley."
+          },
+          {
+            "thai": "เขาหัวเราะลั่นห้อง",
+            "en": "He laughed so loud the whole room heard.",
+            "audio_src": "เขาหัวเราะลั่นห้อง",
+            "audio_en_src": "He laughed so loud the whole room heard."
+          }
+        ]
+      },
+      {
+        "meaning": "to go off, to burst out",
+        "sentences": [
+          {
+            "thai": "ปืนลั่นระหว่างทำความสะอาด",
+            "en": "The gun went off while it was being cleaned.",
+            "audio_src": "ปืนลั่นระหว่างทำความสะอาด",
+            "audio_en_src": "The gun went off while it was being cleaned."
+          },
+          {
+            "thai": "สัญญาณกันขโมยลั่นกลางดึก",
+            "en": "The alarm went off in the middle of the night.",
+            "audio_src": "สัญญาณกันขโมยลั่นกลางดึก",
+            "audio_en_src": "The alarm went off in the middle of the night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53442,6 +53573,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to believe firmly, without doubt",
+        "sentences": [
+          {
+            "thai": "เขาปักใจเชื่อว่าเพื่อนบ้านเป็นคนขโมย",
+            "en": "He's convinced the neighbor is the thief.",
+            "audio_src": "เขาปักใจเชื่อว่าเพื่อนบ้านเป็นคนขโมย",
+            "audio_en_src": "He's convinced the neighbor is the thief."
+          },
+          {
+            "thai": "อย่าเพิ่งปักใจเชื่อจนกว่าจะมีหลักฐาน",
+            "en": "Don't be so sure until there's evidence.",
+            "audio_src": "อย่าเพิ่งปักใจเชื่อจนกว่าจะมีหลักฐาน",
+            "audio_en_src": "Don't be so sure until there's evidence."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53548,6 +53698,25 @@
     "sources": [
       "Tamago L3",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "executive, administrator",
+        "sentences": [
+          {
+            "thai": "ผู้บริหารประชุมกันทั้งวัน",
+            "en": "The executives have been in meetings all day.",
+            "audio_src": "ผู้บริหารประชุมกันทั้งวัน",
+            "audio_en_src": "The executives have been in meetings all day."
+          },
+          {
+            "thai": "เธอเป็นผู้บริหารหญิงที่อายุน้อยที่สุดของบริษัท",
+            "en": "She's the company's youngest female executive.",
+            "audio_src": "เธอเป็นผู้บริหารหญิงที่อายุน้อยที่สุดของบริษัท",
+            "audio_en_src": "She's the company's youngest female executive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53620,6 +53789,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "to slump, to collapse, to fall down (face first)",
+        "sentences": [
+          {
+            "thai": "เขาง่วงจนฟุบหลับคาโต๊ะ",
+            "en": "He was so sleepy he slumped over asleep at his desk.",
+            "audio_src": "เขาง่วงจนฟุบหลับคาโต๊ะ",
+            "audio_en_src": "He was so sleepy he slumped over asleep at his desk."
+          },
+          {
+            "thai": "เธอเป็นลมฟุบลงกับพื้น",
+            "en": "She fainted and collapsed to the floor.",
+            "audio_src": "เธอเป็นลมฟุบลงกับพื้น",
+            "audio_en_src": "She fainted and collapsed to the floor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -53721,6 +53909,25 @@
     "frequency": "occasional",
     "sources": [
       "Tamago L3"
+    ],
+    "examples": [
+      {
+        "meaning": "HR department",
+        "sentences": [
+          {
+            "thai": "ส่งใบลาให้ฝ่ายบุคคลภายในวันนี้",
+            "en": "Submit your leave form to HR by today.",
+            "audio_src": "ส่งใบลาให้ฝ่ายบุคคลภายในวันนี้",
+            "audio_en_src": "Submit your leave form to HR by today."
+          },
+          {
+            "thai": "ฝ่ายบุคคลกำลังรับสมัครพนักงานใหม่",
+            "en": "HR is recruiting new employees.",
+            "audio_src": "ฝ่ายบุคคลกำลังรับสมัครพนักงานใหม่",
+            "audio_en_src": "HR is recruiting new employees."
+          }
+        ]
+      }
     ]
   },
   {
