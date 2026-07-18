@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 7313 words**
+**Total: 7323 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -198,12 +198,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-050` : หลบหนี (to escape, to flee) : 1 meaning(s), 2 sentences
 - `chula-l5-051` : สอบสวน (to investigate) : 1 meaning(s), 2 sentences
 - `chula-l5-052` : ยาเสพติด (drugs, narcotics) : 1 meaning(s), 2 sentences
+- `chula-l5-053` : ก่อเหตุ (to cause trouble, to cause an incident) : 1 meaning(s), 2 sentences
+- `chula-l5-054` : สาหัส (severe, critical) : 1 meaning(s), 2 sentences
+- `chula-l5-055` : จับกุม (to arrest) : 1 meaning(s), 2 sentences
+- `chula-l5-056` : ดำเนินคดี (to prosecute) : 1 meaning(s), 2 sentences
 - `chula-l5-057` : ตัดสิน (to judge, to decide; to rule, to give a verdict) : 2 meaning(s), 4 sentences
+- `chula-l5-058` : จำคุก (to imprison) : 1 meaning(s), 2 sentences
 - `chula-l5-059` : คดี, คดีความ (legal case, lawsuit) : 1 meaning(s), 2 sentences
+- `chula-l5-060` : เสพ (to consume, to indulge in, to use (e.g drugs, media, etc)) : 1 meaning(s), 2 sentences
+- `chula-l5-061` : พ้นโทษ (to be free from punishment, released from prison) : 1 meaning(s), 2 sentences
 - `chula-l5-062` : โทษ (punishment, penalty) : 1 meaning(s), 2 sentences
+- `chula-l5-063` : หลอนยา (to hallucinate from drugs) : 1 meaning(s), 2 sentences
+- `chula-l5-064` : คาดว่า ("it is expected that...") : 1 meaning(s), 2 sentences
 - `chula-l5-065` : แจ้งความ (to file a police report) : 1 meaning(s), 2 sentences
 - `chula-l5-066` : คว้า (to grab) : 1 meaning(s), 2 sentences
 - `chula-l5-067` : ดับ (to extinguish, to put out (a fire); to cease, to stop functioning) : 2 meaning(s), 4 sentences
+- `chula-l5-068` : มึนเมา (intoxicated, drunk) : 1 meaning(s), 2 sentences
 - `chula-l5-070` : ปลาย (end, tip, extremity) : 1 meaning(s), 2 sentences
 - `chula-l5-071` : แหลม (sharp, pointed; peninsula) : 2 meaning(s), 4 sentences
 - `chula-l5-072` : เปื้อน, แปดเปื้อน (stained, soiled) : 1 meaning(s), 2 sentences

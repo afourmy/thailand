@@ -6054,6 +6054,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to cause trouble, to cause an incident",
+        "sentences": [
+          {
+            "thai": "คนร้ายก่อเหตุแล้วขับรถหนีไป",
+            "en": "The culprit committed the crime and then drove off.",
+            "audio_src": "คนร้ายก่อเหตุแล้วขับรถหนีไป",
+            "audio_en_src": "The culprit committed the crime and then drove off."
+          },
+          {
+            "thai": "เขาเมาแล้วชอบก่อเหตุวุ่นวาย",
+            "en": "When he's drunk, he likes causing trouble.",
+            "audio_src": "เขาเมาแล้วชอบก่อเหตุวุ่นวาย",
+            "audio_en_src": "When he's drunk, he likes causing trouble."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6064,6 +6083,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "severe, critical",
+        "sentences": [
+          {
+            "thai": "คนขับบาดเจ็บสาหัสจากอุบัติเหตุ",
+            "en": "The driver was critically injured in the accident.",
+            "audio_src": "คนขับบาดเจ็บสาหัสจากอุบัติเหตุ",
+            "audio_en_src": "The driver was critically injured in the accident."
+          },
+          {
+            "thai": "อาการเขาสาหัส หมอให้เฝ้าดูใกล้ชิด",
+            "en": "His condition is critical, the doctors are watching him closely.",
+            "audio_src": "อาการเขาสาหัส หมอให้เฝ้าดูใกล้ชิด",
+            "audio_en_src": "His condition is critical, the doctors are watching him closely."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6075,6 +6113,25 @@
       "Chulalongkorn L5",
       "Tobo Deck",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to arrest",
+        "sentences": [
+          {
+            "thai": "ตำรวจจับกุมผู้ค้ายาเสพติดได้เมื่อวานนี้",
+            "en": "The police arrested a drug dealer yesterday.",
+            "audio_src": "ตำรวจจับกุมผู้ค้ายาเสพติดได้เมื่อวานนี้",
+            "audio_en_src": "The police arrested a drug dealer yesterday."
+          },
+          {
+            "thai": "เขาถูกจับกุมข้อหาเมาแล้วขับ",
+            "en": "He was arrested for drunk driving.",
+            "audio_src": "เขาถูกจับกุมข้อหาเมาแล้วขับ",
+            "audio_en_src": "He was arrested for drunk driving."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6085,6 +6142,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to prosecute",
+        "sentences": [
+          {
+            "thai": "บริษัทจะดำเนินคดีกับคนที่ปล่อยข่าวปลอม",
+            "en": "The company will take legal action against whoever spread the fake news.",
+            "audio_src": "บริษัทจะดำเนินคดีกับคนที่ปล่อยข่าวปลอม",
+            "audio_en_src": "The company will take legal action against whoever spread the fake news."
+          },
+          {
+            "thai": "ตำรวจส่งตัวผู้ต้องหาให้อัยการดำเนินคดี",
+            "en": "The police handed the suspect over to prosecutors to press charges.",
+            "audio_src": "ตำรวจส่งตัวผู้ต้องหาให้อัยการดำเนินคดี",
+            "audio_en_src": "The police handed the suspect over to prosecutors to press charges."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6141,6 +6217,25 @@
     "sources": [
       "Chulalongkorn L5",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to imprison",
+        "sentences": [
+          {
+            "thai": "ศาลตัดสินจำคุกเขาห้าปี",
+            "en": "The court sentenced him to five years in prison.",
+            "audio_src": "ศาลตัดสินจำคุกเขาห้าปี",
+            "audio_en_src": "The court sentenced him to five years in prison."
+          },
+          {
+            "thai": "เขาถูกจำคุกในข้อหาฉ้อโกง",
+            "en": "He was imprisoned for fraud.",
+            "audio_src": "เขาถูกจำคุกในข้อหาฉ้อโกง",
+            "audio_en_src": "He was imprisoned for fraud."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6184,6 +6279,25 @@
       "Chulalongkorn L5",
       "Thaipod101",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to consume, to indulge in, to use (e.g drugs, media, etc)",
+        "sentences": [
+          {
+            "thai": "เขาถูกจับข้อหาเสพยาเสพติด",
+            "en": "He was arrested for drug use.",
+            "audio_src": "เขาถูกจับข้อหาเสพยาเสพติด",
+            "audio_en_src": "He was arrested for drug use."
+          },
+          {
+            "thai": "เดี๋ยวนี้คนเสพข่าวจากมือถือเป็นหลัก",
+            "en": "These days people mostly consume news on their phones.",
+            "audio_src": "เดี๋ยวนี้คนเสพข่าวจากมือถือเป็นหลัก",
+            "audio_en_src": "These days people mostly consume news on their phones."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6193,6 +6307,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to be free from punishment, released from prison",
+        "sentences": [
+          {
+            "thai": "เขาเพิ่งพ้นโทษออกมาเมื่อเดือนที่แล้ว",
+            "en": "He just got out of prison last month.",
+            "audio_src": "เขาเพิ่งพ้นโทษออกมาเมื่อเดือนที่แล้ว",
+            "audio_en_src": "He just got out of prison last month."
+          },
+          {
+            "thai": "หลังพ้นโทษ เขาตั้งใจเริ่มต้นชีวิตใหม่",
+            "en": "After his release, he's determined to start a new life.",
+            "audio_src": "หลังพ้นโทษ เขาตั้งใจเริ่มต้นชีวิตใหม่",
+            "audio_en_src": "After his release, he's determined to start a new life."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6233,6 +6366,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "to hallucinate from drugs",
+        "sentences": [
+          {
+            "thai": "ชายคนหนึ่งหลอนยาอาละวาดกลางถนน",
+            "en": "A man hallucinating on drugs went on a rampage in the street.",
+            "audio_src": "ชายคนหนึ่งหลอนยาอาละวาดกลางถนน",
+            "audio_en_src": "A man hallucinating on drugs went on a rampage in the street."
+          },
+          {
+            "thai": "เขาเสพหนักจนหลอนยา",
+            "en": "He used so heavily that he started hallucinating.",
+            "audio_src": "เขาเสพหนักจนหลอนยา",
+            "audio_en_src": "He used so heavily that he started hallucinating."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6242,6 +6394,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "\"it is expected that...\"",
+        "sentences": [
+          {
+            "thai": "คาดว่าฝนจะตกหนักช่วงเย็นนี้",
+            "en": "Heavy rain is expected this evening.",
+            "audio_src": "คาดว่าฝนจะตกหนักช่วงเย็นนี้",
+            "audio_en_src": "Heavy rain is expected this evening."
+          },
+          {
+            "thai": "ตำรวจคาดว่าคนร้ายยังอยู่ในพื้นที่",
+            "en": "Police expect that the suspect is still in the area.",
+            "audio_src": "ตำรวจคาดว่าคนร้ายยังอยู่ในพื้นที่",
+            "audio_en_src": "Police expect that the suspect is still in the area."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6363,6 +6534,25 @@
     "frequency": "occasional",
     "sources": [
       "Chulalongkorn L5"
+    ],
+    "examples": [
+      {
+        "meaning": "intoxicated, drunk",
+        "sentences": [
+          {
+            "thai": "ห้ามขับรถขณะมึนเมา",
+            "en": "Don't drive while intoxicated.",
+            "audio_src": "ห้ามขับรถขณะมึนเมา",
+            "audio_en_src": "Don't drive while intoxicated."
+          },
+          {
+            "thai": "เขามึนเมาจนเดินไม่ตรง",
+            "en": "He was so drunk he couldn't walk straight.",
+            "audio_src": "เขามึนเมาจนเดินไม่ตรง",
+            "audio_en_src": "He was so drunk he couldn't walk straight."
+          }
+        ]
+      }
     ]
   },
   {
