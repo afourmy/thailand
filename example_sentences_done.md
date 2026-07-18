@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8204 words**
+**Total: 8214 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -4783,15 +4783,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-063` : ทอดผ้าบังสุกุล ((at a funeral) to offer ceremonial cloths to monks in a merit-making ceremony) : 1 meaning(s), 2 sentences
 - `yt-c03-064` : ดอกไม้จันทน์ (sandalwood flowers (used in funerals)) : 1 meaning(s), 2 sentences
 - `yt-c03-065` : พาน (ceremonial tray) : 1 meaning(s), 2 sentences
+- `yt-c03-067` : ของชำร่วย (souvenir, token gift given to guests at events like weddings, funerals) : 1 meaning(s), 2 sentences
 - `yt-c03-069` : สถิต (to be present, to be located, to reside (formal term used for spirits, deities, royals)) : 1 meaning(s), 2 sentences
+- `yt-c03-070` : แป้นพิมพ์ (keyboard (computer)) : 1 meaning(s), 2 sentences
 - `yt-c03-071` : เมาส์ (mouse) : 1 meaning(s), 2 sentences
 - `yt-c03-072` : แผ่นรองเมาส์ (mouse pad) : 1 meaning(s), 2 sentences
 - `yt-c03-073` : สายชาร์จ (charging cable) : 1 meaning(s), 2 sentences
 - `yt-c03-074` : ถ่านไฟ, ถ่าน (battery (e.g LR6, AA)) : 1 meaning(s), 2 sentences
 - `yt-c03-075` : กระติก (thermos (container for drinks, ice)) : 1 meaning(s), 2 sentences
 - `yt-c03-076` : กิ่ง, กิ่งไม้ (branch) : 1 meaning(s), 2 sentences
+- `yt-c03-077` : รวบรัด (succinct, concise, to shorten) : 1 meaning(s), 2 sentences
+- `yt-c03-078` : ขาเหยียบ (foot pedal) : 1 meaning(s), 2 sentences
 - `yt-c03-079` : ภาษาเสีย (used about someone who speaks incorrectly (literally "broken language")) : 1 meaning(s), 2 sentences
 - `yt-c03-080` : สะเดาะเคราะห์ (to ward off bad luck) : 1 meaning(s), 2 sentences
+- `yt-c03-081` : มาร (demon, evil being) : 1 meaning(s), 2 sentences
 - `yt-c03-082` : สนม (concubine (woman in a king's harem), royal consort) : 1 meaning(s), 2 sentences
 - `yt-c03-083` : ประทีป (oil lamp, lantern (literary)) : 1 meaning(s), 2 sentences
 - `yt-c03-084` : ทำตัว (to behave) : 1 meaning(s), 2 sentences
@@ -4799,13 +4804,18 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c03-087` : แฟ้ม (folder, file) : 1 meaning(s), 2 sentences
 - `yt-c03-088` : หนีบ (to clip, to pinch, to clamp) : 1 meaning(s), 2 sentences
 - `yt-c03-089` : ปก (cover (e.g of a book, a folder)) : 1 meaning(s), 2 sentences
+- `yt-c03-090` : ตรายาง (rubber stamp) : 1 meaning(s), 2 sentences
 - `yt-c03-091` : กรีด (to scream; to cut, slit) : 2 meaning(s), 4 sentences
+- `yt-c03-092` : จิตใต้สำนึก (subconscious) : 1 meaning(s), 2 sentences
 - `yt-c03-093` : ความตั้งใจ (determination, resolve, effort) : 1 meaning(s), 2 sentences
+- `yt-c03-094` : ตัวเชื่อมต่อ (connector) : 1 meaning(s), 2 sentences
 - `yt-c03-095` : เสื่อ (mat) : 1 meaning(s), 2 sentences
 - `yt-c03-096` : ปู (crab; to spread, to lay out (e.g a mat)) : 2 meaning(s), 4 sentences
 - `yt-c03-097` : พับ (to fold) : 1 meaning(s), 2 sentences
 - `yt-c03-098` : คล้องจอง (to rhyme) : 1 meaning(s), 2 sentences
 - `yt-c03-099` : ทำนอง (melody, tune; manner, style) : 2 meaning(s), 4 sentences
+- `yt-c04-000` : กีด (to block, to hinder, to obstruct) : 1 meaning(s), 2 sentences
+- `yt-c04-001` : ชาวสวน (orchard farmer, fruit grower) : 1 meaning(s), 2 sentences
 - `yt-c04-002` : ทำสวน (to do gardening) : 1 meaning(s), 2 sentences
 - `yt-c04-004` : กันและกัน (each other) : 1 meaning(s), 2 sentences
 - `yt-c04-005` : วิพากษ์วิจารณ์ (to criticize, to judge, to comment) : 1 meaning(s), 2 sentences
