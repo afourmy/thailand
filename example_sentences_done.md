@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8324 words**
+**Total: 8334 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5124,16 +5124,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-042` : แพทย์แผนปัจจุบัน (modern medicine, conventional medicine (e.g doctors, hospital)) : 1 meaning(s), 2 sentences
 - `yt-c07-043` : แพทย์แผนโบราณ (traditional medicine (e.g herbal, massage, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-044` : ที่มาที่ไป (origin, history, background, how something came to be) : 1 meaning(s), 2 sentences
+- `yt-c07-045` : การฝังเข็ม (acupuncture) : 1 meaning(s), 2 sentences
 - `yt-c07-046` : ราก (root) : 1 meaning(s), 2 sentences
 - `yt-c07-047` : ฝน (rain; to grind (e.g a plant into powder), to sharpen) : 2 meaning(s), 4 sentences
+- `yt-c07-048` : การไหลเวียนของเลือด (blood circulation) : 1 meaning(s), 2 sentences
 - `yt-c07-049` : ความดันโลหิต (blood pressure) : 1 meaning(s), 2 sentences
+- `yt-c07-050` : อสุจิ (sperm, semen (formal, medical)) : 1 meaning(s), 2 sentences
 - `yt-c07-051` : ใส (clear, transparent) : 1 meaning(s), 2 sentences
 - `yt-c07-052` : หงี่จัด (extremely horny) : 1 meaning(s), 2 sentences
+- `yt-c07-053` : อาบอบนวด (massage parlor) : 1 meaning(s), 2 sentences
+- `yt-c07-054` : ปัญญาอ่อน (idiot, "mentally challenged") : 1 meaning(s), 2 sentences
+- `yt-c07-055` : เตียงเสริม - ที่นอนเสริม (extra bed - extra mattress) : 1 meaning(s), 2 sentences
 - `yt-c07-056` : ถ่ายเอกสาร (to photocopy a document) : 1 meaning(s), 2 sentences
 - `yt-c07-057` : ค่ามัดจำ (security deposit, deposit fee) : 1 meaning(s), 2 sentences
 - `yt-c07-058` : สบู่ก้อน (bar soap) : 1 meaning(s), 2 sentences
+- `yt-c07-059` : สื่อหลัก (mainstream media) : 1 meaning(s), 2 sentences
 - `yt-c07-060` : ทับศัพท์ (transliteration, to transliterate) : 1 meaning(s), 2 sentences
 - `new-31` : คำทับศัพท์ (transliterated word) : 1 meaning(s), 2 sentences
+- `yt-c07-061` : สนั่น (loud noise, resonating sound, loudly) : 1 meaning(s), 2 sentences
+- `yt-c07-062` : ควบคู่ (in tandem, side by side, together with, to go together) : 1 meaning(s), 2 sentences
+- `yt-c07-063` : เชื่อมโยง (to associate, to connect, to link (e.g something abstract, idea, relations)) : 1 meaning(s), 2 sentences
 - `yt-c07-067` : กระสอบ (sack, bag (e.g made of sand for training, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c07-071` : ดีด สี ตี เป่า (the four types of musical instruments (pluck, bow, strike, blow)) : 1 meaning(s), 2 sentences
