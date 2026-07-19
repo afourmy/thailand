@@ -429,20 +429,14 @@
     "english": "domicile, place of origin",
     "frequency": "occasional"
   },
-
-  {
-    "thai": "ประนอม",
-    "english": "make concessions",
-    "frequency": "occasional"
-  },
   {
     "thai": "ขาดดุล",
-    "english": "be imbalanced; run deficit",
+    "english": "deficit, to run a deficit",
     "frequency": "occasional"
   },
   {
     "thai": "คำมั่น",
-    "english": "promise; vow",
+    "english": "promise, pledge, vow",
     "frequency": "occasional"
   },
   {
@@ -452,19 +446,15 @@
   },
   {
     "thai": "ผู้แสดง",
-    "english": "performer; actor",
-    "frequency": "common"
-  },
-  {
-    "thai": "ทันใด",
-    "english": "suddenly",
+    "english": "performer, actor",
     "frequency": "occasional"
   },
   {
-    "thai": "เปียโน",
-    "english": "piano",
-    "frequency": "common"
+    "thai": "ทันใด",
+    "english": "suddenly, immediately (literary)",
+    "frequency": "rare"
   },
+
   {
     "thai": "ชักจูง",
     "english": "induce; persuade",
