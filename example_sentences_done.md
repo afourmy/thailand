@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8853 words**
+**Total: 8863 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6937,24 +6937,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-011` : คำนึง, คำนึงถึง (to think deeply, to take into consideration) : 1 meaning(s), 2 sentences
 - `wlt-c06-013` : คู่หมั้น (fiance) : 1 meaning(s), 2 sentences
 - `wlt-c06-014` : เคยชิน (to get used to) : 1 meaning(s), 2 sentences
+- `wlt-c06-015` : เครื่องเงิน (silverware) : 1 meaning(s), 2 sentences
 - `wlt-c06-016` : เครื่องพิมพ์ดีด (typewriter) : 1 meaning(s), 2 sentences
 - `wlt-c06-017` : เครื่องมือ (tool) : 1 meaning(s), 2 sentences
 - `wlt-c06-019` : โครง (frame, skeleton) : 1 meaning(s), 2 sentences
 - `wlt-c06-020` : ใคร่ (to desire, to wish (literary)) : 1 meaning(s), 2 sentences
 - `wlt-c06-021` : ใครก็ตาม (whoever) : 1 meaning(s), 2 sentences
+- `wlt-c06-022` : งา (ivory) : 1 meaning(s), 2 sentences
 - `wlt-c06-023` : งาม (beautiful, good-looking, pretty) : 1 meaning(s), 2 sentences
 - `wlt-c06-024` : งูเห่า (cobra) : 1 meaning(s), 2 sentences
 - `wlt-c06-026` : จด (to write down, to record, to take note) : 1 meaning(s), 2 sentences
+- `wlt-c06-027` : จดทะเบียน (to register, to create an official record) : 1 meaning(s), 2 sentences
 - `wlt-c06-028` : จนกว่า (until (time condition not yet reached)) : 1 meaning(s), 2 sentences
 - `wlt-c06-029` : จนถึง (until) : 1 meaning(s), 2 sentences
 - `wlt-c06-031` : จัดหา (to procure, to provide, to acquire) : 1 meaning(s), 2 sentences
 - `wlt-c06-032` : จานรองถ้วย (saucer) : 1 meaning(s), 2 sentences
 - `wlt-c06-034` : จิ้งจก (house lizard) : 1 meaning(s), 2 sentences
 - `wlt-c06-035` : จิ้งหรีด (cricket) : 1 meaning(s), 2 sentences
+- `wlt-c06-036` : จี้ (pendant; to press, to hold against (e.g a knife or a gun to rob someone)) : 2 meaning(s), 4 sentences
 - `wlt-c06-037` : จูบ (kiss, to kiss) : 1 meaning(s), 2 sentences
 - `wlt-c06-039` : เจ้าหนี้ (creditor) : 1 meaning(s), 2 sentences
 - `wlt-c06-040` : แจก, จำหน่าย (to distribute) : 1 meaning(s), 2 sentences
 - `wlt-c06-041` : ใจกว้าง (generous) : 1 meaning(s), 2 sentences
+- `wlt-c06-042` : ฉิ่ง (cymbals) : 1 meaning(s), 2 sentences
 - `wlt-c06-043` : ช่วง (period (of time)) : 1 meaning(s), 2 sentences
 - `wlt-c06-044` : ชายหาด (beach) : 1 meaning(s), 2 sentences
 - `wlt-c06-045` : ชาวประมง (fisherman (people who fish for a living)) : 1 meaning(s), 2 sentences
@@ -6995,9 +7000,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-081` : ตัวเมีย (animal (female)) : 1 meaning(s), 2 sentences
 - `wlt-c06-082` : ตัวหนังสือ (letters, characters, text) : 1 meaning(s), 2 sentences
 - `wlt-c06-083` : ตัวอักษร (alphabet, letter, character) : 1 meaning(s), 2 sentences
+- `wlt-c06-085` : ตารางวา (square wa (4 square meters)) : 1 meaning(s), 2 sentences
 - `wlt-c06-086` : ตื่นเต้น (excited, thrilled) : 1 meaning(s), 2 sentences
 - `wlt-c06-087` : ตู้เสื้อผ้า (wardrobe) : 1 meaning(s), 2 sentences
 - `wlt-c06-089` : เต้น, เต้นรำ (to dance) : 1 meaning(s), 2 sentences
+- `wlt-c06-090` : เตารีด (iron (for clothing)) : 1 meaning(s), 2 sentences
 - `wlt-c06-091` : แตงไทย (musk melon) : 1 meaning(s), 2 sentences
 - `wlt-c06-092` : แตะ (to touch (lightly)) : 1 meaning(s), 2 sentences
 - `wlt-c06-094` : โต๊ะทำงาน (desk) : 1 meaning(s), 2 sentences
@@ -7043,12 +7050,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-047` : น่าเสียดาย (what a pity, what a shame; regrettable) : 2 meaning(s), 4 sentences
 - `wlt-c07-049` : น้ำเชื่อม (syrup) : 1 meaning(s), 2 sentences
 - `wlt-c07-051` : น้ำมะนาว (lemonade) : 1 meaning(s), 2 sentences
+- `wlt-c07-052` : นิมนต์ (to invite a monk, to request a monk to come (religious)) : 1 meaning(s), 2 sentences
 - `wlt-c07-053` : นิ้วมือ (finger) : 1 meaning(s), 2 sentences
 - `wlt-c07-054` : เนื้อวัว (beef) : 1 meaning(s), 2 sentences
 - `wlt-c07-055` : แนวโน้ม (tendency) : 1 meaning(s), 2 sentences
 - `wlt-c07-057` : บก (land (as opposed to sea)) : 1 meaning(s), 2 sentences
 - `wlt-c07-058` : บัตร (ticket, card) : 1 meaning(s), 2 sentences
 - `wlt-c07-059` : บัตรเครดิต (credit card) : 1 meaning(s), 2 sentences
+- `wlt-c07-061` : บิดามารดา (parents (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c07-062` : บุรุษไปรษณีย์ (postman) : 1 meaning(s), 2 sentences
 - `wlt-c07-063` : เบาะ, เบาะนั่ง (seat) : 1 meaning(s), 2 sentences
 - `wlt-c07-064` : โบว์ลิ่ง (bowling) : 1 meaning(s), 2 sentences
@@ -7060,6 +7069,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-070` : ประเมิน (to estimate, to assess, to evaluate) : 1 meaning(s), 2 sentences
 - `wlt-c07-072` : ประสบ (to face, to encounter) : 1 meaning(s), 2 sentences
 - `wlt-c07-074` : ปัจจัย (factor) : 1 meaning(s), 2 sentences
+- `wlt-c07-075` : ปั๊ม (pump) : 1 meaning(s), 2 sentences
 - `wlt-c07-076` : ป่าไม้ (forest) : 1 meaning(s), 2 sentences
 - `wlt-c07-077` : ปืนพก (pistol) : 1 meaning(s), 2 sentences
 - `wlt-c07-079` : เป็นหนี้ (to be in debt, to owe money) : 1 meaning(s), 2 sentences
