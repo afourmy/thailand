@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8654 words**
+**Total: 8664 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6004,10 +6004,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-005` : หมาหมู่ ((idiom) to team up to beat one person, to gang up and assault someone (literally "group of dogs")) : 1 meaning(s), 2 sentences
 - `yt-c17-006` : เยาะ, เยาะเย้ย (to mock, to ridicule, to make fun of someone in an insulting way) : 1 meaning(s), 2 sentences
 - `yt-c17-007` : คุ้มกัน (to guard, to escort, to protect someone) : 1 meaning(s), 2 sentences
+- `yt-c17-008` : ตะเกียกตะกาย (to struggle hard, to try desperately) : 1 meaning(s), 2 sentences
 - `yt-c17-009` : ศักดิ์ศรี (dignity, self-worth, honor) : 1 meaning(s), 2 sentences
+- `yt-c17-010` : วิวาท (to brawl, to quarrel, to engage in a conflict) : 1 meaning(s), 2 sentences
+- `yt-c17-011` : ปริมณฑล (surrounding area, peripheral zone (e.g around a main city or region)) : 1 meaning(s), 2 sentences
 - `yt-c17-012` : ใจเขาใจเรา, เอาใจเขามาใส่ใจเรา (to put yourself in someone else's shoes (literally "put their heart into our heart")) : 1 meaning(s), 2 sentences
 - `yt-c17-013` : มีดปังตอ (cleaver, butcher's knife) : 1 meaning(s), 2 sentences
+- `yt-c17-014` : สวยคมเข้ม, หล่อคมเข้ม (beautiful with sharp, striking features (e.g nose, eyes) (literally "pretty sharp strong")) : 1 meaning(s), 2 sentences
 - `yt-c17-015` : แผงลอย (stall (at a market)) : 1 meaning(s), 2 sentences
+- `yt-c17-017` : การพึ่งพาอาศัยกัน (interdependance, mutual dependence (literally "relying on each other")) : 1 meaning(s), 2 sentences
 - `yt-c17-018` : ผลพลอยได้ (side benefit, unintended but beneficial result) : 1 meaning(s), 2 sentences
 - `yt-c17-019` : นกอินทรี (eagle) : 1 meaning(s), 2 sentences
 - `yt-c17-020` : สภาวะ (condition, state) : 1 meaning(s), 2 sentences
@@ -6015,11 +6020,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-021` : เผ่าพันธุ์ (race, tribe, species) : 1 meaning(s), 2 sentences
 - `yt-c17-022` : มิติ (dimension) : 1 meaning(s), 2 sentences
 - `yt-c17-023` : ตอกบัตร - แตะบัตร (to punch a time card (in order to clock in) - to tap a card) : 1 meaning(s), 2 sentences
+- `yt-c17-024` : ความละเอียด (precision, resolution, fineness) : 1 meaning(s), 2 sentences
 - `yt-c17-025` : ภาพรวม (overview, overall picture, "big picture") : 1 meaning(s), 2 sentences
+- `yt-c17-027` : ค่าคลอดบุตร (maternity delivery fee) : 1 meaning(s), 2 sentences
 - `yt-c17-028` : วันหยุดชดเชย (compensatory day off (day off given in place of a holiday that falls on a weekend)) : 1 meaning(s), 2 sentences
 - `yt-c17-029` : ลากิจ (personal leave (taking time off for personal errands)) : 1 meaning(s), 2 sentences
+- `yt-c17-030` : รถประจำตำแหน่ง (company car (e.g for high-level executives)) : 1 meaning(s), 2 sentences
 - `yt-c17-031` : เครื่องถ่ายเอกสาร (photocopier) : 1 meaning(s), 2 sentences
+- `yt-c17-032` : คำถามปลายเปิด (open-ended question) : 1 meaning(s), 2 sentences
 - `yt-c17-033` : คิดไปเอง (to imagine things, to overthink) : 1 meaning(s), 2 sentences
+- `yt-c17-034` : อดตาย (to starve to death) : 1 meaning(s), 2 sentences
 - `yt-c17-035` : หวังน้ำบ่อหน้า ((idiom) to rely on future luck, to hope for something that may never happen (literally "hope for water next well")) : 1 meaning(s), 2 sentences
 - `yt-c17-036` : ลงแดง (severe withdrawal symptoms from addiction) : 1 meaning(s), 2 sentences
 - `yt-c17-039` : กินไม่ชวนอาหารติดคอ ((idiom) if you don't share (your food), you'll get into trouble, have bad luck) : 1 meaning(s), 1 sentences
