@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8923 words**
+**Total: 8933 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8623,12 +8623,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c08-011` : เบื่อหน่าย (bored, weary, fed up (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-012` : เพาะปลูก (to cultivate, to grow crops) : 1 meaning(s), 2 sentences
 - `t4k-c08-013` : เลือน (to fade away, to become blurred, to gradually disappear) : 1 meaning(s), 2 sentences
+- `t4k-c08-014` : ผลสำเร็จ (success, accomplishment (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-016` : ขั้นพื้นฐาน (basic level, foundation, introductory) : 1 meaning(s), 2 sentences
+- `t4k-c08-017` : ลอบ (secretly, stealthily) : 1 meaning(s), 2 sentences
+- `t4k-c08-018` : นายทุน (capitalist, investor, financier) : 1 meaning(s), 2 sentences
+- `t4k-c08-019` : เสร็จสิ้น (to be completed, to come to an end (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-022` : ได้เสีย (gain and loss, profit and loss) : 1 meaning(s), 2 sentences
+- `t4k-c08-023` : อนุกรรมการ (subcommittee) : 1 meaning(s), 2 sentences
+- `t4k-c08-025` : ความยุติธรรม (justice, fairness) : 1 meaning(s), 2 sentences
 - `t4k-c08-026` : ปีใหม่ (new year) : 1 meaning(s), 2 sentences
+- `t4k-c08-027` : ต่างด้าว (foreign, alien) : 1 meaning(s), 2 sentences
 - `t4k-c08-028` : ห้วย (stream, creek) : 1 meaning(s), 2 sentences
 - `t4k-c08-029` : อัยการ (public prosecutor, state attorney) : 1 meaning(s), 2 sentences
 - `t4k-c08-032` : คำปรึกษา (advice, guidance) : 1 meaning(s), 2 sentences
+- `t4k-c08-034` : บรรณาธิการ (editor) : 1 meaning(s), 2 sentences
+- `t4k-c08-039` : ลงนาม (to sign (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c08-042` : วิถีทาง (way, means, method (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-043` : คณะกรรมาธิการ (parliamentary committee) : 1 meaning(s), 2 sentences
 - `t4k-c08-044` : ฝ่ายค้าน (opposition (in politics, e.g parliamentary opposition)) : 1 meaning(s), 2 sentences
 - `t4k-c08-046` : มาลัย (flower garland) : 1 meaning(s), 2 sentences

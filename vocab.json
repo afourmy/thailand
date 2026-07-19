@@ -263481,6 +263481,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "success, accomplishment (formal)",
+        "sentences": [
+          {
+            "thai": "โครงการนี้ประสบผลสำเร็จเกินความคาดหมาย",
+            "en": "This project achieved success beyond expectations.",
+            "audio_src": "โครงการนี้ประสบผลสำเร็จเกินความคาดหมาย",
+            "audio_en_src": "This project achieved success beyond expectations."
+          },
+          {
+            "thai": "ความพยายามของเขานำมาซึ่งผลสำเร็จในที่สุด",
+            "en": "His efforts finally brought success.",
+            "audio_src": "ความพยายามของเขานำมาซึ่งผลสำเร็จในที่สุด",
+            "audio_en_src": "His efforts finally brought success."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263520,6 +263539,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "secretly, stealthily",
+        "sentences": [
+          {
+            "thai": "ขโมยลอบเข้าบ้านตอนกลางดึก",
+            "en": "The thief snuck into the house in the middle of the night.",
+            "audio_src": "ขโมยลอบเข้าบ้านตอนกลางดึก",
+            "audio_en_src": "The thief snuck into the house in the middle of the night."
+          },
+          {
+            "thai": "มีคนลอบวางเพลิงโรงงานเมื่อคืน",
+            "en": "Someone secretly set fire to the factory last night.",
+            "audio_src": "มีคนลอบวางเพลิงโรงงานเมื่อคืน",
+            "audio_en_src": "Someone secretly set fire to the factory last night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263529,6 +263567,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "capitalist, investor, financier",
+        "sentences": [
+          {
+            "thai": "นายทุนใหญ่เข้ามาลงทุนสร้างห้างในเมือง",
+            "en": "A big investor came to build a mall in the city.",
+            "audio_src": "นายทุนใหญ่เข้ามาลงทุนสร้างห้างในเมือง",
+            "audio_en_src": "A big investor came to build a mall in the city."
+          },
+          {
+            "thai": "ชาวนาถูกนายทุนเอาเปรียบเรื่องราคาข้าว",
+            "en": "The farmers were exploited by financiers over rice prices.",
+            "audio_src": "ชาวนาถูกนายทุนเอาเปรียบเรื่องราคาข้าว",
+            "audio_en_src": "The farmers were exploited by financiers over rice prices."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263538,6 +263595,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to be completed, to come to an end (formal)",
+        "sentences": [
+          {
+            "thai": "การประชุมเสร็จสิ้นลงเมื่อบ่ายสามโมง",
+            "en": "The meeting concluded at three in the afternoon.",
+            "audio_src": "การประชุมเสร็จสิ้นลงเมื่อบ่ายสามโมง",
+            "audio_en_src": "The meeting concluded at three in the afternoon."
+          },
+          {
+            "thai": "เมื่องานก่อสร้างเสร็จสิ้น เราก็ย้ายเข้าได้",
+            "en": "When the construction is completed, we can move in.",
+            "audio_src": "เมื่องานก่อสร้างเสร็จสิ้น เราก็ย้ายเข้าได้",
+            "audio_en_src": "When the construction is completed, we can move in."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263575,6 +263651,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "subcommittee",
+        "sentences": [
+          {
+            "thai": "มีการตั้งอนุกรรมการขึ้นมาศึกษาปัญหานี้",
+            "en": "A subcommittee was set up to study this problem.",
+            "audio_src": "มีการตั้งอนุกรรมการขึ้นมาศึกษาปัญหานี้",
+            "audio_en_src": "A subcommittee was set up to study this problem."
+          },
+          {
+            "thai": "อนุกรรมการรายงานผลต่อคณะกรรมการใหญ่",
+            "en": "The subcommittee reported its findings to the main committee.",
+            "audio_src": "อนุกรรมการรายงานผลต่อคณะกรรมการใหญ่",
+            "audio_en_src": "The subcommittee reported its findings to the main committee."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263584,6 +263679,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "justice, fairness",
+        "sentences": [
+          {
+            "thai": "ทุกคนควรได้รับความยุติธรรมอย่างเท่าเทียม",
+            "en": "Everyone should receive justice equally.",
+            "audio_src": "ทุกคนควรได้รับความยุติธรรมอย่างเท่าเทียม",
+            "audio_en_src": "Everyone should receive justice equally."
+          },
+          {
+            "thai": "เขาต่อสู้เพื่อความยุติธรรมให้ผู้บริสุทธิ์",
+            "en": "He fought for justice for the innocent.",
+            "audio_src": "เขาต่อสู้เพื่อความยุติธรรมให้ผู้บริสุทธิ์",
+            "audio_en_src": "He fought for justice for the innocent."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263625,6 +263739,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "foreign, alien",
+        "sentences": [
+          {
+            "thai": "โรงงานจ้างแรงงานต่างด้าวจำนวนมาก",
+            "en": "The factory employs a lot of foreign workers.",
+            "audio_src": "โรงงานจ้างแรงงานต่างด้าวจำนวนมาก",
+            "audio_en_src": "The factory employs a lot of foreign workers."
+          },
+          {
+            "thai": "คนต่างด้าวต้องมีใบอนุญาตทำงานในไทย",
+            "en": "Foreign nationals must have a work permit in Thailand.",
+            "audio_src": "คนต่างด้าวต้องมีใบอนุญาตทำงานในไทย",
+            "audio_en_src": "Foreign nationals must have a work permit in Thailand."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263720,6 +263853,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "editor",
+        "sentences": [
+          {
+            "thai": "บรรณาธิการตรวจแก้ต้นฉบับก่อนตีพิมพ์",
+            "en": "The editor reviews and corrects the manuscript before printing.",
+            "audio_src": "บรรณาธิการตรวจแก้ต้นฉบับก่อนตีพิมพ์",
+            "audio_en_src": "The editor reviews and corrects the manuscript before printing."
+          },
+          {
+            "thai": "เธอทำงานเป็นบรรณาธิการนิตยสารแฟชั่น",
+            "en": "She works as the editor of a fashion magazine.",
+            "audio_src": "เธอทำงานเป็นบรรณาธิการนิตยสารแฟชั่น",
+            "audio_en_src": "She works as the editor of a fashion magazine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263729,6 +263881,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to sign (formal)",
+        "sentences": [
+          {
+            "thai": "ผู้นำสองประเทศลงนามในข้อตกลงการค้า",
+            "en": "The leaders of the two countries signed the trade agreement.",
+            "audio_src": "ผู้นำสองประเทศลงนามในข้อตกลงการค้า",
+            "audio_en_src": "The leaders of the two countries signed the trade agreement."
+          },
+          {
+            "thai": "กรุณาลงนามในเอกสารตรงช่องด้านล่าง",
+            "en": "Please sign the document in the box below.",
+            "audio_src": "กรุณาลงนามในเอกสารตรงช่องด้านล่าง",
+            "audio_en_src": "Please sign the document in the box below."
+          }
+        ]
+      }
     ]
   },
   {
@@ -263738,6 +263909,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "way, means, method (formal)",
+        "sentences": [
+          {
+            "thai": "เขาหาวิถีทางแก้ปัญหาอย่างสันติ",
+            "en": "He sought a peaceful way to solve the problem.",
+            "audio_src": "เขาหาวิถีทางแก้ปัญหาอย่างสันติ",
+            "audio_en_src": "He sought a peaceful way to solve the problem."
+          },
+          {
+            "thai": "การศึกษาเป็นวิถีทางสู่ชีวิตที่ดีกว่า",
+            "en": "Education is a path to a better life.",
+            "audio_src": "การศึกษาเป็นวิถีทางสู่ชีวิตที่ดีกว่า",
+            "audio_en_src": "Education is a path to a better life."
+          }
+        ]
+      }
     ]
   },
   {
