@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8753 words**
+**Total: 8763 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6257,18 +6257,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-072` : เก้ง (barking deer (type of small deer); (slang) gay, homosexual) : 2 meaning(s), 4 sentences
 - `yt-c19-073` : ชะนี (gibbon; (slang) used by gay only to refer to girls) : 2 meaning(s), 4 sentences
 - `yt-c19-074` : หนี้สิน (debt, liabilities, financial obligations) : 1 meaning(s), 2 sentences
+- `yt-c19-075` : เกย์รับ - เกย์รุก ((slang, sexual) gay who likes to bottom - gay who likes to be on top) : 1 meaning(s), 2 sentences
 - `yt-c19-076` : ผู้ถือหุ้น (shareholder, stockholder) : 1 meaning(s), 2 sentences
 - `yt-c19-077` : กู้เงิน (to borrow money) : 1 meaning(s), 2 sentences
+- `yt-c19-079` : สวยร้อยเมตร - หล่อร้อยเมตร ((slang) ugly girl - ugly guy (literally "pretty from a hundred meters")) : 1 meaning(s), 2 sentences
 - `yt-c19-081` : รูปไม่ตรงปก (ugly, catfished (deceived by someone using heavily edited photos in online dating), not as advertised (object or person) (literally "the picture doesn't match the cover")) : 1 meaning(s), 2 sentences
 - `yt-c19-082` : กะโหลกหนา ((slang) stupid, slow to understand (literally "thick skull")) : 1 meaning(s), 2 sentences
 - `yt-c19-083` : ขี้เผือก (nosy person, someone who sticks their nose into other people's business) : 1 meaning(s), 2 sentences
+- `yt-c19-085` : สาวพรหมจรรย์ (virgin girl) : 1 meaning(s), 2 sentences
 - `yt-c19-086` : ซิง (virgin, sexually inexperienced (slang)) : 1 meaning(s), 2 sentences
+- `yt-c19-087` : เสียพรหมจรรย์ (to lose one's virginity) : 1 meaning(s), 2 sentences
 - `yt-c19-088` : โรคติดต่อทางเพศสัมพันธ์ (STD (formal)) : 1 meaning(s), 2 sentences
 - `yt-c19-089` : เอากัน (to have sex (slang, literally "to do each other")) : 1 meaning(s), 2 sentences
+- `yt-c19-090` : เล่นจ้ำจี้ ((slang) to grope, to play with someone's private parts, to finger, to have sex (literally "to play jam-jee, a children's counting game")) : 1 meaning(s), 2 sentences
+- `yt-c19-091` : เล่นผีผ้าห่ม - เล่นผีผ้าห่มกันไหม ((slang) to have sex (literally "playing the blanket ghost")) : 1 meaning(s), 2 sentences
 - `yt-c19-093` : กินตับ (to get laid, to have sex (slang, literally "eat liver")) : 1 meaning(s), 2 sentences
+- `new-46` : ผู้หญิงอย่างว่า (prostitute, hooker) : 1 meaning(s), 2 sentences
+- `yt-c19-095` : เพื่อนกันเอามัน (friends with benefits) : 1 meaning(s), 2 sentences
 - `yt-c19-097` : ขึ้นเลย, แข็งเลย (to have an instant erection) : 1 meaning(s), 2 sentences
+- `yt-c19-098` : แฉะแล้ว ((sexual) "I'm wet", "you're wet") : 1 meaning(s), 2 sentences
 - `yt-c19-099` : มีอารมณ์ (sexual arousal, to be turned on (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-000` : เงี่ยน (horny (slang, rude)) : 1 meaning(s), 2 sentences
+- `yt-c20-001` : นกเขาไม่ขัน (to have erectile dysfunction) : 1 meaning(s), 2 sentences
 - `yt-c20-002` : ช่วยตัวเอง (to masturbate (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-004` : ชักว่าว ((literally) to fly a kite; (figuratively, sexual) to masturbate (for men only)) : 2 meaning(s), 4 sentences
 - `yt-c20-008` : ลิงอุ้มแตง ((sexual position) to fuck while standing and carrying the girl (literally "monkey carry melon")) : 1 meaning(s), 2 sentences
