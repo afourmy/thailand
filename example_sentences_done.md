@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8354 words**
+**Total: 8364 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5192,9 +5192,14 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-015` : ผีเปรต (hungry ghost with small mouth, big hands and stomach, believed to be the rebirth of evil or greedy people) : 1 meaning(s), 2 sentences
 - `yt-c08-016` : สูงเหมือนเปรต (very tall (literally as tall as "pret" ghost, a very tall evil hungry ghost)) : 1 meaning(s), 2 sentences
 - `yt-c08-017` : เวทมนต์ (sorcery, magic) : 1 meaning(s), 2 sentences
+- `yt-c08-018` : ไสยศาสตร์ (occult practices, magic arts) : 1 meaning(s), 2 sentences
 - `yt-c08-019` : คนเล่นของ (a person who practices black magic, sorcery) : 1 meaning(s), 2 sentences
+- `yt-c08-020` : คนใสใส (person who is innocent, "pure", naive) : 1 meaning(s), 2 sentences
 - `yt-c08-021` : ผีตายโหง (ghost of someone who died from a violent or unnatural death) : 1 meaning(s), 2 sentences
+- `yt-c08-022` : ออกรบ (to go to war) : 1 meaning(s), 2 sentences
+- `yt-c08-023` : โถส้วม (toilet bowl) : 1 meaning(s), 2 sentences
 - `yt-c08-024` : เหนือกฎวิทยาศาสตร์ (beyond the laws of science) : 1 meaning(s), 2 sentences
+- `yt-c08-025` : อย่าลบหลู่ ("don't be disrespectful", "don't show irreverence" (especially towards sacred things)) : 1 meaning(s), 2 sentences
 - `yt-c08-026` : กระพริบ (to blink, to flicker (e.g eyes, light)) : 1 meaning(s), 2 sentences
 - `yt-c08-028` : หมั่นไส้ (to feel annoyed, irritated by someone (e.g for being smug, showing off)) : 1 meaning(s), 2 sentences
 - `yt-c08-029` : ห้องลองเสื้อ (changing room (cloth store)) : 1 meaning(s), 2 sentences
@@ -5205,6 +5210,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-034` : ขับไปอีกนิดนึงครับ ("drive a little further" (then stop) (direction to taxi)) : 1 meaning(s), 2 sentences
 - `yt-c08-036` : แผ่นมาส์กหน้า (facial mask sheet) : 1 meaning(s), 2 sentences
 - `yt-c08-037` : ซีก (half, hemisphere, side (one of two parts)) : 1 meaning(s), 2 sentences
+- `yt-c08-038` : ปัตตาเลี่ยน (electric hair trimmer) : 1 meaning(s), 2 sentences
 - `yt-c08-039` : เล็มผม (to trim hair, to snip the end of the hair) : 1 meaning(s), 2 sentences
 - `yt-c08-040` : หวี (comb, to comb) : 1 meaning(s), 2 sentences
 - `yt-c08-041` : ฉีด (to spray; to inject) : 2 meaning(s), 4 sentences
@@ -5216,6 +5222,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-047` : ความชอบส่วนตัว, ความชอบส่วนบุคคล (personal preference) : 1 meaning(s), 2 sentences
 - `yt-c08-048` : ตอกย้ำ (to reinforce, to emphasize, to underscore) : 1 meaning(s), 2 sentences
 - `yt-c08-049` : ร้านเสริมสวย (beauty salon) : 1 meaning(s), 2 sentences
+- `yt-c08-050` : ซอยผม (to cut hair by trimming it or layering it (not just make it shorter)) : 1 meaning(s), 2 sentences
 - `yt-c08-051` : ศาสนาพราหมณ์ (Brahmanism (ancient Indian religious tradition related to Hinduism)) : 1 meaning(s), 2 sentences
 - `yt-c08-052` : ชฎา (traditional Thai headdress worn by royalty and classical dancers) : 1 meaning(s), 2 sentences
 - `yt-c08-055` : เครื่องราชอิสริยยศ (royal insignia indicating rank or dignity) : 1 meaning(s), 2 sentences
@@ -5223,6 +5230,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-057` : ความเท่าเทียม, ความเท่าเทียมกัน (equality, fairness) : 1 meaning(s), 2 sentences
 - `yt-c08-058` : ธนบัตร (banknotes) : 1 meaning(s), 2 sentences
 - `yt-c08-059` : คล่อง (fluent, nimble, agile, smooth) : 1 meaning(s), 2 sentences
+- `yt-c08-060` : กระชาก (to snatch (pull quickly, for example while stealing necklace)) : 1 meaning(s), 2 sentences
+- `yt-c08-061` : เก็ง (to speculate, to predict) : 1 meaning(s), 2 sentences
+- `yt-c08-062` : ทองรูปพรรณ (gold jewelry, gold crafted into necklace, ring, etc) : 1 meaning(s), 2 sentences
 - `yt-c08-065` : ค่าดำเนินการ (processing fee, administrative fee) : 1 meaning(s), 2 sentences
 - `yt-c08-067` : บีบแตร (to honk) : 1 meaning(s), 2 sentences
 - `yt-c08-069` : เดือดร้อน (to be in trouble, to be in difficulty) : 1 meaning(s), 2 sentences
