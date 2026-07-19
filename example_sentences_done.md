@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8823 words**
+**Total: 8833 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6494,24 +6494,34 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-039` : แถลง (to announce, to declare, to make a statement) : 1 meaning(s), 2 sentences
 - `yt-c22-040` : คับแค้นใจ (to feel deeply wronged, resentful) : 1 meaning(s), 2 sentences
 - `yt-c22-042` : ฉลาดแกมโกง (clever but dishonest, cunning, sly) : 1 meaning(s), 2 sentences
+- `yt-c22-043` : โง่ดักดาน (complete idiot, hopelessly stupid (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c22-044` : ไสหัวไป ("piss off", "get lost", "get the hell out" (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c22-045` : พ่อมึงตาย, แม่มึงตาย ("fuck you", "fuck your mother" (slang, very rude)) : 1 meaning(s), 2 sentences
 - `yt-c22-047` : เหลือทน (unbearable, intolerable) : 1 meaning(s), 2 sentences
+- `new-71` : ตกอับ (to fall on hard times, to become destitute (sudden decline in fortune or status)) : 1 meaning(s), 2 sentences
+- `new-72` : จมไม่ลง (to become destitute yet continue living as though nothing happened, to keep up normal appearances) : 1 meaning(s), 2 sentences
 - `yt-c22-049` : สจ๊วต (steward (male air hostess)) : 1 meaning(s), 2 sentences
+- `yt-c22-050` : รายจ่าย (expenses) : 1 meaning(s), 2 sentences
 - `yt-c22-051` : อับ (stuffy, poorly ventilated, cramped (enclosed space with no flow, no way out)) : 1 meaning(s), 2 sentences
 - `yt-c22-053` : ฉ้อฉล (fraudulent, corrupt) : 1 meaning(s), 2 sentences
 - `new-8` : ฉ้อโกง (to defraud, to scam, to cheat someone (e.g out of money or property)) : 1 meaning(s), 2 sentences
 - `yt-c22-054` : คดีแพ่ง - คดีอาญา (civil case - criminal case) : 1 meaning(s), 2 sentences
+- `yt-c22-055` : เลี่ยงบาลี (to evade rules or blame through technicalities, to exploit loopholes in wording (implied dishonesty)) : 1 meaning(s), 2 sentences
 - `yt-c22-056` : เลี่ยง, หลีกเลี่ยง (to avoid, to evade (e.g law, tax, etc)) : 1 meaning(s), 2 sentences
 - `yt-c22-057` : พระธรรมวินัย (Buddhist doctrine and monastic discipline (rules for the monks and nuns to follow)) : 1 meaning(s), 2 sentences
 - `yt-c22-058` : ช่องโหว่ (loophole, gap, vulnerability) : 1 meaning(s), 2 sentences
 - `yt-c22-059` : ท้วม ((not rude) plump, chubby, somewhat overweight) : 1 meaning(s), 2 sentences
 - `yt-c22-060` : ผู้หลักผู้ใหญ่ (senior figure, elder, respected adult) : 1 meaning(s), 2 sentences
+- `yt-c22-061` : ชักหน้าไม่ถึงหลัง ((idiom) to struggle financially, to barely make ends meet (roundabout way to say you're broke)) : 1 meaning(s), 2 sentences
+- `yt-c22-062` : จิมิ (vagina (not rude, used mostly with children)) : 1 meaning(s), 2 sentences
 - `yt-c22-064` : อย่างมีเหตุผล (rationally, logically, with good reason) : 1 meaning(s), 2 sentences
 - `yt-c22-065` : รัฐประหาร (coup d'état (overthrow of a government by force)) : 1 meaning(s), 2 sentences
 - `yt-c22-066` : ประชาธิปไตย (democracy) : 1 meaning(s), 2 sentences
+- `yt-c22-067` : เข่นฆ่า (to slaughter, to massacre) : 1 meaning(s), 2 sentences
+- `yt-c22-068` : ความกำหนัด (sexual desire, lust) : 1 meaning(s), 2 sentences
 - `yt-c22-069` : เก็บเงิน, เก็บออมเงิน (to save money) : 1 meaning(s), 2 sentences
 - `yt-c22-070` : ความเสถียร (stability, steadiness) : 1 meaning(s), 2 sentences
+- `yt-c22-071` : อุดมคติ (ideals (e.g philosophical, political, etc), ideal principles) : 1 meaning(s), 2 sentences
 - `yt-c22-072` : เด็กเกเร (delinquent child, misbehaving and troublesome kid) : 1 meaning(s), 2 sentences
 - `yt-c22-073` : ย่ำ (to tread, to stomp on, to trample) : 1 meaning(s), 2 sentences
 - `yt-c22-074` : การผูกขาด (monopoly) : 1 meaning(s), 2 sentences
