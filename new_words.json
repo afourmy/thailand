@@ -289,7 +289,6 @@
     "english": "view, scenery",
     "frequency": "common"
   },
-
   {
     "thai": "สมการ",
     "english": "equation",
@@ -297,58 +296,33 @@
   },
   {
     "thai": "แกนนำ",
-    "english": "backbone; mainstay",
+    "english": "leader, key organizor, leading figure",
     "frequency": "common"
-  },
-  {
-    "thai": "ผู้ขาย",
-    "english": "vendor; seller",
-    "frequency": "common"
-  },
-  {
-    "thai": "แย้ม",
-    "english": "bloom; reveal",
-    "frequency": "occasional"
   },
   {
     "thai": "อนุโลม",
-    "english": "adapt; modify",
+    "english": "to allow as an exception, to relax a rule",
     "frequency": "occasional"
   },
   {
     "thai": "เวทนา",
-    "english": "pity; sympathize with",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ลุ่มน้ำ",
-    "english": "river basin",
+    "english": "pity, to sympathize with",
     "frequency": "occasional"
   },
   {
     "thai": "พระราชกฤษฎีกา",
-    "english": "royal decree",
+    "english": "royal decree (a law issued by the King)",
     "frequency": "rare"
   },
   {
-    "thai": "รับแขก",
-    "english": "receive guest",
-    "frequency": "common"
-  },
-  {
     "thai": "ต้านทาน",
-    "english": "resist",
-    "frequency": "common"
-  },
-  {
-    "thai": "อัลบั้ม",
-    "english": "album",
+    "english": "to resist, to withstand",
     "frequency": "common"
   },
   {
     "thai": "รักษาการ",
-    "english": "act for; be on duty",
-    "frequency": "occasional"
+    "english": "to act as, to serving temporarily in a position",
+    "frequency": "rare"
   },
   {
     "thai": "ค่าเฉลี่ย",
@@ -357,194 +331,80 @@
   },
   {
     "thai": "ราชโองการ",
-    "english": "king's command; king's order",
+    "english": "king's command, king's order",
     "frequency": "rare"
   },
   {
     "thai": "นิคม",
-    "english": "settlement; estate",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ภัทร",
-    "english": "prosperous; good",
+    "english": "settlement, estate",
     "frequency": "rare"
   },
   {
-    "thai": "โคจร",
-    "english": "orbit",
-    "frequency": "occasional"
-  },
-  {
     "thai": "เงินได้",
-    "english": "income",
+    "english": "income, earnings",
     "frequency": "occasional"
   },
   {
     "thai": "บี้",
-    "english": "crush; smash; press",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "เริง",
-    "english": "lively; cheerful",
+    "english": "to crush, to smash, to squeeze",
     "frequency": "occasional"
   },
   {
     "thai": "โภชนาการ",
-    "english": "diet; nutrition",
+    "english": "nutrition",
     "frequency": "occasional"
   },
   {
     "thai": "กลั้น",
-    "english": "restrain; hold back",
-    "frequency": "common"
-  },
-  {
-    "thai": "เจ้าคุณ",
-    "english": "he; you (to special rank)",
-    "frequency": "rare"
-  },
-  {
-    "thai": "พฤติการณ์",
-    "english": "behaviour; conduct",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "กรรมาชีพ",
-    "english": "laborer",
-    "frequency": "rare"
-  },
-  {
-    "thai": "สาบาน",
-    "english": "swear; vow",
+    "english": "to restrain, to hold back, to suppress",
     "frequency": "common"
   },
   {
     "thai": "อุปการะ",
-    "english": "aid; give money",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "นิพพาน",
-    "english": "Enlightenment",
+    "english": "to care for, to provide assistance, to give money",
     "frequency": "occasional"
   },
   {
     "thai": "โฆษก",
-    "english": "broadcaster; spokesman",
+    "english": "spokesperson, announcer, broadcaster",
     "frequency": "common"
   },
   {
-    "thai": "นักหนา",
-    "english": "much; very",
-    "frequency": "occasional"
-  },
-  {
     "thai": "ชัดแจ้ง",
-    "english": "clearly; obviously",
+    "english": "clear, obvious, explicit",
     "frequency": "common"
   },
   {
     "thai": "พิธีการ",
-    "english": "ceremony",
+    "english": "ceremony, formalities, protocol",
     "frequency": "occasional"
-  },
-  {
-    "thai": "เต๋า",
-    "english": "taoism; dice",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ซุ้ม",
-    "english": "arch",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "นิมิต",
-    "english": "omen; sign",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "เลขา",
-    "english": "secretary",
-    "frequency": "common"
-  },
-  {
-    "thai": "เต็มที",
-    "english": "extremely",
-    "frequency": "common"
-  },
-  {
-    "thai": "ตัณหา",
-    "english": "passion; lust; desire",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ฉลาก",
-    "english": "label",
-    "frequency": "common"
-  },
-  {
-    "thai": "มเหสี",
-    "english": "consort; queen",
-    "frequency": "rare"
-  },
-  {
-    "thai": "เนื้อเรื่อง",
-    "english": "plot; outline; story",
-    "frequency": "common"
   },
   {
     "thai": "ส่วนภูมิภาค",
-    "english": "provincial",
+    "english": "provincial sector, the regions outside the capital",
     "frequency": "occasional"
   },
   {
     "thai": "เสื่อมโทรม",
-    "english": "degenerate",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ข่ม",
-    "english": "oppress; supress",
-    "frequency": "common"
-  },
-  {
-    "thai": "ผู้บัญชาการ",
-    "english": "commander in chief",
-    "frequency": "occasional"
-  },
-  {
-    "thai": "ประชาชาติ",
-    "english": "national",
+    "english": "to deteriorate, to decline, to become run down",
     "frequency": "occasional"
   },
   {
     "thai": "หลักทรัพย์",
-    "english": "property; possession",
+    "english": "securities (stocks, bonds, etc)",
     "frequency": "occasional"
   },
   {
     "thai": "คืบหน้า",
-    "english": "progress; advance",
+    "english": "to make progress, to advance",
     "frequency": "common"
   },
   {
     "thai": "สินทรัพย์",
-    "english": "asset",
-    "frequency": "common"
+    "english": "asset, property",
+    "frequency": "occasional"
   },
-  {
-    "thai": "คุณตา",
-    "english": "grandpa",
-    "frequency": "common"
-  },
-  {
-    "thai": "คดีอาญา",
-    "english": "criminal case",
-    "frequency": "common"
-  },
+
   {
     "thai": "ประชามติ",
     "english": "referendum; public opinion",
