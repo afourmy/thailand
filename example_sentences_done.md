@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8494 words**
+**Total: 8504 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5553,11 +5553,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-012` : ดวงหน้า (face, facial features) : 1 meaning(s), 2 sentences
 - `yt-c12-013` : อึ่ง, อึ่งอ่าง (bullfrog) : 1 meaning(s), 2 sentences
 - `yt-c12-014` : มะขาม - มะขามเทศ (tamarind - manila tamarind (fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-015` : มะตูม (bael fruit) : 1 meaning(s), 2 sentences
+- `yt-c12-016` : มะปราง, มะยงชิด (type of Thai plum (fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-017` : ลูกตาล (sugar palm fruit) : 1 meaning(s), 2 sentences
 - `yt-c12-018` : ขนุน (jackfruit) : 1 meaning(s), 2 sentences
 - `yt-c12-019` : ลองกอง (longkong (type of fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-020` : ลางสาด (langsat (or duku) (type of fruit)) : 1 meaning(s), 2 sentences
 - `yt-c12-021` : ส้มโอ (pomelo (fruit)) : 1 meaning(s), 2 sentences
 - `yt-c12-023` : มะเฟือง (starfruit (type of fruit)) : 1 meaning(s), 2 sentences
 - `yt-c12-024` : ส้มเช้ง (mandarin orange (type of fruit)) : 1 meaning(s), 2 sentences
+- `yt-c12-025` : มะยม (indian gooseberry (type of fruit)) : 1 meaning(s), 2 sentences
 - `yt-c12-026` : ละมุด (sapodilla (type of fruit)) : 1 meaning(s), 2 sentences
 - `yt-c12-027` : อบเชย (cinnamon) : 1 meaning(s), 2 sentences
 - `yt-c12-028` : ย้อนหลัง (after the fact, retroactively (e.g to send homework late, to wish a birthday late)) : 1 meaning(s), 2 sentences
@@ -5567,10 +5572,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-031` : พร่อง - เต็ม - ล้น (less than full, deficient, lacking, below standard - full - more than full, overflow) : 1 meaning(s), 3 sentences
 - `yt-c12-032` : บกพร่อง (defective, lacking, flawed) : 1 meaning(s), 2 sentences
 - `yt-c12-032b` : ข้อบกพร่อง (defect, flaw) : 1 meaning(s), 2 sentences
+- `yt-c12-033` : อย่า(ทำตัว)เป็นน้ำเต็มแก้ว ("don't act like you know everything", someone who refuses to learn new things (literally "don't act like a full glass of water")) : 1 meaning(s), 2 sentences
+- `yt-c12-034` : คนไม่เต็ม (someone weird, crazy, mentally unstable) : 1 meaning(s), 2 sentences
 - `yt-c12-035` : วน (to rotate, to go in circle) : 1 meaning(s), 2 sentences
 - `yt-c12-036` : พบพาน, พานพบ (to meet, to encounter (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-037` : พบปะ (to meet (usually in a social setting, like friends, coworkers), to meet and socialize) : 1 meaning(s), 2 sentences
+- `yt-c12-038` : หนีเสือปะจระเข้ (to escape one danger only to fall in another) : 1 meaning(s), 2 sentences
+- `yt-c12-039` : วาสนา (fate, destiny (spiritual, karmic sense: merit from past lives)) : 1 meaning(s), 2 sentences
 - `yt-c12-041` : ใคร่ครวญ (to reflect deeply, to ponder carefully (literary)) : 1 meaning(s), 2 sentences
+- `yt-c12-042` : ไตร่ตรอง (to deliberate carefully, to weigh all aspects before making a decision (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-044` : เหี้ย, ตัวเงินตัวทอง, วรนุช (monitor lizard) : 1 meaning(s), 2 sentences
 - `yt-c12-046` : สังขาร (human body (Buddhist term)) : 1 meaning(s), 2 sentences
 - `yt-c12-049` : (เอา)เสียเลย, (เอา)ซะเลย ("go ahead and...", "do it completely", "do it once and for all" (conveys impatience, annoyance)) : 1 meaning(s), 2 sentences
