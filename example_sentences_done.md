@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8803 words**
+**Total: 8813 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6405,10 +6405,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-043` : เพ้อเจ้อ (to talk nonsense, to ramble incoherently, to be delusional) : 1 meaning(s), 2 sentences
 - `yt-c21-044` : เวลาเยียวยาทุกสิ่ง (time heals all wounds) : 1 meaning(s), 1 sentences
 - `yt-c21-045` : หนังโป๊ (porno) : 1 meaning(s), 2 sentences
+- `yt-c21-046` : ชอบแรงๆ - ชอบเบาๆ ("I like it rough" - "I like it gentle" (slang, sexual)) : 1 meaning(s), 2 sentences
 - `yt-c21-047` : คราง (to groan, to moan (e.g heavy work, sex)) : 1 meaning(s), 2 sentences
 - `yt-c21-048` : แดก (to devour, to eat (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c21-049` : สวาปาม (to eat greedily or voraciously, to wolf down (colloquial, often humorous or pejorative)) : 1 meaning(s), 2 sentences
 - `yt-c21-050` : กินมูมมาม (to eat messily and greedily, to make a mess while eating (slang)) : 1 meaning(s), 2 sentences
+- `yt-c21-051` : จวน (almost, nearly) : 1 meaning(s), 2 sentences
 - `yt-c21-052` : ยอดมนุษย์ (superhero) : 1 meaning(s), 2 sentences
 - `yt-c21-053` : งานประดิษฐ์ (handicraft, craftwork) : 1 meaning(s), 2 sentences
 - `yt-c21-054` : ขับเคลื่อน (to drive, to propel, to move forward) : 1 meaning(s), 2 sentences
@@ -6419,17 +6421,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-061` : พอเพียง (sufficient, self-restrained, having just enough, not excessive not lacking) : 1 meaning(s), 2 sentences
 - `yt-c21-062` : เจ็บแล้วจำคือคน เจ็บแล้วทนคือควาย ((idiom) if you get hurt and learn from it, you're a human, if you get hurt and endure you're a buffalo) : 1 meaning(s), 1 sentences
 - `yt-c21-063` : พระมหากรุณาธิคุณ (deep royal kindness, the monarch's immense kindness) : 1 meaning(s), 2 sentences
+- `yt-c21-066` : ไว้อาลัย (to mourn, to express condolences, to pay respects after someone's death) : 1 meaning(s), 2 sentences
 - `yt-c21-067` : รื่นเริง (cheerful, joyful (atmosphere, event)) : 1 meaning(s), 2 sentences
+- `yt-c21-068` : น้อมสำนึก (to humbly acknowledge) : 1 meaning(s), 2 sentences
 - `yt-c21-069` : เฉียด ("almost there", "narrowly missed", to narrowly miss, to almost hit) : 1 meaning(s), 2 sentences
 - `yt-c21-070` : ตะเบ็ง (to shout, to yell) : 1 meaning(s), 2 sentences
 - `yt-c21-071` : พึมพำ (to mumble) : 1 meaning(s), 2 sentences
+- `yt-c21-072` : แดกดัน (ironic, sarcastic (negative connotation, e.g using irony in an offensive way)) : 1 meaning(s), 2 sentences
+- `yt-c21-073` : เดินตัวปลิว (to walk lightly, happily, with a sense of freedom or joy) : 1 meaning(s), 2 sentences
 - `yt-c21-074` : เหลือบ (to glance, to peek quickly (brief or sideway look to be discrete)) : 1 meaning(s), 2 sentences
+- `yt-c21-075` : หยีตา, หรี่ตา (to squint, to narrow the eyes) : 1 meaning(s), 2 sentences
 - `yt-c21-078` : แอ๊บ (to act, to pretend (usually to look like something one is not)) : 1 meaning(s), 2 sentences
 - `new-3` : แอ๊บแบ๊ว (to act cute, innocent in an exaggerated way) : 1 meaning(s), 2 sentences
 - `new-4` : แอ๊บแมน (to act manly, to pretend to be masculine) : 1 meaning(s), 2 sentences
 - `new-5` : แอ๊บใส (to act innocent, pure) : 1 meaning(s), 2 sentences
 - `yt-c21-079` : เสี่ยว (cheesy, corny, cringey) : 1 meaning(s), 2 sentences
+- `yt-c21-080` : ส่อเสียด (to insinuate, to speak with innuendo, to hint maliciously) : 1 meaning(s), 2 sentences
+- `yt-c21-081` : แผดเผา (to scorch, to blaze) : 1 meaning(s), 2 sentences
 - `yt-c21-082` : โพลล์ (poll (politics)) : 1 meaning(s), 2 sentences
+- `yt-c21-083` : ผู้ตอบแบบสอบถาม (survey respondent) : 1 meaning(s), 2 sentences
 - `yt-c21-084` : กาวใจ (the one who holds everyone together, peacemaker, mediator) : 1 meaning(s), 2 sentences
 - `yt-c21-085` : ข้องใจ (to have doubts, lingering questions, to be bothered by something) : 1 meaning(s), 2 sentences
 - `yt-c21-086` : ชนะใจ (to win someone's heart) : 1 meaning(s), 2 sentences

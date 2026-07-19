@@ -194581,6 +194581,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"I like it rough\" - \"I like it gentle\" (slang, sexual)",
+        "sentences": [
+          {
+            "thai": "เธอบอกแฟนว่าชอบแรงๆ ไม่ชอบทะนุถนอม",
+            "en": "She told her boyfriend she likes it rough, not gentle.",
+            "audio_src": "เธอบอกแฟนว่าชอบแรงๆ ไม่ชอบทะนุถนอม",
+            "audio_en_src": "She told her boyfriend she likes it rough, not gentle."
+          },
+          {
+            "thai": "ผู้ชายคนนี้ชอบเบาๆ ค่อยเป็นค่อยไป",
+            "en": "This guy likes it gentle, slow and easy.",
+            "audio_src": "ผู้ชายคนนี้ชอบเบาๆ ค่อยเป็นค่อยไป",
+            "audio_en_src": "This guy likes it gentle, slow and easy."
+          }
+        ]
+      }
     ]
   },
   {
@@ -194704,6 +194723,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "almost, nearly",
+        "sentences": [
+          {
+            "thai": "จวนจะถึงบ้านแล้วฝนก็ตก",
+            "en": "I was almost home when it started to rain.",
+            "audio_src": "จวนจะถึงบ้านแล้วฝนก็ตก",
+            "audio_en_src": "I was almost home when it started to rain."
+          },
+          {
+            "thai": "น้ำในขวดจวนจะหมดแล้ว",
+            "en": "The water in the bottle is almost gone.",
+            "audio_src": "น้ำในขวดจวนจะหมดแล้ว",
+            "audio_en_src": "The water in the bottle is almost gone."
+          }
+        ]
+      }
     ]
   },
   {
@@ -194998,6 +195036,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to mourn, to express condolences, to pay respects after someone's death",
+        "sentences": [
+          {
+            "thai": "ประชาชนแต่งชุดดำเพื่อไว้อาลัยผู้เสียชีวิต",
+            "en": "People wore black to mourn the deceased.",
+            "audio_src": "ประชาชนแต่งชุดดำเพื่อไว้อาลัยผู้เสียชีวิต",
+            "audio_en_src": "People wore black to mourn the deceased."
+          },
+          {
+            "thai": "ทุกคนยืนสงบนิ่งไว้อาลัยหนึ่งนาที",
+            "en": "Everyone stood in silence for a minute to pay their respects.",
+            "audio_src": "ทุกคนยืนสงบนิ่งไว้อาลัยหนึ่งนาที",
+            "audio_en_src": "Everyone stood in silence for a minute to pay their respects."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195035,6 +195092,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to humbly acknowledge",
+        "sentences": [
+          {
+            "thai": "ประชาชนน้อมสำนึกในพระมหากรุณาธิคุณ",
+            "en": "The people humbly acknowledge the king's great benevolence.",
+            "audio_src": "ประชาชนน้อมสำนึกในพระมหากรุณาธิคุณ",
+            "audio_en_src": "The people humbly acknowledge the king's great benevolence."
+          },
+          {
+            "thai": "เขาน้อมสำนึกในบุญคุณของครูบาอาจารย์",
+            "en": "He humbly acknowledges the kindness of his teachers.",
+            "audio_src": "เขาน้อมสำนึกในบุญคุณของครูบาอาจารย์",
+            "audio_en_src": "He humbly acknowledges the kindness of his teachers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195134,6 +195210,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "ironic, sarcastic (negative connotation, e.g using irony in an offensive way)",
+        "sentences": [
+          {
+            "thai": "เขาพูดแดกดันว่าเก่งจังนะถึงทำพังได้",
+            "en": "He said sarcastically, 'Wow, so talented you managed to break it.'",
+            "audio_src": "เขาพูดแดกดันว่าเก่งจังนะถึงทำพังได้",
+            "audio_en_src": "He said sarcastically, 'Wow, so talented you managed to break it.'"
+          },
+          {
+            "thai": "อย่าพูดแดกดันคนอื่นแบบนี้ มันไม่น่ารักเลย",
+            "en": "Don't be so sarcastic with people, it's not nice.",
+            "audio_src": "อย่าพูดแดกดันคนอื่นแบบนี้ มันไม่น่ารักเลย",
+            "audio_en_src": "Don't be so sarcastic with people, it's not nice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195143,6 +195238,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to walk lightly, happily, with a sense of freedom or joy",
+        "sentences": [
+          {
+            "thai": "พอได้เงินเดือน เธอเดินตัวปลิวออกจากออฟฟิศ",
+            "en": "Once she got her paycheck, she walked out of the office practically floating.",
+            "audio_src": "พอได้เงินเดือน เธอเดินตัวปลิวออกจากออฟฟิศ",
+            "audio_en_src": "Once she got her paycheck, she walked out of the office practically floating."
+          },
+          {
+            "thai": "สอบเสร็จแล้วเด็กๆเดินตัวปลิวกลับบ้าน",
+            "en": "After the exam, the kids walked home light as a feather.",
+            "audio_src": "สอบเสร็จแล้วเด็กๆเดินตัวปลิวกลับบ้าน",
+            "audio_en_src": "After the exam, the kids walked home light as a feather."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195183,6 +195297,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to squint, to narrow the eyes",
+        "sentences": [
+          {
+            "thai": "แดดจ้าจนเขาต้องหยีตามอง",
+            "en": "The sun was so bright he had to squint to see.",
+            "audio_src": "แดดจ้าจนเขาต้องหยีตามอง",
+            "audio_en_src": "The sun was so bright he had to squint to see."
+          },
+          {
+            "thai": "เธอหรี่ตาอ่านตัวหนังสือเล็กๆบนป้าย",
+            "en": "She narrowed her eyes to read the tiny letters on the sign.",
+            "audio_src": "เธอหรี่ตาอ่านตัวหนังสือเล็กๆบนป้าย",
+            "audio_en_src": "She narrowed her eyes to read the tiny letters on the sign."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195332,6 +195465,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to insinuate, to speak with innuendo, to hint maliciously",
+        "sentences": [
+          {
+            "thai": "เขาชอบพูดส่อเสียดให้คนอื่นเกลียดกัน",
+            "en": "He likes to make snide insinuations to turn people against each other.",
+            "audio_src": "เขาชอบพูดส่อเสียดให้คนอื่นเกลียดกัน",
+            "audio_en_src": "He likes to make snide insinuations to turn people against each other."
+          },
+          {
+            "thai": "คอมเมนต์นี้ส่อเสียดเรื่องชู้สาวของดารา",
+            "en": "This comment insinuates about the celebrity's affair.",
+            "audio_src": "คอมเมนต์นี้ส่อเสียดเรื่องชู้สาวของดารา",
+            "audio_en_src": "This comment insinuates about the celebrity's affair."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195341,6 +195493,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to scorch, to blaze",
+        "sentences": [
+          {
+            "thai": "แดดยามเที่ยงแผดเผาจนผิวไหม้",
+            "en": "The noon sun blazed down and burned the skin.",
+            "audio_src": "แดดยามเที่ยงแผดเผาจนผิวไหม้",
+            "audio_en_src": "The noon sun blazed down and burned the skin."
+          },
+          {
+            "thai": "ไฟป่าแผดเผาต้นไม้ไปทั้งภูเขา",
+            "en": "The wildfire scorched the trees across the whole mountain.",
+            "audio_src": "ไฟป่าแผดเผาต้นไม้ไปทั้งภูเขา",
+            "audio_en_src": "The wildfire scorched the trees across the whole mountain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -195378,6 +195549,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "survey respondent",
+        "sentences": [
+          {
+            "thai": "ผู้ตอบแบบสอบถามส่วนใหญ่เป็นวัยรุ่น",
+            "en": "Most of the survey respondents were teenagers.",
+            "audio_src": "ผู้ตอบแบบสอบถามส่วนใหญ่เป็นวัยรุ่น",
+            "audio_en_src": "Most of the survey respondents were teenagers."
+          },
+          {
+            "thai": "นักวิจัยขอบคุณผู้ตอบแบบสอบถามทุกคน",
+            "en": "The researcher thanked all the survey respondents.",
+            "audio_src": "นักวิจัยขอบคุณผู้ตอบแบบสอบถามทุกคน",
+            "audio_en_src": "The researcher thanked all the survey respondents."
+          }
+        ]
+      }
     ]
   },
   {
