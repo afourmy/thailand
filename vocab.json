@@ -261154,6 +261154,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "democrats",
+        "sentences": [
+          {
+            "thai": "พรรคประชาธิปัตย์เป็นพรรคการเมืองที่เก่าแก่ที่สุดในไทย",
+            "en": "The Democrat Party is the oldest political party in Thailand.",
+            "audio_src": "พรรคประชาธิปัตย์เป็นพรรคการเมืองที่เก่าแก่ที่สุดในไทย",
+            "audio_en_src": "The Democrat Party is the oldest political party in Thailand."
+          },
+          {
+            "thai": "เขาลงสมัครรับเลือกตั้งในนามพรรคประชาธิปัตย์",
+            "en": "He ran for election under the Democrat Party.",
+            "audio_src": "เขาลงสมัครรับเลือกตั้งในนามพรรคประชาธิปัตย์",
+            "audio_en_src": "He ran for election under the Democrat Party."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261193,6 +261212,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fortress, stronghold, guard post",
+        "sentences": [
+          {
+            "thai": "ทหารเฝ้ายามอยู่ที่ป้อมหน้าค่าย",
+            "en": "The soldiers stood guard at the post in front of the camp.",
+            "audio_src": "ทหารเฝ้ายามอยู่ที่ป้อมหน้าค่าย",
+            "audio_en_src": "The soldiers stood guard at the post in front of the camp."
+          },
+          {
+            "thai": "ป้อมปราการเก่าแก่นี้สร้างไว้ป้องกันข้าศึก",
+            "en": "This ancient fortress was built to defend against enemies.",
+            "audio_src": "ป้อมปราการเก่าแก่นี้สร้างไว้ป้องกันข้าศึก",
+            "audio_en_src": "This ancient fortress was built to defend against enemies."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261232,6 +261270,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "world war",
+        "sentences": [
+          {
+            "thai": "สงครามโลกครั้งที่สองจบลงในปีหนึ่งเก้าสี่ห้า",
+            "en": "World War II ended in 1945.",
+            "audio_src": "สงครามโลกครั้งที่สองจบลงในปีหนึ่งเก้าสี่ห้า",
+            "audio_en_src": "World War II ended in 1945."
+          },
+          {
+            "thai": "ปู่ของเขาเคยเป็นทหารในสงครามโลก",
+            "en": "His grandfather was a soldier in the world war.",
+            "audio_src": "ปู่ของเขาเคยเป็นทหารในสงครามโลก",
+            "audio_en_src": "His grandfather was a soldier in the world war."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261241,6 +261298,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "loyal, faithful, devoted (formal)",
+        "sentences": [
+          {
+            "thai": "สุนัขเป็นสัตว์ที่ภักดีต่อเจ้าของ",
+            "en": "Dogs are animals loyal to their owners.",
+            "audio_src": "สุนัขเป็นสัตว์ที่ภักดีต่อเจ้าของ",
+            "audio_en_src": "Dogs are animals loyal to their owners."
+          },
+          {
+            "thai": "ทหารภักดีต่อชาติและปกป้องแผ่นดิน",
+            "en": "Soldiers are loyal to the nation and defend the land.",
+            "audio_src": "ทหารภักดีต่อชาติและปกป้องแผ่นดิน",
+            "audio_en_src": "Soldiers are loyal to the nation and defend the land."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261250,6 +261326,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "photo (formal)",
+        "sentences": [
+          {
+            "thai": "เขาเก็บภาพถ่ายเก่าๆของครอบครัวไว้ในอัลบั้ม",
+            "en": "He keeps old family photos in an album.",
+            "audio_src": "เขาเก็บภาพถ่ายเก่าๆของครอบครัวไว้ในอัลบั้ม",
+            "audio_en_src": "He keeps old family photos in an album."
+          },
+          {
+            "thai": "ภาพถ่ายใบนี้ถ่ายไว้เมื่อสามสิบปีก่อน",
+            "en": "This photo was taken thirty years ago.",
+            "audio_src": "ภาพถ่ายใบนี้ถ่ายไว้เมื่อสามสิบปีก่อน",
+            "audio_en_src": "This photo was taken thirty years ago."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261635,6 +261730,25 @@
       "Thai 4000",
       "Thai 9000",
       "Tobo Deck"
+    ],
+    "examples": [
+      {
+        "meaning": "dawn",
+        "sentences": [
+          {
+            "thai": "แสงอรุณเริ่มสาดส่องขอบฟ้า",
+            "en": "The dawn light began to spread across the horizon.",
+            "audio_src": "แสงอรุณเริ่มสาดส่องขอบฟ้า",
+            "audio_en_src": "The dawn light began to spread across the horizon."
+          },
+          {
+            "thai": "เรานั่งรอชมรุ่งอรุณบนยอดเขา",
+            "en": "We sat waiting to watch the dawn from the mountaintop.",
+            "audio_src": "เรานั่งรอชมรุ่งอรุณบนยอดเขา",
+            "audio_en_src": "We sat waiting to watch the dawn from the mountaintop."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261644,6 +261758,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to live, to lead one's life (formal)",
+        "sentences": [
+          {
+            "thai": "คนเราต้องมีอาหารและน้ำเพื่อดำรงชีวิต",
+            "en": "People need food and water to live.",
+            "audio_src": "คนเราต้องมีอาหารและน้ำเพื่อดำรงชีวิต",
+            "audio_en_src": "People need food and water to live."
+          },
+          {
+            "thai": "เขาดำรงชีวิตอย่างเรียบง่ายในชนบท",
+            "en": "He lives a simple life in the countryside.",
+            "audio_src": "เขาดำรงชีวิตอย่างเรียบง่ายในชนบท",
+            "audio_en_src": "He lives a simple life in the countryside."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261846,6 +261979,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to contribute, to join in, to participate in (formal)",
+        "sentences": [
+          {
+            "thai": "ทุกคนช่วยกันสมทบเงินซื้อของขวัญให้เพื่อน",
+            "en": "Everyone chipped in to buy a gift for their friend.",
+            "audio_src": "ทุกคนช่วยกันสมทบเงินซื้อของขวัญให้เพื่อน",
+            "audio_en_src": "Everyone chipped in to buy a gift for their friend."
+          },
+          {
+            "thai": "นักดับเพลิงจากอีกจังหวัดมาสมทบกำลังดับไฟ",
+            "en": "Firefighters from another province joined in to help put out the fire.",
+            "audio_src": "นักดับเพลิงจากอีกจังหวัดมาสมทบกำลังดับไฟ",
+            "audio_en_src": "Firefighters from another province joined in to help put out the fire."
+          }
+        ]
+      }
     ]
   },
   {
@@ -261971,6 +262123,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "finally, at last",
+        "sentences": [
+          {
+            "thai": "รอมานานในที่สุดรถเมล์ก็มาเสียที",
+            "en": "After a long wait, the bus finally came.",
+            "audio_src": "รอมานานในที่สุดรถเมล์ก็มาเสียที",
+            "audio_en_src": "After a long wait, the bus finally came."
+          },
+          {
+            "thai": "ทำงานเสร็จเสียทีจะได้พักผ่อน",
+            "en": "The work is finally done, now I can rest.",
+            "audio_src": "ทำงานเสร็จเสียทีจะได้พักผ่อน",
+            "audio_en_src": "The work is finally done, now I can rest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -262040,6 +262211,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to arise, to occur, to come into existence (literary)",
+        "sentences": [
+          {
+            "thai": "ความรักบังเกิดขึ้นในใจของเขาโดยไม่รู้ตัว",
+            "en": "Love arose in his heart without him realizing it.",
+            "audio_src": "ความรักบังเกิดขึ้นในใจของเขาโดยไม่รู้ตัว",
+            "audio_en_src": "Love arose in his heart without him realizing it."
+          },
+          {
+            "thai": "เมื่อมีวิกฤต ความสามัคคีก็บังเกิดขึ้นในหมู่ประชาชน",
+            "en": "In a crisis, unity arises among the people.",
+            "audio_src": "เมื่อมีวิกฤต ความสามัคคีก็บังเกิดขึ้นในหมู่ประชาชน",
+            "audio_en_src": "In a crisis, unity arises among the people."
+          }
+        ]
+      }
     ]
   },
   {

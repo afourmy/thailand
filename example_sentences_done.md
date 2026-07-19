@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8903 words**
+**Total: 8913 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8544,8 +8544,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-076` : ก็แล้วกัน ("fine then", "alright then" (used to accept a decision, reluctantly or after hesitation)) : 1 meaning(s), 2 sentences
 - `t4k-c06-077` : วางตัว (to behave, to conduct oneself) : 1 meaning(s), 2 sentences
 - `t4k-c06-078` : อุดมการณ์ (ideology) : 1 meaning(s), 2 sentences
+- `t4k-c06-081` : ประชาธิปัตย์ (democrats) : 1 meaning(s), 2 sentences
 - `t4k-c06-083` : หุ้ม (to wrap, to cover completely) : 1 meaning(s), 2 sentences
+- `t4k-c06-084` : ป้อม (fortress, stronghold, guard post) : 1 meaning(s), 2 sentences
 - `t4k-c06-086` : โยง (to link, to connect, to tie together) : 1 meaning(s), 2 sentences
+- `t4k-c06-087` : สงครามโลก (world war) : 1 meaning(s), 2 sentences
+- `t4k-c06-089` : ภักดี (loyal, faithful, devoted (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c06-090` : ภาพถ่าย (photo (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c06-093` : เครื่องยนต์ (engine) : 1 meaning(s), 2 sentences
 - `t4k-c06-094` : นักวิจัย (researcher) : 1 meaning(s), 2 sentences
 - `t4k-c06-095` : เอ็น (tendon, ligament) : 1 meaning(s), 2 sentences
@@ -8559,18 +8564,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-006` : ศัพท์ (vocabulary, term) : 1 meaning(s), 2 sentences
 - `t4k-c07-009` : ตกต่ำ (to decline, to deteriorate) : 1 meaning(s), 2 sentences
 - `t4k-c07-011` : ผู้ว่าราชการ (governor) : 1 meaning(s), 2 sentences
+- `t4k-c07-012` : อรุณ, รุ่งอรุณ (dawn) : 1 meaning(s), 2 sentences
+- `t4k-c07-013` : ดำรงชีวิต (to live, to lead one's life (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-014` : มุสลิม (muslim) : 1 meaning(s), 2 sentences
 - `t4k-c07-021` : จิตสำนึก (conscience, moral awareness) : 1 meaning(s), 2 sentences
 - `t4k-c07-022` : รวบ (to gather, to collect together, to bundle up, to tie up; to arrest (police)) : 2 meaning(s), 4 sentences
 - `t4k-c07-023` : จุดเริ่มต้น (starting point) : 1 meaning(s), 2 sentences
 - `t4k-c07-026` : ฆ่าตัวตาย (to commit suicide) : 1 meaning(s), 2 sentences
 - `t4k-c07-029` : ผู้ดูแล (caretaker, supervisor) : 1 meaning(s), 2 sentences
+- `t4k-c07-031` : สมทบ (to contribute, to join in, to participate in (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-032` : ห้องเรียน (classroom) : 1 meaning(s), 2 sentences
 - `t4k-c07-033` : จัดวาง (to arrange, to lay out, to place) : 1 meaning(s), 2 sentences
 - `t4k-c07-035` : สดชื่น (refreshed, invigorated, lively (e.g feeling, atmosphere)) : 1 meaning(s), 2 sentences
 - `t4k-c07-036` : กฎเกณฑ์ (regulation, norm, standard) : 1 meaning(s), 2 sentences
+- `t4k-c07-037` : เสียที (finally, at last) : 1 meaning(s), 2 sentences
 - `t4k-c07-038` : รุก (to attack forward, to advance (e.g army, chess piece)) : 1 meaning(s), 2 sentences
 - `t4k-c07-040` : ฝุ่น (dust) : 1 meaning(s), 2 sentences
+- `t4k-c07-041` : บังเกิด (to arise, to occur, to come into existence (literary)) : 1 meaning(s), 2 sentences
 - `t4k-c07-044` : ภาคกลาง (central region) : 1 meaning(s), 2 sentences
 - `t4k-c07-045` : นรก (hell) : 1 meaning(s), 2 sentences
 - `t4k-c07-047` : สภาผู้แทนราษฎร (house of representatives (lower house of parliament)) : 1 meaning(s), 2 sentences
