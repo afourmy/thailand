@@ -188359,23 +188359,18 @@
         "sentences": [
           {
             "thai": "ผู้จัดการหยั่งเสียงพนักงานก่อนเปลี่ยนนโยบาย",
-            "en": "The manager sounded out the staff before changing the policy."
+            "en": "The manager sounded out the staff before changing the policy.",
+            "audio_src": "ผู้จัดการหยั่งเสียงพนักงานก่อนเปลี่ยนนโยบาย",
+            "audio_en_src": "The manager sounded out the staff before changing the policy."
           },
           {
             "thai": "เขาลองพูดหยั่งท่าทีของเธอว่าจะโกรธไหม",
-            "en": "He tested the waters to see if she'd be angry."
+            "en": "He tested the waters to see if she'd be angry.",
+            "audio_src": "เขาลองพูดหยั่งท่าทีของเธอว่าจะโกรธไหม",
+            "audio_en_src": "He tested the waters to see if she'd be angry."
           }
         ]
       }
-    ]
-  },
-  {
-    "id": "yt-c19-006",
-    "thai": "ยกตัด",
-    "english": "to completely cut off, to end something outright (e.g cut off a relationship, etc)",
-    "frequency": "occasional",
-    "sources": [
-      "YouTube"
     ]
   },
   {
@@ -188422,11 +188417,15 @@
         "sentences": [
           {
             "thai": "นักการเมืองสองคนปะทะฝีปากกันกลางสภา",
-            "en": "The two politicians clashed verbally in the middle of parliament."
+            "en": "The two politicians clashed verbally in the middle of parliament.",
+            "audio_src": "นักการเมืองสองคนปะทะฝีปากกันกลางสภา",
+            "audio_en_src": "The two politicians clashed verbally in the middle of parliament."
           },
           {
             "thai": "เธอกับเพื่อนบ้านปะทะฝีปากกันเรื่องที่จอดรถ",
-            "en": "She and her neighbor had a shouting match over parking."
+            "en": "She and her neighbor had a shouting match over parking.",
+            "audio_src": "เธอกับเพื่อนบ้านปะทะฝีปากกันเรื่องที่จอดรถ",
+            "audio_en_src": "She and her neighbor had a shouting match over parking."
           }
         ]
       }
@@ -188446,11 +188445,15 @@
         "sentences": [
           {
             "thai": "เขาเป็นทหารที่ตั้งใจรับใช้ประเทศชาติ",
-            "en": "He's a soldier devoted to serving the nation."
+            "en": "He's a soldier devoted to serving the nation.",
+            "audio_src": "เขาเป็นทหารที่ตั้งใจรับใช้ประเทศชาติ",
+            "audio_en_src": "He's a soldier devoted to serving the nation."
           },
           {
             "thai": "การเป็นครูก็เป็นการรับใช้ประเทศชาติอย่างหนึ่ง",
-            "en": "Being a teacher is also a way of serving the nation."
+            "en": "Being a teacher is also a way of serving the nation.",
+            "audio_src": "การเป็นครูก็เป็นการรับใช้ประเทศชาติอย่างหนึ่ง",
+            "audio_en_src": "Being a teacher is also a way of serving the nation."
           }
         ]
       }
@@ -188470,11 +188473,15 @@
         "sentences": [
           {
             "thai": "ประธานาธิบดีสาบานตนเข้ารับตำแหน่ง",
-            "en": "The president swore an oath to take office."
+            "en": "The president swore an oath to take office.",
+            "audio_src": "ประธานาธิบดีสาบานตนเข้ารับตำแหน่ง",
+            "audio_en_src": "The president swore an oath to take office."
           },
           {
             "thai": "พยานต้องสาบานตนก่อนให้การในศาล",
-            "en": "The witness must swear an oath before testifying in court."
+            "en": "The witness must swear an oath before testifying in court.",
+            "audio_src": "พยานต้องสาบานตนก่อนให้การในศาล",
+            "audio_en_src": "The witness must swear an oath before testifying in court."
           }
         ]
       }
@@ -188523,11 +188530,15 @@
         "sentences": [
           {
             "thai": "นานาชาติออกมาประณามการใช้ความรุนแรง",
-            "en": "The international community condemned the use of violence."
+            "en": "The international community condemned the use of violence.",
+            "audio_src": "นานาชาติออกมาประณามการใช้ความรุนแรง",
+            "audio_en_src": "The international community condemned the use of violence."
           },
           {
             "thai": "สังคมประณามการกระทำที่โหดร้ายนี้",
-            "en": "Society denounced this cruel act."
+            "en": "Society denounced this cruel act.",
+            "audio_src": "สังคมประณามการกระทำที่โหดร้ายนี้",
+            "audio_en_src": "Society denounced this cruel act."
           }
         ]
       }
@@ -188547,11 +188558,15 @@
         "sentences": [
           {
             "thai": "ฐานทัพเรือแห่งนี้มีเรือรบจอดอยู่หลายลำ",
-            "en": "This naval base has several warships docked there."
+            "en": "This naval base has several warships docked there.",
+            "audio_src": "ฐานทัพเรือแห่งนี้มีเรือรบจอดอยู่หลายลำ",
+            "audio_en_src": "This naval base has several warships docked there."
           },
           {
             "thai": "ทหารประจำการอยู่ที่ฐานทัพชายแดน",
-            "en": "The soldiers are stationed at the base on the border."
+            "en": "The soldiers are stationed at the base on the border.",
+            "audio_src": "ทหารประจำการอยู่ที่ฐานทัพชายแดน",
+            "audio_en_src": "The soldiers are stationed at the base on the border."
           }
         ]
       }
@@ -188571,11 +188586,15 @@
         "sentences": [
           {
             "thai": "รัฐบาลนี้ขาดความชอบธรรมในสายตาประชาชน",
-            "en": "This government lacks legitimacy in the eyes of the people."
+            "en": "This government lacks legitimacy in the eyes of the people.",
+            "audio_src": "รัฐบาลนี้ขาดความชอบธรรมในสายตาประชาชน",
+            "audio_en_src": "This government lacks legitimacy in the eyes of the people."
           },
           {
             "thai": "เขาอ้างความชอบธรรมในการเข้ามาบริหารบริษัท",
-            "en": "He claimed legitimacy in taking over the running of the company."
+            "en": "He claimed legitimacy in taking over the running of the company.",
+            "audio_src": "เขาอ้างความชอบธรรมในการเข้ามาบริหารบริษัท",
+            "audio_en_src": "He claimed legitimacy in taking over the running of the company."
           }
         ]
       }
@@ -188595,11 +188614,15 @@
         "sentences": [
           {
             "thai": "ตำรวจพยายามจับต้นชนปลายคดีที่ซับซ้อนนี้",
-            "en": "The police tried to piece together this complicated case."
+            "en": "The police tried to piece together this complicated case.",
+            "audio_src": "ตำรวจพยายามจับต้นชนปลายคดีที่ซับซ้อนนี้",
+            "audio_en_src": "The police tried to piece together this complicated case."
           },
           {
             "thai": "เรื่องมันยุ่งจนฉันจับต้นชนปลายไม่ถูก",
-            "en": "It's such a mess that I can't make head or tail of it."
+            "en": "It's such a mess that I can't make head or tail of it.",
+            "audio_src": "เรื่องมันยุ่งจนฉันจับต้นชนปลายไม่ถูก",
+            "audio_en_src": "It's such a mess that I can't make head or tail of it."
           }
         ]
       }
@@ -188619,11 +188642,15 @@
         "sentences": [
           {
             "thai": "เด็กๆดูการแสดงหุ่นเชิดอย่างสนุกสนาน",
-            "en": "The kids watched the puppet show with delight."
+            "en": "The kids watched the puppet show with delight.",
+            "audio_src": "เด็กๆดูการแสดงหุ่นเชิดอย่างสนุกสนาน",
+            "audio_en_src": "The kids watched the puppet show with delight."
           },
           {
             "thai": "ทุกคนรู้ว่าเขาเป็นแค่หุ่นเชิดของคนมีอำนาจ",
-            "en": "Everyone knows he's just a puppet of those in power."
+            "en": "Everyone knows he's just a puppet of those in power.",
+            "audio_src": "ทุกคนรู้ว่าเขาเป็นแค่หุ่นเชิดของคนมีอำนาจ",
+            "audio_en_src": "Everyone knows he's just a puppet of those in power."
           }
         ]
       }

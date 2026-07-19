@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8724 words**
+**Total: 8733 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6190,8 +6190,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-001` : ชื่อในวงการ (stage name, screename (e.g nickname of a singer, an actor)) : 1 meaning(s), 2 sentences
 - `yt-c19-003` : เลียบๆ เคียงๆ (indirectly, subtly, hinting around, "beating around the bush", "speaking indirectly") : 1 meaning(s), 2 sentences
 - `yt-c19-004` : เลียบ (to go around, to skirt, to walk along the edge of, to go alongside) : 1 meaning(s), 2 sentences
+- `yt-c19-005` : หยั่ง (to probe, to gauge, to measure the reach of (e.g gauge a reaction, sound out public opinion)) : 1 meaning(s), 2 sentences
 - `yt-c19-007` : เลยเป้า, เลยเป้าหมาย (to exceed the target, to go beyond the target) : 1 meaning(s), 2 sentences
+- `yt-c19-008` : ปะทะฝีปาก (verbal clash, verbal confrontation, to argue verbally, to trade insults) : 1 meaning(s), 2 sentences
+- `yt-c19-009` : รับใช้ประเทศชาติ (to serve the nation) : 1 meaning(s), 2 sentences
+- `yt-c19-010` : สาบานตน (to swear an oath) : 1 meaning(s), 2 sentences
 - `yt-c19-011` : พลเรือน (civilian (non military)) : 1 meaning(s), 2 sentences
+- `yt-c19-012` : ประณาม (to condemn, to denounce (publicly, e.g politics, news)) : 1 meaning(s), 2 sentences
+- `yt-c19-014` : ฐานทัพ (military base, army base) : 1 meaning(s), 2 sentences
+- `yt-c19-015` : ความชอบธรรม (legitimacy, moral or legal rightness) : 1 meaning(s), 2 sentences
+- `yt-c19-016` : จับต้นชนปลาย (to put the pieces together, to figure something out) : 1 meaning(s), 2 sentences
+- `yt-c19-017` : หุ่นเชิด (puppet, marionette) : 1 meaning(s), 2 sentences
 - `yt-c19-018` : คลั่ง (obsessed, crazy about, fanatical) : 1 meaning(s), 2 sentences
 - `yt-c19-018b` : คลุ้มคลั่ง (to go crazy, frenzied, in a rage) : 1 meaning(s), 2 sentences
 - `yt-c19-020` : ขาดสติ (to lose one's mind, irrational, out of one's mind) : 1 meaning(s), 2 sentences
