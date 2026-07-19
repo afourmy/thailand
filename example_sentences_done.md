@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8474 words**
+**Total: 8484 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5493,17 +5493,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-048` : ควาญ (mahout (elephant handler, caretaker)) : 1 meaning(s), 2 sentences
 - `yt-c11-049` : ทำยุทธหัตถี (to fight on elephant back, elephant duel (e.g between kings)) : 1 meaning(s), 2 sentences
 - `yt-c11-050` : ยุทโธปกรณ์ (military equipment) : 1 meaning(s), 2 sentences
+- `yt-c11-051` : ธนู (bow, archer) : 1 meaning(s), 2 sentences
 - `yt-c11-052` : ตกมัน ((of elephant) in musth; (figuratively) to go wild, to act uncontrollably, frenzied, in rage) : 2 meaning(s), 4 sentences
 - `yt-c11-053` : ต้อน (to herd, to round up (animals)) : 1 meaning(s), 2 sentences
 - `yt-c11-054` : ส่งส่วย (to pay a tribute (when vassals give food or other valuables to ruler)) : 1 meaning(s), 2 sentences
+- `yt-c11-055` : ข่มเหง (to oppress, to bully, to abuse) : 1 meaning(s), 2 sentences
 - `yt-c11-056` : ส่วย (tribute, levy, tax) : 1 meaning(s), 2 sentences
+- `yt-c11-057` : ภาษีอากร (taxes (formal, legal term; literally "tax and duty")) : 1 meaning(s), 2 sentences
 - `yt-c11-058` : บ่อน (บ่อนการพนัน) (casino, gambling den) : 1 meaning(s), 2 sentences
+- `yt-c11-059` : ประยุกต์ (to apply, to adapt, to modify for practical use) : 1 meaning(s), 2 sentences
 - `yt-c11-060` : กวนตีน (annoying, to annoy, to irritate) : 1 meaning(s), 2 sentences
 - `new-14` : กวนบาทา (annoying, to annoy, to irritate (rare)) : 1 meaning(s), 2 sentences
 - `yt-c11-061` : คน, กวน (to stir (food)) : 1 meaning(s), 2 sentences
 - `yt-c11-062` : เพื่อนบ้านดีมีชัยไปกว่าครึ่ง (having good neighbors is already half way to success) : 1 meaning(s), 1 sentences
 - `yt-c11-064` : ห่วงใย (to care for, to be concerned about, to worry about (someone, out of affection)) : 1 meaning(s), 2 sentences
 - `yt-c11-065` : ลับหลัง (behind someone's back, secretly, on the sly) : 1 meaning(s), 2 sentences
+- `yt-c11-066` : ป้าข้างบ้าน (auntie next door (old lady who likes to gossip in the neighborhood)) : 1 meaning(s), 2 sentences
 - `yt-c11-067` : ลูกโป่ง (balloon) : 1 meaning(s), 2 sentences
 - `yt-c11-068` : ตาบอดได้แว่น ((idiom) when someone receives a valuable gift but it is completely useless to them) : 1 meaning(s), 2 sentences
 - `yt-c11-069` : สอย (to pluck, to pick (with a tool, e.g bamboo stick, to make fruits fall)) : 1 meaning(s), 2 sentences
@@ -5513,10 +5518,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-33` : เพลา (time (old-fashioned)) : 1 meaning(s), 2 sentences
 - `yt-c11-073` : สุขุม (calm, composed, level-headed) : 1 meaning(s), 2 sentences
 - `yt-c11-075` : ระดมทุน (to raise funds, to raise capital) : 1 meaning(s), 2 sentences
+- `yt-c11-076` : เหน่อ (regional, rustic, rural accent, often associated with provinces like Suphanburi) : 1 meaning(s), 2 sentences
+- `yt-c11-077` : สาบานด้วยชีวิต (to swear on your life) : 1 meaning(s), 2 sentences
 - `yt-c11-078` : หึง (jealous (in relationships only, romantic context)) : 1 meaning(s), 2 sentences
+- `yt-c11-079` : ข้อกังขา (suspicion, doubt) : 1 meaning(s), 2 sentences
 - `yt-c11-080` : ชะลอ (to slow down, to decelerate, to delay) : 1 meaning(s), 2 sentences
+- `yt-c11-081` : หมาป่าเดียวดาย (lone wolf) : 1 meaning(s), 2 sentences
 - `yt-c11-082` : เหลิง (conceited, overconfident, getting a big head) : 1 meaning(s), 2 sentences
 - `yt-c11-083` : กระแสตอบรับ (public response, reception, feedback from people) : 1 meaning(s), 2 sentences
+- `yt-c11-084` : หลุดโลก (out of touch with reality, disconnected) : 1 meaning(s), 2 sentences
 - `yt-c11-085` : คำนวณ (to calculate) : 1 meaning(s), 2 sentences
 - `yt-c11-087` : คำประพันธ์ (โคลง, กลอน, ฉันท์) (poetry (different types of Thai poetry)) : 1 meaning(s), 2 sentences
 - `yt-c11-091` : พ้อง (similar, matching, identical, to correspond, to be the same) : 1 meaning(s), 2 sentences
