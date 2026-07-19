@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8704 words**
+**Total: 8714 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6130,7 +6130,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-037` : เบี้ยเลี้ยง (allowance (e.g travel allowance on a business trip)) : 1 meaning(s), 2 sentences
 - `yt-c18-038` : ลาคลอดบุตร (maternity leave) : 1 meaning(s), 2 sentences
 - `new-49` : บำเหน็จ ((for Thai civil servant) lump-sum retirement payment (paid once)) : 1 meaning(s), 2 sentences
+- `new-50` : บำนาญ (pension (paid monthly for life)) : 1 meaning(s), 2 sentences
 - `yt-c18-040` : ทยอย (gradually, in stages, little by little) : 1 meaning(s), 2 sentences
+- `yt-c18-041` : เจ้ายศเจ้าอย่าง (snobbish, overly concerned with rank and status, acts superior because of title or position) : 1 meaning(s), 2 sentences
 - `yt-c18-042` : เครื่องราชอิสริยาภรณ์ (royal decoration (official medal or insignia bestowed by the King to e.g civil servants, military, etc)) : 1 meaning(s), 2 sentences
 - `yt-c18-043` : เงินกู้ (loan, borrowed money) : 1 meaning(s), 2 sentences
 - `yt-c18-046` : (โดน)สั่งย้าย (to be transferred, to be relocated (as an employee)) : 1 meaning(s), 2 sentences
@@ -6139,15 +6141,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-049` : เกสร (pollen) : 1 meaning(s), 2 sentences
 - `yt-c18-050` : เม็ด - เมล็ด (seed (small round unit, grain) - seed (idea of life potential, using it to grow a tree)) : 1 meaning(s), 2 sentences
 - `yt-c18-051` : เสียม (shovel) : 1 meaning(s), 2 sentences
+- `yt-c18-052` : สกั๊งค์ (skunk) : 1 meaning(s), 2 sentences
+- `yt-c18-053` : จอบ (hoe (digging tool)) : 1 meaning(s), 2 sentences
+- `yt-c18-054` : กรรไกรตัดแต่งกิ่ง (pruning shears, garden scissors for cutting branches) : 1 meaning(s), 2 sentences
+- `yt-c18-055` : แก่ง (rapids (river with strong streams)) : 1 meaning(s), 2 sentences
 - `yt-c18-056` : สัปหงก (to nod off, to doze off, to fall asleep briefly) : 1 meaning(s), 2 sentences
 - `yt-c18-057` : วนลูป (to get stuck in a loop, to repeat the same process endlessly (colloquial)) : 1 meaning(s), 2 sentences
 - `yt-c18-058` : พื้นผิว (surface, outer layer) : 1 meaning(s), 2 sentences
 - `yt-c18-059` : ไล่ลำดับ (to arrange in order, to put in sequence) : 1 meaning(s), 2 sentences
 - `yt-c18-060` : แดดร่มลมตก (pleasant, comfortable time of day (mellow sun, calm wind)) : 1 meaning(s), 2 sentences
+- `yt-c18-061` : สูบฉีด (to pump (e.g heart pumping blood, pump water into a tank, etc), to stimulate (e.g economy)) : 1 meaning(s), 2 sentences
 - `yt-c18-062` : หัวใจล้มเหลว (heart failure) : 1 meaning(s), 2 sentences
+- `yt-c18-063` : ลูกดก (said of a couple (resp. plant or tree) that has many children (resp. produces many fruits)) : 1 meaning(s), 2 sentences
 - `yt-c18-065` : แปรปรวน (variable, changing, to fluctuate, to vary unpredictably (e.g mood, weather)) : 1 meaning(s), 2 sentences
+- `yt-c18-066` : ทิ้งๆ ขว้างๆ (to treat carelessly, to discard casually, wastefully, without taking care) : 1 meaning(s), 2 sentences
 - `yt-c18-067` : ภัยคุกคาม (threat, menace) : 1 meaning(s), 2 sentences
 - `yt-c18-069` : โต้ตอบ (to respond, to reply) : 1 meaning(s), 2 sentences
+- `yt-c18-070` : ...กันตาย (for survival, as a last resort, as a backup (literally "to keep from dying")) : 1 meaning(s), 2 sentences
 - `yt-c18-071` : ภาวะหมดไฟ (burnout (syndrome)) : 1 meaning(s), 2 sentences
 - `yt-c18-072` : แปลกแยก (alienated, socially disconnected, isolated, feeling like an outsider) : 1 meaning(s), 2 sentences
 - `yt-c18-073` : พาด (to lay across, to drape, to sling over) : 1 meaning(s), 2 sentences
