@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8414 words**
+**Total: 8424 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5345,19 +5345,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-085` : สีสันสดใส (bright colors, vivid colors) : 1 meaning(s), 2 sentences
 - `yt-c09-086` : อาสนะ (seat for the monks (religious)) : 1 meaning(s), 2 sentences
 - `yt-c09-087` : เหม่อลอย (absent-minded, lost in thought) : 1 meaning(s), 2 sentences
+- `yt-c09-088` : ขวัญ (courage, morale, vital strength of a person) : 1 meaning(s), 2 sentences
+- `yt-c09-090` : กลัด (to pin, to fasten with a pin) : 1 meaning(s), 2 sentences
 - `yt-c09-091` : ธุง (ceremonial banner, decorative flag) : 1 meaning(s), 2 sentences
+- `yt-c09-092` : หน่วง (to delay, to hold back, to weigh down on) : 1 meaning(s), 2 sentences
 - `yt-c09-093` : ลงแข่ง (to register, to sign up for a competition) : 1 meaning(s), 2 sentences
 - `yt-c09-094` : หนักแน่น (firm, resolute, emotionally stable) : 1 meaning(s), 2 sentences
+- `yt-c09-095` : ล้ำเส้น (to cross the line, to overstep a boundary, to be intrusive) : 1 meaning(s), 2 sentences
+- `yt-c09-096` : มั่วซั่ว (carelessly, recklessly, haphazardly, done without order or knowledge) : 1 meaning(s), 2 sentences
 - `yt-c09-097` : หลงทาง (lost, errant, to get lost) : 1 meaning(s), 2 sentences
 - `yt-c09-098` : ให้พลัง (to give power, to strengthen) : 1 meaning(s), 2 sentences
 - `yt-c09-099` : จู้จี้ (to nitpick, to nag (constantly reproach), nitpicky, fussy) : 1 meaning(s), 2 sentences
 - `yt-c10-000` : สัจธรรม (ultimate truth (Buddhism)) : 1 meaning(s), 2 sentences
 - `yt-c10-001` : แวบแรก (at first glance, the first impression) : 1 meaning(s), 2 sentences
 - `yt-c10-002` : จุดอ่อน (weakness) : 1 meaning(s), 2 sentences
+- `yt-c10-003` : กล่าวโทษ (to accuse, to blame) : 1 meaning(s), 2 sentences
+- `yt-c10-004` : พะวง (preoccupied, concerned, worried) : 1 meaning(s), 2 sentences
 - `yt-c10-005` : อโคจร ("forbidden" places for practitioners of the Dhamma (e.g places with drugs, alcohol, prostitutes, etc)) : 1 meaning(s), 2 sentences
+- `yt-c10-007` : วันลาหยุดประจำปี (annual leave days, annual vacation days) : 1 meaning(s), 2 sentences
+- `yt-c10-008` : ศิษย์, ลูกศิษย์ (disciple, pupil) : 1 meaning(s), 2 sentences
 - `yt-c10-009` : ตระการ (splendid, gorgeous) : 1 meaning(s), 2 sentences
 - `yt-c10-010` : คิดตังค์, คิดเงิน, เช็คบิล (various expressions to ask for the bill) : 1 meaning(s), 2 sentences
 - `yt-c10-011` : เลี้ยงเอง, จัดการเอง, จ่ายเอง (various expressions to say that you'll pay (invite your friends) at the restaurant) : 1 meaning(s), 2 sentences
+- `yt-c10-012` : ปัจจัยสี่ (อาหาร เสื้อผ้า ที่อยู่อาศัย ยารักษาโรค) (the essentials, the 4 basic necessities in life: clothing, food, shelter, medicine) : 1 meaning(s), 2 sentences
 - `yt-c10-015` : สมเหตุสมผล (rational, logical, reasonable, "it makes sense") : 1 meaning(s), 2 sentences
 - `yt-c10-016` : สุดใจ (to the fullest, wholeheartedly) : 1 meaning(s), 2 sentences
 - `yt-c10-017` : มั่งคั่ง (wealthy, affluent, prosperous) : 1 meaning(s), 2 sentences

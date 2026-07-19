@@ -163614,6 +163614,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "courage, morale, vital strength of a person",
+        "sentences": [
+          {
+            "thai": "ชัยชนะนัดนี้ช่วยกู้ขวัญของทีม",
+            "en": "This win restored the team's morale.",
+            "audio_src": "ชัยชนะนัดนี้ช่วยกู้ขวัญของทีม",
+            "audio_en_src": "This win restored the team's morale."
+          },
+          {
+            "thai": "เสียงระเบิดทำเอาชาวบ้านขวัญหาย",
+            "en": "The explosion scared the wits out of the villagers.",
+            "audio_src": "เสียงระเบิดทำเอาชาวบ้านขวัญหาย",
+            "audio_en_src": "The explosion scared the wits out of the villagers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163623,6 +163642,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to pin, to fasten with a pin",
+        "sentences": [
+          {
+            "thai": "กลัดเข็มกลัดที่หน้าอกเสื้อ",
+            "en": "Pin the brooch to the front of the shirt.",
+            "audio_src": "กลัดเข็มกลัดที่หน้าอกเสื้อ",
+            "audio_en_src": "Pin the brooch to the front of the shirt."
+          },
+          {
+            "thai": "อากาศเย็น กลัดกระดุมเสื้อให้ครบ",
+            "en": "It's chilly, button up all the way.",
+            "audio_src": "อากาศเย็น กลัดกระดุมเสื้อให้ครบ",
+            "audio_en_src": "It's chilly, button up all the way."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163660,6 +163698,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to delay, to hold back, to weigh down on",
+        "sentences": [
+          {
+            "thai": "เขาพยายามหน่วงเวลาไว้รอตำรวจมา",
+            "en": "He tried to stall for time until the police arrived.",
+            "audio_src": "เขาพยายามหน่วงเวลาไว้รอตำรวจมา",
+            "audio_en_src": "He tried to stall for time until the police arrived."
+          },
+          {
+            "thai": "ปวดหัวแบบหน่วงๆมาทั้งวัน",
+            "en": "I've had a dull, heavy headache all day.",
+            "audio_src": "ปวดหัวแบบหน่วงๆมาทั้งวัน",
+            "audio_en_src": "I've had a dull, heavy headache all day."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163728,6 +163785,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to cross the line, to overstep a boundary, to be intrusive",
+        "sentences": [
+          {
+            "thai": "ถามแบบนี้ล้ำเส้นเกินไปแล้ว",
+            "en": "That question crosses the line.",
+            "audio_src": "ถามแบบนี้ล้ำเส้นเกินไปแล้ว",
+            "audio_en_src": "That question crosses the line."
+          },
+          {
+            "thai": "เป็นเพื่อนกันก็ต้องรู้ว่าอะไรล้ำเส้น",
+            "en": "Even between friends, you have to know what oversteps.",
+            "audio_src": "เป็นเพื่อนกันก็ต้องรู้ว่าอะไรล้ำเส้น",
+            "audio_en_src": "Even between friends, you have to know what oversteps."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163737,6 +163813,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "carelessly, recklessly, haphazardly, done without order or knowledge",
+        "sentences": [
+          {
+            "thai": "อย่าตอบมั่วซั่ว อ่านโจทย์ก่อน",
+            "en": "Don't just answer at random, read the question first.",
+            "audio_src": "อย่าตอบมั่วซั่ว อ่านโจทย์ก่อน",
+            "audio_en_src": "Don't just answer at random, read the question first."
+          },
+          {
+            "thai": "เขากินยามั่วซั่วโดยไม่ถามหมอ",
+            "en": "He takes medicines haphazardly without asking a doctor.",
+            "audio_src": "เขากินยามั่วซั่วโดยไม่ถามหมอ",
+            "audio_en_src": "He takes medicines haphazardly without asking a doctor."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163921,6 +164016,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to accuse, to blame",
+        "sentences": [
+          {
+            "thai": "อย่ากล่าวโทษคนอื่นโดยไม่มีหลักฐาน",
+            "en": "Don't accuse others without evidence.",
+            "audio_src": "อย่ากล่าวโทษคนอื่นโดยไม่มีหลักฐาน",
+            "audio_en_src": "Don't accuse others without evidence."
+          },
+          {
+            "thai": "เขากล่าวโทษตัวเองกับเรื่องที่เกิดขึ้น",
+            "en": "He blames himself for what happened.",
+            "audio_src": "เขากล่าวโทษตัวเองกับเรื่องที่เกิดขึ้น",
+            "audio_en_src": "He blames himself for what happened."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163930,6 +164044,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "preoccupied, concerned, worried",
+        "sentences": [
+          {
+            "thai": "แม่พะวงเรื่องลูกที่อยู่ต่างประเทศ",
+            "en": "Mom worries about her kids living abroad.",
+            "audio_src": "แม่พะวงเรื่องลูกที่อยู่ต่างประเทศ",
+            "audio_en_src": "Mom worries about her kids living abroad."
+          },
+          {
+            "thai": "อย่ามัวพะวงกับอดีต",
+            "en": "Don't stay preoccupied with the past.",
+            "audio_src": "อย่ามัวพะวงกับอดีต",
+            "audio_en_src": "Don't stay preoccupied with the past."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163967,6 +164100,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "annual leave days, annual vacation days",
+        "sentences": [
+          {
+            "thai": "บริษัทให้วันลาหยุดประจำปีสิบวัน",
+            "en": "The company gives ten days of annual leave.",
+            "audio_src": "บริษัทให้วันลาหยุดประจำปีสิบวัน",
+            "audio_en_src": "The company gives ten days of annual leave."
+          },
+          {
+            "thai": "เขาใช้วันลาหยุดประจำปีหมดแล้ว",
+            "en": "He's used up all his annual leave days.",
+            "audio_src": "เขาใช้วันลาหยุดประจำปีหมดแล้ว",
+            "audio_en_src": "He's used up all his annual leave days."
+          }
+        ]
+      }
     ]
   },
   {
@@ -163977,6 +164129,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "disciple, pupil",
+        "sentences": [
+          {
+            "thai": "อาจารย์ภูมิใจในตัวลูกศิษย์ทุกคน",
+            "en": "The teacher is proud of all his students.",
+            "audio_src": "อาจารย์ภูมิใจในตัวลูกศิษย์ทุกคน",
+            "audio_en_src": "The teacher is proud of all his students."
+          },
+          {
+            "thai": "เขาเป็นศิษย์ของหลวงพ่อดัง",
+            "en": "He's a disciple of a famous monk.",
+            "audio_src": "เขาเป็นศิษย์ของหลวงพ่อดัง",
+            "audio_en_src": "He's a disciple of a famous monk."
+          }
+        ]
+      }
     ]
   },
   {
@@ -164070,6 +164241,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "the essentials, the 4 basic necessities in life: clothing, food, shelter, medicine",
+        "sentences": [
+          {
+            "thai": "ปัจจัยสี่คืออาหาร เสื้อผ้า ที่อยู่อาศัย และยารักษาโรค",
+            "en": "The four necessities are food, clothing, shelter, and medicine.",
+            "audio_src": "ปัจจัยสี่คืออาหาร เสื้อผ้า ที่อยู่อาศัย และยารักษาโรค",
+            "audio_en_src": "The four necessities are food, clothing, shelter, and medicine."
+          },
+          {
+            "thai": "รัฐควรดูแลให้ทุกคนเข้าถึงปัจจัยสี่",
+            "en": "The state should ensure everyone has access to the four necessities of life.",
+            "audio_src": "รัฐควรดูแลให้ทุกคนเข้าถึงปัจจัยสี่",
+            "audio_en_src": "The state should ensure everyone has access to the four necessities of life."
+          }
+        ]
+      }
     ]
   },
   {
