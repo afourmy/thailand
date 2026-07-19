@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8394 words**
+**Total: 8404 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5296,6 +5296,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-031` : ใบลาน (palm leaf) : 1 meaning(s), 2 sentences
 - `yt-c09-032` : รักแบบลืมหูลืมตา (to be blindly in love) : 1 meaning(s), 2 sentences
 - `yt-c09-033` : ตอก (to nail, to hammer in) : 1 meaning(s), 2 sentences
+- `yt-c09-035` : เสก (to cast a spell, to invoke) : 1 meaning(s), 2 sentences
 - `yt-c09-036` : ทำคุณไสย (to perform black magic) : 1 meaning(s), 2 sentences
 - `yt-c09-037` : น้ำมันพราย (spirit-infused oil (imbued with ghost power) used to perform black magic) : 1 meaning(s), 2 sentences
 - `yt-c09-038` : ไสยศาสตร์มนต์ดำ (black magic) : 1 meaning(s), 2 sentences
@@ -5304,9 +5305,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-041` : วันโกน (the day before a Buddhist holy day (monks would shave their head in preparation)) : 1 meaning(s), 2 sentences
 - `yt-c09-043` : เจ้ากรรมนายเวร ("owner of karma", karmic creditor (people you wronged in the past now causing suffering in return)) : 1 meaning(s), 2 sentences
 - `yt-c09-044` : ลมเพลมพัด (sudden unexplained illness attributed to spirits or black magic (literally "wind blowing here and there")) : 1 meaning(s), 2 sentences
+- `yt-c09-045` : อิ่มอกอิ่มใจ (deeply satisfied, content (literally "full chest, full heart")) : 1 meaning(s), 2 sentences
 - `yt-c09-046` : พุทธกาล (Buddha's time (time when Buddha was still alive)) : 1 meaning(s), 2 sentences
+- `yt-c09-047` : ความเอื้อเฟื้อ (generosity, unselfishness) : 1 meaning(s), 2 sentences
+- `yt-c09-048` : รู้จักพอ (to be satisfied with what you have, to avoid greed) : 1 meaning(s), 2 sentences
+- `yt-c09-049` : หว่านเมล็ด (to sow seeds, to inseminate) : 1 meaning(s), 2 sentences
+- `yt-c09-050` : เหยียบย่ำ (to trample) : 1 meaning(s), 2 sentences
 - `yt-c09-051` : แปลง (to convert, to transform; plot of land, field) : 2 meaning(s), 4 sentences
+- `yt-c09-052` : พืชผลการเกษตร (agricultural crops, farm produce) : 1 meaning(s), 2 sentences
 - `yt-c09-053` : โดยลำพัง (alone, by oneself, independently (without others)) : 1 meaning(s), 2 sentences
+- `yt-c09-054` : เลื่อมใส (to admire deeply, to revere) : 1 meaning(s), 2 sentences
+- `yt-c09-055` : ตรอมใจ (deeply affected, heart-broken, devastated) : 1 meaning(s), 2 sentences
 - `yt-c09-057` : ลอดห่วง (to pass through a hoop, a ring) : 1 meaning(s), 2 sentences
 - `yt-c09-058` : พลุ, ดอกไม้ไฟ (fireworks) : 1 meaning(s), 2 sentences
 - `yt-c09-059` : ลิขสิทธิ์ (copyright) : 1 meaning(s), 2 sentences
@@ -5314,6 +5323,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-061` : ตายทั้งกลม (death of a pregnant woman and unborn child altogether) : 1 meaning(s), 2 sentences
 - `yt-c09-062` : สัปเหร่อ (undertaker (person managing the funeral rituals)) : 1 meaning(s), 2 sentences
 - `yt-c09-063` : การตายโหง (violent death, sudden death) : 1 meaning(s), 2 sentences
+- `yt-c09-065` : สลาย, สูญสลาย (to disintegrate, to dissolve, to disappear completely) : 1 meaning(s), 2 sentences
 - `yt-c09-066` : อาคม (magic, sorcery) : 1 meaning(s), 2 sentences
 - `yt-c09-070` : ปรินิพพาน (final Nirvana, end of the cycle of rebirth, the Buddha's passing away (death after attaining enlightenment)) : 1 meaning(s), 2 sentences
 - `yt-c09-072` : สวดอภิธรรม (to chant Abhidhamma (funeral ceremony)) : 1 meaning(s), 2 sentences
