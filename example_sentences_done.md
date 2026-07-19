@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8464 words**
+**Total: 8474 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5469,17 +5469,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-024` : ปะทะ (to clash, to collide) : 1 meaning(s), 2 sentences
 - `yt-c11-025` : ฟ้าแลบ (lightning flash (specifically the flash)) : 1 meaning(s), 2 sentences
 - `yt-c11-026` : ล้มทับ (to fall over, to collapse onto) : 1 meaning(s), 2 sentences
+- `yt-c11-027` : แว่นขยาย (magnifying glass) : 1 meaning(s), 2 sentences
 - `yt-c11-028` : เม้าท์มอย (to gossip, to chat casually) : 1 meaning(s), 2 sentences
 - `yt-c11-029` : ตั้งกระทู้ (to create a post, to start a new thread) : 1 meaning(s), 2 sentences
 - `yt-c11-030` : กวนๆ (teasing, cheeky, playfully annoying) : 1 meaning(s), 2 sentences
 - `yt-c11-031` : เกี๊ยว (dumplings) : 1 meaning(s), 2 sentences
 - `yt-c11-032` : พริกป่น (chili powder) : 1 meaning(s), 2 sentences
+- `yt-c11-033` : ฟังเสียง ((figuratively) to hear what people think, to gauge opinions) : 1 meaning(s), 2 sentences
 - `yt-c11-034` : ถูกคอ (to be a good match, to fit, to get along well) : 1 meaning(s), 2 sentences
+- `yt-c11-035` : คราด (rake) : 1 meaning(s), 2 sentences
 - `yt-c11-036` : กระบอก (cylinder, tube, flask (and classifier for guns and tube-shaped containers)) : 1 meaning(s), 2 sentences
 - `yt-c11-037` : จิงโจ้ (kangaroo) : 1 meaning(s), 2 sentences
+- `yt-c11-038` : ซองกันน้ำ (waterproof bag (songkran)) : 1 meaning(s), 2 sentences
+- `yt-c11-039` : ข้าศึก (enemy, opponent in war) : 1 meaning(s), 2 sentences
+- `yt-c11-040` : หอก (spear, javelin) : 1 meaning(s), 2 sentences
 - `yt-c11-041` : รถถัง (tank) : 1 meaning(s), 2 sentences
 - `yt-c11-042` : งวง (trunk (of an elephant)) : 1 meaning(s), 2 sentences
+- `yt-c11-043` : โขลง (herd (of elephants)) : 1 meaning(s), 2 sentences
+- `yt-c11-044` : ประจำการ (to be on duty, to be deployed (military)) : 1 meaning(s), 2 sentences
 - `yt-c11-045` : ลากซุง (to drag logs (piece of trunk)) : 1 meaning(s), 2 sentences
+- `yt-c11-046` : ทารุณ (inhuman, cruel, to mistreat, to abuse) : 1 meaning(s), 2 sentences
+- `yt-c11-047` : ทารุณกรรม (abuse, cruelty) : 1 meaning(s), 2 sentences
 - `yt-c11-048` : ควาญ (mahout (elephant handler, caretaker)) : 1 meaning(s), 2 sentences
 - `yt-c11-049` : ทำยุทธหัตถี (to fight on elephant back, elephant duel (e.g between kings)) : 1 meaning(s), 2 sentences
 - `yt-c11-050` : ยุทโธปกรณ์ (military equipment) : 1 meaning(s), 2 sentences
