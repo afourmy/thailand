@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8963 words**
+**Total: 8973 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8807,6 +8807,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-044` : ข้อพิพาท (dispute, conflict, point of contention, disagreement (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c11-045` : หัวหน้าพรรค (party leader) : 1 meaning(s), 2 sentences
 - `t4k-c11-051` : โยกย้าย (to relocate, to transfer, to shift from one place to another) : 1 meaning(s), 2 sentences
+- `t4k-c11-052` : ที่แท้ (actually, "as it turns out") : 1 meaning(s), 2 sentences
+- `t4k-c11-053` : เริ่มแรก (at first, initially) : 1 meaning(s), 2 sentences
 - `t4k-c11-054` : ฮอร์โมน (hormone) : 1 meaning(s), 2 sentences
 - `t4k-c11-056` : ระบำ (dance (traditional style)) : 1 meaning(s), 2 sentences
 - `t4k-c11-057` : ชื้น (damp, moist) : 1 meaning(s), 2 sentences
@@ -8818,22 +8820,28 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-075` : ข้างเคียง (adjacent, beside, next to) : 1 meaning(s), 2 sentences
 - `t4k-c11-076` : พิกัด (coordinates) : 1 meaning(s), 2 sentences
 - `t4k-c11-077` : ตายตัว (rigid, inflexible, fixed) : 1 meaning(s), 2 sentences
+- `t4k-c11-078` : เกี่ยวเนื่อง (related, connected) : 1 meaning(s), 2 sentences
 - `t4k-c11-079` : แผนงาน (work plan, project plan) : 1 meaning(s), 2 sentences
 - `t4k-c11-080` : จำนำ (to pawn, to pledge an item as collateral for a loan) : 1 meaning(s), 2 sentences
 - `t4k-c11-081` : ปัสสาวะ (urine, to urinate) : 1 meaning(s), 2 sentences
 - `t4k-c11-084` : มหาอำนาจ (great power, superpower (e.g country)) : 1 meaning(s), 2 sentences
 - `t4k-c11-085` : เนื้อสัตว์ (meat) : 1 meaning(s), 2 sentences
+- `t4k-c11-086` : เรียงราย (lined up, arranged in a row) : 1 meaning(s), 2 sentences
+- `t4k-c11-087` : ก๊ก (faction, camp, group) : 1 meaning(s), 2 sentences
 - `t4k-c11-093` : สายลม (breeze, wind (literary)) : 1 meaning(s), 2 sentences
 - `t4k-c11-094` : กรด (acid) : 1 meaning(s), 2 sentences
+- `t4k-c11-098` : กรรมาธิการ (commissioner, committee member) : 1 meaning(s), 2 sentences
 - `t4k-c11-101` : เส้นผม (hair) : 1 meaning(s), 2 sentences
 - `t4k-c11-102` : สหภาพ (union, federation) : 1 meaning(s), 2 sentences
 - `t4k-c11-103` : ผู้เยาว์ (minor (person under legal age)) : 1 meaning(s), 2 sentences
 - `t4k-c11-104` : คุณนาย (Madam, Mrs.) : 1 meaning(s), 2 sentences
+- `t4k-c11-105` : ราชกิจจานุเบกษา (government gazette, Royal Gazette) : 1 meaning(s), 2 sentences
 - `t4k-c11-107` : พรรณนา (to depict, to portray, to describe in detail) : 1 meaning(s), 2 sentences
 - `t4k-c11-109` : เค้ก (cake) : 1 meaning(s), 2 sentences
 - `t4k-c11-110` : ยิ้มแย้ม (to smile happily, to have a cheerful facial expression) : 1 meaning(s), 2 sentences
 - `t4k-c11-111` : ปัญญาชน (scholar, intellectual (person)) : 1 meaning(s), 2 sentences
 - `t4k-c11-112` : ชาตินิยม (nationalism) : 1 meaning(s), 2 sentences
+- `t4k-c11-113` : ชลประทาน (irrigation) : 1 meaning(s), 2 sentences
 - `t4k-c11-115` : หันหลัง (to turn one's back, to turn around) : 1 meaning(s), 2 sentences
 - `t4k-c11-118` : ผู้ส่งออก (exporter) : 1 meaning(s), 2 sentences
 - `t4k-c11-121` : ชี้ขาด (to rule, to arbitrate, to make a final decision, to determine the outcome) : 1 meaning(s), 2 sentences
@@ -8844,7 +8852,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-129` : แอลกอฮอล์ (alcohol) : 1 meaning(s), 2 sentences
 - `t4k-c11-130` : โธ่ ("oh dear", "come on!") : 1 meaning(s), 2 sentences
 - `t4k-c11-131` : ลูบ (to stroke, to rub gently (gently glide the hand over a surface, e.g cat, skin)) : 1 meaning(s), 2 sentences
+- `t4k-c11-133` : กองกำลัง (armed forces) : 1 meaning(s), 2 sentences
 - `t4k-c11-134` : สปา (spa) : 1 meaning(s), 2 sentences
+- `parked-001` : เทกระจาด (to dump out in bulk, to spill everything out, to overturn a container and scatter the contents) : 1 meaning(s), 2 sentences
 - `parked-007` : ขอแสดงความนับถือ (best regards, yours sincerely) : 1 meaning(s), 2 sentences
 - `new-1` : ยาปฏิชีวนะ (antibiotics) : 1 meaning(s), 2 sentences
 - `new-2` : จูน (to fine-tune, to adjust, to calibrate (loanword, from "tune")) : 1 meaning(s), 2 sentences

@@ -269045,6 +269045,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "actually, \"as it turns out\"",
+        "sentences": [
+          {
+            "thai": "ฉันนึกว่าเขาใจร้าย ที่แท้เขาแค่ขี้อาย",
+            "en": "I thought he was mean, but as it turns out he's just shy.",
+            "audio_src": "ฉันนึกว่าเขาใจร้าย ที่แท้เขาแค่ขี้อาย",
+            "audio_en_src": "I thought he was mean, but as it turns out he's just shy."
+          },
+          {
+            "thai": "ที่แท้คนที่ขโมยของก็คือเพื่อนสนิทนั่นเอง",
+            "en": "As it turns out, the one who stole the things was his close friend.",
+            "audio_src": "ที่แท้คนที่ขโมยของก็คือเพื่อนสนิทนั่นเอง",
+            "audio_en_src": "As it turns out, the one who stole the things was his close friend."
+          }
+        ]
+      }
     ]
   },
   {
@@ -269054,6 +269073,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "at first, initially",
+        "sentences": [
+          {
+            "thai": "เริ่มแรกเขาไม่ชอบงานนี้เลย",
+            "en": "At first he didn't like this job at all.",
+            "audio_src": "เริ่มแรกเขาไม่ชอบงานนี้เลย",
+            "audio_en_src": "At first he didn't like this job at all."
+          },
+          {
+            "thai": "โครงการนี้เริ่มแรกมีคนสนใจน้อยมาก",
+            "en": "Initially this project drew very little interest.",
+            "audio_src": "โครงการนี้เริ่มแรกมีคนสนใจน้อยมาก",
+            "audio_en_src": "Initially this project drew very little interest."
+          }
+        ]
+      }
     ]
   },
   {
@@ -269377,6 +269415,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "related, connected",
+        "sentences": [
+          {
+            "thai": "ปัญหาสองเรื่องนี้เกี่ยวเนื่องกันอย่างใกล้ชิด",
+            "en": "These two problems are closely connected.",
+            "audio_src": "ปัญหาสองเรื่องนี้เกี่ยวเนื่องกันอย่างใกล้ชิด",
+            "audio_en_src": "These two problems are closely connected."
+          },
+          {
+            "thai": "คดีนี้เกี่ยวเนื่องกับการฟอกเงิน",
+            "en": "This case is connected to money laundering.",
+            "audio_src": "คดีนี้เกี่ยวเนื่องกับการฟอกเงิน",
+            "audio_en_src": "This case is connected to money laundering."
+          }
+        ]
+      }
     ]
   },
   {
@@ -269528,6 +269585,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "lined up, arranged in a row",
+        "sentences": [
+          {
+            "thai": "ต้นมะพร้าวเรียงรายอยู่ริมชายหาด",
+            "en": "Coconut trees are lined up along the beach.",
+            "audio_src": "ต้นมะพร้าวเรียงรายอยู่ริมชายหาด",
+            "audio_en_src": "Coconut trees are lined up along the beach."
+          },
+          {
+            "thai": "ร้านค้าเรียงรายสองข้างถนน",
+            "en": "Shops line both sides of the street.",
+            "audio_src": "ร้านค้าเรียงรายสองข้างถนน",
+            "audio_en_src": "Shops line both sides of the street."
+          }
+        ]
+      }
     ]
   },
   {
@@ -269537,6 +269613,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "faction, camp, group",
+        "sentences": [
+          {
+            "thai": "ในพรรคมีการแบ่งเป็นหลายก๊ก",
+            "en": "The party is split into several factions.",
+            "audio_src": "ในพรรคมีการแบ่งเป็นหลายก๊ก",
+            "audio_en_src": "The party is split into several factions."
+          },
+          {
+            "thai": "นักการเมืองแต่ละก๊กแย่งชิงอำนาจกัน",
+            "en": "The political factions fight each other for power.",
+            "audio_src": "นักการเมืองแต่ละก๊กแย่งชิงอำนาจกัน",
+            "audio_en_src": "The political factions fight each other for power."
+          }
+        ]
+      }
     ]
   },
   {
@@ -269604,6 +269699,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "commissioner, committee member",
+        "sentences": [
+          {
+            "thai": "คณะกรรมาธิการพิจารณาร่างกฎหมายฉบับนี้",
+            "en": "The committee reviewed this draft law.",
+            "audio_src": "คณะกรรมาธิการพิจารณาร่างกฎหมายฉบับนี้",
+            "audio_en_src": "The committee reviewed this draft law."
+          },
+          {
+            "thai": "เขาได้รับแต่งตั้งเป็นกรรมาธิการชุดใหม่",
+            "en": "He was appointed to the new committee.",
+            "audio_src": "เขาได้รับแต่งตั้งเป็นกรรมาธิการชุดใหม่",
+            "audio_en_src": "He was appointed to the new committee."
+          }
+        ]
+      }
     ]
   },
   {
@@ -269727,6 +269841,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "government gazette, Royal Gazette",
+        "sentences": [
+          {
+            "thai": "กฎหมายมีผลบังคับใช้หลังประกาศในราชกิจจานุเบกษา",
+            "en": "The law takes effect after being published in the Royal Gazette.",
+            "audio_src": "กฎหมายมีผลบังคับใช้หลังประกาศในราชกิจจานุเบกษา",
+            "audio_en_src": "The law takes effect after being published in the Royal Gazette."
+          },
+          {
+            "thai": "ประกาศฉบับนี้ลงในราชกิจจานุเบกษาแล้ว",
+            "en": "This announcement has been published in the Royal Gazette.",
+            "audio_src": "ประกาศฉบับนี้ลงในราชกิจจานุเบกษาแล้ว",
+            "audio_en_src": "This announcement has been published in the Royal Gazette."
+          }
+        ]
+      }
     ]
   },
   {
@@ -269884,6 +270017,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "irrigation",
+        "sentences": [
+          {
+            "thai": "เกษตรกรใช้น้ำจากระบบชลประทานทำนา",
+            "en": "Farmers use water from the irrigation system to grow rice.",
+            "audio_src": "เกษตรกรใช้น้ำจากระบบชลประทานทำนา",
+            "audio_en_src": "Farmers use water from the irrigation system to grow rice."
+          },
+          {
+            "thai": "รัฐบาลสร้างเขื่อนเพื่อการชลประทาน",
+            "en": "The government built a dam for irrigation.",
+            "audio_src": "รัฐบาลสร้างเขื่อนเพื่อการชลประทาน",
+            "audio_en_src": "The government built a dam for irrigation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -270183,6 +270335,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "armed forces",
+        "sentences": [
+          {
+            "thai": "กองกำลังทหารเคลื่อนพลไปยังชายแดน",
+            "en": "The armed forces moved troops to the border.",
+            "audio_src": "กองกำลังทหารเคลื่อนพลไปยังชายแดน",
+            "audio_en_src": "The armed forces moved troops to the border."
+          },
+          {
+            "thai": "รัฐบาลส่งกองกำลังเข้าควบคุมสถานการณ์",
+            "en": "The government sent forces to control the situation.",
+            "audio_src": "รัฐบาลส่งกองกำลังเข้าควบคุมสถานการณ์",
+            "audio_en_src": "The government sent forces to control the situation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -270220,7 +270391,26 @@
     "thai": "เทกระจาด",
     "english": "to dump out in bulk, to spill everything out, to overturn a container and scatter the contents",
     "frequency": "occasional",
-    "sources": []
+    "sources": [],
+    "examples": [
+      {
+        "meaning": "to dump out in bulk, to spill everything out, to overturn a container and scatter the contents",
+        "sentences": [
+          {
+            "thai": "รถบรรทุกพลิกคว่ำเทกระจาดผลไม้เต็มถนน",
+            "en": "The truck overturned and spilled fruit all over the road.",
+            "audio_src": "รถบรรทุกพลิกคว่ำเทกระจาดผลไม้เต็มถนน",
+            "audio_en_src": "The truck overturned and spilled fruit all over the road."
+          },
+          {
+            "thai": "ร้านลดราคาเทกระจาดขายของเก่าให้หมดสต็อก",
+            "en": "The shop had a big clearance sale to dump all its old stock.",
+            "audio_src": "ร้านลดราคาเทกระจาดขายของเก่าให้หมดสต็อก",
+            "audio_en_src": "The shop had a big clearance sale to dump all its old stock."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "parked-002",
