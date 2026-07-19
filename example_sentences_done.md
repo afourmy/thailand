@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8763 words**
+**Total: 8773 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6281,8 +6281,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-001` : นกเขาไม่ขัน (to have erectile dysfunction) : 1 meaning(s), 2 sentences
 - `yt-c20-002` : ช่วยตัวเอง (to masturbate (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-004` : ชักว่าว ((literally) to fly a kite; (figuratively, sexual) to masturbate (for men only)) : 2 meaning(s), 4 sentences
+- `yt-c20-006` : ท่ามาตรฐาน ((sexual) missionary) : 1 meaning(s), 2 sentences
+- `yt-c20-007` : หกเก้า ((sexual) 69) : 1 meaning(s), 2 sentences
 - `yt-c20-008` : ลิงอุ้มแตง ((sexual position) to fuck while standing and carrying the girl (literally "monkey carry melon")) : 1 meaning(s), 2 sentences
+- `yt-c20-009` : ประตูหลัง ((sexual) backdoor, anal sex) : 1 meaning(s), 2 sentences
 - `yt-c20-011` : โม๊ก (to give a blowjob, to give head (slang)) : 1 meaning(s), 2 sentences
+- `yt-c20-012` : ถึงจุดสุดยอด ((sexual) to have an orgasm, to reach the climax) : 1 meaning(s), 2 sentences
 - `yt-c20-015` : กินเด็ก (to date or have sex with someone a lot younger than you (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-016` : พูดไปงั้นแหละ ((informal) "I'm just saying", "just saying it like that", "don't take it personally") : 1 meaning(s), 2 sentences
 - `yt-c20-017` : แซะเก่ง (good at poking, teasing, making sarcastic remarks, quick with sarcasm) : 1 meaning(s), 2 sentences
@@ -6293,14 +6297,20 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-023` : ทอม (tomboy) : 1 meaning(s), 2 sentences
 - `yt-c20-024` : ดี้ (a girl that likes tomboys, feminine-presenting lesbian partner of tomboy (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-025` : เลส (lesbian (slang, loanword)) : 1 meaning(s), 2 sentences
+- `yt-c20-027` : หำ (dick (Isan dialect)) : 1 meaning(s), 2 sentences
 - `yt-c20-028` : น้องชาย (younger brother) : 1 meaning(s), 2 sentences
 - `yt-c20-029` : งู (snake) : 1 meaning(s), 2 sentences
 - `yt-c20-030` : หนอนชาเขียว ((sexual, slang) micro-penis (literally "green tea worm")) : 1 meaning(s), 2 sentences
+- `yt-c20-034` : ขะมักเขม้น (to really concentrate on something, diligent, wholeheartedly focused) : 1 meaning(s), 2 sentences
 - `yt-c20-035` : สาระแน (nosy, meddlesome) : 1 meaning(s), 2 sentences
+- `yt-c20-036` : เกรี้ยวกราด (furious, wildly angry, raging) : 1 meaning(s), 2 sentences
 - `yt-c20-037` : ลัก (to steal) : 1 meaning(s), 2 sentences
 - `yt-c20-038` : มืออาชีพ - มือสมัครเล่น (professional - amateur) : 1 meaning(s), 2 sentences
 - `yt-c20-039` : หักดิบ (to suddenly and completely cut something out (e.g lose weight, quit smoking)) : 1 meaning(s), 2 sentences
+- `yt-c20-040` : ตบะแตก (to lose self-control, to give in to temptation, "couldn't resist" (try to stop something but you end up doing it again)) : 1 meaning(s), 2 sentences
 - `yt-c20-041` : ลุกลี้ลุกลน (in a hurry, panicking, restless, nervous) : 1 meaning(s), 2 sentences
+- `yt-c20-042` : ไม่บันยะบันยัง (excessively, without restraint) : 1 meaning(s), 2 sentences
+- `yt-c20-043` : ประคบประหงม (to pamper, to coddle, to take very good care of) : 1 meaning(s), 2 sentences
 - `yt-c20-044` : เฮีย (pronoun to refer to an older Chinese-Thai man with respect ("older brother", "uncle") (loanword from Chinese)) : 1 meaning(s), 2 sentences
 - `yt-c20-046` : เคยตัว (to have gotten used to, be accustomed to (used negatively, e.g bad habit, bad behavior)) : 1 meaning(s), 2 sentences
 - `yt-c20-047` : ไม้ตาย (special skill, tactic, secret weapon, strategy that someone saves for a critical moment) : 1 meaning(s), 2 sentences
