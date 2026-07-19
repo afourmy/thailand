@@ -242450,5 +242450,857 @@
         ]
       }
     ]
+  },
+  {
+    "id": "new-73",
+    "thai": "ตอน",
+    "english": "when, during",
+    "frequency": "everyday"
+  },
+  {
+    "id": "new-74",
+    "thai": "เคย",
+    "english": "ever",
+    "frequency": "everyday"
+  },
+  {
+    "id": "new-75",
+    "thai": "ติด",
+    "english": "to stick, to attach, to be attached; to be addicted",
+    "frequency": "everyday"
+  },
+  {
+    "id": "new-76",
+    "thai": "สื่อ",
+    "english": "media",
+    "frequency": "common"
+  },
+  {
+    "id": "new-77",
+    "thai": "เคลื่อนไหว",
+    "english": "to move, to be in motion",
+    "frequency": "common"
+  },
+  {
+    "id": "new-78",
+    "thai": "ผ่อนคลาย",
+    "english": "to relax, to unwind",
+    "frequency": "common"
+  },
+  {
+    "id": "new-79",
+    "thai": "พิษ",
+    "english": "poison",
+    "frequency": "common"
+  },
+  {
+    "id": "new-80",
+    "thai": "ผู้เขียน",
+    "english": "author, writer",
+    "frequency": "common"
+  },
+  {
+    "id": "new-81",
+    "thai": "เผชิญ",
+    "english": "to face, to confront",
+    "frequency": "common"
+  },
+  {
+    "id": "new-82",
+    "thai": "เผยแพร่",
+    "english": "to publish, to make public, to disseminate",
+    "frequency": "common"
+  },
+  {
+    "id": "new-83",
+    "thai": "ใบหน้า",
+    "english": "face",
+    "frequency": "common"
+  },
+  {
+    "id": "new-84",
+    "thai": "ปฏิวัติ",
+    "english": "to overthrow, to stage a revolution",
+    "frequency": "common"
+  },
+  {
+    "id": "new-85",
+    "thai": "รับใช้",
+    "english": "to serve, to work for, to be in service",
+    "frequency": "common"
+  },
+  {
+    "id": "new-86",
+    "thai": "ผจญภัย",
+    "english": "to go on an adventure, to face danger",
+    "frequency": "common"
+  },
+  {
+    "id": "new-87",
+    "thai": "ศูนย์กลาง",
+    "english": "center, central point, middle",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-88",
+    "thai": "ตาก",
+    "english": "to dry (e.g outdoors in the sun), to expose out in the open",
+    "frequency": "common"
+  },
+  {
+    "id": "new-89",
+    "thai": "ซื้อขาย",
+    "english": "to trade, to buy and sell",
+    "frequency": "common"
+  },
+  {
+    "id": "new-90",
+    "thai": "กุศล",
+    "english": "merit, virtue, good deed (Buddhism)",
+    "frequency": "common"
+  },
+  {
+    "id": "new-91",
+    "thai": "ประเทศชาติ",
+    "english": "nation, country (formal)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-92",
+    "thai": "แบน",
+    "english": "flat; to ban",
+    "frequency": "common"
+  },
+  {
+    "id": "new-93",
+    "thai": "ลีลา",
+    "english": "style, manner, technique",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-94",
+    "thai": "เงินทอง",
+    "english": "money, wealth",
+    "frequency": "common"
+  },
+  {
+    "id": "new-95",
+    "thai": "ปะ",
+    "english": "to patch, to mend (e.g cloth, tire)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-96",
+    "thai": "โก้",
+    "english": "stylish, classy, chic",
+    "frequency": "common"
+  },
+  {
+    "id": "new-97",
+    "thai": "เสิร์ฟ",
+    "english": "to serve (food, drinks)",
+    "frequency": "common"
+  },
+  {
+    "id": "new-98",
+    "thai": "รอยยิ้ม",
+    "english": "smile",
+    "frequency": "common"
+  },
+  {
+    "id": "new-99",
+    "thai": "หวาดกลัว",
+    "english": "terrified, very frightened",
+    "frequency": "common"
+  },
+  {
+    "id": "new-100",
+    "thai": "ทว่า",
+    "english": "but",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-101",
+    "thai": "ครัวเรือน",
+    "english": "household, family unit (in statistics)",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-102",
+    "thai": "คมนาคม",
+    "english": "transportation, communication",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-103",
+    "thai": "สิง",
+    "english": "to haunt, to possess (ghost or spirit possessing a body)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-104",
+    "thai": "สไตล์",
+    "english": "style",
+    "frequency": "common"
+  },
+  {
+    "id": "new-105",
+    "thai": "เคลื่อนย้าย",
+    "english": "to displace, to move, to relocate",
+    "frequency": "common"
+  },
+  {
+    "id": "new-106",
+    "thai": "สุทธิ",
+    "english": "net (e.g net profit, net weight)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-107",
+    "thai": "ตะวัน",
+    "english": "sun (poetic)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-108",
+    "thai": "น้ำหลาก",
+    "english": "floodwater, flash flood",
+    "frequency": "common"
+  },
+  {
+    "id": "new-109",
+    "thai": "แวดวง",
+    "english": "circle, field, sphere",
+    "frequency": "common"
+  },
+  {
+    "id": "new-110",
+    "thai": "สลัด, สลัดทิ้ง",
+    "english": "to shake off, to ditch, to discard",
+    "frequency": "common"
+  },
+  {
+    "id": "new-111",
+    "thai": "รับคำ",
+    "english": "to promise, to give one's word",
+    "frequency": "common"
+  },
+  {
+    "id": "new-112",
+    "thai": "กรี๊ด",
+    "english": "to scream (high-pitched), to shriek",
+    "frequency": "common"
+  },
+  {
+    "id": "new-113",
+    "thai": "เชียร์",
+    "english": "to cheer (loanword)",
+    "frequency": "common"
+  },
+  {
+    "id": "new-114",
+    "thai": "ค้ำประกัน",
+    "english": "to act as a guarantor",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-115",
+    "thai": "โต้แย้ง",
+    "english": "to dispute, to argue",
+    "frequency": "common"
+  },
+  {
+    "id": "new-116",
+    "thai": "โอบ",
+    "english": "to embrace, to put one's arm around; to surround, to encircle",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-117",
+    "thai": "มูลฝอย",
+    "english": "garbage, solid waste",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-118",
+    "thai": "คุณลักษณะ",
+    "english": "characteristic, feature, quality",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-119",
+    "thai": "ผูกขาด",
+    "english": "to monopolize, to have a monopoly",
+    "frequency": "common"
+  },
+  {
+    "id": "new-120",
+    "thai": "เสนอแนะ",
+    "english": "to suggest, to recommend",
+    "frequency": "common"
+  },
+  {
+    "id": "new-121",
+    "thai": "เดินหน้า",
+    "english": "to advance, to move forward, to progress",
+    "frequency": "common"
+  },
+  {
+    "id": "new-122",
+    "thai": "แก๊ง",
+    "english": "gang",
+    "frequency": "common"
+  },
+  {
+    "id": "new-123",
+    "thai": "บริบท",
+    "english": "context",
+    "frequency": "common"
+  },
+  {
+    "id": "new-124",
+    "thai": "แถลงข่าว",
+    "english": "to give a press statement, to hold a press conference",
+    "frequency": "common"
+  },
+  {
+    "id": "new-125",
+    "thai": "วิว",
+    "english": "view, scenery",
+    "frequency": "common"
+  },
+  {
+    "id": "new-126",
+    "thai": "สมการ",
+    "english": "equation",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-127",
+    "thai": "แกนนำ",
+    "english": "leader, key organizor, leading figure",
+    "frequency": "common"
+  },
+  {
+    "id": "new-128",
+    "thai": "อนุโลม",
+    "english": "to allow as an exception, to relax a rule",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-129",
+    "thai": "เวทนา",
+    "english": "pity, to sympathize with",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-130",
+    "thai": "พระราชกฤษฎีกา",
+    "english": "royal decree (a law issued by the King)",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-131",
+    "thai": "ต้านทาน",
+    "english": "to resist, to withstand",
+    "frequency": "common"
+  },
+  {
+    "id": "new-132",
+    "thai": "รักษาการ",
+    "english": "to act as, to serving temporarily in a position",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-133",
+    "thai": "ราชโองการ",
+    "english": "king's command, king's order",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-134",
+    "thai": "นิคม",
+    "english": "settlement, estate",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-135",
+    "thai": "เงินได้",
+    "english": "income, earnings",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-136",
+    "thai": "บี้",
+    "english": "to crush, to smash, to squeeze",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-137",
+    "thai": "โภชนาการ",
+    "english": "nutrition",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-138",
+    "thai": "กลั้น",
+    "english": "to restrain, to hold back, to suppress",
+    "frequency": "common"
+  },
+  {
+    "id": "new-139",
+    "thai": "อุปการะ",
+    "english": "to care for, to provide assistance, to give money",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-140",
+    "thai": "โฆษก",
+    "english": "spokesperson, announcer, broadcaster",
+    "frequency": "common"
+  },
+  {
+    "id": "new-141",
+    "thai": "ชัดแจ้ง",
+    "english": "clear, obvious, explicit",
+    "frequency": "common"
+  },
+  {
+    "id": "new-142",
+    "thai": "พิธีการ",
+    "english": "ceremony, formalities, protocol",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-143",
+    "thai": "ส่วนภูมิภาค",
+    "english": "provincial sector, the regions outside the capital",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-144",
+    "thai": "เสื่อมโทรม",
+    "english": "to deteriorate, to decline, to become run down",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-145",
+    "thai": "หลักทรัพย์",
+    "english": "securities (stocks, bonds, etc)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-146",
+    "thai": "คืบหน้า",
+    "english": "to make progress, to advance",
+    "frequency": "common"
+  },
+  {
+    "id": "new-147",
+    "thai": "สินทรัพย์",
+    "english": "asset, property",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-148",
+    "thai": "ประชามติ",
+    "english": "referendum, public vote",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-149",
+    "thai": "นักคิด",
+    "english": "thinker, intellectual",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-150",
+    "thai": "เคือง",
+    "english": "offended, resentful, annoyed",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-151",
+    "thai": "แวบ",
+    "english": "flash, glimpse, briefly, for a moment",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-152",
+    "thai": "ภูมิลำเนา",
+    "english": "domicile, place of origin",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-153",
+    "thai": "ขาดดุล",
+    "english": "deficit, to run a deficit",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-154",
+    "thai": "คำมั่น",
+    "english": "promise, pledge, vow",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-155",
+    "thai": "วิกฤตการณ์",
+    "english": "crisis",
+    "frequency": "common"
+  },
+  {
+    "id": "new-156",
+    "thai": "ผู้แสดง",
+    "english": "performer, actor",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-157",
+    "thai": "ทันใด",
+    "english": "suddenly, immediately (literary)",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-158",
+    "thai": "ชักจูง",
+    "english": "to persuade, to influence, to lead someone toward something",
+    "frequency": "common"
+  },
+  {
+    "id": "new-159",
+    "thai": "แหงสิ",
+    "english": "of course, obviously",
+    "frequency": "common"
+  },
+  {
+    "id": "new-160",
+    "thai": "จุ้นจ้าน",
+    "english": "nosy, meddlesome",
+    "frequency": "common"
+  },
+  {
+    "id": "new-161",
+    "thai": "ลอยหน้าลอยตา",
+    "english": "to act shamelessly, to show no embarrassment after doing something wrong",
+    "frequency": "common"
+  },
+  {
+    "id": "new-162",
+    "thai": "ขย้ำ",
+    "english": "to crush violently, to maul, to tear apart",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-163",
+    "thai": "บังอาจ",
+    "english": "to dare, to have the audacity of",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-164",
+    "thai": "ขัดคอ",
+    "english": "to interrupt, to cut someone off, to contradict",
+    "frequency": "common"
+  },
+  {
+    "id": "new-165",
+    "thai": "บงการ",
+    "english": "to manipulate, to control (often secretly)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-166",
+    "thai": "อดกลั้น",
+    "english": "to endure, to tolerate, to restrain oneself",
+    "frequency": "common"
+  },
+  {
+    "id": "new-167",
+    "thai": "นิสัยติดตัว",
+    "english": "inherent habit, ingrained trait",
+    "frequency": "common"
+  },
+  {
+    "id": "new-168",
+    "thai": "ฉลุย",
+    "english": "smoothly, easily, without problem",
+    "frequency": "common"
+  },
+  {
+    "id": "new-169",
+    "thai": "วันยังค่ำ",
+    "english": "all day long, from morning till night",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-170",
+    "thai": "ร่อนเร่",
+    "english": "to wander, to roam around",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-171",
+    "thai": "อภิมหา",
+    "english": "super-, mega-, ultra-",
+    "frequency": "common"
+  },
+  {
+    "id": "new-172",
+    "thai": "แปลกตา",
+    "english": "unusual-looking, unfamiliar to the eye, exotic",
+    "frequency": "common"
+  },
+  {
+    "id": "new-173",
+    "thai": "เหนือกว่า",
+    "english": "superior, better than, above",
+    "frequency": "common"
+  },
+  {
+    "id": "new-174",
+    "thai": "ป่วนประสาท",
+    "english": "nerve-wracking, very annoying, highly irritating",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-175",
+    "thai": "สะเพร่า",
+    "english": "careless, sloppy, negligent",
+    "frequency": "common"
+  },
+  {
+    "id": "new-176",
+    "thai": "เปี๊ยบ",
+    "english": "perfectly, exactly, completely",
+    "frequency": "common"
+  },
+  {
+    "id": "new-177",
+    "thai": "คฤหาสน์",
+    "english": "mansion, large luxurious house",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-178",
+    "thai": "น้ำแตก",
+    "english": "climax, ejaculation",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-179",
+    "thai": "เป็นพื้น",
+    "english": "primarily, mostly, predominantly (literary)",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-180",
+    "thai": "อันดับแรก",
+    "english": "firstly, first of all",
+    "frequency": "common"
+  },
+  {
+    "id": "new-181",
+    "thai": "ขัดเกลา",
+    "english": "to refine, to polish, to fine-tune",
+    "frequency": "common"
+  },
+  {
+    "id": "new-182",
+    "thai": "เอียน",
+    "english": "tired of, fed up with, sick of",
+    "frequency": "common"
+  },
+  {
+    "id": "new-183",
+    "thai": "เอี่ยว",
+    "english": "involved, implicated",
+    "frequency": "common"
+  },
+  {
+    "id": "new-184",
+    "thai": "เหยียดสีผิว",
+    "english": "racism (based on skin color)",
+    "frequency": "common"
+  },
+  {
+    "id": "new-185",
+    "thai": "เหยียดเชื้อชาติ",
+    "english": "racism (based on ethnicity or nationality)",
+    "frequency": "common"
+  },
+  {
+    "id": "new-186",
+    "thai": "พรหมลิขิต",
+    "english": "destiny, fate, predestined path",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-187",
+    "thai": "อดออม",
+    "english": "to be thrifty, to save by spending less",
+    "frequency": "common"
+  },
+  {
+    "id": "new-188",
+    "thai": "มัธยัสถ์",
+    "english": "frugal, thrifty, careful with money (formal)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-189",
+    "thai": "กัลยาณมิตร",
+    "english": "virtuous friend, a good friend who leads you in a good direction spiritually (Buddhism)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-190",
+    "thai": "เบิ้ล",
+    "english": "to double up, to do a second round, to repeat (slang)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-191",
+    "thai": "หน้าไหว้หลังหลอก",
+    "english": "(idiom) two-faced, friendly to your face but bad behind your back",
+    "frequency": "common"
+  },
+  {
+    "id": "new-192",
+    "thai": "สารภูมิต้านทาน",
+    "english": "antibody",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-193",
+    "thai": "วัณโรค",
+    "english": "tuberculosis (TB)",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-194",
+    "thai": "พูดติดอ่าง",
+    "english": "to stutter, to stammer",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-195",
+    "thai": "ซุบซิบ",
+    "english": "to whisper, to gossip in a low voice",
+    "frequency": "common"
+  },
+  {
+    "id": "new-196",
+    "thai": "ริดสีดวงทวาร",
+    "english": "hemorrhoids",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-197",
+    "thai": "ชินชา",
+    "english": "to stop caring about something after getting used to it, desensitized, indifferent",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-198",
+    "thai": "ด้านชา",
+    "english": "unfeeling, emotionally hardened, insensitive",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-199",
+    "thai": "ทุพพลภาพ",
+    "english": "disabled, disability (formal, legal)",
+    "frequency": "rare"
+  },
+  {
+    "id": "new-200",
+    "thai": "ผิวสีน้ำผึ้ง",
+    "english": "honey-colored skin, golden-brown skin tone",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-201",
+    "thai": "สนิม",
+    "english": "rust",
+    "frequency": "common"
+  },
+  {
+    "id": "new-202",
+    "thai": "ฆาตกรต่อเนื่อง",
+    "english": "serial killer",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-203",
+    "thai": "ลางสังหรณ์",
+    "english": "hunch, premonition, gut feeling that something bad will happen",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-204",
+    "thai": "กุลสตรี",
+    "english": "proper lady, well-mannered woman from a good family",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-205",
+    "thai": "มีเสน่ห์ปลายจวัก",
+    "english": "to be a great cook, to win people over with one's cooking (idiom, said of a woman)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-206",
+    "thai": "เสมอต้นเสมอปลาย",
+    "english": "consistent, the same from start to finish",
+    "frequency": "common"
+  },
+  {
+    "id": "new-207",
+    "thai": "ถูกจริต",
+    "english": "to suit one's taste, to click with",
+    "frequency": "common"
+  },
+  {
+    "id": "new-208",
+    "thai": "โรคจิต",
+    "english": "mental illness, psychosis; pervert, sicko (slang)",
+    "frequency": "common"
+  },
+  {
+    "id": "new-209",
+    "thai": "หวงห้าม",
+    "english": "forbidden, restricted, off-limits",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-210",
+    "thai": "เขตหวงห้าม",
+    "english": "restricted area, no-go zone",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-211",
+    "thai": "ลูกกระเดือก",
+    "english": "Adam's apple",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-212",
+    "thai": "เฮี้ยน",
+    "english": "haunted, having strong supernatural power (e.g a ghost, shrine, amulet)",
+    "frequency": "occasional"
+  },
+  {
+    "id": "new-213",
+    "thai": "หลั่ง",
+    "english": "to pour, to flow (bodily fluids), to shed (e.g tears, blood); to ejaculate",
+    "frequency": "common"
+  },
+  {
+    "id": "new-214",
+    "thai": "รก, รกเด็ก",
+    "english": "placenta",
+    "frequency": "occasional"
   }
 ]
