@@ -181120,11 +181120,15 @@
         "sentences": [
           {
             "thai": "คลื่นเสียงนี้มีความถี่สูงจนหูคนไม่ได้ยิน",
-            "en": "This sound wave has a frequency too high for the human ear to hear."
+            "en": "This sound wave has a frequency too high for the human ear to hear.",
+            "audio_src": "คลื่นเสียงนี้มีความถี่สูงจนหูคนไม่ได้ยิน",
+            "audio_en_src": "This sound wave has a frequency too high for the human ear to hear."
           },
           {
             "thai": "เขาปรับความถี่ของวิทยุให้ตรงกับสถานี",
-            "en": "He tuned the radio's frequency to match the station."
+            "en": "He tuned the radio's frequency to match the station.",
+            "audio_src": "เขาปรับความถี่ของวิทยุให้ตรงกับสถานี",
+            "audio_en_src": "He tuned the radio's frequency to match the station."
           }
         ]
       }
@@ -181145,11 +181149,15 @@
         "sentences": [
           {
             "thai": "เขายึดคติว่าความซื่อสัตย์สำคัญที่สุด",
-            "en": "He lives by the principle that honesty matters most."
+            "en": "He lives by the principle that honesty matters most.",
+            "audio_src": "เขายึดคติว่าความซื่อสัตย์สำคัญที่สุด",
+            "audio_en_src": "He lives by the principle that honesty matters most."
           },
           {
             "thai": "คุณยายชอบสอนคติดีๆให้หลานฟัง",
-            "en": "Grandma likes to teach her grandchildren good principles."
+            "en": "Grandma likes to teach her grandchildren good principles.",
+            "audio_src": "คุณยายชอบสอนคติดีๆให้หลานฟัง",
+            "audio_en_src": "Grandma likes to teach her grandchildren good principles."
           }
         ]
       }
@@ -181253,11 +181261,15 @@
         "sentences": [
           {
             "thai": "เธอถือของพะรุงพะรังจนเดินแทบไม่ไหว",
-            "en": "She was carrying so much stuff she could barely walk."
+            "en": "She was carrying so much stuff she could barely walk.",
+            "audio_src": "เธอถือของพะรุงพะรังจนเดินแทบไม่ไหว",
+            "audio_en_src": "She was carrying so much stuff she could barely walk."
           },
           {
             "thai": "กระเป๋าใบเดียวก็พอ ไม่ต้องเอาของมาพะรุงพะรัง",
-            "en": "One bag is enough, no need to lug around a ton of stuff."
+            "en": "One bag is enough, no need to lug around a ton of stuff.",
+            "audio_src": "กระเป๋าใบเดียวก็พอ ไม่ต้องเอาของมาพะรุงพะรัง",
+            "audio_en_src": "One bag is enough, no need to lug around a ton of stuff."
           }
         ]
       }
@@ -181354,11 +181366,15 @@
         "sentences": [
           {
             "thai": "โจรสลัดออกตามหาขุมทรัพย์ที่ซ่อนอยู่บนเกาะ",
-            "en": "The pirates set out to find the treasure hidden on the island."
+            "en": "The pirates set out to find the treasure hidden on the island.",
+            "audio_src": "โจรสลัดออกตามหาขุมทรัพย์ที่ซ่อนอยู่บนเกาะ",
+            "audio_en_src": "The pirates set out to find the treasure hidden on the island."
           },
           {
             "thai": "ห้องสมุดแห่งนี้เป็นขุมทรัพย์ทางความรู้",
-            "en": "This library is a treasure trove of knowledge."
+            "en": "This library is a treasure trove of knowledge.",
+            "audio_src": "ห้องสมุดแห่งนี้เป็นขุมทรัพย์ทางความรู้",
+            "audio_en_src": "This library is a treasure trove of knowledge."
           }
         ]
       }
@@ -181378,11 +181394,15 @@
         "sentences": [
           {
             "thai": "คำพูดของเขามีนัยยะแอบแฝงอยู่",
-            "en": "His words carry a hidden meaning."
+            "en": "His words carry a hidden meaning.",
+            "audio_src": "คำพูดของเขามีนัยยะแอบแฝงอยู่",
+            "audio_en_src": "His words carry a hidden meaning."
           },
           {
             "thai": "ภาพวาดนี้ซ่อนนัยยะทางการเมืองเอาไว้",
-            "en": "This painting hides a political message."
+            "en": "This painting hides a political message.",
+            "audio_src": "ภาพวาดนี้ซ่อนนัยยะทางการเมืองเอาไว้",
+            "audio_en_src": "This painting hides a political message."
           }
         ]
       }
@@ -181546,11 +181566,15 @@
         "sentences": [
           {
             "thai": "หมอกลงหนาทำให้ทัศนวิสัยบนถนนแย่มาก",
-            "en": "The thick fog made visibility on the road very poor."
+            "en": "The thick fog made visibility on the road very poor.",
+            "audio_src": "หมอกลงหนาทำให้ทัศนวิสัยบนถนนแย่มาก",
+            "audio_en_src": "The thick fog made visibility on the road very poor."
           },
           {
             "thai": "นักบินรอให้ทัศนวิสัยดีขึ้นก่อนนำเครื่องขึ้น",
-            "en": "The pilot waited for visibility to improve before taking off."
+            "en": "The pilot waited for visibility to improve before taking off.",
+            "audio_src": "นักบินรอให้ทัศนวิสัยดีขึ้นก่อนนำเครื่องขึ้น",
+            "audio_en_src": "The pilot waited for visibility to improve before taking off."
           }
         ]
       }
@@ -181655,11 +181679,15 @@
         "sentences": [
           {
             "thai": "เรื่องที่เล่าให้ฟัง รู้แล้วก็เหยียบไว้นะ",
-            "en": "What I told you, now that you know, keep it to yourself."
+            "en": "What I told you, now that you know, keep it to yourself.",
+            "audio_src": "เรื่องที่เล่าให้ฟัง รู้แล้วก็เหยียบไว้นะ",
+            "audio_en_src": "What I told you, now that you know, keep it to yourself."
           },
           {
             "thai": "ความลับของบริษัท รู้แล้วก็เหยียบไว้ อย่าเอาไปพูดต่อ",
-            "en": "The company secret, keep it quiet now that you know, don't go spreading it."
+            "en": "The company secret, keep it quiet now that you know, don't go spreading it.",
+            "audio_src": "ความลับของบริษัท รู้แล้วก็เหยียบไว้ อย่าเอาไปพูดต่อ",
+            "audio_en_src": "The company secret, keep it quiet now that you know, don't go spreading it."
           }
         ]
       }
@@ -181927,11 +181955,15 @@
         "sentences": [
           {
             "thai": "นางแอบอ้างว่ารวย สุดท้ายเป๊ะแตกตอนบัตรเครดิตรูดไม่ผ่าน",
-            "en": "She pretended to be rich, but her cover got blown when her credit card was declined."
+            "en": "She pretended to be rich, but her cover got blown when her credit card was declined.",
+            "audio_src": "นางแอบอ้างว่ารวย สุดท้ายเป๊ะแตกตอนบัตรเครดิตรูดไม่ผ่าน",
+            "audio_en_src": "She pretended to be rich, but her cover got blown when her credit card was declined."
           },
           {
             "thai": "โกหกไปเรื่อยเดี๋ยวก็เป๊ะแตกเอง",
-            "en": "Keep lying and sooner or later you'll get found out."
+            "en": "Keep lying and sooner or later you'll get found out.",
+            "audio_src": "โกหกไปเรื่อยเดี๋ยวก็เป๊ะแตกเอง",
+            "audio_en_src": "Keep lying and sooner or later you'll get found out."
           }
         ]
       }
@@ -182251,11 +182283,15 @@
         "sentences": [
           {
             "thai": "เขาแอบมีเมียเก็บอยู่อีกจังหวัด",
-            "en": "He secretly keeps a mistress in another province."
+            "en": "He secretly keeps a mistress in another province.",
+            "audio_src": "เขาแอบมีเมียเก็บอยู่อีกจังหวัด",
+            "audio_en_src": "He secretly keeps a mistress in another province."
           },
           {
             "thai": "เมียหลวงจับได้ว่าสามีมีเมียเก็บ",
-            "en": "The wife found out her husband had a mistress on the side."
+            "en": "The wife found out her husband had a mistress on the side.",
+            "audio_src": "เมียหลวงจับได้ว่าสามีมีเมียเก็บ",
+            "audio_en_src": "The wife found out her husband had a mistress on the side."
           }
         ]
       }
@@ -182373,11 +182409,15 @@
         "sentences": [
           {
             "thai": "ความเชื่อเก่าๆยังฝังแน่นอยู่ในสังคม",
-            "en": "Old beliefs are still deeply ingrained in society."
+            "en": "Old beliefs are still deeply ingrained in society.",
+            "audio_src": "ความเชื่อเก่าๆยังฝังแน่นอยู่ในสังคม",
+            "audio_en_src": "Old beliefs are still deeply ingrained in society."
           },
           {
             "thai": "ภาพความทรงจำนั้นฝังแน่นอยู่ในใจเขา",
-            "en": "That memory is embedded deep in his heart."
+            "en": "That memory is embedded deep in his heart.",
+            "audio_src": "ภาพความทรงจำนั้นฝังแน่นอยู่ในใจเขา",
+            "audio_en_src": "That memory is embedded deep in his heart."
           }
         ]
       }
