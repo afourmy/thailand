@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8684 words**
+**Total: 8694 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6076,19 +6076,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-079` : จำนน (to surrender, to yield, to give in) : 1 meaning(s), 2 sentences
 - `yt-c17-080` : ดวงตาเป็นหน้าต่างของดวงใจ ((idiom) "the eyes are the window to the heart") : 1 meaning(s), 1 sentences
 - `yt-c17-081` : เลศนัย (hidden meaning, hidden motive, ruse) : 1 meaning(s), 2 sentences
+- `yt-c17-083` : ทัดทาน (to object, to oppose, to try to stop) : 1 meaning(s), 2 sentences
+- `yt-c17-084` : เชือดเฉือน (to cut into, to slice, to slash) : 1 meaning(s), 2 sentences
+- `yt-c17-085` : เชือด (to slaughter, to slit (the throat)) : 1 meaning(s), 2 sentences
 - `yt-c17-086` : บังเหียน (reins, bridle) : 1 meaning(s), 2 sentences
 - `yt-c17-087` : อานม้า (saddle) : 1 meaning(s), 2 sentences
 - `yt-c17-089` : หลังค่อม (crooked, hunched back) : 1 meaning(s), 2 sentences
 - `yt-c17-090` : หลบภัย (to shelter, to take refuge) : 1 meaning(s), 2 sentences
+- `yt-c17-091` : ตั้งสติ (to calm down, to regain composure, to get your mind under control) : 1 meaning(s), 2 sentences
 - `yt-c17-092` : ที่โล่ง (open space (empty space), open-air) : 1 meaning(s), 2 sentences
 - `yt-c17-093` : หมอบ (to crouch, to prostrate) : 1 meaning(s), 2 sentences
 - `yt-c17-094` : กุศโลบาย (clever approach, strategic approach, stratagem) : 1 meaning(s), 2 sentences
 - `yt-c17-095` : สั่นสะเทือน (to vibrate, to tremble, to shake) : 1 meaning(s), 2 sentences
+- `yt-c17-096` : ลอยฟ่อง (to float up, to drift, drifting) : 1 meaning(s), 2 sentences
 - `yt-c17-097` : เหวี่ยง (to swing, to fling (sweeping or swinging motion)) : 1 meaning(s), 2 sentences
+- `yt-c17-098` : ซาก (carcass, ashes, remains, ruins, wreckage) : 1 meaning(s), 2 sentences
 - `yt-c17-099` : ความแม่นยำ (accuracy) : 1 meaning(s), 2 sentences
+- `yt-c18-000` : จุดศูนย์กลาง (center point, epicenter (e.g earthquake)) : 1 meaning(s), 2 sentences
 - `yt-c18-001` : ชุดปฐมพยาบาล (first aid kit) : 1 meaning(s), 2 sentences
+- `yt-c18-003` : วิศวกรรมโยธา (civil engineering) : 1 meaning(s), 2 sentences
 - `yt-c18-004` : มองการณ์ไกล (to look ahead, far-sighted, visionary, forward-thinking) : 1 meaning(s), 2 sentences
+- `yt-c18-005` : ความแหวกแนว (unconventionality, originality, being different from the norm) : 1 meaning(s), 2 sentences
 - `yt-c18-006` : หน่วงๆ (dull, heavy discomfort, dragging sensation (e.g pain)) : 1 meaning(s), 2 sentences
+- `yt-c18-007` : ตรงปก (exactly as pictured, exactly as advertised (literally "matches the cover")) : 1 meaning(s), 2 sentences
 - `yt-c18-008` : ตั้งหน้าตั้งตา (to focus intently, to concentrate hard) : 1 meaning(s), 2 sentences
 - `yt-c18-009` : จดจ่อ (to focus intensely, to concentrate, to pay close attention) : 1 meaning(s), 2 sentences
 - `yt-c18-010` : คลาดสายตา (to lose sight of, to take one's eyes off (e.g a kid)) : 1 meaning(s), 2 sentences
