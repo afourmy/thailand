@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8614 words**
+**Total: 8624 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5900,13 +5900,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-081` : ซัด (to throw, to hurl something forcefully) : 1 meaning(s), 2 sentences
 - `yt-c15-082` : นางเงือก (mermaid) : 1 meaning(s), 2 sentences
 - `yt-c15-083` : โพสต์ท่า (to pose (for a photo, on stage, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-084` : กระบอง (baton, staff, club) : 1 meaning(s), 2 sentences
 - `yt-c15-085` : ควง (to spin, to twirl, to rotate) : 1 meaning(s), 2 sentences
 - `yt-c15-086` : บ้วน (to rinse and spit, to spit out) : 1 meaning(s), 2 sentences
+- `yt-c15-087` : ชะโลม (to coat, to apply a thin layer of something (e.g cooking, cosmetics, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-089` : สืบเนื่องมาจาก (arising from, stemming from, as a result of (literary)) : 1 meaning(s), 2 sentences
 - `yt-c15-090` : อับโชค (unlucky, unfortunate) : 1 meaning(s), 2 sentences
 - `yt-c15-092` : พระราชสำนัก (royal institution serving the King (officials, King residence, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-093` : กระชาก, ฉุดกระชาก (to drag violently, to yank) : 1 meaning(s), 2 sentences
+- `yt-c15-094` : กร้าวใจ ("so cool", "so hot", "so attractive it makes one's heart flutter" (e.g used by girls when seeing an attractive, very masculine man)) : 1 meaning(s), 2 sentences
 - `yt-c15-095` : ไม่สมเหตุสมผล ("it doesn't make sense") : 1 meaning(s), 2 sentences
+- `yt-c15-096` : พระรอง (supporting male lead, male character in a lakon who is second to the main hero (sometimes in concurrence)) : 1 meaning(s), 2 sentences
 - `yt-c15-097` : เสื่อมเสีย (to damage, to tarnish (usually reputation, social standing)) : 1 meaning(s), 2 sentences
 - `yt-c15-098` : นางร้าย (female antagonist, bad female character in a lakon (hits the nang eek, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-099` : จิกหมอน ((fandom slang) to swoon, to scream into one's pillow (feeling excited, very happy), to feel cuteness overload from a romantic scene, "can't handle how sweet it is") : 1 meaning(s), 2 sentences
+- `new-55` : บริบูรณ์ (fully finished, nothing is missing, complete, perfect) : 1 meaning(s), 2 sentences
+- `new-56` : จบบริบูรณ์ ("The end" (used at the end of a movie, drama, etc)) : 1 meaning(s), 2 sentences
+- `yt-c16-001` : ดอกจัน (asterisk symbol (*)) : 1 meaning(s), 2 sentences
 - `yt-c16-002` : สายทำอาหาร (someone who's into cooking, a cooking hobbyist) : 1 meaning(s), 2 sentences
 - `yt-c16-003` : ฝุ่นควัน (air pollution, smog) : 1 meaning(s), 2 sentences
 - `yt-c16-005` : ฟาง (straw (dried stalks left after harvesting)) : 1 meaning(s), 2 sentences

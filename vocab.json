@@ -179933,6 +179933,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "baton, staff, club",
+        "sentences": [
+          {
+            "thai": "ตำรวจถือกระบองคุมฝูงชน",
+            "en": "The police held batons to control the crowd.",
+            "audio_src": "ตำรวจถือกระบองคุมฝูงชน",
+            "audio_en_src": "The police held batons to control the crowd."
+          },
+          {
+            "thai": "ยามใช้กระบองไล่หมาจรจัด",
+            "en": "The guard used a club to chase off the stray dogs.",
+            "audio_src": "ยามใช้กระบองไล่หมาจรจัด",
+            "audio_en_src": "The guard used a club to chase off the stray dogs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180001,6 +180020,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to coat, to apply a thin layer of something (e.g cooking, cosmetics, etc)",
+        "sentences": [
+          {
+            "thai": "เขาชะโลมน้ำมันมะกอกลงบนผิว",
+            "en": "She rubbed a thin layer of olive oil onto her skin.",
+            "audio_src": "เขาชะโลมน้ำมันมะกอกลงบนผิว",
+            "audio_en_src": "She rubbed a thin layer of olive oil onto her skin."
+          },
+          {
+            "thai": "แม่ชะโลมน้ำผึ้งบนไก่ย่างให้เงางาม",
+            "en": "Mom brushed honey over the grilled chicken to make it glisten.",
+            "audio_src": "แม่ชะโลมน้ำผึ้งบนไก่ย่างให้เงางาม",
+            "audio_en_src": "Mom brushed honey over the grilled chicken to make it glisten."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180010,6 +180048,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "arising from, stemming from, as a result of (literary)",
+        "sentences": [
+          {
+            "thai": "น้ำท่วมครั้งนี้สืบเนื่องมาจากฝนที่ตกหนักติดต่อกัน",
+            "en": "This flood stems from the heavy rain that fell for days on end.",
+            "audio_src": "น้ำท่วมครั้งนี้สืบเนื่องมาจากฝนที่ตกหนักติดต่อกัน",
+            "audio_en_src": "This flood stems from the heavy rain that fell for days on end."
+          },
+          {
+            "thai": "ปัญหาทั้งหมดสืบเนื่องมาจากการวางแผนที่ผิดพลาด",
+            "en": "All the problems arose from poor planning.",
+            "audio_src": "ปัญหาทั้งหมดสืบเนื่องมาจากการวางแผนที่ผิดพลาด",
+            "audio_en_src": "All the problems arose from poor planning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180075,6 +180132,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to drag violently, to yank",
+        "sentences": [
+          {
+            "thai": "เขากระชากแขนเด็กจนร้องไห้",
+            "en": "He yanked the child's arm until she cried.",
+            "audio_src": "เขากระชากแขนเด็กจนร้องไห้",
+            "audio_en_src": "He yanked the child's arm until she cried."
+          },
+          {
+            "thai": "โจรฉุดกระชากกระเป๋าของเธอแล้ววิ่งหนี",
+            "en": "The thief snatched her bag and ran off.",
+            "audio_src": "โจรฉุดกระชากกระเป๋าของเธอแล้ววิ่งหนี",
+            "audio_en_src": "The thief snatched her bag and ran off."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180084,6 +180160,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"so cool\", \"so hot\", \"so attractive it makes one's heart flutter\" (e.g used by girls when seeing an attractive, very masculine man)",
+        "sentences": [
+          {
+            "thai": "พระเอกคนนี้กร้าวใจมาก มองแล้วใจสั่น",
+            "en": "This lead actor is so hot, one look and my heart races.",
+            "audio_src": "พระเอกคนนี้กร้าวใจมาก มองแล้วใจสั่น",
+            "audio_en_src": "This lead actor is so hot, one look and my heart races."
+          },
+          {
+            "thai": "เห็นเขาใส่ชุดทหารแล้วกร้าวใจสุดๆ",
+            "en": "Seeing him in that army uniform, he's so hot I can't handle it.",
+            "audio_src": "เห็นเขาใส่ชุดทหารแล้วกร้าวใจสุดๆ",
+            "audio_en_src": "Seeing him in that army uniform, he's so hot I can't handle it."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180121,6 +180216,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "supporting male lead, male character in a lakon who is second to the main hero (sometimes in concurrence)",
+        "sentences": [
+          {
+            "thai": "ในละครเรื่องนี้พระรองหล่อกว่าพระเอกอีก",
+            "en": "In this drama, the second male lead is even more handsome than the main one.",
+            "audio_src": "ในละครเรื่องนี้พระรองหล่อกว่าพระเอกอีก",
+            "audio_en_src": "In this drama, the second male lead is even more handsome than the main one."
+          },
+          {
+            "thai": "หลายคนเชียร์ให้นางเอกเลือกพระรอง",
+            "en": "A lot of people were rooting for the heroine to choose the second lead.",
+            "audio_src": "หลายคนเชียร์ให้นางเอกเลือกพระรอง",
+            "audio_en_src": "A lot of people were rooting for the heroine to choose the second lead."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180188,6 +180302,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(fandom slang) to swoon, to scream into one's pillow (feeling excited, very happy), to feel cuteness overload from a romantic scene, \"can't handle how sweet it is\"",
+        "sentences": [
+          {
+            "thai": "ฉากจูบเมื่อกี้ทำเอาฉันจิกหมอนเลย",
+            "en": "That kiss scene just now made me swoon into my pillow.",
+            "audio_src": "ฉากจูบเมื่อกี้ทำเอาฉันจิกหมอนเลย",
+            "audio_en_src": "That kiss scene just now made me swoon into my pillow."
+          },
+          {
+            "thai": "แฟนคลับจิกหมอนกันทั้งบ้านตอนพระเอกสารภาพรัก",
+            "en": "Fans everywhere were swooning when the lead confessed his love.",
+            "audio_src": "แฟนคลับจิกหมอนกันทั้งบ้านตอนพระเอกสารภาพรัก",
+            "audio_en_src": "Fans everywhere were swooning when the lead confessed his love."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180197,6 +180330,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "fully finished, nothing is missing, complete, perfect",
+        "sentences": [
+          {
+            "thai": "เอกสารทุกอย่างครบถ้วนบริบูรณ์แล้ว",
+            "en": "All the documents are now complete, with nothing missing.",
+            "audio_src": "เอกสารทุกอย่างครบถ้วนบริบูรณ์แล้ว",
+            "audio_en_src": "All the documents are now complete, with nothing missing."
+          },
+          {
+            "thai": "ขอให้ทุกคนมีความสุขอย่างบริบูรณ์",
+            "en": "May everyone have complete happiness.",
+            "audio_src": "ขอให้ทุกคนมีความสุขอย่างบริบูรณ์",
+            "audio_en_src": "May everyone have complete happiness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180206,6 +180358,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "\"The end\" (used at the end of a movie, drama, etc)",
+        "sentences": [
+          {
+            "thai": "ละครเรื่องนี้ออกอากาศตอนสุดท้าย จบบริบูรณ์แล้ว",
+            "en": "This drama aired its final episode, it's completely finished now.",
+            "audio_src": "ละครเรื่องนี้ออกอากาศตอนสุดท้าย จบบริบูรณ์แล้ว",
+            "audio_en_src": "This drama aired its final episode, it's completely finished now."
+          },
+          {
+            "thai": "นิยายชุดนี้เขียนถึงเล่มสิบ จบบริบูรณ์พอดี",
+            "en": "This novel series ran to ten volumes and came to a complete end.",
+            "audio_src": "นิยายชุดนี้เขียนถึงเล่มสิบ จบบริบูรณ์พอดี",
+            "audio_en_src": "This novel series ran to ten volumes and came to a complete end."
+          }
+        ]
+      }
     ]
   },
   {
@@ -180215,6 +180386,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "asterisk symbol (*)",
+        "sentences": [
+          {
+            "thai": "ช่องที่มีดอกจันต้องกรอกให้ครบ",
+            "en": "The fields marked with an asterisk must all be filled in.",
+            "audio_src": "ช่องที่มีดอกจันต้องกรอกให้ครบ",
+            "audio_en_src": "The fields marked with an asterisk must all be filled in."
+          },
+          {
+            "thai": "เขาใส่ดอกจันไว้ตรงคำที่สำคัญ",
+            "en": "He put an asterisk next to the important words.",
+            "audio_src": "เขาใส่ดอกจันไว้ตรงคำที่สำคัญ",
+            "audio_en_src": "He put an asterisk next to the important words."
+          }
+        ]
+      }
     ]
   },
   {
