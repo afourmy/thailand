@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8714 words**
+**Total: 8724 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6161,6 +6161,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-071` : ภาวะหมดไฟ (burnout (syndrome)) : 1 meaning(s), 2 sentences
 - `yt-c18-072` : แปลกแยก (alienated, socially disconnected, isolated, feeling like an outsider) : 1 meaning(s), 2 sentences
 - `yt-c18-073` : พาด (to lay across, to drape, to sling over) : 1 meaning(s), 2 sentences
+- `yt-c18-074` : ถี่ (frequent, happening often, in close intervals) : 1 meaning(s), 2 sentences
 - `yt-c18-076` : จุดบอด (blind spot) : 1 meaning(s), 2 sentences
 - `yt-c18-077` : ก้าวเท้า (to step into, to take a step (literally "step + foot")) : 1 meaning(s), 2 sentences
 - `yt-c18-078` : ปล่อยผ่าน (to let it pass, to let it slide) : 1 meaning(s), 2 sentences
@@ -6168,18 +6169,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-080` : ติ่ง (skin tag, protruding piece of flesh; hardcore fan, die-hard fan) : 2 meaning(s), 4 sentences
 - `yt-c18-081` : โศกเศร้า (sorrowful, deeply sad, grieving (formal)) : 1 meaning(s), 2 sentences
 - `yt-c18-082` : ค่าแรง (wage, labor cost) : 1 meaning(s), 2 sentences
+- `yt-c18-083` : เครื่องปั๊มหัวใจ (defibrillator) : 1 meaning(s), 2 sentences
+- `yt-c18-084` : สารกระตุ้น (doping substance, stimulant) : 1 meaning(s), 2 sentences
 - `yt-c18-085` : กักตัว (to quarantine, to self-isolate) : 1 meaning(s), 2 sentences
 - `yt-c18-086` : คนละครึ่ง (มีคนละครึ่งไหม) (Thai government co-payment policy where the state pays 50% of the cost of eligible purchases, and citizens pay the other 50%) : 1 meaning(s), 2 sentences
 - `yt-c18-087` : ได้เปรียบ (to have an advantage, to have the edge) : 1 meaning(s), 2 sentences
 - `yt-c18-088` : เล่นมุก (to crack a joke, to joke around) : 1 meaning(s), 2 sentences
+- `yt-c18-089` : วิวัฒนาการ (evolution, development (formal)) : 1 meaning(s), 2 sentences
 - `yt-c18-090` : แสบ (stinging, burning sensation (e.g from a cut, spicy food, smoke, etc); naughty, mischievous, troublemaker (e.g of a child)) : 2 meaning(s), 4 sentences
+- `yt-c18-091` : ท่าหมา (doggystyle) : 1 meaning(s), 2 sentences
+- `yt-c18-092` : สวยให้อภัยได้ (beauty makes one forgivable (used jokingly, implying that a person's attractiveness can excuse minor mistakes or flaws)) : 1 meaning(s), 2 sentences
 - `yt-c18-093` : ตาข่ายดักฝัน (dream-catching net (a net hung above a bed to catch bad dreams)) : 1 meaning(s), 2 sentences
 - `yt-c18-094` : บาทหลวง (catholic priest) : 1 meaning(s), 2 sentences
 - `yt-c18-095` : ตายไม่เอาเรื่อง ((idiom) "I won't make a fuss even if I die", "I won't hold it against you, even to the grave") : 1 meaning(s), 2 sentences
 - `yt-c18-096` : ถอยหลัง (to reverse, to move backward) : 1 meaning(s), 2 sentences
+- `yt-c18-097` : จอมบงการ (mastermind, puppet master, someone who likes to control) : 1 meaning(s), 2 sentences
 - `yt-c18-098` : คนจู้จี้จุกจิก (person who is picky, fussy, likes to nitpick) : 1 meaning(s), 2 sentences
 - `yt-c18-099` : ตกยุค (outdated, out of fashion, obsolete) : 1 meaning(s), 2 sentences
 - `yt-c19-000` : คาบเกี่ยว (to overlap, to span across) : 1 meaning(s), 2 sentences
+- `yt-c19-001` : ชื่อในวงการ (stage name, screename (e.g nickname of a singer, an actor)) : 1 meaning(s), 2 sentences
+- `yt-c19-003` : เลียบๆ เคียงๆ (indirectly, subtly, hinting around, "beating around the bush", "speaking indirectly") : 1 meaning(s), 2 sentences
+- `yt-c19-004` : เลียบ (to go around, to skirt, to walk along the edge of, to go alongside) : 1 meaning(s), 2 sentences
 - `yt-c19-007` : เลยเป้า, เลยเป้าหมาย (to exceed the target, to go beyond the target) : 1 meaning(s), 2 sentences
 - `yt-c19-011` : พลเรือน (civilian (non military)) : 1 meaning(s), 2 sentences
 - `yt-c19-018` : คลั่ง (obsessed, crazy about, fanatical) : 1 meaning(s), 2 sentences
