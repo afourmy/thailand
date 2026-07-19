@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8624 words**
+**Total: 8634 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5919,14 +5919,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-001` : ดอกจัน (asterisk symbol (*)) : 1 meaning(s), 2 sentences
 - `yt-c16-002` : สายทำอาหาร (someone who's into cooking, a cooking hobbyist) : 1 meaning(s), 2 sentences
 - `yt-c16-003` : ฝุ่นควัน (air pollution, smog) : 1 meaning(s), 2 sentences
+- `yt-c16-004` : กทม (abbreviation for Bangkok (pronounced go to mo)) : 1 meaning(s), 2 sentences
 - `yt-c16-005` : ฟาง (straw (dried stalks left after harvesting)) : 1 meaning(s), 2 sentences
+- `yt-c16-006` : จุลินทรีย์ (microorganism) : 1 meaning(s), 2 sentences
+- `yt-c16-007` : ตายผ่อนส่ง (to die little by little (literally "by installment")) : 1 meaning(s), 2 sentences
 - `yt-c16-008` : ไม้ดัด (sort of bonsai-like ornamental plant) : 1 meaning(s), 2 sentences
 - `yt-c16-009` : ใจอ่อน - ใจแข็ง (soft-hearted, gives in easily, forgives easily - (opposite) firm-hearted, doesn't give in or forgive easily) : 1 meaning(s), 2 sentences
 - `yt-c16-010` : ผลุด, โผล่ (to pop up suddenly, to spring out (e.g a thought)) : 1 meaning(s), 2 sentences
+- `yt-c16-011` : ผลุบๆ โผล่ๆ (to pop in and out, to appear and disappear repeatedly) : 1 meaning(s), 2 sentences
 - `yt-c16-012` : รู้ไว้ใช่ว่าใส่บ่าแบกหาม ((idiom) learning something is never a waste (literally "keep the knowledge, it's not as if you put on shoulder and have to carry")) : 1 meaning(s), 1 sentences
+- `yt-c16-026` : ประสาทแดก (to act crazy, to lose one's mind (slang, rude)) : 1 meaning(s), 2 sentences
+- `yt-c16-030` : ควย (dick (slang, rude)) : 1 meaning(s), 2 sentences
+- `yt-c16-031` : ส้นตีน ((insult, very rude) jerk, bastard, scumbag (literally "heel of the foot")) : 1 meaning(s), 2 sentences
+- `yt-c16-032` : ลบหลู่ (to disrespect, to insult (e.g elders, the gods, etc)) : 1 meaning(s), 2 sentences
 - `yt-c16-033` : ก้ามปู (crab claw, pincer) : 1 meaning(s), 2 sentences
 - `yt-c16-034` : ชู (to raise, to lift up (something for others to see, e.g your hand, a flag)) : 1 meaning(s), 2 sentences
 - `yt-c16-035` : ไข (to solve, to figure out (e.g a problem, a puzzle); to turn, to operate) : 2 meaning(s), 4 sentences
+- `yt-c16-036` : เขาวงกต (labyrinth) : 1 meaning(s), 2 sentences
+- `yt-c16-037` : ราตรี (night (literary, poetic)) : 1 meaning(s), 2 sentences
 - `yt-c16-038` : ดอย (mountain, hill (northern dialect)) : 1 meaning(s), 2 sentences
 - `yt-c16-039` : คนโลกส่วนตัวสูง (introverted, keeps to oneself) : 1 meaning(s), 2 sentences
 - `yt-c16-040` : ยางลบ (eraser) : 1 meaning(s), 2 sentences
