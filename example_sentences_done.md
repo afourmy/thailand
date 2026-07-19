@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8584 words**
+**Total: 8594 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5795,30 +5795,40 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-064` : ประเสริฐ (noble, virtuous, superior) : 1 meaning(s), 2 sentences
 - `yt-c14-065` : สัญชาตญาณดิบ (primal instinct, raw instinct, animal instinct) : 1 meaning(s), 2 sentences
 - `yt-c14-066` : รักนวลสงวนตัว (chaste, to preserve one's chastity (literally "love purity and preserve oneself")) : 1 meaning(s), 2 sentences
+- `yt-c14-067` : ชิงสุกก่อนห่าม (to rush a process, to act before the proper time (especially having sex before marriage) (literally "compete ripe before unripe")) : 1 meaning(s), 2 sentences
 - `yt-c14-069` : เขิน (to feel shy in a cute, romantic way) : 1 meaning(s), 2 sentences
 - `yt-c14-070` : ปิ๊ง (to click, to instantly like, to have a sudden crush) : 1 meaning(s), 2 sentences
 - `yt-c14-071` : อ่อย (to hit on someone, to flirt) : 1 meaning(s), 2 sentences
 - `yt-c14-072` : เคมีตรงกัน (to have chemistry (e.g with someone), to have good vibes, to fit together well) : 1 meaning(s), 2 sentences
 - `yt-c14-073` : หัว (head; classifier for plants heads (cabbage, bulb of garlic, etc)) : 2 meaning(s), 4 sentences
 - `yt-c14-074` : จบข่าว ("end of the discussion", "no more talking about this", "end of story") : 1 meaning(s), 2 sentences
+- `yt-c14-075` : พูดไม่ทันขาดคำ (when you mention something or someone and it suddenly appears ("speak of the devil")) : 1 meaning(s), 2 sentences
+- `yt-c14-078` : ซา (to fade, to subside, to die down) : 1 meaning(s), 2 sentences
 - `yt-c14-079` : หัวใส (clever, quick-witted, smart-thinking) : 1 meaning(s), 2 sentences
 - `new-15` : หัวหมอ (cunning, sly, clever in a way that exploits loopholes) : 1 meaning(s), 2 sentences
 - `yt-c14-080` : หน้าแตก, หน้าแหก - หน้าเสีย (to lose face (strongly, e.g public humiliation) - to lose face (mild embarrassment)) : 1 meaning(s), 2 sentences
+- `yt-c14-081` : หน้าเลือด (ruthless, greedy, exploitative, likes to squeeze every advantage) : 1 meaning(s), 2 sentences
+- `yt-c14-082` : ตาถั่ว (clueless, blind to something, slow to notice something obvious (literally "eyes nut" = can't see well)) : 1 meaning(s), 2 sentences
 - `yt-c14-083` : ปากจัด (sharp tongue, to speak very directly, harshly) : 1 meaning(s), 2 sentences
 - `yt-c14-084` : ปากเสีย (rude, offensive, uses bad language) : 1 meaning(s), 2 sentences
 - `yt-c14-085` : มือที่สาม (a third party in a relationship causing trouble (e.g a mistress, mia noi)) : 1 meaning(s), 2 sentences
 - `yt-c14-086` : หุบปาก ("shut up", "stop talking") : 1 meaning(s), 2 sentences
 - `yt-c14-087` : ฆ้อง (gong (the percussion instrument that produces a deep sound when hit)) : 1 meaning(s), 2 sentences
 - `yt-c14-088` : เด้ง (to bounce, to spring back; (skin) firm, tight, not saggy) : 2 meaning(s), 4 sentences
+- `yt-c14-089` : แคระ (dwarf, miniature, very small) : 1 meaning(s), 2 sentences
+- `yt-c14-090` : คนแคระ (dwarf) : 1 meaning(s), 2 sentences
+- `yt-c14-091` : เหนียง (double chin) : 1 meaning(s), 2 sentences
 - `yt-c14-093` : เมือก (mucus, slime, slime-like substance) : 1 meaning(s), 2 sentences
 - `yt-c14-095` : อึด (resilient, tough, enduring) : 1 meaning(s), 2 sentences
 - `yt-c14-097` : เกินต้าน (irresistible, "too good to resist", "too cute to resist") : 1 meaning(s), 2 sentences
+- `yt-c14-098` : จักรราศี (zodiac sign, zodiac wheel of 12 sign (literally "wheel, circle + constellation")) : 1 meaning(s), 2 sentences
 - `yt-c14-099` : จีบติด (to successfully flirt with someone) : 1 meaning(s), 2 sentences
 - `yt-c15-000` : รักแรกพบ (love at first sight) : 1 meaning(s), 2 sentences
 - `yt-c15-001` : คนคุย (a person you are casually seeing but not officially dating yet, still getting to know each other romantically) : 1 meaning(s), 2 sentences
 - `yt-c15-002` : หมาคาบไปแดก (มคได) (used when someone is too slow to act, too slow to claim something, usually a girl (literally "a dog will snatch and eat it")) : 1 meaning(s), 2 sentences
 - `yt-c15-003` : เล็ง (to target, to aim, to focus on) : 1 meaning(s), 2 sentences
 - `yt-c15-004` : ศีลเสมอกัน (to have the same level of virtue, to be morally compatible (as a couple)) : 1 meaning(s), 2 sentences
+- `yt-c15-006` : ธิดา (princess, daughter of a king) : 1 meaning(s), 2 sentences
 - `yt-c15-007` : เล่นว่าว (to fly a kite) : 1 meaning(s), 2 sentences
 - `yt-c15-008` : รักษาสัญญา (to keep a promise, to honor an agreement) : 1 meaning(s), 2 sentences
 - `yt-c15-009` : ผิดคำพูด (to break a promise, to go back on one's word) : 1 meaning(s), 2 sentences
