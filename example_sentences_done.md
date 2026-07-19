@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8644 words**
+**Total: 8654 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5984,15 +5984,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-084` : บอกเป็นนัย (to imply, to hint at something) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
 - `yt-c16-086` : ฝังแน่น (deeply embedded, ingrained, deep-rooted (e.g belief, opinion)) : 1 meaning(s), 2 sentences
+- `yt-c16-087` : ชั่วอายุคน (lifetime, lifespan, one generation) : 1 meaning(s), 2 sentences
 - `yt-c16-088` : ครุศาสตร์ (pedagogy (field of pedagogy in education)) : 1 meaning(s), 2 sentences
 - `yt-c16-089` : ดุริยางค์ ((formal, old-fashioned) music (e.g classical music, orchestra)) : 1 meaning(s), 2 sentences
 - `yt-c16-090` : ตั้งตารอ (to look forward to, to eagerly wait for) : 1 meaning(s), 2 sentences
+- `yt-c16-091` : โดยปริยาย ("automatically as a consequence", by implication) : 1 meaning(s), 2 sentences
 - `yt-c16-093` : น้ำเค็ม (saltwater) : 1 meaning(s), 2 sentences
 - `yt-c16-094` : ฝ้า (melasma (dark patches on skin, skin discoloration)) : 1 meaning(s), 2 sentences
 - `yt-c16-095` : หมอเฉพาะทาง, แพทย์เฉพาะทาง (specialist doctor) : 1 meaning(s), 2 sentences
+- `yt-c16-096` : จักษุแพทย์ (ophthalmologist) : 1 meaning(s), 2 sentences
+- `yt-c16-097` : กุมารแพทย์ (pediatrician) : 1 meaning(s), 2 sentences
+- `yt-c16-098` : สูติแพทย์ (obstetrician) : 1 meaning(s), 2 sentences
 - `yt-c16-099` : คัดจมูก (stuffy nose, nasal congestion) : 1 meaning(s), 2 sentences
 - `yt-c17-000` : ผิดรูป (deformed, distorted) : 1 meaning(s), 2 sentences
 - `yt-c17-001` : ทิ่ม (to poke, to jab, to stab lightly with something pointed) : 1 meaning(s), 2 sentences
+- `yt-c17-002` : เล็บขบ (ingrown nail) : 1 meaning(s), 2 sentences
+- `yt-c17-003` : ยุบ (to collapse, to sink down, to shrink down, to deflate (idea of going inward)) : 1 meaning(s), 2 sentences
+- `yt-c17-004` : รุมทำร้าย (to gang up and assault someone) : 1 meaning(s), 2 sentences
+- `yt-c17-005` : หมาหมู่ ((idiom) to team up to beat one person, to gang up and assault someone (literally "group of dogs")) : 1 meaning(s), 2 sentences
+- `yt-c17-006` : เยาะ, เยาะเย้ย (to mock, to ridicule, to make fun of someone in an insulting way) : 1 meaning(s), 2 sentences
 - `yt-c17-007` : คุ้มกัน (to guard, to escort, to protect someone) : 1 meaning(s), 2 sentences
 - `yt-c17-009` : ศักดิ์ศรี (dignity, self-worth, honor) : 1 meaning(s), 2 sentences
 - `yt-c17-012` : ใจเขาใจเรา, เอาใจเขามาใส่ใจเรา (to put yourself in someone else's shoes (literally "put their heart into our heart")) : 1 meaning(s), 2 sentences
