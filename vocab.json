@@ -259659,6 +259659,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to seek advice, to confer, to consult (formal)",
+        "sentences": [
+          {
+            "thai": "ผู้บริหารหารือกันเรื่องแผนงานปีหน้า",
+            "en": "The executives conferred about next year's plan.",
+            "audio_src": "ผู้บริหารหารือกันเรื่องแผนงานปีหน้า",
+            "audio_en_src": "The executives conferred about next year's plan."
+          },
+          {
+            "thai": "เขาไปหารือทนายก่อนตัดสินใจฟ้อง",
+            "en": "He consulted a lawyer before deciding to sue.",
+            "audio_src": "เขาไปหารือทนายก่อนตัดสินใจฟ้อง",
+            "audio_en_src": "He consulted a lawyer before deciding to sue."
+          }
+        ]
+      }
     ]
   },
   {
@@ -259948,6 +259967,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "gentleman, lady, aristocrat, well-bred person",
+        "sentences": [
+          {
+            "thai": "เธอวางตัวสง่างามเหมือนผู้ดีมีสกุล",
+            "en": "She carries herself gracefully like a well-bred lady.",
+            "audio_src": "เธอวางตัวสง่างามเหมือนผู้ดีมีสกุล",
+            "audio_en_src": "She carries herself gracefully like a well-bred lady."
+          },
+          {
+            "thai": "ครอบครัวนี้เป็นผู้ดีเก่าแก่ในกรุงเทพ",
+            "en": "This family is old aristocracy in Bangkok.",
+            "audio_src": "ครอบครัวนี้เป็นผู้ดีเก่าแก่ในกรุงเทพ",
+            "audio_en_src": "This family is old aristocracy in Bangkok."
+          }
+        ]
+      }
     ]
   },
   {
@@ -259987,6 +260025,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to patronize, to sponsor, to provide financial support or social backing (formal)",
+        "sentences": [
+          {
+            "thai": "เศรษฐีใจบุญอุปถัมภ์เด็กกำพร้าหลายคน",
+            "en": "The charitable millionaire supports many orphans.",
+            "audio_src": "เศรษฐีใจบุญอุปถัมภ์เด็กกำพร้าหลายคน",
+            "audio_en_src": "The charitable millionaire supports many orphans."
+          },
+          {
+            "thai": "บริษัทใหญ่อุปถัมภ์ทีมฟุตบอลของโรงเรียน",
+            "en": "The big company sponsors the school's football team.",
+            "audio_src": "บริษัทใหญ่อุปถัมภ์ทีมฟุตบอลของโรงเรียน",
+            "audio_en_src": "The big company sponsors the school's football team."
+          }
+        ]
+      }
     ]
   },
   {
@@ -260437,6 +260494,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "appearance, look, beauty (formal)",
+        "sentences": [
+          {
+            "thai": "รถรุ่นใหม่เปิดตัวด้วยโฉมที่ทันสมัย",
+            "en": "The new car model launched with a modern look.",
+            "audio_src": "รถรุ่นใหม่เปิดตัวด้วยโฉมที่ทันสมัย",
+            "audio_en_src": "The new car model launched with a modern look."
+          },
+          {
+            "thai": "เธอปรากฏโฉมงดงามในชุดราตรีสีทอง",
+            "en": "She appeared, beautiful, in a golden evening gown.",
+            "audio_src": "เธอปรากฏโฉมงดงามในชุดราตรีสีทอง",
+            "audio_en_src": "She appeared, beautiful, in a golden evening gown."
+          }
+        ]
+      }
     ]
   },
   {
@@ -260446,6 +260522,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "evident, apparent, obvious (formal)",
+        "sentences": [
+          {
+            "thai": "ความสามารถของเขาเป็นที่ประจักษ์ต่อทุกคน",
+            "en": "His ability is evident to everyone.",
+            "audio_src": "ความสามารถของเขาเป็นที่ประจักษ์ต่อทุกคน",
+            "audio_en_src": "His ability is evident to everyone."
+          },
+          {
+            "thai": "ผลงานที่ผ่านมาเป็นสิ่งประจักษ์ถึงความตั้งใจ",
+            "en": "His past work is clear proof of his dedication.",
+            "audio_src": "ผลงานที่ผ่านมาเป็นสิ่งประจักษ์ถึงความตั้งใจ",
+            "audio_en_src": "His past work is clear proof of his dedication."
+          }
+        ]
+      }
     ]
   },
   {
@@ -260455,6 +260550,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to request, to ask for (formal)",
+        "sentences": [
+          {
+            "thai": "ประชาชนร้องขอให้รัฐบาลช่วยเหลือผู้ประสบภัย",
+            "en": "The people requested that the government help the disaster victims.",
+            "audio_src": "ประชาชนร้องขอให้รัฐบาลช่วยเหลือผู้ประสบภัย",
+            "audio_en_src": "The people requested that the government help the disaster victims."
+          },
+          {
+            "thai": "เขาร้องขอความเป็นธรรมจากศาล",
+            "en": "He asked the court for justice.",
+            "audio_src": "เขาร้องขอความเป็นธรรมจากศาล",
+            "audio_en_src": "He asked the court for justice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -260492,6 +260606,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "good, admirable, excellent (literary)",
+        "sentences": [
+          {
+            "thai": "สังคมจะน่าอยู่ถ้าทุกคนมีจิตใจดีงาม",
+            "en": "Society would be pleasant if everyone had a good heart.",
+            "audio_src": "สังคมจะน่าอยู่ถ้าทุกคนมีจิตใจดีงาม",
+            "audio_en_src": "Society would be pleasant if everyone had a good heart."
+          },
+          {
+            "thai": "ประเพณีดีงามควรได้รับการสืบทอด",
+            "en": "Fine traditions should be passed on.",
+            "audio_src": "ประเพณีดีงามควรได้รับการสืบทอด",
+            "audio_en_src": "Fine traditions should be passed on."
+          }
+        ]
+      }
     ]
   },
   {
@@ -260705,6 +260838,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "deceased, dead (formal)",
+        "sentences": [
+          {
+            "thai": "ตำรวจสอบสวนหาสาเหตุการเสียชีวิตของผู้ตาย",
+            "en": "The police investigated the cause of the deceased's death.",
+            "audio_src": "ตำรวจสอบสวนหาสาเหตุการเสียชีวิตของผู้ตาย",
+            "audio_en_src": "The police investigated the cause of the deceased's death."
+          },
+          {
+            "thai": "ญาติผู้ตายมารับศพที่โรงพยาบาล",
+            "en": "The deceased's relatives came to collect the body at the hospital.",
+            "audio_src": "ญาติผู้ตายมารับศพที่โรงพยาบาล",
+            "audio_en_src": "The deceased's relatives came to collect the body at the hospital."
+          }
+        ]
+      }
     ]
   },
   {
@@ -260714,6 +260866,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "area, locality",
+        "sentences": [
+          {
+            "thai": "เจ้าหน้าที่ตำรวจในท้องที่เข้าดูแลความปลอดภัย",
+            "en": "Local police officers came to ensure safety.",
+            "audio_src": "เจ้าหน้าที่ตำรวจในท้องที่เข้าดูแลความปลอดภัย",
+            "audio_en_src": "Local police officers came to ensure safety."
+          },
+          {
+            "thai": "คดีนี้เกิดขึ้นในท้องที่ของสถานีตำรวจแห่งนี้",
+            "en": "This case occurred in this police station's jurisdiction.",
+            "audio_src": "คดีนี้เกิดขึ้นในท้องที่ของสถานีตำรวจแห่งนี้",
+            "audio_en_src": "This case occurred in this police station's jurisdiction."
+          }
+        ]
+      }
     ]
   },
   {
@@ -260839,6 +261010,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to question, to interrogate (formal)",
+        "sentences": [
+          {
+            "thai": "นักข่าวซักถามนักการเมืองเรื่องนโยบาย",
+            "en": "The reporters questioned the politician about his policies.",
+            "audio_src": "นักข่าวซักถามนักการเมืองเรื่องนโยบาย",
+            "audio_en_src": "The reporters questioned the politician about his policies."
+          },
+          {
+            "thai": "ครูซักถามนักเรียนถึงเหตุผลที่มาสาย",
+            "en": "The teacher questioned the student about why he was late.",
+            "audio_src": "ครูซักถามนักเรียนถึงเหตุผลที่มาสาย",
+            "audio_en_src": "The teacher questioned the student about why he was late."
+          }
+        ]
+      }
     ]
   },
   {

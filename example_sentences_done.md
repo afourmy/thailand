@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8893 words**
+**Total: 8903 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8493,6 +8493,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-087` : สามัญ (common, basic, ordinary) : 1 meaning(s), 2 sentences
 - `t4k-c05-088` : จอม (master-, chief-, top- (sometimes used ironically)) : 1 meaning(s), 2 sentences
 - `t4k-c05-090` : คำพิพากษา (court judgment, verdict) : 1 meaning(s), 2 sentences
+- `t4k-c05-093` : หารือ (to seek advice, to confer, to consult (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-094` : จุ (to contain, to hold (capacity), to have a capacity of) : 1 meaning(s), 2 sentences
 - `t4k-c05-096` : อิจฉา (jealous) : 1 meaning(s), 2 sentences
 - `t4k-c05-098` : แฟชั่น (fashion) : 1 meaning(s), 2 sentences
@@ -8502,7 +8503,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-004` : แก่ตัว (to get older, to grow old) : 1 meaning(s), 2 sentences
 - `t4k-c06-009` : ที่ทาง (available space, available place) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
+- `t4k-c06-012` : ผู้ดี (gentleman, lady, aristocrat, well-bred person) : 1 meaning(s), 2 sentences
 - `t4k-c06-014` : ลือ (to spread (e.g news, rumor), to be widely known) : 1 meaning(s), 2 sentences
+- `t4k-c06-019` : อุปถัมภ์ (to patronize, to sponsor, to provide financial support or social backing (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c06-021` : สารเคมี (chemical substance) : 1 meaning(s), 2 sentences
 - `t4k-c06-026` : สำราญ (happy, content, to enjoy oneself (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c06-027` : เปล่ง (to emit (sound, light), to radiate) : 1 meaning(s), 2 sentences
@@ -8518,7 +8521,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-039` : ความเคลื่อนไหว (movement, motion, activity) : 1 meaning(s), 2 sentences
 - `t4k-c06-041` : ติดตั้ง (to install, to set up) : 1 meaning(s), 2 sentences
 - `t4k-c06-042` : ที่ทำการ (administrative office) : 1 meaning(s), 2 sentences
+- `t4k-c06-043` : โฉม (appearance, look, beauty (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c06-045` : ประจักษ์ (evident, apparent, obvious (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c06-048` : ร้องขอ (to request, to ask for (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c06-049` : ข้อบังคับ (regulation, rule) : 1 meaning(s), 2 sentences
+- `t4k-c06-051` : ดีงาม (good, admirable, excellent (literary)) : 1 meaning(s), 2 sentences
 - `t4k-c06-052` : นักวิทยาศาสตร์ (scientist) : 1 meaning(s), 2 sentences
 - `t4k-c06-053` : นักรบ (warrior, fighter) : 1 meaning(s), 2 sentences
 - `t4k-c06-055` : นายทหาร (military officer) : 1 meaning(s), 2 sentences
@@ -8526,10 +8533,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-058` : ใจกลาง (center, heart (of a place)) : 1 meaning(s), 2 sentences
 - `t4k-c06-061` : เป็นต้นมา (up until now, up to the present) : 1 meaning(s), 2 sentences
 - `t4k-c06-062` : สมมติ, สมมุติ (to suppose, to assume) : 1 meaning(s), 2 sentences
+- `t4k-c06-063` : ผู้ตาย (deceased, dead (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c06-066` : ท้องที่ (area, locality) : 1 meaning(s), 2 sentences
 - `t4k-c06-067` : เท่าเทียม (equal) : 1 meaning(s), 2 sentences
 - `t4k-c06-070` : รายชื่อ (list of names) : 1 meaning(s), 2 sentences
 - `t4k-c06-071` : หลงใหล (to be fascinated, strongly attracted to, infatuated with) : 1 meaning(s), 2 sentences
 - `t4k-c06-072` : ละเมิด (to violate, to infringe (e.g rules, law) (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c06-073` : ซักถาม (to question, to interrogate (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c06-075` : วิทยาลัย (college, specialized educational institution (often smaller than university)) : 1 meaning(s), 2 sentences
 - `t4k-c06-076` : ก็แล้วกัน ("fine then", "alright then" (used to accept a decision, reluctantly or after hesitation)) : 1 meaning(s), 2 sentences
 - `t4k-c06-077` : วางตัว (to behave, to conduct oneself) : 1 meaning(s), 2 sentences
