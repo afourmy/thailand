@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8743 words**
+**Total: 8753 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6226,27 +6226,37 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-039` : ถ่ายเผื่อ (to take extra photos for someone (take a serie of photos for someone)) : 1 meaning(s), 2 sentences
 - `yt-c19-040` : ประกันชีวิต (life insurance) : 1 meaning(s), 2 sentences
 - `yt-c19-041` : ช้อนกลาง (shared spoon used to serve food from a shared dish) : 1 meaning(s), 2 sentences
+- `yt-c19-042` : ขึ้นตรงต่อ (to report directly to, to be under the authority of) : 1 meaning(s), 2 sentences
 - `yt-c19-043` : พิธีบวงสรวง (ceremony to pay respect or seek blessings) : 1 meaning(s), 2 sentences
 - `yt-c19-044` : กำหนดการ (program, agenda, planned sequence of activities) : 1 meaning(s), 2 sentences
+- `yt-c19-045` : สังฆทาน (offering to the Buddhist community (food, medicine, toiletries, anything the monks can use in their daily life)) : 1 meaning(s), 2 sentences
 - `yt-c19-046` : ผิดนัด (to miss an appointment, to not show up as scheduled; to default, to fail to meet a contractual obligation (e.g loan)) : 2 meaning(s), 4 sentences
 - `yt-c19-047` : หนังสือนิยาย (novel) : 1 meaning(s), 2 sentences
+- `yt-c19-048` : ซบ (to nestle, to rest one's head or body against) : 1 meaning(s), 2 sentences
+- `yt-c19-049` : หน้าชา ((idiom) stunned, shocked, feeling humiliated (literally "numb face")) : 1 meaning(s), 2 sentences
 - `yt-c19-050` : หน้าหนา (shameless, thick-skinned, not embarrassed even in awkward situations) : 1 meaning(s), 2 sentences
 - `yt-c19-051` : หน้าแดง (to blush from embarrassment or shyness) : 1 meaning(s), 2 sentences
 - `yt-c19-052` : ตีสองหน้า (hypocritical, two-faced, not sincere) : 1 meaning(s), 2 sentences
 - `yt-c19-054` : ปอดแหก (coward, easily scared, to chicken out) : 1 meaning(s), 2 sentences
 - `yt-c19-055` : หูเบา (credulous, gullible, easily influenced) : 1 meaning(s), 2 sentences
 - `yt-c19-056` : บาดตา (eyesore, harsh on the eyes, unpleasant to look at) : 1 meaning(s), 2 sentences
+- `yt-c19-057` : บาดใจ (heart-wrenching, deeply hurtful) : 1 meaning(s), 2 sentences
 - `yt-c19-058` : คอแข็ง (strong drinker, someone who does not get drunk easily) : 1 meaning(s), 2 sentences
 - `new-12` : คออ่อน (low alcohol tolerance, someone who gets drunk easily) : 1 meaning(s), 2 sentences
 - `yt-c19-059` : ปากแข็ง (to stubbornly refuse to admit, to deny something that's obvious) : 1 meaning(s), 2 sentences
 - `yt-c19-060` : หลุดปาก (to let something slip, to say something accidentally (that was supposed to be a secret)) : 1 meaning(s), 2 sentences
 - `yt-c19-062` : ขอคิดดูก่อน ("let me think about it first") : 1 meaning(s), 2 sentences
 - `yt-c19-064` : แรด (rhinoceros; (slang) slutty, sleazy (usually used about girls)) : 2 meaning(s), 4 sentences
+- `yt-c19-065` : ไก่กา (cheap, low quality, unimportant, insignificant) : 1 meaning(s), 2 sentences
 - `yt-c19-066` : ช้าง (elephant) : 1 meaning(s), 2 sentences
 - `yt-c19-067` : กุ้งแห้ง (skinny person (slang, literally "dried shrimp")) : 1 meaning(s), 2 sentences
 - `yt-c19-068` : นกเขา (dove; penis (slang)) : 2 meaning(s), 3 sentences
 - `yt-c19-069` : นกเขาขันตอนเช้า (morning wood (to have an erection in the morning)) : 1 meaning(s), 1 sentences
+- `yt-c19-070` : อมนกเขา (oral sex (literally "put in mouth + dove")) : 1 meaning(s), 2 sentences
 - `yt-c19-071` : เสือผู้หญิง (womanizer (literally "tiger + girl")) : 1 meaning(s), 2 sentences
+- `yt-c19-072` : เก้ง (barking deer (type of small deer); (slang) gay, homosexual) : 2 meaning(s), 4 sentences
+- `yt-c19-073` : ชะนี (gibbon; (slang) used by gay only to refer to girls) : 2 meaning(s), 4 sentences
+- `yt-c19-074` : หนี้สิน (debt, liabilities, financial obligations) : 1 meaning(s), 2 sentences
 - `yt-c19-076` : ผู้ถือหุ้น (shareholder, stockholder) : 1 meaning(s), 2 sentences
 - `yt-c19-077` : กู้เงิน (to borrow money) : 1 meaning(s), 2 sentences
 - `yt-c19-081` : รูปไม่ตรงปก (ugly, catfished (deceived by someone using heavily edited photos in online dating), not as advertised (object or person) (literally "the picture doesn't match the cover")) : 1 meaning(s), 2 sentences
