@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8484 words**
+**Total: 8494 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5528,20 +5528,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-083` : กระแสตอบรับ (public response, reception, feedback from people) : 1 meaning(s), 2 sentences
 - `yt-c11-084` : หลุดโลก (out of touch with reality, disconnected) : 1 meaning(s), 2 sentences
 - `yt-c11-085` : คำนวณ (to calculate) : 1 meaning(s), 2 sentences
+- `yt-c11-086` : สิ้นคิด (out of ideas, at a loss, desperate) : 1 meaning(s), 2 sentences
 - `yt-c11-087` : คำประพันธ์ (โคลง, กลอน, ฉันท์) (poetry (different types of Thai poetry)) : 1 meaning(s), 2 sentences
+- `yt-c11-088` : โคลง (to sway, to move back and forth, unstable, wobbly) : 1 meaning(s), 2 sentences
+- `yt-c11-089` : ดาวฤกษ์ (star) : 1 meaning(s), 2 sentences
 - `yt-c11-091` : พ้อง (similar, matching, identical, to correspond, to be the same) : 1 meaning(s), 2 sentences
 - `yt-c11-092` : ขัดตา - ขัดหู - ขัดใจ (displeasing, unpleasant (literally irritates the eyes - ears - heart)) : 1 meaning(s), 2 sentences
 - `yt-c11-093` : คำซ้อน, คำคู่ (เร็วไว, นุ่มนิ่ม, ดีชั่ว, ผิดถูก) (repeated words in Thai (to precise meaning or insist)) : 1 meaning(s), 2 sentences
 - `yt-c11-096` : เสือก (to butt in, to meddle with, to stick your nose in (slang, very rude)) : 1 meaning(s), 2 sentences
 - `yt-c11-097` : ผิดสังเกต (unusual, "looks suspicious", "seems off") : 1 meaning(s), 2 sentences
 - `yt-c11-098` : ช่างสังเกต (observant, someone who tends to notice things) : 1 meaning(s), 2 sentences
+- `yt-c11-099` : ล่องแพ (to raft (literally "float on a raft")) : 1 meaning(s), 2 sentences
 - `yt-c12-000` : จ้า (very bright, glaring (when talking about light)) : 1 meaning(s), 2 sentences
+- `yt-c12-001` : สันจมูก (bridge of the nose (low for Thai which prevents them from wearing glasses)) : 1 meaning(s), 2 sentences
 - `yt-c12-002` : ม่านตา (pupils (of the eyes), iris) : 1 meaning(s), 2 sentences
 - `yt-c12-003` : ลึกลับ (mysterious, secretive) : 1 meaning(s), 2 sentences
 - `yt-c12-004` : ปากดี (smart-mouthed, cheeky, sassy (e.g teasing people)) : 1 meaning(s), 2 sentences
 - `yt-c12-005` : กล่าว (to say, to state, to mention (formal)) : 1 meaning(s), 2 sentences
+- `yt-c12-006` : อุทิศ (to devote, to dedicate, to offer (something abstract e.g time, life, effort)) : 1 meaning(s), 2 sentences
 - `yt-c12-008` : หิวโหย (very hungry, famished, starving (formal)) : 1 meaning(s), 2 sentences
 - `yt-c12-009` : เหน็บหนาว (bitterly cold, bone-chilling cold) : 1 meaning(s), 2 sentences
+- `yt-c12-010` : ประโลม (to soothe, to comfort, to console) : 1 meaning(s), 2 sentences
+- `yt-c12-011` : ตาสว่าง (to realize the truth, to wake up to reality, to have your eyes opened (literally "bright eyes")) : 1 meaning(s), 2 sentences
+- `yt-c12-012` : ดวงหน้า (face, facial features) : 1 meaning(s), 2 sentences
+- `yt-c12-013` : อึ่ง, อึ่งอ่าง (bullfrog) : 1 meaning(s), 2 sentences
 - `yt-c12-014` : มะขาม - มะขามเทศ (tamarind - manila tamarind (fruit)) : 1 meaning(s), 2 sentences
 - `yt-c12-018` : ขนุน (jackfruit) : 1 meaning(s), 2 sentences
 - `yt-c12-019` : ลองกอง (longkong (type of fruit)) : 1 meaning(s), 2 sentences
