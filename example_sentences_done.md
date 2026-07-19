@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8384 words**
+**Total: 8394 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5280,11 +5280,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-012` : จารีต (custom, deep-rooted traditional norm) : 1 meaning(s), 2 sentences
 - `yt-c09-013` : ศีล (moral precept (Buddhism)) : 1 meaning(s), 2 sentences
 - `yt-c09-014` : จี่ (to roast, to grill (Isan way)) : 1 meaning(s), 2 sentences
+- `yt-c09-015` : ความปิติ (joy, delight) : 1 meaning(s), 2 sentences
+- `yt-c09-016` : ระเหย (to evaporate, to vaporize) : 1 meaning(s), 2 sentences
+- `yt-c09-018` : ทะลึ่ง (naughty, indecent, impudent) : 1 meaning(s), 2 sentences
 - `yt-c09-019` : ใบตองกล้วย (banana leaf) : 1 meaning(s), 2 sentences
+- `yt-c09-020` : ความยิ่งใหญ่ (greatness, grandeur) : 1 meaning(s), 2 sentences
+- `yt-c09-021` : จีวร (robe worn by Buddhist monks) : 1 meaning(s), 2 sentences
 - `yt-c09-022` : ตะขาบ (centipede) : 1 meaning(s), 2 sentences
+- `yt-c09-025` : อาถรรพ์ (curse, spell, jinx) : 1 meaning(s), 2 sentences
 - `yt-c09-026` : แก้อาถรรพ์ (to lift a curse, to break a spell) : 1 meaning(s), 2 sentences
 - `yt-c09-027` : เจิม (to anoint, to bless with oil or sacred water) : 1 meaning(s), 2 sentences
+- `yt-c09-028` : คาถา (sacred spell, incantation) : 1 meaning(s), 2 sentences
+- `yt-c09-029` : เซ่น, เซ่นไหว้ (to perform a ritual offering (e.g to spirits, gods, ancestors)) : 1 meaning(s), 2 sentences
+- `yt-c09-030` : ขลัง (magical, enchanted, imbued with magical power) : 1 meaning(s), 2 sentences
 - `yt-c09-031` : ใบลาน (palm leaf) : 1 meaning(s), 2 sentences
+- `yt-c09-032` : รักแบบลืมหูลืมตา (to be blindly in love) : 1 meaning(s), 2 sentences
 - `yt-c09-033` : ตอก (to nail, to hammer in) : 1 meaning(s), 2 sentences
 - `yt-c09-036` : ทำคุณไสย (to perform black magic) : 1 meaning(s), 2 sentences
 - `yt-c09-037` : น้ำมันพราย (spirit-infused oil (imbued with ghost power) used to perform black magic) : 1 meaning(s), 2 sentences
