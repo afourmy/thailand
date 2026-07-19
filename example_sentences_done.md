@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8404 words**
+**Total: 8414 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5325,12 +5325,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c09-063` : การตายโหง (violent death, sudden death) : 1 meaning(s), 2 sentences
 - `yt-c09-065` : สลาย, สูญสลาย (to disintegrate, to dissolve, to disappear completely) : 1 meaning(s), 2 sentences
 - `yt-c09-066` : อาคม (magic, sorcery) : 1 meaning(s), 2 sentences
+- `yt-c09-067` : ตัดขาด (to sever ties, to cut off completely) : 1 meaning(s), 2 sentences
+- `yt-c09-068` : เยื่อใย (emotional attachment, affection, lingering feelings, tie, bond) : 1 meaning(s), 2 sentences
+- `yt-c09-069` : หลุดพ้น (to break free, to be liberated) : 1 meaning(s), 2 sentences
 - `yt-c09-070` : ปรินิพพาน (final Nirvana, end of the cycle of rebirth, the Buddha's passing away (death after attaining enlightenment)) : 1 meaning(s), 2 sentences
+- `yt-c09-071` : ศีลข้อที่ ๑: ไม่ฆ่าสัตว์ตัดชีวิต (First Buddhist precept) : 1 meaning(s), 2 sentences
 - `yt-c09-072` : สวดอภิธรรม (to chant Abhidhamma (funeral ceremony)) : 1 meaning(s), 2 sentences
 - `yt-c09-073` : ทวน (to go against, to go in the opposite direction; to repeat, to review) : 2 meaning(s), 4 sentences
 - `yt-c09-074` : ปริศนาธรรม (riddle that conveys a Buddhist teaching) : 1 meaning(s), 2 sentences
 - `yt-c09-075` : กิเลส (defilements, mental impurities, cravings (Buddhism)) : 1 meaning(s), 2 sentences
+- `yt-c09-076` : บ่วง (snare, noose, trap (binding attachment)) : 1 meaning(s), 2 sentences
+- `yt-c09-078` : ฉูดฉาด (too bright, flashy, showy (e.g clothes)) : 1 meaning(s), 2 sentences
+- `yt-c09-079` : หว่าน (to sow) : 1 meaning(s), 2 sentences
+- `yt-c09-080` : แก่งแย่ง (to struggle for, to compete for) : 1 meaning(s), 2 sentences
+- `yt-c09-081` : อาลัย (to mourn, to grieve) : 1 meaning(s), 2 sentences
 - `yt-c09-082` : ยัด (to cram, to shove, to force something into a tight space) : 1 meaning(s), 2 sentences
+- `yt-c09-083` : แช่ง, สาปแช่ง (to curse, to damn, to invoke misfortune on someone) : 1 meaning(s), 2 sentences
 - `yt-c09-084` : ชีวิตชีวา (lively, full of life) : 1 meaning(s), 2 sentences
 - `yt-c09-085` : สีสันสดใส (bright colors, vivid colors) : 1 meaning(s), 2 sentences
 - `yt-c09-086` : อาสนะ (seat for the monks (religious)) : 1 meaning(s), 2 sentences
