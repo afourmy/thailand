@@ -2780,7 +2780,7 @@
   },
   {
     "id": "chula-l4-117",
-    "thai": "บุคลิกภาพ",
+    "thai": "บุคลิก, บุคลิกภาพ",
     "english": "personality",
     "frequency": "occasional",
     "examples": [
@@ -13814,7 +13814,7 @@
   },
   {
     "id": "chula-l5-400",
-    "thai": "งบประมาณ",
+    "thai": "งบ, งบประมาณ",
     "english": "budget",
     "frequency": "common",
     "examples": [
@@ -16474,13 +16474,13 @@
   {
     "id": "chula-l6-040",
     "thai": "แทรก, สอดแทรก",
-    "english": "to insert, interject, slip in",
+    "english": "to insert, to interject, to slip in",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "to insert, interject, slip in",
+        "meaning": "to insert, to interject, to slip in",
         "sentences": [
           {
             "thai": "ช่วยแทรกรูปภาพลงในเอกสาร",
@@ -41542,33 +41542,6 @@
     ]
   },
   {
-    "id": "thai9k-002",
-    "thai": "เข้าร่วม",
-    "english": "to join, attend, participate in",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to join, attend, participate in",
-        "sentences": [
-          {
-            "thai": "เธอเข้าร่วมประชุมทุกครั้ง",
-            "en": "She attends every meeting.",
-            "audio_src": "เธอเข้าร่วมประชุมทุกครั้ง",
-            "audio_en_src": "She attends every meeting."
-          },
-          {
-            "thai": "นักเรียนหลายคนเข้าร่วมแข่งขันกีฬา",
-            "en": "Many students joined the sports competition.",
-            "audio_src": "นักเรียนหลายคนเข้าร่วมแข่งขันกีฬา",
-            "audio_en_src": "Many students joined the sports competition."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "thai9k-003",
     "thai": "กู้",
     "english": "to save, to rescue; to borrow money, to take a loan",
@@ -61137,33 +61110,6 @@
     ]
   },
   {
-    "id": "tamago-l3-719",
-    "thai": "หลอกลวง",
-    "english": "to defraud, to scam",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to defraud, to scam",
-        "sentences": [
-          {
-            "thai": "มิจฉาชีพหลอกลวงคนแก่ให้โอนเงิน",
-            "en": "Scammers defraud the elderly into transferring money.",
-            "audio_src": "มิจฉาชีพหลอกลวงคนแก่ให้โอนเงิน",
-            "audio_en_src": "Scammers defraud the elderly into transferring money."
-          },
-          {
-            "thai": "โฆษณานี้หลอกลวงผู้บริโภค",
-            "en": "This advertisement deceives consumers.",
-            "audio_src": "โฆษณานี้หลอกลวงผู้บริโภค",
-            "audio_en_src": "This advertisement deceives consumers."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "tamago-l3-720",
     "thai": "ปกปิด",
     "english": "to conceal, to cover up, to hide",
@@ -73144,7 +73090,7 @@
   },
   {
     "id": "tsl-330",
-    "thai": "ประนีประนอม",
+    "thai": "ประนอม, ประนีประนอม",
     "english": "to compromise, to reconcile",
     "frequency": "common",
     "audio": true,
@@ -92255,21 +92201,15 @@
   },
   {
     "id": "thaipod-0567",
-    "thai": "ปรับ, ปรับปรุง",
-    "english": "to adjust, adapt, improve",
+    "thai": "ปรับ",
+    "english": "fine (penalty); to adjust, to adapt",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "to adjust, adapt, improve",
+        "meaning": "fine (penalty); to adjust, to adapt",
         "sentences": [
-          {
-            "thai": "ร้านปรับปรุงเมนูใหม่ให้ถูกปากลูกค้า",
-            "en": "The shop improved its menu to suit customers' tastes.",
-            "audio_src": "ร้านปรับปรุงเมนูใหม่ให้ถูกปากลูกค้า",
-            "audio_en_src": "The shop improved its menu to suit customers' tastes."
-          },
           {
             "thai": "เขาปรับท่านั่งให้สบายขึ้น",
             "en": "He adjusted his sitting posture to be more comfortable.",
@@ -92279,6 +92219,27 @@
         ]
       }
     ]
+  },
+  {
+    "id": "thaipod-0567b",
+    "thai": "ปรับปรุง",
+    "english": "to improve, to upgrade, to revise",
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to improve, to upgrade, to revise",
+        "sentences": [
+          {
+            "thai": "ร้านปรับปรุงเมนูใหม่ให้ถูกปากลูกค้า",
+            "en": "The shop improved its menu to suit customers' tastes.",
+            "audio_src": "ร้านปรับปรุงเมนูใหม่ให้ถูกปากลูกค้า",
+            "audio_en_src": "The shop improved its menu to suit customers' tastes."
+          }
+        ]
+      }
+    ],
+    "audio": true,
+    "audio_en": true
   },
   {
     "id": "thaipod-0569",
@@ -129928,7 +129889,7 @@
   },
   {
     "id": "yt-c04-005",
-    "thai": "วิพากษ์วิจารณ์",
+    "thai": "วิพากษ์, วิพากษ์วิจารณ์",
     "english": "to criticize, to judge, to comment",
     "frequency": "common",
     "audio": true,
@@ -185795,7 +185756,7 @@
   },
   {
     "id": "wlt-c06-044",
-    "thai": "ชายหาด",
+    "thai": "หาด, ชายหาด",
     "english": "beach",
     "frequency": "common",
     "examples": [
@@ -192775,7 +192736,7 @@
   },
   {
     "id": "wlt-c09-066",
-    "thai": "ห้องครัว",
+    "thai": "ครัว, ห้องครัว",
     "english": "kitchen",
     "frequency": "everyday",
     "audio": true,
@@ -197286,7 +197247,7 @@
   {
     "id": "wlt-c11-056",
     "thai": "ฝึก, หัด, ฝึกหัด",
-    "english": "to practise, exercise, train",
+    "english": "to practice, to exercise, to train",
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
@@ -197294,7 +197255,7 @@
     "audio_en_src": "to practise, exercise, train",
     "examples": [
       {
-        "meaning": "to practise, exercise, train",
+        "meaning": "to practice, to exercise, to train",
         "sentences": [
           {
             "thai": "ฉันฝึกพูดภาษาไทยทุกวัน",
@@ -197506,7 +197467,7 @@
   {
     "id": "wlt-c11-065",
     "thai": "เพิ่ม, เพิ่มขึ้น",
-    "english": "to increase",
+    "english": "to add, to increase",
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
@@ -197514,7 +197475,7 @@
     "audio_en_src": "to increase",
     "examples": [
       {
-        "meaning": "to increase",
+        "meaning": "to add, to increase",
         "sentences": [
           {
             "thai": "ร้านขอเพิ่มราคาอีกนิด",
