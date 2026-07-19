@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8783 words**
+**Total: 8793 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6358,21 +6358,31 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c20-088` : จำเจ (monotonous, repetitive, routine) : 1 meaning(s), 2 sentences
 - `yt-c20-090` : รักสามเส้า (love triangle) : 1 meaning(s), 2 sentences
 - `yt-c20-091` : อย่ามาโทษผม ("don't blame me") : 1 meaning(s), 2 sentences
+- `yt-c20-092` : ผมกินข้าวนะ ไม่ได้กินหญ้า ((idiom) "I'm not stupid", "don't treat me like an idiot") : 1 meaning(s), 2 sentences
 - `yt-c20-093` : ว่าไปเรื่อย (to talk nonsense, to ramble, to make things up (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-094` : ไม่เนียน (not convincing, not believable, fake-looking (slang)) : 1 meaning(s), 2 sentences
 - `yt-c20-096` : แก้เผ็ด (to retaliate, to get even (light revenge, e.g when someone teases you)) : 1 meaning(s), 2 sentences
 - `yt-c20-097` : หลาบจำ (to be taught a lesson (when you're getting punished for something)) : 1 meaning(s), 2 sentences
+- `yt-c20-098` : ขึ้นทันตา (to improve visibly, to suddenly become good (literally "rise before the eyes")) : 1 meaning(s), 2 sentences
 - `yt-c20-099` : คืนดี (to get back together (e.g after breaking up), to reconcile) : 1 meaning(s), 2 sentences
 - `yt-c21-000` : แตะตา, สะดุดตา (to strike the eyes, eye-catching) : 1 meaning(s), 2 sentences
 - `yt-c21-001` : พุทธศาสนสุภาษิต (Buddhist saying, proverb of Buddhist origin) : 1 meaning(s), 2 sentences
 - `yt-c21-002` : ดุจดั่ง, ดุจ, ดั่ง ((poetic, literary) just like, as if) : 1 meaning(s), 3 sentences
+- `yt-c21-003` : ยุยง (to incite, to instigate, to urge someone to do something) : 1 meaning(s), 2 sentences
+- `yt-c21-004` : วาจา (speech, words) : 1 meaning(s), 2 sentences
 - `yt-c21-005` : แซะ (to make sarcastic, snide remarks, to take a dig at someone (indirect, passive-aggressive criticism)) : 1 meaning(s), 2 sentences
+- `yt-c21-006` : สำนวนโวหาร (figure of speech, rhetorical expression) : 1 meaning(s), 2 sentences
+- `yt-c21-007` : แก่กะโหลกกะลา (old but foolish, old person with no wisdom) : 1 meaning(s), 2 sentences
 - `yt-c21-008` : ไม่ถือ (I don't mind (in the sense "I won't hold it against you")) : 1 meaning(s), 2 sentences
 - `yt-c21-009` : งานนอก (side job, freelance work) : 1 meaning(s), 2 sentences
+- `yt-c21-010` : กระชากหน้ากาก (to unmask, to expose someone's true nature) : 1 meaning(s), 2 sentences
 - `yt-c21-011` : กินแรง (to be a parasite, to freeload on others' effort (e.g not help one's team at work)) : 1 meaning(s), 2 sentences
+- `yt-c21-012` : เรื่องใต้สะดือ (sexual matters, sex-related topics) : 1 meaning(s), 2 sentences
+- `yt-c21-013` : เรื่องบัดสี (indecent matters, obscene things) : 1 meaning(s), 2 sentences
 - `yt-c21-017` : จัดกัน (to have sex, to hook up (literally "to arrange something")) : 1 meaning(s), 2 sentences
 - `yt-c21-019` : บัวพ้นน้ำ (quick learner, someone who understands right away (lotus above the water)) : 1 meaning(s), 2 sentences
 - `yt-c21-020` : บัวใต้น้ำ - บัวในโคลนตม - บัวในตม ((idiom) describes someone who is slow to understand, slow learner (literally "lotus under the water" - "lotus in murky wet soil")) : 1 meaning(s), 3 sentences
+- `yt-c21-022` : น้ำเต็มแก้ว ((idiom) describes a person unwilling to learn new things, or who has reached its limit) : 1 meaning(s), 2 sentences
 - `yt-c21-025` : ไปตามน้ำ ((idiom) to go with the flow) : 1 meaning(s), 2 sentences
 - `yt-c21-029` : แทงข้างหลัง ((expression) to stab in the back, to betray) : 1 meaning(s), 2 sentences
 - `yt-c21-030` : ควันหลง (post-drama residual signs, aftermath of an event, lingering signs of something that happened (e.g songkran)) : 1 meaning(s), 2 sentences
