@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8344 words**
+**Total: 8354 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5168,20 +5168,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-087` : ระนาด (Thai xylophone) : 1 meaning(s), 2 sentences
 - `yt-c07-088` : อนุสาวรีย์ (monument, memorial) : 1 meaning(s), 2 sentences
 - `yt-c07-089` : กระท่อม (hut, cottage) : 1 meaning(s), 2 sentences
+- `yt-c07-090` : แคร่ (wooden platform bed, raised bed found in rural Thai homes) : 1 meaning(s), 2 sentences
+- `yt-c07-091` : ระยะห่าง (spacing, distance, gap between two things) : 1 meaning(s), 2 sentences
 - `yt-c07-092` : ขี้เกลือ (sweat stain (salt residue on cloth from sweating)) : 1 meaning(s), 2 sentences
 - `yt-c07-093` : ถอนฟัน (to extract a tooth) : 1 meaning(s), 2 sentences
 - `yt-c07-094` : ความวัวไม่ทันหาย ความควายก็เข้ามาแทรก (before one problem is over, another problem comes (literally "before the cow matter has disappeared, the buffalo matter comes in")) : 1 meaning(s), 1 sentences
 - `yt-c07-095` : ลูกหาบ (porter (person who carries load for others, e.g when trekking on moutain)) : 1 meaning(s), 2 sentences
+- `new-63` : ทางราบ (flat road) : 1 meaning(s), 2 sentences
+- `new-64` : ทางชัน (steep road) : 1 meaning(s), 2 sentences
 - `yt-c07-099` : หาบ (to carry a load using a shoulder pole) : 1 meaning(s), 2 sentences
 - `yt-c08-001` : ทะเลหมอก (sea of clouds (when on a moutain)) : 1 meaning(s), 2 sentences
+- `yt-c08-002` : แผ่นรองนอน (sleeping pad, sleeping mat) : 1 meaning(s), 2 sentences
+- `yt-c08-003` : กอไผ่ (clump (cluster) of bamboo) : 1 meaning(s), 2 sentences
 - `yt-c08-004` : ติดตัว (to carry on oneself; (figuratively) innate, ingrained) : 2 meaning(s), 4 sentences
 - `yt-c08-005` : เฉลย (to reveal the answer, to provide the solution (e.g tests, exercises)) : 1 meaning(s), 2 sentences
 - `yt-c08-006` : ผีกระหัง (malevolent ghost that possess or drain life from humans) : 1 meaning(s), 2 sentences
+- `yt-c08-007` : กระด้ง (woven bamboo basket) : 1 meaning(s), 2 sentences
 - `yt-c08-008` : สากตำข้าว (rice-pounding pestle) : 1 meaning(s), 2 sentences
 - `yt-c08-009` : ผีกระสือ (female ghost whose head is separated from internal organs (hanging below head)) : 1 meaning(s), 2 sentences
 - `yt-c08-010` : ผีนางตะเคียน (female spirit of the Takhian tree (not malevolent but defends the tree)) : 1 meaning(s), 2 sentences
 - `yt-c08-013` : ผีตานี (pretty female ghost of the Tanee tree (dangerous, lures men who wander alone at night)) : 1 meaning(s), 2 sentences
+- `yt-c08-014` : ปลี (banana blossom, banana flower) : 1 meaning(s), 2 sentences
 - `yt-c08-015` : ผีเปรต (hungry ghost with small mouth, big hands and stomach, believed to be the rebirth of evil or greedy people) : 1 meaning(s), 2 sentences
+- `yt-c08-016` : สูงเหมือนเปรต (very tall (literally as tall as "pret" ghost, a very tall evil hungry ghost)) : 1 meaning(s), 2 sentences
+- `yt-c08-017` : เวทมนต์ (sorcery, magic) : 1 meaning(s), 2 sentences
 - `yt-c08-019` : คนเล่นของ (a person who practices black magic, sorcery) : 1 meaning(s), 2 sentences
 - `yt-c08-021` : ผีตายโหง (ghost of someone who died from a violent or unnatural death) : 1 meaning(s), 2 sentences
 - `yt-c08-024` : เหนือกฎวิทยาศาสตร์ (beyond the laws of science) : 1 meaning(s), 2 sentences
