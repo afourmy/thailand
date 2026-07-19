@@ -92202,19 +92202,42 @@
   {
     "id": "thaipod-0567",
     "thai": "ปรับ",
-    "english": "fine (penalty); to adjust, to adapt",
+    "english": "to fine (penalty); to adjust, to adapt",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "fine (penalty); to adjust, to adapt",
+        "meaning": "to fine (penalty)",
+        "sentences": [
+          {
+            "thai": "ตำรวจปรับเขาห้าร้อยบาท",
+            "en": "The police fined him 500 baht.",
+            "audio_src": "ตำรวจปรับเขาห้าร้อยบาท",
+            "audio_en_src": "The police fined him 500 baht."
+          },
+          {
+            "thai": "ถ้าคืนหนังสือช้าจะโดนปรับวันละสิบบาท",
+            "en": "If you return the book late, you get fined ten baht a day.",
+            "audio_src": "ถ้าคืนหนังสือช้าจะโดนปรับวันละสิบบาท",
+            "audio_en_src": "If you return the book late, you get fined ten baht a day."
+          }
+        ]
+      },
+      {
+        "meaning": "to adjust, to adapt",
         "sentences": [
           {
             "thai": "เขาปรับท่านั่งให้สบายขึ้น",
             "en": "He adjusted his sitting posture to be more comfortable.",
             "audio_src": "เขาปรับท่านั่งให้สบายขึ้น",
             "audio_en_src": "He adjusted his sitting posture to be more comfortable."
+          },
+          {
+            "thai": "เขาปรับตัวเข้ากับงานใหม่ได้เร็วมาก",
+            "en": "He adapted to the new job very quickly.",
+            "audio_src": "เขาปรับตัวเข้ากับงานใหม่ได้เร็วมาก",
+            "audio_en_src": "He adapted to the new job very quickly."
           }
         ]
       }
@@ -92234,6 +92257,12 @@
             "en": "The shop improved its menu to suit customers' tastes.",
             "audio_src": "ร้านปรับปรุงเมนูใหม่ให้ถูกปากลูกค้า",
             "audio_en_src": "The shop improved its menu to suit customers' tastes."
+          },
+          {
+            "thai": "บริษัทกำลังปรับปรุงระบบ",
+            "en": "The company is upgrading its system.",
+            "audio_src": "บริษัทกำลังปรับปรุงระบบ",
+            "audio_en_src": "The company is upgrading its system."
           }
         ]
       }

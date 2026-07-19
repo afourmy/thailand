@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8993 words**
+**Total: 8992 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -108,7 +108,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l4-114` : ช่วงวัย (age range, stage of life) : 1 meaning(s), 2 sentences
 - `chula-l4-115` : ต่าง (different, other) : 1 meaning(s), 2 sentences
 - `chula-l4-116` : เลี้ยงดู (to nurture, to raise, to care for, to provide for (e.g a child)) : 1 meaning(s), 2 sentences
-- `chula-l4-117` : บุคลิกภาพ (personality) : 1 meaning(s), 2 sentences
+- `chula-l4-117` : บุคลิก, บุคลิกภาพ (personality) : 1 meaning(s), 2 sentences
 - `chula-l4-118` : สิ่งแวดล้อม (environment) : 1 meaning(s), 2 sentences
 - `chula-l4-119` : เพศตรงข้าม (opposite gender) : 1 meaning(s), 2 sentences
 - `chula-l4-120` : เติบโต (to grow, to progress, to mature) : 1 meaning(s), 2 sentences
@@ -522,7 +522,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l5-397` : พืช (plant) : 1 meaning(s), 2 sentences
 - `chula-l5-398` : รถประจำทาง (public bus) : 1 meaning(s), 2 sentences
 - `chula-l5-399` : กวาง (deer) : 1 meaning(s), 2 sentences
-- `chula-l5-400` : งบประมาณ (budget) : 1 meaning(s), 2 sentences
+- `chula-l5-400` : งบ, งบประมาณ (budget) : 1 meaning(s), 2 sentences
 - `chula-l5-401` : ฟื้น, ฟื้นตัว (to regain, to recover) : 1 meaning(s), 2 sentences
 - `chula-l5-402` : หด, หดตัว (to shrink, to retract) : 1 meaning(s), 2 sentences
 - `chula-l5-403` : ปรากฏ (to appear) : 1 meaning(s), 2 sentences
@@ -618,7 +618,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `chula-l6-037` : วลี (phrase) : 1 meaning(s), 2 sentences
 - `chula-l6-038` : เชิงบวก - เชิงลบ (positive - negative) : 1 meaning(s), 2 sentences
 - `chula-l6-039` : แต่งตั้ง (to appoint, to nominate) : 1 meaning(s), 2 sentences
-- `chula-l6-040` : แทรก, สอดแทรก (to insert, interject, slip in) : 1 meaning(s), 2 sentences
+- `chula-l6-040` : แทรก, สอดแทรก (to insert, to interject, to slip in) : 1 meaning(s), 2 sentences
 - `chula-l6-041` : เคล็ดลับ (tips, tricks) : 1 meaning(s), 2 sentences
 - `chula-l6-042` : สวน (park, garden; against, in the opposite direction) : 2 meaning(s), 4 sentences
 - `chula-l6-043` : เอะอะ (to make a fuss, to react too quickly, without a reason) : 1 meaning(s), 2 sentences
@@ -1519,7 +1519,6 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l12-656` : ไหมขัดฟัน (dental floss) : 1 meaning(s), 2 sentences
 - `tamago-l12-657` : ไอ้ ((slang) rude pronoun marker for males) : 1 meaning(s), 2 sentences
 - `thai9k-001` : ปลดปล่อย (to liberate, set free, release from oppression) : 1 meaning(s), 2 sentences
-- `thai9k-002` : เข้าร่วม (to join, attend, participate in) : 1 meaning(s), 2 sentences
 - `thai9k-003` : กู้ (to save, to rescue; to borrow money, to take a loan) : 2 meaning(s), 4 sentences
 - `thai9k-004` : ดุว่า (to scold, to reprimand) : 1 meaning(s), 2 sentences
 - `thai9k-005` : สายรุ้ง, รุ้ง, รุ้งกินน้ำ (rainbow) : 1 meaning(s), 2 sentences
@@ -2233,7 +2232,6 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tamago-l3-716` : เต็นท์รถ (car dealership (second-hand cars displayed under covered area)) : 1 meaning(s), 2 sentences
 - `tamago-l3-717` : ต่อให้ (even if, even though) : 1 meaning(s), 2 sentences
 - `tamago-l3-718` : พอรู้ (to have a rough idea, to know roughly) : 1 meaning(s), 2 sentences
-- `tamago-l3-719` : หลอกลวง (to defraud, to scam) : 1 meaning(s), 2 sentences
 - `tamago-l3-720` : ปกปิด (to conceal, to cover up, to hide) : 1 meaning(s), 2 sentences
 - `tamago-l3-721` : สักระยะ (for a while, for some time) : 1 meaning(s), 2 sentences
 - `tamago-l3-722` : ตีราคา (to assess costs, to estimate a price) : 1 meaning(s), 2 sentences
@@ -2680,7 +2678,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `tsl-326` : แน่นหนา (secure, firm, strong, sturdy) : 1 meaning(s), 2 sentences
 - `tsl-327` : เคลื่อน, เคลื่อนที่ (to move, to displace, to be in motion) : 1 meaning(s), 2 sentences
 - `tsl-328` : คำนึงถึง (to take into consideration, to bear in mind) : 1 meaning(s), 2 sentences
-- `tsl-330` : ประนีประนอม (to compromise, to reconcile) : 1 meaning(s), 2 sentences
+- `tsl-330` : ประนอม, ประนีประนอม (to compromise, to reconcile) : 1 meaning(s), 2 sentences
 - `tsl-331` : ความห่วงใย (concern, care, worry (for someone's well-being)) : 1 meaning(s), 2 sentences
 - `tsl-332` : น่าเห็นใจ (pitiful, deserving sympathy) : 1 meaning(s), 2 sentences
 - `tsl-333` : ความซาบซึ้งใจ (deep gratitude, deep appreciation (formal)) : 1 meaning(s), 2 sentences
@@ -3401,7 +3399,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `thaipod-0563` : ประหยัด (to save (money, time), economical) : 1 meaning(s), 2 sentences
 - `thaipod-0564` : ประหารชีวิต (to execute, to put to death) : 1 meaning(s), 2 sentences
 - `thaipod-0566` : ประโยชน์, คุณประโยชน์ (benefit, use, advantage) : 1 meaning(s), 2 sentences
-- `thaipod-0567` : ปรับ, ปรับปรุง (to adjust, adapt, improve) : 1 meaning(s), 2 sentences
+- `thaipod-0567` : ปรับ (to fine (penalty); to adjust, to adapt) : 2 meaning(s), 4 sentences
+- `thaipod-0567b` : ปรับปรุง (to improve, to upgrade, to revise) : 1 meaning(s), 2 sentences
 - `thaipod-0569` : ปราบ, ปราบปราม (to suppress, to subdue, to quell (e.g uprising, enemies)) : 1 meaning(s), 2 sentences
 - `thaipod-0570` : ปรึกษา (to consult, to seek advice) : 1 meaning(s), 2 sentences
 - `thaipod-0571` : ปลด (to release, to remove (from a position), to dismiss) : 1 meaning(s), 2 sentences
@@ -4819,7 +4818,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c04-002` : ทำสวน (to do gardening) : 1 meaning(s), 2 sentences
 - `yt-c04-003` : ตีกรอบ (to frame, to set boundaries, to restrict) : 1 meaning(s), 2 sentences
 - `yt-c04-004` : กันและกัน (each other) : 1 meaning(s), 2 sentences
-- `yt-c04-005` : วิพากษ์วิจารณ์ (to criticize, to judge, to comment) : 1 meaning(s), 2 sentences
+- `yt-c04-005` : วิพากษ์, วิพากษ์วิจารณ์ (to criticize, to judge, to comment) : 1 meaning(s), 2 sentences
 - `yt-c04-006` : ม้วน (to roll, to curl, roll, classifier for rolled items (e.g toilet paper)) : 1 meaning(s), 2 sentences
 - `yt-c04-008` : จับฉลาก (to draw lots, to pick randomly) : 1 meaning(s), 2 sentences
 - `yt-c04-009` : กระสุน, ลูกกระสุน (bullet) : 1 meaning(s), 2 sentences
@@ -6961,7 +6960,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c06-041` : ใจกว้าง (generous) : 1 meaning(s), 2 sentences
 - `wlt-c06-042` : ฉิ่ง (cymbals) : 1 meaning(s), 2 sentences
 - `wlt-c06-043` : ช่วง (period (of time)) : 1 meaning(s), 2 sentences
-- `wlt-c06-044` : ชายหาด (beach) : 1 meaning(s), 2 sentences
+- `wlt-c06-044` : หาด, ชายหาด (beach) : 1 meaning(s), 2 sentences
 - `wlt-c06-045` : ชาวประมง (fisherman (people who fish for a living)) : 1 meaning(s), 2 sentences
 - `wlt-c06-046` : ชี้แจง (to clarify, to explain in detail) : 1 meaning(s), 2 sentences
 - `wlt-c06-047` : ชีวิต (life) : 1 meaning(s), 2 sentences
@@ -7221,7 +7220,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-063` : หยุดพัก (to take a break) : 1 meaning(s), 2 sentences
 - `wlt-c09-064` : หลังจาก (after) : 1 meaning(s), 2 sentences
 - `wlt-c09-065` : ห้องกินข้าว (dining room) : 1 meaning(s), 2 sentences
-- `wlt-c09-066` : ห้องครัว (kitchen) : 1 meaning(s), 2 sentences
+- `wlt-c09-066` : ครัว, ห้องครัว (kitchen) : 1 meaning(s), 2 sentences
 - `wlt-c09-067` : ห้องทำงาน (work room, office) : 1 meaning(s), 2 sentences
 - `wlt-c09-068` : ห้อย (to dangle) : 1 meaning(s), 2 sentences
 - `wlt-c09-069` : หาก, ถ้าหาก (if (literary)) : 1 meaning(s), 2 sentences
@@ -7385,7 +7384,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-053` : ผ้าปูที่นอน (bedsheet) : 1 meaning(s), 2 sentences
 - `wlt-c11-054` : ฝ้าย (cotton) : 1 meaning(s), 2 sentences
 - `wlt-c11-055` : ฝี (abscess, boil) : 1 meaning(s), 2 sentences
-- `wlt-c11-056` : ฝึก, หัด, ฝึกหัด (to practise, exercise, train) : 1 meaning(s), 2 sentences
+- `wlt-c11-056` : ฝึก, หัด, ฝึกหัด (to practice, to exercise, to train) : 1 meaning(s), 2 sentences
 - `wlt-c11-057` : พก (to carry (on one's person)) : 1 meaning(s), 2 sentences
 - `wlt-c11-058` : พจนานุกรม (dictionary) : 1 meaning(s), 2 sentences
 - `wlt-c11-059` : พลาสติก (plastic) : 1 meaning(s), 2 sentences
@@ -7393,7 +7392,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-061` : พักผ่อน (to rest) : 1 meaning(s), 2 sentences
 - `wlt-c11-062` : พัดลม (fan (device)) : 1 meaning(s), 2 sentences
 - `wlt-c11-063` : พาหนะ (vehicle, means of transportation) : 1 meaning(s), 2 sentences
-- `wlt-c11-065` : เพิ่ม, เพิ่มขึ้น (to increase) : 1 meaning(s), 2 sentences
+- `wlt-c11-065` : เพิ่ม, เพิ่มขึ้น (to add, to increase) : 1 meaning(s), 2 sentences
 - `wlt-c11-069` : ภัตตาคาร (restaurant (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-070` : ภาคอีสาน (northeastern region) : 1 meaning(s), 2 sentences
 - `wlt-c11-072` : ภูมิศาสตร์ (geography) : 1 meaning(s), 2 sentences
