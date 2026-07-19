@@ -156225,6 +156225,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "roof overhang, eaves (part of the roof that extends beyond the wall to protect from sun and rain)",
+        "sentences": [
+          {
+            "thai": "นกมาทำรังใต้ชายคา",
+            "en": "Birds built a nest under the eaves.",
+            "audio_src": "นกมาทำรังใต้ชายคา",
+            "audio_en_src": "Birds built a nest under the eaves."
+          },
+          {
+            "thai": "ฝนตกหนัก เราไปหลบใต้ชายคาบ้านคนอื่น",
+            "en": "It was pouring, so we sheltered under someone's eaves.",
+            "audio_src": "ฝนตกหนัก เราไปหลบใต้ชายคาบ้านคนอื่น",
+            "audio_en_src": "It was pouring, so we sheltered under someone's eaves."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156585,6 +156604,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to be fulfilled, to be made whole",
+        "sentences": [
+          {
+            "thai": "ชีวิตเขาโดนเติมเต็มตั้งแต่มีลูก",
+            "en": "His life has felt complete since having kids.",
+            "audio_src": "ชีวิตเขาโดนเติมเต็มตั้งแต่มีลูก",
+            "audio_en_src": "His life has felt complete since having kids."
+          },
+          {
+            "thai": "ความฝันวัยเด็กโดนเติมเต็มแล้ว",
+            "en": "A childhood dream has been fulfilled.",
+            "audio_src": "ความฝันวัยเด็กโดนเติมเต็มแล้ว",
+            "audio_en_src": "A childhood dream has been fulfilled."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156772,6 +156810,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "loose chain (e.g motorbike)",
+        "sentences": [
+          {
+            "thai": "โซ่หย่อนแล้ว ต้องเอาไปตั้งใหม่",
+            "en": "The chain's gone loose, it needs adjusting.",
+            "audio_src": "โซ่หย่อนแล้ว ต้องเอาไปตั้งใหม่",
+            "audio_en_src": "The chain's gone loose, it needs adjusting."
+          },
+          {
+            "thai": "ขี่แล้วมีเสียงดัง สงสัยโซ่หย่อน",
+            "en": "There's a rattling noise when I ride, probably a loose chain.",
+            "audio_src": "ขี่แล้วมีเสียงดัง สงสัยโซ่หย่อน",
+            "audio_en_src": "There's a rattling noise when I ride, probably a loose chain."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156781,6 +156838,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "broken chain (e.g motorbike)",
+        "sentences": [
+          {
+            "thai": "โซ่ขาดกลางทาง ต้องเข็นรถ",
+            "en": "The chain snapped mid-ride, so I had to push the bike.",
+            "audio_src": "โซ่ขาดกลางทาง ต้องเข็นรถ",
+            "audio_en_src": "The chain snapped mid-ride, so I had to push the bike."
+          },
+          {
+            "thai": "โซ่ขาดแบบนี้ซ่อมไม่ได้ ต้องเปลี่ยนเส้นใหม่",
+            "en": "A chain broken like this can't be fixed, it needs replacing.",
+            "audio_src": "โซ่ขาดแบบนี้ซ่อมไม่ได้ ต้องเปลี่ยนเส้นใหม่",
+            "audio_en_src": "A chain broken like this can't be fixed, it needs replacing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156851,6 +156927,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wisdom, traditional knowledge",
+        "sentences": [
+          {
+            "thai": "ยาสมุนไพรเป็นภูมิปัญญาชาวบ้าน",
+            "en": "Herbal medicine is village folk wisdom.",
+            "audio_src": "ยาสมุนไพรเป็นภูมิปัญญาชาวบ้าน",
+            "audio_en_src": "Herbal medicine is village folk wisdom."
+          },
+          {
+            "thai": "ผ้าทอลายนี้เป็นภูมิปัญญาท้องถิ่น",
+            "en": "This woven pattern is local traditional knowledge.",
+            "audio_src": "ผ้าทอลายนี้เป็นภูมิปัญญาท้องถิ่น",
+            "audio_en_src": "This woven pattern is local traditional knowledge."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156888,6 +156983,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "public health system, healthcare system",
+        "sentences": [
+          {
+            "thai": "ระบบสาธารณสุขไทยได้รับคำชมจากต่างชาติ",
+            "en": "Thailand's public health system has drawn international praise.",
+            "audio_src": "ระบบสาธารณสุขไทยได้รับคำชมจากต่างชาติ",
+            "audio_en_src": "Thailand's public health system has drawn international praise."
+          },
+          {
+            "thai": "โรคระบาดเป็นบททดสอบของระบบสาธารณสุข",
+            "en": "Epidemics are a test of the healthcare system.",
+            "audio_src": "โรคระบาดเป็นบททดสอบของระบบสาธารณสุข",
+            "audio_en_src": "Epidemics are a test of the healthcare system."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156897,6 +157011,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "per capita, per person",
+        "sentences": [
+          {
+            "thai": "บุฟเฟ่ต์คิดรายหัว หัวละสามร้อย",
+            "en": "The buffet charges per person, three hundred each.",
+            "audio_src": "บุฟเฟ่ต์คิดรายหัว หัวละสามร้อย",
+            "audio_en_src": "The buffet charges per person, three hundred each."
+          },
+          {
+            "thai": "โรงเรียนได้งบรายหัวจากรัฐ",
+            "en": "Schools get per-head funding from the state.",
+            "audio_src": "โรงเรียนได้งบรายหัวจากรัฐ",
+            "audio_en_src": "Schools get per-head funding from the state."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156906,6 +157039,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "alternative medicine",
+        "sentences": [
+          {
+            "thai": "เขาหันไปพึ่งแพทย์ทางเลือกหลังการรักษาหลักไม่ได้ผล",
+            "en": "He turned to alternative medicine after conventional treatment failed.",
+            "audio_src": "เขาหันไปพึ่งแพทย์ทางเลือกหลังการรักษาหลักไม่ได้ผล",
+            "audio_en_src": "He turned to alternative medicine after conventional treatment failed."
+          },
+          {
+            "thai": "ฝังเข็มเป็นแพทย์ทางเลือกที่นิยม",
+            "en": "Acupuncture is a popular form of alternative medicine.",
+            "audio_src": "ฝังเข็มเป็นแพทย์ทางเลือกที่นิยม",
+            "audio_en_src": "Acupuncture is a popular form of alternative medicine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156915,6 +157067,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "modern medicine, conventional medicine (e.g doctors, hospital)",
+        "sentences": [
+          {
+            "thai": "อาการแบบนี้ควรรักษากับแพทย์แผนปัจจุบัน",
+            "en": "Symptoms like this should be treated with modern medicine.",
+            "audio_src": "อาการแบบนี้ควรรักษากับแพทย์แผนปัจจุบัน",
+            "audio_en_src": "Symptoms like this should be treated with modern medicine."
+          },
+          {
+            "thai": "แพทย์แผนปัจจุบันรักษาโรคนี้ได้หายขาด",
+            "en": "Modern medicine can cure this disease completely.",
+            "audio_src": "แพทย์แผนปัจจุบันรักษาโรคนี้ได้หายขาด",
+            "audio_en_src": "Modern medicine can cure this disease completely."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156924,6 +157095,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "traditional medicine (e.g herbal, massage, etc)",
+        "sentences": [
+          {
+            "thai": "เขาเรียนแพทย์แผนโบราณด้านนวดไทย",
+            "en": "He's studying traditional medicine, specializing in Thai massage.",
+            "audio_src": "เขาเรียนแพทย์แผนโบราณด้านนวดไทย",
+            "audio_en_src": "He's studying traditional medicine, specializing in Thai massage."
+          },
+          {
+            "thai": "ยาหม้อเป็นตำรับแพทย์แผนโบราณ",
+            "en": "Herbal decoctions are a traditional medicine remedy.",
+            "audio_src": "ยาหม้อเป็นตำรับแพทย์แผนโบราณ",
+            "audio_en_src": "Herbal decoctions are a traditional medicine remedy."
+          }
+        ]
+      }
     ]
   },
   {

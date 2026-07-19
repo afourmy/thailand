@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8314 words**
+**Total: 8324 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5092,6 +5092,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-008` : ประโยชน์ใช้สอย (utility, practical use) : 1 meaning(s), 2 sentences
 - `yt-c07-009` : ใต้ถุน (empty space under a traditional Thai raised house) : 1 meaning(s), 2 sentences
 - `yt-c07-010` : ชาน (sort of terrace in traditional Thai house (no roof)) : 1 meaning(s), 2 sentences
+- `yt-c07-011` : ชายคา (roof overhang, eaves (part of the roof that extends beyond the wall to protect from sun and rain)) : 1 meaning(s), 2 sentences
 - `yt-c07-012` : ผุ (to decay, to rot, to deteriorate, rotten) : 1 meaning(s), 2 sentences
 - `yt-c07-013` : ต่อเติม (to extend, to add on, to renovate (by expansion)) : 1 meaning(s), 2 sentences
 - `yt-c07-014` : สถานีขนส่งผู้โดยสาร (บขส) (passenger bus terminal) : 1 meaning(s), 2 sentences
@@ -5104,15 +5105,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-021` : สมุดบัญชี (bank book) : 1 meaning(s), 2 sentences
 - `yt-c07-022` : กองทุน (investment fund (like SET50 or SET100, equivalent of S&P500 in Thailand)) : 1 meaning(s), 2 sentences
 - `yt-c07-023` : สินเชื่อ (loan, credit (e.g to buy a house)) : 1 meaning(s), 2 sentences
+- `yt-c07-024` : โดนเติมเต็ม (to be fulfilled, to be made whole) : 1 meaning(s), 2 sentences
 - `yt-c07-026` : พระบรมฉายาลักษณ์ (royal portrait) : 1 meaning(s), 2 sentences
 - `yt-c07-027` : กาง (to unfold, to spread out (e.g umbrella, map, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-028` : หนังสยองขวัญ, ภาพยนตร์สยองขวัญ (horror movie) : 1 meaning(s), 2 sentences
 - `yt-c07-029` : จุดยืน (standpoint, position, opinion (e.g in politics)) : 1 meaning(s), 2 sentences
 - `yt-c07-030` : มีสาระ (to be useful, meaningful, informative) : 1 meaning(s), 2 sentences
 - `yt-c07-031` : อู่ซ่อมรถ (garage, car repair shop) : 1 meaning(s), 2 sentences
+- `new-65` : โซ่หย่อน (loose chain (e.g motorbike)) : 1 meaning(s), 2 sentences
+- `new-66` : โซ่ขาด (broken chain (e.g motorbike)) : 1 meaning(s), 2 sentences
 - `yt-c07-035` : กวัก, กวักมือ (to beckon, to gesture someone to come closer) : 1 meaning(s), 2 sentences
 - `yt-c07-036` : ขาตั้ง (tripod, (supporting) stand (of a motosai, camera, etc)) : 1 meaning(s), 2 sentences
+- `yt-c07-037` : ภูมิปัญญา (wisdom, traditional knowledge) : 1 meaning(s), 2 sentences
 - `yt-c07-038` : บดละเอียด (to grind finely, finely ground (powder, chili, etc)) : 1 meaning(s), 2 sentences
+- `yt-c07-039` : ระบบสาธารณสุข (public health system, healthcare system) : 1 meaning(s), 2 sentences
+- `yt-c07-040` : รายหัว (per capita, per person) : 1 meaning(s), 2 sentences
+- `yt-c07-041` : แพทย์ทางเลือก (alternative medicine) : 1 meaning(s), 2 sentences
+- `yt-c07-042` : แพทย์แผนปัจจุบัน (modern medicine, conventional medicine (e.g doctors, hospital)) : 1 meaning(s), 2 sentences
+- `yt-c07-043` : แพทย์แผนโบราณ (traditional medicine (e.g herbal, massage, etc)) : 1 meaning(s), 2 sentences
 - `yt-c07-044` : ที่มาที่ไป (origin, history, background, how something came to be) : 1 meaning(s), 2 sentences
 - `yt-c07-046` : ราก (root) : 1 meaning(s), 2 sentences
 - `yt-c07-047` : ฝน (rain; to grind (e.g a plant into powder), to sharpen) : 2 meaning(s), 4 sentences
