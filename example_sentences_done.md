@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8813 words**
+**Total: 8823 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6456,15 +6456,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-098` : สายแดก (foodie) : 1 meaning(s), 2 sentences
 - `yt-c21-099` : หิวแสง (attention-seeking, thirsty for attention) : 1 meaning(s), 2 sentences
 - `yt-c22-000` : ครั่นเนื้อครั่นตัว (to feel feverish, unwell, to have chills) : 1 meaning(s), 2 sentences
+- `yt-c22-001` : จ้าละหวั่น (frantically, in complete chaos, in confusion, in turmoil) : 1 meaning(s), 2 sentences
 - `yt-c22-002` : อะลุ่มอล่วย (lenient, accommodating, to compromise) : 1 meaning(s), 2 sentences
 - `yt-c22-004` : พิศวาส (to love deeply, passionately (rare, literary)) : 1 meaning(s), 2 sentences
 - `yt-c22-005` : คาดคะเน (to estimate, to predict, to infer) : 1 meaning(s), 2 sentences
 - `yt-c22-006` : ไม่กินเส้นกับ (to dislike, to not get along with) : 1 meaning(s), 2 sentences
+- `yt-c22-007` : ปากกัดตีนถีบ (to struggle to survive, to scrape by, to make ends meet through sheer effort) : 1 meaning(s), 2 sentences
 - `yt-c22-008` : ใช้เงินเก่ง (to splurge, big spender) : 1 meaning(s), 2 sentences
 - `yt-c22-009` : ใช้เงินสุรุ่ยสุร่าย (to spend money extravagantly, to be wasteful with money) : 1 meaning(s), 2 sentences
 - `yt-c22-010` : หาม (to carry (e.g something heavy with 2 people and a stretcher)) : 1 meaning(s), 2 sentences
 - `yt-c22-011` : ยอ (to flatter, to suck up to) : 1 meaning(s), 2 sentences
 - `yt-c22-012` : อวย (to praise excessively, to hype up, to flatter) : 1 meaning(s), 2 sentences
+- `yt-c22-013` : สรรเสริญ (to praise, to laud) : 1 meaning(s), 2 sentences
+- `yt-c22-014` : ล่วงลับ (to pass away) : 1 meaning(s), 2 sentences
 - `yt-c22-015` : หลับสบาย, ไปดี, กลับบ้านเก่า (to die, to pass away (various idioms)) : 1 meaning(s), 2 sentences
 - `yt-c22-016` : คลาดเคลื่อน (inaccurate, off, incorrect, to be slightly off) : 1 meaning(s), 2 sentences
 - `yt-c22-017` : เข้าที่เข้าทาง (to settle into place (idea of a situation becoming stable after disorder or transition)) : 1 meaning(s), 2 sentences
@@ -6476,13 +6480,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-024` : ประปราย (sporadic) : 1 meaning(s), 2 sentences
 - `yt-c22-025` : เตียงผ้าใบ (beach chair made of fabric stretched over a frame (like a hammock)) : 1 meaning(s), 2 sentences
 - `yt-c22-026` : หนาตา (crowded, bustling) : 1 meaning(s), 2 sentences
+- `yt-c22-027` : ระลอก (ripple, surge, wave (e.g infections, protests, etc)) : 1 meaning(s), 2 sentences
+- `yt-c22-028` : ไม่ขาดสาย (continuously, nonstop, without interruption) : 1 meaning(s), 2 sentences
+- `yt-c22-029` : กระฉูด (to spurt, to shoot out forcefully (e.g liquids); (figuratively) to surge, to skyrocket, to increase sharply) : 2 meaning(s), 4 sentences
+- `yt-c22-030` : เป็นระนาว (in rows, in large numbers) : 1 meaning(s), 2 sentences
 - `yt-c22-033` : ควาย (water buffalo; idiot, moron) : 2 meaning(s), 4 sentences
 - `new-10` : ฟาย (moron, dumbass (altered pronunciation of buffalo)) : 1 meaning(s), 2 sentences
 - `yt-c22-034` : ถูกสวมเขา, โดนสวมเขา (to be cheated on by one's partner, to be made a cuckold (informal)) : 1 meaning(s), 2 sentences
+- `yt-c22-035` : ไม่มีวัวผสมเลย (100% stupid ("not crossbred with a cow" = 100% water buffalo = stupid)) : 1 meaning(s), 2 sentences
 - `yt-c22-036` : จำฝังใจ (to remember vividly, to be engraved in one's mind (e.g bad memories)) : 1 meaning(s), 2 sentences
 - `yt-c22-037` : ระงับ (to suppress, to suspend, to put a stop to) : 1 meaning(s), 2 sentences
 - `yt-c22-038` : โล่งแจ้ง (open, unobstructed, clear) : 1 meaning(s), 2 sentences
 - `yt-c22-039` : แถลง (to announce, to declare, to make a statement) : 1 meaning(s), 2 sentences
+- `yt-c22-040` : คับแค้นใจ (to feel deeply wronged, resentful) : 1 meaning(s), 2 sentences
 - `yt-c22-042` : ฉลาดแกมโกง (clever but dishonest, cunning, sly) : 1 meaning(s), 2 sentences
 - `yt-c22-044` : ไสหัวไป ("piss off", "get lost", "get the hell out" (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c22-045` : พ่อมึงตาย, แม่มึงตาย ("fuck you", "fuck your mother" (slang, very rude)) : 1 meaning(s), 2 sentences
