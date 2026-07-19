@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8943 words**
+**Total: 8953 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8686,8 +8686,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-025` : ตอ (stump (tree stump left after cutting)) : 1 meaning(s), 2 sentences
 - `t4k-c09-027` : บอกกล่าว (to inform, to notify) : 1 meaning(s), 2 sentences
 - `t4k-c09-029` : หมึก (ink) : 1 meaning(s), 2 sentences
+- `t4k-c09-031` : ตื่นตัว (alert, responsive, awake and attentive) : 1 meaning(s), 2 sentences
 - `t4k-c09-032` : ช่อ (cluster, bunch; bouquet (of flowers)) : 2 meaning(s), 4 sentences
 - `t4k-c09-034` : ดัชนี (index (book, data), indicator) : 1 meaning(s), 2 sentences
+- `t4k-c09-035` : การเรียนการสอน (teaching and learning, education process) : 1 meaning(s), 2 sentences
 - `t4k-c09-037` : หากิน (to earn a living, to make a living) : 1 meaning(s), 2 sentences
 - `t4k-c09-042` : ไอน้ำ (steam (water)) : 1 meaning(s), 2 sentences
 - `t4k-c09-049` : มานะ (perseverance, determination (formal)) : 1 meaning(s), 2 sentences
@@ -8704,6 +8706,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-070` : เกรด (grade (school)) : 1 meaning(s), 2 sentences
 - `t4k-c09-071` : สิทธิมนุษยชน (human rights) : 1 meaning(s), 2 sentences
 - `t4k-c09-072` : รับผิด (to take responsibility, to admit fault) : 1 meaning(s), 2 sentences
+- `t4k-c09-075` : นึกคิด (to ponder, to think) : 1 meaning(s), 2 sentences
 - `t4k-c09-078` : ภาคตะวันออก (eastern) : 1 meaning(s), 2 sentences
 - `t4k-c09-080` : อนึ่ง (furthermore, moreover (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c09-081` : แทรกแซง (to intervene) : 1 meaning(s), 2 sentences
@@ -8711,13 +8714,17 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c09-083` : หลักประกัน (guarantee, collateral (for loans or debts)) : 1 meaning(s), 2 sentences
 - `t4k-c09-085` : เงย (to look up, to raise the head) : 1 meaning(s), 2 sentences
 - `t4k-c09-090` : หมายเหตุ (note, remark, comment) : 1 meaning(s), 2 sentences
+- `t4k-c09-091` : ลาง (omen, sign) : 1 meaning(s), 2 sentences
 - `t4k-c09-092` : เร่งรัด (to rush, to speed up, to expedite) : 1 meaning(s), 2 sentences
 - `t4k-c09-094` : ทำเนียบ (official residence, administrative residence; list, register) : 2 meaning(s), 4 sentences
 - `t4k-c09-095` : ขอน (log, tree trunk) : 1 meaning(s), 2 sentences
 - `t4k-c09-096` : กระเทือน (to shake, to vibrate; (figuratively) to impact, to be disturbed, to be destabilized) : 2 meaning(s), 4 sentences
 - `t4k-c09-098` : เงินตรา (currency, monetary system) : 1 meaning(s), 2 sentences
 - `t4k-c10-000` : ขว้าง (to throw (with force), to pitch (a ball), to hurl) : 1 meaning(s), 2 sentences
+- `t4k-c10-002` : ยี (to rub, to mash, to crush, to ruffle) : 1 meaning(s), 2 sentences
+- `t4k-c10-003` : จงรักภักดี (loyal, faithful, devoted) : 1 meaning(s), 2 sentences
 - `t4k-c10-004` : ผลตอบแทน (return (on investment), compensation, reward) : 1 meaning(s), 2 sentences
+- `t4k-c10-006` : น้ำยา (chemical solution) : 1 meaning(s), 2 sentences
 - `t4k-c10-007` : โรแมนติก (romantic) : 1 meaning(s), 2 sentences
 - `t4k-c10-008` : เพิกถอน (to revoke, to withdraw, to cancel (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c10-011` : อุทธรณ์ (to appeal, appeal) : 1 meaning(s), 2 sentences
@@ -8730,10 +8737,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c10-021` : อวกาศ (space) : 1 meaning(s), 2 sentences
 - `t4k-c10-023` : ประมวลกฎหมาย (legal code (collection of laws)) : 1 meaning(s), 2 sentences
 - `t4k-c10-024` : โปรตีน (protein) : 1 meaning(s), 2 sentences
+- `t4k-c10-025` : สังหาร (to murder, to slay, to assassinate) : 1 meaning(s), 2 sentences
 - `t4k-c10-026` : ผนวก (to append, to annex, to incorporate) : 1 meaning(s), 2 sentences
 - `t4k-c10-028` : เสี้ยว (fraction, small portion, small part) : 1 meaning(s), 2 sentences
 - `t4k-c10-029` : ค่าเสียหาย (damages) : 1 meaning(s), 2 sentences
 - `t4k-c10-031` : เบื้องหน้า (in front (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c10-033` : คลัง (storehouse, warehouse) : 1 meaning(s), 2 sentences
 - `t4k-c10-034` : บ้านเกิด (hometown, homeland) : 1 meaning(s), 2 sentences
 - `t4k-c10-036` : ดำน้ำ (to dive) : 1 meaning(s), 2 sentences
 - `t4k-c10-037` : เสี่ย (wealthy Chinese-Thai businessman, rich older man, rich guy (informal)) : 1 meaning(s), 2 sentences
@@ -8741,6 +8750,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c10-041` : เก๋ (stylish, chic, cool) : 1 meaning(s), 2 sentences
 - `t4k-c10-044` : ผู้ว่า (governor) : 1 meaning(s), 2 sentences
 - `t4k-c10-046` : ทำเอา (to cause (someone to feel or react a certain way)) : 1 meaning(s), 2 sentences
+- `t4k-c10-047` : ตุลาการ (judge, judicial) : 1 meaning(s), 2 sentences
 - `t4k-c10-048` : ตอนหลัง (afterwards, later on) : 1 meaning(s), 2 sentences
 - `t4k-c10-049` : อาบ (to bathe) : 1 meaning(s), 2 sentences
 - `t4k-c10-051` : บทเพลง (song, lyrics (formal)) : 1 meaning(s), 2 sentences
