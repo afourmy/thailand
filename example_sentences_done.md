@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8594 words**
+**Total: 8604 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5842,20 +5842,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-017` : แก้วหน้าม้า ((from fairytale) said of a girl who's ugly but good-hearted or talented) : 1 meaning(s), 2 sentences
 - `yt-c15-018` : ดูอ่อนกว่าวัย - ดูแก่กว่าวัย (to look younger than one's age - to look older than one's age) : 1 meaning(s), 2 sentences
 - `yt-c15-019` : พยาธิ (parasite, worm) : 1 meaning(s), 2 sentences
+- `yt-c15-020` : เอ๊าะๆ (young and fresh, cute, sweet) : 1 meaning(s), 2 sentences
 - `yt-c15-021` : ตึง (tight, stretched, tense) : 1 meaning(s), 2 sentences
 - `yt-c15-022` : สะตอ (stink bean (type of bean vegetable that smells bad)) : 1 meaning(s), 2 sentences
+- `yt-c15-023` : กดชักโครก (to flush the toilet (press the flush button)) : 1 meaning(s), 2 sentences
 - `yt-c15-024` : กลิ่นสาบ (unpleasant sweaty, musty odor) : 1 meaning(s), 2 sentences
 - `yt-c15-026` : เป่ายิ้งฉุบ (rock paper scissors (game)) : 1 meaning(s), 2 sentences
 - `yt-c15-027` : บริสุทธิ์ใจ (pure-hearted, honest, sincere) : 1 meaning(s), 2 sentences
 - `yt-c15-028` : คด ((physically) bent, crooked; (morally) crooked, dishonest; to scoop rice) : 3 meaning(s), 6 sentences
 - `yt-c15-029` : ซื่อกินไม่หมด คดกินไม่นาน ("honest people may not get rich, but dishonest people won't last long" (literally "the honest person cannot eat it all; the dishonest person cannot eat it for long")) : 1 meaning(s), 1 sentences
+- `yt-c15-030` : ไหว้ย่อ (special wai where you slightly bend your knees while bowing, showing extra respect (e.g teachers, elders, etc)) : 1 meaning(s), 2 sentences
 - `yt-c15-031` : นางงาม (beauty queen, beauty pageant) : 1 meaning(s), 2 sentences
 - `yt-c15-032` : แซ่บ (tasty and spicy (food); (figuratively) sexy, hot (girl)) : 2 meaning(s), 4 sentences
 - `yt-c15-033` : ปากแซ่บ (sharped-tongue, witty, cheeky) : 1 meaning(s), 2 sentences
+- `yt-c15-035` : ขวดโหล (glass jar (e.g for pickled food, coins, spices, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-036` : ยกทัพ (to march an army, to lead troops into battle) : 1 meaning(s), 2 sentences
 - `yt-c15-037` : เสลี่ยง (palanquin, a traditional seat carried by people to transport royalty or nobles in old times) : 1 meaning(s), 2 sentences
+- `yt-c15-038` : เสย (to flick up, to sweep up (quick upward motion with hand, object, or hair)) : 1 meaning(s), 2 sentences
+- `yt-c15-039` : วีรกรรม (heroic deeds, exploits, notable actions) : 1 meaning(s), 2 sentences
 - `yt-c15-040` : วีรบุรุษ - วีรสตรี (hero - heroine (literally "heroic + man - woman")) : 1 meaning(s), 2 sentences
 - `yt-c15-041` : ตั้งตัว (to get established, to set oneself up (in life, career, financially, etc)) : 1 meaning(s), 2 sentences
+- `yt-c15-042` : กงสุล (consul) : 1 meaning(s), 2 sentences
+- `yt-c15-043` : ผลัดขน (to shed (fur), to molt (feathers)) : 1 meaning(s), 2 sentences
 - `yt-c15-044` : สีดอกเลา (grayish, white and grey (said about hair of fur)) : 1 meaning(s), 2 sentences
+- `yt-c15-045` : หยุมหัว (to pull someone's hair) : 1 meaning(s), 2 sentences
 - `yt-c15-046` : พิธีแห่นางแมว (procession where people carry a cat (in a cage or a basket) to pray for rain during times of drought) : 1 meaning(s), 2 sentences
 - `yt-c15-047` : ที่เท่าแมวดิ้นตาย ((expression) very tiny space, narrow, cramped space (literally "a space where a cat would struggle and die")) : 1 meaning(s), 2 sentences
 - `yt-c15-051` : ปิดประตูตีแมว ((expression) to hide bad behavior and do something bad (e.g hit someone) behind closed doors) : 1 meaning(s), 2 sentences
