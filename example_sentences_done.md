@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8604 words**
+**Total: 8614 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5868,6 +5868,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-045` : หยุมหัว (to pull someone's hair) : 1 meaning(s), 2 sentences
 - `yt-c15-046` : พิธีแห่นางแมว (procession where people carry a cat (in a cage or a basket) to pray for rain during times of drought) : 1 meaning(s), 2 sentences
 - `yt-c15-047` : ที่เท่าแมวดิ้นตาย ((expression) very tiny space, narrow, cramped space (literally "a space where a cat would struggle and die")) : 1 meaning(s), 2 sentences
+- `yt-c15-048` : แมวขโมย ((idiom) used jokingly to describe a sneaky person who quietly takes something) : 1 meaning(s), 2 sentences
+- `yt-c15-049` : เด็กเปรต (bad, malicious, mischievous child (literally like "ghost pret")) : 1 meaning(s), 2 sentences
+- `yt-c15-050` : ยื่นหมู ยื่นแมว ((expression) mutual exchange, "give and take" situation where both sides trade something (literally "hand me a pig, I hand you a cat")) : 1 meaning(s), 2 sentences
 - `yt-c15-051` : ปิดประตูตีแมว ((expression) to hide bad behavior and do something bad (e.g hit someone) behind closed doors) : 1 meaning(s), 2 sentences
 - `yt-c15-053` : วลีเด็ด (catchphrase, iconic line, famous quote or expression) : 1 meaning(s), 2 sentences
 - `yt-c15-054` : อวยไส้แตก (to overhype, to praise so much it's ridiculous, to praise to death (literally "praise until guts burst")) : 1 meaning(s), 2 sentences
@@ -5877,18 +5880,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c15-058` : อ่อม, อ่อมๆ ยมๆ (bland, boring, so so, underwhelming (slang)) : 1 meaning(s), 2 sentences
 - `yt-c15-059` : วิจัย (to research, to study) : 1 meaning(s), 2 sentences
 - `yt-c15-060` : ความเสมอภาค (equality (in status, rights, opportunities)) : 1 meaning(s), 2 sentences
+- `yt-c15-061` : ผู้มีพระคุณ (benefactor, someone to whom one owes gratitude) : 1 meaning(s), 2 sentences
+- `yt-c15-062` : ความจงรักภักดี (deep faithfulness, allegiance, heartfelt dedication) : 1 meaning(s), 2 sentences
 - `yt-c15-063` : ยึดถือ (to uphold, to adhere to (e.g moral value, religion)) : 1 meaning(s), 2 sentences
 - `yt-c15-065` : ลั้นลา (carefree, cheerful, lighthearted, enjoying oneself without worries (slang)) : 1 meaning(s), 2 sentences
 - `yt-c15-066` : งัด (to pry, to lever up) : 1 meaning(s), 2 sentences
+- `yt-c15-067` : โรงทาน (place where free food or other things are offered, "charity hall") : 1 meaning(s), 2 sentences
 - `yt-c15-069` : ปัง, ปั๊วะ, ปั๊วะปัง (amazing, impressive, excellent, very pretty) : 1 meaning(s), 2 sentences
 - `yt-c15-071` : ใจฟู ((slang) feeling very happy, heartwarming feeling (e.g when someone is kind to you, gives you a present) (literally "inflated heart")) : 1 meaning(s), 2 sentences
 - `yt-c15-072` : นอยอะ ((slang) expresses quiet sadness, sulking, feeling down, emotionally hurt) : 1 meaning(s), 2 sentences
 - `yt-c15-073` : ทำถึง (to "go all the way", executed perfectly (slang)) : 1 meaning(s), 2 sentences
 - `yt-c15-074` : ตกหล่น (to be unintentionally left out, to be omitted) : 1 meaning(s), 2 sentences
+- `yt-c15-075` : โห่ ((onomatopoeic verb) to boo, to shout loudly to show dislike) : 1 meaning(s), 2 sentences
+- `yt-c15-076` : ควบแน่น (to condense (vapor becomes liquid)) : 1 meaning(s), 2 sentences
 - `yt-c15-077` : เสียหลัก (to lose one's balance (physically), to lose control, to lose one's stability (emotionally)) : 1 meaning(s), 2 sentences
 - `yt-c15-078` : ฝนลงเม็ด (to rain in drops (literary)) : 1 meaning(s), 2 sentences
+- `yt-c15-079` : หย่านม (to wean a baby, to stop breastfeeding) : 1 meaning(s), 2 sentences
 - `yt-c15-080` : เกา (to scratch (one's back, one's head, when it itches)) : 1 meaning(s), 2 sentences
 - `yt-c15-081` : ซัด (to throw, to hurl something forcefully) : 1 meaning(s), 2 sentences
+- `yt-c15-082` : นางเงือก (mermaid) : 1 meaning(s), 2 sentences
 - `yt-c15-083` : โพสต์ท่า (to pose (for a photo, on stage, etc)) : 1 meaning(s), 2 sentences
 - `yt-c15-085` : ควง (to spin, to twirl, to rotate) : 1 meaning(s), 2 sentences
 - `yt-c15-086` : บ้วน (to rinse and spit, to spit out) : 1 meaning(s), 2 sentences
