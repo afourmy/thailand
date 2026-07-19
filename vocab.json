@@ -270417,35 +270417,130 @@
     "thai": "ความในใจ",
     "english": "inner thoughts, true feelings",
     "frequency": "occasional",
-    "sources": []
+    "sources": [],
+    "examples": [
+      {
+        "meaning": "inner thoughts, true feelings",
+        "sentences": [
+          {
+            "thai": "เธอระบายความในใจให้เพื่อนสนิทฟัง",
+            "en": "She poured out her true feelings to her close friend.",
+            "audio_src": "เธอระบายความในใจให้เพื่อนสนิทฟัง",
+            "audio_en_src": "She poured out her true feelings to her close friend."
+          },
+          {
+            "thai": "เขาเก็บความในใจไว้ไม่กล้าบอกใคร",
+            "en": "He kept his true feelings inside, not daring to tell anyone.",
+            "audio_src": "เขาเก็บความในใจไว้ไม่กล้าบอกใคร",
+            "audio_en_src": "He kept his true feelings inside, not daring to tell anyone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "parked-003",
     "thai": "เท่าไหร่ก็ไม่",
     "english": "no matter how much...",
     "frequency": "occasional",
-    "sources": []
+    "sources": [],
+    "examples": [
+      {
+        "meaning": "no matter how much...",
+        "sentences": [
+          {
+            "thai": "ง้อเท่าไหร่ก็ไม่ยอมคืนดี",
+            "en": "No matter how much he apologized, she wouldn't make up.",
+            "audio_src": "ง้อเท่าไหร่ก็ไม่ยอมคืนดี",
+            "audio_en_src": "No matter how much he apologized, she wouldn't make up."
+          },
+          {
+            "thai": "อธิบายเท่าไหร่ก็ไม่เข้าใจสักที",
+            "en": "No matter how much I explain, he just doesn't get it.",
+            "audio_src": "อธิบายเท่าไหร่ก็ไม่เข้าใจสักที",
+            "audio_en_src": "No matter how much I explain, he just doesn't get it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "parked-004",
     "thai": "เครื่องไม้เครื่องมือ",
     "english": "tools and equipment, gear, resources needed",
     "frequency": "occasional",
-    "sources": []
+    "sources": [],
+    "examples": [
+      {
+        "meaning": "tools and equipment, gear, resources needed",
+        "sentences": [
+          {
+            "thai": "ช่างเตรียมเครื่องไม้เครื่องมือให้พร้อมก่อนซ่อม",
+            "en": "The technician got his tools ready before the repair.",
+            "audio_src": "ช่างเตรียมเครื่องไม้เครื่องมือให้พร้อมก่อนซ่อม",
+            "audio_en_src": "The technician got his tools ready before the repair."
+          },
+          {
+            "thai": "ทำอาหารต้องมีเครื่องไม้เครื่องมือครบ",
+            "en": "Cooking requires having all the right equipment.",
+            "audio_src": "ทำอาหารต้องมีเครื่องไม้เครื่องมือครบ",
+            "audio_en_src": "Cooking requires having all the right equipment."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "parked-005",
     "thai": "น้ำนิ่งไหลลึก",
     "english": "(idiom) still waters run deep (a quiet person may have deep thoughts)",
     "frequency": "occasional",
-    "sources": []
+    "sources": [],
+    "examples": [
+      {
+        "meaning": "(idiom) still waters run deep (a quiet person may have deep thoughts)",
+        "sentences": [
+          {
+            "thai": "เขาพูดน้อยแต่ฉลาดมาก แบบว่าน้ำนิ่งไหลลึก",
+            "en": "He's quiet but very clever, still waters run deep.",
+            "audio_src": "เขาพูดน้อยแต่ฉลาดมาก แบบว่าน้ำนิ่งไหลลึก",
+            "audio_en_src": "He's quiet but very clever, still waters run deep."
+          },
+          {
+            "thai": "อย่าประมาทคนเงียบๆ น้ำนิ่งไหลลึกนะ",
+            "en": "Don't underestimate quiet people, still waters run deep.",
+            "audio_src": "อย่าประมาทคนเงียบๆ น้ำนิ่งไหลลึกนะ",
+            "audio_en_src": "Don't underestimate quiet people, still waters run deep."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "parked-006",
     "thai": "ขาดห้วง",
     "english": "interrupted, discontinuous, having gaps",
     "frequency": "occasional",
-    "sources": []
+    "sources": [],
+    "examples": [
+      {
+        "meaning": "interrupted, discontinuous, having gaps",
+        "sentences": [
+          {
+            "thai": "สัญญาณอินเทอร์เน็ตขาดห้วงตลอดทั้งวัน",
+            "en": "The internet signal kept cutting out all day.",
+            "audio_src": "สัญญาณอินเทอร์เน็ตขาดห้วงตลอดทั้งวัน",
+            "audio_en_src": "The internet signal kept cutting out all day."
+          },
+          {
+            "thai": "เขาเล่าเรื่องแบบขาดห้วงจนฟังไม่รู้เรื่อง",
+            "en": "He told the story in a disjointed way, so I couldn't follow it.",
+            "audio_src": "เขาเล่าเรื่องแบบขาดห้วงจนฟังไม่รู้เรื่อง",
+            "audio_en_src": "He told the story in a disjointed way, so I couldn't follow it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "parked-007",
@@ -270540,6 +270635,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "state bus company",
+        "sentences": [
+          {
+            "thai": "เราซื้อตั๋วรถทัวร์ที่สถานีบริษัทขนส่ง",
+            "en": "We bought the coach tickets at the state bus company's station.",
+            "audio_src": "เราซื้อตั๋วรถทัวร์ที่สถานีบริษัทขนส่ง",
+            "audio_en_src": "We bought the coach tickets at the state bus company's station."
+          },
+          {
+            "thai": "บขสเปิดเที่ยวรถพิเศษช่วงเทศกาลสงกรานต์",
+            "en": "The state bus company added special trips during the Songkran holiday.",
+            "audio_src": "บขสเปิดเที่ยวรถพิเศษช่วงเทศกาลสงกรานต์",
+            "audio_en_src": "The state bus company added special trips during the Songkran holiday."
+          }
+        ]
+      }
     ]
   },
   {
@@ -272134,6 +272248,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "sprain (ligament injury from twisting)",
+        "sentences": [
+          {
+            "thai": "เขาเล่นฟุตบอลจนข้อเท้าเคล็ดขัดยอก",
+            "en": "He played football and sprained his ankle.",
+            "audio_src": "เขาเล่นฟุตบอลจนข้อเท้าเคล็ดขัดยอก",
+            "audio_en_src": "He played football and sprained his ankle."
+          },
+          {
+            "thai": "ยานวดนี้ช่วยบรรเทาอาการเคล็ดขัดยอกได้",
+            "en": "This balm helps relieve sprains.",
+            "audio_src": "ยานวดนี้ช่วยบรรเทาอาการเคล็ดขัดยอกได้",
+            "audio_en_src": "This balm helps relieve sprains."
+          }
+        ]
+      }
     ]
   },
   {
@@ -272233,6 +272366,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "foreigner",
+        "sentences": [
+          {
+            "thai": "ชาวต่างประเทศนิยมมาเที่ยวทะเลไทย",
+            "en": "Foreigners love to visit Thailand's beaches.",
+            "audio_src": "ชาวต่างประเทศนิยมมาเที่ยวทะเลไทย",
+            "audio_en_src": "Foreigners love to visit Thailand's beaches."
+          },
+          {
+            "thai": "ร้านนี้มีเมนูภาษาอังกฤษไว้บริการชาวต่างประเทศ",
+            "en": "This restaurant has an English menu to serve foreigners.",
+            "audio_src": "ร้านนี้มีเมนูภาษาอังกฤษไว้บริการชาวต่างประเทศ",
+            "audio_en_src": "This restaurant has an English menu to serve foreigners."
+          }
+        ]
+      }
     ]
   },
   {
@@ -272572,6 +272724,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "highland, plateau",
+        "sentences": [
+          {
+            "thai": "ภาคอีสานส่วนใหญ่เป็นที่ราบสูง",
+            "en": "Most of the northeastern region is a plateau.",
+            "audio_src": "ภาคอีสานส่วนใหญ่เป็นที่ราบสูง",
+            "audio_en_src": "Most of the northeastern region is a plateau."
+          },
+          {
+            "thai": "อากาศบนที่ราบสูงเย็นสบายตลอดปี",
+            "en": "The weather on the highland is cool and pleasant all year.",
+            "audio_src": "อากาศบนที่ราบสูงเย็นสบายตลอดปี",
+            "audio_en_src": "The weather on the highland is cool and pleasant all year."
+          }
+        ]
+      }
     ]
   },
   {
@@ -272671,6 +272842,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "artificial sweetener",
+        "sentences": [
+          {
+            "thai": "คนเป็นเบาหวานมักใช้น้ำตาลเทียมแทนน้ำตาล",
+            "en": "Diabetics often use artificial sweetener instead of sugar.",
+            "audio_src": "คนเป็นเบาหวานมักใช้น้ำตาลเทียมแทนน้ำตาล",
+            "audio_en_src": "Diabetics often use artificial sweetener instead of sugar."
+          },
+          {
+            "thai": "น้ำอัดลมสูตรไม่มีน้ำตาลใช้น้ำตาลเทียมแทน",
+            "en": "Sugar-free soda uses artificial sweetener instead.",
+            "audio_src": "น้ำอัดลมสูตรไม่มีน้ำตาลใช้น้ำตาลเทียมแทน",
+            "audio_en_src": "Sugar-free soda uses artificial sweetener instead."
+          }
+        ]
+      }
     ]
   },
   {

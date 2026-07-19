@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8973 words**
+**Total: 8983 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8855,9 +8855,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c11-133` : กองกำลัง (armed forces) : 1 meaning(s), 2 sentences
 - `t4k-c11-134` : สปา (spa) : 1 meaning(s), 2 sentences
 - `parked-001` : เทกระจาด (to dump out in bulk, to spill everything out, to overturn a container and scatter the contents) : 1 meaning(s), 2 sentences
+- `parked-002` : ความในใจ (inner thoughts, true feelings) : 1 meaning(s), 2 sentences
+- `parked-003` : เท่าไหร่ก็ไม่ (no matter how much...) : 1 meaning(s), 2 sentences
+- `parked-004` : เครื่องไม้เครื่องมือ (tools and equipment, gear, resources needed) : 1 meaning(s), 2 sentences
+- `parked-005` : น้ำนิ่งไหลลึก ((idiom) still waters run deep (a quiet person may have deep thoughts)) : 1 meaning(s), 2 sentences
+- `parked-006` : ขาดห้วง (interrupted, discontinuous, having gaps) : 1 meaning(s), 2 sentences
 - `parked-007` : ขอแสดงความนับถือ (best regards, yours sincerely) : 1 meaning(s), 2 sentences
 - `new-1` : ยาปฏิชีวนะ (antibiotics) : 1 meaning(s), 2 sentences
 - `new-2` : จูน (to fine-tune, to adjust, to calibrate (loanword, from "tune")) : 1 meaning(s), 2 sentences
+- `exd-001` : บริษัทขนส่ง (บ.ข.ส.) (state bus company) : 1 meaning(s), 2 sentences
 - `exd-002` : ที่ (at; that, which; times, occasions) : 3 meaning(s), 6 sentences
 - `exd-003` : ได้ (can, to be able; to get, to obtain) : 2 meaning(s), 4 sentences
 - `exd-004` : หรือ (or) : 1 meaning(s), 2 sentences
@@ -8908,9 +8914,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-049` : ครึ่งชั่วโมง (half an hour) : 1 meaning(s), 2 sentences
 - `exd-050` : ความปลอดภัย (safety, security) : 1 meaning(s), 2 sentences
 - `exd-051` : ค่าปรับ (fine (for breaking the law)) : 1 meaning(s), 2 sentences
+- `exd-052` : เคล็ดขัดยอก (sprain (ligament injury from twisting)) : 1 meaning(s), 2 sentences
 - `exd-053` : โคมไฟ (lamp, lantern) : 1 meaning(s), 2 sentences
 - `exd-054` : ใจแคบ (narrow-minded, selfish) : 1 meaning(s), 2 sentences
 - `exd-055` : ชอบใจ (to be pleased, to find pleasing) : 1 meaning(s), 2 sentences
+- `exd-056` : ชาวต่างประเทศ (foreigner) : 1 meaning(s), 2 sentences
 - `exd-057` : ชุดสากล (western-style suit (formal attire)) : 1 meaning(s), 2 sentences
 - `exd-058` : ด้วยความยินดี (with pleasure, you're welcome) : 1 meaning(s), 2 sentences
 - `exd-059` : ตลาดน้ำ (floating market) : 1 meaning(s), 2 sentences
@@ -8922,9 +8930,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-065` : ท่ารถ (bus station) : 1 meaning(s), 2 sentences
 - `exd-066` : ทำเวลา (to make up for lost time, to hurry up) : 1 meaning(s), 2 sentences
 - `exd-067` : ทำอาหาร (to cook) : 1 meaning(s), 2 sentences
+- `exd-068` : ที่ราบสูง (highland, plateau) : 1 meaning(s), 2 sentences
 - `exd-069` : ที่อื่น (elsewhere, somewhere else) : 1 meaning(s), 2 sentences
 - `exd-070` : เที่ยงครึ่ง (12:30 p.m. (half past noon)) : 1 meaning(s), 2 sentences
 - `exd-071` : นั่งรถ (to travel by car, to go by car) : 1 meaning(s), 2 sentences
+- `exd-072` : น้ำตาลเทียม (artificial sweetener) : 1 meaning(s), 2 sentences
 - `exd-074` : แบ่งออกเป็น (to be divided into, to be categorized into) : 1 meaning(s), 2 sentences
 - `exd-075` : ปรับอากาศ (air-conditioned) : 1 meaning(s), 2 sentences
 - `exd-076` : ปวดฉี่ (to need to urinate, to need to pee) : 1 meaning(s), 2 sentences
