@@ -267447,6 +267447,42 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to block, to intercept, to stop",
+        "sentences": [
+          {
+            "thai": "ตำรวจตั้งด่านสกัดรถที่หลบหนี",
+            "en": "The police set up a checkpoint to intercept the fleeing car.",
+            "audio_src": "ตำรวจตั้งด่านสกัดรถที่หลบหนี",
+            "audio_en_src": "The police set up a checkpoint to intercept the fleeing car."
+          },
+          {
+            "thai": "ทหารสกัดกั้นไม่ให้ข้าศึกข้ามพรมแดน",
+            "en": "The soldiers blocked the enemy from crossing the border.",
+            "audio_src": "ทหารสกัดกั้นไม่ให้ข้าศึกข้ามพรมแดน",
+            "audio_en_src": "The soldiers blocked the enemy from crossing the border."
+          }
+        ]
+      },
+      {
+        "meaning": "to extract, to isolate a substance",
+        "sentences": [
+          {
+            "thai": "โรงงานสกัดน้ำมันจากเมล็ดทานตะวัน",
+            "en": "The factory extracts oil from sunflower seeds.",
+            "audio_src": "โรงงานสกัดน้ำมันจากเมล็ดทานตะวัน",
+            "audio_en_src": "The factory extracts oil from sunflower seeds."
+          },
+          {
+            "thai": "นักวิทยาศาสตร์สกัดสารสำคัญจากสมุนไพร",
+            "en": "Scientists extract the active compound from the herb.",
+            "audio_src": "นักวิทยาศาสตร์สกัดสารสำคัญจากสมุนไพร",
+            "audio_en_src": "Scientists extract the active compound from the herb."
+          }
+        ]
+      }
     ]
   },
   {
@@ -267535,6 +267571,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to integrate, to combine into a unified whole",
+        "sentences": [
+          {
+            "thai": "โรงเรียนบูรณาการหลายวิชาเข้าด้วยกัน",
+            "en": "The school integrates several subjects together.",
+            "audio_src": "โรงเรียนบูรณาการหลายวิชาเข้าด้วยกัน",
+            "audio_en_src": "The school integrates several subjects together."
+          },
+          {
+            "thai": "เราต้องบูรณาการเทคโนโลยีเข้ากับการทำงาน",
+            "en": "We have to integrate technology into our work.",
+            "audio_src": "เราต้องบูรณาการเทคโนโลยีเข้ากับการทำงาน",
+            "audio_en_src": "We have to integrate technology into our work."
+          }
+        ]
+      }
     ]
   },
   {
@@ -267602,6 +267657,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to inspect, to observe work practices (of a workplace, an organization)",
+        "sentences": [
+          {
+            "thai": "คณะครูไปดูงานที่โรงเรียนต้นแบบ",
+            "en": "The teachers went to observe practices at a model school.",
+            "audio_src": "คณะครูไปดูงานที่โรงเรียนต้นแบบ",
+            "audio_en_src": "The teachers went to observe practices at a model school."
+          },
+          {
+            "thai": "บริษัทส่งพนักงานไปดูงานที่ต่างประเทศ",
+            "en": "The company sent employees to observe operations abroad.",
+            "audio_src": "บริษัทส่งพนักงานไปดูงานที่ต่างประเทศ",
+            "audio_en_src": "The company sent employees to observe operations abroad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -267753,6 +267827,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "silk",
+        "sentences": [
+          {
+            "thai": "เธอสวมเสื้อผ้าแพรเนื้อนุ่มลื่น",
+            "en": "She wore a soft, smooth silk blouse.",
+            "audio_src": "เธอสวมเสื้อผ้าแพรเนื้อนุ่มลื่น",
+            "audio_en_src": "She wore a soft, smooth silk blouse."
+          },
+          {
+            "thai": "ผ้าแพรจีนมีลวดลายสวยงาม",
+            "en": "Chinese silk has beautiful patterns.",
+            "audio_src": "ผ้าแพรจีนมีลวดลายสวยงาม",
+            "audio_en_src": "Chinese silk has beautiful patterns."
+          }
+        ]
+      }
     ]
   },
   {
@@ -267839,6 +267932,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "simulation, model",
+        "sentences": [
+          {
+            "thai": "นักเรียนสร้างแบบจำลองระบบสุริยะ",
+            "en": "The students built a model of the solar system.",
+            "audio_src": "นักเรียนสร้างแบบจำลองระบบสุริยะ",
+            "audio_en_src": "The students built a model of the solar system."
+          },
+          {
+            "thai": "วิศวกรทดสอบสะพานด้วยแบบจำลองคอมพิวเตอร์",
+            "en": "The engineers tested the bridge with a computer simulation.",
+            "audio_src": "วิศวกรทดสอบสะพานด้วยแบบจำลองคอมพิวเตอร์",
+            "audio_en_src": "The engineers tested the bridge with a computer simulation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -268095,6 +268207,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to mend, to patch (e.g cloth, fabric, shoes)",
+        "sentences": [
+          {
+            "thai": "ยายนั่งชุนถุงเท้าที่เป็นรู",
+            "en": "Grandma sat mending the holey socks.",
+            "audio_src": "ยายนั่งชุนถุงเท้าที่เป็นรู",
+            "audio_en_src": "Grandma sat mending the holey socks."
+          },
+          {
+            "thai": "เขาเอากางเกงขาดไปให้ช่างชุน",
+            "en": "He took his torn pants to be patched up.",
+            "audio_src": "เขาเอากางเกงขาดไปให้ช่างชุน",
+            "audio_en_src": "He took his torn pants to be patched up."
+          }
+        ]
+      }
     ]
   },
   {
@@ -268218,6 +268349,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to hand over, to deliver, to transfer",
+        "sentences": [
+          {
+            "thai": "ผู้รับเหมาส่งมอบบ้านให้เจ้าของตามกำหนด",
+            "en": "The contractor handed over the house to the owner on schedule.",
+            "audio_src": "ผู้รับเหมาส่งมอบบ้านให้เจ้าของตามกำหนด",
+            "audio_en_src": "The contractor handed over the house to the owner on schedule."
+          },
+          {
+            "thai": "ทหารส่งมอบพื้นที่คืนให้ประชาชน",
+            "en": "The soldiers handed the area back to the people.",
+            "audio_src": "ทหารส่งมอบพื้นที่คืนให้ประชาชน",
+            "audio_en_src": "The soldiers handed the area back to the people."
+          }
+        ]
+      }
     ]
   },
   {
@@ -268272,6 +268422,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to keep in good condition, to preserve",
+        "sentences": [
+          {
+            "thai": "ควรเก็บรักษายาไว้ในที่เย็นและแห้ง",
+            "en": "Medicine should be kept in a cool, dry place.",
+            "audio_src": "ควรเก็บรักษายาไว้ในที่เย็นและแห้ง",
+            "audio_en_src": "Medicine should be kept in a cool, dry place."
+          },
+          {
+            "thai": "พิพิธภัณฑ์เก็บรักษาโบราณวัตถุไว้อย่างดี",
+            "en": "The museum preserves the antiques well.",
+            "audio_src": "พิพิธภัณฑ์เก็บรักษาโบราณวัตถุไว้อย่างดี",
+            "audio_en_src": "The museum preserves the antiques well."
+          }
+        ]
+      }
     ]
   },
   {
@@ -268395,6 +268564,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to coincide (formal)",
+        "sentences": [
+          {
+            "thai": "วันหยุดประจวบกับวันเกิดของเขาพอดี",
+            "en": "The holiday coincided exactly with his birthday.",
+            "audio_src": "วันหยุดประจวบกับวันเกิดของเขาพอดี",
+            "audio_en_src": "The holiday coincided exactly with his birthday."
+          },
+          {
+            "thai": "เหตุการณ์ประจวบเหมาะทำให้เขารอดมาได้",
+            "en": "A fortunate coincidence let him survive.",
+            "audio_src": "เหตุการณ์ประจวบเหมาะทำให้เขารอดมาได้",
+            "audio_en_src": "A fortunate coincidence let him survive."
+          }
+        ]
+      }
     ]
   },
   {
@@ -268743,6 +268931,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "carefully, meticulously, to do something with great attention to detail (formal, literary)",
+        "sentences": [
+          {
+            "thai": "เธอบรรจงเขียนตัวอักษรทีละตัวอย่างสวยงาม",
+            "en": "She carefully wrote each letter beautifully, one by one.",
+            "audio_src": "เธอบรรจงเขียนตัวอักษรทีละตัวอย่างสวยงาม",
+            "audio_en_src": "She carefully wrote each letter beautifully, one by one."
+          },
+          {
+            "thai": "แม่ครัวบรรจงตกแต่งจานอาหารอย่างประณีต",
+            "en": "The chef meticulously decorated the dish.",
+            "audio_src": "แม่ครัวบรรจงตกแต่งจานอาหารอย่างประณีต",
+            "audio_en_src": "The chef meticulously decorated the dish."
+          }
+        ]
+      }
     ]
   },
   {
