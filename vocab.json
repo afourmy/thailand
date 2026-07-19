@@ -272870,6 +272870,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "mineral water",
+        "sentences": [
+          {
+            "thai": "เขาชอบดื่มน้ำแร่มากกว่าน้ำเปล่าธรรมดา",
+            "en": "He prefers mineral water over plain water.",
+            "audio_src": "เขาชอบดื่มน้ำแร่มากกว่าน้ำเปล่าธรรมดา",
+            "audio_en_src": "He prefers mineral water over plain water."
+          },
+          {
+            "thai": "ร้านอาหารหรูเสิร์ฟน้ำแร่ให้ลูกค้า",
+            "en": "The fancy restaurant serves mineral water to its customers.",
+            "audio_src": "ร้านอาหารหรูเสิร์ฟน้ำแร่ให้ลูกค้า",
+            "audio_en_src": "The fancy restaurant serves mineral water to its customers."
+          }
+        ]
+      }
     ]
   },
   {
@@ -273329,6 +273348,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "previously, in the past",
+        "sentences": [
+          {
+            "thai": "เมื่อก่อนนี้แถวนี้เคยเป็นทุ่งนา",
+            "en": "This area used to be rice fields in the past.",
+            "audio_src": "เมื่อก่อนนี้แถวนี้เคยเป็นทุ่งนา",
+            "audio_en_src": "This area used to be rice fields in the past."
+          },
+          {
+            "thai": "เมื่อก่อนนี้เขาผอมกว่านี้มาก",
+            "en": "He used to be much thinner than this.",
+            "audio_src": "เมื่อก่อนนี้เขาผอมกว่านี้มาก",
+            "audio_en_src": "He used to be much thinner than this."
+          }
+        ]
+      }
     ]
   },
   {
@@ -273488,6 +273526,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "anti-inflammatory medicine",
+        "sentences": [
+          {
+            "thai": "หมอสั่งยาแก้อักเสบให้กินหลังอาหาร",
+            "en": "The doctor prescribed anti-inflammatory medicine to take after meals.",
+            "audio_src": "หมอสั่งยาแก้อักเสบให้กินหลังอาหาร",
+            "audio_en_src": "The doctor prescribed anti-inflammatory medicine to take after meals."
+          },
+          {
+            "thai": "เขากินยาแก้อักเสบเพราะแผลติดเชื้อ",
+            "en": "He took anti-inflammatory medicine because the wound got infected.",
+            "audio_src": "เขากินยาแก้อักเสบเพราะแผลติดเชื้อ",
+            "audio_en_src": "He took anti-inflammatory medicine because the wound got infected."
+          }
+        ]
+      }
     ]
   },
   {
@@ -273677,6 +273734,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "nosebleed",
+        "sentences": [
+          {
+            "thai": "อากาศแห้งทำให้เด็กเลือดกำเดาไหลบ่อย",
+            "en": "The dry air makes the child's nose bleed often.",
+            "audio_src": "อากาศแห้งทำให้เด็กเลือดกำเดาไหลบ่อย",
+            "audio_en_src": "The dry air makes the child's nose bleed often."
+          },
+          {
+            "thai": "เขาใช้ทิชชูอุดจมูกเพื่อห้ามเลือดกำเดา",
+            "en": "He plugged his nose with tissue to stop the nosebleed.",
+            "audio_src": "เขาใช้ทิชชูอุดจมูกเพื่อห้ามเลือดกำเดา",
+            "audio_en_src": "He plugged his nose with tissue to stop the nosebleed."
+          }
+        ]
+      }
     ]
   },
   {
@@ -273776,6 +273852,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "25 satangs (quarter of a baht)",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนขนมชิ้นละสลึงก็ยังมี",
+            "en": "In the old days there were even snacks for a quarter baht each.",
+            "audio_src": "สมัยก่อนขนมชิ้นละสลึงก็ยังมี",
+            "audio_en_src": "In the old days there were even snacks for a quarter baht each."
+          },
+          {
+            "thai": "เหลือเงินติดตัวแค่ไม่กี่สลึง",
+            "en": "He had only a few coins left to his name.",
+            "audio_src": "เหลือเงินติดตัวแค่ไม่กี่สลึง",
+            "audio_en_src": "He had only a few coins left to his name."
+          }
+        ]
+      }
     ]
   },
   {
@@ -273785,6 +273880,25 @@
     "frequency": "occasional",
     "sources": [
       "manual"
+    ],
+    "examples": [
+      {
+        "meaning": "clerk, office worker",
+        "sentences": [
+          {
+            "thai": "เธอทำงานเป็นเสมียนในบริษัทเล็กๆ",
+            "en": "She works as a clerk in a small company.",
+            "audio_src": "เธอทำงานเป็นเสมียนในบริษัทเล็กๆ",
+            "audio_en_src": "She works as a clerk in a small company."
+          },
+          {
+            "thai": "เสมียนบันทึกข้อมูลลูกค้าลงในระบบ",
+            "en": "The clerk records customer information into the system.",
+            "audio_src": "เสมียนบันทึกข้อมูลลูกค้าลงในระบบ",
+            "audio_en_src": "The clerk records customer information into the system."
+          }
+        ]
+      }
     ]
   },
   {
@@ -274089,6 +274203,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Second Buddhist precept",
+        "sentences": [
+          {
+            "thai": "ศีลข้อที่สองสอนว่าไม่ให้ลักทรัพย์ของผู้อื่น",
+            "en": "The second precept teaches not to steal others' property.",
+            "audio_src": "ศีลข้อที่สองสอนว่าไม่ให้ลักทรัพย์ของผู้อื่น",
+            "audio_en_src": "The second precept teaches not to steal others' property."
+          },
+          {
+            "thai": "เขาถือศีลข้อไม่ลักทรัพย์อย่างเคร่งครัด",
+            "en": "He strictly observes the precept against stealing.",
+            "audio_src": "เขาถือศีลข้อไม่ลักทรัพย์อย่างเคร่งครัด",
+            "audio_en_src": "He strictly observes the precept against stealing."
+          }
+        ]
+      }
     ]
   },
   {
@@ -274098,6 +274231,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Third Buddhist precept",
+        "sentences": [
+          {
+            "thai": "ศีลข้อที่สามคือการไม่ประพฤติผิดในกาม",
+            "en": "The third precept is to refrain from sexual misconduct.",
+            "audio_src": "ศีลข้อที่สามคือการไม่ประพฤติผิดในกาม",
+            "audio_en_src": "The third precept is to refrain from sexual misconduct."
+          },
+          {
+            "thai": "การเป็นชู้ถือว่าผิดศีลข้อที่สาม",
+            "en": "Adultery is considered a violation of the third precept.",
+            "audio_src": "การเป็นชู้ถือว่าผิดศีลข้อที่สาม",
+            "audio_en_src": "Adultery is considered a violation of the third precept."
+          }
+        ]
+      }
     ]
   },
   {
@@ -274107,6 +274259,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Fourth Buddhist precept",
+        "sentences": [
+          {
+            "thai": "ศีลข้อที่สี่สอนให้ไม่พูดเท็จหลอกลวงผู้อื่น",
+            "en": "The fourth precept teaches not to lie or deceive others.",
+            "audio_src": "ศีลข้อที่สี่สอนให้ไม่พูดเท็จหลอกลวงผู้อื่น",
+            "audio_en_src": "The fourth precept teaches not to lie or deceive others."
+          },
+          {
+            "thai": "การโกหกทุกวันคือการผิดศีลข้อที่สี่",
+            "en": "Lying every day breaks the fourth precept.",
+            "audio_src": "การโกหกทุกวันคือการผิดศีลข้อที่สี่",
+            "audio_en_src": "Lying every day breaks the fourth precept."
+          }
+        ]
+      }
     ]
   },
   {
@@ -274116,6 +274287,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Fifth Buddhist precept",
+        "sentences": [
+          {
+            "thai": "ศีลข้อที่ห้าห้ามดื่มสุราและของมึนเมา",
+            "en": "The fifth precept forbids drinking alcohol and intoxicants.",
+            "audio_src": "ศีลข้อที่ห้าห้ามดื่มสุราและของมึนเมา",
+            "audio_en_src": "The fifth precept forbids drinking alcohol and intoxicants."
+          },
+          {
+            "thai": "วันพระเขางดเหล้าเพื่อรักษาศีลข้อที่ห้า",
+            "en": "On Buddhist holy days he abstains from alcohol to keep the fifth precept.",
+            "audio_src": "วันพระเขางดเหล้าเพื่อรักษาศีลข้อที่ห้า",
+            "audio_en_src": "On Buddhist holy days he abstains from alcohol to keep the fifth precept."
+          }
+        ]
+      }
     ]
   },
   {

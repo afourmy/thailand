@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8983 words**
+**Total: 8993 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8935,6 +8935,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-070` : เที่ยงครึ่ง (12:30 p.m. (half past noon)) : 1 meaning(s), 2 sentences
 - `exd-071` : นั่งรถ (to travel by car, to go by car) : 1 meaning(s), 2 sentences
 - `exd-072` : น้ำตาลเทียม (artificial sweetener) : 1 meaning(s), 2 sentences
+- `exd-073` : น้ำแร่ (mineral water) : 1 meaning(s), 2 sentences
 - `exd-074` : แบ่งออกเป็น (to be divided into, to be categorized into) : 1 meaning(s), 2 sentences
 - `exd-075` : ปรับอากาศ (air-conditioned) : 1 meaning(s), 2 sentences
 - `exd-076` : ปวดฉี่ (to need to urinate, to need to pee) : 1 meaning(s), 2 sentences
@@ -8950,20 +8951,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `exd-086` : มีประโยชน์ (useful) : 1 meaning(s), 2 sentences
 - `exd-087` : เมารถ (carsick) : 1 meaning(s), 2 sentences
 - `exd-088` : เมาเรือ (seasick) : 1 meaning(s), 2 sentences
+- `exd-089` : เมื่อก่อนนี้ (previously, in the past) : 1 meaning(s), 2 sentences
 - `exd-090` : เมื่อเร็วๆนี้ (recently, not long ago) : 1 meaning(s), 2 sentences
 - `exd-091` : เมื่อไหร่ก็ได้ (anytime) : 1 meaning(s), 2 sentences
 - `exd-092` : แมลงกัดต่อย (insect bite) : 1 meaning(s), 2 sentences
 - `exd-093` : ไมเกรน (migraine (loanword)) : 1 meaning(s), 2 sentences
 - `exd-094` : ยาแก้ปวด (painkiller) : 1 meaning(s), 2 sentences
+- `exd-095` : ยาแก้อักเสบ (anti-inflammatory medicine) : 1 meaning(s), 2 sentences
 - `exd-096` : รถเช่า (car rental) : 1 meaning(s), 2 sentences
 - `exd-097` : ฤดูแล้ง, หน้าแล้ง (dry season (November - April)) : 1 meaning(s), 2 sentences
 - `exd-098` : ลิฟต์ (elevator) : 1 meaning(s), 2 sentences
 - `exd-099` : ลืมสนิท (to completely forget) : 1 meaning(s), 2 sentences
 - `exd-100` : ลูกเลี้ยง (stepchild) : 1 meaning(s), 2 sentences
 - `exd-101` : เลี่ยน (too sweet, too oily, too greasy (used for food or figuratively)) : 1 meaning(s), 2 sentences
+- `exd-102` : เลือดกำเดา (nosebleed) : 1 meaning(s), 2 sentences
 - `exd-103` : สถานีขนส่ง (bus station, passenger terminal) : 1 meaning(s), 2 sentences
 - `exd-104` : สถานีรถไฟใต้ดิน (subway station) : 1 meaning(s), 2 sentences
 - `exd-105` : สถานีรถไฟฟ้า (Skytrain station) : 1 meaning(s), 2 sentences
+- `exd-106` : สลึง (25 satangs (quarter of a baht)) : 1 meaning(s), 2 sentences
+- `exd-107` : เสมียน (clerk, office worker) : 1 meaning(s), 2 sentences
 - `exd-108` : เสียเวลา (to waste time) : 1 meaning(s), 2 sentences
 - `exd-109` : อ่านออกเขียนได้ (to be able to read and write, to be literate) : 1 meaning(s), 2 sentences
 - `exd-110` : อาบแดด (to sunbathe) : 1 meaning(s), 2 sentences
@@ -8974,6 +8980,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `manual-003` : ขี้ระแวง (paranoid, suspicious by nature) : 1 meaning(s), 2 sentences
 - `manual-004` : ขี้หลี (flirtatious, womanizer) : 1 meaning(s), 2 sentences
 - `manual-005` : มงคล (auspicious) : 1 meaning(s), 2 sentences
+- `manual-006` : ศีลข้อที่ ๒: ไม่ลักทรัพย์ (Second Buddhist precept) : 1 meaning(s), 2 sentences
+- `manual-007` : ศีลข้อที่ ๓: ไม่ประพฤติผิดในกาม (Third Buddhist precept) : 1 meaning(s), 2 sentences
+- `manual-008` : ศีลข้อที่ ๔: ไม่พูดเท็จ (Fourth Buddhist precept) : 1 meaning(s), 2 sentences
+- `manual-009` : ศีลข้อที่ ๕: ไม่ดื่มสุราเมรัย (Fifth Buddhist precept) : 1 meaning(s), 2 sentences
 - `new-16` : ลูกสะใภ้ (daughter-in-law, wife of son) : 1 meaning(s), 2 sentences
 - `new-17` : ลูกเขย (son-in-law, husband of daughter) : 1 meaning(s), 2 sentences
 - `new-18` : เจ้าสาว (bride) : 1 meaning(s), 2 sentences
