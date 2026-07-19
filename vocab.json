@@ -199343,6 +199343,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to actively exclude, to discriminate against",
+        "sentences": [
+          {
+            "thai": "สังคมไม่ควรกีดกันคนพิการจากการทำงาน",
+            "en": "Society shouldn't exclude disabled people from employment.",
+            "audio_src": "สังคมไม่ควรกีดกันคนพิการจากการทำงาน",
+            "audio_en_src": "Society shouldn't exclude disabled people from employment."
+          },
+          {
+            "thai": "เขาถูกกีดกันออกจากกลุ่มเพราะความคิดต่าง",
+            "en": "He was shut out of the group for thinking differently.",
+            "audio_src": "เขาถูกกีดกันออกจากกลุ่มเพราะความคิดต่าง",
+            "audio_en_src": "He was shut out of the group for thinking differently."
+          }
+        ]
+      }
     ]
   },
   {
@@ -199382,6 +199401,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to press someone with hard questions, to interrogate, to demand answers",
+        "sentences": [
+          {
+            "thai": "ตำรวจคาดคั้นผู้ต้องสงสัยจนยอมรับสารภาพ",
+            "en": "The police pressed the suspect until he confessed.",
+            "audio_src": "ตำรวจคาดคั้นผู้ต้องสงสัยจนยอมรับสารภาพ",
+            "audio_en_src": "The police pressed the suspect until he confessed."
+          },
+          {
+            "thai": "แม่คาดคั้นลูกว่าไปไหนมาทั้งคืน",
+            "en": "Mom demanded to know where her kid had been all night.",
+            "audio_src": "แม่คาดคั้นลูกว่าไปไหนมาทั้งคืน",
+            "audio_en_src": "Mom demanded to know where her kid had been all night."
+          }
+        ]
+      }
     ]
   },
   {
@@ -201057,6 +201095,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "non-refundable, upfront lump-sum payment made to secure a deal or a privilege",
+        "sentences": [
+          {
+            "thai": "เจ้าของตึกเรียกเก็บเงินกินเปล่าก่อนให้เช่าร้าน",
+            "en": "The building owner charged key money before renting out the shop.",
+            "audio_src": "เจ้าของตึกเรียกเก็บเงินกินเปล่าก่อนให้เช่าร้าน",
+            "audio_en_src": "The building owner charged key money before renting out the shop."
+          },
+          {
+            "thai": "เขาต้องจ่ายเงินกินเปล่าเพื่อให้ได้ทำเลดีๆ",
+            "en": "He had to pay an upfront non-refundable fee to secure a prime location.",
+            "audio_src": "เขาต้องจ่ายเงินกินเปล่าเพื่อให้ได้ทำเลดีๆ",
+            "audio_en_src": "He had to pay an upfront non-refundable fee to secure a prime location."
+          }
+        ]
+      }
     ]
   },
   {
@@ -202381,6 +202438,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "police box",
+        "sentences": [
+          {
+            "thai": "ถ้าหลงทางให้ไปถามที่ตู้ยามตำรวจ",
+            "en": "If you get lost, go ask at the police box.",
+            "audio_src": "ถ้าหลงทางให้ไปถามที่ตู้ยามตำรวจ",
+            "audio_en_src": "If you get lost, go ask at the police box."
+          },
+          {
+            "thai": "มีตู้ยามตำรวจตั้งอยู่หัวมุมถนน",
+            "en": "There's a police box on the street corner.",
+            "audio_src": "มีตู้ยามตำรวจตั้งอยู่หัวมุมถนน",
+            "audio_en_src": "There's a police box on the street corner."
+          }
+        ]
+      }
     ]
   },
   {
@@ -204849,6 +204925,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "godfather",
+        "sentences": [
+          {
+            "thai": "เขารับเป็นพ่อทูนหัวให้ลูกของเพื่อนสนิท",
+            "en": "He agreed to be godfather to his close friend's child.",
+            "audio_src": "เขารับเป็นพ่อทูนหัวให้ลูกของเพื่อนสนิท",
+            "audio_en_src": "He agreed to be godfather to his close friend's child."
+          },
+          {
+            "thai": "ทุกคนในวงการเรียกเขาว่าพ่อทูนหัว",
+            "en": "Everyone in the business calls him the godfather.",
+            "audio_src": "ทุกคนในวงการเรียกเขาว่าพ่อทูนหัว",
+            "audio_en_src": "Everyone in the business calls him the godfather."
+          }
+        ]
+      }
     ]
   },
   {
@@ -206552,6 +206647,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "glass, lens",
+        "sentences": [
+          {
+            "thai": "เขาใส่แว่นเพราะสายตาสั้น",
+            "en": "He wears glasses because he's nearsighted.",
+            "audio_src": "เขาใส่แว่นเพราะสายตาสั้น",
+            "audio_en_src": "He wears glasses because he's nearsighted."
+          },
+          {
+            "thai": "ใช้แว่นขยายส่องดูตัวหนังสือเล็กๆ",
+            "en": "Use a magnifying lens to look at the tiny letters.",
+            "audio_src": "ใช้แว่นขยายส่องดูตัวหนังสือเล็กๆ",
+            "audio_en_src": "Use a magnifying lens to look at the tiny letters."
+          }
+        ]
+      }
     ]
   },
   {
@@ -206622,6 +206736,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "tangerine, mandarin orange (literally \"green sweet orange\")",
+        "sentences": [
+          {
+            "thai": "ส้มเขียวหวานลูกนี้หวานฉ่ำมาก",
+            "en": "This tangerine is really sweet and juicy.",
+            "audio_src": "ส้มเขียวหวานลูกนี้หวานฉ่ำมาก",
+            "audio_en_src": "This tangerine is really sweet and juicy."
+          },
+          {
+            "thai": "แม่ซื้อส้มเขียวหวานมาคั้นน้ำ",
+            "en": "Mom bought tangerines to make juice.",
+            "audio_src": "แม่ซื้อส้มเขียวหวานมาคั้นน้ำ",
+            "audio_en_src": "Mom bought tangerines to make juice."
+          }
+        ]
+      }
     ]
   },
   {
@@ -208713,6 +208846,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "subdistrict headman (chief of the tambon)",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านไปปรึกษากำนันเรื่องที่ดิน",
+            "en": "The villagers went to consult the subdistrict headman about the land.",
+            "audio_src": "ชาวบ้านไปปรึกษากำนันเรื่องที่ดิน",
+            "audio_en_src": "The villagers went to consult the subdistrict headman about the land."
+          },
+          {
+            "thai": "กำนันเรียกประชุมลูกบ้านทุกเดือน",
+            "en": "The headman calls a village meeting every month.",
+            "audio_src": "กำนันเรียกประชุมลูกบ้านทุกเดือน",
+            "audio_en_src": "The headman calls a village meeting every month."
+          }
+        ]
+      }
     ]
   },
   {
@@ -209846,6 +209998,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "desire, wanting, craving",
+        "sentences": [
+          {
+            "thai": "เขาห้ามความอยากกินของหวานไม่ได้",
+            "en": "He couldn't resist his craving for sweets.",
+            "audio_src": "เขาห้ามความอยากกินของหวานไม่ได้",
+            "audio_en_src": "He couldn't resist his craving for sweets."
+          },
+          {
+            "thai": "ความอยากมีชื่อเสียงทำให้เขาทำทุกอย่าง",
+            "en": "The desire for fame drove him to do anything.",
+            "audio_src": "ความอยากมีชื่อเสียงทำให้เขาทำทุกอย่าง",
+            "audio_en_src": "The desire for fame drove him to do anything."
+          }
+        ]
+      }
     ]
   },
   {
@@ -209855,6 +210026,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "desire, lust (formal, religious)",
+        "sentences": [
+          {
+            "thai": "พระพุทธศาสนาสอนให้ละตัณหา",
+            "en": "Buddhism teaches us to let go of desire.",
+            "audio_src": "พระพุทธศาสนาสอนให้ละตัณหา",
+            "audio_en_src": "Buddhism teaches us to let go of desire."
+          },
+          {
+            "thai": "เขาตกเป็นทาสของตัณหาจนลืมตัว",
+            "en": "He became a slave to his lust and lost himself.",
+            "audio_src": "เขาตกเป็นทาสของตัณหาจนลืมตัว",
+            "audio_en_src": "He became a slave to his lust and lost himself."
+          }
+        ]
+      }
     ]
   },
   {

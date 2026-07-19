@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8843 words**
+**Total: 8853 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6569,7 +6569,9 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c23-020` : ไม่...ซะทีเดียว (not completely, not entirely, not exactly) : 1 meaning(s), 2 sentences
 - `yt-c23-021` : ปิดกั้น (to seal off completely, to completely block (physically, or feelings)) : 1 meaning(s), 2 sentences
 - `yt-c23-022` : ขวางทาง (to block the way) : 1 meaning(s), 2 sentences
+- `yt-c23-023` : กีดกัน (to actively exclude, to discriminate against) : 1 meaning(s), 2 sentences
 - `yt-c23-024` : ตีหน้า (to deliberately put on a facial expression, to pretend to feel a certain way) : 1 meaning(s), 2 sentences
+- `yt-c23-025` : คาดคั้น (to press someone with hard questions, to interrogate, to demand answers) : 1 meaning(s), 2 sentences
 - `yt-c23-027` : มาแต่ตัว - ไปแต่ตัว (to come empty-handed - to go empty-handed) : 1 meaning(s), 2 sentences
 - `yt-c23-029` : ชื่นใจ (cheerful, delighted) : 1 meaning(s), 2 sentences
 - `yt-c23-030` : เปิดใจ (open-minded, to open up emotionally, to give something a chance) : 1 meaning(s), 2 sentences
@@ -6627,6 +6629,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c01-065` : ใครก็ได้ (anyone) : 1 meaning(s), 2 sentences
 - `wlt-c01-066` : ใครคนหนึ่ง (someone, a certain person) : 1 meaning(s), 2 sentences
 - `wlt-c01-067` : งูเขียว (green snake) : 1 meaning(s), 2 sentences
+- `wlt-c01-068` : เงินกินเปล่า (non-refundable, upfront lump-sum payment made to secure a deal or a privilege) : 1 meaning(s), 2 sentences
 - `wlt-c01-074` : จำได้ (to remember) : 1 meaning(s), 2 sentences
 - `wlt-c01-075` : เจ็ดสิบ (seventy (70)) : 1 meaning(s), 2 sentences
 - `wlt-c01-076` : เจ้าของบ้าน (landlord) : 1 meaning(s), 2 sentences
@@ -6671,6 +6674,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c02-034` : ตื่น, ตื่นนอน (to wake up) : 1 meaning(s), 2 sentences
 - `wlt-c02-035` : ตุ๊กแก (gecko) : 1 meaning(s), 2 sentences
 - `wlt-c02-036` : ตู้ไปรษณีย์ (letterbox (public, for sending)) : 1 meaning(s), 2 sentences
+- `wlt-c02-037` : ตู้ยามตำรวจ (police box) : 1 meaning(s), 2 sentences
 - `wlt-c02-038` : ตู้หนังสือ (bookcase) : 1 meaning(s), 2 sentences
 - `wlt-c02-040` : เต็มใจ (willing, glad to do something, not reluctant) : 1 meaning(s), 2 sentences
 - `wlt-c02-041` : เตาไฟฟ้า (electric stove) : 1 meaning(s), 2 sentences
@@ -6753,6 +6757,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c03-058` : พร้อมกัน (together, at the same time, altogether) : 1 meaning(s), 2 sentences
 - `wlt-c03-059` : พรุ่งนี้เช้า (tomorrow morning) : 1 meaning(s), 2 sentences
 - `wlt-c03-061` : พอใช้ได้ (good enough, acceptable, passable) : 1 meaning(s), 2 sentences
+- `wlt-c03-062` : พ่อทูนหัว (godfather) : 1 meaning(s), 2 sentences
 - `wlt-c03-063` : พ่อเลี้ยง (stepfather) : 1 meaning(s), 2 sentences
 - `wlt-c03-065` : เพื่อที่จะ (in order to, so as to) : 1 meaning(s), 2 sentences
 - `wlt-c03-066` : เพื่อว่า (so that, in order that) : 1 meaning(s), 2 sentences
@@ -6810,8 +6815,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c04-045b` : ยกเว้น (except, excluding) : 1 meaning(s), 2 sentences
 - `wlt-c04-046` : เวฟ (to microwave) : 1 meaning(s), 2 sentences
 - `wlt-c04-047` : เวลานี้ (at present) : 1 meaning(s), 2 sentences
+- `wlt-c04-048` : แว่น (glass, lens) : 1 meaning(s), 2 sentences
 - `wlt-c04-049` : ไว (fast, quick) : 1 meaning(s), 2 sentences
 - `wlt-c04-053` : สบู่เหลว (liquid soap) : 1 meaning(s), 2 sentences
+- `wlt-c04-055` : ส้มเขียวหวาน (tangerine, mandarin orange (literally "green sweet orange")) : 1 meaning(s), 2 sentences
 - `wlt-c04-056` : ส้มตำ (papaya salad) : 1 meaning(s), 2 sentences
 - `wlt-c04-057` : สมัยก่อน (in the past, in former times) : 1 meaning(s), 2 sentences
 - `wlt-c04-058` : สมัยนี้ (nowadays, these days) : 1 meaning(s), 2 sentences
@@ -6881,6 +6888,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-049` : กางเกงใน (underwear (lower body)) : 1 meaning(s), 2 sentences
 - `wlt-c05-050` : การบ้าน (homework) : 1 meaning(s), 2 sentences
 - `wlt-c05-051` : ก้าว (to step, a step (movement forward)) : 1 meaning(s), 2 sentences
+- `wlt-c05-052` : กำนัน (subdistrict headman (chief of the tambon)) : 1 meaning(s), 2 sentences
 - `wlt-c05-053` : กำเนิด (birth, origin, to originate, to come into existence) : 1 meaning(s), 2 sentences
 - `wlt-c05-054` : กำแพง (wall (enclosing a yard or city)) : 1 meaning(s), 2 sentences
 - `wlt-c05-055` : กินข้าว, ทานข้าว (to have a meal) : 1 meaning(s), 2 sentences
@@ -6918,6 +6926,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c05-096` : ความเชื่อ (belief) : 1 meaning(s), 2 sentences
 - `wlt-c05-097` : ความรู้ (knowledge) : 1 meaning(s), 2 sentences
 - `wlt-c05-098` : ความรู้สึก (feeling) : 1 meaning(s), 2 sentences
+- `new-67` : ความอยาก (desire, wanting, craving) : 1 meaning(s), 2 sentences
+- `new-68` : ตัณหา (desire, lust (formal, religious)) : 1 meaning(s), 2 sentences
 - `wlt-c06-003` : ค้อน (hammer) : 1 meaning(s), 2 sentences
 - `wlt-c06-005` : คะแนน (grade, score point(s)) : 1 meaning(s), 2 sentences
 - `wlt-c06-007` : ค่าเช่า (rent) : 1 meaning(s), 2 sentences
