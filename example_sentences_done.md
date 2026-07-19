@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8933 words**
+**Total: 8943 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8643,34 +8643,44 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c08-044` : ฝ่ายค้าน (opposition (in politics, e.g parliamentary opposition)) : 1 meaning(s), 2 sentences
 - `t4k-c08-046` : มาลัย (flower garland) : 1 meaning(s), 2 sentences
 - `t4k-c08-047` : สารคดี (documentary) : 1 meaning(s), 2 sentences
+- `t4k-c08-049` : ตีน (foot (informal, rude)) : 1 meaning(s), 2 sentences
 - `t4k-c08-050` : สิ้นเชิง (completely, entirely) : 1 meaning(s), 2 sentences
 - `t4k-c08-052` : ทรัพยากรธรรมชาติ (natural resources) : 1 meaning(s), 2 sentences
 - `t4k-c08-055` : ยกมือ (to raise one's hand) : 1 meaning(s), 2 sentences
 - `t4k-c08-056` : เป็นต้นไป (onward, from now on) : 1 meaning(s), 2 sentences
 - `t4k-c08-057` : ล่อ (to lure, to bait; to tease, to provoke) : 2 meaning(s), 4 sentences
+- `t4k-c08-058` : ความพร้อม (preparedness, readiness) : 1 meaning(s), 2 sentences
 - `t4k-c08-062` : แวว (glimpse, hint, trace; (figuratively) potential, prospect) : 2 meaning(s), 4 sentences
 - `t4k-c08-065` : เท็จ (false, untrue) : 1 meaning(s), 2 sentences
 - `t4k-c08-066` : ผ่านพ้น (to pass through, to get through, to be over) : 1 meaning(s), 2 sentences
+- `t4k-c08-067` : ศาลฎีกา (Supreme Court) : 1 meaning(s), 2 sentences
 - `t4k-c08-069` : ประกันภัย (insurance) : 1 meaning(s), 2 sentences
 - `t4k-c08-073` : ตรึง (to fix, to pin, to hold in place) : 1 meaning(s), 2 sentences
 - `t4k-c08-079` : กู้ยืม (to take out a loan, to borrow) : 1 meaning(s), 2 sentences
 - `t4k-c08-080` : ศุลกากร (customs (government agency controlling imports / exports)) : 1 meaning(s), 2 sentences
 - `t4k-c08-081` : ดาวเทียม (satellite) : 1 meaning(s), 2 sentences
+- `t4k-c08-082` : นุ่ง (to wear (lower garments), to wrap around the waist) : 1 meaning(s), 2 sentences
 - `t4k-c08-083` : ถ่ายภาพ (to take a photo (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-084` : ครอบงำ (to control, to dominate, to overpower) : 1 meaning(s), 2 sentences
 - `t4k-c08-085` : ชื่นชอบ (to like, to be fond of (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c08-089` : ชะตา (fate, destiny) : 1 meaning(s), 2 sentences
 - `t4k-c08-091` : แตง (melon) : 1 meaning(s), 2 sentences
 - `t4k-c08-092` : แบ่งแยก (to be divided, to split, to separate) : 1 meaning(s), 2 sentences
+- `t4k-c08-094` : หนักหนา (very much, extremely, severely (literary)) : 1 meaning(s), 2 sentences
+- `t4k-c08-095` : ก่อการ (to instigate, to perpetrate, to stage (an action, an uprising)) : 1 meaning(s), 2 sentences
 - `t4k-c08-096` : เซนติเมตร (cm) : 1 meaning(s), 2 sentences
 - `t4k-c08-098` : อิฐ (brick) : 1 meaning(s), 2 sentences
 - `t4k-c09-000` : แวดล้อม (to surround, surroundings) : 1 meaning(s), 2 sentences
+- `t4k-c09-004` : จักรพรรดิ (emperor) : 1 meaning(s), 2 sentences
 - `t4k-c09-005` : ปล่อยตัว (to discharge, to release someone (e.g from detention); to let oneself go, to neglect oneself) : 2 meaning(s), 4 sentences
 - `t4k-c09-006` : เลน (lane; mud) : 2 meaning(s), 4 sentences
 - `t4k-c09-008` : ประจำตัว (personal (e.g card, doctor, etc)) : 1 meaning(s), 2 sentences
+- `t4k-c09-009` : ฟาก (shore, side, riverbank) : 1 meaning(s), 2 sentences
 - `t4k-c09-010` : มนต์ (spell, incantation, sacred chant) : 1 meaning(s), 2 sentences
 - `t4k-c09-011` : ชุ่ม (moist, damp, soaked) : 1 meaning(s), 2 sentences
+- `t4k-c09-013` : แขนง (small branch (e.g tree, or area of knowledge), subdivision) : 1 meaning(s), 2 sentences
 - `t4k-c09-016` : ตามลำพัง (alone, by oneself) : 1 meaning(s), 2 sentences
+- `t4k-c09-017` : ผู้สื่อข่าว (journalist, news reporter) : 1 meaning(s), 2 sentences
 - `t4k-c09-018` : คุณวุฒิ (qualification, academic degree) : 1 meaning(s), 2 sentences
 - `t4k-c09-020` : เจ้าพนักงาน (public officer, government official) : 1 meaning(s), 2 sentences
 - `t4k-c09-025` : ตอ (stump (tree stump left after cutting)) : 1 meaning(s), 2 sentences
