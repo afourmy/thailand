@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8664 words**
+**Total: 8674 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6032,14 +6032,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-034` : อดตาย (to starve to death) : 1 meaning(s), 2 sentences
 - `yt-c17-035` : หวังน้ำบ่อหน้า ((idiom) to rely on future luck, to hope for something that may never happen (literally "hope for water next well")) : 1 meaning(s), 2 sentences
 - `yt-c17-036` : ลงแดง (severe withdrawal symptoms from addiction) : 1 meaning(s), 2 sentences
+- `yt-c17-037` : หลั่งสาร (to secrete a substance, to release a chemical) : 1 meaning(s), 2 sentences
+- `yt-c17-038` : ขาดตอน (interrupted, disruption in a sequence or process (used when you have to stop eating food to do something else)) : 1 meaning(s), 2 sentences
 - `yt-c17-039` : กินไม่ชวนอาหารติดคอ ((idiom) if you don't share (your food), you'll get into trouble, have bad luck) : 1 meaning(s), 1 sentences
+- `yt-c17-040` : เซียมซี (fortune-telling sticks (small sticks that contain a piece of paper)) : 1 meaning(s), 2 sentences
 - `yt-c17-041` : หลงทาง - หลงป่า (to be lost, to lose one's way - lost in the forest) : 1 meaning(s), 2 sentences
 - `yt-c17-042` : ขุ่น, ขุ่นมัว (murky, cloudy (liquid)) : 1 meaning(s), 2 sentences
+- `yt-c17-043` : แก้ตัวน้ำขุ่นๆ (to make a lame excuse, to dodge responsibility without being fully honest (literally "murky water excuse")) : 1 meaning(s), 2 sentences
 - `yt-c17-044` : ประชดประชัน (ironic, sarcastic, mocking) : 1 meaning(s), 2 sentences
 - `yt-c17-045` : ประสาทสัมผัส (sense (sight, hearing, taste, smell, touch)) : 1 meaning(s), 2 sentences
 - `yt-c17-046` : ไม้เท้า, ไม้นำทาง (cane, walking stick) : 1 meaning(s), 2 sentences
+- `yt-c17-047` : เหนือจินตนาการ (beyond imagination) : 1 meaning(s), 2 sentences
 - `yt-c17-048` : ย้อนยุค (vintage style, retro) : 1 meaning(s), 2 sentences
+- `yt-c17-049` : สำนักศึกษา (academy, educational institution) : 1 meaning(s), 2 sentences
+- `yt-c17-050` : คารวะ (to salute, pay respect (sort of wai, but more formal)) : 1 meaning(s), 2 sentences
+- `yt-c17-051` : สัมมาคารวะ (appropriate respect, good manners, proper reverence (shown to elders, etc)) : 1 meaning(s), 2 sentences
+- `yt-c17-052` : ร่ำเรียน (to study diligently, to pursue learning seriously) : 1 meaning(s), 2 sentences
 - `yt-c17-053` : จอมยุทธ์ (tactician, martial art master, great warrior) : 1 meaning(s), 2 sentences
+- `yt-c17-054` : สหาย (companion, comrade) : 1 meaning(s), 2 sentences
 - `yt-c17-055` : อายุขัย (lifespan, life expectancy) : 1 meaning(s), 2 sentences
 - `yt-c17-058` : ด่านเคราะห์ (a rough time, a hurdle (literally "checkpoint of misfortune")) : 1 meaning(s), 2 sentences
 - `yt-c17-059` : กลับจวน ((formal, old-fashioned) to go back home (literally "to return to one's residence, manor")) : 1 meaning(s), 2 sentences
