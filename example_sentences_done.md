@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8694 words**
+**Total: 8704 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6102,24 +6102,34 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c18-008` : ตั้งหน้าตั้งตา (to focus intently, to concentrate hard) : 1 meaning(s), 2 sentences
 - `yt-c18-009` : จดจ่อ (to focus intensely, to concentrate, to pay close attention) : 1 meaning(s), 2 sentences
 - `yt-c18-010` : คลาดสายตา (to lose sight of, to take one's eyes off (e.g a kid)) : 1 meaning(s), 2 sentences
+- `yt-c18-011` : คลาดกัน (to narrowly fail to meet, to miss each other (as in "I just missed you")) : 1 meaning(s), 2 sentences
 - `yt-c18-012` : เกณฑ์ทหาร (military conscription, draft, to draw the military lottery) : 1 meaning(s), 2 sentences
+- `yt-c18-013` : คนใบ้ (person who is unable to speak (mute)) : 1 meaning(s), 2 sentences
 - `yt-c18-015` : รับราชการ (to be a government official, to work in civil service) : 1 meaning(s), 2 sentences
+- `yt-c18-016` : ขอผ่อนผัน (to request an extension, to ask for leniency) : 1 meaning(s), 2 sentences
+- `new-51` : เหล่าทัพ (army, armed forces branch) : 1 meaning(s), 2 sentences
+- `new-52` : สามเหล่าทัพ (the 3 armed forces branches (land, navy, air force)) : 1 meaning(s), 2 sentences
 - `yt-c18-018` : กระทรวงการคลัง (Ministry of Finance) : 1 meaning(s), 2 sentences
 - `yt-c18-019` : กระทรวงศึกษาธิการ (Ministry of Education) : 1 meaning(s), 2 sentences
 - `yt-c18-020` : ประมุข (head, chief) : 1 meaning(s), 2 sentences
 - `yt-c18-021` : สมัครใจ (voluntary, willingly, of one's own free will) : 1 meaning(s), 2 sentences
 - `yt-c18-023` : วุฒิการศึกษา (educational background, educational qualification, academic degree) : 1 meaning(s), 2 sentences
 - `yt-c18-024` : สลาก - จับสลาก (lot, ballot, lottery slip - to draw lots, to draw a lottery slip) : 1 meaning(s), 2 sentences
+- `yt-c18-025` : จับใบดำใบแดง (to draw lots in the military conscription lottery, to draw black (exempted) or red (conscripted) ballot) : 1 meaning(s), 2 sentences
 - `yt-c18-026` : เนตรนารี (girl scouts (like scouts but for girls)) : 1 meaning(s), 2 sentences
 - `yt-c18-027` : ว่าที่ (soon-to-be (e.g "bride-to-be", "soon-to-be-graduate", etc), future, prospective) : 1 meaning(s), 2 sentences
 - `yt-c18-028` : ลำดับชั้น (hierarchy) : 1 meaning(s), 2 sentences
+- `yt-c18-029` : วัตถุแปลกปลอม (foreign object, foreign body (something that doesn't belong)) : 1 meaning(s), 2 sentences
+- `yt-c18-030` : เรดาร์พัง (said when you fail to notice something immediately (e.g see a girl and not realize it's a katoey) (literally "radar is broken")) : 1 meaning(s), 2 sentences
 - `yt-c18-031` : ชายฉกรรจ์ (burly man, able-bodied man, fit young man) : 1 meaning(s), 2 sentences
 - `yt-c18-032` : เสี่ยงดวง (to take a chance, to try one's luck, to gamble on fate) : 1 meaning(s), 2 sentences
 - `yt-c18-033` : สะสาง (to clean up, to clear up, to sort out, to tidy up (e.g tasks, mess, problems, etc)) : 1 meaning(s), 2 sentences
+- `yt-c18-034` : สุขลักษณะ (hygiene, sanitary conditions) : 1 meaning(s), 2 sentences
 - `yt-c18-035` : ค่ารักษาพยาบาล (สวัสดิการ) (medical expenses, medical treatment fee (Thai civil servant perk)) : 1 meaning(s), 2 sentences
 - `yt-c18-036` : ค่าเล่าเรียนบุตร (สวัสดิการ) (children's tuition fees (Thai civil servant perk)) : 1 meaning(s), 2 sentences
 - `yt-c18-037` : เบี้ยเลี้ยง (allowance (e.g travel allowance on a business trip)) : 1 meaning(s), 2 sentences
 - `yt-c18-038` : ลาคลอดบุตร (maternity leave) : 1 meaning(s), 2 sentences
+- `new-49` : บำเหน็จ ((for Thai civil servant) lump-sum retirement payment (paid once)) : 1 meaning(s), 2 sentences
 - `yt-c18-040` : ทยอย (gradually, in stages, little by little) : 1 meaning(s), 2 sentences
 - `yt-c18-042` : เครื่องราชอิสริยาภรณ์ (royal decoration (official medal or insignia bestowed by the King to e.g civil servants, military, etc)) : 1 meaning(s), 2 sentences
 - `yt-c18-043` : เงินกู้ (loan, borrowed money) : 1 meaning(s), 2 sentences

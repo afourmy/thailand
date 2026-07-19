@@ -185791,6 +185791,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to narrowly fail to meet, to miss each other (as in \"I just missed you\")",
+        "sentences": [
+          {
+            "thai": "ฉันไปถึงช้าไปหน่อย เลยคลาดกับเขา",
+            "en": "I got there a bit late, so I just missed him.",
+            "audio_src": "ฉันไปถึงช้าไปหน่อย เลยคลาดกับเขา",
+            "audio_en_src": "I got there a bit late, so I just missed him."
+          },
+          {
+            "thai": "โทรนัดกันไม่ดี เลยคลาดกันที่สนามบิน",
+            "en": "We didn't coordinate the call well, so we missed each other at the airport.",
+            "audio_src": "โทรนัดกันไม่ดี เลยคลาดกันที่สนามบิน",
+            "audio_en_src": "We didn't coordinate the call well, so we missed each other at the airport."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185828,6 +185847,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "person who is unable to speak (mute)",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนใบ้ ต้องใช้ภาษามือคุยกัน",
+            "en": "He's mute, so he communicates using sign language.",
+            "audio_src": "เขาเป็นคนใบ้ ต้องใช้ภาษามือคุยกัน",
+            "audio_en_src": "He's mute, so he communicates using sign language."
+          },
+          {
+            "thai": "คนใบ้สื่อสารด้วยการเขียนบนกระดาษ",
+            "en": "The mute man communicated by writing on paper.",
+            "audio_src": "คนใบ้สื่อสารด้วยการเขียนบนกระดาษ",
+            "audio_en_src": "The mute man communicated by writing on paper."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185866,6 +185904,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to request an extension, to ask for leniency",
+        "sentences": [
+          {
+            "thai": "นักศึกษาขอผ่อนผันการส่งงานอีกหนึ่งสัปดาห์",
+            "en": "The student asked for a one-week extension on the assignment.",
+            "audio_src": "นักศึกษาขอผ่อนผันการส่งงานอีกหนึ่งสัปดาห์",
+            "audio_en_src": "The student asked for a one-week extension on the assignment."
+          },
+          {
+            "thai": "เขาขอผ่อนผันการจ่ายหนี้เพราะยังไม่มีเงิน",
+            "en": "He asked for leniency on the debt payment because he didn't have the money yet.",
+            "audio_src": "เขาขอผ่อนผันการจ่ายหนี้เพราะยังไม่มีเงิน",
+            "audio_en_src": "He asked for leniency on the debt payment because he didn't have the money yet."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185875,6 +185932,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "army, armed forces branch",
+        "sentences": [
+          {
+            "thai": "ทหารจากทุกเหล่าทัพมาร่วมพิธีสวนสนาม",
+            "en": "Soldiers from every branch of the armed forces joined the parade.",
+            "audio_src": "ทหารจากทุกเหล่าทัพมาร่วมพิธีสวนสนาม",
+            "audio_en_src": "Soldiers from every branch of the armed forces joined the parade."
+          },
+          {
+            "thai": "แต่ละเหล่าทัพมีหน้าที่รับผิดชอบต่างกัน",
+            "en": "Each branch of the armed forces has different responsibilities.",
+            "audio_src": "แต่ละเหล่าทัพมีหน้าที่รับผิดชอบต่างกัน",
+            "audio_en_src": "Each branch of the armed forces has different responsibilities."
+          }
+        ]
+      }
     ]
   },
   {
@@ -185884,6 +185960,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "the 3 armed forces branches (land, navy, air force)",
+        "sentences": [
+          {
+            "thai": "สามเหล่าทัพร่วมซ้อมรบครั้งใหญ่",
+            "en": "The three armed forces branches held a large joint military exercise.",
+            "audio_src": "สามเหล่าทัพร่วมซ้อมรบครั้งใหญ่",
+            "audio_en_src": "The three armed forces branches held a large joint military exercise."
+          },
+          {
+            "thai": "ผู้บัญชาการสามเหล่าทัพเข้าร่วมประชุม",
+            "en": "The commanders of the three armed forces branches attended the meeting.",
+            "audio_src": "ผู้บัญชาการสามเหล่าทัพเข้าร่วมประชุม",
+            "audio_en_src": "The commanders of the three armed forces branches attended the meeting."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186074,6 +186169,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to draw lots in the military conscription lottery, to draw black (exempted) or red (conscripted) ballot",
+        "sentences": [
+          {
+            "thai": "ปีนี้เขาต้องไปจับใบดำใบแดงที่อำเภอ",
+            "en": "This year he has to go draw lots for conscription at the district office.",
+            "audio_src": "ปีนี้เขาต้องไปจับใบดำใบแดงที่อำเภอ",
+            "audio_en_src": "This year he has to go draw lots for conscription at the district office."
+          },
+          {
+            "thai": "จับใบดำใบแดงได้ใบแดง ต้องเป็นทหารสองปี",
+            "en": "He drew the red ballot, so he has to serve two years in the army.",
+            "audio_src": "จับใบดำใบแดงได้ใบแดง ต้องเป็นทหารสองปี",
+            "audio_en_src": "He drew the red ballot, so he has to serve two years in the army."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186169,6 +186283,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "foreign object, foreign body (something that doesn't belong)",
+        "sentences": [
+          {
+            "thai": "หมอพบวัตถุแปลกปลอมในท้องของเด็ก",
+            "en": "The doctor found a foreign object in the child's stomach.",
+            "audio_src": "หมอพบวัตถุแปลกปลอมในท้องของเด็ก",
+            "audio_en_src": "The doctor found a foreign object in the child's stomach."
+          },
+          {
+            "thai": "โรงงานตรวจหาวัตถุแปลกปลอมในอาหารก่อนบรรจุ",
+            "en": "The factory checks for foreign objects in the food before packaging.",
+            "audio_src": "โรงงานตรวจหาวัตถุแปลกปลอมในอาหารก่อนบรรจุ",
+            "audio_en_src": "The factory checks for foreign objects in the food before packaging."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186178,6 +186311,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "said when you fail to notice something immediately (e.g see a girl and not realize it's a katoey) (literally \"radar is broken\")",
+        "sentences": [
+          {
+            "thai": "นั่งข้างกันตั้งนานยังไม่ทัก เรดาร์พังจริงๆ",
+            "en": "You sat right next to her for ages and didn't say hi, your radar's totally broken.",
+            "audio_src": "นั่งข้างกันตั้งนานยังไม่ทัก เรดาร์พังจริงๆ",
+            "audio_en_src": "You sat right next to her for ages and didn't say hi, your radar's totally broken."
+          },
+          {
+            "thai": "ไม่รู้เลยว่าเขาชอบเรา เรดาร์พังสุดๆ",
+            "en": "I had no idea he liked me, my radar is completely broken.",
+            "audio_src": "ไม่รู้เลยว่าเขาชอบเรา เรดาร์พังสุดๆ",
+            "audio_en_src": "I had no idea he liked me, my radar is completely broken."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186273,6 +186425,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "hygiene, sanitary conditions",
+        "sentences": [
+          {
+            "thai": "ร้านอาหารนี้สะอาดถูกสุขลักษณะ",
+            "en": "This restaurant is clean and hygienic.",
+            "audio_src": "ร้านอาหารนี้สะอาดถูกสุขลักษณะ",
+            "audio_en_src": "This restaurant is clean and hygienic."
+          },
+          {
+            "thai": "ควรล้างมือให้ถูกสุขลักษณะก่อนกินข้าว",
+            "en": "You should wash your hands properly for hygiene before eating.",
+            "audio_src": "ควรล้างมือให้ถูกสุขลักษณะก่อนกินข้าว",
+            "audio_en_src": "You should wash your hands properly for hygiene before eating."
+          }
+        ]
+      }
     ]
   },
   {
@@ -186394,6 +186565,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "(for Thai civil servant) lump-sum retirement payment (paid once)",
+        "sentences": [
+          {
+            "thai": "พอเกษียณ เขาได้รับบำเหน็จก้อนใหญ่",
+            "en": "When he retired, he received a large lump-sum payment.",
+            "audio_src": "พอเกษียณ เขาได้รับบำเหน็จก้อนใหญ่",
+            "audio_en_src": "When he retired, he received a large lump-sum payment."
+          },
+          {
+            "thai": "ข้าราชการเลือกได้ว่าจะรับบำเหน็จหรือบำนาญ",
+            "en": "Civil servants can choose to take a lump sum or a monthly pension.",
+            "audio_src": "ข้าราชการเลือกได้ว่าจะรับบำเหน็จหรือบำนาญ",
+            "audio_en_src": "Civil servants can choose to take a lump sum or a monthly pension."
+          }
+        ]
+      }
     ]
   },
   {
