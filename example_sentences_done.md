@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8554 words**
+**Total: 8564 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5722,15 +5722,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-087` : เงินอัดฉีด (bonus money, incentive money, sponsorship money (literally "money + to inject, to pump in")) : 1 meaning(s), 2 sentences
 - `yt-c13-088` : สมดั่ง (in accordance with, as expected) : 1 meaning(s), 2 sentences
 - `yt-c13-090` : แมลงเม่า (winged termites, flying termites (swarm around lights before rain)) : 1 meaning(s), 2 sentences
+- `yt-c13-091` : แมลงหวี่ (drain fly) : 1 meaning(s), 2 sentences
 - `yt-c13-092` : แมลงปอ (dragonfly) : 1 meaning(s), 2 sentences
 - `yt-c13-093` : ต่อย (to punch, to strike with a fist; to sting (insect)) : 2 meaning(s), 4 sentences
+- `yt-c13-094` : โป๊เปลือย (completely naked, nude) : 1 meaning(s), 2 sentences
 - `yt-c13-095` : นุ่งผ้าลอยชาย (to wear clothes that are hanging freely, loose, not tucked in (e.g traditional Thai garment like Sarong)) : 1 meaning(s), 2 sentences
+- `yt-c13-096` : โสร่ง (Sarong (traditional Thai lower body garment)) : 1 meaning(s), 2 sentences
+- `yt-c13-098` : ภาษาราชาศัพท์ (royal vocabulary, royal language) : 1 meaning(s), 2 sentences
 - `yt-c13-099` : รองเท้าหุ้มส้น (shoes that fully cover the heel) : 1 meaning(s), 2 sentences
 - `yt-c14-000` : ไขกุญแจ (to unlock, to open with a key (literally to turn the key)) : 1 meaning(s), 2 sentences
 - `yt-c14-001` : ปรับแอร์ (ลง - ขึ้น) (to adjust aircon temperature (down - up)) : 1 meaning(s), 2 sentences
 - `yt-c14-002` : เสียบปลั๊ก - ถอดปลั๊ก (to plug in (e.g fan, etc) - to unplug) : 1 meaning(s), 2 sentences
 - `yt-c14-003` : เพิ่มเสียง - ลดเสียง (to turn up - down the volume) : 1 meaning(s), 2 sentences
+- `yt-c14-004` : หนทาง (way, path, means) : 1 meaning(s), 2 sentences
 - `yt-c14-006` : สายสะพาย (shoulder strap, sash) : 1 meaning(s), 2 sentences
+- `yt-c14-007` : เส้นสาย (personal connections (someone that helps e.g get you a job at a company)) : 1 meaning(s), 2 sentences
+- `yt-c14-008` : ทางหลวงแผ่นดิน (national highways that connect Bangkok to the rest of the country (single digit)) : 1 meaning(s), 2 sentences
 - `yt-c14-009` : อักษรย่อ (abbreviation, initials (shortened form with only the first letters of each word)) : 1 meaning(s), 2 sentences
 - `yt-c14-010` : สัมปทาน (concession (contract giving right to operate a business, usually given by the government)) : 1 meaning(s), 2 sentences
 - `yt-c14-011` : ลูกระนาด, ยางชะลอความเร็ว, คันชะลอความเร็ว (speed bump) : 1 meaning(s), 2 sentences
@@ -5742,10 +5749,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-017` : ตระหนี่ (stingy, unwilling to spend money (formal)) : 1 meaning(s), 2 sentences
 - `yt-c14-017b` : งก (stingy, reluctant to spend money (informal)) : 1 meaning(s), 2 sentences
 - `yt-c14-018` : คดโกง (dishonest, fraudulent, corrupt (formal)) : 1 meaning(s), 2 sentences
+- `yt-c14-019` : คนรักสวยรักงาม (beauty-conscious, someone who loves to look good, dress well) : 1 meaning(s), 2 sentences
 - `yt-c14-020` : คนง่ายๆ สบายๆ (someone chill, with a laid-back attitude) : 1 meaning(s), 2 sentences
 - `yt-c14-021` : หัวไว - หัวช้า (smart, quick-witted - slow learner, slow to understand) : 1 meaning(s), 2 sentences
+- `yt-c14-022` : อาคารพาณิชย์ (commercial building) : 1 meaning(s), 2 sentences
 - `yt-c14-023` : ห้องชุด (condo, condominium unit) : 1 meaning(s), 2 sentences
 - `yt-c14-024` : ห้องรับรอง (reception room) : 1 meaning(s), 2 sentences
+- `yt-c14-025` : เช่าช่วง (to sublease (usually forbidden in Thailand)) : 1 meaning(s), 2 sentences
 - `yt-c14-026` : ตรวจคนเข้าเมือง (ตม.) (immigration (e.g department, office)) : 1 meaning(s), 2 sentences
 - `yt-c14-029` : หัวเข่า (knee cap (front part of the knee)) : 1 meaning(s), 2 sentences
 - `yt-c14-030` : ซุ่มซ่าม (clumsy (usually physical clumsiness i.e prone to accidents or dropping things)) : 1 meaning(s), 2 sentences
