@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8514 words**
+**Total: 8524 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5608,9 +5608,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-069` : ศัลยกรรม (surgery (surgical operation)) : 1 meaning(s), 2 sentences
 - `yt-c12-070` : จับจุด (to grasp, to catch the point) : 1 meaning(s), 2 sentences
 - `yt-c12-071` : เดียวดาย (solitary, lonely) : 1 meaning(s), 2 sentences
+- `yt-c12-072` : ขัดข้องใจ (conflicted, troubled, to feel something is not right) : 1 meaning(s), 2 sentences
 - `yt-c12-073` : ลงจอด (to land (aircraft, helicopter)) : 1 meaning(s), 2 sentences
 - `yt-c12-075` : ลูกเรือ (crew member (of a boat or an aircraft)) : 1 meaning(s), 2 sentences
 - `yt-c12-076` : บุตรธิดา (children, sons and daughters (literary)) : 1 meaning(s), 2 sentences
+- `yt-c12-077` : เคว้งคว้าง (adrift, lost (e.g feelings, emotions)) : 1 meaning(s), 2 sentences
 - `yt-c12-078` : เบ้า (cavity, socket, mold) : 1 meaning(s), 2 sentences
 - `yt-c12-079` : คู่จิ้น (couple formed by two fictional characters (e.g in series, movies)) : 1 meaning(s), 2 sentences
 - `yt-c12-080` : กระโจน (to leap, to jump very fast like a spring) : 1 meaning(s), 2 sentences
@@ -5619,11 +5621,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-083` : แจ่มใส (bright, clear (e.g sky, weather); cheerful, happy) : 2 meaning(s), 4 sentences
 - `yt-c12-084` : แต่ประการใด, แต่อย่างใด (at all, whatsoever (formal)) : 1 meaning(s), 2 sentences
 - `yt-c12-085` : โต้ (to respond, to retort, to argue back; to go against (e.g wind, wave)) : 2 meaning(s), 4 sentences
+- `yt-c12-086` : สลักสำคัญ (significant, crucial, very important) : 1 meaning(s), 2 sentences
+- `yt-c12-087` : น่าเลื่อมใส (admirable, worthy of respect) : 1 meaning(s), 2 sentences
 - `yt-c12-090` : ภพชาติ (existence, life within the cycle of birth and rebirth (Buddhist term)) : 1 meaning(s), 2 sentences
 - `yt-c12-091` : ติ๊ด - ติ๊ดเดียว (a tiny amount, a tiny bit) : 1 meaning(s), 2 sentences
 - `yt-c12-092` : เกเร ((of kids) mischievous, naughty, (of adults) rebellious, undisciplined) : 1 meaning(s), 2 sentences
 - `yt-c12-094` : ส่งๆ (casually, without overthinking, quickly) : 1 meaning(s), 2 sentences
 - `yt-c12-095` : ทอประกาย (to shimmer, to sparkle, sparkling) : 1 meaning(s), 2 sentences
+- `yt-c12-096` : ชะโงก (to stretch out to look, to poke one's head out, to peek forward) : 1 meaning(s), 2 sentences
+- `yt-c12-097` : กะลา (coconut shell) : 1 meaning(s), 2 sentences
 - `yt-c12-098` : ตักน้ำใส่กะโหลก ชะโงกดูเงา ((insulting) go look at yourself, be humble and consider your own limitations (literally "scoop water into a coconut shell then lean over to see your reflection")) : 1 meaning(s), 1 sentences
 - `yt-c12-099` : เจ้าอยู่หัว, พระเจ้าอยู่หัว (the king (very respectful way to refer to the king, literally "lord residing at the head")) : 1 meaning(s), 2 sentences
 - `yt-c13-000` : คะน้า ((chinese) kale (vegetable used for cooking)) : 1 meaning(s), 2 sentences
@@ -5633,7 +5639,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-005` : ฟันเฟือง (gear, cog (icon used for the "settings" on phone)) : 1 meaning(s), 2 sentences
 - `yt-c13-006` : จับความ, จับใจความ (to get the idea, to grasp the gist, to get the general meaning) : 1 meaning(s), 2 sentences
 - `yt-c13-007` : บังเอิญ, เผอิญ (by chance, coincidentally, "it just happened that") : 1 meaning(s), 2 sentences
+- `yt-c13-009` : เจียมตัว (to know one's place, to be humble, to be aware of one's position (e.g social status)) : 1 meaning(s), 2 sentences
 - `yt-c13-010` : เสงี่ยมเจียมตัว (humble and well-behaved, knowing one’s place) : 1 meaning(s), 2 sentences
+- `yt-c13-011` : สงบเสงี่ยม, สงบเสงี่ยมเจียมตัว (quiet and modest, calm and humble, well-behaved) : 1 meaning(s), 2 sentences
+- `yt-c13-012` : ปานกลาง (medium, average, neither high nor low) : 1 meaning(s), 2 sentences
+- `new-61` : เสียงใส (clear voice, high-pitched voice) : 1 meaning(s), 2 sentences
 - `yt-c13-014` : ฉุนเฉียว (irritable, quick to anger) : 1 meaning(s), 2 sentences
 - `yt-c13-016` : เรียบหรู (simple yet elegant, sophisticated and classy in a simple way) : 1 meaning(s), 2 sentences
 - `yt-c13-017` : รสนิยม (taste, preference, inclination) : 1 meaning(s), 2 sentences
