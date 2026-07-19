@@ -214870,6 +214870,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "to cremate a corpse",
+        "sentences": [
+          {
+            "thai": "ญาติจัดพิธีเผาศพที่วัดใกล้บ้าน",
+            "en": "The relatives held the cremation at the temple near home.",
+            "audio_src": "ญาติจัดพิธีเผาศพที่วัดใกล้บ้าน",
+            "audio_en_src": "The relatives held the cremation at the temple near home."
+          },
+          {
+            "thai": "ตามประเพณีไทยนิยมเผาศพมากกว่าฝัง",
+            "en": "In Thai tradition cremation is more common than burial.",
+            "audio_src": "ตามประเพณีไทยนิยมเผาศพมากกว่าฝัง",
+            "audio_en_src": "In Thai tradition cremation is more common than burial."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215109,6 +215128,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sister-in-law",
+        "sentences": [
+          {
+            "thai": "น้องสะใภ้ของฉันทำอาหารเก่งมาก",
+            "en": "My younger sister-in-law is a great cook.",
+            "audio_src": "น้องสะใภ้ของฉันทำอาหารเก่งมาก",
+            "audio_en_src": "My younger sister-in-law is a great cook."
+          },
+          {
+            "thai": "พี่สะใภ้พาลูกๆมาเยี่ยมที่บ้าน",
+            "en": "My older sister-in-law brought her kids to visit.",
+            "audio_src": "พี่สะใภ้พาลูกๆมาเยี่ยมที่บ้าน",
+            "audio_en_src": "My older sister-in-law brought her kids to visit."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215360,6 +215398,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wife (formal)",
+        "sentences": [
+          {
+            "thai": "ท่านทูตเดินทางมาพร้อมภริยา",
+            "en": "The ambassador arrived with his wife.",
+            "audio_src": "ท่านทูตเดินทางมาพร้อมภริยา",
+            "audio_en_src": "The ambassador arrived with his wife."
+          },
+          {
+            "thai": "เขาแนะนำภริยาให้แขกในงานรู้จัก",
+            "en": "He introduced his wife to the guests at the event.",
+            "audio_src": "เขาแนะนำภริยาให้แขกในงานรู้จัก",
+            "audio_en_src": "He introduced his wife to the guests at the event."
+          }
+        ]
+      }
     ]
   },
   {
@@ -215507,6 +215564,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "sweet potato",
+        "sentences": [
+          {
+            "thai": "ยายเอามันเทศมาต้มให้หลานกิน",
+            "en": "Grandma boiled sweet potatoes for her grandchildren.",
+            "audio_src": "ยายเอามันเทศมาต้มให้หลานกิน",
+            "audio_en_src": "Grandma boiled sweet potatoes for her grandchildren."
+          },
+          {
+            "thai": "มันเทศเผาหอมหวานกินอร่อยมาก",
+            "en": "Roasted sweet potato is fragrant, sweet, and delicious.",
+            "audio_src": "มันเทศเผาหอมหวานกินอร่อยมาก",
+            "audio_en_src": "Roasted sweet potato is fragrant, sweet, and delicious."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217572,6 +217648,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "wa (2 meters)",
+        "sentences": [
+          {
+            "thai": "เชือกเส้นนี้ยาวประมาณสองวา",
+            "en": "This rope is about two wa long.",
+            "audio_src": "เชือกเส้นนี้ยาวประมาณสองวา",
+            "audio_en_src": "This rope is about two wa long."
+          },
+          {
+            "thai": "น้ำลึกราวสามวาตรงกลางแม่น้ำ",
+            "en": "The water is about three wa deep in the middle of the river.",
+            "audio_src": "น้ำลึกราวสามวาตรงกลางแม่น้ำ",
+            "audio_en_src": "The water is about three wa deep in the middle of the river."
+          }
+        ]
+      }
     ]
   },
   {
@@ -217859,6 +217954,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "horse racing track",
+        "sentences": [
+          {
+            "thai": "วันอาทิตย์เขาชอบไปดูม้าแข่งที่สนามม้า",
+            "en": "On Sundays he likes to go watch the horse races at the track.",
+            "audio_src": "วันอาทิตย์เขาชอบไปดูม้าแข่งที่สนามม้า",
+            "audio_en_src": "On Sundays he likes to go watch the horse races at the track."
+          },
+          {
+            "thai": "สนามม้าแห่งนี้เปิดมาตั้งแต่สมัยรัชกาลที่ห้า",
+            "en": "This racetrack has been open since the reign of King Rama V.",
+            "audio_src": "สนามม้าแห่งนี้เปิดมาตั้งแต่สมัยรัชกาลที่ห้า",
+            "audio_en_src": "This racetrack has been open since the reign of King Rama V."
+          }
+        ]
+      }
     ]
   },
   {
@@ -218914,6 +219028,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "if (literary)",
+        "sentences": [
+          {
+            "thai": "หากฝนไม่ตก เราจะไปเดินป่ากัน",
+            "en": "If it doesn't rain, we'll go hiking.",
+            "audio_src": "หากฝนไม่ตก เราจะไปเดินป่ากัน",
+            "audio_en_src": "If it doesn't rain, we'll go hiking."
+          },
+          {
+            "thai": "ถ้าหากเธอต้องการความช่วยเหลือ ก็บอกได้เสมอ",
+            "en": "If you need any help, you can always tell me.",
+            "audio_src": "ถ้าหากเธอต้องการความช่วยเหลือ ก็บอกได้เสมอ",
+            "audio_en_src": "If you need any help, you can always tell me."
+          }
+        ]
+      }
     ]
   },
   {
@@ -221333,6 +221466,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "novice monk",
+        "sentences": [
+          {
+            "thai": "เด็กชายบวชเป็นเณรช่วงปิดเทอม",
+            "en": "The boy ordained as a novice monk during the school break.",
+            "audio_src": "เด็กชายบวชเป็นเณรช่วงปิดเทอม",
+            "audio_en_src": "The boy ordained as a novice monk during the school break."
+          },
+          {
+            "thai": "เณรตัวเล็กเดินบิณฑบาตตอนเช้า",
+            "en": "The little novice monk went on his morning alms round.",
+            "audio_src": "เณรตัวเล็กเดินบิณฑบาตตอนเช้า",
+            "audio_en_src": "The little novice monk went on his morning alms round."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223197,6 +223349,25 @@
       "Anki Basics",
       "Thai 4000",
       "Thaipod101"
+    ],
+    "examples": [
+      {
+        "meaning": "father (formal)",
+        "sentences": [
+          {
+            "thai": "บิดาของเขาเป็นข้าราชการชั้นผู้ใหญ่",
+            "en": "His father is a senior government official.",
+            "audio_src": "บิดาของเขาเป็นข้าราชการชั้นผู้ใหญ่",
+            "audio_en_src": "His father is a senior government official."
+          },
+          {
+            "thai": "งานนี้จัดขึ้นเพื่อรำลึกถึงบิดาผู้ล่วงลับ",
+            "en": "This event was held to remember his late father.",
+            "audio_src": "งานนี้จัดขึ้นเพื่อรำลึกถึงบิดาผู้ล่วงลับ",
+            "audio_en_src": "This event was held to remember his late father."
+          }
+        ]
+      }
     ]
   },
   {
@@ -223848,6 +224019,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "abscess, boil",
+        "sentences": [
+          {
+            "thai": "เขาเป็นฝีที่หลังจนต้องไปให้หมอผ่า",
+            "en": "He got a boil on his back and had to have the doctor lance it.",
+            "audio_src": "เขาเป็นฝีที่หลังจนต้องไปให้หมอผ่า",
+            "audio_en_src": "He got a boil on his back and had to have the doctor lance it."
+          },
+          {
+            "thai": "ฝีเม็ดนี้บวมแดงและเจ็บมาก",
+            "en": "This abscess is red, swollen, and very painful.",
+            "audio_src": "ฝีเม็ดนี้บวมแดงและเจ็บมาก",
+            "audio_en_src": "This abscess is red, swollen, and very painful."
+          }
+        ]
+      }
     ]
   },
   {

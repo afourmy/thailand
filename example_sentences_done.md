@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8863 words**
+**Total: 8873 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -7087,6 +7087,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c07-097` : ผู้ปกครอง (guardian (person responsible for a minor, usually the parent)) : 1 meaning(s), 2 sentences
 - `wlt-c07-098` : ผู้ผลิต (producer, manufacturer, maker) : 1 meaning(s), 2 sentences
 - `wlt-c07-099` : ผู้พิพากษา (judge (court)) : 1 meaning(s), 2 sentences
+- `wlt-c08-000` : เผาศพ (to cremate a corpse) : 1 meaning(s), 2 sentences
 - `wlt-c08-001` : ฝากเงิน (to deposit money (in the bank)) : 1 meaning(s), 2 sentences
 - `wlt-c08-004` : พ่น (to spray) : 1 meaning(s), 2 sentences
 - `wlt-c08-005` : พยัญชนะ (consonant) : 1 meaning(s), 2 sentences
@@ -7095,6 +7096,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-012` : พัด (to blow (wind)) : 1 meaning(s), 2 sentences
 - `wlt-c08-013` : พาสปอร์ต (passport (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c08-014` : พิง (to lean against) : 1 meaning(s), 2 sentences
+- `wlt-c08-018` : น้องสะใภ้, พี่สะใภ้ (sister-in-law) : 1 meaning(s), 2 sentences
 - `wlt-c08-019` : พุง (pot belly) : 1 meaning(s), 2 sentences
 - `wlt-c08-020` : เพชร (diamond) : 1 meaning(s), 2 sentences
 - `wlt-c08-021` : เพศ (gender, sex) : 1 meaning(s), 2 sentences
@@ -7103,10 +7105,12 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-025` : ไพ่ ((playing) cards) : 1 meaning(s), 2 sentences
 - `wlt-c08-026` : ฟิล์ม (film, photographic film) : 1 meaning(s), 2 sentences
 - `wlt-c08-027` : แฟ้มข้อมูล (file (physical or on a computer)) : 1 meaning(s), 2 sentences
+- `wlt-c08-028` : ภริยา (wife (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c08-030` : ภาษาไทย (Thai language) : 1 meaning(s), 2 sentences
 - `wlt-c08-031` : มวน (to roll; classifier for cigarettes, cigars) : 2 meaning(s), 4 sentences
 - `wlt-c08-032` : มองดู (to look at closely, to observe) : 1 meaning(s), 2 sentences
 - `wlt-c08-033` : มองเห็น (to be able to see) : 1 meaning(s), 2 sentences
+- `wlt-c08-035` : มันเทศ (sweet potato) : 1 meaning(s), 2 sentences
 - `wlt-c08-036` : มีความสุข, สุขใจ (happy) : 1 meaning(s), 2 sentences
 - `wlt-c08-037` : มีค่า (valuable) : 1 meaning(s), 2 sentences
 - `wlt-c08-039` : มือถือ, โทรศัพท์มือถือ (mobile phone) : 1 meaning(s), 2 sentences
@@ -7175,6 +7179,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-011` : วงจร (circuit (e.g electrical)) : 1 meaning(s), 2 sentences
 - `wlt-c09-012` : วัตถุประสงค์ (objective, purpose, goal) : 1 meaning(s), 2 sentences
 - `wlt-c09-013` : วันพฤหัสบดี (Thursday (formal)) : 1 meaning(s), 2 sentences
+- `wlt-c09-014` : วา (wa (2 meters)) : 1 meaning(s), 2 sentences
 - `wlt-c09-015` : วิเคราะห์ (to analyze) : 1 meaning(s), 2 sentences
 - `wlt-c09-016` : วิชาชีพ (vocation, profession, occupation) : 1 meaning(s), 2 sentences
 - `wlt-c09-019` : วินาที (second (unit of time)) : 1 meaning(s), 2 sentences
@@ -7184,6 +7189,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-025` : ส่งออก (to export, to send abroad) : 1 meaning(s), 2 sentences
 - `wlt-c09-026` : สติ (consciousness, sense, mind) : 1 meaning(s), 2 sentences
 - `wlt-c09-028` : สนทนา (to converse, to have a conversation) : 1 meaning(s), 2 sentences
+- `wlt-c09-029` : สนามม้า (horse racing track) : 1 meaning(s), 2 sentences
 - `wlt-c09-030` : สมาชิก (member) : 1 meaning(s), 2 sentences
 - `wlt-c09-031` : สโมสร (club, organized association) : 1 meaning(s), 2 sentences
 - `wlt-c09-032` : สลัด, ยำสลัด (salad) : 1 meaning(s), 2 sentences
@@ -7218,6 +7224,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-066` : ห้องครัว (kitchen) : 1 meaning(s), 2 sentences
 - `wlt-c09-067` : ห้องทำงาน (work room, office) : 1 meaning(s), 2 sentences
 - `wlt-c09-068` : ห้อย (to dangle) : 1 meaning(s), 2 sentences
+- `wlt-c09-069` : หาก, ถ้าหาก (if (literary)) : 1 meaning(s), 2 sentences
 - `wlt-c09-070` : ห้างสรรพสินค้า (shopping mall (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c09-071` : หาเจอ (to find something you were looking for) : 1 meaning(s), 2 sentences
 - `wlt-c09-072` : หาไม่เจอ (to be unable to find) : 1 meaning(s), 2 sentences
@@ -7295,6 +7302,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c10-059` : ซักแห้ง (to dry-clean) : 1 meaning(s), 2 sentences
 - `wlt-c10-062` : เซ็น (to sign) : 1 meaning(s), 2 sentences
 - `wlt-c10-063` : โซ่ (chain) : 1 meaning(s), 2 sentences
+- `wlt-c10-064` : เณร (novice monk) : 1 meaning(s), 2 sentences
 - `wlt-c10-065` : ดม (to smell (active)) : 1 meaning(s), 2 sentences
 - `wlt-c10-066` : ด่วน (urgent, express) : 1 meaning(s), 2 sentences
 - `wlt-c10-067` : ดิน (earth, land, ground) : 1 meaning(s), 2 sentences
@@ -7354,6 +7362,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-029` : บ้า (crazy) : 1 meaning(s), 2 sentences
 - `wlt-c11-030` : บางครั้ง (sometimes) : 1 meaning(s), 2 sentences
 - `wlt-c11-031` : บาด (to wound, to cut) : 1 meaning(s), 2 sentences
+- `wlt-c11-032` : บิดา (father (formal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-033` : บุรุษ (man, male) : 1 meaning(s), 2 sentences
 - `wlt-c11-034` : เบื่อ (bored) : 1 meaning(s), 2 sentences
 - `wlt-c11-035` : แบก (to carry (on the shoulder or back)) : 1 meaning(s), 2 sentences
@@ -7375,6 +7384,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-052` : ผัว (husband (informal)) : 1 meaning(s), 2 sentences
 - `wlt-c11-053` : ผ้าปูที่นอน (bedsheet) : 1 meaning(s), 2 sentences
 - `wlt-c11-054` : ฝ้าย (cotton) : 1 meaning(s), 2 sentences
+- `wlt-c11-055` : ฝี (abscess, boil) : 1 meaning(s), 2 sentences
 - `wlt-c11-056` : ฝึก, หัด, ฝึกหัด (to practise, exercise, train) : 1 meaning(s), 2 sentences
 - `wlt-c11-057` : พก (to carry (on one's person)) : 1 meaning(s), 2 sentences
 - `wlt-c11-058` : พจนานุกรม (dictionary) : 1 meaning(s), 2 sentences
