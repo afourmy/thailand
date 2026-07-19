@@ -254979,6 +254979,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to handle a legal case (as a lawyer)",
+        "sentences": [
+          {
+            "thai": "ทนายคนนี้ว่าความให้ลูกความมาแล้วหลายคดี",
+            "en": "This lawyer has represented clients in many cases.",
+            "audio_src": "ทนายคนนี้ว่าความให้ลูกความมาแล้วหลายคดี",
+            "audio_en_src": "This lawyer has represented clients in many cases."
+          },
+          {
+            "thai": "เขาว่าความเก่งจนชนะคดียากๆได้",
+            "en": "He's so skilled in court that he wins tough cases.",
+            "audio_src": "เขาว่าความเก่งจนชนะคดียากๆได้",
+            "audio_en_src": "He's so skilled in court that he wins tough cases."
+          }
+        ]
+      }
     ]
   },
   {
@@ -255376,6 +255395,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "investment",
+        "sentences": [
+          {
+            "thai": "การลงทุนในหุ้นมีความเสี่ยงสูง",
+            "en": "Investing in stocks carries high risk.",
+            "audio_src": "การลงทุนในหุ้นมีความเสี่ยงสูง",
+            "audio_en_src": "Investing in stocks carries high risk."
+          },
+          {
+            "thai": "รัฐบาลส่งเสริมการลงทุนจากต่างประเทศ",
+            "en": "The government promotes foreign investment.",
+            "audio_src": "รัฐบาลส่งเสริมการลงทุนจากต่างประเทศ",
+            "audio_en_src": "The government promotes foreign investment."
+          }
+        ]
+      }
     ]
   },
   {
@@ -256480,6 +256518,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "fear",
+        "sentences": [
+          {
+            "thai": "เขาเอาชนะความกลัวความสูงได้ในที่สุด",
+            "en": "He finally overcame his fear of heights.",
+            "audio_src": "เขาเอาชนะความกลัวความสูงได้ในที่สุด",
+            "audio_en_src": "He finally overcame his fear of heights."
+          },
+          {
+            "thai": "ความกลัวทำให้เธอไม่กล้าพูดต่อหน้าคนเยอะ",
+            "en": "Fear kept her from daring to speak in front of a crowd.",
+            "audio_src": "ความกลัวทำให้เธอไม่กล้าพูดต่อหน้าคนเยอะ",
+            "audio_en_src": "Fear kept her from daring to speak in front of a crowd."
+          }
+        ]
+      }
     ]
   },
   {
@@ -257540,6 +257597,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to execute, to put to death",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนนักโทษร้ายแรงถูกประหารด้วยการตัดคอ",
+            "en": "In the old days serious criminals were executed by beheading.",
+            "audio_src": "สมัยก่อนนักโทษร้ายแรงถูกประหารด้วยการตัดคอ",
+            "audio_en_src": "In the old days serious criminals were executed by beheading."
+          },
+          {
+            "thai": "ศาลตัดสินประหารชีวิตฆาตกรต่อเนื่อง",
+            "en": "The court sentenced the serial killer to death.",
+            "audio_src": "ศาลตัดสินประหารชีวิตฆาตกรต่อเนื่อง",
+            "audio_en_src": "The court sentenced the serial killer to death."
+          }
+        ]
+      }
     ]
   },
   {
@@ -258060,6 +258136,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "university graduate",
+        "sentences": [
+          {
+            "thai": "บัณฑิตจบใหม่หลายคนยังหางานไม่ได้",
+            "en": "Many new graduates still can't find jobs.",
+            "audio_src": "บัณฑิตจบใหม่หลายคนยังหางานไม่ได้",
+            "audio_en_src": "Many new graduates still can't find jobs."
+          },
+          {
+            "thai": "เธอเป็นบัณฑิตคนแรกของครอบครัว",
+            "en": "She's the first university graduate in her family.",
+            "audio_src": "เธอเป็นบัณฑิตคนแรกของครอบครัว",
+            "audio_en_src": "She's the first university graduate in her family."
+          }
+        ]
+      }
     ]
   },
   {
@@ -258236,6 +258331,42 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "axis",
+        "sentences": [
+          {
+            "thai": "โลกหมุนรอบแกนของตัวเองหนึ่งรอบต่อวัน",
+            "en": "The earth rotates on its axis once a day.",
+            "audio_src": "โลกหมุนรอบแกนของตัวเองหนึ่งรอบต่อวัน",
+            "audio_en_src": "The earth rotates on its axis once a day."
+          },
+          {
+            "thai": "เขาลากเส้นแกนตั้งและแกนนอนบนกราฟ",
+            "en": "He drew the vertical and horizontal axes on the graph.",
+            "audio_src": "เขาลากเส้นแกนตั้งและแกนนอนบนกราฟ",
+            "audio_en_src": "He drew the vertical and horizontal axes on the graph."
+          }
+        ]
+      },
+      {
+        "meaning": "core, center",
+        "sentences": [
+          {
+            "thai": "ต้องดึงแกนกลางของม้วนกระดาษออกก่อน",
+            "en": "You have to pull out the core of the paper roll first.",
+            "audio_src": "ต้องดึงแกนกลางของม้วนกระดาษออกก่อน",
+            "audio_en_src": "You have to pull out the core of the paper roll first."
+          },
+          {
+            "thai": "เขาเป็นแกนนำของกลุ่มผู้ประท้วง",
+            "en": "He's the core leader of the protest group.",
+            "audio_src": "เขาเป็นแกนนำของกลุ่มผู้ประท้วง",
+            "audio_en_src": "He's the core leader of the protest group."
+          }
+        ]
+      }
     ]
   },
   {
@@ -258380,6 +258511,42 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "radius",
+        "sentences": [
+          {
+            "thai": "วาดวงกลมที่มีรัศมีห้าเซนติเมตร",
+            "en": "Draw a circle with a radius of five centimeters.",
+            "audio_src": "วาดวงกลมที่มีรัศมีห้าเซนติเมตร",
+            "audio_en_src": "Draw a circle with a radius of five centimeters."
+          },
+          {
+            "thai": "สัญญาณกระจายครอบคลุมรัศมีสิบกิโลเมตร",
+            "en": "The signal covers a radius of ten kilometers.",
+            "audio_src": "สัญญาณกระจายครอบคลุมรัศมีสิบกิโลเมตร",
+            "audio_en_src": "The signal covers a radius of ten kilometers."
+          }
+        ]
+      },
+      {
+        "meaning": "(figuratively) ray of light, aura, radiance",
+        "sentences": [
+          {
+            "thai": "พระอาทิตย์สาดรัศมีทองยามเช้า",
+            "en": "The sun casts golden rays in the morning.",
+            "audio_src": "พระอาทิตย์สาดรัศมีทองยามเช้า",
+            "audio_en_src": "The sun casts golden rays in the morning."
+          },
+          {
+            "thai": "เธอมีรัศมีแห่งความสุขเปล่งออกมาจากใบหน้า",
+            "en": "She has a radiance of happiness glowing from her face.",
+            "audio_src": "เธอมีรัศมีแห่งความสุขเปล่งออกมาจากใบหน้า",
+            "audio_en_src": "She has a radiance of happiness glowing from her face."
+          }
+        ]
+      }
     ]
   },
   {
@@ -258475,6 +258642,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "Ministry of the Interior",
+        "sentences": [
+          {
+            "thai": "กระทรวงมหาดไทยดูแลงานปกครองท้องถิ่น",
+            "en": "The Ministry of the Interior oversees local administration.",
+            "audio_src": "กระทรวงมหาดไทยดูแลงานปกครองท้องถิ่น",
+            "audio_en_src": "The Ministry of the Interior oversees local administration."
+          },
+          {
+            "thai": "เขาทำงานเป็นข้าราชการสังกัดกระทรวงมหาดไทย",
+            "en": "He works as a civil servant under the Ministry of the Interior.",
+            "audio_src": "เขาทำงานเป็นข้าราชการสังกัดกระทรวงมหาดไทย",
+            "audio_en_src": "He works as a civil servant under the Ministry of the Interior."
+          }
+        ]
+      }
     ]
   },
   {
@@ -258572,6 +258758,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "public finance, treasury",
+        "sentences": [
+          {
+            "thai": "รัฐมนตรีว่าการกระทรวงการคลังแถลงนโยบายภาษี",
+            "en": "The finance minister announced the tax policy.",
+            "audio_src": "รัฐมนตรีว่าการกระทรวงการคลังแถลงนโยบายภาษี",
+            "audio_en_src": "The finance minister announced the tax policy."
+          },
+          {
+            "thai": "ประเทศมีปัญหาด้านการคลังจนต้องกู้เงิน",
+            "en": "The country has fiscal problems and had to borrow money.",
+            "audio_src": "ประเทศมีปัญหาด้านการคลังจนต้องกู้เงิน",
+            "audio_en_src": "The country has fiscal problems and had to borrow money."
+          }
+        ]
+      }
     ]
   },
   {
@@ -258842,6 +259047,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to scrutinize, to examine closely (formal)",
+        "sentences": [
+          {
+            "thai": "เขาพินิจภาพวาดอย่างละเอียดก่อนซื้อ",
+            "en": "He examined the painting closely before buying it.",
+            "audio_src": "เขาพินิจภาพวาดอย่างละเอียดก่อนซื้อ",
+            "audio_en_src": "He examined the painting closely before buying it."
+          },
+          {
+            "thai": "ผู้พิพากษาพินิจหลักฐานทุกชิ้นอย่างรอบคอบ",
+            "en": "The judge scrutinized every piece of evidence carefully.",
+            "audio_src": "ผู้พิพากษาพินิจหลักฐานทุกชิ้นอย่างรอบคอบ",
+            "audio_en_src": "The judge scrutinized every piece of evidence carefully."
+          }
+        ]
+      }
     ]
   },
   {

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8883 words**
+**Total: 8893 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8336,6 +8336,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-006` : วรรค (space (in a text), paragraph (in a legal section)) : 1 meaning(s), 2 sentences
 - `t4k-c03-007` : ผืน (classifier for thin cloth-like things (towel, blanket, mattress, sheet, etc) and land) : 1 meaning(s), 2 sentences
 - `t4k-c03-011` : กด (to press) : 1 meaning(s), 2 sentences
+- `t4k-c03-012` : ว่าความ (to handle a legal case (as a lawyer)) : 1 meaning(s), 2 sentences
 - `t4k-c03-014` : คิดเห็น (to think, to be of the opinion) : 1 meaning(s), 2 sentences
 - `t4k-c03-015` : ย้อนกลับ (to go back, to reverse) : 1 meaning(s), 2 sentences
 - `t4k-c03-016` : ล้อม (to surround, to encircle, to besiege) : 1 meaning(s), 2 sentences
@@ -8349,6 +8350,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c03-034` : หมายเลข (number) : 1 meaning(s), 2 sentences
 - `t4k-c03-036` : ผู้บริโภค (consumer) : 1 meaning(s), 2 sentences
 - `t4k-c03-037` : จัดทำ (to prepare, to produce (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c03-039` : การลงทุน (investment) : 1 meaning(s), 2 sentences
 - `t4k-c03-040` : ผู้แทน (representative, delegate) : 1 meaning(s), 2 sentences
 - `t4k-c03-041` : เตรียมตัว (to prepare oneself, to get ready) : 1 meaning(s), 2 sentences
 - `t4k-c03-043` : การเลือกตั้ง (election) : 1 meaning(s), 2 sentences
@@ -8386,6 +8388,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-009` : ต่างชาติ (foreign, of another nationality) : 1 meaning(s), 2 sentences
 - `t4k-c04-010` : ทั้งคู่ (both) : 1 meaning(s), 2 sentences
 - `t4k-c04-015` : แก่น (core, kernel, essence) : 1 meaning(s), 2 sentences
+- `t4k-c04-016` : ความกลัว (fear) : 1 meaning(s), 2 sentences
 - `t4k-c04-017` : อย่างเช่น (such as, for example) : 1 meaning(s), 2 sentences
 - `t4k-c04-022` : ภาคภูมิใจ (proud) : 1 meaning(s), 2 sentences
 - `t4k-c04-023` : นางเอก (female lead, heroine) : 1 meaning(s), 2 sentences
@@ -8422,6 +8425,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c04-074` : นายก (prime minister) : 1 meaning(s), 2 sentences
 - `t4k-c04-075` : สูญ (lost, gone, disappeared) : 1 meaning(s), 2 sentences
 - `t4k-c04-078` : ปัน (to share, to divide) : 1 meaning(s), 2 sentences
+- `t4k-c04-079` : ประหาร (to execute, to put to death) : 1 meaning(s), 2 sentences
 - `t4k-c04-082` : ยุติ (to terminate, to resolve, to settle (e.g a conflict, a case)) : 1 meaning(s), 2 sentences
 - `t4k-c04-083` : คณะรัฐมนตรี (cabinet, Council of Ministers) : 1 meaning(s), 2 sentences
 - `t4k-c04-084` : เป็นอย่างยิ่ง (extremely, very much, a lot) : 1 meaning(s), 2 sentences
@@ -8439,21 +8443,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-003` : สะดุด (to stumble, to trip; (figuratively) to be disrupted, to be interrupted) : 2 meaning(s), 4 sentences
 - `t4k-c05-004` : เมื่อใด (when, whenever (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-005` : ฟู (fluffy, puffed up (e.g hair, face)) : 1 meaning(s), 2 sentences
+- `t4k-c05-006` : บัณฑิต (university graduate) : 1 meaning(s), 2 sentences
 - `t4k-c05-007` : ข้อสังเกต (observation, remark) : 1 meaning(s), 2 sentences
 - `t4k-c05-009` : บาร์ (bar) : 1 meaning(s), 2 sentences
 - `t4k-c05-013` : ชั้นใน (underwear; inner layer, inner part) : 2 meaning(s), 4 sentences
 - `t4k-c05-015` : ผู้ช่วย (assistant) : 1 meaning(s), 2 sentences
 - `t4k-c05-018` : ก๊าซ (gas) : 1 meaning(s), 2 sentences
+- `t4k-c05-021` : แกน (axis; core, center) : 2 meaning(s), 4 sentences
 - `t4k-c05-022` : มวล (mass, bulk) : 1 meaning(s), 2 sentences
 - `t4k-c05-023` : ตัวเรา (ourselves; oneself) : 2 meaning(s), 4 sentences
 - `t4k-c05-024` : สังกัด (to belong to, to be affiliated with (e.g organization, institution)) : 1 meaning(s), 2 sentences
 - `t4k-c05-025` : ซับ (to absorb (e.g liquid), to wipe) : 1 meaning(s), 2 sentences
+- `t4k-c05-026` : รัศมี (radius; (figuratively) ray of light, aura, radiance) : 2 meaning(s), 4 sentences
 - `t4k-c05-031` : ขบวนการ (movement, organization) : 1 meaning(s), 2 sentences
 - `t4k-c05-032` : อาญา (criminal, penal) : 1 meaning(s), 2 sentences
 - `t4k-c05-033` : เชื่อถือ (to trust, to consider reliable (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c05-037` : มหาดไทย (Ministry of the Interior) : 1 meaning(s), 2 sentences
 - `t4k-c05-038` : ประหลาด (strange, odd, unusual) : 1 meaning(s), 2 sentences
 - `t4k-c05-040` : มึง (you (slang, rude)) : 1 meaning(s), 2 sentences
 - `t4k-c05-041` : ข่าย ((figuratively) range, scope) : 1 meaning(s), 2 sentences
+- `t4k-c05-042` : การคลัง (public finance, treasury) : 1 meaning(s), 2 sentences
 - `t4k-c05-045` : สภาพแวดล้อม (environment, surrounding conditions (social, economic, etc)) : 1 meaning(s), 2 sentences
 - `t4k-c05-046` : โชค (luck) : 1 meaning(s), 2 sentences
 - `t4k-c05-047` : คนรัก (lover, romantic partner) : 1 meaning(s), 2 sentences
@@ -8463,6 +8472,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c05-052` : เชี่ยวชาญ (skilled, proficient, expert in, specialized in) : 1 meaning(s), 2 sentences
 - `t4k-c05-053` : ประมวล (to compile, to summarize, to collect (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-057` : ทางเดิน (walkway, footpath) : 1 meaning(s), 2 sentences
+- `t4k-c05-062` : พินิจ (to scrutinize, to examine closely (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c05-063` : กลับกลายเป็น (to turn into, to become) : 1 meaning(s), 2 sentences
 - `t4k-c05-064` : ปลัด (senior administrative officer (e.g head official under a minister)) : 1 meaning(s), 2 sentences
 - `t4k-c05-065` : ของเก่า (old things, antique, second-hand) : 1 meaning(s), 2 sentences
