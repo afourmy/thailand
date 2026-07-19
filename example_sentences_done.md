@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8334 words**
+**Total: 8344 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5144,20 +5144,30 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c07-061` : สนั่น (loud noise, resonating sound, loudly) : 1 meaning(s), 2 sentences
 - `yt-c07-062` : ควบคู่ (in tandem, side by side, together with, to go together) : 1 meaning(s), 2 sentences
 - `yt-c07-063` : เชื่อมโยง (to associate, to connect, to link (e.g something abstract, idea, relations)) : 1 meaning(s), 2 sentences
+- `yt-c07-064` : การขัดขวาง (obstruction, interference) : 1 meaning(s), 2 sentences
+- `yt-c07-066` : ม้านั่งออกกำลังกาย (workout bench) : 1 meaning(s), 2 sentences
 - `yt-c07-067` : กระสอบ (sack, bag (e.g made of sand for training, etc)) : 1 meaning(s), 2 sentences
+- `yt-c07-068` : ตามอัธยาศัย (as you please, according to your own preference) : 1 meaning(s), 2 sentences
+- `yt-c07-069` : ร่อง (groove, channel) : 1 meaning(s), 2 sentences
 - `yt-c07-070` : สี (color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)) : 4 meaning(s), 8 sentences
 - `yt-c07-071` : ดีด สี ตี เป่า (the four types of musical instruments (pluck, bow, strike, blow)) : 1 meaning(s), 2 sentences
 - `yt-c07-073` : เร่งรีบ (rushed, in a hurry, hastily) : 1 meaning(s), 2 sentences
 - `yt-c07-074` : ซึง, สะล้อ, พิณเพียะ (stringed musical instruments (north of Thailand)) : 1 meaning(s), 3 sentences
+- `yt-c07-075` : บรรเลง (to perform music, to play musical instrument (often traditional or classical)) : 1 meaning(s), 2 sentences
 - `yt-c07-076` : ประกอบกัน (to combine, to be put together) : 1 meaning(s), 2 sentences
 - `yt-c07-077` : ขลุ่ยเมือง (sort of flute (north of Thailand)) : 1 meaning(s), 2 sentences
 - `yt-c07-078` : แคน, โหวด, ปี่ภูไท (wind musical instruments made of bamboo pipes (from Issan - Laos)) : 1 meaning(s), 3 sentences
 - `yt-c07-079` : พิณ (stringed musical instrument, similar to a lute) : 1 meaning(s), 2 sentences
+- `yt-c07-080` : ถิ่นฐาน (homeland, settlement area) : 1 meaning(s), 2 sentences
+- `yt-c07-081` : ปี่ (flute) : 1 meaning(s), 2 sentences
 - `yt-c07-082` : ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน (upper class - middle class - working class) : 1 meaning(s), 2 sentences
+- `yt-c07-083` : สืบสาน (to preserve and pass on, to inherit and carry on (e.g tradition, culture, legacy)) : 1 meaning(s), 2 sentences
 - `yt-c07-084` : จะเข้ (traditional musical instrument, looks like a big guitar laid on the ground) : 1 meaning(s), 2 sentences
 - `yt-c07-085` : ซอ (Thai traditional instrument (sort of fiddle)) : 1 meaning(s), 2 sentences
 - `yt-c07-086` : ครอบครู (traditional thai ceremony where Thai students pay respect to the teacher) : 1 meaning(s), 2 sentences
+- `yt-c07-087` : ระนาด (Thai xylophone) : 1 meaning(s), 2 sentences
 - `yt-c07-088` : อนุสาวรีย์ (monument, memorial) : 1 meaning(s), 2 sentences
+- `yt-c07-089` : กระท่อม (hut, cottage) : 1 meaning(s), 2 sentences
 - `yt-c07-092` : ขี้เกลือ (sweat stain (salt residue on cloth from sweating)) : 1 meaning(s), 2 sentences
 - `yt-c07-093` : ถอนฟัน (to extract a tooth) : 1 meaning(s), 2 sentences
 - `yt-c07-094` : ความวัวไม่ทันหาย ความควายก็เข้ามาแทรก (before one problem is over, another problem comes (literally "before the cow matter has disappeared, the buffalo matter comes in")) : 1 meaning(s), 1 sentences
