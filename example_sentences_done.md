@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8374 words**
+**Total: 8384 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5263,12 +5263,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-094` : สีคราม (indigo, deep blue) : 1 meaning(s), 2 sentences
 - `yt-c08-096` : เคราะห์ (misfortune, bad luck) : 1 meaning(s), 2 sentences
 - `yt-c08-097` : สุนทรภู่ (most famous thai writer) : 1 meaning(s), 2 sentences
+- `yt-c08-098` : กลอน, บทกลอน (verse, poem) : 1 meaning(s), 2 sentences
 - `yt-c08-099` : กาลกิณี (bad omen, source of misfortune) : 1 meaning(s), 2 sentences
+- `yt-c09-000` : ไว้ทุกข์ (to mourn) : 1 meaning(s), 2 sentences
 - `yt-c09-001` : ข้าราชการ (civil servant (employee of the state)) : 1 meaning(s), 2 sentences
+- `yt-c09-002` : อีสุกอีใส (chickenpox) : 1 meaning(s), 2 sentences
 - `yt-c09-003` : ตอนเนี้ย (right now, at this moment (informal, colloquial)) : 1 meaning(s), 2 sentences
+- `yt-c09-004` : เบื้องลึกเบื้องหลัง (behind the scenes, the hidden details) : 1 meaning(s), 2 sentences
+- `yt-c09-005` : ความเป็นตัวเองสูง (strong sense of self, highly independent) : 1 meaning(s), 2 sentences
 - `yt-c09-006` : การทุ่มเท (dedication, devotion) : 1 meaning(s), 2 sentences
+- `yt-c09-007` : หึงหวง (jealous, possessive) : 1 meaning(s), 2 sentences
 - `yt-c09-008` : อคติ (prejudice, bias) : 1 meaning(s), 2 sentences
+- `yt-c09-009` : ไม่ตรงปก (not what was expected, disappointing (literally "doesn't match the cover")) : 1 meaning(s), 2 sentences
+- `yt-c09-010` : อวดรวย (to show off your wealth) : 1 meaning(s), 2 sentences
 - `yt-c09-011` : ดั้งเดิม (original, traditional, authentic) : 1 meaning(s), 2 sentences
+- `yt-c09-012` : จารีต (custom, deep-rooted traditional norm) : 1 meaning(s), 2 sentences
+- `yt-c09-013` : ศีล (moral precept (Buddhism)) : 1 meaning(s), 2 sentences
 - `yt-c09-014` : จี่ (to roast, to grill (Isan way)) : 1 meaning(s), 2 sentences
 - `yt-c09-019` : ใบตองกล้วย (banana leaf) : 1 meaning(s), 2 sentences
 - `yt-c09-022` : ตะขาบ (centipede) : 1 meaning(s), 2 sentences

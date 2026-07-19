@@ -161248,6 +161248,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "verse, poem",
+        "sentences": [
+          {
+            "thai": "เขาแต่งกลอนให้แฟนวันวาเลนไทน์",
+            "en": "He wrote a poem for his girlfriend on Valentine's Day.",
+            "audio_src": "เขาแต่งกลอนให้แฟนวันวาเลนไทน์",
+            "audio_en_src": "He wrote a poem for his girlfriend on Valentine's Day."
+          },
+          {
+            "thai": "นักเรียนท่องบทกลอนหน้าชั้น",
+            "en": "The students recited a poem in front of the class.",
+            "audio_src": "นักเรียนท่องบทกลอนหน้าชั้น",
+            "audio_en_src": "The students recited a poem in front of the class."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161285,6 +161304,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to mourn",
+        "sentences": [
+          {
+            "thai": "ครอบครัวใส่ชุดดำไว้ทุกข์",
+            "en": "The family wears black in mourning.",
+            "audio_src": "ครอบครัวใส่ชุดดำไว้ทุกข์",
+            "audio_en_src": "The family wears black in mourning."
+          },
+          {
+            "thai": "เขาไว้ทุกข์ให้พ่อครบร้อยวัน",
+            "en": "He mourned his father for the full hundred days.",
+            "audio_src": "เขาไว้ทุกข์ให้พ่อครบร้อยวัน",
+            "audio_en_src": "He mourned his father for the full hundred days."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161324,6 +161362,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "chickenpox",
+        "sentences": [
+          {
+            "thai": "ลูกเป็นอีสุกอีใส หยุดเรียนหนึ่งอาทิตย์",
+            "en": "The kid has chickenpox and is out of school for a week.",
+            "audio_src": "ลูกเป็นอีสุกอีใส หยุดเรียนหนึ่งอาทิตย์",
+            "audio_en_src": "The kid has chickenpox and is out of school for a week."
+          },
+          {
+            "thai": "อีสุกอีใสห้ามแกะตุ่ม เดี๋ยวเป็นแผลเป็น",
+            "en": "With chickenpox, don't pick at the blisters or they'll scar.",
+            "audio_src": "อีสุกอีใสห้ามแกะตุ่ม เดี๋ยวเป็นแผลเป็น",
+            "audio_en_src": "With chickenpox, don't pick at the blisters or they'll scar."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161361,6 +161418,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "behind the scenes, the hidden details",
+        "sentences": [
+          {
+            "thai": "สารคดีเผยเบื้องลึกเบื้องหลังของวงการบันเทิง",
+            "en": "The documentary reveals the hidden side of the entertainment industry.",
+            "audio_src": "สารคดีเผยเบื้องลึกเบื้องหลังของวงการบันเทิง",
+            "audio_en_src": "The documentary reveals the hidden side of the entertainment industry."
+          },
+          {
+            "thai": "ไม่มีใครรู้เบื้องลึกเบื้องหลังของดีลนี้",
+            "en": "No one knows what really went on behind this deal.",
+            "audio_src": "ไม่มีใครรู้เบื้องลึกเบื้องหลังของดีลนี้",
+            "audio_en_src": "No one knows what really went on behind this deal."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161370,6 +161446,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "strong sense of self, highly independent",
+        "sentences": [
+          {
+            "thai": "เธอมีความเป็นตัวเองสูง ไม่ตามใคร",
+            "en": "She has a strong sense of self, she doesn't follow anyone.",
+            "audio_src": "เธอมีความเป็นตัวเองสูง ไม่ตามใคร",
+            "audio_en_src": "She has a strong sense of self, she doesn't follow anyone."
+          },
+          {
+            "thai": "คนมีความเป็นตัวเองสูงทำงานกลุ่มยากหน่อย",
+            "en": "Highly independent people find group work a bit hard.",
+            "audio_src": "คนมีความเป็นตัวเองสูงทำงานกลุ่มยากหน่อย",
+            "audio_en_src": "Highly independent people find group work a bit hard."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161407,6 +161502,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "jealous, possessive",
+        "sentences": [
+          {
+            "thai": "แฟนเขาหึงหวงมาก ห้ามคุยกับใคร",
+            "en": "His girlfriend is really possessive, he can't talk to anyone.",
+            "audio_src": "แฟนเขาหึงหวงมาก ห้ามคุยกับใคร",
+            "audio_en_src": "His girlfriend is really possessive, he can't talk to anyone."
+          },
+          {
+            "thai": "หึงหวงนิดหน่อยก็น่ารักดี",
+            "en": "A little jealousy is kind of cute.",
+            "audio_src": "หึงหวงนิดหน่อยก็น่ารักดี",
+            "audio_en_src": "A little jealousy is kind of cute."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161447,6 +161561,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "not what was expected, disappointing (literally \"doesn't match the cover\")",
+        "sentences": [
+          {
+            "thai": "สั่งของออนไลน์มา ไม่ตรงปกเลย",
+            "en": "I ordered it online and it's nothing like the pictures.",
+            "audio_src": "สั่งของออนไลน์มา ไม่ตรงปกเลย",
+            "audio_en_src": "I ordered it online and it's nothing like the pictures."
+          },
+          {
+            "thai": "โรงแรมไม่ตรงปก รูปสวยกว่าของจริงเยอะ",
+            "en": "The hotel wasn't as advertised, the photos looked way better than reality.",
+            "audio_src": "โรงแรมไม่ตรงปก รูปสวยกว่าของจริงเยอะ",
+            "audio_en_src": "The hotel wasn't as advertised, the photos looked way better than reality."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161456,6 +161589,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to show off your wealth",
+        "sentences": [
+          {
+            "thai": "เขาชอบอวดรวยลงโซเชียล",
+            "en": "He loves flaunting his wealth on social media.",
+            "audio_src": "เขาชอบอวดรวยลงโซเชียล",
+            "audio_en_src": "He loves flaunting his wealth on social media."
+          },
+          {
+            "thai": "ซื้อรถหรูมาอวดรวยเพื่อนบ้าน",
+            "en": "He bought a luxury car to show off to the neighbors.",
+            "audio_src": "ซื้อรถหรูมาอวดรวยเพื่อนบ้าน",
+            "audio_en_src": "He bought a luxury car to show off to the neighbors."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161496,6 +161648,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "custom, deep-rooted traditional norm",
+        "sentences": [
+          {
+            "thai": "จารีตบางอย่างขัดกับกฎหมายสมัยใหม่",
+            "en": "Some traditional customs conflict with modern law.",
+            "audio_src": "จารีตบางอย่างขัดกับกฎหมายสมัยใหม่",
+            "audio_en_src": "Some traditional customs conflict with modern law."
+          },
+          {
+            "thai": "หมู่บ้านนี้ยังยึดจารีตดั้งเดิมอยู่",
+            "en": "This village still holds to its old customs.",
+            "audio_src": "หมู่บ้านนี้ยังยึดจารีตดั้งเดิมอยู่",
+            "audio_en_src": "This village still holds to its old customs."
+          }
+        ]
+      }
     ]
   },
   {
@@ -161507,6 +161678,25 @@
       "YouTube",
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "moral precept (Buddhism)",
+        "sentences": [
+          {
+            "thai": "ชาวพุทธถือศีลห้า",
+            "en": "Buddhists keep the five precepts.",
+            "audio_src": "ชาวพุทธถือศีลห้า",
+            "audio_en_src": "Buddhists keep the five precepts."
+          },
+          {
+            "thai": "วันพระเขาไปรักษาศีลที่วัด",
+            "en": "On holy days she goes to the temple to observe the precepts.",
+            "audio_src": "วันพระเขาไปรักษาศีลที่วัด",
+            "audio_en_src": "On holy days she goes to the temple to observe the precepts."
+          }
+        ]
+      }
     ]
   },
   {
