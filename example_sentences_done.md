@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8564 words**
+**Total: 8574 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5757,15 +5757,25 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-024` : ห้องรับรอง (reception room) : 1 meaning(s), 2 sentences
 - `yt-c14-025` : เช่าช่วง (to sublease (usually forbidden in Thailand)) : 1 meaning(s), 2 sentences
 - `yt-c14-026` : ตรวจคนเข้าเมือง (ตม.) (immigration (e.g department, office)) : 1 meaning(s), 2 sentences
+- `yt-c14-027` : ปะติดปะต่อ (to piece together, to figure something out by combining information) : 1 meaning(s), 2 sentences
+- `yt-c14-028` : ชิงช้าสวรรค์ (ferris wheel (literally "swing of heaven")) : 1 meaning(s), 2 sentences
 - `yt-c14-029` : หัวเข่า (knee cap (front part of the knee)) : 1 meaning(s), 2 sentences
 - `yt-c14-030` : ซุ่มซ่าม (clumsy (usually physical clumsiness i.e prone to accidents or dropping things)) : 1 meaning(s), 2 sentences
+- `yt-c14-031` : ขี้เซา (someone who sleeps a lot, is hard to wake up) : 1 meaning(s), 2 sentences
+- `yt-c14-032` : ขี้โม้ (boastful, someone who likes to brag about themselves, exaggerates their stories) : 1 meaning(s), 2 sentences
 - `yt-c14-033` : คนธรรมะธรรมโม (a very religious person, someone who constantly practices Buddhist teachings (sometimes used ironically)) : 1 meaning(s), 2 sentences
+- `yt-c14-034` : น้ำป่าไหลหลาก (flash flood, sudden torrent of water from the forest) : 1 meaning(s), 2 sentences
 - `yt-c14-035` : ถล่ม (to collapse, to crash, to fall down violently; to destroy, to attack with force) : 2 meaning(s), 4 sentences
+- `yt-c14-036` : อุทกภัย (flood disaster, inundation) : 1 meaning(s), 2 sentences
 - `yt-c14-037` : ฝาย (check dam (small barrier across a stream to slow water flow)) : 1 meaning(s), 2 sentences
+- `yt-c14-038` : เยียวยา (to heal, to remedy, to provide relief (e.g medical, government compensation, etc)) : 1 meaning(s), 2 sentences
 - `yt-c14-039` : วาตภัย (wind-related disasters (e.g tornadoes, cyclones, etc)) : 1 meaning(s), 2 sentences
 - `yt-c14-040` : ซ้ำซาก (repetitive and dull, occurring again and again until it becomes boring, monotonous, tiresome) : 1 meaning(s), 2 sentences
+- `yt-c14-041` : ดินโคลนถล่ม (mudslide, landslide) : 1 meaning(s), 2 sentences
 - `yt-c14-042` : ชาวไร่ (farmer (who farms in a rai i.e dry crops like corn, not rice field)) : 1 meaning(s), 2 sentences
 - `yt-c14-043` : ทำนา - ทำไร่ - ทำสวน (to do rice farming - to do dry crops farming - to do garden work) : 1 meaning(s), 3 sentences
+- `yt-c14-044` : น่าเกรงขาม ((person) worthy of awe and respect, commanding respect, formidable and intimidating) : 1 meaning(s), 2 sentences
+- `yt-c14-045` : ปลาหมอคางดำ ((type of fish) blackchin tilapia (very resistant, invasive species, can survive in the brackish water of Bangkok canals)) : 1 meaning(s), 2 sentences
 - `yt-c14-051` : สาธุ (said after someone does a good deed, makes a merit, or recites a prayer ("amen", "may it be blessed")) : 1 meaning(s), 2 sentences
 - `yt-c14-052` : หอน (to howl (the sound a wolf or dog makes)) : 1 meaning(s), 2 sentences
 - `yt-c14-053` : โลง, โลงศพ (coffin) : 1 meaning(s), 2 sentences
