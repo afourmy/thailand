@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8364 words**
+**Total: 8374 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5233,8 +5233,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-060` : กระชาก (to snatch (pull quickly, for example while stealing necklace)) : 1 meaning(s), 2 sentences
 - `yt-c08-061` : เก็ง (to speculate, to predict) : 1 meaning(s), 2 sentences
 - `yt-c08-062` : ทองรูปพรรณ (gold jewelry, gold crafted into necklace, ring, etc) : 1 meaning(s), 2 sentences
+- `yt-c08-064` : กร่อน (to corrode, to erode, to wear away) : 1 meaning(s), 2 sentences
 - `yt-c08-065` : ค่าดำเนินการ (processing fee, administrative fee) : 1 meaning(s), 2 sentences
+- `yt-c08-066` : ไหล่ทาง (road shoulder (the road where cars stop in an emergency)) : 1 meaning(s), 2 sentences
 - `yt-c08-067` : บีบแตร (to honk) : 1 meaning(s), 2 sentences
+- `yt-c08-068` : จี้ตูด (to tailgate (to drive very close to vehicle in front)) : 1 meaning(s), 2 sentences
 - `yt-c08-069` : เดือดร้อน (to be in trouble, to be in difficulty) : 1 meaning(s), 2 sentences
 - `yt-c08-071` : ตั้งด่าน (to set up a checkpoint (police, military)) : 1 meaning(s), 2 sentences
 - `yt-c08-073` : แสบตา (stinging eyes, burning eyes) : 1 meaning(s), 2 sentences
@@ -5243,15 +5246,22 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c08-076` : เสาวรส (passion fruit) : 1 meaning(s), 2 sentences
 - `yt-c08-077` : ใบรับรองแพทย์ (medical certificate) : 1 meaning(s), 2 sentences
 - `yt-c08-078` : สำเนา (a copy (of a document, e.g passport, certificate, etc)) : 1 meaning(s), 2 sentences
+- `yt-c08-079` : สมรรถภาพ (capacity, ability) : 1 meaning(s), 2 sentences
 - `yt-c08-081` : น้ำข้น (thick soup (e.g cream-based, not watery)) : 1 meaning(s), 2 sentences
 - `yt-c08-082` : ที่คีบอาหาร (food tongs (ustensil for picking food in buffet)) : 1 meaning(s), 2 sentences
+- `yt-c08-083` : ทัพพี, กระบวย (ladle) : 1 meaning(s), 2 sentences
 - `yt-c08-084` : ดาว, ดวงดาว (star) : 1 meaning(s), 2 sentences
 - `yt-c08-085` : บด (to crush, to mash) : 1 meaning(s), 2 sentences
 - `yt-c08-086` : น้ำอมฤต (ambrosia, divine drink that grants immortality) : 1 meaning(s), 2 sentences
 - `new-32` : น้ำมนต์ (holy water (blessed by monks)) : 1 meaning(s), 2 sentences
+- `yt-c08-087` : สีเหลืองนวล (soft, light yellow) : 1 meaning(s), 2 sentences
+- `yt-c08-088` : กระบือ (buffalo) : 1 meaning(s), 2 sentences
 - `yt-c08-090` : แจ่ม (bright, clear, radiant, excellent) : 1 meaning(s), 2 sentences
 - `yt-c08-091` : คชสาร (elephant (formal, literary word)) : 1 meaning(s), 2 sentences
+- `yt-c08-092` : ร่ายเวท (to cast a spell) : 1 meaning(s), 2 sentences
 - `yt-c08-093` : โค (cow, bull (literary)) : 1 meaning(s), 2 sentences
+- `yt-c08-094` : สีคราม (indigo, deep blue) : 1 meaning(s), 2 sentences
+- `yt-c08-096` : เคราะห์ (misfortune, bad luck) : 1 meaning(s), 2 sentences
 - `yt-c08-097` : สุนทรภู่ (most famous thai writer) : 1 meaning(s), 2 sentences
 - `yt-c08-099` : กาลกิณี (bad omen, source of misfortune) : 1 meaning(s), 2 sentences
 - `yt-c09-001` : ข้าราชการ (civil servant (employee of the state)) : 1 meaning(s), 2 sentences
