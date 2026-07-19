@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8444 words**
+**Total: 8454 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5417,10 +5417,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-063` : สายตาสั้น (myopia) : 1 meaning(s), 2 sentences
 - `yt-c10-064` : สายตายาว (far-sighted) : 1 meaning(s), 2 sentences
 - `yt-c10-067` : พวง (cluster, bunch) : 1 meaning(s), 2 sentences
+- `yt-c10-069` : เสน่หา (affection, love, romantic attraction) : 1 meaning(s), 2 sentences
+- `yt-c10-070` : สรรพากร (Revenue Department (tax authority)) : 1 meaning(s), 2 sentences
+- `yt-c10-071` : เกิดบนกองเงินกองทอง (born into wealth (literally "born on a pile of gold and silver")) : 1 meaning(s), 2 sentences
 - `yt-c10-072` : โฉนดที่ดิน (land title deed) : 1 meaning(s), 2 sentences
 - `yt-c10-074` : ลิเก (traditional Thai folk theater) : 1 meaning(s), 2 sentences
 - `yt-c10-075` : แม่ยก (female patron, benefactor in the context of Thai folk theater) : 1 meaning(s), 2 sentences
 - `yt-c10-077` : คลั่งรัก (crazy in love) : 1 meaning(s), 2 sentences
+- `yt-c10-078` : คล้องคอ (to hang around the neck, to wear something around the neck) : 1 meaning(s), 2 sentences
+- `yt-c10-079` : โดนตก (to be hooked on something, to be swept in (slang)) : 1 meaning(s), 2 sentences
+- `yt-c10-080` : ดอกดาวเรือง (marigold flower) : 1 meaning(s), 2 sentences
 - `yt-c10-081` : ร่มเงา (shade, shadow, umbrage) : 1 meaning(s), 2 sentences
 - `yt-c10-082` : เช้ามืด (very early morning (3am - 5am)) : 1 meaning(s), 2 sentences
 - `yt-c10-083` : เช้าตรู่ (early morning (5am - 6am)) : 1 meaning(s), 2 sentences
@@ -5429,6 +5435,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-086` : หลอก - ลวง - หลอกลวง (to trick, to fool, to pretend - to deceive, to lure - to scam, to defraud, to deceive) : 1 meaning(s), 3 sentences
 - `yt-c10-087` : แง่ - มุม - แง่มุม (aspect - angle, viewpoint - point of view, perspective) : 1 meaning(s), 3 sentences
 - `yt-c10-088` : มิจฉาชีพ (scammer, fraudster (criminal trying to make money illegally)) : 1 meaning(s), 2 sentences
+- `yt-c10-089` : ใจบาง (soft-hearted, easily moved, affected (literally "thin-hearted")) : 1 meaning(s), 2 sentences
+- `yt-c10-090` : ลงสนาม (to enter the field, to take part in a competition (e.g in love)) : 1 meaning(s), 2 sentences
+- `yt-c10-092` : เล็ม (to trim lightly, to clip a little bit, to nibble, to eat bit by bit) : 1 meaning(s), 2 sentences
+- `yt-c10-093` : รากศัพท์ (etymology, root of a word) : 1 meaning(s), 2 sentences
 - `yt-c10-098` : สายเลือด (bloodline, lineage) : 1 meaning(s), 2 sentences
 - `yt-c11-000` : น็อคไป (to be knocked out, to pass out (lose consciousness, usually in a fight)) : 1 meaning(s), 2 sentences
 - `yt-c11-001` : อย่าไปยอม ("don't give in", "don't submit") : 1 meaning(s), 2 sentences
