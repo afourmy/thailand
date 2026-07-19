@@ -155631,6 +155631,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to eat something small to prevent hunger until next meal, to have a snack",
+        "sentences": [
+          {
+            "thai": "กินขนมปังรองท้องก่อน เดี๋ยวข้าวเสร็จ",
+            "en": "Have some bread to tide you over, food's almost ready.",
+            "audio_src": "กินขนมปังรองท้องก่อน เดี๋ยวข้าวเสร็จ",
+            "audio_en_src": "Have some bread to tide you over, food's almost ready."
+          },
+          {
+            "thai": "ก่อนวิ่งควรกินรองท้องนิดหน่อย",
+            "en": "Before a run, you should have a light bite.",
+            "audio_src": "ก่อนวิ่งควรกินรองท้องนิดหน่อย",
+            "audio_en_src": "Before a run, you should have a light bite."
+          }
+        ]
+      }
     ]
   },
   {
@@ -155752,6 +155771,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "royal cuisine, food beautifully prepared and presented (literally \"palace food\")",
+        "sentences": [
+          {
+            "thai": "ร้านนี้เสิร์ฟอาหารชาววังหน้าตาสวยมาก",
+            "en": "This restaurant serves beautifully presented royal cuisine.",
+            "audio_src": "ร้านนี้เสิร์ฟอาหารชาววังหน้าตาสวยมาก",
+            "audio_en_src": "This restaurant serves beautifully presented royal cuisine."
+          },
+          {
+            "thai": "แกะสลักผักเป็นศิลปะของอาหารชาววัง",
+            "en": "Vegetable carving is part of the art of royal cuisine.",
+            "audio_src": "แกะสลักผักเป็นศิลปะของอาหารชาววัง",
+            "audio_en_src": "Vegetable carving is part of the art of royal cuisine."
+          }
+        ]
+      }
     ]
   },
   {
@@ -155876,6 +155914,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "alms bowl (carried by monks to gather donations)",
+        "sentences": [
+          {
+            "thai": "ชาวบ้านใส่ข้าวลงในบาตรพระ",
+            "en": "Villagers put rice into the monks' alms bowls.",
+            "audio_src": "ชาวบ้านใส่ข้าวลงในบาตรพระ",
+            "audio_en_src": "Villagers put rice into the monks' alms bowls."
+          },
+          {
+            "thai": "พระถือบาตรเดินเรียงแถวตอนเช้า",
+            "en": "Monks walk in line carrying their alms bowls in the morning.",
+            "audio_src": "พระถือบาตรเดินเรียงแถวตอนเช้า",
+            "audio_en_src": "Monks walk in line carrying their alms bowls in the morning."
+          }
+        ]
+      }
     ]
   },
   {
@@ -155885,6 +155942,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "Buddhist altar set (made of tiered table used for worshiping Buddha image)",
+        "sentences": [
+          {
+            "thai": "บ้านคนไทยหลายบ้านมีโต๊ะหมู่บูชา",
+            "en": "Many Thai homes have a Buddhist altar.",
+            "audio_src": "บ้านคนไทยหลายบ้านมีโต๊ะหมู่บูชา",
+            "audio_en_src": "Many Thai homes have a Buddhist altar."
+          },
+          {
+            "thai": "จัดโต๊ะหมู่บูชาไว้ในห้องพระ",
+            "en": "The altar set is arranged in the prayer room.",
+            "audio_src": "จัดโต๊ะหมู่บูชาไว้ในห้องพระ",
+            "audio_en_src": "The altar set is arranged in the prayer room."
+          }
+        ]
+      }
     ]
   },
   {
@@ -155924,6 +156000,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "candlestick",
+        "sentences": [
+          {
+            "thai": "วางเทียนบนเชิงเทียนทองเหลือง",
+            "en": "Place the candles on the brass candlesticks.",
+            "audio_src": "วางเทียนบนเชิงเทียนทองเหลือง",
+            "audio_en_src": "Place the candles on the brass candlesticks."
+          },
+          {
+            "thai": "เชิงเทียนคู่นี้เป็นของเก่าจากรุ่นยาย",
+            "en": "This pair of candlesticks is an antique from Grandma's generation.",
+            "audio_src": "เชิงเทียนคู่นี้เป็นของเก่าจากรุ่นยาย",
+            "audio_en_src": "This pair of candlesticks is an antique from Grandma's generation."
+          }
+        ]
+      }
     ]
   },
   {
@@ -155933,6 +156028,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to sit cross-legged in meditation posture",
+        "sentences": [
+          {
+            "thai": "นั่งขัดสมาธิหลับตาแล้วตามลมหายใจ",
+            "en": "Sit cross-legged, close your eyes, and follow your breath.",
+            "audio_src": "นั่งขัดสมาธิหลับตาแล้วตามลมหายใจ",
+            "audio_en_src": "Sit cross-legged, close your eyes, and follow your breath."
+          },
+          {
+            "thai": "เขานั่งขัดสมาธินานจนขาชา",
+            "en": "He sat cross-legged so long his legs went numb.",
+            "audio_src": "เขานั่งขัดสมาธินานจนขาชา",
+            "audio_en_src": "He sat cross-legged so long his legs went numb."
+          }
+        ]
+      }
     ]
   },
   {
@@ -155942,6 +156056,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "to sit on the floor with both legs folded on one side (how girls should sit in a temple)",
+        "sentences": [
+          {
+            "thai": "ในวัดผู้หญิงต้องนั่งพับเพียบ",
+            "en": "In the temple, women sit with their legs folded to one side.",
+            "audio_src": "ในวัดผู้หญิงต้องนั่งพับเพียบ",
+            "audio_en_src": "In the temple, women sit with their legs folded to one side."
+          },
+          {
+            "thai": "นั่งพับเพียบนานๆแล้วเมื่อย",
+            "en": "Sitting with your legs folded to one side gets tiring after a while.",
+            "audio_src": "นั่งพับเพียบนานๆแล้วเมื่อย",
+            "audio_en_src": "Sitting with your legs folded to one side gets tiring after a while."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156007,6 +156140,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "utility, practical use",
+        "sentences": [
+          {
+            "thai": "เฟอร์นิเจอร์ชิ้นนี้เน้นประโยชน์ใช้สอยมากกว่าความสวย",
+            "en": "This furniture is about practicality more than looks.",
+            "audio_src": "เฟอร์นิเจอร์ชิ้นนี้เน้นประโยชน์ใช้สอยมากกว่าความสวย",
+            "audio_en_src": "This furniture is about practicality more than looks."
+          },
+          {
+            "thai": "ห้องเล็กแต่ออกแบบให้มีประโยชน์ใช้สอยครบ",
+            "en": "The room is small but designed for full functionality.",
+            "audio_src": "ห้องเล็กแต่ออกแบบให้มีประโยชน์ใช้สอยครบ",
+            "audio_en_src": "The room is small but designed for full functionality."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156016,6 +156168,25 @@
     "frequency": "occasional",
     "sources": [
       "YouTube"
+    ],
+    "examples": [
+      {
+        "meaning": "empty space under a traditional Thai raised house",
+        "sentences": [
+          {
+            "thai": "หน้าร้อนชาวบ้านชอบนั่งเล่นใต้ถุนบ้าน",
+            "en": "In the hot season, people like sitting in the space under the raised house.",
+            "audio_src": "หน้าร้อนชาวบ้านชอบนั่งเล่นใต้ถุนบ้าน",
+            "audio_en_src": "In the hot season, people like sitting in the space under the raised house."
+          },
+          {
+            "thai": "ใต้ถุนใช้เก็บเครื่องมือทำนา",
+            "en": "The space under the house is used to store farm tools.",
+            "audio_src": "ใต้ถุนใช้เก็บเครื่องมือทำนา",
+            "audio_en_src": "The space under the house is used to store farm tools."
+          }
+        ]
+      }
     ]
   },
   {
@@ -156026,6 +156197,25 @@
     "sources": [
       "YouTube",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "sort of terrace in traditional Thai house (no roof)",
+        "sentences": [
+          {
+            "thai": "ตอนเย็นครอบครัวนั่งกินข้าวที่ชานบ้าน",
+            "en": "In the evening the family eats out on the open terrace.",
+            "audio_src": "ตอนเย็นครอบครัวนั่งกินข้าวที่ชานบ้าน",
+            "audio_en_src": "In the evening the family eats out on the open terrace."
+          },
+          {
+            "thai": "ชานบ้านเปียกเพราะฝนสาด",
+            "en": "The terrace is wet from the rain blowing in.",
+            "audio_src": "ชานบ้านเปียกเพราะฝนสาด",
+            "audio_en_src": "The terrace is wet from the rain blowing in."
+          }
+        ]
+      }
     ]
   },
   {

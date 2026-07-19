@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8304 words**
+**Total: 8314 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5071,17 +5071,27 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c06-086` : หน่อไม้ (bamboo shoot (young sprouts growing from the base of bamboo plants)) : 1 meaning(s), 2 sentences
 - `yt-c06-087` : พื้นที่ราบลุ่ม (lowland area (prone to flooding)) : 1 meaning(s), 2 sentences
 - `yt-c06-088` : แห้งแล้ง (arid, very dry) : 1 meaning(s), 2 sentences
+- `yt-c06-089` : กินรองท้อง (to eat something small to prevent hunger until next meal, to have a snack) : 1 meaning(s), 2 sentences
 - `yt-c06-090` : สายพันธุ์ (species, breed, strain) : 1 meaning(s), 2 sentences
 - `yt-c06-091` : น้ำจืด (fresh water (from rivers, lake, so not salty)) : 1 meaning(s), 2 sentences
 - `yt-c06-092` : คอพอก (goiter (swelling of the neck caused by iodine deficiency, usually in northern Thailand)) : 1 meaning(s), 2 sentences
 - `yt-c06-093` : ปลาร้า (fermented fish) : 1 meaning(s), 2 sentences
+- `yt-c06-094` : อาหารชาววัง (royal cuisine, food beautifully prepared and presented (literally "palace food")) : 1 meaning(s), 2 sentences
 - `yt-c06-095` : ชนชั้นสูง (upper class, elite class) : 1 meaning(s), 2 sentences
 - `yt-c06-097` : ศาลาวัด (temple hall) : 1 meaning(s), 2 sentences
 - `yt-c06-098` : จำวัด (to sleep (used for Buddhist monks only)) : 1 meaning(s), 2 sentences
 - `yt-c06-099` : กุฏิ (monk's living quarter, cubicle where monks live and sleep) : 1 meaning(s), 2 sentences
+- `yt-c07-000` : บาตร (alms bowl (carried by monks to gather donations)) : 1 meaning(s), 2 sentences
+- `yt-c07-001` : โต๊ะหมู่บูชา (Buddhist altar set (made of tiered table used for worshiping Buddha image)) : 1 meaning(s), 2 sentences
 - `yt-c07-002` : ไฟแช็ค (lighter) : 1 meaning(s), 2 sentences
+- `yt-c07-003` : เชิงเทียน (candlestick) : 1 meaning(s), 2 sentences
+- `yt-c07-004` : นั่งขัดสมาธิ (to sit cross-legged in meditation posture) : 1 meaning(s), 2 sentences
+- `yt-c07-005` : นั่งพับเพียบ (to sit on the floor with both legs folded on one side (how girls should sit in a temple)) : 1 meaning(s), 2 sentences
 - `yt-c07-006` : แด่ (to, for, in honor of (formal, poetic)) : 1 meaning(s), 2 sentences
 - `yt-c07-007` : ชุดกรวดน้ำ (set of items used in Thai water pouring ceremony in a temple) : 1 meaning(s), 2 sentences
+- `yt-c07-008` : ประโยชน์ใช้สอย (utility, practical use) : 1 meaning(s), 2 sentences
+- `yt-c07-009` : ใต้ถุน (empty space under a traditional Thai raised house) : 1 meaning(s), 2 sentences
+- `yt-c07-010` : ชาน (sort of terrace in traditional Thai house (no roof)) : 1 meaning(s), 2 sentences
 - `yt-c07-012` : ผุ (to decay, to rot, to deteriorate, rotten) : 1 meaning(s), 2 sentences
 - `yt-c07-013` : ต่อเติม (to extend, to add on, to renovate (by expansion)) : 1 meaning(s), 2 sentences
 - `yt-c07-014` : สถานีขนส่งผู้โดยสาร (บขส) (passenger bus terminal) : 1 meaning(s), 2 sentences
