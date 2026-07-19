@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8504 words**
+**Total: 8514 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5582,14 +5582,23 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-041` : ใคร่ครวญ (to reflect deeply, to ponder carefully (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-042` : ไตร่ตรอง (to deliberate carefully, to weigh all aspects before making a decision (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-044` : เหี้ย, ตัวเงินตัวทอง, วรนุช (monitor lizard) : 1 meaning(s), 2 sentences
+- `yt-c12-045` : ชิ้นเอก (masterpiece, magnum opus, most important part of a collection) : 1 meaning(s), 2 sentences
 - `yt-c12-046` : สังขาร (human body (Buddhist term)) : 1 meaning(s), 2 sentences
+- `yt-c12-047` : ภาษาศาสตร์ (linguistics) : 1 meaning(s), 2 sentences
+- `yt-c12-048` : ท้อถอย (to give up, to become discouraged, to no longer want to do something (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-049` : (เอา)เสียเลย, (เอา)ซะเลย ("go ahead and...", "do it completely", "do it once and for all" (conveys impatience, annoyance)) : 1 meaning(s), 2 sentences
+- `yt-c12-050` : น่าเบื่อหน่าย (boring, tiresome (literary)) : 1 meaning(s), 2 sentences
 - `yt-c12-051` : โดยตรง - โดยนัย (directly, explicitly - indirectly, implicitly) : 1 meaning(s), 2 sentences
+- `yt-c12-052` : นัย (underlying meaning, implication, undertone) : 1 meaning(s), 2 sentences
+- `yt-c12-053` : เอาเรื่อง (tough, impressive, not to be underestimated) : 1 meaning(s), 2 sentences
 - `yt-c12-054` : ยั่ว (to tease, to provoke, to entice) : 1 meaning(s), 2 sentences
 - `yt-c12-055` : สังข์ทอง (Thai folk storytale "Golden Conch", story of a prince born from a conch (sea snail shell)) : 1 meaning(s), 2 sentences
+- `yt-c12-056` : หอยสังข์ (sea snail conch shell) : 1 meaning(s), 2 sentences
 - `yt-c12-057` : บทพระราชนิพนธ์ (royal composition, royally authored work) : 1 meaning(s), 2 sentences
 - `yt-c12-058` : ปัด (to brush, to swipe, to dust) : 1 meaning(s), 2 sentences
 - `yt-c12-059` : ถ่วง ((literally) to weigh down (put a weight on something); (figuratively) to hinder, to delay, to slow down) : 2 meaning(s), 4 sentences
+- `yt-c12-060` : แปลงร่าง (to change form, to metamorphose) : 1 meaning(s), 2 sentences
+- `yt-c12-061` : ชุดเกราะ (armor) : 1 meaning(s), 2 sentences
 - `yt-c12-063` : ทัด (to tuck, to adorn by inserting something (e.g a flower behind the ear)) : 1 meaning(s), 2 sentences
 - `yt-c12-064` : เงาะป่า (someone uncultured, wild, with unrefined behavior or manners) : 1 meaning(s), 2 sentences
 - `yt-c12-065` : เฉือน (to slice off, to cut a thin layer from something) : 1 meaning(s), 2 sentences
@@ -5598,6 +5607,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c12-068` : ชุบตัว ((from "golden conch" tale) to go rejuvenate, to refresh oneself somewhere else for a while) : 1 meaning(s), 2 sentences
 - `yt-c12-069` : ศัลยกรรม (surgery (surgical operation)) : 1 meaning(s), 2 sentences
 - `yt-c12-070` : จับจุด (to grasp, to catch the point) : 1 meaning(s), 2 sentences
+- `yt-c12-071` : เดียวดาย (solitary, lonely) : 1 meaning(s), 2 sentences
 - `yt-c12-073` : ลงจอด (to land (aircraft, helicopter)) : 1 meaning(s), 2 sentences
 - `yt-c12-075` : ลูกเรือ (crew member (of a boat or an aircraft)) : 1 meaning(s), 2 sentences
 - `yt-c12-076` : บุตรธิดา (children, sons and daughters (literary)) : 1 meaning(s), 2 sentences
