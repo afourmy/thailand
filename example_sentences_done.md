@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8454 words**
+**Total: 8464 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5439,7 +5439,11 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c10-090` : ลงสนาม (to enter the field, to take part in a competition (e.g in love)) : 1 meaning(s), 2 sentences
 - `yt-c10-092` : เล็ม (to trim lightly, to clip a little bit, to nibble, to eat bit by bit) : 1 meaning(s), 2 sentences
 - `yt-c10-093` : รากศัพท์ (etymology, root of a word) : 1 meaning(s), 2 sentences
+- `yt-c10-094` : เอกราช (independence, sovereignty) : 1 meaning(s), 2 sentences
+- `yt-c10-096` : ขลาด (fearful, coward, lacking courage) : 1 meaning(s), 2 sentences
+- `yt-c10-097` : ข่มขี่ (to oppress, to dominate, to tyrannize) : 1 meaning(s), 2 sentences
 - `yt-c10-098` : สายเลือด (bloodline, lineage) : 1 meaning(s), 2 sentences
+- `yt-c10-099` : แยกแยะ (to differentiate, to tell apart, to distinguish) : 1 meaning(s), 2 sentences
 - `yt-c11-000` : น็อคไป (to be knocked out, to pass out (lose consciousness, usually in a fight)) : 1 meaning(s), 2 sentences
 - `yt-c11-001` : อย่าไปยอม ("don't give in", "don't submit") : 1 meaning(s), 2 sentences
 - `yt-c11-002` : กลบ (to cover up, to bury) : 1 meaning(s), 2 sentences
@@ -5450,9 +5454,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c11-008` : พิพิธภัณฑ์, พิพิธภัณฑสถาน (museum) : 1 meaning(s), 2 sentences
 - `yt-c11-009` : ละแวก (neighborhood) : 1 meaning(s), 2 sentences
 - `yt-c11-010` : เปิดโลก (to broaden one's horizon, eye-opening) : 1 meaning(s), 2 sentences
+- `yt-c11-011` : จานบิน (UFO (literally "flying plate")) : 1 meaning(s), 2 sentences
 - `yt-c11-012` : เลย (at all; so, therefore; beyond, past a certain point) : 3 meaning(s), 6 sentences
+- `yt-c11-013` : ติดตา (stuck in one's mind, imprinted in one's eyes) : 1 meaning(s), 2 sentences
+- `yt-c11-014` : เบาบาง (sparse, scattered, to thin out, to become less dense) : 1 meaning(s), 2 sentences
+- `yt-c11-015` : ถ่ายเทอากาศ (to ventilate, to allow air circulation) : 1 meaning(s), 2 sentences
 - `yt-c11-016` : เสาอากาศ (antenna (e.g for TV signal)) : 1 meaning(s), 2 sentences
 - `yt-c11-018` : ดูด (to suck, to draw in) : 1 meaning(s), 2 sentences
+- `yt-c11-019` : กระดก (to tilt up, to lift slightly) : 1 meaning(s), 2 sentences
+- `yt-c11-020` : สบู่อาบน้ำสูตรเย็น, ยาสระผมสูตรเย็น (cooling formula shower gel or shampoo to feel fresh (with menthol)) : 1 meaning(s), 2 sentences
 - `yt-c11-021` : ปะแป้ง (to apply powder) : 1 meaning(s), 2 sentences
 - `yt-c11-022` : ระคายเคือง (irritated, itchy (throat, eyes, skin)) : 1 meaning(s), 2 sentences
 - `yt-c11-023` : ผ้าเย็น (refreshing towel (stored in fridge in 7/11)) : 1 meaning(s), 2 sentences
