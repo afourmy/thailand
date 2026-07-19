@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8793 words**
+**Total: 8803 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6383,14 +6383,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c21-019` : บัวพ้นน้ำ (quick learner, someone who understands right away (lotus above the water)) : 1 meaning(s), 2 sentences
 - `yt-c21-020` : บัวใต้น้ำ - บัวในโคลนตม - บัวในตม ((idiom) describes someone who is slow to understand, slow learner (literally "lotus under the water" - "lotus in murky wet soil")) : 1 meaning(s), 3 sentences
 - `yt-c21-022` : น้ำเต็มแก้ว ((idiom) describes a person unwilling to learn new things, or who has reached its limit) : 1 meaning(s), 2 sentences
+- `yt-c21-024` : ยิงปืนนัดเดียวได้นกสองตัว (kill two birds with one stone) : 1 meaning(s), 2 sentences
 - `yt-c21-025` : ไปตามน้ำ ((idiom) to go with the flow) : 1 meaning(s), 2 sentences
+- `yt-c21-026` : ยกภูเขาออกจากอก ((idiom) to get something off your chest (relief after heavy burden is removed)) : 1 meaning(s), 2 sentences
+- `yt-c21-027` : มัดมือชก (to force someone's hand, to leave someone no choice (literally "tie someone's hands and punch them")) : 1 meaning(s), 2 sentences
+- `yt-c21-028` : ของลับ, ที่ลับ, ของสงวน, จุดซ่อนเร้น (different expressions to mean "private parts" (sexual)) : 1 meaning(s), 2 sentences
 - `yt-c21-029` : แทงข้างหลัง ((expression) to stab in the back, to betray) : 1 meaning(s), 2 sentences
 - `yt-c21-030` : ควันหลง (post-drama residual signs, aftermath of an event, lingering signs of something that happened (e.g songkran)) : 1 meaning(s), 2 sentences
+- `yt-c21-031` : หลอกถาม (to trick someone into giving an information, to ask indirectly) : 1 meaning(s), 2 sentences
 - `yt-c21-032` : จู่โจม (to ambush, to raid, to launch a surprise attack) : 1 meaning(s), 2 sentences
+- `yt-c21-033` : ยัดแน่นเหมือนปลากระป๋อง (packed like sardines (literally "packed tightly like a canned fish")) : 1 meaning(s), 2 sentences
 - `yt-c21-034` : ลงเรือลำเดียวกัน (to be in the same boat) : 1 meaning(s), 2 sentences
 - `yt-c21-035` : น้ำตาจระเข้ (fake tears, crocodile tears) : 1 meaning(s), 2 sentences
 - `yt-c21-036` : ตบมือข้างเดียวไม่ดัง (it takes two to tango (literally "one hand can't clap")) : 1 meaning(s), 1 sentences
 - `yt-c21-037` : จู๋, กระเจี๊ยว, กระปู๋, เจ้าโลก, องคชาต, ปิกาจู, กระดอ, ช้างน้อย, จ้อน, งู, น้องชาย (various words for "dick") : 1 meaning(s), 2 sentences
+- `yt-c21-038` : ช่องคลอด (vagina) : 1 meaning(s), 2 sentences
+- `yt-c21-039` : ซื้อกิน (to pay for sex) : 1 meaning(s), 2 sentences
+- `yt-c21-040` : ขัดสน (destitute, financially struggling, to be in need, to be lacking money) : 1 meaning(s), 2 sentences
+- `yt-c21-041` : กินของเก่า (to sleep with someone you've already slept with in the past, like an ex) : 1 meaning(s), 2 sentences
 - `yt-c21-042` : ให้ความเห็นชอบ (to give one's approval, to give consent) : 1 meaning(s), 2 sentences
 - `yt-c21-043` : เพ้อเจ้อ (to talk nonsense, to ramble incoherently, to be delusional) : 1 meaning(s), 2 sentences
 - `yt-c21-044` : เวลาเยียวยาทุกสิ่ง (time heals all wounds) : 1 meaning(s), 1 sentences
