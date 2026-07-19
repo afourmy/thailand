@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8674 words**
+**Total: 8684 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6051,19 +6051,29 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c17-053` : จอมยุทธ์ (tactician, martial art master, great warrior) : 1 meaning(s), 2 sentences
 - `yt-c17-054` : สหาย (companion, comrade) : 1 meaning(s), 2 sentences
 - `yt-c17-055` : อายุขัย (lifespan, life expectancy) : 1 meaning(s), 2 sentences
+- `yt-c17-056` : สิ้นอายุขัย (to pass away due to old age, natural lifespan ending) : 1 meaning(s), 2 sentences
+- `yt-c17-057` : พลัดพราก (to be separated from someone (painfully, unwillingly), to be torn apart by fate, circumstance, or death) : 1 meaning(s), 2 sentences
 - `yt-c17-058` : ด่านเคราะห์ (a rough time, a hurdle (literally "checkpoint of misfortune")) : 1 meaning(s), 2 sentences
 - `yt-c17-059` : กลับจวน ((formal, old-fashioned) to go back home (literally "to return to one's residence, manor")) : 1 meaning(s), 2 sentences
+- `yt-c17-060` : แอบอ้าง (to impersonate, to falsely claim, to act under a false identity) : 1 meaning(s), 2 sentences
 - `yt-c17-061` : มัว (blurred, dim, unclear (eye, window)) : 1 meaning(s), 2 sentences
 - `yt-c17-062` : หมอง (dim, dull, gloomy, has lost its shine) : 1 meaning(s), 2 sentences
 - `yt-c17-063` : ผ่อง, ผ่องใส (bright, radiant, clear (face, skin complexion)) : 1 meaning(s), 2 sentences
 - `yt-c17-064` : โสโครก (extremely dirty, filthy, disgusting) : 1 meaning(s), 2 sentences
 - `yt-c17-065` : ฝุ่นละออง (dust particles) : 1 meaning(s), 2 sentences
+- `new-53` : มดลูก (uterus, womb) : 1 meaning(s), 2 sentences
+- `new-54` : ครรภ์ (womb (formal, medical)) : 1 meaning(s), 2 sentences
 - `yt-c17-067` : วัชพืช (weed (unwanted plants)) : 1 meaning(s), 2 sentences
 - `yt-c17-068` : หูอื้อ (muffled hearing, blocked ears) : 1 meaning(s), 2 sentences
 - `yt-c17-069b` : ร้องเพลงเพี้ยน (to sing off-key) : 1 meaning(s), 2 sentences
+- `yt-c17-070` : ปืนอัดลม (air gun, BB gun) : 1 meaning(s), 2 sentences
 - `yt-c17-071` : กระเป๋ารถ (fare collector (person who collects the money in public transport)) : 1 meaning(s), 2 sentences
 - `yt-c17-073` : พึ่งพิง (to depend on, to rely on (formal, literary)) : 1 meaning(s), 2 sentences
+- `yt-c17-074` : เอื้ออำนวย (to facilitate, to support, to make possible (formal)) : 1 meaning(s), 2 sentences
+- `yt-c17-075` : จักสาน (to weave, basketry) : 1 meaning(s), 2 sentences
+- `yt-c17-076` : เปี่ยม, เปี่ยมไปด้วย (full of, overflowing with (literary)) : 1 meaning(s), 2 sentences
 - `yt-c17-078` : กรรมการ (committee member, board member, judge, referee (sport)) : 1 meaning(s), 2 sentences
+- `yt-c17-079` : จำนน (to surrender, to yield, to give in) : 1 meaning(s), 2 sentences
 - `yt-c17-080` : ดวงตาเป็นหน้าต่างของดวงใจ ((idiom) "the eyes are the window to the heart") : 1 meaning(s), 1 sentences
 - `yt-c17-081` : เลศนัย (hidden meaning, hidden motive, ruse) : 1 meaning(s), 2 sentences
 - `yt-c17-086` : บังเหียน (reins, bridle) : 1 meaning(s), 2 sentences
