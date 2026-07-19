@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8913 words**
+**Total: 8923 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -8583,11 +8583,16 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-041` : บังเกิด (to arise, to occur, to come into existence (literary)) : 1 meaning(s), 2 sentences
 - `t4k-c07-044` : ภาคกลาง (central region) : 1 meaning(s), 2 sentences
 - `t4k-c07-045` : นรก (hell) : 1 meaning(s), 2 sentences
+- `t4k-c07-046` : กระทำการ (to act, to take action (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-047` : สภาผู้แทนราษฎร (house of representatives (lower house of parliament)) : 1 meaning(s), 2 sentences
+- `t4k-c07-048` : ก้อง (to echo, to resound (formal)) : 1 meaning(s), 2 sentences
+- `t4k-c07-050` : มวลชน (the masses, the general population, people at large (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-053` : สันติภาพ (peace (opposite of war)) : 1 meaning(s), 2 sentences
+- `t4k-c07-054` : ยึดมั่น (to adhere to, to be committed to) : 1 meaning(s), 2 sentences
 - `t4k-c07-056` : ความเพียร (perseverance, diligence (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-057` : สูญหาย (to be lost, to go missing, to disappear) : 1 meaning(s), 2 sentences
 - `t4k-c07-058` : นวล (soft, gentle (texture, light); pale (skin tone, color)) : 2 meaning(s), 4 sentences
+- `t4k-c07-059` : ความถูกต้อง (correctness, accuracy) : 1 meaning(s), 2 sentences
 - `t4k-c07-061` : หรูหรา (luxurious, lavish, fancy) : 1 meaning(s), 2 sentences
 - `t4k-c07-062` : รับทราบ (to acknowledge, to take note (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-064` : แม่นยำ (accurate, exact) : 1 meaning(s), 2 sentences
@@ -8598,14 +8603,19 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c07-071` : แบบแผน (pattern, model, convention (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-072` : ผู้ฟัง (listener, audience) : 1 meaning(s), 2 sentences
 - `t4k-c07-073` : ผิวหนัง (skin) : 1 meaning(s), 2 sentences
+- `t4k-c07-074` : แปรเปลี่ยน (to alter, to change, to transform (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-075` : เทอม (academic term, semester) : 1 meaning(s), 2 sentences
 - `t4k-c07-076` : สถาปนิก (architect) : 1 meaning(s), 2 sentences
 - `t4k-c07-079` : ชิ้นส่วน (part, piece, component) : 1 meaning(s), 2 sentences
+- `t4k-c07-085` : ชอบธรรม (legitimate, justified, rightful) : 1 meaning(s), 2 sentences
+- `t4k-c07-086` : สมานฉันท์ (reconciliation, harmony (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c07-087` : ข้อจำกัด (limitation, restriction) : 1 meaning(s), 2 sentences
 - `t4k-c07-090` : เทียม (artificial, synthetic, imitation) : 1 meaning(s), 2 sentences
 - `t4k-c07-092` : เจ้าตัว (the person in question, the person themselves (subject of the discussion)) : 1 meaning(s), 2 sentences
 - `t4k-c07-096` : ปลอด (safe from, free from) : 1 meaning(s), 2 sentences
 - `t4k-c07-098` : เหลี่ยม (edge, side; trick, tactic) : 2 meaning(s), 4 sentences
+- `t4k-c07-099` : เสถียรภาพ (stability, steadiness) : 1 meaning(s), 2 sentences
+- `t4k-c08-001` : เร้า (to stimulate, to arouse) : 1 meaning(s), 2 sentences
 - `t4k-c08-003` : นวนิยาย (novel, fiction) : 1 meaning(s), 2 sentences
 - `t4k-c08-006` : ตัวแปร (variable) : 1 meaning(s), 2 sentences
 - `t4k-c08-008` : มั่ง (maybe, perhaps, some, a bit (slang)) : 1 meaning(s), 2 sentences
