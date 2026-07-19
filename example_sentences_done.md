@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8634 words**
+**Total: 8644 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5941,19 +5941,26 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-039` : คนโลกส่วนตัวสูง (introverted, keeps to oneself) : 1 meaning(s), 2 sentences
 - `yt-c16-040` : ยางลบ (eraser) : 1 meaning(s), 2 sentences
 - `yt-c16-041` : เดินละเมอ, นอนละเมอ (to sleepwalk) : 1 meaning(s), 2 sentences
+- `yt-c16-042` : ความถี่ (frequency (technical term)) : 1 meaning(s), 2 sentences
+- `yt-c16-043` : คติ (moral principle, guiding idea) : 1 meaning(s), 2 sentences
 - `yt-c16-044` : นกสองหัว ((idiom) someone who tries to please both sides, is disloyal (literally "two-headed bird")) : 1 meaning(s), 2 sentences
 - `yt-c16-045` : เอาหูไปนา เอาตาไปไร่ ((idiom) pretending not to hear or see something (literally "take your ears to the rice field and your eyes to the farm")) : 1 meaning(s), 2 sentences
 - `yt-c16-046` : เย่อหยิ่ง (arrogant, haughty, full of oneself) : 1 meaning(s), 2 sentences
+- `yt-c16-047` : พะรุงพะรัง (carrying too many things, overloaded) : 1 meaning(s), 2 sentences
 - `yt-c16-048` : กระทบกระเทือน (to affect, to shake, to impact (physically or emotionally)) : 1 meaning(s), 2 sentences
 - `yt-c16-050` : ตกตะกอน (to precipitate (when solid particles in a liquid settle at the bottom); (figuratively) to settle down, to become clear over time (e.g emotions)) : 2 meaning(s), 4 sentences
+- `yt-c16-051` : ขุมทรัพย์ (treasure, treasure trove) : 1 meaning(s), 2 sentences
+- `yt-c16-052` : นัยยะ (deeper hidden meaning, hidden significance (literary)) : 1 meaning(s), 2 sentences
 - `yt-c16-053` : โชน (blazing, bright, shining (literary, about sun, light, fire)) : 1 meaning(s), 2 sentences
 - `yt-c16-054` : เร่ร่อน (to wander from place to place without a fixed residence) : 1 meaning(s), 2 sentences
 - `yt-c16-054b` : คนเร่ร่อน (vagrant, homeless person) : 1 meaning(s), 2 sentences
 - `yt-c16-055` : จุดน้ำค้าง (dew point (temperature at which water vapor condenses into dew)) : 1 meaning(s), 2 sentences
 - `yt-c16-056` : ความชื้นสัมพัทธ์ (relative humidity (amount of water vapor in the air compared to the maximum amount the air can hold at a given temperature)) : 1 meaning(s), 2 sentences
+- `yt-c16-057` : ทัศนวิสัย (visibility, visual conditions (e.g weather reports, aviation, etc)) : 1 meaning(s), 2 sentences
 - `yt-c16-058` : สากกระเบือยันเรือรบ (everything from the smallest thing to the biggest thing, everything from A to Z (literally "from a pestle all the way to a battleship")) : 1 meaning(s), 2 sentences
 - `yt-c16-059` : ทุจริต (corruption, fraud, misconduct) : 1 meaning(s), 2 sentences
 - `yt-c16-060` : คืนหมาหอน (the night before an election when a corrupt politician gives money to villagers in exchange of their vote, prompting the dogs in the neighorhood to bark (literally "the night when dogs howl")) : 1 meaning(s), 2 sentences
+- `yt-c16-061` : รู้แล้วก็เหยียบไว้ ("now that you know, keep it quiet", "keep it to yourself") : 1 meaning(s), 2 sentences
 - `yt-c16-062` : บุญคุณ (indebted kindness (kindness someone has done for you that creates a moral obligation)) : 1 meaning(s), 2 sentences
 - `yt-c16-063` : หนักใจ (troubled, worried, burdened mentally) : 1 meaning(s), 2 sentences
 - `yt-c16-064` : ปลาไหล (eel) : 1 meaning(s), 2 sentences
@@ -5962,6 +5969,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-068` : ประคอง (to support (physically), to keep from falling, to steady something (e.g help someone walk, or keep something steady)) : 1 meaning(s), 2 sentences
 - `yt-c16-070` : ตอแหล (to lie, liar, "bullshit!" (slang, very rude)) : 1 meaning(s), 2 sentences
 - `yt-c16-072` : เปรี้ยว (sour; (slang) stylish, fashionable, used about girls that dress seductively) : 2 meaning(s), 4 sentences
+- `yt-c16-073` : เป๊ะแตก (to get caught when your secret is exposed, to have its cover blown) : 1 meaning(s), 2 sentences
 - `yt-c16-074` : กว่า - ขึ้น (compare X and Y - compare X and X) : 1 meaning(s), 2 sentences
 - `yt-c16-075` : อะไรก็ช่าง (whatever, never mind ("I don't care what it is")) : 1 meaning(s), 2 sentences
 - `yt-c16-076` : ถ้วย - ชาม (small bowl (e.g for sauce) - regular-sized bowl) : 1 meaning(s), 2 sentences
@@ -5972,8 +5980,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c16-080` : กระผม (I (male counterpart of dichan, formal, rarely used)) : 1 meaning(s), 2 sentences
 - `yt-c16-081` : ตัวเอง (oneself; you (when speaking to your partner in romantic relationships)) : 2 meaning(s), 4 sentences
 - `yt-c16-082` : อย่าเยอะ ("don't exaggerate", "don't be too much", "don't overdo it") : 1 meaning(s), 2 sentences
+- `yt-c16-083` : เมียเก็บ (mistress, woman kept on the side (literally "kept woman", "picked up woman")) : 1 meaning(s), 2 sentences
 - `yt-c16-084` : บอกเป็นนัย (to imply, to hint at something) : 1 meaning(s), 2 sentences
 - `yt-c16-085` : ตา (eye; grandfather; turn (as in: your turn, my turn)) : 3 meaning(s), 6 sentences
+- `yt-c16-086` : ฝังแน่น (deeply embedded, ingrained, deep-rooted (e.g belief, opinion)) : 1 meaning(s), 2 sentences
 - `yt-c16-088` : ครุศาสตร์ (pedagogy (field of pedagogy in education)) : 1 meaning(s), 2 sentences
 - `yt-c16-089` : ดุริยางค์ ((formal, old-fashioned) music (e.g classical music, orchestra)) : 1 meaning(s), 2 sentences
 - `yt-c16-090` : ตั้งตารอ (to look forward to, to eagerly wait for) : 1 meaning(s), 2 sentences
