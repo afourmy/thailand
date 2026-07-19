@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8544 words**
+**Total: 8554 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5692,26 +5692,36 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-056` : สภา (council, assembly, parliament) : 1 meaning(s), 2 sentences
 - `yt-c13-057` : นักเผด็จการ (dictator) : 1 meaning(s), 2 sentences
 - `yt-c13-058` : ตัดคอ, ตัดเศียร (to behead) : 1 meaning(s), 2 sentences
+- `yt-c13-059` : สง่าผ่าเผย (imposing dignity, commanding presence (literally "graceful and striking", "elegant and frank")) : 1 meaning(s), 2 sentences
+- `yt-c13-060` : มีตัวตน (to exist, to matter, to have a real physical presence (unlike ghosts)) : 1 meaning(s), 2 sentences
 - `yt-c13-062` : จดทะเบียนสมรส (to get married officially (legally)) : 1 meaning(s), 2 sentences
 - `yt-c13-063` : ยัก (to shrug, to move slightly) : 1 meaning(s), 2 sentences
 - `yt-c13-063b` : พยักหน้า (to nod one's head) : 1 meaning(s), 2 sentences
 - `yt-c13-064` : อา (uncle, aunt (younger sibling on paternal side)) : 1 meaning(s), 2 sentences
 - `yt-c13-066` : เสภา (type of Thai poetry, usually recited with musical accompaniment) : 1 meaning(s), 2 sentences
+- `yt-c13-067` : สึก (to leave the monkhood, to disrobe) : 1 meaning(s), 2 sentences
 - `yt-c13-068` : เวร (duty, shift, watch) : 1 meaning(s), 2 sentences
 - `yt-c13-069` : กุมาร (young boy; spirit of a young boy) : 2 meaning(s), 4 sentences
 - `yt-c13-070` : นางวันทองสองใจ ((from Khun Chang Khun Phaen) girl who likes two men, torn between two lovers) : 1 meaning(s), 2 sentences
 - `yt-c13-071` : ขุนช้าง ((from Khun Chang Khun Phaen) someone not handsome (bald, fat), very wealthy, selfish, jealous) : 1 meaning(s), 2 sentences
 - `yt-c13-072` : ขุนแผน ((from Khun Chang Khun Phaen) someone handsome, brave, skilled in martial art and magic, has many wives (jaoshuu)) : 1 meaning(s), 2 sentences
+- `yt-c13-073` : ดอกเข็ม (needle flower (flower that has a pointed shape resembling a needle)) : 1 meaning(s), 2 sentences
 - `yt-c13-074` : ยัดเยียด (to force something on someone or into a space, to cram, to impose) : 1 meaning(s), 2 sentences
+- `yt-c13-075` : เยิน (worn out, tattered, shabby, in poor condition (e.g clothes, shoes, reputation)) : 1 meaning(s), 2 sentences
 - `yt-c13-076` : โทรม (worn-out, dilapidated, deteriorated, unwell, in poor condition (e.g objects, people, clothes, places)) : 1 meaning(s), 2 sentences
 - `yt-c13-077` : ล้าหลัง (backward, outdated, behind the times) : 1 meaning(s), 2 sentences
 - `yt-c13-078` : เข้าไม่ถึงจริงๆ ("I really don't get it", "it's completely beyond me", "I can't relate at all") : 1 meaning(s), 2 sentences
 - `yt-c13-079` : เหยียด (to stretch, to extend; to discriminate against, to look down on) : 2 meaning(s), 4 sentences
+- `yt-c13-080` : โลกที่สาม (Third World) : 1 meaning(s), 2 sentences
 - `yt-c13-081` : ด้อยค่า (to belittle, to devalue) : 1 meaning(s), 2 sentences
 - `yt-c13-082` : ทองแดง (copper (also used to say "bronze medal")) : 1 meaning(s), 2 sentences
+- `yt-c13-083` : ติดแกลม (someone who likes to dress up, look fancy (literally "addicted to glamorous")) : 1 meaning(s), 2 sentences
 - `yt-c13-084` : รอบรองชนะเลิศ (semifinal) : 1 meaning(s), 2 sentences
 - `yt-c13-085` : รอบชิงชนะเลิศ (final (match of a championship)) : 1 meaning(s), 2 sentences
 - `yt-c13-086` : น้ำใจนักกีฬา (sportsmanship) : 1 meaning(s), 2 sentences
+- `yt-c13-087` : เงินอัดฉีด (bonus money, incentive money, sponsorship money (literally "money + to inject, to pump in")) : 1 meaning(s), 2 sentences
+- `yt-c13-088` : สมดั่ง (in accordance with, as expected) : 1 meaning(s), 2 sentences
+- `yt-c13-090` : แมลงเม่า (winged termites, flying termites (swarm around lights before rain)) : 1 meaning(s), 2 sentences
 - `yt-c13-092` : แมลงปอ (dragonfly) : 1 meaning(s), 2 sentences
 - `yt-c13-093` : ต่อย (to punch, to strike with a fist; to sting (insect)) : 2 meaning(s), 4 sentences
 - `yt-c13-095` : นุ่งผ้าลอยชาย (to wear clothes that are hanging freely, loose, not tucked in (e.g traditional Thai garment like Sarong)) : 1 meaning(s), 2 sentences
