@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8524 words**
+**Total: 8534 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5644,22 +5644,32 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c13-011` : สงบเสงี่ยม, สงบเสงี่ยมเจียมตัว (quiet and modest, calm and humble, well-behaved) : 1 meaning(s), 2 sentences
 - `yt-c13-012` : ปานกลาง (medium, average, neither high nor low) : 1 meaning(s), 2 sentences
 - `new-61` : เสียงใส (clear voice, high-pitched voice) : 1 meaning(s), 2 sentences
+- `new-62` : เสียงทุ้ม (deep voice, low-pitched voice) : 1 meaning(s), 2 sentences
 - `yt-c13-014` : ฉุนเฉียว (irritable, quick to anger) : 1 meaning(s), 2 sentences
+- `yt-c13-015` : นัว (delicious, savory) : 1 meaning(s), 2 sentences
 - `yt-c13-016` : เรียบหรู (simple yet elegant, sophisticated and classy in a simple way) : 1 meaning(s), 2 sentences
 - `yt-c13-017` : รสนิยม (taste, preference, inclination) : 1 meaning(s), 2 sentences
+- `yt-c13-018` : รสนิยมทางเพศ (sexual orientation) : 1 meaning(s), 2 sentences
 - `yt-c13-019` : ดาบสองคม (double-edged sword) : 1 meaning(s), 2 sentences
 - `yt-c13-020` : สมรสเท่าเทียม (same-sex marriage (literally "equal marriage")) : 1 meaning(s), 2 sentences
 - `yt-c13-021` : เพศสภาพ (gender identity) : 1 meaning(s), 2 sentences
 - `yt-c13-022` : ถ่ายเท (to flow, to transfer (move from one place to another)) : 1 meaning(s), 2 sentences
+- `yt-c13-023` : ไม้กวาดดอกหญ้า (broom with grass flowers (traditional Thai broom)) : 1 meaning(s), 2 sentences
+- `yt-c13-024` : ผูกคอตาย (to hang oneself (commit suicide by hanging)) : 1 meaning(s), 2 sentences
 - `yt-c13-025` : รางน้ำ (gutter, water drainpipe) : 1 meaning(s), 2 sentences
 - `yt-c13-026` : ฝนตกปรอยๆ (to drizzle, to rain lightly, continuously but not heavily) : 1 meaning(s), 2 sentences
 - `yt-c13-027` : แปรงขัดชักโครก (toilet brush) : 1 meaning(s), 2 sentences
+- `new-59` : หยากไย่ (cobweb, old spider web (e.g dusty ones in corners)) : 1 meaning(s), 2 sentences
+- `new-60` : ใยแมงมุม (spider web, spider silk) : 1 meaning(s), 2 sentences
 - `yt-c13-029` : บัวรดน้ำ (watering can) : 1 meaning(s), 2 sentences
+- `yt-c13-030` : รางๆ (vaguely, faintly) : 1 meaning(s), 2 sentences
 - `yt-c13-031` : เบลอ, เบลอๆ ((from "blur") blurred, fuzzy, unclear) : 1 meaning(s), 2 sentences
 - `yt-c13-032` : โคลงศีรษะ (to sway one's head (side-to-side, to express disbelief or disappointment)) : 1 meaning(s), 2 sentences
 - `yt-c13-033` : เดา - ทาย - มั่ว (to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly) : 1 meaning(s), 3 sentences
 - `yt-c13-034` : สะดุ้ง (to startle, to flinch, to jump in surprise) : 1 meaning(s), 2 sentences
+- `yt-c13-035` : เคร่งขรึม (stern, solemn, grave, very serious) : 1 meaning(s), 2 sentences
 - `yt-c13-036` : กระปรี้กระเปร่า (full of energy, lively) : 1 meaning(s), 2 sentences
+- `yt-c13-037` : อาคารอเนกประสงค์ (multi-purpose building (at a school)) : 1 meaning(s), 2 sentences
 - `yt-c13-038` : ไม้เรียว (rattan stick (wooden stick used to beat children at Thai schools)) : 1 meaning(s), 2 sentences
 - `yt-c13-040` : ตาข่าย (net (fishing net, sport net like volleyball, etc)) : 1 meaning(s), 2 sentences
 - `yt-c13-043` : ปาฐกถาธรรม (Dharma speech, Buddhist sermon) : 1 meaning(s), 2 sentences
