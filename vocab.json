@@ -225181,6 +225181,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "to iron (cloth)",
+        "sentences": [
+          {
+            "thai": "แม่บ้านรีดเสื้อผ้าให้เรียบทุกเช้า",
+            "en": "The housekeeper irons the clothes smooth every morning.",
+            "audio_src": "แม่บ้านรีดเสื้อผ้าให้เรียบทุกเช้า",
+            "audio_en_src": "The housekeeper irons the clothes smooth every morning."
+          },
+          {
+            "thai": "กางเกงตัวนี้ยับต้องเอาไปรีดก่อน",
+            "en": "These pants are wrinkled, I need to iron them first.",
+            "audio_src": "กางเกงตัวนี้ยับต้องเอาไปรีดก่อน",
+            "audio_en_src": "These pants are wrinkled, I need to iron them first."
+          }
+        ]
+      }
     ]
   },
   {
@@ -227943,6 +227962,25 @@
     "frequency": "occasional",
     "sources": [
       "Anki Basics"
+    ],
+    "examples": [
+      {
+        "meaning": "Khmer",
+        "sentences": [
+          {
+            "thai": "ปราสาทหินหลายแห่งสร้างในสมัยขอมเรืองอำนาจ",
+            "en": "Many stone temples were built when the Khmer empire was at its height.",
+            "audio_src": "ปราสาทหินหลายแห่งสร้างในสมัยขอมเรืองอำนาจ",
+            "audio_en_src": "Many stone temples were built when the Khmer empire was at its height."
+          },
+          {
+            "thai": "นักโบราณคดีศึกษาอักษรขอมบนแผ่นศิลา",
+            "en": "Archaeologists study the ancient Khmer script on the stone tablets.",
+            "audio_src": "นักโบราณคดีศึกษาอักษรขอมบนแผ่นศิลา",
+            "audio_en_src": "Archaeologists study the ancient Khmer script on the stone tablets."
+          }
+        ]
+      }
     ]
   },
   {
@@ -231808,6 +231846,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "morally bad, evil",
+        "sentences": [
+          {
+            "thai": "เขาเป็นคนเลวที่ชอบเอาเปรียบคนอื่น",
+            "en": "He's a bad person who likes to take advantage of others.",
+            "audio_src": "เขาเป็นคนเลวที่ชอบเอาเปรียบคนอื่น",
+            "audio_en_src": "He's a bad person who likes to take advantage of others."
+          },
+          {
+            "thai": "อย่าคบคนเลวที่คอยหลอกใช้เรา",
+            "en": "Don't associate with bad people who just use you.",
+            "audio_src": "อย่าคบคนเลวที่คอยหลอกใช้เรา",
+            "audio_en_src": "Don't associate with bad people who just use you."
+          }
+        ]
+      }
     ]
   },
   {
@@ -232070,6 +232127,25 @@
     "sources": [
       "Anki Basics",
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "United Nations",
+        "sentences": [
+          {
+            "thai": "สหประชาชาติเรียกร้องให้ยุติสงคราม",
+            "en": "The United Nations called for an end to the war.",
+            "audio_src": "สหประชาชาติเรียกร้องให้ยุติสงคราม",
+            "audio_en_src": "The United Nations called for an end to the war."
+          },
+          {
+            "thai": "หลายประเทศเป็นสมาชิกของสหประชาชาติ",
+            "en": "Many countries are members of the United Nations.",
+            "audio_src": "หลายประเทศเป็นสมาชิกของสหประชาชาติ",
+            "audio_en_src": "Many countries are members of the United Nations."
+          }
+        ]
+      }
     ]
   },
   {
@@ -251458,6 +251534,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "clause, article of law, section (of an article of law)",
+        "sentences": [
+          {
+            "thai": "การกระทำนี้ผิดกฎหมายตามมาตราสิบห้า",
+            "en": "This act is illegal under Article 15.",
+            "audio_src": "การกระทำนี้ผิดกฎหมายตามมาตราสิบห้า",
+            "audio_en_src": "This act is illegal under Article 15."
+          },
+          {
+            "thai": "ทนายอ้างมาตราในรัฐธรรมนูญเพื่อสู้คดี",
+            "en": "The lawyer cited an article of the constitution to fight the case.",
+            "audio_src": "ทนายอ้างมาตราในรัฐธรรมนูญเพื่อสู้คดี",
+            "audio_en_src": "The lawyer cited an article of the constitution to fight the case."
+          }
+        ]
+      }
     ]
   },
   {
@@ -252651,6 +252746,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "child (formal)",
+        "sentences": [
+          {
+            "thai": "เขามีบุตรสามคนที่กำลังเรียนหนังสือ",
+            "en": "He has three children who are in school.",
+            "audio_src": "เขามีบุตรสามคนที่กำลังเรียนหนังสือ",
+            "audio_en_src": "He has three children who are in school."
+          },
+          {
+            "thai": "พ่อแม่ย่อมรักบุตรของตนเสมอ",
+            "en": "Parents always love their children.",
+            "audio_src": "พ่อแม่ย่อมรักบุตรของตนเสมอ",
+            "audio_en_src": "Parents always love their children."
+          }
+        ]
+      }
     ]
   },
   {
@@ -253147,6 +253261,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "mother (formal)",
+        "sentences": [
+          {
+            "thai": "มารดาของผู้เสียชีวิตร้องไห้ด้วยความเสียใจ",
+            "en": "The deceased's mother wept in grief.",
+            "audio_src": "มารดาของผู้เสียชีวิตร้องไห้ด้วยความเสียใจ",
+            "audio_en_src": "The deceased's mother wept in grief."
+          },
+          {
+            "thai": "เด็กคนนี้อาศัยอยู่กับมารดาเพียงลำพัง",
+            "en": "This child lives alone with his mother.",
+            "audio_src": "เด็กคนนี้อาศัยอยู่กับมารดาเพียงลำพัง",
+            "audio_en_src": "This child lives alone with his mother."
+          }
+        ]
+      }
     ]
   },
   {
@@ -254317,6 +254450,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "act (law passed by parliament), statute",
+        "sentences": [
+          {
+            "thai": "รัฐสภาผ่านพระราชบัญญัติฉบับใหม่เมื่อสัปดาห์ก่อน",
+            "en": "Parliament passed a new act last week.",
+            "audio_src": "รัฐสภาผ่านพระราชบัญญัติฉบับใหม่เมื่อสัปดาห์ก่อน",
+            "audio_en_src": "Parliament passed a new act last week."
+          },
+          {
+            "thai": "พระราชบัญญัตินี้คุ้มครองสิทธิของผู้บริโภค",
+            "en": "This act protects consumer rights.",
+            "audio_src": "พระราชบัญญัตินี้คุ้มครองสิทธิของผู้บริโภค",
+            "audio_en_src": "This act protects consumer rights."
+          }
+        ]
+      }
     ]
   },
   {
@@ -254554,6 +254706,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "goodness, virtue",
+        "sentences": [
+          {
+            "thai": "ทำความดีย่อมได้รับผลดีตอบแทน",
+            "en": "Doing good brings good results in return.",
+            "audio_src": "ทำความดีย่อมได้รับผลดีตอบแทน",
+            "audio_en_src": "Doing good brings good results in return."
+          },
+          {
+            "thai": "เขาสอนลูกให้เห็นคุณค่าของความดี",
+            "en": "He teaches his children to value goodness.",
+            "audio_src": "เขาสอนลูกให้เห็นคุณค่าของความดี",
+            "audio_en_src": "He teaches his children to value goodness."
+          }
+        ]
+      }
     ]
   },
   {
@@ -254722,6 +254893,25 @@
     "frequency": "occasional",
     "sources": [
       "Thai 4000"
+    ],
+    "examples": [
+      {
+        "meaning": "space (in a text), paragraph (in a legal section)",
+        "sentences": [
+          {
+            "thai": "เขียนประโยคยาวๆควรเว้นวรรคให้อ่านง่าย",
+            "en": "When writing long sentences, leave spaces to make them easier to read.",
+            "audio_src": "เขียนประโยคยาวๆควรเว้นวรรคให้อ่านง่าย",
+            "audio_en_src": "When writing long sentences, leave spaces to make them easier to read."
+          },
+          {
+            "thai": "ข้อกฎหมายนี้ระบุไว้ในมาตราห้าวรรคสอง",
+            "en": "This legal provision is stated in Article 5, paragraph 2.",
+            "audio_src": "ข้อกฎหมายนี้ระบุไว้ในมาตราห้าวรรคสอง",
+            "audio_en_src": "This legal provision is stated in Article 5, paragraph 2."
+          }
+        ]
+      }
     ]
   },
   {

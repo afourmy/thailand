@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8873 words**
+**Total: 8883 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -7421,6 +7421,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c11-098` : รัง (nest, hive) : 1 meaning(s), 2 sentences
 - `wlt-c12-000` : รางวัล (prize, award, trophy) : 1 meaning(s), 2 sentences
 - `wlt-c12-001` : ร้านกาแฟ (coffee shop) : 1 meaning(s), 2 sentences
+- `wlt-c12-002` : รีด (to iron (cloth)) : 1 meaning(s), 2 sentences
 - `wlt-c12-003` : รึ (or (colloquial form)) : 1 meaning(s), 2 sentences
 - `wlt-c12-004` : เรียกว่า (to be called) : 1 meaning(s), 2 sentences
 - `wlt-c12-005` : เรียนรู้ (to study, to learn) : 1 meaning(s), 2 sentences
@@ -7509,6 +7510,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c13-001` : ของเขา (hers, his) : 1 meaning(s), 2 sentences
 - `wlt-c13-002` : ขอโทษ (excuse me, I'm sorry) : 1 meaning(s), 2 sentences
 - `wlt-c13-003` : ขอบคุณ (thank you) : 1 meaning(s), 2 sentences
+- `wlt-c13-004` : ขอม (Khmer) : 1 meaning(s), 2 sentences
 - `wlt-c13-005` : ขับรถ (to drive a car) : 1 meaning(s), 2 sentences
 - `wlt-c13-006` : ข้างหน้า (in front of, ahead) : 1 meaning(s), 2 sentences
 - `wlt-c13-007` : ข่าว (news) : 1 meaning(s), 2 sentences
@@ -7627,6 +7629,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-060` : ลอง (to try out) : 1 meaning(s), 2 sentences
 - `wlt-c14-061` : ลาว (Laos) : 1 meaning(s), 2 sentences
 - `wlt-c14-062` : เลข (number, numeral; (informal) math) : 2 meaning(s), 4 sentences
+- `wlt-c14-063` : เลว (morally bad, evil) : 1 meaning(s), 2 sentences
 - `wlt-c14-064` : แล้วก็ (and, and then) : 1 meaning(s), 2 sentences
 - `wlt-c14-065` : วันที่ (date) : 1 meaning(s), 2 sentences
 - `wlt-c14-066` : เว้น (to leave out, to omit, to skip) : 1 meaning(s), 2 sentences
@@ -7635,6 +7638,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c14-069` : ศาสนาคริสต์ (Christianity) : 1 meaning(s), 2 sentences
 - `wlt-c14-071` : สตางค์ (satang) : 1 meaning(s), 2 sentences
 - `wlt-c14-073` : ส่วนตัว (private, personal) : 1 meaning(s), 2 sentences
+- `wlt-c14-077` : สหประชาชาติ (United Nations) : 1 meaning(s), 2 sentences
 - `wlt-c14-079` : สหรัฐอเมริกา (United States of America) : 1 meaning(s), 2 sentences
 - `wlt-c14-080` : สอง ๒ (two (2)) : 1 meaning(s), 2 sentences
 - `wlt-c14-082` : สามารถ (can, be able to) : 1 meaning(s), 2 sentences
@@ -8223,6 +8227,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-022` : การเมือง (politics) : 1 meaning(s), 2 sentences
 - `t4k-c01-023` : น่าเชื่อ (believable, credible) : 1 meaning(s), 2 sentences
 - `t4k-c01-024` : ผู้คน (people) : 1 meaning(s), 2 sentences
+- `t4k-c01-025` : มาตรา (clause, article of law, section (of an article of law)) : 1 meaning(s), 2 sentences
 - `t4k-c01-026` : เหมือนกับ (like, similar to, as if) : 1 meaning(s), 2 sentences
 - `t4k-c01-027` : คล้าย (to resemble, to look like) : 1 meaning(s), 2 sentences
 - `t4k-c01-028` : ช่วยเหลือ (to help, to assist) : 1 meaning(s), 2 sentences
@@ -8261,6 +8266,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c01-091` : คำสั่ง (order, command) : 1 meaning(s), 2 sentences
 - `t4k-c01-092` : รอง (secondary, vice-; to hold, to support from below) : 2 meaning(s), 4 sentences
 - `t4k-c01-094` : เกษตร (farming, agriculture) : 1 meaning(s), 2 sentences
+- `t4k-c02-000` : บุตร (child (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c02-005` : ความต้องการ (requirement, demand, need) : 1 meaning(s), 2 sentences
 - `t4k-c02-006` : ทำเป็น (to know how to do, to be skilled at; to pretend, to feign) : 2 meaning(s), 4 sentences
 - `t4k-c02-007` : เช่นเดียว (the same, similar to, likewise) : 1 meaning(s), 2 sentences
@@ -8276,6 +8282,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-019` : ทั้งที่ (even though, although) : 1 meaning(s), 2 sentences
 - `t4k-c02-020` : ห่างไกล (far, distant, remote) : 1 meaning(s), 2 sentences
 - `t4k-c02-021` : จง (must, should, "you should...") : 1 meaning(s), 2 sentences
+- `t4k-c02-023` : มารดา (mother (formal)) : 1 meaning(s), 2 sentences
 - `t4k-c02-024` : แต่ก่อน (before, in the past, back then, formerly) : 1 meaning(s), 2 sentences
 - `t4k-c02-025` : กระแส (stream, flow; (figuratively) trend, wave) : 2 meaning(s), 4 sentences
 - `t4k-c02-026` : เท่ากับ (equal to, equivalent to) : 1 meaning(s), 2 sentences
@@ -8312,6 +8319,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-076` : ที่จริง (actually, in fact) : 1 meaning(s), 2 sentences
 - `t4k-c02-077` : ถัดไป, ถัดมา (next, following (in sequence)) : 1 meaning(s), 2 sentences
 - `t4k-c02-078` : ผลประโยชน์ (benefit, gain, interest) : 1 meaning(s), 2 sentences
+- `t4k-c02-080` : พระราชบัญญัติ (act (law passed by parliament), statute) : 1 meaning(s), 2 sentences
 - `t4k-c02-083` : บวก (to add; plus ("+"), positive) : 2 meaning(s), 4 sentences
 - `t4k-c02-084` : เก (twisted, crooked, bent) : 1 meaning(s), 2 sentences
 - `t4k-c02-087` : ถึงกับ ("so much... that", to the extent that) : 1 meaning(s), 2 sentences
@@ -8319,11 +8327,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-090` : ทั้งนั้น (all of them, every) : 1 meaning(s), 2 sentences
 - `t4k-c02-092` : เทคนิค (technique) : 1 meaning(s), 2 sentences
 - `t4k-c02-095` : อนามัย (hygiene, sanitation) : 1 meaning(s), 2 sentences
+- `t4k-c02-096` : ความดี (goodness, virtue) : 1 meaning(s), 2 sentences
 - `t4k-c02-098` : นึกถึง (to think of, to recall, to remember) : 1 meaning(s), 2 sentences
 - `t4k-c02-099` : พื้นดิน (ground, land, terrain) : 1 meaning(s), 2 sentences
 - `t4k-c03-000` : ราชา (ruler, monarch) : 1 meaning(s), 2 sentences
 - `t4k-c03-002` : เทพ (deity) : 1 meaning(s), 2 sentences
 - `t4k-c03-003` : ประสาท (nerve; (informal) crazy, losing it) : 2 meaning(s), 4 sentences
+- `t4k-c03-006` : วรรค (space (in a text), paragraph (in a legal section)) : 1 meaning(s), 2 sentences
 - `t4k-c03-007` : ผืน (classifier for thin cloth-like things (towel, blanket, mattress, sheet, etc) and land) : 1 meaning(s), 2 sentences
 - `t4k-c03-011` : กด (to press) : 1 meaning(s), 2 sentences
 - `t4k-c03-014` : คิดเห็น (to think, to be of the opinion) : 1 meaning(s), 2 sentences
