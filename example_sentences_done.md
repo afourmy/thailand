@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8574 words**
+**Total: 8584 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -5776,14 +5776,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c14-043` : ทำนา - ทำไร่ - ทำสวน (to do rice farming - to do dry crops farming - to do garden work) : 1 meaning(s), 3 sentences
 - `yt-c14-044` : น่าเกรงขาม ((person) worthy of awe and respect, commanding respect, formidable and intimidating) : 1 meaning(s), 2 sentences
 - `yt-c14-045` : ปลาหมอคางดำ ((type of fish) blackchin tilapia (very resistant, invasive species, can survive in the brackish water of Bangkok canals)) : 1 meaning(s), 2 sentences
+- `yt-c14-046` : น้ำกร่อย (brackish water (mix of fresh water and salt water)) : 1 meaning(s), 2 sentences
+- `yt-c14-047` : ถึก (resilient, tough, sturdy) : 1 meaning(s), 2 sentences
+- `yt-c14-049` : แดดเดียว (sun-dried (food preparation, like dried fish)) : 1 meaning(s), 2 sentences
+- `yt-c14-050` : อนุโมทนา (to rejoice in someone else's merit, to express gladness for someone's good deed) : 1 meaning(s), 2 sentences
 - `yt-c14-051` : สาธุ (said after someone does a good deed, makes a merit, or recites a prayer ("amen", "may it be blessed")) : 1 meaning(s), 2 sentences
 - `yt-c14-052` : หอน (to howl (the sound a wolf or dog makes)) : 1 meaning(s), 2 sentences
 - `yt-c14-053` : โลง, โลงศพ (coffin) : 1 meaning(s), 2 sentences
 - `yt-c14-054` : อุปมาอุปไมย (metaphor, analogy) : 1 meaning(s), 2 sentences
+- `yt-c14-055` : อยู่ก่อนแต่ง (living together as a couple before marriage) : 1 meaning(s), 2 sentences
+- `yt-c14-056` : พรหมจรรย์ (virginity (said of girls only), chastity, abstinence from sexual activity (Buddhism)) : 1 meaning(s), 2 sentences
+- `yt-c14-057` : รักษาความบริสุทธิ์, รักษาพรหมจรรย์ (to maintain purity (to not have sex with boys, remain a virgin e.g until marriage)) : 1 meaning(s), 2 sentences
+- `yt-c14-059` : เฉดหัว (to kick out, to chase away, to get rid of (someone)) : 1 meaning(s), 2 sentences
 - `yt-c14-060` : สินสอด (dowry, bride price (literally "property (goods, money) presented")) : 1 meaning(s), 2 sentences
 - `yt-c14-061` : เอาการเอางาน (hardworking, diligent, dedicated to work) : 1 meaning(s), 2 sentences
 - `yt-c14-062` : นิกาย (sect, religious order) : 1 meaning(s), 2 sentences
 - `yt-c14-063` : อภินิหาร (miracle, supernatural phenomenon (literary, religious)) : 1 meaning(s), 2 sentences
+- `yt-c14-064` : ประเสริฐ (noble, virtuous, superior) : 1 meaning(s), 2 sentences
+- `yt-c14-065` : สัญชาตญาณดิบ (primal instinct, raw instinct, animal instinct) : 1 meaning(s), 2 sentences
 - `yt-c14-066` : รักนวลสงวนตัว (chaste, to preserve one's chastity (literally "love purity and preserve oneself")) : 1 meaning(s), 2 sentences
 - `yt-c14-069` : เขิน (to feel shy in a cute, romantic way) : 1 meaning(s), 2 sentences
 - `yt-c14-070` : ปิ๊ง (to click, to instantly like, to have a sudden crush) : 1 meaning(s), 2 sentences
