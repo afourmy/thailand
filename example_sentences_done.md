@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8833 words**
+**Total: 8843 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6525,14 +6525,21 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c22-072` : เด็กเกเร (delinquent child, misbehaving and troublesome kid) : 1 meaning(s), 2 sentences
 - `yt-c22-073` : ย่ำ (to tread, to stomp on, to trample) : 1 meaning(s), 2 sentences
 - `yt-c22-074` : การผูกขาด (monopoly) : 1 meaning(s), 2 sentences
+- `yt-c22-075` : ดินพอกหางหมู (to let problems pile up, to keep postponing until things get worse, to procrastinate (literally "mud coating a pig's tail", i.e mud accumulating on pig's tail)) : 1 meaning(s), 2 sentences
 - `yt-c22-076` : ผู้อำนวยการ (managing director, executive director) : 1 meaning(s), 2 sentences
+- `yt-c22-077` : สิ่งปฏิกูล (waste, garbage) : 1 meaning(s), 2 sentences
 - `yt-c22-078` : หวานเจี๊ยบ (very sweet, overly sugary) : 1 meaning(s), 2 sentences
+- `new-69` : อุปสงค์ (demand (as in "demand and supply")) : 1 meaning(s), 2 sentences
+- `new-70` : อุปทาน (supply (as in "demand and supply")) : 1 meaning(s), 2 sentences
 - `yt-c22-080` : ไอ้สัตว์, อีสัตว์ (you (among friends), fucker, bitch (male, female)) : 1 meaning(s), 2 sentences
 - `new-6` : สัตว์ๆ ("fucking...", "...as fuck") : 1 meaning(s), 2 sentences
+- `yt-c22-081` : นับประสาอะไร ("let alone...", "not to mention...") : 1 meaning(s), 2 sentences
+- `yt-c22-082` : ร่าน (slutty, sexually promiscuous (sleeps around for free, not a prostitute)) : 1 meaning(s), 2 sentences
 - `yt-c22-083` : สารเลว (bastard, piece of shit, despicable person (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c22-084` : ประคับประคอง (to sustain, to maintain, to support something so it does not worsen or collapse) : 1 meaning(s), 2 sentences
 - `yt-c22-087` : หนักหัวใคร ("how does it concern you?", "it's none of your business" (literally "whose head is it heavy on")) : 1 meaning(s), 2 sentences
 - `yt-c22-088` : ทีใครทีมัน, ตัวใครตัวมัน ("every man for himself", "each person looks for themselves") : 1 meaning(s), 2 sentences
+- `yt-c22-089` : อีดอก (bitch, "you bitch" (used as just an insult, or to mean "promiscuous")) : 1 meaning(s), 2 sentences
 - `yt-c22-090` : เล่นตัว (to play hard to get) : 1 meaning(s), 2 sentences
 - `yt-c22-091` : ยังกะจะแยแส ("as if I cared", "as if they cared", "as if they give a damn" (slang)) : 1 meaning(s), 2 sentences
 - `yt-c22-092` : ...อะไรหนักหนา ("why so much?", "why so extreme?" (conveys irritation)) : 1 meaning(s), 2 sentences
@@ -6545,12 +6552,15 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c23-001` : หัวอก (one's feelings, state of mind, emotional state) : 1 meaning(s), 2 sentences
 - `yt-c23-002` : มองบน (to roll one's eyes, to look up in annoyance or exasperation) : 1 meaning(s), 2 sentences
 - `yt-c23-003` : เป็นหน้าเป็นตา (to make someone look good, to give "face", to bring prestige, pride, social credit) : 1 meaning(s), 2 sentences
+- `yt-c23-004` : สารตั้งต้น (starting substance used to produce something else (e.g chemistry, pharmacology); (figuratively) root cause, source of something that went bad) : 2 meaning(s), 4 sentences
 - `yt-c23-005` : คุมกำเนิด (birth control, contraception) : 1 meaning(s), 2 sentences
 - `yt-c23-006` : ครั้งแล้วครั้งเล่า (again and again, time and time again) : 1 meaning(s), 2 sentences
+- `yt-c23-007` : เวลาจะเป็นเครื่องพิสูจน์ ((idiom) time will tell) : 1 meaning(s), 2 sentences
 - `yt-c23-008` : ไม่ช้าก็เร็ว (sooner or later) : 1 meaning(s), 2 sentences
 - `yt-c23-009` : เวลาเป็นเงินเป็นทอง ((idiom) time is money) : 1 meaning(s), 2 sentences
 - `yt-c23-011` : ตะไบเล็บ (to file one's nails) : 1 meaning(s), 2 sentences
 - `yt-c23-012` : ปากต่อปาก (by word of mouth) : 1 meaning(s), 2 sentences
+- `yt-c23-013` : ใครต่อใคร (many people, all sorts of people) : 1 meaning(s), 2 sentences
 - `yt-c23-014` : เป็นประจำเดือน, เป็นเมนส์ (to be on one's period, to be menstruating) : 1 meaning(s), 2 sentences
 - `yt-c23-016` : ทำตัวถูก, วางตัวถูก (to behave properly, to do the right thing) : 1 meaning(s), 2 sentences
 - `yt-c23-017` : เอาแล้วไง ("here we go again..." (something negative about to happen)) : 1 meaning(s), 2 sentences
