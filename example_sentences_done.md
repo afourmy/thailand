@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8733 words**
+**Total: 8743 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -6203,14 +6203,24 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `yt-c19-017` : หุ่นเชิด (puppet, marionette) : 1 meaning(s), 2 sentences
 - `yt-c19-018` : คลั่ง (obsessed, crazy about, fanatical) : 1 meaning(s), 2 sentences
 - `yt-c19-018b` : คลุ้มคลั่ง (to go crazy, frenzied, in a rage) : 1 meaning(s), 2 sentences
+- `yt-c19-019` : คลั่งชาติ (ultra nationalist, fanatical patriot) : 1 meaning(s), 2 sentences
 - `yt-c19-020` : ขาดสติ (to lose one's mind, irrational, out of one's mind) : 1 meaning(s), 2 sentences
 - `yt-c19-021` : ปั่นหัว (to mess with someone's mind, to trick, to manipulate psychologically) : 1 meaning(s), 2 sentences
 - `yt-c19-022` : ปั่นประสาท (to drive someone crazy, to torment, to mess with someone's head (slang)) : 1 meaning(s), 2 sentences
+- `yt-c19-023` : เสื่อมความนิยม (to lose popularity, to decline in popularity) : 1 meaning(s), 2 sentences
+- `yt-c19-024` : โดนลูกหลง (collateral damage, to be caught in the crossfire (literally "to be hit by a stray bullet")) : 1 meaning(s), 2 sentences
+- `yt-c19-025` : ผู้น้อย (junior, low-ranking person (e.g at work or in the army)) : 1 meaning(s), 2 sentences
+- `yt-c19-026` : สิ้นใจ (to die, to pass away (formal)) : 1 meaning(s), 2 sentences
+- `yt-c19-027` : แบกความหวัง, แบกรับความหวัง (to bear the hopes, to shoulder others' expectations (e.g family) (literally "to carry hope")) : 1 meaning(s), 2 sentences
 - `yt-c19-028` : อวบ (chubby, plump) : 1 meaning(s), 2 sentences
+- `yt-c19-029` : ดูมีน้ำมีนวล (looks healthy, well fed, to look plump in a healthy way) : 1 meaning(s), 2 sentences
 - `yt-c19-030` : ขาดตกบกพร่อง (lacking, incomplete, to have shortcomings or omissions) : 1 meaning(s), 2 sentences
+- `yt-c19-031` : กำไลข้อเท้า, สร้อยข้อเท้า (anklet (worn as ornament in old Thai culture, sometimes to indicate social or marital status; also often associated with prostitution)) : 1 meaning(s), 2 sentences
 - `yt-c19-032` : กระพรวน (set of small bells tied together) : 1 meaning(s), 2 sentences
+- `yt-c19-033` : อีตัว (hooker, whore (vulgar, very rude)) : 1 meaning(s), 2 sentences
 - `yt-c19-034` : กะหรี่ (whore, slut, prostitute (slang, rude)) : 1 meaning(s), 2 sentences
 - `yt-c19-035` : ล่อ - ล่อหลอก (to lure, to entice, to bait - to trick, to deceive by luring) : 1 meaning(s), 2 sentences
+- `yt-c19-036` : ล่อตาโจร (attractive enough to tempt thieves, eye-catching in a risky way (e.g wearing gold, etc) (literally "to lure thieves")) : 1 meaning(s), 2 sentences
 - `yt-c19-037` : นาก (otter) : 1 meaning(s), 2 sentences
 - `yt-c19-038` : ไม้เซลฟี่ (selfie stick) : 1 meaning(s), 2 sentences
 - `yt-c19-039` : ถ่ายเผื่อ (to take extra photos for someone (take a serie of photos for someone)) : 1 meaning(s), 2 sentences
