@@ -10,19 +10,21 @@ So the test for every word is about **spoken** Thai, never about whether Thais w
 
 One important nuance: spoken Thai is broader than casual chat. Journalists, TV news anchors, radio hosts, and podcast presenters speak a somewhat formal Thai, and that still counts as spoken Thai. A word is only "written Thai" if it lives mostly in books, official documents, and other text, and is not really said out loud even by broadcasters.
 
+The test is a person **talking**: an anchor, a host, an interviewee, a guest. Text that merely gets *read out* is not speech for this purpose. PA and recorded announcements, legal warnings, signage, forms, and ceremony scripts do NOT count, no matter how often I hear them. A word that survives only in those places is `rare`, because I could never use it with a Thai person without sounding like a loudspeaker. (มิฉะนั้น, เป็นอันขาด, บัดนี้ are `rare` for exactly this reason: anchors talking say หากไม่, ไม่เช่นนั้น, ห้ามเด็ดขาด, ตอนนี้.)
+
 ## The four categories
 
 - **everyday**: words used literally every day. If you spend one day talking with a Thai friend, you WILL end up using or hearing this word. (กิน, ไป, อร่อย, แต่ว่า, เคย)
 - **common**: words used commonly as part of a normal, casual conversation with friends. Informal spoken Thai. You would not necessarily hear them every single day, but they raise no eyebrows in a chat. (แหงสิ, จุ้นจ้าน, ฉลุย)
-- **occasional**: formal words BUT still regularly used in spoken Thai. This is the news-and-broadcast register: words you can hear on TV news, radio, podcasts, Thai PBS, in speeches and announcements. A friend might find them stiff in a casual chat, but a news anchor says them naturally. (เผยแพร่, คมนาคม, วิกฤตการณ์, ประชามติ)
-- **rare**: everything that is not really used in spoken Thai at all. Literary words (mostly found in books and novels), official-document and legal language, religious words, royal words. Even broadcasters rarely say them; they are encountered in text. (ทว่า, ทันใด, พระราชกฤษฎีกา, ราชโองการ)
+- **occasional**: formal words BUT still regularly used in spoken Thai. This is the news-and-broadcast register: words you can hear on TV news, radio, podcasts, Thai PBS, and in speeches. A friend might find them stiff in a casual chat, but a news anchor says them naturally. (เผยแพร่, คมนาคม, วิกฤตการณ์, ประชามติ)
+- **rare**: everything that is not really used in spoken Thai at all. Literary words (mostly found in books and novels), official-document and legal language, announcement and signage formulas, religious words, royal words. Even broadcasters rarely say them; they are encountered in text, or read out from it. (ทว่า, ทันใด, มิฉะนั้น, พระราชกฤษฎีกา, ราชโองการ)
 
 ## How to decide (apply the questions in this order)
 
 1. **Would this word inevitably come up in one ordinary day of chatting with a friend?** Yes: `everyday`.
 2. **Would a Thai person say this naturally in a casual conversation with friends, without it sounding bookish or stiff?** Yes: `common`.
-3. **Even if it is too formal for a chat, do you regularly hear it spoken on TV news, radio, or podcasts?** Yes: `occasional`. The word must actually be *said aloud* in broadcasts with some regularity, not merely be the kind of word that could appear in a news script.
-4. **Otherwise**: `rare`. This is where all predominantly written words go: literary vocabulary, novel and essay language, official and legal terminology, scripture and monk-register religious vocabulary, royal vocabulary (ราชาศัพท์).
+3. **Even if it is too formal for a chat, would an anchor, host, or guest say it while talking on TV news, radio, or a podcast?** Yes: `occasional`. The word must actually be *said* by someone speaking, with some regularity. Not enough: that it could appear in a news script, or that it gets read out over a loudspeaker.
+4. **Otherwise**: `rare`. This is where all predominantly written words go: literary vocabulary, novel and essay language, official and legal terminology, announcement and signage formulas, scripture and monk-register religious vocabulary, royal vocabulary (ราชาศัพท์).
 
 Edge cases:
 
@@ -47,6 +49,8 @@ Work through `vocab.json` in batches of 20 words, in deck order. For each word, 
   ```
 
   The proposal line is: the id, the Thai, `current -> proposed`, the gloss in quotes, and a short reason saying where the word actually lives (chat / broadcast / text). Words whose current label is right are simply not listed.
+
+  Name the concrete home in that reason: "anchor copy", "traffic report", "menu", "police report", "song lyric", "notice on a wall". Do not write "written register" as a catch-all, it blurs the one boundary that matters, since a word read out in announcements and a word an anchor actually says land in different categories.
 
 - **How I decide:** I **delete** the lines I do not accept. I write nothing. When I am done, every proposal line still in the file is accepted, so the merge step must apply exactly the lines that remain (extra blank lines left behind by deletions mean nothing).
 - After each batch, tell me briefly how many words you checked and how many proposals you added, and continue to the next batch without waiting, unless a batch contains words you flagged as genuinely borderline, in which case stop and ask.
