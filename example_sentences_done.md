@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9112 words**
+**Total: 9122 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9116,3 +9116,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-185` : เหยียดเชื้อชาติ (racism (based on ethnicity or nationality)) : 1 meaning(s), 2 sentences
 - `new-186` : พรหมลิขิต (destiny, fate, predestined path) : 1 meaning(s), 2 sentences
 - `new-187` : อดออม (to be thrifty, to save by spending less) : 1 meaning(s), 2 sentences
+- `new-188` : มัธยัสถ์ (frugal, thrifty, careful with money (formal)) : 1 meaning(s), 2 sentences
+- `new-189` : กัลยาณมิตร (virtuous friend, a good friend who leads you in a good direction spiritually (Buddhism)) : 1 meaning(s), 2 sentences
+- `new-190` : เบิ้ล (to double up, to do a second round, to repeat (slang)) : 1 meaning(s), 2 sentences
+- `new-191` : หน้าไหว้หลังหลอก ((idiom) two-faced, friendly to your face but bad behind your back) : 1 meaning(s), 2 sentences
+- `new-192` : สารภูมิต้านทาน (antibody) : 1 meaning(s), 2 sentences
+- `new-193` : วัณโรค (tuberculosis (TB)) : 1 meaning(s), 2 sentences
+- `new-194` : พูดติดอ่าง (to stutter, to stammer) : 1 meaning(s), 2 sentences
+- `new-195` : ซุบซิบ (to whisper, to gossip in a low voice) : 1 meaning(s), 2 sentences
+- `new-196` : ริดสีดวงทวาร (hemorrhoids) : 1 meaning(s), 2 sentences
+- `new-197` : ชินชา (to stop caring about something after getting used to it, desensitized, indifferent) : 1 meaning(s), 2 sentences

@@ -245476,61 +245476,251 @@
     "id": "new-188",
     "thai": "มัธยัสถ์",
     "english": "frugal, thrifty, careful with money (formal)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "frugal, thrifty, careful with money (formal)",
+        "sentences": [
+          {
+            "thai": "เขาใช้ชีวิตอย่างมัธยัสถ์มาตลอด",
+            "en": "He has always lived frugally.",
+            "audio_src": "เขาใช้ชีวิตอย่างมัธยัสถ์มาตลอด",
+            "audio_en_src": "He has always lived frugally."
+          },
+          {
+            "thai": "ถึงจะรวย แต่ท่านก็มัธยัสถ์มาก",
+            "en": "Even though he's wealthy, he's very careful with money.",
+            "audio_src": "ถึงจะรวย แต่ท่านก็มัธยัสถ์มาก",
+            "audio_en_src": "Even though he's wealthy, he's very careful with money."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-189",
     "thai": "กัลยาณมิตร",
     "english": "virtuous friend, a good friend who leads you in a good direction spiritually (Buddhism)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "virtuous friend, a good friend who leads you in a good direction spiritually (Buddhism)",
+        "sentences": [
+          {
+            "thai": "พระท่านสอนให้คบกัลยาณมิตร",
+            "en": "The monk taught us to keep virtuous friends.",
+            "audio_src": "พระท่านสอนให้คบกัลยาณมิตร",
+            "audio_en_src": "The monk taught us to keep virtuous friends."
+          },
+          {
+            "thai": "เขาเป็นกัลยาณมิตรที่คอยเตือนสติฉันเสมอ",
+            "en": "He's a true good friend who always helps me stay grounded.",
+            "audio_src": "เขาเป็นกัลยาณมิตรที่คอยเตือนสติฉันเสมอ",
+            "audio_en_src": "He's a true good friend who always helps me stay grounded."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-190",
     "thai": "เบิ้ล",
     "english": "to double up, to do a second round, to repeat (slang)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to double up, to do a second round, to repeat (slang)",
+        "sentences": [
+          {
+            "thai": "ข้าวจานเดียวไม่พอ ขอเบิ้ลอีกจาน",
+            "en": "One plate of rice isn't enough, I'll have another round.",
+            "audio_src": "ข้าวจานเดียวไม่พอ ขอเบิ้ลอีกจาน",
+            "audio_en_src": "One plate of rice isn't enough, I'll have another round."
+          },
+          {
+            "thai": "กาแฟแก้วนี้ขอเบิ้ลช็อตนะ",
+            "en": "Make this coffee a double shot.",
+            "audio_src": "กาแฟแก้วนี้ขอเบิ้ลช็อตนะ",
+            "audio_en_src": "Make this coffee a double shot."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-191",
     "thai": "หน้าไหว้หลังหลอก",
     "english": "(idiom) two-faced, friendly to your face but bad behind your back",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "(idiom) two-faced, friendly to your face but bad behind your back",
+        "sentences": [
+          {
+            "thai": "อย่าไปไว้ใจเขา คนแบบนี้หน้าไหว้หลังหลอก",
+            "en": "Don't trust him, people like that are two-faced.",
+            "audio_src": "อย่าไปไว้ใจเขา คนแบบนี้หน้าไหว้หลังหลอก",
+            "audio_en_src": "Don't trust him, people like that are two-faced."
+          },
+          {
+            "thai": "ต่อหน้าชม ลับหลังนินทา หน้าไหว้หลังหลอกชัดๆ",
+            "en": "Compliments to your face, gossip behind your back, textbook two-faced.",
+            "audio_src": "ต่อหน้าชม ลับหลังนินทา หน้าไหว้หลังหลอกชัดๆ",
+            "audio_en_src": "Compliments to your face, gossip behind your back, textbook two-faced."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-192",
     "thai": "สารภูมิต้านทาน",
     "english": "antibody",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "antibody",
+        "sentences": [
+          {
+            "thai": "ร่างกายสร้างสารภูมิต้านทานหลังฉีดวัคซีน",
+            "en": "The body produces antibodies after vaccination.",
+            "audio_src": "ร่างกายสร้างสารภูมิต้านทานหลังฉีดวัคซีน",
+            "audio_en_src": "The body produces antibodies after vaccination."
+          },
+          {
+            "thai": "หมอตรวจระดับสารภูมิต้านทานในเลือด",
+            "en": "The doctor checked the antibody levels in his blood.",
+            "audio_src": "หมอตรวจระดับสารภูมิต้านทานในเลือด",
+            "audio_en_src": "The doctor checked the antibody levels in his blood."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-193",
     "thai": "วัณโรค",
     "english": "tuberculosis (TB)",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "tuberculosis (TB)",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนวัณโรคเป็นโรคที่น่ากลัวมาก",
+            "en": "Tuberculosis used to be a terrifying disease.",
+            "audio_src": "สมัยก่อนวัณโรคเป็นโรคที่น่ากลัวมาก",
+            "audio_en_src": "Tuberculosis used to be a terrifying disease."
+          },
+          {
+            "thai": "เขาไอเรื้อรัง หมอเลยตรวจหาวัณโรค",
+            "en": "He had a chronic cough, so the doctor tested him for TB.",
+            "audio_src": "เขาไอเรื้อรัง หมอเลยตรวจหาวัณโรค",
+            "audio_en_src": "He had a chronic cough, so the doctor tested him for TB."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-194",
     "thai": "พูดติดอ่าง",
     "english": "to stutter, to stammer",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to stutter, to stammer",
+        "sentences": [
+          {
+            "thai": "เขาพูดติดอ่างเวลาตื่นเต้น",
+            "en": "He stutters when he's nervous.",
+            "audio_src": "เขาพูดติดอ่างเวลาตื่นเต้น",
+            "audio_en_src": "He stutters when he's nervous."
+          },
+          {
+            "thai": "เด็กบางคนพูดติดอ่างแล้วหายเองตอนโต",
+            "en": "Some kids stutter and grow out of it.",
+            "audio_src": "เด็กบางคนพูดติดอ่างแล้วหายเองตอนโต",
+            "audio_en_src": "Some kids stutter and grow out of it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-195",
     "thai": "ซุบซิบ",
     "english": "to whisper, to gossip in a low voice",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to whisper, to gossip in a low voice",
+        "sentences": [
+          {
+            "thai": "สองคนนั้นซุบซิบอะไรกันอยู่",
+            "en": "What are those two whispering about?",
+            "audio_src": "สองคนนั้นซุบซิบอะไรกันอยู่",
+            "audio_en_src": "What are those two whispering about?"
+          },
+          {
+            "thai": "เพื่อนบ้านซุบซิบกันเรื่องบ้านหลังนั้น",
+            "en": "The neighbors are gossiping about that house.",
+            "audio_src": "เพื่อนบ้านซุบซิบกันเรื่องบ้านหลังนั้น",
+            "audio_en_src": "The neighbors are gossiping about that house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-196",
     "thai": "ริดสีดวงทวาร",
     "english": "hemorrhoids",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "hemorrhoids",
+        "sentences": [
+          {
+            "thai": "นั่งนานๆ เสี่ยงเป็นริดสีดวงทวาร",
+            "en": "Sitting for long periods raises your risk of hemorrhoids.",
+            "audio_src": "นั่งนานๆ เสี่ยงเป็นริดสีดวงทวาร",
+            "audio_en_src": "Sitting for long periods raises your risk of hemorrhoids."
+          },
+          {
+            "thai": "เขาไปหาหมอเพราะริดสีดวงทวารกำเริบ",
+            "en": "He went to the doctor because his hemorrhoids flared up.",
+            "audio_src": "เขาไปหาหมอเพราะริดสีดวงทวารกำเริบ",
+            "audio_en_src": "He went to the doctor because his hemorrhoids flared up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-197",
     "thai": "ชินชา",
     "english": "to stop caring about something after getting used to it, desensitized, indifferent",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to stop caring about something after getting used to it, desensitized, indifferent",
+        "sentences": [
+          {
+            "thai": "คนกรุงเทพชินชากับรถติดไปแล้ว",
+            "en": "Bangkok people have grown numb to the traffic.",
+            "audio_src": "คนกรุงเทพชินชากับรถติดไปแล้ว",
+            "audio_en_src": "Bangkok people have grown numb to the traffic."
+          },
+          {
+            "thai": "เห็นข่าวร้ายบ่อยจนชินชา",
+            "en": "I see bad news so often I've stopped feeling anything.",
+            "audio_src": "เห็นข่าวร้ายบ่อยจนชินชา",
+            "audio_en_src": "I see bad news so often I've stopped feeling anything."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-198",
