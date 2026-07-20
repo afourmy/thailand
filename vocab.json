@@ -243726,61 +243726,251 @@
     "id": "new-118",
     "thai": "คุณลักษณะ",
     "english": "characteristic, feature, quality",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "characteristic, feature, quality",
+        "sentences": [
+          {
+            "thai": "ผู้นำที่ดีต้องมีคุณลักษณะอะไรบ้าง",
+            "en": "What qualities should a good leader have?",
+            "audio_src": "ผู้นำที่ดีต้องมีคุณลักษณะอะไรบ้าง",
+            "audio_en_src": "What qualities should a good leader have?"
+          },
+          {
+            "thai": "สินค้าแต่ละรุ่นมีคุณลักษณะต่างกัน",
+            "en": "Each model has different features.",
+            "audio_src": "สินค้าแต่ละรุ่นมีคุณลักษณะต่างกัน",
+            "audio_en_src": "Each model has different features."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-119",
     "thai": "ผูกขาด",
     "english": "to monopolize, to have a monopoly",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to monopolize, to have a monopoly",
+        "sentences": [
+          {
+            "thai": "บริษัทนี้ผูกขาดตลาดมานานหลายปี",
+            "en": "This company has monopolized the market for years.",
+            "audio_src": "บริษัทนี้ผูกขาดตลาดมานานหลายปี",
+            "audio_en_src": "This company has monopolized the market for years."
+          },
+          {
+            "thai": "อย่าผูกขาดการตัดสินใจไว้คนเดียว",
+            "en": "Don't monopolize the decision-making.",
+            "audio_src": "อย่าผูกขาดการตัดสินใจไว้คนเดียว",
+            "audio_en_src": "Don't monopolize the decision-making."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-120",
     "thai": "เสนอแนะ",
     "english": "to suggest, to recommend",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to suggest, to recommend",
+        "sentences": [
+          {
+            "thai": "ที่ปรึกษาเสนอแนะให้ปรับแผนใหม่",
+            "en": "The consultant suggested revising the plan.",
+            "audio_src": "ที่ปรึกษาเสนอแนะให้ปรับแผนใหม่",
+            "audio_en_src": "The consultant suggested revising the plan."
+          },
+          {
+            "thai": "มีอะไรจะเสนอแนะเพิ่มเติมไหม",
+            "en": "Do you have any other suggestions?",
+            "audio_src": "มีอะไรจะเสนอแนะเพิ่มเติมไหม",
+            "audio_en_src": "Do you have any other suggestions?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-121",
     "thai": "เดินหน้า",
     "english": "to advance, to move forward, to progress",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to advance, to move forward, to progress",
+        "sentences": [
+          {
+            "thai": "โครงการนี้ต้องเดินหน้าต่อ",
+            "en": "This project has to move forward.",
+            "audio_src": "โครงการนี้ต้องเดินหน้าต่อ",
+            "audio_en_src": "This project has to move forward."
+          },
+          {
+            "thai": "รัฐบาลยืนยันจะเดินหน้าแก้ปัญหาเศรษฐกิจ",
+            "en": "The government insists it will press ahead with fixing the economy.",
+            "audio_src": "รัฐบาลยืนยันจะเดินหน้าแก้ปัญหาเศรษฐกิจ",
+            "audio_en_src": "The government insists it will press ahead with fixing the economy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-122",
     "thai": "แก๊ง",
     "english": "gang",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "gang",
+        "sentences": [
+          {
+            "thai": "ตำรวจจับแก๊งขายยาได้เมื่อคืน",
+            "en": "The police busted a drug gang last night.",
+            "audio_src": "ตำรวจจับแก๊งขายยาได้เมื่อคืน",
+            "audio_en_src": "The police busted a drug gang last night."
+          },
+          {
+            "thai": "เย็นนี้ไปกินหมูกระทะกับแก๊งเพื่อน",
+            "en": "I'm going out for Thai barbecue with the gang tonight.",
+            "audio_src": "เย็นนี้ไปกินหมูกระทะกับแก๊งเพื่อน",
+            "audio_en_src": "I'm going out for Thai barbecue with the gang tonight."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-123",
     "thai": "บริบท",
     "english": "context",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "context",
+        "sentences": [
+          {
+            "thai": "คำนี้ความหมายเปลี่ยนไปตามบริบท",
+            "en": "This word's meaning changes with context.",
+            "audio_src": "คำนี้ความหมายเปลี่ยนไปตามบริบท",
+            "audio_en_src": "This word's meaning changes with context."
+          },
+          {
+            "thai": "อย่าตัดคำพูดใครออกจากบริบท",
+            "en": "Don't take anyone's words out of context.",
+            "audio_src": "อย่าตัดคำพูดใครออกจากบริบท",
+            "audio_en_src": "Don't take anyone's words out of context."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-124",
     "thai": "แถลงข่าว",
     "english": "to give a press statement, to hold a press conference",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to give a press statement, to hold a press conference",
+        "sentences": [
+          {
+            "thai": "บ่ายนี้นายกจะแถลงข่าวเรื่องน้ำท่วม",
+            "en": "The prime minister will hold a press conference about the floods this afternoon.",
+            "audio_src": "บ่ายนี้นายกจะแถลงข่าวเรื่องน้ำท่วม",
+            "audio_en_src": "The prime minister will hold a press conference about the floods this afternoon."
+          },
+          {
+            "thai": "สโมสรแถลงข่าวเปิดตัวนักเตะใหม่",
+            "en": "The club held a press conference to unveil its new player.",
+            "audio_src": "สโมสรแถลงข่าวเปิดตัวนักเตะใหม่",
+            "audio_en_src": "The club held a press conference to unveil its new player."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-125",
     "thai": "วิว",
     "english": "view, scenery",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "view, scenery",
+        "sentences": [
+          {
+            "thai": "ห้องนี้วิวสวยมาก เห็นทะเลเต็มๆ",
+            "en": "This room has a great view, you can see the whole sea.",
+            "audio_src": "ห้องนี้วิวสวยมาก เห็นทะเลเต็มๆ",
+            "audio_en_src": "This room has a great view, you can see the whole sea."
+          },
+          {
+            "thai": "ขอโต๊ะริมหน้าต่างได้ไหม อยากได้วิว",
+            "en": "Can we get a table by the window? I want the view.",
+            "audio_src": "ขอโต๊ะริมหน้าต่างได้ไหม อยากได้วิว",
+            "audio_en_src": "Can we get a table by the window? I want the view."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-126",
     "thai": "สมการ",
     "english": "equation",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "equation",
+        "sentences": [
+          {
+            "thai": "ครูให้แก้สมการสิบข้อ",
+            "en": "The teacher assigned ten equations to solve.",
+            "audio_src": "ครูให้แก้สมการสิบข้อ",
+            "audio_en_src": "The teacher assigned ten equations to solve."
+          },
+          {
+            "thai": "สมการข้อนี้มีสองคำตอบ",
+            "en": "This equation has two solutions.",
+            "audio_src": "สมการข้อนี้มีสองคำตอบ",
+            "audio_en_src": "This equation has two solutions."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-127",
     "thai": "แกนนำ",
     "english": "leader, key organizor, leading figure",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "leader, key organizor, leading figure",
+        "sentences": [
+          {
+            "thai": "ตำรวจเรียกแกนนำผู้ชุมนุมไปคุย",
+            "en": "The police called the protest leaders in for a talk.",
+            "audio_src": "ตำรวจเรียกแกนนำผู้ชุมนุมไปคุย",
+            "audio_en_src": "The police called the protest leaders in for a talk."
+          },
+          {
+            "thai": "เขาเป็นแกนนำในการคัดค้านโครงการนี้",
+            "en": "He's a leading figure in the opposition to this project.",
+            "audio_src": "เขาเป็นแกนนำในการคัดค้านโครงการนี้",
+            "audio_en_src": "He's a leading figure in the opposition to this project."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-128",

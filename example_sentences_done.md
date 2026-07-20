@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9042 words**
+**Total: 9052 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9046,3 +9046,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-115` : โต้แย้ง (to dispute, to argue) : 1 meaning(s), 2 sentences
 - `new-116` : โอบ (to embrace, to put one's arm around; to surround, to encircle) : 2 meaning(s), 4 sentences
 - `new-117` : มูลฝอย (garbage, solid waste) : 1 meaning(s), 2 sentences
+- `new-118` : คุณลักษณะ (characteristic, feature, quality) : 1 meaning(s), 2 sentences
+- `new-119` : ผูกขาด (to monopolize, to have a monopoly) : 1 meaning(s), 2 sentences
+- `new-120` : เสนอแนะ (to suggest, to recommend) : 1 meaning(s), 2 sentences
+- `new-121` : เดินหน้า (to advance, to move forward, to progress) : 1 meaning(s), 2 sentences
+- `new-122` : แก๊ง (gang) : 1 meaning(s), 2 sentences
+- `new-123` : บริบท (context) : 1 meaning(s), 2 sentences
+- `new-124` : แถลงข่าว (to give a press statement, to hold a press conference) : 1 meaning(s), 2 sentences
+- `new-125` : วิว (view, scenery) : 1 meaning(s), 2 sentences
+- `new-126` : สมการ (equation) : 1 meaning(s), 2 sentences
+- `new-127` : แกนนำ (leader, key organizor, leading figure) : 1 meaning(s), 2 sentences
