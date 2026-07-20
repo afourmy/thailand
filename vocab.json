@@ -242692,61 +242692,251 @@
     "id": "new-78",
     "thai": "ผ่อนคลาย",
     "english": "to relax, to unwind",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to relax, to unwind",
+        "sentences": [
+          {
+            "thai": "ฟังเพลงช่วยให้ผ่อนคลาย",
+            "en": "Listening to music helps me relax.",
+            "audio_src": "ฟังเพลงช่วยให้ผ่อนคลาย",
+            "audio_en_src": "Listening to music helps me relax."
+          },
+          {
+            "thai": "วันหยุดนี้อยากผ่อนคลายอยู่บ้านเฉยๆ",
+            "en": "This holiday I just want to unwind at home.",
+            "audio_src": "วันหยุดนี้อยากผ่อนคลายอยู่บ้านเฉยๆ",
+            "audio_en_src": "This holiday I just want to unwind at home."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-79",
     "thai": "พิษ",
     "english": "poison",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "poison",
+        "sentences": [
+          {
+            "thai": "เห็ดบางชนิดมีพิษ",
+            "en": "Some mushrooms are poisonous.",
+            "audio_src": "เห็ดบางชนิดมีพิษ",
+            "audio_en_src": "Some mushrooms are poisonous."
+          },
+          {
+            "thai": "งูตัวนี้พิษแรงมาก",
+            "en": "This snake's venom is really strong.",
+            "audio_src": "งูตัวนี้พิษแรงมาก",
+            "audio_en_src": "This snake's venom is really strong."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-80",
     "thai": "ผู้เขียน",
     "english": "author, writer",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "author, writer",
+        "sentences": [
+          {
+            "thai": "ผู้เขียนหนังสือเล่มนี้เป็นหมอ",
+            "en": "The author of this book is a doctor.",
+            "audio_src": "ผู้เขียนหนังสือเล่มนี้เป็นหมอ",
+            "audio_en_src": "The author of this book is a doctor."
+          },
+          {
+            "thai": "ความเห็นในบทความเป็นของผู้เขียนเอง",
+            "en": "The opinions in the article are the author's own.",
+            "audio_src": "ความเห็นในบทความเป็นของผู้เขียนเอง",
+            "audio_en_src": "The opinions in the article are the author's own."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-81",
     "thai": "เผชิญ",
     "english": "to face, to confront",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to face, to confront",
+        "sentences": [
+          {
+            "thai": "เขาต้องเผชิญกับปัญหาหลายอย่างพร้อมกัน",
+            "en": "He has to face several problems at once.",
+            "audio_src": "เขาต้องเผชิญกับปัญหาหลายอย่างพร้อมกัน",
+            "audio_en_src": "He has to face several problems at once."
+          },
+          {
+            "thai": "ชาวบ้านต้องเผชิญกับน้ำท่วมทุกปี",
+            "en": "The villagers face floods every year.",
+            "audio_src": "ชาวบ้านต้องเผชิญกับน้ำท่วมทุกปี",
+            "audio_en_src": "The villagers face floods every year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-82",
     "thai": "เผยแพร่",
     "english": "to publish, to make public, to disseminate",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to publish, to make public, to disseminate",
+        "sentences": [
+          {
+            "thai": "งานวิจัยนี้เผยแพร่เมื่อปีที่แล้ว",
+            "en": "This research was published last year.",
+            "audio_src": "งานวิจัยนี้เผยแพร่เมื่อปีที่แล้ว",
+            "audio_en_src": "This research was published last year."
+          },
+          {
+            "thai": "ห้ามเผยแพร่ข้อมูลส่วนตัวของคนอื่น",
+            "en": "Don't spread other people's personal information.",
+            "audio_src": "ห้ามเผยแพร่ข้อมูลส่วนตัวของคนอื่น",
+            "audio_en_src": "Don't spread other people's personal information."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-83",
     "thai": "ใบหน้า",
     "english": "face",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "face",
+        "sentences": [
+          {
+            "thai": "ใบหน้าของเขาดูเหนื่อยมาก",
+            "en": "His face looks very tired.",
+            "audio_src": "ใบหน้าของเขาดูเหนื่อยมาก",
+            "audio_en_src": "His face looks very tired."
+          },
+          {
+            "thai": "ตำรวจจำใบหน้าคนร้ายได้",
+            "en": "The police recognized the suspect's face.",
+            "audio_src": "ตำรวจจำใบหน้าคนร้ายได้",
+            "audio_en_src": "The police recognized the suspect's face."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-84",
     "thai": "ปฏิวัติ",
     "english": "to overthrow, to stage a revolution",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to overthrow, to stage a revolution",
+        "sentences": [
+          {
+            "thai": "ทหารกลุ่มหนึ่งวางแผนปฏิวัติรัฐบาล",
+            "en": "A group of soldiers planned to overthrow the government.",
+            "audio_src": "ทหารกลุ่มหนึ่งวางแผนปฏิวัติรัฐบาล",
+            "audio_en_src": "A group of soldiers planned to overthrow the government."
+          },
+          {
+            "thai": "ประเทศนี้เคยเกิดการปฏิวัติหลายครั้ง",
+            "en": "This country has been through several revolutions.",
+            "audio_src": "ประเทศนี้เคยเกิดการปฏิวัติหลายครั้ง",
+            "audio_en_src": "This country has been through several revolutions."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-85",
     "thai": "รับใช้",
     "english": "to serve, to work for, to be in service",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to serve, to work for, to be in service",
+        "sentences": [
+          {
+            "thai": "เขารับใช้ในวังมาตั้งแต่หนุ่มๆ",
+            "en": "He has served in the palace since he was young.",
+            "audio_src": "เขารับใช้ในวังมาตั้งแต่หนุ่มๆ",
+            "audio_en_src": "He has served in the palace since he was young."
+          },
+          {
+            "thai": "ทหารรับใช้ชาติ",
+            "en": "Soldiers serve the nation.",
+            "audio_src": "ทหารรับใช้ชาติ",
+            "audio_en_src": "Soldiers serve the nation."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-86",
     "thai": "ผจญภัย",
     "english": "to go on an adventure, to face danger",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to go on an adventure, to face danger",
+        "sentences": [
+          {
+            "thai": "ปิดเทอมนี้เด็กๆ อยากไปผจญภัยในป่า",
+            "en": "This school break the kids want to go on an adventure in the forest.",
+            "audio_src": "ปิดเทอมนี้เด็กๆ อยากไปผจญภัยในป่า",
+            "audio_en_src": "This school break the kids want to go on an adventure in the forest."
+          },
+          {
+            "thai": "เขาชอบเดินทางผจญภัยคนเดียว",
+            "en": "He likes to travel and seek adventure on his own.",
+            "audio_src": "เขาชอบเดินทางผจญภัยคนเดียว",
+            "audio_en_src": "He likes to travel and seek adventure on his own."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-87",
     "thai": "ศูนย์กลาง",
     "english": "center, central point, middle",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "center, central point, middle",
+        "sentences": [
+          {
+            "thai": "กรุงเทพเป็นศูนย์กลางเศรษฐกิจของประเทศ",
+            "en": "Bangkok is the country's economic center.",
+            "audio_src": "กรุงเทพเป็นศูนย์กลางเศรษฐกิจของประเทศ",
+            "audio_en_src": "Bangkok is the country's economic center."
+          },
+          {
+            "thai": "วัดเคยเป็นศูนย์กลางของชุมชน",
+            "en": "Temples used to be the center of the community.",
+            "audio_src": "วัดเคยเป็นศูนย์กลางของชุมชน",
+            "audio_en_src": "Temples used to be the center of the community."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-88",

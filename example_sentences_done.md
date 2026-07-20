@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9002 words**
+**Total: 9012 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9006,3 +9006,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-75` : ติด (to stick, to attach, to be attached; to be addicted) : 2 meaning(s), 4 sentences
 - `new-76` : สื่อ (media) : 1 meaning(s), 2 sentences
 - `new-77` : เคลื่อนไหว (to move, to be in motion) : 1 meaning(s), 2 sentences
+- `new-78` : ผ่อนคลาย (to relax, to unwind) : 1 meaning(s), 2 sentences
+- `new-79` : พิษ (poison) : 1 meaning(s), 2 sentences
+- `new-80` : ผู้เขียน (author, writer) : 1 meaning(s), 2 sentences
+- `new-81` : เผชิญ (to face, to confront) : 1 meaning(s), 2 sentences
+- `new-82` : เผยแพร่ (to publish, to make public, to disseminate) : 1 meaning(s), 2 sentences
+- `new-83` : ใบหน้า (face) : 1 meaning(s), 2 sentences
+- `new-84` : ปฏิวัติ (to overthrow, to stage a revolution) : 1 meaning(s), 2 sentences
+- `new-85` : รับใช้ (to serve, to work for, to be in service) : 1 meaning(s), 2 sentences
+- `new-86` : ผจญภัย (to go on an adventure, to face danger) : 1 meaning(s), 2 sentences
+- `new-87` : ศูนย์กลาง (center, central point, middle) : 1 meaning(s), 2 sentences
