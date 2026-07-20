@@ -243976,61 +243976,251 @@
     "id": "new-128",
     "thai": "อนุโลม",
     "english": "to allow as an exception, to relax a rule",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to allow as an exception, to relax a rule",
+        "sentences": [
+          {
+            "thai": "ปกติต้องใส่สูท แต่วันนี้อนุโลมให้",
+            "en": "Normally you have to wear a suit, but today they let it slide.",
+            "audio_src": "ปกติต้องใส่สูท แต่วันนี้อนุโลมให้",
+            "audio_en_src": "Normally you have to wear a suit, but today they let it slide."
+          },
+          {
+            "thai": "เจ้าหน้าที่อนุโลมให้เข้าไปได้เป็นกรณีพิเศษ",
+            "en": "The officer allowed us in as a special exception.",
+            "audio_src": "เจ้าหน้าที่อนุโลมให้เข้าไปได้เป็นกรณีพิเศษ",
+            "audio_en_src": "The officer allowed us in as a special exception."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-129",
     "thai": "เวทนา",
     "english": "pity, to sympathize with",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "pity, to sympathize with",
+        "sentences": [
+          {
+            "thai": "เห็นสภาพเขาแล้วน่าเวทนา",
+            "en": "Seeing the state he's in, you can't help but pity him.",
+            "audio_src": "เห็นสภาพเขาแล้วน่าเวทนา",
+            "audio_en_src": "Seeing the state he's in, you can't help but pity him."
+          },
+          {
+            "thai": "ฉันเวทนาเด็กพวกนั้นจริงๆ",
+            "en": "I really pity those kids.",
+            "audio_src": "ฉันเวทนาเด็กพวกนั้นจริงๆ",
+            "audio_en_src": "I really pity those kids."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-130",
     "thai": "พระราชกฤษฎีกา",
     "english": "royal decree (a law issued by the King)",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "royal decree (a law issued by the King)",
+        "sentences": [
+          {
+            "thai": "มีการออกพระราชกฤษฎีกาให้ยุบสภา",
+            "en": "A royal decree was issued to dissolve parliament.",
+            "audio_src": "มีการออกพระราชกฤษฎีกาให้ยุบสภา",
+            "audio_en_src": "A royal decree was issued to dissolve parliament."
+          },
+          {
+            "thai": "พระราชกฤษฎีกาฉบับนี้มีผลบังคับใช้แล้ว",
+            "en": "This royal decree has already taken effect.",
+            "audio_src": "พระราชกฤษฎีกาฉบับนี้มีผลบังคับใช้แล้ว",
+            "audio_en_src": "This royal decree has already taken effect."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-131",
     "thai": "ต้านทาน",
     "english": "to resist, to withstand",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to resist, to withstand",
+        "sentences": [
+          {
+            "thai": "สะพานนี้ออกแบบมาให้ต้านทานแผ่นดินไหว",
+            "en": "This bridge is designed to withstand earthquakes.",
+            "audio_src": "สะพานนี้ออกแบบมาให้ต้านทานแผ่นดินไหว",
+            "audio_en_src": "This bridge is designed to withstand earthquakes."
+          },
+          {
+            "thai": "ร่างกายอ่อนแอจนต้านทานเชื้อโรคไม่ไหว",
+            "en": "His body is too weak to fight off infections.",
+            "audio_src": "ร่างกายอ่อนแอจนต้านทานเชื้อโรคไม่ไหว",
+            "audio_en_src": "His body is too weak to fight off infections."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-132",
     "thai": "รักษาการ",
     "english": "to act as, to serving temporarily in a position",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "to act as, to serving temporarily in a position",
+        "sentences": [
+          {
+            "thai": "เขารักษาการตำแหน่งผู้จัดการไปก่อน",
+            "en": "He's acting manager for the time being.",
+            "audio_src": "เขารักษาการตำแหน่งผู้จัดการไปก่อน",
+            "audio_en_src": "He's acting manager for the time being."
+          },
+          {
+            "thai": "นายกรักษาการไม่มีอำนาจอนุมัติโครงการใหม่",
+            "en": "A caretaker prime minister has no authority to approve new projects.",
+            "audio_src": "นายกรักษาการไม่มีอำนาจอนุมัติโครงการใหม่",
+            "audio_en_src": "A caretaker prime minister has no authority to approve new projects."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-133",
     "thai": "ราชโองการ",
     "english": "king's command, king's order",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "king's command, king's order",
+        "sentences": [
+          {
+            "thai": "ในสมัยก่อน ใครขัดราชโองการมีโทษถึงตาย",
+            "en": "In the old days, defying the king's command was punishable by death.",
+            "audio_src": "ในสมัยก่อน ใครขัดราชโองการมีโทษถึงตาย",
+            "audio_en_src": "In the old days, defying the king's command was punishable by death."
+          },
+          {
+            "thai": "เสนาบดีรับราชโองการไปปฏิบัติทันที",
+            "en": "The minister received the king's order and carried it out at once.",
+            "audio_src": "เสนาบดีรับราชโองการไปปฏิบัติทันที",
+            "audio_en_src": "The minister received the king's order and carried it out at once."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-134",
     "thai": "นิคม",
     "english": "settlement, estate",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "settlement, estate",
+        "sentences": [
+          {
+            "thai": "โรงงานส่วนใหญ่อยู่ในนิคมอุตสาหกรรม",
+            "en": "Most factories are in industrial estates.",
+            "audio_src": "โรงงานส่วนใหญ่อยู่ในนิคมอุตสาหกรรม",
+            "audio_en_src": "Most factories are in industrial estates."
+          },
+          {
+            "thai": "สมัยก่อนรัฐตั้งนิคมให้ชาวบ้านเข้าไปทำกิน",
+            "en": "In the past the state set up settlements for villagers to farm.",
+            "audio_src": "สมัยก่อนรัฐตั้งนิคมให้ชาวบ้านเข้าไปทำกิน",
+            "audio_en_src": "In the past the state set up settlements for villagers to farm."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-135",
     "thai": "เงินได้",
     "english": "income, earnings",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "income, earnings",
+        "sentences": [
+          {
+            "thai": "ต้องยื่นภาษีเงินได้ภายในเดือนมีนาคม",
+            "en": "You have to file your income tax by the end of March.",
+            "audio_src": "ต้องยื่นภาษีเงินได้ภายในเดือนมีนาคม",
+            "audio_en_src": "You have to file your income tax by the end of March."
+          },
+          {
+            "thai": "เงินได้จากค่าเช่าก็ต้องเสียภาษี",
+            "en": "Rental income is taxable too.",
+            "audio_src": "เงินได้จากค่าเช่าก็ต้องเสียภาษี",
+            "audio_en_src": "Rental income is taxable too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-136",
     "thai": "บี้",
     "english": "to crush, to smash, to squeeze",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to crush, to smash, to squeeze",
+        "sentences": [
+          {
+            "thai": "เขาบี้ยุงที่แขน",
+            "en": "He squashed a mosquito on his arm.",
+            "audio_src": "เขาบี้ยุงที่แขน",
+            "audio_en_src": "He squashed a mosquito on his arm."
+          },
+          {
+            "thai": "อย่าบี้กล่อง ของข้างในจะพัง",
+            "en": "Don't crush the box, the stuff inside will break.",
+            "audio_src": "อย่าบี้กล่อง ของข้างในจะพัง",
+            "audio_en_src": "Don't crush the box, the stuff inside will break."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-137",
     "thai": "โภชนาการ",
     "english": "nutrition",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "nutrition",
+        "sentences": [
+          {
+            "thai": "เด็กวัยนี้ต้องได้รับโภชนาการที่ดี",
+            "en": "Kids this age need good nutrition.",
+            "audio_src": "เด็กวัยนี้ต้องได้รับโภชนาการที่ดี",
+            "audio_en_src": "Kids this age need good nutrition."
+          },
+          {
+            "thai": "ดูข้อมูลโภชนาการข้างซองก่อนซื้อ",
+            "en": "Check the nutrition information on the package before buying.",
+            "audio_src": "ดูข้อมูลโภชนาการข้างซองก่อนซื้อ",
+            "audio_en_src": "Check the nutrition information on the package before buying."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-138",

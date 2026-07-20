@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9052 words**
+**Total: 9062 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9056,3 +9056,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-125` : วิว (view, scenery) : 1 meaning(s), 2 sentences
 - `new-126` : สมการ (equation) : 1 meaning(s), 2 sentences
 - `new-127` : แกนนำ (leader, key organizor, leading figure) : 1 meaning(s), 2 sentences
+- `new-128` : อนุโลม (to allow as an exception, to relax a rule) : 1 meaning(s), 2 sentences
+- `new-129` : เวทนา (pity, to sympathize with) : 1 meaning(s), 2 sentences
+- `new-130` : พระราชกฤษฎีกา (royal decree (a law issued by the King)) : 1 meaning(s), 2 sentences
+- `new-131` : ต้านทาน (to resist, to withstand) : 1 meaning(s), 2 sentences
+- `new-132` : รักษาการ (to act as, to serving temporarily in a position) : 1 meaning(s), 2 sentences
+- `new-133` : ราชโองการ (king's command, king's order) : 1 meaning(s), 2 sentences
+- `new-134` : นิคม (settlement, estate) : 1 meaning(s), 2 sentences
+- `new-135` : เงินได้ (income, earnings) : 1 meaning(s), 2 sentences
+- `new-136` : บี้ (to crush, to smash, to squeeze) : 1 meaning(s), 2 sentences
+- `new-137` : โภชนาการ (nutrition) : 1 meaning(s), 2 sentences
