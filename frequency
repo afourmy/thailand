@@ -2,8 +2,7 @@
 #
 # STATUS (2026-07-20):
 #   everyday category: fully swept, decisions merged into vocab.json (12 changes applied). Done.
-#   common category: swept the first 300 words (in vocab.json order), up to and including chula-l6-062 มหาศาล.
-#     -> RESUME the common sweep at the 2031st word with frequency "common".
+#   common category: FULLY SWEPT (all 5121 words, in vocab.json order). Proposals below are not yet applied.
 #   occasional and rare categories: not started.
 #   The proposal lines below are from the common sweep and are NOT yet applied; the user prunes them, then they get merged.
 
@@ -1566,3 +1565,417 @@ t4k-c02-017 สำนัก common -> occasional | 'office, bureau, institution'
 t4k-c02-020 ห่างไกล common -> occasional | 'far, distant, remote' | written and news adjective; speech says ไกล
 
 t4k-c02-021 จง common -> occasional | 'must, should (imperative)' | written and formal-instruction register
+
+t4k-c02-041 ยาวนาน common -> occasional | 'long-lasting, prolonged' | written and news adjective; speech says นาน
+
+t4k-c02-069 ทรัพย์สิน common -> occasional | 'assets, property' | legal and news noun; speech says ของ/สมบัติ
+
+t4k-c02-070 จัดตั้ง common -> occasional | 'to establish, to set up' | official and news verb
+
+t4k-c02-071 ก่อให้เกิด common -> occasional | 'to cause, to give rise to' | written and news phrase; speech says ทำให้เกิด
+
+t4k-c02-072 กาล common -> occasional | 'time, era; tense' | written and grammatical register
+
+t4k-c02-075 เกรง common -> occasional | 'to be afraid, to hesitate (formal)' | written register; speech says กลัว/เกรงใจ
+
+t4k-c02-078 ผลประโยชน์ common -> occasional | 'benefit, gain, interest' | news and legal noun
+
+t4k-c02-095 อนามัย common -> occasional | 'hygiene, sanitation' | public-health and official register
+
+t4k-c03-025 มติ common -> occasional | 'resolution, formal decision' | parliamentary and meeting register
+
+t4k-c03-031 คำนึง common -> occasional | 'to take into account' | written and formal register; speech says นึกถึง
+
+t4k-c03-033 ปฏิบัติการ common -> occasional | 'operation, execution' | official and news noun
+
+t4k-c03-034 หมายเลข common -> occasional | 'number' | official and announcement register; speech says เบอร์
+
+t4k-c03-036 ผู้บริโภค common -> occasional | 'consumer' | policy and news noun
+
+t4k-c03-037 จัดทำ common -> occasional | 'to prepare, to produce (formal)' | document and official verb
+
+t4k-c03-040 ผู้แทน common -> occasional | 'representative, delegate' | political and official noun
+
+t4k-c03-045 หลักเกณฑ์ common -> occasional | 'criteria, rules, standards' | official and regulation register
+
+t4k-c03-050 ข้างต้น common -> occasional | 'above, aforementioned' | written and document phrase
+
+t4k-c03-051 ความพยายาม common -> occasional | 'effort, attempt' | written and news noun; speech says พยายาม
+
+t4k-c03-064 ครอบครอง common -> occasional | 'to possess, to own' | legal and news verb
+
+t4k-c03-073 กลไก common -> occasional | 'mechanism, machinery' | technical and policy noun
+
+t4k-c03-084 บัญญัติ common -> occasional | 'to legislate, to enact' | legal register
+
+t4k-c03-086 กล่าวคือ common -> occasional | 'in other words, that is to say' | written and academic connector
+
+t4k-c03-087 ส่วนร่วม common -> occasional | 'participation, contribution' | formal and policy noun
+
+t4k-c03-090 รัฐสภา common -> occasional | 'parliament, congress' | political-news term
+
+t4k-c03-091 นับแต่, นับตั้งแต่ common -> occasional | 'since, from (formal)' | written and news phrase; speech says ตั้งแต่
+
+t4k-c03-099 ข่าวสาร common -> occasional | 'news, information' | formal and written compound; speech says ข่าว
+
+t4k-c04-005 แต่อย่างใด common -> occasional | 'at all, whatsoever' | news-script and formal phrase
+
+t4k-c04-015 แก่น common -> occasional | 'core, kernel, essence' | written and analytical noun
+
+t4k-c04-027 อำนวย common -> occasional | 'to grant, to facilitate' | formal register (อำนวยความสะดวก)
+
+t4k-c04-029 เผ่า common -> occasional | 'tribe, ethnic group' | academic and documentary noun
+
+t4k-c04-033 จำเลย common -> occasional | 'defendant (in court)' | legal and news term
+
+t4k-c04-039 ประมง common -> occasional | 'fishing, fishery (formal)' | official and news register
+
+t4k-c04-040 บัดนี้ common -> occasional | 'now (formal, written)' | written and ceremonial register; speech says ตอนนี้
+
+t4k-c04-045 เลขาธิการ common -> occasional | 'secretary general' | official title and news term
+
+t4k-c04-051 วิถี common -> occasional | 'way, path, manner' | written register (วิถีชีวิต)
+
+t4k-c04-057 ยากลำบาก common -> occasional | 'difficult, hard' | written register; speech says ลำบาก/ยาก
+
+t4k-c04-069 ดวงตา common -> occasional | 'eye (formal, poetic)' | written and lyric register; speech says ตา
+
+t4k-c04-071 ดง common -> occasional | 'dense forest, jungle' | written and place-name register
+
+t4k-c04-072 จัดสรร common -> occasional | 'to allocate, to distribute' | official and budget register
+
+t4k-c04-073 คัดค้าน common -> occasional | 'to oppose, to protest against' | news and formal verb; speech says ไม่เห็นด้วย/ค้าน
+
+t4k-c04-075 สูญ common -> occasional | 'lost, gone, disappeared' | written register; speech says หาย
+
+t4k-c04-082 ยุติ common -> occasional | 'to terminate, to settle' | news and official verb; speech says จบ/เลิก
+
+t4k-c04-083 คณะรัฐมนตรี common -> occasional | 'cabinet, Council of Ministers' | government-news term
+
+t4k-c04-084 เป็นอย่างยิ่ง common -> occasional | 'extremely, very much' | written and formal-speech intensifier
+
+t4k-c04-085 บำบัด common -> occasional | 'to treat, to heal (formal)' | clinical and official register
+
+t4k-c04-086 จำต้อง common -> occasional | 'must, obliged to (formal)' | written register; speech says ต้อง/จำเป็นต้อง
+
+t4k-c04-092 สมรส common -> occasional | 'to marry, marriage' | legal and news register; speech says แต่งงาน
+
+t4k-c04-093 สื่อมวลชน common -> occasional | 'mass media' | news and institutional term
+
+t4k-c04-095 เห็นชอบ common -> occasional | 'to approve, to endorse' | official and meeting register
+
+t4k-c04-098 สหกรณ์ common -> occasional | 'cooperative (organization)' | institutional term
+
+t4k-c05-004 เมื่อใด common -> occasional | 'when, whenever (formal)' | written register; speech says เมื่อไหร่
+
+t4k-c05-007 ข้อสังเกต common -> occasional | 'observation, remark' | report and academic noun
+
+t4k-c05-022 มวล common -> occasional | 'mass, bulk' | science register
+
+t4k-c05-024 สังกัด common -> occasional | 'to belong to, to be affiliated with' | official and administrative verb
+
+t4k-c05-031 ขบวนการ common -> occasional | 'movement, organization' | news and political noun
+
+t4k-c05-032 อาญา common -> occasional | 'criminal, penal' | legal register
+
+t4k-c05-041 ข่าย common -> occasional | 'range, scope' | written register (อยู่ในข่าย)
+
+t4k-c05-045 สภาพแวดล้อม common -> occasional | 'environment, surrounding conditions' | report and news noun
+
+t4k-c05-051 พระสงฆ์ common -> occasional | 'monk (formal)' | ceremonial and news register; speech says พระ
+
+t4k-c05-053 ประมวล common -> occasional | 'to compile, to summarize (formal)' | official and legal register
+
+t4k-c05-064 ปลัด common -> occasional | 'senior administrative officer' | government title and news term
+
+t4k-c05-066 รังสี common -> occasional | 'rays, radiation' | science and medical register
+
+t4k-c05-068 สติปัญญา common -> occasional | 'intelligence' | formal and academic noun
+
+t4k-c05-073 คุกคาม common -> occasional | 'to threaten, to intimidate' | news and legal verb
+
+t4k-c05-075 พิพากษา common -> occasional | 'to judge, to pronounce a verdict' | legal and news verb
+
+t4k-c05-079 เคียง common -> occasional | 'near, beside, alongside' | written register; speech says ข้างๆ
+
+t4k-c05-082 ในขณะนี้ common -> occasional | 'at present (formal)' | news-script phrase; speech says ตอนนี้
+
+t4k-c05-084 เพลิง common -> occasional | 'fire, blaze' | news register (เพลิงไหม้); speech says ไฟ
+
+t4k-c05-087 สามัญ common -> occasional | 'common, basic, ordinary' | formal and institutional register
+
+t4k-c05-090 คำพิพากษา common -> occasional | 'court judgment, verdict' | legal and news term
+
+t4k-c05-099 ต่อเมื่อ common -> occasional | 'only if, only when' | written connector
+
+t4k-c06-026 สำราญ common -> occasional | 'happy, content (formal)' | ceremonial and written register
+
+t4k-c06-027 เปล่ง common -> occasional | 'to emit (sound, light), to radiate' | written register
+
+t4k-c06-028 ระดม common -> occasional | 'to mobilize, to gather' | news and official verb
+
+t4k-c06-029 โจทก์ common -> occasional | 'plaintiff' | legal term
+
+t4k-c06-030 พิทักษ์ common -> occasional | 'to protect, to safeguard' | formal and institutional verb
+
+t4k-c06-031 หมดสิ้น common -> occasional | 'completely finished, exhausted' | written register; speech says หมดแล้ว
+
+t4k-c06-032 จูงใจ common -> occasional | 'to motivate, to persuade' | business and formal verb
+
+t4k-c06-034 แปร common -> occasional | 'to transform, to alter' | technical and written verb; speech says เปลี่ยน
+
+t4k-c06-039 ความเคลื่อนไหว common -> occasional | 'movement, activity' | news noun
+
+t4k-c05-049 โศก common -> rare | 'sorrow, grief (formal)' | literary word; standalone โศก is not spoken
+
+t4k-c06-042 ที่ทำการ common -> occasional | 'administrative office' | official register
+
+t4k-c06-049 ข้อบังคับ common -> occasional | 'regulation, rule' | official and legal register
+
+t4k-c06-061 เป็นต้นมา common -> occasional | 'up until now' | written and news phrase
+
+t4k-c06-072 ละเมิด common -> occasional | 'to violate, to infringe (formal)' | legal register
+
+t4k-c06-078 อุดมการณ์ common -> occasional | 'ideology' | political and written noun
+
+t4k-c06-097 ละเลย common -> occasional | 'to neglect, to ignore' | formal and news verb; speech says ไม่สนใจ/ปล่อยปละ
+
+t4k-c06-098 พันธุกรรม common -> occasional | 'heredity, genetics' | science register
+
+t4k-c07-002 ทัศนะ common -> occasional | 'viewpoint, stance (formal)' | written and commentary noun
+
+t4k-c07-009 ตกต่ำ common -> occasional | 'to decline, to deteriorate' | economic-news verb
+
+t4k-c07-011 ผู้ว่าราชการ common -> occasional | 'governor' | official title and news term
+
+t4k-c07-021 จิตสำนึก common -> occasional | 'conscience, moral awareness' | formal and campaign register
+
+t4k-c07-033 จัดวาง common -> occasional | 'to arrange, to lay out' | design and formal register; speech says วาง/จัด
+
+t4k-c07-036 กฎเกณฑ์ common -> occasional | 'regulation, norm' | official register
+
+t4k-c07-047 สภาผู้แทนราษฎร common -> occasional | 'house of representatives' | political-news term
+
+t4k-c07-053 สันติภาพ common -> occasional | 'peace (opposite of war)' | news and formal noun
+
+t4k-c07-057 สูญหาย common -> occasional | 'to be lost, to go missing' | official and news verb; speech says หาย
+
+t4k-c07-058 นวล common -> occasional | 'soft, gentle; pale' | written and poetic register
+
+t4k-c07-065 สิ่งมีชีวิต common -> occasional | 'living being, organism' | science register
+
+t4k-c07-069 ดังเช่น common -> occasional | 'such as, like' | written connector; speech says เช่น/อย่าง
+
+t4k-c07-071 แบบแผน common -> occasional | 'pattern, convention (formal)' | academic and formal register
+
+t4k-c08-003 นวนิยาย common -> occasional | 'novel, fiction' | literary and formal register; speech says นิยาย
+
+t4k-c08-006 ตัวแปร common -> occasional | 'variable' | science and technical register
+
+t4k-c08-009 กฎหมายแพ่ง common -> occasional | 'civil law' | legal register
+
+t4k-c08-011 เบื่อหน่าย common -> occasional | 'bored, weary (formal)' | written register; speech says เบื่อ
+
+t4k-c08-012 เพาะปลูก common -> occasional | 'to cultivate, to grow crops' | agricultural and formal register
+
+t4k-c08-013 เลือน common -> occasional | 'to fade away, to become blurred' | written register; speech says จาง/เลือนราง
+
+t4k-c08-016 ขั้นพื้นฐาน common -> occasional | 'basic level, foundation' | education and policy register
+
+t4k-c08-022 ได้เสีย common -> occasional | 'gain and loss' | written and legal register
+
+t4k-c08-029 อัยการ common -> occasional | 'public prosecutor' | legal and news term
+
+t4k-c08-032 คำปรึกษา common -> occasional | 'advice, guidance' | formal register; speech says คำแนะนำ/ปรึกษา
+
+t4k-c08-043 คณะกรรมาธิการ common -> occasional | 'parliamentary committee' | political-news term
+
+t4k-c08-044 ฝ่ายค้าน common -> occasional | 'opposition (politics)' | political-news term
+
+t4k-c08-050 สิ้นเชิง common -> occasional | 'completely, entirely' | written adverb (โดยสิ้นเชิง)
+
+t4k-c08-052 ทรัพยากรธรรมชาติ common -> occasional | 'natural resources' | school and news term
+
+t4k-c08-056 เป็นต้นไป common -> occasional | 'onward, from now on' | announcement and document register
+
+t4k-c08-065 เท็จ common -> occasional | 'false, untrue' | legal and news register; speech says โกหก/ไม่จริง
+
+t4k-c08-066 ผ่านพ้น common -> occasional | 'to pass through, to get through' | written and news verb
+
+t4k-c08-069 ประกันภัย common -> occasional | 'insurance' | industry and legal term; speech says ประกัน
+
+t4k-c08-073 ตรึง common -> occasional | 'to fix, to pin, to hold in place' | technical and news verb (ตรึงราคา)
+
+t4k-c08-080 ศุลกากร common -> occasional | 'customs (agency)' | official term
+
+t4k-c08-083 ถ่ายภาพ common -> occasional | 'to take a photo (formal)' | written register; speech says ถ่ายรูป
+
+t4k-c08-084 ครอบงำ common -> occasional | 'to control, to dominate' | news and academic verb
+
+t4k-c08-085 ชื่นชอบ common -> occasional | 'to like, to be fond of (formal)' | written and media register; speech says ชอบ
+
+t4k-c08-092 แบ่งแยก common -> occasional | 'to be divided, to separate' | news and formal verb
+
+t4k-c09-000 แวดล้อม common -> occasional | 'to surround, surroundings' | written register (สิ่งแวดล้อม is the common form)
+
+t4k-c09-016 ตามลำพัง common -> occasional | 'alone, by oneself' | written register; speech says คนเดียว
+
+t4k-c09-018 คุณวุฒิ common -> occasional | 'qualification, academic degree' | HR and official register
+
+t4k-c09-020 เจ้าพนักงาน common -> occasional | 'public officer' | legal and official title
+
+t4k-c09-027 บอกกล่าว common -> occasional | 'to inform, to notify' | formal register; speech says บอก
+
+t4k-c09-034 ดัชนี common -> occasional | 'index, indicator' | economic-news and technical term
+
+t4k-c09-050 จุดมุ่งหมาย common -> occasional | 'aim, objective' | formal and document register
+
+t4k-c09-051 หวั่นไหว common -> occasional | 'emotionally shaken, deeply moved' | written and lyric register
+
+t4k-c09-053 นายอำเภอ common -> occasional | 'district chief' | official title and news term
+
+t4k-c09-057 ผู้เฒ่า common -> occasional | 'elder, old person (formal)' | written and documentary register
+
+t4k-c09-071 สิทธิมนุษยชน common -> occasional | 'human rights' | political and news term
+
+t4k-c09-072 รับผิด common -> occasional | 'to take responsibility, to admit fault' | legal register (รับผิดชอบ is the spoken word)
+
+t4k-c09-080 อนึ่ง common -> occasional | 'furthermore, moreover (formal)' | document and news-script connector
+
+t4k-c09-081 แทรกแซง common -> occasional | 'to intervene' | political and economic-news verb
+
+t4k-c09-090 หมายเหตุ common -> occasional | 'note, remark' | document register
+
+t4k-c09-092 เร่งรัด common -> occasional | 'to rush, to expedite' | official and news verb
+
+t4k-c10-008 เพิกถอน common -> occasional | 'to revoke, to cancel (formal)' | legal register
+
+t4k-c10-011 อุทธรณ์ common -> occasional | 'to appeal' | legal and news term
+
+t4k-c10-023 ประมวลกฎหมาย common -> occasional | 'legal code' | legal register
+
+t4k-c10-026 ผนวก common -> occasional | 'to append, to annex' | formal and document register
+
+t4k-c10-029 ค่าเสียหาย common -> occasional | 'damages' | legal and insurance register
+
+t4k-c10-031 เบื้องหน้า common -> occasional | 'in front (formal)' | written register; speech says ข้างหน้า
+
+t4k-c10-051 บทเพลง common -> occasional | 'song, lyrics (formal)' | written and broadcast register; speech says เพลง
+
+t4k-c10-065 มัธยมศึกษา common -> occasional | 'secondary education' | official education term; speech says ม.ต้น/ม.ปลาย
+
+t4k-c10-068 สายน้ำ common -> occasional | 'stream of water' | written and poetic register
+
+t4k-c10-084 พยุง common -> occasional | 'to hold up, to prop up, to sustain' | formal and news verb (พยุงเศรษฐกิจ)
+
+t4k-c10-098 สืบสวน common -> occasional | 'to investigate' | police and news verb
+
+t4k-c11-007 ข้อกำหนด common -> occasional | 'regulation, specification' | official and contract register
+
+t4k-c11-009 ข้อเรียกร้อง common -> occasional | 'demand, claim (formal)' | news and negotiation register
+
+t4k-c11-011 คำร้อง common -> occasional | 'petition; request' | legal and official register
+
+t4k-c11-020 สาธารณรัฐ common -> occasional | 'republic' | news and official term
+
+t4k-c11-024 ปีงบประมาณ common -> occasional | 'fiscal year' | government and accounting term
+
+t4k-c11-025 โมฆะ common -> occasional | 'void, null, invalid (legal)' | legal register
+
+t4k-c11-028 บ่งชี้ common -> occasional | 'to indicate, to point out' | report and news verb
+
+t4k-c11-030 ตึงเครียด common -> occasional | 'tense, high-pressure' | news register; speech says เครียด
+
+t4k-c11-034 ทรุด common -> occasional | 'to sink, to subside, to collapse' | news and technical verb
+
+t4k-c11-044 ข้อพิพาท common -> occasional | 'dispute, point of contention (formal)' | legal and news register
+
+t4k-c11-045 หัวหน้าพรรค common -> occasional | 'party leader' | political-news term
+
+t4k-c11-051 โยกย้าย common -> occasional | 'to relocate, to transfer' | official and news verb
+
+t4k-c11-000 พลัน common -> rare | 'suddenly, immediately (formal)' | literary narration, same family as ทันใด; not spoken
+
+t4k-c11-060 กดขี่ common -> occasional | 'to oppress, to repress' | political and historical register
+
+t4k-c11-068 กรรมสิทธิ์ common -> occasional | 'ownership' | legal register
+
+t4k-c11-079 แผนงาน common -> occasional | 'work plan, project plan' | official and corporate register
+
+t4k-c11-081 ปัสสาวะ common -> occasional | 'urine, to urinate' | medical and official register; speech says ฉี่
+
+t4k-c11-084 มหาอำนาจ common -> occasional | 'great power, superpower' | international-news term
+
+t4k-c11-102 สหภาพ common -> occasional | 'union, federation' | political and news term
+
+t4k-c11-103 ผู้เยาว์ common -> occasional | 'minor (under legal age)' | legal register
+
+t4k-c11-107 พรรณนา common -> occasional | 'to depict, to describe in detail' | literary and academic register
+
+t4k-c11-112 ชาตินิยม common -> occasional | 'nationalism' | political and academic term
+
+t4k-c11-118 ผู้ส่งออก common -> occasional | 'exporter' | business-news term
+
+t4k-c11-125 ประถมศึกษา common -> occasional | 'primary education' | official education term; speech says ป.1-ป.6
+
+exd-074 แบ่งออกเป็น common -> occasional | 'to be divided into' | written and report phrasing
+
+exd-103 สถานีขนส่ง common -> occasional | 'bus station, passenger terminal' | official name; speech says บขส/ท่ารถ
+
+t4k-c11-093 สายลม common -> rare | 'breeze, wind (literary)' | song and poetry word; speech says ลม
+
+manual-002 การเกษตร common -> occasional | 'agriculture (activity)' | policy and news term
+
+new-77 เคลื่อนไหว common -> occasional | 'to move, to be in motion' | news register (ความเคลื่อนไหว, เคลื่อนไหวทางการเมือง)
+
+new-81 เผชิญ common -> occasional | 'to face, to confront' | news and written verb; speech says เจอ/รับมือ
+
+new-82 เผยแพร่ common -> occasional | 'to publish, to disseminate' | news and official verb
+
+new-83 ใบหน้า common -> occasional | 'face' | written and formal register; speech says หน้า
+
+new-84 ปฏิวัติ common -> occasional | 'to overthrow, to stage a revolution' | political and historical term
+
+new-90 กุศล common -> occasional | 'merit, virtue, good deed' | religious and formal register; speech says บุญ
+
+new-99 หวาดกลัว common -> occasional | 'terrified, very frightened' | news and written register; speech says กลัว
+
+new-105 เคลื่อนย้าย common -> occasional | 'to displace, to relocate' | official and news verb; speech says ย้าย/ขน
+
+new-108 น้ำหลาก common -> occasional | 'floodwater, flash flood' | weather-news term
+
+new-109 แวดวง common -> occasional | 'circle, field, sphere' | media and written noun
+
+new-115 โต้แย้ง common -> occasional | 'to dispute, to argue' | formal and legal register; speech says เถียง
+
+new-119 ผูกขาด common -> occasional | 'to monopolize' | economics and news verb
+
+new-120 เสนอแนะ common -> occasional | 'to suggest, to recommend' | formal and report register; speech says แนะนำ
+
+new-123 บริบท common -> occasional | 'context' | academic and commentary noun
+
+new-124 แถลงข่าว common -> occasional | 'to hold a press conference' | news term
+
+new-127 แกนนำ common -> occasional | 'leader, key organizer' | political-news noun
+
+new-131 ต้านทาน common -> occasional | 'to resist, to withstand' | technical and formal verb
+
+new-140 โฆษก common -> occasional | 'spokesperson' | news and official title
+
+new-141 ชัดแจ้ง common -> occasional | 'clear, obvious, explicit' | written and legal register; speech says ชัดเจน
+
+new-146 คืบหน้า common -> occasional | 'to make progress' | news verb (ความคืบหน้า)
+
+new-155 วิกฤตการณ์ common -> occasional | 'crisis' | news register; speech says วิกฤต
+
+new-158 ชักจูง common -> occasional | 'to persuade, to influence' | formal and cautionary register
+
+new-166 อดกลั้น common -> occasional | 'to endure, to restrain oneself' | formal and written register
+
+new-181 ขัดเกลา common -> occasional | 'to refine, to polish' | written and educational register
+
+new-187 อดออม common -> occasional | 'to be thrifty, to save' | campaign and formal register; speech says เก็บเงิน
+
+new-206 เสมอต้นเสมอปลาย common -> occasional | 'consistent from start to finish' | formal and written idiom
+
+new-213 หลั่ง common -> occasional | 'to pour, to flow, to shed' | medical, literary, and news register
