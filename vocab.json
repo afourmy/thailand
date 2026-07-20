@@ -244976,61 +244976,251 @@
     "id": "new-168",
     "thai": "ฉลุย",
     "english": "smoothly, easily, without problem",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "smoothly, easily, without problem",
+        "sentences": [
+          {
+            "thai": "สัมภาษณ์ผ่านฉลุย",
+            "en": "The interview went off without a hitch.",
+            "audio_src": "สัมภาษณ์ผ่านฉลุย",
+            "audio_en_src": "The interview went off without a hitch."
+          },
+          {
+            "thai": "ถนนวันนี้โล่ง ขับฉลุยเลย",
+            "en": "The roads are clear today, smooth driving all the way.",
+            "audio_src": "ถนนวันนี้โล่ง ขับฉลุยเลย",
+            "audio_en_src": "The roads are clear today, smooth driving all the way."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-169",
     "thai": "วันยังค่ำ",
     "english": "all day long, from morning till night",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "all day long, from morning till night",
+        "sentences": [
+          {
+            "thai": "เจ้าหมานี่นอนวันยังค่ำ",
+            "en": "This dog sleeps all day long.",
+            "audio_src": "เจ้าหมานี่นอนวันยังค่ำ",
+            "audio_en_src": "This dog sleeps all day long."
+          },
+          {
+            "thai": "เขาบ่นได้วันยังค่ำไม่มีเบื่อ",
+            "en": "He can complain from morning till night and never get tired of it.",
+            "audio_src": "เขาบ่นได้วันยังค่ำไม่มีเบื่อ",
+            "audio_en_src": "He can complain from morning till night and never get tired of it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-170",
     "thai": "ร่อนเร่",
     "english": "to wander, to roam around",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to wander, to roam around",
+        "sentences": [
+          {
+            "thai": "เขาร่อนเร่ไปตามเมืองต่างๆ ไม่มีที่อยู่เป็นหลักแหล่ง",
+            "en": "He wanders from town to town with no fixed home.",
+            "audio_src": "เขาร่อนเร่ไปตามเมืองต่างๆ ไม่มีที่อยู่เป็นหลักแหล่ง",
+            "audio_en_src": "He wanders from town to town with no fixed home."
+          },
+          {
+            "thai": "หมาจรจัดร่อนเร่หาอาหารแถวตลาด",
+            "en": "Stray dogs roam around the market looking for food.",
+            "audio_src": "หมาจรจัดร่อนเร่หาอาหารแถวตลาด",
+            "audio_en_src": "Stray dogs roam around the market looking for food."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-171",
     "thai": "อภิมหา",
     "english": "super-, mega-, ultra-",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "super-, mega-, ultra-",
+        "sentences": [
+          {
+            "thai": "เขาเป็นอภิมหาเศรษฐีระดับประเทศ",
+            "en": "He's one of the country's mega-rich.",
+            "audio_src": "เขาเป็นอภิมหาเศรษฐีระดับประเทศ",
+            "audio_en_src": "He's one of the country's mega-rich."
+          },
+          {
+            "thai": "นี่คืออภิมหาโปรเจกต์ของรัฐบาล",
+            "en": "This is the government's mega-project.",
+            "audio_src": "นี่คืออภิมหาโปรเจกต์ของรัฐบาล",
+            "audio_en_src": "This is the government's mega-project."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-172",
     "thai": "แปลกตา",
     "english": "unusual-looking, unfamiliar to the eye, exotic",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "unusual-looking, unfamiliar to the eye, exotic",
+        "sentences": [
+          {
+            "thai": "ตัดผมใหม่ ดูแปลกตาไปเลย",
+            "en": "With the new haircut, you look so different.",
+            "audio_src": "ตัดผมใหม่ ดูแปลกตาไปเลย",
+            "audio_en_src": "With the new haircut, you look so different."
+          },
+          {
+            "thai": "เมืองนี้มีตึกรูปทรงแปลกตาเยอะ",
+            "en": "This city has a lot of unusual-looking buildings.",
+            "audio_src": "เมืองนี้มีตึกรูปทรงแปลกตาเยอะ",
+            "audio_en_src": "This city has a lot of unusual-looking buildings."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-173",
     "thai": "เหนือกว่า",
     "english": "superior, better than, above",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "superior, better than, above",
+        "sentences": [
+          {
+            "thai": "ทีมเราเหนือกว่าทุกด้าน",
+            "en": "Our team was superior in every way.",
+            "audio_src": "ทีมเราเหนือกว่าทุกด้าน",
+            "audio_en_src": "Our team was superior in every way."
+          },
+          {
+            "thai": "รุ่นใหม่สเปกเหนือกว่ารุ่นเก่าชัดเจน",
+            "en": "The new model's specs are clearly better than the old one's.",
+            "audio_src": "รุ่นใหม่สเปกเหนือกว่ารุ่นเก่าชัดเจน",
+            "audio_en_src": "The new model's specs are clearly better than the old one's."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-174",
     "thai": "ป่วนประสาท",
     "english": "nerve-wracking, very annoying, highly irritating",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "nerve-wracking, very annoying, highly irritating",
+        "sentences": [
+          {
+            "thai": "เสียงเจาะถนนป่วนประสาทมาก",
+            "en": "The sound of the road drilling is incredibly irritating.",
+            "audio_src": "เสียงเจาะถนนป่วนประสาทมาก",
+            "audio_en_src": "The sound of the road drilling is incredibly irritating."
+          },
+          {
+            "thai": "เด็กข้างห้องเปิดเพลงดังป่วนประสาททั้งคืน",
+            "en": "The kid next door blasted music all night, driving me crazy.",
+            "audio_src": "เด็กข้างห้องเปิดเพลงดังป่วนประสาททั้งคืน",
+            "audio_en_src": "The kid next door blasted music all night, driving me crazy."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-175",
     "thai": "สะเพร่า",
     "english": "careless, sloppy, negligent",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "careless, sloppy, negligent",
+        "sentences": [
+          {
+            "thai": "เขาทำงานสะเพร่า โดนเจ้านายตำหนิประจำ",
+            "en": "He does sloppy work and gets told off by the boss all the time.",
+            "audio_src": "เขาทำงานสะเพร่า โดนเจ้านายตำหนิประจำ",
+            "audio_en_src": "He does sloppy work and gets told off by the boss all the time."
+          },
+          {
+            "thai": "อ่านโจทย์ให้ดี อย่าสะเพร่า",
+            "en": "Read the question carefully, don't be careless.",
+            "audio_src": "อ่านโจทย์ให้ดี อย่าสะเพร่า",
+            "audio_en_src": "Read the question carefully, don't be careless."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-176",
     "thai": "เปี๊ยบ",
     "english": "perfectly, exactly, completely",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "perfectly, exactly, completely",
+        "sentences": [
+          {
+            "thai": "สองคนนี้หน้าเหมือนกันเปี๊ยบ",
+            "en": "These two look exactly alike.",
+            "audio_src": "สองคนนี้หน้าเหมือนกันเปี๊ยบ",
+            "audio_en_src": "These two look exactly alike."
+          },
+          {
+            "thai": "เขามาตรงเวลาเปี๊ยบ",
+            "en": "He arrived exactly on time.",
+            "audio_src": "เขามาตรงเวลาเปี๊ยบ",
+            "audio_en_src": "He arrived exactly on time."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-177",
     "thai": "คฤหาสน์",
     "english": "mansion, large luxurious house",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "mansion, large luxurious house",
+        "sentences": [
+          {
+            "thai": "ดาราคนนี้เพิ่งซื้อคฤหาสน์หลังใหม่",
+            "en": "This celebrity just bought a new mansion.",
+            "audio_src": "ดาราคนนี้เพิ่งซื้อคฤหาสน์หลังใหม่",
+            "audio_en_src": "This celebrity just bought a new mansion."
+          },
+          {
+            "thai": "คฤหาสน์หลังนี้มีห้องมากกว่าสามสิบห้อง",
+            "en": "This mansion has more than thirty rooms.",
+            "audio_src": "คฤหาสน์หลังนี้มีห้องมากกว่าสามสิบห้อง",
+            "audio_en_src": "This mansion has more than thirty rooms."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-178",

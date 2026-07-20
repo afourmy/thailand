@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9092 words**
+**Total: 9102 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9096,3 +9096,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-165` : บงการ (to manipulate, to control (often secretly)) : 1 meaning(s), 2 sentences
 - `new-166` : อดกลั้น (to endure, to tolerate, to restrain oneself) : 1 meaning(s), 2 sentences
 - `new-167` : นิสัยติดตัว (inherent habit, ingrained trait) : 1 meaning(s), 2 sentences
+- `new-168` : ฉลุย (smoothly, easily, without problem) : 1 meaning(s), 2 sentences
+- `new-169` : วันยังค่ำ (all day long, from morning till night) : 1 meaning(s), 2 sentences
+- `new-170` : ร่อนเร่ (to wander, to roam around) : 1 meaning(s), 2 sentences
+- `new-171` : อภิมหา (super-, mega-, ultra-) : 1 meaning(s), 2 sentences
+- `new-172` : แปลกตา (unusual-looking, unfamiliar to the eye, exotic) : 1 meaning(s), 2 sentences
+- `new-173` : เหนือกว่า (superior, better than, above) : 1 meaning(s), 2 sentences
+- `new-174` : ป่วนประสาท (nerve-wracking, very annoying, highly irritating) : 1 meaning(s), 2 sentences
+- `new-175` : สะเพร่า (careless, sloppy, negligent) : 1 meaning(s), 2 sentences
+- `new-176` : เปี๊ยบ (perfectly, exactly, completely) : 1 meaning(s), 2 sentences
+- `new-177` : คฤหาสน์ (mansion, large luxurious house) : 1 meaning(s), 2 sentences
