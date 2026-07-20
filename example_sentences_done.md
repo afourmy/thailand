@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9072 words**
+**Total: 9082 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9076,3 +9076,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-145` : หลักทรัพย์ (securities (stocks, bonds, etc)) : 1 meaning(s), 2 sentences
 - `new-146` : คืบหน้า (to make progress, to advance) : 1 meaning(s), 2 sentences
 - `new-147` : สินทรัพย์ (asset, property) : 1 meaning(s), 2 sentences
+- `new-148` : ประชามติ (referendum, public vote) : 1 meaning(s), 2 sentences
+- `new-149` : นักคิด (thinker, intellectual) : 1 meaning(s), 2 sentences
+- `new-150` : เคือง (offended, resentful, annoyed) : 1 meaning(s), 2 sentences
+- `new-151` : แวบ (flash, glimpse, briefly, for a moment) : 1 meaning(s), 2 sentences
+- `new-152` : ภูมิลำเนา (domicile, place of origin) : 1 meaning(s), 2 sentences
+- `new-153` : ขาดดุล (deficit, to run a deficit) : 1 meaning(s), 2 sentences
+- `new-154` : คำมั่น (promise, pledge, vow) : 1 meaning(s), 2 sentences
+- `new-155` : วิกฤตการณ์ (crisis) : 1 meaning(s), 2 sentences
+- `new-156` : ผู้แสดง (performer, actor) : 1 meaning(s), 2 sentences
+- `new-157` : ทันใด (suddenly, immediately (literary)) : 1 meaning(s), 2 sentences

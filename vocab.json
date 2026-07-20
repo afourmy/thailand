@@ -244476,61 +244476,251 @@
     "id": "new-148",
     "thai": "ประชามติ",
     "english": "referendum, public vote",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "referendum, public vote",
+        "sentences": [
+          {
+            "thai": "รัฐธรรมนูญฉบับนี้ผ่านการทำประชามติ",
+            "en": "This constitution passed a referendum.",
+            "audio_src": "รัฐธรรมนูญฉบับนี้ผ่านการทำประชามติ",
+            "audio_en_src": "This constitution passed a referendum."
+          },
+          {
+            "thai": "รัฐบาลจะจัดประชามติเรื่องนี้ปีหน้า",
+            "en": "The government will hold a referendum on this next year.",
+            "audio_src": "รัฐบาลจะจัดประชามติเรื่องนี้ปีหน้า",
+            "audio_en_src": "The government will hold a referendum on this next year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-149",
     "thai": "นักคิด",
     "english": "thinker, intellectual",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "thinker, intellectual",
+        "sentences": [
+          {
+            "thai": "เขาได้ชื่อว่าเป็นนักคิดคนสำคัญของยุค",
+            "en": "He's regarded as one of the great thinkers of his era.",
+            "audio_src": "เขาได้ชื่อว่าเป็นนักคิดคนสำคัญของยุค",
+            "audio_en_src": "He's regarded as one of the great thinkers of his era."
+          },
+          {
+            "thai": "หนังสือเล่มนี้รวมแนวคิดของนักคิดหลายคน",
+            "en": "This book brings together ideas from many thinkers.",
+            "audio_src": "หนังสือเล่มนี้รวมแนวคิดของนักคิดหลายคน",
+            "audio_en_src": "This book brings together ideas from many thinkers."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-150",
     "thai": "เคือง",
     "english": "offended, resentful, annoyed",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "offended, resentful, annoyed",
+        "sentences": [
+          {
+            "thai": "เขายังเคืองเรื่องเมื่อวานอยู่เลย",
+            "en": "He's still sore about yesterday.",
+            "audio_src": "เขายังเคืองเรื่องเมื่อวานอยู่เลย",
+            "audio_en_src": "He's still sore about yesterday."
+          },
+          {
+            "thai": "อย่าไปพูดแรง เดี๋ยวเขาเคืองเอา",
+            "en": "Don't be too harsh, or he'll take offense.",
+            "audio_src": "อย่าไปพูดแรง เดี๋ยวเขาเคืองเอา",
+            "audio_en_src": "Don't be too harsh, or he'll take offense."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-151",
     "thai": "แวบ",
     "english": "flash, glimpse, briefly, for a moment",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "flash, glimpse, briefly, for a moment",
+        "sentences": [
+          {
+            "thai": "ความคิดหนึ่งแวบขึ้นมาในหัว",
+            "en": "An idea flashed into my head.",
+            "audio_src": "ความคิดหนึ่งแวบขึ้นมาในหัว",
+            "audio_en_src": "An idea flashed into my head."
+          },
+          {
+            "thai": "เห็นเขาแค่แวบเดียวก็จำได้",
+            "en": "I only caught a glimpse of him, but I recognized him right away.",
+            "audio_src": "เห็นเขาแค่แวบเดียวก็จำได้",
+            "audio_en_src": "I only caught a glimpse of him, but I recognized him right away."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-152",
     "thai": "ภูมิลำเนา",
     "english": "domicile, place of origin",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "domicile, place of origin",
+        "sentences": [
+          {
+            "thai": "เขามีภูมิลำเนาอยู่ที่ขอนแก่น",
+            "en": "His registered hometown is Khon Kaen.",
+            "audio_src": "เขามีภูมิลำเนาอยู่ที่ขอนแก่น",
+            "audio_en_src": "His registered hometown is Khon Kaen."
+          },
+          {
+            "thai": "กรอกภูมิลำเนาในแบบฟอร์มด้วย",
+            "en": "Fill in your place of origin on the form too.",
+            "audio_src": "กรอกภูมิลำเนาในแบบฟอร์มด้วย",
+            "audio_en_src": "Fill in your place of origin on the form too."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-153",
     "thai": "ขาดดุล",
     "english": "deficit, to run a deficit",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "deficit, to run a deficit",
+        "sentences": [
+          {
+            "thai": "ปีนี้ประเทศขาดดุลการค้าอีกแล้ว",
+            "en": "The country is running a trade deficit again this year.",
+            "audio_src": "ปีนี้ประเทศขาดดุลการค้าอีกแล้ว",
+            "audio_en_src": "The country is running a trade deficit again this year."
+          },
+          {
+            "thai": "งบประมาณขาดดุลติดต่อกันห้าปี",
+            "en": "The budget has been in deficit for five straight years.",
+            "audio_src": "งบประมาณขาดดุลติดต่อกันห้าปี",
+            "audio_en_src": "The budget has been in deficit for five straight years."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-154",
     "thai": "คำมั่น",
     "english": "promise, pledge, vow",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "promise, pledge, vow",
+        "sentences": [
+          {
+            "thai": "เขาให้คำมั่นว่าจะดูแลครอบครัวอย่างดี",
+            "en": "He made a pledge to take good care of his family.",
+            "audio_src": "เขาให้คำมั่นว่าจะดูแลครอบครัวอย่างดี",
+            "audio_en_src": "He made a pledge to take good care of his family."
+          },
+          {
+            "thai": "รัฐบาลรักษาคำมั่นที่ให้ไว้กับประชาชน",
+            "en": "The government kept the promise it made to the people.",
+            "audio_src": "รัฐบาลรักษาคำมั่นที่ให้ไว้กับประชาชน",
+            "audio_en_src": "The government kept the promise it made to the people."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-155",
     "thai": "วิกฤตการณ์",
     "english": "crisis",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "crisis",
+        "sentences": [
+          {
+            "thai": "ประเทศกำลังเผชิญวิกฤตการณ์ทางเศรษฐกิจ",
+            "en": "The country is facing an economic crisis.",
+            "audio_src": "ประเทศกำลังเผชิญวิกฤตการณ์ทางเศรษฐกิจ",
+            "audio_en_src": "The country is facing an economic crisis."
+          },
+          {
+            "thai": "รัฐบาลตั้งทีมรับมือวิกฤตการณ์ครั้งนี้",
+            "en": "The government set up a team to handle this crisis.",
+            "audio_src": "รัฐบาลตั้งทีมรับมือวิกฤตการณ์ครั้งนี้",
+            "audio_en_src": "The government set up a team to handle this crisis."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-156",
     "thai": "ผู้แสดง",
     "english": "performer, actor",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "performer, actor",
+        "sentences": [
+          {
+            "thai": "รายชื่อผู้แสดงขึ้นตอนท้ายเรื่อง",
+            "en": "The cast list appears at the end of the film.",
+            "audio_src": "รายชื่อผู้แสดงขึ้นตอนท้ายเรื่อง",
+            "audio_en_src": "The cast list appears at the end of the film."
+          },
+          {
+            "thai": "ผู้แสดงทุกคนซ้อมกันมาหลายเดือน",
+            "en": "All the performers rehearsed for months.",
+            "audio_src": "ผู้แสดงทุกคนซ้อมกันมาหลายเดือน",
+            "audio_en_src": "All the performers rehearsed for months."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-157",
     "thai": "ทันใด",
     "english": "suddenly, immediately (literary)",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "suddenly, immediately (literary)",
+        "sentences": [
+          {
+            "thai": "ทันใดนั้น ฟ้าก็ผ่าลงมา",
+            "en": "Suddenly, lightning struck.",
+            "audio_src": "ทันใดนั้น ฟ้าก็ผ่าลงมา",
+            "audio_en_src": "Suddenly, lightning struck."
+          },
+          {
+            "thai": "เสียงกรีดร้องดังขึ้น ทันใดนั้นทุกคนก็หันไปมอง",
+            "en": "A scream rang out, and instantly everyone turned to look.",
+            "audio_src": "เสียงกรีดร้องดังขึ้น ทันใดนั้นทุกคนก็หันไปมอง",
+            "audio_en_src": "A scream rang out, and instantly everyone turned to look."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-158",
