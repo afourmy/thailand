@@ -243459,61 +243459,268 @@
     "id": "new-108",
     "thai": "น้ำหลาก",
     "english": "floodwater, flash flood",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "floodwater, flash flood",
+        "sentences": [
+          {
+            "thai": "น้ำหลากพัดสะพานจนขาด",
+            "en": "The floodwaters washed out the bridge.",
+            "audio_src": "น้ำหลากพัดสะพานจนขาด",
+            "audio_en_src": "The floodwaters washed out the bridge."
+          },
+          {
+            "thai": "หน้าฝนต้องระวังน้ำหลากจากภูเขา",
+            "en": "In the rainy season you have to watch out for flash floods from the mountains.",
+            "audio_src": "หน้าฝนต้องระวังน้ำหลากจากภูเขา",
+            "audio_en_src": "In the rainy season you have to watch out for flash floods from the mountains."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-109",
     "thai": "แวดวง",
     "english": "circle, field, sphere",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "circle, field, sphere",
+        "sentences": [
+          {
+            "thai": "เขาเป็นที่รู้จักในแวดวงบันเทิง",
+            "en": "He's well known in entertainment circles.",
+            "audio_src": "เขาเป็นที่รู้จักในแวดวงบันเทิง",
+            "audio_en_src": "He's well known in entertainment circles."
+          },
+          {
+            "thai": "ข่าวนี้สะเทือนแวดวงการเมือง",
+            "en": "The news shook political circles.",
+            "audio_src": "ข่าวนี้สะเทือนแวดวงการเมือง",
+            "audio_en_src": "The news shook political circles."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-110",
     "thai": "สลัด, สลัดทิ้ง",
     "english": "to shake off, to ditch, to discard",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to shake off, to ditch, to discard",
+        "sentences": [
+          {
+            "thai": "หมาขึ้นจากน้ำแล้วสลัดขนเปียกๆ",
+            "en": "The dog got out of the water and shook off its wet fur.",
+            "audio_src": "หมาขึ้นจากน้ำแล้วสลัดขนเปียกๆ",
+            "audio_en_src": "The dog got out of the water and shook off its wet fur."
+          },
+          {
+            "thai": "เขาพยายามสลัดทิ้งความทรงจำแย่ๆ",
+            "en": "He's trying to shake off the bad memories.",
+            "audio_src": "เขาพยายามสลัดทิ้งความทรงจำแย่ๆ",
+            "audio_en_src": "He's trying to shake off the bad memories."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-111",
     "thai": "รับคำ",
     "english": "to promise, to give one's word",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to promise, to give one's word",
+        "sentences": [
+          {
+            "thai": "เขารับคำแล้วว่าจะมาช่วยงานพรุ่งนี้",
+            "en": "He gave his word that he'd come help out tomorrow.",
+            "audio_src": "เขารับคำแล้วว่าจะมาช่วยงานพรุ่งนี้",
+            "audio_en_src": "He gave his word that he'd come help out tomorrow."
+          },
+          {
+            "thai": "รับคำไปแล้วก็ต้องทำให้ได้",
+            "en": "Once you've given your word, you have to follow through.",
+            "audio_src": "รับคำไปแล้วก็ต้องทำให้ได้",
+            "audio_en_src": "Once you've given your word, you have to follow through."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-112",
     "thai": "กรี๊ด",
     "english": "to scream (high-pitched), to shriek",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to scream (high-pitched), to shriek",
+        "sentences": [
+          {
+            "thai": "แฟนคลับกรี๊ดลั่นตอนนักร้องขึ้นเวที",
+            "en": "The fans screamed their heads off when the singer came on stage.",
+            "audio_src": "แฟนคลับกรี๊ดลั่นตอนนักร้องขึ้นเวที",
+            "audio_en_src": "The fans screamed their heads off when the singer came on stage."
+          },
+          {
+            "thai": "เห็นแมลงสาบทีไรเธอกรี๊ดทุกที",
+            "en": "She shrieks every time she sees a cockroach.",
+            "audio_src": "เห็นแมลงสาบทีไรเธอกรี๊ดทุกที",
+            "audio_en_src": "She shrieks every time she sees a cockroach."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-113",
     "thai": "เชียร์",
     "english": "to cheer (loanword)",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to cheer (loanword)",
+        "sentences": [
+          {
+            "thai": "คืนนี้ไปเชียร์บอลกันไหม",
+            "en": "Want to go cheer at the football match tonight?",
+            "audio_src": "คืนนี้ไปเชียร์บอลกันไหม",
+            "audio_en_src": "Want to go cheer at the football match tonight?"
+          },
+          {
+            "thai": "เพื่อนๆ มาเชียร์เขาถึงขอบสนาม",
+            "en": "His friends came to cheer him on from the sidelines.",
+            "audio_src": "เพื่อนๆ มาเชียร์เขาถึงขอบสนาม",
+            "audio_en_src": "His friends came to cheer him on from the sidelines."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-114",
     "thai": "ค้ำประกัน",
     "english": "to act as a guarantor",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to act as a guarantor",
+        "sentences": [
+          {
+            "thai": "เขาขอให้พ่อช่วยค้ำประกันเงินกู้ให้",
+            "en": "He asked his dad to act as guarantor for the loan.",
+            "audio_src": "เขาขอให้พ่อช่วยค้ำประกันเงินกู้ให้",
+            "audio_en_src": "He asked his dad to act as guarantor for the loan."
+          },
+          {
+            "thai": "อย่าค้ำประกันให้ใครง่ายๆ",
+            "en": "Don't co-sign for anyone lightly.",
+            "audio_src": "อย่าค้ำประกันให้ใครง่ายๆ",
+            "audio_en_src": "Don't co-sign for anyone lightly."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-115",
     "thai": "โต้แย้ง",
     "english": "to dispute, to argue",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to dispute, to argue",
+        "sentences": [
+          {
+            "thai": "ทนายโต้แย้งหลักฐานของอีกฝ่าย",
+            "en": "The lawyer disputed the other side's evidence.",
+            "audio_src": "ทนายโต้แย้งหลักฐานของอีกฝ่าย",
+            "audio_en_src": "The lawyer disputed the other side's evidence."
+          },
+          {
+            "thai": "ถ้าไม่เห็นด้วยก็โต้แย้งได้เต็มที่",
+            "en": "If you disagree, feel free to argue your case.",
+            "audio_src": "ถ้าไม่เห็นด้วยก็โต้แย้งได้เต็มที่",
+            "audio_en_src": "If you disagree, feel free to argue your case."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-116",
     "thai": "โอบ",
     "english": "to embrace, to put one's arm around; to surround, to encircle",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to embrace, to put one's arm around",
+        "sentences": [
+          {
+            "thai": "แม่โอบลูกไว้แน่น",
+            "en": "The mother held her child close.",
+            "audio_src": "แม่โอบลูกไว้แน่น",
+            "audio_en_src": "The mother held her child close."
+          },
+          {
+            "thai": "เขาโอบไหล่แฟนตอนเดินเล่น",
+            "en": "He put his arm around his girlfriend's shoulder as they strolled.",
+            "audio_src": "เขาโอบไหล่แฟนตอนเดินเล่น",
+            "audio_en_src": "He put his arm around his girlfriend's shoulder as they strolled."
+          }
+        ]
+      },
+      {
+        "meaning": "to surround, to encircle",
+        "sentences": [
+          {
+            "thai": "ภูเขาโอบหมู่บ้านไว้ทุกด้าน",
+            "en": "Mountains surround the village on every side.",
+            "audio_src": "ภูเขาโอบหมู่บ้านไว้ทุกด้าน",
+            "audio_en_src": "Mountains surround the village on every side."
+          },
+          {
+            "thai": "อ่าวนี้มีหน้าผาโอบทั้งสองฝั่ง",
+            "en": "Cliffs curve around both sides of the bay.",
+            "audio_src": "อ่าวนี้มีหน้าผาโอบทั้งสองฝั่ง",
+            "audio_en_src": "Cliffs curve around both sides of the bay."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-117",
     "thai": "มูลฝอย",
     "english": "garbage, solid waste",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "garbage, solid waste",
+        "sentences": [
+          {
+            "thai": "เทศบาลเก็บขยะมูลฝอยทุกเช้า",
+            "en": "The municipality collects garbage every morning.",
+            "audio_src": "เทศบาลเก็บขยะมูลฝอยทุกเช้า",
+            "audio_en_src": "The municipality collects garbage every morning."
+          },
+          {
+            "thai": "ป้ายเขียนว่าห้ามทิ้งมูลฝอยบริเวณนี้",
+            "en": "The sign says no dumping garbage in this area.",
+            "audio_src": "ป้ายเขียนว่าห้ามทิ้งมูลฝอยบริเวณนี้",
+            "audio_en_src": "The sign says no dumping garbage in this area."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-118",

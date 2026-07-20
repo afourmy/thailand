@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9032 words**
+**Total: 9042 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9036,3 +9036,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-105` : เคลื่อนย้าย (to displace, to move, to relocate) : 1 meaning(s), 2 sentences
 - `new-106` : สุทธิ (net (e.g net profit, net weight)) : 1 meaning(s), 2 sentences
 - `new-107` : ตะวัน (sun (poetic)) : 1 meaning(s), 2 sentences
+- `new-108` : น้ำหลาก (floodwater, flash flood) : 1 meaning(s), 2 sentences
+- `new-109` : แวดวง (circle, field, sphere) : 1 meaning(s), 2 sentences
+- `new-110` : สลัด, สลัดทิ้ง (to shake off, to ditch, to discard) : 1 meaning(s), 2 sentences
+- `new-111` : รับคำ (to promise, to give one's word) : 1 meaning(s), 2 sentences
+- `new-112` : กรี๊ด (to scream (high-pitched), to shriek) : 1 meaning(s), 2 sentences
+- `new-113` : เชียร์ (to cheer (loanword)) : 1 meaning(s), 2 sentences
+- `new-114` : ค้ำประกัน (to act as a guarantor) : 1 meaning(s), 2 sentences
+- `new-115` : โต้แย้ง (to dispute, to argue) : 1 meaning(s), 2 sentences
+- `new-116` : โอบ (to embrace, to put one's arm around; to surround, to encircle) : 2 meaning(s), 4 sentences
+- `new-117` : มูลฝอย (garbage, solid waste) : 1 meaning(s), 2 sentences
