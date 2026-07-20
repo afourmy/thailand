@@ -245976,42 +245976,209 @@
     "id": "new-208",
     "thai": "โรคจิต",
     "english": "mental illness, psychosis; pervert, sicko (slang)",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "mental illness, psychosis",
+        "sentences": [
+          {
+            "thai": "เขาป่วยเป็นโรคจิต ต้องกินยาตลอด",
+            "en": "He has a psychotic disorder and has to stay on medication.",
+            "audio_src": "เขาป่วยเป็นโรคจิต ต้องกินยาตลอด",
+            "audio_en_src": "He has a psychotic disorder and has to stay on medication."
+          },
+          {
+            "thai": "หมอวินิจฉัยว่าเขาเป็นโรคจิตชนิดหนึ่ง",
+            "en": "The doctor diagnosed him with a form of psychosis.",
+            "audio_src": "หมอวินิจฉัยว่าเขาเป็นโรคจิตชนิดหนึ่ง",
+            "audio_en_src": "The doctor diagnosed him with a form of psychosis."
+          }
+        ]
+      },
+      {
+        "meaning": "pervert, sicko (slang)",
+        "sentences": [
+          {
+            "thai": "มีโรคจิตชอบมาแอบถ่ายผู้หญิงในห้องน้ำ",
+            "en": "There's a pervert who sneaks photos of women in the restroom.",
+            "audio_src": "มีโรคจิตชอบมาแอบถ่ายผู้หญิงในห้องน้ำ",
+            "audio_en_src": "There's a pervert who sneaks photos of women in the restroom."
+          },
+          {
+            "thai": "อย่าส่งรูปแบบนี้มา โรคจิตหรือไง",
+            "en": "Don't send me pictures like that, are you some kind of sicko?",
+            "audio_src": "อย่าส่งรูปแบบนี้มา โรคจิตหรือไง",
+            "audio_en_src": "Don't send me pictures like that, are you some kind of sicko?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-209",
     "thai": "หวงห้าม",
     "english": "forbidden, restricted, off-limits",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "forbidden, restricted, off-limits",
+        "sentences": [
+          {
+            "thai": "ห้องนี้เป็นพื้นที่หวงห้าม เฉพาะพนักงานเท่านั้น",
+            "en": "This room is off-limits, staff only.",
+            "audio_src": "ห้องนี้เป็นพื้นที่หวงห้าม เฉพาะพนักงานเท่านั้น",
+            "audio_en_src": "This room is off-limits, staff only."
+          },
+          {
+            "thai": "สมัยก่อนเรื่องแบบนี้ถือเป็นเรื่องหวงห้าม ห้ามพูดถึง",
+            "en": "In the old days, topics like this were forbidden, you couldn't bring them up.",
+            "audio_src": "สมัยก่อนเรื่องแบบนี้ถือเป็นเรื่องหวงห้าม ห้ามพูดถึง",
+            "audio_en_src": "In the old days, topics like this were forbidden, you couldn't bring them up."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-210",
     "thai": "เขตหวงห้าม",
     "english": "restricted area, no-go zone",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "restricted area, no-go zone",
+        "sentences": [
+          {
+            "thai": "ห้ามบินโดรนในเขตหวงห้าม",
+            "en": "Flying drones in restricted areas is prohibited.",
+            "audio_src": "ห้ามบินโดรนในเขตหวงห้าม",
+            "audio_en_src": "Flying drones in restricted areas is prohibited."
+          },
+          {
+            "thai": "ทหารกันพื้นที่ตรงนั้นเป็นเขตหวงห้าม",
+            "en": "The military has cordoned that area off as a no-go zone.",
+            "audio_src": "ทหารกันพื้นที่ตรงนั้นเป็นเขตหวงห้าม",
+            "audio_en_src": "The military has cordoned that area off as a no-go zone."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-211",
     "thai": "ลูกกระเดือก",
     "english": "Adam's apple",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "Adam's apple",
+        "sentences": [
+          {
+            "thai": "เสียงผู้ชายจะแตกตอนลูกกระเดือกเริ่มโต",
+            "en": "Boys' voices crack when their Adam's apple starts growing.",
+            "audio_src": "เสียงผู้ชายจะแตกตอนลูกกระเดือกเริ่มโต",
+            "audio_en_src": "Boys' voices crack when their Adam's apple starts growing."
+          },
+          {
+            "thai": "เขาตื่นเต้นจนลูกกระเดือกขยับขึ้นลง",
+            "en": "He was so nervous his Adam's apple bobbed up and down.",
+            "audio_src": "เขาตื่นเต้นจนลูกกระเดือกขยับขึ้นลง",
+            "audio_en_src": "He was so nervous his Adam's apple bobbed up and down."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-212",
     "thai": "เฮี้ยน",
     "english": "haunted, having strong supernatural power (e.g a ghost, shrine, amulet)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "haunted, having strong supernatural power (e.g a ghost, shrine, amulet)",
+        "sentences": [
+          {
+            "thai": "บ้านร้างหลังนั้นขึ้นชื่อว่าเฮี้ยนมาก",
+            "en": "That abandoned house is notorious for being haunted.",
+            "audio_src": "บ้านร้างหลังนั้นขึ้นชื่อว่าเฮี้ยนมาก",
+            "audio_en_src": "That abandoned house is notorious for being haunted."
+          },
+          {
+            "thai": "ศาลนี้เฮี้ยน ใครบนอะไรก็ได้อย่างนั้น",
+            "en": "This shrine has real power, whatever you ask for, you get.",
+            "audio_src": "ศาลนี้เฮี้ยน ใครบนอะไรก็ได้อย่างนั้น",
+            "audio_en_src": "This shrine has real power, whatever you ask for, you get."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-213",
     "thai": "หลั่ง",
     "english": "to pour, to flow (bodily fluids), to shed (e.g tears, blood); to ejaculate",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to pour, to flow (bodily fluids), to shed (e.g tears, blood)",
+        "sentences": [
+          {
+            "thai": "แฟนๆ หลั่งน้ำตาในคอนเสิร์ตอำลา",
+            "en": "Fans shed tears at the farewell concert.",
+            "audio_src": "แฟนๆ หลั่งน้ำตาในคอนเสิร์ตอำลา",
+            "audio_en_src": "Fans shed tears at the farewell concert."
+          },
+          {
+            "thai": "วีรบุรุษหลั่งเลือดเพื่อชาติ",
+            "en": "Heroes shed their blood for the nation.",
+            "audio_src": "วีรบุรุษหลั่งเลือดเพื่อชาติ",
+            "audio_en_src": "Heroes shed their blood for the nation."
+          }
+        ]
+      },
+      {
+        "meaning": "to ejaculate",
+        "sentences": [
+          {
+            "thai": "การหลั่งเร็วเป็นปัญหาที่พบบ่อยในผู้ชาย",
+            "en": "Premature ejaculation is a common problem in men.",
+            "audio_src": "การหลั่งเร็วเป็นปัญหาที่พบบ่อยในผู้ชาย",
+            "audio_en_src": "Premature ejaculation is a common problem in men."
+          },
+          {
+            "thai": "เขาถอนตัวออกมาก่อนหลั่ง",
+            "en": "He pulled out before ejaculating.",
+            "audio_src": "เขาถอนตัวออกมาก่อนหลั่ง",
+            "audio_en_src": "He pulled out before ejaculating."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-214",
     "thai": "รก, รกเด็ก",
     "english": "placenta",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "placenta",
+        "sentences": [
+          {
+            "thai": "หมอตรวจรกหลังคลอด",
+            "en": "The doctor examined the placenta after the delivery.",
+            "audio_src": "หมอตรวจรกหลังคลอด",
+            "audio_en_src": "The doctor examined the placenta after the delivery."
+          },
+          {
+            "thai": "คนโบราณนิยมฝังรกเด็กไว้ใต้ต้นไม้",
+            "en": "In the old days, people would bury a baby's placenta under a tree.",
+            "audio_src": "คนโบราณนิยมฝังรกเด็กไว้ใต้ต้นไม้",
+            "audio_en_src": "In the old days, people would bury a baby's placenta under a tree."
+          }
+        ]
+      }
+    ]
   }
 ]

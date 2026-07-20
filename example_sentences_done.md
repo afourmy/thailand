@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9132 words**
+**Total: 9139 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9136,3 +9136,10 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-205` : มีเสน่ห์ปลายจวัก (to be a great cook, to win people over with one's cooking (idiom, said of a woman)) : 1 meaning(s), 2 sentences
 - `new-206` : เสมอต้นเสมอปลาย (consistent, the same from start to finish) : 1 meaning(s), 2 sentences
 - `new-207` : ถูกจริต (to suit one's taste, to click with) : 1 meaning(s), 2 sentences
+- `new-208` : โรคจิต (mental illness, psychosis; pervert, sicko (slang)) : 2 meaning(s), 4 sentences
+- `new-209` : หวงห้าม (forbidden, restricted, off-limits) : 1 meaning(s), 2 sentences
+- `new-210` : เขตหวงห้าม (restricted area, no-go zone) : 1 meaning(s), 2 sentences
+- `new-211` : ลูกกระเดือก (Adam's apple) : 1 meaning(s), 2 sentences
+- `new-212` : เฮี้ยน (haunted, having strong supernatural power (e.g a ghost, shrine, amulet)) : 1 meaning(s), 2 sentences
+- `new-213` : หลั่ง (to pour, to flow (bodily fluids), to shed (e.g tears, blood); to ejaculate) : 2 meaning(s), 4 sentences
+- `new-214` : รก, รกเด็ก (placenta) : 1 meaning(s), 2 sentences
