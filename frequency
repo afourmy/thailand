@@ -3,7 +3,7 @@
 # STATUS (2026-07-20):
 #   everyday category: fully swept, decisions merged into vocab.json (12 changes applied). Done.
 #   common category: swept the first 300 words (in vocab.json order), up to and including chula-l6-062 มหาศาล.
-#     -> RESUME the common sweep at chula-l6-063 มหาสมุทร (the 301st word with frequency "common").
+#     -> RESUME the common sweep at chula-l6-271 อิ่มใจ (the 431st word with frequency "common").
 #   occasional and rare categories: not started.
 #   The proposal lines below are from the common sweep and are NOT yet applied; the user prunes them, then they get merged.
 
@@ -156,3 +156,89 @@ chula-l6-053 อีกทั้ง common -> occasional | 'moreover, furthermore
 chula-l6-056 ศักยภาพ common -> occasional | 'potential, capability' | HR/news formal word
 
 chula-l6-060 เชื่อมั่น common -> occasional | 'to have confidence in, to trust firmly' | news/speech-register; conversation says เชื่อ/มั่นใจ
+
+chula-l6-063 มหาสมุทร common -> occasional | 'ocean' | geography/news word (มหาสมุทรแปซิฟิก); conversation says ทะเล
+
+chula-l6-064 ผู้ประกอบการ common -> occasional | 'entrepreneur, business operator' | business-news and official register
+
+chula-l6-065 ค้าปลีก common -> occasional | 'retail' | business-news register, not conversational
+
+chula-l6-066 ตระหนัก common -> occasional | 'to be aware of, to realize' | speeches and news; conversation says รู้ตัว/รู้
+
+chula-l6-067 เฉลี่ย common -> everyday | 'average' | เฉลี่ยกันจ่าย at every meal out, plus เฉลี่ยแล้ว in daily talk about prices and time
+
+chula-l6-069 รณรงค์ common -> occasional | 'to campaign, promote, advocate for' | PSA and news register
+
+chula-l6-071 ข้ามชาติ common -> occasional | 'multinational, transnational' | news compound (บริษัทข้ามชาติ, อาชญากรรมข้ามชาติ)
+
+chula-l6-072 พกพา common -> occasional | 'portable, to bear, to carry' | formal doublet of พก; lives in ads, law, and news
+
+chula-l6-076 ประมาณการ common -> occasional | 'to estimate' | business/report register; speech says ประมาณ
+
+chula-l6-077 อัตราเติบโต common -> occasional | 'growth rate' | economic-news phrase
+
+chula-l6-078 ส่วนแบ่งการตลาด common -> occasional | 'market share' | business-news phrase
+
+chula-l6-085 เพศสัมพันธ์ common -> occasional | 'sexual intercourse' | clinical/news term; casual speech uses other words entirely
+
+chula-l6-088 เทศบาล common -> occasional | 'municipality' | local-government word heard on news and signage rather than in chat
+
+chula-l6-098 เผื่อแผ่ common -> occasional | 'generous, charitable, to share generously' | textbook-virtue word; said about character now and then, never casual chat
+
+chula-l6-102 สาธารณสุข common -> occasional | 'public health' | ministry/news register
+
+chula-l6-105 ร้องทุกข์ common -> occasional | 'to file a complaint about a hardship' | police/legal formula (แจ้งความร้องทุกข์); speech says ร้องเรียน/บ่น
+
+chula-l6-110 สัญจร common -> occasional | 'to travel, to circulate, to commute' | traffic-report Thai; nobody says it about their own commute
+
+chula-l6-118 กันเอง common -> everyday | 'informal, casual' | เป็นกันเอง and ราคากันเอง are daily descriptions of people, shops, and prices
+
+chula-l6-122 ผู้ประท้วง common -> occasional | 'protesters' | news-report noun
+
+chula-l6-123 ชุมนุม common -> occasional | 'to rally, to gather, to assemble' | news register (การชุมนุม); the school-club sense is spoken but narrow
+
+chula-l6-127 หน่วยงาน common -> occasional | 'agency, department' | official/news word for organizations (หน่วยงานรัฐ)
+
+chula-l6-135 เอกลักษณ์ common -> occasional | 'distinctive identity, unique characteristic' | tourism/news register; speech says สไตล์/จุดเด่น
+
+chula-l6-142 หวั่น common -> occasional | 'fearful, worried, anxious' | headline verb (หวั่นน้ำท่วม); speech says กลัว/กังวล
+
+chula-l6-147 วอน, อ้อนวอน common -> occasional | 'to plead for, beg for, implore' | news-headline verb (วอนรัฐช่วย) and dramatic narration
+
+chula-l6-154 ชง common -> everyday | 'to brew' | ชงกาแฟ/ชงชา every morning, plus the daily slang sense of setting someone up
+
+chula-l6-164 หลุด common -> everyday | 'to slip, drop, fall off' | หลุดมือ, หลุดโฟกัส, คลิปหลุด: constant casual verb
+
+chula-l6-168 แปลก, แปลกประหลาด common -> everyday | 'strange, weird' | แปลกจัง/แปลกๆ is said constantly (the fuller แปลกประหลาด is the bookish half)
+
+chula-l6-170 กวน common -> everyday | 'to stir until thick (cooking); to annoy, to bother' | กวนใจ/กวนตีน is daily casual speech
+
+chula-l6-172 สรรพคุณ common -> occasional | 'properties (of a medicine, a plant)' | label, pharmacy, and advert register
+
+chula-l6-175 กระหาย common -> occasional | 'thirsty' | displaced by หิวน้ำ; กระหาย survives in ads and figurative news use
+
+chula-l6-177 ล้วน common -> occasional | 'all, entirely' | written/broadcast connector (ล้วนแล้วแต่); speech says ทั้งหมด/ทุกอัน
+
+chula-l6-189 ประทับใจ common -> everyday | 'impressed' | ประทับใจมาก is the standard reaction to food, trips, and people
+
+chula-l6-191 น่าหลงใหล common -> occasional | 'fascinating' | travel-copy and documentary narration, not conversation
+
+chula-l6-199 เนื้อสัมผัส common -> occasional | 'texture' | food-writing and review term; speech just says เนื้อ or นุ่ม/แข็ง
+
+chula-l6-201 จานเรียกน้ำย่อย common -> occasional | 'appetizer' | menu-card register; speech says ของว่าง/ออเดิร์ฟ
+
+chula-l6-202 ภารกิจ common -> occasional | 'mission, task' | news and official register; conversation says งาน/ธุระ
+
+chula-l6-214 ท้องถิ่น common -> occasional | 'local, locality' | administrative and news register (ส่วนท้องถิ่น); speech says แถวนี้/บ้านเรา
+
+chula-l6-215 เด็ด common -> everyday | 'to pluck, to pick; awesome, excellent' | เด็ดมาก/ของเด็ด is constant casual praise
+
+chula-l6-217 ผักชี common -> everyday | 'coriander' | ไม่เอาผักชี is said at food stalls every day, plus the ผักชีโรยหน้า idiom
+
+chula-l6-227 ฟังทัน common -> everyday | 'to follow along when listening' | ฟังไม่ทัน is said whenever anyone talks too fast
+
+chula-l6-231 สารสกัด common -> occasional | 'extract (e.g from a plant)' | product-label and advert register
+
+chula-l6-261 แปลกใหม่ common -> occasional | 'novel, original, innovative' | marketing and essay compound; speech says ใหม่/ไม่เหมือนใคร
+
+chula-l6-266 ค่าตอบแทน common -> occasional | 'compensation, remuneration' | HR and official register; speech says ค่าจ้าง/เงิน
