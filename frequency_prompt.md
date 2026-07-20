@@ -33,7 +33,7 @@ Edge cases:
 
 ## Procedure
 
-Work through `vocab.json` in batches of 50 words, in deck order. For each word, judge the current `frequency` against the rules above.
+Work through `vocab.json` in batches of 20 words, in deck order. For each word, judge the current `frequency` against the rules above.
 
 - Do **not** edit `vocab.json` yourself. Instead, collect proposals in a working file named `frequency`, **exactly one line per proposed change**, formatted so I can decide with at most one keystroke per line:
 
