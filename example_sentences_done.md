@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9012 words**
+**Total: 9022 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9016,3 +9016,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-85` : รับใช้ (to serve, to work for, to be in service) : 1 meaning(s), 2 sentences
 - `new-86` : ผจญภัย (to go on an adventure, to face danger) : 1 meaning(s), 2 sentences
 - `new-87` : ศูนย์กลาง (center, central point, middle) : 1 meaning(s), 2 sentences
+- `new-88` : ตาก (to dry (e.g outdoors in the sun), to expose out in the open) : 1 meaning(s), 2 sentences
+- `new-89` : ซื้อขาย (to trade, to buy and sell) : 1 meaning(s), 2 sentences
+- `new-90` : กุศล (merit, virtue, good deed (Buddhism)) : 1 meaning(s), 2 sentences
+- `new-91` : ประเทศชาติ (nation, country (formal)) : 1 meaning(s), 2 sentences
+- `new-92` : แบน (flat; to ban) : 2 meaning(s), 4 sentences
+- `new-93` : ลีลา (style, manner, technique) : 1 meaning(s), 2 sentences
+- `new-94` : เงินทอง (money, wealth) : 1 meaning(s), 2 sentences
+- `new-95` : ปะ (to patch, to mend (e.g cloth, tire)) : 1 meaning(s), 2 sentences
+- `new-96` : โก้ (stylish, classy, chic) : 1 meaning(s), 2 sentences
+- `new-97` : เสิร์ฟ (to serve (food, drinks)) : 1 meaning(s), 2 sentences

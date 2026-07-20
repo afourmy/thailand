@@ -242942,61 +242942,268 @@
     "id": "new-88",
     "thai": "ตาก",
     "english": "to dry (e.g outdoors in the sun), to expose out in the open",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to dry (e.g outdoors in the sun), to expose out in the open",
+        "sentences": [
+          {
+            "thai": "แม่เอาผ้าไปตากหลังบ้าน",
+            "en": "Mom hung the laundry out to dry behind the house.",
+            "audio_src": "แม่เอาผ้าไปตากหลังบ้าน",
+            "audio_en_src": "Mom hung the laundry out to dry behind the house."
+          },
+          {
+            "thai": "ชาวบ้านตากปลาไว้เต็มลาน",
+            "en": "The villagers laid fish out to dry all over the yard.",
+            "audio_src": "ชาวบ้านตากปลาไว้เต็มลาน",
+            "audio_en_src": "The villagers laid fish out to dry all over the yard."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-89",
     "thai": "ซื้อขาย",
     "english": "to trade, to buy and sell",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to trade, to buy and sell",
+        "sentences": [
+          {
+            "thai": "เว็บนี้ใช้ซื้อขายของมือสอง",
+            "en": "This site is for buying and selling secondhand stuff.",
+            "audio_src": "เว็บนี้ใช้ซื้อขายของมือสอง",
+            "audio_en_src": "This site is for buying and selling secondhand stuff."
+          },
+          {
+            "thai": "ที่ดินแปลงนี้ซื้อขายกันมาหลายรอบแล้ว",
+            "en": "This plot of land has been bought and sold several times.",
+            "audio_src": "ที่ดินแปลงนี้ซื้อขายกันมาหลายรอบแล้ว",
+            "audio_en_src": "This plot of land has been bought and sold several times."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-90",
     "thai": "กุศล",
     "english": "merit, virtue, good deed (Buddhism)",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "merit, virtue, good deed (Buddhism)",
+        "sentences": [
+          {
+            "thai": "เขาเชื่อว่าการช่วยคนอื่นเป็นกุศลอย่างหนึ่ง",
+            "en": "He believes helping others is a form of merit.",
+            "audio_src": "เขาเชื่อว่าการช่วยคนอื่นเป็นกุศลอย่างหนึ่ง",
+            "audio_en_src": "He believes helping others is a form of merit."
+          },
+          {
+            "thai": "งานวิ่งครั้งนี้จัดเพื่อการกุศล",
+            "en": "This run is organized for charity.",
+            "audio_src": "งานวิ่งครั้งนี้จัดเพื่อการกุศล",
+            "audio_en_src": "This run is organized for charity."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-91",
     "thai": "ประเทศชาติ",
     "english": "nation, country (formal)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "nation, country (formal)",
+        "sentences": [
+          {
+            "thai": "เยาวชนคืออนาคตของประเทศชาติ",
+            "en": "Young people are the future of the nation.",
+            "audio_src": "เยาวชนคืออนาคตของประเทศชาติ",
+            "audio_en_src": "Young people are the future of the nation."
+          },
+          {
+            "thai": "ทุกคนควรทำหน้าที่ของตัวเองเพื่อประเทศชาติ",
+            "en": "Everyone should do their part for the country.",
+            "audio_src": "ทุกคนควรทำหน้าที่ของตัวเองเพื่อประเทศชาติ",
+            "audio_en_src": "Everyone should do their part for the country."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-92",
     "thai": "แบน",
     "english": "flat; to ban",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "flat",
+        "sentences": [
+          {
+            "thai": "ยางรถแบน ต้องเปลี่ยนก่อนออกเดินทาง",
+            "en": "The tire is flat, we have to change it before we leave.",
+            "audio_src": "ยางรถแบน ต้องเปลี่ยนก่อนออกเดินทาง",
+            "audio_en_src": "The tire is flat, we have to change it before we leave."
+          },
+          {
+            "thai": "สมัยก่อนคนเชื่อว่าโลกแบน",
+            "en": "People used to believe the Earth was flat.",
+            "audio_src": "สมัยก่อนคนเชื่อว่าโลกแบน",
+            "audio_en_src": "People used to believe the Earth was flat."
+          }
+        ]
+      },
+      {
+        "meaning": "to ban",
+        "sentences": [
+          {
+            "thai": "เขาโดนแบนจากเกมนี้ถาวร",
+            "en": "He got permanently banned from the game.",
+            "audio_src": "เขาโดนแบนจากเกมนี้ถาวร",
+            "audio_en_src": "He got permanently banned from the game."
+          },
+          {
+            "thai": "แอปนี้โดนแบนในบางประเทศ",
+            "en": "This app is banned in some countries.",
+            "audio_src": "แอปนี้โดนแบนในบางประเทศ",
+            "audio_en_src": "This app is banned in some countries."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-93",
     "thai": "ลีลา",
     "english": "style, manner, technique",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "style, manner, technique",
+        "sentences": [
+          {
+            "thai": "นักเต้นคนนี้ลีลาสวยมาก",
+            "en": "This dancer has gorgeous moves.",
+            "audio_src": "นักเต้นคนนี้ลีลาสวยมาก",
+            "audio_en_src": "This dancer has gorgeous moves."
+          },
+          {
+            "thai": "นักเขียนคนนี้มีลีลาการเขียนเป็นของตัวเอง",
+            "en": "This writer has a style of his own.",
+            "audio_src": "นักเขียนคนนี้มีลีลาการเขียนเป็นของตัวเอง",
+            "audio_en_src": "This writer has a style of his own."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-94",
     "thai": "เงินทอง",
     "english": "money, wealth",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "money, wealth",
+        "sentences": [
+          {
+            "thai": "อย่าทะเลาะกันเรื่องเงินทอง",
+            "en": "Don't fight over money.",
+            "audio_src": "อย่าทะเลาะกันเรื่องเงินทอง",
+            "audio_en_src": "Don't fight over money."
+          },
+          {
+            "thai": "เขาทำงานหนักเพื่อเก็บเงินทองไว้ให้ลูก",
+            "en": "He works hard to save money for his kids.",
+            "audio_src": "เขาทำงานหนักเพื่อเก็บเงินทองไว้ให้ลูก",
+            "audio_en_src": "He works hard to save money for his kids."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-95",
     "thai": "ปะ",
     "english": "to patch, to mend (e.g cloth, tire)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to patch, to mend (e.g cloth, tire)",
+        "sentences": [
+          {
+            "thai": "เอายางไปปะที่ร้านหน่อย",
+            "en": "Take the tire to the shop to get it patched.",
+            "audio_src": "เอายางไปปะที่ร้านหน่อย",
+            "audio_en_src": "Take the tire to the shop to get it patched."
+          },
+          {
+            "thai": "กางเกงขาดแล้ว เดี๋ยวปะให้",
+            "en": "Your pants are torn, I'll patch them for you.",
+            "audio_src": "กางเกงขาดแล้ว เดี๋ยวปะให้",
+            "audio_en_src": "Your pants are torn, I'll patch them for you."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-96",
     "thai": "โก้",
     "english": "stylish, classy, chic",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "stylish, classy, chic",
+        "sentences": [
+          {
+            "thai": "ใส่สูทแล้วดูโก้มาก",
+            "en": "You look really sharp in that suit.",
+            "audio_src": "ใส่สูทแล้วดูโก้มาก",
+            "audio_en_src": "You look really sharp in that suit."
+          },
+          {
+            "thai": "วันนี้แต่งตัวโก้เชียว จะไปไหน",
+            "en": "You're dressed so smart today, where are you going?",
+            "audio_src": "วันนี้แต่งตัวโก้เชียว จะไปไหน",
+            "audio_en_src": "You're dressed so smart today, where are you going?"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-97",
     "thai": "เสิร์ฟ",
     "english": "to serve (food, drinks)",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to serve (food, drinks)",
+        "sentences": [
+          {
+            "thai": "ร้านนี้เสิร์ฟอาหารช้ามาก",
+            "en": "This restaurant is really slow serving the food.",
+            "audio_src": "ร้านนี้เสิร์ฟอาหารช้ามาก",
+            "audio_en_src": "This restaurant is really slow serving the food."
+          },
+          {
+            "thai": "ของหวานจะเสิร์ฟตอนท้าย",
+            "en": "Dessert will be served at the end.",
+            "audio_src": "ของหวานจะเสิร์ฟตอนท้าย",
+            "audio_en_src": "Dessert will be served at the end."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-98",
