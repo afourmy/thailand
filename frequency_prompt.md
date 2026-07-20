@@ -35,19 +35,16 @@ Edge cases:
 
 Work through `vocab.json` in batches of 50 words, in deck order. For each word, judge the current `frequency` against the rules above.
 
-- Do **not** edit `vocab.json` yourself. Instead, collect proposals in a working file named `frequency` (same style as the `decisions` file), one entry per word whose label looks wrong:
+- Do **not** edit `vocab.json` yourself. Instead, collect proposals in a working file named `frequency`, **exactly one line per proposed change**, formatted so I can decide with at most one keystroke per line:
 
   ```
-  ทว่า
-    new-100 [rare <- ok] (skip, this one is fine: do not list correct words)
-
-  เสื่อมโทรม
-    new-144 [occasional -> rare?] 'to deteriorate, to decline, to become run down'
-    note: one-line reason: where the word actually lives (chat / broadcast / text)
+  new-144 เสื่อมโทรม occasional -> rare | 'to deteriorate, to decline, to become run down' | heard in flood/economy TV reports, but mostly report language
+  new-157 ทันใด occasional -> rare | 'suddenly, immediately (literary)' | novel narration, nobody says it
   ```
 
-  i.e. for each proposed change: the Thai, the id, `current -> proposed`, the gloss, and a one-line `note:` saying where the word actually lives. Words whose current label is right are simply not listed.
+  Each line is: the id, the Thai, `current -> proposed`, the gloss in quotes, and a short reason saying where the word actually lives (chat / broadcast / text). Words whose current label is right are simply not listed.
 
+- **How I decide:** to accept a proposal I put my cursor at the start of the line and type `y` (one keystroke, no selecting, no overwriting), so an accepted line simply begins with `y` (`ynew-144 ...` is fine, `y new-144 ...` too). A line I leave untouched is a NO. I will never write anything else, so the merge step must apply exactly the lines starting with `y` and ignore all others.
 - After each batch, tell me briefly how many words you checked and how many proposals you added, and continue to the next batch without waiting, unless a batch contains words you flagged as genuinely borderline, in which case stop and ask.
-- When the whole deck has been swept, I will go through the `frequency` file, mark my decisions, and only then do we apply the approved changes to `vocab.json` in one merge, like the previous `decisions` batches.
+- When the whole deck has been swept, I will go through the `frequency` file typing `y` where I agree, and only then do we apply the accepted lines to `vocab.json` in one merge, like the previous `decisions` batches.
 - Frequency is the only thing under review: do not touch glosses, examples, ids, or anything else, and do not use this pass to propose removals or renames. If you notice a different kind of problem, mention it to me separately instead of putting it in the file.
