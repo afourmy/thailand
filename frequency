@@ -1,2 +1,158 @@
 # Frequency proposals (see frequency_prompt.md). Delete the lines you reject; every line left in the file will be applied.
-# (everyday sweep: applied 2026-07-20)
+#
+# STATUS (2026-07-20):
+#   everyday category: fully swept, decisions merged into vocab.json (12 changes applied). Done.
+#   common category: swept the first 300 words (in vocab.json order), up to and including chula-l6-062 มหาศาล.
+#     -> RESUME the common sweep at chula-l6-063 มหาสมุทร (the 301st word with frequency "common").
+#   occasional and rare categories: not started.
+#   The proposal lines below are from the common sweep and are NOT yet applied; the user prunes them, then they get merged.
+
+chula-l4-012 ท้องเสีย common -> everyday | 'diarrhea, upset stomach' | as daily as ปวดหัว/เป็นหวัด in Thai life; standard complaint everyone voices
+
+chula-l4-036 ช่อง common -> everyday | 'channel; gap, hole; (service) counter, window' | ช่อง 3, ช่องยูทูบ, ช่องไหน: heard constantly every day
+
+chula-l4-063 ดวง common -> everyday | 'luck, fortune, fate; classifier for stars, suns, lights' | ดวงดี/ดวงซวย/เช็คดวง is daily small talk in Thailand
+
+chula-l4-090 ดื้อ, ดื้อรั้น common -> everyday | 'stubborn, disobedient' | said to and about kids/pets constantly; core personality word
+
+chula-l4-102 อย่างไรก็ตาม common -> occasional | 'however, nevertheless, even so' | written/broadcast connector like จึง; speech says แต่/ยังไงก็ตาม
+
+chula-l4-103 ที่อยู่อาศัย common -> occasional | 'residence' | official/news register; conversation says ที่อยู่ or บ้าน
+
+chula-l4-127 หงุดหงิด common -> everyday | 'irritated, frustrated' | same family and frequency as เครียด/โมโห/เบื่อ, which are everyday
+
+chula-l4-141 (พอ) ...ปุ๊บ, (ก็) ...ปั๊บ common -> everyday | 'as soon as (one thing happens), then (the next follows)' | ubiquitous casual pattern (มาปุ๊บฝนตกปั๊บ)
+
+chula-l4-153 จะตาย common -> everyday | 'extremely, "...to death" (intensifier)' | ร้อนจะตาย/เหนื่อยจะตาย: heard many times a day in casual speech
+
+chula-l4-013 สุนัข common -> occasional | 'dog (polite)' | displaced in speech by หมา; สุนัข lives on signs, news, and vet formality (same pattern as โทรทัศน์/ทีวี)
+
+chula-l5-004 เวลาทำการ common -> occasional | 'business hours' | official/signage register; people ask เปิดกี่โมง
+
+chula-l5-010 โอน common -> everyday | 'to transfer' | PromptPay era: โอนเงิน/โอนมา/เดี๋ยวโอนให้ is literally daily for everyone
+
+chula-l5-027 โปรด, กรุณา common -> everyday | 'please' | กรุณา... plays in every announcement, IVR, BTS ride, all day long
+
+chula-l5-029 ซ่อมแซม common -> occasional | 'to repair, to fix' | speech says ซ่อม; ซ่อมแซม is the news/officialese fuller form
+
+chula-l5-036 เจ้าหน้าที่ common -> everyday | 'officer' | staff/officials everywhere are called เจ้าหน้าที่; heard in service and news daily
+
+chula-l5-050 หลบหนี common -> occasional | 'to escape, to flee' | news-report verb (ผู้ต้องหาหลบหนี); speech says หนี
+
+new-9 เครื่องพิสูจน์ common -> rare | 'method of verification, instrument of proof (formal)' | essay/formal-writing phrasing, not really said aloud
+
+chula-l5-080 ระบุ common -> occasional | 'to specify, to identify' | forms and news (แหล่งข่าวระบุ); conversation says บอก
+
+chula-l5-086 เลื่อน common -> everyday | 'to postpone, to delay, to shift, to move, to slide' | เลื่อนนัด and เลื่อนจอ (scrolling): both daily actions
+
+chula-l5-093 อาชญากรรม common -> occasional | 'crime' | news-category word; conversation talks about โจร/คดี instead
+
+chula-l5-099 พลาด common -> everyday | 'to miss, to make a mistake' | พลาดแล้ว, ห้ามพลาด: constant in speech and every ad
+
+chula-l5-100 ทรัพยากร common -> occasional | 'resources' | news/school register (ทรัพยากรธรรมชาติ), not conversation
+
+chula-l5-117 ยอด common -> everyday | 'peak, summit, top; total; sprout; excellent' | ยอดเงิน, ยอดวิว, ยอดขาย: daily money/social-media talk
+
+chula-l5-154 มุ่งหน้า common -> occasional | 'to head toward' | news narration (มุ่งหน้าไปยัง...); speech says ไปทาง
+
+chula-l5-156 มูลค่า common -> occasional | 'value' | business-news word (มูลค่ากว่าพันล้าน); speech says ราคา/ค่า
+
+chula-l5-158 ดำเนินการ common -> occasional | 'to proceed, to carry out' | officialese heard from staff and news; speech says ทำ/จัดการ
+
+chula-l5-162 พัง common -> everyday | 'broken, damaged' | มือถือพัง, แผนพัง: among the most frequent casual words there is
+
+chula-l5-169 อาการ common -> everyday | 'symptom, condition' | อาการเป็นไงบ้าง: daily sickness/mood talk
+
+chula-l5-188 สะท้อน common -> occasional | 'to reflect' | analysis register (สะท้อนให้เห็นว่า); rarely conversational
+
+chula-l5-192 ยี่ห้อ common -> everyday | 'brand' | ยี่ห้ออะไร is asked whenever anyone buys anything
+
+chula-l5-193 ขาด common -> everyday | 'to lack, to be missing; torn, broken' | ขาดไม่ได้, เสื้อขาด, ขาดเรียน: basic daily verb
+
+chula-l5-201 ศีรษะ common -> occasional | 'head (formal)' | displaced by หัว; lives on signs (ระวังศีรษะ) and in clinics
+
+chula-l5-203 ถ่าย common -> everyday | 'to take (photo, video); to defecate; to transfer' | ถ่ายรูป/ถ่ายคลิป era: said many times daily
+
+chula-l5-224 อัตรา common -> occasional | 'rate' | finance/news word (อัตราแลกเปลี่ยน); speech says เรท
+
+chula-l5-263 กฎระเบียบ common -> occasional | 'rules, regulations' | official compound; speech just says กฎ
+
+chula-l5-266 สัญญาณ common -> everyday | 'signal, sign' | ไม่มีสัญญาณ (phone/wifi): daily complaint
+
+chula-l5-267 เผลอ common -> everyday | 'accidentally, unintentionally' | เผลอหลับ, เผลอกด: constant casual word
+
+chula-l5-272 พยากรณ์อากาศ common -> occasional | 'weather forecast' | the broadcast segment name; conversation asks ฝนจะตกไหม
+
+chula-l5-279 ระมัดระวัง common -> occasional | 'careful' | announcement fuller form (โปรดระมัดระวัง); speech says ระวัง
+
+chula-l5-284 ค่อนข้าง common -> everyday | 'quite, rather, relatively' | ค่อนข้างแพง/ค่อนข้างเยอะ: heard many times a day
+
+chula-l5-286 อุปสรรค common -> occasional | 'obstacle' | formal/motivational register; conversation says ปัญหา
+
+chula-l5-288 ยกเลิก common -> everyday | 'to cancel' | ยกเลิกนัด/ออเดอร์/บริการ: daily app-era word
+
+chula-l5-290 สรุปแล้ว common -> everyday | 'in conclusion' | สรุป(แล้ว)คือ... is the standard casual wrap-up in every conversation
+
+chula-l5-291 ยังคง common -> occasional | 'still' | news register (ยังคง + verb); speech just says ยัง
+
+chula-l5-293 อะ, อ่ะ common -> everyday | 'softening informal particle' | ultra-frequent, in practically every casual sentence
+
+chula-l5-313 ส่วนลด common -> everyday | 'discount' | มีส่วนลดไหม/โค้ดส่วนลด: daily shopping vocabulary
+
+chula-l5-316 ลุ้น common -> everyday | 'to hope to win, to wait eagerly' | lottery/sports culture: ลุ้นหวย, ช่วยลุ้น all the time
+
+chula-l5-318 เรียน common -> everyday | 'to learn; to inform; dear (official)' | the base verb เรียน (study) is daily for everyone
+
+chula-l5-327 แลก, แลกเปลี่ยน common -> everyday | 'to exchange' | แลกเงิน, แลกกัน: frequent daily verb
+
+chula-l5-328 แต้ม common -> everyday | 'point, dot, mark' | มีแต้มไหมคะ at every convenience-store checkout
+
+chula-l5-332 อย่างน้อย common -> everyday | 'at least' | อย่างน้อยก็...: constant spoken connector
+
+chula-l5-335 เกษตรกร common -> occasional | 'farmer (formal)' | news word; speech says ชาวนา/ชาวไร่
+
+chula-l5-336 จำหน่าย common -> occasional | 'to sell (formal)' | signage/news (งดจำหน่าย); speech says ขาย
+
+chula-l5-341 มั่นใจ common -> everyday | 'confident' | มั่นใจ/ไม่มั่นใจ: daily in speech
+
+chula-l5-346 เศรษฐกิจ common -> everyday | 'economy' | เศรษฐกิจไม่ดี is a daily national lament, plus constant news exposure
+
+chula-l5-352 อุตสาหกรรม common -> occasional | 'industry' | news/school register, rarely conversational
+
+chula-l5-353 เกษตรกรรม common -> occasional | 'agriculture (industry)' | textbook/news register
+
+chula-l5-381 ความขัดแย้ง common -> occasional | 'conflict' | news-analysis word; conversation says ทะเลาะ/ไม่ถูกกัน
+
+chula-l5-389 สมัคร common -> everyday | 'to apply' | สมัครงาน/สมาชิก/แอป: constant modern verb
+
+chula-l5-394 ความมั่นคง common -> occasional | 'stability' | national-security/news register
+
+chula-l5-396 ฯลฯ common -> rare | 'etc.' | a writing symbol, not a spoken word
+
+chula-l5-397 พืช common -> occasional | 'plant' | school/news register; conversation says ต้นไม้
+
+chula-l5-398 รถประจำทาง common -> occasional | 'public bus' | announcement register; everyone says รถเมล์
+
+chula-l5-400 งบ, งบประมาณ common -> everyday | 'budget' | งบเท่าไหร่/ไม่มีงบ: daily planning and shopping talk
+
+chula-l5-422 คาด common -> occasional | 'to assume, to speculate, to anticipate' | คาดว่า... is quintessential news Thai; speech says คิดว่า
+
+chula-l5-440 แพทย์ common -> occasional | 'doctor, physician' | displaced by หมอ; lives in news and formal titles
+
+chula-l5-453 กระทรวง common -> occasional | 'ministry' | daily on the news, rarely in conversation
+
+chula-l6-001 เรียบเรียง common -> occasional | 'to arrange, compose, organize' | credits/formal writing verb
+
+chula-l6-008 ครบ, ครบถ้วน common -> everyday | 'thorough, complete' | ครบ/ครบแล้ว/ไม่ครบ: daily checking word
+
+chula-l6-017 ศูนย์ common -> everyday | 'zero; center (institution), hub' | zero is spoken in every phone number and price
+
+chula-l6-024 เน้น, มุ่งเน้น common -> everyday | 'to focus on, to emphasize' | เน้นๆ, ไม่เน้น: daily casual (even when ordering food)
+
+chula-l6-039 แต่งตั้ง common -> occasional | 'to appoint, to nominate' | government-news verb
+
+chula-l6-053 อีกทั้ง common -> occasional | 'moreover, furthermore' | written/broadcast connector; speech says แล้วก็
+
+chula-l6-056 ศักยภาพ common -> occasional | 'potential, capability' | HR/news formal word
+
+chula-l6-060 เชื่อมั่น common -> occasional | 'to have confidence in, to trust firmly' | news/speech-register; conversation says เชื่อ/มั่นใจ
