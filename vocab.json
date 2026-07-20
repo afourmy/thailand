@@ -245726,61 +245726,251 @@
     "id": "new-198",
     "thai": "ด้านชา",
     "english": "unfeeling, emotionally hardened, insensitive",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "unfeeling, emotionally hardened, insensitive",
+        "sentences": [
+          {
+            "thai": "โดนด่าบ่อยจนด้านชาไปแล้ว",
+            "en": "I've been yelled at so often I've gone numb to it.",
+            "audio_src": "โดนด่าบ่อยจนด้านชาไปแล้ว",
+            "audio_en_src": "I've been yelled at so often I've gone numb to it."
+          },
+          {
+            "thai": "หัวใจเขาด้านชาตั้งแต่เสียลูกไป",
+            "en": "His heart has been numb since he lost his child.",
+            "audio_src": "หัวใจเขาด้านชาตั้งแต่เสียลูกไป",
+            "audio_en_src": "His heart has been numb since he lost his child."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-199",
     "thai": "ทุพพลภาพ",
     "english": "disabled, disability (formal, legal)",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "disabled, disability (formal, legal)",
+        "sentences": [
+          {
+            "thai": "อุบัติเหตุทำให้เขาทุพพลภาพถาวร",
+            "en": "The accident left him permanently disabled.",
+            "audio_src": "อุบัติเหตุทำให้เขาทุพพลภาพถาวร",
+            "audio_en_src": "The accident left him permanently disabled."
+          },
+          {
+            "thai": "ประกันจ่ายชดเชยกรณีทุพพลภาพ",
+            "en": "The insurance pays compensation in cases of disability.",
+            "audio_src": "ประกันจ่ายชดเชยกรณีทุพพลภาพ",
+            "audio_en_src": "The insurance pays compensation in cases of disability."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-200",
     "thai": "ผิวสีน้ำผึ้ง",
     "english": "honey-colored skin, golden-brown skin tone",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "honey-colored skin, golden-brown skin tone",
+        "sentences": [
+          {
+            "thai": "นางเอกคนนี้ผิวสีน้ำผึ้งสวยมาก",
+            "en": "This leading actress has beautiful honey-colored skin.",
+            "audio_src": "นางเอกคนนี้ผิวสีน้ำผึ้งสวยมาก",
+            "audio_en_src": "This leading actress has beautiful honey-colored skin."
+          },
+          {
+            "thai": "คนไทยส่วนใหญ่ผิวสีน้ำผึ้ง",
+            "en": "Most Thai people have golden-brown skin.",
+            "audio_src": "คนไทยส่วนใหญ่ผิวสีน้ำผึ้ง",
+            "audio_en_src": "Most Thai people have golden-brown skin."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-201",
     "thai": "สนิม",
     "english": "rust",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "rust",
+        "sentences": [
+          {
+            "thai": "ประตูเหล็กขึ้นสนิมหมดแล้ว",
+            "en": "The steel door has rusted all over.",
+            "audio_src": "ประตูเหล็กขึ้นสนิมหมดแล้ว",
+            "audio_en_src": "The steel door has rusted all over."
+          },
+          {
+            "thai": "ทาน้ำมันกันสนิมไว้หน่อย",
+            "en": "Put some oil on it to keep the rust off.",
+            "audio_src": "ทาน้ำมันกันสนิมไว้หน่อย",
+            "audio_en_src": "Put some oil on it to keep the rust off."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-202",
     "thai": "ฆาตกรต่อเนื่อง",
     "english": "serial killer",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "serial killer",
+        "sentences": [
+          {
+            "thai": "ตำรวจกำลังตามล่าฆาตกรต่อเนื่อง",
+            "en": "The police are hunting a serial killer.",
+            "audio_src": "ตำรวจกำลังตามล่าฆาตกรต่อเนื่อง",
+            "audio_en_src": "The police are hunting a serial killer."
+          },
+          {
+            "thai": "หนังเรื่องนี้สร้างจากคดีฆาตกรต่อเนื่องจริง",
+            "en": "This movie is based on a real serial killer case.",
+            "audio_src": "หนังเรื่องนี้สร้างจากคดีฆาตกรต่อเนื่องจริง",
+            "audio_en_src": "This movie is based on a real serial killer case."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-203",
     "thai": "ลางสังหรณ์",
     "english": "hunch, premonition, gut feeling that something bad will happen",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "hunch, premonition, gut feeling that something bad will happen",
+        "sentences": [
+          {
+            "thai": "ฉันมีลางสังหรณ์ไม่ดีเกี่ยวกับทริปนี้",
+            "en": "I have a bad feeling about this trip.",
+            "audio_src": "ฉันมีลางสังหรณ์ไม่ดีเกี่ยวกับทริปนี้",
+            "audio_en_src": "I have a bad feeling about this trip."
+          },
+          {
+            "thai": "ลางสังหรณ์ของแม่มักจะแม่น",
+            "en": "Mom's premonitions are usually right.",
+            "audio_src": "ลางสังหรณ์ของแม่มักจะแม่น",
+            "audio_en_src": "Mom's premonitions are usually right."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-204",
     "thai": "กุลสตรี",
     "english": "proper lady, well-mannered woman from a good family",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "proper lady, well-mannered woman from a good family",
+        "sentences": [
+          {
+            "thai": "สมัยก่อนผู้หญิงถูกสอนให้เป็นกุลสตรี",
+            "en": "In the old days, girls were raised to be proper ladies.",
+            "audio_src": "สมัยก่อนผู้หญิงถูกสอนให้เป็นกุลสตรี",
+            "audio_en_src": "In the old days, girls were raised to be proper ladies."
+          },
+          {
+            "thai": "ยายบอกว่ากุลสตรีต้องนั่งให้เรียบร้อย",
+            "en": "Grandma says a proper lady has to sit politely.",
+            "audio_src": "ยายบอกว่ากุลสตรีต้องนั่งให้เรียบร้อย",
+            "audio_en_src": "Grandma says a proper lady has to sit politely."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-205",
     "thai": "มีเสน่ห์ปลายจวัก",
     "english": "to be a great cook, to win people over with one's cooking (idiom, said of a woman)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to be a great cook, to win people over with one's cooking (idiom, said of a woman)",
+        "sentences": [
+          {
+            "thai": "ใครได้แต่งกับเธอถือว่าโชคดี เธอมีเสน่ห์ปลายจวัก",
+            "en": "Whoever marries her is lucky, she can win anyone over with her cooking.",
+            "audio_src": "ใครได้แต่งกับเธอถือว่าโชคดี เธอมีเสน่ห์ปลายจวัก",
+            "audio_en_src": "Whoever marries her is lucky, she can win anyone over with her cooking."
+          },
+          {
+            "thai": "แม่ฉันมีเสน่ห์ปลายจวัก ใครกินฝีมือแม่ก็ติดใจ",
+            "en": "My mom is a wonderful cook, everyone who tries her food comes back for more.",
+            "audio_src": "แม่ฉันมีเสน่ห์ปลายจวัก ใครกินฝีมือแม่ก็ติดใจ",
+            "audio_en_src": "My mom is a wonderful cook, everyone who tries her food comes back for more."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-206",
     "thai": "เสมอต้นเสมอปลาย",
     "english": "consistent, the same from start to finish",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "consistent, the same from start to finish",
+        "sentences": [
+          {
+            "thai": "เขาทำงานดีเสมอต้นเสมอปลาย",
+            "en": "His work has been consistently good from day one.",
+            "audio_src": "เขาทำงานดีเสมอต้นเสมอปลาย",
+            "audio_en_src": "His work has been consistently good from day one."
+          },
+          {
+            "thai": "สิบปีแล้วร้านนี้รสชาติยังเสมอต้นเสมอปลาย",
+            "en": "Ten years on, this restaurant still tastes the same as ever.",
+            "audio_src": "สิบปีแล้วร้านนี้รสชาติยังเสมอต้นเสมอปลาย",
+            "audio_en_src": "Ten years on, this restaurant still tastes the same as ever."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-207",
     "thai": "ถูกจริต",
     "english": "to suit one's taste, to click with",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to suit one's taste, to click with",
+        "sentences": [
+          {
+            "thai": "เพลงแนวนี้ถูกจริตฉันมาก",
+            "en": "This kind of music really suits my taste.",
+            "audio_src": "เพลงแนวนี้ถูกจริตฉันมาก",
+            "audio_en_src": "This kind of music really suits my taste."
+          },
+          {
+            "thai": "หนังเรื่องนี้อาจไม่ถูกจริตทุกคน",
+            "en": "This movie may not be everyone's cup of tea.",
+            "audio_src": "หนังเรื่องนี้อาจไม่ถูกจริตทุกคน",
+            "audio_en_src": "This movie may not be everyone's cup of tea."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-208",

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9122 words**
+**Total: 9132 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9126,3 +9126,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-195` : ซุบซิบ (to whisper, to gossip in a low voice) : 1 meaning(s), 2 sentences
 - `new-196` : ริดสีดวงทวาร (hemorrhoids) : 1 meaning(s), 2 sentences
 - `new-197` : ชินชา (to stop caring about something after getting used to it, desensitized, indifferent) : 1 meaning(s), 2 sentences
+- `new-198` : ด้านชา (unfeeling, emotionally hardened, insensitive) : 1 meaning(s), 2 sentences
+- `new-199` : ทุพพลภาพ (disabled, disability (formal, legal)) : 1 meaning(s), 2 sentences
+- `new-200` : ผิวสีน้ำผึ้ง (honey-colored skin, golden-brown skin tone) : 1 meaning(s), 2 sentences
+- `new-201` : สนิม (rust) : 1 meaning(s), 2 sentences
+- `new-202` : ฆาตกรต่อเนื่อง (serial killer) : 1 meaning(s), 2 sentences
+- `new-203` : ลางสังหรณ์ (hunch, premonition, gut feeling that something bad will happen) : 1 meaning(s), 2 sentences
+- `new-204` : กุลสตรี (proper lady, well-mannered woman from a good family) : 1 meaning(s), 2 sentences
+- `new-205` : มีเสน่ห์ปลายจวัก (to be a great cook, to win people over with one's cooking (idiom, said of a woman)) : 1 meaning(s), 2 sentences
+- `new-206` : เสมอต้นเสมอปลาย (consistent, the same from start to finish) : 1 meaning(s), 2 sentences
+- `new-207` : ถูกจริต (to suit one's taste, to click with) : 1 meaning(s), 2 sentences
