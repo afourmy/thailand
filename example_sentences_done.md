@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9062 words**
+**Total: 9072 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9066,3 +9066,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-135` : เงินได้ (income, earnings) : 1 meaning(s), 2 sentences
 - `new-136` : บี้ (to crush, to smash, to squeeze) : 1 meaning(s), 2 sentences
 - `new-137` : โภชนาการ (nutrition) : 1 meaning(s), 2 sentences
+- `new-138` : กลั้น (to restrain, to hold back, to suppress) : 1 meaning(s), 2 sentences
+- `new-139` : อุปการะ (to care for, to provide assistance, to give money) : 1 meaning(s), 2 sentences
+- `new-140` : โฆษก (spokesperson, announcer, broadcaster) : 1 meaning(s), 2 sentences
+- `new-141` : ชัดแจ้ง (clear, obvious, explicit) : 1 meaning(s), 2 sentences
+- `new-142` : พิธีการ (ceremony, formalities, protocol) : 1 meaning(s), 2 sentences
+- `new-143` : ส่วนภูมิภาค (provincial sector, the regions outside the capital) : 1 meaning(s), 2 sentences
+- `new-144` : เสื่อมโทรม (to deteriorate, to decline, to become run down) : 1 meaning(s), 2 sentences
+- `new-145` : หลักทรัพย์ (securities (stocks, bonds, etc)) : 1 meaning(s), 2 sentences
+- `new-146` : คืบหน้า (to make progress, to advance) : 1 meaning(s), 2 sentences
+- `new-147` : สินทรัพย์ (asset, property) : 1 meaning(s), 2 sentences

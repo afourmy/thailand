@@ -244226,61 +244226,251 @@
     "id": "new-138",
     "thai": "กลั้น",
     "english": "to restrain, to hold back, to suppress",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to restrain, to hold back, to suppress",
+        "sentences": [
+          {
+            "thai": "เขากลั้นน้ำตาไว้ไม่อยู่",
+            "en": "She couldn't hold back her tears.",
+            "audio_src": "เขากลั้นน้ำตาไว้ไม่อยู่",
+            "audio_en_src": "She couldn't hold back her tears."
+          },
+          {
+            "thai": "หมอให้กลั้นหายใจตอนเอกซเรย์",
+            "en": "The doctor told me to hold my breath during the X-ray.",
+            "audio_src": "หมอให้กลั้นหายใจตอนเอกซเรย์",
+            "audio_en_src": "The doctor told me to hold my breath during the X-ray."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-139",
     "thai": "อุปการะ",
     "english": "to care for, to provide assistance, to give money",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to care for, to provide assistance, to give money",
+        "sentences": [
+          {
+            "thai": "ป้ารับอุปการะเด็กกำพร้าสองคน",
+            "en": "Auntie has taken two orphans under her care.",
+            "audio_src": "ป้ารับอุปการะเด็กกำพร้าสองคน",
+            "audio_en_src": "Auntie has taken two orphans under her care."
+          },
+          {
+            "thai": "เขาส่งเงินอุปการะพ่อแม่ทุกเดือน",
+            "en": "He sends money to support his parents every month.",
+            "audio_src": "เขาส่งเงินอุปการะพ่อแม่ทุกเดือน",
+            "audio_en_src": "He sends money to support his parents every month."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-140",
     "thai": "โฆษก",
     "english": "spokesperson, announcer, broadcaster",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "spokesperson, announcer, broadcaster",
+        "sentences": [
+          {
+            "thai": "โฆษกรัฐบาลออกมาชี้แจงเรื่องนี้แล้ว",
+            "en": "The government spokesperson has come out to clarify the matter.",
+            "audio_src": "โฆษกรัฐบาลออกมาชี้แจงเรื่องนี้แล้ว",
+            "audio_en_src": "The government spokesperson has come out to clarify the matter."
+          },
+          {
+            "thai": "เขาเป็นโฆษกในงานแต่งของเพื่อน",
+            "en": "He was the announcer at his friend's wedding.",
+            "audio_src": "เขาเป็นโฆษกในงานแต่งของเพื่อน",
+            "audio_en_src": "He was the announcer at his friend's wedding."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-141",
     "thai": "ชัดแจ้ง",
     "english": "clear, obvious, explicit",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "clear, obvious, explicit",
+        "sentences": [
+          {
+            "thai": "หลักฐานชัดแจ้งขนาดนี้ ปฏิเสธไม่ได้แล้ว",
+            "en": "With evidence this clear, there's no denying it.",
+            "audio_src": "หลักฐานชัดแจ้งขนาดนี้ ปฏิเสธไม่ได้แล้ว",
+            "audio_en_src": "With evidence this clear, there's no denying it."
+          },
+          {
+            "thai": "เขาอธิบายอย่างชัดแจ้งจนไม่มีใครสงสัย",
+            "en": "He explained it so clearly that no one had any doubts.",
+            "audio_src": "เขาอธิบายอย่างชัดแจ้งจนไม่มีใครสงสัย",
+            "audio_en_src": "He explained it so clearly that no one had any doubts."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-142",
     "thai": "พิธีการ",
     "english": "ceremony, formalities, protocol",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "ceremony, formalities, protocol",
+        "sentences": [
+          {
+            "thai": "งานนี้ไม่มีพิธีการอะไรมาก มากันสบายๆ",
+            "en": "There won't be much formality at this event, just come casual.",
+            "audio_src": "งานนี้ไม่มีพิธีการอะไรมาก มากันสบายๆ",
+            "audio_en_src": "There won't be much formality at this event, just come casual."
+          },
+          {
+            "thai": "ต้องผ่านพิธีการศุลกากรก่อนออกจากสนามบิน",
+            "en": "You have to go through customs formalities before leaving the airport.",
+            "audio_src": "ต้องผ่านพิธีการศุลกากรก่อนออกจากสนามบิน",
+            "audio_en_src": "You have to go through customs formalities before leaving the airport."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-143",
     "thai": "ส่วนภูมิภาค",
     "english": "provincial sector, the regions outside the capital",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "provincial sector, the regions outside the capital",
+        "sentences": [
+          {
+            "thai": "ข้าราชการส่วนภูมิภาคขึ้นกับผู้ว่าราชการจังหวัด",
+            "en": "Provincial officials answer to the provincial governor.",
+            "audio_src": "ข้าราชการส่วนภูมิภาคขึ้นกับผู้ว่าราชการจังหวัด",
+            "audio_en_src": "Provincial officials answer to the provincial governor."
+          },
+          {
+            "thai": "รัฐบาลจัดสรรงบให้ส่วนภูมิภาคมากขึ้น",
+            "en": "The government is allocating more budget to the provinces.",
+            "audio_src": "รัฐบาลจัดสรรงบให้ส่วนภูมิภาคมากขึ้น",
+            "audio_en_src": "The government is allocating more budget to the provinces."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-144",
     "thai": "เสื่อมโทรม",
     "english": "to deteriorate, to decline, to become run down",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to deteriorate, to decline, to become run down",
+        "sentences": [
+          {
+            "thai": "ตึกแถวแถวนี้เสื่อมโทรมมาก",
+            "en": "The shophouses around here are really run down.",
+            "audio_src": "ตึกแถวแถวนี้เสื่อมโทรมมาก",
+            "audio_en_src": "The shophouses around here are really run down."
+          },
+          {
+            "thai": "สุขภาพเขาเสื่อมโทรมจากการดื่มหนัก",
+            "en": "His health has deteriorated from heavy drinking.",
+            "audio_src": "สุขภาพเขาเสื่อมโทรมจากการดื่มหนัก",
+            "audio_en_src": "His health has deteriorated from heavy drinking."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-145",
     "thai": "หลักทรัพย์",
     "english": "securities (stocks, bonds, etc)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "securities (stocks, bonds, etc)",
+        "sentences": [
+          {
+            "thai": "เขาเปิดบัญชีซื้อขายหลักทรัพย์กับโบรกเกอร์",
+            "en": "He opened a securities trading account with a broker.",
+            "audio_src": "เขาเปิดบัญชีซื้อขายหลักทรัพย์กับโบรกเกอร์",
+            "audio_en_src": "He opened a securities trading account with a broker."
+          },
+          {
+            "thai": "ตลาดหลักทรัพย์ปิดทำการวันหยุดราชการ",
+            "en": "The stock exchange is closed on public holidays.",
+            "audio_src": "ตลาดหลักทรัพย์ปิดทำการวันหยุดราชการ",
+            "audio_en_src": "The stock exchange is closed on public holidays."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-146",
     "thai": "คืบหน้า",
     "english": "to make progress, to advance",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to make progress, to advance",
+        "sentences": [
+          {
+            "thai": "งานคืบหน้าไปเยอะแล้ว",
+            "en": "The work has come a long way.",
+            "audio_src": "งานคืบหน้าไปเยอะแล้ว",
+            "audio_en_src": "The work has come a long way."
+          },
+          {
+            "thai": "คดีนี้ยังไม่มีความคืบหน้า",
+            "en": "There's still no progress in the case.",
+            "audio_src": "คดีนี้ยังไม่มีความคืบหน้า",
+            "audio_en_src": "There's still no progress in the case."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-147",
     "thai": "สินทรัพย์",
     "english": "asset, property",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "asset, property",
+        "sentences": [
+          {
+            "thai": "บริษัทมีสินทรัพย์รวมกว่าพันล้านบาท",
+            "en": "The company has over a billion baht in total assets.",
+            "audio_src": "บริษัทมีสินทรัพย์รวมกว่าพันล้านบาท",
+            "audio_en_src": "The company has over a billion baht in total assets."
+          },
+          {
+            "thai": "บ้านถือเป็นสินทรัพย์ก้อนใหญ่ที่สุดของหลายคน",
+            "en": "For many people, a house is their biggest asset.",
+            "audio_src": "บ้านถือเป็นสินทรัพย์ก้อนใหญ่ที่สุดของหลายคน",
+            "audio_en_src": "For many people, a house is their biggest asset."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-148",
