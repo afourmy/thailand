@@ -396,7 +396,7 @@ tamago-l3-532 เอาผิดกับ common -> occasional | 'to prosecute, 
 
 tamago-l3-535 ตราบใดที่ common -> occasional | 'as long as' | written/speech-making connector; conversation says แค่...ก็/ถ้ายัง
 
-tamago-l3-559 หนำใจ common -> occasional | 'fully satisfied, more than enough' | dated written flavour; speech says สะใจ/จุใจ
+tamago-l3-559 หนำใจ common -> rare | 'fully satisfied, more than enough' | dated written flavour; speech says สะใจ/จุใจ
 
 tamago-l3-599 ตำหนิ common -> occasional | 'to criticize, to find fault with' | formal register; speech says ว่า/ด่า/บ่น
 
@@ -978,7 +978,7 @@ thaipod-1229 เป็นการลับ common -> occasional | 'in secret, c
 
 thaipod-1231 เป็นต้น common -> occasional | 'etc., and so on' | written and broadcast list-ender; speech says อะไรพวกนี้
 
-thaipod-1238 เพราะเหตุที่ common -> occasional | 'due to the fact that' | written connector
+thaipod-1238 เพราะเหตุที่ common -> rare | 'due to the fact that' | written connector
 
 thaipod-1240 เพลิดเพลิน common -> occasional | 'to enjoy, to be delighted' | written and advertising verb; speech says สนุก/เพลิน
 
@@ -1494,7 +1494,7 @@ t4k-c01-063 นอกจากนี้ common -> occasional | 'in addition, bes
 
 t4k-c01-079 แท้จริง common -> occasional | 'real, true, genuine' | written register; speech says จริงๆ
 
-t4k-c02-007 เช่นเดียว common -> occasional | 'the same, likewise' | written comparison; speech says เหมือนกัน
+t4k-c02-007 เช่นเดียว common -> rare | 'the same, likewise' | written comparison; speech says เหมือนกัน
 
 t4k-c02-017 สำนัก common -> occasional | 'office, bureau, institution' | official and news noun
 
@@ -1534,7 +1534,7 @@ t4k-c03-040 ผู้แทน common -> occasional | 'representative, delegate'
 
 t4k-c03-045 หลักเกณฑ์ common -> occasional | 'criteria, rules, standards' | official and regulation register
 
-t4k-c03-050 ข้างต้น common -> occasional | 'above, aforementioned' | written and document phrase
+t4k-c03-050 ข้างต้น common -> rare | 'above, aforementioned' | written and document phrase
 
 t4k-c03-051 ความพยายาม common -> occasional | 'effort, attempt' | written and news noun; speech says พยายาม
 
@@ -1544,7 +1544,7 @@ t4k-c03-073 กลไก common -> occasional | 'mechanism, machinery' | technic
 
 t4k-c03-084 บัญญัติ common -> occasional | 'to legislate, to enact' | legal register
 
-t4k-c03-086 กล่าวคือ common -> occasional | 'in other words, that is to say' | written and academic connector
+t4k-c03-086 กล่าวคือ common -> rare | 'in other words, that is to say' | written and academic connector
 
 t4k-c03-087 ส่วนร่วม common -> occasional | 'participation, contribution' | formal and policy noun
 
@@ -1582,7 +1582,7 @@ t4k-c04-072 จัดสรร common -> occasional | 'to allocate, to distribut
 
 t4k-c04-073 คัดค้าน common -> occasional | 'to oppose, to protest against' | news and formal verb; speech says ไม่เห็นด้วย/ค้าน
 
-t4k-c04-075 สูญ common -> occasional | 'lost, gone, disappeared' | written register; speech says หาย
+t4k-c04-075 สูญ common -> rare | 'lost, gone, disappeared' | written register; speech says หาย
 
 t4k-c04-082 ยุติ common -> occasional | 'to terminate, to settle' | news and official verb; speech says จบ/เลิก
 
@@ -1592,7 +1592,7 @@ t4k-c04-084 เป็นอย่างยิ่ง common -> occasional | 'extr
 
 t4k-c04-085 บำบัด common -> occasional | 'to treat, to heal (formal)' | clinical and official register
 
-t4k-c04-086 จำต้อง common -> occasional | 'must, obliged to (formal)' | written register; speech says ต้อง/จำเป็นต้อง
+t4k-c04-086 จำต้อง common -> rare | 'must, obliged to (formal)' | written register; speech says ต้อง/จำเป็นต้อง
 
 t4k-c04-092 สมรส common -> occasional | 'to marry, marriage' | legal and news register; speech says แต่งงาน
 
@@ -1632,7 +1632,7 @@ t4k-c05-073 คุกคาม common -> occasional | 'to threaten, to intimidat
 
 t4k-c05-075 พิพากษา common -> occasional | 'to judge, to pronounce a verdict' | legal and news verb
 
-t4k-c05-079 เคียง common -> occasional | 'near, beside, alongside' | written register; speech says ข้างๆ
+t4k-c05-079 เคียง common -> rare | 'near, beside, alongside' | written register; speech says ข้างๆ
 
 t4k-c05-082 ในขณะนี้ common -> occasional | 'at present (formal)' | news-script phrase; speech says ตอนนี้
 
@@ -1644,7 +1644,7 @@ t4k-c05-090 คำพิพากษา common -> occasional | 'court judgment, 
 
 t4k-c05-099 ต่อเมื่อ common -> occasional | 'only if, only when' | written connector
 
-t4k-c06-026 สำราญ common -> occasional | 'happy, content (formal)' | ceremonial and written register
+t4k-c06-026 สำราญ common -> rare | 'happy, content (formal)' | ceremonial and written register
 
 t4k-c06-027 เปล่ง common -> occasional | 'to emit (sound, light), to radiate' | written register
 
@@ -1696,11 +1696,11 @@ t4k-c07-053 สันติภาพ common -> occasional | 'peace (opposite of 
 
 t4k-c07-057 สูญหาย common -> occasional | 'to be lost, to go missing' | official and news verb; speech says หาย
 
-t4k-c07-058 นวล common -> occasional | 'soft, gentle; pale' | written and poetic register
+t4k-c07-058 นวล common -> rare | 'soft, gentle; pale' | written and poetic register
 
 t4k-c07-065 สิ่งมีชีวิต common -> occasional | 'living being, organism' | science register
 
-t4k-c07-069 ดังเช่น common -> occasional | 'such as, like' | written connector; speech says เช่น/อย่าง
+t4k-c07-069 ดังเช่น common -> rare | 'such as, like' | written connector; speech says เช่น/อย่าง
 
 t4k-c07-071 แบบแผน common -> occasional | 'pattern, convention (formal)' | academic and formal register
 
@@ -1714,11 +1714,11 @@ t4k-c08-011 เบื่อหน่าย common -> occasional | 'bored, weary 
 
 t4k-c08-012 เพาะปลูก common -> occasional | 'to cultivate, to grow crops' | agricultural and formal register
 
-t4k-c08-013 เลือน common -> occasional | 'to fade away, to become blurred' | written register; speech says จาง/เลือนราง
+t4k-c08-013 เลือน common -> rare | 'to fade away, to become blurred' | written register; speech says จาง/เลือนราง
 
 t4k-c08-016 ขั้นพื้นฐาน common -> occasional | 'basic level, foundation' | education and policy register
 
-t4k-c08-022 ได้เสีย common -> occasional | 'gain and loss' | written and legal register
+t4k-c08-022 ได้เสีย common -> rare | 'gain and loss' | written and legal register
 
 t4k-c08-029 อัยการ common -> occasional | 'public prosecutor' | legal and news term
 
@@ -1794,7 +1794,7 @@ t4k-c10-026 ผนวก common -> occasional | 'to append, to annex' | formal a
 
 t4k-c10-029 ค่าเสียหาย common -> occasional | 'damages' | legal and insurance register
 
-t4k-c10-031 เบื้องหน้า common -> occasional | 'in front (formal)' | written register; speech says ข้างหน้า
+t4k-c10-031 เบื้องหน้า common -> rare | 'in front (formal)' | written register; speech says ข้างหน้า
 
 t4k-c10-051 บทเพลง common -> occasional | 'song, lyrics (formal)' | written and broadcast register; speech says เพลง
 
