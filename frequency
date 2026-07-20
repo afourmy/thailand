@@ -704,8 +704,6 @@ thaipod-0109 ก่อตั้ง common -> occasional | 'to found, to establis
 
 thaipod-0111 ก้าวขึ้น common -> occasional | 'to step up, to ascend' | news phrasing (ก้าวขึ้นเป็น...)
 
-thaipod-0114 ขณะที่ common -> occasional | 'while, at the moment when' | news-script connector; speech says ตอนที่/ระหว่างที่
-
 thaipod-0115 ขนบธรรมเนียม common -> occasional | 'customs, traditions' | textbook and formal register
 
 thaipod-0130 ขับไล่ common -> occasional | 'to expel, to drive out' | news and historical register
@@ -732,23 +730,15 @@ thaipod-0203 ความแท้จริง common -> occasional | 'authentic
 
 thaipod-0206 ความไม่มั่นคง common -> occasional | 'instability, insecurity' | news and policy noun
 
-thaipod-0208 คัดเลือก common -> occasional | 'to select, to choose' | formal and news verb; speech says เลือก
-
 thaipod-0212 คำกล่าว common -> occasional | 'saying, statement, adage' | written and ceremonial noun
 
 thaipod-0213 คำขอ common -> occasional | 'request, application, petition' | official and document register
 
 thaipod-0224 คุ้มครอง common -> occasional | 'to protect, to safeguard' | legal and insurance register
 
-thaipod-0233 ฆาตกรรม common -> occasional | 'murder' | crime-news term
-
 thaipod-0140 ขึ้นอยู่กับ common -> everyday | 'to depend on, to be up to' | แล้วแต่ ... ขึ้นอยู่กับ: constant in daily speech
 
 thaipod-0215 คิดไม่ออก common -> everyday | '"I cannot think of anything"' | said several times a day, same slot as นึกไม่ออก
-
-thaipod-0250 ถือได้ว่า, จัดได้ว่า common -> occasional | '"can be considered"' | written and commentary framing
-
-thaipod-0264 จุดหมายปลายทาง common -> occasional | 'destination' | travel-copy and news phrase; speech says ที่จะไป/ปลายทาง
 
 thaipod-0276 ชัยชนะ common -> occasional | 'victory' | news and sports-report noun; speech says ชนะ
 
@@ -765,8 +755,6 @@ thaipod-0326 ดินแดน common -> occasional | 'land, territory' | news 
 thaipod-0338 ด้วยเหตุนี้ common -> occasional | 'for this reason, therefore' | written connector; speech says เพราะงั้น
 
 thaipod-0344 ตบแต่ง common -> occasional | 'to decorate, to adorn' | written variant; speech says ตกแต่ง/แต่ง
-
-thaipod-0368 ตามตัวอักษร common -> occasional | 'literally, word-for-word' | written and analytical phrase
 
 thaipod-0375 ตีความ, ตีความหมาย common -> occasional | 'to interpret, to analyze' | legal, academic, and news verb
 
