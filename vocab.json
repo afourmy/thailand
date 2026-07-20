@@ -189899,7 +189899,26 @@
     "id": "wlt-c08-040",
     "thai": "เมนู",
     "english": "menu",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "menu",
+        "sentences": [
+          {
+            "thai": "ขอเมนูหน่อยครับ",
+            "en": "Can I see the menu, please?",
+            "audio_src": "ขอเมนูหน่อยครับ",
+            "audio_en_src": "Can I see the menu, please?"
+          },
+          {
+            "thai": "ร้านนี้เมนูเยอะมาก เลือกไม่ถูกเลย",
+            "en": "This place has such a big menu, I can't decide.",
+            "audio_src": "ร้านนี้เมนูเยอะมาก เลือกไม่ถูกเลย",
+            "audio_en_src": "This place has such a big menu, I can't decide."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c08-041",
@@ -191788,7 +191807,26 @@
     "id": "wlt-c09-022",
     "thai": "ไวน์",
     "english": "wine (loanword)",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "wine (loanword)",
+        "sentences": [
+          {
+            "thai": "ขอไวน์แดงแก้วนึงครับ",
+            "en": "A glass of red wine, please.",
+            "audio_src": "ขอไวน์แดงแก้วนึงครับ",
+            "audio_en_src": "A glass of red wine, please."
+          },
+          {
+            "thai": "เขาไม่ค่อยดื่มไวน์",
+            "en": "She doesn't drink much wine.",
+            "audio_src": "เขาไม่ค่อยดื่มไวน์",
+            "audio_en_src": "She doesn't drink much wine."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c09-024",
@@ -215140,7 +215178,26 @@
     "id": "wlt-c19-069",
     "thai": "เหนียว",
     "english": "sticky",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "sticky",
+        "sentences": [
+          {
+            "thai": "มือเหนียวไปหมด ขอไปล้างก่อนนะ",
+            "en": "My hands are all sticky, let me go wash them.",
+            "audio_src": "มือเหนียวไปหมด ขอไปล้างก่อนนะ",
+            "audio_en_src": "My hands are all sticky, let me go wash them."
+          },
+          {
+            "thai": "อากาศร้อนจนตัวเหนียวไปหมด",
+            "en": "It's so hot I feel sticky all over.",
+            "audio_src": "อากาศร้อนจนตัวเหนียวไปหมด",
+            "audio_en_src": "It's so hot I feel sticky all over."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "wlt-c19-071",
@@ -224447,7 +224504,26 @@
     "id": "t4k-c02-093",
     "thai": "แต่ว่า",
     "english": "however, but",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "however, but",
+        "sentences": [
+          {
+            "thai": "อยากไปนะ แต่ว่าไม่ว่างจริงๆ",
+            "en": "I'd love to go, but I'm really not free.",
+            "audio_src": "อยากไปนะ แต่ว่าไม่ว่างจริงๆ",
+            "audio_en_src": "I'd love to go, but I'm really not free."
+          },
+          {
+            "thai": "ร้านนี้อร่อย แต่ว่าแพงไปหน่อย",
+            "en": "The food here is good, but a bit pricey.",
+            "audio_src": "ร้านนี้อร่อย แต่ว่าแพงไปหน่อย",
+            "audio_en_src": "The food here is good, but a bit pricey."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c02-095",
@@ -229168,7 +229244,26 @@
     "id": "t4k-c06-010",
     "thai": "ก่อนหน้านี้",
     "english": "before this, earlier",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "before this, earlier",
+        "sentences": [
+          {
+            "thai": "ก่อนหน้านี้ผมทำงานอยู่ที่เชียงใหม่",
+            "en": "Before this, I was working in Chiang Mai.",
+            "audio_src": "ก่อนหน้านี้ผมทำงานอยู่ที่เชียงใหม่",
+            "audio_en_src": "Before this, I was working in Chiang Mai."
+          },
+          {
+            "thai": "ก่อนหน้านี้ไม่เคยมีปัญหาแบบนี้เลย",
+            "en": "We never had this kind of problem before.",
+            "audio_src": "ก่อนหน้านี้ไม่เคยมีปัญหาแบบนี้เลย",
+            "audio_en_src": "We never had this kind of problem before."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "t4k-c06-011",
@@ -242455,31 +242550,143 @@
     "id": "new-73",
     "thai": "ตอน",
     "english": "when, during",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "when, during",
+        "sentences": [
+          {
+            "thai": "ตอนเด็กๆ ผมอยู่กับยาย",
+            "en": "When I was little, I lived with my grandma.",
+            "audio_src": "ตอนเด็กๆ ผมอยู่กับยาย",
+            "audio_en_src": "When I was little, I lived with my grandma."
+          },
+          {
+            "thai": "อย่าโทรมาตอนดึกนะ",
+            "en": "Don't call me late at night.",
+            "audio_src": "อย่าโทรมาตอนดึกนะ",
+            "audio_en_src": "Don't call me late at night."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-74",
     "thai": "เคย",
     "english": "ever",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "ever",
+        "sentences": [
+          {
+            "thai": "เคยไปญี่ปุ่นไหม",
+            "en": "Have you ever been to Japan?",
+            "audio_src": "เคยไปญี่ปุ่นไหม",
+            "audio_en_src": "Have you ever been to Japan?"
+          },
+          {
+            "thai": "ผมไม่เคยกินทุเรียนเลย",
+            "en": "I've never eaten durian.",
+            "audio_src": "ผมไม่เคยกินทุเรียนเลย",
+            "audio_en_src": "I've never eaten durian."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-75",
     "thai": "ติด",
     "english": "to stick, to attach, to be attached; to be addicted",
-    "frequency": "everyday"
+    "frequency": "everyday",
+    "examples": [
+      {
+        "meaning": "to stick, to attach, to be attached",
+        "sentences": [
+          {
+            "thai": "มีหมากฝรั่งติดอยู่ที่รองเท้า",
+            "en": "There's gum stuck to my shoe.",
+            "audio_src": "มีหมากฝรั่งติดอยู่ที่รองเท้า",
+            "audio_en_src": "There's gum stuck to my shoe."
+          },
+          {
+            "thai": "เขาติดรูปครอบครัวไว้ที่ผนัง",
+            "en": "She put up family photos on the wall.",
+            "audio_src": "เขาติดรูปครอบครัวไว้ที่ผนัง",
+            "audio_en_src": "She put up family photos on the wall."
+          }
+        ]
+      },
+      {
+        "meaning": "to be addicted",
+        "sentences": [
+          {
+            "thai": "ผมติดกาแฟมาก ขาดไม่ได้เลย",
+            "en": "I'm so addicted to coffee, I can't go without it.",
+            "audio_src": "ผมติดกาแฟมาก ขาดไม่ได้เลย",
+            "audio_en_src": "I'm so addicted to coffee, I can't go without it."
+          },
+          {
+            "thai": "เด็กสมัยนี้ติดมือถือกันหมด",
+            "en": "Kids these days are all addicted to their phones.",
+            "audio_src": "เด็กสมัยนี้ติดมือถือกันหมด",
+            "audio_en_src": "Kids these days are all addicted to their phones."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-76",
     "thai": "สื่อ",
     "english": "media",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "media",
+        "sentences": [
+          {
+            "thai": "สื่อลงข่าวเรื่องนี้กันเยอะมาก",
+            "en": "The media covered this story a lot.",
+            "audio_src": "สื่อลงข่าวเรื่องนี้กันเยอะมาก",
+            "audio_en_src": "The media covered this story a lot."
+          },
+          {
+            "thai": "อย่าเชื่อทุกอย่างที่เห็นในสื่อ",
+            "en": "Don't believe everything you see in the media.",
+            "audio_src": "อย่าเชื่อทุกอย่างที่เห็นในสื่อ",
+            "audio_en_src": "Don't believe everything you see in the media."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-77",
     "thai": "เคลื่อนไหว",
     "english": "to move, to be in motion",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to move, to be in motion",
+        "sentences": [
+          {
+            "thai": "หมอบอกว่าอย่าเพิ่งเคลื่อนไหวเยอะ",
+            "en": "The doctor said not to move around too much yet.",
+            "audio_src": "หมอบอกว่าอย่าเพิ่งเคลื่อนไหวเยอะ",
+            "audio_en_src": "The doctor said not to move around too much yet."
+          },
+          {
+            "thai": "กล้องจับภาพบางอย่างเคลื่อนไหวในความมืด",
+            "en": "The camera caught something moving in the dark.",
+            "audio_src": "กล้องจับภาพบางอย่างเคลื่อนไหวในความมืด",
+            "audio_en_src": "The camera caught something moving in the dark."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-78",

@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 8992 words**
+**Total: 9002 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -7113,6 +7113,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c08-036` : มีความสุข, สุขใจ (happy) : 1 meaning(s), 2 sentences
 - `wlt-c08-037` : มีค่า (valuable) : 1 meaning(s), 2 sentences
 - `wlt-c08-039` : มือถือ, โทรศัพท์มือถือ (mobile phone) : 1 meaning(s), 2 sentences
+- `wlt-c08-040` : เมนู (menu) : 1 meaning(s), 2 sentences
 - `wlt-c08-041` : เมล็ด (seed) : 1 meaning(s), 2 sentences
 - `wlt-c08-042` : เมียน้อย (minor wife) : 1 meaning(s), 2 sentences
 - `wlt-c08-043` : เมียหลวง (major wife (infers having a minor wife)) : 1 meaning(s), 2 sentences
@@ -7184,6 +7185,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c09-019` : วินาที (second (unit of time)) : 1 meaning(s), 2 sentences
 - `wlt-c09-020` : เวลาดี (auspicious time (based on astrology or tradition)) : 1 meaning(s), 2 sentences
 - `wlt-c09-021` : ไว้ใจ (to trust, to rely on) : 1 meaning(s), 2 sentences
+- `wlt-c09-022` : ไวน์ (wine (loanword)) : 1 meaning(s), 2 sentences
 - `wlt-c09-024` : ส่งจดหมาย (to post a letter) : 1 meaning(s), 2 sentences
 - `wlt-c09-025` : ส่งออก (to export, to send abroad) : 1 meaning(s), 2 sentences
 - `wlt-c09-026` : สติ (consciousness, sense, mind) : 1 meaning(s), 2 sentences
@@ -8016,6 +8018,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `wlt-c19-065` : ห้องแอร์ (air-conditioned room) : 1 meaning(s), 2 sentences
 - `wlt-c19-066` : หายใจไม่ออก (to be unable to breathe) : 1 meaning(s), 2 sentences
 - `wlt-c19-068` : เหงา (lonely) : 1 meaning(s), 2 sentences
+- `wlt-c19-069` : เหนียว (sticky) : 1 meaning(s), 2 sentences
 - `wlt-c19-071` : ออกลูก (to give birth) : 1 meaning(s), 2 sentences
 - `wlt-c19-074` : อ่านเล่น (to read for pleasure) : 1 meaning(s), 2 sentences
 - `wlt-c19-075` : อาหารเป็นพิษ (food poisoning) : 1 meaning(s), 2 sentences
@@ -8325,6 +8328,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c02-088` : กู (I, me (slang, rude)) : 1 meaning(s), 2 sentences
 - `t4k-c02-090` : ทั้งนั้น (all of them, every) : 1 meaning(s), 2 sentences
 - `t4k-c02-092` : เทคนิค (technique) : 1 meaning(s), 2 sentences
+- `t4k-c02-093` : แต่ว่า (however, but) : 1 meaning(s), 2 sentences
 - `t4k-c02-095` : อนามัย (hygiene, sanitation) : 1 meaning(s), 2 sentences
 - `t4k-c02-096` : ความดี (goodness, virtue) : 1 meaning(s), 2 sentences
 - `t4k-c02-098` : นึกถึง (to think of, to recall, to remember) : 1 meaning(s), 2 sentences
@@ -8501,6 +8505,7 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `t4k-c06-003` : สุดยอด (excellent, awesome, the best) : 1 meaning(s), 2 sentences
 - `t4k-c06-004` : แก่ตัว (to get older, to grow old) : 1 meaning(s), 2 sentences
 - `t4k-c06-009` : ที่ทาง (available space, available place) : 1 meaning(s), 2 sentences
+- `t4k-c06-010` : ก่อนหน้านี้ (before this, earlier) : 1 meaning(s), 2 sentences
 - `t4k-c06-011` : การ์ตูน (cartoon) : 1 meaning(s), 2 sentences
 - `t4k-c06-012` : ผู้ดี (gentleman, lady, aristocrat, well-bred person) : 1 meaning(s), 2 sentences
 - `t4k-c06-014` : ลือ (to spread (e.g news, rumor), to be widely known) : 1 meaning(s), 2 sentences
@@ -8996,3 +9001,8 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-26` : ฉิบหาย ("...as fuck", "fucking..."; screwed, awful, fucked-up (slang)) : 2 meaning(s), 4 sentences
 - `new-27` : ฉิบหายวายวอด (completely screwed, utterly destroyed, total annihilation (slang)) : 1 meaning(s), 2 sentences
 - `new-28` : เขย (in-law (male)) : 1 meaning(s), 2 sentences
+- `new-73` : ตอน (when, during) : 1 meaning(s), 2 sentences
+- `new-74` : เคย (ever) : 1 meaning(s), 2 sentences
+- `new-75` : ติด (to stick, to attach, to be attached; to be addicted) : 2 meaning(s), 4 sentences
+- `new-76` : สื่อ (media) : 1 meaning(s), 2 sentences
+- `new-77` : เคลื่อนไหว (to move, to be in motion) : 1 meaning(s), 2 sentences
