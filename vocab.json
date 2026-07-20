@@ -245226,61 +245226,251 @@
     "id": "new-178",
     "thai": "น้ำแตก",
     "english": "climax, ejaculation",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "climax, ejaculation",
+        "sentences": [
+          {
+            "thai": "ยังไม่ทันไรเขาก็น้ำแตกซะแล้ว",
+            "en": "He finished before things even got going.",
+            "audio_src": "ยังไม่ทันไรเขาก็น้ำแตกซะแล้ว",
+            "audio_en_src": "He finished before things even got going."
+          },
+          {
+            "thai": "เขาอึดมาก กว่าจะน้ำแตกก็เป็นชั่วโมง",
+            "en": "He can really last, it took him an hour to finish.",
+            "audio_src": "เขาอึดมาก กว่าจะน้ำแตกก็เป็นชั่วโมง",
+            "audio_en_src": "He can really last, it took him an hour to finish."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-179",
     "thai": "เป็นพื้น",
     "english": "primarily, mostly, predominantly (literary)",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "primarily, mostly, predominantly (literary)",
+        "sentences": [
+          {
+            "thai": "คนแถบนี้ทำนาเป็นพื้น",
+            "en": "People in this area mostly farm rice.",
+            "audio_src": "คนแถบนี้ทำนาเป็นพื้น",
+            "audio_en_src": "People in this area mostly farm rice."
+          },
+          {
+            "thai": "อาหารใต้รสจัดเป็นพื้น",
+            "en": "Southern food is predominantly strong-flavored.",
+            "audio_src": "อาหารใต้รสจัดเป็นพื้น",
+            "audio_en_src": "Southern food is predominantly strong-flavored."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-180",
     "thai": "อันดับแรก",
     "english": "firstly, first of all",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "firstly, first of all",
+        "sentences": [
+          {
+            "thai": "อันดับแรก ต้องล้างมือให้สะอาดก่อน",
+            "en": "First of all, wash your hands well.",
+            "audio_src": "อันดับแรก ต้องล้างมือให้สะอาดก่อน",
+            "audio_en_src": "First of all, wash your hands well."
+          },
+          {
+            "thai": "สิ่งที่ต้องทำอันดับแรกคือแจ้งตำรวจ",
+            "en": "The first thing to do is call the police.",
+            "audio_src": "สิ่งที่ต้องทำอันดับแรกคือแจ้งตำรวจ",
+            "audio_en_src": "The first thing to do is call the police."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-181",
     "thai": "ขัดเกลา",
     "english": "to refine, to polish, to fine-tune",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to refine, to polish, to fine-tune",
+        "sentences": [
+          {
+            "thai": "บทความนี้ต้องขัดเกลาภาษาอีกหน่อย",
+            "en": "This article's language needs a bit more polishing.",
+            "audio_src": "บทความนี้ต้องขัดเกลาภาษาอีกหน่อย",
+            "audio_en_src": "This article's language needs a bit more polishing."
+          },
+          {
+            "thai": "โค้ชช่วยขัดเกลาฝีมือให้เขาจนเก่งขึ้นมาก",
+            "en": "The coach helped refine his technique until he got much better.",
+            "audio_src": "โค้ชช่วยขัดเกลาฝีมือให้เขาจนเก่งขึ้นมาก",
+            "audio_en_src": "The coach helped refine his technique until he got much better."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-182",
     "thai": "เอียน",
     "english": "tired of, fed up with, sick of",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "tired of, fed up with, sick of",
+        "sentences": [
+          {
+            "thai": "กินบุฟเฟ่ต์จนเอียนของหวานไปเลย",
+            "en": "I ate so much at the buffet I'm sick of desserts now.",
+            "audio_src": "กินบุฟเฟ่ต์จนเอียนของหวานไปเลย",
+            "audio_en_src": "I ate so much at the buffet I'm sick of desserts now."
+          },
+          {
+            "thai": "ฟังเพลงนี้บ่อยจนเอียน",
+            "en": "I've heard this song so often I'm sick of it.",
+            "audio_src": "ฟังเพลงนี้บ่อยจนเอียน",
+            "audio_en_src": "I've heard this song so often I'm sick of it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-183",
     "thai": "เอี่ยว",
     "english": "involved, implicated",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "involved, implicated",
+        "sentences": [
+          {
+            "thai": "ตำรวจสงสัยว่าเขามีเอี่ยวกับคดีนี้",
+            "en": "The police suspect he's mixed up in this case.",
+            "audio_src": "ตำรวจสงสัยว่าเขามีเอี่ยวกับคดีนี้",
+            "audio_en_src": "The police suspect he's mixed up in this case."
+          },
+          {
+            "thai": "นักการเมืองหลายคนมีเอี่ยวกับโครงการนี้",
+            "en": "Several politicians have a hand in this project.",
+            "audio_src": "นักการเมืองหลายคนมีเอี่ยวกับโครงการนี้",
+            "audio_en_src": "Several politicians have a hand in this project."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-184",
     "thai": "เหยียดสีผิว",
     "english": "racism (based on skin color)",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "racism (based on skin color)",
+        "sentences": [
+          {
+            "thai": "เขาโดนเหยียดสีผิวตอนเรียนเมืองนอก",
+            "en": "He faced racism over his skin color while studying abroad.",
+            "audio_src": "เขาโดนเหยียดสีผิวตอนเรียนเมืองนอก",
+            "audio_en_src": "He faced racism over his skin color while studying abroad."
+          },
+          {
+            "thai": "การเหยียดสีผิวยังมีให้เห็นในวงการกีฬา",
+            "en": "Racism over skin color still shows up in sports.",
+            "audio_src": "การเหยียดสีผิวยังมีให้เห็นในวงการกีฬา",
+            "audio_en_src": "Racism over skin color still shows up in sports."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-185",
     "thai": "เหยียดเชื้อชาติ",
     "english": "racism (based on ethnicity or nationality)",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "racism (based on ethnicity or nationality)",
+        "sentences": [
+          {
+            "thai": "คอมเมนต์แบบนี้เข้าข่ายเหยียดเชื้อชาติ",
+            "en": "Comments like this count as racist.",
+            "audio_src": "คอมเมนต์แบบนี้เข้าข่ายเหยียดเชื้อชาติ",
+            "audio_en_src": "Comments like this count as racist."
+          },
+          {
+            "thai": "เขาถูกล้อแบบเหยียดเชื้อชาติตั้งแต่เด็ก",
+            "en": "He's been the target of racist taunts since he was a kid.",
+            "audio_src": "เขาถูกล้อแบบเหยียดเชื้อชาติตั้งแต่เด็ก",
+            "audio_en_src": "He's been the target of racist taunts since he was a kid."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-186",
     "thai": "พรหมลิขิต",
     "english": "destiny, fate, predestined path",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "destiny, fate, predestined path",
+        "sentences": [
+          {
+            "thai": "เขาเชื่อว่าการได้เจอกันคือพรหมลิขิต",
+            "en": "He believes their meeting was destiny.",
+            "audio_src": "เขาเชื่อว่าการได้เจอกันคือพรหมลิขิต",
+            "audio_en_src": "He believes their meeting was destiny."
+          },
+          {
+            "thai": "เรื่องของเราคงแล้วแต่พรหมลิขิต",
+            "en": "I guess our story is up to fate.",
+            "audio_src": "เรื่องของเราคงแล้วแต่พรหมลิขิต",
+            "audio_en_src": "I guess our story is up to fate."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-187",
     "thai": "อดออม",
     "english": "to be thrifty, to save by spending less",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to be thrifty, to save by spending less",
+        "sentences": [
+          {
+            "thai": "พ่อสอนให้อดออมตั้งแต่เด็ก",
+            "en": "Dad taught me to save money from a young age.",
+            "audio_src": "พ่อสอนให้อดออมตั้งแต่เด็ก",
+            "audio_en_src": "Dad taught me to save money from a young age."
+          },
+          {
+            "thai": "เขาอดออมอยู่หลายปีจนได้ซื้อบ้าน",
+            "en": "He scrimped and saved for years until he could buy a house.",
+            "audio_src": "เขาอดออมอยู่หลายปีจนได้ซื้อบ้าน",
+            "audio_en_src": "He scrimped and saved for years until he could buy a house."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-188",

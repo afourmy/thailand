@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9102 words**
+**Total: 9112 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9106,3 +9106,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-175` : สะเพร่า (careless, sloppy, negligent) : 1 meaning(s), 2 sentences
 - `new-176` : เปี๊ยบ (perfectly, exactly, completely) : 1 meaning(s), 2 sentences
 - `new-177` : คฤหาสน์ (mansion, large luxurious house) : 1 meaning(s), 2 sentences
+- `new-178` : น้ำแตก (climax, ejaculation) : 1 meaning(s), 2 sentences
+- `new-179` : เป็นพื้น (primarily, mostly, predominantly (literary)) : 1 meaning(s), 2 sentences
+- `new-180` : อันดับแรก (firstly, first of all) : 1 meaning(s), 2 sentences
+- `new-181` : ขัดเกลา (to refine, to polish, to fine-tune) : 1 meaning(s), 2 sentences
+- `new-182` : เอียน (tired of, fed up with, sick of) : 1 meaning(s), 2 sentences
+- `new-183` : เอี่ยว (involved, implicated) : 1 meaning(s), 2 sentences
+- `new-184` : เหยียดสีผิว (racism (based on skin color)) : 1 meaning(s), 2 sentences
+- `new-185` : เหยียดเชื้อชาติ (racism (based on ethnicity or nationality)) : 1 meaning(s), 2 sentences
+- `new-186` : พรหมลิขิต (destiny, fate, predestined path) : 1 meaning(s), 2 sentences
+- `new-187` : อดออม (to be thrifty, to save by spending less) : 1 meaning(s), 2 sentences
