@@ -760,10 +760,6 @@ thaipod-0375 ตีความ, ตีความหมาย common -> occasi
 
 thaipod-0388 ต้นกำเนิด common -> occasional | 'origin, source' | documentary and written noun
 
-thaipod-0402 ถือได้ว่า common -> occasional | 'it can be considered that' | written and commentary framing
-
-thaipod-0404 ถูกต้องตามกฎหมาย common -> occasional | 'legal, in accordance with the law' | legal and news phrase
-
 thaipod-0415 ทอดทิ้ง common -> occasional | 'to forsake, to abandon, to neglect' | news and written verb; speech says ทิ้ง
 
 thaipod-0430 ทั้งสิ้น common -> occasional | 'all, in total, altogether' | news and report word (รวมทั้งสิ้น)
@@ -806,10 +802,6 @@ thaipod-0502 น่าตื่นตาตื่นใจ common -> occasional 
 
 thaipod-0514 บรรดา common -> occasional | 'all, the group of' | written and news determiner
 
-thaipod-0516 บรรพบุรุษ common -> occasional | 'ancestors' | documentary and written noun
-
-thaipod-0525 บุกรุก common -> occasional | 'to invade, to trespass' | legal and news verb
-
 thaipod-0526 บุคคล common -> occasional | 'person, individual' | official register; speech says คน
 
 thaipod-0533 บ้านเมือง common -> occasional | 'country, nation, the state' | news and civic register
@@ -820,21 +812,11 @@ thaipod-0547 ประกอบด้วย common -> occasional | 'to consist o
 
 thaipod-0548 ประการ common -> occasional | 'point, aspect (formal classifier)' | written and formal-speech register
 
-thaipod-0551 ประชากร common -> occasional | 'population' | statistics and news term
-
 thaipod-0560 ประวัติความเป็นมา common -> occasional | 'historical background' | documentary and report phrase
-
-thaipod-0577 ปลูกฝัง common -> occasional | 'to instill, to cultivate (values)' | education and essay register
 
 thaipod-0590 ปิดล้อม common -> occasional | 'to enclose, to surround, to besiege' | news verb
 
-thaipod-0607 ผลักดัน common -> occasional | 'to push forward, to drive forward' | policy and news verb
-
-thaipod-0619 ผู้ประดิษฐ์ common -> occasional | 'inventor' | textbook and documentary noun
-
 thaipod-0718 พร้อมทั้ง common -> occasional | 'as well as, along with' | written and news connector
-
-thaipod-0729 พิจารณา common -> occasional | 'to consider, to examine' | official and formal verb; speech says คิดดู/ดูก่อน
 
 thaipod-0741 พ่ายแพ้ common -> occasional | 'to be defeated, to lose' | news and sports-report verb; speech says แพ้
 
@@ -854,8 +836,6 @@ thaipod-0808 ยุทธศาสตร์ common -> occasional | 'strategy, st
 
 thaipod-0811 ย่านการค้า common -> occasional | 'commercial area, business district' | news and written noun
 
-thaipod-0819 รวบรวม common -> occasional | 'to compile, to gather' | written and report verb; speech says เก็บ/รวม
-
 thaipod-0834 ระลึก common -> occasional | 'commemorative, to recall' | ceremonial and written register (ที่ระลึก is the daily form)
 
 thaipod-0842 รัฐธรรมนูญ common -> occasional | 'constitution' | political-news term
@@ -870,8 +850,6 @@ thaipod-0886 ลงความเห็น common -> occasional | 'to give an o
 
 thaipod-0893 ลักลอบ common -> occasional | 'to smuggle, to do illegally' | crime-news verb
 
-thaipod-0913 วรรณคดี, วรรณกรรม common -> occasional | 'literature' | academic and school register
-
 thaipod-0915 วันรุ่งขึ้น common -> occasional | 'the next day (formal)' | written narration; speech says วันต่อมา/พรุ่งนี้
 
 thaipod-0919 วางแนวทาง common -> occasional | 'to set the course, to establish an approach' | policy and corporate phrasing
@@ -880,21 +858,11 @@ thaipod-0926 วิสัยทัศน์ common -> occasional | 'vision, fore
 
 thaipod-0929 ศตวรรษ common -> occasional | 'century' | school and documentary term
 
-thaipod-0936 ศิลปวัฒนธรรม common -> occasional | 'arts and culture' | formal institutional compound
-
-thaipod-0942 ศึกษา common -> occasional | 'to study, to learn (formal)' | formal register; speech says เรียน
 
 thaipod-0949 สตรี common -> occasional | 'woman, female (formal)' | formal and news register; speech says ผู้หญิง
 
-thaipod-0961 สมจริง common -> occasional | 'truthful, realistic, lifelike' | review and written adjective
-
 thaipod-0977 สละ common -> occasional | 'to give up, to renounce' | formal register (สละสิทธิ์, สละราชสมบัติ)
 
-thaipod-0982 สวม common -> occasional | 'to wear, to put on (formal)' | written and announcement register; speech says ใส่
-
-thaipod-0985 สวัสดิการ common -> occasional | 'welfare, benefits' | HR and policy register
-
-thaipod-1003 สากล common -> occasional | 'international, universal' | formal and news adjective
 
 thaipod-1020 สิ่งก่อสร้าง common -> occasional | 'structure, built object' | technical and news term
 
@@ -906,9 +874,6 @@ thaipod-0822 รสชาติ common -> everyday | 'taste, flavor' | food is t
 
 thaipod-1027 สิ้นสุดลง common -> occasional | 'to come to an end' | news and written verb; speech says จบแล้ว/หมดแล้ว
 
-thaipod-1042 สูญหายไป common -> occasional | 'to disappear, to be lost' | news and report phrasing; speech says หายไป
-
-thaipod-1043 สู่ common -> occasional | 'to, towards' | written preposition; speech says ไปที่/ไปยัง
 
 thaipod-1045 ส่งผล common -> occasional | 'to affect, to have an effect' | news-analysis verb; speech says ทำให้
 
@@ -918,11 +883,8 @@ thaipod-1057 หมู่เกาะ common -> occasional | 'archipelago' | geo
 
 thaipod-1075 หลายต่อหลายครั้ง common -> occasional | 'many times, repeatedly' | written emphatic phrase; speech says หลายครั้ง/บ่อย
 
-thaipod-1087 หาเลี้ยงชีพ common -> occasional | 'to make a living' | written register; speech says หาเงิน/ทำมาหากิน
 
 thaipod-1107 อย่างยิ่ง common -> occasional | 'greatly, extremely' | written and formal-speech intensifier; speech says มากๆ
-
-thaipod-1111 อย่างเปิดเผย common -> occasional | 'openly, transparently' | news adverb
 
 thaipod-1142 อุทยาน common -> occasional | 'park (formal)' | official name register; speech says สวน/อุทยานแห่งชาติ in full
 
@@ -932,19 +894,11 @@ thaipod-1159 เกี่ยวพัน common -> occasional | 'related, intert
 
 thaipod-1174 เครื่องแต่งกาย common -> occasional | 'outfit, clothing' | formal and regulation register; speech says เสื้อผ้า/ชุด
 
-thaipod-1185 เจรจา common -> occasional | 'to negotiate, to converse formally' | news and diplomatic verb; speech says คุยกัน/ต่อรอง
-
 thaipod-1186 เจริญก้าวหน้า common -> occasional | 'to prosper, to progress' | blessing and formal-speech phrase
 
-thaipod-1196 เชื่อกันว่า common -> occasional | '"it is believed that"' | documentary and written framing
 
-thaipod-1200 เช่นเดียวกับ common -> occasional | 'just like, similar to' | written comparison; speech says เหมือนกับ
-
-thaipod-1203 เดินเท้า common -> occasional | 'to walk, to go on foot' | news and official register; speech says เดิน
 
 thaipod-1216 เทือกเขา common -> occasional | 'mountain range' | geography and documentary term
-
-thaipod-1219 เนื่องจาก common -> occasional | 'since, due to, because of' | news and written connector; speech says เพราะ
 
 thaipod-1220 เนื่องด้วย common -> occasional | 'due to, because of' | announcement and letter register
 
