@@ -1,41 +1,101 @@
-# Frequency proposals (see frequency_prompt.md).
-# Under each proposal is an empty line: type y there to accept, leave empty to reject.
+# Frequency proposals (see frequency_prompt.md). Delete the lines you reject; every line left in the file will be applied.
 
 chula-l4-045 วัฒนธรรม everyday -> common | 'culture' | fine in a chat about festivals/travel, but not a word any given day contains
 
-
 chula-l4-046 ประเพณี everyday -> common | 'tradition' | same as วัฒนธรรม: normal in conversation, nowhere near daily
-
 
 chula-l4-120 เติบโต everyday -> common | 'to grow, to progress, to mature' | casual chat says โต/โตขึ้น; เติบโต is the fuller, slightly formal form, still said aloud
 
-
 chula-l5-403 ปรากฏ everyday -> occasional | 'to appear' | news/formal register (ปรากฏว่า...); casual speech uses โผล่/ขึ้น instead
-
 
 chula-l5-457 ย้ำ everyday -> common | 'to repeat, to emphasize, to reiterate' | normal spoken word (ย้ำอีกที) but not an every-single-day one
 
-
 chula-l6-009 รูปแบบ everyday -> occasional | 'format, form, pattern, model' | broadcast/office register; friends just say แบบ
-
 
 chula-l6-018 กรอก everyday -> common | 'to fill in (a form)' | the normal word whenever a form shows up, but forms are not daily life
 
-
 chula-l6-021 ฝ่าย everyday -> common | 'team, group, side' | ordinary spoken word (ฝ่ายไหน, ฝ่ายบุคคล) yet not guaranteed in a random day of chat
-
 
 chula-l6-087 เชย everyday -> common | 'dated, outdated, old-fashioned' | casual, slangy word, but topical: comes up when mocking something old-fashioned, not daily
 
-
 tamago-l12-112 ฉลอง, เฉลิมฉลอง everyday -> common | 'to celebrate' | normal casual word (ไปฉลองกัน) but occasion-based, not part of any random day; เฉลิมฉลอง half is outright formal
-
 
 tamago-l12-226 นาย everyday -> common | 'you (pronoun for guys of the same age)' | heard among some friend groups and in media, but เธอ/แก dominate; only daily if your group happens to use it
 
-
 tamago-l12-329 ภรรยา everyday -> common | 'wife (formal)' | polite spoken register (introductions, polite company); friends say เมีย/แฟน in daily chat
-
 
 tamago-l12-374 ภาพ, รูปภาพ everyday -> common | 'picture, image, painting' | the daily casual word is รูป (ถ่ายรูป, ดูรูป); ภาพ/รูปภาพ lean neutral-formal, still perfectly spoken
 
+tamago-l3-088 ทันสมัย everyday -> common | 'up-to-date, modern' | normal spoken word, but topical (gadgets, fashion), not part of any random day
+
+tamago-l3-187 ทัศนคติ everyday -> common | 'attitude, viewpoint' | said in normal conversations about people (ทัศนคติแย่) but leans serious/abstract, nowhere near daily
+
+tamago-l3-292 เหลือเกิน everyday -> common | 'too much, extremely' | still spoken but a bit dramatic/dated; daily speech reaches for มากๆ/สุดๆ first
+
+tamago-l3-404 อาศัย everyday -> common | 'to rely on, to depend on; to live in, to reside' | อาศัยอยู่ is polite-introduction register; casual chat just says อยู่
+
+tamago-l3-503 ร้านสะดวกซื้อ everyday -> common | 'convenience store' | the thing is daily but the word is signage/media register; everyone actually says เซเว่น
+
+tamago-l3-551 เช่นเคย everyday -> common | 'as usual, as always' | heard in speech but เหมือนเดิม is what friends say daily
+
+tamago-l3-609 งานอดิเรก everyday -> common | 'hobby' | textbook/interview word; in a chat people ask ว่างๆ ชอบทำอะไร rather than say งานอดิเรก
+
+tamago-l3-633 สนับสนุน everyday -> common | 'to support, to back up, to promote' | fine spoken, but semi-formal; casual talk says เชียร์/ซัพพอร์ต, and it is not daily
+
+tamago-l3-735 เพียง, เพียงแค่ everyday -> common | 'only, just, merely' | the daily word is แค่; เพียง(แค่) is the fuller form heard in earnest/broadcast speech
+
+tamago-l3-779 ป้องกัน everyday -> common | 'to protect against, to prevent' | neutral spoken word (health, products) but topical, not an every-single-day word
+
+thaipod-0259 จึง everyday -> occasional | 'therefore, so' | written/formal connector; anchors and formal speakers say it, friends say เลย/ก็เลย
+
+thaipod-0777 มากมาย everyday -> common | 'many, plenty, abundant' | spoken but emphatic/fuller form; daily chat says เยอะมาก/เยอะแยะ
+
+thaipod-1098 อบอุ่น everyday -> common | 'warm' | mostly the cozy/emotive sense (ครอบครัวอบอุ่น); topical rather than daily, weather talk uses อุ่น/ร้อน
+
+tobo-101 โทรทัศน์ everyday -> occasional | 'television' | official/broadcast register; everyone says ทีวี in conversation
+
+tobo-319 เป้าหมาย everyday -> common | 'target, goal' | normal in serious/motivational talk, but not part of a random day of chat
+
+tobo-349 อดีต everyday -> common | 'the past' | ในอดีต is newsy; friends say เมื่อก่อน (though อดีตแฟน is heard)
+
+wlt-c05-036 กระดาษชำระ everyday -> common | 'toilet paper' | packaging/polite term; everyone says ทิชชู่ in real life
+
+wlt-c05-059 แก้ไข everyday -> common | 'to correct, to fix, to revise' | casual speech says แก้; แก้ไข is the fuller office/news form
+
+wlt-c06-060 ดังนั้น, เพราะฉะนั้น everyday -> common | 'therefore' | เพราะฉะนั้น is spoken in explanations, but the daily connector is ก็เลย; ดังนั้น is written register
+
+wlt-c06-070 ตรวจสอบ everyday -> occasional | 'to check, to verify' | official/news register (ตรวจสอบข้อเท็จจริง); friends say เช็ก or ตรวจ
+
+wlt-c08-021 เพศ everyday -> common | 'gender, sex' | neutral-formal (forms, health talk); a topic word, not daily chat
+
+wlt-c08-098 ลาก่อน everyday -> common | 'goodbye, farewell' | textbook farewell; real life says ไปก่อนนะ/บ๊ายบาย, ลาก่อน is dramatic or joking
+
+wlt-c10-035 ค้น, ค้นหา everyday -> common | 'to search' | daily speech says หา (or เสิร์ช); ค้น(หา) is the fuller app/formal form
+
+wlt-c10-083 แตกต่าง everyday -> common | 'to differ, to be different, separate' | spoken fine but fuller register; friends say ต่างกัน/ไม่เหมือนกัน
+
+wlt-c11-019 นำ everyday -> common | 'to bring; to lead, to guide' | announcement/news verb (นำมา, นำไป); casual speech uses เอา, though นำทีม/ผู้นำ are heard
+
+wlt-c12-023 วัตถุ everyday -> occasional | 'object, material' | formal/news-and-science register (วัตถุต้องสงสัย, วัตถุมงคล); casual speech says ของ
+
+wlt-c12-029 สถานที่ everyday -> common | 'place, location' | fuller form heard in travel/news talk (สถานที่ท่องเที่ยว); friends just say ที่
+
+wlt-c12-072 เหมาะสม everyday -> common | 'appropriate' | spoken but semi-formal (ความเหมาะสม is newsy); casual speech says เหมาะ/เข้ากัน
+
+wlt-c14-082 สามารถ everyday -> occasional | 'can, be able to' | formal spoken (announcements, news: ไม่สามารถ...ได้); friends just say ได้/ทำได้
+
+wlt-c16-017 รถยนต์ everyday -> occasional | 'car, automobile' | official/news/ad register; in conversation everyone says รถ
+
+wlt-c16-039 สัปดาห์ everyday -> occasional | 'week (formal)' | news/formal register; the word friends actually say daily is อาทิตย์
+
+wlt-c16-093 ต้องการ everyday -> occasional | 'to want, to need' | service/announcement register (ถ้าต้องการ...); casual speech says อยากได้/เอา
+
+wlt-c17-031 ภายใน everyday -> common | 'within' | semi-formal but genuinely spoken in everyday logistics (ภายในวันนี้); casual shortcut is just ใน
+
+wlt-c20-075 สามี everyday -> common | 'husband (formal, polite)' | same story as ภรรยา: polite register, daily chat says ผัว/แฟน
+
+t4k-c01-043 ทันที everyday -> common | 'immediately' | spoken but fuller register; friends say เลย (กลับเลย, เดี๋ยวนั้นเลย)
+
+exd-020 สำเร็จ everyday -> common | 'to succeed, to be completed, successful' | motivational/news leaning; casual chat says ทำได้/เสร็จ, though ทำสำเร็จ is heard
+
+exd-050 ความปลอดภัย everyday -> common | 'safety, security' | announcement register (เพื่อความปลอดภัย on the BTS daily) more than chat vocabulary
