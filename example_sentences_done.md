@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9082 words**
+**Total: 9092 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9086,3 +9086,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-155` : วิกฤตการณ์ (crisis) : 1 meaning(s), 2 sentences
 - `new-156` : ผู้แสดง (performer, actor) : 1 meaning(s), 2 sentences
 - `new-157` : ทันใด (suddenly, immediately (literary)) : 1 meaning(s), 2 sentences
+- `new-158` : ชักจูง (to persuade, to influence, to lead someone toward something) : 1 meaning(s), 2 sentences
+- `new-159` : แหงสิ (of course, obviously) : 1 meaning(s), 2 sentences
+- `new-160` : จุ้นจ้าน (nosy, meddlesome) : 1 meaning(s), 2 sentences
+- `new-161` : ลอยหน้าลอยตา (to act shamelessly, to show no embarrassment after doing something wrong) : 1 meaning(s), 2 sentences
+- `new-162` : ขย้ำ (to crush violently, to maul, to tear apart) : 1 meaning(s), 2 sentences
+- `new-163` : บังอาจ (to dare, to have the audacity of) : 1 meaning(s), 2 sentences
+- `new-164` : ขัดคอ (to interrupt, to cut someone off, to contradict) : 1 meaning(s), 2 sentences
+- `new-165` : บงการ (to manipulate, to control (often secretly)) : 1 meaning(s), 2 sentences
+- `new-166` : อดกลั้น (to endure, to tolerate, to restrain oneself) : 1 meaning(s), 2 sentences
+- `new-167` : นิสัยติดตัว (inherent habit, ingrained trait) : 1 meaning(s), 2 sentences

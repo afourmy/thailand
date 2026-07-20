@@ -244726,61 +244726,251 @@
     "id": "new-158",
     "thai": "ชักจูง",
     "english": "to persuade, to influence, to lead someone toward something",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to persuade, to influence, to lead someone toward something",
+        "sentences": [
+          {
+            "thai": "เพื่อนชักจูงให้เขาลองเล่นพนัน",
+            "en": "His friends led him into gambling.",
+            "audio_src": "เพื่อนชักจูงให้เขาลองเล่นพนัน",
+            "audio_en_src": "His friends led him into gambling."
+          },
+          {
+            "thai": "เด็กวัยนี้ถูกชักจูงง่าย",
+            "en": "Kids this age are easily influenced.",
+            "audio_src": "เด็กวัยนี้ถูกชักจูงง่าย",
+            "audio_en_src": "Kids this age are easily influenced."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-159",
     "thai": "แหงสิ",
     "english": "of course, obviously",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "of course, obviously",
+        "sentences": [
+          {
+            "thai": "แหงสิ ใครๆ ก็อยากได้เงินเดือนขึ้น",
+            "en": "Of course, everyone wants a raise.",
+            "audio_src": "แหงสิ ใครๆ ก็อยากได้เงินเดือนขึ้น",
+            "audio_en_src": "Of course, everyone wants a raise."
+          },
+          {
+            "thai": "ก็แหงสิ ของมันฟรี ใครๆ ก็เอา",
+            "en": "Well, obviously, it's free, everyone wants it.",
+            "audio_src": "ก็แหงสิ ของมันฟรี ใครๆ ก็เอา",
+            "audio_en_src": "Well, obviously, it's free, everyone wants it."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-160",
     "thai": "จุ้นจ้าน",
     "english": "nosy, meddlesome",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "nosy, meddlesome",
+        "sentences": [
+          {
+            "thai": "ป้าข้างบ้านจุ้นจ้านเรื่องชาวบ้านตลอด",
+            "en": "The auntie next door is always nosing into other people's business.",
+            "audio_src": "ป้าข้างบ้านจุ้นจ้านเรื่องชาวบ้านตลอด",
+            "audio_en_src": "The auntie next door is always nosing into other people's business."
+          },
+          {
+            "thai": "อย่ามาจุ้นจ้านเรื่องของฉัน",
+            "en": "Stop meddling in my business.",
+            "audio_src": "อย่ามาจุ้นจ้านเรื่องของฉัน",
+            "audio_en_src": "Stop meddling in my business."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-161",
     "thai": "ลอยหน้าลอยตา",
     "english": "to act shamelessly, to show no embarrassment after doing something wrong",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to act shamelessly, to show no embarrassment after doing something wrong",
+        "sentences": [
+          {
+            "thai": "โกงเขามาแท้ๆ ยังลอยหน้าลอยตาอยู่ได้",
+            "en": "He cheated them outright, and he still walks around like nothing happened.",
+            "audio_src": "โกงเขามาแท้ๆ ยังลอยหน้าลอยตาอยู่ได้",
+            "audio_en_src": "He cheated them outright, and he still walks around like nothing happened."
+          },
+          {
+            "thai": "เขาลอยหน้าลอยตามางานทั้งที่ทุกคนรู้ว่าทำอะไรไว้",
+            "en": "He showed up at the event shameless as ever, even though everyone knows what he did.",
+            "audio_src": "เขาลอยหน้าลอยตามางานทั้งที่ทุกคนรู้ว่าทำอะไรไว้",
+            "audio_en_src": "He showed up at the event shameless as ever, even though everyone knows what he did."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-162",
     "thai": "ขย้ำ",
     "english": "to crush violently, to maul, to tear apart",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to crush violently, to maul, to tear apart",
+        "sentences": [
+          {
+            "thai": "หมาข้างบ้านขย้ำไก่ตายสองตัว",
+            "en": "The neighbor's dog mauled two chickens to death.",
+            "audio_src": "หมาข้างบ้านขย้ำไก่ตายสองตัว",
+            "audio_en_src": "The neighbor's dog mauled two chickens to death."
+          },
+          {
+            "thai": "เสือขย้ำเหยื่อแล้วลากเข้าป่า",
+            "en": "The tiger tore into its prey and dragged it into the forest.",
+            "audio_src": "เสือขย้ำเหยื่อแล้วลากเข้าป่า",
+            "audio_en_src": "The tiger tore into its prey and dragged it into the forest."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-163",
     "thai": "บังอาจ",
     "english": "to dare, to have the audacity of",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to dare, to have the audacity of",
+        "sentences": [
+          {
+            "thai": "แกบังอาจมาเถียงฉันเหรอ",
+            "en": "You dare talk back to me?",
+            "audio_src": "แกบังอาจมาเถียงฉันเหรอ",
+            "audio_en_src": "You dare talk back to me?"
+          },
+          {
+            "thai": "เขาบังอาจปลอมลายเซ็นเจ้านาย",
+            "en": "He had the audacity to forge his boss's signature.",
+            "audio_src": "เขาบังอาจปลอมลายเซ็นเจ้านาย",
+            "audio_en_src": "He had the audacity to forge his boss's signature."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-164",
     "thai": "ขัดคอ",
     "english": "to interrupt, to cut someone off, to contradict",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to interrupt, to cut someone off, to contradict",
+        "sentences": [
+          {
+            "thai": "เขาชอบขัดคอเวลาคนอื่นพูด",
+            "en": "He likes to cut people off when they're talking.",
+            "audio_src": "เขาชอบขัดคอเวลาคนอื่นพูด",
+            "audio_en_src": "He likes to cut people off when they're talking."
+          },
+          {
+            "thai": "ฉันยังพูดไม่จบ อย่าเพิ่งขัดคอ",
+            "en": "I'm not finished yet, don't interrupt.",
+            "audio_src": "ฉันยังพูดไม่จบ อย่าเพิ่งขัดคอ",
+            "audio_en_src": "I'm not finished yet, don't interrupt."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-165",
     "thai": "บงการ",
     "english": "to manipulate, to control (often secretly)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to manipulate, to control (often secretly)",
+        "sentences": [
+          {
+            "thai": "ตำรวจเชื่อว่ามีคนบงการอยู่เบื้องหลัง",
+            "en": "The police believe someone is pulling the strings behind the scenes.",
+            "audio_src": "ตำรวจเชื่อว่ามีคนบงการอยู่เบื้องหลัง",
+            "audio_en_src": "The police believe someone is pulling the strings behind the scenes."
+          },
+          {
+            "thai": "เขาไม่ยอมให้ใครมาบงการชีวิต",
+            "en": "He won't let anyone dictate his life.",
+            "audio_src": "เขาไม่ยอมให้ใครมาบงการชีวิต",
+            "audio_en_src": "He won't let anyone dictate his life."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-166",
     "thai": "อดกลั้น",
     "english": "to endure, to tolerate, to restrain oneself",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to endure, to tolerate, to restrain oneself",
+        "sentences": [
+          {
+            "thai": "เขาอดกลั้นความโกรธไว้จนถึงที่สุด",
+            "en": "He held his anger in check to the very end.",
+            "audio_src": "เขาอดกลั้นความโกรธไว้จนถึงที่สุด",
+            "audio_en_src": "He held his anger in check to the very end."
+          },
+          {
+            "thai": "บางเรื่องก็ต้องรู้จักอดกลั้นบ้าง",
+            "en": "Sometimes you have to learn to hold yourself back.",
+            "audio_src": "บางเรื่องก็ต้องรู้จักอดกลั้นบ้าง",
+            "audio_en_src": "Sometimes you have to learn to hold yourself back."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-167",
     "thai": "นิสัยติดตัว",
     "english": "inherent habit, ingrained trait",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "inherent habit, ingrained trait",
+        "sentences": [
+          {
+            "thai": "ตื่นเช้าเป็นนิสัยติดตัวเขามาตั้งแต่เด็ก",
+            "en": "Waking up early has been an ingrained habit of his since childhood.",
+            "audio_src": "ตื่นเช้าเป็นนิสัยติดตัวเขามาตั้งแต่เด็ก",
+            "audio_en_src": "Waking up early has been an ingrained habit of his since childhood."
+          },
+          {
+            "thai": "ความประหยัดกลายเป็นนิสัยติดตัวไปแล้ว",
+            "en": "Thriftiness has become second nature to him.",
+            "audio_src": "ความประหยัดกลายเป็นนิสัยติดตัวไปแล้ว",
+            "audio_en_src": "Thriftiness has become second nature to him."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-168",
