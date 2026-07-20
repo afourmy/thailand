@@ -2,7 +2,7 @@
 
 Tracks which vocab.json entries have an `examples` field (see example_sentences_prompt.md for the spec). Regenerate with `python3 list_examples.py`.
 
-**Total: 9022 words**
+**Total: 9032 words**
 
 - `chula-l4-001` : มึน (dizzy, lightheaded) : 1 meaning(s), 2 sentences
 - `chula-l4-002` : เผื่อ (in case) : 1 meaning(s), 2 sentences
@@ -9026,3 +9026,13 @@ Tracks which vocab.json entries have an `examples` field (see example_sentences_
 - `new-95` : ปะ (to patch, to mend (e.g cloth, tire)) : 1 meaning(s), 2 sentences
 - `new-96` : โก้ (stylish, classy, chic) : 1 meaning(s), 2 sentences
 - `new-97` : เสิร์ฟ (to serve (food, drinks)) : 1 meaning(s), 2 sentences
+- `new-98` : รอยยิ้ม (smile) : 1 meaning(s), 2 sentences
+- `new-99` : หวาดกลัว (terrified, very frightened) : 1 meaning(s), 2 sentences
+- `new-100` : ทว่า (but) : 1 meaning(s), 2 sentences
+- `new-101` : ครัวเรือน (household, family unit (in statistics)) : 1 meaning(s), 2 sentences
+- `new-102` : คมนาคม (transportation, communication) : 1 meaning(s), 2 sentences
+- `new-103` : สิง (to haunt, to possess (ghost or spirit possessing a body)) : 1 meaning(s), 2 sentences
+- `new-104` : สไตล์ (style) : 1 meaning(s), 2 sentences
+- `new-105` : เคลื่อนย้าย (to displace, to move, to relocate) : 1 meaning(s), 2 sentences
+- `new-106` : สุทธิ (net (e.g net profit, net weight)) : 1 meaning(s), 2 sentences
+- `new-107` : ตะวัน (sun (poetic)) : 1 meaning(s), 2 sentences

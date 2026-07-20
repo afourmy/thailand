@@ -243209,61 +243209,251 @@
     "id": "new-98",
     "thai": "รอยยิ้ม",
     "english": "smile",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "smile",
+        "sentences": [
+          {
+            "thai": "เด็กคนนี้รอยยิ้มน่ารักมาก",
+            "en": "This kid has such a cute smile.",
+            "audio_src": "เด็กคนนี้รอยยิ้มน่ารักมาก",
+            "audio_en_src": "This kid has such a cute smile."
+          },
+          {
+            "thai": "เขาต้อนรับแขกด้วยรอยยิ้ม",
+            "en": "She welcomed the guests with a smile.",
+            "audio_src": "เขาต้อนรับแขกด้วยรอยยิ้ม",
+            "audio_en_src": "She welcomed the guests with a smile."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-99",
     "thai": "หวาดกลัว",
     "english": "terrified, very frightened",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "terrified, very frightened",
+        "sentences": [
+          {
+            "thai": "เสียงระเบิดทำให้ทุกคนหวาดกลัว",
+            "en": "The explosion left everyone terrified.",
+            "audio_src": "เสียงระเบิดทำให้ทุกคนหวาดกลัว",
+            "audio_en_src": "The explosion left everyone terrified."
+          },
+          {
+            "thai": "ชาวบ้านหวาดกลัวจนไม่กล้าออกจากบ้าน",
+            "en": "The villagers are so frightened they don't dare leave their homes.",
+            "audio_src": "ชาวบ้านหวาดกลัวจนไม่กล้าออกจากบ้าน",
+            "audio_en_src": "The villagers are so frightened they don't dare leave their homes."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-100",
     "thai": "ทว่า",
     "english": "but",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "but",
+        "sentences": [
+          {
+            "thai": "เขาพยายามเต็มที่ ทว่าผลออกมาไม่เป็นอย่างหวัง",
+            "en": "He tried his best, but the result was not what he hoped for.",
+            "audio_src": "เขาพยายามเต็มที่ ทว่าผลออกมาไม่เป็นอย่างหวัง",
+            "audio_en_src": "He tried his best, but the result was not what he hoped for."
+          },
+          {
+            "thai": "ภายนอกดูสงบ ทว่าข้างในปั่นป่วน",
+            "en": "On the outside he seemed calm, but inside he was in turmoil.",
+            "audio_src": "ภายนอกดูสงบ ทว่าข้างในปั่นป่วน",
+            "audio_en_src": "On the outside he seemed calm, but inside he was in turmoil."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-101",
     "thai": "ครัวเรือน",
     "english": "household, family unit (in statistics)",
-    "frequency": "rare"
+    "frequency": "rare",
+    "examples": [
+      {
+        "meaning": "household, family unit (in statistics)",
+        "sentences": [
+          {
+            "thai": "หมู่บ้านนี้มีประมาณสองร้อยครัวเรือน",
+            "en": "This village has about two hundred households.",
+            "audio_src": "หมู่บ้านนี้มีประมาณสองร้อยครัวเรือน",
+            "audio_en_src": "This village has about two hundred households."
+          },
+          {
+            "thai": "รายได้เฉลี่ยต่อครัวเรือนเพิ่มขึ้นทุกปี",
+            "en": "Average household income rises every year.",
+            "audio_src": "รายได้เฉลี่ยต่อครัวเรือนเพิ่มขึ้นทุกปี",
+            "audio_en_src": "Average household income rises every year."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-102",
     "thai": "คมนาคม",
     "english": "transportation, communication",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "transportation, communication",
+        "sentences": [
+          {
+            "thai": "ย่านนี้การคมนาคมสะดวกมาก",
+            "en": "Transportation in this area is very convenient.",
+            "audio_src": "ย่านนี้การคมนาคมสะดวกมาก",
+            "audio_en_src": "Transportation in this area is very convenient."
+          },
+          {
+            "thai": "รัฐบาลลงทุนพัฒนาระบบคมนาคมทั่วประเทศ",
+            "en": "The government is investing in transportation systems nationwide.",
+            "audio_src": "รัฐบาลลงทุนพัฒนาระบบคมนาคมทั่วประเทศ",
+            "audio_en_src": "The government is investing in transportation systems nationwide."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-103",
     "thai": "สิง",
     "english": "to haunt, to possess (ghost or spirit possessing a body)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "to haunt, to possess (ghost or spirit possessing a body)",
+        "sentences": [
+          {
+            "thai": "เขาเชื่อว่ามีวิญญาณสิงอยู่ในบ้านหลังนี้",
+            "en": "He believes a spirit haunts this house.",
+            "audio_src": "เขาเชื่อว่ามีวิญญาณสิงอยู่ในบ้านหลังนี้",
+            "audio_en_src": "He believes a spirit haunts this house."
+          },
+          {
+            "thai": "ในหนัง ผีสิงร่างเด็กสาว",
+            "en": "In the movie, a ghost possesses a young girl's body.",
+            "audio_src": "ในหนัง ผีสิงร่างเด็กสาว",
+            "audio_en_src": "In the movie, a ghost possesses a young girl's body."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-104",
     "thai": "สไตล์",
     "english": "style",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "style",
+        "sentences": [
+          {
+            "thai": "ร้านนี้แต่งสไตล์ญี่ปุ่น",
+            "en": "This place is decorated in a Japanese style.",
+            "audio_src": "ร้านนี้แต่งสไตล์ญี่ปุ่น",
+            "audio_en_src": "This place is decorated in a Japanese style."
+          },
+          {
+            "thai": "ทรงผมแบบนี้ไม่ใช่สไตล์ฉันเลย",
+            "en": "This haircut isn't my style at all.",
+            "audio_src": "ทรงผมแบบนี้ไม่ใช่สไตล์ฉันเลย",
+            "audio_en_src": "This haircut isn't my style at all."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-105",
     "thai": "เคลื่อนย้าย",
     "english": "to displace, to move, to relocate",
-    "frequency": "common"
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to displace, to move, to relocate",
+        "sentences": [
+          {
+            "thai": "อย่าเพิ่งเคลื่อนย้ายผู้บาดเจ็บ รอหมอก่อน",
+            "en": "Don't move the injured person yet, wait for the doctor.",
+            "audio_src": "อย่าเพิ่งเคลื่อนย้ายผู้บาดเจ็บ รอหมอก่อน",
+            "audio_en_src": "Don't move the injured person yet, wait for the doctor."
+          },
+          {
+            "thai": "บริษัทต้องเคลื่อนย้ายเครื่องจักรไปโรงงานใหม่",
+            "en": "The company has to move its machinery to the new factory.",
+            "audio_src": "บริษัทต้องเคลื่อนย้ายเครื่องจักรไปโรงงานใหม่",
+            "audio_en_src": "The company has to move its machinery to the new factory."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-106",
     "thai": "สุทธิ",
     "english": "net (e.g net profit, net weight)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "net (e.g net profit, net weight)",
+        "sentences": [
+          {
+            "thai": "ปีนี้บริษัทมีกำไรสุทธิสิบล้านบาท",
+            "en": "The company made ten million baht in net profit this year.",
+            "audio_src": "ปีนี้บริษัทมีกำไรสุทธิสิบล้านบาท",
+            "audio_en_src": "The company made ten million baht in net profit this year."
+          },
+          {
+            "thai": "น้ำหนักสุทธิเขียนไว้ข้างกล่อง",
+            "en": "The net weight is printed on the side of the box.",
+            "audio_src": "น้ำหนักสุทธิเขียนไว้ข้างกล่อง",
+            "audio_en_src": "The net weight is printed on the side of the box."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-107",
     "thai": "ตะวัน",
     "english": "sun (poetic)",
-    "frequency": "occasional"
+    "frequency": "occasional",
+    "examples": [
+      {
+        "meaning": "sun (poetic)",
+        "sentences": [
+          {
+            "thai": "ตะวันกำลังจะลับขอบฟ้า",
+            "en": "The sun is about to sink below the horizon.",
+            "audio_src": "ตะวันกำลังจะลับขอบฟ้า",
+            "audio_en_src": "The sun is about to sink below the horizon."
+          },
+          {
+            "thai": "เราออกเดินทางก่อนตะวันขึ้น",
+            "en": "We set out before sunrise.",
+            "audio_src": "เราออกเดินทางก่อนตะวันขึ้น",
+            "audio_en_src": "We set out before sunrise."
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "new-108",
