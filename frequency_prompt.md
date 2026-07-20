@@ -35,16 +35,20 @@ Edge cases:
 
 Work through `vocab.json` in batches of 20 words, in deck order. For each word, judge the current `frequency` against the rules above.
 
-- Do **not** edit `vocab.json` yourself. Instead, collect proposals in a working file named `frequency`, **exactly one line per proposed change**, formatted so I can decide with at most one keystroke per line:
+- Do **not** edit `vocab.json` yourself. Instead, collect proposals in a working file named `frequency`. Each proposal is one line, followed by an **empty answer line**, followed by a blank separator line, so every word is visually its own block:
 
   ```
   new-144 เสื่อมโทรม occasional -> rare | 'to deteriorate, to decline, to become run down' | heard in flood/economy TV reports, but mostly report language
+
+
   new-157 ทันใด occasional -> rare | 'suddenly, immediately (literary)' | novel narration, nobody says it
+
+
   ```
 
-  Each line is: the id, the Thai, `current -> proposed`, the gloss in quotes, and a short reason saying where the word actually lives (chat / broadcast / text). Words whose current label is right are simply not listed.
+  The proposal line is: the id, the Thai, `current -> proposed`, the gloss in quotes, and a short reason saying where the word actually lives (chat / broadcast / text). Words whose current label is right are simply not listed.
 
-- **How I decide:** to accept a proposal I put my cursor at the start of the line and type `y` (one keystroke, no selecting, no overwriting), so an accepted line simply begins with `y` (`ynew-144 ...` is fine, `y new-144 ...` too). A line I leave untouched is a NO. I will never write anything else, so the merge step must apply exactly the lines starting with `y` and ignore all others.
+- **How I decide:** to accept a proposal I type `y` on the empty line directly under it (one keystroke: the cursor is already at the start of the empty line when I arrow down, nothing to select, nothing to overwrite). If I leave the line under a proposal empty, that proposal is a NO. I will never write anything else, so the merge step must apply exactly the proposals that have a `y` on the line below them and ignore all others.
 - After each batch, tell me briefly how many words you checked and how many proposals you added, and continue to the next batch without waiting, unless a batch contains words you flagged as genuinely borderline, in which case stop and ask.
 - When the whole deck has been swept, I will go through the `frequency` file typing `y` where I agree, and only then do we apply the accepted lines to `vocab.json` in one merge, like the previous `decisions` batches.
 - Frequency is the only thing under review: do not touch glosses, examples, ids, or anything else, and do not use this pass to propose removals or renames. If you notice a different kind of problem, mention it to me separately instead of putting it in the file.
