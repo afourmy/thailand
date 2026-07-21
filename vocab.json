@@ -256577,5 +256577,32 @@
     ],
     "audio": true,
     "audio_en": true
+  },
+  {
+    "id": "new-216",
+    "thai": "เงินปันผล",
+    "english": "dividend",
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "dividend",
+        "sentences": [
+          {
+            "thai": "หุ้นตัวนี้จ่ายเงินปันผลทุกปี",
+            "en": "This stock pays dividends every year.",
+            "audio_src": "หุ้นตัวนี้จ่ายเงินปันผลทุกปี",
+            "audio_en_src": "This stock pays dividends every year."
+          },
+          {
+            "thai": "ปีนี้ได้เงินปันผลเยอะเลย",
+            "en": "I got a lot in dividends this year.",
+            "audio_src": "ปีนี้ได้เงินปันผลเยอะเลย",
+            "audio_en_src": "I got a lot in dividends this year."
+          }
+        ]
+      }
+    ],
+    "audio": true,
+    "audio_en": true
   }
 ]
