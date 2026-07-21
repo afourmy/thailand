@@ -62,7 +62,7 @@
   // Playback speed: rate applied to card + example audio (1 = native speed).
   // Browsers preserve pitch at other rates by default, so slower playback
   // doesn't distort the voice, just slows the pace.
-  var AUDIO_SPEEDS = [0.5, 0.6, 0.7, 0.8, 0.9, 1];
+  var AUDIO_SPEEDS = [0.7, 0.8, 0.9, 1];
   if (AUDIO_SPEEDS.indexOf(config.audioSpeed) === -1) config.audioSpeed = 1;
 
   // Direction filter: which card directions are eligible for the queue and the

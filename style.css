@@ -2216,7 +2216,41 @@ body[data-thai-font="noto"] .th {
   -webkit-tap-highlight-color: transparent;
 }
 
-.fc-banner { margin: 0.3rem auto 1.3rem; }
+/* Slim app-style eyebrow label instead of the boxed page banner: uppercase,
+   muted, centered, with a small accent diamond on each side. Used at all
+   widths so the settings panel below has more room to breathe, not just on
+   small phones. */
+.fc-banner {
+  width: auto;
+  margin: 0.4rem 0 1rem;
+  padding: 0;
+  text-align: center;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+.fc-banner h1 {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  border-bottom: none;
+}
+.fc-banner h1::before,
+.fc-banner h1::after {
+  content: "";
+  flex: none;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 2px;
+  background: var(--accent);
+  transform: rotate(45deg);
+}
 
 /* Deck picker at the very top of the home screen: choose which subset of words
    this session draws from. Stats below update on change. */
@@ -2759,39 +2793,6 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
   .fc-stats { gap: 0.4rem; }
   .fc-stat { padding: 0.7rem 0.25rem; }
   .fc-stat-label { font-size: 0.66rem; letter-spacing: 0.02em; }
-  /* The boxed page banner is too tall for small phones, so this page swaps it
-     for a slim app-style eyebrow label: uppercase, muted, with a small accent
-     diamond. Roughly a third of the banner's height, no box, no scroll. */
-  .fc-banner {
-    width: auto;
-    margin: 0.4rem 0 1rem;
-    padding: 0;
-    text-align: left;
-    background: none;
-    border: none;
-    box-shadow: none;
-  }
-  .fc-banner h1 {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.55rem;
-    padding: 0;
-    font-size: 0.85rem;
-    font-weight: 600;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    color: var(--text-muted);
-    border-bottom: none;
-  }
-  .fc-banner h1::before {
-    content: "";
-    flex: none;
-    width: 0.5rem;
-    height: 0.5rem;
-    border-radius: 2px;
-    background: var(--accent);
-    transform: rotate(45deg);
-  }
   .fc-start { margin-bottom: 1.6rem; }
   /* Fill the vertical space so the card no longer floats in empty room, and
      keep extra top/bottom padding so the speaker/copy icons sit clear of the
