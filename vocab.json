@@ -344,7 +344,7 @@
     "id": "chula-l4-012",
     "thai": "ท้องเสีย",
     "english": "diarrhea, upset stomach",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "diarrhea, upset stomach",
@@ -371,7 +371,7 @@
     "id": "chula-l4-013",
     "thai": "สุนัข",
     "english": "dog (polite)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -928,7 +928,7 @@
     "id": "chula-l4-036",
     "thai": "ช่อง",
     "english": "channel; gap, hole; (service) counter, window",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -1587,7 +1587,7 @@
     "id": "chula-l4-063",
     "thai": "ดวง",
     "english": "luck, fortune, fate; classifier for stars, suns, lights",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "luck, fortune, fate",
@@ -2323,7 +2323,7 @@
     "id": "chula-l4-090",
     "thai": "ดื้อ, ดื้อรั้น",
     "english": "stubborn, disobedient",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "stubborn, disobedient",
@@ -3235,7 +3235,7 @@
     "id": "chula-l4-127",
     "thai": "หงุดหงิด",
     "english": "irritated, frustrated",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "irritated, frustrated",
@@ -3613,7 +3613,7 @@
     "id": "chula-l4-141",
     "thai": "(พอ) ...ปุ๊บ, (ก็) ...ปั๊บ",
     "english": "as soon as (one thing happens), then (the next follows)",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "as soon as (one thing happens), then (the next follows)",
@@ -3975,7 +3975,7 @@
     "id": "chula-l4-153",
     "thai": "จะตาย",
     "english": "extremely, \"...to death\" (intensifier)",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "extremely, \"...to death\" (intensifier)",
@@ -4164,7 +4164,7 @@
     "id": "chula-l5-004",
     "thai": "เวลาทำการ",
     "english": "business hours",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -4343,7 +4343,7 @@
     "id": "chula-l5-010",
     "thai": "โอน",
     "english": "to transfer",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "to transfer",
@@ -4796,7 +4796,7 @@
     "id": "chula-l5-027",
     "thai": "โปรด, กรุณา",
     "english": "please",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "please",
@@ -4850,7 +4850,7 @@
     "id": "chula-l5-029",
     "thai": "ซ่อมแซม",
     "english": "to repair, to fix",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -5012,7 +5012,7 @@
     "id": "chula-l5-036",
     "thai": "เจ้าหน้าที่",
     "english": "officer",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -5424,7 +5424,7 @@
     "id": "chula-l5-050",
     "thai": "หลบหนี",
     "english": "to escape, to flee",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to escape, to flee",
@@ -6123,7 +6123,7 @@
     "id": "new-9",
     "thai": "เครื่องพิสูจน์",
     "english": "method of verification, instrument of proof (formal)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "method of verification, instrument of proof (formal)",
@@ -6312,7 +6312,7 @@
     "id": "chula-l5-080",
     "thai": "ระบุ",
     "english": "to specify, to identify",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -6447,7 +6447,7 @@
     "id": "chula-l5-086",
     "thai": "เลื่อน",
     "english": "to postpone, to delay, to shift, to move, to slide",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -6609,7 +6609,7 @@
     "id": "chula-l5-093",
     "thai": "อาชญากรรม",
     "english": "crime",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "crime",
@@ -6771,7 +6771,7 @@
     "id": "chula-l5-099",
     "thai": "พลาด",
     "english": "to miss (e.g an opportunity, a target), to make a mistake",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -6798,7 +6798,7 @@
     "id": "chula-l5-100",
     "thai": "ทรัพยากร",
     "english": "resources",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "resources",
@@ -7257,7 +7257,7 @@
     "id": "chula-l5-117",
     "thai": "ยอด",
     "english": "peak, summit, top; total; sprout, tip of plant stem; excellent, great",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -8216,7 +8216,7 @@
     "id": "chula-l5-154",
     "thai": "มุ่งหน้า",
     "english": "to head toward, to make one's way to",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -8297,7 +8297,7 @@
     "id": "chula-l5-158",
     "thai": "ดำเนินการ",
     "english": "to proceed, to carry out, to take action",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -8378,7 +8378,7 @@
     "id": "chula-l5-162",
     "thai": "พัง",
     "english": "broken, damaged",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -8557,7 +8557,7 @@
     "id": "chula-l5-169",
     "thai": "อาการ",
     "english": "symptom, (medical) condition",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "symptom, (medical) condition",
@@ -9043,7 +9043,7 @@
     "id": "chula-l5-188",
     "thai": "สะท้อน",
     "english": "to reflect",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -9168,7 +9168,7 @@
     "id": "chula-l5-192",
     "thai": "ยี่ห้อ",
     "english": "brand",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "brand",
@@ -9195,7 +9195,7 @@
     "id": "chula-l5-193",
     "thai": "ขาด",
     "english": "to lack, to be missing; torn, broken",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -9428,7 +9428,7 @@
     "id": "chula-l5-201",
     "thai": "ศีรษะ",
     "english": "head (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "head (formal)",
@@ -9482,7 +9482,7 @@
     "id": "chula-l5-203",
     "thai": "ถ่าย",
     "english": "to take (photo, video); to defecate; to transfer (data)",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -10056,7 +10056,7 @@
     "id": "chula-l5-224",
     "thai": "อัตรา",
     "english": "rate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -11055,7 +11055,7 @@
     "id": "chula-l5-263",
     "thai": "กฎระเบียบ",
     "english": "rules, regulations",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -11136,7 +11136,7 @@
     "id": "chula-l5-266",
     "thai": "สัญญาณ",
     "english": "signal, sign",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -11163,7 +11163,7 @@
     "id": "chula-l5-267",
     "thai": "เผลอ",
     "english": "accidentally, unintentionally",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -11298,7 +11298,7 @@
     "id": "chula-l5-272",
     "thai": "พยากรณ์อากาศ",
     "english": "weather forecast",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "weather forecast",
@@ -11656,7 +11656,7 @@
     "id": "chula-l5-284",
     "thai": "ค่อนข้าง",
     "english": "quite, rather, relatively",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "quite, rather, relatively",
@@ -11710,7 +11710,7 @@
     "id": "chula-l5-286",
     "thai": "อุปสรรค",
     "english": "obstacle",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -11764,7 +11764,7 @@
     "id": "chula-l5-288",
     "thai": "ยกเลิก",
     "english": "to cancel",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -11818,7 +11818,7 @@
     "id": "chula-l5-290",
     "thai": "สรุปแล้ว",
     "english": "in conclusion",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "in conclusion",
@@ -11916,7 +11916,7 @@
     "id": "chula-l5-293",
     "thai": "อะ, อ่ะ",
     "english": "makes the sentence softer and informal",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "makes the sentence softer and informal",
@@ -12338,7 +12338,7 @@
     "id": "chula-l5-313",
     "thai": "ส่วนลด",
     "english": "discount",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "discount",
@@ -12473,7 +12473,7 @@
     "id": "chula-l5-318",
     "thai": "เรียน",
     "english": "to learn; to inform; \"to\", \"dear\" (official communication)",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -12723,7 +12723,7 @@
     "id": "chula-l5-327",
     "thai": "แลก, แลกเปลี่ยน",
     "english": "to exchange",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -12750,7 +12750,7 @@
     "id": "chula-l5-328",
     "thai": "แต้ม",
     "english": "point, dot, mark (+ classifier for these)",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -12860,7 +12860,7 @@
     "id": "chula-l5-332",
     "thai": "อย่างน้อย",
     "english": "at least",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "at least",
@@ -12941,7 +12941,7 @@
     "id": "chula-l5-335",
     "thai": "เกษตรกร",
     "english": "farmer, agricultural worker",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "farmer, agricultural worker",
@@ -12968,7 +12968,7 @@
     "id": "chula-l5-336",
     "thai": "จำหน่าย",
     "english": "to sell, to put on sale, to distribute",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to sell, to put on sale, to distribute",
@@ -13076,7 +13076,7 @@
     "id": "chula-l5-341",
     "thai": "มั่นใจ",
     "english": "confident",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "confident",
@@ -13228,7 +13228,7 @@
     "id": "chula-l5-346",
     "thai": "เศรษฐกิจ",
     "english": "economy",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "economy",
@@ -13390,7 +13390,7 @@
     "id": "chula-l5-352",
     "thai": "อุตสาหกรรม",
     "english": "industry",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "industry",
@@ -13417,7 +13417,7 @@
     "id": "chula-l5-353",
     "thai": "เกษตรกรรม",
     "english": "agriculture (industry)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "agriculture (industry)",
@@ -14123,7 +14123,7 @@
     "id": "chula-l5-381",
     "thai": "ความขัดแย้ง",
     "english": "conflict",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -14312,7 +14312,7 @@
     "id": "chula-l5-389",
     "thai": "สมัคร",
     "english": "to apply",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -14420,7 +14420,7 @@
     "id": "chula-l5-394",
     "thai": "ความมั่นคง",
     "english": "stability",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -14501,7 +14501,7 @@
     "id": "chula-l5-397",
     "thai": "พืช",
     "english": "plant",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "plant",
@@ -14528,7 +14528,7 @@
     "id": "chula-l5-398",
     "thai": "รถประจำทาง",
     "english": "public bus",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "public bus",
@@ -14582,7 +14582,7 @@
     "id": "chula-l5-400",
     "thai": "งบ, งบประมาณ",
     "english": "budget",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "budget",
@@ -15229,7 +15229,7 @@
     "id": "chula-l5-422",
     "thai": "คาด",
     "english": "to assume, to speculate, to anticipate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -15741,7 +15741,7 @@
     "id": "chula-l5-440",
     "thai": "แพทย์",
     "english": "doctor, physician",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "doctor, physician",
@@ -16065,7 +16065,7 @@
     "id": "chula-l5-453",
     "thai": "กระทรวง",
     "english": "ministry",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -16263,7 +16263,7 @@
     "id": "chula-l6-001",
     "thai": "เรียบเรียง",
     "english": "to arrange, compose, organize",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -16469,7 +16469,7 @@
     "id": "chula-l6-008",
     "thai": "ครบ, ครบถ้วน",
     "english": "thorough, complete",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -16714,7 +16714,7 @@
     "id": "chula-l6-017",
     "thai": "ศูนย์",
     "english": "zero; center (institution), hub",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -16924,7 +16924,7 @@
     "id": "chula-l6-024",
     "thai": "เน้น, มุ่งเน้น",
     "english": "to focus on, to emphasize",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -17346,7 +17346,7 @@
     "id": "chula-l6-039",
     "thai": "แต่งตั้ง",
     "english": "to appoint, to nominate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -17787,7 +17787,7 @@
     "id": "chula-l6-053",
     "thai": "อีกทั้ง",
     "english": "moreover, furthermore",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "moreover, furthermore",
@@ -17868,7 +17868,7 @@
     "id": "chula-l6-056",
     "thai": "ศักยภาพ",
     "english": "potential, capability",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -17976,7 +17976,7 @@
     "id": "chula-l6-060",
     "thai": "เชื่อมั่น",
     "english": "to have confidence in, to trust firmly",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to have confidence in, to trust firmly",
@@ -18111,7 +18111,7 @@
     "id": "chula-l6-065",
     "thai": "ค้าปลีก",
     "english": "retail (sales of goods directly to consumers)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "retail (sales of goods directly to consumers)",
@@ -18138,7 +18138,7 @@
     "id": "chula-l6-066",
     "thai": "ตระหนัก",
     "english": "to be aware of, to realize",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -18219,7 +18219,7 @@
     "id": "chula-l6-069",
     "thai": "รณรงค์",
     "english": "to campaign, promote, advocate for",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -18273,7 +18273,7 @@
     "id": "chula-l6-071",
     "thai": "ข้ามชาติ",
     "english": "multinational",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "multinational",
@@ -18300,7 +18300,7 @@
     "id": "chula-l6-072",
     "thai": "พกพา",
     "english": "portable, to bear, to carry",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -18410,7 +18410,7 @@
     "id": "chula-l6-076",
     "thai": "ประมาณการ",
     "english": "to estimate",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to estimate",
@@ -18437,7 +18437,7 @@
     "id": "chula-l6-077",
     "thai": "อัตราเติบโต",
     "english": "growth rate",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "growth rate",
@@ -18464,7 +18464,7 @@
     "id": "chula-l6-078",
     "thai": "ส่วนแบ่งการตลาด",
     "english": "market share",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "market share",
@@ -18626,7 +18626,7 @@
     "id": "chula-l6-085",
     "thai": "เพศสัมพันธ์",
     "english": "sexual intercourse",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -18709,7 +18709,7 @@
     "id": "chula-l6-088",
     "thai": "เทศบาล",
     "english": "municipality",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -18979,7 +18979,7 @@
     "id": "chula-l6-098",
     "thai": "เผื่อแผ่",
     "english": "generous, charitable, to share generously",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "generous, charitable, to share generously",
@@ -19060,7 +19060,7 @@
     "id": "chula-l6-102",
     "thai": "สาธารณสุข",
     "english": "public health",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "public health",
@@ -19141,7 +19141,7 @@
     "id": "chula-l6-105",
     "thai": "ร้องทุกข์",
     "english": "to file a complaint about a hardship, suffering",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to file a complaint about a hardship, suffering",
@@ -19293,7 +19293,7 @@
     "id": "chula-l6-110",
     "thai": "สัญจร",
     "english": "to travel, to circulate, to commute",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to travel, to circulate, to commute",
@@ -19499,7 +19499,7 @@
     "id": "chula-l6-118",
     "thai": "กันเอง",
     "english": "informal, casual",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -19607,7 +19607,7 @@
     "id": "chula-l6-122",
     "thai": "ผู้ประท้วง",
     "english": "protesters",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "protesters",
@@ -19634,7 +19634,7 @@
     "id": "chula-l6-123",
     "thai": "ชุมนุม",
     "english": "to rally, to gather, to assemble",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to rally, to gather, to assemble",
@@ -19759,7 +19759,7 @@
     "id": "chula-l6-127",
     "thai": "หน่วยงาน",
     "english": "agency, department",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -20164,7 +20164,7 @@
     "id": "chula-l6-142",
     "thai": "หวั่น",
     "english": "fearful, worried, anxious",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "fearful, worried, anxious",
@@ -20299,7 +20299,7 @@
     "id": "chula-l6-147",
     "thai": "วอน, อ้อนวอน",
     "english": "to plead for, beg for, implore",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -20782,7 +20782,7 @@
     "id": "chula-l6-164",
     "thai": "หลุด",
     "english": "to slip, drop, fall off",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -20890,7 +20890,7 @@
     "id": "chula-l6-168",
     "thai": "แปลก, แปลกประหลาด",
     "english": "strange, weird",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -20980,7 +20980,7 @@
     "id": "chula-l6-170",
     "thai": "กวน",
     "english": "to stir until thickened or smooth (cooking); to annoy, to bother",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "to stir until thickened or smooth (cooking)",
@@ -21051,7 +21051,7 @@
     "id": "chula-l6-172",
     "thai": "สรรพคุณ",
     "english": "properties (of a medicine, a plant)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "properties (of a medicine, a plant)",
@@ -21132,7 +21132,7 @@
     "id": "chula-l6-175",
     "thai": "กระหาย",
     "english": "thirsty",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -21186,7 +21186,7 @@
     "id": "chula-l6-177",
     "thai": "ล้วน",
     "english": "all, entirely",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -21492,7 +21492,7 @@
     "id": "chula-l6-189",
     "thai": "ประทับใจ",
     "english": "impressed",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "impressed",
@@ -21546,7 +21546,7 @@
     "id": "chula-l6-191",
     "thai": "น่าหลงใหล",
     "english": "fascinating",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -21762,7 +21762,7 @@
     "id": "chula-l6-199",
     "thai": "เนื้อสัมผัส",
     "english": "texture",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "texture",
@@ -21816,7 +21816,7 @@
     "id": "chula-l6-201",
     "thai": "จานเรียกน้ำย่อย",
     "english": "appetizer",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "appetizer",
@@ -22205,7 +22205,7 @@
     "id": "chula-l6-214",
     "thai": "ท้องถิ่น",
     "english": "local, locality",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -22232,7 +22232,7 @@
     "id": "chula-l6-215",
     "thai": "เด็ด",
     "english": "to pluck, to pick (e.g flower, fruit); awesome, excellent",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -22627,7 +22627,7 @@
     "id": "chula-l6-231",
     "thai": "สารสกัด",
     "english": "extract (e.g from a plant)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "extract (e.g from a plant)",
@@ -23509,7 +23509,7 @@
     "id": "chula-l6-261",
     "thai": "แปลกใหม่",
     "english": "novel, original, innovative, new and different",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -23661,7 +23661,7 @@
     "id": "chula-l6-266",
     "thai": "ค่าตอบแทน",
     "english": "compensation, remuneration",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "compensation, remuneration",
@@ -23840,7 +23840,7 @@
     "id": "chula-l6-272",
     "thai": "คาดเดา",
     "english": "to guess, predict, speculate, infer from clues",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -23921,7 +23921,7 @@
     "id": "chula-l6-275",
     "thai": "สอดคล้อง",
     "english": "to be in line with, consistent with, to correspond with",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -23948,7 +23948,7 @@
     "id": "chula-l6-276",
     "thai": "ข้อเท็จจริง",
     "english": "fact, factual matter",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -23975,7 +23975,7 @@
     "id": "chula-l6-277",
     "thai": "ออกอากาศ",
     "english": "to broadcast, to air (on TV, radio, etc)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -24490,7 +24490,7 @@
     "id": "chula-l6-297",
     "thai": "มูลนิธิ",
     "english": "foundation, non-profit organization, charity",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -24710,7 +24710,7 @@
     "id": "chula-l6-305",
     "thai": "ฝ่าฟัน",
     "english": "to overcome, to strive, to struggle through (obstacles)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -24872,7 +24872,7 @@
     "id": "chula-l6-311",
     "thai": "ง่ายดาย",
     "english": "very easy, effortless",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -25148,7 +25148,7 @@
     "id": "chula-l6-321",
     "thai": "ทายาท",
     "english": "heir",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "heir",
@@ -26179,7 +26179,7 @@
     "id": "tamago-l12-023",
     "thai": "กลั่นแกล้ง",
     "english": "to bully, to victimize",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -27590,7 +27590,7 @@
     "id": "tamago-l12-076",
     "thai": "คนละ",
     "english": "different; separately for each person",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "different",
@@ -27786,7 +27786,7 @@
     "id": "tamago-l12-083",
     "thai": "ความเดือดร้อน",
     "english": "trouble, difficulty",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -28162,7 +28162,7 @@
     "id": "tamago-l12-096",
     "thai": "ค้าง",
     "english": "stuck, unfinished, pending, left hanging",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -28353,7 +28353,7 @@
     "id": "tamago-l12-104",
     "thai": "จะว่าไป",
     "english": "by the way, come to think of it",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "by the way, come to think of it",
@@ -29316,7 +29316,7 @@
     "id": "tamago-l12-140",
     "thai": "ดีเด่น",
     "english": "excellent, outstanding, distinguished",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -29700,7 +29700,7 @@
     "id": "tamago-l12-154",
     "thai": "ตั้งแต่...เป็นต้นไป",
     "english": "from... on, from... onward",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "from... on, from... onward",
@@ -30061,7 +30061,7 @@
     "id": "tamago-l12-169",
     "thai": "ต่อไปนี้",
     "english": "the following; from now on, henceforth",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "the following",
@@ -30105,7 +30105,7 @@
     "id": "tamago-l12-170",
     "thai": "ต่างหาก",
     "english": "rather, instead; separately",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "rather, instead",
@@ -30417,7 +30417,7 @@
     "id": "tamago-l12-182",
     "thai": "ถึงว่า...",
     "english": "\"that's why...\", \"no wonder...\"",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "\"that's why...\", \"no wonder...\"",
@@ -30749,7 +30749,7 @@
     "id": "tamago-l12-194",
     "thai": "ทั้งๆที่",
     "english": "even though, despite the fact that",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "even though, despite the fact that",
@@ -31212,7 +31212,7 @@
     "id": "tamago-l12-214",
     "thai": "ท่าทาง",
     "english": "\"it seems like\"; gesture, manner, appearance",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "it seems like",
@@ -31769,7 +31769,7 @@
     "id": "tamago-l12-236",
     "thai": "นึกออก",
     "english": "to realize, to recall, to come to mind",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -32995,7 +32995,7 @@
     "id": "tamago-l12-283",
     "thai": "ผวา",
     "english": "frightened, startled",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "frightened, startled",
@@ -33161,7 +33161,7 @@
     "id": "tamago-l12-289",
     "thai": "ผู้สูงอายุ",
     "english": "elderly person, senior",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -33845,7 +33845,7 @@
     "id": "tamago-l12-314",
     "thai": "พัสดุ",
     "english": "parcel, package",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -34028,7 +34028,7 @@
     "id": "tamago-l12-320",
     "thai": "พิเศษไม่เหมือนใคร",
     "english": "unique, special unlike anything else",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "unique, special unlike anything else",
@@ -34300,7 +34300,7 @@
     "id": "tamago-l12-330",
     "thai": "ภัยธรรมชาติ",
     "english": "natural disaster",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "natural disaster",
@@ -36878,7 +36878,7 @@
     "id": "tamago-l12-423",
     "thai": "สัตวแพทย์",
     "english": "veterinarian",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -37955,7 +37955,7 @@
     "id": "tamago-l12-460",
     "thai": "ห่วย",
     "english": "to suck at, to be terrible at",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -38092,7 +38092,7 @@
     "id": "tamago-l12-465",
     "thai": "อด",
     "english": "to skip, to abstain from, to go without",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -38146,7 +38146,7 @@
     "id": "tamago-l12-467",
     "thai": "อพยพ",
     "english": "to migrate, evacuate, relocate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -38173,7 +38173,7 @@
     "id": "tamago-l12-468",
     "thai": "อยู่ดี",
     "english": "anyway, regardless",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "anyway, regardless",
@@ -38395,7 +38395,7 @@
     "id": "tamago-l12-478",
     "thai": "อับอาย",
     "english": "ashamed, embarrassed, humiliated",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "ashamed, embarrassed, humiliated",
@@ -38495,7 +38495,7 @@
     "id": "tamago-l12-481",
     "thai": "อาละวาด",
     "english": "to act violently, to go on a rampage",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -38659,7 +38659,7 @@
     "id": "tamago-l12-487",
     "thai": "อ่อนเพลีย",
     "english": "tired, fatigued, weary",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "tired, fatigued, weary",
@@ -39518,7 +39518,7 @@
     "id": "tamago-l12-516",
     "thai": "ทารก, เด็กทารก",
     "english": "infant, newborn",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "infant, newborn",
@@ -40239,7 +40239,7 @@
     "id": "tamago-l12-544",
     "thai": "เป๊ะ",
     "english": "exact, precise, perfect (slang)",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "exact, precise, perfect (slang)",
@@ -41234,7 +41234,7 @@
     "id": "tamago-l12-580",
     "thai": "เห็นอกเห็นใจ",
     "english": "to sympathize, to empathize",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to sympathize, to empathize",
@@ -41473,7 +41473,7 @@
     "id": "tamago-l12-588",
     "thai": "แจ้ง",
     "english": "to inform, notify, file a report",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -42936,7 +42936,7 @@
     "id": "tamago-l12-642",
     "thai": "ไม่ก็",
     "english": "or else, if not, otherwise",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "or else, if not, otherwise",
@@ -43019,7 +43019,7 @@
     "id": "tamago-l12-644",
     "thai": "ไม่น่า",
     "english": "probably not, unlikely; \"shouldn't have\"",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "probably not, unlikely",
@@ -43146,7 +43146,7 @@
     "id": "tamago-l12-648",
     "thai": "ไม่เกี่ยว",
     "english": "to be irrelevant, to have nothing to do with",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "to be irrelevant, to have nothing to do with",
@@ -43410,7 +43410,7 @@
     "id": "thai9k-001",
     "thai": "ปลดปล่อย",
     "english": "to liberate, set free, release from oppression",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -43805,7 +43805,7 @@
     "id": "thai9k-018",
     "thai": "สุรา",
     "english": "liquor, spirits (alcohol)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "liquor, spirits (alcohol)",
@@ -44104,7 +44104,7 @@
     "id": "thai9k-029",
     "thai": "สง่า, สง่างาม",
     "english": "majestic, graceful, elegant",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "majestic, graceful, elegant",
@@ -44212,7 +44212,7 @@
     "id": "thai9k-033",
     "thai": "ละอายใจ",
     "english": "to feel ashamed of oneself, to feel remorse",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to feel ashamed of oneself, to feel remorse",
@@ -44266,7 +44266,7 @@
     "id": "thai9k-036",
     "thai": "เด็ดเดี่ยว",
     "english": "determined, resolute",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "determined, resolute",
@@ -44484,7 +44484,7 @@
     "id": "tamago-l3-001",
     "thai": "ความน่าเชื่อถือ",
     "english": "reliability, credibility, trustworthiness",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -44677,7 +44677,7 @@
     "id": "tamago-l3-008",
     "thai": "ให้ความสนใจ",
     "english": "to pay attention, to take an interest in",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -44812,7 +44812,7 @@
     "id": "tamago-l3-013",
     "thai": "ชำระเงิน",
     "english": "to make a payment, to settle a bill",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -44839,7 +44839,7 @@
     "id": "tamago-l3-014",
     "thai": "นอก, ด้านนอก",
     "english": "outside, exterior side",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -44937,7 +44937,7 @@
     "id": "tamago-l3-018",
     "thai": "ประดับ",
     "english": "to decorate, to adorn",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -45181,7 +45181,7 @@
     "id": "tamago-l3-025",
     "thai": "บึกบึน",
     "english": "muscular, sturdy, robust",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -45601,7 +45601,7 @@
     "id": "tamago-l3-040",
     "thai": "สุดโต่ง",
     "english": "extreme, radical",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -45628,7 +45628,7 @@
     "id": "tamago-l3-041",
     "thai": "คงที่",
     "english": "stable, constant, unchanging",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -46305,7 +46305,7 @@
     "id": "tamago-l3-065",
     "thai": "รู้คุณ",
     "english": "to be grateful, to appreciate someone's kindness",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to be grateful, to appreciate someone's kindness",
@@ -46430,7 +46430,7 @@
     "id": "tamago-l3-069",
     "thai": "มิน่า",
     "english": "\"no wonder!\", \"so that's the reason!\"",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "\"no wonder!\", \"so that's the reason!\"",
@@ -47093,7 +47093,7 @@
     "id": "tamago-l3-094",
     "thai": "แกล้ง",
     "english": "to tease, to pick on; to pretend (in a deceptive or playful way)",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -47164,7 +47164,7 @@
     "id": "tamago-l3-096",
     "thai": "ปานจะ",
     "english": "as if about to, as though",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "as if about to, as though",
@@ -47293,7 +47293,7 @@
     "id": "tamago-l3-100",
     "thai": "พัฒนาการ",
     "english": "development, progress",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -47819,7 +47819,7 @@
     "id": "tamago-l3-120",
     "thai": "ประเทศเพื่อนบ้าน",
     "english": "neighboring country",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -48493,7 +48493,7 @@
     "id": "tamago-l3-142",
     "thai": "สั่น",
     "english": "to tremble, to shake, to vibrate (phone)",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -48520,7 +48520,7 @@
     "id": "tamago-l3-143",
     "thai": "มีปากเสียง",
     "english": "to quarrel, to have an argument",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -49124,7 +49124,7 @@
     "id": "tamago-l3-166",
     "thai": "ดำเนินไปได้ด้วยดี",
     "english": "to go well, to go smoothly",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "to go well, to go smoothly",
@@ -49394,7 +49394,7 @@
     "id": "tamago-l3-176",
     "thai": "ดัน",
     "english": "to push, to press; unexpectedly, \"it just happens that\"",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -50281,7 +50281,7 @@
     "id": "tamago-l3-214",
     "thai": "วุฒิภาวะ",
     "english": "maturity",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "maturity",
@@ -50941,7 +50941,7 @@
     "id": "tamago-l3-240",
     "thai": "เจตนา, เจตนารมณ์",
     "english": "intent, intention, underlying purpose",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -50968,7 +50968,7 @@
     "id": "tamago-l3-241",
     "thai": "ก่อการร้าย",
     "english": "to commit terrorism",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to commit terrorism",
@@ -51471,7 +51471,7 @@
     "id": "tamago-l3-261",
     "thai": "เลิกรา",
     "english": "to part ways, to break up",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -51635,7 +51635,7 @@
     "id": "tamago-l3-268",
     "thai": "เติมเต็ม",
     "english": "to fill up (a need), to fulfill",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -52783,7 +52783,7 @@
     "id": "tamago-l3-310",
     "thai": "วาดฝัน",
     "english": "to dream of, to envision",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -52891,7 +52891,7 @@
     "id": "tamago-l3-315",
     "thai": "ทั่วถึง",
     "english": "thoroughly, comprehensively, all over",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -53034,7 +53034,7 @@
     "id": "tamago-l3-320",
     "thai": "ล้มเลิก",
     "english": "to cancel, to abandon, to call off",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -53169,7 +53169,7 @@
     "id": "tamago-l3-325",
     "thai": "อย่างใกล้ชิด",
     "english": "closely, intimately",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -53196,7 +53196,7 @@
     "id": "tamago-l3-326",
     "thai": "สานสัมพันธ์",
     "english": "to build a relationship, to bond",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -53348,7 +53348,7 @@
     "id": "tamago-l3-332",
     "thai": "หน่าย",
     "english": "bored, fed up, tired of",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "bored, fed up, tired of",
@@ -53402,7 +53402,7 @@
     "id": "tamago-l3-335",
     "thai": "ผิวเผิน",
     "english": "superficially, on the surface",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -53564,7 +53564,7 @@
     "id": "tamago-l3-341",
     "thai": "ในบรรดา",
     "english": "among all, out of (a group)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "among all, out of (a group)",
@@ -54344,7 +54344,7 @@
     "id": "tamago-l3-368",
     "thai": "คิดออก",
     "english": "to figure out, to come up with (an idea)",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -55048,7 +55048,7 @@
     "id": "tamago-l3-396",
     "thai": "คร่าวๆ",
     "english": "roughly, approximately",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -55435,7 +55435,7 @@
     "id": "tamago-l3-408b",
     "thai": "น่าประหลาดใจ",
     "english": "surprising (e.g something strange, peculiar)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "surprising (e.g something strange, peculiar)",
@@ -55489,7 +55489,7 @@
     "id": "tamago-l3-410",
     "thai": "คำร่ำลือ",
     "english": "reputation, hearsay, rumor, what people say",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -57178,7 +57178,7 @@
     "id": "tamago-l3-474",
     "thai": "คู่ครอง",
     "english": "spouse, married partner",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "spouse, married partner",
@@ -57475,7 +57475,7 @@
     "id": "tamago-l3-485",
     "thai": "คบหาดูใจ",
     "english": "to date, to get to know each other romantically",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -57936,7 +57936,7 @@
     "id": "tamago-l3-503",
     "thai": "ร้านสะดวกซื้อ",
     "english": "convenience store",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "audio_src": "ร้านสะดวกซื้อ",
@@ -58073,7 +58073,7 @@
     "id": "tamago-l3-508",
     "thai": "มนุษยสัมพันธ์ดี",
     "english": "sociable, with good interpersonal skills",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "sociable, with good interpersonal skills",
@@ -58320,7 +58320,7 @@
     "id": "tamago-l3-517",
     "thai": "เสียดสี",
     "english": "to satirize, to criticize indirectly",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to satirize, to criticize indirectly",
@@ -58688,7 +58688,7 @@
     "id": "tamago-l3-532",
     "thai": "เอาผิดกับ",
     "english": "to prosecute, to take legal action against, to hold someone legally accountable",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to prosecute, to take legal action against, to hold someone legally accountable",
@@ -58769,7 +58769,7 @@
     "id": "tamago-l3-535",
     "thai": "ตราบใดที่",
     "english": "as long as",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "as long as",
@@ -59384,7 +59384,7 @@
     "id": "tamago-l3-559",
     "thai": "หนำใจ",
     "english": "fully satisfied, fully pleased (to the point of enough or more than enough)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "fully satisfied, fully pleased (to the point of enough or more than enough)",
@@ -60538,7 +60538,7 @@
     "id": "tamago-l3-599",
     "thai": "ตำหนิ",
     "english": "to criticize, to find fault with",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -60619,7 +60619,7 @@
     "id": "tamago-l3-602",
     "thai": "แปลว่า...",
     "english": "\"it means that...\" (idiomatic, nothing to do with translating)",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "\"it means that...\" (idiomatic, nothing to do with translating)",
@@ -60673,7 +60673,7 @@
     "id": "tamago-l3-604",
     "thai": "ยอมจำนน",
     "english": "to surrender, to give up, to concede",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -60781,7 +60781,7 @@
     "id": "tamago-l3-608",
     "thai": "สืบทอด",
     "english": "to inherit, to carry on (a business, tradition)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -60947,7 +60947,7 @@
     "id": "tamago-l3-615",
     "thai": "ความอยู่รอด",
     "english": "survival",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -61082,7 +61082,7 @@
     "id": "tamago-l3-620",
     "thai": "สุขสบาย",
     "english": "comfortable and happy, at ease",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -61138,7 +61138,7 @@
     "id": "tamago-l3-622",
     "thai": "ในดวงใจ",
     "english": "favorite, in one's heart, most beloved",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "favorite, in one's heart, most beloved",
@@ -61246,7 +61246,7 @@
     "id": "tamago-l3-626",
     "thai": "ชะตาชีวิต",
     "english": "fate, destiny",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -61616,7 +61616,7 @@
     "id": "tamago-l3-639",
     "thai": "คลี่คลาย",
     "english": "to improve, to ease up, to resolve",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -61745,7 +61745,7 @@
     "id": "tamago-l3-645",
     "thai": "บีบคั้น",
     "english": "to pressure emotionally, to oppress",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to pressure emotionally, to oppress",
@@ -62123,7 +62123,7 @@
     "id": "tamago-l3-661",
     "thai": "นิยาม",
     "english": "definition",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -62221,7 +62221,7 @@
     "id": "tamago-l3-665",
     "thai": "ส่วนรวม",
     "english": "the collective, the public (interest), the common good (as opposed to \"personal\")",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -63055,7 +63055,7 @@
     "id": "tamago-l3-697",
     "thai": "เบาะแส",
     "english": "clue, lead",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -63263,7 +63263,7 @@
     "id": "tamago-l3-704",
     "thai": "ประหลาดใจ",
     "english": "surprised, astonished",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "surprised, astonished",
@@ -63317,7 +63317,7 @@
     "id": "tamago-l3-706",
     "thai": "พิรุธ",
     "english": "suspicious sign, something that raises doubt",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -63675,7 +63675,7 @@
     "id": "tamago-l3-717",
     "thai": "ต่อให้",
     "english": "even if, even though",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "even if, even though",
@@ -63729,7 +63729,7 @@
     "id": "tamago-l3-720",
     "thai": "ปกปิด",
     "english": "to conceal, to cover up, to hide",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -63837,7 +63837,7 @@
     "id": "tamago-l3-724",
     "thai": "ถ้วน",
     "english": "exactly, completely, in full",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -63864,7 +63864,7 @@
     "id": "tamago-l3-725",
     "thai": "ราคาย่อมเยา",
     "english": "affordable, reasonably priced",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "affordable, reasonably priced",
@@ -63918,7 +63918,7 @@
     "id": "tamago-l3-727",
     "thai": "กะทัดรัด",
     "english": "compact, concise",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -64452,7 +64452,7 @@
     "id": "tamago-l3-748",
     "thai": "ดุ",
     "english": "to scold, to reprimand; fierce, angry-looking, aggressive; strict, stern",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "to scold, to reprimand",
@@ -64594,7 +64594,7 @@
     "id": "tamago-l3-752",
     "thai": "เฝ้านึกถึง",
     "english": "to constantly, longingly think about",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to constantly, longingly think about",
@@ -65232,7 +65232,7 @@
     "id": "tamago-l3-777",
     "thai": "อุดม",
     "english": "abundant, rich in",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -65504,7 +65504,7 @@
     "id": "tamago-l3-787",
     "thai": "แพร่หลาย",
     "english": "widespread, prevalent",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -66181,7 +66181,7 @@
     "id": "tamago-l3-814",
     "thai": "อย่างหลีกเลี่ยงไม่ได้",
     "english": "inevitably, unavoidably",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "inevitably, unavoidably",
@@ -66397,7 +66397,7 @@
     "id": "tamago-l3-822",
     "thai": "หมั่น",
     "english": "to be diligent, to be persistent, to practice regularly",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -66586,7 +66586,7 @@
     "id": "tamago-l3-829",
     "thai": "เป็นอันขาด",
     "english": "absolutely (not), never ever, (not) under any circumstances",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "absolutely (not), never ever, (not) under any circumstances",
@@ -66613,7 +66613,7 @@
     "id": "tamago-l3-831",
     "thai": "อยู่เคียงข้าง",
     "english": "to be by someone's side, to stand by",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to be by someone's side, to stand by",
@@ -66721,7 +66721,7 @@
     "id": "tamago-l3-835",
     "thai": "คนรักเพศเดียวกัน",
     "english": "homosexual person (literally one who loves the same sex)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -66748,7 +66748,7 @@
     "id": "tamago-l3-836",
     "thai": "ความนับถือตัวเอง",
     "english": "self-esteem",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "self-esteem",
@@ -67720,7 +67720,7 @@
     "id": "tamago-l3-871",
     "thai": "โน้มน้าว, โน้มน้าวใจ",
     "english": "to persuade, to win over",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -67747,7 +67747,7 @@
     "id": "tamago-l3-872",
     "thai": "ราวกับ",
     "english": "as if, as though, like",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "as if, as though, like",
@@ -68007,7 +68007,7 @@
     "id": "tsl-010",
     "thai": "ล่าช้า",
     "english": "delayed, late, behind schedule (delivery, service, flight)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -68325,7 +68325,7 @@
     "id": "tsl-021",
     "thai": "อาหารจานด่วน",
     "english": "fast food",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "fast food",
@@ -68875,7 +68875,7 @@
     "id": "tsl-040",
     "thai": "ต่อรอง",
     "english": "to bargain, to negotiate",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -69176,7 +69176,7 @@
     "id": "tsl-052",
     "thai": "กระวนกระวาย",
     "english": "anxious, nervous, agitated",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "anxious, nervous, agitated",
@@ -69801,7 +69801,7 @@
     "id": "tsl-077",
     "thai": "เพิกเฉย",
     "english": "to ignore, to disregard, to turn a blind eye to",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -70706,7 +70706,7 @@
     "id": "tsl-113",
     "thai": "เบื้องลึก",
     "english": "deep inside, innermost (motivation, secret)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -71448,7 +71448,7 @@
     "id": "tsl-142",
     "thai": "ชื่อการค้า",
     "english": "trade name, brand name",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "trade name, brand name",
@@ -72059,7 +72059,7 @@
     "id": "tsl-165",
     "thai": "ส่งเสริม",
     "english": "to support, encourage, promote",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -72194,7 +72194,7 @@
     "id": "tsl-171",
     "thai": "แบบอย่าง",
     "english": "model, example, exemplar",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -72456,7 +72456,7 @@
     "id": "tsl-181",
     "thai": "ชำรุด",
     "english": "broken, damaged, out of order",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -72537,7 +72537,7 @@
     "id": "tsl-185",
     "thai": "ในเร็ววันนี้",
     "english": "very soon, in the near future",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "very soon, in the near future",
@@ -72591,7 +72591,7 @@
     "id": "tsl-187",
     "thai": "เอ่ยถึง",
     "english": "to mention, to bring up, to refer to",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -73067,7 +73067,7 @@
     "id": "tsl-204",
     "thai": "บัตรประจำตัวประชาชน",
     "english": "citizen ID card",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -73138,7 +73138,7 @@
     "id": "tsl-208",
     "thai": "ประทับตรา",
     "english": "to stamp, to affix a seal",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -73165,7 +73165,7 @@
     "id": "tsl-209",
     "thai": "ตราประทับ",
     "english": "stamp, seal (the impression)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -73192,7 +73192,7 @@
     "id": "tsl-210",
     "thai": "สถานภาพ",
     "english": "status (e.g marital, residency)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -73732,7 +73732,7 @@
     "id": "tsl-231",
     "thai": "กระจ่าง",
     "english": "clear, easily understandable (explanation)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -73813,7 +73813,7 @@
     "id": "tsl-234",
     "thai": "ภูมิอากาศ",
     "english": "climate",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "climate",
@@ -73840,7 +73840,7 @@
     "id": "tsl-235",
     "thai": "อารยธรรม",
     "english": "civilization",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -73921,7 +73921,7 @@
     "id": "tsl-238",
     "thai": "เสริมสร้าง",
     "english": "to enhance, strengthen, reinforce",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -74245,7 +74245,7 @@
     "id": "tsl-251",
     "thai": "เชิง",
     "english": "aspect, angle, style",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -74353,7 +74353,7 @@
     "id": "tsl-256",
     "thai": "ค่านิยม",
     "english": "social values, principles (what a society considers important)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "social values, principles (what a society considers important)",
@@ -74380,7 +74380,7 @@
     "id": "tsl-257",
     "thai": "คาดการณ์",
     "english": "to forecast, to predict, to extrapolate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -74434,7 +74434,7 @@
     "id": "tsl-259",
     "thai": "มุ่ง",
     "english": "to aim at, to focus on, to head towards",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -74542,7 +74542,7 @@
     "id": "tsl-264",
     "thai": "ทั้งนี้เพื่อ",
     "english": "in order to, for the purpose of (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "in order to, for the purpose of (formal)",
@@ -74974,7 +74974,7 @@
     "id": "tsl-282",
     "thai": "เร้าใจ",
     "english": "exciting, stimulating, thrilling",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "exciting, stimulating, thrilling",
@@ -75055,7 +75055,7 @@
     "id": "tsl-285",
     "thai": "ยึดเกาะ",
     "english": "to cling, to adhere, to hold on",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -75136,7 +75136,7 @@
     "id": "tsl-288",
     "thai": "คาดฝัน",
     "english": "to anticipate, to look forward to, to dream of",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -75244,7 +75244,7 @@
     "id": "tsl-294",
     "thai": "สารพิษ",
     "english": "toxic substance, poison",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -75325,7 +75325,7 @@
     "id": "tsl-297",
     "thai": "ปฏิบัติ",
     "english": "to carry out, to perform (duties)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -75352,7 +75352,7 @@
     "id": "tsl-298",
     "thai": "ของเสีย",
     "english": "waste (industrial, biological, defective product)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -75568,7 +75568,7 @@
     "id": "tsl-306",
     "thai": "หน่วยย่อย",
     "english": "subunit, subdivision",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -75595,7 +75595,7 @@
     "id": "tsl-307",
     "thai": "พรรคการเมือง",
     "english": "political party",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "political party",
@@ -75811,7 +75811,7 @@
     "id": "tsl-315",
     "thai": "วาระ",
     "english": "(politics) term, tenure; (meeting) agenda item; time, occasion",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -76213,7 +76213,7 @@
     "id": "tsl-328",
     "thai": "คำนึงถึง",
     "english": "to take into consideration, to bear in mind",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -76240,7 +76240,7 @@
     "id": "tsl-330",
     "thai": "ประนอม, ประนีประนอม",
     "english": "to compromise, to reconcile",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -76267,7 +76267,7 @@
     "id": "tsl-331",
     "thai": "ความห่วงใย",
     "english": "concern, care, worry (for someone's well-being)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "concern, care, worry (for someone's well-being)",
@@ -76321,7 +76321,7 @@
     "id": "tsl-333",
     "thai": "ความซาบซึ้งใจ",
     "english": "deep gratitude, deep appreciation (formal)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "deep gratitude, deep appreciation (formal)",
@@ -76402,7 +76402,7 @@
     "id": "tsl-337",
     "thai": "โดยสาร",
     "english": "to be a passenger, to ride (a bus, train)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to be a passenger, to ride (a bus, train)",
@@ -76429,7 +76429,7 @@
     "id": "tsl-338",
     "thai": "ยกย่อง",
     "english": "to praise, to honor, to glorify",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -76807,7 +76807,7 @@
     "id": "tsl-354",
     "thai": "ทรัพย์สมบัติ",
     "english": "assets, property, wealth",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "assets, property, wealth",
@@ -76861,7 +76861,7 @@
     "id": "tsl-356",
     "thai": "ความเย่อหยิ่ง",
     "english": "arrogance, haughtiness, excessive pride",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "arrogance, haughtiness, excessive pride",
@@ -76888,7 +76888,7 @@
     "id": "tsl-357",
     "thai": "ความฟุ้งเฟ้อ",
     "english": "extravagance, wasteful luxury, excessive spending",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -76942,7 +76942,7 @@
     "id": "tsl-359",
     "thai": "สาระสำคัญ",
     "english": "main point, gist, crux (of a story)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77079,7 +77079,7 @@
     "id": "tsl-365",
     "thai": "คิดค้น",
     "english": "to invent, to devise, to come up with something new",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77133,7 +77133,7 @@
     "id": "tsl-367",
     "thai": "ยาสูบ",
     "english": "tobacco",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77241,7 +77241,7 @@
     "id": "tsl-372",
     "thai": "เสรีภาพในการแสดงออก",
     "english": "freedom of expression",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77322,7 +77322,7 @@
     "id": "tsl-375",
     "thai": "แปลกปลอม",
     "english": "foreign, out-of-place, alien",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77538,7 +77538,7 @@
     "id": "tsl-383",
     "thai": "ตอบสนอง",
     "english": "to respond, to react to",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77565,7 +77565,7 @@
     "id": "tsl-384",
     "thai": "สั่งการ",
     "english": "to command, to give orders",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77646,7 +77646,7 @@
     "id": "tsl-387",
     "thai": "ยับยั้งชั่งใจ",
     "english": "to restrain oneself, to exercise self-control",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to restrain oneself, to exercise self-control",
@@ -77943,7 +77943,7 @@
     "id": "tsl-398",
     "thai": "อนุรักษ์",
     "english": "to preserve, to conserve",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -77970,7 +77970,7 @@
     "id": "tsl-399",
     "thai": "ใช้สอย",
     "english": "to utilize, to consume for practical purposes",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78024,7 +78024,7 @@
     "id": "tsl-401",
     "thai": "เศรษฐกิจพอเพียง",
     "english": "sufficiency economy (King Bhumibol's philosophy of moderation and self-reliance)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "sufficiency economy (King Bhumibol's philosophy of moderation and self-reliance)",
@@ -78051,7 +78051,7 @@
     "id": "tsl-402",
     "thai": "สุจริต",
     "english": "honest, ethical, upright, morally correct",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "honest, ethical, upright, morally correct",
@@ -78078,7 +78078,7 @@
     "id": "tsl-403",
     "thai": "อภิปราย",
     "english": "to debate, to discuss",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78105,7 +78105,7 @@
     "id": "tsl-404",
     "thai": "แสวง, แสวงหา",
     "english": "to seek, to pursue (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78132,7 +78132,7 @@
     "id": "tsl-406",
     "thai": "อุปนิสัย, อุปนิสัยใจ",
     "english": "temperament, character, disposition",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "temperament, character, disposition",
@@ -78186,7 +78186,7 @@
     "id": "tsl-408",
     "thai": "จารีตประเพณี",
     "english": "customs and traditions",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "customs and traditions",
@@ -78267,7 +78267,7 @@
     "id": "tsl-411",
     "thai": "ญาติมิตร",
     "english": "relatives and close friends",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "relatives and close friends",
@@ -78294,7 +78294,7 @@
     "id": "tsl-412",
     "thai": "ความอ่อนน้อมถ่อมตน",
     "english": "humility, modesty, deference",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "humility, modesty, deference",
@@ -78348,7 +78348,7 @@
     "id": "tsl-414",
     "thai": "ท่าที",
     "english": "attitude, stance, gesture",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78402,7 +78402,7 @@
     "id": "tsl-416",
     "thai": "กิริยา",
     "english": "behavior, manner, conduct",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78618,7 +78618,7 @@
     "id": "tsl-425",
     "thai": "ไพเราะ",
     "english": "melodious, beautiful-sounding",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78645,7 +78645,7 @@
     "id": "tsl-427",
     "thai": "วาจาสุภาพ",
     "english": "polite speech",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78780,7 +78780,7 @@
     "id": "tsl-432",
     "thai": "ปรัชญา",
     "english": "philosophy",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78807,7 +78807,7 @@
     "id": "tsl-433",
     "thai": "แนวทาง",
     "english": "guideline, approach",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78834,7 +78834,7 @@
     "id": "tsl-434",
     "thai": "สุขกายสบายใจ",
     "english": "physically well and mentally at ease",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "physically well and mentally at ease",
@@ -78861,7 +78861,7 @@
     "id": "tsl-435",
     "thai": "ตำรับ",
     "english": "recipe (food), formula (medicine)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "recipe (food), formula (medicine)",
@@ -78927,7 +78927,7 @@
     "id": "tsl-437",
     "thai": "ล้ำค่า",
     "english": "precious, priceless, invaluable",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -78981,7 +78981,7 @@
     "id": "tsl-439",
     "thai": "ย่อยสลาย",
     "english": "to decompose, to break down, to biodegrade",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to decompose, to break down, to biodegrade",
@@ -79008,7 +79008,7 @@
     "id": "tsl-440",
     "thai": "ละเว้น",
     "english": "to refrain from, to abstain from",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -79386,7 +79386,7 @@
     "id": "tsl-454",
     "thai": "ชั่วขณะ",
     "english": "momentarily, for a moment, brief instant",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "momentarily, for a moment, brief instant",
@@ -79575,7 +79575,7 @@
     "id": "tsl-461",
     "thai": "คล้ายคลึง",
     "english": "analogous, similar",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -79997,7 +79997,7 @@
     "id": "tsl-475",
     "thai": "สันติ",
     "english": "peace, tranquility",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -80105,7 +80105,7 @@
     "id": "tsl-478",
     "thai": "แออัด",
     "english": "crowded, packed, congested",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -80213,7 +80213,7 @@
     "id": "tsl-483",
     "thai": "ทิ้งขว้าง",
     "english": "to abandon, to discard, to throw away carelessly",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -80267,7 +80267,7 @@
     "id": "tsl-485",
     "thai": "ภัยร้าย",
     "english": "danger, peril, serious threat",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -80392,7 +80392,7 @@
     "id": "tsl-490",
     "thai": "การคุกคามทางเพศ",
     "english": "sexual harassment",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "sexual harassment",
@@ -80691,7 +80691,7 @@
     "id": "tsl-502",
     "thai": "ตอบโต้",
     "english": "to respond, to retaliate, to fight back",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -80772,7 +80772,7 @@
     "id": "tsl-505",
     "thai": "เมตตากรุณา",
     "english": "kindness and compassion",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "kindness and compassion",
@@ -80951,7 +80951,7 @@
     "id": "tsl-511",
     "thai": "แต่เดิม",
     "english": "originally, formerly, in the past",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "originally, formerly, in the past",
@@ -80978,7 +80978,7 @@
     "id": "tsl-512",
     "thai": "ผิวพรรณ",
     "english": "skin complexion",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -81032,7 +81032,7 @@
     "id": "tsl-513b",
     "thai": "สูญสิ้น",
     "english": "to be irrecoverably lost, to be completely gone",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -81059,7 +81059,7 @@
     "id": "tsl-514",
     "thai": "ขัดขืน",
     "english": "to resist, to rebel, to defy",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -81113,7 +81113,7 @@
     "id": "tsl-516",
     "thai": "มิฉะนั้น",
     "english": "otherwise, or else",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "otherwise, or else",
@@ -81221,7 +81221,7 @@
     "id": "tsl-520",
     "thai": "เยาวชน",
     "english": "youth, young people",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -81704,7 +81704,7 @@
     "id": "tsl-536",
     "thai": "คล้อยตาม",
     "english": "to go along with, to follow, to be persuaded",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -81866,7 +81866,7 @@
     "id": "tsl-543",
     "thai": "ขจัด",
     "english": "to eliminate, to get rid of, to eradicate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -82336,7 +82336,7 @@
     "id": "tsl-560",
     "thai": "โดยสิ้นเชิง",
     "english": "completely, entirely, utterly",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "completely, entirely, utterly",
@@ -82363,7 +82363,7 @@
     "id": "tsl-561",
     "thai": "ผู้ต้องหา",
     "english": "suspect (legal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "suspect (legal)",
@@ -82390,7 +82390,7 @@
     "id": "tsl-562",
     "thai": "พระภิกษุ",
     "english": "monk (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "monk (formal)",
@@ -82480,7 +82480,7 @@
     "id": "tsl-564",
     "thai": "สังเกตการณ์",
     "english": "to observe, to monitor",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -82669,7 +82669,7 @@
     "id": "tsl-576",
     "thai": "หายนะ",
     "english": "disaster, ruin, catastrophe",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -82750,7 +82750,7 @@
     "id": "tsl-579",
     "thai": "สังเคราะห์",
     "english": "synthetic, to synthesize",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -82858,7 +82858,7 @@
     "id": "tsl-583",
     "thai": "สกุล",
     "english": "family, lineage; genus (plants/animals)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -82902,7 +82902,7 @@
     "id": "tsl-584",
     "thai": "ความทนทาน, ความคงทน",
     "english": "durability",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -82956,7 +82956,7 @@
     "id": "tsl-586",
     "thai": "สูญพันธุ์",
     "english": "to become extinct, to die out (e.g species)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to become extinct, to die out (e.g species)",
@@ -83162,7 +83162,7 @@
     "id": "tsl-594",
     "thai": "หนาแน่น",
     "english": "crowded, densely populated",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -83324,7 +83324,7 @@
     "id": "tsl-600",
     "thai": "จำแนก",
     "english": "to classify, to categorize",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -83351,7 +83351,7 @@
     "id": "tsl-601",
     "thai": "แผนภูมิ",
     "english": "chart, diagram",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -83378,7 +83378,7 @@
     "id": "tsl-603",
     "thai": "พลศึกษา",
     "english": "physical education (P.E, at school), gymnastics",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -83405,7 +83405,7 @@
     "id": "tsl-604",
     "thai": "พืชผล",
     "english": "crops, agricultural produce",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "crops, agricultural produce",
@@ -83567,7 +83567,7 @@
     "id": "tsl-610",
     "thai": "หัตถกรรม",
     "english": "handicraft",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "handicraft",
@@ -83621,7 +83621,7 @@
     "id": "tsl-612",
     "thai": "ว่างเว้น",
     "english": "to take a break from, to abstain, to pause",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -83773,7 +83773,7 @@
     "id": "tsl-618",
     "thai": "ทัดเทียมกัน",
     "english": "equivalent, comparable, evenly matched",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -84222,7 +84222,7 @@
     "id": "tsl-635",
     "thai": "เกื้อกูล",
     "english": "to support, to help out, to be mutually beneficial",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -84249,7 +84249,7 @@
     "id": "tsl-636",
     "thai": "ชมเชย",
     "english": "to praise, to compliment",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -84330,7 +84330,7 @@
     "id": "tsl-639",
     "thai": "คูคลอง",
     "english": "canals, waterways",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -84438,7 +84438,7 @@
     "id": "tsl-644",
     "thai": "ค้นคว้า",
     "english": "to research, to study, to investigate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -84465,7 +84465,7 @@
     "id": "tsl-645",
     "thai": "สร้างเสริม",
     "english": "to build up, to strengthen, to enhance",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -84519,7 +84519,7 @@
     "id": "tsl-647",
     "thai": "โรคภัย, โรคภัยไข้เจ็บ",
     "english": "illness, disease (general term)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "illness, disease (general term)",
@@ -84762,7 +84762,7 @@
     "id": "thaipod-0009",
     "thai": "กระจัดกระจาย",
     "english": "scattered, spread out",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -85196,7 +85196,7 @@
     "id": "thaipod-0028",
     "thai": "กล่าวหา",
     "english": "to accuse, to allege, to charge",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to accuse, to allege, to charge",
@@ -85323,7 +85323,7 @@
     "id": "thaipod-0032",
     "thai": "กว้างไกล",
     "english": "far and wide, far-reaching",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -85720,7 +85720,7 @@
     "id": "thaipod-0047",
     "thai": "การขยายตัว",
     "english": "expansion",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -86044,7 +86044,7 @@
     "id": "thaipod-0068",
     "thai": "การผสมผสาน",
     "english": "combination, blending",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -86071,7 +86071,7 @@
     "id": "thaipod-0069",
     "thai": "การฝึกอบรม",
     "english": "training",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -86503,7 +86503,7 @@
     "id": "thaipod-0101",
     "thai": "กำหนดขึ้น",
     "english": "established, set up",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -86692,7 +86692,7 @@
     "id": "thaipod-0109",
     "thai": "ก่อตั้ง",
     "english": "to found, to establish",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -86719,7 +86719,7 @@
     "id": "thaipod-0111",
     "thai": "ก้าวขึ้น",
     "english": "to step up, to ascend",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -86800,7 +86800,7 @@
     "id": "thaipod-0115",
     "thai": "ขนบธรรมเนียม",
     "english": "customs, traditions",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "customs, traditions",
@@ -87099,7 +87099,7 @@
     "id": "thaipod-0130",
     "thai": "ขับไล่",
     "english": "to expel, to drive out, to banish",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -87153,7 +87153,7 @@
     "id": "thaipod-0133",
     "thai": "ขาดแคลน",
     "english": "to lack, to be insufficient",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -87288,7 +87288,7 @@
     "id": "thaipod-0140",
     "thai": "ขึ้นอยู่กับ",
     "english": "to depend on, to be up to",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "to depend on, to be up to",
@@ -87398,7 +87398,7 @@
     "id": "thaipod-0144",
     "thai": "ข้อบ่งชี้",
     "english": "indication, indicator, sign",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -87693,7 +87693,7 @@
     "id": "thaipod-0155",
     "thai": "คนหนุ่มสาว",
     "english": "young people",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -87828,7 +87828,7 @@
     "id": "thaipod-0162",
     "thai": "ครอบคลุม",
     "english": "to cover, to encompass, comprehensive",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -88044,7 +88044,7 @@
     "id": "thaipod-0172",
     "thai": "ควบคู่กันกับ",
     "english": "together with, simultaneously with",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "together with, simultaneously with",
@@ -88071,7 +88071,7 @@
     "id": "thaipod-0173",
     "thai": "ควรค่า (แก่)",
     "english": "worthy of, deserving of",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "worthy of, deserving of",
@@ -88179,7 +88179,7 @@
     "id": "thaipod-0179",
     "thai": "ความซื่อ",
     "english": "honesty, sincerity",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "honesty, sincerity",
@@ -88314,7 +88314,7 @@
     "id": "thaipod-0185",
     "thai": "ความมีชีวิตชีวา",
     "english": "vitality, liveliness",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -88638,7 +88638,7 @@
     "id": "thaipod-0199",
     "thai": "ความเป็นมา",
     "english": "background, history (of something)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -88719,7 +88719,7 @@
     "id": "thaipod-0203",
     "thai": "ความแท้จริง",
     "english": "authenticity, genuineness",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -88800,7 +88800,7 @@
     "id": "thaipod-0206",
     "thai": "ความไม่มั่นคง",
     "english": "instability, insecurity",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -88935,7 +88935,7 @@
     "id": "thaipod-0212",
     "thai": "คำกล่าว",
     "english": "saying, statement, adage",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -88962,7 +88962,7 @@
     "id": "thaipod-0213",
     "thai": "คำขอ",
     "english": "request, application, petition",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -89016,7 +89016,7 @@
     "id": "thaipod-0215",
     "thai": "คิดไม่ออก",
     "english": "\"I can't think of anything\", \"can't come up with\"",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "\"I can't think of anything\", \"can't come up with\"",
@@ -89178,7 +89178,7 @@
     "id": "thaipod-0224",
     "thai": "คุ้มครอง",
     "english": "to protect, to safeguard",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -90252,7 +90252,7 @@
     "id": "thaipod-0276",
     "thai": "ชัยชนะ",
     "english": "victory",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -90306,7 +90306,7 @@
     "id": "thaipod-0278",
     "thai": "ชายฝั่ง",
     "english": "coast, coastline",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "coast, coastline",
@@ -90850,7 +90850,7 @@
     "id": "thaipod-0309",
     "thai": "ณ",
     "english": "at, in (formal preposition)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "at, in (formal preposition)",
@@ -90904,7 +90904,7 @@
     "id": "thaipod-0315",
     "thai": "ดังกล่าว",
     "english": "aforementioned, mentioned above",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "aforementioned, mentioned above",
@@ -90931,7 +90931,7 @@
     "id": "thaipod-0316",
     "thai": "ดังจะเห็นได้จาก",
     "english": "as can be seen from",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "as can be seen from",
@@ -91120,7 +91120,7 @@
     "id": "thaipod-0323",
     "thai": "ดำเนิน",
     "english": "to proceed, to go on, to carry on",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -91174,7 +91174,7 @@
     "id": "thaipod-0326",
     "thai": "ดินแดน",
     "english": "land, territory",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -91409,7 +91409,7 @@
     "id": "thaipod-0338",
     "thai": "ด้วยเหตุนี้",
     "english": "for this reason, therefore",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "for this reason, therefore",
@@ -91552,7 +91552,7 @@
     "id": "thaipod-0344",
     "thai": "ตบแต่ง",
     "english": "to decorate, to adorn, to dress up",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -92219,7 +92219,7 @@
     "id": "thaipod-0375",
     "thai": "ตีความ, ตีความหมาย",
     "english": "to interpret, to analyze",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -92504,7 +92504,7 @@
     "id": "thaipod-0388",
     "thai": "ต้นกำเนิด",
     "english": "origin, source",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -92720,7 +92720,7 @@
     "id": "thaipod-0399",
     "thai": "จัดว่า, ถือว่า, ถือเป็น",
     "english": "\"is considered\", \"is regarded as\"",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "\"is considered\", \"is regarded as\"",
@@ -92963,7 +92963,7 @@
     "id": "thaipod-0415",
     "thai": "ทอดทิ้ง",
     "english": "to forsake, to abandon, to neglect",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -93210,7 +93210,7 @@
     "id": "thaipod-0430",
     "thai": "ทั้งสิ้น",
     "english": "all, in total, altogether",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "all, in total, altogether",
@@ -93237,7 +93237,7 @@
     "id": "thaipod-0431",
     "thai": "ทั้งหลาย",
     "english": "all, all of them",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "all, all of them",
@@ -93634,7 +93634,7 @@
     "id": "thaipod-0451",
     "thai": "ที่ทราบกันดี",
     "english": "well-known, commonly known",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "well-known, commonly known",
@@ -93908,7 +93908,7 @@
     "id": "thaipod-0464",
     "thai": "ท่ามกลาง",
     "english": "amid, in the midst of",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "amid, in the midst of",
@@ -94101,7 +94101,7 @@
     "id": "thaipod-0471",
     "thai": "ธุระ",
     "english": "business, errand",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -94211,7 +94211,7 @@
     "id": "thaipod-0475",
     "thai": "นอกเหนือจาก",
     "english": "besides, apart from, other than",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "besides, apart from, other than",
@@ -94238,7 +94238,7 @@
     "id": "thaipod-0476",
     "thai": "นักวิชาการ",
     "english": "scholar, academic",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -94265,7 +94265,7 @@
     "id": "thaipod-0478",
     "thai": "นับแต่นั้นมา",
     "english": "since then, from that point onward",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "since then, from that point onward",
@@ -94292,7 +94292,7 @@
     "id": "thaipod-0480",
     "thai": "นั่นแหละ",
     "english": "\"it is you that...\", \"that's it\"",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "\"it is you that...\", \"that's it\"",
@@ -94427,7 +94427,7 @@
     "id": "thaipod-0487",
     "thai": "นานา",
     "english": "various, many kinds of",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "various, many kinds of",
@@ -94454,7 +94454,7 @@
     "id": "thaipod-0488",
     "thai": "นานาชนิด",
     "english": "various kinds, all kinds of",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "various kinds, all kinds of",
@@ -94481,7 +94481,7 @@
     "id": "thaipod-0489",
     "thai": "นานาชาติ",
     "english": "international",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -94508,7 +94508,7 @@
     "id": "thaipod-0490",
     "thai": "นาม",
     "english": "name, appellation (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -94589,7 +94589,7 @@
     "id": "thaipod-0493",
     "thai": "นำแสดง",
     "english": "to star in, to play the lead role (movie, show)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -94753,7 +94753,7 @@
     "id": "thaipod-0500",
     "thai": "น่าดึงดูด",
     "english": "attractive, appealing",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -94780,7 +94780,7 @@
     "id": "thaipod-0501",
     "thai": "น่าตื่นตะลึง",
     "english": "astonishing, breathtaking",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "astonishing, breathtaking",
@@ -94807,7 +94807,7 @@
     "id": "thaipod-0502",
     "thai": "น่าตื่นตาตื่นใจ",
     "english": "amazing, fascinating",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "amazing, fascinating",
@@ -95050,7 +95050,7 @@
     "id": "thaipod-0514",
     "thai": "บรรดา",
     "english": "all, the group of (followed by a noun)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "all, the group of (followed by a noun)",
@@ -95320,7 +95320,7 @@
     "id": "thaipod-0526",
     "thai": "บุคคล",
     "english": "person, individual",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -95428,7 +95428,7 @@
     "id": "thaipod-0531",
     "thai": "บ่น",
     "english": "to complain, to grumble",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -95482,7 +95482,7 @@
     "id": "thaipod-0533",
     "thai": "บ้านเมือง",
     "english": "country, nation, the state",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -95509,7 +95509,7 @@
     "id": "thaipod-0534",
     "thai": "บ้านเรือน",
     "english": "houses, household, habitations",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -95725,7 +95725,7 @@
     "id": "thaipod-0547",
     "thai": "ประกอบด้วย",
     "english": "to consist of, to be composed of",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to consist of, to be composed of",
@@ -95752,7 +95752,7 @@
     "id": "thaipod-0548",
     "thai": "ประการ",
     "english": "point, aspect, matter (formal classifier for reasons or items in a list)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -96039,7 +96039,7 @@
     "id": "thaipod-0560",
     "thai": "ประวัติความเป็นมา",
     "english": "historical background",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -96637,7 +96637,7 @@
     "id": "thaipod-0590",
     "thai": "ปิดล้อม",
     "english": "to enclose, to surround, to besiege",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -99653,7 +99653,7 @@
     "id": "thaipod-0718",
     "thai": "พร้อมทั้ง",
     "english": "as well as, along with, together with",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "as well as, along with, together with",
@@ -100249,7 +100249,7 @@
     "id": "thaipod-0741",
     "thai": "พ่ายแพ้",
     "english": "to be defeated, to lose (battle, war)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -100364,7 +100364,7 @@
     "id": "thaipod-0744",
     "thai": "ฟื้นฟู",
     "english": "to restore, to revive, to rehabilitate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -100445,7 +100445,7 @@
     "id": "thaipod-0748",
     "thai": "ภาพประกอบ",
     "english": "illustration, diagram",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -100798,7 +100798,7 @@
     "id": "thaipod-0766",
     "thai": "มรสุม",
     "english": "monsoon",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "monsoon",
@@ -101070,7 +101070,7 @@
     "id": "thaipod-0783",
     "thai": "มุ่งหวัง",
     "english": "to aim for, to hope for",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -101302,7 +101302,7 @@
     "id": "thaipod-0798",
     "thai": "ยามค่ำคืน",
     "english": "at night, nighttime (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "at night, nighttime (formal)",
@@ -101464,7 +101464,7 @@
     "id": "thaipod-0808",
     "thai": "ยุทธศาสตร์",
     "english": "strategy, strategic plan",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -101518,7 +101518,7 @@
     "id": "thaipod-0811",
     "thai": "ย่านการค้า",
     "english": "commercial area, business district",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -101736,7 +101736,7 @@
     "id": "thaipod-0822",
     "thai": "รสชาติ",
     "english": "taste, flavor",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "taste, flavor",
@@ -102006,7 +102006,7 @@
     "id": "thaipod-0834",
     "thai": "ระลึก",
     "english": "commemorative, to recall",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -102241,7 +102241,7 @@
     "id": "thaipod-0842",
     "thai": "รัฐธรรมนูญ",
     "english": "constitution",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "constitution",
@@ -102403,7 +102403,7 @@
     "id": "thaipod-0849",
     "thai": "รากฐาน",
     "english": "foundation, basis",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -102889,7 +102889,7 @@
     "id": "thaipod-0871",
     "thai": "รุ่งเรือง",
     "english": "prosperous, flourishing",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -102970,7 +102970,7 @@
     "id": "thaipod-0876",
     "thai": "ร่องรอย",
     "english": "trace, sign, vestige",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -103188,7 +103188,7 @@
     "id": "thaipod-0886",
     "thai": "ลงความเห็น",
     "english": "to give an opinion, to make a judgment",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -103377,7 +103377,7 @@
     "id": "thaipod-0893",
     "thai": "ลักลอบ",
     "english": "to smuggle, to do something illegally, to carry out an activity in hiding",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to smuggle, to do something illegally, to carry out an activity in hiding",
@@ -103863,7 +103863,7 @@
     "id": "thaipod-0915",
     "thai": "วันรุ่งขึ้น",
     "english": "the next day, the following day (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "the next day, the following day (formal)",
@@ -103973,7 +103973,7 @@
     "id": "thaipod-0919",
     "thai": "วางแนวทาง",
     "english": "to set the course, to establish an approach",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -104137,7 +104137,7 @@
     "id": "thaipod-0926",
     "thai": "วิสัยทัศน์",
     "english": "vision, foresight",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -104218,7 +104218,7 @@
     "id": "thaipod-0929",
     "thai": "ศตวรรษ",
     "english": "century",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "century",
@@ -104714,7 +104714,7 @@
     "id": "thaipod-0949",
     "thai": "สตรี",
     "english": "woman, female (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -105364,7 +105364,7 @@
     "id": "thaipod-0977",
     "thai": "สละ",
     "english": "to give up, to renounce, to abdicate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -106203,7 +106203,7 @@
     "id": "thaipod-1020",
     "thai": "สิ่งก่อสร้าง",
     "english": "structure, built object",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -106230,7 +106230,7 @@
     "id": "thaipod-1022",
     "thai": "สิ่งประดิษฐ์",
     "english": "invention",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -106284,7 +106284,7 @@
     "id": "thaipod-1024",
     "thai": "สิ่งเลวร้าย",
     "english": "bad things, evil things",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -106338,7 +106338,7 @@
     "id": "thaipod-1027",
     "thai": "สิ้นสุดลง",
     "english": "to come to an end, to stop",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -106808,7 +106808,7 @@
     "id": "thaipod-1045",
     "thai": "ส่งผล",
     "english": "to affect, to have an effect, to impact",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -106835,7 +106835,7 @@
     "id": "thaipod-1046",
     "thai": "ส่วนงาน",
     "english": "sector, department, division",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -107097,7 +107097,7 @@
     "id": "thaipod-1057",
     "thai": "หมู่เกาะ",
     "english": "archipelago, group of islands",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -107496,7 +107496,7 @@
     "id": "thaipod-1075",
     "thai": "หลายต่อหลายครั้ง",
     "english": "many times, repeatedly",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "many times, repeatedly",
@@ -108044,7 +108044,7 @@
     "id": "thaipod-1100",
     "thai": "อยู่ดีๆ",
     "english": "suddenly, out of the blue",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "suddenly, out of the blue",
@@ -108127,7 +108127,7 @@
     "id": "thaipod-1107",
     "thai": "อย่างยิ่ง",
     "english": "greatly, extremely",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "greatly, extremely",
@@ -108798,7 +108798,7 @@
     "id": "thaipod-1142",
     "thai": "อุทยาน",
     "english": "park (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -108987,7 +108987,7 @@
     "id": "thaipod-1152",
     "thai": "อ้างอิง, อ้างถึง",
     "english": "to reference, to cite",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -109151,7 +109151,7 @@
     "id": "thaipod-1159",
     "thai": "เกี่ยวพัน",
     "english": "related, intertwined, connected",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -109506,7 +109506,7 @@
     "id": "thaipod-1174",
     "thai": "เครื่องแต่งกาย",
     "english": "outfit, clothing",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -109751,7 +109751,7 @@
     "id": "thaipod-1186",
     "thai": "เจริญก้าวหน้า",
     "english": "to prosper, to progress, to advance",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -110455,7 +110455,7 @@
     "id": "thaipod-1216",
     "thai": "เทือกเขา",
     "english": "mountain range",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "mountain range",
@@ -110565,7 +110565,7 @@
     "id": "thaipod-1220",
     "thai": "เนื่องด้วย",
     "english": "due to, because of",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "due to, because of",
@@ -110592,7 +110592,7 @@
     "id": "thaipod-1221",
     "thai": "เนื้อที่",
     "english": "area, space (especially for land)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -110692,7 +110692,7 @@
     "id": "thaipod-1224",
     "thai": "เบื้องล่าง",
     "english": "below, underneath",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -110881,7 +110881,7 @@
     "id": "thaipod-1231",
     "thai": "เป็นต้น",
     "english": "etc., and so on",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "etc., and so on",
@@ -111016,7 +111016,7 @@
     "id": "thaipod-1238",
     "thai": "เพราะเหตุที่",
     "english": "due to the fact that, because",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "due to the fact that, because",
@@ -111070,7 +111070,7 @@
     "id": "thaipod-1240",
     "thai": "เพลิดเพลิน",
     "english": "to enjoy, to be delighted",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -111336,7 +111336,7 @@
     "id": "thaipod-1250",
     "thai": "เรียกร้อง",
     "english": "to demand, to call for",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -112094,7 +112094,7 @@
     "id": "thaipod-1290",
     "thai": "เหมาะแก่",
     "english": "suitable for, fitting for",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "suitable for, fitting for",
@@ -112121,7 +112121,7 @@
     "id": "thaipod-1292",
     "thai": "เหล่า",
     "english": "group of, \"all the...\"",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "group of, \"all the...\"",
@@ -112148,7 +112148,7 @@
     "id": "thaipod-1293",
     "thai": "เห็นจะ",
     "english": "probably, likely; \"seems\", \"appears to be\"",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "probably, likely",
@@ -112420,7 +112420,7 @@
     "id": "thaipod-1306",
     "thai": "แง่มุม",
     "english": "aspect, point of view, perspective",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -112474,7 +112474,7 @@
     "id": "thaipod-1308",
     "thai": "แตกแยก",
     "english": "to break apart, to split",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -112804,7 +112804,7 @@
     "id": "thaipod-1322",
     "thai": "แท้จริงแล้ว",
     "english": "in reality, actually",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "in reality, actually",
@@ -112831,7 +112831,7 @@
     "id": "thaipod-1323",
     "thai": "แนวชายฝั่งทะเล",
     "english": "coastline",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "coastline",
@@ -112885,7 +112885,7 @@
     "id": "thaipod-1325",
     "thai": "แน่ชัด",
     "english": "exact, definite",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -113425,7 +113425,7 @@
     "id": "thaipod-1352",
     "thai": "แหล่งท่องเที่ยว",
     "english": "tourist attraction, tourist spot",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -113670,7 +113670,7 @@
     "id": "thaipod-1367",
     "thai": "โดยเฉพาะ",
     "english": "especially, particularly",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "especially, particularly",
@@ -114125,7 +114125,7 @@
     "id": "thaipod-1393",
     "thai": "ใด",
     "english": "any (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "any (formal)",
@@ -114152,7 +114152,7 @@
     "id": "thaipod-1394",
     "thai": "ใดๆ",
     "english": "any, whatsoever, of any kind",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "any, whatsoever, of any kind",
@@ -114206,7 +114206,7 @@
     "id": "thaipod-1398",
     "thai": "ในตอนต้น",
     "english": "at the beginning, initially",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "at the beginning, initially",
@@ -114287,7 +114287,7 @@
     "id": "thaipod-1402",
     "thai": "ในอำนาจ",
     "english": "in power",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -114422,7 +114422,7 @@
     "id": "thaipod-1410",
     "thai": "ได้ชื่อว่า",
     "english": "to be known as, to be regarded as",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to be known as, to be regarded as",
@@ -115008,7 +115008,7 @@
     "id": "tobo-002",
     "thai": "การปฏิวัติ",
     "english": "revolution",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -115304,7 +115304,7 @@
     "id": "tobo-011",
     "thai": "การเตรียมการ",
     "english": "preparation",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -117312,7 +117312,7 @@
     "id": "tobo-087",
     "thai": "โจมตี",
     "english": "to attack",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -118888,7 +118888,7 @@
     "id": "tobo-150",
     "thai": "จุดประสงค์",
     "english": "purpose, aim",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -118915,7 +118915,7 @@
     "id": "tobo-151",
     "thai": "จัตุรัส",
     "english": "square",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -119272,7 +119272,7 @@
     "id": "tobo-165",
     "thai": "ทศวรรษ",
     "english": "decade",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "decade",
@@ -119353,7 +119353,7 @@
     "id": "tobo-168",
     "thai": "เสรีภาพ",
     "english": "freedom, liberty",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -119565,7 +119565,7 @@
     "id": "tobo-175",
     "thai": "นักบวช",
     "english": "ordained person, monastic person, monk",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "ordained person, monastic person, monk",
@@ -121597,7 +121597,7 @@
     "id": "tobo-259",
     "thai": "แหล่งที่มา",
     "english": "source, origin",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -121786,7 +121786,7 @@
     "id": "tobo-266",
     "thai": "ความภาคภูมิใจ",
     "english": "pride",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "pride",
@@ -122191,7 +122191,7 @@
     "id": "tobo-282",
     "thai": "ความหลง, ความหลงใหล",
     "english": "passion, infatuation",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "passion, infatuation",
@@ -122272,7 +122272,7 @@
     "id": "tobo-285",
     "thai": "เพื่อนร่วมทาง",
     "english": "companion, traveling companion",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -122353,7 +122353,7 @@
     "id": "tobo-289",
     "thai": "ภาคส่วน",
     "english": "sector, division",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -122652,7 +122652,7 @@
     "id": "tobo-301",
     "thai": "ความตื่นตระหนก",
     "english": "panic",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "panic",
@@ -122949,7 +122949,7 @@
     "id": "tobo-312",
     "thai": "ความเศร้าโศก",
     "english": "grief, deep sorrow",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "grief, deep sorrow",
@@ -122976,7 +122976,7 @@
     "id": "tobo-314",
     "thai": "ความกรุณา",
     "english": "compassion, mercy, wanting to relieve others' suffering",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "compassion, mercy, wanting to relieve others' suffering",
@@ -123387,7 +123387,7 @@
     "id": "tobo-332",
     "thai": "ปรารถนา",
     "english": "to wish, to desire",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -123740,7 +123740,7 @@
     "id": "tobo-346",
     "thai": "ความบันเทิง",
     "english": "entertainment",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -123825,7 +123825,7 @@
     "id": "tobo-350",
     "thai": "เชิงบวก",
     "english": "positive",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -123852,7 +123852,7 @@
     "id": "tobo-351",
     "thai": "เชิงลบ",
     "english": "negative",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -123960,7 +123960,7 @@
     "id": "tobo-356",
     "thai": "การเป็นสมาชิก",
     "english": "membership",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -124616,7 +124616,7 @@
     "id": "tobo-381",
     "thai": "ข้อเสนอแนะ",
     "english": "feedback, suggestion",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -125837,7 +125837,7 @@
     "id": "tobo-430",
     "thai": "ตั้งครรภ์",
     "english": "pregnant (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "pregnant (formal)",
@@ -126180,7 +126180,7 @@
     "id": "tobo-445",
     "thai": "มีจริยธรรม",
     "english": "ethical",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "ethical",
@@ -126531,7 +126531,7 @@
     "id": "tobo-460",
     "thai": "การสังเกต",
     "english": "observation",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -127090,7 +127090,7 @@
     "id": "tobo-483",
     "thai": "ไม่เกิดผล",
     "english": "ineffective, having no result",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -129314,7 +129314,7 @@
     "id": "yt-c01-059",
     "thai": "ดำรง",
     "english": "to hold (e.g a position), to maintain, to preserve",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -129530,7 +129530,7 @@
     "id": "yt-c01-068",
     "thai": "ข้อมูลพื้นฐาน",
     "english": "basic information, fundamental data",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -130745,7 +130745,7 @@
     "id": "yt-c02-014",
     "thai": "ทรงพลัง",
     "english": "powerful, mighty",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -132193,7 +132193,7 @@
     "id": "yt-c02-070",
     "thai": "ตัวกลาง",
     "english": "medium, intermediary, middleman",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -132274,7 +132274,7 @@
     "id": "yt-c02-074",
     "thai": "พูดปด",
     "english": "to lie, to tell a lie",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -133157,7 +133157,7 @@
     "id": "yt-c03-011",
     "thai": "ความเมตตา",
     "english": "compassion, deep kindness",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "compassion, deep kindness",
@@ -135856,7 +135856,7 @@
     "id": "yt-c04-021",
     "thai": "ความอึดอัดใจ",
     "english": "embarrassment, discomfort",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "embarrassment, discomfort",
@@ -139826,7 +139826,7 @@
     "id": "yt-c05-090",
     "thai": "ความเต็มใจ",
     "english": "willingness, readiness to do something",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "willingness, readiness to do something",
@@ -140204,7 +140204,7 @@
     "id": "yt-c06-008",
     "thai": "สัมภาระ",
     "english": "baggage, luggage, belongings",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "baggage, luggage, belongings",
@@ -140447,7 +140447,7 @@
     "id": "yt-c06-017",
     "thai": "ภาพลักษณ์",
     "english": "public image, reputation, public perception",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -140663,7 +140663,7 @@
     "id": "yt-c06-025",
     "thai": "ความอ่อนโยน",
     "english": "gentleness, tenderness",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "gentleness, tenderness",
@@ -142958,7 +142958,7 @@
     "id": "yt-c07-014",
     "thai": "สถานีขนส่งผู้โดยสาร (บขส)",
     "english": "passenger bus terminal",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "passenger bus terminal",
@@ -143039,7 +143039,7 @@
     "id": "yt-c07-017",
     "thai": "ยืนกราน",
     "english": "to insist, to maintain firmly, to stand one's ground",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -143120,7 +143120,7 @@
     "id": "yt-c07-020",
     "thai": "หวาดระแวง",
     "english": "suspicious, paranoid (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "suspicious, paranoid (formal)",
@@ -143201,7 +143201,7 @@
     "id": "yt-c07-023",
     "thai": "สินเชื่อ",
     "english": "loan, credit (e.g to buy a house)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "loan, credit (e.g to buy a house)",
@@ -143336,7 +143336,7 @@
     "id": "yt-c07-029",
     "thai": "จุดยืน",
     "english": "standpoint, position, opinion (e.g in politics)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -144540,7 +144540,7 @@
     "id": "yt-c07-073",
     "thai": "เร่งรีบ",
     "english": "rushed, in a hurry, hastily",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -144627,7 +144627,7 @@
     "id": "yt-c07-076",
     "thai": "ประกอบกัน",
     "english": "to combine, to be put together",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -146443,7 +146443,7 @@
     "id": "yt-c08-048",
     "thai": "ตอกย้ำ",
     "english": "to reinforce, to emphasize, to underscore",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -146659,7 +146659,7 @@
     "id": "yt-c08-058",
     "thai": "ธนบัตร",
     "english": "banknotes",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "banknotes",
@@ -146821,7 +146821,7 @@
     "id": "yt-c08-065",
     "thai": "ค่าดำเนินการ",
     "english": "processing fee, administrative fee",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "processing fee, administrative fee",
@@ -147118,7 +147118,7 @@
     "id": "yt-c08-078",
     "thai": "สำเนา",
     "english": "a copy (of a document, e.g passport, certificate, etc)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -147820,7 +147820,7 @@
     "id": "yt-c09-006",
     "thai": "การทุ่มเท",
     "english": "dedication, devotion",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "dedication, devotion",
@@ -148971,7 +148971,7 @@
     "id": "yt-c09-053",
     "thai": "โดยลำพัง",
     "english": "alone, by oneself, independently (without others)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -151074,7 +151074,7 @@
     "id": "yt-c10-035",
     "thai": "ความว่องไว",
     "english": "agility, handiness",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -151512,7 +151512,7 @@
     "id": "yt-c10-052",
     "thai": "คุณธรรม",
     "english": "moral virtue, ethical values",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "moral virtue, ethical values",
@@ -151917,7 +151917,7 @@
     "id": "yt-c10-072",
     "thai": "โฉนดที่ดิน",
     "english": "land title deed",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "land title deed",
@@ -152106,7 +152106,7 @@
     "id": "yt-c10-081",
     "thai": "ร่มเงา",
     "english": "shade, shadow, umbrage",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -153224,7 +153224,7 @@
     "id": "yt-c11-024",
     "thai": "ปะทะ",
     "english": "to clash, to collide",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -154587,7 +154587,7 @@
     "id": "yt-c11-073",
     "thai": "สุขุม",
     "english": "calm, composed, level-headed",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "calm, composed, level-headed",
@@ -154749,7 +154749,7 @@
     "id": "yt-c11-080",
     "thai": "ชะลอ",
     "english": "to slow down, to decelerate, to delay",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -155019,7 +155019,7 @@
     "id": "yt-c11-091",
     "thai": "พ้อง",
     "english": "similar, matching, identical, to correspond, to be the same",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -155343,7 +155343,7 @@
     "id": "yt-c12-005",
     "thai": "กล่าว",
     "english": "to say, to state, to mention (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -155397,7 +155397,7 @@
     "id": "yt-c12-008",
     "thai": "หิวโหย",
     "english": "very hungry, famished, starving (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "very hungry, famished, starving (formal)",
@@ -155937,7 +155937,7 @@
     "id": "yt-c12-029",
     "thai": "ผลิตผล, ผลผลิต",
     "english": "output, yield, product",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "output, yield, product",
@@ -156247,7 +156247,7 @@
     "id": "yt-c12-037",
     "thai": "พบปะ",
     "english": "to meet (usually in a social setting, like friends, coworkers), to meet and socialize",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -157388,7 +157388,7 @@
     "id": "yt-c12-082",
     "thai": "เบิกบาน",
     "english": "radiant, joyful, full of happiness (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "radiant, joyful, full of happiness (formal)",
@@ -157794,7 +157794,7 @@
     "id": "yt-c12-099",
     "thai": "เจ้าอยู่หัว, พระเจ้าอยู่หัว",
     "english": "the king (very respectful way to refer to the king, literally \"lord residing at the head\")",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "the king (very respectful way to refer to the king, literally \"lord residing at the head\")",
@@ -158833,7 +158833,7 @@
     "id": "yt-c13-036",
     "thai": "กระปรี้กระเปร่า",
     "english": "full of energy, lively",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "full of energy, lively",
@@ -159319,7 +159319,7 @@
     "id": "yt-c13-053",
     "thai": "ราชวงศ์จักรี",
     "english": "Chakri dynasty (current royal family)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "Chakri dynasty (current royal family)",
@@ -160990,7 +160990,7 @@
     "id": "yt-c14-017",
     "thai": "ตระหนี่",
     "english": "stingy, unwilling to spend money (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "stingy, unwilling to spend money (formal)",
@@ -163452,7 +163452,7 @@
     "id": "yt-c15-013",
     "thai": "ส่งสาร",
     "english": "to convey a message, to transmit information",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -164172,7 +164172,7 @@
     "id": "yt-c15-040",
     "thai": "วีรบุรุษ - วีรสตรี",
     "english": "hero - heroine (literally \"heroic + man - woman\")",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -164702,7 +164702,7 @@
     "id": "yt-c15-060",
     "thai": "ความเสมอภาค",
     "english": "equality (in status, rights, opportunities)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -165566,7 +165566,7 @@
     "id": "yt-c15-097",
     "thai": "เสื่อมเสีย",
     "english": "to damage, to tarnish (usually reputation, social standing)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -166495,7 +166495,7 @@
     "id": "yt-c16-046",
     "thai": "เย่อหยิ่ง",
     "english": "arrogant, haughty, full of oneself",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "arrogant, haughty, full of oneself",
@@ -166549,7 +166549,7 @@
     "id": "yt-c16-048",
     "thai": "กระทบกระเทือน",
     "english": "to affect, to shake, to impact (physically or emotionally)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -166863,7 +166863,7 @@
     "id": "yt-c16-059",
     "thai": "ทุจริต",
     "english": "corruption, fraud, misconduct",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "corruption, fraud, misconduct",
@@ -168418,7 +168418,7 @@
     "id": "yt-c17-018",
     "thai": "ผลพลอยได้",
     "english": "side benefit, unintended but beneficial result",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -168472,7 +168472,7 @@
     "id": "yt-c17-020",
     "thai": "สภาวะ",
     "english": "condition, state",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "condition, state",
@@ -168526,7 +168526,7 @@
     "id": "yt-c17-021",
     "thai": "เผ่าพันธุ์",
     "english": "race, tribe, species",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "race, tribe, species",
@@ -169141,7 +169141,7 @@
     "id": "yt-c17-045",
     "thai": "ประสาทสัมผัส",
     "english": "sense (sight, hearing, taste, smell, touch)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "sense (sight, hearing, taste, smell, touch)",
@@ -169654,7 +169654,7 @@
     "id": "yt-c17-064",
     "thai": "โสโครก",
     "english": "extremely dirty, filthy, disgusting",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -169681,7 +169681,7 @@
     "id": "yt-c17-065",
     "thai": "ฝุ่นละออง",
     "english": "dust particles",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "dust particles",
@@ -169762,7 +169762,7 @@
     "id": "yt-c17-067",
     "thai": "วัชพืช",
     "english": "weed (unwanted plants)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "weed (unwanted plants)",
@@ -170269,7 +170269,7 @@
     "id": "yt-c17-090",
     "thai": "หลบภัย",
     "english": "to shelter, to take refuge",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -170512,7 +170512,7 @@
     "id": "yt-c17-099",
     "thai": "ความแม่นยำ",
     "english": "accuracy",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -170620,7 +170620,7 @@
     "id": "yt-c18-004",
     "thai": "มองการณ์ไกล",
     "english": "to look ahead, far-sighted, visionary, forward-thinking",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to look ahead, far-sighted, visionary, forward-thinking",
@@ -170998,7 +170998,7 @@
     "id": "yt-c18-018",
     "thai": "กระทรวงการคลัง",
     "english": "Ministry of Finance",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "Ministry of Finance",
@@ -171025,7 +171025,7 @@
     "id": "yt-c18-019",
     "thai": "กระทรวงศึกษาธิการ",
     "english": "Ministry of Education",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -171052,7 +171052,7 @@
     "id": "yt-c18-020",
     "thai": "ประมุข",
     "english": "head, chief",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -171106,7 +171106,7 @@
     "id": "yt-c18-023",
     "thai": "วุฒิการศึกษา",
     "english": "educational background, educational qualification, academic degree",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -172240,7 +172240,7 @@
     "id": "yt-c18-067",
     "thai": "ภัยคุกคาม",
     "english": "threat, menace",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -172348,7 +172348,7 @@
     "id": "yt-c18-072",
     "thai": "แปลกแยก",
     "english": "alienated, socially disconnected, isolated, feeling like an outsider",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "alienated, socially disconnected, isolated, feeling like an outsider",
@@ -172581,7 +172581,7 @@
     "id": "yt-c18-081",
     "thai": "โศกเศร้า",
     "english": "sorrowful, deeply sad, grieving (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "sorrowful, deeply sad, grieving (formal)",
@@ -173354,7 +173354,7 @@
     "id": "yt-c19-011",
     "thai": "พลเรือน",
     "english": "civilian (non military)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "civilian (non military)",
@@ -173867,7 +173867,7 @@
     "id": "yt-c19-030",
     "thai": "ขาดตกบกพร่อง",
     "english": "lacking, incomplete, to have shortcomings or omissions",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -175128,7 +175128,7 @@
     "id": "yt-c19-076",
     "thai": "ผู้ถือหุ้น",
     "english": "shareholder, stockholder",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "shareholder, stockholder",
@@ -175371,7 +175371,7 @@
     "id": "yt-c19-088",
     "thai": "โรคติดต่อทางเพศสัมพันธ์",
     "english": "STD (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "STD (formal)",
@@ -177776,7 +177776,7 @@
     "id": "yt-c20-087",
     "thai": "บรรจุภัณฑ์",
     "english": "packaging",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -178787,7 +178787,7 @@
     "id": "yt-c21-032",
     "thai": "จู่โจม",
     "english": "to ambush, to raid, to launch a surprise attack",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -179051,7 +179051,7 @@
     "id": "yt-c21-042",
     "thai": "ให้ความเห็นชอบ",
     "english": "to give one's approval, to give consent",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -179369,7 +179369,7 @@
     "id": "yt-c21-054",
     "thai": "ขับเคลื่อน",
     "english": "to drive, to propel, to move forward",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -179450,7 +179450,7 @@
     "id": "yt-c21-059",
     "thai": "เยี่ยมเยือน",
     "english": "to pay a visit, to visit (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -179477,7 +179477,7 @@
     "id": "yt-c21-060",
     "thai": "สะเทือนใจ",
     "english": "heartbreaking, deeply moved, emotionally shaken (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "heartbreaking, deeply moved, emotionally shaken (formal)",
@@ -179606,7 +179606,7 @@
     "id": "yt-c21-067",
     "thai": "รื่นเริง",
     "english": "cheerful, joyful (atmosphere, event)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "cheerful, joyful (atmosphere, event)",
@@ -180568,7 +180568,7 @@
     "id": "yt-c22-002",
     "thai": "อะลุ่มอล่วย",
     "english": "lenient, accommodating, to compromise",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -180622,7 +180622,7 @@
     "id": "yt-c22-005",
     "thai": "คาดคะเน",
     "english": "to estimate, to predict, to infer",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -181108,7 +181108,7 @@
     "id": "yt-c22-024",
     "thai": "ประปราย",
     "english": "sporadic",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -181520,7 +181520,7 @@
     "id": "yt-c22-039",
     "thai": "แถลง",
     "english": "to announce, to declare, to make a statement",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -181844,7 +181844,7 @@
     "id": "yt-c22-053",
     "thai": "ฉ้อฉล",
     "english": "fraudulent, corrupt",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "fraudulent, corrupt",
@@ -181871,7 +181871,7 @@
     "id": "new-8",
     "thai": "ฉ้อโกง",
     "english": "to defraud, to scam, to cheat someone (e.g out of money or property)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to defraud, to scam, to cheat someone (e.g out of money or property)",
@@ -181898,7 +181898,7 @@
     "id": "yt-c22-054",
     "thai": "คดีแพ่ง - คดีอาญา",
     "english": "civil case - criminal case",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "civil case - criminal case",
@@ -182303,7 +182303,7 @@
     "id": "yt-c22-070",
     "thai": "ความเสถียร",
     "english": "stability, steadiness",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -182735,7 +182735,7 @@
     "id": "yt-c22-084",
     "thai": "ประคับประคอง",
     "english": "to sustain, to maintain, to support something so it does not worsen or collapse",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -184530,7 +184530,7 @@
     "id": "wlt-c01-035",
     "thai": "เข้าใจผิด",
     "english": "to misunderstand",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -187958,7 +187958,7 @@
     "id": "wlt-c03-009",
     "thai": "ในไม่ช้า",
     "english": "soon, shortly",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "soon, shortly",
@@ -188315,7 +188315,7 @@
     "id": "wlt-c03-029",
     "thai": "ใบอนุญาตขับขี่",
     "english": "driver's license (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "driver's license (formal)",
@@ -188979,7 +188979,7 @@
     "id": "wlt-c03-071",
     "thai": "ภายหลัง",
     "english": "later, afterward (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "later, afterward (formal)",
@@ -192673,7 +192673,7 @@
     "id": "wlt-c05-060",
     "thai": "แก้ไขเพิ่มเติม",
     "english": "to amend, to revise",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -193715,7 +193715,7 @@
     "id": "wlt-c06-011",
     "thai": "คำนึง, คำนึงถึง",
     "english": "to think deeply, to take into consideration",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -193987,7 +193987,7 @@
     "id": "wlt-c06-023",
     "thai": "งาม",
     "english": "beautiful, good-looking, pretty",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -194149,7 +194149,7 @@
     "id": "wlt-c06-031",
     "thai": "จัดหา",
     "english": "to procure, to provide, to acquire",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -200102,7 +200102,7 @@
     "id": "wlt-c08-098",
     "thai": "ลาก่อน",
     "english": "goodbye, farewell",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "audio_src": "ลาก่อน",
@@ -200461,7 +200461,7 @@
     "id": "wlt-c09-012",
     "thai": "วัตถุประสงค์",
     "english": "objective, purpose, goal",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -200571,7 +200571,7 @@
     "id": "wlt-c09-016",
     "thai": "วิชาชีพ",
     "english": "vocation, profession, occupation",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -200787,7 +200787,7 @@
     "id": "wlt-c09-028",
     "thai": "สนทนา",
     "english": "to converse, to have a conversation",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -202251,7 +202251,7 @@
     "id": "wlt-c09-089",
     "thai": "อ้างถึง, อ้างอิง",
     "english": "to refer to, to cite, to quote",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -202500,7 +202500,7 @@
     "id": "wlt-c10-000",
     "thai": "เอกอัครราชทูต",
     "english": "ambassador (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "ambassador (formal)",
@@ -202909,7 +202909,7 @@
     "id": "wlt-c10-019",
     "thai": "ขณะนี้",
     "english": "currently, at the moment",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "currently, at the moment",
@@ -205144,7 +205144,7 @@
     "id": "wlt-c11-012",
     "thai": "นักประพันธ์",
     "english": "writer, author, composer (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "writer, author, composer (formal)",
@@ -205713,7 +205713,7 @@
     "id": "wlt-c11-033",
     "thai": "บุรุษ",
     "english": "man, male",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -206512,7 +206512,7 @@
     "id": "wlt-c11-063",
     "thai": "พาหนะ",
     "english": "vehicle, means of transportation",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "vehicle, means of transportation",
@@ -206568,7 +206568,7 @@
     "id": "wlt-c11-069",
     "thai": "ภัตตาคาร",
     "english": "restaurant (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "restaurant (formal)",
@@ -210971,7 +210971,7 @@
     "id": "wlt-c13-047",
     "thai": "ตั้งใจ",
     "english": "to intend",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -211782,7 +211782,7 @@
     "id": "wlt-c13-093",
     "thai": "แนะนำ",
     "english": "to introduce; to advise, to suggest",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -213975,7 +213975,7 @@
     "id": "wlt-c14-094",
     "thai": "ห้าม",
     "english": "to forbid",
-    "frequency": "common",
+    "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -215542,7 +215542,7 @@
     "id": "wlt-c15-065",
     "thai": "ตลอด",
     "english": "throughout, always, all the time, continually",
-    "frequency": "common",
+    "frequency": "everyday",
     "examples": [
       {
         "meaning": "throughout, always, all the time, continually",
@@ -222000,7 +222000,7 @@
     "id": "wlt-c18-037",
     "thai": "ชานชาลา",
     "english": "platform",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "platform",
@@ -231459,7 +231459,7 @@
     "id": "t4k-c01-052",
     "thai": "ทำการ",
     "english": "to carry out, to perform, to conduct",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -231584,7 +231584,7 @@
     "id": "t4k-c01-058",
     "thai": "ดังนี้",
     "english": "as follows",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "as follows",
@@ -232468,7 +232468,7 @@
     "id": "t4k-c02-017",
     "thai": "สำนัก",
     "english": "office, bureau, institution",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -232549,7 +232549,7 @@
     "id": "t4k-c02-020",
     "thai": "ห่างไกล",
     "english": "far, distant, remote",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -232576,7 +232576,7 @@
     "id": "t4k-c02-021",
     "thai": "จง",
     "english": "must, should, \"you should...\"",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "must, should, \"you should...\"",
@@ -232944,7 +232944,7 @@
     "id": "t4k-c02-041",
     "thai": "ยาวนาน",
     "english": "long-lasting, prolonged",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "long-lasting, prolonged",
@@ -233477,7 +233477,7 @@
     "id": "t4k-c02-069",
     "thai": "ทรัพย์สิน",
     "english": "assets, property, belongings",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "assets, property, belongings",
@@ -233504,7 +233504,7 @@
     "id": "t4k-c02-070",
     "thai": "จัดตั้ง",
     "english": "to establish, to set up",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -233531,7 +233531,7 @@
     "id": "t4k-c02-071",
     "thai": "ก่อให้เกิด",
     "english": "to cause, to give rise to",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -233558,7 +233558,7 @@
     "id": "t4k-c02-072",
     "thai": "กาล",
     "english": "time, era; tense (grammar)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "time, era",
@@ -233602,7 +233602,7 @@
     "id": "t4k-c02-075",
     "thai": "เกรง",
     "english": "to be afraid, to hesitate out of respect or fear (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to be afraid, to hesitate out of respect or fear (formal)",
@@ -233683,7 +233683,7 @@
     "id": "t4k-c02-078",
     "thai": "ผลประโยชน์",
     "english": "benefit, gain, interest",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "benefit, gain, interest",
@@ -234338,7 +234338,7 @@
     "id": "t4k-c03-025",
     "thai": "มติ",
     "english": "resolution, formal decision (e.g in committee, parliament)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "resolution, formal decision (e.g in committee, parliament)",
@@ -234448,7 +234448,7 @@
     "id": "t4k-c03-031",
     "thai": "คำนึง",
     "english": "to take into account, to bear in mind",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -234502,7 +234502,7 @@
     "id": "t4k-c03-033",
     "thai": "ปฏิบัติการ",
     "english": "operation, execution (of a plan, a task)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -234556,7 +234556,7 @@
     "id": "t4k-c03-036",
     "thai": "ผู้บริโภค",
     "english": "consumer",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "consumer",
@@ -234583,7 +234583,7 @@
     "id": "t4k-c03-037",
     "thai": "จัดทำ",
     "english": "to prepare, to produce (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -234637,7 +234637,7 @@
     "id": "t4k-c03-040",
     "thai": "ผู้แทน",
     "english": "representative, delegate",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "representative, delegate",
@@ -234718,7 +234718,7 @@
     "id": "t4k-c03-045",
     "thai": "หลักเกณฑ์",
     "english": "criteria, rules, standards",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -234772,7 +234772,7 @@
     "id": "t4k-c03-050",
     "thai": "ข้างต้น",
     "english": "above, aforementioned, abovementioned",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "above, aforementioned, abovementioned",
@@ -234934,7 +234934,7 @@
     "id": "t4k-c03-064",
     "thai": "ครอบครอง",
     "english": "to possess, to own",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -235015,7 +235015,7 @@
     "id": "t4k-c03-073",
     "thai": "กลไก",
     "english": "mechanism, system, machinery",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -235177,7 +235177,7 @@
     "id": "t4k-c03-084",
     "thai": "บัญญัติ",
     "english": "to legislate, to enact (a law, a rule)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to legislate, to enact (a law, a rule)",
@@ -235231,7 +235231,7 @@
     "id": "t4k-c03-086",
     "thai": "กล่าวคือ",
     "english": "in other words, \"that is\", \"that is to say\", \"i.e.\"",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "in other words, \"that is\", \"that is to say\", \"i.e.\"",
@@ -235258,7 +235258,7 @@
     "id": "t4k-c03-087",
     "thai": "ส่วนร่วม",
     "english": "participation, contribution",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -235285,7 +235285,7 @@
     "id": "t4k-c03-090",
     "thai": "รัฐสภา",
     "english": "parliament, congress",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "parliament, congress",
@@ -235312,7 +235312,7 @@
     "id": "t4k-c03-091",
     "thai": "นับแต่, นับตั้งแต่",
     "english": "since, from (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "since, from (formal)",
@@ -235545,7 +235545,7 @@
     "id": "t4k-c04-005",
     "thai": "แต่อย่างใด",
     "english": "at all, whatsoever, in any way",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "at all, whatsoever, in any way",
@@ -235626,7 +235626,7 @@
     "id": "t4k-c04-015",
     "thai": "แก่น",
     "english": "core, kernel, essence",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -235817,7 +235817,7 @@
     "id": "t4k-c04-027",
     "thai": "อำนวย",
     "english": "to grant, to facilitate, to provide",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -235900,7 +235900,7 @@
     "id": "t4k-c04-033",
     "thai": "จำเลย",
     "english": "defendant, accused person (in court)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "defendant, accused person (in court)",
@@ -235956,7 +235956,7 @@
     "id": "t4k-c04-039",
     "thai": "ประมง",
     "english": "fishing, fishery (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "fishing, fishery (formal)",
@@ -235983,7 +235983,7 @@
     "id": "t4k-c04-040",
     "thai": "บัดนี้",
     "english": "now (formal, written)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "now (formal, written)",
@@ -236037,7 +236037,7 @@
     "id": "t4k-c04-045",
     "thai": "เลขาธิการ",
     "english": "secretary general",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -236118,7 +236118,7 @@
     "id": "t4k-c04-051",
     "thai": "วิถี",
     "english": "way, path, manner",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -236442,7 +236442,7 @@
     "id": "t4k-c04-069",
     "thai": "ดวงตา",
     "english": "eye (formal, poetic)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "eye (formal, poetic)",
@@ -236496,7 +236496,7 @@
     "id": "t4k-c04-071",
     "thai": "ดง",
     "english": "dense forest, jungle",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "dense forest, jungle",
@@ -236523,7 +236523,7 @@
     "id": "t4k-c04-072",
     "thai": "จัดสรร",
     "english": "to allocate, to distribute, to assign",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -236550,7 +236550,7 @@
     "id": "t4k-c04-073",
     "thai": "คัดค้าน",
     "english": "to oppose, to protest against",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -236604,7 +236604,7 @@
     "id": "t4k-c04-075",
     "thai": "สูญ",
     "english": "lost, gone, disappeared",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "lost, gone, disappeared",
@@ -236685,7 +236685,7 @@
     "id": "t4k-c04-082",
     "thai": "ยุติ",
     "english": "to terminate, to resolve, to settle (e.g a conflict, a case)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -236712,7 +236712,7 @@
     "id": "t4k-c04-083",
     "thai": "คณะรัฐมนตรี",
     "english": "cabinet, Council of Ministers",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "cabinet, Council of Ministers",
@@ -236739,7 +236739,7 @@
     "id": "t4k-c04-084",
     "thai": "เป็นอย่างยิ่ง",
     "english": "extremely, very much, a lot",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "extremely, very much, a lot",
@@ -236793,7 +236793,7 @@
     "id": "t4k-c04-086",
     "thai": "จำต้อง",
     "english": "must, obliged to, compelled to (formal)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "must, obliged to, compelled to (formal)",
@@ -236901,7 +236901,7 @@
     "id": "t4k-c04-092",
     "thai": "สมรส",
     "english": "to marry, marriage",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to marry, marriage",
@@ -236955,7 +236955,7 @@
     "id": "t4k-c04-095",
     "thai": "เห็นชอบ",
     "english": "to approve, to consent, to endorse",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -237009,7 +237009,7 @@
     "id": "t4k-c04-098",
     "thai": "สหกรณ์",
     "english": "cooperative (organization owned and managed jointly by members)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "cooperative (organization owned and managed jointly by members)",
@@ -237107,7 +237107,7 @@
     "id": "t4k-c05-004",
     "thai": "เมื่อใด",
     "english": "when, whenever (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "when, whenever (formal)",
@@ -237188,7 +237188,7 @@
     "id": "t4k-c05-007",
     "thai": "ข้อสังเกต",
     "english": "observation, remark",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -237455,7 +237455,7 @@
     "id": "t4k-c05-024",
     "thai": "สังกัด",
     "english": "to belong to, to be affiliated with (e.g organization, institution)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -237553,7 +237553,7 @@
     "id": "t4k-c05-031",
     "thai": "ขบวนการ",
     "english": "movement, organization",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -237580,7 +237580,7 @@
     "id": "t4k-c05-032",
     "thai": "อาญา",
     "english": "criminal, penal",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "criminal, penal",
@@ -237877,7 +237877,7 @@
     "id": "t4k-c05-049",
     "thai": "โศก",
     "english": "sorrow, grief, sad, mournful (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "sorrow, grief, sad, mournful (formal)",
@@ -237958,7 +237958,7 @@
     "id": "t4k-c05-053",
     "thai": "ประมวล",
     "english": "to compile, to summarize, to collect (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to compile, to summarize, to collect (formal)",
@@ -238066,7 +238066,7 @@
     "id": "t4k-c05-064",
     "thai": "ปลัด",
     "english": "senior administrative officer (e.g head official under a minister)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "senior administrative officer (e.g head official under a minister)",
@@ -238120,7 +238120,7 @@
     "id": "t4k-c05-066",
     "thai": "รังสี",
     "english": "rays, radiation, beam",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -238309,7 +238309,7 @@
     "id": "t4k-c05-075",
     "thai": "พิพากษา",
     "english": "to judge, to pronounce a verdict",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to judge, to pronounce a verdict",
@@ -238363,7 +238363,7 @@
     "id": "t4k-c05-079",
     "thai": "เคียง",
     "english": "near, beside, alongside, next to",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "near, beside, alongside, next to",
@@ -238417,7 +238417,7 @@
     "id": "t4k-c05-082",
     "thai": "ในขณะนี้",
     "english": "at this present moment, at present (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "at this present moment, at present (formal)",
@@ -238471,7 +238471,7 @@
     "id": "t4k-c05-084",
     "thai": "เพลิง",
     "english": "fire, blaze",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -238498,7 +238498,7 @@
     "id": "t4k-c05-087",
     "thai": "สามัญ",
     "english": "common, basic, ordinary",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -238552,7 +238552,7 @@
     "id": "t4k-c05-090",
     "thai": "คำพิพากษา",
     "english": "court judgment, verdict",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "court judgment, verdict",
@@ -238687,7 +238687,7 @@
     "id": "t4k-c05-099",
     "thai": "ต่อเมื่อ",
     "english": "only if, only when",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "only if, only when",
@@ -238988,7 +238988,7 @@
     "id": "t4k-c06-026",
     "thai": "สำราญ",
     "english": "happy, content, to enjoy oneself (formal)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "happy, content, to enjoy oneself (formal)",
@@ -239015,7 +239015,7 @@
     "id": "t4k-c06-027",
     "thai": "เปล่ง",
     "english": "to emit (sound, light), to radiate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -239042,7 +239042,7 @@
     "id": "t4k-c06-028",
     "thai": "ระดม",
     "english": "to mobilize, to gather, to assemble (e.g people, resources)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -239069,7 +239069,7 @@
     "id": "t4k-c06-029",
     "thai": "โจทก์",
     "english": "plaintiff (party filing a legal case)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "plaintiff (party filing a legal case)",
@@ -239096,7 +239096,7 @@
     "id": "t4k-c06-030",
     "thai": "พิทักษ์",
     "english": "to protect, to defend, to safeguard",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -239123,7 +239123,7 @@
     "id": "t4k-c06-031",
     "thai": "หมดสิ้น",
     "english": "completely finished, exhausted, used up",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "completely finished, exhausted, used up",
@@ -239177,7 +239177,7 @@
     "id": "t4k-c06-034",
     "thai": "แปร",
     "english": "to transform, to alter",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -239285,7 +239285,7 @@
     "id": "t4k-c06-039",
     "thai": "ความเคลื่อนไหว",
     "english": "movement, motion, activity",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -239339,7 +239339,7 @@
     "id": "t4k-c06-042",
     "thai": "ที่ทำการ",
     "english": "administrative office",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -239447,7 +239447,7 @@
     "id": "t4k-c06-049",
     "thai": "ข้อบังคับ",
     "english": "regulation, rule",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "regulation, rule",
@@ -239636,7 +239636,7 @@
     "id": "t4k-c06-061",
     "thai": "เป็นต้นมา",
     "english": "up until now, up to the present",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "up until now, up to the present",
@@ -239825,7 +239825,7 @@
     "id": "t4k-c06-072",
     "thai": "ละเมิด",
     "english": "to violate, to infringe (e.g rules, law) (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to violate, to infringe (e.g rules, law) (formal)",
@@ -239960,7 +239960,7 @@
     "id": "t4k-c06-078",
     "thai": "อุดมการณ์",
     "english": "ideology",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "ideology",
@@ -240257,7 +240257,7 @@
     "id": "t4k-c06-097",
     "thai": "ละเลย",
     "english": "to neglect, to ignore",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -240365,7 +240365,7 @@
     "id": "t4k-c07-002",
     "thai": "ทัศนะ",
     "english": "viewpoint, point of view, stance (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -240473,7 +240473,7 @@
     "id": "t4k-c07-009",
     "thai": "ตกต่ำ",
     "english": "to decline, to deteriorate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -240500,7 +240500,7 @@
     "id": "t4k-c07-011",
     "thai": "ผู้ว่าราชการ",
     "english": "governor",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "governor",
@@ -240608,7 +240608,7 @@
     "id": "t4k-c07-021",
     "thai": "จิตสำนึก",
     "english": "conscience, moral awareness",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "conscience, moral awareness",
@@ -240814,7 +240814,7 @@
     "id": "t4k-c07-033",
     "thai": "จัดวาง",
     "english": "to arrange, to lay out, to place",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -240868,7 +240868,7 @@
     "id": "t4k-c07-036",
     "thai": "กฎเกณฑ์",
     "english": "regulation, norm, standard",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "regulation, norm, standard",
@@ -241084,7 +241084,7 @@
     "id": "t4k-c07-047",
     "thai": "สภาผู้แทนราษฎร",
     "english": "house of representatives (lower house of parliament)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "house of representatives (lower house of parliament)",
@@ -241273,7 +241273,7 @@
     "id": "t4k-c07-058",
     "thai": "นวล",
     "english": "soft, gentle (texture, light); pale (skin tone, color)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -241425,7 +241425,7 @@
     "id": "t4k-c07-065",
     "thai": "สิ่งมีชีวิต",
     "english": "living being, organism",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "living being, organism",
@@ -241506,7 +241506,7 @@
     "id": "t4k-c07-069",
     "thai": "ดังเช่น",
     "english": "such as, like",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "such as, like",
@@ -241533,7 +241533,7 @@
     "id": "t4k-c07-071",
     "thai": "แบบแผน",
     "english": "pattern, model, convention (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "pattern, model, convention (formal)",
@@ -241982,7 +241982,7 @@
     "id": "t4k-c08-003",
     "thai": "นวนิยาย",
     "english": "novel, fiction",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "novel, fiction",
@@ -242009,7 +242009,7 @@
     "id": "t4k-c08-006",
     "thai": "ตัวแปร",
     "english": "variable",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -242063,7 +242063,7 @@
     "id": "t4k-c08-009",
     "thai": "กฎหมายแพ่ง",
     "english": "civil law",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "civil law",
@@ -242090,7 +242090,7 @@
     "id": "t4k-c08-011",
     "thai": "เบื่อหน่าย",
     "english": "bored, weary, fed up (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "bored, weary, fed up (formal)",
@@ -242117,7 +242117,7 @@
     "id": "t4k-c08-012",
     "thai": "เพาะปลูก",
     "english": "to cultivate, to grow crops",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to cultivate, to grow crops",
@@ -242144,7 +242144,7 @@
     "id": "t4k-c08-013",
     "thai": "เลือน",
     "english": "to fade away, to become blurred, to gradually disappear",
-    "frequency": "common",
+    "frequency": "rare",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -242198,7 +242198,7 @@
     "id": "t4k-c08-016",
     "thai": "ขั้นพื้นฐาน",
     "english": "basic level, foundation, introductory",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -242306,7 +242306,7 @@
     "id": "t4k-c08-022",
     "thai": "ได้เสีย",
     "english": "gain and loss, profit and loss",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "gain and loss, profit and loss",
@@ -242470,7 +242470,7 @@
     "id": "t4k-c08-029",
     "thai": "อัยการ",
     "english": "public prosecutor, state attorney",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "public prosecutor, state attorney",
@@ -242605,7 +242605,7 @@
     "id": "t4k-c08-043",
     "thai": "คณะกรรมาธิการ",
     "english": "parliamentary committee",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "parliamentary committee",
@@ -242632,7 +242632,7 @@
     "id": "t4k-c08-044",
     "thai": "ฝ่ายค้าน",
     "english": "opposition (in politics, e.g parliamentary opposition)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "opposition (in politics, e.g parliamentary opposition)",
@@ -242740,7 +242740,7 @@
     "id": "t4k-c08-050",
     "thai": "สิ้นเชิง",
     "english": "completely, entirely",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "completely, entirely",
@@ -242767,7 +242767,7 @@
     "id": "t4k-c08-052",
     "thai": "ทรัพยากรธรรมชาติ",
     "english": "natural resources",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "natural resources",
@@ -242821,7 +242821,7 @@
     "id": "t4k-c08-056",
     "thai": "เป็นต้นไป",
     "english": "onward, from now on",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "onward, from now on",
@@ -242963,7 +242963,7 @@
     "id": "t4k-c08-065",
     "thai": "เท็จ",
     "english": "false, untrue",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -242990,7 +242990,7 @@
     "id": "t4k-c08-066",
     "thai": "ผ่านพ้น",
     "english": "to pass through, to get through, to be over",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243071,7 +243071,7 @@
     "id": "t4k-c08-073",
     "thai": "ตรึง",
     "english": "to fix, to pin, to hold in place",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243206,7 +243206,7 @@
     "id": "t4k-c08-083",
     "thai": "ถ่ายภาพ",
     "english": "to take a photo (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243233,7 +243233,7 @@
     "id": "t4k-c08-084",
     "thai": "ครอบงำ",
     "english": "to control, to dominate, to overpower",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243260,7 +243260,7 @@
     "id": "t4k-c08-085",
     "thai": "ชื่นชอบ",
     "english": "to like, to be fond of (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to like, to be fond of (formal)",
@@ -243341,7 +243341,7 @@
     "id": "t4k-c08-092",
     "thai": "แบ่งแยก",
     "english": "to be divided, to split, to separate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243476,7 +243476,7 @@
     "id": "t4k-c09-000",
     "thai": "แวดล้อม",
     "english": "to surround, surroundings",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243753,7 +243753,7 @@
     "id": "t4k-c09-016",
     "thai": "ตามลำพัง",
     "english": "alone, by oneself",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243807,7 +243807,7 @@
     "id": "t4k-c09-018",
     "thai": "คุณวุฒิ",
     "english": "qualification, academic degree",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -243834,7 +243834,7 @@
     "id": "t4k-c09-020",
     "thai": "เจ้าพนักงาน",
     "english": "public officer, government official",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "public officer, government official",
@@ -243888,7 +243888,7 @@
     "id": "t4k-c09-027",
     "thai": "บอกกล่าว",
     "english": "to inform, to notify",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -244013,7 +244013,7 @@
     "id": "t4k-c09-034",
     "thai": "ดัชนี",
     "english": "index (book, data), indicator",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -244148,7 +244148,7 @@
     "id": "t4k-c09-050",
     "thai": "จุดมุ่งหมาย",
     "english": "aim, objective, purpose",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -244175,7 +244175,7 @@
     "id": "t4k-c09-051",
     "thai": "หวั่นไหว",
     "english": "emotionally shaken, deeply moved (unstable feelings)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "emotionally shaken, deeply moved (unstable feelings)",
@@ -244202,7 +244202,7 @@
     "id": "t4k-c09-053",
     "thai": "นายอำเภอ",
     "english": "district chief, district officer",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -244256,7 +244256,7 @@
     "id": "t4k-c09-057",
     "thai": "ผู้เฒ่า",
     "english": "elder, old person (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "elder, old person (formal)",
@@ -244553,7 +244553,7 @@
     "id": "t4k-c09-080",
     "thai": "อนึ่ง",
     "english": "furthermore, moreover (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "furthermore, moreover (formal)",
@@ -244580,7 +244580,7 @@
     "id": "t4k-c09-081",
     "thai": "แทรกแซง",
     "english": "to intervene",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -244742,7 +244742,7 @@
     "id": "t4k-c09-092",
     "thai": "เร่งรัด",
     "english": "to rush, to speed up, to expedite",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -245073,7 +245073,7 @@
     "id": "t4k-c10-008",
     "thai": "เพิกถอน",
     "english": "to revoke, to withdraw, to cancel (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to revoke, to withdraw, to cancel (formal)",
@@ -245100,7 +245100,7 @@
     "id": "t4k-c10-011",
     "thai": "อุทธรณ์",
     "english": "to appeal, appeal",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to appeal, appeal",
@@ -245350,7 +245350,7 @@
     "id": "t4k-c10-023",
     "thai": "ประมวลกฎหมาย",
     "english": "legal code (collection of laws)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "legal code (collection of laws)",
@@ -245431,7 +245431,7 @@
     "id": "t4k-c10-026",
     "thai": "ผนวก",
     "english": "to append, to annex, to incorporate",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -245512,7 +245512,7 @@
     "id": "t4k-c10-031",
     "thai": "เบื้องหน้า",
     "english": "in front (formal)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "in front (formal)",
@@ -246036,7 +246036,7 @@
     "id": "t4k-c10-065",
     "thai": "มัธยมศึกษา",
     "english": "secondary education",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -246063,7 +246063,7 @@
     "id": "t4k-c10-068",
     "thai": "สายน้ำ",
     "english": "stream of water",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "stream of water",
@@ -246306,7 +246306,7 @@
     "id": "t4k-c10-084",
     "thai": "พยุง",
     "english": "to hold up someone or something to prevent falling, to support; (figuratively) to prop up, to sustain",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -246539,7 +246539,7 @@
     "id": "t4k-c11-000",
     "thai": "พลัน",
     "english": "suddenly, immediately and unexpectedly (formal)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "suddenly, immediately and unexpectedly (formal)",
@@ -246691,7 +246691,7 @@
     "id": "t4k-c11-007",
     "thai": "ข้อกำหนด",
     "english": "regulation, specification",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "regulation, specification",
@@ -246718,7 +246718,7 @@
     "id": "t4k-c11-009",
     "thai": "ข้อเรียกร้อง",
     "english": "demand, claim, request (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "demand, claim, request (formal)",
@@ -246772,7 +246772,7 @@
     "id": "t4k-c11-011",
     "thai": "คำร้อง",
     "english": "petition; request",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "petition",
@@ -246924,7 +246924,7 @@
     "id": "t4k-c11-020",
     "thai": "สาธารณรัฐ",
     "english": "republic",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "republic",
@@ -247005,7 +247005,7 @@
     "id": "t4k-c11-024",
     "thai": "ปีงบประมาณ",
     "english": "fiscal year",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "fiscal year",
@@ -247032,7 +247032,7 @@
     "id": "t4k-c11-025",
     "thai": "โมฆะ",
     "english": "void, null, invalid (formal, legal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "void, null, invalid (formal, legal)",
@@ -247059,7 +247059,7 @@
     "id": "t4k-c11-028",
     "thai": "บ่งชี้",
     "english": "to indicate, to point out",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -247157,7 +247157,7 @@
     "id": "t4k-c11-034",
     "thai": "ทรุด",
     "english": "to sink, to subside, to collapse",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -247321,7 +247321,7 @@
     "id": "t4k-c11-044",
     "thai": "ข้อพิพาท",
     "english": "dispute, conflict, point of contention, disagreement (formal)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "dispute, conflict, point of contention, disagreement (formal)",
@@ -247348,7 +247348,7 @@
     "id": "t4k-c11-045",
     "thai": "หัวหน้าพรรค",
     "english": "party leader",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "party leader",
@@ -247375,7 +247375,7 @@
     "id": "t4k-c11-051",
     "thai": "โยกย้าย",
     "english": "to relocate, to transfer, to shift from one place to another",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -247537,7 +247537,7 @@
     "id": "t4k-c11-060",
     "thai": "กดขี่",
     "english": "to oppress, to repress",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -247564,7 +247564,7 @@
     "id": "t4k-c11-068",
     "thai": "กรรมสิทธิ์",
     "english": "ownership",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "ownership",
@@ -247780,7 +247780,7 @@
     "id": "t4k-c11-079",
     "thai": "แผนงาน",
     "english": "work plan, project plan",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -247861,7 +247861,7 @@
     "id": "t4k-c11-084",
     "thai": "มหาอำนาจ",
     "english": "great power, superpower (e.g country)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "great power, superpower (e.g country)",
@@ -247969,7 +247969,7 @@
     "id": "t4k-c11-093",
     "thai": "สายลม",
     "english": "breeze, wind (literary)",
-    "frequency": "common",
+    "frequency": "rare",
     "examples": [
       {
         "meaning": "breeze, wind (literary)",
@@ -248077,7 +248077,7 @@
     "id": "t4k-c11-102",
     "thai": "สหภาพ",
     "english": "union, federation",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "union, federation",
@@ -248185,7 +248185,7 @@
     "id": "t4k-c11-107",
     "thai": "พรรณนา",
     "english": "to depict, to portray, to describe in detail",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -248376,7 +248376,7 @@
     "id": "t4k-c11-118",
     "thai": "ผู้ส่งออก",
     "english": "exporter",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "exporter",
@@ -248484,7 +248484,7 @@
     "id": "t4k-c11-125",
     "thai": "ประถมศึกษา",
     "english": "primary education",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -251755,7 +251755,7 @@
     "id": "exd-103",
     "thai": "สถานีขนส่ง",
     "english": "bus station, passenger terminal",
-    "frequency": "common",
+    "frequency": "occasional",
     "audio": true,
     "audio_en": true,
     "examples": [
@@ -252052,7 +252052,7 @@
     "id": "manual-002",
     "thai": "การเกษตร",
     "english": "agriculture (activity, process)",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "agriculture (activity, process)",
@@ -252761,7 +252761,7 @@
     "id": "new-77",
     "thai": "เคลื่อนไหว",
     "english": "to move, to be in motion",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to move, to be in motion",
@@ -252869,7 +252869,7 @@
     "id": "new-81",
     "thai": "เผชิญ",
     "english": "to face, to confront",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to face, to confront",
@@ -252923,7 +252923,7 @@
     "id": "new-83",
     "thai": "ใบหน้า",
     "english": "face",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "face",
@@ -252950,7 +252950,7 @@
     "id": "new-84",
     "thai": "ปฏิวัติ",
     "english": "to overthrow, to stage a revolution",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to overthrow, to stage a revolution",
@@ -253372,7 +253372,7 @@
     "id": "new-99",
     "thai": "หวาดกลัว",
     "english": "terrified, very frightened",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "terrified, very frightened",
@@ -253534,7 +253534,7 @@
     "id": "new-105",
     "thai": "เคลื่อนย้าย",
     "english": "to displace, to move, to relocate",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to displace, to move, to relocate",
@@ -253615,7 +253615,7 @@
     "id": "new-108",
     "thai": "น้ำหลาก",
     "english": "floodwater, flash flood",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "floodwater, flash flood",
@@ -253642,7 +253642,7 @@
     "id": "new-109",
     "thai": "แวดวง",
     "english": "circle, field, sphere",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "circle, field, sphere",
@@ -253804,7 +253804,7 @@
     "id": "new-115",
     "thai": "โต้แย้ง",
     "english": "to dispute, to argue",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to dispute, to argue",
@@ -253929,7 +253929,7 @@
     "id": "new-119",
     "thai": "ผูกขาด",
     "english": "to monopolize, to have a monopoly",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to monopolize, to have a monopoly",
@@ -253956,7 +253956,7 @@
     "id": "new-120",
     "thai": "เสนอแนะ",
     "english": "to suggest, to recommend",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to suggest, to recommend",
@@ -254064,7 +254064,7 @@
     "id": "new-124",
     "thai": "แถลงข่าว",
     "english": "to give a press statement, to hold a press conference",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to give a press statement, to hold a press conference",
@@ -254145,7 +254145,7 @@
     "id": "new-127",
     "thai": "แกนนำ",
     "english": "leader, key organizor, leading figure",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "leader, key organizor, leading figure",
@@ -254253,7 +254253,7 @@
     "id": "new-131",
     "thai": "ต้านทาน",
     "english": "to resist, to withstand",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to resist, to withstand",
@@ -254496,7 +254496,7 @@
     "id": "new-140",
     "thai": "โฆษก",
     "english": "spokesperson, announcer, broadcaster",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "spokesperson, announcer, broadcaster",
@@ -254523,7 +254523,7 @@
     "id": "new-141",
     "thai": "ชัดแจ้ง",
     "english": "clear, obvious, explicit",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "clear, obvious, explicit",
@@ -254658,7 +254658,7 @@
     "id": "new-146",
     "thai": "คืบหน้า",
     "english": "to make progress, to advance",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to make progress, to advance",
@@ -254901,7 +254901,7 @@
     "id": "new-155",
     "thai": "วิกฤตการณ์",
     "english": "crisis",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "crisis",
@@ -254982,7 +254982,7 @@
     "id": "new-158",
     "thai": "ชักจูง",
     "english": "to persuade, to influence, to lead someone toward something",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to persuade, to influence, to lead someone toward something",
@@ -255198,7 +255198,7 @@
     "id": "new-166",
     "thai": "อดกลั้น",
     "english": "to endure, to tolerate, to restrain oneself",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to endure, to tolerate, to restrain oneself",
@@ -255603,7 +255603,7 @@
     "id": "new-181",
     "thai": "ขัดเกลา",
     "english": "to refine, to polish, to fine-tune",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to refine, to polish, to fine-tune",
@@ -256278,7 +256278,7 @@
     "id": "new-206",
     "thai": "เสมอต้นเสมอปลาย",
     "english": "consistent, the same from start to finish",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "consistent, the same from start to finish",
@@ -256484,7 +256484,7 @@
     "id": "new-213",
     "thai": "หลั่ง",
     "english": "to pour, to flow (bodily fluids), to shed (e.g tears, blood); to ejaculate",
-    "frequency": "common",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "to pour, to flow (bodily fluids), to shed (e.g tears, blood)",
