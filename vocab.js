@@ -313,6 +313,7 @@
   var FREQ_DECKS = [
     { id: "freq-beginner", name: "Beginner", freqs: ["everyday"] },
     { id: "freq-intermediate", name: "Intermediate", freqs: ["common"] },
+    { id: "freq-spoken", name: "Spoken Thai", freqs: ["everyday", "common", "occasional"] },
   ];
   var FREQ_DECK_BY_ID = {};
   FREQ_DECKS.forEach(function (d) { FREQ_DECK_BY_ID[d.id] = d; });
