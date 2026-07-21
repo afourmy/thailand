@@ -113,7 +113,6 @@ Credentials come from `.tts-credentials`. Audio is sharded across 256 folders an
 
 If a generated clip is mispronounced (segmentation or homograph error), see the audio-fixing sections of `CLAUDE.md` (ZWSP hint, `thai_tts` respelling).
 
-## 5. Update the index and commit
+## 5. Commit
 
-1. **Index:** `python3 list_examples.py` regenerates `example_sentences_done.md` (the list of which words now have examples).
-2. **Commit all three repos (never push).** `git add` and `git commit` in the main `thailand` repo (the `vocab.json` and index changes) and in both audio repos `thailand-audio-1` and `thailand-audio-2` (the new clips). Commits stay local until pushed by hand.
+**Commit all three repos (never push).** `git add` and `git commit` in the main `thailand` repo (the `vocab.json` change) and in both audio repos `thailand-audio-1` and `thailand-audio-2` (the new clips). Commits stay local until pushed by hand.
