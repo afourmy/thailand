@@ -38,6 +38,7 @@
     direction: "both",
     listening: false,
     typeMode: false,
+    audioSpeed: 1,
     day: null,
   };
   config.listening = !!config.listening;
@@ -57,6 +58,12 @@
   // to the scheduler so intervals and grade previews use it.
   if (!(config.retention >= 0.7 && config.retention <= 0.95)) config.retention = 0.9;
   window.FSRS.setRetention(config.retention);
+
+  // Playback speed: rate applied to card + example audio (1 = native speed).
+  // Browsers preserve pitch at other rates by default, so slower playback
+  // doesn't distort the voice, just slows the pace.
+  var AUDIO_SPEEDS = [0.5, 0.6, 0.7, 0.8, 0.9, 1];
+  if (AUDIO_SPEEDS.indexOf(config.audioSpeed) === -1) config.audioSpeed = 1;
 
   // Direction filter: which card directions are eligible for the queue and the
   // stat counts. "both" returns the full DIRS list; the others restrict to one.
@@ -209,11 +216,11 @@
       var enSrc = escAttr(exAudioSrc(wordId, mi, si, true));
       html += '<li class="ex-item">' +
         '<div class="ex-line ex-line--th">' +
-          '<button class="ex-play" type="button" data-src="' + thSrc + '" aria-label="Play Thai sentence">' + EX_SPEAKER_SVG + '</button>' +
+          '<button class="ex-play" type="button" data-src="' + thSrc + '" data-lang="th" aria-label="Play Thai sentence">' + EX_SPEAKER_SVG + '</button>' +
           '<span class="ex-th" lang="th">' + esc(s.thai || "") + '</span>' +
         '</div>' +
         '<div class="ex-line ex-line--en">' +
-          '<button class="ex-play" type="button" data-src="' + enSrc + '" aria-label="Play English sentence">' + EX_SPEAKER_SVG + '</button>' +
+          '<button class="ex-play" type="button" data-src="' + enSrc + '" data-lang="en" aria-label="Play English sentence">' + EX_SPEAKER_SVG + '</button>' +
           '<span class="ex-en">' + esc(s.en || "") + '</span>' +
         '</div>' +
       '</li>';
@@ -266,17 +273,17 @@
 
   // Speaker button for the word itself, by explicit src, played through the same
   // example-audio channel as the modal's sentence buttons. "" when absent.
-  function exWordSpeakerBtn(src, label) {
+  function exWordSpeakerBtn(src, label, lang) {
     if (!src) return "";
     return '<button class="ex-play" type="button" data-src="' + escAttr(src) +
-      '" aria-label="' + label + '">' + EX_SPEAKER_SVG + '</button>';
+      '" data-lang="' + lang + '" aria-label="' + label + '">' + EX_SPEAKER_SVG + '</button>';
   }
   // Modal listing a word's example sentences (used when "Show examples" is off).
   // Closes on backdrop click, the ×, or Escape; mirrors the vocabulary page.
   function openExamplesModal(word) {
     stopExAudio();
-    var thSpk = exWordSpeakerBtn(sideAudio(word, true), "Play Thai word");
-    var enSpk = exWordSpeakerBtn(sideAudio(word, false), "Play English word");
+    var thSpk = exWordSpeakerBtn(sideAudio(word, true), "Play Thai word", "th");
+    var enSpk = exWordSpeakerBtn(sideAudio(word, false), "Play English word", "en");
     var backdrop = document.createElement("div");
     backdrop.className = "vocab-modal-backdrop ex-modal-backdrop";
     backdrop.innerHTML =
@@ -317,6 +324,7 @@
     if (!src) return;
     stopExAudio();
     exAudio = new Audio(src);
+    if (btn.getAttribute("data-lang") === "th") exAudio.playbackRate = config.audioSpeed;
     exBtn = btn;
     btn.classList.add("playing");
     exAudio.addEventListener("ended", stopExAudio);
@@ -550,6 +558,7 @@
     var speak = $("fc-speak");
     var frontSrc = sideAudio(word, f.frontThai);
     speak.dataset.src = frontSrc;
+    speak.dataset.lang = f.frontThai ? "th" : "en";
     speak.hidden = !frontSrc;
 
     // Copy: before reveal, copies the visible (front) side; after reveal both
@@ -675,6 +684,7 @@
     var backSrc = sideAudio(info.word, !f2.frontThai);
     var speak = $("fc-speak");
     speak.dataset.src = backSrc;
+    speak.dataset.lang = f2.frontThai ? "en" : "th";
     speak.hidden = !backSrc;
     if (backSrc) playAudio();
 
@@ -754,6 +764,7 @@
     if (!src) return;
     stopAudio();
     currentAudio = new Audio(src);
+    if (speak.dataset.lang === "th") currentAudio.playbackRate = config.audioSpeed;
     speak.classList.add("playing");
     currentAudio.addEventListener("ended", stopAudio);
     // Missing files (none generated yet) reject silently.
@@ -792,6 +803,23 @@
       config.retention = parseFloat(this.value);
       retentionLabel();
       window.FSRS.setRetention(config.retention);
+      saveConfig();
+    });
+
+    var speedRow = $("fc-speed");
+    function speedLabel() {
+      var btns = speedRow.querySelectorAll("button");
+      for (var i = 0; i < btns.length; i++) {
+        var match = parseFloat(btns[i].getAttribute("data-speed")) === config.audioSpeed;
+        btns[i].classList.toggle("active", match);
+      }
+    }
+    speedLabel();
+    speedRow.addEventListener("click", function (e) {
+      var btn = e.target.closest("button[data-speed]");
+      if (!btn) return;
+      config.audioSpeed = parseFloat(btn.getAttribute("data-speed"));
+      speedLabel();
       saveConfig();
     });
 

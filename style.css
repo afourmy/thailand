@@ -2443,6 +2443,30 @@ body[data-thai-font="noto"] .th {
    a single shared width so the column reads as a tidy stack. */
 .fc-setting > .vocab-deck-select { width: 250px; }
 
+/* Playback-speed segmented control: wraps onto its own row if the row runs
+   out of width (long labels, narrow phones) rather than overflowing. */
+#fc-speed-row { flex-wrap: wrap; row-gap: 0.4rem; }
+.fc-speed {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.35rem;
+  margin-left: auto;
+}
+.fc-speed button {
+  padding: 0.3rem 0.6rem;
+  font-family: 'Computer Modern Serif', serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  cursor: pointer;
+  line-height: 1.2;
+}
+.fc-speed button.active { background: var(--accent); color: #fff; }
+
 /* Desired-retention slider + its value readout. */
 .fc-retention {
   display: flex;
@@ -2724,6 +2748,7 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
 [data-theme="dark"] .fc-grade--good { background: rgba(46, 158, 91, 0.20); }
 [data-theme="dark"] .fc-grade--easy { background: rgba(96, 165, 250, 0.16); color: var(--accent); }
 [data-theme="dark"] .fc-stepper button:active { color: #0f172a; }
+[data-theme="dark"] .fc-speed button.active { color: #0f172a; }
 
 /* ── Phone layout ── */
 @media (max-width: 600px) {
