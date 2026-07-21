@@ -858,11 +858,9 @@ thaipod-0926 วิสัยทัศน์ common -> occasional | 'vision, fore
 
 thaipod-0929 ศตวรรษ common -> occasional | 'century' | school and documentary term
 
-
 thaipod-0949 สตรี common -> occasional | 'woman, female (formal)' | formal and news register; speech says ผู้หญิง
 
 thaipod-0977 สละ common -> occasional | 'to give up, to renounce' | formal register (สละสิทธิ์, สละราชสมบัติ)
-
 
 thaipod-1020 สิ่งก่อสร้าง common -> occasional | 'structure, built object' | technical and news term
 
@@ -874,7 +872,6 @@ thaipod-0822 รสชาติ common -> everyday | 'taste, flavor' | food is t
 
 thaipod-1027 สิ้นสุดลง common -> occasional | 'to come to an end' | news and written verb; speech says จบแล้ว/หมดแล้ว
 
-
 thaipod-1045 ส่งผล common -> occasional | 'to affect, to have an effect' | news-analysis verb; speech says ทำให้
 
 thaipod-1046 ส่วนงาน common -> occasional | 'sector, department, division' | corporate and official register
@@ -882,7 +879,6 @@ thaipod-1046 ส่วนงาน common -> occasional | 'sector, department, d
 thaipod-1057 หมู่เกาะ common -> occasional | 'archipelago' | geography and news term
 
 thaipod-1075 หลายต่อหลายครั้ง common -> occasional | 'many times, repeatedly' | written emphatic phrase; speech says หลายครั้ง/บ่อย
-
 
 thaipod-1107 อย่างยิ่ง common -> occasional | 'greatly, extremely' | written and formal-speech intensifier; speech says มากๆ
 
@@ -904,9 +900,6 @@ thaipod-1221 เนื้อที่ common -> occasional | 'area, space (of la
 
 thaipod-1224 เบื้องล่าง common -> occasional | 'below, underneath' | written register; speech says ข้างล่าง
 
-thaipod-1226 เปรียบเสมือน common -> occasional | 'to be comparable to, to be like' | written and speech-making phrase
-
-thaipod-1229 เป็นการลับ common -> occasional | 'in secret, confidentially' | news and formal register
 
 thaipod-1231 เป็นต้น common -> occasional | 'etc., and so on' | written and broadcast list-ender; speech says อะไรพวกนี้
 
@@ -940,37 +933,21 @@ thaipod-1393 ใด common -> occasional | 'any (formal)' | written and legal re
 
 thaipod-1394 ใดๆ common -> occasional | 'any, whatsoever' | legal and document register
 
-thaipod-1397 ในด้าน common -> occasional | 'in the field of, in terms of' | written framing phrase
-
 thaipod-1398 ในตอนต้น common -> occasional | 'at the beginning, initially' | written narration; speech says ตอนแรก
-
-thaipod-1399 ในทางทฤษฎี common -> occasional | 'in theory' | academic and commentary phrase
 
 thaipod-1402 ในอำนาจ common -> occasional | 'in power' | political-news phrase
 
 thaipod-1410 ได้ชื่อว่า common -> occasional | 'to be known as, to be regarded as' | written and news framing
 
-thaipod-1416 ไม่ต่ำกว่า common -> occasional | 'not less than, at least' | statistics and news phrasing; speech says อย่างน้อย
-
-tobo-001 เงินออม common -> occasional | 'savings' | finance and campaign register; speech says เงินเก็บ
 
 tobo-002 การปฏิวัติ common -> occasional | 'revolution' | history and news term
 
-tobo-010 นักลงทุน common -> occasional | 'investor' | business-news noun
-
 tobo-011 การเตรียมการ common -> occasional | 'preparation' | official and report noun; speech says การเตรียมตัว/เตรียม
 
-tobo-039 ฝูงชน common -> occasional | 'crowd' | news noun; speech says คนเยอะ/ฝูงคน
-
-tobo-044 ผลิตภัณฑ์ common -> occasional | 'product' | packaging and business register; speech says ของ/สินค้า
-
-tobo-070 ประธานาธิบดี common -> occasional | 'president (of a country)' | international-news term
 
 thaipod-1367 โดยเฉพาะ common -> everyday | 'especially, particularly' | constant spoken qualifier
 
 tobo-087 โจมตี common -> occasional | 'to attack' | news and military verb; speech says บุก/ทำร้าย/ด่า
-
-tobo-144 ผู้โดยสาร common -> occasional | 'passenger' | announcement and news term; speech says คนนั่ง/ผู้โดยสาร only when formal
 
 tobo-150 จุดประสงค์ common -> occasional | 'purpose, aim' | school and document register; speech says เพื่ออะไร/จุดประสงค์ rarely
 
@@ -981,8 +958,6 @@ tobo-165 ทศวรรษ common -> occasional | 'decade' | news and written t
 tobo-168 เสรีภาพ common -> occasional | 'freedom, liberty' | political and news noun
 
 tobo-175 นักบวช common -> occasional | 'ordained person, monastic' | formal and religious register; speech says พระ/แม่ชี
-
-tobo-258 ปฏิกิริยา common -> occasional | 'reaction' | science and news noun; speech says ท่าที/ปฏิกิริยา rarely
 
 tobo-259 แหล่งที่มา common -> occasional | 'source, origin' | report and citation register
 
@@ -1002,10 +977,6 @@ tobo-314 ความกรุณา common -> occasional | 'compassion, mercy' 
 
 tobo-332 ปรารถนา common -> occasional | 'to wish, to desire' | written and blessing register; speech says อยาก/หวัง
 
-tobo-335 ประสบความสำเร็จ common -> occasional | 'to succeed' | news and formal phrasing; speech says สำเร็จ/ทำได้
-
-tobo-338 พลเมือง common -> occasional | 'citizen' | civics and news noun; speech says ประชาชน/คน
-
 tobo-346 ความบันเทิง common -> occasional | 'entertainment' | media-industry and formal noun
 
 tobo-350 เชิงบวก common -> occasional | 'positive' | written and psychology register; speech says ดี/บวก
@@ -1014,39 +985,15 @@ tobo-351 เชิงลบ common -> occasional | 'negative' | written and psyc
 
 tobo-356 การเป็นสมาชิก common -> occasional | 'membership' | formal and business register
 
-tobo-360 สกุลเงิน common -> occasional | 'currency' | finance and news term
-
-tobo-362 ความรุนแรง common -> occasional | 'violence' | news and policy noun
-
-tobo-364 ปฏิสัมพันธ์ common -> occasional | 'interaction' | academic register
-
-tobo-368 ลำดับความสำคัญ common -> occasional | 'priority' | corporate register
-
-tobo-377 ประสิทธิภาพ common -> occasional | 'efficiency, effectiveness' | business and technical register
 
 tobo-381 ข้อเสนอแนะ common -> occasional | 'feedback, suggestion' | report and official register; speech says คำแนะนำ/ความเห็น
 
-tobo-394 นายกเทศมนตรี common -> occasional | 'mayor' | official title and news term
 
-tobo-402 ภัยพิบัติ common -> occasional | 'disaster' | news-category term
-
-tobo-404 มิตรภาพ common -> occasional | 'friendship' | written and formal noun; speech says เพื่อน/ความเป็นเพื่อน
-
-tobo-405 ผู้อพยพ common -> occasional | 'immigrant, migrant' | news noun
-
-tobo-413 การก่อการร้าย common -> occasional | 'terrorism' | news-category term
-
-tobo-428 ใบอนุญาต common -> occasional | 'license, permit' | official and document register
 
 tobo-430 ตั้งครรภ์ common -> occasional | 'pregnant (formal)' | medical and news register; everyone says ท้อง
 
-tobo-431 ผู้ก่อตั้ง common -> occasional | 'founder' | business-news noun
 
-tobo-432 บรรลุ common -> occasional | 'to achieve, to attain' | formal register (บรรลุข้อตกลง, บรรลุนิติภาวะ)
 
-tobo-439 กบฏ common -> occasional | 'rebel, rebellion' | history and news term
-
-tobo-443 ดึงดูดความสนใจ common -> occasional | 'to attract attention' | written and marketing phrase
 
 tobo-445 มีจริยธรรม common -> occasional | 'ethical' | formal and institutional register
 
@@ -1054,51 +1001,22 @@ tobo-460 การสังเกต common -> occasional | 'observation' | acad
 
 tobo-483 ไม่เกิดผล common -> occasional | 'ineffective, having no result' | written register; speech says ไม่ได้ผล
 
-tobo-493 ความมั่งคั่ง common -> occasional | 'wealth' | finance and written noun; speech says รวย/ความรวย
-
-tobo-496 สุขอนามัย common -> occasional | 'hygiene' | public-health and official register
-
-tobo-517 ประกาศนียบัตร common -> occasional | 'diploma, certificate' | formal document register
-
-yt-c01-005 เฉพาะเจาะจง common -> occasional | 'specific' | written and formal register; speech says เจาะจง/ชัดๆ
-
-yt-c01-008 แบ่งปัน common -> occasional | 'to share with others' | written and campaign register; speech says แบ่ง
-
-yt-c01-024 มลพิษ, มลภาวะ common -> occasional | 'pollution' | news and school term
 
 yt-c01-059 ดำรง common -> occasional | 'to hold (a position), to maintain' | formal register (ดำรงตำแหน่ง)
 
-yt-c01-063 การกุศล common -> occasional | 'charity' | formal and news register
-
 yt-c01-068 ข้อมูลพื้นฐาน common -> occasional | 'basic information' | report and official register
-
-yt-c01-083 ฝึกฝน common -> occasional | 'to practice, to train' | written register; speech says ฝึก/ซ้อม
 
 yt-c02-014 ทรงพลัง common -> occasional | 'powerful, mighty' | written and media adjective
 
-yt-c02-024 นวัตกรรม common -> occasional | 'innovation' | corporate and news noun
-
-yt-c02-028 เคียงข้าง common -> occasional | 'beside, alongside' | song and written register; speech says ข้างๆ
 
 yt-c02-070 ตัวกลาง common -> occasional | 'medium, intermediary' | technical and business term
 
 yt-c02-074 พูดปด common -> occasional | 'to lie, to tell a lie' | formal register; everyone says โกหก
 
-yt-c02-091 อุดมสมบูรณ์ common -> occasional | 'abundant, fertile' | documentary and written adjective
-
-yt-c03-005 จดจำ common -> occasional | 'to remember, to retain in memory' | written register; speech says จำ
-
 yt-c03-011 ความเมตตา common -> occasional | 'compassion, deep kindness' | religious and formal noun
 
-yt-c04-004 กันและกัน common -> occasional | 'each other' | written register; speech just says กัน
-
-yt-c04-005 วิพากษ์, วิพากษ์วิจารณ์ common -> occasional | 'to criticize, to comment' | news and academic register; speech says วิจารณ์/ว่า
 
 yt-c04-021 ความอึดอัดใจ common -> occasional | 'embarrassment, discomfort' | written noun; speech says อึดอัด
-
-yt-c05-060 ก้าวข้าม common -> occasional | 'to get past, to rise above' | motivational and written register
-
-yt-c05-089 ชนชั้น common -> occasional | 'social class, stratum' | academic and news noun
 
 yt-c05-090 ความเต็มใจ common -> occasional | 'willingness, readiness' | written noun; speech says เต็มใจ
 
@@ -1107,8 +1025,6 @@ yt-c06-008 สัมภาระ common -> occasional | 'baggage, luggage' | air
 yt-c06-017 ภาพลักษณ์ common -> occasional | 'public image, reputation' | PR and news noun
 
 yt-c06-025 ความอ่อนโยน common -> occasional | 'gentleness, tenderness' | written and advertising noun
-
-yt-c06-095 ชนชั้นสูง common -> occasional | 'upper class, elite class' | academic and news noun
 
 yt-c07-014 สถานีขนส่งผู้โดยสาร (บขส) common -> occasional | 'passenger bus terminal' | official name; everyone says บขส
 
@@ -1124,10 +1040,6 @@ yt-c07-073 เร่งรีบ common -> occasional | 'rushed, in a hurry' | w
 
 yt-c07-076 ประกอบกัน common -> occasional | 'to combine, to be put together' | written and technical phrasing
 
-yt-c07-082 ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน common -> occasional | 'upper - middle - working class' | academic and commentary set
-
-yt-c08-031 อัตราส่วน common -> occasional | 'ratio' | math and technical term
-
 yt-c08-048 ตอกย้ำ common -> occasional | 'to reinforce, to underscore' | news and commentary verb
 
 yt-c08-058 ธนบัตร common -> occasional | 'banknotes' | banking and official term; everyone says แบงค์
@@ -1138,19 +1050,10 @@ yt-c08-078 สำเนา common -> occasional | 'a copy (of a document)' | off
 
 yt-c09-006 การทุ่มเท common -> occasional | 'dedication, devotion' | written and speech-making noun
 
-yt-c09-008 อคติ common -> occasional | 'prejudice, bias' | written and commentary noun
-
 yt-c09-053 โดยลำพัง common -> occasional | 'alone, by oneself' | written adverb; speech says คนเดียว
 
-yt-c09-084 ชีวิตชีวา common -> occasional | 'lively, full of life' | written and travel-copy noun
-
-yt-c10-017 มั่งคั่ง common -> occasional | 'wealthy, affluent' | written and finance register; speech says รวย
-
-yt-c10-024 ระเบียบวินัย common -> occasional | '(self-)discipline, code of conduct' | school and institutional register
 
 yt-c10-035 ความว่องไว common -> occasional | 'agility, handiness' | written noun; speech says ว่องไว/เร็ว
-
-yt-c10-051 ในทางกลับกัน common -> occasional | 'on the other hand, conversely' | written and commentary connector
 
 yt-c10-052 คุณธรรม common -> occasional | 'moral virtue, ethical values' | school and civics register
 
@@ -1162,11 +1065,7 @@ yt-c11-024 ปะทะ common -> occasional | 'to clash, to collide' | news ver
 
 yt-c11-073 สุขุม common -> occasional | 'calm, composed, level-headed' | written character description
 
-yt-c11-075 ระดมทุน common -> occasional | 'to raise funds, to raise capital' | business-news verb
-
 yt-c11-080 ชะลอ common -> occasional | 'to slow down, to delay' | news and official verb; speech says ช้าลง/เลื่อน
-
-yt-c11-083 กระแสตอบรับ common -> occasional | 'public response, reception' | media and marketing noun
 
 yt-c11-091 พ้อง common -> occasional | 'similar, matching, identical' | written register (คำพ้อง, ชื่อพ้อง)
 
@@ -1174,13 +1073,8 @@ yt-c12-005 กล่าว common -> occasional | 'to say, to state (formal)' | 
 
 yt-c12-008 หิวโหย common -> occasional | 'very hungry, famished (formal)' | written register; speech says หิวมาก
 
-yt-c12-009 เหน็บหนาว common -> occasional | 'bitterly cold, bone-chilling' | written and weather-report register
-
 yt-c12-029 ผลิตผล, ผลผลิต common -> occasional | 'output, yield, product' | agricultural and economic-news term
 
-yt-c12-032 บกพร่อง common -> occasional | 'defective, lacking, flawed' | formal and official register
-
-yt-c12-032b ข้อบกพร่อง common -> occasional | 'defect, flaw' | report and official register
 
 yt-c12-037 พบปะ common -> occasional | 'to meet and socialize' | formal register; speech says เจอ/นัดเจอ
 
@@ -1194,13 +1088,9 @@ yt-c13-053 ราชวงศ์จักรี common -> occasional | 'Chakri d
 
 yt-c14-017 ตระหนี่ common -> occasional | 'stingy (formal)' | written register; speech says งก/ขี้เหนียว
 
-yt-c14-018 คดโกง common -> occasional | 'dishonest, fraudulent (formal)' | written and news register; speech says โกง
-
 yt-c15-013 ส่งสาร common -> occasional | 'to convey a message' | formal and academic register
 
 yt-c15-040 วีรบุรุษ - วีรสตรี common -> occasional | 'hero - heroine' | historical and news register
-
-yt-c15-059 วิจัย common -> occasional | 'to research, to study' | academic register
 
 yt-c15-060 ความเสมอภาค common -> occasional | 'equality (in status, rights)' | civics and legal register
 
@@ -1219,8 +1109,6 @@ yt-c17-020 สภาวะ common -> occasional | 'condition, state' | formal an
 yt-c17-021 เผ่าพันธุ์ common -> occasional | 'race, tribe, species' | academic and documentary noun
 
 yt-c17-045 ประสาทสัมผัส common -> occasional | 'sense (sight, hearing, ...)' | school and technical term
-
-yt-c17-055 อายุขัย common -> occasional | 'lifespan, life expectancy' | science and news term
 
 yt-c17-064 โสโครก common -> occasional | 'extremely dirty, filthy' | written and dated register; speech says สกปรก/เละ
 
@@ -1242,8 +1130,6 @@ yt-c18-020 ประมุข common -> occasional | 'head, chief (of state)' | 
 
 yt-c18-023 วุฒิการศึกษา common -> occasional | 'educational qualification' | HR and form register
 
-yt-c18-028 ลำดับชั้น common -> occasional | 'hierarchy' | academic and organisational register
-
 yt-c18-067 ภัยคุกคาม common -> occasional | 'threat, menace' | news and security register
 
 yt-c18-072 แปลกแยก common -> occasional | 'alienated, socially disconnected' | written and psychology register
@@ -1257,12 +1143,6 @@ yt-c19-030 ขาดตกบกพร่อง common -> occasional | 'lacking,
 yt-c19-076 ผู้ถือหุ้น common -> occasional | 'shareholder' | business-news term
 
 yt-c19-088 โรคติดต่อทางเพศสัมพันธ์ common -> occasional | 'STD (formal)' | medical and public-health register
-
-yt-c20-074 ล่มสลาย common -> occasional | 'to collapse, to fall apart' | news and historical register
-
-yt-c20-076 ลี้ภัย common -> occasional | 'to seek refuge, to seek asylum' | news and legal register
-
-new-7 ผู้ลี้ภัย common -> occasional | 'refugee' | news term
 
 yt-c20-087 บรรจุภัณฑ์ common -> occasional | 'packaging' | business and technical term; speech says กล่อง/ห่อ
 
@@ -1282,11 +1162,7 @@ yt-c22-002 อะลุ่มอล่วย common -> occasional | 'lenient, ac
 
 yt-c22-005 คาดคะเน common -> occasional | 'to estimate, to predict' | written and report verb; speech says เดา/กะ
 
-yt-c22-016 คลาดเคลื่อน common -> occasional | 'inaccurate, slightly off' | report and news adjective; speech says ผิด/ไม่ตรง
-
 yt-c22-024 ประปราย common -> occasional | 'sporadic' | weather-report and written register
-
-yt-c22-037 ระงับ common -> occasional | 'to suppress, to suspend' | official and news verb; speech says หยุด/ห้าม
 
 yt-c22-039 แถลง common -> occasional | 'to announce, to make a statement' | news and official verb
 
@@ -1296,17 +1172,9 @@ new-8 ฉ้อโกง common -> occasional | 'to defraud, to scam' | legal an
 
 yt-c22-054 คดีแพ่ง - คดีอาญา common -> occasional | 'civil case - criminal case' | legal register
 
-yt-c22-065 รัฐประหาร common -> occasional | 'coup d etat' | political-news term
-
 yt-c22-070 ความเสถียร common -> occasional | 'stability, steadiness' | technical register; speech says เสถียร/นิ่ง
 
-yt-c22-074 การผูกขาด common -> occasional | 'monopoly' | economics and news term
-
 yt-c22-084 ประคับประคอง common -> occasional | 'to sustain, to keep from collapsing' | written and news verb
-
-wlt-c02-005 ได้แก่ common -> occasional | 'namely, consisting of' | written and news list connector; speech says ก็คือ/เช่น
-
-wlt-c02-032 ตามธรรมดา common -> occasional | 'normally, usually, as a rule' | written register; speech says ปกติ
 
 wlt-c03-009 ในไม่ช้า common -> occasional | 'soon, shortly' | written and news phrase; speech says เดี๋ยว/อีกไม่นาน
 
@@ -1316,16 +1184,6 @@ wlt-c03-029 ใบอนุญาตขับขี่ common -> occasional | 'd
 
 wlt-c03-071 ภายหลัง common -> occasional | 'later, afterward (formal)' | written and news register; speech says ทีหลัง/หลังจากนั้น
 
-wlt-c04-011 อย่างไร common -> occasional | 'in what way, how?' | written and broadcast form; speech says ยังไง
-
-wlt-c04-043 วิตก common -> occasional | 'to worry, to be anxious' | written register; speech says กังวล/กลุ้ม
-
-wlt-c05-025 อีกด้วย common -> occasional | 'also, as well' | written and news sentence-ender; speech says ด้วย
-
-wlt-c05-036 กระดาษชำระ common -> occasional | 'toilet paper' | packaging and signage term; everyone says ทิชชู่
-
-wlt-c05-053 กำเนิด common -> occasional | 'birth, origin, to originate' | written and documentary register; speech says เกิด
-
 wlt-c05-060 แก้ไขเพิ่มเติม common -> occasional | 'to amend, to revise' | legal and document register
 
 wlt-c06-011 คำนึง, คำนึงถึง common -> occasional | 'to think deeply, to take into consideration' | written and formal register; speech says นึกถึง/คิดถึง
@@ -1333,22 +1191,6 @@ wlt-c06-011 คำนึง, คำนึงถึง common -> occasional | 'to
 wlt-c06-023 งาม common -> occasional | 'beautiful, good-looking' | written and formal register; speech says สวย
 
 wlt-c06-031 จัดหา common -> occasional | 'to procure, to provide' | official and business verb; speech says หามาให้
-
-wlt-c06-046 ชี้แจง common -> occasional | 'to clarify, to explain in detail' | official and news verb; speech says อธิบาย
-
-wlt-c07-055 แนวโน้ม common -> occasional | 'tendency, trend' | news and business noun
-
-wlt-c07-068 ประพฤติ common -> occasional | 'to behave, to conduct oneself (formal)' | official and school register; speech says ทำตัว
-
-wlt-c07-072 ประสบ common -> occasional | 'to face, to encounter' | news verb (ประสบอุบัติเหตุ); speech says เจอ/โดน
-
-wlt-c07-074 ปัจจัย common -> occasional | 'factor' | analysis and news noun; speech says สาเหตุ/เหตุผล
-
-wlt-c08-074 ระบอบ common -> occasional | 'regime' | political-news term
-
-wlt-c08-096 ละอาย common -> occasional | 'ashamed' | written register; speech says อาย
-
-wlt-c08-097 ลักทรัพย์ common -> occasional | 'to steal, theft (legal)' | legal and police register; speech says ขโมย
 
 wlt-c08-098 ลาก่อน common -> occasional | 'goodbye, farewell' | textbook and dramatic register; speech says ไปนะ/บาย
 
@@ -1358,25 +1200,11 @@ wlt-c09-016 วิชาชีพ common -> occasional | 'vocation, profession' 
 
 wlt-c09-028 สนทนา common -> occasional | 'to converse' | formal and textbook register; speech says คุย
 
-wlt-c09-039 สัดส่วน common -> occasional | 'proportion, ratio' | technical and report noun
-
-wlt-c09-070 ห้างสรรพสินค้า common -> occasional | 'shopping mall (formal)' | signage and news form; everyone says ห้าง
-
 wlt-c09-089 อ้างถึง, อ้างอิง common -> occasional | 'to refer to, to cite' | document and academic register
-
-wlt-c09-097 อิสรภาพ common -> occasional | 'freedom' | news and formal noun
 
 wlt-c10-000 เอกอัครราชทูต common -> occasional | 'ambassador (formal)' | diplomatic and news title
 
 wlt-c10-019 ขณะนี้ common -> occasional | 'currently, at the moment' | news-script phrase; speech says ตอนนี้
-
-wlt-c10-020 ขนส่ง common -> occasional | 'to transport (formal)' | logistics and official register; speech says ส่ง
-
-wlt-c10-050 เจริญ common -> occasional | 'to prosper, to develop' | formal and blessing register
-
-wlt-c10-052 ชนบท common -> occasional | 'rural area, countryside' | written and news register; speech says บ้านนอก/ต่างจังหวัด
-
-wlt-c11-005 นโยบาย common -> occasional | 'policy, plan' | government and corporate news term
 
 wlt-c11-012 นักประพันธ์ common -> occasional | 'writer, author (formal)' | literary and formal register; speech says นักเขียน
 
@@ -1385,18 +1213,6 @@ wlt-c11-033 บุรุษ common -> occasional | 'man, male (formal)' | formal
 wlt-c11-063 พาหนะ common -> occasional | 'vehicle, means of transportation' | official register (ยานพาหนะ); speech says รถ
 
 wlt-c11-069 ภัตตาคาร common -> occasional | 'restaurant (formal)' | formal and signage register; speech says ร้านอาหาร
-
-wlt-c11-087 ยากจน common -> occasional | 'destitute, poor' | news and written adjective; speech says จน
-
-wlt-c12-042 สิ้น, สิ้นสุด common -> occasional | 'to end, to come to an end' | formal and news verb; speech says จบ/หมด
-
-wlt-c12-089 กรม common -> occasional | 'department, government agency' | government and news term
-
-wlt-c13-057 ทวีป common -> occasional | 'continent' | school and geography term
-
-wlt-c14-051 รับประทาน common -> occasional | 'to eat (formal)' | formal and menu register; speech says กิน/ทาน
-
-wlt-c14-079 สหรัฐอเมริกา common -> occasional | 'United States of America' | news full form; speech says อเมริกา
 
 wlt-c13-047 ตั้งใจ common -> everyday | 'to intend' | ตั้งใจเรียน, ไม่ได้ตั้งใจ: daily in speech
 
