@@ -1418,8 +1418,6 @@ t4k-c08-022 ได้เสีย common -> rare | 'gain and loss' | written and
 
 t4k-c08-029 อัยการ common -> occasional | 'public prosecutor' | legal and news term
 
-t4k-c08-032 คำปรึกษา common -> occasional | 'advice, guidance' | formal register; speech says คำแนะนำ/ปรึกษา
-
 t4k-c08-043 คณะกรรมาธิการ common -> occasional | 'parliamentary committee' | political-news term
 
 t4k-c08-044 ฝ่ายค้าน common -> occasional | 'opposition (politics)' | political-news term
@@ -1434,11 +1432,7 @@ t4k-c08-065 เท็จ common -> occasional | 'false, untrue' | legal and news
 
 t4k-c08-066 ผ่านพ้น common -> occasional | 'to pass through, to get through' | written and news verb
 
-t4k-c08-069 ประกันภัย common -> occasional | 'insurance' | industry and legal term; speech says ประกัน
-
 t4k-c08-073 ตรึง common -> occasional | 'to fix, to pin, to hold in place' | technical and news verb (ตรึงราคา)
-
-t4k-c08-080 ศุลกากร common -> occasional | 'customs (agency)' | official term
 
 t4k-c08-083 ถ่ายภาพ common -> occasional | 'to take a photo (formal)' | written register; speech says ถ่ายรูป
 
@@ -1468,15 +1462,9 @@ t4k-c09-053 นายอำเภอ common -> occasional | 'district chief' | o
 
 t4k-c09-057 ผู้เฒ่า common -> occasional | 'elder, old person (formal)' | written and documentary register
 
-t4k-c09-071 สิทธิมนุษยชน common -> occasional | 'human rights' | political and news term
-
-t4k-c09-072 รับผิด common -> occasional | 'to take responsibility, to admit fault' | legal register (รับผิดชอบ is the spoken word)
-
 t4k-c09-080 อนึ่ง common -> occasional | 'furthermore, moreover (formal)' | document and news-script connector
 
 t4k-c09-081 แทรกแซง common -> occasional | 'to intervene' | political and economic-news verb
-
-t4k-c09-090 หมายเหตุ common -> occasional | 'note, remark' | document register
 
 t4k-c09-092 เร่งรัด common -> occasional | 'to rush, to expedite' | official and news verb
 
@@ -1488,19 +1476,13 @@ t4k-c10-023 ประมวลกฎหมาย common -> occasional | 'legal c
 
 t4k-c10-026 ผนวก common -> occasional | 'to append, to annex' | formal and document register
 
-t4k-c10-029 ค่าเสียหาย common -> occasional | 'damages' | legal and insurance register
-
 t4k-c10-031 เบื้องหน้า common -> rare | 'in front (formal)' | written register; speech says ข้างหน้า
-
-t4k-c10-051 บทเพลง common -> occasional | 'song, lyrics (formal)' | written and broadcast register; speech says เพลง
 
 t4k-c10-065 มัธยมศึกษา common -> occasional | 'secondary education' | official education term; speech says ม.ต้น/ม.ปลาย
 
 t4k-c10-068 สายน้ำ common -> occasional | 'stream of water' | written and poetic register
 
 t4k-c10-084 พยุง common -> occasional | 'to hold up, to prop up, to sustain' | formal and news verb (พยุงเศรษฐกิจ)
-
-t4k-c10-098 สืบสวน common -> occasional | 'to investigate' | police and news verb
 
 t4k-c11-007 ข้อกำหนด common -> occasional | 'regulation, specification' | official and contract register
 
@@ -1515,8 +1497,6 @@ t4k-c11-024 ปีงบประมาณ common -> occasional | 'fiscal year' 
 t4k-c11-025 โมฆะ common -> occasional | 'void, null, invalid (legal)' | legal register
 
 t4k-c11-028 บ่งชี้ common -> occasional | 'to indicate, to point out' | report and news verb
-
-t4k-c11-030 ตึงเครียด common -> occasional | 'tense, high-pressure' | news register; speech says เครียด
 
 t4k-c11-034 ทรุด common -> occasional | 'to sink, to subside, to collapse' | news and technical verb
 
@@ -1534,23 +1514,15 @@ t4k-c11-068 กรรมสิทธิ์ common -> occasional | 'ownership' | 
 
 t4k-c11-079 แผนงาน common -> occasional | 'work plan, project plan' | official and corporate register
 
-t4k-c11-081 ปัสสาวะ common -> occasional | 'urine, to urinate' | medical and official register; speech says ฉี่
-
 t4k-c11-084 มหาอำนาจ common -> occasional | 'great power, superpower' | international-news term
 
 t4k-c11-102 สหภาพ common -> occasional | 'union, federation' | political and news term
 
-t4k-c11-103 ผู้เยาว์ common -> occasional | 'minor (under legal age)' | legal register
-
 t4k-c11-107 พรรณนา common -> occasional | 'to depict, to describe in detail' | literary and academic register
-
-t4k-c11-112 ชาตินิยม common -> occasional | 'nationalism' | political and academic term
 
 t4k-c11-118 ผู้ส่งออก common -> occasional | 'exporter' | business-news term
 
 t4k-c11-125 ประถมศึกษา common -> occasional | 'primary education' | official education term; speech says ป.1-ป.6
-
-exd-074 แบ่งออกเป็น common -> occasional | 'to be divided into' | written and report phrasing
 
 exd-103 สถานีขนส่ง common -> occasional | 'bus station, passenger terminal' | official name; speech says บขส/ท่ารถ
 
@@ -1562,13 +1534,9 @@ new-77 เคลื่อนไหว common -> occasional | 'to move, to be in 
 
 new-81 เผชิญ common -> occasional | 'to face, to confront' | news and written verb; speech says เจอ/รับมือ
 
-new-82 เผยแพร่ common -> occasional | 'to publish, to disseminate' | news and official verb
-
 new-83 ใบหน้า common -> occasional | 'face' | written and formal register; speech says หน้า
 
 new-84 ปฏิวัติ common -> occasional | 'to overthrow, to stage a revolution' | political and historical term
-
-new-90 กุศล common -> occasional | 'merit, virtue, good deed' | religious and formal register; speech says บุญ
 
 new-99 หวาดกลัว common -> occasional | 'terrified, very frightened' | news and written register; speech says กลัว
 
@@ -1583,8 +1551,6 @@ new-115 โต้แย้ง common -> occasional | 'to dispute, to argue' | fo
 new-119 ผูกขาด common -> occasional | 'to monopolize' | economics and news verb
 
 new-120 เสนอแนะ common -> occasional | 'to suggest, to recommend' | formal and report register; speech says แนะนำ
-
-new-123 บริบท common -> occasional | 'context' | academic and commentary noun
 
 new-124 แถลงข่าว common -> occasional | 'to hold a press conference' | news term
 
@@ -1605,8 +1571,6 @@ new-158 ชักจูง common -> occasional | 'to persuade, to influence' | 
 new-166 อดกลั้น common -> occasional | 'to endure, to restrain oneself' | formal and written register
 
 new-181 ขัดเกลา common -> occasional | 'to refine, to polish' | written and educational register
-
-new-187 อดออม common -> occasional | 'to be thrifty, to save' | campaign and formal register; speech says เก็บเงิน
 
 new-206 เสมอต้นเสมอปลาย common -> occasional | 'consistent from start to finish' | formal and written idiom
 
