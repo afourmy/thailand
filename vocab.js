@@ -78,13 +78,17 @@
   // Suspend control: toggles indefinite suspension on the word. A suspended
   // card stays visible on this page with a soft-red background; the flashcards
   // page skips it. Shared state lives at localStorage["thaiSuspended"].
-  // TRANSIENT (deck-review aid): the suspend button currently copies "<id> <thai>"
-  // to the clipboard instead of suspending (see the handler). Restore aria-label
-  // "Suspend word" / title "Suspend / Unsuspend" when reverting.
-  var SUSPEND_BTN =
-    '<button class="vocab-suspend" type="button" aria-label="Copy card ID + Thai" title="Copy card ID + Thai">' +
-    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><line x1="5.5" y1="5.5" x2="18.5" y2="18.5"/></svg>' +
-    "</button>";
+  // TRANSIENT (frequency-review aid): the suspend button currently opens a
+  // frequency picker instead of suspending (see openFreqPicker + the handler).
+  // Restore aria-label "Suspend word" / title "Suspend / Unsuspend" when reverting.
+  var SUSPEND_SVG =
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><line x1="5.5" y1="5.5" x2="18.5" y2="18.5"/></svg>';
+  function suspendBtnHtml(word) {
+    var marked = freqOverrides[word.id] ? " vocab-freq-set" : "";
+    return '<button class="vocab-suspend' + marked + '" type="button" ' +
+      'aria-label="Set frequency" title="Set frequency (' + escAttr(currentFreq(word)) + ')">' +
+      SUSPEND_SVG + "</button>";
+  }
 
   // Deck add/remove control: rendered only when a custom deck is selected.
   // The .in-deck modifier swaps the visible plus icon for a minus icon.
@@ -286,6 +290,70 @@
     }
   }
 
+  // ── Frequency review overrides (transient review aid) ──────────────────────
+  // The vocab-suspend button opens a picker that records a new frequency for the
+  // word in localStorage, keyed by word id. When the review pass is done, copy
+  // localStorage["thaiFreqOverrides"] and hand it off to update vocab.json.
+  var FREQ_OVERRIDE_KEY = "thaiFreqOverrides";
+  var freqOverrides = (function () {
+    try { return JSON.parse(lsGet(FREQ_OVERRIDE_KEY)) || {}; }
+    catch (e) { return {}; }
+  })();
+  function saveFreqOverrides() { lsSet(FREQ_OVERRIDE_KEY, JSON.stringify(freqOverrides)); }
+  function currentFreq(word) { return freqOverrides[word.id] || word.frequency; }
+
+  // Popup that lets the reviewer pick a new frequency for a word. Choosing the
+  // word's original (vocab.json) frequency clears any override rather than
+  // storing a no-op. Cards whose frequency has been reassigned get the
+  // .vocab-freq-set marker on their suspend button.
+  function openFreqPicker(id, btn) {
+    var existing = document.getElementById("vocab-freq-menu");
+    if (existing) existing.remove(); // any previous menu (also handles toggle-off)
+    var word = words.filter(function (w) { return w.id === id; })[0];
+    if (!word) return;
+    var cur = currentFreq(word);
+
+    var menu = document.createElement("div");
+    menu.id = "vocab-freq-menu";
+    menu.className = "vocab-freq-menu";
+    FREQ_ORDER.forEach(function (level) {
+      var opt = document.createElement("button");
+      opt.type = "button";
+      opt.className = "vocab-freq-opt" + (level === cur ? " is-current" : "");
+      opt.textContent = FREQ_LABEL[level] || level;
+      opt.addEventListener("click", function (ev) {
+        ev.stopPropagation();
+        if (level === word.frequency) delete freqOverrides[id];
+        else freqOverrides[id] = level;
+        saveFreqOverrides();
+        // Reflect the marker on every rendered button for this card (flip mode
+        // renders the tools row several times).
+        var set = !!freqOverrides[id];
+        Array.prototype.forEach.call(document.querySelectorAll(".vocab-suspend"), function (b) {
+          var c = b.closest(".vocab-card");
+          if (c && c.getAttribute("data-id") === id) {
+            b.classList.toggle("vocab-freq-set", set);
+            b.title = "Set frequency (" + level + ")";
+          }
+        });
+        menu.remove();
+      });
+      menu.appendChild(opt);
+    });
+
+    var r = btn.getBoundingClientRect();
+    menu.style.top = (r.bottom + 6) + "px";
+    menu.style.left = Math.max(8, Math.min(r.left, window.innerWidth - 168)) + "px";
+    document.body.appendChild(menu);
+
+    // Dismiss on the next click outside the menu.
+    setTimeout(function () {
+      document.addEventListener("click", function onDoc(ev) {
+        if (!menu.contains(ev.target)) { menu.remove(); document.removeEventListener("click", onDoc); }
+      });
+    }, 0);
+  }
+
   // Suspended-words state (shared with flashcards page). { wordId: true }.
   var SUSPENDED_KEY = "thaiSuspended";
   var suspended = {};
@@ -439,7 +507,7 @@
   }
 
   function toolsHtml(word) {
-    return '<div class="vocab-tools">' + speakerBtn(word) + exBtn(word) + COPY_BTN + SUSPEND_BTN + deckBtnHtml(word) + '</div>';
+    return '<div class="vocab-tools">' + speakerBtn(word) + exBtn(word) + COPY_BTN + suspendBtnHtml(word) + deckBtnHtml(word) + '</div>';
   }
 
   function cardClasses(word, extra) {
@@ -764,10 +832,9 @@
       if (!sCard) return;
       var id = sCard.getAttribute("data-id");
       if (!id) return;
-      // TRANSIENT (deck-review aid): copy "<id> <thai>" to the clipboard instead
-      // of suspending. Delete this block (down to the suspend toggle) to revert.
-      var sWord = words.filter(function (w) { return w.id === id; })[0];
-      copyText(sWord ? id + " " + sWord.thai : id, suspendBtn);
+      // TRANSIENT (frequency-review aid): open a frequency picker instead of
+      // suspending. Delete this block (down to the suspend toggle) to revert.
+      openFreqPicker(id, suspendBtn);
       return;
       // eslint-disable-next-line no-unreachable
       if (suspended[id]) {
@@ -1067,31 +1134,22 @@
 
   // ── Comprehension-coverage dashboard ────────────────────────────────────────
   // Reads the flashcards' FSRS state (shared localStorage, written by the
-  // flashcards page) and shows, per frequency band, how much of that vocabulary
-  // you actually retain. A word counts as "known" once a card reaches a stability
-  // of MATURE_DAYS (recall holds at 3-week+ intervals); "learning" = reviewed but
-  // not yet mature. Either direction (t2e / e2t) counts toward knowing the word.
+  // flashcards page) and shows, per frequency band, how many card sides you
+  // actually retain. Each word is two independent cards — Thai->English (t2e)
+  // and English->Thai (e2t) — and every side is counted on its own: a side is
+  // "known" once its card reaches a stability of MATURE_DAYS (recall holds at
+  // 2-week+ intervals), "learning" once reviewed but not yet mature.
+  // 15 days is just under the initial stability of a first "Easy" (15.69), so
+  // grading a card Easy marks that side learned immediately.
   var FSRS_STATE_KEY = "thaiFsrsState";
-  var MATURE_DAYS = 21;
+  var MATURE_DAYS = 15;
+  var COV_DIRS = ["t2e", "e2t"];
 
   function loadFsrsState() {
     var raw = lsGet(FSRS_STATE_KEY);
     if (!raw) return {};
     try { return JSON.parse(raw) || {}; } catch (e) { return {}; }
   }
-  function wordStability(states, id) {
-    var best = null;
-    ["t2e", "e2t"].forEach(function (dir) {
-      var c = states[id + ":" + dir];
-      if (c && c.stability != null) best = Math.max(best == null ? 0 : best, c.stability);
-    });
-    return best;
-  }
-  function wordSeen(states, id) {
-    var a = states[id + ":t2e"], b = states[id + ":e2t"];
-    return !!((a && a.reps > 0) || (b && b.reps > 0));
-  }
-
   function countUp(el, target) {
     var node = el.firstChild; // numeric text node (the "%" lives in a child span)
     if (target <= 0) { node.nodeValue = "0"; return; }
@@ -1114,10 +1172,13 @@
     words.forEach(function (w) {
       var t = tally[w.frequency];
       if (!t) return;
-      t.total += 1;
-      var stab = wordStability(states, w.id);
-      if (stab != null && stab >= MATURE_DAYS) t.known += 1;
-      else if (wordSeen(states, w.id)) t.learning += 1;
+      COV_DIRS.forEach(function (dir) {
+        t.total += 1; // each direction is its own card, counted separately
+        var c = states[w.id + ":" + dir];
+        var stab = c && c.stability != null ? c.stability : null;
+        if (stab != null && stab >= MATURE_DAYS) t.known += 1;
+        else if (c && c.reps > 0) t.learning += 1;
+      });
     });
 
     var tiers = FREQ_ORDER.map(function (f) {

@@ -1608,6 +1608,41 @@ html[lang="fr"] .en { display: none; }
 .vocab-suspend:hover { opacity: 1; color: #b5482e; border-color: #b5482e; }
 .vocab-suspend svg { width: 14px; height: 14px; }
 
+/* Frequency-review marker: a reassigned card's picker button stays accent-lit. */
+.vocab-suspend.vocab-freq-set,
+.vocab-card:hover .vocab-suspend.vocab-freq-set {
+  opacity: 1;
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Frequency picker popup. */
+.vocab-freq-menu {
+  position: fixed;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  min-width: 160px;
+  padding: 0.3rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
+.vocab-freq-opt {
+  padding: 0.45rem 0.6rem;
+  text-align: left;
+  font-size: 0.9rem;
+  color: var(--text);
+  background: none;
+  border: 0;
+  border-radius: 0.35rem;
+  cursor: pointer;
+}
+.vocab-freq-opt:hover { background: var(--surface-alt); }
+.vocab-freq-opt.is-current { color: var(--accent); font-weight: 700; }
+
 /* Suspended card: soft red background, persistent indicator. */
 .vocab-card--suspended { background: #fbe9e4; border-color: #f0c8bb; }
 .vocab-card--suspended .vocab-suspend {

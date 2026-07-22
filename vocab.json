@@ -126079,12 +126079,12 @@
   {
     "id": "tobo-442",
     "thai": "มหาวิทยาลัย",
-    "english": "university; campus",
+    "english": "university",
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "audio_src": "มหาวิทยาลัย",
-    "audio_en_src": "university; campus",
+    "audio_en_src": "university",
     "examples": [
       {
         "meaning": "university",
@@ -126100,23 +126100,6 @@
             "en": "My kid got into university.",
             "audio_src": "ลูกสอบเข้ามหาวิทยาลัยได้แล้ว",
             "audio_en_src": "My kid got into university."
-          }
-        ]
-      },
-      {
-        "meaning": "campus",
-        "sentences": [
-          {
-            "thai": "ในมหาวิทยาลัยมีร้านกาแฟเยอะ",
-            "en": "There are lots of cafes on campus.",
-            "audio_src": "ในมหาวิทยาลัยมีร้านกาแฟเยอะ",
-            "audio_en_src": "There are lots of cafes on campus."
-          },
-          {
-            "thai": "ขี่จักรยานรอบมหาวิทยาลัย",
-            "en": "Cycling around the campus.",
-            "audio_src": "ขี่จักรยานรอบมหาวิทยาลัย",
-            "audio_en_src": "Cycling around the campus."
           }
         ]
       }
