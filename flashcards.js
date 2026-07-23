@@ -38,7 +38,7 @@
     direction: "both",
     listening: false,
     typeMode: false,
-    audioSpeed: 1,
+    audioSpeed: 0.85,
     day: null,
   };
   config.listening = !!config.listening;
@@ -63,7 +63,7 @@
   // Browsers preserve pitch at other rates by default, so slower playback
   // doesn't distort the voice, just slows the pace.
   var AUDIO_SPEEDS = [0.7, 0.85, 1];
-  if (AUDIO_SPEEDS.indexOf(config.audioSpeed) === -1) config.audioSpeed = 1;
+  if (AUDIO_SPEEDS.indexOf(config.audioSpeed) === -1) config.audioSpeed = 0.85;
 
   // Direction filter: which card directions are eligible for the queue and the
   // stat counts. "both" returns the full DIRS list; the others restrict to one.
