@@ -31476,12 +31476,12 @@
   },
   {
     "id": "tamago-l12-224",
-    "thai": "นั่นแหละที่มัน",
-    "english": "\"that's exactly it\", \"that's precisely it\"",
+    "thai": "นั่นแหละที่มัน...",
+    "english": "\"that's exactly what makes it...\", \"that's the part that's...\"",
     "frequency": "common",
     "examples": [
       {
-        "meaning": "\"that's exactly it\", \"that's precisely it\"",
+        "meaning": "\"that's exactly what makes it...\", \"that's the part that's...\"",
         "sentences": [
           {
             "thai": "นั่นแหละที่มันยาก ต้องอดทนให้มากๆ",
@@ -34053,7 +34053,7 @@
   },
   {
     "id": "tamago-l12-321",
-    "thai": "พุทธศักราช, พ.ศ.",
+    "thai": "พุทธศักราช (พ.ศ.)",
     "english": "Buddhist Era (BE)",
     "frequency": "common",
     "examples": [
@@ -100957,33 +100957,6 @@
     ]
   },
   {
-    "id": "thaipod-0776",
-    "thai": "มากพอๆ กัน",
-    "english": "about equally many, roughly the same amount",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "about equally many, roughly the same amount",
-        "sentences": [
-          {
-            "thai": "คนชอบทั้งสองทีมมากพอๆกัน",
-            "en": "People like both teams about equally.",
-            "audio_src": "คนชอบทั้งสองทีมมากพอๆกัน",
-            "audio_en_src": "People like both teams about equally."
-          },
-          {
-            "thai": "งานสองที่นี้จ่ายเงินมากพอๆกัน",
-            "en": "These two jobs pay about the same.",
-            "audio_src": "งานสองที่นี้จ่ายเงินมากพอๆกัน",
-            "audio_en_src": "These two jobs pay about the same."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "thaipod-0777",
     "thai": "มากมาย",
     "english": "many, plenty, abundant",
@@ -134896,11 +134869,11 @@
   {
     "id": "yt-c03-085",
     "thai": "ด้วยซ้ำ",
-    "english": "even, as well",
+    "english": "even, in fact even (stronger than expected)",
     "frequency": "common",
     "examples": [
       {
-        "meaning": "even, as well",
+        "meaning": "even, in fact even (stronger than expected)",
         "sentences": [
           {
             "thai": "เขาไม่รู้จักฉันด้วยซ้ำ",
@@ -156498,7 +156471,7 @@
   },
   {
     "id": "yt-c12-049",
-    "thai": "(เอา)เสียเลย, (เอา)ซะเลย",
+    "thai": "...เสียเลย, ...ซะเลย",
     "english": "\"go ahead and...\", \"do it completely\", \"do it once and for all\" (conveys impatience, annoyance)",
     "frequency": "common",
     "examples": [
@@ -159543,14 +159516,14 @@
   },
   {
     "id": "yt-c13-063",
-    "thai": "ยัก",
-    "english": "to shrug, to move slightly",
+    "thai": "ยักไหล่",
+    "english": "to shrug",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "to shrug, to move slightly",
+        "meaning": "to shrug",
         "sentences": [
           {
             "thai": "เขายักไหล่เหมือนไม่สนใจ",
@@ -164926,18 +164899,18 @@
   },
   {
     "id": "yt-c15-072",
-    "thai": "นอยอะ",
-    "english": "(slang) expresses quiet sadness, sulking, feeling down, emotionally hurt",
+    "thai": "นอย",
+    "english": "(slang) to feel down, to be bothered or upset; to overthink and get anxious (from English 'paranoid')",
     "frequency": "common",
     "examples": [
       {
-        "meaning": "(slang) expresses quiet sadness, sulking, feeling down, emotionally hurt",
+        "meaning": "(slang) to feel down, to be bothered or upset; to overthink and get anxious (from English 'paranoid')",
         "sentences": [
           {
-            "thai": "โดนเทแล้วนอยอะ",
-            "en": "Got stood up and now I feel down.",
-            "audio_src": "โดนเทแล้วนอยอะ",
-            "audio_en_src": "Got stood up and now I feel down."
+            "thai": "โดนเทแล้วนอยเลย",
+            "en": "Got stood up and now I feel really down.",
+            "audio_src": "โดนเทแล้วนอยเลย",
+            "audio_en_src": "Got stood up and now I feel really down."
           },
           {
             "thai": "เห็นเขาไม่ตอบแชทแล้วนอยอะ",
@@ -174090,33 +174063,6 @@
     ]
   },
   {
-    "id": "yt-c19-039",
-    "thai": "ถ่ายเผื่อ",
-    "english": "to take extra photos for someone (take a serie of photos for someone)",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to take extra photos for someone (take a serie of photos for someone)",
-        "sentences": [
-          {
-            "thai": "ช่วยถ่ายเผื่อหลายรูปให้เลือกด้วยนะ",
-            "en": "Please take extra shots so I have some to choose from.",
-            "audio_src": "ช่วยถ่ายเผื่อหลายรูปให้เลือกด้วยนะ",
-            "audio_en_src": "Please take extra shots so I have some to choose from."
-          },
-          {
-            "thai": "เธอถ่ายเผื่อให้เพื่อนหลายมุม",
-            "en": "She took extra photos for her friend from several angles.",
-            "audio_src": "เธอถ่ายเผื่อให้เพื่อนหลายมุม",
-            "audio_en_src": "She took extra photos for her friend from several angles."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "yt-c19-040",
     "thai": "ประกันชีวิต",
     "english": "life insurance",
@@ -177357,9 +177303,9 @@
         "meaning": "to be disappointed, to fail, to be left empty-handed, to get nothing",
         "sentences": [
           {
-            "thai": "สมัครงานหลายที่แต่กินแห้วทุกที่",
+            "thai": "สมัครงานหลายที่ แต่กินแห้วทุกที่",
             "en": "I applied to a bunch of jobs but came up empty-handed every time.",
-            "audio_src": "สมัครงานหลายที่แต่กินแห้วทุกที่",
+            "audio_src": "สมัครงานหลายที่ แต่กินแห้วทุกที่",
             "audio_en_src": "I applied to a bunch of jobs but came up empty-handed every time."
           },
           {
@@ -179667,33 +179613,6 @@
     ]
   },
   {
-    "id": "yt-c21-070",
-    "thai": "ตะเบ็ง",
-    "english": "to shout, to yell",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to shout, to yell",
-        "sentences": [
-          {
-            "thai": "เขาตะเบ็งเสียงเรียกเพื่อนข้ามถนน",
-            "en": "He yelled out to call his friend across the street.",
-            "audio_src": "เขาตะเบ็งเสียงเรียกเพื่อนข้ามถนน",
-            "audio_en_src": "He yelled out to call his friend across the street."
-          },
-          {
-            "thai": "กองเชียร์ตะเบ็งเสียงเชียร์ทีมตัวเอง",
-            "en": "The fans shouted loudly cheering for their team.",
-            "audio_src": "กองเชียร์ตะเบ็งเสียงเชียร์ทีมตัวเอง",
-            "audio_en_src": "The fans shouted loudly cheering for their team."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "yt-c21-071",
     "thai": "พึมพำ",
     "english": "to mumble",
@@ -179776,7 +179695,7 @@
   },
   {
     "id": "yt-c21-074",
-    "thai": "เหลือบ",
+    "thai": "เหลือบมอง",
     "english": "to glance, to peek quickly (brief or sideway look to be discrete)",
     "frequency": "common",
     "audio": true,
@@ -180307,33 +180226,6 @@
             "en": "Don't give up yet, keep fighting.",
             "audio_src": "อย่าเพิ่งถอดใจ สู้ต่อไป",
             "audio_en_src": "Don't give up yet, keep fighting."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "yt-c21-093",
-    "thai": "ตามนั้น",
-    "english": "\"sounds good\", \"agreed\", \"I'm in\"",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "\"sounds good\", \"agreed\", \"I'm in\"",
-        "sentences": [
-          {
-            "thai": "งั้นเจอกันหกโมงเย็น ตามนั้นนะ",
-            "en": "Then let's meet at 6pm, sound good?",
-            "audio_src": "งั้นเจอกันหกโมงเย็น ตามนั้นนะ",
-            "audio_en_src": "Then let's meet at 6pm, sound good?"
-          },
-          {
-            "thai": "หารกันคนละครึ่ง ตามนั้นเลย",
-            "en": "Split it in half, agreed.",
-            "audio_src": "หารกันคนละครึ่ง ตามนั้นเลย",
-            "audio_en_src": "Split it in half, agreed."
           }
         ]
       }
@@ -181743,33 +181635,6 @@
     "audio_en": true
   },
   {
-    "id": "yt-c22-049",
-    "thai": "สจ๊วต",
-    "english": "steward (male air hostess)",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "steward (male air hostess)",
-        "sentences": [
-          {
-            "thai": "เขาทำงานเป็นสจ๊วตสายการบินนานาชาติ",
-            "en": "He works as a steward for an international airline.",
-            "audio_src": "เขาทำงานเป็นสจ๊วตสายการบินนานาชาติ",
-            "audio_en_src": "He works as a steward for an international airline."
-          },
-          {
-            "thai": "สจ๊วตเสิร์ฟอาหารให้ผู้โดยสาร",
-            "en": "The steward serves food to the passengers.",
-            "audio_src": "สจ๊วตเสิร์ฟอาหารให้ผู้โดยสาร",
-            "audio_en_src": "The steward serves food to the passengers."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "yt-c22-050",
     "thai": "รายจ่าย",
     "english": "expenses",
@@ -182906,11 +182771,11 @@
   {
     "id": "yt-c22-093",
     "thai": "ประมาณหนึ่ง",
-    "english": "roughly, approximately; somewhat, kind of",
+    "english": "to some extent, a fair amount, kind of",
     "frequency": "common",
     "examples": [
       {
-        "meaning": "roughly, approximately",
+        "meaning": "a fair amount, a fair bit",
         "sentences": [
           {
             "thai": "ทำเสร็จไปประมาณหนึ่งแล้ว",
@@ -182927,7 +182792,7 @@
         ]
       },
       {
-        "meaning": "somewhat, kind of",
+        "meaning": "somewhat, to some extent",
         "sentences": [
           {
             "thai": "เรื่องนี้ฉันเข้าใจประมาณหนึ่ง",
@@ -238761,9 +238626,9 @@
         "meaning": "to get older, to grow old",
         "sentences": [
           {
-            "thai": "พอแก่ตัวลงก็เริ่มลืมง่าย",
+            "thai": "พอแก่ตัวไปก็เริ่มลืมง่าย",
             "en": "As you get older, you start to forget things easily.",
-            "audio_src": "พอแก่ตัวลงก็เริ่มลืมง่าย",
+            "audio_src": "พอแก่ตัวไปก็เริ่มลืมง่าย",
             "audio_en_src": "As you get older, you start to forget things easily."
           },
           {

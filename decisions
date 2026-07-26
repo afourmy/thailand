@@ -1,17 +1,182 @@
-'พุทธศักราช, พ.ศ.': should be 'พุทธศักราช (พ.ศ.)' + audio regenerated
-'มากพอๆ กัน': remove card
-'นั่นแหละที่มัน': must be 'นั่นแหละที่มัน...': '"that's exactly it that...", "that's precisely it that..."'
-'ด้วยซ้ำ': this is only used in negative sentences right ? and "as well" is it really a good translation ?
-'ยัก': the two examples are about shoulders. Is it only about shoulders ?
-'(เอา)เสียเลย, (เอา)ซะเลย': should '(เอา)' be '...' instead ? as in something comes before. or is เอา really part of the expression
-'บังเอิญ, เผอิญ': aren't these words fundamentally different ?
-'นอยอะ': does nt make sense, isn't it just 'นอย' ? also the meaning is it really correct ?
-'ถ่ายเผื่อ': meaning is incorrect. it does not specifically mean "for someone else", right ? more like "just in case, if needed"
-'ตามนั้น': the examples don't make any sense. No idea what's an answer. Is this supposed to be a conversation ? It's a single voice so it doesn't make sense.
-"ประมาณหนึ่ง": the translation roughly, approximately is wrong ? the example sentences for it dont even mention these words ?
-"สมัครงานหลายที่แต่กินแห้วทุกที่": this example sentence is pronunced wrong. it is pronunced "สมัครงานหลาย ที่แต่กินแห้วทุกที่" when it should be "สมัครงานหลายที่ แต่กินแห้วทุกที่" because ที่ here means place, it is a noun.
-"ตะเบ็ง": is it "ตะเบ็ง" or "ตะเบ็งเสียง" ? I'm asking because both sentences use ตะเบ็งเสียง.
-"เหลือบ": is it เหลือบ or เหลือบมอง ? both examples use เหลือบมอง ?
-"สจ๊วต": is it supposed to be pronunced like in english ? or is it a different word ?
-"ค่อย": isn't it missing the main meaning in spoken thai: not very, not much ?
-"แก่ตัว": is it แก่ตัว or แก่ตัวลง ? the examples only use แก่ตัวลง ?
+NOTES
+- Word clips have no audio_src provenance, so any headword change needs
+  `gen_audio.py --id X --force --lang both`. Sentence clips self-detect.
+- Parens are stripped before synthesis (speakable(), gen_audio.py:68). "..." is not.
+- Nothing has been changed in vocab.json yet.
+- Gloss rewrites are marked PROPOSE and wait for your OK.
+
+
+1. 'พุทธศักราช, พ.ศ.': should be 'พุทธศักราช (พ.ศ.)' + audio regenerated
+   ANALYSIS: agree, and there is a direct precedent: tamago-l12-077 is already
+   'คริสต์ศักราช (ค.ศ.)'. Consequence to accept: with parens the headword clip
+   drops พ.ศ. entirely and says only พุทธศักราช (exactly what the ค.ศ. card does
+   today). If you want พ.ศ. still audible it needs a thai_tts field.
+   PROPOSE: make the change, accept the shorter clip for consistency, --force regen.
+   YOU: make the change
+
+
+2. 'มากพอๆ กัน': remove card
+   ANALYSIS: agree. It is มาก + พอๆ กัน, and tamago-l12-311 พอๆกัน plus
+   thaipod-0724 พอๆ กับ already cover it.
+   PROPOSE: delete thaipod-0776, and delete its word + example clips from the
+   audio repos.
+   YOU: do it
+
+
+3. 'นั่นแหละที่มัน': must be 'นั่นแหละที่มัน...': '"that's exactly it that...", "that's precisely it that..."'
+   ANALYSIS: agree on the ellipsis, it is an established convention here
+   (ประมาณว่า..., แปลว่า..., 12 cards with trailing "..."). But "that's exactly it
+   that..." is not idiomatic English. The pattern is นั่นแหละที่มัน + adjective,
+   i.e. the thing that makes it (adj).
+   PROPOSE: headword 'นั่นแหละที่มัน...'; gloss to
+   '"that's exactly what makes it...", "that's the part that's..."'
+   YOU: do it 
+
+
+4. 'ด้วยซ้ำ': this is only used in negative sentences right ? and "as well" is it really a good translation ?
+   ANALYSIS: right on both counts, partly. Not negative-only: very common in
+   positive clauses, especially with comparatives (แพงกว่าด้วยซ้ำ,
+   มาก่อนเวลาด้วยซ้ำ). The negative use is just the most frequent. "as well" is
+   wrong: ด้วยซ้ำ is not additive "too", it flags something stronger than expected.
+   PROPOSE: gloss to "even, in fact even (stronger than expected)", drop "as well".
+   Optionally replace example 2 with a clear positive comparative sentence.
+   YOU: do it (just the propose part dont chznge example)
+
+
+5. 'ยัก': the two examples are about shoulders. Is it only about shoulders ?
+   ANALYSIS: not only shoulders (ยักคิ้ว, ยักเอว, ยักย้าย), but bare ยัก is almost
+   never used alone, and it is a homophone of ยักษ์ (giant), so the isolated
+   headword clip is ambiguous.
+   PROPOSE: retitle to 'ยักไหล่' = "to shrug". Both examples already fit, no
+   sentence changes. If you want the eyebrow sense, a separate ยักคิ้ว card.
+   YOU: do the propose part
+
+
+6. '(เอา)เสียเลย, (เอา)ซะเลย': should '(เอา)' be '...' instead ? as in something comes before. or is เอา really part of the expression
+   ANALYSIS: เอา is not part of the expression. The pattern is any verb +
+   เสียเลย/ซะเลย, as in your own two examples (นอนซะเลย, กินให้หมดเสียเลย),
+   neither of which uses เอา.
+   PROPOSE: '...เสียเลย, ...ซะเลย', matching the 7 existing leading-ellipsis
+   headwords. Spoken text does not change (parens were already stripped), so
+   regen is optional here.
+   YOU: do it
+
+
+7. 'บังเอิญ, เผอิญ': aren't these words fundamentally different ?
+   ANALYSIS: no, they are near-synonyms. RID defines เผอิญ as บังเอิญ. เผอิญ is
+   the more colloquial/older variant; บังเอิญ is the general one and also
+   nominalizes (ความบังเอิญ). The real problem is a duplicate: tamago-l12-254
+   บังเอิญ and tamago-l3-215 โดยบังเอิญ already exist.
+   PROPOSE: retitle yt-c13-007 to 'เผอิญ' alone, keep the เผอิญ sentence, replace
+   the บังเอิญ sentence with a second เผอิญ one.
+   YOU: dont do antyhing
+
+
+8. 'นอยอะ': does nt make sense, isn't it just 'นอย' ? also the meaning is it really correct ?
+   ANALYSIS: agree, อะ is just the final particle. Headword should be นอย (also
+   spelled นอยด์). On the meaning: it comes from English "paranoid" and covers
+   feeling down / bothered / insecure / overthinking. "Sulking" is off, that is งอน.
+   PROPOSE: headword 'นอย'; gloss to "(slang) to feel down, to be bothered or
+   upset; to overthink and get anxious (from English 'paranoid')"; keep at least
+   one example with bare นอย.
+   YOU: do it and change example if need be
+
+
+9. 'ถ่ายเผื่อ': meaning is incorrect. it does not specifically mean "for someone else", right ? more like "just in case, if needed"
+   ANALYSIS: right, the core is "spare, just in case". Caveat: V+เผื่อ genuinely
+   does carry a beneficiary sense elsewhere (ซื้อเผื่อเพื่อน), so "for someone
+   else" is not invented, just not the primary reading here. Example 2 makes it
+   explicit with ให้เพื่อน, which shows it is not inherent.
+   PROPOSE: gloss to "to take extra photos (spares, just in case)", optionally
+   "; also for someone else". Separate question: should this card exist at all,
+   since V+เผื่อ is productive (ซื้อเผื่อ, ทำเผื่อ, สั่งเผื่อ) and chula-l4-002 เผื่อ
+   already exists.
+   YOU: remove card
+
+
+10. 'ตามนั้น': the examples don't make any sense. No idea what's an answer. Is this supposed to be a conversation ? It's a single voice so it doesn't make sense.
+   ANALYSIS: the Thai sentences are fine as single-speaker lines. The mismatch is
+   the gloss: "sounds good / agreed / I'm in" frames it as a reply, so you read
+   the examples expecting a second voice. ตามนั้น means "as per that, let's go
+   with that" and works both when closing your own proposal and as a standalone
+   reply. Sentence 1's English "sound good?" also turns a statement into a question.
+   PROPOSE: gloss to "as agreed, let's go with that"; re-translate sentence 1 as a
+   statement. Separately, tamago-l3-494 ตามนี้ is glossed "as agreed, as planned"
+   and now overlaps: the distinction is this (ตามนี้) vs that already said (ตามนั้น).
+   YOU: remove card
+
+
+11. "ประมาณหนึ่ง": the translation roughly, approximately is wrong ? the example sentences for it dont even mention these words ?
+   ANALYSIS: agree, "roughly, approximately" is wrong. That sense belongs to bare
+   ประมาณ (wlt-c21-025), so dropping it leaves no gap. ประมาณหนึ่ง is a degree
+   expression, "to some extent, a fair amount". All four sentences already mean
+   that, which is why none of them read as "approximately".
+   PROPOSE: gloss to "to some extent, a fair amount, kind of"; keep the two
+   meaning blocks but relabel block 1 "a fair amount, a fair bit" (quantity) and
+   block 2 "somewhat, to some extent" (degree), since those two are distinct.
+   YOU: do it
+
+
+12. "สมัครงานหลายที่แต่กินแห้วทุกที่": this example sentence is pronunced wrong. it is pronunced "สมัครงานหลาย ที่แต่กินแห้วทุกที่" when it should be "สมัครงานหลายที่ แต่กินแห้วทุกที่" because ที่ here means place, it is a noun.
+   ANALYSIS: your reading is right, ที่ there is the classifier/noun with หลาย,
+   and the break belongs before แต่. Card is new-11, sentence ex0_1. This is
+   exactly the ZWSP case in CLAUDE.md.
+   PROPOSE: insert U+200B between หลายที่ and แต่, differential-synthesize to
+   confirm the bytes change, whisper + afplay the new clip, then
+   `gen_example_audio.py --id new-11 --lang th`. Needs the venv
+   (faster-whisper, pythainlp) and .tts-credentials. Say the word and I run it.
+   YOU: do it
+
+
+13. "ตะเบ็ง": is it "ตะเบ็ง" or "ตะเบ็งเสียง" ? I'm asking because both sentences use ตะเบ็งเสียง.
+   ANALYSIS: agree. ตะเบ็ง alone is "to strain / force" (RID: เบ่ง) and is
+   essentially not used bare in modern Thai; ตะเบ็งเสียง is the fixed collocation,
+   matching both examples. Also the gloss is weak: "to shout, to yell" is ตะโกน.
+   ตะเบ็งเสียง specifically means straining the voice to its loudest.
+   PROPOSE: headword 'ตะเบ็งเสียง'; gloss to "to shout at the top of one's voice,
+   to strain one's voice"; --force regen.
+   YOU: remove card
+
+
+14. "เหลือบ": is it เหลือบ or เหลือบมอง ? both examples use เหลือบมอง ?
+   ANALYSIS: agree, and stronger than 13: bare เหลือบ is also a horsefly, and an
+   iridescent sheen, so the isolated clip is genuinely ambiguous. The verb
+   normally appears as เหลือบมอง / เหลือบเห็น / เหลือบตา.
+   PROPOSE: headword 'เหลือบมอง', keep both sentences, --force regen. Also the
+   current gloss has "serie" (should be "series") and "discrete" (should be
+   "discreet"): fix or leave, your call.
+   YOU: do it
+
+
+15. "สจ๊วต": is it supposed to be pronunced like in english ? or is it a different word ?
+   ANALYSIS: it is a Thai loanword, pronounced sà-júat, two syllables, not English
+   "steward". So the entry is legitimate; the open question is only whether Azure
+   read the headword as Thai or fell back to something English-sounding. I can
+   afplay the clip and tell you. Separately the gloss "steward (male air hostess)"
+   is self-contradictory in English.
+   PROPOSE: gloss to "male flight attendant". Alternative spelling สจ๊วร์ต exists
+   if you want it as a variant.
+   YOU: remove card
+
+
+16. "ค่อย": isn't it missing the main meaning in spoken thai: not very, not much ?
+   ANALYSIS: this one I disagree with. ค่อย alone never means "not very"; that
+   meaning belongs to ไม่ค่อย, which already has its own card, t4k-c01-042 ไม่ค่อย
+   = "not very, hardly". The two senses on wlt-c13-014 (soft/low; then/only after)
+   are the correct ones for bare ค่อย.
+   PROPOSE: no change.
+   YOU: ok
+
+
+17. "แก่ตัว": is it แก่ตัว or แก่ตัวลง ? the examples only use แก่ตัวลง ?
+   ANALYSIS: weakest of the four collocation cases. Unlike ตะเบ็ง and เหลือบ,
+   แก่ตัว does stand alone (ตอนแก่ตัว, พอแก่ตัวไป); ลง is an aspect marker, not
+   part of the lexeme.
+   PROPOSE: keep the headword 'แก่ตัว' and change one example to a non-ลง form so
+   the card justifies its headword (needs a new sentence + translation, so it
+   needs your OK on wording). If you would rather stay consistent with 13 and 14,
+   retitling to 'แก่ตัวลง' is defensible, just less accurate.
+   YOU: ok do it
+
+
+18.
