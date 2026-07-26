@@ -6987,7 +6987,7 @@
     "id": "chula-l5-107",
     "thai": "มงคล, สิริมงคล",
     "english": "blessed, auspicious",
-    "frequency": "occasional",
+    "frequency": "common",
     "examples": [
       {
         "meaning": "blessed, auspicious",
@@ -15397,33 +15397,6 @@
     "audio_en": true
   },
   {
-    "id": "chula-l5-428",
-    "thai": "ปัง",
-    "english": "amazing, awesome (slang)",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "amazing, awesome (slang)",
-        "sentences": [
-          {
-            "thai": "ลุคนี้ปังมาก",
-            "en": "This look is stunning.",
-            "audio_src": "ลุคนี้ปังมาก",
-            "audio_en_src": "This look is stunning."
-          },
-          {
-            "thai": "เมนูใหม่ร้านนี้ปังสุด",
-            "en": "The new dish here is a total hit.",
-            "audio_src": "เมนูใหม่ร้านนี้ปังสุด",
-            "audio_en_src": "The new dish here is a total hit."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "chula-l5-429",
     "thai": "มัสยิด",
     "english": "mosque",
@@ -15876,7 +15849,7 @@
     "id": "chula-l5-445",
     "thai": "ตอนล่าง - ตอนกลาง - ตอนบน",
     "english": "lower part - central part - upper part",
-    "frequency": "occasional",
+    "frequency": "common",
     "examples": [
       {
         "meaning": "lower part - central part - upper part",
@@ -17890,33 +17863,6 @@
         ]
       }
     ]
-  },
-  {
-    "id": "chula-l6-057",
-    "thai": "ผลผลิต",
-    "english": "output, produce, yield",
-    "frequency": "occasional",
-    "examples": [
-      {
-        "meaning": "output, produce, yield",
-        "sentences": [
-          {
-            "thai": "ปีนี้ผลผลิตข้าวลดลงเพราะภัยแล้ง",
-            "en": "Rice yields dropped this year because of the drought.",
-            "audio_src": "ปีนี้ผลผลิตข้าวลดลงเพราะภัยแล้ง",
-            "audio_en_src": "Rice yields dropped this year because of the drought."
-          },
-          {
-            "thai": "เกษตรกรนำผลผลิตมาขายเองที่ตลาด",
-            "en": "Farmers bring their produce to sell at the market themselves.",
-            "audio_src": "เกษตรกรนำผลผลิตมาขายเองที่ตลาด",
-            "audio_en_src": "Farmers bring their produce to sell at the market themselves."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
   },
   {
     "id": "chula-l6-058",
@@ -20404,33 +20350,6 @@
     "audio_en": true
   },
   {
-    "id": "chula-l6-151",
-    "thai": "ตำ",
-    "english": "to pound (with pestle and mortar)",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "to pound (with pestle and mortar)",
-        "sentences": [
-          {
-            "thai": "แม่ตำน้ำพริกในครก",
-            "en": "Mom pounds chili paste in the mortar.",
-            "audio_src": "แม่ตำน้ำพริกในครก",
-            "audio_en_src": "Mom pounds chili paste in the mortar."
-          },
-          {
-            "thai": "ตำกระเทียมกับพริกให้ละเอียด",
-            "en": "Pound the garlic and chilies until fine.",
-            "audio_src": "ตำกระเทียมกับพริกให้ละเอียด",
-            "audio_en_src": "Pound the garlic and chilies until fine."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "chula-l6-152",
     "thai": "พอก",
     "english": "to apply as a paste (e.g on body)",
@@ -22861,7 +22780,7 @@
   {
     "id": "chula-l6-239",
     "thai": "คน",
-    "english": "person; to stir (food)",
+    "english": "person",
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
@@ -22882,23 +22801,6 @@
             "en": "This shop is really crowded.",
             "audio_src": "ร้านนี้คนเยอะมาก",
             "audio_en_src": "This shop is really crowded."
-          }
-        ]
-      },
-      {
-        "meaning": "to stir (food)",
-        "sentences": [
-          {
-            "thai": "ช่วยคนซุปหน่อย",
-            "en": "Please stir the soup.",
-            "audio_src": "ช่วยคนซุปหน่อย",
-            "audio_en_src": "Please stir the soup."
-          },
-          {
-            "thai": "คนให้เข้ากันก่อนกิน",
-            "en": "Stir it well before eating.",
-            "audio_src": "คนให้เข้ากันก่อนกิน",
-            "audio_en_src": "Stir it well before eating."
           }
         ]
       }
@@ -45421,35 +45323,6 @@
     ]
   },
   {
-    "id": "tamago-l3-035",
-    "thai": "โปรด",
-    "english": "favorite",
-    "frequency": "everyday",
-    "audio": true,
-    "audio_en": true,
-    "audio_src": "โปรด",
-    "audio_en_src": "favorite",
-    "examples": [
-      {
-        "meaning": "favorite",
-        "sentences": [
-          {
-            "thai": "นี่คือร้านโปรดของฉัน",
-            "en": "This is my favorite restaurant.",
-            "audio_src": "นี่คือร้านโปรดของฉัน",
-            "audio_en_src": "This is my favorite restaurant."
-          },
-          {
-            "thai": "เพลงโปรดของเขาคือเพลงนี้",
-            "en": "This is his favorite song.",
-            "audio_src": "เพลงโปรดของเขาคือเพลงนี้",
-            "audio_en_src": "This is his favorite song."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "tamago-l3-036",
     "thai": "คุ้น, คุ้นเคย, คุ้นชิน",
     "english": "familiar, recognizable; to be familiar with, used to",
@@ -53687,9 +53560,9 @@
   },
   {
     "id": "tamago-l3-345",
-    "thai": "ช่างมันเถอะ, ช่างเหอะ",
+    "thai": "ช่างมันเถอะ, ช่างเหอะ, ช่างเถอะ",
     "english": "\"whatever!\", \"never mind\", \"forget about it!\"",
-    "frequency": "everyday",
+    "frequency": "common",
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่างมันเถอะ, ช่างเหอะ",
@@ -53705,10 +53578,16 @@
             "audio_en_src": "Forget it, it's not a big deal."
           },
           {
-            "thai": "เขาไม่มาก็ช่างมันเถอะ",
-            "en": "If he's not coming, then never mind.",
-            "audio_src": "เขาไม่มาก็ช่างมันเถอะ",
-            "audio_en_src": "If he's not coming, then never mind."
+            "thai": "เขาไม่มาก็ช่างเหอะ",
+            "en": "If he doesn't come, whatever.",
+            "audio_src": "เขาไม่มาก็ช่างเหอะ",
+            "audio_en_src": "If he doesn't come, whatever."
+          },
+          {
+            "thai": "ไม่เข้าใจก็ช่างเถอะ ไม่สำคัญหรอก",
+            "en": "If you don't get it, never mind, it's not important.",
+            "audio_src": "ไม่เข้าใจก็ช่างเถอะ ไม่สำคัญหรอก",
+            "audio_en_src": "If you don't get it, never mind, it's not important."
           }
         ]
       }
@@ -54393,33 +54272,6 @@
     ],
     "audio": true,
     "audio_en": true
-  },
-  {
-    "id": "tamago-l3-370",
-    "thai": "โผล่",
-    "english": "to appear, to emerge, to pop up",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to appear, to emerge, to pop up",
-        "sentences": [
-          {
-            "thai": "พระอาทิตย์โผล่พ้นขอบฟ้าตอนเช้า",
-            "en": "The sun emerged over the horizon in the morning.",
-            "audio_src": "พระอาทิตย์โผล่พ้นขอบฟ้าตอนเช้า",
-            "audio_en_src": "The sun emerged over the horizon in the morning."
-          },
-          {
-            "thai": "เขาโผล่มาที่งานโดยไม่มีใครรู้ตัว",
-            "en": "He showed up at the event without anyone realizing.",
-            "audio_src": "เขาโผล่มาที่งานโดยไม่มีใครรู้ตัว",
-            "audio_en_src": "He showed up at the event without anyone realizing."
-          }
-        ]
-      }
-    ]
   },
   {
     "id": "tamago-l3-371",
@@ -57956,33 +57808,6 @@
             "en": "The convenience store is open 24 hours.",
             "audio_src": "ร้านสะดวกซื้อเปิดยี่สิบสี่ชั่วโมง",
             "audio_en_src": "The convenience store is open 24 hours."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "tamago-l3-504",
-    "thai": "พึ่ง, พึ่งพา",
-    "english": "to rely on, to depend on",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to rely on, to depend on",
-        "sentences": [
-          {
-            "thai": "เขาพึ่งพาตัวเองได้ตั้งแต่ยังเด็ก",
-            "en": "He's been able to rely on himself since he was young.",
-            "audio_src": "เขาพึ่งพาตัวเองได้ตั้งแต่ยังเด็ก",
-            "audio_en_src": "He's been able to rely on himself since he was young."
-          },
-          {
-            "thai": "ยามแก่เฒ่าพ่อแม่ต้องพึ่งลูก",
-            "en": "In old age, parents have to depend on their children.",
-            "audio_src": "ยามแก่เฒ่าพ่อแม่ต้องพึ่งลูก",
-            "audio_en_src": "In old age, parents have to depend on their children."
           }
         ]
       }
@@ -67853,29 +67678,12 @@
   },
   {
     "id": "tsl-004",
-    "thai": "สะดุด - สะดุดล้ม",
-    "english": "to trip, to stumble - to trip and fall",
+    "thai": "สะดุดล้ม",
+    "english": "to trip and fall",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
-      {
-        "meaning": "to trip, to stumble",
-        "sentences": [
-          {
-            "thai": "เขาสะดุดก้อนหินแต่ยังทรงตัวไว้ได้",
-            "en": "He tripped on a rock but managed to keep his balance.",
-            "audio_src": "เขาสะดุดก้อนหินแต่ยังทรงตัวไว้ได้",
-            "audio_en_src": "He tripped on a rock but managed to keep his balance."
-          },
-          {
-            "thai": "เดินมืดๆ ระวังสะดุดด้วยนะ",
-            "en": "Walking in the dark, be careful not to trip.",
-            "audio_src": "เดินมืดๆ ระวังสะดุดด้วยนะ",
-            "audio_en_src": "Walking in the dark, be careful not to trip."
-          }
-        ]
-      },
       {
         "meaning": "to trip and fall",
         "sentences": [
@@ -72002,33 +71810,6 @@
     ]
   },
   {
-    "id": "tsl-163",
-    "thai": "สะดุดตา",
-    "english": "eye-catching, striking",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "eye-catching, striking",
-        "sentences": [
-          {
-            "thai": "ป้ายร้านสีสันสดใสสะดุดตาคนเดินผ่าน",
-            "en": "The shop's bright, colorful sign catches the eye of passersby.",
-            "audio_src": "ป้ายร้านสีสันสดใสสะดุดตาคนเดินผ่าน",
-            "audio_en_src": "The shop's bright, colorful sign catches the eye of passersby."
-          },
-          {
-            "thai": "เธอแต่งตัวสะดุดตาจนใครๆ ก็หันมอง",
-            "en": "She dressed so strikingly that everyone turned to look.",
-            "audio_src": "เธอแต่งตัวสะดุดตาจนใครๆ ก็หันมอง",
-            "audio_en_src": "She dressed so strikingly that everyone turned to look."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "tsl-164",
     "thai": "สำรวจ",
     "english": "to survey, to explore, to inspect",
@@ -73403,33 +73184,6 @@
         ]
       }
     ]
-  },
-  {
-    "id": "tsl-218",
-    "thai": "เซ่น",
-    "english": "offerings, sacrifice, to make an offering to spirits or deities",
-    "frequency": "rare",
-    "examples": [
-      {
-        "meaning": "offerings, sacrifice, to make an offering to spirits or deities",
-        "sentences": [
-          {
-            "thai": "ชาวบ้านเอาเหล้าขาวไปเซ่นศาลเจ้าที่",
-            "en": "The villagers offered rice whiskey at the spirit shrine.",
-            "audio_src": "ชาวบ้านเอาเหล้าขาวไปเซ่นศาลเจ้าที่",
-            "audio_en_src": "The villagers offered rice whiskey at the spirit shrine."
-          },
-          {
-            "thai": "ก่อนลงมือสร้างบ้าน ต้องเซ่นไหว้เจ้าที่ก่อน",
-            "en": "Before building a house, you have to make offerings to the guardian spirits.",
-            "audio_src": "ก่อนลงมือสร้างบ้าน ต้องเซ่นไหว้เจ้าที่ก่อน",
-            "audio_en_src": "Before building a house, you have to make offerings to the guardian spirits."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
   },
   {
     "id": "tsl-219",
@@ -76204,33 +75958,6 @@
             "en": "The train began to move out of the platform.",
             "audio_src": "รถไฟเริ่มเคลื่อนออกจากชานชาลา",
             "audio_en_src": "The train began to move out of the platform."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "tsl-328",
-    "thai": "คำนึงถึง",
-    "english": "to take into consideration, to bear in mind",
-    "frequency": "occasional",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to take into consideration, to bear in mind",
-        "sentences": [
-          {
-            "thai": "ก่อนตัดสินใจ ต้องคำนึงถึงผลที่ตามมา",
-            "en": "Before deciding, you have to consider the consequences.",
-            "audio_src": "ก่อนตัดสินใจ ต้องคำนึงถึงผลที่ตามมา",
-            "audio_en_src": "Before deciding, you have to consider the consequences."
-          },
-          {
-            "thai": "เขาคำนึงถึงความรู้สึกของคนอื่นเสมอ",
-            "en": "He always takes others' feelings into consideration.",
-            "audio_src": "เขาคำนึงถึงความรู้สึกของคนอื่นเสมอ",
-            "audio_en_src": "He always takes others' feelings into consideration."
           }
         ]
       }
@@ -82416,30 +82143,13 @@
   {
     "id": "tsl-563",
     "thai": "ฉัน",
-    "english": "I; to eat (monks' usage); like, as",
-    "frequency": "everyday",
+    "english": "to eat (monks' usage); like, as",
+    "frequency": "common",
     "audio": true,
     "audio_en": true,
     "audio_src": "ฉัน",
     "audio_en_src": "I; to eat; like, as",
     "examples": [
-      {
-        "meaning": "I",
-        "sentences": [
-          {
-            "thai": "ฉันชอบกินข้าวเหนียว",
-            "en": "I like eating sticky rice.",
-            "audio_src": "ฉันชอบกินข้าวเหนียว",
-            "audio_en_src": "I like eating sticky rice."
-          },
-          {
-            "thai": "ฉันจะไปด้วยนะ",
-            "en": "I'll come along too.",
-            "audio_src": "ฉันจะไปด้วยนะ",
-            "audio_en_src": "I'll come along too."
-          }
-        ]
-      },
       {
         "meaning": "to eat (monks' usage)",
         "sentences": [
@@ -90575,33 +90285,6 @@
     "audio_en": true
   },
   {
-    "id": "thaipod-0295",
-    "thai": "ช่างเถอะ",
-    "english": "\"forget it\", \"never mind\"",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "\"forget it\", \"never mind\"",
-        "sentences": [
-          {
-            "thai": "ช่างเถอะ ไม่ต้องคิดมาก",
-            "en": "Never mind, don't overthink it.",
-            "audio_src": "ช่างเถอะ ไม่ต้องคิดมาก",
-            "audio_en_src": "Never mind, don't overthink it."
-          },
-          {
-            "thai": "ช่างเถอะ เดี๋ยวฉันทำเอง",
-            "en": "Forget it, I'll just do it myself.",
-            "audio_src": "ช่างเถอะ เดี๋ยวฉันทำเอง",
-            "audio_en_src": "Forget it, I'll just do it myself."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "thaipod-0296",
     "thai": "ช้างเผือก",
     "english": "white (albino) elephant (sacred in Thai culture)",
@@ -90866,33 +90549,6 @@
             "en": "The ceremony begins at nine in the morning.",
             "audio_src": "พิธีเริ่มขึ้น ณ เวลาเก้าโมงเช้า",
             "audio_en_src": "The ceremony begins at nine in the morning."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "thaipod-0312",
-    "thai": "ดอกบัว",
-    "english": "lotus flower",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "lotus flower",
-        "sentences": [
-          {
-            "thai": "เขาถือดอกบัวไปไหว้พระ",
-            "en": "He took a lotus flower to pay respects at the temple.",
-            "audio_src": "เขาถือดอกบัวไปไหว้พระ",
-            "audio_en_src": "He took a lotus flower to pay respects at the temple."
-          },
-          {
-            "thai": "ดอกบัวบานอยู่กลางสระ",
-            "en": "Lotus flowers are blooming in the middle of the pond.",
-            "audio_src": "ดอกบัวบานอยู่กลางสระ",
-            "audio_en_src": "Lotus flowers are blooming in the middle of the pond."
           }
         ]
       }
@@ -91682,60 +91338,6 @@
     ],
     "audio": true,
     "audio_en": true
-  },
-  {
-    "id": "thaipod-0352",
-    "thai": "ตอนบน",
-    "english": "upper part",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "upper part",
-        "sentences": [
-          {
-            "thai": "ตอนบนของภูเขามีหิมะปกคลุม",
-            "en": "The upper part of the mountain is covered with snow.",
-            "audio_src": "ตอนบนของภูเขามีหิมะปกคลุม",
-            "audio_en_src": "The upper part of the mountain is covered with snow."
-          },
-          {
-            "thai": "เก็บของหนักไว้ตอนล่าง ของเบาไว้ตอนบน",
-            "en": "Keep heavy things at the bottom and light things at the top.",
-            "audio_src": "เก็บของหนักไว้ตอนล่าง ของเบาไว้ตอนบน",
-            "audio_en_src": "Keep heavy things at the bottom and light things at the top."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "thaipod-0353",
-    "thai": "ตอนล่าง",
-    "english": "lower part",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "lower part",
-        "sentences": [
-          {
-            "thai": "ตอนล่างของหน้าจอมีปุ่มกดอยู่",
-            "en": "The lower part of the screen has buttons.",
-            "audio_src": "ตอนล่างของหน้าจอมีปุ่มกดอยู่",
-            "audio_en_src": "The lower part of the screen has buttons."
-          },
-          {
-            "thai": "ปลาชอบว่ายอยู่ตอนล่างของบ่อ",
-            "en": "Fish like to swim in the lower part of the pond.",
-            "audio_src": "ปลาชอบว่ายอยู่ตอนล่างของบ่อ",
-            "audio_en_src": "Fish like to swim in the lower part of the pond."
-          }
-        ]
-      }
-    ]
   },
   {
     "id": "thaipod-0354",
@@ -92763,33 +92365,6 @@
             "en": "He goes to the temple to observe the precepts and meditate every New Year.",
             "audio_src": "เขาไปถือศีลปฏิบัติธรรมที่วัดทุกปีใหม่",
             "audio_en_src": "He goes to the temple to observe the precepts and meditate every New Year."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "thaipod-0402",
-    "thai": "ถือได้ว่า",
-    "english": "it can be considered that",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "it can be considered that",
-        "sentences": [
-          {
-            "thai": "ผลงานของเขาถือได้ว่าดีเยี่ยม",
-            "en": "His work can be considered excellent.",
-            "audio_src": "ผลงานของเขาถือได้ว่าดีเยี่ยม",
-            "audio_en_src": "His work can be considered excellent."
-          },
-          {
-            "thai": "วันนี้ถือได้ว่าเป็นวันที่โชคดีที่สุด",
-            "en": "Today can be considered the luckiest day.",
-            "audio_src": "วันนี้ถือได้ว่าเป็นวันที่โชคดีที่สุด",
-            "audio_en_src": "Today can be considered the luckiest day."
           }
         ]
       }
@@ -100132,33 +99707,6 @@
             "en": "The parking area at the mall is full on weekends.",
             "audio_src": "พื้นที่จอดรถในห้างเต็มในวันหยุด",
             "audio_en_src": "The parking area at the mall is full on weekends."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "thaipod-0737",
-    "thai": "พื้นเมือง",
-    "english": "native, indigenous, local",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "native, indigenous, local",
-        "sentences": [
-          {
-            "thai": "การเต้นพื้นเมืองของภาคเหนือสวยงามมาก",
-            "en": "The northern region's folk dance is very beautiful.",
-            "audio_src": "การเต้นพื้นเมืองของภาคเหนือสวยงามมาก",
-            "audio_en_src": "The northern region's folk dance is very beautiful."
-          },
-          {
-            "thai": "พืชพันธุ์พื้นเมืองเหมาะกับสภาพอากาศที่นี่",
-            "en": "Native plant species suit the climate here.",
-            "audio_src": "พืชพันธุ์พื้นเมืองเหมาะกับสภาพอากาศที่นี่",
-            "audio_en_src": "Native plant species suit the climate here."
           }
         ]
       }
@@ -108042,7 +107590,7 @@
   },
   {
     "id": "thaipod-1103",
-    "thai": "อย่างต่อเนื่อง, เรื่อยๆ",
+    "thai": "อย่างต่อเนื่อง",
     "english": "continuously",
     "frequency": "common",
     "examples": [
@@ -108056,10 +107604,10 @@
             "audio_en_src": "It rained continuously all day."
           },
           {
-            "thai": "เขาพัฒนาตัวเองเรื่อยๆ",
-            "en": "He keeps improving himself continuously.",
-            "audio_src": "เขาพัฒนาตัวเองเรื่อยๆ",
-            "audio_en_src": "He keeps improving himself continuously."
+            "thai": "บริษัทเติบโตอย่างต่อเนื่องมาสามปีแล้ว",
+            "en": "The company has grown steadily for three years now.",
+            "audio_src": "บริษัทเติบโตอย่างต่อเนื่องมาสามปีแล้ว",
+            "audio_en_src": "The company has grown steadily for three years now."
           }
         ]
       }
@@ -123795,60 +123343,6 @@
     ]
   },
   {
-    "id": "tobo-350",
-    "thai": "เชิงบวก",
-    "english": "positive",
-    "frequency": "occasional",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "positive",
-        "sentences": [
-          {
-            "thai": "เขามองทุกอย่างในเชิงบวกเสมอ",
-            "en": "He always looks at everything in a positive way.",
-            "audio_src": "เขามองทุกอย่างในเชิงบวกเสมอ",
-            "audio_en_src": "He always looks at everything in a positive way."
-          },
-          {
-            "thai": "คำติชมเชิงบวกช่วยให้เรากำลังใจดีขึ้น",
-            "en": "Positive feedback boosts our morale.",
-            "audio_src": "คำติชมเชิงบวกช่วยให้เรากำลังใจดีขึ้น",
-            "audio_en_src": "Positive feedback boosts our morale."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "tobo-351",
-    "thai": "เชิงลบ",
-    "english": "negative",
-    "frequency": "occasional",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "negative",
-        "sentences": [
-          {
-            "thai": "ความคิดเชิงลบทำให้เราเครียด",
-            "en": "Negative thinking stresses us out.",
-            "audio_src": "ความคิดเชิงลบทำให้เราเครียด",
-            "audio_en_src": "Negative thinking stresses us out."
-          },
-          {
-            "thai": "ข่าวนี้ส่งผลเชิงลบต่อภาพลักษณ์บริษัท",
-            "en": "This news has a negative impact on the company's image.",
-            "audio_src": "ข่าวนี้ส่งผลเชิงลบต่อภาพลักษณ์บริษัท",
-            "audio_en_src": "This news has a negative impact on the company's image."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "tobo-352",
     "thai": "จินตนาการ",
     "english": "imagination",
@@ -128985,33 +128479,6 @@
     "audio_en": true
   },
   {
-    "id": "yt-c01-046",
-    "thai": "ง่ายเหมือนปอกกล้วยเข้าปาก",
-    "english": "very easy, easy as pie (\"easy as peeling a banana\")",
-    "frequency": "occasional",
-    "examples": [
-      {
-        "meaning": "very easy, easy as pie (\"easy as peeling a banana\")",
-        "sentences": [
-          {
-            "thai": "ข้อสอบวันนี้ง่ายเหมือนปอกกล้วยเข้าปาก",
-            "en": "Today's exam was easy as pie.",
-            "audio_src": "ข้อสอบวันนี้ง่ายเหมือนปอกกล้วยเข้าปาก",
-            "audio_en_src": "Today's exam was easy as pie."
-          },
-          {
-            "thai": "สำหรับเขา งานนี้ง่ายเหมือนปอกกล้วยเข้าปาก",
-            "en": "For him, this job is a piece of cake.",
-            "audio_src": "สำหรับเขา งานนี้ง่ายเหมือนปอกกล้วยเข้าปาก",
-            "audio_en_src": "For him, this job is a piece of cake."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "yt-c01-047",
     "thai": "ปิดทองหลังพระ",
     "english": "doing good deeds in secret, without seeking recognition (\"put gold behind Buddha statue\")",
@@ -129211,33 +128678,6 @@
             "en": "Grab the chance while you can; fetch the water while the tide is high.",
             "audio_src": "มีโอกาสก็รีบคว้าไว้ น้ำขึ้นให้รีบตัก",
             "audio_en_src": "Grab the chance while you can; fetch the water while the tide is high."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "yt-c01-057",
-    "thai": "เอาใจเขามาใส่ใจเรา",
-    "english": "to \"put oneself in someone else's shoes\", to empathize with others (\"put his/her heart into our heart\")",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "to \"put oneself in someone else's shoes\", to empathize with others (\"put his/her heart into our heart\")",
-        "sentences": [
-          {
-            "thai": "ก่อนจะว่าใคร ลองเอาใจเขามาใส่ใจเรา",
-            "en": "Before criticizing someone, try putting yourself in their shoes.",
-            "audio_src": "ก่อนจะว่าใคร ลองเอาใจเขามาใส่ใจเรา",
-            "audio_en_src": "Before criticizing someone, try putting yourself in their shoes."
-          },
-          {
-            "thai": "ทำงานบริการต้องรู้จักเอาใจเขามาใส่ใจเรา",
-            "en": "In service work you have to know how to see things from the customer's side.",
-            "audio_src": "ทำงานบริการต้องรู้จักเอาใจเขามาใส่ใจเรา",
-            "audio_en_src": "In service work you have to know how to see things from the customer's side."
           }
         ]
       }
@@ -133029,33 +132469,6 @@
     ]
   },
   {
-    "id": "yt-c03-008",
-    "thai": "ดั่ง, เหมือนดั่ง",
-    "english": "like, just like, as if",
-    "frequency": "rare",
-    "examples": [
-      {
-        "meaning": "like, just like, as if",
-        "sentences": [
-          {
-            "thai": "เธอสวยดั่งนางฟ้า",
-            "en": "She's as beautiful as an angel.",
-            "audio_src": "เธอสวยดั่งนางฟ้า",
-            "audio_en_src": "She's as beautiful as an angel."
-          },
-          {
-            "thai": "ฝันเป็นจริงเหมือนดั่งที่หวังไว้",
-            "en": "The dream came true just as hoped.",
-            "audio_src": "ฝันเป็นจริงเหมือนดั่งที่หวังไว้",
-            "audio_en_src": "The dream came true just as hoped."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "yt-c03-009",
     "thai": "พระอรหันต์",
     "english": "an enlightened monk who has attained Nirvana",
@@ -133461,33 +132874,6 @@
     "audio_en": true
   },
   {
-    "id": "yt-c03-027",
-    "thai": "จับใจความ",
-    "english": "to grasp the main idea, to understand the gist of",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to grasp the main idea, to understand the gist of",
-        "sentences": [
-          {
-            "thai": "อ่านเร็วๆ แล้วจับใจความให้ได้",
-            "en": "Read quickly and try to grasp the main idea.",
-            "audio_src": "อ่านเร็วๆ แล้วจับใจความให้ได้",
-            "audio_en_src": "Read quickly and try to grasp the main idea."
-          },
-          {
-            "thai": "เขาจับใจความของบทความได้ภายในไม่กี่นาที",
-            "en": "He got the gist of the article within a few minutes.",
-            "audio_src": "เขาจับใจความของบทความได้ภายในไม่กี่นาที",
-            "audio_en_src": "He got the gist of the article within a few minutes."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "yt-c03-028",
     "thai": "ปากไม่ตรงกับใจ",
     "english": "to hide one's true feelings, to say something different from what one really feels",
@@ -133516,7 +132902,7 @@
   },
   {
     "id": "yt-c03-029",
-    "thai": "อาศัย, พึ่งพา, พึ่งพาอาศัย",
+    "thai": "พึ่ง, พึ่งพา, พึ่งพาอาศัย",
     "english": "to rely on, to depend on",
     "frequency": "common",
     "audio": true,
@@ -133525,6 +132911,12 @@
       {
         "meaning": "to rely on, to depend on",
         "sentences": [
+          {
+            "thai": "ยามแก่เฒ่าพ่อแม่ต้องพึ่งลูก",
+            "en": "In old age, parents have to depend on their children.",
+            "audio_src": "ยามแก่เฒ่าพ่อแม่ต้องพึ่งลูก",
+            "audio_en_src": "In old age, parents have to depend on their children."
+          },
           {
             "thai": "เด็กเล็กยังต้องพึ่งพาพ่อแม่",
             "en": "Young children still depend on their parents.",
@@ -135504,33 +134896,6 @@
             "en": "Draw lots for who gets to go first.",
             "audio_src": "จับฉลากกันว่าใครได้ไปก่อน",
             "audio_en_src": "Draw lots for who gets to go first."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "yt-c04-009",
-    "thai": "กระสุน, ลูกกระสุน",
-    "english": "bullet",
-    "frequency": "occasional",
-    "examples": [
-      {
-        "meaning": "bullet",
-        "sentences": [
-          {
-            "thai": "เขาโดนกระสุนที่ไหล่",
-            "en": "He took a bullet in the shoulder.",
-            "audio_src": "เขาโดนกระสุนที่ไหล่",
-            "audio_en_src": "He took a bullet in the shoulder."
-          },
-          {
-            "thai": "ตำรวจเก็บลูกกระสุนจากที่เกิดเหตุ",
-            "en": "Police collected bullets from the scene.",
-            "audio_src": "ตำรวจเก็บลูกกระสุนจากที่เกิดเหตุ",
-            "audio_en_src": "Police collected bullets from the scene."
           }
         ]
       }
@@ -138155,7 +137520,7 @@
     "id": "yt-c05-024",
     "thai": "เผ่า, ชนเผ่า",
     "english": "tribe, ethnic group",
-    "frequency": "occasional",
+    "frequency": "common",
     "examples": [
       {
         "meaning": "tribe, ethnic group",
@@ -139636,33 +139001,6 @@
             "en": "Grandma has loved listening to molam since she was young.",
             "audio_src": "ยายชอบฟังหมอลำมาตั้งแต่สาวๆ",
             "audio_en_src": "Grandma has loved listening to molam since she was young."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "yt-c05-085",
-    "thai": "แคน",
-    "english": "traditional Lao - Isan musical instrument made of bamboo pipes",
-    "frequency": "rare",
-    "examples": [
-      {
-        "meaning": "traditional Lao - Isan musical instrument made of bamboo pipes",
-        "sentences": [
-          {
-            "thai": "เสียงแคนดังมาจากงานบุญ",
-            "en": "You could hear the khaen from the village festival.",
-            "audio_src": "เสียงแคนดังมาจากงานบุญ",
-            "audio_en_src": "You could hear the khaen from the village festival."
-          },
-          {
-            "thai": "ปู่เป่าแคนเก่งที่สุดในหมู่บ้าน",
-            "en": "Grandpa plays the khaen best in the village.",
-            "audio_src": "ปู่เป่าแคนเก่งที่สุดในหมู่บ้าน",
-            "audio_en_src": "Grandpa plays the khaen best in the village."
           }
         ]
       }
@@ -147071,33 +146409,6 @@
     "audio_en": true
   },
   {
-    "id": "yt-c08-078",
-    "thai": "สำเนา",
-    "english": "a copy (of a document, e.g passport, certificate, etc)",
-    "frequency": "occasional",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "a copy (of a document, e.g passport, certificate, etc)",
-        "sentences": [
-          {
-            "thai": "ขอสำเนาบัตรประชาชนด้วยค่ะ",
-            "en": "Please give me a copy of your ID card.",
-            "audio_src": "ขอสำเนาบัตรประชาชนด้วยค่ะ",
-            "audio_en_src": "Please give me a copy of your ID card."
-          },
-          {
-            "thai": "อย่าลืมถ่ายสำเนาพาสปอร์ตเก็บไว้",
-            "en": "Don't forget to make a copy of your passport to keep.",
-            "audio_src": "อย่าลืมถ่ายสำเนาพาสปอร์ตเก็บไว้",
-            "audio_en_src": "Don't forget to make a copy of your passport to keep."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "yt-c08-079",
     "thai": "สมรรถภาพ",
     "english": "capacity, ability",
@@ -152195,21 +151506,15 @@
   },
   {
     "id": "yt-c10-086",
-    "thai": "หลอก - ลวง - หลอกลวง",
-    "english": "to trick, to fool, to pretend - to deceive, to lure - to scam, to defraud, to deceive",
+    "thai": "ลวง - หลอกลวง",
+    "english": "to deceive, to lure - to scam, to defraud, to deceive",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "to trick, to fool, to pretend - to deceive, to lure - to scam, to defraud, to deceive",
+        "meaning": "to deceive, to lure - to scam, to defraud, to deceive",
         "sentences": [
-          {
-            "thai": "เขาหลอกให้ฉันเชื่อว่าเขาป่วย",
-            "en": "He tricked me into believing he was sick.",
-            "audio_src": "เขาหลอกให้ฉันเชื่อว่าเขาป่วย",
-            "audio_en_src": "He tricked me into believing he was sick."
-          },
           {
             "thai": "มิจฉาชีพลวงเหยื่อด้วยรางวัลปลอม",
             "en": "Scammers lure victims with fake prizes.",
@@ -152221,39 +151526,6 @@
             "en": "This website defrauds people into transferring money.",
             "audio_src": "เว็บนี้หลอกลวงคนให้โอนเงิน",
             "audio_en_src": "This website defrauds people into transferring money."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "yt-c10-087",
-    "thai": "แง่ - มุม - แง่มุม",
-    "english": "aspect - angle, viewpoint - point of view, perspective",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "aspect - angle, viewpoint - point of view, perspective",
-        "sentences": [
-          {
-            "thai": "เรื่องนี้มีแง่ดีอยู่เหมือนกัน",
-            "en": "This matter has a good side too.",
-            "audio_src": "เรื่องนี้มีแง่ดีอยู่เหมือนกัน",
-            "audio_en_src": "This matter has a good side too."
-          },
-          {
-            "thai": "ลองมองปัญหาจากมุมของคนอื่นบ้าง",
-            "en": "Try looking at the problem from someone else's angle.",
-            "audio_src": "ลองมองปัญหาจากมุมของคนอื่นบ้าง",
-            "audio_en_src": "Try looking at the problem from someone else's angle."
-          },
-          {
-            "thai": "นักข่าวเสนอข่าวในหลายแง่มุม",
-            "en": "The reporter presents the news from many perspectives.",
-            "audio_src": "นักข่าวเสนอข่าวในหลายแง่มุม",
-            "audio_en_src": "The reporter presents the news from many perspectives."
           }
         ]
       }
@@ -157415,7 +156687,7 @@
     "id": "yt-c12-084",
     "thai": "แต่ประการใด, แต่อย่างใด",
     "english": "at all, whatsoever (formal)",
-    "frequency": "rare",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "at all, whatsoever (formal)",
@@ -168987,26 +168259,26 @@
   },
   {
     "id": "yt-c17-041",
-    "thai": "หลงทาง - หลงป่า",
-    "english": "to be lost, to lose one's way - lost in the forest",
+    "thai": "หลงป่า",
+    "english": "lost in the forest",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "to be lost, to lose one's way - lost in the forest",
+        "meaning": "lost in the forest",
         "sentences": [
-          {
-            "thai": "ฉันหลงทางในเมืองที่ไม่คุ้นเคย",
-            "en": "I got lost in an unfamiliar city.",
-            "audio_src": "ฉันหลงทางในเมืองที่ไม่คุ้นเคย",
-            "audio_en_src": "I got lost in an unfamiliar city."
-          },
           {
             "thai": "นักท่องเที่ยวหลงป่าอยู่สองวัน",
             "en": "The tourist was lost in the forest for two days.",
             "audio_src": "นักท่องเที่ยวหลงป่าอยู่สองวัน",
             "audio_en_src": "The tourist was lost in the forest for two days."
+          },
+          {
+            "thai": "ถ้าไม่มีไกด์ เราคงหลงป่าแน่ๆ",
+            "en": "Without a guide, we'd definitely get lost in the forest.",
+            "audio_src": "ถ้าไม่มีไกด์ เราคงหลงป่าแน่ๆ",
+            "audio_en_src": "Without a guide, we'd definitely get lost in the forest."
           }
         ]
       }
@@ -171087,26 +170359,26 @@
   },
   {
     "id": "yt-c18-024",
-    "thai": "สลาก - จับสลาก",
-    "english": "lot, ballot, lottery slip - to draw lots, to draw a lottery slip",
+    "thai": "จับสลาก",
+    "english": "to draw lots, to draw a lottery slip",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "lot, ballot, lottery slip - to draw lots, to draw a lottery slip",
+        "meaning": "to draw lots, to draw a lottery slip",
         "sentences": [
-          {
-            "thai": "เขาซื้อสลากกินแบ่งทุกงวด",
-            "en": "He buys a lottery ticket every draw.",
-            "audio_src": "เขาซื้อสลากกินแบ่งทุกงวด",
-            "audio_en_src": "He buys a lottery ticket every draw."
-          },
           {
             "thai": "ครูให้นักเรียนจับสลากแบ่งกลุ่ม",
             "en": "The teacher had the students draw lots to split into groups.",
             "audio_src": "ครูให้นักเรียนจับสลากแบ่งกลุ่ม",
             "audio_en_src": "The teacher had the students draw lots to split into groups."
+          },
+          {
+            "thai": "เราจับสลากกันว่าใครจะได้ของขวัญชิ้นไหน",
+            "en": "We drew lots to see who would get which gift.",
+            "audio_src": "เราจับสลากกันว่าใครจะได้ของขวัญชิ้นไหน",
+            "audio_en_src": "We drew lots to see who would get which gift."
           }
         ]
       }
@@ -173956,26 +173228,26 @@
   },
   {
     "id": "yt-c19-035",
-    "thai": "ล่อ - ล่อหลอก",
-    "english": "to lure, to entice, to bait - to trick, to deceive by luring",
+    "thai": "ล่อหลอก",
+    "english": "to trick, to deceive by luring",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "to lure, to entice, to bait - to trick, to deceive by luring",
+        "meaning": "to trick, to deceive by luring",
         "sentences": [
-          {
-            "thai": "เขาใช้เหยื่อล่อปลาให้มากินเบ็ด",
-            "en": "He uses bait to lure the fish to the hook.",
-            "audio_src": "เขาใช้เหยื่อล่อปลาให้มากินเบ็ด",
-            "audio_en_src": "He uses bait to lure the fish to the hook."
-          },
           {
             "thai": "มิจฉาชีพล่อหลอกเหยื่อด้วยงานปลอม",
             "en": "Scammers lure victims in with fake jobs.",
             "audio_src": "มิจฉาชีพล่อหลอกเหยื่อด้วยงานปลอม",
             "audio_en_src": "Scammers lure victims in with fake jobs."
+          },
+          {
+            "thai": "เขาถูกล่อหลอกให้โอนเงินไปให้คนแปลกหน้า",
+            "en": "He was tricked into transferring money to a stranger.",
+            "audio_src": "เขาถูกล่อหลอกให้โอนเงินไปให้คนแปลกหน้า",
+            "audio_en_src": "He was tricked into transferring money to a stranger."
           }
         ]
       }
@@ -178054,7 +177326,7 @@
   },
   {
     "id": "yt-c21-002",
-    "thai": "ดุจดั่ง, ดุจ, ดั่ง",
+    "thai": "ดุจดั่ง, ดุจ, ดั่ง, เหมือนดั่ง",
     "english": "(poetic, literary) just like, as if",
     "frequency": "rare",
     "examples": [
@@ -178078,6 +177350,12 @@
             "en": "He loves her like his own heart.",
             "audio_src": "เขารักเธอดั่งดวงใจ",
             "audio_en_src": "He loves her like his own heart."
+          },
+          {
+            "thai": "ฝันเป็นจริงเหมือนดั่งที่หวังไว้",
+            "en": "The dream came true just as hoped.",
+            "audio_src": "ฝันเป็นจริงเหมือนดั่งที่หวังไว้",
+            "audio_en_src": "The dream came true just as hoped."
           }
         ]
       }
@@ -180253,33 +179531,6 @@
             "en": "They broke up? You're kidding me.",
             "audio_src": "เลิกกันแล้วเหรอ พูดเป็นเล่นน่า",
             "audio_en_src": "They broke up? You're kidding me."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "yt-c21-096",
-    "thai": "ช่างเหอะ, ช่างเถอะ",
-    "english": "whatever, \"doesn't matter\", \"never mind\", \"forget it\"",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "whatever, \"doesn't matter\", \"never mind\", \"forget it\"",
-        "sentences": [
-          {
-            "thai": "ไม่เข้าใจก็ช่างเถอะ ไม่สำคัญหรอก",
-            "en": "If you don't get it, never mind, it's not important.",
-            "audio_src": "ไม่เข้าใจก็ช่างเถอะ ไม่สำคัญหรอก",
-            "audio_en_src": "If you don't get it, never mind, it's not important."
-          },
-          {
-            "thai": "เขาไม่มาก็ช่างเหอะ",
-            "en": "If he doesn't come, whatever.",
-            "audio_src": "เขาไม่มาก็ช่างเหอะ",
-            "audio_en_src": "If he doesn't come, whatever."
           }
         ]
       }
@@ -188878,33 +188129,6 @@
     ]
   },
   {
-    "id": "wlt-c03-075",
-    "thai": "มะขาม",
-    "english": "tamarind (fruit)",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "tamarind (fruit)",
-        "sentences": [
-          {
-            "thai": "มะขามเปียกใช้ทำน้ำพริก",
-            "en": "Tamarind paste is used to make chili paste.",
-            "audio_src": "มะขามเปียกใช้ทำน้ำพริก",
-            "audio_en_src": "Tamarind paste is used to make chili paste."
-          },
-          {
-            "thai": "มะขามหวานรสอร่อย",
-            "en": "Sweet tamarind tastes delicious.",
-            "audio_src": "มะขามหวานรสอร่อย",
-            "audio_en_src": "Sweet tamarind tastes delicious."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "wlt-c03-076",
     "thai": "มันทอด",
     "english": "fried potatoes, potato chips",
@@ -194200,33 +193424,6 @@
     ],
     "audio": true,
     "audio_en": true
-  },
-  {
-    "id": "wlt-c06-040",
-    "thai": "แจก, จำหน่าย",
-    "english": "to distribute",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to distribute",
-        "sentences": [
-          {
-            "thai": "เจ้าหน้าที่แจกใบปลิวให้คนที่เดินผ่าน",
-            "en": "The staff hand out flyers to passersby.",
-            "audio_src": "เจ้าหน้าที่แจกใบปลิวให้คนที่เดินผ่าน",
-            "audio_en_src": "The staff hand out flyers to passersby."
-          },
-          {
-            "thai": "ร้านนี้จำหน่ายสินค้าทั่วประเทศ",
-            "en": "This shop distributes products nationwide.",
-            "audio_src": "ร้านนี้จำหน่ายสินค้าทั่วประเทศ",
-            "audio_en_src": "This shop distributes products nationwide."
-          }
-        ]
-      }
-    ]
   },
   {
     "id": "wlt-c06-041",
@@ -200085,7 +199282,7 @@
   },
   {
     "id": "wlt-c09-003",
-    "thai": "กระสุน, ลูกปืน",
+    "thai": "กระสุน, ลูกปืน, ลูกกระสุน",
     "english": "bullet",
     "frequency": "common",
     "audio": true,
@@ -200105,6 +199302,12 @@
             "en": "This gun holds ten bullets.",
             "audio_src": "ปืนกระบอกนี้ใส่ลูกปืนได้สิบนัด",
             "audio_en_src": "This gun holds ten bullets."
+          },
+          {
+            "thai": "ตำรวจเก็บลูกกระสุนจากที่เกิดเหตุ",
+            "en": "Police collected bullets from the scene.",
+            "audio_src": "ตำรวจเก็บลูกกระสุนจากที่เกิดเหตุ",
+            "audio_en_src": "Police collected bullets from the scene."
           }
         ]
       }
@@ -202090,33 +201293,6 @@
             "en": "I'll take this one instead.",
             "audio_src": "ฉันเอาอันนี้ดีกว่า",
             "audio_en_src": "I'll take this one instead."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "wlt-c09-089",
-    "thai": "อ้างถึง, อ้างอิง",
-    "english": "to refer to, to cite, to quote",
-    "frequency": "occasional",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to refer to, to cite, to quote",
-        "sentences": [
-          {
-            "thai": "เขาอ้างอิงงานวิจัยในบทความ",
-            "en": "He cites research in the article.",
-            "audio_src": "เขาอ้างอิงงานวิจัยในบทความ",
-            "audio_en_src": "He cites research in the article."
-          },
-          {
-            "thai": "ในจดหมายเธออ้างถึงการประชุมครั้งก่อน",
-            "en": "In the letter she refers to the previous meeting.",
-            "audio_src": "ในจดหมายเธออ้างถึงการประชุมครั้งก่อน",
-            "audio_en_src": "In the letter she refers to the previous meeting."
           }
         ]
       }
@@ -208499,33 +207675,6 @@
     "audio_en": true
   },
   {
-    "id": "wlt-c12-053",
-    "thai": "หด",
-    "english": "to shrink",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to shrink",
-        "sentences": [
-          {
-            "thai": "เสื้อตัวนี้หดหลังจากซักด้วยน้ำร้อน",
-            "en": "This shirt shrank after washing in hot water.",
-            "audio_src": "เสื้อตัวนี้หดหลังจากซักด้วยน้ำร้อน",
-            "audio_en_src": "This shirt shrank after washing in hot water."
-          },
-          {
-            "thai": "ตัวหนอนหดตัวเมื่อถูกแตะ",
-            "en": "The caterpillar curls up when it's touched.",
-            "audio_src": "ตัวหนอนหดตัวเมื่อถูกแตะ",
-            "audio_en_src": "The caterpillar curls up when it's touched."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "wlt-c12-055",
     "thai": "หน้าร้อน",
     "english": "hot season",
@@ -209199,50 +208348,6 @@
     ],
     "audio": true,
     "audio_en": true
-  },
-  {
-    "id": "wlt-c12-083",
-    "thai": "อาศัยอยู่, อาศัย",
-    "english": "to live, to reside; to depend on, to rely on",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to live, to reside",
-        "sentences": [
-          {
-            "thai": "เขาอาศัยอยู่ในกรุงเทพมาสิบปี",
-            "en": "He has lived in Bangkok for ten years.",
-            "audio_src": "เขาอาศัยอยู่ในกรุงเทพมาสิบปี",
-            "audio_en_src": "He has lived in Bangkok for ten years."
-          },
-          {
-            "thai": "ครอบครัวเราอาศัยอยู่ใกล้ทะเล",
-            "en": "Our family lives near the sea.",
-            "audio_src": "ครอบครัวเราอาศัยอยู่ใกล้ทะเล",
-            "audio_en_src": "Our family lives near the sea."
-          }
-        ]
-      },
-      {
-        "meaning": "to depend on, to rely on",
-        "sentences": [
-          {
-            "thai": "เด็กเล็กยังต้องอาศัยพ่อแม่ในทุกเรื่อง",
-            "en": "Small children still depend on their parents for everything.",
-            "audio_src": "เด็กเล็กยังต้องอาศัยพ่อแม่ในทุกเรื่อง",
-            "audio_en_src": "Small children still depend on their parents for everything."
-          },
-          {
-            "thai": "งานนี้สำเร็จได้ต้องอาศัยความร่วมมือจากทุกคน",
-            "en": "This job's success relies on cooperation from everyone.",
-            "audio_src": "งานนี้สำเร็จได้ต้องอาศัยความร่วมมือจากทุกคน",
-            "audio_en_src": "This job's success relies on cooperation from everyone."
-          }
-        ]
-      }
-    ]
   },
   {
     "id": "wlt-c12-084",
@@ -213814,33 +212919,6 @@
             "en": "This mall has a lot of restaurants.",
             "audio_src": "ห้างนี้มีร้านอาหารเยอะมาก",
             "audio_en_src": "This mall has a lot of restaurants."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "wlt-c14-094",
-    "thai": "ห้าม",
-    "english": "to forbid",
-    "frequency": "everyday",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to forbid",
-        "sentences": [
-          {
-            "thai": "ป้ายห้ามจอดรถตรงนี้",
-            "en": "The sign forbids parking here.",
-            "audio_src": "ป้ายห้ามจอดรถตรงนี้",
-            "audio_en_src": "The sign forbids parking here."
-          },
-          {
-            "thai": "พ่อแม่ห้ามลูกเล่นเกมดึก",
-            "en": "The parents forbid their kids from playing games late at night.",
-            "audio_src": "พ่อแม่ห้ามลูกเล่นเกมดึก",
-            "audio_en_src": "The parents forbid their kids from playing games late at night."
           }
         ]
       }
@@ -230348,35 +229426,6 @@
     ]
   },
   {
-    "id": "t4k-c01-001",
-    "thai": "เรา",
-    "english": "we; us",
-    "frequency": "everyday",
-    "audio": true,
-    "audio_en": true,
-    "audio_src": "เรา",
-    "audio_en_src": "we; us",
-    "examples": [
-      {
-        "meaning": "we; us",
-        "sentences": [
-          {
-            "thai": "เราไปด้วยกันนะ",
-            "en": "Let's go together.",
-            "audio_src": "เราไปด้วยกันนะ",
-            "audio_en_src": "Let's go together."
-          },
-          {
-            "thai": "เขาไม่ชอบเรา",
-            "en": "He doesn't like us.",
-            "audio_src": "เขาไม่ชอบเรา",
-            "audio_en_src": "He doesn't like us."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "t4k-c01-002",
     "thai": "เขา",
     "english": "he",
@@ -234293,33 +233342,6 @@
     ]
   },
   {
-    "id": "t4k-c03-031",
-    "thai": "คำนึง",
-    "english": "to take into account, to bear in mind",
-    "frequency": "occasional",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to take into account, to bear in mind",
-        "sentences": [
-          {
-            "thai": "เราต้องคำนึงถึงความรู้สึกของผู้อื่น",
-            "en": "We must take others' feelings into account.",
-            "audio_src": "เราต้องคำนึงถึงความรู้สึกของผู้อื่น",
-            "audio_en_src": "We must take others' feelings into account."
-          },
-          {
-            "thai": "ก่อนตัดสินใจ ควรคำนึงถึงผลที่จะตามมา",
-            "en": "Before deciding, you should consider the consequences.",
-            "audio_src": "ก่อนตัดสินใจ ควรคำนึงถึงผลที่จะตามมา",
-            "audio_en_src": "Before deciding, you should consider the consequences."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "t4k-c03-032",
     "thai": "เพื่อนบ้าน",
     "english": "neighbor",
@@ -235390,33 +234412,6 @@
     "audio_en": true
   },
   {
-    "id": "t4k-c04-005",
-    "thai": "แต่อย่างใด",
-    "english": "at all, whatsoever, in any way",
-    "frequency": "occasional",
-    "examples": [
-      {
-        "meaning": "at all, whatsoever, in any way",
-        "sentences": [
-          {
-            "thai": "เขาไม่ได้โกรธแต่อย่างใด",
-            "en": "He's not angry at all.",
-            "audio_src": "เขาไม่ได้โกรธแต่อย่างใด",
-            "audio_en_src": "He's not angry at all."
-          },
-          {
-            "thai": "เรื่องนี้ไม่เกี่ยวกับฉันแต่อย่างใด",
-            "en": "This has nothing to do with me whatsoever.",
-            "audio_src": "เรื่องนี้ไม่เกี่ยวกับฉันแต่อย่างใด",
-            "audio_en_src": "This has nothing to do with me whatsoever."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
     "id": "t4k-c04-009",
     "thai": "ต่างชาติ",
     "english": "foreign, of another nationality",
@@ -235687,33 +234682,6 @@
         ]
       }
     ]
-  },
-  {
-    "id": "t4k-c04-029",
-    "thai": "เผ่า",
-    "english": "tribe, ethnic group, clan",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "tribe, ethnic group, clan",
-        "sentences": [
-          {
-            "thai": "ชาวเขาเผ่ากะเหรี่ยงอาศัยบนดอย",
-            "en": "The Karen tribe lives in the highlands.",
-            "audio_src": "ชาวเขาเผ่ากะเหรี่ยงอาศัยบนดอย",
-            "audio_en_src": "The Karen tribe lives in the highlands."
-          },
-          {
-            "thai": "แต่ละเผ่ามีวัฒนธรรมของตัวเอง",
-            "en": "Each tribe has its own culture.",
-            "audio_src": "แต่ละเผ่ามีวัฒนธรรมของตัวเอง",
-            "audio_en_src": "Each tribe has its own culture."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
   },
   {
     "id": "t4k-c04-031",
@@ -238233,33 +237201,6 @@
     ],
     "audio": true,
     "audio_en": true
-  },
-  {
-    "id": "t4k-c05-080",
-    "thai": "ฟื้น",
-    "english": "to recover, to restore",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to recover, to restore",
-        "sentences": [
-          {
-            "thai": "คนไข้เริ่มฟื้นแล้ว",
-            "en": "The patient is starting to recover.",
-            "audio_src": "คนไข้เริ่มฟื้นแล้ว",
-            "audio_en_src": "The patient is starting to recover."
-          },
-          {
-            "thai": "เศรษฐกิจกำลังฟื้นตัว",
-            "en": "The economy is recovering.",
-            "audio_src": "เศรษฐกิจกำลังฟื้นตัว",
-            "audio_en_src": "The economy is recovering."
-          }
-        ]
-      }
-    ]
   },
   {
     "id": "t4k-c05-082",
@@ -251970,33 +250911,6 @@
             "en": "Don't get involved with a womanizer.",
             "audio_src": "อย่าไปคบกับคนขี้หลีเลย",
             "audio_en_src": "Don't get involved with a womanizer."
-          }
-        ]
-      }
-    ],
-    "audio": true,
-    "audio_en": true
-  },
-  {
-    "id": "manual-005",
-    "thai": "มงคล",
-    "english": "auspicious",
-    "frequency": "common",
-    "examples": [
-      {
-        "meaning": "auspicious",
-        "sentences": [
-          {
-            "thai": "วันนี้เป็นวันมงคลสำหรับแต่งงาน",
-            "en": "Today is an auspicious day for a wedding.",
-            "audio_src": "วันนี้เป็นวันมงคลสำหรับแต่งงาน",
-            "audio_en_src": "Today is an auspicious day for a wedding."
-          },
-          {
-            "thai": "พระให้พรเป็นสิริมงคลแก่บ่าวสาว",
-            "en": "The monk gave the couple an auspicious blessing.",
-            "audio_src": "พระให้พรเป็นสิริมงคลแก่บ่าวสาว",
-            "audio_en_src": "The monk gave the couple an auspicious blessing."
           }
         ]
       }

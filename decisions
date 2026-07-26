@@ -1,0 +1,729 @@
+Duplicate / overlapping headwords in vocab.json (sweep of 2026-07-26).
+
+Scope, the three cases as agreed:
+  1. identical thai field ("A" = "A")
+  2. a combined card ("A, B, C") sharing a word with another card ("B"), or two
+     combined cards sharing a word ("A, B, C" and "D, C")
+  3. same thing with dash-separated combined cards ("A - B" vs "B")
+Comparison strips zero-width spaces. Commas and " - " inside parentheses are NOT
+treated as separators, so "คำประพันธ์ (โคลง, กลอน, ฉันท์)" counts as one headword.
+
+92 groups total. For each, write the answer on the "decision:" line. The usual
+options: keep one and remove the other, keep both (real homograph or a genuinely
+different sense), merge the glosses into one survivor, or trim the shared word out
+of the combined card's headword.
+
+"xref" lines mark cards that appear in more than one group, so a decision there
+affects several groups at once.
+
+Checked and dismissed, not listed below:
+  chula-l4-142 "... ไป (ด้วย), ... ไป (ด้วย)" repeats itself on purpose (it is the
+  shape of the grammar pattern, not two headwords).
+
+==============================================================================
+2. TWO COMBINED CARDS SHARING A WORD  (7 groups)
+==============================================================================
+
+shared: กระสุน
+  กระสุน, ลูกปืน
+    wlt-c09-003 [common, 2 examples, 6 audio files] 'bullet'
+  กระสุน, ลูกกระสุน
+    yt-c04-009 [occasional, 2 examples, 6 audio files] 'bullet'
+  decision: merge these two
+
+shared: ชั่ง
+  ชั่ง, ชั่งน้ำหนัก
+    tobo-479 [common, 2 examples, 6 audio files] 'to weigh'
+  ชั่ง - วัด - ตวง
+    yt-c10-049 [common, 3 examples, 8 audio files] 'measure weigh - measure size, length - measure volume, capacity'
+  xref: yt-c10-049 also in: วัด
+  decision: keep as is
+
+shared: ช่างเหอะ
+  ช่างมันเถอะ, ช่างเหอะ
+    tamago-l3-345 [everyday, 2 examples, 6 audio files] '"whatever!", "never mind", "forget about it!"'
+  ช่างเหอะ, ช่างเถอะ
+    yt-c21-096 [common, 2 examples, 6 audio files] 'whatever, "doesn't matter", "never mind", "forget it"'
+  note: three cards in this family: tamago-l3-345, yt-c21-096, thaipod-0295 (see also "shared: ช่างเถอะ")
+  xref: yt-c21-096 also in: ช่างเถอะ
+  decision: merge 
+
+shared: ดั่ง
+  ดั่ง, เหมือนดั่ง
+    yt-c03-008 [rare, 2 examples, 6 audio files] 'like, just like, as if'
+  ดุจดั่ง, ดุจ, ดั่ง
+    yt-c21-002 [rare, 3 examples, 8 audio files] '(poetic, literary) just like, as if'
+  decision: merge as ดุจดั่ง, ดุจ, ดั่ง, เหมือนดั่ง
+
+shared: พึ่งพา
+  พึ่ง, พึ่งพา
+    tamago-l3-504 [common, 2 examples, 6 audio files] 'to rely on, to depend on'
+  อาศัย, พึ่งพา, พึ่งพาอาศัย
+    yt-c03-029 [common, 2 examples, 6 audio files] 'to rely on, to depend on'
+  xref: yt-c03-029 also in: อาศัย
+  decision: keep yt-c03-029 as อาศัย, พึ่ง, พึ่งพา, พึ่งพาอาศัย
+
+shared: สลัด
+  สลัด, สลัดทิ้ง
+    new-110 [common, 2 examples, 6 audio files] 'to shake off, to ditch, to discard'
+  สลัด, ยำสลัด
+    wlt-c09-032 [everyday, 2 examples, 6 audio files] 'salad'
+  note: homograph: salad vs to shake off
+  decision: keep as is 
+
+shared: อ้างถึง, อ้างอิง
+  อ้างอิง, อ้างถึง
+    thaipod-1152 [occasional, 2 examples, 6 audio files] 'to reference, to cite'
+  อ้างถึง, อ้างอิง
+    wlt-c09-089 [occasional, 2 examples, 6 audio files] 'to refer to, to cite, to quote'
+  note: same two words, opposite order: full duplicate pair
+  decision: keep thaipod-1152
+
+==============================================================================
+3. COMBINED CARD vs SINGLE-WORD CARD  (84 groups)
+==============================================================================
+
+shared: กระชาก
+  กระชาก
+    yt-c08-060 [common, 2 examples, 6 audio files] 'to snatch (pull quickly, for example while stealing necklace)'
+  กระชาก, ฉุดกระชาก
+    yt-c15-093 [occasional, 2 examples, 6 audio files] 'to drag violently, to yank'
+  decision: keep as is
+
+shared: กล้วย
+  กล้วย
+    tamago-l12-026 [everyday, 2 examples, 6 audio files] 'banana'
+  กล้วย, กล้วยๆ, ง่ายเหมือนปอกกล้วยเข้าปาก
+    yt-c16-078 [common, 2 examples, 6 audio files] 'easy (various expressions using the word "banana")'
+  note: yt-c16-078 is the "easy" idiom set, tamago-l12-026 is the fruit
+  xref: yt-c16-078 also in: ง่ายเหมือนปอกกล้วยเข้าปาก
+  decision: keep as is
+
+shared: กวน
+  กวน
+    chula-l6-170 [common, 4 examples, 10 audio files] 'to stir until thickened or smooth (cooking); to annoy, to bother'
+  คน, กวน
+    yt-c11-061 [common, 2 examples, 6 audio files] 'to stir (food)'
+  note: overlap is only the "to stir" sense; chula-l6-170 also carries "to annoy"
+  xref: yt-c11-061 also in: คน
+  decision: keep as is
+
+shared: ขี้
+  ขี้
+    wlt-c13-008 [everyday, 4 examples, 10 audio files] 'poop; (of a person) habitually prone to (usually negative trait)'
+  ขี้, อึ
+    tamago-l12-059 [common, 2 examples, 6 audio files] 'feces, stool (informal and child-speak variants)'
+  decision: keep as is
+
+shared: ขึ้น
+  ขึ้น
+    wlt-c21-000 [everyday, 4 examples, 10 audio files] 'to go up, to rise; to get on (vehicle)'
+  กว่า - ขึ้น
+    yt-c16-074 [common, 2 examples, 6 audio files] 'compare X and Y - compare X and X'
+  note: yt-c16-074 is the comparison pattern (กว่า X / X ขึ้น), not the verb ขึ้น itself
+  decision: keep as is
+
+shared: คน
+  คน
+    chula-l6-239 [everyday, 4 examples, 10 audio files] 'person; to stir (food)'
+  คน, กวน
+    yt-c11-061 [common, 2 examples, 6 audio files] 'to stir (food)'
+  note: overlap is only the "to stir" sense; chula-l6-239 also carries "person"
+  xref: yt-c11-061 also in: กวน
+  decision: in chula-l6-239, make it just 'person'
+
+shared: คำนึง
+  คำนึง
+    t4k-c03-031 [occasional, 2 examples, 6 audio files] 'to take into account, to bear in mind'
+  คำนึง, คำนึงถึง
+    wlt-c06-011 [occasional, 2 examples, 6 audio files] 'to think deeply, to take into consideration'
+  xref: wlt-c06-011 also in: คำนึงถึง
+  decision: keep only wlt-c06-011
+
+shared: คำนึงถึง
+  คำนึงถึง
+    tsl-328 [occasional, 2 examples, 6 audio files] 'to take into consideration, to bear in mind'
+  คำนึง, คำนึงถึง
+    wlt-c06-011 [occasional, 2 examples, 6 audio files] 'to think deeply, to take into consideration'
+  xref: wlt-c06-011 also in: คำนึง
+  decision: keep only wlt-c06-011
+
+shared: งู
+  งู
+    yt-c20-029 [common, 2 examples, 6 audio files] 'snake'
+  จู๋, กระเจี๊ยว, กระปู๋, เจ้าโลก, องคชาต, ปิกาจู, กระดอ, ช้างน้อย, จ้อน, งู, น้องชาย
+    yt-c21-037 [occasional, 2 examples, 6 audio files] 'various words for "dick"'
+  note: yt-c21-037 lists งู as slang for penis, not the animal
+  xref: yt-c21-037 also in: น้องชาย
+  decision: keep as is
+
+shared: ง่ายเหมือนปอกกล้วยเข้าปาก
+  ง่ายเหมือนปอกกล้วยเข้าปาก
+    yt-c01-046 [occasional, 2 examples, 6 audio files] 'very easy, easy as pie ("easy as peeling a banana")'
+  กล้วย, กล้วยๆ, ง่ายเหมือนปอกกล้วยเข้าปาก
+    yt-c16-078 [common, 2 examples, 6 audio files] 'easy (various expressions using the word "banana")'
+  xref: yt-c16-078 also in: กล้วย
+  decision: remove yt-c01-046
+
+shared: จับใจความ
+  จับใจความ
+    yt-c03-027 [common, 2 examples, 6 audio files] 'to grasp the main idea, to understand the gist of'
+  จับความ, จับใจความ
+    yt-c13-006 [common, 2 examples, 6 audio files] 'to get the idea, to grasp the gist, to get the general meaning'
+  decision: remove yt-c03-027
+
+shared: จำหน่าย
+  จำหน่าย
+    chula-l5-336 [occasional, 2 examples, 6 audio files] 'to sell, to put on sale, to distribute'
+  แจก, จำหน่าย
+    wlt-c06-040 [common, 2 examples, 6 audio files] 'to distribute'
+  xref: wlt-c06-040 also in: แจก
+  decision: remove wlt-c06-040
+
+shared: ฉัน
+  ฉัน
+    tsl-563 [everyday, 6 examples, 14 audio files] 'I; to eat (monks' usage); like, as'
+  ดิฉัน, ฉัน
+    wlt-c15-061 [everyday, 2 examples, 6 audio files] 'I, me (female speaker)'
+  decision: edit tsl-563 to be "to eat (monks' usage); like, as" AND change frequency to common
+
+shared: ชนชั้นสูง
+  ชนชั้นสูง
+    yt-c06-095 [common, 2 examples, 6 audio files] 'upper class, elite class'
+  ชนชั้นสูง - ชนชั้นกลาง - ชนชั้นแรงงาน
+    yt-c07-082 [common, 2 examples, 6 audio files] 'upper class - middle class - working class'
+  decision: keep as is
+
+shared: ชาม
+  ชาม
+    wlt-c10-055 [common, 2 examples, 6 audio files] 'bowl'
+  ถ้วย - ชาม
+    yt-c16-076 [common, 2 examples, 6 audio files] 'small bowl (e.g for sauce) - regular-sized bowl'
+  xref: yt-c16-076 also in: ถ้วย
+  decision: keep as is
+
+shared: ช่างเถอะ
+  ช่างเถอะ
+    thaipod-0295 [common, 2 examples, 6 audio files] '"forget it", "never mind"'
+  ช่างเหอะ, ช่างเถอะ
+    yt-c21-096 [common, 2 examples, 6 audio files] 'whatever, "doesn't matter", "never mind", "forget it"'
+  note: three cards in this family: thaipod-0295, yt-c21-096, tamago-l3-345 (see also "shared: ช่างเหอะ")
+  xref: yt-c21-096 also in: ช่างเหอะ
+  decision: remove thaipod-0295
+
+shared: ดอกบัว
+  ดอกบัว
+    thaipod-0312 [common, 2 examples, 6 audio files] 'lotus flower'
+  บัว, ดอกบัว
+    wlt-c03-016 [common, 2 examples, 6 audio files] 'lotus'
+  decision: remove thaipod-0312
+
+shared: ตกใจ
+  ตกใจ
+    wlt-c06-066 [everyday, 2 examples, 6 audio files] 'startled'
+  ตกใจ - แปลกใจ
+    tsl-126 [everyday, 4 examples, 10 audio files] 'shocked, startled - surprised, astonished'
+  xref: tsl-126 also in: แปลกใจ
+  decision: keep as is 
+
+shared: ตอนบน
+  ตอนบน
+    thaipod-0352 [common, 2 examples, 6 audio files] 'upper part'
+  ตอนล่าง - ตอนกลาง - ตอนบน
+    chula-l5-445 [occasional, 2 examples, 6 audio files] 'lower part - central part - upper part'
+  xref: chula-l5-445 also in: ตอนล่าง
+  decision: remove thaipod-0352
+
+shared: ตอนล่าง
+  ตอนล่าง
+    thaipod-0353 [common, 2 examples, 6 audio files] 'lower part'
+  ตอนล่าง - ตอนกลาง - ตอนบน
+    chula-l5-445 [occasional, 2 examples, 6 audio files] 'lower part - central part - upper part'
+  xref: chula-l5-445 also in: ตอนบน
+  decision: remove ตอนล่าง
+
+shared: ตำ
+  ตำ
+    chula-l6-151 [common, 2 examples, 6 audio files] 'to pound (with pestle and mortar)'
+  ตำ, โขลก
+    yt-c02-035 [common, 2 examples, 6 audio files] 'to pound, to crush (e.g using a mortar and pestle)'
+  decision: remove chula-l6-151
+
+shared: ติด
+  ติด
+    new-75 [everyday, 4 examples, 10 audio files] 'to stick, to attach, to be attached; to be addicted'
+  ติด, ติดต่อกัน
+    tamago-l3-278 [common, 2 examples, 6 audio files] 'consecutively, in a row'
+  note: different senses: new-75 is stick/attach/addicted, tamago-l3-278 is the "in a row" pattern
+  decision: keep both
+
+shared: ถอดปลั๊ก
+  ถอดปลั๊ก
+    tamago-l3-796 [common, 2 examples, 6 audio files] 'to unplug'
+  เสียบปลั๊ก - ถอดปลั๊ก
+    yt-c14-002 [common, 2 examples, 6 audio files] 'to plug in (e.g fan, etc) - to unplug'
+  decision: keep both
+
+shared: ถือได้ว่า
+  ถือได้ว่า
+    thaipod-0402 [common, 2 examples, 6 audio files] 'it can be considered that'
+  ถือได้ว่า, จัดได้ว่า
+    thaipod-0250 [common, 2 examples, 6 audio files] '"can be considered", "can be regarded as"'
+  note: thaipod-0402 is a strict subset of thaipod-0250
+  decision: remove thaipod-0402
+
+shared: ถ่าน
+  ถ่าน
+    wlt-c10-085 [common, 2 examples, 6 audio files] 'charcoal'
+  ถ่านไฟ, ถ่าน
+    yt-c03-074 [common, 2 examples, 6 audio files] 'battery (e.g LR6, AA)'
+  note: different senses: charcoal vs battery (ถ่านไฟ)
+  decision: keep both
+
+shared: ถ้วย
+  ถ้วย
+    wlt-c16-098 [everyday, 2 examples, 6 audio files] 'cup, small bowl'
+  ถ้วย - ชาม
+    yt-c16-076 [common, 2 examples, 6 audio files] 'small bowl (e.g for sauce) - regular-sized bowl'
+  xref: yt-c16-076 also in: ชาม
+  decision: keep both
+
+shared: ทาย
+  ทาย
+    tamago-l12-197 [everyday, 2 examples, 6 audio files] 'to guess'
+  เดา - ทาย - มั่ว
+    yt-c13-033 [common, 3 examples, 8 audio files] 'to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly'
+  xref: yt-c13-033 also in: มั่ว; เดา
+  decision: keep as is
+
+shared: ทำนา
+  ทำนา
+    thaipod-0442 [common, 2 examples, 6 audio files] 'to farm rice'
+  ทำนา - ทำไร่ - ทำสวน
+    yt-c14-043 [common, 3 examples, 8 audio files] 'to do rice farming - to do dry crops farming - to do garden work'
+  xref: yt-c14-043 also in: ทำสวน; ทำไร่
+  decision: keep both
+
+shared: ทำสวน
+  ทำสวน
+    yt-c04-002 [common, 2 examples, 6 audio files] 'to do gardening'
+  ทำนา - ทำไร่ - ทำสวน
+    yt-c14-043 [common, 3 examples, 8 audio files] 'to do rice farming - to do dry crops farming - to do garden work'
+  xref: yt-c14-043 also in: ทำนา; ทำไร่
+  decision: keep both
+
+shared: ทำไร่
+  ทำไร่
+    yt-c05-095 [common, 2 examples, 6 audio files] 'to farm, to do plantation work'
+  ทำนา - ทำไร่ - ทำสวน
+    yt-c14-043 [common, 3 examples, 8 audio files] 'to do rice farming - to do dry crops farming - to do garden work'
+  xref: yt-c14-043 also in: ทำนา; ทำสวน
+  decision: keep both
+
+shared: น้องชาย
+  น้องชาย
+    yt-c20-028 [common, 2 examples, 6 audio files] 'younger brother'
+  จู๋, กระเจี๊ยว, กระปู๋, เจ้าโลก, องคชาต, ปิกาจู, กระดอ, ช้างน้อย, จ้อน, งู, น้องชาย
+    yt-c21-037 [occasional, 2 examples, 6 audio files] 'various words for "dick"'
+  note: yt-c21-037 lists น้องชาย as slang for penis, not the sibling
+  xref: yt-c21-037 also in: งู
+  decision: keep both
+
+shared: บังเอิญ
+  บังเอิญ
+    tamago-l12-254 [everyday, 4 examples, 10 audio files] 'by chance, coincidentally; to happen (by chance)'
+  บังเอิญ, เผอิญ
+    yt-c13-007 [common, 2 examples, 6 audio files] 'by chance, coincidentally, "it just happened that"'
+  decision: keep both
+
+shared: ปัง
+  ปัง
+    chula-l5-428 [common, 2 examples, 6 audio files] 'amazing, awesome (slang)'
+  ปัง, ปั๊วะ, ปั๊วะปัง
+    yt-c15-069 [common, 2 examples, 6 audio files] 'amazing, impressive, excellent, very pretty'
+  note: same slang sense in both
+  decision: keep yt-c15-069
+
+shared: ปา
+  ปา
+    tamago-l12-271 [common, 2 examples, 6 audio files] 'to throw, to toss'
+  โยน - ปา
+    yt-c02-096 [common, 2 examples, 6 audio files] 'to throw - to toss (with aim, forcefully)'
+  xref: yt-c02-096 also in: โยน
+  decision: keep both
+
+shared: ผลผลิต
+  ผลผลิต
+    chula-l6-057 [occasional, 2 examples, 6 audio files] 'output, produce, yield'
+  ผลิตผล, ผลผลิต
+    yt-c12-029 [occasional, 2 examples, 6 audio files] 'output, yield, product'
+  decision: remove chula-l6-057
+
+shared: พื้นเมือง
+  พื้นเมือง
+    thaipod-0737 [common, 2 examples, 6 audio files] 'native, indigenous, local'
+  พื้นบ้าน, พื้นเมือง
+    tsl-138 [common, 2 examples, 6 audio files] 'traditional, folk, native, local'
+  decision: remove thaipod-0737
+
+shared: พ้น
+  พ้น
+    thaipod-0742 [common, 4 examples, 10 audio files] 'free from, out of (e.g danger, trouble); beyond, past'
+  พ้น - ไม่พ้น
+    tamago-l3-555 [common, 4 examples, 10 audio files] 'free from, escape from - can't avoid, inevitably ends up being...'
+  decision: keep both
+
+shared: ฟื้น
+  ฟื้น
+    t4k-c05-080 [common, 2 examples, 6 audio files] 'to recover, to restore'
+  ฟื้น, ฟื้นตัว
+    chula-l5-401 [common, 2 examples, 6 audio files] 'to regain, to recover'
+  decision: remove t4k-c05-080
+
+shared: มงคล
+  มงคล
+    manual-005 [common, 2 examples, 6 audio files] 'auspicious'
+  มงคล, สิริมงคล
+    chula-l5-107 [occasional, 2 examples, 6 audio files] 'blessed, auspicious'
+  decision: remove manual-005
+
+shared: มรณะ
+  มรณะ
+    thaipod-0763 [rare, 2 examples, 6 audio files] 'death (literary)'
+  ชาตะ - มรณะ
+    yt-c03-052 [rare, 2 examples, 6 audio files] '(about a deceased) born in - deceased in'
+  note: same word; yt-c03-052 is the gravestone pair ชาตะ/มรณะ
+  decision: keep both
+
+shared: มะขาม
+  มะขาม
+    wlt-c03-075 [common, 2 examples, 6 audio files] 'tamarind (fruit)'
+  มะขาม - มะขามเทศ
+    yt-c12-014 [occasional, 2 examples, 6 audio files] 'tamarind - manila tamarind (fruit)'
+  decision: remove wlt-c03-075
+
+shared: มั่ว
+  มั่ว
+    tamago-l3-201 [common, 2 examples, 6 audio files] 'to mess up, mixed up, to bullshit, say random things from lack of knowledge'
+  เดา - ทาย - มั่ว
+    yt-c13-033 [common, 3 examples, 8 audio files] 'to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly'
+  xref: yt-c13-033 also in: ทาย; เดา
+  decision: keep both
+
+shared: มืออาชีพ
+  มืออาชีพ
+    tamago-l3-762 [common, 2 examples, 6 audio files] 'professional'
+  มืออาชีพ - มือสมัครเล่น
+    yt-c20-038 [common, 2 examples, 6 audio files] 'professional - amateur'
+  decision: keep both
+
+shared: มุม
+  มุม
+    wlt-c11-075 [common, 2 examples, 6 audio files] 'angle, corner'
+  แง่ - มุม - แง่มุม
+    yt-c10-087 [common, 3 examples, 8 audio files] 'aspect - angle, viewpoint - point of view, perspective'
+  xref: yt-c10-087 also in: แง่; แง่มุม
+  decision: keep both
+
+shared: รก
+  รก
+    tamago-l3-402 [common, 2 examples, 6 audio files] 'messy, untidy, cluttered'
+  รก, รกเด็ก
+    new-214 [common, 2 examples, 6 audio files] 'placenta'
+  note: homograph: messy/cluttered vs placenta
+  decision: keep both
+
+shared: รอบ
+  รอบ
+    t4k-c01-010 [common, 4 examples, 10 audio files] 'round, cycle, turn; around, surrounding'
+  รอบ, รอบๆ
+    wlt-c20-052 [everyday, 2 examples, 6 audio files] 'around'
+  decision: keep both
+
+shared: ล่อ
+  ล่อ
+    t4k-c08-057 [common, 4 examples, 10 audio files] 'to lure, to bait; to tease, to provoke'
+  ล่อ - ล่อหลอก
+    yt-c19-035 [common, 2 examples, 6 audio files] 'to lure, to entice, to bait - to trick, to deceive by luring'
+  decision: edit yt-c19-035 to be only 'ล่อหลอก'
+
+shared: ล้น
+  ล้น
+    yt-c10-085 [common, 2 examples, 6 audio files] 'to overflow, to spill over'
+  พร่อง - เต็ม - ล้น
+    yt-c12-031 [common, 3 examples, 8 audio files] 'less than full, deficient, lacking, below standard - full - more than full, overflow'
+  xref: yt-c12-031 also in: เต็ม
+  decision: keep both
+
+shared: ล้ำเส้น
+  ล้ำเส้น
+    yt-c09-095 [occasional, 2 examples, 6 audio files] 'to cross the line, to overstep a boundary, to be intrusive'
+  ข้ามเส้น - ล้ำเส้น
+    tsl-243 [common, 2 examples, 6 audio files] 'to cross the line (literally) - to overstep limits, to go too far'
+  decision: keep both
+
+shared: วัด
+  วัด
+    tobo-140 [everyday, 4 examples, 10 audio files] 'to measure; temple'
+  ชั่ง - วัด - ตวง
+    yt-c10-049 [common, 3 examples, 8 audio files] 'measure weigh - measure size, length - measure volume, capacity'
+  note: overlap is only "to measure"; tobo-140 also carries "temple"
+  xref: yt-c10-049 also in: ชั่ง
+  decision: keep both
+
+shared: สลาก
+  สลาก
+    yt-c08-030 [common, 2 examples, 6 audio files] 'lottery ticket, lottery slip'
+  สลาก - จับสลาก
+    yt-c18-024 [common, 2 examples, 6 audio files] 'lot, ballot, lottery slip - to draw lots, to draw a lottery slip'
+  decision: edit yt-c18-024 to be only 'จับสลาก'
+
+shared: สะดุด
+  สะดุด
+    t4k-c05-003 [common, 4 examples, 10 audio files] 'to stumble, to trip; (figuratively) to be disrupted, to be interrupted'
+  สะดุด - สะดุดล้ม
+    tsl-004 [common, 4 examples, 10 audio files] 'to trip, to stumble - to trip and fall'
+  decision: edit tsl-004 to be only 'สะดุดล้ม'
+
+shared: สะดุดตา
+  สะดุดตา
+    tsl-163 [common, 2 examples, 6 audio files] 'eye-catching, striking'
+  แตะตา, สะดุดตา
+    yt-c21-000 [common, 2 examples, 6 audio files] 'to strike the eyes, eye-catching'
+  decision: remove tsl-163
+
+shared: สัก
+  สัก
+    wlt-c09-038 [common, 4 examples, 10 audio files] 'about, approximately; at least, just'
+  รอยสัก, สัก
+    thaipod-0828 [common, 2 examples, 6 audio files] 'tattoo'
+  note: homograph: tattoo vs about/approximately
+  decision: keep both
+
+shared: สำเนา
+  สำเนา
+    yt-c08-078 [occasional, 2 examples, 6 audio files] 'a copy (of a document, e.g passport, certificate, etc)'
+  ก๊อปปี้, สำเนา
+    wlt-c05-045 [common, 2 examples, 6 audio files] 'photocopy'
+  decision: remove yt-c08-078
+
+shared: สื่อ
+  สื่อ
+    new-76 [common, 2 examples, 6 audio files] 'media'
+  สื่อ, สื่อสาร
+    chula-l5-024 [common, 2 examples, 6 audio files] 'to convey, to communicate'
+  note: different senses: media (noun) vs to convey/communicate (verb)
+  decision: keep both
+
+shared: หด
+  หด
+    wlt-c12-053 [common, 2 examples, 6 audio files] 'to shrink'
+  หด, หดตัว
+    chula-l5-402 [common, 2 examples, 6 audio files] 'to shrink, to retract'
+  decision: remove wlt-c12-053
+
+shared: หมัด
+  หมัด
+    chula-l5-046 [occasional, 2 examples, 6 audio files] 'punch, blow delivered with fist'
+  เห็บ - หมัด
+    yt-c15-012 [common, 2 examples, 6 audio files] 'tick (on animals and humans) - flea (on animals)'
+  note: homograph: fist/punch vs flea
+  decision: keep both
+
+shared: หลงทาง
+  หลงทาง
+    yt-c09-097 [common, 2 examples, 6 audio files] 'lost, errant, to get lost'
+  หลงทาง - หลงป่า
+    yt-c17-041 [common, 2 examples, 6 audio files] 'to be lost, to lose one's way - lost in the forest'
+  decision: edit yt-c17-041 to be only 'หลงป่า'
+
+shared: หลอก
+  หลอก
+    tamago-l3-102 [everyday, 2 examples, 6 audio files] 'to deceive, to fool, to trick'
+  หลอก - ลวง - หลอกลวง
+    yt-c10-086 [common, 3 examples, 8 audio files] 'to trick, to fool, to pretend - to deceive, to lure - to scam, to defraud, to deceive'
+  decision: edit yt-c10-086 to be 'ลวง - หลอกลวง'
+
+shared: หล่อ
+  หล่อ
+    thaipod-1076 [everyday, 2 examples, 6 audio files] 'handsome'
+  หล่อ, หล่อหลอม
+    tsl-407 [occasional, 2 examples, 6 audio files] 'to mold, to shape, to cast'
+  note: homograph: handsome vs to mold/cast
+  decision: keep both
+
+shared: ห้าม
+  ห้าม
+    wlt-c14-094 [everyday, 2 examples, 6 audio files] 'to forbid'
+  ห้าม, ห้ามไม่ให้
+    chula-l5-026 [everyday, 2 examples, 6 audio files] 'to forbid, to prohibit'
+  decision: remove wlt-c14-094
+
+shared: อาศัย
+  อาศัย
+    tamago-l3-404 [everyday, 4 examples, 10 audio files] 'to rely on, to depend on; to live in, to reside'
+  อาศัยอยู่, อาศัย
+    wlt-c12-083 [common, 4 examples, 10 audio files] 'to live, to reside; to depend on, to rely on'
+  อาศัย, พึ่งพา, พึ่งพาอาศัย
+    yt-c03-029 [common, 2 examples, 6 audio files] 'to rely on, to depend on'
+  xref: yt-c03-029 also in: พึ่งพา
+  decision: remove wlt-c12-083
+
+shared: เชิงบวก
+  เชิงบวก
+    tobo-350 [occasional, 2 examples, 6 audio files] 'positive'
+  เชิงบวก - เชิงลบ
+    chula-l6-038 [common, 2 examples, 6 audio files] 'positive - negative'
+  xref: chula-l6-038 also in: เชิงลบ
+  decision: remove tobo-350
+
+shared: เชิงลบ
+  เชิงลบ
+    tobo-351 [occasional, 2 examples, 6 audio files] 'negative'
+  เชิงบวก - เชิงลบ
+    chula-l6-038 [common, 2 examples, 6 audio files] 'positive - negative'
+  xref: chula-l6-038 also in: เชิงบวก
+  decision: remove tobo-351
+
+shared: เซ่น
+  เซ่น
+    tsl-218 [rare, 2 examples, 6 audio files] 'offerings, sacrifice, to make an offering to spirits or deities'
+  เซ่น, เซ่นไหว้
+    yt-c09-029 [occasional, 2 examples, 6 audio files] 'to perform a ritual offering (e.g to spirits, gods, ancestors)'
+  decision: remove tsl-218
+
+shared: เดา
+  เดา
+    t4k-c05-083 [common, 2 examples, 6 audio files] 'to guess, to take a guess (without certainty)'
+  เดา - ทาย - มั่ว
+    yt-c13-033 [common, 3 examples, 8 audio files] 'to guess (neutral) - to guess, to predict (e.g games, quizzes) - to guess blindly, randomly'
+  xref: yt-c13-033 also in: ทาย; มั่ว
+  decision: keep both
+
+shared: เต็ม
+  เต็ม
+    tobo-366 [everyday, 2 examples, 6 audio files] 'full'
+  พร่อง - เต็ม - ล้น
+    yt-c12-031 [common, 3 examples, 8 audio files] 'less than full, deficient, lacking, below standard - full - more than full, overflow'
+  xref: yt-c12-031 also in: ล้น
+  decision: keep both
+
+shared: เผ่า
+  เผ่า
+    t4k-c04-029 [common, 2 examples, 6 audio files] 'tribe, ethnic group, clan'
+  เผ่า, ชนเผ่า
+    yt-c05-024 [occasional, 2 examples, 6 audio files] 'tribe, ethnic group'
+  decision: remove t4k-c04-029 and move yt-c05-024 to 'common' frequency
+
+shared: เมล็ด
+  เมล็ด
+    wlt-c08-041 [common, 2 examples, 6 audio files] 'seed'
+  เม็ด - เมล็ด
+    yt-c18-050 [common, 2 examples, 6 audio files] 'seed (small round unit, grain) - seed (idea of life potential, using it to grow a tree)'
+  xref: yt-c18-050 also in: เม็ด
+  decision: keep both
+
+shared: เม็ด
+  เม็ด
+    wlt-c14-031 [common, 4 examples, 10 audio files] 'seed, grain, pill; classifier for small, round objects'
+  เม็ด - เมล็ด
+    yt-c18-050 [common, 2 examples, 6 audio files] 'seed (small round unit, grain) - seed (idea of life potential, using it to grow a tree)'
+  xref: yt-c18-050 also in: เมล็ด
+  decision: keep both
+
+shared: เรา
+  เรา
+    t4k-c01-001 [everyday, 2 examples, 6 audio files] 'we; us'
+  เรา, พวกเรา
+    wlt-c16-020 [everyday, 2 examples, 6 audio files] 'we, our, us'
+  decision: remove t4k-c01-001
+
+shared: เรื่อยๆ
+  เรื่อยๆ
+    tamago-l12-006 [everyday, 2 examples, 6 audio files] 'to keep doing something (continuously)'
+  อย่างต่อเนื่อง, เรื่อยๆ
+    thaipod-1103 [common, 2 examples, 6 audio files] 'continuously'
+  decision: edit thaipod-1103 to be only 'อย่างต่อเนื่อง'
+
+shared: เอาใจเขามาใส่ใจเรา
+  เอาใจเขามาใส่ใจเรา
+    yt-c01-057 [common, 2 examples, 6 audio files] 'to "put oneself in someone else's shoes", to empathize with others ("put his/her heart into our heart")'
+  ใจเขาใจเรา, เอาใจเขามาใส่ใจเรา
+    yt-c17-012 [common, 2 examples, 6 audio files] 'to put yourself in someone else's shoes (literally "put their heart into our heart")'
+  decision: remove yt-c01-057
+
+shared: แคน
+  แคน
+    yt-c05-085 [rare, 2 examples, 6 audio files] 'traditional Lao - Isan musical instrument made of bamboo pipes'
+  แคน, โหวด, ปี่ภูไท
+    yt-c07-078 [rare, 3 examples, 8 audio files] 'wind musical instruments made of bamboo pipes (from Issan - Laos)'
+  decision: remove yt-c05-085
+
+shared: แง่
+  แง่
+    t4k-c02-050 [common, 2 examples, 6 audio files] 'aspect, point of view'
+  แง่ - มุม - แง่มุม
+    yt-c10-087 [common, 3 examples, 8 audio files] 'aspect - angle, viewpoint - point of view, perspective'
+  xref: yt-c10-087 also in: มุม; แง่มุม
+  decision: remove yt-c10-087
+
+shared: แง่มุม
+  แง่มุม
+    thaipod-1306 [occasional, 2 examples, 6 audio files] 'aspect, point of view, perspective'
+  แง่ - มุม - แง่มุม
+    yt-c10-087 [common, 3 examples, 8 audio files] 'aspect - angle, viewpoint - point of view, perspective'
+  xref: yt-c10-087 also in: มุม; แง่
+  decision: remove yt-c10-087
+
+shared: แจก
+  แจก
+    tamago-l12-586 [everyday, 2 examples, 6 audio files] 'to give away, to distribute'
+  แจก, จำหน่าย
+    wlt-c06-040 [common, 2 examples, 6 audio files] 'to distribute'
+  xref: wlt-c06-040 also in: จำหน่าย
+  decision: remove wlt-c06-040
+
+shared: แต่อย่างใด
+  แต่อย่างใด
+    t4k-c04-005 [occasional, 2 examples, 6 audio files] 'at all, whatsoever, in any way'
+  แต่ประการใด, แต่อย่างใด
+    yt-c12-084 [rare, 2 examples, 6 audio files] 'at all, whatsoever (formal)'
+  decision: remove t4k-c04-005
+
+shared: แปลกใจ
+  แปลกใจ
+    tamago-l12-594 [everyday, 2 examples, 6 audio files] 'surprised'
+  ตกใจ - แปลกใจ
+    tsl-126 [everyday, 4 examples, 10 audio files] 'shocked, startled - surprised, astonished'
+  xref: tsl-126 also in: ตกใจ
+  decision: keep both
+
+shared: โดยตรง
+  โดยตรง
+    tamago-l3-171 [common, 2 examples, 6 audio files] 'directly'
+  โดยตรง - โดยนัย
+    yt-c12-051 [common, 2 examples, 6 audio files] 'directly, explicitly - indirectly, implicitly'
+  decision: keep both
+
+shared: โปรด
+  โปรด
+    tamago-l3-035 [everyday, 2 examples, 6 audio files] 'favorite'
+  โปรด, กรุณา
+    chula-l5-027 [everyday, 2 examples, 6 audio files] 'please'
+  note: homograph: favorite vs please
+  decision: remove tamago-l3-035
+
+shared: โผล่
+  โผล่
+    tamago-l3-370 [common, 2 examples, 6 audio files] 'to appear, to emerge, to pop up'
+  ผลุด, โผล่
+    yt-c16-010 [common, 2 examples, 6 audio files] 'to pop up suddenly, to spring out (e.g a thought)'
+  decision: remove tamago-l3-370
+
+shared: โยน
+  โยน
+    tobo-194 [common, 2 examples, 6 audio files] 'to throw'
+  โยน - ปา
+    yt-c02-096 [common, 2 examples, 6 audio files] 'to throw - to toss (with aim, forcefully)'
+  xref: yt-c02-096 also in: ปา
+  decision: keep both
