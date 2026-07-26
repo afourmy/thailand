@@ -1,0 +1,288 @@
+Verb-gloss harmonization: format 1 ("to eat, drink, dance") -> format 2 ("to eat, to drink, to dance").
+Swept 2026-07-26.
+
+How the candidates were found: split each english gloss on ";" then " - " then "," (commas
+inside parentheses do not split), ignoring a leading qualifier like "(idiom)"/"(slang)".
+A card is a candidate when one segment in a comma run starts with "to " and another does not.
+That gave 329 candidates; the list below is the 56 where the bare segment is genuinely a verb.
+The other 273 were rejected because the bare segment is an adjective ("to stand out, outstanding"),
+a noun ("thief, to steal"), or an adverb ("to repeat, repeatedly, again").
+
+Mark any line you disagree with. Nothing has been applied yet.
+
+Note: 47 of the 56 also carry an example "meaning" label that copies the gloss verbatim;
+those labels will be updated to match. All 56 need their english word clip regenerated.
+
+==============================================================================
+PROPOSED CONVERSIONS (56)
+==============================================================================
+
+chula-l4-009  คอย, รอคอย
+  -  to wait, await
+  +  to wait, to await
+
+chula-l5-045  กำ   [partial: only the verb segments get "to"]
+  -  to clench one's fist, grip; a bunch, handful of
+  +  to clench one's fist, to grip; a bunch, handful of
+
+chula-l5-456  ไล่
+  -  to chase, pursue; to expel; to follow in sequence, go through one by one
+  +  to chase, to pursue; to expel; to follow in sequence, to go through one by one
+
+chula-l6-001  เรียบเรียง
+  -  to arrange, compose, organize
+  +  to arrange, to compose, to organize
+
+chula-l6-069  รณรงค์
+  -  to campaign, promote, advocate for
+  +  to campaign, to promote, to advocate for
+
+chula-l6-082  ก้าวก่าย
+  -  to intrude, interfere, meddle with
+  +  to intrude, to interfere, to meddle with
+
+chula-l6-121  หลีกทาง
+  -  to make way, give way, step aside
+  +  to make way, to give way, to step aside
+
+chula-l6-147  วอน, อ้อนวอน
+  -  to plead for, beg for, implore
+  +  to plead for, to beg for, to implore
+
+chula-l6-164  หลุด
+  -  to slip, drop, fall off
+  +  to slip, to drop, to fall off
+
+chula-l6-196  ผสม, ผสมผสาน
+  -  to mix, combine, blend together
+  +  to mix, to combine, to blend together
+
+chula-l6-220  ผ่า
+  -  to cut into pieces, split, dissect
+  +  to cut into pieces, to split, to dissect
+
+chula-l6-241  เปิดตัว
+  -  to launch, introduce, unveil (event, product); to introduce a romantic partner to friends or family
+  +  to launch, to introduce, to unveil (event, product); to introduce a romantic partner to friends or family
+
+chula-l6-272  คาดเดา
+  -  to guess, predict, speculate, infer from clues
+  +  to guess, to predict, to speculate, to infer from clues
+
+chula-l6-273  ทุบ
+  -  to smash, hit, break, beat
+  +  to smash, to hit, to break, to beat
+
+chula-l6-338  รองรับ
+  -  to support, accommodate, handle (e.g a need, a capacity)
+  +  to support, to accommodate, to handle (e.g a need, a capacity)
+
+tamago-l12-008  ไหว   [partial: only the verb segments get "to"]
+  -  to be able to, have the capacity (physical or mental) to
+  +  to be able to, to have the capacity (physical or mental) to
+
+tamago-l12-036  กั้น
+  -  to block, separate, divide
+  +  to block, to separate, to divide
+
+tamago-l12-055  ขัง
+  -  to lock up, imprison, confine
+  +  to lock up, to imprison, to confine
+
+tamago-l12-068  ข้าม
+  -  to cross, pass over; to skip
+  +  to cross, to pass over; to skip
+
+tamago-l12-165  ต่อราคา
+  -  to negotiate the price, haggle
+  +  to negotiate the price, to haggle
+
+tamago-l12-185  ถู
+  -  to scrub, rub, mop
+  +  to scrub, to rub, to mop
+
+tamago-l12-201  ทำร้ายร่างกาย
+  -  to physically abuse, assault someone
+  +  to physically abuse, to assault someone
+
+tamago-l12-368  รับสาย
+  -  to answer a call, pick up the phone
+  +  to answer a call, to pick up the phone
+
+tamago-l12-447  หลงกล   [partial: only the verb segments get "to"]
+  -  to be tricked, fooled, fall into a trap
+  +  to be tricked, fooled, to fall into a trap
+
+tamago-l12-467  อพยพ
+  -  to migrate, evacuate, relocate
+  +  to migrate, to evacuate, to relocate
+
+tamago-l12-531  เบียด
+  -  to squeeze, press, jostle
+  +  to squeeze, to press, to jostle
+
+tamago-l12-588  แจ้ง
+  -  to inform, notify, file a report
+  +  to inform, to notify, to file a report
+
+thai9k-001  ปลดปล่อย
+  -  to liberate, set free, release from oppression
+  +  to liberate, to set free, to release from oppression
+
+thai9k-037  หลงเชื่อ   [partial: only the verb segments get "to"]
+  -  to be fooled into believing, be gullible enough to believe
+  +  to be fooled into believing, to be gullible enough to believe
+
+tamago-l3-062  ลุก
+  -  to stand up, get up; (of fire) to ignite, to burn
+  +  to stand up, to get up; (of fire) to ignite, to burn
+
+tamago-l3-140  ทะลุ
+  -  to go through, break through, pierce through
+  +  to go through, to break through, to pierce through
+
+tamago-l3-201  มั่ว   [partial: only the verb segments get "to"]
+  -  to mess up, mixed up, to bullshit, say random things from lack of knowledge
+  +  to mess up, mixed up, to bullshit, to say random things from lack of knowledge
+
+tamago-l3-600  สรรหา   [partial: only the verb segments get "to"]
+  -  to seek out, search for, dig up, to pick carefully, to recruit
+  +  to seek out, to search for, to dig up, to pick carefully, to recruit
+
+tamago-l3-772  วิจารณ์
+  -  to criticize, review, evaluate
+  +  to criticize, to review, to evaluate
+
+tsl-024  แกง
+  -  curry; (slang) to tease, trick, prank
+  +  curry; (slang) to tease, to trick, to prank
+
+tsl-165  ส่งเสริม
+  -  to support, encourage, promote
+  +  to support, to encourage, to promote
+
+tsl-238  เสริมสร้าง
+  -  to enhance, strengthen, reinforce
+  +  to enhance, to strengthen, to reinforce
+
+tsl-533  มีหน้ามีตา   [partial: only the verb segments get "to"]
+  -  (idiom) to have status, to be well-regarded, have a good reputation
+  +  (idiom) to have status, to be well-regarded, to have a good reputation
+
+thaipod-1063  หยอก, หยอกล้อ
+  -  to tease, make fun of, joke around
+  +  to tease, to make fun of, to joke around
+
+yt-c01-002  บริหาร
+  -  to administer, manage
+  +  to administer, to manage
+
+yt-c01-085  เยี่ยว
+  -  to go pee, piss (slang)
+  +  to go pee, to piss (slang)
+
+yt-c02-097  แบ
+  -  to unfold, spread out, to stretch out (e.g hand, finger)
+  +  to unfold, to spread out, to stretch out (e.g hand, finger)
+
+yt-c03-091  กรีด
+  -  to scream; to cut, slit
+  +  to scream; to cut, to slit
+
+yt-c04-026  ทดสอบ
+  -  to check, test, evaluate, experiment
+  +  to check, to test, to evaluate, to experiment
+
+yt-c05-001  ควงแขน
+  -  to hold arms, walk arm in arm (as a couple)
+  +  to hold arms, to walk arm in arm (as a couple)
+
+yt-c06-032  ท้อ, ท้อใจ, ท้อแท้   [partial: only the verb segments get "to"]
+  -  discouraged, disheartened, to lose motivation, feel like giving up
+  +  discouraged, disheartened, to lose motivation, to feel like giving up
+
+yt-c07-070  สี
+  -  color; to play with a bow (e.g violin); to fuck; to rub, brush (teeth)
+  +  color; to play with a bow (e.g violin); to fuck; to rub, to brush (teeth)
+
+yt-c17-050  คารวะ
+  -  to salute, pay respect (sort of wai, but more formal)
+  +  to salute, to pay respect (sort of wai, but more formal)
+
+yt-c20-046  เคยตัว   [partial: only the verb segments get "to"]
+  -  to have gotten used to, be accustomed to (used negatively, e.g bad habit, bad behavior)
+  +  to have gotten used to, to be accustomed to (used negatively, e.g bad habit, bad behavior)
+
+wlt-c12-019  เลิก
+  -  to stop, end, quit, break up
+  +  to stop, to end, to quit, to break up
+
+wlt-c15-026  เก็บ
+  -  to collect, keep, store
+  +  to collect, to keep, to store
+
+wlt-c16-045  สูบ
+  -  to draw on, pump, smoke
+  +  to draw on, to pump, to smoke
+
+wlt-c17-058  ว่า
+  -  to think, say, criticize, have an opinion; that (as in "said that")
+  +  to think, to say, to criticize, to have an opinion; that (as in "said that")
+
+wlt-c17-068  เสร็จ
+  -  to finish, complete, succeed
+  +  to finish, to complete, to succeed
+
+wlt-c17-082  ออก
+  -  to go out, leave, exit
+  +  to go out, to leave, to exit
+
+wlt-c21-030  พูด
+  -  to speak, talk, say
+  +  to speak, to talk, to say
+
+==============================================================================
+CLOSEST CALLS I REJECTED (10) -- say the word if you want any of these converted
+==============================================================================
+
+chula-l5-061  พ้นโทษ
+     to be free from punishment, released from prison
+     reason: "released from prison" would need "to be released", not just "to"
+do it
+
+tamago-l12-158  ติดคุก
+     to be in jail, imprisoned
+     reason: "imprisoned" reads as an adjective sharing "to be"
+do it
+
+wlt-c10-083  แตกต่าง
+     to differ, to be different, separate
+     reason: "separate" reads as the adjective here, not the verb
+
+chula-l6-275  สอดคล้อง
+     to be in line with, consistent with, to correspond with
+     reason: "consistent with" is an adjective phrase
+
+yt-c10-031  เปรียบมวย
+     to compare strength, abilities, to size up opponents (two fighters in muay thai, or can be used for any other activity)
+     reason: "abilities" is a noun continuing "to compare strength"
+
+tamago-l3-107  รู้ใจ
+     to deeply know someone's feelings, thoughts
+     reason: "thoughts" is a noun continuing "someone's feelings"
+
+chula-l6-105  ร้องทุกข์
+     to file a complaint about a hardship, suffering
+     reason: "suffering" is a noun continuing "a hardship"
+
+tsl-473  ผึ่ง
+     to air out, to air-dry, to be exposed to air, sun
+     reason: "sun" is a noun continuing "exposed to air"
+
+yt-c04-006  ม้วน
+     to roll, to curl, roll, classifier for rolled items (e.g toilet paper)
+     reason: the second "roll" is the noun (classifier sense follows)
+
+tamago-l12-414  สมควร
+     appropriate, suitable; to deserve, worthy
+     reason: "worthy" is an adjective
