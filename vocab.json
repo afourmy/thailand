@@ -28107,7 +28107,8 @@
             "audio_en_src": "My girlfriend’s sulking because I forgot our anniversary."
           },
           {
-            "thai": "อย่า​งอนสิ ขอโทษแล้วไง",
+            "thai": "อย่างอนสิ ขอโทษแล้วไง",
+            "thai_tts": "อย่า​งอนสิ ขอโทษแล้วไง",
             "en": "Don’t sulk, I already said sorry.",
             "audio_src": "อย่า​งอนสิ ขอโทษแล้วไง",
             "audio_en_src": "Don’t sulk, I already said sorry."
@@ -119903,7 +119904,8 @@
             "audio_en_src": "The dog licks its owner's hand affectionately."
           },
           {
-            "thai": "เด็กเลีย​ไอศกรีมอย่างเอร็ดอร่อย",
+            "thai": "เด็กเลียไอศกรีมอย่างเอร็ดอร่อย",
+            "thai_tts": "เด็กเลีย​ไอศกรีมอย่างเอร็ดอร่อย",
             "en": "The kid licks the ice cream happily.",
             "audio_src": "เด็กเลีย​ไอศกรีมอย่างเอร็ดอร่อย",
             "audio_en_src": "The kid licks the ice cream happily."
@@ -227678,7 +227680,8 @@
             "audio_en_src": "The mother is breastfeeding her baby."
           },
           {
-            "thai": "ทารก​ดูดนมแม่",
+            "thai": "ทารกดูดนมแม่",
+            "thai_tts": "ทารก​ดูดนมแม่",
             "en": "The infant nurses at its mother's breast.",
             "audio_src": "ทารก​ดูดนมแม่",
             "audio_en_src": "The infant nurses at its mother's breast."

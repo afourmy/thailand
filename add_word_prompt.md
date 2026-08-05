@@ -21,7 +21,7 @@ Everything needed to add a new word to the deck: create the card, choose its fre
 - **id**: manually added words use the `new-N` scheme. Find the current highest `new-N` in `vocab.json` and use the next number (they run `new-1` upward). The id is arbitrary but must be unique.
 - **thai**: the headword. Use normal Thai spacing (no spaces inside a word; a space only at a real phrase boundary, since a space becomes a spoken pause in the audio).
 - **english**: the gloss(es). Separate distinct meanings with a semicolon: `"word; a mouthful (of food)"` is a two-meaning card. Comma-separated forms inside one segment are synonyms of the same meaning.
-- Optional `thai_tts` / `english_tts`: a phonetic respelling spoken by the audio generator instead of the display text, only for homographs whose isolated reading is wrong (e.g. `"พลาว"` so เพลา "to lessen" is read *plao*, not *phee-laa*). See the ZWSP / homograph sections of `CLAUDE.md` before using these.
+- Optional `thai_tts` / `english_tts`: the text the audio generator speaks instead of the display text, for fixing a bad clip. It holds either a phonetic respelling (homographs whose isolated reading is wrong, e.g. `"พลาว"` so เพลา "to lessen" is read *plao*, not *phee-laa*) or the same text with a zero-width space marking a word boundary Azure gets wrong. Every such fix goes here; the display fields are never altered for the audio's sake. See the audio-fixing sections of `CLAUDE.md` before using these.
 
 ## 2. Choose the `frequency`
 
@@ -111,7 +111,7 @@ Credentials come from `.tts-credentials`. Audio is sharded across 256 folders an
 - **Word audio:** `source .tts-credentials && python3 gen_audio.py --id <word-id>`. Synthesizes the Thai and English pronunciation of the headword, writes `<shard>/<id>.mp3` and `<id>.en.mp3`, and sets `"audio"` / `"audio_en": true` so the page shows the speaker button. Idempotent (skips existing clips); add `--force` to regenerate after editing the `thai`/`english`/`_tts` text.
 - **Example audio:** `source .tts-credentials && python3 gen_example_audio.py` (or `--id <word-id>` for one word). Synthesizes a Thai and an English clip per sentence, inserts the spoken pauses from the spacing, and records the exact text spoken so a later edit to a sentence is detected and only that clip regenerated. Run it again after any sentence change.
 
-If a generated clip is mispronounced (segmentation or homograph error), see the audio-fixing sections of `CLAUDE.md` (ZWSP hint, `thai_tts` respelling).
+If a generated clip is mispronounced (segmentation or homograph error), see the audio-fixing sections of `CLAUDE.md`. Both fixes (ZWSP hint, phonetic respelling) live in `thai_tts`, never in the display fields.
 
 ## 5. Commit
 
