@@ -40255,9 +40255,9 @@
             "audio_en_src": "She sings beautifully."
           },
           {
-            "thai": "เสียงเขาเพราะนะ",
+            "thai": "เสียงเขาเพราะ",
             "en": "He has a lovely voice.",
-            "audio_src": "เสียงเขาเพราะนะ",
+            "audio_src": "เสียงเขาเพราะ",
             "audio_en_src": "He has a lovely voice."
           }
         ]
@@ -216161,7 +216161,7 @@
   },
   {
     "id": "wlt-c16-032",
-    "thai": "สบู่, สบู่หอม",
+    "thai": "สบู่, สบู่​หอม",
     "english": "soap",
     "frequency": "everyday",
     "audio": true,
