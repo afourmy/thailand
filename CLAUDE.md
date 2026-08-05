@@ -11,6 +11,10 @@ These pages are read by non-native English speakers. They must be useful, not im
 
 Apply these while writing, not in a cleanup pass afterwards.
 
+## The voices are fixed
+
+The deck uses exactly one Thai voice, `th-TH-PremwadeeNeural`, and one English voice, `en-US-JennyNeural`, everywhere. Never switch voice, not for a single card, not as a workaround for a word Azure mispronounces: the whole deck has to sound like the same speaker. Another voice may be synthesized as a throwaway diagnostic, but it never gets written into the audio repos. When a clip is wrong, the fix always comes from the text (segmentation hint, `thai_tts` respelling, or rewording the sentence).
+
 ## Fixing a mispronounced audio clip ("this card's audio is wrong")
 
 Azure TTS (th-TH-PremwadeeNeural) sometimes misreads a sentence because it mis-segments the unspaced Thai text (e.g. it read ทารกดูดนมแม่ as "thân-kra-dùut", and swallowed a syllable of ไอศกรีม in เลียไอศกรีม). Synthesis is fully deterministic: the same text always produces byte-identical mp3, so re-running without changing the text reproduces the same error.
