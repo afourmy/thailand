@@ -21918,7 +21918,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เฉย",
-    "audio_en_src": "plain, just, simple; 'not as expected', 'not like one thought'",
+    "audio_en_src": "plain, just, simple; \"not as expected\", \"not like one thought\"",
     "examples": [
       {
         "meaning": "plain, just, simple",
@@ -22785,7 +22785,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "คน",
-    "audio_en_src": "person; to stir",
+    "audio_en_src": "person",
     "examples": [
       {
         "meaning": "person",
@@ -25672,7 +25672,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "...ไปก่อน",
-    "audio_en_src": "'... for now'",
+    "audio_en_src": "\"... for now\"",
     "examples": [
       {
         "meaning": "'... for now'",
@@ -25701,7 +25701,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เรื่อยๆ",
-    "audio_en_src": "to keep doing sth",
+    "audio_en_src": "to keep doing something",
     "examples": [
       {
         "meaning": "to keep doing sth (continuously)",
@@ -29086,7 +29086,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ดอก",
-    "audio_en_src": "flower; classifier for small objects",
+    "audio_en_src": "classifier for various small objects",
     "examples": [
       {
         "meaning": "classifier for various small objects (flowers, keys, firecrackers, etc)",
@@ -29634,7 +29634,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ตามสบาย",
-    "audio_en_src": "'please go ahead', 'as you like'",
+    "audio_en_src": "\"please go ahead\", \"as you like\"",
     "examples": [
       {
         "meaning": "'please go ahead', 'as you like'",
@@ -31356,7 +31356,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นั่นน่ะสิ",
-    "audio_en_src": "'that's right!', 'good point!'",
+    "audio_en_src": "\"that's right!\", \"good point!\"",
     "examples": [
       {
         "meaning": "'that's right!', 'good point!'",
@@ -31759,7 +31759,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "น่าสงสาร",
-    "audio_en_src": "'poor thing', pitiful",
+    "audio_en_src": "\"poor thing\", pitiful",
     "examples": [
       {
         "meaning": "'poor thing', pitiful",
@@ -38107,7 +38107,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อย่าง",
-    "audio_en_src": "classifier for abstract things, type / kind",
+    "audio_en_src": "classifier for abstract things, type, kind",
     "examples": [
       {
         "meaning": "classifier for abstract things, type / kind",
@@ -40786,7 +40786,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เสียดาย",
-    "audio_en_src": "'it's a shame', 'what a pity'",
+    "audio_en_src": "\"it's a shame\", \"what a pity\"",
     "examples": [
       {
         "meaning": "'it's a shame', 'what a pity'",
@@ -41212,7 +41212,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาน่า",
-    "audio_en_src": "'come on!', 'let's do it!'",
+    "audio_en_src": "\"come on!\", \"let's do it!\"",
     "examples": [
       {
         "meaning": "'come on!', 'let's do it!' (persuade or encourage)",
@@ -41241,7 +41241,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาใหม่",
-    "audio_en_src": "'try again', 'do it again'",
+    "audio_en_src": "\"try again\", \"do it again\"",
     "examples": [
       {
         "meaning": "'try again', 'do it again'",
@@ -41886,7 +41886,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แล้วไง",
-    "audio_en_src": "'and?', 'so what?'",
+    "audio_en_src": "\"and?\", \"so what?\"",
     "examples": [
       {
         "meaning": "'and?', 'so what?'",
@@ -42970,7 +42970,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่มีทาง",
-    "audio_en_src": "'no way!', impossible",
+    "audio_en_src": "\"no way!\", impossible",
     "examples": [
       {
         "meaning": "'no way!', impossible",
@@ -44526,7 +44526,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใช้ได้",
-    "audio_en_src": "good quality, 'okay', decent, usable",
+    "audio_en_src": "good quality, \"okay\", decent, usable",
     "examples": [
       {
         "meaning": "good quality, 'okay', decent, usable",
@@ -44555,7 +44555,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่น่าเลย",
-    "audio_en_src": "'that's too bad', 'that's unfortunate'",
+    "audio_en_src": "\"that's too bad\", \"that's unfortunate\"",
     "examples": [
       {
         "meaning": "'that's too bad', 'that's unfortunate'",
@@ -45404,7 +45404,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แย่แล้ว",
-    "audio_en_src": "'oh shoot', 'oh no'",
+    "audio_en_src": "\"oh shoot\", \"oh no\"",
     "examples": [
       {
         "meaning": "'oh shoot', 'oh no'",
@@ -45643,7 +45643,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาเหอะ",
-    "audio_en_src": "'never mind', 'whatever', 'forget about it'",
+    "audio_en_src": "\"never mind\", \"whatever\", \"forget about it\"",
     "examples": [
       {
         "meaning": "'never mind', 'whatever', 'forget about it'",
@@ -50130,7 +50130,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่ไหว",
-    "audio_en_src": "'I can't take it!', can't handle",
+    "audio_en_src": "\"I can't take it!\", can't handle",
     "examples": [
       {
         "meaning": "'I can't take it!', can't handle",
@@ -50267,7 +50267,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เอาเถอะ",
-    "audio_en_src": "'whatever!', 'let it go', 'leave it alone'",
+    "audio_en_src": "\"whatever!\", \"let it go\", \"leave it alone\"",
     "examples": [
       {
         "meaning": "'whatever!', 'let it go', 'leave it alone'",
@@ -52220,7 +52220,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ประมาณว่า...",
-    "audio_en_src": "'roughly speaking, ...', 'something like...'",
+    "audio_en_src": "\"roughly speaking, ...\", \"something like...\"",
     "examples": [
       {
         "meaning": "'roughly speaking, ...', 'something like...'",
@@ -52796,7 +52796,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "บ้านเรา",
-    "audio_en_src": "refers to Thailand, 'our country'",
+    "audio_en_src": "refers to Thailand, \"our country\"",
     "examples": [
       {
         "meaning": "(colloquial) refers to Thailand, 'our country'",
@@ -53566,8 +53566,8 @@
     "frequency": "common",
     "audio": true,
     "audio_en": true,
-    "audio_src": "ช่างมันเถอะ, ช่างเหอะ",
-    "audio_en_src": "'whatever!', 'never mind', 'forget about it!'",
+    "audio_src": "ช่างมันเถอะ, ช่างเหอะ, ช่างเถอะ",
+    "audio_en_src": "\"whatever!\", \"never mind\", \"forget about it!\"",
     "examples": [
       {
         "meaning": "'whatever!', 'never mind', 'forget about it!'",
@@ -58815,7 +58815,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สมน้ำหน้า",
-    "audio_en_src": "'serves you right', 'you deserve it'",
+    "audio_en_src": "\"serves you right\", \"you deserve it\"",
     "examples": [
       {
         "meaning": "'serves you right', 'you deserve it'",
@@ -59528,7 +59528,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ทำใจ",
-    "audio_en_src": "to come to terms with sth, to accept",
+    "audio_en_src": "to come to terms with something, to accept",
     "examples": [
       {
         "meaning": "to come to terms with sth, to accept",
@@ -63020,7 +63020,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ช่าง",
-    "audio_en_src": "to disregard, to ignore; how + adj",
+    "audio_en_src": "to disregard, to ignore; how",
     "examples": [
       {
         "meaning": "to disregard, to ignore",
@@ -65415,7 +65415,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "นักศึกษา",
-    "audio_en_src": "university/college student",
+    "audio_en_src": "university student, college student",
     "examples": [
       {
         "meaning": "university/college student",
@@ -66883,7 +66883,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สู้",
-    "audio_en_src": "to fight; 'might as well', 'wouldn't it be better if'",
+    "audio_en_src": "to fight; \"might as well\", \"wouldn't it be better if\"",
     "examples": [
       {
         "meaning": "to fight",
@@ -82149,7 +82149,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฉัน",
-    "audio_en_src": "I; to eat; like, as",
+    "audio_en_src": "to eat; like, as",
     "examples": [
       {
         "meaning": "to eat (monks' usage)",
@@ -96161,7 +96161,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ปากซอย",
-    "audio_en_src": "entrance/mouth of a soi",
+    "audio_en_src": "entrance of a soi",
     "examples": [
       {
         "meaning": "entrance/mouth of a soi (small street)",
@@ -107814,7 +107814,7 @@
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
-    "audio_src": "ออกกําลังกาย",
+    "audio_src": "ออกกำลังกาย",
     "audio_en_src": "to exercise",
     "examples": [
       {
@@ -113622,8 +113622,8 @@
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
-    "audio_src": "ใจเย็นๆ",
-    "audio_en_src": "'cool down', 'take it easy'",
+    "audio_src": "ใจ​เย็นๆ",
+    "audio_en_src": "\"cool down\", \"take it easy\"",
     "examples": [
       {
         "meaning": "'cool down', 'take it easy'",
@@ -190790,7 +190790,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "อย่าเพิ่ง",
-    "audio_en_src": "'don't do that yet!', 'hold on!'",
+    "audio_en_src": "\"don't do that yet!\", \"hold on!\"",
     "examples": [
       {
         "meaning": "'don't do that yet!', 'hold on!'",
@@ -200771,7 +200771,7 @@
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
-    "audio_src": "ห้องครัว",
+    "audio_src": "ครัว, ห้องครัว",
     "audio_en_src": "kitchen",
     "examples": [
       {
@@ -201017,7 +201017,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เหรอ",
-    "audio_en_src": "'really?'",
+    "audio_en_src": "\"really?\"",
     "examples": [
       {
         "meaning": "'really?' (particle asking for confirmation)",
@@ -201560,7 +201560,7 @@
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
-    "audio_src": "เอามา, นํามา",
+    "audio_src": "เอามา, นำมา",
     "audio_en_src": "to bring",
     "examples": [
       {
@@ -201619,7 +201619,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "แอร์",
-    "audio_en_src": "a/c, air hostess",
+    "audio_en_src": "air conditioning, air hostess",
     "examples": [
       {
         "meaning": "a/c (informal)",
@@ -205351,7 +205351,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ฝึก, หัด, ฝึกหัด",
-    "audio_en_src": "to practise, exercise, train",
+    "audio_en_src": "to practice, to exercise, to train",
     "examples": [
       {
         "meaning": "to practice, to exercise, to train",
@@ -205573,7 +205573,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เพิ่ม, เพิ่มขึ้น",
-    "audio_en_src": "to increase",
+    "audio_en_src": "to add, to increase",
     "examples": [
       {
         "meaning": "to add, to increase",
@@ -209559,7 +209559,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "เชิญ",
-    "audio_en_src": "to invite someone to do sth",
+    "audio_en_src": "to invite someone to do something",
     "examples": [
       {
         "meaning": "to invite someone to do sth (polite request: 'please...')",
@@ -211599,7 +211599,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ไม่ใช่",
-    "audio_en_src": "no, 'that's not it'",
+    "audio_en_src": "no, \"that's not it\"",
     "examples": [
       {
         "meaning": "no, 'that's not it'",
@@ -214248,7 +214248,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ใช่ไหม",
-    "audio_en_src": "'isn't it so?', 'right?'",
+    "audio_en_src": "\"isn't it so?\", \"right?\"",
     "examples": [
       {
         "meaning": "'isn't it so?', 'right?'",
@@ -216173,7 +216173,7 @@
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
-    "audio_src": "สบู่, สบู่หอม",
+    "audio_src": "สบู่, สบู่​หอม",
     "audio_en_src": "soap",
     "examples": [
       {
@@ -221213,7 +221213,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "ถ้าอย่างนั้น",
-    "audio_en_src": "'in that case', 'if so, then...'",
+    "audio_en_src": "\"in that case\", \"if so, then...\"",
     "examples": [
       {
         "meaning": "'in that case', 'if so, then...'",
@@ -222871,7 +222871,7 @@
     "audio": true,
     "audio_en": true,
     "audio_src": "สบายๆ",
-    "audio_en_src": "'no problem', 'no worries', relaxed",
+    "audio_en_src": "\"no problem\", \"no worries\", relaxed",
     "examples": [
       {
         "meaning": "'no problem', 'no worries', relaxed",

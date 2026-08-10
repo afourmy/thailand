@@ -5,8 +5,16 @@ Reads thai/vocab.json, synthesizes audio for the chosen language(s), writes
 thai/audio/<shard>/<id>.mp3 (Thai) and thai/audio/<shard>/<id>.en.mp3 (English),
 where <shard> is a 2-hex-digit bucket of the word id (see audio_paths.py), and flags
 each word with "audio" / "audio_en": true so the page shows a speaker button only
-where audio exists. Idempotent: skips words whose mp3 already exists unless
---force.
+where audio exists.
+
+Provenance, as in gen_example_audio.py: the text a clip was synthesized from is
+recorded as "audio_src" (Thai) / "audio_en_src" (English), and a clip is rebuilt
+when that recorded text no longer matches the card. Editing a gloss therefore
+refreshes its audio on the next run; without this check a card edited after
+synthesis kept saying the old wording forever (found 2026-08-10: 41 English and 6
+Thai word clips stale, three of them still saying "sth" for "something"). Clips
+made before the check existed have no recorded source, so they cannot be verified:
+they are left alone and counted at the end, and only --force rebuilds them.
 
 The text spoken is the full field value -- all comma / dash separated forms are
 read -- with any parenthetical "(...)" removed, since parentheses are
@@ -49,6 +57,7 @@ LANGS = {
         "xmllang": "th-TH",
         "suffix": "",          # audio/<id>.mp3
         "flag": "audio",
+        "src": "audio_src",
     },
     "en": {
         "field": "english",
@@ -56,6 +65,7 @@ LANGS = {
         "xmllang": "en-US",
         "suffix": ".en",       # audio/<id>.en.mp3
         "flag": "audio_en",
+        "src": "audio_en_src",
     },
 }
 
@@ -147,15 +157,24 @@ def main():
 
     changed = False
     failures = []
+    unverifiable = 0
     for word in targets:
         for lc in selected:
             cfg = LANGS[lc]
+            src_key = cfg["src"]
             out = Path(audio_paths.word_audio_path(word["id"], en=(lc == "en")))
+            spoken = speakable(word.get(cfg["field"] + "_tts") or word.get(cfg["field"], ""))
+            recorded = word.get(src_key)
             ok = out.exists()
-            if ok and not args.force:
-                print("skip (exists):", out.name)
+            # Up to date when the file exists and was made from the current text.
+            # A clip with no recorded source predates this check, so it cannot be
+            # verified: leave it alone and report it, rather than re-synthesizing
+            # the whole deck or silently trusting it.
+            if ok and not args.force and recorded == spoken:
+                print("skip (up to date):", out.name)
+            elif ok and not args.force and recorded is None:
+                unverifiable += 1
             else:
-                spoken = speakable(word.get(cfg["field"] + "_tts") or word.get(cfg["field"], ""))
                 if not spoken:
                     print("skip (empty %s):" % lc, word["id"])
                     continue
@@ -165,6 +184,9 @@ def main():
                     out.write_bytes(audio)
                     ok = True
                     print("wrote:", out.name, "(%d bytes)" % len(audio), spoken)
+                    if word.get(src_key) != spoken:
+                        word[src_key] = spoken
+                        changed = True
                     time.sleep(args.delay)
                 except urllib.error.HTTPError as e:
                     body = e.read().decode("utf-8", "replace")[:300]
@@ -184,7 +206,12 @@ def main():
             json.dumps(words, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
-        print("updated vocab.json (audio flags)")
+        print("updated vocab.json (audio flags / audio_src)")
+
+    if unverifiable:
+        print("%d clip(s) have no recorded source text and were left alone; "
+              "re-run with --force to rebuild them from the current text."
+              % unverifiable)
 
     if failures:
         print("\n%d failed:" % len(failures))
