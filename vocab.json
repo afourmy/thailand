@@ -113630,18 +113630,21 @@
           {
             "thai": "ใจเย็นๆ เดี๋ยวก็ได้คิว",
             "en": "Take it easy, it'll be your turn soon.",
-            "audio_src": "ใจเย็นๆ เดี๋ยวก็ได้คิว",
-            "audio_en_src": "Take it easy, it'll be your turn soon."
+            "audio_src": "ใจ​เย็นๆ, เดี๋ยวก็ได้คิว",
+            "audio_en_src": "Take it easy, it'll be your turn soon.",
+            "thai_tts": "ใจ​เย็นๆ, เดี๋ยวก็ได้คิว"
           },
           {
             "thai": "ใจเย็นๆก่อน อย่าเพิ่งโมโห",
             "en": "Calm down first, don't get angry yet.",
-            "audio_src": "ใจเย็นๆก่อน อย่าเพิ่งโมโห",
-            "audio_en_src": "Calm down first, don't get angry yet."
+            "audio_src": "ใจ​เย็นๆก่อน, อย่าเพิ่งโมโห",
+            "audio_en_src": "Calm down first, don't get angry yet.",
+            "thai_tts": "ใจ​เย็นๆก่อน, อย่าเพิ่งโมโห"
           }
         ]
       }
-    ]
+    ],
+    "thai_tts": "ใจ​เย็นๆ"
   },
   {
     "id": "thaipod-1393",
