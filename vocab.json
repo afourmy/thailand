@@ -37146,8 +37146,9 @@
           {
             "thai": "ใส่เสื้อหนาๆ หน่อย ข้างนอกหนาว",
             "en": "Wear something thick, it's cold outside.",
-            "audio_src": "ใส่เสื้อหนาๆ หน่อย ข้างนอกหนาว",
-            "audio_en_src": "Wear something thick, it's cold outside."
+            "audio_src": "ใส่เสื้อหนาๆ·หน่อย ข้างนอกหนาว",
+            "audio_en_src": "Wear something thick, it's cold outside.",
+            "thai_tts": "ใส่เสื้อหนาๆ·หน่อย ข้างนอกหนาว"
           }
         ]
       }
@@ -195227,9 +195228,9 @@
             "audio_en_src": "It rained all day today."
           },
           {
-            "thai": "เขาทำงานตลอดวันไม่ได้พัก",
+            "thai": "เขาทำงานตลอดวัน ไม่ได้พัก",
             "en": "He worked all day without a break.",
-            "audio_src": "เขาทำงานตลอดวันไม่ได้พัก",
+            "audio_src": "เขาทำงานตลอดวัน ไม่ได้พัก",
             "audio_en_src": "He worked all day without a break."
           }
         ]
