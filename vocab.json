@@ -112801,8 +112801,9 @@
           {
             "thai": "ขากลับบ้านแวะหายายหน่อย",
             "en": "On the way home, drop by to see grandma.",
-            "audio_src": "ขากลับบ้านแวะหายายหน่อย",
-            "audio_en_src": "On the way home, drop by to see grandma."
+            "audio_src": "ขากลับบ้าน·แวะ·หายายหน่อย",
+            "audio_en_src": "On the way home, drop by to see grandma.",
+            "thai_tts": "ขากลับบ้าน·แวะ·หายายหน่อย"
           }
         ]
       }
