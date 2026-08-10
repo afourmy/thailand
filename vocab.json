@@ -169811,7 +169811,7 @@
   {
     "id": "yt-c17-097",
     "thai": "เหวี่ยง",
-    "english": "to swing, to fling (sweeping or swinging motion)",
+    "english": "to swing, to fling (sweeping or swinging motion); moody, irritable, to lash out, to snap at people",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
@@ -169832,8 +169832,26 @@
             "audio_en_src": "The athlete swung the hammer with all his strength."
           }
         ]
+      },
+      {
+        "meaning": "moody, irritable, to lash out, to snap at people",
+        "sentences": [
+          {
+            "thai": "อย่าเหวี่ยงใส่ฉัน ฉันไม่ได้ทำอะไร",
+            "en": "Don't snap at me, I didn't do anything.",
+            "audio_src": "อย่าเหวี่ยงใส่ฉัน ฉันไม่ได้ทำอะไร",
+            "audio_en_src": "Don't snap at me, I didn't do anything."
+          },
+          {
+            "thai": "วันนี้เขาเหวี่ยงทั้งวัน",
+            "en": "He has been in a bad mood all day.",
+            "audio_src": "วันนี้เขาเหวี่ยงทั้งวัน",
+            "audio_en_src": "He has been in a bad mood all day."
+          }
+        ]
       }
-    ]
+    ],
+    "audio_en_src": "to swing, to fling; moody, irritable, to lash out, to snap at people"
   },
   {
     "id": "yt-c17-098",
