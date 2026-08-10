@@ -53,9 +53,11 @@ Tooling note: faster-whisper and pythainlp are not installed globally; create a 
 
 When one word in a sentence is read wrong, the cause is almost always that Azure did not parse it as a separate word. **Isolate the word.** The user's own rule: the separator must be inaudible, so the sentence still sounds like one phrase.
 
+**Just apply the middle dot. Do not offer a menu of candidates.** The decision was made on 2026-08-10 and it does not need re-deciding per card: put `·` (U+00B7) around the word in `thai_tts`, regenerate, play the one resulting clip to confirm. Only if the user says that clip is still wrong do you go down the rest of the ladder. Playing four labelled candidates is for a genuinely new failure mode, not for this one.
+
 The ladder, in order, all of it inside `thai_tts` and never in the display `thai`:
 
-1. **Middle dot `·` (U+00B7) on both sides of the word.** This is the first thing to try, and the one that has worked: `ขากลับบ้าน·แวะ·หายายหน่อย`. It isolates the word and adds roughly 50ms, which is not audible as a pause. Chosen over the alternatives by ear on thaipod-1342 (2026-08-10).
+1. **Middle dot `·` (U+00B7) on both sides of the word.** The default fix: `ขากลับบ้าน·แวะ·หายายหน่อย`, `ขนมไทยหลายอย่างใส่กะทิ·มะพร้าว`. It isolates the word and adds roughly 50ms, which is not audible as a pause. Chosen over the alternatives by ear on thaipod-1342, confirmed again on tobo-189 (2026-08-10). One dot is enough when the word ends the sentence.
 2. **Hyphen `-` on both sides.** Also read correctly, adds ~120ms, slightly more noticeable than the dot.
 3. **Comma**, i.e. a real space in `thai_tts`, which `thai_body()` converts to ", ". Isolates most strongly and always fixes the reading, but the ~0.9s pause is plainly audible, so it is a diagnostic tool, not a shipping fix: use it first to confirm that isolation is what the word needs, then move down to the dot.
 4. **ZWSP (U+200B)** only helps segmentation splits and ๆ scope. For a wrong word reading it frequently changes nothing at all (four ZWSP placements around แวะ produced clips of identical length to the broken one).

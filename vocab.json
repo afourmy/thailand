@@ -119468,8 +119468,9 @@
           {
             "thai": "ขนมไทยหลายอย่างใส่กะทิมะพร้าว",
             "en": "Many Thai desserts use coconut milk.",
-            "audio_src": "ขนมไทยหลายอย่างใส่กะทิมะพร้าว",
-            "audio_en_src": "Many Thai desserts use coconut milk."
+            "audio_src": "ขนมไทยหลายอย่างใส่กะทิ·มะพร้าว",
+            "audio_en_src": "Many Thai desserts use coconut milk.",
+            "thai_tts": "ขนมไทยหลายอย่างใส่กะทิ·มะพร้าว"
           }
         ]
       }
