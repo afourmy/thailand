@@ -66,6 +66,14 @@ Dead ends, do not spend the user's time re-testing them: SSML `<break>` at any v
 
 Probe the whole ladder in one batch and play the candidates in one pass. Four clips, letters A to D, A being the current shipped clip.
 
+## Spaces after ๆ
+
+Thai convention puts a space after ๆ, so that space is orthographic and usually not a clause boundary. `thai_body()` turns every space between two Thai chunks into a comma pause, which makes those sentences pause in the wrong place.
+
+The fix is case by case, never a blanket rule and never a change to `thai_body()`: read what follows the space. A new clause with its own verb keeps the pause (จับให้แน่นๆ เดี๋ยวหลุดมือ, พูดตรงๆ ฉันไม่ชอบ, เดินช้าๆ ระวังลื่น). A continuation of the same phrase gets `ๆ·` in `thai_tts` so the boundary survives without a pause (เด็กๆ·เติบโตเร็วมาก, อาหารเช้าง่ายๆ·ของคนอีสาน, ใครๆ·ก็รู้จัก, พูดให้ชัดๆ·หน่อย). Reduplicated compounds are always one unit and always get the dot: ผลุบๆ·โผล่ๆ, ทิ้งๆ·ขว้างๆ, เลียบๆ·เคียงๆ, ลมๆ·แล้งๆ, ต่างๆ·นานา. A sentence can need both, dotted at the compound and pausing at the clause break (เขาผลุบๆ·โผล่ๆ ไม่ยอมอยู่ในที่ประชุมนานๆ).
+
+Swept once on 2026-08-10: 195 sentences had a pausing post-ๆ space, 135 were dotted, 60 kept, 7 were mixed, 187 clips regenerated.
+
 ## Fixing a wrong homograph reading ("Azure says phee-laa, the card means plao")
 
 The ZWSP hint above only influences segmentation, so it can force the split reading of a homograph (เพ-ลา) but never the cluster reading (เพลา as plao). For those, the same `thai_tts` field carries a phonetic respelling instead of a hinted spelling (word-level in the card, or sentence-level on an example sentence; `en_tts`/`english_tts` exist for English). Both gen_audio.py and gen_example_audio.py speak the `_tts` field instead of the display field when present; the UI never shows it. The provenance mechanism handles regeneration: adding or editing a `_tts` field makes the recorded `audio_src` mismatch, so only that clip is re-synthesized on the next run.
