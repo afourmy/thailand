@@ -40278,8 +40278,9 @@
           {
             "thai": "เธอร้องเพลงเพราะมาก",
             "en": "She sings beautifully.",
-            "audio_src": "เธอร้องเพลงเพราะมาก",
-            "audio_en_src": "She sings beautifully."
+            "audio_src": "เธอร้องเพลง·เพราะ·มาก",
+            "audio_en_src": "She sings beautifully.",
+            "thai_tts": "เธอร้องเพลง·เพราะ·มาก"
           },
           {
             "thai": "เสียงเขาเพราะ",
