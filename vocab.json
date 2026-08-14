@@ -201208,8 +201208,9 @@
           },
           {
             "thai": "ดื่มเหล้าแล้วอย่าขับรถ",
+            "thai_tts": "ดื่มเหล้า·แล้ว·อย่าขับรถ",
             "en": "Don't drink and drive.",
-            "audio_src": "ดื่มเหล้าแล้วอย่าขับรถ",
+            "audio_src": "ดื่มเหล้า·แล้ว·อย่าขับรถ",
             "audio_en_src": "Don't drink and drive."
           }
         ]
