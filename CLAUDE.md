@@ -36,8 +36,9 @@ Process:
 3. **Prefer the minimal hint**: one ZWSP at the boundary that fixes it, not hints everywhere.
 4. **Apply**: add a `thai_tts` field carrying the hinted text (display `thai` untouched). Never edit `audio_src` by hand — the script uses the mismatch to know what to regenerate.
 5. **Regenerate**: `source .tts-credentials && python3 gen_example_audio.py --id <word-id> --lang th` (word clips: `gen_audio.py` with `--force`). Only the changed sentence is re-synthesized.
-6. **Verify**: whisper the new clip, `afplay` it for the user. Remind them the fix goes live only after pushing the audio repo and vocab.json (no git operations unless asked).
-7. **Check siblings**: if the misread word appears in other sentences, differential-test those too. Usually only one specific letter run is affected (of 7 ไอศกรีม sentences, only เลียไอศกรีม was broken).
+6. **Verify**: whisper the new clip, `afplay` it for the user.
+7. **Commit and push** once the user confirms the clip is right, per the section below.
+8. **Check siblings**: if the misread word appears in other sentences, differential-test those too. Usually only one specific letter run is affected (of 7 ไอศกรีม sentences, only เลียไอศกรีม was broken).
 
 **Playing candidates for the user.** The user judges by ear; whisper is only a hint. Announce each clip with `say -v Samantha "<label>"` immediately before its `afplay`, and give every clip a letter, including the one currently shipped ("A" for the current clip, not "current", then B, C, ...): mixing a word with letters makes the answer ambiguous, and "C and D" against a list labelled current/A/B/C costs another round trip. Use those same letters when asking. Play at most four candidates in one pass, and state the running order in the message before the tool call, since tool output is not shown to the user.
 
