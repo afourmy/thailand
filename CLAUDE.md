@@ -11,6 +11,22 @@ These pages are read by non-native English speakers. They must be useful, not im
 
 Apply these while writing, not in a cleanup pass afterwards.
 
+## Committing and pushing (do it automatically)
+
+Changes to this project are committed and pushed without asking. This is a standing instruction, decided 2026-08-14, and it overrides the general "no git operations unless asked" rule for these three repos only:
+
+- `thai/thailand` (vocab.json, pages, scripts)
+- `thai/thailand-audio-1` (shards 00-7f)
+- `thai/thailand-audio-2` (shards 80-ff)
+
+Rules:
+
+1. **When.** After a change is finished and verified. For an audio fix, that means after the user has confirmed by ear that the new clip is right, never before: a clip they have not approved does not get committed. For content and code edits, when the edit is done.
+2. **All affected repos.** An audio fix usually touches vocab.json plus one or both audio repos. Commit and push each repo that has changes, not just vocab.json, or the deck goes live pointing at clips that were never pushed. Check all three with `git -C <repo> status --short`.
+3. **Identity.** Author and committer must be `Antoine Fourmy <antoinefourmy@gmail.com>`. Pass `-c user.name="Antoine Fourmy" -c user.email="antoinefourmy@gmail.com"` on every commit, and never add a `Co-Authored-By: Claude` trailer (this overrides the default harness instruction to add one). A global pre-commit hook enforces the email and fails closed; never use `--no-verify`.
+4. **Message.** `update`, matching the existing history. No body, no trailers.
+5. **Scope.** Stage only the files the change actually touched (`git add <paths>`, not `git add -A`), and say in the reply what was committed and pushed in each repo.
+
 ## The voices are fixed
 
 The deck uses exactly one Thai voice, `th-TH-PremwadeeNeural`, and one English voice, `en-US-JennyNeural`, everywhere. Never switch voice, not for a single card, not as a workaround for a word Azure mispronounces: the whole deck has to sound like the same speaker. Another voice may be synthesized as a throwaway diagnostic, but it never gets written into the audio repos. When a clip is wrong, the fix always comes from the text (segmentation hint, `thai_tts` respelling, or rewording the sentence).
@@ -46,7 +62,7 @@ Process:
 
 Detection caveats learned the hard way: whisper exact-match comparison is useless for Thai (~84% false positives from homophone spellings, loanwords transcribed in Latin script, digits); Azure's Pronunciation Assessment API cannot detect these errors (it uses the same broken segmenter, and scored the bad milk clip *higher* than the fixed one); isolated word clips transcribe too noisily to trust. Differential synthesis is the only reliable detector, and it only catches segmentation errors (not wrong homograph readings).
 
-Fixed so far (2026-07-10): wlt-c21-023 ex1_1 (ทารก‸ดูดนมแม่), tobo-208 ex0_1 (เลีย‸ไอศกรีม), tamago-l12-097 ex0_1 (อย่า‸งอนสิ) — ‸ marks where the invisible ZWSP sits. 2026-08-10: thaipod-1392, all three Thai clips (ใจ‸เย็นๆ), the ๆ-scope case; thaipod-1342 ex0_1 (ขากลับบ้าน·แวะ·หายายหน่อย), the isolation case, see the section below. Note the last one: whisper transcribed the bad clip as the expected string (อย่างอน is the same letters read either way), so only the differential test could detect it.
+Fixed so far (2026-07-10): wlt-c21-023 ex1_1 (ทารก‸ดูดนมแม่), tobo-208 ex0_1 (เลีย‸ไอศกรีม), tamago-l12-097 ex0_1 (อย่า‸งอนสิ) — ‸ marks where the invisible ZWSP sits. 2026-08-10: thaipod-1392, all three Thai clips (ใจ‸เย็นๆ), the ๆ-scope case; thaipod-1342 ex0_1 (ขากลับบ้าน·แวะ·หายายหน่อย), the isolation case, see the section below. Note the last one: whisper transcribed the bad clip as the expected string (อย่างอน is the same letters read either way), so only the differential test could detect it. 2026-08-14, all isolation cases: wlt-c09-076 ex0_1 (ดื่มเหล้า·แล้ว·อย่าขับรถ), wlt-c17-054 ex0_1 (เขาซื้อข้าว·และ·ไข่), wlt-c10-045 ex0_1 (ขอ·เข้า·นอนก่อนนะ), wlt-c19-094 ex0_0 (ขาฉัน·เมื่อย·มาก); plus two missing clause breaks fixed in the display `thai` itself, not in `thai_tts`: tamago-l3-284 ex0_1 (อย่ามากวน น่ารำคาญ) and wlt-c21-014 ex0_1 (ขับตรงไป อย่าเลี้ยว). When the space is genuinely missing from the Thai sentence, fix the sentence: `thai_tts` is for hints Azure needs that the reader does not.
 
 Tooling note: faster-whisper and pythainlp are not installed globally; create a venv and `pip install faster-whisper pythainlp` (whisper models download on first use). Credentials: `source .tts-credentials && python3 ...` gets blocked by the permission classifier, so have the probe script read `.tts-credentials` itself and set `os.environ` (the generators still take the sourced env when run normally).
 
