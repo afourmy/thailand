@@ -51938,8 +51938,7 @@
             "audio_en_src": "It's so loud it's annoying."
           },
           {
-            "thai": "อย่ามากวนน่ารำคาญ",
-            "thai_tts": "อย่ามากวน น่ารำคาญ",
+            "thai": "อย่ามากวน น่ารำคาญ",
             "en": "Stop bugging me, it's annoying.",
             "audio_src": "อย่ามากวน น่ารำคาญ",
             "audio_en_src": "Stop bugging me, it's annoying."
@@ -202744,6 +202743,7 @@
           },
           {
             "thai": "ง่วงนอนมาก ขอเข้านอนก่อนนะ",
+            "thai_tts": "ง่วงนอนมาก ขอ·เข้า·นอนก่อนนะ",
             "en": "I'm so sleepy, I'm going to bed.",
             "audio_src": "ง่วงนอนมาก ขอเข้านอนก่อนนะ",
             "audio_en_src": "I'm so sleepy, I'm going to bed."
@@ -224151,6 +224151,7 @@
         "sentences": [
           {
             "thai": "ขาฉันเมื่อยมาก",
+            "thai_tts": "ขาฉัน·เมื่อย·มาก",
             "en": "My legs are really sore.",
             "audio_src": "ขาฉันเมื่อยมาก",
             "audio_en_src": "My legs are really sore."
@@ -227524,7 +227525,7 @@
             "audio_en_src": "Walk straight ahead and you'll find the shop."
           },
           {
-            "thai": "ขับตรงไปอย่าเลี้ยว",
+            "thai": "ขับตรงไป อย่าเลี้ยว",
             "en": "Drive straight, don't turn.",
             "audio_src": "ขับตรงไปอย่าเลี้ยว",
             "audio_en_src": "Drive straight, don't turn."
