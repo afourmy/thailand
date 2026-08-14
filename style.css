@@ -2647,6 +2647,25 @@ body[data-thai-font="noto"] .th {
 .fc-card--freq-occasional { border-color: var(--freq-occasional); }
 .fc-card--freq-rare { border-color: var(--freq-rare); }
 
+/* "New" badge: the word has never been reviewed in either direction, so its
+   example sentences have not been proofread yet. It disappears as soon as the
+   card is graded, so a card only ever carries it once. */
+.fc-new-badge {
+  position: absolute;
+  top: 0.6rem;
+  left: 0.7rem;
+  padding: 0.16rem 0.5rem;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #fff;
+  background: #2e9e5b;
+  border-radius: 999px;
+  pointer-events: none;
+}
+.fc-new-badge[hidden] { display: none; }
+
 .fc-card-face { width: 100%; }
 .fc-card-face.fc-thai {
   font-family: 'Sarabun', sans-serif;
@@ -2816,6 +2835,7 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
 [data-theme="dark"] .fc-stat--new .fc-stat-num { color: #6ee7a8; }
 [data-theme="dark"] .fc-grade--good { background: rgba(46, 158, 91, 0.20); }
 [data-theme="dark"] .fc-grade--easy { background: rgba(96, 165, 250, 0.16); color: var(--accent); }
+[data-theme="dark"] .fc-new-badge { background: #6ee7a8; color: #0f172a; }
 [data-theme="dark"] .fc-stepper button:active { color: #0f172a; }
 [data-theme="dark"] .fc-speed button.active { color: #0f172a; }
 

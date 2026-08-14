@@ -373,6 +373,19 @@
   function cardId(word, dir) { return word.id + ":" + dir; }
   function getState(id) { return states[id] || window.FSRS.emptyCard(); }
 
+  // True when the word has never been reviewed in *either* direction, so it is
+  // genuinely the first time it comes up (seeing Thai->English counts as having
+  // seen the word, even when English->Thai is what's on screen now). Always
+  // checks both DIRS, never activeDirs(), so a direction filter can't make an
+  // already-reviewed word look new. Drives the "New" badge on the card, which
+  // flags that the example sentences still need proofreading.
+  function isNewWord(word) {
+    return DIRS.every(function (dir) {
+      var st = states[cardId(word, dir)];
+      return !st || !st.reps;
+    });
+  }
+
   // The Thai-facing text and prompt/answer for a direction.
   function faces(word, dir) {
     if (dir === "t2e") {
@@ -538,6 +551,10 @@
     var backEl = $("fc-back");
     var cardEl = $("fc-card");
     cardEl.className = "fc-card fc-card--freq-" + word.frequency;
+    // Flag a word being met for the first time (in any direction). Recomputed
+    // per render, so a card re-queued by "Again" comes back without the badge.
+    var newBadge = $("fc-new-badge");
+    if (newBadge) newBadge.hidden = !isNewWord(word);
     // Listening mode: blur the Thai prompt (t2e only) so the audio is the cue.
     wordBlurred = config.listening && f.frontThai;
     frontEl.className = "fc-card-face fc-card-front" + (f.frontThai ? " fc-thai" : " fc-en") + (wordBlurred ? " fc-blur" : "");
