@@ -51939,8 +51939,9 @@
           },
           {
             "thai": "อย่ามากวนน่ารำคาญ",
+            "thai_tts": "อย่ามากวน น่ารำคาญ",
             "en": "Stop bugging me, it's annoying.",
-            "audio_src": "อย่ามากวนน่ารำคาญ",
+            "audio_src": "อย่ามากวน น่ารำคาญ",
             "audio_en_src": "Stop bugging me, it's annoying."
           }
         ]
@@ -219285,8 +219286,9 @@
           },
           {
             "thai": "เขาซื้อข้าวและไข่",
+            "thai_tts": "เขาซื้อข้าว·และ·ไข่",
             "en": "He bought rice and eggs.",
-            "audio_src": "เขาซื้อข้าวและไข่",
+            "audio_src": "เขาซื้อข้าว·และ·ไข่",
             "audio_en_src": "He bought rice and eggs."
           }
         ]
