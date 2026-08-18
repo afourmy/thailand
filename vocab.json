@@ -214074,14 +214074,16 @@
           {
             "thai": "เด็กมีไข้สูง ต้องไปหาหมอ",
             "en": "The kid has a high fever, we need to see a doctor.",
-            "audio_src": "เด็กมีไข้สูง ต้องไปหาหมอ",
-            "audio_en_src": "The kid has a high fever, we need to see a doctor."
+            "audio_src": "เด็กมี·ไข้·สูง ต้องไปหาหมอ",
+            "audio_en_src": "The kid has a high fever, we need to see a doctor.",
+            "thai_tts": "เด็กมี·ไข้·สูง ต้องไปหาหมอ"
           },
           {
             "thai": "กินยาลดไข้แล้วค่อยยังชั่ว",
             "en": "After taking the fever medicine, I felt a bit better.",
-            "audio_src": "กินยาลดไข้แล้วค่อยยังชั่ว",
-            "audio_en_src": "After taking the fever medicine, I felt a bit better."
+            "audio_src": "กินยาลด·ไข้·แล้วค่อยยังชั่ว",
+            "audio_en_src": "After taking the fever medicine, I felt a bit better.",
+            "thai_tts": "กินยาลด·ไข้·แล้วค่อยยังชั่ว"
           }
         ]
       }
@@ -220577,8 +220579,9 @@
           {
             "thai": "เขาป่วยเป็นไข้เลือดออกต้องนอนโรงพยาบาล",
             "en": "He got dengue fever and had to stay in the hospital.",
-            "audio_src": "เขาป่วยเป็นไข้เลือดออกต้องนอนโรงพยาบาล",
-            "audio_en_src": "He got dengue fever and had to stay in the hospital."
+            "audio_src": "เขาป่วยเป็น·ไข้เลือดออก·ต้องนอนโรงพยาบาล",
+            "audio_en_src": "He got dengue fever and had to stay in the hospital.",
+            "thai_tts": "เขาป่วยเป็น·ไข้เลือดออก·ต้องนอนโรงพยาบาล"
           }
         ]
       }
@@ -248701,14 +248704,16 @@
           {
             "thai": "ลูกเป็นไข้ตั้งแต่เมื่อคืน",
             "en": "My child has had a fever since last night.",
-            "audio_src": "ลูกเป็นไข้ตั้งแต่เมื่อคืน",
-            "audio_en_src": "My child has had a fever since last night."
+            "audio_src": "ลูกเป็น·ไข้·ตั้งแต่เมื่อคืน",
+            "audio_en_src": "My child has had a fever since last night.",
+            "thai_tts": "ลูกเป็น·ไข้·ตั้งแต่เมื่อคืน"
           },
           {
             "thai": "เป็นไข้ก็ควรนอนพัก",
             "en": "If you have a fever, you should rest.",
-            "audio_src": "เป็นไข้ก็ควรนอนพัก",
-            "audio_en_src": "If you have a fever, you should rest."
+            "audio_src": "เป็น·ไข้·ก็ควรนอนพัก",
+            "audio_en_src": "If you have a fever, you should rest.",
+            "thai_tts": "เป็น·ไข้·ก็ควรนอนพัก"
           }
         ]
       }
