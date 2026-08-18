@@ -8389,14 +8389,16 @@
           {
             "thai": "รถของฉันพังกลางทาง",
             "en": "My car broke down on the way.",
-            "audio_src": "รถของฉันพังกลางทาง",
-            "audio_en_src": "My car broke down on the way."
+            "audio_src": "รถของฉัน·พัง·กลางทาง",
+            "audio_en_src": "My car broke down on the way.",
+            "thai_tts": "รถของฉัน·พัง·กลางทาง"
           },
           {
             "thai": "พายุทำให้บ้านพังหลายหลัง",
             "en": "The storm damaged several houses.",
-            "audio_src": "พายุทำให้บ้านพังหลายหลัง",
-            "audio_en_src": "The storm damaged several houses."
+            "audio_src": "พายุทำให้บ้าน·พัง·หลายหลัง",
+            "audio_en_src": "The storm damaged several houses.",
+            "thai_tts": "พายุทำให้บ้าน·พัง·หลายหลัง"
           }
         ]
       }
@@ -213711,7 +213713,7 @@
           {
             "thai": "แมวมีเก้าชีวิต",
             "en": "Cats have nine lives.",
-            "audio_src": "แมวมีเก้าชีวิตตามที่เขาว่ากัน",
+            "audio_src": "แมวมีเก้าชีวิต",
             "audio_en_src": "Cats have nine lives."
           }
         ]
