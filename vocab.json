@@ -29824,8 +29824,9 @@
           {
             "thai": "ขอแวะกดเงินที่ตู้เอทีเอ็มก่อน",
             "en": "Let me stop by the ATM first.",
-            "audio_src": "ขอแวะกดเงินที่ตู้เอทีเอ็มก่อน",
-            "audio_en_src": "Let me stop by the ATM first."
+            "audio_src": "ขอ·แวะ·กดเงินที่ตู้เอทีเอ็มก่อน",
+            "audio_en_src": "Let me stop by the ATM first.",
+            "thai_tts": "ขอ·แวะ·กดเงินที่ตู้เอทีเอ็มก่อน"
           },
           {
             "thai": "ตู้กดเงินแถวนี้อยู่ไหน",
