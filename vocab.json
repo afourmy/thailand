@@ -255535,5 +255535,34 @@
     ],
     "audio": true,
     "audio_en": true
+  },
+  {
+    "id": "new-217",
+    "thai": "เกาะชายผ้าเหลือง",
+    "english": "to share in the merit of a son's ordination",
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "to share in the merit of a son's ordination",
+        "sentences": [
+          {
+            "thai": "ลูกชายบวช แม่ได้เกาะชายผ้าเหลือง",
+            "en": "When a son ordains, his mother shares in the merit.",
+            "audio_src": "ลูกชายบวช แม่ได้เกาะชายผ้าเหลือง",
+            "audio_en_src": "When a son ordains, his mother shares in the merit."
+          },
+          {
+            "thai": "แม่อยากให้ลูกบวช จะได้เกาะชายผ้าเหลือง",
+            "en": "Mom wants her son to ordain so she can share in the merit.",
+            "audio_src": "แม่อยากให้ลูกบวช จะได้เกาะชายผ้าเหลือง",
+            "audio_en_src": "Mom wants her son to ordain so she can share in the merit."
+          }
+        ]
+      }
+    ],
+    "audio_src": "เกาะชายผ้าเหลือง",
+    "audio": true,
+    "audio_en_src": "to share in the merit of a son's ordination",
+    "audio_en": true
   }
 ]
