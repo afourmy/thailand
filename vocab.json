@@ -71564,7 +71564,7 @@
     "id": "tsl-152",
     "thai": "เหล็กใน",
     "english": "stinger (of a bee or wasp)",
-    "frequency": "rare",
+    "frequency": "occasional",
     "examples": [
       {
         "meaning": "stinger (of a bee or wasp)",
@@ -214749,8 +214749,9 @@
           {
             "thai": "ซื้อตั๋วหนังไว้แล้วสองใบ",
             "en": "I've bought two movie tickets.",
-            "audio_src": "ซื้อตั๋วหนังไว้แล้วสองใบ",
-            "audio_en_src": "I've bought two movie tickets."
+            "audio_src": "ซื้อตั๋วหนังไว้·แล้ว·สองใบ",
+            "audio_en_src": "I've bought two movie tickets.",
+            "thai_tts": "ซื้อตั๋วหนังไว้·แล้ว·สองใบ"
           },
           {
             "thai": "ตั๋วรถไฟหมดแล้ว",
@@ -216280,8 +216281,9 @@
           {
             "thai": "เกมนี้เล่นแล้วสนุก",
             "en": "This game is fun to play.",
-            "audio_src": "เกมนี้เล่นแล้วสนุก",
-            "audio_en_src": "This game is fun to play."
+            "audio_src": "เกมนี้เล่น·แล้ว·สนุก",
+            "audio_en_src": "This game is fun to play.",
+            "thai_tts": "เกมนี้เล่น·แล้ว·สนุก"
           }
         ]
       }
