@@ -146,9 +146,14 @@
   }
   loadDecks();
 
-  // Local-midnight day key, so a card due "today" rolls over at midnight.
+  // Day key for session bookkeeping. The day runs 04:00 to 04:00 local time, so
+  // a late-night session stays on the same day instead of rolling over at
+  // midnight. Shifting the clock back 4 hours makes 00:00-03:59 fall on the
+  // previous calendar date.
+  var DAY_START_HOUR = 4;
   function dayKey(now) {
     var d = new Date(now || Date.now());
+    d.setHours(d.getHours() - DAY_START_HOUR);
     return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
   }
 
