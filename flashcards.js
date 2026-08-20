@@ -10,6 +10,29 @@
 // flashcards.html so the page wires itself up on every SPA visit (the SPA
 // loader only loads the .js file once, but inline scripts re-execute).
 (function () {
+  // ── Audio channels ──────────────────────────────────────────────────────────
+  // One long-lived <audio> per channel ("card" for the flashcard's own speaker,
+  // "ex" for example sentences), reused for every clip. A fresh `new Audio(src)`
+  // per playback leaves the media element and its decoder alive until GC, and a
+  // 50-card session with example audio creates hundreds of them — well past the
+  // browser's per-frame media-player cap, at which point playback starts
+  // stalling or silently failing. Reassigning .src on one element loads through
+  // the same HTTP cache, so prefetching is unaffected.
+  //
+  // These live outside init() because init() re-runs on every SPA visit; the
+  // "ended" listener is attached once here and dispatches to a per-play callback
+  // so repeat visits can't stack duplicate handlers.
+  var audioEls = {};
+  function audioChannel(name) {
+    var el = audioEls[name];
+    if (!el) {
+      el = audioEls[name] = new Audio();
+      el.preload = "auto";
+      el.addEventListener("ended", function () { if (el._fcEnded) el._fcEnded(); });
+    }
+    return el;
+  }
+
   function init() {
   var DAY = 86400000;
   var DIRS = ["t2e", "e2t"];
@@ -319,21 +342,28 @@
 
   // Independent audio channel for example sentences (separate from the card's
   // main speaker so the two never fight over one <audio>).
-  var exAudio = null, exBtn = null;
+  var exBtn = null, exToken = 0;
   function stopExAudio() {
-    if (exAudio) { exAudio.pause(); exAudio = null; }
+    if (audioEls.ex) audioEls.ex.pause();
     if (exBtn) { exBtn.classList.remove("playing"); exBtn = null; }
   }
   function playEx(btn) {
     var src = btn.getAttribute("data-src");
     if (!src) return;
     stopExAudio();
-    exAudio = new Audio(src);
-    if (btn.getAttribute("data-lang") === "th") exAudio.playbackRate = config.audioSpeed;
+    var el = audioChannel("ex");
+    el._fcEnded = stopExAudio;
     exBtn = btn;
     btn.classList.add("playing");
-    exAudio.addEventListener("ended", stopExAudio);
-    exAudio.play().catch(stopExAudio);
+    el.src = src;
+    // Set after .src: loading a new resource resets playbackRate. English must be
+    // reset to 1 explicitly, or a reused element keeps the previous Thai speed.
+    el.playbackRate = btn.getAttribute("data-lang") === "th" ? config.audioSpeed : 1;
+    // Replacing the src of a playing element rejects the previous play() with
+    // AbortError; ignore that, or it would clear the state of the clip that just
+    // started. Only the newest play() may report failure.
+    var token = ++exToken;
+    el.play().catch(function () { if (token === exToken) stopExAudio(); });
   }
 
   // ── Data + card construction ───────────────────────────────────────────────
@@ -347,12 +377,23 @@
 
   // Preload a card's Thai + English audio (warm the browser cache) so its
   // autoplay is instant. Only existing files are fetched, each at most once.
+  // The point of the fetch is purely to populate the browser's HTTP cache (the
+  // CDN serves these with max-age=604800), so playback later resolves without a
+  // network round trip. The body must be read to completion: an unread
+  // ReadableStream both pins its downloaded bytes in memory until GC and is
+  // subject to backpressure, so the response can stall before it finishes and
+  // never produce a cache entry. Reading it and dropping it fixes both.
   var warmed = {};
   function warmAudio(src) {
     if (!src || warmed[src]) return;
     warmed[src] = true;
-    try { fetch(src).catch(function () { warmed[src] = false; }); }
-    catch (e) { warmed[src] = false; }
+    function failed() { warmed[src] = false; }
+    try {
+      // Drain on any status. A 404 (example audio not generated yet) stays
+      // marked warmed on purpose, so it isn't re-requested on every render;
+      // only a network failure rejects and clears the mark for a later retry.
+      fetch(src).then(function (r) { return r.arrayBuffer(); }).catch(failed);
+    } catch (e) { failed(); }
   }
   // Warm one meaning group's example-sentence audio, both Thai and English.
   function warmExMeaning(word, mi) {
@@ -523,7 +564,6 @@
   var revealed = false;
   var wordBlurred = false; // listening mode: Thai front is blurred until peeked/revealed
   var curId = null;
-  var currentAudio = null;
 
   function parseId(id) {
     var bits = id.split(":");
@@ -776,8 +816,9 @@
   }
 
   // ── Audio ──────────────────────────────────────────────────────────────────
+  var cardToken = 0;
   function stopAudio() {
-    if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+    if (audioEls.card) audioEls.card.pause();
     $("fc-speak").classList.remove("playing");
   }
   function playAudio() {
@@ -785,12 +826,18 @@
     var src = speak.dataset.src;
     if (!src) return;
     stopAudio();
-    currentAudio = new Audio(src);
-    if (speak.dataset.lang === "th") currentAudio.playbackRate = config.audioSpeed;
+    var el = audioChannel("card");
+    el._fcEnded = stopAudio;
     speak.classList.add("playing");
-    currentAudio.addEventListener("ended", stopAudio);
-    // Missing files (none generated yet) reject silently.
-    currentAudio.play().catch(stopAudio);
+    el.src = src;
+    // Set after .src: loading a new resource resets playbackRate. English must be
+    // reset to 1 explicitly, or a reused element keeps the previous Thai speed.
+    el.playbackRate = speak.dataset.lang === "th" ? config.audioSpeed : 1;
+    // Missing files (none generated yet) reject silently. Replacing the src of a
+    // playing element also rejects the previous play() with AbortError, so only
+    // the newest play() may clear the speaker's state.
+    var token = ++cardToken;
+    el.play().catch(function () { if (token === cardToken) stopAudio(); });
   }
 
   // ── Settings UI (stepper) ──────────────────────────────────────────────────
