@@ -294,7 +294,8 @@
     block.querySelectorAll(".ex-panel").forEach(function (p) {
       p.classList.toggle("is-active", p.getAttribute("data-ex-panel") === idx);
     });
-    // Lazily warm this meaning's example audio the first time it's revealed.
+    // Normally a no-op, since preloadCard already warmed every meaning group's
+    // Thai audio a card ahead. Kept as a fallback for when that prefetch failed.
     var word = wordById[block.getAttribute("data-word-id")];
     if (word) warmExMeaning(word, parseInt(idx, 10));
   }
@@ -375,8 +376,8 @@
     return has ? audioBaseFor(word.id) + audioShard(word.id) + "/" + word.id + (thaiSide ? "" : ".en") + ".mp3" : "";
   }
 
-  // Preload a card's Thai + English audio (warm the browser cache) so its
-  // autoplay is instant. Only existing files are fetched, each at most once.
+  // Preload the audio that plays without being asked for (warm the browser
+  // cache) so it is instant. Only existing files are fetched, each at most once.
   // The point of the fetch is purely to populate the browser's HTTP cache (the
   // CDN serves these with max-age=604800), so playback later resolves without a
   // network round trip. The body must be read to completion: an unread
@@ -395,13 +396,14 @@
       fetch(src).then(function (r) { return r.arrayBuffer(); }).catch(failed);
     } catch (e) { failed(); }
   }
-  // Warm one meaning group's example-sentence audio, both Thai and English.
+  // Warm one meaning group's Thai example-sentence audio. English sentence audio
+  // is deliberately left out: it never autoplays, it only sounds when its own
+  // speaker button is pressed, so it can load on demand.
   function warmExMeaning(word, mi) {
     var g = (word.examples || [])[mi];
     if (!g) return;
     (g.sentences || []).forEach(function (s, si) {
-      warmAudio(exAudioSrc(word.id, mi, si, false)); // Thai sentence
-      warmAudio(exAudioSrc(word.id, mi, si, true));  // English sentence
+      warmAudio(exAudioSrc(word.id, mi, si, false));
     });
   }
   function preloadCard(id) {
@@ -410,10 +412,17 @@
     if (!info || !info.word) return;
     var word = info.word;
     warmAudio(sideAudio(word, true));   // Thai word
-    warmAudio(sideAudio(word, false));  // English word
-    // Warm only the first meaning's example sentences up front (that's the tab
-    // shown on reveal); other meanings are warmed lazily on tab-switch.
-    warmExMeaning(word, 0);
+    warmAudio(sideAudio(word, false));  // English word: autoplays on reveal of a t2e card
+    // Every meaning group's Thai sentences, not just the tab shown on reveal, so
+    // switching tabs never waits on the network.
+    (word.examples || []).forEach(function (g, mi) { warmExMeaning(word, mi); });
+  }
+  // How many cards ahead of the one on screen to prefetch.
+  var PRELOAD_AHEAD = 2;
+  // Warm the next PRELOAD_AHEAD cards in queue order, nearest first, so the card
+  // coming up next still gets its requests in before the one after it.
+  function preloadAhead(q) {
+    for (var i = 0; i < PRELOAD_AHEAD; i++) preloadCard(q[i]);
   }
 
   function cardId(word, dir) { return word.id + ":" + dir; }
@@ -529,7 +538,7 @@
   function refreshStats() {
     var built = buildQueue();
     pendingQueue = built.queue;   // reused by startSession so the preloaded card matches
-    preloadCard(built.queue[0]);  // warm the first card's audio before "Start studying"
+    preloadAhead(built.queue);  // warm the opening cards' audio before "Start studying"
     var suspended = 0;
     var left = 0;
     var dirs = activeDirs();
@@ -658,8 +667,9 @@
     stopAudio();
     if (frontSrc) playAudio();
 
-    // Warm the next card's audio (both files) while this one is on screen.
-    preloadCard(queue[0]);
+    // Warm the upcoming cards' audio while this one is on screen. curId was
+    // already shifted off, so queue[0] is the next card and queue[1] the one after.
+    preloadAhead(queue);
   }
 
   function suspendCurrent() {
