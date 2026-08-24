@@ -23,6 +23,14 @@
   // "ended" listener is attached once here and dispatches to a per-play callback
   // so repeat visits can't stack duplicate handlers.
   var audioEls = {};
+  // Preloaded clips, kept in memory as blob object URLs (src -> object URL).
+  // Warming the HTTP cache is not enough: <audio> elements load media with
+  // range/no-cors requests that browsers (Safari in particular) treat as cache
+  // misses, so playback would still pay a CDN round trip even after a warm
+  // fetch. Playing from a blob URL never touches the network. Both maps live
+  // outside init() so SPA revisits reuse the cache instead of re-downloading.
+  var audioBlobUrls = {};
+  var warmed = {};
   function audioChannel(name) {
     var el = audioEls[name];
     if (!el) {
@@ -295,7 +303,7 @@
       p.classList.toggle("is-active", p.getAttribute("data-ex-panel") === idx);
     });
     // Normally a no-op, since preloadCard already warmed every meaning group's
-    // Thai audio a card ahead. Kept as a fallback for when that prefetch failed.
+    // audio a card ahead. Kept as a fallback for when that prefetch failed.
     var word = wordById[block.getAttribute("data-word-id")];
     if (word) warmExMeaning(word, parseInt(idx, 10));
   }
@@ -356,7 +364,7 @@
     el._fcEnded = stopExAudio;
     exBtn = btn;
     btn.classList.add("playing");
-    el.src = src;
+    el.src = cachedAudio(src);
     // Set after .src: loading a new resource resets playbackRate. English must be
     // reset to 1 explicitly, or a reused element keeps the previous Thai speed.
     el.playbackRate = btn.getAttribute("data-lang") === "th" ? config.audioSpeed : 1;
@@ -376,34 +384,37 @@
     return has ? audioBaseFor(word.id) + audioShard(word.id) + "/" + word.id + (thaiSide ? "" : ".en") + ".mp3" : "";
   }
 
-  // Preload the audio that plays without being asked for (warm the browser
-  // cache) so it is instant. Only existing files are fetched, each at most once.
-  // The point of the fetch is purely to populate the browser's HTTP cache (the
-  // CDN serves these with max-age=604800), so playback later resolves without a
-  // network round trip. The body must be read to completion: an unread
-  // ReadableStream both pins its downloaded bytes in memory until GC and is
-  // subject to backpressure, so the response can stall before it finishes and
-  // never produce a cache entry. Reading it and dropping it fixes both.
-  var warmed = {};
+  // Preload a clip into the in-memory blob cache (audioBlobUrls, above) so
+  // pressing play is instant. Only existing files are fetched, each at most
+  // once; playback falls back to streaming from the CDN while a clip is still
+  // in flight or after its fetch failed.
   function warmAudio(src) {
     if (!src || warmed[src]) return;
     warmed[src] = true;
     function failed() { warmed[src] = false; }
     try {
-      // Drain on any status. A 404 (example audio not generated yet) stays
-      // marked warmed on purpose, so it isn't re-requested on every render;
-      // only a network failure rejects and clears the mark for a later retry.
-      fetch(src).then(function (r) { return r.arrayBuffer(); }).catch(failed);
+      // A 404 (example audio not generated yet) stays marked warmed on purpose,
+      // so it isn't re-requested on every render; only a network failure
+      // rejects and clears the mark for a later retry.
+      fetch(src).then(function (r) {
+        // Drain error bodies too: an unread ReadableStream pins its bytes.
+        if (!r.ok) return r.arrayBuffer();
+        return r.blob().then(function (b) {
+          audioBlobUrls[src] = URL.createObjectURL(b);
+        });
+      }).catch(failed);
     } catch (e) { failed(); }
   }
-  // Warm one meaning group's Thai example-sentence audio. English sentence audio
-  // is deliberately left out: it never autoplays, it only sounds when its own
-  // speaker button is pressed, so it can load on demand.
+  // The blob-cached version of a clip, or the CDN URL when it isn't cached yet.
+  function cachedAudio(src) { return audioBlobUrls[src] || src; }
+  // Warm one meaning group's example-sentence audio, both languages, so every
+  // speaker button on a revealed card sounds instantly.
   function warmExMeaning(word, mi) {
     var g = (word.examples || [])[mi];
     if (!g) return;
     (g.sentences || []).forEach(function (s, si) {
       warmAudio(exAudioSrc(word.id, mi, si, false));
+      warmAudio(exAudioSrc(word.id, mi, si, true));
     });
   }
   function preloadCard(id) {
@@ -413,7 +424,7 @@
     var word = info.word;
     warmAudio(sideAudio(word, true));   // Thai word
     warmAudio(sideAudio(word, false));  // English word: autoplays on reveal of a t2e card
-    // Every meaning group's Thai sentences, not just the tab shown on reveal, so
+    // Every meaning group's sentences, not just the tab shown on reveal, so
     // switching tabs never waits on the network.
     (word.examples || []).forEach(function (g, mi) { warmExMeaning(word, mi); });
   }
@@ -924,7 +935,7 @@
     var el = audioChannel("card");
     el._fcEnded = stopAudio;
     speak.classList.add("playing");
-    el.src = src;
+    el.src = cachedAudio(src);
     // Set after .src: loading a new resource resets playbackRate. English must be
     // reset to 1 explicitly, or a reused element keeps the previous Thai speed.
     el.playbackRate = speak.dataset.lang === "th" ? config.audioSpeed : 1;

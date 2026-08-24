@@ -2725,10 +2725,12 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
   border: 1px solid var(--border);
   border-radius: 50%;
   cursor: pointer;
-  transition: color 0.15s, background 0.15s, border-color 0.15s;
+  transition: color 0.15s, background 0.15s, border-color 0.15s, transform 0.08s;
 }
 .fc-tools > button[hidden] { display: none; }
 .fc-tools > button:hover { color: var(--accent-strong); border-color: var(--accent); }
+/* Instant tactile feedback: the button visibly presses down on tap. */
+.fc-tools > button:active { transform: scale(0.88); }
 
 .fc-speak svg { width: 1.1rem; height: 1.1rem; }
 .fc-speak.playing { color: #fff; background: var(--accent); border-color: var(--accent); }
@@ -3136,10 +3138,12 @@ body[data-thai-font="noto"] .ex-th { font-family: 'Noto Sans Thai', sans-serif; 
   border: 1px solid var(--border);
   border-radius: 50%;
   cursor: pointer;
-  transition: color 0.15s, background 0.15s, border-color 0.15s;
+  transition: color 0.15s, background 0.15s, border-color 0.15s, transform 0.08s;
 }
 .ex-play svg { width: 0.85rem; height: 0.85rem; }
 .ex-play:hover { color: var(--accent-strong); border-color: var(--accent); }
+/* Instant tactile feedback: the button visibly presses down on tap. */
+.ex-play:active { transform: scale(0.88); }
 .ex-play.playing { color: #fff; background: var(--accent); border-color: var(--accent); }
 .ex-line--en .ex-play { color: var(--text-muted); }
 .ex-line--en .ex-play:hover { color: var(--accent); }
