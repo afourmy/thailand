@@ -31,6 +31,11 @@
   // outside init() so SPA revisits reuse the cache instead of re-downloading.
   var audioBlobUrls = {};
   var warmed = {};
+  // Parsed vocab.json, kept across SPA visits. The file is ~10 MB, and the CDN
+  // serves it with a short max-age, so refetching on every visit means a large
+  // download (or at best a 10 MB reparse) before the page is usable. One
+  // browser session sees one vocabulary snapshot; a hard reload picks up new data.
+  var vocabCache = null;
   function audioChannel(name) {
     var el = audioEls[name];
     if (!el) {
@@ -1229,29 +1234,38 @@
   var thisScript = document.querySelector('script[src$="flashcards.js"]');
   var dataUrl = thisScript ? new URL("vocab.json", thisScript.src).href : "vocab.json";
 
-  fetch(dataUrl)
-    .then(function (r) { return r.json(); })
-    .then(function (data) {
-      words = data;
-      words.forEach(function (w) { wordById[w.id] = w; });
-      renderDeckBar();
-      renderDirectionSelect();
-      renderListeningToggle();
-      renderExamplesToggle();
-      wireSettings();
-      wireDeckBar();
-      wireDirectionSelect();
-      wireListeningToggle();
-      wireExamplesToggle();
-      wireInfoTooltips();
-      wire();
-      refreshStats();
-      show(homeEl);
-    })
-    .catch(function () {
-      homeEl.hidden = false;
-      homeEl.innerHTML = '<p class="vocab-empty">Could not load vocabulary data.</p>';
-    });
+  function boot(data) {
+    words = data;
+    words.forEach(function (w) { wordById[w.id] = w; });
+    renderDeckBar();
+    renderDirectionSelect();
+    renderListeningToggle();
+    renderExamplesToggle();
+    wireSettings();
+    wireDeckBar();
+    wireDirectionSelect();
+    wireListeningToggle();
+    wireExamplesToggle();
+    wireInfoTooltips();
+    wire();
+    refreshStats();
+    show(homeEl);
+  }
+
+  if (vocabCache) {
+    boot(vocabCache);
+  } else {
+    fetch(dataUrl)
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        vocabCache = data;
+        boot(data);
+      })
+      .catch(function () {
+        homeEl.hidden = false;
+        homeEl.innerHTML = '<p class="vocab-empty">Could not load vocabulary data.</p>';
+      });
+  }
   }
 
   window.FLASHCARDS = { init: init };
