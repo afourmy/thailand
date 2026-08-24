@@ -2868,9 +2868,11 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
 }
 /* On a phone the box sits low on the screen, exactly where the on-screen
    keyboard comes up, so a focused field ends up hidden behind it. While the
-   keyboard is open the box is docked to the top edge of the keyboard (the
-   offset is measured from visualViewport and set on `bottom` in JS); it drops
-   back into the page flow as soon as the keyboard closes. */
+   keyboard is open the box is docked to the keyboard's top edge: JS sets
+   `top` from visualViewport geometry (not `bottom` — iOS keeps the layout
+   viewport full-height under the keyboard and only pans the visible part, so
+   a bottom-pinned element lands behind the keys). It drops back into the page
+   flow as soon as the keyboard closes. */
 .fc-produce--docked {
   position: fixed;
   left: 50%;

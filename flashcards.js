@@ -488,15 +488,25 @@
   // Keyboard-aware placement. The box lives near the bottom of the review
   // screen, which is where a phone's on-screen keyboard appears, so a focused
   // field would otherwise be typed into blind, off-screen behind the keyboard.
-  // visualViewport reports how much of the window the keyboard covers: while
-  // that inset exists the box is docked just above it, and when it doesn't
-  // (desktop, or a browser that shrinks the layout instead) the box stays in
-  // the flow and is only scrolled into view.
+  //
+  // Fixed positioning can't just use `bottom`: on iOS the keyboard doesn't
+  // shrink the layout viewport (the thing fixed elements anchor to), Safari
+  // merely pans the visible part, so a bottom-pinned box lands behind the
+  // keys. Instead the box's `top` is recomputed from visualViewport geometry
+  // (offsetTop + height = the true on-screen bottom edge, in layout-viewport
+  // coordinates) on every viewport resize/scroll tick.
+  //
+  // The keyboard itself is detected by how far the visual viewport has shrunk
+  // from its at-rest height, captured while the field isn't focused; the
+  // layout-minus-visual inset is kept as a second signal for browsers where
+  // the at-rest baseline goes stale.
+  var vvRestH = window.visualViewport ? window.visualViewport.height : 0;
+
   function undockWrite() {
     var p = $("fc-produce");
     if (!p) return;
     p.classList.remove("fc-produce--docked");
-    p.style.bottom = "";
+    p.style.top = "";
   }
   function syncWriteDock(scroll) {
     var p = $("fc-produce");
@@ -504,22 +514,28 @@
     // Nothing to place once the box is gone or locked by the check.
     if (!p || !inp || inp.hidden || inp.disabled) { undockWrite(); return; }
     var vv = window.visualViewport;
-    // Browser chrome (iOS's bottom toolbar) can account for a few dozen pixels
-    // of inset on its own, so only an inset far larger than that is a keyboard.
-    var inset = vv ? Math.max(0, window.innerHeight - vv.height - vv.offsetTop) : 0;
-    if (inset > 150) {
+    if (!vv) { if (scroll) inp.scrollIntoView({ block: "center" }); return; }
+    // No keyboard can be up while the field isn't focused, so whatever height
+    // the viewport has then is its at-rest height (this also tracks rotation).
+    if (document.activeElement !== inp) vvRestH = vv.height;
+    var kb = Math.max(
+      vvRestH - vv.height,
+      document.documentElement.clientHeight - vv.height - vv.offsetTop
+    );
+    // Browser chrome (collapsing toolbars) moves these numbers by a few dozen
+    // pixels on its own; only a shrink far larger than that is a keyboard.
+    if (document.activeElement === inp && kb > 150) {
       p.classList.add("fc-produce--docked");
-      p.style.bottom = inset + "px";
+      // Class first, then measure: docking changes the box's padding/height.
+      p.style.top = (vv.offsetTop + vv.height - p.offsetHeight) + "px";
       // Focusing an input makes the browser scroll it into view on its own,
       // which can leave the card off the top of the screen now that the box is
-      // pinned. Put the card back in the strip left between the page top and
-      // the docked box, so the prompt is readable while typing.
+      // pinned. Pull the card back to the top of the visible strip so the
+      // prompt is readable while typing. Only on open/focus (scroll=true), so
+      // viewport ticks don't fight the user's own scrolling.
       if (scroll) {
-        var card = $("fc-card");
-        var band = window.innerHeight - inset - p.offsetHeight - 8;
-        var r = card.getBoundingClientRect();
-        var target = r.height <= band ? Math.max(8, (band - r.height) / 2) : 8;
-        var delta = r.top - target;
+        var r = $("fc-card").getBoundingClientRect();
+        var delta = r.top - (vv.offsetTop + 8);
         if (Math.abs(delta) > 2) window.scrollBy(0, delta);
       }
     } else {
