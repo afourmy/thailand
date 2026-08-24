@@ -2860,14 +2860,31 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
   .fc-tools { padding: 0.6rem 0.5rem; gap: 0.35rem; }
 }
 
-/* ── Flashcards: answer mode (type / write) ── */
+/* ── Flashcards: writing the Thai (pen button on the card) ── */
 .fc-produce {
   margin: 0.2rem auto 0.6rem;
   width: 100%;
   max-width: 460px;
 }
+/* On a phone the box sits low on the screen, exactly where the on-screen
+   keyboard comes up, so a focused field ends up hidden behind it. While the
+   keyboard is open the box is docked to the top edge of the keyboard (the
+   offset is measured from visualViewport and set on `bottom` in JS); it drops
+   back into the page flow as soon as the keyboard closes. */
+.fc-produce--docked {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 60;
+  margin: 0;
+  padding: 0.7rem 0.8rem;
+  box-sizing: border-box;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -6px 18px rgba(0, 0, 0, 0.12);
+}
 
-/* Type mode */
+/* The spelling box itself */
 .fc-type-wrap { position: relative; width: 100%; }
 .fc-type-input {
   width: 100%;

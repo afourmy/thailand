@@ -476,12 +476,56 @@
     if (inp) { inp.value = ""; inp.disabled = false; inp.hidden = true; inp.className = "fc-type-input"; }
     var icon = $("fc-type-icon");
     if (icon) { icon.hidden = true; icon.innerHTML = ""; icon.className = "fc-type-icon"; }
+    undockWrite();
   }
 
   // True while the spelling box is open on the current card.
   function writing() {
     var inp = $("fc-type-input");
     return !!inp && !inp.hidden;
+  }
+
+  // Keyboard-aware placement. The box lives near the bottom of the review
+  // screen, which is where a phone's on-screen keyboard appears, so a focused
+  // field would otherwise be typed into blind, off-screen behind the keyboard.
+  // visualViewport reports how much of the window the keyboard covers: while
+  // that inset exists the box is docked just above it, and when it doesn't
+  // (desktop, or a browser that shrinks the layout instead) the box stays in
+  // the flow and is only scrolled into view.
+  function undockWrite() {
+    var p = $("fc-produce");
+    if (!p) return;
+    p.classList.remove("fc-produce--docked");
+    p.style.bottom = "";
+  }
+  function syncWriteDock(scroll) {
+    var p = $("fc-produce");
+    var inp = $("fc-type-input");
+    // Nothing to place once the box is gone or locked by the check.
+    if (!p || !inp || inp.hidden || inp.disabled) { undockWrite(); return; }
+    var vv = window.visualViewport;
+    // Browser chrome (iOS's bottom toolbar) can account for a few dozen pixels
+    // of inset on its own, so only an inset far larger than that is a keyboard.
+    var inset = vv ? Math.max(0, window.innerHeight - vv.height - vv.offsetTop) : 0;
+    if (inset > 150) {
+      p.classList.add("fc-produce--docked");
+      p.style.bottom = inset + "px";
+      // Focusing an input makes the browser scroll it into view on its own,
+      // which can leave the card off the top of the screen now that the box is
+      // pinned. Put the card back in the strip left between the page top and
+      // the docked box, so the prompt is readable while typing.
+      if (scroll) {
+        var card = $("fc-card");
+        var band = window.innerHeight - inset - p.offsetHeight - 8;
+        var r = card.getBoundingClientRect();
+        var target = r.height <= band ? Math.max(8, (band - r.height) / 2) : 8;
+        var delta = r.top - target;
+        if (Math.abs(delta) > 2) window.scrollBy(0, delta);
+      }
+    } else {
+      undockWrite();
+      if (scroll) inp.scrollIntoView({ block: "center" });
+    }
   }
 
   // Pen button: open the spelling box for this card only. Nothing is stored, so
@@ -497,10 +541,14 @@
     inp.hidden = false;
     inp.dataset.answer = info.word.thai;
     $("fc-show").textContent = "Check";
-    // The press is itself a request to type, so take focus (and raise the
-    // keyboard) and scroll the field in — the card can push it below the fold.
+    // The press is itself a request to type, so take focus and raise the
+    // keyboard. Placement is re-run as the keyboard slides in: the viewport
+    // listener catches the resize, and the timeouts cover browsers that report
+    // the new size late or not at all.
     inp.focus();
-    setTimeout(function () { inp.scrollIntoView({ block: "center" }); }, 0);
+    syncWriteDock(true);
+    setTimeout(function () { syncWriteDock(true); }, 150);
+    setTimeout(function () { syncWriteDock(true); }, 500);
   }
 
   // ── Queue building ───────────────────────────────────────────────────────
@@ -750,6 +798,9 @@
         var ok = isTypedCorrect(inp.value, inp.dataset.answer);
         inp.disabled = true;
         inp.blur();
+        // Keyboard is on its way out; put the box back in the page flow so the
+        // result sits under the card with the grade buttons, not over them.
+        undockWrite();
         inp.className = "fc-type-input " + (ok ? "is-correct" : "is-wrong");
         var icon = $("fc-type-icon");
         icon.className = "fc-type-icon " + (ok ? "is-correct" : "is-wrong");
@@ -1094,6 +1145,25 @@
     $("fc-type-input").addEventListener("keydown", function (e) {
       if (e.key === "Enter" && !revealed) { e.preventDefault(); revealAnswer(); }
     });
+    // Tapping the field directly (to correct a typo after dismissing the
+    // keyboard) raises it again, so re-place the box on focus too.
+    $("fc-type-input").addEventListener("focus", function () {
+      syncWriteDock(true);
+      setTimeout(function () { syncWriteDock(true); }, 300);
+    });
+
+    // Follow the keyboard opening, closing and resizing (a language switch
+    // changes its height). Stashed on window so a later init() detaches the
+    // previous closure's handlers instead of stacking them up.
+    if (window.visualViewport) {
+      if (window.__fcViewport) {
+        window.visualViewport.removeEventListener("resize", window.__fcViewport);
+        window.visualViewport.removeEventListener("scroll", window.__fcViewport);
+      }
+      window.__fcViewport = function () { syncWriteDock(false); };
+      window.visualViewport.addEventListener("resize", window.__fcViewport);
+      window.visualViewport.addEventListener("scroll", window.__fcViewport);
+    }
 
     // Keyboard: space/enter reveals, 1-4 grade (desktop convenience).
     // Stashed on window so a subsequent init() (after SPA revisit) can detach
