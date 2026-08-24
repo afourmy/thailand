@@ -60,18 +60,18 @@
     retention: 0.9,
     direction: "both",
     listening: false,
-    typeMode: false,
     audioSpeed: 0.85,
     day: null,
   };
   config.listening = !!config.listening;
   delete config.excluded; // legacy include-filters were removed
   if (config.direction !== "e2t" && config.direction !== "t2e") config.direction = "both";
-  // Type mode: on English→Thai cards, type the Thai (checked against the spelling)
-  // instead of just self-rating recall. Migrate the old answerMode dropdown value.
-  if (config.typeMode === undefined) config.typeMode = config.answerMode === "type";
-  config.typeMode = !!config.typeMode;
+  // Writing the Thai used to be a session-wide setting (answerMode dropdown,
+  // then a typeMode switch). It is now a per-card action: the pen button on an
+  // English→Thai card opens the spelling box for that card only, so neither
+  // legacy key means anything.
   delete config.answerMode;
+  delete config.typeMode;
   // Show examples: when on (default), a revealed card shows its example sentences
   // inline; when off, a bubble icon on the card opens them in a modal instead.
   if (config.showExamples === undefined) config.showExamples = true;
@@ -449,7 +449,7 @@
     return { front: word.english, back: word.thai, frontThai: false };
   }
 
-  // ── Type mode ───────────────────────────────────────────────────────────────
+  // ── Writing the Thai ────────────────────────────────────────────────────────
   // The Thai field sometimes lists several acceptable spellings, separated by
   // commas or a spaced dash (e.g. "คอย, รอคอย"). Any of them counts as correct.
   function thaiVariants(thai) {
@@ -476,6 +476,31 @@
     if (inp) { inp.value = ""; inp.disabled = false; inp.hidden = true; inp.className = "fc-type-input"; }
     var icon = $("fc-type-icon");
     if (icon) { icon.hidden = true; icon.innerHTML = ""; icon.className = "fc-type-icon"; }
+  }
+
+  // True while the spelling box is open on the current card.
+  function writing() {
+    var inp = $("fc-type-input");
+    return !!inp && !inp.hidden;
+  }
+
+  // Pen button: open the spelling box for this card only. Nothing is stored, so
+  // the same word comes back without a box unless the pen is pressed again. The
+  // pen itself steps aside once the box is up, and "Show answer" becomes "Check".
+  function openWrite() {
+    if (!curId || revealed || writing()) return;
+    var info = parseId(curId);
+    if (!info || !info.word) return;
+    $("fc-write").hidden = true;
+    $("fc-produce").hidden = false;
+    var inp = $("fc-type-input");
+    inp.hidden = false;
+    inp.dataset.answer = info.word.thai;
+    $("fc-show").textContent = "Check";
+    // The press is itself a request to type, so take focus (and raise the
+    // keyboard) and scroll the field in — the card can push it below the fold.
+    inp.focus();
+    setTimeout(function () { inp.scrollIntoView({ block: "center" }); }, 0);
   }
 
   // ── Queue building ───────────────────────────────────────────────────────
@@ -640,23 +665,13 @@
     copy.dataset.front = f.front;
     copy.dataset.thai = word.thai;
 
-    // Type mode: only engages when the answer is Thai (English→Thai cards). On
-    // Thai→English cards there's nothing to type, so the normal flow runs.
+    // Writing: offered per card via the pen, and only when the answer is Thai
+    // (English→Thai cards). On Thai→English cards the Thai is already the
+    // prompt, so there is nothing to spell out and the pen stays hidden.
     resetProduce();
-    var producing = config.typeMode && !f.frontThai;
+    $("fc-write").hidden = f.frontThai;
     var showBtn = $("fc-show");
-    if (producing) {
-      $("fc-produce").hidden = false;
-      var inp = $("fc-type-input");
-      inp.hidden = false;
-      inp.dataset.answer = word.thai;
-      showBtn.textContent = "Check";
-      // No auto-focus: the keyboard only appears when the user taps the field.
-      // Still scroll it into view, since the card can push it below the fold.
-      setTimeout(function () { inp.scrollIntoView({ block: "center" }); }, 0);
-    } else {
-      showBtn.textContent = "Show answer";
-    }
+    showBtn.textContent = "Show answer";
 
     showBtn.hidden = false;
     $("fc-grades").hidden = true;
@@ -720,11 +735,14 @@
     $("fc-divider").hidden = false;
     $("fc-show").hidden = true;
 
-    // Type mode: check the spelling against the accepted variants. A blank answer
-    // just removes the field (no feedback); otherwise lock it and show a coloured
-    // border + a check/cross icon. The grade buttons still appear (check is
-    // feedback, not a grade).
-    if (config.typeMode && !$("fc-type-input").hidden) {
+    // The pen is no use once the answer is on screen.
+    $("fc-write").hidden = true;
+
+    // With the spelling box open, check it against the accepted variants. A blank
+    // answer just removes the field (no feedback); otherwise lock it and show a
+    // coloured border + a check/cross icon. The grade buttons still appear (the
+    // check is feedback, not a grade).
+    if (writing()) {
       var inp = $("fc-type-input");
       if (!inp.value.trim()) {
         resetProduce();
@@ -1039,6 +1057,7 @@
     $("fc-card").addEventListener("click", function (e) {
       if (e.target.closest("#fc-speak")) { playAudio(); return; }
       if (e.target.closest("#fc-copy")) { copyCurrent(); return; }
+      if (e.target.closest("#fc-write")) { openWrite(); return; }
       if (e.target.closest("#fc-suspend")) { suspendCurrent(); return; }
       // Listening mode: while blurred, any tap on the card just peeks (un-blurs);
       // the next tap falls through to the normal reveal. (Show answer reveals
@@ -1071,7 +1090,7 @@
       if (info && info.word) openExamplesModal(info.word);
     });
 
-    // Type mode: no feedback while typing; Enter checks (reveals).
+    // Spelling box: no feedback while typing; Enter checks (reveals).
     $("fc-type-input").addEventListener("keydown", function (e) {
       if (e.key === "Enter" && !revealed) { e.preventDefault(); revealAnswer(); }
     });
@@ -1098,17 +1117,6 @@
     document.addEventListener("keydown", window.__fcKeydown);
   }
 
-  // ── Type-mode setting ───────────────────────────────────────────────────────
-  function renderTypeToggle() {
-    $("fc-type-mode").checked = config.typeMode;
-  }
-  function wireTypeToggle() {
-    $("fc-type-mode").addEventListener("change", function (e) {
-      config.typeMode = e.target.checked;
-      saveConfig();
-    });
-  }
-
   // ── Show-examples setting ────────────────────────────────────────────────────
   function renderExamplesToggle() {
     $("fc-show-examples").checked = config.showExamples;
@@ -1132,13 +1140,11 @@
       renderDeckBar();
       renderDirectionSelect();
       renderListeningToggle();
-      renderTypeToggle();
       renderExamplesToggle();
       wireSettings();
       wireDeckBar();
       wireDirectionSelect();
       wireListeningToggle();
-      wireTypeToggle();
       wireExamplesToggle();
       wireInfoTooltips();
       wire();

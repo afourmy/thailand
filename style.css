@@ -2743,6 +2743,8 @@ body[data-thai-font="noto"] .fc-card-face.fc-thai {
 .fc-copy.copied .fc-copy-i--copy { display: none; }
 .fc-copy.copied .fc-copy-i--check { display: block; }
 
+.fc-write svg { width: 1.05rem; height: 1.05rem; }
+
 .fc-suspend svg { width: 1.05rem; height: 1.05rem; }
 .fc-suspend:hover { color: #b5482e; border-color: #b5482e; }
 
