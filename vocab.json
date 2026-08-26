@@ -16710,8 +16710,9 @@
           {
             "thai": "เบอร์โทรขึ้นต้นด้วยเลขศูนย์",
             "en": "The phone number starts with a zero.",
-            "audio_src": "เบอร์โทรขึ้นต้นด้วยเลขศูนย์",
-            "audio_en_src": "The phone number starts with a zero."
+            "audio_src": "เบอร์·โทร·ขึ้นต้นด้วยเลขศูนย์",
+            "audio_en_src": "The phone number starts with a zero.",
+            "thai_tts": "เบอร์·โทร·ขึ้นต้นด้วยเลขศูนย์"
           }
         ]
       },
@@ -87066,8 +87067,9 @@
           {
             "thai": "จะไปหรือไม่ขึ้นอยู่กับสภาพอากาศ",
             "en": "Whether we go depends on the weather.",
-            "audio_src": "จะไปหรือไม่ขึ้นอยู่กับสภาพอากาศ",
-            "audio_en_src": "Whether we go depends on the weather."
+            "audio_src": "จะไปหรือไม่·ขึ้นอยู่กับสภาพอากาศ",
+            "audio_en_src": "Whether we go depends on the weather.",
+            "thai_tts": "จะไปหรือไม่·ขึ้นอยู่กับสภาพอากาศ"
           },
           {
             "thai": "ทุกอย่างขึ้นอยู่กับการตัดสินใจของคุณ",
@@ -112313,10 +112315,10 @@
             "audio_en_src": "Today I'm at the meeting in place of my boss."
           },
           {
-            "thai": "ใช้น้ำผึ้งแทนน้ำตาลได้",
-            "en": "You can use honey instead of sugar.",
-            "audio_src": "ใช้น้ำผึ้งแทนน้ำตาลได้",
-            "audio_en_src": "You can use honey instead of sugar."
+            "thai": "ใช้ช้อนแทนส้อมก็ได้",
+            "en": "You can use a spoon instead of a fork.",
+            "audio_src": "ใช้ช้อนแทนส้อมก็ได้",
+            "audio_en_src": "You can use a spoon instead of a fork."
           }
         ]
       }
@@ -201538,8 +201540,9 @@
           {
             "thai": "ส่งงานภายในอาทิตย์หน้านะ",
             "en": "Submit the work by next week.",
-            "audio_src": "ส่งงานภายในอาทิตย์หน้านะ",
-            "audio_en_src": "Submit the work by next week."
+            "audio_src": "ส่งงาน·ภายใน·อาทิตย์หน้านะ",
+            "audio_en_src": "Submit the work by next week.",
+            "thai_tts": "ส่งงาน·ภายใน·อาทิตย์หน้านะ"
           }
         ]
       }
@@ -217201,9 +217204,9 @@
             "audio_en_src": "If you're sleepy, then go to bed."
           },
           {
-            "thai": "เขาไม่มาฉันก็เลยกลับบ้าน",
+            "thai": "เขาไม่มา ฉันก็เลยกลับบ้าน",
             "en": "He didn't come, so I went home.",
-            "audio_src": "เขาไม่มาฉันก็เลยกลับบ้าน",
+            "audio_src": "เขาไม่มา ฉันก็เลยกลับบ้าน",
             "audio_en_src": "He didn't come, so I went home."
           }
         ]
