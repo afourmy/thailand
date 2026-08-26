@@ -47145,7 +47145,8 @@
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
-    "audio_src": "โล่งใจ, โล่งอก",
+    "thai_tts": "โล่งใจ, โล่ง·อก",
+    "audio_src": "โล่งใจ, โล่ง·อก",
     "audio_en_src": "relieved, to feel relieved",
     "examples": [
       {
@@ -78934,8 +78935,9 @@
           {
             "thai": "พอได้ยินข่าวดี เธอก็ถอนหายใจโล่งอก",
             "en": "When she heard the good news, she sighed with relief.",
-            "audio_src": "พอได้ยินข่าวดี เธอก็ถอนหายใจโล่งอก",
-            "audio_en_src": "When she heard the good news, she sighed with relief."
+            "audio_src": "พอได้ยินข่าวดี เธอก็ถอนหายใจโล่ง·อก",
+            "audio_en_src": "When she heard the good news, she sighed with relief.",
+            "thai_tts": "พอได้ยินข่าวดี เธอก็ถอนหายใจโล่ง·อก"
           }
         ]
       }
@@ -82048,8 +82050,9 @@
           {
             "thai": "เด็กใส่ห่วงยางเล่นน้ำ",
             "en": "The kid plays in the water with an inflatable ring.",
-            "audio_src": "เด็กใส่ห่วงยางเล่นน้ำ",
-            "audio_en_src": "The kid plays in the water with an inflatable ring."
+            "audio_src": "เด็กใส่·ห่วง·ยางเล่นน้ำ",
+            "audio_en_src": "The kid plays in the water with an inflatable ring.",
+            "thai_tts": "เด็กใส่·ห่วง·ยางเล่นน้ำ"
           }
         ]
       }
@@ -218007,8 +218010,9 @@
           {
             "thai": "ล้างเท้าก่อนขึ้นเตียงนะ",
             "en": "Wash your feet before getting into bed.",
-            "audio_src": "ล้างเท้าก่อนขึ้นเตียงนะ",
-            "audio_en_src": "Wash your feet before getting into bed."
+            "audio_src": "ล้างเท้าก่อนขึ้น·เตียง·นะ",
+            "audio_en_src": "Wash your feet before getting into bed.",
+            "thai_tts": "ล้างเท้าก่อนขึ้น·เตียง·นะ"
           }
         ]
       }
