@@ -253,15 +253,15 @@
   {
     "id": "chula-l4-010",
     "thai": "ส่วน",
-    "english": "as for; while; part",
+    "english": "as for, whereas; part",
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "audio_src": "ส่วน",
-    "audio_en_src": "as for; while; part",
+    "audio_en_src": "as for, whereas; part",
     "examples": [
       {
-        "meaning": "as for",
+        "meaning": "as for, whereas",
         "sentences": [
           {
             "thai": "ส่วนเรื่องเงิน ค่อยคุยทีหลัง",
@@ -270,27 +270,10 @@
             "audio_en_src": "As for the money, let’s talk later."
           },
           {
-            "thai": "ส่วนฉันขอไม่ไปดีกว่า",
-            "en": "As for me, I’d rather not go.",
-            "audio_src": "ส่วนฉันขอไม่ไปดีกว่า",
-            "audio_en_src": "As for me, I’d rather not go."
-          }
-        ]
-      },
-      {
-        "meaning": "while",
-        "sentences": [
-          {
             "thai": "เขาชอบกาแฟ ส่วนฉันชอบชา",
-            "en": "He likes coffee, while I like tea.",
+            "en": "He likes coffee, whereas I like tea.",
             "audio_src": "เขาชอบกาแฟ ส่วนฉันชอบชา",
-            "audio_en_src": "He likes coffee, while I like tea."
-          },
-          {
-            "thai": "พี่ทำงาน ส่วนน้องยังเรียน",
-            "en": "The older one works, while the younger one is still studying.",
-            "audio_src": "พี่ทำงาน ส่วนน้องยังเรียน",
-            "audio_en_src": "The older one works, while the younger one is still studying."
+            "audio_en_src": "He likes coffee, whereas I like tea."
           }
         ]
       },
@@ -21924,32 +21907,15 @@
   {
     "id": "chula-l6-207",
     "thai": "เฉย",
-    "english": "plain, just, simple; \"not as expected\", \"not like one thought\"",
+    "english": "to show no reaction, be unmoved",
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "audio_src": "เฉย",
-    "audio_en_src": "plain, just, simple; \"not as expected\", \"not like one thought\"",
+    "audio_en_src": "to show no reaction, be unmoved",
     "examples": [
       {
-        "meaning": "plain, just, simple",
-        "sentences": [
-          {
-            "thai": "หนังเรื่องนี้เฉยๆ ไม่สนุกเท่าไหร่",
-            "en": "This movie was just so so, not that fun.",
-            "audio_src": "หนังเรื่องนี้เฉยๆ ไม่สนุกเท่าไหร่",
-            "audio_en_src": "This movie was just so so, not that fun."
-          },
-          {
-            "thai": "อยู่เฉยๆ อย่าเพิ่งไปไหน",
-            "en": "Just stay put, don’t go anywhere yet.",
-            "audio_src": "อยู่เฉยๆ อย่าเพิ่งไปไหน",
-            "audio_en_src": "Just stay put, don’t go anywhere yet."
-          }
-        ]
-      },
-      {
-        "meaning": "'not as expected', 'not like one thought'",
+        "meaning": "to show no reaction, be unmoved",
         "sentences": [
           {
             "thai": "ฉันโกรธมาก แต่เขากลับทำเฉย",
@@ -41955,8 +41921,9 @@
           {
             "thai": "เขาใส่แหวนเพชรวงใหญ่",
             "en": "She's wearing a big diamond ring.",
-            "audio_src": "เขาใส่แหวนเพชรวงใหญ่",
-            "audio_en_src": "She's wearing a big diamond ring."
+            "audio_src": "เขาใส่แหวนเพชร·วง·ใหญ่",
+            "audio_en_src": "She's wearing a big diamond ring.",
+            "thai_tts": "เขาใส่แหวนเพชร·วง·ใหญ่"
           },
           {
             "thai": "แฟนซื้อแหวนให้เป็นของขวัญ",
@@ -48557,8 +48524,9 @@
           {
             "thai": "อมลูกอมแก้เจ็บคอ",
             "en": "Suck on a candy to soothe a sore throat.",
-            "audio_src": "อมลูกอมแก้เจ็บคอ",
-            "audio_en_src": "Suck on a candy to soothe a sore throat."
+            "audio_src": "อม·ลูกอม·แก้เจ็บคอ",
+            "audio_en_src": "Suck on a candy to soothe a sore throat.",
+            "thai_tts": "อม·ลูกอม·แก้เจ็บคอ"
           }
         ]
       }
@@ -50429,8 +50397,9 @@
           {
             "thai": "รถติดทั้งวันเลยอารมณ์เสีย",
             "en": "Traffic all day put me in a bad mood.",
-            "audio_src": "รถติดทั้งวันเลยอารมณ์เสีย",
-            "audio_en_src": "Traffic all day put me in a bad mood."
+            "audio_src": "รถติดทั้งวัน·เลย·อารมณ์เสีย",
+            "audio_en_src": "Traffic all day put me in a bad mood.",
+            "thai_tts": "รถติดทั้งวัน·เลย·อารมณ์เสีย"
           }
         ]
       }
@@ -196201,8 +196170,9 @@
           {
             "thai": "ฉันเผลอบาดนิ้วมือตอนหั่นผัก",
             "en": "I accidentally cut my finger while chopping vegetables.",
-            "audio_src": "ฉันเผลอบาดนิ้วมือตอนหั่นผัก",
-            "audio_en_src": "I accidentally cut my finger while chopping vegetables."
+            "audio_src": "ฉัน·เผลอ·บาดนิ้วมือตอนหั่นผัก",
+            "audio_en_src": "I accidentally cut my finger while chopping vegetables.",
+            "thai_tts": "ฉัน·เผลอ·บาดนิ้วมือตอนหั่นผัก"
           }
         ]
       }
