@@ -613,6 +613,16 @@
 
       if (dueHere.length) {
         dueCards.push(pick(dueHere));
+        // Burial normally lets the due card stand in for the whole word today,
+        // and the unseen sibling gets its turn once the due card is scheduled
+        // out. That breaks down when the due card never leaves: "Again" sets
+        // due to the review time itself, and repeated "Hard" can decay the
+        // interval back to a single day, so the card is due again every
+        // morning and the sibling waits for ever. Only in that case does the
+        // word also offer its unseen direction.
+        if (newHere.length && dueHere.some(staysDueTomorrow)) {
+          newCards.push(pick(newHere));
+        }
       } else if (newHere.length) {
         newCards.push(pick(newHere));
       }
@@ -625,6 +635,14 @@
     newCards = newCards.slice(0, allowance);
 
     return { due: dueCards, fresh: newCards, queue: dueCards.concat(newCards) };
+  }
+
+  // Whether a due card's last scheduling keeps it due tomorrow too, which is
+  // what makes it block a sibling indefinitely rather than for one day.
+  function staysDueTomorrow(id) {
+    var st = states[id];
+    if (!st || st.due == null || st.lastReview == null) return false;
+    return st.due - st.lastReview <= DAY;
   }
 
   function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
