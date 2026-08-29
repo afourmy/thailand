@@ -236,6 +236,20 @@
   function audioBaseFor(id) {
     return parseInt(audioShard(id), 16) < 0x80 ? AUDIO_CDN_1 : AUDIO_CDN_2;
   }
+  // Cache-busting token appended to every clip URL. jsDelivr serves the @master
+  // clips with max-age=604800, so a regenerated clip that keeps its filename
+  // (a reworded sentence, a deleted meaning group shifting ex1_* down to ex0_*,
+  // a thai_tts hint) would keep playing from the browser cache for a week while
+  // the card on screen already shows the new text. Keying the URL on the exact
+  // text that was synthesized -- audio_src / audio_en_src, written by
+  // gen_audio.py and gen_example_audio.py -- makes the URL change precisely when
+  // the clip does. Same djb2 as audioShard; keep identical in vocab.js.
+  function audioVer(text) {
+    var h = 5381;
+    for (var i = 0; i < (text || "").length; i++) h = (h * 33 + text.charCodeAt(i)) >>> 0;
+    return h.toString(36);
+  }
+  function audioQuery(src) { return src ? "?v=" + audioVer(src) : ""; }
 
   // ── Example sentences ───────────────────────────────────────────────────────
   // Renders a word's per-meaning example sentences (see vocab.json "examples").
@@ -245,16 +259,19 @@
   // buttons simply no-op (play() rejects) for now. Kept identical in vocab.js.
   var EX_SPEAKER_SVG =
     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
-  function exAudioSrc(id, mi, si, en) {
-    return audioBaseFor(id) + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3";
+  // s is the sentence object; its audio_src / audio_en_src supplies the version
+  // token so a reworded sentence never plays its predecessor's cached clip.
+  function exAudioSrc(id, mi, si, en, s) {
+    return audioBaseFor(id) + audioShard(id) + "/" + id + ".ex" + mi + "_" + si + (en ? ".en" : "") + ".mp3" +
+      audioQuery(s && (en ? s.audio_en_src : s.audio_src));
   }
   // The sentence list for one meaning group (shared by single- and multi-meaning
   // layouts). mi is the meaning index, used to address that group's audio files.
   function exSentencesHtml(g, wordId, mi) {
     var html = '<ul class="ex-list">';
     (g.sentences || []).forEach(function (s, si) {
-      var thSrc = escAttr(exAudioSrc(wordId, mi, si, false));
-      var enSrc = escAttr(exAudioSrc(wordId, mi, si, true));
+      var thSrc = escAttr(exAudioSrc(wordId, mi, si, false, s));
+      var enSrc = escAttr(exAudioSrc(wordId, mi, si, true, s));
       html += '<li class="ex-item">' +
         '<div class="ex-line ex-line--th">' +
           '<button class="ex-play" type="button" data-src="' + thSrc + '" data-lang="th" aria-label="Play Thai sentence">' + EX_SPEAKER_SVG + '</button>' +
@@ -386,7 +403,9 @@
   // mp3 path for one side of a card, or "" if that side's audio wasn't generated.
   function sideAudio(word, thaiSide) {
     var has = thaiSide ? word.audio : word.audio_en;
-    return has ? audioBaseFor(word.id) + audioShard(word.id) + "/" + word.id + (thaiSide ? "" : ".en") + ".mp3" : "";
+    if (!has) return "";
+    return audioBaseFor(word.id) + audioShard(word.id) + "/" + word.id + (thaiSide ? "" : ".en") + ".mp3" +
+      audioQuery(thaiSide ? word.audio_src : word.audio_en_src);
   }
 
   // Preload a clip into the in-memory blob cache (audioBlobUrls, above) so
@@ -418,8 +437,8 @@
     var g = (word.examples || [])[mi];
     if (!g) return;
     (g.sentences || []).forEach(function (s, si) {
-      warmAudio(exAudioSrc(word.id, mi, si, false));
-      warmAudio(exAudioSrc(word.id, mi, si, true));
+      warmAudio(exAudioSrc(word.id, mi, si, false, s));
+      warmAudio(exAudioSrc(word.id, mi, si, true, s));
     });
   }
   function preloadCard(id) {
