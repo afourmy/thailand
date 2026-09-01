@@ -83,6 +83,10 @@ Dead ends, do not spend the user's time re-testing them: SSML `<break>` at any v
 
 Probe the whole ladder in one batch and play the candidates in one pass. Four clips, letters A to D, A being the current shipped clip.
 
+**When the comma clip is still wrong, stop laddering and replace the sentence.** A word standing alone between two audible comma pauses is as isolated as it can get; if the user says it is still wrong there, the reading is not a segmentation problem and no separator, respelling or SSML tag will save it. Go straight to new candidate sentences that place the word in a context Azure reads correctly, and offer four of them. Continuing to probe after the comma clip fails wastes the user's time (2026-09-01, tamago-l3-450 งอ: dots, hyphen, comma, ZWSP, a doubled vowel งออ, a bare ง, an inserted ได้ and an IPA `<phoneme>` tag were all rejected before the sentence was replaced).
+
+Azure reads bare งอ, and งอ anywhere except in front of its object, as if the อ were the consonant and not the vowel: "ng" plus a breathy release, no ɔɔ. It reads it correctly in งอเข่า (example 1) because งอ + body part parses as a verb phrase, so the replacement sentence for this card keeps that shape: งอลวดเส้นนี้เป็นตะขอ. The word's own clip carries `thai_tts: "·งอ·"`, where the dots make Azure recite the letter name of ง, which is exactly ngɔɔ.
+
 ## Spaces after ๆ
 
 Thai convention puts a space after ๆ, so that space is orthographic and usually not a clause boundary. `thai_body()` turns every space between two Thai chunks into a comma pause, which makes those sentences pause in the wrong place.
