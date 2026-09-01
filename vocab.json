@@ -255551,5 +255551,63 @@
     "audio": true,
     "audio_en_src": "to share in the merit of a son's ordination",
     "audio_en": true
+  },
+  {
+    "id": "new-218",
+    "thai": "กระสวยอวกาศ",
+    "english": "space shuttle",
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "space shuttle",
+        "sentences": [
+          {
+            "thai": "พรุ่งนี้เช้าเขาจะปล่อยกระสวยอวกาศ",
+            "en": "They're launching the space shuttle tomorrow morning.",
+            "audio_src": "พรุ่งนี้เช้าเขาจะปล่อยกระสวยอวกาศ",
+            "audio_en_src": "They're launching the space shuttle tomorrow morning."
+          },
+          {
+            "thai": "ลูกชายฉันชอบดูรูปกระสวยอวกาศ",
+            "en": "My son loves looking at pictures of the space shuttle.",
+            "audio_src": "ลูกชายฉันชอบดูรูปกระสวยอวกาศ",
+            "audio_en_src": "My son loves looking at pictures of the space shuttle."
+          }
+        ]
+      }
+    ],
+    "audio_src": "กระสวยอวกาศ",
+    "audio": true,
+    "audio_en_src": "space shuttle",
+    "audio_en": true
+  },
+  {
+    "id": "new-219",
+    "thai": "แรงโน้มถ่วง",
+    "english": "gravity",
+    "frequency": "common",
+    "examples": [
+      {
+        "meaning": "gravity",
+        "sentences": [
+          {
+            "thai": "ของตกลงพื้นเพราะแรงโน้มถ่วง",
+            "en": "Things fall to the ground because of gravity.",
+            "audio_src": "ของตกลงพื้นเพราะแรงโน้มถ่วง",
+            "audio_en_src": "Things fall to the ground because of gravity."
+          },
+          {
+            "thai": "บนดวงจันทร์แรงโน้มถ่วงน้อยกว่าบนโลก",
+            "en": "Gravity is weaker on the moon than on Earth.",
+            "audio_src": "บนดวงจันทร์แรงโน้มถ่วงน้อยกว่าบนโลก",
+            "audio_en_src": "Gravity is weaker on the moon than on Earth."
+          }
+        ]
+      }
+    ],
+    "audio_src": "แรงโน้มถ่วง",
+    "audio": true,
+    "audio_en_src": "gravity",
+    "audio_en": true
   }
 ]
