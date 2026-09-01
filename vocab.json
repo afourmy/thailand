@@ -56418,6 +56418,7 @@
     "id": "tamago-l3-450",
     "thai": "งอ",
     "english": "to bend, to curve",
+    "thai_tts": "·งอ·",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
@@ -56432,14 +56433,15 @@
             "audio_en_src": "Bend your knees slightly before jumping."
           },
           {
-            "thai": "ลวดเส้นนี้งอง่ายมาก",
-            "en": "This wire bends very easily.",
-            "audio_src": "ลวดเส้นนี้งอง่ายมาก",
-            "audio_en_src": "This wire bends very easily."
+            "thai": "งอลวดเส้นนี้เป็นตะขอ",
+            "en": "Bend this wire into a hook.",
+            "audio_src": "งอลวดเส้นนี้เป็นตะขอ",
+            "audio_en_src": "Bend this wire into a hook."
           }
         ]
       }
-    ]
+    ],
+    "audio_src": "·งอ·"
   },
   {
     "id": "tamago-l3-451",
