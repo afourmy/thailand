@@ -47721,12 +47721,12 @@
   {
     "id": "tamago-l3-121",
     "thai": "ตี",
-    "english": "to hit, to beat; to estimate a price",
+    "english": "to hit, to beat",
     "frequency": "everyday",
     "audio": true,
     "audio_en": true,
     "audio_src": "ตี",
-    "audio_en_src": "to hit, to beat; to estimate a price",
+    "audio_en_src": "to hit, to beat",
     "examples": [
       {
         "meaning": "to hit, to beat",
@@ -47742,23 +47742,6 @@
             "en": "Beat the eggs until they're combined.",
             "audio_src": "ตีไข่ให้เข้ากัน",
             "audio_en_src": "Beat the eggs until they're combined."
-          }
-        ]
-      },
-      {
-        "meaning": "to estimate a price",
-        "sentences": [
-          {
-            "thai": "เขาตีราคารถมือสองให้ฉัน",
-            "en": "He gave me a price estimate for the used car.",
-            "audio_src": "เขาตีราคารถมือสองให้ฉัน",
-            "audio_en_src": "He gave me a price estimate for the used car."
-          },
-          {
-            "thai": "ตีราคาบ้านหลังนี้เท่าไหร่",
-            "en": "How much do you value this house at?",
-            "audio_src": "ตีราคาบ้านหลังนี้เท่าไหร่",
-            "audio_en_src": "How much do you value this house at?"
           }
         ]
       }
