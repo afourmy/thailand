@@ -12312,8 +12312,9 @@
           {
             "thai": "บัตรใบนี้มีสิทธิพิเศษเข้าเลานจ์สนามบิน",
             "en": "This card comes with airport lounge privileges.",
-            "audio_src": "บัตรใบนี้มีสิทธิพิเศษเข้าเลานจ์สนามบิน",
-            "audio_en_src": "This card comes with airport lounge privileges."
+            "audio_src": "บัตรใบนี้มีสิทธิพิเศษเข้า·เลานจ์·สนามบิน",
+            "audio_en_src": "This card comes with airport lounge privileges.",
+            "thai_tts": "บัตรใบนี้มีสิทธิพิเศษเข้า·เลานจ์·สนามบิน"
           }
         ]
       }
@@ -29528,7 +29529,9 @@
       }
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "thai_tts": "ตั้ง, แน่ะ",
+    "audio_src": "ตั้ง, แน่ะ"
   },
   {
     "id": "tamago-l12-152",
@@ -240956,11 +240959,11 @@
   {
     "id": "t4k-c08-008",
     "thai": "มั่ง",
-    "english": "maybe, perhaps, some, a bit (slang)",
+    "english": "some, too, as well (spoken)",
     "frequency": "common",
     "examples": [
       {
-        "meaning": "maybe, perhaps, some, a bit (slang)",
+        "meaning": "some, too, as well (spoken)",
         "sentences": [
           {
             "thai": "ขอกินมั่งสิ",
@@ -240969,16 +240972,17 @@
             "audio_en_src": "Let me have some too."
           },
           {
-            "thai": "พรุ่งนี้ฝนอาจจะตกมั่ง",
-            "en": "Maybe it'll rain tomorrow.",
-            "audio_src": "พรุ่งนี้ฝนอาจจะตกมั่ง",
-            "audio_en_src": "Maybe it'll rain tomorrow."
+            "thai": "ทำงานทั้งวัน พักมั่งสิ",
+            "en": "You've worked all day, get some rest.",
+            "audio_src": "ทำงานทั้งวัน พักมั่งสิ",
+            "audio_en_src": "You've worked all day, get some rest."
           }
         ]
       }
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "audio_en_src": "some, too, as well"
   },
   {
     "id": "t4k-c08-009",

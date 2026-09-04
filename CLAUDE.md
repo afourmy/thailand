@@ -1,5 +1,15 @@
 # Thai site
 
+## No Thai script on the English side of a card, ever
+
+The English side is the answer the learner is tested on. It must be English only, with no Thai characters anywhere in it: not in a word's `english`, not in an example group's `meaning`, not in a sentence's `en`, and not in a gloss proposed to the user in a question.
+
+This holds even when the Thai would be explanatory, e.g. glossing มั่ง as "colloquial form of บ้าง" or ตี as "as in ตีราคา". Those spoil the card and are not English. If two Thai words need distinguishing, do it in English words or leave it out.
+
+The same goes for a romanized Thai word used as if it were English: ศาลา was glossed "pavilion, sala (open-sided structure)", which hands the learner the Thai word. Drop the borrowed form and keep the English one.
+
+Related: never write or reword a gloss yourself. Present the problem and ask for the wording. A gloss the user did not dictate does not go in the file.
+
 ## Writing style for content pages (culture.html, etymology.html, and any other content page)
 
 These pages are read by non-native English speakers. They must be useful, not impressive. Plain English only, no essay register.
