@@ -103890,13 +103890,13 @@
   {
     "id": "thaipod-0933",
     "thai": "ศาลา",
-    "english": "pavilion, sala (open-sided structure)",
+    "english": "pavilion (open-sided structure)",
     "frequency": "common",
     "audio": true,
     "audio_en": true,
     "examples": [
       {
-        "meaning": "pavilion, sala (open-sided structure)",
+        "meaning": "pavilion (open-sided structure)",
         "sentences": [
           {
             "thai": "เรานั่งพักในศาลาริมทาง",
@@ -103912,7 +103912,8 @@
           }
         ]
       }
-    ]
+    ],
+    "audio_en_src": "pavilion"
   },
   {
     "id": "thaipod-0934",
