@@ -487,8 +487,19 @@
   // ── Writing the Thai ────────────────────────────────────────────────────────
   // The Thai field sometimes lists several acceptable spellings, separated by
   // commas or a spaced dash (e.g. "คอย, รอคอย"). Any of them counts as correct.
+  // Parentheses mark a part that isn't required: an inline optional word
+  // ("ระยะ(เริ่ม)แรก") or a trailing abbreviation ("นิติบุคคล (นิติฯ)"). Each
+  // spelling therefore counts with the bracketed text written out, with it
+  // dropped, and cut short at the first bracket — the last of those catches
+  // fields whose brackets a comma split has left unbalanced.
+  function parenForms(s) {
+    var i = s.indexOf("(");
+    if (i === -1) return [s];
+    return [s.slice(0, i), s.replace(/\([^)]*\)/g, ""), s.replace(/[()]/g, "")];
+  }
   function thaiVariants(thai) {
     return thai.split(/,|\s-\s/)
+      .reduce(function (acc, s) { return acc.concat(parenForms(s)); }, [])
       .map(function (s) { return s.trim(); })
       .filter(Boolean);
   }
