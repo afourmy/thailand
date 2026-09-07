@@ -65602,8 +65602,9 @@
           {
             "thai": "อย่าลืมถอดปลั๊กเตารีดหลังใช้เสร็จ",
             "en": "Don't forget to unplug the iron after using it.",
-            "audio_src": "อย่าลืมถอดปลั๊กเตารีดหลังใช้เสร็จ",
-            "audio_en_src": "Don't forget to unplug the iron after using it."
+            "audio_src": "อย่าลืมถอด·ปลั๊ก·เตารีด·หลังใช้เสร็จ",
+            "audio_en_src": "Don't forget to unplug the iron after using it.",
+            "thai_tts": "อย่าลืมถอด·ปลั๊ก·เตารีด·หลังใช้เสร็จ"
           }
         ]
       }
@@ -254156,8 +254157,9 @@
           {
             "thai": "ความประหยัดกลายเป็นนิสัยติดตัวไปแล้ว",
             "en": "Thriftiness has become second nature to him.",
-            "audio_src": "ความประหยัดกลายเป็นนิสัยติดตัวไปแล้ว",
-            "audio_en_src": "Thriftiness has become second nature to him."
+            "audio_src": "ความประหยัด·กลายเป็น·นิสัยติดตัวไปแล้ว",
+            "audio_en_src": "Thriftiness has become second nature to him.",
+            "thai_tts": "ความประหยัด·กลายเป็น·นิสัยติดตัวไปแล้ว"
           }
         ]
       }
