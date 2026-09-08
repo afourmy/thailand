@@ -72,12 +72,29 @@ LANGS = {
 # 24 kHz / 96 kbps mono mp3: high quality for speech, small files.
 OUTPUT_FORMAT = "audio-24khz-96kbitrate-mono-mp3"
 
-PAREN = re.compile(r"\s*\([^)]*\)")
+PAREN = re.compile(r"\s*\([^()]*\)")  # innermost "(...)" only, see strip_parens
+
+
+def strip_parens(text):
+    """Remove "(...)" annotations, innermost group first, until none are left.
+
+    A nested parenthetical has to go as a whole. A single pass with "\\([^)]*\\)"
+    stops at the first ")", so on 'dowry, bride price (literally "property (goods,
+    money) presented")' it removed '(literally "property (goods, money)' and left
+    ' presented")' in the spoken text, which is what the clip said (found
+    2026-09-08, cards yt-c14-060 and tamago-l3-051). Looping innermost-first also
+    leaves an unbalanced "(" alone rather than eating the rest of the line.
+    """
+    while True:
+        stripped = PAREN.sub("", text)
+        if stripped == text:
+            return stripped
+        text = stripped
 
 
 def speakable(text):
     """Full text (all forms kept), with parenthetical "(...)" annotations removed."""
-    return re.sub(r"\s+", " ", PAREN.sub("", text)).strip()
+    return re.sub(r"\s+", " ", strip_parens(text)).strip()
 
 
 def ssml(text, voice, xmllang):
