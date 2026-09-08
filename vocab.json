@@ -245862,6 +245862,7 @@
   {
     "id": "t4k-c11-020",
     "thai": "สาธารณรัฐ",
+    "thai_tts": "สาธารณ‌รัฐ",
     "english": "republic",
     "frequency": "common",
     "examples": [
@@ -245870,21 +245871,24 @@
         "sentences": [
           {
             "thai": "ฝรั่งเศสปกครองในระบอบสาธารณรัฐ",
+            "thai_tts": "ฝรั่งเศสปกครองในระบอบสาธารณ‌รัฐ",
             "en": "France is governed as a republic.",
-            "audio_src": "ฝรั่งเศสปกครองในระบอบสาธารณรัฐ",
+            "audio_src": "ฝรั่งเศสปกครองในระบอบสาธารณ‌รัฐ",
             "audio_en_src": "France is governed as a republic."
           },
           {
             "thai": "ประเทศนี้เปลี่ยนการปกครองมาเป็นสาธารณรัฐ",
+            "thai_tts": "ประเทศนี้เปลี่ยนการปกครองมาเป็นสาธารณ‌รัฐ",
             "en": "This country switched to being a republic.",
-            "audio_src": "ประเทศนี้เปลี่ยนการปกครองมาเป็นสาธารณรัฐ",
+            "audio_src": "ประเทศนี้เปลี่ยนการปกครองมาเป็นสาธารณ‌รัฐ",
             "audio_en_src": "This country switched to being a republic."
           }
         ]
       }
     ],
     "audio": true,
-    "audio_en": true
+    "audio_en": true,
+    "audio_src": "สาธารณ‌รัฐ"
   },
   {
     "id": "t4k-c11-021",
