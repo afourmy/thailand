@@ -106320,34 +106320,6 @@
     "audio_en": true
   },
   {
-    "id": "thaipod-1042",
-    "thai": "สูญหายไป",
-    "english": "to disappear, to be lost",
-    "frequency": "common",
-    "audio": true,
-    "audio_en": true,
-    "examples": [
-      {
-        "meaning": "to disappear, to be lost",
-        "sentences": [
-          {
-            "thai": "กระเป๋าเงินของฉันสูญหายไปบนรถไฟ",
-            "en": "My wallet got lost on the train.",
-            "audio_src": "กระเป๋าเงินของฉันสูญหายไปบนรถไฟ",
-            "audio_en_src": "My wallet got lost on the train."
-          },
-          {
-            "thai": "ประเพณีเก่าๆ หลายอย่างสูญหายไปตามกาลเวลา",
-            "en": "Many old traditions have disappeared over time.",
-            "audio_src": "ประเพณีเก่าๆ·หลายอย่างสูญหายไปตามกาลเวลา",
-            "audio_en_src": "Many old traditions have disappeared over time.",
-            "thai_tts": "ประเพณีเก่าๆ·หลายอย่างสูญหายไปตามกาลเวลา"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "thaipod-1043",
     "thai": "สู่",
     "english": "to, towards",
