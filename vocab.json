@@ -17805,6 +17805,7 @@
   {
     "id": "chula-l6-055",
     "thai": "สมดุล",
+    "thai_tts": "สม‌ดุล",
     "english": "balance",
     "frequency": "common",
     "audio": true,
@@ -17815,19 +17816,22 @@
         "sentences": [
           {
             "thai": "การออกกำลังกายช่วยรักษาสมดุลร่างกาย",
+            "thai_tts": "การออกกำลังกายช่วยรักษาสม‌ดุลร่างกาย",
             "en": "Exercise helps maintain the body's balance.",
-            "audio_src": "การออกกำลังกายช่วยรักษาสมดุลร่างกาย",
+            "audio_src": "การออกกำลังกายช่วยรักษาสม‌ดุลร่างกาย",
             "audio_en_src": "Exercise helps maintain the body's balance."
           },
           {
             "thai": "เขาพยายามสร้างสมดุลระหว่างงานกับชีวิต",
+            "thai_tts": "เขาพยายามสร้างสม‌ดุลระหว่างงานกับชีวิต",
             "en": "He tries to create a balance between work and life.",
-            "audio_src": "เขาพยายามสร้างสมดุลระหว่างงานกับชีวิต",
+            "audio_src": "เขาพยายามสร้างสม‌ดุลระหว่างงานกับชีวิต",
             "audio_en_src": "He tries to create a balance between work and life."
           }
         ]
       }
-    ]
+    ],
+    "audio_src": "สม‌ดุล"
   },
   {
     "id": "chula-l6-056",
